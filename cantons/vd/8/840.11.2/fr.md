@@ -4,7 +4,7 @@ number: "840.11.2"
 title: "RÈGLEMENT du 24.07.1991 sur les conditions d'occupation des logements construits ou rénovés avec l'appui financier des pouvoirs publics (RCOL)"
 short: RCOL
 language: fr
-version: 2013-01-01
+version: 2025-03-19
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.2?id=42078ea5-c141-4105-bd28-8609025cd779"
 ---
 
@@ -193,18 +193,19 @@ Appartement de: 1 pièce 1 ou 2 personnes 2 pièces 1 à 3 personnes 3 pièces 2
 
 **Autorité compétente [^chapterChapitreII-1]**
 
-<sup>1</sup> Le service est l'autorité compétente pour statuer sur les candidatures des locataires ou les demandes d'autorisation de sous-louer et prendre les mesures qu'impose la modification de la situation des locataires. Il peut déléguer ces compétences aux offices communaux du logement (cf. annexe).
+<sup>1</sup> Le service est l'autorité compétente pour statuer sur les candidatures des locataires ou les demandes d'autorisation de sous-louer et prendre les mesures qu'impose la modification de la situation des locataires et sous-locataires. Il peut déléguer ces compétences aux offices communaux du logement.
 
-<sup>2</sup> Les offices communaux du logement auxquels une délégation de compétence a été accordée communiquent au service une copie des décisions prises en application des articles 11 et 23 du règlement.
+<sup>1bis</sup> Les communes sans délégation de compétences qui ont édicté des règles communales spéciales approuvées par le canton en application de l'art. 12 sont compétentes pour statuer sur les candidatures des locataires pour les logements avec aide à la pierre dégressive cantonale et communale. Leur décision favorable est une condition préalable à l'examen de la candidature par le service.
 
-<sup>3</sup> La procédure de demande pour les prestations circonstancielles prévue dans le règlement d'application de la loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises [^14-1] est applicable.
+<sup>2</sup> ...
+
+<sup>3</sup> ...
 
 [^chapterChapitreII-1]: Modif. 1 du 17.01.2007: Modification Art. 14; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Introduction Al. 3; entrée en vigueur au 01.01.2013 · Modif. 3 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025; Introduction Al. 1bis; entrée en vigueur au 19.03.2025; Abrogation Al. 2-3; entrée en vigueur au 19.03.2025
-[^14-1]: Règlement du 30.05.2012 d’application de la loi du 9 novembre 2010 sur l’harmonisation et la coordination de l’octroi des prestations sociales et d’aide à la formation et au logement cantonales vaudoises ([BLV 850.03.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03.1?id=04227fb8-f6a7-4c4c-836e-eb287c7e95ab))
 
 #### Art. 15
 
-**Présentation de la requête [^14-2]**
+**Présentation de la requête [^14-1]**
 
 <sup>1</sup> La proposition de location est présentée par le bailleur. Celui-ci se charge également de transmettre la demande d'autorisation de sous-louer formulée par le locataire, lequel est tenu de présenter, par l'intermédiaire du bailleur, une nouvelle demande à chaque changement de sous-locataire.
 
@@ -212,7 +213,7 @@ Appartement de: 1 pièce 1 ou 2 personnes 2 pièces 1 à 3 personnes 3 pièces 2
 
 <sup>3</sup> Quand le logement se trouve dans une commune qui participe à l'abaissement des loyers, mais n'est pas au bénéfice d'une délégation de compétence selon l'article 14 du présent règlement, le bailleur doit adresser la proposition ou la demande à la commune qui la fera parvenir au service avec son préavis.
 
-[^14-2]: Modif. 1 du 17.01.2007: Modification Al. 3; entrée en vigueur au 01.03.2007
+[^14-1]: Modif. 1 du 17.01.2007: Modification Al. 3; entrée en vigueur au 01.03.2007
 
 #### Art. 16
 
@@ -228,14 +229,14 @@ Appartement de: 1 pièce 1 ou 2 personnes 2 pièces 1 à 3 personnes 3 pièces 2
 
 #### Art. 18
 
-**Contenu et communication de la décision [^17-1]**
+**Décision [^17-1]**
 
-<sup>1</sup> La décision est communiquée par l'autorité compétente ou par l'autorité de préavis:
+<sup>1</sup> La décision est communiquée par l'autorité compétente :
 
 - a. sous pli simple, au bailleur seul lorsque le candidat locataire remplit les conditions définies dans le présent règlement ou au bailleur et au locataire lorsque la sous-location est autorisée. La notification au locataire peut également intervenir par l'intermédiaire du bailleur;
-- b. sous pli recommandé, au bailleur et au candidat locataire lorsque les conditions ne sont pas réunies ou au bailleur, au locataire et au candidat sous-locataire lorsque la sous-location n'est pas autorisée. Elle précise en outre la voie, le mode et le délai de recours. La notification au candidat locataire ou au locataire et au candidat sous-locataire peut également intervenir par l'intermédiaire du bailleur.
+- b. sous pli recommandé, au bailleur et au candidat locataire lorsque les conditions ne sont pas réunies ou au bailleur, au locataire et au candidat sous-locataire lorsque la sous-location n'est pas autorisée.
 
-[^17-1]: Modif. 3 du 19.03.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 19.03.2025; Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025; Modification Al. 1, b; entrée en vigueur au 19.03.2025
+[^17-1]: Modif. 3 du 19.03.2025: Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025; Modification Al. 1, b; entrée en vigueur au 19.03.2025
 
 #### Art. 19
 
@@ -339,37 +340,35 @@ Appartement de: 1 pièce 1 ou 2 personnes 2 pièces 1 à 3 personnes 3 pièces 2
 
 [^29-1]: Modif. 3 du 19.03.2025: Modification ; entrée en vigueur au 19.03.2025
 
-## Chapitre IV Recours et sanctions
+## Chapitre IV Réclamation et sanctions
 
 [^29-1]
 
 [^chapterChapitreIV-1]: Modif. 3 du 19.03.2025: Modification ; entrée en vigueur au 19.03.2025
 
-### Section I Recours
+### Section I Réclamation
 
 [^chapterChapitreIV-1]
 
 #### Art. 30
 
-**Décisions des offices communaux du logement [^sectionSectionI-2]**
+**Décisions communales [^sectionSectionI-2]**
 
-<sup>1</sup> Les décisions des offices communaux du logement qui agissent en vertu de l'article 14 peuvent faire l'objet d'un recours adressé, dans les 30 jours dès leur communication, à l'autorité dont ceux-ci dépendent. La loi sur la procédure administrative [^30-1] est applicable.
+<sup>1</sup> Les décisions communales en application de ce règlement peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
 <sup>2</sup> …
 
-[^sectionSectionI-2]: Modif. 1 du 17.01.2007: Modification Art. 30; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013; Abrogation Al. 2; entrée en vigueur au 01.01.2013 · Modif. 3 du 19.03.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 19.03.2025; Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
-[^30-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^sectionSectionI-2]: Modif. 1 du 17.01.2007: Modification Art. 30; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013; Abrogation Al. 2; entrée en vigueur au 01.01.2013 · Modif. 3 du 19.03.2025: Modification tArt; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
 
 #### Art. 31
 
-**Décisions du service [^30-2]**
+**Décisions du service [^30-1]**
 
-<sup>1</sup> Les décisions du service peuvent faire l'objet d'un recours auprès du département dans les 30 jours dès leur communication. La loi sur la procédure administrative [^31-1] est applicable.
+<sup>1</sup> Les décisions du service peuvent faire l'objet d'une réclamation dans les 30 jours dès leur notification. La loi sur la procédure administrative est applicable.
 
 <sup>2</sup> …
 
-[^30-2]: Modif. 1 du 17.01.2007: Modification Al. t,1; entrée en vigueur au 01.03.2007; Abrogation Al. 2; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 3 du 19.03.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 19.03.2025; Modification Al. 1; entrée en vigueur au 19.03.2025
-[^31-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^30-1]: Modif. 1 du 17.01.2007: Modification Al. t,1; entrée en vigueur au 01.03.2007; Abrogation Al. 2; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 3 du 19.03.2025: Modification Al. 1; entrée en vigueur au 19.03.2025
 
 ### Section II Sanctions
 
@@ -414,4 +413,4 @@ Annexes
 
 1
 
-[pdf-840.11.2.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/42078ea5-c141-4105-bd28-8609025cd779/annexes/1?dmev=01.01.2013)
+[pdf-840.11.2.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/42078ea5-c141-4105-bd28-8609025cd779/annexes/1?dmev=19.03.2025)
