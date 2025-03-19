@@ -4,11 +4,11 @@ title: Accord du 30 septembre 1957 relatif au transport international des marcha
 short: ADR
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249"
 language: fr
-version: 2025-01-01
+version: 2025-03-20
 adopted: 1957-09-30
 in_force: 1972-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20250320-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20250320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -23,7 +23,7 @@ Texte original
 
 Conclu à Genève le 30 septembre 1957 Approuvé par l’Assemblée fédérale le 4 décembre 1969[^t-2] Instrument de ratification déposé le 20 juin 1972 Entré en vigueur pour la Suisse le 20 juillet 1972 Annexes A et B amendées les 29 janvier 1968, 26 octobre 1970 et le 30 décembre 1971
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 20 mars 2025)
 
 [^t-1]: Erratum du 23 fév. 2022 ([RO 2022 127](https://fedlex.data.admin.ch/eli/oc/2022/127)).
 [^t-2]: [RO 1972 1081](https://fedlex.data.admin.ch/eli/oc/1972/1069_1081_1245)
@@ -137,10 +137,12 @@ Les pays membres de la Commission économique pour l’Europe et les pays admis 
 
 <sup>2.</sup> Le Secrétaire général communiquera à toutes les Parties contractantes et portera à la connaissance des autres pays visés au par. 1 de l’art. 6 toute proposition faite conformément au par. 1 du présent article.
 
-3.[^14-1] Tout projet d’amendement aux annexes sera réputé accepté à moins que, dans le délai de trois mois à compter de la date à laquelle le Secrétaire général l’a transmis, le tiers au moins des Parties contractantes, ou cinq d’entre elles si le tiers est supérieur à ce chiffre, n’aient notifié par écrit au Secrétaire général leur opposition à l’amendement proposé. Si l’amendement est réputé accepté, il entrera en vigueur pour toutes les Parties contractantes à l’expiration d’un nouveau délai qui sera de trois mois, sauf dans les cas ci-après:
+<sup>3.</sup>
+
+Tout projet d’amendement aux annexes sera réputé accepté à moins que, dans le délai de trois mois à compter de la date à laquelle le Secrétaire général l’a transmis, le tiers au moins des Parties contractantes, ou cinq d’entre elles si le tiers est supérieur à ce chiffre, n’aient notifié par écrit au Secrétaire général leur opposition à l’amendement proposé. Si l’amendement est réputé accepté, il entrera en vigueur pour toutes les Parties contractantes à l’expiration d’un nouveau délai qui sera de trois mois, sauf dans les cas ci-après:
 
 - a) au cas où des amendements analogues ont été apportés ou seront vraisemblablement apportés aux autres accords internationaux visés au par. 1 du présent article, l’amendement entrera en vigueur à l’expiration d’un délai qui sera fixé par le Secrétaire général de façon à permettre dans toute la mesure du possible l’entrée en vigueur simultanée dudit amendement et de ceux qui ont été ou seront vraisemblablement apportés à ces autres accords; le délai ne pourra, toutefois, être inférieur à un mois;
-- b) la Partie contractante qui soumet le projet d’amendement pourra spécifier dans sa proposition un délai d’une durée supérieure à trois mois pour l’entrée en vigueur de l’amendement au cas où il serait accepté.
+- b) la Partie contractante qui soumet le projet d’amendement pourra spécifier dans sa proposition un délai d’une durée supérieure à trois mois pour l’entrée en vigueur de l’amendement au cas où il serait accepté.[^14-1]
 
 <sup>4.</sup> Le Secrétaire général communiquera le plus tôt possible à toutes les Parties contractantes et à tous les pays visés au par. 1 de l’art. 6 toute objection reçue des Parties contractantes contre un amendement proposé.
 
@@ -193,7 +195,7 @@ Annexes A et B[^t-3]
 
 [^t-3]: Le contenu des annexes A et B est publié dans le RO et le RS uniquement sous forme de renvoi (RO **1972** 1093, 1382; [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339); [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843), [1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395); [1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607); [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441); [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494); [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625); [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486); [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191); [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422); [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115); [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102), [4363](https://fedlex.data.admin.ch/eli/oc/2002/712); [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800); [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16); [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716); [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485); [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803); [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794); [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636); [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617); [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785); [2022 869](https://fedlex.data.admin.ch/eli/oc/2022/869); [2024 632](https://fedlex.data.admin.ch/eli/oc/2024/632)). Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/632](https://fedlex.data.admin.ch/eli/oc/2024/632) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Champ d’application le 22 juillet 2022[^t-4]
+Champ d’application le 20 mars 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -232,6 +234,7 @@ Champ d’application le 22 juillet 2022[^t-4]
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>18 novembre</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>5 février</td><td>1976 A</td><td>5 mars</td><td>1976</td></tr>
+<tr><td>Ouganda</td><td>23 août</td><td>2022 A</td><td>23 septembre</td><td>2022</td></tr>
 <tr><td>Ouzbékistan</td><td>24 janvier</td><td>2020 A</td><td>24 février</td><td>2020</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1963</td><td>29 janvier</td><td>1968</td></tr>
 <tr><td>Pologne</td><td>6 mai</td><td>1975 A</td><td>6 juin</td><td>1975</td></tr>
@@ -253,4 +256,4 @@ Champ d’application le 22 juillet 2022[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-4]: RO **1975** 1627; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365); [2022 429](https://fedlex.data.admin.ch/eli/oc/2022/429). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-4]: [RO 1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607); [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365); [2022 429](https://fedlex.data.admin.ch/eli/oc/2022/429); [2025 200](https://fedlex.data.admin.ch/eli/oc/2025/200). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
