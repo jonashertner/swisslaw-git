@@ -3,24 +3,26 @@ sr: "0.451.41"
 title: Convenzione del 23 novembre 1972 per la protezione del patrimonio mondiale culturale e naturale
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223"
 language: it
-version: 2020-04-07
+version: 2025-03-20
 adopted: 1972-11-23
 in_force: 1975-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20200407/it/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20200407-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20200407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20250320/it/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20250320-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20250320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione per la protezione del patrimonio mondiale culturale e naturale
 
+RU **1975** 2223; FF **1974** II 541
+
 Traduzione
 
 Conchiusa a Parigi il 23 novembre 1972 Approvata dall’Assemblea federale il 19 giugno 1975[^t-1] Istrumento di ratificazione depositato il 17 settembre 1975 Entrata in vigore per la Svizzera il 17 dicembre 1975
 
-(Stato 7 aprile 2020)
+(Stato 20 marzo 2025)
 
-[^t-1]: RU **1975** 2223; FF **1974** II 541 Art. 1 cpv. 1 del DF del 19 giu. 1975 (RU **1975** 2221).
+[^t-1]: Art. 1 cpv. 1 del DF del 19 giu. 1975 ([RU 1975 2221](https://fedlex.data.admin.ch/eli/oc/1975/2221_2221_2221)).
 
 La Conferenza generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, riunita a Parigi dal 17 ottobre al 21 novembre 1972 in diciassettesima sessione,
 
@@ -337,7 +339,7 @@ Fatto a Parigi, il ventitrè novembre 1972, in due esemplari autentici firmati d
 
 [^38-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-Campo d’applicazione il 7 aprile 2020[^t-2]
+Campo d’applicazione il 20 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -466,6 +468,7 @@ Campo d’applicazione il 7 aprile 2020[^t-2]
 <tr><td>Mozambico</td><td>27 novembre</td><td>1982</td><td>27 febbraio</td><td>1983</td></tr>
 <tr><td>Myanmar</td><td>29 aprile</td><td>1994</td><td>29 luglio</td><td>1994</td></tr>
 <tr><td>Namibia</td><td>6 aprile</td><td>2000</td><td>6 luglio</td><td>2000</td></tr>
+<tr><td>Nauru</td><td>22 luglio</td><td>2024</td><td>22 ottobre</td><td>2024</td></tr>
 <tr><td>Nepal</td><td>20 giugno</td><td>1978</td><td>20 settembre</td><td>1978</td></tr>
 <tr><td>Nicaragua</td><td>17 dicembre</td><td>1979</td><td>17 marzo</td><td>1980</td></tr>
 <tr><td>Niger</td><td>23 dicembre</td><td>1974</td><td>17 dicembre</td><td>1975</td></tr>
@@ -523,6 +526,7 @@ Campo d’applicazione il 7 aprile 2020[^t-2]
 <tr><td>Siria</td><td>14 agosto</td><td>1975</td><td>17 dicembre</td><td>1975</td></tr>
 <tr><td>Slovacchia</td><td>31 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>5 novembre</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>23 luglio</td><td>2020</td><td>23 ottobre</td><td>2020</td></tr>
 <tr><td>Spagna</td><td>4 maggio</td><td>1982</td><td>4 agosto</td><td>1982</td></tr>
 <tr><td>Sri Lanka</td><td>6 giugno</td><td>1980</td><td>6 settembre</td><td>1980</td></tr>
 <tr><td>Stati Uniti <sup>a</sup></td><td>7 dicembre</td><td>1973</td><td>17 dicembre</td><td>1975</td></tr>
@@ -542,6 +546,7 @@ Campo d’applicazione il 7 aprile 2020[^t-2]
 <tr><td>Tunisia</td><td>10 marzo</td><td>1975</td><td>17 dicembre</td><td>1975</td></tr>
 <tr><td>Turchia</td><td>16 marzo</td><td>1983</td><td>16 giugno</td><td>1983</td></tr>
 <tr><td>Turkmenistan</td><td>30 settembre</td><td>1994 S</td><td>26 dicembre</td><td>1991</td></tr>
+<tr><td>Tuvalu</td><td>18 maggio</td><td>2023</td><td>18 agosto</td><td>2023</td></tr>
 <tr><td>Ucraina</td><td>12 ottobre</td><td>1988</td><td>12 gennaio</td><td>1989</td></tr>
 <tr><td>Uganda</td><td>20 novembre</td><td>1987</td><td>20 febbraio</td><td>1988</td></tr>
 <tr><td>Ungheria</td><td>15 luglio</td><td>1985</td><td>15 ottobre</td><td>1985</td></tr>
@@ -553,10 +558,7 @@ Campo d’applicazione il 7 aprile 2020[^t-2]
 <tr><td>Yemen</td><td>7 ottobre</td><td>1980</td><td>7 gennaio</td><td>1981</td></tr>
 <tr><td>Zambia</td><td>4 giugno</td><td>1984</td><td>4 settembre</td><td>1984</td></tr>
 <tr><td>Zimbabwe</td><td>16 agosto</td><td>1982</td><td>16 novembre</td><td>1982</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Questo Stato partecipante non si considera vincolato dalle disposizioni dell’art. 16 par. 1 della Conv.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dal 29 ago. 1984 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 9 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Dal 30 lug. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 11 ott. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [https://www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage](https://www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato partecipante non si considera vincolato dalle disposizioni dell’art. 16 par. 1 della Conv. <sup>b</sup> Dal 29 ago. 1984 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 9 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>c</sup> Dal 30 lug. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 11 ott. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223), [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305), [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672), [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552), [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252)[1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312), [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141), [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230), [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743), [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514), [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840), [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183), [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300), [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545), [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502), [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303), [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370), [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591)e [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223); [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305); [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672); [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552); [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252), [1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312); [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141); [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230); [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743); [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514); [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840); [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183); [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300); [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545); [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502); [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303); [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370); [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591); [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247); [2025 218](https://fedlex.data.admin.ch/eli/oc/2025/218). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty.](https://www.fedlex.admin.ch/it/treaty.)

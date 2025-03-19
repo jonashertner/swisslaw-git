@@ -3,11 +3,11 @@ sr: "0.451.41"
 title: Übereinkommen vom 23. November 1972 zum Schutz des Kultur- und Naturgutes der Welt
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223"
 language: de
-version: 2020-04-07
+version: 2025-03-20
 adopted: 1972-11-23
 in_force: 1975-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20200407/de/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20200407-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20200407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20250320/de/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20250320-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20250320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1975** 2223; BBl **1974** II 549
 
 Abgeschlossen in Paris am 23. November 1972 Von der Bundesversammlung genehmigt am 19. Juni 1975[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 17. September 1975 In Kraft getreten für die Schweiz am 17. Dezember 1975
 
-(Stand am 7. April 2020)
+(Stand am 20. März 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 19. Juni 1975 ([AS 1975 2221](https://fedlex.data.admin.ch/eli/oc/1975/2221_2221_2221))
 
@@ -333,7 +333,7 @@ Auf Ersuchen des Generaldirektors der Organisation der Vereinten Nationen für E
 
 Geschehen zu Paris am dreiundzwanzigsten November 1972 in zwei authentischen Ausfertigungen, die mit den Unterschriften des Präsidenten der 17. Tagung der Generalkonferenz und des Generaldirektors der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur versehen sind und im Archiv der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur hinterlegt werden; allen in den Artikeln 3 1 und 3 2 bezeichneten Staaten sowie den Vereinten Nationen werden beglaubigte Abschriften übermittelt. Der Präsident der Generalkonferenz: Toru Haguiwara Der Generaldirektor: René Maheu
 
-Geltungsbereich am 7. April 2020**[^t-2]**
+Geltungsbereich am 20. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -457,6 +457,7 @@ Geltungsbereich am 7. April 2020**[^t-2]**
 <tr><td>Mosambik</td><td>27. November</td><td>1982</td><td>27. Februar</td><td>1983</td></tr>
 <tr><td>Myanmar</td><td>29. April</td><td>1994</td><td>29. Juli</td><td>1994</td></tr>
 <tr><td>Namibia</td><td>6. April</td><td>2000</td><td>6. Juli</td><td>2000</td></tr>
+<tr><td>Nauru</td><td>22. Juli</td><td>2024</td><td>22. Oktober</td><td>2024</td></tr>
 <tr><td>Nepal</td><td>20. Juni</td><td>1978</td><td>20. September</td><td>1978</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>22. November</td><td>1984</td><td>22. Februar</td><td>1985</td></tr>
 <tr><td>Nicaragua</td><td>17. Dezember</td><td>1979</td><td>17. März</td><td>1980</td></tr>
@@ -501,6 +502,7 @@ Geltungsbereich am 7. April 2020**[^t-2]**
 <tr><td>Singapur</td><td>19. Juni</td><td>2012 B</td><td>19. September</td><td>2012</td></tr>
 <tr><td>Slowakei</td><td>31. März</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>5. November</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>23. Juli</td><td>2020</td><td>23. Oktober</td><td>2020</td></tr>
 <tr><td>Spanien</td><td>4. Mai</td><td>1982</td><td>4. August</td><td>1982</td></tr>
 <tr><td>Sri Lanka</td><td>6. Juni</td><td>1980</td><td>6. September</td><td>1980</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>10. Juli</td><td>1986</td><td>10. Oktober</td><td>1986</td></tr>
@@ -523,6 +525,7 @@ Geltungsbereich am 7. April 2020**[^t-2]**
 <tr><td>Tunesien</td><td>10. März</td><td>1975</td><td>17. Dezember</td><td>1975</td></tr>
 <tr><td>Türkei</td><td>16. März</td><td>1983</td><td>16. Juni</td><td>1983</td></tr>
 <tr><td>Turkmenistan</td><td>30. September</td><td>1994 N</td><td>26. Dezember</td><td>1991</td></tr>
+<tr><td>Tuvalu</td><td>18. Mai</td><td>2023</td><td>18. August</td><td>2023</td></tr>
 <tr><td>Uganda</td><td>20. November</td><td>1987</td><td>20. Februar</td><td>1988</td></tr>
 <tr><td>Ukraine</td><td>12. Oktober</td><td>1988</td><td>12. Januar</td><td>1989</td></tr>
 <tr><td>Ungarn</td><td>15. Juli</td><td>1985</td><td>15. Oktober</td><td>1985</td></tr>
@@ -549,10 +552,10 @@ Geltungsbereich am 7. April 2020**[^t-2]**
 <tr><td>Vietnam</td><td>19. Oktober</td><td>1987</td><td>19. Januar</td><td>1988</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>22. Dezember</td><td>1980</td><td>22. März</td><td>1981</td></tr>
 <tr><td>Zypern</td><td>13. August</td><td>1975</td><td>17. Dezember</td><td>1975</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage](https://www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dieser Vertragsstaat betrachtet sich durch die Bestimmungen des Art. 16 Abs. 1 des Übereink. nicht als gebunden.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Vom 29. Aug. 1984 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 9. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Vom 30. Juli 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 11. Okt. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223), [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305), [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672), [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552), [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252)[1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312), [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141), [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230), [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743), [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514), [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840), [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183), [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300), [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545), [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502), [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303), [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370), [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591), [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223); [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305); [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672); [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552); [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252), [1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312); [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141); [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230); [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743); [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514); [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840); [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183); [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300); [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545); [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502); [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303); [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370); [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591); [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247); [2025 2018](https://fedlex.data.admin.ch/eli/oc/2025/2018). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

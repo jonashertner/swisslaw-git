@@ -3,11 +3,11 @@ sr: "0.451.41"
 title: Convention du 23 novembre 1972 pour la protection du patrimoine mondial culturel et naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223"
 language: fr
-version: 2020-04-07
+version: 2025-03-20
 adopted: 1972-11-23
 in_force: 1975-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20200407/fr/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20200407-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20200407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-1975-2223_2223_2223-20250320-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/2223_2223_2223/20250320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 17 septembre 1975
 
 Entrée en vigueur pour la Suisse le 17 décembre 1975
 
-(Etat le 7 avril 2020)
+(État le 20 mars 2025)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 19 juin 1975 ([RO 1975 2221](https://fedlex.data.admin.ch/eli/oc/1975/2221_2221_2221))
 
@@ -345,7 +345,7 @@ Fait à Paris, ce vingt‑troisième jour de novembre 1972, en deux exemplaires 
 
 [^38-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-Champ d’application le 7 avril 2020**[^t-2]**
+Champ d’application le 20 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -431,6 +431,7 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Hongrie</td><td>15 juillet</td><td>1985</td><td>15 octobre</td><td>1985</td></tr>
 <tr><td>Îles Cook</td><td>16 janvier</td><td>2009</td><td>16 avril</td><td>2009</td></tr>
 <tr><td>Îles Marshall</td><td>24 avril</td><td>2002</td><td>24 juillet</td><td>2002</td></tr>
+<tr><td>Îles Salomon</td><td>10 juin</td><td>1992</td><td>10 septembre</td><td>1992</td></tr>
 <tr><td>Inde</td><td>14 novembre</td><td>1977</td><td>14 février</td><td>1978</td></tr>
 <tr><td>Indonésie</td><td>6 juillet</td><td>1989</td><td>6 octobre</td><td>1989</td></tr>
 <tr><td>Iran</td><td>26 février</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
@@ -474,6 +475,7 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Mozambique</td><td>27 novembre</td><td>1982</td><td>27 février</td><td>1983</td></tr>
 <tr><td>Myanmar</td><td>29 avril</td><td>1994</td><td>29 juillet</td><td>1994</td></tr>
 <tr><td>Namibie</td><td>6 avril</td><td>2000</td><td>6 juillet</td><td>2000</td></tr>
+<tr><td>Nauru</td><td>22 juillet</td><td>2024</td><td>22 octobre</td><td>2024</td></tr>
 <tr><td>Népal</td><td>20 juin</td><td>1978</td><td>20 septembre</td><td>1978</td></tr>
 <tr><td>Nicaragua</td><td>17 décembre</td><td>1979</td><td>17 mars</td><td>1980</td></tr>
 <tr><td>Niger</td><td>23 décembre</td><td>1974</td><td>17 décembre</td><td>1975</td></tr>
@@ -525,7 +527,6 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Saint-Marin</td><td>18 octobre</td><td>1991</td><td>18 janvier</td><td>1992</td></tr>
 <tr><td>Saint-Siège <sup>a</sup></td><td>7 octobre</td><td>1982 A</td><td>7 janvier</td><td>1983</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>3 février</td><td>2003</td><td>3 mai</td><td>2003</td></tr>
-<tr><td>Salomon, Îles</td><td>10 juin</td><td>1992</td><td>10 septembre</td><td>1992</td></tr>
 <tr><td>Samoa</td><td>28 août</td><td>2001 A</td><td>28 novembre</td><td>2001</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>25 juillet</td><td>2006</td><td>25 octobre</td><td>2006</td></tr>
 <tr><td>Sénégal</td><td>13 février</td><td>1976</td><td>13 mai</td><td>1976</td></tr>
@@ -535,6 +536,7 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Singapour</td><td>19 juin</td><td>2012 A</td><td>19 septembre</td><td>2012</td></tr>
 <tr><td>Slovaquie</td><td>31 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>5 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Somalie</td><td>23 juillet</td><td>2020</td><td>23 octobre</td><td>2020</td></tr>
 <tr><td>Soudan</td><td>6 juin</td><td>1974</td><td>17 décembre</td><td>1975</td></tr>
 <tr><td>Soudan du Sud\*</td><td>9 mars</td><td>2016</td><td>9 juin</td><td>2016</td></tr>
 <tr><td>Sri Lanka</td><td>6 juin</td><td>1980</td><td>6 septembre</td><td>1980</td></tr>
@@ -553,6 +555,7 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Tunisie</td><td>10 mars</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
 <tr><td>Turkménistan</td><td>30 septembre</td><td>1994 S</td><td>26 décembre</td><td>1991</td></tr>
 <tr><td>Turquie</td><td>16 mars</td><td>1983</td><td>16 juin</td><td>1983</td></tr>
+<tr><td>Tuvalu</td><td>18 mai</td><td>2023</td><td>18 août</td><td>2023</td></tr>
 <tr><td>Ukraine</td><td>12 octobre</td><td>1988</td><td>12 janvier</td><td>1989</td></tr>
 <tr><td>Uruguay</td><td>9 mars</td><td>1989</td><td>9 juin</td><td>1989</td></tr>
 <tr><td>Vanuatu</td><td>13 juin</td><td>2002</td><td>13 septembre</td><td>2002</td></tr>
@@ -561,7 +564,7 @@ Champ d’application le 7 avril 2020**[^t-2]**
 <tr><td>Yémen</td><td>7 octobre</td><td>1980</td><td>7 janvier</td><td>1981</td></tr>
 <tr><td>Zambie</td><td>4 juin</td><td>1984</td><td>4 septembre</td><td>1984</td></tr>
 <tr><td>Zimbabwe</td><td>16 août</td><td>1982</td><td>16 novembre</td><td>1982</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie ne se considère pas lié par les dispositions de l’art. 16 par. 1 de la Convention. <sup>b</sup> Du 29 août 1984 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 9 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> Du 30 juillet 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 11 oct. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage](https://www.unesco.org/fr/legal-affairs/convention-concerning-protection-world-cultural-and-natural-heritage) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie ne se considère pas lié par les dispositions de l’art. 16 par. 1 de la Convention. <sup>b</sup> Du 29 août 1984 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 9 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> Du 30 juillet 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 11 oct. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223), [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305), [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672), [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552), [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252)[1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312), [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141), [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230), [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743), [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514), [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840), [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183), [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300), [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545), [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502), [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303), [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370), [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591), [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1975 2223](https://fedlex.data.admin.ch/eli/oc/1975/2223_2223_2223); [1978 305](https://fedlex.data.admin.ch/eli/oc/1978/305_305_305); [1980 672](https://fedlex.data.admin.ch/eli/oc/1980/672_672_672); [1981 552](https://fedlex.data.admin.ch/eli/oc/1981/552_552_552); [1982 252](https://fedlex.data.admin.ch/eli/oc/1982/252_252_252), [1312](https://fedlex.data.admin.ch/eli/oc/1982/1312_1312_1312); [1983 141](https://fedlex.data.admin.ch/eli/oc/1983/141_141_141); [1984 230](https://fedlex.data.admin.ch/eli/oc/1984/230_230_230); [1985 743](https://fedlex.data.admin.ch/eli/oc/1985/743_743_743); [1986 514](https://fedlex.data.admin.ch/eli/oc/1986/514_514_514); [1987 840](https://fedlex.data.admin.ch/eli/oc/1987/840_840_840); [1989 183](https://fedlex.data.admin.ch/eli/oc/1989/183_183_183); [1990 1300](https://fedlex.data.admin.ch/eli/oc/1990/1300_1300_1300); [2004 3899](https://fedlex.data.admin.ch/eli/oc/2004/545); [2006 3269](https://fedlex.data.admin.ch/eli/oc/2006/502); [2010 2187](https://fedlex.data.admin.ch/eli/oc/2010/303); [2013 1593](https://fedlex.data.admin.ch/eli/oc/2013/370); [2016 3531](https://fedlex.data.admin.ch/eli/oc/2016/591); [2020 1323](https://fedlex.data.admin.ch/eli/oc/2020/247); [2025 218](https://fedlex.data.admin.ch/eli/oc/2025/218). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
