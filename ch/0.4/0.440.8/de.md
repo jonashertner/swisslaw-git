@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Übereinkommen vom 20. Oktober 2005 über den Schutz und die Förderung der Vielfalt kultureller Ausdrucksformen (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: de
-version: 2024-07-29
+version: 2025-03-20
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240729/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240729-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240729/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2008** 4823; BBl **2007** 7297
 
 Abgeschlossen in Paris am 20. Oktober 2005 Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 2008 In Kraft getreten für die Schweiz am 16. Oktober 2008
 
-(Stand am 29. Juli 2024)
+(Stand am 20. März 2025)
 
 [^t-1]: [AS 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -609,7 +609,7 @@ Die Vergleichskommission entscheidet mit der Mehrheit ihrer Mitglieder. Sofern d
 
 Bei Uneinigkeit darüber, ob die Vergleichskommission zuständig ist, entscheidet die Kommission.
 
-Geltungsbereich am 29. Juli 2024[^t-2]
+Geltungsbereich am 20. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -623,7 +623,7 @@ Geltungsbereich am 29. Juli 2024[^t-2]
 <tr><td>Äquatorialguinea</td><td>17. Juni</td><td>2010</td><td>17. September</td><td>2010</td></tr>
 <tr><td>Argentinien\*</td><td>7. Mai</td><td>2008</td><td>7. August</td><td>2008</td></tr>
 <tr><td>Armenien</td><td>27. Februar</td><td>2007 B</td><td>27. Mai</td><td>2007</td></tr>
-<tr><td>Aserbaidschan</td><td>15. Februar</td><td>2010 B</td><td>15. Mai</td><td>2010</td></tr>
+<tr><td>Aserbaidschan\*</td><td>15. Februar</td><td>2010 B</td><td>15. Mai</td><td>2010</td></tr>
 <tr><td>Äthiopien</td><td>2. September</td><td>2008</td><td>2. Dezember</td><td>2008</td></tr>
 <tr><td>Australien\*</td><td>18. September</td><td>2009 B</td><td>18. Dezember</td><td>2009</td></tr>
 <tr><td>Bahamas</td><td>29. Dezember</td><td>2014</td><td>29. März</td><td>2015</td></tr>
@@ -734,6 +734,8 @@ Geltungsbereich am 29. Juli 2024[^t-2]
 <tr><td>Rumänien</td><td>20. Juli</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Sambia</td><td>11. Juli</td><td>2023 B</td><td>11. Oktober</td><td>2023</td></tr>
 <tr><td>Samoa</td><td>23. Oktober</td><td>2015 B</td><td>23. Januar</td><td>2016</td></tr>
+<tr><td>San Marino</td><td>10. Dezember</td><td>2024 B</td><td>10. März</td><td>2025</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>3. Oktober</td><td>2024</td><td>3. Oktober</td><td>2025</td></tr>
 <tr><td>Saudi-Arabien</td><td>22. April</td><td>2024 B</td><td>22. Juli</td><td>2024</td></tr>
 <tr><td>Schweden</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Schweiz</td><td>16. Juli</td><td>2008</td><td>16. Oktober</td><td>2008</td></tr>
@@ -772,7 +774,7 @@ Geltungsbereich am 29. Juli 2024[^t-2]
 <tr><td>Vietnam\*</td><td>7. August</td><td>2007</td><td>7. November</td><td>2007</td></tr>
 <tr><td>Vereinigte Arabische Emirate\*</td><td>6. Juni</td><td>2012 B</td><td>6. September</td><td>2012</td></tr>
 <tr><td>Zypern</td><td>19. Dezember</td><td>2006</td><td>19. März</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

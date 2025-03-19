@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Convention du 20 octobre 2005 sur la protection et la promotion de la diversité des expressions culturelles (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: fr
-version: 2024-07-29
+version: 2025-03-20
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240729/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240729-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240729/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 juillet 2008
 
 Entrée en vigueur pour la Suisse le 16 octobre 2008
 
-(État le 29 juillet 2024)
+(État le 20 mars 2025)
 
 [^t-1]: [RO 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -613,7 +613,7 @@ La Commission de conciliation prend ses décisions à la majorité des voix de s
 
 En cas de désaccord au sujet de la compétence de la Commission de conciliation, celle-ci décide si elle est ou non compétente.
 
-Champ d’application le 29 juillet 2024[^t-2]
+Champ d’application le 20 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -630,7 +630,7 @@ Champ d’application le 29 juillet 2024[^t-2]
 <tr><td>Arménie</td><td>27 février</td><td>2007 A</td><td>27 mai</td><td>2007</td></tr>
 <tr><td>Australie\*</td><td>18 septembre</td><td>2009 A</td><td>18 décembre</td><td>2009</td></tr>
 <tr><td>Autriche</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
-<tr><td>Azerbaïdjan</td><td>15 février</td><td>2010 A</td><td>15 mai</td><td>2010</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>15 février</td><td>2010 A</td><td>15 mai</td><td>2010</td></tr>
 <tr><td>Bahamas</td><td>29 décembre</td><td>2014</td><td>29 mars</td><td>2015</td></tr>
 <tr><td>Bangladesh</td><td>31 mai</td><td>2007</td><td>31 août</td><td>2007</td></tr>
 <tr><td>Barbade</td><td>2 octobre</td><td>2008 A</td><td>2 janvier</td><td>2009</td></tr>
@@ -746,9 +746,11 @@ Champ d’application le 29 juillet 2024[^t-2]
 <tr><td>Royaume-Uni</td><td>7 décembre</td><td>2008</td><td>7 mars</td><td>2008</td></tr>
 <tr><td>Rwanda</td><td>16 juillet</td><td>2012</td><td>16 octobre</td><td>2012</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>26 avril</td><td>2016</td><td>26 juillet</td><td>2016</td></tr>
+<tr><td>Saint-Marin</td><td>10 décembre</td><td>2024 A</td><td>10 mars</td><td>2025</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>25 septembre</td><td>2009 A</td><td>25 décembre</td><td>2009</td></tr>
 <tr><td>Sainte-Lucie</td><td>1<sup>er</sup> février</td><td>2007</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
 <tr><td>Samoa</td><td>23 octobre</td><td>2015 A</td><td>23 janvier</td><td>2016</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>3 octobre</td><td>2024</td><td>3 octobre</td><td>2025</td></tr>
 <tr><td>Sénégal</td><td>7 novembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Serbie</td><td>2 juillet</td><td>2009</td><td>2 octobre</td><td>2009</td></tr>
 <tr><td>Seychelles</td><td>20 juin</td><td>2008 A</td><td>20 septembre</td><td>2008</td></tr>
@@ -776,7 +778,7 @@ Champ d’application le 29 juillet 2024[^t-2]
 <tr><td>Yémen</td><td>5 juin</td><td>2024</td><td>5 septembre</td><td>2024</td></tr>
 <tr><td>Zambie</td><td>11 juillet</td><td>2023 A</td><td>11 octobre</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>15 mai</td><td>2008</td><td>15 août</td><td>2008</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org](http://www.unesco.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: RO [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

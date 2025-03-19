@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Convenzione del 20 ottobre 2005 sulla protezione e la promozione della diversità delle espressioni culturali (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: it
-version: 2024-07-29
+version: 2025-03-20
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240729/it/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240729-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240729/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/it/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Parigi il 20 ottobre 2005 Approvata dall’Assemblea federale il 20 marzo 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 2008 Entrata in vigore per la Svizzera il 16 ottobre 2008
 
-(Stato 29 luglio 2024)
+(Stato 20 marzo 2025)
 
 [^t-1]: [RU 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -604,7 +604,7 @@ La Commissione di conciliazione adotta le sue decisioni alla maggioranza dei vot
 
 Nel caso di disaccordi riguardanti la competenza della Commissione di conciliazione, spetta alla Commissione stessa decidere in merito.
 
-Campo d’applicazione il 29 luglio 2024[^t-2]
+Campo d’applicazione il 20 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -617,6 +617,7 @@ Campo d’applicazione il 29 luglio 2024[^t-2]
 <tr><td>Arabia Saudita</td><td>22 aprile</td><td>2024 A</td><td>22 luglio</td><td>2024</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>7 maggio</td><td>2008</td><td>7 agosto</td><td>2008</td></tr>
 <tr><td>Armenia</td><td>27 febbraio</td><td>2007 A</td><td>27 maggio</td><td>2007</td></tr>
+<tr><td>Azerbaigian\*</td><td>15 febbraio</td><td>2010 A</td><td>15 maggio</td><td>2010</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>18 settembre</td><td>2009 A</td><td>18 dicembre</td><td>2009</td></tr>
 <tr><td>Austria</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Azerbaigian</td><td>15 febbraio</td><td>2010 A</td><td>15 maggio</td><td>2010</td></tr>
@@ -736,6 +737,7 @@ Campo d’applicazione il 29 luglio 2024[^t-2]
 <tr><td>Saint Lucia</td><td>1° febbraio</td><td>2007</td><td>1° maggio</td><td>2007</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>25 settembre</td><td>2009 A</td><td>25 dicembre</td><td>2009</td></tr>
 <tr><td>Samoa</td><td>23 ottobre</td><td>2015 A</td><td>23 gennaio</td><td>2016</td></tr>
+<tr><td>San Marino</td><td>10 dicembre</td><td>2024 A</td><td>10 marzo</td><td>2025</td></tr>
 <tr><td>Seicelle</td><td>20 giugno</td><td>2008 A</td><td>20 settembre</td><td>2008</td></tr>
 <tr><td>Senegal</td><td>7 novembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Serbia</td><td>2 luglio</td><td>2009</td><td>2 ottobre</td><td>2009</td></tr>
@@ -748,6 +750,7 @@ Campo d’applicazione il 29 luglio 2024[^t-2]
 <tr><td>Sudan del Sud</td><td>9 marzo</td><td>2016 A</td><td>9 giugno</td><td>2016</td></tr>
 <tr><td>Svezia</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td>16 luglio</td><td>2008</td><td>16 ottobre</td><td>2008</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>3 ottobre</td><td>2024</td><td>3 ottobre</td><td>2025</td></tr>
 <tr><td>Tagikistan</td><td>24 ottobre</td><td>2007</td><td>24 gennaio</td><td>2008</td></tr>
 <tr><td>Tanzania</td><td>18 ottobre</td><td>2011</td><td>18 gennaio</td><td>2012</td></tr>
 <tr><td>Timor Est</td><td>31 ottobre</td><td>2016 A</td><td>31 gennaio</td><td>2017</td></tr>
@@ -767,8 +770,8 @@ Campo d’applicazione il 29 luglio 2024[^t-2]
 <tr><td>Zambia</td><td>11 luglio</td><td>2023 A</td><td>11 ottobre</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>15 maggio</td><td>2008</td><td>15 agosto</td><td>2008</td></tr>
 <tr><td>Yemen</td><td>5 giugno</td><td>2024</td><td>5 settembre</td><td>2024</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, puo essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org](http://www.unesco.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale per Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
