@@ -3,11 +3,11 @@ sr: "0.192.110.931.2"
 title: Convenzione del 9 settembre 2002 sui privilegi e le immunità della Corte penale internazionale
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/665"
 language: it
-version: 2020-05-29
+version: 2025-03-20
 adopted: 2002-09-09
 in_force: 2012-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20200529/it/xml/fedlex-data-admin-ch-eli-cc-2012-665-20200529-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20200529/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20250320/it/xml/fedlex-data-admin-ch-eli-cc-2012-665-20250320-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20250320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Strumento di ratifica depositato dalla Svizzera il 25 settembre 2012
 
 Entrata in vigore per la Svizzera il 25 ottobre 2012
 
-(Stato 29 maggio 2020)
+(Stato 20 marzo 2025)
 
 Gli Stati Parte al presente Accordo,
 
@@ -486,7 +486,7 @@ L’originale del presente Accordo, i cui esemplari in lingua araba, cinese, ing
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. (Seguono le firme)
 
-Campo d’applicazione il 29 maggio 2020**[^t-1]**
+Campo d’applicazione il 20 marzo 2025[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -540,6 +540,7 @@ Campo d’applicazione il 29 maggio 2020**[^t-1]**
 <tr><td>Malta\*</td><td>21 settembre</td><td>2011 A</td><td>21 ottobre</td><td>2011</td></tr>
 <tr><td>Messico\*</td><td>26 settembre</td><td>2007 A</td><td>26 ottobre</td><td>2007</td></tr>
 <tr><td>Moldova\*</td><td>17 maggio</td><td>2017 A</td><td>16 giugno</td><td>2017</td></tr>
+<tr><td>Mongolia</td><td>25 aprile</td><td>2022</td><td>25 maggio</td><td>2022</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Namibia</td><td>29 gennaio</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
 <tr><td>Norvegia</td><td>10 settembre</td><td>2002</td><td>22 luglio</td><td>2004</td></tr>
@@ -584,13 +585,13 @@ Campo d’applicazione il 29 maggio 2020**[^t-1]**
 <tr><td>Uganda</td><td>21 gennaio</td><td>2009</td><td>20 febbraio</td><td>2009</td></tr>
 <tr><td>Ungheria</td><td>22 marzo</td><td>2006</td><td>21 aprile</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3 novembre</td><td>2006</td><td>3 dicembre</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Faeröer. <sup>b</sup> La Conv. non vale per il Tokelau.</td></tr>
 </table>
 
 ## Dichiarazione
 
-[^t-1]: [RU 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665), [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399), [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665), [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399), [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 **Svizzera**
 

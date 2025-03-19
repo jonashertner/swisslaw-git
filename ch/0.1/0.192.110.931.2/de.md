@@ -3,11 +3,11 @@ sr: "0.192.110.931.2"
 title: Übereinkommen vom 9. September 2002 über die Vorrechte und Immunitäten des Internationalen Strafgerichtshofs
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/665"
 language: de
-version: 2020-05-29
+version: 2025-03-20
 adopted: 2002-09-09
 in_force: 2012-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20200529/de/xml/fedlex-data-admin-ch-eli-cc-2012-665-20200529-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20200529/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20250320/de/xml/fedlex-data-admin-ch-eli-cc-2012-665-20250320-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20250320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2012** 5735
 
 Abgeschlossen in New York am 9. September 2002 Schweizerische Ratifikationsurkunde hinterlegt am 25. September 2012 In Kraft getreten für die Schweiz am 25. Oktober 2012
 
-(Stand am 29. Mai 2020)
+(Stand am 20. März 2025)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -482,7 +482,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Mai 2020**[^t-1]**
+Geltungsbereich am 20. März 2025[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -531,6 +531,7 @@ Geltungsbereich am 29. Mai 2020**[^t-1]**
 <tr><td>Malta\*</td><td>21. September</td><td>2011 B</td><td>21. Oktober</td><td>2011</td></tr>
 <tr><td>Mexiko\*</td><td>26. September</td><td>2007 B</td><td>26. Oktober</td><td>2007</td></tr>
 <tr><td>Moldau\*</td><td>17. Mai</td><td>2017 B</td><td>16. Juni</td><td>2017</td></tr>
+<tr><td>Mongolei</td><td>25. April</td><td>2022</td><td>25. Mai</td><td>2022</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Namibia</td><td>29. Januar</td><td>2004</td><td>22. Juli</td><td>2004</td></tr>
 <tr><td>Neuseeland\* <sup>b</sup></td><td>14. April</td><td>2004</td><td>22. Juli</td><td>2004</td></tr>
@@ -580,11 +581,11 @@ Geltungsbereich am 29. Mai 2020**[^t-1]**
 <tr><td>Turks- und Caicosinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>18. August</td><td>2005</td><td>17. September</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Abkommen findet keine Anwendung auf die Färöer Inseln. <sup>b</sup> Die Ratifikation findet keine Anwendung auf Tokelau solange die Regierung Neuseelands keine entsprechende Erklärung hinterlegt hat.</td></tr>
 </table>
 
-[^t-1]: [AS 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665), [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399), [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Erklärung
 
