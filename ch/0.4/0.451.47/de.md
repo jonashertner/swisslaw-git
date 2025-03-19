@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: Abkommen vom 15. August 1996 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: de
-version: 2022-12-29
+version: 2025-03-20
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20221229/de/xml/fedlex-data-admin-ch-eli-cc-2004-420-20221229-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20221229/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20250320/de/xml/fedlex-data-admin-ch-eli-cc-2004-420-20250320-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20250320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Schweiz unterzeichnet am 15. Oktober 1996[^t-1]
 
 In Kraft getreten für die Schweiz am 1. November 1999
 
-(Stand am 29. Dezember 2022)
+(Stand am 20. März 2025)
 
 [^t-1]: Ohne Ratifikationsvorbehalt.
 
@@ -900,7 +900,7 @@ In Bezug auf die Verbreitungsgebiete von Wasservögeln ist festzuhalten, dass di
 <tr><td>Zentralafrika:</td><td>Äquatorialguinea, Demokratische Republik Kongo, Gabun, Kamerun, Kongo, São Tomé und Principe, Zentralafrikanische Republik.</td></tr>
 <tr><td>Subsahara-Afrika:</td><td>Alle afrikanischen Staaten südlich der Sahara.</td></tr>
 <tr><td>Tropisches Afrika:</td><td>Subsahara-Afrika ohne Eswatini, Lesotho, Namibia und Südafrika.</td></tr>
-<tr><td>Westpaläarktis:</td><td>Gemäss Definition in *Handbook of the Birds of Europe, the* *Middle East and North Africa* (Cramp & Simmons 1977).</td></tr>
+<tr><td>Westpaläarktis:</td><td>Gemäss Definition in *Handbook of the Birds of Europe, the Middle East and North Africa* (Cramp & Simmons 1977).</td></tr>
 <tr><td>Nordwesteuropa:</td><td>Belgien, Dänemark, Deutschland, Finnland, Frankreich, Irland, Island, Luxemburg, Niederlande, Norwegen, Schweden, Vereinigtes Königreich Grossbritannien und Nordirland.</td></tr>
 <tr><td>Westeuropa:</td><td>Nordwesteuropa mit Portugal und Spanien.</td></tr>
 <tr><td>Nordosteuropa:</td><td>Nördlicher Teil der Russischen Föderation westlich des Urals.</td></tr>
@@ -982,7 +982,7 @@ Bemerkungen
 <tr><td>*Cygnus columbianus bewickii* (Zwergschwan)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westsibirien und NO-Europa/Nordwesteuropa</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Nordsibirien/Kaspisches Meer</td><td>1c</td><td></td><td></td></tr>
-<tr><td>*Branta* *bernicla bernicla* (Ringelgans)</td><td></td><td></td><td></td></tr>
+<tr><td>*Branta bernicla bernicla* (Ringelgans)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westsibirien/Westeuropa</td><td></td><td>2b</td><td></td></tr>
 <tr><td>*Branta bernicla hrota* (Hellbäuchige Ringelgans)</td><td></td><td></td><td></td></tr>
 <tr><td>– Spitzbergen/Dänemark und Grossbritannien</td><td>2</td><td></td><td></td></tr>
@@ -993,7 +993,7 @@ Bemerkungen
 <tr><td>– Russland/Deutschland und Niederlande</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Branta ruficollis* (Rothalsgans)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordsibirien/Schwarzes Meer und Kaspisches Meer</td><td>1a/1b/3a</td><td></td><td></td></tr>
-<tr><td>*Anser* *anser anser* (Graugans)</td><td></td><td></td><td></td></tr>
+<tr><td>*Anser anser anser* (Graugans)</td><td></td><td></td><td></td></tr>
 <tr><td>– Island/Grossbritannien und Irland</td><td>3a\*</td><td></td><td></td></tr>
 <tr><td>– NW-Europa/Südwesteuropa</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mitteleuropa/Nordafrika</td><td></td><td>1</td><td></td></tr>
@@ -1021,7 +1021,7 @@ Bemerkungen
 <tr><td>*Anser erythropus* (Zwerggans)</td><td></td><td></td><td></td></tr>
 <tr><td>– NO-Europa und W-Sibirien/Schwarzes Meer und Kaspisches Meer</td><td>1a/1b/2</td><td></td><td></td></tr>
 <tr><td>– Fennoskandien</td><td>1a/1b/1c</td><td></td><td></td></tr>
-<tr><td>*Clangula* *hyemalis* (Eisente)</td><td></td><td></td><td></td></tr>
+<tr><td>*Clangula hyemalis* (Eisente)</td><td></td><td></td><td></td></tr>
 <tr><td>– Island und Grönland (Br)</td><td>1b</td><td></td><td></td></tr>
 <tr><td>– Westsibirien/Nordeuropa (Br)</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Somateria spectabilis* (Prachteiderente)</td><td></td><td></td><td></td></tr>
@@ -1223,7 +1223,7 @@ Bemerkungen
 <tr><td>– Subsahara-Afrika</td><td>(2)</td><td></td><td></td></tr>
 <tr><td>*Porphyrio alleni* (Bronzesultanshuhn)</td><td></td><td></td><td></td></tr>
 <tr><td>– Subsahara-Afrika</td><td></td><td>(2c)</td><td></td></tr>
-<tr><td>*Gallinula* *chloropus chloropus* (Teichhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>*Gallinula chloropus chloropus* (Teichhuhn)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa und Nordafrika</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– West- und Südwestasien</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Paraggallinula angulata* (Zwergteichhuhn)</td><td></td><td></td><td></td></tr>
@@ -1290,7 +1290,7 @@ Bemerkungen
 <tr><td>– Subsahara-Afrika und SW-Arabien</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Ciconia microscelis* (Afrikanischer Wollhalsstorch)</td><td></td><td></td><td></td></tr>
 <tr><td>– Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
-<tr><td>*Ciconia* *ciconia ciconia* (Weissstorch)</td><td></td><td></td><td></td></tr>
+<tr><td>*Ciconia ciconia ciconia* (Weissstorch)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Westliches Europa und Nordwestafrika/ Subsahara-Afrika</td><td></td><td>2b</td><td></td></tr>
 <tr><td>– Mittel- und Osteuropa/Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
@@ -1368,7 +1368,7 @@ Bemerkungen
 <tr><td>*Ardea alba alba* (Silberreiher)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-, Mittel- und SO-Europa/Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Westasien/Südwestasien</td><td>(2c)</td><td></td><td></td></tr>
-<tr><td>*Ardea alba* *melanorhynchos* (Silberreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>*Ardea alba melanorhynchos* (Silberreiher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Subsahara-Afrika und Madagaskar</td><td></td><td>2e</td><td></td></tr>
 <tr><td>*Ardea brachyrhyncha* (Afrikamittelreiher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
@@ -1415,7 +1415,7 @@ Bemerkungen
 <tr><td>*Sula dactylatra melanops* (Maskentölpel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westlicher Indischer Ozean</td><td>3c</td><td></td><td></td></tr>
 <tr><td colspan="4">Familie PHALACROCORACIDAE (Kormorane)</td></tr>
-<tr><td>*Microcarbo* *coronatus* (Wahlberg-Scharbe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Microcarbo coronatus* (Wahlberg-Scharbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste Südwestafrikas</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Microcarbo pygmaeus* (Zwergscharbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Schwarzes Meer und Mittelmeer</td><td></td><td>1</td><td></td></tr>
@@ -1434,7 +1434,7 @@ Bemerkungen
 <tr><td>– Küste des südlichen Afrikas</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Phalacrocorax capensis* (Kapkormoran)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste des südlichen Afrikas</td><td>1b</td><td></td><td></td></tr>
-<tr><td>*Phalacrocorax* *nigrogularis* (Sokotrakormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>*Phalacrocorax nigrogularis* (Sokotrakormoran)</td><td></td><td></td><td></td></tr>
 <tr><td>– Arabische Küste</td><td>1b</td><td></td><td></td></tr>
 <tr><td>– Golf von Aden, Sokotra, Arabisches Meer</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Phalacrocorax neglectus* (Küstenscharbe)</td><td></td><td></td><td></td></tr>
@@ -1513,11 +1513,11 @@ Bemerkungen
 <tr><td>– Ostafrika</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Charadrius mongolus pamirensis* (Mongolenregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-Zentralasien/SW-Asien und Ostafrika</td><td></td><td></td><td>1</td></tr>
-<tr><td>*Charadrius* *leschenaultii leschenaultii* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>*Charadrius leschenaultii leschenaultii* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Zentralasien/Ostafrika und südliches Afrika</td><td>3e</td><td></td><td></td></tr>
 <tr><td>*Charadrius leschenaultii columbinus* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Türkei und SW-Asien/östliches Mittelmeer und Rotes Meer</td><td>1c</td><td></td><td></td></tr>
-<tr><td>*Charadrius* *leschenaultii scythicus* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>*Charadrius leschenaultii scythicus* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Kaspisches Meer und SW-Asien/Arabien und NO‑Afrika</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Charadrius asiaticus* (Wermutregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– SO-Europa und Westasien/Ostafrika und Süd-Zentralafrika</td><td>3c</td><td></td><td></td></tr>
@@ -1527,7 +1527,7 @@ Bemerkungen
 <tr><td>– Ost-Mittelmeer und Naher Osten</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Vanellus albiceps* (Langspornkiebitz/Weissscheitelkiebitz)</td><td></td><td></td><td></td></tr>
 <tr><td>– West- und Zentralafrika</td><td>3e</td><td></td><td></td></tr>
-<tr><td>*Vanellus* *lugubris* (Trauerkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>*Vanellus lugubris* (Trauerkiebitz)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Westafrika</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Zentral- und Ostafrika</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Vanellus melanopterus minor* (Schwarzflügelkiebitz)</td><td></td><td></td><td></td></tr>
@@ -1556,7 +1556,7 @@ Bemerkungen
 <tr><td>– Island, Färöer und Schottland/Westafrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Numenius phaeopus alboaxillaris* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– N Kaspisches Meer/Ostafrika</td><td>1c</td><td></td><td></td></tr>
-<tr><td>*Numenius* *phaeopus rogachevae* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>*Numenius phaeopus rogachevae* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mittelsibirien (Br)</td><td>[tab] 2</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>*Numenius tenuirostris* (Dünnschnabelrachvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mittelsibirien/Mittelmeer und SW-Asien</td><td>1a/1b/1c</td><td></td><td></td></tr>
@@ -1566,7 +1566,7 @@ Bemerkungen
 <tr><td>– Südosteuropa und Südwestasien (Br)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Numenius arquata orientalis* (Grosser Brachvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td>4</td><td></td><td></td></tr>
-<tr><td>*Limosa lapponica* *lapponica* (Pfuhlschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Limosa lapponica lapponica* (Pfuhlschnepfe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordeuropa/Westeuropa</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Limosa lapponica taymyrensis* (Pfuhlschnepfe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westsibirien/West- und Südwestafrika</td><td>4</td><td></td><td></td></tr>
@@ -1622,7 +1622,7 @@ Bemerkungen
 <tr><td>– Westsibirien/Südwestasien (Kaspisches Meer)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Gallinago stenura* (Stiftbekassine)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordsibirien/Südasien und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
-<tr><td>*Gallinago* *media* (Doppelschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Gallinago media* (Doppelschnepfe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Skandinavien/wahrscheinlich Westafrika</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Westsibirien und NO-Europa/Südwestafrika</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Gallinago gallinago gallinago* (Bekassine)</td><td></td><td></td><td></td></tr>
@@ -1637,7 +1637,7 @@ Bemerkungen
 <tr><td>– NW-Eurasien (Br)/Arabisches Meer</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Phalaropus fulicarius* (Thorswassertreter/Thorshühnchen)</td><td></td><td></td><td></td></tr>
 <tr><td>– Kanada und Grönland/afrikanische Atlantikküste</td><td></td><td>2c</td><td></td></tr>
-<tr><td>*Xenus* *cinereus* (Terekwasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>*Xenus cinereus* (Terekwasserläufer)</td><td></td><td></td><td></td></tr>
 <tr><td>– NO-Europa und W-Sibirien/SW-Asien, Ostafrika und südliches Afrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Actitis hypoleucos* (Flussuferläufer)</td><td></td><td></td><td></td></tr>
 <tr><td>– West- und Zentraleuropa/Westafrika</td><td></td><td>2c</td><td></td></tr>
@@ -1702,7 +1702,7 @@ Bemerkungen
 <tr><td>– Westafrika (Br)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Schwarzes Meer und Mittelmeer (Br)</td><td></td><td>2a/(2e)</td><td></td></tr>
 <tr><td>– West-, Südwest- und Südasien (Br)</td><td></td><td>2c/2e</td><td></td></tr>
-<tr><td>*Larus* *ridibundus* (Lachmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Larus ridibundus* (Lachmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-Europa/W-Europa, westliches Mittelmeer, Westafrika</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Osteuropa/Schwarzes Meer und östliches Mittelmeer</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Westasien/SW-Asien und NO-Afrika</td><td></td><td></td><td>1</td></tr>
@@ -1719,7 +1719,7 @@ Bemerkungen
 <tr><td>– Rotes Meer, Golf, Arabien und Ostafrika</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Larus leucophthalmus* (Weissaugenmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Rotes Meer und benachbarte Küsten</td><td>1a</td><td></td><td></td></tr>
-<tr><td>*Larus* *audouinii* (Korallenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Larus audouinii* (Korallenmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mittelmeer/Nord- und Westküste Afrikas</td><td>1a/3a</td><td></td><td></td></tr>
 <tr><td>*Larus canus canus* (Sturmmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– NW- und Mitteleuropa /Atlantikküste und Mittelmeer</td><td></td><td>2c</td><td></td></tr>
@@ -1740,13 +1740,13 @@ Bemerkungen
 <tr><td>– Südwestsibirien/Südwestasien</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus argentatus argentatus* (Silbermöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nord- und Nordwesteuropa</td><td></td><td>2c/2e</td><td></td></tr>
-<tr><td>*Larus argentatus* *argenteus* (Silbermöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Larus argentatus argenteus* (Silbermöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Island und Westeuropa</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Larus armenicus* (Gelbfuss-Silbermöwe/Armenienmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Armenien, Osttürkei und NW-Iran</td><td>3a</td><td></td><td></td></tr>
 <tr><td>*Larus michahellis* (Mittelmeermöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mittelmeer, Iberien und Marokko</td><td></td><td></td><td>1</td></tr>
-<tr><td>*Larus* *cachinnans* (Steppenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Larus cachinnans* (Steppenmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Schwarzes Meer und Westasien/SW-Asien, NO‑Afrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus glaucoides glaucoides* (Polarmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Grönland/Island und Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
@@ -1768,7 +1768,7 @@ Bemerkungen
 <tr><td>– W-Mittelmeer/W-Afrika (Br)</td><td>3b/3c</td><td></td><td></td></tr>
 <tr><td>– Schwarzes Meer und O-Mittelmeer (Br)</td><td>3b/3c</td><td></td><td></td></tr>
 <tr><td>– Kaspisches Meer (Br)</td><td>2</td><td></td><td></td></tr>
-<tr><td>*Sternula* *albifrons guineae* (Zwergseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>*Sternula albifrons guineae* (Zwergseeschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westafrika (Br)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Sternula saundersi* (Orientseeschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-Südasien, Rotes Meer, Golf und Ostafrika</td><td>2</td><td></td><td></td></tr>
@@ -1879,98 +1879,101 @@ Bemerkungen
 
 [^annexu1-lvlu1-lvlu4-1]: Am 18. Februar 2019 legte die Schweiz einen Vorbehalt gemäss Artikel X des Abkommens vor, da das interne Genehmigungsverfahren für diese Änderung, wie es an der 7. Tagung der Versammlung der Vertragsparteien des Abkommens angenommen wurde, nicht abgeschlossen werden konnte.
 
-Geltungsbereich am 31. Mai 2022[^t-5]
+Geltungsbereich am 20. März 2025[^t-5]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Ägypten</td><td>4. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Albanien</td><td>20. Juni</td><td>2001 B</td><td>1. September</td><td>2001</td></tr>
-<tr><td>Algerien</td><td>4. Juli</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
-<tr><td>Äquatorialguinea</td><td>3. Oktober</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
-<tr><td>Armenien</td><td>9. April</td><td>2020 B</td><td>1. Juli</td><td>2020</td></tr>
-<tr><td>Äthiopien</td><td>3. November</td><td>2009 B</td><td>1. Februar</td><td>2010</td></tr>
-<tr><td>Belarus\*</td><td>15. Januar</td><td>2016 B</td><td>1. April</td><td>2016</td></tr>
-<tr><td>Belgien</td><td>3. März</td><td>2006</td><td>1. Juni</td><td>2006</td></tr>
-<tr><td>Benin</td><td>26. Oktober</td><td>1999 U</td><td>1. Januar</td><td>2000</td></tr>
-<tr><td>Botsuana</td><td>22. August</td><td>2017 B</td><td>1. November</td><td>2017</td></tr>
-<tr><td>Bulgarien\*</td><td>23. November</td><td>1999</td><td>1. Februar</td><td>2000</td></tr>
-<tr><td>Burkina Faso</td><td>1. Juli</td><td>2013 B</td><td>1. Oktober</td><td>2013</td></tr>
-<tr><td>Burundi</td><td>25. Juli</td><td>2014 B</td><td>1. Oktober</td><td>2014</td></tr>
-<tr><td>Côte d’Ivoire</td><td>1. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td>29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
-<tr><td>Deutschland</td><td>9. Dezember</td><td>1998</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Dschibuti</td><td>31. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
-<tr><td>Estland\*</td><td>1. August</td><td>2008 B</td><td>1. November</td><td>2008</td></tr>
-<tr><td>Eswatini</td><td>23. Oktober</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
-<tr><td>Europäische Union (EU)\*</td><td>27. Juli</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
-<tr><td>Finnland\*</td><td>29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
-<tr><td>Frankreich</td><td>30. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
-<tr><td>Gabun</td><td>10. September</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
-<tr><td>Gambia</td><td>12. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Georgien</td><td>28. Mai</td><td>2001 B</td><td>1. August</td><td>2001</td></tr>
-<tr><td>Ghana</td><td>25. Juli</td><td>2005 B</td><td>1. Oktober</td><td>2005</td></tr>
-<tr><td>Guinea</td><td>4. März</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Guinea-Bissau</td><td>14. August</td><td>2006 B</td><td>1. November</td><td>2006</td></tr>
-<tr><td>Irland</td><td>30. Mai</td><td>2003</td><td>1. August</td><td>2003</td></tr>
-<tr><td>Island\*</td><td>21. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
-<tr><td>Israel</td><td>14. August</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
-<tr><td>Italien</td><td>1. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
-<tr><td>Jordanien</td><td>12. März</td><td>1997 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Kenia</td><td>9. März</td><td>2001 B</td><td>1. Juni</td><td>2001</td></tr>
-<tr><td>Kongo (Brazzaville)</td><td>30. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Kroatien</td><td>26. Juni</td><td>2000 B</td><td>1. September</td><td>2000</td></tr>
-<tr><td>Lettland\*</td><td>21. Oktober</td><td>2005 B</td><td>1. Januar</td><td>2006</td></tr>
-<tr><td>Libanon</td><td>30. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
-<tr><td>Libyen</td><td>31. März</td><td>2005 B</td><td>1. Juni</td><td>2005</td></tr>
-<tr><td>Litauen</td><td>23. August</td><td>2004 B</td><td>1. November</td><td>2004</td></tr>
-<tr><td>Luxemburg</td><td>12. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
-<tr><td>Madagaskar</td><td>12. Oktober</td><td>2006 B</td><td>1. Januar</td><td>2007</td></tr>
-<tr><td>Malawi</td><td>25. Juni</td><td>2019 B</td><td>1. September</td><td>2019</td></tr>
-<tr><td>Mali</td><td>18. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
-<tr><td>Marokko</td><td>24. September</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
-<tr><td>Mauretanien</td><td>25. Februar</td><td>2015 B</td><td>1. Mai</td><td>2015</td></tr>
-<tr><td>Mauritius</td><td>26. Oktober</td><td>2000 B</td><td>1. Januar</td><td>2001</td></tr>
-<tr><td>Moldau\*</td><td>17. Januar</td><td>2001 B</td><td>1. April</td><td>2001</td></tr>
-<tr><td>Monaco</td><td>15. Juni</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Montenegro</td><td>1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
-<tr><td>Niederlande</td><td>15. August</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Niger</td><td>31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Nigeria</td><td>13. April</td><td>2004 B</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td>Nordmazedonien</td><td>1. November</td><td>1999 B</td><td>1. Februar</td><td>2000</td></tr>
-<tr><td>Norwegen</td><td>25. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
-<tr><td>Portugal</td><td>11. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
-<tr><td>Ruanda</td><td>11. Juni</td><td>2014 B</td><td>1. September</td><td>2014</td></tr>
-<tr><td>Rumänien</td><td>4. Juli</td><td>2000</td><td>1. Oktober</td><td>2000</td></tr>
-<tr><td>Schweden\*</td><td>5. Oktober</td><td>1998 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Schweiz</td><td>15. Oktober</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Senegal</td><td>27. April</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Serbien</td><td>13. Dezember</td><td>2018 B</td><td>1. März</td><td>2019</td></tr>
-<tr><td>Simbabwe</td><td>8. März</td><td>2012 B</td><td>1. Juni</td><td>2012</td></tr>
-<tr><td>Slowakei\*</td><td>23. April</td><td>2001 B</td><td>1. Juli</td><td>2001</td></tr>
-<tr><td>Slowenien</td><td>23. Juli</td><td>2003 B</td><td>1. Oktober</td><td>2003</td></tr>
-<tr><td>Spanien</td><td>30. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Südafrika</td><td>1. Januar</td><td>2002</td><td>1. April</td><td>2002</td></tr>
-<tr><td>Sudan</td><td>31. Dezember</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Syrien</td><td>30. Mai</td><td>2003 B</td><td>1. August</td><td>2003</td></tr>
-<tr><td>Tansania</td><td>31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Togo</td><td>22. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Tschad</td><td>1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
-<tr><td>Tschechische Republik\*</td><td>23. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
-<tr><td>Tunesien</td><td>26. April</td><td>2005 B</td><td>1. Juli</td><td>2005</td></tr>
-<tr><td>Turkmenistan</td><td>27. Oktober</td><td>2020 B</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Uganda</td><td>22. September</td><td>2000 B</td><td>1. Dezember</td><td>2000</td></tr>
-<tr><td>Ukraine</td><td>18. Oktober</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
-<tr><td>Ungarn\*</td><td>17. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
-<tr><td>Usbekistan</td><td>30. Januar</td><td>2004 B</td><td>1. April</td><td>2004</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Gibraltar</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Guernsey</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Insel Man</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Jersey</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
-<tr><td>Zypern</td><td>19. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: [www.overheid.nl](https://www.overheid.nl) &gt; English &gt; Treaty Database eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Mit einem Vorbehalt betreffend Grönland.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Ägypten</td><td colspan="2">4. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Albanien</td><td colspan="2">20. Juni</td><td>2001 B</td><td>1. September</td><td>2001</td></tr>
+<tr><td>Algerien</td><td colspan="2">4. Juli</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
+<tr><td>Äquatorialguinea</td><td colspan="2">3. Oktober</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Armenien</td><td colspan="2">9. April</td><td>2020 B</td><td>1. Juli</td><td>2020</td></tr>
+<tr><td>Äthiopien</td><td colspan="2">3. November</td><td>2009 B</td><td>1. Februar</td><td>2010</td></tr>
+<tr><td>Belarus\*</td><td colspan="2">15. Januar</td><td>2016 B</td><td>1. April</td><td>2016</td></tr>
+<tr><td>Belgien</td><td colspan="2">3. März</td><td>2006</td><td>1. Juni</td><td>2006</td></tr>
+<tr><td>Benin</td><td colspan="2">26. Oktober</td><td>1999 U</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Botsuana</td><td colspan="2">22. August</td><td>2017 B</td><td>1. November</td><td>2017</td></tr>
+<tr><td>Bulgarien\*</td><td colspan="2">23. November</td><td>1999</td><td>1. Februar</td><td>2000</td></tr>
+<tr><td>Burkina Faso</td><td colspan="2">1. Juli</td><td>2013 B</td><td>1. Oktober</td><td>2013</td></tr>
+<tr><td>Burundi</td><td colspan="2">25. Juli</td><td>2014 B</td><td>1. Oktober</td><td>2014</td></tr>
+<tr><td>Côte d’Ivoire</td><td colspan="2">1. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td colspan="2">29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Deutschland</td><td colspan="2">9. Dezember</td><td>1998</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Dschibuti</td><td colspan="2">31. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Estland\*</td><td colspan="2">1. August</td><td>2008 B</td><td>1. November</td><td>2008</td></tr>
+<tr><td>Eswatini</td><td colspan="2">23. Oktober</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
+<tr><td>Europäische Union (EU)\*</td><td colspan="2">27. Juli</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Finnland\*</td><td colspan="2">29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Frankreich</td><td colspan="2">30. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Gabun</td><td colspan="2">10. September</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Gambia</td><td colspan="2">12. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Georgien</td><td colspan="2">28. Mai</td><td>2001 B</td><td>1. August</td><td>2001</td></tr>
+<tr><td>Ghana</td><td colspan="2">25. Juli</td><td>2005 B</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Griechenland</td><td>3. März</td><td colspan="2">2023</td><td>1. Juni</td><td>2023</td></tr>
+<tr><td>Guinea</td><td colspan="2">4. März</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Guinea-Bissau</td><td colspan="2">14. August</td><td>2006 B</td><td>1. November</td><td>2006</td></tr>
+<tr><td>Irland</td><td colspan="2">30. Mai</td><td>2003</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Island\*</td><td colspan="2">21. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Israel</td><td colspan="2">14. August</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
+<tr><td>Italien</td><td colspan="2">1. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Jordanien</td><td colspan="2">12. März</td><td>1997 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Kamerun</td><td>7. Juli</td><td colspan="2">2022 B</td><td>1. Oktober</td><td>2022</td></tr>
+<tr><td>Kenia</td><td colspan="2">9. März</td><td>2001 B</td><td>1. Juni</td><td>2001</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td colspan="2">30. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Kroatien</td><td colspan="2">26. Juni</td><td>2000 B</td><td>1. September</td><td>2000</td></tr>
+<tr><td>Lettland\*</td><td colspan="2">21. Oktober</td><td>2005 B</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Libanon</td><td colspan="2">30. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>Libyen</td><td colspan="2">31. März</td><td>2005 B</td><td>1. Juni</td><td>2005</td></tr>
+<tr><td>Litauen</td><td colspan="2">23. August</td><td>2004 B</td><td>1. November</td><td>2004</td></tr>
+<tr><td>Luxemburg</td><td colspan="2">12. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Madagaskar</td><td colspan="2">12. Oktober</td><td>2006 B</td><td>1. Januar</td><td>2007</td></tr>
+<tr><td>Malawi</td><td colspan="2">25. Juni</td><td>2019 B</td><td>1. September</td><td>2019</td></tr>
+<tr><td>Mali</td><td colspan="2">18. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Marokko</td><td colspan="2">24. September</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Mauretanien</td><td colspan="2">25. Februar</td><td>2015 B</td><td>1. Mai</td><td>2015</td></tr>
+<tr><td>Mauritius</td><td colspan="2">26. Oktober</td><td>2000 B</td><td>1. Januar</td><td>2001</td></tr>
+<tr><td>Moldau\*</td><td colspan="2">17. Januar</td><td>2001 B</td><td>1. April</td><td>2001</td></tr>
+<tr><td>Monaco</td><td colspan="2">15. Juni</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Montenegro</td><td colspan="2">1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
+<tr><td>Niederlande</td><td colspan="2">15. August</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Niger</td><td colspan="2">31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Nigeria</td><td colspan="2">13. April</td><td>2004 B</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td colspan="2">1. November</td><td>1999 B</td><td>1. Februar</td><td>2000</td></tr>
+<tr><td>Norwegen</td><td colspan="2">25. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
+<tr><td>Portugal</td><td colspan="2">11. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Ruanda</td><td colspan="2">11. Juni</td><td>2014 B</td><td>1. September</td><td>2014</td></tr>
+<tr><td>Rumänien</td><td colspan="2">4. Juli</td><td>2000</td><td>1. Oktober</td><td>2000</td></tr>
+<tr><td>Saudi-Arabien</td><td>14. April</td><td colspan="2">2023 B</td><td>1. Juli</td><td>2023</td></tr>
+<tr><td>Schweden\*</td><td colspan="2">5. Oktober</td><td>1998 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Schweiz</td><td colspan="2">15. Oktober</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Senegal</td><td colspan="2">27. April</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Serbien</td><td colspan="2">13. Dezember</td><td>2018 B</td><td>1. März</td><td>2019</td></tr>
+<tr><td>Simbabwe</td><td colspan="2">8. März</td><td>2012 B</td><td>1. Juni</td><td>2012</td></tr>
+<tr><td>Slowakei\*</td><td colspan="2">23. April</td><td>2001 B</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Slowenien</td><td colspan="2">23. Juli</td><td>2003 B</td><td>1. Oktober</td><td>2003</td></tr>
+<tr><td>Spanien</td><td colspan="2">30. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Südafrika</td><td colspan="2">1. Januar</td><td>2002</td><td>1. April</td><td>2002</td></tr>
+<tr><td>Sudan</td><td colspan="2">31. Dezember</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Syrien</td><td colspan="2">30. Mai</td><td>2003 B</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Tansania</td><td colspan="2">31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Togo</td><td colspan="2">22. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Tschad</td><td colspan="2">1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
+<tr><td>Tschechische Republik</td><td colspan="2">23. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Tunesien</td><td colspan="2">26. April</td><td>2005 B</td><td>1. Juli</td><td>2005</td></tr>
+<tr><td>Turkmenistan</td><td colspan="2">27. Oktober</td><td>2020 B</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Uganda</td><td colspan="2">22. September</td><td>2000 B</td><td>1. Dezember</td><td>2000</td></tr>
+<tr><td>Ukraine</td><td colspan="2">18. Oktober</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Ungarn\*</td><td colspan="2">17. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Usbekistan</td><td colspan="2">30. Januar</td><td>2004 B</td><td>1. April</td><td>2004</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Gibraltar</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Guernsey</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Insel Man</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Jersey</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td colspan="2">22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td colspan="2">15. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Zypern</td><td colspan="2">19. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/007342](https://treatydatabase.overheid.nl/en/Treaty/Details/007342) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Mit einem Vorbehalt betreffend Grönland.</td></tr>
 </table>
 
-[^t-5]: [AS 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-5]: [AS 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331); [2025 212](https://fedlex.data.admin.ch/eli/oc/2025/212). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

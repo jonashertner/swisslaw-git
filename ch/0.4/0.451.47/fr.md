@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: "Accord du 15 août 1996 sur la conservation des oiseaux d'eaux migrateurs d'Afrique-Eurasie (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: fr
-version: 2022-12-29
+version: 2025-03-20
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20221229/fr/xml/fedlex-data-admin-ch-eli-cc-2004-420-20221229-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20221229/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-2004-420-20250320-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20250320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Signé par la Suisse le 15 octobre 1996[^t-1]
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 1999
 
-(État le 29 décembre 2022)
+(État le 20 mars 2025)
 
 [^t-1]: Sans réserve de ratification.
 
@@ -1879,7 +1879,7 @@ Remarques
 
 [^annex3-lvlu1-lvlu9-1]: Le 18 février 2019, la Suisse a présenté une réserve conformément à l’art. X de l’Accord dans l’attente de l’accomplissement des procédures internes d’approbation concernant cet amendement, tel qu’accepté lors de la 7<sup>e</sup> session de la Réunion des Parties à l’Accord.
 
-Champ d’application le 31 mai 2022[^t-4]
+Champ d’application le 20 mars 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1887,6 +1887,7 @@ Champ d’application le 31 mai 2022[^t-4]
 <tr><td>Albanie</td><td>20 juin</td><td>2001 A</td><td>1<sup>er</sup> septembre</td><td>2001</td></tr>
 <tr><td>Algérie</td><td>4 juillet</td><td>2006 A</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Allemagne</td><td>9 décembre</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Arabie Saoudite</td><td>14 avril</td><td>2023 A</td><td>1<sup>er</sup> juillet</td><td>2023</td></tr>
 <tr><td>Arménie</td><td>9 avril</td><td>2020 A</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
 <tr><td>Bélarus\*</td><td>15 janvier</td><td>2016 A</td><td>1<sup>er</sup> avril</td><td>2016</td></tr>
 <tr><td>Belgique</td><td>3 mars</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2006</td></tr>
@@ -1895,6 +1896,7 @@ Champ d’application le 31 mai 2022[^t-4]
 <tr><td>Bulgarie\*</td><td>23 novembre</td><td>1999</td><td>1<sup>er</sup> février</td><td>2000</td></tr>
 <tr><td>Burkina Faso</td><td>1<sup>er</sup> juillet</td><td>2013 A</td><td>1<sup>er</sup> octobre</td><td>2013</td></tr>
 <tr><td>Burundi</td><td>25 juillet</td><td>2014 A</td><td>1<sup>er</sup> octobre</td><td>2014</td></tr>
+<tr><td>Cameroun</td><td>7 juillet</td><td>2022 A</td><td>1<sup>er</sup> octobre</td><td>2022</td></tr>
 <tr><td>Chypre</td><td>19 juin</td><td>2008 A</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>30 août</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1<sup>er</sup> mars</td><td>2013 A</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
@@ -1912,6 +1914,7 @@ Champ d’application le 31 mai 2022[^t-4]
 <tr><td>Géorgie</td><td>28 mai</td><td>2001 A</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
 <tr><td>Gabon</td><td>10 septembre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
 <tr><td>Ghana</td><td>25 juillet</td><td>2005 A</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
+<tr><td>Grèce</td><td>3 mars</td><td>2023</td><td>1<sup>er</sup> juin</td><td>2023</td></tr>
 <tr><td>Guinée</td><td>4 mars</td><td>1999 Si</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Guinée équatoriale</td><td>3 octobre</td><td>2002 A</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Guinée-Bissau</td><td>14 août</td><td>2006 A</td><td>1<sup>er</sup> novembre</td><td>2006</td></tr>
@@ -1945,9 +1948,9 @@ Champ d’application le 31 mai 2022[^t-4]
 <tr><td>Pays-Bas</td><td>15 août</td><td>1996 Si</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Portugal</td><td>11 décembre</td><td>2003 A</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>République centrafricaine</td><td>15 octobre</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
-<tr><td>République tchèque\*</td><td>23 juin</td><td>2006 A</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
+<tr><td>République tchèque</td><td>23 juin</td><td>2006 A</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
 <tr><td>Roumanie</td><td>4 juillet</td><td>2000</td><td>1<sup>er</sup> octobre</td><td>2000</td></tr>
-<tr><td>Royaume-Uni</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Royaume-Uni\*</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Gibraltar</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Guernesey</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Île de Man</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
@@ -1970,7 +1973,7 @@ Champ d’application le 31 mai 2022[^t-4]
 <tr><td>Ukraine</td><td>18 octobre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Union européenne (UE)\*</td><td>27 juillet</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Zimbabwe</td><td>8 mars</td><td>2012 A</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Avec une réserve concernant le Groenland.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l’adresse du site internet du dépositaire, du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/007342](https://treatydatabase.overheid.nl/en/Treaty/Details/007342) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Avec une réserve concernant le Groenland.</td></tr>
 </table>
 
-[^t-4]: [RO 2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
+[^t-4]: [RO 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331); [2025 212](https://fedlex.data.admin.ch/eli/oc/2025/212). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
