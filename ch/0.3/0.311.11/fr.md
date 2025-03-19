@@ -3,11 +3,11 @@ sr: "0.311.11"
 title: Convention du 9 décembre 1948 pour la prévention et la répression du crime de génocide
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/358"
 language: fr
-version: 2020-06-30
+version: 2025-03-20
 adopted: 1948-12-09
 in_force: 2000-12-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-2002-358-20200630-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-2002-358-20250320-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20250320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 7 septembre 2000
 
 Entrée en vigueur pour la Suisse le 6 décembre 2000
 
-(Etat le 30 juin 2020)
+(État le 20 mars 2025)
 
 [^t-1]: [RO 2002 2605](https://fedlex.data.admin.ch/eli/oc/2002/357)
 
@@ -86,7 +86,7 @@ Les Parties contractantes s’engagent en pareil cas à accorder l’extradition
 
 Toute Partie contractante peut saisir les organes compétents des Nations Unies afin que ceux-ci prennent, conformément à la Charte des Nations Unies[^VIII-1], les mesures qu’ils jugent appropriées pour la prévention et la répression des actes de génocide ou de l’un quelconque des autres actes énumérés à l’art. III.
 
-[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -159,7 +159,7 @@ La présente Convention sera enregistrée par le Secrétaire général des Natio
 
 (Suivent les signatures)
 
-Champ d’application le 30 juin 2020**[^t-2]**
+Champ d’application le 20 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -168,7 +168,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Albanie\*</td><td>12 mai</td><td>1955 A</td><td>10 août</td><td>1955</td></tr>
 <tr><td>Algérie\*</td><td>31 octobre</td><td>1963 A</td><td>29 janvier</td><td>1964</td></tr>
 <tr><td>Allemagne</td><td>24 novembre</td><td>1954 A</td><td>22 février</td><td>1955</td></tr>
-<tr><td>Andorre</td><td>22 septembre</td><td>2006 A</td><td>21 décembre</td><td colspan="2">2006</td></tr>
+<tr><td>Andorre</td><td>22 septembre</td><td>2006 A</td><td>21 décembre</td><td>2006</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>25 octobre</td><td>1988 S</td><td>1<sup>er</sup> novembre</td><td>1981</td></tr>
 <tr><td>Arabie Saoudite</td><td>13 juillet</td><td>1950 A</td><td>12 janvier</td><td>1951</td></tr>
 <tr><td>Argentine\*</td><td>5 juin</td><td>1956 A</td><td>3 septembre</td><td>1956</td></tr>
@@ -264,7 +264,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Moldova</td><td>26 janvier</td><td>1993 A</td><td>26 avril</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>30 mars</td><td>1950 A</td><td>12 janvier</td><td>1951</td></tr>
 <tr><td>Mongolie\*</td><td>5 janvier</td><td>1967 A</td><td>5 avril</td><td>1967</td></tr>
-<tr><td>Monténégro\*</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td colspan="2">2006</td></tr>
+<tr><td>Monténégro\*</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td>18 avril</td><td>1983 A</td><td>17 juillet</td><td>1983</td></tr>
 <tr><td>Myanmar\*</td><td>14 mars</td><td>1956</td><td>12 juin</td><td>1956</td></tr>
 <tr><td>Namibie</td><td>28 novembre</td><td>1994 A</td><td>26 février</td><td>1995</td></tr>
@@ -326,8 +326,9 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Venezuela\*</td><td>12 juillet</td><td>1960 A</td><td>10 octobre</td><td>1960</td></tr>
 <tr><td>Vietnam\*</td><td>9 juin</td><td>1981 A</td><td>7 septembre</td><td>1981</td></tr>
 <tr><td>Yémen\*</td><td>9 février</td><td>1987 A</td><td>10 mai</td><td>1987</td></tr>
+<tr><td>Zambie</td><td>20 avril</td><td>2022 A</td><td>19 juillet</td><td>2022</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>11 août</td><td>1991</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cette convention s’applique aux territoires d’outre-mer. <sup>b</sup> En vertu d’une déclaration de la République populaire de Chine du 6 juin 1997, la Convention est applicable à la Région administrative (RAS) de Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> En vertu d’une déclaration de la République populaire de Chine du 17 décembre 1999, la Convention est applicable à la Région administrative (RAS) de Macao à partir du 20 décembre 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cette convention s’applique aux territoires d’outre-mer. <sup>b</sup> En vertu d’une déclaration de la République populaire de Chine du 6 juin 1997, la Convention est applicable à la Région administrative (RAS) de Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> En vertu d’une déclaration de la République populaire de Chine du 17 décembre 1999, la Convention est applicable à la Région administrative (RAS) de Macao à partir du 20 décembre 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358), [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289), [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324), [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93), [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342), [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141), [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358); [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289); [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324); [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93); [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342); [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141); [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562); [2025 210](https://fedlex.data.admin.ch/eli/oc/2025/210). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.311.11"
 title: Übereinkommen vom 9. Dezember 1948 über die Verhütung und Bestrafung des Völkermordes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/358"
 language: de
-version: 2020-06-30
+version: 2025-03-20
 adopted: 1948-12-09
 in_force: 2000-12-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20200630/de/xml/fedlex-data-admin-ch-eli-cc-2002-358-20200630-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20250320/de/xml/fedlex-data-admin-ch-eli-cc-2002-358-20250320-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20250320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2002** 2606; BBl **1999** 5327
 
 Übersetzung
 
-Abgeschlossen in New York am 9. Dezember 1948
+Abgeschlossen in New York am 9. Dezember 1948 Von der Bundesversammlung genehmigt am 9. März 2000[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. September 2000 Für die Schweiz in Kraft getreten am 6. Dezember 2000
 
-Von der Bundesversammlung genehmigt am 9. März 2000[^t-1]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 7. September 2000
-
-Für die Schweiz in Kraft getreten am 6. Dezember 2000
-
-(Stand am 30. Juni 2020)
+(Stand am 20. März 2025)
 
 [^t-1]: [AS 2002 2605](https://fedlex.data.admin.ch/eli/oc/2002/357)
 
@@ -86,7 +80,7 @@ Die Vertragschliessenden Parteien verpflichten sich, in derartigen Fällen die A
 
 Eine Vertragschliessende Partei kann die zuständigen Organe der Vereinten Nationen damit befassen, gemäss der Charta der Vereinten Nationen[^VIII-1] die Massnahmen zu ergreifen, die sie für die Verhütung und Bekämpfung von Völkermordhandlungen oder einer der sonstigen in Artikel III aufgeführten Handlungen für geeignet erachten.
 
-[^VIII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -159,7 +153,7 @@ Diese Konvention wird am Tage ihres Inkrafttretens von dem Generalsekretär der 
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 30. Juni 2020**[^t-2]**
+Geltungsbereich am 20. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -280,6 +274,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Ruanda</td><td>16. April</td><td>1975 B</td><td>15. Juli</td><td>1975</td></tr>
 <tr><td>Rumänien\*</td><td>2. November</td><td>1950 B</td><td>31. Januar</td><td>1951</td></tr>
 <tr><td>Russland\*</td><td>3. Mai</td><td>1954</td><td>1. August</td><td>1954</td></tr>
+<tr><td>Sambia</td><td>20. April</td><td>2022 B</td><td>19. Juli</td><td>2022</td></tr>
 <tr><td>San Marino</td><td>8. November</td><td>2013 B</td><td>6. Februar</td><td>2014</td></tr>
 <tr><td>Saudi-Arabien</td><td>13. Juli</td><td>1950 B</td><td>12. Januar</td><td>1951</td></tr>
 <tr><td>Schweden\*\*</td><td>27. Mai</td><td>1952</td><td>25. August</td><td>1952</td></tr>
@@ -318,12 +313,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>30. Januar</td><td>1970 B</td><td>30. April</td><td>1970</td></tr>
 <tr><td>Vietnam\*</td><td>9. Juni</td><td>1981 B</td><td>7. September</td><td>1981</td></tr>
 <tr><td>Zypern\*\*</td><td>29. März</td><td>1982 B</td><td>27. Juni</td><td>1982</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dieses Übereink. gilt für die Überseegebiete.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auf die Besondere Verwaltungsregion (SAR) Hongkong anwendbar.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Auf Grund einer Erklärung der Volksrepublik China vom 17. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieses Übereink. gilt für die Überseegebiete. <sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auf die Besondere Verwaltungsregion (SAR) Hongkong anwendbar. <sup>c</sup> Auf Grund einer Erklärung der Volksrepublik China vom 17. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358), [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289), [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324), [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93), [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342), [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141), [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358); [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289); [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324); [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93); [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342); [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141); [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562); [2025 210](https://fedlex.data.admin.ch/eli/oc/2025/210). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

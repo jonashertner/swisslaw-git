@@ -3,11 +3,11 @@ sr: "0.311.11"
 title: Convenzione del 9 dicembre 1948 per la prevenzione e la repressione del delitto di genocidio
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/358"
 language: it
-version: 2020-06-30
+version: 2025-03-20
 adopted: 1948-12-09
 in_force: 2000-12-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20200630/it/xml/fedlex-data-admin-ch-eli-cc-2002-358-20200630-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20200630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/358/20250320/it/xml/fedlex-data-admin-ch-eli-cc-2002-358-20250320-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/358/20250320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2002** 2606; FF **1999** 4611
 
 Traduzione
 
-Conclusa a New York il 9 dicembre 1948
+Conclusa a New York il 9 dicembre 1948 Approvata dall’Assemblea federale il 9 marzo 2000[^t-1] Ratificata con strumenti depositati il 7 settembre 2000 Entrata in vigore per la Svizzera il 6 dicembre 2000
 
-Approvata dall’Assemblea federale il 9 marzo 2000[^t-1]
-
-Ratificata con strumenti depositati il 7 settembre 2000
-
-Entrata in vigore per la Svizzera il 6 dicembre 2000
-
-(Stato 30 giugno 2020)
+(Stato 20 marzo 2025)
 
 [^t-1]: [RU 2002 2605](https://fedlex.data.admin.ch/eli/oc/2002/357)
 
@@ -88,7 +82,7 @@ Le Parti contraenti si impegnano in tali casi ad accordare l’estradizione in c
 
 Ogni Parte contraente può invitare gli organi competenti delle Nazioni Unite a prendere, ai sensi della Carta delle Nazioni Unite[^VIII-1] ogni misura che essi giudichino appropriata ai fini della prevenzione e della repressione degli atti di genocidio o di uno qualsiasi degli altri atti elencati all’articolo III.
 
-[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -161,7 +155,7 @@ La presente Convenzione sarà registrata dal Segretario generale delle Nazioni U
 
 (Seguono le firme)
 
-Campo d’applicazione il 30 giugno 2020**[^t-2]**
+Campo d’applicazione il 20 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -328,11 +322,9 @@ Campo d’applicazione il 30 giugno 2020**[^t-2]**
 <tr><td>Venezuela<sup>\*</sup></td><td>12 luglio</td><td>1960 A</td><td>10 ottobre</td><td>1960</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>9 giugno</td><td>1981 A</td><td>7 settembre</td><td>1981</td></tr>
 <tr><td>Yemen<sup>\*</sup></td><td>9 febbraio</td><td>1987 A</td><td>10 maggio</td><td>1987</td></tr>
+<tr><td>Zambia</td><td>20 aprile</td><td>2022 A</td><td>19 luglio</td><td>2022</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>11 agosto</td><td>1991</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Applicabile ai territori d’oltremare.</td></tr>
-<tr><td colspan="5"><sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 6 giu. 1997, la Conv. è applicabile dal 1° lug. 1997 alla Regione amministrativa speciale (RAS) di Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>c</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 17 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/%20), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Applicabile ai territori d’oltremare. <sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 6 giu. 1997, la Conv. è applicabile dal 1° lug. 1997 alla Regione amministrativa speciale (RAS) di Hong Kong. <sup>c</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 17 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358), [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289), [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324), [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93), [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342), [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141), [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2002 2606](https://fedlex.data.admin.ch/eli/oc/2002/358); [2006 1853](https://fedlex.data.admin.ch/eli/oc/2006/289); [2009 2545](https://fedlex.data.admin.ch/eli/oc/2009/324); [2012 621](https://fedlex.data.admin.ch/eli/oc/2012/93); [2014 1897](https://fedlex.data.admin.ch/eli/oc/2014/342); [2019 835](https://fedlex.data.admin.ch/eli/oc/2019/141); [2020 3327](https://fedlex.data.admin.ch/eli/oc/2020/562); [2025 210](https://fedlex.data.admin.ch/eli/oc/2025/210). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
