@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Paquet d’ordonnances environnementales de l’automne 2025
 document: "Projet mis en consultation: ORRChim"
 language: fr

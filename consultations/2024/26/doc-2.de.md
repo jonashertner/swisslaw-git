@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Herbst 2025
 document: "Vernehmlassungsvorlage: ChemRRV"
 language: de
