@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision partielle de la loi fédérale sur le Tribunal fédéral (Loi sur le Tribunal fédéral, LTF)"
 document: Projet mis en consultation
 language: fr

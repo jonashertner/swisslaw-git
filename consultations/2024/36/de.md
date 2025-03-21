@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Teilrevision des Bundesgesetzes über das Bundesgericht (Bundesgerichtsgesetz, BGG)"
 document: Vernehmlassungsvorlage
 language: de

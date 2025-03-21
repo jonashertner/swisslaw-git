@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della Legge federale sul Tribunale federale (Legge sul Tribunale federale, BGG)"
 document: Progetto posto in consultazione
 language: it
