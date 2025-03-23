@@ -3,16 +3,16 @@ sr: "0.748.710.2"
 title: "Convention du 16 décembre 1970 pour la répression de la capture illicite d'aéronefs"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509"
 language: fr
-version: 2018-04-11
+version: 2025-03-24
 adopted: 1970-12-16
 in_force: 1971-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20180411/fr/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20180411-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20180411/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20250324/fr/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20250324-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20250324/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention pour la répression de la capture illicite d’aéronefs****
+# Convention pour la répression de la capture illicite d’aéronefs
 
 RO **1971** 1508; FF **1971** I 322[^t-1]
 
@@ -26,14 +26,14 @@ Instrument de ratification déposé par la Suisse le 14 septembre 1971
 
 Entrée en vigueur pour la Suisse le 14 octobre 1971
 
-(Etat le 11 avril 2018)
+(État le 24 mars 2025)
 
 [^t-1]: «Conv. de La Haye amendée par le Prot. de Pékin de 2010». Les mod. du Prot. add. du 10 sept. 2010 ([RS 0.748.710.21](https://fedlex.data.admin.ch/eli/cc/2018/42); [RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42)) sont insérés dans ce texte, mais elles sont applicables uniquement pour les Etats les ayant ratifiés. Voir par conséquent son propre champ d’application.
 [^t-2]: AF du 7 juin 1971 ([RO 1971 1507](https://fedlex.data.admin.ch/eli/oc/1971/1511_1507_1508))
 
 *Préambule*
 
-Les Etats parties à la présente convention,
+Les États parties à la présente convention,
 
 considérant que les actes illicites de capture ou d’exercice du contrôle d’aéronefs en vol compromettent la sécurité des personnes et des biens, gênent sérieusement l’exploitation des services aériens et minent la confiance des peuples du monde dans la sécurité de l’aviation civile,
 
@@ -53,23 +53,23 @@ sont convenus des dispositions suivantes:
 
 Commet également une infraction pénale toute personne qui:
 
-- (a) menace de commettre une des infractions visées au par. 1 du présent article; ou
+- (a) menace de commettre une des infractions visées au par. 1 du présent article, ou
 - (b) fait en sorte, illicitement et intentionnellement, qu’une personne reçoive une telle menace, dans des circonstances qui indiquent la crédibilité de la menace.
 
 <sup>3.</sup>
 
 Commet également une infraction pénale toute personne qui:
 
-- (a) tente de commettre une infraction visée au par. 1 du présent article; ou
-- (b) organise ou fait commettre par d’autres personnes une infraction visée aux par. 1, 2 ou 3, al. (a), du présent article; ou
-- (c) participe comme complice à une infraction visée aux par. 1, 2 ou 3, al. (a), du présent article; ou
+- (a) tente de commettre une infraction visée au par. 1 du présent article, ou
+- (b) organise ou fait commettre par d’autres personnes une infraction visée aux par. 1, 2 ou 3, al. (a), du présent article, ou
+- (c) participe comme complice à une infraction visée aux par. 1, 2 ou 3, al. (a), du présent article, ou
 - (d) illicitement et intentionnellement, aide une personne à se soustraire à une enquête, à des poursuites ou à une peine, en sachant que cette personne a commis un acte qui constitue une infraction visée aux par. 1, 2, 3 al. (a), 3, al. (b) ou 3, al. (c) du présent article, ou qu’elle est recherchée en vue de poursuites pénales pour une telle infraction par les autorités chargées de l’application de la loi, ou qu’elle a été condamnée pour une telle infraction.
 
 <sup>4.</sup>
 
-Chaque Etat partie confère aussi le caractère d’infraction pénale à l’un ou l’autre des actes suivants ou aux deux, lorsqu’ils sont commis intentionnellement, que les infractions visées aux par. 1 ou 2 du présent article soient ou non effectivement commises ou tentées:
+Chaque État partie confère aussi le caractère d’infraction pénale à l’un ou l’autre des actes suivants ou aux deux, lorsqu’ils sont commis intentionnellement, que les infractions visées aux par. 1 ou 2 du présent article soient ou non effectivement commises ou tentées:
 
-- (a) s’entendre avec une ou plusieurs autres personnes en vue de commettre une infraction visée aux par. 1 ou 2 du présent article et qui, lorsque le droit interne l’exige, implique un acte commis par un des participants en vertu de cette entente; ou
+- (a) s’entendre avec une ou plusieurs autres personnes en vue de commettre une infraction visée aux par. 1 ou 2 du présent article et qui, lorsque le droit interne l’exige, implique un acte commis par un des participants en vertu de cette entente, ou
 - (b)
 
   contribuer de toute autre manière à la perpétration d’une ou plusieurs des infractions visées aux par. 1 ou 2 du présent article par un groupe de personnes agissant de concert et:
@@ -83,7 +83,7 @@ Chaque Etat partie confère aussi le caractère d’infraction pénale à l’un
 
 [^2-1]
 
-Tout Etat partie s’engage à réprimer de peines sévères les infractions visées à l’art. 1.
+Tout État partie s’engage à réprimer de peines sévères les infractions visées à l’art. 1.
 
 [^2-1]: Nouvelle teneur selon l’art. III du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
@@ -91,11 +91,11 @@ Tout Etat partie s’engage à réprimer de peines sévères les infractions vis
 
 [^2bis-1]
 
-<sup>1.</sup> Chaque Etat partie, conformément aux principes de son droit interne, peut prendre les mesures nécessaires pour que la responsabilité d’une personne morale située sur son territoire ou constituée sous l’empire de sa législation soit engagée lorsqu’une personne responsable de la direction ou du contrôle de cette personne morale a, en cette qualité, commis une infraction visée à l’art. 1. Cette responsabilité peut être pénale, civile ou administrative.
+<sup>1.</sup> Chaque État partie, conformément aux principes de son droit interne, peut prendre les mesures nécessaires pour que la responsabilité d’une personne morale située sur son territoire ou constituée sous l’empire de sa législation soit engagée lorsqu’une personne responsable de la direction ou du contrôle de cette personne morale a, en cette qualité, commis une infraction visée à l’art. 1. Cette responsabilité peut être pénale, civile ou administrative.
 
 <sup>2.</sup> Ladite responsabilité est engagée sans préjudice de la responsabilité pénale des personnes physiques qui ont commis les infractions.
 
-<sup>3.</sup> Si un Etat partie prend les mesures nécessaires pour que soit engagée la responsabilité d’une personne morale en vertu du par. 1 du présent article, il s’efforce de veiller à ce que les sanctions pénales, civiles ou administratives applicables soient efficaces, proportionnées et dissuasives. Ces sanctions peuvent être notamment d’ordre pécuniaire.
+<sup>3.</sup> Si un État partie prend les mesures nécessaires pour que soit engagée la responsabilité d’une personne morale en vertu du par. 1 du présent article, il s’efforce de veiller à ce que les sanctions pénales, civiles ou administratives applicables soient efficaces, proportionnées et dissuasives. Ces sanctions peuvent être notamment d’ordre pécuniaire.
 
 [^2bis-1]: Introduit par l’art. IV du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
@@ -105,11 +105,11 @@ Tout Etat partie s’engage à réprimer de peines sévères les infractions vis
 
 <sup>2.</sup> La présente convention ne s’applique pas aux aéronefs utilisés à des fins militaires, de douane ou de police.
 
-<sup>3.</sup> La présente convention ne s’applique que si le lieu de décollage ou le lieu d’atterrissage effectif de l’aéronef à bord duquel l’infraction est commise est situé hors du territoire de l’Etat d’immatriculation de cet aéronef, qu’il s’agisse d’un aéronef en vol international ou d’un aéronef en vol intérieur.
+<sup>3.</sup> La présente convention ne s’applique que si le lieu de décollage ou le lieu d’atterrissage effectif de l’aéronef à bord duquel l’infraction est commise est situé hors du territoire de l’État d’immatriculation de cet aéronef, qu’il s’agisse d’un aéronef en vol international ou d’un aéronef en vol intérieur.
 
-<sup>4.</sup> Dans les cas prévus à l’art. 5, la présente convention ne s’applique pas si le lieu de décollage et le lieu d’atterrissage effectif de l’aéronef à bord duquel l’infraction est commise sont situés sur le territoire d’un seul des Etats mentionnés audit article.
+<sup>4.</sup> Dans les cas prévus à l’art. 5, la présente convention ne s’applique pas si le lieu de décollage et le lieu d’atterrissage effectif de l’aéronef à bord duquel l’infraction est commise sont situés sur le territoire d’un seul des États mentionnés audit article.
 
-<sup>5.</sup> Nonobstant les dispositions des par. 3 et 4 du présent article, les art. 6, 7, 7<sup>bis</sup>, 8, 8<sup>bis</sup>, 8<sup>ter</sup> et 10 s’appliquent quels que soient le lieu du décollage ou le lieu d’atterrissage effectif de l’aéronef si l’auteur ou l’auteur présumé de l’infraction est découvert sur le territoire d’un Etat autre que l’Etat d’immatriculation dudit aéronef.[^3-2]
+<sup>5.</sup> Nonobstant les dispositions des par. 3 et 4 du présent article, les art. 6, 7, 7<sup>bis</sup>, 8, 8<sup>bis</sup>, 8<sup>ter</sup> et 10 s’appliquent quels que soient le lieu du décollage ou le lieu d’atterrissage effectif de l’aéronef si l’auteur ou l’auteur présumé de l’infraction est découvert sur le territoire d’un État autre que l’État d’immatriculation dudit aéronef.[^3-2]
 
 [^3-1]: Nouvelle teneur selon l’art. V, ch. 1, du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 [^3-2]: Nouvelle teneur selon l’art. V, ch. 4, du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
@@ -118,9 +118,9 @@ Tout Etat partie s’engage à réprimer de peines sévères les infractions vis
 
 [^3bis-1]
 
-<sup>1.</sup> Aucune disposition de la présente Convention ne porte atteinte aux autres droits, obligations et responsabilités qui découlent, pour les Etats et les individus, du droit international, et en particulier des buts et principes de la Charte des Nations Unies[^3bis-2], de la Convention relative à l’aviation civile internationale[^3bis-3] et du droit international humanitaire.
+<sup>1.</sup> Aucune disposition de la présente Convention ne porte atteinte aux autres droits, obligations et responsabilités qui découlent, pour les États et les individus, du droit international, et en particulier des buts et principes de la Charte des Nations Unies[^3bis-2], de la Convention relative à l’aviation civile internationale[^3bis-3] et du droit international humanitaire.
 
-<sup>2.</sup> Les activités des forces armées en période de conflit armé, au sens donné à ces termes en droit international humanitaire, qui sont régies par ce droit, ne sont pas régies par la présente Convention, et les activités accomplies par les forces armées d’un Etat dans l’exercice de leurs fonctions officielles, dans la mesure où elles sont régies par d’autres règles de droit international, ne sont pas régies non plus par la présente Convention.
+<sup>2.</sup> Les activités des forces armées en période de conflit armé, au sens donné à ces termes en droit international humanitaire, qui sont régies par ce droit, ne sont pas régies par la présente Convention, et les activités accomplies par les forces armées d’un État dans l’exercice de leurs fonctions officielles, dans la mesure où elles sont régies par d’autres règles de droit international, ne sont pas régies non plus par la présente Convention.
 
 <sup>3.</sup> Les dispositions du par. 2 du présent article ne peuvent être interprétées comme excusant ou rendant licites des actes par ailleurs illicites, ni comme excluant l’exercice de poursuites sous l’empire d’autres lois.»
 
@@ -134,22 +134,22 @@ Tout Etat partie s’engage à réprimer de peines sévères les infractions vis
 
 <sup>1.</sup>
 
-Tout Etat partie prend les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions visées à l’art. 1, ainsi que de tout autre acte de violence dirigé contre les passagers ou l’équipage et commis par l’auteur présumé des infractions en relation directe avec celles-ci, dans les cas suivants:
+Tout État partie prend les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions visées à l’art. 1, ainsi que de tout autre acte de violence dirigé contre les passagers ou l’équipage et commis par l’auteur présumé des infractions en relation directe avec celles-ci, dans les cas suivants:
 
-- (a) si l’infraction est commise sur le territoire de cet Etat;
-- (b) si l’infraction est commise à l’encontre ou à bord d’un aéronef immatriculé dans cet Etat;
+- (a) si l’infraction est commise sur le territoire de cet État;
+- (b) si l’infraction est commise à l’encontre ou à bord d’un aéronef immatriculé dans cet État;
 - (c) si l’aéronef à bord duquel l’infraction est commise atterrit sur son territoire avec l’auteur présumé de l’infraction encore à bord;
-- (d) si l’infraction est commise à l’encontre ou à bord d’un aéronef donné en location sans équipage à une personne qui a son principal établissement, ou à défaut sa résidence permanente, dans ledit Etat;
-- (e) si l’infraction est commise par un ressortissant de cet Etat.
+- (d) si l’infraction est commise à l’encontre ou à bord d’un aéronef donné en location sans équipage à une personne qui a son principal établissement, ou à défaut sa résidence permanente, dans ledit État;
+- (e) si l’infraction est commise par un ressortissant de cet État.
 
 <sup>2.</sup>
 
-Tout Etat partie peut également établir sa compétence aux fins de connaître de ces infractions dans les cas suivants:
+Tout État partie peut également établir sa compétence aux fins de connaître de ces infractions dans les cas suivants:
 
-- (a) si l’infraction est commise contre un ressortissant de cet Etat;
-- (b) si l’infraction est commise par un apatride qui a sa résidence habituelle sur le territoire de cet Etat.
+- (a) si l’infraction est commise contre un ressortissant de cet État;
+- (b) si l’infraction est commise par un apatride qui a sa résidence habituelle sur le territoire de cet État.
 
-<sup>3.</sup> Tout Etat partie prend également les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions visées à l’art. 1 dans le cas où l’auteur présumé de l’une d’elles se trouve sur son territoire et où ledit Etat ne l’extrade pas conformément à l’art. 8 vers l’un des Etats parties qui ont établi leur compétence aux fins de connaître de ces infractions conformément aux paragraphes applicables du présent article.
+<sup>3.</sup> Tout État partie prend également les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions visées à l’art. 1 dans le cas où l’auteur présumé de l’une d’elles se trouve sur son territoire et où ledit État ne l’extrade pas conformément à l’art. 8 vers l’un des États parties qui ont établi leur compétence aux fins de connaître de ces infractions conformément aux paragraphes applicables du présent article.
 
 <sup>4.</sup> La présente Convention n’écarte aucune compétence pénale exercée conformément au droit interne.
 
@@ -159,32 +159,32 @@ Tout Etat partie peut également établir sa compétence aux fins de connaître 
 
 [^5-1]
 
-Les Etats parties qui constituent, pour le transport aérien, des organisations d’exploitation en commun ou des organismes internationaux d’exploitation qui exploitent des aéronefs faisant l’objet d’une immatriculation commune ou internationale désignent pour chaque aéronef, suivant les modalités appropriées, l’Etat qui exercera la compétence et aura les attributions de l’Etat d’immatriculation aux fins de la présente Convention; ils aviseront de cette désignation le Secrétaire général de l’Organisation de l’aviation civile internationale, qui en informera tous les Etats parties à la présente Convention.
+Les États parties qui constituent, pour le transport aérien, des organisations d’exploitation en commun ou des organismes internationaux d’exploitation qui exploitent des aéronefs faisant l’objet d’une immatriculation commune ou internationale désignent pour chaque aéronef, suivant les modalités appropriées, l’État qui exercera la compétence et aura les attributions de l’État d’immatriculation aux fins de la présente Convention; ils aviseront de cette désignation le Secrétaire général de l’Organisation de l’aviation civile internationale, qui en informera tous les États parties à la présente Convention.
 
 [^5-1]: Nouvelle teneur selon l’art. VIII du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
 #### Art. 6
 
-<sup>1.</sup> S’il estime que les circonstances le justifient, tout Etat partie[^6-1] sur le territoire duquel se trouve l’auteur ou l’auteur présumé de l’infraction assure la détention de cette personne ou prend toutes autres mesures nécessaires pour assurer sa présence. Cette détention et ces mesures doivent être conformes à la législation dudit Etat; elles ne peuvent être maintenues que pendant le délai nécessaire à l’engagement de poursuites pénales ou d’une procédure d’extradition.
+<sup>1.</sup> S’il estime que les circonstances le justifient, tout État partie[^6-1] sur le territoire duquel se trouve l’auteur ou l’auteur présumé de l’infraction assure la détention de cette personne ou prend toutes autres mesures nécessaires pour assurer sa présence. Cette détention et ces mesures doivent être conformes à la législation dudit État; elles ne peuvent être maintenues que pendant le délai nécessaire à l’engagement de poursuites pénales ou d’une procédure d’extradition.
 
-<sup>2.</sup> Ledit Etat procède immédiatement à une enquête préliminaire en vue d’établir les faits.
+<sup>2.</sup> Ledit État procède immédiatement à une enquête préliminaire en vue d’établir les faits.
 
-<sup>3.</sup> Toute personne détenue en application du par. 1<sup>er</sup> du présent article peut communiquer immédiatement avec le plus proche représentant qualifié de l’Etat dont elle a la nationalité; toutes facilités lui sont accordées à cette fin.
+<sup>3.</sup> Toute personne détenue en application du par. 1<sup>er</sup> du présent article peut communiquer immédiatement avec le plus proche représentant qualifié de l’État dont elle a la nationalité; toutes facilités lui sont accordées à cette fin.
 
-<sup>4.</sup> Lorsqu’un Etat partie a placé une personne en détention conformément aux dispositions du présent article, il avise immédiatement de cette détention, ainsi que des circonstances qui la justifient, les Etats parties qui ont établi leur compétence en vertu du par. 1 de l’art. 4 et établi leur compétence et informé le dépositaire en vertu du par. 2 de l’art. 4, et, s’il le juge opportun, tous autres Etats intéressés. L’Etat partie qui procède à l’enquête préliminaire visée au par. 2 du présent article en communique rapidement les conclusions auxdits Etats parties et leur indique s’il entend exercer sa compétence.[^6-2]
+<sup>4.</sup> Lorsqu’un État partie a placé une personne en détention conformément aux dispositions du présent article, il avise immédiatement de cette détention, ainsi que des circonstances qui la justifient, les États parties qui ont établi leur compétence en vertu du par. 1 de l’art. 4 et établi leur compétence et informé le dépositaire en vertu du par. 2 de l’art. 4, et, s’il le juge opportun, tous autres États intéressés. L’État partie qui procède à l’enquête préliminaire visée au par. 2 du présent article en communique rapidement les conclusions auxdits États parties et leur indique s’il entend exercer sa compétence.[^6-2]
 
 [^6-1]: Nouvelle expression selon l’art. XVII, ch. 1, du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)). Il a été tenu compte de cette mod. dans tout le texte.
 [^6-2]: Nouvelle teneur selon l’art. IX du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
 #### Art. 7
 
-L’Etat partie sur le territoire duquel l’auteur présumé de l’infraction est découvert, s’il n’extrade pas ce dernier, soumet l’affaire, sans aucune exception et que l’infraction ait ou non été commise sur son territoire, à ses autorités compétentes pour l’exercice de l’action pénale. Ces autorités prennent leur décision dans les mêmes conditions que pour toute infraction de droit commun de caractère grave conformément aux lois de cet Etat.
+L’État partie sur le territoire duquel l’auteur présumé de l’infraction est découvert, s’il n’extrade pas ce dernier, soumet l’affaire, sans aucune exception et que l’infraction ait ou non été commise sur son territoire, à ses autorités compétentes pour l’exercice de l’action pénale. Ces autorités prennent leur décision dans les mêmes conditions que pour toute infraction de droit commun de caractère grave conformément aux lois de cet État.
 
 #### Art. 7<sup>bis</sup>
 
 [^7bis-1]
 
-Toute personne placée en détention ou contre laquelle toute autre mesure est prise ou une procédure est engagée en vertu de la présente Convention se voit garantir un traitement équitable et tous les droits et garanties conformes au droit interne de l’Etat sur le territoire duquel elle se trouve et aux dispositions applicables du droit international, y compris celles qui ont trait aux droits de l’homme.
+Toute personne placée en détention ou contre laquelle toute autre mesure est prise ou une procédure est engagée en vertu de la présente Convention se voit garantir un traitement équitable et tous les droits et garanties conformes au droit interne de l’État sur le territoire duquel elle se trouve et aux dispositions applicables du droit international, y compris celles qui ont trait aux droits de l’homme.
 
 [^7bis-1]: Introduit par l’art. X du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
@@ -192,15 +192,15 @@ Toute personne placée en détention ou contre laquelle toute autre mesure est p
 
 [^8-1]
 
-<sup>1.</sup> Les infractions visées à l’art. 1 sont de plein droit comprises comme cas d’extradition dans tout traité d’extradition conclu entre Etats parties. Les Etats parties s’engagent à comprendre ces infractions comme cas d’extradition dans tout traité d’extradition à conclure entre eux.
+<sup>1.</sup> Les infractions visées à l’art. 1 sont de plein droit comprises comme cas d’extradition dans tout traité d’extradition conclu entre États parties. Les États parties s’engagent à comprendre ces infractions comme cas d’extradition dans tout traité d’extradition à conclure entre eux.
 
-<sup>2.</sup> Si un Etat partie qui subordonne l’extradition à l’existence d’un traité est saisi d’une demande d’extradition par un autre Etat partie avec lequel il n’est pas lié par un traité d’extradition, il a la latitude de considérer la présente Convention comme constituant la base juridique de l’extradition en ce qui concerne les infractions visées à l’art. 1. L’extradition est subordonnée aux autres conditions prévues par le droit de l’Etat requis.
+<sup>2.</sup> Si un État partie qui subordonne l’extradition à l’existence d’un traité est saisi d’une demande d’extradition par un autre État partie avec lequel il n’est pas lié par un traité d’extradition, il a la latitude de considérer la présente Convention comme constituant la base juridique de l’extradition en ce qui concerne les infractions visées à l’art. 1. L’extradition est subordonnée aux autres conditions prévues par le droit de l’État requis.
 
-<sup>3.</sup> Les Etats parties qui ne subordonnent pas l’extradition à l’existence d’un traité reconnaissent les infractions visées à l’art. 1 comme cas d’extradition entre eux dans les conditions prévues par le droit de l’Etat requis.
+<sup>3.</sup> Les États parties qui ne subordonnent pas l’extradition à l’existence d’un traité reconnaissent les infractions visées à l’art. 1 comme cas d’extradition entre eux dans les conditions prévues par le droit de l’État requis.
 
-<sup>4.</sup> Chacune des infractions est considérée, aux fins d’extradition entre Etats parties, comme ayant été commise tant au lieu de sa perpétration que sur le territoire des Etats parties tenus d’établir leur compétence en vertu du par. 1, al. (b), (c), (d) et (e), de l’art. 4, et qui ont établi leur compétence en vertu du par. 2 de l’art. 4.
+<sup>4.</sup> Chacune des infractions est considérée, aux fins d’extradition entre États parties, comme ayant été commise tant au lieu de sa perpétration que sur le territoire des États parties tenus d’établir leur compétence en vertu du par. 1, al. (b), (c), (d) et (e), de l’art. 4, et qui ont établi leur compétence en vertu du par. 2 de l’art. 4.
 
-<sup>5.</sup> Les infractions visées aux al. (a) et (b) du par. 4 de l’art. 1 sont, aux fins d’extradition entre Etats parties, traitées comme équivalentes.
+<sup>5.</sup> Les infractions visées aux al. (a) et (b) du par. 4 de l’art. 1 sont, aux fins d’extradition entre États parties, traitées comme équivalentes.
 
 [^8-1]: Nouvelle teneur selon l’art. XI du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
@@ -216,21 +216,21 @@ Aucune des infractions visées à l’art. 1 ne sera considérée, aux fins d’
 
 [^8ter-1]
 
-Aucune disposition de la présente Convention ne sera interprétée comme impliquant une obligation d’extradition ou d’entraide judiciaire si l’Etat partie requis a des raisons sérieuses de croire que la demande d’extradition concernant les infractions visées à l’art. 1 ou la demande d’entraide judiciaire concernant de telles infractions a été présentée aux fins de poursuivre ou de punir une personne pour des raisons de race, de religion, de nationalité, d’origine ethnique, d’opinions politiques ou de sexe, ou que donner suite à cette demande porterait préjudice à la situation de cette personne pour l’une quelconque de ces raisons.
+Aucune disposition de la présente Convention ne sera interprétée comme impliquant une obligation d’extradition ou d’entraide judiciaire si l’État partie requis a des raisons sérieuses de croire que la demande d’extradition concernant les infractions visées à l’art. 1 ou la demande d’entraide judiciaire concernant de telles infractions a été présentée aux fins de poursuivre ou de punir une personne pour des raisons de race, de religion, de nationalité, d’origine ethnique, d’opinions politiques ou de sexe, ou que donner suite à cette demande porterait préjudice à la situation de cette personne pour l’une quelconque de ces raisons.
 
 [^8ter-1]: Introduit par l’art. XIII du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
 #### Art. 9
 
-<sup>1.</sup> Lorsque l’un des actes visés au par. 1 de l’art. 1 est accompli ou sur le point d’être accompli, les Etats parties prennent toutes mesures appropriées pour restituer ou conserver le contrôle de l’aéronef à son commandant légitime.[^9-1]
+<sup>1.</sup> Lorsque l’un des actes visés au par. 1 de l’art. 1 est accompli ou sur le point d’être accompli, les États parties prennent toutes mesures appropriées pour restituer ou conserver le contrôle de l’aéronef à son commandant légitime.[^9-1]
 
-<sup>2.</sup> Dans les cas visés au paragraphe précédent, tout Etat partie sur le territoire duquel se trouvent l’aéronef, les passagers ou l’équipage facilite aux passagers et à l’équipage la poursuite de leur voyage aussitôt que possible. Il restitue sans retard l’aéronef et sa cargaison à ceux qui ont le droit de les détenir.
+<sup>2.</sup> Dans les cas visés au paragraphe précédent, tout État partie sur le territoire duquel se trouvent l’aéronef, les passagers ou l’équipage facilite aux passagers et à l’équipage la poursuite de leur voyage aussitôt que possible. Il restitue sans retard l’aéronef et sa cargaison à ceux qui ont le droit de les détenir.
 
 [^9-1]: Nouvelle teneur selon l’art. XIV du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
 #### Art. 10
 
-<sup>1.</sup> Les Etats parties s’accordent l’entraide judiciaire la plus large possible dans toute procédure pénale relative aux infractions visées à l’art. 1 et aux autres actes visés à l’art. 4. Dans tous les cas, le droit applicable est celui de l’Etat requis.[^10-1]
+<sup>1.</sup> Les États parties s’accordent l’entraide judiciaire la plus large possible dans toute procédure pénale relative aux infractions visées à l’art. 1 et aux autres actes visés à l’art. 4. Dans tous les cas, le droit applicable est celui de l’État requis.[^10-1]
 
 <sup>2.</sup> Toutefois, les dispositions du par. 1<sup>er</sup> du présent article n’affectent pas les obligations découlant des dispositions de tout autre traité de caractère bilatéral ou multilatéral qui régit ou régira, en tout ou en partie, le domaine de l’entraide judiciaire en matière pénale.
 
@@ -240,13 +240,13 @@ Aucune disposition de la présente Convention ne sera interprétée comme impliq
 
 [^10bis-1]
 
-Tout Etat partie qui a lieu de croire que l’une des infractions visées à l’art. 1 sera commise fournit, en conformité avec les dispositions de son droit interne, tous renseignements utiles en sa possession aux Etats parties qui à son avis seraient les Etats visés aux par. 1 et 2 de l’art. 4.
+Tout État partie qui a lieu de croire que l’une des infractions visées à l’art. 1 sera commise fournit, en conformité avec les dispositions de son droit interne, tous renseignements utiles en sa possession aux États parties qui à son avis seraient les États visés aux par. 1 et 2 de l’art. 4.
 
 [^10bis-1]: Introduit par l’art. XVI du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)).
 
 #### Art. 11
 
-Tout Etat partie communique aussi rapidement que possible au Conseil de l’Organisation de l’Aviation civile internationale, en conformité avec les dispositions de sa législation nationale, tous renseignements utiles en sa possession relatifs:
+Tout État partie communique aussi rapidement que possible au Conseil de l’Organisation de l’Aviation civile internationale, en conformité avec les dispositions de sa législation nationale, tous renseignements utiles en sa possession relatifs:
 
 - a) aux circonstances de l’infraction;
 - b) aux mesures prises en application de l’art. 9;
@@ -254,25 +254,25 @@ Tout Etat partie communique aussi rapidement que possible au Conseil de l’Orga
 
 #### Art. 12
 
-<sup>1.</sup> Tout différend entre des Etats parties[^12-1] concernant l’interprétation ou l’application de la présente convention qui ne peut pas être réglé par voie de négociation est soumis à l’arbitrage, à la demande de l’un d’entre eux. Si, dans les six mois qui suivent la date de la demande d’arbitrage, les Parties ne parviennent pas à se mettre d’accord sur l’organisation de l’arbitrage, l’une quelconque d’entre elles peut soumettre le différend à la Cour internationale de Justice, en déposant une requête conformément au Statut de la Cour.
+<sup>1.</sup> Tout différend entre des États parties[^12-1] concernant l’interprétation ou l’application de la présente convention qui ne peut pas être réglé par voie de négociation est soumis à l’arbitrage, à la demande de l’un d’entre eux. Si, dans les six mois qui suivent la date de la demande d’arbitrage, les Parties ne parviennent pas à se mettre d’accord sur l’organisation de l’arbitrage, l’une quelconque d’entre elles peut soumettre le différend à la Cour internationale de Justice, en déposant une requête conformément au Statut de la Cour.
 
-<sup>2.</sup> Chaque Etat pourra, au moment où il signera ou ratifiera la présente convention ou y adhérera, déclarer qu’il ne se considère pas lié par les dispositions du paragraphe précédent. Les autres Etats parties ne seront pas liés par lesdites dispositions envers tout Etat partie qui aura formulé une telle réserve.
+<sup>2.</sup> Chaque État pourra, au moment où il signera ou ratifiera la présente convention ou y adhérera, déclarer qu’il ne se considère pas lié par les dispositions du paragraphe précédent. Les autres États parties ne seront pas liés par lesdites dispositions envers tout État partie qui aura formulé une telle réserve.
 
-<sup>3.</sup> Tout Etat partie qui aura formulé une réserve conformément aux dispositions du paragraphe précédent pourra à tout moment lever cette réserve par une notification adressée aux gouvernements dépositaires.
+<sup>3.</sup> Tout État partie qui aura formulé une réserve conformément aux dispositions du paragraphe précédent pourra à tout moment lever cette réserve par une notification adressée aux gouvernements dépositaires.
 
 [^12-1]: Nouvelle expression selon l’art. XVII, ch. 1, du Prot. add. du 10 sept. 2010, approuvé par l’Ass. féd. le 20 juin 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> jan. 2018 ([RO 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [FF 2013 7653](https://fedlex.data.admin.ch/eli/fga/2013/1686)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 13
 
-<sup>1.</sup> La présente convention sera ouverte le 16 décembre 1970 à La Haye à la signature des Etats participant à la Conférence internationale de droit aérien tenue à La Haye du l<sup>er</sup> au 16 décembre 1970 (ci‑après dénommée «la Conférence de La Haye»). Après le 31 décembre 1970, elle sera ouverte à la signature de tous les Etats à Washington, à Londres et à Moscou. Tout Etat qui n’aura pas signé la convention avant qu’elle soit entrée en vigueur conformément au par. 3 du présent article pourra y adhérer à tout moment.
+<sup>1.</sup> La présente convention sera ouverte le 16 décembre 1970 à La Haye à la signature des États participant à la Conférence internationale de droit aérien tenue à La Haye du l<sup>er</sup> au 16 décembre 1970 (ci‑après dénommée «la Conférence de La Haye»). Après le 31 décembre 1970, elle sera ouverte à la signature de tous les États à Washington, à Londres et à Moscou. Tout État qui n’aura pas signé la convention avant qu’elle soit entrée en vigueur conformément au par. 3 du présent article pourra y adhérer à tout moment.
 
-<sup>2.</sup> La présente convention est soumise à la ratification des Etats signataires. Les instruments de ratification ainsi que les instruments d’adhésion seront déposés auprès des gouvernements des Etats‑Unis d’Amérique, du Royaume-Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques socialistes soviétiques, qui sont désignés par les présentes comme gouvernements dépositaires.
+<sup>2.</sup> La présente convention est soumise à la ratification des États signataires. Les instruments de ratification ainsi que les instruments d’adhésion seront déposés auprès des gouvernements des États‑Unis d’Amérique, du Royaume-Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques socialistes soviétiques, qui sont désignés par les présentes comme gouvernements dépositaires.
 
-<sup>3.</sup> La présente convention entrera en vigueur trente jours après la date du dépôt des instruments de ratification de dix Etats signataires qui ont participé à la Conférence de La Haye.
+<sup>3.</sup> La présente convention entrera en vigueur trente jours après la date du dépôt des instruments de ratification de dix États signataires qui ont participé à la Conférence de La Haye.
 
-<sup>4.</sup> Pour les autres Etats, la présente convention entrera en vigueur à la date de son entrée en vigueur conformément au par. 3 du présent article ou trente jours après la date du dépôt de leurs instruments de ratification ou d’adhésion, si cette seconde date est postérieure à la première.
+<sup>4.</sup> Pour les autres États, la présente convention entrera en vigueur à la date de son entrée en vigueur conformément au par. 3 du présent article ou trente jours après la date du dépôt de leurs instruments de ratification ou d’adhésion, si cette seconde date est postérieure à la première.
 
-<sup>5.</sup> Les gouvernements dépositaires informeront rapidement tous les Etats qui signeront la présente convention ou y adhéreront de la date de chaque signature, de la date du dépôt de chaque instrument de ratification ou d’adhésion, de la date d’entrée en vigueur de la présente convention ainsi que de toutes autres communications.
+<sup>5.</sup> Les gouvernements dépositaires informeront rapidement tous les États qui signeront la présente convention ou y adhéreront de la date de chaque signature, de la date du dépôt de chaque instrument de ratification ou d’adhésion, de la date d’entrée en vigueur de la présente convention ainsi que de toutes autres communications.
 
 <sup>6.</sup> Dès son entrée en vigueur, la présente convention sera enregistrée par les gouvernements dépositaires conformément aux dispositions de l’art. 102 de la Charte des Nations Unies[^13-1] et conformément aux dispositions de l’art. 83 de la Convention relative à l’Aviation civile internationale (Chicago, 1944)[^13-2].
 
@@ -281,18 +281,16 @@ Tout Etat partie communique aussi rapidement que possible au Conseil de l’Orga
 
 #### Art. 14
 
-<sup>1.</sup> Tout Etat partie peut dénoncer la présente convention par voie de notification écrite adressée aux gouvernements dépositaires.
+<sup>1.</sup> Tout État partie peut dénoncer la présente convention par voie de notification écrite adressée aux gouvernements dépositaires.
 
 <sup>2.</sup> La dénonciation prendra effet six mois après la date à laquelle la notification aura été reçue par les gouvernements dépositaires.
 
-*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente convention. Fait à La Haye, le seizième jour du mois de décembre de l’an mil neuf cent soixante‑dix, en trois exemplaires originaux comprenant chacun quatre textes authentiques rédigés dans les langues française, anglaise, espagnole et russe.
+*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente convention. Fait à La Haye, le seizième jour du mois de décembre de l’an mil neuf cent soixante‑dix, en trois exemplaires originaux comprenant chacun quatre textes authentiques rédigés dans les langues française, anglaise, espagnole et russe. (Suivent les signatures)
 
-(Suivent les signatures)
-
-Champ d’application le 11 avril 2018**[^t-3]**
+Champ d’application le 24 mars 2025[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification<sup>a</sup> Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification<sup>a</sup> Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>29 août</td><td>1979</td><td>28 septembre</td><td>1979</td></tr>
 <tr><td>Afrique du Sud\*</td><td>30 mai</td><td>1972</td><td>29 juin</td><td>1972</td></tr>
 <tr><td>Albanie</td><td>21 octobre</td><td>1997 A</td><td>20 novembre</td><td>1997</td></tr>
@@ -323,6 +321,7 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Brunéi</td><td>16 avril</td><td>1986 A</td><td>16 mai</td><td>1986</td></tr>
 <tr><td>Bulgarie</td><td>19 mai</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
 <tr><td>Burkina Faso</td><td>19 octobre</td><td>1987 A</td><td>18 novembre</td><td>1987</td></tr>
+<tr><td>Burundi</td><td>11 février</td><td>1999 A</td><td>13 mars</td><td>1999</td></tr>
 <tr><td>Cambodge</td><td>8 novembre</td><td>1996</td><td>8 décembre</td><td>1996</td></tr>
 <tr><td>Cameroun</td><td>14 avril</td><td>1988 A</td><td>14 mai</td><td>1988</td></tr>
 <tr><td>Canada</td><td>19 juin</td><td>1972</td><td>19 juillet</td><td>1972</td></tr>
@@ -346,14 +345,15 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Groenland</td><td>1<sup>er</sup> juin</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1980</td></tr>
 <tr><td>Djibouti</td><td>24 novembre</td><td>1992 A</td><td>24 décembre</td><td>1992</td></tr>
 <tr><td>Dominique</td><td>26 juillet</td><td>2005 A</td><td>25 août</td><td>2005</td></tr>
-<tr><td>Egypte\*</td><td>28 février</td><td>1975 A</td><td>30 mars</td><td>1975</td></tr>
+<tr><td>Égypte\*</td><td>28 février</td><td>1975 A</td><td>30 mars</td><td>1975</td></tr>
 <tr><td>El Salvador</td><td>17 janvier</td><td>1973</td><td>16 février</td><td>1973</td></tr>
-<tr><td>Emirats arabes unis</td><td>14 avril</td><td>1981 A</td><td>14 mai</td><td>1981</td></tr>
-<tr><td>Equateur</td><td>14 juin</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
+<tr><td>Émirats arabes unis</td><td>14 avril</td><td>1981 A</td><td>14 mai</td><td>1981</td></tr>
+<tr><td>Équateur</td><td>14 juin</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
 <tr><td>Espagne</td><td>30 octobre</td><td>1972</td><td>29 novembre</td><td>1972</td></tr>
 <tr><td>Estonie</td><td>22 décembre</td><td>1993 A</td><td>21 janvier</td><td>1994</td></tr>
-<tr><td>Etats-Unis</td><td>14 septembre</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
-<tr><td>Ethiopie</td><td>26 mars</td><td>1979</td><td>25 avril</td><td>1979</td></tr>
+<tr><td>Eswatini</td><td>27 décembre</td><td>1999 A</td><td>26 janvier</td><td>2000</td></tr>
+<tr><td>États-Unis</td><td>14 septembre</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
+<tr><td>Éthiopie</td><td>26 mars</td><td>1979</td><td>25 avril</td><td>1979</td></tr>
 <tr><td>Fidji</td><td>27 juillet</td><td>1972</td><td>26 août</td><td>1972</td></tr>
 <tr><td>Finlande</td><td>15 décembre</td><td>1971</td><td>14 janvier</td><td>1972</td></tr>
 <tr><td>France</td><td>18 septembre</td><td>1972</td><td>18 octobre</td><td>1972</td></tr>
@@ -371,8 +371,8 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Haïti</td><td>9 mai</td><td>1984 A</td><td>8 juin</td><td>1984</td></tr>
 <tr><td>Honduras</td><td>13 avril</td><td>1987 A</td><td>13 mai</td><td>1987</td></tr>
 <tr><td>Hongrie</td><td>13 août</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
-<tr><td>Iles Cook</td><td>14 avril</td><td>2005 A</td><td>14 mai</td><td>2005</td></tr>
-<tr><td>Iles Marshall</td><td>31 mai</td><td>1989 A</td><td>30 juin</td><td>1989</td></tr>
+<tr><td>Îles Cook</td><td>14 avril</td><td>2005 A</td><td>14 mai</td><td>2005</td></tr>
+<tr><td>Îles Marshall</td><td>31 mai</td><td>1989 A</td><td>30 juin</td><td>1989</td></tr>
 <tr><td>Inde\*</td><td>12 novembre</td><td>1982</td><td>12 décembre</td><td>1982</td></tr>
 <tr><td>Indonésie\*</td><td>27 août</td><td>1976</td><td>26 septembre</td><td>1976</td></tr>
 <tr><td>Iran</td><td>25 janvier</td><td>1972</td><td>24 février</td><td>1972</td></tr>
@@ -397,7 +397,7 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Liechtenstein</td><td>23 février</td><td>2001</td><td>25 mars</td><td>2001</td></tr>
 <tr><td>Lituanie</td><td>4 décembre</td><td>1996 A</td><td>3 janvier</td><td>1997</td></tr>
 <tr><td>Luxembourg</td><td>22 novembre</td><td>1978</td><td>21 décembre</td><td>1978</td></tr>
-<tr><td>Macédoine</td><td>7 janvier</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>7 janvier</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>18 novembre</td><td>1986 A</td><td>18 décembre</td><td>1986</td></tr>
 <tr><td>Malaisie</td><td>4 mai</td><td>1985</td><td>3 juin</td><td>1985</td></tr>
 <tr><td>Malawi\*</td><td>21 décembre</td><td>1972 A</td><td>20 janvier</td><td>1973</td></tr>
@@ -447,7 +447,7 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Roumanie\*</td><td>10 juillet</td><td>1972</td><td>9 août</td><td>1972</td></tr>
 <tr><td>Royaume-Uni\*</td><td>22 décembre</td><td>1971</td><td>21 janvier</td><td>1972</td></tr>
 <tr><td>Anguilla</td><td>22 décembre</td><td>1971</td><td>21 janvier</td><td>1972</td></tr>
-<tr><td>Iles Salomon britanniques</td><td>22 décembre</td><td>1971</td><td>21 janvier</td><td>1972</td></tr>
+<tr><td>Îles Salomon britanniques</td><td>22 décembre</td><td>1971</td><td>21 janvier</td><td>1972</td></tr>
 <tr><td>Territoires sous la souveraineté territoriale du Royaume-Uni</td><td>22 décembre</td><td>1971</td><td>21 janvier</td><td>1972</td></tr>
 <tr><td>Russie<sup>c</sup></td><td>24 septembre</td><td>1971</td><td>24 octobre</td><td>1971</td></tr>
 <tr><td>Rwanda</td><td>3 novembre</td><td>1987</td><td>3 décembre</td><td>1987</td></tr>
@@ -464,12 +464,12 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Singapour</td><td>12 avril</td><td>1978</td><td>12 mai</td><td>1978</td></tr>
 <tr><td>Slovaquie</td><td>13 décembre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>27 mai</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Somalie</td><td>11 mars</td><td>2025 A</td><td>10 avril</td><td>2025</td></tr>
 <tr><td>Soudan</td><td>18 janvier</td><td>1979 A</td><td>17 février</td><td>1979</td></tr>
 <tr><td>Sri Lanka</td><td>30 mai</td><td>1978 A</td><td>29 juin</td><td>1978</td></tr>
 <tr><td>Suède</td><td>7 juillet</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
 <tr><td>Suisse</td><td>14 septembre</td><td>1971</td><td>14 octobre</td><td>1971</td></tr>
 <tr><td>Suriname</td><td>27 octobre</td><td>1978 S</td><td>25 novembre</td><td>1975</td></tr>
-<tr><td>Swaziland</td><td>27 décembre</td><td>1999 A</td><td>26 janvier</td><td>2000</td></tr>
 <tr><td>Syrie\*</td><td>10 juillet</td><td>1980 A</td><td>9 août</td><td>1980</td></tr>
 <tr><td>Tadjikistan</td><td>29 février</td><td>1996 A</td><td>30 mars</td><td>1996</td></tr>
 <tr><td>Taipei chinois (Taiwan)</td><td>27 juillet</td><td>1972</td><td>26 août</td><td>1972</td></tr>
@@ -490,10 +490,7 @@ Champ d’application le 11 avril 2018**[^t-3]**
 <tr><td>Yémen</td><td>29 septembre</td><td>1986 A</td><td>29 octobre</td><td>1986</td></tr>
 <tr><td>Zambie</td><td>3 mars</td><td>1987 A</td><td>2 avril</td><td>1987</td></tr>
 <tr><td>Zimbabwe</td><td>6 février</td><td>1989 A</td><td>8 mars</td><td>1989</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation de l’aviation civile internationale (OACI): www.icao.int/publications/Pages/FR/series-doc.aspx ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5">a Les instruments de ratification ou d’adhésion sont déposés auprès des Gouvernements des Etats-Unis, du Royaume-Uni et de la Russie, soit simultanément ou à des dates différentes, soit auprès de l’un seulement ou de plusieurs des Gouvernements précités. Les dates figurant dans la présente liste sont celles qui ont trait à la première ratification ou adhésion intervenue.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 21 janv. 1972 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Du 19 juillet 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l'adresse des sites Internet après des gouvernements dépositaires des États‑Unis d’Amérique ([www.state.gov/icao-hijacking](https://www.state.gov/icao-hijacking)) et du Royaume‑Uni de Grande-Bretagne et d’Irlande du Nord ([www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970](https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970)) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Les instruments de ratification ou d’adhésion sont déposés auprès des Gouvernements des États-Unis, du Royaume-Uni et de la Russie, soit simultanément ou à des dates différentes, soit auprès de l’un seulement ou de plusieurs des Gouvernements précités. Les dates figurant dans la présente liste sont celles qui ont trait à la première ratification ou adhésion intervenue. <sup>b</sup> Du 21 janv. 1972 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>c</sup> Du 19 juillet 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: [RO 1971 1508](https://fedlex.data.admin.ch/eli/oc/1971/1513_1508_1509), [1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976), [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475), [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533), [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676), [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563), [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278), [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249), [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161), [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865), [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872), [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664), [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252), [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484), [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560), [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976); [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475); [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533); [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676); [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563); [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278); [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249); [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161); [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865); [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872); [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664); [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252); [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484); [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560); [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218); [2025 213](https://fedlex.data.admin.ch/eli/oc/2025/213). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

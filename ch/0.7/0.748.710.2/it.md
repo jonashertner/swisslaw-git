@@ -3,11 +3,11 @@ sr: "0.748.710.2"
 title: Convenzione del 16 dicembre 1970 per la repressione della cattura illecita di aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509"
 language: it
-version: 2018-04-11
+version: 2025-03-24
 adopted: 1970-12-16
 in_force: 1971-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20180411/it/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20180411-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20180411/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20250324/it/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20250324-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20250324/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **197**1 1509; FF **1971** I 233[^t-1]
 
 Traduzione
 
-Conchiusa all’Aia il 16 dicembre 1970
+Conchiusa all’Aia il 16 dicembre 1970 Approvata dall’Assemblea federale il 7 giugno 1971[^t-2] Ratificata dalla Svizzera con strumento depositato il 14 settembre 1971 Entrata in vigore per la Svizzera il 14 ottobre 1971
 
-Approvata dall’Assemblea federale il 7 giugno 1971[^t-2]
-
-Ratificata dalla Svizzera con strumento depositato il 14 settembre 1971
-
-Entrata in vigore per la Svizzera il 14 ottobre 1971
-
-(Stato 11 aprile 2018)
+(Stato 24 marzo 2025)
 
 [^t-1]: «Convenzione dell’Aia emendata dal protocollo di Pechino del 2010». Le mod. del prot. add. del 10 set. 2010 ([RS 0.748.710.21](https://fedlex.data.admin.ch/eli/cc/2018/42); [RU 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto lo specifico campo d’applicazione.
 [^t-2]: [RU 1971 1508](https://fedlex.data.admin.ch/eli/oc/1971/1511_1507_1508)
@@ -292,10 +286,10 @@ Ciascun Stato Parte comunica il più rapidamente possibile al consiglio dell’o
 
 (Seguono le firme)
 
-Campo d’applicazione l’11 aprile 2018**[^t-3]**
+Campo d’applicazione il 24 marzo 2025[^t-3]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica<sup>a</sup> Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>29 agosto</td><td>1979</td><td>28 settembre</td><td>1979</td></tr>
 <tr><td>Albania</td><td>21 ottobre</td><td>1997 A</td><td>20 novembre</td><td>1997</td></tr>
 <tr><td>Algeria\*</td><td>6 ottobre</td><td>1995 A</td><td>5 novembre</td><td>1995</td></tr>
@@ -324,6 +318,7 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Brunei</td><td>16 aprile</td><td>1986 A</td><td>16 maggio</td><td>1986</td></tr>
 <tr><td>Bulgaria</td><td>19 maggio</td><td>1971</td><td>14 ottobre</td><td>1971</td></tr>
 <tr><td>Burkina Faso</td><td>19 ottobre</td><td>1987 A</td><td>18 novembre</td><td>1987</td></tr>
+<tr><td>Burundi</td><td>11 febbraio</td><td>1999 A</td><td>13 marzo</td><td>1999</td></tr>
 <tr><td>Cambogia</td><td>8 novembre</td><td>1996</td><td>8 dicembre</td><td>1996</td></tr>
 <tr><td>Camerun</td><td>14 aprile</td><td>1988 A</td><td>14 maggio</td><td>1988</td></tr>
 <tr><td>Canada</td><td>19 giugno</td><td>1972</td><td>19 luglio</td><td>1972</td></tr>
@@ -331,10 +326,6 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Ceca, Repubblica</td><td>14 novembre</td><td>1994 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>12 luglio</td><td>1972</td><td>11 agosto</td><td>1972</td></tr>
 <tr><td>Cile\*</td><td>2 febbraio</td><td>1972</td><td>3 marzo</td><td>1972</td></tr>
-</table>
-
-<table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Cina\*</td><td>10 settembre</td><td>1980 A</td><td>10 ottobre</td><td>1980</td></tr>
 <tr><td>Hong Kong\* <sup>b</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Macao\* <sup>c</sup></td><td>27 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
@@ -358,6 +349,7 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>El Salvador</td><td>17 gennaio</td><td>1973</td><td>16 febbraio</td><td>1973</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>14 aprile</td><td>1981 A</td><td>14 maggio</td><td>1981</td></tr>
 <tr><td>Estonia</td><td>22 dicembre</td><td>1993 A</td><td>21 gennaio</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>27 dicembre</td><td>1999 A</td><td>26 gennaio</td><td>2000</td></tr>
 <tr><td>Etiopia</td><td>26 marzo</td><td>1979</td><td>25 aprile</td><td>1979</td></tr>
 <tr><td>Figi</td><td>27 luglio</td><td>1972</td><td>26 agosto</td><td>1972</td></tr>
 <tr><td>Filippine</td><td>26 marzo</td><td>1973</td><td>25 aprile</td><td>1973</td></tr>
@@ -404,7 +396,7 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Liechtenstein</td><td>23 febbraio</td><td>2001</td><td>25 marzo</td><td>2001</td></tr>
 <tr><td>Lituania</td><td>4 dicembre</td><td>1996 A</td><td>3 gennaio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>22 novembre</td><td>1978</td><td>21 dicembre</td><td>1978</td></tr>
-<tr><td>Macedonia</td><td>7 gennaio</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>7 gennaio</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>18 novembre</td><td>1986 A</td><td>18 dicembre</td><td>1986</td></tr>
 <tr><td>Malawi\*</td><td>21 dicembre</td><td>1972 A</td><td>20 gennaio</td><td>1973</td></tr>
 <tr><td>Malaysia</td><td>4 maggio</td><td>1985</td><td>3 giugno</td><td>1985</td></tr>
@@ -467,6 +459,7 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Siria\*</td><td>10 luglio</td><td>1980 A</td><td>9 agosto</td><td>1980</td></tr>
 <tr><td>Slovacchia</td><td>13 dicembre</td><td>1995</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>27 maggio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>11 marzo</td><td>2025 A</td><td>10 aprile</td><td>2025</td></tr>
 <tr><td>Spagna</td><td>30 ottobre</td><td>1972</td><td>29 novembre</td><td>1972</td></tr>
 <tr><td>Sri Lanka</td><td>30 maggio</td><td>1978 A</td><td>29 giugno</td><td>1978</td></tr>
 <tr><td>Stati Uniti</td><td>14 settembre</td><td>1971</td><td>14 ottobre</td><td>1971</td></tr>
@@ -475,7 +468,6 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Suriname</td><td>27 ottobre</td><td>1978 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Svezia</td><td>7 luglio</td><td>1971</td><td>14 ottobre</td><td>1971</td></tr>
 <tr><td>Svizzera</td><td>14 settembre</td><td>1971</td><td>14 ottobre</td><td>1971</td></tr>
-<tr><td>Swaziland</td><td>27 dicembre</td><td>1999 A</td><td>26 gennaio</td><td>2000</td></tr>
 <tr><td>Tagikistan</td><td>29 febbraio</td><td>1996 A</td><td>30 marzo</td><td>1996</td></tr>
 <tr><td>Taiwan (Taipei cinese)</td><td>27 luglio</td><td>1972</td><td>26 agosto</td><td>1972</td></tr>
 <tr><td>Tanzania</td><td>9 agosto</td><td>1983 A</td><td>8 settembre</td><td>1983</td></tr>
@@ -497,10 +489,10 @@ Campo d’applicazione l’11 aprile 2018**[^t-3]**
 <tr><td>Yemen</td><td>29 settembre</td><td>1986 A</td><td>29 ottobre</td><td>1986</td></tr>
 <tr><td>Zambia</td><td>3 marzo</td><td>1987 A</td><td>2 aprile</td><td>1987</td></tr>
 <tr><td>Zimbabwe</td><td>6 febbraio</td><td>1989 A</td><td>8 marzo</td><td>1989</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi inglesi possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/publications/Pages/doc-series.aspx oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese si possono consultare sul siti internet dei governi depositari degli Stati Uniti d'America ([www.state.gov/icao-hijacking](https://www.state.gov/icao-hijacking)) e del Regno Unito di Gran Bretagna e Irlanda del Nord ([www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970](https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970)) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Gli strumenti di ratificazione o d’adesione sono depositati presso i Governi degli Stati Uniti d’America, del Regno Unito e dell’Unione Sovietica, sia simultaneamente o a date diverse, sia presso un solo o più Governi precitati. Le date nel presente elenco concernono la prima ratificazione o adesione.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dal 21 gen. 1972 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Dal 19 lug. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.Dal 21 gen. 1972 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-3]: [RU 1971 1509](https://fedlex.data.admin.ch/eli/oc/1971/1513_1508_1509), [1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976), [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475), [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533), [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676), [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563), [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278), [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249), [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161), [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865), [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872), [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664), [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252), [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484), [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560)e [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976); [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475); [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533); [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676); [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563); [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278); [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249); [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161); [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865); [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872); [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664); [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252); [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484); [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560); [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218); [2025 213](https://fedlex.data.admin.ch/eli/oc/2025/213). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

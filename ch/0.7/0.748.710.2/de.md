@@ -3,16 +3,16 @@ sr: "0.748.710.2"
 title: Übereinkommen vom 16. Dezember 1970 zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509"
 language: de
-version: 2018-04-11
+version: 2025-03-24
 adopted: 1970-12-16
 in_force: 1971-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20180411/de/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20180411-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20180411/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509/20250324/de/xml/fedlex-data-admin-ch-eli-cc-1971-1513_1508_1509-20250324-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1513_1508_1509/20250324/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen****
+# Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen
 
 AS **1971** 1513; BBl **1971** I 302[^t-1]
 
@@ -20,12 +20,12 @@ AS **1971** 1513; BBl **1971** I 302[^t-1]
 
 Abgeschlossen in Den Haag am 16. Dezember 1970 Von der Bundesversammlung genehmigt am 7. Juni 1971[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 14. September 1971 In Kraft getreten für die Schweiz am 14. Oktober 1971
 
-(Stand am 11. April 2018)
+(Stand am 24. März 2025)
 
 [^t-1]: «Haager Übereinkommen in der durch das Pekinger Protokoll von 2010 geänderten Fassung». Die Änd. durch das Zusatzprotokoll vom 10. Sept. 2010 ([SR 0.748.710.21](https://fedlex.data.admin.ch/eli/cc/2018/42); [AS 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihm beigetreten sind. Siehe deshalb seinen eigenen Geltungsbereich.
 [^t-2]: [AS 1971 1511](https://fedlex.data.admin.ch/eli/oc/1971/1511_1507_1508)
 
-## *Einleitung*
+*Einleitung*
 
 Die Vertragsstaaten dieses Übereinkommen
 
@@ -279,11 +279,9 @@ Jeder Vertragsstaat übermittelt dem Rat der Internationalen Zivilluftfahrt‑Or
 
 <sup>2.</sup> Die Kündigung wird sechs Monate nach Eingang der Notifikation bei den Depositarregierungen wirksam.
 
-*Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Den Haag am 16. Dezember 1970 in drei Originalausfertigungen, jede in vier verbindlichen Wortlauten in englischer, französischer, russischer und spanischer Sprache.
+*Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Den Haag am 16. Dezember 1970 in drei Originalausfertigungen, jede in vier verbindlichen Wortlauten in englischer, französischer, russischer und spanischer Sprache. (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-Geltungsbereich am 11. April 2018**[^t-3]**
+Geltungsbereich am 24. März 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation <sup>a</sup> Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -316,6 +314,7 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Brunei</td><td>16. April</td><td>1986 B</td><td>16. Mai</td><td>1986</td></tr>
 <tr><td>Bulgarien</td><td>19. Mai</td><td>1971</td><td>14. Oktober</td><td>1971</td></tr>
 <tr><td>Burkina Faso</td><td>19. Oktober</td><td>1987 B</td><td>18. November</td><td>1987</td></tr>
+<tr><td>Burundi</td><td>11. Februar</td><td>1999 B</td><td>13. März</td><td>1999</td></tr>
 <tr><td>Chile\*</td><td>2. Februar</td><td>1972</td><td>3. März</td><td>1972</td></tr>
 <tr><td>China\*</td><td>10. September</td><td>1980 B</td><td>10. Oktober</td><td>1980</td></tr>
 <tr><td>Hongkong\* <sup>b</sup></td><td>3. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
@@ -332,6 +331,7 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Ecuador</td><td>14. Juni</td><td>1971</td><td>14. Oktober</td><td>1971</td></tr>
 <tr><td>El Salvador</td><td>17. Januar</td><td>1973</td><td>16. Februar</td><td>1973</td></tr>
 <tr><td>Estland</td><td>22. Dezember</td><td>1993 B</td><td>21. Januar</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>27. Dezember</td><td>1999 B</td><td>26. Januar</td><td>2000</td></tr>
 <tr><td>Fidschi</td><td>27. Juli</td><td>1972</td><td>26. August</td><td>1972</td></tr>
 <tr><td>Finnland</td><td>15. Dezember</td><td>1971</td><td>14. Januar</td><td>1972</td></tr>
 <tr><td>Frankreich</td><td>18. September</td><td>1972</td><td>18. Oktober</td><td>1972</td></tr>
@@ -395,7 +395,6 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Marshallinseln</td><td>31. Mai</td><td>1989 B</td><td>30. Juni</td><td>1989</td></tr>
 <tr><td>Mauretanien</td><td>1. November</td><td>1978 B</td><td>1. Dezember</td><td>1978</td></tr>
 <tr><td>Mauritius</td><td>25. April</td><td>1983 B</td><td>25. Mai</td><td>1983</td></tr>
-<tr><td>Mazedonien</td><td>7. Januar</td><td>1998 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>19. Juli</td><td>1972</td><td>18. August</td><td>1972</td></tr>
 <tr><td>Moldau</td><td>21. Mai</td><td>1997 B</td><td>20. Juni</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>3. Juni</td><td>1983 B</td><td>3. Juli</td><td>1983</td></tr>
@@ -416,6 +415,7 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Niger</td><td>15. Oktober</td><td>1971</td><td>14. November</td><td>1971</td></tr>
 <tr><td>Nigeria</td><td>3. Juli</td><td>1973 B</td><td>2. August</td><td>1973</td></tr>
 <tr><td>Niue</td><td>30. September</td><td>2009 B</td><td>30. Oktober</td><td>2009</td></tr>
+<tr><td>Mazedonien</td><td>7. Januar</td><td>1998 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>23. August</td><td>1971</td><td>14. Oktober</td><td>1971</td></tr>
 <tr><td>Oman\*</td><td>2. Februar</td><td>1977 B</td><td>4. März</td><td>1977</td></tr>
 <tr><td>Österreich</td><td>11. Februar</td><td>1974</td><td>13. März</td><td>1974</td></tr>
@@ -446,6 +446,7 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Singapur</td><td>12. April</td><td>1978</td><td>12. Mai</td><td>1978</td></tr>
 <tr><td>Slowakei</td><td>13. Dezember</td><td>1995</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>27. Mai</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>11. März</td><td>2025 B</td><td>10. April</td><td>2025</td></tr>
 <tr><td>Spanien</td><td>30. Oktober</td><td>1972</td><td>29. November</td><td>1972</td></tr>
 <tr><td>Sri Lanka</td><td>30. Mai</td><td>1978 B</td><td>29. Juni</td><td>1978</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>3. September</td><td>2008 B</td><td>3. Oktober</td><td>2008</td></tr>
@@ -454,7 +455,6 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Südafrika\*</td><td>30. Mai</td><td>1972</td><td>29. Juni</td><td>1972</td></tr>
 <tr><td>Sudan</td><td>18. Januar</td><td>1979 B</td><td>17. Februar</td><td>1979</td></tr>
 <tr><td>Suriname</td><td>27. Oktober</td><td>1978 N</td><td>25. November</td><td>1975</td></tr>
-<tr><td>Swasiland</td><td>27. Dezember</td><td>1999 B</td><td>26. Januar</td><td>2000</td></tr>
 <tr><td>Syrien\*</td><td>10. Juli</td><td>1980 B</td><td>9. August</td><td>1980</td></tr>
 <tr><td>Tadschikistan</td><td>29. Februar</td><td>1996 B</td><td>30. März</td><td>1996</td></tr>
 <tr><td>Taiwan (Chinesisches Taipei)</td><td>27. Juli</td><td>1972</td><td>26. August</td><td>1972</td></tr>
@@ -484,7 +484,7 @@ Geltungsbereich am 11. April 2018**[^t-3]**
 <tr><td>Vietnam\*</td><td>17. September</td><td>1979 B</td><td>17. Oktober</td><td>1979</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>1. Juli</td><td>1991 B</td><td>31. Juli</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>6. Juni</td><td>1972 B</td><td>6. Juli</td><td>1972</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtsorganisation: www.icao.int/publications/Pages/doc-series.aspx eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Ratifikations- oder Beitrittsurkunden werden bei den Regierungen der Vereinigten Staaten von Amerika, des Vereinigten Königreichs und der Russischen Föderation hinterlegt, sei es gleichzeitig oder zu verschiedenen Zeitpunkten oder aber nur bei einer oder mehreren dieser Regierungen. Die in der Liste enthaltenen Daten betreffen die zuerst stattgefundene Hinterlegung. <sup>b</sup> Vom 21. Januar 1972 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>c</sup> Vom 19. Juli 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf den Internetseiten der Depositarregierungen, der Vereinigten Staaten von Amerika ([www.state.gov/icao-hijacking](https://www.state.gov/icao-hijacking)) und des Vereinigten Königreichs von Grossbritannien und Nordirland ([www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970](https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-seizure-of-aircraft-the-hague-16121970)) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Ratifikations- oder Beitrittsurkunden werden bei den Regierungen der Vereinigten Staaten von Amerika, des Vereinigten Königreichs und der Russischen Föderation hinterlegt, sei es gleichzeitig oder zu verschiedenen Zeitpunkten oder aber nur bei einer oder mehreren dieser Regierungen. Die in der Liste enthaltenen Daten betreffen die zuerst stattgefundene Hinterlegung. <sup>b</sup> Vom 21. Januar 1972 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>c</sup> Vom 19. Juli 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1971 1513](https://fedlex.data.admin.ch/eli/oc/1971/1513_1508_1509), [1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976), [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475), [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533), [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676), [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563), [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278), [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249), [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161), [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865), [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872), [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664), [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252), [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484), [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560), [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1973 976](https://fedlex.data.admin.ch/eli/oc/1973/976_976_976); [1978 475](https://fedlex.data.admin.ch/eli/oc/1978/475_475_475); [1979 1533](https://fedlex.data.admin.ch/eli/oc/1979/1533_1533_1533); [1981 1676](https://fedlex.data.admin.ch/eli/oc/1981/1676_1676_1676); [1982 1563](https://fedlex.data.admin.ch/eli/oc/1982/1563_1563_1563); [1984 278](https://fedlex.data.admin.ch/eli/oc/1984/278_278_278); [1985 249](https://fedlex.data.admin.ch/eli/oc/1985/249_249_249); [1987 1161](https://fedlex.data.admin.ch/eli/oc/1987/1161_1161_1161); [1989 865](https://fedlex.data.admin.ch/eli/oc/1989/865_865_865); [1990 1872](https://fedlex.data.admin.ch/eli/oc/1990/1872_1872_1872); [1992 664](https://fedlex.data.admin.ch/eli/oc/1992/664_664_664); [2005 1611](https://fedlex.data.admin.ch/eli/oc/2005/252); [2007 3761](https://fedlex.data.admin.ch/eli/oc/2007/484); [2013 2723](https://fedlex.data.admin.ch/eli/oc/2013/560); [2018 1351](https://fedlex.data.admin.ch/eli/oc/2018/218); [2025 213](https://fedlex.data.admin.ch/eli/oc/2025/213). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
