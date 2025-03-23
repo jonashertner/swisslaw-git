@@ -5,12 +5,12 @@ title: Vollzugsverordnung über die kantonalrechtlichen Ordnungsbussen
 short: "Kantonale Ordnungsbussenverordnung, kOBV"
 language: de
 version: 2024-01-01
-valid_until: 2025-06-30
+corrected: 2025-03-24
 version_adopted: 2023-09-26
 adopted: 2016-09-20
 in_force: 2017-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1357/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -91,7 +91,7 @@ beschliesst:
   - 8\.6 Fang von Krebsen ohne Bewilligung (Art. 18 kFG); je Krebs: — 100.-
   - 8\.7 Begleitung beim Fischfang durch mehr als zwei Minderjährige (Art. 19 kFG): — 50.-
   - 8\.8 Fischfang ohne oder mit einer fremden Fischereikarte (Art. 29 kFG): — 100.-
-  - 8\.9 Fischfang mit unerlaubten Fangmethoden und Fanggeräten (Art. 35 kFG): — 100.-
+  - 8\.9 Fischfang mit unterlaubten Fangmethoden und Fanggeräten (Art. 35 kFG): — 100.-
   - 8\.10 Verstoss beim Fischfang gegen die Schonzeiten und die Fangmindestmasse (Art. 36 kFG): — 100.-
   - 8\.11 Fischfang ohne Mitführen der vorgeschriebenen Ausweise (Art. 49 kFG): — 20.-
 
