@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convention du 13 décembre 2006 relative aux droits des personnes handicapées
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: fr
-version: 2024-02-23
+version: 2025-03-24
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20240223/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20240223-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20240223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20250324/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20250324-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20250324/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 avril 2014
 
 Entrée en vigueur pour la Suisse le 15 mai 2014
 
-(État le 23 février 2024)
+(État le 24 mars 2025)
 
 [^t-1]: [RO 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -60,13 +60,13 @@ Les États Parties à la présente Convention,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-3]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-4]: [RS 0.104](https://fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164)
-[^ingress-5]: [RS 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
-[^ingress-6]: [RS 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
-[^ingress-7]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-3]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-4]: [RS 0.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/24)
+[^ingress-5]: [RS 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
+[^ingress-6]: [RS 0.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/25)
+[^ingress-7]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 #### Art. 1
 
@@ -720,7 +720,7 @@ Les textes anglais, arabe, chinois, espagnol, français et russe de la présente
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment habilités par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 23 février 2024[^t-2]
+Champ d’application le le 24 mars 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -746,6 +746,7 @@ Champ d’application le 23 février 2024[^t-2]
 <tr><td>Belgique\* \*\*</td><td>2 juillet</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Belize</td><td>2 juin</td><td>2011</td><td>2 juillet</td><td>2011</td></tr>
 <tr><td>Bénin</td><td>5 juillet</td><td>2012</td><td>4 août</td><td>2012</td></tr>
+<tr><td>Bhoutan\*</td><td>13 mars</td><td>2024</td><td>12 avril</td><td>2024</td></tr>
 <tr><td>Bolivie</td><td>16 novembre</td><td>2009</td><td>16 décembre</td><td>2009</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 mars</td><td>2010</td><td>11 avril</td><td>2010</td></tr>
 <tr><td>Botswana</td><td>12 juillet</td><td>2021 A</td><td>11 août</td><td>2021</td></tr>
@@ -780,6 +781,7 @@ Champ d’application le 23 février 2024[^t-2]
 <tr><td>El Salvador</td><td>14 décembre</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Émirats arabes unis</td><td>19 mars</td><td>2010</td><td>18 avril</td><td>2010</td></tr>
 <tr><td>Équateur</td><td>3 avril</td><td>2008</td><td>3 mai</td><td>2008</td></tr>
+<tr><td>Érythrée</td><td>6 janvier</td><td>2025 A</td><td>5 février</td><td>2025</td></tr>
 <tr><td>Espagne\*\*</td><td>3 décembre</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Estonie\*</td><td>30 mai</td><td>2012</td><td>29 juin</td><td>2012</td></tr>
 <tr><td>Eswatini</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
@@ -834,7 +836,7 @@ Champ d’application le 23 février 2024[^t-2]
 <tr><td>Malawi</td><td>27 août</td><td>2009</td><td>26 septembre</td><td>2009</td></tr>
 <tr><td>Maldives</td><td>5 avril</td><td>2010</td><td>5 mai</td><td>2010</td></tr>
 <tr><td>Mali</td><td>7 avril</td><td>2008</td><td>7 mai</td><td>2008</td></tr>
-<tr><td>Malte\*</td><td>10 octobre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
+<tr><td>Malte\* \*\*</td><td>10 octobre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
 <tr><td>Maroc</td><td>8 avril</td><td>2009</td><td>8 mai</td><td>2009</td></tr>
 <tr><td>Maurice\*</td><td>8 janvier</td><td>2010</td><td>7 février</td><td>2010</td></tr>
 <tr><td>Mauritanie</td><td>3 avril</td><td>2012 A</td><td>3 mai</td><td>2012</td></tr>
@@ -874,6 +876,7 @@ Champ d’application le 23 février 2024[^t-2]
 <tr><td>République tchèque\*\*</td><td>28 septembre</td><td>2009</td><td>28 octobre</td><td>2009</td></tr>
 <tr><td>Roumanie\*\*</td><td>31 janvier</td><td>2011</td><td>2 mars</td><td>2011</td></tr>
 <tr><td>Royaume-Uni\* \*\*</td><td>8 juin</td><td>2009</td><td>8 juillet</td><td>2009</td></tr>
+<tr><td>Bermudes\*</td><td>17 septembre</td><td>2024</td><td>17 septembre</td><td>2024</td></tr>
 <tr><td>Russie</td><td>25 septembre</td><td>2012</td><td>25 octobre</td><td>2012</td></tr>
 <tr><td>Rwanda</td><td>15 décembre</td><td>2008 A</td><td>14 janvier</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>17 octobre</td><td>2019</td><td>16 novembre</td><td>2019</td></tr>
@@ -916,7 +919,7 @@ Champ d’application le 23 février 2024[^t-2]
 <tr><td>Yémen</td><td>26 mars</td><td>2009</td><td>25 avril</td><td>2009</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> février</td><td>2010</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 septembre</td><td>2013 A</td><td>23 octobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

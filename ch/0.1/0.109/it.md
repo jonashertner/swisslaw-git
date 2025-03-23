@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convenzione del 13 dicembre 2006 sui diritti delle persone con disabilità
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: it
-version: 2024-02-23
+version: 2025-03-24
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20240223/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20240223-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20240223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20250324/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20250324-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20250324/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a New York il 13 dicembre 2006 Approvata dall’Assemblea federale il 13 dicembre 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 15 aprile 2014 Entrata in vigore per la Svizzera il 15 maggio 2014
 
-(Stato 23 febbraio 2024)
+(Stato 24 marzo 2025)
 
 [^t-1]: [RU 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -54,13 +54,13 @@ Gli Stati parte di questa Convenzione,
 
 convengono quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-3]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-4]: [RS 0.104](https://fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164)
-[^ingress-5]: [RS 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
-[^ingress-6]: [RS 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
-[^ingress-7]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-3]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-4]: [RS 0.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/24)
+[^ingress-5]: [RS 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
+[^ingress-6]: [RS 0.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/25)
+[^ingress-7]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 #### Art. 1
 
@@ -262,7 +262,7 @@ Gli Stati parte devono garantire che le persone con disabilità**,** su base di 
 
 <sup>1.</sup> Nessuna persona sarà sottoposta a torture, pene o trattamenti crudeli, inumani o degradanti. In particolare, nessuno sarà sottoposto senza il proprio libero consenso a sperimentazioni mediche o scientifiche.
 
-2 Gli Stati parte prenderanno ogni efficace misura legislativa, amministrativa, giudiziaria o di altra natura per impedire che persone con disabilità, su base di uguaglianza con gli altri, subiscano torture, pene o trattamenti crudeli, inumani o degradanti.
+<sup>2.</sup> Gli Stati parte prenderanno ogni efficace misura legislativa, amministrativa, giudiziaria o di altra natura per impedire che persone con disabilità, su base di uguaglianza con gli altri, subiscano torture, pene o trattamenti crudeli, inumani o degradanti.
 
 #### Art. 16
 
@@ -714,7 +714,7 @@ I testi in arabo, cinese, francese, inglese, russo e spagnolo della presente Con
 
 *In fede di che* i sottoscritti Plenipotenziari, essendo debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 23 febbraio 2024[^t-2]
+Campo d’applicazione il 24 marzo 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -746,6 +746,7 @@ Campo d’applicazione il 23 febbraio 2024[^t-2]
 <tr><td>Bulgaria</td><td>22 marzo</td><td>2012</td><td>21 aprile</td><td>2012</td></tr>
 <tr><td>Burkina Faso</td><td>23 luglio</td><td>2009</td><td>22 agosto</td><td>2009</td></tr>
 <tr><td>Burundi</td><td>22 maggio</td><td>2014</td><td>21 giugno</td><td>2014</td></tr>
+<tr><td>Bhutan\*</td><td>13 marzo</td><td>2024</td><td>12 aprile</td><td>2024</td></tr>
 <tr><td>Cambogia</td><td>20 dicembre</td><td>2012</td><td>19 gennaio</td><td>2013</td></tr>
 <tr><td>Camerun</td><td>28 settembre</td><td>2023</td><td>28 ottobre</td><td>2023</td></tr>
 <tr><td>Canada\*</td><td>11 marzo</td><td>2010</td><td>10 aprile</td><td>2010</td></tr>
@@ -775,6 +776,7 @@ Campo d’applicazione il 23 febbraio 2024[^t-2]
 <tr><td>Egitto\*</td><td>14 aprile</td><td>2008</td><td>14 maggio</td><td>2008</td></tr>
 <tr><td>El Salvador</td><td>14 dicembre</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>19 marzo</td><td>2010</td><td>18 aprile</td><td>2010</td></tr>
+<tr><td>Eritrea</td><td>6 gennaio</td><td>2025 A</td><td>5 febbraio</td><td>2025</td></tr>
 <tr><td>Estonia\*</td><td>30 maggio</td><td>2012</td><td>29 giugno</td><td>2012</td></tr>
 <tr><td>Eswatini</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td>2012</td></tr>
 <tr><td>Etiopia</td><td>7 luglio</td><td>2010</td><td>6 agosto</td><td>2010</td></tr>
@@ -827,7 +829,7 @@ Campo d’applicazione il 23 febbraio 2024[^t-2]
 <tr><td>Malaysia\*</td><td>19 luglio</td><td>2010</td><td>18 agosto</td><td>2010</td></tr>
 <tr><td>Maldive</td><td>5 aprile</td><td>2010</td><td>5 maggio</td><td>2010</td></tr>
 <tr><td>Mali</td><td>7 aprile</td><td>2008</td><td>7 maggio</td><td>2008</td></tr>
-<tr><td>Malta\*</td><td>10 ottobre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
+<tr><td>Malta\* \*\*[^t-3]</td><td>10 ottobre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
 <tr><td>Marocco</td><td>8 aprile</td><td>2009</td><td>8 maggio</td><td>2009</td></tr>
 <tr><td>Marshall, Isole</td><td>17 marzo</td><td>2015 A</td><td>16 aprile</td><td>2015</td></tr>
 <tr><td>Mauritania</td><td>3 aprile</td><td>2012 A</td><td>3 maggio</td><td>2012</td></tr>
@@ -861,7 +863,8 @@ Campo d’applicazione il 23 febbraio 2024[^t-2]
 <tr><td>Polonia\* \*\*</td><td>25 settembre</td><td>2012</td><td>25 ottobre</td><td>2012</td></tr>
 <tr><td>Portogallo\*\*</td><td>23 settembre</td><td>2009</td><td>23 ottobre</td><td>2009</td></tr>
 <tr><td>Qatar</td><td>13 maggio</td><td>2008</td><td>12 giugno</td><td>2008</td></tr>
-<tr><td>Regno Unito\* \*\*</td><td>8 giugno</td><td>2009</td><td>8 luglio</td><td>2009</td></tr>
+<tr><td>Regno Unito</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bermuda\*</td><td>17 settembre</td><td>2024</td><td>17 settembre</td><td>2024</td></tr>
 <tr><td>Romania\*\*</td><td>31 gennaio</td><td>2011</td><td>2 marzo</td><td>2011</td></tr>
 <tr><td>Ruanda</td><td>15 dicembre</td><td>2008 A</td><td>14 gennaio</td><td>2009</td></tr>
 <tr><td>Russia</td><td>25 settembre</td><td>2012</td><td>25 ottobre</td><td>2012</td></tr>
@@ -910,7 +913,8 @@ Campo d’applicazione il 23 febbraio 2024[^t-2]
 <tr><td>Yemen</td><td>26 marzo</td><td>2009</td><td>25 aprile</td><td>2009</td></tr>
 <tr><td>Zambia</td><td>1° febbraio</td><td>2010</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 settembre</td><td>2013 A</td><td>23 ottobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obboezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-3]: Questo Stato ha formulato un’obiezione riguardo a una riserva.
