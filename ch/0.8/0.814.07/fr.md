@@ -3,11 +3,11 @@ sr: "0.814.07"
 title: "Convention du 25 juin 1998 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement (Convention d'Aarhus) (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: fr
-version: 2014-06-01
+version: 2025-03-25
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20140601/fr/xml/fedlex-data-admin-ch-eli-cc-2014-235-20140601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20140601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/fr/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par Suisse le 3 mars 2014
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2014
 
-(Etat le 1<sup>er</sup> juin 2014)
+(État le 25 mars 2025)
 
 [^t-1]: Art. 1, al. 1, de l’AF du 27 sept. 2013 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234))
 
@@ -36,51 +36,51 @@ Préambule
 
 Les Parties à la présente Convention,
 
-rappelant le premier principe de la Déclaration de Stockholm sur l’environnement humain;
+rappelant le premier principe de la Déclaration de Stockholm sur l’environnement humain,
 
-rappelant aussi le principe 10 de la Déclaration de Rio sur l’environnement et le développement;
+rappelant aussi le principe 10 de la Déclaration de Rio sur l’environnement et le développement,
 
-rappelant en outre les résolutions de l’Assemblée générale 37/7 du 28 octobre 1982 relative à la Charte mondiale de la nature et 45/94 du 14 décembre 1990 relative à la nécessité d’assurer un environnement salubre pour le bien-être de chacun;
+rappelant en outre les résolutions de l’Assemblée générale 37/7 du 28 octobre 1982 relative à la Charte mondiale de la nature et 45/94 du 14 décembre 1990 relative à la nécessité d’assurer un environnement salubre pour le bien-être de chacun,
 
-rappelant également la Charte européenne sur l’environnement et la santé adoptée à la Première Conférence européenne sur l’environnement et la santé qui s’est tenue sous l’égide de l’Organisation mondiale de la santé à Francfort-sur-le-Main (Allemagne) le 8 décembre 1989;
+rappelant également la Charte européenne sur l’environnement et la santé adoptée à la Première Conférence européenne sur l’environnement et la santé qui s’est tenue sous l’égide de l’Organisation mondiale de la santé à Francfort-sur-le-Main (Allemagne) le 8 décembre 1989,
 
-affirmant la nécessité de protéger, de préserver et d’améliorer l’état de l’environnement et d’assurer un développement durable et écologiquement rationnel;
+affirmant la nécessité de protéger, de préserver et d’améliorer l’état de l’environnement et d’assurer un développement durable et écologiquement rationnel,
 
-reconnaissant qu’une protection adéquate de l’environnement est essentielle au bien-être de l’homme ainsi qu’à la jouissance des droits fondamentaux, y compris du droit à la vie lui-même;
+reconnaissant qu’une protection adéquate de l’environnement est essentielle au bien-être de l’homme ainsi qu’à la jouissance des droits fondamentaux, y compris du droit à la vie lui-même,
 
-reconnaissant également que chacun a le droit de vivre dans un environnement propre à assurer sa santé et son bien-être et le devoir, tant individuellement qu’en association avec d’autres, de protéger et d’améliorer l’environnement dans l’intérêt des générations présentes et futures;
+reconnaissant également que chacun a le droit de vivre dans un environnement propre à assurer sa santé et son bien-être et le devoir, tant individuellement qu’en association avec d’autres, de protéger et d’améliorer l’environnement dans l’intérêt des générations présentes et futures,
 
-considérant qu’afin d’être en mesure de faire valoir ce droit et de s’acquitter de ce devoir, les citoyens doivent avoir accès à l’information, être habilités à participer au processus décisionnel et avoir accès à la justice en matière d’environnement, étant entendu qu’ils peuvent avoir besoin d’une assistance pour exercer leurs droits;
+considérant qu’afin d’être en mesure de faire valoir ce droit et de s’acquitter de ce devoir, les citoyens doivent avoir accès à l’information, être habilités à participer au processus décisionnel et avoir accès à la justice en matière d’environnement, étant entendu qu’ils peuvent avoir besoin d’une assistance pour exercer leurs droits,
 
-reconnaissant que, dans le domaine de l’environnement, un meilleur accès à l’information et la participation accrue du public au processus décisionnel permettent de prendre de meilleures décisions et de les appliquer plus efficacement, contribuent à sensibiliser le public aux problèmes environnementaux, lui donnent la possibilité d’exprimer ses préoccupations et aident les autorités publiques à tenir dûment compte de celles-ci;
+reconnaissant que, dans le domaine de l’environnement, un meilleur accès à l’information et la participation accrue du public au processus décisionnel permettent de prendre de meilleures décisions et de les appliquer plus efficacement, contribuent à sensibiliser le public aux problèmes environnementaux, lui donnent la possibilité d’exprimer ses préoccupations et aident les autorités publiques à tenir dûment compte de celles-ci,
 
-cherchant par là à favoriser le respect du principe de l’obligation redditionnelle et la transparence du processus décisionnel et à assurer un appui accru du public aux décisions prises dans le domaine de l’environnement;
+cherchant par là à favoriser le respect du principe de l’obligation redditionnelle et la transparence du processus décisionnel et à assurer un appui accru du public aux décisions prises dans le domaine de l’environnement,
 
-reconnaissant qu’il est souhaitable que la transparence règne dans toutes les branches de l’administration publique et invitant les organes législatifs à appliquer les principes de la présente Convention dans leurs travaux;
+reconnaissant qu’il est souhaitable que la transparence règne dans toutes les branches de l’administration publique et invitant les organes législatifs à appliquer les principes de la présente Convention dans leurs travaux,
 
-reconnaissant également que le public doit avoir connaissance des procédures de participation au processus décisionnel en matière d’environnement, y avoir librement accès et savoir comment les utiliser;
+reconnaissant également que le public doit avoir connaissance des procédures de participation au processus décisionnel en matière d’environnement, y avoir librement accès et savoir comment les utiliser,
 
-reconnaissant en outre le rôle important que les citoyens, les organisations non gouvernementales et le secteur privé peuvent jouer dans le domaine de la protection de l’environnement;
+reconnaissant en outre le rôle important que les citoyens, les organisations non gouvernementales et le secteur privé peuvent jouer dans le domaine de la protection de l’environnement,
 
-désireuses de promouvoir l’éducation écologique afin de faire mieux comprendre ce que sont l’environnement et le développement durable et d’encourager le grand public à être attentif aux décisions qui ont des incidences sur l’environnement et le développement durable et à participer à ces décisions;
+désireuses de promouvoir l’éducation écologique afin de faire mieux comprendre ce que sont l’environnement et le développement durable et d’encourager le grand public à être attentif aux décisions qui ont des incidences sur l’environnement et le développement durable et à participer à ces décisions,
 
-notant, à cet égard, qu’il est important de recourir aux médias ainsi qu’aux modes de communication électroniques et aux autres modes de communication qui apparaîtront dans l’avenir;
+notant, à cet égard, qu’il est important de recourir aux médias ainsi qu’aux modes de communication électroniques et aux autres modes de communication qui apparaîtront dans l’avenir,
 
-reconnaissant qu’il est important que les gouvernements tiennent pleinement compte dans leur processus décisionnel des considérations liées à l’environnement et que les autorités publiques doivent donc disposer d’informations exactes, détaillées et à jour sur l’environnement;
+reconnaissant qu’il est important que les gouvernements tiennent pleinement compte dans leur processus décisionnel des considérations liées à l’environnement et que les autorités publiques doivent donc disposer d’informations exactes, détaillées et à jour sur l’environnement,
 
-sachant que les autorités publiques détiennent des informations relatives à l’environnement dans l’intérêt général;
+sachant que les autorités publiques détiennent des informations relatives à l’environnement dans l’intérêt général,
 
-souhaitant que le public, y compris les organisations, aient accès à des mécanismes judiciaires efficaces afin que leurs intérêts légitimes soient protégés et la loi respectée;
+souhaitant que le public, y compris les organisations, aient accès à des mécanismes judiciaires efficaces afin que leurs intérêts légitimes soient protégés et la loi respectée,
 
-notant qu’il est important d’informer convenablement les consommateurs sur les produits pour leur permettre de faire des choix écologiques en toute connaissance de cause;
+notant qu’il est important d’informer convenablement les consommateurs sur les produits pour leur permettre de faire des choix écologiques en toute connaissance de cause,
 
-conscientes de l’inquiétude du public au sujet de la dissémination volontaire d’organismes génétiquement modifiés dans l’environnement et de la nécessité d’accroître la transparence et de renforcer la participation du public au processus décisionnel dans ce domaine;
+conscientes de l’inquiétude du public au sujet de la dissémination volontaire d’organismes génétiquement modifiés dans l’environnement et de la nécessité d’accroître la transparence et de renforcer la participation du public au processus décisionnel dans ce domaine,
 
-convaincues que l’application de la présente Convention contribuera à renforcer la démocratie dans la région de la Commission économique des Nations Unies pour l’Europe (CEE);
+convaincues que l’application de la présente Convention contribuera à renforcer la démocratie dans la région de la Commission économique des Nations Unies pour l’Europe (CEE),
 
-conscientes du rôle joué à cet égard par la CEE et rappelant, notamment, les Directives de la CEE pour l’accès à l’information sur l’environnement et la participation du public à la prise de décisions en matière d’environnement, approuvées dans la Déclaration ministérielle adoptée à la troisième Conférence ministérielle sur le thème «Un environnement pour l’Europe» à Sofia (Bulgarie) le 25 octobre 1995;
+conscientes du rôle joué à cet égard par la CEE et rappelant, notamment, les Directives de la CEE pour l’accès à l’information sur l’environnement et la participation du public à la prise de décisions en matière d’environnement, approuvées dans la Déclaration ministérielle adoptée à la troisième Conférence ministérielle sur le thème «Un environnement pour l’Europe» à Sofia (Bulgarie) le 25 octobre 1995,
 
-tenant compte des dispositions pertinentes de la Convention sur l’évaluation de l’impact sur l’environnement dans un contexte transfrontière[^ingress-1], adoptée à Espoo (Finlande) le 25 février 1991, ainsi que de la Convention sur les effets transfrontières des accidents industriels[^ingress-2] et de la Convention sur la protection et l’utilisation des cours d’eau transfrontières et des lacs internationaux[^ingress-3], adoptées l’une et l’autre à Helsinki le 17 mars 1992 et d’autres conventions régionales;
+tenant compte des dispositions pertinentes de la Convention sur l’évaluation de l’impact sur l’environnement dans un contexte transfrontière[^ingress-1], adoptée à Espoo (Finlande) le 25 février 1991, ainsi que de la Convention sur les effets transfrontières des accidents industriels[^ingress-2] et de la Convention sur la protection et l’utilisation des cours d’eau transfrontières et des lacs internationaux[^ingress-3], adoptées l’une et l’autre à Helsinki le 17 mars 1992 et d’autres conventions régionales,
 
 sachant que l’adoption de la présente Convention ne pourra que contribuer au renforcement du processus «un environnement pour l’Europe» et au succès de la quatrième Conférence ministérielle qui se tiendra à Aarhus (Danemark) en juin 1998,
 
@@ -170,7 +170,7 @@ Chaque Partie fait en sorte que, sous réserve des paragraphes suivants du prés
 Une demande d’informations sur l’environnement peut être refusée si:
 
 - a) l’autorité publique à laquelle la demande est adressée n’est pas en possession des informations demandées;
-- b) la demande est manifestement abusive ou formulée en termes trop généraux; ou
+- b) la demande est manifestement abusive ou formulée en termes trop généraux, ou
 - c) la demande porte sur des documents qui sont en cours d’élaboration ou concerne des communications internes des autorités publiques à condition que cette exception soit prévue par le droit interne ou la coutume, compte tenu de l’intérêt que la divulgation des informations demandées présenterait pour le public.
 
 <sup>4.</sup> Les motifs de rejet susmentionnés devront être interprétés de manière restrictive compte tenu de l’intérêt que la divulgation des informations demandées présenterait pour le public et selon que ces informations ont trait ou non aux émissions dans l’environnement.
@@ -183,7 +183,7 @@ Une demande d’informations sur l’environnement peut être rejetée au cas o�
 - d) le secret commercial et industriel lorsque ce secret est protégé par la loi afin de défendre un intérêt économique légitime. Dans ce cadre, les informations sur les émissions qui sont pertinentes pour la protection de l’environnement doivent être divulguées;
 - e) les droits de propriété intellectuelle;
 - f) le caractère confidentiel des données et/ou des dossiers personnels concernant une personne physique si cette personne n’a pas consenti à la divulgation de ces informations au public, lorsque le caractère confidentiel de ce type d’information est prévu par le droit interne;
-- g) les intérêts d’un tiers qui a fourni les informations demandées sans y être contraint par la loi ou sans que la loi puisse l’y contraindre et qui ne consent pas à la divulgation de ces informations; ou
+- g) les intérêts d’un tiers qui a fourni les informations demandées sans y être contraint par la loi ou sans que la loi puisse l’y contraindre et qui ne consent pas à la divulgation de ces informations, ou
 - h) le milieu sur lequel portent les informations, comme les sites de reproduction d’espèces rares.
 
 <sup>5.</sup> Si une autorité publique n’est pas en possession des informations sur l’environnement demandées, elle fait savoir aussi rapidement que possible à l’auteur de la demande à quelle autorité publique celui-ci peut, à sa connaissance, s’adresser pour obtenir les informations en question ou transmet la demande à cette autorité et en informe son auteur.
@@ -217,7 +217,7 @@ Chaque Partie veille à ce que, dans le cadre de la législation nationale, les 
 
   - i) en établissant des listes, des registres ou des fichiers accessibles au public,
   - ii) en faisant obligation aux fonctionnaires d’apporter leur concours au public qui cherche à avoir accès à des informations en vertu de la présente Convention, et
-  - iii) en désignant des points de contact; et
+  - iii) en désignant des points de contact, et
 
 - c) en donnant accès gratuitement aux informations sur l’environnement figurant dans les listes, registres ou fichiers visés à l’al. b) i) ci-dessus.
 
@@ -227,7 +227,7 @@ Chaque Partie veille à ce que les informations sur l’environnement deviennent
 
 - a) les rapports sur l’état de l’environnement visés au par. 4 ci-après;
 - b) les textes de lois sur l’environnement ou relatifs à l’environnement;
-- c) le cas échéant, les politiques, plans et programmes sur l’environnement ou relatifs à l’environnement et les accords portant sur l’environnement; et
+- c) le cas échéant, les politiques, plans et programmes sur l’environnement ou relatifs à l’environnement et les accords portant sur l’environnement, et
 - d) d’autres informations, dans la mesure où la possibilité de les obtenir sous cette forme faciliterait l’application de la législation nationale visant à donner effet à la présente Convention,
 
 <sup>4.</sup> Chaque Partie publie et diffuse à des intervalles réguliers ne dépassant pas trois ou quatre ans un rapport national sur l’état de l’environnement, y compris des informations sur la qualité de l’environnement et des informations sur les contraintes qui s’exercent sur l’environnement.
@@ -237,7 +237,7 @@ Chaque Partie veille à ce que les informations sur l’environnement deviennent
 Chaque Partie prend des mesures, dans le cadre de sa législation, afin de diffuser notamment:
 
 - a) les textes de lois et les documents directifs tels que les documents sur les stratégies, politiques, programmes et plans d’action relatifs à l’environnement et les rapports faisant le point de leur application, établis aux différents échelons de l’administration publique;
-- b) les traités, conventions et accords internationaux portant sur des questions relatives à l’environnement; et
+- b) les traités, conventions et accords internationaux portant sur des questions relatives à l’environnement, et
 - c) le cas échéant, les autres documents internationaux importants portant sur des questions relatives à l’environnement.
 
 <sup>6.</sup> Chaque Partie encourage les exploitants dont les activités ont un impact important sur l’environnement à informer périodiquement le public de l’impact sur l’environnement de leurs activités et de leurs produits, le cas échéant dans le cadre de programmes volontaires d’étiquetage écologique ou d’écobilans ou par d’autres moyens.
@@ -247,7 +247,7 @@ Chaque Partie prend des mesures, dans le cadre de sa législation, afin de diffu
 Chaque Partie:
 
 - a) rend publics les faits et les analyses des faits qu’elle juge pertinents et importants pour élaborer les propositions concernant les mesures essentielles à prendre en matière d’environnement;
-- b) publie ou rend accessibles d’une autre manière les documents disponibles expliquant comment elle traite avec le public dans les affaires relevant de la présente Convention; et
+- b) publie ou rend accessibles d’une autre manière les documents disponibles expliquant comment elle traite avec le public dans les affaires relevant de la présente Convention, et
 - c) communique sous une forme appropriée des informations sur la façon dont l’administration, à tous les échelons, exerce les fonctions publiques ou fournit des services publics relatifs à l’environnement.
 
 <sup>8.</sup> Chaque Partie met au point des mécanismes dans le but de faire en sorte que des informations suffisantes sur les produits soient mises à la disposition du public de manière à permettre aux consommateurs de faire des choix écologiques en toute connaissance de cause.
@@ -284,7 +284,7 @@ Lorsqu’un processus décisionnel touchant l’environnement est engagé, le pu
   - iii) la date et le lieu de toute audition publique envisagée,
   - iv) l’autorité publique à laquelle il est possible de s’adresser pour obtenir des renseignements pertinents et auprès de laquelle ces renseignements ont été déposés pour que le public puisse les examiner,
   - v) l’autorité publique ou tout autre organisme public compétent auquel des observations ou questions peuvent être adressées et le délai prévu pour la communication d’observations ou de questions,
-  - vi) l’indication des informations sur l’environnement se rapportant à l’activité proposée qui sont disponibles; et
+  - vi) l’indication des informations sur l’environnement se rapportant à l’activité proposée qui sont disponibles, et
 
 - e) le fait que l’activité fait l’objet d’une procédure d’évaluation de l’impact national ou transfrontière sur l’environnement.
 
@@ -302,7 +302,7 @@ Chaque Partie demande aux autorités publiques compétentes de faire en sorte qu
 - b) une description des effets importants de l’activité proposée sur l’environnement;
 - c) une description des mesures envisagées pour prévenir et/ou réduire ces effets, y compris les émissions;
 - d) un résumé non technique de ce qui précède;
-- e) un aperçu des principales solutions de remplacement étudiées par l’auteur de la demande d’autorisation; et
+- e) un aperçu des principales solutions de remplacement étudiées par l’auteur de la demande d’autorisation, et
 - f) conformément à la législation nationale, les principaux rapports et avis adressés à l’autorité publique au moment où le public concerné doit être informé conformément au par. 2 ci-dessus.
 
 <sup>7.</sup> La procédure de participation du public prévoit la possibilité pour le public de soumettre par écrit ou, selon qu’il convient, lors d’une audition ou d’une enquête publique faisant intervenir l’auteur de la demande toutes observations, informations, analyses ou opinions qu’il estime pertinentes au regard de l’activité proposée.
@@ -327,10 +327,10 @@ Chaque Partie prend les dispositions pratiques et/ou autres voulues pour que le 
 
 Les résultats de la participation du public sont pris en considération dans toute la mesure possible.
 
-Chaque Partie s’emploie à promouvoir une participation effective du public à un stade approprié – et tant que les options sont encore ouvertes – durant la phase d’élaboration par des autorités publiques des dispositions réglementaires et autres règles juridiquement contraignantes d’application générale qui peuvent avoir un effet important sur l’environnement. A cet effet, il convient de prendre les dispositions suivantes:
+Chaque Partie s’emploie à promouvoir une participation effective du public à un stade approprié – et tant que les options sont encore ouvertes – durant la phase d’élaboration par des autorités publiques des dispositions réglementaires et autres règles juridiquement contraignantes d’application générale qui peuvent avoir un effet important sur l’environnement. À cet effet, il convient de prendre les dispositions suivantes:
 
 - a) fixer des délais suffisants pour permettre une participation effective;
-- b) publier un projet de règles ou mettre celui-ci à la disposition du public par d’autres moyens; et
+- b) publier un projet de règles ou mettre celui-ci à la disposition du public par d’autres moyens, et
 - c) donner au public la possibilité de formuler des observations, soit directement, soit par l’intermédiaire d’organes consultatifs représentatifs.
 
 #### Art. 9
@@ -343,13 +343,13 @@ Dans les cas où une Partie prévoit un tel recours devant une instance judiciai
 
 Les décisions finales prises au titre du présent par. 1 s’imposent à l’autorité publique qui détient les informations. Les motifs qui les justifient sont indiqués par écrit, tout au moins lorsque l’accès à l’information est refusé au titre du présent paragraphe.
 
-<sup>2.</sup> Chaque Partie veille, dans le cadre de sa législation nationale, à ce que les membres du public concerné
+<sup>2.</sup> puissent former un recours devant une instance judiciaire et/ou un autre organe indépendant et impartial établi par loi pour contester la légalité, quant au fond et à la procédure, de toute décision, tout acte ou toute omission tombant sous le coup des dispositions de l’art. 6 et, si le droit interne le prévoit et sans préjudice du par. 3 ci‑après, des autres dispositions pertinentes de la présente Convention.
 
-puissent former un recours devant une instance judiciaire et/ou un autre organe indépendant et impartial établi par loi pour contester la légalité, quant au fond et à la procédure, de toute décision, tout acte ou toute omission tombant sous le coup des dispositions de l’art. 6 et, si le droit interne le prévoit et sans préjudice du par. 3 ci‑après, des autres dispositions pertinentes de la présente Convention.
-
-Ce qui constitue un intérêt suffisant et une atteinte à un droit est déterminé selon les dispositions du droit interne et conformément à l’objectif consistant à accorder au public concerné un large accès à la justice dans le cadre de la présente Convention. A cet effet, l’intérêt qu’a toute organisation non gouvernementale répondant aux conditions visées au par. 5 de l’art. 2 est réputé suffisant au sens de l’al. a) ci-dessus. Ces organisations sont également réputées avoir des droits auxquels il pourrait être porté atteinte au sens de l’al. b) ci-dessus.
+Ce qui constitue un intérêt suffisant et une atteinte à un droit est déterminé selon les dispositions du droit interne et conformément à l’objectif consistant à accorder au public concerné un large accès à la justice dans le cadre de la présente Convention. À cet effet, l’intérêt qu’a toute organisation non gouvernementale répondant aux conditions visées au par. 5 de l’art. 2 est réputé suffisant au sens de l’al. a) ci-dessus. Ces organisations sont également réputées avoir des droits auxquels il pourrait être porté atteinte au sens de l’al. b) ci-dessus.
 
 Les dispositions du présent par. 2 n’excluent pas la possibilité de former un recours préliminaire devant une autorité administrative et ne dispensent pas de l’obligation d’épuiser les voies de recours administratif avant d’engager une procédure judiciaire lorsqu’une telle obligation est prévue en droit interne.
+
+Chaque Partie veille, dans le cadre de sa législation nationale, à ce que les membres du public concerné:
 
 - a) ayant un intérêt suffisant pour agir ou, sinon,
 - b) faisant valoir une atteinte à un droit, lorsque le code de procédure administrative d’une Partie pose une telle condition,
@@ -382,7 +382,7 @@ Lors de leurs réunions, les Parties suivent en permanence l’application de la
 
 <sup>3.</sup> La Réunion des Parties peut, au besoin, envisager d’arrêter des dispositions d’ordre financier par consensus.
 
-<sup>4.</sup> L’Organisation des Nations Unies, ses institutions spécialisées et l’Agence internationale de l’énergie atomique, ainsi que tout Etat ou organisation d’intégration économique régionale qui est habilité en vertu de l’art. 17 à signer la Convention mais qui n’est pas Partie à ladite Convention, et toute organisation intergouvernementale qui possède des compétences dans des domaines ayant un rapport avec la présente Convention sont autorisés à participer en qualité d’observateurs aux réunions des Parties.
+<sup>4.</sup> L’Organisation des Nations Unies, ses institutions spécialisées et l’Agence internationale de l’énergie atomique, ainsi que tout État ou organisation d’intégration économique régionale qui est habilité en vertu de l’art. 17 à signer la Convention mais qui n’est pas Partie à ladite Convention, et toute organisation intergouvernementale qui possède des compétences dans des domaines ayant un rapport avec la présente Convention sont autorisés à participer en qualité d’observateurs aux réunions des Parties.
 
 <sup>5.</sup> Toute organisation non gouvernementale qui possède des compétences dans des domaines ayant un rapport avec la présente Convention et qui a fait savoir au Secrétaire exécutif de la Commission économique pour l’Europe qu’elle souhaitait être représentée à une Réunion des Parties est autorisée à participer en qualité d’observateur à moins qu’un tiers au moins des Parties n’y fassent objection.
 
@@ -394,7 +394,7 @@ Lors de leurs réunions, les Parties suivent en permanence l’application de la
 
 <sup>1.</sup> Sous réserve des dispositions du par. 2 ci-après, chaque Partie à la présente Convention dispose d’une voix.
 
-<sup>2.</sup> Dans les domaines relevant de leur compétence, les organisations d’intégration économique régionale disposent, pour exercer leur droit de vote, d’un nombre de voix égal au nombre de leurs Etats membres qui sont Parties à la présente Convention. Ces organisations n’exercent pas leur droit de vote si leurs Etats membres exercent le leur, et inversement.
+<sup>2.</sup> Dans les domaines relevant de leur compétence, les organisations d’intégration économique régionale disposent, pour exercer leur droit de vote, d’un nombre de voix égal au nombre de leurs États membres qui sont Parties à la présente Convention. Ces organisations n’exercent pas leur droit de vote si leurs États membres exercent le leur, et inversement.
 
 #### Art. 12
 
@@ -403,7 +403,7 @@ Lors de leurs réunions, les Parties suivent en permanence l’application de la
 Le Secrétaire exécutif de la Commission économique pour l’Europe exerce les fonctions de secrétariat suivantes:
 
 - a) il convoque et prépare les réunions des Parties;
-- b) il transmet aux Parties les rapports et autres renseignements reçus en application des dispositions de la présente Convention; et
+- b) il transmet aux Parties les rapports et autres renseignements reçus en application des dispositions de la présente Convention, et
 - c) il s’acquitte des autres fonctions que les Parties peuvent lui assigner.
 
 #### Art. 13
@@ -426,7 +426,7 @@ Les annexes de la présente Convention font partie intégrante de la Convention.
 
 <sup>5.</sup> Toute Partie qui n’est pas en mesure d’approuver un amendement à une annexe de la présente Convention en donne notification au Dépositaire par écrit dans les douze mois qui suivent la date de la communication de son adoption. Le Dépositaire informe sans retard toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, les amendements à ladite annexe entrent en vigueur à l’égard de cette Partie.
 
-<sup>6.</sup> A l’expiration d’un délai de douze mois à compter de la date de sa communication par le Dépositaire visée au par. 4 ci-dessus, tout amendement à une annexe entre en vigueur à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions du par. 5 ci-dessus pour autant qu’un tiers au plus des Parties aient soumis cette notification.
+<sup>6.</sup> À l’expiration d’un délai de douze mois à compter de la date de sa communication par le Dépositaire visée au par. 4 ci-dessus, tout amendement à une annexe entre en vigueur à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions du par. 5 ci-dessus pour autant qu’un tiers au plus des Parties aient soumis cette notification.
 
 <sup>7.</sup> Aux fins du présent article, l’expression «Parties présentes et votantes» désigne les Parties présentes à la réunion qui émettent un vote affirmatif ou négatif.
 
@@ -455,7 +455,7 @@ Lorsqu’elle signe, ratifie, accepte, approuve la présente Convention ou y adh
 
 **Signature**
 
-La présente Convention est ouverte à la signature des Etats membres de la Commission économique pour l’Europe ainsi que des Etats dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu des par. 8 et 11 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947, et des organisations d’intégration économique régionale constituées par des Etats souverains, membres de la Commission économique pour l’Europe, qui leur ont transféré compétence pour des matières dont traite la présente Convention, y compris la compétence pour conclure des traités sur ces matières, à Aarhus (Danemark) le 25 juin 1998, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 21 décembre 1998.
+La présente Convention est ouverte à la signature des États membres de la Commission économique pour l’Europe ainsi que des États dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu des par. 8 et 11 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947, et des organisations d’intégration économique régionale constituées par des États souverains, membres de la Commission économique pour l’Europe, qui leur ont transféré compétence pour des matières dont traite la présente Convention, y compris la compétence pour conclure des traités sur ces matières, à Aarhus (Danemark) le 25 juin 1998, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 21 décembre 1998.
 
 #### Art. 18
 
@@ -467,13 +467,13 @@ Le Secrétaire général de l’Organisation des Nations Unies remplit les fonct
 
 **Ratification, acceptation, approbation et adhésion**
 
-<sup>1.</sup> La présente Convention est soumise à la ratification, l’acceptation ou l’approbation des Etats et des organisations d’intégration économique régionale signataires.
+<sup>1.</sup> La présente Convention est soumise à la ratification, l’acceptation ou l’approbation des États et des organisations d’intégration économique régionale signataires.
 
-<sup>2.</sup> La présente Convention est ouverte à l’adhésion des Etats et organisations d’intégration économique régionale visés à l’art. 17 à compter du 22 décembre 1998.
+<sup>2.</sup> La présente Convention est ouverte à l’adhésion des États et organisations d’intégration économique régionale visés à l’art. 17 à compter du 22 décembre 1998.
 
-<sup>3.</sup> Tout Etat, autre que ceux visés au par. 2 ci-dessus, qui est membre de l’Organisation des Nations Unies, peut adhérer à la Convention avec l’accord de la Réunion des Parties.
+<sup>3.</sup> Tout État, autre que ceux visés au par. 2 ci-dessus, qui est membre de l’Organisation des Nations Unies, peut adhérer à la Convention avec l’accord de la Réunion des Parties.
 
-<sup>4.</sup> Toute organisation visée à l’art. 17 qui devient Partie à la présente Convention sans qu’aucun de ses Etats membres n’y soit Partie est liée par toutes les obligations qui découlent de la Convention. Lorsqu’un ou plusieurs Etats membres d’une telle organisation sont Parties à la présente Convention, cette organisation et ses Etats membres conviennent de leurs responsabilités respectives dans l’exécution des obligations que leur impose la Convention. En pareil cas, l’organisation et les Etats membres ne sont pas habilités à exercer concurremment les droits qui découlent de la présente Convention.
+<sup>4.</sup> Toute organisation visée à l’art. 17 qui devient Partie à la présente Convention sans qu’aucun de ses États membres n’y soit Partie est liée par toutes les obligations qui découlent de la Convention. Lorsqu’un ou plusieurs États membres d’une telle organisation sont Parties à la présente Convention, cette organisation et ses États membres conviennent de leurs responsabilités respectives dans l’exécution des obligations que leur impose la Convention. En pareil cas, l’organisation et les États membres ne sont pas habilités à exercer concurremment les droits qui découlent de la présente Convention.
 
 <sup>5.</sup> Dans leurs instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les organisations d’intégration économique régionale visées à l’art. 17 indiquent l’étendue de leur compétence à l’égard des matières dont traite la présente Convention. En outre, ces organisations informent le Dépositaire de toute modification importante de l’étendue de leur compétence.
 
@@ -483,15 +483,15 @@ Le Secrétaire général de l’Organisation des Nations Unies remplit les fonct
 
 <sup>1.</sup> La présente Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date de dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>2.</sup> Aux fins du par. 1 ci-dessus, l’instrument déposé par une organisation d’intégration économique régionale ne s’ajoute pas à ceux qui sont déposés par les Etats membres de cette organisation.
+<sup>2.</sup> Aux fins du par. 1 ci-dessus, l’instrument déposé par une organisation d’intégration économique régionale ne s’ajoute pas à ceux qui sont déposés par les États membres de cette organisation.
 
-<sup>3.</sup> A l’égard de chaque Etat ou organisation visé à l’art. 17 qui ratifie, accepte ou approuve la présente Convention ou y adhère après le dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt par cet Etat ou cette organisation de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>3.</sup> À l’égard de chaque État ou organisation visé à l’art. 17 qui ratifie, accepte ou approuve la présente Convention ou y adhère après le dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt par cet État ou cette organisation de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. 21
 
 **Dénonciation**
 
-A tout moment après l’expiration d’un délai de trois ans commençant à courir à la date à laquelle la présente Convention est entrée en vigueur à l’égard d’une Partie, cette Partie peut dénoncer la Convention par notification écrite adressée au Dépositaire. Cette dénonciation prend effet le quatre-vingt-dixième jour qui suit la date de réception de sa notification par le Dépositaire.
+À tout moment après l’expiration d’un délai de trois ans commençant à courir à la date à laquelle la présente Convention est entrée en vigueur à l’égard d’une Partie, cette Partie peut dénoncer la Convention par notification écrite adressée au Dépositaire. Cette dénonciation prend effet le quatre-vingt-dixième jour qui suit la date de réception de sa notification par le Dépositaire.
 
 #### Art. 22
 
@@ -622,7 +622,7 @@ Dans les deux cas, les transvasements d’eau potable amenée par canalisations 
 \15. Installations destinées à l’élevage intensif de volailles ou de porcs disposant de plus de:
 
 - a) 40 000 emplacements pour la volaille;
-- b) 2000 emplacements pour porcs de production (de plus de 30 kg); ou
+- b) 2000 emplacements pour porcs de production (de plus de 30 kg), ou
 - c) 750 emplacements pour truies.
 
 \16. Carrières et exploitations minières à ciel ouvert lorsque la surface du site dépasse 25 hectares ou, pour les tourbières, 150 hectares.
@@ -692,7 +692,7 @@ Annexe II
 
 \13. Le tribunal arbitral peut connaître et décider des demandes reconventionnelles directement liées à l’objet du différend.
 
-\14. A moins que le tribunal arbitral n’en décide autrement en raison des circonstances particulières de l’affaire, les frais du tribunal, y compris la rémunération de ses membres, sont supportés à parts égales par les parties au différend. Le tribunal tient un relevé de tous ses frais et en fournit un état final aux parties.
+\14. À moins que le tribunal arbitral n’en décide autrement en raison des circonstances particulières de l’affaire, les frais du tribunal, y compris la rémunération de ses membres, sont supportés à parts égales par les parties au différend. Le tribunal tient un relevé de tous ses frais et en fournit un état final aux parties.
 
 \15. Toute Partie à la présente Convention qui a, en ce qui concerne l’objet du différend, un intérêt d’ordre juridique susceptible d’être affecté par la décision rendue dans l’affaire peut intervenir dans la procédure, avec l’accord du tribunal.
 
@@ -702,64 +702,61 @@ Annexe II
 
 \18. Tout différend entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 2 avril 2014**[^t-2]**
+Champ d’application le 25 mars 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie</td><td>27 juin</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Allemagne</td><td>15 janvier</td><td>2007</td><td>15 avril</td><td>2007</td></tr>
-<tr><td colspan="2">Arménie</td><td>1<sup>er</sup> août</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Autriche\*</td><td>17 janvier</td><td>2005</td><td>17 avril</td><td>2005</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td>23 mars</td><td>2000 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Bélarus</td><td>9 mars</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Belgique</td><td>21 janvier</td><td>2003</td><td>21 avril</td><td>2003</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>1<sup>er</sup> octobre</td><td>2008 A</td><td>30 décembre</td><td>2008</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>17 décembre</td><td>2003</td><td>16 mars</td><td>2004</td></tr>
-<tr><td colspan="2">Chypre</td><td>19 septembre</td><td>2003</td><td>18 décembre</td><td>2003</td></tr>
-<tr><td colspan="2">Croatie</td><td>27 mars</td><td>2007</td><td>25 juin</td><td>2007</td></tr>
-<tr><td colspan="2">Danemark\* <sup>a</sup></td><td>29 septembre</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Espagne</td><td>29 décembre</td><td>2004</td><td>29 mars</td><td>2005</td></tr>
-<tr><td colspan="2">Estonie</td><td>2 août</td><td>2001</td><td>31 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>1<sup>er</sup> septembre</td><td>2004</td><td>29 novembre</td><td>2004</td></tr>
-<tr><td colspan="2">France\* <sup>b</sup></td><td>8 juillet</td><td>2002</td><td>6 octobre</td><td>2002</td></tr>
-<tr><td colspan="2">Géorgie</td><td>11 avril</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Grèce</td><td>27 janvier</td><td>2006</td><td>27 avril</td><td>2006</td></tr>
-<tr><td colspan="2">Hongrie</td><td>3 juillet</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Irlande</td><td>20 juin</td><td>2012</td><td>18 septembre</td><td>2012</td></tr>
-<tr><td colspan="2">Islande</td><td>20 octobre</td><td>2011</td><td>18 janvier</td><td>2012</td></tr>
-<tr><td colspan="2">Italie</td><td>13 juin</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Kazakhstan</td><td>11 janvier</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Lettonie</td><td>14 juin</td><td>2002</td><td>12 septembre</td><td>2002</td></tr>
-<tr><td colspan="2">Lituanie</td><td>28 janvier</td><td>2002</td><td>28 avril</td><td>2002</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>25 octobre</td><td>2005</td><td>23 janvier</td><td>2006</td></tr>
-<tr><td colspan="2">Macédoine</td><td>22 juillet</td><td>1999 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Malte</td><td>23 avril</td><td>2002</td><td>22 juillet</td><td>2002</td></tr>
-<tr><td colspan="2">Moldova</td><td>9 août</td><td>1999</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Monténégro</td><td>2 novembre</td><td>2009 A</td><td>31 janvier</td><td>2010</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>2 mai</td><td>2003</td><td>31 juillet</td><td>2003</td></tr>
-<tr><td colspan="2">Pays-Bas\* <sup>c</sup></td><td>29 décembre</td><td>2004</td><td>29 mars</td><td>2005</td></tr>
-<tr><td colspan="2">Pologne</td><td>15 février</td><td>2002</td><td>16 mai</td><td>2002</td></tr>
-<tr><td colspan="2">Portugal</td><td>9 juin</td><td>2003</td><td>7 septembre</td><td>2003</td></tr>
-<tr><td colspan="2">République tchèque</td><td>6 juillet</td><td>2004</td><td>4 octobre</td><td>2004</td></tr>
-<tr><td colspan="2">Roumanie</td><td>11 juillet</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>23 février</td><td>2005</td><td>24 mai</td><td>2005</td></tr>
-<tr><td colspan="2">Serbie</td><td>31 juillet</td><td>2009 A</td><td>29 octobre</td><td>2009</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>5 décembre</td><td>2005 A</td><td>5 mars</td><td>2006</td></tr>
-<tr><td colspan="2">Slovénie</td><td>29 juillet</td><td>2004</td><td>27 octobre</td><td>2004</td></tr>
-<tr><td colspan="2">Suède\*</td><td>20 mai</td><td>2005</td><td>18 août</td><td>2005</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>3 mars</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
-<tr><td colspan="2">Tadjikistan</td><td>17 juillet</td><td>2001 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Turkménistan</td><td>25 juin</td><td>1999 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Ukraine</td><td>18 novembre</td><td>1999</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Union européenne</td><td>17 février</td><td>2005</td><td>18 mai</td><td>2005</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La Convention ne s’applique ni aux Iles Féroés ni au Groenland.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">La Convention ne s’applique pas à la Nouvelle-Calédonie, ni à la Polynésie française ni aux Iles Wallis-et-Futuna.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Pour le Royaume en Europe</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>27 juin</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Allemagne</td><td>15 janvier</td><td>2007</td><td>15 avril</td><td>2007</td></tr>
+<tr><td>Arménie</td><td>1<sup>er</sup> août</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Autriche\*</td><td>17 janvier</td><td>2005</td><td>17 avril</td><td>2005</td></tr>
+<tr><td>Azerbaïdjan</td><td>23 mars</td><td>2000 A</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Belgique</td><td>21 janvier</td><td>2003</td><td>21 avril</td><td>2003</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> octobre</td><td>2008 A</td><td>30 décembre</td><td>2008</td></tr>
+<tr><td>Bulgarie</td><td>17 décembre</td><td>2003</td><td>16 mars</td><td>2004</td></tr>
+<tr><td>Chypre</td><td>19 septembre</td><td>2003</td><td>18 décembre</td><td>2003</td></tr>
+<tr><td>Croatie</td><td>27 mars</td><td>2007</td><td>25 juin</td><td>2007</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>29 septembre</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Espagne</td><td>29 décembre</td><td>2004</td><td>29 mars</td><td>2005</td></tr>
+<tr><td>Estonie</td><td>2 août</td><td>2001</td><td>31 octobre</td><td>2001</td></tr>
+<tr><td>Finlande\*</td><td>1<sup>er</sup> septembre</td><td>2004</td><td>29 novembre</td><td>2004</td></tr>
+<tr><td>France\* <sup>b</sup></td><td>8 juillet</td><td>2002</td><td>6 octobre</td><td>2002</td></tr>
+<tr><td>Géorgie</td><td>11 avril</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Grèce</td><td>27 janvier</td><td>2006</td><td>27 avril</td><td>2006</td></tr>
+<tr><td>Guinée-Bissau</td><td>4 avril</td><td>2023 A</td><td>3 juillet</td><td>2023</td></tr>
+<tr><td>Hongrie</td><td>3 juillet</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Irlande</td><td>20 juin</td><td>2012</td><td>18 septembre</td><td>2012</td></tr>
+<tr><td>Islande</td><td>20 octobre</td><td>2011</td><td>18 janvier</td><td>2012</td></tr>
+<tr><td>Italie</td><td>13 juin</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Kazakhstan</td><td>11 janvier</td><td>2001</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Kirghizistan</td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Lettonie</td><td>14 juin</td><td>2002</td><td>12 septembre</td><td>2002</td></tr>
+<tr><td>Lituanie</td><td>28 janvier</td><td>2002</td><td>28 avril</td><td>2002</td></tr>
+<tr><td>Luxembourg</td><td>25 octobre</td><td>2005</td><td>23 janvier</td><td>2006</td></tr>
+<tr><td>Macédoine du Nord</td><td>22 juillet</td><td>1999 A</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Malte</td><td>23 avril</td><td>2002</td><td>22 juillet</td><td>2002</td></tr>
+<tr><td>Moldova</td><td>9 août</td><td>1999</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Monténégro</td><td>2 novembre</td><td>2009 A</td><td>31 janvier</td><td>2010</td></tr>
+<tr><td>Norvège\*</td><td>2 mai</td><td>2003</td><td>31 juillet</td><td>2003</td></tr>
+<tr><td>Pays-Bas\* <sup>c</sup></td><td>29 décembre</td><td>2004</td><td>29 mars</td><td>2005</td></tr>
+<tr><td>Pologne</td><td>15 février</td><td>2002</td><td>16 mai</td><td>2002</td></tr>
+<tr><td>Portugal</td><td>9 juin</td><td>2003</td><td>7 septembre</td><td>2003</td></tr>
+<tr><td>République tchèque</td><td>6 juillet</td><td>2004</td><td>4 octobre</td><td>2004</td></tr>
+<tr><td>Roumanie</td><td>11 juillet</td><td>2000</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Royaume-Uni\*</td><td>23 février</td><td>2005</td><td>24 mai</td><td>2005</td></tr>
+<tr><td>Serbie</td><td>31 juillet</td><td>2009 A</td><td>29 octobre</td><td>2009</td></tr>
+<tr><td>Slovaquie</td><td>5 décembre</td><td>2005 A</td><td>5 mars</td><td>2006</td></tr>
+<tr><td>Slovénie</td><td>29 juillet</td><td>2004</td><td>27 octobre</td><td>2004</td></tr>
+<tr><td>Suède\*</td><td>20 mai</td><td>2005</td><td>18 août</td><td>2005</td></tr>
+<tr><td>Suisse\*</td><td>3 mars</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
+<tr><td>Tadjikistan</td><td>17 juillet</td><td>2001 A</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Turkménistan</td><td>25 juin</td><td>1999 A</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Ukraine</td><td>18 novembre</td><td>1999</td><td>30 octobre</td><td>2001</td></tr>
+<tr><td>Union européenne</td><td>17 février</td><td>2005</td><td>18 mai</td><td>2005</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique ni aux Îles Féroés ni au Groenland. <sup>b</sup> La Convention ne s’applique pas à la Nouvelle-Calédonie, ni à la Polynésie française ni aux Îles Wallis-et-Futuna. <sup>c</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves de la Suisse
 

@@ -3,11 +3,11 @@ sr: "0.814.07"
 title: "Convenzione del 25 giugno 1998 sull'accesso alle informazioni, la partecipazione del pubblico ai processi decisionali e l'accesso alla giustizia in materia ambientale (Convenzione di Aarhus) (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: it
-version: 2014-06-01
+version: 2025-03-25
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20140601/it/xml/fedlex-data-admin-ch-eli-cc-2014-235-20140601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20140601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/it/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,22 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20140601/it"
 
 RU **2014** 1027; FF **2012** 3841
 
-Traduzione*[^t-1]*
+Traduzione
 
 (Convenzione di Aarhus)
 
-Conclusa ad Aarhus il 25 giugno 1998
+Conclusa ad Aarhus il 25 giugno 1998 Approvata dall’Assemblea federale il 27 settembre 2013[^t-1] Strumento di ratifica depositato dalla Svizzera il 3 marzo 2014 Entrata in vigore per la Svizzera il 1° giugno 2014
 
-Approvata dall’Assemblea federale il 27 settembre 2013[^t-2]
+(Stato 25 marzo 2025)
 
-Strumento di ratifica depositato dalla Svizzera il 3 marzo 2014
-
-Entrata in vigore per la Svizzera il 1° giugno 2014
-
-(Stato 1° giugno 2014)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 del DF del 27 set. 2013 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+[^t-1]: Art. 1 cpv. 1 del DF del 27 set. 2013 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
 
 Preambolo
 
@@ -703,7 +696,7 @@ Allegato II
 
 \18. Qualsiasi controversia tra le parti in merito all’interpretazione o all’esecuzione della decisione finale può essere sottoposta da una di esse al tribunale arbitrale che l’ha emessa, o se questo non può essere investito della questione, a un altro tribunale costituito a tal fine nello stesso modo del primo.
 
-Campo d’applicazione il 2 aprile 2014**[^t-3]**
+Campo d’applicazione il 25 marzo 2025[^t-2]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -711,7 +704,6 @@ Campo d’applicazione il 2 aprile 2014**[^t-3]**
 <tr><td colspan="2">Armenia</td><td>1° agosto</td><td>2001</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Austria\*</td><td>17 gennaio</td><td>2005</td><td>17 aprile</td><td>2005</td></tr>
 <tr><td colspan="2">Azerbaigian</td><td>23 marzo</td><td>2000 A</td><td>30 ottobre</td><td>2001</td></tr>
-<tr><td colspan="2">Belarus</td><td>9 marzo</td><td>2000</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Belgio</td><td>21 gennaio</td><td>2003</td><td>21 aprile</td><td>2003</td></tr>
 <tr><td colspan="2">Bosnia ed Erzegovina</td><td>1° ottobre</td><td>2008 A</td><td>30 dicembre</td><td>2008</td></tr>
 <tr><td colspan="2">Bulgaria</td><td>17 dicembre</td><td>2003</td><td>16 marzo</td><td>2004</td></tr>
@@ -725,6 +717,7 @@ Campo d’applicazione il 2 aprile 2014**[^t-3]**
 <tr><td colspan="2">Georgia</td><td>11 aprile</td><td>2000</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Germania</td><td>15 gennaio</td><td>2007</td><td>15 aprile</td><td>2007</td></tr>
 <tr><td colspan="2">Grecia</td><td>27 gennaio</td><td>2006</td><td>27 aprile</td><td>2006</td></tr>
+<tr><td colspan="2">Guinea-Bissau</td><td>4 aprile</td><td>2023 A</td><td>3 luglio</td><td>2023</td></tr>
 <tr><td colspan="2">Irlanda</td><td>20 giugno</td><td>2012</td><td>18 settembre</td><td>2012</td></tr>
 <tr><td colspan="2">Islanda</td><td>20 ottobre</td><td>2011</td><td>18 gennaio</td><td>2012</td></tr>
 <tr><td colspan="2">Italia</td><td>13 giugno</td><td>2001</td><td>30 ottobre</td><td>2001</td></tr>
@@ -733,7 +726,7 @@ Campo d’applicazione il 2 aprile 2014**[^t-3]**
 <tr><td colspan="2">Lettonia</td><td>14 giugno</td><td>2002</td><td>12 settembre</td><td>2002</td></tr>
 <tr><td colspan="2">Lituania</td><td>28 gennaio</td><td>2002</td><td>28 aprile</td><td>2002</td></tr>
 <tr><td colspan="2">Lussemburgo</td><td>25 ottobre</td><td>2005</td><td>23 gennaio</td><td>2006</td></tr>
-<tr><td colspan="2">Macedonia</td><td>22 luglio</td><td>1999 A</td><td>30 ottobre</td><td>2001</td></tr>
+<tr><td colspan="2">Macedonia del Nord</td><td>22 luglio</td><td>1999 A</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Malta</td><td>23 aprile</td><td>2002</td><td>22 luglio</td><td>2002</td></tr>
 <tr><td colspan="2">Moldova</td><td>9 agosto</td><td>1999</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Montenegro</td><td>2 novembre</td><td>2009 A</td><td>31 gennaio</td><td>2010</td></tr>
@@ -754,23 +747,23 @@ Campo d’applicazione il 2 aprile 2014**[^t-3]**
 <tr><td colspan="2">Ucraina</td><td>18 novembre</td><td>1999</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Ungheria</td><td>3 luglio</td><td>2001</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Unione europea</td><td>17 febbraio</td><td>2005</td><td>18 maggio</td><td>2005</td></tr>
-<tr><td>\*</td><td colspan="5">[tab] Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU, a eccezione di quelle della Svizzera. I testi francese e inglese possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ od ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
-<tr><td>[tab] <sup>a</sup></td><td colspan="5">[tab] La Conv. non si applica né alle Isole Färöer né alla Groenlandia.</td></tr>
-<tr><td>[tab] <sup>b</sup></td><td colspan="5">[tab] La Conv. non si applica né alla Nuova-Caledonia, né alla Polinesia francese, né alle isole Wallis e Futuna.</td></tr>
-<tr><td>[tab] <sup>c</sup></td><td colspan="5">[tab] Per il Regno in Europa.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, a eccezione di quelle della Svizzera. I testi francese e inglese possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ od ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6"><sup>a</sup> La Conv. non si applica né alle Isole Färöer né alla Groenlandia.</td></tr>
+<tr><td colspan="6"><sup>b</sup> La Conv. non si applica né alla Nuova-Caledonia, né alla Polinesia francese, né alle isole Wallis e Futuna.</td></tr>
+<tr><td colspan="6"><sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve della Svizzera
 
 Riserva all’articolo 4
 
-Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, per le domande di consultazione di documenti contenenti informazioni relative a impianti nucleari, l’articolo 4 della Convenzione di Aarhus si applica con riserva dell’articolo 23 della legge del 17 dicembre 2004[^t-4] sulla trasparenza, che garantisce l’accesso soltanto ai documenti ufficiali stilati o ricevuti da un’autorità dopo l’entrata in vigore di tale legge, il 1° luglio 2006.
+Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, per le domande di consultazione di documenti contenenti informazioni relative a impianti nucleari, l’articolo 4 della Convenzione di Aarhus si applica con riserva dell’articolo 23 della legge del 17 dicembre 2004[^t-3] sulla trasparenza, che garantisce l’accesso soltanto ai documenti ufficiali stilati o ricevuti da un’autorità dopo l’entrata in vigore di tale legge, il 1° luglio 2006.
 
 Riserve agli articoli 6 paragrafo 6 e 9 paragrafo 2
 
-Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, gli articoli 6 paragrafo 6 e 9 paragrafo 2 della Convenzione di Aarhus si applicano con riserva dell’articolo 3 capoverso 2 della legge del 7 ottobre 1983[^t-5] sulla protezione dell’ambiente (LPAmb), che esclude il diritto di ricorrere delle organizzazioni di protezione dell’ambiente, secondo l’articolo 55 LPAmb, contro le decisioni riguardanti sostanze radioattive e radiazioni ionizzanti.
+Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, gli articoli 6 paragrafo 6 e 9 paragrafo 2 della Convenzione di Aarhus si applicano con riserva dell’articolo 3 capoverso 2 della legge del 7 ottobre 1983[^t-4] sulla protezione dell’ambiente (LPAmb), che esclude il diritto di ricorrere delle organizzazioni di protezione dell’ambiente, secondo l’articolo 55 LPAmb, contro le decisioni riguardanti sostanze radioattive e radiazioni ionizzanti.
 
-[^t-4]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^t-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^t-3]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^t-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)

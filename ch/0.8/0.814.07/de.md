@@ -3,11 +3,11 @@ sr: "0.814.07"
 title: "Übereinkommen vom 25. Juni 1998 über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten (Aarhus-Konvention) (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: de
-version: 2014-06-01
+version: 2025-03-25
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20140601/de/xml/fedlex-data-admin-ch-eli-cc-2014-235-20140601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20140601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/de/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20140601/de"
 
 AS **2014** 1027; BBl **2012** 4323
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 (Aarhus-Konvention)
 
-Abgeschlossen in Aarhus am 25. Juni 1998 Von der Bundesversammlung genehmigt am 27. September 2013[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 3. März 2014
+Abgeschlossen in Aarhus am 25. Juni 1998 Von der Bundesversammlung genehmigt am 27. September 2013[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. März 2014
 
 In Kraft getreten für die Schweiz am 1. Juni 2014
 
-(Stand am 1. Juni 2014)
+(Stand am 25. März 2025)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 des BB vom 27. Sept. 2013 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+[^t-1]: Art. 1 Abs. 1 des BB vom 27. Sept. 2013 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
 
 Präambel
 
@@ -713,14 +712,13 @@ Anhang II
 
 \18. Streitigkeiten zwischen den Parteien über die Auslegung oder Vollstreckung des Schiedsspruchs können von jeder Partei dem Schiedsgericht, das den Schiedsspruch gefällt hat, oder, falls dieses Gericht nicht befasst werden kann, einem anderen Gericht, das zu diesem Zweck auf die gleiche Weise gebildet wird wie das erste, unterbreitet werden.
 
-Geltungsbereich am 2. April 2014**[^t-3]**
+Geltungsbereich am 25. März 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>27. Juni</td><td>2001</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Armenien</td><td>1. August</td><td>2001</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Aserbaidschan</td><td>23. März</td><td>2000 B</td><td>30. Oktober</td><td>2001</td></tr>
-<tr><td>Belarus</td><td>9. März</td><td>2000</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Belgien</td><td>21. Januar</td><td>2003</td><td>21. April</td><td>2003</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>1. Oktober</td><td>2008 B</td><td>30. Dezember</td><td>2008</td></tr>
 <tr><td>Bulgarien</td><td>17. Dezember</td><td>2003</td><td>16. März</td><td>2004</td></tr>
@@ -732,6 +730,7 @@ Geltungsbereich am 2. April 2014**[^t-3]**
 <tr><td>Frankreich\* <sup>b</sup></td><td>8. Juli</td><td>2002</td><td>6. Oktober</td><td>2002</td></tr>
 <tr><td>Georgien</td><td>11. April</td><td>2000</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Griechenland</td><td>27. Januar</td><td>2006</td><td>27. April</td><td>2006</td></tr>
+<tr><td>Guinea-Bissau</td><td>4. April</td><td>2023 B</td><td>3. Juli</td><td>2023</td></tr>
 <tr><td>Irland</td><td>20. Juni</td><td>2012</td><td>18. September</td><td>2012</td></tr>
 <tr><td>Island</td><td>20. Oktober</td><td>2011</td><td>18. Januar</td><td>2012</td></tr>
 <tr><td>Italien</td><td>13. Juni</td><td>2001</td><td>30. Oktober</td><td>2001</td></tr>
@@ -742,10 +741,10 @@ Geltungsbereich am 2. April 2014**[^t-3]**
 <tr><td>Litauen</td><td>28. Januar</td><td>2002</td><td>28. April</td><td>2002</td></tr>
 <tr><td>Luxemburg</td><td>25. Oktober</td><td>2005</td><td>23. Januar</td><td>2006</td></tr>
 <tr><td>Malta</td><td>23. April</td><td>2002</td><td>22. Juli</td><td>2002</td></tr>
-<tr><td>Mazedonien</td><td>22. Juli</td><td>1999 B</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Moldau</td><td>9. August</td><td>1999</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Montenegro</td><td>2. November</td><td>2009 B</td><td>31. Januar</td><td>2010</td></tr>
 <tr><td>Niederlande\* <sup>c</sup></td><td>29. Dezember</td><td>2004</td><td>29. März</td><td>2005</td></tr>
+<tr><td>Nordmazedonien</td><td>22. Juli</td><td>1999 B</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Norwegen\*</td><td>2. Mai</td><td>2003</td><td>31. Juli</td><td>2003</td></tr>
 <tr><td>Österreich\*</td><td>17. Januar</td><td>2005</td><td>17. April</td><td>2005</td></tr>
 <tr><td>Polen</td><td>15. Februar</td><td>2002</td><td>16. Mai</td><td>2002</td></tr>
@@ -764,24 +763,20 @@ Geltungsbereich am 2. April 2014**[^t-3]**
 <tr><td>Ungarn</td><td>3. Juli</td><td>2001</td><td>30. Oktober</td><td>2001</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>23. Februar</td><td>2005</td><td>24. Mai</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>19. September</td><td>2003</td><td>18. Dezember</td><td>2003</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Neukaledonien, Französisch-Polynesien sowie Wallis und Futuna. <sup>c</sup> Für das Königreich in Europa</td></tr>
 </table>
 
-- <sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
-- <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.
-- <sup>b</sup> Das Übereinkommen gilt nicht für Neukaledonien, Französisch-Polynesien sowie Wallis und Futuna.
-- <sup>c</sup> Für das Königreich in Europa
-
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte der Schweiz
 
 Vorbehalt zu Art. 4
 
-Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 4 der Aarhus-Konvention für Gesuche um Einsicht in Dokumente, die Informationen in Zusammenhang mit Kernanlagen enthalten, unter dem Vorbehalt von Artikel 23 des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^t-4], der den Zugang nur zu amtlichen Dokumenten gewährt, die nach dem Inkrafttreten des Öffentlichkeitsgesetzes, dem 1. Juli 2006, erstellt wurden oder der Behörde zugegangen sind.
+Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 4 der Aarhus-Konvention für Gesuche um Einsicht in Dokumente, die Informationen in Zusammenhang mit Kernanlagen enthalten, unter dem Vorbehalt von Artikel 23 des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^t-3], der den Zugang nur zu amtlichen Dokumenten gewährt, die nach dem Inkrafttreten des Öffentlichkeitsgesetzes, dem 1. Juli 2006, erstellt wurden oder der Behörde zugegangen sind.
 
 Vorbehalte zu Art. 6 Abs. 6 und 9 Abs. 2
 
-Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 6 Absatz 6 und Artikel 9 Absatz 2 der Aarhus-Konvention unter dem Vorbehalt von Artikel 3 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-5] (USG), der das Beschwerderecht der Umweltschutzorganisationen nach Artikel 55 des USG in Bezug auf radioaktive Stoffe und ionisierende Strahlung ausschliesst.
+Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 6 Absatz 6 und Artikel 9 Absatz 2 der Aarhus-Konvention unter dem Vorbehalt von Artikel 3 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-4] (USG), der das Beschwerderecht der Umweltschutzorganisationen nach Artikel 55 des USG in Bezug auf radioaktive Stoffe und ionisierende Strahlung ausschliesst.
 
-[^t-4]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^t-5]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^t-3]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^t-4]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
