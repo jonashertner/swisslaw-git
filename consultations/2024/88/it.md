@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accelerazione dell’ampliamento e della trasformazione delle reti elettriche (modifica dell’ordinanza sulla procedura d’approvazione dei piani di impianti elettrici)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Beschleunigung beim Aus- und Umbau der Stromnetze (Änderung der Verordnung über das Plangenehmigungsverfahren für elektrische Anlagen)
 document: Vernehmlassungsvorlage
 language: de
