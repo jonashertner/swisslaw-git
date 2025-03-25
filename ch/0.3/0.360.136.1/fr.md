@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: "Accord du 5 avril 2022 entre la Confédération suisse et la République fédérale d'Allemagne relatif à la coopération transfrontalière en matière policière et judiciaire (Accord entre la Suisse et l’Allemagne en matière de police)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: fr
-version: 2024-08-09
+version: 2025-03-26
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/fr/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20250326/fr/xml/fedlex-data-admin-ch-eli-cc-2024-170-20250326-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20250326/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Traduction
 
 Conclu le 5 avril 2022 Instruments de ratification échangés le 27 mars 2024 Entré en vigueur le 1<sup>er</sup> mai 2024
 
-(État le 9 août 2024)
+(État le 26 mars 2025)
 
 La Confédération suisse et la République fédérale d’Allemagne
 
@@ -977,7 +977,7 @@ Fait à Berlin, le 5 avril 2022, en deux originaux rédigés tous deux en langue
 
 [^lvlu8-1]
 
-[^lvlu8-1]: Communication du 9 août 2024 ([RO 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+[^lvlu8-1]: Communication du 9 août 2024 ([RO 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)). Mise à jour par la mod. du 26 mars 2025 ([RO 2025 351](https://fedlex.data.admin.ch/eli/oc/2025/351)).
 
 Suisse
 
@@ -985,4 +985,10 @@ Les autorités compétentes mentionnées à l’art. 52 de l’Accord sont l’O
 
 Allemagne
 
-Les autorités compétentes mentionnées à l’art. 52 de l’Accord sont l’Office fédéral de la justice et l’Office fédéral des véhicules à moteur.
+Les autorités compétentes mentionnées à l’art. 52 de l’Accord sont l’Office fédéral de la justice et l’Office fédéral des véhicules à moteur:
+
+- 1\. l’Office fédéral des véhicules à moteur pour les demandes de recherche de détenteurs de véhicules reçues au sens de l’art. 46, par. 1, dans le cadre de la procédure automatisée prévue à l’art. 8, par. 1, ch. 3, 2 et 4 de l’Accord;
+- 2\. les autorités policières compétentes pour les demandes de recherche de détenteurs de véhicules reçues au sens de l’art. 46, par. 1, dans le cadre de la procédure non automatisée prévue à l’art. 8, par. 1, ch. 3, 2, première phrase, et 4 et pour la recherche et l’audition de conducteurs au sens de l’art. 46, par. 2, de l’Accord;
+- 3\. les autorités policières, judiciaires et administratives dans le cadre de leurs tâches respectives pour les demandes de recherche de documents officiels reçues au sens de l’art. 47, par. 3, de l’Accord;
+- 4\. les autorités policières, judiciaires et administratives dans le cadre de leurs tâches respectives pour les demandes de recherche au sens de l’art. 46 et pour la transmission de documents officiels au sens de l’art. 47, par. 1, de l’Accord;
+- 5\. l’Office fédéral de la justice pour les demandes d’exécution forcée en matière de circulation routière envoyées et reçues au sens des art. 48, par. 3, et 50, par. 1, de l’Accord.

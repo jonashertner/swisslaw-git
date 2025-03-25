@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: Vertrag vom 5. April 2022 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die grenzüberschreitende polizeiliche und justizielle Zusammenarbeit (Schweizerisch-deutscher Polizeivertrag)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: de
-version: 2024-08-09
+version: 2025-03-26
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/de/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20250326/de/xml/fedlex-data-admin-ch-eli-cc-2024-170-20250326-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20250326/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 5. April 2022 Ratifikationsurkunden ausgetauscht am 27. März 2024 In Kraft getreten am 1. Mai 2024
 
-(Stand am 9. August 2024)
+(Stand am 26. März 2025)
 
 Die Schweizerische Eidgenossenschaft und die Bundesrepublik Deutschland,
 
@@ -981,7 +981,7 @@ Geschehen zu Berlin am 5. April 2022 in zwei Urschriften, beide in deutscher Spr
 
 [^lvlu8-1]
 
-[^lvlu8-1]: Mitteilung vom 9. Aug. 2024 ([AS 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+[^lvlu8-1]: Mitteilung vom 9. Aug. 2024 ([AS 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)) und bereinigt gemäss Änd. vom 26. März 2025 ([AS 2025 351](https://fedlex.data.admin.ch/eli/oc/2025/351)).
 
 Schweiz
 
@@ -989,4 +989,10 @@ Als zuständige Behörden im Sinne von Art. 52 des Vertrages werden das Bundesam
 
 Deutschland
 
-Als zuständige Behörde im Sinne von Artikel 52 des Vertrages werden das Bundesamt für Justiz (BfJ) und das Kraftfahrt-Bundesamt (KBA) bestimmt.
+Als zuständige Behörde im Sinne von Artikel 52 des Vertrages werden das Bundesamt für Justiz (BfJ) und das Kraftfahrt-Bundesamt (KBA) bestimmt:
+
+- 1\. für eingehende Ersuchen um Ermittlung von Halterinnen und Haltern im Sinne von Artikel 46 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages im automatisierten Verfahren gemäss Artikel 8 Absatz 1 Nummer 3, Absatz 2 und Absatz 4 des Deutsch-Schweizerischen Polizeivertrages das Kraftfahrt-Bundesamt (KBA);
+- 2\. für eingehende Ersuchen um Ermittlung von Halterinnen und Haltern im Sinne von Artikel 46 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages im nichtautomatisierten Verfahren gemäss Artikel 8 Absatz 1 Nummer 3, Absatz 2 Satz 1 und Absatz 4 des Deutsch-Schweizerischen Polizeivertrages sowie für die Ermittlung und Befragung von lenkenden Personen im Sinne von Artikel 46 Absatz 2 des Deutsch-Schweizerischen Polizeivertrages die zuständigen Polizeibehörden;
+- 3\. für eingehende Ersuchen um Übermittlung amtlicher Schriftstücke gemäss Artikel 47 Absatz 3 des Deutsch-Schweizerischen Polizeivertrages die zuständigen Polizei-, Justiz- und Verwaltungsbehörden im Rahmen ihrer jeweiligen Aufgabenwahrnehmung;
+- 4\. für ausgehende Ermittlungsersuchen im Sinne von Artikel 46 des Deutsch-Schweizerischen Polizeivertrages sowie für die Übermittlung amtlicher Schriftstücke gemäss Artikel 47 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages die zuständigen Polizei-, Justiz- und Verwaltungsbehörden im Rahmen ihrer jeweiligen Aufgabenwahrnehmung;
+- 5\. für ein- und ausgehende Vollstreckungshilfeersuchen zum Strassenverkehr im Sinne von Artikel 48 Absatz 3 und Artikel 50 Absatz 1 des Deutsch-Schweizerischen Polizeivertrages das Bundesamt für Justiz (BfJ).

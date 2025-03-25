@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: Accordo del 5 aprile 2022 tra la Confederazione Svizzera e la Repubblica federale di Germania sulla cooperazione transfrontaliera in materia di polizia e giudiziaria (Accordo di polizia tra Svizzera e Germania)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: it
-version: 2024-08-09
+version: 2025-03-26
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/it/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20250326/it/xml/fedlex-data-admin-ch-eli-cc-2024-170-20250326-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20250326/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Concluso il 5 aprile 2022 Strumenti di ratificazione scambiati il 27 marzo 2024 Entrato in vigore il 1° maggio 2024
 
-(Stato 9 agosto 2024)
+(Stato 26 marzo 2025)
 
 La Confederazione Svizzera e la Repubblica federale di Germania,
 
@@ -975,7 +975,7 @@ Fatto a Berlino il 5 aprile 2022 in due originali in lingua tedesca.
 
 [^lvlu8-1]
 
-[^lvlu8-1]: Comunicazione del 9 ago. 2024 ([RU 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+[^lvlu8-1]: Comunicazioni del 9 ago. 2024 ([RU 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)) e aggiornato dalla mod. del 26 mar. 2025 ([RU 2025 351](https://fedlex.data.admin.ch/eli/oc/2025/351)).
 
 Svizzera
 
@@ -983,4 +983,10 @@ Quali autorità competenti ai sensi dell’articolo 52 dell’Accordo sono desig
 
 Germania
 
-Quali autorità competenti ai sensi dell’articolo 52 dell’Accordo sono designati l’Ufficio federale di giustizia e l’Autorità federale dei trasporti automobilistici.
+Quali autorità competenti ai sensi dell’articolo 52 dell’Accordo sono designati l’Ufficio federale di giustizia e l’Autorità federale dei trasporti automobilistici:
+
+- 1\. per le richieste concernenti la ricerca di detentori di veicoli ai sensi dell’articolo 46 paragrafo 1 dell’Accordo, pervenute mediante procedura informatizzata secondo l’articolo 8 paragrafo 1 numero 3, paragrafi 2 e 4 dell’Accordo, l’Autorità federale dei trasporti automobilistici (KBA);
+- 2\. per le richieste concernenti la ricerca di detentori di veicoli ai sensi dell’articolo 46 paragrafo 1 dell’Accordo, pervenute mediante procedura non informatizzata secondo l’articolo 8 paragrafo 1 numero 3, paragrafi 2 primo periodo e 4 dell’Accordo nonché per la ricerca e l’interrogazione di conducenti di veicoli ai sensi dell’articolo 46 paragrafo 2 dell’Accordo, le autorità di polizia competenti;
+- 3\. per le richieste pervenute concernenti la trasmissione di documenti ufficiali secondo l’articolo 47 paragrafo 3 dell’Accordo, le autorità di polizia, giudiziarie e amministrative competenti nell’ambito dell’adempimento dei rispettivi compiti;
+- 4\. per le richieste trasmesse concernenti ricerche ai sensi dell’articolo 46 dell’Accordo nonché per la trasmissione di documenti ufficiali secondo l’articolo 47 paragrafo 1 dell’Accordo, le autorità di polizia, giudiziarie e amministrative competenti nell’ambito dell’adempimento dei rispettivi compiti;
+- 5\. per le domande di assistenza in materia di esecuzione concernenti la circolazione stradale ai sensi degli articoli 48 paragrafo 3 e 50 paragrafo 1 dell’Accordo pervenute e trasmesse, l’Ufficio federale di giustizia (BfJ).
