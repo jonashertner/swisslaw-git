@@ -4,11 +4,10 @@ number: "702.25"
 title: Verordnung über Bewirtschaftungsbeiträge für Naturschutzleistungen (VBN)
 short: VBN
 language: de
-version: "2024-10-01"
-nachtrag: "126"
-valid_until: 2025-03-26
+version: "2025-03-26"
+nachtrag: "128"
 adopted: 2014-05-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_25-2014_05_14-2014_01_01-126.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_25-2014_05_14-2014_01_01-128.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ Das Amt für Landschaft und Natur (ALN) legt die kantonalen Anforderungen an die
 
 **1**
 
-1.10. 24 - 126 § 4. <sup>1</sup> Die Höhe der Beiträge berechnet sich nach dem Anhang.
+- 1\. 4. 25 - 128 § 4. <sup>1</sup> Die Höhe der Beiträge berechnet sich nach dem Anhang.
 
 **b. Beitragshöhe**
 
@@ -148,7 +147,7 @@ schutz- bisher neu zone
 
 **QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53 Fr. 103 Fr. 53 Fr. 0 Fr. 103 Fr. 0 Fr. 0 QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53 QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53**
 
-[^hNaturNutzungNutzu-1]: Der Zuschlag (Z) beträgt:4 – für extensiv genutzte Wiesen in der Tal- und Hügelzone Fr. 5/Are, – für extensiv genutzte Wiesen in der Bergzone I und II Fr. 4/Are, – für extensiv genutzte Weiden und wenig intensiv genutzte Wiesen und Uferwiesen Fr. 4.50/Are, – in den übrigen Fällen Fr. 2/Are.
+[^hNaturNutzungNutzu-1]: Der Zuschlag (Z) beträgt:4 – für extensiv genutzte Wiesen in der Tal- und Hügelzone Fr. 5/Are, – für extensiv genutzte Wiesen in der Bergzone I und II Fr. 4/Are, – für extensiv genutzte Weiden und wenig intensiv genutzte Wiesen und Uferwiesen Fr. 3.505/Are, – in den übrigen Fällen Fr. 2/Are.
 [^hNaturNutzungNutzu-2]: Der Vernetzungszuschlag (VZ) wird nur an Direktzahlungsberechtigte ausgerichtet. Er wird nur ausgerichtet, wenn der Schutz der überkommunalen Naturschutzgebiete, einschliesslich Pufferzonen, auf der Betriebsfläche umgesetzt ist. In der Zone I und IR wird der VZ auch ausserhalb von Vernetzungsprojekten ausgerichtet.
 [^hNaturNutzungNutzu-3]: Ertragsausfallanteil.
 [^hNaturNutzungNutzu-4]: Wenn die Anforderungen gemäss DZV erfüllt sind.
@@ -161,4 +160,5 @@ schutz- bisher neu zone
 
 - [1] OS 70, 152; Begründung siehe ABl 2014-05-23.
 - [2] Inkrafttreten: 1. Januar 2014 (ABl 2015-05-29).
-- [4] Fassung gemäss RRB vom 3. Juli 2024 (OS 79, 349; ABl 2024-07-19). In Kraft seit 1. Oktober 2024. 1.10. 24 - 126 3
+- [4] Fassung gemäss RRB vom 3. Juli 2024 (OS 79, 349; ABl 2024-07-19). In Kraft seit 1. Oktober 2024.
+- [5] Fassung gemäss Berichtigung vom 26. März 2025 (OS 80, 70). In Kraft seit 26. März 2025. 1. 4. 25 - 128 3
