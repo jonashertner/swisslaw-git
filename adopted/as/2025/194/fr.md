@@ -1,0 +1,172 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2025 194
+title: "Ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda"
+language: fr
+adopted: 2025-03-21
+published: 2025-03-27
+in_force: ["2025-05-15"]
+url: "https://www.fedlex.admin.ch/eli/oc/2025/194/fr"
+---
+
+> Reproduction non officielle du Recueil officiel (RO). L’acte est publié mais n’est pas encore en vigueur ; seule la publication au RO fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al‑Qaïda
+
+du 21 mars 2025
+
+Le Conseil fédéral suisse,
+
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 1267 (1999), 1989 (2011), 2253 (2015), 2664 (2022) et 2734 (2024) du Conseil de sécurité des Nations Unies,
+
+arrête:
+
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+
+## Section 1 Définitions
+
+#### Art. 1
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *avoirs:* les actifs financiers, y compris le numéraire, les chèques, les créances monétaires, les lettres de change, les mandats ou autres moyens de paiement, les dépôts, les dettes et reconnaissances de dette, les titres et titres de dette, les certificats de titres, les obligations, les titres de créances, les options, les lettres de gage, les dérivés; les recettes d’intérêts, les dividendes ou autres revenus ou plus-values engendrés par des biens en capital; les crédits, les droits à des compensations, les cautions, les garanties d’exécution de contrats ou autres engagements financiers; les droits-valeurs, les cryptoactifs, les accréditifs, les connaissements, les transferts de propriété à fin de garantie, les documents de titrisation de parts à des fonds ou à d’autres ressources financières et tout autre instrument de financement des exportations;
+- b. *gel des avoirs:* le fait d’empêcher toute action permettant la gestion ou l’utilisation des avoirs, à l’exception des actions administratives normales effectuées par des instituts financiers;
+- c. *ressources économiques:* les valeurs de quelque nature que ce soit, corporelles ou incorporelles, mobilières ou immobilières, en particulier les immeubles et les biens de luxe, à l’exception des avoirs au sens de la let. a;
+- d. *gel des ressources économiques:* toute action visant à empêcher l’utilisation de ressources économiques afin d’obtenir des avoirs, des biens ou des services, y compris par leur vente, leur location ou leur hypothèque.
+
+## Section 2 Mesures de coercition
+
+#### Art. 2
+
+**Interdiction de fournir des biens d’équipement militaires et du matériel connexe**
+
+<sup>1</sup> La vente, la fourniture, l’exportation et le transit de biens d’équipement militaires de toute sorte, y compris les armes et les munitions, les véhicules et les équipements militaires, le matériel paramilitaire, de même que leurs accessoires et pièces de rechange, sont interdits si ces biens sont destinés aux personnes physiques, groupes, entreprises et entités cités en annexe.
+
+<sup>2</sup> La fourniture, la vente et le courtage de conseils techniques et de moyens d’assistance ou d’entraînement liés aux activités militaires aux personnes physiques, groupes, entreprises et entités cités en annexe sont interdits.
+
+<sup>3</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^2-1] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^2-2] sont réservées.
+
+[^2-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^2-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+
+#### Art. 3
+
+**Gel des avoirs et des ressources économiques**
+
+<sup>1</sup>
+
+Sont gelés les avoirs et les ressources économiques qui sont la propriété ou sous le contrôle, direct ou indirect:
+
+- a. des personnes physiques, groupes, entreprises et entités cités en annexe;
+- b. des personnes physiques, groupes, entreprises et entités agissant au nom ou selon les instructions des personnes physiques, groupes, entreprises et entités visés à la let. a;
+- c. des groupes, entreprises et entités qui sont la propriété ou sous le contrôle des personnes physiques, groupes, entreprises et entités visés à la let. a ou b.
+
+<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, groupes, entreprises et entités visés à l’al. 1 ou de mettre à leur disposition d’une autre manière, directement ou indirectement, des avoirs ou des ressources économiques.
+
+<sup>3</sup>
+
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.
+
+<sup>4</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
+
+- a. prévenir des cas de rigueur;
+- b. honorer des contrats existants;
+- c. honorer des créances en application d’une décision judiciaire, administrative ou arbitrale existante.
+
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.
+
+#### Art. 4
+
+**Interdiction d’entrée en Suisse et de transit par la Suisse**
+
+<sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées en annexe.
+
+<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations à l’interdiction prévue à l’al. 1 si l’entrée ou le transit sont nécessaires aux fins d’une procédure judiciaire.
+
+<sup>3</sup> Il peut accorder des dérogations à l’interdiction prévue à l’al. 1 en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies.
+
+<sup>4</sup> Il peut, après avoir consulté les services compétents du DFAE et du SECO, accorder des dérogations à l’interdiction prévue à l’al. 1 si la sauvegarde d’intérêts suisses l’exige.
+
+## Section 3 Exécution et dispositions pénales
+
+#### Art. 5
+
+**Contrôle et exécution**
+
+<sup>1</sup> Le SECO surveille l’exécution des mesures de coercition prévues aux art. 2 et 3.
+
+<sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 4.
+
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières.
+
+<sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, par exemple en procédant à la mention d’un blocage dans le registre foncier ou à la saisie ou à la mise sous scellé de biens de luxe.
+
+#### Art. 6
+
+**Déclaration obligatoire**
+
+<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils sont soumis au gel des avoirs et des ressources économiques prévu à l’art. 3, al. 1, doivent le déclarer sans délai au SECO.
+
+<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+
+#### Art. 7
+
+**Dispositions pénales**
+
+<sup>1</sup> Quiconque viole les dispositions des art. 2 à 4 est puni conformément à l’art. 9 LEmb.
+
+<sup>2</sup> Quiconque viole les dispositions de l’art. 6 est puni conformément à l’art. 10 LEmb.
+
+<sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
+
+## Section 4 Reprise automatique de listes et publication
+
+#### Art. 8
+
+<sup>1</sup> Les listes relatives à des personnes physiques, entreprises et entités que le Conseil de sécurité des Nations Unies ou son comité compétent a établies ou actualisées sont reprises automatiquement.
+
+<sup>2</sup> Les inscriptions figurant en annexe ne sont publiées ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
+
+## Section 5 Dispositions finales
+
+#### Art. 9
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 2 octobre 2000 instituant des mesures à l’encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al‑Qaïda» ou aux Taliban[^9-1] est abrogée.
+
+[^9-1]: [RO 2000 2642](https://fedlex.data.admin.ch/eli/oc/2000/429); [2001 1353](https://fedlex.data.admin.ch/eli/oc/2001/186); [2002 155](https://fedlex.data.admin.ch/eli/oc/2002/26), [1646](https://fedlex.data.admin.ch/eli/oc/2002/256), [3955](https://fedlex.data.admin.ch/eli/oc/2002/626); [2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308); [2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131); [2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650); [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589); [2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)
+
+#### Art. 10
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 15 mai 2025.
+
+<table>
+<tr><td>21 mars 2025</td><td>Au nom du Conseil fédéral suisse: La présidente de la Confédération, Karin Keller-Sutter Le chancelier de la Confédération, Viktor Rossi</td></tr>
+</table>
+
+Annexe
+
+(art. 2, al. 1 et 2, 3, al. 1, let. a, 4, al. 1, et 8, al. 2)
+
+## Personnes physiques visées par les sanctions financières, par l’interdiction d’entrée et de transit et par l’interdiction de mettre à disposition des biens d’équipement militaires, et groupes, entreprises et entités visés par les sanctions financières
+
+### Remarque
+
+\1. La présente annexe correspond aux listes des personnes physiques, groupes, entreprises et entités désignés par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-lvlu1-1].
+
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-lvlu1-2].
+
+[^annexu1-lvlu1-lvlu1-1]: La liste peut être consultée à l’adresse suivante: [www.un.org/fr/sc](https://main.un.org/securitycouncil/fr/sanctions/1267/aq_sanctions_list) &gt; Comités des sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions &gt; Liste relative aux sanctions contre l’EIIL (Daech) et Al‑Qaida.
+[^annexu1-lvlu1-lvlu1-2]: La banque de données SESAM est accessible à l’adresse suivante: [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
