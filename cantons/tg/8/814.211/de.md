@@ -1,40 +1,32 @@
 ---
 canton: TG
 number: "814.211"
-title: Verordnung des Regierungsrates zum Bundesgesetz über den Schutz der Gewässer und zum Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
+title: Verordnung zum Bundesgesetz und zum Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 short: RRV EG GSchG
 language: de
-version: 2013-08-01
-valid_until: 2025-03-28
-version_adopted: 2013-07-02
+version: 2025-03-29
+version_adopted: 2025-03-25
 adopted: 1997-09-16
 in_force: 1997-10-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.211"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2250/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2890/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Bundesgesetz über den Schutz der Gewässer und zum Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
+# Verordnung zum Bundesgesetz und zum Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 
 RRV EG GSchG
 
 (RRV EG GSchG)
 
-vom 16.09.1997 (Stand 01.08.2013)
+vom 16.09.1997 (Stand 29.03.2025)
 
 ## 1. Zuständigkeit
 
 #### § 1
 
-**Regierungsrat**
-
-<sup>1</sup> Der Regierungsrat ist zuständig für:
-
-- 1\. Gewährung von Staatsbeiträgen an die Gemeinden gemäss § 19 des Einführungsgesetzes[^1-1];
-- 2\. …
-
-[^1-1]: RB [814.20](https://www.rechtsbuch.tg.ch/data/814.20/de)
+**…**
 
 #### § 2
 
@@ -42,13 +34,14 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Das Departement für Bau und Umwelt ist zuständiges Departement im Sinne des Gesetzes und zuständig für:
 
-- 1\. Ausscheidung der Grundwasserschutzzonen und -areale gemäss § 1 Abs. 2 des Einführungsgesetzes;
-- 1a. Festlegung der Gewässerschutzbereiche gemäss Art. 19 des Bundesgesetzes[^2-1];
-- 2\. Erlass oder die Verbindlicherklärung von Richtlinien für die Erstellung des Generellen Entwässerungsplanes gemäss § 5 Abs. 2 des Einführungsgesetzes.
+- 1\. Ausscheidung der Grundwasserschutzzonen und -areale gemäss § 1 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über den Schutz der Gewässer (EG GSchG)[^2-1]
+- 1a. Festlegung der Gewässerschutzbereiche gemäss Art. 19 des Bundesgesetzes[^2-2]
+- 2\. Erlass oder die Verbindlicherklärung von Richtlinien für die Erstellung und Nachführung des Generellen Entwässerungsplanes gemäss § 5 Abs. 2 EG GSchG
 
 <sup>2</sup> Das Departement führt die Oberaufsicht über den Vollzug des Gewässerschutzrechtes.
 
-[^2-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
+[^2-1]: RB [814.20](https://www.rechtsbuch.tg.ch/data/814.20/de)
+[^2-2]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### § 3
 
@@ -60,10 +53,11 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>3</sup> Das Amt führt die direkte Aufsicht über:
 
-- 1\. Gewässerschutz in Industrie und Gewerbe;
-- 2\. öffentliche und öffentlichen Zwecken dienende Abwasserreinigungsanlagen;
-- 3\. direkte Einleitung von Abwasser in Gewässer;
-- 4\. Versickerung von behandeltem Abwasser.
+- 1\. Gewässerschutz in Industrie und Gewerbe
+- 2\. öffentliche und öffentlichen Zwecken dienende Abwasserreinigungsanlagen
+- 3\. direkte Einleitung von behandeltem verschmutztem Abwasser in Gewässer
+- 4\. Versickerung von behandeltem verschmutzem Abwasser
+- 5\. Abbau von Bodenschätzen
 
 #### § 4
 
@@ -79,8 +73,8 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Folgende private Anlagen bedürfen einer Bewilligung nach § 8 Abs. 1 Ziff. 1 des Einführungsgesetzes:
 
-- 1\. Abwasserreinigungs- und Vorbehandlungsanlagen für gewerbliche und industrielle Abwasser mit einer Kapazität von mehr als 10'000 Einwohnergleichwerten;
-- 2\. öffentlichen Zwecken dienende Anlagen zur Behandlung von Abwasser.
+- 1\. Abwasserreinigungs- und Vorbehandlungsanlagen für gewerbliche und industrielle Abwasser mit einer Kapazität von mehr als 10'000 Einwohnergleichwerten
+- 2\. Kleinkläranlagen zur Behandlung häuslicher Abwässer
 
 #### § 6
 
@@ -98,10 +92,10 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Auf eine Hektare bewirtschaftete Nutzfläche eines Betriebes dürfen höchstens folgende Düngergrossvieheinheiten (DGVE) entfallen:
 
-- 1\. 3,0 DGVE in der Talzone;
-- 2\. 2,5 DGVE in der Hügelzone;
-- 3\. 2,1 DGVE in der Bergzone I;
-- 4\. 1,8 DGVE in der Bergzone II.
+- 1\. 3,0 DGVE in der Talzone
+- 2\. 2,5 DGVE in der Hügelzone
+- 3\. 2,1 DGVE in der Bergzone I
+- 4\. 1,8 DGVE in der Bergzone II
 
 #### § 7a
 
@@ -115,10 +109,10 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Lageranlagen für Hof- und Recyclingdünger müssen mindestens den anfallenden Hofdünger für folgende Zeiträume aufnehmen können:
 
-- 1\. 4,0 Monate in Betrieben der Talzone;
-- 2\. 4,5 Monate in Betrieben der Hügelzone;
-- 3\. 5,0 Monate in Betrieben der Bergzone I;
-- 4\. 5,5 Monate in Betrieben der Bergzone II.
+- 1\. 4,0 Monate in Betrieben der Talzone
+- 2\. 4,5 Monate in Betrieben der Hügelzone
+- 3\. 5,0 Monate in Betrieben der Bergzone I
+- 4\. 5,5 Monate in Betrieben der Bergzone II
 
 #### § 9
 
@@ -148,34 +142,34 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 **Starke Belastung des Abwassers**
 
-<sup>1</sup> Für die Erhebung der Verbrauchsgebühr gemäss § 12 Abs. 2 des Einführungsgesetzes gelten als Gewerbe- oder Industriebetriebe, die das Abwasser stark belasten, Betriebe, bei denen die Belastungswerte der Abwasser erheblich von den Richtwerten des Verbandes Schweizerischer Abwasserfachleute (VSA) abweichen.
+<sup>1</sup> Für die Erhebung der Verbrauchsgebühr gemäss § 12 Abs. 2 EG GSchG gelten als Gewerbe- oder Industriebetriebe, die das Abwasser stark belasten, Betriebe, bei denen die Belastungswerte der Abwasser erheblich von den Richtwerten des Verbandes Schweizer Abwasser- und Gewässerschutzfachleute (VSA) abweichen.
 
 #### § 11a
 
 **Tankdokument**
 
-<sup>1</sup> Für Lageranlagen für wassergefährdende Flüssigkeiten, welche bewilligt oder gemeldet wurden, stellt das Amt für Umwelt gegen eine Gebühr von Fr. 30 ein Tankdokument aus.
+<sup>1</sup> Für Lageranlagen für wassergefährdende Flüssigkeiten, die bewilligt oder gemeldet wurden, stellt das Amt für Umwelt gegen eine Gebühr ein Tankdokument aus.
 
 <sup>2</sup> Die Inhaber der Anlagen sind verpflichtet, das Tankdokument gut zugänglich bei der Anlage aufzubewahren.
 
 <sup>3</sup> Die Kontrollunternehmen haben in das Tankdokument einzutragen:
 
-- 1\. Datum und Ergebnis der Kontrolle;
+- 1\. Datum und Ergebnis der Kontrolle
 - 2\. …
-- 3\. Firma.
+- 3\. Firma und Unterschrift des Chauffeurs
 
 <sup>4</sup> Die Befüller der Anlage haben in das Tankdokument einzutragen:
 
-- 1\. Flüssigkeitsstand vor der Befüllung;
-- 2\. Datum der Befüllung;
-- 3\. Menge und Art des eingefüllten Produktes;
-- 4\. Name und Unterschrift.
+- 1\. Flüssigkeitsstand vor der Befüllung
+- 2\. Datum der Befüllung
+- 3\. Menge und Art des eingefüllten Produktes
+- 4\. Firma und Unterschrift des Chauffeurs
 
 #### § 11b
 
 **Befüllungsverbot**
 
-<sup>1</sup> Bewilligungs- oder meldepflichtige Anlagen dürfen nicht befüllt werden, wenn
+<sup>1</sup> Bewilligungs- oder meldepflichtige Anlagen dürfen nicht befüllt oder betrieben werden, wenn
 
 - 1\. kein Tankdokument vorliegt,
 - 2\. die Sanierungs- oder Kontrollfrist abgelaufen ist, oder
@@ -187,11 +181,13 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 **Kontrollen, Ausserbetriebsetzung**
 
-<sup>1</sup> Die Inhaber sorgen dafür, dass bei bestehenden bewilligungspflichtigen Lageranlagen für wassergefährdende Flüssigkeiten und bei bestehenden meldepflichtigen Lageranlagen für wassergefährdende Flüssigkeiten, die nicht dem Stand der Technik vom 1. Januar 1999 entsprechen, alle 10 Jahre eine Sichtkontrolle auf Mängel durchgeführt wird.
+<sup>1</sup> Die Inhaber sorgen dafür, dass bei bestehenden bewilligungspflichtigen Lageranlagen für wassergefährdende Flüssigkeiten und bei bestehenden meldepflichtigen Lageranlagen für wassergefährdende Flüssigkeiten, die nicht dem Stand der Technik vom 1. Januar 1999 entsprechen, alle 10 Jahre eine Sichtkontrolle auf Mängel durchgeführt wird. Sie sorgen auch dafür, dass Überwachungsgeräte von Tankanlagen alle zwei Jahre einer Kontrolle unterzogen werden.
 
 <sup>2</sup> Kontrollen und Ausserbetriebsetzungen von Lageranlagen für wassergefährdende Flüssigkeiten sind nach dem Stand der Technik und durch Fachpersonen durchzuführen, die über eine Ausbildung gemäss dem Verband für Gewässerschutz und Tanksicherheit (CITEC Suisse) verfügen.
 
-<sup>3</sup> Die Rapporte der Kontrollen sind von den Kontrollunternehmen innert 30 Tagen nach Ausführung der Kontrolle dem Amt für Umwelt zuzustellen. Für die Bearbeitung der Rapporte erhebt das Amt für Umwelt eine Gebühr von Fr. 10.
+<sup>3</sup> Die Rapporte der Kontrollen und Ausserbetriebsetzungen sind von den Kontrollunternehmen innert 30 Tagen nach Ausführung dem Amt für Umwelt nach dessen Anordnungen zu melden. Für die Bearbeitung der Rapporte kann das Amt für Umwelt eine Gebühr erheben.
+
+<sup>4</sup> Bei nicht fachgerecht ausser Betrieb gesetzten Tankanlagen kann das Amt eine kostenpflichtige Nachkontrolle durchführen.
 
 #### § 11d
 
@@ -199,14 +195,14 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Die Inhaber von meldepflichtigen Lageranlagen für wassergefährdende Flüssigkeiten müssen dem Amt für Umwelt folgende Daten melden:
 
-- 1\. Standort;
-- 2\. Lagergut;
-- 3\. Volumen und Anzahl Tanks;
-- 4\. Einbauart;
-- 5\. Werkstoff;
-- 6\. Form;
-- 7\. Rückhaltung;
-- 8\. Verlegungs- und Förderart der Leitungen.
+- 1\. Standort
+- 2\. Lagergut
+- 3\. Volumen und Anzahl Tanks
+- 4\. Einbauart
+- 5\. Werkstoff
+- 6\. Form
+- 7\. Rückhaltung
+- 8\. Verlegungs- und Förderart der Leitungen
 
 #### § 12
 
@@ -235,9 +231,9 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>2</sup> Für die Anpassung der Lagerkapazitäten für Hofdünger in Betrieben mit Nutztierhaltung an die Vorschriften von § 10 und § 11 gelten folgende Fristen:
 
-- 1\. 31. Dezember 1997 für Betriebe mit weniger als 50 % der erforderlichen Lagerkapazität;
-- 2\. 31. Dezember 1999 für Betriebe mit 50 bis 75 % der erforderlichen Lagerkapazität;
-- 3\. 31. Dezember 2007 für Betriebe mit mehr als 75 % der erforderlichen Lagerkapazität.
+- 1\. 31. Dezember 1997 für Betriebe mit weniger als 50 % der erforderlichen Lagerkapazität
+- 2\. 31. Dezember 1999 für Betriebe mit 50 bis 75 % der erforderlichen Lagerkapazität
+- 3\. 31. Dezember 2007 für Betriebe mit mehr als 75 % der erforderlichen Lagerkapazität
 
 #### § 14
 
@@ -245,14 +241,8 @@ vom 16.09.1997 (Stand 01.08.2013)
 
 <sup>1</sup> Staatsbeiträge an Gewässerschutzmassnahmen werden nach bisherigem Recht ausgerichtet, wenn die Beitragszusicherung durch den Regierungsrat bei Inkrafttreten dieser Verordnung bereits erfolgt ist.
 
-#### § 15
+#### § 15–16
 
 **…**
-
-#### § 16
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Einführungsgesetz vom 5. März 1997 zum Bundesgesetz über den Schutz der Gewässer und diese Verordnung treten auf den 1. Oktober 1997 in Kraft.
 
 keine Angabe
