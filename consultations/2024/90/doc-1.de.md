@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die zentrale Bewirtschaftung des Angebots an elektrischer Energie und Verordnung über die Änderung einer Bestimmung des Landesversorgungsgesetzes
 document: Vernehmlassungsvorlage-2
 language: de

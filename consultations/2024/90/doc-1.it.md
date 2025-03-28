@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla gestione centralizzata dell’offerta di energia elettrica e ordinanza concernente la modifica di una disposizione della legge sull’approvvigionamento del Paese
 document: Progetto posto in consultazione-2
 language: it

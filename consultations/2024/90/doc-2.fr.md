@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la gestion centralisée de l’offre d’énergie électrique et ordonnance modifiant une disposition de la loi sur l’approvisionnement du pays
 document: Projet mis en consultation
 language: fr
