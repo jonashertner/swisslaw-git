@@ -4,13 +4,13 @@ number: "622.1"
 title: Kantonales Finanzkontrollgesetz
 short: KFKG
 language: de
-version: 2023-01-01
-valid_until: 2025-03-29
-version_adopted: 2022-03-07
+version: 2025-03-30
+valid_until: 2026-08-31
+version_adopted: 2024-11-25
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2683/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2683/pdf_file"
 
 (KFKG)
 
-vom 07.03.2022 (Stand 01.01.2023)
+vom 07.03.2022 (Stand 30.03.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -138,7 +138,11 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle nimmt hauptsächlich die Aufgaben der Abschlussprüfung (Art. 13), der Finanzaufsicht (Art. 14) und der Meldestelle Missstände (Art. 40 bis 43) wahr.
 
+<sup>1a</sup> Sie führt die Prüfung der Offenlegungspflicht bei der Finanzierung von Wahl- und Abstimmungskampagnen gemäss den Artikeln 49e und 49f des Gesetzes vom 5. Juni 2012 über die politischen Rechte (PRG)[^11-1] durch.
+
 <sup>2</sup> Sie darf nicht mit Vollzugsaufgaben beauftragt werden.
+
+[^11-1]: BSG [141.1](https://www.belex.sites.be.ch/data/141.1/de)
 
 #### Art. 12
 

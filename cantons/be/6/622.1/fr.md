@@ -4,13 +4,13 @@ number: "622.1"
 title: Loi cantonale sur le Contrôle des finances
 short: LCCF
 language: fr
-version: 2023-01-01
-valid_until: 2025-03-29
-version_adopted: 2022-03-07
+version: 2025-03-30
+valid_until: 2026-08-31
+version_adopted: 2024-11-25
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2683/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3171/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2683/pdf_file"
 
 (LCCF)
 
-du 07.03.2022 (état au 01.01.2023)
+du 07.03.2022 (état au 30.03.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -138,7 +138,11 @@ arrête:
 
 <sup>1</sup> Le Contrôle des finances est principalement chargé de la révision de la clôture des comptes (art. 13), de la surveillance financière (art. 14) et de l'enregistrement des irrégularités (art. 40 à 43).
 
+<sup>1a</sup> Il effectue le contrôle de l'obligation de déclarer lors des campagnes électorales et des campagnes de votation conformément aux articles 49e et 49f de la loi du 5 juin 2012 sur les droits politiques (LDP)[^11-1].
+
 <sup>2</sup> Il ne peut pas être chargé de tâches d'exécution.
+
+[^11-1]: RSB [141.1](https://www.belex.sites.be.ch/data/141.1/fr)
 
 #### Art. 12
 
