@@ -4,13 +4,13 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2024-02-01
-valid_until: 2025-03-29
-version_adopted: 2023-09-05
+version: 2025-03-30
+valid_until: 2025-05-31
+version_adopted: 2024-11-25
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3157/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3157/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 01.02.2024)
+vom 05.06.2012 (Stand 30.03.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -380,6 +380,7 @@ beschliesst:
 
 - a leitet die Durchführung der eidgenössischen und kantonalen Wahlen und Abstimmungen,
 - b überwacht die Durchführung in Zusammenarbeit mit den Regierungsstatthalterämtern,
+- b1 erfüllt zusammen mit der Finanzkontrolle die Aufgaben auf dem Gebiet der Transparenz bei der Finanzierung von Wahl- und Abstimmungskampagnen (Art. 49a ff.),
 - c erfüllt die ihr von diesem Gesetz zugewiesenen Vollzugsaufgaben.
 
 <sup>3</sup> Die Regierungsstatthalterämter
@@ -572,6 +573,101 @@ beschliesst:
 <sup>1</sup> Die Gemeinden tragen die Kosten für den Versand des Werbematerials.
 
 <sup>2</sup> …
+
+### 3.5a Transparenz bei der Finanzierung von Wahl- und Abstimmungskampagnen
+
+#### Art. 49a
+
+**Offenlegungspflicht bei der Finanzierung von Wahl- und Abstimmungskampagnen**
+
+<sup>1</sup> Natürliche und juristische Personen sowie Personengesellschaften, die als politische Akteurinnen und Akteure im Hinblick auf eine Wahl in den Grossen Rat oder den Regierungsrat oder eine kantonale Volksabstimmung eine Kampagne führen, haben deren Finanzierung offenzulegen, wenn sie mehr als 30'000 Franken aufwenden.
+
+<sup>2</sup> Sie erfüllen diese Pflicht, indem sie der zuständigen Stelle der Staatskanzlei auf der entsprechenden digitalen Plattform folgende Informationen melden:
+
+- a bis spätestens 45 Tage vor der Wahl oder Abstimmung
+  - 1 ihre budgetierten Einnahmen,
+  - 2 monetäre und nichtmonetäre Zuwendungen, die in den letzten zwölf Monaten vor der Wahl oder Abstimmung erfolgt oder zugesichert worden sind und den Wert von 9000 Franken pro Zuwenderin oder Zuwender und Kampagne überschreiten,
+- b bis am Tag der Wahl oder Abstimmung unverzüglich
+  - 1 Kampagnen und Zuwendungen, die neu offenlegungspflichtig sind,
+  - 2 die Erhöhung von bereits offenlegungspflichtigen Zuwendungen,
+- c bis spätestens 60 Tage nach der Wahl oder Abstimmung das Total der Einnahmen.
+
+<sup>3</sup> Führen mehrere Personen oder Personengesellschaften eine gemeinsame Kampagne, so müssen sie die budgetierten Einnahmen, die Zuwendungen und das Total der Einnahmen gemeinsam melden. Ihre Aufwendungen und die ihnen gewährten monetären und nichtmonetären Zuwendungen sind zusammenzurechnen.
+
+#### Art. 49b
+
+**Wahl der bernischen Mitglieder des Ständerates**
+
+<sup>1</sup> Für die Wahl der bernischen Mitglieder des Ständerates gilt die Offenlegungspflicht gemäss Artikel 49a mit den folgenden Werten:
+
+- a Kampagnen: mehr als 50'000 Franken,
+- b Zuwendungen: mehr als 15'000 Franken.
+
+#### Art. 49c
+
+**Modalitäten der Offenlegungspflicht**
+
+<sup>1</sup> Bei der Meldung der monetären und nichtmonetären Zuwendungen sind insbesondere der Wert und das Datum der Zuwendung sowie der Name, der Vorname und die Wohnsitzgemeinde oder die Firma und der Sitz der Urheberin oder des Urhebers der Zuwendung anzugeben.
+
+<sup>2</sup> Als Urheberin oder Urheber der Zuwendung gilt die natürliche oder juristische Person oder Personengesellschaft, welche die Zuwendung ursprünglich erbracht hat, um die politische Akteurin oder den politischen Akteur zu unterstützen.
+
+<sup>3</sup> Der Regierungsrat regelt die weiteren Modalitäten zur Meldung und Veröffentlichung der Informationen durch Verordnung.
+
+#### Art. 49d
+
+**Plausibilisierung und Veröffentlichung der gemeldeten Informationen**
+
+<sup>1</sup> Die zuständige Stelle der Staatskanzlei
+
+- a plausibilisiert die gemeldeten Informationen,
+- b macht die politischen Akteurinnen und Akteure auf fehlende oder offensichtlich fehlerhafte Informationen aufmerksam.
+
+<sup>2</sup> Sie veröffentlicht die gemeldeten Informationen spätestens fünf Arbeitstage nach deren Eingang auf der digitalen Plattform.
+
+#### Art. 49e
+
+**Prüfung der Offenlegungspflicht**
+
+<sup>1</sup> Die Finanzkontrolle
+
+- a prüft bei den politischen Akteurinnen und Akteuren innerhalb eines Jahres nach der Wahl oder Abstimmung stichprobenweise die Einhaltung der Offenlegungspflicht,
+- b prüft insbesondere die Korrektheit und Vollständigkeit der veröffentlichten Informationen.
+
+<sup>2</sup> Sie kann
+
+- a Nachweise und Erklärungen zu den gemeldeten Informationen sowie zu den Aufwendungen der Kampagne und deren Finanzierung verlangen,
+- b Prüfungen vor Ort durchführen.
+
+<sup>3</sup> Die von der Prüfung betroffenen politischen Akteurinnen und Akteure haben die Finanzkontrolle bei ihrer Aufgabenerfüllung zu unterstützen, ihr die nötigen Auskünfte zu erteilen und ihr Einblick in die erforderlichen Unterlagen zu gewähren.
+
+#### Art. 49f
+
+**Berichterstattung**
+
+<sup>1</sup> Die Finanzkontrolle erstellt einen Bericht über die durchgeführten Prüfungen und die Ergebnisse der Prüfungstätigkeiten.
+
+<sup>2</sup> Sie gibt den politischen Akteurinnen und Akteuren Gelegenheit, sich zum Entwurf der sie betreffenden Teile des Prüfungsberichts zu äussern und eine Stellungnahme abzugeben.
+
+<sup>3</sup> Der Prüfungsbericht der Finanzkontrolle sowie die allfälligen Stellungnahmen der geprüften Akteurinnen und Akteure werden auf der digitalen Plattform veröffentlicht.
+
+#### Art. 49g
+
+**Verbot von anonymen Zuwendungen**
+
+<sup>1</sup> Den politischen Akteurinnen und Akteuren ist die Annahme von anonymen monetären und nichtmonetären Zuwendungen von mehr als 1000 Franken verboten.
+
+<sup>2</sup> Wer eine verbotene anonyme Zuwendung erhält, muss
+
+- a die Herkunftsangaben gemäss Artikel 49c Absatz 1 ermitteln, oder
+- b die Zuwendung wenn möglich zurückerstatten; ist eine Rückerstattung nicht möglich oder nicht zumutbar, muss die Zuwendung der zuständigen Stelle der Staatskanzlei gemeldet und abgeliefert werden.
+
+#### Art. 49h
+
+**Austausch mit kommunalen Behörden**
+
+<sup>1</sup> Die zuständige Stelle der Staatskanzlei und die Finanzkontrolle können sich direkt mit den kommunalen Behörden austauschen, die für die Transparenz bei der Finanzierung von kommunalen Wahl- und Abstimmungskampagnen zuständig sind.
+
+<sup>2</sup> Die Behörden gemäss Absatz 1 können einander Informationen wie namentlich Personendaten bekanntgeben, die für den Vollzug der Artikel 49a ff. oder des kommunalen Rechts für die Transparenz bei der Finanzierung von Wahl- und Abstimmungskampagnen erforderlich sind.
 
 ### 3.6 Abstimmungsräume und Urnen
 
@@ -1742,6 +1838,16 @@ beschliesst:
 <sup>1</sup> Die Lastenverschiebung zwischen dem Kanton und den Gemeinden von 200‘000 Franken pro Jahr als Folge der Aufhebung von Artikel 49 Absatz 2 PRG wird ab dem Zeitpunkt des Inkrafttretens dieser Änderung dem Lastenausgleich gemäss Artikel 29b des Gesetzes vom 27. November 2000 über den Finanz- und Lastenausgleich (FILAG)[^T11-1] angerechnet.
 
 [^T11-1]: BSG [631.1](https://www.belex.sites.be.ch/data/631.1/de)
+
+## T2 Übergangsbestimmung der Änderung vom 25.11.2024
+
+#### Art. T2-1
+
+<sup>1</sup> Der Regierungsrat erstattet dem Grossen Rat bis spätestens am 31. August 2030 Bericht über
+
+- a die Umsetzung,
+- b Möglichkeiten zur Optimierung,
+- c die Aufhebung der Gesetzgebung über die Transparenz bei der Finanzierung von Wahl- und Abstimmungskampagnen.
 
 ## A1 Anhang 1: zu Artikel 63 Absatz 1
 

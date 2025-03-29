@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2024-02-01
-valid_until: 2025-03-29
-version_adopted: 2023-09-05
+version: 2025-03-30
+valid_until: 2025-05-31
+version_adopted: 2024-11-25
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3157/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3170/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3157/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.02.2024)
+du 05.06.2012 (état au 30.03.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -376,10 +376,11 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif exerce la surveillance sur le déroulement des votations et élections cantonales et fédérales.
 
-<sup>2</sup> La Chancellerie d’Etat
+<sup>2</sup> La Chancellerie d’État
 
 - a dirige l’organisation des votations et des élections fédérales et cantonales;
 - b surveille l’organisation en collaboration avec les préfectures;
+- b1 accomplit, en collaboration avec le Contrôle des finances, les tâches afférentes à la transparence du financement des campagnes électorales et des campagnes de votation (art. 49a ss);
 - c accomplit les tâches d’exécution qui lui sont attribuées par la présente loi.
 
 <sup>3</sup> Les préfectures
@@ -572,6 +573,101 @@ arrête:
 <sup>1</sup> Les communes supportent les frais d’envoi des documents de propagande électorale.
 
 <sup>2</sup> …
+
+### 3.5a Transparence du financement des campagnes électorales et des campagnes de votation
+
+#### Art. 49a
+
+**Obligation de déclarer le financement des campagnes électorales et des campagnes de votation**
+
+<sup>1</sup> Les personnes physiques ou morales ainsi que les sociétés de personnes qui font campagne en tant qu'actrices ou acteurs politiques en vue d'une élection au Grand Conseil ou au Conseil-exécutif ou en vue d'une votation populaire cantonale doivent déclarer leur financement si elles engagent plus de 30'000 francs.
+
+<sup>2</sup> Elles s’acquittent de cette obligation en fournissant les indications suivantes au service compétent de la Chancellerie d'État sur la plateforme numérique dédiée:
+
+- a au plus tard 45 jours avant l'élection ou la votation:
+  - 1 leurs recettes budgétisées,
+  - 2 toute libéralité monétaire et non monétaire qui a été octroyée ou promise au cours des douze mois précédant l’élection ou la votation et dont la valeur excède 9'000 francs par auteure ou auteur de la libéralité et par campagne;
+- b jusqu'au jour de l'élection ou de la votation:
+  - 1 les campagnes et toute libéralité soumises maintenant à l'obligation de déclaration,
+  - 2 toute libéralité déjà déclarée en vertu de l'obligation de déclaration et ayant été augmentée,
+- c au plus tard 60 jours après l'élection ou la votation: le total des recettes.
+
+<sup>3</sup> Si plusieurs personnes ou sociétés de personnes font une campagne commune, elles doivent déclarer conjointement les recettes budgétisées, les libéralités et le total des recettes. Leurs charges ainsi que les libéralités monétaires et non monétaires qui leur ont été octroyées doivent être additionnées.
+
+#### Art. 49b
+
+**Élection des membres bernois du Conseil des États**
+
+<sup>1</sup> Dans le cadre de l'élection des membres bernois du Conseil des États, les valeurs suivantes s'appliquent pour satisfaire à l'obligation de déclarer visée à l'article 49a:
+
+- a plus de 50'000 francs pour les campagnes,
+- b plus de 15'000 francs pour les libéralités.
+
+#### Art. 49c
+
+**Modalités de l’obligation de déclarer**
+
+<sup>1</sup> En particulier la valeur et la date des libéralités ainsi que les nom, prénom, la commune de domicile ou la raison sociale et le siège de l’auteure ou de l'auteur de la libéralité doivent être précisés dans la déclaration des libéralités monétaires et non monétaires.
+
+<sup>2</sup> Est considérée comme auteure ou auteur de la libéralité la personne physique ou morale ou la société de personnes qui a à l’origine octroyé la libéralité en vue de soutenir l'actrice ou l’acteur politique.
+
+<sup>3</sup> Le Conseil-exécutif règle par voie d'ordonnance les autres modalités de l'obligation de déclarer et de publier les informations.
+
+#### Art. 49d
+
+**Contrôle de plausibilité et publication des informations communiquées**
+
+<sup>1</sup> Le service compétent de la Chancellerie d'État
+
+- a contrôle la plausibilité des informations communiquées;
+- b signale aux actrices et acteurs politiques concernés les informations manquantes ou manifestement inexactes.
+
+<sup>2</sup> Il publie les informations communiquées sur la plateforme numérique au plus tard cinq jours ouvrés après les avoir reçues.
+
+#### Art. 49e
+
+**Contrôle de l'obligation de déclarer**
+
+<sup>1</sup> Le Contrôle des finances
+
+- a procède auprès des actrices et acteurs politiques à des contrôles par échantillonnage pendant l'année qui suit l'élection ou la votation afin de vérifier le respect de l'obligation de déclarer;
+- b vérifie en particulier l'exactitude et l'exhaustivité des informations publiées.
+
+<sup>2</sup> Il peut
+
+- a exiger des pièces justificatives et des explications sur les informations communiquées, ainsi que sur les charges de la campagne et leur financement;
+- b procéder à des contrôles sur place.
+
+<sup>3</sup> Les actrices et acteurs politiques soumis au contrôle sont tenus d'assister le Contrôle des finances dans l'accomplissement de ses tâches, de lui remettre les informations nécessaires à cette fin et de lui donner accès aux documents requis.
+
+#### Art. 49f
+
+**Rapport**
+
+<sup>1</sup> Le Contrôle des finances établit un rapport sur les contrôles effectués et sur les résultats de ses activités de contrôle.
+
+<sup>2</sup> Il donne aux actrices et acteurs politiques la possibilité de s'exprimer sur le contenu des volets du rapport de contrôle les concernant et de donner leur avis.
+
+<sup>3</sup> Le rapport de révision du Contrôle des finances ainsi que les éventuels avis des actrices et acteurs politiques contrôlés sont publiés sur la plateforme numérique.
+
+#### Art. 49g
+
+**Interdiction des libéralités anonymes**
+
+<sup>1</sup> Les actrices et acteurs politiques ne peuvent pas accepter de libéralités monétaires ou non monétaires anonymes de plus de 1000 francs.
+
+<sup>2</sup> Celle ou celui qui reçoit une libéralité anonyme doit
+
+- a déterminer l’origine de cette libéralité, conformément à l’article 49c, alinéa 1 ou
+- b la restituer si possible ; si une restitution n’est pas possible ou ne peut pas être raisonnablement exigée, la libéralité doit être annoncée et remise au service compétent de la Chancellerie d’État.
+
+#### Art. 49h
+
+**Échange avec les autorités communales**
+
+<sup>1</sup> Le service compétent de la Chancellerie d'État et le Contrôle des finances peuvent échanger des informations directement avec les autorités communales compétentes en matière de transparence du financement des campagnes électorales et des campagnes de votation communales.
+
+<sup>2</sup> Les autorités visées à l'alinéa 1 peuvent se communiquer mutuellement des informations, notamment des données personnelles qui sont nécessaires à l'application des articles 49a ss ou du droit communal en matière de transparence du financement des campagnes de votation et des campagnes électorales.
 
 ### 3.6 Locaux de vote et urnes
 
@@ -1742,6 +1838,16 @@ arrête:
 <sup>1</sup> Le transfert de charges entre le canton et les communes de 200'000 francs par année, résultant de l'abrogation de l’article 49, alinéa 2 LDP, est imputé à la compensation des charges à compter de l’entrée en vigueur de la présente modification, conformément à l’article 29b de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^T11-1].
 
 [^T11-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+## T2 Disposition transitoire de la modification du 25.11.2024
+
+#### Art. T2-1
+
+<sup>1</sup> D’ici au 31 août 2030 au plus tard, le Conseil-exécutif présente au Grand Conseil un rapport
+
+- a sur la mise en œuvre,
+- b sur les possibilités d'amélioration,
+- c sur l’abrogation de la législation sur la transparence du financement des campagnes électorales et des campagnes de votation.
 
 ## A1 Annexe 1: à l'article 63, alinéa 1
 
