@@ -4,22 +4,22 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2025-02-27
+version: 2025-03-31
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250331/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250331-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250331/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale régissant la taxe sur la valeur ajoutée<sup></sup>
+# Loi fédérale régissant la taxe sur la valeur ajoutée\*
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (État le 27 février 2025)
+du 12 juin 2009 (État le 31 mars 2025)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 130 de la Constitution (Cst.)[^ingress-1], vu le message du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2008 6277](https://fedlex.data.admin.ch/eli/fga/2008/1202)
 
 ## Titre 1 Dispositions générales
@@ -108,7 +108,7 @@ Au sens de la présente loi, on entend par:
 - k. facture: tout document par lequel une prestation est facturée à un tiers, quel que soit le nom qui lui est donné dans les transactions commerciales;
 - l.[^3-5] plateforme numérique: toute interface électronique permettant des interactions directes en ligne entre différents acteurs en vue d’une livraison ou de la fourniture d’une prestation de services.
 
-[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^3-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^3-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
@@ -342,7 +342,7 @@ Sont solidairement responsables avec l’assujetti:
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^15-2]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^15-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^15-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^15-5]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -478,10 +478,10 @@ Sont exclus du champ de l’impôt:
   - d. prestations de services des bibliothèques, services d’archives et autres centres de documentation, notamment la possibilité de consulter des supports de données dans leurs locaux; par contre, la livraison de biens (y compris la mise à la disposition de tiers) est imposable;
 
 - 14<sup>bis</sup>.[^21-11] les contre-prestations (notamment les finances d’inscription) demandées pour se produire lors d’événements culturels, y compris les prestations accessoires incluses;
-- 15\. les contre-prestations demandées pour les manifestations sportives, y compris celles qui sont exigées des participants (notamment les finances d’inscription), et les prestations accessoires incluses;
-- 16\.[^21-12] les prestations de services culturelles et la livraison, par leur créateur, d’œuvres culturelles réalisées par des artistes tels que les écrivains, les compositeurs, les cinéastes, les artistes-peintres ou les sculpteurs, ainsi que les prestations de services fournies par les éditeurs et les sociétés de perception en vue de la diffusion de ces œuvres; cette disposition s’applique également aux œuvres dérivées au sens de l’art. 3 de la loi du 9 octobre 1992 sur le droit d’auteur[^21-13] qui ont un caractère culturel;
-- 17\.[^21-14] les prestations fournies lors de manifestations telles que des ventes de bienfaisance, des marchés aux puces ou des tombolas par des institutions qui exercent des activités exclues du champ de l’impôt dans le domaine du sport et de la création culturelle sans but lucratif, dans le domaine des soins aux malades, de l’aide et de la sécurité sociales et de la protection de l’enfance et de la jeunesse, ou par des organisations d’utilité publique d’aide et de soins à domicile (Spitex), des maisons de retraite, des homes médicalisés et des organismes exploitant des appartements protégés, pour autant que ces manifestations soient organisées à leur seul profit dans le but de les soutenir financièrement; les prestations fournies dans le cadre de brocantes organisées par des institutions d’aide et de sécurité sociales, exclusivement pour leurs besoins propres;
-- 18\.[^21-15]
+- 15\.[^21-12] les contre-prestations demandées pour les manifestations sportives, y compris celles qui sont exigées des participants (notamment les finances d’inscription), et les prestations accessoires incluses;
+- 16\.[^21-13] les prestations de services culturelles et la livraison, par leur créateur, d’œuvres culturelles réalisées par des artistes tels que les écrivains, les compositeurs, les cinéastes, les artistes-peintres ou les sculpteurs, ainsi que les prestations de services fournies par les éditeurs et les sociétés de perception en vue de la diffusion de ces œuvres; cette disposition s’applique également aux œuvres dérivées au sens de l’art. 3 de la loi du 9 octobre 1992 sur le droit d’auteur[^21-14] qui ont un caractère culturel;
+- 17\.[^21-15] les prestations fournies lors de manifestations telles que des ventes de bienfaisance, des marchés aux puces ou des tombolas par des institutions qui exercent des activités exclues du champ de l’impôt dans le domaine du sport et de la création culturelle sans but lucratif, dans le domaine des soins aux malades, de l’aide et de la sécurité sociales et de la protection de l’enfance et de la jeunesse, ou par des organisations d’utilité publique d’aide et de soins à domicile (Spitex), des maisons de retraite, des homes médicalisés et des organismes exploitant des appartements protégés, pour autant que ces manifestations soient organisées à leur seul profit dans le but de les soutenir financièrement; les prestations fournies dans le cadre de brocantes organisées par des institutions d’aide et de sécurité sociales, exclusivement pour leurs besoins propres;
+- 18\.[^21-16]
 
   dans le domaine des assurances:
 
@@ -506,8 +506,8 @@ Sont exclus du champ de l’impôt:
   - c. les opérations sur les dépôts de fonds, comptes courants, paiements, virements, créances d’argent, chèques et autres effets de commerce, y compris leur négociation; est par contre imposable le recouvrement de créances sur mandat du créancier (opérations d’encaissement),
   - d. les opérations portant sur les moyens de paiement légaux (valeurs suisses et étrangères telles que les devises, les billets de banque ou les monnaies), y compris leur négociation; sont par contre imposables les pièces de collection (billets et monnaies) qui ne sont pas normalement utilisées comme moyen de paiement légal,
   - e. les opérations (au comptant et à terme), y compris la négociation, portant sur les papiers-valeurs, sur les droits-valeurs et les dérivés ainsi que sur des parts de sociétés et d’autres associations; sont par contre imposables la garde et la gestion de papiers-valeurs, de droits-valeurs et dérivés et de parts (notamment les dépôts), y compris les placements fiduciaires,
-  - f.[^21-16] l’offre de parts de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^21-17] et la gestion de placements collectifs au sens de la LPCC par des personnes qui les administrent ou qui les gardent, par les directions de fonds, par les banques dépositaires ainsi que par leurs mandataires; sont considérées comme mandataires toutes les personnes physiques ou morales auxquelles ces placements collectifs au sens de la LPCC ou de la loi fédérale du 15 juin 2018 sur les établissements financiers[^21-18] peuvent déléguer des tâches; l’offre de parts et l’administration de sociétés d’investissement à capital fixe au sens de l’art. 110 LPCC sont régies par la let. e,
-  - g.[^21-19] l’offre de groupes de placements de fondations de placement au sens de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^21-20] et la gestion de groupes de placements au sens de la LPP par des personnes qui les administrent ou qui les gardent, par les banques dépositaires ainsi que par leurs mandataires; sont considérées comme mandataires toutes les personnes physiques ou morales auxquelles les fondations de placement peuvent déléguer des tâches;
+  - f.[^21-17] l’offre de parts de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^21-18] et la gestion de placements collectifs au sens de la LPCC par des personnes qui les administrent ou qui les gardent, par les directions de fonds, par les banques dépositaires ainsi que par leurs mandataires; sont considérées comme mandataires toutes les personnes physiques ou morales auxquelles ces placements collectifs au sens de la LPCC ou de la loi fédérale du 15 juin 2018 sur les établissements financiers[^21-19] peuvent déléguer des tâches; l’offre de parts et l’administration de sociétés d’investissement à capital fixe au sens de l’art. 110 LPCC sont régies par la let. e,
+  - g.[^21-20] l’offre de groupes de placements de fondations de placement au sens de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^21-21] et la gestion de groupes de placements au sens de la LPP par des personnes qui les administrent ou qui les gardent, par les banques dépositaires ainsi que par leurs mandataires; sont considérées comme mandataires toutes les personnes physiques ou morales auxquelles les fondations de placement peuvent déléguer des tâches;
 
 - 20\. le transfert et la constitution de droits réels sur des immeubles ainsi que les prestations fournies par les communautés de copropriétaires par étages à leurs membres, pour autant que ces prestations consistent en la mise à leur disposition de la propriété commune à des fins d’usage, en son entretien, sa remise en état, en d’autres opérations de gestion ou en la livraison de chaleur et de biens analogues;
 - 21\.
@@ -522,23 +522,23 @@ Sont exclus du champ de l’impôt:
   - f. la location de surfaces de stands de foires ou d’exposition et celle de locaux destinés à des foires ou des congrès;
 
 - 22\. la livraison, au maximum à leur valeur faciale, de timbres-poste ayant valeur d’affranchissement sur le territoire suisse et d’autres timbres officiels;
-- 23\.[^21-21] les opérations réalisées dans le domaine des jeux d’argent, pour autant que le produit brut des jeux soit soumis à l’impôt sur les maisons de jeu visé à l’art. 119 de la loi fédérale du 29 septembre 2017 sur les jeux d’argent[^21-22] ou que les bénéfices nets réalisés sur l’exploitation de ces jeux soient affectés intégralement à des buts d’utilité publique au sens de l’art. 125 de la loi précitée;
+- 23\.[^21-22] les opérations réalisées dans le domaine des jeux d’argent, pour autant que le produit brut des jeux soit soumis à l’impôt sur les maisons de jeu visé à l’art. 119 de la loi fédérale du 29 septembre 2017 sur les jeux d’argent[^21-23] ou que les bénéfices nets réalisés sur l’exploitation de ces jeux soient affectés intégralement à des buts d’utilité publique au sens de l’art. 125 de la loi précitée;
 - 24\. la livraison de biens mobiliers d’occasion qui ont été utilisés uniquement dans le cadre d’une des activités que le présent article exclut du champ de l’impôt;
-- 25\.[^21-23] ...
+- 25\.[^21-24] …
 - 26\. la vente par les agriculteurs, les sylviculteurs et les horticulteurs des produits agricoles, sylvicoles et horticoles cultivés dans leur propre exploitation, la vente de bétail par les marchands de bétail et la vente de lait aux transformateurs de lait par les centres de collecte;
 - 27\. les prestations d’organisations d’utilité publique visant à promouvoir l’image de tiers et les prestations de tiers visant à promouvoir l’image d’organisations d’utilité publique;
-- 28\.[^21-24]
+- 28\.[^21-25]
 
   les prestations fournies:
 
   - a. entre des unités organisationnelles de la même collectivité publique,
   - b. entre des sociétés de droit privé ou de droit public détenues uniquement par des collectivités publiques et les collectivités publiques qui les détiennent, ou leurs unités organisationnelles,
-  - c.[^21-25] entre, d’une part, des établissements ou fondations dont les fondateurs ou responsables sont exclusivement des collectivités publiques et, d’autre part, ces collectivités publiques ou leurs unités organisationnelles;
+  - c.[^21-26] entre, d’une part, des établissements ou fondations dont les fondateurs ou responsables sont exclusivement des collectivités publiques et, d’autre part, ces collectivités publiques ou leurs unités organisationnelles;
 
-- 28<sup>bis</sup>.[^21-26] la mise à disposition de personnel entre collectivités publiques;
+- 28<sup>bis</sup>.[^21-27] la mise à disposition de personnel entre collectivités publiques;
 - 29\. l’exercice de fonctions d’arbitrage;
-- 30\.[^21-27] les prestations que se fournissent entre elles des institutions de formation et de recherche participant à une coopération dans le domaine de la formation et de la recherche, dans la mesure où les prestations sont fournies dans le cadre de la coopération, que cette coopération soit assujettie à la TVA ou non;
-- 31\.[^21-28] les prestations de voyage revendues par les agences de voyages et les prestations de services y afférentes fournies par ces mêmes agences.
+- 30\.[^21-28] les prestations que se fournissent entre elles des institutions de formation et de recherche participant à une coopération dans le domaine de la formation et de la recherche, dans la mesure où les prestations sont fournies dans le cadre de la coopération, que cette coopération soit assujettie à la TVA ou non;
+- 31\.[^21-29] les prestations de voyage revendues par les agences de voyages et les prestations de services y afférentes fournies par ces mêmes agences.
 
 <sup>3</sup> Sous réserve de l’al. 4, l’exclusion d’une prestation mentionnée à l’al. 2 est déterminée exclusivement en fonction de son contenu, sans considération des qualités du prestataire ou du destinataire.
 
@@ -546,12 +546,12 @@ Sont exclus du champ de l’impôt:
 
 <sup>5</sup> Le Conseil fédéral précise les prestations exclues du champ de l’impôt en tenant compte du principe de la neutralité de la concurrence.
 
-<sup>6</sup> Sont réputées unités organisationnelles d’une collectivité publique au sens de l’al. 2, ch. 28, les services de cette collectivité, ses sociétés de droit privé ou de droit public, pour autant qu’aucune autre collectivité publique ni aucun autre tiers ne détienne de participation dans la société, ainsi que ses établissements et fondations, pour autant que la collectivité publique les ait fondés sans la participation d’autres collectivités publiques ni d’autres tiers.[^21-29]
+<sup>6</sup> Sont réputées unités organisationnelles d’une collectivité publique au sens de l’al. 2, ch. 28, les services de cette collectivité, ses sociétés de droit privé ou de droit public, pour autant qu’aucune autre collectivité publique ni aucun autre tiers ne détienne de participation dans la société, ainsi que ses établissements et fondations, pour autant que la collectivité publique les ait fondés sans la participation d’autres collectivités publiques ni d’autres tiers.[^21-30]
 
-<sup>7</sup> Le Conseil fédéral détermine les institutions de formation et de recherche visées à l’al. 2, ch. 30.[^21-30]
+<sup>7</sup> Le Conseil fédéral détermine les institutions de formation et de recherche visées à l’al. 2, ch. 30.[^21-31]
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^21-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^21-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^21-5]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
@@ -560,26 +560,27 @@ Sont exclus du champ de l’impôt:
 [^21-8]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-9]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^21-10]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-11]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-12]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-13]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-14]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-11]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). Erratum de la CdR de l’Ass. féd. du 19 mars 2025, publié le 31 mars 2025, ne concerne que le texte italien ([RO 2025 216](https://fedlex.data.admin.ch/eli/oc/2025/216)).
+[^21-12]: Erratum de la CdR de l’Ass. féd. du 19 mars 2025, publié le 31 mars 2025, ne concerne que le texte italien ([RO 2025 215](https://fedlex.data.admin.ch/eli/oc/2025/215)).
+[^21-13]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-14]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 [^21-15]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-16]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-17]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^21-18]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-19]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-20]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^21-21]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^21-22]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-23]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-24]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396)[4857](https://fedlex.data.admin.ch/eli/oc/2017/526); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-25]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-26]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-16]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-17]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-18]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^21-19]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^21-20]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-21]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^21-22]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-23]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^21-24]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-25]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396)[4857](https://fedlex.data.admin.ch/eli/oc/2017/526); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-26]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-27]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^21-28]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-29]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-28]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-29]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-30]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^21-31]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 22
 
@@ -651,13 +652,13 @@ Sont exonérés de l’impôt:
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^23-2]: Nouvelle teneur selon le ch. I 18 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^23-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^23-4]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^23-5]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^23-6]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^23-7]: Introduit par le ch. I 2 de la LF du 17 déc. 2010 sur l’achat de marchandises dans les boutiques hors taxes des aéroports, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1971](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^23-8]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^23-9]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^23-9]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 [^23-10]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^23-11]: Phrase introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -747,7 +748,7 @@ Le taux réduit de 2,6 % est appliqué:[^25-2]
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022 concernant le relèvement des taux de la taxe sur la valeur ajoutée pour le financement additionnel de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^25-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^25-4]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^25-5]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^25-6]: Introduite par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^25-7]: Nouvelle teneur selon le ch. IV de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
@@ -853,7 +854,7 @@ L’assujetti peut procéder à la déduction d’un impôt préalable fictif si
 
 [^29-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^29-2]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^29-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^29-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 30
@@ -995,8 +996,8 @@ Si l’impôt calculé au taux légal applicable au prix de vente dépasse 10 00
 
 <sup>5</sup> Si, dans les cas visés à l’al. 1, la procédure de déclaration n’a pas été appliquée et que la créance fiscale est garantie, la procédure de déclaration ne peut plus être ordonnée.
 
-[^38-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^38-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^38-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^38-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^38-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 ### Section 3 Naissance, modification et prescription de la créance fiscale
@@ -1094,7 +1095,7 @@ La créance fiscale entre en force:
 
 <sup>1</sup>
 
-Sont soumises à l’impôt sur les acquisitions:
+Sont soumis à l’impôt sur les acquisitions:
 
 - a.[^45-1] les prestations de services dont le lieu se situe sur le territoire suisse en vertu de l’art. 8, al. 1, lorsqu’elles sont fournies par des entreprises qui ont leur siège à l’étranger et ne sont pas inscrites au registre des assujettis, à l’exception des prestations de services en matière de télécommunications ou d’informatique fournies à des destinataires n’étant pas assujettis;
 - b. l’importation de supports de données sans valeur marchande, y compris les prestations et les droits y afférents (art. 52, al. 2);
@@ -1181,7 +1182,7 @@ La responsabilité solidaire (art. 70, al. 3, LD) des déclarants en douane prof
 
 <sup>3</sup> L’OFDF peut exiger du déclarant en douane professionnel qu’il justifie de son pouvoir de représentation.
 
-[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^51-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^51-3]: Nouvelle expression selon le ch. I 18 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -1200,7 +1201,7 @@ Sont soumises à l’impôt:
 
 <sup>3</sup> L’art. 19 est applicable par analogie en cas de pluralité de prestations.
 
-[^52-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^52-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^52-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur l’achat de marchandises dans les boutiques hors taxes des aéroports, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1971](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^52-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
@@ -1228,7 +1229,7 @@ L’importation des biens suivants est franche d’impôt:
 
 <sup>2</sup> Le Conseil fédéral peut exonérer de l’impôt sur les importations les biens qu’il admet en franchise de droits de douane en vertu de l’art. 8, al. 2, let. a, LD.
 
-[^53-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^53-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^53-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^53-3]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -1262,7 +1263,7 @@ Pour autant qu’ils n’y soient pas déjà inclus, les éléments suivants doi
 <sup>5</sup> Lors de l’établissement de la base de calcul de l’impôt, les prix ou valeurs libellés en devises étrangères doivent être convertis en francs suisses au taux de change (vente) coté en bourse la veille de la naissance de la dette fiscale visée à l’art. 56.
 
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^54-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^54-3]: Erratum de la CdR de l’Ass. féd. du 28 avr. 2016, publié le 10 mai 2016 ([RO 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 [^54-4]: Erratum de la CdR de l’Ass. féd. du 28 avr. 2016, publié le 10 mai 2016 ([RO 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 
@@ -1290,7 +1291,7 @@ Pour autant qu’ils n’y soient pas déjà inclus, les éléments suivants doi
 
 <sup>5</sup> Si la dette fiscale est modifiée en raison d’une adaptation ultérieure de la contre-prestation, notamment, en raison d’une modification du contrat ou d’un ajustement des prix convenus entre des entreprises étroitement liées, sur la base de directives reconnues, le montant d’impôt trop bas doit être annoncé à l’OFDF dans les 30 jours à compter de cette adaptation. Il peut être renoncé à l’annonce et à l’adaptation de la taxation si l’impôt dû peut être déduit au titre d’impôt préalable conformément à l’art. 28.
 
-[^56-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^56-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 57
 
@@ -1325,10 +1326,10 @@ Aucun intérêt moratoire n’est perçu dans les cas suivants:
   - 2\. placés sous un autre régime douanier (art. 47 LD);
 
 - c<sup>bis</sup>.[^58-3] l’importateur de biens taxés avec obligation de paiement conditionnelle était inscrit au registre des assujettis sur le territoire suisse au moment de l’acceptation de la déclaration en douane;
-- d.[^58-4] ...
+- d.[^58-4] …
 - e. les biens sont taxés au moyen d’une déclaration collective périodique en vue de la procédure douanière (art. 42, al. 1, let. c, LD) ou après coup sur la base d’une procédure douanière simplifiée (art. 42, al. 2, LD) et l’importateur était inscrit au registre des assujettis sur le territoire suisse au moment de leur importation.
 
-[^58-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^58-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^58-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^58-3]: Introduite par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^58-4]: Abrogée par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
@@ -1349,7 +1350,7 @@ Aucun intérêt moratoire n’est perçu dans les cas suivants:
 
 <sup>6</sup> Le droit au remboursement de l’impôt perçu en trop ou par erreur se prescrit dans tous les cas par quinze ans à compter de la fin de l’année civile pendant laquelle il a pris naissance.
 
-[^59-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^59-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 60
 
@@ -1373,7 +1374,7 @@ L’impôt est remboursé uniquement aux conditions suivantes:
 
 <sup>4</sup> Les demandes de remboursement doivent être présentées lorsque les biens sont déclarés pour le régime de l’exportation. Les demandes de remboursement ultérieures peuvent être prises en considération si elles sont remises par écrit à l’OFDF dans les 60 jours qui suivent l’établissement du document d’exportation avec lequel les biens ont été taxés selon le régime de l’exportation (art. 61 LD[^60-1]).
 
-[^60-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^60-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 61
 
@@ -1397,9 +1398,9 @@ Le délai de 60 jours sans intérêts commence à courir lorsque:
 
 <sup>3</sup> L’intérêt rémunératoire n’est pas versé en cas de remise de l’impôt selon l’art. 64.
 
-[^61-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^61-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^61-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^61-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 62
 
@@ -1448,7 +1449,7 @@ Le délai de production de la demande est:
 - a. pour les taxations assorties d’une dette inconditionnelle: de un an à compter de l’établissement du document d’importation sur la base duquel l’impôt sur les importations a été déterminé;
 - b. pour les taxations assorties d’une dette conditionnelle: de un an à compter de l’apurement du régime douanier choisi.
 
-[^64-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^64-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Titre 5 Procédure applicable à l’impôt grevant les opérations réalisées sur le territoire suisse et à l’impôt sur les acquisitions
 
@@ -1494,7 +1495,7 @@ Le délai de production de la demande est:
 
 <sup>3</sup> Celui qui est assujetti uniquement à l’impôt sur les acquisitions (art. 45, al. 2) doit s’annoncer par écrit à l’AFC dans les 60 jours qui suivent la fin de l’année civile pendant laquelle les conditions de l’assujettissement sont remplies et déclarer en même temps ses acquisitions.
 
-[^66-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^66-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^66-2]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 18 juin 2010 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 7093](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 67
@@ -1538,7 +1539,7 @@ L’AFC renseigne dans un délai raisonnable l’assujetti qui demande par écri
 
 <sup>4</sup> Le Conseil fédéral règle les conditions auxquelles les pièces nécessaires à l’exécution de l’impôt en vertu de la présente loi peuvent être transmises et conservées sans support papier.
 
-[^70-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-2]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 71
@@ -1627,9 +1628,9 @@ L’obligation de garder le secret ne s’applique pas:
 
 <sup>5</sup> Les organisations chargées de tâches de droit public ont, dans le cadre de ces tâches, la même obligation de renseigner que les autorités; l’al. 4 est applicable par analogie.
 
-[^75-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^75-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^75-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^75-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^75-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 75a
 
@@ -1640,7 +1641,7 @@ L’obligation de garder le secret ne s’applique pas:
 <sup>2</sup> Elle exécute l’assistance administrative en application des art. 115*a* à 115*i* LD[^75a-2].
 
 [^75a-1]: Introduit par l’annexe ch. 3 de la LF du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^75a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^75a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### Section 2 Protection des données
 
@@ -1670,7 +1671,7 @@ Elle est également habilitée à faire du profilage, y compris du profilage à 
 [^76-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^76-2]: Nouvelle teneur selon l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^76-3]: Abrogé par l’annexe ch. 18 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^76-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^76-5]: Introduit par l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
@@ -1705,7 +1706,7 @@ Le système d’information peut contenir les données personnelles suivantes, d
 - d. des indications concernant la situation fiscale;
 - e. des indications concernant l’état des dettes et les cessions de créances;
 - f. des indications concernant les procédures de poursuite, de faillite et de séquestre;
-- g.[^76a-3] ...
+- g.[^76a-3] …
 - h. des indications concernant le respect d’obligations fiscales;
 - i. des indications quant à un soupçon d’infraction;
 - j. des indications concernant des actes punissables, des objets confisqués et des moyens de preuve;
@@ -1727,7 +1728,7 @@ Le système d’information peut contenir les données personnelles suivantes, d
 <sup>2</sup> L’AFC peut communiquer les données personnelles issues d’un profilage, y compris d’un profilage à risque élevé, au sens de l’art. 76, al. 3, ainsi que les données visées à l’art. 76*a*, al. 3, aux collaborateurs de l’OFDF chargés de la perception et de l’encaissement de la TVA ou de l’exécution des procédures administratives ou pénales, ou leur donner accès à ces données en ligne, dans la mesure où l’accomplissement des tâches de ces collaborateurs l’exige.[^76b-3]
 
 [^76b-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^76b-3]: Nouvelle teneur selon l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
@@ -1793,9 +1794,9 @@ Les constatations concernant des tiers qui sont faites lors d’un contrôle eff
 
 <sup>7</sup> Les secrets professionnels prévus par la loi sur les banques, la loi fédérale sur les établissements financiers et la loi sur l’infrastructure des marchés financiers doivent être respectés.[^78-5]
 
-[^78-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^78-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^78-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^78-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^78-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^78-3]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^78-4]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^78-5]: Introduit par l’annexe ch. II 8 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1846,7 +1847,7 @@ Si l’établissement exact de faits essentiels pour le calcul de l’impôt ent
 
 <sup>3</sup> Le principe de la libre appréciation des preuves est applicable. L’acceptation d’une preuve ne doit pas dépendre exclusivement de la présentation de moyens de preuves précis.
 
-[^81-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^81-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^81-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 82
@@ -1895,7 +1896,7 @@ L’AFC rend, d’office ou sur demande de l’assujetti, toutes les décisions 
 La révision, l’interprétation et la rectification des notifications d’estimation, des décisions et des décisions sur réclamation rendues par l’AFC sont régies par les art. 66 à 69 PA[^85-2].
 
 [^85-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^85-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^85-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Chapitre 6 Perception
 
@@ -1923,7 +1924,7 @@ La révision, l’interprétation et la rectification des notifications d’esti
 
 <sup>10</sup> Les al. 1 à 9 s’appliquent indépendamment de la périodicité du décompte choisie.[^86-3]
 
-[^86-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^86-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^86-3]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -1995,7 +1996,7 @@ Sont réservées:
 
 <sup>3</sup> En faisant opposition, l’assujetti ouvre la procédure de mainlevée. La mainlevée de l’opposition relève de l’AFC.
 
-<sup>4</sup> ...[^89-2]
+<sup>4</sup> …[^89-2]
 
 <sup>5</sup> L’AFC doit produire la créance fiscale dans les inventaires officiels ou suite à un appel aux créanciers.[^89-3]
 
@@ -2035,7 +2036,7 @@ Sont réservées:
 
 <sup>6</sup> Lorsqu’une créance fiscale fait l’objet d’un acte de défaut de biens, la prescription du droit d’exiger le paiement de l’impôt est régie par la LP[^91-1].
 
-[^91-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^91-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 92
 
@@ -2057,7 +2058,7 @@ L’AFC peut accorder dans les cas suivants à l’assujetti la remise totale ou
 
 <sup>5</sup> La procédure de remise de l’impôt est gratuite. Toutefois, tout ou partie des frais peuvent être mis à la charge du demandeur s’il a déposé une demande manifestement infondée.
 
-<sup>6</sup> ...[^92-1]
+<sup>6</sup> …[^92-1]
 
 [^92-1]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
@@ -2097,7 +2098,7 @@ L’AFC peut demander à un membre de l’organe chargé de la gestion des affai
 <sup>7</sup> Les sûretés doivent être fournies sous forme de dépôts en espèces, de cautionnements solidaires solvables, de garanties bancaires, de cédules hypothécaires ou d’hypothèques, de polices d’assurance sur la vie ayant une valeur de rachat, d’obligations cotées, libellées en francs, de débiteurs suisses, ou d’obligations de caisse émises par des banques suisses.
 
 [^93-1]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^93-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^93-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 93a
 
@@ -2177,7 +2178,7 @@ En cas de circonstances aggravantes, le montant maximal de l’amende est augmen
 - a. le fait de recruter une ou plusieurs personnes pour commettre une infraction à la législation sur la TVA;
 - b. le fait de commettre par métier des infractions à la législation sur la TVA.
 
-[^97-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 98
 
@@ -2207,7 +2208,7 @@ Quiconque acquiert, reçoit en don ou en gage ou détient d’une autre manière
 
 Si l’amende prévisible ne dépasse pas 100 000 francs et qu’il apparaît que l’enquête portant sur des personnes punissables en vertu de l’art. 6 DPA[^100-1] implique des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende.
 
-[^100-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^100-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 101
 
@@ -2223,7 +2224,7 @@ Si l’amende prévisible ne dépasse pas 100 000 francs et qu’il apparaît qu
 
 <sup>5</sup> Si, en raison d’un ou de plusieurs actes, l’auteur réalise les éléments constitutifs de plusieurs infractions qui ressortissent à l’AFC, la peine est celle qui sanctionne l’infraction la plus grave; elle peut être augmentée dans une juste proportion.
 
-[^101-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^101-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 102
 
@@ -2242,7 +2243,7 @@ Lorsque l’assujetti dénonce une infraction à la présente loi avant que l’
 
 <sup>4</sup> La correction du décompte selon l’art. 72, al. 2, est réputée dénonciation spontanée.
 
-[^102-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 103
 
@@ -2258,8 +2259,8 @@ Lorsque l’assujetti dénonce une infraction à la présente loi avant que l’
 
 <sup>5</sup> Si l’autorité compétente est chargée de poursuivre et de juger d’autres infractions sanctionnées par la DPA, l’al. 1 s’applique à toutes les infractions.
 
-[^103-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^103-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^103-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^103-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 104
 
@@ -2291,7 +2292,7 @@ Le droit d’engager une poursuite pénale se prescrit:
   - 3\. pour les délits visés à l’art. 97, al. 2, et pour les délits visés aux art. 14 à 17 DPA[^105-2]: sept ans après la fin de la période fiscale concernée;
 
 - c.[^105-3] dans le domaine de l’impôt sur les importations: pour tous les délits et contraventions visés aux art. 96, 97, al. 2, et 99 et pour les délits visés aux art. 14 à 17 DPA: par sept ans;
-- d. et e.[^105-4] ...
+- d. et e.[^105-4] …
 
 <sup>2</sup> La prescription ne court plus si une décision pénale ou un jugement de première instance a été rendu avant l’échéance du délai de prescription.
 
@@ -2305,7 +2306,7 @@ La prescription de l’assujettissement à une prestation ou à une restitution 
 <sup>4</sup> Le droit de poursuivre une procédure pénale engagée se prescrit par cinq ans; la prescription est suspendue tant que l’inculpé se trouve à l’étranger.
 
 [^105-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^105-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^105-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^105-4]: Abrogées par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
@@ -2317,7 +2318,7 @@ La prescription de l’assujettissement à une prestation ou à une restitution 
 
 <sup>2</sup> L’art. 91 s’applique à la prescription du recouvrement.
 
-[^106-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^106-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Titre 7 Dispositions finales
 
@@ -2339,7 +2340,7 @@ Le Conseil fédéral:
 
 <sup>3</sup> Le Conseil fédéral édicte les dispositions d’exécution.
 
-[^107-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^107-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^107-2]: Introduite par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^107-3]: Abrogé par le ch. I de la LF du 16 juin 2023, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [FF 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -2382,7 +2383,7 @@ La loi fédérale du 2 septembre 1999 régissant la taxe sur la valeur ajoutée 
 
 **Modification du droit en vigueur**
 
-...[^111-1]
+…[^111-1]
 
 [^111-1]: Les mod. peuvent être consultées au [RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615).
 

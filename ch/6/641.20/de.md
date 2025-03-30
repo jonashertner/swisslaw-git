@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2025-02-27
+version: 2025-03-31
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250331/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250331-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 27. Februar 2025)
+vom 12. Juni 2009 (Stand am 31. März 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 130 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -106,7 +106,7 @@ Im Sinne dieses Gesetzes bedeuten:
 - k. Rechnung: jedes Dokument, mit dem gegenüber einer Drittperson über das Entgelt für eine Leistung abgerechnet wird, gleichgültig, wie dieses Dokument im Geschäftsverkehr bezeichnet wird;
 - l.[^3-5] elektronische Plattform: elektronische Schnittstelle, die online direkte Kontakte zwischen mehreren Personen ermöglicht mit dem Ziel, eine Lieferung oder eine Dienstleistung zu erbringen.
 
-[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -340,7 +340,7 @@ Mit der steuerpflichtigen Person haften solidarisch:
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^15-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^15-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^15-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -476,10 +476,10 @@ Von der Steuer ausgenommen sind:
   - d. Dienstleistungen von Bibliotheken, Archiven und Dokumentationsstellen, namentlich die Einsichtgewährung in Text-, Ton- und Bildträger in ihren Räumlichkeiten; steuerbar ist jedoch die Lieferung von Gegenständen (einschliesslich Gebrauchsüberlassung) solcher Institutionen;
 
 - 14<sup>bis</sup>.[^21-11] für die Zulassung zur Teilnahme an kulturellen Anlässen verlangte Entgelte (z. B. Einschreibegebühren) samt den darin eingeschlossenen Nebenleistungen;
-- 15\. für sportliche Anlässe verlangte Entgelte einschliesslich derjenigen für die Zulassung zur Teilnahme an solchen Anlässen (z. B. Startgelder) samt den darin eingeschlossenen Nebenleistungen;
-- 16\.[^21-12] kulturelle Dienstleistungen, die Lieferung von Werken kultureller Natur durch deren Urheber und Urheberinnen wie Schriftsteller und Schriftstellerinnen, Komponisten und Komponistinnen, Filmschaffende, Kunstmaler und Kunstmalerinnen, Bildhauer und Bildhauerinnen sowie Dienstleistungen, die von den Verlegern und Verlegerinnen und den Verwertungsgesellschaften zur Verbreitung dieser Werke erbracht werden; dies gilt auch für Werke zweiter Hand nach Artikel 3 des Urheberrechtsgesetzes vom 9. Oktober 1992[^21-13], die kultureller Natur sind;
-- 17\.[^21-14] die Leistungen bei Veranstaltungen wie Basaren, Flohmärkten und Tombolas von Einrichtungen, die von der Steuer ausgenommene Tätigkeiten auf dem Gebiet des nichtgewinnstrebigen Sports und Kulturschaffens, auf dem Gebiet der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit und der Kinder- und Jugendbetreuung ausüben, sowie von gemeinnützigen Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen, sofern die Veranstaltungen dazu bestimmt sind, diesen Einrichtungen eine finanzielle Unterstützung zu verschaffen, und ausschliesslich zu ihrem Nutzen durchgeführt werden; Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, die diese mittels Brockenhäusern ausschliesslich zu ihrem Nutzen erbringen;
-- 18\.[^21-15]
+- 15\.[^21-12] für sportliche Anlässe verlangte Entgelte einschliesslich derjenigen für die Zulassung zur Teilnahme an solchen Anlässen (z. B. Startgelder) samt den darin eingeschlossenen Nebenleistungen;
+- 16\.[^21-13] kulturelle Dienstleistungen, die Lieferung von Werken kultureller Natur durch deren Urheber und Urheberinnen wie Schriftsteller und Schriftstellerinnen, Komponisten und Komponistinnen, Filmschaffende, Kunstmaler und Kunstmalerinnen, Bildhauer und Bildhauerinnen sowie Dienstleistungen, die von den Verlegern und Verlegerinnen und den Verwertungsgesellschaften zur Verbreitung dieser Werke erbracht werden; dies gilt auch für Werke zweiter Hand nach Artikel 3 des Urheberrechtsgesetzes vom 9. Oktober 1992[^21-14], die kultureller Natur sind;
+- 17\.[^21-15] die Leistungen bei Veranstaltungen wie Basaren, Flohmärkten und Tombolas von Einrichtungen, die von der Steuer ausgenommene Tätigkeiten auf dem Gebiet des nichtgewinnstrebigen Sports und Kulturschaffens, auf dem Gebiet der Krankenbehandlung, der Sozialhilfe und der sozialen Sicherheit und der Kinder- und Jugendbetreuung ausüben, sowie von gemeinnützigen Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) und von Alters-, Wohn- und Pflegeheimen, sofern die Veranstaltungen dazu bestimmt sind, diesen Einrichtungen eine finanzielle Unterstützung zu verschaffen, und ausschliesslich zu ihrem Nutzen durchgeführt werden; Leistungen von Einrichtungen der Sozialhilfe und der sozialen Sicherheit, die diese mittels Brockenhäusern ausschliesslich zu ihrem Nutzen erbringen;
+- 18\.[^21-16]
 
   im Versicherungsbereich:
 
@@ -504,8 +504,8 @@ Von der Steuer ausgenommen sind:
   - c. die Umsätze, einschliesslich Vermittlung, im Einlagengeschäft und Kontokorrentverkehr, im Zahlungs- und Überweisungsverkehr, im Geschäft mit Geldforderungen, Checks und anderen Handelspapieren; steuerbar ist jedoch die Einziehung von Forderungen im Auftrag des Gläubigers (Inkassogeschäft),
   - d. die Umsätze, einschliesslich Vermittlung, die sich auf gesetzliche Zahlungsmittel (in- und ausländische Valuten wie Devisen, Banknoten, Münzen) beziehen; steuerbar sind jedoch Sammlerstücke (Banknoten und Münzen), die normalerweise nicht als gesetzliches Zahlungsmittel verwendet werden,
   - e. die Umsätze (Kassa- und Termingeschäfte), einschliesslich Vermittlung, von Wertpapieren, Wertrechten und Derivaten sowie von Anteilen an Gesellschaften und anderen Vereinigungen; steuerbar sind jedoch die Verwahrung und die Verwaltung von Wertpapieren, Wertrechten und Derivaten sowie von Anteilen (namentlich Depotgeschäft) einschliesslich Treuhandanlagen,
-  - f.[^21-16] dem Anbieten von Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^21-17] (KAG) und die Verwaltung von kollektiven Kapitalanlagen nach dem KAG durch Personen, die diese verwalten oder aufbewahren, die Fondsleitungen, die Depotbanken und deren Beauftragte; als Beauftragte werden alle natürlichen oder juristischen Personen betrachtet, denen die kollektiven Kapitalanlagen nach dem KAG oder dem Finanzinstitutsgesetz vom 15. Juni 2018[^21-18] Aufgaben delegieren können; das Anbieten von Anteilen und die Verwaltung von Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG richtet sich nach Buchstabe e,
-  - g.[^21-19] das Anbieten von Anlagegruppen von Anlagestiftungen gemäss Bundesgesetz vom 25. Juni 1982[^21-20] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und die Verwaltung von Anlagegruppen nach BVG durch Personen, die diese verwalten oder aufbewahren, die Depotbanken und deren Beauftragte; als Beauftragte gelten alle natürlichen oder juristischen Personen, denen die Anlagestiftungen Aufgaben delegieren können;
+  - f.[^21-17] dem Anbieten von Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^21-18] (KAG) und die Verwaltung von kollektiven Kapitalanlagen nach dem KAG durch Personen, die diese verwalten oder aufbewahren, die Fondsleitungen, die Depotbanken und deren Beauftragte; als Beauftragte werden alle natürlichen oder juristischen Personen betrachtet, denen die kollektiven Kapitalanlagen nach dem KAG oder dem Finanzinstitutsgesetz vom 15. Juni 2018[^21-19] Aufgaben delegieren können; das Anbieten von Anteilen und die Verwaltung von Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG richtet sich nach Buchstabe e,
+  - g.[^21-20] das Anbieten von Anlagegruppen von Anlagestiftungen gemäss Bundesgesetz vom 25. Juni 1982[^21-21] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und die Verwaltung von Anlagegruppen nach BVG durch Personen, die diese verwalten oder aufbewahren, die Depotbanken und deren Beauftragte; als Beauftragte gelten alle natürlichen oder juristischen Personen, denen die Anlagestiftungen Aufgaben delegieren können;
 
 - 20\. die Übertragung und die Bestellung von dinglichen Rechten an Grundstücken sowie die Leistungen von Stockwerkeigentümergemeinschaften an die Stockwerkeigentümer und Stockwerkeigentümerinnen, soweit die Leistungen in der Überlassung des gemeinschaftlichen Eigentums zum Gebrauch, seinem Unterhalt, seiner Instandsetzung und sonstigen Verwaltung sowie der Lieferung von Wärme und ähnlichen Gegenständen bestehen;
 - 21\.
@@ -520,23 +520,23 @@ Von der Steuer ausgenommen sind:
   - f. die Vermietung von Messestandflächen und einzelner Räume in Messe- und Kongressgebäuden;
 
 - 22\. die Lieferung von im Inland gültigen Postwertzeichen und sonstigen amtlichen Wertzeichen höchstens zum aufgedruckten Wert;
-- 23\.[^21-21] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-22] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
+- 23\.[^21-22] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-23] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
 - 24\. die Lieferung gebrauchter beweglicher Gegenstände, die ausschliesslich zur Erbringung von nach diesem Artikel von der Steuer ausgenommenen Leistungen verwendet wurden;
-- 25\.[^21-23] …
+- 25\.[^21-24] …
 - 26\. die Veräusserung von im eigenen Betrieb gewonnenen Erzeugnissen der Landwirtschaft, der Forstwirtschaft sowie der Gärtnerei durch Landwirte und Landwirtinnen, Forstwirte und Forstwirtinnen oder Gärtner und Gärtnerinnen sowie der Verkauf von Vieh durch Viehhändler und Viehhändlerinnen und der Verkauf von Milch durch Milchsammelstellen an milchverarbeitende Betriebe;
 - 27\. Bekanntmachungsleistungen, die gemeinnützige Organisationen zugunsten Dritter oder Dritte zugunsten gemeinnütziger Organisationen erbringen;
-- 28\.[^21-24]
+- 28\.[^21-25]
 
   Leistungen:
 
   - a. zwischen den Organisationseinheiten des gleichen Gemeinwesens,
   - b. zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und den an der Gesellschaft beteiligten Gemeinwesen und deren Organisationseinheiten,
-  - c.[^21-25] zwischen Anstalten oder Stiftungen, deren Gründer oder Träger ausschliesslich Gemeinwesen sind, und diesen Gemeinwesen und deren Organisationseinheiten;
+  - c.[^21-26] zwischen Anstalten oder Stiftungen, deren Gründer oder Träger ausschliesslich Gemeinwesen sind, und diesen Gemeinwesen und deren Organisationseinheiten;
 
-- 28<sup>bis</sup>.[^21-26] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
+- 28<sup>bis</sup>.[^21-27] das Zurverfügungstellen von Personal durch Gemeinwesen an andere Gemeinwesen;
 - 29\. die Ausübung von Funktionen der Schiedsgerichtsbarkeit;
-- 30\.[^21-27] Leistungen zwischen Bildungs- und Forschungsinstitutionen, die an einer Bildungs- und Forschungskooperation beteiligt sind, sofern sie im Rahmen der Kooperation erfolgen, unabhängig davon, ob die Bildungs- und Forschungskooperation als Mehrwertsteuersubjekt auftritt;
-- 31\.[^21-28] die durch Reisebüros weiterverkauften Reiseleistungen und die damit zusammenhängenden Dienstleistungen der Reisebüros.
+- 30\.[^21-28] Leistungen zwischen Bildungs- und Forschungsinstitutionen, die an einer Bildungs- und Forschungskooperation beteiligt sind, sofern sie im Rahmen der Kooperation erfolgen, unabhängig davon, ob die Bildungs- und Forschungskooperation als Mehrwertsteuersubjekt auftritt;
+- 31\.[^21-29] die durch Reisebüros weiterverkauften Reiseleistungen und die damit zusammenhängenden Dienstleistungen der Reisebüros.
 
 <sup>3</sup> Ob eine in Absatz 2 genannte Leistung von der Steuer ausgenommen ist, bestimmt sich unter Vorbehalt von Absatz 4 ausschliesslich nach deren Gehalt und unabhängig davon, wer die Leistung erbringt oder empfängt.
 
@@ -544,12 +544,12 @@ Von der Steuer ausgenommen sind:
 
 <sup>5</sup> Der Bundesrat bestimmt die von der Steuer ausgenommenen Leistungen näher; dabei beachtet er das Gebot der Wettbewerbsneutralität.
 
-<sup>6</sup> Organisationseinheiten eines Gemeinwesens nach Absatz 2 Ziffer 28 sind dessen Dienststellen, dessen privat- und öffentlich-rechtliche Gesellschaften, sofern weder andere Gemeinwesen noch andere Dritte daran beteiligt sind, sowie dessen Anstalten und Stiftungen, sofern das Gemeinwesen sie ohne Beteiligung anderer Gemeinwesen oder anderer Dritter gegründet hat.[^21-29]
+<sup>6</sup> Organisationseinheiten eines Gemeinwesens nach Absatz 2 Ziffer 28 sind dessen Dienststellen, dessen privat- und öffentlich-rechtliche Gesellschaften, sofern weder andere Gemeinwesen noch andere Dritte daran beteiligt sind, sowie dessen Anstalten und Stiftungen, sofern das Gemeinwesen sie ohne Beteiligung anderer Gemeinwesen oder anderer Dritter gegründet hat.[^21-30]
 
-<sup>7</sup> Der Bundesrat legt fest, welche Institutionen als Bildungs- und Forschungsinstitutionen nach Absatz 2 Ziffer 30 gelten.[^21-30]
+<sup>7</sup> Der Bundesrat legt fest, welche Institutionen als Bildungs- und Forschungsinstitutionen nach Absatz 2 Ziffer 30 gelten.[^21-31]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^21-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-4]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-5]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
@@ -558,26 +558,27 @@ Von der Steuer ausgenommen sind:
 [^21-8]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-9]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-10]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-11]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-12]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-13]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-14]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-11]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). Die Berichtigung der RedK vom 19. März 2025, publiziert am 31. März 2025 betrifft nur den italienischen Text ([AS 2025 216](https://fedlex.data.admin.ch/eli/oc/2025/216)).
+[^21-12]: Die Berichtigung der RedK vom 19. März 2025, publiziert am 31. März 2025 betrifft nur den italienischen Text ([AS 2025 215](https://fedlex.data.admin.ch/eli/oc/2025/215)).
+[^21-13]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-14]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 [^21-15]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-16]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-17]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^21-18]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-19]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-20]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^21-21]: Fassung gemäss Anhang Ziff. II 4 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^21-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-23]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-24]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Die Berichtigung vom 31. Aug. 2017 betrifft nur den französischen Text ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
-[^21-25]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-26]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-16]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-17]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-18]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^21-19]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^21-20]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-21]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^21-22]: Fassung gemäss Anhang Ziff. II 4 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-23]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^21-24]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-25]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Die Berichtigung vom 31. Aug. 2017 betrifft nur den französischen Text ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+[^21-26]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-27]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-28]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-29]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-28]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-29]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-30]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-31]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 22
 
@@ -649,12 +650,12 @@ Von der Steuer sind befreit:
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-2]: Fassung gemäss Ziff. I 18 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^23-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^23-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-6]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über den Einkauf von Waren in Zoll-freiläden auf Flughäfen, in Kraft seit 1. Juni 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^23-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 [^23-9]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^23-10]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -742,7 +743,7 @@ Der reduzierte Steuersatz von 2,6 Prozent findet Anwendung:[^25-2]
 [^25-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022 über die Anhebung der Mehrwertsteuer- sätze zur Zusatzfinanzierung der AHV, in Kraft seit 1. Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Fassung gemäss Anhang Ziff. II 3 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^25-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^25-5]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^25-6]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-7]: Fassung gemäss Ziff. IV des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -848,7 +849,7 @@ Die steuerpflichtige Person kann eine fiktive Vorsteuer abziehen, wenn:
 
 [^29-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^29-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^29-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 30
@@ -991,9 +992,9 @@ Auf Antrag der steuerpflichtigen Person erfolgt die Abrechnung:
 <sup>5</sup> Wurde in den Fällen von Absatz 1 das Meldeverfahren nicht angewendet und ist die Steuerforderung gesichert, so kann das Meldeverfahren nicht mehr angeordnet werden.
 
 [^38-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^38-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^38-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^38-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^38-4]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^38-4]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### 3. Abschnitt: Entstehung, Änderung und Verjährung der Steuerforderung
 
@@ -1177,7 +1178,7 @@ Die Solidarhaftung nach Artikel 70 Absatz 3 ZG ist für Personen, die gewerbsmä
 
 <sup>3</sup> Das BAZG kann von der Person, die gewerbsmässig Zollanmeldungen ausstellt, den Nachweis für ihre Vertretungsbefugnis verlangen.[^51-4]
 
-[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^51-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^51-3]: Ausdruck gemäss Ziff. I 18 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^51-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1197,7 +1198,7 @@ Der Steuer unterliegen:
 
 <sup>3</sup> Bei einer Mehrheit von Leistungen gelten die Bestimmungen von Artikel 19.
 
-[^52-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^52-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^52-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über den Einkauf von Waren in Zoll-freiläden auf Flughäfen, in Kraft seit 1. Juni 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^52-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -1225,7 +1226,7 @@ Von der Steuer befreit ist die Einfuhr von:
 
 <sup>2</sup> Der Bundesrat kann Gegenstände, die er nach Artikel 8 Absatz 2 Buchstabe a ZG für zollfrei erklärt, von der Einfuhrsteuer befreien.
 
-[^53-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^53-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^53-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^53-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -1259,7 +1260,7 @@ In die Bemessungsgrundlage sind einzubeziehen, soweit nicht bereits darin enthal
 <sup>5</sup> Für die Ermittlung der Bemessungsgrundlage herangezogene Preis- oder Wertangaben in ausländischer Währung sind nach dem am letzten Börsentag vor der Entstehung der Einfuhrsteuerschuld nach Artikel 56 notierten Devisenkurs (Verkauf) in Schweizerfranken umzurechnen.
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^54-3]: Die Berichtigung der RedK der BVers vom 28. April 2016, veröffentlicht am 10. Mai 2016, betrifft nur den französischen Text ([AS 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 [^54-4]: Die Berichtigung der RedK der BVers vom 28. April 2016, veröffentlicht am 10. Mai 2016, betrifft nur den französischen Text ([AS 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 
@@ -1287,7 +1288,7 @@ In die Bemessungsgrundlage sind einzubeziehen, soweit nicht bereits darin enthal
 
 <sup>5</sup> Ändert sich die Einfuhrsteuerschuld wegen nachträglicher Anpassung des Entgelts, namentlich aufgrund von Vertragsänderungen oder wegen Preisanpassungen zwischen verbundenen Unternehmen aufgrund anerkannter Richtlinien, so muss die zu niedrig bemessene Steuer innert 30 Tagen nach dieser Anpassung dem BAZG angezeigt werden. Die Meldung sowie die Anpassung der Steuerveranlagung können unterbleiben, wenn die nachzuentrichtende Steuer als Vorsteuer nach Artikel 28 abgezogen werden könnte.
 
-[^56-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^56-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 57
 
@@ -1325,7 +1326,7 @@ Kein Verzugszins wird erhoben, wenn:
 - d.[^58-4] …
 - e. die Gegenstände periodisch zum Zollveranlagungsverfahren anzumelden sind (Art. 42 Abs. 1 Bst. c ZG) oder aufgrund eines vereinfachten Zollveranlagungsverfahrens nachträglich veranlagt werden (Art. 42 Abs. 2 ZG) und der Importeur oder die Importeurin im Zeitpunkt der Einfuhr im Inland als steuerpflichtige Person eingetragen war.
 
-[^58-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^58-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^58-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^58-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^58-4]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1346,7 +1347,7 @@ Kein Verzugszins wird erhoben, wenn:
 
 <sup>6</sup> Der Anspruch auf Rückerstattung zu viel erhobener oder nicht geschuldeter Steuern verjährt in jedem Fall 15 Jahre nach Ablauf des Kalenderjahres, in dem er entstanden ist.
 
-[^59-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^59-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 60
 
@@ -1370,7 +1371,7 @@ Die Steuer wird nur zurückerstattet, wenn:
 
 <sup>4</sup> Die Anträge auf Rückerstattung sind bei der Anmeldung zum Ausfuhrverfahren zu stellen. Nachträgliche Rückerstattungsanträge können berücksichtigt werden, wenn sie innert 60 Tagen seit Ausstellung des Ausfuhrdokuments, mit dem die Gegenstände nach dem Ausfuhrverfahren (Art. 61 ZG[^60-1]) veranlagt worden sind, schriftlich beim BAZG eingereicht werden.
 
-[^60-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^60-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 61
 
@@ -1394,8 +1395,8 @@ Die zinslose Frist von 60 Tagen beginnt erst zu laufen, wenn:
 
 <sup>3</sup> Kein Vergütungszins wird ausgerichtet beim Steuererlass nach Artikel 64.
 
-[^61-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^61-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^61-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 62
 
@@ -1444,7 +1445,7 @@ Die Frist für die Einreichung eines Gesuchs beträgt:
 - a. bei Veranlagung mit unbedingter Einfuhrsteuerschuld: ein Jahr seit der Ausstellung des Einfuhrdokuments, mit dem die Einfuhrsteuer veranlagt wurde;
 - b. bei Veranlagung mit bedingter Einfuhrsteuerschuld: ein Jahr seit Abschluss des gewählten Zollverfahrens.
 
-[^64-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^64-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## 5. Titel: Verfahrensrecht für die Inland- und die Bezugsteuer
 
@@ -1490,7 +1491,7 @@ Die Frist für die Einreichung eines Gesuchs beträgt:
 
 <sup>3</sup> Wer einzig aufgrund der Bezugsteuer steuerpflichtig wird (Art. 45 Abs. 2), hat sich innert 60 Tagen nach Ablauf des Kalenderjahres, für das er steuerpflichtig ist, schriftlich bei der ESTV anzumelden und gleichzeitig die bezogenen Leistungen zu deklarieren.
 
-[^66-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^66-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^66-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 2 des BG vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 67
@@ -1534,7 +1535,7 @@ Auf schriftliche Anfrage der steuerpflichtigen Person zu den mehrwertsteuerliche
 
 <sup>4</sup> Der Bundesrat regelt die Voraussetzungen, unter welchen Belege, die nach diesem Gesetz für die Durchführung der Steuer nötig sind, papierlos übermittelt und aufbewahrt werden können.
 
-[^70-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 71
@@ -1623,9 +1624,9 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>5</sup> Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen haben im Rahmen dieser Aufgaben die gleiche Auskunftspflicht wie die Behörden; Absatz 4 gilt sinngemäss.
 
-[^75-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^75-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^75-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^75-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^75-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 75a
 
@@ -1636,7 +1637,7 @@ Keine Geheimhaltungspflicht besteht:
 <sup>2</sup> Sie vollzieht die Amtshilfe in analoger Anwendung der Artikel 115*a*–115*i* ZG[^75a-2].
 
 [^75a-1]: Eingefügt durch Anhang Ziff. 3 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 2. Abschnitt: Datenschutz
 
@@ -1666,7 +1667,7 @@ Zur Erfüllung ihrer Aufgaben ist sie überdies zum Profiling, einschliesslich z
 [^76-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76-2]: Fassung gemäss Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^76-3]: Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^76-5]: Eingefügt durch Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
@@ -1723,7 +1724,7 @@ Das Informationssystem kann folgende Personendaten, einschliesslich besonders sc
 <sup>2</sup> Die ESTV darf den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Personendaten aus einem Profiling, einschliesslich aus einem Profiling mit hohem Risiko, nach Artikel 76 Absatz 3 und die Daten nach Artikel 76*a* Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von dessen Aufgaben nötig ist.[^76b-3]
 
 [^76b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^76b-3]: Fassung gemäss Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
@@ -1789,9 +1790,9 @@ Feststellungen, die Dritte betreffen und bei einer Kontrolle nach den Absätzen 
 
 <sup>7</sup> Die Berufsgeheimnisse nach dem Bankengesetz, nach dem Finanzinstitutsgesetz und nach dem Finanzmarktinfrastrukturgesetz sind zu wahren.[^78-5]
 
-[^78-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^78-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^78-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^78-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^78-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^78-3]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^78-4]: Fassung gemäss Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^78-5]: Eingefügt durch Anhang Ziff. II 8 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1842,7 +1843,7 @@ Erwachsen der steuerpflichtigen Person aus der genauen Feststellung einzelner f�
 
 <sup>3</sup> Es gilt der Grundsatz der freien Beweiswürdigung. Es ist unzulässig, Nachweise ausschliesslich vom Vorliegen bestimmter Beweismittel abhängig zu machen.
 
-[^81-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^81-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 82
 
@@ -1889,7 +1890,7 @@ Die ESTV trifft von Amtes wegen oder auf Verlangen der steuerpflichtigen Person 
 
 Auf die Revision, Erläuterung und Berichtigung von Einschätzungsmitteilungen, Verfügungen und Einspracheentscheiden der ESTV sind die Artikel 66–69 VwVG[^85-1] anwendbar.
 
-[^85-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^85-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 6. Kapitel: Bezug
 
@@ -1917,7 +1918,7 @@ Auf die Revision, Erläuterung und Berichtigung von Einschätzungsmitteilungen, 
 
 <sup>10</sup> Die Absätze 1–9 gelten unabhängig davon, welche Abrechnungsperiode gewählt wurde.[^86-3]
 
-[^86-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^86-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -2029,7 +2030,7 @@ Vorbehalten bleiben:
 
 <sup>6</sup> Wird über eine Steuerforderung ein Verlustschein ausgestellt, so richtet sich die Bezugsverjährung nach den Bestimmungen des SchKG[^91-1].
 
-[^91-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^91-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 92
 
@@ -2091,7 +2092,7 @@ Die ESTV kann von einem Mitglied des geschäftsführenden Organs einer juristisc
 <sup>7</sup> Die Sicherstellung ist zu leisten durch Barhinterlage, solvente Solidarbürgschaften, Bankgarantien, Schuldbriefe und Grundpfandverschreibungen, Lebensversicherungspolicen mit Rückkaufswert, kotierte Frankenobligationen von schweizerischen Schuldnern oder Kassenobligationen von schweizerischen Banken.
 
 [^93-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 93a
 
@@ -2169,7 +2170,7 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 - a. das Anwerben einer oder mehrerer Personen für eine Widerhandlung gegen das Mehrwertsteuerrecht;
 - b. das gewerbsmässige Verüben von Widerhandlungen gegen das Mehrwertsteuerrecht.
 
-[^97-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 98
 
@@ -2199,7 +2200,7 @@ Wer Gegenstände, von denen er weiss oder annehmen muss, dass die darauf geschul
 
 Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR[^100-1] strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.
 
-[^100-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^100-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 101
 
@@ -2215,7 +2216,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 <sup>5</sup> Hat der Täter oder die Täterin durch eine oder mehrere Handlungen die Voraussetzungen für mehrere Strafen erfüllt, die in den Zuständigkeitsbereich der ESTV fallen, so wird die Strafe für die schwerste Widerhandlung verhängt; diese kann angemessen erhöht werden.
 
-[^101-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^101-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 102
 
@@ -2234,7 +2235,7 @@ Zeigt die steuerpflichtige Person eine Widerhandlung gegen dieses Gesetz an, bev
 
 <sup>4</sup> Eine Korrektur der Abrechnung nach Artikel 72 Absatz 2 gilt als Selbstanzeige.
 
-[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 103
 
@@ -2250,8 +2251,8 @@ Zeigt die steuerpflichtige Person eine Widerhandlung gegen dieses Gesetz an, bev
 
 <sup>5</sup> Hat die zuständige Behörde auch andere strafbare Handlungen, für welche das VStrR anwendbar ist, zu untersuchen oder zu beurteilen, so gilt Absatz 1 für alle strafbaren Handlungen.
 
-[^103-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^103-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^103-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^103-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 104
 
@@ -2297,7 +2298,7 @@ Die Verjährung für die Leistungs- und Rückleistungspflicht gemäss Artikel 12
 <sup>4</sup> Das Recht, eine eingeleitete Strafuntersuchung durchzuführen, verjährt in fünf Jahren; die Verjährung ruht, solange sich die beschuldigte Person im Ausland befindet.
 
 [^105-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^105-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^105-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^105-4]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -2309,7 +2310,7 @@ Die Verjährung für die Leistungs- und Rückleistungspflicht gemäss Artikel 12
 
 <sup>2</sup> Die Bezugsverjährung richtet sich nach Artikel 91.
 
-[^106-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^106-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 7. Titel: Schlussbestimmungen
 
@@ -2331,7 +2332,7 @@ Der Bundesrat:
 
 <sup>3</sup> Der Bundesrat erlässt die Vollzugsvorschriften.
 
-[^107-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^107-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^107-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^107-3]: Aufgehoben durch Ziff. I des BG vom 16. Juni 2023, mit Wirkung seit 1. Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 

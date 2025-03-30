@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2025-02-27
+version: 2025-03-31
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250227/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250227-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250227/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20250331/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20250331-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20250331/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 27 February 2025)
+of 12 June 2009 (Status as of 31 March 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 130 of the Federal Constitution[^ingress-1], and having conside
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)
 
 ## Title 1 General Provisions
@@ -108,7 +108,7 @@ In this Act:
 - k. *Invoice* means any document by which the consideration for a supply is settled with a third party, irrespective of how the document is titled in business transactions.
 - l.[^3-5] *Digital platform* means an electronic interface that facilitates interaction between two or more users online with the aim of providing a supply of goods or of services.
 
-[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^3-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^3-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -342,7 +342,7 @@ Jointly and severally liable with the taxable person are:
 
 [^15-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^15-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^15-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^15-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^15-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -478,10 +478,10 @@ Exempt from the tax without credit are:
   - d. services of libraries, archives and places for storing documents, in particular the permitting of inspection of text, sound and image carriers on their premises; however, the supply of goods (including lending for use) by such institutions is taxable;
 
 - 14<sup>bis</sup>.[^21-11] considerations demanded for participation in cultural events (e.g. registration fees), together with the ancillary services included;
-- 15\. considerations demanded for sporting events, including considerations for participation in such events (e.g. starting money), together with the ancillary services included;
-- 16\.[^21-12] cultural services and the supply of cultural works by their creators, such as authors, composers, film makers, painters, sculptors, and services supplied by publishers and collecting societies in order to circulate these works; the foregoing also applies to derivative works under Article 3 of the Copyright Act of 9 October 1992[^21-13] that are of a cultural nature;
-- 17\.[^21-14] supplies made at events such as bazaars, flea markets and raffles held by organisations that perform activities that are exempt from the tax without credit in the field of non-profit-making sports and cultural creativity, in the field of health care, social assistance and social security, and child and youth care, and by charitable nursing and home care (Spitex) organisations and by retirement, residential and nursing homes, provided the events serve the purpose of supporting these organisations financially and are held exclusively for their benefit; supplies provided by social assistance and social security organisations through second hand shops when the turnover thus generated is used exclusively for their benefit;
-- 18\.[^21-15]
+- 15\.[^21-12] considerations demanded for sporting events, including considerations for participation in such events (e.g. starting money), together with the ancillary services included;
+- 16\.[^21-13] cultural services and the supply of cultural works by their creators, such as authors, composers, film makers, painters, sculptors, and services supplied by publishers and collecting societies in order to circulate these works; the foregoing also applies to derivative works under Article 3 of the Copyright Act of 9 October 1992[^21-14] that are of a cultural nature;
+- 17\.[^21-15] supplies made at events such as bazaars, flea markets and raffles held by organisations that perform activities that are exempt from the tax without credit in the field of non-profit-making sports and cultural creativity, in the field of health care, social assistance and social security, and child and youth care, and by charitable nursing and home care (Spitex) organisations and by retirement, residential and nursing homes, provided the events serve the purpose of supporting these organisations financially and are held exclusively for their benefit; supplies provided by social assistance and social security organisations through second hand shops when the turnover thus generated is used exclusively for their benefit;
+- 18\.[^21-16]
 
   in the insurance industry:
 
@@ -506,8 +506,8 @@ Exempt from the tax without credit are:
   - c. turnovers, including those for brokerage, in deposits and current account transactions, in payment and transfer transactions, in business with money claims, cheques and other negotiable papers; however, the collection of debts on behalf of the creditor (debt enforcement business) is taxable,
   - d. turnovers, including brokerage, relating to legal tender (domestic and foreign legal tender, such as currency, bank notes, coins); taxable, however, are collectors’ items (bank notes and coins) that are normally not used as legal tender,
   - e. turnovers (spot and forward transactions), including brokerage, of securities, rights and derivatives and of interests in companies and other forms of association; however, the safe-keeping and the management of securities, rights and derivatives and of interests (especially security deposits) including fiduciary investments are taxable,
-  - f.[^21-16] offering units in collective investment schemes in accordance with the Collective Investment Schemes Act of 23 June 2006[^21-17] (CISA) and the management of collective investment schemes in accordance with CISA by persons who manage such schemes or are responsible for the safekeeping of the assets held in them, fund management companies, custodian banks and their agents; agents are regarded as any natural persons or legal entities that may be delegated tasks by collective capital investment schemes in accordance with the CISA or the Financial Institutions Act of 15 June 2018[^21-18]; the offering of units and the management of investment companies with fixed capital in accordance with Article 110 CISA is governed by letter e,
-  - g.[^21-19] the offering of investment groups by investment foundations in accordance with the Federal Act of 25 June 1982[^21-20] on Occupational Old-Age, Survivors' and Invalidity Pension Provision (OPA) and the management of investment groups in accordance with the OPA by persons who manage such groups or are responsible for the safekeeping of the assets held in them, the custodian banks and their agents; agents are deemed to be any natural persons or legal entities to whom the investment foundations may delegate tasks;
+  - f.[^21-17] offering units in collective investment schemes in accordance with the Collective Investment Schemes Act of 23 June 2006[^21-18] (CISA) and the management of collective investment schemes in accordance with CISA by persons who manage such schemes or are responsible for the safekeeping of the assets held in them, fund management companies, custodian banks and their agents; agents are regarded as any natural persons or legal entities that may be delegated tasks by collective capital investment schemes in accordance with the CISA or the Financial Institutions Act of 15 June 2018[^21-19]; the offering of units and the management of investment companies with fixed capital in accordance with Article 110 CISA is governed by letter e,
+  - g.[^21-20] the offering of investment groups by investment foundations in accordance with the Federal Act of 25 June 1982[^21-21] on Occupational Old-Age, Survivors' and Invalidity Pension Provision (OPA) and the management of investment groups in accordance with the OPA by persons who manage such groups or are responsible for the safekeeping of the assets held in them, the custodian banks and their agents; agents are deemed to be any natural persons or legal entities to whom the investment foundations may delegate tasks;
 
 - 20\. the transfer and the creation of rights in rem in immovable property and the supplies of communities of condominium owners to the condominium owners, to the extent the supplies consist of the provision of the communal property for use, its maintenance, its repair and other management and the supply of heating and similar goods;
 - 21\.
@@ -522,23 +522,23 @@ Exempt from the tax without credit are:
   - f. the renting of exhibition stands and individual rooms in exhibition and congress buildings;
 
 - 22\. the supply of postal stamps valid on Swiss territory and other official stamps up to their printed value;
-- 23\.[^21-21] turnovers from gambling, to the extent that the gross gaming income is subject to the casino tax under Article 119 of the Gambling Act of 29 September 2017[^21-22] or the net profit achieved thereby is used in full for charitable purposes within the meaning of Article 125 of the said Act;
+- 23\.[^21-22] turnovers from gambling, to the extent that the gross gaming income is subject to the casino tax under Article 119 of the Gambling Act of 29 September 2017[^21-23] or the net profit achieved thereby is used in full for charitable purposes within the meaning of Article 125 of the said Act;
 - 24\. the supply of used movable goods, which were used exclusively for the provision of supplies exempt by this article from the tax without credit;
-- 25\.[^21-23] …
+- 25\.[^21-24] …
 - 26\. the sale of agricultural, forestry and market garden products cultivated in their own business by farmers, foresters or gardeners, the sale of cattle by cattle dealers, and the sale of milk by milk collection points to milk processing plants;
 - 27\. publicity services, which charitable organisations provide for the benefit of third parties or third parties for the benefit of charitable organisations;
-- 28\.[^21-24]
+- 28\.[^21-25]
 
   supplies:
 
   - a. between organisational units within the same public authority,
   - b. between private or public law companies owned wholly by public authorities and the public authorities that own them or their organisational units,
-  - c.[^21-25] between institutions or foundations that have been established or are run exclusively by public authorities and these public authorities and their organisational units;
+  - c.[^21-26] between institutions or foundations that have been established or are run exclusively by public authorities and these public authorities and their organisational units;
 
-- 28<sup>bis</sup>*.*[^21-26] the provision of staff by public authorities to other public authorities;
+- 28<sup>bis</sup>*.*[^21-27] the provision of staff by public authorities to other public authorities;
 - 29\. the exercise of arbitration functions;
-- 30\.[^21-27] supplies between education and research institutions that are involved in education and research cooperation, provided those supplies are made as part of the cooperation, irrespective of whether the education and research cooperation is liable to value added tax;
-- 31\.[^21-28] travel services retailed by travel agents and related travel agency services.
+- 30\.[^21-28] supplies between education and research institutions that are involved in education and research cooperation, provided those supplies are made as part of the cooperation, irrespective of whether the education and research cooperation is liable to value added tax;
+- 31\.[^21-29] travel services retailed by travel agents and related travel agency services.
 
 <sup>3</sup> Whether a supply mentioned in paragraph 2 is exempt from the tax without credit is determined, subject to paragraph 4, exclusively by its nature and regardless of who makes or receives the supply.
 
@@ -546,12 +546,12 @@ Exempt from the tax without credit are:
 
 <sup>5</sup> The Federal Council shall specify in more detail the supplies exempt from the tax without credit; in doing so it shall observe the principle of competitive neutrality.
 
-<sup>6</sup> Organisational units of a public authority under paragraph 2 number 28 are its agencies, its private and public companies, provided no other public authority or other third parties participate therein, and its institutions and foundations, provided the public authority founded them without the participation of other public authorities or other third parties.[^21-29]
+<sup>6</sup> Organisational units of a public authority under paragraph 2 number 28 are its agencies, its private and public companies, provided no other public authority or other third parties participate therein, and its institutions and foundations, provided the public authority founded them without the participation of other public authorities or other third parties.[^21-30]
 
-<sup>7</sup> The Federal Council shall determine which institutions are deemed to be education and research institutions under paragraph 2 number 30.[^21-30]
+<sup>7</sup> The Federal Council shall determine which institutions are deemed to be education and research institutions under paragraph 2 number 30.[^21-31]
 
 [^21-1]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^21-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^21-3]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-4]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-5]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
@@ -560,26 +560,27 @@ Exempt from the tax without credit are:
 [^21-8]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-9]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-10]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-11]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-12]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-13]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^21-14]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-11]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)). The correction by the FA Drafting Committee of 19 March 2025, published on 31 March 2025, concerns the Italian text only ([AS 2025 216](https://fedlex.data.admin.ch/eli/oc/2025/216)).
+[^21-12]: The correction by the FA Drafting Committee of 19 March 2025, published on 31 March 2025, concerns the Italian text only ([AS 2025 215](https://fedlex.data.admin.ch/eli/oc/2025/215)).
+[^21-13]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-14]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 [^21-15]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-16]: Amended by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^21-17]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^21-18]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^21-19]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-20]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^21-21]: Amended by Annex No II 4 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^21-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-23]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-24]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). The correction of 31 Aug. 2017 relates to the French text only ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
-[^21-25]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-26]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-16]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-17]: Amended by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^21-18]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^21-19]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^21-20]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
+[^21-21]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^21-22]: Amended by Annex No II 4 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-23]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^21-24]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-25]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). The correction of 31 Aug. 2017 relates to the French text only ([AS 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
+[^21-26]: Amended by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-27]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^21-28]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^21-29]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-28]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-29]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^21-30]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^21-31]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 22
 
@@ -651,12 +652,12 @@ Exempt from the tax are:
 
 [^23-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-2]: Amended by No I 18 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^23-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^23-4]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-6]: Inserted by No I 2 of the FA of 17 Dec. 2010 on the Purchase of Goods in Duty-Free Shops at Airports, in force since 1 June 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^23-7]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^23-8]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 [^23-9]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^23-10]: Second sentence inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -744,7 +745,7 @@ The reduced tax rate of 2.6 per cent applies to:[^25-2]
 [^25-1]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-2]: Amended by No I of the O of 9 Dec. 2022 on the Increase in Value Added Tax- Rates to provide Additional OASI Funding, in force since 1 Jan. 2024 ([AS 2022 863](https://fedlex.data.admin.ch/eli/oc/2022/863)).
 [^25-3]: Amended by Annex No II 3 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^25-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^25-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^25-5]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 [^25-6]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-7]: Amended by No IV of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -850,7 +851,7 @@ The taxable person may deduct notional input tax if:
 
 [^29-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^29-2]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^29-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 30
@@ -993,9 +994,9 @@ If the tax calculated at the statutory rate on the sales price exceeds 10,000 fr
 <sup>5</sup> If in the cases mentioned in paragraph 1 the notification procedure was not applied but security is provided for the tax claim, the notification procedure may no longer be ordered.
 
 [^38-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^38-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^38-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^38-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^38-4]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^38-4]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### Section 3 Constitution, Modification and Prescription of the Tax Claim
 
@@ -1179,7 +1180,7 @@ Joint and several liability under Article 70 paragraph 3 CustA does not apply to
 
 <sup>3</sup> The FOCBS may require the person who issues customs declarations commercially to provide evidence of their authority as an agent.[^51-4]
 
-[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^51-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^51-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^51-3]: Expression in accordance with No I 18 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 [^51-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1199,7 +1200,7 @@ The taxable object is:
 
 <sup>3</sup> The provisions of Article 19 apply to a plurality of supplies.
 
-[^52-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^52-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^52-2]: Amended by No I 2 of the FA of 17 Dec. 2010 on the Purchase of Goods in Duty-Free Shops at Airports, in force since 1 June 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^52-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -1227,7 +1228,7 @@ Exempt from the tax is the import of:
 
 <sup>2</sup> The Federal Council may exempt from the import tax goods that it declares exempt from customs duties under Article 8 paragraph 2 letter a CustA.
 
-[^53-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^53-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^53-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^53-3]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -1261,7 +1262,7 @@ The assessment basis must include, if not already included:
 <sup>5</sup> Price or value information expressed in foreign currency adduced in determining the assessment basis must be converted into Swiss francs at the exchange rate (offer) prevailing on the stock exchange day immediately prior to the incurrence of the import tax debt under Article 56.
 
 [^54-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^54-3]: The correction by the Federal Assembly Drafting Committee dated 28 April 2016, published on 10 May 2016, concerns the French text only ([AS 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 [^54-4]: The correction by the Federal Assembly Drafting Committee dated 28 April 2016, published on 10 May 2016, concerns the French text only ([AS 2016 1357](https://fedlex.data.admin.ch/eli/oc/2016/266)).
 
@@ -1289,7 +1290,7 @@ The assessment basis must include, if not already included:
 
 <sup>5</sup> If the import tax debt changes as a result of subsequent adjustment of the consideration, in particular as a result of revision of the contract or because of price adjustments between related businesses based on recognised guidelines, the tax that has been assessed too low must be notified to the FOCBS within 30 days of the adjustment. The notification and the adjustment of the tax assessment may be dispensed with if the additional tax payable could be deducted as input tax under Article 28.
 
-[^56-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^56-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 57
 
@@ -1327,7 +1328,7 @@ Interest on late payment is not imposed if:
 - d. [^58-4] …
 - e. the goods must be declared periodically for the customs assessment procedure (Art. 42 para. 1 letter c CustA) or are subsequently assessed under a simplified customs assessment procedure (Art. 42 para. 2 CustA) and the importer was registered on Swiss territory as a taxable person at the time of the import.
 
-[^58-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^58-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^58-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^58-3]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^58-4]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1348,7 +1349,7 @@ Interest on late payment is not imposed if:
 
 <sup>6</sup> The right to a refund of excess taxes imposed or taxes not due in any event prescribes 15 years from the end of the calendar year in which it was constituted.
 
-[^59-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^59-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 60
 
@@ -1372,7 +1373,7 @@ The tax is refunded only if:
 
 <sup>4</sup> Applications for a refund must be submitted on declaration for the export procedure. Subsequent refund applications may be considered if they are submitted in writing to the FOCBS within 60 days of issue of the export document with which the goods were assessed under the export procedure (Art. 61 CustA[^60-1]).
 
-[^60-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^60-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 61
 
@@ -1396,8 +1397,8 @@ The interest-free period of 60 days does not begin to run until:
 
 <sup>3</sup> Refund interest is not paid on a tax remission under Article 64.
 
-[^61-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^61-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^61-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 62
 
@@ -1446,7 +1447,7 @@ The period for submission of an application is:
 - a. on assessment with unconditional import tax debt: one year after the issue of the import document with which the import tax was assessed;
 - b. on assessment with conditional import tax debt: one year after conclusion of the customs procedure chosen.
 
-[^64-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^64-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Title 5 Procedural Law for Domestic and Acquisition Tax
 
@@ -1492,7 +1493,7 @@ The period for submission of an application is:
 
 <sup>3</sup> Persons who become taxable solely because of the acquisition tax (Art. 45 para. 2) must register with the FTA in writing within 60 days of the end of the calendar year in which they are liable for tax and at the same time declare the supplies procured.
 
-[^66-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^66-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^66-2]: Second sentence amended by Annex No 2 of the FA of 18 June 2010 on the Business Identification Number, in force since 1 Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 67
@@ -1536,7 +1537,7 @@ In response to a written enquiry made by the taxable person about the VAT conseq
 
 <sup>4</sup> The Federal Council shall stipulate the conditions under which receipts that are necessary under this Act for enforcement of the tax may be transmitted and retained in paperless form.
 
-[^70-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-2]: Second sentence amended by Annex No 4 of the FA of 23 Dec. 2011 (Accounting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 71
@@ -1625,9 +1626,9 @@ There is no duty of confidentiality:
 
 <sup>5</sup> The organisations entrusted with public law tasks have, in the context of these tasks, the same obligation to provide information as the authorities; paragraph 4 applies by analogy.
 
-[^75-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^75-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^75-2]: Amended by Annex No 3 of the FA of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^75-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^75-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 75a
 
@@ -1638,7 +1639,7 @@ There is no duty of confidentiality:
 <sup>2</sup> It provides administrative assistance by analogous application of Article 115*a* to 115*i* CustA[^75a-2].
 
 [^75a-1]: Inserted by Annex No 3 of the Tax Administrative Assistance Act of 28 Sept. 2012, in force since 1 Feb. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### Section 2 Data Protection
 
@@ -1668,7 +1669,7 @@ In order to fulfil its duties, the FTA is also authorised to carry out profiling
 [^76-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76-2]: Amended by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^76-3]: Repealed by Annex No 18 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), with effect from 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^76-5]: Inserted by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
@@ -1725,7 +1726,7 @@ The information system may contain the following personal data, including sensit
 <sup>2</sup> The FTA may disclose personal data from profiling, including data from high-risk profiling in terms of Article 76 paragraph 3 and data in terms of Article 76*a* paragraph 3, or make such data accessible online to the persons in the FOCBS entrusted with the imposition and collection of VAT or with the conduct of criminal and administrative proceedings, provided this is necessary for them to fulfil their duties.[^76b-3]
 
 [^76b-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^76b-3]: Amended by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
@@ -1791,9 +1792,9 @@ Findings that concern third parties and that are made during an audit in accorda
 
 <sup>7</sup> Professional secrecy in accordance with the Banking Act, the Financial Institutions Act and the Financial Market Infrastructure Act must be preserved.[^78-5]
 
-[^78-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^78-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^78-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^78-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^78-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^78-3]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^78-4]: Amended by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^78-5]: Inserted by Annex No II 8 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1844,7 +1845,7 @@ If the exact establishment of individual facts important to the assessment of th
 
 <sup>3</sup> The principle of the free consideration of evidence applies. It is not permissible to make proof dependent on the production of specific evidence.
 
-[^81-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^81-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 82
 
@@ -1891,7 +1892,7 @@ The FTA shall issue *ex officio* or on application of the taxable person all rul
 
 The review, explanation and correction of assessment notices, rulings and opposition decisions of the FTA are governed by Articles 66–69 APA[^85-1].
 
-[^85-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^85-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Chapter 6 Collection
 
@@ -1919,7 +1920,7 @@ The review, explanation and correction of assessment notices, rulings and opposi
 
 <sup>10</sup> Paragraphs 1-9 apply regardless of which reporting period has been chosen.[^86-3]
 
-[^86-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^86-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^86-3]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
@@ -2031,7 +2032,7 @@ The foregoing paragraph does not apply in the event of:
 
 <sup>6</sup> If a certificate of shortfall is issued in respect of a tax claim, the prescriptive period for collection is governed by the provisions of the DEBA[^91-1].
 
-[^91-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^91-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 92
 
@@ -2093,7 +2094,7 @@ The FTA may require a member of the managing body of a legal person to provide s
 <sup>7</sup> Security must be provided by cash deposit, solvent guarantees, bank guarantees, mortgage certificates, life insurance policies with surrender value, listed Swiss franc bonds issued by Swiss borrowers or cash bonds issued by Swiss banks.
 
 [^93-1]: Inserted by No I of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
-[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^93-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 93a
 
@@ -2171,7 +2172,7 @@ In aggravating circumstances, the maximum fine that the offence carries may be i
 - a. soliciting one or more persons to commit an offence against VAT law;
 - b. committing offences against VAT law for commercial gain.
 
-[^97-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 98
 
@@ -2203,7 +2204,7 @@ Any person who purchases, receives as a gift, receives as a pledge or otherwise 
 
 If a fine not exceeding 100,000 francs would be applicable and if the tracing of the offenders under Article 6 ACLA[^100-1] would require investigations the cost of which would be disproportionate to the penalty otherwise forfeited, the authority may dispense with pursuing the offenders and instead order the business (Art. 7 ACLA) to pay the fine.
 
-[^100-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^100-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 101
 
@@ -2219,7 +2220,7 @@ If a fine not exceeding 100,000 francs would be applicable and if the tracing of
 
 <sup>5</sup> If the perpetrator through one or more acts fulfils the requirements for the imposition of two or more penalties that fall within the area of competence of the FTA, the penalty for the most serious violation shall be imposed; it may be increased appropriately.
 
-[^101-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^101-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 102
 
@@ -2238,7 +2239,7 @@ Taxable persons who report themselves for an offence under this Act before it co
 
 <sup>4</sup> A correction of the return under Article 72 paragraph 2 qualifies as self-reporting.
 
-[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 103
 
@@ -2254,8 +2255,8 @@ Taxable persons who report themselves for an offence under this Act before it co
 
 <sup>5</sup> If the competent authority must also investigate or judge other offences to which the ACLA applies, paragraph 1 applies to all offences.
 
-[^103-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^103-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^103-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^103-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 104
 
@@ -2301,7 +2302,7 @@ The prescriptive period for the payment and refund obligation under Article 12 A
 <sup>4</sup> The right to conduct a criminal investigation that has already been initiated prescribes after five years; the prescriptive period is suspended for as long as the accused person is abroad.
 
 [^105-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^105-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^105-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^105-4]: Repealed by No I of the FA of 30 Sept. 2016, with effect from 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -2313,7 +2314,7 @@ The prescriptive period for the payment and refund obligation under Article 12 A
 
 <sup>2</sup> Prescription of the right to collect fines and costs are governed by Article 91.
 
-[^106-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^106-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Title 7 Final Provisions
 
@@ -2335,7 +2336,7 @@ The Federal Council:
 
 <sup>3</sup> The Federal Council issues the implementing regulations.
 
-[^107-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^107-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^107-2]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^107-3]: Repealed by No I of the FA of 16 June 2023, with effect from 1 Jan. 2025 ([AS 2024 438](https://fedlex.data.admin.ch/eli/oc/2024/438); [BBl 2021 2363](https://fedlex.data.admin.ch/eli/fga/2021/2363)).
 
