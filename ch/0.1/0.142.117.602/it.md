@@ -1,0 +1,126 @@
+---
+sr: "0.142.117.602"
+title: Accordo del 12 dicembre 2024 tra il Consiglio federale svizzero e il Governo del Turkmenistan sulla soppressione reciproca dell’obbligo del visto per i titolari di un passaporto diplomatico o di un passaporto di servizio
+eli: "https://fedlex.data.admin.ch/eli/cc/2025/257"
+language: it
+version: 2025-03-31
+adopted: 2024-12-12
+in_force: 2025-03-31
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/257/20250331/it/xml/fedlex-data-admin-ch-eli-cc-2025-257-20250331-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/257/20250331/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra il Consiglio federale svizzero e il Governo del Turkmenistan sulla soppressione reciproca dell’obbligo del visto per i titolari di un passaporto diplomatico o di un passaporto di servizio
+
+RU **2025** 257
+
+Concluso il 12 dicembre 2024 Entrato in vigore mediante scambio di note il 31 marzo 2025
+
+(Stato 31 marzo 2025)
+
+Il Consiglio federale svizzero e il Governo del Turkmenistan (in seguito congiuntamente denominati «le Parti» e, al singolare, «la Parte»),
+
+nell’intento di semplificare la circolazione tra la Svizzera e il Turkmenistan (in seguito congiuntamente denominati «Stati» e, al singolare, «Stato») dei rispettivi cittadini titolari di un passaporto diplomatico o di servizio,
+
+allo scopo di rafforzare i vincoli di amicizia tra i due Paesi,
+
+animati dal desiderio di migliorare le condizioni di viaggio dei rispettivi cittadini,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+**Personale diplomatico e consolare**
+
+<sup>1.</sup> I cittadini di ciascuno Stato titolari di un passaporto diplomatico o di servizio in corso di validità che sono membri di una missione diplomatica, di un posto consolare o di una rappresentanza permanente del loro Stato presso un’organizzazione con cui è stato stipulato un accordo di sede possono entrare nel territorio dell’altro Stato e soggiornarvi senza visto per la durata delle loro funzioni. Con un certo anticipo, lo Stato accreditante notifica per via diplomatica allo Stato accreditatario il titolo e la funzione delle persone summenzionate.
+
+<sup>2.</sup> I familiari delle persone di cui al paragrafo 1 beneficiano delle medesime agevolazioni, a condizione che siano cittadini dello Stato accreditante, che siano titolari di un passaporto diplomatico o di servizio valido, che vivano nella stessa economia domestica e che lo Stato accreditatario li riconosca come familiari autorizzati a vivere con le persone di cui al paragrafo 1.
+
+<sup>3.</sup> Una volta entrati sul territorio dello Stato accreditatario e dopo aver ottenuto un permesso di soggiorno rilasciato dal Ministero degli Affari Esteri, i familiari delle persone di cui al paragrafo 1 titolari di un passaporto nazionale valido possono entrare senza visto nel territorio dello Stato accreditatario per la durata di validità del permesso di soggiorno.
+
+#### Art. 2
+
+**Altri motivi di viaggio**
+
+<sup>1.</sup> I cittadini di ciascuno Stato che sono titolari di un passaporto diplomatico o di servizio valido e che non sono contemplati dall’articolo 1 paragrafo 1 sono esentati dall’obbligo del visto per entrare nel territorio dello Stato accreditatario e soggiornarvi fino a novanta (90) giorni nell’arco di centottanta (180) giorni oppure per uscirne, purché non vi esercitino un’attività lucrativa indipendente o salariata.
+
+<sup>2.</sup> Per le persone che entrano nel territorio della Confederazione Svizzera dopo essere transitate attraverso uno o più Stati che applicano integralmente le disposizioni dell’Acquis di Schengen sull’attraversamento delle frontiere e sui visti, la data in cui è stata attraversata la frontiera esterna dello spazio composto da tali Stati è considerata la data dell’inizio del soggiorno di novanta (90) giorni in tale spazio, mentre la data di partenza è considerata la data della fine del soggiorno in tale spazio.
+
+#### Art. 3
+
+**Valichi di confine e rispetto della legislazione nazionale**
+
+<sup>1.</sup> I cittadini di ciascuno Stato possono entrare nel territorio dell’altro Stato e lasciare tale territorio attraverso i valichi di confine aperti al traffico internazionale di passeggeri.
+
+<sup>2.</sup> I cittadini di ciascuno Stato rispettano la legislazione nazionale non appena attraversano la frontiera dell’altro Stato e durante il loro soggiorno nel territorio di quest’ultimo.
+
+<sup>3.</sup> I passaporti menzionati nel presente Accordo soddisfano i requisiti di validità previsti dal diritto nazionale dello Stato accreditatario.
+
+#### Art. 4
+
+**Perdita del passaporto**
+
+In caso di perdita o danneggiamento dei passaporti menzionati nel presente Accordo durante il soggiorno nel territorio dell’altro Stato, i cittadini di ciascuno Stato possono lasciare il territorio dello Stato accreditatario sulla base di documenti d’identità validi che li autorizzino ad attraversare la frontiera, rilasciati da una missione diplomatica o da un ufficio consolare dello Stato accreditante.
+
+#### Art. 5
+
+**Rifiuto d’entrata**
+
+Le Parti si riservano il diritto di rifiutare l’entrata o di abbreviare il soggiorno nel territorio del proprio Stato ai cittadini dell’altro Stato di cui agli articoli 1 e 2 del presente Accordo per ragioni di protezione della sicurezza nazionale, ordine pubblico, salute pubblica o per altri gravi motivi.
+
+#### Art. 6
+
+**Notifica dei documenti pertinenti**
+
+<sup>1.</sup> Le Parti si scambiano per via diplomatica facsimile personalizzati dei passaporti menzionati nel presente accordo entro trenta (30) giorni dalla firma del presente Accordo.
+
+<sup>2.</sup> La Parte che introduce nuovi passaporti diplomatici o di servizio o che modifica quelli esistenti invia per via diplomatica all’altra Parte i facsimile personalizzati di questi passaporti nuovi o modificati, al più tardi trenta (30) giorni prima della loro introduzione.
+
+#### Art. 7
+
+**Risoluzione delle controversie**
+
+<sup>1.</sup> Le Parti chiariscono di comune intesa i problemi che possono derivare dall’applicazione o dall’interpretazione del presente Accordo.
+
+<sup>2.</sup> Le Parti risolvono per via diplomatica le controversie che possono derivare dall’applicazione o dall’interpretazione del presente Accordo.
+
+#### Art. 8
+
+**Emendamenti**
+
+Le Parti possono concordare emendamenti al presente Accordo mediante Protocolli che entrano in vigore conformemente alle procedure di cui all’articolo 10 paragrafo 2.
+
+#### Art. 9
+
+**Clausola di non incidenza**
+
+Il presente Accordo lascia impregiudicati gli obblighi delle Parti derivanti dalle convenzioni internazionali cui hanno aderito, in particolare la Convenzione di Vienna del 18 aprile 1961[^9-1] sulle relazioni diplomatiche e la Convenzione di Vienna del 24 aprile 1963[^9-2] sulle relazioni consolari.
+
+[^9-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^9-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+
+## **Ar. 10**Durata di validità ed entrata in vigore
+
+\1. Il presente Accordo è concluso a tempo indeterminato.
+
+\2. Entra in vigore trenta (30) giorni a partire dalla data di ricezione dell’ultima notifica scritta con cui le Parti si informano reciprocamente la conclusione delle necessarie procedure interne.
+
+#### Art. 11
+
+**Sospensione**
+
+Ciascuna Parte si riserva il diritto di sospendere, integralmente o parzialmente, le disposizioni del presente Accordo per ragioni di sicurezza nazionale, di ordine pubblico, di salute pubblica o per altri gravi motivi. Tale sospensione è notificata all’altra Parte contraente per via diplomatica almeno quarantotto (48) ore prima che produca effetto. La Parte contraente che ha sospeso l’applicazione del presente Accordo informa senza indugio l’altra Parte contraente non appena i motivi della sospensione non sussistono più. La sospensione cessa al momento della ricezione di tale notifica.
+
+#### Art. 12
+
+**Denuncia**
+
+Ciascuna Parte può notificare in qualsiasi momento per via diplomatica all’altra Parte la sua decisione di denunciare il presente Accordo. L’Accordo cessa di avere effetto trenta (30) giorni dopo la ricezione della notifica da parte dell’altra Parte.
+
+Fatto ad Ashgabat, il l2 dicembre 2024, in duplice esemplare nelle lingue tedesca, turkmena e inglese, ciascun testo facente ugualmente fede. In caso di divergenze, prevale il testo inglese.
+
+<table>
+<tr><td>Per il Consiglio federale svizzero: Thomas Stähli</td><td>Per il Governo del Turkmenistan: Rashid Meredov</td></tr>
+</table>
