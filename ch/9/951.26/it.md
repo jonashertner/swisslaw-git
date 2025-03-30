@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 2020 concernente i crediti garantiti da u
 short: LFiS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: it
-version: 2023-03-31
+version: 2025-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230331/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230331-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20250331/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20250331-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/it"
 
 (Legge sulle fideiussioni solidali COVID-19, LFiS-COVID-19)
 
-del 18 dicembre 2020 (Stato 31 marzo 2023)
+del 18 dicembre 2020 (Stato 31 marzo 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -104,15 +104,15 @@ La fideiussione solidale dura al massimo otto anni:
 
 Il tasso d’interesse ammonta:
 
-- a.[^4-1] all’1,5 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-2];
-- b.[^4-3] all’2,0 per cento annuo in caso di limite sul conto corrente e all’2.0 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
+- a.[^4-1] allo 0,25 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-2];
+- b.[^4-3] allo 0,75 per cento annuo in caso di limite sul conto corrente e allo 0,75 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
 - c. al tasso fissato nel contratto di credito, per l’importo di credito non garantito da una fideiussione solidale secondo l’OFis-COVID-19.
 
 <sup>2</sup> Su proposta del Dipartimento federale delle finanze (DFF), a partire dal 2021 il Consiglio federale adegua ogni anno agli sviluppi del mercato, con effetto a decorrere dal 31 marzo, i tassi d’interesse di cui al capoverso 1 lettere a e b. Il tasso d’interesse secondo il capoverso 1 lettera a ammonta ad almeno lo 0,0 per cento e il tasso d’interesse secondo il capoverso 1 lettera b ad almeno lo 0,5 per cento. Il DFF consulta previamente le banche mutuanti.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore daö 31 mar. 2023 ([RU 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2025 ([RU 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
 [^4-2]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
-[^4-3]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore daö 31 mar. 2023 ([RU 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2025 ([RU 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
 
 ## Sezione 3: Compiti delle organizzazioni che concedono fideiussioni e convenzione con la Confederazione
 
@@ -477,18 +477,11 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 All’entrata in vigore della legge federale del 25 settembre 2020[^29-1] sulla protezione dei dati, il titolo prima dell’articolo 49 e l’articolo 49*a* della legge del 3 ottobre 2003[^29-2] sulla Banca nazionale (art. 28 n. 3) avranno il tenore seguente:
 
-Titolo prima dell’art. 49
+...[^29-3]
 
 [^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^29-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-
-## Sezione 6: Obbligo di tutelare il segreto, trattamento di dati personali e di dati concernenti persone giuridiche nonché scambio di informazioni e responsabilità
-
-#### Art. 49a
-
-**Trattamento di dati personali e di dati concernenti persone giuridiche**
-
-Per adempiere i propri compiti legali, la Banca nazionale può trattare dati personali, compresi quelli degni di particolare protezione, e dati concernenti persone giuridiche.
+[^29-3]: Le disp. di coordinazione possono essere consultate alla [RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 30
 

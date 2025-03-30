@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über Kredite mit Solidarbürgschaft 
 short: Covid-19-SBüG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: de
-version: 2023-03-31
+version: 2025-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230331/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230331-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20250331/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20250331-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/de"
 
 (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG)
 
-vom 18. Dezember 2020 (Stand am 31. März 2023)
+vom 18. Dezember 2020 (Stand am 31. März 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -104,15 +104,15 @@ Eine Solidarbürgschaft dauert höchstens acht Jahre:
 
 Der Zinssatz beträgt:
 
-- a.[^4-1] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-2]: 1,5 Prozent pro Jahr;
-- b.[^4-3] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 2,0 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 2,0 Prozent pro Jahr;
+- a.[^4-1] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-2]: 0,25 Prozent pro Jahr;
+- b.[^4-3] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 0,75 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 0,75 Prozent pro Jahr;
 - c. für den Kreditbetrag, der nicht durch eine Solidarbürgschaft nach der Covid-19-SBüV besichert ist: gemäss Kreditvertrag.
 
 <sup>2</sup> Der Bundesrat passt auf Antrag des Eidgenössischen Finanzdepartements (EFD) jährlich per 31. März, erstmals per 31. März 2021, die Zinssätze nach Absatz 1 Buchstaben a und b an die Marktentwicklungen an. Der Zinssatz nach Absatz 1 Buchstabe a beträgt mindestens 0,0 Prozent und derjenige nach Absatz 1 Buchstabe b mindestens 0,5 Prozent. Das EFD hört die kreditgebenden Banken im Voraus an.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 29. März 2023 über die Anpassung der Zinssätze, in Kraft seit 31. März 2023 ([AS 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 21. März 2025 über die Anpassung der Zinssätze, in Kraft seit 31. März 2025 ([AS 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
 [^4-2]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
-[^4-3]: Fassung gemäss Ziff. I der V vom 29. März 2023 über die Anpassung der Zinssätze, in Kraft seit 31. März 2023 ([AS 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 21. März 2025 über die Anpassung der Zinssätze, in Kraft seit 31. März 2025 ([AS 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
 
 ## 3. Abschnitt: Aufgaben der Bürgschaftsorganisationen und Vertrag mit dem Bund
 
@@ -477,18 +477,11 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^29-1] lauten der Gliederungstitel vor Artikel 49 und Artikel 49*a* des Nationalbankgesetzes vom 3. Oktober 2003[^29-2] (Art. 28 Ziff. 3) wie folgt:
 
-Gliederungstitel vor Art. 49
+…[^29-3]
 
 [^29-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
 [^29-2]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-
-## 6. Abschnitt: Geheimhaltungspflicht, Bearbeitung von Personendaten und von Daten juristischer Personen sowie Informationsaustausch und Verantwortlichkeit
-
-#### Art. 49a
-
-**Bearbeitung von Personendaten und von Daten juristischer Personen**
-
-Zur Erfüllung ihrer gesetzlichen Aufgaben kann die Nationalbank Personendaten, einschliesslich besonders schützenswerter Personendaten, und Daten juristischer Personen bearbeiten.
+[^29-3]: Die Koordinationbestimmungen können unter [AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982)konsultiert werden.
 
 #### Art. 30
 
