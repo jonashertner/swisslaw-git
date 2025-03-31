@@ -4,11 +4,11 @@ title: "Loi du 22 juin 2007 sur l'Autorité fédérale de surveillance des march
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: fr
-version: 2024-03-01
+version: 2025-04-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/fr"
 
 (Loi sur la surveillance des marchés financiers, LFINMA)
 
-du 22 juin 2007 (État le 1<sup>er</sup> mars 2024)
+du 22 juin 2007 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 95 et 98 de la Constitution[^ingress-1], vu le message du Conseil f�
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
 ## Titre 1 Dispositions générales
@@ -54,18 +54,18 @@ La Confédération crée une autorité chargée de surveiller les marchés finan
 
 <sup>2</sup> La présente loi règle l’organisation de cette autorité et fixe les instruments de surveillance à sa disposition.
 
-[^1-1]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^1-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^1-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^1-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1-1]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
+[^1-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^1-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^1-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^1-5]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-6]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^1-7]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^1-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^1-6]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^1-7]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^1-8]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^1-9]: Introduite par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^1-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^1-10]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^1-11]: Introduite par l’annexe ch. 4 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-12]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^1-12]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 2
 
@@ -88,7 +88,7 @@ Sont assujettis à la surveillance des marchés financiers:
 - c.[^3-3] …
 
 [^3-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-3]: Abrogée par l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
@@ -202,7 +202,7 @@ Le conseil d’administration est l’organe stratégique de la FINMA. Ses tâch
 
 <sup>5</sup> Le Conseil fédéral révoque les membres du conseil d’administration et approuve la résiliation des rapports de travail du directeur par le conseil d’administration si les conditions requises pour l’exercice de leurs fonctions ne sont plus remplies.
 
-[^9-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 10
 
@@ -254,7 +254,7 @@ Le conseil d’administration règle dans une ordonnance:
 <sup>5</sup> Le conseil d’administration soumet l’ordonnance à l’approbation du Conseil fédéral.
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13a
 
@@ -342,18 +342,18 @@ Il règle les modalités, notamment:
 - c. la répartition des coûts financés par la taxe de surveillance entre les domaines de surveillance.
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-2]: Sans objet, au sens de l’art. 75 al. 5 de la LF du 15 juin 2018 sur les établissements financiers ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-2]: Sans objet, au sens de l’art. 75 al. 5 de la LF du 15 juin 2018 sur les établissements financiers ([RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)).
 [^15-3]: Introduite par l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15-7]: Ancienne let. a<sup>bis</sup>. Introduite par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^15-10]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^15-12]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^15-14]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
@@ -395,7 +395,7 @@ La FINMA et les personnes qu’elle a mandatées sont responsables uniquement au
 - a. elles ont violé des devoirs essentiels de fonction, et
 - b. l’assujetti n’a pas causé les dommages en violant ses obligations.
 
-[^19-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^19-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 20
@@ -466,7 +466,7 @@ Elle peut le faire en particulier pour:
 <sup>4</sup> Elle règle les modalités.
 
 [^23-1]: Nouvelle teneur selon l’annexe 1 ch. II 96 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^23-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 23a
 
@@ -500,8 +500,8 @@ La FINMA peut effectuer elle-même l’audit au sens des lois sur les marchés f
 <sup>5</sup> Les assujettis supportent les frais de l’audit.
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^24-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24a
 
@@ -652,7 +652,7 @@ La FINMA peut interdire aux personnes ci-après, pour une durée limitée ou, en
 
 <sup>6</sup> Les valeurs patrimoniales confisquées sont dévolues à la Confédération, pour autant qu’elles ne reviennent pas aux lésés.
 
-[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
@@ -697,16 +697,17 @@ La FINMA peut interdire aux personnes ci-après, pour une durée limitée ou, en
 
 **Autres autorités suisses**[^39-1]
 
-<sup>1</sup> La FINMA est habilitée à communiquer à d’autres autorités suisses exerçant des tâches de surveillance ainsi qu’à la Banque nationale suisse les informations non accessibles au public dont elles ont besoin pour s’acquitter de leurs tâches.
+<sup>1</sup> La FINMA est habilitée à communiquer à d’autres autorités suisses exerçant des tâches de surveillance, à l’Office fédéral de la cybersécurité ainsi qu’à la Banque nationale suisse les informations non accessibles au public dont elles ont besoin pour s’acquitter de leurs tâches.[^39-2]
 
-<sup>1bis</sup> La FINMA et l’autorité de surveillance au sens de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^39-2] coordonnent leurs activités de surveillance. Elles s’informent dès qu’elles ont connaissance de faits importants pour l’autre autorité de surveillance.[^39-3]
+<sup>1bis</sup> La FINMA et l’autorité de surveillance au sens de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^39-3] coordonnent leurs activités de surveillance. Elles s’informent dès qu’elles ont connaissance de faits importants pour l’autre autorité de surveillance.[^39-4]
 
-<sup>2</sup> La FINMA peut en outre échanger avec le DFF des informations non accessibles au public concernant certains participants au marché si cela sert à maintenir la stabilité du système financier.[^39-4]
+<sup>2</sup> La FINMA peut en outre échanger avec le DFF des informations non accessibles au public concernant certains participants au marché si cela sert à maintenir la stabilité du système financier.[^39-5]
 
 [^39-1]: Nouvelle teneur selon l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^39-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^39-3]: Introduit par l’annexe ch. 4 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: Nouvelle teneur selon le ch. II 5 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^39-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^39-4]: Introduit par l’annexe ch. 4 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 juin 2018 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 40
 
@@ -778,7 +779,7 @@ Elle ne peut transmettre aux autorités étrangères de surveillance des marché
 <sup>6</sup> La décision de la FINMA de transmettre des informations à l’autorité étrangère de surveillance des marchés financiers peut, dans un délai de dix jours, faire l’objet d’un recours devant le Tribunal administratif fédéral. L’art. 22*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative n’est pas applicable. Dans les cas énoncés à l’al. 4, la demande en justice ne peut qu’être la constatation de la non-conformité au droit.
 
 [^42a-1]: Introduit par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^42a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42b
 
@@ -886,9 +887,9 @@ Sont considérées comme des établissements:
 
 <sup>4</sup> S’il opère également en tant qu’organisme d’autorégulation conformément à l’al. 3, il veille à ce que ceci soit en tout temps reconnaissable de l’extérieur.
 
-[^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43a-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43b
 
@@ -900,7 +901,7 @@ Sont considérées comme des établissements:
 
 <sup>3</sup> Le Conseil fédéral détermine les principes et le contenu de la surveillance courante. Ce faisant, il tient compte de la taille des assujettis et du risque commercial qu’ils présentent. Il peut autoriser la FINMA à édicter des dispositions sur des questions techniques.
 
-[^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43b-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapitre 2 Autorisation
@@ -943,7 +944,7 @@ Sont considérées comme des établissements:
 
 <sup>5</sup> Les personnes chargées de la surveillance doivent être indépendantes des assujettis qui leur sont attribués. Les tâches d’un organisme de surveillance au sens de la présente loi et celles d’un organisme d’autorégulation au sens de la LBA[^43e-1] peuvent être placées sous la direction des mêmes personnes et confiées aux mêmes collaborateurs.
 
-[^43e-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43e-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43f
 
@@ -1022,7 +1023,7 @@ Lors d’un audit réalisé par une société d’audit au sens de l’al. 1, le
 
 <sup>4</sup> Les assujettis doivent effectuer une avance de frais sur ordre de l’organisme de surveillance.
 
-[^43k-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43k-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 43l
 
@@ -1049,7 +1050,7 @@ Lors d’un audit réalisé par une société d’audit au sens de l’al. 1, le
 <sup>3</sup> …[^44-4]
 
 [^44-1]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^44-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^44-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^44-3]: Nouvelle teneur selon l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^44-4]: Abrogé par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
@@ -1122,7 +1123,7 @@ Il est loisible de renoncer à poursuivre les personnes punissables et de condam
 - a. l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif des mesures d’instruction hors de proportion par rapport à la peine encourue;
 - b. l’amende entrant en ligne de compte pour les infractions aux dispositions pénales de la présente loi ou de l’une des lois sur les marchés financiers ne dépasse pas 50 000 francs.
 
-[^49-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^49-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 50
 
@@ -1134,7 +1135,7 @@ Il est loisible de renoncer à poursuivre les personnes punissables et de condam
 
 <sup>3</sup> Le représentant du Ministère public de la Confédération et le représentant du DFF ne sont pas tenus de comparaître en personne aux débats.
 
-[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 51
 
@@ -1162,7 +1163,7 @@ La poursuite des contraventions à la présente loi et aux lois sur les marchés
 
 La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^53-1].
 
-[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 

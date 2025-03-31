@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2024-03-01
+version: 2025-04-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. März 2024)
+vom 22. Juni 2007 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 und 98 der Bundesverfassung[^ingress-1], nach Einsi
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -54,18 +54,18 @@ Der Bund schafft eine Behörde für die Aufsicht über den Finanzmarkt nach folg
 
 <sup>2</sup> Dieses Gesetz legt die Organisation und die Aufsichtsinstrumente dieser Behörde fest.
 
-[^1-1]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^1-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^1-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^1-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1-1]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
+[^1-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^1-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^1-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^1-5]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^1-7]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^1-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^1-6]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^1-7]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^1-8]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^1-9]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^1-10]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^1-10]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^1-11]: Eingefügt durch Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-12]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^1-12]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 2
 
@@ -88,7 +88,7 @@ Der Finanzmarktaufsicht unterstehen:
 - c.[^3-3] …
 
 [^3-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-3]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
@@ -202,7 +202,7 @@ Der Verwaltungsrat ist das strategische Organ der FINMA. Er hat folgende Aufgabe
 
 <sup>5</sup> Der Bundesrat beruft Mitglieder des Verwaltungsrats ab und genehmigt die Auflösung des Arbeitsverhältnisses der Direktorin oder des Direktors durch den Verwaltungsrat, wenn die Voraussetzungen für die Ausübung des Amtes nicht mehr erfüllt sind.
 
-[^9-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 10
 
@@ -254,7 +254,7 @@ Der Verwaltungsrat regelt in einer Verordnung:
 <sup>5</sup> Er unterbreitet die Verordnung dem Bundesrat zur Genehmigung.
 
 [^13-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13a
 
@@ -342,18 +342,18 @@ Er regelt die Einzelheiten, namentlich:
 - c. die Aufteilung der durch die Aufsichtsabgabe zu finanzierenden Kosten unter den Aufsichtsbereichen.
 
 [^15-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-2]: Gegenstandslos. Siehe Art. 75 Abs. 5 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-2]: Gegenstandslos. Siehe Art. 75 Abs. 5 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)).
 [^15-3]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15-7]: Ursprünglich: Bst. a<sup>bis</sup>. Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^15-10]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^15-12]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^15-14]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
@@ -395,7 +395,7 @@ Die FINMA und die von ihr Beauftragten haften nur, wenn:
 - a. sie wesentliche Amtspflichten verletzt haben; und
 - b. Schäden nicht auf Pflichtverletzungen einer oder eines Beaufsichtigten zurückzuführen sind.
 
-[^19-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^19-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 20
@@ -466,7 +466,7 @@ Sie darf dies insbesondere zum Zweck:
 <sup>4</sup> Sie regelt die Einzelheiten.
 
 [^23-1]: Fassung gemäss Anhang 1 Ziff. II 96 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 23a
 
@@ -500,8 +500,8 @@ Die FINMA kann nach Massgabe der Finanzmarktgesetze (Art. 1 Abs. 1) die Prüfung
 <sup>5</sup> Die Beaufsichtigten tragen die Kosten der Prüfung.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^24-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24a
 
@@ -652,7 +652,7 @@ Die FINMA kann folgenden Personen die Tätigkeit im Handel mit Finanzinstrumente
 
 <sup>6</sup> Die eingezogenen Vermögenswerte gehen an den Bund, soweit sie nicht Geschädigten ausbezahlt werden.
 
-[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
@@ -697,16 +697,17 @@ Die FINMA kann folgenden Personen die Tätigkeit im Handel mit Finanzinstrumente
 
 **Andere inländische Behörden**[^39-1]
 
-<sup>1</sup> Die FINMA ist befugt, anderen inländischen Aufsichtsbehörden sowie der Schweizerischen Nationalbank nicht öffentlich zugängliche Informationen zu übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen.
+<sup>1</sup> Die FINMA ist befugt, anderen inländischen Aufsichtsbehörden, dem Bundesamt für Cybersicherheit sowie der Schweizerischen Nationalbank nicht öffentlich zugängliche Informationen zu übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen.[^39-2]
 
-<sup>1bis</sup> Die FINMA und die Aufsichtsbehörde nach dem Krankenversicherungsaufsichtsgesetz vom 26. September 2014[^39-2] koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis erhalten, die für die andere Aufsichtsbehörde von Bedeutung sind.[^39-3]
+<sup>1bis</sup> Die FINMA und die Aufsichtsbehörde nach dem Krankenversicherungsaufsichtsgesetz vom 26. September 2014[^39-3] koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis erhalten, die für die andere Aufsichtsbehörde von Bedeutung sind.[^39-4]
 
-<sup>2</sup> Die FINMA kann zudem mit dem EFD nicht öffentlich zugängliche Informationen über bestimmte Finanzmarktteilnehmer austauschen, wenn es der Aufrechterhaltung der Stabilität des Finanzsystems dient.[^39-4]
+<sup>2</sup> Die FINMA kann zudem mit dem EFD nicht öffentlich zugängliche Informationen über bestimmte Finanzmarktteilnehmer austauschen, wenn es der Aufrechterhaltung der Stabilität des Finanzsystems dient.[^39-5]
 
 [^39-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^39-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^39-3]: Eingefügt durch Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-4]: Fassung gemäss Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: Fassung gemäss Ziff. II 5 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^39-3]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^39-4]: Eingefügt durch Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-5]: Fassung gemäss Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 40
 
@@ -778,7 +779,7 @@ Sie darf ausländischen Finanzmarktaufsichtsbehörden nicht öffentlich zugängl
 <sup>6</sup> Der Entscheid der FINMA über die Übermittlung der Informationen an die ausländische Finanzmarktaufsichtsbehörde kann von der Kundin oder dem Kunden innert zehn Tagen beim Bundesverwaltungsgericht angefochten werden. Artikel 22*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 findet keine Anwendung. In den Fällen nach Absatz 4 kann das Rechtsbegehren lediglich auf Feststellung der Rechtswidrigkeit lauten.
 
 [^42a-1]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^42a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42b
 
@@ -886,9 +887,9 @@ Als Niederlassungen gelten:
 
 <sup>4</sup> Ist sie nach Absatz 3 auch als Selbstregulierungsorganisation tätig, sorgt sie dafür, dass dies gegen aussen jederzeit erkennbar ist.
 
-[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43b
 
@@ -900,7 +901,7 @@ Als Niederlassungen gelten:
 
 <sup>3</sup> Der Bundesrat bestimmt Grundzüge und Inhalt der laufenden Aufsicht. Er trägt dabei der unterschiedlichen Grösse und dem unterschiedlichen Geschäftsrisiko der Beaufsichtigten Rechnung. Er kann die FINMA ermächtigen, Ausführungsbestimmungen zu technischen Angelegenheiten zu erlassen.
 
-[^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43b-2]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Kapitel: Bewilligung
@@ -943,7 +944,7 @@ Als Niederlassungen gelten:
 
 <sup>5</sup> Die mit der Aufsicht betrauten Personen müssen von den durch sie Beaufsichtigten unabhängig sein. Die Aufgaben einer Aufsichtsorganisation nach diesem Gesetz und diejenigen einer Selbstregulierungsorganisation nach dem GwG[^43e-1] können durch dieselben Personen geleitet und durch dasselbe Personal wahrgenommen werden.
 
-[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43f
 
@@ -1022,7 +1023,7 @@ Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüf
 
 <sup>4</sup> Die Beaufsichtigten haben auf Anordnung der Aufsichtsorganisation einen Kostenvorschuss zu leisten.
 
-[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 43l
 
@@ -1049,7 +1050,7 @@ Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüf
 <sup>3</sup> …[^44-4]
 
 [^44-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^44-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^44-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^44-3]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^44-4]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
@@ -1122,7 +1123,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 - a. die Ermittlung der Personen, die nach Artikel 6 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht strafbar sind, Untersuchungsmassnahmen bedingt, welche im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
 - b. für die Widerhandlungen gegen die Strafbestimmungen dieses Gesetzes oder der Finanzmarktgesetze eine Busse von höchstens 50 000 Franken in Betracht fällt.
 
-[^49-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^49-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 50
 
@@ -1134,7 +1135,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 
 <sup>3</sup> Die Vertreterin oder der Vertreter der Bundesanwaltschaft und des EFD müssen zur Hauptverhandlung nicht persönlich erscheinen.
 
-[^50-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 51
 
@@ -1162,7 +1163,7 @@ Die Verfolgung von Übertretungen dieses Gesetzes und der Finanzmarktgesetze ver
 
 Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^53-1] über das Verwaltungsverfahren.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 

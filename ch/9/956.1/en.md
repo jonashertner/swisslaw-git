@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Swiss Financial Market Supervisory Au
 short: FINMASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: en
-version: 2024-03-01
+version: 2025-04-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Supervision Act, FINMASA)
 
-of 22 June 2007 (Status as of 1 March 2024)
+of 22 June 2007 (Status as of 1 April 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 95 and 98 of the Federal Constitution[^ingress-1], and having 
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
 ## Title 1 General Provisions
@@ -56,18 +56,18 @@ The Confederation shall create an authority for the supervision of the financial
 
 <sup>2</sup> This Act establishes the organisation and the supervisory instruments of this authority.
 
-[^1-1]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^1-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^1-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^1-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1-1]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
+[^1-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^1-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^1-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^1-5]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^1-7]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^1-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^1-6]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^1-7]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^1-8]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^1-9]: Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^1-10]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^1-10]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^1-11]: Inserted by Annex No 4 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-12]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^1-12]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 2
 
@@ -90,7 +90,7 @@ The following are subject to financial market supervision:
 - c.[^3-3] ...
 
 [^3-1]: Amended by Annex No 7 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-3]: Repealed by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), with effect from 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
@@ -204,7 +204,7 @@ The Board of Directors is the strategic management body of FINMA. It has the fol
 
 <sup>5</sup> The Federal Council removes members of the Board of Directors and approves the decision of the Board of Directors to terminate the employment of the Chief Executive Officer if the requirements for holding office are no longer fulfilled.
 
-[^9-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 10
 
@@ -256,7 +256,7 @@ The Board of Directors regulates in an ordinance:
 <sup>5</sup> The Board of Directors shall submit the ordinance to the Federal Council for approval.
 
 [^13-1]: Amended by Annex No 4 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13a
 
@@ -344,18 +344,18 @@ It regulates the details, and in particular:
 - c. the apportionment of the costs to be financed by the supervision charge among the supervision areas.
 
 [^15-1]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-2]: Obsolete. See Art. 75 para. 5 of the Financial Institutions Act of 15 June 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-2]: Obsolete. See Art. 75 para. 5 of the Financial Institutions Act of 15 June 2018 ([SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)).
 [^15-3]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^15-5]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^15-6]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15-7]: Originally: Let. a<sup>bis</sup>. Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-8]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^15-9]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^15-10]: Amended by Annex No 5 of the FA of 18 March 2022, in force since 1 Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^15-11]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^15-12]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-13]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^15-14]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
@@ -372,7 +372,7 @@ FINMA shall within a reasonable time form reserves for the exercise of its super
 
 <sup>2</sup> It grants FINMA loans on market terms in order to guarantee its liquidity.
 
-<sup>3</sup> The Federal Finance Administration and FINMA determines the details of their cooperation by mutual agreement.
+<sup>3</sup> The Federal Finance Administration and FINMA determine the details of their cooperation by mutual agreement.
 
 #### Art. 18
 
@@ -397,7 +397,7 @@ FINMA and its agents are liable only if:
 - a. they have committed a breach of fundamental duties; and
 - b. loss or damage is not due to a breach of duty by a supervised person or entity.
 
-[^19-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^19-2]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 20
@@ -468,13 +468,13 @@ It may do this in particular for the purpose of:
 <sup>4</sup> It shall regulate the details.
 
 [^23-1]: Amended by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 23a
 
 **Public directory**[^23a-1]
 
-Die FINMA shall maintain a directory of the supervised persons and entities. This directory is accessible to the public in electronic form.
+FINMA shall maintain a directory of the supervised persons and entities. This directory is accessible to the public in electronic form.
 
 [^23a-1]: Inserted by Annex 1 No II 96 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -490,7 +490,7 @@ Die FINMA shall maintain a directory of the supervised persons and entities. Thi
 
 In accordance with the financial market acts (Art. 1 para. 1), FINMA carries out the audit either itself or arranges for it to be carried out:
 
-- a. by licensed audit companies appointed by the supervised persons and entities and der Federal Audit Oversight Authority under Article 9*a* des Auditor Oversight Act of 16 December 2005[^24-2]; or
+- a. by licensed audit companies appointed by the supervised persons and entities and the Federal Audit Oversight Authority under Article 9*a* of the Auditor Oversight Act of 16 December 2005[^24-2]; or
 - b. audit agents in accordance with Article 24*a*.
 
 <sup>2</sup> The audit relates in particular to the risks that supervised persons and entities may pass on to creditors, investors, insured persons or to the proper function of the financial markets. Duplication of auditing work must be avoided as far as possible.
@@ -502,8 +502,8 @@ In accordance with the financial market acts (Art. 1 para. 1), FINMA carries out
 <sup>5</sup> The supervised persons and entities bear the costs of the audit.
 
 [^24-1]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^24-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24a
 
@@ -521,7 +521,7 @@ In accordance with the financial market acts (Art. 1 para. 1), FINMA carries out
 
 **Duties of the audited supervised persons and entities**[^25-1]
 
-<sup>1</sup> Where an audit company is appointed or if FINMA appoints an audit agent, the supervised persons and entities must provide them with all information and documents that are required to carry out their tasks.
+<sup>1</sup> Where an audit company is appointed or if FINMA appoints an audit agent, the supervised persons and entities must provide them with all the information and documents that are required to carry out their tasks.
 
 <sup>2</sup> The supervised person or entity must notify FINMA of its choice of audit company.
 
@@ -574,7 +574,7 @@ In accordance with the financial market acts (Art. 1 para. 1), FINMA carries out
 
 **Duty to provide information and to report**
 
-<sup>1</sup> The supervised persons and entities, their audit companies and auditors as well as persons or companies that are qualified investors or that have a substantial participation in the supervised persons and entities must provide FINMA with all information and documents that it requires to carry out its tasks.
+<sup>1</sup> The supervised persons and entities, their audit companies and auditors as well as persons or companies that are qualified investors or that have a substantial participation in the supervised persons and entities must provide FINMA with all the information and documents that it requires to carry out its tasks.
 
 <sup>2</sup> The supervised persons and entities and the audit companies that conduct audits of them must also immediately report to FINMA any incident that is of substantial importance to the supervision.[^29-1]
 
@@ -654,13 +654,13 @@ Where the following persons seriously violate the provisions of the financial ma
 
 <sup>6</sup> The confiscated assets go to the Confederation unless they are paid to the parties suffering loss.
 
-[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
 **Investigating agents**
 
-<sup>1</sup> FINMA may appoint an independent and suitably-qualified person to investigate circumstances relevant for supervisory purposes at a supervised person or entity or to implement supervisory measures that it has ordered (an investigating agent).
+<sup>1</sup> FINMA may appoint an independent and suitably qualified person to investigate circumstances relevant for supervisory purposes at a supervised person or entity or to implement supervisory measures that it has ordered (an investigating agent).
 
 <sup>2</sup> It specifies the duties of the investigating agent in the appointment order. It determines the extent to which the investigating agent may act in the place of the management bodies of the supervised person or entity.
 
@@ -699,16 +699,17 @@ Where the following persons seriously violate the provisions of the financial ma
 
 **Other domestic authorities**[^39-1]
 
-<sup>1</sup> FINMA is authorised to provide other domestic supervisory authorities and the Swiss National Bank with non-public information that they need to fulfil their tasks.
+<sup>1</sup> FINMA is authorised to provide other domestic supervisory authorities, the National Cyber Security Centre and the Swiss National Bank with non-public information that they need to fulfil their tasks.[^39-2]
 
-<sup>1bis</sup> FINMA and the supervisory authority under the Health Insurance Supervision Act of 26 September 2014[^39-2] shall coordinate their supervisory activities. They shall inform each other as soon as they become aware of events that are of significance to the other supervisory authority.[^39-3]
+<sup>1bis</sup> FINMA and the supervisory authority under the Health Insurance Supervision Act of 26 September 2014[^39-3] shall coordinate their supervisory activities. They shall inform each other as soon as they become aware of events that are of significance to the other supervisory authority.[^39-4]
 
-<sup>2</sup> FINMA may also exchange non-public information on certain financial market participants with the FDF where this helps maintain the stability of the financial system.[^39-4]
+<sup>2</sup> FINMA may also exchange non-public information on certain financial market participants with the FDF where this helps maintain the stability of the financial system.[^39-5]
 
 [^39-1]: Amended by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^39-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^39-3]: Inserted by Annex No 4 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-4]: Amended by Annex No 4 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: Amended by No II 5 of the FA of 29 Sept. 2023 (Introduction of a Reporting Obligation for Cyberattacks on Critical Infrastructure), in force since 1 April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^39-3]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^39-4]: Inserted by Annex No 4 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-5]: Amended by Annex No 4 of the Financial Services Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 40
 
@@ -780,7 +781,7 @@ It may transmit non-public information to foreign financial market supervisory a
 <sup>6</sup> The decision of FINMA on the transmission of information to the foreign financial market supervisory authority may be challenged by the client before the Federal Administrative Court within ten days. Article 22*a* of the Administrative Procedure Act does not apply. In the cases detailed in paragraph 4, the request may only cite a declaration of unlawfulness.
 
 [^42a-1]: Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^42a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42b
 
@@ -888,9 +889,9 @@ Establishments are defined as:
 
 <sup>4</sup> If the supervisory organisation is also active in accordance with paragraph 3 as a self-regulatory organisation, it shall ensure that this is evident to others at all times.
 
-[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43a-2]: Amended by Annex 1 No 4 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43b
 
@@ -902,7 +903,7 @@ Establishments are defined as:
 
 <sup>3</sup> The Federal Council shall determine the main aspects and content of the continuous supervision. In doing so, it shall take account of the differing size and business risks of the supervised person or entity. It may authorise FINMA to issue implementing provisions on technical matters.
 
-[^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43b-2]: Amended by Annex 1 No 4 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapter 2 Authorisation
@@ -945,7 +946,7 @@ Establishments are defined as:
 
 <sup>5</sup> The persons entrusted with supervision must be independent of the persons and entities they supervise. The tasks of a supervisory organisation under this Act and those of a self-regulatory organisation under AMLA[^43e-1] may be managed by the same persons and carried out by the same staff.
 
-[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43f
 
@@ -1024,15 +1025,15 @@ For audits conducted by an audit company in accordance with paragraph 1, a lead 
 
 <sup>4</sup> If so ordered by the supervisory organisation, the supervised persons and entities must make an advance payment to cover costs.
 
-[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 43l
 
 **Duty to provide information and to report**
 
-<sup>1</sup> The supervised persons and entities, their audit companies and auditors as well as persons or companies that are qualified investors or that have a substantial participation in the supervised persons and entities must provide FINMA with all information and documents that it requires to carry out its tasks.
+<sup>1</sup> The supervised persons and entities, their audit companies and auditors as well as persons or companies that are qualified investors or that have a substantial participation in the supervised persons and entities must provide the supervisory organisation with all the information and documents that it requires to carry out its tasks.
 
-<sup>2</sup> The supervised persons and entities and the audit companies that conduct audits of them must also immediately report to FINMA any incident that is of substantial importance to the supervision.
+<sup>2</sup> The supervised persons and entities and the audit companies that conduct audits of them must also immediately report to the supervisory organisation any incident that is of substantial importance to the supervision.
 
 ## Title 4 Criminal Provisions
 
@@ -1044,14 +1045,14 @@ For audits conducted by an audit company in accordance with paragraph 1, a lead 
 
 **Activity without authorisation, recognition, a licence, registration or affiliation with a self-regulatory organisation[^44-1]**
 
-<sup>1</sup> Any person who wilfully without authorisation, recognition, a licence, registration or affiliation with a self-regulatory organisation in accordance with Article 24 paragraph 1 of the AMLA[^44-2] carries out an activity that requires authorisation, recognition, a licence, registration or affiliation with a self-regulatory organisation under the financial market acts is liable to a custodial sentence of up to three years or to a monetary penalty.[^44-3]
+<sup>1</sup> Any person who wilfully without authorisation, recognition, a licence, registration or affiliation with a self-regulatory organisation in accordance with Article 24 paragraph 1 AMLA[^44-2] carries out an activity that requires authorisation, recognition, a licence, registration or affiliation with a self-regulatory organisation under the financial market acts is liable to a custodial sentence of up to three years or to a monetary penalty.[^44-3]
 
-<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250 000 francs.
+<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250,000 francs.
 
 <sup>3</sup> ...[^44-4]
 
 [^44-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^44-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^44-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^44-3]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^44-4]: Repealed by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
@@ -1061,9 +1062,9 @@ For audits conducted by an audit company in accordance with paragraph 1, a lead 
 
 <sup>1</sup> Any person who wilfully provides FINMA, an audit company, a supervisory organisation a self-regulatory organisation, or an agent with false information is liable to a custodial sentence of up to three years or to a monetary penalty.[^45-1]
 
-<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250 000 francs.
+<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250,000 francs.
 
-<sup>3</sup> ...[^45-2]
+<sup>3</sup> …[^45-2]
 
 [^45-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^45-2]: Repealed by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1080,9 +1081,9 @@ Any person who as an agent wilfully and seriously violates the supervisory provi
 - b. failing to make a mandatory report to FINMA; or
 - c. failing to make an order under Article 27 to the audited supervised person or entity,
 
-<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250 000 francs.
+<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250,000 francs.
 
-<sup>3</sup> ...[^46-4]
+<sup>3</sup> …[^46-4]
 
 [^46-1]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^46-2]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -1101,9 +1102,9 @@ Any person who wilfully:
 - b. fails to fulfil his or her obligations vis-à-vis the audit company or the agent,
 - [tab] is liable to a custodial sentence of up to three years or to a monetary penalty.
 
-<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250 000 francs.
+<sup>2</sup> Where the offender acts through negligence, he or she is liable to a fine of up to 250,000 francs.
 
-<sup>3</sup> ...[^47-2]
+<sup>3</sup> …[^47-2]
 
 [^47-1]: Amended by Annex No 7 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Repealed by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, with effect from 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1112,7 +1113,7 @@ Any person who wilfully:
 
 **Non-compliance with rulings[^48-1]**
 
-Any person who wilfully fails to comply with a legally enforceable ruling issued by FINMA containing notice of the penalties under this Article or with a decision of the appeal courts is liable to a fine of up to 100 000 francs.
+Any person who wilfully fails to comply with a legally enforceable ruling issued by FINMA containing notice of the penalties under this Article or with a decision of the appeal courts is liable to a fine of up to 100,000 francs.
 
 [^48-1]: Amended by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1123,9 +1124,9 @@ Any person who wilfully fails to comply with a legally enforceable ruling issued
 The ascertainment of the criminally liable persons may be dispensed with and instead the business operation may be ordered to pay the fine (Art. 7 of the FA of 22 March 1974[^49-1] on Administrative Criminal Law) where:
 
 - a. the ascertainment of the persons who are criminally liable under Article 6 of the Federal Act of 22 March 1974 on Administrative Criminal Law requires investigative measures that are disproportionate in comparison with the penalty incurred; and
-- b. a fine of a maximum of 50 000 francs is under consideration for the violations of the criminal provisions of this Act or the financial market acts.
+- b. a fine of a maximum of 50,000 francs is under consideration for the violations of the criminal provisions of this Act or the financial market acts.
 
-[^49-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^49-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 50
 
@@ -1137,7 +1138,7 @@ The ascertainment of the criminally liable persons may be dispensed with and ins
 
 <sup>3</sup> The representatives of the Office of the Attorney General of Switzerland and of the FDF are not required to appear in person at the trial.
 
-[^50-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 51
 
@@ -1165,7 +1166,7 @@ The prosecution of offences under this Act and under the financial market acts b
 
 The procedure is governed by the provisions of the Federal Act of 20 December 1968[^53-1] on Administrative Procedure.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -1280,6 +1281,6 @@ Annex
 
 The federal acts below are amended as follows:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736).

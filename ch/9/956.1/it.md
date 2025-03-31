@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2024-03-01
+version: 2025-04-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20240301-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20240301/it"
 
 (Legge sulla vigilanza dei mercati finanziari, LFINMA[^t-1])
 
-del 22 giugno 2007 (Stato 1° marzo 2024)
+del 22 giugno 2007 (Stato 1° aprile 2025)
 
-[^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,14 +27,14 @@ visti gli articoli 95 e 98 della Costituzione federale[^ingress-1]; visto il mes
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)
 
 ## Titolo primo: Disposizioni generali
 
 [^tit1-1]
 
-[^tit1-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit1-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 1
 
@@ -56,18 +56,18 @@ La Confederazione istituisce un’autorità di vigilanza sui mercati finanziari 
 
 <sup>2</sup> La presente legge stabilisce l’organizzazione e gli strumenti di vigilanza di questa autorità.
 
-[^1-1]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
-[^1-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^1-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^1-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^1-5]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-6]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^1-7]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^1-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^1-1]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
+[^1-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^1-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^1-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^1-5]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-6]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^1-7]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^1-8]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^1-9]: Introdotta dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^1-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^1-10]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^1-11]: Introdotta dall’all. n. 4 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1-12]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^1-12]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 2
 
@@ -90,7 +90,7 @@ Sottostanno alla vigilanza sui mercati finanziari:
 - c.[^3-3] ...
 
 [^3-1]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-3]: Abrogata dall’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 4
@@ -99,19 +99,19 @@ Sottostanno alla vigilanza sui mercati finanziari:
 
 Conformemente alle leggi sui mercati finanziari, la vigilanza sui mercati finanziari si prefigge la protezione dei creditori, degli investitori e degli assicurati, nonché la tutela della funzionalità dei mercati finanziari. Essa contribuisce in tal modo a rafforzare la reputazione e la concorrenzialità della piazza finanziaria svizzera, nonché la capacità di quest’ultima di affrontare le sfide future.
 
-[^4-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Titolo secondo: Autorità federale di vigilanza sui mercati finanziari
 
 [^tit2-1]
 
-[^tit2-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit2-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 1: Disposizioni generali
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit2-chap1-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ Conformemente alle leggi sui mercati finanziari, la vigilanza sui mercati finanz
 
 <sup>3</sup> La FINMA si organizza autonomamente secondo i principi di una buona Corporate Governance e di una gestione economica. Tiene altresì una contabilità propria.
 
-[^5-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 6
 
@@ -159,8 +159,8 @@ Essa disciplina soltanto se necessario in considerazione degli obiettivi di vigi
 
 <sup>5</sup> Emana direttive per l’attuazione di questi principi. In tale contesto opera d’intesa con il Dipartimento federale delle finanze (DFF)[^7-3].
 
-[^7-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^7-2]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-2]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-3]: Nuova espr. giusta l’all. n. 4 della L del 15 giugno 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 2: Organizzazione
@@ -204,7 +204,7 @@ Il consiglio di amministrazione è l’organo strategico della FINMA. Esso ha i 
 
 <sup>5</sup> Il Consiglio federale revoca i membri del consiglio di amministrazione e approva lo scioglimento dei rapporti di lavoro del direttore da parte del consiglio di amministrazione se le esigenze di esercizio della carica non sono più adempite.
 
-[^9-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 10
 
@@ -256,7 +256,7 @@ Il consiglio d’amministrazione disciplina mediante ordinanza:
 <sup>5</sup> Esso sottopone per approvazione l’ordinanza al Consiglio federale.
 
 [^13-1]: Nuovo testo giusta dall’all. n. 4 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13a
 
@@ -293,11 +293,11 @@ Emana disposizioni di esecuzione concernenti:
 - d. le categorie di dati di cui al capoverso 2;
 - e. la protezione e la sicurezza dei dati.
 
-[^13a-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13a-2]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13a-3]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13a-4]: Introdotta dall’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13a-5]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13a-2]: Nuovo testo giusta l’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-3]: Nuovo testo giusta l’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-4]: Introdotta dall’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-5]: Nuovo testo giusta l’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -344,19 +344,19 @@ Il Consiglio federale disciplina i dettagli, segnatamente:
 - c. la ripartizione tra gli ambiti di vigilanza dei costi da finanziare mediante la tassa di vigilanza.
 
 [^15-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
-[^15-2]: Privo d’oggetto, vedi art. 75 cpv. 5 della L del 15 giu. 2018 sugli istituti finanziari ([RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801))
-[^15-3]: Introdotta dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-2]: Privo d’oggetto, vedi art. 75 cpv. 5 della L del 15 giu. 2018 sugli istituti finanziari ([RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589))
+[^15-3]: Introdotta dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^15-5]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^15-6]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15-7]: Ex lett. a<sup>bis</sup>. Introdotta dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-8]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^15-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^15-10]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° gen. 2024 ([RU 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); FF **2020** 8967).
-[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^15-12]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^15-14]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-11]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^15-12]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-13]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^15-14]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 16
 
@@ -397,7 +397,7 @@ La FINMA e le persone da essa incaricate sono responsabili soltanto se:
 - a. hanno violato importanti doveri d’ufficio; e
 - b. i danni non sono riconducibili a violazioni di obblighi da parte di una persona sottoposta a vigilanza.
 
-[^19-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^19-2]: Nuovo testo giusta dall’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
 #### Art. 20
@@ -467,8 +467,8 @@ Può farlo in particolare per:
 
 <sup>4</sup> La FINMA disciplina i dettagli.
 
-[^23-1]: Nuovo testo giusta l’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^23-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-1]: Nuovo testo giusta l’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 23a
 
@@ -476,7 +476,7 @@ Può farlo in particolare per:
 
 La FINMA tiene un elenco degli assoggettati alla vigilanza. L’elenco è accessibile in forma elettronica al pubblico.
 
-[^23a-1]: Introdotto dall’all. 1 n. II 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^23a-1]: Introdotto dall’all. 1 cifra II n. 96 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 3: Strumenti di vigilanza
 
@@ -502,8 +502,8 @@ La FINMA può effettuare le verifiche degli assoggettati alla vigilanza, conform
 <sup>5</sup> I costi della verifica sono a carico degli assoggettati alla vigilanza.
 
 [^24-1]: Nuovo testo giusta l’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^24-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^24-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^24-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24a
 
@@ -594,7 +594,7 @@ Se avvia un procedimento perché vi sono indizi di violazione di disposizioni le
 
 <sup>2</sup> Se i diritti dei clienti risultano minacciati, la FINMA può obbligare la persona sottoposta a vigilanza a prestare garanzie.[^31-1]
 
-[^31-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^31-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 32
 
@@ -604,8 +604,8 @@ Se avvia un procedimento perché vi sono indizi di violazione di disposizioni le
 
 <sup>2</sup> Se una decisione esecutoria della FINMA rimane disattesa nonostante diffida, la FINMA può, a spese della parte inadempiente, eseguire essa stessa l’operazione ordinata o farla eseguire da terzi.[^32-2]
 
-[^32-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^32-2]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32-2]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 33
 
@@ -628,7 +628,7 @@ La FINMA può vietare temporaneamente o, in caso di recidiva, durevolmente alle 
 
 <sup>2</sup> Se il divieto comprende un’attività nell’ambito della vigilanza esercitata da un organismo di vigilanza, quest’ultimo è informato della decisione.
 
-[^33a-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^33a-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 34
 
@@ -654,7 +654,7 @@ La FINMA può vietare temporaneamente o, in caso di recidiva, durevolmente alle 
 
 <sup>6</sup> I valori patrimoniali confiscati sono devoluti alla Confederazione, sempreché non debbano essere versati alle persone lese.
 
-[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
@@ -699,16 +699,17 @@ La FINMA può vietare temporaneamente o, in caso di recidiva, durevolmente alle 
 
 **Altre autorità nazionali**[^39-1]
 
-<sup>1</sup> La FINMA è autorizzata a trasmettere ad altre autorità svizzere di vigilanza e alla Banca nazionale svizzera le informazioni non accessibili al pubblico di cui esse necessitano per adempiere i loro compiti.
+<sup>1</sup> La FINMA è autorizzata a trasmettere ad altre autorità svizzere di vigilanza, all’Ufficio federale della cibersicurezza e alla Banca nazionale svizzera le informazioni non accessibili al pubblico di cui essi necessitano per adempiere i loro compiti.[^39-2]
 
-<sup>1bis</sup> La FINMA e l’autorità di vigilanza secondo la legge del 26 settembre 2014[^39-2] sulla vigilanza sull’assicurazione malattie coordinano le loro attività di vigilanza. Si informano reciprocamente non appena abbiano notizia di eventi significativi per l’altra autorità di vigilanza.[^39-3]
+<sup>1bis</sup> La FINMA e l’autorità di vigilanza secondo la legge del 26 settembre 2014[^39-3] sulla vigilanza sull’assicurazione malattie coordinano le loro attività di vigilanza. Si informano reciprocamente non appena abbiano notizia di eventi significativi per l’altra autorità di vigilanza.[^39-4]
 
-<sup>2</sup> La FINMA può inoltre scambiare con il DFF informazioni non accessibili al pubblico relative a determinati partecipanti al mercato finanziario, se questo concorre a preservare la stabilità del sistema finanziario.[^39-4]
+<sup>2</sup> La FINMA può inoltre scambiare con il DFF informazioni non accessibili al pubblico relative a determinati partecipanti al mercato finanziario, se questo concorre a preservare la stabilità del sistema finanziario.[^39-5]
 
 [^39-1]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^39-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^39-3]: Introdotto dall’all. n. 4 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^39-4]: Nuovo testo giusta l’all. n. 4 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-2]: Nuovo testo giusta la II n. 5 della LF del 29 set. 2023 sulla sicurezza (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche, in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
+[^39-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^39-4]: Introdotto dall’all. n. 4 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-5]: Nuovo testo giusta l’all. n. 4 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 40
 
@@ -734,7 +735,7 @@ Il Tribunale amministrativo federale statuisce a richiesta di una delle autorit�
 
 <sup>2</sup> La FINMA inoltra all’organismo di vigilanza le sentenze che riguardano gli assoggettati alla vigilanza di quest’ultimo.
 
-[^41a-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^41a-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 4: Collaborazione con servizi esteri
 
@@ -780,7 +781,7 @@ La FINMA può trasmettere alle autorità estere di vigilanza sui mercati finanzi
 <sup>6</sup> Il cliente può impugnare entro dieci giorni al Tribunale amministrativo federale la decisione della FINMA concernente la trasmissione di informazioni a un’autorità estera di vigilanza sui mercati finanziari. L’articolo 22*a* della legge federale del 20 dicembre 1968 sulla procedura amministrativa non è applicabile. Nei casi di cui al capoverso 4 può essere chiesto unicamente l’accertamento dell’illiceità.
 
 [^42a-1]: Introdotto dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^42a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 42b
 
@@ -871,7 +872,7 @@ Sono considerate stabili organizzazioni:
 
 [^tit3-1][^tit3-2]
 
-[^tit3-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit3-1]: Introdotto dall’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^tit3-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Capitolo 1: Disposizioni generali
@@ -888,9 +889,9 @@ Sono considerate stabili organizzazioni:
 
 <sup>4</sup> Se svolge anche l’attività di organismo di autodisciplina secondo il capoverso 3, l’organismo di vigilanza provvede affinché ciò sia riconoscibile in ogni momento ai terzi.
 
-[^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43a-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43b
 
@@ -902,7 +903,7 @@ Sono considerate stabili organizzazioni:
 
 <sup>3</sup> Il Consiglio federale stabilisce i principi e i contenuti della vigilanza continua. A tal fine tiene conto delle dimensioni e dei rischi d’impresa degli assoggettati alla vigilanza. Può autorizzare la FINMA a emanare disposizioni di esecuzione negli ambiti tecnici.
 
-[^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^43b-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Capitolo 2: Autorizzazione
@@ -945,7 +946,7 @@ Sono considerate stabili organizzazioni:
 
 <sup>5</sup> Le persone incaricate della vigilanza devono essere indipendenti dagli assoggettati alla stessa. I compiti dell’organismo di vigilanza secondo la presente legge e quelli dell’organismo di autodisciplina secondo la legge del 10 ottobre 1997[^43e-1] sul riciclaggio di denaro possono essere diretti dalle stesse persone e svolti dagli stessi collaboratori.
 
-[^43e-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^43e-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 43f
 
@@ -1024,7 +1025,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 <sup>4</sup> Su ordine dell’organismo di vigilanza, gli assoggettati alla vigilanza versano un anticipo dei costi.
 
-[^43k-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43k-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 43l
 
@@ -1038,7 +1039,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit4-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 44
 
@@ -1050,9 +1051,9 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 <sup>3</sup> …[^44-4]
 
-[^44-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^44-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^44-3]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^44-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^44-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^44-3]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^44-4]: Abrogato dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 45
@@ -1065,7 +1066,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 <sup>3</sup> …[^45-2]
 
-[^45-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^45-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^45-2]: Abrogato dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 46
@@ -1113,7 +1114,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 Chiunque, intenzionalmente, non ottempera a una decisione passata in giudicato intimatagli dalla FINMA con la comminatoria della pena prevista dal presente articolo o a una decisione delle autorità di ricorso è punito con la multa sino a 100 000 franchi.
 
-[^48-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^48-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 49
 
@@ -1124,7 +1125,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 - a. la determinazione delle persone punibili ai sensi dell’articolo 6 della legge federale del 22 marzo 1974 sul diritto penale amministrativo esige provvedimenti d’inchiesta sproporzionati all’entità della pena; e
 - b. per le infrazioni alle disposizioni penali della presente legge o delle leggi sui mercati finanziari è prevista una multa massima di 50 000 franchi.
 
-[^49-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^49-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 50
 
@@ -1136,7 +1137,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 
 <sup>3</sup> Il rappresentante del Ministero pubblico della Confederazione e il rappresentante del DFF non devono comparire personalmente al dibattimento.
 
-[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^50-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 51
 
@@ -1156,7 +1157,7 @@ Il perseguimento delle contravvenzioni alla presente legge e alle leggi sui merc
 
 [^tit5-1]
 
-[^tit5-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit5-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 53
 
@@ -1164,7 +1165,7 @@ Il perseguimento delle contravvenzioni alla presente legge e alle leggi sui merc
 
 La procedura è disciplinata dalle disposizioni della legge federale del 20 dicembre 1968[^53-1] sulla procedura amministrativa.
 
-[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -1178,13 +1179,13 @@ La procedura è disciplinata dalle disposizioni della legge federale del 20 dice
 
 [^tit6-1]
 
-[^tit6-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit6-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 1: Esecuzione
 
 [^tit6-chap1-1]
 
-[^tit6-chap1-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit6-chap1-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 55
 
@@ -1194,7 +1195,7 @@ La procedura è disciplinata dalle disposizioni della legge federale del 20 dice
 
 <sup>2</sup> Il Consiglio federale può autorizzare la FINMA a emanare disposizioni di esecuzione della presente legge e delle leggi sui mercati finanziari negli ambiti di portata ridotta, segnatamente negli ambiti prevalentemente tecnici.
 
-[^55-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^55-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 56
 
@@ -1206,7 +1207,7 @@ La FINMA è competente per l’esecuzione della presente legge e delle leggi sui
 
 [^tit6-chap2-1]
 
-[^tit6-chap2-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit6-chap2-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 57
 
@@ -1216,7 +1217,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit6-chap3-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 58
 
@@ -1224,7 +1225,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Le domande di autorizzazione secondo l’articolo 43c capoverso 1 devono essere sottoposte alla FINMA nei primi sei mesi dopo l’entrata in vigore della modifica del 15 giugno 2018. La FINMA decide entro sei mesi dal ricevimento della domanda.
 
-[^58-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^58-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 59
 
@@ -1255,7 +1256,7 @@ La FINMA è considerata il datore di lavoro competente per i beneficiari di rend
 
 [^tit6-chap4-1]
 
-[^tit6-chap4-1]: Nuovo testo giusta l’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit6-chap4-1]: Nuovo testo giusta l’all. cifra II n. 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 61
 
