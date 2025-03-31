@@ -4,13 +4,13 @@ number: RiE 390.890
 title: Reglement über die Bestattungen in der Gemeinde Riehen
 short: Bestattungsreglement
 language: de
-version: 2021-08-01
-valid_until: 2025-03-31
-version_adopted: 2021-07-06
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2025-03-18
 adopted: 2021-07-06
 in_force: 2021-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20390.890"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5305/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bestattungsreglement | Riehen: Einwohnergemeinde
 
 (Bestattungsreglement)
 
-Vom 6. Juli 2021 (Stand 1. August 2021)
+Vom 6. Juli 2021 (Stand 1. April 2025)
 
 Der Gemeinderat Riehen,
 
@@ -62,13 +62,13 @@ beschliesst:
 
 <sup>2</sup> Eltern, die ihren Wohnsitz in Riehen haben oder Bürgerinnen und Bürger von Riehen mit Wohnsitz im Kanton Basel-Stadt sind, haben einen Anspruch nach Abs. 1 für ihre totgeborenen Kinder gemäss Art. 9 der Zivilstandsverordnung (ZStV) vom 28. April 2004 oder für ihre fehlgeborenen Kinder gemäss Art. 9a ZStV, wenn die Fehlgeburt von ihnen beim Zivilstandsamt gemeldet wurde und dieses eine entsprechende Bestätigung ausgestellt hat.
 
-<sup>3</sup> Der Umfang der unentgeltlichen Leistungen richtet sich sinngemäss nach § 5 des Bestattungsgesetzes und dem Leistungskatalog im Gebührentarif gemäss Anhang 1.
+<sup>3</sup> Der Umfang der unentgeltlichen Leistungen ergibt sich aus § 5 des Bestattungsgesetzes, den Grabarten gemäss § 6 Abs. 1 dieses Reglements und dem Leistungskatalog im Gebührentarif gemäss Anhang 1.
 
 #### § 4
 
 **Entgeltliche Bestattungen**
 
-<sup>1</sup> Bürgerinnen und Bürger von Riehen, welche im Zeitpunkt ihres Todes ihren Wohnsitz ausserhalb des Kantons und Angehörige mit Wohnsitz in Riehen haben, können auf Gesuch und gegen eine Gebühr auf dem Gottesacker Riehen bestattet werden.
+<sup>1</sup> Bürgerinnen und Bürger von Riehen, welche im Zeitpunkt ihres Todes ihren Wohnsitz ausserhalb des Kantons und Angehörige mit Wohnsitz in Riehen haben, können auf Gesuch im Umfang von § 5 Abs. 1 und § 6 Abs. 2 sowie gegen eine Gebühr gemäss Anhang 1 auf dem Gottesacker Riehen bestattet werden.
 
 <sup>2</sup> Dies gilt auch für alle übrigen Personen, wenn nachgewiesen wird, dass nahe Verwandte in Riehen wohnen oder eine enge Beziehung der verstorbenen Person zu Riehen bestand.
 
@@ -89,12 +89,15 @@ beschliesst:
 
 **Grabarten**
 
-<sup>1</sup> Es bestehen folgende Grabarten:
+<sup>1</sup> Es bestehen folgende Grabarten für die unentgeltliche Bestattung:
 
 - a) Reihengräber für Sargbeisetzung;
 - b) Reihengräber für Urnenbeisetzung;
 - c) Gemeinschaftsgrab für Aschenbeisetzungen;
-- d) Familiengräber für Urnen- und Sargbeisetzungen.
+- d) Urnennischenwand für Urnenbeisetzung;
+- e) Kinderreihengrab für Urnen- oder Sargbeisetzung.
+
+<sup>2</sup> Für die entgeltlichen Bestattungen stehen neben den Grabarten gemäss Abs. 1 auch Familiengräber für Urnen- und Sargbeisetzungen zur Verfügung.
 
 #### § 7
 
@@ -104,17 +107,31 @@ beschliesst:
 
 ## III. Ruhezeit, Grabaufhebung, Grabräumung
 
+### 1. Reihen- und Familiengräber
+
 #### § 8
 
-**Ruhezeit**
+**Ruhezeit der Reihengräber**
 
-<sup>1</sup> Die gewährleistete Ruhezeit der Reihengräber beträgt 20 Jahre.
+<sup>1</sup> Die gewährleistete Ruhezeit der Reihengräber beträgt 20 Jahre. Die Ruhezeit kann nicht verlängert werden.
 
-<sup>2</sup> Nach Ablauf der Ruhezeit können Reihengräber gemäss § 10 abgeräumt und erneut verwendet werden.
+<sup>2</sup> Die maximale Ruhezeit eines Urnenreihengrabfelds beginnt mit der Beisetzung der ersten Urne im letzten Urnenreihengrab, diejenige eines Grabfelds für Sargbeisetzungen mit der Beisetzung des letzten Sargs.
 
-<sup>3</sup> Familiengräber werden auf eine Dauer von 40 Jahren abgegeben. Eine angemessene Verlängerung des Nutzungsrechts gegen Gebühr erfolgt, wenn die Ruhezeit von 20 Jahren ab der letzten Bestattung im Familiengrab noch nicht abgelaufen ist. Nach Ablauf der letzten Ruhezeit kann das Benützungsrecht auf Antrag der Angehörigen und gegen Gebühr um 10 Jahre verlängert werden.
+<sup>3</sup> In einem bereits belegten Urnenreihengrab kann maximal eine zusätzliche Urne beigesetzt werden, wenn die Ruhezeit mindestens zehn Jahre dauert und die Angehörigen ihre Zustimmung zur Beschränkung der Ruhezeit der zusätzlichen Urne unterschriftlich bestätigen.
 
-<sup>4</sup> Wurde ein Familiengrab vor 1973 auf Friedhofdauer erworben, bleiben vorbestandene Rechte vorbehalten.
+<sup>4</sup> Durch die zusätzliche Urnenbeisetzung wird die Ruhezeit des bereits belegten Urnenreihengrabs nicht verlängert.
+
+<sup>5</sup> Nach Ablauf der maximalen Ruhezeit können Reihengrabfelder gemäss § 10 abgeräumt und erneut verwendet werden.
+
+#### § 8a
+
+**Ruhezeit der Familiengräber**
+
+<sup>1</sup> Familiengräber werden auf eine Dauer von 40 Jahren abgegeben. Eine angemessene Verlängerung des Nutzungsrechts gegen Gebühr erfolgt, wenn die Ruhezeit von 20 Jahren ab der letzten Bestattung im Familiengrab noch nicht abgelaufen ist.
+
+<sup>2</sup> Nach Ablauf der letzten Ruhezeit kann das Benützungsrecht auf Antrag der Angehörigen und gegen Gebühr um 10 Jahre verlängert werden.
+
+<sup>3</sup> Wurde ein Familiengrab vor 1973 auf Friedhofdauer erworben, bleiben vorbestandene Rechte vorbehalten.
 
 #### § 9
 
@@ -164,13 +181,45 @@ beschliesst:
 
 <sup>2</sup> Die Aufbewahrung der Urne oder die nachträgliche Beisetzung der Urne oder der offenen Asche richten sich nach § 14 des Bestattungsgesetzes.
 
-## IV. Gebühren, Grabmäler, Grabzeichen
+### 2. Urnennischenwand
+
+#### § 13a
+
+**Ruhezeit in der Urnennischenwand**
+
+<sup>1</sup> Die gewährleistete Ruhezeit einer Urnennische beträgt 20 Jahre. Die Ruhezeit kann nicht verlängert werden.
+
+<sup>2</sup> Die maximale Ruhezeit einer Vorder- bzw. Rückseite einer Urnennischenwand beginnt mit der Beisetzung der ersten Urne in der letzten Urnennische der Vorder- bzw. Rückseite einer Urnennischenwand.
+
+<sup>3</sup> Auf Wunsch der Hinterbliebenen kann ein Urnennischengrab vorzeitig aufgehoben und die Urne entnommen werden. Die Übergabe der Urne erfolgt gemäss § 13.
+
+<sup>4</sup> Der Gemeinderat kann bei Raummangel die Ruhezeit auch für Urnennischenwände gemäss § 9 abkürzen.
+
+#### § 13b
+
+**Zusätzliche Urnenbeisetzung**
+
+<sup>1</sup> In einem bereits belegten Urnennischengrab kann maximal eine zusätzliche Urne beigesetzt werden, wenn die Ruhezeit mindestens zehn Jahre dauert und die Angehörigen ihre Zustimmung zur Beschränkung der Ruhezeit der zusätzlichen Urne unterschriftlich bestätigen.
+
+<sup>2</sup> Durch die zusätzliche Urnenbeisetzung wird die Ruheizeit der bereits belegten Urnennische nicht verlängert.
+
+#### § 13c
+
+**Räumung der Urnennischenwand**
+
+<sup>1</sup> Nach Ablauf der Ruhezeit der letzten Urnennische in einer Vorder- bzw. Rückseite einer Urnennischenwand, kann die entsprechende Seite geräumt und erneut verwendet werden.
+
+<sup>2</sup> Die Räumung der Urnennischenwand wird spätestens drei Monate vorher publiziert.
+
+<sup>3</sup> Nach Ablauf der gesetzten Frist werden die beigesetzten Urnen entfernt und den Hinterbliebenen gemäss § 13 übergeben.
+
+## IV. Gebühren, Grabmäler, Grabzeichen und Urnennischen
 
 #### § 14
 
-**Gebühren für Bestattungen und Grabbesorgungen**
+**Gebühren**
 
-<sup>1</sup> Die Gebühren für die Bestattungen und Grabbesorgungen auf dem Gottesacker Riehen sind in Anhang 1 festgelegt.
+<sup>1</sup> Die Gebühren für die entgeltliche Grabbelegung und Bestattung sowie für die Grabzeichen und den Grabunterhalt auf dem Gottesacker Riehen sind in Anhang 1 festgelegt.
 
 #### § 15
 
@@ -221,6 +270,20 @@ beschliesst:
 
 <sup>2</sup> Die Angehörigen sind für den fachgerechten Unterhalt des Grabmals zuständig.
 
+#### § 18a
+
+**Urnennischen**
+
+<sup>1</sup> Es dürfen nur die im Anhang 4 aufgeführten Urnen für eine Bestattung in der Urnennischenwand verwendet werden.
+
+<sup>2</sup> Die Urnennischen werden nach der Beisetzung der Urne mit einer Abdeckplatte geschlossen. Die Abdeckplatten müssen die Bedingungen gemäss Anhang 4 erfüllen.
+
+<sup>3</sup> Die definitive Beschriftung der Abdeckplatte ist Sache der Angehörigen gemäss den Vorgaben von Anhang 4.
+
+<sup>4</sup> Das Schliessen der Urnennische erfolgt durch die zuständigen Mitarbeitenden des Gottesackers Riehen.
+
+<sup>5</sup> Es dürfen weder Konstruktionen für das Anbringen von Blumen, Kerzen usw. an den Abdeckplatten oder Urnenwänden angebracht, noch individuelle Bepflanzungen vorgenommen werden.
+
 ## V. Grabbepflanzung, Grabschmuck
 
 #### § 19
@@ -228,6 +291,8 @@ beschliesst:
 **Grabbepflanzung und Grabunterhalt**
 
 <sup>1</sup> Das Anpflanzen der Gräber und ihr gärtnerischer Unterhalt ist Sache der Angehörigen. Sie können diese Arbeiten selber vornehmen, private Unternehmen oder die Gemeindegärtnerei damit beauftragen.
+
+<sup>2</sup> Dauergrabschmuck aus Metall, Glas oder Kunststoff ist nicht zulässig. Er kann von der Leitung des Gottesacker Riehen entfernt werden.
 
 #### § 20
 
@@ -237,7 +302,7 @@ beschliesst:
 
 <sup>2</sup> Pflanzen dürfen auf Reihengräbern die Höhe von 110 cm bzw. auf Familiengräbern die Höhe von 150 cm nicht überschreiten. In der Breite dürfen sie die Begrenzung der Grabfläche nicht überschreiten.
 
-<sup>3</sup> Die Leitung des Gottesackers Riehen ist befugt, Pflanzen, welche den Vorschriften nicht entsprechen oder über die Grabfläche hinauswachsen, entschädigungslos zu entfernen oder zurückzuschneiden.
+<sup>3</sup> Die Leitung des Gottesackers Riehen ist befugt, verdorbenen Grabschmuck und Pflanzen, welche den Vorschriften nicht entsprechen oder über die Grabfläche hinauswachsen, entschädigungslos zu entfernen oder zurückzuschneiden.
 
 ## VI. Vollzug
 
