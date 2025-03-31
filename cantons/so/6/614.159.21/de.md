@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.21"
 title: "Steuerverordnung Nr. 21: Elektronisches Einreichen der Steuererklärung"
 language: de
-version: 2020-01-01
-valid_until: 2025-03-31
-version_adopted: 2019-10-29
+version: 2025-04-01
+version_adopted: 2025-03-10
 adopted: 2019-10-29
 in_force: 2020-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.21"
-pdf: "https://bgs.so.ch/api/de/versions/4885/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5539/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 21: Elektronisches Einreichen der Steuererklärung
 
-Vom 29.10.2019 (Stand 01.01.2020)
+Vom 29.10.2019 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -70,7 +69,11 @@ beschliesst:
 
 <sup>2</sup> Die Steuerdeklarationslösung erlaubt die Übernahme der aktuellen Stammdaten der steuerpflichtigen Personen und von ausgewählten, auf einem vom Kanton betriebenen Server gespeicherten Steuererklärungsdaten der Vorperiode.
 
-<sup>3</sup> Bis zur elektronischen Übermittlung der Steuererklärungsdaten können diese jederzeit geändert oder gelöscht werden.
+<sup>2<sup>bis</sup></sup> Bei der Steuerdeklarationslösung kann eine automatische Belegerkennung und -Verarbeitung eingesetzt werden. Diese basiert auf einem algorithmischen System, das durch maschinelles Lernen die eigereichten Steuerunterlagen analysieren, mit anderen Steuerdaten vergleichen, daraus Muster erkennen, Wahrscheinlichkeiten berechnen und eine automatische Zuteilung und Verarbeitung der eingereichten Steuerunterlagen und der darin enthaltenen Daten in der Steuerdeklarationslösung der steuerpflichtigen Person vornehmen kann. Für das Training des algorithmischen Systems können die von steuerpflichtigen Personen im Kanton Solothurn eingereichten Steuerunterlagen aus früheren Steuerperioden verwendet werden.
+
+<sup>2<sup>ter</sup></sup> Die durch die automatische Belegerkennung und -Verarbeitung vorerfassten oder angepassten Daten werden in der Steuerdeklarationslösung entsprechend ausgewiesen.
+
+<sup>3</sup> Bis zur elektronischen Übermittlung der Steuererklärungsdaten können diese jederzeit geändert oder gelöscht werden. Dies gilt auch für die mithilfe einer automatischen Belegerkennung und -Verarbeitung vorerfassten oder angepassten Daten.
 
 #### § 5
 
