@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über technische Anforderungen an Transportm
 short: TAFV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: de
-version: 2019-02-01
+version: 2025-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20190201/de/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20190201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/de"
 
 (TAFV 1)
 
-vom 19. Juni 1995 (Stand am 1. Februar 2019)
+vom 19. Juni 1995 (Stand am 1. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -74,25 +74,17 @@ verordnet:
 [^lvl1-lvl12-10]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^lvl1-lvl12-11]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.3 …****
+### 1.3 …
 
 [^lvl1-lvl13-1]
 
 [^lvl1-lvl13-1]: Aufgehoben durch Ziff. I der V vom 2. Sept. 1998, mit Wirkung seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.4 Verbindlicherklärung internationaler Vorschriften durch das UVEK****
+### 1.4 …
 
 [^lvl1-lvl14-1]
 
-[^lvl1-lvl14-1]: Ausdruck gemäss Art. 1 Ziff. 8 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-
-- 1\.4.1 Das Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation[^lvl1-lvl14-2] (UVEK) wird ermächtigt:
-- 1\.4.1.1 …[^lvl1-lvl14-3]
-- 1\.4.1.2 neue internationale Bau- und Ausrüstungsvorschriften, die technische Einzelheiten von untergeordneter Bedeutung betreffen, in der Schweiz verbindlich zu erklären.
-- 1\.4.2 Die mitinteressierten Behörden sind anzuhören. Bei Meinungsverschiedenheiten zwischen Bundesbehörden entscheidet der Bundesrat.
-
-[^lvl1-lvl14-2]: Ausdruck gemäss Art. 1 Ziff. 8 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
-[^lvl1-lvl14-3]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^lvl1-lvl14-1]: Aufgehoben durch Art. 5 Ziff. 2 der V vom 20. Sept. 2024 über die Kompetenzen des UVEK und des ASTRA im Zusammenhang mit der Änderung von völkerrechtlichen Verträgen im Strassenverkehrsrecht, mit Wirkung seit 1. April 2025 ([AS 2024 549](https://fedlex.data.admin.ch/eli/oc/2024/549)).
 
 ### 1.5 Einteilung der Fahrzeuge
 
@@ -101,15 +93,12 @@ verordnet:
 - 1\.5.1.1 Klasse M<sub>1</sub> Fahrzeuge mit höchstens neun Sitzplätzen einschliesslich Führer;
 - 1\.5.1.2 Klasse M<sub>2</sub> Fahrzeuge mit mehr als neun Sitzplätzen einschliesslich Führer und mit einem Garantiegewicht von höchstens 5 t;
 - 1\.5.1.3 Klasse M<sub>3</sub> Fahrzeuge mit mehr als neun Sitzplätzen einschliesslich Führer und mit einem Garantiegewicht von über 5 t.
-
-1.5.2 Klasse N
-
+- *1.5.2* *Klasse N*
 - Zur Güterbeförderung bestimmte Motorfahrzeuge mit mindestens vier Rädern:
 - 1\.5.2.1 Klasse N<sub>1</sub> Fahrzeuge mit einem Garantiegewicht von höchstens 3,5 t;
 - 1\.5.2.2 Klasse N<sub>2</sub> Fahrzeuge mit einem Garantiegewicht von über 3,5 t bis höchstens 12 t;
 - 1\.5.2.3 Klasse N<sub>3</sub> Fahrzeuge mit einem Garantiegewicht von über 12 t.
-
-1.5.3 Klasse O
+- *1.5.3* *Klasse O*
 
 *Anhänger* (einschliesslich Sattelanhänger und Zentralachsanhänger):
 
@@ -152,7 +141,7 @@ verordnet:
 [^lvl2-lvl24-4]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
 [^lvl2-lvl24-5]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Aufgehoben durch Ziff. I der V vom 21. Jan. 2015, mit Wirkung seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 
-### 2.5**** Antrieb/Abgase/Geräusche
+### 2.5 Antrieb/Abgase/Geräusche
 
 [^lvl2-lvl25-1]
 
@@ -198,7 +187,7 @@ verordnet:
 <tr><td>2.7.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
 </table>
 
-### 2.8**** Räder/Reifen
+### 2.8 Räder/Reifen
 
 [^lvl2-lvl28-1]
 
@@ -242,33 +231,33 @@ verordnet:
 [^lvl2-lvl210-5]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 [^lvl2-lvl210-6]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 
-### 2.11**** Aufbau
+### 2.11 Aufbau
 
 [^lvl2-lvl211-1]
 
 [^lvl2-lvl211-1]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
 
 <table>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2">EU-Rechtsakte</th><th colspan="15">Anzuwenden auf Fahrzeugklasse</th><th colspan="3"></th><th></th><th></th><th></th><th colspan="3"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2">M<sub>1</sub></th><th colspan="2">M<sub>2</sub></th><th colspan="2">M<sub>3</sub></th><th colspan="2">N<sub>1</sub></th><th colspan="2">N<sub>2</sub></th><th colspan="2">N<sub>3</sub></th><th colspan="2">O<sub>1</sub></th><th colspan="2">O<sub>2</sub></th><th colspan="6">O<sub>3</sub></th><th colspan="6">O<sub>4</sub></th><th></th></tr>
-<tr><td colspan="2">2.11.1</td><td colspan="2">Hinterer Unterfahrschutz/ Treibstofftank</td><td colspan="2">70/221/EWG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="6">x</td><td colspan="6">x</td><td>UNECE-R 34 UNECE-R 58</td></tr>
-<tr><td colspan="2">2.11.2</td><td colspan="2">Türverriegelung und Scharniere</td><td colspan="2">70/387/EWG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="6">x</td><td colspan="6">x</td><td>UNECE-R 11</td></tr>
-<tr><td colspan="2">2.11.3</td><td colspan="2">Aussenkanten</td><td colspan="2">74/483/EWG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 26</td></tr>
-<tr><td colspan="2">2.11.4</td><td colspan="2">Aussenkanten</td><td colspan="2">92/114/EWG</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td></td></tr>
-<tr><td colspan="2">2.11.5</td><td colspan="2">Sichtfeld</td><td colspan="2">77/649/EWG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 125</td></tr>
-<tr><td colspan="2">2.11.6</td><td colspan="2">Radabdeckungen</td><td colspan="2">78/549/EWG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td></td></tr>
-<tr><td colspan="2">2.11.6*a*</td><td colspan="2">Radabdeckungen</td><td colspan="2">1009/2010/EU</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td></td></tr>
-<tr><td colspan="2">2.11.7</td><td colspan="2">Seitenschutz</td><td colspan="2">89/297/EWG</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="6">x</td><td colspan="6">x</td><td>UNECE-R 73</td></tr>
-<tr><td colspan="2">2.11.8</td><td colspan="2">Spritzschutzsysteme</td><td colspan="2">91/226/EWG</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="6">x</td><td colspan="6">x</td><td></td></tr>
-<tr><td colspan="2">2.11.8*a*</td><td colspan="2">Spritzschutzsysteme</td><td colspan="2">109/2011/EU</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="6">x</td><td colspan="6">x</td><td></td></tr>
-<tr><td colspan="2">2.11.9</td><td colspan="2">Sicherheitsscheiben</td><td colspan="2">92/22/EWG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="6">x</td><td colspan="6">x</td><td>UNECE-R 43</td></tr>
-<tr><td colspan="2">2.11.10[^lvl2-lvl211-2]</td><td colspan="2">Seitenaufprall</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 95</td></tr>
-<tr><td colspan="2">2.11.11[^lvl2-lvl211-3]</td><td colspan="2">Frontalaufprall</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE R 94</td></tr>
-<tr><td colspan="2">2.11.12</td><td colspan="2">Vorderer Unterfahrschutz</td><td colspan="2">2000/40/EG</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 93</td></tr>
-<tr><td colspan="2">2.11.13[^lvl2-lvl211-4]</td><td colspan="2">Aufbaustruktur</td><td colspan="2">661/2009/EG</td><td colspan="2"></td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 66 UNECE-R 107</td></tr>
-<tr><td colspan="2">2.11.14[^lvl2-lvl211-5]</td><td colspan="2">Fussgängerschutz</td><td colspan="2">78/2009/EG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td>UNECE-R 127</td></tr>
-<tr><td colspan="2">2.11.15[^lvl2-lvl211-6]</td><td colspan="2">Einstieg und Manövriereigenschaften</td><td colspan="2">130/2012/EU</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td><td colspan="6"></td><td></td></tr>
-<tr><td colspan="35">\* Gesamtgewicht ≤ 3,5 t.</td></tr>
+<tr><th></th><th></th><th>EU-Rechtsakte</th><th colspan="8">Anzuwenden auf Fahrzeugklasse</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
+<tr><th></th><th></th><th></th><th>M<sub>1</sub></th><th>M<sub>2</sub></th><th>M<sub>3</sub></th><th>N<sub>1</sub></th><th>N<sub>2</sub></th><th>N<sub>3</sub></th><th>O<sub>1</sub></th><th colspan="2">O<sub>2</sub></th><th colspan="5">O<sub>3</sub></th><th colspan="5">O<sub>4</sub></th><th></th></tr>
+<tr><td>2.11.1</td><td>Hinterer Unterfahrschutz/ Treibstofftank</td><td>70/221/EWG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 34 UNECE-R 58</td></tr>
+<tr><td>2.11.2</td><td>Türverriegelung und Scharniere</td><td>70/387/EWG</td><td>x</td><td></td><td></td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 11</td></tr>
+<tr><td>2.11.3</td><td>Aussenkanten</td><td>74/483/EWG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 26</td></tr>
+<tr><td>2.11.4</td><td>Aussenkanten</td><td>92/114/EWG</td><td></td><td></td><td></td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td>2.11.5</td><td>Sichtfeld</td><td>77/649/EWG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 125</td></tr>
+<tr><td>2.11.6</td><td>Radabdeckungen</td><td>78/549/EWG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td>2.11.6*a*</td><td>Radabdeckungen</td><td>1009/2010/EU</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td>2.11.7</td><td>Seitenschutz</td><td>89/297/EWG</td><td></td><td></td><td></td><td></td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 73</td></tr>
+<tr><td>2.11.8</td><td>Spritzschutzsysteme</td><td>91/226/EWG</td><td></td><td></td><td></td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td></td></tr>
+<tr><td>2.11.8*a*</td><td>Spritzschutzsysteme</td><td>109/2011/EU</td><td></td><td></td><td></td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td></td></tr>
+<tr><td>2.11.9</td><td>Sicherheitsscheiben</td><td>92/22/EWG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 43</td></tr>
+<tr><td>2.11.10[^lvl2-lvl211-2]</td><td>Seitenaufprall</td><td>661/2009/EG</td><td>x</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 95</td></tr>
+<tr><td>2.11.11[^lvl2-lvl211-3]</td><td>Frontalaufprall</td><td>661/2009/EG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE R 94</td></tr>
+<tr><td>2.11.12</td><td>Vorderer Unterfahrschutz</td><td>2000/40/EG</td><td></td><td></td><td></td><td></td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 93</td></tr>
+<tr><td>2.11.13[^lvl2-lvl211-4]</td><td>Aufbaustruktur</td><td>661/2009/EG</td><td></td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 66 UNECE-R 107</td></tr>
+<tr><td>2.11.14[^lvl2-lvl211-5]</td><td>Fussgängerschutz</td><td>78/2009/EG</td><td>x</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 127</td></tr>
+<tr><td>2.11.15[^lvl2-lvl211-6]</td><td>Einstieg und Manövriereigenschaften</td><td>130/2012/EU</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td colspan="23">\* Gesamtgewicht ≤ 3,5 t.</td></tr>
 </table>
 
 [^lvl2-lvl211-2]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
@@ -280,20 +269,20 @@ verordnet:
 ### 2.12 Innenraum
 
 <table>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2">EU-Rechtsakte</th><th colspan="15">Anzuwenden auf Fahrzeugklasse</th><th colspan="3"></th><th></th><th></th><th></th><th colspan="3"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2">M<sub>1</sub></th><th colspan="2">M<sub>2</sub></th><th colspan="2">M<sub>3</sub></th><th colspan="2">N<sub>1</sub></th><th colspan="2">N<sub>2</sub></th><th colspan="2">N<sub>3</sub></th><th colspan="2">O<sub>1</sub></th><th colspan="3">O<sub>2</sub></th><th colspan="6">O<sub>3</sub></th><th colspan="5">O<sub>4</sub></th><th></th></tr>
-<tr><td colspan="2">2.12.1</td><td colspan="2">Innenausstattung</td><td colspan="2">74/60/EWG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 21</td></tr>
-<tr><td colspan="2">2.12.2[^lvl2-lvl212-1]</td><td colspan="2">Sitzverankerung und Festigkeit</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 17 UNECE-R 80</td></tr>
-<tr><td colspan="2">2.12.3[^lvl2-lvl212-2]</td><td colspan="2">Verankerung der Sicherheitsgurte</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 14</td></tr>
-<tr><td colspan="2">2.12.4[^lvl2-lvl212-3]</td><td colspan="2">Sicherheits- gurte sowie Kinderrückhaltevorrichtungen</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 16 UNECE-R 44</td></tr>
-<tr><td colspan="2">2.12.5[^lvl2-lvl212-4]</td><td colspan="2">Kopfstützen</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 17 UNECE-R 25</td></tr>
-<tr><td colspan="2">2.12.6[^lvl2-lvl212-5]</td><td colspan="2">Kennzeichnung der Betätigungseinrichtungen</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 121</td></tr>
-<tr><td colspan="2">2.12.7[^lvl2-lvl212-6]</td><td colspan="2">Entfrostungs- u. Trocknungsanlagen</td><td colspan="2">78/317/EWG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td></td></tr>
-<tr><td colspan="2">2.12.7*a*[^lvl2-lvl212-7]</td><td colspan="2">Entfrostungs- und Trocknungsanlagen</td><td colspan="2">672/2010/EU</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td></td></tr>
-<tr><td colspan="2">2.12.8[^lvl2-lvl212-8]</td><td colspan="2">Heizung</td><td colspan="2">2001/56/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 122</td></tr>
-<tr><td colspan="2">2.12.9[^lvl2-lvl212-9]</td><td colspan="2">Brennverhalten</td><td colspan="2">95/28/EG</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 118</td></tr>
-<tr><td colspan="2">2.12.10[^lvl2-lvl212-10]</td><td colspan="2">Emissionen aus Klimaanlagen</td><td colspan="2">2006/40/EG</td><td colspan="2">x</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">x\*</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td></td></tr>
-<tr><td colspan="35">\* Gilt nur für Fahrzeuge der Gruppe I</td></tr>
+<tr><th></th><th></th><th>EU-Rechtsakte</th><th colspan="8">Anzuwenden auf Fahrzeugklasse</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
+<tr><th></th><th></th><th></th><th>M<sub>1</sub></th><th>M<sub>2</sub></th><th>M<sub>3</sub></th><th>N<sub>1</sub></th><th>N<sub>2</sub></th><th>N<sub>3</sub></th><th>O<sub>1</sub></th><th colspan="2">O<sub>2</sub></th><th colspan="5">O<sub>3</sub></th><th colspan="5">O<sub>4</sub></th><th></th></tr>
+<tr><td>2.12.1</td><td>Innenausstattung</td><td>74/60/EWG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 21</td></tr>
+<tr><td>2.12.2[^lvl2-lvl212-1]</td><td>Sitzverankerung und Festigkeit</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 17 UNECE-R 80</td></tr>
+<tr><td>2.12.3[^lvl2-lvl212-2]</td><td>Verankerung der Sicherheitsgurte</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 14</td></tr>
+<tr><td>2.12.4[^lvl2-lvl212-3]</td><td>Sicherheits- gurte sowie Kinderrückhaltevorrichtungen</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 16 UNECE-R 44</td></tr>
+<tr><td>2.12.5[^lvl2-lvl212-4]</td><td>Kopfstützen</td><td>661/2009/EG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 17 UNECE-R 25</td></tr>
+<tr><td>2.12.6[^lvl2-lvl212-5]</td><td>Kennzeichnung der Betätigungseinrichtungen</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 121</td></tr>
+<tr><td>2.12.7[^lvl2-lvl212-6]</td><td>Entfrostungs- u. Trocknungsanlagen</td><td>78/317/EWG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td>2.12.7*a*[^lvl2-lvl212-7]</td><td>Entfrostungs- und Trocknungsanlagen</td><td>672/2010/EU</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td>2.12.8[^lvl2-lvl212-8]</td><td>Heizung</td><td>2001/56/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 122</td></tr>
+<tr><td>2.12.9[^lvl2-lvl212-9]</td><td>Brennverhalten</td><td>95/28/EG</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 118</td></tr>
+<tr><td>2.12.10[^lvl2-lvl212-10]</td><td>Emissionen aus Klimaanlagen</td><td>2006/40/EG</td><td>x</td><td></td><td></td><td>x\*</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td></td></tr>
+<tr><td colspan="23">\* Gilt nur für Fahrzeuge der Gruppe I</td></tr>
 </table>
 
 [^lvl2-lvl212-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
@@ -310,18 +299,18 @@ verordnet:
 ### 2.13 Beleuchtung
 
 <table>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2">EU- Rechtsakte</th><th colspan="15">Anzuwenden auf Fahrzeugklasse</th><th colspan="3"></th><th></th><th></th><th></th><th colspan="3"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2">M<sub>1</sub></th><th colspan="2">M<sub>2</sub></th><th colspan="2">M<sub>3</sub></th><th colspan="2">N<sub>1</sub></th><th colspan="2">N<sub>2</sub></th><th colspan="2">N<sub>3</sub></th><th colspan="2">O<sub>1</sub></th><th colspan="3">O<sub>2</sub></th><th colspan="6">O<sub>3</sub></th><th colspan="5">O<sub>4</sub></th><th></th></tr>
-<tr><td colspan="2">2.13.1</td><td colspan="2">Anbau der Beleuchtungsvorrichtungen</td><td colspan="2">76/756/EWG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 48</td></tr>
-<tr><td colspan="2">2.13.2[^lvl2-lvl213-1]</td><td colspan="2">Rückstrahler</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 3</td></tr>
-<tr><td colspan="2">2.13.3[^lvl2-lvl213-2]</td><td colspan="2">Stand-, Schluss-, Markier-, Brems-, Tagfahr- und Seitenmarkierungsleuchten</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 7 UNECE-R 87 UNECE-R 91</td></tr>
-<tr><td colspan="2">2.13.4[^lvl2-lvl213-3]</td><td colspan="2">Richtungsblinker</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 6</td></tr>
-<tr><td colspan="2">2.13.5[^lvl2-lvl213-4]</td><td colspan="2">Kontrollschildbeleuchtung</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 4</td></tr>
-<tr><td colspan="2">2.13.6[^lvl2-lvl213-5]</td><td colspan="2">Fern- und Abblendlichter, Glühlampen, Scheinwerfer mit Gasentladung und deren Lichtquellen sowie Scheinwerfer mit LED und deren Lichtquellen</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 1 UNECE-R 5 UNECE-R 8 UNECE-R 20 UNECE-R 31 UNECE-R 37 UNECE-R 98 UNECE-R 99 UNECE-R 112 UNECE-R 123 UNECE-R 128</td></tr>
-<tr><td colspan="2">2.13.7[^lvl2-lvl213-6]</td><td colspan="2">Nebelscheinwerfer</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 19</td></tr>
-<tr><td colspan="2">2.13.8[^lvl2-lvl213-7]</td><td colspan="2">Nebelschlussleuchten</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 38</td></tr>
-<tr><td colspan="2">2.13.9[^lvl2-lvl213-8]</td><td colspan="2">Rückfahrscheinwerfer</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="3">x</td><td colspan="6">x</td><td colspan="5">x</td><td>UNECE-R 23</td></tr>
-<tr><td colspan="2">2.13.10[^lvl2-lvl213-9]</td><td colspan="2">Parkleuchten</td><td colspan="2">661/2009/EG</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2">x</td><td colspan="2"></td><td colspan="3"></td><td colspan="6"></td><td colspan="5"></td><td>UNECE-R 77</td></tr>
+<tr><th></th><th></th><th>EU- Rechtsakte</th><th colspan="8">Anzuwenden auf Fahrzeugklasse</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
+<tr><th></th><th></th><th></th><th>M<sub>1</sub></th><th>M<sub>2</sub></th><th>M<sub>3</sub></th><th>N<sub>1</sub></th><th>N<sub>2</sub></th><th>N<sub>3</sub></th><th>O<sub>1</sub></th><th colspan="2">O<sub>2</sub></th><th colspan="5">O<sub>3</sub></th><th colspan="5">O<sub>4</sub></th><th></th></tr>
+<tr><td>2.13.1</td><td>Anbau der Beleuchtungsvorrichtungen</td><td>76/756/EWG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 48</td></tr>
+<tr><td>2.13.2[^lvl2-lvl213-1]</td><td>Rückstrahler</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 3</td></tr>
+<tr><td>2.13.3[^lvl2-lvl213-2]</td><td>Stand-, Schluss-, Markier-, Brems-, Tagfahr- und Seitenmarkierungsleuchten</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 7 UNECE-R 87 UNECE-R 91</td></tr>
+<tr><td>2.13.4[^lvl2-lvl213-3]</td><td>Richtungsblinker</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 6</td></tr>
+<tr><td>2.13.5[^lvl2-lvl213-4]</td><td>Kontrollschildbeleuchtung</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 4</td></tr>
+<tr><td>2.13.6[^lvl2-lvl213-5]</td><td>Fern- und Abblendlichter, Glühlampen, Scheinwerfer mit Gasentladung und deren Lichtquellen sowie Scheinwerfer mit LED und deren Lichtquellen</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 1 UNECE-R 5 UNECE-R 8 UNECE-R 20 UNECE-R 31 UNECE-R 37 UNECE-R 98 UNECE-R 99 UNECE-R 112 UNECE-R 123 UNECE-R 128</td></tr>
+<tr><td>2.13.7[^lvl2-lvl213-6]</td><td>Nebelscheinwerfer</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 19</td></tr>
+<tr><td>2.13.8[^lvl2-lvl213-7]</td><td>Nebelschlussleuchten</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 38</td></tr>
+<tr><td>2.13.9[^lvl2-lvl213-8]</td><td>Rückfahrscheinwerfer</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2">x</td><td colspan="5">x</td><td colspan="5">x</td><td>UNECE-R 23</td></tr>
+<tr><td>2.13.10[^lvl2-lvl213-9]</td><td>Parkleuchten</td><td>661/2009/EG</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td>UNECE-R 77</td></tr>
 </table>
 
 [^lvl2-lvl213-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
@@ -380,17 +369,17 @@ verordnet:
 
 ### 3.1 Strafbestimmungen
 
-- Es gelten die Strafbestimmungen des Artikels 219 VTS.
+Es gelten die Strafbestimmungen des Artikels 219 VTS.
 
 ### 3.2 Vollzug
 
-- Es gelten die Vollzugsbestimmungen der Artikel 220 und 221 VTS.
+Es gelten die Vollzugsbestimmungen der Artikel 220 und 221 VTS.
 
 ### 3.3 Übergangsbestimmungen
 
 - 3\.3.1 Die vor dem 1. Oktober 1995 in Verkehr gesetzten Fahrzeuge müssen den Anforderungen des bisherigen Rechts genügen. Die durch diese Verordnung eingeführten Erleichterungen werden gewährt, wenn diese Fahrzeuge die damit allenfalls verbundenen Bedingungen und Auflagen erfüllen. Für die Anwendung der im Anhang 2 VTS[^lvl3-lvl33-1] aufgeführten internationalen Regelungen gelten indessen die in diesen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird.
 - 3\.3.2 EG-Gesamtgenehmigungen, EG-Teilgenehmigungen, andere Genehmigungen und Konformitätszeichen, die von ausländischen Staaten nach internationalem Recht, das im Anhang 2 VTS aufgeführt ist, erteilt wurden, sowie Konformitätserklärungen nach den Artikeln 2 Buchstabe f[^lvl3-lvl33-2] und 14 TGV werden im Rahmen des Typengenehmigungsverfahrens bereits ab dem 1. Juli 1995 anerkannt.
-- [tab] 3.3.3[^lvl3-lvl33-3] Für die Anwendung der im Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird
+- 3\.3.3[^lvl3-lvl33-3] Für die Anwendung der im Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird
 
 [^lvl3-lvl33-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^lvl3-lvl33-2]: Ausdruck gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
@@ -398,8 +387,8 @@ verordnet:
 
 ### 3.4 Inkrafttreten
 
-- Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
+Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 [^t-1]: Aufgehoben durch Ziff. II der V vom 21. Aug. 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).

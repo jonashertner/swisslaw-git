@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 concernant les exigences techniques requises p
 short: OETV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: fr
-version: 2019-02-01
+version: 2025-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20190201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/fr"
 
 (OETV 1)
 
-du 19 juin 1995 (Etat le 1<sup>er</sup> février 2019)
+du 19 juin 1995 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -74,24 +74,17 @@ arrête:
 [^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^lvl1-lvl12-11]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.3**** …
+### 1.3 …
 
 [^lvl1-lvl13-1]
 
 [^lvl1-lvl13-1]: Abrogé par le ch. I de l’O du 2 sept. 1998, avec effet au 1<sup>er</sup> oct. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.4 Déclaration du DETEC**** donnant force obligatoire à des prescriptions internationales
+### 1.4 …
 
 [^lvl1-lvl14-1]
 
-[^lvl1-lvl14-1]: Nouvelle expression selon l’art. 1 ch. 8 de l’O du 22 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)). Il a été tenu compte de cette mod. dans tout le texte.
-
-- 1\.4.1 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) est habilité à:
-- 1\.4.1.1[^lvl1-lvl14-2] …
-- 1\.4.1.2 Déclarer que de nouvelles prescriptions internationales sur la construction et l’équipement, relatives à des détails techniques de moindre importance, ont force obligatoire en Suisse.
-- 1\.4.2 Les autorités intéressées seront consultées. En cas de divergences entre des autorités de la Confédération, il appartient au Conseil fédéral de trancher.
-
-[^lvl1-lvl14-2]: Abrogé par le ch. I de l’O du 21 août 2002, avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^lvl1-lvl14-1]: Abrogé par l’art. 5 ch. 2 de l’O du 20 sept. 2024 sur les compétences déléguées au DETEC et à l’OFROU d’amender des traités internationaux en matière de droit de la circulation routière, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2024 549](https://fedlex.data.admin.ch/eli/oc/2024/549)).
 
 ### 1.5 Classification des véhicules
 
@@ -100,11 +93,13 @@ arrête:
 - 1\.5.1.1 Catégorie M<sub>1</sub> Véhicules comportant neuf places assises au maximum, conducteur compris;
 - 1\.5.1.2 Catégorie M<sub>2</sub> Véhicules comportant plus de neuf places assises, conducteur compris, et dont le poids garanti ne dépasse pas 5 t;
 - 1\.5.1.3 Catégorie M<sub>3</sub> Véhicules comportant plus de neuf places assises, conducteur compris, et dont le poids garanti est supérieur à 5 t.
-- *1.5.2* *Catégorie* *N* Véhicules automobiles affectés au transport de marchandises et ayant au moins quatre roues:
+- *1.5.2* *Catégorie* *N*
+- Véhicules automobiles affectés au transport de marchandises et ayant au moins quatre roues:
 - 1\.5.2.1 Catégorie N<sub>1</sub> Véhicules dont le poids garanti n’excède pas 3,5 t;
 - 1\.5.2.2 Catégorie N<sub>2</sub> Véhicules ayant un poids garanti supérieur à 3,5 t mais ne dépassant pas 12 t;
 - 1\.5.2.3 Catégorie N<sub>3</sub> Véhicules ayant un poids garanti supérieur à 12 t.
-- *1.5.3* *Catégorie O* Remorques (y compris les semi-remorques et les remorques à essieu central):
+- *1.5.3* *Catégorie O*
+- Remorques (y compris les semi-remorques et les remorques à essieu central):
 - 1\.5.3.1 Catégorie O<sub>1</sub> Remorques dont le poids garanti ne dépasse pas 0,75 t;
 - 1\.5.3.2 Catégorie O<sub>2</sub> Remorques d’un poids garanti dépassant 0,75 t, mais ne dépassant pas 3,5 t;
 - 1\.5.3.3 Catégorie O<sub>3</sub> Remorques d’un poids garanti dépassant 3,5 t, mais ne dépassant pas 10 t;
@@ -144,7 +139,7 @@ arrête:
 [^lvl2-lvl24-4]: Introduit par le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
 [^lvl2-lvl24-5]: Introduit par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Abrogé par le ch. I de l’O du 21 janv. 2015, avec effet au 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 
-### 2.5**** Propulsion/gaz d’échappement/niveau sonore
+### 2.5 Propulsion/gaz d’échappement/niveau sonore
 
 [^lvl2-lvl25-1]
 
@@ -190,7 +185,7 @@ arrête:
 <tr><td>2.7.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td colspan="5"></td><td></td></tr>
 </table>
 
-### 2.8**** Roues/pneumatiques
+### 2.8 Roues/pneumatiques
 
 [^lvl2-lvl28-1]
 
@@ -236,7 +231,7 @@ arrête:
 [^lvl2-lvl210-5]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 [^lvl2-lvl210-6]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 
-### 2.11**** Carrosserie
+### 2.11 Carrosserie
 
 [^lvl2-lvl211-1]
 
@@ -394,6 +389,6 @@ Sont applicables les dispositions d’exécution des art. 220 et 221 OETV.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1995.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du 21 août 2002, avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).

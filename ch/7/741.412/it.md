@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 1995 concernente le esigenze tecniche per gli aut
 short: OETV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: it
-version: 2019-02-01
+version: 2025-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20190201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20190201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20190201/it"
 
 (OETV 1)
 
-del 19 giugno 1995 (Stato 1° febbraio 2019)
+del 19 giugno 1995 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -74,82 +74,36 @@ ordina:
 [^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^lvl1-lvl12-11]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.3**** …
+### 1.3 …
 
 [^lvl1-lvl13-1]
 
 [^lvl1-lvl13-1]: Abrogato dal n. I dell’O del 2 set. 1998, con effetto dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
-### 1.4 Dichiarazione del DATEC**** che attribuisce forza vincolante a prescrizioni internazionali
+### 1.4 ...
 
 [^lvl1-lvl14-1]
 
-[^lvl1-lvl14-1]: Nuova espr. giusta l’art. 1 n. 8 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)). Di detta mod. è tenuto conto in tutto il presente testo.
-
-- 1\.4.1 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni[^lvl1-lvl14-2] (DATEC) è autorizzato a:
-
-1.4.1.1[^lvl1-lvl14-3] …
-
-- 1\.4.1.2 dichiarare vincolanti in Svizzera nuove prescrizioni internazionali concernenti la costruzione e l’equipaggiamento che concernono particolari tecnici d’importanza secondaria.
-- 1\.4.2 Sono sentite le autorità interessate. In caso di divergenze d’opinione tra le autorità federali decide il Consiglio federale.
-
-[^lvl1-lvl14-2]: Nuova espr. giusta l’art. 1 n. 8 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
-[^lvl1-lvl14-3]: Abrogato dal n. I dell’O del 21 ago. 2002, con effetto dal 1° apr. 2010 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^lvl1-lvl14-1]: Abrogato dall’art. 5 n. 2 dell’O del 20 set. 2024 sulle competenze del DATEC e dell’USTRA relative alla modifica di trattati internazionali in materia di diritto della circolazione stradale, con effetto dal 1° apr. 2025 ([RU 2024 549](https://fedlex.data.admin.ch/eli/oc/2024/549)).
 
 ### 1.5 Classificazione dei veicoli
 
 - 1\.5.1 Classe M
-
-Veicoli a motore adibiti al trasporto di persone, con almeno quattro ruote:
-
-- 1\.5.1.1 Classe M <sub>1</sub>
-
-Veicoli con al massimo nove posti a sedere, compreso quello del conducente;
-
-- 1\.5.1.2 Classe M <sub>2</sub>
-
-Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito di al massimo 5 t;
-
-- 1\.5.1.3 Classe M <sub>3</sub>
-
-Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito superiore a 5 t.
-
+- Veicoli a motore adibiti al trasporto di persone, con almeno quattro ruote:
+- 1\.5.1.1 Classe M <sub>1</sub> Veicoli con al massimo nove posti a sedere, compreso quello del conducente;
+- 1\.5.1.2 Classe M <sub>2</sub> Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito di al massimo 5 t;
+- 1\.5.1.3 Classe M <sub>3</sub> Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito superiore a 5 t.
 - 1\.5.2 Classe N
-
-Veicoli adibiti al trasporto di merci, con almeno quattro ruote:
-
-- 1\.5.2.1 Classe N <sub>1</sub>
-
-Veicoli con un peso garantito di al massimo 3,5 t;
-
-- 1\.5.2.2 Classe N <sub>2</sub>
-
-Veicoli con un peso garantito di oltre 3,5 t fino al massimo 12 t;
-
-- 1\.5.2.3 Classe N <sub>3</sub>
-
-Veicoli con un peso garantito di oltre 12 t;
-
+- Veicoli adibiti al trasporto di merci, con almeno quattro ruote:
+- 1\.5.2.1 Classe N <sub>1</sub> Veicoli con un peso garantito di al massimo 3,5 t;
+- 1\.5.2.2 Classe N <sub>2</sub> Veicoli con un peso garantito di oltre 3,5 t fino al massimo 12 t;
+- 1\.5.2.3 Classe N <sub>3</sub> Veicoli con un peso garantito di oltre 12 t;
 - 1\.5.3 Classe O
-
-Rimorchi (compresi semirimorchi e rimorchi con asse centrale):
-
-- 1\.5.3.1 Classe O <sub>1</sub>
-
-Rimorchi con un peso garantito di al massimo 0,75 t;
-
-- 1\.5.3.2 Classe O <sub>2</sub>
-
-Rimorchi con un peso garantito di oltre 0,75 t fino al massimo 3,5 t;
-
-- 1\.5.3.3 Classe O <sub>3</sub>
-
-Rimorchi con un peso garantito di oltre 3,5 t fino al massimo 10 t;
-
-- 1\.5.3.4 Classe O <sub>4</sub>
-
-Rimorchi con un peso garantito di oltre 10 t;
-
+- Rimorchi (compresi semirimorchi e rimorchi con asse centrale):
+- 1\.5.3.1 Classe O <sub>1</sub> Rimorchi con un peso garantito di al massimo 0,75 t;
+- 1\.5.3.2 Classe O <sub>2</sub> Rimorchi con un peso garantito di oltre 0,75 t fino al massimo 3,5 t;
+- 1\.5.3.3 Classe O <sub>3</sub> Rimorchi con un peso garantito di oltre 3,5 t fino al massimo 10 t;
+- 1\.5.3.4 Classe O <sub>4</sub> Rimorchi con un peso garantito di oltre 10 t;
 - 1\.5.3.5 Per i semirimorchi o i rimorchi con asse centrale, il peso garantito determinante per la ripartizione in classi è pari al carico trasmesso al suolo dagli assi del rimorchio, se quest’ultimo è collegato al veicolo trattore e se è caricato sino al valore massimo tecnicamente ammesso.
 
 ## 2 Esigenze tecniche
@@ -190,7 +144,7 @@ Rimorchi con un peso garantito di oltre 10 t;
 [^lvl2-lvl24-4]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
 [^lvl2-lvl24-5]: Introdotto dal n. I dell’O del 2 set. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Abrogato dal n. I dell’O del 21 gen. 2015, con effetto dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 
-### 2.5**** Propulsione/Gas di scarico/Livello sonoro
+### 2.5 Propulsione/Gas di scarico/Livello sonoro
 
 [^lvl2-lvl25-1]
 
@@ -236,7 +190,7 @@ Rimorchi con un peso garantito di oltre 10 t;
 <tr><td>2.7.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="3"></td><td colspan="3"></td><td></td></tr>
 </table>
 
-### 2.8**** Ruote/Pneumatici
+### 2.8 Ruote/Pneumatici
 
 [^lvl2-lvl28-1]
 
@@ -281,7 +235,7 @@ Rimorchi con un peso garantito di oltre 10 t;
 [^lvl2-lvl210-6]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 [^lvl2-lvl210-7]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)). .. Di detta mod. è tenuto conto in tutto il presente testo.
 
-### 2.11**** Carrozzeria
+### 2.11 Carrozzeria
 
 [^lvl2-lvl211-1]
 
@@ -437,6 +391,6 @@ Si applicano le disposizioni d’esecuzione degli articoli 220 e 221 OETV.
 
 La presente ordinanza entra in vigore il 1° ottobre 1995.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del 21 ago. 2002, con effetto dal 1° apr. 2010 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
