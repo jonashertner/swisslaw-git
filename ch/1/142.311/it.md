@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2025-03-04
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250304/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250304-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250304/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250304/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 4 marzo 2025)
+dell’11 agosto 1999 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -248,7 +248,7 @@ La persona di fiducia deve disporre di conoscenze del diritto in materia di asil
 
 [^7a-1]
 
-[^7a-1]: Introdotto dalla cifra I 1 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Abrogato dalla cifra I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^7a-1]: Introdotto dalla cifra I n. 1 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Abrogato dalla cifra I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
 #### Art. 7b
 
@@ -1222,6 +1222,47 @@ Le persone di cui all’articolo 102*m* capoverso 3 possono essere ammesse a for
 Se il richiedente l’asilo minorenne non accompagnato non dispone di un tutore, un curatore o un rappresentante legale, la decisione di primo grado va notificata al minorenne nonché alla persona di fiducia. Il termine di ricorso inizia a decorrere il giorno seguente all’ultima notifica di tale decisione.
 
 [^53a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
+
+## Capitolo 5*a*: Conclusione di trattati internazionali legati al regolamento (UE) 2024/1351
+
+[^chap5a-1]
+
+[^chap5a-1]: Introdotto dalla cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 164](https://fedlex.data.admin.ch/eli/oc/2025/164)).
+
+#### Art. 53b
+
+<sup>1</sup>
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (UE) 2024/1351[^53b-1], sempreché tali trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* della legge del 21 marzo 1997[^53b-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA), e sempreché gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2024/1351 e riguardino gli ambiti seguenti:
+
+- a. il formulario uniforme per lo scambio di informazioni pertinenti tra Stati Dublino per l’identificazione dei familiari o parenti di un minore non accompagnato che soggiornano nel territorio di un altro Stato Dublino (art. 23 par. 7);
+- b. metodi uniformi per la consultazione e lo scambio di informazioni tra gli Stati Dublino per la determinazione dello Stato Dublino competente nel caso di minori non accompagnati (art. 25 par. 7);
+- c. metodi uniformi per la consultazione e lo scambio di informazioni tra gli Stati Dublino per la determinazione dello Stato Dublino competente nel caso di persone a carico (art. 34 par. 4);
+- d. metodi uniformi per la preparazione e la presentazione delle richieste di presa in carico (art. 39 par. 3);
+- e. la preparazione e il riesame periodico dei due elenchi nei quali figurano gli elementi di prova e le prove circostanziali per stabilire la competenza per l’esecuzione della procedura d’asilo (art. 40 par. 4);
+- f. un modulo uniforme per le risposte alle richieste di presa in carico (art. 40 par. 8);
+- g. metodi uniformi per la preparazione e la presentazione delle notifiche di ripresa in carico (art. 41 par. 5);
+- h. un modello del lasciapassare per il trasferimento nel quadro di una procedura Dublino (art. 46 par. 1);
+- i. metodi uniformi per la consultazione e lo scambio di informazioni tra gli Stati Dublino in vista del trasferimento nel quadro di una procedura Dublino (art. 46 par. 4);
+- j. un modulo uniforme per il trasferimento dei dati richiesti prima del trasferimento nel quadro di una procedura Dublino (art. 48 par. 4);
+- k. un modello del certificato sanitario comune (art. 50 par. 1);
+- l. metodi uniformi per lo scambio di informazioni relative ai dati sanitari prima del trasferimento nel quadro di una procedura Dublino (art. 50 par. 5);
+- m. linee di comunicazione elettronica sicure per lo scambio di informazioni tra le diverse autorità competenti per la procedura Dublino e tra dette autorità e l’Agenzia per l’asilo dell’Unione europea (art. 52 par. 4).
+
+<sup>2</sup>
+
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2024/1351, sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e sempreché gli atti delegati siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2024/1351 e riguardino gli ambiti seguenti:
+
+- a. l’identificazione di familiari, fratelli o sorelle o parenti dei minori non accompagnati (art. 25 par. 6 lett. a);
+- b. i criteri per accertare l’esistenza di legami familiari comprovati nel caso di minori non accompagnati (art. 25 par. 6 lett. b);
+- c. i criteri per valutare la capacità di un parente di occuparsi di un minore non accompagnato (art. 25 par. 6 lett. c);
+- d. gli elementi di cui tenere conto per valutare il legame di dipendenza (art. 34 par. 3 lett. a);
+- e. i criteri per accertare l’esistenza di legami familiari comprovati nel caso di persone a carico (art. 34 par. 3 lett. b);
+- f. i criteri per valutare la capacità dell’interessato di occuparsi della persona a carico (art. 34 par. 3 lett. c);
+- g. gli elementi di cui tener conto per valutare l’impossibilità per l’interessato di viaggiare per un periodo di tempo significativo (art. 34 par. 3 lett. d).
+
+[^53b-1]: Regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 mag. 2024, sulla gestione dell’asilo e della migrazione, che modifica i regolamenti (UE) 2021/1147 e (UE) 2021/1060 e che abroga il regolamento (UE) n. 604/2013, versione della GU L, 2024/1351, 22.5.2024.
+[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## Capitolo 6: Disposizioni finali
 
