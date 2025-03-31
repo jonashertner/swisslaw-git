@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Krankenversicherung (KVG); Bezug von Mitteln und Gegenständen im EWR
 document: Vernehmlassungsvorlage
 language: de

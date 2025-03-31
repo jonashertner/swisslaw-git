@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur l’assurance-maladie (LAMal): acquisition de moyens et appareils dans l’EEE"
 document: Projet mis en consultation
 language: fr
