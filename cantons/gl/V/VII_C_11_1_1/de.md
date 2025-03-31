@@ -3,20 +3,19 @@ canton: GL
 number: VII C/11/1/1
 title: Verordnung zum Strassengesetz
 language: de
-version: 2020-03-01
-valid_until: 2025-03-31
-version_adopted: 2020-02-25
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-C.11.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2147/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Strassengesetz
 
-Vom 21.03.2006 (Stand 01.03.2020)
+Vom 21.03.2006 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
@@ -37,7 +36,7 @@ verordnet:
 
 **Übertragung von Befugnissen des Departementes als Strassenbaubehörde**
 
-<sup>1</sup> Die nachfolgenden Befugnisse des Departementes für Bau und Umwelt als Strassenbaubehörde für die Kantonsstrassen werden gestützt auf Artikel 83 Absatz 3 des Gesetzes auf die Hauptabteilung Tiefbau übertragen:
+<sup>1</sup> Die nachfolgenden Befugnisse des Departementes für Bau und Umwelt als Strassenbaubehörde für die Kantonsstrassen werden gestützt auf Artikel 83 Absatz 3 des Gesetzes auf die Hauptabteilung Mobilität und Tiefbau übertragen:
 
 - a. Beseitigung von Verunreinigungen auf Kosten des Verursachers (Art. 26 Abs. 2 Gesetz);
 - b. Bewilligung zur Einleitung von Flüssigkeiten in die Strassenentwässerungsanlagen (Art. 27 Bst. b Gesetz);
