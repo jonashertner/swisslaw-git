@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung (Prämienverbilligung) und Totalrevision der Verordnung über den Bundesbeitrag in der Krankenversicherung (VPVK)
 document: Vernehmlassungsvorlage
 language: de

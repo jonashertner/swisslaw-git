@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entrata in vigore della modifica del 29 settembre 2023 della legge federale sull’assicurazione malattie (riduzione dei premi) e revisione totale dell’ordinanza concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie (ORPM)
 document: Progetto posto in consultazione
 language: it

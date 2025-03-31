@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entrée en vigueur de la modification du 29 septembre 2023 de la loi fédérale sur l’assurance-maladie (Réduction des primes) et révision totale de l’ordonnance sur les subsides fédéraux destinés à la réduction des primes dans l’assurance maladie (ORPM)
 document: Projet mis en consultation
 language: fr
