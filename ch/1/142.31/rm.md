@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250401-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dal 1. da schaner 2025)
+dals 26 da zercladur 1998 (versiun dal 1. d’avrigl 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -158,21 +158,57 @@ Ils requirents d’asil èn obligads da cooperar per constatar ils fatgs. En spe
 - c. inditgar tar l’audiziun, pertge ch’els dumondan asil;
 - d. designar ed inoltrar immediatamain tut ils eventuals meds da cumprova u, uschenavant che quai para raschunaivel, sa stentar da procurar quels entaifer in termin adequat;
 - e.[^8-2] collavurar tar la registraziun da las datas biometricas;
-- f.[^8-3] sa suttametter ad ina controlla medicinala ordinada dal SEM (art. 26*a*).
+- f.[^8-3] sa suttametter ad ina controlla medicinala ordinada dal SEM (art. 26*a*);
+- g.[^8-4] surdar temporarmain al SEM lur purtaders electronics da datas, sch’i n’è betg pussaivel da constatar lur identitad, lur naziunalitad u lur itinerari sin basa dals documents d’identitad u en autra moda; l’elavuraziun da las datas persunalas che resortan da purtaders electronics da datas sa drizza tenor l’artitgel 8*a*.
 
 <sup>2</sup> Dals requirents d’asil poi vegnir pretendì ch’els fetschian translatar documents en linguas estras en ina lingua uffiziala.
 
 <sup>3</sup> Ils requirents d’asil che sa trategnan en Svizra èn obligads da star a disposiziun a las autoritads federalas e chantunalas per la durada da la procedura. Els ston communitgar immediatamain lur adressa e mintga midada a l’autoritad dal chantun u da la vischnanca ch’è cumpetenta tenor il dretg chantunal (autoritad chantunala).
 
-<sup>3bis</sup> Persunas che violeschan senza motiv plausibel lur obligaziun da cooperar u che na stattan durant passa 20 dis betg a disposiziun a las autoritads d’asil, renunzian ad ina cuntinuaziun da la procedura. Il medem vala per persunas che na stattan durant passa 5 dis e senza motiv plausibel betg a disposiziun a las autoritads d’asil en in center da la Confederaziun. Las dumondas vegnan stritgadas nunformalmain. Ina nova dumonda po vegnir deponida il pli baud suenter 3 onns. Resalvada resta l’observaziun da la Convenziun dals 28 da fanadur 1951[^8-4] davart il statut dals fugitivs.[^8-5]
+<sup>3bis</sup> Persunas che violeschan senza motiv plausibel lur obligaziun da cooperar u che na stattan durant passa 20 dis betg a disposiziun a las autoritads d’asil, renunzian ad ina cuntinuaziun da la procedura. Il medem vala per persunas che na stattan durant passa 5 dis e senza motiv plausibel betg a disposiziun a las autoritads d’asil en in center da la Confederaziun. Las dumondas vegnan stritgadas nunformalmain. Ina nova dumonda po vegnir deponida il pli baud suenter 3 onns. Resalvada resta l’observaziun da la Convenziun dals 28 da fanadur 1951[^8-5] davart il statut dals fugitivs.[^8-6]
 
-<sup>4</sup> Suenter ch’ina decisiun da spedida exequibla è avant maun, èn las persunas pertutgadas obligadas da cooperar tar la procuraziun da documents da viadi valaivels.
+<sup>4</sup> ...[^8-7]
 
 [^8-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^8-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^8-3]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^8-4]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-5]: Integrà tras la cifra I da la LF dals 14 da dec. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-4]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+[^8-5]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-6]: Integrà tras la cifra I da la LF dals 14 da dec. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-7]: Abolì tras la cifra I da la LF dal 1. d’oct. 2021, cun effect dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+
+#### Art. 8a
+
+**Elavuraziun da datas persunalas che resortan da purtaders electronics da datas**[^8a-1]
+
+<sup>1</sup> Per sclerir l’identitad, la naziunalitad u l’itinerari d’in requirent d’asil po il SEM elavurar, durant la procedura d’asil, datas persunalas da quest requirent d’asil, inclusiv datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^8a-2] davart la protecziun da datas (LPD), che resortan da purtaders electronics da datas, da la «cloud» u da «servetschs da cloud».
+
+<sup>2</sup> Datas persunalas da terzas persunas dastgan vegnir elavuradas mo, sche l’elavuraziun da las datas persunalas dal requirent d’asil na basta betg per cuntanscher las finamiras tenor l’alinea 1.
+
+<sup>3</sup>
+
+Purtaders electronics da datas èn en spezial:
+
+- a. telefonins, smartphones e smartwatches, cartas SIM;
+- b. computers, laptops, notebooks, tablets;
+- c. meds d’arcunaziun, sco clavettas USB, cartas SD, DVDs e CD-ROMs.
+
+<sup>4</sup> Per mintga cas singul analisescha il SEM ordavant la necessitad e la commensurabladad da la procedura tenor quest artitgel.
+
+<sup>5</sup> Fin a l’evaluaziun pon las datas persunalas vegnir arcunadas temporarmain sin in server segir dal Departament federal da giustia e polizia (DFGP).
+
+<sup>6</sup> Cura ch’il requirent d’asil vegn supplitgà da surdar al SEM ses purtaders electronics da datas en il senn da l’artitgel 8 alinea 1 litera g, vegn el infurmà davart la procedura previsa, en spezial davart l’intent, l’andament, il gener da las datas evaluadas, la metoda d’evaluaziun, la metoda d’arcunaziun e la stizzada da las datas.
+
+<sup>7</sup> L’evaluaziun ha da princip lieu durant la fasa preparatorica (art. 26). Las datas vegnan evaluadas tras collavuraturs dal SEM en preschientscha dal requirent d’asil, nun che tal desistia u refusia dad esser preschent a l’evaluaziun. L’evaluaziun vegn protocollada. Ella vegn realisada sin fundament da las datas arcunadas temporarmain tenor l’alinea 5 e, sche necessari, sin basa da la controlla dal purtader electronic da datas.
+
+<sup>8</sup> Suenter l’evaluaziun vegnan stizzadas las datas persunalas arcunadas temporarmain tenor l’alinea 5. Tut las datas persunalas vegnan stizzadas automaticamain il pli tard 1 onn suenter l’arcunaziun temporara.
+
+<sup>9</sup> Tut las datas persunalas evaluadas ston vegnir messas en il dossier d’asil. Il requirent d’asil po s’exprimer davart l’evaluaziun.
+
+<sup>10</sup> Il Cussegl federal fixescha, tge datas tenor l’alinea 1 che vegnan eruidas, ed el regla l’access sco er ils detagls da l’evaluaziun da las datas persunalas.
+
+[^8a-1]: Integrà tras la cifra I e l’al. 1 tras la cifra III da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Guardar er disp. trans. da questa midada a la fin dal text.
+[^8a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 9
 
@@ -493,9 +529,10 @@ Requirents d’asil vegnan collocads en in center da la Confederaziun a partir d
 
 <sup>1</sup> Il SEM po surdar a terzas parts incumbensas per garantir il manaschi dals centers da la Confederaziun. Las terzas parts incumbensadas suttastattan a la medema obligaziun da discreziun sco il persunal da la Confederaziun.
 
-<sup>2</sup> Il Departament federal da giustia e polizia (DFGP) decretescha disposiziuns per garantir ina procedura speditiva ed in manaschi ordinà en ils centers da la Confederaziun.
+<sup>2</sup> Il DFGP decretescha disposiziuns per garantir ina procedura speditiva ed in manaschi ordinà en ils centers da la Confederaziun.[^24b-2]
 
 [^24b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^24b-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 
 #### Art. 24c
 
@@ -971,9 +1008,17 @@ La disposiziun da spedida cuntegna:
 
 #### Art. 47
 
-**Mesiras en cas da dimora nunenconuschenta**
+**Obligaziun da cooperaziun en il rom da la procedura da spedida e mesiras en cas da dimora nunenconuschenta**[^47-1]
 
-Sche requirents d’asil spedids fugian da l’execuziun zuppentond lur lieu da dimora, po il chantun u il SEM als laschar tschertgar tras la polizia.
+<sup>1</sup> Suenter ch’ina decisiun da spedida exequibla è avant maun, èn las persunas pertutgadas obligadas da cooperar a la procuraziun da documents da viadi valaivels.
+
+<sup>2</sup> Sche l’identitad da la persuna pertutgada n’è betg clera e sch’i n’è betg pussaivel da procurar en autra moda documents da viadi valaivels cun stentas raschunaivlas, po il SEM obligar la persuna pertutgada d’al surdar ils purtaders electronics da datas, suenter che la decisiun è entrada en vigur.
+
+<sup>3</sup> L’evaluaziun da las datas persunalas sco er la procedura sa drizzan confurm al senn tenor l’artitgel 8*a*. Las datas persunalas ch’èn necessarias per exequir la spedida pon vegnir transmessas a las autoritads dal chantun cumpetent.
+
+<sup>4</sup> Sche requirents d’asil spedids fugian da l’execuziun cun tegnair secret lur lieu da dimora, po il chantun cumpetent u il SEM als laschar tschertgar tras la polizia.
+
+[^47-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Guardar er disp. trans. da questa midada a la fin dal text.
 
 #### Art. 48
 
@@ -1533,7 +1578,7 @@ Las prestaziuns d’agid social u las prestaziuns reducidas tenor l’artitgel 8
 
 **Premissas per survegnir agid d’urgenza**[^83a-1]
 
-La persuna pertutgada ha da cooperar tar l’execuziun d’ina spedida cun vigur legala ch’è admissibla, raschunaivla e pussaivla, sco er tar l’eruida da las premissas da l’agid d’urgenza.
+La persuna pertutgada ha da cooperar a l’execuziun d’ina spedida cun vigur legala ch’è admissibla, raschunaivla e pussaivla, sco er tar l’eruida da las premissas da l’agid d’urgenza.
 
 [^83a-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
@@ -1951,13 +1996,13 @@ La procedura d’approvaziun dals plans simplifitgada vegn applitgada tar:
 
 **Elavuraziun da datas persunalas**[^96-1]
 
-<sup>1</sup> Il SEM, las autoritads da recurs sco er las organisaziuns privatas incaricadas cun incumbensas che sa basan sin questa lescha, pon elavurar u laschar elavurar datas persunalas da requirents d’asil u da persunas cun basegn da protecziun e da lur confamigliars, inclusiv datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^96-2] davart la protecziun da datas (LPD), uschenavant ch’els dovran questas datas per ademplir lur incumbensas legalas.[^96-3]
+<sup>1</sup> Il SEM, las autoritads da recurs sco er las organisaziuns privatas incaricadas cun incumbensas che sa basan sin questa lescha, pon elavurar u laschar elavurar datas persunalas d’in requirent d’asil u d’ina persuna cun basegn da protecziun e da ses confamigliars, en spezial er datas persunalas spezialmain sensiblas tenor l’artitgel 5 litera c LPD[^96-2], uschenavant ch’els dovran questas datas per ademplir lur incumbensas legalas.[^96-3]
 
 <sup>2</sup> Las datas ch’èn necessarias per cumbatter la lavur illegala dastgan vegnir communitgadas da las autoritads tenor l’alinea 1 sin fundament dals artitgels 11 e 12 da la Lescha federala dals 17 da zercladur 2005[^96-4] davart la lavur illegala.[^96-5]
 
 [^96-1]: Versiun tenor l’art. 3 cifra 2 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^96-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-3]: Versiun tenor la cifra III da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^96-4]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^96-5]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart la lavur illegala, en vigur dapi il 1. da schan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
@@ -2921,7 +2966,7 @@ Ils suandants decrets vegnan abolids:
 
 Sch’i vegn fatg in referendum cunter il Conclus federal dals 26 da zercladur 1998 davart mesiras urgentas sin il sectur d’asil e d’esters e sche quel vegn refusà en ina votaziun dal pievel, valan las disposiziuns menziunadas qua sutvart sco stritgadas:
 
-- a. artitgel 8 alinea 4 (obligaziun da cooperar tar la procuraziun da documents da viadi);
+- a. artitgel 8 alinea 4 (obligaziun da cooperar a la procuraziun da documents da viadi);
 - b. artitgel 32 alinea 2 litera a (decisiun da betg entrar en chaussa en cas ch’ils documents da viadi e d’identitad na vegnan betg surdads);
 - c. artitgel 33 (decisiun da betg entrar en chaussa en cas d’ina inoltraziun posteriura abusiva d’ina dumonda d’asil);
 - d. artitgel 32 alinea 2 litera b (decisiun da betg entrar en chaussa en cas d’in engion d’identitad); en quest cas vegn il cuntegn da l’artitgel 16 alinea 1 litera b en la versiun tenor la cifra 1 dal Conclus federal dals 22 da zercladur 1990[^122-2] davart la procedura d’asil integrà empè da la disposiziun stritgada da l’artitgel 32 alinea 2 litera b; ed
@@ -3034,6 +3079,14 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 Per las proceduras pendentas e per las pretensiuns avertas il mument da l’entrada en vigur da la midada dals 16 da december 2016 tenor ils artitgels 86 ed 87 da questa lescha e tenor l’artitgel 88 LEI[^u7-2] vala il dretg vertent.
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
+## Disposiziun transitorica da la midada dal 1. d’october 2021
+
+[^u8-1]
+
+[^u8-1]: [AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)
+
+Trais onns suenter l’entrada en vigur da la midada dal 1. d’october 2021 suttametta il Cussegl federal al parlament in rapport davart l’adequatezza, l’efficacitad e la rentabilitad da las mesiras tenor l’artitgel 8*a* e l’artitgel 47 alineas 2 e 3.
 
 Agiunta 1[^t-1]
 

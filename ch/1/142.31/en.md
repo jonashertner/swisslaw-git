@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250401/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250401-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 1 January 2025)
+of 26 June 1998 (Status as of 1 April 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -84,7 +84,7 @@ Switzerland may grant temporary protection to persons in need of protection as l
 
 #### Art. 5a
 
-**cooperation and coordination with fedpol**[^5a-1]
+**Cooperation and coordination with fedpol**[^5a-1]
 
 <sup>1</sup> The State Secretariat for Migration (SEM) shall work with fedpol within the scope of its statutory duties in order to combat terrorism.
 
@@ -160,21 +160,57 @@ Asylum seekers are obliged to cooperate in establishing the facts. They must in 
 - c. state at the interview why they are seeking asylum;
 - d. indicate any evidence in full and submit this without delay or, as far as this seems reasonable, endeavour to acquire such evidence within an appropriate period;
 - e.[^8-2] cooperate in providing biometric data;
-- f.[^8-3] undergo a medical examination ordered by SEM (Art. 26*a*).
+- f.[^8-3] undergo a medical examination ordered by SEM (Art. 26*a*);
+- g.[^8-4] temporarily hand over their electronic data carriers to SEM if their identity, nationality or itinerary can neither be established on the basis of identity documents nor by other means; the processing of personal data from electronic data carriers is governed by Article 8*a*.
 
 <sup>2</sup> Asylum seekers may be required to arrange for the translation of foreign-language documents into one of Switzerland’s official languages.
 
 <sup>3</sup> Asylum seekers who reside in Switzerland are obliged make themselves available to the federal and cantonal authorities during the procedure. They must inform the cantonal or communal authority competent under cantonal legislation (the cantonal authority) of their address and any change to this immediately.
 
-<sup>3bis</sup> Persons, who fail to cooperate without valid reason or fail to make themselves available for more than 20 days lose their right to have the procedure continued. This also applies to persons who fail for more than 5 days to make themselves available to the asylum authorities in a federal centre without a valid reason. Their applications are cancelled without a formal decision being taken. No new application may be filed within three years. The foregoing is subject to compliance with the Refugee Convention of 28 July 1951[^8-4].[^8-5]
+<sup>3bis</sup> Persons, who fail to cooperate without valid reason or fail to make themselves available for more than 20 days lose their right to have the procedure continued. This also applies to persons who fail for more than 5 days to make themselves available to the asylum authorities in a federal centre without a valid reason. Their applications are cancelled without a formal decision being taken. No new application may be filed within three years. The foregoing is subject to compliance with the Refugee Convention of 28 July 1951[^8-5].[^8-6]
 
-<sup>4</sup> In the event of an enforceable return decision being issued, the persons concerned are obliged to cooperate in obtaining valid travel documents.
+<sup>4</sup> ...[^8-7]
 
 [^8-1]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^8-2]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^8-3]: Inserted by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^8-4]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-5]: Inserted by No I of the FA of 14 Dec. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-4]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+[^8-5]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-6]: Inserted by No I of the FA of 14 Dec. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-7]: Repealed by No I of the FA of 1 Oct. 2021, with effect from 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+
+#### Art. 8a
+
+**Processing of personal data on electronic data carriers**[^8a-1]
+
+<sup>1</sup> During the asylum procedure, SEM may, for the purpose of establishing the asylum seeker’s identity, nationality or travel route, process the asylum seeker’s personal data, stored on electronic data carriers, in the cloud or by cloud services, including sensitive personal data as defined in Article 5 letter c of the Data Protection Act of 25 September 2020[^8a-2] (FADP).
+
+<sup>2</sup> Personal data pertaining to third parties may only be processed if the processing of the asylum seeker’s personal data is insufficient to achieve the objectives under paragraph 1.
+
+<sup>3</sup>
+
+Electronic data carriers are in particular:
+
+- a. mobile telephones, smartphones, smartwatches and SIM cards;
+- b. computers, laptops, notebooks and tablets;
+- c. storage media such as USB sticks, SD memory cards, DVDs and CD-ROMs.
+
+<sup>4</sup> SEM shall evaluate the necessity and proportionality of the procedure under this article for each individual case beforehand.
+
+<sup>5</sup> Pending analysis, the personal data may be stored on a secure server operated by the Federal Department of Justice and Police (FDJP).
+
+<sup>6</sup> On being requested to hand over their electronic data carriers to SEM in accordance with Article 8 paragraph 1 letter g, asylum seekers shall be informed of the intended procedure, in particular its purpose, form, the type of data analysed, the methods of analysis and storage, and the details of the deletion of the data.
+
+<sup>7</sup> The analysis is generally carried out during the preparatory phase (Art. 26). It is carried out by SEM personnel in the presence of the asylum seeker, unless the asylum seeker waives the right to be present or refuses to be present during the analysis. The analysis is recorded in a report. It is carried out on the basis of the data stored temporarily in accordance with paragraph 5 and, if necessary, by examining the electronic data carrier.
+
+<sup>8</sup> After analysis, the personal data stored in accordance with paragraph 5 shall be deleted. All personal data shall be automatically deleted no later than one year after it has been stored.
+
+<sup>9</sup> All data that have been analysed shall be stored in the asylum file. The asylum seeker may comment on the analysis.
+
+<sup>10</sup> The Federal Council shall specify which data may be collected in accordance with paragraph 1 and shall regulate access and the details of the analysis of the personal data.
+
+[^8a-1]: Inserted by No I and para. 1 of No III of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). See also the transitional provision at the end of the text.
+[^8a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 9
 
@@ -495,9 +531,10 @@ Asylum seekers shall be accommodated in a federal centre from submission of a re
 
 <sup>1</sup> SEM may task third parties with ensuring the safe operation of federal centres. These third parties shall be bound by the same confidentiality requirement as federal personnel.
 
-<sup>2</sup> The Federal Department of Justice and Police (FDJP) shall adopt provisions which ensure that procedure is swift and the operation is orderly in the federal centres.
+<sup>2</sup> The FDJP shall adopt provisions which ensure that procedure is swift and the operation is orderly in the federal centres.[^24b-2]
 
 [^24b-1]: Inserted by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^24b-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 
 #### Art. 24c
 
@@ -893,7 +930,7 @@ Any person who applies for asylum in Switzerland may stay in Switzerland until t
 
 **Removal and temporary admission**[^44-1]
 
-<sup>1</sup> If SEM rejects or dismisses the application for asylum, it shall normally issue a return decision and enforce removal from Switzerland; however, in doing so it shall take account of the principle of family unity. In addition, Articles 83 and 84 FNIA[^44-2] apply to the enforcement of the removal.
+<sup>1</sup> If SEM rejects or dismisses the application for asylum, it shall normally issue a return ruling and enforce removal from Switzerland; however, in doing so it shall take account of the principle of family unity. In addition, Articles 83 and 84 FNIA[^44-2] apply to the enforcement of the removal.
 
 [^44-1]: Amended by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^44-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
@@ -906,11 +943,11 @@ Any person who applies for asylum in Switzerland may stay in Switzerland until t
 
 #### Art. 45
 
-**Return decision[^45-1]**
+**Return ruling[^45-1]**
 
 <sup>1</sup>
 
-The return decision shall indicate:
+The return ruling shall indicate:
 
 - a.[^45-2] subject to international agreements, in particular the Dublin Association Agreements[^45-3], the obligation of the asylum seeker to leave Switzerland and the Schengen area and the obligation to travel to the country of origin or to another state outside the Schengen area that will accept the person concerned;
 - b.[^45-4] subject to international agreements, in particular the Dublin Association Agreements, the time by which the asylum seeker must have left Switzerland and the Schengen area; where temporary admission has been granted, the departure date is determined when the decision is made to revoke temporary admission;
@@ -919,13 +956,13 @@ The return decision shall indicate:
 - e. if applicable, the ordering of an alternative measure instead of enforcing the removal order;
 - f. the designation of the canton responsible for the enforcement of the removal order or the alternative measure.
 
-<sup>2</sup> On issuing the return decision, an appropriate departure period of between seven and thirty days must be set*.* The period is seven days in the case of decisions taken under the accelerated procedure. Under the extended procedure, the period is between seven and thirty days*.*[^45-6]
+<sup>2</sup> On issuing the return ruling, an appropriate departure period of between seven and thirty days must be set*.* The period is seven days in the case of decisions taken under the accelerated procedure. Under the extended procedure, the period is between seven and thirty days*.*[^45-6]
 
 <sup>2bis</sup> A longer period must be set or the departure period extended if special circumstances such as the family situation, health problems or a long period of stay so require*.*[^45-7]
 
 <sup>3</sup> The return decision must be enforced immediately or a departure period of less than seven days may be set where the person concerned is being removed under the Dublin Association Agreements.[^45-8]
 
-<sup>4</sup> The asylum seeker must be provided with an information sheet with an explanation of the return decision.[^45-9]
+<sup>4</sup> The asylum seeker must be provided with an information sheet with an explanation of the return ruling.[^45-9]
 
 [^45-1]: Amended by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^45-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
@@ -945,7 +982,7 @@ The return decision shall indicate:
 
 <sup>2</sup> The removal of refugees shall be recorded in the SIS by the authority that has issued the return decision or expulsion order under Article 64 or 68 FNIA[^45a-3].
 
-<sup>3</sup> Articles 68*b*–68*e* FNIA apply mutatis mutandis.
+<sup>3</sup> Articles 68*b*–68*e* FNIA apply *mutatis mutandis*.
 
 [^45a-1]: Inserted by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^45a-2]: Directive 2008/115/EC of the European Parliament and the Council of 16 Dec. 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals, last amended by OJ L 348 of 24.12.2008, p. 98.
@@ -955,13 +992,13 @@ The return decision shall indicate:
 
 **Enforcement by the cantons**
 
-<sup>1</sup> The canton of allocation is obliged to enforce the return decision.[^46-1]
+<sup>1</sup> The canton of allocation is obliged to enforce the return ruling.[^46-1]
 
 <sup>1bis</sup> During an asylum seeker’s stay in a federal centre, the canton responsible for enforcing the removal is the canton where the centre is located. For persons defined under Article 27 paragraph 4, the canton concerned remains responsible for enforcing removal even after the person’s stay in a federal centre. The Federal Council may in special circumstances allow for a canton other than the canton concerned to be allocated this responsibility.[^46-2]
 
 <sup>1ter</sup> In the case of a multiple request under Article 111*c*, the canton responsible under the previous asylum and return procedure remains responsible for removal and administering emergency care.[^46-3]
 
-<sup>2</sup> If enforcement provides impossible for technical reasons, the canton shall apply to SEM for a system for monitoring the enforcement of removal.[^46-4]
+<sup>2</sup> If enforcement provides impossible for technical reasons, the canton shall apply to SEM for temporary admission to be granted.[^46-4]
 
 <sup>3</sup> SEM supervises enforcement and, working with the cantons, shall establish a system for monitoring the enforcement of removal.[^46-5]
 
@@ -973,9 +1010,17 @@ The return decision shall indicate:
 
 #### Art. 47
 
-**Measures where the place of stay is unknown**
+**Duty to cooperate with the return procedure and measures where the place of stay is unknown**[^47-1]
 
-If asylum seekers subject to a return decision avoid enforcement of removal by concealing their place of stay, the canton or SEM may arrange for their registration in the police system for tracing missing persons.
+<sup>1</sup> Once an enforceable return decision has been issued, the persons concerned are obliged to cooperate in obtaining valid travel documents.
+
+<sup>2</sup> If the identity of the person concerned has not been established and if travel documents cannot reasonably be obtained by any other means, SEM may require the person concerned to hand over electronic data carriers after the decision has become legally enforceable.
+
+<sup>3</sup> The analysis of the personal data and the evaluation of the procedure are based on Article 8*a*. Personal data required to enforce return may be forwarded to the authorities of the competent canton.
+
+<sup>4</sup> If asylum seekers subject to a return decision avoid enforcement of removal by concealing their place of stay, the competent canton or SEM may arrange for their registration in the police system for tracing missing persons.
+
+[^47-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). See also the transitional provision at the end of the text.
 
 #### Art. 48
 
@@ -1100,7 +1145,7 @@ The legal status of refugees in Switzerland is governed by the law applicable to
 
 Persons to whom Switzerland has granted asylum or who fulfil the requirements for refugee status are deemed in their relations with all federal and cantonal authorities to be refugees within the meaning of this Act and the Convention of 28 July 1951[^59-2] relating to the Status of Refugees.
 
-[^59-1]: Amended by Annex No 2 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^59-1]: Amended by Annex No 2 of the FA of 20 March 2015 (Implementation of Art. 121 paras 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^59-2]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. 60
@@ -1425,7 +1470,7 @@ The provisions of Chapters 3 and 4 on spouses apply mutatis mutandis to register
 
 **Responsibility in federal centres**[^80-1]
 
-<sup>1</sup> The Confederation shall provide social assistance or emergency aid to persons staying in Switzerland on the basis of this Act and who are accommodated in a federal centre or in an initial integration centre for groups of refugees. It shall work with the canton concerned to ensure that health-care and primary education are provided. It may delegate these tasks entirely or in part to third parties. Articles 81–83*a* apply mutatis mutandis.
+<sup>1</sup> The Confederation shall provide social assistance or emergency aid to persons staying in Switzerland on the basis of this Act and who are accommodated in a federal centre or in an initial integration centre for groups of refugees. It shall work with the canton concerned to ensure that healthcare and primary education are provided. It may delegate these tasks entirely or in part to third parties. Articles 81–83*a* apply mutatis mutandis.
 
 <sup>2</sup> SEM shall reimburse third party contractors in respect of the administrative and staff costs that they incur in fulfilling their tasks under paragraph 1. The payments shall be determined at a flat rate. By way of exception, the payments may be based on the actual costs, in particularly when reimbursing individual non-recurring costs.
 
@@ -1685,7 +1730,7 @@ It shall determine the structure and the duration of the flat-rate payments as w
 
 **Further subsidies**
 
-<sup>1</sup> and <sup>2</sup>...[^91-1]
+<sup>1 and <sup>2</sup></sup> ...[^91-1]
 
 <sup>2bis</sup> The Confederation shall pay the cantons a flat-rate subsidy towards the administrative costs incurred in respect of persons seeking asylum and persons in need of protection without a residence permit.[^91-2]
 
@@ -1953,13 +1998,13 @@ A simplified planning approval procedure is applied in the case of:
 
 **Processing of personal data**[^96-1]
 
-<sup>1</sup> Provided they require the data for the fulfilment of their legal duties, SEM, the appeal authorities and private organisations entrusted with duties under this Act may process or have processed the personal data of persons seeking asylum or in need of protection and their dependants, including sensitive data as defined in Article 5 letter c of the Data Protection Act of 25 September2020[^96-2] (FADP).[^96-3]
+<sup>1</sup> Provided they require the data for the fulfilment of their legal duties, SEM, the appeal authorities and private organisations entrusted with duties under this Act may process or have processed the personal data pertaining to persons seeking asylum or in need of protection and their dependants, including sensitive data as defined in Article 5 letter c FADP[^96-2].[^96-3]
 
 <sup>2</sup> Data required to combat illegal employment may be disclosed by the authorities under paragraph 1 in accordance with Articles 11 and 12 of the Federal Act of 17 June 2005[^96-4] on Measures to Combat Illegal Employment.[^96-5]
 
 [^96-1]: Amended by Art. 3 No 2 of the FD of 17 Dec. 2004 on the Approval and the Implementation of the Bilateral Agreements between Switzerland and the EU on Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^96-3]: Amended by Annex 1 No II 5 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-3]: Amended by No III of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^96-4]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^96-5]: Inserted by Annex No 2 of the FA of 17 June 2005 on Measures to Combat Illegal Employment, in force since 1 Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
@@ -1967,9 +2012,9 @@ A simplified planning approval procedure is applied in the case of:
 
 **Disclosure of personal data to the native country or country of origin**
 
-<sup>1</sup> Personal data of asylum seekers, recognised refugees and persons in need of protection may not be disclosed to their native country or country of origin if the person concerned or their dependants would be endangered as a result. No information may be disclosed regarding an application for asylum.[^97-1]
+<sup>1</sup> Personal data pertaining to asylum seekers, recognised refugees and persons in need of protection may not be disclosed to their native country or country of origin if the person concerned or their dependants would be endangered as a result. No information may be disclosed regarding an application for asylum.[^97-1]
 
-<sup>2</sup> The authority responsible for the organising departure may contact the native country or the country of origin to acquire the travel documents required for the enforcement of the return decision if the refugee status has been refused in the first instance.[^97-2]
+<sup>2</sup> The authority responsible for the organising departure may contact the native country or the country of origin to acquire the travel documents required for the enforcement of the return ruling if the refugee status has been refused in the first instance.[^97-2]
 
 <sup>3</sup>
 
@@ -2213,19 +2258,19 @@ For the taxation of the financial compensatory payments to the cantons, the Fede
 
 **Eurodac**
 
-<sup>1</sup> Within the framework of the application of the Dublin Association Agreements[^102abis-1] SEM is responsible for dealings with the Central Unit of the Eurodac System.
+<sup>1</sup> Within the framework of the application of the Dublin Association Agreements[^102abis-1], SEM is responsible for dealings with the Central Unit of the Eurodac System.
 
 <sup>2</sup>
 
 It shall transmit the following data to the Central Unit:
 
-- [tab] a. the place and date of the application in Switzerland;
-- [tab] b. the sex of the applicant;
-- [tab] c. the fingerprints taken in accordance with Article 99 paragraph 1;
-- [tab] d. the Swiss code number for the fingerprints;
-- [tab] e. the date on which the fingerprints were taken;
-- [tab] f. the date on which the data was transmitted to the Central Unit.
-- [tab] g. the user password.[^102abis-2]
+- a. the place and date of the application in Switzerland;
+- b. the sex of the applicant;
+- c. the fingerprints taken in accordance with Article 99 paragraph 1;
+- d. the Swiss code number for the fingerprints;
+- e. the date on which the fingerprints were taken;
+- f. the date on which the data was transmitted to the Central Unit.
+- g. the user password.[^102abis-2]
 
 <sup>2bis</sup> If the condition of the fingers of the person concerned do not allow fingerprints to be taken, the fingerprints must be transmitted to the Central Unit within 48 hours of fingerprints of acceptable quality being taken. If it is impossible to take fingerprints due to the state of health of the person concerned or due to public health measures, the fingerprints must be transmitted to the Central Unit within 48 hours of the impediment ceasing to apply.[^102abis-3]
 
@@ -2538,7 +2583,7 @@ The following are also independently contestable, provided they may cause perman
 <sup>3</sup> ...[^107-3]
 
 [^107-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^107-2]: Amended by Annex No II 1 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758), [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^107-2]: Amended by Annex No II 1 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758), [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^107-3]: Repealed by No I of the FA of 16 Dec. 2005, with effect from 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 107a
@@ -2967,7 +3012,7 @@ Commencement date: 1 October 1999[^123-1]
 
 [^u2-1]
 
-[^u2-1]: [AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106). Para. 1 in force since 1 Jan. 2007 and paras. 2–4 in force since 1 Jan. 2008.
+[^u2-1]: [AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106). Para. 1 in force since 1 Jan. 2007 and paras 2–4 in force since 1 Jan. 2008.
 
 <sup>1</sup> The new law applies to the procedures pending on commencement of this amendment to the Act.
 
@@ -3039,6 +3084,14 @@ Proceedings that are pending and claims that are outstanding under Articles 86 a
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
+## Transitional Provision to the Amendment of 1 October 2021
+
+[^u8-1]
+
+[^u8-1]: [AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)
+
+Three years after the Amendment of 1 October 2021 comes into force, the Federal Council shall submit a report to parliament on the expediency, efficacy and cost efficiency of the measures in accordance with Article 8*a* and Article 47 paragraphs 2 and 3.
+
 Annex 1[^t-1]
 
 (Art. 21 para. 3)
@@ -3067,4 +3120,4 @@ Annex 2[^t-2]
 
 ...[^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: The amendments may be consulted under [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358).
+[^annex2-lvlu1-1]: The amendments may be consulted under [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)..

@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250401-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. Januar 2025)
+vom 26. Juni 1998 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -156,21 +156,57 @@ Asylsuchende sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirke
 - c. bei der Anhörung angeben, weshalb sie um Asyl nachsuchen;
 - d. allfällige Beweismittel vollständig bezeichnen und sie unverzüglich einreichen oder, soweit dies zumutbar erscheint, sich darum bemühen, sie innerhalb einer angemessenen Frist zu beschaffen;
 - e.[^8-2] bei der Erhebung der biometrischen Daten mitwirken;
-- f.[^8-3] sich einer vom SEM angeordneten medizinischen Untersuchung unterziehen (Art. 26*a*).
+- f.[^8-3] sich einer vom SEM angeordneten medizinischen Untersuchung unterziehen (Art. 26*a*);
+- g.[^8-4] dem SEM ihre elektronischen Datenträger vorübergehend aushändigen, wenn ihre Identität, die Nationalität oder der Reiseweg weder gestützt auf Identitätsausweise noch auf andere Weise festgestellt werden kann; die Bearbeitung der Personendaten aus elektronischen Datenträgern richtet sich nach Artikel 8*a*.
 
 <sup>2</sup> Von Asylsuchenden kann verlangt werden, für die Übersetzung fremdsprachiger Dokumente in eine Amtssprache besorgt zu sein.
 
 <sup>3</sup> Asylsuchende, die sich in der Schweiz aufhalten, sind verpflichtet, sich während des Verfahrens den Behörden von Bund und Kantonen zur Verfügung zu halten. Sie müssen ihre Adresse und jede Änderung der nach kantonalem Recht zuständigen Behörde des Kantons oder der Gemeinde (kantonale Behörde) sofort mitteilen.
 
-<sup>3bis</sup> Personen, die ohne triftigen Grund ihre Mitwirkungspflicht verletzen oder den Asylbehörden während mehr als 20 Tagen nicht zur Verfügung stehen, verzichten damit auf eine Weiterführung des Verfahrens. Dasselbe gilt für Personen, die den Asylbehörden in einem Zentrum des Bundes ohne triftigen Grund während mehr als 5 Tagen nicht zur Verfügung stehen. Die Gesuche werden formlos abgeschrieben. Ein neues Gesuch kann frühestens nach drei Jahren deponiert werden. Vorbehalten bleibt die Einhaltung der Flüchtlingskonvention vom 28. Juli 1951[^8-4].[^8-5]
+<sup>3bis</sup> Personen, die ohne triftigen Grund ihre Mitwirkungspflicht verletzen oder den Asylbehörden während mehr als 20 Tagen nicht zur Verfügung stehen, verzichten damit auf eine Weiterführung des Verfahrens. Dasselbe gilt für Personen, die den Asylbehörden in einem Zentrum des Bundes ohne triftigen Grund während mehr als 5 Tagen nicht zur Verfügung stehen. Die Gesuche werden formlos abgeschrieben. Ein neues Gesuch kann frühestens nach drei Jahren deponiert werden. Vorbehalten bleibt die Einhaltung der Flüchtlingskonvention vom 28. Juli 1951[^8-5].[^8-6]
 
-<sup>4</sup> Nach Vorliegen eines vollziehbaren Wegweisungsentscheides sind die betroffenen Personen verpflichtet, bei der Beschaffung gültiger Reisepapiere mitzuwirken.
+<sup>4</sup> ...[^8-7]
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^8-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^8-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^8-4]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-4]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+[^8-5]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-7]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+
+#### Art. 8a
+
+**Bearbeitung von Personendaten aus elektronischen Datenträgern**[^8a-1]
+
+<sup>1</sup> Das SEM kann während der Dauer des Asylverfahrens zur Abklärung der Identität, der Nationalität und des Reiseweges Personendaten der betroffenen asylsuchenden Person, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^8a-2] (DSG) aus elektronischen Datenträgern, aus der «Cloud» oder aus «Cloud-Diensten» bearbeiten.
+
+<sup>2</sup> Personendaten von Drittpersonen dürfen nur bearbeitet werden, wenn die Bearbeitung der Personendaten der asylsuchenden Person nicht ausreicht, um die Zielsetzungen nach Absatz 1 zu erreichen.
+
+<sup>3</sup>
+
+Elektronische Datenträger sind insbesondere:
+
+- a. Mobiltelefone, Smartphones und -watches, SIM-Karten;
+- b. Computer, Laptops, Notebooks, Tablets;
+- c. Speichermedien wie USB-Sticks, SD-Speicherkarten, DVD und CD-ROM.
+
+<sup>4</sup> Das SEM analysiert für jeden Einzelfall vorgängig die Notwendigkeit und Verhältnismässigkeit des Verfahrens nach diesem Artikel.
+
+<sup>5</sup> Bis zur Auswertung können die Personendaten auf einem gesicherten Server des Eidgenössischen Justiz- und Polizeidepartements (EJPD) zwischengespeichert werden.
+
+<sup>6</sup> Zum Zeitpunkt, zu dem die asylsuchende Person aufgefordert wird, im Sinne von Artikel 8 Absatz 1 Buchstabe g ihre elektronischen Datenträger dem SEM auszuhändigen, wird sie über das vorgesehene Verfahren informiert, insbesondere über dessen Zweck, Ablauf, die Art der ausgewerteten Daten, die Auswertungsmethode, die Speichermethode und die Löschung der Daten.
+
+<sup>7</sup> Die Auswertung erfolgt grundsätzlich während der Vorbereitungsphase (Art. 26). Sie wird durch Mitarbeitende des SEM in Anwesenheit der asylsuchendenden Person durchgeführt, ausser diese verzichtet auf die Anwesenheit bei der Auswertung oder weigert sich, bei der Auswertung anwesend zu sein. Die Auswertung wird in einem Protokoll festgehalten. Sie erfolgt auf der Grundlage der nach Absatz 5 zwischengespeicherten Daten und falls nötig anhand der Prüfung des elektronischen Datenträgers.
+
+<sup>8</sup> Nach der Auswertung werden die nach Absatz 5 zwischengespeicherten Personendaten gelöscht. Alle Personendaten werden spätestens ein Jahr nach der Zwischenspeicherung automatisch gelöscht.
+
+<sup>9</sup> Alle ausgewerteten Personendaten sind im Asyldossier abzulegen. Die asylsuchende Person kann sich zur Auswertung äussern.
+
+<sup>10</sup> Der Bundesrat legt fest, welche Daten nach Absatz 1 erhoben werden, und regelt den Zugriff sowie die Einzelheiten der Auswertung der Personendaten.
+
+[^8a-1]: Eingefügt durch Ziff. I und Abs. 1 durch Ziff. III des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^8a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 9
 
@@ -491,9 +527,10 @@ Eine Unterbringung von Asylsuchenden in einem Zentrum des Bundes erfolgt ab Einr
 
 <sup>1</sup> Das SEM kann Dritte mit Aufgaben zur Sicherstellung des Betriebs der Zentren des Bundes beauftragen. Die beauftragten Dritten unterstehen der gleichen Schweigepflicht wie das Bundespersonal.
 
-<sup>2</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) erlässt Bestimmungen, um ein rasches Verfahren und einen geordneten Betrieb in den Zentren des Bundes sicherzustellen.
+<sup>2</sup> Das EJPD erlässt Bestimmungen, um ein rasches Verfahren und einen geordneten Betrieb in den Zentren des Bundes sicherzustellen.[^24b-2]
 
 [^24b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^24b-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 
 #### Art. 24c
 
@@ -969,9 +1006,17 @@ Die Wegweisungsverfügung enthält:
 
 #### Art. 47
 
-**Massnahmen bei unbekanntem Aufenthalt**
+**Mitwirkungspflicht im Rahmen des Wegweisungsverfahrens und Massnahmen bei unbekannten Aufenthalt**[^47-1]
 
-Entziehen sich weggewiesene Asylsuchende durch Verheimlichung ihres Aufenthaltsortes dem Vollzug, so kann der Kanton oder das SEM sie polizeilich ausschreiben lassen.
+<sup>1</sup> Nach Vorliegen eines vollziehbaren Wegweisungsentscheides sind die betroffenen Personen verpflichtet, bei der Beschaffung gültiger Reisepapiere mitzuwirken.
+
+<sup>2</sup> Steht die Identität der betroffenen Person nicht fest und können gültige Reisepapiere nicht mit zumutbarem Aufwand auf anderen Wegen beschafft werden, so kann das SEM die betroffene Person nach Eintritt der Rechtskraft verpflichten, elektronische Datenträger auszuhändigen.
+
+<sup>3</sup> Die Auswertung der Personendaten sowie das Verfahren richten sich sinngemäss nach Artikel 8*a*. Die für den Vollzug der Wegweisung notwendigen Personendaten können an die Behörden des zuständigen Kantons weitergeleitet werden.
+
+<sup>4</sup> Entziehen sich weggewiesene Asylsuchende durch Verheimlichung ihres Aufenthaltsortes dem Vollzug, so kann der zuständige Kanton oder das SEM sie polizeilich ausschreiben lassen.
+
+[^47-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 48
 
@@ -1949,13 +1994,13 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 **Bearbeiten von Personendaten**[^96-1]
 
-<sup>1</sup> Das SEM, die Beschwerdebehörden sowie die mit Aufgaben nach diesem Gesetz beauftragten privaten Organisationen können Personendaten von asylsuchenden oder schutzbedürftigen Personen und ihren Angehörigen, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^96-2] (DSG), bearbeiten oder bearbeiten lassen, soweit sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.[^96-3]
+<sup>1</sup> Das SEM, die Beschwerdebehörden sowie die mit Aufgaben nach diesem Gesetz beauftragten privaten Organisationen können Personendaten, insbesondere auch besonders schützenswerte Daten nach Artikel 5 Buchstabe c DSG[^96-2], einer asylsuchenden oder schutzbedürftigen Person und ihrer Angehörigen bearbeiten oder bearbeiten lassen, soweit sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.[^96-3]
 
 <sup>2</sup> Die zur Bekämpfung der Schwarzarbeit erforderlichen Daten dürfen von den Behörden nach Absatz 1 gemäss den Artikeln 11 und 12 des Bundesgesetzes vom 17. Juni 2005[^96-4] gegen die Schwarzarbeit bekannt gegeben werden.[^96-5]
 
 [^96-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^96-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-3]: Fassung gemäss Ziff. III des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^96-4]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^96-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
@@ -3032,6 +3077,14 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 Für die im Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2016 hängigen Verfahren und offenen Forderungen nach den Artikeln 86 und 87 dieses Gesetzes und nach Artikel 88 AIG[^u7-2] gilt das bisherige Recht.
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
+## Übergangsbestimmung zur Änderung vom 1. Oktober 2021
+
+[^u8-1]
+
+[^u8-1]: [AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)
+
+Der Bundesrat legt dem Parlament drei Jahre nach Inkrafttreten der Änderung vom 1. Oktober 2021 einen Bericht zur Zweckmässigkeit, Wirksamkeit und Wirtschaftlichkeit der Massnahmen nach Artikel 8*a* und Artikel 47 Absätze 2 und 3 vor.
 
 Anhang 1[^t-1]
 

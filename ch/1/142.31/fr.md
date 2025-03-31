@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250401-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250101/fr"
 
 (LAsi)
 
-du 26 juin 1998 (État le 1<sup>er</sup> janvier 2025)
+du 26 juin 1998 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -157,21 +157,57 @@ Le requérant est tenu de collaborer à la constatation des faits. Il doit en pa
 - c. exposer, lors de l’audition, les raisons qui l’ont incité à demander l’asile;
 - d. désigner de façon complète les éventuels moyens de preuve dont il dispose et les fournir sans retard, ou s’efforcer de se les procurer dans un délai approprié, pour autant qu’on puisse raisonnablement l’exiger de lui;
 - e.[^8-2] collaborer à la saisie de ses données biométriques;
-- f.[^8-3] se soumettre à un examen médical ordonné par le SEM (art. 26*a*).
+- f.[^8-3] se soumettre à un examen médical ordonné par le SEM (art. 26*a*);
+- g.[^8-4] remettre temporairement au SEM les supports électroniques de données en sa possession, si son identité, sa nationalité ou son itinéraire ne peuvent pas être établis sur la base de documents d’identité, ni par d’autres moyens; le traitement des données personnelles issues de ces supports électroniques est régi par l’art. 8*a*.
 
 <sup>2</sup> Il peut être exigé du requérant qu’il fasse traduire dans une langue officielle des documents rédigés dans une langue autre.
 
 <sup>3</sup> Pendant la procédure, le requérant qui séjourne en Suisse doit se tenir à la disposition des autorités fédérales et cantonales. Il doit communiquer immédiatement son adresse et tout changement de celle-ci à l’autorité du canton ou de la commune compétente en vertu du droit cantonal (autorité cantonale).
 
-<sup>3bis</sup> Le requérant qui, sans raison valable, ne respecte pas son obligation de collaborer ou ne se tient pas à la disposition des autorités compétentes en matière d’asile pendant plus de vingt jours renonce de facto à la poursuite de la procédure. Il en va de même pour le requérant qui, sans raison valable, ne se tient pas à la disposition des autorités compétentes en matière d’asile dans un centre de la Confédération pendant plus de cinq jours. Dans un cas comme dans l’autre, la demande est classée sans décision formelle. Le requérant peut déposer une nouvelle demande au plus tôt après trois ans. Le respect de la Convention du 28 juillet 1951 relative au statut des réfugiés[^8-4] est réservé.[^8-5]
+<sup>3bis</sup> Le requérant qui, sans raison valable, ne respecte pas son obligation de collaborer ou ne se tient pas à la disposition des autorités compétentes en matière d’asile pendant plus de vingt jours renonce de facto à la poursuite de la procédure. Il en va de même pour le requérant qui, sans raison valable, ne se tient pas à la disposition des autorités compétentes en matière d’asile dans un centre de la Confédération pendant plus de cinq jours. Dans un cas comme dans l’autre, la demande est classée sans décision formelle. Le requérant peut déposer une nouvelle demande au plus tôt après trois ans. Le respect de la Convention du 28 juillet 1951 relative au statut des réfugiés[^8-5] est réservé.[^8-6]
 
-<sup>4</sup> Les personnes qui font l’objet d’une décision de renvoi exécutoire sont tenues de collaborer à l’obtention de documents de voyage valables.
+<sup>4</sup> …[^8-7]
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^8-2]: Introduite par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^8-3]: Introduite par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^8-4]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-5]: Introduit par le ch. I de la LF du 14 déc. 2012 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-4]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+[^8-5]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-6]: Introduit par le ch. I de la LF du 14 déc. 2012 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^8-7]: Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+
+#### Art. 8a
+
+**Traitement de données personnelles issues de supports électroniques de données**[^8a-1]
+
+<sup>1</sup> Pendant la durée de la procédure d’asile, le SEM peut, aux fins d’établir l’identité, la nationalité ou l’itinéraire d’un requérant, traiter des données personnelles le concernant issues de supports électroniques de données, du «cloud» ou de services en ligne, y compris des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^8a-2].
+
+<sup>2</sup> Les données personnelles de tiers ne peuvent être traitées que si le traitement des données personnelles du requérant ne permet pas d’atteindre les objectifs énoncés à l’al. 1.
+
+<sup>3</sup>
+
+Sont des supports électroniques de données notamment:
+
+- a. les téléphones mobiles, les smartphones, les montres connectées, les cartes SIM;
+- b. les ordinateurs, les ordinateurs portables, les notebooks, les tablettes;
+- c. les dispositifs de stockage, comme les clés USB, les cartes SD, les DVD et les CD‑ROM.
+
+<sup>4</sup> Pour chaque cas individuel, le SEM analyse au préalable la nécessité et la proportionnalité de la procédure prévue au présent article.
+
+<sup>5</sup> Jusqu’à leur analyse, les données personnelles peuvent être sauvegardées temporairement sur un serveur sécurisé du Département fédéral de justice et police (DFJP).
+
+<sup>6</sup> Au moment où il est invité à remettre ses supports électroniques au SEM, conformément à l’art. 8, al. 1, let. g, le requérant est informé sur la procédure prévue, en particulier son but, son déroulement, le type de données analysées, la méthode d’analyse, la méthode de sauvegarde et l’effacement des données.
+
+<sup>7</sup> L’analyse est en principe effectuée pendant la phase préparatoire (art. 26). Elle est effectuée par des collaborateurs du SEM en présence du requérant, à moins que celui-ci renonce à être présent lors de l’analyse, ou refuse de l’être. L’analyse est consignée dans un procès-verbal. Elle est réalisée sur la base des données sauvegardées temporairement selon l’al. 5 et, si nécessaire, par l’examen du support électronique de données.
+
+<sup>8</sup> Les données personnelles sauvegardées temporairement selon l’al. 5 sont effacées une fois l’analyse terminée. Toutes les données personnelles sont automatiquement effacées un an au plus après leur sauvegarde temporaire.
+
+<sup>9</sup> L’ensemble des données personnelles analysées sont consignées dans le dossier d’asile. Le requérant peut se prononcer sur l’analyse.
+
+<sup>10</sup> Le Conseil fédéral détermine quelles données sont relevées selon l’al. 1 et règle les modalités de l’accès aux données et de leur analyse.
+
+[^8a-1]: Introduit par le ch. I et l’al. 1 par le ch. III de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^8a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 9
 
@@ -491,9 +527,10 @@ Tout requérant est hébergé dans un centre de la Confédération à compter du
 
 <sup>1</sup> Le SEM peut confier à des tiers des tâches destinées à assurer le fonctionnement des centres de la Confédération. Les tiers mandatés sont soumis à l’obligation de garder le secret au même titre que le personnel de la Confédération.
 
-<sup>2</sup> Le Département fédéral de justice et police (DFJP) édicte des dispositions relatives aux centres de la Confédération afin d’en assurer le bon fonctionnement et de garantir une procédure rapide.
+<sup>2</sup> Le DFJP édicte des dispositions relatives aux centres de la Confédération afin d’en assurer le bon fonctionnement et de garantir une procédure rapide.[^24b-2]
 
 [^24b-1]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^24b-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 
 #### Art. 24c
 
@@ -970,9 +1007,17 @@ La décision de renvoi indique:
 
 #### Art. 47
 
-**Lieu de séjour inconnu**
+**Obligation de collaborer dans le cadre de la procédure de renvoi et mesures en cas de lieu de séjour inconnu**[^47-1]
 
-Si la personne renvoyée se soustrait à l’exécution du renvoi en dissimulant son lieu de séjour, le canton ou le SEM peuvent ordonner son inscription au système de recherche de la police.
+<sup>1</sup> Les personnes qui font l’objet d’une décision de renvoi exécutoire sont tenues de collaborer à l’obtention de documents de voyage valables.
+
+<sup>2</sup> Si l’identité de la personne n’est pas établie et qu’il n’est pas possible d’obtenir des documents de voyage par d’autres moyens raisonnables, le SEM peut obliger la personne concernée à lui remettre tout support électronique de données sitôt la décision de renvoi passée en force.
+
+<sup>3</sup> L’art. 8*a* s’applique par analogie à l’analyse des données et à la procédure. Les données nécessaires à l’exécution du renvoi peuvent être transmises à l’autorité du canton compétent pour exécuter le renvoi.
+
+<sup>4</sup> Si la personne concernée se soustrait à l’exécution du renvoi en dissimulant son lieu de séjour, le canton ou le SEM peuvent ordonner son inscription au système de recherche de la police.
+
+[^47-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 48
 
@@ -1953,13 +1998,13 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 **Traitement de données personnelles**[^96-1]
 
-<sup>1</sup> Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités de recours et les organisations privées chargées de tâches en vertu de la présente loi peuvent traiter ou faire traiter des données personnelles relatives à un requérant ou à une personne à protéger et à leurs proches, y compris des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^96-2].[^96-3]
+<sup>1</sup> Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités de recours et les organisations privées chargées de tâches en vertu de la présente loi peuvent traiter ou faire traiter des données personnelles relatives à un requérant ou à une personne à protéger et à leurs proches, y compris des données sensibles au sens de l’art. 5, let. c, LPD[^96-2].[^96-3]
 
 <sup>2</sup> Les données nécessaires à la lutte contre le travail au noir peuvent être communiquées par les autorités visées à l’al. 1 conformément aux art. 11 et 12 de la loi du 17 juin 2005 sur le travail au noir[^96-4].[^96-5]
 
 [^96-1]: Nouvelle teneur selon l’art. 3 ch. 2 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. a; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^96-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^96-3]: Nouvelle teneur selon l’annexe 1 ch. II 5 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-3]: Nouvelle teneur selon le ch. III de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^96-4]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^96-5]: Introduit par l’annexe ch. 2 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
@@ -3028,11 +3073,19 @@ Les demandes d’asile qui ont été déposées à l’étranger avant l’entr�
 
 [^u7-1]
 
-[^u7-1]: [RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718)
+[^u7-1]: [RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)
 
 Les procédures pendantes et les créances en cours visées aux art. 86 et 87 de la présente loi et de l’art. 88 LEI[^u7-2] à l’entrée en vigueur de la modification du 16 décembre 2016 sont régies par l’ancien droit.
 
 [^u7-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
+## Disposition transitoire de la modification du 1<sup>er</sup> octobre 2021
+
+[^u8-1]
+
+[^u8-1]: [RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)
+
+Le Conseil fédéral présente au Parlement, trois ans après l’entrée en vigueur de la modification du 1<sup>er</sup> octobre 2021, un rapport sur l’adéquation, l’efficacité et l’économicité des mesures visées aux art. 8*a* et 47, al. 2 et 3.
 
 Annexe 1[^t-1]
 
