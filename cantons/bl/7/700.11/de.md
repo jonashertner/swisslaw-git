@@ -4,28 +4,31 @@ number: "700.11"
 title: Verordnung zum Polizeigesetz
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2025-01-01
-valid_until: 2025-03-31
-version_adopted: 2024-11-26
+version: 2025-04-01
+valid_until: 2025-11-30
+version_adopted: 2024-12-17
 adopted: 1999-02-09
 in_force: 1999-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/700.11"
-pdf: "https://bl.clex.ch/api/de/versions/4048/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Polizeigesetz
 
-Vom 09.02.1999 (Stand 01.01.2025)
+(Polizeiverordnung, PolV)
+
+Vom 09.02.1999 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und auf das Polizeigesetz vom 28.11.1996[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 700](https://bl.clex.ch/data/700/de)
 
 ## 1 Organisation der Polizei Basel-Landschaft
 
@@ -64,8 +67,8 @@ beschliesst:
 - k. Wachtmeister,
 - l. Korporal,
 - m. Gefreiter,
-- n. Polizist,
-- o. Aspirant.
+- n. Polizistin/Polizist,
+- o. Aspirantin/Aspirant.
 
 <sup>2</sup> …
 
@@ -168,9 +171,9 @@ beschliesst:
 
 #### § 5a
 
-**Sicherheitsassistenten und Sicherheitsassistentinnen**
+**Sicherheitsassistentinnen und Sicherheitsassistenten**
 
-<sup>1</sup> Sicherheitsassistenten und Sicherheitsassistentinnen erfüllen insbesondere folgende Aufgaben:
+<sup>1</sup> Sicherheitsassistentinnen und Sicherheitsassistenten erfüllen insbesondere folgende Aufgaben:
 
 - a. Betreuung, Überwachung, Durchsuchung, Begleitung, Transport und Vorführung von angehaltenen, festgenommenen und inhaftierten Personen;
 - b. Durchsetzung sitzungspolizeilicher Massnahmen bei Verhandlungen vor Gericht, Strafverfolgungsbehörden und anderen amtlichen Stellen, namentlich Zutrittskontrollen, Durchsuchungen und Wegweisungen;
@@ -305,19 +308,19 @@ beschliesst:
 
 **…**
 
-## 4 Rechte und Pflichten der Mitarbeiterinnen und Mitarbeiter
+## 4 Rechte und Pflichten der Mitarbeitenden
 
 #### § 13
 
 **Dienstpflicht**
 
-<sup>1</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeiter und Mitarbeiterinnen der Polizei Basel-Landschaft erfüllen ihren Dienst nach bestem Wissen und Gewissen. Sie prüfen jeweils, ob sie verpflichtet sind, tätig zu werden, oder ob es in ihrem pflichtgemässen Ermessen liegt, einzuschreiten und welche Massnahmen zu ergreifen sind.
+<sup>1</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeitenden der Polizei Basel-Landschaft erfüllen ihren Dienst nach bestem Wissen und Gewissen. Sie prüfen jeweils, ob sie verpflichtet sind, tätig zu werden, oder ob es in ihrem pflichtgemässen Ermessen liegt, einzuschreiten und welche Massnahmen zu ergreifen sind.
 
 <sup>2</sup> Sie haben aus eigenem Entschluss oder auf Anordnung auch dann tätig zu werden, wenn damit Gefahren für ihre Person verbunden sind, es sei denn, dass das Ausmass der Gefahren in keinem angemessenen Verhältnis steht.
 
 <sup>3</sup> Den Hilfeleistungen und der Gefahrenabwehr ist grundsätzlich Vorrang vor der Strafverfolgung zu geben, insbesondere wenn das Leben oder die Gesundheit von Menschen oder hochwertige Sachgüter bedroht sind.
 
-<sup>4</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeiter und Mitarbeiterinnen müssen während ihrer Dienst- und Pikettzeit jederzeit erreichbar und innerhalb nützlicher Frist einsatzbereit sein.
+<sup>4</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeitenden müssen während ihrer Dienst- und Pikettzeit jederzeit erreichbar und innerhalb nützlicher Frist einsatzbereit sein.
 
 <sup>5</sup> Schriftliche Anzeigen, Rapporte und Berichte sind ohne Verzug zu erstellen und an die zuständigen Amtsstellen zu leiten.
 
@@ -325,21 +328,21 @@ beschliesst:
 
 **Pflichten ausser Dienst**
 
-<sup>1</sup> Die Mitarbeiter und Mitarbeiterinnen der Polizei Basel-Landschaft vermeiden auch ausser Dienst jedes Verhalten, das dem Ansehen der Polizei Basel-Landschaft schadet.
+<sup>1</sup> Die Mitarbeitenden der Polizei Basel-Landschaft vermeiden auch ausser Dienst jedes Verhalten, das dem Ansehen der Polizei Basel-Landschaft schadet.
 
-<sup>2</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeiter und Mitarbeiterinnen nehmen auch ausserhalb des Dienstes, sofern es ihnen zumutbar ist, polizeiliche Handlungen vor, namentlich:
+<sup>2</sup> Die über polizeiliche Befugnisse verfügenden Mitarbeitenden nehmen auch ausserhalb des Dienstes, sofern es ihnen zumutbar ist, polizeiliche Handlungen vor, namentlich:
 
 - a. zur unmittelbaren Verhinderung und Verfolgung von schweren Straftaten;
 - b. wenn eine erhebliche Störung der öffentlichen Sicherheit und Ordnung unmittelbar bevorsteht;
-- c. zur Beseitigung einer erheblichen Störung der öffentlichen Sicherheit und Ordnung, falls im Dienst befindliche Mitarbeiter und Mitarbeiterinnen nicht innert nützlicher Frist verfügbar sind;
+- c. zur Beseitigung einer erheblichen Störung der öffentlichen Sicherheit und Ordnung, falls im Dienst befindliche Mitarbeitende nicht innert nützlicher Frist verfügbar sind;
 - d. wenn für Leib und Leben einer Person eine unmittelbare Gefahr besteht;
-- e. zur Unterstützung im Dienst befindlicher Mitarbeiter und Mitarbeiterinnen, die Hilfe benötigen.
+- e. zur Unterstützung im Dienst befindlicher Mitarbeitender, die Hilfe benötigen.
 
 #### § 15
 
 **Wohnsitz**
 
-<sup>1</sup> Mitarbeiter und Mitarbeiterinnen, die Pikettdienst leisten, haben ihren Wohnsitz so zu wählen, dass sie ihren Dienstort innert kurzer Zeit erreichen können.
+<sup>1</sup> Mitarbeitende, die Pikettdienst leisten, haben ihren Wohnsitz so zu wählen, dass sie ihren Dienstort innert kurzer Zeit erreichen können.
 
 <sup>2</sup> Die Leitung der Dienststelle regelt die Einzelheiten in einer Dienstvorschrift.
 
@@ -347,7 +350,7 @@ beschliesst:
 
 **Körperliche Leistungsfähigkeit**
 
-<sup>1</sup> Die Mitarbeiter und Mitarbeiterinnen der Polizei Basel-Landschaft sind verantwortlich dafür, ihren dienstlichen Aufgaben physisch gewachsen zu sein.
+<sup>1</sup> Die Mitarbeitenden der Polizei Basel-Landschaft sind verantwortlich dafür, ihren dienstlichen Aufgaben physisch gewachsen zu sein.
 
 <sup>2</sup> …
 
@@ -355,7 +358,7 @@ beschliesst:
 
 **Grad-/Namensschild**
 
-<sup>1</sup> Die uniformierten Mitarbeiter und Mitarbeiterinnen tragen bei Amtshandlungen ein Grad-/Namensschild, ausgenommen bei Sondereinsätzen und in heiklen Situationen.
+<sup>1</sup> Die uniformierten Mitarbeitenden tragen bei Amtshandlungen ein Grad-/Namensschild, ausgenommen bei Sondereinsätzen und in heiklen Situationen.
 
 <sup>2</sup> …
 
@@ -369,7 +372,7 @@ beschliesst:
 
 **Schusswaffengebrauch**
 
-<sup>1</sup> Nach jedem Schusswaffengebrauch muss der verantwortliche Mitarbeiter oder die verantwortliche Mitarbeiterin die Leitung der Dienststelle unverzüglich schriftlich informieren.
+<sup>1</sup> Nach jedem Schusswaffengebrauch muss die oder der verantwortliche Mitarbeitende die Leitung der Dienststelle unverzüglich schriftlich informieren.
 
 <sup>2</sup> …
 
@@ -411,14 +414,14 @@ beschliesst:
 
 #### § 24
 
-**Entschädigung an Diensthundeführer und Diensthundeführerinnen**
+**Entschädigung an Diensthundeführerinnen und Diensthundeführer**
 
-<sup>1</sup> Die Entschädigung an Diensthundeführer und Diensthundeführerinnen der Polizei Basel-Landschaft beträgt inkl. Teuerungszulage pro Hund und Monat:
+<sup>1</sup> Die Entschädigung an Diensthundeführerinnen und Diensthundeführer der Polizei Basel-Landschaft beträgt inkl. Teuerungszulage pro Hund und Monat:
 
 - a. für Schutz- und Drogenspürhunde sowie Hunde für Spezialaufgaben — CHF 300.–;
 - b. für Junghunde — CHF 200.–.
 
-<sup>2</sup> Die Entschädigung wird nur vollumfänglich ausgerichtet, wenn die Diensthundeführer und Diensthundeführerinnen regelmässig die Diensthundetrainings besuchen und die Hunde, ausgenommen Junghunde im 1. Lebensjahr, die jährlich durchgeführt schweizerische Polizeihundeprüfung bestanden haben und einsatzfähig sind.
+<sup>2</sup> Die Entschädigung wird nur vollumfänglich ausgerichtet, wenn die Diensthundeführerinnen und Diensthundeführer regelmässig die Diensthundetrainings besuchen und die Hunde, ausgenommen Junghunde im 1. Lebensjahr, die jährlich durchgeführt schweizerische Polizeihundeprüfung bestanden haben und einsatzfähig sind.
 
 <sup>3</sup> …
 
@@ -452,32 +455,39 @@ beschliesst:
 
 #### § 28
 
-**Aufbewahrungsdauer von Personendaten**
+**Aufbewahrungsdauer von Personendaten, Grundsatz**
 
-<sup>1</sup> Die Polizei Basel-Landschaft bearbeitet zur Erfüllung ihrer gesetzlichen Aufgaben Personendaten, die entweder konventionell aufbewahrt oder in elektronischen Datenbearbeitungssystemen gespeichert werden.
+<sup>1</sup> Daten werden nur solange aufbewahrt, wie die Polizei Basel-Landschaft diese zur Erfüllung ihrer Aufgaben, insbesondere zu Sicherungs- oder Beweiszwecken, benötigt.
 
-<sup>2</sup> Unabhängig von der Form des Datenträgers werden die Personendaten so lange bei der Polizei Basel-Landschaft aufbewahrt, als sie zur Aufgabenerfüllung und anschliessend zu Sicherungs- und Beweiszwecken benötigt werden.
+<sup>2</sup> Die Aufbewahrungsdauer von Personendaten beträgt grundsätzlich 10 Jahre.
 
-<sup>3</sup> Die Höchstaufbewahrungsdauer zu Sicherungs- und Beweiszwecken darf 10 Jahre nicht überschreiten, sofern diese Verordnung oder andere Erlasse abweichende Aufbewahrungszeiten nicht ausdrücklich vorschreiben.
+<sup>3</sup> Eine andere Aufbewahrungsdauer kann vorgesehen werden.
 
 #### § 29
 
-**Aufbewahrungsdauer von Personendaten in elektronischen Datenbearbeitungssystemen**
+**Aufbewahrungsdauer von Personendaten mit Deliktbezug**
 
-<sup>1</sup> Unabhängig von der Form des Datenträgers bleiben Personendaten, die mit einem Delikt in Beziehung stehen, bis zum Ablauf der Verfolgungsverjährung gemäss Art. 97 und 109 des Schweizerischen Strafgesetzbuchs[^29-1] in den elektronischen Datenbearbeitungssystemen gespeichert.
-
-<sup>2</sup> Ist eine Person mit mehreren Delikten erfasst, bleiben die Einträge zu allen Delikten so lange in den elektronischen Datenbearbeitungssystemen gespeichert, bis die Laufzeiten für alle Einträge, gerechnet ab dem jeweiligen Begehungsdatum, abgelaufen sind.
-
-- a. …
-- b. …
-- c. …
-- d. …
-
-<sup>3</sup> …
-
-<sup>4</sup> …
+<sup>1</sup> Personendaten, die mit einem Delikt in Beziehung stehen, bleiben bis zum Ablauf der Verfolgungsverjährung gemäss Art. 97 und 109 des Schweizerischen Strafgesetzbuchs[^29-1] gespeichert.
 
 [^29-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### § 29a
+
+**Aufbewahrungsdauer von Personendaten der Einsatzleitzentrale**
+
+<sup>1</sup> Die von der Polizei Basel-Landschaft aufgezeichneten Anrufe der Einsatzleitzentrale werden 365 Tage aufbewahrt.
+
+<sup>2</sup> Die Leitung der Einsatzleitzentrale entscheidet über die Herausgabe der aufgezeichneten Daten.
+
+<sup>3</sup> Die Aufzeichnung und die Herausgabe der Gesprächsaufzeichnungen werden protokolliert.
+
+#### § 29b
+
+**Aufbewahrungsdauer von Personendaten bei erkennungsdienstlichen Massnahmen**
+
+<sup>1</sup> Die Aufbewahrungsdauer für erkennungsdienstliche Massnahmen gemäss § 23 Abs. 1 PolG[^29b-1] beträgt 365 Tage.
+
+[^29b-1]: [SGS 700](https://bl.clex.ch/data/700/de/art23)
 
 #### § 30
 
@@ -485,7 +495,7 @@ beschliesst:
 
 #### § 31
 
-**Waffen und Sprengstoffe**
+**Aufbewahrungsdauer von Personendaten im Zusammenhang mit Waffen und Sprengstoffen**
 
 <sup>1</sup> Die Aufbewahrungsdauer der gemäss den Bestimmungen über Waffen und Munition erhobenen Personendaten läuft bis zum Tod der eingetragenen Person.
 
@@ -493,36 +503,17 @@ beschliesst:
 
 #### § 32
 
-**Personendaten Aspirantinnen und Aspiranten**
-
-<sup>1</sup> Personendaten betreffend Rekrutierung von Aspirantinnen und Aspiranten werden im Einverständnis mit der betreffenden Person während 3 Jahren aufbewahrt.
-
-<sup>2</sup> …
+**…**
 
 #### § 33
 
-**Ungeklärte Todesfälle**
+**Aufbewahrungsdauer von Personendaten bei ungeklärten Todes- und Vermisstenfällen**
 
-<sup>1</sup> Personendaten im Zusammenhang mit ungeklärten Todesfällen und Suiziden werden 5 Jahre bei der Polizei Basel-Landschaft aufbewahrt.
+<sup>1</sup> Personendaten im Zusammenhang mit ungeklärten Todes- und Vermisstenfällen werden 50 Jahre bei der Polizei Basel-Landschaft aufbewahrt.
 
 #### § 34
 
-**Löschung von Personendaten**
-
-<sup>1</sup> Alle personenbezogenen Eintragungen zu einem Fall werden unter Vorbehalt der gesetzlichen Archivierungsbestimmungen bei der Polizei Basel-Landschaft zusammen mit dem Fall gelöscht, wenn die spezifische Laufzeit abgelaufen ist.
-
-- a. …
-- b. …
-- c. …
-- d. …
-
-<sup>2</sup> …
-
-<sup>3</sup> Sollte zwischen dem Ablauf der Laufzeit und der tatsächlichen Löschung eine neue Eintragung erfolgen, bleiben alle Personendaten so lange bei der Polizei Basel-Landschaft aufbewahrt, bis die Laufzeiten für alle Eintragungen, gerechnet ab dem jeweiligen Begehungsdatum, abgelaufen sind.
-
-<sup>4</sup> Zu löschende Daten sind nicht bloss logisch, sondern physisch zu löschen.
-
-<sup>5</sup> Das gleiche gilt sinngemäss für die konventionell aufbewahrten Personendaten.
+**…**
 
 #### § 35
 
@@ -546,23 +537,7 @@ beschliesst:
 
 #### § 39
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Folgende Bestimmungen werden aufgehoben:
-
-- a. Dienstordnung der Polizei Basel-Landschaft vom 18. Januar 1994[^39-1],
-- b. Dienstreglement der Polizei Basel-Landschaft vom 1. November 1994[^39-2],
-- c. Verordnung über Zuständigkeitsbereiche der Kantons- und der Ortspolizei vom 13. November 1978[^39-3],
-- d. Regierungsratsverordnung über die Übertragung von Aufgaben der Kantonspolizei an die Gemeinden vom 19. Dezember 1978[^39-4],
-- e. Regierungsratsverordnung über die Entschädigung der Polizeihundeführer vom 20. Oktober 1981[^39-5],
-- f. § 7 Absatz 2 der Verordnung zum Bundesgesetz über den Strassenverkehr vom 4. April 1968[^39-6].
-
-[^39-1]: GS 31.556, SGS 145.31
-[^39-2]: GS 31.779, SGS 145.32
-[^39-3]: GS 26.848, SGS 711.1
-[^39-4]: GS 26.890, SGS 711.11
-[^39-5]: GS 27.774, SGS 158.51
-[^39-6]: GS 23.665, SGS 481.1
+**…**
 
 #### § 40
 
@@ -570,6 +545,6 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. März 1999 in Kraft.
 
-### 10 Anhänge I und II
+### 10
 
 GS 33.0605
