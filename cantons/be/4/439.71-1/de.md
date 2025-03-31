@@ -1,132 +1,145 @@
 ---
 canton: BE
 number: 439.71-1
-title: Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
+title: "Accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature"
 short: Accord CiLi BEJUNE
 language: de
-version: 2016-07-01
-valid_until: 2025-03-31
-version_adopted: 2016-05-18
+version: 2025-04-01
+version_adopted: 2025-03-31
 adopted: 2025-03-31
 in_force: 2025-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.71-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1148/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
+# Accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature
 
-vom 17.12.2008 (Stand 01.07.2016)
+Dieser Erlass ist nur auf Französisch verfügbar.
 
-Der Regierungsrat des Kantons Bern und der Staatsrat des Kantons Jura,
+(Accord CiLi BEJUNE)
 
-gestützt auf die Resolution Nr. 55 «Gemeinsame Kulturförderung» der Interjurassischen Versammlung (IJV) vom 20. Dezember 2001 sowie auf die Schlussfolgerungen des sogenannten Ruedin-Berichts vom 26. März 2003 («Rapport intermédiaire du groupe de travail intercantonal ayant charge de définir les conditions cadres pour la mise en place et la réalisation d’une politique culturelle interjurassienne»),
+vom 31.03.2025 (Stand 01.04.2025)
 
-vereinbaren Folgendes:
+Le Conseil-exécutif du canton de Berne, le Gouvernement de la République et canton du Jura, le Conseil d'État de la République et canton de Neuchâtel,
+
+conviennent de ce qui suit:
 
 #### Art. 1
 
-**Errichtung**
+**Objet**
 
-<sup>1</sup> Es wird eine interkantonale Literaturkommission (ILK) errichtet.
+<sup>1</sup> Il est institué une Commission intercantonale de littérature des cantons de Berne, du Jura et de Neuchâtel (ci-après CiLi BEJUNE).
 
 #### Art. 2
 
-**Zweck, Unabhängigkeit**
+**But**
 
-<sup>1</sup> Die interkantonale Literaturkommission fördert vorwiegend Autorinnen und Autoren mit einer engen Beziehung zum Kanton Jura sowie französischsprachige Autorinnen und Autoren mit einer engen Beziehung zum Kanton Bern.
-
-<sup>2</sup> Die Kantonsbehörden sind gehalten, die kulturpolitische Freiheit und Unabhängigkeit der Kommission zu respektieren.
+<sup>1</sup> La CiLi BEJUNE a principalement pour but de promouvoir les auteurs ayant un lien étroit avec le canton du Jura et le canton de Neuchâtel, ainsi que les auteurs francophones ayant un lien étroit avec le canton de Berne.
 
 #### Art. 3
 
-**Aufgaben**
+**Indépendance**
 
-<sup>1</sup> Die interkantonale Literaturkommission hat folgende Aufgaben:
-
-- a Förderung, Verwaltung und Verleihung von interkantonalen Literaturauszeichnungen,
-- b Unterbreiten von Vorschlägen an die zuständige Kantonsbehörde in Bezug auf die Gewährung von Kulturförderungsbeiträgen, wobei sie darüber wacht, dass das ihr dafür übertragene jährliche Globalbudget nicht überschritten wird,
-- c Vorberatung von Gesuchen um Kulturförderungsbeiträge, die ihr von den zuständigen kantonalen Behörden vorgelegt werden,
-- d Unterstützung und Beratung der Kulturämter der beiden Kantone bei allen Fragen im Zusammenhang mit der Förderung und der Verbreitung im Bereich der Literatur,
-- e Förderung mittels verschiedenster Massnahmen, wie zum Beispiel der Übersetzung in die anderen Landessprachen, von jurassischen Autorinnen und Autoren sowie von französischsprachigen Autorinnen und Autoren des Kantons Bern.
+<sup>1</sup> Les autorités cantonales sont tenues de respecter la liberté et l’indépendance d’action culturelle de la CiLi BEJUNE.
 
 #### Art. 4
 
-**Zusammensetzung, Sekretariat**
+**Tâches**
 
-<sup>1</sup> Die interkantonale Literaturkommission besteht aus sieben Mitgliedern, von denen drei durch den Regierungsrat des Kantons Bern, drei durch den Staatsrat des Kantons Jura und eines abwechslungsweise durch die bernische Kantonsregierung und dann durch die jurassische Kantonsregierung ernannt werden. Die Kommission konstituiert sich im Übrigen selbst.
+<sup>1</sup> La CiLi BEJUNE a pour tâches:
 
-<sup>2</sup> Die Kulturbeauftragten der beiden Kantonsverwaltungen nehmen gemeinsam oder abwechselnd mit beratender Stimme an den Kommissionssitzungen teil. Sie stellen das Kommissionssekretariat sicher.
+- a de promouvoir, gérer et attribuer des prix de littérature intercantonaux,
+- b de faire des propositions à l’autorité cantonale compétente quant à l’attribution des montants d’encouragement aux activités culturelles, tout en veillant à ce que l’enveloppe budgétaire annuellement dévolue à cet effet ne soit pas dépassée,
+- c de préaviser les demandes d’encouragement aux activités culturelles qui lui sont soumises par les autorités cantonales compétentes,
+- d d’appuyer et de conseiller les offices et services de la culture cantonaux pour toutes les questions touchant à la promotion, à l'encouragement et à la diffusion dans le domaine de la littérature,
+- e de promouvoir, grâce à diverses mesures d’encouragement, les autrices et auteurs francophones des cantons concernés.
 
 #### Art. 5
 
-**Amtsdauer**
+**Composition et secrétariat**
 
-<sup>1</sup> Die Amtsdauer der Kommissionsmitglieder beträgt vier Jahre; eine zweite Amtsdauer ist möglich.
+<sup>1</sup> La CiLi BEJUNE est composée de sept membres: deux sont nommés par le Gouvernement jurassien, deux par le Conseil d'Etat neuchâtelois, deux par le Conseil-exécutif bernois et un alternativement par chacun des organes exécutifs cantonaux. Au surplus, la CiLi BEJUNE se constitue elle-même et désigne en particulier son président.
+
+<sup>2</sup> Les responsables culturels des offices et services cantonaux de la culture en assurent le secrétariat. Ils participent ensemble ou alternativement aux séances de la CiLi BEJUNE avec voix consultative.
 
 #### Art. 6
 
-**Zusammenarbeit und Informationsaustausch**
+**Durée des mandats**
 
-<sup>1</sup> Die interkantonale Literaturkommission und die deutschsprachige Literaturkommission des Kantons Bern arbeiten zusammen und sorgen für den gegenseitigen Informationsaustausch.
+<sup>1</sup> La période de fonction des membres de la CiLi BEJUNE est fixée à quatre ans, renouvelable une fois.
 
 #### Art. 7
 
-**Sitzungen**
+**Collaboration et échange d'informations**
 
-<sup>1</sup> Die interkantonale Literaturkommission tagt grundsätzlich abwechslungsweise in einem der beiden Kantone.
+<sup>1</sup> La CiLi BEJUNE et la Commission de littérature de langue allemande du canton de Berne collaborent et pratiquent l'échange d'informations.
 
 #### Art. 8
 
-**Entschädigung**
+**Séances**
 
-<sup>1</sup> Die Mitglieder der interkantonalen Literaturkommission werden nach den geltenden bernischen Bestimmungen über die kulturellen Kommissionen entschädigt.
+<sup>1</sup> La CiLi BEJUNE siège, en principe, alternativement dans un des trois cantons.
 
 #### Art. 9
 
-**Finanzielles**
+**Indemnisation et aspects financiers**
 
-<sup>1</sup> Die Kantone Bern und Jura decken die Kosten für die Entschädigung ihrer jeweiligen Kommissionsmitglieder. Jeder Kanton trägt ausserdem die Hälfte der Entschädigungskosten für das gemeinsam ernannte Mitglied.
+<sup>1</sup> Les membres de la CiLi BEJUNE sont indemnisés conformément aux règles en vigueur dans le canton qui les a nommés.
 
-<sup>2</sup> Allfällige Kosten für die Sitzungen der Kommission (Raummiete, Sekretariat) werden von dem Kanton getragen, in dem die Sitzung stattfindet.
+<sup>2</sup> Chaque canton indemnise les membres qu’il a nommés.
 
-<sup>3</sup> Die Kantone Bern und Jura teilen der interkantonalen Literaturkommission einen jährlichen Finanzrahmen zu. Die Kommission kann in diesem Rahmen der zuständigen Kantonsbehörde Vorschläge im Hinblick auf die Gewährung von Kulturförderungsbeiträgen unterbreiten.
+<sup>3</sup> Les frais éventuels pour les séances de la CiLi BEJUNE (location, secrétariat) sont pris en charge par le canton dans lequel se déroule la séance.
+
+<sup>4</sup> Les trois cantons allouent une enveloppe budgétaire annuelle à la CiLi BEJUNE.
 
 #### Art. 10
 
-**Kündigung**
+**Résiliation**
 
-<sup>1</sup> Diese Vereinbarung kann unter Einhaltung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden.
+<sup>1</sup> Le présent accord peut être résilié pour la fin d’une année civile moyennant un préavis d’au moins six mois.
 
 #### Art. 11
 
-**Übergangsbestimmungen**
+**Dispositions transitoires**
 
-<sup>1</sup> Der Vorsitz und die Mitglieder der interkantonalen Literaturkommission werden erstmals per 1. Januar 2009 ernannt.
+<sup>1</sup> Les membres de la CiLi BEJUNE sont nommés la première fois au premier jour du mois suivant l’entrée en vigueur du présent accord.
 
-<sup>2</sup> Das abwechslungsweise ernannte Mitglied wird erstmals durch die jurassische Kantonsregierung ernannt.
+<sup>2</sup> Le membre nommé en alternance selon l'article 5, alinéa 1 est désigné la première fois par le Gouvernement jurassien, puis par le Conseil d'Etat neuchâtelois et ensuite par le Conseil-exécutif bernois.
+
+<sup>3</sup> La CiLi BEJUNE est autorisée à reprendre les activités et projets de la Commission intercantonale de littérature des cantons de Berne et du Jura selon l'accord des 16 et 17 décembre 2008 entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature.
 
 #### Art. 12
 
-**Inkrafttreten**
+**Abrogation**
 
-<sup>1</sup> Diese Vereinbarung tritt am 1. Januar 2009 in Kraft.
+<sup>1</sup> L'accord des 16 et 17 décembre 2008 entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature est abrogé et remplacé par le présent accord avec effet à la date de son entrée en vigueur.
 
-Delsberg, 16. Dezember 2008
+#### Art. 13
 
-Im Namen der Regierung des Kantons Jura
+**Entrée en vigueur**
 
-Die Präsidentin: Baume-Schneider
+<sup>1</sup> Le présent accord entre en vigueur le premier jour du mois suivant la dernière approbation par un canton signataire.
 
-Der Staatsschreiber: Jacquod
+Berne, le 24 août 2022 / Delémont, le 11 mars 2025 / Neuchâtel, le 31 mars 2025
 
-Bern, 17. Dezember 2008
+Au nom du Conseil-exécutif du canton de Berne,
 
-Im Namen des Regierungsrates
+la présidente: Häsler
 
-Die Präsidentin: Egger-Jenzer
+le chancelier: Auer
 
-Der Staatsschreiber: Nuspliger
+Au nom du Gouvernement de la République et Canton du Jura,
 
-09-9
+le président: Courtet
+
+le chancelier: Maître
+
+Au nom du Conseil d'État de la République et Canton du Neuchâtel,
+
+la présidente: Nater
+
+la chancelière: Despland
+
+25-029
