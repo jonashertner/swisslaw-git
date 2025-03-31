@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 2019 über das öffentliche Beschaffungswesen (
 short: BöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: de
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/de"
 
 (BöB)
 
-vom 21. Juni 2019 (Stand am 1. Januar 2025)
+vom 21. Juni 2019 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -734,6 +734,7 @@ Die Auftraggeberin kann eine Anbieterin von einem Vergabeverfahren ausschliessen
 - d. Sie befinden sich in einem Pfändungs- oder Konkursverfahren.
 - e. Sie haben Bestimmungen über die Bekämpfung der Korruption verletzt.
 - f. Sie widersetzen sich angeordneten Kontrollen.
+- f<sup>bis</sup>.[^44-1] Sie beheben eine Schwachstelle in der von ihnen hergestellten Hard- oder Software nicht innert der Frist, die das Bundesamt für Cybersicherheit nach Artikel 73*b* Absatz 3 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^44-2] gesetzt hat.
 - g. Sie bezahlen fällige Steuern oder Sozialabgaben nicht.
 - h. Sie haben frühere öffentliche Aufträge mangelhaft erfüllt oder liessen in anderer Weise erkennen, keine verlässlichen und vertrauenswürdigen Vertragspartnerinnen zu sein.
 - i. Sie waren an der Vorbereitung der Beschaffung beteiligt, und der dadurch entstehende Wettbewerbsnachteil der anderen Anbieterinnen kann nicht mit geeigneten Mitteln ausgeglichen werden.
@@ -749,11 +750,13 @@ Die Auftraggeberin kann überdies Massnahmen nach Absatz 1 treffen, wenn hinreic
 - d. Sie haben gegen anerkannte Berufsregeln verstossen oder Handlungen oder Unterlassungen begangen, die ihre berufliche Ehre oder Integrität beeinträchtigen.
 - e. Sie sind insolvent.
 - f. Sie missachten die Arbeitsschutzbestimmungen, die Arbeitsbedingungen, die Bestimmungen über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit, die Bestimmungen über die Vertraulichkeit und die Bestimmungen des schweizerischen Umweltrechts oder die vom Bundesrat bezeichneten internationalen Übereinkommen zum Schutz der Umwelt.
-- g. Sie haben Melde- oder Bewilligungspflichten nach dem BGSA[^44-1] verletzt.
-- h. Sie verstossen gegen das Bundesgesetz vom 19. Dezember 1986[^44-2] gegen den unlauteren Wettbewerb.
+- g. Sie haben Melde- oder Bewilligungspflichten nach dem BGSA[^44-3] verletzt.
+- h. Sie verstossen gegen das Bundesgesetz vom 19. Dezember 1986[^44-4] gegen den unlauteren Wettbewerb.
 
-[^44-1]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-1]: Eingefügt durch Ziff. II 1 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^44-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^44-4]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 45
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 2019 sur les marchés publics (LMP)
 short: LMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: fr
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/fr"
 
 (LMP)
 
-du 21 juin 2019 (État le 1<sup>er</sup> janvier 2025)
+du 21 juin 2019 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -734,6 +734,7 @@ L’adjudicateur peut exclure un soumissionnaire de la procédure d’adjudicati
 - d. fait l’objet d’une procédure de saisie ou de faillite;
 - e. a enfreint les dispositions relatives à la lutte contre la corruption;
 - f. refuse de se soumettre aux contrôles qui ont été ordonnés;
+- f<sup>bis</sup>.[^44-1] n’élimine pas une vulnérabilité du matériel informatique ou du logiciel qu’il a fabriqué dans le délai fixé par l’Office fédéral de la cybersécurité conformément à l’art. 73*b*, al. 3, de la loi du 18 décembre 2020 sur la sécurité de l’information[^44-2];
 - g. ne paie pas les impôts ou les cotisations sociales exigibles;
 - h. n’a pas exécuté correctement des marchés publics antérieurs ou s’est révélé d’une autre manière ne pas être un partenaire fiable;
 - i. a participé à la préparation du marché, sans que le désavantage concurrentiel qui en découle pour les autres soumissionnaires puisse être compensé par des moyens appropriés;
@@ -749,11 +750,13 @@ L’adjudicateur peut également prendre les mesures mentionnées à l’al. 1 l
 - d. a enfreint les règles professionnelles reconnues ou porté atteinte à son honneur ou à son intégrité professionnels par ses agissements ou omissions;
 - e. est insolvable;
 - f. ne respecte pas les dispositions relatives à la protection des travailleurs, les conditions de travail, les dispositions relatives à l’égalité de traitement salarial entre femmes et hommes, les dispositions relatives à la confidentialité, les dispositions du droit suisse en matière d’environnement ou les conventions internationales relatives à la protection de l’environnement déterminées par le Conseil fédéral;
-- g. a violé les obligations en matière d’annonce et d’autorisation mentionnées dans la LTN[^44-1];
-- h. viole la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^44-2].
+- g. a violé les obligations en matière d’annonce et d’autorisation mentionnées dans la LTN[^44-3];
+- h. viole la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^44-4].
 
-[^44-1]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-1]: Introduite par le ch. II 1 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^44-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^44-4]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 45
 

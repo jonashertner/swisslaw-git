@@ -4,11 +4,11 @@ title: Legge federale del 21 giugno 2019 sugli appalti pubblici (LAPub)
 short: LAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: it
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/it"
 
 (LAPub)
 
-del 21 giugno 2019 (Stato 1° gennaio 2025)
+del 21 giugno 2019 (Stato 1° aprile 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -546,7 +546,7 @@ Le seguenti indicazioni devono essere pubblicate sulla piattaforma Internet dell
 
 <sup>4</sup> Laddove opportuno, il committente prevede specifiche tecniche per la conservazione delle risorse naturali o la protezione dell’ambiente.[^30-1]
 
-[^30-1]: Nuovo testo giusta il n. II 1 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^30-1]: Nuovo testo giusta la cifra II n. 1 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31
 
@@ -734,6 +734,7 @@ Il committente può escludere un offerente dalla procedura di aggiudicazione, ra
 - d. sono oggetto di una procedura di fallimento o di pignoramento;
 - e. hanno violato le disposizioni sulla lotta contro la corruzione;
 - f. si oppongono ai controlli ordinati nei loro confronti;
+- f<sup>bis</sup>.[^44-1] non eliminano, entro il termine fissato dall’Ufficio federale della cibersicurezza secondo l’articolo 73*b* capoverso 3 della legge federale del 18 dicembre 2020[^44-2] sulla sicurezza delle informazioni, una vulnerabilità nell’hardware o nel software da loro prodotto;
 - g. non pagano le imposte o i contributi sociali dovuti;
 - h. non hanno eseguito in maniera corretta commesse pubbliche precedenti o hanno altrimenti dimostrato di non essere una parte contraente affidabile e degna di fiducia;
 - i. hanno partecipato ai lavori preliminari dell’appalto pubblico senza che lo svantaggio concorrenziale che ne deriva per gli altri offerenti possa essere compensato con mezzi adeguati;
@@ -749,11 +750,13 @@ In presenza di indizi sufficienti, il committente può inoltre adottare i provve
 - d. hanno violato norme professionali riconosciute oppure hanno commesso azioni o sono incorsi in omissioni che ne pregiudicano l’onore o l’integrità professionale;
 - e. sono insolventi;
 - f. non osservano le disposizioni in materia di tutela dei lavoratori, le condizioni di lavoro, le disposizioni sulla parità salariale tra donna e uomo, le disposizioni sulla confidenzialità e le disposizioni del diritto svizzero in materia ambientale o le convenzioni internazionali per la protezione dell’ambiente designate dal Consiglio federale;
-- g. hanno violato gli obblighi di annuncio e di autorizzazione secondo la LLN[^44-1];
-- h. violano la legge federale del 19 dicembre 1986[^44-2] contro la concorrenza sleale.
+- g. hanno violato gli obblighi di annuncio e di autorizzazione secondo la LLN[^44-3];
+- h. violano la legge federale del 19 dicembre 1986[^44-4] contro la concorrenza sleale.
 
-[^44-1]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-1]: Introdotta dalla cifra II n. 1 della LF del 29 set. 2023 sulla sicurezza (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche, in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168),; [173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
+[^44-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^44-4]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 45
 
@@ -1248,7 +1251,7 @@ Allegato 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I delle O del 17 dic. 2021 ([RU 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)) e dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
+[^t-1]: Aggiornato dalla cifra I delle O del 17 dic. 2021 ([RU 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)) e dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
 [^annex4-lvlu1-1]: I valori soglia espressi in franchi svizzeri sono applicabili per gli anni 2024 e 2025.
 
 ### 1 Valori soglia per gli appalti pubblici che rientrano nell’ambito di applicazione dei trattati internazionali
@@ -1353,5 +1356,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1]
+[^annex7-lvlu1-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. cifra II n. 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1]
 [^annex7-lvlu1-2]: Le mod. possono essere consultate alla [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126).

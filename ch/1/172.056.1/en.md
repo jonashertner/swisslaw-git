@@ -4,11 +4,11 @@ title: Federal Act of 21 June 2019 on Public Procurement (PPA)
 short: PPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: en
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPA)
 
-of 21 June 2019 (Status as of 1 January 2025)
+of 21 June 2019 (Status as of 1 April 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -736,6 +736,7 @@ The contracting authority may exclude a tenderer from an award procedure, delete
 - d. is subject to attachment or bankruptcy proceedings;
 - e. has violated anti-corruption provisions;
 - f. refuses to allow inspections that have been ordered;
+- f<sup>bis</sup>.[^44-1] has not resolved a vulnerability in the hard- or software it produces within the period stipulated by the National Cyber Security Centre in accordance with Article 73*b* paragraph 3 of the Information Security Act of 18 December 2020[^44-2];
 - g. has failed to pay taxes or social security contributions that are due;
 - h. has failed to execute previous public contracts correctly or otherwise demonstrated that it is not a reliable and trustworthy partner;
 - i. was involved in the preparation of the procurement and the resulting competitive disadvantage for the other tenderers cannot be offset by appropriate means;
@@ -751,11 +752,13 @@ The contracting authority may also take measures in accordance with paragraph 1 
 - d. infringed recognised professional rules or compromised their professional honour or integrity through its acts or omissions;
 - e. is insolvent;
 - f. disregard workplace health and safety regulations, terms and conditions of employment, the provisions on the equal treatment of men and women in terms of equal pay, the provisions on confidentiality and the provisions of Swiss environmental law or the international conventions for the protection of the environment designated by the Federal Council;
-- g. violated reporting or authorisation obligations under the IEA[^44-1];
-- h. violated the Federal Act of 19 December 1986[^44-2] on Unfair Competition.
+- g. violated reporting or authorisation obligations under the IEA[^44-3];
+- h. violated the Federal Act of 19 December 1986[^44-4] on Unfair Competition.
 
-[^44-1]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-1]: Inserted by No II 1 of the FA of 29 Sept. 2023 (Introduction of a Reporting Obligation for Cyberattacks on Critical Infrastructure), in force since 1 April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^44-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^44-4]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 45
 
