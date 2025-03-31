@@ -4,13 +4,12 @@ number: "365.110"
 title: Verordnung betreffend das Halten von Hunden
 short: Hundeverordnung
 language: de
-version: 2020-07-01
-valid_until: 2025-03-31
-version_adopted: 2020-05-05
+version: 2025-04-01
+version_adopted: 2025-01-14
 adopted: 2007-07-10
 in_force: 2007-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/365.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4946/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Hundeverordnung | Tierhaltung und Tierschutz
 
 (Hundeverordnung)
 
-Vom 10. Juli 2007 (Stand 1. Juli 2020)
+Vom 10. Juli 2007 (Stand 1. April 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -113,11 +112,49 @@ beschliesst:
 
 – Hündinnen während ihrer Läufigkeit.
 
+## I<sup>bis</sup> Hundehalterausbildung
+
+#### § 5a
+
+**Art und Umfang**
+
+<sup>1</sup> Das Veterinäramt entscheidet über die Anerkennung von Hundehalterausbildungen. Diese müssen folgende Mindestvoraussetzungen erfüllen:
+
+- a) Die Ausbilderinnen und Ausbilder sind vom Verband Kynologie Ausbildungen Schweiz (VKAS) als Ausbilderinnen und Ausbilder für das Nationale Hundehalter Brevet (NHB) anerkannt.
+- b) Die Halterinnen und Halter erlangen Kenntnisse betreffend die Haltung von Hunden und den Umgang mit ihnen und die praktische Fähigkeit, ihren Hund in Alltagssituationen sicher und kontrolliert zu führen.
+- c) Das Mindestalter der Hunde zu Beginn der Ausbildung beträgt vier Monate.
+- d) Die Mindestdauer der Ausbildung beträgt acht Lektionen.
+- e) Die Halterinnen und Halter erhalten nach dem Besuch der Ausbildung eine Bescheinigung über ihre Teilnahme.
+
+<sup>2</sup> Das Veterinäramt erlässt fachliche Ausführungsvorschriften zum Inhalt der Hundehalterausbildungen. Es publiziert diese sowie eine Liste mit den anerkannten Ausbildungen auf seiner Website.
+
+<sup>3</sup> Das Veterinäramt hat die Qualität der Hundehalterausbildungen regelmässig zu überprüfen; es kann hierfür Kontrollen durchführen und von den Ausbilderinnen und Ausbildern die erforderlichen Unterlagen einverlangen. Es kann Hundehalterausbildungen die Anerkennung entziehen, wenn die Mindestvoraussetzungen nicht oder nicht mehr erfüllt sind.
+
+<sup>4</sup> Das Veterinäramt kann Dritte mit der Anerkennung und Überprüfung der Hundehalterausbildungen beauftragen.
+
+#### § 5b
+
+**Bescheinigung**
+
+<sup>1</sup> Die Halterinnen und Halter haben dem Veterinäramt innerhalb eines Jahres nach Erwerb des Hundes eine Bescheinigung über ihre Teilnahme an einer anerkannten Hundehalterausbildung einzureichen.
+
+#### § 5c
+
+**Ausnahmen**
+
+<sup>1</sup> Die Ausbildungspflicht gilt nicht für Halterinnen und Halter von:
+
+- a) Diensthunden der Armee, der Polizei oder des Grenzwachtkorps;
+- b) Blindenführhunden und Behindertenhunden;
+- c) Rettungshunden.
+
+<sup>2</sup> Das Veterinäramt kann Halterinnen und Halter bestimmter Hunde in Härtefällen auf begründetes Gesuch hin von der Ausbildungspflicht befreien.
+
 ## II. Kennzeichnung und Registrierung der Hunde
 
 #### § 6
 
-**Kennzeichnung mit Mikrochip und Registrierungsmarke**
+**Kennzeichnung mit Mikrochip**
 
 <sup>1</sup> Alle im Kanton gehaltenen Hunde müssen mit einem Mikrochip gekennzeichnet sein; dieser muss den Bestimmungen der eidg. Tierseuchenverordnung entsprechen und einen individuellen Zahlencode enthalten.
 
@@ -137,9 +174,9 @@ beschliesst:
 - h) Name der kennzeichnenden Tierärztin oder des kennzeichnenden Tierarztes;
 - i) Datum der Kennzeichnung.
 
-<sup>5</sup> Alle im Kanton Basel-Stadt gehaltenen Hunde, die älter als 3 Monate sind, müssen mit einer vom Veterinäramt abgegebenen und am Halsband des Hundes deutlich sichtbar angebrachten Registrierungsmarke gekennzeichnet sein. Diese Marke wird bei der Registrierung des Hundes unentgeltlich abgegeben und gilt solange, als der Hund im Kanton angemeldet ist.
+<sup>5</sup> …
 
-<sup>6</sup> Für eine verlorene oder nicht mehr lesbare Registrierungsmarke ist möglichst rasch, spätestens aber innert 10 Tagen seit Feststellen des Umstandes, beim Veterinäramt eine neue zu lösen. Diese ist gebührenpflichtig.
+<sup>6</sup> …
 
 #### § 7
 
