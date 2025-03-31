@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2025-03-01
+version: 2025-04-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> mars 2025)
+du 19 décembre 1958 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2892,19 +2892,41 @@ Lorsque, pour l’acte commis, la loi ne prévoit que l’amende, le juge pourra
 
 <sup>1</sup>
 
-Le Conseil fédéral peut conclure avec des États étrangers des traités relatifs à la circulation automobile internationale. Dans le cadre de ceux-ci, il peut:
+Le Conseil fédéral peut conclure des traités internationaux dans les domaines de la circulation routière pour lesquels l’Assemblée fédérale lui a délégué des compétences législatives. Sont notamment concernés:
 
-- a. abroger l’obligation d’échanger le permis de conduire en cas de changement de domicile hors des frontières nationales;
-- b. prévoir des autorisations pour des courses effectuées par des véhicules suisses ou étrangers dont le poids dépasse les limites fixées à l’art. 9; il ne délivre les autorisations qu’à titre exceptionnel et si la sécurité routière et la protection de l’environnement le permettent.
+- a. la dispense de l’obligation d’échange des permis de conduire en cas de changement transfrontalier de domicile;
+- b. la reconnaissance de permis, d’attestations, de formations complémentaires et d’autorisations;
+- c. l’immatriculation de véhicules, en particulier la reconnaissance et le changement de l’immatriculation;
+- d. les transports exceptionnels transfrontaliers;
+- e. l’échange et la communication de données relatives aux détenteurs de véhicules, aux autorisations de conduire et aux véhicules automobiles; les traités conclus avec la Principauté de Liechtenstein peuvent prévoir la participation de cette dernière au SIAC;
+- f. l’exécution de peines pécuniaires ou d’amendes en cas d’infractions aux règles de la circulation routière; les traités peuvent prévoir que les peines pécuniaires ou les amendes non recouvrables soient converties en peines privatives de liberté;
+- g. la construction et l’équipement de véhicules, l’équipement des usagers des véhicules et la reconnaissance mutuelle des expertises qui s’y rapportent.
 
-<sup>2</sup> Le Conseil fédéral peut conclure des traités internationaux portant sur la construction et l’équipement de véhicules, l’équipement des usagers de véhicules ainsi que sur la reconnaissance réciproque des expertises qui s’y rapportent. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut adhérer aux amendements des réglementations techniques relatives aux accords de ce genre, lorsque ces amendements n’exigent pas une adaptation du droit suisse. Il peut aussi reprendre des modifications des annexes de l’Accord du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route[^106a-2].
+<sup>2</sup>
 
-<sup>3</sup> Le Conseil fédéral peut conclure avec d’autres États des traités sur l’échange de données relatives aux détenteurs de véhicules, aux véhicules à moteur et aux autorisations de conduire ainsi que sur l’exécution de peines pécuniaires ou d’amendes en cas d’infractions aux règles de la circulation routière. Les traités peuvent prévoir que les peines pécuniaires ou les amendes non recouvrables soient converties en peines privatives de liberté.
+Il peut autoriser des amendements aux textes suivants:
 
-<sup>4</sup> Le Conseil fédéral peut convenir avec la Principauté du Liechtenstein de l’utilisation du SIAC.
+- a. Convention du 8 novembre 1968 sur la circulation routière[^106a-2];
+- b. Accord européen du 1<sup>er</sup> mai 1971 complétant la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968[^106a-3];
+- c. Convention du 8 novembre 1968 sur la signalisation routière[^106a-4];
+- d. Accord européen du 1<sup>er</sup> mai 1971 complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968[^106a-5];
+- e. Accord du 20 mars 1958 concernant l’adoption de Règlements techniques harmonisés de l’ONU applicables aux véhicules à roues et aux équipements et pièces susceptibles d’être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces Règlements[^106a-6];
+- f. Accord du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route[^106a-7];
+- g. Accord européen du 1<sup>er</sup> juillet 1970 relatif au travail des équipages des véhicules effectuant des transports internationaux par route[^106a-8].
 
-[^106a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106a-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+<sup>3</sup> Il peut autoriser des amendements à l’annexe 1 de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route[^106a-9] afin de tenir compte de l’évolution de la législation européenne. En outre, il peut prévoir, pour les véhicules à propulsion alternative, d’autres exemptions à la limite de poids que celles prévues à l’annexe 6 de l’accord, pour autant que celles-ci ne dépassent pas le poids supplémentaire requis par le système de propulsion alternative.
+
+<sup>4</sup> Il peut déléguer à l’OFROU la compétence d’amender les traités visés aux al. 1 et 2. Il tient compte à cet égard de la portée des amendements.
+
+[^106a-1]: Introduit par le ch. I de la LF du 15 juin 2012 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106a-2]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^106a-3]: [RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^106a-4]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^106a-5]: [RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^106a-6]: [RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
+[^106a-7]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^106a-8]: [RS 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
+[^106a-9]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
 ### Dispositions finales
 

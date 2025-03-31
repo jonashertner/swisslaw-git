@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2025-03-01
+version: 2025-04-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. da mars 2025)
+dals 19 da december 1958 (versiun dal 1. d’avrigl 2025)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -2883,19 +2883,41 @@ Il scolar d’autoscola è responsabel, sch’el avess pudì evitar ina cuntrave
 
 <sup>1</sup>
 
-Il Cussegl federal po concluder contracts cun stadis esters davart il traffic internaziunal da vehichels a motor. En il rom da tals contracts po el:
+Il Cussegl federal po concluder contracts internaziunals en quels secturs dal traffic sin via, per ils quals l’Assamblea federala l’ha delegà cumpetenzas da regulaziun. Latiers tutgan en spezial:
 
-- a. desister da barattar il permiss da manischar en cas d’ina midada da domicil suror ils cunfins naziunals;
-- b. prevair permissiuns per viadis da vehichels svizzers ed esters che surpassan ils pais fixads en l’artitgel 9; las permissiuns conceda el mo excepziunalmain ed uschenavant ch’ils interess da la segirezza dal traffic u da la protecziun da l’ambient permettan quai.
+- a. la renunzia a l’obligaziun da barattar permiss da manischar, en cas ch’i vegn midà domicil sur ils cunfins naziunals ora;
+- b. la renconuschientscha da permiss, da cumprovas, da furmaziuns supplementaras e da permissiuns;
+- c. l’admissiun da vehichels, en spezial la renconuschientscha e la midada da l’admissiun;
+- d. transports excepziunals transcunfinals;
+- e. il barat vicendaivel sco er la communicaziun da datas davart possessurs da vehichels, davart autorisaziuns da manischar e davart vehichels a motor; ils contracts cun il Principadi da Liechtenstein pon prevair, ch’il Principadi sa participeschia al SIAC;
+- f. l’execuziun da chastis pecuniars u da multas en cas da cuntravenziuns cunter las prescripziuns davart il traffic sin via; ils contracts pon prevair, che chastis pecuniars betg executabels u multas betg executablas vegnian transfurmads en chastis da detenziun;
+- g. la construcziun e l’equipament da vehichels, l’equipament dals utilisaders dals vehichels e la renconuschientscha vicendaivla da las controllas respectivas.
 
-<sup>2</sup> Il Cussegl federal po concluder contracts internaziunals davart la construcziun e l’equipament da vehichels, davart l’equipament dals utilisaders dals vehichels e davart la renconuschientscha vicendaivla dals examens che stattan en connex cun quai. Il Departament federal per ambient, traffic, energia e communicaziun po surpigliar midadas da las regulaziuns tecnicas da tals contracts, sch’il dretg svizzer na sto betg vegnir adattà. El po er surpigliar midadas da las annexas a la Convenziun dals 30 da settember 1957[^106a-2] davart il transport internaziunal da martganzia privlusa sin via.
+<sup>2</sup>
 
-<sup>3</sup> Il Cussegl federal po far contracts cun stadis esters davart il barat vicendaivel da datas dals possessurs dal vehichel, d’autorisaziuns da manischar e da vehichels a motor sco er davart l’execuziun da chastis pecuniars u da multas en cas da cuntravenziuns cunter las prescripziuns concernent il traffic sin via. Ils contracts pon prevair che chastis pecuniars u multas che n’èn betg executabels vegnian transfurmads en chastis da detenziun.
+El po approvar midadas da las suandantas convenziuns:
 
-<sup>4</sup> Il Cussegl federal po concluder contracts cun il Principadi da Liechtenstein davart l’utilisaziun dal SIAC.
+- a. Convenziun dals 8 da november 1968[^106a-2] davart il traffic sin via;
+- b. Cunvegna europeica dal 1. da matg 1971[^106a-3] concernent la cumplettaziun da la Convenziun davart il traffic sin via, exponida per suttascriver a Vienna ils 8 da november 1968;
+- c. Convenziun dals 8 da november 1968[^106a-4] davart la signalisaziun da las vias;
+- d. Cunvegna europeica dal 1. da matg 1971[^106a-5] concernent la cumplettaziun da la Convenziun davart la signalisaziun da las vias, exponida per suttascriver a Vienna ils 8 da november 1968;
+- e. Convenziun dals 20 da mars 1958[^106a-6] da las Naziuns Unidas davart la surpigliada da regulaziuns tecnicas armonisadas per vehichels a rodas, per objects d’equipament e per tocs che pon vegnir installads u utilisads en vehichels a rodas, sco er las cundiziuns per renconuscher vicendaivlamain approvaziuns concedidas tenor questas regulaziuns;
+- f. Convenziun dals 30 da settember 1957[^106a-7] davart il transport internaziunal da martganzia privlusa sin via;
+- g. Convenziun europeica dal 1. da fanadur 1970[^106a-8] davart la lavur dals manischunzs da vehichels engaschads en il traffic sin via internaziunal.
 
-[^106a-1]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106a-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+<sup>3</sup> El po approvar midadas da l’agiunta 1 da la Cunvegna dals 21 da zercladur 1999[^106a-9] tranter la Confederaziun svizra e la Communitad europeica davart il traffic da martganzia e da persunas sin binaris e vias, per resguardar ils svilups da las prescripziuns giuridicas respectivas da l’Uniun europeica. Per vehichels cun motors alternativs po el plinavant approvar ulteriuras excepziuns da la limitaziun dal pais che quellas ch’èn previsas en l’agiunta 6 da la cunvegna, sche talas sa restrenschan al pais supplementar ch’è necessari per la tecnica dals motors alternativs.
+
+<sup>4</sup> El po delegar al UVIAS la cumpetenza per midar contracts tenor ils alineas 1 e 2. En quest connex resguarda el la relevanza da las midadas.
+
+[^106a-1]: Integrà tras la cifra I da la LF dals 15 da zer. 2012 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’avr. 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106a-2]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^106a-3]: [SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^106a-4]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^106a-5]: [SR 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^106a-6]: [SR 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
+[^106a-7]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^106a-8]: [SR 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
+[^106a-9]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
 ### Disposiziuns finalas
 

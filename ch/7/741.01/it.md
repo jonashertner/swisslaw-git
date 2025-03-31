@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2025-03-01
+version: 2025-04-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° marzo 2025)
+del 19 dicembre 1958 (Stato 1° aprile 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -788,7 +788,7 @@ Il Consiglio federale, consultati i Cantoni, emana prescrizioni circa:
 <sup>4</sup> ...[^25-8]
 
 [^25-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^25-2]: Nuovo testo giusta il cifra II n. 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^25-2]: Nuovo testo giusta la cifra II n. 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^25-3]: Abrogata dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^25-4]: Nuova espr. giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^25-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Vedi il testo originale dell’art. 25 cpv. 3 lett. e ancora applicabile, alla fine del presente testo.
@@ -1004,10 +1004,10 @@ Il Consiglio federale può vietare ai seguenti gruppi di persone di guidare sott
 
 <sup>5</sup> ...[^32-4]
 
-[^32-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)cifra II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^32-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2001, in vigore dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
 [^32-3]: Abrogato dalla cifra I della LF del 14 dic. 2001, con effetto dal 1° gen. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^32-4]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^32-4]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)cifra II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Doveri verso i pedoni
 
@@ -1180,8 +1180,8 @@ Se è richiesto dalla sicurezza della circolazione, il conducente deve attirare 
 
 <sup>4</sup> I ciclisti non devono farsi trainare da veicoli né da animali.
 
-[^46-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^46-2]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)n. II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1975, in vigore dal 1° gen. 1977 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)cifra II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^46-2]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° gen. 1997 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)cifra II cpv. 2; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 
 ### Norme per i conducenti di motoveicoli
 
@@ -1270,7 +1270,7 @@ Per le corse di prova, nelle quali non possono essere osservate le norme della c
 
 Per attuare le norme della legislazione stradale e conseguire gli obiettivi della legge dell’8 ottobre 1999[^53a-2] sul trasferimento del traffico i Cantoni svolgono controlli stradali del traffico pesante, tenendo conto del grado di rischio.
 
-[^53a-1]: Introdotto dall’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^53a-1]: Introdotto dall’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta la cifra II 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^53a-2]: [[RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Vedi ora la L del 19 dic. 2008 sul trasferimento del traffico merci ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
 
 ### Poteri speciali della polizia
@@ -1341,7 +1341,7 @@ Il Consiglio federale:
 [^55-5]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^55-6]: Abrogato dall’all. 1 cifra II n. 21 del codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^55-7]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^55-8]: Introdotto dalla cifra II 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^55-8]: Introdotto dalla cifra II n. 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Durata del lavoro e del riposo dei conducenti professionali di veicoli a motore
 
@@ -1410,7 +1410,7 @@ Il Consiglio federale può prescrivere che:
 <sup>4</sup> I Governi dei Cantoni interessati regolano i reciproci diritti e doveri risultanti dall’attività di polizia di un Cantone sul territorio dell’altro. Se, mancando l’accordo, il servizio di polizia non è garantito, il Consiglio federale prende disposizioni provvisionali.
 
 [^57a-1]: Originario art. 57<sup>bis</sup>. Introdotto dalla cifra I della LF del 16 mar. 1967, in vigore dal 1° set. 1967 ([RU 1967 1147](https://fedlex.data.admin.ch/eli/oc/1967/1114_1154_1147); [FF 1966 II 261](https://fedlex.data.admin.ch/eli/fga/1966/2_332_335_261)).
-[^57a-2]: Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^57a-2]: Nuovo testo giusta la cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 57b
 
@@ -1453,7 +1453,7 @@ La Confederazione può:
 
 <sup>8</sup> La Confederazione può, contro remunerazione, assumere per conto dei Cantoni la preparazione e la diffusione delle informazioni sul traffico.
 
-[^57c-1]: Nuovo testo giusta il cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^57c-1]: Nuovo testo giusta la cifra II n. 18 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^57c-2]: [[RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Vedi ora la L del 19 dic. 2008 sul trasferimento del traffico merci ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
 
 ### Gestione del traffico da parte dei Cantoni
@@ -1505,7 +1505,7 @@ Sono determinate secondo il Codice delle obbligazioni[^59-2]:[^59-3]
 - a. la responsabilità civile nei rapporti fra il detentore e il proprietario di un veicolo a motore per i danni subìti da questo veicolo;
 - b.[^59-4] la responsabilità civile del detentore per i danni subiti dalle cose trasportate nel suo veicolo, eccettuate quelle che la parte lesa portava con sé, in particolare bagagli e simili; è fatta salva la legge del 20 marzo 2009[^59-5] sul trasporto di viaggiatori.
 
-[^59-1]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^59-1]: Abrogato dalla cifra I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)cifra III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^59-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^59-4]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
@@ -1894,7 +1894,7 @@ Il Consiglio federale emana disposizioni sui compiti e sulle competenze dell’U
 
 [^79-1]
 
-[^79-1]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
+[^79-1]: Abrogato cifra I della LF del 4 ott. 2002, con effetto dal 1° feb. 2003 ([RU 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); FF **2002** 4093).
 
 ### Centro d’informazione
 
@@ -2877,19 +2877,41 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>1</sup>
 
-Il Consiglio federale può concludere con gli Stati esteri trattati concer-nenti il traffico transfrontaliero di veicoli a motore. Nell’ambito di questi trattati può:
+Il Consiglio federale può concludere trattati internazionali negli ambiti della circolazione stradale per i quali l’Assemblea federale gli ha delegato competenze normative. Vi rientrano in particolare:
 
-- a. rinunciare allo scambio delle licenze di condurre in caso di cambiamento di domicilio oltre i confini nazionali;
-- b. prevedere permessi per i viaggi di veicoli svizzeri o esteri con pesi superiori a quelli stabiliti nell’articolo 9 della presente legge; esso rilascia i permessi soltanto in via eccezionale e nella misura in cui lo consentano gli interessi della sicurezza della circolazione e della protezione dell’ambiente.
+- a. la rinuncia all’obbligo di conversione di licenze di condurre in caso di cambiamento di domicilio oltre i confini nazionali;
+- b. il riconoscimento di licenze, attestati, corsi di perfezionamento e autorizzazioni;
+- c. l’immatricolazione di veicoli, in particolare il riconoscimento e il cambio di immatricolazione;
+- d. i trasporti eccezionali transfrontalieri;
+- e. lo scambio reciproco e la comunicazione di dati relativi a detentori di veicoli, autorizzazioni a condurre e veicoli a motore; i trattati con il Principato del Liechtenstein possono prevedere la partecipazione di tale Stato al SIAC;
+- f. l’esecuzione di pene pecuniarie o multe in caso di infrazioni alle prescrizioni sulla circolazione stradale; i trattati possono prevedere che le pene pecuniarie o le multe non eseguibili siano trasformate in pene detentive;
+- g. la costruzione e l’equipaggiamento dei veicoli, l’equipaggiamento degli utenti dei veicoli e il riconoscimento reciproco delle relative perizie.
 
-<sup>2</sup> Il Consiglio federale può concludere trattati internazionali concernenti la costruzione e l’equipaggiamento dei veicoli, l’equipaggiamento degli utenti dei veicoli e il riconoscimento reciproco delle relative perizie. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni può aderire agli emendamenti dei regolamenti tecnici relativi a questi trattati ove non sia necessario adattare il diritto svizzero. Può anche riprendere le modifiche degli allegati dell’Accordo del 30 settembre 1957[^106a-2] relativo al trasporto internazionale su strada delle merci pericolose.
+<sup>2</sup>
 
-<sup>3</sup> Il Consiglio federale può stipulare con Stati esteri trattati concernenti lo scambio reciproco di dati relativi a detentori di veicoli, autorizzazioni a condurre e veicoli a motore, nonché l’esecuzione di pene pecuniarie o di multe in caso di infrazioni alle prescrizioni sulla circolazione stradale. I trattati possono prevedere che le pene pecuniarie o le multe non eseguibili siano trasformate in pene detentive.
+Il Consiglio federale può approvare emendamenti dei seguenti trattati:
 
-<sup>4</sup> Il Consiglio federale può concludere con il Principato del Liechtenstein trattati sull’utilizzo del SIAC.
+- a. Convenzione dell’8 novembre 1968[^106a-2] sulla circolazione stradale;
+- b. Accordo europeo del 1° maggio 1971[^106a-3] completante la Convenzione sulla circolazione stradale aperta alla firma a Vienna l’8 novembre 1968;
+- c. Convenzione dell’8 novembre 1968[^106a-4] sulla segnaletica stradale;
+- d. Accordo europeo del 1° maggio 1971[^106a-5] completante la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l’8 novembre 1968;
+- e. Accordo del 20 marzo 1958[^106a-6] concernente l’adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite;
+- f. Accordo del 30 settembre 1957[^106a-7] relativo al trasporto internazionale su strada delle merci pericolose;
+- g. Accordo europeo del 1° luglio 1970[^106a-8] relativo alle prestazioni lavorative degli equipaggi dei veicoli addetti ai trasporti internazionali su strada.
 
-[^106a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106a-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+<sup>3</sup> Può approvare emendamenti dell’allegato 1 dell’Accordo del 21 giugno 1999[^106a-9] fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, per tenere conto dell’evoluzione delle pertinenti disposizioni legali dell’Unione europea. Può inoltre approvare ulteriori deroghe per i veicoli a propulsione alternativa, oltre a quelle concernenti il limite di peso di cui all’allegato 6 di tale Accordo, purché siano limitate al peso aggiuntivo necessario per il sistema di propulsione alternativa.
+
+<sup>4</sup> Può delegare all’USTRA la competenza di emendare trattati di cui ai capoversi 1 e 2. A tale scopo tiene conto dell’entità delle modifiche.
+
+[^106a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° apr. 2025 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453), [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106a-2]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^106a-3]: [RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^106a-4]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^106a-5]: [RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^106a-6]: [RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
+[^106a-7]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^106a-8]: [RS 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
+[^106a-9]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
 ### Disposizioni finali
 

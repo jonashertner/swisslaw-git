@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2025-03-01
+version: 2025-04-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250301/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. März 2025)
+vom 19. Dezember 1958 (Stand am 1. April 2025)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -2881,19 +2881,41 @@ Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand
 
 <sup>1</sup>
 
-Der Bundesrat kann mit ausländischen Staaten Verträge abschliessen über den grenzüberschreitenden Motorfahrzeugverkehr. Im Rahmen solcher Verträge kann er:
+Der Bundesrat kann völkerrechtliche Verträge in jenen Bereichen des Strassenverkehrs abschliessen, für die ihm die Bundesversammlung Regelungsbefugnisse übertragen hat. Dazu gehören namentlich:
 
-- a. auf den Umtausch des Führerausweises bei Wohnsitzwechsel über die Landesgrenzen verzichten;
-- b. Bewilligungen vorsehen für Fahrten von schweizerischen und ausländischen Fahrzeugen, welche die in Artikel 9 festgelegten Gewichte überschreiten; die Bewilligungen erteilt er nur ausnahmsweise und soweit es die Interessen der Verkehrssicherheit und des Umweltschutzes gestatten.
+- a. der Verzicht auf die Pflicht zum Umtausch von Führerausweisen bei Wohnsitzwechsel über die Landesgrenze;
+- b. die Anerkennung von Ausweisen, Nachweisen, Weiterbildungen und Bewilligungen;
+- c. die Zulassung von Fahrzeugen, insbesondere die Anerkennung und der Wechsel der Zulassung;
+- d. grenzüberschreitende Ausnahmetransporte;
+- e. der gegenseitige Austausch sowie die Bekanntgabe von Fahrzeughalter-, Fahrberechtigungs- und Motorfahrzeugdaten; Verträge mit dem Fürstentum Liechtenstein können die Beteiligung des Fürstentums am IVZ vorsehen;
+- f. die Vollstreckung von Geldstrafen oder Bussen bei Widerhandlungen gegen Strassenverkehrsvorschriften; die Verträge können vorsehen, dass nicht vollstreckbare Geldstrafen oder Bussen in Freiheitsstrafen umgewandelt werden;
+- g. der Bau und die Ausrüstung von Fahrzeugen, die Ausrüstung der Fahrzeugbenützer und die gegenseitige Anerkennung damit zusammenhängender Prüfungen.
 
-<sup>2</sup> Der Bundesrat kann völkerrechtliche Verträge über den Bau und die Ausrüstung von Fahrzeugen, die Ausrüstung der Fahrzeugbenützer und die gegenseitige Anerkennung damit zusammenhängender Prüfungen abschliessen. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation kann Änderungen technischer Regelungen zu solchen Verträgen übernehmen, wenn das schweizerische Recht nicht angepasst werden muss. Es kann auch Änderungen der Anlagen des Übereinkommens vom 30. September 1957[^106a-2] über die internationale Beförderung gefährlicher Güter auf der Strasse übernehmen.
+<sup>2</sup>
 
-<sup>3</sup> Der Bundesrat kann mit ausländischen Staaten Verträge über den gegenseitigen Austausch von Fahrzeughalter-, Fahrberechtigungs- und Motorfahrzeugdaten sowie die Vollstreckung von Geldstrafen oder Bussen bei Widerhandlungen gegen Strassenverkehrsvorschriften abschliessen. Die Verträge können vorsehen, dass nicht vollstreckbare Geldstrafen oder Bussen in Freiheitsstrafen umgewandelt werden.
+Er kann Änderungen der folgenden Übereinkommen genehmigen:
 
-<sup>4</sup> Der Bundesrat kann mit dem Fürstentum Liechtenstein Verträge über die Nutzung des IVZ abschliessen.
+- a. Übereinkommen vom 8. November 1968[^106a-2] über den Strassenverkehr;
+- b. Europäisches Zusatzübereinkommen vom 1. Mai 1971[^106a-3] zum Übereinkommen über den Strassenverkehr, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde;
+- c. Übereinkommen vom 8. November 1968[^106a-4] über Strassenverkehrszeichen;
+- d. Europäisches Zusatzübereinkommen vom 1. Mai 1971[^106a-5] zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde;
+- e. Übereinkommen vom 20. März 1958[^106a-6] der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden;
+- f. Übereinkommen vom 30. September 1957[^106a-7] über die internationale Beförderung gefährlicher Güter auf der Strasse;
+- g. Europäisches Übereinkommen vom 1. Juli 1970[^106a-8] über die Arbeit des im internationalen Strassenverkehr beschäftigten Fahrpersonals.
 
-[^106a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106a-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+<sup>3</sup> Er kann Änderungen von Anhang 1 des Abkommens vom 21. Juni 1999[^106a-9] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse genehmigen, um die Entwicklungen der entsprechenden Rechtsvorschriften der Europäischen Union zu berücksichtigen. Zudem kann er für Fahrzeuge mit alternativem Antrieb zusätzlich zu den Ausnahmen von der Gewichtsbegrenzung in Anhang 6 des Abkommens weitere Ausnahmen genehmigen, sofern diese auf das für die alternative Antriebstechnik erforderliche Mehrgewicht begrenzt sind.
+
+<sup>4</sup> Er kann die Zuständigkeit zur Änderung von Verträgen nach den Absätzen 1 und 2 an das ASTRA delegieren. Er berücksichtigt dabei die Tragweite der Änderungen.
+
+[^106a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. April 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106a-2]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^106a-3]: [SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^106a-4]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^106a-5]: [SR 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^106a-6]: [SR 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
+[^106a-7]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^106a-8]: [SR 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
+[^106a-9]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
 ### Schlussbestimmungen
 
