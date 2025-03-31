@@ -4,13 +4,13 @@ number: "761.11"
 title: Vollzugsverordnung zum Gesetz über die Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2025-01-01
-valid_until: 2025-03-31
-version_adopted: 2025-01-21
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2025-03-18
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1343/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1343/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 16.12.2014 (Stand 01.01.2025)
+vom 16.12.2014 (Stand 01.04.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -68,11 +68,8 @@ beschliesst:
 - 1\. die Vermittlung des Amtsverkehrs zwischen den Politischen Gemeinden und den zuständigen Behörden und Amtsstellen anderer Kantone sowie mit dem Bund beziehungsweise mit ausländischen Staaten;
 - 2\. die Koordination der fördernden Sozialhilfe;
 - 3\. die Sozialplanung;
-- 4\. die Gewährung von wirtschaftlicher Sozialhilfe gegenüber Personen gemäss Art. 28 Abs. 1 SHG[^3-1]; vorbehalten bleibt § 5 Abs. 1 der Vollzugsverordnung zum Einführungsgesetz zum Ausländerrecht (Ausländerverordnung)[^3-2];
+- 4\. …
 - 5\. die Anordnung von Rückerstattung von wirtschaftlicher Sozialhilfe, die vom Kanton gewährt wurde.
-
-[^3-1]: NG 761.1
-[^3-2]: NG 122.21
 
 #### § 4
 
@@ -98,6 +95,14 @@ beschliesst:
 [^4-1]: NG 761.1
 [^4-2]: NG 761.1
 [^4-3]: SR 221.222.338
+
+#### § 4a
+
+**Amt für Asyl und Flüchtlinge**
+
+<sup>1</sup> Die Zuständigkeit für bestimmte ausländische Personen richtet sich nach der Ausländerverordnung[^4a-1].
+
+[^4a-1]: NG 122.21
 
 #### § 5
 
@@ -178,9 +183,7 @@ beschliesst:
 
 #### § 10
 
-**Wirtschaftliche Sozialhilfe für bestimmte ausländische Personen**
-
-<sup>1</sup> Die Direktion hat die Sozialbehörde der Wohnsitzgemeinde über die Gewährung oder Aufhebung der Leistung von wirtschaftlicher Sozialhilfe für anerkannte Flüchtlinge zu informieren.
+**…**
 
 ### 2.2 Alimentenhilfe
 
