@@ -4,11 +4,11 @@ title: Verordnung vom 18. Juni 2010 über die elektronische Übermittlung im Rah
 short: VeÜ-ZSSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/413"
 language: de
-version: 2019-12-01
+version: 2025-04-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2010-413-20191201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2010-413-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/de"
 
 (VeÜ-ZSSV)[^t-1]
 
-vom 18. Juni 2010 (Stand am 1. Dezember 2019)
+vom 18. Juni 2010 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
 
@@ -228,7 +228,7 @@ Die Behörde überprüft die elektronische Signatur bezüglich:
 
 #### Art. 13a
 
-<sup>1</sup> Die Kantone können mit Bewilligung des EJPD zusätzlich zu den anerkannten Zustellplattformen alternative Übermittlungssysteme einsetzen.
+<sup>1</sup> Die Bundesbehörden und die Kantone können mit Bewilligung des EJPD zusätzlich zu den anerkannten Zustellplattformen alternative Übermittlungssysteme einsetzen.[^13a-1]
 
 <sup>2</sup> Für diese Übermittlungssysteme und die Bewilligung des EJPD gelten unter Vorbehalt der nachstehenden Absätze die Bestimmungen der Abschnitte 1–4 über die Zustellplattformen und deren Anerkennung.
 
@@ -238,7 +238,7 @@ Die Bewilligung wird erteilt, wenn:
 
 - a. das System im Pilotbetrieb der Erprobung technischer Lösungen dient;
 - b. die Voraussetzungen nach Artikel 2 Buchstaben a–e erfüllt sind;
-- c. die Übermittlung über Internetseiten des Kantons abgewickelt wird; und
+- c.[^13a-2] die Übermittlung über Internetseiten des Bundes oder des betreffenden Kantons abgewickelt wird; und
 - d. der Anwendungsbereich des Systems definiert ist.
 
 <sup>4</sup> Der Anwendungsbereich des Systems wird im Verzeichnis der Behördenadressen zusätzlich zu den Angaben nach Artikel 5 veröffentlicht.
@@ -246,6 +246,9 @@ Die Bewilligung wird erteilt, wenn:
 <sup>5</sup> Die Verfahrensbeteiligten haben die Wahl, elektronische Eingaben über eine anerkannte Zustellplattform oder über das alternative Übermittlungssystem einzureichen.
 
 <sup>6</sup> Mitteilungen können Verfahrensbeteiligten über ein alternatives Übermittlungssystem zugestellt werden, sofern die Zustimmung der Partei (Art. 9) sich auf dieses Übermittlungssystem bezieht. Ist die Empfängerin oder der Empfänger sowohl auf einer anerkannten Zustellplattform als auch bei einem alternativen Übermittlungssystem eingetragen, so kann sie oder er den Zustellweg wählen.
+
+[^13a-1]: Fassung gemäss Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
+[^13a-2]: Fassung gemäss Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
 
 ## 5. Abschnitt: Massenverfahren im Bereich Schuldbetreibung und Konkurs
 

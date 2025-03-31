@@ -4,11 +4,11 @@ title: Ordonnance du 18 juin 2010 sur la communication électronique dans le cad
 short: OCEl-PCPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/413"
 language: fr
-version: 2019-12-01
+version: 2025-04-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-413-20191201-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-413-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/fr"
 
 (OCEl-PCPP)[^t-1]
 
-du 18 juin 2010 (État le 1<sup>er</sup> décembre 2019)
+du 18 juin 2010 (État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
 
@@ -228,7 +228,7 @@ L’autorité vérifie la signature électronique quant à:
 
 #### Art. 13a
 
-<sup>1</sup> Les cantons peuvent, avec l’autorisation du DFJP, recourir également à des systèmes de communication autres que les plateformes reconnues de messagerie sécurisée.
+<sup>1</sup> Les autorités fédérales et les cantons peuvent, avec l’autorisation du DFJP, recourir également à des systèmes de communication autres que les plateformes reconnues de messagerie sécurisée.[^13a-1]
 
 <sup>2</sup> Les dispositions des sections 1 à 4 sur les plateformes de messagerie sécurisée et leur reconnaissance s’appliquent à ces systèmes de communication et à l’autorisation du DFJP, sous réserve des alinéas qui suivent.
 
@@ -238,7 +238,7 @@ L’autorisation est délivrée lorsque les conditions suivantes sont réunies:
 
 - a. le système pilote sert à tester des solutions techniques;
 - b. les conditions fixées à l’art. 2, let. a à e, sont remplies;
-- c. les données sont transmises par le biais des pages internet du canton;
+- c.[^13a-2] les données sont transmises par le biais des pages Internet de la Confédération ou du canton concerné;
 - d. le champ d’application du système est défini.
 
 <sup>4</sup> Le champ d’application du système est publié dans le répertoire des adresses des autorités en plus des indications figurant à l’art. 5.
@@ -246,6 +246,9 @@ L’autorisation est délivrée lorsque les conditions suivantes sont réunies:
 <sup>5</sup> Les parties peuvent choisir entre la transmission électronique de leurs écrits par le biais des plateformes reconnues et l’utilisation d’un autre système de communication qui couvre le champ d’application visé.
 
 <sup>6</sup> Les communications peuvent être notifiées aux parties par le biais d’un système de communication autre que les plateformes reconnues si l’acceptation des parties (art. 9) porte sur ce système. Si le destinataire est enregistré à la fois sur une plateforme reconnue et auprès d’un autre système de communication, il peut choisir la voie par laquelle les communications lui sont notifiées.
+
+[^13a-1]: Nouvelle teneur selon le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
+[^13a-2]: Nouvelle teneur selon le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
 
 ## Section 5 Procédure régissant les échanges en masse de documents en matière de poursuite pour dettes et de faillite
 

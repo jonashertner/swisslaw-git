@@ -4,11 +4,11 @@ title: "Ordinanza del 18 giugno 2010 sulla comunicazione per via elettronica nel
 short: OCE-PCPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/413"
 language: it
-version: 2019-12-01
+version: 2025-04-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2010-413-20191201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/413/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2010-413-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/413/20191201/it"
 
 (OCE-PCPE)[^t-1]
 
-del 18 giugno 2010 (Stato 1° dicembre 2019)
+del 18 giugno 2010 (Stato 1° aprile 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^ingress-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^ingress-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^ingress-4]: Nuovo testo giusta l’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^ingress-4]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -56,10 +56,10 @@ Una piattaforma per la trasmissione sicura (piattaforma di trasmissione) è rico
 - f. è in grado di comunicare con le autorità federali conformemente agli standard tecnici dell’Amministrazione federale in materia di trasmissione sicura;
 - g. garantisce la comunicazione con le altre piattaforme di trasmissione riconosciute e mette a disposizione gratuitamente funzioni di interoperabilità ed elenchi di partecipanti.
 
-[^2-1]: Nuovo testo giusta l’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^2-1]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^2-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^2-3]: Nuovo testo giusta l’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
+[^2-3]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
 
 #### Art. 3
 
@@ -77,7 +77,7 @@ Il Dipartimento federale di giustizia e polizia (DFGP) decide in merito alle dom
 
 <sup>3</sup> L’emolumento per la decisione è calcolato in base al dispendio di tempo; la tariffa oraria ammonta a 250 franchi. Per il rimanente, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^3-2] sugli emolumenti.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
 [^3-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Sezione 2: Comunicazione di atti scritti a un’autorità
@@ -112,13 +112,13 @@ Per ogni autorità la lista indica:
 
 <sup>2</sup> Il DFGP può stabilire in un’ordinanza che i dati sul procedimento devono essere comunicati in forma strutturata insieme all’atto scritto. Disciplina le prescrizioni tecniche e il formato dei dati.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dall’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, con effetto dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^7-1]: Abrogato dall’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, con effetto dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 8
 
@@ -139,7 +139,7 @@ Un’autorità può esigere che atti e allegati le siano inoltrati successivamen
 
 <sup>2</sup> Essa invita le parti interessate a inoltrare i documenti in forma cartacea entro un termine adeguato motivando la sua richiesta.
 
-[^8a-1]: Introdotto dall’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^8a-1]: Introdotto dall’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 8b
 
@@ -149,7 +149,7 @@ Un’autorità può esigere che atti e allegati le siano inoltrati successivamen
 
 <sup>2</sup> Il DFGP stabilisce come registrare nella ricevuta il momento della consegna.
 
-[^8b-1]: Introdotto dall’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^8b-1]: Introdotto dall’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 ## Sezione 3: Notificazione da parte di un’autorità
 
@@ -167,7 +167,7 @@ Un’autorità può esigere che atti e allegati le siano inoltrati successivamen
 
 <sup>5</sup> Il consenso e la revoca richiedono la forma scritta o un’altra forma che permetta la documentazione su testo; possono anche avvenire oralmente ed essere messi a verbale.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
 
 #### Art. 10
 
@@ -182,8 +182,8 @@ Un’autorità può esigere che atti e allegati le siano inoltrati successivamen
 <sup>4</sup> Le copie elettroniche delle comunicazioni possono essere provviste di un sigillo elettronico regolamentato dell’autorità (art. 2 lett. d FiEle).[^10-3]
 
 [^10-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^10-2]: Nuovo testo giusta l’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^10-3]: Introdotto dall’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^10-2]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^10-3]: Introdotto dall’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 11
 
@@ -224,11 +224,11 @@ L’autorità verifica la firma elettronica in merito:
 
 [^sec4a-1]
 
-[^sec4a-1]: Introdotta dal n. I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
+[^sec4a-1]: Introdotta dalla cifra I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
 
 #### Art. 13a
 
-<sup>1</sup> I Cantoni, con l’autorizzazione del DFGP, possono impiegare sistemi di comunicazione alternativi in aggiunta alle piattaforme di trasmissione riconosciute.
+<sup>1</sup> Le autorità federali e i Cantoni, con l’autorizzazione del DFGP, possono impiegare sistemi di comunicazione alternativi in aggiunta alle piattaforme di trasmissione riconosciute.[^13a-1]
 
 <sup>2</sup> A questi sistemi di comunicazione e all’autorizzazione del DFGP si applicano, fatti salvi i seguenti capoversi, le disposizioni delle sezioni 1–4 sulle piattaforme di trasmissione e sul loro riconoscimento.
 
@@ -238,7 +238,7 @@ L’autorizzazione è concessa se:
 
 - a. la fase pilota del sistema serve a collaudare soluzioni tecniche;
 - b. le condizioni di cui all’articolo 2 lettere a–e sono adempiute;
-- c. la comunicazione si svolge mediante le pagine Internet del Cantone; e
+- c.[^13a-2] la comunicazione si svolge mediante le pagine Internet della Confederazione o del Cantone interessato; e
 - d. il campo d’applicazione del sistema è definito.
 
 <sup>4</sup> Il campo d’applicazione del sistema è reso pubblico nella lista degli indirizzi delle autorità in aggiunta alle indicazioni di cui all’articolo 5.
@@ -246,6 +246,9 @@ L’autorizzazione è concessa se:
 <sup>5</sup> Le parti possono scegliere se inoltrare gli atti scritti in forma elettronica mediante una piattaforma di trasmissione riconosciuta o mediante il sistema di comunicazione alternativo nel campo d’applicazione dello stesso.
 
 <sup>6</sup> Le comunicazioni possono essere notificate alle parti mediante un sistema di comunicazione alternativo, nella misura in cui le parti hanno acconsentito (art. 9) a tale sistema di comunicazione. Se è registrato sia su una piattaforma di trasmissione riconosciuta sia in un sistema di comunicazione alternativo, il destinatario può scegliere la modalità della notifica.
+
+[^13a-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
+[^13a-2]: Nuovo testo giusta la cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 153](https://fedlex.data.admin.ch/eli/oc/2025/153)).
 
 ## Sezione 5: Procedura collettiva nell’ambito dell’esecuzione e del fallimento
 
@@ -257,7 +260,7 @@ L’autorizzazione è concessa se:
 
 <sup>3</sup> Sulla piattaforma di comunicazione è installata una casella di posta elettronica per ogni membro della rete interna.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3451](https://fedlex.data.admin.ch/eli/oc/2019/630)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -269,8 +272,8 @@ L’autorizzazione è concessa se:
 
 <sup>2</sup> I riconoscimenti provvisori secondo il capoverso 1 nonché quelli secondo il diritto anteriore sono validi fino alla decisione definitiva, ma al massimo fino al 31 dicembre 2016.[^15-2]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5565](https://fedlex.data.admin.ch/eli/oc/2015/861)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1535](https://fedlex.data.admin.ch/eli/oc/2013/355)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 4 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5565](https://fedlex.data.admin.ch/eli/oc/2015/861)).
 
 #### Art. 15a
 
@@ -278,7 +281,7 @@ L’autorizzazione è concessa se:
 
 Per le ricevute secondo l’articolo 2 lettera b, fino al 31 dicembre 2018 è sufficiente apporre una firma elettronica avanzata (art. 2 lett. b FiEle[^15a-2]) basata su un certificato rilasciato da un prestatore riconosciuto.
 
-[^15a-1]: Introdotto dall’all. n. II 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^15a-1]: Introdotto dall’all. cifra II n. 6 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^15a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 16
