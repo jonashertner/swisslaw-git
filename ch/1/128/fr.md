@@ -4,20 +4,22 @@ title: "Loi fédérale du 18 décembre 2020 sur la sécurité de l’information
 short: LSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: fr
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-232-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-232-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la sécurité de l’information au sein de la Confédération\*
+# Loi fédérale sur la sécurité de l’information\*
 
-(Loi sur la sécurité de l’information, LSI)
+(Loi sur la sécurité de l’information, LSI)[^t-1]
 
-du 18 décembre 2020 (État le 1<sup>er</sup> janvier 2024)
+du 18 décembre 2020 (État le 1<sup>er</sup> avril 2025)
+
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -34,7 +36,12 @@ arrête:
 
 **But**
 
-<sup>1</sup> La présente loi vise à garantir la sécurité du traitement des informations relevant de la compétence de la Confédération et la sécurité de ses moyens informatiques.
+<sup>1</sup>
+
+La présente loi vise:
+
+- a. à garantir la sécurité du traitement des informations relevant de la compétence de la Confédération et la sécurité de ses moyens informatiques;
+- b. à accroître la capacité de résilience de la Suisse face aux cybermenaces.[^1-1]
 
 <sup>2</sup>
 
@@ -45,6 +52,8 @@ Elle vise ainsi à protéger les intérêts publics suivants:
 - c. les intérêts de la politique extérieure de la Suisse;
 - d. les intérêts économiques, financiers et monétaires de la Suisse;
 - e. l’accomplissement des obligations légales et contractuelles des autorités et organisations de la Confédération en matière de protection des informations.
+
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 2
 
@@ -79,9 +88,10 @@ Le Conseil fédéral peut restreindre le champ d’application de la présente l
 
 <sup>4</sup> Il peut limiter à certaines dispositions de la présente loi le champ d’application au sens de l’al. 3. Il tient compte à cet égard de l’autonomie d’exécution des organisations concernées selon les actes organisationnels qui les régissent.
 
-<sup>5</sup> Les organisations de droit public ou privé qui exploitent des infrastructures critiques sans être visées par les al. 1 à 3 sont soumises aux art. 74 à 80. La législation spéciale peut prévoir que d’autres dispositions de la présente loi leur sont applicables.
+<sup>5</sup> Les organisations de droit public ou de droit privé qui exploitent des infrastructures critiques sans être visées par les al. 1 à 3 sont soumises aux art. 73*a* à 79.[^2-2] La législation spéciale peut prévoir que d’autres dispositions de la présente loi leur sont applicables.
 
 [^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 3
 
@@ -100,11 +110,15 @@ Ne s’appliquent aux cantons que les dispositions relatives:
 
 **Rapport avec d’autres lois fédérales**
 
-<sup>1</sup> La loi du 17 décembre 2004 sur la transparence[^4-1] prime la présente loi.
+<sup>1</sup> La loi du 17 décembre 2004 sur la transparence (LTrans)[^4-1] prime la présente loi.[^4-2]
+
+<sup>1bis</sup> Les informations provenant de tiers dont l’Office fédéral de la cybersécurité (OFCS) prend connaissance dans son activité de réception et d’analyse des signalements conformément au chap. 5 ne peuvent être rendues accessibles en vertu de la LTrans. Les autorités, les organisations et les personnes visées à l’art. 2, al. 1, LTrans ne sont pas considérées comme des tiers.[^4-3]
 
 <sup>2</sup> Lorsque la protection d’informations est également réglée dans d’autres lois fédérales, les dispositions de la présente loi s’appliquent à titre complémentaire.
 
 [^4-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^4-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^4-3]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 5
 
@@ -121,7 +135,16 @@ On entend par:
   - 2\. l’administration, l’exploitation, la maintenance et le contrôle de moyens informatiques relevant des catégories de sécurité «protection élevée» ou «protection très élevée»,
   - 3\. l’accès à des zones de sécurité, en particulier aux zones de protection 2 ou 3 d’un ouvrage au sens de la législation sur la protection des ouvrages militaires;
 
-- c. *infrastructure critique:* l’approvisionnement en eau potable et en énergie, les infrastructures d’information, de communication et de transports ainsi que d’autres installations, processus et systèmes essentiels au fonctionnement de l’économie et au bien-être de la population.
+- c. *infrastructure critique:* l’approvisionnement en eau potable et en énergie, les infrastructures d’information, de communication et de transports ainsi que d’autres installations, processus et systèmes essentiels au fonctionnement de l’économie et au bien-être de la population;
+- d.[^5-1] *cyberincident:* un événement survenant lors de l’utilisation de moyens informatiques et ayant pour conséquence une atteinte à la confidentialité, à la disponibilité ou à l’intégrité d’informations ou à la traçabilité de leur traitement;
+- e.[^5-2] *cyberattaque**:* un cyberincident provoqué intentionnellement;
+- f.[^5-3] *cybermenace**:* toute circonstance ou tout événement pouvant entraîner un cyberincident;
+- g.[^5-4] *vulnérabilité:* une cybermenace due à des failles ou à des erreurs dans les moyens informatiques.
+
+[^5-1]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-2]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-3]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-4]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## Chapitre 2 Mesures générales
 
@@ -185,6 +208,42 @@ Elles fixent:
 <sup>1</sup> Les autorités et organisations soumises à la présente loi veillent à ce que les violations de la sécurité de l’information soient décelées rapidement, leurs causes clarifiées et leurs conséquences limitées au maximum.
 
 <sup>2</sup> Les autorités soumises à la présente loi veillent à établir des plans d’action dans l’éventualité de graves violations de la sécurité de l’information susceptibles de menacer l’accomplissement de tâches indispensables de la Confédération; elles organisent des exercices à cet effet.
+
+#### Art. 10a
+
+**Traitement des données personnelles**[^10a-1]
+
+<sup>1</sup> Les autorités et organisations peuvent traiter les données personnelles utiles à la sécurité de l’information, notamment dans les systèmes de gestion de la sécurité des informations prévus à cet effet (applications SGSI).
+
+<sup>2</sup>
+
+Elles peuvent échanger entre elles des données personnelles au sens de l’al. 1 ainsi qu’avec des organisations nationales, internationales ou étrangères de droit public, si les conditions suivantes sont remplies:
+
+- a. cela est utile à la sécurité de l’information;
+- b. cela n’enfreint aucune obligation légale ou contractuelle de garder le secret;
+- c. les dispositions de la législation fédérale sur la protection des données sont respectées;
+- d. l’organisation qui reçoit les données assume des tâches légales dans le domaine de la sécurité de l’information qui correspondent à celles de l’autorité ou de l’organisation qui fait la communication.
+
+<sup>3</sup> Elles peuvent relier entre eux leurs systèmes d’information, notamment les applications SGSI, et échanger des données automatiquement ou sur demande par l’intermédiaire d’interfaces.
+
+<sup>4</sup> Elles peuvent administrer des formulaires électroniques servant à soumettre ou à traiter des demandes et des signalements dans le domaine de la sécurité de l’information et les relier à leurs applications SGSI ou à d’autres systèmes d’information.
+
+<sup>5</sup>
+
+Dans la mesure où cela est nécessaire pour gérer des violations de la sécurité de l’information ou pour éliminer des vulnérabilités, elles peuvent effectuer les actions suivantes avec des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^10a-2] relatives à des personnes qui sont impliquées dans ces violations ou ces vulnérabilités ou qui sont ou pourraient être concernées par elles:
+
+- a. les traiter;
+- b. les échanger entre elles ainsi qu’avec des organisations nationales, internationales ou étrangères de droit public, pour autant que la condition visée à l’al. 2, let. b, soit remplie.
+
+<sup>6</sup> Elles peuvent conserver les données sensibles jusqu’à deux ans après la gestion des violations de la sécurité de l’information ou l’élimination des vulnérabilités, mais dix ans au plus.
+
+<sup>7</sup> L’archivage des données est régi par les dispositions de la législation relative à l’archivage.
+
+<sup>8</sup> Le traitement de données personnelles par l’OFCS[^10a-3] dans le cadre de l’accomplissement de ses tâches est régi par les art. 75 à 79.
+
+[^10a-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10a-3]: Nouvelle expression selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### Section 2 Classification des informations
 
@@ -355,11 +414,12 @@ Elles peuvent prendre les mesures suivantes:
 - c. procéder à des fouilles;
 - d. procéder à des contrôles des locaux inopinés, même en l’absence des employés.
 
-<sup>3</sup> Elles peuvent exploiter, conformément à l’art. 34, al. 1<sup>ter</sup>, de la loi du 30 avril 1997 sur les télécommunications[^23-1], une installation perturbatrice dans les zones de sécurité où des informations classifiées «secret» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection très élevée» sont exploités.
+<sup>3</sup> Elles peuvent exploiter, conformément à l’art. 34, al. 1<sup>ter</sup>, de la loi du 30 avril 1997 sur les télécommunications (LTC)[^23-1], une installation perturbatrice dans les zones de sécurité où des informations classifiées «secret» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection très élevée» sont exploités.[^23-2]
 
 <sup>4</sup> Les dispositions particulières relatives aux zones de sécurité établies en vertu des traités internationaux au sens de l’art. 87 et les dispositions applicables aux zones de protection des ouvrages au sens de la législation sur la protection des ouvrages militaires sont réservées.
 
 [^23-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^23-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ### Section 6 Systèmes de gestion des données d’identification
 
@@ -651,7 +711,7 @@ La personne contrôlée dispose d’un délai de 30 jours à compter de la réce
 - b. demander la rectification des données erronées ou la destruction des données obsolètes;
 - c. demander que l’on ajoute à une donnée la mention de son caractère litigieux.
 
-<sup>2</sup> Les restrictions à la communication de renseignements sont régies par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^44-1].[^44-2]
+<sup>2</sup> Les restrictions à la communication de renseignements sont régies par l’art. 26 LPD[^44-1].[^44-2]
 
 <sup>3</sup> La déclaration constitue un acte matériel au sens de l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^44-3]. La personne contrôlée peut recourir contre une déclaration au sens de l’art. 39, al. 1, let. b à d, auprès du Tribunal administratif fédéral dans un délai de 30 jours à compter de sa réception.
 
@@ -660,7 +720,7 @@ La personne contrôlée dispose d’un délai de 30 jours à compter de la réce
 <sup>5</sup> La procédure de recours est régie au surplus par les dispositions générales de la procédure fédérale.
 
 [^44-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^44-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^44-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 [^44-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^44-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
@@ -715,9 +775,9 @@ Les données visées à l’al. 4 peuvent être collectées automatiquement et s
 
 [^45-1]: Nouvelle teneur selon le ch. II 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^45-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^45-3]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^45-3]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
 [^45-4]: Introduit par le ch. II 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-5]: Nouvelle teneur selon l’annexe 2 ch. 4, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^45-5]: Nouvelle teneur selon l’annexe 2 ch. 4, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
 [^45-6]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^45-7]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^45-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
@@ -1017,7 +1077,7 @@ L’entreprise a 30 jours à compter de la notification de la décision du servi
 <sup>2</sup> Les restrictions à la communication de renseignements sont régies par l’art. 26 LPD[^69-1].[^69-2]
 
 [^69-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^69-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^69-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
 
 ### Section 7 Traitement des données personnelles
 
@@ -1044,7 +1104,7 @@ Le système d’information contient les données suivantes:
 <sup>4</sup> Le service spécialisé PSE est responsable de la sécurité du système d’information et de la licéité du traitement des données personnelles.
 
 [^70-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
 
 #### Art. 71
 
@@ -1081,106 +1141,289 @@ Le Conseil fédéral règle:
 - d. les mesures nécessaires pour garantir la sécurité des données du système visé à l’art. 70;
 - e. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles.
 
-## Chapitre 5 Infrastructures critiques
+## Chapitre 5 Mesures de la Confédération afin de protéger la Suisse contre les cybermenaces
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### Section 1 Dispositions générales
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73a
+
+**Principe**[^73a-1]
+
+<sup>1</sup> Afin de protéger la Suisse contre les cybermenaces, l’OFCS réalise des analyses techniques pour évaluer et contrer les cyberincidents et les cybermenaces, ainsi que pour identifier et éliminer les vulnérabilités.
+
+<sup>2</sup>
+
+Sur la base de ces analyses, l’OFCS assume notamment les tâches suivantes:
+
+- a. sensibiliser le public aux cybermenaces et l’alerter sur de telles menaces;
+- b. alerter les autorités, les organisations et les personnes concernées en cas de cybermenace immédiate ou de cyberattaque en cours;
+- c. publier des informations sur la cybersécurité et des recommandations sur les mesures préventives et réactives à prendre contre les cyberincidents;
+- d. réceptionner et traiter les signalements concernant les cyberincidents et les cybermenaces;
+- e. soutenir les exploitants d’infrastructures critiques.
+
+[^73a-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73b
+
+**Signalements**[^73b-1]
+
+<sup>1</sup> L’OFCS reçoit des signalements concernant des cyberincidents et des cybermenaces. Les signalements peuvent être anonymes.
+
+<sup>2</sup> L’OFCS analyse les signalements au regard de leur importance pour la protection de la Suisse contre les cybermenaces. Sur demande, il émet une recommandation quant aux mesures à prendre, pour autant qu’aucune analyse ou clarification supplémentaire ne soit nécessaire à cet effet.
+
+<sup>3</sup> Si l’OFCS prend connaissance d’une vulnérabilité, il en informe immédiatement le fabricant du matériel informatique ou du logiciel concerné et lui fixe un délai approprié pour l’éliminer. Il lui indique que tout manquement pourra être sanctionné en vertu du droit des marchés publics (art. 44, al. 1, let. f<sup>bis</sup>, de la loi fédérale du 21 juin 2019 sur les marchés publics[^73b-2]) et qu’à l’expiration du délai, il pourra rendre publique la vulnérabilité en vertu de l’art. 73*c*, al. 2.
+
+[^73b-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73b-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+
+#### Art. 73c
+
+**Publication d’informations provenant de signalements**[^73c-1]
+
+<sup>1</sup> L’OFCS peut publier des informations relatives à des cyberincidents pour autant que cela serve à la protection contre les cybermenaces. Ces informations ne peuvent contenir de données relatives aux personnes physiques ou morales concernées que si ces dernières y consentent et que ces données sont des caractères d’identification et des ressources d’adressage utilisés de manière abusive.
+
+<sup>2</sup> L’OFCS peut publier des informations relatives à des vulnérabilités en indiquant le matériel informatique ou le logiciel concerné, à condition que le fabricant y consente ou qu’il n’ait pas éliminé la vulnérabilité dans le délai visé à l’art. 73*b*, al. 3.
+
+[^73c-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73d
+
+**Transmission d’informations**[^73d-1]
+
+<sup>1</sup> L’OFCS peut transmettre des informations provenant de signalements aux autorités et aux organisations actives dans le domaine de la cybersécurité. Ces informations ne peuvent contenir de données personnelles que si la personne concernée y consent.
+
+<sup>2</sup> Si le signalement d’un cyberincident ou son analyse révèle que des informations sont nécessaires pour déceler à temps et prévenir des menaces pour la sûreté intérieure ou extérieure, pour apprécier la menace ou pour assurer un service d’alerte précoce en vue de protéger les infrastructures critiques conformément à l’art. 6, al. 1, let. a, 2 et 5, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^73d-2], l’OFCS transmet ces informations au SRC.
+
+<sup>3</sup> En dérogation à l’art. 22*a*, al. 1, de la loi du 24 mars 2000 sur le personnel de la Confédération[^73d-3], les collaborateurs de l’OFCS qui, dans le cadre d’un signalement ou de son analyse, obtiennent des informations sur une possible infraction la rapportent exclusivement au directeur de l’OFCS. Celui-ci peut dénoncer cette possible infraction aux autorités de poursuite pénale si la gravité de cette dernière le justifie.
+
+<sup>4</sup> La transmission par l’OFCS de secrets protégés par le droit pénal doit obéir aux exigences prévues à l’art. 320 du code pénal[^73d-4].
+
+[^73d-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73d-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^73d-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^73d-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 74
 
-**Tâches de la Confédération**
+**Soutien aux exploitants d’infrastructures critiques**[^74-1]
 
-<sup>1</sup> La Confédération apporte un soutien aux exploitants d’infrastructures critiques pour garantir que les interruptions de réseau et de système et que les utilisations abusives soient rares, de courte durée, maîtrisables et peu dommageables.
+<sup>1</sup> L’OFCS aide les exploitants d’infrastructures critiques à se protéger contre les cybermenaces.
 
 <sup>2</sup>
 
-Le soutien apporté par la Confédération en matière de sécurité de l’information prend les formes suivantes:
+Il met notamment à leur disposition, à titre gratuit et pour une utilisation sur une base volontaire, les outils suivants:
 
-- a. identification et évaluation précoces des menaces, dangers, vulnérabilités et failles de sécurité;
-- b. identification des incidents;
-- c. maintien et rétablissement de la sécurité de l’information après un incident;
-- d. suivi des incidents.
+- a. un système de communication permettant l’échange sécurisé d’informations;
+- b. des informations techniques sur les cybermenaces en cours et des recommandations sur les mesures préventives et réactives à prendre contre les cyberincidents;
+- c. des instruments techniques et des instructions de détection des cyberincidents visant à répondre aux besoins accrus de protection des infrastructures critiques.
 
-<sup>3</sup> La Confédération gère un service national d’alerte et un service d’assistance pour la mise en place de mesures techniques de sécurité à titre préventif ou après un incident.
+<sup>3</sup> Il peut les conseiller et les soutenir dans la gestion des cyberincidents et l’élimination des vulnérabilités lorsque le fonctionnement de l’infrastructure critique concernée est mis en péril et, s’il s’agit d’exploitants privés, qu’il n’est pas possible d’obtenir en temps voulu un soutien équivalent sur le marché.
 
-<sup>4</sup> Elle veille à ce que les exploitants d’infrastructures critiques puissent échanger des informations en toute sécurité, entre elles et avec les services compétents de la Confédération.
+<sup>4</sup> Avec l’accord de l’exploitant concerné, il peut accéder aux informations et aux moyens informatiques de celui-ci pour analyser un cyberincident.
 
-<sup>5</sup> Le Conseil fédéral désigne les services fédéraux chargés d’accomplir ces tâches.
+[^74-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### Section 2 Obligation de signaler les cyberattaques
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 74a
+
+**Principes**
+
+<sup>1</sup> Les autorités et les organisations énumérées à l’art. 74*b* veillent à ce que les cyberattaques visant leurs moyens informatiques soient signalées à l’OFCS.
+
+<sup>2</sup> L’OFCS renseigne les autorités et les organisations intéressées sur leur éventuel assujettissement à l’obligation de signaler et, sur demande, rend une décision sur ce point.
+
+<sup>3</sup> Lorsqu’elles signalent une cyberattaque, les autorités et les organisations assujetties ont droit, dans la gestion de l’incident, au soutien de l’OFCS prévu à l’art. 74, al. 3.
+
+<sup>4</sup> L’obligation de signaler vise uniquement à permettre à l’OFCS de détecter à un stade précoce les modes opératoires utilisés lors des attaques visant les infrastructures critiques et, ainsi, d’avertir les victimes potentielles et de leur recommander les mesures préventives et réactives qui s’imposent.
+
+#### Art. 74b
+
+**Autorités et organisations assujetties à l’obligation de signaler**
+
+<sup>1</sup>
+
+L’obligation de signaler s’applique:
+
+- a. aux hautes écoles au sens de l’art. 2, al. 2, de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^74b-1];
+- b. aux autorités fédérales, cantonales et communales ainsi qu’aux organisations intercantonales, cantonales et intercommunales, à l’exception du Groupement Défense lorsque l’armée accomplit un service d’appui ou un service actif au sens des art. 67 et 76 de la loi du 3 février 1995 sur l’armée[^74b-2];
+- c. aux organisations chargées de tâches de droit public dans les domaines de la sécurité et du sauvetage, de l’approvisionnement en eau potable, du traitement des eaux usées et de l’élimination des déchets;
+- d. aux entreprises œuvrant dans les domaines de l’approvisionnement énergétique au sens de l’art. 6, al. 1, de la loi du 30 septembre 2016 sur l’énergie[^74b-3] ainsi que du commerce, de la mesure et de la gestion de l’énergie, à l’exception des détenteurs d’une autorisation au sens de la loi du 21 mars 2003 sur l’énergie nucléaire[^74b-4] si une cyberattaque est lancée contre une installation nucléaire;
+- e. aux entreprises soumises à la loi du 8 novembre 1934 sur les banques[^74b-5], à la loi du 17 décembre 2004 sur la surveillance des assurances[^74b-6] ou à la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^74b-7];
+- f. aux établissements de santé figurant sur la liste hospitalière cantonale conformément à l’art. 39, al. 1, let. e, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^74b-8];
+- g. aux laboratoires médicaux titulaires d’une autorisation conformément à l’art. 16, al. 1, de la loi du 28 septembre 2012 sur les épidémies[^74b-9];
+- h. aux entreprises titulaires d’une autorisation de fabriquer, de mettre sur le marché ou d’importer des médicaments conformément à la loi du 15 décembre 2000 sur les produits thérapeutiques[^74b-10];
+- i. aux organisations qui fournissent des prestations destinées à couvrir les conséquences de la maladie, des accidents, de l’incapacité de travail et de gain, de la vieillesse, de l’invalidité et de l’impotence;
+- j. à la Société suisse de radiodiffusion et télévision;
+- k. aux agences de presse d’importance nationale;
+- l. aux prestataires de services postaux enregistrés auprès de la Commission de la poste conformément à l’art. 4, al. 1, de la loi du 17 décembre 2010 sur la poste[^74b-11];
+- m. aux entreprises ferroviaires visées à l’art. 5 ou 8*c* de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^74b-12] ainsi qu’aux entreprises d’installations à câbles, de trolleybus, d’autobus et de navigation concessionnaires au sens de l’art. 6 de la loi du 20 mars 2009 sur le transport de voyageurs[^74b-13];
+- n. aux entreprises de l’aviation civile disposant d’une autorisation délivrée par l’Office fédéral de l’aviation civile et aux aéroports nationaux figurant dans le Plan sectoriel de l’infrastructure aéronautique;
+- o. aux entreprises qui transportent des marchandises sur le Rhin conformément à la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse[^74b-14] et aux entreprises qui effectuent l’enregistrement, le chargement ou le déchargement de marchandises dans le port de Bâle;
+- p. aux entreprises qui approvisionnent la population en biens d’usage quotidien indispensables et dont la défaillance partielle ou complète entraînerait de graves difficultés d’approvisionnement;
+- q. aux fournisseurs de services de télécommunication enregistrés auprès de l’Office fédéral de la communication conformément à l’art. 4, al. 1, LTC[^74b-15];
+- r. aux registres et aux registraires de domaines Internet au sens de l’art. 28*b* LTC;
+- s. aux fournisseurs et aux exploitants de services et d’infrastructures servant à l’exercice des droits politiques;
+- t. aux fournisseurs et aux exploitants d’informatique en nuage, de moteurs de recherche, de services numériques de sécurité ou de confiance ainsi que de centres de calcul, pour autant qu’ils aient un siège en Suisse;
+- u.
+
+  aux fabricants de matériel informatique ou de logiciels dont les produits sont utilisés par des infrastructures critiques, si le matériel ou les logiciels concernés disposent d’un accès de télémaintenance ou sont utilisés à l’une des fins suivantes:
+
+  - 1\. commande et surveillance de systèmes et de processus techniques,
+  - 2\. garantie de la sécurité publique.
+
+<sup>2</sup> Les autorités et les organisations qui exercent également des activités ne relevant pas de l’al. 1 n’ont pas l’obligation de signaler les cyberattaques qui ont un effet uniquement sur ces activités.
+
+<sup>3</sup> L’obligation de signaler visée à l’al. 1 s’applique aux cyberattaques qui ont un effet en Suisse, même si les moyens informatiques concernés se trouvent à l’étranger.
+
+[^74b-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^74b-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^74b-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^74b-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^74b-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^74b-6]: [RS961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/fr)
+[^74b-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^74b-8]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^74b-9]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^74b-10]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^74b-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^74b-12]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^74b-13]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^74b-14]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^74b-15]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+#### Art. 74c
+
+**Exceptions à l’obligation de signaler**
+
+Le Conseil fédéral exempte les autorités et les organisations de l’obligation de signaler visée à l’art. 74*b* lorsque les perturbations provoquées par les cyberattaques n’ont qu’un effet limité sur le fonctionnement de l’économie ou sur le bien-être de la population.
+
+#### Art. 74d
+
+**Cyberattaques à signaler**
+
+Une cyberattaque doit être signalée lorsqu’elle:
+
+- a. met en péril le fonctionnement de l’infrastructure critique concernée;
+- b. a entraîné une manipulation ou une fuite d’informations;
+- c. n’a pas été détectée pendant une période prolongée, en particulier si des indices laissent penser qu’elle a été exécutée en vue de préparer d’autres cyberattaques, ou
+- d. s’accompagne d’actes de chantage, de menaces ou de contrainte.
+
+#### Art. 74e
+
+**Délai et contenu du signalement**
+
+<sup>1</sup> Le signalement doit être fait dans les 24 heures suivant la détection de la cyberattaque.
+
+<sup>2</sup> Il doit contenir des informations sur l’autorité ou l’organisation assujetties à l’obligation de signaler, sur le type et l’exécution de la cyberattaque sur ses effets, sur les mesures prises et, si elles sont connues, sur les mesures prévues.
+
+<sup>3</sup> Si toutes les informations requises ne sont pas connues au moment du signalement, l’autorité ou l’organisation assujettie complète le signalement dès qu’elle dispose de nouvelles informations.
+
+<sup>4</sup> Celui qui assume l’obligation de signaler pour une autorité ou une organisation n’est pas tenu, dans le cadre du signalement, de fournir des informations qui l’exposent à des poursuites pénales.
+
+<sup>5</sup> L’OFCS informe l’autorité ou l’organisation assujettie dès que toutes les données permettant de satisfaire à l’obligation de signaler sont disponibles.
+
+#### Art. 74f
+
+**Communication du signalement**
+
+<sup>1</sup> L’OFCS met à disposition un système sécurisé qui permet de lui communiquer le signalement des cyberattaques par voie électronique.
+
+<sup>2</sup> Le système doit permettre aux autorités ou aux organisations assujetties de communiquer simultanément à d’autres autorités tout ou partie du signalement de la cyberattaque ou de ses effets.
+
+<sup>3</sup> Si des informations dépassant le cadre prévu à l’art. 74*e* sont nécessaires à l’exécution d’une obligation de signaler vis-à-vis d’autres autorités, le système doit permettre aux autorités ou aux organisations assujetties de les communiquer directement aux autorités concernées, sans que l’OFCS y ait accès.
+
+### Section 3 Protection des données et échange d’informations
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 75
 
-**Traitement des données personnelles**
+**Traitement des données personnelles**[^75-1]
 
-<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent traiter des ressources d’adressage au sens de l’art. 3, let. f, de la loi du 30 avril 1997 sur les télécommunications[^75-1] et les données personnelles qui s’y rapportent dans la mesure où elles en ont besoin pour accomplir leurs tâches.
+<sup>1</sup>
 
-<sup>2</sup>
+Pour accomplir ses tâches, l’OFCS peut traiter des données personnelles, y compris les ressources d’adressage au sens de l’art. 3, let. f, LTC[^75-2] et les données sensibles qui s’y rapportent, qui contiennent des informations relatives:
 
-Ils peuvent également traiter les données visées à l’al. 1 lorsque ces dernières comportent des informations concernant:
+- a. à des opinions religieuses, philosophiques ou politiques; le traitement des données n’est admissible que dans la mesure où il est nécessaire à l’évaluation de menaces et de dangers concrets en matière de cybersécurité;
+- b. à des poursuites ou à des sanctions pénales ou administratives.
 
-- a. des opinions religieuses, philosophiques ou politiques; le traitement des données n’est admissible que dans la mesure où elles sont nécessaires à l’évaluation de menaces et dangers concrets en matière de sécurité de l’information;
-- b. des poursuites ou sanctions pénales ou administratives.
+<sup>2</sup> Lors du traitement de données personnelles ou en cas de soupçon fondé d’usurpation d’identité ou d’utilisation abusive de ressources d’adressage, l’OFCS en informe les personnes concernées si cela n’entraîne pas des efforts disproportionnés et qu’aucun intérêt public prépondérant ne s’y oppose.
 
-<sup>3</sup> Les données personnelles peuvent être traitées à l’insu de la personne concernée.
-
-<sup>4</sup> En cas de soupçon fondé d’usurpation d’identité ou d’utilisation abusive de ressources d’adressage, les services visés à l’art. 74, al. 5, informent la personne concernée. L’art. 20 LPD[^75-2] est réservé.[^75-3]
-
-[^75-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^75-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^75-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 5, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); FF **2017** 2465).
+[^75-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^75-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 76
 
-**Coopération sur le plan national**
+**Collaboration sur le plan national**[^76-1]
 
-<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent communiquer aux exploitants d’infrastructures critiques des données personnelles au sens de l’art 75 dans la mesure où elles sont utiles à la sécurité de l’information.
+<sup>1</sup> L’OFCS et les exploitants d’infrastructures peuvent communiquer entre eux des données personnelles dans la mesure où cela est nécessaire à la protection contre des cybermenaces.
 
-<sup>2</sup> Ils peuvent communiquer aux fournisseurs et exploitants de services informatiques et de communication des données personnelles au sens de l’art. 75 dans la mesure où elles sont nécessaires à la sécurité de l’information d’infrastructures critiques.
+<sup>2</sup> L’OFCS et les fournisseurs de services de télécommunication peuvent communiquer entre eux des ressources d’adressage et les données personnelles qui s’y rapportent dans la mesure où cela est nécessaire à la protection contre des cybermenaces.
 
-<sup>3</sup> Les exploitants d’infrastructures critiques de même que les fournisseurs et les exploitants de services informatiques et de communication peuvent communiquer aux services visés à l’art. 74, al. 5, des données liées à des incidents, y compris des données personnelles. Les services visés à l’art. 74, al. 5, ne peuvent transmettre ces données à des fins de poursuite pénale qu’avec l’autorisation expresse du fournisseur des données.
+[^76-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 76a
+
+**Soutien aux autorités**[^76a-1]
+
+<sup>1</sup> L’OFCS apporte son soutien au SRC en lui fournissant des évaluations périodiques du nombre, du type et de l’ampleur des cyberattaques ainsi que, sur demande, des analyses techniques des cybermenaces.
+
+<sup>2</sup> Il octroie au SRC l’accès à des informations concernant l’identité ou le mode opératoire des auteurs de cyberattaques dans le but de déceler à temps et de prévenir les menaces pour la sûreté intérieure ou extérieure, d’apprécier la menace ou d’assurer un service d’alerte précoce en vue de protéger les infrastructures critiques au sens de l’art. 6, al. 1, let. a, 2 et 5, LRens[^76a-2].
+
+<sup>3</sup> Il octroie aux autorités de poursuite pénale l’accès à des informations concernant l’identité et le mode opératoire des auteurs de cyberattaques.
+
+<sup>4</sup> Il octroie aux services cantonaux chargés de la cybersécurité l’accès aux informations nécessaires à la protection contre les cybermenaces.
+
+[^76a-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^76a-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 77
 
-**Coopération internationale**
+**Coopération internationale**[^77-1]
 
-<sup>1</sup> Les services visés à l’art. 74, al. 5, peuvent échanger avec des services étrangers ou internationaux chargés de la protection d’infrastructures critiques des données au sens de l’art. 75 lorsqu’elles sont nécessaires pour accomplir des tâches correspondant à celles définies à l’art. 74.
+<sup>1</sup> L’OFCS peut échanger avec des services étrangers ou internationaux chargés de la cybersécurité des informations permettant de connaître l’identité ou le mode opératoire des auteurs de cyberattaques s’ils en ont besoin pour accomplir des tâches qui correspondent à celles de l’OFCS. Si l’échange d’informations comprend également des données personnelles, les art. 16 et 17 LPD[^77-2] sont applicables.
 
-<sup>2</sup> L’échange de données au sens de l’al. 1 n’est autorisé que si les services étrangers ou internationaux garantissent que les données seront utilisées exclusivement aux fins prévues à l’al. 1.
+<sup>2</sup> L’échange d’informations au sens de l’al. 1 n’est autorisé que si les services étrangers ou internationaux garantissent que les données seront utilisées conformément aux fins prévues.
 
-<sup>3</sup> Si les données sont nécessaires à l’exécution d’une procédure à l’étranger, les dispositions régissant l’assistance administrative et l’entraide judiciaire sont applicables.
+[^77-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^77-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 78
 
-**Système d’information pour le soutien aux infrastructures critiques**
+[^78-1]
 
-<sup>1</sup> Les services visés à l’art. 74, al. 5, exploitent un système d’information permettant d’échanger en toute sécurité des informations avec les exploitants des infrastructures critiques.
-
-<sup>2</sup>
-
-Le système contient les informations suivantes:
-
-- a. description et évaluation des menaces et dangers;
-- b. consignes sur l’identification et la résolution techniques des incidents;
-- c. analyses des incidents et recommandations pour la sécurité;
-- d. analyses des vulnérabilités que présentent les moyens informatiques;
-- e. correspondance.
-
-<sup>3</sup> Les informations visées à l’al. 2 peuvent contenir des données personnelles au sens de l’art. 75.
+[^78-1]: Abrogé par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), avec effet au 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 79
 
 **Conservation et archivage des données**
 
-<sup>1</sup> Les services visés à l’art. 74, al. 5, conservent les données personnelles aussi longtemps que celles-ci sont utiles pour prévenir des dangers ou pour identifier des incidents, mais cinq ans au plus.
+<sup>1</sup> L’OFCS conserve les données personnelles aussi longtemps que celles-ci sont utiles pour détecter des cybermenaces ou gérer des cyberincidents, mais durant cinq ans au plus à compter de leur dernière utilisation à cette fin. Pour les données sensibles, le délai est de deux ans.[^79-1]
 
 <sup>2</sup> L’archivage des données est régi par les dispositions de la législation relative à l’archivage.
 
+[^79-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
 #### Art. 80
 
-**Dispositions édictées par le Conseil fédéral**
+[^80-1]
 
-Le Conseil fédéral règle:
-
-- a. la répartition des tâches, la collaboration et les échanges entre les services visés à l’art. 74, al. 5, et le SRC;
-- b. les modalités de la communication d’informations aux exploitants d’infrastructures critiques, à des tiers et aux services étrangers et internationaux;
-- c. les responsabilités en matière de protection des données traitées dans le système d’information visé à l’art. 78 et la sécurité des données;
-- d. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles dans le système d’information visé à l’art. 78.
+[^80-1]: Abrogé par le ch. I de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), avec effet au 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## Chapitre 6 Organisation et exécution
 

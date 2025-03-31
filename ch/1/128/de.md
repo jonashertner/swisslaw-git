@@ -4,20 +4,22 @@ title: "Bundesgesetz vom 18. Dezember 2020 über die Informationssicherheit (Inf
 short: ISG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: de
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Informationssicherheit beim Bund
+# Bundesgesetz über die Informationssicherheit
 
-(Informationssicherheitsgesetz, ISG)
+(Informationssicherheitsgesetz, ISG)[^t-1]
 
-vom 18. Dezember 2020 (Stand am 1. Januar 2024)
+vom 18. Dezember 2020 (Stand am 1. April 2025)
+
+[^t-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -34,7 +36,12 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz soll die sichere Bearbeitung der Informationen, für die der Bund zuständig ist, sowie den sicheren Einsatz der Informatikmittel des Bundes gewährleisten.
+<sup>1</sup>
+
+Dieses Gesetz soll:
+
+- a. die sichere Bearbeitung der Informationen, für die der Bund zuständig ist, sowie den sicheren Einsatz der Informatikmittel des Bundes gewährleisten;
+- b. die Widerstandsfähigkeit der Schweiz gegenüber Cyberbedrohungen erhöhen.[^1-1]
 
 <sup>2</sup>
 
@@ -45,6 +52,8 @@ Dadurch sollen die folgenden öffentlichen Interessen geschützt werden:
 - c. die aussenpolitischen Interessen der Schweiz;
 - d. die wirtschafts-, finanz- und währungspolitischen Interessen der Schweiz;
 - e. die Erfüllung der gesetzlichen und vertraglichen Verpflichtungen der Behörden und Organisationen des Bundes zum Schutz von Informationen.
+
+[^1-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 2
 
@@ -79,9 +88,10 @@ Der Bundesrat kann für Organisationen nach Artikel 2 Absätze 3 und 4 RVOG die 
 
 <sup>4</sup> Er kann die Geltung nach Absatz 3 auf Teile des Gesetzes beschränken. Er berücksichtigt dabei die Vollzugsautonomie der betreffenden Organisationen nach Massgabe ihrer Organisationserlasse.
 
-<sup>5</sup> Für Organisationen des öffentlichen und privaten Rechts, die kritische Infrastrukturen betreiben, die aber nicht unter die Absätze 1–3 fallen, gelten die Artikel 74–80. Die Spezialgesetzgebung kann weitere Teile dieses Gesetzes für anwendbar erklären.
+<sup>5</sup> Für Organisationen des öffentlichen und privaten Rechts, die kritische Infrastrukturen betreiben, die aber nicht unter die Absätze 1–3 fallen, gelten die Artikel 73*a*–79.[^2-2] Die Spezialgesetzgebung kann weitere Teile dieses Gesetzes für anwendbar erklären.
 
 [^2-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 3
 
@@ -100,11 +110,15 @@ Für die Kantone gelten nur die Bestimmungen:
 
 **Verhältnis zu anderen Erlassen des Bundes**
 
-<sup>1</sup> Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^4-1] geht diesem Gesetz vor.
+<sup>1</sup> Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^4-1] (BGÖ) geht diesem Gesetz vor.[^4-2]
+
+<sup>1bis</sup> Informationen Dritter, von denen das Bundesamt für Cybersicherheit (BACS) durch die Entgegennahme und Analyse von Meldungen gemäss dem 5. Kapitel Kenntnis erhält, dürfen nicht nach dem BGÖ zugänglich gemacht werden. Nicht als Dritte gelten Behörden, Organisationen und Personen nach Artikel 2 Absatz 1 BGÖ.[^4-3]
 
 <sup>2</sup> Für Informationen, deren Schutz auch in anderen Bundesgesetzen geregelt ist, finden die Bestimmungen dieses Gesetzes ergänzend Anwendung.
 
 [^4-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^4-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^4-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 5
 
@@ -121,7 +135,16 @@ In diesem Gesetz bedeuten:
   - 2\. die Verwaltung, der Betrieb, die Wartung und die Überprüfung von Informatikmitteln der Sicherheitsstufe «hoher Schutz» oder «sehr hoher Schutz»,
   - 3\. der Zugang zu Sicherheitszonen, insbesondere zu Schutzzone 2 oder 3 einer Anlage nach der Gesetzgebung über den Schutz militärischer Anlagen;
 
-- c. *kritische Infrastrukturen:* Trinkwasser- und Energieversorgung, Informations-, Kommunikations- und Transportinfrastrukturen sowie weitere Prozesse, Systeme und Einrichtungen, die essenziell für das Funktionieren der Wirtschaft beziehungsweise das Wohlergehen der Bevölkerung sind.
+- c. *kritische Infrastrukturen:* Trinkwasser- und Energieversorgung, Informations-, Kommunikations- und Transportinfrastrukturen sowie weitere Prozesse, Systeme und Einrichtungen, die essenziell für das Funktionieren der Wirtschaft beziehungsweise das Wohlergehen der Bevölkerung sind;
+- d.[^5-1] *Cybervorfall**:* Ereignis bei der Nutzung von Informatikmitteln, das dazu führt, dass die Vertraulichkeit, Verfügbarkeit oder Integrität von Informationen oder die Nachvollziehbarkeit ihrer Bearbeitung beeinträchtigt ist;
+- e.[^5-2] *Cyberangriff**:* Cybervorfall, der absichtlich ausgelöst wurde;
+- f.[^5-3] *Cyberbedrohung**:* Jeder Umstand oder jedes Ereignis mit dem Potenzial, einen Cybervorfall zu ermöglichen;
+- g.[^5-4] *Schwachstelle:* Cyberbedrohung, die auf Schwächen oder Fehler in Informatikmitteln zurückzuführen ist.
+
+[^5-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## 2. Kapitel: Allgemeine Massnahmen
 
@@ -185,6 +208,42 @@ Sie legen fest:
 <sup>1</sup> Die verpflichteten Behörden und Organisationen sorgen dafür, dass Verletzungen der Informationssicherheit rasch erkannt, deren Ursachen abgeklärt und allfällige Auswirkungen minimiert werden.
 
 <sup>2</sup> Die verpflichteten Behörden sorgen dafür, dass für allfällige schwerwiegende Verletzungen der Informationssicherheit, welche die Erfüllung unverzichtbarer Aufgaben des Bundes gefährden können, Vorsorgeplanungen erstellt und entsprechende Übungen durchgeführt werden.
+
+#### Art. 10a
+
+**Bearbeitung von Personendaten**[^10a-1]
+
+<sup>1</sup> Die verpflichteten Behörden und Organisationen können die zur Gewährleistung der Informationssicherheit zweckmässigen Personendaten, insbesondere in dafür vorgesehenen Informationssystemen (ISMS-Anwendungen), bearbeiten.
+
+<sup>2</sup>
+
+Sie können Personendaten nach Absatz 1 untereinander sowie mit nationalen, internationalen und ausländischen Organisationen des öffentlichen Rechts austauschen, sofern:
+
+- a. dies zur Gewährleistung der Informationssicherheit zweckmässig ist;
+- b. keine gesetzlichen oder vertraglichen Geheimhaltungspflichten verletzt werden;
+- c. die Vorgaben der Bundesgesetzgebung über den Datenschutz eingehalten werden; und
+- d. diese Organisationen gesetzliche Aufgaben im Bereich der Informationssicherheit wahrnehmen, die denjenigen der bekanntgebenden Behörde oder Organisation entsprechen.
+
+<sup>3</sup> Sie können ihre Informationssysteme, insbesondere die ISMS-Anwendungen, miteinander verknüpfen und Daten automatisch oder auf Anfrage über Schnittstellen austauschen.
+
+<sup>4</sup> Sie können zur Einreichung und Bearbeitung von Anträgen und Meldungen im Bereich der Informationssicherheit digitale Formulare betreiben und diese mit ihren ISMS-Anwendungen oder anderen Informationssystemen verknüpfen.
+
+<sup>5</sup>
+
+Sofern dies für die Bewältigung von Verletzungen der Informationssicherheit oder die Behebung von Schwachstellen erforderlich ist, können sie besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^10a-2] (DSG) von Personen, die daran beteiligt oder davon betroffen sind respektive sein könnten:
+
+- a. bearbeiten;
+- b. untereinander sowie mit nationalen, internationalen und ausländischen Organisationen des öffentlichen Rechts austauschen, sofern die Bedingung nach Absatz 2 Buchstabe b erfüllt ist.
+
+<sup>6</sup> Sie dürfen die besonders schützenswerten Personendaten bis zwei Jahre nach der Bewältigung der Verletzungen der Informationssicherheit oder der Behebung der Schwachstellen aufbewahren, höchstens aber zehn Jahre.
+
+<sup>7</sup> Die Archivierung der Daten richtet sich nach den Vorschriften der Archivierungsgesetzgebung.
+
+<sup>8</sup> Die Bearbeitung von Personendaten durch das BACS[^10a-3] zur Erfüllung seiner Aufgaben richtet sich nach den Artikeln 75–79.
+
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^10a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10a-3]: Ausdruck gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 1. April 2025 ([AS 2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 2. Abschnitt: Klassifizierung von Informationen
 
@@ -652,7 +711,7 @@ Die geprüfte Person hat nach Erhalt der Erklärung nach Artikel 39 Absatz 1 30 
 - b. die Berichtigung falscher Daten oder die Vernichtung nicht mehr aktueller Daten zu verlangen;
 - c. einen Bestreitungsvermerk anbringen zu lassen.
 
-<sup>2</sup> Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^44-1] (DSG).[^44-2]
+<sup>2</sup> Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 26 DSG[^44-1].[^44-2]
 
 <sup>3</sup> Die Erklärung stellt einen Realakt nach Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^44-3] dar. Die geprüfte Person kann gegen eine Erklärung nach Artikel 39 Absatz 1 Buchstaben b–d innerhalb von 30 Tagen nach deren Erhalt beim Bundesverwaltungsgericht Beschwerde führen.
 
@@ -661,7 +720,7 @@ Die geprüfte Person hat nach Erhalt der Erklärung nach Artikel 39 Absatz 1 30 
 <sup>5</sup> Das Beschwerdeverfahren richtet sich im Übrigen nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
 [^44-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^44-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^44-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 [^44-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^44-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
@@ -1083,106 +1142,289 @@ Der Bundesrat regelt:
 - d. die Datensicherheit im Informationssystem nach Artikel 70;
 - e. die periodische Kontrolle der Bearbeitung von Personendaten durch eine externe Stelle.
 
-## 5. Kapitel: Kritische Infrastrukturen
+## 5. Kapitel: Massnahmen des Bundes zum Schutz der Schweiz vor Cyberbedrohungen
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73a
+
+**Grundsatz**[^73a-1]
+
+<sup>1</sup> Zum Schutz der Schweiz vor Cyberbedrohungen erstellt das BACS technische Analysen zur Bewertung und Abwehr von Cybervorfällen und Cyberbedrohungen sowie zur Identifikation und Behebung von Schwachstellen.
+
+<sup>2</sup>
+
+Gestützt auf die Analysen nimmt das BACS insbesondere folgende Aufgaben wahr:
+
+- a. Sensibilisierung und Warnung der Öffentlichkeit in Bezug auf Cyberbedrohungen;
+- b. Warnung von betroffenen Behörden, Organisationen und Personen bei unmittelbaren Cyberbedrohungen oder laufenden Cyberangriffen;
+- c. Veröffentlichung von Informationen zur Cybersicherheit sowie von Empfehlungen für präventive und reaktive Massnahmen gegen Cybervorfälle;
+- d. Entgegennahme und Bearbeitung von Meldungen zu Cybervorfällen und Cyberbedrohungen;
+- e. Unterstützung von Betreiberinnen kritischer Infrastrukturen.
+
+[^73a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73b
+
+**Meldungen**[^73b-1]
+
+<sup>1</sup> Das BACS nimmt Meldungen zu Cybervorfällen und Cyberbedrohungen entgegen. Die Meldungen können anonym erfolgen.
+
+<sup>2</sup> Das BACS analysiert die Meldungen bezüglich ihrer Bedeutung für den Schutz der Schweiz vor Cyberbedrohungen. Es gibt auf Antrag eine Empfehlung zum weiteren Vorgehen ab, sofern dafür keine weiteren Analysen und Abklärungen erforderlich sind.
+
+<sup>3</sup> Erhält das BACS Kenntnis von einer Schwachstelle, so informiert es umgehend die Herstellerin der betroffenen Hard- oder Software und setzt ihr zur Behebung der Schwachstelle eine angemessene Frist. Es weist sie darauf hin, dass eine Missachtung beschaffungsrechtlich sanktioniert werden kann (Art. 44 Abs. 1 Bst. f<sup>bis</sup> des Bundesgesetzes vom 21. Juni 2019[^73b-2] über das öffentliche Beschaffungswesen) und dass das BACS nach Fristablauf Informationen zur Schwachstelle nach Artikel 73*c* Absatz 2 veröffentlichen kann.
+
+[^73b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73b-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+
+#### Art. 73c
+
+**Veröffentlichung von Informationen aus Meldungen**[^73c-1]
+
+<sup>1</sup> Das BACS kann Informationen zu Cybervorfällen veröffentlichen, sofern dies dem Schutz vor Cyberbedrohungen dient. Diese Informationen dürfen nur dann Aufschluss über die betroffene natürliche oder juristische Person geben, sofern diese einwilligt und es sich um missbräuchlich verwendete Identifikationsmerkmale und Adressierungselemente handelt.
+
+<sup>2</sup> Das BACS kann Informationen zu Schwachstellen unter Angabe der betroffenen Hard- oder Software veröffentlichen, sofern die Herstellerin einwilligt oder die Schwachstelle nicht innert der Frist nach Artikel 73*b* Absatz 3 behoben hat.
+
+[^73c-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73d
+
+**Weiterleitung von Informationen**[^73d-1]
+
+<sup>1</sup> Das BACS kann Informationen aus Meldungen an Behörden und Organisationen weiterleiten, die im Bereich der Cybersicherheit tätig sind. Diese Informationen dürfen nur dann Personendaten umfassen, wenn die betroffene Person einwilligt.
+
+<sup>2</sup> Ergeben sich aus der Meldung eines Cybervorfalls oder dessen Analyse Informationen, die für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren oder äusseren Sicherheit, für die Beurteilung der Bedrohungslage oder für die nachrichtendienstliche Frühwarnung zum Schutz kritischer Infrastrukturen nach Artikel 6 Absätze 1 Buchstabe a, 2 und 5 des Nachrichtendienstgesetzes vom 25. September 2015[^73d-2] (NDG) erforderlich sind, so leitet das BACS diese Informationen an den NDB weiter.
+
+<sup>3</sup> Erhalten Mitarbeiterinnen und Mitarbeiter des BACS im Zusammenhang mit einer Meldung oder deren Analyse Hinweise auf eine mögliche Straftat, so zeigen sie diese abweichend von Artikel 22*a* Absatz 1 des Bundespersonalgesetzes vom 24. März 2000[^73d-3] ausschliesslich der Leiterin oder dem Leiter des BACS an. Diese oder dieser kann Anzeige bei den Strafverfolgungsbehörden erstatten, sofern dies aufgrund der Schwere der möglichen Straftat geboten scheint.
+
+<sup>4</sup> Strafrechtlich geschützte Geheimnisse darf das BACS nur nach den Vorgaben von Artikel 320 des Strafgesetzbuches[^73d-4] weiterleiten.
+
+[^73d-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73d-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^73d-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^73d-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 74
 
-**Aufgaben des Bundes**
+**Unterstützung von Betreiberinnen kritischer Infrastrukturen**[^74-1]
 
-<sup>1</sup> Der Bund unterstützt die Betreiberinnen von kritischen Infrastrukturen, um zu gewährleisten, dass Netz- und Systemunterbrechungen sowie Missbräuche selten, von kurzer Dauer und beherrschbar sind und das Schadensausmass gering ist.
+<sup>1</sup> Das BACS unterstützt die Betreiberinnen kritischer Infrastrukturen beim Schutz vor Cyberbedrohungen.
 
 <sup>2</sup>
 
-Die Unterstützung im Bereich der Informationssicherheit umfasst:
+Es stellt ihnen insbesondere folgende Hilfsmittel unentgeltlich und zur freiwilligen Nutzung zur Verfügung:
 
-- a. die frühzeitige Identifizierung und Bewertung von Bedrohungen, Gefahren, Schwachstellen und Sicherheitslücken;
-- b. die Erkennung von Vorfällen;
-- c. die Erhaltung und Wiederherstellung der Informationssicherheit nach einem Vorfall;
-- d. die Nachbearbeitung von Vorfällen.
+- a. ein Kommunikationssystem für den sicheren Informationsaustausch;
+- b. technische Informationen zu aktuellen Cyberbedrohungen sowie Empfehlungen für präventive und reaktive Massnahmen gegen Cybervorfälle;
+- c. technische Instrumente und Anleitungen zur Erkennung von Cybervorfällen, die auf den erhöhten Schutzbedarf kritischer Infrastrukturen ausgerichtet sind.
 
-<sup>3</sup> Der Bund führt einen nationalen Frühwarndienst und eine Anlaufstelle für präventive und reaktive Massnahmen im Bereich der technischen Informationssicherheit.
+<sup>3</sup> Es kann sie bei der Bewältigung von Cybervorfällen und der Behebung von Schwachstellen beraten und unterstützen, wenn die Funktionsfähigkeit der betroffenen kritischen Infrastruktur gefährdet ist und, sofern es sich um private Betreiberinnen handelt, die Beschaffung gleichwertiger Unterstützung auf dem Markt nicht rechtzeitig möglich ist.
 
-<sup>4</sup> Er sorgt dafür, dass die Betreiberinnen von kritischen Infrastrukturen mit den zuständigen Stellen des Bundes sowie gegenseitig Informationen sicher austauschen können.
+<sup>4</sup> Es kann zur Analyse eines Cybervorfalls mit dem Einverständnis der betroffenen Betreiberin auf deren Informationen und Informatikmittel zugreifen.
 
-<sup>5</sup> Der Bundesrat bezeichnet die für diese Aufgaben zuständigen Stellen des Bundes.
+[^74-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### 2. Abschnitt: Pflicht zur Meldung von Cyberangriffen
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 74a
+
+**Grundsätze**
+
+<sup>1</sup> Behörden und Organisationen nach Artikel 74*b* müssen dafür sorgen, dass dem BACS Cyberangriffe auf ihre Informatikmittel gemeldet werden.
+
+<sup>2</sup> Das BACS erteilt interessierten Behörden und Organisationen Auskunft darüber, ob sie der Meldepflicht unterstellt sind und erlässt auf Antrag eine entsprechende Verfügung.
+
+<sup>3</sup> Durch die Meldung eines Cyberangriffs haben die meldepflichtigen Behörden und Organisationen Anspruch auf die Unterstützung des BACS bei der Vorfallbewältigung nach Artikel 74 Absatz 3.
+
+<sup>4</sup> Die Meldepflicht dient ausschliesslich dazu, dass das BACS Angriffsmuster auf kritische Infrastrukturen frühzeitig erkennen und dadurch mögliche Betroffene warnen und ihnen geeignete Präventions- und Abwehrmassnahmen empfehlen kann.
+
+#### Art. 74b
+
+**Meldepflichtige Behörden und Organisationen**
+
+<sup>1</sup>
+
+Die Meldepflicht gilt für:
+
+- a. Hochschulen nach Artikel 2 Absatz 2 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^74b-1];
+- b. Bundes-, Kantons- und Gemeindebehörden sowie interkantonale, kantonale und interkommunale Organisationen, mit Ausnahme der Gruppe Verteidigung, wenn die Armee Assistenzdienst nach Artikel 67 oder Aktivdienst nach Artikel 76 des Militärgesetzes vom 3. Februar 1995[^74b-2] leistet;
+- c. Organisationen mit öffentlich-rechtlichen Aufgaben in den Bereichen Sicherheit und Rettung, Trinkwasserversorgung, Abwasseraufbereitung und Abfallentsorgung;
+- d. Unternehmen, die in den Bereichen Energieversorgung nach Artikel 6 Absatz 1 des Energiegesetzes vom 30. September 2016[^74b-3], Energiehandel, Energiemessung oder Energiesteuerung tätig sind, mit Ausnahme der Bewilligungsinhaber gemäss Kernenergiegesetz vom 21. März 2003[^74b-4], sofern ein Cyberangriff auf eine Kernanlage erfolgt;
+- e. Unternehmen, die dem Bankengesetz vom 8. November 1934[^74b-5], dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^74b-6] oder dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^74b-7] unterstehen;
+- f. Gesundheitseinrichtungen, die auf der kantonalen Spitalliste nach Artikel 39 Absatz 1 Buchstabe e des Bundesgesetzes vom 18. März 1994[^74b-8] über die Krankenversicherung aufgeführt sind;
+- g. medizinische Laboratorien mit einer Bewilligung nach Artikel 16 Absatz 1 des Epidemiengesetzes vom 28. September 2012[^74b-9];
+- h. Unternehmen, die für die Herstellung, das Inverkehrbringen und die Einfuhr von Arzneimitteln eine Bewilligung nach dem Heilmittelgesetz vom 15. Dezember 2000[^74b-10] haben;
+- i. Organisationen, die Leistungen zur Absicherung gegen die Folgen von Krankheit, Unfall, Arbeits- und Erwerbsunfähigkeit, Alter, Invalidität und Hilflosigkeit erbringen;
+- j. die Schweizerische Radio- und Fernsehgesellschaft;
+- k. Nachrichtenagenturen von nationaler Bedeutung;
+- l. Anbieterinnen von Postdiensten, die nach Artikel 4 Absatz 1 des Postgesetzes vom 17. Dezember 2010[^74b-11] bei der Postkommission registriert sind;
+- m. Eisenbahnunternehmen nach Artikel 5 oder 8*c* des Eisenbahngesetzes vom 20. Dezember 1957[^74b-12] sowie Seilbahn-, Trolleybus-, Autobus- und Schifffahrtsunternehmen mit einer Konzession nach Artikel 6 des Personenbeförderungsgesetzes vom 20. März 2009[^74b-13];
+- n. Unternehmen der Zivilluftfahrt, die über eine Bewilligung des Bundesamtes für Zivilluftfahrt verfügen, sowie die Landesflughäfen gemäss Sachplan Infrastruktur der Luftfahrt;
+- o. Unternehmen, die nach dem Seeschifffahrtsgesetz vom 23. September 1953[^74b-14] Güter auf dem Rhein befördern, sowie Unternehmen, welche die Registrierung, Ladung oder Löschung im Hafen Basel betreiben;
+- p. Unternehmen, welche die Bevölkerung mit unentbehrlichen Gütern des täglichen Bedarfs versorgen und deren Ausfall oder Beeinträchtigung zu erheblichen Versorgungsengpässen führen würde;
+- q. Anbieterinnen von Fernmeldediensten, die beim Bundesamt für Kommunikation nach Artikel 4 Absatz 1 FMG[^74b-15] registriert sind;
+- r. Registerbetreiberinnen und Registrare von Internet-Domains nach Artikel 28*b* FMG;
+- s. Anbieterinnen und Betreiberinnen von Diensten und Infrastrukturen, die der Ausübung der politischen Rechte dienen;
+- t. Anbieterinnen und Betreiberinnen von Cloudcomputing, Suchmaschinen, digitalen Sicherheits- und Vertrauensdiensten sowie Rechenzentren, sofern sie einen Sitz in der Schweiz haben;
+- u.
+
+  Herstellerinnen von Hard- oder Software, deren Produkte von kritischen Infrastrukturen genutzt werden, sofern die Hard- oder Software einen Fernwartungszugang hat oder zu einem der folgenden Zwecken eingesetzt wird:
+
+  - 1\. Steuerung und Überwachung von betriebstechnischen Systemen und Prozessen,
+  - 2\. Gewährleistung der öffentlichen Sicherheit.
+
+<sup>2</sup> Bei Behörden und Organisationen, die auch Tätigkeiten ausüben, die nicht unter Absatz 1 fallen, besteht keine Meldepflicht für Cyberangriffe, die sich ausschliesslich auf diese Tätigkeiten auswirken.
+
+<sup>3</sup> Die Meldepflicht nach Absatz 1 gilt für Cyberangriffe, die sich in der Schweiz auswirken, auch wenn sich die betroffenen Informatikmittel im Ausland befinden.
+
+[^74b-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^74b-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^74b-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^74b-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^74b-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^74b-6]: [[SR 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^74b-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^74b-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^74b-9]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^74b-10]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^74b-11]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^74b-12]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^74b-13]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^74b-14]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^74b-15]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+#### Art. 74c
+
+**Ausnahmen von der Meldepflicht**
+
+Der Bundesrat nimmt Behörden und Organisationen von der Meldepflicht nach Artikel 74*b* aus, wenn durch Cyberangriffe ausgelöste Funktionsstörungen nur geringe Auswirkungen auf das Funktionieren der Wirtschaft oder das Wohlergehen der Bevölkerung haben.
+
+#### Art. 74d
+
+**Zu meldende Cyberangriffe**
+
+Ein Cyberangriff muss gemeldet werden, wenn er:
+
+- a. die Funktionsfähigkeit der betroffenen kritischen Infrastruktur gefährdet;
+- b. zu einer Manipulation oder zu einem Abfluss von Informationen geführt hat;
+- c. über einen längeren Zeitraum unentdeckt blieb, insbesondere wenn Anzeichen dafür bestehen, dass er zur Vorbereitung weiterer Cyberangriffe ausgeführt wurde; oder
+- d. mit Erpressung, Drohung oder Nötigung verbunden ist.
+
+#### Art. 74e
+
+**Frist und Inhalt der Meldung**
+
+<sup>1</sup> Die Meldung muss innert 24 Stunden nach der Entdeckung des Cyberangriffs erfolgen.
+
+<sup>2</sup> Sie muss Informationen zur meldepflichtigen Behörde oder Organisation, zur Art und Ausführung des Cyberangriffs, zu seinen Auswirkungen, zu ergriffenen Massnahmen und, soweit bekannt, zum geplanten weiteren Vorgehen enthalten.
+
+<sup>3</sup> Sind zum Zeitpunkt der Meldung nicht alle erforderlichen Informationen bekannt, so ergänzt die meldepflichtige Behörde oder Organisation die Meldung, sobald sie über neue Informationen verfügt.
+
+<sup>4</sup> Wer die Meldepflicht für eine Behörde oder Organisation zu erfüllen hat, muss im Rahmen der Meldung keine Angaben machen, die sie oder ihn strafrechtlich belasten.
+
+<sup>5</sup> Das BACS informiert die meldepflichtige Behörde oder Organisation, sobald alle Angaben zur Erfüllung der Meldepflicht vorliegen.
+
+#### Art. 74f
+
+**Übermittlung der Meldung**
+
+<sup>1</sup> Für die elektronische Meldung von Cyberangriffen stellt das BACS ein sicheres System zur Übermittlung der Meldung zur Verfügung.
+
+<sup>2</sup> Das System muss den meldepflichtigen Behörden und Organisationen ermöglichen, die Meldung des Cyberangriffs oder seiner Auswirkungen gesamthaft oder in Teilen an weitere Behörden zu übermitteln.
+
+<sup>3</sup> Sind zur Erfüllung einer Meldepflicht gegenüber weiteren Behörden Informationen erforderlich, die über Artikel 74*e* hinausgehen, so muss das System den meldepflichtigen Behörden und Organisationen ermöglichen, diese Informationen direkt an die betreffenden Behörden zu übermitteln, ohne dass das BACS darauf Zugriff hat.
+
+### 3. Abschnitt: Datenschutz und Informationsaustausch
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 75
 
-**Bearbeitung von Personendaten**
+**Bearbeitung von Personendaten**[^75-1]
 
-<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können zur Erfüllung ihrer Aufgaben Adressierungselemente nach Artikel 3 Buchstabe f FMG[^75-1] und damit zusammenhängende Personendaten bearbeiten.
+<sup>1</sup>
 
-<sup>2</sup>
+Das BACS kann zur Erfüllung seiner Aufgaben Personendaten bearbeiten, einschliesslich Adressierungselemente nach Artikel 3 Buchstabe f FMG[^75-2] und damit zusammenhängende besonders schützenswerte Personendaten, die Informationen enthalten über:
 
-Sie können die Daten nach Absatz 1 auch bearbeiten, wenn diese:
+- a. religiöse, weltanschauliche oder politische Ansichten; die Bearbeitung ist nur zulässig, wenn sie für die Bewertung von konkreten Bedrohungen und Gefahren im Bereich der Cybersicherheit erforderlich ist;
+- b. administrative oder strafrechtliche Verfolgungen und Sanktionen.
 
-- a. Informationen über religiöse, weltanschauliche oder politische Ansichten enthalten; die Bearbeitung ist nur zulässig, wenn sie für die Bewertung von konkreten Bedrohungen und Gefahren im Bereich der Informationssicherheit erforderlich ist;
-- b. Informationen über administrative oder strafrechtliche Verfolgungen und Sanktionen enthalten.
+<sup>2</sup> Bei der Bearbeitung von Personendaten oder bei konkreten Hinweisen auf den Missbrauch einer Identität oder auf die unberechtigte Verwendung von Adressierungselementen informiert das BACS die betroffenen Personen, sofern dies nicht mit unverhältnismässigem Aufwand verbunden ist und keine überwiegenden öffentlichen Interessen entgegenstehen.
 
-<sup>3</sup> Die Personendaten können bearbeitet werden, ohne dass dies für die betroffenen Personen ersichtlich ist.
-
-<sup>4</sup> Liegen konkrete Hinweise auf den Missbrauch einer Identität oder auf die unberechtigte Verwendung von Adressierungselementen vor, so sind die betroffenen Personen zu informieren. Vorbehalten bleibt Artikel 20 DSG[^75-2].[^75-3]
-
-[^75-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^75-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^75-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^75-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^75-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 76
 
-**Zusammenarbeit im Inland**
+**Zusammenarbeit im Inland**[^76-1]
 
-<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können den Betreiberinnen von kritischen Infrastrukturen Personendaten nach Artikel 75 bekanntgeben, sofern dies zur Gewährleistung der Informationssicherheit zweckmässig ist.
+<sup>1</sup> Das BACS und die Betreiberinnen kritischer Infrastrukturen können Personendaten untereinander austauschen, sofern dies zum Schutz vor Cyberbedrohungen erforderlich ist.
 
-<sup>2</sup> Sie können den Anbieterinnen und Betreiberinnen von Informatik- und Kommunikationsdiensten Personendaten nach Artikel 75 bekanntgeben, sofern dies zur Gewährleistung der Informationssicherheit von kritischen Infrastrukturen erforderlich ist.
+<sup>2</sup> Das BACS und die Fernmeldedienstanbieterinnen können Adressierungselemente und damit zusammenhängende Personendaten untereinander austauschen, sofern dies zum Schutz vor Cyberbedrohungen erforderlich ist.
 
-<sup>3</sup> Die Betreiberinnen von kritischen Infrastrukturen sowie die Anbieterinnen und Betreiberinnen von Informatik- und Kommunikationsdiensten können den Stellen nach Artikel 74 Absatz 5 Daten, einschliesslich Personendaten, die sich auf einen bestimmten Vorfall beziehen, bekanntgeben. Die Stellen nach Artikel 74 Absatz 5 dürfen diese Daten nur mit ausdrücklicher Einwilligung der Datenlieferantinnen zu Strafverfolgungszwecken weitergeben.
+[^76-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 76a
+
+**Unterstützung für Behörden**[^76a-1]
+
+<sup>1</sup> Das BACS unterstützt den NDB mit periodischen Auswertungen zu Anzahl, Art und Ausmass von Cyberangriffen sowie, auf Anfrage, mit technischen Analysen von Cyberbedrohungen.
+
+<sup>2</sup> Es gewährt dem NDB zum Zweck des frühzeitigen Erkennens und Verhinderns von Bedrohungen der inneren oder äusseren Sicherheit, zur Beurteilung der Bedrohungslage und zur nachrichtendienstlichen Frühwarnung zum Schutz kritischer Infrastrukturen nach Artikel 6 Absätze 1 Buchstabe a, 2 und 5 NDG[^76a-2] Zugriff auf Informationen, welche die Identität und die Vorgehensweise der Verursacherinnen und Verursacher von Cyberangriffen betreffen.
+
+<sup>3</sup> Es gewährt den Strafverfolgungsbehörden Zugriff auf Informationen, welche die Identität und die Vorgehensweise der Verursacherinnen und Verursacher von Cyberangriffen betreffen.
+
+<sup>4</sup> Es gewährt den kantonalen Stellen, die für die Cybersicherheit zuständig sind, Zugriff auf Informationen, die für den Schutz vor Cyberbedrohungen erforderlich sind.
+
+[^76a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^76a-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 77
 
-**Internationale Zusammenarbeit**
+**Internationale Zusammenarbeit**[^77-1]
 
-<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 können mit ausländischen und internationalen Stellen, die für den Schutz kritischer Infrastrukturen zuständig sind, Daten nach Artikel 75 austauschen, wenn sie diese Daten für die Erfüllung von Aufgaben benötigen, die den Aufgaben nach Artikel 74 entsprechen.
+<sup>1</sup> Das BACS kann mit ausländischen und internationalen Stellen, die für die Cybersicherheit zuständig sind, Informationen austauschen, die Aufschluss über die Identität und die Vorgehensweise der Verursacherinnen und Verursacher von Cyberangriffen geben, wenn sie diese zur Erfüllung von Aufgaben benötigen, die denjenigen des BACS entsprechen. Umfasst der Informationsaustausch auch Personendaten, sind Artikel 16 und 17 DSG[^77-2] zu beachten.
 
-<sup>2</sup> Der Datenaustausch nach Absatz 1 ist nur dann zulässig, wenn die ausländischen und internationalen Stellen die bestimmungsgemässe Verwendung gewährleisten.
+<sup>2</sup> Der Informationsaustausch nach Absatz 1 ist nur dann zulässig, wenn die ausländischen und internationalen Stellen die bestimmungsgemässe Verwendung gewährleisten.
 
-<sup>3</sup> Werden die Daten für ein rechtliches Verfahren im Ausland benötigt, so gelten die Bestimmungen über die Amts- und Rechtshilfe.
+[^77-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^77-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 78
 
-**Informationssystem zur Unterstützung von kritischen Infrastrukturen**
+[^78-1]
 
-<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 betreiben ein Informationssystem, um den sicheren Austausch von Informationen mit den Betreiberinnen von kritischen Infrastrukturen zu gewährleisten.
-
-<sup>2</sup>
-
-Das Informationssystem enthält folgende Informationen:
-
-- a. Beschreibungen und Einschätzungen von Bedrohungen und Gefahren;
-- b. Anweisungen zur technischen Erkennung und Behebung von Vorfällen;
-- c. Vorfallanalysen und Sicherheitsempfehlungen;
-- d. Analysen betreffend Schwachstellen von Informatikmitteln;
-- e. Korrespondenz.
-
-<sup>3</sup> Die Informationen nach Absatz 2 können auch Personendaten nach Artikel 75 enthalten.
+[^78-1]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), mit Wirkung seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 79
 
 **Datenaufbewahrung und -archivierung**
 
-<sup>1</sup> Die Stellen nach Artikel 74 Absatz 5 bewahren Personendaten nur so lange auf, wie dies zur Abwehr von Gefahren oder zur Erkennung von Vorfällen zweckmässig ist, höchstens jedoch fünf Jahre.
+<sup>1</sup> Das BACS bewahrt Personendaten nur so lange auf, wie dies zur Erkennung von Cyberbedrohungen oder zur Bewältigung von Cybervorfällen zweckmässig ist, höchstens jedoch fünf Jahre ab der letzten Verwendung zu diesem Zweck. Bei besonders schützenswerten Personendaten beträgt die Frist zwei Jahre.[^79-1]
 
 <sup>2</sup> Die Archivierung der Daten richtet sich nach den Vorschriften der Archivierungsgesetzgebung.
 
+[^79-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
 #### Art. 80
 
-**Bestimmungen des Bundesrats**
+[^80-1]
 
-Der Bundesrat regelt:
-
-- a. die Aufgabenteilung, die Zusammenarbeit und den Austausch von Informationen zwischen den Stellen nach Artikel 74 Absatz 5 und dem NDB;
-- b. die Bekanntgabe von Informationen an Betreiberinnen von kritischen Infrastrukturen, Dritte sowie ausländische und internationale Stellen;
-- c. die Verantwortung für den Datenschutz in Zusammenhang mit dem Informationssystem nach Artikel 78 sowie die Datensicherheit;
-- d. die periodische Kontrolle der Bearbeitung von Personendaten im Informationssystem nach Artikel 78 durch eine externe Stelle.
+[^80-1]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), mit Wirkung seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## 6. Kapitel: Organisation und Vollzug
 

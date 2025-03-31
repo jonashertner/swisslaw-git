@@ -4,20 +4,22 @@ title: Legge federale del 18 dicembre 2020 sulla sicurezza delle informazioni (L
 short: LSIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: it
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-232-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-232-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sulla sicurezza delle informazioni in seno alla Confederazione
+# Legge federale sulla sicurezza delle informazioni
 
-(Legge sulla sicurezza delle informazioni, LSIn)
+(LSIn) [^t-1]
 
-del 18 dicembre 2020 (Stato 1° gennaio 2024)
+del 18 dicembre 2020 (Stato 1° aprile 2025)
+
+[^t-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -34,7 +36,12 @@ decreta:
 
 **Scopo**
 
-<sup>1</sup> La presente legge ha lo scopo di garantire il trattamento sicuro delle informazioni di competenza della Confederazione nonché l’impiego sicuro dei mezzi informatici della Confederazione.
+<sup>1</sup>
+
+La presente legge ha lo scopo di:
+
+- a. garantire il trattamento sicuro delle informazioni di competenza della Confederazione nonché l’impiego sicuro dei mezzi informatici della Confederazione;
+- b. aumentare la capacità della Svizzera di fronteggiare le ciberminacce.[^1-1]
 
 <sup>2</sup>
 
@@ -45,6 +52,8 @@ Mira in tal modo a tutelare gli interessi pubblici seguenti:
 - c. gli interessi della politica estera della Svizzera;
 - d. gli interessi della politica economica, finanziaria e monetaria della Svizzera;
 - e. l’adempimento degli obblighi legali e contrattuali delle autorità e organizzazioni della Confederazione in materia di protezione delle informazioni.
+
+[^1-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 2
 
@@ -79,9 +88,10 @@ Il Consiglio federale può limitare il campo d’applicazione della presente leg
 
 <sup>4</sup> Può limitare a talune disposizioni della presente legge il campo d’applicazione secondo il capoverso 3. Al riguardo, tiene conto dell’autonomia esecutiva delle organizzazioni interessate in virtù delle rispettive disposizioni organizzative.
 
-<sup>5</sup> Alle organizzazioni di diritto pubblico o privato che gestiscono infrastrutture critiche ma che non sono contemplate ai capoversi 1‒3 si applicano gli articoli 74–80. La legislazione speciale può dichiarare applicabili altre disposizioni della presente legge.
+<sup>5</sup> Alle organizzazioni di diritto pubblico o privato che gestiscono infrastrutture critiche ma che non sono contemplate ai capoversi 1‒3 si applicano gli articoli 73*a*–79.[^2-2] La legislazione speciale può dichiarare applicabili altre disposizioni della presente legge.
 
 [^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-2]: Nuovo testo del per. giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 3
 
@@ -100,11 +110,15 @@ Ai Cantoni si applicano unicamente le disposizioni concernenti:
 
 **Rapporto con altre leggi federali**
 
-<sup>1</sup> La legge del 17 dicembre 2004[^4-1] sulla trasparenza prevale sulla presente legge.
+<sup>1</sup> La legge del 17 dicembre 2004[^4-1] sulla trasparenza (LTras) prevale sulla presente legge.[^4-2]
+
+<sup>1bis</sup> Le informazioni provenienti da terzi di cui l’Ufficio federale della cibersicurezza (UFCS) viene a conoscenza nella sua attività di ricezione e analisi di segnalazioni secondo il capitolo 5 non possono essere rese accessibili secondo la LTras. Non sono considerati terzi le autorità, le organizzazioni e le persone menzionate all’articolo 2 capoverso 1 LTras. [^4-3]
 
 <sup>2</sup> Nel caso di informazioni la cui protezione è disciplinata anche in altre leggi federali, le disposizioni della presente legge si applicano a titolo completivo.
 
 [^4-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^4-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^4-3]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168); [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 5
 
@@ -121,7 +135,16 @@ Ai sensi della presente legge s’intende per:
   - 2\. l’amministrazione, l’esercizio, la manutenzione e la verifica di mezzi informatici del livello di sicurezza «protezione elevata» o «protezione molto elevata»,
   - 3\. l’accesso a zone di sicurezza, in particolare alle zone di protezione 2 o 3 di un’opera secondo la legislazione sulla protezione delle opere militari;
 
-- c. *infrastrutture critiche:* le infrastrutture per l’approvvigionamento di acqua potabile e di energia, le infrastrutture nei settori dell’informazione, della comunicazione e dei trasporti nonché altri processi, sistemi e installazioni essenziali per il funzionamento dell’economia e per il benessere della popolazione.
+- c. *infrastrutture critiche:* le infrastrutture per l’approvvigionamento di acqua potabile e di energia, le infrastrutture nei settori dell’informazione, della comunicazione e dei trasporti nonché altri processi, sistemi e installazioni essenziali per il funzionamento dell’economia e per il benessere della popolazione;
+- d.[^5-1] *ciberincidente:* un evento che si verifica nell’utilizzo di mezzi informatici e che compromette la confidenzialità, la disponibilità o l’integrità delle informazioni o la tracciabilità del loro trattamento;
+- e.[^5-2] *ciberattacco:* un ciberincidente provocato intenzionalmente;
+- f.[^5-3] *ciberminaccia**:* qualsiasi circostanza o evento che ha il potenziale di provocare un ciberincidente;
+- g.[^5-4] *vulnerabilità**:* una ciberminaccia riconducibile a punti deboli o errori nei mezzi informatici.
+
+[^5-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-2]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-3]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^5-4]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
 
 ## Capitolo 2: Misure generali
 
@@ -185,6 +208,42 @@ Stabiliscono:
 <sup>1</sup> Le autorità e organizzazioni assoggettate provvedono affinché le violazioni della sicurezza delle informazioni siano individuate tempestivamente, le loro cause accertate e le eventuali ripercussioni ridotte al minimo.
 
 <sup>2</sup> Le autorità assoggettate provvedono affinché in vista di eventuali violazioni gravi della sicurezza delle informazioni, tali da compromettere l’adempimento di compiti indispensabili della Confederazione, siano stabilite pianificazioni preventive e svolte corrispondenti esercitazioni.
+
+#### Art. 10a
+
+**Trattamento di dati personali**[^10a-1]
+
+<sup>1</sup> Le autorità e organizzazioni assoggettate possono trattare i dati personali utili a garantire la sicurezza delle informazioni, in particolare nei sistemi d’informazione previsti a tale scopo (applicazioni ISMS).
+
+<sup>2</sup>
+
+Possono scambiarsi i dati personali di cui al capoverso 1 reciprocamente nonché con organizzazioni di diritto pubblico svizzere, internazionali ed estere, sempre che:
+
+- a. ciò sia utile al fine di garantire la sicurezza delle informazioni;
+- b. non sia violato alcun obbligo legale o contrattuale di serbare il segreto;
+- c. siano rispettate le disposizioni della legislazione federale sulla protezione dei dati; e
+- d. queste organizzazioni assumano compiti legali nell’ambito della sicurezza delle informazioni corrispondenti a quelli dell’autorità o dell’organizzazione che ha trasmesso la comunicazione.
+
+<sup>3</sup> Le autorità e organizzazioni assoggettate possono collegare tra loro i propri sistemi d’informazione, in particolare le applicazioni ISMS, e scambiarsi dati automaticamente o su richiesta tramite interfacce.
+
+<sup>4</sup> Possono gestire moduli digitali finalizzati alla presentazione e al trattamento di richieste e segnalazioni nell’ambito della sicurezza delle informazioni e collegarli alle proprie applicazioni ISMS o ad altri sistemi d’informazione.
+
+<sup>5</sup>
+
+Se necessario per far fronte a violazioni della sicurezza delle informazioni o per eliminare vulnerabilità, le autorità e organizzazioni assoggettate possono eseguire con i dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^10a-2] sulla protezione dei dati (LPD) di persone che sono o potrebbero essere coinvolte in tali violazioni o vulnerabilità o che sono o potrebbero esserne interessate le operazioni seguenti:
+
+- a. trattarli;
+- b. scambiarseli reciprocamente o scambiarli con organizzazioni di diritto pubblico svizzere, internazionali ed estere, sempre che la condizione di cui al capoverso 2 lettera b sia soddisfatta.
+
+<sup>6</sup> Le autorità e organizzazioni assoggettate possono conservare i dati personali degni di particolare protezione fino a due anni dopo aver affrontato la violazione della sicurezza delle informazioni o dopo che è stata eliminata la vulnerabilità, ma al massimo per dieci anni.
+
+<sup>7</sup> L’archiviazione dei dati è retta dalle disposizioni della legislazione in materia di archiviazione.
+
+<sup>8</sup> Il trattamento dei dati personali da parte del UFCS[^10a-3] nel quadro dell’adempimento dei suoi compiti è retto dagli articoli 75–79.
+
+[^10a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10a-3]: Nuova espressione giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 1° apr. 2025 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Classificazione delle informazioni
 
@@ -652,7 +711,7 @@ Dopo aver ricevuto la dichiarazione secondo l’articolo 39 capoverso 1, la pers
 - b. esigere la rettifica dei dati errati o la distruzione dei dati non più attuali;
 - c. far apporre una menzione che rileva il carattere contestato dei dati.
 
-<sup>2</sup> La restrizione del diritto d’accesso è retta dall’articolo 26 della legge federale del 25 settembre 2020[^44-1] sulla protezione dei dati (LPD).[^44-2]
+<sup>2</sup> La restrizione del diritto d’accesso è retta dall’articolo 26 LPD[^44-1].[^44-2]
 
 <sup>3</sup> La dichiarazione costituisce un atto materiale secondo l’articolo 25*a* della legge federale del 20 dicembre 1968[^44-3] sulla procedura amministrativa. La persona controllata può interporre ricorso contro una dichiarazione secondo l’articolo 39 capoverso 1 lettere b−d presso il Tribunale amministrativo federale entro 30 giorni dalla sua ricezione.
 
@@ -661,7 +720,7 @@ Dopo aver ricevuto la dichiarazione secondo l’articolo 39 capoverso 1, la pers
 <sup>5</sup> Del rimanente, la procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
 [^44-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^44-2]: Nuovo testo giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^44-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 [^44-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^44-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
@@ -711,18 +770,20 @@ I dati di cui al capoverso 4 possono essere raccolti automaticamente e sistemati
 
 - a.[^45-6] casellario giudiziale informatizzato VOSTRA conformemente alla legge del 17 giugno 2016[^45-7] sul casellario giudiziale;
 - b. registro nazionale di polizia di cui all’articolo 17 della legge federale del 13 giugno 2008[^45-8] sui sistemi d’informazione di polizia della Confederazione;
-- d.[^45-9] le banche dati dell’Ufficio centrale Armi secondo l’articolo 32*a* capoverso 1 della legge del 20 giugno 1997[^45-10] sulle armi.
+- c. INDEX SIC di cui all’articolo 51 della legge federale del 25 settembre 2015[^45-9] sulle attività informative;
+- d.[^45-10] le banche dati dell’Ufficio centrale Armi secondo l’articolo 32*a* capoverso 1 della legge del 20 giugno 1997[^45-11] sulle armi.
 
 [^45-1]: Nuovo testo giusta la cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^45-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^45-3]: Nuovo testo giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^45-4]: Introdotto dalla cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^45-5]: Nuovo testo giusta l’all. n. 40 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2024 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^45-6]: Nuovo testo giusta l’all. 2 n. 4, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650): [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^45-6]: Nuovo testo giusta l’all. 2 n. 4, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^45-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^45-8]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^45-9]: Introdotta dalla cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-10]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^45-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^45-10]: Introdotta dalla cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^45-11]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 46
 
@@ -1081,106 +1142,288 @@ Il Consiglio federale disciplina:
 - d. la sicurezza dei dati nel sistema d’informazione secondo l’articolo 70;
 - e. il controllo periodico del trattamento dei dati personali da parte di un organo esterno.
 
-## Capitolo 5: Infrastrutture critiche
+## Capitolo 5: Misure della Confederazione per la protezione della Svizzera dalle ciberminacce
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### Sezione 1: Disposizioni generali
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73a
+
+**Principio**[^73a-1]
+
+<sup>1</sup> Per proteggere la Svizzera dalle ciberminacce, il UFCS effettua analisi tecniche al fine di valutare e contrastare ciberincidenti e ciberminacce, nonché di indentificare ed eliminare vulnerabilità.
+
+<sup>2</sup>
+
+Sulla base delle analisi, il UFCS svolge in particolare i seguenti compiti:
+
+- a. sensibilizzare e avvisare il pubblico riguardo alle ciberminacce;
+- b. avvisare le autorità, le organizzazioni e le persone interessate in caso di ciberminacce imminenti o di ciberattacchi in corso;
+- c. pubblicare informazioni sulla cibersicurezza e raccomandazioni per l’adozione di misure preventive e reattive contro i ciberincidenti;
+- d. ricevere e trattare le segnalazioni riguardanti ciberincidenti e ciberminacce;
+- e. sostenere i gestori di infrastrutture critiche.
+
+[^73a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73b
+
+**Segnalazioni**[^73b-1]
+
+<sup>1</sup> Il UFCS è il destinatario delle segnalazioni riguardanti ciberincidenti e ciberminacce. Le segnalazioni possono essere anonime.
+
+<sup>2</sup> Il UFCS analizza le segnalazioni in relazione alla loro rilevanza per la protezione della Svizzera dalle ciberminacce. Su richiesta, il UFCS emana una raccomandazione su come procedere, sempre che non siano necessari ulteriori analisi e chiarimenti.
+
+<sup>3</sup> Se viene a conoscenza di vulnerabilità, il UFCS informa immediatamente il produttore dell’hardware o del software interessato e gli fissa un congruo termine per eliminarle. Gli indica che un’inosservanza può essere sanzionata secondo il diritto in materia di appalti pubblici (art. 44 cpv. 1 lett. f<sup>bis</sup> della legge federale del 21 giugno 2019[^73b-2] sugli appalti pubblici) e che il UFCS, allo scadere del termine, può rendere pubblica la vulnerabilità ai sensi dell’articolo 73*c* capoverso 2.
+
+[^73b-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73b-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+
+#### Art. 73c
+
+**Pubblicazione di informazioni provenienti da segnalazioni**[^73c-1]
+
+<sup>1</sup> Il UFCS può pubblicare informazioni relative a ciberincidenti, sempre che ciò serva alla protezione contro le ciberminacce. Queste informazioni possono contenere dati relativi alla persona fisica o giuridica interessata soltanto se quest’ultima vi acconsente e se i dati concernono le caratteristiche d’identificazione e gli elementi d’indirizzo che sono stati utilizzati in modo abusivo.
+
+<sup>2</sup> Il UFCS può pubblicare informazioni relative a vulnerabilità indicando l’hardware o il software interessato, sempre che il produttore vi acconsenta o non abbia eliminato la vulnerabilità entro il termine di cui all’articolo 73*b* capoverso 3.
+
+[^73c-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 73d
+
+**Inoltro di informazioni**[^73d-1]
+
+<sup>1</sup> Il UFCS può inoltrare informazioni provenienti da segnalazioni ad autorità e organizzazioni attive nel settore della cibersicurezza. Queste informazioni possono contenere dati personali soltanto se la persona interessata vi acconsente.
+
+<sup>2</sup> Se dalla segnalazione di un ciberincidente o dalla sua analisi emergono informazioni necessarie a individuare tempestivamente e sventare minacce per la sicurezza interna o esterna, a valutare la situazione di minaccia o ad assicurare un servizio di preallerta informativa per la protezione di infrastrutture critiche secondo l’articolo 6 capoversi 1 lettera a, 2 e 5 della legge federale del 25 settembre 2015[^73d-2] sulle attività informative (LAIn), il UFCS inoltra queste informazioni al SIC.
+
+<sup>3</sup> I collaboratori del UFCS che nell’ambito di una segnalazione o della sua analisi constatano indizi di un possibile reato lo denunciano unicamente al direttore del UFCS, in deroga all’articolo 22*a* capoverso 1 della legge del 24 marzo 2000[^73d-3] sul personale federale. Se la gravità del possibile reato lo esige, il direttore del UFCS può sporgere denuncia presso le autorità di perseguimento penale.
+
+<sup>4</sup> Il UFCS può inoltrare informazioni che rivelano segreti protetti dal diritto penale unicamente secondo quanto disposto dall’articolo 320 del Codice penale[^73d-4].
+
+[^73d-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^73d-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^73d-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^73d-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 74
 
-**Compiti della Confederazione**
+**Sostegno ai gestori di infrastrutture critiche**[^74-1]
 
-<sup>1</sup> La Confederazione sostiene i gestori di infrastrutture critiche per garantire che le interruzioni delle reti e dei sistemi nonché gli abusi siano rari, di breve durata, gestibili e che il danno sia limitato.
+<sup>1</sup> Il UFCS sostiene i gestori di infrastrutture critiche nella protezione contro le ciberminacce.
 
 <sup>2</sup>
 
-Il sostegno nell’ambito della sicurezza delle informazioni comprende:
+Mette loro a disposizione gratuitamente per l’utilizzo su base volontaria in particolare i seguenti strumenti:
 
-- a. l’identificazione e la valutazione tempestive di minacce, pericoli, vulnerabilità e lacune nella sicurezza;
-- b. l’individuazione di incidenti;
-- c. la tutela e il ripristino della sicurezza delle informazioni dopo un incidente;
-- d. il seguito del trattamento degli incidenti.
+- a. un sistema di comunicazione per lo scambio sicuro delle informazioni;
+- b. informazioni tecniche sulle ciberminacce attuali e raccomandazioni per l’adozione di misure preventive e reattive contro i ciberincidenti;
+- c. strumenti tecnici e istruzioni per l’individuazione di ciberincidenti che rispondono alle elevate esigenze di protezione delle infrastrutture critiche.
 
-<sup>3</sup> La Confederazione gestisce un servizio nazionale di preallerta e un punto di contatto per misure preventive e reattive nell’ambito della sicurezza tecnica delle informazioni.
+<sup>3</sup> Il UFCS può fornire loro consulenza e sostegno nel far fronte a ciberincidenti ed eliminare vulnerabilità se il funzionamento dell’infrastruttura critica interessata rischia di essere compromesso e, nel caso si tratti di gestori privati, se non è possibile procurarsi per tempo un sostegno equivalente sul mercato.
 
-<sup>4</sup> Provvede affinché i gestori di infrastrutture critiche possano scambiare informazioni in modo sicuro tra di loro e con i servizi competenti della Confederazione.
+<sup>4</sup> Previo consenso del gestore interessato, il UFCS può accedere alle informazioni e ai mezzi informatici di quest’ultimo per analizzare un ciberincidente.
 
-<sup>5</sup> Il Consiglio federale designa i servizi della Confederazione competenti per tali compiti.
+[^74-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+### Sezione 2: Obbligo di segnalare ciberattacchi
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 74a
+
+**Principi**
+
+<sup>1</sup> Le autorità e le organizzazioni di cui all’articolo 74*b* provvedono affinché i ciberattacchi verso i loro mezzi informatici siano segnalati all’UFCS.
+
+<sup>2</sup> Il UFCS informa le autorità e organizzazioni interessate sul loro eventuale assoggettamento all’obbligo di segnalazione; su richiesta, pronuncia una decisione sull’assoggettamento a tale obbligo.
+
+<sup>3</sup> La segnalazione di un ciberattacco conferisce alle autorità e organizzazioni assoggettate all’obbligo di segnalazione il diritto a ottenere sostegno dall’UFCS nel far fronte all’incidente secondo l’articolo 74 capoverso 3.
+
+<sup>4</sup> L’obbligo di segnalazione è finalizzato soltanto a consentire all’UFCS di individuare tempestivamente il modo operativo utilizzato negli attacchi contro infrastrutture critiche, così da avvisare possibili interessati e raccomandare loro misure di prevenzione e di difesa adeguate.
+
+#### Art. 74b
+
+**Autorità e organizzazioni assoggettate all’obbligo di segnalazione**
+
+<sup>1</sup>
+
+L’obbligo di segnalazione si applica:
+
+- a. alle scuole universitarie secondo l’articolo 2 capoverso 2 della legge federale del 30 settembre 2011[^74b-1] sulla promozione e sul coordinamento del settore universitario svizzero;
+- b. alle autorità federali, cantonali e comunali nonché alle organizzazioni intercantonali, cantonali e intercomunali; è eccettuato l’Aggruppamento Difesa, laddove l’esercito presti servizio d’appoggio secondo articolo 67 o servizio attivo secondo l’articolo 76 della legge militare del 3 febbraio 1995[^74b-2];
+- c. alle organizzazioni cui sono affidati compiti di diritto pubblico nei settori della sicurezza e del salvataggio, dell’approvvigionamento di acqua potabile, del trattamento delle acque di scarico e dello smaltimento dei rifiuti;
+- d. alle imprese attive nel settore dell’approvvigionamento energetico secondo l’articolo 6 capoverso 1 della legge federale del 30 settembre 2016[^74b-3] sull’energia, nonché nel commercio, nella misurazione e nella gestione dell’energia; sono esentati i titolari di licenze conformemente alla legge federale del 21 marzo 2003[^74b-4] sull’energia nucleare, per quanto riguarda i ciberattacchi effettuati contro un impianto nucleare;
+- e. alle imprese che sottostanno alla legge dell’8 novembre 1934[^74b-5] sulle banche, alla legge del 17 dicembre 2004[^74b-6] sulla sorveglianza degli assicuratori o alla legge del 19 giugno 2015[^74b-7] sull’infrastruttura finanziaria;
+- f. agli stabilimenti che figurano nell’elenco cantonale di cui all’articolo 39 capoverso 1 lettera e della legge federale del 18 marzo 1994[^74b-8] sull’assicurazione malattie;
+- g. ai laboratori medici che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 della legge del 28 settembre 2012[^74b-9] sulle epidemie;
+- h. alle imprese che dispongono di un’omologazione secondo la legge del 15 dicembre 2000[^74b-10] sugli agenti terapeutici per la fabbricazione, l’immissione in commercio e l’importazione di medicamenti;
+- i. alle organizzazioni che forniscono prestazioni volte a coprire le conseguenze di malattie, infortuni, incapacità al lavoro e al guadagno, vecchiaia, invalidità e grande invalidità;
+- j. alla Società svizzera di radiotelevisione;
+- k. alle agenzie di stampa d’importanza nazionale;
+- l. ai fornitori di servizi postali registrati presso la Commissione delle poste secondo l’articolo 4 capoverso 1 della legge del 17 dicembre 2010[^74b-11] sulle poste;
+- m. alle imprese ferroviarie secondo gli articoli 5 o 8*c* della legge federale del 20 dicembre 1957[^74b-12] sulle ferrovie e alle imprese che gestiscono impianti di trasporto a fune, linee filoviarie, autobus e battelli e sono titolari di una concessione secondo l’articolo 6 della legge del 20 marzo 2009[^74b-13] sul trasporto di viaggiatori;
+- n. alle imprese dell’aviazione civile che dispongono di un’autorizzazione dell’Ufficio federale dell’aviazione civile e agli aeroporti nazionali conformemente al Piano settoriale dei trasporti, Parte Infrastruttura aeronautica;
+- o. alle imprese che trasportano merci sul Reno secondo la legge federale del 23 settembre 1953[^74b-14] sulla navigazione marittima sotto bandiera svizzera e alle imprese che gestiscono l’iscrizione, il carico o lo scarico nei porti di Basilea;
+- p. alle imprese che riforniscono la popolazione di beni indispensabili di uso quotidiano e il cui dissesto totale o parziale comporterebbe considerevoli difficoltà di approvvigionamento;
+- q. ai fornitori di servizi di telecomunicazione registrati presso l’Ufficio federale delle comunicazioni secondo l’articolo 4 capoverso 1 LTC[^74b-15];
+- r. ai gestori di registri e ai centri di registrazione di domini Internet secondo l’articolo 28*b* LTC;
+- s. ai fornitori e ai gestori di servizi e infrastrutture che servono all’esercizio dei diritti politici;
+- t. ai fornitori e ai gestori di servizi di nuvole informatiche, motori di ricerca o servizi di sicurezza e fiduciari digitali nonché ai centri di calcolo, sempre che abbiano una sede in Svizzera;
+- u.
+
+  ai produttori di hardware o software i cui prodotti sono utilizzati da infrastrutture critiche, sempre che tali hardware o software abbiano un accesso remoto per la manutenzione o siano impiegati per uno dei seguenti scopi:
+
+  - 1\. la gestione e il monitoraggio di sistemi e processi tecnici,
+  - 2\. la garanzia della sicurezza pubblica.
+
+<sup>2</sup> Le autorità e organizzazioni che esercitano anche attività non rientranti nel campo di applicazione del capoverso 1 non hanno l’obbligo di segnalare i ciberattacchi che hanno ripercussioni unicamente su queste attività.
+
+<sup>3</sup> L’obbligo di segnalazione di cui al capoverso 1 si applica a ciberattacchi che hanno ripercussioni in Svizzera anche se i mezzi informatici interessati si trovano all’estero.
+
+[^74b-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^74b-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^74b-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^74b-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^74b-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^74b-6]: [[RS 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^74b-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^74b-8]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^74b-9]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^74b-10]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^74b-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^74b-12]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^74b-13]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^74b-14]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^74b-15]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+#### Art. 74c
+
+**Eccezioni all’obbligo di segnalazione**
+
+Il Consiglio federale esenta le autorità e organizzazioni dall’obbligo di segnalazione di cui all’articolo 74*b* per quanto riguarda i ciberattacchi che causano guasti funzionali con ripercussioni minime sul funzionamento dell’economia o sul benessere della popolazione.
+
+#### Art. 74d
+
+**Ciberattacchi da segnalare**
+
+Un ciberattacco deve essere segnalato se:
+
+- a. compromette il funzionamento dell’infrastruttura critica interessata;
+- b. ha comportato una manipolazione o una fuga di informazioni;
+- c. non è stato identificato per un periodo prolungato, in particolare se vi sono indizi secondo cui potrebbe essere stato effettuato per preparare altri ciberattacchi; o
+- d. è connesso al reato di estorsione, minaccia o coazione.
+
+#### Art. 74e
+
+**Termine e contenuto della segnalazione**
+
+<sup>1</sup> La segnalazione deve avvenire entro le 24 ore successive all’individuazione del ciberattacco.
+
+<sup>2</sup> Contiene informazioni sull’autorità o sull’organizzazione assoggettata all’obbligo di segnalazione, sul tipo di ciberattacco e sulla sua esecuzione, sulle sue ripercussioni, sulle misure adottate e, se note, sulle misure previste.
+
+<sup>3</sup> Se al momento della segnalazione non sono ancora note tutte le informazioni necessarie, l’autorità o l’organizzazione assoggettata all’obbligo di segnalazione completa la stessa non appena dispone di nuove informazioni.
+
+<sup>4</sup> Chi deve adempiere l’obbligo di segnalazione per conto di un’autorità o di un’organizzazione non è tenuto, nel quadro della segnalazione, a fornire indicazioni che lo rendono penalmente perseguibile.
+
+<sup>5</sup> Il UFCS informa l’autorità o l’organizzazione assoggettata all’obbligo di segnalazione non appena ha ricevuto tutte le informazioni che consentono di adempiere tale obbligo.
+
+#### Art. 74f
+
+**Trasmissione della segnalazione**
+
+<sup>1</sup> L’UFCS mette a disposizione un sistema sicuro con cui trasmettergli per via elettronica le segnalazioni di ciberattacchi.
+
+<sup>2</sup> Il sistema deve permettere alle autorità e organizzazioni assoggettate all’obbligo di segnalazione di trasmettere anche ad altre autorità la segnalazione del ciberattacco o delle sue ripercussioni, sia nella sua totalità sia in parte.
+
+<sup>3</sup> Se per adempiere un obbligo di segnalazione nei confronti di altre autorità sono necessarie informazioni che vanno oltre quelle menzionate all’articolo 74*e*, il sistema deve permettere alle autorità e organizzazioni assoggettate a tale obbligo di trasmettere queste informazioni direttamente alle autorità interessate, senza che il UFCS vi acceda.
+
+### Sezione 3: Protezione dei dati e scambio di informazioni
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 75
 
-**Trattamento di dati personali**
+**Trattamento di dati personali**[^75-1]
 
-<sup>1</sup> Per l’adempimento dei propri compiti, i servizi di cui all’articolo 74 capoverso 5 possono trattare elementi di indirizzo di cui all’articolo 3 lettera f LTC[^75-1] e i relativi dati personali.
+<sup>1</sup>
 
-<sup>2</sup>
+Per l’adempimento dei propri compiti, il UFCS può trattare dati personali, compresi elementi di indirizzo di cui all’articolo 3 lettera f LTC[^75-2] e i relativi dati personali degni di particolare protezione, che contengono informazioni su:
 
-Possono trattare i dati di cui al capoverso 1 anche se questi contengono informazioni concernenti:
+- a. opinioni religiose, filosofiche o politiche; il trattamento è ammesso unicamente qualora sia necessario per la valutazione di minacce e pericoli concreti nell’ambito della cibersicurezza;
+- b. perseguimenti o sanzioni di carattere amministrativo o penale.
 
-- a. opinioni religiose, filosofiche o politiche; il trattamento è ammesso unicamente qualora sia necessario per la valutazione di minacce e pericoli concreti nell’ambito della sicurezza delle informazioni;
-- b. procedimenti e sanzioni di carattere amministrativo o penale.
+<sup>2</sup> In caso di trattamento di dati personali o di indizi concreti di usurpazione d’identità o di utilizzazione non autorizzata di elementi di indirizzo, il UFCS informa le persone interessate, sempre che ciò non comporti un onere sproporzionato e nessun interesse pubblico preponderante vi si opponga.
 
-<sup>3</sup> I dati personali possono essere trattati all’insaputa delle persone interessate.
-
-<sup>4</sup> In caso di indizi concreti di usurpazione d’identità o di utilizzazione non autorizzata di elementi di indirizzo, le persone interessate devono essere informate. È fatto salvo l’articolo 20 LPD[^75-2].[^75-3]
-
-[^75-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^75-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^75-3]: Nuovo testo del per. giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^75-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 76
 
-**Cooperazione a livello nazionale**
+**Cooperazione a livello nazionale**[^76-1]
 
-<sup>1</sup> I servizi di cui all’articolo 74 capoverso 5 possono comunicare ai gestori di infrastrutture critiche dati personali di cui all’articolo 75, sempre che sia appropriato per garantire la sicurezza delle informazioni.
+<sup>1</sup> Il UFCS e i gestori di infrastrutture critiche possono comunicarsi reciprocamente dati personali, sempre che ciò sia necessario alla protezione contro le ciberminacce.
 
-<sup>2</sup> Possono comunicare ai fornitori e ai gestori di servizi informatici e di comunicazione dati personali di cui all’articolo 75, sempre che sia necessario per garantire la sicurezza delle informazioni di infrastrutture critiche.
+<sup>2</sup> Il UFCS e i fornitori di servizi di telecomunicazione possono comunicarsi reciprocamente elementi di indirizzo e i relativi dati personali, sempre che ciò sia necessario alla protezione contro le ciberminacce.
 
-<sup>3</sup> I gestori di infrastrutture critiche nonché i fornitori e i gestori di servizi informatici e di comunicazione possono comunicare ai servizi di cui all’articolo 74 capoverso 5 dati, inclusi dati personali, inerenti a un incidente determinato. I servizi di cui all’articolo 74 capoverso 5 possono trasmettere tali dati ai fini del perseguimento penale unicamente previo consenso esplicito del fornitore dei dati.
+[^76-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
+#### Art. 76a
+
+**Sostegno alle autorità**[^76a-1]
+
+<sup>1</sup> Il UFCS sostiene il SIC con valutazioni periodiche sul numero, sul tipo e sulla portata dei ciberattacchi e, su richiesta, con analisi tecniche delle ciberminacce.
+
+<sup>2</sup> Concede al SIC l’accesso a informazioni che riguardano l’identità e il modo di operare degli autori di ciberattacchi al fine di individuare tempestivamente e sventare minacce alla sicurezza interna o esterna, valutare la situazione di minaccia e assicurare un servizio di preallerta informativa per la protezione di infrastrutture critiche secondo l’articolo 6 capoversi 1 lettera a, 2 e 5 LAIn[^76a-2].
+
+<sup>3</sup> Il UFCS concede alle autorità di perseguimento penale l’accesso a informazioni che riguardano l’identità e il modo di operare degli autori di ciberattacchi.
+
+<sup>4</sup> Concede ai servizi cantonali competenti per la cibersicurezza l’accesso alle informazioni necessarie alla protezione contro le ciberminacce.
+
+[^76a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^76a-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 77
 
 **Cooperazione a livello internazionale**
 
-<sup>1</sup> I servizi di cui all’articolo 74 capoverso 5 possono scambiare dati di cui all’articolo 75 con servizi esteri e internazionali competenti per la protezione di infrastrutture critiche se tali dati sono necessari per l’adempimento di compiti corrispondenti a quelli secondo l’articolo 74.
+<sup>1</sup> Il UFCS può scambiare con servizi esteri e internazionali competenti per la cibersicurezza informazioni che permettono di stabilire l’identità e il modo di operare degli autori di ciberattacchi, se detti servizi necessitano di tali informazioni per l’adempimento di compiti che corrispondono a quelli del UFCS. Se lo scambio di informazioni concerne anche dati personali, vanno osservati gli articoli 16 e 17 LPD[^77-1].
 
-<sup>2</sup> Lo scambio di dati secondo il capoverso 1 è ammesso soltanto se i servizi esteri e internazionali garantiscono che i dati sono trattati esclusivamente per i fini previsti da tale disposizione.
+<sup>2</sup> Lo scambio di informazioni di cui al capoverso 1 è ammesso soltanto se i servizi esteri e internazionali garantiscono che i dati sono trattati per i fini previsti.
 
-<sup>3</sup> Se i dati sono necessari per un procedimento legale all’estero, si applicano le disposizioni in materia di assistenza amministrativa e di assistenza giudiziaria.
+[^77-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 78
 
-**Sistema d’informazione per il sostegno alle infrastrutture critiche**
+[^78-1]
 
-<sup>1</sup> I servizi di cui all’articolo 74 capoverso 5 gestiscono un sistema d’informazione per garantire lo scambio sicuro di informazioni con i gestori di infrastrutture critiche.
-
-<sup>2</sup>
-
-Il sistema d’informazione contiene le informazioni seguenti:
-
-- a. descrizioni e valutazioni di minacce e pericoli;
-- b. istruzioni per individuare e risolvere tecnicamente gli incidenti;
-- c. analisi di incidenti e raccomandazioni in materia di sicurezza;
-- d. analisi delle vulnerabilità dei mezzi informatici;
-- e. corrispondenza.
-
-<sup>3</sup> Le informazioni di cui al capoverso 2 possono contenere anche dati personali secondo l’articolo 75.
+[^78-1]: Abrogato dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), con effetto dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 79
 
 **Conservazione e archiviazione dei dati**
 
-<sup>1</sup> I servizi di cui all’articolo 74 capoverso 5 conservano i dati personali soltanto fino a che sono utili per prevenire minacce o individuare incidenti, ma al massimo per cinque anni.
+<sup>1</sup> Il UFCS conserva i dati personali soltanto fino a che sono utili per individuare ciberminacce o far fronte a ciberincidenti, ma al massimo per cinque anni dall’ultimo utilizzo a tale scopo. Per i dati personali degni di particolare protezione il termine è di due anni.[^79-1]
 
 <sup>2</sup> L’archiviazione dei dati è retta dalle disposizioni della legislazione in materia di archiviazione.
 
+[^79-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+
 #### Art. 80
 
-**Disposizioni del Consiglio federale**
+[^80-1]
 
-Il Consiglio federale disciplina:
-
-- a. la ripartizione dei compiti, la collaborazione e lo scambio di informazioni tra i servizi di cui all’articolo 74 capoverso 5 e il SIC;
-- b. la comunicazione di informazioni a gestori di infrastrutture critiche, a terzi nonché a servizi esteri e internazionali;
-- c. la responsabilità in materia di protezione dei dati in relazione con il sistema d’informazione di cui all’articolo 78 e la sicurezza dei dati;
-- d. il controllo periodico del trattamento dei dati personali nel sistema d’informazione di cui all’articolo 78 da parte di un organo esterno.
+[^80-1]: Abrogato dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), con effetto dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## Capitolo 6: Organizzazione ed esecuzione
 
@@ -1294,7 +1537,6 @@ Il Consiglio federale è autorizzato a concludere trattati internazionali nel ca
 - a. lo scambio di informazioni su pericoli, vulnerabilità e incidenti in tale ambito, in particolare per quanto riguarda le infrastrutture critiche;
 - b. lo scambio di informazioni classificate;
 - c. l’esecuzione di controlli di sicurezza relativi alle persone e di procedure di sicurezza relative alle aziende;
-
 - d. il riconoscimento di dichiarazioni di sicurezza;
 - e. l’esecuzione di controlli.
 
