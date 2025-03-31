@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 18 septembre 1995 sur la navigabilité des aérone
 short: ONAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897"
 language: fr
-version: 2022-10-01
+version: 2025-04-01
 adopted: 1995-09-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20250401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20221001/fr"
 
 (ONAE)[^t-1]
 
-du 18 septembre 1995 (État le 1<sup>er</sup> octobre 2022)
+du 18 septembre 1995 (État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 sept. 2004, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4271](https://fedlex.data.admin.ch/eli/oc/2004/642)).
 
@@ -28,8 +28,8 @@ vu les art. 57, al. 1 et 2, et 58, al. 2, de la loi du 21 décembre 1948 sur l�
 arrête:
 
 [^ingress-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
-[^ingress-2]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-3]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^ingress-2]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^ingress-3]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
 ## Chapitre 1 Champ d’application et droit applicable
@@ -52,20 +52,22 @@ La présente ordonnance s’applique aux:
 
 Elle s’applique à moins que la version contraignante pour la Suisse[^1-1] de l’un des règlements suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne[^1-2] sur le transport aérien[^1-3]:
 
-- a. règlement (CE) n<sup>o</sup> 2042/2003[^1-4];
-- b. règlement (CE) n<sup>o</sup> 216/2008[^1-5];
-- c. règlement (UE) n<sup>o</sup> 748/2012[^1-6].[^1-7]
+- a.[^1-4] règlement (UE) n<sup>o</sup> 1321/2014[^1-5];
+- b.[^1-6] règlement (UE) n<sup>o</sup> 2018/1139[^1-7];
+- c. règlement (UE) n<sup>o</sup> 748/2012[^1-8].[^1-9]
 
-<sup>3</sup> Elle s’applique en particulier aux aéronefs visés à l’annexe II du règlement (CE) n<sup>o</sup> 216/2008[^1-8] auxquels les règlements dont il est question à l’al. 2 ne s’appliquent pas.
+<sup>3</sup> Elle s’applique en particulier aux aéronefs visés à l’annexe I du règlement (UE) n<sup>o</sup> 2018/1139 auxquels les règlements dont il est question à l’al. 2 ne s’appliquent pas.[^1-10]
 
-[^1-1]: La version contraignante pour la Suisse est mentionnée dans l’annexe de cet Ac. et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne (www.ofac.admin.ch).
+[^1-1]: La version contraignante pour la Suisse est mentionnée dans l’annexe de cet Ac. et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne ([www.ofac.admin.ch](http://www.ofac.admin.ch)).
 [^1-2]: Aujourd’hui: Union européenne.
-[^1-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^1-4]: R (CE) n<sup>o</sup> 2042/2003 de la Commission du 20 nov. 2003 relatif au maintien de la navigabilité des aéronefs et des produits, pièces et équipements aéronautiques, et relatif à l’agrément des organismes et des personnels participant à ces tâches.
-[^1-5]: R (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil du 20 fév. 2008 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence européenne de la sécurité aérienne, et abrogeant la directive 91/670/CEE du Conseil, le R (CE) n<sup>o</sup> 1592/2002 et la directive 2004/36/CE.
-[^1-6]: R (UE) n<sup>o</sup> 748/2012 de la Commission du 3 août 2012 établissant des règles d’application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production (refonte).
-[^1-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^1-8]: Nouvelle expression selon le ch. I de l’O du DETEC du 16 jan. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^1-5]: Règlement (UE) n<sup>o</sup> 1321/2014 de la Commission du 26 novembre 2014 relatif au maintien de la navigabilité des aéronefs et des produits, pièces et équipements aéronautiques, et relatif à l’agrément des organismes et des personnels participant à ces tâches.
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^1-7]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil.
+[^1-8]: R (UE) n<sup>o</sup> 748/2012 de la Commission du 3 août 2012 établissant des règles d’application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production (refonte).
+[^1-9]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
+[^1-10]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 2
 
@@ -88,7 +90,18 @@ Les aéronefs sont rangés dans les catégories de navigabilité suivantes:
 
 <sup>2</sup> Tout aéronef de la catégorie spéciale est rangé dans une sous-catégorie.
 
-<sup>3</sup> Les critères de classification dans l’une ou l’autre sous-catégorie, les exigences de navigabilité, les prescriptions générales d’exploitation et le marquage sont définis dans les annexes.
+<sup>3</sup>
+
+Les annexes établissent:
+
+- a. les critères appliqués pour attribuer un aéronef à l’une ou l’autre sous-catégorie;
+- b. les critères généraux de certification et les exigences de navigabilité correspondantes;
+- c. les prescriptions d’entretien particulières;
+- d. les prescriptions relatives à la construction;
+- e. les prescriptions particulières relatives à l’emploi des pièces d’aéronef et équipements;
+- f. les prescriptions particulières relatives aux modifications d’un aéronef;
+- g. les conditions générales d’exploitation;
+- h. le marquage.[^3-2]
 
 <sup>4</sup>
 
@@ -103,6 +116,7 @@ Les sous-catégories suivantes sont définies:
 - g. Restreint/Restricted (annexe 7).
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 4
 
@@ -115,11 +129,12 @@ L’OFAC fixe dans les cas d’espèce:
 - a. les exigences applicables à la conception des aéronefs et à celle de leurs moteurs, hélices, pièces et équipements;
 - b. les conditions de reconnaissance des agréments d’organismes de conception selon l’annexe I, Partie 21, section A, sous-partie J, du règlement (UE) n<sup>o</sup> 748/2012[^4-2]; l’OFAC édicte à cet égard des directives sous forme de communications techniques (art. 50).
 
-<sup>2</sup> La construction d’aéronefs et de leurs moteurs, hélices, pièces et équipements est régie par l’ordonnance du DETEC du 5 février 1988 sur les entreprises de construction d’aéronefs (OECA)[^4-3].
+<sup>2</sup> La construction d’aéronefs et de leurs moteurs, hélices, pièces et équipements est régie, en catégorie standard, par l’ordonnance du DETEC du 5 février 1988 sur les entreprises de construction d’aéronefs (OECA)[^4-3] et, en catégorie spéciale, par les annexes de la présente ordonnance.[^4-4]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^4-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^4-3]: [RS 748.127.5](https://fedlex.data.admin.ch/eli/cc/1988/541_541_541)
+[^4-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^4-3]: [RS 748.127.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9066)
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 5
 
@@ -152,9 +167,10 @@ Des travaux de conception et de construction peuvent être confiés, avec l’ac
 L’OFAC établit sur la base d’un examen officiel:
 
 - a. le certificat de type nécessaire à la certification d’un type;
-- b. le certificat de navigabilité ou l’autorisation de vol nécessaires pour admettre un aéronef à la circulation.
+- b.[^7-2] le certificat de navigabilité, le certificat de navigabilité restreint ou l’autorisation de vol nécessaires pour admettre un aéronef à la circulation.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ### Section 2 Certification du type
 
@@ -174,21 +190,22 @@ L’OFAC établit sur la base d’un examen officiel:
 
 <sup>1</sup> L’OFAC est dans tous les cas l’autorité compétente en matière de certification.[^9-1]
 
-<sup>1bis</sup> Par voie de dérogation à l’art. 4, al. 4, du règlement (CE) n<sup>o</sup> 216/2008[^9-2], la procédure de certification d’aéronefs de la catégorie standard et de leurs moteurs et hélices est régie par le règlement (UE) n<sup>o</sup> 748/2012[^9-3].[^9-4]
+<sup>1bis</sup> Par voie de dérogation à l’art. 2, par. 3, let. d, du règlement (UE) 2018/1139[^9-2], la procédure de certification des aéronefs de la catégorie standard ainsi que de leurs moteurs et hélices est régie par le règlement (UE) n<sup>o</sup> 748/2012[^9-3].[^9-4]
 
-<sup>2</sup> L’OFAC fixe dans les cas d’espèce la procédure de certification des aéronefs de la catégorie spéciale ainsi que de leurs moteurs et hélices (communications techniques, art. 50).
+<sup>2</sup> La procédure de certification des aéronefs de la catégorie spéciale ainsi que de leurs moteurs et hélices est réglementée dans les annexes.[^9-5]
 
 <sup>3</sup> Le requérant se procure lui-même les documents sur les exigences de navigabilité nécessaires à la procédure de certification.
 
 <sup>4</sup> Le requérant remet gratuitement à l’OFAC tous les documents et leurs amendements nécessaires à la certification. Ils doivent être rédigés en anglais ou dans une langue officielle.
 
-<sup>5</sup> L’OFAC peut reconnaître les certificats de type étrangers établis conformément à l’art. 10.[^9-5]
+<sup>5</sup> L’OFAC peut reconnaître les certificats de type étrangers établis conformément à l’art. 10.[^9-6]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^9-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^9-3]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^9-4]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^9-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^9-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^9-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^9-4]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^9-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
 
 #### Art. 10
 
@@ -201,10 +218,10 @@ L’OFAC établit sur la base d’un examen officiel:
 <sup>3</sup> La personne à l’origine de la demande doit prouver au moyen de rapports et d’essais que les exigences de navigabilité sont satisfaites. L’OFAC peut en plus exiger des contrôles, des calculs ou des essais au sol et en vol ou, après avoir entendu la personne à l’origine de la demande, les exécuter lui-même ou les faire exécuter par des tiers.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^10-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^10-3]: AESA = Agence européenne de la sécurité aérienne (www.easa.europa.eu)
+[^10-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^10-3]: AESA = Agence européenne de la sécurité aérienne ([www.easa.europa.eu](http://www.easa.europa.eu))
 [^10-4]: CS = Certification Specification: exigences de navigabilité émanant de l’AESA
-[^10-5]: FAR = Federal Aviation Regulation: exigences de la FAA (*Federal Aviation Administration*, autorité aéronautique des Etats-Unis d’Amérique; www.faa.gov).
+[^10-5]: FAR = Federal Aviation Regulation: exigences de la FAA (*Federal Aviation Administration*, autorité aéronautique des Etats-Unis d’Amérique; [www.faa.gov](http://www.faa.gov)).
 
 #### Art. 10a
 
@@ -222,36 +239,47 @@ L’OFAC peut déroger aux procédures de certification et aux exigences de navi
 
 #### Art. 10b
 
-**Certificat de navigabilité et autorisation de vol**[^10b-1]
+**Certificat de navigabilité, certificat de navigabilité restreint, autorisation de vol et autorisation de vol temporaire**[^10b-1]
 
-<sup>1</sup> Les aéronefs de la catégorie standard sont admis à la circulation après délivrance d’un certificat de navigabilité. Les aéronefs en cours de certification ou dérogeant à des exigences de navigabilité essentielles le sont après délivrance d’une autorisation de vol.
+<sup>1</sup> Les aéronefs de la catégorie standard sont admis à la circulation après délivrance d’un certificat de navigabilité.
 
-<sup>2</sup> Les aéronefs de la catégorie spéciale sont admis à la circulation dès lors qu’une autorisation de vol est délivrée.
+<sup>2</sup> Les aéronefs de la catégorie standard dont le certificat de type a cessé d’être valide ou n’a plus de détenteur sont admis à la circulation après délivrance d’un certificat de navigabilité restreint.
 
-[^10b-1]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+<sup>3</sup> Les aéronefs de la catégorie spéciale sont admis à la circulation après délivrance d’une autorisation de vol.
+
+<sup>4</sup> Les aéronefs en cours de certification ou dérogeant temporairement aux exigences de navigabilité sont admis à la circulation après délivrance d’une autorisation de vol temporaire.
+
+[^10b-1]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 11
 
-**Champ d’utilisation et conditions d’exploitation**[^11-1]
+[^11-1]
 
-L’OFAC définit:
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Abrogé par le ch. I de l’O du DETEC du 26 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
-- a. le champ d’utilisation: dans une annexe au certificat de navigabilité ou à l’autorisation de vol;
-- b. les conditions d’exploitation dans le manuel de vol, si nécessaire.
+#### Art.11a
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+**Conditions de vol**[^11a-1]
+
+<sup>1</sup> Les conditions de vol comprennent les limitations, charges et éventuelles instructions d’entretien nécessaires pour exploiter l’aéronef en toute sécurité; elles définissent en particulier la configuration de l’aéronef.
+
+<sup>2</sup> La délivrance d’une autorisation de vol conformément à l’art. 10*b* est conditionnée au dépôt préalable d’une demande d’approbation des conditions de vol à l’OFAC. Les conditions de vol peuvent également être établies sur demande par un organisme de conception reconnu dûment agréé.
+
+<sup>3</sup> L’OFAC peut édicter des directives à cet effet (communications techniques, art. 50).
+
+[^11a-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 12
 
 **Reconnaissance de certificats étrangers de navigabilité pour l’exportation**
 
-<sup>1</sup> Lors de l’importation d’un aéronef, l’OFAC peut, jusqu’à l’établissement d’un certificat de navigabilité ou d’une autorisation de vol suisses, reconnaître un certificat de navigabilité pour l’exportation établi par l’Etat exportateur ou des documents équivalents. Le certificat mentionnera toute dérogation par rapport au type d’aéronef concerné.[^12-1]
+<sup>1</sup> Lors de l’importation d’un aéronef, l’OFAC peut, jusqu’à l’établissement d’un certificat de navigabilité, d’un certificat de navigabilité restreint ou d’une autorisation de vol suisses, reconnaître un certificat de navigabilité pour l’exportation établi par l’État exportateur ou des documents équivalents. Le certificat mentionnera toute dérogation par rapport au type d’aéronef concerné.[^12-1]
 
 <sup>2</sup> La durée de validité d’un certificat étranger de navigabilité pour l’exportation est régie par les accords internationaux. En l’absence de tels accords, elle est fixée par l’OFAC.
 
 <sup>3</sup> A l’expiration de la durée de validité d’un tel certificat, l’OFAC peut demander l’exécution de travaux d’entretien spéciaux.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 13
 
@@ -259,78 +287,90 @@ L’OFAC définit:
 
 [^13-1]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
+#### Art. 13a
+
+**Champ d’utilisation des planeurs et des ballons**[^13a-1]
+
+L’OFAC définit le champ d’utilisation des planeurs et des ballons dans une annexe au certificat de navigabilité ou à l’autorisation de vol.
+
+[^13a-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+
 #### Art. 14
 
-**Equipement minimal de l’aéronef**
+**Équipement minimal des planeurs et des ballons**[^14-1]
 
-L’OFAC fixe dans les cas d’espèce l’équipement minimal de l’aéronef pour le genre d’exploitation prévu, dans la mesure où il ne ressort pas des exigences de navigabilité (communications techniques, art. 50).
+L’OFAC fixe dans les cas d’espèce l’équipement minimal des planeurs et des ballons pour le genre d’exploitation prévu, dans la mesure où il ne ressort pas des exigences de navigabilité (communications techniques, art. 50).
 
-## Chapitre 4 Certification de pièces d’aéronef et d’équipements
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+
+## Chapitre 4 Certification, installation et emploi de pièces d’aéronef et d’équipements
 
 [^chap4-1]
 
-[^chap4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^chap4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 15
 
-**Procédure de certification[^15-1]**
+**Procédure de certification**
 
-<sup>1</sup> La procédure de certification de pièces d’aéronef et d’équipements est en principe identique aux procédures de certification des aéronefs (chap. 3, section 2).[^15-2]
+La procédure de certification est calquée sur la procédure de certification des aéronefs (chap. 3, section 2):
 
-<sup>1bis</sup> Les pièces d’aéronef et équipements doivent être conformes aux normes techniques reconnues dans l’industrie aéronautique. Sont notamment reconnues les normes DIN, TSO, JTSO, ETSO, MIL Spec, AN, MS et NAS.[^15-3]
+- a. pour les pièces d’aéronef ou équipements certifiés en même temps que le type d’aéronef, de moteur ou d’hélice concernés;
+- b.
 
-<sup>2</sup> Les éléments d’aéronef qui font partie intégrante d’un aéronef sont en principe certifiés avec le type d’aéronef concerné. Si de tels éléments sont utilisés pour un autre type d’aéronef, ils seront soumis à un examen spécial de type.
+  pour l’examen de l’intégration dans un aéronef, un moteur ou une hélice:
 
-<sup>3</sup> L’OFAC détermine dans les cas d’espèce les éléments d’aéronef qui doivent faire l’objet d’un examen spécial de type.
-
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^15-3]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+  - 1\. des pièces d’aéronef et équipements visés à l’art. 16, let. b,
+  - 2\. des pièces standard visées à l’art. 16<sup>bis</sup>.
 
 #### Art. 16
 
 **Exigences de navigabilité**
 
-<sup>1</sup> L’art. 10 ainsi que les normes visées à l’art. 15, al. 1<sup>bis</sup>, s’appliquent par analogie aux exigences de navigabilité pour les pièces d’aéronef et équipements.[^16-1]
+Les dispositions suivantes s’appliquent par analogie aux exigences de navigabilité pour les pièces d’aéronef et équipements:
 
-<sup>2</sup> Les dispositions particulières sur l’homologation des installations radioélectriques émettrices et réceptrices sont réservées.
+- a. art. 10;
+- b. le cas échéant, la procédure de certification European Technical Standard Order (ETSO) ou toute autre procédure de certification reconnue par la Suisse, ou
+- c. dans le cas des pièces standard, les normes énoncées à l’art. 16<sup>bis</sup>.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+#### Art. 16<sup>bis</sup>
+
+**Pièces standard**
+
+Une pièce standard est un élément désigné comme tel par le détenteur du certificat de l’aéronef, du moteur, de l’hélice, de la pièce d’aéronef ou de l’équipement auquel l’élément est destiné. Les pièces standard doivent répondre à une norme reconnue. Sont notamment reconnues les normes DIN, MIL Spec, AN, MS et NAS.
 
 #### Art. 17
 
-**Certification du type d’une pièce d’aéronef ou d’un équipement[^17-1]**
-
-<sup>1</sup> L’OFAC peut confirmer dans un certificat de type et dans la fiche de navigabilité s’y rapportant qu’une pièce d’aéronef ou un équipement satisfait aux exigences de navigabilité.[^17-2]
-
-<sup>2</sup> Les art. 9 et 10 régissent par analogie la procédure relative à l’octroi ou à la reconnaissance d’un certificat de type.
-
-<sup>3</sup> Les éléments pour lesquels un certificat de type a été établi doivent être conformes aux documents de type y afférents. Toute dérogation doit être approuvée par l’OFAC.
-
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+*Abrogé*
 
 #### Art. 18
 
-**Emploi de pièces d’aéronef et d’équipements[^18-1]**
+**Emploi de pièces d’aéronef et d’équipements**
 
 <sup>1</sup>
 
-Les éléments d’aéronef qui sont soumis à un examen de type selon l’art. 15, al. 2 ou 3, peuvent être utilisés s’ils sont conformes aux exigences de navigabilité applicables et:
+L’installation et l’emploi de pièces d’aéronef et d’équipements dans un aéronef, un moteur ou une hélice sont autorisés lorsque ces pièces et équipements:
 
-- a. s’ils sont neufs, ont été entreposés de façon appropriée et entretenus dans la mesure nécessaire; ou
-- b. si un certificat de remise en service[^18-2] a été établi à leur sujet.
+- a. sont en état de fonctionner en toute sécurité, et
+- b. font l’objet d’un certificat d’autorisation de mise en service reconnu en Suisse attestant qu’ils ont été produits ou entretenus conformément aux données de définition approuvées.
 
 <sup>2</sup>
 
-Les autres pièces d’aéronef et équipements peuvent être utilisés s’ils sont conformes aux exigences de navigabilité applicables et:[^18-3]
+Par dérogation à l’al. 1, l’installation et l’emploi de pièces d’aéronef et d’équipements qui sont en état de fonctionner en toute sécurité sont admis sans certificat d’autorisation de mise en service reconnu dans les cas suivants:
 
-- a. s’ils sont neufs et ont été entreposés de façon appropriée; ou
-- b. s’ils ont été entretenus et entreposés de façon appropriée.
+- a. pièces standard;
+- b. pièces d’aéronef ou équipements dont la variation par rapport aux données de définition approuvées a une incidence négligeable sur la sécurité du produit et dont le détenteur du certificat de type a confirmé cet état de fait dans les instructions de maintien de la navigabilité;
+- c. pièces d’aéronef ou équipements requis en vue d’une modification ou d’une réparation standard selon la norme CS-STAN conformément à l’art. 42, al. 4;
+- d. fabrication d’une pièce d’aéronef ou d’un équipement approuvée par l’OFAC dans le cadre d’une modification soumise à approbation conformément aux art. 42 à 48, ou
+- e.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^18-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Il a été tenu compte de cette modification dans tout le présent texte.
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+  dans le cas d’un aéronef d’une masse maximale au décollage n’excédant pas 2000 kg, pièces d’aéronef ou équipements:
+
+  - 1\. dont la durée de vie est illimitée et qui ne font pas partie de la structure primaire ou des systèmes de commande d’un aéronef,
+  - 2\. qui sont fidèles à la pièce ou aux plans d’origine,
+  - 3\. qui sont prévus pour être installés dans un aéronef spécifique,
+  - 4\. qui portent de manière permanente et bien en évidence le numéro de pièce et les données du fabricant, et
+  - 5\. pour lesquels l’exploitant de l’aéronef a vérifié le respect des conditions visées aux ch. 1 à 4 et accepté d’endosser la responsabilité dudit respect.
 
 ## Chapitre 5 Dossier technique et autres documents
 
@@ -352,26 +392,33 @@ L’exploitant ou la personne à qui il a confié la maintenance doit tenir à j
 
 <sup>2</sup> L’OFAC peut exiger qu’un dossier technique soit tenu pour d’autres pièces d’aéronef et équipements.[^19-4]
 
-<sup>3</sup> Les inscriptions dans le dossier technique ainsi que les avis de réparation des défaillances techniques et des défauts adressés à l’OFAC doivent être complets et conformes aux faits (art. 29).
+<sup>3</sup> Les inscriptions dans le dossier technique doivent être complètes et conformes aux faits.[^19-5]
+
+<sup>4</sup> La tenue du dossier technique peut s’effectuer sous forme physique ou électronique. Les systèmes électroniques doivent remplir par analogie les exigences de l’AMC M.A.305(e), let. f, de l’annexe I de la décision 2020/002/R[^19-6] de l’Agence de l’Union européenne pour la sécurité aérienne (AESA) et être approuvés par l’OFAC.[^19-7]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^19-3]: Introduite par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^19-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^19-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^19-6]: Executive Director Decision 2020/002/R of 13 March 2020 amending the Acceptable Means of Compliance and Guidance Material to Annex I (Part‑M), Annex II (Part‑145), Annex III (Part‑66), Annex IV (Part‑147) and Annex Va (Part‑T) to as well as to the articles of Commission Regulation (EU) No 1321/2014, and issuing Acceptable Means of Compliance and Guidance Material to Annex Vb (Part‑ML), Annex Vc (Part‑CAMO) and Annex Vd (Part‑CAO) to that Regulation, modifiée en dernier lieu par l’Executive Director Decision 2023/013/R, en particulier son Annex I «AMC and GM to Part‑M – Issue 2, Amendment 8». [www.easa.europa.eu](https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-materials/amc-gm-part-m-issue-2-7) &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
+[^19-7]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 20
 
-**Carnet de route et documents analogues**
+**Carnet de route et documents analogues**[^20-1]
 
-<sup>1</sup> Pour les avions, les hélicoptères et les motoplaneurs, il y a lieu de tenir un carnet de route édité par l’OFAC ou un document équivalent reconnu par l’OFAC.
+<sup>1</sup> Pour les avions, les hélicoptères et les motoplaneurs, il y a lieu de tenir, sous forme physique ou électronique, un carnet de route édité par l’OFAC ou un document équivalent reconnu par l’OFAC.
 
-<sup>2</sup> L’équipage procède aux inscriptions au plus tard à l’issue du dernier vol de la journée et les confirme par sa signature. …[^20-1]
+<sup>2</sup> Pour les planeurs, il y a lieu d’effectuer un contrôle des heures de vol, et pour les ballons libres, il y a lieu de tenir un carnet de route; tous deux peuvent être tenus sous forme physique ou électronique.
 
-<sup>3</sup> Pour les planeurs, il y a lieu d’effectuer un contrôle des heures de vol; pour les ballons libres, il y a lieu de tenir un carnet de route.
+<sup>3</sup> Les carnets de route électronique ne sont reconnus que si leur accès est sécurisé et si les modifications des enregistrements apparaissent clairement.
 
-<sup>4</sup> Toutes les inscriptions doivent être complètes et conformes aux faits.
+<sup>4</sup> L’équipage procède aux inscriptions au plus tard à l’issue du dernier vol de la journée et les confirme par sa signature manuscrite ou électronique. La signature électronique est personnelle et unique.
 
-[^20-1]: Phrase abrogée par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+<sup>5</sup> Toutes les inscriptions doivent être complètes et conformes aux faits.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 21
 
@@ -385,29 +432,30 @@ L’OFAC peut édicter des directives complémentaires sur la forme, la tenue et
 
 <sup>1</sup>
 
-Les papiers de bord et les documents ci-après doivent se trouver dans chaque aéronef admis à la circulation:
+Les papiers de bord et les documents ci-après, qui doivent être disponibles sous forme physique ou électronique, doivent se trouver dans chaque aéronef admis à la circulation:[^22-1]
 
 - a. le certificat d’immatriculation;
-- b.[^22-1] le certificat de navigabilité ou l’autorisation de vol avec l’annexe du manuel de vol intitulée «champ d’utilisation»; en outre, pour les avions remorqueurs, le certificat d’aptitude au remorquage;
-- b<sup>bis</sup>.[^22-2] le certificat d’examen de navigabilité (Airworthiness Review Certificate) valable ou l’attestation valable du contrôle de la navigabilité;
+- b.[^22-2] le certificat de navigabilité, le certificat de navigabilité restreint ou l’autorisation de vol avec le justificatif d’approbation des conditions de vol correspondantes; en outre, pour les avions remorqueurs, le certificat d’aptitude au remorquage;
+- b<sup>bis</sup>.[^22-3] le certificat d’examen de navigabilité (Airworthiness Review Certificate) valable ou l’attestation valable du contrôle de la navigabilité;
 - c. le certificat de bruit, s’il est prescrit;
-- d.[^22-3] l’attestation d’assurance responsabilité civile envers les tiers au sol et, si elle est prescrite, l’attestation d’assurance responsabilité civile envers les passagers;
+- d.[^22-4] l’attestation d’assurance responsabilité civile envers les tiers au sol et, si elle est prescrite, l’attestation d’assurance responsabilité civile envers les passagers;
 - e. la «licence de station d’aéronefs» pour les aéronefs équipés d’installations radioélectriques émettrices et réceptrices;
 - f. le manuel de vol;
-- g.[^22-4] le carnet de route ou un document équivalent, y compris les certificats de remise en service;
-- h.[^22-5] la liste de contrôle (check list) publiée par le producteur ou établie par l’exploitant.
+- g.[^22-5] le carnet de route ou un document équivalent, y compris les certificats de remise en service;
+- h.[^22-6] la liste de contrôle (check list) publiée par le producteur ou établie par l’exploitant.
 
-<sup>2</sup> …[^22-6]
+<sup>2</sup> …[^22-7]
 
-<sup>3</sup> Dans des cas spéciaux, notamment lorsque les aéronefs sont en cours de certification, l’OFAC prescrit au cas par cas les papiers de bord et les documents qui doivent se trouver à bord des aéronefs.[^22-7]
+<sup>3</sup> Dans des cas spéciaux, notamment lorsque les aéronefs sont en cours de certification, l’OFAC prescrit au cas par cas les papiers de bord et les documents qui doivent se trouver à bord des aéronefs.[^22-8]
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^22-2]: Introduite par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 août 2005, en vigueur depuis le 5 sept. 2005 ([RO 2005 4197](https://fedlex.data.admin.ch/eli/oc/2005/550)).
-[^22-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^22-3]: Introduite par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 août 2005, en vigueur depuis le 5 sept. 2005 ([RO 2005 4197](https://fedlex.data.admin.ch/eli/oc/2005/550)).
 [^22-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^22-6]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^22-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^22-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^22-7]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^22-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
 ## Chapitre 6 Maintien de la navigabilité
 
@@ -439,31 +487,35 @@ Les papiers de bord et les documents ci-après doivent se trouver dans chaque a�
 
 <sup>1</sup>
 
-Sous réserve de l’art. 41, un aéronef ne sera mis en circulation que si:
+Un aéronef ne sera mis en circulation que si:[^24-2]
 
 - a. les travaux d’entretien ont été exécutés de façon réglementaire;
-- b. la maintenance[^24-2] annuelle minimale fixée par l’OFAC a été exécutée;
+- b. la maintenance[^24-3] annuelle minimale fixée par l’OFAC a été exécutée;
 - c. à la suite de défaillances techniques, de défauts ou de sollicitations anormales ayant mis en question sa navigabilité, un examen a été effectué par une personne habilitée et a révélé que la navigabilité de l’aéronef n’était pas compromise;
 - d. les défauts constatés par l’OFAC ont été corrigés dans le délai imparti;
 - e. un certificat de remise en service valable et conforme à l’art. 37 a été établi;
-- f.[^24-3] une attestation valable du contrôle de navigabilité a été établie par l’OFAC.
+- f.[^24-4] une attestation valable du contrôle de navigabilité a été établie par l’OFAC.
+
+<sup>1bis</sup> L’art. 41 est réservé.[^24-5]
 
 <sup>2</sup> Si les conditions de mise en circulation ne sont plus remplies, l’exploitant doit veiller à ce que les équipages en soient informés.
 
 <sup>3</sup>
 
-Un moteur, une hélice, une pièce d’aéronef ou un équipement ne peut être utilisé que si:[^24-4]
+Un moteur, une hélice, une pièce d’aéronef ou un équipement ne peut être utilisé que si:[^24-6]
 
 - a. les travaux d’entretien ont été exécutés de façon réglementaire;
-- b.[^24-5] à la suite de défaillances techniques, de défauts ou de sollicitations ayant mis en question sa navigabilité, un examen du moteur, de l’hélice, de la pièce d’aéronef ou de l’équipement a été effectué par une personne habilitée et a révélé que la navigabilité de l’aéronef n’était pas compromise;
+- b.[^24-7] à la suite de défaillances techniques, de défauts ou de sollicitations ayant mis en question sa navigabilité, un examen du moteur, de l’hélice, de la pièce d’aéronef ou de l’équipement a été effectué par une personne habilitée et a révélé que la navigabilité de l’aéronef n’était pas compromise;
 - c. les défauts constatés par l’OFAC ont été corrigés dans le délai imparti;
 - d. un certificat de remise en service valable a été établi, dans la mesure où l’art. 37 le prescrit.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^24-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Il a été tenu compte de cette mod. dans tout le texte.
-[^24-3]: Introduite par le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^24-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^24-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^24-3]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Il a été tenu compte de cette mod. dans tout le texte.
+[^24-4]: Introduite par le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
+[^24-5]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^24-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^24-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
 #### Art. 25
 
@@ -477,22 +529,27 @@ Sont en particulier considérés comme des données d’entretien nécessaires a
 
 - a. les plans de maintenance (Maintenance Review Board Reports/Documents) qui font partie du certificat de type et ont été déclarés applicables par l’OFAC;
 - b. les potentiels fixés ou recommandés par le détenteur du certificat de type; l’OFAC peut dans des cas d’espèce fixer des exceptions et des tolérances s’écartant des potentiels (communications techniques, art. 50);
-- c.[^25-3] les programmes d’entretien, les instructions de travail et de réparation ainsi que les fiches de contrôle édictés par le détenteur du certificat de type; l’OFAC peut dans des cas d’espèce fixer des dérogations et des tolérances s’écartant des programmes d’entretien (communications techniques, art. 50);
+- c.[^25-3] les instructions d’entretien (programmes d’entretien, instructions de travail et de réparation et fiches de contrôle) édictées par le détenteur du certificat de type; l’OFAC peut dans des cas d’espèce fixer des dérogations et des tolérances s’écartant des programmes d’entretien (communications techniques, art. 50); en l’absence de documents ou instructions de ce genre, l’instruction de travail AC 43.13 de l’autorité de l’aviation civile des États-Unis d’Amérique s’applique;
 - d. les consignes de navigabilité et les autres instructions de l’OFAC;
-- e.[^25-4] les programmes d’entretien approuvés par l’OFAC.
+- e.[^25-4] les programmes d’entretien approuvés par l’OFAC;
+- f.[^25-5] les instructions d’entretien énoncées dans les conditions de vol (art. 11*a*).
 
-<sup>3</sup> Si les données d’entretien[^25-5] du détenteur du certificat de type se révèlent insuffisants, l’OFAC peut exiger qu’ils soient modifiés ou complétés.
+<sup>2bis</sup> Les exploitants d’avions d’une masse maximale au décollage n’excédant pas 2730 kg et d’hélicoptères d’une masse maximale au décollage n’excédant pas 1200 kg peuvent déroger aux potentiels recommandés selon l’al. 2, let. b, et aux instructions d’entretien recommandées selon l’al. 2, let. c, s’ils adressent à l’OFAC une déclaration écrite par laquelle ils indiquent endosser la responsabilité pleine et entière des dérogations. L’OFAC peut édicter des directives sous forme d’une communication technique (art. 50).[^25-6]
+
+<sup>3</sup> Si les données d’entretien[^25-7] du détenteur du certificat de type se révèlent insuffisants, l’OFAC peut exiger qu’ils soient modifiés ou complétés.
 
 <sup>4</sup> Si aucunes données d’entretien ne sont disponibles pour les travaux de réparation ou d’autres travaux d’entretien, l’exploitant doit exiger du détenteur du certificat de type des documents complémentaires. Si l’on ne peut les obtenir, les art. 42 à 47 s’appliquent par analogie.
 
-<sup>5</sup> L’exploitant met à la disposition de l’organisme de maintenance ou du personnel d’entretien et, le cas échéant, de l’entreprise de transport aérien les données d’entretien et les instructions et directives que l’OFAC lui a remises.[^25-6]
+<sup>5</sup> L’exploitant met à la disposition de l’organisme de maintenance ou du personnel d’entretien et, le cas échéant, de l’entreprise de transport aérien les données d’entretien et les instructions et directives que l’OFAC lui a remises.[^25-8]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^25-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^25-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
-[^25-5]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Il a été tenu compte de cette mod. dans tout le texte.
-[^25-6]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^25-5]: Introduite par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^25-6]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^25-7]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Il a été tenu compte de cette mod. dans tout le texte.
+[^25-8]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
 #### Art. 26
 
@@ -536,9 +593,10 @@ L’OFAC édicte des directives (communications techniques, art. 50) afin d’é
 
 <sup>2</sup> …[^29-1]
 
-<sup>3</sup> L’exploitant ou l’organe qu’il a désigné annonce sans retard à l’OFAC les défaillances techniques, les défauts ou les sollicitations anormales. L’OFAC édicte des directives à ce sujet (communications techniques, art. 50).
+<sup>3</sup> …[^29-2]
 
 [^29-1]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^29-2]: Abrogé par le ch. I de l’O du DETEC du 26 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ### Section 4 Maintenance des aéronefs assurant des vols commerciaux
 
@@ -548,7 +606,16 @@ L’OFAC édicte des directives (communications techniques, art. 50) afin d’é
 
 #### Art. 30
 
-Les exigences applicables à l’exécution de travaux d’entretien sur des aéronefs assurant des vols commerciaux sont régies par les prescriptions applicables relatives à l’exploitation d’aéronefs dans le trafic aérien commercial.
+[^30-1]
+
+<sup>1</sup> Les exploitants d’aéronefs titulaires d’une autorisation pour le transport commercial de personnes et de biens doivent posséder un agrément d’organisme de gestion du maintien de la navigabilité (CAMO) conformément à l’annexe V quater (Partie CAMO) du règlement (UE) n<sup>o</sup> 1321/2014[^30-2].
+
+<sup>2</sup> Les travaux d’entretien sur des aéronefs assurant des vols commerciaux doivent être exécutés ou attestés par un organisme de maintenance au sens de l’ordonnance du DETEC du 19 mars 2004 sur les organismes de maintenance d’aéronefs (OOMA)[^30-3].[^30-4]
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^30-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^30-3]: [RS 748.127.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9065)
+[^30-4]: Fussnotentext
 
 #### Art. 31
 
@@ -562,95 +629,91 @@ Abrogé
 
 #### Art. 32
 
-**Avions, hélicoptères et motoplaneurs**
+**Avions, hélicoptères et motoplaneurs**[^32-1]
 
 <sup>1</sup> L’OFAC fixe au cas par cas les exigences applicables à la maintenance des aéronefs de la catégorie standard d’une masse maximale au décollage égale ou supérieure à 5700 kg ainsi qu’à celle des hélicoptères multimoteurs de la catégorie standard.
 
-<sup>2</sup> Seuls les organismes de maintenance agréés en vertu de l’ordonnance du 19 mars 2004 sur les organismes de maintenance d’aéronefs (OOMA)[^32-1] peuvent exécuter et attester les travaux d’entretien complexes sur les autres aéronefs, les motoplaneurs d’une masse maximale au décollage supérieure à 1200 kg et les hélicoptères, ainsi que tout travail d’entretien sur les aéronefs et les hélicoptères utilisés régulièrement à des fins d’instruction. L’OFAC peut autoriser des dérogations sur demande.[^32-2]
+<sup>2</sup> Seuls les organismes de maintenance agréés en vertu de l’OOMA[^32-2] peuvent exécuter et attester les travaux d’entretien complexes sur les autres aéronefs et motoplaneurs d’une masse maximale au décollage supérieure à 2730 kg et sur les hélicoptères d’une masse maximale au décollage supérieure à 1200 kg. L’OFAC peut autoriser des dérogations sur demande.
 
 <sup>3</sup>
 
-Les travaux d’entretien complexes sur les aéronefs et les motoplaneurs d’une masse maximale au décollage inférieure ou égale à 1200 kg et les autres travaux d’entretien non complexes sur les aéronefs et les hélicoptères peuvent être exécutés ou attestés par:[^32-3]
+Les travaux d’entretien complexes sur les aéronefs et les motoplaneurs d’une masse maximale au décollage n’excédant pas 2730 kg et sur les hélicoptères d’une masse maximale au décollage n’excédant pas 1200 kg et les travaux d’entretien non complexes sur les aéronefs mentionnés aux al. 2 et 3 peuvent être exécutés ou attestés par:
 
 - a. un organisme de maintenance au sens de l’OOMA;
 - b.
 
   le personnel préposé à l’entretien d’aéronefs:
 
-  - 1\. s’il est habilité à cet effet conformément à l’annexe III du règlement (CE) n<sup>o</sup> 2042/2003[^32-4] ou conformément à l’ordonnance du DETEC du 25 août 2000 sur le personnel préposé à l’entretien des aéronefs (OPEA)[^32-5], et
+  - 1\. s’il est habilité à cet effet conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^32-3] ou conformément à l’ordonnance du DETEC du 25 août 2000 sur le personnel préposé à l’entretien des aéronefs (OPEA)[^32-4], et
   - 2\. s’il dispose des données d’entretien, de l’outillage et des équipements nécessaires;
 
-- c. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (CE) n<sup>o</sup> 1702/2003[^32-6] ou de l’art. 17, al. 1, let. b, OECA[^32-7].
+- c. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (UE) n<sup>o</sup> 748/2012[^32-5] ou de l’art. 17, al. 1, let. b, OECA[^32-6].
 
-[^32-1]: [RS 748.127.4](https://fedlex.data.admin.ch/eli/cc/2004/206)
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^32-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^32-4]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^32-5]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^32-6]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^32-7]: [RS 748.127.5](https://fedlex.data.admin.ch/eli/cc/1988/541_541_541)
+<sup>4</sup>
+
+Les travaux d’entretien visés à l’AMC1 de l’appendice II de la partie ML (Entretien limité du pilote-propriétaire) conformément à la décision 2020/002/R[^32-7] de l’AESA sur des avions d’une masse maximale au décollage n’excédant pas 2730 kg (tableau A) et des motoplaneurs d’une masse maximale au décollage n’excédant pas 2000 kg (tableau C) qui sont rangés dans la catégorie standard peuvent être exécutés ou attestés par les exploitants (entretien exécuté personnellement par l’exploitant), à condition:
+
+- a. qu’ils possèdent une licence de pilote en cours de validité pour le type d’aéronef en question, et
+- b. qu’ils disposent des connaissances techniques, des données d’entretien, de l’outillage et des équipements nécessaires.
+
+<sup>5</sup> L’OFAC peut, sur demande des exploitants qui remplissent les conditions fixées à l’al. 4, étendre l’autorisation d’exécuter personnellement l’entretien à certains contrôles ou travaux d’entretien non complexes qui ne sont pas mentionnés au tableau A ni au tableau C. Il édicte des directives à cet effet (communications techniques, art. 50).
+
+<sup>6</sup> L’OFAC peut retirer ou restreindre l’autorisation s’il constate des carences dans l’entretien visé à l’al. 5.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^32-2]: [RS 748.127.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9065)
+[^32-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)**)**.
+[^32-4]: [RS 748.127.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9061)
+[^32-5]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)**)**.
+[^32-6]: [RS 748.127.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9066)
+[^32-7]: Executive Director Decision 2020/002/R of 13 March 2020 amending the Acceptable Means of Compliance and Guidance Material to Annex I (Part‑M), Annex II (Part‑145), Annex III (Part‑66), Annex IV (Part‑147) and Annex Va (Part‑T) to as well as to the articles of Commission Regulation (EU) No 1321/2014, and issuing Acceptable Means of Compliance and Guidance Material to Annex Vb (Part‑ML), Annex Vc (Part‑CAMO) and Annex Vd (Part‑CAO) to that Regulation, modifiée en dernier lieu par l’Executive Director Decision 2023/013/R, en particulier son Annex I «AMC and GM to Part‑M – Issue 2, Amendment 8». [www.easa.europa.eu](https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-materials/amc-gm-part-m-issue-2-7) &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
 
 #### Art. 33
 
-**Planeurs, planeurs avec moteur rétractable, dirigeables et ballons**
+**Planeurs, planeurs avec moteur rétractable, dirigeables et ballons**[^33-1]
 
 <sup>1</sup>
 
 Les travaux d’entretien complexes sur les planeurs, planeurs avec moteur rétractable, dirigeables et ballons peuvent être exécutés ou attestés par:
 
-- a. un organisme de maintenance au sens de l’OOMA[^33-1];
-- b. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (CE) n<sup>o</sup> 1702/2003[^33-2] ou de l’art. 17, al. 1, let. b, OECA[^33-3];
-- c.[^33-4]
+- a. un organisme de maintenance au sens de l’OOMA[^33-2];
+- b. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (UE) n<sup>o</sup> 748/2012[^33-3] ou de l’art. 17, al. 1, let. b, OECA[^33-4];
+- c.
 
   le personnel préposé à l’entretien d’aéronefs:
 
-  - 1\. s’il est habilité à cet effet conformément à l’annexe III du règlement (CE) n<sup>o</sup> 2042/2003[^33-5] ou conformément à l’OPEA[^33-6]; et
+  - 1\. s’il est habilité à cet effet conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^33-5] ou conformément à l’OPEA[^33-6], et
   - 2\. s’il dispose des données d’entretien, de l’outillage et des équipements nécessaires.
 
 <sup>2</sup>
 
 Les travaux d’entretien non complexes sur les planeurs, planeurs avec moteur rétractable, dirigeables et ballons peuvent être exécutés ou attestés par:
 
-- a. l’exploitant pour autant qu’il dispose des connaissances techniques, des données d’entretien, de l’outillage et des installations nécessaires;
+- a. l’exploitant pour autant qu’il dispose des connaissances techniques, des données d’entretien, de l’outillage et des équipements nécessaires;
 - b.
 
   le personnel préposé à l’entretien d’aéronefs:
 
-  - 1\. s’il est habilité à cet effet conformément à l’annexe III du règlement (CE) n<sup>o</sup> 2042/2003[^33-7] ou conformément à l’OPEA[^33-8], et
+  - 1\. s’il est habilité à cet effet conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014 ou conformément à l’OPEA, et
   - 2\. s’il dispose des données d’entretien, de l’outillage et des équipements nécessaires;
 
 - c. un organisme de maintenance au sens de l’OOMA;
-- d. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (CE) n<sup>o</sup> 1702/2003 ou de l’art. 17, al. 1, let. b, OECA.
+- d. les entreprises de construction si elles sont habilitées conformément à leur agrément d’organisme de production établi en application du règlement (UE) n<sup>o</sup> 748/2012 ou de l’art. 17, al. 1, let. b, OECA.
 
-<sup>3</sup> L’art. 34, al. 4, s’applique par analogie.
-
-[^33-1]: [RS 748.127.4](https://fedlex.data.admin.ch/eli/cc/2004/206)
-[^33-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^33-3]: [RS 748.127.5](https://fedlex.data.admin.ch/eli/cc/1988/541_541_541)
-[^33-4]: Introduite par le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^33-5]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^33-6]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^33-7]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^33-8]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^33-2]: [RS 748.127.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9065)
+[^33-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)**)**.
+[^33-4]: [RS 748.127.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9066)
+[^33-5]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^33-6]: [RS 748.127.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9061)
 
 #### Art. 34
 
-**Cas particuliers**
+**Cas particuliers**[^34-1]
 
-<sup>1</sup> L’OFAC peut habiliter un organisme de maintenance agréé conformément au règlement (CE) n<sup>o</sup> 2042/2003[^34-1] à exécuter et à attester conformément à ce règlement des travaux d’entretien sur des aéronefs n’entrant pas dans le champ d’application du règlement (CE) n<sup>o</sup> 216/2008[^34-2], pour autant que les travaux soient exécutés et attestés en accord avec une annexe nationale, agréée par l’OFAC, du manuel des spécifications de l’organisme de maintenance (MOE/MOM) agréé conformément au règlement (CE) n<sup>o</sup> 2042/2003. L’OFAC peut édicter des directives dans les communications techniques prévues par l’art. 50.
+L’entretien des aéronefs de la catégorie spéciale est soumis aux dispositions de la section 5 à moins que les annexes n’en disposent autrement.
 
-<sup>2</sup> Il peut autoriser l’exploitant d’un avion monomoteur à pistons ou d’un aéronef de la catégorie spéciale à exécuter et à attester personnellement certains travaux d’entretien non complexes sur son aéronef. Il édicte des directives à ce sujet (communications techniques, art. 50).
-
-<sup>3</sup> En plus du personnel d’entretien habilité pour la maintenance des aéronefs, il peut habiliter l’exploitant d’un aéronef classé dans la catégorie spéciale «amateur» ou un spécialiste désigné par celui-ci à effectuer, surveiller et attester personnellement certains travaux d’entretien selon les données d’entretien. Il fixe l’étendue et les conditions de cette habilitation. Il peut surveiller les travaux d’entretien.[^34-3]
-
-<sup>4</sup> L’exploitant peut faire appel à d’autres spécialistes en plus du personnel d’entretien habilité pour la maintenance d’un aéronef des sous-catégories «historique» et «limité».[^34-4] L’OFAC contrôle les compétences de ces personnes. Il peut les habiliter à effectuer, surveiller et attester certains travaux d’entretien. Il fixe l’étendue et les conditions de cette habilitation. Il peut surveiller les travaux d’entretien ou fixer des conditions supplémentaires à cet effet.
-
-<sup>5</sup> L’OFAC peut retirer ou restreindre l’autorisation ou l’habilitation à la personne concernée s’il constate des carences dans la maintenance décrite aux al. 1 à 4.
-
-[^34-1]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^34-2]: Conformément au ch. 3 de l’annexe du R sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)**)**.
-[^34-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
-[^34-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ### Section 6 Maintenance des moteurs, hélices, pièces d’aéronef et équipements
 
@@ -660,7 +723,13 @@ Les travaux d’entretien non complexes sur les planeurs, planeurs avec moteur r
 
 #### Art. 35
 
-Les art. 30 à 34 s’appliquent par analogie aux agréments relatifs à l’exécution de travaux d’entretien des moteurs, des hélices, des pièces d’aéronef et des équipements.
+[^35-1]
+
+<sup>1</sup> Les art. 30, 32, al. 1 à 3, et 33, al. 1 et 2, let. b à d, s’appliquent par analogie à l’habilitation à exécuter des travaux d’entretien sur des moteurs, hélices, pièces et équipements d’aéronefs de la catégorie standard et de la catégorie spéciale, sous-catégorie Restreint.
+
+<sup>2</sup> Par dérogation aux art. 30 à 33, l’habilitation des exploitants ou spécialistes à exécuter des travaux d’entretien sur des moteurs, hélices, pièces et équipements d’aéronefs de la catégorie spéciale, sous-catégories Historique, Limité, Ecolight, Ultra-léger, Experimental et Amateur est réglementée dans les annexes correspondantes.
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ### Section 7 Travaux d’entretien à l’étranger
 
@@ -670,27 +739,48 @@ Les art. 30 à 34 s’appliquent par analogie aux agréments relatifs à l’ex�
 
 #### Art. 36
 
-<sup>1</sup> Les exigences applicables à l’exécution de travaux d’entretien à l’étranger sur des aéronefs assurant des vols commerciaux sont régies par les prescriptions applicables relatives à l’exploitation d’aéronefs dans le trafic aérien commercial.
+[^36-1]
 
-<sup>2</sup> Les travaux d’entretien sur des aéronefs affectés au trafic non commercial et sur des moteurs, hélices, pièces d’aéronef et équipements destinés à être montés sur de tels aéronefs ne peuvent être exécutés et attestés à l’étranger que par des entreprises de construction ou des organismes de maintenance reconnus comme tels par l’autorité aéronautique compétente.
+<sup>1</sup>
 
-<sup>3</sup>
+Les travaux d’entretien peuvent être exécutés et attestés à l’étranger sous les conditions suivantes:
 
-Si des travaux d’entretien sont confiés à des entreprises de construction ou des organismes de maintenance étrangers, l’exploitant doit exiger que:
+- a. travaux d’entretien sur des aéronefs assurant des vols commerciaux conformément à l’art. 30 et sur des aéronefs de la classe IV de la catégorie spéciale, sous-catégorie Historique ou sur des moteurs, hélices, pièces d’aéronef et équipements destinés à être installés sur ces aéronefs: par des organismes de maintenance reconnus à cet effet au cas par cas par l’OFAC;
+- b.
 
-- a. les documents déterminants soient utilisés (art. 25);
-- b. les attestations et les rapports de travail requis soient établis conformément aux prescriptions suisses (art. 37 et 38).
+  travaux d’entretien sur des aéronefs de la catégorie spéciale, sous-catégories Ecolight, Ultra-léger et Amateur ou sur des moteurs, hélices, pièces d’aéronef et équipements destinés à être installés sur ces aéronefs:
 
-<sup>4</sup> L’OFAC peut contrôler sur place les travaux d’entretien en question.
+  - 1\. par des organismes de production ou de maintenance reconnus pour les travaux en question par l’autorité aéronautique compétente,
+  - 2\. par des titulaires des licences visées à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^36-2] et autorisant leurs titulaires à attester des travaux d’entretien sur des catégories et types d’aéronefs comparables. Les limitations découlant de l’art. 32 et du ch. 4.2 de l’annexe 3 (sous-catégorie Historique) s’appliquent par analogie, ou
+  - 3\. par des titulaires de licences étrangères autorisant leurs titulaires à attester des travaux d’entretien sur des catégories et types d’aéronefs comparables; les licences ou qualifications étrangères qui ne donnent le droit au titulaire de licence que d’attester les travaux d’entretien sur son propre aéronef ne sont pas admises;
 
-<sup>5</sup>
+- c.
+
+  travaux d’entretien sur les autres aéronefs ou sur des moteurs, hélices, pièces d’aéronef et équipements destinés à être installés sur ces aéronefs:
+
+  - 1\. par des organismes de production ou de maintenance reconnus pour les travaux en question par l’autorité aéronautique compétente,
+  - 2\. par des titulaires des licences visées à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014 et autorisant leurs titulaires à attester des travaux d’entretien sur des catégories et types d’aéronefs comparables. Les limitations découlant de l’art. 32 et du ch. 4.2 de l’annexe 3 (sous-catégorie Historique) s’appliquent par analogie.
+
+<sup>2</sup>
+
+Si des travaux d’entretien sont confiés à des organismes de production, organismes de maintenance ou titulaires de licence étrangers, l’exploitant doit exiger:
+
+- a. que les documents déterminants soient utilisés (art. 25), et
+- b. que les attestations et les rapports de travail requis soient établis par analogie conformément aux prescriptions suisses (art. 37 et 38).
+
+<sup>3</sup> L’OFAC peut contrôler sur place les travaux d’entretien en question.
+
+<sup>4</sup>
 
 S’il constate des carences dans les travaux d’entretien qui ont été exécutés à l’étranger, il peut décider que:
 
-- a. l’aéronef concerné ne pourra être remis en circulation ou le moteur, l’hélice, la pièce d’aéronef ou l’équipement concerné ne pourra être réutilisé que lorsqu’un organisme de maintenance suisse aura exécuté les travaux d’entretien requis;
-- b. les travaux en question ne seront plus confiés à l’organisme de maintenance étranger concerné.
+- a. l’aéronef concerné ne pourra être remis en circulation ou le moteur, l’hélice, la pièce d’aéronef ou l’équipement concerné ne pourra être réutilisé que lorsqu’un organisme de maintenance ou un titulaire de licence suisses aura exécuté les travaux d’entretien requis;
+- b. les travaux en question ne seront plus confiés à l’organisme de production, l’organisme de maintenance ou le titulaire de licence étrangers en question.
 
-<sup>6</sup> L’OFAC peut prévoir au cas par cas des dérogations aux al. 2 et 3.
+<sup>5</sup> L’OFAC peut prévoir au cas par cas des dérogations aux al. 2 et 3.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^36-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)**)**.
 
 ### Section 8 Achèvement et attestation des travaux d’entretien
 
@@ -750,11 +840,12 @@ Le certificat de remise en service cesse d’être valide:
 
 **Vol de contrôle**[^40-1]
 
-<sup>1</sup> Un vol de contrôle est effectué si le fonctionnement d’un aéronef, des moteurs, des hélices, des pièces d’aéronef ou des équipements sur lesquels des travaux d’entretien ont été exécutés ne peut être contrôlé au moyen d’essais au sol.
+<sup>1</sup> Un vol de contrôle est effectué si le fonctionnement d’un aéronef, des moteurs, des hélices, des pièces d’aéronef ou des équipements sur lesquels des travaux d’entretien ont été exécutés ne peut être contrôlé au moyen d’essais au sol. L’organisme de maintenance ou le personnel d’entretien responsable doit confirmer à l’interne, avant le vol de contrôle, que les travaux d’entretien n’ont pas encore été attestés, mais que l’aéronef peut être remis en service pour ce vol.[^40-2]
 
 <sup>2</sup> Les instructions spéciales de l’OFAC ou du détenteur du certificat de type sont réservées.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ### Section 9 Vol de convoyage d’un aéronef endommagé
 
@@ -780,13 +871,18 @@ Le certificat de remise en service cesse d’être valide:
 
 **Obligation de soumettre à approbation**[^42-1]
 
-<sup>1</sup> Les modifications effectuées sur les aéronefs ainsi que sur leurs moteurs, hélices, pièces et équipements sont soumises à l’approbation de l’OFAC.
+<sup>1</sup> Les modifications effectuées sur les aéronefs, leurs moteurs, hélices, pièces et équipements ainsi que celles apportées aux manuels de vol approuvés et aux instructions d’entretien contraignantes sont soumises à l’approbation de l’OFAC; l’al. 4 est réservé.[^42-2]
 
 <sup>2</sup> Les documents nécessaires sont soumis à l’OFAC avant le début des travaux de modification.
 
 <sup>3</sup> Les réparations qui ne sont pas exécutées dans le cadre de la maintenance ordinaire et qui exigent des travaux de conception sont considérées comme des modifications.
 
+<sup>4</sup> L’obligation au titre des al. 1 à 3 ne s’applique pas dans le cas de modifications ou de réparations standard exécutées conformément aux CS‑STAN sur les aéronefs visés à l’annexe I, partie 21, section A, sous-partie D, point 21.A.90B a) 1) ou sous-partie M, point 21.A.431B a) 1) du règlement (UE) n<sup>o</sup> 748/2012[^42-3]. L’OFAC édicte des directives à cet effet (communications techniques, art. 50).[^42-4]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^42-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)**)**.
+[^42-4]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 #### Art. 43
 
@@ -834,6 +930,16 @@ Il édicte des directives sous la forme de communications techniques (art. 50) c
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^44-3]: Introduit par le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 
+#### Art. 44a
+
+**Construction**[^44a-1]
+
+<sup>1</sup> Lorsqu’une modification requiert des travaux de construction, l’OFAC établit au cas par cas, dans le cadre de l’approbation de la modification, les exigences applicables à la conformité et à la construction des pièces d’aéronef et équipements nécessaires.
+
+<sup>2</sup> L’OFAC édicte des directives à cet effet (communications techniques, art. 50).
+
+[^44a-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+
 #### Art. 45 à 47
 
 [^4547-1]
@@ -858,10 +964,14 @@ Il édicte des directives sous la forme de communications techniques (art. 50) c
 
 #### Art. 49
 
-Sur requête, l’OFAC établit des certificats de navigabilité pour l’exportation d’aéronefs, de moteurs ou d’hélices:
+[^49-1]
 
-- a. si un examen officiel a permis de constater que l’aéronef, le moteur ou l’hélice est conforme au certificat de type ou aux documents de type; et
+Sur requête, l’OFAC établit des certificats de navigabilité pour l’exportation d’aéronefs:
+
+- a. si un examen officiel a permis de constater que l’aéronef est conforme au certificat de type ou aux documents de type, et
 - b. si les travaux d’entretien nécessaires au maintien de la navigabilité ou de l’aptitude à l’emploi ont été exécutés.
+
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
 
 ## Chapitre 9 Publications et devoir de s’informer
 
@@ -963,6 +1073,18 @@ Les habilitations visées à l’art. 34, al. 3, dans la version du 14 juillet 2
 [^54c-1]: Introduit par le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^54c-2]: [RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)
 
+#### Art. 54d
+
+**Disposition transitoire relative à la modification du 26 février 2025**[^54d-1]
+
+<sup>1</sup> Un délai d’une année à compter de l’entrée en vigueur de la modification du 26 février 2025 est imparti pour que les aéronefs visés à l’art. 10*b*, al. 2, admis à la circulation jusqu’au 31 mars 2025 soient admis à la circulation conformément à la présente ordonnance.
+
+<sup>2</sup> Les pièces et équipements certifiés et installés conformément au droit en vigueur sont pareillement réputés certifiés et installés après l’entrée en vigueur de la modification du 26 février 2025.
+
+<sup>3</sup> Les habilitations délivrées conformément au droit en vigueur aux organismes de maintenance, aux exploitants et aux spécialistes conservent leur validité après l’entrée en vigueur de la modification du 26 février 2025.
+
+[^54d-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+
 #### Art. 55
 
 **Entrée en vigueur**
@@ -975,77 +1097,77 @@ Annexe[^t-2]
 
 Annexe 1[^t-3]
 
-(art. 3, al. 3 et 4, let. a)
+(art. 3, al. 4)
 
 ## Sous-catégorie Ecolight
 
 [^annex1-lvlu1-1]
 
-[^t-3]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex1-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-3]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-4]
 
-(art. 3, al. 3 et 4, let. b)
+(art. 3, al. 4)
 
 ## Sous-catégorie Ultra-léger
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex2-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-4]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-5]
 
-(art. 3, al. 3 et 4, let. c)
+(art. 3, al. 4)
 
-## Sous-catégorie Historique / Historic
+## Sous-catégorie Historique/Historic
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. I de l’O du DETEC du 24 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 480](https://fedlex.data.admin.ch/eli/oc/2022/480)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/480](https://fedlex.data.admin.ch/eli/oc/2022/480) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-6]
 
-(art. 3, al. 3 et 4, let. d)
+(art. 3, al. 4)
 
 ## Sous-catégorie Amateur
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex4-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-6]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex4-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 5[^t-7]
 
-(art. 3, al. 3 et 4, let. e)
+(art. 3, al. 4)
 
-## Sous-catégorie Limité / Limited
+## Sous-catégorie Limité/Limited
 
 [^annex5-lvlu1-1]
 
-[^t-7]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex5-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-7]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex5-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6[^t-8]
 
-(art. 3, al. 3 et 4, let. f)
+(art. 3, al. 4)
 
 ## Sous-catégorie Experimental
 
 [^annex6-lvlu1-1]
 
-[^t-8]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex6-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-8]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-9]
 
-(art. 3, al. 3 et 4, let. g)
+(art. 3, al. 4)
 
-## Sous-catégorie Restreint / Restricted
+## Sous-catégorie Restreint/Restricted
 
 [^annex7-lvlu1-1]
 
-[^t-9]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
-[^annex7-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+[^t-9]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 184](https://fedlex.data.admin.ch/eli/oc/2025/184)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/184](https://fedlex.data.admin.ch/eli/oc/2025/184) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
