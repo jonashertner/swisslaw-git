@@ -3,20 +3,19 @@ canton: AR
 number: "761.32"
 title: Gebührentarif zum EG SVG
 language: de
-version: 2017-06-20
-valid_until: 2025-03-31
-version_adopted: 2017-06-20
+version: 2025-04-01
+version_adopted: 2025-03-18
 adopted: 2016-04-12
 in_force: 2016-06-01
 url: "https://ar.clex.ch/app/de/texts_of_law/761.32"
-pdf: "https://ar.clex.ch/api/de/versions/1186/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif zum EG SVG
 
-vom 12.04.2016 (Stand 20.06.2017)
+vom 12.04.2016 (Stand 01.04.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden
 
@@ -229,8 +228,9 @@ Motoreinachsern mit Anhängern werden folgende Gebühren erhoben:
   - 2\. Zusatztheorie — Fr. 45.-
   - 3\. CZV-Theorie — Fr. 45.-
   - 4\. Einzelprüfung — Fr. 120.-
+  - 5\. CZV E-Prüfung, je Teilprüfung — Fr. 30.-
 - b) Praktische Führerprüfungen
-  - 1\. Kategorien A1, A — Fr. 80.-
+  - 1\. Kategorien A1, A — Fr. 120.-
   - 2\. Kategorien B, B1, BE, C1, C1E, DE, D1, D1E, F — Fr. 120.-
   - 3\. Kategorie CE — Fr. 170.-
   - 4\. Kategorien C, D — Fr. 220.-
@@ -248,7 +248,7 @@ Motoreinachsern mit Anhängern werden folgende Gebühren erhoben:
 
 **Weitere Gebühren**
 
-<sup>1</sup> Die Gebühren gemäss Art. 2 bis Art. 12 werden auch erhoben bei:
+<sup>1</sup> Die Gebühren gemäss Art. 2 bis Art. 10 werden auch erhoben bei:
 
 - a) Nachprüfungen von Führern und Fahrzeugen infolge ungenügenden Prüfungsbefundes bis zu 100% der Gebühren
 - b) Nichterscheinen oder Abmeldung später als 5 Arbeitstage vor der Führer- oder Fahrzeugprüfung
@@ -289,6 +289,8 @@ Motoreinachsern mit Anhängern werden folgende Gebühren erhoben:
   - 2\. Abgabe Schilderpaar — Fr. 45.-
   - 3\. Übertragung auf neuen Halter — Fr. 150.-
   - 4\. Sammelübertragung mehrerer Kontrollschilder — Fr. 180.-
+
+<sup>2</sup> Die Übertragungsgebühren nach Abs. 1 lit. d Ziff. 3 und 4 entfallen, wenn die Kontrollschilder nach dem Tod der Halterin oder des Halters auf den überlebenden Ehegatten oder den eingetragenen Partner übertragen werden.
 
 [^12-1]: SR 741.31
 
