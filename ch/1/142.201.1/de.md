@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 13. August 2015 über die dem Zustimmungsverfahre
 short: ZV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: de
-version: 2023-02-01
+version: 2025-04-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20230201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/de"
 
 (Verordnung des EJPD über das ausländerrechtliche Zustimmungsverfahren, ZV-EJPD)[^t-1]
 
-vom 13. August 2015 (Stand am 1. Februar 2023)
+vom 13. August 2015 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -42,7 +42,7 @@ Dem Staatssekretariat für Migration (SEM) sind zur Zustimmung zu unterbreiten:
   Vorentscheide der kantonalen Arbeitsmarktbehörden in Bezug auf Staatsangehörige von Nichtmitgliedstaaten der Europäischen Union (EU), der Europäischen Freihandelsassoziation (EFTA) oder des Vereinigten Königreichs betreffend:
 
   - 1\. die Ausübung einer selbstständigen Erwerbstätigkeit, wenn die Voraussetzungen nach Artikel 19 AIG erfüllt sind,
-  - 2\. die Erwerbstätigkeit von Ausländerinnen und Ausländern mit Schweizer Hochschulabschluss, wenn diese von hohem wissenschaftlichem oder wirtschaftlichem Interesse ist (Art. 21 Abs. 3 AIG),
+  - 2\.[^1-2] ...
   - 3\. die Erwerbstätigkeit von anerkannten Personen aus Wissenschaft, Kultur und Sport (Art. 23 Abs. 3 Bst. b AIG),
   - 4\. die Erwerbstätigkeit von Personen mit besonderen beruflichen Kenntnissen oder Fähigkeiten, sofern für deren Zulassung ein Bedarf ausgewiesen ist (Art. 23 Abs. 3 Bst. c AIG),
   - 5\. die Erwerbstätigkeit von Besatzungsmitgliedern auf Binnenschiffen von Schweizer Unternehmen, sofern für deren Zulassung ein Bedarf ausgewiesen ist (Art. 23 Abs. 3 Bst. c AIG),
@@ -54,6 +54,7 @@ Dem Staatssekretariat für Migration (SEM) sind zur Zustimmung zu unterbreiten:
 - b. Vorentscheide der kantonalen Behörden in Bezug auf Staatsangehörige von Nichtmitgliedstaaten der EU oder der EFTA, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden.
 
 [^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^1-2]: Aufgehoben durch Ziff. I der V des EJPD vom 13. Febr. 2025, mit Wirkung seit 1. April 2025 ([AS 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 
 #### Art. 2
 
@@ -99,18 +100,18 @@ Dem SEM ist zur Zustimmung zu unterbreiten:
 - a. die Verlängerung der Aufenthaltsbewilligung, wenn die betroffene Ausländerin oder der betroffene Ausländer den heimatlichen Pass nicht mehr verlängern kann;
 - b.[^4-1] die Verlängerung der Aufenthaltsbewilligung von vorübergehend zugelassenen Staatsangehörigen von Nichtmitgliedstaaten der EU oder der EFTA wie Schülerinnen und Schülern, Studierenden, Doktorandinnen und Doktoranden, Postdoktorandinnen und ‑doktoranden, akademischen Gästen, Personen im Forschungs- oder Weiterbildungsurlaub und Bundesstipendiatinnen und ‑stipendiaten, wenn der Aufenthalt im Rahmen einer Aus- oder Weiterbildung voraussichtlich länger als acht Jahre dauert (Art. 23 Abs. 3 VZAE);
 - c.[^4-2] die Verlängerung der Aufenthaltsbewilligung von Ausländerinnen und Ausländern, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden;
-- d.[^4-3] die Verlängerung der Aufenthaltsbewilligung nach der Auflösung der ehelichen Gemeinschaft oder nach dem Tod des schweizerischen oder ausländischen Ehegatten (Art. 50 AIG; Art. 77 VZAE);
+- d.[^4-3] die Verlängerung der Aufenthaltsbewilligung nach der Auflösung der ehelichen Gemeinschaft oder nach dem Tod des schweizerischen oder ausländischen Ehegatten (Art. 50 AIG);
 - e.[^4-4] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA und ihrer Familienangehörigen, die ein Recht auf Verbleib in der Schweiz haben (Anhang I Art. 4 des Abk. vom 21. Juni 1999[^4-5] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit [FZA]);
 - f.[^4-6] die Verlängerung der Aufenthaltsbewilligung von Kindern von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA, die in der Schweiz eine Erwerbstätigkeit ausgeübt haben, oder von deren Ehegatten, um hier eine Ausbildung zu beenden (Anhang I Art. 3 Abs. 6 FZA), sowie die Verlängerung der Aufenthaltsbewilligung des Elternteils, der die elterliche Sorge tatsächlich wahrnimmt;
-- g.[^4-7] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Nichtmitgliedstaats der EU oder der EFTA, wenn diese in einem Haushalt leben, der während der letzten drei Jahre vor Ablauf der Bewilligung Sozialhilfe in Höhe von 50 000 Franken oder mehr bei einem Einpersonenhaushalt beziehungsweise 80 000 Franken oder mehr bei einem Mehrpersonenhaushalt bezogen hat.
+- g.[^4-7] ...
 
 [^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 [^4-2]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-3]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-3]: Fassung gemäss Ziff. I der V des EJPD vom 13. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 [^4-4]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^4-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-6]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-7]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^4-7]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Aufgehoben durch Ziff. I der V des EJPD vom 13. Febr. 2025, mit Wirkung seit 1. April 2025 ([AS 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 
 #### Art. 5
 

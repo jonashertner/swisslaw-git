@@ -4,11 +4,11 @@ title: "Ordonnance du DFJP du 13 août 2015 relative aux autorisations et aux d�
 short: OA-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: fr
-version: 2023-02-01
+version: 2025-04-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/fr"
 
 (Ordonnance du DFJP concernant l’approbation, OA-DFJP)[^t-1]
 
-du 13 août 2015 (État le 1<sup>er</sup> février 2023)
+du 13 août 2015 (État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -41,7 +41,7 @@ Sont soumis pour approbation au Secrétariat d’État aux migrations (SEM):
   les décisions préalables des autorités cantonales du marché du travail portant sur des ressortissants d’États non membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) ou du Royaume-Uni et qui concernent:
 
   - 1\. l’exercice d’une activité lucrative indépendante, lorsque les conditions de l’art. 19 LEI sont remplies,
-  - 2\. l’activité lucrative des étrangers titulaires d’un diplôme d’une haute école suisse si elle revêt un intérêt scientifique ou économique prépondérant (art. 21, al. 3, LEI),
+  - 2\.[^1-2] …
   - 3\. l’activité lucrative des personnalités reconnues des domaines scientifique, culturel ou sportif (art. 23, al. 3, let. b, LEI),
   - 4\. l’activité lucrative des personnes possédant des connaissances ou des capacités professionnelles particulières, si leur admission répond de manière avérée à un besoin (art. 23, al. 3, let. c, LEI),
   - 5\. l’activité lucrative des membres de l’équipage d’un bateau de navigation intérieure d’une entreprise suisse, si leur admission répond de manière avérée à un besoin (art. 23, al. 3. let. c, LEI),
@@ -53,6 +53,7 @@ Sont soumis pour approbation au Secrétariat d’État aux migrations (SEM):
 - b. les décisions préalables des autorités cantonales portant sur des ressortissants d’États non membres de l’UE ou de l’AELE qui attentent de manière grave ou répétée à la sécurité et à l’ordre publics en Suisse ou à l’étranger, les mettent en danger ou représentent une menace pour la sécurité intérieure ou extérieure de la Suisse.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^1-2]: Abrogé par le ch. I de l’O du DFJP du 13 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 
 #### Art. 2
 
@@ -98,18 +99,18 @@ Sont soumises au SEM pour approbation:
 - a. la prolongation de l’autorisation de séjour lorsque l’étranger n’est plus en mesure d’obtenir la prolongation de son passeport national;
 - b.[^4-1] la prolongation de l’autorisation de séjour d’un ressortissant d’un État non membre de l’UE ou de l’AELE admis temporairement en Suisse, tel qu’un élève, un étudiant, un doctorant, un post-doctorant, un hôte académique, une personne bénéficiant d’un congé sabbatique ou un boursier, s’il est prévisible que le séjour aux fins de formation ou de formation continue se prolongera au-delà de huit ans (art. 23, al. 3, OASA);
 - c [^4-2] la prolongation de l’autorisation de séjour d’un étranger qui attente de manière grave ou répétée à la sécurité et l’ordre publics en Suisse ou à l’étranger, les met en danger ou représente une menace pour la sécurité intérieure ou extérieure de la Suisse;
-- d.[^4-3] la prolongation de l’autorisation de séjour après la dissolution de l’union conjugale ou le décès du conjoint suisse ou étranger (art. 50 LEI; art. 77 OASA);
+- d.[^4-3] la prolongation de l’autorisation de séjour après la dissolution de l’union conjugale ou le décès du conjoint suisse ou étranger (art. 50 LEI);
 - e.[^4-4] la prolongation de l’autorisation de séjour d’un ressortissant d’un État membre de l’UE ou de l’AELE et des membres de sa famille qui ont le droit de demeurer en Suisse (art. 4 de l’annexe I de l’Ac. du 21 juin 1999 entre la Confédération suisse, d’une part et la Communauté européenne et ses États membres, d’autre part sur la libre circulation des personnes [ALCP][^4-5]);
 - f.[^4-6] la prolongation de l’autorisation de séjour de l’enfant d’un ressortissant d’un État membre de l’UE ou de l’AELE qui a exercé une activité économique en Suisse ou de son conjoint afin d’y terminer sa formation (art. 3, par. 6, de l’annexe I ALCP) ainsi que la prolongation de l’autorisation de séjour du parent qui en a effectivement la garde;
-- g.[^4-7] la prolongation de l’autorisation de séjour d’un ressortissant d’un État non membre de l’UE ou de l’AELE lorsque cette personne fait partie d’un ménage ayant obtenu des prestations d’aide sociale durant les trois dernières années précédant la date d’échéance du titre de séjour pour un montant égal ou supérieur à 50 000 francs s’agissant d’un ménage d’une seule personne, ou à 80 000 francs s’agissant d’un ménage de plusieurs personnes.
+- g.[^4-7] …
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 [^4-4]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^4-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-6]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-7]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^4-7]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Abrogée par le ch. I de l’O du DFJP du 13 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 123](https://fedlex.data.admin.ch/eli/oc/2025/123)).
 
 #### Art. 5
 
