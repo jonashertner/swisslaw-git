@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novembre 2001 concernente l'emanazione della farmacopea e il riconoscimento di altre farmacopee"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: it
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’Istituto svizzero per gli agenti terapeutici concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee
 
-del 9 novembre 2001 (Stato 1° gennaio 2025)[^t-1]
+del 9 novembre 2001 (Stato 1° aprile 2025)[^t-1]
 
 [^t-1]: Nuovo testo giusta l’all. 7 cifra I dell’O del 22 giu. 2006 sui medicamenti complementari e fitoterapeutici, in vigore dal 1° ott. 2006 ([RU 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559)).
 
@@ -25,7 +25,7 @@ visto l’articolo 52 capoverso 1 della legge del 15 dicembre 2000[^ingress-1] s
 ordina:
 
 [^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)cifra II n. 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)cifra II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)cifra I n. 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 cifra II n. 3. [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)all. 8 n. I]. Vedi ora l’O del 14 nov. 2018 ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)).
+[^ingress-2]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)cifra II n. 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)cifra II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)cifra I n. 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 cifra II n. 3. [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)all. 8 cifra I]. Vedi ora l’O del 14 nov. 2018 ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)).
 [^ingress-3]: [[RU 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445). [RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 cifra I n. 3]
 [^ingress-4]: Nuovo testo giusta l’all. 7 cifra I dell’O del 22 giu. 2006 sui medicamenti complementari e fitoterapeutici, in vigore dal 1° ott. 2006 ([RU 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559)).
 
@@ -35,12 +35,12 @@ ordina:
 
 Per farmacopea si intendono:
 
-- a. *Pharmacopoea Europaea,* 11<sup>a</sup> edizione[^1-2] (Ph. Eur. 11), del novembre 2021, il supplemento 11.1 alla *Pharmacopoea Europaea* del marzo 2022, il supplemento 11.2 alla *Pharmacopoea Europaea* del giugno 2022, il supplemento 11.3 alla *Pharmacopoea Europaea* del novembre 2022, il supplemento 11.4 alla *Pharmacopoea Europaea* del marzo 2023, il supplemento 11.5 alla *Pharmacopoea Europaea* del giugno 2023 e il supplemento 11.6 alla *Pharmacopoea Europaea* del novembre 2023;
+- a. *Pharmacopoea Europaea,* 11<sup>a</sup> edizione[^1-2] (Ph. Eur. 11), del novembre 2021, il supplemento 11.1 alla *Pharmacopoea Europaea* del marzo 2022, il supplemento 11.2 alla *Pharmacopoea Europaea* del giugno 2022, il supplemento 11.3 alla *Pharmacopoea Europaea* del novembre 2022, il supplemento 11.4 alla *Pharmacopoea Europaea* del marzo 2023, il supplemento 11.5 alla *Pharmacopoea Europaea* del giugno 2023, il supplemento 11.6 alla *Pharmacopoea Europaea* del novembre 2023 e il supplemento 11.7 alla *Pharmacopoea Europaea* del marzo 2024;
 - b. *Pharmacopoea Helvetica,* 12<sup>a</sup> edizione[^1-3] (Ph. Helv. 12), dell’agosto 2022.
 
-[^1-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 27 set. 2024, in vigore dal 1° gen. 2025 ([RU 2024 538](https://fedlex.data.admin.ch/eli/oc/2024/538)).
-[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/it/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm‑Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
-[^1-3]: La *Pharmacopoea Helvetica* è edita da Swissmedic e può essere consultata all’indirizzo Internet [www.phhelv.ch](https://www.phhelv.ch/changeLangIt) o ottenuta presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/it/), alle condizioni previste dall’OEm‑Pub.
+[^1-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 22 nov. 2024, in vigore dal 1° apr. 2025 ([RU 2024 753](https://fedlex.data.admin.ch/eli/oc/2024/753)).
+[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/it/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^1-3]: La *Pharmacopoea Helvetica* è edita da Swissmedic e può essere consultata all’indirizzo Internet [www.phhelv.ch](https://www.phhelv.ch/) o ottenuta presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/it/), alle condizioni previste dall’OEm‑Pub.
 
 #### Art. 1a
 
