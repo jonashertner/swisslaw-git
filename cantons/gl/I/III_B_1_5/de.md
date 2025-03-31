@@ -4,13 +4,12 @@ number: III B/1/5
 title: Verordnung zum Einführungsgesetz zum Zivilgesetzbuch und zum Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 short: VO EG ZGB und zum Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 language: de
-version: 2015-07-01
-valid_until: 2025-03-31
-version_adopted: 2015-07-02
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2015-07-02
 in_force: 2015-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/1793/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1793/pdf_file"
 
 (VO EG ZGB und zum Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland)
 
-Vom 02.07.2015 (Stand 01.07.2015)
+Vom 02.07.2015 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
@@ -53,11 +52,11 @@ verordnet:
 
 #### Art. 3
 
-**Departement Bau und Umwelt und Hauptabteilung Tiefbau**
+**Departement Bau und Umwelt und Hauptabteilung Mobilität und Tiefbau**
 
 <sup>1</sup> Zuständiges Departement im Bereich der Wuhrpflicht und der Offenhaltung der Wasserläufe gemäss den Artikeln 189 ff. EG ZGB ist das Departement Bau und Umwelt. Es nimmt sämtliche Aufgaben wahr, die in diesem Bereich dem zuständigen Departement zugewiesen sind. Insbesondere ist es Beschwerdeinstanz gegen die Korporationsentscheide gemäss Artikel 204 EG ZGB.
 
-<sup>2</sup> Zuständige kantonale Verwaltungsbehörde ist die Hauptabteilung Tiefbau. Sie nimmt sämtliche Aufgaben wahr, die im Bereich Wuhrpflicht und der Offenhaltung der Wasserläufe der zuständigen kantonalen Verwaltungsbehörde zugewiesen sind.
+<sup>2</sup> Zuständige kantonale Verwaltungsbehörde ist die Hauptabteilung Mobilität und Tiefbau. Sie nimmt sämtliche Aufgaben wahr, die im Bereich Wuhrpflicht und der Offenhaltung der Wasserläufe der zuständigen kantonalen Verwaltungsbehörde zugewiesen sind.
 
 ## 2. Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 
