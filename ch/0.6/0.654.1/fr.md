@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: "Accord multilatéral du 27 janvier 2016 entre autorités compétentes portant sur l'échange des déclarations pays par pays"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: fr
-version: 2025-03-01
+version: 2025-04-01
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250301-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> décembre 2017
 
-(État le 1<sup>er</sup> mars 2025)
+(État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: [RO 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sauf disposition contraire contenue dans l’Accord, le secrétariat de l’orga
 
 Fait en français et en anglais, les deux textes faisant également foi.
 
-Champ d’application le 1<sup>er</sup> mars 2025[^t-2]
+Champ d’application le 1<sup>er</sup> avril 2025[^t-2]
 
 La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays à l’égard des États et territoires suivants en vertu de la section 8, par. 2, de cet accord:
 
@@ -174,6 +174,7 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Allemagne</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Andorre</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Anguilla</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>1<sup>er</sup> janvier 2025</td></tr>
 <tr><td>Arabie saoudite</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Argentine</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Arménie</td><td>1<sup>er</sup> janvier 2026</td></tr>
@@ -255,6 +256,7 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Royaume-Uni</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Russie</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Saint-Marin</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Serbie</td><td>1<sup>er</sup> janvier 2024\*</td></tr>
 <tr><td>Seychelles</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Singapour</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Slovaquie</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
@@ -271,5 +273,5 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon l’al. 1 b) de la section 8 de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de déclarations pays par pays de la part de la Suisse, mais lui transfèrent de telles déclarations. \*\* Y inclus les déclarations pays par pays qui ont été fournies volontairement en Suisse pour les périodes fiscales 2016 et 2017 conformément à la déclaration relative à la date d’effet pour l’échange de renseignements prévus par l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays[^t-3].</td></tr>
 </table>
 
-[^t-2]: [RO 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: [RO 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
