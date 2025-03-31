@@ -3,11 +3,11 @@ sr: "641.811.424"
 title: Ordonnance de l’OFDF du 16 juillet 2024 sur les prescriptions techniques et opérationnelles destinées aux prestataires du SET et du NETS en lien avec la redevance sur le trafic des poids lourds liée aux prestations (Ordonnance de l’OFDF sur les prestataires du SET et du NETS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/389"
 language: fr
-version: 2024-09-01
+version: 2025-04-01
 adopted: 2024-07-16
 in_force: 2024-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2024-389-20240901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2024-389-20250401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/fr"
 
 (Ordonnance de l’OFDF sur les prestataires du SET et du NETS)
 
-du 16 juillet 2024 (État le 1<sup>er</sup> septembre 2024)
+du 16 juillet 2024 (État le 1<sup>er</sup> avril 2025)
 
 L’Office fédéral de la douane et de la sécurité des frontières (OFDF),
 
@@ -24,7 +24,7 @@ vu l’art. 11*a*, al. 4, de la loi du 19 décembre 1997 relative à une redevan
 
 arrête:
 
-[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
 #### Art. 1
 
@@ -48,7 +48,7 @@ L’OFDF peut convenir contractuellement d’autres obligations avec les prestat
 
 <sup>2</sup> Les prestataires agréés en vertu des dispositions de l’ordonnance du DFF sur les prestataires du SET et les prestataires de cartes de carburant qui souhaitent être agréés après l’entrée en vigueur de la présente ordonnance doivent présenter une nouvelle demande d’agrément au 1<sup>er</sup> janvier 2026 au plus tard.
 
-[^3-1]: [RS 641.811.423](https://fedlex.data.admin.ch/eli/cc/2024/594)
+[^3-1]: [RS 641.811.423](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8164)
 
 #### Art. 4
 
@@ -56,15 +56,16 @@ L’OFDF peut convenir contractuellement d’autres obligations avec les prestat
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2024.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 1, al. 1)
 
-## Prescriptions techniques et opérationnelles destinées aux prestataires du SET
+## Prescriptions techniques et opérationnelles destinées aux prestataires agréés du SET
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté sous [https://fedlex.data.admin.ch/eli/oc/2024/389](https://fedlex.data.admin.ch/eli/oc/2024/389) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFDF du 4 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 132](https://fedlex.data.admin.ch/eli/oc/2025/132)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/132](https://fedlex.data.admin.ch/eli/oc/2025/132) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 2
 

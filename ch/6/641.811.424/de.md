@@ -3,11 +3,11 @@ sr: "641.811.424"
 title: Verordnung des BAZG vom 16. Juli 2024 über die technischen und betrieblichen Vorgaben für EETS- und NETS-Anbieter im Zusammenhang mit der Erhebung der leistungsabhängigen Schwerverkehrsabgabe (EETS- und NETS-Anbieter-Verordnung BAZG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/389"
 language: de
-version: 2024-09-01
+version: 2025-04-01
 adopted: 2024-07-16
 in_force: 2024-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2024-389-20240901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2024-389-20250401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/de"
 
 (EETS- und NETS-Anbieter-Verordnung BAZG)
 
-vom 16. Juli 2024 (Stand am 1. September 2024)
+vom 16. Juli 2024 (Stand am 1. April 2025)
 
 Das Bundesamt für Zoll und Grenzsicherheit (BAZG),
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 11*a* Absatz 4 des Schwerverkehrsabgabegesetzes vom 19. De
 
 verordnet:
 
-[^ingress-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^ingress-1]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
 #### Art. 1
 
@@ -48,7 +48,7 @@ Das BAZG kann mit den zugelassenen EETS- und NETS-Anbietern weitere Pflichten ve
 
 <sup>2</sup> EETS-Anbieter, die nach der EETS- und Tankkarten-Anbieter-Verordnung EFD zugelassen worden sind und nach Inkrafttreten der vorliegenden Verordnung weiterhin zugelassen sein wollen, müssen spätestens auf den 1. Januar 2026 eine neue Zulassung beantragen.
 
-[^3-1]: [SR 641.811.423](https://fedlex.data.admin.ch/eli/cc/2024/594)
+[^3-1]: [SR 641.811.423](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8164)
 
 #### Art. 4
 
@@ -56,7 +56,7 @@ Das BAZG kann mit den zugelassenen EETS- und NETS-Anbietern weitere Pflichten ve
 
 Diese Verordnung tritt am 1. September 2024 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 1)
 
@@ -64,7 +64,8 @@ Anhang 1
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/389](https://fedlex.data.admin.ch/eli/oc/2024/389) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des BAZG vom 4. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 132](https://fedlex.data.admin.ch/eli/oc/2025/132)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/132](https://fedlex.data.admin.ch/eli/oc/2025/132) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2
 

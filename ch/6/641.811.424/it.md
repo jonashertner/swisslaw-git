@@ -3,11 +3,11 @@ sr: "641.811.424"
 title: Ordinanza dell’UDSC del 16 luglio 2024 concernente le prescrizioni tecniche e operative per fornitori del SET e del NETS in relazione con la riscossione della tassa sul traffico pesante commisurata alle prestazioni (Ordinanza dell’UDSC sui fornitori del SET e del NETS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/389"
 language: it
-version: 2024-09-01
+version: 2025-04-01
 adopted: 2024-07-16
 in_force: 2024-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2024-389-20240901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/389/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2024-389-20250401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/389/20240901/it"
 
 (Ordinanza dell’UDSC sui fornitori del SET e del NETS)
 
-del 16 luglio 2024 (Stato 1° settembre 2024)
+del 16 luglio 2024 (Stato 1° aprile 2025)
 
 L’Ufficio federale della dogana e della sicurezza dei confini (UDSC),
 
@@ -24,7 +24,7 @@ visto l’articolo 11*a* capoverso 4 della legge del 19 dicembre 1997[^ingress-1
 
 ordina:
 
-[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
 #### Art. 1
 
@@ -48,7 +48,7 @@ L’UDSC e i fornitori del SET e del NETS autorizzati possono convenire contratt
 
 <sup>2</sup> I fornitori che sono stati autorizzati sulla base dell’ordinanza del DFF sui fornitori di SET e sui fornitori di carte-carburante e che intendono mantenere l’autorizzazione anche dopo l’entrata in vigore della presente ordinanza devono chiedere una nuova autorizzazione al più tardi entro il 1° gennaio 2026.
 
-[^3-1]: [RS 641.811.423](https://fedlex.data.admin.ch/eli/cc/2024/594)
+[^3-1]: [RS 641.811.423](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8164)
 
 #### Art. 4
 
@@ -56,7 +56,7 @@ L’UDSC e i fornitori del SET e del NETS autorizzati possono convenire contratt
 
 La presente ordinanza entra in vigore il 1° settembre 2024.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1)
 
@@ -64,7 +64,8 @@ Allegato 1
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/389](https://fedlex.data.admin.ch/eli/oc/2024/389) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’UDSC del 4 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 132](https://fedlex.data.admin.ch/eli/oc/2025/132)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/132](https://fedlex.data.admin.ch/eli/oc/2025/132) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2
 
