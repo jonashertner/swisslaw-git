@@ -3,20 +3,19 @@ canton: GL
 number: IV A/21/1
 title: Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 language: de
-version: 2024-07-01
-valid_until: 2025-03-31
-version_adopted: 2024-06-06
+version: 2025-04-01
+version_adopted: 2024-11-14
 adopted: 1991-01-24
 in_force: 1991-01-24
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2497/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 
-Vom 24.01.1991 (Stand 01.07.2024)
+Vom 24.01.1991 (Stand 01.04.2025)
 
 (Beschlossen an der ausserordentlichen Synode vom 24. Januar 1991)
 
@@ -986,6 +985,36 @@ Vom 24.01.1991 (Stand 01.07.2024)
 <sup>1</sup> Der Kirchenrat meldet Ein- und Austritte dem zuständigen Amt der politischen Gemeinde.
 
 <sup>2</sup> Er führt ein Verzeichnis über Ein- und Austritte.
+
+#### Art. 116a
+
+**Mitgliederregister**
+
+<sup>1</sup> Der kantonale Kirchenrat kann für die Landeskirche und die Kirchgemeinde ein gemeinsames Mitgliederregister einrichten und betreiben oder sich an einem solchen beteiligen.
+
+#### Art. 116b
+
+**Datenbearbeitung**
+
+<sup>1</sup> Zum Zweck der Führung des Mitgliederregisters und zur allgemeinen Erfüllung der Verwaltungsaufgaben gemäss Artikel 217 Absatz 2 und Artikel 237 der Kirchenordnung sowie Artikel 7 und Artikel 23 der Verfassung der Evangelisch-Reformierten Landeskirche des Kantons Glarus[^116b-1], darf das Mitgliederregister mittels automatischem Abgleichverfahren mit der kantonalen Datenplattform der Einwohnerregister verknüpft werden.
+
+<sup>2</sup> Der automatisierte Zugriff und Abgleich betrifft die Personendaten der Merkmalsgruppen 1 – 7, gemäss Anhang 1 der Verordnung zum Betrieb einer kantonalen Datenplattform gestützt auf das Einführungsgesetz zum Registerharmonisierungsgesetz (EG RHG)[^116b-2].
+
+<sup>3</sup> Die Datenbearbeitung erfolgt durch die von der Landeskirche oder den Kirchgemeinden autorisierten Personen.
+
+<sup>4</sup> Der kantonale Kirchenrat regelt den Vollzug.
+
+[^116b-1]: GS [IV A/1/4](https://gesetze.gl.ch/data/IV-A.1.4/de)
+[^116b-2]: GS [I C/21/2](https://gesetze.gl.ch/data/I-C.21.2/de)
+
+#### Art. 116c
+
+**Datenschutz und Datensicherheit**
+
+<sup>1</sup> Sowohl für die Landeskirche wie auch für die Kirchgemeinden gelten die datenschutz- und datensicherheitsrechtlichen Bestimmungen des Kantons Glarus, namentlich das Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG)[^116c-1] sowie die Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (VIDAG)[^116c-2].
+
+[^116c-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
+[^116c-2]: GS [I F/2](https://gesetze.gl.ch/data/I-F.2/de)
 
 #### Art. 117
 
