@@ -3,20 +3,19 @@ canton: SO
 number: "212.478.41"
 title: Verordnung über die Überprüfung der allgemeinen Revision der Katasterschätzung
 language: de
-version: 2021-01-01
-valid_until: 2025-03-31
-version_adopted: 2020-10-27
+version: 2025-04-01
+version_adopted: 2025-01-27
 adopted: 1978-07-14
 in_force: 1978-07-20
 url: "https://bgs.so.ch/app/de/texts_of_law/212.478.41"
-pdf: "https://bgs.so.ch/api/de/versions/5043/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Überprüfung der allgemeinen Revision der Katasterschätzung
 
-Vom 14.07.1978 (Stand 01.01.2021)
+Vom 14.07.1978 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -451,7 +450,7 @@ beschliesst:
 
 **Schätzung der Neubauten und Umbauten nach revidierter Katasterschätzung**
 
-<sup>1</sup> Für Gebäude, die am 1. Januar 1975 noch nie geschätzt waren, wird die Schätzung im Sinne dieser Verordnung von der zuständigen Bezirksschätzungskommission nach dem Gebäudeversicherungsgesetz vom 24. September 1972[^43-1] vorgenommen; das gleiche gilt für Umbauten, die nach dem 1. Januar 1975 fertiggestellt werden.
+<sup>1</sup> Für Gebäude, die am 1. Januar 1975 noch nie geschätzt waren, wird die Schätzung im Sinne dieser Verordnung von den zuständigen Schätzern und Schätzerinnen der Solothurnischen Gebäudeversicherung nach dem Gebäudeversicherungsgesetz vom 20. März 2024[^43-1] vorgenommen; das Gleiche gilt für Umbauten, die nach dem 1. Januar 1975 fertiggestellt werden.
 
 <sup>2</sup> Eröffnungs- und Rechtsmittelverfahren richten sich nach der vorliegenden Verordnung.
 
