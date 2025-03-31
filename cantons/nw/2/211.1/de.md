@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB"
 language: de
-version: 2023-01-01
-valid_until: 2025-03-31
-version_adopted: 2022-10-26
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-27
 adopted: 1988-04-24
 in_force: 1988-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1098/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1098/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)
 
-vom 24.04.1988 (Stand 01.01.2023)
+vom 24.04.1988 (Stand 01.04.2025)
 
 Die Landsgemeinde,
 
@@ -990,7 +990,7 @@ beschliesst:
 
 <sup>1</sup> Für Pflanzungen im Wald beträgt der Grenzabstand mindestens einen Meter.
 
-<sup>2</sup> Wird Wald neu angelegt, muss der Grenzabstand mindestens betragen:
+<sup>2</sup> Wird Wald neu angelegt, muss der Abstand mindestens betragen:
 
 - 1\. gegenüber Bauzonen, Baulinien und Gebäuden: 30 m;
 - 2\. gegenüber Kulturland: 5 m;
