@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2024-07-15
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 15 juillet 2024)
+du 11 août 1999 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -108,11 +108,18 @@ L’entretien de départ sert notamment:
 
 <sup>1</sup> Dans le cadre de son intervention visant à obtenir des documents de voyage, le SEM vérifie l’identité et la nationalité des étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale.[^3-2]
 
-<sup>2</sup> À cet effet, il peut notamment mener des entretiens, présenter l’intéressé à la représentation de son pays d’origine et effectuer des analyses linguistiques ou textuelles, de même qu’inviter en Suisse une délégation de l’État d’origine ou de provenance. Il communique le résultat de ses investigations au canton.[^3-3]
+<sup>2</sup> À cet effet, il peut notamment mener des entretiens, présenter l’intéressé à la représentation de son pays d’origine et effectuer des analyses linguistiques ou textuelles, de même qu’inviter en Suisse une délégation de l’État d’origine ou de provenance.[^3-3]
+
+<sup>3</sup> Lorsqu’une décision de renvoi au sens de l’art. 45 LAsi est entrée en force, le SEM peut analyser des données personnelles issues de supports électroniques de données. La procédure est régie par l’art. 47, al. 3, LAsi en relation avec les art. 10*a* à 10*i* de l’ordonnance 3 du 11 août 1999 sur l’asile[^3-4].[^3-5]
+
+<sup>4</sup> Le SEM communique au canton le résultat des investigations qu’il a menées conformément aux al. 2 et 3.[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^3-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
 #### Art. 4
 

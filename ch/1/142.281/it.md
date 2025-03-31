@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2024-07-15
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 15 luglio 2024)
+dell’11 agosto 1999 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -109,11 +109,18 @@ Il colloquio sulla partenza serve in particolare a:
 
 <sup>1</sup> La SEM verifica, nell’ambito dell’ottenimento di documenti di viaggio, l’identità e la cittadinanza degli stranieri contro i quali è stata pronunciata una decisione di allontanamento, espulsione o espulsione giudiziaria.[^3-2]
 
-<sup>2</sup> A tale scopo esso può effettuare in particolare interviste, organizzare incontri presso le rappresentanze dei Paesi di origine, eseguire analisi linguistiche o del testo nonché invitare in Svizzera delegazioni dei Paesi di provenienza o d’origine. Informa il Cantone sull’esito degli accertamenti.[^3-3]
+<sup>2</sup> A tale scopo esso può effettuare in particolare interviste, organizzare incontri presso le rappresentanze dei Paesi di origine, eseguire analisi linguistiche o del testo nonché invitare in Svizzera delegazioni dei Paesi di provenienza o d’origine.[^3-3]
+
+<sup>3</sup> Se una decisione d’allontanamento ai sensi dell’articolo 45 LAsi è passata in giudicato, la SEM può valutare i dati personali ottenuti grazie a supporti elettronici di dati. La procedura è retta dall’articolo 47 capoverso 3 LAsi in combinato disposto con gli articoli 10*a*–10*i* dell’ordinanza 3 dell’11 agosto 1999[^3-4] sull’asilo.[^3-5]
+
+<sup>4</sup> La SEM informa il Cantone sull’esito degli accertamenti secondo i capoversi 2 e 3.[^3-6]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^3-2]: Nuovo testo giusta il n. I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-5]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-6]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
 #### Art. 4
 
@@ -314,8 +321,6 @@ I Cantoni rimborsano alla SEM le spese di esecuzione e di partenza da essa soste
 #### Art. 15
 
 **Partecipazione alle spese d’esercizio**[^15-1]
-
-### (art. 82 cpv. 2 LStrI)
 
 <sup>1</sup> In caso di fermo secondo l’articolo 73 capoverso 1 lettere a e b LStrI o se è ordinata la carcerazione secondo gli articoli 75–78 LStrI, a partire da una durata del fermo o della carcerazione di dodici ore è versato al Cantone interessato un importo forfettario di 200 franchi per giorno.[^15-2]
 
@@ -1596,8 +1601,6 @@ Unità organizzative:
 <tr><td colspan="15">9. Dati di riferimento</td></tr>
 <tr><td>Dati di riferimento</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
-
-- [tab]
 
 [^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 

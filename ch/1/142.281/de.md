@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2024-07-15
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250401-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/de"
 
 (VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 15. Juli 2024)
+vom 11. August 1999 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -112,11 +112,18 @@ Das Ausreisegespräch dient insbesondere dazu:
 
 <sup>1</sup> Das SEM überprüft im Rahmen der Beschaffung von Reisedokumenten die Identität und die Staatsangehörigkeit der ausländischen Personen, gegen die eine Weg- oder Ausweisung oder eine Landesverweisung angeordnet wurde.[^3-2]
 
-<sup>2</sup> Es kann zu diesem Zweck insbesondere Interviews, Vorführungen bei den heimatlichen VertretungenundSprach- oder Textanalysen durchführen sowie Delegationen der Herkunfts- oder Heimatstaaten in die Schweiz einladen.Es orientiert den Kanton über das Ergebnis seiner Abklärung.[^3-3]
+<sup>2</sup> Es kann zu diesem Zweck insbesondere Interviews, Vorführungen bei den heimatlichen Vertretungen und Sprach- oder Textanalysen durchführen sowie Delegationen der Herkunfts- oder Heimatstaaten in die Schweiz einladen.[^3-3]
+
+<sup>3</sup> Liegt eine rechtskräftige Wegweisungsverfügung nach Artikel 45 AsylG vor, so kann das SEM Personendaten aus elektronischen Datenträgern auswerten. Das Verfahren richtet sich nach den Artikel 47 Absatz 3 AsylG in Verbindung mit den Artikeln 10*a* bis 10*i* der Asylverordnung 3 vom 11. August 1999[^3-4].[^3-5]
+
+<sup>4</sup> Das SEM orientiert den Kanton über das Ergebnis seiner Abklärungen nach Absatz 2 und 3.[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^3-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^3-3]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-4]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-5]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
+[^3-6]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
 #### Art. 4
 
@@ -273,7 +280,7 @@ Das SEM stellt die medizinische Begleitung sicher:
 - b. auf Linienflügen für die in Artikel 92 Absatz 2 AsylG aufgeführten Personenkategorien, sofern diese notwendig ist.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^11a-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 15. Juli 2024 (AS **20****24** 284).
+[^11a-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 15. Juli 2024 ([AS 2024 284](https://fedlex.data.admin.ch/eli/oc/2024/284)).
 
 #### Art. 12
 
@@ -429,7 +436,7 @@ Das SEM kann mit der Agentur Finanzhilfevereinbarungen von beschränkter Tragwei
 
 **Rückkehrspezialistinnen und -spezialisten des SEM**[^15c-1]
 
-<sup>1</sup> Das SEM unterhält einen Mitarbeiterpool mit Rückkehrspezialistinnen und ‑spezialisten, die für internationale Rückführungseinsätze gestützt auf Artikel 62 der Verordnung (EU) 2019/1896[^15c-2] von der Agentur aus- und weitergebildet werden. [^15c-3]
+<sup>1</sup> Das SEM unterhält einen Mitarbeiterpool mit Rückkehrspezialistinnen und ‑spezialisten, die für internationale Rückführungseinsätze gestützt auf Artikel 62 der Verordnung (EU) 2019/1896[^15c-2] von der Agentur aus- und weitergebildet werden.[^15c-3]
 
 <sup>2</sup> Die Modalitäten zur Entsendung der Rückkehrspezialistinnen und -spezialisten werden in individuellen Vereinbarungen zwischen diesen Personen und dem SEM geregelt.
 
@@ -1066,7 +1073,6 @@ Organisationseinheiten:
 - – V Bereich Datenaustausch und Identifikation
 - – VI Bereich Sachdatenerfassung und Datenpflege
 - – VII Bereich Sprachanalysen
-- [tab]
 
 ### Datenkatalog eRetour
 
