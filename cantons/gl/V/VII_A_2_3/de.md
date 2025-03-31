@@ -4,13 +4,12 @@ number: VII A/2/3
 title: Verordnung zum Einführungsgesetz zum Geoinformationsgesetz
 short: "Kantonale Geoinformationsverordnung, kGeoIV"
 language: de
-version: 2021-01-01
-valid_until: 2025-03-31
-version_adopted: 2020-10-20
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2012-08-21
 in_force: 2012-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-A.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2185/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2185/pdf_file"
 
 (Kantonale Geoinformationsverordnung, kGeoIV)
 
-Vom 21.08.2012 (Stand 01.01.2021)
+Vom 21.08.2012 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
