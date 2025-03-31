@@ -4,11 +4,11 @@ title: "Lescha federala dals 7 d'october 1983 davart la protecziun da l'ambient 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: rm
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da l’ambient, LPAmb)
 
-dals 7 d’october 1983 (versiun dal 1. da schaner 2025)
+dals 7 d’october 1983 (versiun dal 1. d’avrigl 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -957,7 +957,19 @@ Sch’in possessur d’in bain immobigliar allontanescha d’in lieu contaminà 
 
 **Obligaziun da sanaziun**
 
-<sup>1</sup> Ils chantuns procuran che deponias ed auters lieus contaminads cun ruments (lieus contaminads) vegnian sanads, sch’els chaschunan influenzas nuschaivlas u mulestusas u sch’igl exista in privel concret che talas influenzas sa sviluppian. Il Cussegl federal po decretar prescripziuns davart il basegn da sanaziun sco er davart las finamiras e davart l’urgenza da sanaziuns.
+<sup>1</sup>
+
+Ils chantuns procuran ch’ils suandants lieus vegnian sanads, sch’els chaschunan influenzas nuschaivlas u mulestusas u sch’igl exista in privel concret che talas influenzas sa sviluppian:
+
+- a. deponias ed auters lieus contaminads cun ruments (lieus contaminads);
+- b. plazzas da giugar publicas per uffants e surfatschas verdas publicas, sche lur terrens èn contaminads cun substanzas privlusas per l’ambient e sche uffants pitschens giogan regularmain là.[^32c-1]
+
+<sup>1bis</sup>
+
+Ils chantuns pon conceder prestaziuns finanzialas per sanar plazzas da giugar privatas per uffants e curtins dasper chasa privats, sche:
+
+- a. ils terrens da quests lieus èn contaminads cun substanzas privlusas per l’ambient ed uffants pitschens giogan regularmain là; e
+- b. quests lieus chaschunan influenzas nuschaivlas u mulestusas u igl exista in privel concret che talas influenzas sa sviluppian.[^32c-2]
 
 <sup>2</sup> Ils chantuns fan in cataster dals lieus contaminads, il qual è accessibel a la publicitad.
 
@@ -968,6 +980,12 @@ Els pon analisar, survegliar e sanar sezs lieus contaminads u incumbensar terzs 
 - a. quai è necessari per dustar ina influenza che smanatscha directamain;
 - b. il responsabel n’è betg en cas da procurar che las mesiras vegnian realisadas; u
 - c. il responsabel resta inactiv, malgrà ch’el è vegnì admonì e malgrà ch’in termin è vegnì fixà.
+
+<sup>4</sup> Per ils lieus tenor l’alinea 1 po il Cussegl federal decretar prescripziuns davart il basegn da sanaziun sco er davart las finamiras e davart l’urgenza da sanaziuns.[^32c-3]
+
+[^32c-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-2]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-3]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 32d
 
@@ -1036,64 +1054,117 @@ Il Cussegl federal fixescha las tariffas da la taxa e resguarda en quest connex 
 
 <sup>2bis</sup> El po adattar la tariffa da la taxa tenor l’alinea 2 a l’index naziunal dals pretschs da consum.[^32e-3]
 
-<sup>3</sup>
-
-La Confederaziun dovra il retgav da las taxas mo per indemnisar ils custs da las suandantas mesiras:
-
-- a. far ils catasters dals lieus contaminads, sche lur possessurs han survegnì la pussaivladad fin il 1. da november 2007 da prender posiziun davart l’inscripziun en il cataster;
-- b.
-
-  analisar, survegliar e sanar lieus contaminads, sin ils quals n’èn vegnids depositads pli nagins ruments dapi il 1. da favrer 2001, sche:[^32e-4]
-
-  - 1\. il chaschunader na po betg vegnir eruì u è insolvent, u
-  - 2\. i èn vegnids depositads essenzialmain ruments chasans en quest lieu;
-
-- c.[^32e-5]
-
-  analisar, survegliar e sanar lieus contaminads d’implants da tir che na servan betg en emprima lingia ad in intent commerzial, sche:
-
-  - 1\. i n’èn vegnids depositads pli nagins ruments dapi ils 31 da december 2012 en lieus en zonas da protecziun da l’aua sutterrana,
-  - 2\.[^32e-6] i n’èn vegnids depositads suenter ils 31 da december 2020 en ils ulteriurs lieus pli nagins ruments u mo ils ruments da maximalmain in tir istoric u tir champester per onn, che vegniva realisà gia avant ils 31 da december 2020 regularmain a la medema plazza;
-
-- c<sup>bis</sup>.[^32e-7] prender mesiras da protecziun adequatas sco tschiffaballas per tirs istorics e tirs champesters che han lieu maximalmain ina giada per onn e che vegnivan realisads gia avant ils 31 da december 2020 regularmain a la medema plazza;
-- d. analisar lieus che sa demussan da betg esser contaminads (art. 32*d* al. 5).
-
-<sup>4</sup>
-
-Las indemnisaziuns vegnan pajadas mo, sche las mesiras prendidas èn ecologicas ed economicas e correspundan al stadi da la tecnica. Ellas vegnan pajadas als chantuns a norma da la lavur e dals custs ed importan:
-
-- a. per indemnisaziuns tenor l’alinea 3 litera a pauschalmain 500 francs per lieu;
-- b.[^32e-8]
-
-  per indemnisaziuns tenor l’alinea 3 litera b:
-
-  - 1\. 40 pertschient dals custs imputabels, sch’i n’èn vegnids depositads pli nagins ruments sin quella deponia dapi il 1. da favrer 1996,
-  - 2\. 30 pertschient dals custs imputabels, sch’i èn vegnids depositads ruments sin quella deponia er suenter il 1. da favrer 1996, dentant maximalmain fin ils 31 da schaner 2001;
-
-- c.[^32e-9]
-
-  per indemnisaziuns tenor l’alinea 3 litera c:
-
-  - 1\. en cas dad implants da tir da 300 m pauschalmain 8000 francs per schiba,
-  - 2\. en cas dals auters implants da tir 40 pertschient dals custs imputabels;
-
-- d.[^32e-10] per indemnisaziuns tenor l’alinea 3 litera d 40 pertschient dals custs imputabels.[^32e-11]
-
-<sup>5</sup> Il Cussegl federal decretescha prescripziuns davart la procedura da l’incassament da las taxas e da las indemnisaziuns sco er davart ils custs imputabels.
-
-<sup>6</sup> Per finanziar l’analisa, la surveglianza e la sanaziun da lieus contaminads, po il dretg chantunal prevair atgnas taxas.
+<sup>3–6</sup> …[^32e-4]
 
 [^32e-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-3]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Versiun tenor la cifra I da la LF dals 20 da mars 2009 (indemnisaziun per la sanaziun d’implants da tir), en vigur dapi il 1. d’oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
-[^32e-6]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da mars 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-7]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da mars 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-9]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-11]: Versiun tenor la cifra I da la LF dals 20 da mars 2009 (indemnisaziun per la sanaziun d’implants da tir), en vigur dapi il 1. d’oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-4]: Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>bis</sup>
+
+**Indemnisaziuns da la Confederaziun**[^32ebis-1]
+
+<sup>1</sup> La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas da lieus ch’èn sa mussads sco betg contaminads (art. 32*d* al. 5), sche las analisas èn terminadas fin ils 31 da december 2045.
+
+<sup>2</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas da lieus contaminads, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da schaner 2001, sch’il giudicament dal basegn da surveglianza e da sanaziun è terminà fin ils 31 da december 2032 e sche:
+
+- a. il chaschunader na po betg vegnir eruì u è insolvent; exceptads èn ils lieus tenor ils alineas 6–8; u
+- b. i èn vegnids depositads principalmain ruments chasans en quest lieu.
+
+<sup>3</sup> La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas da lieus ch’èn vegnids contaminads tras in stabiliment per arder ruments, en ils quals nagins ruments n’èn pli vegnids depositads suenter il 1. da settember 2007, sch’il giudicament dal basegn da surveglianza e da sanaziun è terminà fin ils 31 da december 2032.
+
+<sup>4</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da la surveglianza e da la sanaziun da lieus contaminads, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da schaner 2001, sche las mesiras da surveglianza e las mesiras architectonicas da sanaziun èn terminadas fin ils 31 da december 2045 e sche:
+
+- a. il chaschunader na po betg vegnir eruì u è insolvent; exceptads èn ils lieus tenor ils alineas 6 e 7; u
+- b. i èn vegnids depositads principalmain ruments chasans en quest lieu.
+
+<sup>5</sup> La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da la surveglianza e da la sanaziun da lieus ch’èn vegnids contaminads tras in stabiliment per arder ruments, en ils quals nagins ruments n’èn pli vegnids depositads suenter il 1. da settember 2007, sche las mesiras da surveglianza e las mesiras architectonicas da sanaziun èn terminadas fin ils 31 da december 2045.
+
+<sup>6</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas, da la surveglianza e da la sanaziun dals suandants lieus ch’èn situads en la vischinanza d’implants da tir, che na servan en emprima lingia betg ad in intent commerzial e che n’èn betg suttamess a l’alinea 7, sche las mesiras èn terminadas fin ils 31 da december 2045:
+
+- a. lieus en zonas da protecziun da l’aua sutterrana, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da december 2012;
+- b. ulteriurs lieus, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da december 2020.
+
+<sup>7</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas, da la surveglianza e da la sanaziun da lieus ch’èn situads en la vischinanza d’implants da tir istoric e da tir champester, sco er ils custs da mesiras da protecziun adequatas, sco tschiffaballas, sche:
+
+- a. las mesiras èn terminadas fin ils 31 da december 2045; e
+- b. i èn vegnids depositads là mo ils ruments da maximalmain in tir istoric u in tir champester per onn, che vegniva realisà regularmain gia avant ils 31 da december 2020 en il medem lieu.
+
+<sup>8</sup> La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs d’analisas e da sanaziuns terminadas fin ils 31 da december 2060 pertutgant plazzas da giugar publicas per uffants e surfatschas verdas publicas che vegnan sanadas tenor l’artitgel 32*c* alinea 1 litera b, uschenavant ch’i n’exista nagin dretg d’indemnisaziun tenor ils alineas 1–7.
+
+<sup>9</sup> La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da sanaziuns terminadas fin ils 31 da december 2060 pertutgant plazzas da giugar privatas per uffants e curtins dasper chasa privats che vegnan sanads tenor l’artitgel 32*c* alinea 1<sup>bis</sup>, uschenavant ch’i n’exista nagin dretg d’indemnisaziun tenor ils alineas 1–7.
+
+<sup>10</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da las analisas da lieus contaminads tras stgimas da stizzar fieu che cuntegnan cumposiziuns alchilicas per- e polifluoradas (PFAS), premess che naginas stgimas che cuntegnan PFAS na sajan arrivadas en quests lieus entaifer ils 2 onns suenter l’entrada en vigur da la midada dals 27 da settember 2024, sche:
+
+- a. il giudicament dal basegn da surveglianza e da sanaziun è terminà fin ils 31 da december 2035; e
+- b. ils corps da pumpiers che han chaschunà la contaminaziun vegnan purtads da corporaziuns publicas u èn vegnids clamads per sustegnair u per remplazzar tals corps da pumpiers.
+
+<sup>11</sup>
+
+La Confederaziun utilisescha il retgav da las taxas tenor l’artitgel 32*e* per indemnisar ils custs da la surveglianza e da la sanaziun da lieus contaminads tras stgimas da stizzar fieu che cuntegnan PFAS, premess che naginas stgimas che cuntegnan PFAS na sajan arrivadas en quests lieus entaifer ils 2 onns suenter l’entrada en vigur da la midada dals 27 da settember 2024, sche:
+
+- a. las mesiras da surveglianza e las mesiras architectonicas da sanaziun èn terminadas fin ils 31 da december 2045; e
+- b. ils corps da pumpiers che han chaschunà la contaminaziun vegnan purtads da corporaziuns publicas u èn vegnids clamads per sustegnair u per remplazzar tals corps da pumpiers.
+
+<sup>12</sup>
+
+La Confederaziun utilisescha il retgav da las taxas per pajar a las autoritads chantunalas cumpetentas indemnisaziuns per la lavur ch’ellas han stuì impunder:
+
+- a. per giuditgar il basegn da surveglianza e da sanaziun dals lieus contaminads che basegnan in’analisa tenor ils alineas 2 e 4, sch’il giudicament è terminà fin ils 31 da december 2032;
+- b. per giuditgar las mesiras da sanaziun per ils lieus che basegnan ina sanaziun tenor ils alineas 6 e 7, sche las mesiras architectonicas da sanaziun èn terminadas fin ils 31 da december 2045; e
+- c. per giuditgar las mesiras da sanaziun per tut ils ulteriurs lieus che basegnan ina sanaziun, cun excepziun dals lieus tenor ils alineas 8 e 9, sche las mesiras architectonicas da sanaziun èn terminadas fin ils 31 da december 2045.
+
+[^32ebis-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>ter</sup>
+
+**Autezza da las indemnisaziuns ed incassament da la taxa**[^32eter-1]
+
+<sup>1</sup>
+
+Las indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> vegnan pajadas mo, sche las mesiras prendidas èn ecologicas ed economicas e correspundan al stadi da la tecnica. Ellas vegnan pajadas als chantuns a norma da la lavur e dals custs ed importan:
+
+- a. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 1: 40 pertschient dals custs imputabels;
+- b.
+
+  per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alineas 2 e 4 litera b:
+
+  - 1\. 40 pertschient dals custs imputabels per lieus, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da schaner 1996,
+  - 2\. 30 pertschient dals custs imputabels per lieus, en ils quals ruments èn vegnids depositads suenter ils 31 da schaner 1996, dentant maximalmain fin ils 31 da schaner 2001;
+
+- c. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alineas 3 e 5: 40 pertschient dals custs imputabels;
+- d.
+
+  per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 4 litera a:
+
+  - 1\. 60 pertschient dals custs imputabels per lieus, en ils quals nagins ruments n’èn pli vegnids depositads suenter ils 31 da schaner 1996,
+  - 2\. 30 pertschient dals custs imputabels per lieus, en ils quals ruments èn vegnids depositads suenter ils 31 da schaner 1996, dentant maximalmain fin ils 31 da schaner 2001;
+
+- e. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alineas 6 e 7: 40 pertschient dals custs imputabels;
+- f. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 8: 60 pertschient dals custs imputabels;
+- g. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 9: 40 pertschient dals custs imputabels;
+- h. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 10: 40 pertschient dals custs imputabels;
+- i. per indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> alinea 11: 40 pertschient dals custs imputabels;
+- j. per indemnisaziuns tenor l’alinea 32*e*<sup>bis</sup> alinea 12 litera a: pauschalmain 3000 francs per lieu;
+- k. per indemnisaziuns tenor l’alinea 32*e*<sup>bis</sup> alinea 12 litera b: pauschalmain 5000 francs per lieu;
+- l. per indemnisaziuns tenor l’alinea 32*e*<sup>bis</sup> alinea 12 litera c: pauschalmain 10 000 francs per lieu.
+
+<sup>2</sup> Il Cussegl federal decretescha prescripziuns davart las proceduras da l’incassament da las taxas e da las indemnisaziuns sco er davart ils custs imputabels.
+
+<sup>3</sup> Per finanziar l’analisa, la surveglianza e la sanaziun da lieus contaminads, po il dretg chantunal prevair atgnas taxas.
+
+[^32eter-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 5. chapitel Contaminaziuns e grevezzas dal terren
 
@@ -1177,76 +1248,34 @@ Il Cussegl federal fixescha la tariffa da la taxa en vista a las finamiras dal m
 
 #### Art. 35b
 
-**Cuntegn da zulper da l’ieli da stgaudar «extra lev»**
+[^35b-1]
 
-<sup>1</sup> Tgi che importescha, producescha u extira en Svizra ieli da stgaudar «extra lev» cun in cuntegn da zulper da passa 0,1 pertschient (% massa), paja ina taxa directiva a la Confederaziun.[^35b-1]
-
-<sup>2</sup> Liberà da la taxa è l’ieli da stgaudar «extra lev» cun in cuntegn da zulper da passa 0,1 pertschient (% massa) che vegn transportà tras la Svizra u exportà.
-
-<sup>3</sup> La tariffa da la taxa importa maximalmain 20 francs per tonna d’ieli da stgaudar «extra lev» cun in cuntegn da zulper da passa 0,1 pertschient (% massa), plus la chareschia a partir da l’entrada en vigur da questa disposiziun.
-
-<sup>4</sup>
-
-Il Cussegl federal fixescha la tariffa da la taxa en vista a las finamiras dal mantegniment da l’aria pura e resguarda en quest connex particularmain:
-
-- a. la contaminaziun da l’ambient cun dioxid sulfuric;
-- b. ils custs supplementars per producir ieli da stgaudar «extra lev» cun in cuntegn da zulper da passa 0,1 pertschient;
-- c. ils basegns dal provediment dal pajais.
-
-<sup>5</sup> Il retgav da la taxa, inclusiv ils tschains, vegn repartì en moda eguala sin la populaziun suenter la deducziun dals custs d’execuziun. Il Cussegl federal regla las premissas e la procedura da la repartiziun. El po incumbensar ils chantuns, corporaziuns da dretg public u persunas privatas cun la repartiziun.
-
-[^35b-1]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35b-1]: Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35b<sup>bis</sup>
 
-**Cuntegn da zulper dal benzin e da l’ieli da diesel**[^35bbis-1]
+[^35bbis-1]
 
-<sup>1</sup> Tgi che importescha, producescha u extira en Svizra benzin u ieli da diesel cun in cuntegn da zulper da passa 0,001 pertschient (% massa), paja ina taxa directiva a la Confederaziun.
-
-<sup>2</sup> Liberads da la taxa èn il benzin e l’ieli da diesel cun in cuntegn da zulper da passa 0,001 pertschient (% massa) che vegnan transportads tras la Svizra u exportads.
-
-<sup>3</sup> La tariffa da la taxa importa maximalmain 5 raps per liter, plus la chareschia a partir da l’entrada en vigur da questa disposiziun.
-
-<sup>4</sup> Il Cussegl federal po fixar differentas tariffas da taxa per il benzin e per l’ieli da diesel.
-
-<sup>5</sup>
-
-El fixescha las tariffas da taxa en vista a las finamiras dal mantegniment da l’aria pura e resguarda en quest connex particularmain:
-
-- a. la contaminaziun da l’ambient tras aria contaminada;
-- b. las pretensiuns envers la protecziun dal clima;
-- c. ils custs supplementars per producir e per distribuir benzin ed ieli da diesel cun in cuntegn da zulper da passa 0,001 pertschient (% massa);
-- d. ils basegns dal provediment dal pajais.
-
-<sup>6</sup> Il retgav da la taxa, inclusiv ils tschains, vegn repartì en moda eguala sin la populaziun suenter la deducziun dals custs d’execuziun. Il Cussegl federal regla las premissas e la procedura da la repartiziun. El po incumbensar ils chantuns, corporaziuns da dretg public u persunas privatas cun la repartiziun.
-
-[^35bbis-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35bbis-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2003 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)). Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35c
 
 **Obligaziun da pajar la taxa e procedura**
 
-<sup>1</sup>
-
-L’obligaziun da pajar la taxa han:
-
-- a. en cas da cumposiziuns organicas svapurantas: las persunas ch’èn obligadas da pajar la taxa d’import tenor la Lescha da duana dal 1. d’october 1925[^35c-1] (LD) sco er ils fabricants ed ils producents en Svizra;
-- b.[^35c-2] en cas d’ieli da stgaudar «extra lev» sco er da benzin e d’ieli da diesel: las persunas ch’èn obligadas da pajar la taxa tenor la Lescha federala dals 21 da zercladur 1996[^35c-3] davart la taglia sin il petroli (LTPet).[^35c-4]
+<sup>1</sup> Las taxas sin cumposiziuns organicas svapurantas ston vegnir pajadas da las persunas ch’èn obligadas da pajar la taxa d’import tenor la Lescha da duana dals 18 da mars 2005[^35c-1] sco er dals fabricants e dals producents en Svizra.[^35c-2]
 
 <sup>2</sup> Sch’i po vegnir cumprovà pir suenter l’incassament da la taxa che las premissas per ina liberaziun da la taxa èn ademplidas, vegn restituida la taxa. Il Cussegl federal po fixar las pretensiuns envers la cumprova ed excluder ina restituziun, sche quella chaschunass custs sproporziunads.
 
-<sup>3</sup> Il Cussegl federal regla la procedura per incassar e per restituir las taxas sin cumposiziuns organicas svapurantas. Sche l’import u l’export è pertutgà, valan las disposiziuns da procedura correspundentas da la legislaziun da duana.[^35c-5]
+<sup>3</sup> Il Cussegl federal regla la procedura per incassar e per restituir las taxas sin cumposiziuns organicas svapurantas. Sche l’import u l’export è pertutgà, valan las disposiziuns da procedura correspundentas da la legislaziun da duana.[^35c-3]
 
-<sup>3bis</sup> Sche l’import u l’export ubain la producziun u l’extracziun d’ieli da stgaudar «extra lev», da benzin u d’ieli da diesel en Svizra èn pertutgads, valan las disposiziuns da procedura correspundentas da la LTPet per incassar e per restituir la taxa.[^35c-6]
+<sup>3bis</sup> …[^35c-4]
 
 <sup>4</sup> Tgi che producescha en Svizra substanzas u organissems ch’èn suttamess a la taxa, sto declerar tals.
 
-[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: art. 70 da la Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^35c-2]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^35c-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^35c-4]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
-[^35c-5]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
-[^35c-6]: Integrà tras la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^35c-3]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35c-4]: Integrà tras la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 7. chapitel Reducziun da la grevezza da l’ambient chaschunada tras materias primas e tras products
 
@@ -1259,7 +1288,7 @@ L’obligaziun da pajar la taxa han:
 
 [^tit2-chap7-sec1-1][^tit2-chap7-sec1-2]
 
-[^tit2-chap7-sec1-1]: Integrà tras las cifras I 3 e II da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub> ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376), [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^tit2-chap7-sec1-1]: Integrà tras la cifra II da la LF dals 20 da dec. 2019 davart la prolungaziun da la limitaziun temporara da las facilitaziuns fiscalas per gas natiral, per gas liquid e per carburants biogens e davart la midada da la Lescha federala davart la reducziun da las emissiuns da CO<sub>2</sub> ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376), [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^tit2-chap7-sec1-2]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 35d
@@ -1599,13 +1628,16 @@ Per realisar projects da pilot innovativs po il Cussegl federal decretar disposi
 
 <sup>1</sup> La Confederaziun po promover la scolaziun e la furmaziun supplementara da persunas spezialisadas ch’exequeschan activitads en connex cun la protecziun da l’ambient.[^49-1]
 
-<sup>2</sup> Ella po dar incaricas per lavurs da perscrutaziun e per evaluaziuns da las decisiuns tecnologicas u sustegnair talas.[^49-2]
+<sup>1bis</sup> Per garantir ina purschida da curs d’auta qualitad po ella conceder contribuziuns ad organisaziuns privatas che porschan curs da scolaziun e da perfecziunament davart l’utilisaziun da products fitosanitars, ils quals cuntegnan substanzas tenor l’artitgel 29. L’autezza da las contribuziuns sa drizza tenor l’interess da la Confederaziun envers in adempliment da las incumbensas sco er tenor las pussaivladads finanzialas da l’organisaziun favurisada; las contribuziuns importan maximalmain 50 pertschient dals custs da curs imputabels. Ils agids finanzials pon er vegnir pajads en furma da pauschalas, che sa basan sin ina stimaziun dals custs d’ina prestaziun furnida en moda effizienta.[^49-2]
 
-<sup>3</sup> Ella po promover il svilup, la certificaziun e la verificaziun sco er l’introducziun commerziala da stabiliments e da proceduras che permettan da reducir – en l’interess public – la grevezza da l’ambient. Ils agids finanzials na dastgan per regla betg surpassar 50 pertschient dals custs. Els ston vegnir restituids a norma dals retgavs realisads, sch’ils resultats dal svilup vegnan duvrads per intents commerzials. Mintga 5 onns giuditgescha il Cussegl federal en moda generala l’effect da la promoziun e suttametta a las Chombras federalas in rapport dals resultats.[^49-3]
+<sup>2</sup> Ella po dar incaricas per lavurs da perscrutaziun e per evaluaziuns da las decisiuns tecnologicas u sustegnair talas.[^49-3]
+
+<sup>3</sup> Ella po promover il svilup, la certificaziun e la verificaziun sco er l’introducziun commerziala da stabiliments e da proceduras che permettan da reducir – en l’interess public – la grevezza da l’ambient. Ils agids finanzials na dastgan per regla betg surpassar 50 pertschient dals custs. Els ston vegnir restituids a norma dals retgavs realisads, sch’ils resultats dal svilup vegnan duvrads per intents commerzials. Mintga 5 onns giuditgescha il Cussegl federal en moda generala l’effect da la promoziun e suttametta a las Chombras federalas in rapport dals resultats.[^49-4]
 
 [^49-1]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^49-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^49-3]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^49-2]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^49-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^49-4]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 49a
 
@@ -1663,19 +1695,37 @@ La Confederaziun po conceder contribuziuns:
 - c. per finanziar secretariats da cunvegnas d’ambient internaziunalas che han lur sedia permanenta en Svizra;
 - d. a fonds per sustegnair pajais en svilup ed en transiziun a realisar cunvegnas d’ambient internaziunalas.
 
-<sup>2</sup> Contribuziuns tenor l’alinea 1 litera d vegnan concedidas sco credits generals mintgamai per plirs onns.
+<sup>2</sup> Las contribuziuns tenor l’alinea 1 litera d vegnan concedidas sco credits d’impegn mintgamai per plirs onns.[^53-2]
 
 <sup>3</sup> Il Cussegl federal surveglia l’utilisaziun efficazia dals meds finanzials deliberads tenor questa lescha e preschenta a l’Assamblea federala in rapport en chaussa.
 
 [^53-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597), 4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 3. chapitel Procedura
 
-### 1. secziun Giurisdicziun
+### 1. secziun Communicaziun electronica en proceduras administrativas
 
 [^tit3-chap3-sec1-1]
 
-[^tit3-chap3-sec1-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 53a
+
+<sup>1</sup>
+
+Il Cussegl federal po prevair che las partidas stoppian liquidar sin via electronica il barat da documents cun l’autoritad executiva federala, sch’ellas:
+
+- a. fan pretensiuns en proceduras tenor questa lescha; u
+- b. ston ademplir in’obligaziun d’annunzia sin basa da prescripziuns davart la protecziun da l’ambient.
+
+<sup>2</sup> Sch’igl è prescrit tras lescha, ch’ina dumonda inoltrada sin via electronica stoppia vegnir suttascritta, po il Cussegl federal renconuscher – empè da la signatura electronica qualifitgada – in’autra furma per laschar confermar las indicaziuns tras la partida.
+
+### 1*a*. secziun Giurisdicziun
+
+[^tit3-chap3-sec1a-1]
+
+[^tit3-chap3-sec1a-1]: Oriundamain: 1. secziun. Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
@@ -1832,13 +1882,36 @@ Las vischnancas han il dretg da far diever dals meds legals tenor il dretg feder
 [^58-3]: Versiun tenor la cifra 17 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-#### Art. 59
+#### Art. 58a
 
-**Custs per mesiras da segirezza e da reparaziun**[^59-1]
+**Custs per mesiras da segirezza e da reparaziun**[^58a-1]
 
 Ils custs da las mesiras che las autoritads prendan per prevegnir ad ina influenza che smanatscha directamain sco er per constatar e per reparar tala vegnan adossads al chaschunader.
 
-[^59-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^58a-1]: Oriundamain: art. 59. Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+
+### 5. secziun Sistems d’infurmaziun e da documentaziun
+
+[^tit3-chap3-sec5-1]
+
+[^tit3-chap3-sec5-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 59
+
+<sup>1</sup> L’uffizi federal po manar sistems d’infurmaziun e da documentaziun per la realisaziun electronica da proceduras tenor questa lescha.
+
+<sup>2</sup> Per la realisaziun electronica da proceduras ston l’autenticitad e l’integritad da las datas transmessas esser garantidas.
+
+<sup>3</sup>
+
+L’uffizi federal po render accessibels ils sistems d’infurmaziun e da documentaziun als suandants posts ed a las suandantas persunas:
+
+- a. a l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC);
+- b. als posts chantunals cumpetents per l’execuziun;
+- c. a las persunas ch’èn suttamessas a l’obligaziun da permissiun u d’annunzia;
+- d. ad ulteriuras persunas ed ad ulteriurs posts designads dal Cussegl federal, sche quai è necessari per ademplir incumbensas ed obligaziuns tenor questa lescha.
+
+<sup>4</sup> Las persunas ed ils posts numnads en l’alinea 3 pon consultar ed elavurar datas persunalas dals sistems d’infurmaziun e da documentaziun, sche quai è necessari per ademplir lur incumbensas ed obligaziuns tenor questa lescha. La consultaziun e l’elavuraziun da datas persunalas spezialmain sensiblas davart persecuziuns u sancziuns administrativas e penalas èn resalvadas a las persunas ed als posts tenor l’alinea 3 literas a, b e d.
 
 ## 4. titel Responsabladad
 
@@ -1964,54 +2037,65 @@ Il dretg da regress surannescha tenor l’artitgel 59*c*. Il termin da 3 onns cu
 
 #### Art. 60
 
-**Delicts**
+**Crims e delicts[^60-1]**
 
 <sup>1</sup>
 
-Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che fa intenziunadamain il suandant:[^60-1]
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che fa intenziunadamain il suandant:[^60-2]
 
 - a. tralascha las mesiras da segirezza disponidas per impedir catastrofas u cuntrafa al scumond da tschertas proceduras da producziun u da tschertas furmas da deposit (art. 10);
 - b. metta en circulaziun per tschertas utilisaziuns substanzas, da las qualas el sa u sto savair ch’ellas pon periclitar l’ambient u indirectamain l’uman (art. 26);
 - c. metta en circulaziun substanzas senza infurmar il cumprader davart las caracteristicas che pon avair ina influenza per l’ambient (art. 27 al. 1 lit. a) u senza instruir il cumprader, co che las substanzas vegnan applitgadas tenor las prescripziuns (art. 27 al. 1 lit. b);
 - d. applitgescha – cuntrariamain a las instrucziuns – substanzas da maniera ch’ellas, lur derivats u lur ruments pon periclitar l’ambient u indirectamain l’uman (art. 28);
-- e.[^60-2] violescha prescripziuns davart substanzas u davart organissems (art. 29, 29*b* al. 2, 29*f*, 30*a* lit. b e 34 al. 1);
-- f.[^60-3] applitgescha organissems da maniera ch’ils princips da l’artitgel 29*a* alinea 1 vegnan violads;
-- g.[^60-4] applitgescha organissems patogens senza prender tut las mesiras ch’èn necessarias per isolar quests organissems (art. 29*b* al. 1);
-- h.[^60-5] emetta senza permissiun organissems patogens en l’ambient per experiments u metta en circulaziun senza permissiun organissems patogens per utilisaziuns en l’ambient (art. 29*c* al. 1 e 29*d* al. 3 e 4);
-- i.[^60-6] metta en circulaziun organissems, dals quals el sa u sto savair ch’ils princips tenor l’artitgel 29*a* alinea 1 vegnan violads tar tschertas utilisaziuns (art. 29*d* al. 1);
-- j.[^60-7] metta en circulaziun organissems senza infurmar u instruir correspundentamain il cumprader (art. 29*e* al. 1);
-- k.[^60-8] applitgescha organissems cuntrariamain a las instrucziuns (art. 29*e* al. 2);
-- l.[^60-9] ...
+- e.[^60-3] violescha prescripziuns davart substanzas u davart organissems (art. 29, 29*b* al. 2, 29*f*, 30*a* lit. b e 34 al. 1);
+- f.[^60-4] applitgescha organissems da maniera ch’ils princips da l’artitgel 29*a* alinea 1 vegnan violads;
+- g.[^60-5] applitgescha organissems patogens senza prender tut las mesiras ch’èn necessarias per isolar quests organissems (art. 29*b* al. 1);
+- h.[^60-6] emetta senza permissiun organissems patogens en l’ambient per experiments u metta en circulaziun senza permissiun organissems patogens per utilisaziuns en l’ambient (art. 29*c* al. 1 e 29*d* al. 3 e 4);
+- i.[^60-7] metta en circulaziun organissems, dals quals el sa u sto savair ch’ils princips tenor l’artitgel 29*a* alinea 1 vegnan violads tar tschertas utilisaziuns (art. 29*d* al. 1);
+- j.[^60-8] metta en circulaziun organissems senza infurmar u instruir correspundentamain il cumprader (art. 29*e* al. 1);
+- k.[^60-9] applitgescha organissems cuntrariamain a las instrucziuns (art. 29*e* al. 2);
+- l.[^60-10] ...
 - m. installescha u maina ina deponia senza permissiun (art. 30*e* al. 2);
 - n. na segna betg ruments spezials per la surdada (art. 30*f* al. 2 lit. a) u surdat ruments spezials ad ina interpresa che na posseda nagina permissiun (art. 30*f* al. 2 lit. b);
-- o. prenda en consegna, importescha u exportescha ruments spezials senza permissiun (art. 30*f* al. 2 lit. c e d);
+- o.[^60-11] prenda en consegna senza permissiun ruments spezials u dispona senza permissiun l’import u l’export da ruments spezials (art. 30*f* al. 2 lit. c e d);
 - p. violescha prescripziuns davart il traffic cun ruments spezials (art. 30*f* al. 1);
-- q.[^60-10] violescha prescripziuns davart ils ruments (art. 30*a* lit. b);
-- r.[^60-11] violescha prescripziuns per metter en circulaziun per l’emprima giada lain e products da lain sco er materias primas e products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3 (art. 35*e* e 35*f* al. 1 e 2 lit. a);
-- s.[^60-12] violescha prescripziuns davart la concepziun da products e d’emballadis cun schanegiar las resursas (art. 35*i* al. 1);
-- t.[^60-13] metta en circulaziun combustibels u carburants che n’adempleschan betg las pretensiuns ecologicas tenor l’artitgel 35*d* alinea 1 u 4, ubain fa indicaziuns faussas u incumplettas en chaussa;
-- u.[^60-14] cuntrafa al scumond tenor l’artitgel 35*d* alinea 2.
+- q.[^60-12] violescha prescripziuns davart ils ruments (art. 30*a* lit. b);
+- r.[^60-13] violescha prescripziuns per metter en circulaziun per l’emprima giada lain e products da lain sco er materias primas e products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3 (art. 35*e* e 35*f* al. 1 e 2 lit. a);
+- s.[^60-14] violescha prescripziuns davart la concepziun da products e d’emballadis cun schanegiar las resursas (art. 35*i* al. 1);
+- t.[^60-15] metta en circulaziun combustibels u carburants che n’adempleschan betg las pretensiuns ecologicas tenor l’artitgel 35*d* alinea 1 u 4, ubain fa indicaziuns faussas u incumplettas en chaussa;
+- u.[^60-16] cuntrafa al scumond tenor l’artitgel 35*d* alinea 2.
 
-<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar da fin a 180 taxas per di.[^60-15]
+<sup>1bis</sup>
 
-<sup>3</sup> Las cuntravenziuns tenor l’alinea 1 literas t ed u vegnan persequitadas e giuditgadas dal UDSC.[^60-16]
+En cas da circumstanzas engrevgiantas è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar. Circumstanzas engrevgiantas èn avant maun, sche la cuntravenziun:
 
-[^60-1]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+- a. periclitescha gravantamain l’uman u l’ambient;
+- b. vegn commessa da professiun; u
+- c. vegn commessa dal delinquent sco commember d’ina banda, ch’è s’unida per exequir cuntinuadamain cuntravenziuns cunter questa lescha.[^60-17]
+
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, vegn el chastià cun in chasti pecuniar da fin a 180 taxas per di.[^60-18]
+
+<sup>3</sup> Las cuntravenziuns tenor l’alinea 1 literas t ed u vegnan persequitadas e giuditgadas dal UDSC.[^60-19]
+
+[^60-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-2]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-4]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-5]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-6]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-7]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-8]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-9]: Abolì tras la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, cun effect dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-10]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-11]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^60-12]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-13]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-14]: Integrà tras la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-15]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-16]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-9]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-10]: Abolì tras la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, cun effect dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-11]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-12]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-13]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-14]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-16]: Integrà tras la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-17]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-18]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-19]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -2028,27 +2112,28 @@ Cun ina multa da fin 20 000 francs vegn chastià, tgi che fa intenziunadamain il
 - e. applitgescha substanzas, a las qualas n’èn agiuntadas naginas infurmaziuns u instrucziuns, da maniera ch’ellas, lur derivats u lur ruments pon periclitar l’ambient u indirectamain l’uman (art. 28);
 - f. arda illegalmain ruments ordaifer stabiliments (art. 30*c* al. 2);
 - g. depositescha ruments ordaifer deponias permessas (art. 30*e* al. 1);
-- h. violescha obligaziuns d’annunzia en connex cun ruments (art. 30*f* al. 4, 30*g* al. 2, 32*b* al. 2 e 3);
-- i.[^61-2] violescha prescripziuns davart ruments (art. 30*a* lit. a e c, 30*b*, 30*c* al. 3, 30*d*, 30*h* al. 1, 31*b* al. 3, 32*a*<sup>bis</sup>, 32*b* al. 4 e 32*e* al. 1–4);
-- j.[^61-3] violescha prescripziuns davart il construir cun schanegiar las resursas (art. 35*j* al. 1);
+- h.[^61-2] violescha obligaziuns d’annunzia en connex cun ruments (art. 32*b* al. 2 e 3);
+- i.[^61-3] violescha prescripziuns davart ruments (art. 30*a* lit. a e c, 30*b*, 30*c* al. 3, 30*d*, 30*h* al. 1, 31*b* al. 3, 32*a*<sup>bis</sup>, 32*b* al. 4 e 32*e* al. 1–2<sup>bis</sup>);
+- j.[^61-4] violescha prescripziuns davart il construir cun schanegiar las resursas (art. 35*j* al. 1);
 - k. violescha prescripziuns davart il traffic cun auters ruments (art. 30*g* al. 1);
 - l. na garantescha betg la cuvrida dals custs per la terminaziun, per il manaschi posteriur e per la sanaziun d’ina deponia (art. 32*b* al. 1);
 - m. violescha prescripziuns davart grevezzas fisicalas e davart l’utilisaziun dal terren (art. 33 al. 2 e 34 al. 1 e 2) sco er davart mesiras per reducir la contaminaziun u la grevezza dal terren (art. 34 al. 3);
-- m<sup>bis</sup>.[^61-4] violescha prescripziuns davart la repersequitabladad da lain e da products da lain sco er da materias primas e da products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3, per ils quals è vegnida introducida in’obligaziun da documentaziun (art. 35*g* al. 1);
-- n. violescha prescripziuns davart il metter en circulaziun stabiliments[^61-5] producids en seria (art. 40);
+- m<sup>bis</sup>.[^61-5] violescha prescripziuns davart la repersequitabladad da lain e da products da lain sco er da materias primas e da products ch’il Cussegl federal ha designà tenor l’artitgel 35*e* alinea 3, per ils quals è vegnida introducida in’obligaziun da documentaziun (art. 35*g* al. 1);
+- n. violescha prescripziuns davart il metter en circulaziun stabiliments[^61-6] producids en seria (art. 40);
 - o. refusa da dar a l’autoritad cumpetenta las infurmaziuns dumandadas u fa indicaziuns faussas (art. 46);
-- p.[^61-6] violescha prescripziuns davart la cuvrida da la responsabladad (art. 59*b*).
+- p.[^61-7] violescha prescripziuns davart la cuvrida da la responsabladad (art. 59*b*).
 
 <sup>2</sup> Il delinquent vegn chastià cun ina multa, sch’el agescha per negligientscha.
 
 <sup>3</sup> L’emprova e la cumplicitad èn chastiablas.
 
 [^61-1]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-3]: Integrà tras la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-4]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^61-5]: Pli baud: examinaziuns dals tips e designaziuns.
-[^61-6]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-3]: Versiun tenor la cifra III da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-4]: Integrà tras la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-5]: Integrà tras la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-6]: Pli baud: examinaziuns dals tips e designaziuns.
+[^61-7]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
@@ -2064,7 +2149,7 @@ Cun ina multa da fin 20 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>5</sup> L’autoritad da persecuziun e da giudicament è il UDSC.
 
-[^61a-1]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376), [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61a-1]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 61b
 
@@ -2087,7 +2172,7 @@ Cun ina multa da fin 30 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>4</sup> L’autoritad da persecuziun e da giudicament è il UDSC.
 
-[^61b-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61b-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 15 da mars 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 62
 
@@ -2099,6 +2184,28 @@ Cun ina multa da fin 30 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^62-2]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376), [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 62a
+
+**Agid uffizial**[^62a-1]
+
+<sup>1</sup>
+
+Las suandantas autoritads sustegnan ina l’autra e dattan ina a l’autra las infurmaziuns ch’ellas dovran per impedir e per persequitar cuntravenziuns sco er per exequir mesiras tenor la legislaziun davart l’ambient, la protecziun da la natira e da la patria, la protecziun da la cuntrada, la protecziun da las auas, la reducziun da las emissiuns da gas cun effect da serra, la conservaziun dal guaud, la chatscha, la pestga, la tecnica genetica u il traffic cun spezias d’animals e da plantas protegidas:
+
+- a. l’uffizi federal;
+- b. il UDSC;
+- c. l’Uffizi federal da segirezza alimentara e fatgs veterinars;
+- d. l’Uffizi federal da polizia;
+- e. la Procura publica federala;
+- f. las autoritads penalas ed administrativas chantunalas;
+- g. ulteriuras autoritads penalas u administrativas federalas designadas dal Cussegl federal, sche quai è necessari per ademplir incumbensas ed obligaziuns tenor questa legislaziun.
+
+<sup>2</sup> Las infurmaziuns transmessas pon cuntegnair er datas persunalas spezialmain sensiblas davart persecuziuns u sancziuns administrativas e penalas, sche quai è necessari per l’adempliment da las incumbensas ed obligaziuns legalas da las autoritads respectivas.
+
+<sup>3</sup> Disposiziuns pli severas da la Confederaziun e dals chantuns restan resalvadas.
+
+[^62a-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ## 6. titel Disposiziuns finalas
 
@@ -2130,11 +2237,11 @@ Sche prescripziuns davart l’ambient ch’èn vegnidas decretadas sin basa d’
 
 #### Art. 65a
 
-**Disposiziun transitorica da la midada dals 26 da settember 2014**[^65a-1]
+**Disposiziun transitorica da la midada dals 27 da settember 2024**[^65a-1]
 
-Dumondas d’indemnisar ils custs da mesiras tenor l’artitgel 32*e* alinea 4 litera b cifra 2 vegnan giuditgadas – en divergenza da l’artitgel 36 da la Lescha da subvenziuns dals 5 d’october 1990[^65a-2] – tenor il dretg che vala il mument da l’inoltraziun da las dumondas, sch’igl è vegnì cumenzà cun las mesiras avant l’entrada en vigur da la midada dals 26 da settember 2014. Las dumondas ston vegnir inoltradas fin il pli tard 2 onns suenter l’entrada en vigur da questa midada.
+Dumondas d’indemnisar ils custs da mesiras tenor l’artitgel 32*e*<sup>bis</sup> alineas 3, 4 litera a, 5 e 12 vegnan giuditgadas – en divergenza da l’artitgel 36 da la Lescha da subvenziuns dals 5 d’october 1990[^65a-2] – tenor il dretg che vala il mument da l’inoltraziun da las dumondas, sche las mesiras èn vegnidas cumenzadas u èn gia terminadas avant l’entrada en vigur da la midada dals 27 da settember 2024. Las dumondas ston vegnir inoltradas a l’uffizi federal il pli tard 2 onns suenter l’entrada en vigur da questa midada.
 
-[^65a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. d’avr. 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66

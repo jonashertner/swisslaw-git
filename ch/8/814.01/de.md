@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzges
 short: USG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: de
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250101-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/de"
 
 (Umweltschutzgesetz, USG)
 
-vom 7. Oktober 1983 (Stand am 1. Januar 2025)
+vom 7. Oktober 1983 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -955,7 +955,19 @@ Entfernt der Inhaber eines Grundstücks Material aus einem belasteten Standort, 
 
 **Pflicht zur Sanierung**
 
-<sup>1</sup> Die Kantone sorgen dafür, dass Deponien und andere durch Abfälle belastete Standorte (belastete Standorte) saniert werden, wenn sie zu schädlichen oder lästigen Einwirkungen führen oder die konkrete Gefahr besteht, dass solche Einwirkungen entstehen. Der Bundesrat kann über die Sanierungsbedürftigkeit sowie über die Ziele und die Dringlichkeit von Sanierungen Vorschriften erlassen.
+<sup>1</sup>
+
+Die Kantone sorgen dafür, dass folgende Standorte saniert werden, wenn sie zu schädlichen oder lästigen Einwirkungen führen oder die konkrete Gefahr besteht, dass solche Einwirkungen entstehen:
+
+- a. Deponien und andere durch Abfälle belastete Standorte (belastete Standorte);
+- b. öffentliche Kinderspielplätze und öffentliche Grünflächen, deren Böden mit umweltgefährdenden Stoffen belastet sind und auf denen regelmässig Kleinkinder spielen.[^32c-1]
+
+<sup>1bis</sup>
+
+Die Kantone können die Sanierung von privaten Kinderspielplätzen und privaten Hausgärten mit finanziellen Leistungen unterstützen, wenn:
+
+- a. die Böden dieser Standorte mit umweltgefährdenden Stoffen belastet sind und regelmässig Kleinkinder auf diesen spielen; und
+- b. diese Standorte zu schädlichen oder lästigen Einwirkungen führen oder die konkrete Gefahr besteht, dass solche Einwirkungen entstehen.[^32c-2]
 
 <sup>2</sup> Die Kantone erstellen einen öffentlich zugänglichen Kataster der belasteten Standorte.
 
@@ -966,6 +978,12 @@ Sie können die Untersuchung, Überwachung und Sanierung belasteter Standorte se
 - a. dies zur Abwehr einer unmittelbar drohenden Einwirkung notwendig ist;
 - b. der Pflichtige nicht in der Lage ist, für die Durchführung der Massnahmen zu sorgen; oder
 - c. der Pflichtige trotz Mahnung und Fristansetzung untätig bleibt.
+
+<sup>4</sup> Der Bundesrat kann für Standorte gemäss Absatz 1 Vorschriften über die Sanierungsbedürftigkeit sowie über die Ziele und die Dringlichkeit von Sanierungen erlassen.[^32c-3]
+
+[^32c-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 32d
 
@@ -1034,64 +1052,117 @@ Der Bundesrat legt die Abgabesätze fest und berücksichtigt dabei insbesondere 
 
 <sup>2bis</sup> Er kann den Abgabesatz nach Absatz 2 an den Landesindex der Konsumentenpreise anpassen.[^32e-3]
 
-<sup>3</sup>
-
-Der Bund verwendet den Ertrag aus den Abgaben ausschliesslich für die Abgeltung der Kosten von folgenden Massnahmen:
-
-- a. Erstellung der Kataster belasteter Standorte, wenn deren Inhabern bis am 1. November 2007 die Gelegenheit gegeben wurde, zur Aufnahme in den Kataster Stellung zu nehmen;
-- b.
-
-  Untersuchung, Überwachung und Sanierung von belasteten Standorten, auf die seit dem 1. Februar 2001 keine Abfälle mehr gelangt sind, wenn:[^32e-4]
-
-  - 1\. der Verursacher nicht ermittelt werden kann oder zahlungsunfähig ist, oder
-  - 2\. auf den Standort zu einem wesentlichen Teil Siedlungsabfälle abgelagert worden sind;
-
-- c.[^32e-5]
-
-  Untersuchung, Überwachung und Sanierung von belasteten Standorten bei Schiessanlagen, die nicht einem überwiegend gewerblichen Zweck dienen, wenn:
-
-  - 1\. auf Standorte in Grundwasserschutzzonen nach dem 31. Dezember 2012 keine Abfälle mehr gelangt sind,
-  - 2\.[^32e-6] auf die übrigen Standorte nach dem 31. Dezember 2020 keine Abfälle mehr oder nur die Abfälle von höchstens einem historischen Schiessen oder Feldschiessen pro Jahr, welches bereits vor dem 31. Dezember 2020 regelmässig am selben Standort durchgeführt wurde, gelangt sind;
-
-- c<sup>bis</sup>.[^32e-7] geeignete Schutzmassnahmen wie Kugelfänge bei historischen Schiessen und Feldschiessen, die höchstens ein Mal pro Jahr stattfinden und welche bereits vor dem 31. Dezember 2020 regelmässig am selben Standort durchgeführt wurden;
-- d. Untersuchung von Standorten, die sich als nicht belastet erweisen (Art. 32*d* Abs. 5).
-
-<sup>4</sup>
-
-Die Abgeltungen werden nur geleistet, wenn die getroffenen Massnahmen umweltverträglich und wirtschaftlich sind und dem Stand der Technik entsprechen. Sie werden den Kantonen nach Massgabe des Aufwandes ausbezahlt und betragen:
-
-- a. für Abgeltungen nach Absatz 3 Buchstabe a pauschal 500 Franken pro Standort;
-- b.[^32e-8]
-
-  für Abgeltungen nach Absatz 3 Buchstabe b:
-
-  - 1\. 40 Prozent der anrechenbaren Kosten, wenn auf den Standort seit dem 1. Februar 1996 keine Abfälle mehr gelangt sind,
-  - 2\. 30 Prozent der anrechenbaren Kosten, wenn auf den Standort auch nach dem 1. Februar 1996, längstens jedoch bis zum 31. Januar 2001, Abfälle gelangt sind;
-
-- c.[^32e-9]
-
-  für Abgeltungen nach Absatz 3 Buchstabe c:
-
-  - 1\. bei 300-m-Schiessanlagen pauschal 8000 Franken pro Scheibe,
-  - 2\. bei den übrigen Schiessanlagen 40 Prozent der anrechenbaren Kosten;
-
-- d.[^32e-10] für Abgeltungen nach Absatz 3 Buchstabe d 40 Prozent der anrechenbaren Kosten. [^32e-11]
-
-<sup>5</sup> Der Bundesrat erlässt Vorschriften über das Verfahren der Abgabenerhebung und der Abgeltungen sowie über die anrechenbaren Kosten.
-
-<sup>6</sup> Das kantonale Recht kann zur Finanzierung der Untersuchung, Überwachung und Sanierung von belasteten Standorten eigene Abgaben vorsehen.
+<sup>3–6</sup> …[^32e-4]
 
 [^32e-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
-[^32e-6]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-7]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. März 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-9]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-11]: Fassung gemäss Ziff. I des BG vom 20. März 2009 (Abgeltungsansprüche bei Sanierungen von Schiessanlagen), in Kraft seit 1. Okt. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-4]: Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>bis</sup>
+
+**Abgeltungen des Bundes**[^32ebis-1]
+
+<sup>1</sup> Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Untersuchung von Standorten, die sich als nicht belastet erweisen (Art. 32*d* Abs. 5), wenn die Untersuchungen bis zum 31. Dezember 2045 abgeschlossen sind.
+
+<sup>2</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Untersuchung von belasteten Standorten, auf die nach dem 31. Januar 2001 keine Abfälle mehr gelangt sind, wenn die Beurteilung des Überwachungs- und Sanierungsbedarfs bis zum 31. Dezember 2032 abgeschlossen ist und:
+
+- a. der Verursacher nicht ermittelt werden kann oder zahlungsunfähig ist; ausgenommen sind die Standorte nach den Absätzen 6–8; oder
+- b. auf dem Standort zu einem wesentlichen Teil Siedlungsabfälle abgelagert worden sind.
+
+<sup>3</sup> Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Untersuchung von belasteten Standorten, die durch eine Kehrichtverbrennungsanlage verunreinigt wurden und auf die nach dem 1. September 2007 keine Abfälle mehr gelangt sind, wenn die Beurteilung des Überwachungs- und Sanierungsbedarfs bis zum 31. Dezember 2032 abgeschlossen ist.
+
+<sup>4</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Überwachung und die Sanierung belasteter Standorte, auf die nach dem 31. Januar 2001 keine Abfälle mehr gelangt sind, wenn die Überwachungsmassnahmen und die baulichen Sanierungsmassnahmen bis zum 31. Dezember 2045 abgeschlossen sind und:
+
+- a. der Verursacher nicht ermittelt werden kann oder zahlungsunfähig ist; ausgenommen sind die Standorte nach den Absätzen 6 und 7; oder
+- b. auf dem Standort zu einem wesentlichen Teil Siedlungsabfälle abgelagert worden sind.
+
+<sup>5</sup> Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Überwachung und die Sanierung belasteter Standorte, die durch eine Kehrichtverbrennungsanlage verunreinigt wurden und auf die nach dem 1. September 2007 keine Abfälle mehr gelangt sind, wenn die Überwachungsmassnahmen und die baulichen Sanierungsmassnahmen bis zum 31. Dezember 2045 abgeschlossen sind.
+
+<sup>6</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Untersuchung, Überwachung und Sanierung folgender Standorte bei Schiessanlagen, die nicht einem überwiegend gewerblichen Zweck dienen und nicht von Absatz 7 erfasst werden, wenn die Massnahmen bis zum 31. Dezember 2045 abgeschlossen sind:
+
+- a. Standorte in Grundwasserschutzzonen, auf die nach dem 31. Dezember 2012 keine Abfälle mehr gelangt sind;
+- b. übrige Standorte, auf die nach dem 31. Dezember 2020 keine Abfälle mehr gelangt sind.
+
+<sup>7</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Standorte bei Schiessanlagen für historisches Schiessen und Feldschiessen für Abgeltungen an die Kosten von geeigneten Schutzmassnahmen wie Kugelfänge sowie an die Kosten für die Untersuchung, Überwachung und Sanierung, wenn:
+
+- a. die Massnahmen bis zum 31. Dezember 2045 abgeschlossen sind; und
+- b. nur die Abfälle von höchstens einem historischen Schiessen oder Feldschiessen pro Jahr, welches bereits vor dem 31. Dezember 2020 regelmässig am selben Standort durchgeführt wurde, gelangt sind.
+
+<sup>8</sup> Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten von bis zum 31. Dezember 2060 abgeschlossenen Untersuchungen und Sanierungen von öffentlichen Kinderspielplätzen und Grünflächen, die nach Artikel 32*c* Absatz 1 Buchstabe b saniert werden, sofern kein Anspruch auf Abgeltungen nach den Absätzen 1–7 besteht.
+
+<sup>9</sup> Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten von bis zum 31. Dezember 2060 abgeschlossenen Sanierungen von privaten Kinderspielplätzen und Hausgärten, die nach Artikel 32*c* Absatz 1<sup>bis</sup> saniert werden, sofern kein Anspruch auf Abgeltungen nach den Absätzen 1–7 besteht.
+
+<sup>10</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Untersuchung von belasteten Standorten, die durch Löschschäume verunreinigt wurden, die per- und polyfluorierte Alkylverbindungen (PFAS) enthalten und auf die zwei Jahre nach Inkrafttreten der Änderung vom 27. September 2024 keine PFAS-haltigen Schäume gelangt sind, wenn:
+
+- a. die Beurteilung des Überwachungs- und Sanierungsbedarfs bis zum 31. Dezember 2035 abgeschlossen ist; und
+- b. die Feuerwehren, welche die Verunreinigung verursacht haben, von öffentlichen Körperschaften getragen werden oder zur Unterstützung oder als Ersatz für solche Feuerwehren aufgeboten werden.
+
+<sup>11</sup>
+
+Der Bund verwendet den Ertrag aus den Abgaben nach Artikel 32*e* für Abgeltungen an die Kosten für die Überwachung und die Sanierung von belasteten Standorten, die durch Löschschäume verunreinigt wurden, die PFAS enthalten, und auf die zwei Jahre nach Inkrafttreten der Änderung vom 27. September 2024 keine PFAS-haltigen Schäume gelangt sind, wenn:
+
+- a. die Überwachungsmassnahmen und die baulichen Sanierungsmassnahmen bis zum 31. Dezember 2045 abgeschlossen sind; und
+- b. die Feuerwehren, welche die Verunreinigung verursacht haben, von öffentlichen Körperschaften getragen werden oder zur Unterstützung oder als Ersatz für solche Feuerwehren aufgeboten werden.
+
+<sup>12</sup>
+
+Der Bund leistet den zuständigen kantonalen Behörden für ihren Arbeitsaufwand aus dem Ertrag der Abgaben pauschale Abgeltungen für:
+
+- a. die Beurteilung des Überwachungs- und Sanierungsbedarfs für die untersuchungsbedürftigen belasteten Standorte nach den Absätzen 2 und 4, wenn die Beurteilung bis zum 31. Dezember 2032 abgeschlossen ist;
+- b. die Beurteilung der Sanierungsmassnahmen für die sanierungsbedürftigen Standorte nach den Absätzen 6 und 7, wenn die baulichen Sanierungsmassnahmen bis zum 31. Dezember 2045 abgeschlossen sind; und
+- c. die Beurteilung der Sanierungsmassnahmen für alle übrigen sanierungsbedürftigen Standorte mit Ausnahme derjenigen nach den Absätzen 8 und 9, wenn die baulichen Sanierungsmassnahmen bis zum 31. Dezember 2045 abgeschlossen sind.
+
+[^32ebis-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>ter</sup>
+
+**Höhe der Abgeltungen und Erhebung der Abgabe**[^32eter-1]
+
+<sup>1</sup>
+
+Die Abgeltungen nach Artikel 32*e*<sup>bis</sup> werden nur geleistet, wenn die getroffenen Massnahmen umweltverträglich und wirtschaftlich sind und dem Stand der Technik entsprechen. Sie werden den Kantonen nach Massgabe des Aufwandes ausbezahlt und betragen:
+
+- a. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 1: 40 Prozent der anrechenbaren Kosten;
+- b.
+
+  für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absätze 2 und 4 Buchstabe b:
+
+  - 1\. 40 Prozent der anrechenbaren Kosten bei Standorten, auf die nach dem 31. Januar 1996 keine Abfälle mehr gelangt sind,
+  - 2\. 30 Prozent der anrechenbaren Kosten bei Standorten, auf die nach dem 31. Januar 1996, längstens jedoch bis zum 31. Januar 2001, Abfälle gelangt sind;
+
+- c. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absätze 3 und 5: 40 Prozent der anrechenbaren Kosten;
+- d.
+
+  für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 4 Buchstabe a:
+
+  - 1\. 60 Prozent der anrechenbaren Kosten bei Standorten, auf die seit dem 31. Januar 1996 keine Abfälle mehr gelangt sind,
+  - 2\. 30 Prozent der anrechenbaren Kosten bei Standorten, auf die nach dem 31. Januar 1996, längstens jedoch bis zum 31. Januar 2001, Abfälle gelangt sind;
+
+- e. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absätze 6 und 7: 40 Prozent der anrechenbaren Kosten;
+- f. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 8: 60 Prozent der anrechenbaren Kosten;
+- g. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 9: 40 Prozent der anrechenbaren Kosten;
+- h. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 10: 40 Prozent der anrechenbaren Kosten;
+- i. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 11: 40 Prozent der anrechenbaren Kosten;
+- j. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 12 Buchstabe a: pauschal 3000 Franken pro Standort;
+- k. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 12 Buchstabe b: pauschal 5000 Franken pro Standort;
+- l. für Abgeltungen nach Artikel 32*e*<sup>bis</sup> Absatz 12 Buchstabe c: pauschal 10 000 Franken pro Standort.
+
+<sup>2</sup> Der Bundesrat erlässt Vorschriften über die Verfahren der Abgabenerhebung und der Abgeltungen sowie über die anrechenbaren Kosten.
+
+<sup>3</sup> Das kantonale Recht kann zur Finanzierung der Untersuchung, Überwachung und Sanierung von belasteten Standorten eigene Abgaben vorsehen.
+
+[^32eter-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 5. Kapitel: Belastungen des Bodens
 
@@ -1175,76 +1246,34 @@ Der Bundesrat legt den Abgabesatz im Hinblick auf die Luftreinhalteziele fest un
 
 #### Art. 35b
 
-**Schwefelgehalt von Heizöl «Extraleicht»**
+[^35b-1]
 
-<sup>1</sup> Wer Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse) einführt oder im Inland herstellt oder gewinnt, entrichtet dem Bund eine Lenkungsabgabe.[^35b-1]
-
-<sup>2</sup> Von der Abgabe befreit ist Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse), das durch- oder ausgeführt wird.
-
-<sup>3</sup> Der Abgabesatz beträgt höchstens 20 Franken je Tonne Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse) zuzüglich der Teuerung ab Inkrafttreten dieser Bestimmung.
-
-<sup>4</sup>
-
-Der Bundesrat legt den Abgabesatz im Hinblick auf die Luftreinhalteziele fest und berücksichtigt dabei insbesondere:
-
-- a. die Belastung der Umwelt mit Schwefeldioxid;
-- b. die Mehrkosten der Herstellung von Heizöl «Extraleicht» mit einem Schwefelgehalt von 0,1 Prozent;
-- c. die Bedürfnisse der Landesversorgung.
-
-<sup>5</sup> Der Ertrag der Abgabe wird einschliesslich Zinsen nach Abzug der Vollzugskosten gleichmässig an die Bevölkerung verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlichrechtliche Körperschaften oder Private mit der Verteilung beauftragen.
-
-[^35b-1]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35b-1]: Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35b<sup>bis</sup>
 
-**Schwefelgehalt von Benzin und Dieselöl**[^35bbis-1]
+[^35bbis-1]
 
-<sup>1</sup> Wer Benzin oder Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse) einführt, im Inland herstellt oder gewinnt, entrichtet dem Bund eine Lenkungsabgabe.
-
-<sup>2</sup> Von der Abgabe befreit sind Benzin und Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse), die durch- oder ausgeführt werden.
-
-<sup>3</sup> Der Abgabesatz beträgt höchstens 5 Rappen pro Liter zuzüglich der Teuerung ab Inkrafttreten dieser Bestimmung.
-
-<sup>4</sup> Der Bundesrat kann für Benzin und Dieselöl unterschiedliche Abgabesätze festlegen.
-
-<sup>5</sup>
-
-Er legt die Abgabesätze im Hinblick auf die Luftreinhalteziele fest und berücksichtigt dabei insbesondere:
-
-- a. die Belastung der Umwelt mit Luftverunreinigungen;
-- b. die Anforderungen des Klimaschutzes;
-- c. die Mehrkosten der Herstellung und der Verteilung von Benzin und Dieselöl mit einem Schwefelgehalt von 0,001 Prozent (% Masse);
-- d. die Bedürfnisse der Landesversorgung.
-
-<sup>6</sup> Der Ertrag der Abgabe wird einschliesslich Zinsen nach Abzug der Vollzugskosten gleichmässig an die Bevölkerung verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlichrechtliche Körperschaften oder Private mit der Verteilung beauftragen.
-
-[^35bbis-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35bbis-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)). Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35c
 
 **Abgabepflicht und Verfahren**
 
-<sup>1</sup>
-
-Abgabepflichtig sind:
-
-- a. für Abgaben auf flüchtigen organischen Verbindungen: die bei der Einfuhr nach dem Zollgesetz vom 1. Oktober 1925[^35c-1] (ZG) Zahlungspflichtigen sowie die Hersteller und Erzeuger im Inland;
-- b.[^35c-2] für Abgaben auf Heizöl «Extraleicht» sowie auf Benzin und Dieselöl: die nach dem Mineralölsteuergesetz vom 21. Juni 1996[^35c-3] (MinöStG) Steuerpflichtigen.[^35c-4]
+<sup>1</sup> Abgabepflichtig sind für Abgaben auf flüchtigen organischen Verbindungen: die bei der Einfuhr nach dem Zollgesetz vom 18. März 2005[^35c-1] Zahlungspflichtigen sowie die Hersteller und Erzeuger im Inland.[^35c-2]
 
 <sup>2</sup> Kann erst nach der Abgabeerhebung nachgewiesen werden, dass die Voraussetzungen für eine Abgabebefreiung gegeben sind, so werden die Abgaben zurückerstattet. Der Bundesrat kann die Anforderungen an den Nachweis festlegen und die Rückerstattung ausschliessen, wenn sie einen unverhältnismässigen Aufwand erfordern würde.
 
-<sup>3</sup> Der Bundesrat regelt das Verfahren für die Erhebung und Rückerstattung der Abgaben auf flüchtigen organischen Verbindungen. Ist die Ein- oder Ausfuhr betroffen, so gelten die entsprechenden Verfahrensbestimmungen der Zollgesetzgebung.[^35c-5]
+<sup>3</sup> Der Bundesrat regelt das Verfahren für die Erhebung und Rückerstattung der Abgaben auf flüchtigen organischen Verbindungen. Ist die Ein- oder Ausfuhr betroffen, so gelten die entsprechenden Verfahrensbestimmungen der Zollgesetzgebung.[^35c-3]
 
-<sup>3bis</sup> Ist die Ein- oder Ausfuhr, die Herstellung oder die Gewinnung im Inland von Heizöl «Extraleicht», Benzin oder Dieselöl betroffen, so gelten für die Erhebung und Rückerstattung die entsprechenden Verfahrensbestimmungen des MinöStG.[^35c-6]
+<sup>3bis</sup> …[^35c-4]
 
 <sup>4</sup> Wer Stoffe oder Organismen, die der Abgabe unterworfen sind, im Inland herstellt oder erzeugt, muss diese deklarieren.
 
-[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: Art. 70 des Zollgesetzes vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^35c-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^35c-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^35c-4]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
-[^35c-5]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
-[^35c-6]: Eingefügt durch Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^35c-3]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35c-4]: Eingefügt durch Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 7. Kapitel: Reduktion der durch Rohstoffe und Produkte verursachten Umweltbelastung
 
@@ -1597,13 +1626,16 @@ Der Bundesrat kann für die Durchführung von innovativen Pilotprojekten Bestimm
 
 <sup>1</sup> Der Bund kann die Aus- und Weiterbildung von Fachpersonen fördern, die Tätigkeiten im Zusammenhang mit dem Umweltschutz ausüben.[^49-1]
 
-<sup>2</sup> Er kann Forschungsarbeiten und Technologiefolgen-Abschätzungen in Auftrag geben oder unterstützen.[^49-2]
+<sup>1bis</sup> Er kann zur Sicherstellung eines qualitativ hochstehenden Kursangebots Beiträge an private Organisationen gewähren, die Aus- und Weiterbildungskurse zum Umgang mit Pflanzenschutzmitteln anbieten, die Stoffe nach Artikel 29 enthalten. Die Beiträge richten sich nach dem Interesse des Bundes an der Aufgabenerfüllung sowie den Finanzierungsmöglichkeiten der begünstigten Organisation und betragen höchstens 50 Prozent der anrechenbaren Kurskosten. Die Finanzhilfen können gestützt auf geschätzte Kosten einer effizient erbrachten Leistung auch pauschal ausbezahlt werden.[^49-2]
 
-<sup>3</sup> Er kann die Entwicklung, Zertifizierung und Verifizierung sowie die Markteinführung von Anlagen und Verfahren fördern, mit denen die Umweltbelastung im öffentlichen Interesse vermindert werden kann. Die Finanzhilfen dürfen in der Regel 50 Prozent der Kosten nicht überschreiten. Sie müssen bei einer kommerziellen Verwertung der Entwicklungsergebnisse nach Massgabe der erzielten Erträge zurückerstattet werden. Der Bundesrat beurteilt alle fünf Jahre generell die Wirkung der Förderung und erstattet den eidgenössischen Räten über die Ergebnisse Bericht.[^49-3]
+<sup>2</sup> Er kann Forschungsarbeiten und Technologiefolgen-Abschätzungen in Auftrag geben oder unterstützen.[^49-3]
+
+<sup>3</sup> Er kann die Entwicklung, Zertifizierung und Verifizierung sowie die Markteinführung von Anlagen und Verfahren fördern, mit denen die Umweltbelastung im öffentlichen Interesse vermindert werden kann. Die Finanzhilfen dürfen in der Regel 50 Prozent der Kosten nicht überschreiten. Sie müssen bei einer kommerziellen Verwertung der Entwicklungsergebnisse nach Massgabe der erzielten Erträge zurückerstattet werden. Der Bundesrat beurteilt alle fünf Jahre generell die Wirkung der Förderung und erstattet den eidgenössischen Räten über die Ergebnisse Bericht.[^49-4]
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^49-2]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^49-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^49-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^49-3]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^49-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 49a
 
@@ -1661,19 +1693,38 @@ Der Bund kann Beiträge gewähren:
 - c. zur Finanzierung von Sekretariaten internationaler Umweltabkommen, die ihren ständigen Sitz in der Schweiz haben;
 - d. an Fonds zur Unterstützung von Entwicklungs- und Transitionsländern bei der Umsetzung von internationalen Umweltabkommen.
 
-<sup>2</sup> Beiträge nach Absatz 1 Buchstabe d werden als Rahmenkredite für jeweils mehrere Jahre bewilligt.
+<sup>2</sup> Beiträge nach Absatz 1 Buchstabe d werden als Verpflichtungskredite für jeweils mehrere Jahre bewilligt.[^53-2]
 
 <sup>3</sup> Der Bundesrat wacht über die wirksame Verwendung der nach diesem Gesetz bewilligten Mittel und erstattet der Bundesversammlung darüber Bericht.
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597), 4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### 3. Kapitel: Verfahren
 
-### 1. Abschnitt: Rechtspflege
+### 1. Abschnitt: Elektronische Kommunikation in Verwaltungsverfahren
 
 [^tit3-chap3-sec1-1]
 
-[^tit3-chap3-sec1-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 53a
+
+<sup>1</sup>
+
+Der Bundesrat kann vorsehen, dass Parteien den Austausch von Dokumenten mit der Vollzugsbehörde des Bundes elektronisch abwickeln müssen, wenn sie regelmässig:
+
+- a. Begehren in Verfahren nach diesem Gesetz stellen; oder
+- b. gestützt auf Vorschriften über den Schutz der Umwelt eine Meldepflicht zu erfüllen haben.
+
+<sup>2</sup> Er kann für die elektronische Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere Bestätigung der Angaben durch die Partei anerkennen.
+
+### 1*a*. Abschnitt: Rechtspflege
+
+[^tit3-chap3-sec1a-1][^tit3-chap3-sec1a-2]
+
+[^tit3-chap3-sec1a-1]: Ursprünglich: 1. Abschn.
+[^tit3-chap3-sec1a-2]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
@@ -1830,13 +1881,36 @@ Die Gemeinden sind berechtigt, gegen Verfügungen der kantonalen und der Bundesb
 [^58-3]: Fassung gemäss Anhang Ziff. 17 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-#### Art. 59
+#### Art. 58a
 
-**Kosten von Sicherungs- und Behebungsmassnahmen**[^59-1]
+**Kosten von Sicherungs- und Behebungsmassnahmen**[^58a-1]
 
 Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar drohenden Einwirkung sowie zu deren Feststellung und Behebung treffen, werden dem Verursacher überbunden.
 
-[^59-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^58a-1]: Ursprünglich: Art. 59. Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+
+### 5. Abschnitt: Informations- und Dokumentationssysteme
+
+[^tit3-chap3-sec5-1]
+
+[^tit3-chap3-sec5-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 59
+
+<sup>1</sup> Das Bundesamt kann Informations- und Dokumentationssysteme für die elektronische Durchführung von Verfahren nach diesem Gesetz betreiben.
+
+<sup>2</sup> Bei der elektronischen Durchführung von Verfahren müssen die Authentizität und Integrität der übermittelten Daten sichergestellt sein.
+
+<sup>3</sup>
+
+Das Bundesamt kann folgenden Stellen und Personen Zugang zu den Informations- und Dokumentationssystemen gewähren:
+
+- a. dem Bundesamt für Zoll und Grenzsicherheit (BAZG);
+- b. den für den Vollzug zuständigen kantonalen Stellen;
+- c. den bewilligungs- oder meldepflichtigen Personen;
+- d. den vom Bundesrat bezeichneten weiteren Stellen und Personen, soweit dies für die Erfüllung von Aufgaben und Pflichten nach diesem Gesetz erforderlich ist.
+
+<sup>4</sup> Die in Absatz 3 genannten Stellen und Personen können aus den Informations- und Dokumentationssystemen Personendaten abrufen und diese bearbeiten, soweit dies für die Erfüllung ihrer Aufgaben und Pflichten nach diesem Gesetz erforderlich ist. Das Abrufen und die Bearbeitung von besonders schützenswerten Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen sind den Stellen und Personen gemäss Absatz 3 Buchstaben a, b und d vorbehalten.
 
 ## 4. Titel: Haftpflicht
 
@@ -1962,54 +2036,65 @@ Das Rückgriffsrecht verjährt nach Artikel 59*c*. Die dreijährige Frist beginn
 
 #### Art. 60
 
-**Vergehen**
+**Verbrechen und Vergehen[^60-1]**
 
 <sup>1</sup>
 
-Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^60-1]
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^60-2]
 
 - a. die zur Verhinderung von Katastrophen verfügten Sicherheitsmassnahmen unterlässt oder das Verbot bestimmter Produktionsverfahren oder Lagerhaltungen missachtet (Art. 10);
 - b. Stoffe, von denen er weiss oder wissen muss, dass bestimmte Verwendungen die Umwelt oder mittelbar den Menschen gefährden können, für diese Verwendungen in Verkehr bringt (Art. 26);
 - c. Stoffe in Verkehr bringt, ohne den Abnehmer über die umweltbezogenen Eigenschaften zu informieren (Art. 27 Abs. 1 Bst. a) oder über den vorschriftsgemässen Umgang anzuweisen (Art. 27 Abs. 1 Bst. b);
 - d. mit Stoffen entgegen den Anweisungen so umgeht, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen gefährden können (Art. 28);
-- e.[^60-2] Vorschriften über Stoffe oder Organismen verletzt (Art. 29, 29*b* Abs. 2, 29*f*, 30*a* Bst. b und 34 Abs. 1);
-- f.[^60-3] mit Organismen so umgeht, dass die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden;
-- g.[^60-4] beim Umgang mit pathogenen Organismen nicht alle notwendigen Einschliessungsmassnahmen trifft (Art. 29*b* Abs. 1);
-- h.[^60-5] pathogene Organismen ohne Bewilligung im Versuch freisetzt oder für Verwendungen in der Umwelt in Verkehr bringt (Art. 29*c* Abs. 1 und 29*d* Abs. 3 und 4);
-- i.[^60-6] Organismen, von denen er weiss oder wissen muss, dass bei bestimmten Verwendungen die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden, in Verkehr bringt (Art. 29*d* Abs. 1);
-- j.[^60-7] Organismen in Verkehr bringt, ohne den Abnehmer entsprechend zu informieren und anzuweisen (Art. 29*e* Abs. 1);
-- k.[^60-8] mit Organismen entgegen den Anweisungen umgeht (Art. 29*e* Abs. 2);
-- l.[^60-9] …
+- e.[^60-3] Vorschriften über Stoffe oder Organismen verletzt (Art. 29, 29*b* Abs. 2, 29*f*, 30*a* Bst. b und 34 Abs. 1);
+- f.[^60-4] mit Organismen so umgeht, dass die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden;
+- g.[^60-5] beim Umgang mit pathogenen Organismen nicht alle notwendigen Einschliessungsmassnahmen trifft (Art. 29*b* Abs. 1);
+- h.[^60-6] pathogene Organismen ohne Bewilligung im Versuch freisetzt oder für Verwendungen in der Umwelt in Verkehr bringt (Art. 29*c* Abs. 1 und 29*d* Abs. 3 und 4);
+- i.[^60-7] Organismen, von denen er weiss oder wissen muss, dass bei bestimmten Verwendungen die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden, in Verkehr bringt (Art. 29*d* Abs. 1);
+- j.[^60-8] Organismen in Verkehr bringt, ohne den Abnehmer entsprechend zu informieren und anzuweisen (Art. 29*e* Abs. 1);
+- k.[^60-9] mit Organismen entgegen den Anweisungen umgeht (Art. 29*e* Abs. 2);
+- l.[^60-10] …
 - m. eine Deponie ohne Bewilligung errichtet oder betreibt (Art. 30*e* Abs. 2);
 - n. Sonderabfälle für die Übergabe nicht kennzeichnet (Art. 30*f* Abs. 2 Bst. a) oder an eine Unternehmung übergibt, die keine Bewilligung besitzt (Art. 30*f* Abs. 2 Bst. b);
-- o. Sonderabfälle ohne Bewilligung entgegennimmt, einführt oder ausführt (Art. 30*f* Abs. 2 Bst. c und d);
+- o.[^60-11] Sonderabfälle ohne Bewilligung entgegennimmt oder die Ein- oder Ausfuhr ohne Bewilligung veranlasst (Art. 30*f* Abs. 2 Bst. c und d);
 - p. Vorschriften über den Verkehr mit Sonderabfällen verletzt (Art. 30*f* Abs. 1);
-- q.[^60-10] Vorschriften über Abfälle (Art. 30*a* Bst. b) verletzt;
-- r.[^60-11] Vorschriften über das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden, verletzt (Art. 35*e* und 35*f* Abs. 1 und 2 Bst. a);
-- s.[^60-12] Vorschriften über die ressourcenschonende Gestaltung von Produkten und Verpackungen verletzt (Art. 35*i* Abs. 1);
-- t.[^60-13] erneuerbare Brenn- oder Treibstoffe in Verkehr bringt, die die ökologischen Anforderungen nach Artikel 35*d* Absatz 1 oder 4 nicht erfüllen, oder falsche oder unvollständige Angaben dazu macht;
-- u.[^60-14] gegen das Verbot nach Artikel 35*d* Absatz 2 verstösst.
+- q.[^60-12] Vorschriften über Abfälle (Art. 30*a* Bst. b) verletzt;
+- r.[^60-13] Vorschriften über das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden, verletzt (Art. 35*e* und 35*f* Abs. 1 und 2 Bst. a);
+- s.[^60-14] Vorschriften über die ressourcenschonende Gestaltung von Produkten und Verpackungen verletzt (Art. 35*i* Abs. 1);
+- t.[^60-15] erneuerbare Brenn- oder Treibstoffe in Verkehr bringt, die die ökologischen Anforderungen nach Artikel 35*d* Absatz 1 oder 4 nicht erfüllen, oder falsche oder unvollständige Angaben dazu macht;
+- u.[^60-16] gegen das Verbot nach Artikel 35*d* Absatz 2 verstösst.
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^60-15]
+<sup>1bis</sup>
 
-<sup>3</sup> Das BAZG verfolgt und beurteilt Vergehen nach Absatz 1 Buchstaben t und u.[^60-16]
+Bei erschwerenden Umständen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Erschwerende Umstände liegen vor, wenn:
 
-[^60-1]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-2]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+- a. die durch die Widerhandlung herbeigeführte Gefährdung von Mensch oder Umwelt schwerwiegend ist;
+- b. die Widerhandlung gewerbsmässig begangen wird; oder
+- c. die Widerhandlung vom Täter als Mitglied einer Bande begangen wird, die sich zur fortgesetzten Ausübung von Widerhandlungen gegen dieses Gesetz zusammengefunden hat.[^60-17]
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^60-18]
+
+<sup>3</sup> Das BAZG verfolgt und beurteilt Vergehen nach Absatz 1 Buchstaben t und u.[^60-19]
+
+[^60-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-2]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-3]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-4]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-5]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-6]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-7]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-8]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-9]: Aufgehoben durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-10]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-11]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^60-12]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-13]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-14]: Eingefügt durch Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-15]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-16]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-9]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-10]: Aufgehoben durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-11]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-12]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-13]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-14]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-16]: Eingefügt durch Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-17]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-18]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-19]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -2026,27 +2111,28 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 - e. mit Stoffen, denen keine Informationen oder Anweisungen beiliegen, so umgeht, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen gefährden können (Art. 28);
 - f. widerrechtlich Abfälle ausserhalb von Anlagen verbrennt (Art. 30*c* Abs. 2);
 - g. Abfälle ausserhalb von bewilligten Deponien ablagert (Art. 30*e* Abs. 1);
-- h. Meldepflichten im Zusammenhang mit Abfällen verletzt (Art. 30*f* Abs. 4, 30*g* Abs. 2, 32*b* Abs. 2 und 3);
-- i.[^61-2] Vorschriften über Abfälle verletzt (Art. 30*a* Bst. a und c, 30*b*, 30*c* Abs. 3, 30*d*, 30*h* Abs. 1, 31*b* Abs. 3, 32*a*<sup>bis</sup>, 32*b* Abs. 4 und 32*e* Abs. 1–4);
-- j.[^61-3] Vorschriften über das ressourcenschonende Bauen verletzt (Art. 35*j* Abs. 1);
+- h.[^61-2] Meldepflichten im Zusammenhang mit Abfällen verletzt (Art. 32*b* Abs. 2 und 3);
+- i.[^61-3] Vorschriften über Abfälle verletzt (Art. 30*a* Bst. a und c, 30*b*, 30*c* Abs. 3, 30*d*, 30*h* Abs. 1, 31*b* Abs. 3, 32*a*<sup>bis</sup>, 32*b* Abs. 4 und 32*e* Abs. 1–2<sup>bis</sup>);
+- j.[^61-4] Vorschriften über das ressourcenschonende Bauen verletzt (Art. 35*j* Abs. 1);
 - k. Vorschriften über den Verkehr mit anderen Abfällen verletzt (Art. 30*g* Abs. 1);
 - l. die Kosten für den Abschluss, die Nachsorge und die Sanierung einer Deponie nicht sicherstellt (Art. 32*b* Abs. 1);
 - m. Vorschriften über physikalische Belastungen und die Nutzung des Bodens (Art. 33 Abs. 2 und 34 Abs. 1 und 2) sowie über Massnahmen zur Verminderung der Bodenbelastung (Art. 34 Abs. 3) verletzt;
-- m<sup>bis</sup>. [^61-4] Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35*g* Abs. 1);
-- n. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen[^61-5] verletzt (Art. 40);
+- m<sup>bis</sup>. [^61-5] Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35*g* Abs. 1);
+- n. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen[^61-6] verletzt (Art. 40);
 - o. von der zuständigen Behörde verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 46);
-- p.[^61-6] Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59*b*).
+- p.[^61-7] Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59*b*).
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
 [^61-1]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-4]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^61-5]: Früher: Typenprüfungen und Kennzeichnungen
-[^61-6]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-3]: Fassung gemäss Ziff. III des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-5]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-6]: Früher: Typenprüfungen und Kennzeichnungen
+[^61-7]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
@@ -2062,7 +2148,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 
 <sup>5</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
-[^61a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 61b
 
@@ -2072,7 +2158,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 
 Mit Busse bis zu 30 000 Franken wird bestraft, wer vorsätzlich:
 
-- a. für die Abgabeerhebung nach Artikel 35*a* Absatz 1 massgebende Daten und Gegenstände nicht oder unrichtig deklariert;
+- a. für die Abgabeerhebung nach Artikel 35*a* Absatz 1 massgebenden Daten und Gegenstände nicht oder unrichtig deklariert;
 - b. in einem Antrag auf Abgaberückerstattung nach Artikel 35*c* Absatz 3 erhebliche Tatsachen verschweigt oder über solche Tatsachen unwahre Belege vorlegt;
 - c. als auskunftspflichtige Person unwahre Angaben macht (Art. 46);
 - d. Geschäftsbücher, Belege, Geschäftspapiere und sonstige Aufzeichnungen nicht ordnungsgemäss führt, ausfertigt, aufbewahrt oder vorlegt oder seiner Auskunftspflicht nicht nachkommt (Art. 46);
@@ -2085,7 +2171,7 @@ Mit Busse bis zu 30 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>4</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
-[^61b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 62
 
@@ -2097,6 +2183,28 @@ Mit Busse bis zu 30 000 Franken wird bestraft, wer vorsätzlich:
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^62-2]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 62a
+
+**Amtshilfe**[^62a-1]
+
+<sup>1</sup>
+
+Folgende Behörden unterstützen sich gegenseitig und geben einander die Informationen bekannt, die sie zur Verhinderung und Verfolgung von Widerhandlungen und zum Vollzug von Massnahmen nach der Gesetzgebung über die Umwelt, den Natur- und Heimatschutz, den Landschaftsschutz, den Gewässerschutz, die Verminderung von Treibhausgasemissionen, die Walderhaltung, die Jagd, die Fischerei, die Gentechnik oder den Verkehr mit Tieren und Pflanzen geschützter Arten benötigen:
+
+- a. das Bundesamt;
+- b. das BAZG;
+- c. das Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
+- d. das Bundesamt für Polizei;
+- e. die Bundesanwaltschaft;
+- f. die kantonalen Straf- und Verwaltungsbehörden;
+- g. weitere vom Bundesrat bezeichnete Straf- oder Verwaltungsbehörden des Bundes, soweit dies für die Erfüllung von Aufgaben und Pflichten nach dieser Gesetzgebung erforderlich ist.
+
+<sup>2</sup> Die weitergegebenen Informationen können auch besonders schützenswerte Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen umfassen, soweit dies zur Erfüllung der gesetzlichen Aufgaben und Pflichten der betreffenden Behörden notwendig ist.
+
+<sup>3</sup> Weitergehende Bestimmungen des Bundes und der Kantone bleiben vorbehalten.
+
+[^62a-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ## 6. Titel: Schlussbestimmungen
 
@@ -2128,11 +2236,11 @@ Wenn aufgrund anderer Bundesgesetze erlassene Umweltvorschriften diesem Gesetz w
 
 #### Art. 65a
 
-**Übergangbestimmung zur Änderung vom 26. September 2014**[^65a-1]
+**Übergangsbestimmung zur Änderung vom 27. September 2024**[^65a-1]
 
-Gesuche um Abgeltungen an die Kosten von Massnahmen nach Artikel 32*e* Absatz 4 Buchstabe b Ziffer 2 werden in Abweichung von Artikel 36 des Subventionsgesetzes vom 5. Oktober 1990[^65a-2] nach dem im Zeitpunkt der Gesuchseinreichung geltenden Recht beurteilt, wenn mit den Massnahmen vor Inkrafttreten der Änderung vom 26. September 2014 begonnen wurde. Die Gesuche sind spätestens bis zwei Jahre nach Inkrafttreten dieser Änderung einzureichen.
+Gesuche um Abgeltungen an die Kosten von Massnahmen nach Artikel 32*e*<sup>bis</sup> Absätze 3, 4 Buchstabe a, 5 und 12 werden in Abweichung von Artikel 36 des Subventionsgesetzes vom 5. Oktober 1990[^65a-2] nach dem im Zeitpunkt der Gesuchseinreichung geltenden Recht beurteilt, wenn mit den Massnahmen vor Inkrafttreten der Änderung vom 27. September 2024 begonnen wurde oder diese bereits abgeschlossen sind. Sie sind spätestens bis zwei Jahre nach Inkrafttreten dieser Änderung beim Bundesamt einzureichen.
 
-[^65a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66

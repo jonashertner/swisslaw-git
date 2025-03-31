@@ -4,11 +4,11 @@ title: "Legge federale del 7 ottobre 1983 sulla protezione dell'ambiente (Legge 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: it
-version: 2025-01-01
+version: 2025-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250101-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/it"
 
 (Legge sulla protezione dell’ambiente, LPAmb[^t-1])
 
-del 7 ottobre 1983 (Stato 1° gennaio 2025)
+del 7 ottobre 1983 (Stato 1° aprile 2025)
 
 [^t-1]: Nuova abbreviazione giusta l’art. 1 lett. e dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -720,7 +720,7 @@ Esso prescrive in particolare che i rifiuti speciali:
 
 <sup>3</sup> Dette autorizzazioni sono accordate se è garantito uno smaltimento dei rifiuti conforme alle esigenze ecologiche.
 
-<sup>4</sup> ...[^30f-1]
+<sup>4</sup> …[^30f-1]
 
 [^30f-1]: Abrogato dalla cifra I n. 2 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, con effetto dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -730,7 +730,7 @@ Esso prescrive in particolare che i rifiuti speciali:
 
 <sup>1</sup> Il Consiglio federale può emanare prescrizioni sul traffico di altri rifiuti secondo l’articolo 30*f* capoversi 1 e 2 se non è garantito uno smaltimento conforme alle esigenze ecologiche.
 
-<sup>2</sup> ...[^30g-1]
+<sup>2</sup> …[^30g-1]
 
 [^30g-1]: Abrogato dalla cifra I n. 2 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, con effetto dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -816,9 +816,9 @@ I Cantoni provvedono affinché i costi di smaltimento dei rifiuti urbani, per qu
 
 <sup>3</sup> I detentori degli impianti per i rifiuti devono costituire le necessarie riserve finanziarie.
 
-[^32a-1]: Introdotto dalla cifra II della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+<sup>4</sup> Le basi per il calcolo delle tasse sono a disposizione del pubblico.
 
-### <sup>4</sup> Le basi per il calcolo delle tasse sono a disposizione del pubblico.
+[^32a-1]: Introdotto dalla cifra II della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 
 #### Art. 32a<sup>bis</sup>
 
@@ -840,7 +840,7 @@ I Cantoni provvedono affinché i costi di smaltimento dei rifiuti urbani, per qu
 [^32abis-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^32abis-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^32abis-4]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^32abis-5]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-5]: Introdotto la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^32abis-6]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 32b
@@ -957,23 +957,42 @@ Qualora rimuova da un sito inquinato materiale che non dev’essere smaltito in 
 
 **Obbligo di risanamento**
 
-<sup>1</sup> I Cantoni provvedono affinché le discariche e gli altri siti inquinati da rifiuti (siti inquinati) vengano risanati se sono all’origine di effetti nocivi o molesti oppure se esiste il pericolo concreto che tali effetti si producano. Il Consiglio federale può emanare prescrizioni sulla necessità del risanamento, come pure sugli obiettivi e l’urgenza dello stesso.
+<sup>1</sup>
+
+I Cantoni provvedono affinché i siti seguenti vengano risanati se sono all’origine di effetti nocivi o molesti oppure se vi è il pericolo concreto che tali effetti si producano:
+
+- a. discariche e altri siti inquinati da rifiuti (siti inquinati);
+- b. parchi giochi e aree verdi pubblici il cui suolo è inquinato da sostanze pericolose per l’ambiente e nei quali giocano abitualmente bambini in tenera età.[^32c-1]
+
+<sup>1bis</sup>
+
+I Cantoni possono accordare prestazioni finanziarie per il risanamento di parchi giochi e giardini privati se:
+
+- a. il suolo di questi siti è inquinato da sostanze pericolose per l’ambiente e vi giocano abitualmente bambini in tenera età; e
+- b. questi siti sono all’origine di effetti nocivi o molesti oppure vi è il pericolo concreto che tali effetti si producano.[^32c-2]
 
 <sup>2</sup> I Cantoni allestiscono un catasto dei siti inquinati accessibile al pubblico.
 
 <sup>3</sup>
 
-Essi possono eseguire direttamente l’esame, la sorveglianza e il risanamento dei siti inquinati o affidarne l’incarico a terzi se:
+Essi possono eseguire direttamente l’indagine, la sorveglianza e il risanamento dei siti inquinati o affidarne l’incarico a terzi se:[^32c-3]
 
 - a. è necessario per prevenire un effetto nocivo imminente;
 - b. il responsabile non è in grado di provvedere all’esecuzione dei provvedimenti; o
 - c. il responsabile, diffidato, non agisce entro il termine impartito.
 
+<sup>4</sup> Il Consiglio federale può emanare prescrizioni sulla necessità di risanamento dei siti di cui al capoverso 1 come pure sugli obiettivi e l’urgenza dei risanamenti.[^32c-4]
+
+[^32c-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-2]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-3]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32c-4]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
 #### Art. 32d
 
 **Assunzione delle spese**
 
-<sup>1</sup> Chi ha causato provvedimenti necessari per esaminare, sorvegliare e risanare siti inquinati ne assume le spese.
+<sup>1</sup> Chi ha reso necessari provvedimenti di indagine, sorveglianza e risanamento di siti inquinati ne assume le spese.[^32d-1]
 
 <sup>2</sup> Se sono coinvolte più persone, queste assumono le spese proporzionalmente alla loro parte di responsabilità. In primo luogo le spese sono a carico di chi, con il suo comportamento, ha reso necessario il provvedimento. Chi è coinvolto soltanto quale detentore del sito non sopporta alcuna spesa se non poteva essere a conoscenza dell’inquinamento nemmeno applicando la diligenza necessaria.
 
@@ -981,13 +1000,16 @@ Essi possono eseguire direttamente l’esame, la sorveglianza e il risanamento d
 
 <sup>4</sup> L’autorità emana una decisione in merito alla ripartizione delle spese se uno dei responsabili lo richiede o se essa stessa esegue il provvedimento.
 
-<sup>5</sup> Se l’esame di un sito iscritto o suscettibile d’iscrizione nel catasto (art. 32*c* cpv. 2) rivela che il sito non è inquinato, l’ente pubblico competente assume le spese dei provvedimenti d’esame necessari.
+<sup>5</sup> Se l’indagine di un sito iscritto o suscettibile d’iscrizione nel catasto (art. 32*c* cpv. 2) rivela che il sito non è inquinato, l’ente pubblico competente assume le spese dei provvedimenti d’indagine necessari.[^32d-2]
+
+[^32d-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^32d-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 32d<sup>bis</sup>
 
 **Garanzia della copertura dei costi**[^32dbis-1]
 
-<sup>1</sup> L’autorità può esigere che il responsabile garantisca in forma adeguata la copertura della sua parte presumibile di costi per l’esame, la sorveglianza e il risanamento se da un sito inquinato sono prevedibili effetti dannosi o molesti.
+<sup>1</sup> L’autorità può esigere che il responsabile garantisca in forma adeguata la copertura della sua parte presumibile di costi per l’indagine, la sorveglianza e il risanamento se da un sito inquinato sono prevedibili effetti dannosi o molesti.[^32dbis-2]
 
 <sup>2</sup> L’ammontare della garanzia è fissato tenendo conto in particolare dell’estensione, del tipo e della gravità dell’inquinamento. Esso viene adeguato quando il miglioramento dello stato delle conoscenze lo giustifica.
 
@@ -1002,6 +1024,7 @@ L’alienazione o la divisione di un fondo sul quale si trova un sito iscritto n
 <sup>4</sup> L’autorità cantonale può far menzionare nel Registro fondiario che il sito in questione è iscritto nel catasto.
 
 [^32dbis-1]: Introdotto dalla cifra I della LF del 22 mar. 2013, in vigore dal 1° nov. 2013, i cpv. 3 e 4 entrano in vigore il 1° lug. 2014 ([RU 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [FF 2012 8255](https://fedlex.data.admin.ch/eli/fga/2012/1726)[8267](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
+[^32dbis-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 32e
 
@@ -1036,66 +1059,117 @@ Il Consiglio federale stabilisce le aliquote delle tasse tenendo conto in partic
 
 <sup>2bis</sup> Il Consiglio federale può adeguare l’aliquota delle tasse di cui al capoverso 2 all’indice nazionale dei prezzi al consumo.[^32e-3]
 
-<sup>3</sup>
-
-La Confederazione utilizza il ricavato delle tasse esclusivamente per indennizzare le spese risultanti dai seguenti provvedimenti:[^32e-4]
-
-- a. l’allestimento dei catasti dei siti inquinati, qualora ai loro detentori sia stata data occasione di pronunciarsi sull’iscrizione nel catasto entro il 1° novembre 2007;
-- b.
-
-  l’esame, la sorveglianza e il risanamento di siti inquinati nei quali non sono più stati depositati rifiuti dopo il 1° febbraio 2001, se:[^32e-5]
-
-  - 1\. il responsabile non è identificabile oppure è insolvente,
-  - 2\. il sito inquinato è stato adibito prevalentemente a deposito di rifiuti urbani;
-
-- c.[^32e-6]
-
-  l’esame, la sorveglianza e il risanamento di siti inquinati negli impianti di tiro che non perseguono essenzialmente fini commerciali, se:
-
-  - 1\. nel caso di siti ubicati nelle zone di protezione delle acque sotterranee, non sono più stati depositati rifiuti dopo il 31 dicembre 2012,
-  - 2\.[^32e-7] nel caso di altri siti, dopo il 31 dicembre 2020 non sono più stati depositati rifiuti o soltanto quelli di una manifestazione di tiro storico o di tiro in campagna che si svolge al massimo una volta all’anno e che si tiene regolarmente nello stesso sito da prima del 31 dicembre 2020;
-
-- c<sup>bis</sup>.[^32e-8] provvedimenti di protezione adeguati come l’installazione di parapalle in occasione di manifestazioni di tiro storico e di tiro in campagna che si svolgono al massimo una volta all’anno e che si tengono regolarmente nello stesso sito da prima del 31 dicembre 2020;
-- d. l’esame di siti che risultano non inquinati (art. 32*d* cpv. 5).
-
-<sup>4</sup>
-
-Le indennità sono versate soltanto se i provvedimenti adottati sono conformi alle esigenze ecologiche e corrispondono a criteri di economicità e allo stato della tecnica. Esse sono corrisposte ai Cantoni in funzione della spesa e ammontano:
-
-- a. forfetariamente a 500 franchi per sito per le indennità di cui al capoverso 3 lettera a;
-- b.[^32e-9]
-
-  per le indennità di cui al capoverso 3 lettera b:
-
-  - 1\. al 40 per cento dei costi computabili se nel sito non sono più stati depositati rifiuti dopo il 1° febbraio 1996,
-  - 2\.[^32e-10] al 30 per cento dei costi computabili se nel sito sono stati depositati rifiuti anche dopo il 1° febbraio 1996, ma non oltre il 31 gennaio 2001;
-
-- c.[^32e-11]
-
-  per le indennità di cui al capoverso 3 lettera c:
-
-  - 1\. forfettariamente a 8000 franchi per bersaglio nel caso di impianti di tiro a 300 m,
-  - 2\. al 40 per cento dei costi computabili nel caso degli altri impianti di tiro;
-
-- d.[^32e-12] per le indennità di cui al capoverso 3 lettera d, al 40 per cento dei costi computabili.[^32e-13]
-
-<sup>5</sup> Il Consiglio federale emana prescrizioni sulla procedura di prelievo della tassa, sulle indennità nonché sui costi computabili.
-
-<sup>6</sup> Il diritto cantonale può prevedere tasse cantonali per finanziare l’esame, la sorveglianza e il risanamento dei siti inquinati.
+<sup>3 a <sup>6</sup></sup> …[^32e-4]
 
 [^32e-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^32e-3]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-6]: Nuovo testo giusta la cifra I della LF del 20 mar. 2009 (Indennità per il risanamento di impianti di tiro), in vigore dal 1° ott. 2009 ([RU 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 7931](https://fedlex.data.admin.ch/eli/fga/2008/1719)[7941](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
-[^32e-7]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore dal 1° mar. 2020 ([RU 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96), [FF 2019 2739](https://fedlex.data.admin.ch/eli/fga/2019/1105)[2751](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore dal 1° mar. 2020 ([RU 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [FF 2019 2739](https://fedlex.data.admin.ch/eli/fga/2019/1105)[2751](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-9]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Vedi anche l’art. 65*a*.
-[^32e-11]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-12]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-13]: Nuovo testo giusta la cifra I della LF del 20 mar. 2009 (Indennità per il risanamento di impianti di tiro), in vigore dal 1° ott. 2009 ([RU 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [FF 2008 7931](https://fedlex.data.admin.ch/eli/fga/2008/1719)[7941](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-4]: Abrogati dalla cifra I della LF del 27 set. 2024, con effetto dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>bis</sup>
+
+**Indennità della Confederazione**[^32ebis-1]
+
+<sup>1</sup> La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine di siti che risultano non essere inquinati (art. 32*d* cpv. 5), se l’indagine si è conclusa entro il 31 dicembre 2045.
+
+<sup>2</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine di siti inquinati nei quali non sono più stati depositati rifiuti dopo il 31 gennaio 2001, se la valutazione della necessità di sorveglianza e risanamento si è conclusa entro il 31 dicembre 2032 e:
+
+- a. il responsabile non è identificabile oppure è insolvente; fanno eccezione i siti di cui ai capoversi 6–8; o
+- b. il sito inquinato è stato adibito prevalentemente a deposito di rifiuti urbani.
+
+<sup>3</sup> La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine di siti inquinati da un impianto di incenerimento dei rifiuti nei quali non sono più stati depositati rifiuti dopo il 1° settembre 2007, se la valutazione della necessità di sorveglianza e risanamento si è conclusa entro il 31 dicembre 2032.
+
+<sup>4</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per la sorveglianza e il risanamento di siti inquinati nei quali non sono più stati depositati rifiuti dopo il 31 gennaio 2001, se i provvedimenti di sorveglianza e le misure edili di risanamento si sono conclusi entro il 31 dicembre 2045 e:
+
+- a. il responsabile non è identificabile oppure è insolvente; fanno eccezione i siti di cui ai capoversi 6 e 7; o
+- b. il sito inquinato è stato adibito prevalentemente a deposito di rifiuti urbani.
+
+<sup>5</sup> La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per la sorveglianza e il risanamento di siti inquinati da un impianto di incenerimento dei rifiuti nei quali non sono più stati depositati rifiuti dopo il 1° settembre 2007, se i provvedimenti di sorveglianza e le misure edili di risanamento si sono conclusi entro il 31 dicembre 2045.
+
+<sup>6</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine, la sorveglianza e il risanamento dei siti seguenti degli impianti di tiro che non perseguono essenzialmente fini commerciali e a cui non è applicabile il capoverso 7, se i provvedimenti si sono conclusi entro il 31 dicembre 2045:
+
+- a. i siti ubicati nelle zone di protezione delle acque sotterranee nei quali non sono più stati depositati rifiuti dopo il 31 dicembre 2012;
+- b. altri siti nei quali non sono più stati depositati rifiuti dopo il 31 dicembre 2020.
+
+<sup>7</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine, la sorveglianza e il risanamento di siti degli impianti di tiro storico e di tiro in campagna e le spese per provvedimenti di protezione adeguati come l’installazione di parapalle se:
+
+- a. i provvedimenti si sono conclusi entro il 31 dicembre 2045; e
+- b. sono stati depositati soltanto i rifiuti di una manifestazione di tiro storico o di tiro in campagna che si svolge al massimo una volta all’anno e che si tiene regolarmente nello stesso sito da prima del 31 dicembre 2020.
+
+<sup>8</sup> La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per le indagini e i risanamenti conclusi entro il 31 dicembre 2060 di parchi giochi e aree verdi pubblici risanati secondo l’articolo 32*c* capoverso 1 lettera b, sempreché il diritto alle indennità non sussista secondo i capoversi 1–7.
+
+<sup>9</sup> La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per i risanamenti conclusi entro il 31 dicembre 2060 di parchi giochi e giardini privati risanati secondo l’articolo 32*c* capoverso 1<sup>bis</sup>, sempreché il diritto alle indennità non sussista secondo i capoversi 1–7.
+
+<sup>10</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per l’indagine di siti inquinati da schiume antincendio contenenti sostanze per- e polifluoroalchiliche (PFAS) nei quali tali schiume non sono più state utilizzate due anni dopo l’entrata in vigore della modifica del 27 settembre 2024 se:
+
+- a. la valutazione della necessità di sorveglianza e di risanamento si è conclusa entro il 31 dicembre 2035; e
+- b. i corpi di pompieri che hanno provocato l’inquinamento dipendono da enti pubblici o sono chiamati a intervenire in appoggio o in vece dei corpi di pompieri pubblici.
+
+<sup>11</sup>
+
+La Confederazione utilizza il ricavato delle tasse di cui all’articolo 32*e* per indennizzare le spese per la sorveglianza e il risanamento di siti inquinati da schiume antincendio contenenti PFAS nei quali tali schiume non sono più state utilizzate due anni dopo l’entrata in vigore della modifica del 27 settembre 2024 se:
+
+- a. i provvedimenti di sorveglianza e le misure edili di risanamento si sono conclusi entro il 31 dicembre 2045; e
+- b. i corpi di pompieri che hanno provocato l’inquinamento dipendono da enti pubblici o sono chiamati a intervenire in appoggio o in vece dei corpi di pompieri pubblici.
+
+<sup>12</sup>
+
+La Confederazione utilizza il ricavato delle tasse per versare alle autorità cantonali competenti indennità forfettarie per l’onere lavorativo derivante da:
+
+- a. la valutazione della necessità di sorveglianza e di risanamento dei siti inquinati per i quali è necessaria un’indagine secondo i capoversi 2 e 4, se la valutazione si è conclusa entro il 31 dicembre 2032;
+- b. la valutazione dei provvedimenti di risanamento dei siti inquinati per i quali è necessario un risanamento secondo i capoversi 6 e 7, se le misure edili di risanamento si sono concluse entro il 31 dicembre 2045; e
+- c. la valutazione dei provvedimenti di risanamento per tutti gli altri siti inquinati per i quali è necessario un risanamento, ad eccezione di quelli di cui ai capoversi 8 e 9, se le misure edili di risanamento si sono concluse entro il 31 dicembre 2045.
+
+[^32ebis-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 32e<sup>ter</sup>
+
+**Ammontare delle indennità e riscossione della tassa**[^32eter-1]
+
+<sup>1</sup>
+
+Le indennità di cui all’articolo 32*e*<sup>bis</sup> sono versate soltanto se i provvedimenti adottati sono conformi alle esigenze ecologiche e corrispondono a criteri di economicità e allo stato della tecnica. Sono corrisposte ai Cantoni in funzione della spesa e ammontano:
+
+- a. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 1, al 40 per cento dei costi computabili;
+- b.
+
+  per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoversi 2 e 4 lettera b:
+
+  - 1\. al 40 per cento dei costi computabili, per i siti nei quali non sono più stati depositati rifiuti dopo il 31 gennaio 1996,
+  - 2\. al 30 per cento dei costi computabili, per i siti nei quali sono stati depositati rifiuti anche dopo il 31 gennaio 1996, ma non oltre il 31 gennaio 2001;
+
+- c. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoversi 3 e 5, al 40 per cento dei costi computabili;
+- d.
+
+  per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 4 lettera a:
+
+  - 1\. al 60 per cento dei costi computabili, per i siti nei quali non sono più stati depositati rifiuti dopo il 31 gennaio 1996,
+  - 2\. al 30 per cento dei costi computabili, per i siti nei quali sono stati depositati rifiuti anche dopo il 31 gennaio 1996, ma non oltre il 31 gennaio 2001;
+
+- e. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoversi 6 e 7, al 40 per cento dei costi computabili;
+- f. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 8, al 60 per cento dei costi computabili;
+- g. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 9, al 40 per cento dei costi computabili;
+- h. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 10, al 40 per cento dei costi computabili;
+- i. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 11, al 40 per cento dei costi computabili;
+- j. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 12 lettera a, forfettariamente a 3000 franchi per sito;
+- k. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 12 lettera b, forfettariamente a 5000 franchi per sito;
+- l. per le indennità di cui all’articolo 32*e*<sup>bis</sup> capoverso 12 lettera c, forfettariamente a 10 000 franchi per sito.
+
+<sup>2</sup> Il Consiglio federale emana prescrizioni sulla procedura di riscossione della tassa, sulle indennità nonché sui costi computabili.
+
+<sup>3</sup> Il diritto cantonale può prevedere tasse cantonali per finanziare l’indagine, la sorveglianza e il risanamento dei siti inquinati.
+
+[^32eter-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### Capitolo 5: Deterioramento del suolo
 
@@ -1177,75 +1251,34 @@ Il Consiglio federale fissa l’importo della tassa in base agli obiettivi di pr
 
 #### Art. 35b
 
-**Tenore di zolfo nell’olio da riscaldamento «extra leggero»**
+[^35b-1]
 
-<sup>1</sup> Chi importa, fabbrica o estrae in territorio svizzero olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa), deve versare alla Confederazione una tassa d’incentivazione.[^35b-1]
-
-<sup>2</sup> È esente dalla tassa l’olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa) in transito o esportato.
-
-<sup>3</sup> L’importo della tassa è, al massimo, di venti franchi per tonnellata di olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa), più il rincaro a decorrere dall’entrata in vigore della presente disposizione.
-
-<sup>4</sup>
-
-Il Consiglio federale fissa l’importo della tassa in base agli obiettivi di protezione dell’aria; in particolare, tiene conto:
-
-- a. del carico che l’anidride solforosa costituisce per l’ambiente;
-- b. dei costi supplementari per la produzione di olio da riscaldamento «extra leggero» con un tenore di zolfo dello 0,1 per cento;
-- c. dei bisogni relativi all’approvvigionamento del Paese.
-
-<sup>5</sup> Il provento della tassa, compresi gli interessi e dopo deduzione delle spese d’esecuzione, viene ripartito equamente tra la popolazione. Il Consiglio federale disciplina le modalità della ripartizione. Può incaricare della ripartizione i Cantoni, enti di diritto pubblico o privati.
-
-[^35b-1]: Nuovo testo giusta l’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali, in vigore dal 1° gen. 1997 ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35b-1]: Abrogato dalla cifra I della LF del 27 set. 2024, con effetto dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35b<sup>bis</sup>
 
-**Tenore di zolfo nella benzina e nel gasolio**[^35bbis-1]
+[^35bbis-1]
 
-<sup>1</sup> Chi importa, fabbrica o estrae in territorio svizzero benzina o gasolio con un tenore di zolfo superiore allo 0,001 per cento (% massa) deve versare alla Confederazione una tassa d’incentivazione.
-
-<sup>2</sup> Sono esenti dalla tassa la benzina e il gasolio con un tenore di zolfo superiore allo 0,001 per cento (% massa) in transito o esportati.
-
-<sup>3</sup> L’importo della tassa è al massimo di 5 centesimi il litro, più il rincaro a decorrere dall’entrata in vigore della presente disposizione.
-
-<sup>4</sup> Il Consiglio federale può fissare un importo diverso per la benzina e per il gasolio.
-
-<sup>5</sup>
-
-Il Consiglio federale fissa altresì l’importo della tassa in base agli obiettivi di protezione dell’aria; in particolare tiene conto:
-
-- a. del carico che gli inquinamenti atmosferici costituiscono per l’ambiente;
-- b. delle esigenze di protezione del clima;
-- c. dei costi supplementari per la produzione o la distribuzione di benzina e di gasolio con un tenore di zolfo dello 0,001 per cento (% massa);
-- d. dei bisogni relativi all’approvvigionamento del Paese.
-
-<sup>6</sup> Il provento della tassa, compresi gli interessi e dopo deduzione delle spese d’esecuzione, viene ripartito equamente tra la popolazione. Il Consiglio federale disciplina le modalità della ripartizione. Può incaricare della ripartizione i Cantoni, enti di diritto pubblico o privati.
-
-[^35bbis-1]: Introdotto dalla cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35bbis-1]: Introdotto dalla cifra I della LF del 20 giu. 2003 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)). Abrogato dalla cifra I della LF del 27 set. 2024, con effetto dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 35c
 
 **Obbligo di pagare la tassa e procedura**
 
-<sup>1</sup>
-
-Sono soggetti alla tassa:
-
-- a. sui composti organici volatili, coloro che, al momento dell’importazione, sono tenuti a pagare il dazio in virtù della legge federale del 1° ottobre 1925[^35c-1] sulle dogane nonché i fabbricanti e i produttori in territorio svizzero;
-- b.[^35c-2] sull’olio da riscaldamento «extra leggero», sulla benzina e sul gasolio, coloro che, in virtù della legge federale del 21 giugno 1996[^35c-3] sull’imposizione degli oli minerali (LIOm), sono soggetti all’imposta.
+<sup>1</sup> Sono soggetti alla tassa sui composti organici volatili coloro che, al momento dell’importazione, sono tenuti a pagare il dazio in virtù della legge del 18 marzo 2005[^35c-1] sulle dogane nonché i fabbricanti e i produttori in territorio svizzero.[^35c-2]
 
 <sup>2</sup> Se il diritto all’esenzione dalla tassa può essere provato soltanto dopo la riscossione della medesima, la tassa viene rimborsata. Il Consiglio federale può definire le modalità relative a tale prova e negare il rimborso della tassa se quest’ultimo comporta un dispendio sproporzionato.
 
-<sup>3</sup> Il Consiglio federale definisce le procedure per la riscossione e il rimborso della tassa sui composti organici volatili. Se si tratta di importazione o di esportazione, valgono le relative disposizioni procedurali della legislazione doganale.[^35c-4]
+<sup>3</sup> Il Consiglio federale definisce le procedure per la riscossione e il rimborso della tassa sui composti organici volatili. Se si tratta di importazione o di esportazione, valgono le relative disposizioni procedurali della legislazione doganale.[^35c-3]
 
-<sup>3bis</sup> Per quanto riguarda l’importazione o l’esportazione, nonché la fabbricazione o l’estrazione in territorio svizzero di olio da riscaldamento «extra leggero», di benzina e di gasolio, valgono le procedure per la riscossione e il rimborso della tassa stabilite dalla LIOm.[^35c-5]
+<sup>3bis</sup> …[^35c-4]
 
 <sup>4</sup> Chi produce all’interno del Paese sostanze o organismi soggetti alla tassa deve dichiararli.
 
-[^35c-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I n. 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I n. 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI n. 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I n. 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. cifra II n. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora art. 70 della L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
-[^35c-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^35c-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^35c-4]: Nuovo testo giusta l’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali, in vigore dal 1° gen. 1997 ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
-[^35c-5]: Introdotto dall’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 5762](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
+[^35c-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^35c-3]: Nuovo testo giusta l’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali, in vigore dal 1° gen. 1997 ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
+[^35c-4]: Introdotto dall’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Abrogato dalla cifra I della LF del 27 set. 2024, con effetto dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### Capitolo 7: Riduzione del carico ambientale causato da materie prime e prodotti
 
@@ -1425,7 +1458,7 @@ Esso può stipulare accordi internazionali su:
 - d. la raccolta di dati e le indagini;
 - e. la ricerca e la formazione.
 
-<sup>3</sup> ...[^39-4]
+<sup>3</sup> …[^39-4]
 
 [^39-1]: Introdotto dall’all. cifra II n. 2 della L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° gen. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^39-2]: Introdotto dall’all. cifra II n. 2 della L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
@@ -1562,7 +1595,7 @@ Il Consiglio federale può prescrivere il controllo regolare di impianti come i 
 
 **Segreto d’ufficio[^47-1]**
 
-<sup>1 e <sup>2</sup></sup> ...[^47-2]
+<sup>1 e <sup>2</sup></sup> …[^47-2]
 
 <sup>3</sup> Tutte le persone incaricate dell’esecuzione della presente legge, gli esperti e i membri di commissioni e di comitati tecnici sono tenuti al segreto d’ufficio.
 
@@ -1597,13 +1630,16 @@ Il Consiglio federale può emanare disposizioni che derogano alla presente legge
 
 <sup>1</sup> La Confederazione può promuovere la formazione e la formazione continua degli specialisti che esercitano attività legate alla protezione dell’ambiente.[^49-1]
 
-<sup>2</sup> Essa può commissionare o sostenere lavori di ricerca e valutazioni dell’impatto tecnologico.[^49-2]
+<sup>1bis</sup> Per garantire un’offerta di corsi qualitativamente elevata, essa può accordare contributi a organizzazioni private che offrono corsi di formazione e formazione continua sull’utilizzo dei prodotti fitosanitari che rientrano nel novero delle sostanze di cui all’articolo 29. L’ammontare dei contributi è definito in funzione dell’interesse della Confederazione all’adempimento dei compiti nonché delle possibilità di finanziamento dell’organizzazione beneficiaria e ammonta al massimo al 50 per cento delle spese computabili. Gli aiuti finanziari possono essere versati forfettariamente, sulla base dei costi stimati di una prestazione fornita in modo efficiente.[^49-2]
 
-<sup>3</sup> Essa può promuovere lo sviluppo, la certificazione, la verifica e l’introduzione sul mercato di impianti e di procedimenti che permettono di ridurre, nell’interesse pubblico, il carico ambientale. Di regola gli aiuti finanziari non possono superare il 50 per cento dei costi. Devono essere rimborsati in funzione degli utili realizzati se i risultati dei lavori di sviluppo sono stati usati a fini commerciali. Il Consiglio federale valuta ogni cinque anni i risultati di tali misure promozionali e fa rapporto alle Camere.[^49-3]
+<sup>2</sup> Essa può commissionare o sostenere lavori di ricerca e valutazioni dell’impatto tecnologico.[^49-3]
+
+<sup>3</sup> Essa può promuovere lo sviluppo, la certificazione, la verifica e l’introduzione sul mercato di impianti e di procedimenti che permettono di ridurre, nell’interesse pubblico, il carico ambientale. Di regola gli aiuti finanziari non possono superare il 50 per cento dei costi. Devono essere rimborsati in funzione degli utili realizzati se i risultati dei lavori di sviluppo sono stati usati a fini commerciali. Il Consiglio federale valuta ogni cinque anni i risultati di tali misure promozionali e fa rapporto alle Camere.[^49-4]
 
 [^49-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^49-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^49-3]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^49-2]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^49-3]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^49-4]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 49a
 
@@ -1661,23 +1697,42 @@ La Confederazione può accordare contributi:
 - c. per finanziare i segretariati di accordi internazionali in materia ambientale la cui sede permanente è in Svizzera;
 - d. a Fondi per il sostegno di Paesi in sviluppo e in transizione nell’ambito dell’attuazione di accordi internazionali in materia ambientale.
 
-<sup>2</sup> I contributi di cui al capoverso 1 lettera d sono stanziati sotto forma di crediti quadro pluriennali.
+<sup>2</sup> I contributi di cui al capoverso 1 lettera d sono stanziati sotto forma di crediti d’impegno pluriennali.[^53-2]
 
 <sup>3</sup> Il Consiglio federale vigila sull’impiego efficace dei mezzi stanziati in virtù della presente legge e ne riferisce all’Assemblea federale.
 
 [^53-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597); [FF 2002 7042](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ### Capitolo 3: Procedura
 
-### Sezione 1: Rimedi giuridici
+### Sezione 1: Comunicazione elettronica nell’ambito di procedimenti amministrativi
 
 [^tit3-chap3-sec1-1]
 
-[^tit3-chap3-sec1-1]: Introdotta dalla cifra I della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1-1]: Introdotta dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 53a
+
+<sup>1</sup>
+
+Il Consiglio federale può prescrivere che le parti procedano per via elettronica allo scambio di documenti con l’autorità di esecuzione della Confederazione se periodicamente:
+
+- a. presentano istanze nell’ambito di un procedimento previsto dalla presente legge; o
+- b. effettuano notifiche conformemente a un obbligo previsto da disposizioni concernenti la protezione dell’ambiente.
+
+<sup>2</sup> In caso di trasmissione per via elettronica di atti che per legge devono essere muniti di firma, il Consiglio federale può accettare, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati ad opera della parte che li trasmette.
+
+### Sezione 1*a*: Rimedi giuridici
+
+[^tit3-chap3-sec1a-1][^tit3-chap3-sec1a-2]
+
+[^tit3-chap3-sec1a-1]: Originaria sez. 1.
+[^tit3-chap3-sec1a-2]: Introdotta dalla cifra I della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
-**...[^54-2]**[^54-1]
+**…[^54-2]**[^54-1]
 
 La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
@@ -1804,7 +1859,7 @@ Le organizzazioni di protezione dell’ambiente sono legittimate a ricorrere con
 
 <sup>2</sup> Lo stesso diritto spetta ai Cantoni per controversie riguardanti gli effetti provenienti da Cantoni vicini.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 [^56-1]: Nuovo testo giusta la cifra I n. 14 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^56-2]: Abrogato dall’all. n. 91 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1830,13 +1885,36 @@ I Comuni sono autorizzati ad avvalersi, contro le decisioni cantonali e federali
 [^58-3]: Nuovo testo giusta l’all. n. 17 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-#### Art. 59
+#### Art. 58a
 
-**Costi delle misure di sicurezza e di rimozione**[^59-1]
+**Costi delle misure di sicurezza e di rimozione**[^58a-1]
 
 I costi delle misure che le autorità prendono per la difesa da un effetto imminente, come pure per l’accertamento e l’eliminazione del medesimo, sono addossati a chi ne è la causa.
 
-[^59-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^58a-1]: Originario art. 59. Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+### Sezione 5: Sistemi d’informazione e di documentazione
+
+[^tit3-chap3-sec5-1]
+
+[^tit3-chap3-sec5-1]: Introdotta dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+
+#### Art. 59
+
+<sup>1</sup> L’Ufficio federale può gestire sistemi d’informazione e di documentazione per lo svolgimento elettronico delle procedure previste secondo la presente legge.
+
+<sup>2</sup> Nello svolgimento elettronico delle procedure sono garantite l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup>
+
+L’Ufficio federale può concedere l’accesso ai sistemi di informazione e di documentazione agli organi e alle persone seguenti:
+
+- a. Ufficio federale della dogana e della sicurezza dei confini (UDSC);
+- b. servizi cantonali competenti per l’esecuzione;
+- c. persone soggette all’obbligo di autorizzazione o di dichiarazione;
+- d. altri servizi e altre persone designati dal Consiglio federale, nella misura necessaria all’adempimento dei compiti e obblighi loro conferiti dalla presente legge.
+
+<sup>4</sup> Gli organi e le persone di cui al capoverso 3 possono consultare e trattare i dati personali contenuti nei sistemi d’informazione e di documentazione nella misura necessaria all’adempimento dei compiti e obblighi loro conferiti dalla presente legge. La consultazione e il trattamento di dati personali degni di particolare protezione relativi a procedimenti e sanzioni amministrativi o penali sono riservati agli organi e alle persone di cui al capoverso 3 lettere a, b e d.
 
 ## Titolo quarto: Responsabilità civile
 
@@ -1965,54 +2043,65 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 
 #### Art. 60
 
-**Delitti**
+**Crimini e delitti[^60-1]**
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:[^60-1]
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:[^60-2]
 
 - a. omette di prendere le misure di sicurezza ordinate per prevenire le catastrofi o si avvale di procedimenti di produzione o di sistemi di deposito vietati (art. 10);
 - b. mette in commercio sostanze per impieghi di cui sa o deve sapere che possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 26);
 - c. mette in commercio sostanze senza informare l’acquirente sulle proprietà che influiscono sull’ambiente (art. 27 cpv. 1 lett. a) o senza indicargli come utilizzare in modo corretto tali sostanze (art. 27 cpv. 1 lett. b);
 - d. utilizza sostanze contrariamente alle istruzioni in modo tale che esse, i loro derivati o i loro rifiuti possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 28);
-- e.[^60-2] viola le prescrizioni sulle sostanze o sugli organismi (art. 29, 29*b* cpv. 2, 29*f*, 30*a* lett. b e 34 cpv. 1);
-- f.[^60-3] utilizza organismi in modo tale che vengano violati i principi di cui all’articolo 2*9a* capoverso 1;
-- g.[^60-4] nell’utilizzare organismi patogeni non prende tutte le misure di confinamento necessarie (art. 29*b* cpv. 1);
-- h.[^60-5] senza autorizzazione, libera a titolo sperimentale organismi patogeni o li mette in commercio in vista di un impiego nell’ambiente (art. 29*c* cpv. 1 e 29*d* cpv. 3 e 4);
-- i.[^60-6] mette in commercio organismi dei quali sa o deve sapere che in determinati impieghi vengono violati i principi di cui all’articolo 29*a* capoverso 1 (art. 2*9d* cpv. 1);
-- j.[^60-7] mette in commercio organismi senza fornire all’acquirente le informazioni e le istruzioni necessarie (art. 2*9e* cpv. 1);
-- k.[^60-8] utilizza gli organismi senza attenersi alle istruzioni (art. 2*9e* cpv. 2);
-- l.[^60-9] ...
+- e.[^60-3] viola le prescrizioni sulle sostanze o sugli organismi (art. 29, 29*b* cpv. 2, 29*f*, 30*a* lett. b e 34 cpv. 1);
+- f.[^60-4] utilizza organismi in modo tale che vengano violati i principi di cui all’articolo 2*9a* capoverso 1;
+- g.[^60-5] nell’utilizzare organismi patogeni non prende tutte le misure di confinamento necessarie (art. 29*b* cpv. 1);
+- h.[^60-6] senza autorizzazione, libera a titolo sperimentale organismi patogeni o li mette in commercio in vista di un impiego nell’ambiente (art. 29*c* cpv. 1 e 29*d* cpv. 3 e 4);
+- i.[^60-7] mette in commercio organismi dei quali sa o deve sapere che in determinati impieghi vengono violati i principi di cui all’articolo 29*a* capoverso 1 (art. 2*9d* cpv. 1);
+- j.[^60-8] mette in commercio organismi senza fornire all’acquirente le informazioni e le istruzioni necessarie (art. 2*9e* cpv. 1);
+- k.[^60-9] utilizza gli organismi senza attenersi alle istruzioni (art. 2*9e* cpv. 2);
+- l.[^60-10] …
 - m. senza autorizzazione, sistema o gestisce una discarica (30*e* cpv. 2);
 - n. omette di contrassegnare come tali i rifiuti speciali in vista della consegna (art. 30*f* cpv. 2 lett. a) oppure li consegna ad un’impresa che non è in possesso della necessaria autorizzazione (art. 30*f* cpv. 2 lett. b);
-- o. ritira, importa o esporta, senza autorizzazione, rifiuti speciali (art. 30*f* cpv. 2 lett. c e d);
+- o.[^60-11] ritira rifiuti speciali senza autorizzazione o ne predispone l’importazione o l’esportazione senza autorizzazione (art. 30*f* cpv. 2 lett. c e d);
 - p. viola le prescrizioni sul traffico dei rifiuti speciali (art. 30*f* cpv. 1);
-- q.[^60-10] viola le prescrizioni sui rifiuti (art. 30*a* lett. b);
-- r.[^60-11] viola le prescrizioni sulla prima messa in commercio di legno e prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35*e* capoverso 3 (art. 35*e* e 35*f* cpv. 1 e 2 lett. a);
-- s.[^60-12] viola le prescrizioni sulla progettazione di prodotti e imballaggi a basso consumo di risorse (art. 35*i* cpv. 1);
-- t.[^60-13] mette in commercio carburanti o combustibili rinnovabili che non soddisfano le esigenze ecologiche di cui all’articolo 35*d* capoverso 1 o 4, o fornisce al riguardo informazioni errate o incomplete;
-- u.[^60-14] viola il divieto di cui all’articolo 35*d* capoverso 2.
+- q.[^60-12] viola le prescrizioni sui rifiuti (art. 30*a* lett. b);
+- r.[^60-13] viola le prescrizioni sulla prima messa in commercio di legno e prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35*e* capoverso 3 (art. 35*e* e 35*f* cpv. 1 e 2 lett. a);
+- s.[^60-14] viola le prescrizioni sulla progettazione di prodotti e imballaggi a basso consumo di risorse (art. 35*i* cpv. 1);
+- t.[^60-15] mette in commercio carburanti o combustibili rinnovabili che non soddisfano le esigenze ecologiche di cui all’articolo 35*d* capoverso 1 o 4, o fornisce al riguardo informazioni errate o incomplete;
+- u.[^60-16] viola il divieto di cui all’articolo 35*d* capoverso 2.
 
-<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.[^60-15]
+<sup>1bis</sup>
 
-<sup>3</sup> L’UDSC persegue e giudica i delitti di cui al capoverso 1 lettere t e u.[^60-16]
+In caso di circostanze aggravanti la pena è una pena detentiva sino a cinque anni o una pena pecuniaria. Vi sono circostanze aggravanti se l’infrazione:
 
-[^60-1]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+- a. mette gravemente in pericolo l’uomo o l’ambiente;
+- b. è commessa per mestiere; o
+- c. è commessa dall’autore come membro di una banda costituitasi per contravvenire sistematicamente alla presente legge.[^60-17]
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.[^60-18]
+
+<sup>3</sup> L’UDSC persegue e giudica i delitti di cui al capoverso 1 lettere t e u.[^60-19]
+
+[^60-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-2]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-3]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-4]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-5]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-6]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-7]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-8]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-9]: Abrogata dall’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, con effetto dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-10]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-11]: Introdotta dalla cifra I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^60-12]: Introdotta dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-13]: Introdotta dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-14]: Introdotta dalla cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^60-15]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^60-16]: Introdotto dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-9]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-10]: Abrogata dall’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, con effetto dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-11]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-12]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-13]: Introdotta dalla cifra I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-14]: Introdotta dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Introdotta dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-16]: Introdotta dalla cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-17]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-18]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-19]: Introdotto dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -2029,28 +2118,29 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 - e. utilizza sostanze, senza che siano accompagnate dalle necessarie informazioni o istruzioni, in modo tale che esse, i loro derivati o i loro rifiuti possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 28);
 - f. incenerisce abusivamente rifiuti fuori degli impianti (art. 30*c* cpv. 2);
 - g. deposita rifiuti fuori delle discariche autorizzate (art. 30*e* cpv. 1);
-- h. viola l’obbligo di notifica concernente i rifiuti (art. 30*f* cpv. 4, 30*g* cpv. 2, 32*b* cpv. 2 e 3);
-- i.[^61-2] viola le prescrizioni sui rifiuti (art. 30*a* lett. a e c, 30*b*, 30*c* cpv. 3, 30*d*, 30*h* cpv. 1, 31*b* cpv. 3, 32*a*<sup>bis</sup>, 32*b* cpv. 4 e 32*e* cpv. 1–4);
-- j.[^61-3] viola le prescrizioni sulle costruzioni a basso consumo di risorse (art. 35*j* cpv. 1);
+- h.[^61-2] viola l’obbligo di notifica concernente i rifiuti (art. 32*b* cpv. 2 e 3);
+- i.[^61-3] viola le prescrizioni sui rifiuti (art. 30*a* lett. a e c, 30*b*, 30*c* cpv. 3, 30*d*, 30*h*, cpv. 1, 31*b* cpv. 3, 32*a*<sup>bis</sup>, 32*b* cpv. 4 e 32*e* cpv. 1–2<sup>bis</sup>);
+- j.[^61-4] viola le prescrizioni sulle costruzioni a basso consumo di risorse (art. 35*j* cpv. 1);
 - k. viola le prescrizioni sul traffico di altri rifiuti (art. 30*g* cpv. 1);
 - l. non garantisce la copertura dei costi per la chiusura, gli interventi ulteriori e il risanamento della discarica (art. 32*b* cpv. 1);
 - m. viola le prescrizioni sul deterioramento fisico e l’utilizzazione del suolo (art. 33 cpv. 2 e 34 cpv. 1 e 2) nonché sui provvedimenti atti a ridurre il deterioramento del suolo (art. 34 cpv. 3);
-- m<sup>bis</sup>.[^61-4] viola le prescrizioni sulla tracciabilità del legno e dei prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35*e* capoverso 3 per i quali è stato introdotto un obbligo di documentazione (art. 35*g* cpv.1);
-- n. viola le prescrizioni sulla messa in commercio di impianti fabbricati in serie[^61-5] (art. 40);
-- o. rifiuta di dare informazioni o fornisce dati inesatti all’autorità competente (art. 46);[^61-6]
-- p. viola le prescrizioni sulla copertura della responsabilità civile (art. 59*b*).[^61-7]
+- m<sup>bis</sup>.[^61-5] viola le prescrizioni sulla tracciabilità del legno e dei prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35*e* capoverso 3 per i quali è stato introdotto un obbligo di documentazione (art. 35*g* cpv.1);
+- n. viola le prescrizioni sulla messa in commercio di impianti fabbricati in serie[^61-6] (art. 40);
+- o. rifiuta di dare informazioni o fornisce dati inesatti all’autorità competente (art. 46);[^61-7]
+- p. viola le prescrizioni sulla copertura della responsabilità civile (art. 59*b*).[^61-8]
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
 
 <sup>3</sup> Il tentativo e la complicità sono punibili.
 
 [^61-1]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-3]: Introdotta dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^61-4]: Introdotta dalla cifra I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^61-5]: In precedenza: omologazione e contrassegni.
-[^61-6]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61-7]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-3]: Nuovo testo giusta la cifra III della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-4]: Introdotta dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-5]: Introdotta dalla cifra I della LF del 27 set. 2019, in vigore dal 1° gen. 2022 ([RU 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1123](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-6]: In precedenza: omologazione e contrassegni.
+[^61-7]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^61-8]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
@@ -2066,7 +2156,7 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 
 <sup>5</sup> L’autorità incaricata di perseguire e giudicare le infrazioni è l’UDSC.
 
-[^61a-1]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta il n. 4 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61a-1]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 61b
 
@@ -2089,7 +2179,7 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 
 <sup>4</sup> L’autorità incaricata di perseguire e giudicare le infrazioni è l’UDSC.
 
-[^61b-1]: Introdotto dall’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^61b-1]: Introdotto dall’all. n. 4 della LF del 15 mar. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 62
 
@@ -2101,6 +2191,28 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 
 [^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^62-2]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta l’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 62a
+
+**Assistenza amministrativa**[^62a-1]
+
+<sup>1</sup>
+
+Le seguenti autorità si prestano assistenza e si scambiano le informazioni necessarie alla prevenzione e al perseguimento delle infrazioni e all’esecuzione delle misure previste dalla legislazione in materia di ambiente, protezione della natura e del paesaggio, protezione delle acque, riduzione delle emissioni di gas serra, conservazione delle foreste, caccia, pesca, ingegneria genetica o circolazione delle specie di fauna e di flora protette:
+
+- a. l’Ufficio federale;
+- b. l’UDSC;
+- c. l’Ufficio federale della sicurezza alimentare e di veterinaria;
+- d. l’Ufficio federale di polizia;
+- e. il Ministero pubblico della Confederazione;
+- f. le autorità penali e amministrative cantonali;
+- g. altre autorità penali o amministrative federali designate dal Consiglio federale, nella misura necessaria all’adempimento dei compiti e obblighi loro deferiti dalla presente legge.
+
+<sup>2</sup> Le informazioni trasmesse possono comprendere anche dati personali degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali, sempre che ciò sia necessario all’adempimento dei compiti e obblighi deferiti alle autorità interessate dalla presente legge.
+
+<sup>3</sup> Sono fatte salve disposizioni federali e cantonali più severe.
+
+[^62a-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ## Titolo sesto: Disposizioni finali
 
@@ -2132,18 +2244,18 @@ Le prescrizioni concernenti l’ambiente, emanate in virtù di altre leggi feder
 
 #### Art. 65a
 
-**Disposizione transitoria della modifica del 26 settembre 2014**[^65a-1]
+**Disposizione transitoria della modifica del 27 settembre 2024**[^65a-1]
 
-In deroga all’articolo 36 della legge del 5 ottobre 1990[^65a-2] sui sussidi, le domande di indennità per le spese risultanti dai provvedimenti secondo l’articolo 32*e* capoverso 4 lettera b numero 2 sono esaminate secondo il diritto vigente al momento della presentazione della domanda se i provvedimenti sono stati avviati prima dell’entrata in vigore della modifica del 26 settembre 2014. Le domande devono essere presentate al più tardi due anni dopo l’entrata in vigore della presente modifica.
+In deroga all’articolo 36 della legge del 5 ottobre 1990[^65a-2] sui sussidi, le domande di indennità per le spese risultanti dai provvedimenti secondo l’articolo 32*e*<sup>bis</sup> capoversi 3, 4 lettera a, 5 e 12 sono esaminate secondo il diritto vigente al momento della presentazione della domanda se i provvedimenti sono stati avviati o si sono già conclusi prima dell’entrata in vigore della presente modifica. Le domande devono essere presentate all’Ufficio federale al più tardi due anni dopo l’entrata in vigore della presente modifica.
 
-[^65a-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° apr. 2015 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Introdotto dalla cifra I della LF del 26 set. 2014 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)). Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
 **Modificazione di leggi federali**
 
-...[^66-1]
+…[^66-1]
 
 [^66-1]: Le mod. possono essere consultate alla [RU 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122).
 
