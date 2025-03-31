@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2024-06-01
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20250401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (État le 1<sup>er</sup> juin 2024)
+du 11 août 1999 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 119 de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 1
 
@@ -61,15 +61,15 @@ Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d�
 - l.[^1a-12] l’outil de gestion des délais (FM-Tool)*.*
 
 [^1a-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin; [RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
-[^1a-2]: LF du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile ([RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
+[^1a-2]: LF du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile ([RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)).
 [^1a-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^1a-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-6]: Abrogée par le ch. I de l’O du 22 mars 2017, avec effet au 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-7]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1a-8]: Abrogée par le ch. I de l’O du 18 sept. 2015, avec effet au 15 oct. 2015 ([RO 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
 [^1a-9]: Nouvelle expression selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
-[^1a-10]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1a-10]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^1a-11]: Introduite par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 13 juin 2012 ([RO 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
 [^1a-12]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
@@ -128,8 +128,8 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 <sup>5</sup> Toutes les personnes qui ont des droits d’écriture et de lecture dans FiSCo peuvent y saisir des remarques supplémentaires concernant le financement d’un cas individuel.[^1e-6]
 
 [^1e-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
-[^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 [^1e-4]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1e-5]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1e-6]: Introduit par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
@@ -280,7 +280,7 @@ S’il s’avère nécessaire de transmettre les empreintes digitales d’une pe
 Lorsqu’il y a de sérieuses raisons de soupçonner un crime aux termes de l’art. 1, par. F, let. a et c, de la Convention du 28 juillet 1951 relative au statut des réfugiés[^4-2], le SEM transmet aux autorités de poursuite pénale compétentes les informations et les moyens de preuve dont il dispose.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^4-2]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^4-2]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. 5
 
@@ -298,7 +298,7 @@ Afin d’établir l’identité de requérants d’asile et de personnes à prot
 <sup>2</sup> L’accès aux données énumérées à l’al. 1 est réglementé à l’annexe 1 de l’ordonnance du 12 avril 2006 sur le système d’information central sur la migration (ordonnance SYMIC)[^5-2]. Les données biométriques sont enregistrées dans le Système automatique d’identification des empreintes digitales (AFIS), lequel ne contient aucune donnée sur la personne.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^5-2]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^5-2]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 
 #### Art. 6
 
@@ -323,7 +323,7 @@ Afin d’établir l’identité de requérants d’asile et de personnes à prot
 <sup>7</sup> Lorsque les données biométriques relevées par des services de police étrangers (INTERPOL) concordent avec celles enregistrées par le SEM, ce dernier décide, en vertu de l’art. 97, al. 1, LAsi, s’il est licite de transmettre les résultats à des autorités étrangères.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^6-2]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^6-2]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 [^6-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> fév. 2014 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)).
 
 #### Art. 6a
@@ -335,7 +335,7 @@ Afin d’établir l’identité de requérants d’asile et de personnes à prot
 Il y a protection appropriée de la personne concernée au sens de l’art. 102*c*, al. 3, LAsi lorsque des garanties appropriées respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^6a-2].
 
 [^6a-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 6b
 
@@ -378,6 +378,154 @@ Dans le cadre de l’application des accords d’association à Dublin[^6b-2], a
 <sup>1</sup> Le SEM peut communiquer des listes comportant des données personnelles aux autorités de la Confédération, des cantons et des communes ainsi qu’à des organisations privées si elles en ont besoin pour l’accomplissement de leurs tâches légales et que le traitement auquel procède l’autorité requérante est compatible avec l’objectif défini en la matière par la loi.
 
 <sup>2</sup> La communication de listes comportant des données personnelles à des particuliers n’est pas autorisée.
+
+#### Art. 10a
+
+**Analyse de données personnelles issues de supports électroniques de données**[^10a-1]
+
+### (art. 8*a*, al. 1 et 10, et 47, al. 3, LAsi)
+
+<sup>1</sup>
+
+Les données personnelles suivantes issues de supports électroniques de données, y compris les données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^10a-2], peuvent être analysées:
+
+- a. indications sur l’identité et la nationalité de l’intéressé; en font notamment partie les adresses, les numéros de téléphone, les enregistrements sonores et visuels ainsi que les documents;
+- b. indications sur l’itinéraire de l’intéressé; en font notamment partie les données de navigation, les enregistrements sonores et visuels ainsi que les documents.
+
+<sup>2</sup> Les données personnelles protégées par un secret professionnel auquel l’intéressé est soumis en vertu de l’art. 321 du code pénal[^10a-3] ne peuvent pas être analysées.
+
+[^10a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10a-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 10b
+
+**Autorisation de traitement de données personnelles issues de supports électroniques de données**[^10b-1]
+
+### (art. 8*a*, al. 10, et 47, al. 2, LAsi)
+
+<sup>1</sup>
+
+Ne peuvent traiter des données personnelles issues de supports électroniques de données que les collaborateurs du SEM qui:
+
+- a. effectuent des tâches liées à l’établissement de l’identité et de la nationalité des requérants d’asile;
+- b. sont chargés de mener la procédure d’asile;
+- c. effectuent des tâches liées au soutien des cantons lors de l’exécution des renvois dans le domaine de l’asile.
+
+<sup>2</sup> Le SEM veille à ce que les collaborateurs visés à l’al. 1 reçoivent la formation nécessaire en matière de protection des données pour accomplir leur tâche.
+
+[^10b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10c
+
+**Examen de la proportionnalité**[^10c-1]
+
+### (art. 8, al. 1, let. g, et 8*a*, al. 4, LAsi)
+
+<sup>1</sup> Afin de garantir la proportionnalité, les informations et les déclarations fournies par l’intéressé ainsi que les documents officiels tels que les actes de naissance ou les permis de conduire qui permettent de tirer des conclusions pertinentes sur l’identité, la nationalité ou l’itinéraire emprunté doivent être pris en compte. Le SEM vérifie si d’autres mesures appropriées, en particulier celles prévues par l’art. 26, al. 2 et 3, LAsi, permettent d’obtenir les informations souhaitées.
+
+<sup>2</sup> Les mesures appropriées sont mises en œuvre si elles ne portent atteinte que dans une moindre mesure aux droits fondamentaux de l’intéressé.
+
+<sup>3</sup> Le SEM règle les modalités de la procédure par une directive.
+
+[^10c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10d
+
+**Utilisation de logiciels pour traiter les données personnelles**[^10d-1]
+
+<sup>1</sup> Pour préparer l’analyse des données personnelles, le SEM peut traiter des données personnelles issues de supports électroniques de données au moyen d’un logiciel. Le logiciel utilisé doit répondre à une norme forensique.
+
+<sup>2</sup> Si un logiciel est utilisé, le SEM prie l’intéressé de lui remettre et de déverrouiller ses supports électroniques de données pour la durée d’utilisation du logiciel. L’intéressé peut, sur demande expresse, être présent durant l’utilisation du logiciel.
+
+<sup>3</sup> Le SEM s’assure que les données personnelles ne sont pas modifiées lors de l’utilisation du logiciel.
+
+<sup>4</sup> Les supports électroniques de données sont restitués à l’intéressé dès que le logiciel n’est plus utilisé pour traiter les données personnelles.
+
+[^10d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10e
+
+**Sauvegarde temporaire des données personnelles**[^10e-1]
+
+### (art. 8*a*, al. 5, 7 et 10, et 47, al. 2, LAsi)
+
+<sup>1</sup> Si le SEM prévoit une sauvegarde temporaire des données personnelles en vue d’une analyse ultérieure conformément à l’art. 8*a*, al. 5, LAsi, il prie l’intéressé de lui remettre et de déverrouiller ses supports électroniques de données pour la durée de la sauvegarde. L’intéressé peut, sur demande expresse, être présent pendant toute la durée de l’opération.
+
+<sup>2</sup> Les supports électroniques de données sont restitués à l’intéressé dès la fin de la sauvegarde temporaire.
+
+<sup>3</sup> Pendant leur sauvegarde temporaire et jusqu’à leur analyse, les données personnelles ne peuvent pas être traitées à d’autres fins.
+
+<sup>4</sup> Une sauvegarde temporaire ne peut être faite qu’une fois que l’examen de la proportionnalité est terminé. Les données personnelles sont analysées au plus vite après leur sauvegarde temporaire.
+
+[^10e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10f
+
+**Visualisation et analyse directes des données personnelles issues de supports électroniques de données**[^10f-1]
+
+### (art. 8*a*, al. 7, LAsi)
+
+<sup>1</sup> Si les données personnelles issues de supports électroniques de données ne sont pas sauvegardées temporairement, notamment pour des raisons techniques, et qu’aucun logiciel n’est utilisé, elles sont visualisées et analysées directement à partir du support de données de l’intéressé, conformément à l’art. 10*a*.
+
+<sup>2</sup> Les supports électroniques de données sont restitués à l’intéressé dès la fin de l’analyse.
+
+[^10f-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10g
+
+**Présence de l’intéressé et droit d’être entendu**[^10g-1]
+
+### (art. 8*a*, al. 7 et 9, et 47, al. 3, LAsi)
+
+<sup>1</sup> L’analyse de données personnelles issues de supports électroniques de données est effectuée en présence de l’intéressé.
+
+<sup>2</sup> Elle peut être effectuée en l’absence de l’intéressé, s’il a préalablement remis une déclaration de renonciation écrite ou refusé de participer. Le SEM consigne le refus de participer et ses motifs.
+
+<sup>3</sup> Dans tous les cas, l’intéressé doit avoir la possibilité de se prononcer sur les résultats une fois l’analyse des données personnelles terminée.
+
+[^10g-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10h
+
+**Information**[^10h-1]
+
+### (art. 8*a*, al. 6, et 26, al. 3, LAsi)
+
+<sup>1</sup> Le SEM informe les personnes concernées, à leur arrivée dans un centre de la Confédération ou dans un logement situé dans un aéroport, de leurs droits et de leurs devoirs en lien avec le traitement de données personnelles issues de supports électroniques de données.
+
+<sup>2</sup>
+
+En même temps que le SEM prie l’intéressé de lui remettre ses supports électroniques de données, il l’informe en détail:
+
+- a. du but de la remise;
+- b. des données personnelles qui sont traitées;
+- c. de la possibilité que les données personnelles de tiers figurant sur son support électronique de données soient traitées conformément à l’art. 8*a*, al. 2, LAsi;
+- d. des modalités et de la durée de la sauvegarde temporaire;
+- e. de l’utilisation d’un logiciel pour traiter les données;
+- f. de l’effacement des données personnelles sauvegardées temporairement;
+- g. des catégories de personnes habilitées à traiter ses données;
+- h. de la portée de son obligation de collaborer, des conséquences d’une violation de son obligation de collaborer ainsi que des possibilités de recours prévues par la LAsi;
+- i. de l’existence du droit d’accès, du droit à la rectification et du droit à l’effacement des données ainsi que des procédures à suivre pour exercer ces droits;
+- j. de son droit d’être présent lors du traitement des données prévu aux art. 10*d*, al. 2, et 10*e*, al. 1, et lors de l’analyse prévue à l’art. 10*g* et du droit du représentant juridique d’être présent conformément à l’art. 10*i*, al. 1;
+- k. de son droit d’obtenir une décision en constatation conformément à l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^10h-2].
+
+<sup>3</sup> Les informations visées à l’al. 2 sont communiquées à l’intéressé par écrit et dans une langue qu’il comprend. Ce dernier confirme par écrit qu’il les a reçues.
+
+[^10h-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10h-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 10i
+
+**Droit du représentant juridique d’être présent et recours à des interprètes**[^10i-1]
+
+### (art. 102*f* ss LAsi)
+
+<sup>1</sup> Le représentant juridique peut être présent lors du traitement des données personnelles. Le SEM informe le prestataire ou le représentant juridique du traitement prévu de données personnelles issues de supports électroniques de données et lui communique tous les délais.
+
+<sup>2</sup> Si nécessaire, le SEM fait appel à un interprète pendant le traitement des données personnelles.
+
+[^10i-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
 
 #### Art. 11
 
@@ -429,7 +577,7 @@ Les Services AFIS ADN vérifient également les empreintes digitales:
 La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est régie par la loi du 14 mars 1958 sur la responsabilité[^11b-2], notamment par ses art. 19*a* à 19*c*, qui s’appliquent par analogie.
 
 [^11b-1]: Introduit par le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Erratum du 7 juil. 2015, ne concerne que le texte italien ([RO 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
-[^11b-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^11b-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 11c
 
@@ -454,9 +602,9 @@ La sécurité des données est régie par:
 
 [^12-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^12-4]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^12-6]: Abrogée par l’annexe ch. 3 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -474,6 +622,16 @@ Les données qui ne sont plus utilisées sont archivées ou détruites. Elles so
 <sup>2</sup> Le SEM peut communiquer aux autorités, aux universités et à leurs instituts ainsi qu’à des organisations privées des données personnelles à des fins relevant de la recherche et de la planification. Le nom des personnes concernées ne doit pas être fourni, dans la mesure où le but du traitement le permet. Les résultats doivent être publiés de façon qu’il soit impossible de déterminer qui sont les personnes concernées. La transmission de ces données n’est licite qu’avec l’assentiment du SEM.
 
 [^14-1]: Abrogé par l’annexe 3 ch. 5 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, avec effet au 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+
+#### Art. 14a
+
+**Conclusion de traités internationaux liés à Eurodac**[^14a-1]
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne qui précisent le contenu des statistiques intersystèmes mensuelles et qui ont été édictés sur la base de l’art. 12, par. 3, du règlement (UE) 2024/1358[^14a-2], pour autant que ces actes constituent des traités internationaux de portée mineure au sens de l’art. 7*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^14a-3].
+
+[^14a-1]: Introduit par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 165](https://fedlex.data.admin.ch/eli/oc/2025/165)).
+[^14a-2]: Règlement (UE) 2024/1358 du Parlement européen et du Conseil du 14 mai 2024 relatif à la création d’«Eurodac» pour la comparaison des données biométriques aux fins de l’application efficace des règlements (UE) 2024/1351 et (UE) 2024/1350 du Parlement européen et du Conseil et de la directive 2001/55/CE du Conseil et aux fins de l’identification des ressortissants de pays tiers et apatrides en séjour irrégulier, et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des États membres et par Europol à des fins répressives, modifiant les règlements (UE) 2018/1240 et (UE) 2019/818 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 603/2013 du Parlement européen et du Conseil, version du JO L, 2024/1358, 22.5.2024.
+[^14a-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 15
 
@@ -508,10 +666,10 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentées dans un État Membre ou en Suisse[^annex4-lvlu1-4].
 
-[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Annexe 5[^t-3]
 
@@ -531,16 +689,9 @@ Niveaux d’accès:
 
 Unités organisationnelles:
 
-- Canton: Collaborateurs des centres cantonaux ou communaux visés à l’art. 24*d* LAsi
-
-Conseil en vue du retour art. 93*a*, al. 2, LAsi (CVR): Collaborateurs externes du conseil en vue du retour
-
 - Encadrement: Collaborateurs externes du domaine Encadrement
 - Flupo: Police aéroportuaire
-
-Prestataire art. 102*f*, al. 2, LAsi (VD): Collaborateurs externes du prestataire compétent en matière de voies de droit
-
-- Sécurité: Collaborateurs externes du domaine Sécurité
+- Canton: Collaborateurs des centres cantonaux ou communaux visés à l’art. 24*d* LAsi
 - SEM: Secrétariat d’État aux migrations
 - – I: Superutilisateurs
 - – II: Secrétariat
@@ -551,6 +702,11 @@ Prestataire art. 102*f*, al. 2, LAsi (VD): Collaborateurs externes du prestatair
 - – VII: Domaine Identification
 - – VIII: Domaine Saisie et mise à jour des données
 - – IX: Domaine Analyses linguistiques
+- Sécurité: Collaborateurs externes du domaine Sécurité
+
+Prestataire art. 102*f*, al. 2, LAsi (VD): Collaborateurs externes du prestataire compétent en matière de voies de droit
+
+Conseil en vue du retour art. 93*a*, al. 2, LAsi (CVR): Collaborateurs externes du conseil en vue du retour
 
 ### Catalogue des données MIDES
 

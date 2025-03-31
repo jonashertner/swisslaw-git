@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2024-06-01
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20250401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 1° giugno 2024)
+dell’11 agosto 1999 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 119 della legge del 26 giugno 1998[^ingress-1] sull’asilo (
 
 ordina:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 1
 
@@ -35,7 +35,7 @@ ordina:
 
 <sup>2</sup> Gli Accordi di associazione alla normativa di Dublino sono menzionati nell’allegato 4.
 
-[^1-1]: Nuovo testo giusta il n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 1a
 
@@ -60,19 +60,19 @@ La Segreteria di Stato della migrazione (SEM)[^1a-3] gestisce, per l’adempimen
 - k.[^1a-12] banca dati sul pool d’interpreti (DOPO);
 - l.[^1a-13] lo strumento di gestione dei termini (tool FM)*.*
 
-[^1a-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
-[^1a-2]: LF del 20 giu. 2003 sul sistema d’informazione per il settore degli stranieri e dell’asilo ([RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
+[^1a-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
+[^1a-2]: LF del 20 giu. 2003 sul sistema d’informazione per il settore degli stranieri e dell’asilo ([RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)).
 [^1a-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^1a-5]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-6]: Abrogata dal n. I dell’O del 22 mar. 2017, con effetto dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-7]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
-[^1a-8]: Abrogata dal n. I dell’O del 18 set. 2015, con effetto dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1a-9]: Nuova espr. giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
-[^1a-10]: La mod. giusta il n. I 6 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017, concerne soltanto il testo tedesco ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1a-11]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^1a-12]: Introdotta dal n. I dell’O del 9 mag. 2012, in vigore dal 13 giu. 2012 ([RU 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
-[^1a-13]: Introdotta dal n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^1a-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1a-6]: Abrogata dalla cifra I dell’O del 22 mar. 2017, con effetto dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1a-7]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1a-8]: Abrogata dalla cifra I dell’O del 18 set. 2015, con effetto dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1a-9]: Nuova espr. giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
+[^1a-10]: La mod. giusta la cifra I n. 6 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017, concerne soltanto il testo tedesco ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1a-11]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
+[^1a-12]: Introdotta dalla cifra I dell’O del 9 mag. 2012, in vigore dal 13 giu. 2012 ([RU 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
+[^1a-13]: Introdotta dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
 #### Art. 1b
 
@@ -92,11 +92,11 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 - b. ai rappresentanti delle autorità dell’amministrazione federale che per adempiere i loro compiti abbisognano di informazioni relative ai Paesi d’origine dei richiedenti l’asilo;
 - c. alle autorità analoghe di Stati esteri nonché alle organizzazioni internazionali con le quali la Svizzera intrattiene uno scambio istituzionalizzato di informazioni sui Paesi.
 
-[^1b-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^1b-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1b-3]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1b-4]: Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^1b-5]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1b-2]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-3]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1b-4]: Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1b-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 
 #### Art. 1c
 
@@ -106,13 +106,13 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>2</sup> Hanno accesso ai dati i collaboratori della SEM che si occupano dell’amministrazione dei prestiti.
 
-[^1c-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1c-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 1d
 
 [^1d-1]
 
-[^1d-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Abrogato dal n. I dell’O del 22 mar. 2017, con effetto dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1d-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Abrogato dalla cifra I dell’O del 22 mar. 2017, con effetto dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 
 #### Art. 1e
 
@@ -128,12 +128,12 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>5</sup> Tutte le persone che hanno diritti di scrittura e lettura in FiSCo possono registrarvi osservazioni supplementari riguardanti il finanziamento di un caso specifico.[^1e-6]
 
-[^1e-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
-[^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
-[^1e-4]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
-[^1e-5]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
-[^1e-6]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
+[^1e-4]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-5]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
+[^1e-6]: Introdotto dalla cifra I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 
 #### Art. 1f
 
@@ -143,7 +143,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>2</sup> Hanno accesso ai dati i collaboratori della SEM che si occupano dei casi medici.
 
-[^1f-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1f-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 1g
 
@@ -153,13 +153,13 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>2</sup> Hanno accesso alla banca dati i collaboratori della SEM che si occupano del controllo e della valutazione dell’aiuto individuale al ritorno.
 
-[^1g-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^1g-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 #### Art. 1h
 
 [^1h-1]
 
-[^1h-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Abrogato dal n. I dell’O del 18 set. 2015, con effetto dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1h-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Abrogato dalla cifra I dell’O del 18 set. 2015, con effetto dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
 
 #### Art. 1i
 
@@ -173,7 +173,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>3</sup> La SEM stabilisce in un apposito regolamento in particolare le misure organizzative e tecniche da adottare allo scopo di evitare il trattamento non autorizzato dei dati e disciplina la verbalizzazione automatica del trattamento dei dati e la sicurezza dei dati.
 
-[^1i-1]: Introdotto dal n. I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
+[^1i-1]: Introdotto dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
 
 #### Art. 1j
 
@@ -229,15 +229,15 @@ La banca dati DOPO presenta le seguenti interfacce:
 - b. con il sistema di gestione del personale BV PLUS, per trasferire i dati rilevanti per la retribuzione secondo il capoverso 1 lettera c;
 - c.[^1j-9] con il sistema standardizzato GEVER Confederazione, per la gestione elettronica dei fascicoli personali e per garantire miglioramenti nella gestione dei processi.
 
-[^1j-1]: Introdotto dal n. I dell’O del 9 mag. 2012, in vigore dal 13 giu. 2012 ([RU 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
-[^1j-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1j-3]: Introdotto dal n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1j-4]: Introdotto dal n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1j-5]: Introdotto dal n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
-[^1j-6]: Introdotta dal n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1j-7]: Introdotta dal n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1j-8]: Introdotta dal n. I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1j-9]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 72](https://fedlex.data.admin.ch/eli/oc/2022/72)).
+[^1j-1]: Introdotto dalla cifra I dell’O del 9 mag. 2012, in vigore dal 13 giu. 2012 ([RU 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
+[^1j-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1j-3]: Introdotto dalla cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1j-4]: Introdotto dalla cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1j-5]: Introdotto dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1j-6]: Introdotta dalla cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
+[^1j-7]: Introdotta dalla cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1j-8]: Introdotta dalla cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1j-9]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 72](https://fedlex.data.admin.ch/eli/oc/2022/72)).
 
 #### Art. 1k
 
@@ -253,7 +253,7 @@ La banca dati DOPO presenta le seguenti interfacce:
 
 <sup>5</sup> La SEM stabilisce in un apposito regolamento in particolare le misure organizzative e tecniche da adottare allo scopo di evitare il trattamento non autorizzato dei dati e disciplina la verbalizzazione automatica del trattamento dei dati e la sicurezza dei dati.
 
-[^1k-1]: Introdotto dal n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1k-1]: Introdotto dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
 #### Art. 2
 
@@ -263,7 +263,7 @@ La banca dati DOPO presenta le seguenti interfacce:
 
 Le autorità federali e cantonali che intendono comunicare al Paese d’origine o di provenienza dati di richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione che si trovano in Svizzera devono dapprima accertarsi presso la SEM che in primo grado la domanda d’asilo è stata respinta o è stata emanata una decisione di non entrata nel merito o che con la comunicazione non mettono in pericolo né le persone interessate né i loro congiunti.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
 
 #### Art. 3
 
@@ -281,8 +281,8 @@ Se per l’esecuzione di un allontanamento è necessario trasmettere al Paese d�
 
 La SEM comunica alle competenti autorità preposte al perseguimento penale informazioni e mezzi di prova qualora sussistano seri motivi di sospettare che sia stato commesso un crimine di cui all’articolo 1 capoverso F lettere a e c della Convenzione del 28 luglio 1951[^4-2] sullo statuto dei rifugiati.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^4-2]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
+[^4-2]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. 5
 
@@ -299,8 +299,8 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 <sup>2</sup> L’accesso ai dati di cui al capoverso 1 è retto dall’allegato 1 dell’ordinanza del 12 aprile 2006[^5-2] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC). I dati biometrici sono registrati nel sistema AFIS. Esso non contiene dati personali relativi agli interessati.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^5-2]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
+[^5-2]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 
 #### Art. 6
 
@@ -324,8 +324,8 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 <sup>7</sup> Se dati biometrici di uffici di polizia esteri (INTERPOL) concordano con quelli della SEM, quest’ultima decide, giusta l’articolo 97 capoverso 1 della LAsi, circa l’ammissibilità della trasmissione del risultato alle autorità estere.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^6-2]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
+[^6-2]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 6a
 
@@ -335,8 +335,8 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 È data una protezione adeguata dei dati della persona interessata ai sensi dell’articolo 102*c* capoverso 3 LAsi se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^6a-2] sulla protezione dei dati (OPDa).
 
-[^6a-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^6a-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 6b
 
@@ -353,7 +353,7 @@ Nel quadro dell’applicazione degli Accordi d’associazione alla normativa di 
 
 <sup>3</sup> La procedura è retta dagli articoli 31 e 32 del regolamento (UE) 604/2013[^6b-4] e dagli articoli 8 paragrafo 3 e 15*a* del regolamento (UE) 1560/2003.
 
-[^6b-1]: Introdotto dal n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^6b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^6b-2]: Gli Acc. di associazione alla normativa di Dublino sono menzionati nell’all. 4.
 [^6b-3]: Regolamento (CE) 1560/2003 della Commissione, del 2 set. 2003, recante modalità di applicazione del regolamento (CE) 343/2003 del Consiglio che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda d’asilo presentata in uno degli Stati membri da un cittadino di un Paese terzo, GU L 222 del 5.9.2003, pag. 3; modificato da ultimo dal regolamento di esecuzione (UE) 118/2014, GU L 39 dell’8.2.2014, pag. 1.
 [^6b-4]: Regolamento (UE) 604/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 31.
@@ -380,6 +380,154 @@ Nel quadro dell’applicazione degli Accordi d’associazione alla normativa di 
 
 <sup>2</sup> La consegna di liste con dati personali a privati è vietata.
 
+#### Art. 10a
+
+**Valutazione di dati personali ottenuti grazie a supporti elettronici di dati**[^10a-1]
+
+### (art. 8*a* cpv. 1 e 10 e art. 47 cpv. 3 LAsi)
+
+<sup>1</sup>
+
+Possono essere valutati i seguenti dati personali ottenuti grazie a supporti elettronici di dati, compresi i dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^10a-2] sulla protezione dei dati (LPD):
+
+- a. dati riguardanti l’identità e la cittadinanza; ne fanno parte, nello specifico, indirizzi, numeri telefonici, registrazioni di suoni e immagini nonché documenti;
+- b. dati riguardanti l’itinerario di viaggio; ne fanno parte, nello specifico, dati di navigazione e registrazioni di suoni e immagini nonché documenti.
+
+<sup>2</sup> Non possono essere valutati i dati personali rientranti nella sfera di protezione di un segreto professionale secondo l’articolo 321 del Codice penale[^10a-3] cui la persona stessa è vincolata.
+
+[^10a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10a-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 10b
+
+**Autorizzazione per il trattamento di dati personali ottenuti grazie a supporti elettronici di dati**[^10b-1]
+
+### (art. 8*a* cpv. 10 e art. 47 cpv. 2 LAsi)
+
+<sup>1</sup>
+
+I dati personali ottenuti grazie a supporti elettronici di dati possono essere trattati esclusivamente da collaboratori della SEM:
+
+- a. che svolgono compiti legati all’accertamento dell’identità e della cittadinanza dei richiedenti l’asilo;
+- b. competenti per l’esecuzione della procedura d’asilo;
+- c. che svolgono compiti legati al sostegno dei Cantoni nell’esecuzione degli allontanamenti nel settore dell’asilo.
+
+<sup>2</sup> La SEM provvede affinché i collaboratori di cui al capoverso 1 beneficino della formazione inerente alla protezione dei dati necessaria per l’esercizio della loro attività.
+
+[^10b-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10c
+
+**Esame della proporzionalità**[^10c-1]
+
+### (art. 8 cpv. 1 lett. g e art. 8*a* cpv. 4 LAsi)
+
+<sup>1</sup> Allo scopo di garantire la proporzionalità di una valutazione di dati occorre tenere conto delle informazioni e dichiarazioni fornite dall’interessato e dei documenti ufficiali quali atti di nascita o patenti di guida che permettono di trarre conclusioni inequivocabili sull’identità, la nazionalità o l’itinerario di viaggio. La SEM esamina se le informazioni desiderate possono essere acquisite tramite altre misure idonee, nello specifico quelle previste dall’articolo 26 capoverso 2 o 3 LAsi.
+
+<sup>2</sup> Le misure idonee vengono applicate qualora rappresentino un’ingerenza minore nei diritti fondamentali del richiedente l’asilo.
+
+<sup>3</sup> La SEM disciplina i dettagli procedurali a livello d’istruzione.
+
+[^10c-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10d
+
+**Impiego di software per trattare i dati personali**[^10d-1]
+
+<sup>1</sup> Per preparare la valutazione dei dati personali, la SEM può trattare i dati personali ottenuti grazie a supporti elettronici avvalendosi di un software. Il software utilizzato dev’essere conforme a uno standard forense.
+
+<sup>2</sup> Se è impiegato un software, la SEM invita l’interessato a consegnarle i propri supporti elettronici di dati e a sbloccarli per la durata dell’impiego del software. Se ne esprime il desiderio esplicito, l’interessato può presenziare all’impiego del software.
+
+<sup>3</sup> La SEM garantisce che l’impiego del software non modifichi i dati personali.
+
+<sup>4</sup> I supporti elettronici di dati vanno restituiti all’interessato non appena l’impiego del software per il trattamento dei dati personali è terminato.
+
+[^10d-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10e
+
+**Registrazione temporanea dei dati personali**[^10e-1]
+
+### (art. 8*a* cpv. 5, 7 e 10 e art. 47 cpv. 2 LAsi)
+
+<sup>1</sup> Se prevede una registrazione temporanea dei dati personali secondo l’articolo 8*a* capoverso 5 LAsi fino all’ulteriore valutazione, la SEM invita l’interessato a consegnarle i propri supporti elettronici di dati e a sbloccarli per la durata del processo di registrazione temporanea. Se ne esprime il desiderio esplicito, l’interessato può presenziare all’intero processo di registrazione dei suoi dati personali.
+
+<sup>2</sup> I supporti elettronici di dati vanno restituiti all’interessato non appena il processo di registrazione temporanea è terminato.
+
+<sup>3</sup> Durante la registrazione temporanea e fino alla valutazione, i dati personali non possono essere trattati per altri scopi.
+
+<sup>4</sup> I dati possono essere registrati in via temporanea al più presto dopo l’esame della proporzionalità. La valutazione è eseguita il più celermente possibile dopo la registrazione temporanea.
+
+[^10e-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10f
+
+**Consultazione e valutazione dirette dei dati personali ottenuti grazie a supporti elettronici di dati**[^10f-1]
+
+### (art. 8*a* cpv 7 LAsi)
+
+<sup>1</sup> Se i dati personali ottenuti grazie a supporti elettronici di dati non vengono registrati temporaneamente, in particolare per motivi tecnici, e se non è utilizzato nessun software, i dati personali di cui all’articolo 10*a* sono consultati e valutati basandosi direttamente sul supporto di dati dell’interessato.
+
+<sup>2</sup> Immediatamente dopo la valutazione dei dati personali, i supporti elettronici di dati vanno restituiti all’interessato.
+
+[^10f-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10g
+
+**Presenza dell’interessato e diritto di essere sentito**[^10g-1]
+
+### (art. 8*a* cpv. 7 e 9 e art. 47 cpv. 3 LAsi)
+
+<sup>1</sup> Qualsiasi valutazione dei dati personali ottenuti da supporti elettronici di dati si svolge in presenza dell’interessato.
+
+<sup>2</sup> Può essere svolta in assenza dell’interessato se questi ha presentato una previa dichiarazione scritta di rinuncia o si è rifiutato di partecipare. La SEM documenta per scritto il rifiuto di partecipare e i motivi addotti.
+
+<sup>3</sup> Dopo la valutazione dei suoi dati personali, l’interessato deve avere in ogni caso la possibilità di esprimersi sui risultati.
+
+[^10g-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10h
+
+**Informazione**[^10h-1]
+
+### (art. 8*a* cpv. 6 e art. 26 cpv. 3 LAsi)
+
+<sup>1</sup> All’arrivo in un centro della Confederazione o in un alloggio presso un aeroporto, la SEM informa l’interessato sui suoi diritti e sui suoi obblighi per quanto riguarda il trattamento dei dati personali ottenuti grazie a supporti elettronici di dati.
+
+<sup>2</sup>
+
+Nel momento in cui è invitato a consegnare i suoi supporti elettronici di dati, la SEM informa l’interessato nel dettaglio per quanto riguarda:
+
+- a. lo scopo della consegna dei supporti elettronici di dati;
+- b. i dati personali che vengono trattati;
+- c. il possibile trattamento dei dati personali di terzi figuranti sul supporto elettronico di dati dell’interessato, conformemente all’articolo 8*a* capoverso 2 LAsi;
+- d. la procedura e la durata della registrazione temporanea;
+- e. l’impiego del software per il trattamento dei dati;
+- f. la cancellazione dei dati personali registrati temporaneamente;
+- g. le categorie di persone autorizzate a trattare i dati;
+- h. la portata dell’obbligo di collaborare, le conseguenze dell’eventuale violazione di tale obbligo nonché le possibilità di ricorso secondo la legge sull’asilo;
+- i. il sussistere del diritto di essere informati, del diritto di rettifica e del diritto alla cancellazione dei dati nonché le procedure per far valere questi diritti;
+- j. il suo diritto di presenza durante il trattamento dei dati secondo gli articoli 10*d* capoverso 2 e 10*e* capoverso 1, durante la valutazione secondo l’articolo 10*g* e il diritto di presenza della rappresentanza legale secondo l’articolo 10*i* capoverso 1;
+- k. il diritto di esigere una decisione d’accertamento secondo l’articolo 25*a* della legge federale del 20 dicembre 1968[^10h-2] sulla procedura amministrativa.
+
+<sup>3</sup> L’informazione di cui al capoverso 2 avviene per scritto e in una lingua che l’interessato comprende. Quest’ultimo conferma per scritto di aver ottenuto le informazioni di cui al capoverso 2.
+
+[^10h-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10h-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 10i
+
+**Diritto di presenza della rappresentanza legale e ricorso a interpreti**[^10i-1]
+
+### (art. 102*f* segg. LAsi)
+
+<sup>1</sup> La rappresentanza legale può presenziare al trattamento dei dati personali. La SEM informa il prestatore di servizi o la rappresentanza legale in merito al previsto trattamento dei supporti elettronici di dati e a tutti gli appuntamenti.
+
+<sup>2</sup> Nell’ambito del trattamento dei dati personali la SEM si avvale, all’occorrenza, di un interprete.
+
+[^10i-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
 #### Art. 11
 
 **Esperto in dattiloscopia**[^11-1]
@@ -401,7 +549,7 @@ I Servizi AFIS DNA devono parimenti esaminare le impronte digitali, se:
 - a. dopo la concessione della protezione internazionale a una persona da parte di uno Stato Dublino e dopo il corrispondente contrassegno dei dati in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per apposizione del contrassegno; oppure
 - b. al momento della cancellazione anticipata dei dati di una persona in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per cancellazione.
 
-[^11-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 #### Art. 11a
 
@@ -421,7 +569,7 @@ I Servizi AFIS DNA devono parimenti esaminare le impronte digitali, se:
 
 <sup>7</sup> Le indicazioni necessarie per l’identificazione di cui al capoverso 1, comprese le impronte digitali, sono cancellate senza indugio dopo il trattamento della domanda.
 
-[^11a-1]: Introdotto dal n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
+[^11a-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
 
 #### Art. 11b
 
@@ -429,8 +577,8 @@ I Servizi AFIS DNA devono parimenti esaminare le impronte digitali, se:
 
 La responsabilità in caso di danni in relazione con la gestione di Eurodac è retta dalla legge del 14 marzo 1958[^11b-2] sulla responsabilità, in particolare dagli articoli 19*a*–19*c*, che si applicano per analogia.
 
-[^11b-1]: Introdotto dal n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
-[^11b-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^11b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
+[^11b-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 11c
 
@@ -440,7 +588,7 @@ La responsabilità in caso di danni in relazione con la gestione di Eurodac è r
 
 <sup>2</sup> L’IFPDT è l’autorità nazionale secondo gli articoli 29 paragrafi 11–13 e 30 del regolamento (UE) 603/2013[^11c-2]. Gli incombono i compiti definiti in tali articoli.
 
-[^11c-1]: Introdotto dal n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
+[^11c-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
 [^11c-2]: Regolamento (UE) 603/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che istituisce l’«Eurodac» per il confronto delle impronte digitali per l’efficace applicazione del regolamento (UE) 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide e per le richieste di confronto con i dati Eurodac presentate dalle autorità di contrasto degli Stati membri e da Europol a fini di contrasto, e che modifica il regolamento (UE) 1077/2011 che istituisce un’agenzia europea per la gestione operativa dei sistemi IT su larga scala nello spazio di libertà, sicurezza e giustizia (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 1.
 
 #### Art. 12
@@ -453,11 +601,11 @@ La sicurezza dei dati è retta:
 - b.[^12-4] dall’ordinanza dell’8 novembre 2023[^12-5] sulla sicurezza delle informazioni;
 - c.[^12-6] *...*
 
-[^12-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^12-2]: Nuovo testo giusta l’all. 2 n. II 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-4]: Nuovo testo giusta l’all. 2 n. II 4 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^12-2]: Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^12-4]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^12-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^12-6]: Abrogata dall’all. n. 3 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -475,6 +623,16 @@ I dati che non sono più necessari vanno archiviati o distrutti. L’archiviazio
 <sup>2</sup> A scopo di ricerca o di pianificazione, la SEM può comunicare dati personali ad autorità, a università e a loro istituti nonché a organizzazioni private. I dati devono essere anonimizzati nella misura in cui lo scopo del trattamento lo consenta. I risultati vanno pubblicati in modo tale che le persone interessate non possano essere determinate. L’ulteriore trasmissione di tali dati è lecita unicamente con il consenso della SEM.
 
 [^14-1]: Abrogato dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+
+#### Art. 14a
+
+**Conclusione di trattati internazionali legati all’Eurodac**[^14a-1]
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea che stabiliscono il contenuto delle statistiche mensili intersistemiche e sono stati emanati in virtù dell’articolo 12 paragrafo 3 del regolamento (UE) 2024/1358[^14a-2], sempreché tali trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* della legge del 21 marzo 1997[^14a-3] sull’organizzazione del Governo e dell’Amministrazione.
+
+[^14a-1]: Introdotto dalla cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 165](https://fedlex.data.admin.ch/eli/oc/2025/165)).
+[^14a-2]: Regolamento (UE) 2024/1358 del Parlamento europeo e del Consiglio, del 14 mag. 2024, che istituisce l’«Eurodac» per il confronto dei dati biometrici ai fini dell’applicazione efficace dei regolamenti (UE) 2024/1351 e (UE) 2024/1350 o del Parlamento europeo e del Consiglio e della direttiva 2001/55/CE del Consiglio e ai fini dell’identificazione dei cittadini di paesi terzi e apolidi il cui soggiorno è irregolare, e per le richieste di confronto con i dati Eurodac presentate dalle autorità di contrasto degli Stati membri e da Europol a fini di contrasto, che modifica i regolamenti (UE) 2018/1240 e (UE) 2019/818 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 603/2013 del Parlamento europeo e del Consiglio, versione della GU L, 2024/1358, 22.5.2024.
+[^14a-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 15
 
@@ -500,7 +658,7 @@ Allegato 4[^t-2]
 
 ## Accordi di associazione alla normativa di Dublino
 
-[^t-2]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^t-2]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi seguenti:
 
@@ -509,10 +667,10 @@ Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi se
 - c. Protocollo del 28 febbraio 2008[^annex4-lvlu1-3] tra la Confederazione Svizzera, Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
 - d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Allegato 5[^t-3]
 
@@ -520,7 +678,7 @@ Allegato 5[^t-3]
 
 ## Livelli d’accesso e autorizzazioni per il trattamento dei dati nel sistema d’informazione MIDES
 
-[^t-3]: Introdotto dal n. II dell’O del 24 nov. 2010 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 223](https://fedlex.data.admin.ch/eli/oc/2024/223)).
+[^t-3]: Introdotto dalla cifra II dell’O del 24 nov. 2010 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 223](https://fedlex.data.admin.ch/eli/oc/2024/223)).
 
 ### Legenda
 
@@ -550,8 +708,6 @@ Unità organizzative:
 Fornitori di prestazioni articolo 102*f* capoverso 2 LAsi (TG): Collaboratori esterni del fornitore di prestazioni di tutela giurisdizionale
 
 Consulenza per il ritorno articolo 93*a* capoverso 2 LAsi (CR): Collaboratori esterni della consulenza per il ritorno
-
-- [tab]
 
 ### Catalogo dei dati MIDES
 
@@ -712,7 +868,7 @@ Allegato 6[^t-4]
 
 ## Interfacce tra i sistemi d’informazione
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del 1° mag. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 1° mag. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
 
 <table>
 <tr><td>I. Dati della banca dati DOPO trasmessi al sistema d’informazione MIDES</td></tr>

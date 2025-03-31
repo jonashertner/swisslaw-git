@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2024-06-01
+version: 2025-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20240601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20250401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20240601/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. Juni 2024)
+vom 11. August 1999 (Stand am 1. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 119 des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG)
 
 verordnet:
 
-[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 1
 
@@ -61,16 +61,16 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 - l.[^1a-13] das Fristenmanagementtool (FM-Tool)*.*
 
 [^1a-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
-[^1a-2]: BG vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich ([SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301))
+[^1a-2]: BG vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich ([SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898))
 [^1a-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^1a-4]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^1a-4]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^1a-5]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-6]: Aufgehoben durch Ziff. I der V vom 22. März 2017, mit Wirkung seit 15. April 2017 ([AS 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1a-7]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1a-8]: Aufgehoben durch Ziff. I der V vom 18. Sept. 2015, mit Wirkung seit 15. Okt. 2015 ([AS 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
 [^1a-9]: Ausdruck gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)). Die Änd. wurde im ganzen Text berücksichtigt.
 [^1a-10]: Fassung gemäss Ziff. I 6 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1a-11]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1a-11]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^1a-12]: Eingefügt durch Ziff. I der V vom 9. Mai 2012, in Kraft seit 13. Juni 2012 ([AS 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
 [^1a-13]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
@@ -129,8 +129,8 @@ Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mitt
 <sup>5</sup> Alle Personen, die Schreib- und Leserechte in FiSCo haben, können in FiSCo zu einzelnen Personen zusätzliche Bemerkungen zur Finanzierung eines Einzelfalls erfassen.[^1e-6]
 
 [^1e-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
-[^1e-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^1e-3]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^1e-2]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^1e-3]: [SR 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 [^1e-4]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1e-5]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
 [^1e-6]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
@@ -281,7 +281,7 @@ Ist es für den Vollzug einer Wegweisung notwendig, dem Heimat- oder Herkunftsst
 Das SEM übermittelt den zuständigen Strafverfolgungsbehörden Informationen und Beweismittel, wenn ernsthafte Gründe für den Verdacht auf ein Verbrechen nach Artikel 1 Abschnitt F Buchstaben a und c des Abkommens vom 28. Juli 1951[^4-2] über die Rechtsstellung der Flüchtlinge bestehen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^4-2]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^4-2]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. 5
 
@@ -299,7 +299,7 @@ Zur Feststellung der Identität von Asylsuchenden und Schutzbedürftigen können
 <sup>2</sup> Der Zugriff auf die Daten nach Absatz 1 ist in Anhang 1 der Verordnung vom 12. April 2006[^5-2] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung) geregelt. Die biometrischen Daten sind im AFIS-System gespeichert. Dieses enthält keine Angaben zur Person der Betroffenen.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^5-2]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^5-2]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 
 #### Art. 6
 
@@ -324,7 +324,7 @@ Zur Feststellung der Identität von Asylsuchenden und Schutzbedürftigen können
 <sup>7</sup> Stimmen die biometrischen Daten ausländischer Polizeistellen (INTERPOL) mit denjenigen des SEM überein, so entscheidet dieses nach Artikel 97 Absatz 1 des AsylG, ob die Weiterleitung der Ergebnisse an ausländische Behörden zulässig ist.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^6-2]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^6-2]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 6a
 
@@ -335,7 +335,7 @@ Zur Feststellung der Identität von Asylsuchenden und Schutzbedürftigen können
 Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 102*c* Absatz 3 AsylG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^6a-2] (DSV) erfüllen.
 
 [^6a-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^6a-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 6b
 
@@ -378,6 +378,154 @@ Das SEM hat im Rahmen der Anwendung der Dublin-Assoziierungsabkommen[^6b-2] vor 
 <sup>1</sup> Das SEM kann Listen mit Personendaten an Behörden des Bundes, der Kantone und Gemeinden sowie privaten Organisationen abgeben, wenn diese die Listen zur Erfüllung ihrer gesetzlichen Aufgaben benötigen und die Bearbeitung durch die ersuchende Behörde mit dem Bearbeitungszweck nach dem Gesetz vereinbar ist.
 
 <sup>2</sup> Die Abgabe von Listen mit Personendaten an Privatpersonen ist nicht zulässig.
+
+#### Art. 10a
+
+**Auswertung von Personendaten aus elektronischen Datenträgern**[^10a-1]
+
+### (Art. 8*a* Abs. 1 und 10 und Art. 47 Abs. 3 AsylG)
+
+<sup>1</sup>
+
+Aus elektronischen Datenträgern dürfen die folgenden Personendaten, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^10a-2] (DSG), ausgewertet werden:
+
+- a. Angaben zur Identität und Nationalität der betroffenen Person; dazu zählen insbesondere Adressen, Telefonnummern, Ton- und Bildaufnahmen sowie Urkunden;
+- b. Angaben zum Reiseweg der betroffenen Person; dazu zählen insbesondere Navigationsdaten, Ton- und Bildaufnahmen sowie Urkunden.
+
+<sup>2</sup> Personendaten, die in den Schutzbereich eines Berufsgeheimnisses nach Artikel 321 des Strafgesetzbuchs[^10a-3] fallen, dem die betroffene Person selbst untersteht, dürfen nicht ausgewertet werden.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10a-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+#### Art. 10b
+
+**Berechtigung zur Bearbeitung von Personendaten aus elektronischen Datenträgern**[^10b-1]
+
+### (Art. 8*a* Abs. 10 und Art. 47 Abs. 2 AsylG)
+
+<sup>1</sup>
+
+Personendaten aus elektronischen Datenträgern dürfen nur von Mitarbeitenden des SEM bearbeitet werden, die:
+
+- a. Aufgaben im Rahmen der Abklärung der Identität und Nationalität Asylsuchender wahrnehmen;
+- b. für die Durchführung des Asylverfahrens zuständig sind;
+- c. Aufgaben im Rahmen der Unterstützung der Kantone beim Vollzug von Wegweisungen im Asylbereich wahrnehmen.
+
+<sup>2</sup> Das SEM stellt sicher, dass die Mitarbeitenden nach Absatz 1 die für ihre Tätigkeit notwendige Ausbildung im Bereich Datenschutz erhalten.
+
+[^10b-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10c
+
+**Prüfung der Verhältnismässigkeit**[^10c-1]
+
+### (Art. 8 Abs. 1 Bst. g und Art. 8*a* Abs. 4 AsylG)
+
+<sup>1</sup> Zwecks Wahrung der Verhältnismässigkeit sind Informationen und Äusserungen der betroffenen Person sowie amtliche Dokumente wie Geburtsurkunden oder Führerscheine zu berücksichtigen, welche eindeutige Rückschlüsse auf die Identität, die Nationalität oder den Reiseweg zulassen. Das SEM prüft, ob die gewünschten Informationen durch weitere geeignete Massnahmen, insbesondere Massnahmen nach Artikel 26 Absatz 2 oder Absatz 3 AsylG, beschafft werden können.
+
+<sup>2</sup> Die geeigneten Massnahmen erfolgen, soweit sie einen geringeren Eingriff in die Grundrechte der asylsuchenden Person darstellen.
+
+<sup>3</sup> Das SEM regelt die Einzelheiten des Vorgehens in einer Weisung.
+
+[^10c-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10d
+
+**Einsatz von Software zur Bearbeitung der Personendaten**[^10d-1]
+
+<sup>1</sup> Das SEM kann zur Vorbereitung der Auswertung der Personendaten mittels einer Software Personendaten aus elektronischen Datenträgern bearbeiten. Die eingesetzte Software muss einem forensischen Standard entsprechen.
+
+<sup>2</sup> Wird eine Software eingesetzt, so fordert das SEM die betroffene Person auf, ihm ihre elektronischen Datenträger für die Dauer des Einsatzes dieser Software auszuhändigen und freizugeben. Die betroffene Person kann während des Einsatzes der Software auf ausdrücklichen Wunsch anwesend sein.
+
+<sup>3</sup> Das SEM stellt sicher, dass die Personendaten durch den Einsatz der Software nicht geändert werden.
+
+<sup>4</sup> Unmittelbar nach dem Einsatz der Software zur Bearbeitung der Personendaten sind die elektronischen Datenträger der betroffenen Person wieder auszuhändigen.
+
+[^10d-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10e
+
+**Zwischenspeicherung der Personendaten**[^10e-1]
+
+### (Art. 8*a* Abs. 5, 7 und 10 und Art. 47 Abs. 2 AsylG)
+
+<sup>1</sup> Sieht das SEM eine Zwischenspeicherung der Personendaten nach Artikel 8*a* Absatz 5 AsylG bis zur späteren Auswertung vor, so fordert es die betroffene Person auf, ihm ihre elektronischen Datenträger für die Dauer der Durchführung der Zwischenspeicherung auszuhändigen und freizugeben. Die betroffene Person kann auf ausdrücklichen Wunsch während des gesamten Vorgangs der Speicherung ihrer Personendaten anwesend sein.
+
+<sup>2</sup> Unmittelbar nach der Zwischenspeicherung der Personendaten sind die elektronischen Datenträger der betroffenen Person wieder auszuhändigen.
+
+<sup>3</sup> Während der Zwischenspeicherung bis zur Auswertung der Personendaten dürfen diese nicht anderweitig bearbeitet werden.
+
+<sup>4</sup> Eine Zwischenspeicherung der Personendaten kann frühestens dann erfolgen, wenn die Prüfung der Verhältnismässigkeit abgeschlossen ist. Die Auswertung erfolgt so rasch wie möglich nach der Zwischenspeicherung.
+
+[^10e-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10f
+
+**Direkte Sichtung und Auswertung der Personendaten aus elektronischen Datenträgern**[^10f-1]
+
+### (Art. 8*a* Abs. 7 AsylG)
+
+<sup>1</sup> Werden die Personendaten aus elektronischen Datenträgern insbesondere aus technischen Gründen nicht zwischengespeichert und kommt keine Software zum Einsatz, so werden die Personendaten nach Artikel 10*a* direkt aus dem Datenträger der betroffenen Person gesichtet und ausgewertet.
+
+<sup>2</sup> Unmittelbar nach der Auswertung der Personendaten sind die elektronischen Datenträger der betroffenen Person wieder auszuhändigen.
+
+[^10f-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10g
+
+**Anwesenheit der betroffenen Person und rechtliches Gehör**[^10g-1]
+
+### (Art. 8*a* Abs. 7 und 9 und Art. 47 Abs. 3 AsylG)
+
+<sup>1</sup> Jede Auswertung der Personendaten aus elektronischen Datenträgern erfolgt in Anwesenheit der betroffenen Person.
+
+<sup>2</sup> Sie darf ohne die Anwesenheit der betroffenen Person folgen, wenn diese vorher eine schriftliche Verzichtserklärung abgegeben oder eine Teilnahme verweigert hat. Das SEM dokumentiert die Verweigerung der Teilnahme und deren Gründe schriftlich.
+
+<sup>3</sup> Der betroffenen Person ist nach der Auswertung ihrer Personendaten in jedem Fall die Gelegenheit zu geben, sich zu den Ergebnissen zu äussern.
+
+[^10g-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+
+#### Art. 10h
+
+**Information**[^10h-1]
+
+### (Art. 8*a* Abs. 6 und Art. 26 Abs. 3 AsylG)
+
+<sup>1</sup> Das SEM orientiert die betroffenen Personen bei ihrer Ankunft in einem Zentrum des Bundes oder einer Unterkunft am Flughafen über ihre Rechte und Pflichten im Zusammenhang mit der Bearbeitung von Personendaten aus elektronischen Datenträgern.
+
+<sup>2</sup>
+
+Zusammen mit der Aufforderung zur Aushändigung ihrer elektronischen Datenträger informiert das SEM die betroffene Person ausführlich über:
+
+- a. den Zweck der Aushändigung der elektronischen Datenträger;
+- b. die Personendaten, die bearbeitet werden;
+- c. die mögliche Bearbeitung von Personendaten Dritter auf dem elektronischen Datenträger der betroffenen Person nach Artikel 8*a* Absatz 2 AsylG;
+- d. das Verfahren und die Dauer der Zwischenspeicherung;
+- e. den Einsatz der Software zur Datenbearbeitung;
+- f. die Löschung der zwischengespeicherten Personendaten;
+- g. die Kategorien der Personen, die zur Bearbeitung der Personendaten berechtigt sind;
+- h. den Umfang der Mitwirkungspflicht, die Folgen einer Verletzung der Mitwirkungspflicht sowie die Beschwerdemöglichkeiten nach dem Asylgesetz;
+- i. das Bestehen des Auskunfts-, des Berichtigungs- und des Löschungsrechts sowie die Verfahren zur Geltendmachung dieser Rechte;
+- j. ihr Anwesenheitsrecht bei der Datenbearbeitung nach den Artikeln 10*d* Absatz 2 und 10*e* Absatz 1, bei der Auswertung nach Artikel 10*g* sowie über das Anwesenheitsrecht der Rechtsvertretung nach Artikel 10*i* Absatz 1;
+- k. das Recht eine Feststellungsverfügung nach Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^10h-2] zu verlangen.
+
+<sup>3</sup> Die Information nach Absatz 2 erfolgt schriftlich und in einer der betroffenen Person verständlichen Sprache. Diese bestätigt den Erhalt der Informationen nach Absatz 2 schriftlich.
+
+[^10h-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
+[^10h-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 10i
+
+**Anwesenheitsrecht der Rechtsvertretung und Einsatz von Dolmetscherinnen und Dolmetschern**[^10i-1]
+
+### (Art. 102*f* ff. AsylG)
+
+<sup>1</sup> Die Rechtsvertretung kann bei der Bearbeitung der Personendaten anwesend sein*.* Das SEM informiert den Leistungserbringer oder die Rechtsvertretung über die vorgesehene Bearbeitung von Personendaten aus elektronischen Datenträgern und alle Termine.
+
+<sup>2</sup> Das SEM zieht im Rahmen der Bearbeitung der Personendaten nötigenfalls eine Dolmetscherin oder einen Dolmetscher bei.
+
+[^10i-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 208](https://fedlex.data.admin.ch/eli/oc/2024/208)).
 
 #### Art. 11
 
@@ -429,7 +577,7 @@ Die AFIS/DNA-Services müssen die Fingerabdrücke ebenfalls überprüfen, wenn:
 Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^11b-2], insbesondere nach dessen Artikeln 19*a*–19*c*, die sinngemäss anwendbar sind.
 
 [^11b-1]: Eingefügt durch Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Die Berichtigung vom 7. Juli 2015 betrifft nur den italienischen Text ([AS 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
-[^11b-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^11b-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 11c
 
@@ -454,9 +602,9 @@ Die Datensicherheit richtet sich nach:
 
 [^12-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: Fassung gemäss Anhang 2 Ziff. II 6 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^12-4]: Fassung gemäss Anhang 2 Ziff. II 4 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^12-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^12-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -474,6 +622,16 @@ Daten, die nicht mehr benötigt werden, müssen archiviert oder vernichtet werde
 <sup>2</sup> Das SEM kann Personendaten zu Forschungs- oder Planungszwecken Behörden, Universitäten und deren Instituten sowie privaten Organisationen bekannt geben. Die Daten müssen anonymisiert werden, soweit der Zweck des Bearbeitens es erlaubt. Die Ergebnisse sind so zu veröffentlichen, dass die betroffenen Personen nicht bestimmbar sind. Die Weiterleitung dieser Daten ist nur mit Zustimmung des SEM zulässig.
 
 [^14-1]: Aufgehoben durch Anhang 3 Ziff. 5 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, mit Wirkung seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+
+#### Art. 14a
+
+**Abschluss internationaler Verträge im Zusammenhang mit Eurodac**[^14a-1]
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche den Inhalt der monatlichen systemübergreifenden Statistiken festlegen und gestützt auf Artikel 12 Absatz 3 der Verordnung (EU) 2024/1358[^14a-2] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^14a-3] darstellen.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 165](https://fedlex.data.admin.ch/eli/oc/2025/165)).
+[^14a-2]: Verordnung (EU) 2024/1358 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten zur effektiven Anwendung der Verordnungen (EU) 2024/1351 und (EU) 2024/1350 des Europäischen Parlaments und des Rates und der Richtlinie 2001/55/EG sowie zur Feststellung der Identität illegal aufhältiger Drittstaatsangehöriger oder Staatenloser und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten, zur Änderung der Verordnungen (EU) 2018/1240 und (EU) 2019/818 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L, 2024/1358, 22.5.2024.
+[^14a-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 15
 
@@ -508,10 +666,10 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annex4-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annex4-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annex4-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex4-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex4-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex4-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex4-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex4-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex4-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Anhang 5[^t-3]
 
@@ -549,10 +707,6 @@ Organisationseinheiten:
 Leistungserbringer Artikel 102*f* Absatz 2 AsylG (RS): Externe Mitarbeitende des Leistungserbringers Rechtschutz
 
 Rückkehrberatung Artikel 93*a* Absatz 2 AsylG (RB): Externe Mitarbeitende der Rückkehrberatung
-
-- [tab]
-- [tab]
-- [tab]
 
 ### Datenkatalog MIDES
 
