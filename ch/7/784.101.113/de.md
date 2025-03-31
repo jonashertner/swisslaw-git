@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: Verordnung des BAKOM vom 9. Dezember 1997 über Fernmeldedienste und Adressierungselemente
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: de
-version: 2024-03-01
+version: 2025-04-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20250401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BAKOM über Fernmeldedienste und Adressierungselemente
 
-vom 9. Dezember 1997 (Stand am 1. März 2024)[^t-1]
+vom 9. Dezember 1997 (Stand am 1. April 2025)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 25. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -50,12 +50,12 @@ Anhang 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BAKOM vom 10. Febr. 2009 ([AS 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), vom 18. Nov. 2020 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), vom 23. Nov. 2022 ([AS 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), vom 19. Jan. 2023 ([AS 2023 39](https://fedlex.data.admin.ch/eli/oc/2023/39)) vom 15. März 2023 ([AS 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), vom 13. Juli 2023 ([AS 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)) und vom 24. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des BAKOM vom 10. Febr. 2009 ([AS 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), vom 18. Nov. 2020 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), vom 23. Nov. 2022 ([AS 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), vom 15. März 2023 ([AS 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), vom 13. Juli 2023 ([AS 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), vom 24. Jan. 2024 ([AS 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)) und vom 9. Juli 2024, in Kraft seit 1. April 2025 ([AS 2024 370](https://fedlex.data.admin.ch/eli/oc/2024/370)).
 [^annex1-lvlu1-1]: Der Inhalt der technischen und administrativen Vorschriften der Ziff. 1, 4, 7 und 11 wird in der AS nicht publiziert. Er kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen oder im Internet unter: [www.bakom.admin.ch](https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/vollzugspraxis/technische-und-administrative-vorschriften.html) &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Telekommunikation abgerufen werden. Der Inhalt der technischen und administrativen Vorschriften der übrigen Ziff. wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [www.fedlex.admin.ch](https://www.fedlex.admin.ch/) &gt; Amtliche Sammlung &gt; Ausgaben der AS &gt; Jahr &gt; Nr. &gt; Referenz &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 - 1\. Technische und administrative Vorschriften betreffend die Verwaltung und Bereitstellung von Verzeichnisdaten der Anbieterinnen des öffentlichen Telefondienstes (Ausgabe 7)
 - 2\. Technische und administrative Vorschriften betreffend die Dienstqualität der Grundversorgung ([Ausgabe 10](https://www.fedlex.admin.ch/eli/oc/2023/163/de/annexes))
-- 3\. Technische und administrative Vorschriften betreffend die Leitweglenkung und die Standortidentifikation der Notrufe ([Ausgabe 17](https://www.fedlex.admin.ch/eli/oc/2023/39/de/annexes))
+- 3\. Technische und administrative Vorschriften betreffend die Leitweglenkung und die Standortidentifikation der Notrufe ([Ausgabe 18](https://www.fedlex.admin.ch/eli/oc/2024/370/de/annexes))
 - 4\. Technische und administrative Vorschriften betreffend Schnittstellen von Fernmeldenetzen und -diensten (Ausgabe 7)
 - 5\. …
 - 6\. Technische und administrative Vorschriften betreffend die Eigenschaften von Schnittstellen der Grundversorgung ([Ausgabe 8](https://www.fedlex.admin.ch/eli/oc/2023/163/de/annexes))
