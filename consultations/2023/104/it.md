@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sull’assicurazione malattie (Garanzia del principio secondo il quale la raccolta dei dati avviene una sola volta)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Krankenversicherung (Sicherstellung des Prinzips der einmaligen Erhebung der Daten)
 document: Vernehmlassungsvorlage
 language: de

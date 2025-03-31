@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’assurance-maladie (Garantie du principe de la collecte unique des données)
 document: Projet mis en consultation
 language: fr
