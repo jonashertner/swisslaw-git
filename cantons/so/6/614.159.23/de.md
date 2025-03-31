@@ -3,20 +3,20 @@ canton: SO
 number: "614.159.23"
 title: "Steuerverordnung Nr. 23: Einheitsbezug"
 language: de
-version: 2022-09-01
-valid_until: 2025-03-31
-version_adopted: 2022-08-23
+version: 2025-04-01
+valid_until: 2027-12-31
+version_adopted: 2025-01-27
 adopted: 2022-08-23
 in_force: 2022-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.23"
-pdf: "https://bgs.so.ch/api/de/versions/5266/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 23: Einheitsbezug
 
-Vom 23.08.2022 (Stand 01.09.2022)
+Vom 23.08.2022 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -52,7 +52,7 @@ beschliesst:
 - d) Personalsteuer der Kirchgemeinden (§ 2 Abs. 3 StG);
 - e) Gewinn- und Kapitalsteuern der Einwohnergemeinden (§ 2 Abs. 1 StG).
 
-<sup>2</sup> Die Feuerwehrersatzabgabe nach § 78 Absatz 1 des Gesetzes über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe (Gebäudeversicherungsgesetz) vom 24. September 1972[^2-2] kann ebenfalls dem Einheitsbezug unterliegen.
+<sup>2</sup> Die Feuerwehrersatzabgabe nach § 88 Absatz 1 des Gesetzes über die Gebäudeversicherung, den Brandschutz und die Elementarschadenprävention, die Feuerwehr und den Elementarschadenfonds (Gebäudeversicherungsgesetz, GVG) vom 20. März 2024[^2-2] kann ebenfalls dem Einheitsbezug unterliegen.
 
 <sup>3</sup> Alle übrigen Steuerarten und Kausalabgaben sind nicht Gegenstand des Einheitsbezugs.
 
@@ -187,7 +187,7 @@ beschliesst:
 
 <sup>2</sup> Der Vorbezug der Feuerwehrersatzabgabe erfolgt gleichzeitig mit den Staatssteuern durch das Kantonale Steueramt.
 
-<sup>3</sup> Die Feuerwehrersatzabgabe wird nach Vorliegen der rechtskräftigen Staatssteuerveranlagung nach den Grundsätzen von §§ 76 bis 78 des Gebäudeversicherungsgesetzes[^14-1] definitiv in Rechnung gestellt und bezogen.
+<sup>3</sup> Die Feuerwehrersatzabgabe wird nach Vorliegen der rechtskräftigen Staatssteuerveranlagung nach den Grundsätzen von §§ 80 bis 83 sowie 88 und 89 des Gebäudeversicherungsgesetzes[^14-1] definitiv in Rechnung gestellt und bezogen.
 
 <sup>4</sup> Massgeblich sind ferner das Feuerwehrreglement der Gemeinde sowie die von der Gemeindeversammlung oder vom Gemeindeparlament festgelegte Höhe der Feuerwehrersatzabgabe.
 
