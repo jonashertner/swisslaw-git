@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2023-02-27
-valid_until: 2025-03-31
-version_adopted: 2023-01-11
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-25
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3300/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3721/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3300/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 27.02.2023)
+Vom 25.05.2011 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -463,6 +463,8 @@ AZ = ∑aGF / aGSF
 
 <sup>3</sup> Die Gemeinden können die Anrechenbarkeit von Räumen in Dach-, Attika- und Untergeschossen abweichend regeln. Sie können für verglaste Balkone, Sitzplätze und Wintergärten einen Nutzungsbonus vorsehen, wenn die Bauteile ausserhalb der thermischen Gebäudehülle liegen und keine heizungstechnischen Installationen aufweisen.
 
+<sup>3<sup>bis</sup></sup> Bestehende technische Räume für die Heizung dürfen bei späterem Wegfall des Bedarfs für einen solchen Raum unter Einhaltung der übrigen Bauvorschriften auch dann genutzt werden, wenn die Ausnützungsziffer dadurch überschritten wird.
+
 <sup>4</sup> Zur anrechenbaren Grundstücksfläche gehören die in der entsprechenden Bauzone liegenden Grundstücksflächen. Die Flächen der Hauszufahrten werden angerechnet. Nicht angerechnet werden die Flächen bestehender oder projektierter Strassen der Grund-, Grob- und Feinerschliessung.
 
 <sup>5</sup> Bei Arealüberbauungen und parzellenübergreifenden Überbauungen ist die Ausnützungsziffer gesamthaft, ohne Aufteilung des Baugrundstücks in Einzelparzellen, einzuhalten.
@@ -483,13 +485,13 @@ AZ = ∑aGF / aGSF
 
 **Nutzungsbonus (§ 50 BauG)**
 
-<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P®-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE®-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Nutzungsreglement Marke MINERGIE®» und dem «Produktreglement Minergie-Gebäudestandards», beide Stand Januar 2022.[^35-1]
+<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P-Standard oder MINERGIE-A-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Nutzungsreglement Marke MINERGIE» und dem «Produktreglement MINERGIE-Gebäudestandards», beide Stand September 2023.[^35-1]
 
-<sup>2</sup> Für Gebäude einer Arealüberbauung, die den MINERGIE‑P®-Standard erreichen, wird zusätzlich zum Nutzungsbonus für Arealüberbauungen ein Nutzungsbonus von 5 % gewährt.
+<sup>2</sup> Für Gebäude einer Arealüberbauung, die den MINERGIE‑P-Standard oder MINERGIE-A-Standard erreichen, wird zusätzlich zum Nutzungsbonus für Arealüberbauungen ein Nutzungsbonus von 5 % gewährt.
 
 <sup>3</sup> Bei Gestaltungsplänen, welche bereits eine gegenüber der Regelbauweise höhere Nutzungsziffer zulassen, wird kein zusätzlicher Nutzungsbonus gewährt.
 
-[^35-1]: Die Reglemente sind veröffentlicht unter: [www.minergie.ch](http://www.minergie.ch) &gt; Zertifizieren &gt; MINERGIE® bzw. MINERGIE-P® &gt; Arbeitsdokumente: Grundlagen. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
+[^35-1]: Die Reglemente sind veröffentlicht unter: [www.minergie.ch](http://www.minergie.ch) &gt; Zertifizieren &gt; MINERGIE bzw. MINERGIE-P &gt; Arbeitsdokumente: Grundlagen. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
 
 ## 5. Energetische Sanierung
 
@@ -570,8 +572,8 @@ AZ = ∑aGF / aGSF
 - c) gute Einordnung in das Orts-, Quartier- und Landschaftsbild,
 - d) sorgfältige und rationelle Erschliessung und gemeinsame Autoabstellanlagen,
 - e) energieeffiziente Gebäude, die
-  - 1\. den MINERGIE®-Standard erreichen oder
-  - 2\. höchstens 80 % des zulässigen Heizwärmebedarfs gemäss § 5 Abs. 4 der Energieverordnung (EnergieV) vom 27. Juni 2012[^39-1] benötigen und den Wärmebedarf für das Warmwasser mit erneuerbarer Energie decken,
+  - 1\. den MINERGIE-Standard (Stand September 2023) erreichen oder
+  - 2\. höchstens 80 % des zulässigen Heizwärmebedarfs gemäss § 5 Abs. 2 lit. c der Energieverordnung (EnergieV) vom 4. Juli 2012[^39-1] benötigen und den Wärmebedarf für das Warmwasser mit erneuerbarer Energie decken,
 - f) gute Spiel-, Freizeit-, Erholungs- und Gartenanlagen sowie ökologische Ausgleichsflächen,
 - g) gemeinsame Entsorgungseinrichtungen.
 
@@ -767,13 +769,28 @@ AZ = ∑aGF / aGSF
 
 <sup>2</sup> Solaranlagen auf Gebäuden unter Substanzschutz oder in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild, namentlich Weilerzonen mit Ortsbild von nationaler Bedeutung, Dorf-, Altstadt- oder Kernzonen, bedürfen einer Baubewilligung.
 
-<sup>3</sup> Baubewilligungsfreie Solaranlagen sind dem Gemeinderat mit einem kantonalen Formular[^49a-3] zu melden. Bei Baubewilligungspflicht ist das kantonale Formular zusammen mit dem Baugesuch einzureichen.
+<sup>3</sup> Die Bauherrschaft meldet ihr Vorhaben dem Gemeinderat über die kantonale Plattform[^49a-3]. Bei Baubewilligungspflicht hat diese Meldung zusätzlich zur Einreichung des Baugesuchs zu erfolgen.
 
-<sup>4</sup> Baubewilligungsfreie Solaranlagen dürfen ausgeführt werden, wenn die Behörde innert 30 Tagen nach Eingang der Meldung keine Einwände erhebt.
+<sup>4</sup> …
 
 [^49a-1]: Bundesgesetz über die Raumplanung (Raumplanungsgesetz, RPG) vom 22. Juni 1979 (SR [700](https://db.clex.ch/link/Bund/700/de))
 [^49a-2]: Raumplanungsverordnung (RPV) vom 28. Juni 2000 (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
-[^49a-3]: Im Internet unter: www.ag.ch/energie &gt; Bauen & Energie &gt; Vollzugshilfen und Formulare &gt; Formular zur Erfassung von Solaranlagen
+[^49a-3]: [www.energievollzug.ch/ag](https://www.energievollzug.ch/ag)
+
+#### § 49b
+
+**Luft/Wasser-Wärmepumpen**
+
+<sup>1</sup> In den Bauzonen, ausgenommen Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild sowie Parzellen mit Gebäuden unter Substanzschutz, dürfen Luft/Wasser-Wärmepumpen nach Durchführen des Meldeverfahrens ausgeführt werden, wenn
+
+- a) ein Lärmschutznachweis[^49b-1] vorliegt,
+- b) die Realisierung an einem anderen Standort lärmrechtlich nur unwesentliche Vorteile brächte und
+- c) keine Abstandsunterschreitung vorliegt, für die eine Ausnahmebewilligung erforderlich ist.
+
+<sup>2</sup> Die Bauherrschaft meldet ihr Vorhaben dem Gemeinderat über die entsprechende kantonale Plattform[^49b-2]. Bei Baubewilligungspflicht hat diese Meldung zusätzlich zur Einreichung des Baugesuchs zu erfolgen.
+
+[^49b-1]: www.fws.ch/laermschutznachweis
+[^49b-2]: [www.energievollzug.ch/ag](https://www.energievollzug.ch/ag)
 
 #### § 50
 
