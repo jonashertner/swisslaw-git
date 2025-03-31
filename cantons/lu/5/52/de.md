@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2024-01-01
-valid_until: 2025-03-31
-version_adopted: 2024-03-12
+version: 2025-04-01
+valid_until: 2025-07-31
+version_adopted: 2025-03-18
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/4196/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4477/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4196/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.01.2024)
+vom 24.09.2002 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -59,6 +59,21 @@ beschliesst:
 <sup>5</sup> Die Personalorganisationen sind gemäss § 61 des Personalgesetzes in das Personalcontrolling einzubeziehen.
 
 [^2-1]: Gemäss Änderung vom 16. März 2007 der Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen, in Kraft seit dem 1. Juli 2007 (G 2007 33), wurde in den §§ 2, 11, 21, 27, 52, 53, 55–61c, 65, 70 und 77 die Bezeichnung «Personalamt» durch «Dienststelle Personal» ersetzt.
+
+#### § 2a
+
+**Pilotversuche**
+
+<sup>1</sup> Der Regierungsrat kann einem Departement auf Gesuch hin Pilotversuche ermöglichen, um Entscheidungsgrundlagen für die Weiterentwicklung der Arbeitsbedingungen in der kantonalen Verwaltung und in den kantonalen Bildungsinstitutionen zu schaffen. Das gesuchstellende Departement hat dazu eine Stellungnahme der Dienststelle Personal einzuholen.
+
+<sup>2</sup> Der Regierungsrat regelt den Zweck des jeweiligen Pilotversuchs, den Kreis, die Rechte und die Pflichten der Teilnehmerinnen und Teilnehmer sowie die Abweichungen vom Personalrecht, wobei die gesetzlichen Ansprüche der Angestellten nicht eingeschränkt werden dürfen.
+
+<sup>3</sup> Er kann die Teilnahme eines bestimmten Kreises von Angestellten an einem Pilotversuch für obligatorisch erklären. Dabei müssen die folgenden beiden Voraussetzungen erfüllt sein:
+
+- a. Ein Versuch auf Basis einer freiwilligen Teilnahme ist nicht geeignet.
+- b. Von den Ansprüchen der Angestellten aus dem öffentlich-rechtlichen Arbeitsverhältnis wird nicht abgewichen.
+
+<sup>4</sup> Die Dauer des Pilotversuchs beträgt in der Regel ein Jahr. Ausnahmsweise kann die Dauer auf höchstens drei Jahre erhöht werden, wenn dies für eine aussagekräftige Auswertung der Ergebnisse des Pilotversuchs und die Umsetzung erforderlich ist.
 
 ## 2 Arbeitsverhältnis
 
@@ -547,7 +562,7 @@ beschliesst:
 - e. Betreuung eines erkrankten Familienmitglieds oder der Lebenspartnerin oder des Lebenspartners, bis Betreuung durch Drittpersonen sichergestellt ist — 3 Arbeitstage pro Ereignis, maximal 10 Arbeitstage pro Kalenderjahr
 - f. Mitarbeit in Personalorganisationen: bei offiziellen Anlässen und Sitzungen — Teilnahme
 
-<sup>3</sup> Der Anspruch gemäss Absatz 1 berechnet sich nach dem jeweiligen Beschäftigungsgrad.
+<sup>3</sup> Der besoldete Urlaub gemäss Absatz 2 ist unabhängig vom Beschäftigungsgrad zu gewähren.
 
 #### § 42
 
@@ -819,10 +834,10 @@ beschliesst:
 
 - a. Wahl, einschliesslich Festlegung der wesentlichen Bestandteile des Arbeitsverhältnisses gemäss § 12 Absatz 2 des Personalgesetzes,
 - b. Beendigung eines Arbeitsverhältnisses durch Entscheid sowie Umgestaltung eines Arbeitsverhältnisses, sofern diese nicht in beidseitigem Einvernehmen erfolgen,
-- c. Verpflichtung zu einem bestimmten Wohnsitz,
+- c. mobil-flexibles Arbeiten im Ausland,
 - d. besoldeter Urlaub ohne Rechtsanspruch von mehr als zehn Arbeitstagen,
-- e. Lohnfestlegung infolge einer Funktionsänderung,
-- f. unbesoldeter Urlaub von mehr als 30 Kalendertagen.
+- e. Lohnfestlegung infolge einer Funktionsänderung.
+- f. …
 
 <sup>2</sup> Dienststellen und erstinstanzliche Zivil- und Strafgerichte können von der Stellungnahme zu den Entscheiden gemäss Absatz 1a, b und e nur mit Zustimmung des zuständigen Departements oder der Staatskanzlei beziehungsweise des obersten Gerichtes abweichen.
 
@@ -832,7 +847,9 @@ beschliesst:
 
 **Lehrverhältnisse**
 
-<sup>1</sup> Die Dienststelle Personal schliesst die Lehrverträge mit den Auszubildenden ab.
+<sup>1</sup> Die Zuständigkeit für den Abschluss der Lehrverträge mit den Auszubildenden richtet sich nach § 66 des Personalgesetzes.
+
+<sup>2</sup> Die Fachstelle Berufsbildung der Dienststelle Personal unterstützt die ausbildenden Organisationseinheiten.
 
 #### § 61
 
