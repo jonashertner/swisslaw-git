@@ -4,13 +4,12 @@ number: "773.200"
 title: Energiegesetz des Kantons Aargau
 short: EnergieG
 language: de
-version: 2024-09-01
-valid_until: 2025-03-31
-version_adopted: 2020-09-08
+version: 2025-04-01
+version_adopted: 2024-04-23
 adopted: 2012-01-17
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3591/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3591/pdf_file"
 
 (EnergieG)
 
-Vom 17.01.2012 (Stand 01.09.2024)
+Vom 17.01.2012 (Stand 01.04.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -90,6 +89,14 @@ beschliesst:
 
 ## 2. Energieeffizienz von Bauten und Anlagen
 
+#### § 3a
+
+**Grundsatz**
+
+<sup>1</sup> Bauten und Anlagen sowie damit zusammenhängende Ausstattungen und Ausrüstungen sind so zu planen und auszuführen, dass die Energie, insbesondere auch die Elektrizität, sparsam und rationell genutzt wird. Soweit möglich, sind Abwärme und erneuerbare Energien zu nutzen.
+
+<sup>2</sup> Wird nachfolgend nichts anderes bestimmt, sind gebäudetechnische Anlagen anzupassen, wenn sie erneuert oder umgebaut werden.
+
 #### § 4
 
 **Bauten und Anlagen**
@@ -109,6 +116,24 @@ beschliesst:
 - e) Beleuchtung,
 - f) weitere Anlagen der Haustechnik.
 
+#### § 4a
+
+**Anforderungen an die Deckung des Wärmebedarfs von Neubauten**
+
+<sup>1</sup> Neubauten und Erweiterungen bestehender Gebäude (Aufstockungen, Anbauten usw.) müssen so gebaut und ausgerüstet werden, dass ihr Bedarf für Heizung, Warmwasser, Lüftung und Klimatisierung auf ein Minimum reduziert wird.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung Art und Umfang der Anforderungen an den Energieeinsatz. Er berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Verschattung oder Quartiersituationen.
+
+#### § 4b
+
+**Elektro-Wassererwärmer**
+
+<sup>1</sup> Der Ersatz eines Elektro-Wassererwärmers ist meldepflichtig.
+
+<sup>2</sup> Die Erwärmung des Brauchwarmwassers darf bei einem Neueinbau oder Ersatz des Wassererwärmers von Wohnbauten und von Wohnnutzungen in Nichtwohnbauten nicht ausschliesslich direkt elektrisch erfolgen.
+
+<sup>3</sup> Der Regierungsrat kann durch Verordnung Befreiungen vorsehen.
+
 #### § 5
 
 **Gebäudeenergieausweis**
@@ -119,7 +144,11 @@ beschliesst:
 
 **Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
 
-<sup>1</sup> Neue Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung und Warmwasser pro Nutzeinheit auszurüsten. Bestehende Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- oder Warmwassersystems entsprechend auszurüsten.
+<sup>1</sup> Neue Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des individuellen Verbrauchs für Warmwasser auszurüsten.
+
+<sup>1<sup>bis</sup></sup> Neue Bauten, die Wärme von einer zentralen Wärmeversorgung für eine Gebäudegruppe beziehen, sind mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten.
+
+<sup>1<sup>ter</sup></sup> Bestehende Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- oder Warmwassersystems mit Geräten zur Erfassung des individuellen Wärmeverbrauchs beim erneuerten System auszurüsten.
 
 <sup>2</sup> Bestehende Gruppen von Bauten mit zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs für die Heizung pro Baute auszurüsten, wenn an einer oder mehreren Bauten die Gebäudehülle wesentlich saniert wird.
 
@@ -127,17 +156,66 @@ beschliesst:
 
 #### § 7
 
-**Heizungsanlagen**
+**Grundsätzliche Anforderungen an Wärmeerzeuger**
 
-<sup>1</sup> Neue Heizungsanlagen mit fossilen Brennstoffen sind zulässig, wenn der Nachweis erbracht wird, dass keine energieeffizientere Heizungsanlage mit geringerem CO₂-Ausstoss zur Verfügung steht, die für die geplante Anwendung genügt und wirtschaftlich tragbar ist. Bestehende Heizungsanlagen dürfen durch eine gleichartige Heizungsanlage ersetzt werden.
+<sup>1</sup> Neue Wärmeerzeuger mit fossilen Brennstoffen sind zulässig, wenn der Nachweis erbracht wird, dass keine energieeffizienteren Wärmeerzeuger oder Wärmezulieferungen verfügbar sind, die einen geringeren CO<sub>2</sub>-Ausstoss aufweisen, für die geplante Anwendung genügen und wirtschaftlich tragbar sind.
 
 <sup>2</sup> Neue ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung sind nicht zulässig. Davon ausgenommen sind insbesondere Anwendungen für Komfort- und Notheizungen in begrenztem Umfang sowie Heizungen für Gebäude, die nicht regelmässig oder nur speziell genutzt werden oder einen tiefen Heizenergiebedarf aufweisen.
 
-<sup>3</sup> Der Ersatz einer ortsfesten elektrischen Widerstandsheizung mit Wasserverteilsystem durch eine gleichartige Heizungsanlage ist nicht zulässig. Als Ausnahmen gelten insbesondere Anwendungen gemäss Absatz 2 oder wenn ein Ersatz durch eine andere Heizungsanlage wirtschaftlich nicht tragbar ist oder für die Anwendung nicht genügt.
+<sup>3</sup> Der Ersatz einer ortsfesten elektrischen Widerstandsheizung mit Wasserverteilsystem durch einen gleichartigen Wärmeerzeuger ist nicht zulässig. Als Ausnahmen gelten insbesondere Anwendungen gemäss Absatz 2 oder wenn ein Ersatz durch einen anderen Wärmeerzeuger wirtschaftlich nicht tragbar ist oder für die Anwendung nicht genügt.
 
-<sup>4</sup> Es dürfen nur Heizungsanlagen eingebaut werden, die dem Stand der Technik entsprechen.
+<sup>3<sup>bis</sup></sup> Eine ortsfeste elektrische Widerstandsheizung darf nicht als Zusatzheizung eingesetzt werden.
+
+<sup>4</sup> Es dürfen nur Wärmeerzeuger eingebaut werden, die dem Stand der Technik entsprechen.
 
 <sup>5</sup> Der Regierungsrat regelt durch Verordnung die Ausnahmen, wenn die wirtschaftliche Tragbarkeit nicht gegeben ist, sowie die Anforderungen an die Nachweise.
+
+#### § 7a
+
+**Erneuerbare Wärme bei Ersatz des Wärmeerzeugers**
+
+<sup>1</sup> Der Ersatz des Wärmeerzeugers ist meldepflichtig.
+
+<sup>2</sup> Beim Ersatz des Wärmeerzeugers sind bestehende Bauten mit Wohnnutzung so auszurüsten, dass der Anteil an nichterneuerbarer Energie 90 % des massgebenden Bedarfs nicht überschreitet.
+
+<sup>3</sup> Diese Anforderungen werden mit der Umsetzung einer der Standardlösungen oder mit einer Bescheinigung erfüllt, wie sie nachfolgend oder in der Verordnung des Regierungsrats festgelegt sind. Für die Festlegung der Standardlösungen gilt ein massgebender Energiebedarf für Heizung und Warmwasser von 100 kWh pro Quadratmeter Energiebezugsfläche (EBF) und Jahr.
+
+<sup>4</sup> Eine der möglichen Standardlösungen ist die Verwendung von erneuerbaren gasförmigen oder flüssigen Brennstoffen, wenn
+
+- a) im Meldeverfahren und bei Nachkontrollen der Nachweis erbracht wird, dass während einer angenommenen Lebensdauer der Anlage von 20 Jahren ein Mindestanteil erneuerbarer Energie bezogen wird. Der Regierungsrat legt den erforderlichen Mindestanteil nach vorheriger Befragung der Branche durch das zuständige Departement fest. Die Energielieferanten stellen die Überprüfbarkeit der Zertifikate für die im Standardprodukt enthaltenen Anteile erneuerbarer Brennstoffe sicher und geben dem Departement auf Verlangen Einsicht, oder
+- b) im Meldeverfahren Zertifikate über erneuerbare Energie abgegeben werden, die den Nachweis gemäss Absatz 2 für eine angenommene Lebensdauer der Anlage von 20 Jahren periodengerecht erbringen.
+
+<sup>5</sup> Die Anwendung der Standardlösung gemäss Absatz 4 setzt überdies voraus, dass
+
+- a) der Einsatz dieser Brennstoffe unter Berücksichtigung der nationalen Gewichtungsfaktoren soweit anrechenbar ist, als er im Treibhausgasinventar der Schweiz im laufenden oder in den beiden Vorjahren eine Emissionsminderung bewirkt,
+- b) die Zertifizierung durch anerkannte Stellen vorgenommen wird,
+- c) die Bilanzierung von einer anerkannten, zentralen Stelle vorgenommen wird, deren Daten soweit nötig öffentlich über Internet einsehbar sind.
+
+<sup>6</sup> Die Standardlösungen SL1, SL7 bis SL9 und SL11 sind innert drei Jahren ab Erteilung der Bewilligung umzusetzen. Bereits getätigte Massnahmen werden berücksichtigt.
+
+<sup>7</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+
+#### § 7b
+
+**Härtefälle**
+
+<sup>1</sup> Die Behörde kann von der Verpflichtung gemäss § 7a Abs. 2 befreien, wenn eine finanzielle Härte vorliegt; bei ausserordentlichen Verhältnissen kann sie ausserdem eine Ersatzlösung zulassen.
+
+<sup>2</sup> Eine finanzielle Härte liegt vor, wenn für die Umsetzung von § 7a Abs. 2 eigene Mittel fehlen.
+
+<sup>3</sup> Wer ausserordentliche Verhältnisse geltend macht, muss nachweisen, dass eine Umsetzung in allen zulässigen Varianten technisch nicht möglich, wirtschaftlich nicht zumutbar oder nach den Gesamtumständen unverhältnismässig ist.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten und die Befreiung in Bagatellfällen durch Verordnung.
+
+#### § 7c
+
+**Pflicht zur Erstellung eines GEAK Plus**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer bestehender Bauten mit zentralen ortsfesten elektrischen Widerstandsheizungen oder solchen, die dezentral sind und kein Wasserverteilsystem aufweisen, lassen innerhalb von 5 Jahren nach Inkrafttreten dieser Bestimmung[^7c-1] einen GEAK Plus erarbeiten, der namentlich aufzeigt, wie sich die Heizungen ersetzen lassen.
+
+<sup>2</sup> Bauten, für die ein GEAK Plus nicht erstellt werden kann, sowie Bauten gemäss § 7 Abs. 2 sind von dieser Verpflichtung befreit.
+
+[^7c-1]: Inkrafttreten: 1. April 2025
 
 #### § 8
 
@@ -178,6 +256,12 @@ beschliesst:
 <sup>2</sup> Kanton und Gemeinden berücksichtigen bei der Beschaffung der Energie insbesondere erneuerbare Energiequellen und neue Nutzungsarten von Energie sowie neue technische Verfahren zur Erhöhung der Energieeffizienz und Energierückgewinnung.
 
 <sup>3</sup> Werden bei vom Kanton subventionierten Bauten und Anlagen zweckmässige Massnahmen getroffen, die über die Anforderungen dieses Gesetzes hinausgehen, dürfen die damit zusammenhängenden Mehrkosten nicht zu Subventionskürzungen führen.
+
+#### § 11a
+
+**Pilotprojekte**
+
+<sup>1</sup> Der Regierungsrat ist befugt, in einem begrenzten Perimeter Abweichungen von den §§ 4–11 zuzulassen, um unter Beachtung der Versorgungssicherheit neue Lösungen zu testen, die den CO<sub>2</sub>-Ausstoss ebenso oder stärker reduzieren.
 
 ## 3. Energieeffizienz in der Mobilität
 
@@ -412,11 +496,21 @@ beschliesst:
 
 <sup>2</sup> Zuständigkeit und Verfahren in den Gemeinden richten sich nach den Vorschriften der Baugesetzgebung.
 
+#### § 31a
+
+**Zuständigkeit des Departements**
+
+<sup>1</sup> Das zuständige Departement kann mit Stichproben in Unterstützung des behördlichen Vollzugs durch den Gemeinderat die Einhaltung der Vorschriften überprüfen.
+
 #### § 32
 
 **Zuständigkeit des Regierungsrats**
 
 <sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen durch Verordnung.
+
+<sup>2</sup> Er bestimmt, welche Energieerzeugungsanlagen auf einer vom Kanton bestimmten Plattform einzutragen sind. Die Daten dürfen vom Kanton für statistische Zwecke und von der Gemeinde für ihre Vollzugsaufgaben verwendet werden.
+
+<sup>3</sup> Er regelt die Einzelheiten durch Verordnung.
 
 #### § 33
 
@@ -438,6 +532,10 @@ beschliesst:
 
 <sup>1</sup> Bei ausserordentlichen Verhältnissen, insbesondere bei unzumutbarer Härte, kann die zuständige Behörde Ausnahmen von den Vorschriften dieses Gesetzes oder seinen Ausführungsbestimmungen zulassen.
 
+<sup>2</sup> Die Ausnahmebewilligung kann mit Bedingungen und Auflagen verknüpft und befristet werden.
+
+<sup>3</sup> Das Gesuch um Erteilung einer Ausnahmebewilligung hat den Kriterien der zuständigen Behörde zu entsprechen. Von den Gesuchstellenden kann namentlich die Einreichung spezieller Nachweise (Denkmalpflege, Bauphysik usw.) verlangt werden.
+
 ## 11. Übergangs- und Schlussbestimmungen
 
 #### § 35
@@ -450,7 +548,8 @@ beschliesst:
 
 <sup>1</sup> Mit Busse bis Fr. 50'000.– wird bestraft, wer
 
-- a) Vorschriften über Energiebedarf und Raumlufthygiene von Bauten und Anlagen verletzt (§ 4),
+- a) Vorschriften über Energiebedarf und Raumlufthygiene von Bauten und Anlagen verletzt (§§ 4 und 4a),
+- a<sup>bis</sup>) die Meldepflichten und die weiteren Pflichten gemäss den §§ 4b, 7a, 7c und 32 Abs. 2 verletzt,
 - b) Vorschriften über die Erfassung des Wärmeverbrauchs verletzt (§ 6),
 - c) Vorschriften über die Zulässigkeit von Heizungen und Elektrizitätserzeugungsanlagen verletzt (§§ 7–9 sowie 17),
 - d) Verpflichtungen der Grossverbraucher betreffend Energieverbrauch verletzt (§ 10),
@@ -498,6 +597,8 @@ beschliesst:
 
 <sup>1</sup> Solange der Kanton über die Mehrheit der Aktienstimmen der AEW Energie AG verfügt und die Netzgebietszuweisung gemäss § 23 Abs. 1 und die Erteilung der Leistungsaufträge gemäss § 25 nicht rechtskräftig erfolgt sind, wird ein Leistungsauftrag für die AEW Energie AG durch Dekret festgelegt.
 
+<sup>2</sup> Baugesuche, die im Zeitpunkt des Inkrafttretens der Änderung vom 23. April 2024 hängig sind, werden nach bisherigem Recht beurteilt.
+
 #### § 40
 
 **Publikation und Inkrafttreten**
@@ -524,4 +625,4 @@ i.V. Ommerli
 
 ## Weitere Fussnoten
 
-- [3] SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
+- [4] SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
