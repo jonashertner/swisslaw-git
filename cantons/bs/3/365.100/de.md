@@ -4,13 +4,12 @@ number: "365.100"
 title: Gesetz betreffend das Halten von Hunden
 short: Hundegesetz
 language: de
-version: 2020-07-01
-valid_until: 2025-03-31
-version_adopted: 2019-02-13
+version: 2025-04-01
+version_adopted: 2024-06-05
 adopted: 2006-12-14
 in_force: 2007-02-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/365.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4913/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Hundegesetz | Tierhaltung und Tierschutz
 
 (Hundegesetz)
 
-Vom 14. Dezember 2006 (Stand 1. Juli 2020)
+Vom 14. Dezember 2006 (Stand 1. April 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -48,6 +47,14 @@ beschliesst:
 <sup>3</sup> Hundehalterinnen und Hundehalter sind zur Beseitigung des Kots ihrer Hunde auf öffentlichem Grund und Boden sowie auf landwirtschaftlich genutzten Bodenflächen verpflichtet.
 
 <sup>4</sup> Hundehalterinnen und Hundehalter müssen für ihren Hund eine Haftpflichtversicherung abschliessen. Die Versicherung für einen potentiell gefährlichen Hund muss die mit der Haltung eines solchen Hundes verbundenen besonderen Risiken sowohl betreffend die Halterin oder den Halter als auch derjenigen Person, die den Hund tatsächlich beaufsichtigt, ausdrücklich abdecken.
+
+#### § 2a
+
+**Hundehalterausbildung**
+
+<sup>1</sup> Wer erstmals einen Hund hält, muss innerhalb eines Jahres nach dessen Erwerb eine praktische Ausbildung nachweisen.
+
+<sup>2</sup> Der Regierungsrat regelt Art und Umfang der praktischen Ausbildung sowie deren Ausnahmen.
 
 #### § 3
 
