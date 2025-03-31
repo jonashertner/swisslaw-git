@@ -4,13 +4,12 @@ number: 958a
 title: Verordnung über das Sammeln von Gaben und den Verkauf von Abzeichen
 short: Sammelverordnung
 language: de
-version: 2016-08-01
-valid_until: 2025-03-31
-version_adopted: 2016-05-24
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 1981-03-23
 in_force: 1981-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/958a"
-pdf: "https://srl.lu.ch/api/de/versions/2867/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2867/pdf_file"
 
 (Sammelverordnung)
 
-vom 23.03.1981 (Stand 01.08.2016)
+vom 23.03.1981 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -46,7 +45,8 @@ beschliesst:
 <sup>1</sup> Keiner Bewilligungspflicht unterstehen:
 
 - a. Sammlungen unter den Mitgliedern von Vereinen und andern rechtlich organisierten Personengemeinschaften sowie kirchliche Kollekten unter den Angehörigen einer Konfession,
-- b. Sammlungen in geschlossener Gesellschaft.
+- b. Sammlungen in geschlossener Gesellschaft,
+- c. Sammlungen einer natürlichen Person zur Bestreitung des Lebensunterhalts (Betteln).
 
 #### § 3
 
@@ -82,7 +82,7 @@ beschliesst:
 
 <sup>2</sup> Die Sammelbewilligung schliesst andere notwendige Bewilligungen, insbesondere die ausserordentliche Wirtschaftsbewilligung, nicht ein.
 
-<sup>3</sup> Die Bewilligungsinstanz kann weitere Unterlagen über die Organisation und zur Person der Verantwortlichen wie Auszug aus dem Zentralstrafregister, Leumundszeugnis usw. verlangen.
+<sup>3</sup> Die Bewilligungsinstanz kann weitere Unterlagen über die Organisation und zur verantwortlichen Person wie Strafregisterauszug, Betreibungsregisterauszug usw. verlangen.
 
 <sup>4</sup> Die Gemeinden können eine abweichende Verfahrensregelung treffen.
 
@@ -92,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Die Sammelbewilligung ist zu verweigern, wenn:
 
-- a. eine natürliche Person für ihren Lebensunterhalt sammeln will, ohne eine Gegenleistung zu erbringen (Bettel),
+- a. …
 - b. die Verantwortlichen nicht Gewähr bieten für die korrekte Durchführung der Sammlung oder die bestimmungsgemässe Verwendung des Ertrages,
 - c. zu erwarten ist, dass die Unkosten der Sammlung in einem Missverhältnis zum Ertrag stehen werden,
 - d. Zweck oder Durchführung der Sammlung gegen die öffentliche Ordnung verstösst oder wegen der Sammlung eine Störung der öffentlichen Ordnung zu erwarten ist,
@@ -118,13 +118,13 @@ beschliesst:
 - b. in unanständiger oder aufdringlicher Weise gesammelt wird,
 - c. die Auflagen und Bedingungen der Bewilligung nicht eingehalten werden.
 
-<sup>2</sup> Bei einem Bewilligungsentzug kann das Sammelergebnis von der Bewilligungsinstanz eingezogen werden. Das eingezogene Sammelergebnis ist in der Regel den Spendern zurückzuerstatten. Sofern die Rückerstattung nicht mehr möglich ist oder die Kosten der Rückerstattung in keinem tragbaren Verhältnis zu den Spenden stehen würden, ist der Ertrag für gemeinnützige Zwecke zu verwenden.
+<sup>2</sup> Bei einem Bewilligungsentzug kann das Sammelergebnis von der Bewilligungsinstanz eingezogen werden. Das eingezogene Sammelergebnis ist in der Regel den Spenderinnen und Spendern zurückzuerstatten. Sofern die Rückerstattung nicht mehr möglich ist oder die Kosten der Rückerstattung in keinem tragbaren Verhältnis zu den Spenden stehen würden, ist der Ertrag für gemeinnützige Zwecke zu verwenden.
 
 #### § 9
 
 **Kontrollen**
 
-<sup>1</sup> Die Bewilligungsinhaber haben der Bewilligungsinstanz auf deren Ersuchen Einsicht in die Sammelakten und Aufschluss über das Sammelergebnis und dessen Verwendung zu geben.
+<sup>1</sup> Die Inhaberinnen und Inhaber der Sammelbewilligung haben der Bewilligungsinstanz auf deren Ersuchen Einsicht in die Sammelakten und Aufschluss über das Sammelergebnis und dessen Verwendung zu geben.
 
 #### § 10
 
@@ -136,7 +136,7 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide der Bewilligungsinstanz kann beim Regierungsrat Verwaltungsbeschwerde geführt werden.
+<sup>1</sup> Gegen Entscheide der Bewilligungsinstanz kann beim Justiz- und Sicherheitsdepartement Verwaltungsbeschwerde geführt werden.
 
 #### § 12
 
