@@ -4,11 +4,10 @@ number: "740.35"
 title: Fahrplanverfahrensverordnung (FVV)
 short: FVV
 language: de
-version: "2010-07-01"
-nachtrag: "69"
-valid_until: 2025-04-01
+version: "2025-04-01"
+nachtrag: "128"
 adopted: 1997-10-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-740_35-1997_10_15-1997_11_01-069.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-740_35-1997_10_15-1997_11_01-128.html"
 text: pdf
 ---
 
@@ -24,7 +23,7 @@ gestützt auf § 19 des Gesetzes über den öffentlichen Personenverkehr vom 6. 
 
 beschliesst:
 
-[^t-1]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 295; ABl 2010, 1127). In Kraft seit 1. Juli 2010. 1. 7. 10 - 69 5
+[^t-1]: Fassung gemäss RRB vom 19. Mai 2010 (OS 65, 295; ABl 2010, 1127). In Kraft seit 1. Juli 2010.
 [^t-2]: OS 54, 376.
 [^t-3]: LS 740.1.
 
@@ -46,11 +45,13 @@ Diese Verordnung bezweckt a. die Berücksichtigung der Interessen der Gemeinden,
 
 - b. eine Koordination mit den Nachbarkantonen.
 
+[^2-1]: Fassung gemäss RRB vom 15. Januar 2025 (OS 80, 71; ABl 2025-01-31). In Kraft seit 1. April 2025. 1. 4. 25 - 128 5
+
 #### § 3
 
 **Fahrplanperiode**
 
-<sup>1</sup> Die Fahrplanperiode wird durch den Bund bestimmt.
+<sup>1</sup> Der Verkehrsverbund legt die Fahrplanperiode fest. Sie umfasst in der Regel zwei Jahre.[^2-1]
 
 <sup>2</sup> Nach dem ersten Fahrplanjahr kann der Verkehrsverbund notwendige Fahrplananpassungen vornehmen.
 
@@ -64,7 +65,7 @@ Der Verkehrsverbund setzt die Fristen und organisatorischen Einzelheiten für da
 
 **1**
 
-- 1\. 7. 10 - 69
+- 1\. 4. 25 - 128
 
 ### II. Zuständigkeiten
 
@@ -156,7 +157,7 @@ Der Verkehrsverbund setzt die Fristen und organisatorischen Einzelheiten für da
 
 **3**
 
-- 1\. 7. 10 - 69 § 12. Der Verkehrsverbund legt, im Rahmen der Grundsätze des Kantonsrates über die Tarifordnung und die mittel- und langfristige Entwicklung des Angebots, in Absprache mit den marktverantwortlichen Transportunternehmen die strategischen und finanziellen Vorgaben für das Fahrplanverfahren in den einzelnen Marktgebieten fest.
+- 1\. 4. 25 - 128 § 12. Der Verkehrsverbund legt, im Rahmen der Grundsätze des Kantonsrates über die Tarifordnung und die mittel- und langfristige Entwicklung des Angebots, in Absprache mit den marktverantwortlichen Transportunternehmen die strategischen und finanziellen Vorgaben für das Fahrplanverfahren in den einzelnen Marktgebieten fest.
 
 #### § 13
 
