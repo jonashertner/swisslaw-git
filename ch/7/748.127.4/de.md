@@ -4,20 +4,20 @@ title: Verordnung des UVEK vom 19. März 2004 über Luftfahrzeug-Instandhaltungs
 short: VLIb
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/206"
 language: de
-version: 2008-08-01
+version: 2025-04-01
 adopted: 2004-03-19
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/206/20080801/de/xml/fedlex-data-admin-ch-eli-cc-2004-206-20080801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/206/20080801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/206/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2004-206-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/206/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über Luftfahrzeug-Instandhaltungsbetriebe
 
-(VLIb)**[^t-1]**
+(VLIb)[^t-1]
 
-vom 19. März 2004 (Stand am 1. August 2008)
+vom 19. März 2004 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
 
@@ -40,26 +40,32 @@ verordnet:
 
 <sup>2</sup>
 
-Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^1-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) eine der folgenden EG-Verordnungen in der für die Schweiz jeweils verbindlichen Fassung anwendbar ist:
+Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^1-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) eine der folgenden EU‑Verordnungen in der für die Schweiz jeweils verbindlichen Fassung[^1-4] anwendbar ist:
 
-- a. Verordnung (EG) Nr. 1592/2002;
-- b. Verordnung (EG) Nr. 2042/2003.
+- a. Verordnung (EU) 2018/1139[^1-5];
+- b. Verordnung (EU) Nr. 1321/2014[^1-6].[^1-7]
 
 <sup>3</sup> Sie gilt für Unternehmen, die in der Schweiz Instandhaltungsarbeiten an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen durchführen oder bescheinigen, und für schweizerische Unternehmen dieser Art auf dem Flughafen Basel-Mülhausen.
 
 <sup>4</sup>
 
-Soweit nicht strengere ausländische Vorschriften anwendbar sind, gilt die Verordnung sinngemäss auch für schweizerische Unternehmen, die Instandhaltungsarbeiten durchführen oder bescheinigen:
+Soweit nicht ausländische Vorschriften anwendbar sind, gilt die Verordnung sinngemäss auch für schweizerische Unternehmen, die Instandhaltungsarbeiten durchführen oder bescheinigen:[^1-8]
 
 - a. in der Schweiz an ausländischen Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen;
-- b. im Ausland an schweizerischen Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen;
+- b.[^1-9] …
 - c. im Ausland an ausländischen Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen.
 
 <sup>5</sup> Zwischenstaatliche Vereinbarungen über die Instandhaltung von Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen bleiben vorbehalten.
 
 [^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
 [^1-2]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
-[^1-3]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch ).
+[^1-3]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^1-4]: Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](https://www.bazl.admin.ch/bazl/de/home.html)).
+[^1-5]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates.
+[^1-6]: Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen, die diese Tätigkeiten ausführen.
+[^1-7]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^1-8]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^1-9]: Aufgehoben durch Ziff. I der V des UVEK vom 26. Febr. 2025, mit Wirkung seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 2
 
@@ -69,28 +75,24 @@ Soweit nicht strengere ausländische Vorschriften anwendbar sind, gilt die Veror
 
 #### Art. 3
 
-**Begriffe**
+**Begriffe**[^3-1]
 
 In dieser Verordnung bedeuten:
 
-- a. *Instandhaltungs**b**e**trieb*[^3-1]*:* ein für die Durchführung von Luftfahrzeug-Instandhaltungsarbeiten[^3-2] zugelassenes Unternehmen;
-- b. *Verantwortlicher Geschäftsführer:* im Luftfahrzeug- Instandhaltungsbetrieb mit umfassender Weisungsbefugnis versehene Person, die auch über die Mittel verfügen kann, um alle zur Durchführung der vorgesehenen Instandhaltungsarbeiten notwendigen Anschaffungen finanzieren und die Instandhaltungsarbeiten nach den behördlich geforderten Normen durchführen zu können;
-- c.[^3-3] *freigabeberechtigte Person:* Person, die vom Bundesamt für Zivilluftfahrt (BAZL) nach der Verordnung vom 25. August 2000[^3-4] über das Luftfahrzeug-Instandhaltungspersonal (VLIp) oder nach dem Anhang III der Verordnung (EG) Nr. 2042/2003[^3-5] ermächtigt worden ist, Freigabebescheinigungen auszustellen;
-- d. *Instandhaltungsbetriebshandbuch*[^3-6]*:*zusammengestellte Unterlagen, in denen der Instandhaltungsbetrieb seine Organisation, Verfahren und die Durchführung, Überwachung und Bescheinigung von Instandhaltungsarbeiten regelt;
-- e. *Instandhaltungsaufzeichnungen*[^3-7]*:*Unterlagen wie Technische Akten, Arbeitsberichte, Freigabebescheinigungen[^3-8], Prüfberichte oder Prüfnachweise;
-- f.[^3-9] *Instandhaltungsarbeiten*: Kontroll-, Überholungs‑, Änderungs-, Austausch- und Reparaturarbeiten an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen.
+- a. *Instandhaltungsbetrieb:* ein für die Durchführung von Luftfahrzeug-Instandhaltungsarbeiten zugelassenes Unternehmen;
+- b. *verantwortliche Geschäftsführerin oder verantwortlicher Geschäftsführer:* im Luftfahrzeug- Instandhaltungsbetrieb mit umfassender Weisungsbefugnis versehene Person, die auch über die Mittel verfügen kann, um alle zur Durchführung der vorgesehenen Instandhaltungsarbeiten notwendigen Anschaffungen finanzieren und die Instandhaltungsarbeiten nach den behördlich geforderten Normen durchführen zu können;
+- c. *freigabeberechtigte Person:* Person, die vom Bundesamt für Zivilluftfahrt (BAZL) nach der Verordnung vom 25. August 2000[^3-2] über das Luftfahrzeug-Instandhaltungspersonal (VLIp) oder nach dem Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014[^3-3] ermächtigt worden ist, Freigabebescheinigungen auszustellen;
+- d. *Instandhaltungsbetriebshandbuch:* zusammengestellte Unterlagen, in denen der Instandhaltungsbetrieb seine Organisation, Verfahren und die Durchführung, Überwachung und Bescheinigung von Instandhaltungsarbeiten regelt;
+- e. *Instandhaltungsaufzeichnungen:* Unterlagen wie Technische Akten, Arbeitsberichte, Freigabebescheinigungen, Prüfberichte oder Prüfnachweise;
+- f. *Instandhaltungsarbeiten*: Kontroll-, Überholungs‑, Änderungs-, Austausch- und Reparaturarbeiten an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen mit Ausnahme von Vorflugkontrollen gemäss Flughandbuch;
+- g. *menschliche Faktoren:* Prinzipien, die für den Flugzeugbau, die Zulassung, die Schulung, den Betrieb und die Instandhaltung in der Luftfahrt gelten und die auf eine sichere Wechselbeziehung zwischen menschlichen und anderen Systembestandteilen bei angemessener Berücksichtigung der menschlichen Leistung abzielen;
+- h. *menschliches Leistungsvermögen:* menschliche Fähigkeiten und Grenzen, die Einfluss auf die Sicherheit und die Effizienz von Vorgängen in der Luftfahrt haben.
 
-[^3-1]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-2]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-3]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^3-4]: [SR 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^3-5]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^3-6]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-7]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-8]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^3-9]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^3-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^3-2]: [SR 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+[^3-3]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
-## 2. Abschnitt: Instandhaltungsbetriebsausweis****
+## 2. Abschnitt: Instandhaltungsbetriebsausweis
 
 [^sec2-1]
 
@@ -128,9 +130,15 @@ Das BAZL kann auf begründetes Gesuch hin einen Instandhaltungsbetrieb von der E
 
 #### Art. 8
 
-**Gesuch**
+**Gesuch und nationaler Anhang**[^8-1]
 
-Das Gesuch um Erteilung eines Instandhaltungsbetriebsausweises ist dem BAZL auf den dafür vorgesehenen Formularen zusammen mit den vollständigen Unterlagen spätestens drei Monate vor der geplanten Betriebsaufnahme einzureichen.
+<sup>1</sup> Das Gesuch um Erteilung eines Instandhaltungsbetriebsausweises ist dem BAZL zusammen mit den vollständigen Unterlagen nach Artikel 9 spätestens zwei Monate vor der Betriebsprüfung einzureichen. Im Gesuch ist anzugeben, für welche Tätigkeitsgebiete der Ausweis beantragt wird. Die Unterlagen sind in einer Amtssprache oder in Englisch zu verfassen.
+
+<sup>2</sup> Schweizerische Betriebe, die bereits im Besitz einer Genehmigung als Instandhaltungsbetrieb nach Anhang II (Teil 145) bzw. Anhang Vd (Teil CAO) der Verordnung (EU) Nr. 1321/2014[^8-2] sind, müssen anstatt der Nachweise und Unterlagen nach Artikel 9 einen nationalen Anhang zum genehmigten Instandhaltungsbetriebshandbuch einreichen. Darin sind die Unterschiede zwischen der Instandhaltung an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen, die nach der VLL[^8-3] zugelassen sind, und solchen, die vom Geltungsbereich der Verordnung (EU) 2018/1139 erfasst sind, zu beschreiben. Das BAZL kann in Form einer Technischen Mitteilung nach Artikel 25 Richtlinien erlassen.
+
+[^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^8-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^8-3]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 #### Art. 9
 
@@ -155,7 +163,7 @@ Der Gesuchsteller hat nachzuweisen, dass:
 
 <sup>2</sup> Das Instandhaltungsbetriebshandbuch muss die Angaben und Verfahren nach Anhang 1 enthalten. Das BAZL kann den Anhang 1 ändern. Für die Form und den Aufbau des Instandhaltungsbetriebshandbuches erlässt das BAZL Richtlinien.
 
-<sup>3</sup> ... [^10-1]
+<sup>3</sup> …[^10-1]
 
 <sup>4</sup> Das Instandhaltungsbetriebshandbuch oder massgebliche Teile davon müssen den Personen, die im Instandhaltungsbetriebshandbuch aufgeführt sind, zugänglich sein. Der Instandhaltungsbetrieb hat dafür zu sorgen, dass das Instandhaltungsbetriebshandbuch stets nachgeführt ist.
 
@@ -168,77 +176,73 @@ Der Gesuchsteller hat nachzuweisen, dass:
 
 #### Art. 11
 
-**Räumlichkeiten**
+**Räumlichkeiten und Zutrittsberechtigung**[^11-1]
 
-<sup>1</sup> Der Instandhaltungsbetrieb muss für alle vorgesehenen Arbeiten über geeignete Räumlichkeiten und Anlagen verfügen. Diese müssen insbesondere die für die auszuführenden Arbeiten erforderlichen Arbeitsbedingungen sowie Schutz vor Witterungseinflüssen und Arbeitsplatzverunreinigungen bieten.
+<sup>1</sup> Der Instandhaltungsbetrieb muss für alle vorgesehenen Arbeiten über geeignete Räumlichkeiten und Anlagen verfügen. Diese müssen insbesondere die für die auszuführenden Arbeiten erforderlichen Arbeitsbedingungen sowie Schutz vor Witterungseinflüssen, Lärm und Arbeitsplatzverunreinigungen bieten.
 
 <sup>2</sup> Für die Planung und die Leitung der vorgesehenen Arbeiten sowie für die Verwaltung von Instandhaltungsaufzeichnungen müssen geeignete Büroräumlichkeiten zur Verfügung stehen.
 
 <sup>3</sup> Die Arbeitsplatzgestaltung hat auf die Besonderheiten der durchzuführenden Arbeiten Rücksicht zu nehmen.
 
-<sup>4</sup> Triebwerke, Propeller, Luftfahrzeugteile, Ausrüstungen sowie Werkzeuge, Material und Prüfgeräte sind in geeigneten Räumen zu lagern.[^11-1] Verwendbare Teile sind von nicht verwendbaren getrennt aufzubewahren. Durch die Lagerung dürfen die Teile weder beschädigt noch sonst in ihrer Qualität beeinträchtigt werden.
+<sup>4</sup> Triebwerke, Propeller, Luftfahrzeugteile, Ausrüstungen sowie Werkzeuge, Material und Prüfgeräte sind unter Berücksichtigung der Herstellerangaben in geeigneten Räumen zu lagern. Verwendbare Teile sind von nicht verwendbaren getrennt aufzubewahren. Durch die Lagerung dürfen die Teile weder beschädigt noch sonst in ihrer Qualität beeinträchtigt werden.
 
-[^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+<sup>5</sup> Die Zutrittsberechtigung zu den Lager- und Werkzeugeinrichtungen ist auf befugtes Personal zu beschränken.
+
+[^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 12
 
-**Personal**
+**Personal**[^12-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Instandhaltungsbetrieb muss eine verantwortliche Geschäftsführerin oder einen verantwortlichen Geschäftsführer ernennen.
 
-Dem BAZL sind zur Genehmigung zu melden:
-
-- a. ein vom Gesuchsteller als geeignet erachteter verantwortlicher Geschäftsführer;
-- b. die dem verantwortlichen Geschäftsführer unterstellten leitenden Personen.
-
-<sup>2</sup> Diese Personen sind nach Massgabe des Instandhaltungsbetriebshandbuches für die Einhaltung der Vorschriften dieser Verordnung verantwortlich.
+<sup>2</sup> Die ihm unterstellten leitenden Personen sind dem BAZL zur Genehmigung zu melden. Sie sind nach Massgabe des Instandhaltungsbetriebshandbuches und wo anwendbar des nationalen Anhanges für die Einhaltung der Vorschriften dieser Verordnung verantwortlich.
 
 <sup>3</sup> Der Instandhaltungsbetrieb muss genügend Personal beschäftigen, um die vorgesehenen oder vertraglich zugesicherten Arbeiten planen, durchführen, überwachen und überprüfen zu können. Bei über die Planung hinausreichendem Arbeitsaufwand kann der Betrieb vorübergehend zusätzliches Personal einsetzen, welches jedoch keine Freigabebescheinigungen ausstellen darf; Absatz 7 bleibt vorbehalten.
 
-<sup>4</sup> Ein angemessener Anteil des betriebseigenen Instandhaltungspersonals muss gemäss der VLIp[^12-1] oder gemäss Anhang III der Verordnung (EG) Nr. 2042/2003[^12-2] berechtigt sein, Freigabebescheinigungen auszustellen. Das BAZL kann die Anzahl der freigabeberechtigten Personen unter Berücksichtigung der vorgesehenen Instandhaltungsarbeiten im Einzelfall festlegen.[^12-3]
+<sup>4</sup> Ein angemessener Anteil des betriebseigenen Instandhaltungspersonals muss gemäss der VLIp[^12-2], gemäss Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014[^12-3] oder aufgrund einer Ermächtigung nach den Anhängen der VLL[^12-4] für die Unterkategorien der Sonderkategorie berechtigt sein, Freigabebescheinigungen auszustellen. Das BAZL kann die Anzahl der freigabeberechtigten Personen unter Berücksichtigung der vorgesehenen Instandhaltungsarbeiten im Einzelfall festlegen.
 
 <sup>5</sup>
 
 Instandhaltungsbetriebe, die Instandhaltungsarbeiten an Luftfahrzeugen, ausgenommen an Segelflugzeugen, Ballonen sowie Segelflugzeugen mit Klapptriebwerk, durchführen und bescheinigen, müssen über mindestens eine Person verfügen, die:
 
-- a. geeignete Lizenzträgerin nach Anhang III der Verordnung (EG) Nr. 2042/2003 oder nach Artikel 20 VLIp ist;
+- a. geeignete Lizenzträgerin nach Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014 oder nach Artikel 20 VLIp ist;
 - b. mindestens drei Jahre Trägerin der Lizenz ist;
 - c. die entsprechenden Tätigkeiten in den letzten zwei Jahren ausgeübt hat;
-- d. vollzeitlich beschäftigt ist;
+- d. beim Instandhaltungsbetrieb fest angestellt ist;
 - e.
 
   über Kenntnisse verfügt über:
 
-  - 1\. die Anwendung der Instandhaltungsunterlagen[^12-4] für die Durchführung von komplexen Instandhaltungsarbeiten,
+  - 1\. die Anwendung der Instandhaltungsunterlagen für die Durchführung von komplexen Instandhaltungsarbeiten,
   - 2\. Verfahren, mit denen bei komplexen Instandhaltungsarbeiten die Einhaltung der Lufttüchtigkeitsanforderungen geprüft werden,
-  - 3\. administrative Arbeiten, insbesondere das Erstellen oder Auswerten von Kontrollflugrapporten, das Führen von technischen Akten sowie das Abfassen von Arbeits- und Wägungsberichten.[^12-5]
+  - 3\. administrative Arbeiten, insbesondere das Erstellen oder Auswerten von Kontrollflugrapporten, das Führen von technischen Akten sowie das Abfassen von Arbeits- und Wägungsberichten.
 
 <sup>6</sup>
 
 Der Instandhaltungsbetrieb muss:
 
-- a. Aufzeichnungen über die freigabeberechtigten[^12-6] Personen führen, welche Einzelheiten zum Umfang der Berechtigungen enthalten;
+- a. Aufzeichnungen über die freigabeberechtigten Personen führen, welche Einzelheiten zum Umfang der Berechtigungen enthalten;
 - b. eine Kopie der Aufzeichnungen über die freigabeberechtigten Personen während zweier Jahre nach Beendigung des Arbeitsverhältnisses oder Aufgabe der entsprechenden Tätigkeit aufbewahren.
 
-<sup>7</sup> Er kann für fachspezifische Instandhaltungsarbeiten externe Fachspezialisten nach Artikel 6 VLIp beiziehen.
+<sup>7</sup> Er kann für fachspezifische Instandhaltungsarbeiten externe Fachspezialistinnen oder Fachspezialisten nach Artikel 6 VLIp beiziehen.
 
-[^12-1]: [SR 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^12-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^12-3]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^12-4]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^12-5]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^12-6]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+<sup>8</sup> Der Instandhaltungsbetrieb muss dafür sorgen, dass die in Absatz 1 und 2 genannten Personen und das Instandhaltungspersonal alle zwei Jahre Schulungen zu den Themen «Menschliche Faktoren» und «Menschliches Leistungsvermögen» absolvieren.
+
+[^12-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^12-2]: [SR 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+[^12-3]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^12-4]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 #### Art. 13
 
-**Werkzeuge, Material und Prüfgeräte[^13-1]**
+**Werkzeuge, Material sowie Prüf- und Messmittel**[^13-1]
 
-<sup>1</sup> Der Instandhaltungsbetrieb muss zum Zeitpunkt der Ausführung der Instandhaltungsarbeiten über die notwendigen Werkzeuge, das erforderliche Material und die erforderlichen Prüfgeräte verfügen.[^13-2]
+<sup>1</sup> Der Instandhaltungsbetrieb muss zum Zeitpunkt der Ausführung der Instandhaltungsarbeiten über die notwendigen Werkzeuge, das erforderliche Material und die erforderlichen Prüf- und Messmittel verfügen.
 
-<sup>2</sup> Prüfgeräte sind regelmässig nach den vom BAZL anerkannten Normen zu kontrollieren oder zu eichen. Über die Kontrollen und die dabei verwendeten Normen hat der Instandhaltungsbetrieb Aufzeichnungen zu führen.
+<sup>2</sup> Prüf- und Messmittel sind regelmässig nach Herstellerangaben, oder falls nicht vorhanden, nach den vom BAZL anerkannten Normen zu kontrollieren oder zu kalibrieren. Über die Kontrollen und die dabei verwendeten Normen hat der Instandhaltungsbetrieb Aufzeichnungen zu führen. Die Aufzeichnungen müssen auf die Serial- oder Inventarnummer des Prüf- oder Messmittels referenzieren.
 
-[^13-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^13-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^13-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 14
 
@@ -272,19 +276,18 @@ Der Instandhaltungsbetrieb muss:
 
 #### Art. 16
 
-**Instandhaltungsbetriebsausweis**
+**Instandhaltungsbetriebsausweis**[^16-1]
 
-<sup>1</sup> Sind alle Voraussetzungen erfüllt, erteilt das BAZL dem Gesuchsteller den Instandhaltungsbetriebsausweis, auf dem in Übereinstimmung mit dem Instandhaltungsbetriebshandbuch das oder die zulässigen Tätigkeitsgebiete eingetragen sind.
+<sup>1</sup> Sind alle Voraussetzungen erfüllt, erteilt das BAZL dem Gesuchsteller den Instandhaltungsbetriebsausweis, auf dem in Übereinstimmung mit dem Instandhaltungsbetriebshandbuch das zulässige Tätigkeitsgebiet oder die zulässigen Tätigkeitsgebiete eingetragen sind.
 
-<sup>2</sup> Der Instandhaltungsbetriebsausweis ist unbeschränkt gültig. In besonderen Fällen kann das BAZL eine Gültigkeitsdauer festlegen.[^16-1]
+<sup>2</sup> Bei Betrieben, die bereits im Besitz einer Genehmigung als Instandhaltungsbetrieb nach Anhang II (Teil 145) bzw. Anhang Vd (Teil CAO) der Verordnung (EU) Nr. 1321/2014[^16-2] sind, gilt der nationale Anhang gemäss Artikel 8 Absatz 2 als Instandhaltungsbetriebsausweis. Für welche Tätigkeitsgebiete der Ausweis gilt, wird in diesen Fällen im nationalen Anhang festgelegt. Das BAZL kann in den Technischen Mitteilungen nach Artikel 25 Richtlinien erlassen.
 
-<sup>3</sup> Das BAZL führt in jedem Betrieb mindestens alle 24 Monate eine Betriebsprüfung im Sinne von Artikel 15 durch, um die Einhaltung der Vorschriften zu überprüfen.[^16-2]
+<sup>3</sup> Der Instandhaltungsbetriebsausweis ist unbeschränkt gültig. In besonderen Fällen kann das BAZL eine Gültigkeitsdauer festlegen.
 
-<sup>4</sup> ... [^16-3]
+<sup>4</sup> Das BAZL führt in Betrieben gemäss Absatz 1 mindestens alle 24 Monate eine Betriebsprüfung nach Artikel 15 durch, um die Einhaltung der Vorschriften zu überprüfen. Bei Betrieben gemäss Absatz 2 richtet sich das Intervall nach den Vorgaben der Verordnung (EU) Nr. 1321/2014.
 
-[^16-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^16-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^16-3]: Aufgehoben durch Ziff. I der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^16-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^16-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 17
 
@@ -298,13 +301,17 @@ Der Instandhaltungsbetrieb muss:
 
 **Änderungen im Instandhaltungsbetrieb**
 
-<sup>1</sup> Grundlegende Änderungen wie die Änderung der Firmenbezeichnung, Betriebsverlegungen, die Eröffnung oder Schliessung von Zweigniederlassungen, der Wechsel des verantwortlichen Geschäftsführers oder der leitenden Personen sowie Änderungen bezüglich Betriebsstätten, Verfahren, Tätigkeitsgebiete und freigabeberechtigte Personen sind dem BAZL unverzüglich zu melden und bedürfen seiner Genehmigung.
+<sup>1</sup> Grundlegende Änderungen wie die Änderung der Firmenbezeichnung, Betriebsverlegungen, die Eröffnung oder Schliessung von Zweigniederlassungen, der Wechsel der verantwortlichen Geschäftsführerin oder des verantwortlichen Geschäftsführers oder der leitenden Personen sowie Änderungen bezüglich Betriebsstätten, Verfahren, Tätigkeitsgebiete und freigabeberechtigte Personen sind dem BAZL unverzüglich zu melden und bedürfen seiner Genehmigung.[^18-1]
 
 <sup>2</sup> Sind die Voraussetzungen zur Aufrechterhaltung des Instandhaltungsbetriebsausweises wegen einer der in Absatz 1 genannten Tatsachen kurzfristig nicht erfüllt, kann das BAZL Bedingungen oder Auflagen festlegen, unter denen der Instandhaltungsbetrieb seine Tätigkeit dennoch fortsetzen kann. Gegebenenfalls passt es den Instandhaltungsbetriebsausweis den neuen Verhältnissen an.
 
+[^18-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+
 #### Art. 19
 
-**Entzug oder Einschränkung**
+**Entzug, Einschränkung oder Erlöschen**[^19-1]
+
+<sup>1</sup>
 
 Das BAZL kann in Anwendung von Artikel 92 LFG den befristeten oder dauernden Entzug eines Instandhaltungsbetriebsausweises verfügen oder das Tätigkeitsgebiet eines Instandhaltungsbetriebes einschränken, wenn es feststellt, dass:
 
@@ -313,23 +320,40 @@ Das BAZL kann in Anwendung von Artikel 92 LFG den befristeten oder dauernden Ent
 - c. ihm der Zugang zum Instandhaltungsbetrieb verwehrt wird oder ihm die zur Überprüfung der Befolgung dieser Vorschriften notwendigen Unterlagen vorenthalten werden;
 - d. der Instandhaltungsbetrieb die ihm auferlegten Gebühren nicht bezahlt.
 
+<sup>2</sup> Der Wegfall der Genehmigung als Instandhaltungsbetrieb nach Anhang II (Teil 145) bzw. Anhang Vd (Teil CAO) der Verordnung (EU) Nr. 1321/2014[^19-2] hat automatisch das Erlöschen des nationalen Anhanges gemäss Artikel 8 Absatz 2 zur Folge.
+
+[^19-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^19-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+
 ## 5. Abschnitt: Rechte des Instandhaltungsbetriebes
 
 #### Art. 20
 
+[^20-1]
+
 <sup>1</sup>
 
-Der Instandhaltungsbetrieb ist im Rahmen des im Instandhaltungsbetriebsausweis und im Instandhaltungsbetriebshandbuch geregelten Tätigkeitsbereiches berechtigt, Instandhaltungsarbeiten an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen nach den Artikeln 24–40 VLL[^20-1] an folgenden Orten durchzuführen und zu bescheinigen:[^20-2]
+Der Instandhaltungsbetrieb ist im Rahmen des im Instandhaltungsbetriebsausweis und im Instandhaltungsbetriebshandbuch oder wo anwendbar im nationalen Anhang geregelten Tätigkeitsbereiches berechtigt, Instandhaltungsarbeiten an Luftfahrzeugen, Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen nach den Artikeln 24–40 VLL[^20-2] an folgenden Orten durchzuführen und zu bescheinigen:
 
-- a. an den im Instandhaltungsbetriebsausweis genannten Betriebsstandorten;
+- a. an den im Instandhaltungsbetriebsausweis oder wo anwendbar im nationalen Anhang genannten Betriebsstandorten;
 - b. im Einzelfall an jedem beliebigen Ort, sofern das betreffende Luftfahrzeug nicht einsatzfähig ist;
-- c.[^20-3] an jedem beliebigen Ort, sofern es sich um gelegentliche und nicht komplexe Instandhaltungsarbeiten handelt und deren Durchführung im Instandhaltungsbetriebshandbuch vorgesehen ist.
+- c. an jedem beliebigen Ort, sofern es sich um gelegentliche und nicht komplexe Instandhaltungsarbeiten handelt und deren Durchführung im Instandhaltungsbetriebshandbuch oder wo anwendbar im nationalen Anhang vorgesehen ist.
 
 <sup>2</sup> Der Instandhaltungsbetrieb kann Instandhaltungsarbeiten an Unternehmen übertragen, die im Unterauftrag Instandhaltungsarbeiten durchführen, sofern er in der Lage ist, die Konformität zu gewährleisten und die Ausführung vorschriftsgemäss zu bescheinigen.
 
-[^20-1]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
-[^20-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^20-3]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+<sup>3</sup>
+
+Der Instandhaltungsbetrieb darf im Rahmen der Instandhaltung an einem bestimmten Luftfahrzeug einzelne Luftfahrzeugteile oder Ausrüstungen in Übereinstimmung mit der Originalzeichnung oder den genehmigten Konstruktionsdaten anfertigen und verwenden, sofern er:
+
+- a. über die entsprechenden Berechtigungen und Kompetenzen für das betroffene Luftfahrzeug verfügt;
+- b. im Instandhaltungsbetriebshandbuch oder wo anwendbar im nationalen Anhang die Anfertigungsprozesse und die Nachweisführung beschreibt.
+
+<sup>4</sup> Die Einzelanfertigungen gemäss Absatz 3 dürfen nur für das Luftfahrzeug verwendet werden, an welchem die Instandhaltungsarbeiten durchgeführt werden.
+
+<sup>5</sup> Das BAZL erlässt in den Technischen Mitteilungen nach Artikel 25 Richtlinien zur Anfertigung von Luftfahrzugteilen und Ausrüstungen.
+
+[^20-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^20-2]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 ## 6. Abschnitt: Pflichten des Instandhaltungsbetriebes
 
@@ -341,6 +365,15 @@ Der Instandhaltungsbetrieb muss vom BAZL als geeignet erachtete Betriebsverfahre
 
 [^21-1]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
+#### Art. 21<sup>bis</sup>
+
+**Qualitätssicherungssystem und innerbetriebliche Prüfungen**[^21bis-1]
+
+Für Instandhaltungsbetriebe gelten die Vorgaben von CAO.A.100 des Anhanges Vd (Teil CAO) der Verordnung (EU) Nr. 1321/2014[^21bis-2] zu den Qualitätssicherungssystemen und den innerbetrieblichen Prüfungen sinngemäss.
+
+[^21bis-1]: Eingefügt durch Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^21bis-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+
 #### Art. 22
 
 **Aufzeichnung der Instandhaltungsarbeiten**
@@ -350,29 +383,27 @@ Der Instandhaltungsbetrieb muss vom BAZL als geeignet erachtete Betriebsverfahre
 Der Instandhaltungsbetrieb muss:
 
 - a. die Einzelheiten der durchgeführten Arbeiten aufzeichnen;
-- b. eine Kopie der Instandhaltungsaufzeichnungen während zweier Jahre seit der Ausstellung der Freigabebescheinigung aufbewahren.
+- b.[^22-1] eine Kopie der Instandhaltungsaufzeichnungen während dreier Jahre seit der Ausstellung der Freigabebescheinigung aufbewahren.
 
 <sup>2</sup> Das BAZL kann für die Aufzeichnung bestimmter Instandhaltungsarbeiten eine längere Aufbewahrungsdauer vorschreiben.
+
+[^22-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 23
 
 **Form und Inhalt der Freigabebescheinigung**
 
-<sup>1</sup> Die Freigabebescheinigung muss allgemeine Angaben über die durchgeführten Arbeiten sowie die Referenz der angewendeten Instandhaltungsunterlagen, das Datum und den Ort des Abschlusses der Instandhaltungsarbeiten, den Namen und die Ausweisnummer des Instandhaltungsbetriebes und der freigabeberechtigten Person sowie deren Unterschrift enthalten.
+<sup>1</sup> Die Freigabebescheinigung muss allgemeine Angaben über die durchgeführten Arbeiten sowie die Referenz der angewendeten Instandhaltungsunterlagen inklusive Revisionsstand, das Datum und den Ort des Abschlusses der Instandhaltungsarbeiten, den Namen und die Ausweisnummer des Instandhaltungsbetriebes und der freigabeberechtigten Person sowie deren Unterschrift enthalten.[^23-1]
 
 <sup>2</sup> Das BAZL kann Richtlinien über die Form der Freigabebescheinigung erlassen.
 
+[^23-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+
 #### Art. 24
 
-**Meldepflicht**
+[^24-1]
 
-<sup>1</sup> Der Instandhaltungsbetrieb hat spätestens innerhalb von 72 Stunden alle an einem Luftfahrzeug, einem Triebwerk, einem Propeller, einem Luftfahrzeugteil oder einer Ausrüstung festgestellten technischen Störungen, Mängel oder anormalen Beanspruchungen, die eine Gefährdung der Sicherheit darstellen, dem BAZL und dem Luftfahrzeughalter oder der Luftfahrzeughalterin zu melden.[^24-1]
-
-<sup>2</sup> Die Meldung hat auf einem vom BAZL anerkannten Formular zu erfolgen und muss alle bekannten sachdienlichen Informationen enthalten.
-
-<sup>3</sup> Das BAZL regelt das Nähere über die Meldepflicht in einer Richtlinie.
-
-[^24-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^24-1]: Aufgehoben durch Ziff. I der V des UVEK vom 26. Febr. 2025, mit Wirkung seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 25
 
@@ -385,7 +416,7 @@ Der Instandhaltungsbetrieb muss:
 <sup>3</sup> Eine Kopie der Technischen Mitteilungen kann beim BAZL gegen Entgelt bezogen werden[^25-2].
 
 [^25-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^25-2]: Bezugsadresse: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch).
+[^25-2]: Bezugsadresse: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](http://www.bazl.admin.ch)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -403,7 +434,7 @@ Die Änderungen bisherigen Rechts werden im Anhang 2 geregelt.
 
 <sup>2</sup> Betriebe, die einen Instandhaltungsbetriebsausweis nach VJAR-145 besitzen und an Luftfahrzeugen Instandhaltungsarbeiten durchführen oder bescheinigen, für welche zwingend ein Instandhaltungsbetriebsausweis nach dieser Verordnung verlangt wird, müssen bis am 1. April 2005 im Besitz eines Instandhaltungsbetriebsausweises nach dieser Verordnung sein. Bis zum Ablauf dieser Frist bleiben die Bestimmungen von VJAR-145 anwendbar.
 
-[^27-1]: [[AS 1995 4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892), [2000 2407](https://fedlex.data.admin.ch/eli/oc/2000/384)Art. 7 Ziff. 1, [2004 1661](https://fedlex.data.admin.ch/eli/oc/2004/206)Anhang 2 Ziff. 2. [AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)Ziff. II]
+[^27-1]: [[AS 1995 4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892); [2000 2407](https://fedlex.data.admin.ch/eli/oc/2000/384)Art. 7 Ziff. 1; [2004 1661](https://fedlex.data.admin.ch/eli/oc/2004/206)Anhang 2 Ziff. 2. [AS 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)Ziff. II]
 
 #### Art. 27a
 
@@ -419,17 +450,19 @@ Personen, die nach Artikel 12 Absatz 5 in der Fassung vor der Änderung vom 14. 
 
 Diese Verordnung tritt am 1. April 2004 in Kraft.
 
-Anhang 1
+Anhang 1[^t-2]
 
 (Art. 10 Abs. 2)
 
 ## Inhalt des Instandhaltungsbetriebshandbuches
 
+[^t-2]: Bereinigt gemäss Ziff. II der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+
 Der Instandhaltungsbetrieb hat dem BAZL ein Instandhaltungsbetriebshandbuch vorzulegen, das Angaben über folgende Tätigkeiten und Verfahren enthält:
 
-A. Allgemeine Angaben über den Betrieb und das Personal;
+A. Allgemeine Angaben über den Betrieb und das Personal:
 
-- 1\. eine vom verantwortlichen Geschäftsführer unterzeichnete Erklärung, in der er zusichert, dass das Instandhaltungsbetriebshandbuch und alle dazugehörenden Anhänge in Übereinstimmung mit dieser Verordnung stehen und deren Bestimmungen eingehalten werden (Verpflichtungserklärung);
+- 1\. eine von der verantwortlichen Geschäftsführerin oder vom verantwortlichen Geschäftsführer unterzeichnete Erklärung, in der er zusichert, dass das Instandhaltungsbetriebshandbuch und alle dazugehörenden Anhänge in Übereinstimmung mit dieser Verordnung stehen und deren Bestimmungen eingehalten werden (Verpflichtungserklärung);
 - 2\. Tätigkeitsgebiete des Instandhaltungsbetriebes;
 - 3\. allgemeine Angaben über die Betriebsräumlichkeiten;
 - 4\. Sauberkeitsstandards von Instandhaltungsräumlichkeiten;
@@ -439,12 +472,13 @@ A. Allgemeine Angaben über den Betrieb und das Personal;
 - 8\. ein Organigramm, das die Gliederung der Zuständigkeiten der leitenden Personen darstellt;
 - 9\. Anforderungen an freigabeberechtigtes Personal;
 - 10\. Verwaltung der Aufzeichnungen über das freigabeberechtigte Personal;
-- 11\. eine Liste der freigabeberechtigten Personen (ausgenommen sind Fachspezialisten nach Art. 12 Abs. 7);
-- 12\. Verfahren für den zeitlich begrenzten Einsatz von Fachspezialisten nach Artikel 6 VLIp[^annex1-lvlu1-1] (freigabeberechtigtes temporäres Personal);
+- 11\. eine Liste der freigabeberechtigten Personen (ausgenommen sind Fachspezialistinnen und -spezialisten nach Art. 12 Abs. 7);
+- 12\. Verfahren für den zeitlich begrenzten Einsatz von Fachspezialistinnen und ‑spezialisten nach Artikel 6 VLIp[^annex1-lvlu1-1] (freigabeberechtigtes temporäres Personal);
 - 13\. Anforderungen an Personal für spezialisierte Arbeiten, wie NDT, Schweissen etc;
 - 14\. Überwachung der fachlichen Fähigkeiten des Instandhaltungspersonals;
+- 15\. Training Menschliche Faktoren und menschliches Leistungsvermögen.
 
-B. Beschreibung der Logistik;
+B. Beschreibung der Logistik:
 
 - 1\. Verfahren zur Auswahl von Lieferanten;
 - 2\. Wareneingangskontrollverfahren für Luftfahrzeugteile und sonstiges Material von Lieferanten;
@@ -455,7 +489,7 @@ B. Beschreibung der Logistik;
 - 7\. Verfahren für Unterauftragnehmer;
 - 8\. Verfahren über den Versand von defekten Teilen an Lieferanten und Unterauftragnehmer;
 
-C. Beschreibung der Instandhaltungs- und Änderungsverfahren;
+C. Beschreibung der Instandhaltungs- und Änderungsverfahren:
 
 - 1\. Verfahren für Reparaturarbeiten;
 - 2\. Verfahren über die Verwendung von Werkzeugen und Ausrüstungen durch das Personal;
@@ -482,6 +516,6 @@ Anhang 2
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2004 1661](https://fedlex.data.admin.ch/eli/oc/2004/206)konsultiert werden.

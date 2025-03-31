@@ -4,20 +4,20 @@ title: "Ordonnance du DETEC du 19 mars 2004 sur les organismes de maintenance d'
 short: OOMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/206"
 language: fr
-version: 2008-08-01
+version: 2025-04-01
 adopted: 2004-03-19
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/206/20080801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-206-20080801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/206/20080801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/206/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-206-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/206/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur les organismes de maintenance d’aéronefs
 
-(OOMA)**[^t-1]**
+(OOMA)[^t-1]
 
-du 19 mars 2004 (Etat le 1<sup>er</sup> août 2008)
+du 19 mars 2004 (État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
 
@@ -38,12 +38,11 @@ arrête:
 
 <sup>1</sup> La présente ordonnance s’applique aux entreprises exécutant et attestant des travaux d’entretien conformément à l’ordonnance du DETEC du 18 septembre 1995 sur la navigabilité des aéronefs (ONAE)[^1-2].
 
-<sup>2</sup>
+<sup>2</sup> b. règlement (UE) n<sup>o</sup> 1321/2014[^1-3].[^1-4]
 
-Elle s’applique à moins que la version contraignante pour la Suisse de l’un des règlements CE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999[^1-3]:
+Elle s’applique à moins que la version contraignante pour la Suisse[^1-5] de l’un des règlements UE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien[^1-6] conclu le 21 juin 1999:
 
-- a. règlement (CE) n<sup>o</sup> 1592/2002;
-- b. règlement (CE) n<sup>o</sup> 2042/2003.
+- a. règlement (UE) n<sup>o</sup> 2018/1139[^1-7];
 
 <sup>3</sup> Elle s’applique aux entreprises qui effectuent ou attestent en Suisse des travaux d’entretien sur des aéronefs, des moteurs, des hélices, des pièces d’aéronef et des équipements, ainsi qu’aux entreprises suisses de cette nature sises sur l’aéroport de Bâle-Mulhouse.
 
@@ -52,14 +51,19 @@ Elle s’applique à moins que la version contraignante pour la Suisse de l’un
 En l’absence de prescriptions étrangères plus strictes, elle s’applique par analogie aux entreprises suisses qui effectuent et attestent des travaux d’entretien:
 
 - a. en Suisse sur des aéronefs étrangers, leurs moteurs, hélices, pièces et équipements;
-- b. à l’étranger sur des aéronefs suisses, leurs moteurs, hélices, pièces et équipements;
+- b.[^1-8] …
 - c. à l’étranger sur des aéronefs étrangers, leurs moteurs, hélices, pièces et équipements.
 
 <sup>5</sup> Les accords internationaux sur la maintenance des aéronefs ainsi que de leurs moteurs, hélices, pièces et équipements sont réservés.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
 [^1-2]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
-[^1-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). La version contraignante pour la Suisse est mentionnée dans l’annexe de cet Ac. et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne (www.bazl.admin.ch).
+[^1-3]: Règlement (UE) n° 1321/2014 de la Commission du 26 novembre 2014 relatif au maintien de la navigabilité des aéronefs et des produits, pièces et équipements aéronautiques, et relatif à l’agrément des organismes et des personnels participant à ces tâches.
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^1-5]: La version contraignante pour la Suisse est mentionnée dans l’annexe de cet accord et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne ([www.ofac.admin.ch](https://www.bazl.admin.ch/bazl/fr/home.html)).
+[^1-6]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^1-7]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil.
+[^1-8]: Abrogée par le ch. I de l’O du DETEC du 26 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 2
 
@@ -69,26 +73,24 @@ En l’absence de prescriptions étrangères plus strictes, elle s’applique pa
 
 #### Art. 3
 
-**Définitions**
+**Définitions**[^3-1]
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *organisme de maintenance*[^3-1]*:* l’entreprise habilitée à effectuer des travaux d’entretien;
+- a. *organisme de maintenance**:* l’entreprise habilitée à effectuer des travaux d’entretien;
 - b. *dirigeant responsable:* le dirigeant qui, dans l’organisme de maintenance, a l’autorité pour garantir que les moyens nécessaires à l’entretien prévu peuvent être financés et les travaux d’entretien exécutés selon les normes requises par l’autorité;
-- c.[^3-2] *personne chargée de la certification:* personne qui a été habilitée par l’Office fédéral de l’aviation civile (OFAC) conformément à l’ordonnance du 25 août 2000 sur le personnel préposé à l’entretien des aéronefs (OPEA)[^3-3] ou conformément à l’annexe III au règlement (CE) n<sup>o</sup> 2042/2003[^3-4] à délivrer des certificats de remise en service;
-- d. *manuel de l’**organisme de maintenance*[^3-5]*:* le recueil de documents dans lesquels l’organisme de maintenance règle son organisation, ainsi que le déroulement, le contrôle et l’attestation des travaux d’entretien;
-- e. *enregistrements de travaux d’entretien:* les documents tels que les dossiers techniques, les rapports de travail, les certificats de remise en service[^3-6], les rapports d’examens ou les justificatifs d’entretien;
-- f.[^3-7] *travaux d’entretien:* travaux de contrôle, de révision, de modification, de remplacement et de réparation d’aéronefs, de leurs moteurs, hélices, pièces et équipements.
+- c. *personne chargée de la certification:* la personne qui a été habilitée par l’Office fédéral de l’aviation civile (OFAC) conformément à l’ordonnance du 25 août 2000 sur le personnel préposé à l’entretien des aéronefs (OPEA)[^3-2] ou conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^3-3] à délivrer des certificats de remise en service;
+- d. *manuel de l’**organisme de maintenance**:* le recueil de documents dans lesquels l’organisme de maintenance règle son organisation, ainsi que le déroulement, le contrôle et l’attestation des travaux d’entretien;
+- e. *enregistrements de travaux d’entretien:* les documents tels que les dossiers techniques, les rapports de travail, les certificats de remise en service, les rapports d’examens ou les justificatifs d’entretien;
+- f. *travaux d’entretien:* les travaux de contrôle, de révision, de modification, de remplacement et de réparation d’aéronefs, de leurs moteurs, hélices, pièces et équipements, à l’exception de la visite prévol conformément au manuel de vol;
+- g. *facteurs humains:* les principes qui s’appliquent à la conception aéronautique, à la certification, à la formation, aux opérations et à l’entretien et qui cherchent à établir une interface sûre entre la composante humaine et la composante d’autres systèmes par la prise en considération de manière appropriée des performances humaines;
+- h. *performances humaines:* les capacités et limites humaines qui ont un impact sur la sécurité et l’efficacité des opérations aéronautiques.
 
-[^3-1]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^3-3]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^3-4]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^3-5]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-6]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-7]: Introduite par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^3-2]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+[^3-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
-## Section 2 Licences d’organisme de maintenance****
+## Section 2 Licences d’organisme de maintenance
 
 [^sec2-1]
 
@@ -128,9 +130,15 @@ L’OFAC peut, sur demande motivée, dispenser une entreprise d’appliquer cert
 
 #### Art. 8
 
-**Demande**
+**Demande et annexe nationale**[^8-1]
 
-La demande d’octroi de la licence doit être adressée à l’OFAC, au plus tard trois mois avant l’ouverture prévue de l’entreprise, au moyen des formules ad hoc accompagnées des documents complets.
+<sup>1</sup> La demande de licence d’organisme de maintenance, accompagnée des documents complets mentionnés à l’art. 9, doit être adressée à l’OFAC au plus tard deux mois avant l’inspection de l’entreprise. La demande doit indiquer pour quels domaines d’activité la licence est sollicitée. Les documents doivent être rédigés dans une langue officielle ou en anglais.
+
+<sup>2</sup> En lieu et place des justificatifs et documents visés à l’art. 9, les organismes suisses qui possèdent déjà un agrément d’organisme de maintenance délivré conformément à l’annexe II (Partie 145) ou à l’annexe V quinquies (Partie CAO) du règlement (UE) n<sup>o</sup> 1321/2014[^8-2] doivent soumettre une annexe nationale du manuel d’organisme de maintenance approuvé. Il convient de décrire dans cette annexe nationale les différences entre l’entretien des aéronefs, moteurs, hélices, pièces d’aéronef et équipements suivant qu’ils sont certifiés conformément à l’ONAE[^8-3] ou qu’ils relèvent du champ d’application du règlement (UE) 2018/1139. L’OFAC peut édicter des directives sous la forme d’une communication technique au sens de l’art. 25.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^8-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^8-3]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 #### Art. 9
 
@@ -153,7 +161,7 @@ Le requérant doit prouver:
 
 <sup>2</sup> Le manuel doit comporter les informations et procédures énumérées à l’annexe 1. L’OFAC peut modifier cette annexe. Il édicte des directives sur la forme et le contenu du manuel.
 
-<sup>3</sup> ... [^10-1]
+<sup>3</sup> … [^10-1]
 
 <sup>4</sup> Les personnes mentionnées dans le manuel doivent y avoir accès, ou au moins aux parties qui les concernent. L’entreprise doit veiller à ce que le manuel soit mis à jour.
 
@@ -165,76 +173,73 @@ Le requérant doit prouver:
 
 #### Art. 11
 
-**Locaux**
+**Locaux et droit d’accès**[^11-1]
 
-<sup>1</sup> L’entreprise doit disposer de ses propres locaux et installations adaptés à tous les genres de travaux à exécuter. Ils doivent offrir en particulier des conditions de travail adaptées aux tâches à effectuer, ainsi qu’une protection contre les intempéries et la contamination des places de travail.
+<sup>1</sup> L’entreprise doit disposer de ses propres locaux et installations adaptés à tous les genres de travaux à exécuter. Ils doivent offrir en particulier des conditions de travail adaptées aux tâches à effectuer, ainsi qu’une protection contre les intempéries, le bruit et la contamination des places de travail.
 
 <sup>2</sup> Des bureaux adéquats doivent être disponibles pour la planification et la gestion des travaux à exécuter, ainsi que pour la gestion des enregistrements techniques.
 
-<sup>3</sup> Les places de travail seront aménagées en fonction des caractéristiques des travaux à exécuter.
+<sup>3</sup> Les places de travail doivent être aménagées en fonction des caractéristiques des travaux à exécuter.
 
-<sup>4</sup> Les moteurs, les hélices, les pièces d’aéronef, les équipements, l’outillage, le matériel et les instruments de vérification sont entreposés dans des locaux adéquats.[^11-1] Les pièces en état d’être mises en service doivent être entreposées séparément de celles qui ne le sont pas. Les pièces seront entreposées de façon qu’elles ne puissent être ni endommagées, ni altérées dans leur qualité d’une manière quelconque.
+<sup>4</sup> Les moteurs, les hélices, les pièces d’aéronef, les équipements, l’outillage, le matériel et les instruments de vérification doivent être entreposés dans des locaux adéquats compte tenu des indications des constructeurs. Les pièces en état d’être mises en service doivent être entreposées séparément de celles qui ne le sont pas. Les pièces doivent être entreposées de façon qu’elles ne puissent être ni endommagées, ni altérées dans leur qualité d’une manière quelconque.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+<sup>5</sup> L’accès aux magasins et à l’outillage doit être limité au personnel autorisé.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 12
 
-**Personnel**
+**Personnel**[^12-1]
 
-<sup>1</sup>
+<sup>1</sup> L’organisme de maintenance désigne un dirigeant responsable.
 
-L’entreprise annoncera à l’OFAC pour approbation:
+<sup>2</sup> Le personnel de direction subordonné à ce dirigeant doit être annoncé à l’OFAC pour approbation. Ce personnel est responsable, dans les limites du manuel de l’organisme de maintenance et, le cas échéant, de l’annexe nationale, de l’observation des prescriptions de la présente ordonnance.
 
-- a. le dirigeant responsable qu’il juge apte à remplir cette fonction;
-- b. le personnel de direction subordonné à ce dirigeant.
+<sup>3</sup> L’organisme de maintenance doit disposer de suffisamment de personnel pour pouvoir planifier, effectuer, surveiller et inspecter les travaux prévus ou contractés. En cas de charges de travail supérieures à la planification, il peut engager temporairement du personnel supplémentaire, qui ne sera toutefois pas habilité à établir des certificats de remise en service; l’al. 7 est réservé.
 
-<sup>2</sup> Ce personnel est responsable, dans les limites du manuel de l’organisme de maintenance, de l’observation des prescriptions de la présente ordonnance.
-
-<sup>3</sup> L’organisme doit disposer d’un nombre suffisant de personnel pour planifier, effectuer, surveiller et inspecter les travaux prévus ou contractés. En cas de charges de travail supérieures à la planification, l’organisme pourra engager temporairement du personnel supplémentaire, qui ne sera toutefois pas habilité à établir des certificats de remise en service; l’al. 7 est réservé.
-
-<sup>4</sup> Une proportion adéquate du personnel appartenant à l’organisme doit être habilitée à établir des certificats de remise en service, conformément à l’OPEA[^12-1] ou à l’annexe III du règlement (CE) n<sup>o</sup> 2042/2003[^12-2]. L’OFAC peut déterminer le nombre de personnes chargées de la certification au cas par cas, en fonction des travaux d’entretien prévus.[^12-3]
+<sup>4</sup> Une proportion adéquate du personnel appartenant à l’organisme de maintenance doit être habilitée à établir des certificats de remise en service, conformément à l’OPEA[^12-2], à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^12-3] ou sur la base d’une autorisation au sens des annexes de l’ONAE[^12-4] concernant les aéronefs rangés dans les sous-catégories de la catégorie spéciale. L’OFAC peut déterminer le nombre de personnes chargées de la certification au cas par cas, en fonction des travaux d’entretien prévus.
 
 <sup>5</sup>
 
 Les organismes de maintenance qui exécutent et attestent les travaux d’entretien sur des aéronefs, sauf sur des planeurs, des ballons et des planeurs avec moteur rétractable, emploient au moins une personne qui:
 
-- a. est titulaire de licence qualifiée conformément à l’annexe III du règlement (CE) n<sup>o</sup> 2042/2003 ou selon l’art. 20 OPEA;
+- a. est titulaire d’une licence appropriée conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014 ou selon l’art. 20 OPEA;
 - b. possède la licence depuis trois ans au moins;
 - c. a exercé les activités correspondantes au cours des deux dernières années;
-- d. est employée à plein temps;
+- d. est employée pour une durée indéterminée par l’organisme de maintenance;
 - e.
 
-  possède des connaissances sur:
+  possède des connaissances:
 
-  - 1\. l’utilisation des documents d’entretien pour l’exécution de travaux d’entretien complexes,
-  - 2\. les procédures de vérification de la conformité des travaux d’entretien complexes aux exigences de navigabilité,
-  - 3\. les travaux administratifs, en particulier l’établissement ou l’évaluation des rapports des vols de contrôle, la tenue des dossiers techniques ainsi que la rédaction de rapports de travail et de pesée.[^12-4]
+  - 1\. de l’utilisation des documents d’entretien pour l’exécution de travaux d’entretien complexes,
+  - 2\. des procédures de vérification de la conformité des travaux d’entretien complexes aux exigences de navigabilité,
+  - 3\. des travaux administratifs, en particulier de l’établissement ou de l’évaluation des rapports des vols de contrôle, de la tenue des dossiers techniques ainsi que de la rédaction de rapports de travail et de pesée.
 
 <sup>6</sup>
 
-L’entreprise doit:
+L’organisme de maintenance doit:
 
-- a. tenir à jour le dossier des personnes chargées de la certification[^12-5] les travaux et qui comportera des précisions sur la portée des habilitations;
-- b. conserver une copie des dossiers des personnes chargées de la certification les travaux, pendant les deux ans qui suivent la résiliation des rapports de service ou la fin de l’activité correspondante.
+- a. tenir à jour le dossier des personnes chargées de la certification des travaux, lequel doit comporter des précisions sur l’étendue des habilitations;
+- b. conserver une copie des dossiers des personnes chargées de la certification des travaux, pendant les deux ans qui suivent la résiliation des rapports de service ou la fin de l’activité correspondante.
 
-<sup>7</sup> Elle peut engager temporairement des spécialistes externes selon l’art. 6 OPEA pour des travaux spécifiques.
+<sup>7</sup> Il peut engager temporairement des spécialistes externes selon l’art. 6 OPEA pour des travaux spécifiques.
 
-[^12-1]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
-[^12-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^12-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^12-5]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>8</sup> Il veille à ce que les personnes visées aux al. 1 et 2 suivent tous les deux ans des cours sur les facteurs humains et les performances humaines.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^12-2]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+[^12-3]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^12-4]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 #### Art. 13
 
-**Outillage, matériel et instruments de vérification[^13-1]**
+**Outillage, matériel et instruments de vérification et de mesure**[^13-1]
 
-<sup>1</sup> L’organisme de maintenance dispose de l’outillage, du matériel et des instruments de vérification nécessaires au moment où il exécute les travaux d’entretien.[^13-2]
+<sup>1</sup> L’organisme de maintenance dispose de l’outillage, du matériel et des instruments de vérification et de mesure nécessaires au moment où il exécute les travaux d’entretien.
 
-<sup>2</sup> Les instruments de vérification seront contrôlés et étalonnés régulièrement selon des normes reconnues par l’OFAC. L’entreprise doit conserver un enregistrement des vérifications exécutées et des normes appliquées.
+<sup>2</sup> Les instruments de vérification et de mesure doivent être contrôlés et étalonnés régulièrement selon les indications du fabricant ou, à défaut, selon les normes reconnues par l’OFAC. L’organisme de maintenance doit conserver un enregistrement des vérifications exécutées et des normes appliquées. Les enregistrements doivent renvoyer au numéro de série ou d’inventaire des instruments de vérification ou de mesure.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 14
 
@@ -268,19 +273,18 @@ L’entreprise doit:
 
 #### Art. 16
 
-**Licence d’organisme de maintenance**
+**Licence d’organisme de maintenance**[^16-1]
 
 <sup>1</sup> Si toutes les conditions sont remplies, l’OFAC octroie au requérant la licence d’organisme de maintenance sur laquelle figure le ou les domaines d’activité précisés dans le manuel de l’organisme de maintenance.
 
-<sup>2</sup> La licence d’organisme de maintenance a une durée de validité illimitée. Dans des cas particuliers, l’OFAC peut fixer une durée de validité.[^16-1]
+<sup>2</sup> L’annexe nationale visée à l’art. 8, al. 2, a valeur de licence d’organisme de maintenance pour les organismes qui possèdent déjà un agrément d’organisme de maintenance délivré conformément à l’annexe II (Partie 145) ou à l’annexe V quinquies (Partie CAO) du règlement (UE) n<sup>o</sup> 1321/2014[^16-2]. Dans leur cas, les domaines d’activité couverts par la licence sont définis dans l’annexe nationale. L’OFAC peut édicter des directives dans les communications techniques visées à l’art. 25.
 
-<sup>3</sup> L’OFAC réalise tous les 24 mois au moins une inspection de chaque organisme au sens de l’art. 15 afin de vérifier le respect des prescriptions.[^16-2]
+<sup>3</sup> La licence d’organisme de maintenance a une durée de validité illimitée. Dans des cas particuliers, l’OFAC peut fixer une durée de validité.
 
-<sup>4</sup> ...[^16-3]
+<sup>4</sup> Tous les 24 mois au moins, l’OFAC soumet les organismes visés à l’al. 1 à l’inspection décrite à l’art. 15 afin de vérifier le respect des prescriptions. Dans le cas des organismes visés à l’al. 2, la périodicité des inspections est régie conformément aux exigences du règlement (UE) n<sup>o</sup> 1321/2014.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^16-3]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^16-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 17
 
@@ -300,32 +304,51 @@ L’entreprise doit:
 
 #### Art. 19
 
-**Retrait ou restriction**
+**Retrait, restriction ou extinction**[^19-1]
 
-En vertu de l’art. 92 LA, l’OFAC peut prononcer le retrait temporaire ou définitif de la licence ou limiter le domaine d’activité de l’entreprise lorsqu’il constate que:
+<sup>1</sup>
 
-- a. les conditions qui étaient déterminantes lors de l’octroi de la licence ne sont plus remplies;
+En vertu de l’art. 92 LA, l’OFAC peut prononcer le retrait temporaire ou définitif de la licence ou limiter le domaine d’activité de l’organisme de maintenance lorsqu’il constate:
+
+- a. que les conditions qui étaient déterminantes lors de l’octroi de la licence ne sont plus remplies;
 - b. de graves négligences ou des manquements répétés sont apparus dans l’exécution de travaux d’entretien;
-- c. l’accès à l’entreprise lui est interdit ou que celle-ci refuse de lui fournir les documents requis pour contrôler l’application des présentes prescriptions;
-- d. l’entreprise ne s’acquitte pas des taxes qui lui sont imposées.
+- c. que l’accès à l’organisme de maintenance lui est interdit ou que celui-ci refuse de lui fournir les documents requis pour contrôler l’application des présentes prescriptions;
+- d. l’organisme de maintenance ne s’acquitte pas des taxes qui lui sont mposées.
+
+<sup>2</sup> Lorsque l’agrément d’organisme de maintenance délivré conformément à l’annexe II (Partie 145) ou à l’annexe V quinquies (Partie CAO) du règlement (UE) n<sup>o</sup> 1321/2014[^19-2] devient caduc, l’annexe nationale visée à l’art. 8, al. 2, s’éteint automatiquement.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^19-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 ## Section 5 Droits de l’entreprise
 
 #### Art. 20
 
+[^20-1]
+
 <sup>1</sup>
 
-Dans les limites des domaines d’activité définis dans sa licence d’organisme de maintenance et de son manuel, l’organisme de maintenance est habilité à exécuter et à attester aux endroits suivants les travaux d’entretien sur des aéronefs, leurs moteurs, hélices, pièces et équipements visés aux art. 24 à 40 ONAE[^20-1]:[^20-2]
+Dans les limites des domaines d’activité définis dans sa licence d’organisme de maintenance et de son manuel ou, le cas échéant, dans l’annexe nationale, l’organisme de maintenance est habilité à exécuter et à attester aux endroits suivants les travaux d’entretien sur des aéronefs, leurs moteurs, hélices, pièces et équipements visés aux art. 24 à 40 ONAE[^20-2]:
 
-- a. les bases d’entretien inscrites dans la licence;
+- a. les bases d’entretien inscrites dans la licence ou, le cas échéant, dans l’annexe nationale;
 - b. dans le cas d’espèce, un endroit quelconque à condition que l’aéronef en question soit inapte au vol;
-- c.[^20-3] à un endroit quelconque s’il s’agit de travaux d’entretien non complexes et occasionnels et que leur exécution est prévue dans le manuel de l’organisme de maintenance.
+- c. à un endroit quelconque s’il s’agit de travaux d’entretien non complexes et occasionnels et que leur exécution est prévue dans le manuel de l’organisme de maintenance ou, le cas échéant, dans l’annexe nationale.
 
-<sup>2</sup> L’entreprise peut sous-traiter des travaux d’entretien à d’autres entreprises à condition qu’elle soit en mesure d’en assurer la conformité et d’en attester réglementairement l’exécution.
+<sup>2</sup> L’organisme de maintenance peut sous-traiter des travaux d’entretien à d’autres entreprises à condition qu’elle soit en mesure d’en assurer la conformité et d’en attester réglementairement l’exécution.
 
-[^20-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^20-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+<sup>3</sup>
+
+L’organisme de maintenance peut, dans le cadre de l’entretien d’un aéronef donné, façonner et employer des pièces d’aéronef et équipements conformément aux plans d’origine ou aux données de définition approuvées à condition qu’il:
+
+- a. possède les qualifications et compétences adéquates pour l’aéronef en question;
+- b. décrive dans la manuel d’organisme de maintenance ou, le cas échéant, dans l’annexe nationale, les processus de façonnage et la gestion des justificatifs.
+
+<sup>4</sup> Les exemplaires uniques visés à l’al. 3 ne peuvent être employés que pour l’aéronef qui fait l’objet des travaux d’entretien.
+
+<sup>5</sup> L’OFAC édicte dans les communications techniques visées à l’art. 25 des directives quant au façonnage des pièces d’aéronef et équipements.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^20-2]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
 ## Section 6 Obligations de l’entreprise
 
@@ -337,6 +360,15 @@ L’entreprise doit établir des procédures d’exploitation reconnues adéquat
 
 [^21-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 
+#### Art. 21<sup>bis</sup>
+
+**Système qualité et bilans organisationnels**[^21bis-1]
+
+Les exigences du point CAO.A.100 de l’annexe V quinquies (Partie CAO) du règlement (UE) n<sup>o</sup> 1321/2014[^21bis-2] relatives aux systèmes qualité et aux bilans organisationnels s’appliquent par analogie aux organismes de maintenance.
+
+[^21bis-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+[^21bis-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+
 #### Art. 22
 
 **Enregistrement des travaux d’entretien**
@@ -346,29 +378,27 @@ L’entreprise doit établir des procédures d’exploitation reconnues adéquat
 L’entreprise doit:
 
 - a. enregistrer en détail les travaux effectués;
-- b. conserver une copie des enregistrements des travaux pendant deux ans à compter de la date à laquelle l’attestation a été établie.
+- b.[^22-1] conserver une copie des enregistrements des travaux pendant trois ans à compter de la date à laquelle l’attestation a été établie.
 
 <sup>2</sup> L’OFAC peut prescrire une période plus longue pour la conservation des enregistrements de certains travaux.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 23
 
 **Forme et contenu du certificat de remise en service**
 
-<sup>1</sup> Le certificat de remise en service doit comporter des données générales sur les travaux effectués, la référence aux documents d’entretien utilisés, la date et le lieu ou les travaux ont été achevés, les noms et numéros de licence de l’organisme de maintenance et de la personne habilitée à établir le certificat ainsi que sa signature.
+<sup>1</sup> Le certificat de remise en service doit comporter des données générales sur les travaux effectués, la référence aux documents d’entretien utilisés, y compris le numéro de version, la date et le lieu où les travaux ont été achevés, les noms et numéros de licence de l’organisme de maintenance et de la personne habilitée à établir le certificat ainsi que sa signature.[^23-1]
 
 <sup>2</sup> L’OFAC peut édicter des directives sur la forme du certificat.
 
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+
 #### Art. 24
 
-**Obligation d’annoncer**
+[^24-1]
 
-<sup>1</sup> L’organisme de maintenance annonce à l’OFAC et à l’exploitant de l’aéronef, dans un délai de 72 heures, tous les défauts, défaillances techniques et sollicitations anormales de nature à compromettre la sécurité qu’il constate sur un aéronef, un moteur, une hélice, une pièce d’aéronef ou un équipement.[^24-1]
-
-<sup>2</sup> L’annonce doit être établie sur une formule agréée par l’OFAC et comporter toutes les informations pertinentes connues.
-
-<sup>3</sup> L’OFAC règle dans une directive les modalités de l’obligation d’annoncer.
-
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
+[^24-1]: Abrogé par le ch. I de l’O du DETEC du 26 fév. 2025, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
 
 #### Art. 25
 
@@ -381,7 +411,7 @@ L’entreprise doit:
 <sup>3</sup> Une copie des communications techniques peut être obtenue auprès de l’OFAC contre paiement[^25-2].
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3617](https://fedlex.data.admin.ch/eli/oc/2008/471)).
-[^25-2]: Adresse: Office fédéral de l’aviation civile, 3003 Berne (www.bazl.admin.ch).
+[^25-2]: Adresse: Office fédéral de l’aviation civile, 3003 Berne ([www.ofac.admin.ch](https://www.bazl.admin.ch/bazl/fr/home.html)).
 
 ## Section 7 Dispositions finales
 
@@ -415,15 +445,17 @@ Les personnes habilitées en vertu de l’art. 12, al. 5, de la version de l’o
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2004.
 
-Annexe 1
+Annexe 1[^t-2]
 
 (art. 10, al. 2)
 
 ## Contenu du manuel de l’organisme de maintenance
 
+[^t-2]: Mise à jour par le ch. II de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 176](https://fedlex.data.admin.ch/eli/oc/2025/176)).
+
 L’organisme remettra à l’OFAC un manuel de l’organisme de maintenance qui comporte les informations sur les activités et procédures suivantes:
 
-### A. Informations générales sur l’organisme et le personnel
+A. Informations générales sur l’organisme et le personnel:
 
 - 1\. Une déclaration signée par le dirigeant responsable, selon laquelle il assure que le manuel et ses annexes sont conformes à la présente ordonnance, et que les dispositions de cette dernière seront respectées (acte d’engagement);
 - 2\. Les domaines d’activité de l’organisme;
@@ -436,13 +468,16 @@ L’organisme remettra à l’OFAC un manuel de l’organisme de maintenance qui
 - 9\. Les qualifications requises du personnel autorisé à établir les certificats de remise en service;
 - 10\. La gestion des enregistrements sur le personnel autorisé à établir les attestations;
 - 11\. La liste des personnes autorisées à établir les attestations (à l’exception des spécialistes selon l’art. 12, al. 7);
-- 12\. La procédure d’engagement temporaire de spécialistes selon l’art. 6 OPEA[^annex1-lvlu1-lvlA-1], (personnel temporaire habilité à établir des certificats de remise en service);
+- 12\. La procédure d’engagement temporaire de spécialistes selon l’art. 6 OPEA[^annex1-lvlu1-1], (personnel temporaire habilité à établir des certificats de remise en service);
 - 13\. Les qualifications requises pour les activités spécialisées telles que les contrôles non destructifs, le soudage, etc;
 - 14\. La surveillance des aptitudes professionnelles du personnel d’entretien.
+- 15\. Les cours sur les facteurs humains et les performances humaines.
 
-[^annex1-lvlu1-lvlA-1]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+### *B.*
 
-### B. Description de la logistique
+[^annex1-lvlu1-1]: [RS 748.127.2](https://fedlex.data.admin.ch/eli/cc/2000/385)
+
+*Description de la logistique:*
 
 - 1\. La procédure relative au choix des fournisseurs;
 - 2\. Les procédures de réception et du contrôle des éléments d’aéronefs et des matériels en provenance des fournisseurs;
@@ -453,7 +488,9 @@ L’organisme remettra à l’OFAC un manuel de l’organisme de maintenance qui
 - 7\. Les procédures pour les sous-traitants;
 - 8\. La procédure de renvoi d’éléments défectueux aux fournisseurs et sous-traitants.
 
-### C. Description des procédures d’entretien et de modification
+### *C.*
+
+*Description des procédures d’entretien et de modification:*
 
 - 1\. Les procédures de réparation;
 - 2\. Les procédures concernant l’utilisation des outillages et des instruments par le personnel;
