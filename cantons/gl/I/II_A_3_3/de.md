@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2025-02-01
-valid_until: 2025-03-31
-version_adopted: 2024-12-17
+version: 2025-04-01
+valid_until: 2025-04-30
+version_adopted: 2025-03-11
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2526/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2526/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.02.2025)
+Vom 21.03.2006 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
@@ -532,7 +532,7 @@ verordnet:
 - b. Bauten des Kantons,
 - c. Verwaltung und Einrichtung der Kantonsliegenschaften,
 - d. Strassenbau und -unterhalt,
-- e. Signalisation National- und Kantonsstrassen,
+- e. Signalisation Kantonsstrassen,
 - f. Fuss- und Wanderwege,
 - f1. Velowege
 - g. Wasserbau und Hochwasserschutz,
