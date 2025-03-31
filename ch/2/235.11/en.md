@@ -4,11 +4,11 @@ title: "Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinanc
 short: DPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: en
-version: 2024-09-15
+version: 2025-04-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Ordinance, DPO)
 
-of 31 August 2022 (Status as of 15 September 2024)
+of 31 August 2022 (Status as of 1 April 2025)
 
 The Swiss Federal Council,
 
@@ -576,11 +576,12 @@ The FDPIC shall issue processing regulations for all automated processing; Artic
 
 **Cooperation with the National Cybersecurity Centre**[^41-1]
 
-<sup>1</sup> The FDPIC may, with the consent of the controller concerned, forward the report of a breach of data security to the National Cybersecurity Centre (NCSC) for the purpose of analysing the incident. The report may contain personal data.
+<sup>1</sup> …[^41-2]
 
 <sup>2</sup> The FDPIC shall invite the NCSC to comment before it orders the federal body to take measures under Article 8 FADP.
 
 [^41-1]: Amended by No II 7 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^41-2]: Repealed by Annex No 2 of the Cybersecurity Ordinance of 7 March 2025, with effect from 1 April 2025 ([AS 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 #### Art. 42
 
@@ -644,7 +645,7 @@ Annex 1[^t-1]
 
 ## States, territories, specified sectors in a State and international bodies that guarantee an adequate level of data protection
 
-[^t-1]: Amended by No I of the O of 14 Aug. 2024, in force since 15 Sep. 2024 (AS **202****4** 435).
+[^t-1]: Amended by No I of the O of 14 Aug. 2024, in force since 15 Sep. 2024 ([AS 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
 
 <table>
 <tr><td>1</td><td>Germany\*</td><td></td></tr>

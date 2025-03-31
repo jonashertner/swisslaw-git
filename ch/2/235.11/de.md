@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordn
 short: DSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: de
-version: 2024-09-15
+version: 2025-04-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/de"
 
 (Datenschutzverordnung, DSV)
 
-vom 31. August 2022 (Stand am 15. September 2024)
+vom 31. August 2022 (Stand am 1. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -574,11 +574,12 @@ Der EDÖB erstellt ein Bearbeitungsreglement für sämtliche automatisierten Bea
 
 **Zusammenarbeit mit dem Bundesamt für Cybersicherheit**[^41-1]
 
-<sup>1</sup> Der EDÖB kann die Meldung einer Verletzung der Datensicherheit mit dem Einverständnis des meldepflichtigen Verantwortlichen zur Analyse des Vorfalls an das Bundesamt für Cybersicherheit (BACS) weiterleiten. Die Mitteilung kann Personendaten enthalten.
+<sup>1</sup> …[^41-2]
 
-<sup>2</sup> Der EDÖB lädt das BACS zur Stellungnahme ein, bevor er anordnet, dass das Bundesorgan die Vorkehren nach Artikel 8 DSG trifft.
+<sup>2</sup> Der EDÖB lädt das Bundesamt für Cybersicherheit zur Stellungnahme ein, bevor er anordnet, dass das Bundesorgan die Vorkehren nach Artikel 8 DSG trifft.
 
 [^41-1]: Fassung gemäss Ziff. II 7 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^41-2]: Aufgehoben durch Anhang Ziff. 2 der Cybersicherheitsverordnung vom 7. März 2025, mit Wirkung seit 1. April 2025 ([AS 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 #### Art. 42
 
@@ -695,7 +696,7 @@ Anhang 1[^t-1]
 - \*\* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe von Personendaten gemäss einem Durchführungsbeschluss der Europäischen Kommission, mit welchem die Angemessenheit des Datenschutzes nach der Richtlinie (EU) 2016/680 festgestellt wird, mit ein.
 - \*\*\* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe von Personendaten im Rahmen der von der Richtlinie (EU) 2016/680 vorgesehenen Zusammenarbeit nicht mit ein.
 
-[^annex1-lvlu1-1]: Der Text des kanadischen Bundesgesetzes ist abrufbar unter https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html.
+[^annex1-lvlu1-1]: Der Text des kanadischen Bundesgesetzes ist abrufbar unter [https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html](https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html).
 [^annex1-lvlu1-2]: Die Grundsätze sind abrufbar unter: [www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3](https://www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3).
 [^annex1-lvlu1-3]: Das Exekutivdekret 14086 ist abrufbar unter: [www.state.gov/executive-order-14086- policy-and-procedures/](https://www.state.gov/executive-order-14086-policy-and-procedures/).
 [^annex1-lvlu1-4]: Die Vorschrift ist abrufbar unter: [www.federalregister.gov/documents/2022/10/14/ 2022-22234/data-protection-review-court](https://www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court).

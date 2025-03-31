@@ -4,11 +4,11 @@ title: Ordonnance du 31 août 2022 sur la protection des données (OPDo)
 short: OPDo
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: fr
-version: 2024-09-15
+version: 2025-04-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/fr"
 
 (OPDo)
 
-du 31 août 2022 (État le 15 septembre 2024)
+du 31 août 2022 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -574,11 +574,12 @@ Le PFPDT établit un règlement pour tous les traitements automatisés; l’art.
 
 **Collaboration avec l’Office fédéral de la cybersécurité**[^41-1]
 
-<sup>1</sup> Le PFPDT peut, avec l’accord du responsable du traitement tenu d’annoncer, transmettre l’annonce d’une violation de la sécurité des données à l’Office fédéral de la cybersécurité (OFCS) pour que celui-ci analyse l’incident. La communication peut contenir des données personnelles.
+<sup>1</sup> …[^41-2]
 
-<sup>2</sup> Le PFPDT invite l’OFCS à se prononcer avant d’ordonner à l’organe fédéral de prendre les mesures visées à l’art. 8 LPD.
+<sup>2</sup> Le PFPDT invite l’Office fédéral de la cybersécurité à se prononcer avant d’ordonner à l’organe fédéral de prendre les mesures visées à l’art. 8 LPD.
 
 [^41-1]: Nouvelle teneur selon le ch. II 7 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^41-2]: Abrogé par l’annexe ch. 2 de l’O du 7 mars 2025 sur la cybersécurité, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 #### Art. 42
 

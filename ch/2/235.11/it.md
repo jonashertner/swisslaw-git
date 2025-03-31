@@ -4,11 +4,11 @@ title: Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)
 short: OPDa
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: it
-version: 2024-09-15
+version: 2025-04-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/it"
 
 (OPDa)
 
-del 31 agosto 2022 (Stato 15 settembre 2024)
+del 31 agosto 2022 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -574,11 +574,12 @@ L’IFPDT elabora un regolamento sul trattamento per tutti i trattamenti automat
 
 **Cooperazione con l’Ufficio federale della cibersicurezza**[^41-1]
 
-<sup>1</sup> Con il consenso del titolare del trattamento soggetto all’obbligo di notifica, l’IFPDT può inoltrare la notifica di una violazione della sicurezza dei dati per un esame dell’evento all’Ufficio federale della cibersicurezza (UFCS). La comunicazione può contenere dati personali.
+<sup>1</sup> ...[^41-2]
 
-<sup>2</sup> L’IFPDT invita l’UFCS a prendere posizione prima di ordinare a un organo federale di adottare i provvedimenti di cui all’articolo 8 LPD.
+<sup>2</sup> L’IFPDT invita l’Ufficio federale della cibersicurezza a prendere posizione prima di ordinare a un organo federale di adottare i provvedimenti di cui all’articolo 8 LPD.
 
-[^41-1]: Nuovo testo giusta il n. II 7 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^41-1]: Nuovo testo giusta la cifra II n. 7 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^41-2]: Abrogato dall’all. n. 2 dell’O del 7 mar. 2025 sulla cibersicurezza, con effetto dal 1° apr. 2025 ([RU 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 #### Art. 42
 
@@ -642,7 +643,7 @@ Allegato 1[^t-1]
 
 ## Stati, territori, determinati settori di uno Stato e organismi internazionali in cui è garantita una protezione adeguata dei dati
 
-[^t-1]: Aggiornato dal n. I dell’O del 14 ago. 2024, in vigore dal 15 set. 2024 ([RU 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
+[^t-1]: Aggiornato dalla cifra I dell’O del 14 ago. 2024, in vigore dal 15 set. 2024 ([RU 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
 
 <table>
 <tr><td>1</td><td>Germania\*</td><td></td></tr>
@@ -695,7 +696,7 @@ Allegato 1[^t-1]
 - \*\* La valutazione dell’adeguatezza della protezione dei dati include la comunicazione di dati personali in base a una decisione di esecuzione della Commissione europea che constata l’adeguatezza della protezione dei dati secondo la direttiva (UE) 2016/680.
 - \*\*\* La valutazione dell’adeguatezza della protezione dei dati non include la comunicazione di dati personali nel quadro della cooperazione prevista dalla direttiva (UE) 2016/680.
 
-[^annex1-lvlu1-1]: Il testo della legge federale canadese è reperibile al seguente indirizzo: https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html
+[^annex1-lvlu1-1]: Il testo della legge federale canadese è reperibile al seguente indirizzo: [https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html](https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html)
 [^annex1-lvlu1-2]: I principi sono reperibili al seguente indirizzo: [www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3](https://www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3).
 [^annex1-lvlu1-3]: Il decreto presidenziale 14086 è reperibile al seguente indirizzo: [www.state.gov/executive-order-14086-policy-and-procedures/](http://www.state.gov/executive-order-14086-policy-and-procedures/).
 [^annex1-lvlu1-4]: Il regolamento è reperibile al seguente indirizzo: [www.federalregister.gov/ documents/2022/10/14/2022-22234/data-protection-review-court](https://www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court).
@@ -709,7 +710,7 @@ Allegato 2[^t-2]
 
 ## Abrogazione e modifica di altri atti normativi
 
-[^t-2]: Aggiornato dall’all. 6 n. II 1 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° set. 2023 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^t-2]: Aggiornato dall’all. 6 cifra II 1 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° set. 2023 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 I
 
@@ -721,5 +722,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RU 1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)all. n. II 7; [2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)all. 2 n. 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 24, [2007 4993](https://fedlex.data.admin.ch/eli/oc/2007/700), [2008 189](https://fedlex.data.admin.ch/eli/oc/2008/58), [2010 3399](https://fedlex.data.admin.ch/eli/oc/2010/465); [2012 5521](https://fedlex.data.admin.ch/eli/oc/2012/635)]
+[^annex2-lvlu1-1]: [[RU 1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)all. cifra II n. 7; [2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)all. 2 n. 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 24, [2007 4993](https://fedlex.data.admin.ch/eli/oc/2007/700), [2008 189](https://fedlex.data.admin.ch/eli/oc/2008/58), [2010 3399](https://fedlex.data.admin.ch/eli/oc/2010/465); [2012 5521](https://fedlex.data.admin.ch/eli/oc/2012/635)]
 [^annex2-lvlu1-2]: Le mod. possono essere consultate alla [RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568).
