@@ -4,13 +4,12 @@ number: "871.111"
 title: Feuerschutz- und Feuerwehrverordnung
 short: FFV
 language: de
-version: 2021-01-01
-valid_until: 2025-03-31
-version_adopted: 2020-11-18
+version: 2025-04-01
+version_adopted: 2023-11-22
 adopted: 1994-05-11
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/871.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2076/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2955/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2076/pdf_file"
 
 (FFV)
 
-vom 11.05.1994 (Stand 01.01.2021)
+vom 11.05.1994 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -220,6 +219,7 @@ beschliesst:
 <sup>1</sup> Die Bewerberin oder der Bewerber um eine Konzession hat ein schriftliches Gesuch mit folgenden Unterlagen an die GVB zu richten:
 
 - a Eidgenössisches Meisterdiplom als Kaminfegerin oder Kaminfeger,
+- a1 Bestätigung über den Abschluss der Ausbildung gemäss Anhang 1 der Verordnung vom 22. November 2023 zur Reinhaltung der Luft (Lufthygieneverordnung, LHV)[^15-1],
 - b Wohnsitzbescheinigung,
 - c Strafregisterauszug,
 - d Handlungsfähigkeitszeugnis,
@@ -235,6 +235,8 @@ beschliesst:
 
 - a kann mit der Auflage verbunden werden, Weiterbildungskurse zu besuchen,
 - b legt nötigenfalls alle weiteren Bedingungen und Auflagen fest.
+
+[^15-1]: BSG [823.111](https://www.belex.sites.be.ch/data/823.111/de)
 
 ### 3.2 Konzessionsgebühr und -dauer
 
@@ -260,15 +262,17 @@ beschliesst:
 
 **Gewähr für die einwandfreie Berufsausübung**
 
-<sup>1</sup> Gewähr für die einwandfreie Ausübung des Berufs als Kaminfegerin oder als Kaminfeger bietet, wer
+<sup>1</sup> Gewähr für die einwandfreie Ausübung des Berufs als Kaminfegerin oder Kaminfeger bietet, wer
 
 - a über einen guten Ruf verfügt,
 - b ausreichende Kenntnisse der geltenden Brandschutzvorschriften nachweisen kann,
+- b1 die gesetzlichen Aufgaben pflichtgemäss erfüllt,
 - c den Betrieb zweckmässig, umweltgerecht und gemäss dem aktuellen Stand der Technik organisiert.
 
 <sup>2</sup> Die Konzessionsinhaberin oder der Konzessionsinhaber
 
 - a darf nur Mitarbeiterinnen und Mitarbeiter beschäftigen, welche die Kaminfegerlehrabschlussprüfung erfolgreich bestanden haben oder über eine gleichwertige Ausbildung verfügen, wobei sich die Gleichwertigkeit nach den vom SBFI anerkannten Berufen richtet,
+- a1 darf für die Kontrolle zur Einhaltung der Brennstoffvorschriften nur Mitarbeiterinnen und Mitarbeiter einsetzen, die hierfür mindestens betriebsintern geschult wurden,
 - b ist für die beruflichen Verrichtungen seiner Mitarbeiterinnen und Mitarbeiter sowie der Lernenden nach den Bestimmungen des Obligationenrechts (OR)[^17-1] verantwortlich.
 
 <sup>3–4</sup> …
@@ -589,6 +593,14 @@ beschliesst:
 **Öffentliche Ausschreibung für die neuen Konzessionen**
 
 <sup>1</sup> Die GVB schreibt innert eines Monats nach Inkrafttreten dieser Änderung die Konzessionen öffentlich aus.
+
+## T2 Übergangsbestimmung der Änderung vom 22.11.2023
+
+#### Art. T2-1
+
+**Kontrolle zur Einhaltung der Brennstoffvorschriften**
+
+<sup>1</sup> Bereits konzessionierte Kaminfegerinnen und Kaminfeger müssen den Abschluss der Ausbildung gemäss Artikel 15 Absatz 1 Buchstabe a1 bis zum 31. Dezember 2026 nachweisen.
 
 Bern, 11. Mai 1994
 

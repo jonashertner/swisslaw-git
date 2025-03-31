@@ -4,13 +4,12 @@ number: "871.111"
 title: "Ordonnance sur la protection contre le feu et sur les sapeurs-pompiers *"
 short: OPFSP
 language: fr
-version: 2021-01-01
-valid_until: 2025-03-31
-version_adopted: 2020-11-18
+version: 2025-04-01
+version_adopted: 2023-11-22
 adopted: 1994-05-11
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/871.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2076/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2955/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2076/pdf_file"
 
 (OPFSP)
 
-du 11.05.1994 (état au 01.01.2021)
+du 11.05.1994 (état au 01.04.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -223,6 +222,7 @@ arrête:
 <sup>1</sup> Le candidat ou la candidate qui désire obtenir une concession adresse à l'AIB une demande écrite à laquelle seront joints les documents suivants:
 
 - a la maîtrise fédérale de ramoneur ou ramoneuse;
+- a1 une attestation prouvant que la formation exigée à l'annexe 1 de l'ordonnance cantonale du 22 novembre 2023 sur la protection de l'air (OCPAir)[^15-1] a été accomplie;
 - b une attestation de domicile;
 - c un extrait du casier judiciaire;
 - d un certificat de capacité pour l'exercice des droits civils;
@@ -238,6 +238,8 @@ arrête:
 
 - a peut être assortie de la charge de suivre des cours de formation continue;
 - b définit toutes les autres conditions et charges nécessaires.
+
+[^15-1]: RSB [823.111](https://www.belex.sites.be.ch/data/823.111/fr)
 
 ### 3.2 Emolument et durée de validité de la concession
 
@@ -266,12 +268,14 @@ arrête:
 <sup>1</sup> Pour offrir les garanties d'un exercice irréprochable de la profession, les ramoneurs et ramoneuses doivent
 
 - a jouir d'une bonne réputation;
-- b justifier d'une connaissance suffisante des prescriptions de protection incendie en vigueur et
+- b justifier d'une connaissance suffisante des prescriptions de protection incendie en vigueur;
+- b1 accomplir leurs tâches légales conformément à leurs obligations et
 - c organiser leur activité de manière efficace, respectueuse de l'environnement et conforme à l'état de la technique.
 
 <sup>2</sup> Le ou la titulaire d'une concession
 
 - a ne peut employer que des collaborateurs et collaboratrices qui ont réussi l'examen de fin d'apprentissage dans la profession de ramoneur ou ramoneuse ou ont achevé une formation jugée équivalente selon la liste des professions reconnues par le SEFRI;
+- a1 ne peut employer, pour les contrôles visant à vérifier que les prescriptions sur les combustibles sont respectées, que des collaborateurs et collaboratrices ayant au moins été formés à l'interne;
 - b répond du travail accompli par ses collaborateurs et collaboratrices ainsi que par ses apprentis et apprenties conformément aux dispositions du Code des obligations (OR)[^17-1].
 
 <sup>3–4</sup> …
@@ -592,6 +596,14 @@ arrête:
 **Appel d'offres public pour les nouvelles concessions**
 
 <sup>1</sup> Dans le mois suivant l'entrée en vigueur de la présente ordonnance, l'AIB lancera un appel d'offres public pour l'octroi des concessions.
+
+## T2 Disposition transitoire de la modification du 22.11.2023
+
+#### Art. T2-1
+
+**Contrôle du respect des prescriptions sur les combustibles**
+
+<sup>1</sup> Les ramoneuses et ramoneurs déjà titulaires d'une concession doivent fournir d'ici au 31 décembre 2026 un justificatif attestant qu'ils ont accompli la formation visée à l'article 15, alinéa 1, lettre a1.
 
 Berne, le 11 mai 1994
 
