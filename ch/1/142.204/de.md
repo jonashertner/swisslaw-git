@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2025-02-04
+version: 2025-04-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250204/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250204-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 4. Februar 2025)
+vom 15. August 2018 (Stand am 1. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -58,7 +58,8 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 - j.[^1-22] Verordnung (EU) 2021/1060[^1-23];
 - k.[^1-24] Beschluss Nr. 1105/2011/EU[^1-25];
 - l.[^1-26] Verordnung (EG) Nr. 694/2003[^1-27];
-- m.[^1-28] Verordnung (EU) 2016/399[^1-29].[^1-30]
+- m.[^1-28] Verordnung (EU) 2016/399[^1-29];
+- n.[^1-30] Verordnung (EU) 2024/1356[^1-31].[^1-32]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
@@ -89,7 +90,9 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 [^1-27]: Verordnung (EG) Nr. 694/2003 des Rates vom 14. April 2003 über einheitliche Formate von Dokumenten für den erleichterten Transit (FTD) und Dokumenten für den erleichterten Transit im Eisenbahnverkehr (FRTD) gemäss der Verordnung (EG) Nr. 693/2003, ABl. L 99 vom 17. April 2003, S. 15; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
 [^1-28]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^1-29]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.06.2024.
-[^1-30]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-30]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^1-31]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
+[^1-32]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -948,6 +951,19 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 [^34i-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
 [^34i-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34j
+
+**Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2024/1356**[^34j-1]
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1356[^34j-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34j-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2024/1356 erlassen wurden und Folgendes regeln:
+
+- a. das detaillierte Verfahren der Sicherheitskontrolle und die Spezifikationen für das Abrufen von Daten in den EU-Informationssystemen (Art. 15 Abs. 5);
+- b. das Verfahren für die Zusammenarbeit zwischen den Behörden, die für die Durchführung der Überprüfung zuständig sind, den nationalen Interpol-Zentralbüros und den nationalen Europol-Stellen zur Ermittlung einer Bedrohung für die innere Sicherheit (Art. 16 Abs. 8).
+
+[^34j-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^34j-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. n.
+[^34j-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 

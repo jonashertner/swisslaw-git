@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2025-02-04
+version: 2025-04-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250204-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250204/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 4 février 2025)
+du 15 août 2018 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -57,7 +57,8 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - j.[^1-22] règlement (UE) 2021/1060[^1-23];
 - k.[^1-24] décision n<sup>o</sup> 1105/2011/UE[^1-25];
 - l.[^1-26] règlement (CE) n<sup>o</sup> 694/2003[^1-27];
-- m.[^1-28] règlement (UE) 2016/399[^1-29].[^1-30]
+- m.[^1-28] règlement (UE) 2016/399[^1-29];
+- n.[^1-30] règlement (UE) 2024/1356[^1-31].[^1-32]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
@@ -88,7 +89,9 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-27]: Règlement (CE) n<sup>o</sup> 694/2003 du Conseil du 14 avril 2003 établissant des modèles uniformes pour le document facilitant le transit (DFT) et le document facilitant le transit ferroviaire (DFTF) prévus par le règlement (CE) n<sup>o</sup> 693/2003, JO L 99 du 17 avril 2003, p. 15; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
 [^1-28]: Introduite par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^1-29]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.06.2024.
-[^1-30]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-30]: Introduite par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^1-31]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
+[^1-32]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -946,6 +949,19 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 [^34i-1]: Introduit par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
 [^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34j
+
+**Conclusion de traités internationaux liés au règlement (UE) 2024/1356**[^34j-1]
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2024/1356[^34j-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34j-3] et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2024/1356 et qu’ils concernent les domaines suivants:
+
+- a. la procédure détaillée du contrôle de sécurité et les spécifications pour l’extraction de données des systèmes d’information de l’UE (art. 15, par. 5);
+- b. la procédure de coopération entre les autorités chargées de procéder au filtrage, les bureaux centraux nationaux d’Interpol et les unités nationales Europol pour déterminer une menace pour la sécurité intérieure (art. 16, par. 8).
+
+[^34j-1]: Introduit par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^34j-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. n.
+[^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 
