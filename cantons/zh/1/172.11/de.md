@@ -4,11 +4,11 @@ number: "172.11"
 title: Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)
 short: VOG RR
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-04-01
+version: "2025-04-01"
+nachtrag: "128"
+valid_until: 2026-01-01
 adopted: 2007-07-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-128.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Der Legislaturbericht zeigt auf:
 
@@ -151,7 +151,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>3</sup> Die Staatskanzlei stellt Antrag. Sie stützt sich hierfür auf die jährliche Berichterstattung der Direktionen und stellt Querbezüge her.
 
@@ -215,7 +215,7 @@ Die Direktionen bereiten die Planungen ihrer Politikbereiche vor.
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>2</sup> In ihren jährlichen Berichterstattungen stellen dar:
 
@@ -309,7 +309,7 @@ Der Regierungsrat ist zuständig für:
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - c. Unterstützung des Regierungsrates beim Controlling der Aussenbeziehungen, d.[^22-1] Antragstellung an den Regierungsrat für die Berichterstattung gemäss § 34 q Abs. 2 des Kantonsratsgesetzes vom 5. April 1981.
 
@@ -405,7 +405,7 @@ Der Regierungsrat erlässt Leitlinien über a. die Grundsätze und Ziele seiner 
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Der Regierungsrat führt Klausurtagungen durch, an denen er insbesondere komplexe Fragen mit weit reichender Bedeutung als Schwerpunktthema berät.
 
@@ -507,7 +507,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **11**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 [^36-1]: Eingefügt durch RRB vom 23. August 2017 (OS 72, 445; ABl 2017-09-01). In Kraft seit 1. November 2017.
 
@@ -605,7 +605,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **13**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Wird der Inhalt oder Aufbau umfassend geändert, wird er als neuer Antrag eingereicht.
 
@@ -689,7 +689,7 @@ Die Beschlüsse werden in der Regel durch Protokollauszug oder ausnahmsweise dur
 
 **15**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - c. Koordination und Unterstützung der Strategieumsetzung innerhalb der Verwaltung in den Bereichen Digitale Verwaltung und E-Government, d.[^h3AbschnittStaats-1] Koordination der Umsetzung des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (IDG)[^h3AbschnittStaats-2] durch die kantonale Verwaltung,
 
@@ -781,7 +781,7 @@ Die Direktionen des Regierungsrates sind:
 
 **17**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - c. die Zuweisung der einzelnen Aufgabenbereiche,
 
@@ -878,7 +878,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **19**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 ### 3. Teil: Koordinationsorgane der Direktionen
 
@@ -964,7 +964,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **21**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - c. Lagebeurteilung und Früherkennung von wichtigen aussenpolitischen Entwicklungen sowie Feststellung des Handlungsbedarfs zuhanden des Regierungsrates,
 
@@ -1080,7 +1080,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 **25**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 <sup>57</sup> Fassung gemäss RRB vom 9. Dezember 2020 (OS 75, 674; ABl 2020-12-18). In Kraft seit 1. Januar 2021.
 
@@ -1105,6 +1105,8 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 <sup>67</sup> Fassung gemäss RRB vom 15. März 2023 (OS 78, 182; ABl 2023-03-17). In Kraft seit 1. Januar 2024.
 
 <sup>68</sup> Eingefügt durch RRB vom 24. Mai 2023 (OS 78, 526; ABl 2023-06-09). In Kraft seit 1. Januar 2024.
+
+<sup>69</sup> Fassung gemäss RRB vom 29. Januar 2025 (OS 80, 53; ABl 2025-02-14). In Kraft seit 1. April 2025.
 
 ### Anhang 1: Zuständigkeitsbereiche der Direktionen
 
@@ -1160,7 +1162,7 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 **27**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 [^hErwachsenenschutzrec-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^hErwachsenenschutzrec-2]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. August 2011.
@@ -1217,9 +1219,7 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 - 6\. Erbschaften und Zuwendungen Dritter
 
-- 7\. Salzregal
-
-- 8\. Aufsicht über den Gebührenbezug der Notariate 9.<sup>57</sup> Gemeinnütziger Fonds
+- 7\. Salzregal 8.<sup>69</sup> Notariatswesen 9.<sup>57</sup> Gemeinnütziger Fonds
 
 - 10\. Zentrales Personalwesen
 
@@ -1272,7 +1272,7 @@ recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständi
 
 **29**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - 19\. Öffentliche Arbeitsvermittlung, Arbeitslosenversicherung (Vollzug AVG und
 
@@ -1379,7 +1379,7 @@ stelle
 
 **31**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - 20\. Schutz vor Naturgefahren
 
@@ -1427,7 +1427,7 @@ stelle
 
 **33**
 
-- 1\. 1. 24 - 123 2.2 Weitere Verwaltungseinheiten[^h1DirektionderJus-5]
+- 1\. 4. 25 - 128 2.2 Weitere Verwaltungseinheiten[^h1DirektionderJus-5]
 
 - a. Passbüro b.[^h1DirektionderJus-6] Eichämter
 
@@ -1481,7 +1481,7 @@ stelle
 
 **35**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 [^h1DirektionderJus-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^h1DirektionderJus-2]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
@@ -1491,7 +1491,7 @@ stelle
 [^h1DirektionderJus-6]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 [^h1DirektionderJus-7]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^h1DirektionderJus-8]: Aufgehoben durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
-[^h1DirektionderJus-9]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1. 1. 24 - 123 23
+[^h1DirektionderJus-9]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1. 4. 25 - 128 23
 [^h1DirektionderJus-10]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 [^h1DirektionderJus-11]: Fassung gemäss RRB vom 10. September 2014 (OS 69, 400; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
 
@@ -1556,11 +1556,11 @@ länder.
 
 **37**
 
-- 1\. 1. 24 - 123 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen 6.3 Volksschulamt a. Anordnungen beim Vollzug des Lehrpersonalgesetzes vom 10. Mai 1999, ausgenommen Anordnungen gemäss
+- 1\. 4. 25 - 128 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen 6.3 Volksschulamt a. Anordnungen beim Vollzug des Lehrpersonalgesetzes vom 10. Mai 1999, ausgenommen Anordnungen gemäss
 
 [^h4Volkswirtschaftsd-1]: Eingefügt durch RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 [^h4Volkswirtschaftsd-2]: Fassung gemäss RRB vom 28. Oktober 2009 (OS 64, 636; ABl 2009, 2215). In Kraft seit 1. Januar 2010.
-[^h4Volkswirtschaftsd-3]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1. 1. 24 - 123 23
+[^h4Volkswirtschaftsd-3]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011. 1. 4. 25 - 128 23
 [^h4Volkswirtschaftsd-4]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 158; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 [^h4Volkswirtschaftsd-5]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 [^h4Volkswirtschaftsd-6]: Fassung gemäss RRB vom 10. September 2014 (OS 69, 400; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
