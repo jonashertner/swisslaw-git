@@ -3,11 +3,11 @@ sr: "0.520.3"
 title: "Convenzione dell'Aia del 14 maggio 1954 per la protezione dei beni culturali in caso di conflitto armato"
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045"
 language: it
-version: 2020-04-29
+version: 2025-04-01
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20200429/it/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20200429-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20200429/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1962** 1045; FF **1961** II 1204 ediz. ted. 1197 ediz. franc.
 
 Traduzione
 
-Conclusa all’Aia il 14 maggio 1954
+Conclusa all’Aia il 14 maggio 1954 Approvata dall’Assemblea federale il 15 marzo 1962[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 15 maggio 1962 Entrata in vigore per la Svizzera il 15 agosto 1962
 
-Approvata dall’Assemblea federale il 15 marzo 1962[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 15 maggio 1962
-
-Entrata in vigore per la Svizzera il 15 agosto 1962
-
-(Stato 29 aprile 2020)
+(Stato 1° aprile 2025)
 
 [^t-1]: [RU 1962 1043](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
@@ -355,9 +349,9 @@ Le Alte Parti contraenti si obbligano a prendere, secondo il loro diritto penale
 
 **Lingue**
 
-<sup>1.</sup> La presente Convenzione è stesa in inglese, spagnolo, francese e russo, i quali testi fanno egualmente fede.
+\1. La presente Convenzione è stesa in inglese, spagnolo, francese e russo, i quali testi fanno egualmente fede.
 
-<sup>2.</sup> L’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura curerà la traduzione di tali testi nelle altre lingue ufficiali della sua Conferenza generale.
+\2. L’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura curerà la traduzione di tali testi nelle altre lingue ufficiali della sua Conferenza generale.
 
 #### Art. 30
 
@@ -369,9 +363,9 @@ La presente Convenzione recherà la data del 14 maggio 1954 e resterà aperta fi
 
 **Ratificazione**
 
-<sup>1.</sup> La presente Convenzione sarà sottoposta alla ratificazione degli Stati firmatari, conformemente alle loro procedure costituzionali.
+\1. La presente Convenzione sarà sottoposta alla ratificazione degli Stati firmatari, conformemente alle loro procedure costituzionali.
 
-<sup>2.</sup> Gli strumenti di ratificazione saranno depositati presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
+\2. Gli strumenti di ratificazione saranno depositati presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
 
 #### Art. 32
 
@@ -383,19 +377,19 @@ A contare dal giorno dell’entrata in vigore, la presente Convenzione sarà ape
 
 **Entrata in vigore**
 
-<sup>1.</sup> La presente Convenzione entrerà in vigore tre mesi dopo il deposito di cinque strumenti di ratificazione.
+\1. La presente Convenzione entrerà in vigore tre mesi dopo il deposito di cinque strumenti di ratificazione.
 
-<sup>2.</sup> Successivamente, essa entrerà in vigore per ogni Alta Parte contraente, tre mesi dopo il deposito del suo strumento di ratificazione o di adesione.
+\2. Successivamente, essa entrerà in vigore per ogni Alta Parte contraente, tre mesi dopo il deposito del suo strumento di ratificazione o di adesione.
 
-<sup>3.</sup> Le condizioni previste negli articoli 18 e 19 daranno effetto immediato alle ratificazioni e adesioni depositate dalle Parti in conflitto, prima o dopo l’inizio delle ostilità o dell’occupazione. In questi casi, il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura farà, per la via più rapida, le comunicazioni previste nell’articolo 38.
+\3. Le condizioni previste negli articoli 18 e 19 daranno effetto immediato alle ratificazioni e adesioni depositate dalle Parti in conflitto, prima o dopo l’inizio delle ostilità o dell’occupazione. In questi casi, il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura farà, per la via più rapida, le comunicazioni previste nell’articolo 38.
 
 #### Art. 34
 
 **Applicazione effettiva**
 
-<sup>1.</sup> Ciascuno Stato che sia parte nella Convenzione dalla sua entrata in vigore prenderà tutti i provvedimenti necessari affinché sia effettivamente applicata nel termine di sei mesi.
+\1. Ciascuno Stato che sia parte nella Convenzione dalla sua entrata in vigore prenderà tutti i provvedimenti necessari affinché sia effettivamente applicata nel termine di sei mesi.
 
-<sup>2.</sup> Questo termine sarà di sei mesi, a contare dal giorno del deposito dello strumento di ratificazione o di adesione, per tutti gli Stati che lo depositassero dopo l’entrata in vigore della Convenzione.
+\2. Questo termine sarà di sei mesi, a contare dal giorno del deposito dello strumento di ratificazione o di adesione, per tutti gli Stati che lo depositassero dopo l’entrata in vigore della Convenzione.
 
 #### Art. 35
 
@@ -407,24 +401,23 @@ Ogni Alta Parte contraente potrà, al momento della ratificazione o dell’adesi
 
 **Relazioni con le Convenzioni anteriori**
 
-<sup>1.</sup> La presente Convenzione completa le Convenzioni dell’Aia del 29 luglio 1899 e del 18 ottobre 1907 concernenti le leggi e gli usi della guerra terrestre (IV)[^36-1], con il Regolamento annesso, e la Convenzione dell’Aia del 18 ottobre 1907 concernente il bombardamento con forze navali in tempo di guerra (IX)[^36-2] tra le Potenze che partecipano tanto a essa come a quelle Convenzioni, e sostituisce il contrassegno previsto nel suo articolo 16 a quello previsto nell’articolo 5 della Convenzione summenzionata (IX) nei casi in cui essa e il suo Regolamento d’esecuzione[^36-3] ne prevedono l’impiego.
+\1. La presente Convenzione completa le Convenzioni dell’Aia del 29 luglio 1899 e del 18 ottobre 1907 concernenti le leggi e gli usi della guerra terrestre (IV), con il Regolamento annesso, e la Convenzione dell’Aia del 18 ottobre 1907 concernente il bombardamento con forze navali in tempo di guerra (IX)[^u1-36-1] tra le Potenze che partecipano tanto a essa come a quelle Convenzioni, e sostituisce il contrassegno previsto nel suo articolo 16 a quello previsto nell’articolo 5 della Convenzione summenzionata (IX) nei casi in cui essa e il suo Regolamento d’esecuzione[^u1-36-2] ne prevedono l’impiego.
 
-<sup>2.</sup> La presente Convenzione completa il Patto di Washington del 15 aprile 1935[^36-4] per la protezione di istituzioni artistiche e scientifiche e di monumenti storici (Patto Roerich) tra le Potenze che partecipano a entrambi, e sostituisce il contrassegno previsto nel suo articolo 16 al vessillo distintivo previsto nell’articolo III del Patto, nei casi in cui essa e il suo Regolamento d’esecuzione ne prevedono l’impiego.
+\2. La presente Convenzione completa il Patto di Washington del 15 aprile 1935[^u1-36-3] per la protezione di istituzioni artistiche e scientifiche e di monumenti storici (Patto Roerich) tra le Potenze che partecipano a entrambi, e sostituisce il contrassegno previsto nel suo articolo 16 al vessillo distintivo previsto nell’articolo III del Patto, nei casi in cui essa e il suo Regolamento d’esecuzione ne prevedono l’impiego.
 
-[^36-1]: [RS 0.515.111](https://fedlex.data.admin.ch/eli/cc/23/261_225_251)e [0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^36-2]: [RS 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
-[^36-3]: [RS 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
-[^36-4]: La Svizzera non è Stato partecipante di questo Patto.
+[^u1-36-1]: [RS 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
+[^u1-36-2]: [RS 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
+[^u1-36-3]: La Svizzera non è Stato partecipante di questo Patto.
 
 #### Art. 37
 
 **Disdetta**
 
-<sup>1.</sup> Ogni Alta Parte contraente può disdire la presente Convenzione in nome suo e di quello d’ogni territorio di cui assicura le relazioni internazionali.
+\1. Ogni Alta Parte contraente può disdire la presente Convenzione in nome suo e di quello d’ogni territorio di cui assicura le relazioni internazionali.
 
-<sup>2.</sup> La disdetta si opera con il deposito d’uno strumento scritto presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
+\2. La disdetta si opera con il deposito d’uno strumento scritto presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
 
-<sup>3.</sup> Essa avrà effetto un anno dopo il ricevimento dello strumento. Tuttavia, se al termine di detto anno la Parte che recede sia implicata in un conflitto armato, la disdetta è sospesa sino alla fine delle ostilità, ma in ogni caso, fino a quando non siano terminate le operazioni di rimpatrio dei beni culturali.
+\3. Essa avrà effetto un anno dopo il ricevimento dello strumento. Tuttavia, se al termine di detto anno la Parte che recede sia implicata in un conflitto armato, la disdetta è sospesa sino alla fine delle ostilità, ma in ogni caso, fino a quando non siano terminate le operazioni di rimpatrio dei beni culturali.
 
 #### Art. 38
 
@@ -436,39 +429,41 @@ Il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazio
 
 **Revisione della Convenzione e del Regolamento d’esecuzione**
 
-<sup>1.</sup>
+\2. Il Direttore generale trasmetterà a tutte le Alte Parti contraenti le risposte ricevute in applicazione dei primo paragrafo del presente articolo.
 
-Ciascuna Alta Parte contraente può proporre emendamenti della presente Convenzione e del suo Regolamento d’esecuzione[^39-1]. Ogni emendamento, così proposto, sarà comunicato al Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, che ne trasmetterà il testo a tutte le Alte Parti contraenti chiedendo di fargli conoscere entro quattro mesi:
+\3. Se tutte le Alte Parti contraenti che, nel termine previsto, abbiano comunicato al Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura le loro intenzioni conformemente alla lettera b del paragrafo 1 del presente articolo, lo informano che intendono approvare l’emendamento senza la convocazione di una conferenza, questa risoluzione sarà notificata dal medesimo, in conformità dell’articolo 38. L’emendamento avrà effetto per tutte le Alte Parti contraenti, 90 giorni dopo quella notificazione.
+
+\4. Il Direttore generale, a domanda di più di un terzo delle Alte Parti contraenti, convocherà una conferenza delle stesse per studiare l’emendamento proposto.
+
+\5. Gli emendamenti della Convenzione o del suo Regolamento d’esecuzione, trattati secondo la procedura prevista nel paragrafo precedente, entreranno in vigore soltanto dopo che siano stati approvati a unanimità dalle Alte Parti contraenti rappresentate alla Conferenza e accettati da tutte le Alte Parti contraenti.
+
+\6. L’accettazione, da parte delle Alte Parti contraenti, degli emendamenti approvati dalla conferenza prevista nei paragrafi 4 e 5, sarà fatta mediante il deposito di uno strumento formale presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
+
+\7. Dopo l’entrata in vigore di emendamenti della presente Convenzione o del suo Regolamento d’esecuzione, solo il testo così modificato rimarrà aperto alla ratificazione o all’adesione.
+
+\1. Ciascuna Alta Parte contraente può proporre emendamenti della presente Convenzione e del suo Regolamento d’esecuzione[^u1-39-1]. Ogni emendamento, così proposto, sarà comunicato al Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, che ne trasmetterà il testo a tutte le Alte Parti contraenti chiedendo di fargli conoscere entro quattro mesi:
 
 - a) se desiderano sia convocata una conferenza per studiare l’emendamento proposto;
 - b) se accettano l’emendamento proposto senza la convocazione d’una conferenza;
 - c) se respingono l’emendamento proposto senza la convocazione di una conferenza.
 
-<sup>2.</sup> Il Direttore generale trasmetterà a tutte le Alte Parti contraenti le risposte ricevute in applicazione dei primo paragrafo del presente articolo.
-
-<sup>3.</sup> Se tutte le Alte Parti contraenti che, nel termine previsto, abbiano comunicato al Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura le loro intenzioni conformemente alla lettera b del paragrafo 1 del presente articolo, lo informano che intendono approvare l’emendamento senza la convocazione di una conferenza, questa risoluzione sarà notificata dal medesimo, in conformità dell’articolo 38. L’emendamento avrà effetto per tutte le Alte Parti contraenti, 90 giorni dopo quella notificazione.
-
-<sup>4.</sup> Il Direttore generale, a domanda di più di un terzo delle Alte Parti contraenti, convocherà una conferenza delle stesse per studiare l’emendamento proposto.
-
-<sup>5.</sup> Gli emendamenti della Convenzione o del suo Regolamento d’esecuzione, trattati secondo la procedura prevista nel paragrafo precedente, entreranno in vigore soltanto dopo che siano stati approvati a unanimità dalle Alte Parti contraenti rappresentate alla Conferenza e accettati da tutte le Alte Parti contraenti.
-
-<sup>6.</sup> L’accettazione, da parte delle Alte Parti contraenti, degli emendamenti approvati dalla conferenza prevista nei paragrafi 4 e 5, sarà fatta mediante il deposito di uno strumento formale presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
-
-<sup>7.</sup> Dopo l’entrata in vigore di emendamenti della presente Convenzione o del suo Regolamento d’esecuzione, solo il testo così modificato rimarrà aperto alla ratificazione o all’adesione.
-
-[^39-1]: [RS 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
+[^u1-39-1]: [RS 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
 
 #### Art. 40
 
 **Registrazione**
 
-La presente Convenzione sarà registrata presso il Segretariato delle Nazioni Unite, conformemente all’articolo 102 della Carta delle Nazioni Unite[^40-1], a richiesta del Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
+La presente Convenzione sarà registrata presso il Segretariato delle Nazioni Unite, conformemente all’articolo 102 della Carta delle Nazioni Unite[^u1-40-1], a richiesta del Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
 
-[^40-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 14 maggio 1954, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutti gli Stati menzionati negli articoli 30 e 32, e all’Organizzazione delle Nazioni Unite. (Seguono le firme)
+Fatto all’Aia, il 14 maggio 1954, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutti gli Stati menzionati negli articoli 30 e 32, e all’Organizzazione delle Nazioni Unite.
 
-Campo d’applicazione il 29 aprile 2020**[^t-2]**
+(Seguono le firme)
+
+[^u1-40-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+Campo d’applicazione il 1° aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -511,7 +506,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Dominicana, Repubblica</td><td>5 gennaio</td><td>1960 A</td><td>5 aprile</td><td>1960</td></tr>
 <tr><td>Ecuador</td><td>2 ottobre</td><td>1956</td><td>2 gennaio</td><td>1957</td></tr>
 <tr><td>Egitto</td><td>17 agosto</td><td>1955</td><td>7 agosto</td><td>1956</td></tr>
-<tr><td>El Salvador</td><td>19 luglio</td><td>2001 A</td><td>19 ottobre</td><td>2001</td></tr>
+<tr><td>El Salvador</td><td>19 luglio</td><td>2001</td><td>19 ottobre</td><td>2001</td></tr>
 <tr><td>Eritrea</td><td>6 agosto</td><td>2004 A</td><td>6 novembre</td><td>2004</td></tr>
 <tr><td>Estonia</td><td>4 aprile</td><td>1995 A</td><td>4 luglio</td><td>1995</td></tr>
 <tr><td>Etiopia</td><td>31 agosto</td><td>2015 A</td><td>30 novembre</td><td>2015</td></tr>
@@ -521,7 +516,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Georgia</td><td>4 novembre</td><td>1992 S</td><td>21 dicembre</td><td>1991</td></tr>
 <tr><td>Germania</td><td>11 agosto</td><td>1967</td><td>11 novembre</td><td>1967</td></tr>
 <tr><td>Ghana</td><td>25 luglio</td><td>1960 A</td><td>25 ottobre</td><td>1960</td></tr>
-<tr><td>Giappone</td><td>10 luglio</td><td>2007 A</td><td>10 ottobre</td><td>2007</td></tr>
+<tr><td>Giappone</td><td>10 settembre</td><td>2007 A</td><td>10 dicembre</td><td>2007</td></tr>
 <tr><td>Gibuti</td><td>9 aprile</td><td>2018 A</td><td>9 luglio</td><td>2018</td></tr>
 <tr><td>Giordania</td><td>2 ottobre</td><td>1957</td><td>2 gennaio</td><td>1958</td></tr>
 <tr><td>Grecia</td><td>9 febbraio</td><td>1981</td><td>9 maggio</td><td>1981</td></tr>
@@ -534,6 +529,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Iran</td><td>22 giugno</td><td>1959</td><td>22 settembre</td><td>1959</td></tr>
 <tr><td>Iraq</td><td>21 dicembre</td><td>1967</td><td>21 marzo</td><td>1968</td></tr>
 <tr><td>Irlanda</td><td>17 maggio</td><td>2018</td><td>17 agosto</td><td>2018</td></tr>
+<tr><td>Islanda</td><td>5 dicembre</td><td>2022 A</td><td>5 marzo</td><td>2023</td></tr>
 <tr><td>Israele</td><td>3 ottobre</td><td>1957</td><td>3 gennaio</td><td>1958</td></tr>
 <tr><td>Italia</td><td>9 maggio</td><td>1958</td><td>9 agosto</td><td>1958</td></tr>
 <tr><td>Kazakstan</td><td>14 marzo</td><td>1997 S</td><td>21 dicembre</td><td>1991</td></tr>
@@ -549,7 +545,9 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Madagascar</td><td>3 novembre</td><td>1961 A</td><td>3 febbraio</td><td>1962</td></tr>
 <tr><td>Malaysia</td><td>12 dicembre</td><td>1960 A</td><td>12 marzo</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18 maggio</td><td>1961 A</td><td>18 agosto</td><td>1961</td></tr>
+<tr><td>Malta</td><td>15 luglio</td><td>2024 A</td><td>15 ottobre</td><td>2024</td></tr>
 <tr><td>Marocco</td><td>30 agosto</td><td>1968 A</td><td>30 novembre</td><td>1968</td></tr>
+<tr><td>Mauritania</td><td>7 luglio</td><td>2023 A</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Maurizio <sup>a</sup></td><td>22 settembre</td><td>2006 A</td><td>22 dicembre</td><td>2006</td></tr>
 <tr><td>Messico</td><td>7 maggio</td><td>1956</td><td>7 agosto</td><td>1956</td></tr>
 <tr><td>Moldova</td><td>9 dicembre</td><td>1999 A</td><td>9 marzo</td><td>2000</td></tr>
@@ -598,7 +596,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Togo</td><td>24 gennaio</td><td>2017 A</td><td>24 aprile</td><td>2017</td></tr>
 <tr><td>Tunisia</td><td>28 gennaio</td><td>1981 A</td><td>28 aprile</td><td>1981</td></tr>
 <tr><td>Turchia</td><td>15 dicembre</td><td>1965 A</td><td>15 marzo</td><td>1966</td></tr>
-<tr><td>Turkmenistan</td><td>22 gennaio</td><td>2018</td><td>22 aprile</td><td>2018</td></tr>
+<tr><td>Turkmenistan</td><td>22 gennaio</td><td>2018 A</td><td>22 aprile</td><td>2018</td></tr>
 <tr><td>Ucraina</td><td>6 febbraio</td><td>1957</td><td>6 maggio</td><td>1957</td></tr>
 <tr><td>Ungheria</td><td>17 maggio</td><td>1956</td><td>17 agosto</td><td>1956</td></tr>
 <tr><td>Uruguay</td><td>24 settembre</td><td>1999</td><td>24 dicembre</td><td>1999</td></tr>
@@ -606,9 +604,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Venezuela</td><td>9 maggio</td><td>2005 A</td><td>9 agosto</td><td>2005</td></tr>
 <tr><td>Yemen</td><td>6 febbraio</td><td>1970 A</td><td>6 maggio</td><td>1970</td></tr>
 <tr><td>Zimbabwe</td><td>9 giugno</td><td>1998 A</td><td>9 settembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. si applica all’isola di Maurizio, a Rodrigues, Agalega, Tromelin, Cargados Carajos e all’archipelo Chagos con Diego Garcia, e a ogni isola che fa parte dello Stato di Maurizio.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415](https://www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. si applica all’isola di Maurizio, a Rodrigues, Agalega, Tromelin, Cargados Carajos e all’archipelo Chagos con Diego Garcia, e a ogni isola che fa parte dello Stato di Maurizio. <sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 1962 1045](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045), [1971 1820](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820), [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961), [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318), [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613), [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347), [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076), [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171), [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721), [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130), [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246), [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169)e [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1962 1045](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045); [1971 1820](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820); [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961); [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318); [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613); [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347); [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076); [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171); [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721); [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130); [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246); [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169); [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317); [2025 223](https://fedlex.data.admin.ch/eli/oc/2025/223). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

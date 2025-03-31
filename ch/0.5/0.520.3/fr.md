@@ -3,11 +3,11 @@ sr: "0.520.3"
 title: Convention de La Haye du 14 mai 1954 pour la protection des biens culturels en cas de conflit armé
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045"
 language: fr
-version: 2020-04-29
+version: 2025-04-01
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20200429/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20200429-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20200429/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1962** 1041
 
 Texte original
 
-Conclue à La Haye le 14 mai 1954
+Conclue à La Haye le 14 mai 1954 Approuvée par l’Assemblée fédérale le 15 mars 1962[^t-1] Instrument d’adhésion déposé par la Suisse le 15 mai 1962 Entrée en vigueur pour la Suisse le 15 août 1962
 
-Approuvée par l’Assemblée fédérale le 15 mars 1962[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 15 mai 1962
-
-Entrée en vigueur pour la Suisse le 15 août 1962
-
-(Etat le 29 avril 2020)
+(État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: [RO 1962 1039](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
@@ -469,7 +463,7 @@ Fait à La Haye, le 14 mai 1954, en un seul exemplaire qui sera déposé dans le
 
 [^u1-40-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-Champ d’application le 29 avril 2020**[^t-2]**
+Champ d’application le 1<sup>er</sup> avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -511,7 +505,7 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Danemark</td><td>26 mars</td><td>2003</td><td>26 juin</td><td>2003</td></tr>
 <tr><td>Djibouti</td><td>9 avril</td><td>2018 A</td><td>9 juillet</td><td>2018</td></tr>
 <tr><td>Égypte</td><td>17 août</td><td>1955</td><td>7 août</td><td>1956</td></tr>
-<tr><td>El Salvador</td><td>19 juillet</td><td>2001 A</td><td>19 octobre</td><td>2001</td></tr>
+<tr><td>El Salvador</td><td>19 juillet</td><td>2001</td><td>19 octobre</td><td>2001</td></tr>
 <tr><td>Équateur</td><td>2 octobre</td><td>1956</td><td>2 janvier</td><td>1957</td></tr>
 <tr><td>Érythrée</td><td>6 août</td><td>2004 A</td><td>6 novembre</td><td>2004</td></tr>
 <tr><td>Espagne</td><td>7 juillet</td><td>1960</td><td>7 octobre</td><td>1960</td></tr>
@@ -534,9 +528,10 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Iran</td><td>22 juin</td><td>1959</td><td>22 septembre</td><td>1959</td></tr>
 <tr><td>Iraq</td><td>21 décembre</td><td>1967</td><td>21 mars</td><td>1968</td></tr>
 <tr><td>Irlande</td><td>17 mai</td><td>2018</td><td>17 août</td><td>2018</td></tr>
+<tr><td>Islande</td><td>5 décembre</td><td>2022 A</td><td>5 mars</td><td>2023</td></tr>
 <tr><td>Israël</td><td>3 octobre</td><td>1957</td><td>3 janvier</td><td>1958</td></tr>
 <tr><td>Italie</td><td>9 mai</td><td>1958</td><td>9 août</td><td>1958</td></tr>
-<tr><td>Japon</td><td>10 juillet</td><td>2007 A</td><td>10 octobre</td><td>2007</td></tr>
+<tr><td>Japon</td><td>10 septembre</td><td>2007 A</td><td>10 décembre</td><td>2007</td></tr>
 <tr><td>Jordanie</td><td>2 octobre</td><td>1957</td><td>2 janvier</td><td>1958</td></tr>
 <tr><td>Kazakhstan</td><td>14 mars</td><td>1997 S</td><td>21 décembre</td><td>1991</td></tr>
 <tr><td>Kirghizistan</td><td>3 juillet</td><td>1995 A</td><td>3 octobre</td><td>1995</td></tr>
@@ -551,8 +546,10 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Madagascar</td><td>3 novembre</td><td>1961 A</td><td>3 février</td><td>1962</td></tr>
 <tr><td>Malaisie</td><td>12 décembre</td><td>1960 A</td><td>12 mars</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18 mai</td><td>1961 A</td><td>18 août</td><td>1961</td></tr>
+<tr><td>Malte</td><td>15 juillet</td><td>2024 A</td><td>15 octobre</td><td>2024</td></tr>
 <tr><td>Maroc</td><td>30 août</td><td>1968 A</td><td>30 novembre</td><td>1968</td></tr>
 <tr><td>Maurice <sup>a</sup></td><td>22 septembre</td><td>2006 A</td><td>22 décembre</td><td>2006</td></tr>
+<tr><td>Mauritanie</td><td>7 juillet</td><td>2023 A</td><td>7 octobre</td><td>2023</td></tr>
 <tr><td>Mexique</td><td>7 mai</td><td>1956</td><td>7 août</td><td>1956</td></tr>
 <tr><td>Moldova</td><td>9 décembre</td><td>1999 A</td><td>9 mars</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>10 décembre</td><td>1957</td><td>10 mars</td><td>1958</td></tr>
@@ -600,14 +597,14 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Togo</td><td>24 janvier</td><td>2017 A</td><td>24 avril</td><td>2017</td></tr>
 <tr><td>Thaïlande</td><td>2 mai</td><td>1958 A</td><td>2 août</td><td>1958</td></tr>
 <tr><td>Tunisie</td><td>28 janvier</td><td>1981 A</td><td>28 avril</td><td>1981</td></tr>
-<tr><td>Turkménistan</td><td>22 janvier</td><td>2018</td><td>22 avril</td><td>2018</td></tr>
+<tr><td>Turkménistan</td><td>22 janvier</td><td>2018 A</td><td>22 avril</td><td>2018</td></tr>
 <tr><td>Turquie</td><td>15 décembre</td><td>1965 A</td><td>15 mars</td><td>1966</td></tr>
 <tr><td>Ukraine</td><td>6 février</td><td>1957</td><td>6 mai</td><td>1957</td></tr>
 <tr><td>Uruguay</td><td>24 septembre</td><td>1999</td><td>24 décembre</td><td>1999</td></tr>
 <tr><td>Venezuela</td><td>9 mai</td><td>2005 A</td><td>9 août</td><td>2005</td></tr>
 <tr><td>Yémen</td><td>6 février</td><td>1970 A</td><td>6 mai</td><td>1970</td></tr>
 <tr><td>Zimbabwe</td><td>9 juin</td><td>1998 A</td><td>9 septembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention s’applique à l’Île Maurice, Rodrigues, Agalega, Tromelin, Cargados Carjos et l’Archipel de Chagos y compris Diego Garcia et toute autre île faisant partie de l’État de Maurice. <sup>b</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415](https://www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention s’applique à l’Île Maurice, Rodrigues, Agalega, Tromelin, Cargados Carjos et l’Archipel de Chagos y compris Diego Garcia et toute autre île faisant partie de l’État de Maurice. <sup>b</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1962 1041](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045), [1971 1820](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820), [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961), [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318), [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613), [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347), [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076), [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171), [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721), [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130), [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246). [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169), [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1962 1041](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045); [1971 1820](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820); [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961); [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318); [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613); [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347); [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076); [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171); [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721); [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130); [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246); [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169); [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317); [2025 223](https://fedlex.data.admin.ch/eli/oc/2025/223). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

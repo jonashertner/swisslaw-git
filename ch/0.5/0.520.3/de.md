@@ -3,11 +3,11 @@ sr: "0.520.3"
 title: Haager Abkommen vom 14. Mai 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045"
 language: de
-version: 2020-04-29
+version: 2025-04-01
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20200429/de/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20200429-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20200429/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1007_1041_1045-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1007_1041_1045/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1962** 1007; BBl **1961** II 1204
 
 Abgeschlossen in Den Haag am 14. Mai 1954 Von der Bundesversammlung genehmigt am 15. März 1962[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Mai 1962 In Kraft getreten für die Schweiz am 15. August 1962
 
-(Stand am 29. April 2020)
+(Stand am 1. April 2025)
 
 [^t-1]: [AS 1962 1005](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
@@ -399,12 +399,13 @@ Jede der Hohen Vertragsparteien kann bei der Ratifizierung oder beim Beitritt od
 
 **Zusammenhang mit früheren Abkommen**
 
-\1. In den Beziehungen zwischen Mächten, die durch die Haager Abkommen betreffend die Gesetze und Gebräuche des Landkriegs (IV) und betreffend die Beschiessung durch Seestreitkräfte in Kriegszeiten (IX) – seien es die Abkommen vom 29. Juli 1899 oder vom 18. Oktober 1907 – gebunden und gleichzeitig Vertragsparteien des vorliegenden Abkommens sind, ergänzt dieses letztere das genannte Seekriegsabkommen (IX) und die Ausführungsbestimmungen[^u1-36-1] im Anhang zum Landkriegsabkommen (IV); das in Artikel 5 des Seekriegsabkommens (IX) beschriebene Kennzeichen wird ersetzt durch das in Artikel 16 des vorliegenden Abkommens beschriebene in allen Fällen, in denen dieses selbst und seine Ausführungsbestimmungen die Verwendung des Kennzeichens vorsehen.
+\1. In den Beziehungen zwischen Mächten, die durch die Haager Abkommen betreffend die Gesetze und Gebräuche des Landkriegs (IV) und betreffend die Beschiessung durch Seestreitkräfte in Kriegszeiten (IX) – seien es die Abkommen vom 29. Juli 1899 oder vom 18. Oktober 1907[^u1-36-1] – gebunden und gleichzeitig Vertragsparteien des vorliegenden Abkommens sind, ergänzt dieses letztere das genannte Seekriegsabkommen (IX) und die Ausführungsbestimmungen[^u1-36-2] im Anhang zum Landkriegsabkommen (IV); das in Artikel 5 des Seekriegsabkommens (IX) beschriebene Kennzeichen wird ersetzt durch das in Artikel 16 des vorliegenden Abkommens beschriebene in allen Fällen, in denen dieses selbst und seine Ausführungsbestimmungen die Verwendung des Kennzeichens vorsehen.
 
-\2. In den Beziehungen zwischen Mächten, die durch den Vertrag von Washington vom 15. April 1935[^u1-36-2] über den Schutz künstlerischer und wissenschaftlicher Einrichtungen und geschichtlicher Denkmäler (Roerich‑Pakt) gebunden und gleichzeitig Vertragsparteien des vorliegenden Abkommens sind, ergänzt dieses letztere den Roerich‑Pakt und ersetzt die in Artikel III des Paktes beschriebene Flagge durch das Kennzeichen gemäss Artikel 16 des vorliegenden Abkommens in allen Fällen, in denen dieses selbst und seine Ausführungsbestimmungen die Verwendung des Kennzeichens vorsehen.
+\2. In den Beziehungen zwischen Mächten, die durch den Vertrag von Washington vom 15. April 1935[^u1-36-3] über den Schutz künstlerischer und wissenschaftlicher Einrichtungen und geschichtlicher Denkmäler (Roerich‑Pakt) gebunden und gleichzeitig Vertragsparteien des vorliegenden Abkommens sind, ergänzt dieses letztere den Roerich‑Pakt und ersetzt die in Artikel III des Paktes beschriebene Flagge durch das Kennzeichen gemäss Artikel 16 des vorliegenden Abkommens in allen Fällen, in denen dieses selbst und seine Ausführungsbestimmungen die Verwendung des Kennzeichens vorsehen.
 
-[^u1-36-1]: [SR 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
-[^u1-36-2]: Die Schweiz ist diesem Vertrag nicht beigetreten.
+[^u1-36-1]: SR **0.5****15****.****125**
+[^u1-36-2]: [SR 0.520.31](https://fedlex.data.admin.ch/eli/cc/1962/1022_1057_1061)
+[^u1-36-3]: Die Schweiz ist diesem Vertrag nicht beigetreten.
 
 #### Art. 37
 
@@ -460,7 +461,7 @@ Geschehen zu Den Haag, am 14. Mai 1954 in einem einzigen Exemplar, das in den Ar
 
 [^u1-40-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-Geltungsbereich am 29. April 2020**[^t-2]**
+Geltungsbereich am 1. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -495,7 +496,7 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Dominikanische Republik</td><td>5. Januar</td><td>1960 B</td><td>5. April</td><td>1960</td></tr>
 <tr><td>Dschibuti</td><td>9. April</td><td>2018 B</td><td>9. Juli</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>2. Oktober</td><td>1956</td><td>2. Januar</td><td>1957</td></tr>
-<tr><td>El Salvador</td><td>19. Juli</td><td>2001 B</td><td>19. Oktober</td><td>2001</td></tr>
+<tr><td>El Salvador</td><td>19. Juli</td><td>2001</td><td>19. Oktober</td><td>2001</td></tr>
 <tr><td>Eritrea</td><td>6. August</td><td>2004 B</td><td>6. November</td><td>2004</td></tr>
 <tr><td>Estland</td><td>4. April</td><td>1995 B</td><td>4. Juli</td><td>1995</td></tr>
 <tr><td>Finnland</td><td>16. September</td><td>1994 B</td><td>16. Dezember</td><td>1994</td></tr>
@@ -513,9 +514,10 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Irak</td><td>21. Dezember</td><td>1967</td><td>21. März</td><td>1968</td></tr>
 <tr><td>Iran</td><td>22. Juni</td><td>1959</td><td>22. September</td><td>1959</td></tr>
 <tr><td>Irland</td><td>17. Mai</td><td>2018</td><td>17. August</td><td>2018</td></tr>
+<tr><td>Island</td><td>5. Dezember</td><td>2022 B</td><td>5. März</td><td>2023</td></tr>
 <tr><td>Israel</td><td>3. Oktober</td><td>1957</td><td>3. Januar</td><td>1958</td></tr>
 <tr><td>Italien</td><td>9. Mai</td><td>1958</td><td>9. August</td><td>1958</td></tr>
-<tr><td>Japan</td><td>10. Juli</td><td>2007 B</td><td>10. Oktober</td><td>2007</td></tr>
+<tr><td>Japan</td><td>10. September</td><td>2007 B</td><td>10. Dezember</td><td>2007</td></tr>
 <tr><td>Jemen</td><td>6. Februar</td><td>1970 B</td><td>6. Mai</td><td>1970</td></tr>
 <tr><td>Jordanien</td><td>2. Oktober</td><td>1957</td><td>2. Januar</td><td>1958</td></tr>
 <tr><td>Kambodscha</td><td>4. April</td><td>1962</td><td>4. Juli</td><td>1962</td></tr>
@@ -538,7 +540,9 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Madagaskar</td><td>3. November</td><td>1961 B</td><td>3. Februar</td><td>1962</td></tr>
 <tr><td>Malaysia</td><td>12. Dezember</td><td>1960 B</td><td>12. März</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18. Mai</td><td>1961 B</td><td>18. August</td><td>1961</td></tr>
+<tr><td>Malta</td><td>15. Juli</td><td>2024 B</td><td>15. Oktober</td><td>2024</td></tr>
 <tr><td>Marokko</td><td>30. August</td><td>1968 B</td><td>30. November</td><td>1968</td></tr>
+<tr><td>Mauretanien</td><td>7. Juli</td><td>2023 B</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Mauritius <sup>a</sup></td><td>22. September</td><td>2006 B</td><td>22. Dezember</td><td>2006</td></tr>
 <tr><td>Mexiko</td><td>7. Mai</td><td>1956</td><td>7. August</td><td>1956</td></tr>
 <tr><td>Moldau</td><td>9. Dezember</td><td>1999 B</td><td>9. März</td><td>2000</td></tr>
@@ -589,7 +593,7 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Tschechische Republik</td><td>26. März</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>28. Januar</td><td>1981 B</td><td>28. April</td><td>1981</td></tr>
 <tr><td>Türkei</td><td>15. Dezember</td><td>1965 B</td><td>15. März</td><td>1966</td></tr>
-<tr><td>Turkmenistan</td><td>22. Januar</td><td>2018</td><td>22. April</td><td>2018</td></tr>
+<tr><td>Turkmenistan</td><td>22. Januar</td><td>2018 B</td><td>22. April</td><td>2018</td></tr>
 <tr><td>Ukraine</td><td>6. Februar</td><td>1957</td><td>6. Mai</td><td>1957</td></tr>
 <tr><td>Ungarn</td><td>17. Mai</td><td>1956</td><td>17. August</td><td>1956</td></tr>
 <tr><td>Uruguay</td><td>24. September</td><td>1999</td><td>24. Dezember</td><td>1999</td></tr>
@@ -598,7 +602,7 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>12. September</td><td>2017</td><td>12. Dezember</td><td>2017</td></tr>
 <tr><td>Vereinigte Staaten</td><td>13. Juni</td><td>2009</td><td>13. Juni</td><td>2009</td></tr>
 <tr><td>Zypern</td><td>9. September</td><td>1964 B</td><td>9. Dezember</td><td>1964</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt für die Insel Mauritius, Rodrigues, Agalega, Tromelin, Cargados Carjos und den Archipel Chagos, einschliesslich Diego Garcia und jedwede andere Insel im Hoheitsgebiet des Staates Mauritius. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415](https://www.unesco.org/fr/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=415) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt für die Insel Mauritius, Rodrigues, Agalega, Tromelin, Cargados Carjos und den Archipel Chagos, einschliesslich Diego Garcia und jedwede andere Insel im Hoheitsgebiet des Staates Mauritius. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1962 1007](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045), [1971 1815](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820), [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961), [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318), [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613), [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347), [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076), [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171), [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721), [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130), [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246), [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169), [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317). Eine aktualisierte Fassung des und Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1962 1007](https://fedlex.data.admin.ch/eli/oc/1962/1007_1041_1045); [1971 1815](https://fedlex.data.admin.ch/eli/oc/1971/1815_1820_1820); [1979 961](https://fedlex.data.admin.ch/eli/oc/1979/961_961_961); [1982 1318](https://fedlex.data.admin.ch/eli/oc/1982/1318_1318_1318); [1985 1613](https://fedlex.data.admin.ch/eli/oc/1985/1613_1613_1613); [1989 347](https://fedlex.data.admin.ch/eli/oc/1989/347_347_347); [1991 2076](https://fedlex.data.admin.ch/eli/oc/1991/2076_2076_2076); [2005 1215](https://fedlex.data.admin.ch/eli/oc/2005/171); [2006 4697](https://fedlex.data.admin.ch/eli/oc/2006/721); [2010 841](https://fedlex.data.admin.ch/eli/oc/2010/130); [2015 1223](https://fedlex.data.admin.ch/eli/oc/2015/246); [2018 1157](https://fedlex.data.admin.ch/eli/oc/2018/169); [2020 1573](https://fedlex.data.admin.ch/eli/oc/2020/317); [2025 223](https://fedlex.data.admin.ch/eli/oc/2025/223). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
