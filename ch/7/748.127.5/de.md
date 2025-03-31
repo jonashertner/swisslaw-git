@@ -4,24 +4,24 @@ title: Verordnung des UVEK vom 5. Februar 1988 über die Luftfahrzeug-Hersteller
 short: VLHb
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/541_541_541"
 language: de
-version: 2013-02-01
+version: 2025-04-01
 adopted: 1988-02-05
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/541_541_541/20130201/de/xml/fedlex-data-admin-ch-eli-cc-1988-541_541_541-20130201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/541_541_541/20130201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/541_541_541/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1988-541_541_541-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/541_541_541/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Luftfahrzeug-Herstellerbetriebe
 
-(VLHb)**[^t-1]**
+(VLHb)[^t-1]
 
-vom 5. Februar 1988 (Stand am 1. Februar 2013)
+vom 5. Februar 1988 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
 
-Das Eidgenössische Departement für Umwelt,Verkehr, Energie und Kommunikation (UVEK)*[^ingress-1]*
+Das Eidgenössische Departement für Umwelt,Verkehr, Energie und Kommunikation (UVEK)[^ingress-1]
 
 gestützt auf Artikel 57 Absätze 1 und 2 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-2],[^ingress-3]
 
@@ -41,11 +41,12 @@ In dieser Verordnung bedeuten:
 
 - a. *Herstellungsunterlagen:* Werkstattzeichnungen, Stücklisten, Beschreibungen der Verfahren zur baumusterkonformen Herstellung von Produkten, Prüfprotokolle sowie technische Mitteilungen und Verfügungen des Bundesamtes für Zivilluftfahrt (BAZL);
 - b. *Produkte:* Luftfahrzeuge, Triebwerke, Propeller, Luftfahrzeugteile und Ausrüstungen;
-- c. *Werkattest:* Bescheinigung der Übereinstimmung der Produkte mit den Herstellungsunterlagen;
-- d.[^1-2] *Einfliegen:* Flug eines neu hergestellten Luftfahrzeugs zum Nachweis, dass dieses den Angaben gemäss Baumusterzeugnis entspricht.
+- c.[^1-2] *Freigabebescheinigung:* Bescheinigung der Übereinstimmung der Produkte mit den Herstellungsunterlagen;
+- d.[^1-3] *Einfliegen:* Flug eines neu hergestellten Luftfahrzeugs zum Nachweis, dass dieses den Angaben gemäss Baumusterzeugnis entspricht.
 
 [^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
-[^1-2]: Eingefügt durch Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
+[^1-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
+[^1-3]: Eingefügt durch Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
 
 #### Art. 2
 
@@ -57,8 +58,8 @@ In dieser Verordnung bedeuten:
 
 Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^2-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) eine der folgenden Verordnungen in der für die Schweiz jeweils verbindlichen Fassung[^2-3] anwendbar ist:
 
-- a. Verordnung (EG) Nr. 216/2008[^2-4];
-- b. Verordnung (EU) Nr. 748/2012[^2-5].[^2-6]
+- a.[^2-4] Verordnung (EU) Nr. 2018/1139[^2-5];
+- b. Verordnung (EU) Nr. 748/2012[^2-6].[^2-7]
 
 <sup>3</sup> Sie gilt für Betriebe in der Schweiz und für schweizerische Betriebe auf dem Flughafen Basel-Mülhausen.
 
@@ -66,10 +67,11 @@ Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Jun
 
 [^2-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
 [^2-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^2-3]: Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden. Adresse: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch).
-[^2-4]: V (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Febr. 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der V (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG.
-[^2-5]: V (EU) Nr. 748/2012 der Kommission vom 3. Aug. 2012 zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben.
-[^2-6]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
+[^2-3]: Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden. Adresse: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](http://www.bazl.admin.ch)).
+[^2-4]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
+[^2-5]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates.
+[^2-6]: V (EU) Nr. 748/2012 der Kommission vom 3. Aug. 2012 zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben.
+[^2-7]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
 
 #### Art. 3
 
@@ -102,11 +104,9 @@ Das BAZL kann in besonderen Fällen, namentlich bei technischen Neuerungen oder 
 
 #### Art. 5
 
-**Betriebe des Bundes**
+[^5-1]
 
-<sup>1</sup> Bundeseigene Betriebe, die zivile Luftfahrzeuge und Luftfahrzeugteile herstellen, für welche ein Baumusterzeugnis ausgestellt worden ist, müssen für diese Tätigkeit die Anforderungen dieser Verordnung erfüllen.
-
-<sup>2</sup> Soweit erforderlich werden die Einzelheiten durch Vereinbarung zwischen dem BAZL und den betreffenden Bundesbetrieben geregelt.
+[^5-1]: Aufgehoben durch Ziff. I der V des UVEK vom 26. Febr. 2025, mit Wirkung seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
 
 #### Art. 6
 
@@ -118,18 +118,19 @@ Für die Übertragung von Herstellungsarbeiten an Filialbetriebe im Ausland oder
 
 #### Art. 7
 
-**Gesuch**
+**Gesuch und nationaler Anhang[^7-1]**
 
-<sup>1</sup> Wer sich um einen Herstellerbetriebsausweis bewirbt, muss im Gesuch angeben, für welche Produkte er den Ausweis wünscht.[^7-1]
+<sup>1</sup> Wer sich um einen Herstellerbetriebsausweis bewirbt, muss im Gesuch angeben, für welche Produkte er den Ausweis wünscht.[^7-2]
 
-<sup>2</sup> Das Gesuch mit den vollständigen Unterlagen nach Artikel 8 ist dem BAZL spätestens zwei Monate vor der Betriebsprüfung einzureichen. Die Unterlagen sind in einer Amtssprache oder in Englisch zu verfassen.[^7-2]
+<sup>2</sup> Das Gesuch mit den vollständigen Unterlagen nach Artikel 8 ist dem BAZL spätestens zwei Monate vor der Betriebsprüfung einzureichen. Die Unterlagen sind in einer Amtssprache oder in Englisch zu verfassen.[^7-3]
 
-<sup>3</sup> Betriebe, die bereits im Besitz einer Genehmigung als Herstellerbetrieb nach Hauptabschnitt A Abschnitt G der Verordnung (EG) Nr. 1702/2003[^7-3] sind, müssen keine zusätzlichen Nachweise und Unterlagen nach den Artikeln 8–12 erbringen.[^7-4]
+<sup>3</sup> Schweizerische Betriebe, die bereits im Besitz einer Genehmigung als Herstellerbetrieb nach Anhang 1 (Teil 21) Hauptabschnitt A Abschnitt G der Verordnung (EU) Nr. 748/2012[^7-4] sind, müssen keine Nachweise und Unterlagen nach Artikel 8 erbringen. Sie müssen jedoch einen nationalen Anhang zum genehmigten Betriebshandbuch einreichen, wo die Unterschiede zwischen der Herstellung nach der vorliegenden Verordnung und jener nach Anhang I Teil 21 der Verordnung (EU) Nr. 748/2012 beschrieben sind.[^7-5]
 
-[^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
-[^7-2]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
-[^7-3]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^7-4]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
+[^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
+[^7-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
+[^7-3]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
+[^7-4]: Gemäss Ziff. 3 des Anhangs des Luftverkehrsabkommens ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258))
+[^7-5]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)). Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
 
 #### Art. 8
 
@@ -149,7 +150,7 @@ Der Gesuchsteller hat nachzuweisen, dass:
 
 [^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
 [^8-2]: Gemäss Ziff. 3 des Anhangs des Luftverkehrsabkommens ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258))
-[^8-3]: Diese Regelwerke werden nicht in der AS publiziert und nicht übersetzt. Sie werden auf der Website der EASA (http://easa.europa.eu/language/de/home.php &gt; Aviation Professionals & Industry &gt; Zulassungsspezifikationen) beziehungsweise auf der Website des BAZL (www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen im Bereich für Fachleute) publiziert. Sie können zudem beim Bundesamt für Zivilluftfahrt, 3003 Bern, eingesehen oder bezogen werden.
+[^8-3]: Diese Regelwerke werden nicht in der AS publiziert und nicht übersetzt. Sie werden auf der Website der EASA ([http://easa.europa.eu/language/de/home.php](http://easa.europa.eu/language/de/home.php) &gt; Aviation Professionals & Industry &gt; Zulassungsspezifikationen) beziehungsweise auf der Website des BAZL ([www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen im Bereich für Fachleute) publiziert. Sie können zudem beim Bundesamt für Zivilluftfahrt, 3003 Bern, eingesehen oder bezogen werden.
 
 #### Art. 9–12
 
@@ -163,7 +164,7 @@ Der Gesuchsteller hat nachzuweisen, dass:
 
 **Betriebsprüfungen**[^13-1]
 
-erteilt werden kann. Es führt die Prüfungen nach Eingang der vollständigen Unterlagen des Gesuchstellers in Anwesenheit eines Vertreters des Herstellerbetriebs durch.
+<sup>1</sup> Das BAZL stellt durch eine Betriebsprüfung fest, ob ein Herstellerbetriebsausweis erteilt werden kann.[^13-2] Es führt die Prüfungen nach Eingang der vollständigen Unterlagen des Gesuchstellers in Anwesenheit eines Vertreters des Herstellerbetriebs durch.
 
 <sup>2</sup> Es bestimmt den Zeitpunkt der Prüfungen.
 
@@ -175,10 +176,11 @@ erteilt werden kann. Es führt die Prüfungen nach Eingang der vollständigen Un
 
 <sup>6</sup> Nimmt der Gesuchsteller die erforderlichen Massnahmen nicht fristgerecht vor, so gelten die Prüfungen als nicht bestanden.
 
-<sup>7</sup> Für Betriebe, die bereits im Besitz einer Genehmigung als Herstellerbetrieb nach Anhang I Teil 21 Hauptabschnitt A Abschnitt G der Verordnung (EU) Nr. 748/2012[^13-2] sind, erfolgen keine zusätzlichen Prüfungen zur Erteilung eines Herstellerbetriebsausweises nach dieser Verordnung, sofern dieselben Herstellungsverfahren angewendet werden.
+<sup>7</sup> Für Betriebe, die bereits im Besitz einer Genehmigung als Herstellerbetrieb nach Anhang I Teil 21 Hauptabschnitt A Abschnitt G der Verordnung (EU) Nr. 748/2012[^13-3] sind, erfolgen keine zusätzlichen Prüfungen zur Erteilung eines Herstellerbetriebsausweises nach dieser Verordnung, sofern dieselben Herstellungsverfahren angewendet werden.
 
 [^13-1]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 305](https://fedlex.data.admin.ch/eli/oc/2013/50)).
-[^13-2]: Gemäss Ziff. 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^13-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
+[^13-3]: Gemäss Ziff. 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 14
 
@@ -264,9 +266,13 @@ Der Träger eines Herstellerbetriebsausweises ist berechtigt, die von ihm herges
 
 **Periodische Betriebsprüfung**[^20-1]
 
-Das BAZL führt mindestens alle zwölf Monate eine Betriebsprüfung im Sinne von Artikel 13 durch, um die Einhaltung der Vorschriften zu überprüfen.
+<sup>1</sup> Das BAZL führt mindestens alle zwölf Monate eine Betriebsprüfung im Sinne von Artikel 13 durch, um die Einhaltung der Vorschriften zu überprüfen.
+
+<sup>2</sup> Bei Betrieben nach Artikel 7 Absatz 3 richtet sich das Intervall für die Betriebsprüfungen nach den Vorgaben von Anhang I (Teil 21) der Verordnung (EU) Nr. 748/2012[^20-2].[^20-3]
 
 [^20-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
+[^20-2]: Gemäss Ziff. 3 des Anhangs des Luftverkehrsabkommens ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258))
+[^20-3]: Eingefügt durch Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 177](https://fedlex.data.admin.ch/eli/oc/2025/177)).
 
 #### Art. 21
 
@@ -276,9 +282,7 @@ Das BAZL kann die Gültigkeitsdauer des Herstellerbetriebsausweises verkürzen, 
 
 - a. wenn festgestellt wird, dass eine oder mehrere Voraussetzungen, welche für die Erteilung des Ausweises massgebend waren, nicht mehr erfüllt sind;
 - b. wenn festgestellt wird, dass Herstellungsarbeiten wiederholt oder in schwerwiegender Art mangelhaft ausgeführt worden sind;
-- c. in Anwendung von Artikel 92 des Bundesgesetzes vom 21. Dezember 1948[^21-1] über die Luftfahrt.
-
-[^21-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+- c. in Anwendung von Artikel 92 des Bundesgesetzes vom 21. Dezember 1948 über die Luftfahrt.
 
 ## 3. Kapitel: Weitere Vorschriften; Richtlinien und Mitteilungen
 
@@ -293,7 +297,7 @@ Das BAZL kann die Gültigkeitsdauer des Herstellerbetriebsausweises verkürzen, 
 <sup>3</sup> Eine Kopie der Technischen Mitteilungen kann beim BAZL gegen Entgelt bezogen werden.
 
 [^22-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3623](https://fedlex.data.admin.ch/eli/oc/2008/472)).
-[^22-2]: Bezugsadresse: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch).
+[^22-2]: Bezugsadresse: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](http://www.bazl.admin.ch)).
 
 ## 4. Kapitel: Schlussbestimmungen
 
