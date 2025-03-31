@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Januar 2025)
+vom 16. Dezember 2005 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1039,7 +1039,7 @@ Anspruch auf Reisedokumente haben Ausländerinnen und Ausländer, die:
 
 <sup>4</sup> …[^59-8]
 
-<sup>5</sup> und <sup>6</sup> …[^59-9]
+<sup>5 und <sup>6</sup></sup> …[^59-9]
 
 [^59-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-2]: Ausdruck gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
@@ -1699,7 +1699,7 @@ Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine e
 
   - 1\.[^76-4] Gründe nach Artikel 75 Absatz 1 Buchstabe a, b, c, f, g, h oder i vorliegen,
   - 2\.[^76-5] …
-  - 3\.[^76-6] konkrete Anzeichen befürchten lassen, dass sie sich der Ausschaffung entziehen will, insbesondere weil sie der Mitwirkungspflicht nach Artikel 90 dieses Gesetzes sowie Artikel 8 Absatz 1 Buchstabe a oder Absatz 4 AsylG[^76-7] nicht nachkommt,
+  - 3\.[^76-6] konkrete Anzeichen befürchten lassen, dass sie sich der Ausschaffung entziehen will, insbesondere, weil sie der Mitwirkungspflicht nach Artikel 90 diese Gesetzes sowie Artikel 8 Absatz 1 Buchstabe a oder Artikel 47 Absatz 1 AsylG[^76-7] nicht nachkommt,
   - 4\. ihr bisheriges Verhalten darauf schliessen lässt, dass sie sich behördlichen Anordnungen widersetzt,
   - 5\.[^76-8] der Wegweisungsentscheid in einem Zentrum des Bundes eröffnet wird und der Vollzug der Wegweisung absehbar ist.
   - 6\.[^76-9] …
@@ -1717,7 +1717,7 @@ Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine e
 [^76-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-4]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Aufgehoben durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^76-6]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^76-6]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^76-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-9]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Aufgehoben durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), mit Wirkung seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -2040,7 +2040,7 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>2</sup> Für die Verteilung der vorläufig aufgenommenen Personen ist Artikel 27 AsylG[^85-1] sinngemäss anwendbar.
 
-<sup>3</sup> und <sup>4</sup> …[^85-2]
+<sup>3 und <sup>4</sup></sup> …[^85-2]
 
 <sup>5</sup> Die vorläufig aufgenommenen Personen können ihren Wohnort im Gebiet des bisherigen oder des zugewiesenen Kantons frei wählen. Die kantonalen Behörden können vorläufig aufgenommene Personen, die nicht als Flüchtlinge anerkannt wurden und Sozialhilfe beziehen, innerhalb des Kantons einem Wohnort oder einer Unterkunft zuweisen.[^85-3]
 
@@ -2048,7 +2048,7 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>7</sup> …[^85-5]
 
-<sup>7bis</sup> und <sup>7ter</sup> …[^85-6]
+<sup>7bis und <sup>7ter</sup></sup> …[^85-6]
 
 <sup>8</sup> …[^85-7]
 

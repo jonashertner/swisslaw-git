@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dal 1. da schaner 2025)
+dals 16 da december 2005 (versiun dal 1. d’avrigl 2025)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1041,7 +1041,7 @@ Il dretg da documents da viadi han persunas estras senza documents da legitimazi
 
 <sup>4</sup> ...[^59-8]
 
-<sup>5</sup> e <sup>6</sup> ...[^59-9]
+<sup>5 e <sup>6</sup></sup> ...[^59-9]
 
 [^59-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-2]: Expressiun tenor la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Questa midada è vegnida resguardada en l’entir decret.
@@ -1701,7 +1701,7 @@ Sch’ina decisiun da spedida u d’expulsiun d’emprima instanza tenor questa 
 
   - 1\.[^76-4] i èn avant maun motivs tenor l’artitgel 75 alinea 1 litera a, b, c, f, g, h u i,
   - 2\.[^76-5] ...
-  - 3\.[^76-6] indizis concrets laschan temair ch’ella veglia mitschar da l’expulsiun, cunzunt perquai ch’ella n’ademplescha betg l’obligaziun da cooperar tenor l’artitgel 90 da questa lescha sco er tenor l’artitgel 8 alinea 1 litera a u alinea 4 LAsil[^76-7],
+  - 3\.[^76-6] indizis concrets laschan temair ch’ella veglia mitschar da l’expulsiun, cunzunt perquai ch’ella n’ademplescha betg l’obligaziun da cooperar tenor l’artitgel 90 da questa lescha sco er tenor l’artitgel 8 alinea 1 litera a u l’artitgel 47 alinea 1 LAsil[^76-7],
   - 4\. ses cumportament d’enfin ussa lascha concluder ch’ella s’opponia ad ordinaziuns uffizialas,
   - 5\.[^76-8] la decisiun da spedida è vegnida averta en in center da la Confederaziun e l’execuziun da la spedida è previsibla.
   - 6\.[^76-9] ...
@@ -1719,7 +1719,7 @@ Sch’ina decisiun da spedida u d’expulsiun d’emprima instanza tenor questa 
 [^76-3]: Versiun tenor la cifra I 2 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-4]: Versiun tenor la cifra I 2 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Abolì tras la cifra 1 da l’agiunta da la LF dals 14 da dec. 2012, cun effect dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^76-6]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^76-6]: Versiun tenor la cifra II da la LF dal 1. d’oct. 2021, en vigur dapi il 1. d’avr. 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^76-8]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-9]: Integrà tras l’art. 2 cifra I dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Abolì tras la cifra I 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 604/2013 davart la fixaziun dals criteris e dals mecanissems per determinar il stadi commember ch’è cumpetent per examinar ina dumonda da protecziun internaziunala), cun effect dapi il 1. da fan. 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -2042,7 +2042,7 @@ L’admissiun provisorica tenor ils alineas 2 e 4 na vegn betg disponida, sche l
 
 <sup>2</sup> Per reparter las persunas ch’èn admessas provisoricamain è applitgabel l’artitgel 27 LAsil[^85-1] tenor il senn.
 
-<sup>3</sup> e <sup>4</sup> …[^85-2]
+<sup>3 e <sup>4</sup></sup> …[^85-2]
 
 <sup>5</sup> Las persunas ch’èn admessas provisoricamain pon tscherner libramain lur lieu da domicil en il territori dal chantun d’enfin ussa u dal chantun assegnà. Las autoritads chantunalas pon attribuir in lieu da domicil u in alloschi entaifer il chantun a las persunas admessas provisoricamain che n’èn betg vegnidas renconuschidas sco fugitivs e che retiran agid social.[^85-3]
 
@@ -2050,7 +2050,7 @@ L’admissiun provisorica tenor ils alineas 2 e 4 na vegn betg disponida, sche l
 
 <sup>7</sup> …[^85-5]
 
-<sup>7bis</sup> e <sup>7ter</sup> …[^85-6]
+<sup>7bis e <sup>7ter</sup></sup> …[^85-6]
 
 <sup>8</sup> …[^85-7]
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> janvier 2025)
+du 16 décembre 2005 (État le 1<sup>er</sup> avril 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -1045,7 +1045,7 @@ Ont droit à des documents de voyage:
 
 <sup>4</sup> …[^59-8]
 
-<sup>5</sup> et <sup>6</sup> …[^59-9]
+<sup>5 et <sup>6</sup></sup> …[^59-9]
 
 [^59-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
@@ -1705,7 +1705,7 @@ Après notification d’une décision de première instance de renvoi ou d’exp
 
   - 1\.[^76-5] pour les motifs cités à l’art. 75, al. 1, let. a, b, c, f, g, h ou i,
   - 2\.[^76-6] …
-  - 3\.[^76-7] si des éléments concrets font craindre que la personne concernée entend se soustraire au renvoi ou à l’expulsion, en particulier parce qu’elle ne se soumet pas à son obligation de collaborer en vertu de l’art. 90 de la présente loi ou de l’art. 8, al. 1, let. a, ou al. 4, LAsi[^76-8],
+  - 3\.[^76-7] si des éléments concrets font craindre que la personne concernée entende se soustraire au renvoi ou à l’expulsion, en particulier parce qu’elle ne se soumet pas à son obligation de collaborer en vertu de l’art. 90 de la présente loi ou de l’art. 8, al. 1, let. a, ou art. 47, al. 1, LAsi[^76-8],
   - 4\. si son comportement permet de conclure qu’elle se refuse à obtempérer aux instructions des autorités,
   - 5\.[^76-9] si la décision de renvoi est notifiée dans un centre de la Confédération et que l’exécution du renvoi est imminente.
   - 6\.[^76-10] …
@@ -1724,7 +1724,7 @@ Après notification d’une décision de première instance de renvoi ou d’exp
 [^76-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^76-5]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-6]: Abrogé par l’annexe ch. 1 de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^76-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^76-7]: Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^76-8]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^76-9]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-10]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE; [RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Abrogé par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -2047,7 +2047,7 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 
 <sup>2</sup> L’art. 27 LAsi[^85-1] s’applique par analogie à la répartition des étrangers admis à titre provisoire.
 
-<sup>3</sup> et <sup>4</sup> …[^85-2]
+<sup>3 et <sup>4</sup></sup> …[^85-2]
 
 <sup>5</sup> L’étranger admis à titre provisoire peut choisir librement son lieu de résidence sur le territoire du canton où il séjourne ou du canton auquel il a été attribué. Les autorités cantonales peuvent assigner un lieu de résidence ou un logement sur le territoire cantonal à l’étranger admis à titre provisoire qui n’a pas été reconnu comme réfugié et qui touche des prestations d’aide sociale.[^85-3]
 
@@ -2055,7 +2055,7 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 
 <sup>7</sup> …[^85-5]
 
-<sup>7bis</sup> et <sup>7ter</sup> …[^85-6]
+<sup>7bis et <sup>7ter</sup></sup> …[^85-6]
 
 <sup>8</sup> …[^85-7]
 

@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2025-01-01
+version: 2025-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 January 2025)
+of 16 December 2005 (Status as of 1 April 2025)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -50,7 +50,7 @@ This Act regulates the entry and exit, residence and family reunification of for
 
 <sup>3</sup> For citizens of member states of the European Free Trade Association (EFTA), their family members, and employees posted to Switzerland by employers resident or with their registered office in these states, this Act applies only to the extent that the Agreement amending the Convention establishing the European Free Trade Association from 21 June 2001[^2-2] does not contain any different provisions or that this Act provides for more advantageous provisions.
 
-<sup>4</sup> The provisions on the visa procedure and on entry and exit apply only insofar as there are no provisions to the contrary in the Schengen Association Agreements.[^2-3]
+<sup>4</sup> The provisions on thFe visa procedure and on entry and exit apply only insofar as there are no provisions to the contrary in the Schengen Association Agreements.[^2-3]
 
 <sup>5</sup> The Schengen Association Agreements are listed in Annex 1 No. 1.[^2-4]
 
@@ -1698,7 +1698,7 @@ If the court of first instance has issued an expulsion order or return decision 
 
   - 1\.[^76-4] there are grounds for doing so in terms of Article 75 paragraph 1 letters a, b, c, f, g, h or i,
   - 2\.[^76-5] ...
-  - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act and Article 8 paragraph 1 letter a or paragraph 4 AsylA[^76-7],
+  - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act and Article 8 paragraph 1 letter a or Article 47 paragraph 1 AsylA[^76-7],
   - 4\. their previous conduct leads to the conclusion that they will refuse to comply with official instructions,
   - 5\.[^76-8] the return decision is issued in a federal centre and enforcement of the removal is imminent.
   - 6\.[^76-9] ...
@@ -1716,7 +1716,7 @@ If the court of first instance has issued an expulsion order or return decision 
 [^76-3]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-4]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Repealed by Annex No 1 of the FA of 14 Dec. 2012, with effect from 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^76-6]: Amended by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^76-6]: Amended by No II of the FA of 1 Oct. 2021, in force since 1 April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^76-8]: Amended by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-9]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Repealed by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), with effect from 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -3437,7 +3437,7 @@ Any person who:
 
 Any person who:
 
-- a. in Switzerland or abroad, facilitates the unlawful entry or departure or the unlawful period of stay in Switzerland of a foreign national or assists a foreign national to prepare for the same;
+- in Switzerland or abroad, facilitates the unlawful entry or departure or the unlawful period of stay in Switzerland of a foreign national or assists a foreign national to prepare for the same;
 - a<sup>bis</sup>.[^116-1] from within Switzerland facilitates the unlawful entry or departure or the unlawful period of stay in a Schengen State of a foreign national or assists a foreign national to prepare for the same;
 - b. finds employment for a foreign national in Switzerland without the required permit;
 - c.[^116-2] facilitates the entry of a foreign national who has left Switzerland or the international transit zone of the airports into the sovereign territory of another state in violation of the entry provisions applicable there or assists that foreign national in preparing for such entry.
