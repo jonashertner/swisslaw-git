@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 25 août 2000 sur le personnel préposé à l'ent
 short: OPEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/385"
 language: fr
-version: 2008-08-01
+version: 2025-04-01
 adopted: 2000-08-25
 in_force: 2000-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20080801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-385-20080801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20080801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-385-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20080801/fr"
 
 (OPEA)
 
-du 25 août 2000 (Etat le 1<sup>er</sup> août 2008)
+du 25 août 2000 (État le 1<sup>er</sup> avril 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication,
 
@@ -38,20 +38,25 @@ arrête:
 
 <sup>2</sup>
 
-Elle s’applique à moins que la version contraignante pour la Suisse de l’un des règlements CE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999[^1-2]:
+Elle s’applique à moins que la version contraignante pour la Suisse[^1-2] de l’un des règlements UE suivants ne soit applicable conformément au ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien[^1-3] conclu le 21 juin 1999:
 
-- a. règlement (CE) n° 1592/2002;
-- b. règlement (CE) n° 2042/2003.
+- a. règlement (UE) n<sup>o</sup> 2018/1139[^1-4];
+- b. règlement (UE) n<sup>o</sup> 1321/2014[^1-5].[^1-6]
 
 <sup>3</sup>
 
 Elle s’applique aux personnes qui sont titulaires d’une licence ou d’une autorisation personnelle suisses les habilitant à exercer les activités prévues à l’art. 1, pour autant qu’elles les exercent:
 
 - a. en Suisse ou à l’aéroport de Bâle-Mulhouse;
-- b. à l’étranger, dans la mesure où aucune prescription étrangère plus stricte n’est applicable.
+- b.[^1-7] à l’étranger, à condition que cela soit admis sous l’empire du droit étranger et qu’aucune prescription plus stricte qu’en Suisse n’y soit applicable.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^1-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). La version contraignante pour la Suisse est mentionnée dans l’annexe de cet accord et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne (www.bazl.admin.ch).
+[^1-2]: La version contraignante pour la Suisse est mentionnée dans l’annexe de cet accord et peut être consultée ou obtenue auprès de l’OFAC. Adresse: Office fédéral de l’aviation civile, 3003 Berne ([www.ofac.admin.ch](http://www.ofac.admin.ch)).
+[^1-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^1-4]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil.
+[^1-5]: Règlement (UE) n<sup>o</sup> 1321/2014 de la Commission du 26 novembre 2014 relatif au maintien de la navigabilité des aéronefs et des produits, pièces et équipements aéronautiques, et relatif à l’agrément des organismes et des personnels participant à ces tâches.
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^1-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 2
 
@@ -65,15 +70,17 @@ Elle s’applique aux personnes qui sont titulaires d’une licence ou d’une a
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *Personnel de certification*: personnel d’entretien habilité par l’Office fédéral de l’aviation civile (OFAC) à délivrer des certificats de remise en service;
-- b. *Eléments d’aéronef*: moteurs, hélices, pièces, assemblages, éléments, et équipements d’aéronef, y compris ceux de secours; pour les hélicoptères, les charges extérieures largables servant exclusivement au transport de matériel ne sont pas considérées comme des éléments d’aéronef;
+- a.[^3-2] *Personnel* *de certification*: personnel d’entretien possédant la licence adéquate ou habilité par l’Office fédéral de l’aviation civile (OFAC) à délivrer des certificats de remise en service;
+- b. *É**léments d**’**aéronef*: moteurs, hélices, pièces, assemblages, éléments, et équipements d’aéronef, y compris ceux de secours; pour les hélicoptères, les charges extérieures largables servant exclusivement au transport de matériel ne sont pas considérées comme des éléments d’aéronef;
 - c. *Autorisation personnelle:* document délivré par l’OFAC et dont le titulaire n’est habilité à attester des travaux d’entretien que pour certains éléments d’aéronef ou certaines activités;
-- d. *Travaux d’entretien*: les travaux de contrôle, de révision, de modification, d’échange ainsi que de réparation exécutés sur les aéronefs et les éléments d’aéronef;
-- e. *Travaux d’entretien complexe et travaux d’entretien non co**m**plexes*: travaux d’entretien au sens des directives de l’OFAC (communications techniques, art. 29);
+- d.[^3-3] *Travaux d’entretien*: les travaux de contrôle, de révision, de modification, d’échange ainsi que de réparation exécutés sur les aéronefs et les éléments d’aéronef, à l’exception de la visite prévol conformément au manuel de vol;
+- e. *Travaux d**’**entretien complexe et travaux d**’**entretien non complexes*: travaux d’entretien au sens des directives de l’OFAC (communications techniques, art. 29);
 - f. *Certificat de remise en service*: document attestant que les travaux d’entretien entrepris sur un aéronef ou un élément d’aéronef ont été exécutés et achevés conformément aux données d’entretien déterminantes;
-- g. *Données d’entretien*: toute information nécessaire pour qu’un aéronef ou un élément d’aéronef soit maintenu dans un état tel que sa navigabilité soit assurée.
+- g. *Données d**’**entretien*: toute information nécessaire pour qu’un aéronef ou un élément d’aéronef soit maintenu dans un état tel que sa navigabilité soit assurée.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## Chapitre 2 Dispositions générales concernant les licences et les autorisations personnelles
 
@@ -85,13 +92,13 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Quiconque veut, en vertu de la présente ordonnance, exécuter, contrôler et attester des travaux d’entretien ou appliquer de façon indépendante des procédés particuliers doit être titulaire d’une licence, établie ou reconnue par l’OFAC[^4-1], ou d’une autorisation personnelle établie par celui-ci.
 
-<sup>2</sup> Les personnes non titulaires d’une licence ou d’une autorisation personnelle ne sont autorisées à effectuer des travaux d’entretien que si elles se trouvent sous la surveillance directe d’une personne titulaire d’une licence suisse, d’une autorisation personnelle ou d’une licence délivrée conformément à l’annexe III du règlement (CE) n° 2042/2003[^4-2].[^4-3]
+<sup>2</sup> Les personnes non titulaires d’une licence ou d’une autorisation personnelle ne sont autorisées à effectuer des travaux d’entretien que si elles se trouvent sous la surveillance directe d’une personne titulaire d’une licence suisse, d’une autorisation personnelle ou d’une licence délivrée conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^4-2].[^4-3]
 
 <sup>3</sup> Les art. 33 et 34 de l’ordonnance du DETEC du 18 septembre 1995 sur la navigabilité des aéronefs (ONAE)[^4-4] sont réservés.[^4-5]
 
 [^4-1]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-2]: Conformément au ch. 3 de l’annexe de l’Ac. sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^4-2]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 [^4-4]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
@@ -99,7 +106,7 @@ Au sens de la présente ordonnance, on entend par:
 
 **Licences étrangères**
 
-<sup>1</sup> Quiconque souhaite exercer durablement une activité pour laquelle une licence est obligatoire sollicite de l’OFAC une reconnaissance écrite de son autorisation étrangère. Cette reconnaissance est établie pour une durée de deux ans au plus, pour autant que l’Etat tiers en question accorde la réciprocité.[^5-1]
+<sup>1</sup> Quiconque souhaite exercer durablement une activité pour laquelle une licence est obligatoire sollicite de l’OFAC une reconnaissance écrite de son autorisation étrangère. Cette reconnaissance est établie pour une durée de deux ans au plus, pour autant que l’État tiers en question accorde la réciprocité.[^5-1]
 
 <sup>2</sup> Dans des cas dûment motivés, l’OFAC peut exceptionnellement autoriser des personnes titulaires d’une licence ou d’une autorisation étrangère à exercer temporairement une activité pour laquelle une licence est obligatoire, pour autant que ces personnes disposent des connaissances et de l’expérience requises.
 
@@ -114,15 +121,15 @@ Au sens de la présente ordonnance, on entend par:
 L’OFAC délivre les licences de personnel d’entretien suivantes:[^6-1]
 
 - a. licence de mécanicien d’aéronefs;
-- b.[^6-2] ...
+- b.[^6-2] licence de technicien en avionique;
 - c. licence de spécialiste.
 
-<sup>2</sup> A la place de la licence de spécialiste, l’OFAC peut délivrer une autorisation personnelle lorsque le domaine d’activité du requérant ne s’étend qu’à certains éléments d’aéronef ou à des activités limitées.
+<sup>2</sup> À la place de la licence de spécialiste, l’OFAC peut délivrer une autorisation personnelle lorsque le domaine d’activité du requérant ne s’étend qu’à certains éléments d’aéronef ou à des activités limitées.
 
 <sup>3</sup> Les licences et autorisations peuvent être assorties de conditions ou de restrictions.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^6-2]: Abrogée par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 7
 
@@ -254,67 +261,49 @@ En vertu de l’art. 92 LA, l’OFAC peut prononcer le retrait temporaire ou dé
 
 ## Chapitre 3 Dispositions particulières concernant les licences et les autorisations personnelles
 
-### Section 1 Licence de mécanicien d’aéronefs
+### Section 1 Licence de mécanicien d’aéronefs et licence de technicien en avionique
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 20
 
 **Conditions d’octroi**
 
-<sup>1</sup>
+<sup>1</sup> Quiconque sollicite une licence de mécanicien d’aéronefs doit remplir les exigences de l’art. 8 et être titulaire d’une licence de personnel de certification de la catégorie B1, B3, L ou C conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014[^20-1].
 
-La personne qui sollicite une licence de mécanicien d’aéronefs doit remplir les exigences des art. 8 et 9 et:
+<sup>2</sup> Quiconque sollicite une licence de technicien en avionique doit remplir les exigences de l’art. 8 et être titulaire d’une licence de personnel de certification de la catégorie B2 ou B2L conformément à l’annexe III (Partie 66) du règlement (UE) n<sup>o</sup> 1321/2014.
 
-- a. être âgée de 21 ans au moins;
-- b. établir qu’elle a accompli un apprentissage ou reçu une formation équivalente dans un domaine utile à l’activité de mécanicien d’aéronefs;
-- c. pouvoir prouver qu’elle a exercé pendant trois ans une activité dans l’entretien des aéronefs, dont deux dans le domaine sollicité, ou qu’elle a participé à un cours reconnu par l’office et exercé pendant deux ans une activité d’entretien des aéronefs dans le domaine sollicité; dans les deux cas, la dernière activité pratique ne doit pas remonter à plus de douze mois;
-- d. avoir réussi l’examen de capacité;
-- e.[^20-1] disposer des connaissances en langues étrangères nécessaires pour comprendre les données d’entretien;
-
-<sup>2</sup> L’OFAC décide dans le cas d’espèce si l’activité au sein d’une entreprise de construction ou sur des avions militaires peut être imputée sur l’activité pratique exigée.
-
-[^20-1]: Introduite par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^20-1]: Conformément au ch. 3 de l’annexe de l’accord sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 21
 
-**Examen de capacité**
+**Inscription du type nationale et examen de capacité**
 
-L’examen de capacité comprend un examen théorique et un examen pratique portant sur:
+Les mécaniciens d’aéronefs et les techniciens en avionique ne peuvent exécuter et attester des travaux d’entretien sur des avions à réaction, des avions à turbopropulseur ou des hélicoptères que si le type adéquat est inscrit dans la licence. L’inscription est octroyée:
 
-- a. les prescriptions du droit aérien relatives à l’entretien des aéronefs;
-- b. la connaissance des matériaux et des normes;
-- c. les connaissances générales relatives aux aéronefs;
-- d.[^21-1] la connaissance des éléments et systèmes d’aéronef dans les domaines d’activité sollicités par le requérant;
-- e. l’utilisation des données[^21-2] d’entretien;
-- f. les procédures de travail et de contrôle, y compris la connaissance des travaux administratifs nécessaires;
-- g. la connaissance de la langue anglaise, pour autant qu’elle soit nécessaire à la compréhension des données d’entretien.
-
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^21-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Il a été tenu compte de cette modification dans tout le présent texte.
+- a. s’ils ont complété une formation sur le type considéré auprès du constructeur, ou
+- b. s’ils ont été reçus à un examen de capacité de l’OFAC sur les connaissances techniques concernant le type considéré.
 
 #### Art. 22
 
 **Droits du titulaire**
 
-<sup>1</sup>
+<sup>1</sup> Le titulaire d’une licence de mécanicien d’aéronefs ou de technicien en avionique est habilité, pour le domaine d’activité inscrit dans sa licence, à exécuter, à contrôler et à attester des travaux d’entretien sur des aéronefs et des éléments d’aéronef. Les restrictions découlant de l’art. 32, al. 2, ONAE[^22-1] et des annexes de l’ONAE relatives aux sous-catégories d’aéronefs de la catégorie spéciale sont applicables.
 
-Le titulaire d’une licence de mécanicien d’aéronefs est habilité:
+<sup>2</sup>
 
-- a. à exécuter, contrôler et attester de manière autonome des travaux d’entretien non complexes sur les aéronefs inscrits dans sa licence;
-- b. à exécuter, contrôler et attester des travaux d’entretien complexes sous la surveillance d’un organisme de maintenance habilité à cet effet.[^22-1]
-
-<sup>2</sup> L’OFAC peut autoriser au cas par cas le titulaire d’une licence de mécanicien d’aéronefs à exécuter et à attester de manière autonome certains travaux d’entretien complexes sur les aéronefs inscrits dans sa licence.[^22-2]
-
-<sup>3</sup>
-
-Sous réserve d’exigences complémentaires de l’organe compétent de l’aérodrome, le titulaire d’une licence de mécanicien d’aéronefs est en outre habilité:
+Le titulaire d’une licence de mécanicien d’aéronefs ou de technicien en avionique est en outre habilité:
 
 - a. à circuler au sol avec un aéronef pour autant qu’il ait été initié à cette opération et aux procédures de l’aérodrome;
 - b. à entrer en contact radiotéléphonique avec les organes des services de la circulation aérienne, pour autant qu’il ait été initié à la procédure utilisée pour les communications radiotéléphoniques et qu’il connaisse les expressions conventionnelles pour la circulation au sol.
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+<sup>3</sup> Les exigences complémentaires de l’organe compétent de l’aérodrome sont réservées.
 
-### Section 2**** ...
+[^22-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+
+### Section 2 …
 
 [^chap3-sec2-1]
 
@@ -361,11 +350,12 @@ L’examen de capacité comprend un examen théorique et un examen pratique port
 
 **Droits du titulaire**
 
-<sup>1</sup> Le titulaire d’une licence de spécialiste ou d’une autorisation personnelle est habilité, pour les domaines d’activité inscrits dans sa licence ou son autorisation, à exécuter, à contrôler ou à attester des travaux d’entretien sur des aéronefs et des éléments d’aéronef.[^28-1]
+<sup>1</sup> Le titulaire d’une licence de spécialiste ou d’une autorisation personnelle est habilité, pour les domaines d’activité inscrits dans sa licence ou son autorisation, à exécuter, à contrôler et à attester des travaux d’entretien sur des aéronefs et des éléments d’aéronef. Les restrictions découlant de l’art. 32, al. 2, ONAE[^28-1] et des annexes de l’ONAE relatives aux sous-catégories d’aéronefs de la catégorie spéciale sont applicables.[^28-2]
 
 <sup>2</sup> L’art. 22, al. 3, est applicable par analogie à la circulation des aéronefs au sol.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^28-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## Chapitre 4 Communications techniques
 
@@ -380,7 +370,7 @@ L’examen de capacité comprend un examen théorique et un examen pratique port
 <sup>3</sup> Une copie des communications techniques peut être obtenue auprès de l’OFAC contre paiement.[^29-2]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^29-2]: Adresse: Office fédéral de l’aviation fédérale, 3003 Berne (ww.bazl.admin.ch).
+[^29-2]: Adresse: Office fédéral de l’aviation fédérale, 3003 Berne ([www.ofac.admin.ch](http://www.ofac.admin.ch)).
 
 ## Chapitre 5 Dispositions finales
 
@@ -412,12 +402,22 @@ L’ordonnance du 8 juillet 1985 sur le personnel d’entretien d’aéronefs[^3
 
 [^31a-1]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
+#### Art. 31b
+
+**Dispositions transitoires de la modification du 26 février 2025**[^31b-1]
+
+<sup>1</sup> Les licences de personnel d’entretien d’aéronefs délivrées conformément au droit en vigueur conservent leur validité après l’entrée en vigueur de la modification du 26 février 2025 de la présente ordonnance.
+
+<sup>2</sup> L’OFAC peut renouveler les licences dès lors que les conditions visées à l’art. 17 sont réunies.
+
+[^31b-1]: Introduit par le ch. I de l’O du DETEC du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+
 #### Art. 32
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2000.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).

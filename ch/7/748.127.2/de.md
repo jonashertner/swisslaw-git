@@ -4,20 +4,20 @@ title: Verordnung des UVEK vom 25. August 2000 über das Luftfahrzeug-Instandhal
 short: VLIp
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/385"
 language: de
-version: 2008-08-01
+version: 2025-04-01
 adopted: 2000-08-25
 in_force: 2000-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20080801/de/xml/fedlex-data-admin-ch-eli-cc-2000-385-20080801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20080801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2000-385-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über das Luftfahrzeug-Instandhaltungspersonal
 
-(VLIp)**[^t-1]**
+(VLIp)[^t-1]
 
-vom 25. August 2000 (Stand am 1. August 2008)
+vom 25. August 2000 (Stand am 1. April 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
@@ -40,20 +40,25 @@ verordnet:
 
 <sup>2</sup>
 
-Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^1-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr eine der folgenden EG-Verordnungen in der für die Schweiz jeweils verbindlichen Fassung anwendbar ist:
+Sie gilt nur, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999[^1-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr eine der folgenden EU-Verordnungen in der für die Schweiz jeweils verbindlichen Fassung[^1-3] anwendbar ist:
 
-- a. Verordnung (EG) Nr. 1592/2002;
-- b. Verordnung (EG) Nr. 2042/2003.
+- a. Verordnung (EU) 2018/1139[^1-4];
+- b. Verordnung (EU) Nr. 1321/2014[^1-5].[^1-6]
 
 <sup>3</sup>
 
 Sie gilt für Personen, die einen schweizerischen Ausweis oder eine schweizerische persönliche Ermächtigung für die Ausübung der in Artikel 1 aufgeführten Tätigkeiten besitzen, sofern sie diese ausüben:
 
 - a. in der Schweiz oder auf dem Flughafen Basel-Mülhausen;
-- b. im Ausland, soweit dies unter ausländischem Recht zulässig ist und dort nicht strengere ausländische Vorschriften anwendbar sind.
+- b.[^1-7] im Ausland, soweit dies nach ausländischem Recht zulässig ist und dort nicht strengere ausländische Vorschriften anwendbar sind.
 
 [^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^1-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden. Adresse: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch).
+[^1-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^1-3]: Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zum Luftverkehrsabkommen genannt und kann beim BAZL eingesehen oder bezogen werden. Adresse: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](https://www.bazl.admin.ch)).
+[^1-4]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates.
+[^1-5]: Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen, die diese Tätigkeiten ausführen.
+[^1-6]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^1-7]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 2
 
@@ -67,15 +72,17 @@ Sie gilt für Personen, die einen schweizerischen Ausweis oder eine schweizerisc
 
 In dieser Verordnung bedeuten:
 
-- a. *freigabeberechtigtes Personal*: Instandhaltungspersonal, das vom Bundesamt für Zivilluftfahrt (BAZL) ermächtigt worden ist, Freigabebescheinigungen auszustellen;
+- a.[^3-2] *freigabeberechtigtes Personal*: Instandhaltungspersonal, das über den entsprechenden Ausweis verfügt oder vom Bundesamt für Zivilluftfahrt (BAZL) ermächtigt worden ist, Freigabebescheinigungen auszustellen;
 - b. *Komponenten*: Triebwerke, Propeller, Luftfahrzeugteile, Baugruppen, Bauelemente und Ausrüstungen einschliesslich Notausrüstungen; abwerfbare Aussenlasten bei Helikoptern, die ausschliesslich dem Materialtransport dienen, gelten nicht als Komponenten;
 - c. *persönliche Ermächtigung*: vom BAZL ausgestelltes Dokument, das den Inhaber oder die Inhaberin ermächtigt, Instandhaltungsarbeiten nur an ausgewählten Komponenten oder nur ausgewählte Tätigkeiten zu bescheinigen;
-- d. *Instandhaltungsarbeiten*: Kontroll-, Überholungs-, Änderungs-, Austausch- und Reparaturarbeiten an Luftfahrzeugen und Komponenten;
+- d.[^3-3] *Instandhaltungsarbeiten*: Kontroll-, Überholungs‑, Änderungs-, Austausch- und Reparaturarbeiten an Luftfahrzeugen und Komponenten mit Ausnahme von Vorflugkontrollen gemäss Flughandbuch;
 - e. *komplexe und nicht komplexe Instandhaltungsarbeiten*: Instandhaltungsarbeiten im Sinne der Richtlinien des BAZL (Technische Mitteilung, Art. 29);
 - f. *Freigabebescheinigung*: Bestätigung, dass die an einem Luftfahrzeug oder an einer Komponente vorgenommenen Instandhaltungsarbeiten nach den massgebenden Instandhaltungsunterlagen durchgeführt und abgeschlossen worden sind;
 - g. *Instandhaltungsunterlagen*: Alle Angaben, die notwendig sind, um ein Luftfahrzeug oder eine Komponente so instand zu halten, dass dessen Lufttüchtigkeit gewährleistet ist.
 
 [^3-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^3-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^3-3]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## 2. Kapitel: Allgemeine Bestimmungen zu den Ausweisen und persönlichen Ermächtigungen
 
@@ -87,14 +94,14 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Wer nach dieser Verordnung Instandhaltungsarbeiten durchführen, überwachen, bescheinigen oder selbständig besondere Arbeitsverfahren anwenden will, bedarf eines vom BAZL[^4-1] ausgestellten oder anerkannten Ausweises oder einer von ihm ausgestellten persönlichen Ermächtigung.
 
-<sup>2</sup> Personen ohne Ausweis oder persönliche Ermächtigung für Instandhaltungspersonal dürfen nur unter unmittelbarer Aufsicht eines Trägers oder einer Trägerin eines Ausweises, einer persönlichen Ermächtigung nach dieser Verordnung oder einer Lizenz gemäss Anhang III der Verordnung (EG) Nr. 2042/2003[^4-2] Instandhaltungsarbeiten durchführen.[^4-3]
+<sup>2</sup> Personen ohne Ausweis oder persönliche Ermächtigung für Instandhaltungspersonal dürfen nur unter unmittelbarer Aufsicht eines Trägers oder einer Trägerin eines Ausweises, einer persönlichen Ermächtigung nach dieser Verordnung oder einer Lizenz gemäss Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014[^4-2] Instandhaltungsarbeiten durchführen.[^4-3]
 
 <sup>3</sup> Vorbehalten bleiben die Artikel 33 und 34 der Verordnung des UVEK vom 18. September 1995[^4-4] über die Lufttüchtigkeit von Luftfahrzeugen (VLL).[^4-5]
 
 [^4-1]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^4-2]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^4-3]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^4-4]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897); [AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)
+[^4-3]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^4-4]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
 [^4-5]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 5
@@ -116,7 +123,7 @@ In dieser Verordnung bedeuten:
 Das BAZL stellt folgende Ausweise für Instandhaltungspersonal aus:[^6-1]
 
 - a. Luftfahrzeugmechaniker;
-- b. ... [^6-2]
+- b.[^6-2] Avioniker;
 - c. Fachspezialist.
 
 <sup>2</sup> Anstelle eines Ausweises für Fachspezialisten kann das BAZL eine persönliche Ermächtigung ausstellen, wenn die Tätigkeit des Bewerbers oder der Bewerberin sich nur auf ausgewählte Komponenten[^6-3] oder eingeschränkte Fachgebiete erstreckt.
@@ -124,7 +131,7 @@ Das BAZL stellt folgende Ausweise für Instandhaltungspersonal aus:[^6-1]
 <sup>3</sup> Die Ausweise und persönlichen Ermächtigungen können mit Auflagen oder Einschränkungen verbunden werden.
 
 [^6-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^6-2]: Aufgehoben durch Ziff. I der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^6-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 [^6-3]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 7
@@ -257,68 +264,49 @@ Das BAZL kann in Anwendung von Artikel 92 LFG den befristeten oder dauernden Ent
 
 ## 3. Kapitel: Besondere Bestimmungen zu den Ausweisen und persönlichen Ermächtigungen
 
-### 1. Abschnitt: Ausweis für Luftfahrzeugmechaniker
+### 1. Abschnitt: Ausweise für Luftfahrzeugmechaniker und Avioniker
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 20
 
 **Voraussetzungen für den Erwerb**
 
-<sup>1</sup>
+<sup>1</sup> Wer sich um einen Ausweis für Luftfahrzeugmechaniker bewirbt, muss die Anforderungen von Artikel 8 erfüllen sowie Träger oder Trägerin einer Lizenz für freigabeberechtigtes Personal der Kategorie B1, B3, L oder C gemäss Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014[^20-1] sein.
 
-Eine Person, die sich um einen Ausweis für Luftfahrzeugmechaniker bewirbt, muss die Anforderungen der Artikel 8 und 9 erfüllen sowie:
+<sup>2</sup> Wer sich um einen Ausweis für Avioniker bewirbt, muss die Anforderungen von Artikel 8 erfüllen sowie Träger oder Trägerin einer Lizenz für freigabeberechtigtes Personal der Kategorie B2 oder B2L gemäss Anhang III (Teil 66) der Verordnung (EU) Nr. 1321/2014 sein.
 
-- a. mindestens 21 Jahre alt sein;
-- b. sich über eine Berufslehre oder eine gleichwertige Ausbildung ausweisen, die für die Tätigkeit als Luftfahrzeugmechaniker zweckmässig ist;
-- c. nachweisen können, dass sie während dreier Jahre in der Instandhaltung[^20-1] von Luftfahrzeugen tätig war, wovon zwei Jahre auf dem beantragten Tätigkeitsgebiet, oder dass sie an einem vom BAZL anerkannten Kurs teilgenommen hat und während zweier Jahre in der Instandhaltung von Luftfahrzeugen auf dem beantragten Tätigkeitsgebiet tätig war; die letztmalige praktische Tätigkeit darf in beiden Fällen nicht mehr als zwölf Monate zurückliegen;
-- d. die Fähigkeitsprüfung bestanden haben;
-- e.[^20-2] über die für das Verstehen von Instandhaltungsunterlagen erforderlichen Fremdsprachenkenntnisse verfügen.
-
-<sup>2</sup> Das BAZL entscheidet im Einzelfall, ob die Tätigkeit in einem Herstellerbetrieb oder an militärischen Luftfahrzeugen an die geforderte praktische Erfahrung angerechnet werden kann.
-
-[^20-1]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^20-2]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^20-1]: Gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 21
 
-**Fähigkeitsprüfung**
+**Nationaler Baumustereintrag und Fähigkeitsprüfung**
 
-Die Fähigkeitsprüfung umfasst eine theoretische und eine praktische Prüfung über:
+Für die Ausführung und Bescheinigung von Instandhaltungsarbeiten an Luftfahrzeugen mit Jet- oder Turbopropantrieb sowie an Helikoptern müssen Luftfahrzeugmechaniker und Avioniker über den entsprechenden Baumustereintrag im Ausweis verfügen. Dieser wird erteilt, wenn:
 
-- a. die luftrechtlichen Vorschriften über die Instandhaltung von Luftfahrzeugen;
-- b. Material- und Normenkenntnisse;
-- c. allgemeine Kenntnisse der Luftfahrzeuge;
-- d.[^21-1] Kenntnisse der Komponenten und der Luftfahrzeugsysteme aus dem Bereich der von der Gesuchstellerin oder vom Gesuchsteller beantragten Tätigkeitsgebiete;
-- e. die Anwendung von Instandhaltungsunterlagen[^21-2];
-- f. Arbeits- und Prüfverfahren, einschliesslich Kenntnisse der erforderlichen administrativen Arbeiten;
-- g. englische Sprachkenntnisse, soweit sie für das Verstehen der Instandhaltungsunterlagen erforderlich sind.
-
-[^21-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^21-2]: Ausdruck gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+- a. ein baumusterspezifischer Herstellerkurs erfolgreich absolviert; oder
+- b. beim BAZL erfolgreich eine Fähigkeitsprüfung über die baumusterspezifischen Fachkenntnisse abgelegt wurde.
 
 #### Art. 22
 
 **Rechte des Trägers oder der Trägerin eines Ausweises**
 
-<sup>1</sup>
+<sup>1</sup> Der Träger oder die Trägerin eines Ausweises für Luftfahrzeugmechaniker oder Avioniker ist berechtigt, für die in seinem oder ihrem Ausweis eingetragenen Tätigkeitsgebiet Instandhaltungsarbeiten an Luftfahrzeugen und Komponenten durchzuführen, zu überwachen und zu bescheinigen. Die Einschränkungen, die sich aus Artikel 32 Absatz 2 VLL[^22-1] sowie den Anhängen der VLL zu den einzelnen Unterkategorien der Sonderkategorie ergeben, sind anwendbar.
 
-Der Träger oder die Trägerin eines Ausweises für Luftfahrzeugmechaniker ist berechtigt:
+<sup>2</sup>
 
-- a. selbstständig nicht komplexe Instandhaltungsarbeiten an den in seinem oder ihrem Ausweis eingetragenen Luftfahrzeugen durchzuführen, zu überwachen und zu bescheinigen;
-- b. komplexe Instandhaltungsarbeiten an Luftfahrzeugen unter Aufsicht eines entsprechend berechtigten Instandhaltungsbetriebes durchzuführen, zu überwachen und zu bescheinigen.[^22-1]
-
-<sup>2</sup> Das BAZL kann einem Träger oder einer Trägerin eines Ausweises für Luftfahrzeugmechaniker im Einzelfall bewilligen, an den in seinem oder ihrem Ausweis eingetragenen Luftfahrzeugen bestimmte komplexe Instandhaltungsarbeiten selbstständig durchzuführen und zu bescheinigen.[^22-2]
-
-<sup>3</sup>
-
-Unter Vorbehalt der zusätzlichen Anforderungen der zuständigen Flugplatzorgane ist ein Träger oder eine Trägerin eines Ausweises für Luftfahrzeugmechaniker ausserdem berechtigt:
+Ein Träger oder eine Trägerin eines Ausweises für Luftfahrzeugmechaniker oder Avioniker ausserdem berechtigt:
 
 - a. mit einem Luftfahrzeug zu rollen, sofern er oder sie eine entsprechende Einweisung erhalten hat und in die Flugplatzverfahren eingeführt worden ist;
 - b. mit den Verkehrsdienststellen der Flugsicherung in radiotelefonische Verbindung zu treten, sofern er oder sie eine Einführung in die Verfahren des radiotelefonischen Verkehrs erhalten hat und die beim Rollen gebräuchlichen Redewendungen kennt.
 
-[^22-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^22-2]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+<sup>3</sup> Zusätzliche Anforderungen der zuständigen Flugplatzorgane bleiben vorbehalten.
 
-### 2. Abschnitt:**** ...
+[^22-1]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+
+### 2. Abschnitt: …
 
 [^chap3-sec2-1]
 
@@ -365,11 +353,12 @@ Die Fähigkeitsprüfung umfasst eine theoretische und eine praktische Prüfung �
 
 **Rechte des Trägers oder der Trägerin eines Ausweises**
 
-<sup>1</sup> Der Träger oder die Trägerin eines Ausweises für Fachspezialisten oder einer persönlichen Ermächtigung ist berechtigt, für die in seinem oder ihrem Ausweis oder seiner oder ihrer persönlichen Ermächtigung eingetragenen Tätigkeitsgebiete Instandhaltungsarbeiten an Luftfahrzeugen und Komponenten durchzuführen oder zu überwachen und zu bescheinigen.[^28-1]
+<sup>1</sup> Der Träger oder die Trägerin eines Ausweises für Fachspezialisten oder einer persönlichen Ermächtigung ist berechtigt, für die in seinem oder ihrem Ausweis oder seiner oder ihrer persönlichen Ermächtigung eingetragenen Tätigkeitsgebiete Instandhaltungsarbeiten an Luftfahrzeugen und Komponenten durchzuführen, zu überwachen und zu bescheinigen. Die Einschränkungen, die sich aus Artikel 32 Absatz 2 VLL[^28-1] sowie den Anhängen der VLL zu den einzelnen Unterkategorien der Sonderkategorie ergeben, sind anwendbar.[^28-2]
 
 <sup>2</sup> Für das Rollen mit Luftfahrzeugen gilt Artikel 22 Absatz 3 sinngemäss.
 
-[^28-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^28-1]: [SR 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+[^28-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## 4. Kapitel: Technische Mitteilungen
 
@@ -384,7 +373,7 @@ Die Fähigkeitsprüfung umfasst eine theoretische und eine praktische Prüfung �
 <sup>3</sup> Eine Kopie der Technischen Mitteilungen kann beim BAZL gegen Entgelt bezogen werden[^29-2].
 
 [^29-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^29-2]: Bezugsquelle: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch).
+[^29-2]: Bezugsquelle: Bundesamt für Zivilluftfahrt, 3003 Bern ([www.bazl.admin.ch](http://www.bazl.admin.ch)).
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -394,7 +383,7 @@ Die Fähigkeitsprüfung umfasst eine theoretische und eine praktische Prüfung �
 
 Die Verordnung vom 8. Juli 1985[^30-1] über das Luftfahrzeug-Unterhaltspersonal (VUP) wird aufgehoben.
 
-[^30-1]: [[AS 1985 1548](https://fedlex.data.admin.ch/eli/oc/1985/1548_1548_1548), [1993 2311](https://fedlex.data.admin.ch/eli/oc/1993/2311_2311_2311), [1995 123](https://fedlex.data.admin.ch/eli/oc/1995/123_123_123)[4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892)Art. 9]
+[^30-1]: [[AS 1985 1548](https://fedlex.data.admin.ch/eli/oc/1985/1548_1548_1548); [1993 2311](https://fedlex.data.admin.ch/eli/oc/1993/2311_2311_2311); [1995 123](https://fedlex.data.admin.ch/eli/oc/1995/123_123_123), [4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892)Art. 9]
 
 #### Art. 31
 
@@ -416,12 +405,22 @@ Die Verordnung vom 8. Juli 1985[^30-1] über das Luftfahrzeug-Unterhaltspersonal
 
 [^31a-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
+#### Art. 31b
+
+**Übergangsbestimmungen zur Änderung vom 26. Februar 2025**[^31b-1]
+
+<sup>1</sup> Die nach bisherigem Recht ausgestellten Ausweise für Instandhaltungspersonal behalten nach Inkrafttreten der Änderung vom 26. Februar 2025 ihre Gültigkeit.
+
+<sup>2</sup> Das BAZL kann sie unter den Voraussetzungen von Artikel 17 erneuern.
+
+[^31b-1]: Eingefügt durch Ziff. I der V des UVEK vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+
 #### Art. 32
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Oktober 2000 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).

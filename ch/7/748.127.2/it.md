@@ -4,11 +4,11 @@ title: "Ordinanza del DATEC del 25 agosto 2000 concernente il personale di manut
 short: OPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/385"
 language: it
-version: 2008-08-01
+version: 2025-04-01
 adopted: 2000-08-25
 in_force: 2000-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20080801/it/xml/fedlex-data-admin-ch-eli-cc-2000-385-20080801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20080801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/385/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2000-385-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/385/20080801/it"
 
 (OPMA)
 
-del 25 agosto 2000 (Stato 1° agosto 2008)
+del 25 agosto 2000 (Stato 1° aprile 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,
 
@@ -38,10 +38,10 @@ ordina:
 
 <sup>2</sup>
 
-Essa si applica nella misura in cui non sia applicabile, conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999[^1-2] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo, uno dei seguenti regolamenti CE nella versione vincolante per la Svizzera:
+Essa si applica nella misura in cui non sia applicabile, conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999[^1-2] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo, uno dei seguenti regolamenti UE nella versione vincolante per la Svizzera[^1-3]:
 
-- a. regolamento (CE) n. 1592/2002;
-- b. regolamento (CE) n. 2042/2003.
+- a. regolamento (UE) n. 2018/1139[^1-4];
+- b. regolamento (UE) n. 1321/2014[^1-5].[^1-6]
 
 <sup>3</sup>
 
@@ -50,14 +50,18 @@ Essa si applica ai titolari di una licenza svizzera o di un’autorizzazione per
 - a. in Svizzera o presso l’aeroporto di Basilea-Mulhouse;
 - b. all’estero, nella misura in cui siano ammissibili secondo la legislazione estera e non siano applicabili prescrizioni estere più severe.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^1-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258). La versione vincolante per la Svizzera è riportata nell’allegato all’Accordo e può essere consultata o richiesta all’UFAC. Indirizzo: Ufficio federale dell’aviazione civile, 3003 Berna (www.bazl.admin.ch).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^1-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^1-3]: La versione vincolante per la Svizzera è riportata nell’allegato all’Accordo sul trasporto aereo e può essere consultata o richiesta presso l’UFAC. Indirizzo: Ufficio federale dell’aviazione civile, 3003 Berna ([www.ufac.admin.ch](https://www.bazl.admin.ch/bazl/it/home.html)).
+[^1-4]: Regolamento (UE) n. 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio.
+[^1-5]: Regolamento (UE) n. 1321/2014 della Commissione, del 26 novembre 2014, sul mantenimento dell’aeronavigabilità di aeromobili e di prodotti aeronautici, parti e pertinenze, nonché sull’approvazione delle organizzazioni e del personale autorizzato a tali mansioni.
+[^1-6]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^2-1]: Abrogato dalla cifra I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 3
 
@@ -65,15 +69,17 @@ Essa si applica ai titolari di una licenza svizzera o di un’autorizzazione per
 
 Nella presente ordinanza s’intende per:
 
-- a. *personale autorizzato a certificare*: personale addetto alla manutenzione, abilitato dall’Ufficio federale dell’aviazione civile (UFAC) a rilasciare certificati di riammissione in servizio;
+- a.[^3-2] *personale autorizzato a certificare:* personale addetto alla manutenzione, titolare della relativa licenza oppure abilitato dall’Ufficio federale dell’aviazione civile (UFAC) a rilasciare certificati di riammissione in servizio;
 - b. *componenti*: motori, eliche, componenti, gruppi, elementi costruttivi ed equipaggiamenti, compresi quelli di emergenza; i carichi esterni sganciabili degli elicotteri che servono esclusivamente al trasporto di materiale non sono considerati come componenti;
 - c. *autorizzazione personale*: documento rilasciato dall’UFAC che abilita il titolare a certificare lavori di manutenzione soltanto su determinate componenti o determinate attività;
-- d. *lavori di manutenzione*: lavori di controllo, revisione, modifica, sostituzione e riparazione su aeromobili e loro componenti;
+- d.[^3-3] *lavori di manutenzione:* lavori di controllo, revisione, modifica, sostituzione e riparazione su aeromobili e loro componenti, salvo le ispezioni pre-volo secondo il manuale di volo;
 - e. *lavori di manutenzione complessi e non complessi*: lavori di manutenzione ai sensi delle direttive dell’UFAC (Comunicazioni tecniche, art. 29);
 - f. *certificato di riammissione in servizio*: documento attestante che i lavori di manutenzione effettuati su un aeromobile o su una componente sono stati eseguiti e terminati conformemente ai pertinenti documenti di manutenzione;
 - g. *documenti di manutenzione*: tutte le informazioni necessarie affinché un aeromobile o una componente siano mantenuti in uno stato tale da garantirne l’aeronavigabilità.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## Capitolo 2: Disposizioni generali concernenti le licenze e le autorizzazioni personali
 
@@ -85,15 +91,15 @@ Nella presente ordinanza s’intende per:
 
 <sup>1</sup> Chiunque, in virtù della presente ordinanza, intende eseguire, sorvegliare e certificare lavori di manutenzione o applicare, in modo autonomo, procedure particolari, deve essere titolare di una licenza personale rilasciata o riconosciuta dall’UFAC[^4-1] o di un’autorizzazione personale rilasciata da quest’ultimo.
 
-<sup>2</sup> Le persone non titolari di una licenza o di un’autorizzazione personale pertinente sono autorizzate a eseguire lavori di manutenzione unicamente sotto la sorveglianza diretta di un titolare di una licenza, di un’autorizzazione personale conformemente alla presente ordinanza o di una licenza di cui all’allegato III al regolamento (CE) n. 2042/2003[^4-2].[^4-3]
+<sup>2</sup> Le persone non titolari di una licenza o di un’autorizzazione personale pertinente sono autorizzate a eseguire lavori di manutenzione unicamente sotto la sorveglianza diretta di un titolare di una licenza, di un’autorizzazione personale conformemente alla presente ordinanza o di una licenza secondo l’allegato III (parte 66) al regolamento (UE) n. 1321/2014[^4-2].[^4-3]
 
 <sup>3</sup> Sono fatti salvi gli articoli 33 e 34 dell’ordinanza del DATEC del 18 settembre 1995[^4-4] concernente la navigabilità degli aeromobili (ODNA).[^4-5]
 
-[^4-1]: Nuova espr. giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^4-1]: Nuova espr. giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)). Di detta modifica è tenuto conto in tutto il presente testo.
 [^4-2]: Conformemente al n. 3 dell’allegato all’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 [^4-4]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
-[^4-5]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 5
 
@@ -103,7 +109,7 @@ Nella presente ordinanza s’intende per:
 
 <sup>2</sup> In casi motivati, l’UFAC può eccezionalmente autorizzare i titolari di una licenza estera o di un’autorizzazione estera di personale di manutenzione a esercitare temporaneamente un’attività soggetta a licenza, a condizione che queste persone dispongano delle conoscenze e dell’esperienza richieste.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 6
 
@@ -114,16 +120,16 @@ Nella presente ordinanza s’intende per:
 L’UFAC rilascia le seguenti licenze di personale di manutenzione:[^6-1]
 
 - a. meccanico d’aeromobili;
-- b. ...[^6-2]
+- b.[^6-2] tecnico avionico;
 - c. specialista.
 
 <sup>2</sup> Al posto di una licenza di specialista, l’UFAC può rilasciare un’autorizzazione personale se il campo di attività del richiedente si estende unicamente a determinate componenti[^6-3] o a un settore limitato.
 
 <sup>3</sup> Le licenze e le autorizzazioni personali possono essere vincolate a obblighi o restrizioni.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^6-2]: Abrogata dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^6-3]: Nuova espr. giusta il n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)[4075](https://fedlex.data.admin.ch/eli/oc/2008/566)). Di detta modifica é stato tenuto conto in tutto il presente testo.
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
+[^6-3]: Nuova espr. giusta la cifra I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)[4075](https://fedlex.data.admin.ch/eli/oc/2008/566)). Di detta modifica é stato tenuto conto in tutto il presente testo.
 
 #### Art. 7
 
@@ -155,7 +161,7 @@ In casi speciali, segnatamente quando la formazione preliminare del richiedente 
 - b. ordinare un esame ridotto;
 - c. dispensare dall’esame.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 ### Sezione 3: Esami di capacità
 
@@ -193,7 +199,7 @@ L’iscrizione agli esami di capacità dev’essere indirizzata all’UFAC o a u
 
 <sup>3</sup> L’UFAC fissa il termine entro il quale il candidato potrà ripresentarsi all’esame. Di norma, questo termine è di almeno tre mesi.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 14
 
@@ -201,7 +207,7 @@ L’iscrizione agli esami di capacità dev’essere indirizzata all’UFAC o a u
 
 L’UFAC emana, sotto forma di un regolamento d’esame, direttive concernenti l’esecuzione degli esami di capacità (Comunicazioni tecniche, art. 29).
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 ### Sezione 4: Validità della licenza e dell’autorizzazione personale
 
@@ -231,7 +237,7 @@ Il titolare di una licenza o di un’autorizzazione personale non può esercitar
 
 <sup>4</sup> Può far dipendere il rinnovo della licenza o dell’autorizzazione personale dalla condizione che il candidato abbia seguito un corso di ripetizione, un corso specializzato o superato un esame di controllo.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 18
 
@@ -251,74 +257,57 @@ In applicazione dell’articolo 92 LNA, l’UFAC può pronunciare la revoca temp
 
 <sup>2</sup> L’UFAC emana direttive concernenti le procedure di lavoro speciali (Comunicazioni tecniche, art. 29).[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 ## Capitolo 3: Disposizioni particolari concernenti le licenze e le autorizzazioni personali
 
-### Sezione 1: Licenza di meccanico d’aeromobili
+### Sezione 1: Licenze di meccanico d’aeromobili e di tecnico avionico
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 20
 
 **Condizioni per il conseguimento**
 
-<sup>1</sup>
+<sup>1</sup> Chiunque intende conseguire una licenza di meccanico d’aeromobili deve adempiere le esigenze dell’articolo 8 e essere titolare di una licenza della categoria B1, B3, L o C per personale addetto a certificare, secondo l’allegato III (parte 66) del regolamento (UE) n. 1321/2014[^20-1].
 
-Chiunque intende conseguire una licenza di meccanico d’aeromobili deve adempiere le esigenze degli articoli 8 e 9 nonché:
+<sup>2</sup> Chiunque intende conseguire una licenza di tecnico avionico deve adempiere le esigenze dell’articolo 8 ed essere titolare di una licenza della categoria B2 o B2L per personale addetto a certificare, secondo l’allegato III (parte 66) del regolamento (UE) n. 1321/2014.
 
-- a. aver compiuto almeno 21 anni;
-- b. dimostrare di aver seguito un apprendistato o una formazione equivalente in un campo adeguato all’attività di meccanico d’aeromobili;
-- c. poter provare che ha esercitato durante tre anni un’attività nella manutenzione degli aeromobili, di cui due anni nel campo in questione, o che ha seguito un corso riconosciuto dall’UFAC ed esercitato durante due anni un’attività di manutenzione di aeromobili nel campo in questione; in entrambi i casi, l’ultima attività pratica non deve risalire a più di dodici mesi prima;
-- d. aver superato l’esame di capacità;
-- e.[^20-1] disporre di una conoscenza delle lingue estere sufficiente per comprendere i documenti di manutenzione.
-
-<sup>2</sup> L’UFAC decide caso per caso se l’attività in seno a un’impresa di costruzione o su velivoli militari può essere computata sull’attività pratica richiesta.
-
-[^20-1]: Introdotta dal n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^20-1]: Conformemente al n. 3 dell’allegato all’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 
 #### Art. 21
 
-**Esame di capacità**
+**Menzione nazionale del tipo di aeromobile e esame di capacità**
 
-L’esame di capacità comprende un esame teorico e un esame pratico in materia di:
+Se un meccanico o un tecnico avionico intende eseguire e certificare lavori di manutenzione su aeromobili con motori a reazione o motori a turboelica e su elicotteri, nella sua licenza deve essere menzionato il relativo tipo di aeromobile. Questa menzione è rilasciata se la persona:
 
-- a. prescrizioni di diritto aereo applicabili alla manutenzione degli aeromobili;
-- b. conoscenze dei materiali e delle norme;
-- c. conoscenze generali degli aeromobili;
-- d.[^21-1] conoscenze delle componenti e dei sistemi di aeromobili nel campo d’attività sollecitato dal richiedente;
-- e. utilizzazione dei documenti di manutenzione;
-- f. procedure di lavoro e di controllo, compresa la conoscenza dei lavori amministrativi necessari;
-- g. conoscenze della lingua inglese, nella misura in cui siano necessarie per la comprensione dei documenti di manutenzione.
-
-[^21-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+- a. ha portato a termine e superato un corso sul tipo di aeromobile in questione, organizzato dal costruttore; o
+- b. ha superato presso l’UFAC un esame di capacità che prova le sue competenze in merito al tipo di aeromobile in questione.
 
 #### Art. 22
 
 **Diritti del titolare della licenza**
 
-<sup>1</sup>
+<sup>1</sup> Il titolare di una licenza di meccanico d’aeromobili o di tecnico avionico è autorizzato, per il campo d’attività iscritto nella sua licenza, a eseguire, sorvegliare e certificare lavori di manutenzione su aeromobili e loro componenti. Per quanto concerne le singole sottocategorie della categoria speciale, si applicano le limitazioni di cui all’articolo 32 capoverso 2 ODNA[^22-1] e gli allegati all’ODNA.
 
-Il titolare di una licenza di meccanico d’aeromobili è autorizzato a:
+<sup>2</sup>
 
-- a. eseguire, sorvegliare e certificare in modo autonomo lavori di manutenzione non complessi sugli aeromobili iscritti nella sua licenza;
-- b. eseguire, sorvegliare e certificare lavori di manutenzione complessi su aeromobili sotto la sorveglianza di un’impresa di manutenzione titolare dell’autorizzazione corrispondente.[^22-1]
-
-<sup>2</sup> In singoli casi, l’UFAC può autorizzare il titolare di una licenza di meccanico d’aeromobili a eseguire in modo autonomo e a certificare lavori di manutenzione complessi sugli aeromobili iscritti nella sua licenza.[^22-2]
-
-<sup>3</sup>
-
-Fatti salvi eventuali requisiti complementari posti dagli organi competenti dell’aeroporto, il titolare della licenza di meccanico d’aeromobili è inoltre abilitato a:
+Il titolare di una licenza di meccanico d’aeromobili o di tecnico avionico è inoltre abilitato a:
 
 - a. rullare con un aeromobile, a condizione di essere stato introdotto a quest’operazione e alle procedure applicate presso l’aerodromo;
 - b. entrare in contatto radiotelefonico con i servizi della sicurezza aerea, a condizione di essere stato introdotto alle procedure applicate per le comunicazioni radiotelefoniche e di conoscere le espressioni convenzionali per il rullaggio.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+<sup>3</sup> Sono fatti salvi eventuali requisiti complementari posti dagli organi competenti dell’aeroporto.
 
-### Sezione 2:**** ...
+[^22-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+
+### Sezione 2: ...
 
 [^chap3-sec2-1]
 
-[^chap3-sec2-1]: Abrogata dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^chap3-sec2-1]: Abrogata dalla cifra I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 23 a 25
 
@@ -340,8 +329,8 @@ Chiunque intende conseguire una licenza di specialista o un’autorizzazione per
 
 <sup>2</sup> In singoli casi l’UFAC può dispensare parzialmente o completamente il richiedente da determinate condizioni giusta il capoverso 1 lettera c, a condizione che esso provi di aver seguito una formazione pratica equivalente.
 
-[^26-1]: Nuova espr. giusta il n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)[4075](https://fedlex.data.admin.ch/eli/oc/2008/566)). Di detta modifica é stato tenuto conto in tutto il presente testo.
-[^26-2]: Introdotta dal n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^26-1]: Nuova espr. giusta la cifra I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)[4075](https://fedlex.data.admin.ch/eli/oc/2008/566)). Di detta modifica é stato tenuto conto in tutto il presente testo.
+[^26-2]: Introdotta dalla cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 27
 
@@ -356,17 +345,18 @@ L’esame di capacità comprende un esame teorico e un esame pratico in materia 
 - e. procedure di lavoro e di controllo, compresa la conoscenza dei necessari lavori amministrativi;
 - f. conoscenze della lingua inglese, nella misura in cui siano necessarie per la comprensione dei documenti di manutenzione.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 
 #### Art. 28
 
 **Diritti del titolare della licenza**
 
-<sup>1</sup> Il titolare di una licenza di specialista o di un’autorizzazione personale è autorizzato, per i campi d’attività iscritti nella sua licenza o nella sua autorizzazione personale, a eseguire, sorvegliare e certificare lavori di manutenzione su aeromobili e loro componenti.[^28-1]
+<sup>1</sup> Il titolare di una licenza di specialista o di un’autorizzazione personale è autorizzato, per i campi d’attività iscritti nella sua licenza o nella sua autorizzazione personale, a eseguire, sorvegliare e certificare lavori di manutenzione su aeromobili e loro componenti. Per quanto concerne le singole sottocategorie della categoria speciale, si applicano le limitazioni di cui all’articolo 32 capoverso 2 ODNA[^28-1] e gli allegati all’ODNA.[^28-2]
 
 <sup>2</sup> L’articolo 22 capoverso 3 si applica per analogia al rullaggio degli aeromobili.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^28-1]: [RS 748.215.1](https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897)
+[^28-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 ## Capitolo 4: Comunicazioni tecniche
 
@@ -380,7 +370,7 @@ L’esame di capacità comprende un esame teorico e un esame pratico in materia 
 
 <sup>3</sup> Una copia delle comunicazioni tecniche può essere ottenuta, dietro pagamento, presso l’UFAC[^29-2].
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
 [^29-2]: Indirizzo: Ufficio federale dell’aviazione civile, 3003 Berna (www.bazl.admin.ch).
 
 ## Capitolo 5: Disposizioni finali
@@ -391,7 +381,7 @@ L’esame di capacità comprende un esame teorico e un esame pratico in materia 
 
 L’ordinanza dell’8 luglio 1985[^30-1] concernente il personale di manutenzione d’aeromobili (OPMA) è abrogata.
 
-[^30-1]: [[RU 1985 1548](https://fedlex.data.admin.ch/eli/oc/1985/1548_1548_1548), [1993 2311](https://fedlex.data.admin.ch/eli/oc/1993/2311_2311_2311), [1995 123](https://fedlex.data.admin.ch/eli/oc/1995/123_123_123)[4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892)art. 9]
+[^30-1]: [[RU 1985 1548](https://fedlex.data.admin.ch/eli/oc/1985/1548_1548_1548); [1993 2311](https://fedlex.data.admin.ch/eli/oc/1993/2311_2311_2311); [1995 123](https://fedlex.data.admin.ch/eli/oc/1995/123_123_123), [4892](https://fedlex.data.admin.ch/eli/oc/1995/4892_4892_4892)art. 9]
 
 #### Art. 31
 
@@ -411,7 +401,17 @@ L’ordinanza dell’8 luglio 1985[^30-1] concernente il personale di manutenzio
 
 <sup>2</sup> L’UFAC può rinnovarle purché siano adempiute le condizioni di cui all’articolo 17.
 
-[^31a-1]: Introdotto dal n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^31a-1]: Introdotto dalla cifra I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+
+#### Art. 31b
+
+**Disposizione transitoria della modifica del 26 febbraio 2025**[^31b-1]
+
+<sup>1</sup> Le licenze per personale addetto alla manutenzione rilasciate in virtù del diritto previgente restano valide anche dopo l’entrata in vigore della modifica del 26 febbraio 2025.
+
+<sup>2</sup> L’UFAC può rinnovarle alle condizioni di cui all’articolo 17.
+
+[^31b-1]: Introdotto dalla cifra I dell’O del DATEC del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 175](https://fedlex.data.admin.ch/eli/oc/2025/175)).
 
 #### Art. 32
 
@@ -419,8 +419,8 @@ L’ordinanza dell’8 luglio 1985[^30-1] concernente il personale di manutenzio
 
 La presente ordinanza entra in vigore il 1° ottobre 2000.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 29)
 
-[^t-1]: Abrogato dal n. II dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
+[^t-1]: Abrogato dalla cifra II dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3611](https://fedlex.data.admin.ch/eli/oc/2008/470)).
