@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazion
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: it
-version: 2024-04-01
+version: 2025-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/it"
 
 (OCoR-DFI)
 
-del 14 ottobre 2019 (Stato 1° aprile 2024)
+del 14 ottobre 2019 (Stato 1° aprile 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 4 capoversi 1 e 4, 5 capoverso 5 e 13 capoverso 2 dell’ordi
 
 ordina:
 
-[^ingress-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^ingress-1]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 
 #### Art. 1
 
@@ -65,7 +65,7 @@ Vigono i seguenti ordini gerarchici:
 
 <sup>2</sup> Per l’attribuzione al PCG «tumore (KRE)» e al PCG «tumore complesso (KRK)» un assicurato necessita di almeno tre confezioni.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 22 gen. 2021, in vigore dal 15 mar. 2021 ([RU 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 22 gen. 2021, in vigore dal 15 mar. 2021 ([RU 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
 
 #### Art. 5
 
@@ -96,5 +96,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 5 mar. 2024, in vigore dal 1° apr. 2024 ([RU 2024 117](https://fedlex.data.admin.ch/eli/oc/2024/117)).
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/117](https://fedlex.data.admin.ch/eli/oc/2024/117) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 24 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 146](https://fedlex.data.admin.ch/eli/oc/2025/146)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/146](https://fedlex.data.admin.ch/eli/oc/2025/146) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

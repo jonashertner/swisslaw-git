@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2024-04-01
+version: 2025-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20240401/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 1. April 2024)
+vom 14. Oktober 2019 (Stand am 1. April 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 4 Absätze 1 und 4, 5 Absatz 5 und 13 Absatz 2 der Ver
 
 verordnet:
 
-[^ingress-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^ingress-1]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 
 #### Art. 1
 
@@ -96,5 +96,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 5. März 2024, in Kraft seit 1. April 2024 ([AS 2024 117](https://fedlex.data.admin.ch/eli/oc/2024/117)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/11](https://fedlex.data.admin.ch/eli/oc/2023/112)7 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 146](https://fedlex.data.admin.ch/eli/oc/2025/146)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/146](https://fedlex.data.admin.ch/eli/oc/2025/146) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
