@@ -4,11 +4,11 @@ title: "Ordinanza del 7 marzo 2003 sull'organizzazione del Dipartimento federale
 short: OOrg-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: it
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/it"
 
 (OOrg-DDPS)
 
-del 7 marzo 2003 (Stato 1° gennaio 2024)
+del 7 marzo 2003 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -100,7 +100,7 @@ La Segreteria generale esercita le funzioni di cui all’articolo 42 LOGA e assu
 - b.[^5-1] è incaricata della strategia;
 - b<sup>bis</sup>.[^5-2] avvia, pianifica, coordina e controlla gli affari del Dipartimento e segue in particolare i principali affari sovradipartimentali;
 - c. attua gli obiettivi strategici del Consiglio federale e del capodipartimento, formula le pertinenti opzioni politiche e ne coordina l’attuazione da parte degli aggruppamenti e degli uffici del DDPS;
-- [tab] c<sup>bis</sup>.[^5-3] ...
+- c<sup>bis</sup>.[^5-3] ...
 - c<sup>ter</sup>.[^5-4] vigila sulla cyberdifesa militare e fa rapporto al Consiglio federale;
 - d. assicura la gestione strategica delle risorse;
 - e. provvede alla raccolta di informazioni e di documentazione, alla pianificazione dell’informazione e alla comunicazione;
@@ -527,15 +527,20 @@ Per perseguire tali obiettivi l’Ufficio federale dello sport assume in partico
 
 <sup>2</sup>
 
-Per perseguire tale obiettivo, l’UFCS assume in particolare le funzioni seguenti:
+Assume in particolare le funzioni seguenti:[^15a-1]
 
 - a. coordina i lavori della Confederazione nel settore della cibersicurezza;
 - b. effettua analisi tecniche per valutare e contrastare ciberincidenti e ciberminacce, nonché per identificare ed eliminare vulnerabilità nell’ambito della protezione della Svizzera dalle ciberminacce;
 - c. riceve le segnalazioni riguardanti ciberincidenti e ciberminacce e analizza le segnalazioni in relazione alla loro rilevanza per la protezione della Svizzera contro le ciberminacce; al riguardo gestisce il Servizio nazionale di contatto per le ciberminacce;
 - d. pubblica informazioni relative a ciberincidenti, sempre che ciò sia utile per la protezione contro le ciberminacce;
 - e. avvisa le autorità, le organizzazioni e le persone interessate in caso di ciberminacce imminenti o ciberattacchi in corso;
-- f. sostiene i gestori di infrastrutture critiche nell’ambito della protezione contro le ciberminacce; gestisce a tale scopo il team nazionale di risposta alle emergenze informatiche (*Computer Emergency Response Team [CERT])*;
-- g. elabora all’attenzione del Consiglio federale la Ciberstrategia nazionale e ne coordina l’attuazione.
+- f.[^15a-2] gestisce il team nazionale di risposta alle emergenze informatiche;
+- g. elabora all’attenzione del Consiglio federale la Ciberstrategia nazionale e ne coordina l’attuazione;
+- h.[^15a-3] rappresenta la Svizzera in seno ad organi specialistici internazionali di cibersicurezza.
+
+[^15a-1]: Nuovo testo giusta l’all. n. 1 dell’O del 7 mar. 2025 sulla cibersicurezza, in vigore dal 1° apr. 2025 ([RU 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-2]: Nuovo testo giusta l’all. n. 1 dell’O del 7 mar. 2025 sulla cibersicurezza, in vigore dal 1° apr. 2025 ([RU 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-3]: Introdotta dall’all. n. 1 dell’O del 7 mar. 2025 sulla cibersicurezza, in vigore dal 1° apr. 2025 ([RU 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 ## Capitolo 3: Disposizioni finali
 

@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 7. März 2003 für das Eidgenössische Depar
 short: OV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: de
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/de"
 
 (OV-VBS)
 
-vom 7. März 2003 (Stand am 1. Januar 2024)
+vom 7. März 2003 (Stand am 1. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -530,15 +530,20 @@ Zur Verfolgung dieser Ziele nimmt das Bundesamt für Sport insbesondere folgende
 
 <sup>2</sup>
 
-Zur Verfolgung dieses Ziels nimmt das BACS insbesondere folgende Funktionen wahr:
+Es nimmt insbesondere folgende Funktionen wahr:[^15a-1]
 
 - a. Es koordiniert die Arbeiten des Bundes im Bereich der Cybersicherheit.
 - b. Es erstellt technische Analysen zur Bewertung und Abwehr von Cybervorfällen und Cyberbedrohungen sowie zur Identifikation und Behebung von Schwachstellen beim Schutz der Schweiz vor Cyberbedrohungen.
 - c. Es nimmt Meldungen zu Cybervorfällen und Cyberbedrohungen entgegen und analysiert diese Meldungen bezüglich ihrer Bedeutung für den Schutz der Schweiz vor Cyberbedrohungen; es betreibt dazu die nationale Anlaufstelle für Cyberbedrohungen.
 - d. Es veröffentlicht Informationen zu Cybervorfällen, soweit dies dem Schutz vor Cyberbedrohungen dient.
 - e. Es warnt betroffene Behörden, Organisationen und Personen vor unmittelbaren Cyberbedrohungen oder laufenden Cyberangriffen.
-- f. Es unterstützt die Betreiberinnen von kritischen Infrastrukturen beim Schutz vor Cyberbedrohungen; es betreibt dazu das nationale Einsatzteam für Computersicherheit (*Computer Emergency Response Team [CERT])*.
+- f.[^15a-2] Es betreibt das nationale Einsatzteam für Computersicherheit.
 - g. Es erarbeitet zuhanden des Bundesrats die Nationale Cyberstrategie und koordiniert deren Umsetzung.
+- h.[^15a-3] Es vertritt die Schweiz in internationalen Fachgremien zur Cybersicherheit.
+
+[^15a-1]: Fassung gemäss Anhang Ziff. 1 der Cybersicherheitsverordnung vom 7. März 2025, in Kraft seit 1. April 2025 ([AS 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-2]: Fassung gemäss Anhang Ziff. 1 der Cybersicherheitsverordnung vom 7. März 2025, in Kraft seit 1. April 2025 ([AS 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-3]: Eingefügt durch Anhang Ziff. 1 der Cybersicherheitsverordnung vom 7. März 2025, in Kraft seit 1. April 2025 ([AS 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 ## 3. Kapitel: Schlussbestimmungen
 

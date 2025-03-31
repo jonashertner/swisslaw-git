@@ -4,11 +4,11 @@ title: "Ordonnance du 7 mars 2003 sur l'organisation du Département fédéral d
 short: Org-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: fr
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20240101/fr"
 
 (Org-DDPS)
 
-du 7 mars 2003 (État le 1<sup>er</sup> janvier 2024)
+du 7 mars 2003 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -152,7 +152,7 @@ Sont rattachés administrativement au Secrétariat général:
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 [^6-2]: Abrogées par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^6-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^6-3]: Introduite par l’annexe ch. 3 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-4]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-5]: Introduite par le ch. I de l’O du 15 nov. 2017 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)). Abrogée par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^6-6]: Introduite par le ch. II de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
@@ -519,11 +519,11 @@ Dans ce cadre, il assume notamment les tâches suivantes:
 [^15-2]: Abrogée par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^15-3]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
-## Section 9 Office fédéral de la cybersécurité
+### Section 9 Office fédéral de la cybersécurité
 
-[^chap3-1]
+[^chap2-sec9-1]
 
-[^chap3-1]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^chap2-sec9-1]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 15a
 
@@ -531,15 +531,20 @@ Dans ce cadre, il assume notamment les tâches suivantes:
 
 <sup>2</sup>
 
-Pour atteindre cet objectif, il assume notamment les tâches suivantes:
+Il assume notamment les tâches suivantes:[^15a-1]
 
 - a. il coordonne les travaux de la Confédération dans le domaine de la cybersécurité;
 - b. il réalise des analyses techniques pour évaluer et contrer les cyberincidents et les cybermenaces, ainsi que pour identifier et éliminer les vulnérabilités dans le cadre de la protection de la Suisse contre les cybermenaces;
 - c. il reçoit les annonces de cyberincidents et de cybermenaces et analyse leur importance pour la protection de la Suisse contre les cybermenaces; il gère à cet effet le guichet national en matière des cybermenaces;
 - d. il publie des informations relatives aux cyberincidents dès lors que cela est utile à la protection contre les cybermenaces;
 - e. il alerte les autorités, les organisations et les personnes concernées en cas de cybermenace immédiate ou de cyberattaque en cours;
-- f. il aide les exploitants d’infrastructures critiques à se protéger contre les cybermenaces; il gère à cet effet l’équipe d’intervention en cas d’urgence informatique (*Computer Emergency Response Team [CERT])*;
-- g. il élabore la cyberstratégie nationale à l’intention du Conseil fédéral et coordonne sa mise en œuvre.
+- f.[^15a-2] il gère l’équipe nationale d’intervention en cas d’urgence informatique;
+- g. il élabore la cyberstratégie nationale à l’intention du Conseil fédéral et coordonne sa mise en œuvre;
+- h.[^15a-3] il représente la Suisse dans les organes internationaux de cybersécurité.
+
+[^15a-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 7 mars 2025 sur la cybersécurité, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 7 mars 2025 sur la cybersécurité, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
+[^15a-3]: Introduite par l’annexe ch. 1 de l’O du 7 mars 2025 sur la cybersécurité, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 169](https://fedlex.data.admin.ch/eli/oc/2025/169)).
 
 ## Chapitre 3 Dispositions finales
 
