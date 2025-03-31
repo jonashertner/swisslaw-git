@@ -4,11 +4,11 @@ title: "Federal Act of 25 September 2020 on Data Protection (Data Protection Act
 short: FADP
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: en
-version: 2023-09-01
+version: 2025-04-01
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2022-491-20230901-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Act, FADP)
 
-of 25 September 2020 (Status as of 1 September 2023)
+of 25 September 2020 (Status as of 1 April 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -375,7 +375,7 @@ If the personal data is not collected from the data subject, the duty to provide
 
 <sup>3</sup>
 
-The controller may restrict, delay or dispense with the provision of the information in the following cases:
+The controller may restrict, delay or dispense with the communication of the information in the following cases:
 
 - a. It is required to do so because of overriding third party interests.
 - b. Providing the information defeats the purpose of the processing.
@@ -471,13 +471,17 @@ It may limit, delay or dispense with the provision of information to the data su
 - b. the provision of information is impossible or requires disproportionate effort; or
 - c. the provision of information to the data subject is equally guaranteed by making a public announcement.
 
+<sup>5bis</sup> With the controller’s consent, the FDPIC may forward the notification to the National Cyber Security Centre for analysis. The communication may contain sensitive personal data, including data relating to administrative and criminal proceedings or sanctions involving the controller.[^24-1]
+
 <sup>6</sup> A notification made pursuant to this Article may only be used against the person required to notify in criminal proceedings with that person's consent.
+
+[^24-1]: Inserted by No II 2 of the FA of 29 Sept. 2023 (Introduction of a Reporting Obligation for Cyberattacks on Critical Infrastructure), in force since 1 April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## Chapter 4 Rights of the Data Subject
 
 #### Art. 25
 
-**Right of access**
+**Right to information**
 
 <sup>1</sup> Any person may request information from the controller on whether personal data relating to them is being processed.
 
@@ -497,7 +501,7 @@ The data subject shall receive the information required to be able to exercise t
 
 <sup>4</sup> If the controller arranges for personal data to be processed by a processor, it remains under a duty to provide information.
 
-<sup>5</sup> No one may waive their right of access in advance.
+<sup>5</sup> No one may waive their right to information in advance.
 
 <sup>6</sup> The controller must provide information free of charge. The Federal Council may provide for exceptions, in particular if the effort required is disproportionate.
 
@@ -505,7 +509,7 @@ The data subject shall receive the information required to be able to exercise t
 
 #### Art. 26
 
-**Limitations on the right of access**
+**Limitations on the right to information**
 
 <sup>1</sup>
 
@@ -513,7 +517,7 @@ The controller may refuse to provide information, or restrict or delay the provi
 
 - a. a formal law so provides, in particular in order to preserve professional secrecy;
 - b. this is required to safeguard overriding third-party interests; or
-- c. the request for access is obviously unjustified, in particular if does not serve the purpose of data protection or is clearly frivolous.
+- c. the request for information is obviously unjustified, in particular if does not serve the purpose of data protection or is clearly frivolous.
 
 <sup>2</sup>
 
@@ -539,7 +543,7 @@ Furthermore, it is possible to refuse, restrict or delay the provision of inform
 
 #### Art. 27
 
-**Limitation on the right of access for the media**
+**Limitation on the right to information for the media**
 
 <sup>1</sup>
 
@@ -1109,7 +1113,7 @@ The FDPIC shall charge private persons fees for:
 
 #### Art. 60
 
-**Violation of obligations to provide access and information or to cooperate**
+**Violation of the duty to provide information, the right to information and the duty to cooperate**
 
 <sup>1</sup>
 
@@ -1268,7 +1272,7 @@ The following enactments are amended as follows:
 …[^annex1-lvlu1-3]
 
 [^annex1-lvlu1-1]: [[AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)No II; [1998 1546](https://fedlex.data.admin.ch/eli/oc/1998/1546_1546_1546)Art. 31, [1999 2243](https://fedlex.data.admin.ch/eli/oc/1999/354)Art. 25; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 26, [2319](https://fedlex.data.admin.ch/eli/oc/2006/355)Annex No 4; [2007 4983](https://fedlex.data.admin.ch/eli/oc/2007/699); [2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)Annex 1 No II 14, [3387](https://fedlex.data.admin.ch/eli/oc/2010/464)No 3; [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)Annex No 1; [2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111)No II 1]
-[^annex1-lvlu1-2]: [AS 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112)
+[^annex1-lvlu1-2]: [[AS 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112)]
 [^annex1-lvlu1-3]: The amendments may be consulted under [AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491).
 
 Annex 2

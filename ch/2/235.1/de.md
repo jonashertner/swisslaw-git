@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzge
 short: DSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: de
-version: 2023-09-01
+version: 2025-04-01
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-491-20230901-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/de"
 
 (Datenschutzgesetz, DSG)
 
-vom 25. September 2020 (Stand am 1. September 2023)
+vom 25. September 2020 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -469,7 +469,11 @@ Er kann die Information an die betroffene Person einschränken, aufschieben oder
 - b. die Information unmöglich ist oder einen unverhältnismässigen Aufwand erfordert; oder
 - c. die Information der betroffenen Person durch eine öffentliche Bekanntmachung in vergleichbarer Weise sichergestellt ist.
 
+<sup>5bis</sup> Der EDÖB kann die Meldung mit dem Einverständnis des Verantwortlichen zur Analyse des Vorfalls an das Bundesamt für Cybersicherheit weiterleiten. Die Mitteilung kann Personendaten enthalten, einschliesslich besonders schützenswerter Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen betreffend den Verantwortlichen.[^24-1]
+
 <sup>6</sup> Eine Meldung, die aufgrund dieses Artikels erfolgt, darf in einem Strafverfahren gegen die meldepflichtige Person nur mit deren Einverständnis verwendet werden.
+
+[^24-1]: Eingefügt durch Ziff. II 2 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## 4. Kapitel: Rechte der betroffenen Person
 

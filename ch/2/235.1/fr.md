@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)
 short: LPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: fr
-version: 2023-09-01
+version: 2025-04-01
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-491-20230901-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/fr"
 
 (LPD)
 
-du 25 septembre 2020 (État le 1<sup>er</sup> septembre 2023)
+du 25 septembre 2020 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -469,7 +469,11 @@ Il peut restreindre l’information de la personne concernée, la différer ou y
 - b. l’information est impossible à fournir ou exige des efforts disproportionnés;
 - c. l’information de la personne concernée peut être garantie de manière équivalente par une communication publique.
 
+<sup>5bis</sup> Le PFPDT peut, avec l’accord du responsable du traitement, transmettre l’annonce à l’Office fédéral de la cybersécurité pour que celui-ci analyse l’incident. La communication peut contenir des données personnelles, y compris des données sensibles relatives à des poursuites ou à des sanctions pénales ou administratives visant le responsable du traitement.[^24-1]
+
 <sup>6</sup> Une annonce fondée sur le présent article ne peut être utilisée dans le cadre d’une procédure pénale contre la personne tenue d’annoncer qu’avec son consentement.
+
+[^24-1]: Introduit par le ch. II 2 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 ## Chapitre 4 Droits de la personne concernée
 

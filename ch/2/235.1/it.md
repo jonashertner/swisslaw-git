@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)
 short: LPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/491"
 language: it
-version: 2023-09-01
+version: 2025-04-01
 adopted: 2020-09-25
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-491-20230901-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/491/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-491-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/491/20230901/it"
 
 (LPD)
 
-del 25 settembre 2020 (Stato 1° settembre 2023)
+del 25 settembre 2020 (Stato 1° aprile 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -469,7 +469,11 @@ Il titolare del trattamento può limitare o differire l’informazione della per
 - b. l’informazione è impossibile o richiede un onere sproporzionato; o
 - c. l’informazione è garantita in modo equivalente con una comunicazione pubblica.
 
+<sup>5bis</sup> Con il consenso del titolare del trattamento, l’IFPDT può inoltrare la notifica all’Ufficio federale della cibersicurezza ai fini dell’analisi dell’incidente. La comunicazione può contenere dati personali, compresi dati personali degni di particolare protezione su perseguimenti o sanzioni amministrativi e penali concernenti il titolare del trattamento.[^24-1]
+
 <sup>6</sup> Una notifica effettuata in forza del presente articolo può essere usata nel quadro di un procedimento penale contro la persona soggetta all’obbligo di notifica soltanto con il suo consenso.
+
+[^24-1]: Introdotto dalla cifra II n. 2 della LF del 29 set. 2023 sulla sicurezza (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche, in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
 
 ## Capitolo 4: Diritti della persona interessata
 
@@ -856,8 +860,8 @@ Se è in corso una procedura ai sensi della legge del 17 dicembre 2004[^42-1] su
 <sup>6</sup> All’Incaricato non si applica il sistema di valutazione di cui all’articolo 4 capoverso 3 LPers.
 
 [^43-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^43-2]: Secondo, terzo e quarto per. introdotti dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
-[^43-3]: Introdotto dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^43-2]: Secondo, terzo e quarto per. introdotti dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^43-3]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 44
 
@@ -874,7 +878,7 @@ L’Assemblea federale plenaria può destituire l’Incaricato prima della scade
 - a. intenzionalmente o per negligenza grave, ha violato gravemente i suoi doveri d’ufficio; o
 - b. ha durevolmente perso la capacità di esercitare il suo ufficio.
 
-[^44-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^44-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 44a
 
@@ -882,7 +886,7 @@ L’Assemblea federale plenaria può destituire l’Incaricato prima della scade
 
 La Commissione giudiziaria può pronunciare un ammonimento qualora accerti che l’Incaricato ha violato i suoi doveri d’ufficio.
 
-[^44a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^44a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 45
 
@@ -904,7 +908,7 @@ L’Incaricato non può essere membro dell’Assemblea federale o del Consiglio 
 
 <sup>2</sup> La Commissione giudiziaria può autorizzare l’Incaricato a esercitare un’attività accessoria sempreché non siano pregiudicati il pieno adempimento della funzione, nonché l’indipendenza e la reputazione dell’IFPDT.[^47-1] La decisione è pubblicata.
 
-[^47-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^47-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 47a
 
@@ -912,7 +916,7 @@ L’Incaricato non può essere membro dell’Assemblea federale o del Consiglio 
 
 Se la ricusazione dell’Incaricato è contestata, decide il presidente della corte del Tribunale amministrativo federale competente in materia di protezione dei dati.
 
-[^47a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^47a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 48
 
@@ -1218,7 +1222,7 @@ Per gli organi federali, le disposizioni di altri atti normativi federali che si
 
 <sup>2</sup> Se in occasione della prima elezione da parte dell’Assemblea federale plenaria è eletto l’Incaricato uscente, il nuovo mandato dello stesso inizia il giorno successivo all’elezione.[^72-1]
 
-[^72-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^72-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 72a
 
@@ -1226,7 +1230,7 @@ Per gli organi federali, le disposizioni di altri atti normativi federali che si
 
 Il rapporto di lavoro dell’Incaricato costituito secondo il diritto anteriore è retto dal diritto anteriore.
 
-[^72a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
+[^72a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Rapporto di lavoro del capo dell’Incaricato federale della protezione dei dati e della trasparenza), in vigore dal 1° set. 2023 ([RU 2023 231](https://fedlex.data.admin.ch/eli/oc/2023/231); [FF 2022 345](https://fedlex.data.admin.ch/eli/fga/2022/345), [432](https://fedlex.data.admin.ch/eli/fga/2022/432)).
 
 #### Art. 73
 
@@ -1265,7 +1269,7 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [[RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)n. II; [1998 1546](https://fedlex.data.admin.ch/eli/oc/1998/1546_1546_1546)art. 31, [1586](https://fedlex.data.admin.ch/eli/oc/1998/1586_1586_1586); [1999 2243](https://fedlex.data.admin.ch/eli/oc/1999/354)art. 25; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 26, [2319](https://fedlex.data.admin.ch/eli/oc/2006/355)all. n. 4; [2007 4983](https://fedlex.data.admin.ch/eli/oc/2007/699); [2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)all. 1 n. II 14, [3387](https://fedlex.data.admin.ch/eli/oc/2010/464)n. 3; [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)all. n. 1; [2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111)n. II 1]
+[^annex1-lvlu1-1]: [[RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)cifra II; [1998 1546](https://fedlex.data.admin.ch/eli/oc/1998/1546_1546_1546)art. 31, [1586](https://fedlex.data.admin.ch/eli/oc/1998/1586_1586_1586); [1999 2243](https://fedlex.data.admin.ch/eli/oc/1999/354)art. 25; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 26, [2319](https://fedlex.data.admin.ch/eli/oc/2006/355)all. n. 4; [2007 4983](https://fedlex.data.admin.ch/eli/oc/2007/699); [2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)all. 1 cifra II n. 14, [3387](https://fedlex.data.admin.ch/eli/oc/2010/464)n. 3; [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)all. n. 1; [2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111)cifra II n. 1]
 [^annex1-lvlu1-2]: [[RU 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112)]
 [^annex1-lvlu1-3]: Le mod. sono consultabili alla [RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491).
 
