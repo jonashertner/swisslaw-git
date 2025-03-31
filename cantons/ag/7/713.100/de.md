@@ -4,13 +4,13 @@ number: "713.100"
 title: Gesetz über Raumentwicklung und Bauwesen
 short: "Baugesetz, BauG"
 language: de
-version: 2024-07-01
-valid_until: 2025-03-31
-version_adopted: 2023-09-19
+version: 2025-04-01
+valid_until: 2025-06-30
+version_adopted: 2024-04-23
 adopted: 1993-01-19
 in_force: 1994-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3464/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3464/pdf_file"
 
 (Baugesetz, BauG)[^t-1]
 
-Vom 19.01.1993 (Stand 01.07.2024)
+Vom 19.01.1993 (Stand 01.04.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -908,6 +908,12 @@ beschliesst:
 **Vereinfachtes Verfahren**
 
 <sup>1</sup> Der Gemeinderat kann Bauvorhaben von geringer Bedeutung ohne Auflage, Veröffentlichung und Profilierung bewilligen. Den direkten Anstössern ist Gelegenheit zu geben, innert 30 Tagen Einwendungen zu erheben, wenn sie nicht im Voraus schriftlich dem Bauvorhaben zugestimmt haben.
+
+#### § 61a
+
+**Meldeverfahren**
+
+<sup>1</sup> Bauten und Anlagen, die dem Gemeinderat zu melden sind, dürfen ausgeführt werden, wenn die Behörde innert 30 Tagen nach Eingang der Meldung keine Einwände erhebt.
 
 #### § 62
 
