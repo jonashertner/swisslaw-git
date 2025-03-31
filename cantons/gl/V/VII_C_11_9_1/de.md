@@ -3,20 +3,19 @@ canton: GL
 number: VII C/11/9/1
 title: Verordnung über den Vollzug der Verordnung über Fuss- und Wanderwege
 language: de
-version: 2014-09-01
-valid_until: 2025-03-31
-version_adopted: 2014-04-22
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-C.11.9.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1555/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug der Verordnung über Fuss- und Wanderwege
 
-Vom 21.03.2006 (Stand 01.09.2014)
+Vom 21.03.2006 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
@@ -37,7 +36,7 @@ verordnet:
 
 **Fachstelle**
 
-<sup>1</sup> Die Aufgabe der Fachstelle wird von der Hauptabteilung Tiefbau wahrgenommen.
+<sup>1</sup> Die Aufgabe der Fachstelle wird von der Hauptabteilung Mobilität und Tiefbau wahrgenommen.
 
 #### Art. 3
 
