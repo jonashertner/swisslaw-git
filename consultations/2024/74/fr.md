@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avant-projet de loi fédérale sur l’interdiction de l’utilisation publique de symboles nazis (LISN)
 document: Projet mis en consultation
 language: fr

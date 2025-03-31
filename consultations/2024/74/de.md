@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vorentwurf zum Bundesgesetz über das Verbot des öffentlichen Verwendens von nationalsozialistischen Symbolen (VNSG)
 document: Vernehmlassungsvorlage
 language: de

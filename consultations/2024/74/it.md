@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avamprogetto di legge federale sul divieto di utilizzare pubblicamente simboli nazionalsocialisti (LDSN)
 document: Progetto posto in consultazione
 language: it
