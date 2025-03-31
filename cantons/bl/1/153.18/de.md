@@ -3,20 +3,20 @@ canton: BL
 number: "153.18"
 title: Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 language: de
-version: 2024-01-01
-valid_until: 2025-03-31
-version_adopted: 2023-12-19
+version: 2025-04-01
+valid_until: 2026-07-31
+version_adopted: 2025-02-18
 adopted: 2013-03-12
 in_force: 2013-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.18"
-pdf: "https://bl.clex.ch/api/de/versions/3843/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 
-Vom 12.03.2013 (Stand 01.01.2024)
+Vom 12.03.2013 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -335,9 +335,12 @@ beschliesst:
 
 #### § 32
 
-**Trainingsprogramm gegen häusliche Gewalt**
+**Lernprogramm gegen häusliche Gewalt und sexualisierte Gewalt**
 
-<sup>1</sup> Die Durchführung eines Kurses gegen häusliche Gewalt wird pauschal mit CHF 310.– pro Kurs vergütet.
+<sup>1</sup> Die Durchführung eines Kurses wird wie folgt vergütet:
+
+- a. Gruppenkurse mit CHF 310.–;
+- b. Einzelkurse mit CHF 232.50.
 
 <sup>2</sup> Die Vorbereitung von Kursen, Intervisionen und Supervisionen wird mit CHF 62.– pro Stunde vergütet.
 
