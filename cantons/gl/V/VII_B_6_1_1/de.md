@@ -3,20 +3,19 @@ canton: GL
 number: VII B/6/1/1
 title: Verordnung zum Gesetz über die öffentlich-rechtlichen Verhältnisse am Walensee
 language: de
-version: 2006-05-07
-valid_until: 2025-03-31
-version_adopted: 2006-03-21
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.6.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1114/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die öffentlich-rechtlichen Verhältnisse am Walensee
 
-Vom 21.03.2006 (Stand 07.05.2006)
+Vom 21.03.2006 (Stand 01.04.2025)
 
 Der Regierungsrat,
 
@@ -35,9 +34,9 @@ verordnet:
 
 #### Art. 2
 
-**Hauptabteilung Tiefbau**
+**Hauptabteilung Mobilität und Tiefbau**
 
-<sup>1</sup> Die Hauptabteilung Tiefbau ist die zuständige kantonale Verwaltungsbehörde im Sinne des Gesetzes.
+<sup>1</sup> Die Hauptabteilung Mobilität und Tiefbau ist die zuständige kantonale Verwaltungsbehörde im Sinne des Gesetzes.
 
 #### Art. 3
 
