@@ -4,11 +4,11 @@ title: "Loi du 21 mars 2003 sur l'énergie nucléaire (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: fr
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20250401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/fr"
 
 (LENu)
 
-du 21 mars 2003 (État le 1<sup>er</sup> janvier 2024)
+du 21 mars 2003 (État le 1<sup>er</sup> avril 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -809,7 +809,7 @@ Le requérant dispose du droit d’expropriation pour:
 
 <sup>2</sup> La demande d’autorisation doit être publiée dans les organes officiels des cantons et des communes concernés ainsi que dans la Feuille fédérale, et mise à l’enquête pendant 30 jours.
 
-<sup>3</sup> ...[^53-1]
+<sup>3</sup> …[^53-1]
 
 [^53-1]: Abrogé par l’annexe ch. 11 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -856,7 +856,7 @@ Lorsqu’il accorde l’autorisation, le département statue également sur les 
 
 <sup>1</sup> Après clôture de la procédure d’approbation des plans, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^58-2].[^58-3]
 
-<sup>2</sup> ...[^58-4]
+<sup>2</sup> …[^58-4]
 
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’autorisation est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
@@ -875,7 +875,7 @@ Lorsqu’il accorde l’autorisation, le département statue également sur les 
 
 <sup>3</sup> La personne qui subit une atteinte au droit de propriété doit adresser ses prétentions en dédommagement par écrit au détenteur du dépôt dans les cinq ans qui suivent la mention définitive au registre foncier (art. 40, al. 3). Si les prétentions sont entièrement ou partiellement contestées, la procédure est régie par la LEx[^59-1].[^59-2]
 
-<sup>4</sup> ...[^59-3]
+<sup>4</sup> …[^59-3]
 
 <sup>5</sup> Le dédommagement porte un intérêt à compter du moment où l’atteinte au droit de propriété prend effet.
 
@@ -1456,7 +1456,12 @@ Au surplus, la confiscation au sens des art. 97 et 98 est régie par les art. 69
 
 **Entraide administrative en Suisse**
 
-Les services fédéraux compétents ainsi que les organes de police des cantons et des communes peuvent se transmettre et faire connaître aux autorités de surveillance les informations nécessaires à l’exécution de la présente loi.
+<sup>1</sup> Les services fédéraux compétents ainsi que les organes de police des cantons et des communes peuvent se transmettre et faire connaître aux autorités de surveillance les informations nécessaires à l’exécution de la présente loi.
+
+<sup>2</sup> Si l’IFSN reçoit un signalement concernant une cyberattaque lancée contre une installation nucléaire, elle transmet ce signalement à l’Office fédéral de la cybersécurité si les conditions visées à l’art. 74*d* de la loi du 18 décembre 2020 sur la sécurité de l’information[^102-1] sont remplies.[^102-2]
+
+[^102-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^102-2]: Introduit par le ch. II 3 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 103
 

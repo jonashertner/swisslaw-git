@@ -4,11 +4,11 @@ title: Kernenergiegesetz vom 21. März 2003 (KEG)
 short: KEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: de
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/de"
 
 (KEG)
 
-vom 21. März 2003 (Stand am 1. Januar 2024)
+vom 21. März 2003 (Stand am 1. April 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1456,7 +1456,12 @@ Im Übrigen sind für die Einziehung nach den Artikeln 97 und 98 die Artikel 69�
 
 **Amtshilfe in der Schweiz**
 
-Die zuständigen Bundesstellen sowie die Polizeiorgane der Kantone und Gemeinden können einander und den Aufsichtsbehörden Daten bekannt geben, soweit dies für den Vollzug dieses Gesetzes notwendig ist.
+<sup>1</sup> Die zuständigen Bundesstellen sowie die Polizeiorgane der Kantone und Gemeinden können einander und den Aufsichtsbehörden Daten bekannt geben, soweit dies für den Vollzug dieses Gesetzes notwendig ist.
+
+<sup>2</sup> Erhält das ENSI eine Meldung zu einem Cyberangriff auf eine Kernanlage, so leitet es diese Meldung dem Bundesamt für Cybersicherheit weiter, sofern der Cyberangriff die Voraussetzungen von Artikel 74*d* des Informationssicherheitsgesetzes vom 18. Dezember 2020[^102-1] erfüllt.[^102-2]
+
+[^102-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^102-2]: Eingefügt durch Ziff. II 3 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 103
 

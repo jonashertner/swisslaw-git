@@ -4,11 +4,11 @@ title: Nuclear Energy Act of 21 March 2003 (NEA)
 short: NEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: en
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20250401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20250401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEA)
 
-of 21 March 2003 (Status as of 1 January 2024)
+of 21 March 2003 (Status as of 1 April 2025)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -1458,7 +1458,12 @@ Seizure of goods and assets under Articles 697 and 98 above shall also be subjec
 
 **Administrative assistance in Switzerland**
 
-The relevant federal authorities and cantonal and communal police may exchange data among themselves and with the supervisory authorities, insofar as this is necessary for the enforcement of this Act.
+<sup>1</sup> The relevant federal authorities and cantonal and communal police may exchange data among themselves and with the supervisory authorities, insofar as this is necessary for the enforcement of this Act.
+
+<sup>2</sup> If ENSI receives a report of a cyberattack on a nuclear installation, it shall forward the report to the National Cyber Security Centre, provided the cyberattack meets the requirements set out in Article 74*d* of the Information Security Act of 18 December 2020[^102-1].[^102-2]
+
+[^102-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^102-2]: Inserted by No II 3 of the FA of 29 Sept. 2023 (Introduction of a Reporting Obligation for Cyberattacks on Critical Infrastructure), in force since 1 April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 103
 

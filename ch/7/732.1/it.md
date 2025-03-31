@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'energia nucleare (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: it
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20250401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20240101/it"
 
 (LENu)
 
-del 21 marzo 2003 (Stato 1° gennaio 2024)
+del 21 marzo 2003 (Stato 1° aprile 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -186,7 +186,7 @@ La licenza è rilasciata se:
 
 <sup>2</sup> Il Consiglio federale può prevedere eccezioni a scopi di ricerca.
 
-[^9-1]: Nuovo testo giusta l’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-1]: Nuovo testo giusta l’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 10
 
@@ -218,7 +218,7 @@ I materiali nucleari contenenti plutonio non possono essere trasportati all’in
 
 <sup>3</sup> Gli impianti nucleari con esiguo potenziale di pericolo non abbisognano di un’autorizzazione di massima. Il Consiglio federale designa tali impianti.
 
-[^12-1]: Nuovo testo giusta l’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^12-1]: Nuovo testo giusta l’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 12a
 
@@ -226,7 +226,7 @@ I materiali nucleari contenenti plutonio non possono essere trasportati all’in
 
 Non sono rilasciate autorizzazioni di massima per la costruzione di centrali nucleari.
 
-[^12a-1]: Introdotto dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^12a-1]: Introdotto dall’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 13
 
@@ -423,7 +423,7 @@ A questo scopo deve segnatamente:
 
 <sup>4</sup> Il Consiglio federale stabilisce chi è sottoposto al controllo e disciplina la procedura di esame. Designa il servizio competente per eseguire la procedura di esame, elaborare i dati, nonché costituire la raccolta di dati.
 
-[^24-1]: Nuovo testo giusta l’all. 1 n. II 57 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^24-1]: Nuovo testo giusta l’all. 1 cifra II n. 57 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 25
 
@@ -1046,7 +1046,7 @@ La Commissione, organo consultivo dell’Ispettorato federale della sicurezza nu
 <sup>3</sup> La Commissione può, a destinazione del Consiglio federale e del Dipartimento, esprimere il proprio parere in merito a perizie dell’Ispettorato federale della sicurezza nucleare. Si pronuncia anche sulle questioni che il Consiglio federale, il Dipartimento o l’Ufficio federale le sottopongono per parere.
 
 [^71-1]: Nuovo testo giusta l’art. 25 n. 2 della LF del 22 giu. 2007 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2008 ([RU 2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775); [FF 2006 8115](https://fedlex.data.admin.ch/eli/fga/2006/1133)).
-[^71-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019 (Aumento del numero di membri della Commissione per la sicurezza degli impianti nucleari), in vigore dal 1° gen. 2020 ([RU 2019 4211](https://fedlex.data.admin.ch/eli/oc/2019/723)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019 (Aumento del numero di membri della Commissione per la sicurezza degli impianti nucleari), in vigore dal 1° gen. 2020 ([RU 2019 4211](https://fedlex.data.admin.ch/eli/oc/2019/723)).
 
 #### Art. 72
 
@@ -1064,7 +1064,7 @@ La Commissione, organo consultivo dell’Ispettorato federale della sicurezza nu
 
 <sup>6</sup> Le autorità di vigilanza tengono una contabilità dei materiali nucleari e delle scorie radioattive negli impianti nucleari in Svizzera. La contabilità comprende anche materiali nucleari e scorie radioattive all’estero, per quanto siano in possesso di titolari di licenza svizzeri. La contabilità informa sul luogo e sullo scopo dell’utilizzazione, della lavorazione e dell’immagazzinamento.
 
-[^72-1]: Nuovo testo giusta il n. I 26 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^72-1]: Nuovo testo giusta la cifra I n. 26 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 73
 
@@ -1090,7 +1090,7 @@ La Commissione, organo consultivo dell’Ispettorato federale della sicurezza nu
 
 Il Consiglio federale riferisce periodicamente all’Assemblea federale sugli sviluppi della tecnologia nucleare.
 
-[^74a-1]: Introdotto dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^74a-1]: Introdotto dall’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 75
 
@@ -1270,9 +1270,9 @@ Chiunque intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva fino a tre anni o una pena pecuniaria.[^88-3]
 
-[^88-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^88-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^88-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-1]: Nuovo testo della comminatoria giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-2]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-3]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 89
 
@@ -1293,10 +1293,10 @@ Chiunque intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^89-4]
 
-[^89-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-1]: Nuovo testo della comminatoria giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^89-2]: Nuovo testo giusta l’all. n. 13 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^89-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^89-4]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-3]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-4]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 90
 
@@ -1317,10 +1317,10 @@ Chiunque intenzionalmente:
 
 <sup>4</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 100 000 franchi.[^90-4]
 
-[^90-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^90-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^90-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^90-4]: Introdotto dal n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-1]: Nuovo testo della comminatoria giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-2]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-3]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-4]: Introdotto dalla cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 91
 
@@ -1335,8 +1335,8 @@ Chiunque intenzionalmente:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^91-2]
 
-[^91-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^91-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-1]: Nuovo testo della comminatoria giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-2]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 92
 
@@ -1346,7 +1346,7 @@ Chiunque intenzionalmente:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
 
-[^92-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^92-1]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 93
 
@@ -1364,8 +1364,8 @@ Chiunque intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 40 000 franchi.[^93-2]
 
-[^93-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^93-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-1]: Nuovo testo della comminatoria giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-2]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 94
 
@@ -1389,7 +1389,7 @@ Alle infrazioni secondo la presente legge è applicabile l’articolo 6 della le
 
 Il procedimento penale per le contravvenzioni si prescrive in cinque anni.
 
-[^96-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^96-1]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 97
 
@@ -1415,7 +1415,7 @@ I valori patrimoniali confiscati e i risarcimenti equivalenti sono devoluti alla
 
 Del rimanente, alla confisca secondo gli articoli 97 e 98 sono applicabili gli artico-li 69–72 del Codice penale[^99-2].
 
-[^99-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^99-1]: Nuovo testo giusta la cifra I n. 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^99-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 100
@@ -1449,13 +1449,18 @@ Del rimanente, alla confisca secondo gli articoli 97 e 98 sono applicabili gli a
 <sup>6</sup> Nell’ambito delle sue competenze, l’autorità esecutiva può consultare terzi per l’esecuzione della presente legge, segnatamente per l’attuazione di esami e controlli.
 
 [^101-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^101-2]: Nuovo testo giusta l’all. n. II 10 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^101-2]: Nuovo testo giusta l’all. cifra II n. 10 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 102
 
 **Assistenza amministrativa in Svizzera**
 
-I servizi federali competenti, nonché gli organi di polizia dei Cantoni e dei Comuni possono comunicarsi dati vicendevolmente e comunicarne alle autorità di vigilanza per quanto necessario all’esecuzione della presente legge.
+<sup>1</sup> I servizi federali competenti, nonché gli organi di polizia dei Cantoni e dei Comuni possono comunicarsi dati vicendevolmente e comunicarne alle autorità di vigilanza per quanto necessario all’esecuzione della presente legge.
+
+<sup>2</sup> L’Ispettorato federale della sicurezza nucleare inoltra all’Ufficio federale della cibersicurezza le notifiche riguardanti un ciberattacco effettuato contro un impianto nucleare e adempienti le condizioni di cui all’articolo 74*d* della legge del 18 dicembre 2020[^102-1] sulla sicurezza delle informazioni.[^102-2]
+
+[^102-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^102-2]: Introdotto dalla cifra II n. 3 della LF del 29 set. 2023 sulla sicurezza (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche, in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168),; [173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
 
 #### Art. 103
 
@@ -1517,8 +1522,8 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 <sup>4</sup> …[^106-2]
 
-[^106-1]: Introdotto dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^106-2]: Abrogato dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, con effetto dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^106-1]: Introdotto dall’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^106-2]: Abrogato dall’all. cifra II n. 7 della LF del 30 set. 2016 sull’energia, con effetto dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 107
 
@@ -1554,6 +1559,6 @@ Le seguenti leggi federali sono modificate come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 1960 571](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)art. 48 n. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)art. 17 n. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)all. n. 4. [RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. I 1].
+[^annexu1-lvlu1-1]: [[RU 1960 571](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)art. 48 n. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)art. 17 n. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)all. n. 4. [RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra I n. 1].
 [^annexu1-lvlu1-2]: [[RU 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816), [2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57)]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723).
