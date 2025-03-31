@@ -4,13 +4,12 @@ number: "126.31"
 title: Verordnung über das Personalrecht
 short: Personalrechtsverordnung; PRV
 language: de
-version: 2023-07-01
-valid_until: 2025-03-31
-version_adopted: 2023-05-02
+version: 2025-04-01
+version_adopted: 2025-01-27
 adopted: 2007-06-25
 in_force: 2007-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.31"
-pdf: "https://bgs.so.ch/api/de/versions/5383/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5383/pdf_file"
 
 (Personalrechtsverordnung; PRV)
 
-Vom 25.06.2007 (Stand 01.07.2023)
+Vom 25.06.2007 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -47,6 +46,12 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung gilt mit Ausnahme von § 15 nicht für die Pensionskasse Kanton Solothurn.
 
+#### § 1ter
+
+**Geltungsbereich Solothurnische Gebäudeversicherung**
+
+<sup>1</sup> Soweit diese Verordnung für die Solothurnische Gebäudeversicherung besondere Bestimmungen enthält, gehen diese den für die selbständigen Anstalten geltenden Regelungen vor.
+
 #### § 2
 
 **Einreihung und Einstufung in Verwaltung, Anstalten und kantonalen Schulen**
@@ -54,6 +59,14 @@ beschliesst:
 <sup>1</sup> Für die Einreihung in Verwaltung, selbständigen Anstalten und kantonalen Schulen sowie für die Einstufung ist das Personalamt zuständig, soweit die Lohnklassen 1-23 betroffen sind; das Personalamt handelt auf Vorschlag der Dienststelle. Bei Differenzen entscheidet der Regierungsrat.
 
 <sup>2</sup> Für die Einreihung und die Einstufung ab der Lohnklasse 24 ist der Regierungsrat zuständig.
+
+#### § 2bis
+
+**Einreihung und Einstufung bei der Solothurnischen Gebäudeversicherung**
+
+<sup>1</sup> Für die Einreihung bei der Solothurnischen Gebäudeversicherung ist das Personalamt zuständig, es handelt auf Vorschlag der Solothurnischen Gebäudeversicherung. Bei Differenzen entscheidet der Regierungsrat.
+
+<sup>2</sup> Für die Einstufung ist die Solothurnische Gebäudeversicherung zuständig.
 
 #### § 3
 
@@ -105,11 +118,12 @@ beschliesst:
 
 - a) das Personalamt für:
   - 1\. die vom Kantonsrat zu wählenden Beamten oder Beamtinnen sowie die Angestellten der kantonalen Verwaltung und der unselbständigen Anstalten;
-  - 2\. den Geschäftsleiter oder die Geschäftsleiterin der Ausgleichskasse des Kantons Solothurn und der Invalidenversicherungs-Stelle des Kantons Solothurn sowie für den Direktor oder die Direktorin der Solothurnischen Gebäudeversicherung und der Kantonalen Pensionskasse Solothurn;
+  - 2\. den Geschäftsleiter oder die Geschäftsleiterin der Ausgleichskasse des Kantons Solothurn und der Invalidenversicherungs-Stelle des Kantons Solothurn sowie für den Direktor oder die Direktorin der Kantonalen Pensionskasse Solothurn;
   - 3\. den Direktor oder die Direktorin der land- und hauswirtschaftlichen Schule Wallierhof;
   - 4\. die Angehörigen des Polizeikorps;
   - 5\. die Lehrpersonen an den kantonalen Schulen;
 - b) die Gerichtsverwaltungskommission für die Arbeitnehmenden der Gerichte;
+- b<sup>bis</sup>) der Verwaltungsrat der Solothurnischen Gebäudeversicherung für den Vorsitzenden oder die Vorsitzende der Geschäftsleitung der Solothurnischen Gebäudeversicherung;
 - c) die Solothurner Spitäler AG für die Arbeitnehmenden der Spitäler;
 - d) die Ausgleichskasse des Kantons Solothurn, die Invalidenversicherungs-Stelle des Kantons Solothurn, die Solothurnische Gebäudeversicherung und die Kantonale Pensionskasse Solothurn für die ihnen unterstellten Arbeitnehmenden;
 - e) die haus- und landwirtschaftliche Schule Wallierhof für die Landwirtschaftslehrpersonen, die Hausangestellten und das Personal des Gutsbetriebes;
@@ -171,6 +185,8 @@ beschliesst:
 
 <sup>4</sup> Die Solothurner Spitäler AG stellt die Arbeitnehmenden der Spitäler an.
 
+<sup>4<sup>bis</sup></sup> Die Solothurnische Gebäudeversicherung stellt die Arbeitnehmenden der Solothurnischen Gebäudeversicherung an.
+
 <sup>5</sup> Die land- und hauswirtschaftliche Schule Wallierhof stellt die Hausangestellten und das Personal des Gutsbetriebes an.
 
 <sup>6</sup> Für die Lehrpersonen der Volksschule gilt die Spezialgesetzgebung.
@@ -203,7 +219,7 @@ beschliesst:
 
 <sup>1</sup> Das Finanzdepartement nimmt namens des Kantons zu vermögensrechtlichen Ansprüchen aus Beamten- oder Anstellungsrecht Stellung. Es vertritt den Kanton vor Gericht.
 
-<sup>2</sup> Die Solothurner Spitäler AG nimmt selbst Stellung und tritt selber vor Gericht auf, wenn die Verfügung über den vermögensrechtlichen Anspruch nicht dem Regierungsrat zusteht.
+<sup>2</sup> Die Solothurner Spitäler AG und die Solothurnische Gebäudeversicherung nehmen selbst Stellung und treten selbst vor Gericht auf, wenn die Verfügung über den vermögensrechtlichen Anspruch nicht dem Regierungsrat zusteht.
 
 <sup>3</sup> Die Gemeinden nehmen zu vermögensrechtlichen Ansprüchen der Volksschullehrpersonen Stellung und treten selber vor Gericht auf, wenn die Verfügung über den vermögensrechtlichen Anspruch nicht dem Regierungsrat zusteht.
 
@@ -213,7 +229,7 @@ beschliesst:
 
 <sup>1</sup> Zur Gewährleistung der einheitlichen Anwendung der personalrechtlichen Bestimmungen hat das Personalamt gegenüber den dezentralen Anstellungsbehörden und den Ämtern ein Aufsichts- und Weisungsrecht.
 
-<sup>2</sup> Das Personalamt hört die Solothurner Spitäler AG vor dem Erlass von Weisungen an.
+<sup>2</sup> Das Personalamt hört die Solothurner Spitäler AG und die Solothurnische Gebäudeversicherung vor dem Erlass von Weisungen an.
 
 ### 3.2. Verwaltung und kantonale Anstalten
 
@@ -324,6 +340,38 @@ beschliesst:
 <sup>1</sup> Die Befugnis des Personalamtes, Weisungen über den wesentlichen Inhalt des Anstellungsvertrages (§ 38 Abs. 3 GAV) zu erlassen, gilt auch gegenüber der Solothurner Spitäler AG.
 
 <sup>2</sup> Das Personalamt hört die Solothurner Spitäler AG vor dem Erlass solcher Weisungen an.
+
+### 3.4. Solothurnische Gebäudeversicherung
+
+#### § 25bis
+
+**Vollzug des Personalrechts**
+
+<sup>1</sup> Der Solothurnischen Gebäudeversicherung stehen beim Vollzug des Personalrechts alle Befugnisse zu, welche die Personalgesetzgebung der Anstellungsbehörde zuweist. Sie hat insbesondere folgende Kompetenzen:
+
+- a) Festsetzung des Anfangslohns (§ 131 GAV[^25bis-1].);
+- b) Einstufung in eine Einstiegsklasse (§ 132 GAV);
+- c) Verweigerung des Erfahrungszuschlags (§ 133 Abs. 2 GAV);
+- d) Feststellung des Anspruchs auf bezahlten Urlaub als Treueprämie (§ 168 GAV);
+- e) Feststellung und Kürzung des Anspruchs auf ein Dienstaltersgeschenk (§ 171 GAV);
+- f) Abschluss von Rückzahlungsvereinbarungen (§ 197 GAV);
+- g) Anstellung von Praktikanten (§ 325 GAV);
+- h) Beendigung des Anstellungsverhältnisses im gegenseitigen Einvernehmen (§ 47 Abs. 1 GAV);
+- i) die fristlose Auflösung des Anstellungsverhältnisses aus wichtigen Gründen (§ 28 Abs. 4 Bst. b) StPG;[^25bis-2].);
+- j) die Verlängerung des Anstellungsverhältnisses nach Ablauf des ordentlichen Rücktrittsalters (§ 49 Abs. 2 GAV);
+- k) den Entscheid über die Höhe des Leistungsbonus bei Differenzen zwischen Vorgesetzten und Arbeitnehmenden (§ 139 Abs. 4 GAV);
+- l) den Entscheid über einen zusätzlichen Lohnnachgenuss (§ 49 Abs. 2 StPG);
+- m) den Entscheid über den Rechtsbeistand (§ 207 Abs. 3 GAV);
+- n) die ausnahmsweise Erhöhung des Grundlohnes um höchstens 20 Prozent (§ 240 Bst. b GAV);
+- o) die Ermächtigung zur Aussage vor Gericht (§ 39 Abs. 4 StPG);
+- p) den Entscheid über die Bewilligung von unbezahltem Urlaub (§ 122 Abs. 3 GAV);
+- q) Entgegennahme der Meldungen von öffentlichen Ämtern und Nebenbeschäftigungen sowie Entscheid über die Zulassung (§§ 63 und 65 GAV);
+- r) Erlass von Weisungen über Inhalt und Form der Stellenbeschreibung sowie über das Stelleninserat.
+
+<sup>2</sup> Die Solothurnische Gebäudeversicherung regelt die internen Zuständigkeiten in einem Reglement.
+
+[^25bis-1]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
+[^25bis-2]: BGS [126.1](https://bgs.so.ch/data/126.1/de).
 
 ## 4. Vermögensrechtliche Bestimmungen
 
