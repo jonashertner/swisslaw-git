@@ -4,13 +4,12 @@ number: "831.11"
 title: Vollzugsverordnung zum kantonalen Waldgesetz
 short: "Kantonale Waldverordnung, kWaV"
 language: de
-version: 2023-09-01
-valid_until: 2025-03-31
-version_adopted: 2023-05-16
+version: 2025-04-01
+version_adopted: 2025-03-18
 adopted: 1999-05-25
 in_force: 1999-06-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/831.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1150/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1374/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1150/pdf_file"
 
 (Kantonale Waldverordnung, kWaV)
 
-vom 25.05.1999 (Stand 01.09.2023)
+vom 25.05.1999 (Stand 01.04.2025)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 17, 22, 28, 47 und 54 des Einführungsgesetzes vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 12, 15, 17, 22, 28, 44, 47 und 54 des Einführungsgesetzes vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz)[^ingress-1],
 
 beschliesst:
 
@@ -37,11 +36,26 @@ beschliesst:
 
 **Begrenzung des Waldareals**
 
-<sup>1</sup> Das Waldareal wird begrenzt durch einen Waldsaum von zwei Meter Breite ab der Stockgrenze. Für die Waldabstandsvorschriften richtet sich die Messweise nach der Planungs- und Baugesetzgebung[^1-1].
+<sup>1</sup> Das Waldareal wird begrenzt durch einen Waldsaum von zwei Meter Breite ab der Stockgrenze.
 
 <sup>2</sup> Besteht innerhalb des Waldsaums eine andere eindeutige Abgrenzung wie eine Mauer, Strasse oder Eigentumsgrenze, gilt diese als Begrenzung des Waldareals.
 
-[^1-1]: NG 611.1
+### 1.1a Veranstaltungen
+
+#### § 1a
+
+**Erhebliche Beanspruchung**
+
+<sup>1</sup> Eine erhebliche Beanspruchung des Waldes im Sinne von Art. 12 des kWaG[^1a-1] liegt insbesondere vor:
+
+- 1\. bei Veranstaltungen mit mehr als 200 Beteiligten als Aktive oder als Publikum;
+- 2\. bei einer zeitlichen Dauer von mehreren Tagen oder wiederkehrenden Anlässen am gleichen Ort;
+- 3\. bei einer intensiven Benutzung des Waldes, wenn technische Hilfsmittel wie Licht- oder Verstärkeranlagen eingesetzt werden;
+- 4\. bei Veranstaltungen in der Nacht zwischen 22 und 6 Uhr.
+
+<sup>2</sup> Für wiederkehrende Anlässe mit der gleichen Beanspruchung des Waldes kann eine dauerhafte Bewilligung erteilt werden. Diese kann widerrufen werden.
+
+[^1a-1]: NG 831.1
 
 ### 1.2 Motorfahrzeugverkehr auf Waldstrassen
 
@@ -49,7 +63,7 @@ beschliesst:
 
 **Gesetzliche Ausnahmen vom Fahrverbot**
 
-<sup>1</sup> Der Motorfahrzeugverkehr ist auf Waldstrassen unter Vorbehalt der gesetzlichen Ausnahmen untersagt.
+<sup>1</sup> …
 
 <sup>2</sup> Gestützt auf Art. 15 des kantonalen Waldgesetzes sowie die Bundesgesetzgebung[^2-1] können insbesondere folgende Personen berechtigt sein, eine Waldstrasse mit Motorfahrzeugen zu befahren, soweit dies die gesetzlichen Zwecke erfordern:
 
@@ -59,7 +73,7 @@ beschliesst:
 - 4\. Angehörige der Polizei und der Wildhut;
 - 5\. Angehörige der Armee im Rahmen militärischer Übungen;
 - 6\. Personen für den Unterhalt von Leitungsnetzen der Anbieterinnen und Anbieter von Fernmeldediensten;
-- 7\. Personen, die Kontroll- und Unterhaltsarbeiten an Gewässern sowie an Versorgungs- und Entsorgungsanlagen ausführen;
+- 7\. Personen, die Kontroll- und Unterhaltsarbeiten an Gewässern, Versorgungs- und Entsorgungsanlagen oder Bahnanlagen ausführen;
 - 8\. Personen und ihre engsten Familienangehörigen, die einen Land- oder Alpwirtschaftsbetrieb im Erschliessungsgebiet der Strasse führen einschliesslich für Fahrten für den Bau und Unterhalt von Bauten und Anlagen durch Drittpersonen;
 - 9\. Eigentümerinnen und Eigentümer von Vieh, die ihre Tiere auf einer Alp im Erschliessungsgebiet der Strasse sömmern;
 - 10\. Führerinnen und Führer von Fahrzeugen zum Holz- beziehungsweise Viehtransport;
@@ -90,9 +104,9 @@ beschliesst:
 
 #### § 4
 
-**2. durch das Amt für Wald und Naturgefahren**
+**2. durch das Amt**
 
-<sup>1</sup> Das Amt für Wald und Naturgefahren kann aus wichtigen Gründen im Einzelfall sowie für bewilligte Veranstaltungen Ausnahmebewilligungen erteilen.
+<sup>1</sup> Das Amt kann aus wichtigen Gründen im Einzelfall sowie für bewilligte Veranstaltungen Ausnahmebewilligungen erteilen.
 
 #### § 5
 
@@ -102,7 +116,7 @@ beschliesst:
 
 <sup>2</sup> Von der Ausweispflicht ausgenommen sind Personen gemäss § 2 Abs. 2 Ziffer 3–5.
 
-<sup>3</sup> Die Ausweise werden von der jeweiligen Strasseneigentümerschaft oder dem Amt für Wald und Naturgefahren abgegeben.
+<sup>3</sup> Die Ausweise werden von der jeweiligen Strasseneigentümerschaft oder dem Amt abgegeben.
 
 <sup>4</sup> Der Ausweis enthält folgende Angaben:
 
@@ -120,19 +134,11 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung ist zeitlich zu befristen und mit der Auflage zu verbinden, nach Ablauf der Bewilligung den ursprünglichen Zustand des Waldes wiederherzustellen.
 
-<sup>3</sup> Das Amt für Wald und Naturgefahren kann mit der Bewilligung die Hinterlegung einer Kaution zur Deckung der Kosten für die Wiederherstellung des ursprünglichen Zustandes verfügen.
+<sup>3</sup> Das Amt kann mit der Bewilligung die Hinterlegung einer Kaution zur Deckung der Kosten für die Wiederherstellung des ursprünglichen Zustandes verfügen.
 
 #### § 7
 
 **Entschädigung**
-
-<sup>1</sup> Die Parteien können eine Entschädigung für die Erstellung des Sportpfades vereinbaren.
-
-<sup>2</sup> Die Entschädigung richtet sich insbesondere nach folgenden Bemessungskriterien:
-
-- 1\. Ertragsverlust auf der benutzten Fläche;
-- 2\. vorzeitigen Abtrieb von Bäumen;
-- 3\. Mehraufwand für Unterhaltsarbeiten.
 
 ### 1.4 Bauten und Anlagen im Wald
 
@@ -140,11 +146,9 @@ beschliesst:
 
 **Forstliche Bauten und Anlagen**
 
-<sup>1</sup> Vor der Erteilung einer Baubewilligungen für forstliche Bauten oder Anlagen im Wald gestützt auf Art. 22 des Raumplanungsgesetzes[^8-1] ist das Amt anzuhören.
+<sup>1</sup> Vor der Erteilung einer Baubewilligung für forstliche Bauten oder Anlagen im Wald ist eine Stellungnahme des Amtes einzuholen.
 
-<sup>2</sup> Der Bau einer Forsthütte ist in der Regel zu befürworten, wenn die Gesuchstellerin beziehungsweise der Gesuchsteller mindestens fünf Hektaren Wald besitzt und ein forstwirtschaftliches Bedürfnis nachgewiesen werden kann; beim Entscheid sind die bestehende Erschliessung des betreffenden Waldes sowie die Entfernung desselben vom Wohnsitz der Waldeigentümerin beziehungsweise des Waldeigentümers zu berücksichtigen.
-
-[^8-1]: SR 700
+<sup>2</sup> Für den Bau einer Forsthütte wird vorausgesetzt, dass die Gesuchstellerin beziehungsweise der Gesuchsteller mindestens fünf Hektaren Wald besitzt und ein forstwirtschaftliches Bedürfnis nachgewiesen werden kann. Beim Entscheid sind die bestehende Erschliessung des betreffenden Waldes sowie die Entfernung desselben vom Wohnsitz der Waldeigentümerin beziehungsweise des Waldeigentümers zu berücksichtigen.
 
 #### § 9
 
@@ -154,9 +158,7 @@ beschliesst:
 
 <sup>2</sup> Nichtforstliche Kleinbauten und ‑anlagen können bewilligt werden, wenn sie auf einen Standort im Wald angewiesen sind und die Waldfunktion nur unwesentlich beeinträchtigt wird.
 
-<sup>3</sup> Ausnahmebewilligungen gemäss Art. 24 RPG[^9-1] dürfen nur erteilt werden, wenn die Zustimmung der Landwirtschafts- und Umweltdirektion vorliegt.
-
-[^9-1]: SR 700
+<sup>3</sup> …
 
 ## 2 Schutz vor Naturereignissen
 
@@ -174,20 +176,21 @@ beschliesst:
 
 **2. Aufgaben**
 
-<sup>1</sup> Die Fachkommission Naturgefahren erarbeitet die Grundlagen zur Gefahrenbeurteilung gemäss Art. 23 des kantonalen Waldgesetzes und formuliert die kantonalen Schutzziele in Bezug auf die Naturgefahren.
+<sup>1</sup> Die Fachkommission Naturgefahren erarbeitet die Gefahrenbeurteilung gemäss Art. 23 des kantonalen Waldgesetzes[^11-1] und formuliert die kantonalen Schutzziele in Bezug auf die Naturgefahren.
 
 <sup>2</sup> Im Weiteren hat sie insbesondere folgende Aufgaben:
 
 - 1\. den Regierungsrat in allen Fragen im Zusammenhang mit den Naturgefahren zu beraten;
 - 2\. die Gemeinden, Anlagebetreiberinnen und ‑betreiber sowie Dritte bei der Vorbereitung und Durchführung von Schutzmassnahmen zu beraten;
-- 3\. die Gemeinden und Dritte bei der Erarbeitung von Gefahrengrundlagen zu begleiten;
-- 4\. die Koordinationspflicht gemäss Art. 17 Abs. 3 der eidgenössischen Waldverordnung[^11-1] wahrzunehmen;
+- 3\. die Gemeinden und Dritte bei der Erarbeitung der Gefahrenbeurteilung zu begleiten;
+- 4\. die Koordinationspflicht gemäss Art. 17 Abs. 3 der eidgenössischen Waldverordnung[^11-2] wahrzunehmen;
 - 5\. die Umsetzung der Gefahrengrundlagen in die Nutzungsplanung der Gemeinden zu überwachen;
 - 6\. Auflagen und Bedingungen für Baugesuche in Gefahrengebieten zu beurteilen und zu formulieren;
 - 7\. die Überprüfung der Gefahrensituation nach grösseren Naturereignissen oder abgeschlossenen Verbauungen zu veranlassen und die notwendigen Änderungen der Gefahrengrundlagen zu beantragen;
 - 8\. nach Bedarf die Bevölkerung und Behörden über Naturereignisse und die erforderlichen Massnahmen zu informieren.
 
-[^11-1]: SR 921.01
+[^11-1]: NG 831.1
+[^11-2]: SR 921.01
 
 #### § 12
 
@@ -195,7 +198,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachkommission unterbreitet die von ihr erarbeiteten Grundlagen für die Gefahrenbeurteilung dem jeweiligen Gemeinderat zur Stellungnahme.
 
-<sup>2</sup> Sie unterbreitet die bereinigten Grundlagen für die Gefahrenbeurteilung der zuständigen Direktion zuhanden des Regierungsrates zur Genehmigung.
+<sup>2</sup> …
 
 ## 3 Pflege und Nutzung des Waldes
 
@@ -220,13 +223,13 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Amt für Wald und Naturgefahren erarbeitet unter Beizug der betroffenen kantonalen Fachstellen einen Planentwurf. Es kann weitere interessierte Kreise zur Mitarbeit einladen.
+<sup>1</sup> Das Amt erarbeitet unter Beizug der betroffenen kantonalen Fachstellen einen Planentwurf. Es kann weitere interessierte Kreise zur Mitarbeit einladen.
 
-<sup>2</sup> Der Planentwurf ist in den Gemeinden und beim Amt für Wald und Naturgefahren während 60 Tagen öffentlich aufzulegen. Die Auflage ist vorgängig unter Hinweis auf Abs. 3 im Amtsblatt zu veröffentlichen.
+<sup>2</sup> Der Planentwurf ist in den Gemeinden und beim Amt während 60 Tagen öffentlich aufzulegen. Die Auflage ist vorgängig unter Hinweis auf Abs. 3 im Amtsblatt zu veröffentlichen.
 
-<sup>3</sup> Während der Auflagefrist können alle, insbesondere die Waldeigentümerinnen und Waldeigentümer sowie die Gemeinden beim Amt für Wald und Naturgefahren Stellung nehmen und Vorschläge einreichen.
+<sup>3</sup> Während der Auflagefrist können alle, insbesondere die Waldeigentümerinnen und Waldeigentümer sowie die Gemeinden, beim Amt Stellung nehmen und Vorschläge einreichen.
 
-<sup>4</sup> Die zuständige Direktion unterbreitet den bereinigten Entwurf dem Regierungsrat zur Beschlussfassung.
+<sup>4</sup> …
 
 #### § 15
 
@@ -290,23 +293,40 @@ beschliesst:
 
 **Bewilligung für Holzschläge**
 
-<sup>1</sup> Die Gesuche für die Bewilligung von Holzschlägen sind beim Amt für Wald und Naturgefahren unter Angabe der zu schlagenden Menge und des betroffenen Waldgebietes einzureichen.
+<sup>1</sup> Die Gesuche für Holzschläge sind beim Amt unter Angabe der zu schlagenden Menge und des betroffenen Waldgebietes einzureichen.
 
 <sup>2</sup> Die Revierförsterin oder der Revierförster zeichnet im betroffenen Waldgebiet die zu schlagenden Bäume bis zur gewünschten Holzmenge an, sofern der Eingriff den Zielen des Waldentwicklungsplanes entspricht.
 
-<sup>3</sup> Auf Grund der Anzeichnung wird die Bewilligung erteilt und die tatsächliche Menge festgelegt.
+<sup>3</sup> Das Amt legt die zulässige Holzschlagmenge aufgrund der Anzeichnung in einer Bewilligung fest.
 
 ## 4 Organisation
 
+#### § 20a
+
+**Amt**
+
+<sup>1</sup> Das Amt ist für alle Aufgaben gemäss der Waldgesetzgebung zuständig, sofern diese nicht einer anderen Instanz übertragen sind.
+
 #### § 21
 
-**Waldreviere**
+**Waldreviere 1. Einteilung**
 
 <sup>1</sup> Das Kantonsgebiet wird in folgende drei Waldreviere eingeteilt:
 
 - 1\. 1. Revier: Gemeinden Buochs, Oberdorf westlich des Aawassers, Dallenwil, Stans, Ennetmoos und Hergiswil
 - 2\. 2. Revier: Gemeinden Emmetten, Beckenried, Oberdorf östlich des Aawassers und Ennetbürgen(einschliesslich Buochser und Beckenrieder Korporationswaldungen an der Nas)
 - 3\. 3. Revier: Gemeinden Stansstad und Wolfenschiessen
+
+#### § 21a
+
+**2. Revierförsterinnen und -förster**
+
+<sup>1</sup> Die Hauptaufgaben der Revierförsterinnen und -förster sind:
+
+- 1\. das Anzeichnen der Holzschläge;
+- 2\. die Koordination der überbetrieblichen Zusammenarbeit;
+- 3\. die unmittelbare forstpolizeiliche Aufsicht;
+- 4\. die Beratung der Waldeigentümerinnen und Waldeigentümer.
 
 ## 5 Schlussbestimmung
 
