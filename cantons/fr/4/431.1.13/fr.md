@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.13"
-title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2024/25"
+title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2025/26"
 language: fr
-version: 2024-03-05
-valid_until: 2025-03-31
-version_adopted: 2024-03-05
+version: 2025-04-01
+valid_until: 2026-03-09
+version_adopted: 2025-04-01
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7986/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8168/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2024/25
+# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2025/26
 
 Université, Bachelor of Medicine (BMed) – O
 
-du 05.03.2024 (version entrée en vigueur le 05.03.2024)
+du 01.04.2025 (version entrée en vigueur le 01.04.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,11 +26,13 @@ Vu la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
-Le 22 février 2024, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, Tessin et Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine, dentaire, vétérinaire et chiropraxie.
+Le 28 février 2025, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, Tessin et Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine et dentaire.
 
 Procéder au test d'aptitudes à Fribourg assure aux étudiants et étudiantes la possibilité de poursuivre leurs études dans une autre université, étant donné qu'une grande partie d'entre eux continuent leurs études dans l'une des universités alémaniques qui ont introduit le test d'aptitudes.
 
-Le Rectorat de l'Université de Fribourg, en sa séance du 5 février 2024, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
+Les changements d'universités ou de cursus sont, depuis l'année académique 2025/26, limités aux personnes ayant obtenu un master en médecine dentaire, vétérinaire ou chiropratique.
+
+Le Rectorat de l'Université de Fribourg, en sa séance du 13 janvier 2025, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
 
 Sur la proposition de la Direction de la formation et des affaires culturelles,
 
@@ -46,7 +48,7 @@ Arrête:
 
 **Capacité d'accueil**
 
-<sup>1</sup> Pour l'année académique 2024/25, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
+<sup>1</sup> Pour l'année académique 2025/26, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
 
 #### Art. 3
 
@@ -56,7 +58,7 @@ Arrête:
 
 #### Art. 4
 
-**Test d'aptitudes**
+**Aptitudes aux études – Test d'aptitudes**
 
 <sup>1</sup> Toute personne qui s'est inscrite aux études de médecine humaine doit se soumettre à un test qui a pour but de déterminer ses aptitudes à entreprendre de telles études.
 
@@ -72,13 +74,13 @@ Arrête:
 
 <sup>1</sup> Les candidats et candidates doivent s'acquitter d'une participation de 300 francs aux frais liés au déroulement du test d'aptitudes.
 
-<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 21 mai 2024 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
+<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 20 mai 2025 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
 
 #### Art. 7
 
 **Date du test d'aptitudes**
 
-<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2024/25 est fixé au 5 juillet 2024.
+<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2025/26 est fixé au 4 juillet 2025.
 
 #### Art. 8
 
@@ -94,15 +96,13 @@ Arrête:
 
 #### Art. 9
 
-**Attribution des places et des lieux d'études**
+**Attribution des places d'études**
 
-<sup>1</sup> swissuniversities attribue les places d'études sur la base des résultats du test d'aptitudes.
+<sup>1</sup> Les candidats et candidates sont admis aux études de médecine sur la base d'un test d'aptitudes (art. 4).
 
-<sup>2</sup> Elle répartit les candidats et candidates ayant obtenu un résultat suffisant au test d'aptitudes entre les universités qui appliquent la procédure du test d'aptitudes. Lors de l'attribution, les capacités d'accueil des universités sont prises en compte.
+<sup>2</sup> L'attribution des places d'études est effectuée par swissuniversities, conformément à son règlement du 25 octobre 2023 relatif à l'attribution des places d'études.
 
-<sup>3</sup> Lors de l'attribution des lieux d'études, swissuniversities tient compte, dans la mesure du possible, des souhaits des candidats et candidates en prenant en considération le domicile, le résultat du test d'aptitudes ainsi que, dans des cas exceptionnels, la situation personnelle du candidat ou de la candidate.
-
-<sup>4</sup> Demeurent réservées les conditions d'admission de l'Université de Fribourg.
+<sup>3</sup> Demeurent réservées les conditions d'admission de l'Université de Fribourg.
 
 #### Art. 10
 
@@ -134,13 +134,7 @@ Arrête:
 
 **Changement d'université, changement de voie d'études**
 
-<sup>1</sup> Les étudiants et étudiantes en médecine humaine d'autres universités qui ont été admis aux études sur la base du test d'aptitudes peuvent être admis dès la deuxième année dans la voie d'études de médecine humaine, dans la mesure où ils satisfont aux autres conditions d'admission et où des places d'études sont disponibles.
-
-<sup>2</sup> Les étudiants et étudiantes qui désirent quitter la médecine dentaire pour la médecine humaine peuvent être admis dès la deuxième année d'études, à condition que les résultats obtenus au test d'aptitudes aient donné droit à l'admission en médecine humaine au moment où ils ont passé le test. De surcroît, les autres conditions d'admission doivent être satisfaites et des places d'études doivent être disponibles.
-
-<sup>3</sup> Les étudiants et étudiantes qui, après des études de master réussies en médecine dentaire ou vétérinaire ou en chiropratique (MMed), souhaitent effectuer des études en médecine humaine peuvent être admis, dans la mesure où ils satisfont aux autres conditions d'admission et où des places d'études sont disponibles.
-
-<sup>4</sup> Les étudiants et étudiantes d'autres universités qui ont été admis aux études de médecine humaine sans passer le test d'aptitudes ainsi que ceux et celles qui sont issus d'autres branches d'études peuvent être admis aux études de médecine humaine, à condition qu'ils aient suivi la procédure fixée aux articles 4 et 5 de la présente ordonnance. De surcroît, les autres conditions d'admission doivent être satisfaites et des places d'études doivent être disponibles.
+<sup>1</sup> Les étudiants et étudiantes qui, après des études de master réussies en médecine dentaire ou vétérinaire ou en chiropratique (MMed), souhaitent effectuer des études en médecine humaine peuvent être admis, dans la mesure où ils satisfont aux autres conditions d'admission et où des places d'études sont disponibles.
 
 #### Art. 14
 
@@ -156,4 +150,4 @@ Arrête:
 
 <sup>2</sup> Les décisions du Rectorat peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2024\_022
+2025\_015
