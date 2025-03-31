@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2024-07-01
+version: 2025-04-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240701-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20250401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° luglio 2024)
+del 5 ottobre 2007 (Stato 1° aprile 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 123 capoverso 1 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)
 
 ## Titolo primo: Campo d’applicazione e principi
@@ -120,7 +120,7 @@ Salvo che vi si oppongano interessi preponderanti dell’accusatore privato, il 
 
 <sup>4</sup> Nei casi di cui ai capoversi precedenti, il pubblico ministero e il giudice decidono il non luogo a procedere o l’abbandono del procedimento.
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -241,7 +241,7 @@ La Confederazione e i Cantoni possono prevedere quale tribunale di primo grado u
 - b.[^19-1] i crimini e i delitti, eccettuati quelli per i quali il pubblico ministero chiede una pena detentiva superiore a due anni, l’internamento secondo l’articolo 64 CP[^19-2], un trattamento secondo l’articolo 59 CP o, nei casi in cui si debba contemporaneamente revocare la sospensione condizionale di una sanzione, una privazione della libertà superiore a due anni.
 
 [^19-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 20
 
@@ -305,7 +305,7 @@ Sottostanno alla giurisdizione federale i seguenti reati previsti nel CP[^23-1]:
 
 <sup>2</sup> Sono fatte salve le disposizioni concernenti la competenza del Tribunale penale federale previste in leggi federali speciali.
 
-[^23-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^23-2]: Nuovo testo giusta l’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-3]: Nuovo testo giusta l’all. cifra II n. 1 della L del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2018 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-4]: Correzione della Commissione di redazione dell’AF del 20 dic. 2013, pubblicata il 21 gen. 2014 ([RU 2014 243](https://fedlex.data.admin.ch/eli/oc/2014/38)).
@@ -333,7 +333,7 @@ In caso di crimini di cui ai titoli secondo e undecimo CP, il pubblico ministero
 <sup>3</sup> L’apertura di un’istruzione secondo il capoverso 2 determina la competenza giurisdizionale federale.
 
 [^24-1]: Nuovo testo giusta l’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^24-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^24-3]: Nuovo testo giusta l’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
@@ -445,7 +445,7 @@ Per motivi sostanziali, il pubblico ministero e il giudice possono disgiungere o
 
 <sup>3</sup> Se non è dato alcun foro secondo i capoversi 1 e 2, sono competenti le autorità del luogo in cui l’opera è stata diffusa. Se la diffusione è avvenuta in più luoghi, sono competenti le autorità del luogo in cui sono stati compiuti i primi atti di perseguimento.
 
-[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
@@ -457,7 +457,7 @@ Per motivi sostanziali, il pubblico ministero e il giudice possono disgiungere o
 
 <sup>3</sup> Se non è dato alcun foro secondo i capoversi 1 e 2, il foro si determina secondo gli articoli 31–35.
 
-[^36-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^36-2]: Nuovo testo giusta la cifra I n. 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
@@ -864,7 +864,7 @@ La Confederazione e i Cantoni possono disciplinare l’ammissione, i diritti e g
 
 <sup>2</sup> Se lo scopo del procedimento o un interesse privato lo richiede, chi dirige il procedimento può, richiamato l’articolo 292 CP[^73-1], obbligare l’accusatore privato, altri partecipanti al procedimento e i loro patrocinatori a serbare il segreto sul procedimento medesimo e sulle persone coinvolte. Tale obbligo va limitato nel tempo.
 
-[^73-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^73-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 74
 
@@ -1060,7 +1060,7 @@ Il tribunale di primo grado notifica successivamente alle parti una sentenza mot
 <sup>4</sup> Nella procedura di ricorso, il giudice può rimandare alla motivazione della giurisdizione inferiore per quanto concerne l’apprezzamento di fatto e di diritto dei fatti contestati all’imputato.
 
 [^82-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^82-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1125,7 +1125,7 @@ Il Consiglio federale disciplina:
 - d. il momento in cui la comunicazione è considerata notificata.
 
 [^86-1]: Nuovo testo giusta l’all. cifra II n. 7 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^86-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^86-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 87
 
@@ -1256,11 +1256,11 @@ Sono fatti salvi:
 - c. le disposizioni della legge federale del 7 ottobre 1994[^96-6] sugli Uffici centrali di polizia giudiziaria della Confederazione.[^96-7]
 
 [^96-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^96-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^96-2]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^96-3]: Introdotta dalla cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^96-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^96-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^96-6]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^96-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^96-5]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^96-6]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^96-7]: Nuovo testo giusta l’all. 2 cifra I n. 1 lett. a della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 1° gen. 2011 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
@@ -1289,8 +1289,8 @@ Fintanto che il procedimento è pendente, le parti e gli altri partecipanti al p
 
 <sup>3</sup> Sono fatte salve le disposizioni della legge federale del 7 ottobre 1994[^99-1] sugli Uffici centrali di polizia giudiziaria della Confederazione e della legge federale del 13 giugno 2008[^99-2] sui sistemi d’informazione di polizia della Confederazione, nonché quelle del presente Codice relative ai documenti segnaletici e ai profili di DNA.[^99-3]
 
-[^99-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^99-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^99-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^99-2]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^99-3]: Nuovo testo giusta l’all. 2 cifra I n. 1 lett. a della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 1° gen. 2011 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ### Sezione 9: Gestione, esame e conservazione degli atti
@@ -1447,7 +1447,7 @@ Se la trasmissione avviene per via elettronica, le memorie e le istanze devono r
 
 <sup>4</sup> Chi dirige il procedimento può respingere memorie e istanze illeggibili, incomprensibili, sconvenienti o eccessivamente prolisse; impartisce un termine per rielaborarle, avvertendo che altrimenti non saranno prese in considerazione.
 
-[^110-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^110-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^110-2]: Nuovo testo giusta l’all. cifra II n. 7 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)
 
 ### Capitolo 2: L’imputato
@@ -1581,7 +1581,7 @@ Nella dichiarazione il danneggiato può, cumulativamente o alternativamente:
 
 <sup>2</sup> Chi subentra per legge nei diritti del danneggiato è legittimato ad agire soltanto civilmente e dispone unicamente dei diritti processuali che concernono direttamente l’attuazione dell’azione civile.
 
-[^121-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^121-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 4: Azione civile
 
@@ -1681,7 +1681,7 @@ L’azione civile è rinviata al foro civile se:
 
 <sup>5</sup> La difesa dell’imputato è riservata agli avvocati autorizzati a rappresentare le parti in giudizio secondo la legge del 23 giugno 2000[^127-1] sugli avvocati; sono fatte salve le disposizioni derogatorie cantonali concernenti la difesa nella procedura penale in materia di contravvenzioni.
 
-[^127-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^127-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 ### Sezione 2: Il difensore
 
@@ -2175,7 +2175,7 @@ Il pubblico ministero interroga l’imputato sulla sua situazione personale solt
 
 <sup>3</sup> L’obbligo può essere intimato unitamente alla citazione del testimone.
 
-[^165-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^165-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 166
 
@@ -2221,9 +2221,9 @@ La facoltà di non deporre non sussiste se:
 - b. il reato è stato commesso a danno di una persona con cui il testimone ha un legame personale a tenore dei capoversi 1–3.
 
 [^168-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 dic. 2017 (Protezione dei minorenni), in vigore dal 1° gen. 2019 ([RU 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 2751](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^168-2]: Art. 4–11 dell’O del 19 ott. 1977 sull’accoglimento di minori a scopo di affiliazione e di adozione ([RS 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)).
+[^168-2]: Art. 4–11 dell’O del 19 ott. 1977 sull’accoglimento di minori a scopo di affiliazione e di adozione ([RS 211.222.338](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5743)).
 [^168-3]: Nuovo testo giusta la cifra III della LF del 30 set. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 4941](https://fedlex.data.admin.ch/eli/fga/2010/992)[4967](https://fedlex.data.admin.ch/eli/fga/2010/994)).
-[^168-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^168-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 169
 
@@ -2257,7 +2257,7 @@ Essi sono tenuti a deporre se:
 
 <sup>3</sup> L’autorità superiore rilascia l’autorizzazione a deporre quando l’interesse all’accertamento della verità prevale su quello al mantenimento del segreto.
 
-[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^170-2]: Nuovo testo giusta l’all. 1 n. 8 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^170-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
@@ -2279,8 +2279,8 @@ Essi sono tenuti a deporre se:
 <sup>4</sup> Rimane salva la legge del 23 giugno 2000[^171-3] sugli avvocati.
 
 [^171-1]: Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
-[^171-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^171-3]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^171-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^171-3]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 172
 
@@ -2302,10 +2302,10 @@ Esse sono tenute a deporre se:
   - 3\.[^172-2] reati secondo gli articoli 187, 189, 190, 191, 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
   - 4\.[^172-3] reati ai sensi dell’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^172-4] sugli stupefacenti (LStup).
 
-[^172-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^172-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^172-2]: Nuovo testo giusta l’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^172-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^172-4]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 173
 
@@ -2324,13 +2324,13 @@ Chi è vincolato dal segreto professionale in virtù delle disposizioni qui appr
 
 <sup>2</sup> I depositari di altri segreti protetti dalla legge sono tenuti a deporre. Chi dirige il procedimento può liberarli dall’obbligo di deporre se essi possono rendere verosimile che l’interesse al mantenimento del segreto prevale su quello all’accertamento della verità.
 
-[^173-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^173-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233). Questo art. è ora abrogato.
-[^173-3]: [RS 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
+[^173-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^173-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703). Questo art. è ora abrogato.
+[^173-3]: [RS 857.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10375)
 [^173-4]: Nuovo testo giusta l’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^173-5]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^173-5]: [RS 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 [^173-6]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^173-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^173-7]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^173-8]: Introdotta dall’all. n. 2 della LF del 30 set. 2016 sulle professioni sanitarie ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Abrogata dall’all. n. 1 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, con effetto dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 174
@@ -2364,7 +2364,7 @@ In merito all’opponibilità della facoltà di non deporre decide:
 
 <sup>2</sup> Se persiste nel rifiuto, egli è esortato ancora una volta a deporre sotto la comminatoria di cui all’articolo 292 CP[^176-1]. In caso di nuovo rifiuto, si procede penalmente nei suoi confronti.
 
-[^176-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^176-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 3: Interrogatorio dei testimoni
 
@@ -2376,7 +2376,7 @@ In merito all’opponibilità della facoltà di non deporre decide:
 
 <sup>3</sup> Non appena, in base all’interrogatorio e agli atti, rileva l’esistenza di un diritto di non deporre, l’autorità interrogante ne avvisa il testimone. Se l’avviso è omesso e se il testimone oppone in seguito la facoltà di non deporre, l’interrogatorio non può essere utilizzato.
 
-[^177-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^177-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Capitolo 4: Persone informate sui fatti
 
@@ -2463,7 +2463,7 @@ Chi dirige il procedimento assegna al perito un mandato scritto; il mandato cont
 
 <sup>7</sup> Se l’accusatore privato chiede una perizia, chi dirige il procedimento può subordinare l’assegnazione del mandato al versamento di un anticipo delle spese da parte del richiedente.
 
-[^184-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^184-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 185
 
@@ -3100,7 +3100,7 @@ Se l’imputato incarcerato è assolto e se il tribunale di primo grado ne dispo
 
 <sup>3</sup> Se l’appello è ritirato, il tribunale di primo grado decide sul computo della durata della carcerazione dopo la sentenza.
 
-[^231-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^231-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^231-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 232
@@ -3220,7 +3220,7 @@ La cauzione è svincolata quando:
 
 <sup>4</sup> La cauzione devoluta è utilizzata in applicazione analogica dell’articolo 73 CP[^240-1] a copertura delle pretese dei danneggiati e, se vi è un’eccedenza, a copertura delle pene pecuniarie, delle multe e delle spese procedurali. Un’eventuale ulteriore eccedenza è devoluta alla Confederazione o al Cantone.
 
-[^240-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^240-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Capitolo 4: Perquisizioni e ispezioni
 
@@ -3379,7 +3379,7 @@ L’imputato può essere sottoposto a ispezione corporale per:
 
 <sup>4</sup> Le persone non imputate possono essere sottoposte contro il loro volere a ispezioni corporali e a interventi nella loro integrità fisica soltanto se indispensabile per far luce su uno dei reati di cui agli articoli 111–113, 122, 124, 140, 184, 185, 187, 189, 190 o 191 CP[^251-1].[^251-2]
 
-[^251-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^251-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^251-2]: Nuovo testo giusta la cifra III della LF del 30 set. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 4941](https://fedlex.data.admin.ch/eli/fga/2010/992)[4967](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 
 #### Art. 251a
@@ -3454,7 +3454,7 @@ La polizia può disporre:
 
 [^255-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^255-2]: Introdotto dalla cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^255-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-3]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^255-4]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 256
@@ -3488,8 +3488,8 @@ I prelievi invasivi di campioni sono effettuati da un medico o da altro personal
 Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2, 122, 124, 140, 156 numeri 2–4, 182, 184, 185, 187, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 260<sup>ter</sup> o 264–264*l* CP[^258a-2], può essere disposta una ricerca di legami di parentela ai sensi dell’articolo 2*a* della legge del 20 giugno 2003[^258a-3] sui profili del DNA se le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
 [^258a-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^258a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^258a-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^258a-3]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 
 ### Sezione 2: Fenotipizzazione
 
@@ -3504,8 +3504,8 @@ Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2,
 Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2, 122, 124, 140, 156 numeri 2–4, 182, 184, 185, 187, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 260<sup>ter</sup> o 264–264*l* CP[^258b-2], può essere disposta una fenotipizzazione ai sensi dell’articolo 2*b* della legge del 20 giugno 2003[^258b-3] sui profili del DNA.
 
 [^258b-1]: Introdotto dall’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^258b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^258b-3]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^258b-3]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 
 #### Art. 259
 
@@ -3513,7 +3513,7 @@ Per far luce su uno dei crimini di cui agli articoli 111–113, 118 capoverso 2,
 
 Per altro è applicabile la legge del 20 giugno 2003[^259-1] sui profili del DNA.
 
-[^259-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^259-1]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 
 ### Capitolo 6: Rilevamenti segnaletici, campioni grafologici e vocali
 
@@ -3545,7 +3545,7 @@ I documenti segnaletici concernenti l’imputato possono essere conservati fuori
 <sup>3</sup> I documenti segnaletici devono essere distrutti se l’interesse alla loro conservazione e al loro impiego è manifestamente venuto meno prima dello scadere dei termini di cui al capoverso 1.
 
 [^261-1]: Nuovo testo giusta l’all. 1 n. 5 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^261-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-2]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^261-3]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
@@ -3577,7 +3577,7 @@ All’imputato e a terzi possono essere sequestrati oggetti e valori patrimonial
 <sup>3</sup> Se vi è pericolo nel ritardo, la polizia o privati possono mettere provvisoriamente al sicuro oggetti e valori patrimoniali, a disposizione del pubblico ministero o del giudice.
 
 [^263-1]: Introdotta dalla cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^263-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^263-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 264
 
@@ -3598,7 +3598,7 @@ Non possono essere sequestrati, indipendentemente dal luogo in cui si trovano e 
 
 [^264-1]: Nuovo testo giusta la cifra I n. 6 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-2]: Introdotta dalla cifra I n. 6 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
-[^264-3]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^264-3]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^264-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 265
@@ -3624,7 +3624,7 @@ Non sottostanno all’obbligo di consegna:
 
 <sup>4</sup> Provvedimenti coercitivi sono ammissibili soltanto se l’obbligo di consegna è disatteso o se vi è motivo di ritenere che l’ingiunzione di consegna ne vanificherebbe lo scopo.
 
-[^265-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^265-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 266
 
@@ -3643,7 +3643,7 @@ Non sottostanno all’obbligo di consegna:
 <sup>6</sup> Il Consiglio federale disciplina le modalità di collocamento dei valori patrimoniali sequestrati.
 
 [^266-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^266-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^266-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 267
 
@@ -3676,7 +3676,7 @@ Il patrimonio dell’imputato può essere sequestrato nella misura presumibilmen
 
 <sup>3</sup> Sono esclusi dal sequestro i valori patrimoniali non pignorabili ai sensi degli articoli 92–94 della legge federale dell’11 aprile 1889[^268-1] sulla esecuzione e sul fallimento.
 
-[^268-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^268-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Capitolo 8: Misure di sorveglianza segrete
 
@@ -3704,43 +3704,44 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 - d.[^269-7] legge federale del 13 dicembre 1996[^269-8] sul materiale bellico: articoli 33 capoverso 2 e 34–35*b*;
 - e. legge federale del 21 marzo 2003[^269-9] sull’energia nucleare: articoli 88 capoversi 1 e 2, 89 capoversi 1 e 2 e 90 capoverso 1;
 - f.[^269-10] LStup[^269-11]: articoli 19 capoverso 2 e 20 capoverso 2;
-- g. legge del 7 ottobre 1983[^269-12] sulla protezione dell’ambiente: articolo 60 capoverso 1 lettere g–i, nonché m ed o;
-- h. legge del 13 dicembre 1996[^269-13] sul controllo dei beni a duplice impiego: articolo 14 capoverso 2;
-- i.[^269-14] legge del 17 giugno 2011[^269-15] sulla promozione dello sport: articoli 22 capoverso 2 e 25*a* capoverso 3;
-- j.[^269-16] legge del 19 giugno 2015[^269-17] sull’infrastruttura finanziaria: articoli 154 e 155;
-- k.[^269-18] legge del 20 giugno 1997[^269-19] sulle armi: articolo 33 capoverso 3;
-- l.[^269-20] legge del 15 dicembre 2000[^269-21] sugli agenti terapeutici: articolo 86 capoversi 2 e 3;
-- m.[^269-22] legge federale del 29 settembre 2017[^269-23] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a;
-- n.[^269-24] legge federale del 25 settembre 2015[^269-25] sulle attività informative: articolo 74 capoverso 4.
+- g.[^269-12] legge del 7 ottobre 1983[^269-13] sulla protezione dell’ambiente: articolo 60 capoversi 1 lettere g–i, m e o, nonché 1<sup>bis</sup>;
+- h. legge del 13 dicembre 1996[^269-14] sul controllo dei beni a duplice impiego: articolo 14 capoverso 2;
+- i.[^269-15] legge del 17 giugno 2011[^269-16] sulla promozione dello sport: articoli 22 capoverso 2 e 25*a* capoverso 3;
+- j.[^269-17] legge del 19 giugno 2015[^269-18] sull’infrastruttura finanziaria: articoli 154 e 155;
+- k.[^269-19] legge del 20 giugno 1997[^269-20] sulle armi: articolo 33 capoverso 3;
+- l.[^269-21] legge del 15 dicembre 2000[^269-22] sugli agenti terapeutici: articolo 86 capoversi 2 e 3;
+- m.[^269-23] legge federale del 29 settembre 2017[^269-24] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a;
+- n.[^269-25] legge federale del 25 settembre 2015[^269-26] sulle attività informative: articolo 74 capoverso 4.
 
-<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-26].
+<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-27].
 
 [^269-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^269-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^269-3]: Nuovo testo giusta l’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^269-6]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^269-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^269-6]: [RS 211.221.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5738)
 [^269-7]: Nuovo testo giusta la cifra II della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-8]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-9]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-8]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^269-9]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^269-10]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^269-11]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-12]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-13]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-14]: Introdotto dall’art. 34 n. 2 della L del 17 giu. 2011 sulla promozione dello sport ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nuovo testo giusta l’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-15]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-16]: Introdotta dalla cifra II n. 4 della LF del 28 set. 2012 ([RU 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [FF 2011 6109](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nuovo testo giusta l’all. n. 4 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-17]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-18]: Introdotta dall’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-19]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-20]: Introdotta dall’all. n. 1 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-21]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-22]: Introdotta dall’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-23]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: Introdotta dall’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^269-25]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^269-26]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-11]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^269-12]: Nuovo testo giusta la cifra II della LF del 27 set. 2024, in vigore dal 1° apr 2025 (RU **20****25** 178; FF **20****23** 239).
+[^269-13]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^269-14]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^269-15]: Introdotto dall’art. 34 n. 2 della L del 17 giu. 2011 sulla promozione dello sport ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nuovo testo giusta l’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-16]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^269-17]: Introdotta dalla cifra II n. 4 della LF del 28 set. 2012 ([RU 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [FF 2011 6109](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nuovo testo giusta l’all. n. 4 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-18]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^269-19]: Introdotta dall’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-20]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^269-21]: Introdotta dall’all. n. 1 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-22]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^269-23]: Introdotta dall’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-24]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^269-25]: Introdotta dall’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-26]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^269-27]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3859,7 +3860,7 @@ Se sussiste il grave sospetto che sia stato commesso un crimine o un delitto e s
 
 [^273-1]: Nuovo testo giusta l’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^273-2]: Nuovo testo giusta l’all. 2 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^273-3]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^273-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 274
@@ -3886,7 +3887,7 @@ L’approvazione menziona espressamente:
 
 <sup>5</sup> Il giudice dei provvedimenti coercitivi accorda l’approvazione per tre mesi al massimo. L’approvazione può essere prorogata di volta in volta per un periodo di tre mesi al massimo. Se è necessaria una proroga, il pubblico ministero presenta una domanda motivata prima della scadenza della durata autorizzata.
 
-[^274-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^274-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^274-2]: Nuovo testo giusta l’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^274-3]: Nuovo testo giusta l’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
@@ -3935,7 +3936,7 @@ Il pubblico ministero pone fine senza indugio alla sorveglianza se:
 
 <sup>5</sup> Per la ricerca di una persona possono essere utilizzate tutte le informazioni ottenute mediante la sorveglianza.
 
-[^278-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^278-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^278-2]: Introdotto dall’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta l’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^278-3]: Nuovo testo giusta l’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -4091,27 +4092,27 @@ L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^286-22].
 
 [^286-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^286-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^286-3]: Nuovo testo giusta l’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^286-5]: [RS 211.221.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5738)
 [^286-6]: Nuovo testo giusta la cifra II della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-7]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^286-8]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^286-9]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^286-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-10]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^286-11]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^286-12]: Introdotto dall’art. 34 n. 2 della L del 17 giu. 2011 sulla promozione dello sport ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nuovo testo giusta l’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^286-14]: Introdotta dall’all. cifra II n. 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^286-16]: Introdotta dall’all. n. 1 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^286-18]: Introdotta dall’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^286-20]: Introdotta dall’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-21]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-22]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-21]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^286-22]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 287
 
@@ -4218,8 +4219,8 @@ L’agente infiltrato che agisce nell’ambito di un’inchiesta mascherata appr
 - b. nel perseguire i reati contro la LStup[^294-3]: secondo gli articoli 19 e 20–22 LStup.
 
 [^294-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^294-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^294-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^294-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^294-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 295
 
@@ -4578,7 +4579,7 @@ Il pubblico ministero può sospendere l’istruzione in particolare se:
 
 <sup>4</sup> Se l’imputato non compare all’udienza di conciliazione di cui al capoverso 1 o 2 oppure l’udienza ha esito negativo, il pubblico ministero apre senza indugio l’istruzione. In casi motivati può obbligare il querelante a prestare entro dieci giorni una cauzione per le spese e le indennità.
 
-[^316-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^316-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 4: Chiusura dell’istruzione
 
@@ -5011,7 +5012,7 @@ Chiusa la procedura probatoria, le parti espongono e motivano le loro proposte. 
 
 <sup>2</sup> Le parti hanno diritto a una seconda arringa.
 
-[^346-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^346-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 347
 
@@ -5079,7 +5080,7 @@ Se nell’ambito della procedura preliminare i fatti sono stati ammessi dall’i
 <sup>3</sup> Le pene di cui al capoverso 1 lettere b–d possono essere cumulate sempre che non risulti una pena detentiva complessiva superiore a sei mesi. Il cumulo con la multa è sempre possibile.
 
 [^352-1]: Abrogata dall’all. n. 3 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), con effetto dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^352-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^352-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^352-3]: Nuovo testo giusta l’all. n. 5 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 352a
@@ -5437,7 +5438,7 @@ La procedura contumaciale può essere svolta soltanto se:
 
 <sup>3</sup> L’istanza di apertura di una procedura indipendente va presentata al pubblico ministero del luogo in cui la minaccia è stata proferita o in cui è stata espressa l’intenzione di recidiva.
 
-[^372-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^372-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 373
 
@@ -5453,7 +5454,7 @@ La procedura contumaciale può essere svolta soltanto se:
 
 <sup>5</sup> Se una persona costituisce una minaccia di pericolo immediato, il pubblico ministero può disporne la carcerazione provvisoria o adottare altre misure protettive. Il pubblico ministero la deferisce senza indugio al competente giudice dei provvedimenti coercitivi; questi decide sulla carcerazione.
 
-[^373-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^373-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 2: Procedura applicabile agli imputati penalmente incapaci
 
@@ -5474,7 +5475,7 @@ In considerazione dello stato di salute dell’imputato o ai fini della protezio
 
 <sup>4</sup> Per altro, sono applicabili le disposizioni concernenti la procedura dibattimentale di primo grado.
 
-[^374-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^374-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^374-2]: Nuovo testo giusta l’all. n. 1 della LF del 13 dic. 2013 sull’interdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 #### Art. 375
@@ -5564,7 +5565,7 @@ Le autorità federali sono legittimate a interporre ricorso contro le decisioni 
 
 <sup>3</sup> Alla morte dell’imputato, del condannato o dell’accusatore privato, i congiunti giusta l’articolo 110 capoverso 1 CP[^382-1] sono legittimati, nell’ordine di successibilità, a interporre ricorso o a continuare la procedura di ricorso già avviata dal defunto, purché siano lesi nei loro interessi giuridicamente protetti.
 
-[^382-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^382-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 383
 
@@ -5923,7 +5924,7 @@ Con il consenso delle parti, chi dirige il procedimento può inoltre ordinare un
 
 <sup>4</sup> Il seguito della procedura è retto dall’articolo 390 capoversi 2–4.
 
-[^406-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^406-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 407
 
@@ -5989,7 +5990,7 @@ La revisione per violazione della Convenzione europea del 4 novembre 1950[^410-1
 
 <sup>4</sup> La revisione limitata alle pretese civili è ammissibile soltanto se la legge di procedura civile del foro consente la revisione in materia civile.
 
-[^410-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^410-2]: Nuovo testo giusta l’all. n. 3 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
@@ -6127,7 +6128,7 @@ Sono ritenute disborsi in particolare le spese per:
 
 <sup>1</sup> Le spese procedurali sono sostenute dalla Confederazione o dal Cantone che ha condotto il procedimento; sono fatte salve disposizioni derogatorie del presente Codice.
 
-<sup>2</sup> e <sup>3</sup> …[^423-1]
+<sup>2 e <sup>3</sup></sup> …[^423-1]
 
 [^423-1]: Abrogati dall’all. cifra II n. 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, con effetto dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -6363,7 +6364,7 @@ Le pene detentive e misure privative della libertà pronunciate con decisione pa
 
 <sup>4</sup> Per attuare l’ordine d’esecuzione, l’autorità d’esecuzione può far arrestare il condannato, far diramare un mandato di ricerca nei suoi confronti o chiederne l’estradizione.
 
-[^439-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^439-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 440
 
@@ -6410,7 +6411,7 @@ Entro cinque giorni dall’incarcerazione, l’autorità d’esecuzione sottopon
 
 <sup>4</sup> Le autorità penali possono compensare le loro pretese per spese procedurali con le pretese d’indennizzo della parte tenuta al pagamento relative al medesimo procedimento penale, nonché con valori patrimoniali sequestrati.
 
-[^442-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^442-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 443
 
@@ -6418,7 +6419,7 @@ Entro cinque giorni dall’incarcerazione, l’autorità d’esecuzione sottopon
 
 Nella misura in cui concernono pretese civili, le sentenze sono eseguite conformemente alla procedura civile vigente nel luogo dell’esecuzione e alla legge federale dell’11 aprile 1889[^443-1] sull’esecuzione e sul fallimento.
 
-[^443-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^443-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 444
 
@@ -6587,7 +6588,7 @@ Allegato 2
 
 …
 
-[^annex2-lvlu1-lvl1-2]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^annex2-lvlu1-lvl1-2]: [RS 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 
 ### 2. Coordinamento del n. 9 dell’allegato 1 CPP con la nuova LAV
 
@@ -6600,329 +6601,3 @@ Allegato 2
 …
 
 [^annex2-lvlu1-lvl3-1]: RS **322.0**
-
-## Indice
-
-Titolo primo: Campo d’applicazione e principi
-
-Capitolo 1: Campo d’applicazione e amministrazione della giustizia penale
-
-Capitolo 2: Principi del diritto processuale penale
-
-Titolo secondo: Autorità penali
-
-Capitolo 1: Attribuzioni
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Autorità di perseguimento penale
-
-Sezione 3: Autorità giudicanti
-
-Capitolo 2: Competenza per materia
-
-Sezione 1: Delimitazione delle competenze tra Confederazione e Cantoni
-
-Sezione 2: Competenza in caso di concorso di reati
-
-Capitolo 3: Foro
-
-Sezione 1: Principi
-
-Sezione 2: Fori speciali
-
-Sezione 3: Procedura
-
-Capitolo 4: Assistenza giudiziaria nazionale
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Atti procedurali eseguiti su domanda della Confederazione o di un altro Cantone
-
-Sezione 3: Atti procedurali in un altro Cantone
-
-Capitolo 5: Assistenza giudiziaria internazionale
-
-Capitolo 6: Ricusazione
-
-Capitolo 7: Direzione del procedimento
-
-Capitolo 8: Norme procedurali generali
-
-Sezione 1: Oralità, lingua
-
-Sezione 2: Pubblicità
-
-Sezione 3: Segreto, informazione del pubblico, comunicazioni ad autorità
-
-Sezione 4: Verbali
-
-Sezione 5: Decisioni
-
-Sezione 6: Comunicazione delle decisioni e notificazione
-
-Sezione 7: Termini e date d’udienza
-
-Sezione 8: Trattamento di dati
-
-Sezione 9: Gestione, esame e conservazione degli atti
-
-Titolo terzo: Parti e altri partecipanti al procedimento
-
-Capitolo 1: Disposizioni generali
-
-Sezione 1: Definizione e statuto
-
-Sezione 2: Atti procedurali compiuti dalle parti
-
-Capitolo 2: L’imputato
-
-Capitolo 3: Il danneggiato, la vittima e l’accusatore privato
-
-Sezione 1: Il danneggiato
-
-Art. 115
-
-Sezione 2: La vittima
-
-Sezione 3: L’accusatore privato
-
-Sezione 4: Azione civile
-
-Capitolo 4: Patrocinio
-
-Sezione 1: Principi
-
-Art. 127
-
-Sezione 2: Il difensore
-
-Sezione 3: Gratuito patrocinio per l’accusatore privato e la vittima
-
-Titolo quarto: Mezzi di prova
-
-Capitolo 1: Disposizioni generali
-
-Sezione 1: Raccolta e utilizzabilità delle prove
-
-Sezione 2: Interrogatori
-
-Sezione 3: Diritto di partecipare all’assunzione delle prove
-
-Sezione 4: Misure protettive
-
-Capitolo 2: Interrogatorio dell’imputato
-
-Capitolo 3: Testimoni
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Facoltà di non deporre
-
-Sezione 3: Interrogatorio dei testimoni
-
-Art. 177
-
-Capitolo 4: Persone informate sui fatti
-
-Capitolo 5: Periti
-
-Capitolo 6: Mezzi di prova materiali
-
-Titolo quinto: Provvedimenti coercitivi
-
-Capitolo 1: Disposizioni generali
-
-Capitolo 2: Citazione, accompagnamento coattivo e ricerca di persone
-
-Sezione 1: Citazione
-
-Sezione 2: Accompagnamento coattivo
-
-Sezione 3: Ricerche
-
-Capitolo 3: Privazione della libertà, carcerazione preventiva e di sicurezza
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Fermo di polizia e inseguimento
-
-Sezione 3: Arresto provvisorio
-
-Sezione 4: Carcerazione preventiva e carcerazione di sicurezza: disposizioni generali
-
-Sezione 5: Carcerazione preventiva
-
-Sezione 6: Carcerazione di sicurezza
-
-Sezione 7: Esecuzione della carcerazione preventiva e di sicurezza
-
-Sezione 8: Misure sostitutive
-
-Capitolo 4: Perquisizioni e ispezioni
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Perquisizione domiciliare
-
-Sezione 3: Perquisizione di carte e registrazioni
-
-Sezione 4: Perquisizione di persone e oggetti
-
-Sezione 5: Ispezioni corporali
-
-Sezione 6: Ispezione di cadaveri
-
-Capitolo 5: Analisi del DNA
-
-Sezione 1: Profilo del DNA
-
-Sezione 2: Fenotipizzazione
-
-Capitolo 6: Rilevamenti segnaletici, campioni grafologici e vocali
-
-Capitolo 7: Sequestro
-
-Capitolo 8: Misure di sorveglianza segrete
-
-Sezione 1: Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
-
-Sezione 2: Sorveglianza mediante apparecchi tecnici di sorveglianza
-
-Sezione 3: Osservazione di persone e cose
-
-Sezione 4: Sorveglianza delle relazioni bancarie
-
-Sezione 5: Inchiesta mascherata
-
-Sezione 5*a*: Indagine in incognito
-
-Titolo sesto: Procedura preliminare
-
-Capitolo 1: Disposizioni generali
-
-Capitolo 2: Procedura investigativa della polizia
-
-Capitolo 3: Istruzione da parte del pubblico ministero
-
-Sezione 1: Compiti del pubblico ministero
-
-Sezione 2: Svolgimento dell’istruzione
-
-Sezione 3: Conciliazione
-
-Art. 316
-
-Sezione 4: Chiusura dell’istruzione
-
-Capitolo 4: Abbandono del procedimento e promozione dell’accusa
-
-Sezione 1: Abbandono del procedimento
-
-Sezione 2: Promozione dell’accusa
-
-Titolo settimo: Procedura dibattimentale di primo grado
-
-Capitolo 1: Pendenza della causa, preparazione del dibattimento e disposizioni generali sul dibattimento
-
-Capitolo 2: Svolgimento del dibattimento
-
-Sezione 1: Autorità giudicante e partecipanti al procedimento
-
-Sezione 2: Inizio del dibattimento
-
-Sezione 3: Procedura probatoria
-
-Sezione 4: Discussione e chiusura del contraddittorio
-
-Sezione 5: Sentenza
-
-Titolo ottavo: Procedure speciali
-
-Capitolo 1: Procedura del decreto d’accusa, procedura penale in materia di contravvenzioni
-
-Sezione 1: Procedura del decreto d’accusa
-
-Sezione 2: Procedura penale in materia di contravvenzioni
-
-Art. 357
-
-Capitolo 2: Procedura abbreviata
-
-Capitolo 3: Procedura in caso di decisioni giudiziarie indipendenti successive
-
-Capitolo 4: Procedura contumaciale
-
-Sezione 1: Presupposti e svolgimento
-
-Sezione 2: Nuovo giudizio
-
-Capitolo 5: Procedura indipendente in materia di misure
-
-Sezione 1: Cauzione preventiva
-
-Sezione 2: Procedura applicabile agli imputati penalmente incapaci
-
-Sezione 3: Procedura indipendente di confisca
-
-Titolo nono: Mezzi di ricorso
-
-Capitolo 1: Disposizioni generali
-
-Capitolo 2: Reclamo
-
-Capitolo 3: Appello
-
-Sezione 1: Disposizioni generali
-
-Sezione 2: Procedura
-
-Sezione 3: Decisione sull’appello
-
-Capitolo 4: Revisione
-
-Titolo decimo: Spese procedurali, indennità e riparazione del torto morale
-
-Capitolo 1: Disposizioni generali
-
-Capitolo 2: Spese procedurali
-
-Capitolo 3: Indennizzo e riparazione del torto morale
-
-Sezione 1: Imputato
-
-Sezione 2: Accusatore privato e terzi
-
-Sezione 3: Disposizioni particolari
-
-Titolo undicesimo: Giudicato ed esecuzione delle decisioni penali
-
-Capitolo 1: Giudicato
-
-Capitolo 2: Esecuzione delle decisioni penali
-
-Titolo dodicesimo: Disposizioni finali
-
-Capitolo 1: Disposizioni d’esecuzione
-
-Art. 445
-
-Capitolo 2: Adeguamento della legislazione
-
-Capitolo 3: Disposizioni transitorie
-
-Sezione 1: Disposizioni procedurali generali
-
-Sezione 2: Procedura dibattimentale di primo grado e procedure speciali
-
-Sezione 3: Procedura di ricorso
-
-Sezione 4: Opposizione contro i decreti d’accusa; procedimenti su azione penale privata
-
-Sezione 5: Disposizione transitoria della modifica del 28 settembre 2012
-
-Art. 456*a*
-
-Capitolo 4: Referendum ed entrata in vigore
-
-Art. 457

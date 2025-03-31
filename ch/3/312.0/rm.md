@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2024-07-01
+version: 2025-04-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20240701-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20250401-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dal 1. da fanadur 2024)
+dals 5 d’october 2007 (versiun dal 1. d’avrigl 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 123 alinea 1 da la Constituziun federala[^ingress-1],
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)
 
 ## 1. titel Champ d’applicaziun e princips
@@ -122,7 +122,7 @@ Sche nagins interess predominants da l’accusader privat na s’opponan a quai,
 
 <sup>4</sup> En quests cas disponan ellas che la procedura na vegnia betg averta u ch’ina procedura currenta vegnia messa ad acta.
 
-[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -243,7 +243,7 @@ Sco dretgira d’emprima instanza pon la Confederaziun ed ils chantuns prevair i
 - b.[^19-1] crims e delicts, cun excepziun da quels, per ils quals la procura publica pretenda in chasti da detenziun da passa 2 onns, in internament tenor l’artitgel 64 CP[^19-2], in tractament tenor l’artitgel 59 CP u – en cas che sancziuns cundiziunadas ston vegnir revocadas a medem temp – ina privaziun da la libertad da passa 2 onns.
 
 [^19-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 20
 
@@ -307,7 +307,7 @@ A la giurisdicziun federala èn suttamess ils suandants malfatgs dal CP[^23-1]:
 
 <sup>2</sup> Las prescripziuns davart la cumpetenza dal Tribunal penal federal ch’èn cuntegnidas en leschas federalas spezialas restan resalvadas.
 
-[^23-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^23-2]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-3]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart las multas disciplinaras, en vigur dapi il 1. da schan. 2018 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-4]: Versiun tenor la cifra I 3 da la LF dals 18 da zer. 2010 davart la midada da leschas federalas per realisar il Statut da Roma da la Curt penala internaziunala, en vigur dapi il 1. da schan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
@@ -334,7 +334,7 @@ En cas da crims dal segund e da l’indeschavel titel dal CP po la Procura publi
 <sup>3</sup> L’avertura d’ina inquisiziun tenor l’alinea 2 stabilescha la giurisdicziun federala.
 
 [^24-1]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^24-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^24-3]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
@@ -446,7 +446,7 @@ Per motivs materials pon la procura publica e las dretgiras separar u unir proce
 
 <sup>3</sup> Sch’i manca ina dretgira cumpetenta tenor ils alineas 1 e 2, èn cumpetentas las autoritads dal lieu, nua ch’il product da medias è vegnì derasà. Sch’il product da medias è vegnì derasà en plirs lieus, èn cumpetentas las autoritads dal lieu, nua ch’ils emprims acts da persecuziun èn vegnids prendids per mauns.
 
-[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 36
 
@@ -458,7 +458,7 @@ Per motivs materials pon la procura publica e las dretgiras separar u unir proce
 
 <sup>3</sup> Sch’i manca ina dretgira cumpetenta tenor ils alineas 1 e 2, vegn ella determinada tenor ils artitgels 31–35.
 
-[^36-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^36-2]: Versiun tenor la cifra I 12 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
@@ -726,7 +726,7 @@ Sch’i vegn fatg valair in motiv da recusaziun tenor l’artitgel 56 litera a u
 
 [^tit2-chap7-1]
 
-[^tit2-chap7-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^tit2-chap7-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 61
 
@@ -869,7 +869,7 @@ La Confederaziun ed ils chantuns pon reglar l’admissiun sco er ils dretgs e la
 
 <sup>2</sup> Renviond a l’artitgel 292 CP[^73-1] po la direcziun da la procedura obligar l’accusader privat, autras persunas participadas a la procedura e lur assistents giuridics da tegnair secret ils fatgs davart la procedura e davart las persunas pertutgadas, sche l’intent da la procedura u in interess privat pretenda quai. Questa obligaziun sto vegnir limitada areguard il temp.
 
-[^73-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^73-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 74
 
@@ -1065,7 +1065,7 @@ La dretgira trametta posteriuramain ina sentenzia motivada a las partidas, sche:
 <sup>4</sup> En la procedura da recurs po la dretgira renviar a la motivaziun da l’instanza precedenta per l’appreziaziun effectiva e giuridica dals fatgs accusads.
 
 [^82-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^82-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^82-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 83
 
@@ -1130,7 +1130,7 @@ Il Cussegl federal regla:
 - d. il mument, il qual la communicaziun vala sco consegnada.
 
 [^86-1]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^86-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^86-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 87
 
@@ -1261,11 +1261,11 @@ Resalvads restan:
 - c. las prescripziuns da la Lescha federala dals 7 d’october 1994[^96-6] davart ils posts centrals da polizia criminala da la Confederaziun.[^96-7]
 
 [^96-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^96-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^96-2]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^96-3]: Integrà tras la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^96-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^96-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^96-6]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^96-4]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^96-5]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^96-6]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^96-7]: Versiun tenor la cifra I 1 lit. a da l’agiunta 2 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi il 1. da schan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
@@ -1294,8 +1294,8 @@ Uschè ditg ch’ina procedura è pendenta, han las partidas e las autras persun
 
 <sup>3</sup> Resalvadas restan las prescripziuns da la Lescha federala dals 7 d’october 1994[^99-1] davart ils posts centrals da polizia criminala da la Confederaziun, da la Lescha federala dals 13 da zercladur 2008[^99-2] davart ils sistems d’infurmaziun da polizia da la Confederaziun sco er las disposiziuns da questa lescha davart ils documents dal servetsch d’identificaziun e davart ils profils dal DNA.[^99-3]
 
-[^99-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^99-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^99-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^99-2]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^99-3]: Versiun tenor la cifra I 1 lit. a da l’agiunta 2 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi il 1. da schan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ### 9. secziun Gestiun, invista e conservaziun da las actas
@@ -1452,7 +1452,7 @@ En cas d’ina consegna electronica sto l’inoltraziun vegnir munida cun ina si
 
 <sup>4</sup> La direcziun da la procedura po refusar inoltraziuns illegiblas, nunchapiblas, nuncunvegnentas u bler memia extendidas; ella fixescha in termin per curreger l’inoltraziun e renda attent che l’inoltraziun na vegnia betg resguardada, sch’ella na vegn betg curregida.
 
-[^110-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^110-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^110-2]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. chapitel Persuna inculpada
@@ -1586,7 +1586,7 @@ En questa decleranza po la persuna donnegiada, en moda cumulativa u alternativa:
 
 <sup>2</sup> Tgi ch’è entrà tras lescha en ils dretgs da la persuna donnegiada, è mo autorisà da purtar plant civil ed ha mo quels dretgs processuals che sa refereschan directamain a l’execuziun dal plant civil.
 
-[^121-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^121-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. secziun Plant civil
 
@@ -1686,7 +1686,7 @@ Il plant civil vegn renvià a la giurisdicziun civila, sche:
 
 <sup>5</sup> La defensiun da la persuna inculpada è resalvada als advocats ch’èn autorisads da represchentar partidas davant autoritads giudizialas tenor la Lescha dals 23 da zercladur 2000[^127-1] davart las advocatas ed ils advocats; resalvadas restan disposiziuns divergentas dals chantuns per la defensiun en la procedura penala per surpassaments.
 
-[^127-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^127-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 ### 2. secziun Defensiun
 
@@ -2180,7 +2180,7 @@ Ina perditga è ina persuna che n’è betg participada al malfatg, che po far d
 
 <sup>3</sup> Questa ordinaziun po vegnir colliada cun la citaziun da la perditga.
 
-[^165-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^165-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 166
 
@@ -2226,9 +2226,9 @@ Il dretg da refusar da dar perditga scroda, sche:
 - b. il malfatg è stà drizzà cunter ina persuna, cun la quala la perditga ha ina relaziun tenor ils alineas 1–3.
 
 [^168-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 15 da dec. 2017 (protecziun d’uffants), en vigur dapi il 1. da schan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
-[^168-2]: Art. 4–11 da l’O dals 19 d’oct. 1977 davart la recepziun d’uffants per la tgira e per l’adopziun ([SR 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)).
+[^168-2]: Art. 4–11 da l’O dals 19 d’oct. 1977 davart la recepziun d’uffants per la tgira e per l’adopziun ([SR 211.222.338](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5743)).
 [^168-3]: Versiun tenor la cifra III da la LF dals 30 da sett. 2011, en vigur dapi il 1. da fan. 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
-[^168-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^168-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 169
 
@@ -2262,7 +2262,7 @@ Els ston far ina deposiziun, sch’els:
 
 <sup>3</sup> L’autoritad superiura conceda l’autorisaziun da far la deposiziun, sche l’interess da chattar la vardad predominescha l’interess da mantegnair il secret.
 
-[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^170-2]: Versiun tenor la cifra 8 da l’agiunta 1 da la Lescha dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^170-3]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
@@ -2284,8 +2284,8 @@ Els ston far ina deposiziun, sch’els:
 <sup>4</sup> La Lescha dals 23 da zercladur 2000[^171-3] davart las advocatas ed ils advocats resta resalvada.
 
 [^171-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da dec. 2022 davart la promoziun da la scolaziun en il sectur da la tgira, en vigur dapi il 1. da fan. 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
-[^171-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^171-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^171-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^171-3]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 172
 
@@ -2307,10 +2307,10 @@ Els ston far ina deposiziun, sche:
   - 3\.[^172-2] malfatgs tenor ils artitgels 187, 189, 190, 191, 197 alinea 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
   - 4\.[^172-3] malfatgs tenor l’artitgel 19 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^172-4] (LN).
 
-[^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^172-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^172-2]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^172-4]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 173
 
@@ -2329,13 +2329,13 @@ Tgi che sto mantegnair secrets professiunals tenor ina da las suandantas disposi
 
 <sup>2</sup> Titulars d’auters secrets protegids tras lescha èn obligads da far ina deposiziun. La direcziun da la procedura als po deliberar da l’obligaziun da dar perditga, sch’els pon far valair vardaivlamain che l’interess da mantegnair il secret predomineschia l’interess da chattar la vardad.
 
-[^173-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^173-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233). Quest art. è ussa abolì.
-[^173-3]: [SR 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
+[^173-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^173-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703). Quest art. è ussa abolì.
+[^173-3]: [SR 857.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10375)
 [^173-4]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^173-5]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^173-5]: [SR 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 [^173-6]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^173-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^173-7]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 [^173-8]: Integrà tras la cifra 2 da l’agiunta da la LF dals 30 da sett. 2016 davart las professiuns da sanadad ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Abolì tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2022 davart la promoziun da la scolaziun en il sectur da la tgira, cun effect dapi il 1. da fan. 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 
 #### Art. 174
@@ -2369,7 +2369,7 @@ Davart l’admissibladad dal dretg da refusar da dar perditga decida:
 
 <sup>2</sup> Sche la perditga ch’è obligada da dar perditga insista sin sia refusaziun, vegn ella – renviond a l’artitgel 292 CP[^176-1] – intimada anc ina giada da far sia deposiziun. Sch’ella refusescha anc ina giada da dar perditga, vegn averta ina procedura penala.
 
-[^176-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^176-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. secziun Interrogaziun da perditgas
 
@@ -2381,7 +2381,7 @@ Davart l’admissibladad dal dretg da refusar da dar perditga decida:
 
 <sup>3</sup> Ella renda attenta la perditga a ses dretgs da refusar da dar perditga, uschespert ch’ella vesa tals dretgs sin basa da l’interrogaziun u da las actas. Sche quest renviament vegn tralaschà e sche la perditga fa valair posteriuramain ses dretg da refusar da dar perditga, na po l’interrogaziun betg vegnir duvrada.
 
-[^177-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^177-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. chapitel Infurmaturs
 
@@ -2468,7 +2468,7 @@ Ella al conceda ina incumbensa en scrit; quella cuntegna:
 
 <sup>7</sup> Sche l’accusader privat pretenda in’expertisa, po la direcziun da la procedura colliar la concessiun da l’incumbensa cun la cundiziun che l’accusader privat prestia in pajament anticipà dals custs.
 
-[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 185
 
@@ -3106,7 +3106,7 @@ Sche la persuna inculpada ed arrestada vegn declerada per nunculpanta e sche la 
 
 <sup>3</sup> Sch’ina appellaziun vegn retratga, decida la dretgira d’emprima instanza, sche la durada da l’arrest suenter la sentenzia duai vegnir messa a quint.
 
-[^231-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^231-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^231-2]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 232
@@ -3226,7 +3226,7 @@ La cauziun vegn deliberada, sche:
 
 <sup>4</sup> Ina cauziun scrudada vegn duvrada – applitgond tenor il senn l’artitgel 73 CP[^240-1] – per cuvrir las pretensiuns da las persunas donnegiadas ed, en cas ch’i resta in surpli, per cuvrir ils chastis pecuniars, las multas ed ils custs da procedura. In eventual ulteriur surpli scroda a la Confederaziun u al chantun.
 
-[^240-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^240-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. chapitel Perquisiziuns ed inspecziuns
 
@@ -3385,7 +3385,7 @@ La persuna inculpada po vegnir inspectada per:
 
 <sup>4</sup> Envers ina persuna betg inculpada èn inspecziuns ed intervenziuns en l’integritad corporala cunter sia voluntad ultra da quai mo admessas, sch’ellas èn indispensablas per sclerir in malfatg tenor ils artitgels 111–113, 122, 124, 140, 184, 185, 187, 189, 190 u 191 CP[^251-1].[^251-2]
 
-[^251-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^251-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^251-2]: Versiun tenor la cifra III da la LF dals 30 da sett. 2011, en vigur dapi il 1. da fan. 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 
 #### Art. 251a
@@ -3460,7 +3460,7 @@ La polizia po ordinar che:
 
 [^255-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^255-2]: Integrà tras la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^255-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^255-3]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^255-4]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 256
@@ -3494,8 +3494,8 @@ Emprovas invasivas vegnan prendidas d’in medi u d’ina autra persuna medicina
 Per sclerir in crim tenor ils artitgels 111–113, 118 alinea 2, 122, 124, 140, 156 cifras 2–4, 182, 184, 185, 187, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 260<sup>ter</sup> u 264–264*l* CP[^258a-2] po vegnir ordinada ina tschertga da relaziuns da parentella tenor l’artitgel 2*a* da la Lescha dals 20 da zercladur 2003[^258a-3] davart ils profils dal DNA, sche las mesiras d’examinaziun gia prendidas n’han gì nagin success u sche las investigaziuns fissan uschiglio invanas u vegnissan engrevgiadas sproporziunadamain.
 
 [^258a-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^258a-3]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^258a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^258a-3]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 
 ### 2. secziun Fenotipisaziun
 
@@ -3510,8 +3510,8 @@ Per sclerir in crim tenor ils artitgels 111–113, 118 alinea 2, 122, 124, 140, 
 La fenotipisaziun tenor l’artitgel 2*b* da la Lescha dals 20 da zercladur 2003[^258b-2] davart ils profils dal DNA po vegnir ordinada per sclerir ils crims ch’èn enumerads en ils artitgels 111–113, 118 alinea 2, 122, 124, 140, 156 cifras 2–4, 182, 184, 185, 187, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 260<sup>ter</sup> u 264–264*l* CP[^258b-3].
 
 [^258b-1]: Integrà tras la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^258b-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^258b-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^258b-2]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^258b-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 259
 
@@ -3519,7 +3519,7 @@ La fenotipisaziun tenor l’artitgel 2*b* da la Lescha dals 20 da zercladur 2003
 
 Dal rest vegn applitgada la Lescha dals 20 da zercladur 2003[^259-1] davart ils profils dal DNA.
 
-[^259-1]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^259-1]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 
 ### 6. chapitel Registraziun da segns distinctivs, emprovas da la scrittira e registraziuns da la vusch
 
@@ -3551,7 +3551,7 @@ Documents dal servetsch d’identificaziun davart la persuna inculpada dastgan v
 <sup>3</sup> Sche l’interess da conservar u da duvrar ils documents dal servetsch d’identificaziun n’è evidentamain betg pli avant maun avant la scadenza dals termins tenor l’alinea 1, ston els vegnir destruids.
 
 [^261-1]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^261-2]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
 [^261-3]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da dec. 2021, en vigur dapi il 1. d’avust 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 262
@@ -3583,7 +3583,7 @@ Objects e valurs da facultad d’ina persuna inculpada u d’ina terza persuna p
 <sup>3</sup> Sch’i resulta in privel dal retard, pon la polizia u persunas privatas metter provisoricamain en segirezza objects u valurs da facultad per mauns da la procura publica u da las dretgiras.
 
 [^263-1]: Integrà tras la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^263-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^263-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 264
 
@@ -3604,7 +3604,7 @@ Betg vegnir sequestrads na dastgan, independentamain dal lieu, nua ch’els sa c
 
 [^264-1]: Versiun tenor la cifra I 6 da la LF dals 28 da sett. 2012 davart l’adattaziun da disposiziuns da procedura concernent il secret professiunal dals advocats, en vigur dapi il 1. da matg 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^264-2]: Integrà tras la cifra I 6 da la LF dals 28 da sett. 2012 davart l’adattaziun da disposiziuns da procedura concernent il secret professiunal dals advocats, en vigur dapi il 1. da matg 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
-[^264-3]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^264-3]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^264-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 265
@@ -3630,7 +3630,7 @@ Nagina obligaziun da consegna n’han:
 
 <sup>4</sup> Mesiras repressivas èn mo admessas, sche la consegna è vegnida refusada u sch’ins sto far quint che l’intimaziun da consegnar ils objects u las valurs da facultad ruinass l’intent da la mesira.
 
-[^265-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^265-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 266
 
@@ -3649,7 +3649,7 @@ Nagina obligaziun da consegna n’han:
 <sup>6</sup> Il Cussegl federal regla, co che valurs da facultad sequestradas vegnan investidas.
 
 [^266-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^266-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^266-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 267
 
@@ -3682,7 +3682,7 @@ Da la facultad da la persuna inculpada poi vegnir sequestrà uschè bler sco ch�
 
 <sup>3</sup> Exceptadas da la sequestraziun èn las valurs da facultad che n’èn betg impegnablas tenor ils artitgels 92–94 LSC[^268-1].
 
-[^268-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^268-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 8. chapitel Mesiras da surveglianza secretas
 
@@ -3710,43 +3710,44 @@ Ina surveglianza dastga vegnir ordinada per persequitar ils malfatgs ch’èn en
 - d.[^269-7] Lescha federala dals 13 da december 1996[^269-8] davart il material da guerra: artitgels 33 alinea 2 e 34–35*b*;
 - e. Lescha federala dals 21 da mars 2003[^269-9] davart l’energia nucleara: artitgels 88 alineas 1 e 2, 89 alineas 1 e 2 e 90 alinea 1;
 - f.[^269-10] LN[^269-11]: artitgels 19 alinea 2 e 20 alinea 2;
-- g. Lescha federala dals 7 d’october 1983[^269-12] davart la protecziun da l’ambient: artitgel 60 alinea 1 literas g–i sco er m ed o;
-- h. Lescha dals 13 da december 1996[^269-13] davart la controlla da bains: artitgel 14 alinea 2;
-- i.[^269-14] Lescha dals 17 da zercladur 2011[^269-15] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
-- j.[^269-16] Lescha da las infrastructuras da finanzas dals 19 da zercladur 2015[^269-17]: artitgels 154 e 155;
-- k.[^269-18] Lescha d’armas dals 20 da zercladur 1997[^269-19]: artitgel 33 alinea 3;
-- l.[^269-20] Lescha dals 15 da december 2000[^269-21] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
-- m.[^269-22] Lescha da gieus per daners dals 29 da settember 2017[^269-23]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a;
-- n.[^269-24] Lescha federala dals 25 da settember 2015[^269-25] davart il servetsch d’infurmaziun: artitgel 74 alinea 4.
+- g.[^269-12] Lescha federala dals 7 d’october 1983[^269-13] davart la protecziun da l’ambient: artitgel 60 alinea 1 literas g–i, m ed o sco er alinea 1<sup>bis</sup>;
+- h. Lescha dals 13 da december 1996[^269-14] davart la controlla da bains: artitgel 14 alinea 2;
+- i.[^269-15] Lescha dals 17 da zercladur 2011[^269-16] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
+- j.[^269-17] Lescha da las infrastructuras da finanzas dals 19 da zercladur 2015[^269-18]: artitgels 154 e 155;
+- k.[^269-19] Lescha d’armas dals 20 da zercladur 1997[^269-20]: artitgel 33 alinea 3;
+- l.[^269-21] Lescha dals 15 da december 2000[^269-22] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
+- m.[^269-23] Lescha da gieus per daners dals 29 da settember 2017[^269-24]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a;
+- n.[^269-25] Lescha federala dals 25 da settember 2015[^269-26] davart il servetsch d’infurmaziun: artitgel 74 alinea 4.
 
-<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po la surveglianza dal traffic da posta e da telecommunicaziun er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^269-26].
+<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po la surveglianza dal traffic da posta e da telecommunicaziun er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^269-27].
 
 [^269-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^269-3]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-5]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Questa adattaziun è vegnida fatga en tut il text.
-[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^269-5]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Questa adattaziun è vegnida fatga en tut il text.
+[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5738)
 [^269-7]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^269-10]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-14]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-16]: Integrà tras la cifra II 4 da la LF dals 28 da sett. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 da las infrastructuras da finanzas, en vigur dapi il 1. da schan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-18]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-20]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-22]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: Integrà tras la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^269-25]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^269-26]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^269-12]: Versiun tenor la cifra II da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^269-13]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^269-14]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^269-15]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-16]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^269-17]: Integrà tras la cifra II 4 da la LF dals 28 da sett. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 da las infrastructuras da finanzas, en vigur dapi il 1. da schan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-18]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^269-19]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-20]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^269-21]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-22]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^269-23]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-24]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^269-25]: Integrà tras la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-26]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^269-27]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3865,7 +3866,7 @@ Sch’igl exista in suspect urgent ch’in crim, in delict u in surpassament saj
 
 [^273-1]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^273-2]: Versiun tenor la cifra 2 da l’agiunta 2 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^273-4]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 274
@@ -3892,7 +3893,7 @@ L’approvaziun inditgescha explicitamain:
 
 <sup>5</sup> La dretgira da mesiras repressivas conceda l’approvaziun per maximalmain 3 mais. L’approvaziun po vegnir prolungada ina u pliras giadas, mintgamai maximalmain per 3 mais. Sch’ina prolungaziun è necessaria, fa la procura publica ina dumonda da prolungaziun motivada avant che la durada permessa è scadida.
 
-[^274-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^274-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^274-2]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^274-3]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
@@ -3941,7 +3942,7 @@ La procura publica terminescha immediatamain la surveglianza, sche:
 
 <sup>5</sup> Per tschertgar ina persuna dastgan vegnir duvradas tut las enconuschientschas d’ina surveglianza.
 
-[^278-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^278-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^278-2]: Integrà tras la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 [^278-3]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -4095,27 +4096,27 @@ L’investigaziun secreta po vegnir applitgada per persequitar ils malfatgs ch�
 <sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po l’investigaziun secreta er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^286-22].
 
 [^286-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
-[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^286-3]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5738)
 [^286-6]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^286-9]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^286-12]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 [^286-14]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^286-16]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^286-18]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^286-20]: Integrà tras la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-21]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-21]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 287
 
@@ -4223,8 +4224,8 @@ Uschenavant che investigaturs secrets ageschan en il rom d’ina investigaziun s
 - b. en il rom da la persecuziun da delicts cunter la LN[^294-3]: tenor ils artitgels 19 e 20–22 LN.
 
 [^294-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
-[^294-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^294-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^294-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^294-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 295
 
@@ -4583,7 +4584,7 @@ La procura publica po suspender ina inquisiziun, en spezial, sche:
 
 <sup>4</sup> Sche la persuna inculpada na cumpara betg ad ina tractativa tenor l’alinea 1 u 2 u sch’i na vegn betg cuntanschida ina reconciliaziun, prenda la procura publica immediatamain per mauns l’inquisiziun. En cas motivads po ella obligar la persuna petenta da prestar entaifer 10 dis ina cauziun per ils custs e per las indemnisaziuns.
 
-[^316-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^316-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 4. secziun Terminaziun da l’inquisiziun
 
@@ -5015,7 +5016,7 @@ Suenter che la tractativa da cumprova è terminada, fan e motiveschan las partid
 
 <sup>2</sup> Las partidas han il dretg da far in segund pledoyer.
 
-[^346-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^346-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 347
 
@@ -5083,7 +5084,7 @@ Sche la persuna inculpada ha confessà ils fatgs durant la procedura preliminara
 <sup>3</sup> Ils chastis tenor l’alinea 1 literas b–d pon vegnir cumbinads in cun l’auter, sch’il chasti total pronunzià correspunda ad in chasti da detenziun da maximalmain 6 mais. Ina cumbinaziun cun ina multa è adina pussaivla.
 
 [^352-1]: Abolì tras la cifra 3 da l’agiunta da la LF dals 19 da zer. 2015 (midadas dal dretg da sancziuns), cun effect dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^352-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^352-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^352-3]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 20 da mars 2015 (realisaziun da l’art. 121 al. 3–6 Cst. davart l’expulsiun da persunas estras criminalas), en vigur dapi il 1. d’oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 352a
@@ -5441,7 +5442,7 @@ Ina procedura contumaziala po mo avair lieu, sche:
 
 <sup>3</sup> La dumonda d’iniziar la procedura independenta sto vegnir inoltrada tar la procura publica dal lieu, nua che la smanatscha è vegnida pronunziada u l’intenziun da repeter il malfatg è vegnida exprimida.
 
-[^372-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^372-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 373
 
@@ -5457,7 +5458,7 @@ Ina procedura contumaziala po mo avair lieu, sche:
 
 <sup>5</sup> Sch’i smanatscha in privel direct d’ina persuna, po la procura publica arrestar questa persuna ad interim ubain prender autras mesiras da protecziun. La procura publica maina immediatamain la persuna a la dretgira da mesiras repressivas cumpetenta; quella decida davart l’ordinaziun da l’arrest.
 
-[^373-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^373-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. secziun Procedura per persunas inculpadas penalmain irresponsablas
 
@@ -5478,7 +5479,7 @@ Resguardond il stadi da sanadad da la persuna inculpada ubain per proteger la pe
 
 <sup>4</sup> Dal rest valan las disposiziuns davart la procedura principala d’emprima instanza.
 
-[^374-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^374-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^374-2]: Versiun tenor la cifra I 1 da l’agiunta da la LF dals 13 da dec. 2013 davart il scumond d’activitad e davart il scumond da contact e d’areal, en vigur dapi il 1. da schan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 
 #### Art. 375
@@ -5568,7 +5569,7 @@ Las autoritads federalas pon recurrer cunter decisiuns chantunalas, sch’il dre
 
 <sup>3</sup> Suenter la mort da la persuna inculpada u sentenziada ubain da l’accusader privat pon ils confamigliars prender in med legal en il senn da l’artitgel 110 alinea 1 CP[^382-1] tenor l’urden da la successiun d’ierta ubain cuntinuar cun la procedura da meds legals, uschenavant che lur interess legitims èn pertutgads.
 
-[^382-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^382-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 383
 
@@ -5927,7 +5928,7 @@ Cun il consentiment da las partidas po la direcziun da la procedura ultra da qua
 
 <sup>4</sup> La procedura che suonda sa drizza tenor l’artitgel 390 alineas 2–4.
 
-[^406-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^406-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 407
 
@@ -5993,7 +5994,7 @@ La revisiun pervia da la violaziun da la Convenziun dals 4 da november 1950[^410
 
 <sup>4</sup> La revisiun che sa restrenscha als aspects civils è admissibla mo, sch’il dretg da procedura civila ch’è applitgabel a la dretgira cumpetenta permettess ina revisiun.
 
-[^410-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^410-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
@@ -6131,7 +6132,7 @@ Spesas èn particularmain:
 
 <sup>1</sup> Ils custs da procedura vegnan surpigliads da la Confederaziun u dal chantun che ha manà la procedura; disposiziuns divergentas da questa lescha restan resalvadas.
 
-<sup>2</sup> e <sup>3</sup> ...[^423-1]
+<sup>2 e <sup>3</sup></sup> ...[^423-1]
 
 [^423-1]: Abolì tras la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, cun effect dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -6367,7 +6368,7 @@ Chastis e mesiras da detenziun cun vigur legala ston vegnir exequids immediatama
 
 <sup>4</sup> Per exequir il cumond d’execuziun po l’autoritad executiva arrestar la persuna sentenziada, la laschar publitgar u pretender sia extradiziun.
 
-[^439-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^439-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 440
 
@@ -6414,7 +6415,7 @@ Ella suttametta il cas entaifer 5 dis dapi l’arrestaziun:
 
 <sup>4</sup> Las autoritads penalas pon metter a quint lur pretensiuns che resultan da custs da procedura cun ils dretgs sin indemnisaziun da la partida che sto pajar da la medema procedura penala sco er cun valurs da facultad sequestradas.
 
-[^442-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^442-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 443
 
@@ -6422,7 +6423,7 @@ Ella suttametta il cas entaifer 5 dis dapi l’arrestaziun:
 
 Uschenavant che la sentenzia pertutga pretensiuns civilas, vegn ella exequida tenor il dretg da procedura civila che vala al lieu da l’execuziun sco er tenor la LSC[^443-1].
 
-[^443-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^443-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 444
 
@@ -6591,7 +6592,7 @@ Independentamain dal fatg, sche la nova Lescha federala dals 23 da mars 2007[^an
 
 …
 
-[^annex2-lvlu1-lvl1-2]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^annex2-lvlu1-lvl1-2]: [SR 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 
 ### 2. Coordinaziun da la cifra 9 da l’agiunta 1 cun la nova LAVi
 
@@ -6601,7 +6602,7 @@ Independentamain dal fatg, sche la nova LAVi u sch’il CPP entra en vigur sco e
 
 [^annex2-lvlu1-lvl3-1]
 
-[^annex2-lvlu1-lvl3-1]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^annex2-lvlu1-lvl3-1]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 Independentamain dal fatg, sche la nova LAVi u sch’il CPP entra en vigur sco emprim, vegnan midads ils artitgels 84a, 104 alinea 3 e 118 alinea 2 tenor la cifra 12 da l’agiunta 1 dal CPP – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:
 
