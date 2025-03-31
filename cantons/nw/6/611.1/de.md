@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2025-01-01
-valid_until: 2025-03-31
-version_adopted: 2023-08-30
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-18
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1324/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1324/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.01.2025)
+vom 21.05.2014 (Stand 01.04.2025)
 
 Der Landrat von Nidwalden,
 
@@ -2351,7 +2351,7 @@ beschliesst:
 
 <sup>4</sup> Nach Ablauf der Frist darf die Baubewilligungsbehörde Baubewilligungen nur auf Grundstücken erteilen, bei denen die Nutzungsplanung rechtskräftig ist. Ausgenommen sind Baugesuche, für welche das bisherige Recht anwendbar ist.
 
-<sup>5</sup> Art. 18 ist für Baugesuche, die vor dem 1. Januar 2025 bei der Baubewilligungsbehörde eingereicht wurden, nicht anwendbar, wenn die öffentliche Auflage des Zonenplans sowie des Bau- und Zonenreglements die Anpassung an dieses Gesetz betrifft.
+<sup>5</sup> Art. 18 ist für Baugesuche, die vor dem gemeindeweisen Inkrafttreten bei der Baubewilligungsbehörde eingereicht wurden, nicht anwendbar, wenn die öffentliche Auflage des Zonenplans sowie des Bau- und Zonenreglements die Anpassung an dieses Gesetz betrifft. Dies gilt auch für Baugesuche, die vor dem Inkrafttreten der Änderung vom 18. Dezember 2024 bei der Baubewilligungsbehörde eingereicht und bereits öffentlich aufgelegt wurden.
 
 #### Art. 177a
 
