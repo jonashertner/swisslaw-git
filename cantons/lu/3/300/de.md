@@ -4,13 +4,12 @@ number: "300"
 title: Übertretungsstrafgesetz
 short: UeStG
 language: de
-version: 2020-01-01
-valid_until: 2025-03-31
-version_adopted: 2019-09-09
+version: 2025-04-01
+version_adopted: 2024-12-02
 adopted: 1976-09-14
 in_force: 1977-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/300"
-pdf: "https://srl.lu.ch/api/de/versions/3451/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3451/pdf_file"
 
 (UeStG)
 
-vom 14.09.1976 (Stand 01.01.2020)
+vom 14.09.1976 (Stand 01.04.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -86,9 +85,9 @@ beschliesst:
 
 **Vernachlässigung von Aufsicht und Pflege**
 
-<sup>1</sup> Wer eine ihm anvertraute hilfsbedürftige Person vernachlässigt, wird mit Busse[^6-1] bestraft, wenn die Tat nicht unter den Artikel 219 StGB fällt.
+<sup>1</sup> Wer eine ihm oder ihr anvertraute hilfsbedürftige Person vernachlässigt, wird mit Busse[^6-1] bestraft, wenn die Tat nicht unter den Artikel 219 StGB fällt.
 
-<sup>2</sup> Der Richter verständigt die Kindes- und Erwachsenenschutzbehörde.
+<sup>2</sup> Die Strafbehörde verständigt die Kindes- und Erwachsenenschutzbehörde.
 
 [^6-1]: Gemäss Änderung vom 11. September 2006, in Kraft seit dem 1. Januar 2007 (G 2006 277), wurde in den §§ 6–13, 15, 17, 18, 20–26, 29 und 31–35 der Ausdruck «Haft oder Busse» durch «Busse» ersetzt.
 
@@ -136,7 +135,7 @@ wird mit Busse bestraft.
 
 **Verbrecherwerkzeug**
 
-<sup>1</sup> Wer Waffen, Werkzeuge oder Geräte, von denen er weiss oder annehmen muss, dass sie zur Begehung eines Verbrechens bestimmt sind, herstellt, herstellen lässt, in Gewahrsam hat, verwahren lässt oder einem andern überlässt, wird mit Busse bestraft.
+<sup>1</sup> Wer Waffen, Werkzeuge oder Geräte, von denen er oder sie weiss oder annehmen muss, dass sie zur Begehung eines Verbrechens bestimmt sind, herstellt, herstellen lässt, in Gewahrsam hat, verwahren lässt oder einer anderen Person überlässt, wird mit Busse bestraft.
 
 <sup>2</sup> …
 
@@ -146,7 +145,7 @@ wird mit Busse bestraft.
 
 <sup>1</sup> Wer ein gefährliches oder ein bösartiges Tier nicht gehörig verwahrt oder beaufsichtigt, wird mit Busse bestraft.
 
-<sup>2</sup> Der Richter kann das Tier töten lassen.
+<sup>2</sup> Die Strafbehörde kann das Tier töten lassen.
 
 <sup>3</sup> Der Regierungsrat wird im übrigen ermächtigt, eine Verordnung über das Halten von wilden und gefährlichen Tieren zu erlassen. Der Regierungsrat kann in dieser Verordnung weitere Straftatbestände aufstellen.
 
@@ -206,23 +205,23 @@ wird mit Busse bestraft.
 
 **Verweigerung der Angabe von Personalien**
 
-<sup>1</sup> Wer einer Behörde oder einem Beamten, die sich gehörig ausweisen, auf berechtigte Aufforderung hin die Angabe seiner Personalien verweigert oder darüber vorsätzlich unrichtige Angaben macht, wird mit Busse bestraft.
+<sup>1</sup> Wer einer Behörde oder Angestellten der Verwaltung, die sich gehörig ausweisen, auf berechtigte Aufforderung hin die Angabe der Personalien verweigert oder darüber vorsätzlich unrichtige Angaben macht, wird mit Busse bestraft.
 
 #### § 22
 
 **Störung des Polizeidienstes**
 
-<sup>1</sup> Wer der Anordnung nicht nachkommt, die ein Polizeibeamter innerhalb seiner Befugnisse erlässt,
+<sup>1</sup> Wer der Anordnung nicht nachkommt, die Angehörige der Polizei innerhalb ihrer Befugnisse erlassen,
 
-wer sich unberechtigt in dienstliche Verrichtungen eines Polizeibeamten einmischt,
+wer sich unberechtigt in dienstliche Verrichtungen von Angehörigen der Polizei einmischt,
 
 wird mit Busse bestraft.
 
 #### § 23
 
-**Beistandspflicht gegenüber einem Polizeibeamten**
+**Beistandspflicht gegenüber Angehörigen der Polizei**
 
-<sup>1</sup> Wer der Aufforderung eines Polizeibeamten, ihm Nothilfe zu leisten, nicht nachkommt, obwohl es ihm nach den Umständen zugemutet werden kann,
+<sup>1</sup> Wer einer Aufforderung eines oder einer Polizeiangehörigen, ihm oder ihr Nothilfe zu leisten, nicht nachkommt, obwohl es nach den Umständen zugemutet werden kann,
 
 wer andere davon abhält oder sie dabei vorsätzlich stört,
 
@@ -248,13 +247,34 @@ wird mit Busse bestraft.
 
 #### § 26
 
-**Unerlaubte Sammlungen**
+**Sammeln ohne Bewilligung**
 
 <sup>1</sup> Wer öffentlich oder von Haus zu Haus ohne Bewilligung Gaben sammelt oder Abzeichen und dergleichen verkauft, wird mit Busse bestraft.
 
-<sup>2</sup> Das Ergebnis der Sammlung wird eingezogen und ist für gemeinnützige Zwecke zu verwenden, sofern die Rückerstattung an die Spender nicht mehr möglich ist oder die Kosten der Rückerstattung in keinem tragbaren Verhältnis zu den Spenden stehen würden.
+<sup>2</sup> Das Ergebnis der Sammlung wird eingezogen und ist für gemeinnützige Zwecke zu verwenden, sofern die Rückerstattung an die Spendenden nicht mehr möglich ist oder die Kosten der Rückerstattung in keinem tragbaren Verhältnis zu den Spenden stehen würden.
 
 <sup>3</sup> Der Regierungsrat regelt das Sammeln von Gaben und den Verkauf von Abzeichen durch eine Verordnung.
+
+#### § 26a
+
+**Unerlaubtes Betteln**
+
+<sup>1</sup> Mit Busse wird bestraft,
+
+- a. wer beim Betteln täuschende oder unlautere Methoden anwendet,
+- b. wer in organisierter Art und Weise bettelt,
+- c. wer andere Personen, namentlich Kinder oder in einem Abhängigkeitsverhältnis stehende Personen, zum Betteln schickt.
+
+<sup>2</sup> Mit Busse wird bestraft, wer im öffentlichen Raum oder an allgemein zugänglichen Orten bettelt und dabei die öffentliche Sicherheit, Ruhe und Ordnung stört, namentlich durch
+
+- a. aufdringliches, einschüchterndes oder aggressives Betteln,
+- b. Betteln an Orten mit einem hohen Personenaufkommen und beschränkten Platzverhältnissen wie Ein- und Ausgängen oder Haltestellen des öffentlichen Verkehrs,
+- c. Betteln an sensiblen Örtlichkeiten wie Geld- und Zahlungsautomaten, Schulanlagen, Spielplätzen, Friedhöfen oder Unterführungen,
+- d. Betteln von Haus zu Haus.
+
+<sup>3</sup> Nach den Absätzen 2b und 2c kann nur bestraft werden, wer eine durch die Polizei angeordnete Wegweisung missachtet.
+
+<sup>4</sup> Die durch strafbares Betteln nach Absatz 1 erlangten Vermögenswerte können sichergestellt und eingezogen werden.
 
 #### § 27
 
@@ -270,7 +290,7 @@ wird mit Busse bestraft.
 
 **Falsche Angaben in Zivil- oder Verwaltungsverfahren**
 
-<sup>1</sup> Wer in einem Zivil- oder Verwaltungsverfahren als Auskunftsperson, Sachverständiger oder Übersetzer sowie bei der Parteieinvernahme im Zivilverfahren nach Ermahnung zur Wahrheit unter Hinweis auf diese Strafbestimmung vorsätzlich falsche Angaben macht und diese unterschriftlich bestätigt, wird, sofern nicht die Art. 307 oder 309 StGB anwendbar sind, mit Busse bestraft.
+<sup>1</sup> Wer in einem Zivil- oder Verwaltungsverfahren als Auskunftsperson, als sachverständige Person oder als Übersetzer oder Übersetzerin sowie bei der Parteieinvernahme im Zivilverfahren nach Ermahnung zur Wahrheit unter Hinweis auf diese Strafbestimmung vorsätzlich falsche Angaben macht und diese unterschriftlich bestätigt, wird, sofern nicht die Art. 307 oder 309 StGB anwendbar sind, mit Busse bestraft.
 
 #### § 30
 
@@ -284,9 +304,9 @@ wird mit Busse bestraft.
 
 #### § 32
 
-**Unerlaubter Verkehr mit Gefangenen**
+**Unerlaubter Verkehr mit eingewiesenen Personen**
 
-<sup>1</sup> Wer ohne Erlaubnis mit Gefangenen in Verkehr tritt oder Sachen in die Anstalt hinein- oder herausschmuggelt, wird mit Busse bestraft.
+<sup>1</sup> Wer ohne Erlaubnis mit in Justizvollzugsanstalten eingewiesenen Personen in Verkehr tritt oder Sachen in die Anstalt hinein- oder herausschmuggelt, wird mit Busse bestraft.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -302,11 +322,11 @@ wird mit Busse bestraft.
 
 **Nichtanzeige verbrecherischer Vorhaben**
 
-<sup>1</sup> Wer vom Vorhaben eines Verbrechens zu einer Zeit, da dessen Verhütung möglich ist, glaubhafte Kenntnis erhält und es unterlässt, davon der Polizei oder dem Bedrohten unverzüglich Anzeige zu machen, wird, wenn die Tat begangen oder versucht worden ist, mit Busse bestraft.
+<sup>1</sup> Wer vom Vorhaben eines Verbrechens zu einer Zeit, da dessen Verhütung möglich ist, glaubhafte Kenntnis erhält und es unterlässt, davon der Polizei oder der bedrohten Person unverzüglich Anzeige zu machen, wird, wenn die Tat begangen oder versucht worden ist, mit Busse bestraft.
 
 <sup>2</sup> Diese Anzeigepflicht gilt für Verbrechen gegen Leib und Leben, gegen die Freiheit, gegen die öffentliche Gesundheit, gegen den Staat und die Landesverteidigung sowie für gemeingefährliche Verbrechen.
 
-<sup>3</sup> Steht der Täter in so nahen Beziehungen zu dem Begünstigten, dass sein Verhalten entschuldbar ist, so kann der Richter von einer Bestrafung Umgang nehmen (Art. 305 Abs. 2 StGB).
+<sup>3</sup> Stehen der Täter oder die Täterin in so nahen Beziehungen zur begünstigten Person, dass sein oder ihr Verhalten entschuldbar ist, kann die Strafbehörde von einer Bestrafung Umgang nehmen (Art. 305 Abs. 2 StGB).
 
 ## 3 Schlussbestimmungen
 
