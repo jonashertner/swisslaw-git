@@ -4,11 +4,11 @@ number: "172.110.3"
 title: Organisationsverordnung der Finanzdirektion (OV FD)
 short: OV FD
 language: de
-version: "2022-03-01"
-nachtrag: "116"
-valid_until: 2025-04-01
+version: "2025-04-01"
+nachtrag: "128"
+valid_until: 2026-03-01
 adopted: 2015-12-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-128.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ B. Direktionsvorsteherin oder Direktionsvorsteher
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 25 - 128
 
 - d. weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu,
 
@@ -105,7 +105,7 @@ Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:[
 - d. Beantwortung von Anfragen.
 
 [^3-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
-[^3-2]: Aufgehoben durch Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022. 1. 4. 22 - 116 13
+[^3-2]: Aufgehoben durch Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 ### C. Verwaltungseinheiten
 
@@ -145,7 +145,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **3**
 
-- 1\. 4. 22 - 116 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
+- 1\. 4. 25 - 128 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
 
 **Leitung a. Verwaltungseinheiten im Allgemeinen**
 
@@ -227,7 +227,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Sie oder er kann Verwaltungseinheiten und Mitarbeitende ermächtigen, in bestimmten Aufgabenbereichen namens der Direktion zu entscheiden.
 
@@ -322,7 +322,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **7**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 25 - 128
 
 <sup>3</sup> Verträge, die zu Verpflichtungen des Kantons führen, werden mit Doppelunterschrift unterzeichnet, wobei die linienvorgesetzte Person links und die sachverantwortliche Person rechts unterzeichnet.
 
@@ -416,7 +416,7 @@ Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finan
 
 **9**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 25 - 128
 
 <sup>2</sup> Über Projektschritte, Zielerreichungen und den Vollzug von Aufgaben wird die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig informiert.
 
@@ -507,7 +507,7 @@ Die Kommunikation mit dem Kantonsrat, politischen Parteien, Interessenverbänden
 
 **11**
 
-- 1\. 4. 22 - 116 § 34. <sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
+- 1\. 4. 25 - 128 § 34. <sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
 
 **Gesuche um Informationszugang**
 
@@ -563,9 +563,7 @@ Bereich
 
 **Generalsekretariat Generalsekretariat Generalsekretariat Generalsekretariat Generalsekretariat Personalamt Personalamt**
 
-- 5\. Versicherungswesen und Staatshaftung 6.[^hZuständigkeitsbereic_2-2] Erbschaften und Zuwendungen Dritter 7.[^hZuständigkeitsbereic_2-3] Salzregal
-
-- 8\. Aufsicht über den Gebührenbezug der Notariate 9.[^hZuständigkeitsbereic_2-4] Gemeinnütziger Fonds
+- 5\. Versicherungswesen und Staatshaftung 6.[^hZuständigkeitsbereic_2-2] Erbschaften und Zuwendungen Dritter 7.[^hZuständigkeitsbereic_2-3] Salzregal 8.[^hZuständigkeitsbereic_2-4] Notariatswesen 9.[^hZuständigkeitsbereic_2-5] Gemeinnütziger Fonds
 
 - 10\. Zentrales Personalwesen
 
@@ -588,11 +586,12 @@ Bereich
 [^hZuständigkeitsbereic_2-1]: Fassung gemäss Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
 [^hZuständigkeitsbereic_2-2]: Eingefügt durch Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
 [^hZuständigkeitsbereic_2-3]: Fassung gemäss Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
-[^hZuständigkeitsbereic_2-4]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^hZuständigkeitsbereic_2-4]: Fassung gemäss Vfg. vom 24. Februar 2025 (OS 80, 54; ABl 2025-02-28). In Kraft seit 1. April 2025. 1. 4. 25 - 128 13
+[^hZuständigkeitsbereic_2-5]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 ### Weitere Zuständigkeitsbereiche der Direktion
 
-[^hZuständigkeitsbereic_2-4]
+[^hZuständigkeitsbereic_2-5]
 
 **Generalsekretariat**
 
@@ -600,4 +599,4 @@ Rekurse und Aufsichtsbeschwerden (oder andere Verwaltungseinheit gemäss besonde
 
 **15**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 25 - 128
