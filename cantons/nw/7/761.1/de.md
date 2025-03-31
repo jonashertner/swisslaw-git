@@ -4,13 +4,12 @@ number: "761.1"
 title: Gesetz über die Sozialhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2023-09-01
-valid_until: 2025-03-31
-version_adopted: 2023-03-29
+version: 2025-04-01
+version_adopted: 2024-12-18
 adopted: 2014-10-22
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1492/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1492/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-vom 22.10.2014 (Stand 01.09.2023)
+vom 22.10.2014 (Stand 01.04.2025)
 
 Der Landrat von Nidwalden,
 
@@ -319,9 +318,9 @@ beschliesst:
 
 <sup>1</sup> Unter dem Vorbehalt der eidgenössischen Ausländer- und Asylgesetzgebung ist der Kanton während 12 Jahren seit der Einreise zuständig für die wirtschaftliche Sozialhilfe gegenüber:
 
-- 1\. Asylsuchenden und Schutzbedürftigen;
+- 1\. Asylsuchenden und Schutzbedürftigen ohne Aufenthaltsbewilligung;
 - 2\. Personen mit einem Nicht-Eintretens-Entscheid;
-- 3\. vorläufig aufgenommenen Personen;
+- 3\. vorläufig aufgenommenen Personen und vorläufig aufgenommenen Flüchtlingen;
 - 4\. anerkannten Flüchtlingen.
 
 <sup>2</sup> Die Politische Gemeinde ist nach Ablauf der Frist gemäss Abs. 1 zuständig.
