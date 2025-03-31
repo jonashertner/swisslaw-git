@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordonnance du 16 mars 2007 fixant les droits de douane préférentiels en faveur des pays en développement (Ordonnance sur les préférences tarifaires)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: fr
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/fr"
 
 (Ordonnance sur les préférences tarifaires)
 
-du 16 mars 2007 (État le 1<sup>er</sup> janvier 2024)
+du 16 mars 2007 (État le 1<sup>er</sup> avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -115,7 +115,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>1</sup> Le DEFR peut prendre, pour trois mois au plus, les mesures prévues à l’art. 2, al. 2, de la loi du 9 octobre 1981 sur les préférences tarifaires, en ce qui concerne les produits agricoles des chapitres 1, 2, 4 à 8, 10 à 12 et 15 à 17 du tarif des douanes. Ce faisant, il met en balance les besoins de l’agriculture suisse et les intérêts de la politique économique extérieure.
 
-<sup>2</sup> Pour déterminer si les intérêts de l’agriculture sont lésés, l’Office fédéral de l’agriculture et le Secrétariat d’Etat à l’économie fixent des critères communs. Figurent au nombre de ces critères une hausse inhabituelle des quantités importées, une augmentation de l’offre domestique et une stagnation de la demande indigène qui conduisent ou risquent de conduire à un effondrement des prix des producteurs indigènes.
+<sup>2</sup> Pour déterminer si les intérêts de l’agriculture sont lésés, l’Office fédéral de l’agriculture et le Secrétariat d’État à l’économie fixent des critères communs. Figurent au nombre de ces critères une hausse inhabituelle des quantités importées, une augmentation de l’offre domestique et une stagnation de la demande indigène qui conduisent ou risquent de conduire à un effondrement des prix des producteurs indigènes.
 
 <sup>3</sup> Si les préférences tarifaires sont suspendues en vertu de l’al. 1, les taux mentionnés à l’annexe 2 sont applicables, pendant la durée de la suspension, dans les lignes tarifaires concernées, à tous les pays auxquels des préférences particulières sont octroyées aux termes de l’art. 6.
 
@@ -149,7 +149,7 @@ Annexe 1[^t-1]
 
 ## Liste des pays et des territoires en développement
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 24 sept. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)) et l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 24 sept. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) et le ch. I de l’O du 14 mars 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)).
 
 Colonne A: Code ISO du pays
 
@@ -223,7 +223,6 @@ Colonne E: Suspension de préférences tarifaires (art. 5, al. 4; art. 2, al. 1 
 <tr><td>LK</td><td>Sri Lanka</td><td></td><td></td><td></td></tr>
 <tr><td>LR</td><td>Libéria</td><td>X</td><td></td><td></td></tr>
 <tr><td>LY</td><td>Libye</td><td></td><td></td><td></td></tr>
-<tr><td>MD</td><td>Moldova</td><td></td><td></td><td></td></tr>
 <tr><td>MG</td><td>Madagascar</td><td>X</td><td></td><td></td></tr>
 <tr><td>MH</td><td>Iles Marshall</td><td></td><td></td><td></td></tr>
 <tr><td>ML</td><td>Mali</td><td>X</td><td></td><td></td></tr>
@@ -247,7 +246,7 @@ Colonne E: Suspension de préférences tarifaires (art. 5, al. 4; art. 2, al. 1 
 <tr><td>PW</td><td>Palaos</td><td></td><td></td><td></td></tr>
 <tr><td>PY</td><td>Paraguay</td><td></td><td></td><td></td></tr>
 <tr><td>RW</td><td>Rwanda</td><td>X</td><td></td><td></td></tr>
-<tr><td>SB</td><td>Iles Salomon</td><td>X</td><td></td><td></td></tr>
+<tr><td>SB</td><td>Îles Salomon</td><td>X</td><td></td><td></td></tr>
 <tr><td>SC</td><td>Seychelles</td><td></td><td></td><td></td></tr>
 <tr><td>SD</td><td>Soudan</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>SH</td><td>Sainte-Hélène</td><td></td><td></td><td></td></tr>

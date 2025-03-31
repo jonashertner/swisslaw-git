@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2024-01-01
+version: 2025-04-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° gennaio 2024)
+del 16 marzo 2007 (Stato 1° aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -51,7 +51,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 <sup>3</sup> ...[^3-2]
 
 [^3-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-2]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogato dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^3-2]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogato dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
 
@@ -71,8 +71,8 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>7</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^4-5] pubblica periodicamente, per via elettronica, lo stato d’utilizzazione dei contingenti doganali.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-4]: Nuove voci di tariffa giusta l’all. 3 n. 11 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^4-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
@@ -129,7 +129,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 L’ordinanza del 29 gennaio 1997[^9-1] concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo è abrogata.
 
-[^9-1]: [[RU 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466), [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679), [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256)[3584](https://fedlex.data.admin.ch/eli/oc/1999/509), [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108)[2387](https://fedlex.data.admin.ch/eli/oc/2001/343)[3380](https://fedlex.data.admin.ch/eli/oc/2001/504), [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)n. III 2, [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180)[4707](https://fedlex.data.admin.ch/eli/oc/2004/721), [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67)[2291](https://fedlex.data.admin.ch/eli/oc/2005/387), [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120)[867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 4 [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 n. II 9 [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
+[^9-1]: [[RU 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466), [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679), [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256)[3584](https://fedlex.data.admin.ch/eli/oc/1999/509), [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108)[2387](https://fedlex.data.admin.ch/eli/oc/2001/343)[3380](https://fedlex.data.admin.ch/eli/oc/2001/504), [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)cifra III n. 2, [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180)[4707](https://fedlex.data.admin.ch/eli/oc/2004/721), [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67)[2291](https://fedlex.data.admin.ch/eli/oc/2005/387), [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120)[867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 4 [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 cifra II n. 9 [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
 
 #### Art. 10
 
@@ -149,7 +149,7 @@ Allegato 1[^t-1]
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)) e dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dalla cifra I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dalla cifra I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dalla cifra I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dalla cifra I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla cifra I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) e dalla cifra I dell’O del 14 mar. 2025, in vigore dal 1° apr. 2025 ([RU 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)).
 
 Colonna A: Codice ISO del Paese
 
@@ -223,7 +223,6 @@ Colonna E: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 
 <tr><td>LK</td><td>Sri Lanka</td><td></td><td></td><td></td></tr>
 <tr><td>LR</td><td>Liberia</td><td>X</td><td></td><td></td></tr>
 <tr><td>LY</td><td>Libia</td><td></td><td></td><td></td></tr>
-<tr><td>MD</td><td>Moldova</td><td></td><td></td><td></td></tr>
 <tr><td>MG</td><td>Madagascar</td><td>X</td><td></td><td></td></tr>
 <tr><td>MH</td><td>Isole Marshall</td><td></td><td></td><td></td></tr>
 <tr><td>ML</td><td>Mali</td><td>X</td><td></td><td></td></tr>
@@ -290,7 +289,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle preferenze
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dal n. I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dalla cifra I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dalla cifra I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa[^annex2-lvlu1-1]</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -821,7 +820,7 @@ Allegato 2[^t-2]
 
 Allegato 2a[^t-3]
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O del 7 dic. 2007 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Abrogato dal II cpv. 2 dell’O del 25 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
+[^t-3]: Introdotto dalla cifra II cpv. 2 dell’O del 7 dic. 2007 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Abrogato dal II cpv. 2 dell’O del 25 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 
 Allegato 3
 
