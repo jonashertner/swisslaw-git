@@ -3,18 +3,18 @@ sr: "910.184"
 title: Verordnung des BLW vom 11. November 2020 über die biologische Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/954"
 language: de
-version: 2023-01-01
+version: 2025-04-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-954-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2020-954-20250401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLW über die biologische Landwirtschaft
 
-vom 11. November 2020 (Stand am 1. Januar 2023)
+vom 11. November 2020 (Stand am 1. April 2025)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -48,26 +48,23 @@ Anhang 1[^t-1]
 
 ## Länderliste
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 6. Mai 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)), vom 10. Febr. 2022 ([AS 2022 92](https://fedlex.data.admin.ch/eli/oc/2022/92)) und vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 6. Mai 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)), vom 10. Febr. 2022 ([AS 2022 92](https://fedlex.data.admin.ch/eli/oc/2022/92)), vom 27. Okt. 2022 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)) und vom 17. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 128](https://fedlex.data.admin.ch/eli/oc/2025/128)).
 
 ## 1 Einleitung
 
 ### 1.1 Erzeugniskategorien
 
-Die Erzeugniskategorien werden gemäss Anhang I der Durchführungsverordnung (EU) 2021/2325[^annex1-lvl1-lvl11-1] mit folgenden Codes bezeichnet:
+Die Erzeugniskategorien werden mit folgenden Codes bezeichnet:
 
 <table>
 <tr><th>Erzeugniskategorie</th><th>Code</th></tr>
 <tr><td>Unverarbeitete pflanzliche Erzeugnisse</td><td>A</td></tr>
 <tr><td>Lebende Tiere oder unverarbeitete tierische Erzeugnisse</td><td>B</td></tr>
-<tr><td>Aquakultur<sup>1</sup></td><td>C</td></tr>
+<tr><td>Aquakultur</td><td>C</td></tr>
 <tr><td>Verarbeitete landwirtschaftliche Erzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind</td><td>D</td></tr>
 <tr><td>Verarbeitete landwirtschaftliche Erzeugnisse, die zur Verwendung als Futtermittel bestimmt sind</td><td>E</td></tr>
 <tr><td>Vegetatives Vermehrungsmaterial und Saatgut für den Anbau</td><td>F</td></tr>
-<tr><td colspan="2"><sup>1</sup> In der Schweiz nicht in der Bio-Verordnung geregelt (Art. 1 Abs. 3 Bio-Verordnung).</td></tr>
 </table>
-
-[^annex1-lvl1-lvl11-1]: Durchführungsverordnung (EU) 2021/2325 der Kommission vom 16. Dezember 2021 zur Erstellung – gemäss der Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates – des Verzeichnisses der Drittländer und des Verzeichnisses der Kontrollbehörden und Kontrollstellen, die gemäss Artikel 33 Absätze 2 und 3 der Verordnung (EG) Nr. 834/2007 des Rates für die Zwecke der Einfuhr ökologischer/biologischer Erzeugnisse in die Union anerkannt sind, Fassung gemäss ABl. L 465 vom 29.12.2021, S. 8.
 
 ### 1.2 Ausschluss der Anerkennung von Erzeugnissen während des Umstellungszeitraums
 
@@ -98,16 +95,16 @@ Ley 25 127 sobre «Producción ecológica, biológica y orgánica»
 
 \4. Zuständige Behörde:
 
-Servicio Nacional de Sanidad y Calidad Agroalimentaria SENASA, www.senasa.gov.ar
+Servicio Nacional de Sanidad y Calidad Agroalimentaria SENASA, [www.senasa.gov.ar](http://www.senasa.gov.ar)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>AR-BIO-001</td><td>Food Safety S.A.</td><td>www.foodsafety.com.ar</td></tr>
-<tr><td>AR-BIO-002</td><td>Ecocert Argentina SA</td><td>www.ecocert.com/es-AR/</td></tr>
-<tr><td>AR-BIO-003</td><td>Letis S.A.</td><td>www.letis.org</td></tr>
-<tr><td>AR-BIO-004</td><td>Organización Internacional Agropecuaria (OIA)</td><td>www.oia.com.ar</td></tr>
+<tr><td>AR-BIO-001</td><td>Food Safety S.A.</td><td>[www.foodsafety.com.ar](http://www.foodsafety.com.ar)</td></tr>
+<tr><td>AR-BIO-002</td><td>Ecocert Argentina SA</td><td>[www.ecocert.com/es-AR/](http://www.ecocert.com/es-AR/)</td></tr>
+<tr><td>AR-BIO-003</td><td>Letis S.A.</td><td>[www.letis.org](http://www.letis.org)</td></tr>
+<tr><td>AR-BIO-004</td><td>Organización Internacional Agropecuaria (OIA)</td><td>[www.oia.com.ar](http://www.oia.com.ar)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -136,18 +133,18 @@ National standard for organic and bio-dynamic produce
 
 \4. Zuständige Behörde:
 
-Department of Agriculture and Water Resources, www.agriculture.gov.au/export/controlled-goods/organic-bio-dynamic
+Department of Agriculture and Water Resources, [www.agriculture.gov.au/export/controlled-goods/organic-bio-dynamic](http://www.agriculture.gov.au/export/controlled-goods/organic-bio-dynamic)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>AU-BIO-001</td><td>Australian Certified Organic Pty Ltd. (ACO)</td><td>www.aco.net.au</td></tr>
-<tr><td>AU-BIO-003</td><td>BIO-Dynamic Research Institute (BDRI)</td><td>www.demeter.org.au</td></tr>
-<tr><td>AU-BIO-004</td><td>NASAA Certified Organic (NCO)</td><td>www.nasaa.com.au</td></tr>
-<tr><td>AU-BIO-005</td><td>Organic Food Chain Pty Ltd. (OFC)</td><td>www.organicfoodchain.com.au</td></tr>
-<tr><td>AU-BIO-006</td><td>AUS-QUAL Pty Ltd.</td><td>www.ausqual.com.au</td></tr>
-<tr><td>AU-BIO-007</td><td>Southern Cross Certified Australia Pty Ltd.</td><td>www.sxcertified.com.au</td></tr>
+<tr><td>AU-BIO-001</td><td>Australian Certified Organic Pty Ltd. (ACO)</td><td>[www.aco.net.au](http://www.aco.net.au)</td></tr>
+<tr><td>AU-BIO-003</td><td>BIO-Dynamic Research Institute (BDRI)</td><td>[www.demeter.org.au](http://www.demeter.org.au)</td></tr>
+<tr><td>AU-BIO-004</td><td>NASAA Certified Organic (NCO)</td><td>[www.nasaa.com.au](http://www.nasaa.com.au)</td></tr>
+<tr><td>AU-BIO-005</td><td>Organic Food Chain Pty Ltd. (OFC)</td><td>[www.organicfoodchain.com.au](http://www.organicfoodchain.com.au)</td></tr>
+<tr><td>AU-BIO-006</td><td>AUS-QUAL Pty Ltd.</td><td>[www.ausqual.com.au](http://www.ausqual.com.au)</td></tr>
+<tr><td>AU-BIO-007</td><td>Southern Cross Certified Australia Pty Ltd.</td><td>[www.sxcertified.com.au](http://www.sxcertified.com.au)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -180,22 +177,22 @@ Gesetz Nr. 20.089 vom 17. Januar 2006 zur Schaffung eines nationalen Bescheinigu
 
 \4. Zuständige Behörde:
 
-Servicio Agricola y Ganadero (SAG), Ministerium für Landwirtschaft, www.sag.cl/ambitos-de-accion/productos-organicos
+Servicio Agricola y Ganadero (SAG), Ministerium für Landwirtschaft, [www.sag.cl/ambitos-de-accion/productos-organicos](http://www.sag.cl/ambitos-de-accion/productos-organicos)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>CL-BIO-001</td><td>Ecocert Chile S.A.</td><td>www.ecocert.cl</td></tr>
-<tr><td>CL-BIO-005</td><td>CERES – Certification of Environmental Standards GmbH</td><td>www.ceres-cert.com</td></tr>
-<tr><td>CL-BIO-010</td><td>BIO CERTIFICADORA SERVICIOS LIMITIDA</td><td>www.bioaudita.cl</td></tr>
+<tr><td>CL-BIO-001</td><td>Ecocert Chile S.A.</td><td>[www.ecocert.com/es-CL](https://www.ecocert.com/es-CL)</td></tr>
+<tr><td>CL-BIO-005</td><td>CERES – Certification of Environmental Standards GmbH</td><td>[www.ceres-cert.com](http://www.ceres-cert.com)</td></tr>
+<tr><td>CL-BIO-010</td><td>BIO CERTIFICADORA SERVICIOS LIMITIDA</td><td>[www.bioaudita.cl](http://www.bioaudita.cl)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
 
 \7. Befristung der Aufnahme: bis zum 31. Dezember 2026.
 
-[^annex1-lvl2-lvlu3-1]: Das Dokument ist auf Englisch abrufbar unter: www.blw.admin.ch &gt; Instrumente &gt; Biolandbau.
+[^annex1-lvl2-lvlu3-1]: Das Dokument ist auf Englisch abrufbar unter: [www.blw.admin.ch/](https://www.blw.admin.ch/) &gt; Instrumente &gt; Biolandbau.
 
 ### Costa Rica
 
@@ -219,15 +216,15 @@ Reglamento sobre la agricultura orgánica
 
 \4. Zuständige Behörde:
 
-Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, www.sfe.go.cr
+Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, [www.sfe.go.cr](http://www.sfe.go.cr)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>CR-BIO-002</td><td>Kiwa BCS Costa Rica Limitada</td><td>www.kiwa.lat</td></tr>
-<tr><td>CR-BIO-003</td><td>Eco-LOGICA</td><td>www.eco-logica.com</td></tr>
-<tr><td>CR-BIO-007</td><td>Primus Auditing Operations de Costa Rica S.A.</td><td>www.primusauditingops.com</td></tr>
+<tr><td>CR-BIO-002</td><td>Kiwa BCS Costa Rica Limitada</td><td>[www.kiwa.lat](http://www.kiwa.lat)</td></tr>
+<tr><td>CR-BIO-003</td><td>Eco-LOGICA</td><td>[www.eco-logica.com](http://www.eco-logica.com)</td></tr>
+<tr><td>CR-BIO-007</td><td>Primus Auditing Operations de Costa Rica S.A.</td><td>[www.primusauditingops.com](http://www.primusauditingops.com)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -293,36 +290,36 @@ National Programme for Organic Production
 
 \4. Zuständige Behörde:
 
-Agricultural and Processed Food Products Export Development Authority (APEDA), www.apeda.gov.in/apedawebsite/index.asp
+Agricultural and Processed Food Products Export Development Authority (APEDA), [https://apeda.gov.in](https://apeda.gov.in/)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>IN-ORG-001</td><td>Aditi Organic Certifications Pvt. Ltd.</td><td>www.aditicert.net</td></tr>
-<tr><td>IN-ORG-002</td><td>APOF Organic Certification Agency (AOCA)</td><td>www.aoca.in</td></tr>
-<tr><td>IN-ORG-003</td><td>Bureau Veritas Certification India Pvt. Ltd.</td><td>www.bureauveritas.co.in</td></tr>
-<tr><td>IN-ORG-006</td><td>TQ Cert Services Private Limited</td><td>www.tqcert.in</td></tr>
-<tr><td>IN-ORG-007</td><td>IMO Control Private Limited</td><td>www.imocontrol.in</td></tr>
-<tr><td>IN-ORG-011</td><td>Natural Organic Certification Agro Pvt. Ltd.</td><td>www.nocaagro.com</td></tr>
-<tr><td>IN-ORG-013</td><td>SGS India Pvt. Ltd.</td><td>www.sgsgroup.in</td></tr>
-<tr><td>IN-ORG-014</td><td>Uttarakhand State Organic Certification Agency (USOCA)</td><td>www.organicuttarakhand.org/ certification.html</td></tr>
-<tr><td>IN-ORG-016</td><td>Rajasthan State Organic Certification Agency (RSOCA)</td><td>www.agriculture.rajasthan.gov.in/rssopca</td></tr>
-<tr><td>IN-ORG-017</td><td>Chhattisgarh Certification Society (CGCERT)</td><td>www.cgcert.com</td></tr>
-<tr><td>IN-ORG-018</td><td>Tamil Nadu Organic Certification Department (TNOCD)</td><td>www.tnocd.net</td></tr>
-<tr><td>IN-ORG-021</td><td>Madhya Pradesh State Organic Certification Agency (MPSOCA)</td><td>www.mpsoca.org</td></tr>
-<tr><td>IN-ORG-023</td><td>Faircert Certification Services Pvt. Ltd.</td><td>www.faircert.com</td></tr>
-<tr><td>IN-ORG-024</td><td>Odisha State Organic Certification Agency</td><td>www.ossopca.nic.in</td></tr>
-<tr><td>IN-ORG-025</td><td>Gujarat Organic Products Certification Agency</td><td>www.gopca.in</td></tr>
-<tr><td>IN-ORG-026</td><td>Uttar Pradesh State Organic Certification Agency</td><td>www.upsoca.org</td></tr>
-<tr><td>IN-ORG-027</td><td>Karnataka State Organic Certification Agency</td><td>www.kssooca.org</td></tr>
-<tr><td>IN-ORG-028</td><td>Sikkim State Organic Certification Agency (SSOCA)</td><td>www.ssoca.in</td></tr>
-<tr><td>IN-ORG-029</td><td>Global Certification Society</td><td>www.glocert.org</td></tr>
-<tr><td>IN-ORG-030</td><td>GreenCert Biosolutions Pvt. Ltd</td><td>www.greencertindia.in</td></tr>
-<tr><td>IN-ORG-031</td><td>Telangana State Organic Certification Authority</td><td>www.tsoca.telangana.gov.in</td></tr>
-<tr><td>IN-ORG-032</td><td>Bihar State and Organic Certification Agency (BSSOCA)</td><td>www.bssca.co.in</td></tr>
-<tr><td>IN-ORG-033</td><td>Reliable Organic Certification Organization</td><td>https://rococert.com</td></tr>
-<tr><td>IN-ORG-034</td><td>Bhumaatha Organic Certification Bureau (BOCB)</td><td>www.agricertbocb.in</td></tr>
+<tr><td>IN-ORG-001</td><td>Aditi Organic Certifications Pvt. Ltd.</td><td>[www.aditicert.net](http://www.aditicert.net)</td></tr>
+<tr><td>IN-ORG-002</td><td>APOF Organic Certification Agency (AOCA)</td><td>[www.aoca.in](http://www.aoca.in)</td></tr>
+<tr><td>IN-ORG-003</td><td>Bureau Veritas Certification India Pvt. Ltd.</td><td>[www.bureauveritas.co.in](http://www.bureauveritas.co.in)</td></tr>
+<tr><td>IN-ORG-006</td><td>TQ Cert Services Private Limited</td><td>[www.tqcert.in](http://www.tqcert.in)</td></tr>
+<tr><td>IN-ORG-007</td><td>IMO Control Private Limited</td><td>[www.imocontrol.in](http://www.imocontrol.in)</td></tr>
+<tr><td>IN-ORG-011</td><td>Natural Organic Certification Agro Pvt. Ltd.</td><td>[www.nocaagro.com](http://www.nocaagro.com)</td></tr>
+<tr><td>IN-ORG-013</td><td>SGS India Pvt. Ltd.</td><td>[www.sgsgroup.in](http://www.sgsgroup.in)</td></tr>
+<tr><td>IN-ORG-014</td><td>Uttarakhand State Organic Certification Agency (USOCA)</td><td>[www.organicuttarakhand.org/ certification.html](http://www.organicuttarakhand.org/certification.html)</td></tr>
+<tr><td>IN-ORG-016</td><td>Rajasthan State Organic Certification Agency (RSOCA)</td><td>[www.agriculture. rajasthan.gov.in/rssoca](http://www.agriculture.rajasthan.gov.in/rssoca)</td></tr>
+<tr><td>IN-ORG-017</td><td>Chhattisgarh Certification Society (CGCERT)</td><td>[www.cgcert.com](http://www.cgcert.com)</td></tr>
+<tr><td>IN-ORG-018</td><td>Tamil Nadu Organic Certification Department (TNOCD)</td><td>[www.tnocd.net](http://www.tnocd.net)</td></tr>
+<tr><td>IN-ORG-021</td><td>Madhya Pradesh State Organic Certification Agency (MPSOCA)</td><td>[https://mpsoca.org/](https://mpsoca.org/)</td></tr>
+<tr><td>IN-ORG-023</td><td>Faircert Certification Services Pvt. Ltd.</td><td>[www.faircert.com](http://www.faircert.com)</td></tr>
+<tr><td>IN-ORG-024</td><td>Odisha State Organic Certification Agency</td><td>[www.ossopca.nic.in](http://www.ossopca.nic.in)</td></tr>
+<tr><td>IN-ORG-025</td><td>Gujarat Organic Products Certification Agency</td><td>[www.gopca.in](http://www.gopca.in)</td></tr>
+<tr><td>IN-ORG-026</td><td>Uttar Pradesh State Organic Certification Agency</td><td>[www.upsoca.org](http://www.upsoca.org)</td></tr>
+<tr><td>IN-ORG-027</td><td>Karnataka State Organic Certification Agency</td><td>[https://kssoca.karnataka.gov.in](https://kssoca.karnataka.gov.in/)</td></tr>
+<tr><td>IN-ORG-028</td><td>Sikkim State Organic Certification Agency (SSOCA)</td><td>[www.ssoca.in](http://www.ssoca.in)</td></tr>
+<tr><td>IN-ORG-029</td><td>Global Certification Society</td><td>[www.glocert.org](http://www.glocert.org)</td></tr>
+<tr><td>IN-ORG-030</td><td>GreenCert Biosolutions Pvt. Ltd</td><td>[www.greencertindia.in](http://www.greencertindia.in)</td></tr>
+<tr><td>IN-ORG-031</td><td>Telangana State Organic Certification Authority</td><td>[https://tssoca.telangana.gov.in](https://tssoca.telangana.gov.in/)</td></tr>
+<tr><td>IN-ORG-032</td><td>Bihar State and Organic Certification Agency (BSSOCA)</td><td>[https://bssca.co.in](https://bssca.co.in/)</td></tr>
+<tr><td>IN-ORG-033</td><td>Reliable Organic Certification Organization</td><td>[https://rococert.com](https://rococert.com)</td></tr>
+<tr><td>IN-ORG-034</td><td>Bhumaatha Organic Certification Bureau (BOCB)</td><td>[www.agricertbocb.in](http://www.agricertbocb.in)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -354,16 +351,16 @@ Law for the Regulation of Organic Produce, 5765–2005, and its relevant Regulat
 
 \4. Zuständige Behörde:
 
-Plant Protection and Inspection Services (PPIS), www.ppis.moag.gov.il
+Plant Protection and Inspection Services (PPIS), [www.gov.il/he/Departments/Units/2ppis](https://www.gov.il/he/Departments/Units/2ppis)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>IL-ORG-001</td><td>Secal Israel Inspection & Certification</td><td>www.skal.co.il</td></tr>
-<tr><td>IL-ORG-002</td><td>Agrior Ltd.-Organic Inspection & Certification</td><td>www.agrior.co.il</td></tr>
-<tr><td>IL-ORG-003</td><td>IQC Institute of Quality & Control</td><td>www.iqc.co.il</td></tr>
-<tr><td>IL-ORG-004</td><td>Plant Protection and Inspection Services (PPIS)</td><td>www.ppis.moag.gov.il</td></tr>
+<tr><td>IL-ORG-001</td><td>Secal Israel Inspection & Certification</td><td>[www.skal.co.il](http://www.skal.co.il)</td></tr>
+<tr><td>IL-ORG-002</td><td>Agrior Ltd.-Organic Inspection & Certification</td><td>[www.agrior.co.il](http://www.agrior.co.il)</td></tr>
+<tr><td>IL-ORG-003</td><td>IQC Institute of Quality & Control</td><td>[www.iqc.co.il](http://www.iqc.co.il)</td></tr>
+<tr><td>IL-ORG-004</td><td>Plant Protection and Inspection Services (PPIS)</td><td>[www.gov.il/he/ Departments/Units/2ppis](https://www.gov.il/he/Departments/Units/2ppis)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -395,49 +392,48 @@ Japanese Agricultural Standard for Organic Plants (Notification No. 1605 of the 
 
 \4. Zuständige Behörde:
 
-Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agriculture, Forestry and Fisheries, www.maff.go.jp/j/jas/index.html und Food and Agricultural Materials Inspection Center (FAMIC), www.famic.go.jp
+Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agriculture, Forestry and Fisheries, [www.maff.go.jp/j/jas/index.html](http://www.maff.go.jp/j/jas/index.html) und Food and Agricultural Materials Inspection Center (FAMIC), [www.famic.go.jp](http://www.famic.go.jp)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>JP-BIO-001</td><td>Hyogo prefectural Organic Agriculture Society, HOAS</td><td>www.hyoyuken.org</td></tr>
-<tr><td>JP-BIO-002</td><td>AFAS Certification Center Co. Ltd.</td><td>www.afasseq.com</td></tr>
-<tr><td>JP-BIO-003</td><td>NPO Kagoshima Organic Agriculture Association</td><td>www.koaa.or.jp</td></tr>
-<tr><td>JP-BIO-004</td><td>Center of Japan Organic Farmers Group</td><td>www.yu-ki.or.jp</td></tr>
-<tr><td>JP-BIO-005</td><td>Japan Organic & Natural Foods Association</td><td>http://jona-japan.org/english/</td></tr>
-<tr><td>JP-BIO-006</td><td>Ecocert Japan Ltd.</td><td>http://ecocert.co.jp</td></tr>
-<tr><td>JP-BIO-007</td><td>Bureau Veritas Japan Co. Ltd.</td><td>http://certification. bureauveritas.jp/cer-business/ jas/ nintei\_list.html</td></tr>
-<tr><td>JP-BIO-008</td><td>OCIA Japan</td><td>www.ocia-jp.com</td></tr>
-<tr><td>JP-BIO-009</td><td>Overseas Merchandise Inspection Co. Ltd.</td><td>www.omicnet.com/ omicnet/services-en/organic-certification-en.html</td></tr>
-<tr><td>JP-BIO-010</td><td>Organic Farming Promotion Association</td><td>http://yusuikyo.web.fc2.com/</td></tr>
-<tr><td>JP-BIO-011</td><td>ASAC Stands for Axis’ System for Auditing and Certification and Association for Sustainable Agricultural Certification</td><td>www.axis-asac.net</td></tr>
-<tr><td>JP-BIO-012</td><td>Environmentally Friendly Rice Network</td><td>www.epfnetwork.org/okome</td></tr>
-<tr><td>JP-BIO-013</td><td>Ooita Prefecture Organic Agricultural Research Center</td><td>www.d-b.ne.jp/oitayuki</td></tr>
-<tr><td>JP-BIO-014</td><td>AINOU</td><td>www.ainou.or.jp/ainohtm/ disclosure/nintei-kouhyou.htm</td></tr>
-<tr><td>JP-BIO-015</td><td>SGS Japan Incorporation</td><td>www.jp.sgs.com/ja/ home\_jp\_v2.htm</td></tr>
-<tr><td>JP-BIO-016</td><td>Ehime Organic Agricultural Association</td><td>www12.ocn.ne.jp/~aiyuken/ ninntei20110201.html</td></tr>
-<tr><td>JP-BIO-017</td><td>Center for Eco-design Certification Co. Ltd.</td><td>www.eco-de.co.jp/ list.html</td></tr>
-<tr><td>JP-BIO-018</td><td>Organic Certification Association</td><td>http://yuukinin.org/index.html</td></tr>
-<tr><td>JP-BIO-020</td><td>Hiroshima Environment and Health Association</td><td>www.kanhokyo.or.jp/jigyo/ jigyo\_05A.html</td></tr>
-<tr><td>JP-BIO-021</td><td>ACCIS Inc.</td><td>www.accis.jp</td></tr>
-<tr><td>JP-BIO-022</td><td>Organic Certification Organization Co. Ltd.</td><td>www.oco45.net</td></tr>
-<tr><td>JP-BIO-023</td><td>Rice Research Organic Food Institute</td><td>http://inasaku.or.tv</td></tr>
-<tr><td>JP-BIO-024</td><td>Aya town miyazaki, Japan</td><td>www.town.aya. miyazaki.jp/ ayatown/ organicfarming/ index.html</td></tr>
-<tr><td>JP-BIO-025</td><td>Tokushima Organic Certified Association</td><td>www.tokukaigi.or.jp/ yuuki/</td></tr>
-<tr><td>JP-BIO-027</td><td>NPO Kumamoto Organic Agriculture Association</td><td>www.kumayuken.org/jas/ certification/index.html</td></tr>
-<tr><td>JP-BIO-028</td><td>Hokkaido Organic Promoters Association</td><td>www.hosk.jp/CCP.html</td></tr>
-<tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>www8.ocn.ne.jp/~koaa/ jisseki.html</td></tr>
-<tr><td>JP-BIO-031</td><td>Wakayama Organic Certified Association</td><td>https://woca.jpn.org/w//</td></tr>
-<tr><td>JP-BIO-032</td><td>Shimane Organic Agriculture Association</td><td>www.shimane-yuki.or.jp/ index.html</td></tr>
-<tr><td>JP-BIO-034</td><td>International Nature Farming Research Center</td><td>www.infrc.or.jp</td></tr>
-<tr><td>JP-BIO-035</td><td>Organic Certification Center</td><td>www.organic-cert.or.jp</td></tr>
-<tr><td>JP-BIO-036</td><td>Japan Food Research Laboratories</td><td>www.jfrl.or.jp/jas.html</td></tr>
-<tr><td>JP-BIO-037</td><td>Leafearth Company</td><td>www.leafearth.jp</td></tr>
-<tr><td>JP-BIO-038</td><td>Akatonbo</td><td>www.akatonbo.or.jp</td></tr>
-<tr><td>JP-BIO-039</td><td>Japan Grain Inspection Association</td><td>www.kokken.or.jp</td></tr>
-<tr><td>JP-BIO-040</td><td>Okayama Agriculture Devlopment Institute</td><td>www.nokaiken.or.jp</td></tr>
-<tr><td>JP-BIO-041</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.hp</td></tr>
+<tr><td>JP-BIO-001</td><td>Hyogo prefectural Organic Agriculture Society, HOAS</td><td>[www.hyoyuken.org](http://www.hyoyuken.org)</td></tr>
+<tr><td>JP-BIO-002</td><td>AFAS Certification Center Co. Ltd.</td><td>[www.afasseq.com](http://www.afasseq.com)</td></tr>
+<tr><td>JP-BIO-003</td><td>NPO Kagoshima Organic Agriculture Association</td><td>[www.koaa.or.jp](http://www.koaa.or.jp)</td></tr>
+<tr><td>JP-BIO-004</td><td>Center of Japan Organic Farmers Group</td><td>[www.yu-ki.or.jp](http://www.yu-ki.or.jp)</td></tr>
+<tr><td>JP-BIO-005</td><td>Japan Organic & Natural Foods Association</td><td>[http://jona-japan.org/english/](http://jona-japan.org/english/)</td></tr>
+<tr><td>JP-BIO-006</td><td>Ecocert Japan Ltd.</td><td>[http://ecocert.co.jp](http://ecocert.co.jp)</td></tr>
+<tr><td>JP-BIO-007</td><td>Bureau Veritas Japan Co. Ltd.</td><td>[http://certification. bureauveritas.jp/cer-business/ jas/ nintei\_list.html](http://certification.bureauveritas.jp/cer-business/%20jas/%20nintei_list.html)</td></tr>
+<tr><td>JP-BIO-009</td><td>Overseas Merchandise Inspection Co. Ltd.</td><td>[www.omicnet.com/ omicnet/services-en/organic-certification-en.html](http://www.omicnet.com/omicnet/services-en/organic-certification-en.html)</td></tr>
+<tr><td>JP-BIO-010</td><td>Organic Farming Promotion Association</td><td>[http://yusuikyo.web.fc2.com/](http://yusuikyo.web.fc2.com/)</td></tr>
+<tr><td>JP-BIO-011</td><td>ASAC Stands for Axis’ System for Auditing and Certification and Association for Sustainable Agricultural Certification</td><td>[www.axis-asac.net](http://www.axis-asac.net)</td></tr>
+<tr><td>JP-BIO-012</td><td>Environmentally Friendly Rice Network</td><td>[www.epfnetwork.org/okome](http://www.epfnetwork.org/okome)</td></tr>
+<tr><td>JP-BIO-013</td><td>Ooita Prefecture Organic Agricultural Research Center</td><td>[www.d-b.ne.jp/oitayuki](http://www.d-b.ne.jp/oitayuki)</td></tr>
+<tr><td>JP-BIO-014</td><td>AINOU</td><td>[www.ainou.or.jp/ ainohtm/ disclosure/ nintei-kouhyou.htm](http://www.ainou.or.jp/ainohtm/%20disclosure/nintei-kouhyou.htm)</td></tr>
+<tr><td>JP-BIO-015</td><td>SGS Japan Incorporation</td><td>[www.jp.sgs.com/ja/ home\_jp\_v2.htm](http://www.jp.sgs.com/ja/%20home_jp_v2.htm)</td></tr>
+<tr><td>JP-BIO-016</td><td>Ehime Organic Agricultural Association</td><td>[www12.ocn.ne.jp/~aiyuken/ ninntei20110201.html](http://www12.ocn.ne.jp/~aiyuken/%20ninntei20110201.html)</td></tr>
+<tr><td>JP-BIO-017</td><td>Center for Eco-design Certification Co. Ltd.</td><td>[www.eco-de.co.jp/ list.html](http://www.eco-de.co.jp/%20list.html)</td></tr>
+<tr><td>JP-BIO-018</td><td>Organic Certification Association</td><td>[http://yuukinin.org/index.html](http://yuukinin.org/index.html)</td></tr>
+<tr><td>JP-BIO-020</td><td>Hiroshima Environment and Health Association</td><td>[www.kanhokyo.or.jp/ jigyo/ jigyo\_05A.html](http://www.kanhokyo.or.jp/jigyo/%20jigyo_05A.html)</td></tr>
+<tr><td>JP-BIO-021</td><td>ACCIS Inc.</td><td>[www.accis.jp](http://www.accis.jp)</td></tr>
+<tr><td>JP-BIO-022</td><td>Organic Certification Organization Co. Ltd.</td><td>[www.oco45.net](http://www.oco45.net)</td></tr>
+<tr><td>JP-BIO-024</td><td>Aya town miyazaki, Japan</td><td>[www.town.aya.miyazaki.jp/ ayatown/ organicfarming/ index.html](http://www.town.aya.miyazaki.jp/%20ayatown/%20organicfarming/%20index.html)</td></tr>
+<tr><td>JP-BIO-025</td><td>Tokushima Organic Certified Association</td><td>[www.tokukaigi.or.jp/ yuuki/](http://www.tokukaigi.or.jp/%20yuuki/)</td></tr>
+<tr><td>JP-BIO-027</td><td>NPO Kumamoto Organic Agriculture Association</td><td>[www.kumayuken.org/jas/ certification/index.html](http://www.kumayuken.org/jas/%20certification/index.html)</td></tr>
+<tr><td>JP-BIO-028</td><td>Hokkaido Organic Promoters Association</td><td>[www.hosk.jp/CCP.html](http://www.hosk.jp/CCP.html)</td></tr>
+<tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>[www8.ocn.ne.jp/~koaa/ jisseki.html](http://www8.ocn.ne.jp/~koaa/jisseki.html)</td></tr>
+<tr><td>JP-BIO-031</td><td>Wakayama Organic Certified Association</td><td>[https://woca.jpn.org/w//](https://woca.jpn.org/w/)</td></tr>
+<tr><td>JP-BIO-032</td><td>Shimane Organic Agriculture Association</td><td>[www.shimane-yuki.or.jp/ index.html](http://www.shimane-yuki.or.jp/%20index.html)</td></tr>
+<tr><td>JP-BIO-034</td><td>International Nature Farming Research Center</td><td>[www.infrc.or.jp](http://www.infrc.or.jp)</td></tr>
+<tr><td>JP-BIO-035</td><td>Organic Certification Center</td><td>[www.organic-cert.or.jp](http://www.organic-cert.or.jp)</td></tr>
+<tr><td>JP-BIO-036</td><td>Japan Food Research Laboratories</td><td>[www.jfrl.or.jp/jas.html](http://www.jfrl.or.jp/jas.html)</td></tr>
+<tr><td>JP-BIO-037</td><td>Leafearth Company</td><td>[www.leafearth.jp](http://www.leafearth.jp)</td></tr>
+<tr><td>JP-BIO-038</td><td>Akatonbo</td><td>[www.akatonbo.or.jp](http://www.akatonbo.or.jp)</td></tr>
+<tr><td>JP-BIO-040</td><td>Okayama Agriculture Development Institute</td><td>[www.nokaiken.or.jp](http://www.nokaiken.or.jp)</td></tr>
+<tr><td>JP-BIO-041</td><td>Japan Agricultural Standard Certification Alliance</td><td>[http://jascert.or.hp](http://jascert.or.hp)</td></tr>
+<tr><td>JP-BIO-042</td><td>Japan Association for Inspection and Investigation of Food Including Fats and Oils</td><td>[www.syken.or.jp](http://www.syken.or.jp)</td></tr>
+<tr><td>JP-BIO-043</td><td>Miyazaki Organic Agriculture Association</td><td>[www.miyazaki-oaa.com](https://http/www.miyazaki-oaa.com)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -467,28 +463,26 @@ Organic Products Regulation
 
 \4. Zuständige Behörde:
 
-Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca
+Canadian Food Inspection Agency (CFIA), [www.inspection.gc.ca](http://www.inspection.gc.ca)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>CA-ORG-002</td><td>British Columbia Association for Regenerative Agriculture (BCARA)</td><td>www.certifiedorganic.bc.ca</td></tr>
-<tr><td>CA-ORG-003</td><td>CCOF Certification Services</td><td>www.ccof.org</td></tr>
-<tr><td>CA-ORG-004</td><td>Centre for Systems Integration (CSI)</td><td>www.csi-ics.com</td></tr>
-<tr><td>CA-ORG-005</td><td>Consorzio per il Controllo dei Prodotti Biologici Società a responsabilità limitata (CCPB SRL)</td><td>www.ccpb.it</td></tr>
-<tr><td>CA-ORG-006</td><td>Ecocert Canada</td><td>www.ecocertcanada.com</td></tr>
-<tr><td>CA-ORG-007</td><td>Fraser Valley Organic Producers Association (FVOPA)</td><td>www.fvopa.ca</td></tr>
-<tr><td>CA-ORG-009</td><td>International Certification Services Incorporated (ICS)</td><td>www.ics-intl.com</td></tr>
-<tr><td>CA-ORG-010</td><td>LETIS SA</td><td>www.letis.org</td></tr>
-<tr><td>CA-ORG-013</td><td>Organic Crop Improvement Association (OCIA)</td><td>www.ocia.org</td></tr>
-<tr><td>CA-ORG-014</td><td>Organic Producers Association of Manitoba Cooperative Incorporated (OPAM)</td><td>www.opam-mb.com</td></tr>
-<tr><td>CA-ORG-015</td><td>Pacific Agricultural Certification Society (PACS)</td><td>www.pacscertifiedorganic.ca</td></tr>
-<tr><td>CA-ORG-016</td><td>Pro-Cert Organic Systems Ltd (Pro-Cert)</td><td>www.ocpro.ca</td></tr>
-<tr><td>CA-ORG-017</td><td>Quality Assurance International Incorporated (QAI)</td><td>www.qai-inc.com</td></tr>
-<tr><td>CA-ORG-018</td><td>Quality Certification Services (QCS)</td><td>www.qcsinfo.org</td></tr>
-<tr><td>CA-ORG-019</td><td>Organisme de Certification Québec Vrai (OCQV)</td><td>www.quebecvrai.org</td></tr>
-<tr><td>CA-ORG-021</td><td>TransCanada Organic Certification Services (TCO Cert)</td><td>www.tcocert.ca/contacts/</td></tr>
+<tr><td>CA-ORG-003</td><td>CCOF Certification Services</td><td>[www.ccof.org](http://www.ccof.org)</td></tr>
+<tr><td>CA-ORG-004</td><td>Centre for Systems Integration (CSI)</td><td>[www.csi-ics.com](http://www.csi-ics.com)</td></tr>
+<tr><td>CA-ORG-005</td><td>Consorzio per il Controllo dei Prodotti Biologici Società a responsabilità limitata (CCPB SRL)</td><td>[www.ccpb.it](http://www.ccpb.it)</td></tr>
+<tr><td>CA-ORG-006</td><td>Ecocert Canada</td><td>[www.ecocertcanada.com](http://www.ecocertcanada.com)</td></tr>
+<tr><td>CA-ORG-007</td><td>Fraser Valley Organic Producers Association (FVOPA)</td><td>[www.fvopa.ca](http://www.fvopa.ca)</td></tr>
+<tr><td>CA-ORG-010</td><td>LETIS SA</td><td>[www.letis.org](http://www.letis.org)</td></tr>
+<tr><td>CA-ORG-013</td><td>Organic Crop Improvement Association (OCIA)</td><td>[www.ocia.org](http://www.ocia.org)</td></tr>
+<tr><td>CA-ORG-014</td><td>Organic Producers Association of Manitoba Cooperative Incorporated (OPAM)</td><td>[www.opam-mb.com](http://www.opam-mb.com)</td></tr>
+<tr><td>CA-ORG-015</td><td>Pacific Agricultural Certification Society (PACS)</td><td>[www.pacscertifiedorganic.ca](http://www.pacscertifiedorganic.ca)</td></tr>
+<tr><td>CA-ORG-016</td><td>Pro-Cert Organic Systems Ltd (Pro-Cert)</td><td>[www.ocpro.ca](http://www.ocpro.ca)</td></tr>
+<tr><td>CA-ORG-017</td><td>Quality Assurance International Incorporated (QAI)</td><td>[www.qai-inc.com](http://www.qai-inc.com)</td></tr>
+<tr><td>CA-ORG-018</td><td>Quality Certification Services (QCS)</td><td>[www.qcsinfo.org](http://www.qcsinfo.org)</td></tr>
+<tr><td>CA-ORG-019</td><td>Organisme de Certification Québec Vrai (OCQV)</td><td>[www.quebecvrai.org](http://www.quebecvrai.org)</td></tr>
+<tr><td>CA-ORG-021</td><td>TransCanada Organic Certification Services (TCO Cert)</td><td>[www.tcocert.ca/contacts/](http://www.tcocert.ca/contacts/)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -514,23 +508,23 @@ Erzeugnisse, der Kategorien A, B und F, die in Neuseeland erzeugt wurden, und Er
 
 - a. aus der Schweiz;
 - b. aus einem nach diesem Anhang anerkannten Land; oder
-- c. aus einem Land, dessen Produktions- und Kontrollvorschriften auf der Grundlage der Garantien und Informationen, die von der zuständigen Behörde des betreffenden Landes gemäss den vom New Zealand Ministry for Primary Industries (MPI) aufgestellten Vorschriften geliefert wurden, als dem MPI-Programm «Food Official Organic Assurance Programme» gleichwertig anerkannt worden sind, wobei nur aus ökologischem Landbau stammende Zutaten eingeführt werden dürfen, die für in Neuseeland aufbereitete Erzeugnisse der Kategorie D bestimmt sind und deren Anteil an den Erzeugnissen landwirtschaftlichen Ursprungs höchstens 5 Prozent beträgt.
+- c. aus einem Land, dessen Produktions- und Kontrollvorschriften auf der Grundlage der Garantien und Informationen, die von der zuständigen Behörde des betreffenden Landes gemäss den vom New Zealand Ministry for Primary Industries (MPI) aufgestellten Vorschriften geliefert wurden, als dem MPI-Progamm «Official Organic Assurance Programme» gleichwertig anerkannt worden sind, wobei nur aus ökologischem Landbau stammende Zutaten eingeführt werden dürfen, die für in Neuseeland aufbereitete Erzeugnisse der Kategorie D bestimmt sind und deren Anteil an den Erzeugnissen landwirtschaftlichen Ursprungs höchstens 5 Prozent beträgt.
 
 \3. Produktionsvorschrift:
 
-MPI Official Organic Assurance Programme Technical Rules for Organic Production
+MPI Official Organic Assurance Programme Organic Export Requirement: Organic Production Rules
 
 \4. Zuständige Behörde:
 
-Ministry for Primary Industries (MPI), www.mpi.govt.nz/exporting/food/organics
+Ministry for Primary Industries (MPI), [www.mpi.govt.nz/exporting/food/organics](http://www.mpi.govt.nz/exporting/food/organics)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>NZ-BIO-001</td><td>Ministry for Primary Industries (MPI)</td><td>http://www.mpi.govt.nz/ exporting/food/organics/</td></tr>
-<tr><td>NZ-BIO-002</td><td>AsureQuality Limited</td><td>www.asurequality.com</td></tr>
-<tr><td>NZ-BIO-003</td><td>BioGro New Zealand Limited</td><td>www.biogro.co.nz</td></tr>
+<tr><td>NZ-BIO-001</td><td>Ministry for Primary Industries (MPI)</td><td>[www.mpi.govt.nz/ exporting/food/organics/](http://www.mpi.govt.nz/exporting/food/organics/)</td></tr>
+<tr><td>NZ-BIO-002</td><td>AsureQuality Limited</td><td>[www.asurequality.com](http://www.asurequality.com)</td></tr>
+<tr><td>NZ-BIO-003</td><td>BioGro New Zealand Limited</td><td>[www.biogro.co.nz](http://www.biogro.co.nz)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 4.
@@ -559,17 +553,17 @@ Loi No. 99–30 du 5 avril 1999, relative à l’agriculture biologique; Arrêt�
 
 \4. Zuständige Behörde:
 
-Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, www.agriculture.tn und www.onagri.tn
+Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, [www.agriculture.tn](http://www.agriculture.tn) und [www.onagri.tn](http://www.onagri.tn)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>TN-BIO-001</td><td>Ecocert S.A.</td><td>www.ecocert.com</td></tr>
-<tr><td>TN-BIO-007</td><td>Institut National de la Normalisation et de la Propriété Industrielle (INNORPI)</td><td>www.innorpi.tn</td></tr>
-<tr><td>TN-BIO-008</td><td>CCPB Srl</td><td>www.ccpb.it</td></tr>
-<tr><td>TN-BIO-009</td><td>CERES GmbH</td><td>www.ceres-cert.com</td></tr>
-<tr><td>TN-BIO-010</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>www.kiwabsc.com</td></tr>
+<tr><td>TN-BIO-001</td><td>Ecocert S.A.</td><td>[www.ecocert.com](http://www.ecocert.com)</td></tr>
+<tr><td>TN-BIO-007</td><td>Institut National de la Normalisation et de la Propriété Industrielle (INNORPI)</td><td>[www.innorpi.tn](http://www.innorpi.tn)</td></tr>
+<tr><td>TN-BIO-008</td><td>CCPB Srl</td><td>[www.ccpb.it](http://www.ccpb.it)</td></tr>
+<tr><td>TN-BIO-009</td><td>CERES GmbH</td><td>[www.ceres-cert.com](http://www.ceres-cert.com)</td></tr>
+<tr><td>TN-BIO-010</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>[www.ecocert.com](http://www.ecocert.com)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -599,72 +593,72 @@ Organic Foods Production Act of 1990 (7 U.S.C 65 et seq.), National Organic Prog
 
 \4. Zuständige Behörde:
 
-United States Department of Agriculture (USDA), Agricultural Marketing Service (AMS), www.usda.gov
+United States Department of Agriculture (USDA), Agricultural Marketing Service (AMS), [www.usda.gov](http://www.usda.gov)
 
 \5. Zertifizierungsstellen:
 
 <table>
 <tr><th>Codenummer</th><th>Name</th><th>Internetadresse</th></tr>
-<tr><td>US-ORG-001</td><td>Where Food Comes From Organic</td><td>www.wfcforganic.com</td></tr>
-<tr><td>US-ORG-002</td><td>Agricultural Services Certified Organic</td><td>www.ascorganic.com</td></tr>
-<tr><td>US-ORG-003</td><td>Baystate Organic Certifiers</td><td>www.baystateorganic.org</td></tr>
-<tr><td>US-ORG-004</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>www.bcs-oeko.com</td></tr>
-<tr><td>US-ORG-005</td><td>BioAgriCert</td><td>www.bioagricert.org/English/</td></tr>
-<tr><td>US-ORG-006</td><td>CCOF Certification Services</td><td>www.ccof.org</td></tr>
-<tr><td>US-ORG-007</td><td>Colorado Department of Agriculture</td><td>www.colorado.gov</td></tr>
-<tr><td>US-ORG-008</td><td>Control Union Certifications</td><td>www.skalint.com</td></tr>
-<tr><td>US-ORG-009</td><td>Departement of Plant Industry – Clemson University</td><td>www.clemson.edu/organic</td></tr>
-<tr><td>US-ORG-010</td><td>Ecocert S.A.</td><td>www.ecocert.com</td></tr>
-<tr><td>US-ORG-011</td><td>Georgia Crop Improvement Association, Inc.</td><td>www.certifiedseed.org</td></tr>
-<tr><td>US-ORG-013</td><td>Global Organic Alliance, Inc</td><td>www.goa-online.org</td></tr>
-<tr><td>US-ORG-015</td><td>Idaho State Department of Agriculture</td><td>www.agri.idaho.gov/ Categories/PlantsInsects/ Organic/indexOrganicHome. php</td></tr>
-<tr><td>US-ORG-016</td><td>Ecocert ICO, LLC</td><td>www.ecocertico.com</td></tr>
-<tr><td>US-ORG-017</td><td>International Certification Services, Inc.</td><td>www.ics-intl.com</td></tr>
-<tr><td>US-ORG-018</td><td>Iowa Department of Agriculture and Land Stewardship</td><td>www.iowaagriculture.gov</td></tr>
-<tr><td>US-ORG-019</td><td>Kentucky Department of Agriculture</td><td>www.kyagr.com/marketing/ plantmktg/organic/index.htm</td></tr>
-<tr><td>US-ORG-020</td><td>LACON GmbH</td><td>www.lacon-institut.com</td></tr>
-<tr><td>US-ORG-022</td><td>Marin Organic Certified Agriculture</td><td>www.marincounty.org/depts/ag/moca</td></tr>
-<tr><td>US-ORG-023</td><td>Maryland Department of Agriculture</td><td>http://mda.maryland.gov/</td></tr>
-<tr><td>US-ORG-024</td><td>Mayacert S.A.</td><td>www.mayacert.com</td></tr>
-<tr><td>US-ORG-025</td><td>Midwest Organic Services Association, Inc.</td><td>www.mosaorganic.org</td></tr>
-<tr><td>US-ORG-026</td><td>Minnesota Crop Improvement Association</td><td>www.mncia.org</td></tr>
-<tr><td>US-ORG-027</td><td>MOFGA Certification Services, LLC</td><td>www.mofga.org/</td></tr>
-<tr><td>US-ORG-028</td><td>Montana Department of Agriculture</td><td>www.agr.mt.gov.organic/ Program.asp</td></tr>
-<tr><td>US-ORG-029</td><td>Monterey County Certified Organic</td><td>www.ag.co.monterey.ca.us/ pages/organics</td></tr>
-<tr><td>US-ORG-030</td><td>Natural Food Certifiers</td><td>www.nfccertification.com</td></tr>
-<tr><td>US-ORG-031</td><td>Nature’s International Certification Services</td><td>www.naturesinternational.com/</td></tr>
-<tr><td>US-ORG-033</td><td>New Hampshire Department of Agriculture, Division of Regulatory Services,</td><td>http://agriculture.nh.gov/</td></tr>
-<tr><td>US-ORG-034</td><td>New Jersey Department of Agriculture</td><td>www.nj.us/agriculture/division</td></tr>
-<tr><td>US-ORG-035</td><td>New Mexico Department of Agriculture, Organic Program</td><td>http://nmdaweb.nmsu.edu/ organics-program/ Organic%20Program.html</td></tr>
-<tr><td>US-ORG-036</td><td>NOFA - New York Certified Organic, LLC</td><td>www.nofany.org</td></tr>
-<tr><td>US-ORG-037</td><td>Ohio Ecological Food and Farm Association</td><td>www.oeffa.org</td></tr>
-<tr><td>US-ORG-038</td><td>American International</td><td>www.americertorganic.com</td></tr>
-<tr><td>US-ORG-039</td><td>Oklahoma Department of Agriculture Food and Forestry</td><td>www.oda.state.ok.us</td></tr>
-<tr><td>US-ORG-040</td><td>OneCert</td><td>www.onecert.com</td></tr>
-<tr><td>US-ORG-041</td><td>Oregon Department of Agriculture</td><td>www.oregon.gov/ODA/CID</td></tr>
-<tr><td>US-ORG-042</td><td>Oregon Tilth Certified Organic</td><td>www.tilth.org</td></tr>
-<tr><td>US-ORG-043</td><td>Organic Certifiers, Inc.</td><td>www.organiccertifiers.com</td></tr>
-<tr><td>US-ORG-044</td><td>Organic Crop Improvement Association</td><td>www.ocia.org</td></tr>
-<tr><td>US-ORG-046</td><td>Organizacion Internacional Agropecuraria</td><td>www.oia.com.ar</td></tr>
-<tr><td>US-ORG-047</td><td>Pennsylvania Certified Organic</td><td>www.paorganic.org</td></tr>
-<tr><td>US-ORG-048</td><td>Primus Auditing Operations</td><td>www.primusauditingops.com</td></tr>
-<tr><td>US-ORG-049</td><td>Pro-Cert Organic Systems, Ltd</td><td>www.pro-cert.org</td></tr>
-<tr><td>US-ORG-050</td><td>Quality Assurance International</td><td>www.qai-inc.com</td></tr>
-<tr><td>US-ORG-051</td><td>Quality Certification Services</td><td>www.QCSinfo.org</td></tr>
-<tr><td>US-ORG-052</td><td>Rhode Island Department of Environmental Management</td><td>www.dem.ri.gov/programs/ bnatres/agricult/orgcert.htm</td></tr>
-<tr><td>US-ORG-053</td><td>SCS Global Services, Inc.</td><td>www.scs.globalservices.com</td></tr>
-<tr><td>US-ORG-055</td><td>Texas Department of Agriculture</td><td>www.texasagriculture.gov/</td></tr>
-<tr><td>US-ORG-056</td><td>Utah Department of Agriculture</td><td>http://ag.utah.gov/divisions/ plant/organic/index.html</td></tr>
-<tr><td>US-ORG-057</td><td>Vermont Organic Farmers, LLC</td><td>www.nofavt.org</td></tr>
-<tr><td>US-ORG-058</td><td>Washington State Department of Agriculture</td><td>http://agr.wa.gov/FoodAnimal/Organic</td></tr>
-<tr><td>US-ORG-059</td><td>Yolo County Department of Agriculture</td><td>www.yolocounty.org/general-governement</td></tr>
-<tr><td>US-ORG-062</td><td>CERES</td><td>http://www.ceres-cert.com/</td></tr>
-<tr><td>US-ORG-063</td><td>Eco-Logica S.A</td><td>http://www.eco-logica-com/</td></tr>
-<tr><td>US-ORG-064</td><td>Food Safety S.A</td><td>http://www.foodsafety.com.ar/</td></tr>
-<tr><td>US-ORG-065</td><td>IBD Certifications</td><td>http://www.ibd.com.br/</td></tr>
-<tr><td>US-ORG-066</td><td>Istituto per la Certificazione Etica e Ambientale (ICEA)</td><td>http://www.icea.info/</td></tr>
-<tr><td>US-ORG-067</td><td>OnMark Certification Services</td><td>http://onmarkcertification.com/</td></tr>
-<tr><td>US-ORG-068</td><td>Perry Johnson Registrar Food Safety, Inc.</td><td>http://www.pjrfsi.com/</td></tr>
+<tr><td>US-ORG-001</td><td>Where Food Comes From Organic</td><td>[www.wfcforganic.com](http://www.wfcforganic.com)</td></tr>
+<tr><td>US-ORG-002</td><td>Agricultural Services Certified Organic</td><td>[www.ascorganic.com](http://www.ascorganic.com)</td></tr>
+<tr><td>US-ORG-003</td><td>Baystate Organic Certifiers</td><td>[www.baystateorganic.org](http://www.baystateorganic.org)</td></tr>
+<tr><td>US-ORG-004</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>[www.bcs-oeko.com](http://www.bcs-oeko.com)</td></tr>
+<tr><td>US-ORG-005</td><td>BioAgriCert</td><td>[www.bioagricert.org/English/](http://www.bioagricert.org/English/)</td></tr>
+<tr><td>US-ORG-006</td><td>CCOF Certification Services</td><td>[www.ccof.org](http://www.ccof.org)</td></tr>
+<tr><td>US-ORG-007</td><td>Colorado Department of Agriculture</td><td>[www.colorado.gov](http://www.colorado.gov)</td></tr>
+<tr><td>US-ORG-008</td><td>Control Union Certifications</td><td>[www.controlunion.com](https://www.controlunion.com/)</td></tr>
+<tr><td>US-ORG-009</td><td>Departement of Plant Industry – Clemson University</td><td>[www.clemson.edu/organic](http://www.clemson.edu/organic)</td></tr>
+<tr><td>US-ORG-010</td><td>Ecocert S.A.</td><td>[www.ecocert.com](http://www.ecocert.com)</td></tr>
+<tr><td>US-ORG-011</td><td>Georgia Crop Improvement Association, Inc.</td><td>[www.georgiacrop.com/seed-certification](https://www.georgiacrop.com/seed-certification/)</td></tr>
+<tr><td>US-ORG-013</td><td>Global Organic Alliance, Inc</td><td>[www.goa-online.org](http://www.goa-online.org)</td></tr>
+<tr><td>US-ORG-015</td><td>Idaho State Department of Agriculture</td><td>[www.agri.idaho.gov/ Categories/PlantsInsects/ Organic/indexOrganicHome. php](http://www.agri.idaho.gov/Categories/PlantsInsects/Organic/indexOrganicHome.php)</td></tr>
+<tr><td>US-ORG-016</td><td>Ecocert ICO, LLC</td><td>[www.ecocertico.com](http://www.ecocertico.com)</td></tr>
+<tr><td>US-ORG-017</td><td>International Certification Services, Inc.</td><td>[www.ics-intl.com](http://www.ics-intl.com)</td></tr>
+<tr><td>US-ORG-018</td><td>Iowa Department of Agriculture and Land Stewardship</td><td>[www.iowaagriculture.gov](http://www.iowaagriculture.gov)</td></tr>
+<tr><td>US-ORG-019</td><td>Kentucky Department of Agriculture</td><td>[www.kyagr.com/ marketing/plantmktg/ organic/index.htm](http://www.kyagr.com/marketing/plantmktg/organic/index.htm)</td></tr>
+<tr><td>US-ORG-020</td><td>LACON GmbH</td><td>[www.lacon-institut.com](http://www.lacon-institut.com)</td></tr>
+<tr><td>US-ORG-022</td><td>Marin Organic Certified Agriculture</td><td>[www.marincounty.org/depts/ag/moca](http://www.marincounty.org/depts/ag/moca)</td></tr>
+<tr><td>US-ORG-023</td><td>Maryland Department of Agriculture</td><td>[http://mda.maryland.gov/](http://mda.maryland.gov/)</td></tr>
+<tr><td>US-ORG-024</td><td>Mayacert S.A.</td><td>[www.mayacert.com](http://www.mayacert.com)</td></tr>
+<tr><td>US-ORG-025</td><td>Midwest Organic Services Association, Inc.</td><td>[www.mosaorganic.org](http://www.mosaorganic.org)</td></tr>
+<tr><td>US-ORG-026</td><td>Minnesota Crop Improvement Association</td><td>[www.mncia.org](http://www.mncia.org)</td></tr>
+<tr><td>US-ORG-027</td><td>MOFGA Certification Services, LLC</td><td>[www.mofga.org/](http://www.mofga.org/)</td></tr>
+<tr><td>US-ORG-028</td><td>Montana Department of Agriculture</td><td>[www.agr.mt.gov.organic/ Program.asp](http://www.agr.mt.gov.organic/Program.asp)</td></tr>
+<tr><td>US-ORG-029</td><td>Monterey County Certified Organic</td><td>[www.countyofmonterey.gov/ government/departments-a-h/ agricultural-commissioner/ fruits-vegetables/organic-registration-certification](https://www.countyofmonterey.gov/government/departments-a-h/agricultural-commissioner/fruits-vegetables/organic-registration-certification)</td></tr>
+<tr><td>US-ORG-030</td><td>Natural Food Certifiers</td><td>[www.nfccertification.com](http://www.nfccertification.com)</td></tr>
+<tr><td>US-ORG-031</td><td>Nature’s International Certification Services</td><td>[www.naturesinternational.com/](http://www.naturesinternational.com/)</td></tr>
+<tr><td>US-ORG-033</td><td>New Hampshire Department of Agriculture, Division of Regulatory Services,</td><td>[http://agriculture.nh.gov/](http://agriculture.nh.gov/)</td></tr>
+<tr><td>US-ORG-034</td><td>New Jersey Department of Agriculture</td><td>[www.nj.gov/agriculture/ divisions/pi/prog/seedcert.html](https://www.nj.gov/agriculture/divisions/pi/prog/seedcert.html)</td></tr>
+<tr><td>US-ORG-035</td><td>New Mexico Department of Agriculture, Organic Program</td><td>[https://nmdeptag.nmsu.edu/marketing/organics.html](https://nmdeptag.nmsu.edu/marketing/organics.html)</td></tr>
+<tr><td>US-ORG-036</td><td>NOFA - New York Certified Organic, LLC</td><td>[www.nofany.org](http://www.nofany.org)</td></tr>
+<tr><td>US-ORG-037</td><td>Ohio Ecological Food and Farm Association</td><td>[www.oeffa.org](http://www.oeffa.org)</td></tr>
+<tr><td>US-ORG-038</td><td>American International</td><td>[www.americertorganic.com](http://www.americertorganic.com)</td></tr>
+<tr><td>US-ORG-039</td><td>Oklahoma Department of Agriculture Food and Forestry</td><td>[https://ag.ok.gov/](https://ag.ok.gov/)</td></tr>
+<tr><td>US-ORG-040</td><td>OneCert</td><td>[www.onecert.com](http://www.onecert.com)</td></tr>
+<tr><td>US-ORG-041</td><td>Oregon Department of Agriculture</td><td>[www.oregon.gov/ODA/CID](http://www.oregon.gov/ODA/CID)</td></tr>
+<tr><td>US-ORG-042</td><td>Oregon Tilth Certified Organic</td><td>[www.tilth.org](http://www.tilth.org)</td></tr>
+<tr><td>US-ORG-043</td><td>Organic Certifiers, Inc.</td><td>[www.organiccertifiers.com](http://www.organiccertifiers.com)</td></tr>
+<tr><td>US-ORG-044</td><td>Organic Crop Improvement Association</td><td>[www.ocia.org](http://www.ocia.org)</td></tr>
+<tr><td>US-ORG-046</td><td>Organizacion Internacional Agropecuraria</td><td>[www.oia.com.ar](http://www.oia.com.ar)</td></tr>
+<tr><td>US-ORG-047</td><td>Pennsylvania Certified Organic</td><td>[www.paorganic.org](http://www.paorganic.org)</td></tr>
+<tr><td>US-ORG-048</td><td>Primus Auditing Operations</td><td>[www.primusauditingops.com](http://www.primusauditingops.com)</td></tr>
+<tr><td>US-ORG-049</td><td>Pro-Cert Organic Systems, Ltd</td><td>[www.pro-cert.org](http://www.pro-cert.org)</td></tr>
+<tr><td>US-ORG-050</td><td>Quality Assurance International</td><td>[www.qai-inc.com](http://www.qai-inc.com)</td></tr>
+<tr><td>US-ORG-051</td><td>Quality Certification Services</td><td>[www.QCSinfo.org](http://www.QCSinfo.org)</td></tr>
+<tr><td>US-ORG-052</td><td>Rhode Island Department of Environmental Management</td><td>[www.dem.ri.gov/ programs/bnatres/ agricult/orgcert.htm](http://www.dem.ri.gov/programs/bnatres/agricult/orgcert.htm)</td></tr>
+<tr><td>US-ORG-053</td><td>SCS Global Services, Inc.</td><td>[www.scsglobalservices.com](http://www.scsglobalservices.com/)</td></tr>
+<tr><td>US-ORG-055</td><td>Texas Department of Agriculture</td><td>[www.texasagriculture.gov/](http://www.texasagriculture.gov/)</td></tr>
+<tr><td>US-ORG-056</td><td>Utah Department of Agriculture</td><td>[http://ag.utah.gov/divisions/ plant/organic/index.html](http://ag.utah.gov/divisions/plant/organic/index.html)</td></tr>
+<tr><td>US-ORG-057</td><td>Vermont Organic Farmers, LLC</td><td>[www.nofavt.org](http://www.nofavt.org)</td></tr>
+<tr><td>US-ORG-058</td><td>Washington State Department of Agriculture</td><td>[http://agr.wa.gov/FoodAnimal/Organic](http://agr.wa.gov/FoodAnimal/Organic)</td></tr>
+<tr><td>US-ORG-059</td><td>Yolo County Department of Agriculture</td><td>[www.yolocounty.org/ general-governement](http://www.yolocounty.org/general-governement)</td></tr>
+<tr><td>US-ORG-062</td><td>CERES</td><td>[www.ceres-cert.com](http://www.ceres-cert.com/)</td></tr>
+<tr><td>US-ORG-063</td><td>Eco-Logica S.A</td><td>[www.eco-logica.com](http://www.eco-logica.com/)</td></tr>
+<tr><td>US-ORG-064</td><td>Food Safety S.A</td><td>[www.foodsafety.com.ar/](http://www.foodsafety.com.ar/)</td></tr>
+<tr><td>US-ORG-065</td><td>IBD Certifications</td><td>[www.ibd.com.br/](http://www.ibd.com.br/)</td></tr>
+<tr><td>US-ORG-066</td><td>Istituto per la Certificazione Etica e Ambientale (ICEA)</td><td>[https://icea.bio](https://icea.bio)</td></tr>
+<tr><td>US-ORG-067</td><td>OnMark Certification Services</td><td>[http://onmarkcertification.com/](http://onmarkcertification.com/)</td></tr>
+<tr><td>US-ORG-068</td><td>Perry Johnson Registrar Food Safety, Inc.</td><td>[www.pjrfsi.com/](http://www.pjrfsi.com/)</td></tr>
 </table>
 
 \6. Kontrollbescheinigungserteilende Stellen: wie unter Ziffer 5.
@@ -677,13 +671,13 @@ Anhang 2[^t-2]
 
 ## Liste anerkannter Zertifizierungsstellen und Kontrollbehörden ausserhalb der Länderliste
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 27. Okt. 2022 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)) und vom 17. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 128](https://fedlex.data.admin.ch/eli/oc/2025/128)).
 
 ### Biodynamic Association Certification
 
 \1. Adresse: Painswick Inn Project, Gloucester Street, Stroud, GL5 1QG, Vereinigtes Königreich
 
-\2. Internetadresse: www.bdcertification.org.uk
+\2. Internetadresse: [www.bdcertification.org.uk](http://www.bdcertification.org.uk)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -695,27 +689,11 @@ Anhang 2[^t-2]
 
 \4. Ausnahmen: Umstellungserzeugnisse
 
-### Global Trust Certification Ltd
-
-\1. Adresse: 3rd Floor Block 3, Quayside Business Park, Mill Street Dundalk, Co. Louth Republic of Ireland, A91 WNHI
-
-\2. Internetadresse: https://www.saiglobal.com
-
-\3. Länder, Codenummern und Erzeugniskategorien:
-
-<table>
-<tr><th>Land</th><th>Codenummer</th><th colspan="2">Erzeugniskategorie</th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th></tr>
-<tr><td>Vereinigtes Königreich</td><td>GB-ORG-16</td><td>X</td><td>X</td><td>–</td><td>X</td><td>X</td><td>X</td></tr>
-</table>
-
-\4. Ausnahmen: Umstellungserzeugnisse
-
 ### Irish Organic Association
 
 \1. Adresse: Unit 13, Inish Carrig, Golden Island Athlone, Co. Westmeath, Republik Irland
 
-\2. Internetadresse: www.irishorganicassociation.ie
+\2. Internetadresse: [www.irishorganicassociation.ie](http://www.irishorganicassociation.ie)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -731,7 +709,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: The Old Estate Yard, Shrewsbury Road, Albrighton, Shrewsbury, Shropshire, SY4 3AG, Vereinigtes Königreich
 
-\2. Internetadresse: www.ofgorganic.org
+\2. Internetadresse: [www.ofgorganic.org](http://www.ofgorganic.org)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -747,7 +725,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: The Old Estate Yard, Shrewsbury Road, Albrighton, Shrewsbury, Shropshire, SY4 3AG, Vereinigtes Königreich
 
-\2. Internetadresse: www.ofgorganic.org
+\2. Internetadresse: [www.ofgorganic.org](http://www.ofgorganic.org)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -763,7 +741,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: 31 Turbine Way, Eco Tech Business Park, Swaffham, Norfolk, PE37 7XD, Vereinigtes Königreich
 
-\2. Internetadresse: www.orgfoodfed.com
+\2. Internetadresse: [www.orgfoodfed.com](http://www.orgfoodfed.com)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -779,7 +757,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: Vernon House, 2 Vernon Avenue, Clontarf, Dublin 3, Republik Irland
 
-\2. Internetadresse: www.organic-trust.org
+\2. Internetadresse: [https://organictrust.ie](https://organictrust.ie/)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -795,7 +773,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: Gorseland, North Road Aberystwyth, Ceredigion, SY23 2WB, Vereinigtes Königreich
 
-\2. Internetadresse: www.wlbp.co.uk
+\2. Internetadresse: [www.wlbp.co.uk](http://www.wlbp.co.uk)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
@@ -811,7 +789,7 @@ Anhang 2[^t-2]
 
 \1. Adresse: South Plaza, Marlborough Street, Bristol, BS1 3NX, Vereinigtes Königreich
 
-\2. Internetadresse: www.soilassociation.org
+\2. Internetadresse: [www.soilassociation.org](http://www.soilassociation.org)
 
 \3. Länder, Codenummern und Erzeugniskategorien:
 
