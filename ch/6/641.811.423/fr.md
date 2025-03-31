@@ -3,11 +3,11 @@ sr: "641.811.423"
 title: Ordonnance du DFF du 15 octobre 2024 sur la participation des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds (Ordonnance du DFF sur les prestataires de cartes de carburant)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/594"
 language: fr
-version: 2024-12-01
+version: 2025-04-01
 adopted: 2024-10-15
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20241201/fr/xml/fedlex-data-admin-ch-eli-cc-2024-594-20241201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2024-594-20250401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20250401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/fr"
 
 (Ordonnance du DFF sur les prestataires de cartes de carburant)
 
-du 15 octobre 2024 (État le 1<sup>er</sup> décembre 2024)
+du 15 octobre 2024 (État le 1<sup>er</sup> avril 2025)
 
 Le Département fédéral des finances (DFF),
 
@@ -196,7 +196,7 @@ L’ordonnance du DFF du 11 février 2020 sur les prestataires de cartes de carb
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2024.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2, al. 2)
 
@@ -204,4 +204,5 @@ Annexe
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté sous [https://fedlex.data.admin.ch/eli/oc/2024/594](https://fedlex.data.admin.ch/eli/oc/2024/594) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 11 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 131](https://fedlex.data.admin.ch/eli/oc/2025/131)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/131](https://fedlex.data.admin.ch/eli/oc/2025/131) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

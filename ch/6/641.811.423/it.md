@@ -3,11 +3,11 @@ sr: "641.811.423"
 title: Ordinanza del DFF del 15 ottobre 2024 concernente il coinvolgimento dei fornitori di carte-carburante nella riscossione della tassa sul traffico pesante (Ordinanza del DFF sui fornitori di carte-carburante)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/594"
 language: it
-version: 2024-12-01
+version: 2025-04-01
 adopted: 2024-10-15
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20241201/it/xml/fedlex-data-admin-ch-eli-cc-2024-594-20241201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2024-594-20250401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20250401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/it"
 
 (Ordinanza del DFF sui fornitori di carte-carburante)
 
-del 15 ottobre 2024 (Stato 1° dicembre 2024)
+del 15 ottobre 2024 (Stato 1° aprile 2025)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -196,7 +196,7 @@ L’ordinanza del DFF dell’11 febbraio 2020[^19-1] sui fornitori di carte-carb
 
 La presente ordinanza entra in vigore il 1° dicembre 2024.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 cpv. 2)
 
@@ -204,4 +204,5 @@ Allegato
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/594](https://fedlex.data.admin.ch/eli/oc/2024/594) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFF del 11 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 131](https://fedlex.data.admin.ch/eli/oc/2025/131)).
+[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/131](https://fedlex.data.admin.ch/eli/oc/2025/131) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

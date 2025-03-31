@@ -3,11 +3,11 @@ sr: "641.811.423"
 title: Verordnung des EFD vom 15. Oktober 2024 über den Einbezug von Tankkarten-Anbietern in die Erhebung der Schwerverkehrsabgabe (Tankkarten-Anbieter-Verordnung EFD)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/594"
 language: de
-version: 2024-12-01
+version: 2025-04-01
 adopted: 2024-10-15
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20241201/de/xml/fedlex-data-admin-ch-eli-cc-2024-594-20241201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/594/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2024-594-20250401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20250401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/594/20241201/de"
 
 (Tankkarten-Anbieter-Verordnung EFD)
 
-vom 15. Oktober 2024 (Stand am 1. Dezember 2024)
+vom 15. Oktober 2024 (Stand am 1. April 2025)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -196,7 +196,7 @@ Die Tankkarten-Anbieter-Verordnung EFD vom 11. Februar 2020[^19-1] wird aufgehob
 
 Diese Verordnung tritt am 1. Dezember 2024 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2 Abs. 2)
 
@@ -204,4 +204,5 @@ Anhang
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/594](https://fedlex.data.admin.ch/eli/oc/2024/594) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 11. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 131](https://fedlex.data.admin.ch/eli/oc/2025/131)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/131](https://fedlex.data.admin.ch/eli/oc/2025/131) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
