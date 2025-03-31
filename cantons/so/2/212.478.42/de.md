@@ -3,20 +3,19 @@ canton: SO
 number: "212.478.42"
 title: Verordnung über die Katasterschätzung
 language: de
-version: 2021-01-01
-valid_until: 2025-03-31
-version_adopted: 2020-10-27
+version: 2025-04-01
+version_adopted: 2025-01-27
 adopted: 1953-09-01
 in_force: 1953-09-11
 url: "https://bgs.so.ch/app/de/texts_of_law/212.478.42"
-pdf: "https://bgs.so.ch/api/de/versions/5044/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Katasterschätzung
 
-Vom 01.09.1953 (Stand 01.01.2021)
+Vom 01.09.1953 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -108,9 +107,9 @@ beschliesst:
 
 **1. Organe und Bestellung**
 
-<sup>1</sup> Der Regierungsrat wählt auf die ordentliche Amtsdauer folgende Schätzungsorgane:
+<sup>1</sup> Als Schätzungsorgane amten:
 
-- a) die Schätzungskommissionen;
+- a) die Schätzer und Schätzerinnen der Solothurnischen Gebäudeversicherung;
 - b) landwirtschaftliche Schätzungskommission sowie ihren Präsidenten und Vizepräsidenten;
 - c) Rekursschätzungskommissionen.
 
@@ -124,9 +123,9 @@ beschliesst:
 
 **II. Schätzungskommissionen**
 
-<sup>1</sup> Als Schätzungskommissionen für jede Amtei werden die nach dem Gesetz über die Gebäudeversicherung und die Feuerpolizei vom 7. September 1947[^8-1] bestellten dreigliedrigen Schätzungskommissionen bezeichnet.
+<sup>1</sup> Als Schätzer und Schätzerinnen der Solothurnischen Gebäudeversicherung amten die gemäss dem Gebäudeversicherungsgesetz (GVG) vom 20. März 2024 für die Schätzungsregionen bestellten Schätzer und Schätzerinnen[^8-1].
 
-<sup>2</sup> Sie haben innerhalb ihres Kreises alle Neubauten sowie alle wertvermehrenden oder wertvermindernden Veränderungen an schon geschätzten Gebäuden ein- oder abzuschätzen.
+<sup>2</sup> Sie haben innerhalb ihrer Schätzungsregion alle Neubauten sowie alle wertvermehrenden oder wertvermindernden Veränderungen an schon geschätzten Gebäuden ein- oder abzuschätzen.
 
 <sup>3</sup> Sie haben alle im Sinne von § 2 Absatz 1 notwendig werdenden neuen Bodenschätzungen vorzunehmen.
 
@@ -136,7 +135,7 @@ beschliesst:
 
 <sup>6</sup> Eine Neuschätzung des Waldes hat durch das kantonale Oberforstamt zu erfolgen. Dieses Amt ist zur Schätzung des privaten wie auch des im öffentlichen Eigentum stehenden Waldes zuständig.
 
-[^8-1]: Aufgehoben. Es gilt das Gebäudeversicherungsgesetz vom 24. September 1972; vgl. BGS [618.111](https://bgs.so.ch/data/618.111/de).
+[^8-1]: BGS [618.111](https://bgs.so.ch/data/618.111/de).
 
 #### § 9
 
@@ -156,7 +155,7 @@ beschliesst:
 
 <sup>2</sup> Sie wählt zu diesem Zwecke in jeder Gemeinde mindestens 3 nach Grösse und Bewirtschaftungsart typische Landwirtschaftsbetriebe aus und schätzt sie nach § 20 dieser Verordnung.
 
-<sup>3</sup> Sie besorgt im Einvernehmen mit der zuständigen Schätzungskommission überdies die Zoneneinteilung nach § 19.
+<sup>3</sup> Sie besorgt im Einvernehmen mit den für die Schätzungsregion zuständigen Schätzern und Schätzerinnen der Solothurnischen Gebäudeversicherung überdies die Zoneneinteilung nach § 19.
 
 <sup>4</sup> Sie ermittelt aufgrund des von ihr erhobenen Gemeindemittels für jede Flur der Ertrags- und Mittelwertzone die Mittelwerte je Quadratmeter und besorgt anschliessend die Detailschätzungen in diesen Zonen.
 
@@ -245,7 +244,7 @@ beschliesst:
 
 <sup>2</sup> Die Ertragswertzone umfasst die rein landwirtschaftlich genutzten Grundstücke, die Verkehrswertzone das andern Zwecken dienende Land, die Mittelwertzone das landwirtschaftlichen Zwecken dienende Land innerhalb des Baugebietes und das nicht landwirtschaftlichen Zwecken dienende Land in denjenigen Gemeinden, in denen eine Verkehrswertzone nicht ausgeschieden wird.
 
-<sup>3</sup> Die Einteilung erfolgt durch die landwirtschaftliche Schätzungskommission im Einvernehmen mit der zuständigen Schätzungskommission.
+<sup>3</sup> Die Einteilung erfolgt durch die landwirtschaftliche Schätzungskommission im Einvernehmen mit den für die Schätzungsregion zuständigen Schätzern oder Schätzerinnen der Solothurnischen Gebäudeversicherung.
 
 <sup>4</sup> Die neuen Zonengrenzen werden in den Katasterschätzungsplänen nachgetragen und sind für die Schätzungsorgane verbindlich.
 
