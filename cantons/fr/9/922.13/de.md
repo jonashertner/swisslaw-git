@@ -4,13 +4,12 @@ number: "922.13"
 title: Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
 short: SchutzV
 language: de
-version: 2022-07-08
-valid_until: 2025-03-31
-version_adopted: 2022-06-28
+version: 2025-04-01
+version_adopted: 2025-04-15
 adopted: 2016-06-21
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7512/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8174/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume – V
 
 (SchutzV)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 08.07.2022)
+vom 21.06.2016 (Fassung in Kraft getreten am 01.04.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -532,6 +531,8 @@ beschliesst:
 
 <sup>1</sup> Wer um eine Entschädigung ersucht, muss nachweisen, dass der Schaden durch wildlebende Tiere verursacht wurde.
 
+<sup>1a</sup> Bei Schäden an Kulturen, die durch Rabenkrähen oder Saatkrähen verursacht wurden, kann eine Entschädigung nur erfolgen, wenn die beschädigte Fläche neu eingesät wurde.
+
 <sup>2</sup> Die Schäden werden mit einem Gutachten geschätzt.
 
 <sup>3</sup> Das Amt bezeichnet die mit der Schätzung der Schäden beauftragten Expertinnen und Experten.
@@ -565,7 +566,7 @@ beschliesst:
 - a) der Schaden pro Betrieb nicht mehr als 100 Franken pro Jahr beträgt;
 - b) der Schaden nur Mehrarbeit bei der Ernte verursacht;
 - c) es sich um Schäden an Kulturen in einer Entfernung von weniger als 5 m von bestockten Flächen handelt;
-- d) der Schaden durch Tiere verursacht wurde, gegen die Massnahmen im Sinne von Artikel 28 ergriffen werden können;
+- d) der Schaden durch Tiere verursacht wurde, gegen die Massnahmen im Sinne von Artikel 28 ergriffen werden können, mit Ausnahme von Rabenkrähen und Saatkrähen;
 - e) die vorbeugenden Massnahmen offensichtlich vernachlässigt wurden, insbesondere wenn die vorbeugenden Massnahmen nach den Artikeln 25 Abs. 1 Bst. a–g und 47 Abs. 4 nicht ergriffen wurden, obwohl das Schadensrisiko bekannt war;
 - f) Ausmass und Ursache des Schadens nicht mehr festgestellt werden können;
 - g) die Schäden in Gartenbaubetrieben, Obst- und Zierbaumschulen oder in Christbaumkulturen auftreten;
@@ -581,6 +582,12 @@ beschliesst:
 <sup>2</sup> Wenn die Umstände es rechtfertigen, kann die Entschädigung für die Fälle nach Absatz 1 Bst. d und e lediglich gekürzt werden.
 
 <sup>3</sup> Im Übrigen gilt das Subventionsgesetz, namentlich für den Widerruf des Entscheids und die Rückforderung der Subvention.
+
+#### Art. 48a
+
+**Verfahren**
+
+<sup>1</sup> Das Amt legt die Fristen und Modalitäten für die Einreichung von Entschädigungsgesuchen fest.
 
 ### 5.5 Ausbildung der Jägerinnen und Jäger und strukturierte Zusammenarbeit (Art. 39 Abs. 1 Bst. c JaG)
 

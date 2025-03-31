@@ -4,13 +4,12 @@ number: "922.13"
 title: "Ordonnance concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes"
 short: OProt
 language: fr
-version: 2022-07-08
-valid_until: 2025-03-31
-version_adopted: 2022-06-28
+version: 2025-04-01
+version_adopted: 2025-04-15
 adopted: 2016-06-21
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7512/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8174/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection des mammifères, des oiseaux sauvages et de leurs biotopes – O
 
 (OProt)
 
-du 21.06.2016 (version entrée en vigueur le 08.07.2022)
+du 21.06.2016 (version entrée en vigueur le 01.04.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -532,6 +531,8 @@ Arrête:
 
 <sup>1</sup> Celui ou celle qui sollicite une indemnité doit prouver que les dommages ont été causés par des animaux sauvages.
 
+<sup>1a</sup> En cas de dommages causés aux cultures par les corneilles noires ou les corbeaux freux, l'indemnisation ne peut avoir lieu que si la surface endommagée a été ressemée.
+
 <sup>2</sup> L'estimation des dommages se fait par expertise.
 
 <sup>3</sup> Le Service désigne les experts et expertes chargés de l'estimation des dommages.
@@ -565,7 +566,7 @@ Arrête:
 - a) lorsque leur montant ne dépasse pas 100 francs par an et par exploitation;
 - b) lorsqu'ils entraînent seulement un surcroît de travail pour la récolte;
 - c) lorsqu'ils sont causés à des cultures situées à moins de 5 mètres de surfaces boisées;
-- d) lorsqu'ils sont causés par des animaux contre lesquels il est possible de prendre des mesures au sens de l'article 28;
+- d) lorsqu'ils sont causés par des animaux contre lesquels il est possible de prendre des mesures au sens de l'article 28, à l'exception de la corneille noire et du corbeau freux;
 - e) lorsqu'il y a eu négligence manifeste dans les mesures de prévention, notamment lorsque les mesures de prévention mentionnées à l'article 25 al. 1 let. a à g et à l'article 47 al. 4 n'ont pas été appliquées, alors que le risque de dommage était connu;
 - f) lorsque leur importance et leur cause ne peuvent plus être constatées;
 - g) lorsqu'ils surviennent dans les exploitations d'horticulture et les pépinières d'arbres fruitiers ou d'ornement et les cultures d'arbres de Noël;
@@ -581,6 +582,12 @@ Arrête:
 <sup>2</sup> Si les circonstances le justifient, l'indemnité pour les cas mentionnés à l'alinéa 1 let. d et e peut être seulement réduite.
 
 <sup>3</sup> Pour le reste, la loi sur les subventions est applicable, notamment en ce qui concerne la révocation de la décision et la restitution de la subvention.
+
+#### Art. 48a
+
+**Modalités procédurales**
+
+<sup>1</sup> Les Service fixe les délais et les modalités pour le dépôt des demandes d'indemnisation.
 
 ### 5.5 Formation des chasseurs et chasseuses et collaboration structurée (art. 39 al. 1 let. c LCha)
 
