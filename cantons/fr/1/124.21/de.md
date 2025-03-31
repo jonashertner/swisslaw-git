@@ -3,20 +3,19 @@ canton: FR
 number: "124.21"
 title: Verordnung über das Amtsblatt
 language: de
-version: 2024-01-01
-valid_until: 2025-03-31
-version_adopted: 2023-12-12
+version: 2025-04-01
+version_adopted: 2025-01-21
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7982/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Amtsblatt
 
-vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2024)
+vom 21.12.2010 (Fassung in Kraft getreten am 01.04.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -122,6 +121,30 @@ beschliesst:
 
 - a) ausschliesslich in der Schweiz gehostet werden;
 - b) in einem Format, mit dem sie wiederverwendet und an das historische Archiv abgeliefert werden können, auf Datenträger, die dem Staat gehören, kopiert werden.
+
+#### Art. 4f
+
+**Zugang zu alten Ausgaben - Grundsätze**
+
+<sup>1</sup> Zugang zu Ausgaben des Amtsblattes, die nicht mehr über das Internet zugänglich sind, können beantragen, sofern sie einen regelmässigen und häufigen Bedarf nachweisen können:
+
+- a) die Oberämter und weitere Behörden des Staates;
+- b) Anwältinnen und Anwälte, die zur Berufsausübung im Kanton Freiburg zugelassen sind;
+- c) Notarinnen und Notare, die über ein Freiburger Patent verfügen.
+
+<sup>2</sup> Der Zugang wird mit einem Benutzernamen und einem Passwort gesichert und auf die Rubriken des Amtsblatts beschränkt, die den nachgewiesenen Bedürfnissen der verschiedenen Behörden und Berufskategorien entsprechen.
+
+#### Art. 4g
+
+**Zugang zu den alten Ausgaben - Modalitäten**
+
+<sup>1</sup> Auf begründeten Antrag der betreffenden Behörden und Berufsorganisationen legt die Staatskanzlei fest, welche Rubriken des Amtsblatts für sie zugänglich sind.
+
+<sup>2</sup> Die Gewährung des Zugangs ist ausserdem an die Unterzeichnung einer Vereinbarung gebunden, in der die Rechte und Pflichten der Berechtigten festgelegt werden, insbesondere im Zusammenhang mit der Bearbeitung der Personendaten, die in den alten Ausgaben enthalten sind.
+
+<sup>3</sup> Für den Zugang wird eine jährliche Gebühr von 300 Franken erhoben. Für die Oberämter und die übrigen Behörden des Staats ist er kostenlos.
+
+<sup>4</sup> Die Staatskanzlei entscheidet über die Zugangsgesuche. Sie kann den Zugang entziehen, wenn ein begründeter Verdacht besteht, dass die oder der Berechtigte die Bedingungen der Vereinbarung nicht einhält.
 
 #### Art. 5
 

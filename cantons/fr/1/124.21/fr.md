@@ -3,20 +3,19 @@ canton: FR
 number: "124.21"
 title: Ordonnance concernant la Feuille officielle
 language: fr
-version: 2024-01-01
-valid_until: 2025-03-31
-version_adopted: 2023-12-12
+version: 2025-04-01
+version_adopted: 2025-01-21
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7982/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8132/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la Feuille officielle
 
-du 21.12.2010 (version entrée en vigueur le 01.01.2024)
+du 21.12.2010 (version entrée en vigueur le 01.04.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -122,6 +121,30 @@ Arrête:
 
 - a) être hébergées exclusivement en Suisse;
 - b) être copiées sur des supports de données appartenant à l'Etat dans un format permettant leur réutilisation et leur versement aux archives historiques.
+
+#### Art. 4f
+
+**Accès aux anciennes éditions – Principes**
+
+<sup>1</sup> Peuvent demander un accès aux éditions de la Feuille officielle qui ne sont plus accessibles sur internet, à condition de pouvoir en justifier le besoin régulier et fréquent:
+
+- a) les préfectures et d'autres autorités de l'Etat;
+- b) les avocats et avocates autorisés à pratiquer dans le canton de Fribourg;
+- c) les notaires au bénéfice d'une patente fribourgeoise.
+
+<sup>2</sup> L'accès est sécurisé par un nom d'utilisateur et un mot de passe et limité aux rubriques de la Feuille officielle correspondant aux besoins avérés des différentes autorités et catégories professionnelles.
+
+#### Art. 4g
+
+**Accès aux anciennes éditions – Modalités**
+
+<sup>1</sup> Sur proposition motivée des autorités et organisations professionnelles concernées, la Chancellerie d'Etat définit les rubriques de la Feuille officielle qui leur sont accessibles.
+
+<sup>2</sup> L'octroi de l'accès est en outre subordonné à la signature d'une convention définissant les droits et obligations des bénéficiaires, notamment en lien avec le traitement des données personnelles contenues dans les anciennes éditions.
+
+<sup>3</sup> L'accès donne lieu à un émolument annuel de 300 francs. Il est gratuit pour les préfectures et les autres autorités de l'Etat.
+
+<sup>4</sup> La Chancellerie d'Etat statue sur les demandes d'accès. Elle peut retirer l'accès s'il existe un soupçon fondé que son ou sa bénéficiaire ne respecte pas les termes de la convention.
 
 #### Art. 5
 
