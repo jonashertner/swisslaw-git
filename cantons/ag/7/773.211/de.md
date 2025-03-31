@@ -4,13 +4,13 @@ number: "773.211"
 title: Energieverordnung
 short: EnergieV
 language: de
-version: 2024-07-01
-valid_until: 2025-03-31
-version_adopted: 2024-03-13
+version: 2025-04-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-25
 adopted: 2012-07-04
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3538/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3538/pdf_file"
 
 (EnergieV)
 
-Vom 04.07.2012 (Stand 01.07.2024)
+Vom 04.07.2012 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -87,26 +87,27 @@ beschliesst:
 
 #### § 5
 
-**Winterlicher Wärmeschutz**
+**Winterlicher Wärmeschutz, Anforderungen und Nachweis**
 
-<sup>1</sup> Die Anforderungen an den Wärmeschutz von Bauten und Anlagen richten sich – ausser bei Kühlräumen, Gewächshäusern, Traglufthallen und Geflügelställen – nach den Absätzen 2–6.
+<sup>1</sup> Die Anforderungen an den Wärmeschutz von Bauten und Anlagen richten sich – ausser bei Kühlräumen, Gewächshäusern, Traglufthallen und Geflügelställen – nach den nachfolgenden Absätzen.
 
-<sup>2</sup> Für den Nachweis eines ausreichenden Wärmeschutzes gilt die Norm SIA 380/1 «Heizwärmebedarf» (Anhang 1).
+<sup>2</sup> Für den Nachweis eines ausreichenden Wärmeschutzes sind die zwei in der Norm SIA 380/1 «Heizwärmebedarf» (Anhang 1) definierten Verfahren mit folgenden Einschränkungen anzuwenden:
 
-<sup>3</sup> Der Nachweis, dass Einzelanforderungen an die Wärmedämmung der einzelnen Teile der Gebäudehülle erfüllt sind, erfolgt
+- a) Für Neubauten und neue Bauteile bei Umbauten und Umnutzungen gelten zur Einhaltung von Einzelanforderungen an die Wärmedämmung der einzelnen Teile der Gebäudehülle die Anforderungen gemäss Anhang 2 Ziffer 1,
+- b) für alle vom Umbau oder von der Umnutzung betroffenen Bauteile gelten zur Einhaltung von Einzelanforderungen an die Wärmedämmung der einzelnen Teile der Gebäudehülle die Anforderungen gemäss Anhang 2 Ziffer 2,
+- c) zur Einhaltung der Systemanforderung in Form eines spezifischen Heizwärmebedarfs und einer spezifischen Heizleistung erfolgt die Berechnung des Grenzwerts für die Systemanforderung und die spezifische Heizleistung anhand der Werte gemäss Anhang 3.
 
-- a) für Neubauten und für neue Bauteile bei Umbauten und Umnutzungen nach den Anforderungen gemäss Anhang 2,
-- b) für alle vom Umbau oder von der Umnutzung betroffenen Bauteile nach den Anforderungen gemäss Anhang 3.
+<sup>3</sup> …
 
-<sup>4</sup> Der Nachweis, dass die Systemanforderung erfüllt ist, erfolgt aufgrund einer spezifischen Berechnung des Heizwärmebedarfs gemäss den Werten in Anhang 4.
+<sup>4</sup> …
 
-<sup>5</sup> Der Systemnachweis für Umbauten und Umnutzungen hat alle Räume zu erfassen, die Bauteile aufweisen, die vom Umbau oder von der Umnutzung betroffen werden. Die vom Umbau oder der Umnutzung nicht betroffenen Räume können ebenfalls in den Systemnachweis einbezogen werden. Der Heizwärmebedarf darf den in früher erteilten Baubewilligungen direkt oder indirekt über Einzelanforderungen geforderten Grenzwert nicht überschreiten.
+<sup>5</sup> Der Systemnachweis für Umbauten und Umnutzungen hat alle Räume zu umfassen, die Bauteile aufweisen, die vom Umbau oder von der Umnutzung betroffen werden. Die vom Umbau oder der Umnutzung nicht betroffenen Räume können ebenfalls in den Systemnachweis einbezogen werden. Der Heizwärmebedarf darf den in früher erteilten Baubewilligungen direkt oder indirekt über Einzelanforderungen geforderten Grenzwert nicht überschreiten.
 
-<sup>6</sup> Der Systemnachweis für die Bezirke Rheinfelden und Laufenburg sowie die Gemeinden Mandach, Möhnthal, Elfingen[^5-1], Bözen[^5-2], Effingen[^5-3] und Densbüren stützt sich auf die Daten der Klimastation Basel-Binningen und für den restlichen Kanton auf die Daten der Klimastation Buchs-Aarau.
+<sup>6</sup> Beim Systemnachweis sind für die Bezirke Rheinfelden und Laufenburg sowie die Gemeinden Mandach, Möhnthal und Densbüren die Daten der Klimastation Basel–Binningen und für den restlichen Kanton die Daten der Klimastation Buchs–Aarau zu verwenden. Im Weiteren gilt:
 
-[^5-1]: Zusammenschluss der Gemeinden Bözen, Effingen, Elfingen und Hornussen zur Gemeinde Böztal per 1. Januar 2022 (GRB 2020-1958)
-[^5-2]: Zusammenschluss der Gemeinden Bözen, Effingen, Elfingen und Hornussen zur Gemeinde Böztal per 1. Januar 2022 (GRB 2020-1958)
-[^5-3]: Zusammenschluss der Gemeinden Bözen, Effingen, Elfingen und Hornussen zur Gemeinde Böztal per 1. Januar 2022 (GRB 2020-1958)
+- a) Auf eine Klimakorrektur der Grenzwerte bei den Einzelanforderungen wird verzichtet,
+- b) beim Systemnachweis gilt der mit den Werten von Anhang 3 errechnete Grenzwert Q<sub>H,li</sub> für eine Jahresmitteltemperatur von 9,4 °C. Er wird um 6 % pro K höhere oder tiefere Jahresmitteltemperatur der Klimastation reduziert beziehungsweise erhöht,
+- c) die Anpassung des Grenzwerts P<sub>H,li</sub> erfolgt entsprechend der Abweichung der Auslegungstemperatur zu -8 °C.
 
 #### § 6
 
@@ -114,7 +115,7 @@ beschliesst:
 
 <sup>1</sup> Der sommerliche Wärmeschutz ist nachzuweisen.
 
-<sup>2</sup> Bei gekühlten Räumen sind die Anforderungen an den g-Wert, die Steuerung und die Windfestigkeit des Sonnenschutzes nach dem Stand der Technik einzuhalten.
+<sup>2</sup> Bei gekühlten Räumen oder bei Räumen, bei denen eine Kühlung notwendig oder erwünscht ist, sind die Anforderungen an den g-Wert, die Steuerung und die Windfestigkeit des Sonnenschutzes gemäss dem Stand der Technik einzuhalten.
 
 <sup>3</sup> Bei anderen Räumen sind die Anforderungen an den g-Wert des Sonnenschutzes nach dem Stand der Technik einzuhalten.
 
@@ -134,27 +135,45 @@ beschliesst:
 
 - a) Bauten, deren Baubewilligung auf maximal 3 Jahre befristet ist (provisorische Bauten),
 - b) Umnutzungen, wenn damit keine Räume neu unter § 6 fallen,
-- c) Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird.
+- c) Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird und die Behaglichkeit gewährleistet ist,
+- d) Gebäude der Kategorie XII und Räume, die nicht dem längeren Aufenthalt von Personen dienen (unter einer Stunde pro Tag),
+- e) Bauteile, die aus betrieblichen Gründen nicht ausgerüstet werden können.
 
 #### § 8
 
-**Höchstanteil an nichterneuerbaren Energien**
+**Anforderungen an die Deckung des Wärmebedarfs von Neubauten und Erweiterungen**
 
-<sup>1</sup> Neubauten und Erweiterungen von bestehenden Bauten (Aufstockungen, Anbauten usw.) müssen so gebaut und ausgerüstet werden, dass höchstens 80 % des zulässigen Wärmebedarfs für Heizung und Warmwasser mit nichterneuerbaren Energien gedeckt werden.
+<sup>1</sup> Der gewichtete Energiebedarf für Heizung, Warmwasser, Lüftung und Klimatisierung E<sub>HWLK</sub> in Neubauten und Erweiterungen darf pro Jahr den Grenzwert gemäss Anhang 6 nicht überschreiten.
 
-<sup>2</sup> Diese Anforderung gilt als erbracht, wenn eine der Standardlösungen gemäss Anhang 9 fachgerecht ausgeführt wird.
+<sup>2</sup> Bei Vorhaben der Kategorien VI und XI gilt die Anforderung ohne Berücksichtigung des Bedarfs für Warmwasser. Bei Vorhaben der Kategorien VI, XI und XII sind mindestens 20 % der Energie für die Wassererwärmung aus erneuerbarer Energie zu decken. Bei Vorhaben der Kategorie XII sind die Nutzung der Abwärme aus Fortluft, Bade- und Duschwasser zu optimieren.
 
-<sup>3</sup> Von den Anforderungen gemäss den Absätzen 1 und 2 sind Erweiterungen von bestehenden Bauten befreit, wenn die neu geschaffene Energiebezugsfläche kleiner ist als 50 m² oder höchstens 20 % der Energiebezugsfläche des bestehenden Teils der Baute und nicht mehr als 1'000 m² beträgt.
+<sup>2<sup>bis</sup></sup> Die Anforderungen müssen mit Massnahmen am Standort erfüllt werden.
+
+<sup>3</sup> Von den Anforderungen gemäss Absatz 1 befreit sind Erweiterungen von bestehenden Bauten, wenn die neu geschaffene Energiebezugsfläche weniger als 50 m² beträgt oder wenn sie maximal 20 % der Energiebezugsfläche des bestehenden Teils der Baute und nicht mehr als 1'000 m² beträgt.
+
+<sup>4</sup> Bei Räumen mit Raumhöhen über 3 m in Gebäuden der Kategorien III–XII kann eine Raumhöhenkorrektur mit Bezugshöhe von 3 m angewendet werden.
 
 #### § 9
 
 **Berechnungsregeln**
 
-<sup>1</sup> Der zulässige Wärmebedarf für Neubauten ergibt sich aus dem Grenzwert für den Heizwärmebedarf gemäss § 5 und dem Wärmebedarf für Warmwasser entsprechend der Standardnutzung gemäss Norm SIA 380/1 (Anhang 1).
+<sup>1</sup> Zur Berechnung des gewichteten Energiebedarfs für Heizung, Warmwasser, Lüftung und Klimatisierung wird der Nutzwärmebedarf für Heizung Q<sub>H,eff</sub> und Warmwasser Q<sub>W</sub> mit den Nutzungsgraden η der gewählten Wärmeerzeugungen dividiert und mit dem Gewichtungsfaktor g der eingesetzten Energieträger multipliziert. Der ebenfalls mit dem entsprechenden Gewichtungsfaktor g gewichtete Elektrizitätsaufwand für Lüftung und Klimatisierung E<sub>LK</sub> wird dazuaddiert.
 
-<sup>2</sup> Elektrizität wird mit dem Faktor 2 gewichtet.
+<sup>2</sup> In der Regel wird nur die dem Gebäude zugeführte hochwertige Energie für Raumheizung, Warmwasser, Lüftung und Raumklimatisierung in den Energiebedarf eingerechnet. Die nutzungsabhängigen Prozessenergien werden nicht in den Energiebedarf eingerechnet.
 
-<sup>3</sup> Bei Bauten mit mechanischen Lüftungsanlagen kann bei der Berechnung des Heizwärmebedarfs der effektive Energiebedarf für Lüftung inklusive Energiebedarf für Luftförderung eingesetzt werden. Der hygienisch notwendige Aussenluftvolumenstrom ist dabei zu gewährleisten.
+<sup>3</sup> Elektrizität aus Eigenstromerzeugung wird nicht in die Berechnung des gewichteten Energiebedarfs einbezogen. Ausgenommen ist Elektrizität aus Wärme-Kraft-Koppelungsanlagen (WKK-Anlagen).
+
+<sup>4</sup> Für die Gewichtung der Energieträger gelten die von der Konferenz Kantonaler Energiedirektoren (EnDK) definierten nationalen Gewichtungsfaktoren.[^9-1]
+
+[^9-1]: [www.endk.ch/de/ablage](https://www.endk.ch/de/ablage): Dokument "Gewichtungsfaktoren 2017" (in der Rubrik: "Energiepolitik der Kantone")
+
+#### § 9a
+
+**Nachweis mittels Standardlösungskombinationen**
+
+<sup>1</sup> Für die Gebäudekategorien I und II gilt die Anforderung gemäss § 4a EnergieG als erbracht, wenn eine der Standardlösungskombinationen aus Gebäudehülle/Wärmeerzeugung (Anhang 7) fachgerecht umgesetzt wird.
+
+<sup>2</sup> Die Anforderung gemäss § 4a EnergieG gilt als erbracht, wenn die Massnahmen gemäss «Energienachweistool für einfache Bauten (ENteb)» (EN-101c) fachgerecht umgesetzt werden.
 
 #### § 10
 
@@ -166,13 +185,13 @@ beschliesst:
 - b) gegen Aussenklima: 20 °C,
 - c) gegen Erdreich oder unbeheizte Räume: 10 °C.
 
-<sup>2</sup> Für Kühl- und Tiefkühlräume mit weniger als 30 m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U ≤ 0,15 W/m²K einhalten.
+<sup>2</sup> Für Kühl- und Tiefkühlräume mit weniger als 30 m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U ≤ 0,15 W/(m²·K) einhalten.
 
 #### § 11
 
 **Beheizte Traglufthallen und Gewächshäuser**
 
-<sup>1</sup> Für beheizte Traglufthallen sowie für gewerbliche und landwirtschaftliche Gewächshäuser, in denen für die Aufzucht, Produktion oder Vermarktung von Pflanzen vorgegebene Wachstumsbedingungen aufrechterhalten werden müssen, gelten die Anforderungen der Empfehlungen «Beheizte Gewächshäuser» und «Beheizte Traglufthallen» (Anhang 1).
+<sup>1</sup> Für beheizte Traglufthallen sowie für gewerbliche und landwirtschaftliche Gewächshäuser, in denen für die Aufzucht, Produktion oder Vermarktung von Pflanzen vorgegebene Wachstumsbedingungen aufrechterhalten werden müssen, gelten die Anforderungen der Empfehlungen EN-131 «Beheizte Gewächshäuser» und EN-132 «Traglufthallen» (Anhang 1).
 
 ### 1.3. Haustechnische Anlagen
 
@@ -180,14 +199,17 @@ beschliesst:
 
 **Wassererwärmer und Wärmespeicher**
 
-<sup>1</sup> Wassererwärmer sowie Warmwasser- und Wärmespeicher, für die nach Bundesrecht keine energetischen Anforderungen bestehen, dürfen bezüglich allseitiger Wärmedämmung die Dämmstärken gemäss Anhang 5 nicht unterschreiten.
+<sup>1</sup> …
 
 <sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von max. 60 °C auszulegen. Ausgenommen sind Wassererwärmer, deren Temperatur aus betrieblichen oder hygienischen Gründen höher sein muss.
 
-<sup>3</sup> Der Neueinbau einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn
+<sup>3</sup> Die direkt-elektrische Erwärmung ist erlaubt, wenn das Brauchwarmwasser
 
-- a) das Brauchwarmwasser während der Heizperiode mit dem Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird oder
-- b) das Brauchwarmwasser primär mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird.
+- a) während der Heizperiode mit dem Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird,
+- b) zu mindestens 50 % mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird oder
+- c) in kleineren Mengen in nicht gewerblich genutzten Küchen genutzt wird.
+
+<sup>3<sup>bis</sup></sup> Der Ersatz eines einzelnen dezentralen Wassererwärmers ist ausnahmsweise zulässig, wenn eine andere Lösung technisch nicht möglich, nicht sinnvoll oder der Aufwand unverhältnismässig ist.
 
 <sup>4</sup> Die gleiche Anforderung gilt auch bei einem Komplettersatz der Warmwasserversorgung in bestehenden Bauten, soweit dies technisch möglich und der Aufwand verhältnismässig ist.
 
@@ -197,20 +219,20 @@ beschliesst:
 
 <sup>1</sup> Die Vorlauftemperaturen für neue oder ersetzte Wärmeabgabesysteme dürfen bei der massgebenden Auslegetemperatur höchstens 50 °C, bei Fussbodenheizungen höchstens 35 °C betragen. Ausgenommen sind Hallenheizungen mittels Bandstrahler sowie Heizungssysteme für Gewächshäuser und Ähnliches, sofern diese nachgewiesenermassen eine höhere Vorlauftemperatur benötigen.
 
-<sup>2</sup> Folgende neue oder im Rahmen eines Umbaus neu erstellte Installationen inklusive Armaturen und Pumpen sind durchgehend mindestens mit den Dämmstärken gemäss Anhang 6 gegen Wärmeverluste zu dämmen:
+<sup>2</sup> Folgende neue oder im Rahmen eines Umbaus neu erstellte Installationen inklusive Armaturen und Pumpen sind durchgehend mindestens mit den Dämmstärken gemäss Anhang 4 gegen Wärmeverluste zu dämmen:
 
 - a) Verteilleitungen der Heizung in unbeheizten Räumen und im Freien,
-- b) Warmwasserleitungen in unbeheizten Räumen und im Freien, ausgenommen Stichleitungen ohne Begleitheizungen zu einzelnen Zapfstellen,
-- c) Warmwasserleitungen von Zirkulationssystemen oder Warmwasserleitungen mit Begleitheizungen in beheizten Räumen,
+- b) alle warmgehaltenen Teile des Warmwasserverteilsystems, in beheizten oder unbeheizten Räumen und im Freien,
+- c) …
 - d) Warmwasserleitungen vom Speicher bis zum Verteiler (inklusive Verteiler).
 
 <sup>3</sup> In begründeten Fällen wie beispielsweise bei Kreuzungen, Wand- und Deckendurchbrüchen, bei maximalen Vorlauftemperaturen von 30 °C und bei Armaturen, Pumpen usw. können die Dämmstärken reduziert werden. Die angegebenen Dämmstärken gelten für Betriebstemperaturen bis 90 °C; bei höheren Betriebstemperaturen sind die Dämmstärken angemessen zu erhöhen.
 
-<sup>4</sup> Bei erdverlegten Leitungen dürfen die UR-Werte gemäss Anhang 7 nicht überschritten werden.
+<sup>4</sup> Bei erdverlegten Leitungen dürfen die U<sub>R</sub>-Werte gemäss Anhang 5 nicht überschritten werden.
 
 <sup>5</sup> Beim Ersatz des Wärmeerzeugers sind frei zugängliche Leitungen den Anforderungen gemäss Absatz 2 anzupassen, soweit es die örtlichen Platzverhältnisse zulassen.
 
-<sup>6</sup> In beheizten Räumen sind Einrichtungen zu installieren, die es ermöglichen, die Raumlufttemperatur einzeln einzustellen und selbsttätig zu regeln. Ausgenommen sind Räume, die überwiegend mittels träger Flächenheizungen mit einer Vorlauftemperatur von höchstens 30 °C beheizt werden.
+<sup>6</sup> In beheizten Räumen sind Einrichtungen zu installieren, die es ermöglichen, die Raumlufttemperatur einzeln einzustellen und selbsttätig zu regeln. Ausgenommen sind Räume, die überwiegend mittels träger Flächenheizungen mit einer Vorlauftemperatur von höchstens 30 °C beheizt werden. In diesem Fall ist mindestens eine Referenzraumregelung pro Wohn- oder Nutzeinheit zu installieren.
 
 #### § 14
 
@@ -222,9 +244,9 @@ beschliesst:
 
 **Lüftungstechnische Anlagen**
 
-<sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten, welche einen Temperatur-Änderungsgrad nach dem Stand der Technik aufweist.
+<sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten. Der Temperatur-Änderungsgrad muss dem Stand der Technik entsprechen, wenn die Verordnung über die Anforderungen an die Energieeffizienz serienmässig hergestellter Anlagen, Fahrzeuge und Geräte (Energieeffizienzverordnung, EnEV) vom 1. November 2017[^15-1] dies nicht regelt.
 
-<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten, sofern der Abluftvolumenstrom mehr als 1'000 m³/h und die Betriebsdauer mehr als 500 h/a beträgt. Dabei gelten mehrere getrennte einfache Abluftanlagen in derselben Baute als eine Anlage.
+<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten, wenn der Abluftvolumenstrom mehr als 1'000 m³/h und die Betriebsdauer mehr als 500 h/a beträgt. Dabei gelten mehrere getrennte einfache Abluftanlagen in derselben Baute als eine Anlage. Andere Lösungen sind zulässig, wenn mit einer fachgerechten Energieverbrauchsrechnung nachgewiesen wird, dass kein erhöhter Energieverbrauch eintritt.
 
 <sup>3</sup> Bezogen auf die Nettofläche dürfen die Luftgeschwindigkeiten in Apparaten 2 m/s und im massgebenden Strang der Kanäle folgende Werte nicht überschreiten:
 
@@ -238,39 +260,44 @@ beschliesst:
 
 <sup>5</sup> Lufttechnische Anlagen für Räume oder Raumgruppen mit wesentlich abweichenden Nutzungen oder Betriebszeiten sind mit Einrichtungen auszurüsten, die einen individuellen Betrieb ermöglichen.
 
+[^15-1]: SR [730.02](https://db.clex.ch/link/Bund/730.02/de)
+
 #### § 16
 
 **Wärmedämmung von lüftungstechnischen Anlagen**
 
-<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegungsfall und λ-Wert des Dämmmaterials (Anhang 8) gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie beispielsweise bei Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Erneuerungen und Sanierungen können die Dämmstärken reduziert werden.
+<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegungsfall und λ-Wert des Dämmmaterials gemäss Norm SIA 382/1, Ziffer 5.9, (Anhang 1) gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen, wie beispielsweise bei kurzen Leitungsstücken, Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen, können die Dämmstärken reduziert werden.
 
 #### § 17
 
 **Kühlen, Be- und Entfeuchten**
 
-<sup>1</sup> Die Installation neuer und der Ersatz bestehender Anlagen für Kühlung, Befeuchtung und Entfeuchtung ist immer zulässig, wenn der elektrische Leistungsbedarf für die Medienförderung und -aufbereitung einschliesslich Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung nicht mehr als 7 W/m² in Neubauten und 12 W/m² in bestehenden Bauten beträgt.
+<sup>1</sup> Die Installation neuer und der Ersatz bestehender Anlagen für Kühlung, Befeuchtung und Entfeuchtung in bestehenden Bauten ist immer zulässig, wenn der elektrische Leistungsbedarf für die Medienförderung und -aufbereitung einschliesslich Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 12 W/m² nicht überschreitet.
 
 <sup>2</sup> Bei Anlagen, welche nicht unter Absatz 1 fallen, müssen die Befeuchtung und bei Komfortkühlung ausserdem die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik ausgelegt und betrieben werden.
 
 #### § 18
 
-**Grenzwerte für den Elektrizitätsbedarf**
+**Grenzwerte für den Elektrizitätsbedarf von Beleuchtungen**
 
-<sup>1</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1'000 m² muss nach der Norm SIA 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen» (Anhang 1) nachgewiesen werden, dass der jährliche Elektrizitätsbedarf die Grenzwerte für die Beleuchtung E’Li nicht überschreitet. Der Nachweis für die Einhaltung der Grenzwerte des jährlichen Elektrizitätsbedarfs für die Lüftung E’V oder für die Lüftung/Klimatisierung E’VCH ist weiterhin entsprechend der Norm SIA 380/4 «Elektrische Energie im Hochbau», Ausgabe 2006, zu erbringen. Davon ausgenommen sind Wohnbauten oder Teile davon sowie Bauten, für die das Minergie-Label zugesichert und erteilt wurde.
+<sup>1</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1'000 m² muss die Einhaltung der Grenzwerte für den jährlichen Elektrizitätsbedarf für Beleuchtung E<sub>L</sub> gemäss SIA 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen» (Anhang 1) nachgewiesen werden. Davon ausgenommen sind Wohnbauten oder Teile davon.
 
-<sup>2</sup> Auf den Nachweis der Einhaltung des jeweiligen Grenzwerts für den jährlichen Elektrizitätsbedarf kann verzichtet werden:
+<sup>2</sup> Die Anforderung gemäss Absatz 1 gilt ebenfalls als erfüllt, wenn mit dem Hilfsprogramm «EN-111a Einfacher Beleuchtungsnachweis» der Konferenz Kantonaler Energiefachstellen (EnFK)[^18-1] oder dem Hilfsprogramm «CalcuLight – Berechnungshilfe für Beleuchtung nach SIA 387/4» des Bundesamts für Energie und des Vereins MINERGIE[^18-2] nachgewiesen wird, dass die Vorgabe an die spezifische Leistung p<sub>L</sub>, bestimmt aus Grenz- respektive Zielwert gemäss Tabelle 13 der Norm SIA 387/4, eingehalten wird.
 
-- a) bei der Beleuchtung, wenn der Zielwert für die spezifische Leistung pLi eingehalten ist,
-- b) bei der Lüftung, wenn der Grenzwert für die spezifische Leistung pV eingehalten oder die mechanisch belüftete Nettofläche kleiner ist als 500 m²,
-- c) bei der Lüftung/Klimatisierung, wenn der elektrische Leistungsbedarf bei neuen Anlagen nicht mehr als 7 W/m², bei Erneuerung, Umbau oder Änderung haustechnischer Anlagen nicht mehr als 12 W/m² beträgt.
+- a) …
+- b) …
+- c) …
+
+[^18-1]: [www.endk.ch](https://www.endk.ch) &gt; Fachleute &gt; Energienachweis: EN-100 bis EN-142 (MuKEn 2014) &gt; EN-111a "Einfacher Beleuchtungsnachweis"
+[^18-2]: [www.bfe.admin.ch](https://www.bfe.admin.ch) &gt; Publikationen
 
 #### § 19
 
 **Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
 
-<sup>1</sup> Sind bei Neubauten Geräte zur Erfassung des Wärmeverbrauchs für die Heizung zu installieren, muss bei Flächenheizungen für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 W/m²K eingehalten werden.
+<sup>1</sup> Sind bei Gebäuden Geräte zur Erfassung des Wärmeverbrauchs für die Heizung zu installieren, muss bei Flächenheizungen für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 W/(m²·K) eingehalten werden.
 
-<sup>2</sup> Bestehende Gruppen von Bauten mit zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs für die Heizung pro Baute auszurüsten, wenn an einer oder mehreren Bauten die Gebäudehülle zu über 75 % energetisch verbessert wird.
+<sup>2</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs für die Heizung pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75 % energetisch verbessert wird.
 
 #### § 20
 
@@ -278,20 +305,18 @@ beschliesst:
 
 <sup>1</sup> In Bauten, für die eine Ausrüstungspflicht besteht, sind die Kosten für den Wärmeverbrauch (Heizenergie und eventuell Warmwasser) zum überwiegenden Teil anhand des gemessenen Verbrauchs der einzelnen Nutzeinheiten abzurechnen.
 
-<sup>2</sup> Für die entsprechenden Abrechnungen dürfen nur Geräte verwendet werden, welche die Anforderungen gemäss der Verordnung des EJPD über Messgeräte für thermische Energie vom 19. März 2006[^20-1] erfüllen.
+<sup>2</sup> …
 
-<sup>3</sup> Für die Verteilung der Kosten gelten die im Abrechnungsmodell des Bundesamts für Energie formulierten Grundsätze.
-
-[^20-1]: SR [941.231](https://db.clex.ch/link/Bund/941.231/de)
+<sup>3</sup> …
 
 #### § 21
 
-**Befreiung bei Neubauten und bei wesentlichen Erneuerungen**
+**Befreiung bei wesentlichen Erneuerungen**
 
-<sup>1</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs sind Bauten befreit,
+<sup>1</sup> Bauten, deren installierte Wärmeerzeugerleistung (inklusive Warmwasser) weniger als 20 Watt pro m² Energiebezugsfläche beträgt, sind von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs befreit.
 
-- a) deren installierte Wärmeerzeugerleistung (inklusive Warmwasser) weniger als 20 Watt pro m² Energiebezugsfläche beträgt oder
-- b) die wenigstens den MINERGIE®-Standard erfüllen.
+- a) …
+- b) …
 
 #### § 22
 
@@ -312,30 +337,84 @@ JKfossil ≤ fU x JKnichtfossil.
 - c) für Heizöl, Erdgas und Holz gelten die Daten des Bundesamts für Statistik,
 - d) als Diskontsatz gilt der Hypothekarzins für 1. Hypotheken der Aargauischen Kantonalbank.
 
+<sup>4<sup>bis</sup></sup> Beim Heizungsersatz werden die Mehrkosten der Anforderung an die Erfüllung des maximalen Anteils nichterneuerbarer Energie von 90 % nicht berücksichtigt.
+
 <sup>5</sup> Das BVU publiziert die Energiekosten und den Diskontsatz und stellt eine Berechnungshilfe zur Verfügung.
 
-<sup>6</sup> Beim Ersatz einer bestehenden Heizungsanlage mit fossilen Brennstoffen durch eine Anlage mit gleichem Energieträger wird kein Kostennachweis verlangt.
+<sup>6</sup> …
+
+#### § 22a
+
+**Erneuerbare Wärme beim Ersatz des Wärmeerzeugers**
+
+<sup>1</sup> Ein Ersatz des Wärmeerzeugers ist zulässig, wenn die Meldepflichtigen nachweisen, dass
+
+- a) die fachgerechte Umsetzung einer Standardlösung (Anhang 8) gewährleistet ist,
+- b) die Zertifizierung des Gebäudes nach MINERGIE ausgewiesen ist oder
+- c) die Klasse D bei der GEAK‐Gesamtenergieeffizienz erreicht wird.
+
+<sup>2</sup> Für die Einreichung von Zertifikaten gemäss § 7a Abs. 4 EnergieG gilt Folgendes:
+
+- a) Die Berechnung der zu erwerbenden Zertifikate in kWh erfolgt nach folgender Formel: Energiebezugsfläche (EBF) [m²] x 100 kWh/(m²·a) x 20 Jahre [a] x 0.2,
+- b) das Vorhaben darf ausgeführt werden, wenn die Bilanzierungsstelle die Zertifikate für das Vorhaben entwertet hat und die Behörde innert 30 Tagen nach Eingang der Meldung keine Einwände erhebt.
+
+<sup>3</sup> Die Anforderungen müssen mit Massnahmen am Standort erfüllt werden.
+
+#### § 22b
+
+**Bagatellfall und finanzielle Härte**
+
+<sup>1</sup> Bauten mit gemischter Nutzung sind von den Anforderungen gemäss § 7a Abs. 2–5 EnergieG befreit, wenn der Wohnanteil 150 m² Energiebezugsfläche nicht überschreitet.
+
+<sup>2</sup> Eine finanzielle Härte gemäss § 7b Abs. 1 EnergieG kann geltend gemacht werden, wenn die durch die Umsetzung von § 7a Abs. 2 EnergieG entstehenden zusätzlichen Kosten 50 % der eigenen Mittel übersteigen.
+
+<sup>3</sup> Die zu berücksichtigenden eigenen Mittel setzen sich zusammen aus
+
+- a) dem jährlichen Einkommen und
+- b) 10 % des Vermögens.
+
+<sup>4</sup> Als Nachweis einzureichen sind
+
+- a) ein aktueller Variantenvergleich durch drei in Bezug auf die Investitionskosten günstigste Lösungen (Nachweis GEAK, MINERGIE, Standardlösungen) und
+- b) die letzte rechtskräftige Steuerveranlagung, wenn deren Bemessungszeitraum nicht mehr als zwei Jahre zurückliegt, andernfalls die aktuellen Einkommens- und Vermögensnachweise gemäss der letzten eingereichten Steuererklärung.
+
+#### § 22c
+
+**Meldeverfahren**
+
+<sup>1</sup> Die Erstellung oder der Ersatz folgender Energieerzeugungsanlagen ist unabhängig von einer Baubewilligungspflicht meldepflichtig:
+
+- a) Solaranlagen,
+- b) Wärmeerzeuger,
+- c) Elektrowassererwärmer.
+
+<sup>2</sup> Die Bauherrschaft erstattet die Meldung auf der kantonalen Plattform in der Regel 30 Tage vor Bauausführung, bei baubewilligungspflichtigen Anlagen mit Einreichung des Baugesuchs.
 
 #### § 23
 
 **Wärmeerzeugung**
 
-<sup>1</sup> Heizkessel von Neubauten, die mit fossilen Brennstoffen betrieben werden und eine Absicherungstemperatur von weniger als 110 °C aufweisen, müssen die Kondensationswärme ausnützen können.
+<sup>1</sup> Mit fossilen Brennstoffen betriebene Wärmeerzeuger bei Neubauten mit einer Absicherungstemperatur von weniger als 110 °C müssen die Kondensationswärme ausnützen können.
 
-<sup>2</sup> Die gleiche Anforderung gilt beim Ersatz einer Wärmeerzeugungsanlage, soweit dies technisch möglich und der Aufwand verhältnismässig ist.
+<sup>2</sup> Die gleiche Anforderung gilt beim Ersatz einer Wärmeerzeugungsanlage, soweit es technisch und betrieblich möglich und wirtschaftlich tragbar ist.
 
 #### § 24
 
 **Ortsfeste elektrische Widerstandsheizungen**
 
-<sup>1</sup> Elektrische Widerstandsheizungen sind Heizungen, welche elektrischen Strom direkt in Wärme umwandeln. Herkömmliche ortsfeste elektrische Widerstandsheizungen dürfen in folgenden Fällen installiert werden:
+<sup>1</sup> Elektrische Widerstandsheizungen sind Heizungen, die elektrischen Strom direkt in Wärme umwandeln. Herkömmliche ortsfeste elektrische Widerstandsheizungen dürfen in folgenden Fällen installiert werden:
 
 - a) als Notheizung
-  - 1\. für Aussentemperaturen unter der Auslegungstemperatur der Hauptheizung,
+  - 1\. bei Wärmepumpen für Aussentemperaturen unter der Auslegungstemperatur der Hauptheizung,
   - 2\. zusätzlich zu handbeschickten Holzheizungen zur Deckung eines Leistungsbedarfs bis 50 %,
 - b) als Komfortheizungen für eng begrenzte Heizzwecke, wie zum Beispiel Handtuchradiatoren oder Heizstrahler in Badezimmern,
 - c) wenn der Heizleistungsbedarf weniger als 5 Watt pro Quadratmeter Energiebezugsfläche beträgt,
 - d) in einzelnen Kellerräumen von bestehenden Gebäuden, um zusätzliche Nutzungen im Sinne des verdichteten Bauens zu ermöglichen.
+
+<sup>1<sup>bis</sup></sup> Auf begründetes Gesuch hin kann ausnahmsweise die Installation neuer oder der Ersatz bestehender ortsfester elektrischer Widerstandsheizungen bewilligt werden, wenn die betroffene Baute abgelegen oder schlecht zugänglich ist und die Installation eines anderen Heizsystems technisch nicht möglich, wirtschaftlich nicht zumutbar oder in Anbetracht der Gesamtumstände unverhältnismässig ist. Solche Ausnahmen können insbesondere gewährt werden für
+
+- a) Schutzbauten,
+- b) die Beheizung einzelner Arbeitsplätze in ungenügend oder nicht beheizten Räumen.
 
 <sup>2</sup> Das BVU kann besonders sparsame ortsfeste elektrische Widerstandsheizungen als Hauptheizungen ausnahmsweise bewilligen, wenn sie gegenüber herkömmlichen Widerstandsheizungen einen Energiebedarf von höchstens 40 % haben und ein unabhängiges Gutachten den Energieverbrauch bestätigt.
 
@@ -485,7 +564,9 @@ JKfossil ≤ fU x JKnichtfossil.
 
 **Netzgebiete (§ 23 EnergieG)**
 
-<sup>1</sup> Für die Zuweisung der Netzgebiete gilt die Karte 1:50'000 «Netzgebiete der Elektrizitätsversorgung im Kanton Aargau» vom 27. Juni 2012. Sie ist beim BVU einsehbar.
+<sup>1</sup> Das BVU orientiert die Öffentlichkeit elektronisch, welche Netzgebiete den Energieversorgungsunternehmen zugewiesen sind.[^36-1]
+
+[^36-1]: Die Zuweisungen sind in der Online-Karte «Stromversorgung: Netzgebiete» aufgeführt, veröffentlicht unter: [www.ag.ch/geoportal](https://www.ag.ch/geoportal) &gt; Online Karten &gt; Online Karten starten.
 
 ## 5. Zuständige Behörde und Rechtsschutz
 
