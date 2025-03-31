@@ -4,13 +4,13 @@ number: "370.130"
 title: Verordnung über den elektronischen Rechtsverkehr
 short: VERV
 language: de
-version: 2024-04-01
-valid_until: 2025-03-31
-version_adopted: 2024-03-05
+version: 2025-04-01
+valid_until: 2026-04-30
+version_adopted: 2025-03-18
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3365/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3365/pdf_file"
 
 (VERV)
 
-Vom 05.03.2024 (Stand 01.04.2024)
+Vom 05.03.2024 (Stand 01.04.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und auf Art. 6e Abs. 3, Art. 17 Abs. 4 und Art. 23a Abs. 3 des Gesetzes über die Verwaltungsrechtspflege[^ingress-2]
 

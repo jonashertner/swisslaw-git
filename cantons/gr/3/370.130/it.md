@@ -4,13 +4,13 @@ number: "370.130"
 title: Ordinanza sullo scambio di atti giuridici per via elettronica
 short: OAGE
 language: it
-version: 2024-04-01
-valid_until: 2025-03-31
-version_adopted: 2024-03-05
+version: 2025-04-01
+valid_until: 2026-04-30
+version_adopted: 2025-03-18
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3365/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3541/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3365/pdf_file"
 
 (OAGE)
 
-del 05.03.2024 (stato 01.04.2024)
+del 05.03.2024 (stato 01.04.2025)
 
 emanata dal Governo il 5 marzo 2024
 

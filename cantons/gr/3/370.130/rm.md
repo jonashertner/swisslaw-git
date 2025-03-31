@@ -4,13 +4,13 @@ number: "370.130"
 title: Ordinaziun davart la correspundenza giuridica electronica
 short: OCGE
 language: rm
-version: 2024-04-01
-valid_until: 2025-03-31
-version_adopted: 2024-03-05
+version: 2025-04-01
+valid_until: 2026-04-30
+version_adopted: 2025-03-18
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3365/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3365/pdf_file"
 
 (OCGE)
 
-dals 05-03-2024 (versiun dals 01-04-2024)
+dals 05-03-2024 (versiun dals 01-04-2025)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] sco er sin l'art. 6e al. 3, l'art. 17 al. 4 e l'art. 23a al. 3 da la Lescha davart la giurisdicziun administrativa[^ingress-2]
 
