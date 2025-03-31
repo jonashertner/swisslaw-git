@@ -4,13 +4,12 @@ number: "152.053.3"
 title: "Ordonnance de Direction sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par la Direction de la sécurité"
 short: FDP OD DSE
 language: fr
-version: 2024-10-01
-valid_until: 2025-03-31
-version_adopted: 2024-08-29
+version: 2025-04-01
+version_adopted: 2025-02-17
 adopted: 2022-02-07
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3061/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3149/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3061/pdf_file"
 
 (FDP OD DSE)
 
-du 07.02.2022 (état au 01.10.2024)
+du 07.02.2022 (état au 01.04.2025)
 
 La Direction de la sécurité du canton de Berne,
 
