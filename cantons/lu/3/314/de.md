@@ -4,13 +4,12 @@ number: "314"
 title: Kantonale Ordnungsbussenverordnung
 short: KOBV
 language: de
-version: 2023-01-01
-valid_until: 2025-03-31
-version_adopted: 2022-11-15
+version: 2025-04-01
+version_adopted: 2025-03-11
 adopted: 2019-11-26
 in_force: 2020-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/314"
-pdf: "https://srl.lu.ch/api/de/versions/3991/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3991/pdf_file"
 
 (KOBV)
 
-vom 26.11.2019 (Stand 01.01.2023)
+vom 26.11.2019 (Stand 01.04.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -94,7 +93,7 @@ beschliesst:
 
 <sup>1</sup> Die Luzerner Polizei führt eine Statistik, aus der die Anzahl sämtlicher nach eidgenössischem und nach kantonalem Recht erhobenen Ordnungsbussen für die einzelnen Übertretungstatbestände festgestellt werden kann.
 
-## Anhang 1 Ordnungsbussenliste für Widerhandlungen gegen § 8 Übertretungsstrafgesetz
+## Anhang 1 Ordnungsbussenliste für Widerhandlungen gegen die §§ 8 und 26a Übertretungsstrafgesetz
 
 #### § A1-1
 
@@ -110,6 +109,10 @@ beschliesst:
 <tr><td>10f</td><td>Wegwerfen, Ablagern oder Zurücklassen von Abfällen ausserhalb von Abfallanlagen oder Sammelstellen: Abfälle ab 35 Liter</td><td>220</td></tr>
 <tr><td>10g</td><td>Wegwerfen, Ablagern oder Zurücklassen von Abfällen ausserhalb von Abfallanlagen oder Sammelstellen: Abfälle ab 60 bis 110 Liter</td><td>300</td></tr>
 <tr><td>11</td><td>Verrichten der Notdurft innerhalb von bewohntem Gebiet</td><td>80</td></tr>
+<tr><td>12a</td><td>Betteln in aufdringlicher, einschüchternder oder aggressiver Art und Weise</td><td>100</td></tr>
+<tr><td>12b</td><td>Betteln von Haus zu Haus</td><td>100</td></tr>
+<tr><td>12c</td><td>Betteln an Orten mit hohem Personenaufkommen und beschränkten Platzverhältnissen wie Ein- und Ausgängen oder Haltestellen des öffentlichen Verkehrs nach missachteter Wegweisung</td><td>50</td></tr>
+<tr><td>12d</td><td>Betteln an sensiblen Örtlichkeiten wie Geld- und Zahlungsautomaten, Schulanlagen, Spielplätzen, Friedhöfen oder Unterführungen nach missachteter Wegweisung</td><td>50</td></tr>
 </table>
 
 ## Anhang 2 Ordnungsbussenliste für Widerhandlungen gegen Naturschutzrecht
