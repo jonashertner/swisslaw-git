@@ -5,12 +5,12 @@ title: Gesetz für die Volksschulen des Kantons Graubünden
 short: Schulgesetz
 language: de
 version: 2025-01-01
-valid_until: 2025-07-31
+corrected: 2025-04-02
 version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3543/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

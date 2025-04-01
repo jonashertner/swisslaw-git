@@ -5,12 +5,12 @@ title: Legge per le scuole popolari del Cantone dei Grigioni
 short: Legge scolastica
 language: it
 version: 2025-01-01
-valid_until: 2025-07-31
+corrected: 2025-04-02
 version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3543/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3396/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

@@ -5,12 +5,12 @@ title: Lescha davart las scolas popularas dal chantun Grischun
 short: lescha da scola
 language: rm
 version: 2025-01-01
-valid_until: 2025-07-31
+corrected: 2025-04-02
 version_adopted: 2022-06-14
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3543/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -141,7 +141,7 @@ concluda:
 
 #### Art. 12
 
-**Entrada en scola, anticipaziun e suspensiun da l'obligaziun d'ir a scola**
+**Entrada en scola, spustament e suspensiun da l'obligaziun d'ir a scola**
 
 <sup>1</sup> Uffants che han cumplenì il 5avel onn da vegliadetgna fin ils 31 da december pon entrar en il stgalim da scolina cun il cumenzament da l'onn da scola dal medem onn chalendar.
 
