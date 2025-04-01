@@ -3,20 +3,22 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2024-09-04
+version: 2025-04-02
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20240904/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20240904-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20240904/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20250402/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20250402-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20250402/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile
 
+RU **2003** 3431
+
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 4 settembre 2024)
+(Stato 2 aprile 2025)
 
 Traduzione
 
@@ -48,7 +50,7 @@ I compiti riservati a un’autorità federale in virtù del diritto svizzero app
 - 4\.[^t-2] la regolamentazione e la vigilanza dei servizi di sicurezza aerea, inclusi l’organizzazione dello spazio aereo, la denominazione dei fornitori del servizio, l’allestimento di carte aeronautiche, la preparazione di dati aeronautici, nonché la gestione delle frequenze di navigazione aerea conformemente alla legislazione nazionale e internazionale vigente in Svizzera;
 - 5\.[^t-3] la definizione di misure amministrative concernenti la polizia aerea e il controllo di polizia aerea dell’aviazione liechtensteinense in connessione con gli organi di polizia aerea locali;
 - 6\. la denuncia alle autorità liechtensteinensi ai fini del perseguimento delle infrazioni alle norme di polizia aerea; per quanto concerne la procedura vigono i disposti degli articoli 27–32 del Trattato di unione doganale del 29 marzo 1923 tra la Svizzera e il Liechtenstein;
-- 1\. l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
+- l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
 
 II
 
@@ -87,8 +89,8 @@ L’Ambasciata del Principato del Liechtenstein coglie questa occasione per rinn
 Allegati[^t-5]
 
 <table>
-<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 regolarmente e l’ultima volta il 4 set. 2024 (stato: 30 giugno 2024). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497)) ma possono essere consultati sul sito Internet: www.gesetze.li &gt; [LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2024329000).
+[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 2 apr. 2025 (stato: 31 dicembre 2024). Questi all. non sono pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247)), ma essere consultati sul sito Internet: www.gesetze.li &gt;[LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2025256000).

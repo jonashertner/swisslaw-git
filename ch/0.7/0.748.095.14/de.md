@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Notenaustausch vom 27. Januar 2003 zwischen der Schweiz und Liechtenstein betreffend die Zusammenarbeit der schweizerischen und der liechtensteinischen Behörden im Bereich der Zivilluftfahrt (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: de
-version: 2024-09-04
+version: 2025-04-02
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20240904/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20240904-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20240904/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20250402/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20250402-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20250402/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,13 @@ AS **2003** 3431
 
 In Kraft getreten am 27. Januar 2003
 
-(Stand am 4. September 2024)
+(Stand am 2. April 2025)
 
 Originaltext
 
 <table>
 <tr><td>Botschaft des Fürstentums Liechtenstein</td><td>Bern, den 27. Januar 2003</td></tr>
-<tr><td></td><td>Eidgenössisches Departement</td></tr>
-<tr><td></td><td>für auswärtige Angelegenheiten</td></tr>
-<tr><td></td><td>Bern</td></tr>
+<tr><td></td><td>Eidgenössisches Departement für auswärtige Angelegenheiten Bern</td></tr>
 </table>
 
 Die Botschaft des Fürstentums Liechtenstein entbietet dem Eidgenössischen Departement für auswärtige Angelegenheiten seine Hochachtung und beehrt sich, dem Departement den Empfang seiner Note vom 27. Januar 2003 zu bestätigen, welche wie folgt lautet:
@@ -52,7 +50,7 @@ Die gemäss anwendbarem schweizerischen Recht einer eidgenössischen Behörde vo
 - 4\.[^t-2] der Regelung der Flugsicherungsdienste und der Aufsicht über diese, einschliesslich der Gestaltung des Luftraumes, der Bezeichnung der Dienstleister, der Erstellung von Karten für die Luftfahrt, der Bereitstellung von Luftfahrtdaten sowie der Verwaltung von Flugfunkfrequenzen auf der Grundlage des in der Schweiz geltenden nationalen und internationalen Rechts;
 - 5\.[^t-3] der Anordnung administrativer, flugpolizeilicher Massnahmen und der flugpolizeilichen Überwachung des liechtensteinischen Flugwesens in Verbindung mit den örtlichen Organen der Flugpolizei;
 - 6\. der Anzeige strafrechtlich zu verfolgender Verstösse gegen Vorschriften der Flugpolizei an die liechtensteinischen Strafbehörden, wobei für das Verfahren die Bestimmungen in den Artikeln 27–32 des schweizerisch-liechtensteinischen Zollanschlussvertrags vom 29. März 1923 zu beachten sind;
-- 1\. der administrativen Untersuchung und der technischen Auswertung von Flugunfällen und Störungen.
+- der administrativen Untersuchung und der technischen Auswertung von Flugunfällen und Störungen.
 
 II
 
@@ -95,4 +93,4 @@ Anlagen[^t-5]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-5]: Die Anlagen I und II sind seit dem dem 27. Januar 2003 halbjährlich, letztmals auf den 4. September 2024 (Stand: 30. Juni 2024), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497)). Die bereinigten Anlagen können auf der Internetseite: [www.gesetze.li](http://www.gesetze.li) &gt; LR-Nr. 170.551.748 konsultiert werden.
+[^t-5]: Die Anlagen I und II sind seit dem 27. Januar 2003 halbjährlich, letztmals auf den 2. April 2025 (Stand: 31. Dezember 2024), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247)). Diese Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt; [LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2025256000) konsultiert werden.
