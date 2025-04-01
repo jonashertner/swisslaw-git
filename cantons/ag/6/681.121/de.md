@@ -3,20 +3,19 @@ canton: AG
 number: "681.121"
 title: Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank
 language: de
-version: 2023-08-23
-valid_until: 2025-04-01
-version_adopted: 2023-08-23
+version: 2025-04-02
+version_adopted: 2025-01-23
 adopted: 2008-04-03
 in_force: 2008-08-27
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/681.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3359/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3924/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank
 
-Vom 03.04.2008 (Stand 23.08.2023)
+Vom 03.04.2008 (Stand 02.04.2025)
 
 Der Bankrat der Aargauischen Kantonalbank,
 
@@ -65,13 +64,19 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 
 #### § 4
 
-**Effektenhandel**
+**Effekten- und Devisenhandel**
 
-<sup>1</sup> Die Bank betreibt für eigene und für Rechnung ihrer Kunden das Geschäft mit Effekten.
+<sup>1</sup> Die Bank betreibt für eigene und für Rechnung ihrer Kunden das Geschäft mit Effekten und Devisen.
 
 <sup>2</sup> Sie handelt alle Arten von Effekten, namentlich Wertpapiere wie Aktien, Obligationen etc., Wertrechte, Warenkontrakte und Derivate; darin eingeschlossen sind Fonds, Edelmetalle und «Over the counter»-Geschäfte (OTC).
 
+<sup>2<sup>bis</sup></sup> Sie führt Devisengeschäfte durch, insbesondere durch Kassageschäfte, Termingeschäfte, Swaps und Optionen.
+
 <sup>3</sup> Sie führt ferner die Emission, Übernahme, Platzierung und Vermittlung von Effekten durch und handelt mit solchen in allen üblichen Formen.
+
+<sup>4</sup> Die Bank kann für den bilateralen Handel von Devisengeschäften ein organisiertes Handelssystem gemäss Art. 42 lit. c des Bundesgesetzes über die Finanzmarktinfrastrukturen und das Marktverhalten im Effekten- und Derivatehandel (Finanzmarktinfrastrukturgesetz, FinfraG) vom 19.Juni 2015[^4-1] betreiben.
+
+[^4-1]: SR [958.1](https://db.clex.ch/link/Bund/958.1/de)
 
 #### § 5
 
@@ -113,7 +118,8 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 - k) Erlass eines Vergütungsreglements für die Geschäftsleitung[^8-1], eines Personalreglements sowie eines Bonusreglements,
 - l) Festlegung der Entschädigung der Mitglieder des Bankrats und der Ausschüsse[^8-2],
 - m) Erlass eines Reportingreglements,
-- n) Genehmigung des Reglements der Geschäftsleitung über die Compliance,
+- n) Erlass eines Reglements über die Compliance; dieses sieht eine Regelung vor, welche internen Hinweisgebern von Unregelmässigkeiten, Korruption oder Gesetzesverletzungen den direkten Weg zur oder zum Vorsitzenden des Prüfungs- und Risikoausschusses ermöglicht,
+- n<sup>bis</sup>) Erlass weiterer Reglemente,
 - o) Entscheid über den Erwerb oder die Veräusserung von Bankinstituten sowie von Beteiligungen, welche den Wert von Fr. 500'000.– übersteigen; Antrag an den Regierungsrat bei Käufen und bei Verkäufen von Beteiligungen ab einem Gesamtvolumen von Fr. 20 Mio.,
 - p) Entscheid über Erwerb, Veräusserung, Tausch und Belastung von Liegenschaften zur Ausübung der Banktätigkeit.
 
@@ -186,7 +192,7 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 - i) Festsetzung der Zinssätze und der Geschäftsbedingungen,
 - k) Anschaffungen im Rahmen der bewilligten Budgets beziehungsweise Überschreitungskompetenz beim Sachaufwand von 3 % p.a. (ohne Emissionsaufwand),
 - l) Entscheid über den Erwerb oder die Veräusserung von Beteiligungen bis zum Wert von Fr. 500'000.– sowie bei Strukturänderungen bestehender Beteiligungen aufgrund eines im Beteiligungsgrundvertrag vereinbarten Schlüssels,
-- m) Erlass des Reglements über die Compliance; dieses sieht eine Regelung vor, welche internen Hinweisgebern von Unregelmässigkeiten, Korruption oder Gesetzesverletzungen den direkten Weg zur oder zum Vorsitzenden des Prüfungs- und Risikoausschusses ermöglicht.
+- m) …
 
 #### § 13
 
@@ -254,7 +260,7 @@ erlässt das folgende Geschäfts- und Organisationsreglement:
 
 #### § 20
 
-<sup>1</sup> Dieses Reglement tritt mit der Genehmigung durch den Regierungsrat in Kraft und wird öffentlich zugänglich gemacht.
+**…**
 
 Aarau, 3. April 2008
 
