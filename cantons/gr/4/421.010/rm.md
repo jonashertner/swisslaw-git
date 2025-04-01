@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha da scola
 short: ordinaziun da scola
 language: rm
 version: 2022-08-01
-valid_until: 2025-07-31
+corrected: 2025-04-02
 version_adopted: 2022-06-21
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3542/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -90,7 +90,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 #### Art. 7
 
-**Anticipaziun e suspensiun da l'entrada en scolina**
+**Spustament e suspensiun da l'entrada en scolina**
 
 <sup>1</sup> Las instituziuns responsablas per la scola pon er admetter al stgalim da la scolina uffants che cumpleneschan il 4. onn da vegliadetgna fin ils 31 da december da l'onn chalendar current.
 
@@ -98,7 +98,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 #### Art. 8
 
-**Anticipaziun e suspensiun da l'entrada en il stgalim primar**
+**Spustament e suspensiun da l'entrada en scola primara**
 
 <sup>1</sup> Sin dumonda po il cussegl da scola conceder la permissiun per entrar pli baud en scola, premess ch'i saja avant maun in'expertisa dal servetsch psicologic da scola e ch'i na dettia naginas resalvas cunter in'admissiun a la scola.
 
