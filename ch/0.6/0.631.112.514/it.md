@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2024-09-04
+version: 2025-04-02
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20240904/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20240904-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20240904/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20250402/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20250402-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20250402/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 29 marzo 1923 Approvato dall’Assemblea federale il 21 dicembre 1923[^t-1] Istrumenti di ratificazione scambiati il 28 dicembre 1923 Entrato in vigore il 1° gennaio 1924
 
-(Stato 4 settembre 2024)
+(Stato 2 aprile 2025)
 
 [^t-1]: RU **39** 575
 
@@ -120,7 +120,7 @@ La stessa procedura sarà seguita per le leggi, i decreti e le ordinanze federal
 Il servizio doganale alla frontiera del Liechtenstein coll’Austria sarà assunto dall’Amministrazione delle dogane[^11-1] …[^11-2]
 
 [^11-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^11-2]: Fine stralciata dall’art. 1 dell’Acc. del 2 nov. 1994, approvato dall’AF il 12 dic. 1994 ([RU 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 601](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+[^11-2]: Fine per. stralciato dall’art. 1 dell’Acc. del 2 nov. 1994, approvato dall’AF il 12 dic. 1994 ([RU 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 601](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
 
 #### Art. 12
 
@@ -248,7 +248,7 @@ Il ricorso in appello contro le sentenze pronunciate dal tribunale di prima ista
 Resta riservato il diritto di ricorso in cassazione previsto dagli articoli 160 e seguenti della legge federale sull’organizzazione giudiziaria federale del 22 marzo 1893/ 6 ottobre 1911[^28-2].
 
 [^28-1]: [RU **I** 88, **28** 127 art. 227 cpv. 2. CS **3** 286 art. 342 cpv. 2 n. 1]. Ora: conformemente al DPA ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^28-2]: [RU **28** 127 393, [37 802](https://fedlex.data.admin.ch/eli/oc/37/716_718_802), [43 453](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)art. 80 cpv. 2, [44 749](https://fedlex.data.admin.ch/eli/oc/44/711_765_749), [50 583](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)art. 16 lett. c e in fine, disp. fin. mod. del 20 giu. 1947, 769 art. 342 cpv. 2 n. 4. CS **3** 499 art. 169]. Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^28-2]: [RU **28** 127, 393; [37 802](https://fedlex.data.admin.ch/eli/oc/37/716_718_802); [43 453](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)art. 80 cpv. 2; [44 749](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 583](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)art. 16 lett. c e in fine, disp. fin. mod. del 20 giu. 1947, 769 art. 342 cpv. 2 n. 4. CS **3** 499 art. 169]. Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 #### Art. 29
 
@@ -365,7 +365,7 @@ Il presente Trattato entra in vigore il 1° gennaio 1924.
 
 Protocollo finale
 
-I. ...[^t-2]
+I.[^t-2] ...
 
 II. Le Parti contraenti convengono inoltre che, con riserva dell’esecuzione delle prescrizioni della legislazione federale applicabile nel Principato di Liechtenstein in conformità del Trattato che precede, sarà di massima permesso l’alpeggio del bestiame del Liechtenstein nel Vorarlberg in applicazione dell’articolo 75, capoverso 3, del regolamento per l’esecuzione della legge federale sulle misure per combattere le epizoozie del 30 agosto 1920[^t-3].
 
@@ -391,4 +391,4 @@ Allegati[^t-4]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 seme-stralmente, l’ultima volta il 4 set. 2024 (stato: 30 giugno 2024). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496)) ma essere consultati sul sito Internet www.gesetze.li &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2024325000)
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 2 apr. 2025 (stato: 31 dicembre 2024). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266)), ma possono essere consultate sul sito Internet www.gesetze.li &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025252000).
