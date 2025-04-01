@@ -3,22 +3,24 @@ sr: "0.748.710.3"
 title: "Convenzione del 23 settembre 1971 per la repressione di atti illeciti contro la sicurezza dell'aviazione civile"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/462_462_462"
 language: it
-version: 2018-04-12
+version: 2025-04-02
 adopted: 1971-09-23
 in_force: 1978-02-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/462_462_462/20180412/it/xml/fedlex-data-admin-ch-eli-cc-1978-462_462_462-20180412-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/462_462_462/20180412/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/462_462_462/20250402/it/xml/fedlex-data-admin-ch-eli-cc-1978-462_462_462-20250402-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/462_462_462/20250402/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione per la repressione di atti illeciti contro la sicurezza dell’aviazione civile
 
+RU **1978** 462; FF **1976** III 462
+
 Traduzione
 
 Conclusa a Montreal il 23 settembre 1971 Approvata dall’Assemblea federale il 14 giugno 1977[^t-1] Ratificata dalla Svizzera con strumento depositato il 17 gennaio 1978 Entrata in vigore per la Svizzera il 16 febbraio 1978
 
-(Stato 12 aprile 2018)
+(Stato 2 aprile 2025)
 
 [^t-1]: [RU 1978 461](https://fedlex.data.admin.ch/eli/oc/1978/461_461_461)
 
@@ -34,9 +36,9 @@ hanno convenuto quanto segue:
 
 #### Art. 1
 
-<sup>1.</sup> se tale atto pregiudica o è di natura tale da pregiudicare la sicurezza in tale aero- porto.[^1-1]
+<sup>1.</sup> se tale atto pregiudica o è di natura tale da pregiudicare la sicurezza in tale aeroporto.[^1-1]
 
-Commette un’infrazione penale ogni persona che illecitamente e intenzional- mente:
+Commette un’infrazione penale ogni persona che illecitamente e intenzionalmente:
 
 - a) compie un atto di violenza contro una persona che si trova a bordo di un aeromobile in volo, se l’atto è tale da compromettere la sicurezza dell’aeromobile stesso;
 - b) distrugge un aeromobile in servizio oppure causa a tale aeromobile danni che lo rendono inatto al volo o tali da comprometterne la sicurezza di volo;
@@ -56,8 +58,8 @@ Commette parimenti un’infrazione penale ogni persona che:
 - a) tenta di commettere una delle infrazioni enumerate al capoverso 1 o al capoverso 1<sup>bis</sup> [^1-2] del presente articolo;
 - b) è il complice della persona che commette o tenta di commettere una di queste infrazioni.
 
-[^1-1]: Introdotto dall’art. II cpv. 1 del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’ 8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
-[^1-2]: Parole introdotte dall’art. II cpv. 2 del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’ 8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
+[^1-1]: Introdotto dall’art. II cpv. 1 del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
+[^1-2]: Parole introdotte dall’art. II cpv. 2 del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
 
 #### Art. 2
 
@@ -106,7 +108,7 @@ Ogni Stato contraente adotta le misure necessarie per stabilire la propria compe
 
 <sup>3.</sup> La presente convenzione non esclude alcuna competenza penale esercitata conformemente alle leggi nazionali.
 
-[^5-1]: Introdotto dall’art. III del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’ 8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
+[^5-1]: Introdotto dall’art. III del Prot. del 24 feb. 1988, in vigore per la Svizzera dall’8 nov. 1990 nelle sue relazione con gli stati parte al Prot. ([RU 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [FF 1989 III 375](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)).
 
 #### Art. 6
 
@@ -195,7 +197,7 @@ Ogni Stato contraente comunica con la massima tempestività al Consiglio dell’
 
 (Seguono le firme)
 
-Campo d’applicazione il 12 aprile 2018**[^t-2]**
+Campo d’applicazione il 2 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -258,6 +260,7 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>El Salvador</td><td>25 settembre</td><td>1979 A</td><td>25 ottobre</td><td>1979</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>14 aprile</td><td>1981 A</td><td>14 maggio</td><td>1981</td></tr>
 <tr><td>Estonia</td><td>22 dicembre</td><td>1993 A</td><td>21 gennaio</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>27 dicembre</td><td>1999 A</td><td>26 gennaio</td><td>2000</td></tr>
 <tr><td>Etiopia<sup>\*</sup></td><td>26 marzo</td><td>1979</td><td>25 aprile</td><td>1979</td></tr>
 <tr><td>Figi</td><td>5 marzo</td><td>1973</td><td>4 aprile</td><td>1973</td></tr>
 <tr><td>Filippine</td><td>26 marzo</td><td>1973</td><td>25 aprile</td><td>1973</td></tr>
@@ -304,7 +307,7 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>23 febbraio</td><td>2001 A</td><td>25 marzo</td><td>2001</td></tr>
 <tr><td>Lituania</td><td>4 dicembre</td><td>1996 A</td><td>3 gennaio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>18 maggio</td><td>1982</td><td>17 giugno</td><td>1982</td></tr>
-<tr><td>Macedonia</td><td>4 gennaio</td><td>1995 S</td><td>8 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>4 gennaio</td><td>1995 S</td><td>8 settembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>18 novembre</td><td>1986 A</td><td>18 dicembre</td><td>1986</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>21 dicembre</td><td>1972 A</td><td>26 gennaio</td><td>1973</td></tr>
 <tr><td>Malaysia</td><td>4 maggio</td><td>1985 A</td><td>3 giugno</td><td>1985</td></tr>
@@ -366,6 +369,7 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>Siria<sup>\*</sup></td><td>10 luglio</td><td>1980 A</td><td>9 agosto</td><td>1980</td></tr>
 <tr><td>Slovacchia</td><td>6 marzo</td><td>1995 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>20 agosto</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>11 marzo</td><td>2025 A</td><td>10 aprile</td><td>2025</td></tr>
 <tr><td>Spagna</td><td>30 ottobre</td><td>1972</td><td>26 gennaio</td><td>1973</td></tr>
 <tr><td>Sri Lanka</td><td>30 maggio</td><td>1978 A</td><td>29 giugno</td><td>1978</td></tr>
 <tr><td>Stati Uniti</td><td>1° novembre</td><td>1972</td><td>26 gennaio</td><td>1973</td></tr>
@@ -374,7 +378,6 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>Suriname</td><td>27 ottobre</td><td>1978 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Svezia</td><td>10 luglio</td><td>1973 A</td><td>9 agosto</td><td>1973</td></tr>
 <tr><td>Svizzera</td><td>17 gennaio</td><td>1978</td><td>16 febbraio</td><td>1978</td></tr>
-<tr><td>Swaziland</td><td>27 dicembre</td><td>1999 A</td><td>26 gennaio</td><td>2000</td></tr>
 <tr><td>Tagikistan</td><td>29 febbraio</td><td>1996 A</td><td>30 marzo</td><td>1996</td></tr>
 <tr><td>Tanzania</td><td>9 agosto</td><td>1983 A</td><td>8 settembre</td><td>1983</td></tr>
 <tr><td>Thailandia</td><td>16 maggio</td><td>1978 A</td><td>15 giugno</td><td>1978</td></tr>
@@ -384,7 +387,7 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>Tunisia<sup>\*</sup></td><td>16 novembre</td><td>1981 A</td><td>16 dicembre</td><td>1981</td></tr>
 <tr><td>Turchia</td><td>23 dicembre</td><td>1975</td><td>22 gennaio</td><td>1976</td></tr>
 <tr><td>Turkmenistan</td><td>25 maggio</td><td>1999 A</td><td>24 giugno</td><td>1999</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td>26 febbraio</td><td>1973</td><td>28 marzo</td><td>1973</td></tr>
+<tr><td>Ucraina</td><td>26 febbraio</td><td>1973</td><td>28 marzo</td><td>1973</td></tr>
 <tr><td>Uganda</td><td>19 luglio</td><td>1982 A</td><td>18 agosto</td><td>1982</td></tr>
 <tr><td>Ungheria</td><td>27 dicembre</td><td>1972</td><td>26 gennaio</td><td>1973</td></tr>
 <tr><td>Uruguay</td><td>12 gennaio</td><td>1977 A</td><td>11 febbraio</td><td>1977</td></tr>
@@ -395,9 +398,7 @@ Campo d’applicazione il 12 aprile 2018**[^t-2]**
 <tr><td>Yemen</td><td>29 settembre</td><td>1986</td><td>29 ottobre</td><td>1986</td></tr>
 <tr><td>Zambia</td><td>3 marzo</td><td>1987 A</td><td>2 aprile</td><td>1987</td></tr>
 <tr><td>Zimbabwe</td><td>6 febbraio</td><td>1989 A</td><td>8 marzo</td><td>1989</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/publications/Pages/doc-series.aspx oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese si possono consultare sul siti internet dei governi depositari degli Stati Uniti d'America ([https://www.state.gov/icao-sabotage](https://www.state.gov/icao-sabotage)) e del Regno Unito di Gran Bretagna e Irlanda del Nord ([https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-acts-against-the-safety-of-civil-aviation-montreal-2391971](https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-acts-against-the-safety-of-civil-aviation-montreal-2391971)) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [RU 1978 462](https://fedlex.data.admin.ch/eli/oc/1978/462_462_462), [1979 1535](https://fedlex.data.admin.ch/eli/oc/1979/1535_1535_1535), [1981 1631](https://fedlex.data.admin.ch/eli/oc/1981/1631_1631_1631), [1982 1564](https://fedlex.data.admin.ch/eli/oc/1982/1564_1564_1564), [1984 279](https://fedlex.data.admin.ch/eli/oc/1984/279_279_279), [1985 250](https://fedlex.data.admin.ch/eli/oc/1985/250_250_250), [1986 908](https://fedlex.data.admin.ch/eli/oc/1986/908_908_908), [1987 1162](https://fedlex.data.admin.ch/eli/oc/1987/1162_1162_1162), [1989 926](https://fedlex.data.admin.ch/eli/oc/1989/926_926_926), [1990 1873](https://fedlex.data.admin.ch/eli/oc/1990/1873_1873_1873), [1992 936](https://fedlex.data.admin.ch/eli/oc/1992/936_936_936), [2004 1625](https://fedlex.data.admin.ch/eli/oc/2004/197), [2007 4211](https://fedlex.data.admin.ch/eli/oc/2007/563), [2010 3379](https://fedlex.data.admin.ch/eli/oc/2010/460), [2013 2725](https://fedlex.data.admin.ch/eli/oc/2013/561)e [2018 1649](https://fedlex.data.admin.ch/eli/oc/2018/241). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1978 462](https://fedlex.data.admin.ch/eli/oc/1978/462_462_462); [1979 1535](https://fedlex.data.admin.ch/eli/oc/1979/1535_1535_1535); [1981 1631](https://fedlex.data.admin.ch/eli/oc/1981/1631_1631_1631); [1982 1564](https://fedlex.data.admin.ch/eli/oc/1982/1564_1564_1564); [1984 279](https://fedlex.data.admin.ch/eli/oc/1984/279_279_279); [1985 250](https://fedlex.data.admin.ch/eli/oc/1985/250_250_250); [1986 908](https://fedlex.data.admin.ch/eli/oc/1986/908_908_908); [1987 1162](https://fedlex.data.admin.ch/eli/oc/1987/1162_1162_1162); [1989 926](https://fedlex.data.admin.ch/eli/oc/1989/926_926_926); [1990 1873](https://fedlex.data.admin.ch/eli/oc/1990/1873_1873_1873); [1992 936](https://fedlex.data.admin.ch/eli/oc/1992/936_936_936); [2004 1625](https://fedlex.data.admin.ch/eli/oc/2004/197); [2007 4211](https://fedlex.data.admin.ch/eli/oc/2007/563); [2010 3379](https://fedlex.data.admin.ch/eli/oc/2010/460); [2013 2725](https://fedlex.data.admin.ch/eli/oc/2013/561); [2018 1649](https://fedlex.data.admin.ch/eli/oc/2018/241); [2025 239](https://fedlex.data.admin.ch/eli/oc/2025/239). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

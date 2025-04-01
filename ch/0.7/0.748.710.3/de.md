@@ -3,11 +3,11 @@ sr: "0.748.710.3"
 title: Übereinkommen vom 23. September 1971 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/462_462_462"
 language: de
-version: 2018-04-12
+version: 2025-04-02
 adopted: 1971-09-23
 in_force: 1978-02-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/462_462_462/20180412/de/xml/fedlex-data-admin-ch-eli-cc-1978-462_462_462-20180412-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/462_462_462/20180412/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/462_462_462/20250402/de/xml/fedlex-data-admin-ch-eli-cc-1978-462_462_462-20250402-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/462_462_462/20250402/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1978** 462; BBl **1976** III 1259
 
 Abgeschlossen in Montreal am 23. September 1971 Von der Bundesversammlung genehmigt am 14. Juni 1977[^t-1] Schweizerische Ratifikationsurkunden hinterlegt am 17. Januar 1978 In Kraft getreten für die Schweiz am 16. Februar 1978
 
-(Stand am 12. April 2018)
+(Stand am 2. April 2025)
 
 [^t-1]: [AS 1978 461](https://fedlex.data.admin.ch/eli/oc/1978/461_461_461)
 
@@ -191,7 +191,7 @@ Jeder Vertragsstaat übermittelt dem Rat der Internationalen Zivilluftfahrt-Orga
 
 *Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Montreal am 23. September 1971 in drei Urschriften, jede in vier verbindlichen Wortlauten in englischer, französischer, russischer und spanischer Sprache. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. April 2018**[^t-2]**
+Geltungsbereich am 2. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -241,6 +241,7 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Ecuador</td><td>12. Januar</td><td>1977 B</td><td>11. Februar</td><td>1977</td></tr>
 <tr><td>El Salvador</td><td>25. September</td><td>1979 B</td><td>25. Oktober</td><td>1979</td></tr>
 <tr><td>Estland</td><td>22. Dezember</td><td>1993 B</td><td>21. Januar</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>27. Dezember</td><td>1999 B</td><td>26. Januar</td><td>2000</td></tr>
 <tr><td>Fidschi</td><td>5. März</td><td>1973</td><td>4. April</td><td>1973</td></tr>
 <tr><td>Finnland</td><td>13. Juli</td><td>1973 B</td><td>12. August</td><td>1973</td></tr>
 <tr><td>Frankreich\*</td><td>30. Juni</td><td>1976 B</td><td>30. Juli</td><td>1976</td></tr>
@@ -304,7 +305,6 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Marshallinseln</td><td>31. Mai</td><td>1989 B</td><td>30. Juni</td><td>1989</td></tr>
 <tr><td>Mauretanien</td><td>1. November</td><td>1978 B</td><td>1. Dezember</td><td>1978</td></tr>
 <tr><td>Mauritius</td><td>25. April</td><td>1983 B</td><td>25. Mai</td><td>1983</td></tr>
-<tr><td>Mazedonien</td><td>4. Januar</td><td>1995 N</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>12. September</td><td>1974</td><td>12. Oktober</td><td>1974</td></tr>
 <tr><td>Mikronesien</td><td>19. März</td><td>2003 B</td><td>18. April</td><td>2003</td></tr>
 <tr><td>Moldau</td><td>21. Mai</td><td>1997 B</td><td>20. Juni</td><td>1997</td></tr>
@@ -326,6 +326,7 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Niger</td><td>1. September</td><td>1972</td><td>26. Januar</td><td>1973</td></tr>
 <tr><td>Nigeria</td><td>3. Juli</td><td>1973 B</td><td>2. August</td><td>1973</td></tr>
 <tr><td>Niue</td><td>30. September</td><td>2009 B</td><td>30. Oktober</td><td>2009</td></tr>
+<tr><td>Nordmazedonien</td><td>4. Januar</td><td>1995 N</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>1. August</td><td>1973 B</td><td>31. August</td><td>1973</td></tr>
 <tr><td>Oman\*</td><td>2. Februar</td><td>1977 B</td><td>4. März</td><td>1977</td></tr>
 <tr><td>Österreich</td><td>11. Februar</td><td>1974</td><td>13. März</td><td>1974</td></tr>
@@ -357,6 +358,7 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Singapur</td><td>12. April</td><td>1978</td><td>12. Mai</td><td>1978</td></tr>
 <tr><td>Slowakei</td><td>6. März</td><td>1995 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>20. August</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Somalia</td><td>11. März</td><td>2025 B</td><td>10. April</td><td>2025</td></tr>
 <tr><td>Spanien</td><td>30. Oktober</td><td>1972</td><td>26. Januar</td><td>1973</td></tr>
 <tr><td>Sri Lanka</td><td>30. Mai</td><td>1978 B</td><td>29. Juni</td><td>1978</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>10. September</td><td>2008 B</td><td>10. Oktober</td><td>2008</td></tr>
@@ -365,7 +367,6 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Südafrika\*</td><td>30. Mai</td><td>1972</td><td>26. Januar</td><td>1973</td></tr>
 <tr><td>Sudan</td><td>18. Januar</td><td>1979 B</td><td>17. Februar</td><td>1979</td></tr>
 <tr><td>Suriname</td><td>27. Oktober</td><td>1978 N</td><td>25. November</td><td>1975</td></tr>
-<tr><td>Swasiland</td><td>27. Dezember</td><td>1999 B</td><td>26. Januar</td><td>2000</td></tr>
 <tr><td>Syrien\*</td><td>10. Juli</td><td>1980 B</td><td>9. August</td><td>1980</td></tr>
 <tr><td>Tadschikistan</td><td>29. Februar</td><td>1996 B</td><td>30. März</td><td>1996</td></tr>
 <tr><td>Tansania</td><td>9. August</td><td>1983 B</td><td>8. September</td><td>1983</td></tr>
@@ -379,7 +380,7 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Türkei</td><td>23. Dezember</td><td>1975</td><td>22. Januar</td><td>1976</td></tr>
 <tr><td>Turkmenistan</td><td>25. Mai</td><td>1999 B</td><td>24. Juni</td><td>1999</td></tr>
 <tr><td>Uganda</td><td>19. Juli</td><td>1982 B</td><td>18. August</td><td>1982</td></tr>
-<tr><td>Ukraine\*</td><td>26. Februar</td><td>1973</td><td>28. März</td><td>1973</td></tr>
+<tr><td>Ukraine</td><td>26. Februar</td><td>1973</td><td>28. März</td><td>1973</td></tr>
 <tr><td>Ungarn</td><td>27. Dezember</td><td>1972</td><td>26. Januar</td><td>1973</td></tr>
 <tr><td>Uruguay</td><td>12. Januar</td><td>1977 B</td><td>11. Februar</td><td>1977</td></tr>
 <tr><td>Usbekistan</td><td>7. Februar</td><td>1994 B</td><td>9. März</td><td>1994</td></tr>
@@ -391,9 +392,7 @@ Geltungsbereich am 12. April 2018**[^t-2]**
 <tr><td>Vietnam\*</td><td>17. September</td><td>1979 B</td><td>17. Oktober</td><td>1979</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>1. Juli</td><td>1991 B</td><td>31. Juli</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>27. Juli</td><td>1973</td><td>26. August</td><td>1973</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtsorganisation (www.icao.int/publications/pages/doc-series.aspx) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf den Internetseiten der Depositarregierungen, der Vereinigten Staaten von Amerika ([www.state.gov/icao-sabotage](https://www.state.gov/icao-sabotage)) und des Vereinigten Königreichs von Grossbritannien und Nordirland ([www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-acts-against-the-safety-of-civil-aviation-montreal-2391971](https://www.gov.uk/government/publications/convention-for-the-suppression-of-unlawful-acts-against-the-safety-of-civil-aviation-montreal-2391971)) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1978 462](https://fedlex.data.admin.ch/eli/oc/1978/462_462_462), [1979 1535](https://fedlex.data.admin.ch/eli/oc/1979/1535_1535_1535), [1981 1631](https://fedlex.data.admin.ch/eli/oc/1981/1631_1631_1631), [1982 1564](https://fedlex.data.admin.ch/eli/oc/1982/1564_1564_1564), [1984 279](https://fedlex.data.admin.ch/eli/oc/1984/279_279_279), [1985 250](https://fedlex.data.admin.ch/eli/oc/1985/250_250_250), [1986 908](https://fedlex.data.admin.ch/eli/oc/1986/908_908_908), [1987 1162](https://fedlex.data.admin.ch/eli/oc/1987/1162_1162_1162), [1989 926](https://fedlex.data.admin.ch/eli/oc/1989/926_926_926), [1990 1873](https://fedlex.data.admin.ch/eli/oc/1990/1873_1873_1873), [1992 936](https://fedlex.data.admin.ch/eli/oc/1992/936_936_936), [2004 1625](https://fedlex.data.admin.ch/eli/oc/2004/197), [2007 4211](https://fedlex.data.admin.ch/eli/oc/2007/563), [2010 3379](https://fedlex.data.admin.ch/eli/oc/2010/460), [2013 2725](https://fedlex.data.admin.ch/eli/oc/2013/561)und [2018 1649](https://fedlex.data.admin.ch/eli/oc/2018/241). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1978 462](https://fedlex.data.admin.ch/eli/oc/1978/462_462_462); [1979 1535](https://fedlex.data.admin.ch/eli/oc/1979/1535_1535_1535); [1981 1631](https://fedlex.data.admin.ch/eli/oc/1981/1631_1631_1631); [1982 1564](https://fedlex.data.admin.ch/eli/oc/1982/1564_1564_1564); [1984 279](https://fedlex.data.admin.ch/eli/oc/1984/279_279_279); [1985 250](https://fedlex.data.admin.ch/eli/oc/1985/250_250_250); [1986 908](https://fedlex.data.admin.ch/eli/oc/1986/908_908_908); [1987 1162](https://fedlex.data.admin.ch/eli/oc/1987/1162_1162_1162); [1989 926](https://fedlex.data.admin.ch/eli/oc/1989/926_926_926); [1990 1873](https://fedlex.data.admin.ch/eli/oc/1990/1873_1873_1873); [1992 936](https://fedlex.data.admin.ch/eli/oc/1992/936_936_936); [2004 1625](https://fedlex.data.admin.ch/eli/oc/2004/197); [2007 4211](https://fedlex.data.admin.ch/eli/oc/2007/563); [2010 3379](https://fedlex.data.admin.ch/eli/oc/2010/460); [2013 2725](https://fedlex.data.admin.ch/eli/oc/2013/561); [2018 1649](https://fedlex.data.admin.ch/eli/oc/2018/241); [2025 239](https://fedlex.data.admin.ch/eli/oc/2025/239). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
