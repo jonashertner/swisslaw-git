@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.504 n Pa.Iv. Flach. Folter als eigener Straftatbestand im Schweizer Strafrecht
 document: Vernehmlassungsvorlage
 language: de

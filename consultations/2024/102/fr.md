@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.504 n Iv.pa. Flach. Inscrire la torture en tant que telle dans le catalogue des infractions du droit pénal suisse
 document: Projet mis en consultation
 language: fr

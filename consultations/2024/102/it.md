@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.504 n Iv.pa. Flach. La tortura deve figurare come fattispecie a sé stante nel diritto penale svizzero
 document: Progetto posto in consultazione
 language: it
