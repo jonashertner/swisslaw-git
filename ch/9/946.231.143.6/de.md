@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2025-01-18
+version: 2025-04-03
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250118/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250118-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250403/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250403-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250403/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 18. Januar 2025)
+vom 11. November 2015 (Stand am 3. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -62,9 +62,9 @@ In dieser Verordnung bedeuten:
 
 #### Art. 2a
 
-**Verbote betreffend Güter und Technologie für unbemannte Luftfahrzeuge**[^2a-1]
+**Verbote betreffend Güter und Technologie für unbemannte Luftfahrzeuge und Raketen[^2a-2]**[^2a-1]
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern und Technologie für unbemannte Luftfahrzeuge nach Anhang 1*a* an iranische Personen oder Organisationen oder zur Verwendung im Iran sind verboten.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern und Technologie für unbemannte Luftfahrzeuge und Raketen nach Anhang 1*a* an iranische Personen oder Organisationen oder zur Verwendung im Iran sind verboten.[^2a-3]
 
 <sup>2</sup> Dienstleistungen jeder Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, der Gewährung von Finanzmitteln sowie Investitionen, Beteiligungen und Joint Ventures, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Instandhaltung, der Herstellung oder der Verwendung von Gütern und Technologie nach Anhang 1*a* sind verboten.
 
@@ -78,6 +78,8 @@ Das Staatsekretariat für Wirtschaft (SECO) kann den Verkauf, die Lieferung, die
 - b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^2a-3]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 3
 
@@ -197,51 +199,100 @@ Unternehmen, die mit iranischen Personen oder Organisationen Vereinbarungen übe
 
 #### Art. 7
 
-**Sperrung von Geldern und wirtschaftlichen Ressourcen**
+**Sperrung von Geldern und wirtschaftlichen Ressourcen**[^7-1]
 
-<sup>1</sup> Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen und Organisationen nach den Anhängen 5–7 befinden, sind gesperrt.
+<sup>1</sup>
+
+Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter Kontrolle befinden von:
+
+- a. natürlichen Personen, Unternehmen und Organisationen nach Anhang 6;
+- b. natürlichen Personen, Unternehmen und Organisationen nach Anhang 6*a*;
+- c. natürlichen Personen nach Anhang 7.
 
 <sup>2</sup>
 
 Es ist verboten:
 
-- a. den natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen;
-- b. für natürliche Personen, Unternehmen und Organisationen nach Absatz 1 spezielle Zahlungsverkehrsdienste zu erbringen, die für den Austausch von Finanzdaten verwendet werden.
+- a. natürlichen Personen, Unternehmen und Organisationen nach Anhang 6 und natürlichen Personen nach Anhang 7 Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen;
+- b. für natürliche Personen, Unternehmen und Organisationen nach Anhang 6 spezielle Zahlungsverkehrsdienste zu erbringen, die für den Austausch von Finanzdaten verwendet werden;
+- c. natürlichen Personen, Unternehmen und Organisationen nach Anhang 6*a* Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
 <sup>3</sup>
 
-Das Verbot nach Absatz 2 Buchstabe a gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
 
 - a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
 - b. internationale Organisationen;
 - c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
 - d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
-- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
-- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^7-1]
-
-<sup>3bis</sup> Das Verbot nach Absatz 2 Buchstabe a gilt zudem nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen an die in Anhang 6*a* erwähnten natürlichen Personen, Unternehmen und Organisationen erforderlich ist für die Durchführung humanitärer Aktivitäten in Iran durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung solcher Aktivitäten Beiträge des Bundes erhalten.[^7-2]
+- e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten;
+- f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.
 
 <sup>4</sup>
 
 Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, die in der Schweiz, in einem Mitgliedstaat des Europäischen Wirtschaftsraums oder im Vereinigten Königreich ergangen ist oder in diesen Staaten vollstreckbar ist;
+
+- c. Umsetzung des JCPOA[^7-2].
+
+<sup>5</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Absatz 1 ausnahmsweise bewilligen zur:
+
 - a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge;
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- d. Erfüllung amtlicher Tätigkeiten iranischer diplomatischer oder konsularischer Vertretungen;
-- e. Umsetzung des JCPOA[^7-3]; oder
-- f. Wahrung schweizerischer Interessen.[^7-4]
+- b. Wahrung schweizerischer Interessen;
+- c. Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- d. Verwendung für humanitäre Zwecke, einschliesslich der Durchführung humanitärer Aktivitäten und der Unterstützung der Zivilbevölkerung im Iran.
 
-<sup>4bis</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 im Zusammenhang mit den natürlichen Personen, Unternehmen und Organisationen nach Anhang 6*a* bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Iran zu ermöglichen.[^7-5]
+<sup>6</sup> Es bewilligt Ausnahmen nach den Absätzen 4 und 5 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).
 
-<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^7-6]
+[^7-1]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^7-2]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 
-[^7-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-3]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^7-4]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-6]: Eingefügt durch Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+#### Art. 7a
+
+**Ausnahmen von der Sperrung von Geldern und wirtschaftlichen Ressourcen im Bereich des Luftverkehrs**[^7a-1]
+
+<sup>1</sup>
+
+Die Sperrung nach Artikel 7 Absatz 1 Buchstabe b und das Verbot nach Artikel 7 Absatz 2 Buchstabe b gelten nicht für Gelder oder wirtschaftliche Ressourcen, die benötigt werden für:
+
+- a. die Durchführung von Flügen zu humanitären Zwecken zur Evakuierung oder Rückbeförderung von Personen oder für Initiativen zur Bereitstellung von Unterstützung für Opfer von Natur- oder Nuklearkatastrophen oder Chemieunfällen;
+- b. die Durchführung von Flügen für die Teilnahme an Sitzungen, die zum Gegenstand haben, eine Lösung für die militärischen Unterstützung der russischen Aggression gegen die Ukraine und bewaffneter Gruppen und Organisationen im Nahen Osten und in der Region des Roten Meeres durch den Iran zu finden;
+- c. Notlandungen, Notstarts oder Notüberflüge;
+- d. Durchführung von Flügen für die amtlichen Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.
+
+<sup>2</sup> Das SECO kann Ausnahmen vom Verbot nach Artikel 7 Absatz 2 Buchstabe b für die SSID-Nummern 80-78476, 80-78484, 80-78492 bewilligen, sofern die Gelder oder wirtschaftlichen Ressourcen für Bodenabfertigungsdienste nach dem Anhang des Abkommens vom 21. Juni 1999[^7a-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr erforderlich sind.
+
+<sup>3</sup> Es kann Ausnahmen von der Sperrung nach Artikel 7 Absatz 1 Buchstabe b und vom Verbot nach Artikel 7 Absatz 2 Buchstabe b bewilligen, sofern dies für die Behandlung kritischer Angelegenheiten der Flugsicherheit erforderlich ist.
+
+<sup>4</sup> Es bewilligt Ausnahmen nach den Absätzen 2 und 3 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD und mit dem Bundesamt für Zivilluftfahrt.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^7a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+
+#### Art. 7b
+
+**Verbot von Transaktionen mit Häfen und Schleusen**[^7b-1]
+
+<sup>1</sup> Es ist verboten, unmittelbar oder mittelbar Transaktionen mit Häfen und Schleusen nach Anhang 8 zu tätigen.
+
+<sup>2</sup>
+
+Das Verbot nach Absatz 1 gilt nicht für Schiffe, die Hilfe benötigen und aus folgenden Gründen einen Notliegeplatz suchen:
+
+- a. um einen Nothafen aus Gründen der maritimen Sicherheit, zur Rettung von Menschenleben auf See oder für humanitäre Zwecke anzulaufen;
+- b. um ein Ereignis, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und die Sicherheit von Menschen oder auf die Umwelt haben wird, dringend abzuwenden oder einzudämmen; oder
+- c. um eine Naturkatastrophe zu bewältigen.
+
+[^7b-1]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 8
 
@@ -249,9 +300,12 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 <sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 7 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^8-1]
 
+<sup>1bis</sup> Personen und Institutionen, die nach Artikel 7*a* Absatz 1 Personen und Organisationen nach Anhang 6*a* Gelder oder wirtschaftliche Ressourcen zur Verfügung stellen, müssen dies dem SECO unverzüglich melden.[^8-2]
+
 <sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der Gelder und wirtschaftlichen Ressourcen enthalten.
 
 [^8-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 ## 5. Abschnitt: Weitere Beschränkungen
 
@@ -269,23 +323,19 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 #### Art. 10
 
-**Ein- und Durchreiseverbot**
+**Ein- und Durchreiseverbot**[^10-1]
 
-<sup>1</sup> Die Einreise in die Schweiz und die Durchreise durch die Schweiz sind den natürlichen Personen nach den Anhängen 5, 6 und 6*a* verboten.[^10-1]
+<sup>1</sup> Die Einreise in die Schweiz und die Durchreise durch die Schweiz sind den natürlichen Personen nach den Anhängen 6 und 6*a* verboten.
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen für natürliche Personen nach Anhang 5 bewilligen.[^10-2]
+<sup>2</sup>
 
-<sup>3</sup>
-
-Es kann für natürliche Personen nach den Anhängen 6 und 6*a* Ausnahmen gewähren:[^10-3]
+Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 - a. aus erwiesenen humanitären Gründen;
 - b. zwecks Teilnahme an Tagungen internationaler Gremien oder an einem politischen Dialog betreffend den Iran; oder
 - c. zur Wahrung schweizerischer Interessen.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^10-2]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 11
 
@@ -294,11 +344,12 @@ Es kann für natürliche Personen nach den Anhängen 6 und 6*a* Ausnahmen gewäh
 Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen und Organisationen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung direkt oder indirekt durch Massnahmen nach dieser Verordnung, nach der Verordnung vom 19. Januar 2011[^11-1] über Massnahmen gegenüber der Islamischen Republik Iran oder nach der Verordnung vom 14. Februar 2007[^11-2] über Massnahmen gegenüber der Islamischen Republik Iran verhindert oder beeinträchtigt wurden:
 
 - a. iranische Personen oder Organisationen;
-- b. natürliche Personen, Unternehmen und Organisationen nach den Anhängen 5–7;
+- b.[^11-3] natürliche Personen, Unternehmen und Organisationen nach den Anhängen 6–7;
 - c. natürliche Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten von Personen oder Organisationen nach Buchstabe a oder b handeln.
 
 [^11-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 [^11-2]: [[AS 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
+[^11-3]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 ## 6. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -330,19 +381,17 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 #### Art. 14
 
-**Automatische Übernahme von Listen der natürlichen Personen, Unternehmen und Organisationen, die Gegenstand von Sanktionen sind**[^14-1]
+[^14-1]
 
-Die Listen, die der Sicherheitsrat der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat (Anhang 5), werden automatisch übernommen.
-
-[^14-1]: Fassung gemäss Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^14-1]: Aufgehoben durch Ziff. I der V vom 2. April 2025, mit Wirkung seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 14a
 
 **Veröffentlichung**[^14a-1]
 
-Die Einträge nach den Anhängen 5–7 werden in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
+Der Inhalt der Anhänge 6–7 wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
 
-[^14a-1]: Eingefügt durch Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^14a-1]: Eingefügt durch Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 15
 
@@ -801,52 +850,48 @@ Ausgenommen von den Ziffern 1–3 ist:
 
 Anhang 5[^t-3]
 
-(Art. 7 Abs. 1, 10 Abs. 1 und 2, 11 Bst. b sowie Art. 14 und 14*a*)
-
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
-
-[^annex5-lvlu1-1]
-
-[^t-3]: Fassung gemäss Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
-[^annex5-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
-
-**Anmerkung**
-
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex5-lvlu1-2]
-
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
-
-[^annex5-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; 2231 list.
+[^t-3]: Aufgehoben durch Ziff. II Abs. 1 der V vom 2. April 2025, mit Wirkung seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 Anhang 6[^t-4]
 
-(Art. 7 Abs. 1, 10 Abs. 1 und 3 sowie 11 Bst. b)
+(Art. 7 Abs. 1 Bst. a, 2 Bst. a und b, 10 Abs. 1 sowie 11 Bst. b)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) und vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr ([AS 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), vom 15. Aug. 2024 ([AS 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 6a[^t-5]
 
-(Art. 7 Abs. 1, 10 Abs. 1 und 3 und 11 Bst. b)
+(Art. 7 Abs. 1 Bst. b und 2 Bst. c, 10 Abs. 1 sowie 11 Bst. b)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023 ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), Ziff. I Abs. 2 der V vom 6. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) und Ziff. I Abs. 2 der V des WBF vom 17. Jan. 2025, in Kraft seit 18. Jan. 2025 ([AS 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)).
+[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023 ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), Ziff. I Abs. 2 der V vom 6. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) und Ziff. I Abs. 2 der V des WBF vom 17. Jan. 2025 ([AS 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-6]
 
-(Art. 7 Abs. 1 und 11 Bst. b)
+(Art. 7 Abs. 1 Bst. c und 2 Bst. a sowie 11 Bst. b)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen richten
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), vom 24. Mai 2022 ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) und vom 29. April 2024, in Kraft seit 30. April 2024 um 18.00 Uhr ([AS 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
+[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), vom 24. Mai 2022 ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) und vom 29. April 2024 ([AS 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 8[^t-7]
+
+(Art. 7*b* Abs. 1)
+
+## Häfen und Schleusen, die Transaktionsverboten unterliegen
+
+[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+
+- – Hafen von Amirabad
+- – Hafen von Anzali

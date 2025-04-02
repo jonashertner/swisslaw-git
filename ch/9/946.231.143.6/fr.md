@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-01-18
+version: 2025-04-03
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250118/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250118-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250403/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250403-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250403/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 18 janvier 2025)
+du 11 novembre 2015 (État le 3 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -62,9 +62,9 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 2a
 
-**Interdiction concernant les biens et technologies servant aux véhicules aériens sans pilote**[^2a-1]
+**Interdiction concernant les biens et technologies servant aux véhicules aériens sans pilote et aux fusées[^2a-2]**[^2a-1]
 
-<sup>1</sup> La vente, la livraison, l’exportation et le transit de biens et technologies servant aux véhicules aériens sans pilote visés à l’annexe 1*a*, à destination de personnes ou d’entités iraniennes ou destinés à un usage en Iran, sont interdits.
+<sup>1</sup> La vente, la livraison, l’exportation et le transit de biens et technologies servant aux véhicules aériens sans pilote et aux fusées visés à l’annexe 1*a*, à destination de personnes ou d’entités iraniennes ou destinés à un usage en Iran, sont interdits.[^2a-3]
 
 <sup>2</sup> Les services de toute sorte, y compris les services financiers, les services de courtage et la formation technique, l’octroi de moyens financiers, ainsi que les investissements, les participations et les coentreprises liés à la vente, à la livraison, à l’exportation, au transit, à la fourniture, à l’entretien, à la fabrication ou à l’utilisation des biens et technologies visés à l’annexe 1*a* sont interdits.
 
@@ -78,6 +78,8 @@ Le Secrétariat d’État à l’économie (SECO) peut autoriser la vente, la fo
 - b. à des fins humanitaires, à des urgences sanitaires, à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles.
 
 [^2a-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^2a-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 3
 
@@ -197,52 +199,100 @@ L’entreprise ayant l’intention de conclure un accord avec une personne ou un
 
 #### Art. 7
 
-**Gel des avoirs et des ressources économiques**
+**Gel des avoirs et des ressources économiques**[^7-1]
 
-<sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées aux annexes 5 à 7 sont gelés.[^7-1]
+<sup>1</sup>
+
+Les avoirs et les ressources économiques qui appartiennent aux personnes suivantes ou qui sont sous leur contrôle sont gelés:
+
+- a. personnes physiques, entreprises et entités visées à l’annexe 6;
+- b. personnes physiques, entreprises et entités visées à l’annexe 6*a*;
+- c. personnes physiques visées à l’annexe 7.
 
 <sup>2</sup>
 
 Il est interdit:
 
-- a. de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’al. 1 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques;
-- b. de fournir aux personnes physiques, entreprises et entités visées à l’al. 1 des services spécialisés de paiement utilisés pour échanger des données financières.
+- a. de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’annexe 6 et aux personnes physiques visées à l’annexe 7 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques;
+- b. de fournir aux personnes physiques, entreprises et entités visées à l’annexe 6 des services spécialisés de paiement utilisés pour échanger des données financières;
+- c. de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’annexe 6*a* ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
 
 <sup>3</sup>
 
-L’interdiction prévue à l’al. 2, let. a, ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque le transfert d’avoirs ou la mise à disposition d’avoirs ou de ressources économiques est nécessaire à l’exécution d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:
 
 - a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
 - b. des organisations internationales;
 - c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
-- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
-- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
-- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^7-2]
-
-<sup>3bis</sup> L’interdiction prévue à l’al. 2, let. a, ne s’applique pas non plus lorsque le transfert ou la mise à disposition d’avoirs ou de ressources économiques à des personnes physiques, entreprises et entités citées à l’annexe 6*a* est nécessaire à la réalisation d’activités humanitaires en Iran par des services publics ou par des entreprises et entités recevant des contributions de la Confédération pour la réalisation de ces activités.[^7-3]
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies;
+- e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires;
+- f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.
 
 <sup>4</sup>
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées aux fins suivantes:
 
-- a. d’éviter des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
-- d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires iraniennes;
-- e. de mettre en œuvre le Plan d’action global commun[^7-4], ou
-- f. de sauvegarder les intérêts de la Suisse.[^7-5]
+- a. honorer des contrats existants;
+- b.
 
-<sup>4bis</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2 visant les personnes physiques, entreprises et entités citées à l’annexe 6*a* pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Iran.[^7-6]
+  honorer des créances en application d’une des décisions suivantes:
 
-<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances et, le cas échéant, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.[^7-7]
+  - 1\. une décision arbitrale existante,
+  - 2\. une décision administrative ou judiciaire rendue en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni ou ayant force exécutoire dans ces États;
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-3]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-4]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
-[^7-5]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-6]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-7]: Introduit par le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+- c. mettre en œuvre le Plan d’action global commun[^7-2].
+
+<sup>5</sup>
+
+Il peut, exceptionnellement, autoriser aux fins suivantes le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques à une personne physique, entreprise ou entité visée à l’al. 1:
+
+- a. prévenir des cas de rigueur;
+- b. sauvegarder des intérêts suisses;
+- c. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international;
+- d. les utiliser à des fins humanitaires, y compris pour mener des activités humanitaires et soutenir la population civile en Iran.
+
+<sup>6</sup> Il accorde les dérogations prévues aux al. 4 et 5 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^7-2]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) peut être consultée en français et en anglais à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Comité des sanctions &gt; Résolutions.
+
+#### Art. 7a
+
+**Dérogations au gel des avoirs et des ressources économiques dans le domaine du trafic aérien**[^7a-1]
+
+<sup>1</sup>
+
+Le gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et l’interdiction prévue à l’art. 7, al. 2, let. b, ne s’appliquent pas aux avoirs et ressources économiques qui sont nécessaires:
+
+- a. à l’exploitation de vols effectués à des fins humanitaires pour évacuer ou rapatrier des personnes ou à des initiatives portant assistance aux victimes de catastrophes naturelles, nucléaires ou chimiques;
+- b. à l’exploitation de vols en vue de la participation à des réunions visant à trouver une solution au soutien militaire de l’Iran à l’agression russe contre l’Ukraine ainsi qu’à des groupes armés et à des entités au Proche-Orient et dans la région de la mer Rouge;
+- c. aux atterrissages, décollages ou survols d’urgence;
+- d. à l’exploitation de vols aux fins des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international.
+
+<sup>2</sup> Le SECO peut autoriser des dérogations à l’interdiction prévue à l’art. 7, al. 2, let. b, pour les numéros SSID 80‑78476, 80‑78484 et 80‑78492, pour autant que les avoirs ou ressources économiques soient nécessaires aux services d’assistance en escale visés à l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^7a-2].
+
+<sup>3</sup> Il peut autoriser des dérogations au gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et à l’interdiction prévue à l’art. 7, al. 2, let. b, pour autant que ces dérogations soient nécessaires à la résolution de questions critiques en matière de sécurité aérienne.
+
+<sup>4</sup> Il autorise les dérogations visées aux al. 2 et 3 après avoir consulté les services compétents du DFAE et du DFF et l’Office fédéral de l’aviation civile.
+
+[^7a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^7a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+
+#### Art. 7b
+
+**Interdiction liée aux transactions avec les ports et écluses**[^7b-1]
+
+<sup>1</sup> Il est interdit de participer, directement ou indirectement, à toute transaction avec les ports et écluses visés à l’annexe 8.
+
+<sup>2</sup>
+
+L’interdiction prévue à l’al. 1 ne s’applique pas aux navires qui ont besoin d’assistance et qui recherchent un lieu de refuge pour l’une des raisons suivantes:
+
+- a. effectuer une escale d’urgence pour des raisons de sécurité maritime, pour sauver des vies humaines en mer ou à des fins humanitaires;
+- b. prévenir ou atténuer à titre urgent un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement;
+- c. réagir à une catastrophe naturelle.
+
+[^7b-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 8
 
@@ -250,9 +300,12 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 <sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des fonds ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des fonds prévu à l’art. 7, al. 1, doivent les déclarer sans délai au SECO.[^8-1]
 
+<sup>1bis</sup> Les personnes ou les institutions qui mettent à disposition des avoirs ou des ressources économiques aux personnes ou entités visées à l’annexe 6*a* conformément à l’art. 7*a*, al. 1, doivent le déclarer sans délai au SECO.[^8-2]
+
 <sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des fonds et des ressources économiques.
 
 [^8-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+[^8-2]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 ## Section 5 Autres restrictions
 
@@ -270,36 +323,33 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 #### Art. 10
 
-**Interdiction de séjour et de transit**
+**Interdiction d’entrée en Suisse et de transit par la Suisse**[^10-1]
 
-<sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées aux annexes 5, 6 et 6*a*.[^10-1]
+<sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques visées aux annexes 6 et 6*a*.
 
-<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies pour des personnes physiques visées à l’annexe 5.[^10-2]
+<sup>2</sup>
 
-<sup>3</sup>
+Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations dans les cas suivants:
 
-Il peut, pour des personnes physiques visées aux annexe 6 et 6*a*, accorder des dérogations:[^10-3]
+- a. il existe des motifs humanitaires avérés;
+- b. la personne se déplace pour assister à des réunions d’organismes internationaux ou pour prendre part à un dialogue politique concernant l’Iran;
+- c. la sauvegarde d’intérêts suisses l’exige.
 
-- a. s’il existe des motifs humanitaires avérés;
-- b. si la personne se déplace pour assister à des réunions d’organismes internationaux ou pour mener un dialogue politique concernant l’Iran, ou
-- c. si la sauvegarde d’intérêts suisses l’exige.
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^10-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 11
 
 **Interdiction d’honorer certaines créances**
 
-Il est interdit d’honorer les créances des personnes physiques, entreprises et entités suivantes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée directement ou indirectement par des mesures imposées par la présente ordonnance, par l’ordonnance du 19 janvier 2011 instituant des mesures à l’encontre de la République islamique d’Iran[^11-1] ou par l’ordonnance du 14 février 2007 instituant des mesures à l’encontre de la République islamique d’Iran[^11-2]:
+Il est interdit d’honorer les créances des personnes physiques, entreprises et entités suivantes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance, par l’ordonnance du 19 janvier 2011 instituant des mesures à l’encontre de la République islamique d’Iran[^11-1] ou par l’ordonnance du 14 février 2007 instituant des mesures à l’encontre de la République islamique d’Iran[^11-2]:
 
 - a. les personnes ou entités iraniennes;
-- b. les personnes physiques, entreprises et entités citées aux annexes 5, 6 et 7;
+- b.[^11-3] les personnes physiques, entreprises et entités visées aux annexes 6 à 7;
 - c. les personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte des personnes physiques ou entités visées aux let. a ou b.
 
-[^11-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789); [2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^11-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519), [3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789); [2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 [^11-2]: [[RO 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 ## Section 6 Exécution et dispositions pénales
 
@@ -327,27 +377,25 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> Le SECO poursuit et juge les infractions aux art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 7 Reprise automatique de listes, publication et dispositions finales
+## Section 7 Publication et entrée en vigueur
 
 [^sec7-1]
 
-[^sec7-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 14
 
-**Reprise automatique des listes des personnes physiques, entreprises et entités visées par les sanctions**[^14-1]
+[^14-1]
 
-Les listes relatives à des personnes physiques, entreprises et entités que le Conseil de sécurité des Nations Unies a établies ou actualisées (annexe 5) sont reprises automatiquement.
-
-[^14-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^14-1]: Abrogé par le ch. I de l’O du 2 avr. 2025, avec effet au 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 14a
 
 **Publication**[^14a-1]
 
-Les inscriptions figurant aux annexes 5 à 7 sont publiées au Recueil officiel du droit fédéral (RO) et au Recueil systématique du droit fédéral (RS) uniquement sous la forme d’un renvoi.
+Les inscriptions figurant aux annexes 6 à 7 sont publiées au Recueil officiel du droit fédéral (RO) et au Recueil systématique du droit fédéral (RS) uniquement sous la forme d’un renvoi.
 
-[^14a-1]: Introduit par le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^14a-1]: Introduit par le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 #### Art. 15
 
@@ -806,52 +854,48 @@ Les ch. 1 à 3 ne s’appliquent pas:
 
 Annexe 5[^t-3]
 
-(art. 7, al. 1, 10, al. 1 et 2, 11, let. b, 14 et 14*a*)
-
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
-
-[^annex5-lvlu1-1]
-
-[^t-3]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
-[^annex5-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
-
-**Remarque**
-
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-2].
-
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies.
-
-[^annex5-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
+[^t-3]: Abrogée par le ch. II al. 1 de l’O du 2 avr. 2025, avec effet au 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 
 Annexe 6[^t-4]
 
-(art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
+(art. 7, al. 1, let. a, et 2, let. a et b, 10, al. 1, et 11, let. b)
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) et du 15 août 2024, en vigueur depuis le 16 août 2024 à 18 heures ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)).
+[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6a[^t-5]
 
-(art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
+(art. 7, al. 1, let. b, et 2, let. c, 10, al. 1, et 11, let. b)
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), le ch. I al. 2 de l’O du 6 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) et de l’O du DEFR du 17 janv. 2025, en vigueur depuis le 18 janv. 2025 ([RO 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)).
+[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), les ch. I al. 2 de l’O du 6 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) et de l’O du DEFR du 17 janv. 2025 ([RO 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-6]
 
-(art. 7, al. 1, et 11, let. b)
+(art. 7, al. 1, let. c, et 2, let. a, et 11, let. b)
 
 ## Personnes physiques visées par les sanctions financières
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) et du 29 avr. 2024, en vigueur depuis le 30 avr. 2024 à 18 heures ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
+[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)), du 29 avr. 2024 ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
 [^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 8[^t-7]
+
+(art. 7*b*, al. 1)
+
+## Ports et écluses soumis aux interdictions de transactions
+
+[^t-7]: Introduite par le ch. II al. 3 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+
+- – Port d’Amirabad
+- – Port d’Anzali
