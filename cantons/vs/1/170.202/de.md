@@ -5,11 +5,12 @@ title: "Ausführungsreglement zum Gesetz über die Information der Öffentlichke
 short: ARGIDA
 language: de
 version: 2024-01-01
+corrected: 2025-04-03
 version_adopted: 2023-11-29
 adopted: 2010-12-16
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/170.202"
-pdf: "https://lex.vs.ch/api/de/versions/3473/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

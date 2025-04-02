@@ -5,11 +5,12 @@ title: "Règlement d'exécution de la loi sur l'information du public, la protec
 short: RELIPDA
 language: fr
 version: 2024-01-01
+corrected: 2025-04-03
 version_adopted: 2023-11-29
 adopted: 2010-12-16
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/170.202"
-pdf: "https://lex.vs.ch/api/fr/versions/3473/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3253/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -329,7 +330,7 @@ décide:
 
 **Statut et pouvoir d’examen et d’instruction**
 
-<sup>1</sup> La commission statue, en qualité d’autorité judiciaire indépendante de l’administration, sur tous les cas dont elle est saisie concernant les médiations qui n’ont pas abouti ou concernant le non-respect de l’accord trouvé lors d’une médiation.
+<sup>1</sup> La commission statue, en qualité d’autorité judiciaire indépendante de l’administration, sur toutes les cas dont elle est saisie concernant les médiations qui n’ont pas abouti ou concernant le non-respect de l’accord trouvé lors d’une médiation.
 
 <sup>2</sup> Elle dispose d’un pouvoir d’examen illimité en fait et en droit.
 
