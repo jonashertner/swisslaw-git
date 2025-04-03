@@ -3,11 +3,11 @@ sr: "956.161.1"
 title: Ordonnance de la FINMA du 31 octobre 2024 sur l’audit prudentiel (Ordonnance FINMA sur l’audit prudentiel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/643"
 language: fr
-version: 2025-01-01
+version: 2025-04-04
 adopted: 2024-10-31
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/643/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-643-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/643/20250404/fr/xml/fedlex-data-admin-ch-eli-cc-2024-643-20250404-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250404/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250101/fr"
 
 (Ordonnance FINMA sur l’audit prudentiel)
 
-du 31 octobre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 31 octobre 2024 (État le 4 avril 2025)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -740,11 +740,13 @@ Dans les cas suivants, le risque inhérent est jugé faible:
 <tr><td>Faible</td><td>Faible</td></tr>
 </table>
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 6, al. 2)
 
 ## Détermination du niveau du risque de contrôle
+
+[^t-1]: Mise à jour par l’erratum du 4 avr. 2025, ne concerne que le texte italien ([RO 2025 227](https://fedlex.data.admin.ch/eli/oc/2025/227)).
 
 ### 1. Risque de contrôle élevé
 

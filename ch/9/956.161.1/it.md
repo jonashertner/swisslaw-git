@@ -3,11 +3,11 @@ sr: "956.161.1"
 title: Ordinanza della FINMA del 31 ottobre 2024 sull’audit prudenziale (Ordinanza FINMA sull’audit prudenziale)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/643"
 language: it
-version: 2025-01-01
+version: 2025-04-04
 adopted: 2024-10-31
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/643/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-643-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/643/20250404/it/xml/fedlex-data-admin-ch-eli-cc-2024-643-20250404-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250404/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/643/20250101/it"
 
 (Ordinanza FINMA sull’audit prudenziale)
 
-del 31 ottobre 2024 (Stato 1° gennaio 2025)
+del 31 ottobre 2024 (Stato 4 aprile 2025)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -740,11 +740,13 @@ Nei seguenti casi il rischio inerente è classificato come basso:
 <tr><td>bassa</td><td>bassa</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 6 cpv. 2)
 
 ## Determinazione del livello del rischio di controllo
+
+[^t-1]: Aggiornato dalla correzione del 4 apr. 2025 ([RU 2025 227](https://fedlex.data.admin.ch/eli/oc/2025/227)).
 
 ### 1. Rischio di controllo elevato
 
@@ -760,14 +762,14 @@ Il rischio di controllo è classificato di grado elevato se risponde ad almeno u
 
 Il rischio di controllo è classificato di grado medio se risponde ai seguenti criteri:
 
-- – sulla base delle attività di verifica sotto forma di una valutazione critica svolta negli ultimi tre anni, la società di audit ha constatato che sussistono misure di controllo per la riduzione di rischi;
+- – sulla base delle attività di verifica svolte negli ultimi tre anni sotto forma di una valutazione critica, la società di audit ha constatato che sussistono misure di controllo per la riduzione di rischi;
 - – non sussistono indizi da cui si evince che le attuali misure di controllo per la riduzione dei rischi non sono efficaci né indizi da cui si evince che le misure di controllo per la riduzione dei rischi sono state modificate in modo sostanziale dall’ultimo audit prudenziale.
 
 ### 3. Rischio di controllo basso
 
 Il rischio di controllo è classificato di grado basso se risponde ai seguenti criteri:
 
-- – sulla base delle attività di verifica sotto forma di una valutazione critica svolta negli ultimi tre anni, la società di audit ha constatato che sussistono misure di controllo per la riduzione dei rischi e tali misure sono efficaci; e
+- – sulla base delle attività di verifica svolte negli ultimi tre anni sotto forma di audit, la società di audit ha constatato che sussistono misure di controllo per la riduzione dei rischi e tali misure sono efficaci; e
 - – le misure di controllo per la riduzione dei rischi non sono state modificate in modo sostanziale dall’ultimo audit prudenziale.
 
 Allegato 3
