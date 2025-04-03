@@ -5,12 +5,12 @@ title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
 version: 2024-07-01
-valid_until: 2025-06-30
+corrected: 2025-04-04
 version_adopted: 2024-06-19
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3476/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -29,7 +29,7 @@ eingesehen den Artikel 53 Absatz 2 des Jagdgesetzes vom 30. Januar 1991 (KJSG);
 
 auf Antrag des für die Jagd zuständigen Departements,
 
-verordnet:[^ingress-1]
+beschliesst:[^ingress-1]
 
 [^ingress-1]: In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 

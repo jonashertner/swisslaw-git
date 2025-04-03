@@ -5,12 +5,12 @@ title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
 version: 2024-07-01
-valid_until: 2025-06-30
+corrected: 2025-04-04
 version_adopted: 2024-06-19
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3476/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3325/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -29,7 +29,7 @@ vu l'article 53 alinéa 2 de la loi sur la chasse et la protection des mammifèr
 
 sur la proposition du département en charge de la chasse,
 
-ordonne:[^ingress-1]
+arrête:[^ingress-1]
 
 [^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction, vise indifféremment l'homme ou la femme.
 
