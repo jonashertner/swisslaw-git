@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Indirekter Gegenvorschlag (Änderung des Kernenergiegesetzes) zur Volksinitiative «Jederzeit Strom für alle (Blackout stoppen)»
 document: Vernehmlassungsvorlage
 language: de

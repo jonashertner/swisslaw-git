@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto indiretto (modifica della legge sull’energia nucleare) all’iniziativa popolare «Energia elettrica in ogni tempo per tutti (Stop al blackout)»
 document: Progetto posto in consultazione
 language: it

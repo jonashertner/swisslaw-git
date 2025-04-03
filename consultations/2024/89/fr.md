@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Contre-projet indirect (modification de la loi sur l’énergie nucléaire) à l’initiative populaire «De l’électricité pour tous, en tout temps (Stop au blackout)»"
 document: Projet mis en consultation
 language: fr
