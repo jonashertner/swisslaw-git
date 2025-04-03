@@ -5,11 +5,12 @@ title: Ordonnance sur le fonds cantonal des contributions de remplacement en fav
 short: OFCR
 language: fr
 version: 2024-01-01
+corrected: 2025-04-04
 version_adopted: 2024-03-20
 adopted: 2012-03-21
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/520.200"
-pdf: "https://lex.vs.ch/api/fr/versions/3477/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3300/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -147,7 +148,7 @@ ordonne:
 
 <sup>2</sup> Les décisions du Conseil d'Etat peuvent faire l'objet d'un recours au Tribunal cantonal dans un délai de 30 jours à compter de la notification de la décision.
 
-<sup>3</sup> La loi sur la procédure et la juridiction administratives est applicable pour le surplus.
+<sup>3</sup> La loi sur la procédure et la juridiction administratives du 6 octobre 1976 est applicable pour le surplus.
 
 #### Art. 12
 

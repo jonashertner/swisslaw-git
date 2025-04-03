@@ -5,11 +5,12 @@ title: "Verordnung über den kantonalen Ersatzbeitragsfonds zugunsten der Zivils
 short: VEBF
 language: de
 version: 2024-01-01
+corrected: 2025-04-04
 version_adopted: 2024-03-20
 adopted: 2012-03-21
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/520.200"
-pdf: "https://lex.vs.ch/api/de/versions/3477/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -147,7 +148,7 @@ verordnet:
 
 <sup>2</sup> Gegen die Entscheide des Staatsrats kann beim Kantonsgericht innerhalb einer Frist von 30 Tagen ab Eröffnung des Entscheides Beschwerde eingereicht werden.
 
-<sup>3</sup> Ausserdem ist das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
+<sup>3</sup> Ausserdem ist das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 anwendbar.
 
 #### Art. 12
 
