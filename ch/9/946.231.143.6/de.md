@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2025-04-03
+version: 2025-04-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250403/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250403-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250403/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 3. April 2025)
+vom 11. November 2015 (Stand am 7. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -262,21 +262,24 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 
 <sup>1</sup>
 
-Die Sperrung nach Artikel 7 Absatz 1 Buchstabe b und das Verbot nach Artikel 7 Absatz 2 Buchstabe b gelten nicht für Gelder oder wirtschaftliche Ressourcen, die benötigt werden für:
+Die Sperrung nach Artikel 7 Absatz 1 Buchstabe b und das Verbot nach Artikel 7 Absatz 2 Buchstabe c gelten nicht für Gelder oder wirtschaftliche Ressourcen, die benötigt werden für:[^7a-2]
 
 - a. die Durchführung von Flügen zu humanitären Zwecken zur Evakuierung oder Rückbeförderung von Personen oder für Initiativen zur Bereitstellung von Unterstützung für Opfer von Natur- oder Nuklearkatastrophen oder Chemieunfällen;
 - b. die Durchführung von Flügen für die Teilnahme an Sitzungen, die zum Gegenstand haben, eine Lösung für die militärischen Unterstützung der russischen Aggression gegen die Ukraine und bewaffneter Gruppen und Organisationen im Nahen Osten und in der Region des Roten Meeres durch den Iran zu finden;
 - c. Notlandungen, Notstarts oder Notüberflüge;
 - d. Durchführung von Flügen für die amtlichen Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.
 
-<sup>2</sup> Das SECO kann Ausnahmen vom Verbot nach Artikel 7 Absatz 2 Buchstabe b für die SSID-Nummern 80-78476, 80-78484, 80-78492 bewilligen, sofern die Gelder oder wirtschaftlichen Ressourcen für Bodenabfertigungsdienste nach dem Anhang des Abkommens vom 21. Juni 1999[^7a-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr erforderlich sind.
+<sup>2</sup> Das SECO kann Ausnahmen vom Verbot nach Artikel 7 Absatz 2 Buchstabe c für die SSID-Nummern 80-78476, 80-78484, 80-78492 bewilligen, sofern die Gelder oder wirtschaftlichen Ressourcen für Bodenabfertigungsdienste nach dem Anhang des Abkommens vom 21. Juni 1999[^7a-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr erforderlich sind.[^7a-4]
 
-<sup>3</sup> Es kann Ausnahmen von der Sperrung nach Artikel 7 Absatz 1 Buchstabe b und vom Verbot nach Artikel 7 Absatz 2 Buchstabe b bewilligen, sofern dies für die Behandlung kritischer Angelegenheiten der Flugsicherheit erforderlich ist.
+<sup>3</sup> Es kann Ausnahmen von der Sperrung nach Artikel 7 Absatz 1 Buchstabe b und vom Verbot nach Artikel 7 Absatz 2 Buchstabe c bewilligen, sofern dies für die Behandlung kritischer Angelegenheiten der Flugsicherheit erforderlich ist.[^7a-5]
 
 <sup>4</sup> Es bewilligt Ausnahmen nach den Absätzen 2 und 3 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD und mit dem Bundesamt für Zivilluftfahrt.
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-2]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-3]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-4]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-5]: Berichtigung vom 7. April 2025 ([AS 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
 #### Art. 7b
 

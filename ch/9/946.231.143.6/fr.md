@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-04-03
+version: 2025-04-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250403/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250403-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250403/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 3 avril 2025)
+du 11 novembre 2015 (État le 7 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -262,21 +262,24 @@ Il peut, exceptionnellement, autoriser aux fins suivantes le déblocage de certa
 
 <sup>1</sup>
 
-Le gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et l’interdiction prévue à l’art. 7, al. 2, let. b, ne s’appliquent pas aux avoirs et ressources économiques qui sont nécessaires:
+Le gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et l’interdiction prévue à l’art. 7, al. 2, let. c, ne s’appliquent pas aux avoirs et ressources économiques qui sont nécessaires:[^7a-2]
 
 - a. à l’exploitation de vols effectués à des fins humanitaires pour évacuer ou rapatrier des personnes ou à des initiatives portant assistance aux victimes de catastrophes naturelles, nucléaires ou chimiques;
 - b. à l’exploitation de vols en vue de la participation à des réunions visant à trouver une solution au soutien militaire de l’Iran à l’agression russe contre l’Ukraine ainsi qu’à des groupes armés et à des entités au Proche-Orient et dans la région de la mer Rouge;
 - c. aux atterrissages, décollages ou survols d’urgence;
 - d. à l’exploitation de vols aux fins des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international.
 
-<sup>2</sup> Le SECO peut autoriser des dérogations à l’interdiction prévue à l’art. 7, al. 2, let. b, pour les numéros SSID 80‑78476, 80‑78484 et 80‑78492, pour autant que les avoirs ou ressources économiques soient nécessaires aux services d’assistance en escale visés à l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^7a-2].
+<sup>2</sup> Le SECO peut autoriser des dérogations à l’interdiction prévue à l’art. 7, al. 2, let. c, pour les numéros SSID 80‑78476, 80‑78484 et 80‑78492, pour autant que les avoirs ou ressources économiques soient nécessaires aux services d’assistance en escale visés à l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^7a-3].[^7a-4]
 
-<sup>3</sup> Il peut autoriser des dérogations au gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et à l’interdiction prévue à l’art. 7, al. 2, let. b, pour autant que ces dérogations soient nécessaires à la résolution de questions critiques en matière de sécurité aérienne.
+<sup>3</sup> Il peut autoriser des dérogations au gel des avoirs et des ressources économiques prévu à l’art. 7, al. 1, let. b, et à l’interdiction prévue à l’art. 7, al. 2, let. c, pour autant que ces dérogations soient nécessaires à la résolution de questions critiques en matière de sécurité aérienne.[^7a-5]
 
 <sup>4</sup> Il autorise les dérogations visées aux al. 2 et 3 après avoir consulté les services compétents du DFAE et du DFF et l’Office fédéral de l’aviation civile.
 
 [^7a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-2]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-4]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-5]: Erratum du 7 avr. 2025 ([RO 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
 #### Art. 7b
 

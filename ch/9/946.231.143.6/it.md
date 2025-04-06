@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2025-04-03
+version: 2025-04-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250403/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250403-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250403/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 3 aprile 2025)
+dell’11 novembre 2015 (Stato 7 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -262,21 +262,24 @@ La SECO può eccezionalmente autorizzare la liberazione di determinati averi o r
 
 <sup>1</sup>
 
-Il blocco di cui all’articolo 7 capoverso 1 lettera b e il divieto di cui all’articolo 7 capoverso 2 lettera b non si applicano agli averi o alle risorse economiche necessari per:
+Il blocco di cui all’articolo 7 capoverso 1 lettera b e il divieto di cui all’articolo 7 capoverso 2 lettera c non si applicano agli averi o alle risorse economiche necessari per:[^7a-2]
 
 - a. lo svolgimento di voli per scopi umanitari per l’evacuazione o il rimpatrio di persone o per le iniziative di sostegno alle vittime di disastri naturali o nucleari o di incidenti chimici;
 - b. lo svolgimento di voli per partecipare a riunioni finalizzate a cercare una soluzione alla questione del sostegno militare dell’Iran all’aggressione russa contro l’Ucraina nonché a organizzazioni e gruppi armati in Medio Oriente e nella regione del Mar Rosso;
 - c. l’atterraggio, il decollo o il sorvolo di emergenza;
 - d. lo svolgimento di voli per le attività ufficiali di rappresentanze diplomatiche o consolari svizzere oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale.
 
-<sup>2</sup> La SECO può autorizzare deroghe al divieto di cui all’articolo 7 capoverso 2 lettera b per i numeri SSID 80-78476, 80-78484, 80-78492, se tali averi o risorse economiche sono necessari per i servizi di assistenza a terra secondo l’allegato dell’Accordo del 21 giugno 1999[^7a-2] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo.
+<sup>2</sup> La SECO può autorizzare deroghe al divieto di cui all’articolo 7 capoverso 2 lettera c per i numeri SSID 80-78476, 80-78484, 80-78492, se tali averi o risorse economiche sono necessari per i servizi di assistenza a terra secondo l’allegato dell’Accordo del 21 giugno 1999[^7a-3] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo.[^7a-4]
 
-<sup>3</sup> La SECO può autorizzare deroghe al blocco di cui all’articolo 7 capoverso 1 lettera b e al divieto di cui all’articolo 7 capoverso 2 lettera b se tali deroghe sono necessarie per affrontare questioni critiche in materia di sicurezza aerea.
+<sup>3</sup> La SECO può autorizzare deroghe al blocco di cui all’articolo 7 capoverso 1 lettera b e al divieto di cui all’articolo 7 capoverso 2 lettera c se tali deroghe sono necessarie per affrontare questioni critiche in materia di sicurezza aerea.[^7a-5]
 
 <sup>4</sup> La SECO autorizza deroghe secondo i capoversi 2 e 3 d’intesa con gli uffici competenti del DFAE e del DFF e con l’Ufficio federale dell’aviazione civile.
 
 [^7a-1]: Introdotto dalla cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-2]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-3]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^7a-4]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
+[^7a-5]: Correzione del 7 apr. 2025 ([RU 2025 231](https://fedlex.data.admin.ch/eli/oc/2025/231)).
 
 #### Art. 7b
 
