@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mars 2002 sur la protection des designs (Ordonnance sur 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: fr
-version: 2022-01-01
+version: 2025-04-07
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/fr"
 
 (Ordonnance sur les designs, ODes)
 
-du 8 mars 2002 (État le 1<sup>er</sup> janvier 2022)
+du 8 mars 2002 (État le 7 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -299,13 +299,13 @@ Avant l’échéance de la période de protection, l’IPI peut rappeler la date
 
 <sup>2</sup> Dans le cas d’un dépôt multiple (art. 20 LDes), il est possible de limiter la prolongation de la protection à certains designs. Il convient alors d’indiquer précisément pour quels designs cette prolongation est requise.
 
-<sup>3</sup> La taxe de prolongation doit être payée dans les délais fixés à l’al. 1. À défaut, une surtaxe est perçue.[^21-1]
+<sup>3</sup> La taxe de prolongation doit être payée dans les délais fixés à l’al. 1. Si elle est payée après l’expiration de la période de protection, une surtaxe est perçue.[^21-1]
 
 <sup>4</sup> La prolongation prend effet dès la fin de la période de protection.
 
 <sup>5</sup> L’IPI confirme la prolongation de la protection au titulaire du design.[^21-2]
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Erratum du 7 avr. 2025 ([RO 2025 230](https://fedlex.data.admin.ch/eli/oc/2025/230)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 21a

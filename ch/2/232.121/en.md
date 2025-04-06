@@ -4,11 +4,11 @@ title: "Ordinance of 8 March 2002 on the Protection of Designs (Designs Ordinanc
 short: DesO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: en
-version: 2022-01-01
+version: 2025-04-07
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Ordinance, DesO)
 
-of 8 March 2002 (Status as of 1 January 2022)
+of 8 March 2002 (Status as of 7 April 2025)
 
 The Swiss Federal Council,
 
@@ -305,7 +305,7 @@ The IPI may remind the right holder entered in the Register, or their representa
 
 <sup>5</sup> The IPI shall provide the right holder with confirmation of the renewal of protection.[^21-2]
 
-[^21-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^21-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). The correction of 7 April 2025 concerns the French text only ([AS 2025 230](https://fedlex.data.admin.ch/eli/oc/2025/230)).
 [^21-2]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 21a

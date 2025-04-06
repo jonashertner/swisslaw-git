@@ -4,11 +4,11 @@ title: "Verordnung vom 8. März 2002 über den Schutz von Design (Designverordnu
 short: DesV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: de
-version: 2022-01-01
+version: 2025-04-07
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/de"
 
 (Designverordnung, DesV)
 
-vom 8. März 2002 (Stand am 1. Januar 2022)
+vom 8. März 2002 (Stand am 7. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -242,7 +242,7 @@ Die Eintragungsgebühr besteht aus:
 
 - a. der Grundgebühr;
 - b. gegebenenfalls der Veröffentlichungsgebühr;
-- [tab] c.−d.[^17-1] …
+- c.−d.[^17-1] …
 
 <sup>3</sup> …[^17-2]
 
@@ -301,7 +301,7 @@ Das IGE kann die im Register eingetragene Rechtsinhaberin oder ihre Vertretung v
 
 <sup>5</sup> Das IGE bestätigt der Rechtsinhaberin die Verlängerung der Schutzdauer.[^21-2]
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Die Berichtigung vom 7. April 2025 betrifft nur den französischen Text ([AS 2025 230](https://fedlex.data.admin.ch/eli/oc/2025/230)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 21a
@@ -498,7 +498,7 @@ Das IGE löscht auf Antrag das zu Gunsten einer Drittperson eingetragene Recht, 
 
 <sup>1</sup> …[^32-1]
 
-<sup>2<sup>−</sup><sup>3</sup></sup> …[^32-2]
+<sup>2</sup> und <sup>3</sup> …[^32-2]
 
 [^32-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^32-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).

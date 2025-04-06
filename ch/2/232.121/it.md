@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 marzo 2002 sulla protezione del design (Ordinanza sul 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: it
-version: 2022-01-01
+version: 2025-04-07
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250407/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250407-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250407/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/it"
 
 (Ordinanza sul design, ODes)
 
-dell’8 marzo 2002 (Stato 1° gennaio 2022)
+dell’8 marzo 2002 (Stato 7 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
 [^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -39,8 +39,8 @@ ordina:
 
 <sup>2</sup> L’esecuzione degli articoli 46–49 della LDes e degli articoli 37–40 della presente ordinanza spetta all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-4].
 
-[^1-1]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-2]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^1-1]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-2]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -60,7 +60,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Dei documenti probatori che non sono redatti in una lingua ufficiale l’IPI può esigere una traduzione e un’attestazione dell’esattezza di quest’ultima. Se, nonostante ingiunzione, la traduzione o l’attestazione non è fornita, l’IPI non tiene conto del documento.
 
-[^3-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^3-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 4
 
@@ -70,7 +70,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Fintanto che l’una o l’altra di queste condizioni non sarà stata adempiuta, l’IPI designa una persona quale destinataria delle comunicazioni ai sensi del capoverso 1. Se una delle altre persone si oppone, l’IPI invita tutti gli interessati ad agire conformemente al capoverso 1.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 5
 
@@ -80,7 +80,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> È iscritta quale rappresentante nel registro di cui all’articolo 25 la persona che è stata autorizzata dal depositante o dal titolare del diritto a presentare a suo nome tutte le dichiarazioni destinate all’IPI e a ricevere tutte le comunicazioni dell’IPI previste dalla LDes o dalla presente ordinanza. Se nessuna limitazione della procura è esplicitamente comunicata all’IPI, la procura è considerata di portata generale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 6
 
@@ -100,7 +100,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Esso comunica i motivi dei dubbi, dà l’opportunità di prendere posizione e stabilisce un termine per la presentazione delle prove.
 
-[^6a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 7
 
@@ -110,7 +110,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Determina le modalità tecniche e le pubblica in modo adeguato.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 ## Capitolo 2: Deposito e registrazione
 
@@ -124,7 +124,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Se un deposito formalmente valido comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il modulo.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 9
 
@@ -157,10 +157,10 @@ Eventualmente la domanda di registrazione va completata con:
 
 <sup>4</sup> Le raffigurazioni sono liberate per la pubblicazione dopo il quinto giorno lavorativo a contare dal ricevimento della domanda di registrazione, sempre che nel frattempo non sia pervenuta all’IPI una domanda di differimento della pubblicazione.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^9-2]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
-[^9-3]: Introdotta dal n. I dell’O dell’11 mag. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^9-4]: Introdotta dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
+[^9-3]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-4]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 10
 
@@ -186,7 +186,7 @@ La dichiarazione per rivendicare la priorità conformemente alla Convenzione d�
 
 <sup>3</sup> L’attestato di priorità consiste in un’attestazione sul primo deposito rilasciata dalla competente autorità e contiene l’indicazione del numero di deposito e di registrazione del design. Può essere presentato in lingua inglese.
 
-[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 #### Art. 12
 
@@ -203,7 +203,7 @@ Il diritto di priorità si estingue se:
 
 Su domanda, l’IPI rilascia l’attestato di priorità relativo a un primo deposito svizzero.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 #### Art. 14
 
@@ -211,7 +211,7 @@ Su domanda, l’IPI rilascia l’attestato di priorità relativo a un primo depo
 
 Per gli invii postali, è considerata data della presentazione il giorno in cui l’invio è stato consegnato alla Posta Svizzera all’indirizzo dell’IPI*.*
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 15
 
@@ -229,7 +229,7 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 
 <sup>2</sup> Se il depositante non ovvia in tempo alla mancanza, l’IPI respinge completamente o parzialmente la domanda di registrazione. L’IPI può eccezionalmente impartire termini supplementari.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 17
 
@@ -243,16 +243,16 @@ La tassa di registrazione si compone:
 
 - a. della tassa di base;
 - b. eventualmente della tassa per la pubblicazione;
-- [tab] c. e d.[^17-2] ...
+- c. e d.[^17-2] ...
 
 <sup>3</sup> ...[^17-3]
 
 <sup>4</sup> Qualora la registrazione debba essere pubblicata dopo la scadenza del differimento, prima della pubblicazione va pagata la tassa per la pubblicazione.[^17-4]
 
-[^17-1]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^17-2]: Abrogate dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^17-3]: Abrogata dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^17-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^17-1]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^17-2]: Abrogate dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^17-3]: Abrogata dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^17-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 #### Art. 18
 
@@ -262,7 +262,7 @@ La tassa di registrazione si compone:
 
 <sup>2</sup> Esso conferma la registrazione al titolare del diritto.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 19
 
@@ -276,8 +276,8 @@ La tassa di registrazione si compone:
 
 <sup>4</sup> Se la tassa per la pubblicazione non è pagata entro l’ultimo giorno del differimento o se entro i due mesi che precedono la scadenza del differimento non vengono inviate le necessarie raffigurazioni, l’IPI cancella la registrazione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 ### Sezione 2: Rinnovo del periodo di protezione
 
@@ -287,7 +287,7 @@ La tassa di registrazione si compone:
 
 Prima della scadenza del periodo di protezione, l’IPI può ricordare al titolare del diritto iscritto nel registro, o al suo rappresentante, la data della scadenza e la possibilità di un rinnovo del periodo di protezione. L’IPI può inviare tali comunicazioni anche all’estero.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 #### Art. 21
 
@@ -303,8 +303,8 @@ Prima della scadenza del periodo di protezione, l’IPI può ricordare al titola
 
 <sup>5</sup> L’IPI conferma il rinnovo del periodo di protezione al titolare del diritto.[^21-2]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). La correzione del 7 apr. 2025 concerne soltanto il testo francese ([RU 2025 230](https://fedlex.data.admin.ch/eli/oc/2025/230)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 21a
 
@@ -312,7 +312,7 @@ Prima della scadenza del periodo di protezione, l’IPI può ricordare al titola
 
 Se è stata presentata una domanda di rinnovo, ma la protezione non è rinnovata, la tassa per il rinnovo della protezione è restituita.
 
-[^21a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## Capitolo 3: Fascicolo e registro
 
@@ -328,8 +328,8 @@ Se è stata presentata una domanda di rinnovo, ma la protezione non è rinnovata
 
 <sup>3</sup> ...[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^22-2]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^22-2]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 #### Art. 23
 
@@ -351,7 +351,7 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>5</sup> Su domanda, la consultazione è autorizzata mediante la consegna di copie.[^23-1]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 24
 
@@ -365,8 +365,8 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>4</sup> Su domanda, l’IPI restituisce al titolare del diritto, una volta scaduto il termine di conservazione, gli esemplari del design presentati. La domanda va presentata prima della scadenza del termine di conservazione.[^24-2]
 
-[^24-1]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^24-1]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ### Sezione 2: Registro
 
@@ -413,9 +413,9 @@ Nel registro sono inoltre iscritti:
 
 <sup>5</sup> ...[^25-3]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-3]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-3]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 #### Art. 26
 
@@ -427,8 +427,8 @@ Nel registro sono inoltre iscritti:
 
 <sup>3</sup> ...[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^26-2]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^26-2]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 ### Sezione 3: Modifiche nella registrazione del design
 
@@ -445,7 +445,7 @@ Essa comprende:
 - a. una dichiarazione esplicita del precedente titolare del diritto o un altro documento sufficiente dal quale risulti che il diritto di design è trasferito interamente o parzialmente all’acquirente;
 - b.[^27-1] il cognome e il nome o la ragione sociale così come l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
 
 #### Art. 28
 
@@ -466,7 +466,7 @@ Essa comprende:
 
 <sup>4</sup> Fintanto che è iscritta nel registro una licenza esclusiva, nessun’altra licenza incompatibile con quest’ultima vi è iscritta per il medesimo design.[^28-1]
 
-[^28-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^28-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 29
 
@@ -478,7 +478,7 @@ L’IPI, in base a una relativa dichiarazione del titolare del diritto o a un al
 - b.[^29-1] le restrizioni alla facoltà di disporre decise dal giudice e da autorità preposte alle procedure esecutive;
 - c. le modifiche che concernono indicazioni registrate.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 30
 
@@ -494,7 +494,7 @@ Su domanda, l’IPI cancella il diritto registrato in favore di terzi qualora il
 
 <sup>2</sup> Se l’errore è imputabile a una svista dell’IPI, la rettifica avviene d’ufficio.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 32
 
@@ -502,14 +502,14 @@ Su domanda, l’IPI cancella il diritto registrato in favore di terzi qualora il
 
 <sup>2 e <sup>3</sup></sup> ...[^32-2]
 
-[^32-1]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
-[^32-2]: Abrogati dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^32-1]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^32-2]: Abrogati dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 #### Art. 33
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^33-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 
 ### Sezione 4: Cancellazione del design
 
@@ -523,7 +523,7 @@ Su domanda, l’IPI cancella il diritto registrato in favore di terzi qualora il
 
 <sup>3</sup> La cancellazione di un design è esente da tasse.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## Capitolo 4: Pubblicazioni dell’IPI
 
@@ -544,7 +544,7 @@ L’IPI pubblica, fatto salvo il differimento della pubblicazione:
 
 <sup>2</sup> Su domanda e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 ## Capitolo 5: Intervento dell’UDSC
 
@@ -554,7 +554,7 @@ L’IPI pubblica, fatto salvo il differimento della pubblicazione:
 
 L’UDSC è abilitato a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di oggetti prodotti illecitamente.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 38
 
@@ -566,8 +566,8 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 <sup>2</sup> La domanda rimane valida per due anni, qualora non sia stata posta per una durata di validità più breve. Può essere rinnovata.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
-[^38-2]: Introdotto dal n. I 4 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^38-2]: Introdotto dalla cifra I n. 4 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 39
 
@@ -579,7 +579,7 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 <sup>3</sup> Se già prima della scadenza del termine giusta l’articolo 48 capoverso 2 o 3 della LDes è chiaro che il richiedente non può ottenere provvedimenti cautelari, gli oggetti sono immediatamente liberati.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 39a
 
@@ -589,7 +589,7 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione degli oggetti, direttamente all’ufficio doganale che trattiene gli oggetti.
 
-[^39a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^39a-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 39b
 
@@ -599,7 +599,7 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 <sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare gli oggetti ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
 
-[^39b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^39b-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 39c
 
@@ -609,7 +609,7 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 <sup>2</sup> Invece di prelevare campioni esso può fotografare gli oggetti distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
-[^39c-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^39c-1]: Introdotto dalla cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 40
 
@@ -617,7 +617,7 @@ L’UDSC è abilitato a intervenire in caso di introduzione sul territorio dogan
 
 Le tasse per l’intervento dell’UDSC sono rette dall’ordinanza del 4 aprile 2007[^40-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 [^40-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
 
 ## Capitolo 6: Disposizioni finali
@@ -646,7 +646,7 @@ I termini fissati dall’IPI e in corso il giorno dell’entrata in vigore della
 
 [^43a-1]
 
-[^43a-1]: Introdotto n. I dell’O del 18 ott. 2006 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)). Abrogato dal n. I dell’O del 14 mar. 2008, con effetto dal 1° lug. 2008 ([RU 2008 1895](https://fedlex.data.admin.ch/eli/oc/2008/277)).
+[^43a-1]: Introdotto lla cifra I dell’O del 18 ott. 2006 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)). Abrogato dalla cifra I dell’O del 14 mar. 2008, con effetto dal 1° lug. 2008 ([RU 2008 1895](https://fedlex.data.admin.ch/eli/oc/2008/277)).
 
 #### Art. 44
 
@@ -659,6 +659,8 @@ Allegato
 (art. 42)
 
 ## Modifica del diritto vigente
+
+Le ordinanze qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-1]
 
