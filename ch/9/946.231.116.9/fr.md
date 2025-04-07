@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2025-01-03
+version: 2025-04-08
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250103/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250103-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250103/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250408/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250408-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250408/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 3 janvier 2025)
+du 16 mars 2022 (État le 8 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1056,7 +1056,7 @@ Annexe 1[^t-1]
 
 ## Biens susceptibles d’être utilisés à des fins de répression interne
 
-[^t-1]: Mise à jour par le ch. II, al. 1, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 - 1 Bombes et grenades autres que celles citées dans l’annexe 1 de l’ordonnance du 25 février 1998 sur le matériel de guerre (OMG)[^annex1-lvlu1-1] et dans l’annexe 3 OCB[^annex1-lvlu1-2].
 - 2 Viseurs d’armement de toute sorte, autres que ceux visés à l’annexe 1 OMG et aux annexes 3 et 5 OCB.
@@ -1169,8 +1169,8 @@ Annexe 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Nuovelle teneur selon le ch. II, al. 2, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié au RO et au RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: «hyperlink -f %URL» &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nuovelle teneur selon le ch. II al. 2 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-3]
 
@@ -1178,7 +1178,7 @@ Annexe 4[^t-3]
 
 ## Machines
 
-[^t-3]: Nuovelle teneur selon le ch. II, al. 2, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-3]: Nuovelle teneur selon le ch. II al. 2 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1260,7 +1260,7 @@ Annexe 4a[^t-4]
 
 ## Machines visées à l’art. 6, al. 1<sup>bis</sup>
 
-[^t-4]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-4]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1298,7 +1298,7 @@ Annexe 6[^t-6]
 
 ## Biens servant à la fabrication ou à la transformation de produits du tabac
 
-[^t-6]: Mise à jour par le ch. II, al. 1, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><td>N<sup>o</sup> du tarif</td><td>Désignation</td></tr>
@@ -1331,7 +1331,7 @@ Annexe 7a[^t-7]
 
 ## Pétrole brut
 
-[^t-7]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-7]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -1395,8 +1395,8 @@ Annexe 11a[^t-8]
 
 [^annex11a-lvlu1-1]
 
-[^t-8]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex11a-lvlu1-1]: Le contenu de la présente annexe est publié au RO et au RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: «hyperlink -f %URL» &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-8]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^annex11a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 12
 
@@ -1417,8 +1417,8 @@ Annexe 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II, al. 1, de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) et le ch. I de l’O du DEFR du 20 déc. 2024, en vigueur depuis le 24 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/791](https://fedlex.data.admin.ch/eli/oc/2024/791) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II al. 1 de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), le ch. I des O du DEFR du 20 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)) et du 4 avr. 2025, en vigueur depuis le 8 avr. 2025 ([RO 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/228](https://fedlex.data.admin.ch/eli/oc/2025/228) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 
@@ -1447,7 +1447,7 @@ Annexe 16[^t-11]
 
 ## Biens destinés à l’industrie aéronautique et spatiale
 
-[^t-11]: Introduite par le ch. II al. 2 de l’O du 30 août 2023 ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Mise à jour par le ch. II, al. 1, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-11]: Introduite par le ch. II al. 2 de l’O du 30 août 2023 ([RO 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Mise à jour par le ch. II al. 1 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1474,7 +1474,7 @@ Annexe 17[^t-12]
 
 ## Biens et technologies de navigation maritime
 
-[^t-12]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-12]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### Catégorie VI – Marine
 
@@ -1501,7 +1501,7 @@ Annexe 18[^t-13]
 
 ## Biens destinés au raffinage de pétrole et à la liquéfaction de gaz naturel
 
-[^t-13]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-13]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th colspan="2">N<sup>o</sup> du tarif</th><th>Désignation</th></tr>
@@ -1518,8 +1518,8 @@ Annexe 19[^t-14]
 
 [^annex19-lvlu1-1]
 
-[^t-14]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex19-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: «hyperlink -f %URL» &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-14]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^annex19-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 20[^t-15]
 
@@ -1527,7 +1527,7 @@ Annexe 20[^t-15]
 
 ## Biens destinés au renforcement de l’industrie visés à l’art. 10*d*, al. 2
 
-[^t-15]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-15]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1543,7 +1543,7 @@ Annexe 21[^t-16]
 
 ## Biens de luxe
 
-[^t-16]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 Sauf indication contraire dans la présente annexe, l’interdiction prévue à l’art. 10*e* s’applique aux biens de luxe dont le coût unitaire est supérieur à 300 francs.
 
@@ -1678,7 +1678,7 @@ Annexe 22[^t-17]
 
 ## Biens importants sur le plan économique
 
-[^t-17]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-17]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><td colspan="2">Position tarifaire</td><td>Désignation</td></tr>
@@ -1876,7 +1876,7 @@ Annexe 23[^t-18]
 
 ## Or
 
-[^t-18]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-18]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1891,7 +1891,7 @@ Annexe 24[^t-19]
 
 ## Produits contenant de l’or
 
-[^t-19]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-19]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -1905,7 +1905,7 @@ Annexe 25[^t-20]
 
 ## Diamants et produits avec des diamants
 
-[^t-20]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-20]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### 1. Diamants naturels
 
@@ -1941,7 +1941,7 @@ Annexe 26[^t-21]
 
 ## Carburéacteurs et additifs pour carburants
 
-[^t-21]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-21]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th colspan="2">Position tarifaire</th><th>Désignation</th></tr>
@@ -1981,7 +1981,7 @@ Annexe 27[^t-22]
 
 ## Logiciels de gestion d’entreprise et logiciels de conception et de fabrication
 
-[^t-22]: Introduite par le ch. II, al. 3, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-22]: Introduite par le ch. II al. 3 de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### 1. Logiciels de gestion d’entreprise
 
