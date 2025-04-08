@@ -1,0 +1,845 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2025 235
+title: "Verordnung vom 2. April 2025 über die digitalen Dienste und die digitale Transformation in der Bundesverwaltung (Digitalisierungsverordnung, DigiV)"
+language: de
+adopted: 2025-04-02
+published: 2025-04-09
+in_force: ["2025-05-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2025/235/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die digitalen Dienste und die digitale Transformation in der Bundesverwaltung
+
+(Digitalisierungsverordnung, DigiV)
+
+vom 2. April 2025
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Bundesgesetz vom 17. März 2023[^ingress-1] über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG) und auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-2] (RVOG),
+
+verordnet:
+
+[^ingress-1]: [SR 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt:
+
+- a. die Bereitstellung von digitalen Diensten in der Bundesverwaltung;
+- b. den Einsatz und die Nutzung von Informations- und Kommunikationstechnologien (IKT) in der Bundesverwaltung;
+- c. die Strategien des Bundes im Bereich der Digitalisierung;
+- d. die Zuständigkeiten sowie die Zusammenarbeit und Koordination der betroffenen Organe und Verwaltungseinheiten.
+
+#### Art. 2
+
+**Geltung**
+
+Die in Anhang 1 aufgeführten Bestimmungen des EMBAG gelten nicht für die dort aufgeführten Verwaltungseinheiten der dezentralen Bundesverwaltung.
+
+#### Art. 3
+
+**Ausnahmen für dezentrale Verwaltungseinheiten**
+
+<sup>1</sup>
+
+Von dezentralen Verwaltungseinheiten entwickelte Software fällt nicht unter Artikel 9 EMBAG, wenn:
+
+- a. die Software ohne Finanzierungsbeiträge des Bundes entwickelt wurde; oder
+- b. die Entwicklung der Software im Rahmen von Forschung erfolgt.
+
+<sup>2</sup>
+
+Dezentrale Verwaltungseinheiten werden vom Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI) auf Antrag von einem Standard nach Artikel 12 EMBAG ausgenommen, wenn:
+
+- a. der Standard für die Interoperabilität ihrer Systeme mit Systemen der Bundesverwaltung, der Kantone oder der Gemeinden nicht erforderlich ist; oder
+- b. dieser mit einem Standard, den sie zur Erfüllung ihrer Aufgaben zwingend einhalten müssen, nicht kompatibel ist.
+
+#### Art. 4
+
+**Veröffentlichung von Vereinbarungen nach Artikel 2 Absatz 3 EMBAG**
+
+<sup>1</sup> Vereinbarungen zwischen dem Bundesrat und den Parlamentsdiensten, den eidgenössischen Gerichten und der Bundesanwaltschaft über deren freiwillige Unterstellung unter das EMBAG werden im Bundesblatt veröffentlicht.
+
+<sup>2</sup> Der Bereich DTI veröffentlicht eine Liste der Bundesbehörden, die sich dem EMBAG freiwillig unterstellt haben, einschliesslich der für sie geltenden Bestimmungen des EMBAG.
+
+#### Art. 5
+
+**Nichtunterstellung von einsatzkritischen IKT-Leistungen der Armee**
+
+<sup>1</sup> Auf einsatzkritische IKT-Leistungen der Armee ist nur das 7. Kapitel 1. Abschnitt anwendbar.
+
+<sup>2</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) definiert die Leistungen in einem Leistungskatalog. Es hört vorgängig den Bereich DTI an.
+
+<sup>3</sup> Bei Differenzen informiert der Bereich DTI die Mitglieder des Digitalisierungsrats und die Generalsekretärenkonferenz (GSK). Die Vorsteherin oder der Vorsteher des VBS entscheidet nach Anhörung der GSK.
+
+#### Art. 6
+
+**Verantwortlichkeit**
+
+Die Bundesbehörden sind in ihrem Zuständigkeitsbereich für die digitale Transformation verantwortlich und regeln für diesen die IKT-Lenkung und den Einsatz der IKT-Mittel.
+
+## 2. Kapitel: Strategien
+
+#### Art. 7
+
+**Inhalt**
+
+Der Bundesrat bestimmt:
+
+- a. die Ziele der digitalen Transformation in der Bundesverwaltung sowie die Handlungsfelder zur Erreichung dieser Ziele (Strategie Digitale Bundesverwaltung);
+- b. die Leitlinien des staatlichen Handelns sowie die Bereiche der Zusammenarbeit von Behörden, Wirtschaft, Wissenschaft, Zivilgesellschaft und politischen Akteuren im Zusammenhang mit der digitalen Transformation (Strategie Digitale Schweiz).
+
+#### Art. 8
+
+**Umsetzung**
+
+<sup>1</sup>
+
+Der Bereich DTI erarbeitet die Strategien und koordiniert ihre Umsetzung; dazu arbeitet er bei Bedarf zusammen mit:
+
+- a. den Departementen und den Verwaltungseinheiten der zentralen Bundesverwaltung;
+- b. den Kantonen;
+- c. den betroffenen Organisationen;
+- d. den Unternehmen;
+- e. den ausländischen Partnern.
+
+<sup>2</sup>
+
+Er hört dabei folgende Stellen an:
+
+- a. betreffend die Strategie Digitale Bundesverwaltung: den Digitalisierungsrat;
+- b. betreffend die Strategie Digitale Schweiz: die Beauftragte oder den Beauftragten des Bundes und der Kantone der Organisation «Digitale Verwaltung Schweiz» sowie die GSK.
+
+## 3. Kapitel: Leistungserbringung
+
+#### Art. 9
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Departemente und die Bundeskanzlei entscheiden gestützt auf Marktanalysen und unter Berücksichtigung der Grundsätze der Zweckmässigkeit, Interoperabilität, Wirtschaftlichkeit und Sicherheit, ob eine Leistung intern erbracht oder extern beschafft werden soll.
+
+<sup>2</sup> Soll die Leistung intern erbracht werden, bestimmen sie den Leistungserbringer.
+
+#### Art. 10
+
+**Interne IKT-Leistungserbringer**
+
+<sup>1</sup> Jedes Departement und die Bundeskanzlei verfügen über höchstens einen internen IKT-Leistungserbringer.
+
+<sup>2</sup> Sie können dem Bundesrat Ausnahmen beantragen.
+
+#### Art. 11
+
+**Zentrale Bereitstellung von IKT-Mitteln**
+
+<sup>1</sup> Der Bereich DTI kann IKT-Mittel und damit verbundene Dienstleistungen zentral bereitstellen oder er kann eine Verwaltungseinheit der zentralen Bundesverwaltung dazu verpflichten; er hört vorgängig die betreffende Verwaltungseinheit an.
+
+<sup>2</sup> Die Bundeskanzlerin oder der Bundeskanzler kann Verwaltungseinheiten der zentralen Bundesverwaltung verpflichten, ein zentral bereitgestelltes IKT-Mittel zu nutzen; sie oder er hört vorgängig die GSK an.
+
+<sup>3</sup>
+
+Verwaltungseinheiten der dezentralen Bundesverwaltung können nicht verpflichtet werden:
+
+- a. ein IKT Mittel nach Artikel 11 Absatz 1 EMBAG zentral bereitzustellen;
+- b. ein zentral bereitgestelltes IKT-Mittel nach Artikel 11 Absatz 2 EMBAG zu nutzen.
+
+<sup>4</sup> Der Bereich DTI kann mit folgenden Stellen Vereinbarungen über die Nutzung von IKT-Mitteln der internen IKT-Leistungserbringer abschliessen:
+
+a. mit Verwaltungseinheiten der dezentralen Bundesverwaltung;
+
+b. mit weiteren Behörden des Bundes;
+
+c. mit Organisationen und Personen nach Artikel 2 Absatz 4 RVOG.
+
+#### Art. 12
+
+**Zugang zu Daten für externe Leistungserbringer**
+
+Daten, die nicht allgemein zugänglich sind, dürfen externen Leistungserbringern zugänglich gemacht werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Es ist zur Erbringung der Leistung erforderlich.
+- b. Die für die Daten verantwortliche Bundesbehörde hat zugestimmt und die Zustimmung ist nachvollziehbar dokumentiert.
+- c. Es wurden angemessene vertragliche, organisatorische und technische Vorkehrungen getroffen, um eine weitere Verbreitung der Daten zu verhindern.
+
+#### Art. 13
+
+**eOperations Schweiz AG**
+
+<sup>1</sup>
+
+Die Departemente und die Bundeskanzlei können die eOperations Schweiz AG als externe Leistungserbringerin für die folgenden Leistungen einsetzen, sofern sie diese zugleich für Behörden der Kantone und Gemeinden erbringt:
+
+- a. Beschaffung, Aufbau und Betrieb von IKT-Mitteln;
+- b. Beschaffung und Erbringung von Dienstleistungen in Zusammenhang mit IKT-Mitteln.
+
+<sup>2</sup> Der Bund beteiligt sich durch den Erwerb von Aktien an der eOperations Schweiz AG.
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement übt im Einvernehmen mit der Bundeskanzlei die Aktionärsrechte aus. Es ist Ansprechpartner für die Leitungsorgane der eOperations Schweiz AG.
+
+<sup>4</sup> Die Übertragung der Zuständigkeit zur Durchführung von Beschaffungsverfahren an die eOperations Schweiz AG richtet sich nach der Verordnung vom 1. Mai 2024[^13-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org‑VöB).
+
+[^13-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+
+## 4. Kapitel: Daten von Bundesbehörden
+
+### 1. Abschnitt: Open Government Data
+
+#### Art. 14
+
+<sup>1</sup>
+
+Für die Anforderungen an die Veröffentlichung nach Artikel 10 Absätze 1 und 4 EMBAG gilt:
+
+- a. Zeitnah sind Veröffentlichungen, wenn die Daten der Öffentlichkeit möglichst unmittelbar nach ihrer Beschaffung oder Erstellung und Zusammenstellung als strukturierte Daten zugänglich gemacht werden; die Verwaltungseinheiten berücksichtigen dabei insbesondere die Art der Daten und ihren Nutzen für die Gesellschaft, Umwelt und Wirtschaft; Daten, die sich laufend verändern, sind unmittelbar nach der Erfassung mithilfe einer elektronischen Schnittstelle zu veröffentlichen.
+- b. Maschinenlesbar sind Veröffentlichungen, wenn ein standardisiertes oder etabliertes Format verwendet wird, das so strukturiert ist, dass Softwareanwendungen die Daten leicht identifizieren, erkennen und extrahieren können.
+- c. Offene Formate sind Formate, die einen direkten Zugang zu den Daten ermöglichen, die deren maschinelle Bearbeitung erleichtern, die öffentlich vollständig dokumentiert sind und die ohne immaterialgüterrechtliche oder sonstige rechtliche Einschränkungen genutzt werden können; das Bundesamt für Statistik (BFS) veröffentlicht eine Liste der empfohlenen Formate[^14-1].
+
+<sup>2</sup> Forschungsdaten fallen nicht unter Artikel 10 Absatz 1 EMBAG. Sie müssen nicht nach den Anforderungen nach Absatz 1 öffentlich zugänglich gemacht werden.
+
+[^14-1]: [www.bfs.admin.ch](http://www.bfs.admin.ch/) &gt; Dienstleistungen &gt; Open Government Data (OGD) &gt; Dokumentation &gt; Liste der empfohlenen Formate
+
+### 2. Abschnitt: Harmonisierung
+
+#### Art. 15
+
+**Grundsätze**
+
+<sup>1</sup> Die dem EMBAG unterstehenden Bundesbehörden stellen sicher, dass Daten, die dieselbe Bedeutung haben, gleich beschrieben werden (Harmonisierung).
+
+<sup>2</sup> Sie harmonisieren die Daten und Schnittstellen gemäss deren Lebenszyklus.
+
+<sup>3</sup> Sie teilen dem BFS mit, wer die Ansprechpersonen für ihre Aufgaben nach diesem Abschnitt sind.
+
+#### Art. 16
+
+**Koordination unter den Behörden**
+
+<sup>1</sup> Das BFS entwickelt die für die Harmonisierung erforderlichen Instrumente.
+
+<sup>2</sup> Es koordiniert die Standardisierungs- und Harmonisierungsaufgaben der beteiligten Stellen und setzt sich für eine gemeinsame Darstellung der Metadaten ein.
+
+#### Art. 17
+
+**Koordination in Querschnittsbereichen**
+
+<sup>1</sup> Behörden, die hauptsächlich für Sachbereiche zuständig sind, in denen mehrere Behörden Daten bearbeiten, bringen ihre Anliegen beim BFS ein.
+
+<sup>2</sup> Das BFS legt in gegenseitigem Einvernehmen mit den beteiligten Behörden fest, um welche Behörden es sich handelt, und erfasst die Sachbereiche.
+
+#### Art. 18
+
+**Verfahren**
+
+<sup>1</sup> Das BFS erfasst den Harmonisierungsbedarf in Zusammenarbeit mit den Vertreterinnen und Vertretern der betroffenen Stellen und stellt die Information den beteiligten Behörden zur Verfügung.
+
+<sup>2</sup> Es bildet thematische Arbeitsgruppen und informiert die betroffenen Behörden darüber. Diese bestimmen ihre Vertretung in den Arbeitsgruppen.
+
+<sup>3</sup> Die Arbeitsgruppen erarbeiten gemeinsam die semantischen Standards.
+
+<sup>4</sup> Die Behörden veröffentlichen die semantischen Standards auf der Interoperabilitätsplattform des BFS und aktualisieren ihre Informationen und die Metadaten regelmässig in geeigneter Form. Sie sind für die Korrektheit der Angaben verantwortlich.
+
+<sup>5</sup> Sie übernehmen die semantischen Standards für ihre Daten.
+
+#### Art. 19
+
+**Metadaten**
+
+<sup>1</sup>
+
+Die Metadaten müssen mindestens folgende Angaben enthalten:
+
+- a. eine allgemeine Umschreibung des Inhalts;
+- b. die verantwortliche Behörde;
+- c. die Zugänglichkeit der Daten;
+- d. die Struktur der Daten;
+- e. die Nomenklaturen;
+- f. die Qualitätsmerkmale.
+
+<sup>2</sup> Das BFS legt im Einvernehmen mit der Bundeskanzlei die Form der Metadaten fest, namentlich die für eine einheitliche Beschreibung der Datensätze notwendigen Standards.
+
+<sup>3</sup> Es regelt die Erfordernisse der Veröffentlichung der Metadaten auf der Interoperabilitätsplattform und veröffentlicht sie.
+
+<sup>4</sup> Für die Metadaten der Geobasisdaten des Bundesrechts gilt die Geoinformationsgesetzgebung. Das BFS stellt im Einvernehmen mit dem Bundesamt für Landestopografie die Veröffentlichung auf der Interoperabilitätsplattform sicher.
+
+### 3. Abschnitt: MDG-System
+
+#### Art. 20
+
+**Zweck des Systems und Verantwortlichkeit für den Betrieb**
+
+<sup>1</sup> Das Informationssystem zur Stammdatenverwaltung (MDG-System[^20-1]) dient dazu, Daten, die für die Abwicklung von Geschäftsprozessen in den Bereichen Finanz- und Rechnungswesen, Zahlungsverkehr, Beschaffung, Immobilien und Logistik erforderlich sind, zentral zu erfassen, zu verwalten und bereitzustellen.
+
+<sup>2</sup> Die Eidgenössische Finanzverwaltung (EFV) ist verantwortlich für den Betrieb des MDG-Systems.
+
+[^20-1]: MDG = Master Data Governance
+
+#### Art. 21
+
+**Daten**
+
+<sup>1</sup>
+
+Das MDG-System enthält die folgenden Daten über Personen und Organisationen:
+
+- a. unpersönliche Identifikationsnummer;
+- b. Personalien wie Name, Vorname und Geburtsdatum;
+- c. Sprache;
+- d. Kontaktdaten wie Postadressen, elektronische Adressen und Telefonnummern;
+- e. Rechtsform;
+- f. Angaben zur Branche;
+- g. Bankverbindungsdaten wie Kontoinhaberin oder Kontoinhaber, Kontonummer und Bank;
+- h. Verbindungen zu anderen im System erfassten Personen und Organisationen;
+- i. Registernummern zur eindeutigen Identifizierung;
+- j.
+
+  folgende weitere Daten:
+
+  - 1\. bundesinterne buchhalterische Daten,
+  - 2\. Mahndaten,
+  - 3\. Verkaufskonditionen,
+  - 4\. Einkaufskonditionen.
+
+<sup>2</sup> Es kann weitere Daten enthalten. Handelt es sich dabei um Personendaten, so dürfen diese nur im MDG-System geführt werden, sofern ein anderer bundesrechtlicher Erlass dies vorsieht.
+
+<sup>3</sup> Bei den Daten nach Absatz 2 darf es sich nicht um besonders schützenswerte Personendaten handeln; es dürfen keine Profilings damit durchgeführt werden.
+
+#### Art. 22
+
+**Datenquellen**
+
+<sup>1</sup>
+
+Die Daten nach Artikel 21 Absatz 1 stammen:
+
+- a. von den im MDG-System erfassten Personen und Organisationen;
+- b. von den Stellen, die das MDG-System zur Abwicklung von Geschäftsprozessen in den Bereichen nach Artikel 20 Absatz 1 nutzen (Nutzerinnen);
+- c.
+
+  aus den folgenden Informationssystemen des Bundes:
+
+  - 1\. dem Unternehmens-Identifikationsregister des BFS,
+  - 2\. dem Betriebs- und Unternehmensregister des BFS,
+  - 3\. dem amtlichen Ortschaftenverzeichnis mit Postleitzahl und Perimeter,
+  - 4\. dem amtlichen Verzeichnis der Strassen,
+  - 5\. dem amtlichen Verzeichnis der Gebäudeadressen,
+  - 6\. dem geografischen Informationssystem des Bundesamts für Landwirtschaft,
+  - 7\. dem zentralen Migrationsinformationssystem,
+  - 8\. dem zentralen Register der AHV-Versicherten;
+
+- d. aus den Informationssystemen der Schweizerischen Post AG für die Adressvalidierung von Personen und Unternehmen in der Schweiz;
+- e. aus öffentlich zugänglichen Informationssystemen.
+
+<sup>2</sup> Die Daten werden von den Stellen und Systemen nach Absatz 1 Buchstaben b–e über eine Schnittstelle in das MDG-System überführt. Die Nutzerinnen prüfen vorgängig die Aktualität und Richtigkeit der Daten.
+
+#### Art. 23
+
+**Verantwortlichkeit**
+
+Die Aufgaben des Verantwortlichen nach dem Datenschutzgesetz vom 25. September 2020[^23-1] nehmen wahr:
+
+- a. die EFV: für die Daten nach Artikel 21 Absatz 1 Buchstaben a–i;
+- b. die Nutzerinnen: für die von ihnen erfassten Daten nach Artikel 21 Absätze 1 Buchstabe j und 2.
+
+[^23-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 24
+
+**Nutzung und Zugriff**
+
+<sup>1</sup> Verwaltungseinheiten der zentralen Bundesverwaltung, die Geschäftsprozesse in den Bereichen nach Artikel 20 Absatz 1 abwickeln, müssen dazu das MDG-System nutzen. Auf Antrag einer Verwaltungseinheit kann die EFV insbesondere aus technischen Gründen oder aus Gründen des Datenschutzes Ausnahmen vorsehen.
+
+<sup>2</sup> Verwaltungseinheiten der dezentralen Bundesverwaltung, die Parlamentsdienste, die eidgenössischen Gerichte, die Bundesanwaltschaft sowie Organisationen und Personen nach Artikel 2 Absatz 4 RVOG können das MDG-System zur Abwicklung von Geschäftsprozessen in den Bereichen nach Artikel 20 Absatz 1 nutzen. Der Zugriff ist der EFV zu beantragen. Der Zugriff kann insbesondere aus technischen Gründen oder aus Gründen des Datenschutzes verweigert werden. Der Abschluss einer Vereinbarung mit dem Bereich DTI nach Artikel 11 Absatz 4 ist nicht notwendig.
+
+<sup>3</sup> Organisationen und Personen nach Artikel 2 Absatz 4 RVOG wird der Zugriff nur erteilt, wenn dieser zur Erfüllung der Verwaltungsaufgaben notwendig ist. Er ist von der zuständigen Verwaltungseinheit des Departements mit dem engsten Sachbezug zu beantragen.
+
+<sup>4</sup>
+
+Die Nutzerinnen nach den Absätzen 1 und 2 haben Zugriff auf:
+
+- a. die Daten nach Artikel 21 Absatz 1 Buchstaben a–i, sofern es für die Abwicklung eines Geschäftsprozesses nach Artikel 20 Absatz 1 notwendig ist oder eine andere Bestimmung dies vorsieht;
+- b. die Daten nach Artikel 21 Absätze 1 Buchstabe j und 2, die sie selber im MDG-System erfassen;
+
+<sup>5</sup> Der Zugriff kann über eine Schnittstelle gewährt werden.
+
+#### Art. 25
+
+**Schnittstelle zur Aktualisierung anderer Informationssysteme**
+
+Die EFV kann Daten nach Artikel 21 Absatz 1 zur Aktualisierung anderer Informationssysteme des Bundes über eine Schnittstelle zur Verfügung stellen.
+
+#### Art. 26
+
+**Aufbewahrung und Löschung von Daten**
+
+<sup>1</sup> Die Daten nach Artikel 21 Absatz 1 werden ab dem Zeitpunkt der letzten Bearbeitung dreissig Jahre aufbewahrt, längstens jedoch zehn Jahre ab dem Zeitpunkt der Löschung des Eintrags aus dem Handelsregister oder nach dem Tod der betroffenen Person.
+
+<sup>2</sup> Nach Ablauf dieser Frist löscht die EFV die Daten.
+
+<sup>3</sup> Gelöschte Daten können nicht mehr abgefragt werden.
+
+## 5. Kapitel: Bereich DTI
+
+#### Art. 27
+
+**Führung**
+
+Der Bereich DTI wird von der oder dem Delegierten für digitale Transformation und IKT-Lenkung (DTI-Delegierte oder DTI-Delegierter) geführt. Diese oder dieser ist direkt der Bundeskanzlerin oder dem Bundeskanzler unterstellt.
+
+#### Art. 28
+
+**Aufgaben**
+
+<sup>1</sup> Der Bereich DTI sorgt dafür, dass Geschäftsprozesse, Datenmodelle, Anwendungen und Technologien departementsübergreifend kohärent festgelegt werden, um eine wirksame Nutzung zu gewährleisten.
+
+<sup>2</sup> Er bestimmt und unterhält Hilfsmittel zur Koordination der digitalen Transformation und IKT-Lenkung.
+
+<sup>3</sup> Er bereitet die Geschäfte des Bundesrats in den Bereichen digitale Transformation und IKT-Lenkung in der Bundesverwaltung vor.
+
+<sup>4</sup> Er vertritt den Bund in einschlägigen Organisationen auf nationaler und internationaler Ebene.
+
+<sup>5</sup> Er fördert die Bündelung der Beschaffung von Dienstleistungen und IKT-Mitteln nach Artikel 7 Absatz 3 Org‑VöB[^28-1].
+
+[^28-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+
+## 6. Kapitel: Organe im Bereich digitale Transformation und IKT-Lenkung
+
+### 1. Abschnitt: Digitalisierungsrat
+
+#### Art. 29
+
+**Aufgabe**
+
+Der Rat für digitale Transformation und IKT-Lenkung des Bundes (Digitalisierungsrat) berät die DTI-Delegierte oder den DTI-Delegierten und die Verwaltungseinheiten bei der departementsübergreifenden Koordination in den Bereichen der digitalen Transformation und IKT-Lenkung.
+
+#### Art. 30
+
+**Zusammensetzung**
+
+<sup>1</sup>
+
+Der Digitalisierungsrat setzt sich zusammen aus:
+
+- a. der oder dem DTI-Delegierten;
+- b. je einer Departementsvertreterin oder einem Departementsvertreter;
+- c. der oder dem Beauftragten des Bundes und der Kantone der Organisation «Digitale Verwaltung Schweiz»;
+- d. einer Vertreterin oder einem Vertreter des Koordinationsorgans der internen IKT-Leistungserbringer;
+- e. einer Vertreterin oder einem Vertreter des Staatssekretariats für Sicherheitspolitik;
+- f. einer Vertreterin oder einem Vertreter des BFS;
+- g. einer Vertreterin oder einem Vertreter des Kommandos Cyber, sofern für das Kommando Cyber verbindliche Beschlüsse diskutiert werden.
+
+<sup>2</sup> Die oder der DTI-Delegierte hat den Vorsitz.
+
+#### Art. 31
+
+**Sitzungen**
+
+<sup>1</sup> Jedes Mitglied des Digitalisierungsrats kann Antrag stellen.
+
+<sup>2</sup> Stimmrecht haben die oder der DTI-Delegierte sowie die Vertreterinnen und Vertreter der Departemente.
+
+<sup>3</sup> Die oder der DTI-Delegierte kann zur Beratung weitere Personen beiziehen.
+
+### 2. Abschnitt: Informatikbetreiberkonferenz
+
+#### Art. 32
+
+<sup>1</sup> Die Informatikbetreiberkonferenz ist das Koordinationsorgan der internen IKT-Leistungserbringer; sie setzt sich zusammen aus einer Vertreterin oder einem Vertreter der internen IKT-Leistungserbringer sowie einer Vertreterin oder einem Vertreter des Bereichs DTI.
+
+<sup>2</sup>
+
+Sie hat insbesondere folgende Aufgaben:
+
+- a. Sie beobachtet die technologische Entwicklung und stösst Projekte an, welche die Übernahme technologischer Innovationen fördern.
+- b. Sie koordiniert die Erbringung von IKT-Leistungen, namentlich indem sie die Harmonisierung der Schnittstellen und die Verwaltung der Konfigurationen und Versionen sicherstellt.
+- c. Sie konsolidiert die Haltungen der internen IKT-Leistungserbringer, wenn sie konsultiert wird sowie im Hinblick auf die Beratungen des Digitalisierungsrats.
+
+### 3. Abschnitt: Steuerungsausschuss Supportprozesse
+
+#### Art. 33
+
+<sup>1</sup> Der Steuerungsausschuss Supportprozesse koordiniert die Entscheide über die Informatikunterstützung der bundesweiten Supportprozesse Finanzen, Personal, Beschaffung, Immobilien und Logistik.
+
+<sup>2</sup>
+
+Er setzt sich zusammen aus je einer Vertreterin oder einem Vertreter der folgenden Verwaltungseinheiten:
+
+- a. EFV;
+- b. Bundesamt für Bauten und Logistik;
+- c. Eidgenössisches Personalamt;
+- d. Bundesamt für Rüstung;
+- e. Bereich DTI.
+
+<sup>3</sup> Die Vertreterin oder der Vertreter des Bereichs DTI führt den Vorsitz.
+
+<sup>4</sup> Mit beratender Stimme nimmt eine Vertreterin oder ein Vertreter des Bundesamts für Informatik und Telekommunikation an den Sitzungen teil.
+
+### 4. Abschnitt Zusammenarbeit von Verwaltungseinheiten, die Informationssysteme für Justiz und Polizei betreiben
+
+#### Art. 34
+
+<sup>1</sup> Verwaltungseinheiten, die Informationssysteme für die Justiz oder Polizei betreiben, arbeiten zur Harmonisierung dieser Anwendungen mit den Kantonen zusammen.
+
+<sup>2</sup> Die betroffenen Departemente können für die einzelnen Projekte Vollzugsvereinbarungen abschliessen.
+
+## 7. Kapitel: Schlüsselprojekte und Pilotversuche
+
+### 1. Abschnitt: Schlüsselprojekte
+
+#### Art. 35
+
+**Gegenstand**
+
+Schlüsselprojekte der Bundesverwaltung sind Projekte, die einer verstärkten strategischen und operationellen Lenkung, Koordination und Überwachung bedürfen aufgrund:
+
+- a. der benötigten Ressourcen;
+- b. ihrer strategischen Bedeutung;
+- c. ihrer Komplexität; oder
+- d. der mit ihnen verbundenen Risiken.
+
+#### Art. 36
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die Bundeskanzlerin oder der Bundeskanzler bestimmt auf Antrag des Bereichs DTI und nach Anhörung der GSK, welche Projekte Schlüsselprojekte sind.
+
+<sup>2</sup> Sie oder er kann Weisungen zu den Schlüsselprojekten erlassen.
+
+#### Art. 37
+
+**Berichterstattung und Korrekturmassnahmen**
+
+<sup>1</sup> Der Bereich DTI erstattet der GSK regelmässig Bericht über die Schlüsselprojekte; die zuständigen Stellen liefern ihm dazu die nötigen Informationen.
+
+<sup>2</sup> Wenn nötig beantragt die Bundeskanzlerin oder der Bundeskanzler dem Bundesrat Korrekturmassnahmen. Sie oder er hört vorgängig die GSK an.
+
+### 2. Abschnitt: Pilotversuche
+
+#### Art. 38
+
+**Auskunfts- und Dokumentationspflicht**
+
+<sup>1</sup> Die für den Pilotversuch zuständige Stelle informiert den Bereich DTI und die zuständigen Aufsichts- und Koordinationsstellen jährlich über den aktuellen Stand des Versuchs.
+
+<sup>2</sup> Bei einem besonderen Vorkommnis informiert sie innerhalb von einem Monat darüber.
+
+#### Art. 39
+
+**Finanzierung**
+
+<sup>1</sup> Pilotversuche werden über die bewilligten Kredite der Departemente und der Bundeskanzlei oder über die zentral eingestellten finanziellen Mittel nach Artikel 44 finanziert.
+
+<sup>2</sup> Die Verwaltungseinheiten der dezentralen Bundesverwaltung sind von der Finanzierung über die zentral eingestellten finanziellen Mittel ausgeschlossen.
+
+## 8. Kapitel: Weisungen
+
+#### Art. 40
+
+**Weisungen des Bereichs DTI**
+
+<sup>1</sup>
+
+Der Bereich DTI kann in den folgenden Bereichen zu den nachstehenden Themen Weisungen erlassen:
+
+- a. Teilstrategien: Leitlinien der digitalen Transformation und IKT-Lenkung, Eingrenzung ihrer Nutzung sowie Planung der Entwicklung bestimmter Aspekte der digitalen Transformation mit einem mittleren Zeithorizont;
+- b. Prozesse: Art und Weise, wie die mit der digitalen Transformation und IKT-Lenkung verbundenen Aufgaben erfüllt werden sollen, sowie zu benutzende Hilfsmittel;
+- c. Unternehmensarchitektur: departementsübergreifendes Zusammenspiel der Geschäftsprozesse, Datenmodelle, Technologien und IKT-Mittel;
+- d. Standards: Produkte, Schnittstellen und Technologien, die sich aus der Unternehmensarchitektur ergeben und die für die Interoperabilität, die Wirtschaftlichkeit oder die Sicherheit unabdingbar sind;
+- e. zentral bereitgestellte IKT-Mittel: Modalität der Leistungserbringung, Art der Steuerung und Führung, allgemeine Finanzierung und Sicherung der Qualität der erbrachten Leistungen;
+- f. Führung des Portfolios: Tätigkeiten, die für die Koordination der Programme, Projekte und weiteren Lösungsentwicklungen im Bereich der digitalen Transformation sowie für die Zusammenstellung der IKT‑Mittel in der Bundesverwaltung nötig sind, sowie dazugehörige Massnahmen und zu benutzende Hilfsmittel;
+- g. Geschäftscontrolling: Sammeln, Bearbeiten, Verifizieren und Interpretieren von Informationen, die der digitalen Transformation und IKT-Lenkung dienen, sowie dazugehörige Massnahmen.
+
+<sup>2</sup> Er hört vorgängig den Digitalisierungsrat an. Bei Weisungen von untergeordneter Bedeutung kann ein anderes auf Digitalisierungsfragen spezialisiertes Gremium angehört werden.
+
+<sup>3</sup> Er entscheidet über Abweichungen von den Weisungen, die er erlassen hat.
+
+<sup>4</sup>
+
+Er kann Entscheide über Abweichungen von untergeordneter Bedeutung delegieren an:
+
+- a. die Departemente und die Bundeskanzlei;
+- b. Arbeitsgruppen;
+- c. Programm- oder Projektverantwortliche.
+
+#### Art. 41
+
+**Departementsübergreifende Weisungen der Departemente**
+
+Erlässt ein Departement eine departementsübergreifende Weisung zur Digitalisierung oder zur IKT-Lenkung, so hört es vorgängig den Digitalisierungsrat an.
+
+#### Art. 42
+
+**Streitbeilegung**
+
+<sup>1</sup>
+
+Die Departemente informieren den Bereich DTI, wenn sie nicht einverstanden sind mit:
+
+- a. einem Entscheid des Bereichs DTI nach Artikel 11 Absatz 1;
+- b. dem Erlass einer Weisung des Bereichs DTI;
+- c. der Gewährung einer Abweichung von einer Weisung des Bereichs DTI;
+- d. dem Erlass einer departementsübergreifenden Weisung eines Departements zur Digitalisierung oder zur IKT-Lenkung.
+
+<sup>2</sup> Der Bereich DTI informiert die Mitglieder des Digitalisierungsrats sowie die GSK und die Bundeskanzlerin oder den Bundeskanzler über die Meldungen nach Absatz 1.
+
+<sup>3</sup> Die Bundeskanzlerin oder der Bundeskanzler entscheidet nach Anhörung der GSK.
+
+## 9. Kapitel: Finanzen und Audit
+
+#### Art. 43
+
+**Finanzielle Führung der Digitalisierung und IKT**
+
+<sup>1</sup> Die Budgetierung der Aufwände und Investitionsausgaben für Digitalisierung und IKT und deren Zuweisung in der Staatsrechnung des Bundes erfolgen dezentral.
+
+<sup>2</sup> Die Departemente und die Bundeskanzlei informieren den Bereich DTI über ihre laufenden und geplanten Projekte, ihre Anwendungen und ihre Infrastrukturen.
+
+<sup>3</sup> Der Bereich DTI stellt die nötigen Instrumente für die finanzielle Führung der Digitalisierung und IKT bereit.
+
+<sup>4</sup> Er koordiniert die Verwendung der finanziellen Mittel im Einvernehmen mit den Departementen und stellt die departementsübergreifende Kontrolle sicher.
+
+<sup>5</sup> Die internen Leistungserbringer weisen ihre Kosten und Erlöse gegenüber dem Bereich DTI periodisch transparent aus.
+
+#### Art. 44
+
+**Zentrale Budgetierung über Sammelkredite**
+
+<sup>1</sup> Der Bundesrat entscheidet über die zentral zuzuteilenden finanziellen Mittel für Digitalisierung und IKT.
+
+<sup>2</sup> Die Bundeskanzlerin oder der Bundeskanzler entscheidet auf Antrag des Bereichs DTI und nach Anhörung der GSK über die Zuteilung der finanziellen Mittel.
+
+<sup>3</sup> Der Bereich DTI kann nach Anhörung des Digitalisierungsrats diejenigen finanziellen Mittel zuteilen, welche die Bundeskanzlerin oder der Bundeskanzler nicht zugeteilt hat oder die sie oder er zugeteilt hat, die aber nicht verwendet wurden.
+
+#### Art. 45
+
+**Kostenbeteiligung der Kantone**
+
+<sup>1</sup> Die Beteiligung der Kantone an den Kosten von IKT-Mitteln der Bundesbehörden nach Artikel 11 Absatz 4 EMBAG richtet sich nach dem jeweiligen Nutzungsvolumen. Sie basiert auf den gesamten Sach- und Personalkosten. Dabei wird auch die Amortisation der Beschaffungskosten für die IKT-Mittel berücksichtigt.
+
+<sup>2</sup> Das Nutzungsvolumen eines Kantons umfasst die Nutzung der IKT-Mittel durch seine Behörden und Gemeinden sowie durch die von ihm mit öffentlichen Aufgaben betrauten Personen des öffentlichen oder privaten Rechts.
+
+<sup>3</sup> Die IKT-Mittel bereitstellende Bundesbehörde schliesst mit den IKT-Mittel nutzenden Kantonen eine Vereinbarung über die Kostenbeteiligung ab. Die Nutzung durch die Kantone kann auch in Verträgen mit der eOperations Schweiz AG geregelt werden.
+
+#### Art. 46
+
+**Audit**
+
+Die Departemente, die Bundeskanzlei und der Bereich DTI können der Eidgenössischen Finanzkontrolle Audits in den Bereichen Digitalisierung und Verwendung von IKT-Mitteln vorschlagen.
+
+## 10. Kapitel: Schlussbestimmungen
+
+#### Art. 47
+
+**Aufhebung und Änderung anderer Erlasse**
+
+Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
+
+#### Art. 48
+
+**Übergangsbestimmung**
+
+Die Stellen, die sich vor Inkrafttreten dieser Verordnung durch eine Vereinbarung mit dem Bereich DTI verpflichtet haben, die Bestimmungen der Verordnung vom 25. November 2020[^48-1] über die digitale Transformation und Informatik einzuhalten, können die in der Vereinbarung festgehaltenen IKT-Mittel sowie die damit verbundenen Dienstleistungen bis 31. Dezember 2025 nutzen.
+
+[^48-1]: [AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988); [2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800); [2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561), [746](https://fedlex.data.admin.ch/eli/oc/2023/746); [2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)
+
+#### Art. 49
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Mai 2025 in Kraft.
+
+<table>
+<tr><td>2. April 2025</td><td>Im Namen des Schweizerischen Bundesrates Die Bundespräsidentin: Karin Keller-Sutter Der Bundeskanzler: Viktor Rossi</td></tr>
+</table>
+
+Anhang 1
+
+(Art. 2)
+
+## Ausnahmen vom Geltungsbereich des EMBAG für dezentrale Verwaltungseinheiten des Bundes
+
+Die folgenden Verwaltungseinheiten der dezentralen Bundesverwaltung sind vom Geltungsbereich der nachfolgend aufgeführten Bestimmungen des EMBAG ausgenommen:
+
+<table>
+<tr><th></th><th>Verwaltungseinheit</th><th>Nicht anwendbare Bestimmungen des EMBAG</th></tr>
+<tr><td>1.</td><td>Dienst Überwachung Post- und Fernmeldeverkehr</td><td>Art. 9 und 10</td></tr>
+<tr><td>2.</td><td>Eidgenössisches Nuklearsicherheitsinspektorat</td><td>Art. 9 und 10</td></tr>
+<tr><td>3.</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen</td><td>Art. 9 und 10</td></tr>
+</table>
+
+Anhang 2
+
+(Art. 47)
+
+## Aufhebung und Änderung anderer Erlasse
+
+## I
+
+Die folgenden Erlasse werden aufgehoben:
+
+- 1\. Verordnung vom 22. November 2023[^annex2-lvlI-1] über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben;
+- 2\. Verordnung vom 25. November 2020[^annex2-lvlI-2] über die Koordination der digitalen Transformation und die IKT-Lenkung in der Bundesverwaltung.
+
+[^annex2-lvlI-1]: [AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)
+[^annex2-lvlI-2]: [AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988); [2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800); [2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561), [746](https://fedlex.data.admin.ch/eli/oc/2023/746); [2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)
+
+## II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+### 1. Informationssicherheitsverordnung vom 8. November 2023
+
+[^annex2-lvlII-lvl1-1]
+
+[^annex2-lvlII-lvl1-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+**Art. 2 Abs. 2 Bst. b**
+
+<sup>2</sup>
+
+Für Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 2 Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^annex2-lvlII-lvl1-2] (RVOG) und Organisationen und Personen nach Artikel 2 Absatz 4 RVOG gelten die folgenden Bestimmungen des ISG und der vorliegenden Verordnung:
+
+- b. wenn sie auf Informatikmittel der internen IKT-Leistungserbringer nach Artikel 10 der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl1-3] (DigiV) zugreifen oder ihre eigenen Informatikmittel durch diese Leistungserbringer betreiben lassen: die Artikel 5–6, 9–10, 16–73 ISG sowie die Artikel 10–12, 27 und 29–35 dieser Verordnung.
+
+**Art. 9 Abs. 2**
+
+<sup>2</sup> Betrifft eine Ausnahme, die im Kompetenzbereich der Fachstelle des Bundes für Informationssicherheit liegt, auch Vorgaben der BK über die digitale Transformation und die IKT-Lenkung, so hört die Fachstelle vorgängig die DTI-Delegierte oder den DTI-Delegierten an.
+
+**Art. 14 Abs. 1**
+
+<sup>1</sup> Die BK, die Departemente, das BACS und die internen IKT-Leistungserbringer nach Artikel 10 DigiV[^annex2-lvlII-lvl1-4] erstatten der Fachstelle des Bundes für Informationssicherheit jährlich Bericht über den Stand der Informationssicherheit in ihrem Zuständigkeitsbereich. Sie erheben bei den Verwaltungseinheiten und ihren Leistungserbringern die dafür nötigen Informationen.
+
+***Art. 38* Informationssicherheit bei zentral bereitgestellten Informatikmitteln**
+
+<sup>1</sup> Die oder der DTI-Delegierte ist für die Gewährleistung der Informationssicherheit der vom Bereich DTI zentral bereitgestellten Informatikmittel zuständig.
+
+<sup>2</sup> Sie oder er bezeichnet eine Informationssicherheitsbeauftragte oder einen Informationssicherheitsbeauftragten oder mehrere Informationssicherheitsbeauftragte sowie deren oder dessen Stellvertretung.
+
+<sup>3</sup> Die Informationssicherheitsbeauftragten nehmen für die vom Bereich DTI zentral bereitgestellten Informatikmittel die Aufgaben nach Artikel 37 Absatz 2 wahr und informieren die Bundesverwaltung und die Armee über die Informationssicherheitsrisiken*.*
+
+[^annex2-lvlII-lvl1-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^annex2-lvlII-lvl1-3]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^annex2-lvlII-lvl1-4]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 2. Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Logistik des Bundes
+
+[^annex2-lvlII-lvl2-1]
+
+[^annex2-lvlII-lvl2-1]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+
+**Art. 41 Abs. 2 Bst. a**
+
+<sup>2</sup> Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
+
+die Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl2-2];
+
+[^annex2-lvlII-lvl2-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 3. GEVER-Verordnung vom 3. April 2019
+
+[^annex2-lvlII-lvl3-1]
+
+[^annex2-lvlII-lvl3-1]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+
+**Art. 1 Abs. 1 Bst. b und 3**
+
+<sup>1</sup>
+
+Diese Verordnung gilt für:
+
+- b. die Stellen nach Artikel 11 Absatz 4 der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl3-2], soweit sie das vom IKT-Standarddienst GEVER bereitgestellte Geschäftsverwaltungssystem (standardisiertes GEVER) nutzen.
+
+<sup>3</sup> Die Bestimmungen dieser Verordnung über die Zuständigkeiten in der Bundesverwaltung (4. Abschnitt) gelten nur, soweit das standardisierte GEVER genutzt wird.
+
+[^annex2-lvlII-lvl3-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 4. Verordnung vom 19. Oktober 2016 über die Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes
+
+[^annex2-lvlII-lvl4-1]
+
+[^annex2-lvlII-lvl4-1]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+
+**Ersatz eines Ausdrucks**
+
+Im ganzen Erlass wird «Bereich DTI der BK» ersetzt durch «Bereich DTI».
+
+**Art. 5 Abs. 1 Bst. a Einleitungssatz**
+
+<sup>1</sup>
+
+Die folgenden Bundesorgane sind für die nachstehenden IAM-Systeme der zentralen Bundesverwaltung verantwortlich:
+
+- a. der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI) für:
+
+**Art. 6 Bst. a**
+
+Die für Verzeichnisdienste ausserhalb von IAM-Systemen verantwortlichen Bundesorgane sind:
+
+- a. für die vom Bereich DTI zentral bereitgestellten IKT-Mittel: der Bereich DTI;
+
+### 5. Verordnung vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung
+
+[^annex2-lvlII-lvl5-1]
+
+[^annex2-lvlII-lvl5-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+
+**Art. 21 Abs. 1 Bst. a**
+
+<sup>1</sup>
+
+Die zentralen Beschaffungsstellen können für folgende Beschaffungen den nachstehenden Organisationen die Durchführung von Vergabeverfahren übertragen:
+
+- a. gemeinsame Beschaffungen von IKT-Mitteln oder Dienstleistungen in Zusammenhang mit IKT‑Mitteln von Bund, Kantonen und Gemeinden: der eOperations Schweiz AG (Art. 13 der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl5-2]);
+
+[^annex2-lvlII-lvl5-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 6. Organisationsverordnung vom 29. Oktober 2008 für die Bundeskanzlei
+
+[^annex2-lvlII-lvl6-1]
+
+[^annex2-lvlII-lvl6-1]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+
+***Art. 4a* Digitale Transformation und IKT-Lenkung**
+
+Die Bundeskanzlei erfüllt die Aufgaben nach der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl6-2].
+
+[^annex2-lvlII-lvl6-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 7. Organisationsverordnung vom 7. März 2003 für das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
+
+[^annex2-lvlII-lvl7-1]
+
+[^annex2-lvlII-lvl7-1]: [SR 172.214.1](https://fedlex.data.admin.ch/eli/cc/2003/270)
+
+**Art. 11 Bst. d Ziff. 4**
+
+Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
+
+- d.
+
+  Kommando Cyber:
+
+  - 4\. Es kann im Einvernehmen mit dem Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei Leistungen aus seinem Leistungskatalog zugunsten der Bundesverwaltung erbringen. Bei Differenzen erfolgt die Streitbeilegung nach Artikel 42 der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl7-2].
+
+[^annex2-lvlII-lvl7-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+
+### 8. Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Finanzdepartement
+
+[^annex2-lvlII-lvl8-1]
+
+[^annex2-lvlII-lvl8-1]: [SR 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+
+**Art. 9 Abs. 2<sup>bis</sup>**
+
+<sup>2bis</sup> Sie betreibt das Informationssystem zur Stammdatenverwaltung (MDG-System[^annex2-lvlII-lvl8-2]) und erfüllt die übrigen Aufgaben der EFV nach dem 4. Kapitel 3. Abschnitt der Digitalisierungsverordnung vom 2. April 2025[^annex2-lvlII-lvl8-3].
+
+[^annex2-lvlII-lvl8-2]: MDG = Master Data Governance
+[^annex2-lvlII-lvl8-3]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
