@@ -3,11 +3,11 @@ sr: "0.311.542"
 title: "Zusatzprotokoll vom 15. November 2000 zur Verhütung, Bekämpfung und Bestrafung des Menschenhandels, insbesondere des Frauen- und Kinderhandels zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/864"
 language: de
-version: 2023-06-07
+version: 2025-04-10
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20230607/de/xml/fedlex-data-admin-ch-eli-cc-2006-864-20230607-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20230607/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20250410/de/xml/fedlex-data-admin-ch-eli-cc-2006-864-20250410-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20250410/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006
 
 In Kraft getreten für die Schweiz am 26. November 2006
 
-(Stand am 7. Juni 2023)
+(Stand am 10. April 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
 
@@ -304,7 +304,7 @@ Auf Ersuchen eines anderen Vertragsstaats überprüft ein Vertragsstaat in Über
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. Juni 2023[^t-2]
+Geltungsbereich am 10. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -402,7 +402,7 @@ Geltungsbereich am 7. Juni 2023[^t-2]
 <tr><td>Liberia</td><td>22. September</td><td>2004 B</td><td>22. Oktober</td><td>2004</td></tr>
 <tr><td>Libyen</td><td>24. September</td><td>2004</td><td>24. Oktober</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>20. Februar</td><td>2008</td><td>21. März</td><td>2008</td></tr>
-<tr><td>Litauen\*</td><td>23. Juni</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
+<tr><td>Litauen</td><td>23. Juni</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Luxemburg</td><td>20. April</td><td>2009</td><td>20. Mai</td><td>2009</td></tr>
 <tr><td>Madagaskar</td><td>15. September</td><td>2005</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Malawi\*</td><td>17. März</td><td>2005 B</td><td>16. April</td><td>2005</td></tr>
@@ -428,6 +428,7 @@ Geltungsbereich am 7. Juni 2023[^t-2]
 <tr><td>Nicaragua</td><td>12. Oktober</td><td>2004 B</td><td>11. November</td><td>2004</td></tr>
 <tr><td>Niederlande <sup>c</sup></td><td>27. Juli</td><td>2005</td><td>26. August</td><td>2005</td></tr>
 <tr><td>Aruba</td><td>18. Januar</td><td>2007</td><td>18. Januar</td><td>2007</td></tr>
+<tr><td>Curaçao</td><td>16. November</td><td>2023</td><td>16. November</td><td>2023</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>30. September</td><td>2004</td><td>30. Oktober</td><td>2004</td></tr>
 <tr><td>Nigeria</td><td>28. Juni</td><td>2001</td><td>25. Dezember</td><td>2003</td></tr>
@@ -457,22 +458,24 @@ Geltungsbereich am 7. Juni 2023[^t-2]
 <tr><td>Serbien</td><td>6. September</td><td>2001</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Seychellen</td><td>22. Juni</td><td>2004</td><td>22. Juli</td><td>2004</td></tr>
 <tr><td>Sierra Leone</td><td>12. August</td><td>2014</td><td>11. September</td><td>2014</td></tr>
-<tr><td>Simbabwe<sup>\*</sup></td><td>13. Dezember</td><td>2013 B</td><td>12. Januar</td><td>2014</td></tr>
-<tr><td>Singapur<sup>\*</sup></td><td>28. September</td><td>2015 B</td><td>28. Oktober</td><td>2015</td></tr>
+<tr><td>Simbabwe\*</td><td>13. Dezember</td><td>2013 B</td><td>12. Januar</td><td>2014</td></tr>
+<tr><td>Singapur\*</td><td>28. September</td><td>2015 B</td><td>28. Oktober</td><td>2015</td></tr>
 <tr><td>Slowakei</td><td>21. September</td><td>2004</td><td>21. Oktober</td><td>2004</td></tr>
 <tr><td>Slowenien</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
+<tr><td>Somalia\*</td><td>25. März</td><td>2025 B</td><td>24. April</td><td>2025</td></tr>
 <tr><td>Spanien</td><td>1. März</td><td>2002</td><td>25. Dezember</td><td>2003</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>15. Juni</td><td>2015</td><td>15. Juli</td><td>2015</td></tr>
+<tr><td>Sri Lanka\*</td><td>15. Juni</td><td>2015</td><td>15. Juli</td><td>2015</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Mai</td><td>2004 B</td><td>20. Juni</td><td>2004</td></tr>
 <tr><td>St. Lucia</td><td>16. Juli</td><td>2013 B</td><td>15. August</td><td>2013</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010</td><td>28. November</td><td>2010</td></tr>
 <tr><td>Südafrika\*</td><td>20. Februar</td><td>2004</td><td>21. März</td><td>2004</td></tr>
 <tr><td>Sudan</td><td>2. Dezember</td><td>2014 B</td><td>1. Januar</td><td>2015</td></tr>
+<tr><td>Südsudan</td><td>9. April</td><td>2025 B</td><td>9. Mai</td><td>2025</td></tr>
 <tr><td>Suriname</td><td>25. Mai</td><td>2007 B</td><td>24. Juni</td><td>2007</td></tr>
 <tr><td>Syrien\*</td><td>8. April</td><td>2009</td><td>8. Mai</td><td>2009</td></tr>
 <tr><td>Tadschikistan</td><td>8. Juli</td><td>2002 B</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Tansania</td><td>24. Mai</td><td>2006</td><td>23. Juni</td><td>2006</td></tr>
-<tr><td>Thailand<sup>\*</sup></td><td>17. Oktober</td><td>2013</td><td>16. November</td><td>2013</td></tr>
+<tr><td>Thailand\*</td><td>17. Oktober</td><td>2013</td><td>16. November</td><td>2013</td></tr>
 <tr><td>Timor-Leste</td><td>9. November</td><td>2009 B</td><td>9. Dezember</td><td>2009</td></tr>
 <tr><td>Togo</td><td>8. Mai</td><td>2009</td><td>7. Juni</td><td>2009</td></tr>
 <tr><td>Trinidad und Tobago</td><td>6. November</td><td>2007</td><td>6. Dezember</td><td>2007</td></tr>
@@ -481,6 +484,7 @@ Geltungsbereich am 7. Juni 2023[^t-2]
 <tr><td>Tunesien\*</td><td>14. Juli</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Türkei</td><td>25. März</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Turkmenistan</td><td>28. März</td><td>2005 B</td><td>27. April</td><td>2005</td></tr>
+<tr><td>Uganda</td><td>27. März</td><td>2024</td><td>26. April</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
 <tr><td>Ungarn</td><td>22. Dezember</td><td>2006</td><td>21. Januar</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>4. März</td><td>2005</td><td>3. April</td><td>2005</td></tr>
@@ -492,7 +496,7 @@ Geltungsbereich am 7. Juni 2023[^t-2]
 <tr><td>Vietnam\*</td><td>8. Juni</td><td>2012 B</td><td>8. Juli</td><td>2012</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>6. August</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und für Grönland. <sup>b</sup> Das Protokoll gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und für Grönland. <sup>b</sup> Das Protokoll gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864); [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158); [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8), [3869](https://fedlex.data.admin.ch/eli/oc/2009/482); [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121); [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495); [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485); [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518); [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544); [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8); [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265); [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563); [2023 282](https://fedlex.data.admin.ch/eli/oc/2023/282). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publiktionsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864); [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158); [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8), [3869](https://fedlex.data.admin.ch/eli/oc/2009/482); [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121); [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495); [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485); [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518); [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544); [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8); [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265); [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563); [2023 282](https://fedlex.data.admin.ch/eli/oc/2023/282); [2025 242](https://fedlex.data.admin.ch/eli/oc/2025/242). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
