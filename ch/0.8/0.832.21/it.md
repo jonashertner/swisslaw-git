@@ -3,29 +3,27 @@ sr: "0.832.21"
 title: Convenzione internazionale n. 18 del 10 giugno 1925 concernente la riparazione dei danni delle malattie professionali
 eli: "https://fedlex.data.admin.ch/eli/cc/43/540_560_558"
 language: it
-version: 2013-07-31
+version: 2025-04-10
 adopted: 1925-06-10
 in_force: 1927-11-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/540_560_558/20130731/it/xml/fedlex-data-admin-ch-eli-cc-43-540_560_558-20130731-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/540_560_558/20130731/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/540_560_558/20250410/it/xml/fedlex-data-admin-ch-eli-cc-43-540_560_558-20250410-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/540_560_558/20250410/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione internazionale n. 18 concernente la riparazione dei danni delle malattie professionali
 
-[^t-1]AS
+CS **14** 68; FF **1926** I 795 ediz. ted. **1926** I 851 ediz. franc.
 
-Traduzione*[^t-2]*
+Traduzione
 
-Adottata a Ginevra il 10 giugno 1925[^t-3] Approvata dall’Assemblea federale il 9 giugno 1927[^t-4] Ratificazione depositata dalla Svizzera il 16 novembre 1927 Entrata in vigore per la Svizzera il 16 novembre 1927
+Adottata a Ginevra il 10 giugno 1925[^t-1] Approvata dall’Assemblea federale il 9 giugno 1927[^t-2] Ratificazione depositata dalla Svizzera il 16 novembre 1927 Entrata in vigore per la Svizzera il 16 novembre 1927
 
-(Stato 31 luglio 2013)
+(Stato 10 aprile 2025)
 
-[^t-1]: CS **14** 68; FF **1926** I 795 ediz. ted. **1926** I 851 ediz. franc.
-[^t-2]: Il testo originale francese è pubblicato sotto lo stesso numero nell’edizione franc. della presente Raccolta.
-[^t-3]: La Conv. è stata adottata nella settima sessione della Conferenza generale dell’Organizzazione internazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conv. solo con il deposito del rispettivo strumento di ratificazione (art. 4). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Conv. allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presente testo si è tenuto conto di queste modificazioni, introdotte dalla Conv. 9 ott. 1946 ([RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)).
-[^t-4]: N. I lett. a del DF del 9 giu. 1927 (CS **14** 67).
+[^t-1]: La Conv. è stata adottata nella settima sessione della Conferenza generale dell’Organizzazione internazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conv. solo con il deposito del rispettivo strumento di ratificazione (art. 4). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Conv. allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presente testo si è tenuto conto di queste modificazioni, introdotte dalla Conv. 9 ott. 1946 ([RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)).
+[^t-2]: N. I lett. a del DF del 9 giu. 1927 (CS **14** 67).
 
 La Conferenza generale dell’Organizzazione internazionale del Lavoro,
 
@@ -100,84 +98,81 @@ I testi francese e inglese della presente Convenzione faranno egualmente stato.
 
 (Seguono le firme)
 
-Campo d’applicazione il 31 luglio 2013**[^t-5]**
+Campo d’applicazione il 10 aprile 2025[^t-3]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>19 ottobre</td><td>1962 S</td><td>19 ottobre</td><td>1962</td></tr>
-<tr><td colspan="2">Angola</td><td>4 giugno</td><td>1976 S</td><td>4 giugno</td><td>1976</td></tr>
-<tr><td colspan="2">Argentina</td><td>24 settembre</td><td>1956</td><td>24 settembre</td><td>1956</td></tr>
-<tr><td colspan="2">Armenia</td><td>18 maggio</td><td>2006</td><td>18 maggio</td><td>2006</td></tr>
-<tr><td colspan="2">Australia</td><td>22 aprile</td><td>1959</td><td>22 aprile</td><td>1959</td></tr>
-<tr><td colspan="2">Isola di Norfolk<sup>a</sup></td><td>8 febbraio</td><td>1996</td><td>8 febbraio</td><td>1996</td></tr>
-<tr><td colspan="2">Austria</td><td>29 settembre</td><td>1928</td><td>29 settembre</td><td>1928</td></tr>
-<tr><td colspan="2">Bangladesh</td><td>22 giugno</td><td>1972 S</td><td>22 giugno</td><td>1972</td></tr>
-<tr><td colspan="2">Belgio</td><td>3 ottobre</td><td>1927</td><td>3 ottobre</td><td>1927</td></tr>
-<tr><td colspan="2">Benin</td><td>12 dicembre</td><td>1960 S</td><td>12 dicembre</td><td>1960</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>5 settembre</td><td>1929</td><td>5 settembre</td><td>1929</td></tr>
-<tr><td colspan="2">Burkina Faso</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
-<tr><td colspan="2">Burundi</td><td>11 marzo</td><td>1963 S</td><td>11 marzo</td><td>1963</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Macao<sup>a</sup> <sup>b</sup></td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Colombia</td><td>20 giugno</td><td>1933</td><td>20 giugno</td><td>1933</td></tr>
-<tr><td colspan="2">Comore</td><td>23 ottobre</td><td>1978 S</td><td>23 ottobre</td><td>1978</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>20 settembre</td><td>1960 S</td><td>20 settembre</td><td>1960</td></tr>
-<tr><td colspan="2">Côte d'Ivoire</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
-<tr><td colspan="2">Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba</td><td>6 agosto</td><td>1928</td><td>6 agosto</td><td>1928</td></tr>
-<tr><td colspan="2">Danimarca</td><td>18 giugno</td><td>1934</td><td>18 giugno</td><td>1934</td></tr>
-<tr><td colspan="2">Isole Faeröer</td><td>18 giugno</td><td>1934</td><td>18 giugno</td><td>1934</td></tr>
-<tr><td colspan="2">Egitto</td><td>10 maggio</td><td>1960</td><td>10 maggio</td><td>1960</td></tr>
-<tr><td colspan="2">Finlandia</td><td>17 settembre</td><td>1927</td><td>17 settembre</td><td>1927</td></tr>
-<tr><td colspan="2">Francia</td><td>13 agosto</td><td>1931</td><td>13 agosto</td><td>1931</td></tr>
-<tr><td colspan="2">Guadalupa</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
-<tr><td colspan="2">Guayana francese</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
-<tr><td colspan="2">Martinica</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
-<tr><td colspan="2">Nuova Caledonia</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Polinesia francese</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Riunione</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
-<tr><td colspan="2">St. Pierre e Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Germania</td><td>18 settembre</td><td>1928</td><td>18 settembre</td><td>1928</td></tr>
-<tr><td colspan="2">Giappone</td><td>8 ottobre</td><td>1928</td><td>8 ottobre</td><td>1928</td></tr>
-<tr><td colspan="2">Gibuti</td><td>3 agosto</td><td>1978 S</td><td>3 agosto</td><td>1978</td></tr>
-<tr><td colspan="2">Guinea</td><td>21 gennaio</td><td>1959 S</td><td>21 gennaio</td><td>1959</td></tr>
-<tr><td colspan="2">Guinea-Bissau</td><td>21 febbraio</td><td>1977</td><td>21 febbraio</td><td>1977</td></tr>
-<tr><td colspan="2">India</td><td>30 settembre</td><td>1927</td><td>30 settembre</td><td>1927</td></tr>
-<tr><td colspan="2">Iraq</td><td>26 novembre</td><td>1938</td><td>26 novembre</td><td>1938</td></tr>
-<tr><td colspan="2">Italia</td><td>22 gennaio</td><td>1934</td><td>22 gennaio</td><td>1934</td></tr>
-<tr><td colspan="2">Lettonia</td><td>29 novembre</td><td>1929</td><td>29 novembre</td><td>1929</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>16 aprile</td><td>1928</td><td>16 aprile</td><td>1928</td></tr>
-<tr><td colspan="2">Macedonia</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
-<tr><td colspan="2">Mali</td><td>22 settembre</td><td>1960 S</td><td>22 settembre</td><td>1960</td></tr>
-<tr><td colspan="2">Marocco</td><td>20 settembre</td><td>1956</td><td>20 settembre</td><td>1956</td></tr>
-<tr><td colspan="2">Mauritania</td><td>20 giugno</td><td>1961 S</td><td>20 giugno</td><td>1961</td></tr>
-<tr><td colspan="2">Montenegro</td><td>3 giugno</td><td>2006</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Mozambico</td><td>6 giugno</td><td>1977</td><td>6 giugno</td><td>1977</td></tr>
-<tr><td colspan="2">Myanmar</td><td>30 settembre</td><td>1927 S</td><td>30 settembre</td><td>1927</td></tr>
-<tr><td colspan="2">Nauru</td><td>5 settembre</td><td>1968 S</td><td>5 settembre</td><td>1968</td></tr>
-<tr><td colspan="2">Nicaragua</td><td>12 aprile</td><td>1934</td><td>12 aprile</td><td>1934</td></tr>
-<tr><td colspan="2">Niger</td><td>27 febbraio</td><td>1961 S</td><td>27 febbraio</td><td>1961</td></tr>
-<tr><td colspan="2">Norvegia</td><td>11 giugno</td><td>1929</td><td>11 giugno</td><td>1929</td></tr>
-<tr><td colspan="2">Pakistan</td><td>30 settembre</td><td>1927</td><td>30 settembre</td><td>1927</td></tr>
-<tr><td colspan="2">Papua Nuova Guinea</td><td>1° maggio</td><td>1976 S</td><td>1° maggio</td><td>1976</td></tr>
-<tr><td colspan="2">Polonia</td><td>3 novembre</td><td>1937</td><td>3 novembre</td><td>1937</td></tr>
-<tr><td colspan="2">Portogallo</td><td>27 marzo</td><td>1929</td><td>27 marzo</td><td>1929</td></tr>
-<tr><td colspan="2">Rep. Centrafricana</td><td>9 giugno</td><td>1964</td><td>9 giugno</td><td>1964</td></tr>
-<tr><td colspan="2">Ruanda</td><td>18 settembre</td><td>1962 S</td><td>18 settembre</td><td>1962</td></tr>
-<tr><td colspan="2">São Tomé e Príncipe</td><td>1° giugno</td><td>1982</td><td>1° giugno</td><td>1982</td></tr>
-<tr><td colspan="2">Serbia</td><td>24 novembre</td><td>2000 S</td><td>1° aprile</td><td>1927</td></tr>
-<tr><td colspan="2">Siria</td><td>10 maggio</td><td>1960 S</td><td>10 maggio</td><td>1960</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
-<tr><td colspan="2">Spagna</td><td>29 settembre</td><td>1932</td><td>29 settembre</td><td>1932</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td>17 maggio</td><td>1952</td><td>17 maggio</td><td>1952</td></tr>
-<tr><td colspan="2">Svizzera</td><td>16 novembre</td><td>1927</td><td>16 novembre</td><td>1927</td></tr>
-<tr><td colspan="2">Tunisia</td><td>12 gennaio</td><td>1959</td><td>12 gennaio</td><td>1959</td></tr>
-<tr><td colspan="2">Zambia</td><td>22 febbraio</td><td>1965</td><td>22 febbraio</td><td>1965</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La Conv. è applicabile all’isola di Norfolk ed a Macao, ad eccezione delle modifiche del 9 ott. 1946 e del 26 giu. 1961.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Dal 4 ott. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 lug. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>19 ottobre</td><td>1962 S</td><td>19 ottobre</td><td>1962</td></tr>
+<tr><td>Angola</td><td>4 giugno</td><td>1976 S</td><td>4 giugno</td><td>1976</td></tr>
+<tr><td>Argentina</td><td>24 settembre</td><td>1956</td><td>24 settembre</td><td>1956</td></tr>
+<tr><td>Armenia</td><td>18 maggio</td><td>2006</td><td>18 maggio</td><td>2006</td></tr>
+<tr><td>Australia</td><td>22 aprile</td><td>1959</td><td>22 aprile</td><td>1959</td></tr>
+<tr><td>Isola di Norfolk <sup>a</sup></td><td>8 febbraio</td><td>1996</td><td>8 febbraio</td><td>1996</td></tr>
+<tr><td>Austria</td><td>29 settembre</td><td>1928</td><td>29 settembre</td><td>1928</td></tr>
+<tr><td>Bangladesh</td><td>22 giugno</td><td>1972 S</td><td>22 giugno</td><td>1972</td></tr>
+<tr><td>Belgio</td><td>3 ottobre</td><td>1927</td><td>3 ottobre</td><td>1927</td></tr>
+<tr><td>Benin</td><td>12 dicembre</td><td>1960 S</td><td>12 dicembre</td><td>1960</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
+<tr><td>Bulgaria</td><td>5 settembre</td><td>1929</td><td>5 settembre</td><td>1929</td></tr>
+<tr><td>Burkina Faso</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
+<tr><td>Burundi</td><td>11 marzo</td><td>1963 S</td><td>11 marzo</td><td>1963</td></tr>
+<tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Macao <sup>a</sup> <sup>b</sup></td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Colombia</td><td>20 giugno</td><td>1933</td><td>20 giugno</td><td>1933</td></tr>
+<tr><td>Comore</td><td>23 ottobre</td><td>1978 S</td><td>23 ottobre</td><td>1978</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>20 settembre</td><td>1960 S</td><td>20 settembre</td><td>1960</td></tr>
+<tr><td>Côte d’Ivoire</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
+<tr><td>Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Cuba</td><td>6 agosto</td><td>1928</td><td>6 agosto</td><td>1928</td></tr>
+<tr><td>Egitto</td><td>10 maggio</td><td>1960</td><td>10 maggio</td><td>1960</td></tr>
+<tr><td>Finlandia</td><td>17 settembre</td><td>1927</td><td>17 settembre</td><td>1927</td></tr>
+<tr><td>Francia</td><td>13 agosto</td><td>1931</td><td>13 agosto</td><td>1931</td></tr>
+<tr><td>Guadalupa</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
+<tr><td>Guayana francese</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
+<tr><td>Martinica</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
+<tr><td>Nuova Caledonia</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Polinesia francese</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Riunione</td><td>15 marzo</td><td>1938</td><td>15 marzo</td><td>1938</td></tr>
+<tr><td>St. Pierre e Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Germania</td><td>18 settembre</td><td>1928</td><td>18 settembre</td><td>1928</td></tr>
+<tr><td>Giappone</td><td>8 ottobre</td><td>1928</td><td>8 ottobre</td><td>1928</td></tr>
+<tr><td>Gibuti</td><td>3 agosto</td><td>1978 S</td><td>3 agosto</td><td>1978</td></tr>
+<tr><td>Guinea</td><td>21 gennaio</td><td>1959 S</td><td>21 gennaio</td><td>1959</td></tr>
+<tr><td>Guinea-Bissau</td><td>21 febbraio</td><td>1977</td><td>21 febbraio</td><td>1977</td></tr>
+<tr><td>India</td><td>30 settembre</td><td>1927</td><td>30 settembre</td><td>1927</td></tr>
+<tr><td>Iraq</td><td>26 novembre</td><td>1938</td><td>26 novembre</td><td>1938</td></tr>
+<tr><td>Italia</td><td>22 gennaio</td><td>1934</td><td>22 gennaio</td><td>1934</td></tr>
+<tr><td>Lettonia</td><td>29 novembre</td><td>1929</td><td>29 novembre</td><td>1929</td></tr>
+<tr><td>Lussemburgo</td><td>16 aprile</td><td>1928</td><td>16 aprile</td><td>1928</td></tr>
+<tr><td>Macedonia del Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Mali</td><td>22 settembre</td><td>1960 S</td><td>22 settembre</td><td>1960</td></tr>
+<tr><td>Marocco</td><td>20 settembre</td><td>1956</td><td>20 settembre</td><td>1956</td></tr>
+<tr><td>Mauritania</td><td>20 giugno</td><td>1961 S</td><td>20 giugno</td><td>1961</td></tr>
+<tr><td>Montenegro</td><td>3 giugno</td><td>2006</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Mozambico</td><td>6 giugno</td><td>1977</td><td>6 giugno</td><td>1977</td></tr>
+<tr><td>Myanmar</td><td>30 settembre</td><td>1927 S</td><td>30 settembre</td><td>1927</td></tr>
+<tr><td>Nauru</td><td>5 settembre</td><td>1968 S</td><td>5 settembre</td><td>1968</td></tr>
+<tr><td>Nicaragua</td><td>12 aprile</td><td>1934</td><td>12 aprile</td><td>1934</td></tr>
+<tr><td>Niger</td><td>27 febbraio</td><td>1961 S</td><td>27 febbraio</td><td>1961</td></tr>
+<tr><td>Norvegia</td><td>11 giugno</td><td>1929</td><td>11 giugno</td><td>1929</td></tr>
+<tr><td>Pakistan</td><td>30 settembre</td><td>1927</td><td>30 settembre</td><td>1927</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>1° maggio</td><td>1976 S</td><td>1° maggio</td><td>1976</td></tr>
+<tr><td>Polonia</td><td>3 novembre</td><td>1937</td><td>3 novembre</td><td>1937</td></tr>
+<tr><td>Portogallo</td><td>27 marzo</td><td>1929</td><td>27 marzo</td><td>1929</td></tr>
+<tr><td>Rep. Centrafricana</td><td>9 giugno</td><td>1964</td><td>9 giugno</td><td>1964</td></tr>
+<tr><td>Ruanda</td><td>18 settembre</td><td>1962 S</td><td>18 settembre</td><td>1962</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>1° giugno</td><td>1982</td><td>1° giugno</td><td>1982</td></tr>
+<tr><td>Serbia</td><td>24 novembre</td><td>2000 S</td><td>1° aprile</td><td>1927</td></tr>
+<tr><td>Siria</td><td>10 maggio</td><td>1960 S</td><td>10 maggio</td><td>1960</td></tr>
+<tr><td>Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
+<tr><td>Spagna</td><td>29 settembre</td><td>1932</td><td>29 settembre</td><td>1932</td></tr>
+<tr><td>Sri Lanka</td><td>17 maggio</td><td>1952</td><td>17 maggio</td><td>1952</td></tr>
+<tr><td>Svizzera</td><td>16 novembre</td><td>1927</td><td>16 novembre</td><td>1927</td></tr>
+<tr><td>Tunisia</td><td>12 gennaio</td><td>1959</td><td>12 gennaio</td><td>1959</td></tr>
+<tr><td>Zambia</td><td>22 febbraio</td><td>1965</td><td>22 febbraio</td><td>1965</td></tr>
+<tr><td colspan="5"><sup>a</sup> La Conv. è applicabile all’isola di Norfolk ed a Macao, ad eccezione delle modifiche del 9 ott. 1946 e del 26 giu. 1961. <sup>b</sup> Dal 4 ott. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 lug. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
-[^t-5]: [RU 1973 1174](https://fedlex.data.admin.ch/eli/oc/1973/1175_1175_1174), [1975 2487](https://fedlex.data.admin.ch/eli/oc/1975/2487_2487_2487), [1982 1823](https://fedlex.data.admin.ch/eli/oc/1982/1823_1823_1823), [1986 1427](https://fedlex.data.admin.ch/eli/oc/1986/1427_1427_1427), [2005 1857](https://fedlex.data.admin.ch/eli/oc/2005/312), [2008 4497](https://fedlex.data.admin.ch/eli/oc/2008/629)e [2013 2669](https://fedlex.data.admin.ch/eli/oc/2013/542). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1973 1174](https://fedlex.data.admin.ch/eli/oc/1973/1175_1175_1174); [1975 2487](https://fedlex.data.admin.ch/eli/oc/1975/2487_2487_2487); [1982 1823](https://fedlex.data.admin.ch/eli/oc/1982/1823_1823_1823); [1986 1427](https://fedlex.data.admin.ch/eli/oc/1986/1427_1427_1427); [2005 1857](https://fedlex.data.admin.ch/eli/oc/2005/312); [2008 4497](https://fedlex.data.admin.ch/eli/oc/2008/629); [2013 2669](https://fedlex.data.admin.ch/eli/oc/2013/542); [2025 245](https://fedlex.data.admin.ch/eli/oc/2025/245). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
