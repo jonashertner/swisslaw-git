@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2025-04-08
+version: 2025-04-11
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250408/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250408-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250408/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250411/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250411-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250411/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 8. April 2025)
+vom 16. März 2022 (Stand am 11. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1418,8 +1418,8 @@ Anhang 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)) und vom 4. April 2025, in Kraft seit 8. April 2025 (AS **202****5** 228).
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/228](https://fedlex.data.admin.ch/eli/oc/2025/228) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-9]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), vom 4. April 2025 ([AS 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) und vom 10. April 2025, in Kraft seit 11. April 2025 ([AS 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/240](https://fedlex.data.admin.ch/eli/oc/2025/240) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 

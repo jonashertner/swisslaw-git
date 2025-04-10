@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2025-04-08
+version: 2025-04-11
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250408/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250408-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250408/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250411/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250411-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250411/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 8 avril 2025)
+du 16 mars 2022 (État le 11 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1417,8 +1417,8 @@ Annexe 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II al. 1 de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), le ch. I des O du DEFR du 20 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)) et du 4 avr. 2025, en vigueur depuis le 8 avr. 2025 ([RO 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/228](https://fedlex.data.admin.ch/eli/oc/2025/228) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II al. 1 de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), le ch. I des O du DEFR du 20 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), du 4 avr. 2025 ([RO 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) et du 10 avr. 2025, en vigueur depuis le 11 avr. 2025 ([RO 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/240](https://fedlex.data.admin.ch/eli/oc/2025/240) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 
