@@ -3,24 +3,24 @@ canton: ZG
 number: "153.717"
 title: Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern in sozialen und gesellschaftlichen Bereichen an das Kantonale Sozialamt
 language: de
-version: 2019-04-13
-valid_until: 2025-04-10
-version_adopted: 2019-04-05
+version: 2025-04-11
+valid_until: 2026-06-04
+version_adopted: 2025-04-08
 adopted: 2011-06-27
 in_force: 2011-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.717"
-pdf: "https://bgs.zg.ch/api/de/versions/1967/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2687/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern in sozialen und gesellschaftlichen Bereichen an das Kantonale Sozialamt
 
-Vom 27. Juni 2011 (Stand 13. April 2019)
+Vom 27. Juni 2011 (Stand 11. April 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
-gestützt auf §§ 5 und 6 Abs. 2 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz) vom 29. Oktober 1998[^ingress-1], § 4 Abs. 1 Ziff. 10 der Delegationsverordnung (DelV) vom 28. November 2017[^ingress-2], § 12 Abs. 1 Bst. c der Finanzhaushaltverordnung (FHV) vom 21. November 2017[^ingress-3] sowie §§ 5 Abs. 2 und 20 Abs. 1 und 2 des Gesetzes über soziale Einrichtungen (SEG) vom 26. August 2010[^ingress-4],
+gestützt auf § 5 und § 6 Abs. 2 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz, OG) vom 29. Oktober 1998[^ingress-1], § 4 Abs. 1 Ziff. 10 der Delegationsverordnung (DelV) vom 28. November 2017[^ingress-2], § 12 Abs. 1 Bst. c der Finanzhaushaltverordnung (FHV) vom 21. November 2017[^ingress-3] sowie § 4 Abs. 2 Bst. a, b und h des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023[^ingress-4],
 
 verfügt:
 
@@ -48,8 +48,16 @@ verfügt:
 
 [^Ziff3-1]: BGS [153.3](https://bgs.zg.ch/data/153.3/de)
 
+#### Ziff. 3a
+
+<sup>1</sup> Das Recht zur Stellungnahme zur Umsetzung der anwendbaren internationalen und bundesrechtlichen Gesetzgebung in Bezug auf die Rechte von Menschen mit Behinderung gemäss § 4 Abs. 2 Bst. b LBBG[^Ziff3a-1] wird an die Abteilung Behinderung und Betreuungsleistungen des Kantonalen Sozialamts übertragen. Sie kann fachlich unabhängig von einer allfälligen Stellungnahme der Direktion des Innern Stellung nehmen.
+
+<sup>2</sup> Die Direktion des Innern unterbreitet der Abteilung Behinderung und Betreuungsleistungen Geschäfte mit Bezug zu Behindertenrechten zur Stellungnahme. Namentlich werden ihr Einladungen zu kantonsinternen Mitberichten und Stellungnahmen gegenüber Bund und Dritten zur Stellungnahme zugestellt.
+
+[^Ziff3a-1]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
+
 #### Ziff. 4
 
-<sup>1</sup> Diese Verfügung tritt am 1. August 2011 in Kraft.
+**…**
 
 GS 31, 215
