@@ -5,12 +5,12 @@ title: "Reglement über die Übernahme der Fahrkosten im öffentlichen Verkehr d
 short: RÜFÖV
 language: de
 version: 2024-07-01
-valid_until: 2025-07-31
+corrected: 2025-04-11
 version_adopted: 2024-09-04
 adopted: 2012-06-06
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.120"
-pdf: "https://lex.vs.ch/api/de/versions/3480/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -154,7 +154,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die Berechtigten müssen den Sekretariaten der betreffenden Schulen innert Wochenfrist Adressänderungen melden, falls diese einen Einfluss auf ihren Rail-Check haben.
 
-<sup>3</sup> Bei einem Umzug während des Schuljahres muss der Berechtigte dem Rail-Check-Verantwortlichen innert 10 Tagen seinen Fahrausweis und eine Wohnsitzbestätigung der neuen Gemeinde zustellen, damit dieser ihm einen neuen, seinen Bedürfnissen entsprechenden Rail-Check ausstellen kann.
+<sup>3</sup> Bei einem Umzug während des Schuljahres muss der Berechtigte dem Rail-Check-Verantwortlichen innert zehn Tagen seinen Fahrausweis und eine Wohnsitzbestätigung der neuen Gemeinde zustellen, damit dieser ihm einen neuen, seinen Bedürfnissen entsprechenden Rail-Check ausstellen kann.
 
 #### Art. 9
 
