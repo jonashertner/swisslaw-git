@@ -3,11 +3,11 @@ sr: "0.831.451.41"
 title: Vereinbarung vom 19. Dezember 2006 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein betreffend die Wahrnehmung der Aufgaben des liechtensteinischen Sicherheitsfonds (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/333"
 language: de
-version: 2008-04-24
+version: 2025-04-15
 adopted: 2006-12-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20080424/de/xml/fedlex-data-admin-ch-eli-cc-2007-333-20080424-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20080424/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20250415/de/xml/fedlex-data-admin-ch-eli-cc-2007-333-20250415-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20250415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2007** 2395; BBl **2007** 2425
 
 Abgeschlossen am 19. Dezember 2006 Provisorisch angewendet ab 1. Januar 2007 Von der Bundesversammlung genehmigt am 21. Dezember 2007[^t-1] In Kraft getreten am 24. April 2008[^t-2]
 
-(Stand am 24. April 2008)
+(Stand am 15. April 2025)
 
 [^t-1]: [AS 2008 3207](https://fedlex.data.admin.ch/eli/oc/2008/428)
 [^t-2]: [AS 2008 3209](https://fedlex.data.admin.ch/eli/oc/2008/429)
@@ -37,11 +37,11 @@ aufgrund des Bestrebens Liechtensteins, für die Sicherstellung der gesetzlichen
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.831.109.514.1](https://fedlex.data.admin.ch/eli/cc/1990/638_638_638)
-[^ingress-2]: [SR 0.831.109.514.12](https://fedlex.data.admin.ch/eli/cc/1990/656_656_656)
-[^ingress-3]: [SR 0.831.109.514.11](https://fedlex.data.admin.ch/eli/cc/1997/1570_1570_1570)
-[^ingress-4]: [SR 0.831.109.514.13](https://fedlex.data.admin.ch/eli/cc/2002/661)
-[^ingress-5]: [SR 0.831.109.136.2](https://fedlex.data.admin.ch/eli/cc/1980/1607_1607_1607)
+[^ingress-1]: [SR 0.831.109.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3771)
+[^ingress-2]: [SR 0.831.109.514.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3773)
+[^ingress-3]: [SR 0.831.109.514.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3772)
+[^ingress-4]: [SR 0.831.109.514.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3774)
+[^ingress-5]: [SR 0.831.109.136.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3701)
 
 #### Art. 1
 
@@ -71,7 +71,7 @@ Die Stiftung Sicherheitsfonds BVG:
 
 <sup>(3)</sup> Liechtensteinische Vorsorgeeinrichtungen sowie die ihnen angeschlossenen Arbeitgeber und Versicherten werden bei der Erfüllung der durch die Stiftung Sicherheitsfonds BVG wahrgenommenen Aufgaben den schweizerischen Vorsorgeeinrichtungen gleichgestellt. Die Stiftung Sicherheitsfonds BVG erfüllt diese Aufgaben nach Massgabe des schweizerischen Rechts.
 
-[^2-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -141,18 +141,8 @@ Diese Vereinbarung wird ab dem 1. Januar 2007 vorläufig angewendet. Sie tritt i
 
 *Zu Urkund dessen* haben die Bevollmächtigten diese Vereinbarung unterzeichnet. Geschehen zu Bern, am 19. Dezember 2006, in zwei Urschriften in deutscher Sprache. Für den Schweizerischen Bundesrat: Pascal Couchepin Für die Regierung des Fürstentums Liechtenstein: Klaus Tschütscher
 
-Anlage
+Anlage[^t-3]
 
-## Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein betreffend die Wahrnehmung der Aufgaben des liechtensteinischen Sicherheitsfonds
+## Liste des im Fürstentum Liechtenstein anwendbaren schweizerischen Rechts
 
-<table>
-<tr><th>SR Nr.</th><th>Erlass</th><th>AS</th></tr>
-<tr><td>173.110</td><td>Bundesgesetz über das Bundesgericht (BGG)</td><td>*2006* 1205</td></tr>
-<tr><td>173.32</td><td>Bundesgesetz über das Bundesverwaltungsgericht (VGG)</td><td>*2006* 2197</td></tr>
-<tr><td>173.72</td><td>Verordnung über die Inkraftsetzung des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes sowie über die vollständige Inkraftsetzung des Bundesgesetzes über den Sitz des Bundesstrafgerichts und des Bundesverwaltungsgerichts</td><td>*2006* 1069</td></tr>
-<tr><td>831.40</td><td>Bundesgesetz über die berufliche Alters-, Hinterlassenen und Invalidenvorsorge (BVG) anwendbar sind Art. 8 Abs. 1, Art. 41 Abs. 3–8, Art. 52 Abs. 1 und 2, Art. 56 Abs. 1 Bst. b, c, f, Abs. 2–6, Art. 56*a*, Art. 57, Art. 59, Art. 65*d* Abs. 1, Art. 73 Abs. 1 Bst. d und Abs. 2, Art. 76 Lemma 1 und 2 sowie 5 und 6, Art. 77</td><td>*1983* 797 *1996* 3067 3070 *1998* 1573 *1999* 1384 1387 *2004* 1677 1700 4635 4638</td></tr>
-<tr><td>831.42</td><td>Bundesgesetz über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsgesetz, FZG) anwendbar sind Art. 24*a*–24*f*</td><td>*1999* 1384 1387</td></tr>
-<tr><td>831.425</td><td>Verordnung über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsverordnung, FZV) anwendbar sind Art. 19*a*–19*f*</td><td>*1999* 1773</td></tr>
-<tr><td>831.432.1</td><td>Verordnung über den Sicherheitsfonds BVG anwendbar sind Art. 1–14, Art. 16, Art. 18–20, Art. 24–26*a*</td><td>*1998* 1662 *1999* 1773 *2004* 4279 4653</td></tr>
-<tr><td>831.441.1</td><td>Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) anwendbar ist Art. 5</td><td>*2006* 4159</td></tr>
-</table>
+[^t-3]: Erstmals bereinigt auf den 15. April 2025. Die bereinigte Anlage wird in der AS nicht publiziert ([AS 2026 107](https://fedlex.data.admin.ch/eli/oc/2026/107)). Sie kann auf der Internetseite www.gesetze.li &gt; [LR-Nr. 0.831.409 . 101.1](https://www.gesetze.li/konso/2007353000) konsultiert werden.

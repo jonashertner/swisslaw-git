@@ -3,11 +3,11 @@ sr: "0.831.451.41"
 title: "Accordo del 19 dicembre 2006 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein relativo all'assunzione dei compiti del fondo di garanzia del Liechtenstein (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/333"
 language: it
-version: 2008-04-24
+version: 2025-04-15
 adopted: 2006-12-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20080424/it/xml/fedlex-data-admin-ch-eli-cc-2007-333-20080424-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20080424/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20250415/it/xml/fedlex-data-admin-ch-eli-cc-2007-333-20250415-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20250415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,14 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20080424/it"
 
 RU **2007** 2395, FF **2007** 2215
 
-*Traduzione*[^t-1]
+*Traduzione*
 
-Concluso il 19 dicembre 2006 Approvato dall’Assemblea federale il 21 dicembre 2007[^t-2] Applicato provvisoriamente dal 1° gennaio 2007 Entrato in vigore il 24 aprile 2008[^t-3]
+Concluso il 19 dicembre 2006 Approvato dall’Assemblea federale il 21 dicembre 2007[^t-1] Applicato provvisoriamente dal 1° gennaio 2007 Entrato in vigore il 24 aprile 2008[^t-2]
 
-(Stato 24 aprile 2008)
+(Stato 15 aprile 2025)
 
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: [RU 2008 3207](https://fedlex.data.admin.ch/eli/oc/2008/428)
-[^t-3]: [RU 2008 3209](https://fedlex.data.admin.ch/eli/oc/2008/429)
+[^t-1]: [RU 2008 3207](https://fedlex.data.admin.ch/eli/oc/2008/428)
+[^t-2]: [RU 2008 3209](https://fedlex.data.admin.ch/eli/oc/2008/429)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -38,11 +37,11 @@ e vista la volontà del Liechtenstein di affiliare i suoi istituti di previdenza
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.831.109.514.1](https://fedlex.data.admin.ch/eli/cc/1990/638_638_638)
-[^ingress-2]: [RS 0.831.109.514.12](https://fedlex.data.admin.ch/eli/cc/1990/656_656_656)
-[^ingress-3]: [RS 0.831.109.514.11](https://fedlex.data.admin.ch/eli/cc/1997/1570_1570_1570)
-[^ingress-4]: [RS 0.831.109.514.13](https://fedlex.data.admin.ch/eli/cc/2002/661)
-[^ingress-5]: [RS 0.831.109.136.2](https://fedlex.data.admin.ch/eli/cc/1980/1607_1607_1607)
+[^ingress-1]: [RS 0.831.109.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3771)
+[^ingress-2]: [RS 0.831.109.514.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3773)
+[^ingress-3]: [RS 0.831.109.514.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3772)
+[^ingress-4]: [RS 0.831.109.514.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3774)
+[^ingress-5]: [RS 0.831.109.136.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3701)
 
 #### Art. 1
 
@@ -72,7 +71,7 @@ La fondazione Fondo di garanzia LPP:
 
 <sup>(3)</sup> Nell’adempimento dei propri compiti, la fondazione Fondo di garanzia LPP parifica gli istituti di previdenza del Liechtenstein nonché i datori di lavoro e gli assicurati ad essi affiliati agli istituti di previdenza svizzeri. La fondazione Fondo di garanzia LPP svolge tali compiti in conformità al diritto svizzero.
 
-[^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -142,18 +141,10 @@ Il presente Accordo è applicato provvisoriamente a partire dal 1° gennaio 2007
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Berna, il 19 dicembre 2006, in due esemplari originali in lingua tedesca. Per il Consiglio federale svizzero: Pascal Couchepin Per il Governo del Principato del Liechtenstein: Klaus Tschütscher
 
-Allegato
-
-## Accordo tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein relativo all’assunzione dei compiti del fondo di garanzia del Liechtenstein
+Allegato[^t-3]
 
 <table>
-<tr><th>n. RS</th><th>Legge/ordinanza</th><th>RU</th></tr>
-<tr><td>173.110</td><td>Legge sul Tribunale federale (LTF)</td><td>*2006* 1205</td></tr>
-<tr><td>173.32</td><td>Legge sul Tribunale amministrativo federale (LTAF)</td><td>*2006* 2197</td></tr>
-<tr><td>173.72</td><td>Ordinanza sull’entrata in vigore della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale nonché sull’entrata in vigore integrale della legge federale sulle sedi del Tribunale penale federale e del Tribunale amministrativo federale</td><td>*2006* 1069</td></tr>
-<tr><td>831.40</td><td>Legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) Sono applicabili: art. 8 cpv. 1, art. 41 cpv. 3–8, art. 52 cpv. 1 e 2, art. 56 cpv. 1 lett. b, c, f, cpv. 2–6, art. 56*a*, art. 57, art. 59, art. 65*d* cpv. 1, art. 73 cpv. 1 lett. d e cpv. 2, art. 76 commi 1 e 2, 5 e 6, art. 77</td><td>*1983* 797 *1996* 3067 3070 *1998* 1573 *1999* 1384 1387 *2004* 1677 1700 4635 4638</td></tr>
-<tr><td>831.42</td><td>Legge federale sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità (Legge sul libero passaggio, LFLP) Sono applicabili gli art. 24*a*–24*f*</td><td>*1999* 1384 1387</td></tr>
-<tr><td>831.425</td><td>Ordinanza sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità (Ordinanza sul libero passaggio, OLP) Sono applicabili gli art. 19*a*–19*f*</td><td>*1999* 1773</td></tr>
-<tr><td>831.432.1</td><td>Ordinanza sul Fondo di garanzia LPP (OFG) Sono applicabili: art. 1–14, art. 16, art. 18–20, art. 24–26*a*</td><td>*1998* 1662 *1999* 1773 *2004* 4279 4653</td></tr>
-<tr><td>831.441.1</td><td>Ordinanza sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (OPP 2) È applicabile l’art. 5</td><td>*2006* 4159</td></tr>
+<tr><td>Allegato</td><td>– Elenco del diritto svizzero applicabile nel Principato del Liechtenstein</td></tr>
 </table>
+
+[^t-3]: L’all. è stato aggiornato per la prima volta al 15 apr. 2025 dall’entrata in vigore dell’accordo. L'all. aggiornato non è pubblicato nella RU ([RU 2026 107](https://fedlex.data.admin.ch/eli/oc/2026/107)). Può essere consultato sul sito Internet: [https://www.gesetze.li/chrono/2025293000](https://www.gesetze.li/chrono/2025293000)

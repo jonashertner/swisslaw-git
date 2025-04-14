@@ -3,11 +3,11 @@ sr: "0.831.451.41"
 title: Accord du 19 décembre 2006 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein concernant la prise en charge des tâches du fonds de garantie liechtensteinois (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/333"
 language: fr
-version: 2008-04-24
+version: 2025-04-15
 adopted: 2006-12-19
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20080424/fr/xml/fedlex-data-admin-ch-eli-cc-2007-333-20080424-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20080424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/333/20250415/fr/xml/fedlex-data-admin-ch-eli-cc-2007-333-20250415-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20250415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,14 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/333/20080424/fr"
 
 RO **2007** 2395; FF **2007** 2277
 
-*Traduction*[^t-1]
+*Traduction*
 
-Conclu le 19 décembre 2006 Approuvé par l’Assemblée fédérale le 21 décembre 2007[^t-2] Appliqué provisoirement dès le 1<sup>er</sup> janvier 2007 Entré en vigueur le 24 avril 2008[^t-3]
+Conclu le 19 décembre 2006 Approuvé par l’Assemblée fédérale le 21 décembre 2007[^t-1] Appliqué provisoirement dès le 1<sup>er</sup> janvier 2007 Entré en vigueur le 24 avril 2008[^t-2]
 
-(Etat le 24 avril 2008)
+(État le 15 avril 2025)
 
-[^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: [RO 2008 3207](https://fedlex.data.admin.ch/eli/oc/2008/428)
-[^t-3]: [RO 2008 3209](https://fedlex.data.admin.ch/eli/oc/2008/429)
+[^t-1]: [RO 2008 3207](https://fedlex.data.admin.ch/eli/oc/2008/428)
+[^t-2]: [RO 2008 3209](https://fedlex.data.admin.ch/eli/oc/2008/429)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein,
 
@@ -38,11 +37,11 @@ se fondant sur la volonté du Liechtenstein d’affilier les institutions de pr�
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.831.109.514.1](https://fedlex.data.admin.ch/eli/cc/1990/638_638_638)
-[^ingress-2]: [RS 0.831.109.514.12](https://fedlex.data.admin.ch/eli/cc/1990/656_656_656)
-[^ingress-3]: [RS 0.831.109.514.11](https://fedlex.data.admin.ch/eli/cc/1997/1570_1570_1570)
-[^ingress-4]: [RS 0.831.109.514.13](https://fedlex.data.admin.ch/eli/cc/2002/661)
-[^ingress-5]: [RS 0.831.109.136.2](https://fedlex.data.admin.ch/eli/cc/1980/1607_1607_1607)
+[^ingress-1]: [RS 0.831.109.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3771)
+[^ingress-2]: [RS 0.831.109.514.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3773)
+[^ingress-3]: [RS 0.831.109.514.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3772)
+[^ingress-4]: [RS 0.831.109.514.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3774)
+[^ingress-5]: [RS 0.831.109.136.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3701)
 
 #### Art. 1
 
@@ -72,7 +71,7 @@ Le fonds de garantie assume les tâches suivantes:
 
 <sup>(3)</sup> Dans l’exercice des tâches qu’il prend en charge, le fonds de garantie traite les institutions de prévoyance liechtensteinoises ainsi que les employeurs qui leur sont affiliés et les assurés de la même manière que les institutions de prévoyance suisses. Le fonds de garantie exerce ces tâches conformément au droit suisse.
 
-[^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -142,18 +141,10 @@ Le présent accord est appliqué provisoirement à partir du 1<sup>er</sup> janv
 
 *En foi de quoi,* les Plénipotentiaires des deux Parties ont signé le présent accord. Fait à Berne, le 19 décembre 2006, en deux exemplaires originaux en langue allemande. Pour le Conseil fédéral suisse: Pascal Couchepin Pour le Gouvernement de la Principauté de Liechtenstein: Klaus Tschütscher
 
-Annexe
-
-## Accord entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein concernant la prise en charge des obligations du fonds de garantie liechtensteinois
+Annexe[^t-3]
 
 <table>
-<tr><th>RS Nr.</th><th>Loi/ordonnance</th><th>RO</th></tr>
-<tr><td>173.110</td><td>Loi sur le Tribunal fédéral (LTF)</td><td>*2006* 1205</td></tr>
-<tr><td>173.32</td><td>Loi sur le Tribunal administratif fédéral (LTAF)</td><td>*2006* 2197</td></tr>
-<tr><td>173.72</td><td>Ordonnance sur l’entrée en vigueur de la loi sur le Tribunal fédéral et de la loi sur le Tribunal administratif fédéral et sur l’entrée en vigueur intégrale de la loi fédérale sur le siège du Tribunal pénal fédéral et celui du Tribunal administratif fédéral</td><td>*2006* 1069</td></tr>
-<tr><td>831.40</td><td>Loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) Applicables: art. 8, al. 1, art. 41, al. 3 à 8, art. 52, al. 1 et 2, art. 56, al. 1, let. b, c et f, al. 2 à 6, art. 56*a*, art. 57, art. 59, art. 65*d*, al. 1, art. 73, al. 1, let. d et al. 2, art. 76, par. 1, 2, 5 et 6, art. 77</td><td>*1983* 797 *1996* 3067 3070 *1998* 1573 *1999* 1384 1387 *2004* 1677 1700 4635 4638</td></tr>
-<tr><td>831.42</td><td>Loi fédérale sur le libre passage dans la prévoyance vieillesse, survivants et invalidité (loi sur le libre passage, LFLP) Applicables: art. 24*a* à 24*f*</td><td>*1999* 1384 1387</td></tr>
-<tr><td>831.425</td><td>Ordonnance sur le libre passage dans la prévoyance vieillesse, survivants et invalidité (ordonnance sur le libre passage, OLP) Applicables: art. 19*a* à 19*f*</td><td>*1999* 1773</td></tr>
-<tr><td>831.432.1</td><td>Ordonnance sur le «fonds de garantie LPP» (OFG) Applicables: art. 1 à 14, art. 16, art. 18 à 20, art. 24 à 26*a*</td><td>*1998* 1662 *1999* 1773 *2004* 4279 4653</td></tr>
-<tr><td>831.441.1</td><td>Ordonnance sur la prévoyance professionnelle vieillesse, survivants et invalidité (OPP 2) Applicable: art. 5</td><td>*2006* 4159</td></tr>
+<tr><td>Annexe</td><td>– Liste du droit suisse applicable dans la Principauté de Liechtenstein</td></tr>
 </table>
+
+[^t-3]: L’annexe a été mise à jour pour la première fois au 15 avril 2025 depuis l’entrée en vigueur de l’accord. Cette annexe mise à jour n’est pas publiée dans le RO ([RO 2026 107](https://fedlex.data.admin.ch/eli/oc/2026/107)) mais peut être consultée sur le site Internet www.gesetze.li &gt; [LR-Nr. 0.8 3 1.409.101.1](https://www.gesetze.li/chrono/2025293000).
