@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2025-04-08
-valid_until: 2025-04-14
-version_adopted: 2025-04-08
+version: 2025-04-15
+valid_until: 2025-05-19
+version_adopted: 2025-04-15
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4427/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 08.04.2025)
+vom 04.07.2017 (Stand 15.04.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -79,6 +79,7 @@ beschliesst:
 <tr><td>Meierskappel</td><td>24. Juni 2024</td><td>1. April 2025</td></tr>
 <tr><td>Ruswil</td><td>18. Juni 2023</td><td>8. April 2025</td></tr>
 <tr><td>Horw</td><td>3. März 2024</td><td>8. April 2025</td></tr>
+<tr><td>Aesch</td><td>12. August 2024</td><td>15. April 2025</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
