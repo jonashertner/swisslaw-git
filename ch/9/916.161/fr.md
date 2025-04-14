@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2025-02-01
+version: 2025-04-15
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250415/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250415-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> février 2025)
+du 12 mai 2010 (État le 15 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -110,9 +110,9 @@ Au sens de la présente ordonnance, on entend par:
 - g. *organismes nuisibles*: espèce, souche ou biotype appartenant au règne animal ou au règne végétal ou agent pathogène nuisible aux végétaux ou aux produits végétaux;
 - h. *méthodes non chimiques*: les méthodes de substitution aux pesticides chimiques pour la protection phytosanitaire et la lutte contre les ennemis des cultures, fondées sur des techniques agronomiques telles que celles visées à l’annexe III.1 de la directive 2009/128/CE[^3-4] ou les méthodes physiques, mécaniques ou biologiques de lutte contre les ennemis des cultures;
 - i. *mise en circulation*: la détention en vue de la vente à l’intérieur de la Suisse, y compris l’offre en vue de la vente ou toute autre forme de cession, à titre gratuit ou onéreux, ainsi que la vente, la distribution et les autres formes de cession proprement dites, sauf la restitution au vendeur précédent; l’importation pour les objectifs visés ci-dessus constitue une mise en circulation au sens de la présente ordonnance;
-- j. *autorisation d’un produit phytosanitaire*: acte administratif par lequel le service d’homologation autorise la mise en circulation d’un produit phytosanitaire;
+- j. *autorisation d**’**un produit phytosanitaire*: acte administratif par lequel le service d’homologation autorise la mise en circulation d’un produit phytosanitaire;
 - k. *producteur*: toute personne qui fabrique elle-même des produits phytosanitaires, des substances actives, des phytoprotecteurs, des synergistes, des coformulants ou des adjuvants, ou qui sous-traite cette fabrication à une autre personne, ou toute personne désignée par le fabricant comme son représentant exclusif aux fins du respect de la présente ordonnance;
-- l. *lettre d’accès*: tout document original par lequel le propriétaire de données protégées en vertu de la présente ordonnance donne son accord sur l’utilisation de ces données, selon les conditions et modalités spécifiques, par le service d’homologation en vue de l’autorisation d’un produit phytosanitaire ou de l’approbation d’une substance active, d’un synergiste ou d’un phytoprotecteur au profit d’un autre demandeur;
+- l. *lettre d**’**accès*: tout document original par lequel le propriétaire de données protégées en vertu de la présente ordonnance donne son accord sur l’utilisation de ces données, selon les conditions et modalités spécifiques, par le service d’homologation en vue de l’autorisation d’un produit phytosanitaire ou de l’approbation d’une substance active, d’un synergiste ou d’un phytoprotecteur au profit d’un autre demandeur;
 - m. *groupes vulnérables*: les personnes nécessitant une attention particulière dans le contexte de l’évaluation des effets aigus et chroniques des produits phytosanitaires sur la santé. Font partie de ces groupes les femmes enceintes et les femmes allaitantes, les enfants à naître, les nourrissons et les enfants, les personnes âgées et les travailleurs et habitants fortement exposés aux pesticides sur le long terme;
 - n. *micro-organismes*: toute entité microbiologique, y compris les bactéries, les algues, les champignons inférieurs, les protozoaires, les virus et les viroïdes, cellulaire ou non, capable de se répliquer ou de transférer du matériel génétique; les cultures de cellules, les prions et le matériel génétique ayant une activité biologique leur sont assimilés;
 - o.[^3-5] *macro-organismes:* les insectes, les acariens et autres arthropodes ainsi que les nématodes;
@@ -122,7 +122,7 @@ Au sens de la présente ordonnance, on entend par:
 - s. *bonne pratique expérimentale*: pratique effectuée conformément aux dispositions des lignes directrices 181 et 152[^3-7] de l’Organisation européenne et méditerranéenne pour la protection des plantes (OEPP);
 - t. *protection des rapports*: le droit temporaire du propriétaire d’un rapport d’essai ou d’étude d’empêcher l’utilisation de ce rapport dans l’intérêt d’un autre demandeur;
 - u. *essais et études*: recherches ou expériences visant à déterminer les propriétés et le comportement d’une substance active ou de produits phytosanitaires, à prévoir l’exposition à des substances actives ou à leurs métabolites pertinents, à fixer des niveaux de sécurité en matière d’exposition et à définir les modalités d’un emploi inoffensif des produits phytosanitaires.
-- v. *titulaire de l’autorisation*: toute personne physique ou morale titulaire d’une autorisation d’un produit phytosanitaire;
+- v. *titulaire de l**’**autorisation*: toute personne physique ou morale titulaire d’une autorisation d’un produit phytosanitaire;
 - w. *utilisateur professionnel*: toute personne qui utilise des produits phytosanitaires au cours de son activité professionnelle, et notamment les opérateurs, les techniciens, les employeurs et les indépendants, tant dans le secteur agricole que dans d’autres secteurs;
 - x.
 
@@ -133,7 +133,7 @@ Au sens de la présente ordonnance, on entend par:
 
 - y. *serre*: un espace de culture de plain-pied, statique et fermé, dont l’enveloppe extérieure est généralement translucide, ce qui permet un échange contrôlé de matières et d’énergie avec l’environnement et empêche la diffusion de produits phytosanitaires dans l’environnement. Aux fins de la présente ordonnance, les espaces fermés de production végétale dont l’enveloppe extérieure n’est pas translucide, p.ex. pour la production des champignons ou des endives, sont également considérés comme des serres;
 - z. *traitement après récolte*: traitement de végétaux ou de produits végétaux après récolte dans un espace isolé où aucun écoulement n’est possible, par exemple, dans un entrepôt;
-- aa. *service d’homologation:* le service fédéral qui statue sur l’homologation des produits phytosanitaires;
+- aa. *service d**’**homologation:* le service fédéral qui statue sur l’homologation des produits phytosanitaires;
 - ab. *publicité*: un moyen de promouvoir la vente ou l’utilisation de produits phytosanitaires (auprès d’autres personnes que le titulaire de l’autorisation, la personne commercialisant le produit ou leurs agents) à l’aide de supports imprimés ou électroniques;
 - ac. *métabolite*: tout métabolite ou produit de dégradation d’une substance active, d’un phytoprotecteur ou d’un synergiste, qui est formé soit dans un organisme, soit dans l’environnement. Un métabolite est jugé pertinent s’il y a lieu de présumer qu’il possède des propriétés intrinsèques comparables à celles de la substance mère en ce qui concerne son activité cible biologique, qu’il représente, pour les organismes, un risque plus élevé que la substance mère ou un risque comparable, ou qu’il possède certaines propriétés toxicologiques qui sont considérées comme inacceptables. Un tel métabolite est pertinent dans le cadre de la décision générale d’approbation ou de la définition de mesures visant à réduire les risques;
 - ad. *impureté*: tout composant autre que la substance active pure ou variante pure se trouvant dans le matériel technique (provenant notamment du processus de fabrication ou d’une dégradation intervenue en cours de stockage).
@@ -165,7 +165,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Dans des situations qui demandent d’agir rapidement, le service d’homologation peut, en accord avec les services concernés, interdire l’importation, la mise en circulation et l’utilisation de produits phytosanitaires qui mettent en danger la santé des êtres humains et des animaux ou qui présentent un risque pour l’environnement.[^3a-3]
 
-<sup>2</sup> Il peut fixer pour ces produits phytosanitaires des valeurs maximales qui ne doivent pas être dépassées. Les valeurs maximales se fondent sur des valeurs standard internationales , sur les valeurs maximales en vigueur dans le pays exportateur ou sont scientifiquement fondées.
+<sup>2</sup> Il peut fixer pour ces produits phytosanitaires des valeurs maximales qui ne doivent pas être dépassées. Les valeurs maximales se fondent sur des valeurs standard internationales , sur les valeurs maximales en vigueur dans le pays exportateur ou sont scientifiquement fondées.[^3a-4]
 
 <sup>3</sup> Il peut fixer quels produits phytosanitaires doivent être importés ou mis en circulation uniquement accompagnés d’une déclaration des autorités compétentes du pays exportateur ou d’un service accrédité.
 
@@ -176,6 +176,7 @@ Au sens de la présente ordonnance, on entend par:
 [^3a-1]: Introduit par le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
 [^3a-2]: Nouvelle expression selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Il a été tenu compte de cette mod. dans tout le texte, sous réserve de l’art. 75.
 [^3a-3]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^3a-4]: Erratum du 15 avr. 2025, ne concerne que le texte italien ([RO 2025 246](https://fedlex.data.admin.ch/eli/oc/2025/246)).
 
 ## Chapitre 2 Substances actives, substances de base, phytoprotecteurs, synergistes et coformulants
 
@@ -415,7 +416,7 @@ Elle doit y joindre les documents suivants:
 
 #### Art. 11
 
-****Critères et procédure d’approbation****
+****Critères et procédure d****’****approbation****
 
 <sup>1</sup> Un phytoprotecteur ou un synergiste est approuvé s’il satisfait aux dispositions de l’art. 4.
 
@@ -768,7 +769,7 @@ Le service d’homologation retire ou modifie l’autorisation, selon le cas:
 - e. lorsque le titulaire de l’autorisation ne respecte pas les obligations qui lui incombent en vertu de la présente ordonnance;
 - f. lorsque les conditions de mise en œuvre des mesures de précaution visées à l’art. 148*a* LAgr sont remplies.
 
-<sup>4</sup> et <sup>5</sup>…[^29-2]
+<sup>4 et <sup>5</sup></sup> …[^29-2]
 
 [^29-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^29-2]: Abrogés par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
@@ -2848,7 +2849,7 @@ Tous les produits phytosanitaires doivent porter un étiquetage mentionnant la p
 <sup>3</sup> Il peut ajouter des spécifications relatives aux contrôles techniques, telles que:
 
 - a. utiliser un dispositif de versement clos pour transvaser le pesticide de l’emballage du produit dans le réservoir du pulvérisateur;
-- b. l’utilisateur doit se trouver dans une cabine close *[pourvue d’un système de climatisation / de filtration de l’air]* lors de la pulvérisation;
+- b. l’utilisateur doit se trouver dans une cabine close *[pourvue d**’**un système de climatisation / de filtration de l**’**air]* lors de la pulvérisation;
 - c. les contrôles techniques peuvent remplacer l’équipement de protection individuelle s’ils fournissent un degré de protection égal ou supérieur.
 
 <table>
@@ -3459,7 +3460,7 @@ Les services d’évaluation évaluent le contenu réel en substance active du p
 <sup>1</sup> Les services d’évaluation évaluent les propriétés physiques et chimiques du produit phytosanitaire, et notamment:
 
 - a. lorsqu’il existe une norme FAO adéquate, les propriétés physiques et chimiques visées dans cette norme;
-- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e208-lvlu44-1].
+- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l**’**utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e208-lvlu44-1].
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
@@ -3765,7 +3766,7 @@ Lorsqu’il n’existe pas de norme FAO appropriée, les propriétés physiques 
 <tr><td>au-dessus de 500</td><td>± 25 g/kg; ± 25 g/l</td></tr>
 </table>
 
-- b. Propriétés physiques: Le produit phytosanitaire doit satisfaire aux critères physiques (dont la stabilité pendant le stockage) définis pour le type de formulation approprié dans le *«manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*.
+- b. Propriétés physiques: Le produit phytosanitaire doit satisfaire aux critères physiques (dont la stabilité pendant le stockage) définis pour le type de formulation approprié dans le *«manuel pour le développement et l**’**utilisation des normes FAO pour les produits de protection des plantes»*.
 
 ### 9CI-2.7.3Mélanges en cuve
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2025-02-01
+version: 2025-04-15
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250415/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250415-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Februar 2025)
+vom 12. Mai 2010 (Stand am 15. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -165,7 +165,7 @@ Im Sinne dieser Verordnung bedeuten:
 
 <sup>1</sup> Die Zulassungsstelle kann in Situationen, die rasches Handeln erfordern, im Einvernehmen mit den interessierten Stellen die Einfuhr, das Inverkehrbringen und die Verwendung von Pflanzenschutzmitteln, die die Gesundheit von Mensch und Tier oder die Umwelt gefährden, verbieten.[^3a-3]
 
-<sup>2</sup> Sie kann für diese Pflanzenschutzmittel Höchstwerte bestimmen, die nicht überschritten werden dürfen. Die Höchstwerte haben sich nach internationalen Standards oder nach den im Ausfuhrland bestehenden Grenzwerten zu richten oder müssen wissenschaftlich begründet sein.
+<sup>2</sup> Sie kann für diese Pflanzenschutzmittel Höchstwerte bestimmen, die nicht überschritten werden dürfen. Die Höchstwerte haben sich nach internationalen Standards oder nach den im Ausfuhrland bestehenden Grenzwerten zu richten oder müssen wissenschaftlich begründet sein.[^3a-4]
 
 <sup>3</sup> Sie kann festlegen, welche Pflanzenschutzmittel nur mit einer Erklärung der zuständigen Behörde des Ausfuhrlandes oder einer akkreditierten Stelle eingeführt oder in Verkehr gebracht werden dürfen.
 
@@ -176,6 +176,7 @@ Im Sinne dieser Verordnung bedeuten:
 [^3a-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
 [^3a-2]: Ausdruck gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Diese Anpassung wurde im ganzen Text, ausser in Art. 75, vorgenommen.
 [^3a-3]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^3a-4]: Die Berichtigung vom 15. April 2025 betrifft nur den italienischen Text ([AS 2025 246](https://fedlex.data.admin.ch/eli/oc/2025/246)).
 
 ## 2. Kapitel: Wirkstoffe, Grundstoffe, Safener, Synergisten und Beistoffe
 
@@ -768,7 +769,7 @@ Die Zulassungsstelle widerruft die Bewilligung oder ändert sie, wenn:
 - e. die Bewilligungsinhaberin ihre Verpflichtungen aufgrund dieser Verordnung nicht erfüllt;
 - f. die Voraussetzungen für das Ergreifen von Vorsorgemassnahmen nach Artikel 148*a* LwG erfüllt sind;
 
-<sup>4</sup> und <sup>5</sup> …[^29-2]
+<sup>4 und <sup>5</sup></sup> …[^29-2]
 
 [^29-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^29-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).

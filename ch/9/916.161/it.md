@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2025-02-01
+version: 2025-04-15
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20250415/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20250415-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20250201/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° febbraio 2025)
+del 12 maggio 2010 (Stato 15 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -88,9 +88,9 @@ La presente ordinanza si applica a:
 
 <sup>5</sup> Ai prodotti fitosanitari che vengono esportati si applica inoltre l’ordinanza PIC del 10 novembre 2004[^2-2], sempre che si tratti di sostanze o preparati pericolosi.[^2-3]
 
-[^2-1]: Nuovo testo giusta la cifra III 3 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^2-1]: Nuovo testo giusta la cifra III n. 3 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 [^2-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
-[^2-3]: Introdotto dalla cifra III 3 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^2-3]: Introdotto dalla cifra III n. 3 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 3
 
@@ -162,17 +162,19 @@ Ai fini della presente ordinanza si intende per:
 
 <sup>1</sup> In situazioni che impongono un intervento celere, d’intesa con i servizi interessati il servizio d’omologazione può vietare l’importazione, l’immissione sul mercato e l’impiego di prodotti fitosanitari che costituiscono un pericolo per la salute dell’uomo, degli animali o dell’ambiente.[^3a-3]
 
-<sup>2</sup> Può fissare, per tali prodotti fitosanitari, valori massimi che non devono essere superati.
+<sup>2</sup> Può fissare, per tali prodotti fitosanitari, valori massimi che non devono essere superati. I valori massimi sono fondati su valori standard internazionali o sui valori massimi in vigore nel Paese esportatore oppure hanno una base scientifica.[^3a-4]
 
 <sup>3</sup> Può stabilire per quali prodotti fitosanitari l’importazione o l’immissione sul mercato può avvenire soltanto con una dichiarazione della competente autorità del Paese d’esportazione o di un servizio accreditato.
 
-<sup>4</sup> Fissa quali indicazioni devono essere contenute nella dichiarazione e se la dichiarazione deve essere corredata di altri documenti. I valori massimi sono fondati su valori standard internazionali o sui valori massimi in vigore nel Paese esportatore oppure hanno una base scientifica.
+<sup>4</sup> Fissa quali indicazioni devono essere contenute nella dichiarazione e se la dichiarazione deve essere corredata di altri documenti.[^3a-5]
 
 <sup>5</sup> Le partite per le quali all’atto dell’importazione non possono essere prodotti i documenti di cui al capoverso 4 vengono respinte o, se sussiste un pericolo, distrutte.
 
 [^3a-1]: Introdotto dalla cifra I dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
 [^3a-2]: Nuova espressione giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Di detta mod. è tenuto conto in tutto il testo, eccettuato nell’art. 75.
 [^3a-3]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^3a-4]: Correzione del 15 apr. 2025 ([RU 2025 246](https://fedlex.data.admin.ch/eli/oc/2025/246)).
+[^3a-5]: Correzione del 15 apr. 2025 ([RU 2025 246](https://fedlex.data.admin.ch/eli/oc/2025/246)).
 
 ## Capitolo 2: Principi attivi, sostanze di base, fitoprotettori, sinergizzanti e coformulanti
 
@@ -765,7 +767,7 @@ Il servizio d’omologazione revoca o modifica l’autorizzazione, a seconda dei
 - e. il titolare dell’autorizzazione non adempie gli obblighi derivanti dalla presente ordinanza;
 - f. sono soddisfatte le condizioni per adottare misure preventive ai sensi dell’articolo 148*a* LAgr.
 
-<sup>4</sup> e <sup>5</sup> ...[^29-2]
+<sup>4 e <sup>5</sup></sup> ...[^29-2]
 
 [^29-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^29-2]: Abrogati dalla cifra I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4199](https://fedlex.data.admin.ch/eli/oc/2018/680)).
