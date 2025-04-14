@@ -4,13 +4,12 @@ number: "143.120"
 title: Reglement zur Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 short: RDO VGD
 language: de
-version: 2023-05-08
-valid_until: 2025-04-14
-version_adopted: 2023-04-24
+version: 2025-04-15
+version_adopted: 2025-04-02
 adopted: 2019-03-01
 in_force: 2019-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.120"
-pdf: "https://bl.clex.ch/api/de/versions/4461/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4461/pdf_file"
 
 (RDO VGD)
 
-Vom 01.03.2019 (Stand 08.05.2023)
+Vom 01.03.2019 (Stand 15.04.2025)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
