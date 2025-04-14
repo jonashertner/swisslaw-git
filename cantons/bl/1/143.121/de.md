@@ -3,20 +3,19 @@ canton: BL
 number: "143.121"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2025-01-01
-valid_until: 2025-04-14
-version_adopted: 2024-12-19
+version: 2025-04-15
+version_adopted: 2025-04-02
 adopted: 2018-01-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.121"
-pdf: "https://bl.clex.ch/api/de/versions/4462/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 24.01.2018 (Stand 01.01.2025)
+Vom 24.01.2018 (Stand 15.04.2025)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
