@@ -4,11 +4,11 @@ title: Verordnung vom 8. November 2023 über die Personensicherheitsprüfungen (
 short: VPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/736"
 language: de
-version: 2024-01-01
+version: 2025-04-15
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-736-20240101-de-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20250415/de/xml/fedlex-data-admin-ch-eli-cc-2023-736-20250415-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20250415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/de"
 
 (VPSP)
 
-vom 8. November 2023 (Stand am 1. Januar 2024)
+vom 8. November 2023 (Stand am 15. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -161,11 +161,13 @@ Die Departemente und die Bundeskanzlei prüfen die Aktualität der Funktionenlis
 
 #### Art. 7
 
-**Ausserordentliche Prüfung**
+**[Ausserordentliche Prüfung](https://www.fedlex.admin.ch/eli/cc/2023/736/de)**[^7-1]
 
 ### (Art. 29 Abs. 3 ISG)
 
-Das VBS entscheidet über ausserordentliche Prüfungen nach Artikel 29 Absatz 3 ISG. Es konsultiert vorgängig die Fachstelle des Bundes für Informationssicherheit.
+Das VBS entscheidet auf Antrag des zuständigen Departements oder der Bundeskanzlei über ausserordentliche Prüfungen nach Artikel 29 Absatz 3 ISG. Es konsultiert vorgängig die Fachstelle des Bundes für Informationssicherheit.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 8
 
@@ -175,12 +177,19 @@ Das VBS entscheidet über ausserordentliche Prüfungen nach Artikel 29 Absatz 3 
 
 <sup>1</sup> Das VBS entscheidet auf Antrag des Kantons, ob eine Funktion von kantonalen Angestellten die Ausübung einer sicherheitsempfindlichen Tätigkeit beinhaltet. Es konsultiert vorgängig die Fachstelle des Bundes für Informationssicherheit. Vorbehalten bleibt Artikel 10 Absatz 2 Buchstabe e.
 
+<sup>1bis</sup> Die Fachstelle des Bundes für Informationssicherheit führt eine Liste der kantonalen Funktionen nach Absatz 1.[^8-1]
+
 <sup>2</sup>
 
-Bevor bei Dritten eine Personensicherheitsprüfung durchgeführt wird, prüfen folgende Stellen, ob eine sicherheitsempfindliche Tätigkeit vorliegt:
+Bevor bei Dritten eine Personensicherheitsprüfung durchgeführt wird, prüfen folgende Stellen, ob die zu prüfende Person für die Ausübung einer sicherheitsempfindlichen Tätigkeit vorgesehen ist:[^8-2]
 
 - a. im Rahmen des Betriebssicherheitsverfahrens: die Fachstelle für Betriebssicherheit;
-- b. in allen anderen Fällen: die Informationssicherheitsbeauftragte oder der Informationssicherheitsbeauftragte des jeweiligen Departements beziehungsweise der Bundeskanzlei.
+- b.[^8-3] in allen anderen Fällen: die oder der Informationssicherheitsbeauftragte der Bedarfsstelle nach Artikel 2 Buchstabe c der Verordnung vom 1. Mai 2024[^8-4] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung.
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-4]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
 
 #### Art. 9
 
@@ -221,16 +230,17 @@ Einer erweiterten Personensicherheitsprüfung sind folgende sicherheitsempfindli
   sicherheitsempfindliche Tätigkeiten von Angestellten des Bundes und externen Mitarbeitenden:
 
   - 1\. beim Nachrichtendienst des Bundes (NDB),
-  - 2\. beim militärischen Nachrichtendienst (MND),
+  - 2\.[^10-3] beim militärischen Nachrichtendienst (MND) und beim Dienst für präventiven Schutz der Armee (DPSA),
   - 3\. beim Dienst Cyber und elektromagnetische Aktionen (CEA),
   - 4\. bei der unabhängigen Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten (AB-ND);
 
-- e. sicherheitsempfindliche Tätigkeiten von Mitarbeitenden der kantonalen Vollzugsbehörden nach Artikel 9 Absatz 1 des Nachrichtendienstgesetzes vom 25. September 2015[^10-3] (NDG);
+- e. sicherheitsempfindliche Tätigkeiten von Mitarbeitenden der kantonalen Vollzugsbehörden nach Artikel 9 Absatz 1 des Nachrichtendienstgesetzes vom 25. September 2015[^10-4] (NDG);
 - f. Tätigkeiten, die aufgrund eines völkerrechtlichen Vertrags einer Prüfung auf dieser Prüfstufe unterzogen werden müssen.
 
 [^10-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^10-2]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
-[^10-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^10-3]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^10-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 11
 
@@ -329,18 +339,16 @@ Einer Grundsicherheitsprüfung sind die Zuverlässigkeitskontrollen nach Artikel
 
 <sup>3</sup> Wird gestützt auf Artikel 53 Absatz 2 ISG auf die Durchführung des Betriebssicherheitsverfahrens verzichtet, so ist die Auftraggeberin die einleitende und entscheidende Stelle.
 
-<sup>4</sup>
-
-Für Zuverlässigkeitskontrollen nach Artikel 24 Absatz 1 KEG gelten folgende Zuständigkeiten:
-
-- a. einleitende Stellen: die Projektanten einer neuen Kernanlage, die Inhaber von Rahmen-, Bau- oder Betriebsbewilligungen oder die Adressaten von Stilllegungsverfügungen für Kernanlagen;
-- b. entscheidende Stelle: das ENSI.
+<sup>4</sup> Für Zuverlässigkeitskontrollen nach Artikel 24 Absatz 1 KEG sind die Projektanten einer neuen Kernanlage, die Inhaber von Rahmen-, Bau- oder Betriebsbewilligungen oder die Adressaten von Stilllegungsverfügungen für Kernanlagen die einleitende und entscheidende Stelle. Das ENSI erlässt Richtlinien über die Beurteilung des Sicherheitsrisikos durch die entscheidenden Stellen.[^15-1]
 
 <sup>5</sup> Für Prüfungen der Vertrauenswürdigkeit nach Artikel 20*a* StromVG ist die nationale Netzgesellschaft einleitende und entscheidende Stelle.
 
-<sup>6</sup> Die verpflichteten Behörden und die Kantone teilen den Fachstellen PSP mit, welche Stellen in ihrem Zuständigkeitsbereich einleitende und entscheidende Stellen sind.
+<sup>6</sup> Die verpflichteten Behörden und die Kantone teilen den Fachstellen PSP mit, welche Stellen in ihrem Zuständigkeitsbereich einleitende und entscheidende Stellen sind. Bezeichnet ein Kanton keine einleitende Stelle, so ist die für die sicherheitsempfindliche Tätigkeit verantwortliche Verwaltungseinheit des Bundes für die Einleitung der Prüfung zuständig.[^15-2]
 
 <sup>7</sup> Die einleitende Stelle ist für den Nachweis der Einwilligung zur Durchführung der Prüfungen zuständig, sofern das Informationssystem nach Artikel 45 ISG diesen nicht erbringt.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 16
 
@@ -355,20 +363,25 @@ Die Fachstellen PSP sind:
 - a. die Fachstelle PSP der Bundeskanzlei (Fachstelle PSP BK);
 - b. die Fachstelle PSP des VBS (Fachstelle PSP VBS).
 
-<sup>2</sup> Die Fachstelle PSP VBS ist Teil des Staatssekretariats für Sicherheitspolitik im VBS.
+<sup>2</sup> Die Fachstelle PSP VBS ist Teil des Staatssekretariats für Sicherheitspolitik (SEPOS).[^16-1]
 
 <sup>3</sup>
 
-Die Fachstelle PSP BK ist zuständig für die Prüfung von Personen, die eine der folgenden Funktionen ausüben:
+Die Fachstelle PSP BK ist zuständig für die Prüfung der folgenden Personen:
 
-- a. Funktionen nach Artikel 2 Absatz 1 BPV[^16-1], mit Ausnahme von Funktionen innerhalb der Bundeskanzlei;
-- b. Funktionen nach Artikel 2 Absatz 1<sup>bis</sup> BPV;
-- c. Funktionen innerhalb der Fachstelle PSP VBS;
-- d. Funktionen innerhalb des VBS, die Führungsaufgaben gegenüber der Fachstelle PSP VBS beinhalten.
+- a. Personen, die vom Bundesrat gewählt oder ernannt werden oder deren Wahl vom Bundesrat genehmigt oder bestätigt wird, mit Ausnahme von Funktionen innerhalb der Bundeskanzlei;
+- b. Stellvertreterinnen und Stellvertreter der Staatssekretärinnen und Staatssekretäre, der Amtsdirektorinnen und Amtsdirektoren sowie der Generalsekretärinnen und Generalsekretäre;
+- c. Personen, die von der obersten Leitung der anderen verpflichteten Behörden gewählt oder ernannt werden und ihr direkt unterstellt sind;
+- d. Angestellten des SEPOS.[^16-2]
 
 <sup>4</sup> Die Fachstelle PSP VBS ist zuständig für alle übrigen Prüfungen.
 
-[^16-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> Liegen bei der Prüfung einer bestimmten Person Gründe zur Annahme vor, dass ein Interessenkonflikt bestehen könnte, der durch den Ausstand nach Artikel 10 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^16-3] nicht zufriedenstellend gelöst werden kann, so entscheiden die Fachstellen PSP im gegenseitigen Einvernehmen über die Zuständigkeit.[^16-4]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16-4]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 17
 
@@ -414,18 +427,18 @@ Die zu prüfenden Person muss insbesondere:
 
 <sup>2</sup>
 
-Eine Befragung nach Artikel 34 Absatz 2 Buchstaben d ISG wird durchgeführt, bei:
+Eine Befragung nach Artikel 34 Absatz 2 Buchstabe d ISG wird bei folgenden Personen durchgeführt:[^19-1]
 
-- a. Personen, die in einem Arbeitsverhältnis nach Artikel 2 Absatz 1 BPV[^19-1] stehen;
-- b. Personen, die in einem Arbeitsverhältnis nach Artikel 2 Absatz 1<sup>bis</sup> BPV stehen;
+- a.[^19-2] Personen, die vom Bundesrat gewählt oder ernannt werden oder deren Wahl vom Bundesrat genehmigt oder bestätigt wird;
+- b.[^19-3] Stellvertreterinnen und Stellvertretern der Staatssekretärinnen und Staatssekretäre, der Amtsdirektorinnen und Amtsdirektoren sowie der Generalsekretärinnen und Generalsekretäre;
 - c.
 
   Personen, die bei einer der folgenden Stellen eine Funktion ausüben oder dafür vorgesehen sind:
 
   - 1\. NDB,
-  - 2\. kantonale Vollzugsbehörde nach Artikel 9 NDG[^19-2],
-  - 3\. MND,
-  - 4\. CEA,
+  - 2\. kantonale Vollzugsbehörde nach Artikel 9 NDG[^19-4],
+  - 3\.[^19-5] MND und DPSA,
+  - 4\.[^19-6] …
   - 5\. AB-ND,
   - 6\. fedpol,
   - 7\. Fachstellen PSP;
@@ -452,8 +465,12 @@ Eine Befragung nach Artikel 34 Absatz 3 ISG beziehungsweise Artikel 113 Absatz 5
 
 <sup>5</sup> Die Fachstellen PSP können die Befragungen mit Hilfe von audiovisuellen Mitteln durchführen.
 
-[^19-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^19-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-3]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-5]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-6]: Aufgehoben durch Ziff. I der V vom 14. März 2025, mit Wirkung seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 20
 
@@ -542,7 +559,7 @@ Die Fachstellen PSP teilen vorläufige Erkenntnisse mit, wenn Anzeichen für ein
 
 <sup>1</sup>
 
-Liegt für eine Person eine gültige Erklärung aufgrund einer früheren Prüfung vor, so kann die entscheidende Stelle auf eine neue Beurteilung verzichten, wenn:
+Liegt für eine Person eine gültige Sicherheitserklärung aufgrund einer früheren Prüfung nach Artikel 1 Absatz 1 vor, so kann die entscheidende Stelle oder, wenn der Bundesrat die entscheidende Stelle ist, das antragstellende Departement auf eine neue Beurteilung verzichten, wenn:[^25-1]
 
 - a. der früheren Beurteilung dieselben Risikofaktoren zugrunde lagen wie der neuen Prüfung; und
 - b. kein Grund für eine ausserordentliche Wiederholung besteht.
@@ -554,6 +571,8 @@ Sicherheitsrisiken, die bei einer Beurteilung auf einer höheren Prüfstufe fest
 - a. diese Risiken auch aufgrund der Daten, die auf einer niedrigeren Prüfstufe erhoben werden, erkannt werden könnten; oder
 - b. das öffentliche Interesse nach Artikel 1 Absatz 2 ISG gegenüber dem Persönlichkeitsrecht der geprüften Person überwiegt.
 
+[^25-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+
 #### Art. 26
 
 **Ordentliche Wiederholung**
@@ -562,16 +581,26 @@ Sicherheitsrisiken, die bei einer Beurteilung auf einer höheren Prüfstufe fest
 
 <sup>1</sup>
 
-Die ordentliche Wiederholung einer Prüfung ist einzuleiten:
+Wurde eine Sicherheitserklärung nach Artikel 39 Absatz 1 Buchstabe a ISG ausgestellt, so ist die ordentliche Wiederholung der Prüfung innerhalb der folgenden Fristen einzuleiten:
 
-- a. wenn bei der vorangegangenen Prüfung eine Sicherheitserklärung nach Artikel 39 Absatz 1 Buchstabe a ISG ausgestellt worden ist: innerhalb von drei Monaten vor Ablauf der Maximalfrist nach Artikel 43 Absatz 1 ISG;
-- b. wenn bei der vorangegangenen Prüfung eine Erklärung nach Artikel 39 Absatz 1 Buchstaben b–d ISG ausgestellt worden ist: innerhalb von drei Monaten nach Ablauf der Mindestfrist nach Artikel 43 Absatz 1 ISG.
+- a. bei einer Grundsicherheitsprüfung: innerhalb von drei Monaten vor Ablauf der Maximalfrist von 10 Jahren;
+- b. bei einer erweiterten Personensicherheitsprüfung: innerhalb von drei Monaten vor Ablauf der Maximalfrist von 5 Jahren.[^26-1]
+
+<sup>1bis</sup>
+
+Wurde eine Erklärung nach Artikel 39 Absatz 1 Buchstaben b–d ISG ausgestellt, so ist die ordentliche Wiederholung der Prüfung innerhalb der folgenden Fristen einzuleiten:
+
+- a. bei einer Grundsicherheitsprüfung: innerhalb von drei Monaten nach Ablauf der Mindestfrist von 5 Jahren;
+- b. bei einer erweiterten Personensicherheitsprüfung: innerhalb von drei Monaten nach Ablauf der Mindestfrist von 3 Jahren.[^26-2]
 
 <sup>2</sup> Vorbehalten bleiben Fristen aufgrund eines völkerrechtlichen Vertrags.
 
 <sup>3</sup> Bei Funktionen der Armee und des Zivilschutzes wird die Grundsicherheitsprüfung nicht ordentlich wiederholt, wenn die zu prüfende Person die Funktion voraussichtlich noch weniger als fünf Jahre ausüben soll.
 
 <sup>4</sup> Beurteilungen des Gefährdungs- oder Missbrauchspotenzials nach Artikel 113 Absatz 4 Buchstabe d MG werden nicht ordentlich wiederholt.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^26-2]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 27
 
@@ -647,11 +676,13 @@ Das VBS und die Bundeskanzlei sorgen dafür, dass eine unabhängige Stelle minde
 
 ### (Art. 48 Bst. a ISG)
 
-<sup>1</sup> Der Geschäftsverkehr zwischen der zu prüfenden Person, den Behörden, Drittpersonen und Gerichtsinstanzen erfolgt elektronisch.
+<sup>1</sup> Der Geschäftsverkehr zwischen der zu prüfenden Person, den Behörden, Drittpersonen und Gerichtsinstanzen erfolgt, soweit möglich, elektronisch.[^33-1]
 
 <sup>2</sup> Personen, die nicht beim Bund angestellt sind, können verlangen, dass der Geschäftsverkehr mit ihnen in Papierform erfolgt.
 
 <sup>3</sup> Die Fachstellen PSP können zugelassene Zustellplattformen und Identitätsverzeichnisse verwenden.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 15. April 2025 ([AS 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 34
 
@@ -738,7 +769,7 @@ Anhang 1[^t-1]
 
 [^t-1]: In der AS nach Art. 6 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) nicht veröffentlicht.
 
-**Wird nicht veröffentlicht**
+Wird nicht veröffentlicht
 
 Anhang 2
 
@@ -1032,7 +1063,7 @@ Anhang 4[^t-2]
 
 [^t-2]: In der AS nach Art. 6 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) nicht veröffentlicht.
 
-**Wird nicht veröffentlicht**
+Wird nicht veröffentlicht
 
 Anhang 5
 
@@ -1057,7 +1088,7 @@ Anhang 6[^t-3]
 
 [^t-3]: In der AS nach Art. 6 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) nicht veröffentlicht.
 
-**Wird nicht veröffentlicht**
+Wird nicht veröffentlicht
 
 Anhang 7
 

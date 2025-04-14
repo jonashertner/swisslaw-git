@@ -4,11 +4,11 @@ title: Ordinanza dell’8 novembre 2023 sui controlli di sicurezza relativi alle
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/736"
 language: it
-version: 2024-01-01
+version: 2025-04-15
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-736-20240101-it-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20250415/it/xml/fedlex-data-admin-ch-eli-cc-2023-736-20250415-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20250415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/it"
 
 (OCSP)
 
-dell’8 novembre 2023 (Stato 1° gennaio 2024)
+dell’8 novembre 2023 (Stato 15 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-4]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^ingress-5]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)**F**
 [^ingress-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 [^ingress-8]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
@@ -87,7 +87,7 @@ La presente ordinanza si applica:
 
 <sup>3</sup>
 
-Sono fatte salve le disposizioni esecutive proprie delle autorità assoggettate secondo l’articolo 84 capoverso 1 LSIn concernenti:
+Sono fatte salve le disposizioni esecutive emanate secondo l’articolo 84 capoverso 1 LSIn dalle autorità assoggettate e concernenti:[^2-4]
 
 - a. le funzioni che richiedono l’esercizio di un’attività sensibile sotto il profilo della sicurezza;
 - b. l’attribuzione di attività sensibili sotto il profilo della sicurezza ai livelli di controllo;
@@ -96,6 +96,7 @@ Sono fatte salve le disposizioni esecutive proprie delle autorità assoggettate 
 [^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^2-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 ## Sezione 2: Elenchi delle funzioni
 
@@ -161,9 +162,13 @@ I dipartimenti e la Cancelleria federale verificano l’aggiornamento degli elen
 
 #### Art. 7
 
-**Controllo straordinario (art. 29 cpv. 3 LSIn)**
+**[Controllo straordinario](https://www.fedlex.admin.ch/eli/cc/2023/736/it)**[^7-1]
 
-Il DDPS decide in merito a controlli straordinari ai sensi dell’articolo 29 capoverso 3 LSIn. Consulta preliminarmente il Servizio specializzato della Confederazione per la sicurezza delle informazioni.
+### (art. 29 cpv. 3 LSIn)
+
+Su richiesta del dipartimento competente o della Cancelleria federale, il DDPS decide in merito a controlli straordinari ai sensi dell’articolo 29 capoverso 3 LSIn. Consulta preliminarmente il Servizio specializzato della Confederazione per la sicurezza delle informazioni.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 8
 
@@ -173,12 +178,19 @@ Il DDPS decide in merito a controlli straordinari ai sensi dell’articolo 29 ca
 
 <sup>1</sup> Il DDPS decide su domanda del Cantone se una funzione degli impiegati cantonali comporta l’esercizio di un’attività sensibile sotto il profilo della sicurezza. Consulta preliminarmente il Servizio specializzato della Confederazione per la sicurezza delle informazioni. È fatto salvo l’articolo 10 capoverso 2 lettera e.
 
+<sup>1bis</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni tiene un elenco delle funzioni cantonali di cui al capoverso 1.[^8-1]
+
 <sup>2</sup>
 
-Prima che terzi vengano sottoposti a un controllo di sicurezza relativo alle persone, i seguenti organi verificano se viene esercitata un’attività sensibile sotto il profilo della sicurezza:
+Prima che terzi vengano sottoposti a un controllo di sicurezza relativo alle persone, i seguenti organi verificano se la persona da controllare è destinata a esercitare un’attività sensibile sotto il profilo della sicurezza:[^8-2]
 
 - a. nel quadro della procedura di sicurezza relativa alle aziende: il servizio specializzato per la sicurezza aziendale;
-- b. in tutti gli altri casi: l’incaricato della sicurezza delle informazioni del relativo dipartimento o della Cancelleria federale.
+- b.[^8-3] in tutti gli altri casi: l’incaricato della sicurezza delle informazioni del servizio richiedente di cui all’articolo 2 lettera c dell’ordinanza del 1° maggio 2024[^8-4] concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale.
+
+[^8-1]: Introdotto dalla cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-4]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
 
 #### Art. 9
 
@@ -219,16 +231,17 @@ Sono attribuite al livello di controllo di sicurezza ampliato le seguenti attivi
   attività sensibili sotto il profilo della sicurezza esercitate da impiegati della Confederazione e da collaboratori esterni:
 
   - 1\. presso il Servizio delle attività informative della Confederazione (SIC),
-  - 2\. presso il Servizio informazioni militare (SIM),
+  - 2\.[^10-3] presso il Servizio informazioni militare (SIM) e il Servizio di protezione preventiva dell’esercito (SPPEs),
   - 3\. presso il servizio Azioni ciber ed elettromagnetiche (ACE),
   - 4\. presso l’Autorità di vigilanza indipendente sulle attività informative (AVI-AIn);
 
-- e. attività sensibili sotto il profilo della sicurezza di collaboratori delle autorità d’esecuzione cantonali secondo l’articolo 9 capoverso 1 della legge federale del 25 settembre 2015[^10-3] sulle attività informative (LAIn);
+- e. attività sensibili sotto il profilo della sicurezza di collaboratori delle autorità d’esecuzione cantonali secondo l’articolo 9 capoverso 1 della legge federale del 25 settembre 2015[^10-4] sulle attività informative (LAIn);
 - f. le attività che devono essere sottoposte a un controllo di questo livello di controllo in virtù di un trattato internazionale.
 
 [^10-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^10-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
-[^10-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^10-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 11
 
@@ -327,18 +340,16 @@ Sono attribuiti a un controllo di sicurezza di base i controlli di affidabilità
 
 <sup>3</sup> Se sulla base dell’articolo 53 capoverso 2 LSIn si rinuncia alla procedura di sicurezza relativa alle aziende, il mandante è il servizio promotore e decisore.
 
-<sup>4</sup>
-
-Per i controlli di affidabilità secondo l’articolo 24 capoverso 1 LENu valgono le seguenti competenze:
-
-- a. servizi promotori: i progettisti di un nuovo impianto nucleare, i titolari di un’autorizzazione quadro o di una licenza di costruzione o d’esercizio oppure i destinatari di una decisione di disattivazione per impianti nucleari;
-- b. servizio decisore: l’IFSN.
+<sup>4</sup> Per i controlli di affidabilità secondo l’articolo 24 capoverso 1 LENu i progettisti di un nuovo impianto nucleare, i titolari di un’autorizzazione quadro o di una licenza di costruzione o d’esercizio oppure i destinatari di una decisione di disattivazione per impianti nucleari sono il servizio promotore e decisore. L’IFSN emana direttive per la valutazione del rischio per la sicurezza da parte dei servizi decisori.[^15-1]
 
 <sup>5</sup> Per verifiche dell’affidabilità secondo l’articolo 20*a* LAEl la società nazionale di rete è il servizio promotore e decisore.
 
-<sup>6</sup> Le autorità assoggettate e i Cantoni comunicano ai servizi specializzati CSP quali servizi nel loro ambito di competenza sono i servizi promotori e decisori.
+<sup>6</sup> Le autorità assoggettate e i Cantoni comunicano ai servizi specializzati CSP quali servizi nel loro ambito di competenza sono i servizi promotori e i servizi decisori. Se un Cantone non designa alcun servizio promotore, l’unità amministrativa della Confederazione responsabile dell’attività sensibile sotto il profilo della sicurezza è responsabile dell’avvio del controllo.[^15-2]
 
 <sup>7</sup> Il servizio promotore è tenuto a fornire la prova del consenso all’esecuzione dei controlli se il sistema d’informazione di cui all’articolo 45 LSIn non fornisce tale prova.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 16
 
@@ -353,20 +364,26 @@ I servizi specializzati CSP sono:
 - a. il Servizio specializzato CSP della Cancelleria federale (Servizio specializzato CSP CaF);
 - b. il Servizio specializzato CSP del DDPS (Servizio specializzato CSP DDPS).
 
-<sup>2</sup> Il Servizio specializzato CSP DDPS fa parte della Segreteria di Stato della politica di sicurezza nel DDPS.
+<sup>2</sup> Il Servizio specializzato CSP DDPS fa parte della Segreteria di Stato della politica di sicurezza (SEPOS). [^16-1]
 
 <sup>3</sup>
 
-Il Servizio specializzato CSP CaF è responsabile del controllo di persone che esercitano una delle seguenti funzioni:
+Il Servizio specializzato CSP CaF è competente del controllo delle seguenti persone:
 
-- a. funzioni di cui all’articolo 2 capoverso 1 OPers[^16-1], ad eccezione di funzioni all’interno della Cancelleria federale;
-- b. funzioni di cui all’articolo 2 capoverso 1<sup>bis</sup> OPers;
-- c. funzioni all’interno del Servizio specializzato CSP DDPS;
-- d. funzioni all’interno del DDPS che comprendono compiti di condotta nei confronti del Servizio specializzato CSP DDPS.
+- a. persone elette o nominate dal Consiglio federale o la cui elezione è approvata o confermata dal Consiglio federale, ad eccezione delle funzioni all’interno della Cancelleria federale;
+- b. supplenti dei segretari di Stato, dei direttori degli uffici come pure dei segretari generali;
+- c. persone elette o nominate dalla direzione suprema delle altre autorità assoggettate e che le sono direttamente subordinate;
+- d. impiegati della SEPOS.[^16-2]
 
-<sup>4</sup> Il Servizio specializzato CSP DDPS è responsabile di tutti gli altri controlli.
+<sup>4</sup> Il Servizio specializzato CSP DDPS è competente di tutti gli altri controlli.[^16-3]
 
-[^16-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> Se in occasione del controllo di una determinata persona vi sono motivi per supporre che possa esistere un conflitto di interessi che non può essere risolto in modo soddisfacente attraverso la ricusazione di cui all’articolo 10 della legge federale del 20 dicembre 1968[^16-4] sulla procedura amministrativa, i servizi specializzati CSP decidono di comune accordo in merito all’attribuzione della competenza.[^16-5]
+
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16-5]: Introdotto dalla cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 17
 
@@ -412,18 +429,18 @@ La persona da controllare deve in particolare:
 
 <sup>2</sup>
 
-Un’audizione secondo l’articolo 34 capoverso 2 lettera d LSIn è effettuata presso:
+Un’audizione secondo l’articolo 34 capoverso 2 lettera d LSIn è effettuata presso le seguenti persone:[^19-1]
 
-- a. le persone con un rapporto di lavoro secondo l’articolo 2 capoverso 1 OPers[^19-1];
-- b. le persone con un rapporto di lavoro secondo l’articolo 2 capoverso 1<sup>bis</sup> OPers;
+- a.[^19-2] persone elette o nominate dal Consiglio federale o la cui elezione è approvata o confermata dal Consiglio federale;
+- b.[^19-3] supplenti dei segretari di Stato, dei direttori degli uffici come pure dei segretari generali;
 - c.
 
   le persone che esercitano o che sono destinate a esercitare una funzione presso uno dei seguenti organi:
 
   - 1\. SIC,
-  - 2\. autorità d’esecuzione cantonale secondo l’articolo 9 LAIn[^19-2],
-  - 3\. SIM,
-  - 4\. ACE,
+  - 2\. autorità d’esecuzione cantonale secondo l’articolo 9 LAIn[^19-4],
+  - 3\.[^19-5] SIM e SPPEs,
+  - 4\.[^19-6] *...*
   - 5\. AVI-AIn,
   - 6\. fedpol,
   - 7\. servizi specializzati CSP;
@@ -450,8 +467,12 @@ Un’audizione secondo l’articolo 34 capoverso 3 LSIn o l’articolo 113 capov
 
 <sup>5</sup> I servizi specializzati CSP possono svolgere le audizioni con l’ausilio di strumenti audiovisivi.
 
-[^19-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^19-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-3]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-6]: Abrogata dalla cifra I dell’O del 14 mar. 2025, con effetto dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 20
 
@@ -540,7 +561,7 @@ I servizi specializzati CSP comunicano le constatazioni provvisorie se esistono 
 
 <sup>1</sup>
 
-Se una persona è già in possesso di una dichiarazione valida rilasciata in occasione di un controllo precedente, il servizio decisore può rinunciare a una nuova valutazione se:
+Se una persona è già in possesso di una dichiarazione di sicurezza valida rilasciata in occasione di un controllo precedente secondo l’articolo 1 capoverso 1, il servizio decisore oppure, se il Consiglio federale è il servizio decisore, il dipartimento richiedente può rinunciare a una nuova valutazione se:[^25-1]
 
 - a. alla base del controllo precedente vi erano gli stessi fattori di rischio del nuovo controllo; e
 - b. non esiste alcun motivo per una ripetizione straordinaria.
@@ -552,6 +573,8 @@ I rischi per la sicurezza constatati in occasione di una valutazione di un livel
 - a. questi rischi potrebbero essere individuati anche sulla base dei dati che vengono raccolti a un livello di controllo inferiore; o
 - b. l’interesse pubblico di cui all’articolo 1 capoverso 2 LSIn è preponderante rispetto al diritto della personalità della persona sottoposta al controllo.
 
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+
 #### Art. 26
 
 **Ripetizione ordinaria**
@@ -560,16 +583,26 @@ I rischi per la sicurezza constatati in occasione di una valutazione di un livel
 
 <sup>1</sup>
 
-Occorre avviare la ripetizione ordinaria del controllo:
+Se è stata rilasciata una dichiarazione di sicurezza secondo l’articolo 39 capoverso 1 lettera a LSIn, occorre avviare la ripetizione ordinaria del controllo entro i termini seguenti:
 
-- a. se in occasione del controllo precedente è stata rilasciata una dichiarazione di sicurezza secondo l’articolo 39 capoverso 1 lettera a LSIn: entro tre mesi prima della scadenza del termine massimo di cui all’articolo 43 capoverso 1 LSIn;
-- b. se in occasione del controllo precedente è stata rilasciata una dichiarazione secondo l’articolo 39 capoverso 1 lettere b–d LSIn: entro tre mesi dopo la scadenza del termine minimo di cui all’articolo 43 capoverso 1 LSIn.
+- a. nel caso di un controllo di sicurezza di base: entro tre mesi prima della scadenza del termine massimo di 10 anni;
+- b. nel caso di un controllo di sicurezza ampliato: entro tre mesi prima della scadenza del termine massimo di 5 anni.[^26-1]
+
+<sup>1bis</sup>
+
+Se è stata rilasciata una dichiarazione secondo l’articolo 39 capoverso 1 lettere b–d LSIn, occorre avviare la ripetizione ordinaria del controllo entro i termini seguenti:
+
+- a. nel caso di un controllo di sicurezza di base: entro tre mesi dopo la scadenza del termine minimo di 5 anni;
+- b. nel caso di un controllo di sicurezza ampliato: entro tre mesi dopo la scadenza del termine minimo di 3 anni.[^26-2]
 
 <sup>2</sup> Sono fatte salve altre scadenze in virtù di un trattato internazionale.
 
 <sup>3</sup> Per funzioni dell’esercito e della protezione civile il controllo di sicurezza di base non è sottoposto a ripetizione ordinaria se si prevede che la persona da controllare continui a esercitare la funzione per meno di cinque anni.
 
 <sup>4</sup> Le valutazioni del potenziale di pericolo e di abuso di cui all’articolo 113 capoverso 4 lettera d LM non sono sottoposte a ripetizione ordinaria.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^26-2]: Introdotto dalla cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 27
 
@@ -645,11 +678,13 @@ Il DDPS e la Cancelleria federale provvedono affinché un servizio indipendente 
 
 ### (art. 48 lett. a LSIn)
 
-<sup>1</sup> Le relazioni d’affari tra la persona da controllare, le autorità, i terzi e gli organi giudiziari avvengono per via elettronica.
+<sup>1</sup> Le relazioni d’affari tra la persona da controllare, le autorità, i terzi e gli organi giudiziari avvengono, per quanto possibile, per via elettronica.[^33-1]
 
 <sup>2</sup> Le persone che non sono impiegate presso la Confederazione possono chiedere che le relazioni d’affari con loro avvengano in forma cartacea.
 
 <sup>3</sup> I servizi specializzati CSP possono utilizzare piattaforme di notifica e registri d’identità autorizzati.
+
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2025, in vigore dal 15 apr. 2025 ([RU 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 34
 
@@ -736,7 +771,7 @@ Allegato 1[^t-1]
 
 [^t-1]: Non pubblicato nella RU secondo l’art. 6 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
-**Elenco non pubblicato**
+Elenco non pubblicato
 
 Allegato 2
 
@@ -1028,9 +1063,9 @@ Allegato 4[^t-2]
 
 ## Funzioni dell’esercito soggette a un controllo di sicurezza relativo alle persone secondo la LSIn
 
-[^t-2]: Non pubblicato nella RU secondo l’articolo 6 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^t-2]: Non pubblicato nella RU secondo l’articolo 6 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
-**Elenco non pubblicato**
+Elenco non pubblicato
 
 Allegato 5
 
@@ -1053,9 +1088,9 @@ Allegato 6[^t-3]
 
 ## Funzioni secondo l’articolo 20*a* capoverso 1 LAEl
 
-[^t-3]: Non pubblicato nella RU secondo l’articolo 6 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^t-3]: Non pubblicato nella RU secondo l’articolo 6 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
-**Elenco non pubblicato**
+Elenco non pubblicato
 
 Allegato 7
 
@@ -1242,7 +1277,7 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex8-lvlu1-10]
 
-[^annex8-lvlu1-1]: [[RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155), [5903](https://fedlex.data.admin.ch/eli/oc/2011/817)n. III 1; [2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171), [3631](https://fedlex.data.admin.ch/eli/oc/2012/418)n. I 1, [3765](https://fedlex.data.admin.ch/eli/oc/2012/429), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 1, [6669](https://fedlex.data.admin.ch/eli/oc/2012/808)art. 25 n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 1; [2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)n. II; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)all. n. 1; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 1, [4231](https://fedlex.data.admin.ch/eli/oc/2017/497)all. n. 1; [2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)all. n. 1; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589); [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)all. 2 n. II 1, [698](https://fedlex.data.admin.ch/eli/oc/2022/698)all. 10 n. II 1; [2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)all. n. 1]
+[^annex8-lvlu1-1]: [[RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155), [5903](https://fedlex.data.admin.ch/eli/oc/2011/817)cifra III 1; [2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171), [3631](https://fedlex.data.admin.ch/eli/oc/2012/418)cifra I 1, [3765](https://fedlex.data.admin.ch/eli/oc/2012/429), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 1, [6669](https://fedlex.data.admin.ch/eli/oc/2012/808)art. 25 n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I 1; [2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)cifra II; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)all. n. 1; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 cifra II 1, [4231](https://fedlex.data.admin.ch/eli/oc/2017/497)all. n. 1; [2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)all. n. 1; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589); [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)all. 2 cifra II 1, [698](https://fedlex.data.admin.ch/eli/oc/2022/698)all. 10 cifra II 1; [2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)all. n. 1]
 [^annex8-lvlu1-2]: [[RU 2011 6077](https://fedlex.data.admin.ch/eli/oc/2011/838); [2022 118](https://fedlex.data.admin.ch/eli/oc/2022/118)]
 [^annex8-lvlu1-3]: [[RU 2011 4999](https://fedlex.data.admin.ch/eli/oc/2011/726); [2013 1335](https://fedlex.data.admin.ch/eli/oc/2013/311)]
 [^annex8-lvlu1-4]: [[RU 2012 1161](https://fedlex.data.admin.ch/eli/oc/2012/172), [1597](https://fedlex.data.admin.ch/eli/oc/2012/229)]

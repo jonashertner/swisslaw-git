@@ -4,11 +4,11 @@ title: Ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs a
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/736"
 language: fr
-version: 2024-01-01
+version: 2025-04-15
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-736-20240101-fr-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20250415/fr/xml/fedlex-data-admin-ch-eli-cc-2023-736-20250415-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20250415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20240101/fr"
 
 (OCSP)
 
-du 8 novembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 8 novembre 2023 (État le 15 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -161,11 +161,13 @@ Les départements et la Chancellerie fédérale contrôlent l’actualité des l
 
 #### Art. 7
 
-**Contrôle extraordinaire**
+**Contrôle extraordinaire**[^7-1]
 
 ### (art. 29, al. 3, LSI)
 
-Le DDPS décide des contrôles extraordinaires visés à l’art. 29, al. 3, LSI. Il consulte au préalable le service spécialisé de la Confédération pour la sécurité de l’information.
+Le DDPS décide à la demande du département compétent ou de la Chancellerie fédérale des contrôles extraordinaires visés à l’art. 29, al. 3, LSI. Il consulte au préalable le service spécialisé de la Confédération pour la sécurité de l’information.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 8
 
@@ -175,12 +177,19 @@ Le DDPS décide des contrôles extraordinaires visés à l’art. 29, al. 3, LSI
 
 <sup>1</sup> Le DDPS décide à la demande du canton si une fonction du personnel cantonal comprend l’exercice d’une activité sensible. Il consulte au préalable le service spécialisé de la Confédération pour la sécurité de l’information. L’art. 10, al. 2, let. e, est réservé.
 
+<sup>1bis</sup> Le service spécialisé de la Confédération pour la sécurité de l’information tient une liste des fonctions cantonales selon l’al. 1.[^8-1]
+
 <sup>2</sup>
 
-Avant de soumettre un tiers à un contrôle de sécurité relatif aux personnes, les services suivants vérifient l’existence d’une activité sensible:
+Avant de soumettre un tiers à un contrôle de sécurité relatif aux personnes, les services suivants vérifient s’il exercera une activité sensible:[^8-2]
 
 - a. dans le cadre de la procédure de sécurité relative aux entreprises: le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises;
-- b. dans tous les autres cas: le préposé à la sécurité de l’information du département concerné ou de la Chancellerie fédérale.
+- b.[^8-3] dans tous les autres cas: le préposé à la sécurité de l’information du service demandeur au sens de l’art. 2, let. c, de l’ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale[^8-4].
+
+[^8-1]: Introduit par le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^8-4]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
 
 #### Art. 9
 
@@ -221,16 +230,17 @@ Les activités sensibles visées dans la LSI suivantes requièrent un contrôle 
   les activités sensibles des employés de la Confédération et des collaborateurs externes:
 
   - 1\. du Service de renseignement de la Confédération (SRC),
-  - 2\. du Renseignement militaire (RM),
+  - 2\.[^10-3] du Renseignement militaire (RM) et du Service de protection préventive de l’armée (SPPA),
   - 3\. du service Actions dans le cyberespace et dans l’espace électromagnétique (ACEM),
   - 4\. de l’autorité de surveillance indépendante des activités de renseignement (AS-Rens);
 
-- e. les activités sensibles des collaborateurs des autorités d’exécution cantonales visées à l’art. 9, al. 1, de loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^10-3];
+- e. les activités sensibles des collaborateurs des autorités d’exécution cantonales visées à l’art. 9, al. 1, de loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^10-4];
 - f. les activités soumises à un contrôle correspondant à ce degré de contrôle en vertu d’un traité international.
 
 [^10-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^10-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
-[^10-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^10-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 11
 
@@ -329,18 +339,16 @@ Les contrôles de fiabilité visés à l’art. 24, al. 1, LENu des personnes su
 
 <sup>3</sup> En cas de décision de renoncer à la procédure de sécurité en vertu de l’art. 53, al. 2, LSI, l’adjudicateur est le service qui demande le contrôle et l’instance décisionnelle.
 
-<sup>4</sup>
-
-Pour les contrôles de fiabilité visés à l’art. 24, al. 1, LENu, les services compétents sont les suivants:
-
-- a. services qui demandent le contrôle: les responsables de projet d’une nouvelle installation nucléaire, les titulaires d’une autorisation générale, d’une autorisation de construire ou d’une autorisation d’exploiter une installation nucléaire ou les destinataires d’une décision de désaffectation;
-- b. instance décisionnelle: l’IFSN.
+<sup>4</sup> Pour les contrôles de fiabilité visés à l’art. 24, al. 1, LENu, les responsables de projet d’une nouvelle installation nucléaire, les titulaires d’une autorisation générale, d’une autorisation de construire ou d’une autorisation d’exploiter une installation nucléaire ou les destinataires d’une décision de désaffectation sont les services qui demandent le contrôle et les instances décisionnelles. L’IFSN émet des directives concernant l’évaluation du risque pour la sécurité par les instances décisionnelles.[^15-1]
 
 <sup>5</sup> La société nationale du réseau de transport est le service qui demande le contrôle et l’instance décisionnelle en ce qui concerne les contrôles de loyauté visés à l’art. 20*a* LApEl.
 
-<sup>6</sup> Les autorités soumises à la LSI et les cantons informent les services spécialisés CSP des services qui demandent le contrôle et des instances décisionnelles dans leur domaine de compétence.
+<sup>6</sup> Les autorités soumises à la LSI et les cantons informent les services spécialisés CSP des services qui demandent le contrôle et des instances décisionnelles dans leur domaine de compétence. Si un canton ne désigne pas de service qui demande le contrôle, c’est l’unité administrative de la Confédération responsable de l’activité sensible qui est chargée de demander le contrôle.[^15-2]
 
 <sup>7</sup> Le service qui demande le contrôle est chargé d’apporter la preuve du consentement donné aux contrôles pour autant que le système d’information visé à l’art. 45 LSI ne la fournisse pas.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 16
 
@@ -355,20 +363,25 @@ Les services spécialisés CSP sont:
 - a. le service spécialisé CSP de la Chancellerie fédérale (Service spécialisé CSP ChF);
 - b. le service spécialisé CSP du DDPS (Service spécialisé CSP DDPS).
 
-<sup>2</sup> Le Service spécialisé CSP DDPS fait partie du Secrétariat d’État à la politique de sécurité du DDPS.
+<sup>2</sup> Le Service spécialisé CSP DDPS fait partie du Secrétariat d’État à la politique de sécurité (SEPOS).[^16-1]
 
 <sup>3</sup>
 
-Le Service spécialisé CSP ChF est chargé de contrôler les personnes exerçant les fonctions suivantes:
+Le Service spécialisé CSP ChF est chargé de contrôler les personnes suivantes:
 
-- a. les fonctions visées à l’art. 2, al. 1, OPers[^16-1], à l’exception des fonctions au sein de la Chancellerie fédérale;
-- b. les fonctions visées à l’art. 2, al. 1<sup>bis</sup>, OPers;
-- c. les fonctions au sein du Service spécialisé CSP DDPS;
-- d. les fonctions du DDPS impliquant des tâches de conduite concernant le Service spécialisé CSP DDPS.
+- a. les personnes élues ou nommées par le Conseil fédéral ou dont l’élection est approuvée ou confirmée par le Conseil fédéral, à l’exception des fonctions au sein de la Chancellerie fédérale;
+- b. les suppléants des secrétaires d’État, des directeurs d’office et des secrétaires généraux;
+- c. les personnes élues ou nommées par la direction supérieure des autres autorités soumises à la LSI et qui lui sont directement subordonnées;
+- d. les employés du SEPOS.[^16-2]
 
 <sup>4</sup> Le Service spécialisé CSP DDPS est chargé de tous les autres contrôles.
 
-[^16-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> S’il y a des raisons de supposer un conflit d’intérêts potentiel dans le cadre du contrôle d’une personne particulière, sans qu’il soit possible de le résoudre de manière satisfaisante par la récusation prévue à l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^16-3], les services spécialisés CSP décident d’un commun accord de la compétence.[^16-4]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^16-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16-4]: Introduit par le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 17
 
@@ -414,18 +427,18 @@ La personne soumise au contrôle doit notamment:
 
 <sup>2</sup>
 
-Une audition visée à l’art. 34, al. 2, let. d, LSI est menée auprès:
+Une audition visée à l’art. 34, al. 2, let. d, LSI est menée auprès des personnes suivantes:[^19-1]
 
-- a. des personnes ayant des rapports de travail visés à l’art. 2, al. 1, OPers[^19-1];
-- b. des personnes ayant des rapports de travail visés à l’art. 2, al. 1<sup>bis</sup>, OPers;
+- a.[^19-2] les personnes élues ou nommées par le Conseil fédéral ou dont l’élection est approuvée ou confirmée par le Conseil fédéral;
+- b.[^19-3] les suppléants des secrétaires d’État, des directeurs d’office et des secrétaires généraux;
 - c.
 
   des personnes exerçant une fonction dans l’un des services suivants ou dont il est prévu qu’elles exercent une telle fonction:
 
   - 1\. le SRC,
-  - 2\. les autorités d’exécution cantonales visées à l’art. 9 LRens[^19-2],
-  - 3\. le RM,
-  - 4\. l’ACEM,
+  - 2\. les autorités d’exécution cantonales visées à l’art. 9 LRens[^19-4],
+  - 3\.[^19-5] le RM et le SPPA,
+  - 4\.[^19-6] …
   - 5\. l’AS-Rens,
   - 6\. fedpol,
   - 7\. les services spécialisés CSP;
@@ -452,8 +465,12 @@ Les tiers suivants peuvent être auditionnés en vertu de l’art. 34, al. 3, LS
 
 <sup>5</sup> Les services spécialisés CSP peuvent auditionner les personnes à l’aide de moyens audiovisuels.
 
-[^19-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^19-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-5]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^19-6]: Abrogé par le ch. I de l’O du 14 mars 2025, avec effet au 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 20
 
@@ -542,7 +559,7 @@ Les services spécialisés CSP communiquent leurs constatations intermédiaires 
 
 <sup>1</sup>
 
-Si une personne est l’objet d’une déclaration valable reposant sur un contrôle antérieur, l’instance décisionnelle peut ne pas procéder à une nouvelle évaluation:
+Si une personne est l’objet d’une déclaration de sécurité valable reposant sur un contrôle antérieur selon l’art. 1, al. 1, l’instance décisionnelle ou, si le Conseil fédéral est l’instance décisionnelle, le département qui dépose la proposition peut ne pas procéder à une nouvelle évaluation:[^25-1]
 
 - a. si l’évaluation antérieure est fondée sur les mêmes facteurs de risque que le nouveau contrôle, et
 - b. s’il n’y a aucune raison de procéder à une répétition extraordinaire du contrôle.
@@ -554,6 +571,8 @@ Les risques pour la sécurité constatés lors d’une évaluation correspondant
 - a. ces risques peuvent également être décelés à l’aide des données collectées qui correspondent à un degré de contrôle moins élevé, ou
 - b. les intérêts publics visés à l’art. 1, al. 2, LSI l’emportent sur les droits de la personnalité de la personne contrôlée.
 
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+
 #### Art. 26
 
 **Répétition ordinaire du contrôle**
@@ -562,16 +581,26 @@ Les risques pour la sécurité constatés lors d’une évaluation correspondant
 
 <sup>1</sup>
 
-Le contrôle est l’objet d’une répétition ordinaire:
+Si une déclaration de sécurité a été rendue conformément à l’art. 39, al. 1, let. a, LSI, le contrôle doit faire l’objet d’une répétition ordinaire dans les délais suivants:
 
-- a. dans les trois mois qui précèdent l’expiration du délai maximal fixé à l’art. 43, al. 1, LSI si une déclaration de sécurité visée à l’art. 39, al. 1, let. a, LSI a été rendue lors du contrôle précédent;
-- b. dans les trois mois qui suivent l’expiration du délai minimal fixé à l’art. 43, al. 1, LSI si une déclaration ou une constatation visée à l’art. 39, al. 1, let. b à d, LSI a été rendue lors du contrôle précédent.
+- a. pour les contrôles de sécurité de base: dans les trois mois qui précèdent l’expiration du délai maximal de dix ans;
+- b. pour les contrôles de sécurité élargi: dans les trois mois qui précèdent l’expiration du délai maximal de cinq ans.[^26-1]
+
+<sup>1bis</sup>
+
+Si une déclaration ou une constatation visée à l’art. 39, al. 1, let. b à d, LSI a été rendue, le contrôle doit faire l’objet d’une répétition ordinaire dans les délais suivants:
+
+- a. pour les contrôles de sécurité de base: dans les trois mois qui suivent l’expiration du délai minimal de cinq ans;
+- b. pour les contrôles de sécurité élargi: dans les trois mois qui suivent l’expiration du délai minimal de trois ans.[^26-2]
 
 <sup>2</sup> Les délais fixés dans un traité international sont réservés.
 
 <sup>3</sup> Pour les fonctions de l’armée et de la protection civile, le contrôle de sécurité de base n’est pas l’objet d’une répétition ordinaire s’il est probable que la personne soumise au contrôle n’exercera plus sa fonction que pour une période inférieure à cinq ans.
 
 <sup>4</sup> Les évaluations du potentiel d’abus ou de dangerosité visées à l’art. 113, al. 4, let. d, LAAM ne sont pas l’objet d’une répétition ordinaire.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
+[^26-2]: Introduit par le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 27
 
@@ -647,11 +676,13 @@ Le DDPS et la Chancellerie fédérale veillent à ce qu’un organe indépendant
 
 ### (art. 48, let. a, LSI)
 
-<sup>1</sup> La communication entre la personne soumise au contrôle, les autorités, les tiers et les instances judiciaires s’effectue par voie électronique.
+<sup>1</sup> Dans la mesure du possible, la communication entre la personne soumise au contrôle, les autorités, les tiers et les instances judiciaires s’effectue par voie électronique.[^33-1]
 
 <sup>2</sup> Les personnes qui ne sont pas des employés de la Confédération peuvent demander que la communication avec elles s’effectue en format papier.
 
 <sup>3</sup> Les services spécialisés CSP peuvent utiliser des plateformes de messagerie et des listes d’identité autorisées.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 34
 
@@ -738,7 +769,7 @@ Annexe 1[^t-1]
 
 [^t-1]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
 
-**Cette liste n’est pas publiée**
+Cette liste n’est pas publiée
 
 Annexe 2
 
@@ -1034,7 +1065,7 @@ Annexe 4[^t-2]
 
 [^t-2]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
 
-**Cette liste n’est pas publiée**
+Cette liste n’est pas publiée
 
 Annexe 5
 
@@ -1059,7 +1090,7 @@ Annexe 6[^t-3]
 
 [^t-3]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
 
-**Cette liste n’est pas publiée**
+Cette liste n’est pas publiée
 
 Annexe 7
 
