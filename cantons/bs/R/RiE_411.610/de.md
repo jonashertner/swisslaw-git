@@ -4,13 +4,13 @@ number: RiE 411.610
 title: Reglement für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulreglement
 language: de
-version: 2024-08-22
-valid_until: 2025-04-16
-version_adopted: 2024-08-13
+version: 2025-04-17
+valid_until: 2026-07-31
+version_adopted: 2025-04-08
 adopted: 2009-06-16
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6379/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,11 +21,11 @@ Schulreglement | Riehen: Einwohnergemeinde
 
 (Schulreglement)
 
-Vom 16. Juni 2009 (Stand 22. August 2024)
+Vom 16. Juni 2009 (Stand 17. April 2025)
 
 Der Gemeinderat Riehen
 
-erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und Riehen vom 25. März 2009[^ingress-1] folgendes Reglement:
+erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und Riehen (Schulordnung) vom 25. März 2009[^ingress-1] folgendes Reglement:
 
 [^ingress-1]: [RiE 411.600](https://www.gesetzessammlung.bs.ch/data/RiE%20411.600/de).
 
@@ -295,13 +295,19 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 #### § 21
 
-**Dauer des Arbeitsverhältnisses**
+**Befristete Arbeitsverhältnisse**
 
-<sup>1</sup> Die Dauer des Arbeitsverhältnisses richtet sich nach § 7 der Personalordnung.
+<sup>1</sup> Abweichend von § 19a der Schulordnung[^21-1] werden für folgende Arbeitsverhältnisse befristete Arbeitsverträge abgeschlossen:
 
-<sup>2</sup> Lehrpersonen werden in der Regel während den ersten zwei Jahren mit einem befristeten Arbeitsvertrag von jeweils einem Jahr angestellt.
+- a) für den befristeten Einsatz von Stellvertretungen, sofern der Einsatz länger als zwei Monate dauert;
+- b) für die Anstellung von Lehrpersonen, deren Ausbildung unvollständig ist und denen nicht die Anstellungsfähigkeit nach § 93 Abs. 2 des Schulgesetzes vom 4. April 1929[^21-2] zuerkannt wurde.
 
-<sup>3</sup> Lehrpersonen, welche den Studiengang für erfahrene Berufspersonen an der Fachhochschule Nordwestschweiz absolviert haben, werden nach Abschluss ihrer Ausbildung mindestens ein Jahr befristet in den Gemeindeschulen angestellt, auch wenn sie während ihrer Ausbildung bereits in den Gemeindeschulen unterrichtet haben.
+<sup>2</sup> Eine befristete Anstellung darf maximal ein Jahr dauern. Liegen gewichtige betriebliche oder persönliche Gründe vor, kann das befristete Arbeitsverhältnis maximal zweimal um höchstens ein Jahr verlängert werden.
+
+<sup>3</sup> …
+
+[^21-1]: SG [RiE 411.600](https://www.gesetzessammlung.bs.ch/data/RiE%20411.600/de)
+[^21-2]: SG [410.100](https://www.gesetzessammlung.bs.ch/data/410.100/de)
 
 #### § 21a
 
@@ -378,13 +384,7 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 #### § 28
 
-**Kündigungsfrist**
-
-<sup>1</sup> Die Kündigungsfrist für unbefristet angestellte Lehrpersonen beträgt in der Regel vier Monate.
-
-<sup>2</sup> Im Anstellungsvertrag kann eine abweichende Kündigungsfrist von minimal einem bis maximal sechs Monaten vereinbart werden.
-
-<sup>3</sup> Die Kündigung ist jeweils auf Ende eines Schulsemesters möglich.
+**…**
 
 #### § 28a
 
@@ -450,9 +450,9 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 #### § 34a
 
-**Dauer des Arbeitsverhältnisses und Kündigungsfrist**
+**Anstellungsbedingungen**
 
-<sup>1</sup> Für Fachpersonen Logopädie und Psychomotorik gelten die §§ 21, 26 und 28 sinngemäss.
+<sup>1</sup> Für Fachpersonen Logopädie und Psychomotorik gelten die §§ 21, 23a, 25a und 26 sinngemäss.
 
 #### § 34b
 
