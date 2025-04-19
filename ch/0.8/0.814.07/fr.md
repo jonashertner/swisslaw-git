@@ -3,18 +3,18 @@ sr: "0.814.07"
 title: "Convention du 25 juin 1998 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement (Convention d'Aarhus) (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: fr
-version: 2025-03-25
+version: 2025-04-20
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/fr/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250420/fr/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250420-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement
 
-RO **2014** 1027; FF **2012** 3027
+RO **2014** 1027; FF **2012** 4027
 
 Texte original
 
@@ -28,7 +28,7 @@ Instrument de ratification déposé par Suisse le 3 mars 2014
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2014
 
-(État le 25 mars 2025)
+(État le 20 avril 2025)
 
 [^t-1]: Art. 1, al. 1, de l’AF du 27 sept. 2013 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234))
 
@@ -86,9 +86,9 @@ sachant que l’adoption de la présente Convention ne pourra que contribuer au 
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-2]: [RS 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
-[^ingress-3]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^ingress-1]: [RS 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-2]: [RS 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
+[^ingress-3]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 1
 
@@ -313,7 +313,20 @@ Chaque Partie demande aux autorités publiques compétentes de faire en sorte qu
 
 <sup>10.</sup> Chaque Partie veille à ce que, lorsqu’une autorité publique réexamine ou met à jour les conditions dans lesquelles est exercée une activité visée au par. 1, les dispositions des par. 2 à 9 du présent article s’appliquent *mutatis mutandis* lorsqu’il y a lieu.
 
-<sup>11.</sup> Chaque Partie applique, dans le cadre de son droit interne, dans la mesure où cela est possible et approprié, des dispositions du présent article lorsqu’il s’agit de décider s’il y a lieu d’autoriser la dissémination volontaire d’organismes génétiquement modifiés dans l’environnement.
+<sup>11.</sup> Sans préjudice des dispositions du par. 5 de l’art. 3, les disposition du présent article ne s’appliquent pas aux décisions autorisant ou non la dissémination volontaire dans l’environnement et la mise sur le marché d’organismes génétiquement modifiés.[^6-1]
+
+[^6-1]: Nouvelle teneur selon l’annexe de la D II/1 du 27 mai 2005, approuvée par l’Ass. féd. le 27 sept. 2013, en vigueur pour la Suisse depuis le 20 avr. 2025 ([RO 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+#### Art. 6<sup>bis</sup>
+
+**Participation du public aux décisions concernant la dissémination volontaire dans l’environnement et la mise sur le marché d’organismes génétiquement modifiés**[^6bis-1]
+
+<sup>1.</sup> Conformément aux modalités définies à l’annexe 1<sup>bis</sup>, chaque Partie assure une information et une participation du public précoces et effectives avant de prendre des décisions autorisant ou non la dissémination volontaire dans l’environnement et la mise sur le marché d’organismes génétiquement modifiés.
+
+<sup>2.</sup> Les prescriptions établies par les Parties conformément aux dispositions du par. 1 du présent article devraient être complémentaires et s’appliquer en synergie avec les dispositions du cadre national relatif à la prévention des risques biotechnologiques, en concordant avec les objectifs du Protocole de Cartagena sur la prévention des risques biotechnologiques[^6bis-2].
+
+[^6bis-1]: Introduit par l’annexe de la D II/1 du 27 mai 2005, approuvée par l’Ass. féd. le 27 sept. 2013, en vigueur pour la Suisse depuis le 20 avr. 2025 ([RO 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+[^6bis-2]: [RS 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 
 #### Art. 7
 
@@ -656,8 +669,54 @@ Dans les deux cas, les transvasements d’eau potable amenée par canalisations 
 \22. Toute modification ou extension des activités qui répond en elle-même aux critères ou aux seuils énoncés dans la présente annexe est régie par le par. 1 a) de l’art. 6 de la présente Convention. Toute autre modification ou extension d’activités relève du par. 1 b) de l’art. 6 de la présente Convention.
 
 [^annexI-lvlu1-1]: Les centrales nucléaires et autres réacteurs nucléaires cessent d’être des installations nucléaires lorsque tous les combustibles nucléaires et tous les autres éléments contaminés ont été définitivement retirés du site d’implantation.
-[^annexI-lvlu1-2]: Aux fins de la présente Conv., la notion «aéroport» correspond à la définition donnée dans la Conv. de Chicago de 1944 portant création de l’Organisation de l’aviation civile internationale (annexe 14) ([RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)).
-[^annexI-lvlu1-3]: Aux fins de la présente Conv., on entend par «voie rapide» une route répondant à la définition donnée dans l’Ac. européen du 15 nov. 1975 sur les grandes routes de trafic international ([RS 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)).
+[^annexI-lvlu1-2]: Aux fins de la présente Conv., la notion «aéroport» correspond à la définition donnée dans la Conv. de Chicago de 1944 portant création de l’Organisation de l’aviation civile internationale (annexe 14) ([RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)).
+[^annexI-lvlu1-3]: Aux fins de la présente Conv., on entend par «voie rapide» une route répondant à la définition donnée dans l’Ac. européen du 15 nov. 1975 sur les grandes routes de trafic international ([RS 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)).
+
+Annexe I<sup>bis</sup> [^t-2]
+
+## Modalités visées à l’art. 6<sup>bis</sup>
+
+[^t-2]: Introduite par l’annexe de la D II/1 du 27 mai 2005, approuvée par l’Ass. féd. le 27 sept. 2013, en vigueur pour la Suisse depuis le 20 avr. 2025 ([RO 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+\1. Chaque Partie établit, dans son cadre réglementaire, des arrangements prévoyant une information et une participation du public effectives pour les décisions soumises aux dispositions de l’art. 6<sup>bis</sup>, y compris un délai raisonnable, afin de donner au public des possibilités suffisantes d’exprimer une opinion sur les décisions envisagées.
+
+\2. Dans son cadre réglementaire, une Partie peut, s’il y a lieu, prévoir des exceptions à la procédure de participation du public prescrite dans la présente annexe:
+
+- a)
+
+  dans le cas de la dissémination volontaire d’un organisme génétiquement modifié (OGM) dans l’environnement à tout autre fin que sa mise sur le marché, si:
+
+  - i) une telle dissémination, dans des conditions biogéographiques comparables, a déjà été approuvée dans le cadre réglementaire de la Partie concernée, et
+  - ii) une expérience suffisante a antérieurement été acquise en matière de dissémination de l’OGM en question dans des écosystèmes comparables;
+
+- b)
+
+  dans le cas de la mise sur le marché d’un OGM, si:
+
+  - i) elle a déjà été approuvée dans le cadre réglementaire de la Partie concernée, ou
+  - ii) elle est destinée à la recherche ou à des collections de cultures.
+
+\3. Sans préjudice de la législation applicable en matière de confidentialité, et conformément aux dispositions de l’art. 4, chaque Partie met à la disposition du public comme il convient, de manière efficace et en temps voulu, un résumé de la notification visant à obtenir une autorisation en vue de la dissémination volontaire dans l’environnement ou de la mise sur le marché d’un OGM sur son territoire, ainsi que le rapport d’évaluation, lorsque celui-ci est disponible, en conformité avec son cadre national relatif à la prévention des risques biotechnologiques.
+
+\4. Les Parties ne considèrent en aucun cas les informations ci-après comme confidentielles:
+
+- a) la description générale de l’organisme ou des organismes génétiquement modifié(s) concerné(s), le nom et l’adresse du demandeur de l’autorisation de dissémination volontaire, les utilisations prévues et, le cas échéant, le lieu de la dissémination;
+- b) les méthodes et plans de suivi de l’organisme ou des organismes génétiquement modifié(s) concerné(s) et les méthodes et plans d’intervention d’urgence;
+- c) l’évaluation des risques pour l’environnement.
+
+\5. Chaque Partie veille à la transparence des procédures de prise de décisions et assure au public l’accès aux informations de procédure pertinentes. Ces informations peuvent concerner par exemple:
+
+- i) la nature des décisions qui pourraient être adoptées;
+- ii) l’autorité publique chargée de prendre la décision;
+- iii) les arrangements pris en matière de participation du public en application du par. 1;
+- iv) l’autorité publique à laquelle il est possible de s’adresser pour obtenir des renseignements pertinents;
+- v) l’autorité publique à laquelle des observations peuvent être adressées et le délai prévu pour la communication d’observations.
+
+\6. Les dispositions adoptées en application du par. 1 prévoient la possibilité pour le public de soumettre, sous toute forme appropriée, toutes les observations, informations, analyses ou opinions qu’il estime pertinentes au regard de la dissémination volontaire proposée, y compris la mise sur le marché.
+
+\7. Chaque Partie s’efforce de faire en sorte que, lorsqu’il est décidé d’autoriser ou non la dissémination volontaire d’OGM dans l’environnement, y compris leur mise sur le marché, les résultats de la procédure de participation du public organisée en application du par. 1 sont dûment pris en considération.
+
+\8. Les Parties s’assurent que, lorsqu’une décision soumise aux dispositions de la présente annexe a été prise par une autorité publique, le texte en est rendu public, de même que les raisons et considérations sur lesquelles elle est fondée.
 
 Annexe II
 
@@ -702,7 +761,7 @@ Annexe II
 
 \18. Tout différend entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 25 mars 2025[^t-2]
+Champ d’application le 25 mars 2025[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -756,17 +815,17 @@ Champ d’application le 25 mars 2025[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique ni aux Îles Féroés ni au Groenland. <sup>b</sup> La Convention ne s’applique pas à la Nouvelle-Calédonie, ni à la Polynésie française ni aux Îles Wallis-et-Futuna. <sup>c</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: [RO 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves de la Suisse
 
 Réserve portant sur l’art. 4
 
-Dans le domaine de l’énergie nucléaire et de la radioprotection, l’application de l’art. 4 de la convention d’Aarhus se fait sous la réserve de l’art. 23 de la loi du 17 décembre 2004 sur la transparence[^t-3], qui prévoit l’accès aux documents officiels établis ou remis aux autorités après l’entrée en vigueur de la loi précitée, le 1<sup>er</sup> juillet 2006, lorsque les demandes visent l’accès à des documents contenant des informations en rapport avec des installations nucléaires.
+Dans le domaine de l’énergie nucléaire et de la radioprotection, l’application de l’art. 4 de la convention d’Aarhus se fait sous la réserve de l’art. 23 de la loi du 17 décembre 2004 sur la transparence[^t-4], qui prévoit l’accès aux documents officiels établis ou remis aux autorités après l’entrée en vigueur de la loi précitée, le 1<sup>er</sup> juillet 2006, lorsque les demandes visent l’accès à des documents contenant des informations en rapport avec des installations nucléaires.
 
 Réserve portant sur les art. 6, par. 6, et 9, par. 2
 
-Dans le domaine de l’énergie nucléaire et de la radioprotection, l’application des art. 6, par. 6, et 9, par. 2, de la convention d’Aarhus se fait sous la réserve prévue à l’art. 3, al. 2, de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement[^t-4], qui exclut le droit de recours en rapport avec des substances radioactives et des rayons ionisants pour les organisations de protection de l’environnement au sens de l’art. 55 de la loi précitée.
+Dans le domaine de l’énergie nucléaire et de la radioprotection, l’application des art. 6, par. 6, et 9, par. 2, de la convention d’Aarhus se fait sous la réserve prévue à l’art. 3, al. 2, de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement[^t-5], qui exclut le droit de recours en rapport avec des substances radioactives et des rayons ionisants pour les organisations de protection de l’environnement au sens de l’art. 55 de la loi précitée.
 
-[^t-3]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^t-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^t-4]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^t-5]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)

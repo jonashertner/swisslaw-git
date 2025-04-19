@@ -3,11 +3,11 @@ sr: "0.814.07"
 title: "Convenzione del 25 giugno 1998 sull'accesso alle informazioni, la partecipazione del pubblico ai processi decisionali e l'accesso alla giustizia in materia ambientale (Convenzione di Aarhus) (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: it
-version: 2025-03-25
+version: 2025-04-20
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/it/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250420/it/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250420-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Conclusa ad Aarhus il 25 giugno 1998 Approvata dall’Assemblea federale il 27 settembre 2013[^t-1] Strumento di ratifica depositato dalla Svizzera il 3 marzo 2014 Entrata in vigore per la Svizzera il 1° giugno 2014
 
-(Stato 25 marzo 2025)
+(Stato 20 aprile 2025)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 27 set. 2013 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
 
@@ -80,9 +80,9 @@ consapevoli che l’adozione della presente convenzione contribuirà all’ulter
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-2]: [RS 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
-[^ingress-3]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^ingress-1]: [RS 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-2]: [RS 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
+[^ingress-3]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 1
 
@@ -307,7 +307,20 @@ Ciascuna Parte impone alle pubbliche autorità competenti di consentire al pubbl
 
 <sup>10.</sup> Ciascuna Parte provvede affinché, nei casi in cui un’autorità pubblica proceda al riesame o all’adeguamento delle condizioni di esercizio di una delle attività di cui al paragrafo 1, si applichino *mutatis mutandis* e ove opportuno le disposizioni dei paragrafi da 2 a 9 del presente articolo.
 
-<sup>11.</sup> Nel quadro del proprio diritto nazionale, e nella misura in cui ciò sia possibile e opportuno, ciascuna Parte applica le disposizioni del presente articolo alle decisioni riguardanti l’autorizzazione all’emissione deliberata nell’ambiente di organismi genericamente modificati.
+<sup>11.</sup> Fatto salvo l’articolo 3, paragrafo 5, le disposizioni del presente articolo non si applicano alle decisioni riguardanti l’autorizzazione all’emissione deliberata nell’ambiente e all’immissione in commercio di organismi geneticamente modificati.[^6-1]
+
+[^6-1]: Nuovo testo giusta all’all. della Dec. II/1 del 27 mag. 2005, approvata dall’AF il 27 set. 2013, in vigore per la Svizzera il 20 apr. 2025 ([RU 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+#### Art. 6<sup>bis</sup>
+
+**Partecipazione del pubblico alle decisioni concernenti la disseminazione volontaria nell’ambiente e l’immissione in commercio di organismi geneticamente modificati**[^6bis-1]
+
+<sup>1.</sup> Conformemente alle modalità indicate nell’allegato I<sup>bis</sup>, ciascuna Parte provvede a garantire, con efficacia e tempestività, l’informazione e la partecipazione del pubblico prima di decidere se autorizzare l’emissione deliberata nell’ambiente e l’immissione in commercio di organismi geneticamente modificati.
+
+<sup>2.</sup> Le disposizioni adottate dalle Parti a norma del paragrafo 1 devono essere complementari e rafforzare le disposizioni della disciplina nazionale sulla biosicurezza, conformemente agli obiettivi stabiliti nel protocollo di Cartagena sulla biosicurezza[^6bis-2].
+
+[^6bis-1]: Introdotto dall’all. della Dec. II/1 del 27 mag. 2005, approvata dall’AF il 27 set. 2013, in vigore per la Svizzera il 20 apr. 2025 ([RU 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+[^6bis-2]: [RS 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 
 #### Art. 7
 
@@ -650,8 +663,54 @@ In entrambi i casi sono esclusi i trasferimenti di acqua potabile convogliata in
 \22. Qualsiasi modifica o estensione di attività, ove tale modifica o estensione soddisfi di per sé i criteri o le soglie stabiliti nel presente allegato, è effettuata a norma dell’articolo 6 paragrafo 1 lettera a della presente convenzione. Qualsiasi altra modifica o estensione di attività è disciplinata dall’articolo 6 paragrafo 1 lettera b della presente convenzione.
 
 [^annexI-lvlu1-1]: Le centrali nucleari e gli altri reattori nucleari cessano di essere tali quando tutto il combustibile nucleare e gli altri elementi oggetto di contaminazione radioattiva sono stati rimossi in modo definitivo dal sito dell’impianto.
-[^annexI-lvlu1-2]: Ai fini della presente Conv., per «aeroporto» si intende un aeroporto conforme alla definizione della Conv. di Chicago del 1944 che istituisce l’Organizzazione per l’aviazione civile internazionale (all. 14), [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381).
-[^annexI-lvlu1-3]: Ai fini della presente Conv., per «via di rapida comunicazione» si intende una strada conforme alla definizione contenuta nell’Accordo europeo sulle grandi strade di traffico internazionale del 15 nov. 1975 ([RS 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)).
+[^annexI-lvlu1-2]: Ai fini della presente Conv., per «aeroporto» si intende un aeroporto conforme alla definizione della Conv. di Chicago del 1944 che istituisce l’Organizzazione per l’aviazione civile internazionale (all. 14), [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110).
+[^annexI-lvlu1-3]: Ai fini della presente Conv., per «via di rapida comunicazione» si intende una strada conforme alla definizione contenuta nell’Accordo europeo sulle grandi strade di traffico internazionale del 15 nov. 1975 ([RS 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)).
+
+Allegato I<sup>bis</sup> [^t-2]
+
+## Modalità di cui all’articolo 6<sup>bis</sup>
+
+[^t-2]: Introdotto dall’all. della Dec. II/1 del 27 mag. 2005, approvata dall’AF il 27 set. 2013, in vigore per la Svizzera il 20 apr. 2025 ([RU 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+\1. Ciascuna Parte istituisce, nell’ambito del rispettivo quadro normativo, le modalità per garantire un’informazione e una partecipazione efficaci del pubblico alle decisioni cui si applicano le disposizioni dell’articolo 6<sup>bis</sup>; tali modalità devono comprendere delle scadenze ragionevoli, per dare al pubblico la possibilità di esprimere adeguatamente un parere sulle decisioni proposte.
+
+\2. Nel contesto dei rispettivi quadri normativi, le Parti possono, se opportuno, prevedere deroghe alla procedura di partecipazione del pubblico di cui al presente allegato:
+
+- a)
+
+  in caso di emissione deliberata nell’ambiente di un organismo geneticamente modificato (OGM) finalizzata a scopi diversi dalla sua immissione in commercio, se:
+
+  - i) tale emissione, in condizioni biogeografiche comparabili, è già stata approvata nell’ambito del quadro normativo della Parte interessata, e
+  - ii) è stata acquisita un’esperienza sufficiente sull’emissione dell’OGM in questione in ecosistemi comparabili;
+
+- b)
+
+  in caso di immissione in commercio di un OGM, se:
+
+  - i) tale immissione era già stata approvata nell’ambito del quadro normativo applicabile della Parte interessata, o
+  - ii) tale immissione è finalizzata alla ricerca o a collezioni di colture.
+
+\3. Fatta salva la legislazione applicabile in materia di riservatezza a norma dell’articolo 4, le Parti mettono a disposizione del pubblico, in maniera opportuna, tempestiva ed efficace, una sintesi della notifica presentata per ottenere l’autorizzazione all’emissione deliberata nell’ambiente o all’immissione in commercio di un OGM sul proprio territorio, nonché l’eventuale rapporto di valutazione, nel rispetto della disciplina nazionale sulla biosicurezza.
+
+\4. Le Parti non possono in nessun caso considerare riservate le informazioni seguenti:
+
+- a) descrizione generale dell’organismo o degli organismi geneticamente modificati interessati, nome e indirizzo del richiedente l’autorizzazione all’emissione deliberata, usi previsti ed eventualmente luogo dell’emissione;
+- b) i metodi e i piani relativi al monitoraggio dell’organismo o degli organismi geneticamente modificati interessati e agli interventi di emergenza;
+- c) la valutazione del rischio ambientale.
+
+\5. Le Parti garantiscono la trasparenza delle procedure decisionali e assicurano l’accesso del pubblico alle informazioni del caso su tali procedure. Tali informazioni potrebbero comprendere, a titolo di esempio:
+
+- i) la natura delle eventuali decisioni;
+- ii) l’autorità pubblica responsabile dell’adozione della decisione;
+- iii) le modalità di partecipazione del pubblico definite a norma del paragrafo 1;
+- iv) l’indicazione dell’autorità pubblica cui è possibile rivolgersi per ottenere le pertinenti informazioni;
+- v) l’indicazione dell’autorità pubblica presso la quale è possibile presentare osservazioni e dei tempi per l’invio di tali osservazioni.
+
+\6. Le disposizioni di cui al paragrafo 1 devono consentire al pubblico di presentare eventuali osservazioni, informazioni, analisi o pareri da esso ritenuti rilevanti ai fini dell’emissione deliberata di OGM proposta, compresa l’immissione in commercio, secondo le forme più opportune.
+
+\7. Le Parti devono provvedere affinché, al momento dell’adozione della decisione di autorizzare l’emissione deliberata nell’ambiente di OGM, compresa l’immissione in commercio, si tenga adeguatamente conto dei risultati della procedura di partecipazione del pubblico, organizzata a norma del paragrafo 1.
+
+\8. Le Parti devono provvedere affinché, nel momento in cui un’autorità pubblica prende una decisione soggetta alle disposizioni del presente allegato, sia reso accessibile al pubblico il testo della decisione, nonché i motivi e le considerazioni su cui essa si fonda.
 
 Allegato II
 
@@ -696,7 +755,7 @@ Allegato II
 
 \18. Qualsiasi controversia tra le parti in merito all’interpretazione o all’esecuzione della decisione finale può essere sottoposta da una di esse al tribunale arbitrale che l’ha emessa, o se questo non può essere investito della questione, a un altro tribunale costituito a tal fine nello stesso modo del primo.
 
-Campo d’applicazione il 25 marzo 2025[^t-2]
+Campo d’applicazione il 25 marzo 2025[^t-3]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -747,23 +806,23 @@ Campo d’applicazione il 25 marzo 2025[^t-2]
 <tr><td colspan="2">Ucraina</td><td>18 novembre</td><td>1999</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Ungheria</td><td>3 luglio</td><td>2001</td><td>30 ottobre</td><td>2001</td></tr>
 <tr><td colspan="2">Unione europea</td><td>17 febbraio</td><td>2005</td><td>18 maggio</td><td>2005</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, a eccezione di quelle della Svizzera. I testi francese e inglese possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ od ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, a eccezione di quelle della Svizzera. I testi francese e inglese possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) od ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="6"><sup>a</sup> La Conv. non si applica né alle Isole Färöer né alla Groenlandia.</td></tr>
 <tr><td colspan="6"><sup>b</sup> La Conv. non si applica né alla Nuova-Caledonia, né alla Polinesia francese, né alle isole Wallis e Futuna.</td></tr>
 <tr><td colspan="6"><sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-3]: [RU 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve della Svizzera
 
 Riserva all’articolo 4
 
-Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, per le domande di consultazione di documenti contenenti informazioni relative a impianti nucleari, l’articolo 4 della Convenzione di Aarhus si applica con riserva dell’articolo 23 della legge del 17 dicembre 2004[^t-3] sulla trasparenza, che garantisce l’accesso soltanto ai documenti ufficiali stilati o ricevuti da un’autorità dopo l’entrata in vigore di tale legge, il 1° luglio 2006.
+Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, per le domande di consultazione di documenti contenenti informazioni relative a impianti nucleari, l’articolo 4 della Convenzione di Aarhus si applica con riserva dell’articolo 23 della legge del 17 dicembre 2004[^t-4] sulla trasparenza, che garantisce l’accesso soltanto ai documenti ufficiali stilati o ricevuti da un’autorità dopo l’entrata in vigore di tale legge, il 1° luglio 2006.
 
 Riserve agli articoli 6 paragrafo 6 e 9 paragrafo 2
 
-Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, gli articoli 6 paragrafo 6 e 9 paragrafo 2 della Convenzione di Aarhus si applicano con riserva dell’articolo 3 capoverso 2 della legge del 7 ottobre 1983[^t-4] sulla protezione dell’ambiente (LPAmb), che esclude il diritto di ricorrere delle organizzazioni di protezione dell’ambiente, secondo l’articolo 55 LPAmb, contro le decisioni riguardanti sostanze radioattive e radiazioni ionizzanti.
+Nell’ambito dell’energia nucleare e della protezione contro le radiazioni, gli articoli 6 paragrafo 6 e 9 paragrafo 2 della Convenzione di Aarhus si applicano con riserva dell’articolo 3 capoverso 2 della legge del 7 ottobre 1983[^t-5] sulla protezione dell’ambiente (LPAmb), che esclude il diritto di ricorrere delle organizzazioni di protezione dell’ambiente, secondo l’articolo 55 LPAmb, contro le decisioni riguardanti sostanze radioattive e radiazioni ionizzanti.
 
-[^t-3]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^t-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^t-4]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^t-5]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)

@@ -3,11 +3,11 @@ sr: "0.814.07"
 title: "Übereinkommen vom 25. Juni 1998 über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten (Aarhus-Konvention) (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/235"
 language: de
-version: 2025-03-25
+version: 2025-04-20
 adopted: 1998-06-25
 in_force: 2014-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250325/de/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250325-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250325/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/235/20250420/de/xml/fedlex-data-admin-ch-eli-cc-2014-235-20250420-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/235/20250420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Abgeschlossen in Aarhus am 25. Juni 1998 Von der Bundesversammlung genehmigt am 
 
 In Kraft getreten für die Schweiz am 1. Juni 2014
 
-(Stand am 25. März 2025)
+(Stand am 20. April 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 27. Sept. 2013 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
 
@@ -83,9 +83,9 @@ in dem Bewusstsein, dass die Annahme dieses Übereinkommens einen Beitrag zur we
 sind wie folgt übereingekommen:
 
 [^ingress-1]: <sup>\*</sup> Österreich: Nichtregierungsorganisationen
-[^ingress-2]: [SR 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-3]: [SR 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
-[^ingress-4]: [SR 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^ingress-2]: [SR 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-3]: [SR 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
+[^ingress-4]: [SR 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 1
 
@@ -110,7 +110,9 @@ bedeutet «Behörde»:
 - c) sonstige natürliche oder juristische Personen, die unter der Kontrolle einer unter Buchstabe a oder Buchstabe b genannten Stelle oder einer dort genannten Person im Zusammenhang mit der Umwelt öffentliche Zuständigkeiten haben, öffentliche Aufgaben wahrnehmen oder öffentliche Dienstleistungen erbringen,
 - d) die Einrichtungen aller in Artikel 17 näher bestimmten Organisationen der regionalen Wirtschaftsintegration, die Vertragsparteien dieses Übereinkommens sind;
 
-<sup>3.</sup> bedeutet «Informationen über die Umwelt» sämtliche Informationen in schriftlicher, visueller, akustischer, elektronischer oder sonstiger materieller Form über
+<sup>3.</sup>
+
+bedeutet «Informationen über die Umwelt» sämtliche Informationen in schriftlicher, visueller, akustischer, elektronischer oder sonstiger materieller Form über:
 
 - a) den Zustand von Umweltbestandteilen wie Luft und Atmosphäre, Wasser, Boden, Land, Landschaft und natürliche Lebensräume, die Artenvielfalt und ihre Bestandteile, einschliesslich gentechnisch veränderter Organismen, sowie die Wechselwirkungen zwischen diesen Bestandteilen,
 - b) Faktoren wie Stoffe, Energie, Lärm und Strahlung sowie Tätigkeiten oder Massnahmen, einschliesslich Verwaltungsmassnahmen, Umweltvereinbarungen, Politiken, Gesetze, Pläne und Programme, die sich auf die unter Buchstabe a genannten Umweltbestandteile auswirken oder wahrscheinlich auswirken, sowie Kosten-Nutzen-Analysen und sonstige wirtschaftliche Analysen und Annahmen, die bei umweltbezogenen Entscheidungsverfahren verwendet werden,
@@ -310,7 +312,20 @@ Jede Vertragspartei verpflichtet die zuständigen Behörden, der betroffenen Öf
 
 <sup>10.</sup> Jede Vertragspartei stellt sicher, dass bei einer durch eine Behörde vorgenommenen Überprüfung oder Aktualisierung der Betriebsbedingungen für eine in Absatz 1 genannte Tätigkeit die Absätze 2−9 sinngemäss und soweit dies angemessen ist Anwendung finden.
 
-<sup>11.</sup> Jede Vertragspartei wendet nach ihrem innerstaatlichen Recht im machbaren und angemessenen Umfang Bestimmungen dieses Artikels bei Entscheidungen darüber an, ob eine absichtliche Freisetzung gentechnisch veränderter Organismen in die Umwelt genehmigt wird.
+<sup>11.</sup> Unbeschadet des Artikels 3 Absatz 5 werden die Bestimmungen dieses Artikels nicht bei Entscheidungen darüber angewendet, ob eine absichtliche Freisetzung gentechnisch veränderter Organismen in die Umwelt und ein Inverkehrbringen solcher Organismen genehmigt werden.[^6-1]
+
+[^6-1]: Fassung gemäss Anhang des Beschlusses II/1 vom 27. Mai 2005, von der BVers genehmigt am 27. Sept. 2013 und in Kraft getreten für die Schweiz am 20. April 2025 ([AS 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+#### Art. 6<sup>bis</sup>
+
+**Öffentlichkeitsbeteiligung an Entscheidungen über eine absichtliche Freisetzung gentechnisch veränderter Organismen in die Umwelt und ein Inverkehrbringen solcher Organismen**[^6bis-1]
+
+<sup>1.</sup> Jede Vertragspartei sorgt nach den in Anhang I<sup>bis</sup> festgelegten Modalitäten für eine frühzeitige und effektive Information und Öffentlichkeitsbeteiligung, bevor sie eine Entscheidung darüber trifft, ob eine absichtliche Freisetzung gentechnisch veränderter Organismen in die Umwelt und ein Inverkehrbringen solcher Organismen genehmigt werden.
+
+<sup>2.</sup> Die von den Vertragsparteien nach Absatz 1 festgelegten Vorschriften sollen im Einklang mit den Zielen des Protokolls von Cartagena über die biologische Sicherheit die Bestimmungen[^6bis-2] ihres innerstaatlichen Rechts auf dem Gebiet der biologischen Sicherheit ergänzen und sich wechselseitig stützen.
+
+[^6bis-1]: Eingefügt durch Anhang des Beschlusses II/1 vom 27. Mai 2005, von der BVers genehmigt am 27. Sept. 2013 und in Kraft getreten für die Schweiz am 20. April 2025 ([AS 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+[^6bis-2]: [SR 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 
 #### Art. 7
 
@@ -666,8 +681,54 @@ In beiden Fällen wird der Transport von Trinkwasser in Rohren nicht berücksich
 \22. Jede Änderung oder Erweiterung von Tätigkeiten unterliegt Artikel 6 Absatz 1 Buchstabe a dieses Übereinkommens, wenn sie für sich betrachtet die Kriterien/Schwellenwerte in diesem Anhang erreicht. Jede sonstige Änderung oder Erweiterung von Tätigkeiten unterliegt Artikel 6 Absatz 1 Buchstabe b dieses Übereinkommens.
 
 [^annexI-lvlu1-1]: Kernkraftwerke und andere Kernreaktoren gelten nicht mehr als solche, wenn der gesamte Kernbrennstoff und andere radioaktiv kontaminierte Komponenten auf Dauer vom Standort der Anlage entfernt wurden.
-[^annexI-lvlu1-2]: «Flughäfen» im Sinne dieses Übereink. sind Flughäfen nach der Begriffsbestimmung des Abk. von Chicago von 1944 zur Errichtung der Internationalen Zivilluftfahrt-Organisation – Abk. über die Internationale Zivilluftfahrt – (Anhang 14) ([SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)).
-[^annexI-lvlu1-3]: «Schnellstrassen» im Sinne dieses Übereink. sind Schnellstrassen nach der Begriffsbestimmung des Europäischen Übereink. vom 15. Nov. 1975 über die Hauptstrassen des internationalen Verkehrs (AGR) ([SR 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)).
+[^annexI-lvlu1-2]: «Flughäfen» im Sinne dieses Übereink. sind Flughäfen nach der Begriffsbestimmung des Abk. von Chicago von 1944 zur Errichtung der Internationalen Zivilluftfahrt-Organisation – Abk. über die Internationale Zivilluftfahrt – (Anhang 14) ([SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)).
+[^annexI-lvlu1-3]: «Schnellstrassen» im Sinne dieses Übereink. sind Schnellstrassen nach der Begriffsbestimmung des Europäischen Übereink. vom 15. Nov. 1975 über die Hauptstrassen des internationalen Verkehrs (AGR) ([SR 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)).
+
+Anhang I<sup>bis</sup> [^t-2]
+
+## In Artikel 6<sup>bis</sup> genannte Modalitäten
+
+[^t-2]: Eingefügt durch Anhang des Beschlusses II/1 vom 27. Mai 2005, von der BVers genehmigt am 27. Sept. 2013 und in Kraft getreten für die Schweiz am 20. April 2025 ([AS 2025 84](https://fedlex.data.admin.ch/eli/oc/2025/84); [2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234)).
+
+\1. Jede Vertragspartei trifft im Rahmen der für sie geltenden Rechtsvorschriften Vorkehrungen für eine effektive Information über Entscheidungen nach Artikel 6<sup>bis</sup> und eine effektive Öffentlichkeitsbeteiligung an diesen Entscheidungen; diese umfassen einen angemessenen zeitlichen Rahmen, um der Öffentlichkeit ausreichend die Möglichkeit zu geben, ihre Meinung zu solchen geplanten Entscheidungen zum Ausdruck zu bringen.
+
+\2. Eine Vertragspartei kann gegebenenfalls in den für sie geltenden Rechtsvorschriften Ausnahmen von dem in diesem Anhang festgelegten Verfahren zur Öffentlichkeitsbeteiligung vorsehen, und zwar:
+
+- a)
+
+  im Falle einer absichtlichen Freisetzung eines gentechnisch veränderten Organismus (GVO) in die Umwelt zu einem anderen Zweck als dem seines Inverkehrbringens, sofern:
+
+  - i) eine solche Freisetzung unter vergleichbaren biogeografischen Bedingungen bereits im Rahmen der für die betreffende Vertragspartei geltenden Rechtsvorschriften genehmigt worden ist, und
+  - ii) vorher genügend Erfahrungen mit der Freisetzung des betreffenden GVO in vergleichbaren Ökosystemen gesammelt worden sind;
+
+- b)
+
+  im Falle eines Inverkehrbringens eines GVO, sofern:
+
+  - i) es bereits im Rahmen der für die betreffende Vertragspartei geltenden Rechtsvorschriften genehmigt worden ist, oder
+  - ii) es für Forschungszwecke oder das Anlegen von Stammsammlungen bestimmt ist.
+
+\3. Unbeschadet der geltenden Rechtsvorschriften in Bezug auf die Vertraulichkeit nach Artikel 4 stellt jede Vertragspartei der Öffentlichkeit in Übereinstimmung mit ihrem innerstaatlichen Recht auf dem Gebiet der biologischen Sicherheit in sachgerechter, rechtzeitiger und effektiver Weise eine Zusammenfassung der Anmeldung, die eingereicht wurde, um eine Genehmigung für eine absichtliche Freisetzung eines GVO in die Umwelt oder für ein Inverkehrbringen eines GVO in ihrem Hoheitsgebiet zu erhalten, sowie, soweit vorhanden, den Bewertungsbericht zur Verfügung.
+
+\4. Die Vertragsparteien dürfen folgende Informationen nicht als vertraulich betrachten:
+
+- a) eine allgemeine Beschreibung des betreffenden gentechnisch veränderten Organismus oder der betreffenden genetisch veränderten Organismen, den Namen und die Anschrift des Antragstellers, der um die Genehmigung für die absichtliche Freisetzung ersucht, die vorgesehenen Verwendungszwecke und gegebenenfalls den Ort der Freisetzung;
+- b) die Verfahren und Pläne für die Überwachung des betreffenden genetisch veränderten Organismus oder der betreffenden gentechnisch veränderten Organismen und für Notmassnahmen;
+- c) die Ermittlung und Bewertung der Umweltrisiken.
+
+\5. Jede Vertragspartei stellt die Transparenz von Entscheidungsverfahren sicher und gewährt der Öffentlichkeit Zugang zu den einschlägigen verfahrenstechnischen Informationen. Zu diesen Informationen könnte beispielsweise Folgendes gehören:
+
+- i) die Art möglicher Entscheidungen;
+- ii) die für die Entscheidung zuständige Behörde;
+- iii) nach Absatz 1 getroffene Vorkehrungen für die Öffentlichkeitsbeteiligung;
+- iv) Angabe der Behörde, von der relevante Informationen zu erhalten sind;
+- v) Angabe der Behörde, bei der Stellungnahmen eingereicht werden können, sowie der für die Übermittlung von Stellungnahmen vorgesehenen Fristen.
+
+\6. Die nach Artikel 1 festgelegten Bestimmungen geben der Öffentlichkeit die Möglichkeit, alle von ihr für eine geplante absichtliche Freisetzung einschliesslich eines Inverkehrbringens als relevant erachteten Stellungnahmen, Informationen, Analysen oder Meinungen in geeigneter Form vorzulegen.
+
+\7. Jede Vertragspartei bemüht sich sicherzustellen, dass bei Entscheidungen darüber, ob eine absichtliche Freisetzung von GVO in die Umwelt einschliesslich des Inverkehrbringens genehmigt wird, das Ergebnis des Verfahrens zur Öffentlichkeitsbeteiligung nach Absatz 1 angemessen berücksichtigt wird.
+
+\8. Die Vertragsparteien sorgen dafür, dass, sobald eine Behörde eine diesem Anhang unterliegende Entscheidung gefällt hat, der Wortlaut der Entscheidung sowie die Gründe und Erwägungen, auf die sie sich stützt, der Öffentlichkeit zugänglich gemacht werden.
 
 Anhang II
 
@@ -712,7 +773,7 @@ Anhang II
 
 \18. Streitigkeiten zwischen den Parteien über die Auslegung oder Vollstreckung des Schiedsspruchs können von jeder Partei dem Schiedsgericht, das den Schiedsspruch gefällt hat, oder, falls dieses Gericht nicht befasst werden kann, einem anderen Gericht, das zu diesem Zweck auf die gleiche Weise gebildet wird wie das erste, unterbreitet werden.
 
-Geltungsbereich am 25. März 2025[^t-2]
+Geltungsbereich am 25. März 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -766,17 +827,17 @@ Geltungsbereich am 25. März 2025[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Neukaledonien, Französisch-Polynesien sowie Wallis und Futuna. <sup>c</sup> Für das Königreich in Europa</td></tr>
 </table>
 
-[^t-2]: [AS 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2014 1027](https://fedlex.data.admin.ch/eli/oc/2014/235); [2025 217](https://fedlex.data.admin.ch/eli/oc/2025/217). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte der Schweiz
 
 Vorbehalt zu Art. 4
 
-Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 4 der Aarhus-Konvention für Gesuche um Einsicht in Dokumente, die Informationen in Zusammenhang mit Kernanlagen enthalten, unter dem Vorbehalt von Artikel 23 des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^t-3], der den Zugang nur zu amtlichen Dokumenten gewährt, die nach dem Inkrafttreten des Öffentlichkeitsgesetzes, dem 1. Juli 2006, erstellt wurden oder der Behörde zugegangen sind.
+Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 4 der Aarhus-Konvention für Gesuche um Einsicht in Dokumente, die Informationen in Zusammenhang mit Kernanlagen enthalten, unter dem Vorbehalt von Artikel 23 des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^t-4], der den Zugang nur zu amtlichen Dokumenten gewährt, die nach dem Inkrafttreten des Öffentlichkeitsgesetzes, dem 1. Juli 2006, erstellt wurden oder der Behörde zugegangen sind.
 
 Vorbehalte zu Art. 6 Abs. 6 und 9 Abs. 2
 
-Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 6 Absatz 6 und Artikel 9 Absatz 2 der Aarhus-Konvention unter dem Vorbehalt von Artikel 3 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-4] (USG), der das Beschwerderecht der Umweltschutzorganisationen nach Artikel 55 des USG in Bezug auf radioaktive Stoffe und ionisierende Strahlung ausschliesst.
+Im Bereich der Kernenergie und des Strahlenschutzes steht die Anwendung von Artikel 6 Absatz 6 und Artikel 9 Absatz 2 der Aarhus-Konvention unter dem Vorbehalt von Artikel 3 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-5] (USG), der das Beschwerderecht der Umweltschutzorganisationen nach Artikel 55 des USG in Bezug auf radioaktive Stoffe und ionisierende Strahlung ausschliesst.
 
-[^t-3]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^t-4]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^t-4]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^t-5]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
