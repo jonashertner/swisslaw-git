@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2025-01-01
+version: 2025-04-22
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 1 January 2025)
+of 4 December 2015 (Status as of 22 April 2025)
 
 The Swiss Federal Council,
 
@@ -263,7 +263,7 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 
 <sup>3</sup> When recovering phosphorous from waste in accordance with paragraph 1 or 2, the pollutants in the waste must be removed according to the state of the art. If the phosphorous recovered is used to manufacture a fertiliser, the requirements of Annex 2.6 Number 2.2.2.2 ORRChem must also be met.[^15-1]
 
-[^15-1]: Amended by Annex 5 No II 2 of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^15-1]: Amended by Annex 5 No II 2 of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). The correction of 22 April 2025 concerns the French text only ([AS 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
 
 #### Art. 16
 

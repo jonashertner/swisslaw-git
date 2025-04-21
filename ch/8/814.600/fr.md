@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2025-01-01
+version: 2025-04-22
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2025)
+du 4 décembre 2015 (État le 22 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -258,9 +258,9 @@ Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une
 
 <sup>2</sup> Le phosphore contenu dans les farines animales et les poudres d’os doit faire l’objet d’une valorisation matière, à moins que ces farines et poudres ne soient utilisées comme fourrage.
 
-<sup>3</sup> Lors du recyclage du phosphore contenu dans les déchets visés aux al. 1 ou 2, les polluants présents doivent être éliminés selon l’état de la technique. Si le phosphore récupéré est utilisé pour la fabrication d’un engrais, il faut en plus satisfaire aux exigences figurant dans l’annexe 2.6, ch. 2.2.2.1, ORRChim.[^15-1]
+<sup>3</sup> Lors de la récupération du phosphore contenu dans les déchets visés aux al. 1 ou 2, les polluants présents doivent être éliminés selon l’état de la technique. Si le phosphore récupéré est utilisé pour la fabrication d’un engrais, il faut en plus satisfaire aux exigences figurant dans l’annexe 2.6, ch. 2.2.2.1, ORRChim.[^15-1]
 
-[^15-1]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^15-1]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). Erratum du 22 avr. 2025 ([RO 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
 
 #### Art. 16
 
@@ -456,7 +456,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 
 <sup>2</sup> Si l’autorité constate des défauts, elle ordonne au détenteur de l’installation d’y remédier dans le délai raisonnable imparti.
 
-### Section 2 Dépôts procisoires
+### Section 2 Dépôts provisoires
 
 #### Art. 29
 

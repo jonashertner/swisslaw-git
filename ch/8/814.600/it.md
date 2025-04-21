@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2025-01-01
+version: 2025-04-22
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° gennaio 2025)
+del 4 dicembre 2015 (Stato 22 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -261,7 +261,7 @@ I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure m
 
 <sup>3</sup> Nel processo di recupero del fosforo dai rifiuti di cui al capoverso 1 o 2 le sostanze nocive contenute in detti rifiuti devono essere eliminate utilizzando le più recenti tecnologie. Se il fosforo recuperato è impiegato per la produzione di un concime devono essere soddisfatti i requisiti di cui all’allegato 2.6 numero 2.2.2.1 ORRPChim.[^15-1]
 
-[^15-1]: Nuovo testo giusta l’all. 5 cifra II n. 2 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^15-1]: Nuovo testo giusta l’all. 5 cifra II n. 2 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). La correzione del 22 apr. 2025 concerne soltanto il testo francese ([RU 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
 
 #### Art. 16
 
@@ -560,7 +560,7 @@ I rifiuti biogeni imballati possono essere decomposti o fatti fermentare negli i
 
 <sup>3</sup> Per il resto si applicano le prescrizioni dell’OCon e della ORRPChim[^34-2] concernenti il compost e il digestato.
 
-[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^34-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### Sezione 5: Discariche
@@ -755,7 +755,7 @@ L’UFAM elabora un aiuto all’esecuzione ai fini dell’attuazione della prese
 
 L’ordinanza tecnica del 10 dicembre 1990[^47-1] sui rifiuti è abrogata.
 
-[^47-1]: [[RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169), [628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628), [1370](https://fedlex.data.admin.ch/eli/oc/1991/1370_1370_1370); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. IV 4; [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905); [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)art. 26; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 15; [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)art. 43 cpv. 2 n. 2; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 11, [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 cifra II n. 6; [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 32; [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)all. 2 n. 10, [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)all. cifra II n. 1; [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)cifra II, III; [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 1]
+[^47-1]: [[RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169), [628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628), [1370](https://fedlex.data.admin.ch/eli/oc/1991/1370_1370_1370); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)cifra IV n. 4; [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905); [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)art. 26; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 15; [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)art. 43 cpv. 2 n. 2; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 11, [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 cifra II n. 6; [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 32; [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)all. 2 n. 10, [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)all. cifra II n. 1; [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)cifra II, III; [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 1]
 
 #### Art. 48
 
@@ -1355,7 +1355,7 @@ Allegato 5[^t-5]
 
 ## Requisiti applicabili ai rifiuti in vista del deposito definitivo
 
-[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai n. II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Rifiuti depositabili in discariche e compartimenti di tipo A
 

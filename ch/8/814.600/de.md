@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2025-01-01
+version: 2025-04-22
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250422/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250422-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250422/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2025)
+vom 4. Dezember 2015 (Stand am 22. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -261,7 +261,7 @@ Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 
 <sup>3</sup> Bei der Rückgewinnung von Phosphor aus Abfällen nach Absatz 1 oder 2 sind die in diesen Abfällen enthaltenen Schadstoffe nach dem Stand der Technik zu entfernen. Wird der zurückgewonnene Phosphor für die Herstellung eines Düngers verwendet, so müssen zudem die Anforderungen nach Anhang 2.6 Ziffer 2.2.2.2 ChemRRV erfüllt sein.[^15-1]
 
-[^15-1]: Fassung gemäss Anhang 5 Ziff. II 2 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^15-1]: Fassung gemäss Anhang 5 Ziff. II 2 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). Die Berichtigung vom 22. April 2025 betrifft nur den französischen Text ([AS 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
 
 #### Art. 16
 
