@@ -4,13 +4,13 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2024-08-12
-valid_until: 2025-04-23
-version_adopted: 2021-05-25
+version: 2025-04-24
+valid_until: 2025-08-10
+version_adopted: 2025-04-15
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5517/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussverordnung FMS | Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 12. August 2024)
+Vom 5. April 2005 (Stand 24. April 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -171,7 +171,7 @@ beschliesst:
 
 <sup>2</sup> Für die geprüften Fächerkombinationen wird im Fachmittelschulausweis eine Note pro Fächerkombination eingetragen.
 
-<sup>3</sup> Die geprüften Fächer und Fächerkombinationen werden im Fachmittelschulausweis gekennzeichnet.
+<sup>3</sup> …
 
 #### § 14
 
@@ -187,7 +187,7 @@ beschliesst:
 
 **Noten der nicht geprüften Fächer im Fachmittelschulausweis**
 
-<sup>1</sup> Die Leistungsbewertungen der nur in der 1. und/oder 2. Klasse besuchten, nicht geprüften Promotionsfächer werden im Fachmittelschulausweis nicht eingetragen.
+<sup>1</sup> Die Leistungsbewertungen der nur in der 1. und/oder 2. Klasse besuchten, nicht geprüften Promotionsfächer werden mit Ausnahme des Fachs Informatik in der 2. Klasse im Fachmittelschulausweis nicht eingetragen.
 
 <sup>2</sup> Alle Promotionsfächer der 3. Klasse, die nicht geprüft werden, werden im Fachmittelschulausweis eingetragen.
 
@@ -340,9 +340,13 @@ beschliesst:
 - d) die Abschlussnoten der Fächer der Allgemeinbildung,
 - e) die Abschlussnoten der berufsfeldbezogenen Fächer,
 - f) den Titel und die Note der selbstständigen Arbeit,
-- g) die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
-- h) die Bestätigung der absolvierten allgemeinen Praxiswochen,
-- i) die Bestätigung des berufsfeldbezogenen Praktikums,
+- g) den Ausweis von weiteren Leistungen:
+  - 1\. Informatik (2. Klasse),
+  - 2\. die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
+  - 3\. die Bestätigung der absolvierten allgemeinen Praxiswochen,
+  - 4\. die Bestätigung des berufsfeldbezogenen Praktikums,
+- h) …
+- i) …
 - j) das Ausstellungsdatum des Fachmittelschulausweises,
 - k) die Unterschriften der Vorsteherin bzw. des Vorstehers des Erziehungsdepartementes und der Rektorin oder des Rektors der Fachmaturitätsschule.
 
@@ -359,8 +363,12 @@ beschliesst:
 - e) die Abschlussnoten der berufsfeldbezogenen Fächer,
 - f) den Titel und die Note der selbstständigen Arbeit,
 - g) den Titel und die Note der Fachmaturitätsarbeit,
-- h) die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
-- i) die Bestätigung der absolvierten allgemeinen Praxiswochen,
+- h) den Ausweis von weiteren Leistungen:
+  - 1\. Informatik (2. Klasse),
+  - 2\. die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
+  - 3\. die Bestätigung der absolvierten allgemeinen Praxiswochen,
+  - 4\. die Bestätigung des berufsfeldbezogenen Praktikums,
+- i) …
 - j) die Bestätigung und Beurteilung der absolvierten zusätzlichen Leistungen,
 - k) …
 - l) das Ausstellungsdatum der Fachmaturität,
