@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-04-07
+version: 2025-04-24
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 7 avril 2025)
+du 11 novembre 2015 (État le 24 avril 2025)
 
 Le Conseil fédéral suisse,
 
@@ -550,7 +550,7 @@ On entend par:
 <tr><th>Code SH</th><th>Description</th></tr>
 <tr><td>ex 8506</td><td>Piles primaires ou batteries ayant une densité d’énergie de 150 Wh/kg ou plus à 293 K (20 °C)</td></tr>
 <tr><td>8525 83</td><td>Caméras à vision nocturne</td></tr>
-<tr><td>ex 8525 89 ex 9006 30</td><td>Appareils de prise de vue qui remplissent les critères de l’annexe°2, partie°2, ch.°6A003, let.°b, ch.°4, OCB</td></tr>
+<tr><td>ex 8525 89 ex 9006 30</td><td>Appareils de prise de vue qui remplissent les critères de l’annexe 2, partie 2, ch. 6A003, let. b, ch. 4, OCB</td></tr>
 <tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Capteurs optiques, comme suit: a. tubes intensificateurs d’image et leurs composants spécialement conçus, comme suit: 1. tubes intensificateurs d’image présentant les caractéristiques suivantes: – une réponse de crête dans la gamme de longueurs d’onde supérieure à 400 nm mais non supérieure à 1050 nm – une plaque à microcanaux pour l’amplification électronique de l’image, présentant un espacement des trous (espacement centre à centre) inférieur à 25 μm – disposant: 1. d’une photocathode S-20, S-25 ou multialcaline, ou 2. d’une photocathode GaAs ou GaInAs, 2. plaques à microcanaux spécialement conçues présentant l’ensemble des caractéristiques suivantes: – 15 000 tubes creux ou plus par plaque – espacement des trous (espacement entre les centres) de moins de 25 μm; b. matériels d’imagerie à vision directe opérant dans le spectre visible ou l’infrarouge et comportant des tubes intensificateurs d’image présentant les caractéristiques du tube intensificateur d’image visé dans ce contrôle.</td></tr>
 <tr><td>ex 9006 30</td><td>Appareils de prise de vue aérienne</td></tr>
 <tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Télémètres laser aéroportés</td></tr>
@@ -868,7 +868,7 @@ Annexe 6[^t-4]
 [^annex6-lvlu1-1]
 
 [^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/222](https://fedlex.data.admin.ch/eli/oc/2025/222) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6a[^t-5]
 
@@ -879,7 +879,7 @@ Annexe 6a[^t-5]
 [^annex6a-lvlu1-1]
 
 [^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), les ch. I al. 2 de l’O du 6 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)) et de l’O du DEFR du 17 janv. 2025 ([RO 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/222](https://fedlex.data.admin.ch/eli/oc/2025/222) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-6]
 
@@ -889,8 +889,8 @@ Annexe 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)), du 29 avr. 2024 ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)) et le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)), du 29 avr. 2024 ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)), le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) et le ch. I de l’O du DEFR du 22 avr. 2025, en vigueur depuis le 24 avr. 2025 ([RO 2025 261](https://fedlex.data.admin.ch/eli/oc/2025/261)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/261](https://fedlex.data.admin.ch/eli/oc/2025/261) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 8[^t-7]
 

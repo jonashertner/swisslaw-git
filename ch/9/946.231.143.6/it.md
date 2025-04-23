@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2025-04-07
+version: 2025-04-24
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 7 aprile 2025)
+dell’11 novembre 2015 (Stato 24 aprile 2025)
 
 Il Consiglio federale svizzero,
 
@@ -111,7 +111,7 @@ La Segreteria di Stato dell’economia (SECO) rilascia l’autorizzazione per i 
 
 <sup>5</sup> L’esercizio di un’attività di cui al capoverso 1 deve essere notificato alla SECO entro cinque giorni lavorativi. La SECO comunica l’esercizio dell’attività al Consiglio di sicurezza delle Nazioni Unite e all’Agenzia internazionale per l’energia atomica conformemente alla risoluzione 2231 (2015).[^3-11]
 
-[^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^3-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^3-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
@@ -186,7 +186,7 @@ Le imprese che intendono concludere accordi con persone od organizzazioni irania
 
 [^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
 [^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
-[^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^6-4]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^6-5]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^6-6]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
@@ -254,7 +254,7 @@ La SECO può eccezionalmente autorizzare la liberazione di determinati averi o r
 <sup>6</sup> La SECO autorizza le deroghe di cui ai capoversi 4 e 5 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7-2]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-2]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 
 #### Art. 7a
 
@@ -868,7 +868,7 @@ Allegato 6[^t-4]
 [^annex6-lvlu1-1]
 
 [^t-4]: Aggiornato dalla cifra I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), del 15 ago. 2024 ([RU 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex6-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 6a[^t-5]
 
@@ -878,8 +878,8 @@ Allegato 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introdotto dalla cifra I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2023 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), dalle cifre I cpv. 2 dell’O del 6 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)), dall’O del DEFR del 17 gen. 2025 ([RU 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222))..
-[^annex6a-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Introdotto dalla cifra I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2023 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)), dalle cifre I cpv. 2 dell’O del 6 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)), dall’O del DEFR del 17 gen. 2025 ([RU 2025 41](https://fedlex.data.admin.ch/eli/oc/2025/41)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/41](https://fedlex.data.admin.ch/eli/oc/2025/41) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7[^t-6]
 
@@ -889,8 +889,8 @@ Allegato 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Aggiornato dalle cifre I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), del 27 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), del 24 mag. 2022 ([RU 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)), del 29 apr. 2024 ([RU 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)) e dalla cifra II cpv. 2 dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex7-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-6]: Aggiornato dalle cifre I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), del 27 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), del 24 mag. 2022 ([RU 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)), del 29 apr. 2024 ([RU 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)), dalla cifra II cpv. 2 dell’O del 2 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) e dalla cifra I dell’O del DEFR del 22 apr. 2025, in vigore dal 24 apr. 2025 ([RU 2025 261](https://fedlex.data.admin.ch/eli/oc/2025/261)).
+[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/261](https://fedlex.data.admin.ch/eli/oc/2025/261) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 8[^t-7]
 

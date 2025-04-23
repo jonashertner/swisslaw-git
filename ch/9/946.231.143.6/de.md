@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2025-04-07
+version: 2025-04-24
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250407/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250407-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250424/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250424-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250424/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 7. April 2025)
+vom 11. November 2015 (Stand am 24. April 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -885,8 +885,8 @@ Anhang 7[^t-6]
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), vom 24. Mai 2022 ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) und vom 29. April 2024 ([AS 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)) und Ziff. II Abs. 2 der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), vom 24. Mai 2022 ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) und vom 29. April 2024 ([AS 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)), Ziff. II Abs. 2 der V vom 2. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) und Ziff. I der V des WBF vom 22. April 2025, in Kraft seit 24. April 2025 ([AS 2025 261](https://fedlex.data.admin.ch/eli/oc/2025/261)).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/261](https://fedlex.data.admin.ch/eli/oc/2025/261) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 8[^t-7]
 
