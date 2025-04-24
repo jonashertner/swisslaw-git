@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Faire Teilnahme der SRG am audiovisuellen Produktionsmarkt
 document: Vernehmlassungsvorlage
 language: de

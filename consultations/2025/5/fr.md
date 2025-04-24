@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Participation équitable de la SSR au marché de la production audiovisuelle
 document: Projet mis en consultation
 language: fr
