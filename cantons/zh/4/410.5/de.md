@@ -4,434 +4,551 @@ number: "410.5"
 title: "Reglement der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR)"
 short: MAR
 language: de
-nachtrag: "103"
-valid_until: 2025-04-25
+nachtrag: "129"
 adopted: 2023-06-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-410_5-1995_01_16-2007_08_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-410_5-2023_06_22-2024_08_01-129.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR)
+# Reglement der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR)
 
-(vom 16. Januar / 15. Februar 1995) (Fassung vom 21. Juni 2018)[^t-1]
+vom 22. Juni 2023 (Stand am 1. August 2024)<sup>1</sup>
 
-Der Schweizerische Bundesrat, gestützt auf Art. 39 Abs. 2 des ETH-Gesetzes vom 4. Oktober 1991[^t-2] sowie Art. 60 des Medizinalberufegesetzes vom 23. Juni 2006[^t-3],
+Die Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK),
 
-die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK), gestützt auf Art. 3, 4 und 5 des Konkordats vom 29. Oktober 1970 über die Schulkoordination und auf Art. 3, 4 und 6 der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen[^t-4], im Hinblick auf die Verwaltungsvereinbarung vom 16. Januar / 15. Februar 1995 zwischen dem Schweizerischen Bundesrat und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren,
+gestützt auf Artikel 3, 4 und 5 des Konkordats vom 29. Oktober 1970 über die Schulkoordination, gestützt auf Artikel 3, 4 und 6 der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen,
 
-beschliessen:
+beschliesst:
 
-- 1\. Allgemeine Bestimmungen
-
-[^t-1]: OS 64, 485. Bundesrat und EDK haben je separate, aber aufeinander abgestimmte Erlasse für ihren Zuständigkeitsbereich beschlossen. Die vorliegende Ausgabe fasst die beiden Erlasse zusammen (Verwaltungsvereinbarung Bundesrat/EDK Art. 1 Abs. 3).
-[^t-2]: SR 414.110.
-[^t-3]: SR 811.11. 1. 1. 19 - 103 9
-[^t-4]: LS 410.4.
+### I Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Reglement regelt die schweizerische Anerkennung von kantonalen und kantonal anerkannten gymnasialen Maturitätsausweisen.
+Dieses Reglement legt die Mindestanforderungen an die gymnasialen Maturitätslehrgänge und die Vorgaben bezüglich der kantonalen Massnahmen fest, die erfüllt sein müssen, damit ein kantonales oder kantonal anerkanntes gymnasiales Maturitätszeugnis schweizerisch anerkannt wird.
 
 #### Art. 2
 
 **Wirkung der Anerkennung**
 
-<sup>1</sup> Mit der Anerkennung wird festgestellt, dass die Maturi-
+<sup>1</sup> Mit der Anerkennung wird festgestellt, dass
 
-tätsausweise gleichwertig sind und den Mindestanforderungen entsprechen.
+- a. die schweizerisch anerkannten Maturitätszeugnisse untereinander gleichwertig sind;
 
-<sup>2</sup> Die anerkannten Maturitätsausweise gelten als Ausweise für die allgemeine Hochschulreife.
+- b. die jeweiligen Maturitätslehrgänge den Mindestanforderungen entsprechen; und
 
-<sup>3</sup> Sie berechtigen insbesondere zur:
+- c. die Vorgaben bezüglich der kantonalen Massnahmen erfüllt sind.
 
-- a. Zulassung an die Eidgenössischen Technischen Hochschulen nach Art. 16 des ETH-Gesetzes vom 4. Oktober 1991[^2-1],
+<sup>2</sup> Die schweizerisch anerkannten Maturitätszeugnisse bestätigen, dass ihre Inhaberinnen und Inhaber über die Kenntnisse und Fähigkeiten verfügen, die notwendig sind, um:
 
-- b. Zulassung zu den eidgenössischen Medizinalprüfungen nach der Allgemeinen Medizinalprüfungsverordnung und zu den eidgenössischen Prüfungen für Lebensmittelchemikerinnen und -chemiker nach dem Lebensmittelgesetz oder
+- a. an einer universitären oder pädagogischen Hochschule zu studieren;
+
+- b. zu den eidgenössischen Prüfungen zum Abschluss einer universitären Ausbildung nach dem Medizinalberufegesetz vom 23. Juni 2006 zugelassen zu werden.
 
 **1**
 
-- 1\. 1. 19 - 103
-
-- c. Zulassung an die kantonalen Universitäten gemäss den entsprechenden kantonalen und interkantonalen Regelungen.
-
-- 2\. Anerkennungsbedingungen
-
-[^2-1]: SR 414.110.
+- 1\. 7. 25 - 129
 
 #### Art. 3
 
-**Grundsatz**
+**Grundlagen für die Prüfung der Gleichwertigkeit**
 
-Kantonale sowie von einem Kanton anerkannte Maturitätsausweise werden im Sinne dieses Reglements schweizerisch anerkannt, wenn die Anerkennungsbedingungen dieses Abschnitts erfüllt sind.
+<sup>1</sup> Die Grundlagen für die Prüfung der Gleichwertigkeit der
+
+Maturitätszeugnisse im Hinblick auf die Anerkennung bilden die Mindestanforderungen an die gymnasialen Maturitätslehrgänge des vorliegenden Reglements sowie die von der EDK in einem Rahmenlehrplan festgelegten Mindestanforderungen.
+
+<sup>2</sup> Insbesondere werden die Mindestanforderungen des Rahmenlehrplans herangezogen betreffend:
+
+- a. die Lerngebiete und die fachlichen Kompetenzen in den Grundlagenfächern;
+
+- b. die Richtlinien für die Auswahl der Lerngebiete und für die fachlichen Kompetenzen in den Fächern des Wahlpflichtbereichs;
+
+- c. die basalen fachlichen Kompetenzen für allgemeine Studierfähigkeit;
+
+- d. die Berücksichtigung von transversalen Unterrichtsbereichen, insbesondere der überfachlichen Kompetenzen und der Interdisziplinarität;
+
+- e. die Maturitätsarbeit.
 
 #### Art. 4
 
-**Maturitätsschulen**
+**Voraussetzungen für die Anerkennung**
 
-Maturitätszeugnisse werden nur anerkannt, wenn sie an einer allgemeinbildenden Vollzeitschule der Sekundarstufe II oder an einer allgemeinbildenden Vollzeit- oder Teilzeitschule für Erwachsene erworben worden sind.
+Ein kantonales oder kantonal anerkanntes gymnasiales Maturitätszeugnis wird schweizerisch anerkannt, wenn:
+
+- a. der betreffende gymnasiale Maturitätslehrgang die Mindestanforderungen nach den Artikeln 5–29 erfüllt; und
+
+- b. die kantonalen Massnahmen nach den Artikeln 31 und 32 umgesetzt worden sind.
+
+### II Mindestanforderungen an die gymnasialen Maturitätslehrgänge
 
 #### Art. 5
 
-**Bildungsziel**
+**Maturitätsschulen**
 
-<sup>1</sup> Ziel der Maturitätsschulen ist es, Schülerinnen und Schü-
-
-lern im Hinblick auf ein lebenslanges Lernen grundlegende Kenntnisse zu vermitteln sowie ihre geistige Offenheit und die Fähigkeit zum selbstständigen Urteilen zu fördern. Die Schulen streben eine breit gefächerte, ausgewogene und kohärente Bildung an, nicht aber eine fachspezifische oder berufliche Ausbildung. Die Schülerinnen und Schüler gelangen zu jener persönlichen Reife, die Voraussetzung für ein Hochschulstudium ist und die sie auf anspruchsvolle Aufgaben in der Gesellschaft vorbereitet. Die Schulen fördern gleichzeitig die Intelligenz, die Willenskraft, die Sensibilität in ethischen und musischen Belangen sowie die physischen Fähigkeiten ihrer Schülerinnen und Schüler.
-
-<sup>2</sup> Maturandinnen und Maturanden sind fähig, sich den Zugang zu neuem Wissen zu erschliessen, ihre Neugier, ihre Vorstellungskraft und ihre Kommunikationsfähigkeit zu entfalten sowie allein und in Gruppen zu arbeiten. Sie sind nicht nur gewohnt, logisch zu denken und zu abstrahieren, sondern haben auch Übung im intuitiven, analogen und vernetzten Denken. Sie haben somit Einsicht in die Methodik wissenschaftlicher Arbeit.
-
-<sup>3</sup> Maturandinnen und Maturanden beherrschen eine Landessprache und erwerben sich grundlegende Kenntnisse in anderen nationalen und fremden Sprachen. Sie sind fähig, sich klar, treffend und einfühlsam zu äussern, und lernen, Reichtum und Besonderheit der mit einer Sprache verbundenen Kultur zu erkennen.
-
-<sup>4</sup> Maturandinnen und Maturanden finden sich in ihrer natürlichen, technischen, gesellschaftlichen und kulturellen Umwelt zurecht, und dies in Bezug auf die Gegenwart und die Vergangenheit, auf schweizerischer und internationaler Ebene. Sie sind bereit, Verantwortung gegenüber sich selbst, den Mitmenschen, der Gesellschaft und der Natur wahrzunehmen.
+Der gymnasiale Maturitätslehrgang erfolgt an einer allgemeinbildenden Vollzeitschule der Sekundarstufe II oder an einer allgemeinbildenden Vollzeit- oder Teilzeitschule für Erwachsene.
 
 #### Art. 6
 
-**Dauer**
+**Bildungsziele**
 
-<sup>1</sup> Die Ausbildung bis zur Maturität muss insgesamt mindes-
+<sup>1</sup> Ziel des Maturitätslehrgangs ist es, dass die Maturandinnen
 
-tens zwölf Jahre dauern.
+und Maturanden über jene persönliche Reife verfügen, die Voraussetzung für ein Hochschulstudium ist und die sie auf anspruchsvolle Aufgaben in der Gesellschaft vorbereitet. Zu diesem Zweck werden:
 
-<sup>2</sup> Mindestens die letzten vier Jahre sind nach einem eigens für die Vorbereitung auf die Maturität ausgerichteten Lehrgang zu gestalten. Ein dreijähriger Lehrgang ist möglich, wenn auf der Sekundarstufe I eine gymnasiale Vorbildung erfolgt ist.
+- a. den Schülerinnen und Schülern die im Hinblick auf ein lebenslanges Lernen notwendigen grundlegenden Kompetenzen vermittelt;
 
-<sup>3</sup> An Maturitätsschulen für Erwachsene muss der eigens auf die Maturität ausgerichtete Lehrgang mindestens drei Jahre dauern. Ein angemessener Teil dieses Lehrgangs muss im Direktunterricht absolviert werden.
+- b. die geistige Offenheit und die Fähigkeit zum kritischen Denken und selbstständigen Urteilen der Schülerinnen und Schüler gefördert;
 
-<sup>4</sup> Werden Schülerinnen und Schüler aus andern Schultypen in den gymnasialen Lehrgang aufgenommen, so haben sie in der Regel den Unterricht der beiden letzten Jahre vor der Maturität zu besuchen.
+- c. eine breit gefächerte, ausgewogene und kohärente Bildung, nicht aber eine fachspezifische oder berufliche Ausbildung angeboten;
+
+- d. die Intelligenz, die Willenskraft, die Sensibilität in ethischen und künstlerischen Belangen sowie die physischen Fähigkeiten der Schülerinnen und Schüler gefördert.
+
+<sup>2</sup> Maturandinnen und Maturanden sind fähig:
+
+- a. sich den Zugang zu neuem fachspezifischem und fachübergreifendem Wissen und Können zu erschliessen;
+
+- b. ihre Neugier, ihre Vorstellungskraft und ihre Kommunikationsfähigkeit zu entfalten;
+
+- c. allein und in Gruppen zu arbeiten;
+
+- d. logisch zu denken und zu abstrahieren;
+
+- e. intuitiv, analog und vernetzt zu denken;
+
+- f. wissenschaftliche Denk- und Arbeitsweisen nachzuvollziehen und auf propädeutischem Niveau anzuwenden; und
+
+- g. sich mit den Möglichkeiten und Grenzen des wissenschaftlichen Erkenntnisgewinns auseinanderzusetzen.
+
+<sup>3</sup> Sie beherrschen die Unterrichtssprache und verfügen über Kompetenzen zur selbstständigen Sprachverwendung in weiteren Sprachen, insbesondere in mindestens einer weiteren Landessprache. Sie sind fähig, sich klar, treffend und einfühlsam zu äussern sowie Reichtum und Besonderheit der mit einer Sprache verbundenen Kultur zu erkennen.
+
+<sup>4</sup> Sie finden sich in ihrer natürlichen, technischen, ökonomischen, gesellschaftlichen und kulturellen Umwelt zurecht, in Bezug auf die Gegenwart, die Vergangenheit und die Zukunft und auf schweizerischer und internationaler Ebene. Sie sind bereit, Verantwortung gegenüber sich selbst, den Mitmenschen, der Gesellschaft und der natürlichen Umwelt wahrzunehmen.
 
 #### Art. 7
 
-**Lehrkräfte**
+**Dauer**
 
-<sup>1</sup> Im Maturitätslehrgang (Art. 6 Abs. 2 und 3) ist der Unter-
+<sup>1</sup> Der gymnasiale Maturitätslehrgang dauert mindestens vier
 
-richt von Lehrkräften zu erteilen, die das Lehrdiplom für Maturitätsschulen erworben oder eine andere fachliche und pädagogische Ausbildung mit gleichem Niveau abgeschlossen haben. Für Fächer, in denen die wissenschaftliche Ausbildung an einer Universität möglich ist, ist als Abschluss ein universitärer Master verlangt.
+Jahre.
 
-<sup>2</sup> Progymnasialer Unterricht auf der Sekundarstufe I kann auch von Lehrkräften dieser Stufe erteilt werden, sofern sie über die entsprechende fachliche Qualifikation verfügen.
+<sup>2</sup> An Maturitätsschulen für Erwachsene dauert der auf die Maturität ausgerichtete Lehrgang mindestens drei Jahre. Ein angemessener Teil dieses Lehrgangs findet im Präsenzunterricht statt.
 
-#### Art. 8
-
-**Lehrpläne**
-
-Die Maturitätsschulen unterrichten nach Lehrplänen, die vom Kanton erlassen oder genehmigt sind und sich auf den gesamtschweizerischen Rahmenlehrplan der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren abstützen.
-
-#### Art. 9
-
-**Maturitätsfächer und weitere obligatorische Fächer**
-
-<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergän-
-
-zungsfach und die Maturaarbeit bilden die Maturitätsfächer.
-
-<sup>2</sup> Die Grundlagenfächer sind:
-
-- a. die Erstsprache,
-
-- b. eine zweite Landessprache,
-
-- c. eine dritte Sprache (eine dritte Landessprache, Englisch oder eine alte Sprache),
-
-- d. Mathematik,
-
-- e. Biologie,
-
-- f. Chemie,
-
-- g. Physik,
+<sup>3</sup> Für Schülerinnen und Schüler, die aus anderen Schultypen der Sekundarstufe II in den gymnasialen Maturitätslehrgang aufgenommen werden, umfasst der Lehrgang in der Regel mindestens den Unterricht in den zwei letzten Jahren vor der Maturität.
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 25 - 129
 
-- h. Geschichte,
+#### Art. 8
 
-- i. Geographie,
+**Lehrpersonen**
 
-- k. Bildnerisches Gestalten und/oder Musik.
+<sup>1</sup> Der Unterricht in den Fächern nach den Artikeln 11–13
 
-<sup>2bis</sup> Es steht den Kantonen frei, Philosophie als weiteres Grundlagenfach anzubieten.
+wird von Lehrpersonen erteilt, die das Lehrdiplom für Maturitätsschulen erworben oder eine gleichwertige Ausbildung abgeschlossen haben. Wenn für diese Fächer die wissenschaftliche Ausbildung an einer universitären Hochschule möglich ist, wird als Abschluss ein universitärer Master verlangt.
 
-<sup>3</sup> Das Schwerpunktfach ist aus den folgenden Fächern oder Fächergruppen auszuwählen:
+<sup>2</sup> Die regelmässige Weiterbildung der Lehrpersonen wird sichergestellt.
 
-- a. alte Sprachen (Latein und/oder Griechisch),
+#### Art. 9
 
-- b. eine moderne Sprache (eine dritte Landessprache, Englisch, Spanisch oder Russisch),
+**Lehrplan**
 
-- c. Physik und Anwendungen der Mathematik,
+<sup>1</sup> Der Unterricht richtet sich nach einem kantonalen oder
 
-- d. Biologie und Chemie,
+vom Kanton genehmigten Lehrplan.
 
-- e. Wirtschaft und Recht,
+<sup>2</sup> Der Lehrplan stützt sich auf den Rahmenlehrplan der EDK.
 
-- f. Philosophie/Pädagogik/Psychologie,
-
-- g. Bildnerisches Gestalten und
-
-- h. Musik.
-
-<sup>4</sup> Das Ergänzungsfach ist aus den folgenden Fächern auszuwählen:
-
-- a. Physik,
-
-- b. Chemie,
-
-- c. Biologie,
-
-- d. Anwendungen der Mathematik, d<sup>bis</sup>. Informatik,
-
-- e. Geschichte,
-
-- f. Geographie,
-
-- g. Philosophie,
-
-- h. Religionslehre,
-
-- i. Wirtschaft und Recht,
-
-- k. Pädagogik/Psychologie,
-
-- l. Bildnerisches Gestalten,
-
-- m. Musik und
-
-- n. Sport.
-
-<sup>5</sup> Eine Sprache, die als Grundlagenfach belegt wird, kann nicht gleichzeitig als Schwerpunktfach gewählt werden. Ebenso ist die gleichzeitige Wahl eines Faches als Schwerpunkt- und Ergänzungsfach ausgeschlossen. Die Wahl von Musik oder Bildnerischem Gestalten als Schwerpunktfach schliesst die Wahl von Musik, Bildnerischem Gestalten oder Sport als Ergänzungsfach aus.
-
-<sup>5bis</sup> Als weitere obligatorische Fächer belegen alle Schülerinnen und Schüler:
-
-- a. Informatik,
-
-- b. Wirtschaft und Recht.
-
-<sup>6</sup> Für die Ausbildungsangebote der Maturitätsschulen in den Grundlagen-, Schwerpunkt- und Ergänzungsfächern sind die Bestimmungen der Kantone massgebend.
-
-<sup>7</sup> Im Grundlagenfach «Zweite Landessprache» müssen mindestens zwei Sprachen angeboten werden. In mehrsprachigen Kantonen kann eine zweite Kantonssprache als «zweite Landessprache» bestimmt werden.
+<sup>3</sup> Er ist auf einen kohärenten und mindestens vierjährigen Lehrgang ausgerichtet.
 
 #### Art. 10
 
-**Maturaarbeit**
+**Fächerangebot**
 
-Schülerinnen und Schüler müssen allein oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
+<sup>1</sup> Das Angebot der Fächer besteht mindestens aus
+
+- a. einem Grundlagenbereich;
+
+- b. einem Wahlpflichtbereich;
+
+- c. dem Fach Sport.
+
+<sup>2</sup> Der Grundlagenbereich besteht aus den Grundlagenfächern.
+
+<sup>3</sup> Der Wahlpflichtbereich besteht aus einem Schwerpunktfach, einem Ergänzungsfach und der Maturitätsarbeit.
+
+<sup>4</sup> In Maturitätslehrgängen für Erwachsene ist das Fach Sport nicht Bestandteil des obligatorischen Fächerangebots.
 
 #### Art. 11
 
-**Anteile der verschiedenen Lern- und Wahlbereiche**
+**Grundlagenfächer**
 
-Die gesamte Unterrichtszeit für die in Art. 9 aufgeführten Fächer muss folgende Anteile umfassen:
+<sup>1</sup> Mit den Grundlagenfächern werden die Mindestkompe-
 
-- a. für die Grundlagenfächer und die weiteren obligatorischen Fächer:
+tenzen für die allgemeine Studierfähigkeit vermittelt und wird ein Beitrag zur Vermittlung jener Kompetenzen geleistet, die dazu befähigen, anspruchsvolle Aufgaben in der Gesellschaft zu übernehmen.
 
-**30–40%**
+<sup>2</sup> Die Grundlagenfächer sind:
 
-- 1\. Sprachen (Erstsprache, zweite und dritte Sprache)
+- a. die Landessprache, die an der Schule als Unterrichtssprache verwendet wird (Unterrichtssprache);
 
-**27–37%**
+- b. eine zweite Landessprache;
 
-- 2\. Mathematik, Informatik und Naturwissenschaften (Biologie, Chemie und Physik)
+- c. eine dritte Landessprache, Englisch, Latein oder Griechisch (dritte Sprache);
 
-- 3\. Geistes- und Sozialwissenschaften (Geschichte, Geografie, Wirtschaft und Recht sowie allenfalls Philosophie)
+- d. Mathematik;
 
-**10–20%**
+- e. Informatik;
 
-**5–10%**
+- f. Biologie;
 
-- 4\. Kunst (Bildnerisches Gestalten und/oder Musik)
+- g. Chemie;
 
-- b. für den Wahlbereich:
+- h. Physik;
 
-Schwerpunkt- und Ergänzungsfach sowie Maturaarbeit: 15–25%
+- i. Geografie;
 
-**Interdisziplinarität**
+- j. Geschichte;
 
-Art. 11<sup>bis</sup> Jede Schule stellt sicher, dass die Schülerinnen und Schüler mit fächerübergreifenden Arbeitsweisen vertraut sind.
+- k. Wirtschaft und Recht;
+
+- l. bildende Kunst oder Musik oder bildende Kunst und Musik.
+
+<sup>3</sup> Es wird sichergestellt, dass die Schülerinnen und Schüler als zweite Landessprache aus mindestens zwei Sprachen auswählen können. In den Kantonen Bern, Freiburg und Wallis ist die zweite Landessprache die zweite Amtssprache des Kantons.
+
+<sup>4</sup> Im Kanton Graubünden kann die rätoromanische oder italienische Sprache zusammen mit Deutsch als Unterrichtssprache bezeichnet werden.
+
+<sup>5</sup> Philosophie kann als weiteres Grundlagenfach angeboten werden.
 
 #### Art. 12
 
-**Dritte Landessprache**
+**Schwerpunktfach**
 
-Neben dem Angebot der Landessprachen im Bereich der Grundlagen- und Schwerpunktfächer muss auch eine dritte Landessprache als Freifach angeboten werden. Die Kenntnis und das Verständnis der regionalen und kulturellen Besonderheiten des Landes sind durch geeignete Massnahmen zu fördern.
+<sup>1</sup> Das Schwerpunktfach dient der disziplinären oder inter-
 
-**5**
+disziplinären Vertiefung oder Erweiterung. Es ist in wesentlichen Teilen wissenschaftspropädeutisch ausgerichtet.
 
-- 1\. 1. 19 - 103
+<sup>2</sup> Es ist ein Fach nach den Artikeln 11 oder 14 oder eine Kombination davon.
 
 #### Art. 13
 
-**Rätoromanisch**
+**Ergänzungsfach**
 
-Im Kanton Graubünden kann die rätoromanische Sprache zusammen mit der Unterrichtssprache als Erstsprache (Art. 9 Abs. 2 lit. a) bezeichnet werden.
+<sup>1</sup> Das Ergänzungsfach dient einer weiteren disziplinären
+
+oder interdisziplinären Vertiefung oder Erweiterung.
+
+<sup>2</sup> Es ist ein Fach nach den Artikeln 11 oder 14 oder eine Kombination davon.
 
 #### Art. 14
 
-**Prüfungsfächer**
+**Weitere Fächer**
 
-<sup>1</sup> Eine Maturitätsprüfung findet in mindestens fünf Matu-
-
-ritätsfächern statt. Die Prüfungen sind schriftlich; es kann zusätzlich mündlich geprüft werden.
-
-<sup>2</sup> Prüfungsfächer sind:
-
-- a. die Erstsprache,
-
-- b. eine zweite Landessprache oder eine zweite Kantonssprache im Sinne von Art. 9 Abs. 7,
-
-- c. Mathematik,
-
-- d. das Schwerpunktfach und
-
-- e. ein weiteres Fach, für dessen Wahl die Bedingungen des Kantons massgebend sind.
+Es können weitere Fächer angeboten werden.
 
 #### Art. 15
 
-**Maturitätsnoten und Bewertung der Maturaarbeit**
+**Ausgeschlossene Fächerkombinationen**
 
-<sup>1</sup> Die Maturitätsnoten werden gesetzt:
+Folgende Fächerkombinationen sind ausgeschlossen:
 
-- a. in den Fächern, in denen eine Maturitätsprüfung stattfindet, je zur Hälfte aufgrund der Leistungen im letzten Ausbildungsjahr und der Leistungen an der Maturitätsprüfung,
+- a. die Wahl der gleichen Sprache als Grundlagenfach und als Schwerpunktfach;
 
-- b. in den übrigen Fächern aufgrund der Leistungen im letzten Ausbildungsjahr, in dem das Fach unterrichtet worden ist,
-
-- c. in der Maturaarbeit aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation.
-
-<sup>2</sup> Bei der Bewertung der Maturaarbeit werden die erbrachten schriftlichen und mündlichen Leistungen berücksichtigt.
+- b. die Wahl des gleichen Fachs als Schwerpunktfach und als Ergänzungsfach.
 
 #### Art. 16
 
-**Bestehensnormen**
+**Ausbildungsangebote**
 
-<sup>1</sup> Die Leistungen in den Maturitätsfächern werden in gan-
-
-zen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
-
-<sup>2</sup> Die Maturität ist bestanden, wenn in den Maturitätsfächern nach Art. 9 Abs. 1:
-
-- a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben,
-
-- b. nicht mehr als vier Noten unter 4 erteilt wurden.
-
-<sup>3</sup> Zur Erlangung des Maturitätsausweises sind zwei Versuche zulässig.
+Für die Ausbildungsangebote der Maturitätsschulen in den Grundlagen-, Schwerpunkt- und Ergänzungsfächern sind die Bestimmungen der Kantone massgebend.
 
 #### Art. 17
 
-**Grundkurs in Englisch**
+**Maturitätsarbeit**
 
-Für Schülerinnen und Schüler, die Englisch nicht als Maturitätsfach gewählt haben, muss ein Grundkurs in Englisch angeboten werden.
+<sup>1</sup> Die Maturitätsarbeit fördert die Selbstständigkeit und
 
-### 3. Besondere Bestimmungen
+die Aneignung wissenschaftspropädeutischen Arbeitens.
+
+<sup>2</sup> Sie ist eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit mit einem wissenschaftspropädeutischen Anteil. Sie wird allein oder in einer Gruppe erstellt und mündlich präsentiert.
+
+**5**
+
+- 1\. 7. 25 - 129
 
 #### Art. 18
 
-**Zweisprachige Maturität**
+**Anteil der Fächer an der Unterrichtszeit**
 
-Die von einem Kanton nach eigenen Vorschriften erteilte zweisprachige Maturität kann ebenfalls anerkannt werden.
+Der Anteil der folgenden Fächer an der gesamten Unterrichtszeit beträgt:
+
+**Anteil in Prozent**
+
+Fächer a. Grundlagenfächer:
+
+**mind. 27**
+
+- 1\. Sprachfächer: Unterrichtssprache, zweite Landessprache und dritte Sprache:
+
+**mind. 27**
+
+- 2\. Mathematik, Informatik sowie die naturwissenschaftlichen Fächer: Biologie, Chemie und Physik:
+
+**mind. 12**
+
+- 3\. geistes- und sozialwissenschaftliche Fächer:
+
+Geschichte, Geografie sowie Wirtschaft und Recht:
+
+- 4\. künstlerische Fächer: bildende Kunst oder Musik mind. 6 oder bildende Kunst und Musik:
+
+- b. Schwerpunktfach, Ergänzungsfach und Maturitätsarbeit: mind. 15
 
 #### Art. 19
 
-**Schulversuche**
+**Basale Kompetenzen**
 
-<sup>1</sup> Abweichungen von Bestimmungen dieses Reglements
+<sup>1</sup> Es wird sichergestellt, dass die Schülerinnen und Schüler
 
-für die Durchführung von Schulversuchen und für Schweizerschulen im Ausland können bewilligt werden.
+die basalen fachlichen und überfachlichen Kompetenzen für die allgemeine Studierfähigkeit erwerben.
 
-<sup>2</sup> Abweichungen für Schulversuche sind von der Schweizerischen Maturitätskommission, solche für Schweizerschulen im Ausland vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) zu bewilligen.
+<sup>2</sup> Es werden zudem Voraussetzungen geschaffen, die es erlauben, dass die Schülerinnen und Schüler die basalen fachlichen Kompetenzen in der Unterrichtssprache und in Mathematik erwerben, bevor sie die Maturitätsprüfungen ablegen.
 
 #### Art. 20
 
-**Formerfordernisse an den Ausweis**
+**Transversale Unterrichtsbereiche**
 
-<sup>1</sup> Der Maturitätsausweis enthält:
+<sup>1</sup> In den Fächern und in den übrigen Angeboten der Schule
 
-- a. die Aufschrift «Schweizerische Eidgenossenschaft» sowie die Kantonsbezeichnung,
+werden transversale Themen behandelt und überfachliche Kompetenzen vermittelt.
 
-- b. den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995»,
-
-- c. den Namen der Schule, die ihn ausstellt,
-
-- d. den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers,
-
-- e. die Angaben der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat,
-
-- f. die Noten der Maturitätsfächer nach Art. 9 Abs. 1,
-
-- g. das Thema der Maturaarbeit,
-
-- h. gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache und
-
-- i. die Unterschrift der zuständigen kantonalen Behörde und der Rektorin oder des Rektors der Schule.
-
-<sup>2</sup> Die Noten für kantonal vorgeschriebene oder andere belegte Fächer können im Maturitätsausweis ebenfalls aufgeführt werden.
-
-- 4\. Schweizerische Maturitätskommission
+<sup>2</sup> Interdisziplinäres Arbeiten macht mindestens drei Prozent der gesamten Unterrichtszeit aus.
 
 #### Art. 21
 
-Aufgaben und Zusammensetzung der Schweizerischen Maturitätskommission richten sich nach der Verwaltungsvereinbarung vom 16. Januar / 15. Februar 1995 zwischen dem Schweizerischen Bundesrat und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.
+**Sprachen und Verständigung**
 
-**7**
+<sup>1</sup> Die Kenntnisse über sowie das Verständnis für die regio-
 
-- 1\. 1. 19 - 103
+nalen und kulturellen Besonderheiten der Schweiz werden durch geeignete Massnahmen gefördert.
 
-- 5\. Verfahren
+<sup>2</sup> Es wird sichergestellt, dass die Schülerinnen und Schüler die Möglichkeit haben, einen Kurs in folgenden Sprachen zu besuchen:
+
+- a. dritte Landessprache;
+
+- b. Englisch.
 
 #### Art. 22
 
-**Zuständigkeit**
+**Austausch und Mobilität**
 
-<sup>1</sup> Der Kanton richtet sein Gesuch an die Schweizerische
+<sup>1</sup> Es wird sichergestellt, dass die Schülerinnen und Schüler
 
-Maturitätskommission.
+ihre interkulturellen, gesellschaftlichen und persönlichen Kompetenzen weiterentwickeln.
 
-<sup>2</sup> Über Gesuche entscheiden das WBF und der Vorstand der EDK auf Antrag der Schweizerischen Maturitätskommission.
+<sup>2</sup> Es werden zudem Voraussetzungen geschaffen, die es erlauben, dass jede Schülerin und jeder Schüler an Austausch- und Mobilitätsaktivitäten in einer anderen Sprachregion der Schweiz oder des Auslands teilnimmt.
 
 #### Art. 23
 
-**Rechtsschutz**
+**Einsatz für das Gemeinwohl**
 
-- a. Auf Bundesebene Gegen Verfügungen des WBF kann der gesuchstellende Kanton Beschwerde führen. Das Verfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesverwaltungsrechtspflege.
-
-- b. Auf interkantonaler Ebene
-
-<sup>1</sup> Lehnt der Vorstand ein Anerkennungsgesuch ab, können der gesuchstellende Kanton und der betroffene Träger der Schule innert 60 Tagen den Entscheid bei der Plenarversammlung der EDK anfechten.
-
-<sup>2</sup> Gegen Entscheide der Plenarversammlung kann ein Kanton gestützt auf Art. 120 des Bundesgerichtsgesetzes (BGG)[^23-1] beim Bundesgericht Klage einreichen. Für die betroffenen Schulträger steht die Beschwerde gemäss Art. 82 BGG[^23-1] zur Verfügung.
-
-- 6\. Schlussbestimmungen
-
-[^23-1]: SR 173.110.
+Es werden Voraussetzungen geschaffen, die es erlauben, dass sich die Schülerinnen und Schüler für das Gemeinwohl einsetzen.
 
 #### Art. 24
 
-**Aufhebung bisherigen Rechts**
+**Maturitätsprüfung**
 
-Die Verordnung des Schweizerischen Bundesrates vom 22. Mai 1968 über die Anerkennung von Maturitätsausweisen wird aufgehoben.
+<sup>1</sup> Die Maturitätsprüfung findet mindestens in den folgen-
+
+den Fächern statt:
+
+- a. Unterrichtssprache;
+
+- b. zweite Landessprache;
+
+- c. Mathematik;
+
+- d. Schwerpunktfach;
+
+- e. ein weiteres Fach, für dessen Wahl die Bedingungen des Kantons massgebend sind.
+
+<sup>2</sup> Die Prüfungen erfolgen schriftlich; mindestens in der Unterrichtssprache und in den modernen Fremdsprachen erfolgen sie zusätzlich mündlich.
+
+<sup>3</sup> Höchstens zwei Fächer dürfen mehr als ein Jahr, frühestens jedoch zwei Jahre vor der Maturität geprüft werden.
 
 #### Art. 25
 
-**Übergangsbestimmungen**
+**Maturitätsnoten und Bewertung der Maturitätsarbeit**
 
-- a. Auf Bundesebene Nach bisherigem Recht erteilte Anerkennungen sind noch acht Jahre ab Inkrafttreten der Verordnung des Bundes gültig.
+<sup>1</sup> Die Maturitätsnoten sind die Noten der Grundlagen-
 
-- b. Auf interkantonaler Ebene Der Kanton hat bis spätestens acht Jahre nach Inkrafttreten dieses Reglements den Nachweis zu erbringen, dass seine Maturitätszeugnisse oder die von ihm anerkannten Maturitätszeugnisse den Bestimmungen dieses Reglements entsprechen.
+fächer, des Schwerpunktfachs, des Ergänzungsfachs und der Maturitätsarbeit.
 
-**Übergangsbestimmungen für die Änderungen vom 14. Juni 2007**
+<sup>2</sup> Die Maturitätsnoten werden wie folgt gesetzt:
 
-Art. 25<sup>bis</sup> <sup>1</sup> Anerkennungsgesuche, die gemäss bisherigem Recht eingereicht wurden, werden gestützt auf bisheriges Recht beurteilt.
+- a. in den Fächern, in denen eine Maturitätsprüfung stattfindet: je zur Hälfte aufgrund der Leistungen im letzten Ausbildungsjahr, in dem das Fach unterrichtet worden ist, und der Leistungen an der Maturitätsprüfung;
 
-<sup>2</sup> Anerkennungsgesuche, die nach dem Inkrafttreten der Änderungen vom 14. Juni 2007 eingereicht werden, werden nach neuem Recht beurteilt.
+- b. in den Fächern, in denen keine Maturitätsprüfung stattfindet: aufgrund der Leistungen im letzten Ausbildungsjahr, in dem das Fach unterrichtet worden ist;
 
-<sup>3</sup> Ausbildungen, deren Abschlüsse (Maturitätsausweise) gemäss bisherigem Recht anerkannt worden sind, sind innert einem Jahr nach Inkrafttreten der Änderungen vom 14. Juni 2007 an das neue Recht anzupassen. Die vorgenommenen Änderungen sind der Schweizerischen Maturitätskommission zur Überprüfung einzureichen.
-
-**Übergangsbestimmungen für die Änderungen vom 21. Juni 2018**
-
-Art. 25<sup>ter</sup> Informatik muss spätestens am 1. August 2022 als weiteres obligatorisches Fach eingeführt sein.
+- c. in der Maturitätsarbeit: aufgrund der schriftlichen Arbeit und der mündlichen Präsentation; die Beurteilung des Arbeitsprozesses fliesst in die Beurteilung der schriftlichen Arbeit oder der mündlichen Präsentation ein.
 
 #### Art. 26
 
+**Bestehensnormen**
+
+<sup>1</sup> Die Leistungen in den Grundlagenfächern, im Schwer-
+
+punktfach, im Ergänzungsfach und in der Maturitätsarbeit werden in ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+
+**7**
+
+- 1\. 7. 25 - 129
+
+<sup>2</sup> Die Maturität ist bestanden, wenn in den Grundlagenfächern, im Schwerpunktfach, im Ergänzungsfach und in der Maturitätsarbeit:
+
+- a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben; und
+
+- b. nicht mehr als vier Maturitätsnoten unter 4 erteilt wurden.
+
+<sup>3</sup> Für die Erlangung des Maturitätszeugnisses werden zwei Versuche zugelassen.
+
+#### Art. 27
+
+**Maturitätszeugnis**
+
+<sup>1</sup> Das Maturitätszeugnis enthält:
+
+- a. die Aufschrift «Schweizerische Eidgenossenschaft» sowie die Kantonsbezeichnung;
+
+- b. den Vermerk «Maturitätszeugnis, ausgestellt nach den Erlassen des Bundesrates vom 28. Juni 2023 und der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren vom 22. Juni 2023 über die Anerkennung von gymnasialen Maturitätszeugnissen»;
+
+- c. den Namen der Schule, die es ausstellt;
+
+- d. den Namen, den Vornamen und das Geburtsdatum der Inhaberin oder des Inhabers; bei Schweizerinnen und Schweizern enthält das Maturitätszeugnis zusätzlich den Heimatort, bei Ausländerinnen und Ausländern zusätzlich die Staatsangehörigkeit und den Geburtsort;
+
+- e. Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat;
+
+- f. die Maturitätsnoten;
+
+- g. das Thema der Maturitätsarbeit;
+
+- h. die Unterschrift der zuständigen kantonalen Behörde und eines Mitglieds der Schulleitung.
+
+<sup>2</sup> Im Maturitätszeugnis können ebenfalls aufgeführt werden:
+
+- a. die Noten für das Fach Sport und für allfällige weitere Fächer nach Artikel 14;
+
+- b. der Vermerk «mehrsprachige Maturität», wenn der Kanton einen mehrsprachigen Maturitätslehrgang vorsieht, der die Richtlinien der Schweizerischen Maturitätskommission (SMK) erfüllt.
+
+#### Art. 28
+
+**Qualitätsentwicklung und -sicherung**
+
+Die Schulen verfügen über ein System der Qualitätsentwicklung und -sicherung.
+
+#### Art. 29
+
+**Berichtswesen**
+
+Die Schulen verfügen über ein Berichtswesen, das es erlaubt, zuhanden der SMK die Erfüllung der Mindestanforderungen nachzuweisen.
+
+### III Abweichungen von den Mindestanforderungen
+
+#### Art. 30
+
+Auf Antrag der SMK können Abweichungen von den Mindestanforderungen nach den Artikeln 5–29 bewilligt werden für:
+
+- a. die Durchführung von befristeten Schulversuchen;
+
+- b. Schweizerschulen im Ausland;
+
+- c. Maturitätsschulen für Erwachsene.
+
+### IV Kantonale Massnahmen
+
+#### Art. 31
+
+**Berufs-, Studien- und Laufbahnberatung**
+
+Den Schülerinnen und Schülern steht ein kostenloses Angebot der Berufs-, Studien- und Laufbahnberatung zur Förderung der Laufbahngestaltungskompetenzen zur Verfügung.
+
+#### Art. 32
+
+**Chancengerechtigkeit**
+
+<sup>1</sup> Es bestehen geeignete Massnahmen zur Förderung der
+
+Chancengerechtigkeit, insbesondere beim Übertritt von der Volksschule an die Maturitätsschulen und während des Maturitätslehrgangs.
+
+<sup>2</sup> Erwachsenen wird ermöglicht, eine gymnasiale Maturität zu erlangen.
+
+<sup>3</sup> Es besteht ein kontinuierlicher Dialog zwischen der Volksschule und den Maturitätsschulen sowie zwischen den Maturitätsschulen und den Hochschulen.
+
+### V Gesuchseinreichung und Anerkennung
+
+#### Art. 33
+
+**Gesuchseinreichung**
+
+<sup>1</sup> Kantonale und kantonal anerkannte gymnasiale Maturi-
+
+tätszeugnisse werden auf Gesuch hin schweizerisch anerkannt.
+
+<sup>2</sup> Bewilligungen für Abweichungen von den Mindestanforderungen nach Artikel 30 werden auf Gesuch hin erteilt.
+
+<sup>3</sup> Die Gesuche sind vom zuständigen Kanton an die SMK zu richten.
+
+#### Art. 34
+
+**Anerkennung von Maturitätszeugnissen und Bewilligung von Abweichungen**
+
+<sup>1</sup> Ein kantonales oder kantonal anerkanntes gymnasiales
+
+Maturitätszeugnis ist schweizerisch anerkannt, wenn das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) und die EDK das entsprechende Gesuch um Anerkennung je genehmigt haben.
+
+<sup>2</sup> Abweichungen von den Mindestanforderungen (Art. 30) gelten als bewilligt, wenn das WBF und die EDK das entsprechende Gesuch je genehmigt haben.
+
+**9**
+
+- 1\. 7. 25 - 129
+
+### VI Schlussbestimmungen
+
+#### Art. 35
+
+**Aufhebung eines anderen Erlasses**
+
+Das Reglement über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 wird aufgehoben.
+
+#### Art. 36
+
+**Übergangsbestimmungen2**
+
+<sup>1</sup> Anerkennungen von gymnasialen Maturitätszeugnissen
+
+werden nach bisherigem Recht erteilt, wenn das Gesuch um Anerkennung zum Zeitpunkt des Inkrafttretens dieses Reglements hängig ist.
+
+<sup>2</sup> Anerkennungen von gymnasialen Maturitätszeugnissen werden auf Ersuchen des betreffenden Kantons nach bisherigem Recht erteilt innerhalb von:
+
+- a. acht Jahren nach Inkrafttreten dieses Reglements;
+
+- b. vierzehn Jahren nach Inkrafttreten dieses Reglements, sofern die Mindestdauer der gymnasialen Maturitätslehrgänge im betreffenden Kanton nicht derjenigen nach Artikel 7 entspricht.
+
+<sup>3</sup> Die nach bisherigem Recht erteilten Anerkennungen von gymnasialen Maturitätszeugnissen sind gültig noch während:
+
+- a. acht Jahren ab Inkrafttreten dieses Reglements;
+
+- b. vierzehn Jahren ab Inkrafttreten dieses Reglements, sofern die Mindestdauer der gymnasialen Maturitätslehrgänge nicht derjenigen nach Artikel 7 entspricht.
+
+#### Art. 37
+
 **Inkrafttreten**
 
-Dieses Reglement tritt am 1. August 1995 in Kraft.
+Dieses Reglement tritt am 1. August 2024 in Kraft.
+
+## Weitere Fussnoten
+
+- [1] OS 80, 73.
+- [2] Änderung vom 20. Juni 2024.
