@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2024-01-22
+version: 2025-04-28
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20240122/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20240122-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20240122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20250428/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20250428-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20250428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,9 @@ RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (État le 22 janvier 2024)
+du 4 novembre 1998 (État le 28 avril 2025)
 
-[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
+[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99); [2025 298](https://fedlex.data.admin.ch/eli/oc/2025/298)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
 
 La Cour européenne des droits de l’homme,
 
@@ -28,8 +28,8 @@ vu la Convention de sauvegarde des droits de l’homme et des libertés fondamen
 
 arrête le présent règlement:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993), [0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5), [0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6), [0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8), [0.101.093](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9)
 
 #### Art. 1
 
@@ -741,7 +741,7 @@ La ou les Parties contractantes qui désirent introduire une requête devant la 
 - e) l’objet de la requête et les grandes lignes de la ou des demandes de satisfaction équitable éventuellement formulées au titre de l’art. 41 de la Convention pour le compte de la ou des parties censément lésées;
 - f) les nom et adresse de la ou des personnes désignées comme agents;
 - et en l’assortissant
-- g) des copies de tous documents pertinents et en particulier des décisions, judiciaires ou autres, concernant l’objet de la requête.
+- g) des copies de tous documents pertinents, ainsi que de tout élément de preuve, et en particulier des décisions, judiciaires ou autres, concernant l’objet de la requête (accompagnées d’une traduction dans l’une des langues officielles de la Cour si ces pièces n’existent dans aucune de ces langues).
 
 #### Art. 47
 
@@ -821,6 +821,8 @@ Lorsqu’une affaire a été déférée à la Grande Chambre en vertu de l’art
 
 #### Art. 51
 
+**Attribution des requêtes et procédure subséquente**
+
 <sup>1.</sup> Lorsqu’une requête est introduite en vertu de l’art. 33 de la Convention, le président de la Cour la porte immédiatement à la connaissance de la Partie contractante défenderesse et l’attribue à l’une des sections.
 
 <sup>2.</sup> Conformément à l’art. 26 par. 1 a) du présent règlement, les juges élus au titre des Parties contractantes requérantes et défenderesses font partie de plein droit de la chambre constituée pour examiner l’affaire. L’art. 30 du présent règlement s’applique si la requête a été introduite par plusieurs Parties contractantes ou si des requêtes ayant le même objet et introduites par plusieurs Parties contractantes sont examinées conjointement en application de l’art. 42 du présent règlement.
@@ -829,9 +831,11 @@ Lorsqu’une affaire a été déférée à la Grande Chambre en vertu de l’art
 
 <sup>4.</sup> Avant l’intervention de la décision sur la recevabilité de la requête, la chambre ou son président peut décider d’inviter les parties à lui présenter des observations complémentaires par écrit.
 
-<sup>5.</sup> Une audience sur la recevabilité est organisée si l’une ou plusieurs des Parties contractantes concernées en font la demande ou si la chambre en décide ainsi d’office.
+<sup>5.</sup> Une audience sur la recevabilité est organisée si la chambre en décide ainsi. Elle peut le faire d’office ou à la demande de l’une ou plusieurs des parties contractantes concernées.
 
 <sup>6.</sup> Avant de fixer la procédure écrite et, le cas échéant, la procédure orale, le président de la chambre consulte les parties.
+
+<sup>7.</sup> Une fois que la requête est portée à la connaissance de la Partie contractante défenderesse et que les Parties contractantes sont chacune invitées ensuite à présenter des observations écrites sur la requête conformément au présent article, la chambre peut également décider d’examiner conjointement la recevabilité et le fond conformément à l’art. 29 par. 2 de la Convention.
 
 ### Requêtes individuelles
 
@@ -931,7 +935,7 @@ La Cour rend toutes ses décisions en français ou en anglais, sauf si elle déc
 
 <sup>1.</sup> Lorsque la chambre a décidé de retenir une requête introduite en vertu de l’art. 33 de la Convention, le président de la chambre, après consultation des Parties contractantes concernées, fixe les délais pour le dépôt des observations écrites sur le fond et pour la production de preuves supplémentaires éventuelles. Le président peut cependant, avec l’accord des Parties contractantes concernées, décider qu’il n’y a pas lieu à procédure écrite.
 
-<sup>2.</sup> Une audience sur le fond est organisée si une ou plusieurs des Parties contractantes concernées en font la demande ou si la chambre en décide ainsi d’office. Le président de la chambre fixe la procédure orale.
+<sup>2.</sup> Une audience sur le fond est organisée si la chambre en décide ainsi. Elle peut le faire d’office ou à la demande de l’une ou plusieurs des parties contractantes concernées. Le président de la chambre fixe la procédure orale.
 
 #### Art. 59
 
@@ -989,7 +993,7 @@ La Cour rend toutes ses décisions en français ou en anglais, sauf si elle déc
 
 **Règlement amiable**
 
-<sup>1.</sup> La requête une fois retenue, le greffier, agissant sur les instructions de la chambre ou du président de celle-ci, entre en rapport avec les parties en vue de parvenir à un règlement amiable, conformément à l’art. 39 par. 1 b) de la Convention. La chambre prend toutes mesures appropriées pour faciliter la conclusion d’un tel règlement.
+<sup>1.</sup> La requête une fois retenue, le greffier, agissant sur les instructions de la chambre ou du président de celle-ci, entre en rapport avec les parties en vue de parvenir à un règlement amiable, conformément à l’art. 39 par. 1 de la Convention. La chambre prend toutes mesures appropriées pour faciliter la conclusion d’un tel règlement.
 
 <sup>2.</sup> En vertu de l’art. 39 par. 2 de la Convention, les négociations menées en vue de parvenir à un règlement amiable sont confidentielles et sans préjudice des observations des parties dans la procédure contentieuse. Aucune communication écrite ou orale ni aucune offre ou concession intervenues dans le cadre desdites négociations ne peuvent être mentionnées ou invoquées dans la procédure contentieuse.
 
@@ -1529,4 +1533,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date. Les Am. concernant les art. 7 et 7*a* adoptés le 23 juin 2023 sont entrés en vigueur à la même date. Les Am. concernant les art. 33 § 1 et 44*f* adoptés le 25 sept. 2023 sont entrés en vigueur le 30 oct. 2023. Les Am. concernant l’art. 28 adoptés le 15 déc. 2023 et l’art. 47 adoptés le 18 janv. 2024, sont entrés en vigueur le 22 janv. 2024.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date. Les Am. concernant les art. 7 et 7*a* adoptés le 23 juin 2023 sont entrés en vigueur à la même date. Les Am. concernant les art. 33 § 1 et 44*f* adoptés le 25 sept. 2023 sont entrés en vigueur le 30 oct. 2023. Les Am. concernant l’art. 28 adoptés le 15 déc. 2023 et l’art. 47 adoptés le 18 janv. 2024, sont entrés en vigueur le 22 janv. 2024. Les Am. concernant les art. 46 let. g, 51 par. 5 et 7 et 58 par. 2 adoptés le 17 mars 2025 sont entrés en vigueur le 28 avril 2025.

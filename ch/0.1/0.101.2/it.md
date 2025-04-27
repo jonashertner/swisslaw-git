@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Regolamento della Corte europea dei diritti dell'uomo del 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: it
-version: 2024-01-22
+version: 2025-04-28
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20240122/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20240122-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20240122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20250428/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20250428-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20250428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,9 @@ RU **2006** 3961[^t-1]
 
 Traduzione
 
-del 4 novembre 1998 (Stato 22 gennaio 2024)
+del 4 novembre 1998 (Stato 28 aprile 2024)
 
-[^t-1]: Questa nuova versione comprende gli emendamenti elencati nella nota all’art. 117 ([RU 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223); [2022 275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99)). Gli all. non sono pubblicati nella RU. I testi in francese possono essere consultati nel sito Internet della Corte: www.echr.coe.int
+[^t-1]: Questa nuova versione comprende gli emendamenti elencati nella nota all’art. 117 ([RU 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223); [2022 275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99); [2025 298](https://fedlex.data.admin.ch/eli/oc/2025/298)). Gli all. non sono pubblicati nella RU. I testi in francese possono essere consultati nel sito Internet della Corte: www.echr.coe.int
 
 La Corte europea dei diritti dell’uomo,
 
@@ -28,8 +28,8 @@ vista la Convenzione del 4 novembre 1950[^ingress-1] per la salvaguardia dei dir
 
 adotta il presente regolamento:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993), [0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5), [0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6), [0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8), [0.101.093](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9)
 
 #### Art. 1
 
@@ -130,7 +130,7 @@ Un giudice può essere sollevato dalle sue funzioni solo se gli altri giudici el
 
 <sup>2.</sup> Le disposizioni del presente articolo si applicano, *mutatis mutandis*, al procedimento concernente l’esame di una questione legata all’immunità di cui godono i coniugi e i figli minori dei giudici ai sensi dell’articolo 2 del Sesto Protocollo addizionale all’Accordo generale concernente i privilegi e le immunità del Consiglio d’Europa e all’immunità di cui beneficiano i giudici dopo la conclusione del loro mandato conformemente all’articolo 3 del Sesto Protocollo addizionale all’Accordo generale concernente i privilegi e le immunità del Consiglio d’Europa.
 
-[^7a-1]: [RS 0.192.110.36](https://fedlex.data.admin.ch/eli/cc/2000/248)
+[^7a-1]: [RS 0.192.110.36](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/613)
 
 ### Capitolo II Presidenza della Corte e ruolo dell’ufficio
 
@@ -738,7 +738,7 @@ La o le Parti contraenti che desiderano introdurre un ricorso davanti alla Corte
 - e) l’oggetto del ricorso e un’indicazione generale della o delle richieste di equa soddisfazione eventualmente formulate ai sensi dell’articolo 41 della Convenzione per conto della o delle parti presumibilmente lese;
 - f) il nome e l’indirizzo della o delle persone designate come agenti;
 - e allegando
-- g) le copie di tutti i documenti pertinenti e in particolare delle decisioni, giudiziarie e non, relative all’oggetto del ricorso.
+- g) le copie di tutti i documenti pertinenti, nonché di ogni elemento di prova, e in particolare delle decisioni, giudiziarie e non, relative all’oggetto del ricorso (accompagnate da una traduzione in una delle lingue ufficiali della Corte se questi atti non sono disponibili in nessuna di queste lingue).
 
 #### Art. 47
 
@@ -818,6 +818,8 @@ Qualora un caso sia stato deferito alla Grande Camera ai sensi dell’articolo 3
 
 #### Art. 51
 
+**Assegnazione dei ricorsi e procedura successiva**
+
 <sup>1.</sup> Quando un ricorso è introdotto ai sensi dell’articolo 33 della Convenzione, il presidente della Corte lo comunica immediatamente alla Parte contraente convenuta e lo assegna a una delle Sezioni.
 
 <sup>2.</sup> Conformemente all’articolo 26 paragrafo 1 lettera a del presente regolamento, i giudici eletti a titolo delle Parti contraenti ricorrenti e convenute fanno parte di diritto della Camera costituita per l’esame del caso. L’articolo 30 del presente regolamento si applica se il ricorso è stato introdotto da più Parti contraenti o se ricorsi con il medesimo oggetto e introdotti da più Parti contraenti sono esaminati congiuntamente in applicazione dell’articolo 42 del presente regolamento.
@@ -826,9 +828,11 @@ Qualora un caso sia stato deferito alla Grande Camera ai sensi dell’articolo 3
 
 <sup>4.</sup> Prima che sia pronunciata la decisione sulla ricevibilità del ricorso, la Camera o il suo presidente può decidere di invitare le parti a presentare per scritto osservazioni complementari.
 
-<sup>5.</sup> Viene effettuata un’udienza sulla ricevibilità se una o più Parti contraenti interessate ne fanno richiesta o se la Camera decide in tal senso d’ufficio.
+<sup>5.</sup> Un’udienza sulla ricevibilità è organizzata se la Camera decide in tal senso. Può farlo d’ufficio o su richiesta di una o più Parti contraenti interessate.
 
 <sup>6.</sup> Prima di fissare la procedura scritta e, se del caso, la procedura orale, il presidente della Camera consulta le parti.
+
+<sup>7.</sup> Una volta che il ricorso è portato a conoscenza della Parte contraente convenuta e che le Parti contraenti sono in seguito invitate a presentare osservazioni per scritto sul ricorso conformemente al presente articolo, la Camera può parimenti decidere di esaminare congiuntamente la ricevibilità e il merito conformemente all’articolo 29 paragrafo 2 della Convenzione.
 
 ### Ricorsi individuali
 
@@ -928,7 +932,7 @@ La Corte rende tutte le sue decisioni in francese o in inglese, a meno che non d
 
 <sup>1.</sup> Qualora la Camera decida di accogliere un ricorso introdotto ai sensi dell’articolo 33 della Convenzione, il presidente della Camera, previa consultazione delle Parti contraenti in causa, fissa i termini per il deposito delle osservazioni scritte sul merito e per la produzione di eventuali prove supplementari. Il presidente può tuttavia, con il consenso delle Parti contraenti in causa, decidere di non dar luogo a un procedimento scritto.
 
-<sup>2.</sup> Un’udienza sul merito viene disposta qualora una o più Parti contraenti in causa ne facciano richiesta o se la Camera decide d’ufficio in tal senso. Il presidente della Camera fissa il procedimento orale.
+<sup>2.</sup> Un’udienza sul merito è organizzata se la Camera decide in tal senso. Può farlo d’ufficio o su richiesta di una o più Parti contraenti interessate. Il presidente della Camera fissa il procedimento orale.
 
 #### Art. 59
 
@@ -986,7 +990,7 @@ La Corte rende tutte le sue decisioni in francese o in inglese, a meno che non d
 
 **Composizione amichevole**
 
-<sup>1.</sup> Accolto il ricorso, il cancelliere, basandosi sulle istruzioni della Camera o del suo presidente, si mette a disposizione delle parti al fine di pervenire a una composizione amichevole, conformemente all’articolo 39 paragrafo 1 lettera b della Convenzione. La Camera adotta tutte le misure necessarie per facilitare la conclusione di tale composizione.
+<sup>1.</sup> Accolto il ricorso, il cancelliere, basandosi sulle istruzioni della Camera o del suo presidente, si mette a disposizione delle parti al fine di pervenire a una composizione amichevole, conformemente all’articolo 39 paragrafo 1 della Convenzione. La Camera adotta tutte le misure necessarie per facilitare la conclusione di tale composizione.
 
 <sup>2.</sup> Ai sensi dell’articolo 39 paragrafo 2 della Convenzione le trattative condotte per giungere a una composizione amichevole sono riservate e senza pregiudizio per le osservazioni delle parti nel procedimento contenzioso. Nessuna comunicazione scritta od orale, nessuna proposta o concessione intervenute nel corso delle suddette trattative possono essere menzionate o invocate nel procedimento contenzioso.
 
@@ -1032,7 +1036,7 @@ La Corte rende tutte le sue decisioni in francese o in inglese, a meno che non d
 
 **Mancata comparizione**
 
-- [tab] Quando una parte od ogni altra persona che dovrebbe comparire non si presenta o si rifiuta, la Camera può nondimeno proseguire l’udienza se ciò le sembra compatibile con una buona amministrazione della giustizia.
+Quando una parte od ogni altra persona che dovrebbe comparire non si presenta o si rifiuta, la Camera può nondimeno proseguire l’udienza se ciò le sembra compatibile con una buona amministrazione della giustizia.
 
 #### Art. 66 a 69
 
@@ -1526,4 +1530,4 @@ L’applicazione delle disposizioni relative al funzionamento interno della Cort
 
 Il presente regolamento entra in vigore il 1° novembre 1998.
 
-[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giu. 2021 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 24, 93, 94 e 101 adottati l’11 ott. 2021 sono entrati in vigore il 18 ott. 2021. Gli emendamenti agli art. 36 e 44*d* adottati il 7 feb. 2022 sono entrati in vigore alla stessa data. L’emendamento all’art. 8 par. 5 adottato il 30 mag. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 4 adottato il 3 giu. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 2 e 3 b) adottato il 3 mar. 2023 è entrato in vigore alla stessa data. Gli emendamenti agli art. 7 e 7*a* adottati il 23 giu. 2023 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 33 par. 1 e 44*f* adottati il 25 set. 2023 sono entrati in vigore il 30 ott. 2023. Gli emendamenti concernenti l’art. 28 adottati il 15 dic. 2023 e l’art. 47 adottati il 18 gen. 2024, sono entrati in vigore il 22 gen. 2024.
+[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giu. 2021 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 24, 93, 94 e 101 adottati l’11 ott. 2021 sono entrati in vigore il 18 ott. 2021. Gli emendamenti agli art. 36 e 44*d* adottati il 7 feb. 2022 sono entrati in vigore alla stessa data. L’emendamento all’art. 8 par. 5 adottato il 30 mag. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 4 adottato il 3 giu. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 2 e 3 b) adottato il 3 mar. 2023 è entrato in vigore alla stessa data. Gli emendamenti agli art. 7 e 7*a* adottati il 23 giu. 2023 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 33 par. 1 e 44*f* adottati il 25 set. 2023 sono entrati in vigore il 30 ott. 2023. Gli emendamenti concernenti l’art. 28 adottati il 15 dic. 2023 e l’art. 47 adottati il 18 gen. 2024, sono entrati in vigore il 22 gen. 2024. Gli emendamenti agli art. 46 lett. g, 51 par. 5 e 7 nonché 58 par. 2 adottati il 17 mar. 2025, sono entrati in vigore il 28 apr. 2025.

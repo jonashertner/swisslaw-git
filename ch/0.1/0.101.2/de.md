@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: de
-version: 2024-01-22
+version: 2025-04-28
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20240122/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20240122-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20240122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20250428/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20250428-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20250428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,9 @@ AS **2006** 3961[^t-1]
 
 Übersetzung
 
-vom 4. November 1998 (Stand am 22. Januar 2024)
+vom 4. November 1998 (Stand am 28. April 2025)
 
-[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
+[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716); [2024 99](https://fedlex.data.admin.ch/eli/oc/2024/99); [2025 298](https://fedlex.data.admin.ch/eli/oc/2025/298)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: [www.echr.coe.int](http://www.echr.coe.int) eingesehen werden.
 
 Der Europäische Gerichtshof für Menschenrechte,
 
@@ -28,8 +28,8 @@ gestützt auf die Konvention vom 4. November 1950[^ingress-1] zum Schutz der Men
 
 erlässt die folgende Verfahrensordnung:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807),[0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598),[0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993),[0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5),[0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6),[0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8),[0.101.093](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9)
 
 #### Art. 1
 
@@ -132,7 +132,7 @@ Ein Richter kann nur entlassen werden, wenn die anderen im Amt befindlichen gew�
 
 <sup>2.</sup> Auf das Verfahren betreffend die Prüfung einer Frage im Zusammenhang mit der Immunität, welche die Ehegatten und minderjährigen Kinder der Richter nach Artikel 2 des Sechsten Zusatzprotokolls zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates und der Immunität, welche die Richter nach Ablauf ihrer Amtszeit nach Artikel 3 des Sechsten Zusatzprotokolls zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates geniessen, sind die Bestimmungen dieses Artikels entsprechend anzuwenden.
 
-[^7a-1]: SR **0****.****192****.****110.36**
+[^7a-1]: [SR 0.192.110.36](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/613)
 
 ### Kapitel II Präsidialämter des Gerichtshofs und Rolle des Präsidiums
 
@@ -349,9 +349,9 @@ Hat der Gerichtshof ausserhalb einer angesetzten Sitzung über eine Verfahrensfr
 
 <sup>(4)</sup> Die so bestimmten Richter und Ersatzrichter bleiben für die Prüfung der Rechtssache Mitglieder der Grossen Kammer, bis das Verfahren abgeschlossen ist. Sie setzen ihre Tätigkeit in einer Rechtssache auch nach Ablauf ihrer Amtszeit fort, wenn sie an der Prüfung der Begründetheit teilgenommen haben. Diese Bestimmungen gelten auch für das Verfahren zur Erstattung von Gutachten.
 
-- (5) a)
+- (5)
 
-  Der Ausschuss von fünf Richtern der Grossen Kammer, der einen nach Artikel 43 der Konvention vorgelegten Antrag zu prüfen hat, besteht aus:
+  a) Der Ausschuss von fünf Richtern der Grossen Kammer, der einen nach Artikel 43 der Konvention vorgelegten Antrag zu prüfen hat, besteht aus:
 
   - – dem Präsidenten des Gerichtshofs; ist der Präsident des Gerichtshofs verhindert, so wird er durch den rangälteren Vizepräsidenten des Gerichtshofs vertreten;
   - – zwei Sektionspräsidenten, die im Rotationsverfahren bestimmt werden; ist ein so bestimmter Sektionspräsident verhindert, so wird er durch den Vizepräsidenten der Sektion vertreten;
@@ -745,7 +745,7 @@ Jede Vertragspartei, die dem Gerichtshof eine Rechtssache nach Artikel 33 der Ko
 - e) den Gegenstand der Beschwerde sowie gegebenenfalls allgemeine Angaben zu Ansprüchen auf eine gerechte Entschädigung nach Artikel 41 der Konvention zugunsten der angeblich verletzten Partei oder Parteien;
 - f) den Namen und die Adresse der zu(m) Prozessbevollmächtigten bestimmten Person oder Personen;
 - beizufügen sind
-- g) Kopien aller einschlägigen Unterlagen, insbesondere der gerichtlichen oder sonstigen Entscheidungen, die sich auf den Gegenstand der Beschwerde beziehen.
+- g) Kopien aller einschlägigen Unterlagen und vorhandenen Beweismittel, insbesondere der gerichtlichen oder sonstigen Entscheidungen, die sich auf den Gegenstand der Beschwerde beziehen (unter Beifügung einer Übersetzung in einer der Amtssprachen des Gerichtshofs, soweit es diese Unterlagen in keiner der entsprechenden Sprachen gibt).
 
 [^46-1]: Liechtenstein, Österreich: Rechtsmittel
 
@@ -837,9 +837,11 @@ Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Grosse Kamme
 
 <sup>(4)</sup> Vor der Entscheidung über die Zulässigkeit der Beschwerde kann die Kammer oder ihr Präsident beschliessen, die Parteien zur Abgabe weiterer schriftlicher Stellungnahmen aufzufordern.
 
-<sup>(5)</sup> Eine mündliche Verhandlung über die Zulässigkeit findet statt, wenn eine oder mehrere der betroffenen Vertragsparteien es beantragen oder wenn es die Kammer von Amts wegen beschliesst.
+<sup>(5)</sup> Eine mündliche Verhandlung über die Zulässigkeit findet statt, wenn die Kammer dies beschliesst. Sie kann dies von Amts wegen oder auf Antrag einer oder mehrerer der betroffenen Vertragsparteien tun.
 
 <sup>(6)</sup> Der Kammerpräsident hört die Parteien an, bevor er das schriftliche und gegebenenfalls das mündliche Verfahren bestimmt.
+
+<sup>(7)</sup> Wenn die Beschwerde der beschwerdegegnerischen Vertragspartei zur Kenntnis gebracht worden ist und jede Vertragspartei daraufhin aufgefordert wird, zu der Beschwerde nach Massgabe dieses Artikels schriftlich Stellung zu nehmen, kann die Kammer nach Artikel 29 Absatz 3 der Konvention auch beschliessen, die Zulässigkeit und Begründetheit gleichzeitig zu prüfen.
 
 ### Individualbeschwerden
 
@@ -939,7 +941,7 @@ Der Gerichtshof erlässt seine Entscheidungen in englischer oder französischer 
 
 <sup>(1)</sup> Hat die Kammer eine nach Artikel 33 der Konvention erhobene Beschwerde zugelassen, so bestimmt der Kammerpräsident nach Anhörung der betroffenen Vertragsparteien die Fristen für die Einreichung der schriftlichen Stellungnahmen zur Begründetheit und für die Vorlage zusätzlicher Beweismittel. Der Präsident kann jedoch mit Einverständnis der betroffenen Vertragsparteien auf die Durchführung eines schriftlichen Verfahrens verzichten.
 
-<sup>(2)</sup> Eine mündliche Verhandlung über die Begründetheit findet statt, wenn eine oder mehrere der betroffenen Vertragsparteien dies beantragen oder wenn die Kammer es von Amts wegen beschliesst. Der Kammerpräsident bestimmt das Verfahren.
+<sup>(2)</sup> Eine mündliche Verhandlung über die Begründetheit findet statt, wenn die Kammer dies beschliesst. Sie kann dies von Amts wegen oder auf Antrag einer oder mehrerer der betroffenen Vertragsparteien tun. Der Kammerpräsident bestimmt das Verfahren.
 
 #### Art. 59
 
@@ -997,7 +999,7 @@ Der Gerichtshof erlässt seine Entscheidungen in englischer oder französischer 
 
 **Gütliche Einigung**
 
-<sup>(1)</sup> Sobald eine Beschwerde für zulässig erklärt ist, nimmt der Kanzler nach den Weisungen der Kammer oder ihres Präsidenten nach Artikel 39 Absatz 1 Buchstabe b der Konvention Kontakt mit den Parteien auf, um eine gütliche Einigung zu erreichen. Die Kammer trifft alle geeigneten Massnahmen, um eine solche Einigung zu erleichtern.
+<sup>(1)</sup> Sobald eine Beschwerde für zulässig erklärt ist, nimmt der Kanzler nach den Weisungen der Kammer oder ihres Präsidenten nach Artikel 39 Absatz 1 der Konvention Kontakt mit den Parteien auf, um eine gütliche Einigung zu erreichen. Die Kammer trifft alle geeigneten Massnahmen, um eine solche Einigung zu erleichtern.
 
 <sup>(2)</sup> Die im Hinblick auf eine gütliche Einigung geführten Verhandlungen sind nach Artikel 39 Absatz 2 der Konvention vertraulich und erfolgen unbeschadet der Stellungnahmen der Parteien im streitigen Verfahren. Im Rahmen dieser Verhandlungen geäusserte schriftliche oder mündliche Mitteilungen, Angebote oder Eingeständnisse dürfen im streitigen Verfahren nicht erwähnt oder geltend gemacht werden.
 
@@ -1543,4 +1545,4 @@ Die Anwendung von Bestimmungen, welche die interne Arbeitsweise des Gerichtshofs
 
 Diese Verfahrensordnung tritt am 1. November 1998 in Kraft.
 
-[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten. Die am 23. Juni 2023 angenommenen Änd. von Art. 7 und 7*a* sind am selben Datum in Kraft getreten. Die am 25. Sept. 2023 angenommenen Änd. von Art. 33 Abs. 1 und 44*f* sind am 30. Okt. 2023 in Kraft getreten. Die am 15. Dez. 2023 angenommenen Änd. an Art. 28 und die am 18. Jan. 2024 angenommenen Änd. an Art. 47 sind am 22. Jan. 2024 in Kraft getreten.
+[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten. Die am 23. Juni 2023 angenommenen Änd. von Art. 7 und 7*a* sind am selben Datum in Kraft getreten. Die am 25. Sept. 2023 angenommenen Änd. von Art. 33 Abs. 1 und 44*f* sind am 30. Okt. 2023 in Kraft getreten. Die am 15. Dez. 2023 angenommenen Änd. an Art. 28 und die am 18. Jan. 2024 angenommenen Änd. an Art. 47 sind am 22. Jan. 2024 in Kraft getreten. Die am 17. März 2025 angenommenen Änd. an Art. 46 Bst. g, 51 Abs. 5 und 7 und 58 Abs. 2 sind am 28. April 2025 in Kraft getreten.
