@@ -3,11 +3,11 @@ sr: "0.822.725.4"
 title: Übereinkommen Nr. 154 vom 19. Juni 1981 über die Förderung der Kollektivverhandlungen
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279"
 language: de
-version: 2020-07-15
+version: 2025-04-29
 adopted: 1981-06-19
 in_force: 1984-11-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20200715/de/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20200715-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20200715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 16. November 1983
 
 In Kraft getreten für die Schweiz am 16. November 1984
 
-(Stand am 15. Juli 2020)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1984 1278](https://fedlex.data.admin.ch/eli/oc/1984/1278_1278_1278)
 
@@ -166,7 +166,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 15. Juli 2020[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -181,6 +181,7 @@ Geltungsbereich am 15. Juli 2020[^t-2]
 <tr><td>Benin</td><td>10. Januar</td><td>2012</td><td>10. Januar</td><td>2013</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>26. September</td><td>2014</td><td>26. September</td><td>2015</td></tr>
 <tr><td>Brasilien</td><td>10. Juli</td><td>1992</td><td>10. Juli</td><td>1993</td></tr>
+<tr><td>El Salvador</td><td>7. Juni</td><td>2022</td><td>7. Juni</td><td>2023</td></tr>
 <tr><td>Finnland</td><td>9. Februar</td><td>1983</td><td>9. Februar</td><td>1984</td></tr>
 <tr><td>Gabun</td><td>6. Dezember</td><td>1988</td><td>6. Dezember</td><td>1989</td></tr>
 <tr><td>Griechenland</td><td>17. September</td><td>1996</td><td>17. September</td><td>1997</td></tr>
@@ -221,4 +222,4 @@ Geltungsbereich am 15. Juli 2020[^t-2]
 <tr><td>Zypern</td><td>16. Januar</td><td>1989</td><td>16. Januar</td><td>1990</td></tr>
 </table>
 
-[^t-2]: [AS 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279), [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459), [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626), [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292), [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601), [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244), [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491), [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279); [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459); [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626); [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292); [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601); [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244); [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491); [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611); [2025 279](https://fedlex.data.admin.ch/eli/oc/2025/279). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

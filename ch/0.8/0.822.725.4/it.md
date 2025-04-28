@@ -3,11 +3,11 @@ sr: "0.822.725.4"
 title: Convenzione n. 154 del 19 giugno 1981 concernente la promozione della negoziazione collettiva
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279"
 language: it
-version: 2020-07-15
+version: 2025-04-29
 adopted: 1981-06-19
 in_force: 1984-11-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20200715/it/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20200715-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20200715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Ginevra il 19 giugno 1981 Approvata dall’Assemblea federale il 19 settembre 1983[^t-1] Ratificata con strumento depositato dalla Svizzera il 16 novembre 1983 Entrata in vigore per la Svizzera il 16 novembre 1984
 
-(Stato 15 luglio 2020)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1984 1278](https://fedlex.data.admin.ch/eli/oc/1984/1278_1278_1278)
 
@@ -158,7 +158,7 @@ Ove la Conferenza adottasse una nuova Convenzione che comporti una revisione tot
 
 Le versioni francese e inglese della presente Convenzione fanno egualmente fede.
 
-Campo d’applicazione il 15 luglio 2020[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -176,6 +176,7 @@ Campo d’applicazione il 15 luglio 2020[^t-2]
 <tr><td>Ceca, Repubblica</td><td>6 dicembre</td><td>2017</td><td>6 dicembre</td><td>2018</td></tr>
 <tr><td>Cipro</td><td>16 gennaio</td><td>1989</td><td>16 gennaio</td><td>1990</td></tr>
 <tr><td>Colombia</td><td>8 dicembre</td><td>2000</td><td>8 dicembre</td><td>2001</td></tr>
+<tr><td>El Salvador</td><td>7 giugno</td><td>2022</td><td>7 giugno</td><td>2023</td></tr>
 <tr><td>Finlandia</td><td>9 febbraio</td><td>1983</td><td>9 febbraio</td><td>1984</td></tr>
 <tr><td>Gabon</td><td>6 dicembre</td><td>1988</td><td>6 dicembre</td><td>1989</td></tr>
 <tr><td>Grecia</td><td>17 settembre</td><td>1996</td><td>17 settembre</td><td>1997</td></tr>
@@ -213,4 +214,4 @@ Campo d’applicazione il 15 luglio 2020[^t-2]
 <tr><td>Zambia</td><td>4 febbraio</td><td>1986</td><td>4 febbraio</td><td>1987</td></tr>
 </table>
 
-[^t-2]: [RU 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279), [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459), [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626), [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292), [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601), [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244), [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491), [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279); [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459); [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626); [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292); [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601); [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244); [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491); [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611); [2025 279](https://fedlex.data.admin.ch/eli/oc/2025/279). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

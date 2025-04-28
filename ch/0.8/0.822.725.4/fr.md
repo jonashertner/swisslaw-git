@@ -3,11 +3,11 @@ sr: "0.822.725.4"
 title: "Convention n<sup>o</sup> 154 du 19 juin 1981 concernant la promotion de la négociation collective"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279"
 language: fr
-version: 2020-07-15
+version: 2025-04-29
 adopted: 1981-06-19
 in_force: 1984-11-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20200715/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20200715-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20200715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1279_1279_1279/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1279_1279_1279-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1279_1279_1279/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 16 novembre 1983
 
 Entrée en vigueur pour la Suisse le 16 novembre 1984
 
-(Etat le 15 juillet 2020)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 1984 1278](https://fedlex.data.admin.ch/eli/oc/1984/1278_1278_1278)
 
@@ -166,7 +166,7 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 15 juillet 2020[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -183,6 +183,7 @@ Champ d’application le 15 juillet 2020[^t-2]
 <tr><td>Brésil</td><td>10 juillet</td><td>1992</td><td>10 juillet</td><td>1993</td></tr>
 <tr><td>Chypre</td><td>16 janvier</td><td>1989</td><td>16 janvier</td><td>1990</td></tr>
 <tr><td>Colombie</td><td>8 décembre</td><td>2000</td><td>8 décembre</td><td>2001</td></tr>
+<tr><td>El Salvador</td><td>7 juin</td><td>2022</td><td>7 juin</td><td>2023</td></tr>
 <tr><td>Espagne</td><td>11 septembre</td><td>1985</td><td>11 septembre</td><td>1986</td></tr>
 <tr><td>Finlande</td><td>9 février</td><td>1983</td><td>9 février</td><td>1984</td></tr>
 <tr><td>Gabon</td><td>6 décembre</td><td>1988</td><td>6 décembre</td><td>1989</td></tr>
@@ -221,4 +222,4 @@ Champ d’application le 15 juillet 2020[^t-2]
 <tr><td>Zambie</td><td>4 février</td><td>1986</td><td>4 février</td><td>1987</td></tr>
 </table>
 
-[^t-2]: [RO 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279), [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459), [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626), [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292), [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601), [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244). [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491), [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1984 1279](https://fedlex.data.admin.ch/eli/oc/1984/1279_1279_1279); [1987 1459](https://fedlex.data.admin.ch/eli/oc/1987/1459_1459_1459); [1991 626](https://fedlex.data.admin.ch/eli/oc/1991/626_626_626); [2005 1777](https://fedlex.data.admin.ch/eli/oc/2005/292); [2008 4213](https://fedlex.data.admin.ch/eli/oc/2008/601); [2013 1089](https://fedlex.data.admin.ch/eli/oc/2013/244); [2017 4087](https://fedlex.data.admin.ch/eli/oc/2017/491); [2020 3495](https://fedlex.data.admin.ch/eli/oc/2020/611); [2025 279](https://fedlex.data.admin.ch/eli/oc/2025/279). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
