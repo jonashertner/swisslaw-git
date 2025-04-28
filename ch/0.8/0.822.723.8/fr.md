@@ -3,11 +3,11 @@ sr: "0.822.723.8"
 title: "Convention n<sup>o</sup> 138 du 26 juin 1973 concernant l'âge minimum d'admission à l'emploi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/204"
 language: fr
-version: 2023-09-07
+version: 2025-04-29
 adopted: 1973-06-26
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20230907/fr/xml/fedlex-data-admin-ch-eli-cc-2001-204-20230907-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20230907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-2001-204-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 26 juin 1973 Approuvée par l’Assemblée fédérale le 18 mars 1999[^t-1] Instrument de ratification déposé par la Suisse le 17 août 1999[^t-2] Entrée en vigueur pour la Suisse le 17 août 2000[^t-3]
 
-(État le 7 septembre 2023)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 2001 1426](https://fedlex.data.admin.ch/eli/oc/2001/203)
 [^t-2]: Lors de la ratification, la Suisse a dénoncé les Conv. OIT suivantes, avec effet au 17 août 2000: Conv. n<sup>o</sup> 58 (révisée) sur l’âge minimum (travail maritime) du 24 oct. 1936 [[RO 1960 508](https://fedlex.data.admin.ch/eli/oc/1960/473_508_494), [1962 1403](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411)[1404](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1] Conv. n<sup>o</sup> 123 sur l’âge minimum (travaux souterrains) du 22 juin 1965 [[RO 1968 175](https://fedlex.data.admin.ch/eli/oc/1968/166_175_175)]
@@ -218,10 +218,10 @@ Les versions française et anglaise du texte de la présente Convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 7 septembre 2023[^t-4]
+Champ d’application le 29 avril 2025[^t-4]
 
 <table>
-<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan <sup>a</sup></td><td>7 avril</td><td>2010</td><td>7 avril</td><td colspan="2">2011</td></tr>
 <tr><td>Afrique du Sud <sup>b</sup></td><td>30 mars</td><td>2000</td><td>30 mars</td><td colspan="2">2001</td></tr>
 <tr><td>Albanie <sup>c</sup></td><td>16 février</td><td>1998</td><td>16 février</td><td colspan="2">1999</td></tr>
@@ -233,6 +233,8 @@ Champ d’application le 7 septembre 2023[^t-4]
 <tr><td>Argentine <sup>c</sup></td><td>11 novembre</td><td>1996</td><td>11 novembre</td><td colspan="2">1997</td></tr>
 <tr><td>Arménie <sup>c</sup></td><td>27 janvier</td><td>2006</td><td>27 janvier</td><td colspan="2">2007</td></tr>
 <tr><td>Autriche <sup>b</sup></td><td>18 septembre</td><td>2000</td><td>18 septembre</td><td colspan="2">2001</td></tr>
+<tr><td>Australie</td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>États australiens et Territoires continentaux australiens</td><td>13 juin</td><td>2023</td><td>13 juin</td><td colspan="2">2024</td></tr>
 <tr><td>Azerbaïdjan <sup>c</sup></td><td>19 mai</td><td>1992</td><td>19 mai</td><td colspan="2">1993</td></tr>
 <tr><td>Bahamas <sup>a</sup></td><td>31 octobre</td><td>2001</td><td>31 octobre</td><td colspan="2">2002</td></tr>
 <tr><td>Bahreïn <sup>b</sup></td><td>7 mars</td><td>2012</td><td>7 mars</td><td>2013</td></tr>
@@ -252,6 +254,7 @@ Champ d’application le 7 septembre 2023[^t-4]
 <tr><td>Burundi <sup>c</sup></td><td>19 juillet</td><td>2000</td><td>19 juillet</td><td colspan="2">2001</td></tr>
 <tr><td>Cambodge <sup>a</sup></td><td>23 août</td><td>1999</td><td>23 août</td><td colspan="2">2000</td></tr>
 <tr><td>Cameroun <sup>a</sup></td><td>13 août</td><td>2001</td><td>13 août</td><td colspan="2">2002</td></tr>
+<tr><td>Canada</td><td>8 juin</td><td>2016</td><td>8 juin</td><td colspan="2">2017</td></tr>
 <tr><td>Cap-Vert <sup>b</sup></td><td>7 février</td><td>2011</td><td>7 février</td><td colspan="2">2012</td></tr>
 <tr><td>Chili <sup>b</sup></td><td>1<sup>er</sup> février</td><td>1999</td><td>1<sup>er</sup> février</td><td colspan="2">2000</td></tr>
 <tr><td>Chine\* <sup>c</sup></td><td>28 avril</td><td>1999</td><td>28 avril</td><td colspan="2">2000</td></tr>
@@ -316,6 +319,7 @@ Champ d’application le 7 septembre 2023[^t-4]
 <tr><td>Lesotho <sup>b</sup></td><td>14 juin</td><td>2001</td><td>14 juin</td><td colspan="2">2002</td></tr>
 <tr><td>Lettonie <sup>b</sup></td><td>2 juin</td><td>2006</td><td>2 juin</td><td colspan="2">2007</td></tr>
 <tr><td>Liban <sup>a</sup></td><td>10 juin</td><td>2003</td><td>10 juin</td><td colspan="2">2004</td></tr>
+<tr><td>Libéria</td><td>13 juin</td><td>2022</td><td>13 juin</td><td colspan="2">2023</td></tr>
 <tr><td>Libye <sup>b</sup></td><td>19 juin</td><td>1975</td><td>19 juin</td><td colspan="2">1976</td></tr>
 <tr><td>Lituanie <sup>c</sup></td><td>22 juin</td><td>1998</td><td>22 juin</td><td colspan="2">1999</td></tr>
 <tr><td>Luxembourg <sup>b</sup></td><td>24 mars</td><td>1977</td><td>24 mars</td><td colspan="2">1978</td></tr>
@@ -392,6 +396,7 @@ Champ d’application le 7 septembre 2023[^t-4]
 <tr><td>Turquie <sup>b</sup></td><td>30 octobre</td><td>1998</td><td>30 octobre</td><td colspan="2">1999</td></tr>
 <tr><td>Ukraine <sup>c</sup></td><td>3 mai</td><td>1979</td><td>3 mai</td><td colspan="2">1980</td></tr>
 <tr><td>Uruguay <sup>b</sup></td><td>2 juin</td><td>1977</td><td>2 juin</td><td colspan="2">1978</td></tr>
+<tr><td>Vanuatu</td><td>24 juin</td><td>2019</td><td>24 juin</td><td colspan="2">2020</td></tr>
 <tr><td>Venezuela <sup>a</sup></td><td>15 juillet</td><td>1987</td><td>15 juillet</td><td colspan="2">1988</td></tr>
 <tr><td>Vietnam <sup>b</sup></td><td>24 juin</td><td>2003</td><td>24 juin</td><td colspan="2">2004</td></tr>
 <tr><td>Yémen <sup>a</sup></td><td>15 juin</td><td>2000</td><td>15 juin</td><td colspan="2">2001</td></tr>
@@ -400,7 +405,7 @@ Champ d’application le 7 septembre 2023[^t-4]
 <tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 14 ans. <sup>b</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 15 ans. <sup>c</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 16 ans. <sup>d</sup> Applicable avec modification. <sup>e</sup> Applicable sans modification. <sup>f</sup> Non applicable aux îles Féroé et à Groenland.</td></tr>
 </table>
 
-[^t-4]: [RO 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-4]: [RO 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500); [2025 306](https://fedlex.data.admin.ch/eli/oc/2025/306). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

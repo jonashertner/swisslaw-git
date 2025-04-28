@@ -3,11 +3,11 @@ sr: "0.822.723.8"
 title: "Convenzione n. 138 del 26 giugno 1973 concernente l'età minima di ammissione all'impiego"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/204"
 language: it
-version: 2023-09-07
+version: 2025-04-29
 adopted: 1973-06-26
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20230907/it/xml/fedlex-data-admin-ch-eli-cc-2001-204-20230907-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20230907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20250429/it/xml/fedlex-data-admin-ch-eli-cc-2001-204-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 26 giugno 1973 Approvata dall’Assemblea federale il 18 marzo 1999 [^t-1] Ratificata con strumenti depositati dalla Svizzera il 17 agosto 1999 [^t-2] Entrata in vigore per la Svizzera il 17 agosto 2000 [^t-3]
 
-(Stato 7 settembre 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 2001 1426](https://fedlex.data.admin.ch/eli/oc/2001/203)
 [^t-2]: In occasione della ratifica, la Svizzera ha denunciato le seguenti Conv. dell’OIL con effetto al 17 ago. 2000: Conv. n. 58 del 24 ott. 1936 che determina l’età minima per l’ammissione dei fanciulli al lavoro marittimo [RU **1960** 494; **1962** 1411, 1413 art. 1]. Conv. n. 123 del 22 giu. 1965 sull’età minima di ammissione ai lavori sotterranei nelle miniere [RU **1968** 175].
@@ -218,7 +218,7 @@ Le versioni francese e inglese del testo della presente Convenzione fanno parime
 
 (Seguono le firme)
 
-Campo d’applicazione il 7 settembre 2023[^t-4]
+Campo d’applicazione il 29 aprile 2025[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -230,6 +230,8 @@ Campo d’applicazione il 7 settembre 2023[^t-4]
 <tr><td>Arabia Saudita <sup>c</sup></td><td>2 aprile</td><td>2014</td><td>2 aprile</td><td>2015</td></tr>
 <tr><td>Argentina <sup>b</sup></td><td>11 novembre</td><td>1996</td><td>11 novembre</td><td>1997</td></tr>
 <tr><td>Armenia <sup>b</sup></td><td>27 gennaio</td><td>2006</td><td>27 gennaio</td><td>2007</td></tr>
+<tr><td>Australia</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Stati australiani e territori continentali australiani</td><td>13 giugno</td><td>2023</td><td>13 giugno</td><td>2024</td></tr>
 <tr><td>Austria <sup>c</sup></td><td>18 settembre</td><td>2000</td><td>18 settembre</td><td>2001</td></tr>
 <tr><td>Azerbaigian <sup>b</sup></td><td>19 maggio</td><td>1992</td><td>19 maggio</td><td>1993</td></tr>
 <tr><td>Bahamas <sup>a</sup></td><td>31 ottobre</td><td>2001</td><td>31 ottobre</td><td>2002</td></tr>
@@ -250,6 +252,7 @@ Campo d’applicazione il 7 settembre 2023[^t-4]
 <tr><td>Burundi <sup>b</sup></td><td>19 luglio</td><td>2000</td><td>19 luglio</td><td>2001</td></tr>
 <tr><td>Cambogia <sup>a</sup></td><td>23 agosto</td><td>1999</td><td>23 agosto</td><td>2000</td></tr>
 <tr><td>Camerun <sup>a</sup></td><td>13 agosto</td><td>2001</td><td>13 agosto</td><td>2002</td></tr>
+<tr><td>Canada</td><td>8 giugno</td><td>2016</td><td>8 giugno</td><td>2017</td></tr>
 <tr><td>Capo Verde <sup>c</sup></td><td>7 febbraio</td><td>2011</td><td>7 febbraio</td><td>2012</td></tr>
 <tr><td>Ceca, Repubblica <sup>c</sup></td><td>26 aprile</td><td>2007</td><td>26 aprile</td><td>2008</td></tr>
 <tr><td>Ciad <sup>a</sup></td><td>21 marzo</td><td>2005</td><td>21 marzo</td><td>2006</td></tr>
@@ -316,6 +319,7 @@ Campo d’applicazione il 7 settembre 2023[^t-4]
 <tr><td>Lesotho <sup>c</sup></td><td>14 giugno</td><td>2001</td><td>14 giugno</td><td>2002</td></tr>
 <tr><td>Lettonia <sup>c</sup></td><td>2 giugno</td><td>2006</td><td>2 giugno</td><td>2007</td></tr>
 <tr><td>Libano <sup>a</sup></td><td>10 giugno</td><td>2003</td><td>10 giugno</td><td>2004</td></tr>
+<tr><td>Liberia</td><td>13 giugno</td><td>2022</td><td>13 giugno</td><td>2023</td></tr>
 <tr><td>Libia <sup>c</sup></td><td>19 giugno</td><td>1975</td><td>19 giugno</td><td>1976</td></tr>
 <tr><td>Lituania <sup>b</sup></td><td>22 giugno</td><td>1998</td><td>22 giugno</td><td>1999</td></tr>
 <tr><td>Lussemburgo <sup>c</sup></td><td>24 marzo</td><td>1977</td><td>24 marzo</td><td>1978</td></tr>
@@ -392,6 +396,7 @@ Campo d’applicazione il 7 settembre 2023[^t-4]
 <tr><td>Ungheria <sup>b</sup></td><td>28 maggio</td><td>1998</td><td>28 maggio</td><td>1999</td></tr>
 <tr><td>Uruguay <sup>c</sup></td><td>2 giugno</td><td>1977</td><td>2 giugno</td><td>1978</td></tr>
 <tr><td>Uzbekistan <sup>c</sup></td><td>6 marzo</td><td>2009</td><td>6 marzo</td><td>2009</td></tr>
+<tr><td>Vanuatu</td><td>24 giugno</td><td>2019</td><td>24 giugno</td><td>2020</td></tr>
 <tr><td>Venezuela <sup>a</sup></td><td>15 luglio</td><td>1987</td><td>15 luglio</td><td>1988</td></tr>
 <tr><td>Vietnam <sup>c</sup></td><td>24 giugno</td><td>2003</td><td>24 giugno</td><td>2004</td></tr>
 <tr><td>Yemen <sup>a</sup></td><td>15 giugno</td><td>2000</td><td>15 giugno</td><td>2001</td></tr>
@@ -406,7 +411,7 @@ Campo d’applicazione il 7 settembre 2023[^t-4]
 <tr><td colspan="6"><sup>f</sup> Non si applica alle Isole Faeröer né alla Groenlandia.</td></tr>
 </table>
 
-[^t-4]: [RU 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-4]: [RU 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500); [2025 306](https://fedlex.data.admin.ch/eli/oc/2025/306). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
