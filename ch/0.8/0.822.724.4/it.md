@@ -3,11 +3,11 @@ sr: "0.822.724.4"
 title: "Convenzione n. 144 del 21 giugno 1976 concernente le consultazioni tripartite destinate a promuovere l'attuazione di norme internazionali del lavoro"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/253"
 language: it
-version: 2024-10-10
+version: 2025-04-29
 adopted: 1976-06-21
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20241010/it/xml/fedlex-data-admin-ch-eli-cc-2003-253-20241010-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20241010/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20250429/it/xml/fedlex-data-admin-ch-eli-cc-2003-253-20250429-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 21 giugno 1976 Approvata dall’Assemblea federale il 9 marzo 2000[^t-1] Ratificata dalla Svizzera con strumenti scambiati il 28 giugno 2000 Entrata in vigore per la Svizzera il 28 giugno 2001
 
-(Stato 10 ottobre 2024)
+(Stato 29 aprile 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 9 mar. 2000 ([RU 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167)).
 
@@ -132,7 +132,7 @@ I testi francese e inglese della presente Convenzione fanno parimenti fede.
 
 (Seguono le firme)
 
-Campo d’applicazione il 10 ottobre 2024[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -173,6 +173,7 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Comore</td><td>6 giugno</td><td>2014</td><td>6 giugno</td><td>2015</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 novembre</td><td>1999</td><td>26 novembre</td><td>2000</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 giugno</td><td>2001</td><td>20 giugno</td><td>2002</td></tr>
+<tr><td>Cook, Isole</td><td>15 agosto</td><td>2018</td><td>15 agosto</td><td>2019</td></tr>
 <tr><td>Corea (Sud)</td><td>15 novembre</td><td>1999</td><td>15 novembre</td><td>2000</td></tr>
 <tr><td>Costa Rica</td><td>29 luglio</td><td>1981</td><td>29 luglio</td><td>1982</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5 giugno</td><td>1987</td><td>5 giugno</td><td>1988</td></tr>
@@ -221,12 +222,14 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Kazakstan</td><td>13 dicembre</td><td>2000</td><td>13 dicembre</td><td>2001</td></tr>
 <tr><td>Kenya</td><td>6 giugno</td><td>1990</td><td>6 giugno</td><td>1991</td></tr>
 <tr><td>Kirghizistan</td><td>12 gennaio</td><td>2007</td><td>12 gennaio</td><td>2008</td></tr>
+<tr><td>Kiribati</td><td>25 giugno</td><td>2019</td><td>25 giugno</td><td>2020</td></tr>
 <tr><td>Kuwait</td><td>15 agosto</td><td>2000</td><td>15 agosto</td><td>2001</td></tr>
 <tr><td>Laos</td><td>29 ottobre</td><td>2010</td><td>29 ottobre</td><td>2011</td></tr>
 <tr><td>Lesotho</td><td>27 gennaio</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
 <tr><td>Lettonia</td><td>25 luglio</td><td>1994</td><td>25 luglio</td><td>1995</td></tr>
 <tr><td>Liberia</td><td>25 marzo</td><td>2003</td><td>25 marzo</td><td>2004</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
+<tr><td>Lussemburgo</td><td>18 marzo</td><td>2021</td><td>18 marzo</td><td>2022</td></tr>
 <tr><td>Macedonia del Nord</td><td>8 dicembre</td><td>2005</td><td>8 dicembre</td><td>2006</td></tr>
 <tr><td>Madagascar</td><td>22 aprile</td><td>1997</td><td>22 aprile</td><td>1998</td></tr>
 <tr><td>Malawi</td><td>1° ottobre</td><td>1986</td><td>1° ottobre</td><td>1987</td></tr>
@@ -248,11 +251,11 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Nigeria</td><td>3 maggio</td><td>1994</td><td>3 maggio</td><td>1995</td></tr>
 <tr><td>Norvegia</td><td>9 agosto</td><td>1977</td><td>9 agosto</td><td>1978</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>5 giugno</td><td>1987</td><td>5 giugno</td><td>1988</td></tr>
-<tr><td>Cook, Isole</td><td>15 agosto</td><td>2018</td><td>15 agosto</td><td>2019</td></tr>
 <tr><td>Paesi Bassi</td><td>27 luglio</td><td>1978</td><td>27 luglio</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>6 agosto</td><td>1986</td><td>6 agosto</td><td>1986</td></tr>
 <tr><td>Pakistan</td><td>25 ottobre</td><td>1994</td><td>25 ottobre</td><td>1995</td></tr>
 <tr><td>Panama</td><td>11 giugno</td><td>2015</td><td>11 giugno</td><td>2016</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>27 settembre</td><td>2023</td><td>27 settembre</td><td>2024</td></tr>
 <tr><td>Perù</td><td>8 novembre</td><td>2004</td><td>8 novembre</td><td>2005</td></tr>
 <tr><td>Polonia</td><td>15 marzo</td><td>1993</td><td>15 marzo</td><td>1994</td></tr>
 <tr><td>Portogallo</td><td>9 gennaio</td><td>1981</td><td>9 gennaio</td><td>1982</td></tr>
@@ -274,6 +277,7 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Siria</td><td>28 maggio</td><td>1985</td><td>28 maggio</td><td>1986</td></tr>
 <tr><td>Slovacchia</td><td>10 febbraio</td><td>1997</td><td>10 febbraio</td><td>1998</td></tr>
 <tr><td>Slovenia</td><td>29 giugno</td><td>2011</td><td>29 giugno</td><td>2012</td></tr>
+<tr><td>Somalia</td><td>8 marzo</td><td>2021</td><td>8 marzo</td><td>2022</td></tr>
 <tr><td>Spagna</td><td>13 febbraio</td><td>1984</td><td>13 febbraio</td><td>1985</td></tr>
 <tr><td>Sri Lanka</td><td>17 marzo</td><td>1994</td><td>17 marzo</td><td>1995</td></tr>
 <tr><td>Stati Uniti</td><td>15 giugno</td><td>1988</td><td>15 giugno</td><td>1989</td></tr>
@@ -310,4 +314,4 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td colspan="5"><sup>b</sup> Applicabile senza mod.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253); [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576); [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14); [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506); [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75); [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515); [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479); [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645); [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706); [2024 562](https://fedlex.data.admin.ch/eli/oc/2024/562). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253); [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576); [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14); [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506); [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75); [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515); [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479); [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645); [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706); [2024 562](https://fedlex.data.admin.ch/eli/oc/2024/562); [2025 289](https://fedlex.data.admin.ch/eli/oc/2025/289). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
