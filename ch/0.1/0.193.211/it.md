@@ -3,28 +3,27 @@ sr: "0.193.211"
 title: Convenzione del 29 luglio 1899 per il regolamento pacifico dei conflitti internazionali (con Atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/18/517_433_502"
 language: it
-version: 2015-10-29
+version: 2025-04-29
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20151029/it/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20151029-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20151029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20250429/it/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione per il regolamento pacifico dei conflitti internazionali****
+# Convenzione per il regolamento pacifico dei conflitti internazionali
 
 CS **11** 179; FF **1900** III 1 ediz. ted. 73 ediz. franc.[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conchiusa il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900 Entrata in vigore per la Svizzera il 29 dicembre 1900
+Conchiusa il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900 Entrata in vigore per la Svizzera il 29 dicembre 1900
 
-(Stato 29 ottobre 2015)
+(Stato 29 aprile 2025)
 
 [^t-1]: Per la Svizzera la presente Conv. è ancora applicabile solo nei rapporti con gli Stati contraenti che non hanno aderito alla conv. del 18 ott. 1907 ([RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)art. 91). Vedi l’elenco degli Stati partecipanti qui appresso.
-[^t-2]: Dal testo originale francese.
-[^t-3]: N. I 1 del DF dei 10 dic. 1900 (RU **18** 433).
+[^t-2]: N. I 1 del DF dei 10 dic. 1900 (RU **18** 433).
 
 Sua Maestà l’Imperatore di Germania, Re di Prussia; Sua Maestà l’Imperatore d’Austria, Re di Boemia, ecc. e Re Apostolico di Ungheria; Sua Maestà il Re dei Belgi; Sua Maestà l’Imperatore della Cina; Sua Maestà il Re di Danimarca; in nome di Sua Maestà il Re di Spagna Sua Maestà la Regina Reggente del Regno; il Presidente degli Stati Uniti d’America; il Presidente degli Stati Uniti Messicani; il Presidente della Repubblica Francese; Sua Maestà la Regina del Regno Unito di Gran Bretagna e d’Irlanda, Imperatrice delle Indie; Sua Maestà il Re degli Elleni; Sua Maestà il Re d’Italia; Sua Maestà l’Imperatore del Giappone; Sua Altezza Reale il Granduca di Lussemburgo, Duca di Nassau; Sua Altezza il Principe di Montenegro; Sua Maestà la Regina dei Paesi Bassi. Sua Maestà Imperiale lo Scià di Persia; Sua Maestà il Re del Portogallo e degli Algarvi, ecc.; Sua Maestà il Re di Romania; Sua Maestà l’Imperatore di Tutte le Russie; Sua Maestà il Re di Serbia; Sua Maestà il Re del Siam; Sua Maestà il Re di Svezia e di Norvegia; il Consiglio Federale Svizzero; Sua Maestà l’Imperatore degli Ottomani e Sua Altezza Reale il Principe di Bulgaria,
 
@@ -432,11 +431,12 @@ Questa denuncia non produrrà i suoi effetti che per la Potenza che l’avrà no
 
 *In fede di che,* i Plenipotenziari hanno firmato la presente Convenzione e l’hanno munita dei loro sigilli. Fatto all’Aja, il ventinove luglio milleottocentonovantanove, in un solo esemplare che resterà depositato nell’Archivio del Governo dei Paesi Bassi e di cui delle copie, autenticate conformi, saranno inviate in via diplomatica alle Potenze contraenti. (Seguono le firme)
 
-Campo d’applicazione il 29 ottobre 2015**[^t-4]**
+Campo d’applicazione il 29 aprile 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Argentina</td><td>15 giugno</td><td>1907 A</td><td>15 giugno</td><td>1907</td></tr>
+<tr><td>Armenia</td><td>23 aprile</td><td>2025 A</td><td>23 aprile</td><td>2025</td></tr>
 <tr><td>Australia</td><td>1° aprile</td><td>1960 A</td><td>1° aprile</td><td>1960</td></tr>
 <tr><td>Austria</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Belarus</td><td>4 giugno</td><td>1962 A</td><td>4 giugno</td><td>1962</td></tr>
@@ -476,7 +476,7 @@ Campo d’applicazione il 29 ottobre 2015**[^t-4]**
 <tr><td>Laos</td><td>18 luglio</td><td>1955 A</td><td>18 luglio</td><td>1955</td></tr>
 <tr><td>Libano</td><td>14 febbraio</td><td>1968 A</td><td>14 febbraio</td><td>1968</td></tr>
 <tr><td>Lussemburgo</td><td>12 luglio</td><td>1901</td><td>12 luglio</td><td>1901</td></tr>
-<tr><td>Macedonia</td><td>19 dicembre</td><td>2000</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>19 dicembre</td><td>2000</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Maurizio</td><td>3 agosto</td><td>1970 S</td><td>12 marzo</td><td>1968</td></tr>
 <tr><td>Messico</td><td>17 aprile</td><td>1901</td><td>17 aprile</td><td>1901</td></tr>
 <tr><td>Montenegro</td><td>1° marzo</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
@@ -512,46 +512,10 @@ Campo d’applicazione il 29 ottobre 2015**[^t-4]**
 <tr><td>Venezuela</td><td>15 giugno</td><td>1907 A</td><td>15 giugno</td><td>1907</td></tr>
 <tr><td>Vietnam</td><td>29 dicembre</td><td>2011 A</td><td>29 dicembre</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>19 settembre</td><td>1984 S</td><td>18 aprile</td><td>1980</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni, vedi qui appresso.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, in inglese, possono essere consultati sul sito Internet del Depositario, del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/002330](https://treatydatabase.overheid.nl/en/Treaty/Details/002330) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-4]: [RU 1971 1811](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811), [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472), [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259), [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370), [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88)[2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388)e [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-
-Riserve e dichiarazioni
-
-## Romania
-
-«Il governo reale di Romania, che ha fatto suo il principio dell’arbitrato facoltativo, di cui apprezza tutta l’importanza nelle relazioni internazionali, non intende tuttavia impegnarsi, approvando l’articolo 15[^declu2-lvlu1-1], ad accettare l’arbitrato in tutti i casi previsti ed esprime dunque le sue formali riserve a questo proposito.
-
-Esso può per conseguenza approvare l’articolo 15[^declu2-lvlu1-2] soltanto con questa riserva».
-
-«Il Governo Reale di Romania dichiara che può aderire all’articolo 16[^declu2-lvlu1-3] Soltanto con la riserva espressa, iscritta a protocollo, che è deciso a non accettare in nessun caso un arbitrato internazionale per le contestazioni o i litigi anteriori alla conclusione della presente Convenzione».
-
-«Il Governo Reale di Romania a dichiara che, approvando l’articolo 18[^declu2-lvlu1-4] della Convenzione, non intende assumere nessun impegno in materia di arbitrato obbligatorio».
-
-[^declu2-lvlu1-1]: Trattasi dell’art. 15 del progetto, divenuto l’art. 16 del testo definitivo.
-[^declu2-lvlu1-2]: Trattasi dell’art. 15 del progetto, divenuto l’art. 16 del testo definitivo.
-[^declu2-lvlu1-3]: Trattasi dell’art. 16 del progetto, divenuto l’art. 17 dei testo definitivo.
-[^declu2-lvlu1-4]: Trattasi dell’art. 18 del progetto, divenuto l’art. 19 del testo definitivo.
-
-## Serbia
-
-«In nome del governo reale di Serbia, abbiamo l’onore di dichiarare che, accogliendo il principio dei buoni uffici e della mediazione, intendiamo riconoscere il diritto degli Stati terzi di ricorrere a queste procedure solo con tutte le riserve richieste dalla natura delicata di tali passi.
-
-Ammetteremo i buoni uffici e la mediazione alla sola condizione che il carattere di consiglio puramente amichevole sia pienamente e integralmente conservato e non potremo mai accettarli in forme e in circostanze capaci di farli apparire come un intervento».
-
-## Stati Uniti
-
-«Nessuna disposizione contenuta in questa Convenzione può essere interpretata in modo che gli Stati Uniti siano obbligati a modificare la loro politica tradizionale, in virtù della quale si astengono da qualsiasi intervento, ingerenza o interferenza nelle questioni politiche, nella politica o nell’amministrazione interna degli Stati esteri. Rimane parimente inteso che nessuna disposizione contenuta nella Convenzione può essere interpretata nel senso che gli Stati Uniti d’America debbano abbandonare il loro tradizionale atteggiamento rispetto alle questioni puramente americane».
-
-## Turchia
-
-«La Delegazione turca, considerato come il lavoro della Conferenza sia stato un’opera di alta lealtà e di umanità, destinata unicamente a rafforzare la pace generale salvaguardando gli interessi e i diritti di ciascuno, dichiara in nome del suo Governo, di approvare il progetto adottato nel suo insieme, alle seguenti condizioni:
-
-- 1\. è formalmente inteso che i buoni uffici, la mediazione, le commissioni d’inchiesta e l’arbitrato avranno carattere puramente facoltativo e in nessun caso potranno assumere carattere obbligatorio o d’intervento;
-- 2\. il Governo Imperiale giudicherà esso stesso in quali casi i suoi interessi gli permettano di ammettere tali procedure, senza che la sua astensione o il suo rifiuto di ricorrervi possano essere considerati da parte degli Stati firmatari come un gesto poco amichevole.
-
-È evidente che in nessun caso le procedure di cui si tratta potranno essere applicate a questioni di natura interna».
+[^t-3]: [RU 1971 1811](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811); [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472); [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259); [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370); [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88); [2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388); [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740); [2025 271](https://fedlex.data.admin.ch/eli/oc/2025/271). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Atto finale della Conferenza internazionale per la Pace
 
@@ -565,16 +529,16 @@ Le Potenze, di cui segue l’enumerazione, hanno preso parte alla Conferenza, pe
 
 In una serie di riunioni tenute dal 18 maggio al 29 luglio 1899, nelle quali i delegati delle Potenze sono stati costantemente animati dal desiderio di realizzare, nella più larga misura possibile, le vedute generose dell’Augusto Iniziatore della Conferenza e le intenzioni dei loro Governi, la Conferenza ha stabilito, per essere sottoposto alla firma dei plenipotenziari il testo delle Convenzioni e delle Dichiarazioni enumerate qui appresso e allegate al presente Atto:
 
-- I. Convenzione per il regolamento pacifico dei conflitti internazionali[^t-5].
-- II. Convenzione concernente le leggi e costumi della guerra per terra[^t-6].
-- III. Convenzione per l’applicazione alla guerra marittima dei principi della Convenzione di Ginevra del 22 agosto 1864[^t-7]
+- I. Convenzione per il regolamento pacifico dei conflitti internazionali[^t-4].
+- II. Convenzione concernente le leggi e costumi della guerra per terra[^t-5].
+- III. Convenzione per l’applicazione alla guerra marittima dei principi della Convenzione di Ginevra del 22 agosto 1864[^t-6]
 - IV.
 
   Tre Dichiarazioni concernenti:
 
-  - 1\. la proibizione di lanciare proiettili ed esplodenti dall’alto dei palloni o con altri nuovi mezzi analoghi[^t-8];
-  - 2\. la proibizione dell’uso di proiettili che abbiano per fine unico di spandere dei gas asfissianti o deleteri[^t-9];
-  - 3\. la proibizione dell’uso di palle, che si dilatano o si schiacciano facilmente nel corpo umano[^t-10], come le palle a involucro duro, il quale non copra del tutto il nocciolo, o sia inciso.
+  - 1\. la proibizione di lanciare proiettili ed esplodenti dall’alto dei palloni o con altri nuovi mezzi analoghi[^t-7];
+  - 2\. la proibizione dell’uso di proiettili che abbiano per fine unico di spandere dei gas asfissianti o deleteri[^t-8];
+  - 3\. la proibizione dell’uso di palle, che si dilatano o si schiacciano facilmente nel corpo umano[^t-9], come le palle a involucro duro, il quale non copra del tutto il nocciolo, o sia inciso.
 
 Queste Convenzioni e Dichiarazioni formeranno altrettanti atti separati. Questi atti avranno la data d’oggi e potranno essere firmati fino al 31 dicembre 1899 dai plenipotenziari delle Potenze rappresentate alla Conferenza Internazionale per la Pace all’Aja.
 
@@ -602,9 +566,9 @@ Fatto all’Aja il ventinove luglio milleottocentonovantanove in un solo esempla
 
 (Seguono le firme)
 
-[^t-5]: Vedi qui avanti.
-[^t-6]: [RS 0.515.111](https://fedlex.data.admin.ch/eli/cc/23/261_225_251)
-[^t-7]: [CS **11** 489]
-[^t-8]: [RU **18** 523]
-[^t-9]: [RS 0.515.102](https://fedlex.data.admin.ch/eli/cc/18/542_472_524)
-[^t-10]: [RS 0.515.103](https://fedlex.data.admin.ch/eli/cc/18/544_476_525)
+[^t-4]: Vedi qui avanti.
+[^t-5]: [RS 0.515.111](https://fedlex.data.admin.ch/eli/cc/23/261_225_251)
+[^t-6]: [CS **11** 489]
+[^t-7]: [RU **18** 523]
+[^t-8]: [RS 0.515.102](https://fedlex.data.admin.ch/eli/cc/18/542_472_524)
+[^t-9]: [RS 0.515.103](https://fedlex.data.admin.ch/eli/cc/18/544_476_525)

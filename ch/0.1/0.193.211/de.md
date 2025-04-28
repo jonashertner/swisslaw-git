@@ -3,28 +3,27 @@ sr: "0.193.211"
 title: Konvention vom 29. Juli 1899 für die friedliche Regelung internationaler Streitigkeiten (mit Schlussprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/18/517_433_502"
 language: de
-version: 2015-10-29
+version: 2025-04-29
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20151029/de/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20151029-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20151029/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20250429/de/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Konvention für die friedliche Regelung internationaler Streitigkeiten****
+# Konvention für die friedliche Regelung internationaler Streitigkeiten
 
 BS **11** 189; BBl **1900** III 1[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen im Haag am 29. Juli 1899 Von der Bundesversammlung genehmigt am 10. Dezember 1900[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 29. Dezember 1900 In Kraft getreten für die Schweiz am 29. Dezember 1900
+Abgeschlossen im Haag am 29. Juli 1899 Von der Bundesversammlung genehmigt am 10. Dezember 1900[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 29. Dezember 1900 In Kraft getreten für die Schweiz am 29. Dezember 1900
 
-(Stand am 29. Oktober 2015)
+(Stand am 29. April 2025)
 
 [^t-1]: Dieses Abkommen gilt für die Schweiz nur noch für die Beziehungen zu jenen Vertragsmächten, die dem Abk. vom 18. Okt. 1907 zur friedlichen Erledigung internationaler Streitfälle ([SR 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)Art. 91) nicht angehören. Siehe die Liste der Vertragsstaaten am Schluss der vorliegenden Konvention.
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: Ziff. I 1 des BB vom 10. Dez. 1900 (AS **18** 448)
+[^t-2]: Ziff. I 1 des BB vom 10. Dez. 1900 (AS **18** 448)
 
 Seine Majestät der Kaiser von Deutschland, König von Preussen; Seine Majestät der Kaiser von Österreich, König von Böhmen usw. und Apostolischer König von Ungarn; Seine Majestät der König der Belgier; Seine Majestät der Kaiser von China; Seine Majestät der König von Dänemark; Seine Majestät der König von Spanien und in Seinem Namen Ihre Majestät die Königin-Regentin des König- reiches; der Präsident der Vereinigten Staaten von Amerika; der Präsident der Vereinigten Staaten von Mexiko; der Präsident der Französischen Republik; Ihre Majestät die Königin des Vereinigten Königreichs von Grossbritannien und Irland, Kaiserin von Indien; Seine Majestät der König der Hellenen; Seine Majestät der König von Italien; Seine Majestät der Kaiser von Japan; Seine Königliche Hoheit der Grossherzog von Luxemburg, Herzog zu Nassau; Seine Hoheit der Fürst von Montenegro; Ihre Majestät die Königin der Niederlande; Seine Kaiserliche Majestät der Schah von Persien; Seine Majestät der König von Portugal und Algarbien usw.; Seine Majestät der König von Rumänien; Seine Majestät der Kaiser aller Reussen; Seine Majestät der König von Serbien; Seine Majestät der König von Siam; Seine Majestät der König von Schweden und Norwegen; der Schweizerische Bundesrat; Seine Majestät der Kaiser der Osmanen und Seine Königliche Hoheit der Fürst von Bulgarien,
 
@@ -426,11 +425,12 @@ Diese Kündigung wird ihre Wirkung nur gegenüber derjenigen Macht äussern, von
 
 *Zu Urkund dessen* haben die Bevollmächtigten die gegenwärtige Konvention unterzeichnet und mit ihren Siegeln versehen. Ausgefertigt am neunundzwanzigsten Juli eintausendachthundertneunundneunzig in Den Haag, und zwar in einem einzigen Exemplar, welches im Archiv der Regierung der Niederlande verwahrt bleiben wird und wovon authentische Abschriften den Vertragsmächten auf diplomatischem Wege zugestellt werden sollen. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Oktober 2015**[^t-4]**
+Geltungsbereich am 29. April 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Argentinien</td><td>15. Juni</td><td>1907 B</td><td>15. Juni</td><td>1907</td></tr>
+<tr><td>Armenien</td><td>23. April</td><td>2025 B</td><td>23. April</td><td>2025</td></tr>
 <tr><td>Äthiopien</td><td>30. Juli</td><td>2003 B</td><td>30. Juli</td><td>2003</td></tr>
 <tr><td>Australien</td><td>1. April</td><td>1960 B</td><td>1. April</td><td>1960</td></tr>
 <tr><td>Belarus</td><td>4. Juni</td><td>1962 B</td><td>4. Juni</td><td>1962</td></tr>
@@ -470,7 +470,6 @@ Geltungsbereich am 29. Oktober 2015**[^t-4]**
 <tr><td>Libanon</td><td>14. Februar</td><td>1968 B</td><td>14. Februar</td><td>1968</td></tr>
 <tr><td>Luxemburg</td><td>12. Juli</td><td>1901</td><td>12. Juli</td><td>1901</td></tr>
 <tr><td>Mauritius</td><td>3. August</td><td>1970 N</td><td>12. März</td><td>1968</td></tr>
-<tr><td>Mazedonien</td><td>19. Dezember</td><td>2000</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>17. April</td><td>1901</td><td>17. April</td><td>1901</td></tr>
 <tr><td>Montenegro</td><td>1. März</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Neuseeland</td><td>10. Februar</td><td>1959 B</td><td>10. Februar</td><td>1959</td></tr>
@@ -478,8 +477,9 @@ Geltungsbereich am 29. Oktober 2015**[^t-4]**
 <tr><td>Niederlande</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Aruba</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Curaçao</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
-<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
+<tr><td>Karibische Gebiete Bonaire, (Sint Eustatius und Saba)</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Sint Maarten</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
+<tr><td>Nordmazedonien</td><td>19. Dezember</td><td>2000</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Österreich</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Pakistan</td><td>5. August</td><td>1950 B</td><td>5. August</td><td>1950</td></tr>
@@ -506,45 +506,10 @@ Geltungsbereich am 29. Oktober 2015**[^t-4]**
 <tr><td>Vereinigte Staaten\*</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>4. September</td><td>1900</td><td>4. September</td><td>1900</td></tr>
 <tr><td>Vietnam</td><td>29. Dezember</td><td>2011 B</td><td>29. Dezember</td><td>2011</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: https://treatydatabase.overheid.nl/en/Treaty/Details/002330 eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-4]: [AS 1971 1805](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811), [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472), [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259), [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370), [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88), [2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388)und [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-
-Vorbehalte und Erklärungen
-
-Rumänien
-
-«Die königliche Regierung von Rumänien, vollkommen einverstanden mit dem Prinzip des *fakultativen S*chiedswesens, dessen ganze Bedeutung in den internationalen Beziehungen sie wohl schätzt, erklärt indessen, durch Artikel 15[^t-5] nicht die Verpflichtung einzugehen, in allen dort vorgesehenen Fällen eine Schiedsgerichtsbarkeit anzuerkennen, und sie glaubt, diesbezüglich ausdrückliche Vorbehalte anbringen zu müssen.
-
-Sie kann daher diesem Artikel nur unter diesem Vorbehalt zustimmen.»
-
-«Die königliche Regierung von Rumänien erklärt, dem Artikel 16[^t-6] nur beipflichten zu können unter dem ausdrücklichen, im Protokoll festgehaltenen Vorbehalt, dass sie entschlossen ist, in keinem Fall eine internationale Schiedsgerichtsbarkeit anzunehmen in Anständen und Streitigkeiten, die vor dem Abschluss dieser Konvention entstanden sind.»
-
-«Die königliche Regierung von Rumänien erklärt, dass sie durch die Annahme von Artikel 18[^t-7] der Konvention keinerlei Verpflichtung übernehmen will in Bezug auf die obligatorische Schiedsgerichtsbarkeit.»
-
-Serbien
-
-«Im Namen der königlichen Regierung von Serbien haben wir die Ehre zu erklären, dass unsere Zustimmung zum Grundsatz der guten Dienste und der Vermittlung nicht bedeutet, dass wir den nicht am Streite beteiligten Staaten das Recht zuerkennen, diese Mittel anders anzuwenden als mit der äussersten Zurückhaltung, die die heikle Natur dieser Schritte erheischt.
-
-Wir werden die guten Dienste und die Vermittlung nur unter der Bedingung gelten lassen, dass ihnen voll und uneingeschränkt der Charakter eines rein freundschaftlichen Ratschlages gewahrt bleibt, und wir könnten sie nie unter Formen oder Umständen annehmen, die ihnen den Charakter einer Intervention verleihen könnten.»
-
-Türkei
-
-«Die ottomanische Delegation, in der Erwägung, dass die Arbeiten der Konferenz ein Werk hoher Loyalität und Humanität gewesen sind, das einzig bestimmt ist, unter Wahrung der Interessen und Rechte des Einzelnen den allgemeinen Frieden zu stärken, erklärt im Namen ihrer Regierung dem Entwurf in seiner Gesamtheit, so wie er eben angenommen wurde, beizupflichten unter folgenden Bedingungen:
-
-- 1\. Es wird in aller Form festgestellt, dass die Anrufung der guten Dienste, der Vermittlung, der Untersuchungskommissionen und des Schiedswesens rein fakultativ ist und nie und in keinem Falle den Charakter von etwas Verbindlichem annehmen oder in eine Intervention umgestaltet werden kann.
-- 2\. Die kaiserliche Regierung wird selbst zu beurteilen haben, in welchen Fällen ihre Interessen ihr gestatten, diese Mittel gelten zu lassen, ohne dass ihr Verzicht darauf oder ihre Weigerung, diese Mittel anzurufen, von den Vertragsstaaten als unfreundlicher Akt ausgelegt werden kann.
-
-Es ist selbstverständlich, dass die erwähnten Mittel in gar keinem Fall in Fragen der inneren Ordnung zur Anwendung kommen können.»
-
-Vereinigte Staaten von Amerika
-
-«Nichts von dem, was in dieser Konvention enthalten ist, kann dahin ausgelegt werden, dass die Vereinigten Staaten verpflichtet wären, ihre überlieferte Politik zu verlassen, die darin besteht, dass sie sich jeder Intervention, jeder Anmassung und jeder Einmischung in politische Fragen oder in die innere Politik oder Verwaltung jedes andern Staates enthalten. Es ist ebenso wohlverstanden, dass nichts in der Konvention dahin ausgelegt werden kann, dass sich für die Vereinigten Staaten daraus die Aufgabe ihrer überlieferten Haltung gegenüber den rein amerikanischen Fragen ergeben müsste.»
-
-[^t-5]: Es handelt sich um Art. 15 des Entwurfes. In der endgültigen Fassung (hiervor) ist es Art. 16.
-[^t-6]: Es handelt sich um Art. 16 des Entwurfes. In der endgültigen Fassung (hiervor) ist es Art. 17.
-[^t-7]: Es handelt sich um Art. 18 des Entwurfes. In der endgültigen Fassung (hiervor) ist es Art. 19.
+[^t-3]: [AS 1971 1805](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811); [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472); [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259); [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370); [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88); [2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388); [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740); [2025 271](https://fedlex.data.admin.ch/eli/oc/2025/271). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Schlussprotokoll der internationalen Friedenskonferenz
 
@@ -558,20 +523,20 @@ Die nachgenannten Mächte haben an der Konferenz teilgenommen, für welche sie f
 
 In einer Reihe von Sitzungen, abgehalten vom 18. Mai bis zum 29. Juli 1899, in denen die vorhin genannten Delegierten unablässig von dem Wunsche beseelt waren, in möglichst vollkommenem Masse das edelmütige Ziel des hohen Urhebers der Konferenz und die Absichten ihrer Regierungen zu verwirklichen, hat die Konferenz den Text der nachstehend aufgezählten, diesem Akt angefügten Konventionen und Erklärungen festgestellt, um sie den Bevollmächtigten zur Unterzeichnung vorzulegen:
 
-- I. *Konvention* für die friedliche Regelung internationaler Streitigkeiten[^t-8];
-- II. *Konvention* betreffend die Gesetze und Gebräuche des Landkrieges[^t-9];
-- III. *Konvention* betreffend die Anwendung der Grundsätze der Genfer Konvention vom 22. August 1864[^t-10] auf den Seekrieg;
+- I. *Konvention* für die friedliche Regelung internationaler Streitigkeiten[^t-4];
+- II. *Konvention* betreffend die Gesetze und Gebräuche des Landkrieges[^t-5];
+- III. *Konvention* betreffend die Anwendung der Grundsätze der Genfer Konvention vom 22. August 1864[^t-6] auf den Seekrieg;
 - IV.
 
   drei *Erklärungen* betreffend:
 
-  - 1\. das Verbot, Geschosse oder Explosivstoffe aus Luftballons oder auf ähnliche andere neue Art zu werfen[^t-11];
-  - 2\. das Verbot, Geschosse zu verwenden, deren einziger Zweck ist, erstickende oder giftige Gase zu verbreiten[^t-12];
-  - 3\. das Verbot, Geschosse zu verwenden, die sich leicht im menschlichen Körper ausbreiten oder platt drücken[^t-13], wie Kugeln mit hartem Mantel, welcher den Kern nicht ganz umhüllt oder mit Einschnitten versehen ist.
+  - 1\. das Verbot, Geschosse oder Explosivstoffe aus Luftballons oder auf ähnliche andere neue Art zu werfen[^t-7];
+  - 2\. das Verbot, Geschosse zu verwenden, deren einziger Zweck ist, erstickende oder giftige Gase zu verbreiten[^t-8];
+  - 3\. das Verbot, Geschosse zu verwenden, die sich leicht im menschlichen Körper ausbreiten oder platt drücken[^t-9], wie Kugeln mit hartem Mantel, welcher den Kern nicht ganz umhüllt oder mit Einschnitten versehen ist.
 
 Diese Konventionen und Erklärungen bilden ebenso viele getrennte Akte. Diese Akte tragen das Datum des heutigen Tages und können bis zum 31. Dezember 1899 von den Bevollmächtigten der auf der internationalen Friedenskonferenz im Haag vertretenen Staaten unterzeichnet werden.
 
-Demselben Verlangen gehorchend, hat die Konferenz einstimmig folgende *Resolu**t**i**on* angenommen:
+Demselben Verlangen gehorchend, hat die Konferenz einstimmig folgende *Resolu**tion* angenommen:
 
 Die Konferenz ist der Ansicht, dass die Beschränkung der gegenwärtig die Welt bedrückenden Militärlasten im hohen Masse wünschenswert ist für die Förderung des materiellen und sittlichen Wohles der Menschheit.
 
@@ -595,9 +560,9 @@ Ausgefertigt Im Haag, am neunundzwanzigsten Juli eintausendachthundertneunundneu
 
 (Es folgen die Unterschriften)
 
-[^t-8]: Siehe hiervor.
-[^t-9]: [SR 0.515.111](https://fedlex.data.admin.ch/eli/cc/23/261_225_251)
-[^t-10]: [BS **11** 516]
-[^t-11]: [BS **18** 540]
-[^t-12]: [SR 0.515.102](https://fedlex.data.admin.ch/eli/cc/18/542_472_524)
-[^t-13]: [SR 0.515.103](https://fedlex.data.admin.ch/eli/cc/18/544_476_525)
+[^t-4]: Siehe hiervor.
+[^t-5]: [SR 0.515.111](https://fedlex.data.admin.ch/eli/cc/23/261_225_251)
+[^t-6]: [BS **11** 516]
+[^t-7]: [BS **18** 540]
+[^t-8]: [SR 0.515.102](https://fedlex.data.admin.ch/eli/cc/18/542_472_524)
+[^t-9]: [SR 0.515.103](https://fedlex.data.admin.ch/eli/cc/18/544_476_525)

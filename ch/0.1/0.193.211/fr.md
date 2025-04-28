@@ -3,16 +3,16 @@ sr: "0.193.211"
 title: Convention du 29 juillet 1899 pour le règlement pacifique des conflits internationaux (avec acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/18/517_433_502"
 language: fr
-version: 2015-10-29
+version: 2025-04-29
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20151029/fr/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20151029-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20151029/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/517_433_502/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-18-517_433_502-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/517_433_502/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention pour le règlement pacifique des conflits internationaux****
+# Convention pour le règlement pacifique des conflits internationaux
 
 RS **11** 177; FF **1900** III 73[^t-1]
 
@@ -26,26 +26,26 @@ Instrument de ratification déposé par la Suisse le 29 décembre 1900
 
 Entré en vigueur pour la Suisse le 29 décembre 1900
 
-(Etat le 29 octobre 2015)
+(État le 29 avril 2025)
 
 [^t-1]: Cette Conv. n’est encore applicable pour la Suisse que dans les rapports avec les puissances contractantes qui ne sont pas parties à la Conv. du 18 oct. 1907 ([RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)art. 91). Voir la liste des Etats parties publiée ci‑après.
 [^t-2]: Ch. I 1 de l’AF du 10 déc. 1900 (RO **18** 415)
 
-Sa Majesté l’Empereur d’Allemagne, Roi de Prusse; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; Sa Majesté l’Empereur de Chine; Sa Majesté le Roi de Danemark; Sa Majesté le Roi d’Espagne et en Son nom Sa Majesté la Reine‑Régente du Royaume; le Président des Etats‑Unis d’Amérique; le Président des Etats‑Unis Mexicains; le Président de la République Française; Sa Majesté la Reine du Royaume‑Uni de la Grande‑Bretagne et d’Irlande, Impératrice des Indes; Sa Majesté le Roi des Hellènes; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand‑Duc de Luxembourg, Duc de Nassau; Son Altesse le Prince de Monténégro; Sa Majesté la Reine des Pays‑Bas; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède et de Norvège; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans et Son Altesse Royale le Prince de Bulgarie,
+Sa Majesté l’Empereur d’Allemagne, Roi de Prusse; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; Sa Majesté l’Empereur de Chine; Sa Majesté le Roi de Danemark; Sa Majesté le Roi d’Espagne et en Son nom Sa Majesté la Reine‑Régente du Royaume; le Président des États‑Unis d’Amérique; le Président des États‑Unis Mexicains; le Président de la République Française; Sa Majesté la Reine du Royaume‑Uni de la Grande‑Bretagne et d’Irlande, Impératrice des Indes; Sa Majesté le Roi des Hellènes; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand‑Duc de Luxembourg, Duc de Nassau; Son Altesse le Prince de Monténégro; Sa Majesté la Reine des Pays‑Bas; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède et de Norvège; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans et Son Altesse Royale le Prince de Bulgarie,
 
-animés de la ferme volonté de concourir au maintien de la paix générale;
+animés de la ferme volonté de concourir au maintien de la paix générale,
 
-résolus à favoriser de tous leurs efforts le règlement amiable des conflits internationaux;
+résolus à favoriser de tous leurs efforts le règlement amiable des conflits internationaux,
 
 reconnaissant la solidarité qui unit les membres de la société des nations civilisées,
 
-voulant étendre l’empire du droit et fortifier le sentiment de la justice internationale;
+voulant étendre l’empire du droit et fortifier le sentiment de la justice internationale,
 
-convaincus que l’institution permanente d’une juridiction arbitrale, accessible à tous, au sein des Puissances indépendantes peut contribuer efficacement à ce résultat;
+convaincus que l’institution permanente d’une juridiction arbitrale, accessible à tous, au sein des Puissances indépendantes peut contribuer efficacement à ce résultat,
 
 considérant les avantages d’une organisation générale et régulière de la procédure arbitrale,
 
-estimant avec l’Auguste Initiateur de la Conférence Internationale de la Paix qu’il importe de consacrer dans un accord international les principes d’équité et de droit sur lesquels reposent la sécurité des Etats et le bien‑être des Peuples;
+estimant avec l’Auguste Initiateur de la Conférence Internationale de la Paix qu’il importe de consacrer dans un accord international les principes d’équité et de droit sur lesquels reposent la sécurité des États et le bien‑être des Peuples,
 
 désirant conclure une Convention à cet effet, ont nommé pour Leurs plénipotentiaires, savoir:
 
@@ -59,7 +59,7 @@ sont convenus des dispositions suivantes.
 
 #### Art. 1
 
-En vue de prévenir autant que possible le recours à la force dans les rapports entre les Etats, les Puissances signataires conviennent d’employer tous leurs efforts pour assurer le règlement pacifique des différends internationaux.
+En vue de prévenir autant que possible le recours à la force dans les rapports entre les États, les Puissances signataires conviennent d’employer tous leurs efforts pour assurer le règlement pacifique des différends internationaux.
 
 ## Titre II Des bons offices et de la médiation
 
@@ -69,7 +69,7 @@ En cas de dissentiment grave ou de conflit, avant d’en appeler aux armes, les 
 
 #### Art. 3
 
-Indépendamment de ce recours, les Puissances signataires jugent utile qu’une ou plusieurs Puissances étrangères au conflit offrent de leur propre initiative, en tant que les circonstances s’y prêtent, leurs bons offices ou leur médiation aux Etats en conflit.
+Indépendamment de ce recours, les Puissances signataires jugent utile qu’une ou plusieurs Puissances étrangères au conflit offrent de leur propre initiative, en tant que les circonstances s’y prêtent, leurs bons offices ou leur médiation aux États en conflit.
 
 Le droit d’offrir les bons offices ou la médiation appartient aux Puissances étrangères au conflit, même pendant le cours des hostilités.
 
@@ -77,7 +77,7 @@ L’exercice de ce droit ne peut jamais être considéré par I’une ou l’aut
 
 #### Art. 4
 
-Le rôle du médiateur consiste à concilier les prétentions opposées et à apaiser les ressentiments qui peuvent s’être produits entre les Etats en conflit.
+Le rôle du médiateur consiste à concilier les prétentions opposées et à apaiser les ressentiments qui peuvent s’être produits entre les États en conflit.
 
 #### Art. 5
 
@@ -97,9 +97,9 @@ Si elle intervient après l’ouverture des hostilités, elle n’interrompt pas
 
 Les Puissances signataires sont d’accord pour recommander l’application, dans les circonstances qui le permettent, d’une médiation spéciale sous la forme suivante.
 
-En cas de différend grave compromettant la paix, les Etats en conflit choisissent respectivement une Puissance à laquelle ils confient la mission d’entrer en rapport direct avec la Puissance choisie d’autre part, à l’effet de prévenir la rupture des relations pacifiques.
+En cas de différend grave compromettant la paix, les États en conflit choisissent respectivement une Puissance à laquelle ils confient la mission d’entrer en rapport direct avec la Puissance choisie d’autre part, à l’effet de prévenir la rupture des relations pacifiques.
 
-Pendant la durée de ce mandat, dont le terme, sauf stipulation contraire, ne peut excéder trente jours, les Etats en litige cessent tout rapport direct au sujet du conflit, lequel est considéré comme déféré exclusivement aux Puissances médiatrices. Celles‑ci doivent appliquer tous leurs efforts à régler le différend.
+Pendant la durée de ce mandat, dont le terme, sauf stipulation contraire, ne peut excéder trente jours, les États en litige cessent tout rapport direct au sujet du conflit, lequel est considéré comme déféré exclusivement aux Puissances médiatrices. Celles‑ci doivent appliquer tous leurs efforts à régler le différend.
 
 En cas de rupture effective des relations pacifiques, ces Puissances demeurent chargées de la mission commune de profiter de toute occasion pour rétablir la paix.
 
@@ -143,7 +143,7 @@ Le rapport de la Commission internationale d’enquête, limité à la constatat
 
 #### Art. 15
 
-L’arbitrage international a pour objet le règlement de litiges entre les Etats par des juges de leur choix et sur la base du respect du droit.
+L’arbitrage international a pour objet le règlement de litiges entre les États par des juges de leur choix et sur la base du respect du droit.
 
 #### Art. 16
 
@@ -205,7 +205,7 @@ En cas de décès ou de retraite d’un membre de la Cour, il est pourvu à son 
 
 Lorsque les Puissances signataires veulent s’adresser à la Cour permanente pour le règlement d’un différend survenu entre elles, le choix des arbitres appelés à former le Tribunal compétent pour statuer sur ce différend doit être fait dans la liste générale des membres de la Cour.
 
-A défaut de constitution du Tribunal arbitral par l’accord immédiat des Parties, il est procédé de la manière suivante.
+À défaut de constitution du Tribunal arbitral par l’accord immédiat des Parties, il est procédé de la manière suivante.
 
 Chaque Partie nomme deux arbitres et ceux‑ci choisissent ensemble un sur‑arbitre.
 
@@ -239,7 +239,7 @@ En conséquence, elles déclarent que le fait de rappeler aux Parties en conflit
 
 #### Art. 28
 
-Un Conseil administratif permanent composé des représentants diplomatiques des Puissances signataires accrédités à La Haye et du ministre des Affaires Etrangères des Pays‑Bas, qui remplira les fonctions de Président, sera constitué dans cette ville le plus tôt possible après la ratification du présent Acte par neuf Puissances au moins.
+Un Conseil administratif permanent composé des représentants diplomatiques des Puissances signataires accrédités à La Haye et du ministre des Affaires Étrangères des Pays‑Bas, qui remplira les fonctions de Président, sera constitué dans cette ville le plus tôt possible après la ratification du présent Acte par neuf Puissances au moins.
 
 Ce Conseil sera chargé d’établir et d’organiser le Bureau international, lequel demeurera sous sa direction et sous son contrôle.
 
@@ -275,7 +275,7 @@ Les Puissances qui recourent à l’arbitrage signent un acte spécial (compromi
 
 Les fonctions arbitrales peuvent être conférées à un arbitre unique ou à plusieurs arbitres désignés par les Parties à leur gré, ou choisis par elles parmi les membres de la Cour permanente d’arbitrage établie par le présent Acte.
 
-A défaut de constitution du Tribunal par I’accord immédiat des Parties, il est procédé de la manière suivante.
+À défaut de constitution du Tribunal par I’accord immédiat des Parties, il est procédé de la manière suivante.
 
 Chaque Partie nomme deux arbitres et ceux‑ci choisissent ensemble un sur‑arbitre.
 
@@ -285,7 +285,7 @@ Si l’accord ne s’établit pas à ce sujet, chaque Partie désigne une Puissa
 
 #### Art. 33
 
-Lorsqu’un Souverain ou un Chef d’Etat est choisi pour arbitre, la procédure arbitrale est réglée par lui.
+Lorsqu’un Souverain ou un Chef d’État est choisi pour arbitre, la procédure arbitrale est réglée par lui.
 
 #### Art. 34
 
@@ -299,7 +299,7 @@ En cas de décès, de démission ou d’empêchement, pour quelque cause que ce 
 
 #### Art. 36
 
-Le siège du Tribunal est désigné par les Parties. A défaut de cette désignation, le Tribunal siège à La Haye.
+Le siège du Tribunal est désigné par les Parties. À défaut de cette désignation, le Tribunal siège à La Haye.
 
 Le siège ainsi fixé ne peut, sauf le cas de force majeure, être changé par le Tribunal que de l’assentiment des Parties.
 
@@ -441,12 +441,13 @@ Cette dénonciation ne produira ses effets qu’à l’égard de la Puissance qu
 
 *En foi de quoi,* les Plénipotentiaires ont signé la présente Convention et l’ont revêtue de leurs sceaux. Fait à La Haye, le vingt‑neuf juillet mil huit cent quatre‑vingt‑dix‑neuf, en un seul exemplaire qui restera déposé dans les archives du Gouvernement des Pays‑Bas et dont des copies, certifiées conformes, seront remises par la voie diplomatique aux Puissances contractantes. (Suivent les signatures)
 
-Champ d’application 29 octobre 2015**[^t-3]**
+Champ d’application le 29 avril 2025[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Argentine</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
+<tr><td>Arménie</td><td>23 avril</td><td>2025 A</td><td>23 avril</td><td>2025</td></tr>
 <tr><td>Australie</td><td>1<sup>er</sup> avril</td><td>1960 A</td><td>1<sup>er</sup> avril</td><td>1960</td></tr>
 <tr><td>Autriche</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Bélarus</td><td>4 juin</td><td>1962 A</td><td>4 juin</td><td>1962</td></tr>
@@ -466,10 +467,10 @@ Champ d’application 29 octobre 2015**[^t-3]**
 <tr><td>Cuba</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
 <tr><td>Danemark</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>El Salvador</td><td>20 juin</td><td>1907 A</td><td>20 juin</td><td>1907</td></tr>
-<tr><td>Equateur</td><td>3 juillet</td><td>1907 A</td><td>3 juillet</td><td>1907</td></tr>
+<tr><td>Équateur</td><td>3 juillet</td><td>1907 A</td><td>3 juillet</td><td>1907</td></tr>
 <tr><td>Espagne</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Etats-Unis\*</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Ethiopie</td><td>30 juillet</td><td>2003 A</td><td>30 juillet</td><td>2003</td></tr>
+<tr><td>États-Unis\*</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>Éthiopie</td><td>30 juillet</td><td>2003 A</td><td>30 juillet</td><td>2003</td></tr>
 <tr><td>Fidji</td><td>26 janvier</td><td>1973 S</td><td>10 octobre</td><td>1970</td></tr>
 <tr><td>France</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Grèce</td><td>4 avril</td><td>1901</td><td>4 avril</td><td>1901</td></tr>
@@ -487,7 +488,7 @@ Champ d’application 29 octobre 2015**[^t-3]**
 <tr><td>Laos</td><td>18 juillet</td><td>1955 A</td><td>18 juillet</td><td>1955</td></tr>
 <tr><td>Liban</td><td>14 février</td><td>1968 A</td><td>14 février</td><td>1968</td></tr>
 <tr><td>Luxembourg</td><td>12 juillet</td><td>1901</td><td>12 juillet</td><td>1901</td></tr>
-<tr><td>Macédoine</td><td>19 décembre</td><td>2000</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>19 décembre</td><td>2000</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Maurice</td><td>3 août</td><td>1970 S</td><td>12 mars</td><td>1968</td></tr>
 <tr><td>Mexique</td><td>17 avril</td><td>1901</td><td>17 avril</td><td>1901</td></tr>
 <tr><td>Monténégro</td><td>1<sup>er</sup> mars</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
@@ -498,10 +499,10 @@ Champ d’application 29 octobre 2015**[^t-3]**
 <tr><td>Panama</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
 <tr><td>Paraguay</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
 <tr><td>Pays-Bas</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Aruba<sup>a</sup></td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Curaçao<sup>a</sup></td><td>4 septembre</td><td>1900</td><td>10 octobre</td><td>1900</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>a</sup></td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Sint Maarten<sup>a</sup></td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>Aruba</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>Curaçao</td><td>4 septembre</td><td>1900</td><td>10 octobre</td><td>1900</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>Sint Maarten</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Pérou</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
 <tr><td>Portugal</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>République dominicaine</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
@@ -509,7 +510,7 @@ Champ d’application 29 octobre 2015**[^t-3]**
 <tr><td>Royaume-Uni</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Russie</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Sénégal</td><td>1<sup>er</sup> août</td><td>1977 A</td><td>1<sup>er</sup> août</td><td>1977</td></tr>
-<tr><td>Serbie \*</td><td>7 septembre</td><td>2001 S</td><td>11 avril</td><td>1992</td></tr>
+<tr><td>Serbie\*</td><td>7 septembre</td><td>2001 S</td><td>11 avril</td><td>1992</td></tr>
 <tr><td>Slovénie</td><td>1<sup>er</sup> octobre</td><td>1996 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Sri Lanka</td><td>9 février</td><td>1955 A</td><td>9 février</td><td>1955</td></tr>
 <tr><td>Suède</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
@@ -521,46 +522,10 @@ Champ d’application 29 octobre 2015**[^t-3]**
 <tr><td>Venezuela</td><td>15 juin</td><td>1907 A</td><td>15 juin</td><td>1907</td></tr>
 <tr><td>Vietnam</td><td>29 décembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>19 septembre</td><td>1984 S</td><td>18 avril</td><td>1980</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations, voir ci-après.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Publication faisant suite à un changement du fonctionnement des relations constitutionnelles internes au sein du Royaume des Pays-Bas.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site internet du dépositaire, du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/002330](https://treatydatabase.overheid.nl/en/Treaty/Details/002330) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 1971 1811](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811), [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472), [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259), [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370), [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88), [2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388), [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-
-Réserves et déclarations
-
-## Etats‑Unis
-
-«Rien de ce qui est contenu dans cette convention ne peut être interprété de façon à obliger les Etats‑Unis d’Amérique à se départir de leur politique traditionnelle, en vertu de laquelle ils s’abstiennent d’intervenir, de s’ingérer ou de s’immiscer dans les questions politiques ou dans la politique ou dans l’administration intérieure d’aucun Etat étranger. Il est bien entendu également que rien dans la convention ne pourra être interprété comme impliquant un abandon par les Etats‑Unis d’Amérique de leur attitude traditionnelle à l’égard des questions purement américaines.»
-
-## Roumanie
-
-«Le gouvernement royal de Roumanie, complètement acquis au principe de l’arbitrage facultatif’ dont il apprécie toute l’importance dans les relations internationales, n’entend cependant pas prendre, par l’art. 15[^declu2-lvlu2-1], un engagement d’accepter un arbitrage dans tous les cas qui y sont prévus, et il croit devoir formuler des réserves expresses à cet égard.»
-
-«Il ne peut donc voter cet article que sous cette réserve.»
-
-«Le gouvernement royal de Roumanie déclare qu’il ne peut adhérer à l’art. 16[^declu2-lvlu2-2] qu’avec la réserve expresse, consignée au procès‑verbal, qu’il est décidé à ne pas accepter, en aucun cas, un arbitrage international, pour des contestations ou litiges antérieurs à la conclusion de la présente convention.»
-
-«Le gouvernement royal de Roumanie déclare qu’en adhérant à l’art. 18[^declu2-lvlu2-3] de la convention, il n’entend prendre aucun engagement en matière d’arbitrage obligatoire.»
-
-[^declu2-lvlu2-1]: Il s’agit de l’art. 15 du projet, devenu l’art. 16 du texte définitif de la convention.
-[^declu2-lvlu2-2]: Il s’agit de l’art. 16 du projet, devenu l’art. 17 du texte définitif de la convention.
-[^declu2-lvlu2-3]: Il s’agit de l’art. 18 du projet, devenu l’art. 19 du texte définitif de la convention.
-
-## Serbie
-
-«Au nom du gouvernement royal de Serbie, nous avons l’honneur de déclarer que l’adoption par nous du principe de bons offices et de la médiation n’implique pas une reconnaissance du droit pour les Etats tiers d’user de ces moyens autrement qu’avec la réserve extrême qu’exige la nature délicate de ces démarches.»
-
-«Nous n’admettrons les bons offices et la médiation qu’à condition de leur conserver pleinement et intégralement leur caractère de conseil purement amical et nous ne saurions jamais les accepter dans des formes et des circonstances telles qu’elles pourraient leur imprimer le caractère d’une intervention.»
-
-## Turquie
-
-«La délégation ottomane, considérant que ce travail de la conférence a été une œuvre de haute loyauté et d’humanité destinée uniquement à raffermir la paix générale en sauvegardant les intérêts et les droits de chacun, déclare, au nom de son gouvernement, adhérer à l’ensemble du projet qui vient d’être adopté, aux conditions suivantes:
-
-- 1 Il est formellement entendu que le recours aux bons offices, à la médiation, aux commissions d’enquête et à l’arbitrage est purement facultatif et ne saurait en aucun cas revêtir un caractère obligatoire ou dégénérer en intervention;
-- 2 Le gouvernement impérial aura à juger lui‑même des cas où ses intérêts lui permettraient d’admettre ces moyens, sans que son abstention ou son refus d’y avoir recours puissent être considérés par les Etats signataires comme un procédé peu amical.»
-
-«Il va de soi qu’en aucun cas les moyens dont il s’agit ne sauraient s’appliquer à des questions d’ordre intérieur.»
+[^t-3]: [RO 1971 1811](https://fedlex.data.admin.ch/eli/oc/1971/1805_1811_1811); [1977 1472](https://fedlex.data.admin.ch/eli/oc/1977/1472_1472_1472); [1982 2259](https://fedlex.data.admin.ch/eli/oc/1982/2259_2259_2259); [1985 1370](https://fedlex.data.admin.ch/eli/oc/1985/1370_1370_1370); [2006 621](https://fedlex.data.admin.ch/eli/oc/2006/88); [2009 3143](https://fedlex.data.admin.ch/eli/oc/2009/388); [2015 4447](https://fedlex.data.admin.ch/eli/oc/2015/740); [2025 271](https://fedlex.data.admin.ch/eli/oc/2025/271). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Acte final de la Conférence internationale de la Paix
 
@@ -607,7 +572,7 @@ Les cinq derniers vœux ont été votés à l’unanimité, sauf quelques absten
 
 *En foi de quoi,* les plénipotentiaires ont signé le présent acte et y ont apposé leurs cachets.
 
-Fait à La Haye, le vingt‑neuf juillet mil huit cent quatre‑vingt‑dix‑neuf en un seul exemplaire qui sera déposé au Ministère des Affaires Etrangères et dont des copies, certifiées conformes, seront délivrées à toutes les Puissances représentées à la Conférence.
+Fait à La Haye, le vingt‑neuf juillet mil huit cent quatre‑vingt‑dix‑neuf en un seul exemplaire qui sera déposé au Ministère des Affaires Étrangères et dont des copies, certifiées conformes, seront délivrées à toutes les Puissances représentées à la Conférence.
 
 (Suivent les signatures)
 
