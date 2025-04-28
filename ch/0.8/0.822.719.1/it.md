@@ -3,11 +3,11 @@ sr: "0.822.719.1"
 title: "Convenzione n. 81 dell'11 luglio 1947 concernente l'ispezione del lavoro nell'industria e nel commercio"
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/737_761_730"
 language: it
-version: 2023-08-30
+version: 2025-04-29
 adopted: 1947-07-11
 in_force: 1950-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20230830/it/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20230830-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20230830/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottata a Ginevra l’11 luglio 1947 Approvata dall’Assemblea federale il 16 giugno 1949[^t-1] Strumenti di ratifica depositati dalla Svizzera il 13 luglio 1949 Entrata in vigore per la Svizzera il 13 luglio 1950[^t-2]
 
-(Stato 30 agosto 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: Ad eccezione della parte II la quale è stata approvata dal DF del 8 mar. 1971 ([RU 1950 729](https://fedlex.data.admin.ch/eli/oc/1950/735_759_729), [1971 1135](https://fedlex.data.admin.ch/eli/oc/1971/1135_1135_1135)).
 [^t-2]: Ad eccezione della parte II la quale è entrata in vigore il 1° giu. 1972.
@@ -341,7 +341,7 @@ I testi francese e inglese della presente convenzione fanno parimente fede.
 
 (Seguono le firme)
 
-Campo d’applicazione il 30 agosto 2023[^t-3]
+Campo d’applicazione il 29 aprile 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -397,6 +397,7 @@ Campo d’applicazione il 30 agosto 2023[^t-3]
 <tr><td>Estonia</td><td>1° febbraio</td><td>2005</td><td>1° febbraio</td><td>2006</td></tr>
 <tr><td>Eswatini</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>Figi</td><td>28 maggio</td><td>2008</td><td>28 maggio</td><td>2009</td></tr>
+<tr><td>Filippine</td><td>5 novembre</td><td>2024</td><td>5 novembre</td><td>2025</td></tr>
 <tr><td>Finlandia</td><td>20 gennaio</td><td>1950</td><td>20 gennaio</td><td>1951</td></tr>
 <tr><td>Francia</td><td>16 dicembre</td><td>1950</td><td>16 dicembre</td><td>1951</td></tr>
 <tr><td>Guadalupa</td><td>27 aprile</td><td>1954 A</td><td>27 aprile</td><td>1955</td></tr>
@@ -461,6 +462,7 @@ Campo d’applicazione il 30 agosto 2023[^t-3]
 <tr><td>Curaçao</td><td>15 settembre</td><td>1951</td><td>15 settembre</td><td>1952</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>15 settembre</td><td>1951</td><td>15 settembre</td><td>1952</td></tr>
 <tr><td>Sint Maarten</td><td>15 settembre</td><td>1951</td><td>15 settembre</td><td>1952</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>27 settembre</td><td>2023</td><td>27 settembre</td><td>2024</td></tr>
 <tr><td>Pakistan</td><td>10 ottobre</td><td>1953</td><td>10 ottobre</td><td>1954</td></tr>
 <tr><td>Panama</td><td>3 giugno</td><td>1958</td><td>3 giugno</td><td>1959</td></tr>
 <tr><td>Paraguay</td><td>28 agosto</td><td>1967</td><td>28 agosto</td><td>1968</td></tr>
@@ -506,6 +508,7 @@ Campo d’applicazione il 30 agosto 2023[^t-3]
 <tr><td>Venezuela</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Vietnam</td><td>3 ottobre</td><td>1994</td><td>3 ottobre</td><td>1995</td></tr>
 <tr><td>Yemen</td><td>29 luglio</td><td>1976</td><td>29 luglio</td><td>1977</td></tr>
+<tr><td>Zambia</td><td>23 dicembre</td><td>2013</td><td>23 dicembre</td><td>2014</td></tr>
 <tr><td>Zimbabwe</td><td>16 settembre</td><td>1993</td><td>16 settembre</td><td>1994</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nel RU. I testi in francese e in inglese possono essere consultati sul sito dell'Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure richiesti alla Direzione del Diritto Internazionale Pubblico (DDIP), Sezione Trattati Internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Questo Stato è parte alla Conv. esclusa la parte II.</td></tr>
@@ -515,4 +518,4 @@ Campo d’applicazione il 30 agosto 2023[^t-3]
 <tr><td colspan="5"><sup>e</sup> La Conv. è applicabile alla Nouva-Caledonia senza modifica, dal 5 apr. 2000.</td></tr>
 </table>
 
-[^t-3]: [RU 1972 717](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717); [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673); [1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498); [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834); [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612); [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288); [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418); [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723); [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278); [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149); [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275); [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246); [2023 480](https://fedlex.data.admin.ch/eli/oc/2023/480). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-3]: [RU 1972 717](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717); [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673); [1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498); [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834); [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612); [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288); [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418); [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723); [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278); [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149); [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275); [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246); [2023 480](https://fedlex.data.admin.ch/eli/oc/2023/480); [2025 275](https://fedlex.data.admin.ch/eli/oc/2025/275). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

@@ -3,11 +3,11 @@ sr: "0.822.719.1"
 title: Internationales Übereinkommen Nr. 81 vom 11. Juli 1947 über die Arbeitsaufsicht in Gewerbe und Handel
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/737_761_730"
 language: de
-version: 2023-08-30
+version: 2025-04-29
 adopted: 1947-07-11
 in_force: 1950-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20230830/de/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20230830-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20230830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/737_761_730/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1950-737_761_730-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/737_761_730/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1950** II 737; BBl **1949** I 1
 
 Angenommen in Genf am 11. Juli 1947 Genehmigt von der Bundesversammlung am 16. Juni 1949[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 13. Juli 1949 In Kraft getreten für die Schweiz am 13. Juli 1950[^t-2]
 
-(Stand am 30. August 2023)
+(Stand am 29. April 2025)
 
 [^t-1]: Unter Ausschluss des II. Teils, der mit BB vom 8. März 1971 genehmigt wurde (AS **1950** II 735, **1971** 1135).
 [^t-2]: Unter Ausschluss des II. Teils, der am 1. Juli 1972 in Kraft getreten ist.
@@ -39,7 +39,9 @@ Jedes Mitglied der Internationalen Arbeitsorganisation, für das dieses Überein
 
 #### Art. 3
 
-<sup>1.</sup> Der Arbeitsaufsicht obliegt
+<sup>1.</sup>
+
+Der Arbeitsaufsicht obliegt:
 
 - a. die Sicherstellung der Durchführung der gesetzlichen Vorschriften über die Arbeitsbedingungen und den Schutz der Arbeitnehmer bei der Ausführung ihrer Arbeit, wie der Vorschriften über Arbeitszeit, Löhne, Unfallverhütung, Gesundheitsschutz und Wohlfahrt, die Beschäftigung von Kindern und Jugendlichen und anderer damit in Zusammenhang stehender Angelegenheiten, soweit die Aufsichtsbeamten mit der Sicherstellung der Durchführung dieser Vorschriften betraut sind,
 - b. die Belehrung der Arbeitgeber und der Arbeitnehmer durch technische Aufklärung und Ratschläge über die wirksamsten Mittel zur Einhaltung der gesetzlichen Vorschriften,
@@ -55,7 +57,7 @@ Jedes Mitglied der Internationalen Arbeitsorganisation, für das dieses Überein
 
 #### Art. 5
 
-Die zuständige Behörde hat geeignete Massnahmen zu treffen zur Förderung
+Die zuständige Behörde hat geeignete Massnahmen zu treffen zur Förderung:
 
 - a. einer wirksamen Zusammenarbeit zwischen den Dienststellen der Arbeitsaufsicht einerseits und den auf ähnlichen Gebieten tätigen anderen Behörden und öffentlichen oder privaten Einrichtungen anderseits,
 - b. der Zusammenarbeit zwischen den Aufsichtsbeamten sowie den Arbeitgebern und den Arbeitnehmern oder deren Verbänden.
@@ -82,7 +84,7 @@ Jedes Mitglied hat die Mitarbeit gründlich befähigter technischer Sachverstän
 
 #### Art. 10
 
-Die Zahl der Aufsichtsbeamten muss ausreichen, um die wirksame Ausführung der Aufgaben der Arbeitsaufsicht zu gewährleisten, und ist zu bestimmen unter angemessener Berücksichtigung
+Die Zahl der Aufsichtsbeamten muss ausreichen, um die wirksame Ausführung der Aufgaben der Arbeitsaufsicht zu gewährleisten, und ist zu bestimmen unter angemessener Berücksichtigung:
 
 - a. der Bedeutung der von den Aufsichtsbeamten auszuführenden Aufgaben, insbesondere
   - I. der Zahl, der Natur, der Grösse und des Standortes der unterstellten Betriebe,
@@ -94,7 +96,9 @@ Die Zahl der Aufsichtsbeamten muss ausreichen, um die wirksame Ausführung der A
 
 #### Art. 11
 
-<sup>1.</sup> Die zuständige Behörde trifft die notwendigen Massnahmen, um die Aufsichtsbeamten zu versorgen mit
+<sup>1.</sup>
+
+Die zuständige Behörde trifft die notwendigen Massnahmen, um die Aufsichtsbeamten zu versorgen mit:
 
 - a. örtlichen, entsprechend den dienstlichen Erfordernissen ausgestatteten und allen Beteiligten zugänglichen Amtsräumlichkeiten,
 - b. den für die Ausführung ihrer Aufgaben erforderlichen Verkehrsmitteln, wenn zweckdienliche öffentliche Verkehrsmittel fehlen.
@@ -103,7 +107,9 @@ Die Zahl der Aufsichtsbeamten muss ausreichen, um die wirksame Ausführung der A
 
 #### Art. 12
 
-<sup>1.</sup> Die mit den erforderlichen Ausweisen versehenen Aufsichtsbeamten sind befugt
+<sup>1.</sup>
+
+Die mit den erforderlichen Ausweisen versehenen Aufsichtsbeamten sind befugt:
 
 - a. jederzeit bei Tag und bei Nacht jeden unterstellten Betrieb frei und unangemeldet zu betreten,
 - b. bei Tag alle Räumlichkeiten zu betreten, von denen sie mit gutem Grund annehmen können, dass sie der Aufsicht unterstehen,
@@ -119,7 +125,9 @@ Die Zahl der Aufsichtsbeamten muss ausreichen, um die wirksame Ausführung der A
 
 <sup>1.</sup> Die Aufsichtsbeamten sind befugt, Massnahmen zur Behebung der festgestellten Mängel einer Betriebsanlage, einer Einrichtung oder der Arbeitsverfahren zu veranlassen, die sie mit gutem Grund als gefährlich für die Gesundheit oder die Sicherheit der Arbeitnehmer erachten.
 
-<sup>2.</sup> Um solche Massnahmen veranlassen zu können, sind die Aufsichtsbeamten befugt, vorbehaltlich jedes etwaigen gesetzlichen Berufungsrechtes an eine Gerichts- oder Verwaltungsbehörde, anzuordnen oder anordnen zu lassen, dass
+<sup>2.</sup>
+
+Um solche Massnahmen veranlassen zu können, sind die Aufsichtsbeamten befugt, vorbehaltlich jedes etwaigen gesetzlichen Berufungsrechtes an eine Gerichts- oder Verwaltungsbehörde, anzuordnen oder anordnen zu lassen, dass:
 
 - a. jene Änderungen der Einrichtungen oder Anlagen innerhalb einer bestimmten Frist ausgeführt werden, die zur genauen Einhaltung der gesetzlichen Vorschriften über die Gesundheit und die Sicherheit der Arbeitnehmer notwendig sind,
 - b. bei drohender Gefahr für die Gesundheit oder die Sicherheit der Arbeitnehmer sofort vollziehbare Massnahmen getroffen werden.
@@ -232,7 +240,9 @@ Die Jahresberichte nach Artikel 22 der Verfassung der Internationalen Arbeitsorg
 
 #### Art. 30
 
-<sup>1.</sup> Für die in Artikel 35 der Verfassung der Internationalen Arbeitsorganisation[^30-1] in der Fassung der Abänderungsurkunde von 1946 bezeichneten Gebiete, mit Ausnahme der Gebiete nach den Absätzen 4 und 5 des genannten Artikels in seiner neuen Fassung, hat jedes Mitglied der Organisation, das dieses Übereinkommen ratifiziert, dem Generaldirektor des Internationalen Arbeitsamtes so bald wie möglich nach der Ratifikation eine Erklärung zu übermitteln, welche die Gebiete bekannt gibt
+<sup>1.</sup>
+
+Für die in Artikel 35 der Verfassung der Internationalen Arbeitsorganisation[^30-1] in der Fassung der Abänderungsurkunde von 1946 bezeichneten Gebiete, mit Ausnahme der Gebiete nach den Absätzen 4 und 5 des genannten Artikels in seiner neuen Fassung, hat jedes Mitglied der Organisation, das dieses Übereinkommen ratifiziert, dem Generaldirektor des Internationalen Arbeitsamtes so bald wie möglich nach der Ratifikation eine Erklärung zu übermitteln, welche die Gebiete bekannt gibt:
 
 - a. für die es die Verpflichtung zur unveränderten Durchführung dieses Übereinkommens übernimmt,
 - b. für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen,
@@ -251,7 +261,9 @@ Die Jahresberichte nach Artikel 22 der Verfassung der Internationalen Arbeitsorg
 
 <sup>1.</sup> Fällt der Gegenstand dieses Übereinkommens unter die Selbstregierungsbefugnisse eines ausserhalb des Mutterlandes gelegenen Gebietes, so kann das für die internationalen Beziehungen dieses Gebietes verantwortliche Mitglied im Benehmen mit dessen Regierung dem Generaldirektor des Internationalen Arbeitsamtes eine Erklärung übermitteln, durch die es die Verpflichtungen aus diesem Übereinkommen im Namen des betreffenden Gebietes übernimmt.
 
-<sup>2.</sup> Eine Erklärung betreffend die Übernahme der Verpflichtungen aus diesem Übereinkommen kann dem Generaldirektor des Internationalen Arbeitsamtes übermittelt werden
+<sup>2.</sup>
+
+Eine Erklärung betreffend die Übernahme der Verpflichtungen aus diesem Übereinkommen kann dem Generaldirektor des Internationalen Arbeitsamtes übermittelt werden:
 
 - a. von zwei oder mehr Mitgliedern der Organisation für ein ihnen gemeinsam unterstelltes Gebiet,
 - b. von jeder nach der Charta der Vereinten Nationen[^31-1] oder auf Grund einer anderen Bestimmung für die Verwaltung eines Gebietes verantwortlichen internationalen Behörde, und zwar für das betreffende Gebiet.
@@ -306,7 +318,9 @@ Der Verwaltungsrat des Internationalen Arbeitsamtes hat, sooft er es für nötig
 
 #### Art. 38
 
-<sup>1.</sup> Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Übereinkommen ganz oder teilweise abändert, und sieht das neue Übereinkommen nichts anderes vor, so gelten folgende Bestimmungen
+<sup>1.</sup>
+
+Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Übereinkommen ganz oder teilweise abändert, und sieht das neue Übereinkommen nichts anderes vor, so gelten folgende Bestimmungen:
 
 - a. Die Ratifikation des neugefassten Übereinkommens durch ein Mitglied schliesst ohne weiteres die sofortige Kündigung des vorliegenden Übereinkommens in sich, ohne Rücksicht auf Artikel 34; Voraussetzung ist dabei, dass das neugefasste Übereinkommen in Kraft getreten ist.
 - b. Vom Zeitpunkt des Inkrafttretens des neugefassten Übereinkommens an kann das vorliegende Übereinkommen von den Mitgliedern nicht mehr ratifiziert werden.
@@ -317,7 +331,7 @@ Der Verwaltungsrat des Internationalen Arbeitsamtes hat, sooft er es für nötig
 
 Der englische und der französische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 30. August 2023[^t-3]
+Geltungsbereich am 29. April 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -436,14 +450,17 @@ Geltungsbereich am 30. August 2023[^t-3]
 <tr><td>Österreich</td><td>30. April</td><td>1949</td><td>30. April</td><td>1950</td></tr>
 <tr><td>Pakistan</td><td>10. Oktober</td><td>1953</td><td>10. Oktober</td><td>1954</td></tr>
 <tr><td>Panama</td><td>3. Juni</td><td>1958</td><td>3. Juni</td><td>1959</td></tr>
+<tr><td>Papua-Neuguinea</td><td>27. September</td><td>2023</td><td>27. September</td><td>2024</td></tr>
 <tr><td>Paraguay</td><td>28. August</td><td>1967</td><td>28. August</td><td>1968</td></tr>
 <tr><td>Peru</td><td>1. Februar</td><td>1960</td><td>1. Februar</td><td>1961</td></tr>
+<tr><td>Philippinen</td><td>5. November</td><td>2024</td><td>5. November</td><td>2025</td></tr>
 <tr><td>Polen</td><td>2. Juni</td><td>1995</td><td>2. Juni</td><td>1996</td></tr>
 <tr><td>Portugal</td><td>12. Februar</td><td>1962</td><td>12. Februar</td><td>1963</td></tr>
 <tr><td>Ruanda</td><td>2. Dezember</td><td>1980</td><td>2. Dezember</td><td>1981</td></tr>
 <tr><td>Rumänien</td><td>6. Juni</td><td>1973</td><td>6. Juni</td><td>1974</td></tr>
 <tr><td>Russland</td><td>2. Juli</td><td>1998</td><td>2. Juli</td><td>1999</td></tr>
 <tr><td>Salomoninseln</td><td>6. August</td><td>1985 N</td><td>6. August</td><td>1985</td></tr>
+<tr><td>Sambia</td><td>23. Dezember</td><td>2013</td><td>23. Dezember</td><td>2014</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>1. Juni</td><td>1982 N</td><td>1. Juni</td><td>1982</td></tr>
 <tr><td>Saudi-Arabien</td><td>15. Juni</td><td>1978</td><td>15. Juni</td><td>1979</td></tr>
 <tr><td>Schweden</td><td>25. November</td><td>1949</td><td>25. November</td><td>1950</td></tr>
@@ -492,4 +509,4 @@ Geltungsbereich am 30. August 2023[^t-3]
 <tr><td colspan="5"><sup>e</sup> Seit dem 5. April 2000 ist die Konvention ohne Änderung auf Neukaledonien anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1972 785](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717); [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673); [1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498); [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834); [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612); [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288); [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418); [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723); [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278); [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149); [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275); [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246); [2023 480](https://fedlex.data.admin.ch/eli/oc/2023/480). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 1972 785](https://fedlex.data.admin.ch/eli/oc/1972/785_793_717); [1973 1673](https://fedlex.data.admin.ch/eli/oc/1973/1673_1673_1673); [1975 2498](https://fedlex.data.admin.ch/eli/oc/1975/2498_2498_2498); [1982 834](https://fedlex.data.admin.ch/eli/oc/1982/834_834_834); [1983 612](https://fedlex.data.admin.ch/eli/oc/1983/612_612_612); [1985 288](https://fedlex.data.admin.ch/eli/oc/1985/288_288_288); [1987 1418](https://fedlex.data.admin.ch/eli/oc/1987/1418_1418_1418); [1992 723](https://fedlex.data.admin.ch/eli/oc/1992/723_723_723); [2005 1745](https://fedlex.data.admin.ch/eli/oc/2005/278); [2008 637](https://fedlex.data.admin.ch/eli/oc/2008/149); [2013 1243](https://fedlex.data.admin.ch/eli/oc/2013/275); [2019 1295](https://fedlex.data.admin.ch/eli/oc/2019/246); [2023 480](https://fedlex.data.admin.ch/eli/oc/2023/480); [2025 275](https://fedlex.data.admin.ch/eli/oc/2025/275). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
