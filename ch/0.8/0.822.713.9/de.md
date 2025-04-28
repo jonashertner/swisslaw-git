@@ -3,11 +3,11 @@ sr: "0.822.713.9"
 title: Übereinkommen Nr. 29 vom 28. Juni 1930 über Zwangs- oder Pflichtarbeit
 eli: "https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260"
 language: de
-version: 2017-07-11
+version: 2025-04-29
 adopted: 1930-06-28
 in_force: 1941-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/956_1002_1260/20170711/de/xml/fedlex-data-admin-ch-eli-cc-56-956_1002_1260-20170711-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/56/956_1002_1260/20170711/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/956_1002_1260/20250429/de/xml/fedlex-data-admin-ch-eli-cc-56-956_1002_1260-20250429-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/56/956_1002_1260/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ In Kraft getreten für die Schweiz am 23. Mai 1941
 
 Geändert durch die Übereinkommen Nr. 80[^t-3] und 116[^t-4]
 
-(État le 11 juillet 2017)
+(Stand am 29. April 2025)
 
 [^t-1]: Das Übereinkommen wurde von der 14. Allgemeinen Arbeitskonferenz angenommen und ist vom Vorsitzenden der Konferenz und vom Generaldirektor des Internationalen Arbeitsamtes unterzeichnet. Die einzelnen Staaten wurden erst verpflichtet mit der Hinterlegung ihrer Ratifikationsurkunde (Art. 28). Infolge Auflösung des Völkerbundes und Abänderung der Verfassung der Internationalen Arbeitsorganisation wurden gewisse Abänderungen an diesem Übereinkommen nötig, um die Durchführung der Kanzleiaufgaben, die ursprünglich dem Generalsekretär des Völkerbundes übertragen waren, sicherzustellen. Diese durch das Übereink. vom 9. Okt. 1946 ([SR 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)) vorgenommenen Abänderungen sind im vorliegenden Text berücksichtigt.
 [^t-2]: AS **56** 953
@@ -300,7 +300,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. Juli 2017[^t-5]
+Geltungsbereich am 29. April 2025[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -328,11 +328,12 @@ Geltungsbereich am 11. Juli 2017[^t-5]
 <tr><td>Bosnien und Herzegowina</td><td>2. Juni</td><td>1993 N</td><td>2. Juni</td><td>1993</td></tr>
 <tr><td>Botsuana</td><td>5. Juni</td><td>1997</td><td>5. Juni</td><td>1998</td></tr>
 <tr><td>Brasilien</td><td>25. April</td><td>1957</td><td>25. April</td><td>1958</td></tr>
+<tr><td>Brunei</td><td>12. Juni</td><td>2023</td><td>12. Juni</td><td>2024</td></tr>
 <tr><td>Bulgarien</td><td>22. September</td><td>1932</td><td>22. September</td><td>1933</td></tr>
 <tr><td>Burkina Faso</td><td>21. November</td><td>1960 N</td><td>21. November</td><td>1960</td></tr>
 <tr><td>Burundi\*</td><td>11. März</td><td>1963 N</td><td>11. März</td><td>1963</td></tr>
 <tr><td>Chile</td><td>31. Mai</td><td>1933</td><td>31. Mai</td><td>1934</td></tr>
-<tr><td>China</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>China</td><td>12. August</td><td>2022</td><td>12. August</td><td>2023</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>b</sup></td><td>13. Juli</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Cook-Inseln</td><td>12. Juni</td><td>2015</td><td>12. Juni</td><td>2016</td></tr>
@@ -397,6 +398,7 @@ Geltungsbereich am 11. Juli 2017[^t-5]
 <tr><td>Komoren</td><td>23. Oktober</td><td>1978 N</td><td>23. Oktober</td><td>1978</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>10. November</td><td>1960 N</td><td>10. November</td><td>1960</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>20. September</td><td>1960 N</td><td>20. September</td><td>1960</td></tr>
+<tr><td>Korea (Süd-)</td><td>20. April</td><td>2021</td><td>20. April</td><td>2022</td></tr>
 <tr><td>Kroatien</td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Kuba</td><td>20. Juli</td><td>1953</td><td>20. Juli</td><td>1954</td></tr>
 <tr><td>Kuwait</td><td>23. September</td><td>1968</td><td>23. September</td><td>1969</td></tr>
@@ -427,7 +429,6 @@ Geltungsbereich am 11. Juli 2017[^t-5]
 <tr><td>Nauru</td><td>5. September</td><td>1968 N</td><td>5. September</td><td>1968</td></tr>
 <tr><td>Nepal</td><td>3. Januar</td><td>2002</td><td>3. Januar</td><td>2003</td></tr>
 <tr><td>Neuseeland</td><td>29. März</td><td>1938</td><td>29. März</td><td>1939</td></tr>
-<tr><td>Cook-Inseln</td><td>4. Dezember</td><td>1946</td><td>4. Dezember</td><td>1946</td></tr>
 <tr><td>Niue</td><td>4. Dezember</td><td>1946</td><td>4. Dezember</td><td>1946</td></tr>
 <tr><td>Tokelau</td><td>7. Juni</td><td>1956</td><td>7. Juni</td><td>1956</td></tr>
 <tr><td>Nicaragua</td><td>12. April</td><td>1934</td><td>12. April</td><td>1935</td></tr>
@@ -513,7 +514,7 @@ Geltungsbereich am 11. Juli 2017[^t-5]
 <tr><td>Vietnam</td><td>5. März</td><td>2007</td><td>5. März</td><td>2008</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>27. Oktober</td><td>1960 N</td><td>27. Oktober</td><td>1960</td></tr>
 <tr><td>Zypern</td><td>23. September</td><td>1960 N</td><td>23. September</td><td>1960</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 3. Juni 1931 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 13. Juli 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation [www.ilo.org](http://www.ilo.org) &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 3. Juni 1931 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 13. Juli 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 </table>
 
-[^t-5]: [AS 1973 1652](https://fedlex.data.admin.ch/eli/oc/1973/1652_1652_1652), [1975 2492](https://fedlex.data.admin.ch/eli/oc/1975/2492_2492_2492), [1982 830](https://fedlex.data.admin.ch/eli/oc/1982/830_830_830), [1985 287](https://fedlex.data.admin.ch/eli/oc/1985/287_287_287), [1991 622](https://fedlex.data.admin.ch/eli/oc/1991/622_622_622), [2002 2915](https://fedlex.data.admin.ch/eli/oc/2002/426), [2005 5013](https://fedlex.data.admin.ch/eli/oc/2005/692), [2008 635](https://fedlex.data.admin.ch/eli/oc/2008/148), [2012 2567](https://fedlex.data.admin.ch/eli/oc/2012/308), [2015 1619](https://fedlex.data.admin.ch/eli/oc/2015/319)und [2017 3801](https://fedlex.data.admin.ch/eli/oc/2017/448). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-5]: [AS 1973 1652](https://fedlex.data.admin.ch/eli/oc/1973/1652_1652_1652); [1975 2492](https://fedlex.data.admin.ch/eli/oc/1975/2492_2492_2492); [1982 830](https://fedlex.data.admin.ch/eli/oc/1982/830_830_830); [1985 287](https://fedlex.data.admin.ch/eli/oc/1985/287_287_287); [1991 622](https://fedlex.data.admin.ch/eli/oc/1991/622_622_622); [2002 2915](https://fedlex.data.admin.ch/eli/oc/2002/426); [2005 5013](https://fedlex.data.admin.ch/eli/oc/2005/692); [2008 635](https://fedlex.data.admin.ch/eli/oc/2008/148); [2012 2567](https://fedlex.data.admin.ch/eli/oc/2012/308); [2015 1619](https://fedlex.data.admin.ch/eli/oc/2015/319); [2017 3801](https://fedlex.data.admin.ch/eli/oc/2017/448); [2025 288](https://fedlex.data.admin.ch/eli/oc/2025/288). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

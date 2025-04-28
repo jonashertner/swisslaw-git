@@ -3,11 +3,11 @@ sr: "0.822.713.9"
 title: Convenzione n. 29 del 28 giugno 1930 concernente il lavoro forzato od obbligatorio
 eli: "https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260"
 language: it
-version: 2017-07-11
+version: 2025-04-29
 adopted: 1930-06-28
 in_force: 1941-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/956_1002_1260/20170711/it/xml/fedlex-data-admin-ch-eli-cc-56-956_1002_1260-20170711-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/56/956_1002_1260/20170711/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/56/956_1002_1260/20250429/it/xml/fedlex-data-admin-ch-eli-cc-56-956_1002_1260-20250429-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/56/956_1002_1260/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/56/956_1002_1260/20170711/it"
 
 RU **56** 1256; FF **1939** I 761 ediz. franc. **1939** I 749 ediz. ted.
 
-Traduzione[^t-1]
+Traduzione
 
-Adottata a Ginevra il 28 giugno 1930[^t-2] Approvata dall’Assemblea federale il 20 giugno 1939[^t-3] Strumenti di ratifica depositati dalla Svizzera il 23 maggio 1940 Entrata in vigore per la Svizzera il 23 maggio 1941 Emendata dalle convenzioni n. 80[^t-4] e 116[^t-5]
+Adottata a Ginevra il 28 giugno 1930[^t-1] Approvata dall’Assemblea federale il 20 giugno 1939[^t-2] Strumenti di ratifica depositati dalla Svizzera il 23 maggio 1940 Entrata in vigore per la Svizzera il 23 maggio 1941 Emendata dalle convenzioni n. 80[^t-3] e 116[^t-4]
 
-(Stato 11 luglio 2017)
+(Stato 29 aprile 2025)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: La Conv. è stata adottata nella quattordicesima sessione della Conferenza internazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conv. solo con il deposito del rispettivo strumento di ratificazione (art. 28). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Conv. allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presente testo si è tenuto conto di queste modificazioni, introdotte dalla Conv. del 9 ott. 1946 ([RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)).
-[^t-3]: [RU 56 1260](https://fedlex.data.admin.ch/eli/oc/56/956_1002_1260)
-[^t-4]: [RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)
-[^t-5]: [RS 0.822.721.6](https://fedlex.data.admin.ch/eli/cc/1962/1359_1404_1413)
+[^t-1]: La Conv. è stata adottata nella quattordicesima sessione della Conferenza internazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conv. solo con il deposito del rispettivo strumento di ratificazione (art. 28). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Conv. allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presente testo si è tenuto conto di queste modificazioni, introdotte dalla Conv. del 9 ott. 1946 ([RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)).
+[^t-2]: [RU 56 1260](https://fedlex.data.admin.ch/eli/oc/56/956_1002_1260)
+[^t-3]: [RS 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)
+[^t-4]: [RS 0.822.721.6](https://fedlex.data.admin.ch/eli/cc/1962/1359_1404_1413)
 
 *La Conferenza generale dell**’**Organizzazione internazionale del Lavoro,*
 
@@ -298,7 +297,7 @@ I testi francese ed inglese della presente Convenzione faranno parimente stato.
 
 (Seguono le firme)
 
-Campo d’applicazione l’11 luglio 2017[^t-6]
+Campo d’applicazione il 29 aprile 2025[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -325,6 +324,7 @@ Campo d’applicazione l’11 luglio 2017[^t-6]
 <tr><td>Bosnia e Erzegovina</td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
 <tr><td>Botswana</td><td>5 giugno</td><td>1997</td><td>5 giugno</td><td>1998</td></tr>
 <tr><td>Brasile</td><td>25 aprile</td><td>1957</td><td>25 aprile</td><td>1958</td></tr>
+<tr><td>Brunei</td><td>12 giugno</td><td>2023</td><td>12 giugno</td><td>2024</td></tr>
 <tr><td>Bulgaria</td><td>22 settembre</td><td>1932</td><td>22 settembre</td><td>1933</td></tr>
 <tr><td>Burkina Faso</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
 <tr><td>Burundi<sup>\*</sup></td><td>11 marzo</td><td>1963 S</td><td>11 marzo</td><td>1963</td></tr>
@@ -335,7 +335,7 @@ Campo d’applicazione l’11 luglio 2017[^t-6]
 <tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>10 novembre</td><td>1960 S</td><td>10 novembre</td><td>1960</td></tr>
 <tr><td>Cile</td><td>31 maggio</td><td>1933</td><td>31 maggio</td><td>1934</td></tr>
-<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cina</td><td>12 agosto</td><td>2022</td><td>12 agosto</td><td>2023</td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Macao <sup>b</sup></td><td>13 luglio</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>23 settembre</td><td>1960 S</td><td>23 settembre</td><td>1960</td></tr>
@@ -344,6 +344,7 @@ Campo d’applicazione l’11 luglio 2017[^t-6]
 <tr><td>Congo (Brazzaville)</td><td>10 novembre</td><td>1960 S</td><td>10 novembre</td><td>1960</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 settembre</td><td>1960 S</td><td>20 settembre</td><td>1960</td></tr>
 <tr><td>Cook, Isole</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2016</td></tr>
+<tr><td>Corea del Sud</td><td>20 aprile</td><td>2021</td><td>20 aprile</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>2 giugno</td><td>1960</td><td>2 giugno</td><td>1961</td></tr>
 <tr><td>Côte d’Ivoire</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
 <tr><td>Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
@@ -435,7 +436,6 @@ Campo d’applicazione l’11 luglio 2017[^t-6]
 <tr><td>Nigeria</td><td>17 ottobre</td><td>1960 S</td><td>17 ottobre</td><td>1960</td></tr>
 <tr><td>Norvegia</td><td>1° luglio</td><td>1932</td><td>1° luglio</td><td>1933</td></tr>
 <tr><td>Nuova Zelanda</td><td>29 marzo</td><td>1938</td><td>29 marzo</td><td>1939</td></tr>
-<tr><td>Isole Cook</td><td>4 dicembre</td><td>1946</td><td>4 dicembre</td><td>1946</td></tr>
 <tr><td>Niue</td><td>4 dicembre</td><td>1946</td><td>4 dicembre</td><td>1946</td></tr>
 <tr><td>Tokelau</td><td>7 giugno</td><td>1956</td><td>7 giugno</td><td>1956</td></tr>
 <tr><td>Oman</td><td>30 ottobre</td><td>1998</td><td>30 ottobre</td><td>1999</td></tr>
@@ -514,4 +514,4 @@ Campo d’applicazione l’11 luglio 2017[^t-6]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/global/topics/labour-law/lang--fr/index.htm, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 3 giu. 1931 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 13 lug. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-6]: [RU 1973 1652](https://fedlex.data.admin.ch/eli/oc/1973/1652_1652_1652), [1975 2492](https://fedlex.data.admin.ch/eli/oc/1975/2492_2492_2492), [1982 830](https://fedlex.data.admin.ch/eli/oc/1982/830_830_830), [1985 287](https://fedlex.data.admin.ch/eli/oc/1985/287_287_287), [1991 622](https://fedlex.data.admin.ch/eli/oc/1991/622_622_622), [2002 2915](https://fedlex.data.admin.ch/eli/oc/2002/426), [2005 5013](https://fedlex.data.admin.ch/eli/oc/2005/692), [2008 635](https://fedlex.data.admin.ch/eli/oc/2008/148), [2012 2567](https://fedlex.data.admin.ch/eli/oc/2012/308), [2015 1619](https://fedlex.data.admin.ch/eli/oc/2015/319)e [2017 3801](https://fedlex.data.admin.ch/eli/oc/2017/448). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-5]: [RU 1973 1652](https://fedlex.data.admin.ch/eli/oc/1973/1652_1652_1652); [1975 2492](https://fedlex.data.admin.ch/eli/oc/1975/2492_2492_2492); [1982 830](https://fedlex.data.admin.ch/eli/oc/1982/830_830_830); [1985 287](https://fedlex.data.admin.ch/eli/oc/1985/287_287_287); [1991 622](https://fedlex.data.admin.ch/eli/oc/1991/622_622_622); [2002 2915](https://fedlex.data.admin.ch/eli/oc/2002/426); [2005 5013](https://fedlex.data.admin.ch/eli/oc/2005/692); [2008 635](https://fedlex.data.admin.ch/eli/oc/2008/148); [2012 2567](https://fedlex.data.admin.ch/eli/oc/2012/308); [2015 1619](https://fedlex.data.admin.ch/eli/oc/2015/319); [2017 3801](https://fedlex.data.admin.ch/eli/oc/2017/448); [2025 288](https://fedlex.data.admin.ch/eli/oc/2025/288). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
