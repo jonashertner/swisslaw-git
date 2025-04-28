@@ -3,11 +3,11 @@ sr: "0.822.728.9"
 title: "Convention n<sup>o</sup> 189 du 16 juin 2011 concernant le travail décent des travailleuses et travailleurs domestiques (avec recommandation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/686"
 language: fr
-version: 2024-10-10
+version: 2025-04-29
 adopted: 2011-06-16
 in_force: 2015-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20241010/fr/xml/fedlex-data-admin-ch-eli-cc-2015-686-20241010-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20241010/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-2015-686-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 novembre 2014
 
 Entrée en vigueur pour la Suisse le 12 novembre 2015
 
-(État le 10 octobre 2024)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 2015 4073](https://fedlex.data.admin.ch/eli/oc/2015/685)
 
@@ -273,11 +273,11 @@ Les versions française et anglaise du texte de la présente Convention font ég
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 1<sup>er</sup> juin 2011, en sa centième;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 1<sup>er</sup> juin 2011, en sa centième,
 
-après avoir adopté la convention sur les travailleuses et travailleurs domestiques, 2011;
+après avoir adopté la convention sur les travailleuses et travailleurs domestiques, 2011,
 
-après avoir décidé d’adopter diverses propositions relatives au travail décent pour les travailleurs domestiques, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives au travail décent pour les travailleurs domestiques, question qui constitue le quatrième point à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendraient la forme d’une recommandation complétant la convention sur les travailleuses et travailleurs domestiques, 2011,
 
@@ -423,7 +423,7 @@ c) le taux auquel les heures de disponibilité devraient être rémunérées.
   - a) d’adopter pour le personnel diplomatique des politiques et des codes de conduite destinés à prévenir la violation des droits des travailleurs domestiques;
   - b) de coopérer entre eux aux niveaux bilatéral, régional et multilatéral pour aborder la question des pratiques abusives à l’encontre des travailleurs domestiques et prévenir ces pratiques.
 
-Champ d’application le 10 octobre 2024[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -453,6 +453,7 @@ Champ d’application le 10 octobre 2024[^t-2]
 <tr><td>Mexique</td><td>3 juillet</td><td>2020</td><td>3 juillet</td><td>2021</td></tr>
 <tr><td>Namibie</td><td>9 septembre</td><td>2020 A</td><td>9 septembre</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>10 janvier</td><td>2013</td><td>10 janvier</td><td>2014</td></tr>
+<tr><td>Norvège</td><td>8 juillet</td><td>2021</td><td>8 juillet</td><td>2022</td></tr>
 <tr><td>Panama</td><td>11 juin</td><td>2015</td><td>11 juin</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>7 mai</td><td>2013</td><td>7 mai</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>26 novembre</td><td>2018</td><td>26 novembre</td><td>2019</td></tr>
@@ -460,9 +461,10 @@ Champ d’application le 10 octobre 2024[^t-2]
 <tr><td>Portugal</td><td>17 juillet</td><td>2015</td><td>17 juillet</td><td>2016</td></tr>
 <tr><td>République dominicaine</td><td>15 mai</td><td>2015</td><td>15 mai</td><td>2016</td></tr>
 <tr><td>Seychelles</td><td>22 janvier</td><td>2024</td><td>22 février</td><td>2025</td></tr>
+<tr><td>Sierra Leone</td><td>25 août</td><td>2021</td><td>25 août</td><td>2022</td></tr>
 <tr><td>Suède</td><td>4 avril</td><td>2019</td><td>4 avril</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>12 novembre</td><td>2014</td><td>12 novembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>14 juin</td><td>2012</td><td>5 septembre</td><td>2013</td></tr>
 </table>
 
-[^t-2]: [RO 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563); [2025 283](https://fedlex.data.admin.ch/eli/oc/2025/283). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

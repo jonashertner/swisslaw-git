@@ -3,11 +3,11 @@ sr: "0.822.728.9"
 title: Convenzione n. 189 del 16 giugno 2011 sul lavoro dignitoso per le lavoratrici e i lavoratori domestici (con raccomandazione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/686"
 language: it
-version: 2024-10-10
+version: 2025-04-29
 adopted: 2011-06-16
 in_force: 2015-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20241010/it/xml/fedlex-data-admin-ch-eli-cc-2015-686-20241010-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20241010/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20250429/it/xml/fedlex-data-admin-ch-eli-cc-2015-686-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2015** 4075; FF **2013** 5969
 
 *Traduzione*
 
-Conclusa a Ginevra il 16 giugno 2011
+Conclusa a Ginevra il 16 giugno 2011 Approvata dall’Assemblea federale il 20 giugno 2014[^t-1] Strumento di ratifica depositato dalla Svizzera il 12 novembre 2014 Entrata in vigore per la Svizzera il 12 novembre 2015
 
-Approvata dall’Assemblea federale il 20 giugno 2014[^t-1] Strumento di ratifica depositato dalla Svizzera il 12 novembre 2014 Entrata in vigore per la Svizzera il 12 novembre 2015
-
-(Stato 10 ottobre 2024)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 2015 4073](https://fedlex.data.admin.ch/eli/oc/2015/685)
 
@@ -263,9 +261,9 @@ Qualora la Conferenza adotti una nuova convenzione recante revisione totale o pa
 
 Il testo francese e il testo inglese della presente Convenzione fanno ugualmente fede.
 
-(Seguono le firme)
+*(Seguono le firme)*
 
-Raccomandazione n. 201 sul lavoro dignitoso per le lavoratrici e i lavoratori domestici, 2011
+## Raccomandazione n. 201 sul lavoro dignitoso per le lavoratrici e i lavoratori domestici, 2011
 
 La Conferenza generale dell’Organizzazione internazionale del lavoro,
 
@@ -419,7 +417,7 @@ adotta, oggi sedici giugno duemilaundici, la seguente raccomandazione che sarà 
   - a) adottare per il personale diplomatico politiche e codici di condotta destinati a prevenire la violazione dei diritti dei lavoratori domestici;
   - b) cooperare tra loro a livello bilaterale, regionale e multilaterale per affrontare la questione delle pratiche abusive nei confronti dei lavoratori domestici e per prevenire tali pratiche.
 
-Campo d’applicazione il 10 ottobre 2024[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -449,11 +447,13 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Messico</td><td>3 luglio</td><td>2020</td><td>3 luglio</td><td>2021</td></tr>
 <tr><td>Namibia</td><td>9 settembre</td><td>2020 A</td><td>9 settembre</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>10 gennaio</td><td>2013</td><td>10 gennaio</td><td>2014</td></tr>
+<tr><td>Norvegia</td><td>8 luglio</td><td>2021</td><td>8 luglio</td><td>2022</td></tr>
 <tr><td>Panama</td><td>11 giugno</td><td>2015</td><td>11 giugno</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>7 maggio</td><td>2013</td><td>7 maggio</td><td>2014</td></tr>
 <tr><td>Perù</td><td>26 novembre</td><td>2018</td><td>26 novembre</td><td>2019</td></tr>
 <tr><td>Portogallo</td><td>17 luglio</td><td>2015</td><td>17 luglio</td><td>2016</td></tr>
 <tr><td>Seycelles</td><td>22 gennaio</td><td>2024</td><td>22 febbraio</td><td>2025</td></tr>
+<tr><td>Sierra Leone</td><td>25 agosto</td><td>2021</td><td>25 agosto</td><td>2022</td></tr>
 <tr><td>Spagna</td><td>28 febbraio</td><td>2023</td><td>28 febbraio</td><td>2024</td></tr>
 <tr><td>Sudafrica</td><td>20 giugno</td><td>2013</td><td>20 giugno</td><td>2014</td></tr>
 <tr><td>Svezia</td><td>4 aprile</td><td>2019</td><td>4 aprile</td><td>2020</td></tr>
@@ -461,4 +461,4 @@ Campo d’applicazione il 10 ottobre 2024[^t-2]
 <tr><td>Uruguay</td><td>14 giugno</td><td>2012</td><td>5 settembre</td><td>2013</td></tr>
 </table>
 
-[^t-2]: [RU 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563); [2025 283](https://fedlex.data.admin.ch/eli/oc/2025/283). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
