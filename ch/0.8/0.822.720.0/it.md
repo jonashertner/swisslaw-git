@@ -3,11 +3,11 @@ sr: "0.822.720.0"
 title: "Convenzione n. 100 del 29 giugno 1951 sulla parità di rimunerazione, per lavoro uguale, tra manodopera maschile e femminile"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602"
 language: it
-version: 2019-03-27
+version: 2025-04-29
 adopted: 1951-06-29
 in_force: 1973-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20190327/it/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20190327-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20190327/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottata a Ginevra il 29 giugno 1951 Approvata dall’Assemblea federale il 15 giugno 1972[^t-1] Ratificata con strumento depositato dalla Svizzera il 25 ottobre 1972 Entrata in vigore per la Svizzera il 25 ottobre 1973
 
-(Stato 27 marzo 2019)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1973 1601](https://fedlex.data.admin.ch/eli/oc/1973/1601_1601_1601)
 
@@ -131,7 +131,9 @@ Il Consiglio d’amministrazione dell’Ufficio internazionale del Lavoro, ogni 
 
 #### Art. 13
 
-l. Nel caso in cui la Conferenza adottasse una convenzione modificante totalmente o parzialmente la presente, e salve le disposizioni contrarie della nuova convenzione:
+<sup>1.</sup>
+
+Nel caso in cui la Conferenza adottasse una convenzione modificante totalmente o parzialmente la presente, e salve le disposizioni contrarie della nuova convenzione:
 
 - a) la ratificazione, da parte di un Membro, della convenzione modificante implicherebbe di diritto, nonostante l’articolo 9, la disdetta della presente convenzione, sempreché la convenzione modificante sia entrata in vigore;
 - b) a contare dall’entrata in vigore della convenzione modificante, la presente convenzione non potrebbe più essere ratificata dai Membri.
@@ -142,7 +144,7 @@ l. Nel caso in cui la Conferenza adottasse una convenzione modificante totalment
 
 Le versioni in lingua francese e inglese del testo della presente convenzione fanno parimente fede.
 
-Campo d’applicazione il 27 marzo 2019**[^t-2]**
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -201,6 +203,7 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Eritrea</td><td>22 febbraio</td><td>2000</td><td>22 febbraio</td><td>2001</td></tr>
 <tr><td>Estonia</td><td>10 maggio</td><td>1996</td><td>10 maggio</td><td>1997</td></tr>
 <tr><td>Etiopia</td><td>24 marzo</td><td>1999</td><td>24 marzo</td><td>2000</td></tr>
+<tr><td>Eswatini</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>Figi</td><td>17 aprile</td><td>2002</td><td>17 aprile</td><td>2003</td></tr>
 <tr><td>Filippine</td><td>29 dicembre</td><td>1953</td><td>29 dicembre</td><td>1954</td></tr>
 <tr><td>Finlandia</td><td>14 gennaio</td><td>1963</td><td>14 gennaio</td><td>1964</td></tr>
@@ -232,6 +235,7 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Iraq</td><td>28 agosto</td><td>1963</td><td>28 agosto</td><td>1964</td></tr>
 <tr><td>Irlanda</td><td>18 dicembre</td><td>1974</td><td>18 dicembre</td><td>1975</td></tr>
 <tr><td>Islanda</td><td>17 febbraio</td><td>1958</td><td>17 febbraio</td><td>1959</td></tr>
+<tr><td>Isole Salomone</td><td>13 aprile</td><td>2012</td><td>13 aprile</td><td>2013</td></tr>
 <tr><td>Israele</td><td>9 giugno</td><td>1965</td><td>9 giugno</td><td>1966</td></tr>
 <tr><td>Italia</td><td>8 giugno</td><td>1956</td><td>8 giugno</td><td>1957</td></tr>
 <tr><td>Kazakstan</td><td>18 maggio</td><td>2001</td><td>18 maggio</td><td>2002</td></tr>
@@ -242,6 +246,7 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Lesotho</td><td>27 gennaio</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
 <tr><td>Lettonia</td><td>27 gennaio</td><td>1992</td><td>27 gennaio</td><td>1993</td></tr>
 <tr><td>Libano</td><td>1° giugno</td><td>1977</td><td>1° giugno</td><td>1978</td></tr>
+<tr><td>Liberia</td><td>13 giugno</td><td>2022</td><td>13 giugno</td><td>2023</td></tr>
 <tr><td>Libia</td><td>20 giugno</td><td>1962</td><td>20 giugno</td><td>1963</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>23 agosto</td><td>1967</td><td>23 agosto</td><td>1968</td></tr>
@@ -305,7 +310,6 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td>Sudan del Sud</td><td>29 aprile</td><td>2012</td><td>29 aprile</td><td>2013</td></tr>
 <tr><td>Svezia</td><td>20 giugno</td><td>1962</td><td>20 giugno</td><td>1963</td></tr>
 <tr><td>Svizzera</td><td>25 ottobre</td><td>1972</td><td>25 ottobre</td><td>1973</td></tr>
-<tr><td>Swaziland</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>Tagikistan</td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>26 febbraio</td><td>2002</td><td>26 febbraio</td><td>2003</td></tr>
 <tr><td>Thailandia</td><td>8 febbraio</td><td>1999</td><td>8 febbraio</td><td>2000</td></tr>
@@ -331,4 +335,4 @@ Campo d’applicazione il 27 marzo 2019**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Dal 4 ott. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 lug. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 1973 1602](https://fedlex.data.admin.ch/eli/oc/1973/1602_1602_1602), [1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501), [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839), [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577), [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774), [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192), [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264), [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280), [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479), [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213), [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501); [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839); [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577); [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774); [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192); [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264); [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280); [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479); [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213); [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220); [2025 276](https://fedlex.data.admin.ch/eli/oc/2025/276). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

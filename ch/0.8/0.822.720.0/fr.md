@@ -3,31 +3,26 @@ sr: "0.822.720.0"
 title: "Convention n<sup>o</sup> 100 du 29 juin 1951 concernant l'égalité de rémunération entre la main-d'œuvre masculine et la main-d'œuvre féminine pour un travail de valeur égale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602"
 language: fr
-version: 2019-03-27
+version: 2025-04-29
 adopted: 1951-06-29
 in_force: 1973-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20190327/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20190327-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20190327/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention n<sup>o</sup> 100 concernant l’égalité de rémunération entre la main-d’œuvre masculine et la main‑d’œuvre féminine pour un travail de valeur égale
 
-[^t-1]ro Texte original
+RO **1973** 1602; FF **1971** II 1541
 
-Adoptée à Genève le 29 juin 1951
+Texte original
 
-Approuvée par l’Assemblée fédérale le 15 juin 1972[^t-2]
+Adoptée à Genève le 29 juin 1951 Approuvée par l’Assemblée fédérale le 15 juin 1972[^t-1] Instrument de ratification déposé par la Suisse le 25 octobre 1972 Entrée en vigueur pour la Suisse le 25 octobre 1973
 
-Instrument de ratification déposé par la Suisse le 25 octobre 1972
+(État le 29 avril 2025)
 
-Entrée en vigueur pour la Suisse le 25 octobre 1973
-
-(Etat le 27 mars 2019)
-
-[^t-1]: [RO 1973 1602](https://fedlex.data.admin.ch/eli/oc/1973/1602_1602_1602); [FF 1971 II 1541](https://fedlex.data.admin.ch/eli/fga/1971/2_1530_1541_1181)
-[^t-2]: [RO 1973 1601](https://fedlex.data.admin.ch/eli/oc/1973/1601_1601_1601)
+[^t-1]: [RO 1973 1601](https://fedlex.data.admin.ch/eli/oc/1973/1601_1601_1601)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
@@ -149,10 +144,10 @@ Au cas où la Conférence adopterait une nouvelle convention portant revision to
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 27 mars 2019**[^t-3]**
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>22 août</td><td>1969</td><td>22 août</td><td>1970</td></tr>
 <tr><td>Afrique du Sud</td><td>30 mars</td><td>2000</td><td>30 mars</td><td>2001</td></tr>
 <tr><td>Albanie</td><td>3 juin</td><td>1957</td><td>3 juin</td><td>1958</td></tr>
@@ -164,7 +159,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Argentine</td><td>24 septembre</td><td>1956</td><td>24 septembre</td><td>1957</td></tr>
 <tr><td>Arménie</td><td>29 juillet</td><td>1994</td><td>29 juillet</td><td>1995</td></tr>
 <tr><td>Australie\*</td><td>10 décembre</td><td>1974</td><td>10 décembre</td><td>1975</td></tr>
-<tr><td>[tab] Ile Norfolk <sup>a</sup></td><td>8 février</td><td>1996</td><td>8 février</td><td>1996</td></tr>
+<tr><td>Île Norfolk <sup>a</sup></td><td>8 février</td><td>1996</td><td>8 février</td><td>1996</td></tr>
 <tr><td>Autriche</td><td>29 octobre</td><td>1953</td><td>29 octobre</td><td>1954</td></tr>
 <tr><td>Azerbaïdjan</td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
 <tr><td>Bahamas</td><td>14 juin</td><td>2001</td><td>14 juin</td><td>2002</td></tr>
@@ -187,7 +182,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Cap-Vert</td><td>16 octobre</td><td>1979 S</td><td>16 octobre</td><td>1979</td></tr>
 <tr><td>Chili</td><td>20 septembre</td><td>1971</td><td>20 septembre</td><td>1972</td></tr>
 <tr><td>Chine\*</td><td>2 novembre</td><td>1990</td><td>2 novembre</td><td>1991</td></tr>
-<tr><td>[tab] Macao <sup>a</sup> <sup>b</sup></td><td>20 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Macao <sup>a</sup> <sup>b</sup></td><td>20 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>19 novembre</td><td>1987</td><td>19 novembre</td><td>1988</td></tr>
 <tr><td>Colombie</td><td>7 juin</td><td>1963</td><td>7 juin</td><td>1964</td></tr>
 <tr><td>Comores</td><td>23 octobre</td><td>1978 S</td><td>23 octobre</td><td>1978</td></tr>
@@ -195,27 +190,27 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Congo (Kinshasa)</td><td>16 juin</td><td>1969</td><td>16 juin</td><td>1970</td></tr>
 <tr><td>Corée (Sud)</td><td>8 décembre</td><td>1997</td><td>8 décembre</td><td>1998</td></tr>
 <tr><td>Costa Rica</td><td>2 juin</td><td>1960</td><td>2 juin</td><td>1961</td></tr>
-<tr><td>Côte d'Ivoire</td><td>5 mai</td><td>1961</td><td>5 mai</td><td>1962</td></tr>
+<tr><td>Côte d’Ivoire</td><td>5 mai</td><td>1961</td><td>5 mai</td><td>1962</td></tr>
 <tr><td>Croatie</td><td>8 octobre</td><td>1991 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>13 janvier</td><td>1954</td><td>13 janvier</td><td>1955</td></tr>
 <tr><td>Danemark\*</td><td>22 juin</td><td>1960</td><td>22 juin</td><td>1961</td></tr>
 <tr><td>Djibouti</td><td>3 août</td><td>1978 S</td><td>3 août</td><td>1978</td></tr>
 <tr><td>Dominique</td><td>28 février</td><td>1983</td><td>28 février</td><td>1984</td></tr>
-<tr><td>Egypte</td><td>26 juillet</td><td>1960</td><td>26 juillet</td><td>1961</td></tr>
+<tr><td>Égypte</td><td>26 juillet</td><td>1960</td><td>26 juillet</td><td>1961</td></tr>
 <tr><td>El Salvador</td><td>12 octobre</td><td>2000</td><td>12 octobre</td><td>2001</td></tr>
-<tr><td>Emirats arabes unis</td><td>24 février</td><td>1997</td><td>24 février</td><td>1998</td></tr>
-<tr><td>Equateur</td><td>11 mars</td><td>1957</td><td>11 mars</td><td>1958</td></tr>
-<tr><td>Erythrée</td><td>22 février</td><td>2000</td><td>22 février</td><td>2001</td></tr>
+<tr><td>Émirats arabes unis</td><td>24 février</td><td>1997</td><td>24 février</td><td>1998</td></tr>
+<tr><td>Équateur</td><td>11 mars</td><td>1957</td><td>11 mars</td><td>1958</td></tr>
+<tr><td>Érythrée</td><td>22 février</td><td>2000</td><td>22 février</td><td>2001</td></tr>
 <tr><td>Espagne</td><td>6 novembre</td><td>1967</td><td>6 novembre</td><td>1968</td></tr>
 <tr><td>Estonie</td><td>10 mai</td><td>1996</td><td>10 mai</td><td>1997</td></tr>
 <tr><td>Eswatini</td><td>5 juin</td><td>1981</td><td>5 juin</td><td>1982</td></tr>
-<tr><td>Ethiopie</td><td>24 mars</td><td>1999</td><td>24 mars</td><td>2000</td></tr>
+<tr><td>Éthiopie</td><td>24 mars</td><td>1999</td><td>24 mars</td><td>2000</td></tr>
 <tr><td>Fidji</td><td>17 avril</td><td>2002</td><td>17 avril</td><td>2003</td></tr>
 <tr><td>Finlande</td><td>14 janvier</td><td>1963</td><td>14 janvier</td><td>1964</td></tr>
 <tr><td>France\*</td><td>10 mars</td><td>1953</td><td>10 mars</td><td>1954</td></tr>
-<tr><td>[tab] Nouvelle-Calédonie</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td>[tab] Polynésie française</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
-<tr><td>[tab] Saint-Pierre-et-Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Nouvelle-Calédonie</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Polynésie française</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Saint-Pierre-et-Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
 <tr><td>Gabon</td><td>13 juin</td><td>1961</td><td>13 juin</td><td>1962</td></tr>
 <tr><td>Gambie</td><td>4 septembre</td><td>2000</td><td>4 septembre</td><td>2001</td></tr>
 <tr><td>Géorgie</td><td>22 juin</td><td>1993 S</td><td>22 juin</td><td>1993</td></tr>
@@ -230,6 +225,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Haïti</td><td>4 mars</td><td>1958</td><td>4 mars</td><td>1959</td></tr>
 <tr><td>Honduras</td><td>9 août</td><td>1956</td><td>9 août</td><td>1957</td></tr>
 <tr><td>Hongrie</td><td>8 juin</td><td>1956</td><td>8 juin</td><td>1957</td></tr>
+<tr><td>Îles Salomon</td><td>13 avril</td><td>2012</td><td>13 avril</td><td>2013</td></tr>
 <tr><td>Inde</td><td>25 septembre</td><td>1958</td><td>25 septembre</td><td>1959</td></tr>
 <tr><td>Indonésie</td><td>11 août</td><td>1958</td><td>11 août</td><td>1959</td></tr>
 <tr><td>Iran</td><td>10 juin</td><td>1972</td><td>10 juin</td><td>1973</td></tr>
@@ -249,6 +245,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Lesotho</td><td>27 janvier</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
 <tr><td>Lettonie</td><td>27 janvier</td><td>1992</td><td>27 janvier</td><td>1993</td></tr>
 <tr><td>Liban</td><td>1<sup>er</sup> juin</td><td>1977</td><td>1<sup>er</sup> juin</td><td>1978</td></tr>
+<tr><td>Libéria</td><td>13 juin</td><td>2022</td><td>13 juin</td><td>2023</td></tr>
 <tr><td>Libye</td><td>20 juin</td><td>1962</td><td>20 juin</td><td>1963</td></tr>
 <tr><td>Lituanie</td><td>26 septembre</td><td>1994</td><td>26 septembre</td><td>1995</td></tr>
 <tr><td>Luxembourg</td><td>23 août</td><td>1967</td><td>23 août</td><td>1968</td></tr>
@@ -274,7 +271,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Nigéria</td><td>8 mai</td><td>1974</td><td>8 mai</td><td>1975</td></tr>
 <tr><td>Norvège</td><td>24 septembre</td><td>1959</td><td>24 septembre</td><td>1960</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>3 juin</td><td>1983</td><td>3 juin</td><td>1984</td></tr>
-<tr><td>[tab] Tokelau</td><td>3 juin</td><td>1983</td><td>3 juin</td><td>1984</td></tr>
+<tr><td>Tokelau</td><td>3 juin</td><td>1983</td><td>3 juin</td><td>1984</td></tr>
 <tr><td>Ouganda</td><td>2 juin</td><td>2005</td><td>2 juin</td><td>2006</td></tr>
 <tr><td>Ouzbékistan</td><td>13 juillet</td><td>1992 S</td><td>13 juillet</td><td>1992</td></tr>
 <tr><td>Pakistan</td><td>11 octobre</td><td>2001</td><td>11 octobre</td><td>2002</td></tr>
@@ -291,9 +288,9 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>28 mai</td><td>1957</td><td>28 mai</td><td>1958</td></tr>
 <tr><td>Royaume-Uni\*</td><td>15 juin</td><td>1971</td><td>15 juin</td><td>1972</td></tr>
-<tr><td>[tab] Gibraltar</td><td>3 mai</td><td>1978</td><td>3 mai</td><td>1978</td></tr>
-<tr><td>[tab] Jersey</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
-<tr><td>[tab] Ile de Man</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
+<tr><td>Gibraltar</td><td>3 mai</td><td>1978</td><td>3 mai</td><td>1978</td></tr>
+<tr><td>Jersey</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
+<tr><td>Île de Man</td><td>12 novembre</td><td>1974</td><td>12 novembre</td><td>1974</td></tr>
 <tr><td>Russie</td><td>30 avril</td><td>1956</td><td>30 avril</td><td>1957</td></tr>
 <tr><td>Rwanda</td><td>2 décembre</td><td>1980</td><td>2 décembre</td><td>1981</td></tr>
 <tr><td>Sainte-Lucie</td><td>18 août</td><td>1983</td><td>18 août</td><td>1984</td></tr>
@@ -333,7 +330,7 @@ Champ d’application le 27 mars 2019**[^t-3]**
 <tr><td>Yémen</td><td>29 juillet</td><td>1976</td><td>29 juillet</td><td>1977</td></tr>
 <tr><td>Zambie</td><td>20 juin</td><td>1972</td><td>20 juin</td><td>1973</td></tr>
 <tr><td>Zimbabwe</td><td>14 décembre</td><td>1989</td><td>14 décembre</td><td>1990</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: www.ilo.org &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Applicable sans modification. <sup>b</sup> Du 4 oct. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 juillet 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: [www.ilo.org](http://www.ilo.org/) &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Applicable sans modification. <sup>b</sup> Du 4 oct. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 juillet 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: RO **1973** 1606, [1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501), [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839), [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577), [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774), [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192), [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264), [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280), [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479), [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213), [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1973 1602](https://fedlex.data.admin.ch/eli/oc/1973/1602_1602_1602); [1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501); [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839); [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577); [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774); [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192); [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264); [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280); [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479); [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213); [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220); [2025 276](https://fedlex.data.admin.ch/eli/oc/2025/276). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

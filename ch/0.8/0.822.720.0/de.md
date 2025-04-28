@@ -3,11 +3,11 @@ sr: "0.822.720.0"
 title: Übereinkommen Nr. 100 vom 29. Juni 1951 über die Gleichheit des Entgelts männlicher und weiblicher Arbeitskräfte für gleichwertige Arbeit
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602"
 language: de
-version: 2019-03-27
+version: 2025-04-29
 adopted: 1951-06-29
 in_force: 1973-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20190327/de/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20190327-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20190327/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1973-1602_1602_1602-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1602_1602_1602/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1973** 1602; BBl **1971** II 1530
 
 Angenommen in Genf am 29. Juni 1951 Von der Bundesversammlung genehmigt am 15. Juni 1972[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 25. Oktober 1972 In Kraft getreten für die Schweiz am 25. Oktober 1973
 
-(Stand am 27. März 2019)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1973 1601](https://fedlex.data.admin.ch/eli/oc/1973/1601_1601_1601)
 
@@ -43,7 +43,9 @@ Für dieses Übereinkommen gelten folgende Begriffsbestimmungen:
 
 <sup>1.</sup> Jedes Mitglied hat mit den Mitteln, die den bestehenden Verfahren zur Festsetzung der Entgeltsätze entsprechen, die Anwendung des Grundsatzes der Gleichheit des Entgelts männlicher und weiblicher Arbeitskräfte für gleichwertige Arbeit auf alle Arbeitnehmer zu fördern und, soweit es mit diesen Verfahren vereinbar ist, sicherzustellen.
 
-<sup>2.</sup> Dieser Grundsatz kann verwirklicht werden durch
+<sup>2.</sup>
+
+Dieser Grundsatz kann verwirklicht werden durch:
 
 - a) die innerstaatliche Gesetzgebung,
 - b) gesetzlich geschaffene oder anerkannte Einrichtungen zur Lohnfestsetzung,
@@ -76,7 +78,9 @@ Die förmlichen Ratifikationen dieses Übereinkommens sind dem Generaldirektor d
 
 #### Art. 7
 
-<sup>1.</sup> In den dem Generaldirektor des Internationalen Arbeitsamtes nach Artikel 35 Absatz 2 der Verfassung der Internationalen Arbeitsorganisation[^7-1] übermittelten Erklärungen hat das beteiligte Mitglied die Gebiete bekanntzugeben,
+<sup>1.</sup>
+
+In den dem Generaldirektor des Internationalen Arbeitsamtes nach Artikel 35 Absatz 2 der Verfassung der Internationalen Arbeitsorganisation[^7-1] übermittelten Erklärungen hat das beteiligte Mitglied die Gebiete bekanntzugeben:
 
 - a) für die es die Verpflichtung zur unveränderten Durchführung der Bestimmungen des Übereinkommens übernimmt,
 - b) für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen,
@@ -136,7 +140,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 27. März 2019**[^t-2]**
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -231,6 +235,7 @@ Geltungsbereich am 27. März 2019**[^t-2]**
 <tr><td>Lesotho</td><td>27. Januar</td><td>1998</td><td>27. Januar</td><td>1999</td></tr>
 <tr><td>Lettland</td><td>27. Januar</td><td>1992</td><td>27. Januar</td><td>1993</td></tr>
 <tr><td>Libanon</td><td>1. Juni</td><td>1977</td><td>1. Juni</td><td>1978</td></tr>
+<tr><td>Liberia</td><td>13. Juni</td><td>2022</td><td>13. Juni</td><td>2023</td></tr>
 <tr><td>Libyen</td><td>20. Juni</td><td>1962</td><td>20. Juni</td><td>1963</td></tr>
 <tr><td>Litauen</td><td>26. September</td><td>1994</td><td>26. September</td><td>1995</td></tr>
 <tr><td>Luxemburg</td><td>23. August</td><td>1967</td><td>23. August</td><td>1968</td></tr>
@@ -270,6 +275,7 @@ Geltungsbereich am 27. März 2019**[^t-2]**
 <tr><td>Ruanda</td><td>2. Dezember</td><td>1980</td><td>2. Dezember</td><td>1981</td></tr>
 <tr><td>Rumänien</td><td>28. Mai</td><td>1957</td><td>28. Mai</td><td>1958</td></tr>
 <tr><td>Russland</td><td>30. April</td><td>1956</td><td>30. April</td><td>1957</td></tr>
+<tr><td>Salomoninseln</td><td>13. April</td><td>2012</td><td>13. April</td><td>2013</td></tr>
 <tr><td>Sambia</td><td>20. Juni</td><td>1972</td><td>20. Juni</td><td>1973</td></tr>
 <tr><td>Samoa</td><td>30. Juni</td><td>2008</td><td>30. Juni</td><td>2009</td></tr>
 <tr><td>San Marino</td><td>23. Mai</td><td>1985</td><td>23. Mai</td><td>1986</td></tr>
@@ -320,7 +326,7 @@ Geltungsbereich am 27. März 2019**[^t-2]**
 <tr><td>Vietnam</td><td>7. Oktober</td><td>1997</td><td>7. Oktober</td><td>1998</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>9. Juni</td><td>1964</td><td>9. Juni</td><td>1965</td></tr>
 <tr><td>Zypern</td><td>19. November</td><td>1987</td><td>19. November</td><td>1988</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation www.ilo.org &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Anwendbar ohne Änderung. <sup>b</sup> Vom 4. Oktober 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Juli 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation [www.ilo.org](http://www.ilo.org) &gt; Normes du travail &gt; NORMLEX &gt; Intruments &gt; Conventions et Recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Anwendbar ohne Änderung. <sup>b</sup> Vom 4. Oktober 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Juli 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1973 1602](https://fedlex.data.admin.ch/eli/oc/1973/1602_1602_1602), [1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501), [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839), [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577), [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774), [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192), [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264), [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280), [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479), [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213), [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1975 2501](https://fedlex.data.admin.ch/eli/oc/1975/2501_2501_2501); [1982 839](https://fedlex.data.admin.ch/eli/oc/1982/839_839_839); [1984 577](https://fedlex.data.admin.ch/eli/oc/1984/577_577_577); [1985 1774](https://fedlex.data.admin.ch/eli/oc/1985/1774_1774_1774); [1986 1192](https://fedlex.data.admin.ch/eli/oc/1986/1192_1192_1192); [1989 1264](https://fedlex.data.admin.ch/eli/oc/1989/1264_1264_1264); [2005 1749](https://fedlex.data.admin.ch/eli/oc/2005/280); [2010 3437](https://fedlex.data.admin.ch/eli/oc/2010/479); [2015 1077](https://fedlex.data.admin.ch/eli/oc/2015/213); [2019 1197](https://fedlex.data.admin.ch/eli/oc/2019/220); [2025 276](https://fedlex.data.admin.ch/eli/oc/2025/276). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
