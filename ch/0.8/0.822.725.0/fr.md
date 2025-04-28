@@ -3,11 +3,11 @@ sr: "0.822.725.0"
 title: "Convention n<sup>o</sup> 150 du 26 juin 1978 concernant l'administration du travail: rôle, fonctions et organisation"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/327_327_327"
 language: fr
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1978-06-26
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20230906/fr/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20230906-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20230906/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 26 juin 1978 Approuvée par l’Assemblée fédérale le 16 décembre 1980[^t-1] Instrument de ratification déposé par la Suisse le 3 mars 1981 Entrée en vigueur pour la Suisse le 3 mars 1982
 
-(État le 6 septembre 2023)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
@@ -157,7 +157,7 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 6 septembre 2023[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -182,6 +182,7 @@ Champ d’application le 6 septembre 2023[^t-2]
 <tr><td>Congo (Kinshasa)</td><td>3 avril</td><td>1987</td><td>3 avril</td><td>1988</td></tr>
 <tr><td>Corée (Sud)</td><td>8 décembre</td><td>1997</td><td>8 décembre</td><td>1998</td></tr>
 <tr><td>Costa Rica</td><td>25 septembre</td><td>1984</td><td>25 septembre</td><td>1985</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1<sup>er</sup> avril</td><td>2016</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
 <tr><td>Cuba</td><td>29 décembre</td><td>1980</td><td>29 décembre</td><td>1981</td></tr>
 <tr><td>Danemark</td><td>5 juin</td><td>1981</td><td>5 juin</td><td>1982</td></tr>
 <tr><td>Dominique</td><td>26 juillet</td><td>2004</td><td>26 juillet</td><td>2005</td></tr>
@@ -232,6 +233,7 @@ Champ d’application le 6 septembre 2023[^t-2]
 <tr><td>Saint-Marin</td><td>19 avril</td><td>1988</td><td>19 avril</td><td>1989</td></tr>
 <tr><td>Serbie</td><td>15 mars</td><td>2013</td><td>15 mars</td><td>2014</td></tr>
 <tr><td>Seychelles</td><td>23 novembre</td><td>1999</td><td>23 novembre</td><td>2000</td></tr>
+<tr><td>Sierra Leone</td><td>25 août</td><td>2021</td><td>25 août</td><td>2022</td></tr>
 <tr><td>Suède</td><td>11 juin</td><td>1979</td><td>11 octobre</td><td>1980</td></tr>
 <tr><td>Suisse</td><td>3 mars</td><td>1981</td><td>3 mars</td><td>1982</td></tr>
 <tr><td>Suriname</td><td>29 septembre</td><td>1981</td><td>29 septembre</td><td>1982</td></tr>
@@ -246,4 +248,4 @@ Champ d’application le 6 septembre 2023[^t-2]
 <tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La conv. n’est pas applicable à l’Île Norfolk. <sup>b</sup> Applicable avec modification. <sup>c</sup> Du 30 mars 1981 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. Le 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>d</sup> Du 13 sept. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 7 mars 2003, la conv. est également applicable à la RAS Macao à partir du 7 mars 2003.</td></tr>
 </table>
 
-[^t-2]: [RO 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501); [2025 278](https://fedlex.data.admin.ch/eli/oc/2025/278). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

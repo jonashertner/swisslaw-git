@@ -3,11 +3,11 @@ sr: "0.822.725.0"
 title: "Übereinkommen Nr. 150 vom 26. Juni 1978 über die Arbeitsverwaltung: Rolle, Aufgaben, Aufbau"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/327_327_327"
 language: de
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1978-06-26
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20230906/de/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20230906-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20230906/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 3. März 1981
 
 In Kraft getreten für die Schweiz am 3. März 1982
 
-(Stand am 6. September 2023)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
@@ -55,7 +55,7 @@ Die Konferenz nimmt heute, am 26. Juni 1978, das folgende Übereinkommen an, das
 
 #### Art. 1
 
-Im Sinne dieses Übereinkommens
+Im Sinne dieses Übereinkommens:
 
 - a) bezeichnet der Ausdruck «Arbeitsverwaltung» die Tätigkeiten der öffentlichen Verwaltung auf dem Gebiet der innerstaatlichen Arbeitspolitik;
 - b) umfasst der Ausdruck «System der Arbeitsverwaltung» alle Organe der öffentlichen Verwaltung, die für die Arbeitsverwaltung verantwortlich oder damit befasst sind – gleich ob es sich um ministerielle Dienststellen oder öffentliche Institutionen einschliesslich halbstaatlicher und regionaler oder lokaler Stellen oder irgendeine andere Form der dezentralisierten Verwaltung handelt – sowie jeden institutionellen Rahmen für die Koordinierung der Tätigkeiten solcher Organe und für die Anhörung und Beteiligung der Arbeitgeber und der Arbeitnehmer und ihrer Verbände.
@@ -82,7 +82,9 @@ Jedes Mitglied, das dieses Übereinkommen ratifiziert, hat in einer den innersta
 
 <sup>1.</sup> Die zuständigen Stellen innerhalb des Systems der Arbeitsverwaltung sind je nach Sachlage für die Vorbereitung, Durchführung, Koordinierung, Überwachung und Überprüfung der innerstaatlichen Arbeitspolitik verantwortlich oder wirken dabei mit und sind im Rahmen der öffentlichen Verwaltung das Instrument für die Vorbereitung und Durchführung der zur Verwirklichung dieser Politik erlassenen Gesetzgebung.
 
-<sup>2.</sup> Diese Stellen haben unter Berücksichtigung der einschlägigen internationalen Arbeitsnormen insbesondere
+<sup>2.</sup>
+
+Diese Stellen haben unter Berücksichtigung der einschlägigen internationalen Arbeitsnormen insbesondere:
 
 - a) an der Vorbereitung, Durchführung, Koordinierung, Überwachung und Überprüfung der innerstaatlichen Beschäftigungspolitik gemäss der innerstaatlichen Gesetzgebung und Praxis mitzuwirken;
 - b) die Lage der Beschäftigten, Arbeitslosen und Unterbeschäftigten unter Berücksichtigung der innerstaatlichen Gesetzgebung und Praxis auf dem Gebiet der Arbeits- und Beschäftigungsbedingungen und des Arbeitslebens zu untersuchen und laufend zu beobachten, auf Mängel und Missstände in diesen Bereichen hinzuweisen und Abhilfemassnahmen vorzuschlagen;
@@ -91,7 +93,7 @@ Jedes Mitglied, das dieses Übereinkommen ratifiziert, hat in einer den innersta
 
 #### Art. 7
 
-Falls die innerstaatlichen Verhältnisse es zur Befriedigung der Bedürfnisse der grösstmöglichen Zahl von Arbeitnehmern erfordern und soweit solche Tätigkeiten noch nicht erfasst sind, hat jedes Mitglied, das dieses Übereinkommen ratifiziert, die Ausdehnung der Aufgaben des Systems der Arbeitsverwaltung – nötigenfalls stufenweise – auf Tätigkeiten zu fördern, die in Zusammenarbeit mit anderen zuständigen Stellen durchzuführen sind und die Arbeitsbedingungen und das Arbeitsleben von Erwerbstätigengruppen betreffen, die rechtlich nicht als abhängig Beschäftigte gelten, wie z. B.
+Falls die innerstaatlichen Verhältnisse es zur Befriedigung der Bedürfnisse der grösstmöglichen Zahl von Arbeitnehmern erfordern und soweit solche Tätigkeiten noch nicht erfasst sind, hat jedes Mitglied, das dieses Übereinkommen ratifiziert, die Ausdehnung der Aufgaben des Systems der Arbeitsverwaltung – nötigenfalls stufenweise – auf Tätigkeiten zu fördern, die in Zusammenarbeit mit anderen zuständigen Stellen durchzuführen sind und die Arbeitsbedingungen und das Arbeitsleben von Erwerbstätigengruppen betreffen, die rechtlich nicht als abhängig Beschäftigte gelten, wie z. B.:
 
 - a) Pächter, die keine aussenstehenden Arbeitskräfte beschäftigen, Teilpächter und ähnliche Gruppen landwirtschaftlicher Arbeitskräfte;
 - b) selbständig erwerbstätige Personen, die keine aussenstehenden Arbeitskräfte beschäftigen und die im informellen Sektor tätig sind, wie er in der innerstaatlichen Praxis verstanden wird;
@@ -161,7 +163,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 6. September 2023[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -181,6 +183,7 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td>Hongkong <sup>b</sup> <sup>c</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>d</sup></td><td>7. März</td><td>2003</td><td>7. März</td><td>2003</td></tr>
 <tr><td>Costa Rica</td><td>25. September</td><td>1984</td><td>25. September</td><td>1985</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1. April</td><td>2016</td><td>1. April</td><td>2017</td></tr>
 <tr><td>Dänemark</td><td>5. Juni</td><td>1981</td><td>5. Juni</td><td>1982</td></tr>
 <tr><td>Deutschland</td><td>26. Februar</td><td>1981</td><td>26. Februar</td><td>1982</td></tr>
 <tr><td>Dominica</td><td>26. Juli</td><td>2004</td><td>26. Juli</td><td>2005</td></tr>
@@ -229,6 +232,7 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td>Schweiz</td><td>3. März</td><td>1981</td><td>3. März</td><td>1982</td></tr>
 <tr><td>Serbien</td><td>15. März</td><td>2013</td><td>15. März</td><td>2014</td></tr>
 <tr><td>Seychellen</td><td>23. November</td><td>1999</td><td>23. November</td><td>2000</td></tr>
+<tr><td>Sierra Leone</td><td>25. August</td><td>2021</td><td>25. August</td><td>2022</td></tr>
 <tr><td>Simbabwe</td><td>27. August</td><td>1998</td><td>27. August</td><td>1999</td></tr>
 <tr><td>Spanien</td><td>3. März</td><td>1982</td><td>3. März</td><td>1983</td></tr>
 <tr><td>Suriname</td><td>29. September</td><td>1981</td><td>29. September</td><td>1982</td></tr>
@@ -254,4 +258,4 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td colspan="5"><sup>d</sup> Vom 13. Sept. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 7. März 2003 ist das Übereink. seit dem 7. März 2003 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501); [2025 278](https://fedlex.data.admin.ch/eli/oc/2025/278). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.822.725.0"
 title: "Convenzione n. 150 del 26 giugno 1978 concernente l'amministrazione del lavoro: ruolo, funzioni e organizzazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/327_327_327"
 language: it
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1978-06-26
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20230906/it/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20230906-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20230906/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 26 giugno 1978 Approvata dall’Assemblea federale il 16 dicembre 1980[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981 Entrata in vigore per la Svizzera il 3 marzo 1982
 
-(Stato 6 settembre 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
@@ -144,7 +144,9 @@ Ogniqualvolta lo riterrà necessario, il Consiglio d’amministrazione dell’Uf
 
 #### Art. 17
 
-l. Ove la Conferenza adottasse una nuova convenzione con revisione totale o parziale della presente, e a meno che la nuova convenzione non disponga altrimenti:
+<sup>1.</sup>
+
+Ove la Conferenza adottasse una nuova convenzione con revisione totale o parziale della presente, e a meno che la nuova convenzione non disponga altrimenti:
 
 - a) la ratificazione, da parte di un Membro, della nuova convenzione sulla revisione comporterà, di pieno diritto, nonostante l’articolo 13 qui innanzi, la disdetta immediata della presente convenzione, purché la nuova convenzione già sia entrata in vigore;
 - b) a decorrere dalla data dell’entrata in vigore della nuova convenzione, la presente cesserebbe d’essere aperta alla ratificazione dei Membri.
@@ -155,7 +157,7 @@ l. Ove la Conferenza adottasse una nuova convenzione con revisione totale o parz
 
 Le versioni francese e inglese del presente testo fanno parimente fede.
 
-Campo d’applicazione il 6 settembre 2023[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -180,6 +182,7 @@ Campo d’applicazione il 6 settembre 2023[^t-2]
 <tr><td>Congo (Kinshasa)</td><td>3 aprile</td><td>1987</td><td>3 aprile</td><td>1988</td></tr>
 <tr><td>Corea (Sud)</td><td>8 dicembre</td><td>1997</td><td>8 dicembre</td><td>1998</td></tr>
 <tr><td>Costa Rica</td><td>25 settembre</td><td>1984</td><td>25 settembre</td><td>1985</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1° aprile</td><td>2016</td><td>1° aprile</td><td>2017</td></tr>
 <tr><td>Cuba</td><td>29 dicembre</td><td>1980</td><td>29 dicembre</td><td>1981</td></tr>
 <tr><td>Danimarca</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>Dominica</td><td>26 luglio</td><td>2004</td><td>26 luglio</td><td>2005</td></tr>
@@ -228,6 +231,7 @@ Campo d’applicazione il 6 settembre 2023[^t-2]
 <tr><td>San Marino</td><td>19 aprile</td><td>1988</td><td>19 aprile</td><td>1989</td></tr>
 <tr><td>Seicelle</td><td>23 novembre</td><td>1999</td><td>23 novembre</td><td>2000</td></tr>
 <tr><td>Serbia</td><td>15 marzo</td><td>2013</td><td>15 marzo</td><td>2014</td></tr>
+<tr><td>Sierra Leone</td><td>25 agosto</td><td>2021</td><td>25 agosto</td><td>2022</td></tr>
 <tr><td>Spagna</td><td>3 marzo</td><td>1982</td><td>3 marzo</td><td>1983</td></tr>
 <tr><td>Stati Uniti</td><td>3 marzo</td><td>1995</td><td>3 marzo</td><td>1996</td></tr>
 <tr><td>Suriname</td><td>29 settembre</td><td>1981</td><td>29 settembre</td><td>1982</td></tr>
@@ -248,4 +252,4 @@ Campo d’applicazione il 6 settembre 2023[^t-2]
 <tr><td colspan="5"><sup>d</sup> Dal 13 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 7 mar. 2003, la Conv. è applicabile anche alla RAS Macao dal 7 mar. 2003.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501); [2025 278](https://fedlex.data.admin.ch/eli/oc/2025/278). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
