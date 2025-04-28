@@ -3,11 +3,11 @@ sr: "0.822.725.1"
 title: "Convenzione n. 151 del 27 giugno 1978 concernente la protezione del diritto d'associazione e le procedure di determinazione delle condizioni d'impiego nella funzione pubblica"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/334_334_334"
 language: it
-version: 2023-08-30
+version: 2025-04-29
 adopted: 1978-06-27
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20230830/it/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20230830-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20230830/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Ginevra il 27 giugno 1978 Approvata dall’Assemblea federale il 16 dicembre 1980[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981 Entrata in vigore per la Svizzera il 3 marzo 1982
 
-(Stato 30 agosto 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
@@ -163,7 +163,7 @@ Ove la Conferenza adottasse una nuova convenzione con revisione totale o parzial
 
 Le versioni francese e inglese del presente testo fanno parimente fede.
 
-Campo d’applicazione il 30 agosto 2023[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -187,6 +187,7 @@ Campo d’applicazione il 30 agosto 2023[^t-2]
 <tr><td>Cuba</td><td>29 dicembre</td><td>1980</td><td>29 dicembre</td><td>1981</td></tr>
 <tr><td>Danimarca</td><td>5 giugno</td><td>1981</td><td>5 giugno</td><td>1982</td></tr>
 <tr><td>El Salvador</td><td>6 settembre</td><td>2006</td><td>6 settembre</td><td>2007</td></tr>
+<tr><td>Filippine</td><td>10 ottobre</td><td>2017</td><td>10 ottobre</td><td>2018</td></tr>
 <tr><td>Finlandia</td><td>25 febbraio</td><td>1980</td><td>25 febbraio</td><td>1981</td></tr>
 <tr><td>Gabon</td><td>1° ottobre</td><td>2009</td><td>1° ottobre</td><td>2010</td></tr>
 <tr><td>Georgia</td><td>10 ottobre</td><td>2003</td><td>10 ottobre</td><td>2004</td></tr>
@@ -205,6 +206,7 @@ Campo d’applicazione il 30 agosto 2023[^t-2]
 <tr><td>Moldova</td><td>4 aprile</td><td>2003</td><td>4 aprile</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>9 aprile</td><td>2019</td><td>9 aprile</td><td>2019</td></tr>
 <tr><td>Norvegia</td><td>19 marzo</td><td>1980</td><td>19 marzo</td><td>1981</td></tr>
+<tr><td>Namibia</td><td>20 settembre</td><td>2018</td><td>20 settembre</td><td>2019</td></tr>
 <tr><td>Paesi Bassi</td><td>29 novembre</td><td>1988</td><td>29 novembre</td><td>1989</td></tr>
 <tr><td>Perù</td><td>27 ottobre</td><td>1980</td><td>27 ottobre</td><td>1981</td></tr>
 <tr><td>Polonia</td><td>26 luglio</td><td>1982</td><td>26 luglio</td><td>1983</td></tr>
@@ -233,4 +235,4 @@ Campo d’applicazione il 30 agosto 2023[^t-2]
 <tr><td colspan="5"><sup>a</sup> Dal 3 feb. 1981 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 481](https://fedlex.data.admin.ch/eli/oc/2023/481). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-2]: [RU 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 481](https://fedlex.data.admin.ch/eli/oc/2023/481); [2025 307](https://fedlex.data.admin.ch/eli/oc/2025/307). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

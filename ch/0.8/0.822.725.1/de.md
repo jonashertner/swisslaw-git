@@ -3,11 +3,11 @@ sr: "0.822.725.1"
 title: Übereinkommen Nr. 151 vom 27. Juni 1978 über den Schutz des Vereinigungsrechtes und über Verfahren zur Festsetzung der Beschäftigungsbedingungen im öffentlichen Dienst
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/334_334_334"
 language: de
-version: 2023-08-30
+version: 2025-04-29
 adopted: 1978-06-27
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20230830/de/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20230830-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20230830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/334_334_334/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1982-334_334_334-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/334_334_334/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 3. März 1981
 
 In Kraft getreten für die Schweiz am 3. März 1982
 
-(Stand am 30. August 2023)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
@@ -77,7 +77,9 @@ Der Ausdruck «Verband der öffentlich Bediensteten» im Sinne dieses Übereinko
 
 <sup>1.</sup> Öffentlich Bedienstete sind vor jeder gegen die Vereinigungsfreiheit gerichteten unterschiedlichen Behandlung, die mit ihrer Beschäftigung im Zusammenhang steht, angemessen zu schützen.
 
-<sup>2.</sup> Dieser Schutz ist insbesondere gegenüber Handlungen zu gewähren, die darauf gerichtet sind,
+<sup>2.</sup>
+
+Dieser Schutz ist insbesondere gegenüber Handlungen zu gewähren, die darauf gerichtet sind:
 
 - a) die Beschäftigung eines öffentlich Bediensteten davon abhängig zu machen, dass er keinem Verband der öffentlich Bediensteten beitritt oder dass er aus einem solchen Verband austritt;
 - b) einen öffentlich Bediensteten wegen seiner Zugehörigkeit zu einem Verband der öffentlich Bediensteten oder wegen seiner Beteiligung an der normalen Tätigkeit eines solchen Verbandes zu entlassen oder auf sonstige Weise zu benachteiligen.
@@ -169,7 +171,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 30. August 2023[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -186,7 +188,7 @@ Geltungsbereich am 30. August 2023[^t-2]
 <tr><td>Brasilien</td><td>15. Juni</td><td>2010</td><td>15. Juni</td><td>2011</td></tr>
 <tr><td>Chile</td><td>17. Juli</td><td>2000</td><td>17. Juli</td><td>2001</td></tr>
 <tr><td>China\*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Hongkong<sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>[tab] Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark</td><td>5. Juni</td><td>1981</td><td>5. Juni</td><td>1982</td></tr>
 <tr><td>El Salvador</td><td>6. September</td><td>2006</td><td>6. September</td><td>2007</td></tr>
 <tr><td>Finnland</td><td>25. Februar</td><td>1980</td><td>25. Februar</td><td>1981</td></tr>
@@ -207,10 +209,12 @@ Geltungsbereich am 30. August 2023[^t-2]
 <tr><td>Marokko</td><td>4. Juni</td><td>2013</td><td>4. Juni</td><td>2014</td></tr>
 <tr><td>Moldau</td><td>4. April</td><td>2003</td><td>4. April</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>9. April</td><td>2019</td><td>9. April</td><td>2019</td></tr>
+<tr><td>Namibia</td><td>20. September</td><td>2018</td><td>20. September</td><td>2019</td></tr>
 <tr><td>Niederlande</td><td>29. November</td><td>1988</td><td>29. November</td><td>1989</td></tr>
 <tr><td>Nordmazedonien</td><td>22. Juli</td><td>2013</td><td>22. Juli</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>19. März</td><td>1980</td><td>19. März</td><td>1981</td></tr>
 <tr><td>Peru</td><td>27. Oktober</td><td>1980</td><td>27. Oktober</td><td>1981</td></tr>
+<tr><td>Philippinen</td><td>10. Oktober</td><td>2017</td><td>10. Oktober</td><td>2018</td></tr>
 <tr><td>Polen</td><td>26. Juli</td><td>1982</td><td>26. Juli</td><td>1983</td></tr>
 <tr><td>Portugal</td><td>9. Januar</td><td>1981</td><td>9. Januar</td><td>1982</td></tr>
 <tr><td>Russland</td><td>19. September</td><td>2014</td><td>19. September</td><td>2015</td></tr>
@@ -235,8 +239,8 @@ Geltungsbereich am 30. August 2023[^t-2]
 <tr><td>[tab] Insel Man</td><td>18. Februar</td><td>1997</td><td>18. Februar</td><td>1997</td></tr>
 <tr><td>[tab] St. Helena</td><td>11. August</td><td>1980</td><td>11. August</td><td>1980</td></tr>
 <tr><td>Zypern</td><td>6. Juli</td><td>1981</td><td>6. Juli</td><td>1982</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 3. Febr. 1981 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 841](https://fedlex.data.admin.ch/eli/oc/2023/841). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1982 334](https://fedlex.data.admin.ch/eli/oc/1982/334_334_334); [1983 620](https://fedlex.data.admin.ch/eli/oc/1983/620_620_620); [1985 305](https://fedlex.data.admin.ch/eli/oc/1985/305_305_305); [1986 1194](https://fedlex.data.admin.ch/eli/oc/1986/1194_1194_1194); [1989 1423](https://fedlex.data.admin.ch/eli/oc/1989/1423_1423_1423); [2005 1775](https://fedlex.data.admin.ch/eli/oc/2005/291); [2010 3541](https://fedlex.data.admin.ch/eli/oc/2010/507); [2013 1293](https://fedlex.data.admin.ch/eli/oc/2013/292); [2016 1243](https://fedlex.data.admin.ch/eli/oc/2016/246); [2023 481](https://fedlex.data.admin.ch/eli/oc/2023/481); [2025 307](https://fedlex.data.admin.ch/eli/oc/2025/307). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
