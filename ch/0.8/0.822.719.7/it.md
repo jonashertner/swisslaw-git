@@ -3,11 +3,11 @@ sr: "0.822.719.7"
 title: Convenzione n. 87 del 9 luglio 1948 concernente la libertà sindacale e la protezione del diritto sindacale
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/689_689_689"
 language: it
-version: 2024-10-08
+version: 2025-04-29
 adopted: 1948-07-09
 in_force: 1976-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20241008/it/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20241008-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20241008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20250429-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1976** 689; FF **1974** I 1537
 
 Traduzione
 
-Conchiusa in San Francisco il 9 luglio 1948
+Conchiusa in San Francisco il 9 luglio 1948 Approvata dall’Assemblea federale il 26 novembre 1974[^t-1] Ratificata dalla Svizzera con strumento depositato il 25 marzo 1975 Entrata in vigore per la Svizzera il 25 marzo 1976
 
-Approvata dall’Assemblea federale il 26 novembre 1974[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 25 marzo 1975
-
-Entrata in vigore per la Svizzera il 25 marzo 1976
-
-(Stato 8 ottobre 2024)
+(Stato 29 aprile 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 26 nov. 1974 ([RU 1976 687](https://fedlex.data.admin.ch/eli/oc/1976/687_687_687)).
 
@@ -193,7 +187,7 @@ Le versioni francese e inglese del testo della presente convenzione fanno parime
 
 *(Seguono le firme)*
 
-Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -284,6 +278,7 @@ Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
 <tr><td>Iraq</td><td>1° giugno</td><td>2018</td><td>1° giugno</td><td>2019</td></tr>
 <tr><td>Irlanda</td><td>4 giugno</td><td>1955</td><td>4 giugno</td><td>1956</td></tr>
 <tr><td>Islanda</td><td>19 agosto</td><td>1950</td><td>19 agosto</td><td>1951</td></tr>
+<tr><td>Isole Salomone</td><td>13 aprile</td><td>2012</td><td>13 aprile</td><td>2013</td></tr>
 <tr><td>Israele</td><td>28 gennaio</td><td>1957</td><td>28 gennaio</td><td>1958</td></tr>
 <tr><td>Italia</td><td>13 maggio</td><td>1958</td><td>13 maggio</td><td>1959</td></tr>
 <tr><td>Kazakstan</td><td>13 dicembre</td><td>2000</td><td>13 dicembre</td><td>2001</td></tr>
@@ -354,6 +349,7 @@ Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
 <tr><td>Siria</td><td>26 luglio</td><td>1960 S</td><td>26 luglio</td><td>1961</td></tr>
 <tr><td>Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
+<tr><td>Somalia</td><td>20 marzo</td><td>2014</td><td>20 marzo</td><td>2015</td></tr>
 <tr><td>Spagna</td><td>20 aprile</td><td>1977</td><td>20 aprile</td><td>1978</td></tr>
 <tr><td>Sri Lanka</td><td>15 settembre</td><td>1995</td><td>15 settembre</td><td>1996</td></tr>
 <tr><td>Sudafrica</td><td>19 febbraio</td><td>1996</td><td>19 febbraio</td><td>1997</td></tr>
@@ -373,12 +369,13 @@ Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
 <tr><td>Uganda</td><td>2 giugno</td><td>2006</td><td>2 giugno</td><td>2007</td></tr>
 <tr><td>Ungheria</td><td>6 giugno</td><td>1957</td><td>6 giugno</td><td>1958</td></tr>
 <tr><td>Uruguay</td><td>18 marzo</td><td>1954</td><td>18 marzo</td><td>1955</td></tr>
+<tr><td>Uzbekistan</td><td>12 dicembre</td><td>2016</td><td>12 dicembre</td><td>2016</td></tr>
 <tr><td>Vanuatu</td><td>28 agosto</td><td>2006</td><td>28 agosto</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>20 settembre</td><td>1982</td><td>20 settembre</td><td>1983</td></tr>
 <tr><td>Yemen</td><td>29 luglio</td><td>1976</td><td>29 luglio</td><td>1977</td></tr>
 <tr><td>Zambia</td><td>2 settembre</td><td>1996</td><td>2 settembre</td><td>1997</td></tr>
 <tr><td>Zimbabwe</td><td>9 aprile</td><td>2003</td><td>9 aprile</td><td>2004</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 15 ott. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Convenzione è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> La ratificazione non si applica nell’Irlanda del nord.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 15 ott. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Convenzione è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> La ratificazione non si applica nell’Irlanda del nord.</td></tr>
 </table>
 
-[^t-2]: [RU 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836); [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289); [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672); [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279); [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12); [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537); [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201); [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477); [2024 553](https://fedlex.data.admin.ch/eli/oc/2024/553). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836); [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289); [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672); [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279); [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12); [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537); [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201); [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477); [2024 553](https://fedlex.data.admin.ch/eli/oc/2024/553); [2025 304](https://fedlex.data.admin.ch/eli/oc/2025/304). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
