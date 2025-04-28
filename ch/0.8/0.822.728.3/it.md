@@ -3,11 +3,11 @@ sr: "0.822.728.3"
 title: "Convenzione n. 183 del 15 giugno 2000 sulla protezione della maternità, 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/251"
 language: it
-version: 2020-05-13
+version: 2025-04-29
 adopted: 2000-06-15
 in_force: 2015-06-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/251/20200513/it/xml/fedlex-data-admin-ch-eli-cc-2015-251-20200513-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/251/20200513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/251/20250429/it/xml/fedlex-data-admin-ch-eli-cc-2015-251-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/251/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2015** 1233; FF **2012** 1503 1529
 
 Traduzione
 
-Conclusa a Ginevra il 15 giugno 2000
+Conclusa a Ginevra il 15 giugno 2000 Approvata dall’Assemblea federale il 14 dicembre 2012[^t-1] Strumento di ratifica depositato dalla Svizzera il 4 giugno 2014 Entrata in vigore per la Svizzera il 4 giugno 2015
 
-Approvata dall’Assemblea federale il 14 dicembre 2012[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 4 giugno 2014
-
-Entrata in vigore per la Svizzera il 4 giugno 2015
-
-(Stato 13 maggio 2020)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 2015 1231](https://fedlex.data.admin.ch/eli/oc/2015/250)
 
@@ -177,29 +171,29 @@ Le ratifiche formali della presente Convenzione saranno comunicate al Direttore 
 
 #### Art. 15
 
-<sup>1.</sup> La presente Convenzione è vincolante solo per i Paesi membri dell’Organizzazione Internazionale del Lavoro che ne avranno fatto registrare la ratifica presso il Direttore generale dell’Ufficio Internazionale del Lavoro.
+\1. La presente Convenzione è vincolante solo per i Paesi membri dell’Organizzazione Internazionale del Lavoro che ne avranno fatto registrare la ratifica presso il Direttore generale dell’Ufficio Internazionale del Lavoro.
 
-<sup>2.</sup> La Convenzione entrerà in vigore dodici mesi dopo che due Stati membri dell’Organizzazione Internazionale del Lavoro ne avranno registrato la ratifica presso la Direzione generale dell’Ufficio Internazionale del Lavoro.
+\2. La Convenzione entrerà in vigore dodici mesi dopo che due Stati membri dell’Organizzazione Internazionale del Lavoro ne avranno registrato la ratifica presso la Direzione generale dell’Ufficio Internazionale del Lavoro.
 
-<sup>3.</sup> Successivamente, la Convenzione entrerà in vigore in ciascuno Stato membro dodici mesi dopo la registrazione della sua ratifica.
+\3. Successivamente, la Convenzione entrerà in vigore in ciascuno Stato membro dodici mesi dopo la registrazione della sua ratifica.
 
 #### Art. 16
 
-<sup>1.</sup> Ogni Stato membro che abbia ratificato la presente Convenzione può denunciarne la risoluzione dopo un periodo di dieci anni dalla data iniziale delle sua entrata in vigore con un atto comunicato al Direttore generale dell’Ufficio Internazionale del Lavoro e da lui registrato. Detta denuncia avrà effetto l’anno successivo alla sua registrazione.
+\1. Ogni Stato membro che abbia ratificato la presente Convenzione può denunciarne la risoluzione dopo un periodo di dieci anni dalla data iniziale delle sua entrata in vigore con un atto comunicato al Direttore generale dell’Ufficio Internazionale del Lavoro e da lui registrato. Detta denuncia avrà effetto l’anno successivo alla sua registrazione.
 
-<sup>2.</sup> Ogni Stato membro che abbia ratificato la presente Convenzione e che, nell’intervallo di un anno dopo il termine dei dieci anni di cui al paragrafo precedente, non si avvarrà della facoltà prevista dal presente articolo sarà obbligato (ad applicarla) per un nuovo periodo di dieci anni e, successivamente, potrà denunciare la risoluzione della presente Convenzione alla fine di ogni periodo di dieci anni alle condizioni previste dal presente articolo.
+\2. Ogni Stato membro che abbia ratificato la presente Convenzione e che, nell’intervallo di un anno dopo il termine dei dieci anni di cui al paragrafo precedente, non si avvarrà della facoltà prevista dal presente articolo sarà obbligato (ad applicarla) per un nuovo periodo di dieci anni e, successivamente, potrà denunciare la risoluzione della presente Convenzione alla fine di ogni periodo di dieci anni alle condizioni previste dal presente articolo.
 
 #### Art. 17
 
-<sup>1.</sup> Il Direttore generale dell’Ufficio Internazionale del Lavoro notificherà a tutti gli Stati membri dell’Organizzazione Internazionale del Lavoro la registrazione di tutte le ratifiche e di tutti gli atti di denuncia che gli verranno comunicati dai Membri dell’Organizzazione.
+\1. Il Direttore generale dell’Ufficio Internazionale del Lavoro notificherà a tutti gli Stati membri dell’Organizzazione Internazionale del Lavoro la registrazione di tutte le ratifiche e di tutti gli atti di denuncia che gli verranno comunicati dai Membri dell’Organizzazione.
 
-<sup>2.</sup> Nel notificare agli Stati membri dell’Organizzazione Internazionale del Lavoro la registrazione della seconda ratifica, il Direttore generale richiamerà l’attenzione degli Stati membri sulla data di entrata in vigore della presente Convenzione.
+\2. Nel notificare agli Stati membri dell’Organizzazione Internazionale del Lavoro la registrazione della seconda ratifica, il Direttore generale richiamerà l’attenzione degli Stati membri sulla data di entrata in vigore della presente Convenzione.
 
 #### Art. 18
 
-Il Direttore generale dell’Ufficio Internazionale del Lavoro sottoporrà al Segretario generale delle Nazioni Unite, ai fini della registrazione, conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^18-1], relazioni complete in merito ad ogni ratifica e ad ogni denuncia da lui registrata conformemente agli articoli precedenti.
+Il Direttore generale dell’Ufficio Internazionale del Lavoro sottoporrà al Segretario generale delle Nazioni Unite, ai fini della registrazione, conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^u1-18-1], relazioni complete in merito ad ogni ratifica e ad ogni denuncia da lui registrata conformemente agli articoli precedenti.
 
-[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^u1-18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 #### Art. 19
 
@@ -207,14 +201,12 @@ Ogni volta che lo giudicherà necessario, il Consiglio di Amministrazione dell�
 
 #### Art. 20
 
-<sup>1.</sup>
+\2. La presente Convenzione rimarrà comunque in vigore nella sua forma e nei suoi contenuti per tutti gli Stati membri che l’avranno ratificata e che non ratificheranno la convenzione riveduta.
 
-Nel caso in cui la Conferenza adottasse una nuova Convenzione a correzione parziale o totale della presente Convenzione, e a meno che la nuova Convenzione non disponga diversamente:
+\1. Nel caso in cui la Conferenza adottasse una nuova Convenzione a correzione parziale o totale della presente Convenzione, e a meno che la nuova Convenzione non disponga diversamente:
 
 - a) la ratifica da parte di uno Stato membro della nuova Convenzione causerebbe a pieno diritto – fatto salvo l’articolo 16 – la denuncia immediata della presente Convenzione sempre che la nuova convenzione riveduta sia entrata in vigore;
 - b) a partire dalla data di entrata in vigore della nuova Convenzione riveduta, la presente Convenzione non potrà più essere ratificata dagli Stati membri.
-
-<sup>2.</sup> La presente Convenzione rimarrà comunque in vigore nella sua forma e nei suoi contenuti per tutti gli Stati membri che l’avranno ratificata e che non ratificheranno la convenzione riveduta.
 
 #### Art. 21
 
@@ -222,16 +214,17 @@ Le versioni francese ed inglese del testo fanno egualmente fede.
 
 (Seguono le firme)
 
-Campo d’applicazione il 13 maggio 2020**[^t-2]**
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>18 agosto</td><td>2004</td><td>18 agosto</td><td>2005</td></tr>
+<tr><td>Antigua e Barbuda</td><td>6 maggio</td><td>2022</td><td>6 maggio</td><td>2023</td></tr>
 <tr><td>Austria</td><td>30 aprile</td><td>2004</td><td>30 aprile</td><td>2005</td></tr>
 <tr><td>Azerbaigian</td><td>29 ottobre</td><td>2010</td><td>29 ottobre</td><td>2011</td></tr>
+<tr><td>Belarus</td><td>10 febbraio</td><td>2004</td><td>10 febbraio</td><td>2005</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2005</td><td>9 novembre</td><td>2006</td></tr>
 <tr><td>Benin</td><td>10 gennaio</td><td>2012</td><td>10 gennaio</td><td>2013</td></tr>
-<tr><td>Belarus</td><td>10 febbraio</td><td>2004</td><td>10 febbraio</td><td>2005</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>18 gennaio</td><td>2010</td><td>18 gennaio</td><td>2011</td></tr>
 <tr><td>Bulgaria</td><td>6 dicembre</td><td>2001</td><td>6 dicembre</td><td>2002</td></tr>
 <tr><td>Burkina Faso</td><td>4 marzo</td><td>2013</td><td>4 marzo</td><td>2014</td></tr>
@@ -239,6 +232,9 @@ Campo d’applicazione il 13 maggio 2020**[^t-2]**
 <tr><td>Cipro</td><td>12 gennaio</td><td>2005</td><td>12 gennaio</td><td>2006</td></tr>
 <tr><td>Cuba</td><td>1° giugno</td><td>2004</td><td>1° giugno</td><td>2005</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>9 febbraio</td><td>2016</td><td>9 febbraio</td><td>2017</td></tr>
+<tr><td>El Salvador</td><td>7 giugno</td><td>2022</td><td>7 giugno</td><td>2023</td></tr>
+<tr><td>Germania</td><td>30 settembre</td><td>2021</td><td>30 settembre</td><td>2022</td></tr>
+<tr><td>Gibuti</td><td>25 settembre</td><td>2020</td><td>25 settembre</td><td>2021</td></tr>
 <tr><td>Italia</td><td>7 febbraio</td><td>2001</td><td>7 febbraio</td><td>2002</td></tr>
 <tr><td>Kazakhistan</td><td>13 giugno</td><td>2012</td><td>13 giugno</td><td>2013</td></tr>
 <tr><td>Lettonia</td><td>9 febbraio</td><td>2009</td><td>9 febbraio</td><td>2010</td></tr>
@@ -253,6 +249,7 @@ Campo d’applicazione il 13 maggio 2020**[^t-2]**
 <tr><td>Niger</td><td>10 giugno</td><td>2019</td><td>10 giugno</td><td>2020</td></tr>
 <tr><td>Norvegia</td><td>9 novembre</td><td>2015</td><td>9 novembre</td><td>2016</td></tr>
 <tr><td>Paesi Bassi</td><td>15 gennaio</td><td>2009</td><td>15 gennaio</td><td>2010</td></tr>
+<tr><td>Panama</td><td>22 marzo</td><td>2022</td><td>22 marzo</td><td>2023</td></tr>
 <tr><td>Perù</td><td>9 maggio</td><td>2016</td><td>9 maggio</td><td>2017</td></tr>
 <tr><td>Portogallo</td><td>8 novembre</td><td>2012</td><td>8 novembre</td><td>2013</td></tr>
 <tr><td>Romania</td><td>23 ottobre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
@@ -262,8 +259,9 @@ Campo d’applicazione il 13 maggio 2020**[^t-2]**
 <tr><td>Serbia</td><td>31 agosto</td><td>2010</td><td>31 agosto</td><td>2011</td></tr>
 <tr><td>Slovacchia</td><td>12 dicembre</td><td>2000</td><td>7 febbraio</td><td>2002</td></tr>
 <tr><td>Slovenia</td><td>1° marzo</td><td>2010</td><td>1° marzo</td><td>2011</td></tr>
+<tr><td>Suriname</td><td>28 novembre</td><td>2024</td><td>28 novembre</td><td>2025</td></tr>
 <tr><td>Svizzera</td><td>4 giugno</td><td>2014</td><td>4 giugno</td><td>2015</td></tr>
 <tr><td>Ungheria</td><td>4 novembre</td><td>2003</td><td>4 novembre</td><td>2004</td></tr>
 </table>
 
-[^t-2]: [RU 2015 1233](https://fedlex.data.admin.ch/eli/oc/2015/251), [2018 2787](https://fedlex.data.admin.ch/eli/oc/2018/417), [2019 1799](https://fedlex.data.admin.ch/eli/oc/2019/332)e [2020 1877](https://fedlex.data.admin.ch/eli/oc/2020/387). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2015 1233](https://fedlex.data.admin.ch/eli/oc/2015/251); [2018 2787](https://fedlex.data.admin.ch/eli/oc/2018/417); [2019 1799](https://fedlex.data.admin.ch/eli/oc/2019/332); [2020 1877](https://fedlex.data.admin.ch/eli/oc/2020/387); [2025 282](https://fedlex.data.admin.ch/eli/oc/2025/282). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
