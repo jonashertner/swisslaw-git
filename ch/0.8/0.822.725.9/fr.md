@@ -3,11 +3,11 @@ sr: "0.822.725.9"
 title: "Convention n<sup>o</sup> 159 du 20 juin 1983 concernant la réadaptation professionnelle et l'emploi des personnes handicapées"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/967_967_967"
 language: fr
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1983-06-20
 in_force: 1986-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20230906/fr/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20230906-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20230906/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 20 juin 1983 Approuvée par l’Assemblée fédérale le 21 mars 1985[^t-1] Instrument de ratification déposé par la Suisse le 20 juin 1985 Entrée en vigueur pour la Suisse le 20 juin 1986
 
-(État le 6 septembre 2023)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 1986 966](https://fedlex.data.admin.ch/eli/oc/1986/966_966_966)
 
@@ -143,7 +143,7 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 6 septembre 2023[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -152,6 +152,7 @@ Champ d’application le 6 septembre 2023[^t-2]
 <tr><td>Argentine</td><td>13 avril</td><td>1987</td><td>13 avril</td><td>1988</td></tr>
 <tr><td>Australie</td><td>7 août</td><td>1990</td><td>7 août</td><td>1991</td></tr>
 <tr><td>Azerbaïdjan</td><td>19 mai</td><td>1992 S</td><td>19 mai</td><td>1992</td></tr>
+<tr><td>Bahamas</td><td>30 novembre</td><td>2022</td><td>30 novembre</td><td>2023</td></tr>
 <tr><td>Bahreïn</td><td>2 juin</td><td>1999</td><td>2 juin</td><td>2000</td></tr>
 <tr><td>Belgique</td><td>10 juin</td><td>2015</td><td>10 juin</td><td>2016</td></tr>
 <tr><td>Bolivie</td><td>19 décembre</td><td>1996</td><td>19 décembre</td><td>1997</td></tr>
@@ -233,4 +234,4 @@ Champ d’application le 6 septembre 2023[^t-2]
 <tr><td>Zimbabwe</td><td>27 août</td><td>1998</td><td>27 août</td><td>1999</td></tr>
 </table>
 
-[^t-2]: [RO 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502); [2025 280](https://fedlex.data.admin.ch/eli/oc/2025/280). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

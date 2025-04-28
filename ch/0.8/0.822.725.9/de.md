@@ -3,11 +3,11 @@ sr: "0.822.725.9"
 title: Übereinkommen Nr. 159 vom 20. Juni 1983 über die berufliche Rehabilitation und die Beschäftigung der Behinderten
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/967_967_967"
 language: de
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1983-06-20
 in_force: 1986-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20230906/de/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20230906-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20230906/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1986** 967; BBl **1984** II 419
 
 Abgeschlossen in Genf am 20. Juni 1983 Von der Bundesversammlung genehmigt am 21. März 1985[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 20. Juni 1985 In Kraft getreten für die Schweiz am 20. Juni 1986
 
-(Stand am 6. September 2023)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1986 966](https://fedlex.data.admin.ch/eli/oc/1986/966_966_966)
 
@@ -143,7 +143,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. September 2023[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -153,6 +153,7 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td>Aserbaidschan</td><td>19. Mai</td><td>1992 N</td><td>19. Mai</td><td>1992</td></tr>
 <tr><td>Äthiopien</td><td>28. Januar</td><td>1991</td><td>28. Januar</td><td>1992</td></tr>
 <tr><td>Australien</td><td>7. August</td><td>1990</td><td>7. August</td><td>1991</td></tr>
+<tr><td>Bahamas</td><td>30. November</td><td>2022</td><td>30. November</td><td>2023</td></tr>
 <tr><td>Bahrain</td><td>2. Juni</td><td>1999</td><td>2. Juni</td><td>2000</td></tr>
 <tr><td>Belgien</td><td>10. Juni</td><td>2015</td><td>10. Juni</td><td>2016</td></tr>
 <tr><td>Bolivien</td><td>19. Dezember</td><td>1996</td><td>19. Dezember</td><td>1997</td></tr>
@@ -194,12 +195,12 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td>Mali</td><td>12. Juni</td><td>1995</td><td>12. Juni</td><td>1996</td></tr>
 <tr><td>Malta</td><td>9. Juni</td><td>1988</td><td>9. Juni</td><td>1989</td></tr>
 <tr><td>Mauritius</td><td>9. Juni</td><td>2004</td><td>9. Juni</td><td>2005</td></tr>
-<tr><td>Mazedonien</td><td>17. November</td><td>1991 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>5. April</td><td>2001</td><td>5. April</td><td>2002</td></tr>
 <tr><td>Mongolei</td><td>3. Februar</td><td>1998</td><td>3. Februar</td><td>1999</td></tr>
 <tr><td>Montenegro</td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande</td><td>15. Februar</td><td>1988</td><td>15. Februar</td><td>1989</td></tr>
 <tr><td>Nigeria</td><td>26. August</td><td>2010</td><td>26. August</td><td>2011</td></tr>
+<tr><td>Nordmazedonien</td><td>17. November</td><td>1991 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>13. August</td><td>1984</td><td>13. August</td><td>1985</td></tr>
 <tr><td>Pakistan</td><td>25. Oktober</td><td>1994</td><td>25. Oktober</td><td>1995</td></tr>
 <tr><td>Panama</td><td>28. Januar</td><td>1994</td><td>28. Januar</td><td>1995</td></tr>
@@ -233,4 +234,4 @@ Geltungsbereich am 6. September 2023[^t-2]
 <tr><td>Zypern</td><td>13. April</td><td>1987</td><td>13. April</td><td>1988</td></tr>
 </table>
 
-[^t-2]: [AS 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502); [2025 280](https://fedlex.data.admin.ch/eli/oc/2025/280). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

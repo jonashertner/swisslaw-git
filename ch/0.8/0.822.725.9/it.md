@@ -3,11 +3,11 @@ sr: "0.822.725.9"
 title: "Convenzione n. 159 del 20 giugno 1983 concernente la riabilitazione professionale e l'impiego delle persone andicappate"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/967_967_967"
 language: it
-version: 2023-09-06
+version: 2025-04-29
 adopted: 1983-06-20
 in_force: 1986-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20230906/it/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20230906-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20230906/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Ginevra il 20 giugno 1983 Approvata dall’Assemblea federale il 21 marzo 1985[^t-1] Ratificata con strumenti depositati dalla Svizzera il 20 giugno 1985 Entrata in vigore per la Svizzera il 20 giugno 1986
 
-(Stato 6 settembre 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1986 966](https://fedlex.data.admin.ch/eli/oc/1986/966_966_966)
 
@@ -96,7 +96,7 @@ Le ratifiche formali della presente Convenzione verranno comunicate al Direttore
 
 #### Art. 11
 
-l. La presente Convenzione sarà vincolante solo per i Membri dell’Organizzazione internazionale del Lavoro la cui ratifica sia stata registrata dal Direttore Generale.
+<sup>1.</sup> La presente Convenzione sarà vincolante solo per i Membri dell’Organizzazione internazionale del Lavoro la cui ratifica sia stata registrata dal Direttore Generale.
 
 <sup>2.</sup> Essa entrerà in vigore dodici mesi dopo che le ratifiche di due Membri saranno state registrate dal Direttore Generale.
 
@@ -141,7 +141,7 @@ I due testi francese ed inglese della presente Convenzione fanno ugualmente fede
 
 (Seguono le firme)
 
-Campo d’applicazione il 6 settembre 2023[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -149,6 +149,7 @@ Campo d’applicazione il 6 settembre 2023[^t-2]
 <tr><td>Argentina</td><td>13 aprile</td><td>1987</td><td>13 aprile</td><td>1988</td></tr>
 <tr><td>Australia</td><td>7 agosto</td><td>1990</td><td>7 agosto</td><td>1991</td></tr>
 <tr><td>Azerbaigian</td><td>19 maggio</td><td>1992 S</td><td>19 maggio</td><td>1992</td></tr>
+<tr><td>Bahamas</td><td>30 novembre</td><td>2022</td><td>30 novembre</td><td>2023</td></tr>
 <tr><td>Bahrein</td><td>2 giugno</td><td>1999</td><td>2 giugno</td><td>2000</td></tr>
 <tr><td>Belgio</td><td>10 giugno</td><td>2015</td><td>10 giugno</td><td>2016</td></tr>
 <tr><td>Bolivia</td><td>19 dicembre</td><td>1996</td><td>19 dicembre</td><td>1997</td></tr>
@@ -229,7 +230,6 @@ Campo d’applicazione il 6 settembre 2023[^t-2]
 <tr><td>Yemen</td><td>18 novembre</td><td>1991</td><td>18 novembre</td><td>1992</td></tr>
 <tr><td>Zambia</td><td>5 gennaio</td><td>1989</td><td>5 gennaio</td><td>1990</td></tr>
 <tr><td>Zimbabwe</td><td>27 agosto</td><td>1998</td><td>27 agosto</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502); [2025 280](https://fedlex.data.admin.ch/eli/oc/2025/280). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
