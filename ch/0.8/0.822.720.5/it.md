@@ -3,11 +3,11 @@ sr: "0.822.720.5"
 title: Convenzione n. 105 del 25 giugno 1957 concernente la soppressione del lavoro forzato
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/485_507_507"
 language: it
-version: 2023-09-07
+version: 2025-04-29
 adopted: 1957-06-25
 in_force: 1959-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20230907/it/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20230907-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20230907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20250429-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottata a Ginevra il 25 giugno 1957 Approvata dall’Assemblea federale il 18 giugno 1958[^t-1] Ratificata dalla Svizzera con strumento depositato il 18 luglio 1958 Entrata in vigore per la Svizzera il 18 luglio 1959
 
-(Stato 7 settembre 2023)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 1958 505](https://fedlex.data.admin.ch/eli/oc/1958/483_505_505)
 
@@ -108,7 +108,7 @@ Nel caso in cui la Conferenza adottasse una nuova convenzione a totale o parzial
 
 I testi francese e inglese della presente convenzione fanno ugualmente fede.
 
-Campo d’applicazione il 7 settembre 2023[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -154,6 +154,7 @@ Campo d’applicazione il 7 settembre 2023[^t-2]
 <tr><td>Comore</td><td>23 ottobre</td><td>1978 S</td><td>23 ottobre</td><td>1978</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 novembre</td><td>1999</td><td>26 novembre</td><td>2000</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 giugno</td><td>2001</td><td>20 giugno</td><td>2002</td></tr>
+<tr><td>Cook, Isole</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>4 maggio</td><td>1959</td><td>4 maggio</td><td>1960</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5 maggio</td><td>1961</td><td>5 maggio</td><td>1962</td></tr>
 <tr><td>Croazia</td><td>5 marzo</td><td>1997</td><td>5 marzo</td><td>1998</td></tr>
@@ -188,6 +189,7 @@ Campo d’applicazione il 7 settembre 2023[^t-2]
 <tr><td>Germania</td><td>22 giugno</td><td>1959</td><td>22 giugno</td><td>1960</td></tr>
 <tr><td>Ghana</td><td>15 dicembre</td><td>1958</td><td>15 dicembre</td><td>1959</td></tr>
 <tr><td>Giamaica</td><td>26 dicembre</td><td>1962 S</td><td>26 dicembre</td><td>1962</td></tr>
+<tr><td>Giappone</td><td>19 luglio</td><td>2022</td><td>10 luglio</td><td>2023</td></tr>
 <tr><td>Gibuti</td><td>3 agosto</td><td>1978 S</td><td>3 agosto</td><td>1978</td></tr>
 <tr><td>Giordania</td><td>31 marzo</td><td>1958</td><td>31 marzo</td><td>1959</td></tr>
 <tr><td>Grecia</td><td>30 marzo</td><td>1962</td><td>30 marzo</td><td>1963</td></tr>
@@ -241,7 +243,6 @@ Campo d’applicazione il 7 settembre 2023[^t-2]
 <tr><td>Nigeria</td><td>17 ottobre</td><td>1960 S</td><td>17 ottobre</td><td>1960</td></tr>
 <tr><td>Norvegia</td><td>14 aprile</td><td>1958</td><td>14 aprile</td><td>1959</td></tr>
 <tr><td>Nuova Zelanda</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
-<tr><td>Cook, Isole</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2016</td></tr>
 <tr><td>Niue</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
 <tr><td>Tokelau</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
 <tr><td>Oman</td><td>21 luglio</td><td>2005</td><td>21 luglio</td><td>2006</td></tr>
@@ -323,4 +324,4 @@ Campo d’applicazione il 7 settembre 2023[^t-2]
 <tr><td colspan="5"><sup>d</sup> 22 mag. 1990: Unificazione della Repubblica Araba dello Yemen e della Repubblica Democratica Popolare dello Yemen che diventano Repubblica dello Yemen.</td></tr>
 </table>
 
-[^t-2]: [RU 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499); [2025 277](https://fedlex.data.admin.ch/eli/oc/2025/277). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

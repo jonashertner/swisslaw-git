@@ -3,11 +3,11 @@ sr: "0.822.720.5"
 title: Übereinkommen Nr. 105 vom 25. Juni 1957 über die Abschaffung der Zwangsarbeit
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/485_507_507"
 language: de
-version: 2023-09-07
+version: 2025-04-29
 adopted: 1957-06-25
 in_force: 1959-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20230907/de/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20230907-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20230907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20250429-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1958** 485; BBl **1958** I 530
 
 Angenommen in Genf am 25. Juni 1957 Von der Bundesversammlung genehmigt am 18. Juni 1958[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Juli 1958 In Kraft getreten für die Schweiz am 18. Juli 1959
 
-(Stand am 7. September 2023)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 1958 483](https://fedlex.data.admin.ch/eli/oc/1958/483_505_505)
 
@@ -49,7 +49,7 @@ Die Konferenz nimmt heute, am 25. Juni 1957, das folgende Übereinkommen an, das
 
 #### Art. 1
 
-Jedes Mitglied der Internationalen Arbeitsorganisation, das dieses Übereinkommen ratifiziert, verpflichtet sich, die Zwangs- oder Pflichtarbeit zu beseitigen und in keiner Form zu verwenden
+Jedes Mitglied der Internationalen Arbeitsorganisation, das dieses Übereinkommen ratifiziert, verpflichtet sich, die Zwangs- oder Pflichtarbeit zu beseitigen und in keiner Form zu verwenden:
 
 - a. als Mittel politischen Zwanges oder politischer Erziehung oder als Strafe gegenüber Personen, die gewisse politische Ansichten haben oder äussern oder die ihre ideologische Gegnerschaft gegen die bestehende politische, soziale oder wirtschaftliche Ordnung bekunden;
 - b. als Methode der Rekrutierung und Verwendung von Arbeitskräften für Zwecke der wirtschaftlichen Entwicklung;
@@ -108,10 +108,10 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 7. September 2023[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>16. Mai</td><td>1963</td><td colspan="2">16. Mai</td><td>1964</td></tr>
 <tr><td>Ägypten</td><td>23. Oktober</td><td>1958</td><td colspan="2">23. Oktober</td><td>1959</td></tr>
 <tr><td>Albanien</td><td>27. Februar</td><td>1997</td><td colspan="2">27. Februar</td><td>1998</td></tr>
@@ -144,6 +144,7 @@ Geltungsbereich am 7. September 2023[^t-2]
 <tr><td>China</td><td>12. August</td><td>2022</td><td colspan="2">12. August</td><td>2023</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td colspan="2">1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>b c</sup></td><td>20. Dezember</td><td>1999</td><td colspan="2">20. Dezember</td><td>1999</td></tr>
+<tr><td>Cook-Inseln</td><td>12. Juni</td><td>2015</td><td colspan="2">12. Juni</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>4. Mai</td><td>1959</td><td colspan="2">4. Mai</td><td>1960</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5. Mai</td><td>1961</td><td colspan="2">5. Mai</td><td>1962</td></tr>
 <tr><td>Dänemark</td><td>17. Januar</td><td>1958</td><td colspan="2">17. Januar</td><td>1959</td></tr>
@@ -189,6 +190,7 @@ Geltungsbereich am 7. September 2023[^t-2]
 <tr><td>Israel</td><td>10. April</td><td>1958</td><td colspan="2">10. April</td><td>1959</td></tr>
 <tr><td>Italien</td><td>15. März</td><td>1968</td><td colspan="2">15. März</td><td>1969</td></tr>
 <tr><td>Jamaika</td><td>26. Dezember</td><td>1962 N</td><td colspan="2">26. Dezember</td><td>1962</td></tr>
+<tr><td>Japan</td><td>19. Juli</td><td>2022</td><td colspan="2">10. Juli</td><td>2023</td></tr>
 <tr><td>Jemen <sup>d</sup></td><td>14. April</td><td>1969 N</td><td colspan="2">14. April</td><td>1969</td></tr>
 <tr><td>Jordanien</td><td>31. März</td><td>1958</td><td colspan="2">31. März</td><td>1959</td></tr>
 <tr><td>Kambodscha</td><td>23. August</td><td>1999</td><td colspan="2">23. August</td><td>2000</td></tr>
@@ -231,7 +233,6 @@ Geltungsbereich am 7. September 2023[^t-2]
 <tr><td>Nauru</td><td>5. September</td><td>1968 N</td><td colspan="2">5. September</td><td>1968</td></tr>
 <tr><td>Nepal</td><td>30. August</td><td>2007</td><td colspan="2">30. August</td><td>2008</td></tr>
 <tr><td>Neuseeland</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
-<tr><td>Cook-Inseln</td><td>12. Juni</td><td>2015</td><td colspan="2">12. Juni</td><td>2016</td></tr>
 <tr><td>Niue</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
 <tr><td>Tokelau</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
 <tr><td>Nicaragua</td><td>31. Oktober</td><td>1967</td><td colspan="2">31. Oktober</td><td>1968</td></tr>
@@ -325,4 +326,4 @@ Geltungsbereich am 7. September 2023[^t-2]
 <tr><td colspan="6"><sup>d</sup> 22. Mai 1990: Vereinigung der Jemenitischen Arabischen Republik und der Demokratischen Volksrepublik Jemen zur Republik Jemen.</td></tr>
 </table>
 
-[^t-2]: [AS 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499); [2025 277](https://fedlex.data.admin.ch/eli/oc/2025/277). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

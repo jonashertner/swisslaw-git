@@ -3,11 +3,11 @@ sr: "0.822.720.5"
 title: "Convention n<sup>o</sup> 105 du 25 juin 1957 concernant l'abolition du travail forcé"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/485_507_507"
 language: fr
-version: 2023-09-07
+version: 2025-04-29
 adopted: 1957-06-25
 in_force: 1959-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20230907/fr/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20230907-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20230907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20250429-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 18 juillet 1958
 
 Entrée en vigueur pour la Suisse le 18 juillet 1959
 
-(État le 7 septembre 2023)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 1958 505](https://fedlex.data.admin.ch/eli/oc/1958/483_505_505)
 
@@ -114,10 +114,10 @@ Au cas où la Conférence adopterait une nouvelle convention portant revision to
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 7 septembre 2023[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
-<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>16 mai</td><td>1963</td><td>16 mai</td><td>1964</td></tr>
 <tr><td>Afrique du Sud</td><td>5 mars</td><td>1997</td><td>5 mars</td><td>1998</td></tr>
 <tr><td>Albanie</td><td>27 février</td><td>1997</td><td>27 février</td><td>1998</td></tr>
@@ -203,6 +203,7 @@ Champ d’application le 7 septembre 2023[^t-2]
 <tr><td>Haïti</td><td>4 mars</td><td>1958</td><td>4 mars</td><td>1959</td></tr>
 <tr><td>Honduras</td><td>4 août</td><td>1958</td><td>4 août</td><td>1959</td></tr>
 <tr><td>Hongrie</td><td>4 janvier</td><td>1994</td><td>4 janvier</td><td>1995</td></tr>
+<tr><td>Îles Cook</td><td>12 juin</td><td>2015</td><td>12 juin</td><td>2016</td></tr>
 <tr><td>Îles Salomon</td><td>13 avril</td><td>2012</td><td>13 avril</td><td>2013</td></tr>
 <tr><td>Inde</td><td>18 mai</td><td>2000</td><td>18 mai</td><td>2001</td></tr>
 <tr><td>Indonésie</td><td>7 juin</td><td>1999</td><td>7 juin</td><td>2000</td></tr>
@@ -213,6 +214,7 @@ Champ d’application le 7 septembre 2023[^t-2]
 <tr><td>Israël</td><td>10 avril</td><td>1958</td><td>10 avril</td><td>1959</td></tr>
 <tr><td>Italie</td><td>15 mars</td><td>1968</td><td>15 mars</td><td>1969</td></tr>
 <tr><td>Jamaïque</td><td>26 décembre</td><td>1962 S</td><td>26 décembre</td><td>1962</td></tr>
+<tr><td>Japon</td><td>19 juillet</td><td>2022</td><td>10 juillet</td><td>2023</td></tr>
 <tr><td>Jordanie</td><td>31 mars</td><td>1958</td><td>31 mars</td><td>1959</td></tr>
 <tr><td>Kazakhstan</td><td>18 mai</td><td>2001</td><td>18 mai</td><td>2002</td></tr>
 <tr><td>Kenya</td><td>13 janvier</td><td>1964 S</td><td>13 janvier</td><td>1964</td></tr>
@@ -248,7 +250,6 @@ Champ d’application le 7 septembre 2023[^t-2]
 <tr><td>Nigéria</td><td>17 octobre</td><td>1960 S</td><td>17 octobre</td><td>1960</td></tr>
 <tr><td>Norvège</td><td>14 avril</td><td>1958</td><td>14 avril</td><td>1959</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>14 juin</td><td>1968</td><td>14 juin</td><td>1969</td></tr>
-<tr><td>Îles Cook</td><td>12 juin</td><td>2015</td><td>12 juin</td><td>2016</td></tr>
 <tr><td>Nioué</td><td>14 juin</td><td>1968</td><td>14 juin</td><td>1969</td></tr>
 <tr><td>Tokelau</td><td>14 juin</td><td>1968</td><td>14 juin</td><td>1969</td></tr>
 <tr><td>Oman</td><td>21 juillet</td><td>2005</td><td>21 juillet</td><td>2006</td></tr>
@@ -325,4 +326,4 @@ Champ d’application le 7 septembre 2023[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 25 nov. 1959 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. Le 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir dudit 1<sup>er</sup> juillet 1997. <sup>b</sup> Applicable sans modification. <sup>c</sup> Du 4 oct. 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>d</sup> 22.05.1990: Unification de la République Arabe du Yémen et la République démocratique populaire du Yémen en la République du Yémen.</td></tr>
 </table>
 
-[^t-2]: [RO 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-2]: [RO 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499); [2025 277](https://fedlex.data.admin.ch/eli/oc/2025/277). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
