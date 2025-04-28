@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Convention n<sup>o</sup> 122 du 9 juillet 1964 sur la politique de l'emploi, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: fr
-version: 2025-02-05
+version: 2025-04-29
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/fr/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250429-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 9 juillet 1964 Approuvée par l’Assemblée fédérale le 28 septembre 2012[^t-1] Instrument de ratification déposé par la Suisse le 11 février 2013 Entrée en vigueur pour la Suisse le 11 février 2014
 
-(État le 5 février 2025)
+(État le 29 avril 2025)
 
 [^t-1]: [RO 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
@@ -123,10 +123,10 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 5 février 2025[^t-2]
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>7 janvier</td><td>2009</td><td>7 janvier</td><td>2010</td></tr>
 <tr><td>Algérie</td><td>12 juin</td><td>1969</td><td>12 juin</td><td>1970</td></tr>
 <tr><td>Allemagne</td><td>17 juin</td><td>1971</td><td>17 juin</td><td>1972</td></tr>
@@ -186,6 +186,7 @@ Champ d’application le 5 février 2025[^t-2]
 <tr><td>Liban</td><td>1<sup>er</sup> juin</td><td>1977</td><td>1<sup>er</sup> juin</td><td>1978</td></tr>
 <tr><td>Libye</td><td>27 mai</td><td>1971</td><td>27 mai</td><td>1972</td></tr>
 <tr><td>Lituanie</td><td>3 mars</td><td>2004</td><td>3 mars</td><td>2005</td></tr>
+<tr><td>Luxembourg</td><td>18 mars</td><td>2021</td><td>18 mars</td><td>2022</td></tr>
 <tr><td>Macédoine du Nord</td><td>17 novembre</td><td>1991</td><td>17 novembre</td><td>1992</td></tr>
 <tr><td>Madagascar</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
 <tr><td>Mali</td><td>12 avril</td><td>2016</td><td>12 avril</td><td>2017</td></tr>
@@ -243,4 +244,4 @@ Champ d’application le 5 février 2025[^t-2]
 <tr><td>Zambie</td><td>23 octobre</td><td>1979</td><td>23 octobre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RO 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94), [305](https://fedlex.data.admin.ch/eli/oc/2025/305). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

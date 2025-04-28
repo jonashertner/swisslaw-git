@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Convenzione n. 122 del 9 luglio 1964 sulla politica dell'impiego, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: it
-version: 2025-02-05
+version: 2025-04-29
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/it/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250429/it/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250429-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 9 luglio 1964 Approvata dall’Assemblea federale il 28 settembre 2012[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 febbraio 2013 Entrata in vigore per la Svizzera l’11 febbraio 2014
 
-(Stato 5 febbraio 2025)
+(Stato 29 aprile 2025)
 
 [^t-1]: [RU 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
@@ -123,7 +123,7 @@ Il testo francese e il testo inglese della presente Convenzione fanno ugualmente
 
 (Seguono le firme)
 
-Campo d’applicazione il 5 febbraio 2025[^t-2]
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -188,6 +188,7 @@ Campo d’applicazione il 5 febbraio 2025[^t-2]
 <tr><td>Libano</td><td>1° giugno</td><td>1977</td><td>1° giugno</td><td>1978</td></tr>
 <tr><td>Libia</td><td>27 maggio</td><td>1971</td><td>27 maggio</td><td>1972</td></tr>
 <tr><td>Lituania</td><td>3 marzo</td><td>2004</td><td>3 marzo</td><td>2005</td></tr>
+<tr><td>Lussemburgo</td><td>18 marzo</td><td>2021</td><td>18 marzo</td><td>2022</td></tr>
 <tr><td>Macedonia del Nord</td><td>17 novembre</td><td>1991</td><td>17 novembre</td><td>1992</td></tr>
 <tr><td>Madagascar</td><td>21 novembre</td><td>1966</td><td>21 novembre</td><td>1967</td></tr>
 <tr><td>Mali</td><td>12 aprile</td><td>2016</td><td>12 aprile</td><td>2017</td></tr>
@@ -243,4 +244,4 @@ Campo d’applicazione il 5 febbraio 2025[^t-2]
 <tr><td>Zambia</td><td>23 ottobre</td><td>1979</td><td>23 ottobre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RU 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94), [305](https://fedlex.data.admin.ch/eli/oc/2025/305). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

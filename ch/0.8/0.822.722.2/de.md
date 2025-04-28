@@ -3,11 +3,11 @@ sr: "0.822.722.2"
 title: "Übereinkommen Nr. 122 vom 9. Juli 1964 über die Beschäftigungspolitik, 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/528"
 language: de
-version: 2025-02-05
+version: 2025-04-29
 adopted: 1964-07-09
 in_force: 2014-02-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250205/de/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250205-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250205/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/528/20250429/de/xml/fedlex-data-admin-ch-eli-cc-2013-528-20250429-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/528/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2013
 
 In Kraft getreten für die Schweiz am 11. Februar 2014
 
-(Stand am 5. Februar 2025)
+(Stand am 29. April 2025)
 
 [^t-1]: [AS 2013 2497](https://fedlex.data.admin.ch/eli/oc/2013/527)
 
@@ -129,7 +129,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Februar 2025[^t-2]
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -190,6 +190,7 @@ Geltungsbereich am 5. Februar 2025[^t-2]
 <tr><td>Libanon</td><td>1. Juni</td><td>1977</td><td>1. Juni</td><td>1978</td></tr>
 <tr><td>Libyen</td><td>27. Mai</td><td>1971</td><td>27. Mai</td><td>1972</td></tr>
 <tr><td>Litauen</td><td>3. März</td><td>2004</td><td>3. März</td><td>2005</td></tr>
+<tr><td>Luxemburg</td><td>18. März</td><td>2021</td><td>18. März</td><td>2022</td></tr>
 <tr><td>Madagaskar</td><td>21. November</td><td>1966</td><td>21. November</td><td>1967</td></tr>
 <tr><td>Mali</td><td>12. April</td><td>2016</td><td>12. April</td><td>2017</td></tr>
 <tr><td>Marokko</td><td>11. Mai</td><td>1979</td><td>11. Mai</td><td>1980</td></tr>
@@ -249,4 +250,4 @@ Geltungsbereich am 5. Februar 2025[^t-2]
 <tr><td>Zypern</td><td>28. Juli</td><td>1966</td><td>28. Juli</td><td>1967</td></tr>
 </table>
 
-[^t-2]: [AS 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2013 2499](https://fedlex.data.admin.ch/eli/oc/2013/528); [2017 4085](https://fedlex.data.admin.ch/eli/oc/2017/490); [2020 3493](https://fedlex.data.admin.ch/eli/oc/2020/610); [2025 94](https://fedlex.data.admin.ch/eli/oc/2025/94), [305](https://fedlex.data.admin.ch/eli/oc/2025/305). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
