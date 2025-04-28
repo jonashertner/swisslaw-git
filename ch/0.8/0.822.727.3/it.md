@@ -3,33 +3,26 @@ sr: "0.822.727.3"
 title: "Convenzione n. 173 del 25 giugno 1992 concernente la protezione dei crediti dei lavoratori in caso d'insolvenza del loro datore di lavoro"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224"
 language: it
-version: 2012-10-24
+version: 2025-04-29
 adopted: 1992-06-25
 in_force: 1996-06-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20121024/it/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20121024-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20121024/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20250429/it/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20250429-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20250429/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione n. 173 concernente la protezione dei crediti dei lavoratori in caso d’insolvenza del loro datore di lavoro
 
-Traduzione*[^t-1]*
-
 RU **1996** 2224; FF **1994** III 433
 
-Conclusa a Ginevra il 25 giugno 1992
+Traduzione
 
-Approvata dall’Assemblea federale il 1° dicembre 1994[^t-2]
+Conclusa a Ginevra il 25 giugno 1992 Approvata dall’Assemblea federale il 1° dicembre 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 16 giugno 1995 Entrata in vigore per la Svizzera il 16 giugno 1996
 
-Istrumento di ratificazione depositato dalla Svizzera il 16 giugno 1995
+(Stato 29 aprile 2025)
 
-Entrata in vigore per la Svizzera il 16 giugno 1996
-
-(Stato 24 ottobre 2012)
-
-[^t-1]: <sup>1</sup> Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta
-[^t-2]: Art. 1 cpv. 1 del DF del 1° dic. 1994 ([RU 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).
+[^t-1]: Art. 1 cpv. 1 del DF del 1° dic. 1994 ([RU 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).
 
 La Conferenza dell’Organizzazione internazionale del Lavoro,
 
@@ -216,39 +209,40 @@ Le versioni francese e inglese della presente convenzione fanno egualmente fede.
 
 (Seguono le firme)
 
-Campo d’applicazione il 24 ottobre 2012**[^t-3]**
+Campo d’applicazione il 29 aprile 2025[^t-2]
 
 <table>
-<tr><th colspan="3">Stati partecipanti</th><th colspan="2">Ratifica</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="3">Albania\*</td><td colspan="2">3 febbraio</td><td colspan="2">2005</td><td>3 febbraio</td><td>2006</td></tr>
-<tr><td colspan="3">Armenia\*</td><td colspan="2">18 maggio</td><td colspan="2">2005</td><td>18 maggio</td><td>2006</td></tr>
-<tr><td colspan="3">Australia\*</td><td colspan="2">8 giugno</td><td colspan="2">1994</td><td>8 giugno</td><td>1995</td></tr>
-<tr><td colspan="3">Austria\*</td><td colspan="2">20 dicembre</td><td colspan="2">1996</td><td>20 dicembre</td><td>1997</td></tr>
-<tr><td colspan="3">Botswana\*</td><td colspan="2">5 giugno</td><td colspan="2">1997</td><td>5 giugno</td><td>1998</td></tr>
-<tr><td colspan="3">Bulgaria\*</td><td colspan="2">28 settembre</td><td colspan="2">2004</td><td>28 settembre</td><td>2005</td></tr>
-<tr><td colspan="3">Burkina Faso\*</td><td colspan="2">11 febbraio</td><td colspan="2">1999</td><td>11 febbraio</td><td>2000</td></tr>
-<tr><td colspan="3">Ciad\*</td><td colspan="2">15 dicembre</td><td colspan="2">2000</td><td>15 dicembre</td><td>2001</td></tr>
-<tr><td colspan="3">Finlandia\*</td><td colspan="2">20 giugno</td><td colspan="2">1994</td><td>20 giugno</td><td>1995</td></tr>
-<tr><td colspan="3">Lettonia\*</td><td colspan="2">22 febbraio</td><td colspan="2">2002</td><td>22 febbraio</td><td>2003</td></tr>
-<tr><td colspan="3">Lituania\*</td><td colspan="2">26 settembre</td><td colspan="2">1994</td><td>26 settembre</td><td>1995</td></tr>
-<tr><td colspan="3">Madagascar\*</td><td colspan="2">3 giugno</td><td colspan="2">1998</td><td>3 giugno</td><td>1999</td></tr>
-<tr><td colspan="3">Messico\*</td><td colspan="2">24 settembre</td><td colspan="2">1993</td><td>8 giugno</td><td>1995</td></tr>
-<tr><td colspan="3">Russia\*</td><td colspan="2">20 agosto</td><td colspan="2">2012</td><td>20 agosto</td><td>2013</td></tr>
-<tr><td colspan="3">Slovacchia\*</td><td colspan="2">24 settembre</td><td colspan="2">1998</td><td>24 settembre</td><td>1999</td></tr>
-<tr><td colspan="3">Slovenia\*</td><td colspan="2">8 maggio</td><td colspan="2">2001</td><td>8 maggio</td><td>2002</td></tr>
-<tr><td colspan="3">Spagna\*</td><td colspan="2">16 maggio</td><td colspan="2">1995</td><td>16 maggio</td><td>1996</td></tr>
-<tr><td colspan="3">Svizzera\*</td><td colspan="2">16 giugno</td><td colspan="2">1995</td><td>16 giugno</td><td>1996</td></tr>
-<tr><td colspan="3">Ucraina\*</td><td colspan="2">1° marzo</td><td colspan="2">2006</td><td>1° marzo</td><td>2007</td></tr>
-<tr><td colspan="3">Zambia\*</td><td colspan="2">25 maggio</td><td colspan="2">1998</td><td>25 maggio</td><td>1999</td></tr>
-<tr><td>\*</td><td colspan="8">Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org/dyn/normlex/fr oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania\*</td><td>3 febbraio</td><td>2005</td><td>3 febbraio</td><td>2006</td></tr>
+<tr><td>Armenia\*</td><td>18 maggio</td><td>2005</td><td>18 maggio</td><td>2006</td></tr>
+<tr><td>Australia\*</td><td>8 giugno</td><td>1994</td><td>8 giugno</td><td>1995</td></tr>
+<tr><td>Austria\*</td><td>20 dicembre</td><td>1996</td><td>20 dicembre</td><td>1997</td></tr>
+<tr><td>Botswana\*</td><td>5 giugno</td><td>1997</td><td>5 giugno</td><td>1998</td></tr>
+<tr><td>Bulgaria\*</td><td>28 settembre</td><td>2004</td><td>28 settembre</td><td>2005</td></tr>
+<tr><td>Burkina Faso\*</td><td>11 febbraio</td><td>1999</td><td>11 febbraio</td><td>2000</td></tr>
+<tr><td>Ciad\*</td><td>15 dicembre</td><td>2000</td><td>15 dicembre</td><td>2001</td></tr>
+<tr><td>Finlandia\*</td><td>20 giugno</td><td>1994</td><td>20 giugno</td><td>1995</td></tr>
+<tr><td>Lettonia\*</td><td>22 febbraio</td><td>2002</td><td>22 febbraio</td><td>2003</td></tr>
+<tr><td>Lituania\*</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
+<tr><td>Madagascar\*</td><td>3 giugno</td><td>1998</td><td>3 giugno</td><td>1999</td></tr>
+<tr><td>Messico\*</td><td>24 settembre</td><td>1993</td><td>8 giugno</td><td>1995</td></tr>
+<tr><td>Portogallo</td><td>8 novembre</td><td>2012</td><td>8 novembre</td><td>2013</td></tr>
+<tr><td>Russia\*</td><td>20 agosto</td><td>2012</td><td>20 agosto</td><td>2013</td></tr>
+<tr><td>Slovacchia\*</td><td>24 settembre</td><td>1998</td><td>24 settembre</td><td>1999</td></tr>
+<tr><td>Slovenia\*</td><td>8 maggio</td><td>2001</td><td>8 maggio</td><td>2002</td></tr>
+<tr><td>Spagna\*</td><td>16 maggio</td><td>1995</td><td>16 maggio</td><td>1996</td></tr>
+<tr><td>Svizzera\*</td><td>16 giugno</td><td>1995</td><td>16 giugno</td><td>1996</td></tr>
+<tr><td>Ucraina\*</td><td>1° marzo</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td>Zambia\*</td><td>25 maggio</td><td>1998</td><td>25 maggio</td><td>1999</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org/dyn/normlex/fr oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
 ## Dichiarazioni
 
-[^t-3]: [RU 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224), [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103), [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460)e [2012 5855](https://fedlex.data.admin.ch/eli/oc/2012/688). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224); [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103); [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460); [2012 5855](https://fedlex.data.admin.ch/eli/oc/2012/688); [2025 281](https://fedlex.data.admin.ch/eli/oc/2025/281). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
-Svizzera**[^annexu1-lvlu2-1]**
+Svizzera[^scopeu1-lvlu1-1]
 
 La ratifica è corredata da una dichiarazione, secondo la quale la Svizzera accetta le parti II e III della convenzione e intende fare uso della possibilità d’esclusione prevista dall’articolo 4 paragrafi 2 e 3 della Convenzione.
 
-[^annexu1-lvlu2-1]: Art. 1 cpv. 2 del DF del 1° dic. 1994 ([RU 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).
+[^scopeu1-lvlu1-1]: Art. 1 cpv. 2 del DF del 1° dic. 1994 ([RU 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).

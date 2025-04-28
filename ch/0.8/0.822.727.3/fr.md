@@ -3,11 +3,11 @@ sr: "0.822.727.3"
 title: "Convention n<sup>o</sup> 173 du 25 juin 1992 concernant la protection des créances des travailleurs en cas d'insolvabilité de leur employeur"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224"
 language: fr
-version: 2012-10-24
+version: 2025-04-29
 adopted: 1992-06-25
 in_force: 1996-06-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20121024/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20121024-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20121024/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20250429/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20250429-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20250429/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,31 +18,25 @@ RO **1996** 2224; FF **1994** III 481
 
 Texte original
 
-Conclue à Genève le 25 juin 1992
+Conclue à Genève le 25 juin 1992 Approuvée par l’Assemblée fédérale le 1<sup>er</sup> décembre 1994[^t-1] Instrument de ratification déposé par la Suisse le 16 juin 1995 Entrée en vigueur pour la Suisse le 16 juin 1996
 
-Approuvée par l’Assemblée fédérale le 1<sup>er</sup> décembre 1994[^t-1]
-
-Instrument de ratification déposé par la Suisse le 16 juin 1995
-
-Entrée en vigueur pour la Suisse le 16 juin 1996
-
-(Etat le 24 octobre 2012)
+(État le 29 avril 2025)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 1<sup>er</sup> déc. 1994 ([RO 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223))
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-Convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 3 juin 1992 en sa soixante-dix-neuvième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 3 juin 1992 en sa soixante-dix-neuvième session,
 
-Soulignant l’importance de la protection des créances des travailleurs en cas d’insolvabilité de leur employeur et rappelant les dispositions y relatives de l’art. 11 de la convention sur la protection du salaire, 1949, et de l’art. 11 de la convention sur la réparation des accidents du travail, 1925[^ingress-1];
+soulignant l’importance de la protection des créances des travailleurs en cas d’insolvabilité de leur employeur et rappelant les dispositions y relatives de l’art. 11 de la convention sur la protection du salaire, 1949, et de l’art. 11 de la convention sur la réparation des accidents du travail, 1925[^ingress-1],
 
-Notant que, depuis l’adoption de la convention sur la protection du salaire, 1949, une plus grande importance a été accordée au redressement des entreprises insolvables et que, compte tenu des conséquences sociales et économiques de l’insolvabilité, des efforts devraient être faits autant que possible pour redresser les entreprises et sauvegarder l’emploi;
+notant que, depuis l’adoption de la convention sur la protection du salaire, 1949, une plus grande importance a été accordée au redressement des entreprises insolvables et que, compte tenu des conséquences sociales et économiques de l’insolvabilité, des efforts devraient être faits autant que possible pour redresser les entreprises et sauvegarder l’emploi,
 
-Notant que, depuis l’adoption desdites normes, d’importants développements ont eu lieu dans la législation et la pratique de nombreux Membres dans le sens d’une amélioration de la protection des créances des travailleurs en cas d’insolvabilité de leur employeur, et considérant qu’il serait opportun que la Conférence adopte de nouvelles normes relatives aux créances des travailleurs;
+aotant que, depuis l’adoption desdites normes, d’importants développements ont eu lieu dans la législation et la pratique de nombreux Membres dans le sens d’une amélioration de la protection des créances des travailleurs en cas d’insolvabilité de leur employeur, et considérant qu’il serait opportun que la Conférence adopte de nouvelles normes relatives aux créances des travailleurs,
 
-Après avoir décidé d’adopter diverses propositions relatives à la protection des créances des travailleurs en cas d’insolvabilité de leur employeur, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à la protection des créances des travailleurs en cas d’insolvabilité de leur employeur, question qui constitue le quatrième point à l’ordre du jour de la session,
 
-Après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
+après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
 adopte, ce vingt-troisième jour de juin mil neuf cent quatre-vingt-douze, la convention ci-après, qui sera dénommée Convention sur la protection des créances des travailleurs en cas d’insolvabilité de leur employeur, 1992.
 
@@ -119,9 +113,9 @@ Le privilège doit porter au moins sur les créances des travailleurs:
 
 #### Art. 8
 
-<sup>1.</sup> La législation nationale doit placer les créances des travailleurs à un rang de privilège plus élevé que la plupart des autres créances privilégiées, et en particulier celles de l’Etat et de la sécurité sociale.
+<sup>1.</sup> La législation nationale doit placer les créances des travailleurs à un rang de privilège plus élevé que la plupart des autres créances privilégiées, et en particulier celles de l’État et de la sécurité sociale.
 
-<sup>2.</sup> Toutefois, lorsque les créances des travailleurs sont protégées par une institution de garantie conformément à la partie III de la présente convention, les créances ainsi protégées peuvent être placées à un rang de privilège moins élevé que celles de l’Etat et de la sécurité sociale.
+<sup>2.</sup> Toutefois, lorsque les créances des travailleurs sont protégées par une institution de garantie conformément à la partie III de la présente convention, les créances ainsi protégées peuvent être placées à un rang de privilège moins élevé que celles de l’État et de la sécurité sociale.
 
 ## Partie III Protection des créances des travailleurs par une institution de garantie
 
@@ -215,39 +209,40 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 24 octobre 2012**[^t-2]**
+Champ d’application le 29 avril 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie\*</td><td>3 février</td><td>2005</td><td>3 février</td><td>2006</td></tr>
-<tr><td colspan="2">Arménie\*</td><td>18 mai</td><td>2005</td><td>18 mai</td><td>2006</td></tr>
-<tr><td colspan="2">Australie\*</td><td>8 juin</td><td>1994</td><td>8 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Autriche\*</td><td>20 décembre</td><td>1996</td><td>20 décembre</td><td>1997</td></tr>
-<tr><td colspan="2">Botswana\*</td><td>5 juin</td><td>1997</td><td>5 juin</td><td>1998</td></tr>
-<tr><td colspan="2">Bulgarie\*</td><td>28 septembre</td><td>2004</td><td>28 septembre</td><td>2005</td></tr>
-<tr><td colspan="2">Burkina Faso\*</td><td>11 février</td><td>1999</td><td>11 février</td><td>2000</td></tr>
-<tr><td colspan="2">Espagne\*</td><td>16 mai</td><td>1995</td><td>16 mai</td><td>1996</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>20 juin</td><td>1994</td><td>20 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Lettonie\*</td><td>22 février</td><td>2002</td><td>22 février</td><td>2003</td></tr>
-<tr><td colspan="2">Lituanie\*</td><td>26 septembre</td><td>1994</td><td>26 septembre</td><td>1995</td></tr>
-<tr><td colspan="2">Madagascar\*</td><td>3 juin</td><td>1998</td><td>3 juin</td><td>1999</td></tr>
-<tr><td colspan="2">Mexique\*</td><td>24 septembre</td><td>1993</td><td>8 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Russie\*</td><td>20 août</td><td>2012</td><td>20 août</td><td>2013</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>24 septembre</td><td>1998</td><td>24 septembre</td><td>1999</td></tr>
-<tr><td colspan="2">Slovénie\*</td><td>8 mai</td><td>2001</td><td>8 mai</td><td>2002</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>16 juin</td><td>1995</td><td>16 juin</td><td>1996</td></tr>
-<tr><td colspan="2">Tchad\*</td><td>15 décembre</td><td>2000</td><td>15 décembre</td><td>2001</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>1<sup>er</sup> mars</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
-<tr><td colspan="2">Zambie\*</td><td>25 mai</td><td>1998</td><td>25 mai</td><td>1999</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: www.ilo.org/dyn/normlex/fr ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie\*</td><td>3 février</td><td>2005</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Arménie\*</td><td>18 mai</td><td>2005</td><td>18 mai</td><td>2006</td></tr>
+<tr><td>Australie\*</td><td>8 juin</td><td>1994</td><td>8 juin</td><td>1995</td></tr>
+<tr><td>Autriche\*</td><td>20 décembre</td><td>1996</td><td>20 décembre</td><td>1997</td></tr>
+<tr><td>Botswana\*</td><td>5 juin</td><td>1997</td><td>5 juin</td><td>1998</td></tr>
+<tr><td>Bulgarie\*</td><td>28 septembre</td><td>2004</td><td>28 septembre</td><td>2005</td></tr>
+<tr><td>Burkina Faso\*</td><td>11 février</td><td>1999</td><td>11 février</td><td>2000</td></tr>
+<tr><td>Espagne\*</td><td>16 mai</td><td>1995</td><td>16 mai</td><td>1996</td></tr>
+<tr><td>Finlande\*</td><td>20 juin</td><td>1994</td><td>20 juin</td><td>1995</td></tr>
+<tr><td>Lettonie\*</td><td>22 février</td><td>2002</td><td>22 février</td><td>2003</td></tr>
+<tr><td>Lituanie\*</td><td>26 septembre</td><td>1994</td><td>26 septembre</td><td>1995</td></tr>
+<tr><td>Madagascar\*</td><td>3 juin</td><td>1998</td><td>3 juin</td><td>1999</td></tr>
+<tr><td>Mexique\*</td><td>24 septembre</td><td>1993</td><td>8 juin</td><td>1995</td></tr>
+<tr><td>Portugal</td><td>8 novembre</td><td>2012</td><td>8 novembre</td><td>2013</td></tr>
+<tr><td>Russie\*</td><td>20 août</td><td>2012</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Slovaquie\*</td><td>24 septembre</td><td>1998</td><td>24 septembre</td><td>1999</td></tr>
+<tr><td>Slovénie\*</td><td>8 mai</td><td>2001</td><td>8 mai</td><td>2002</td></tr>
+<tr><td>Suisse\*</td><td>16 juin</td><td>1995</td><td>16 juin</td><td>1996</td></tr>
+<tr><td>Tchad\*</td><td>15 décembre</td><td>2000</td><td>15 décembre</td><td>2001</td></tr>
+<tr><td>Ukraine\*</td><td>1<sup>er</sup> mars</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
+<tr><td>Zambie\*</td><td>25 mai</td><td>1998</td><td>25 mai</td><td>1999</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: [www.ilo.org/dyn/normlex/fr](http://www.ilo.org/dyn/normlex/fr) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-## Réserves et déclarations
+## Déclarations
 
-[^t-2]: [RO 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224), [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103), [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460)et **2012** 5855. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224); [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103); [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460); [2012 5855](https://fedlex.data.admin.ch/eli/oc/2012/688); [2025 281](https://fedlex.data.admin.ch/eli/oc/2025/281). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
-Suisse**[^annexu1-lvlu2-1]**
+Suisse[^scopeu1-lvlu1-1]
 
 La ratification est assortie d’une déclaration, aux termes de laquelle la Suisse accepte les parties II et III de la convention et entend faire usage de la possibilité d’exclusion prévue au titre de l’art. 4, par. 2 et 3, de la convention.
 
-[^annexu1-lvlu2-1]: Art. 1 al. 2 de l’AF du 1<sup>er</sup> déc. 1994 ([RO 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223))
+[^scopeu1-lvlu1-1]: Art. 1 al. 2 de l’AF du 1<sup>er</sup> déc. 1994 ([RO 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223))

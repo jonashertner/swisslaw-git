@@ -3,11 +3,11 @@ sr: "0.822.727.3"
 title: Übereinkommen Nr. 173 vom 25. Juni 1992 über den Schutz der Forderungen der Arbeitnehmer bei Zahlungsunfähigkeit ihres Arbeitgebers
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224"
 language: de
-version: 2012-10-24
+version: 2025-04-29
 adopted: 1992-06-25
 in_force: 1996-06-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20121024/de/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20121024-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20121024/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2224_2224_2224/20250429/de/xml/fedlex-data-admin-ch-eli-cc-1996-2224_2224_2224-20250429-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20250429/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2224_2224_2224/20121024/de"
 
 AS **1996** 2224; BBl **1994** III 488
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 25. Juni 1992 Von der Bundesversammlung genehmigt am 1. Dezember 1994[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juni 1995 In Kraft getreten für die Schweiz am 16. Juni 1996
+Abgeschlossen in Genf am 25. Juni 1992 Von der Bundesversammlung genehmigt am 1. Dezember 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juni 1995 In Kraft getreten für die Schweiz am 16. Juni 1996
 
-(Stand am 24. Oktober 2012)
+(Stand am 29. April 2025)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 des BB vom 1. Dez. 1994 ([AS 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).
+[^t-1]: Art. 1 Abs. 1 des BB vom 1. Dez. 1994 ([AS 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223)).
 
 Die Allgemeine Konferenz der Internationalen Arbeitsorganisation,
 
@@ -210,40 +209,40 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. Oktober 2012**[^t-3]**
+Geltungsbereich am 29. April 2025[^t-2]
 
 <table>
-<tr><td colspan="2">Vertragsstaaten</td><td>Ratifikation</td><td></td><td>Inkrafttreten</td><td></td></tr>
-<tr><td colspan="2">Albanien\*</td><td>3. Februar</td><td>2005</td><td>3. Februar</td><td>2006</td></tr>
-<tr><td colspan="2">Armenien\*</td><td>18. Mai</td><td>2005</td><td>18. Mai</td><td>2006</td></tr>
-<tr><td colspan="2">Australien\*</td><td>8. Juni</td><td>1994</td><td>8. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Botsuana\*</td><td>5. Juni</td><td>1997</td><td>5. Juni</td><td>1998</td></tr>
-<tr><td colspan="2">Bulgarien\*</td><td>28. September</td><td>2004</td><td>28. September</td><td>2005</td></tr>
-<tr><td colspan="2">Burkina Faso\*</td><td>11. Februar</td><td>1999</td><td>11. Februar</td><td>2000</td></tr>
-<tr><td colspan="2">Finnland\*</td><td>20. Juni</td><td>1994</td><td>20. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Lettland\*</td><td>22. Februar</td><td>2002</td><td>22. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Litauen\*</td><td>26. September</td><td>1994</td><td>26. September</td><td>1995</td></tr>
-<tr><td colspan="2">Madagaskar\*</td><td>3. Juni</td><td>1998</td><td>3. Juni</td><td>1999</td></tr>
-<tr><td colspan="2">Mexiko\*</td><td>24. September</td><td>1993</td><td>8. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Österreich\*</td><td>20. Dezember</td><td>1996</td><td>20. Dezember</td><td>1997</td></tr>
-<tr><td colspan="2">Russland\*</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td colspan="2">Sambia\*</td><td>25. Mai</td><td>1998</td><td>25. Mai</td><td>1999</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>16. Juni</td><td>1995</td><td>16. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>24. September</td><td>1998</td><td>24. September</td><td>1999</td></tr>
-<tr><td colspan="2">Slowenien\*</td><td>8. Mai</td><td>2001</td><td>8. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Spanien\*</td><td>16. Mai</td><td>1995</td><td>16. Mai</td><td>1996</td></tr>
-<tr><td colspan="2">Tschad\*</td><td>15. Dezember</td><td>2000</td><td>15. Dezember</td><td>2001</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>1. März</td><td>2006</td><td>1. März</td><td>2007</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org/dyn/normlex/fr eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td>Vertragsstaaten</td><td>Ratifikation</td><td></td><td>Inkrafttreten</td><td></td></tr>
+<tr><td>Albanien\*</td><td>3. Februar</td><td>2005</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Armenien\*</td><td>18. Mai</td><td>2005</td><td>18. Mai</td><td>2006</td></tr>
+<tr><td>Australien\*</td><td>8. Juni</td><td>1994</td><td>8. Juni</td><td>1995</td></tr>
+<tr><td>Botsuana\*</td><td>5. Juni</td><td>1997</td><td>5. Juni</td><td>1998</td></tr>
+<tr><td>Bulgarien\*</td><td>28. September</td><td>2004</td><td>28. September</td><td>2005</td></tr>
+<tr><td>Burkina Faso\*</td><td>11. Februar</td><td>1999</td><td>11. Februar</td><td>2000</td></tr>
+<tr><td>Finnland\*</td><td>20. Juni</td><td>1994</td><td>20. Juni</td><td>1995</td></tr>
+<tr><td>Lettland\*</td><td>22. Februar</td><td>2002</td><td>22. Februar</td><td>2003</td></tr>
+<tr><td>Litauen\*</td><td>26. September</td><td>1994</td><td>26. September</td><td>1995</td></tr>
+<tr><td>Madagaskar\*</td><td>3. Juni</td><td>1998</td><td>3. Juni</td><td>1999</td></tr>
+<tr><td>Mexiko\*</td><td>24. September</td><td>1993</td><td>8. Juni</td><td>1995</td></tr>
+<tr><td>Österreich\*</td><td>20. Dezember</td><td>1996</td><td>20. Dezember</td><td>1997</td></tr>
+<tr><td>Portugal</td><td>8. November</td><td>2012</td><td>8. November</td><td>2013</td></tr>
+<tr><td>Russland\*</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
+<tr><td>Sambia\*</td><td>25. Mai</td><td>1998</td><td>25. Mai</td><td>1999</td></tr>
+<tr><td>Schweiz\*</td><td>16. Juni</td><td>1995</td><td>16. Juni</td><td>1996</td></tr>
+<tr><td>Slowakei\*</td><td>24. September</td><td>1998</td><td>24. September</td><td>1999</td></tr>
+<tr><td>Slowenien\*</td><td>8. Mai</td><td>2001</td><td>8. Mai</td><td>2002</td></tr>
+<tr><td>Spanien\*</td><td>16. Mai</td><td>1995</td><td>16. Mai</td><td>1996</td></tr>
+<tr><td>Tschad\*</td><td>15. Dezember</td><td>2000</td><td>15. Dezember</td><td>2001</td></tr>
+<tr><td>Ukraine\*</td><td>1. März</td><td>2006</td><td>1. März</td><td>2007</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 ## Erklärungen
 
-[^t-3]: [AS 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224), [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103), [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460)und [2012 5855](https://fedlex.data.admin.ch/eli/oc/2012/688). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1996 2224](https://fedlex.data.admin.ch/eli/oc/1996/2224_2224_2224); [2002 456](https://fedlex.data.admin.ch/eli/oc/2002/103); [2006 2981](https://fedlex.data.admin.ch/eli/oc/2006/460); [2012 5855](https://fedlex.data.admin.ch/eli/oc/2012/688); [2025 281](https://fedlex.data.admin.ch/eli/oc/2025/281). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Schweiz**[^annexu1-lvlu2-1]**
+Schweiz[^scopeu1-lvlu1-1]
 
 Die Ratifikation wird begleitet von einer Erklärung, wonach die Schweiz die Teile II und III des Übereinkommens annimmt und beabsichtigt, von der Möglichkeit des in Artikel 4 Absätze 2 und 3 des Übereinkommens vorgesehenen Ausschlusses Gebrauch zu machen.
 
-[^annexu1-lvlu2-1]: Art. 1 Abs. 2 des BB vom 1. Dez. 1994 ([AS 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223))
+[^scopeu1-lvlu1-1]: Art. 1 Abs. 2 des BB vom 1. Dez. 1994 ([AS 1996 2223](https://fedlex.data.admin.ch/eli/oc/1996/2223_2223_2223))
