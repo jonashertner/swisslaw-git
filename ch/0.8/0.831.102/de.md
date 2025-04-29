@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: Übereinkommen Nr. 102 vom 28. Juni 1952 über die Mindestnormen der Sozialen Sicherheit (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: de
-version: 2023-08-29
+version: 2025-04-30
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/de/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20250430/de/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20250430-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20250430/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1978** 1626; BBl **1976** III 1317
 
 Angenommen in Genf am 28. Juni 1952 Von der Bundesversammlung genehmigt am 23. Juni 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Oktober 1977 In Kraft getreten für die Schweiz am 18. Oktober 1978
 
-(Stand am 29. August 2023)
+(Stand am 30. April 2025)
 
 [^t-1]: Art. 1 Abs. 2 des BB vom 23. Juni 1977 ([AS 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491))
 
@@ -937,11 +937,12 @@ Abteilung 9. Ungenügend umschriebene Tätigkeiten:
 
 \90. Ungenügend umschriebene Tätigkeiten
 
-Geltungsbereich am 29. August 2023[^t-2]
+Geltungsbereich am 30. April 2025[^t-2]
 
 <table>
 <tr><th>[tab] Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th>[tab]</th><th>[tab] Inkrafttreten</th><th>[tab]</th></tr>
 <tr><td>Albanien</td><td>18. Januar</td><td>2006</td><td>18. Januar</td><td>2007</td></tr>
+<tr><td>Argentinien</td><td>27. Juli</td><td>2016</td><td>27. Juli</td><td>2017</td></tr>
 <tr><td>Barbados</td><td>11. Juli</td><td>1972</td><td>11. Juli</td><td>1973</td></tr>
 <tr><td>Belgien</td><td>26. November</td><td>1959</td><td>26. November</td><td>1960</td></tr>
 <tr><td>Benin</td><td>14. Juni</td><td>2019</td><td>14. Juni</td><td>2020</td></tr>
@@ -955,6 +956,7 @@ Geltungsbereich am 29. August 2023[^t-2]
 <tr><td>Deutschland</td><td>21. Februar</td><td>1958</td><td>21. Februar</td><td>1959</td></tr>
 <tr><td>Dominikanische Republik</td><td>11. Juli</td><td>2016</td><td>11. Juli</td><td>2017</td></tr>
 <tr><td>Ecuador</td><td>25. Oktober</td><td>1974</td><td>25. Oktober</td><td>1975</td></tr>
+<tr><td>El Salvador</td><td>7. Juni</td><td>2022</td><td>7. Juni</td><td>2023</td></tr>
 <tr><td>Frankreich</td><td>14. Juni</td><td>1974</td><td>14. Juni</td><td>1975</td></tr>
 <tr><td>Griechenland</td><td>16. Juni</td><td>1955</td><td>16. Juni</td><td>1956</td></tr>
 <tr><td>Honduras</td><td>1. November</td><td>2012</td><td>1. November</td><td>2013</td></tr>
@@ -965,6 +967,7 @@ Geltungsbereich am 29. August 2023[^t-2]
 <tr><td>Italien</td><td>8. Juni</td><td>1956</td><td>8. Juni</td><td>1957</td></tr>
 <tr><td>Japan</td><td>2. Februar</td><td>1976</td><td>2. Februar</td><td>1977</td></tr>
 <tr><td>Jordanien</td><td>12. Februar</td><td>2014</td><td>12. Februar</td><td>2015</td></tr>
+<tr><td>Kap Verde</td><td>10. Januar</td><td>2020</td><td>10. Januar</td><td>2021</td></tr>
 <tr><td>Komoren</td><td>28. Juli</td><td>2022</td><td>28. Juli</td><td>2023</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>3. April</td><td>1987</td><td>3. April</td><td>1988</td></tr>
 <tr><td>Kroatien</td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
@@ -985,6 +988,7 @@ Geltungsbereich am 29. August 2023[^t-2]
 <tr><td>Portugal</td><td>17. März</td><td>1994</td><td>17. März</td><td>1995</td></tr>
 <tr><td>Rumänien</td><td>15. Oktober</td><td>2009</td><td>15. Oktober</td><td>2010</td></tr>
 <tr><td>Russland</td><td>26. Februar</td><td>2019</td><td>26. Februar</td><td>2020</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>7. Juni</td><td>2024</td><td>7. Juni</td><td>2025</td></tr>
 <tr><td>Schweden</td><td>12. August</td><td>1953</td><td>27. April</td><td>1955</td></tr>
 <tr><td>Schweiz\*</td><td>18. Oktober</td><td>1977</td><td>18. Oktober</td><td>1978</td></tr>
 <tr><td>Senegal</td><td>22. Oktober</td><td>1962</td><td>22. Oktober</td><td>1963</td></tr>
@@ -994,6 +998,7 @@ Geltungsbereich am 29. August 2023[^t-2]
 <tr><td>Slowenien</td><td>29. Mai</td><td>1992 N</td><td>29. Mai</td><td>1992</td></tr>
 <tr><td>Spanien</td><td>29. Juni</td><td>1988</td><td>29. Juni</td><td>1989</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>25. November</td><td>2015</td><td>25. November</td><td>2016</td></tr>
+<tr><td>Suriname</td><td>28. November</td><td>2024</td><td>28. November</td><td>2025</td></tr>
 <tr><td>Togo</td><td>7. Juni</td><td>2013</td><td>7. Juni</td><td>2014</td></tr>
 <tr><td>Tschad</td><td>4. Juni</td><td>2015</td><td>4. Juni</td><td>2016</td></tr>
 <tr><td>Tschechische Republik</td><td>1. Januar</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -1007,7 +1012,7 @@ Geltungsbereich am 29. August 2023[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478); [2025 284](https://fedlex.data.admin.ch/eli/oc/2025/284). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

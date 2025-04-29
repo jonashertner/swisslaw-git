@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: "Convention n<sup>o</sup> 102 du 28 juin 1952 concernant la norme minimum de la sécurité sociale (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: fr
-version: 2023-08-29
+version: 2025-04-30
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20250430/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20250430-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20250430/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adoptée à Genève le 28 juin 1952 Approuvée par l’Assemblée fédérale le 23 juin 1977[^t-1] Instrument de ratification déposé par la Suisse le 18 octobre 1977 Entrée en vigueur pour la Suisse le 18 octobre 1978
 
-(État le 29 août 2023)
+(État le 30 avril 2025)
 
 [^t-1]: Art. 1 al. 2 de l’AF du 23 juin 1977 ([RO 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
@@ -729,9 +729,9 @@ Lorsqu’il en sera ainsi disposé dans une convention adoptée ultérieurement 
 
 #### Art. 76
 
-<sup>1.</sup> Tout Membre qui ratifie la présente convention s’engage à fournir dans le rapport annuel qu’il doit présenter sur l’application de la convention, conformément à l’art. 22 de la Constitution de l’Organisation internationale du Travail[^76-1];
+<sup>1.</sup> ces preuves devront être fournies en se conformant autant que possible, quant à leur présentation, aux suggestions faites par le Conseil d’administration du Bureau international du Travail en vue d’une plus grande uniformité à cet égard.
 
-ces preuves devront être fournies en se conformant autant que possible, quant à leur présentation, aux suggestions faites par le Conseil d’administration du Bureau international du Travail en vue d’une plus grande uniformité à cet égard.
+Tout Membre qui ratifie la présente convention s’engage à fournir dans le rapport annuel qu’il doit présenter sur l’application de la convention, conformément à l’art. 22 de la Constitution de l’Organisation internationale du Travail[^76-1]:
 
 - a) des renseignements complets sur la législation donnant effet aux dispositions de la convention;
 - b)
@@ -773,7 +773,9 @@ Les ratifications formelles de la présente convention seront communiquées au D
 
 #### Art. 80
 
-<sup>1.</sup> Les déclarations qui seront communiquées au Directeur général du Bureau international du Travail, conformément au par. 2 de l’art. 35 de la Constitution de l’Organisation internationale du Travail[^80-1], devront faire connaître.
+<sup>1.</sup>
+
+Les déclarations qui seront communiquées au Directeur général du Bureau international du Travail, conformément au par. 2 de l’art. 35 de la Constitution de l’Organisation internationale du Travail[^80-1], devront faire connaître:
 
 - a) les territoires pour lesquels le Membre intéressé s’engage à ce que les dispositions de la convention ou de certaines de ses Parties soient appliquées sans modification;
 - b) les territoires pour lesquels il s’engage à ce que les dispositions de la convention ou de certaines de ses Parties soient appliquées avec des modifications, et en quoi consistent lesdites modifications;
@@ -947,12 +949,13 @@ Branche 9. Activités mal désignées:
 
 \90. Activités mal désignées
 
-Champ d’application le 29 août 2023[^t-2]
+Champ d’application le 30 avril 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>18 janvier</td><td>2006</td><td>18 janvier</td><td>2007</td></tr>
 <tr><td>Allemagne</td><td>21 février</td><td>1958</td><td>21 février</td><td>1959</td></tr>
+<tr><td>Argentine</td><td>27 juillet</td><td>2016</td><td>27 juillet</td><td>2017</td></tr>
 <tr><td>Autriche</td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
 <tr><td>Barbade</td><td>11 juillet</td><td>1972</td><td>11 juillet</td><td>1973</td></tr>
 <tr><td>Belgique</td><td>26 novembre</td><td>1959</td><td>26 novembre</td><td>1960</td></tr>
@@ -961,6 +964,7 @@ Champ d’application le 29 août 2023[^t-2]
 <tr><td>Bosnie et Herzégovine</td><td>2 juin</td><td>1993 S</td><td>2 juin</td><td>1993</td></tr>
 <tr><td>Brésil</td><td>15 juin</td><td>2009</td><td>15 juin</td><td>2010</td></tr>
 <tr><td>Bulgarie</td><td>14 juillet</td><td>2008</td><td>14 juillet</td><td>2009</td></tr>
+<tr><td>Cabo Verde</td><td>10 janvier</td><td>2020</td><td>10 janvier</td><td>2021</td></tr>
 <tr><td>Chypre</td><td>3 septembre</td><td>1991</td><td>3 septembre</td><td>1992</td></tr>
 <tr><td>Comores</td><td>28 juillet</td><td>2022</td><td>28 juillet</td><td>2023</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>3 avril</td><td>1987</td><td>3 avril</td><td>1988</td></tr>
@@ -968,6 +972,7 @@ Champ d’application le 29 août 2023[^t-2]
 <tr><td>Côte d’Ivoire</td><td>26 avril</td><td>2023</td><td>26 avril</td><td>2024</td></tr>
 <tr><td>Croatie</td><td>8 octobre</td><td>1991 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark</td><td>15 août</td><td>1955</td><td>15 août</td><td>1956</td></tr>
+<tr><td>El Salvador</td><td>7 juin</td><td>2022</td><td>7 juin</td><td>2023</td></tr>
 <tr><td>Équateur</td><td>25 octobre</td><td>1974</td><td>25 octobre</td><td>1975</td></tr>
 <tr><td>Espagne</td><td>29 juin</td><td>1988</td><td>29 juin</td><td>1989</td></tr>
 <tr><td>France</td><td>14 juin</td><td>1974</td><td>14 juin</td><td>1975</td></tr>
@@ -1001,6 +1006,7 @@ Champ d’application le 29 août 2023[^t-2]
 <tr><td>[tab] Île de Man</td><td>22 septembre</td><td>1960</td><td>22 septembre</td><td>1960</td></tr>
 <tr><td>Russie</td><td>26 février</td><td>2019</td><td>26 février</td><td>2020</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>25 novembre</td><td>2015</td><td>25 novembre</td><td>2016</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>7 juin</td><td>2024</td><td>7 juin</td><td>2025</td></tr>
 <tr><td>Sénégal</td><td>22 octobre</td><td>1962</td><td>22 octobre</td><td>1963</td></tr>
 <tr><td>Serbie</td><td>24 novembre</td><td>2000 S</td><td>20 décembre</td><td>1955</td></tr>
 <tr><td>Sierra Leone</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
@@ -1008,6 +1014,7 @@ Champ d’application le 29 août 2023[^t-2]
 <tr><td>Slovénie</td><td>29 mai</td><td>1992 S</td><td>29 mai</td><td>1992</td></tr>
 <tr><td>Suède</td><td>12 août</td><td>1953</td><td>27 avril</td><td>1955</td></tr>
 <tr><td>Suisse\*</td><td>18 octobre</td><td>1977</td><td>18 octobre</td><td>1978</td></tr>
+<tr><td>Suriname</td><td>28 novembre</td><td>2024</td><td>28 novembre</td><td>2025</td></tr>
 <tr><td>Tchad</td><td>4 juin</td><td>2015</td><td>4 juin</td><td>2016</td></tr>
 <tr><td>Togo</td><td>7 juin</td><td>2013</td><td>7 juin</td><td>2014</td></tr>
 <tr><td>Turquie</td><td>29 janvier</td><td>1975</td><td>29 janvier</td><td>1976</td></tr>
@@ -1017,7 +1024,7 @@ Champ d’application le 29 août 2023[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478); [2025 284](https://fedlex.data.admin.ch/eli/oc/2025/284). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

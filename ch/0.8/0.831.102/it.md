@@ -3,11 +3,11 @@ sr: "0.831.102"
 title: Convenzione n. 102 del 28 giugno 1952 concernente le norme minime della sicurezza sociale (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626"
 language: it
-version: 2023-08-29
+version: 2025-04-30
 adopted: 1952-06-28
 in_force: 1978-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20230829/it/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20230829-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20230829/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1626_1626_1626/20250430/it/xml/fedlex-data-admin-ch-eli-cc-1978-1626_1626_1626-20250430-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1626_1626_1626/20250430/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Ginevra il 28 giugno 1952 Approvata dall’Assemblea federale il 23 giugno 1977[^t-1] Ratificata dalla Svizzera con strumento depositato il 18 ottobre 1977 Entrata in vigore per la Svizzera il 18 ottobre 1978
 
-(Stato 29 agosto 2023)
+(Stato 30 aprile 2025)
 
 [^t-1]: Art. 1 cpv. 2 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
@@ -938,11 +938,12 @@ Ramo 9. Attività non descritta adeguatamente:
 
 \90. Attività non descritta adeguatamente
 
-Campo d’applicazione il 29 agosto 2023[^t-2]
+Campo d’applicazione il 30 aprile 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>18 gennaio</td><td>2006</td><td>18 gennaio</td><td>2007</td></tr>
+<tr><td>Argentina</td><td>27 luglio</td><td>2016</td><td>27 luglio</td><td>2017</td></tr>
 <tr><td>Austria</td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
 <tr><td>Barbados</td><td>11 luglio</td><td>1972</td><td>11 luglio</td><td>1973</td></tr>
 <tr><td>Belgio</td><td>26 novembre</td><td>1959</td><td>26 novembre</td><td>1960</td></tr>
@@ -951,6 +952,7 @@ Campo d’applicazione il 29 agosto 2023[^t-2]
 <tr><td>Bosnia e Erzegovina</td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
 <tr><td>Brasile</td><td>15 giugno</td><td>2009</td><td>15 giugno</td><td>2010</td></tr>
 <tr><td>Bulgaria</td><td>14 luglio</td><td>2008</td><td>14 luglio</td><td>2009</td></tr>
+<tr><td>Capo Verde</td><td>10 gennaio</td><td>2020</td><td>10 gennaio</td><td>2021</td></tr>
 <tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>4 giugno</td><td>2015</td><td>4 giugno</td><td>2016</td></tr>
 <tr><td>Cipro</td><td>3 settembre</td><td>1991</td><td>3 settembre</td><td>1992</td></tr>
@@ -962,6 +964,7 @@ Campo d’applicazione il 29 agosto 2023[^t-2]
 <tr><td>Danimarca</td><td>15 agosto</td><td>1955</td><td>15 agosto</td><td>1956</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>11 luglio</td><td>2016</td><td>11 luglio</td><td>2017</td></tr>
 <tr><td>Ecuador</td><td>25 ottobre</td><td>1974</td><td>25 ottobre</td><td>1975</td></tr>
+<tr><td>El Salvador</td><td>7 giugno</td><td>2022</td><td>7 giugno</td><td>2023</td></tr>
 <tr><td>Francia</td><td>14 giugno</td><td>1974</td><td>14 giugno</td><td>1975</td></tr>
 <tr><td>Germania</td><td>21 febbraio</td><td>1958</td><td>21 febbraio</td><td>1959</td></tr>
 <tr><td>Giappone</td><td>2 febbraio</td><td>1976</td><td>2 febbraio</td><td>1977</td></tr>
@@ -971,6 +974,7 @@ Campo d’applicazione il 29 agosto 2023[^t-2]
 <tr><td>Iraq</td><td>22 marzo</td><td>2023</td><td>22 marzo</td><td>2024</td></tr>
 <tr><td>Irlanda</td><td>17 giugno</td><td>1968</td><td>17 giugno</td><td>1969</td></tr>
 <tr><td>Islanda</td><td>20 febbraio</td><td>1961</td><td>20 febbraio</td><td>1962</td></tr>
+<tr><td>Isola di Man</td><td>22 settembre</td><td>1960</td><td>22 settembre</td><td>1960</td></tr>
 <tr><td>Israele</td><td>16 dicembre</td><td>1955</td><td>16 dicembre</td><td>1956</td></tr>
 <tr><td>Italia</td><td>8 giugno</td><td>1956</td><td>8 giugno</td><td>1957</td></tr>
 <tr><td>Libia</td><td>19 giugno</td><td>1975</td><td>19 giugno</td><td>1976</td></tr>
@@ -988,16 +992,17 @@ Campo d’applicazione il 29 agosto 2023[^t-2]
 <tr><td>Polonia</td><td>3 dicembre</td><td>2003</td><td>3 dicembre</td><td>2004</td></tr>
 <tr><td>Portogallo</td><td>17 marzo</td><td>1994</td><td>17 marzo</td><td>1995</td></tr>
 <tr><td>Regno Unito</td><td>27 aprile</td><td>1954</td><td>27 aprile</td><td>1955</td></tr>
-<tr><td>Isola di Man</td><td>22 settembre</td><td>1960</td><td>22 settembre</td><td>1960</td></tr>
 <tr><td>Romania</td><td>15 ottobre</td><td>2009</td><td>15 ottobre</td><td>2010</td></tr>
 <tr><td>Russia</td><td>26 febbraio</td><td>2019</td><td>26 febbraio</td><td>2020</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>25 novembre</td><td>2015</td><td>25 novembre</td><td>2016</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>7 giugno</td><td>2024</td><td>7 giugno</td><td>2025</td></tr>
 <tr><td>Senegal</td><td>22 ottobre</td><td>1962</td><td>22 ottobre</td><td>1963</td></tr>
 <tr><td>Serbia</td><td>24 novembre</td><td>2000 S</td><td>20 dicembre</td><td>1955</td></tr>
 <tr><td>Sierra Leone</td><td>29 marzo</td><td>2022</td><td>29 marzo</td><td>2023</td></tr>
 <tr><td>Slovacchia</td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
 <tr><td>Spagna</td><td>29 giugno</td><td>1988</td><td>29 giugno</td><td>1989</td></tr>
+<tr><td>Suriname</td><td>28 novembre</td><td>2024</td><td>28 novembre</td><td>2025</td></tr>
 <tr><td>Svezia</td><td>12 agosto</td><td>1953</td><td>27 aprile</td><td>1955</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>18 ottobre</td><td>1977</td><td>18 ottobre</td><td>1978</td></tr>
 <tr><td>Togo</td><td>7 giugno</td><td>2013</td><td>7 giugno</td><td>2014</td></tr>
@@ -1008,14 +1013,12 @@ Campo d’applicazione il 29 agosto 2023[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org/) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1978 1626](https://fedlex.data.admin.ch/eli/oc/1978/1626_1626_1626); [1985 307](https://fedlex.data.admin.ch/eli/oc/1985/307_307_307); [1989 1480](https://fedlex.data.admin.ch/eli/oc/1989/1480_1480_1480); [2002 2661](https://fedlex.data.admin.ch/eli/oc/2002/367); [2006 2983](https://fedlex.data.admin.ch/eli/oc/2006/461); [2010 4241](https://fedlex.data.admin.ch/eli/oc/2010/613); [2013 1299](https://fedlex.data.admin.ch/eli/oc/2013/295); [2016 1279](https://fedlex.data.admin.ch/eli/oc/2016/254); [2019 1411](https://fedlex.data.admin.ch/eli/oc/2019/277); [2023 478](https://fedlex.data.admin.ch/eli/oc/2023/478); [2025 284](https://fedlex.data.admin.ch/eli/oc/2025/284). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-## Svizzera
-
-[^declu2-lvlu1-1]
-
-[^declu2-lvlu1-1]: Art. 1 cpv. 2 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
+**Svizzera**[^t-3]
 
 Richiamandosi all’articolo 2 b) della convenzione, la Svizzera ha accettato gli obblighi sanciti delle parti V, VI, VII, IX e X.
+
+[^t-3]: Art. 1 cpv. 2 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
