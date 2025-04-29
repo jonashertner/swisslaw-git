@@ -3,37 +3,34 @@ sr: "0.831.105"
 title: "Convention n<sup>o</sup> 128 du 29 juin 1967 concernant les prestations d'invalidité, de vieillesse et de survivants (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493"
 language: fr
-version: 2006-05-18
+version: 2025-04-30
 adopted: 1967-06-29
 in_force: 1978-09-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20060518/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20060518-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20060518/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20250430/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20250430-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20250430/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention n<sup>o</sup> 128 concernant les prestations d’invalidité, de vieillesse et de survivants
 
-(Etat le 25 juillet 2006)
-
-0.831.105[^t-1]?
+RO **1978** 1493; FF **1976** III 1345
 
 Texte original
 
-Conclue à Genève le 29 juin 1967 Approuvée par l’Assemblée fédérale le 23 juin 1977[^t-2] Instrument de ratification déposé par la Suisse le 13 septembre 1977 Entrée en vigueur pour la Suisse le 13 septembre 1978
+Conclue à Genève le 29 juin 1967 Approuvée par l’Assemblée fédérale le 23 juin 1977[^t-1] Instrument de ratification déposé par la Suisse le 13 septembre 1977 Entrée en vigueur pour la Suisse le 13 septembre 1978
 
-(Etat le 25 juillet 2006)
+(État le 30 avril 2025)
 
-[^t-1]: [RO 1978 1493](https://fedlex.data.admin.ch/eli/oc/1978/1493_1493_1493); [FF 1976 III 1345](https://fedlex.data.admin.ch/eli/fga/1976/3_1317_1345_1313)
-[^t-2]: Art. 1 al. 1 de l’AF du 23 juin 1977 ([RO 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491))
+[^t-1]: Art. 1 al. 1 de l’AF du 23 juin 1977 ([RO 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491))
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-Convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1967, en sa cinquante et unième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1967, en sa cinquante et unième session,
 
-Après avoir décidé d’adopter diverses propositions relatives à la revision de la convention sur l’assurance‑vieillesse (industrie, etc.), 1933, de la convention sur l’assurance‑vieillesse (agriculture), 1933, de la convention sur l’assurance-invalidité (industrie, etc.), 1933, de la convention sur l’assurance‑invalidité (agriculture), 1933, de la convention sur l’assurance‑décès (industrie, etc.), 1933, et de la convention sur l’assurance‑décès (agriculture), 1933, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à la revision de la convention sur l’assurance‑vieillesse (industrie, etc.), 1933, de la convention sur l’assurance‑vieillesse (agriculture), 1933, de la convention sur l’assurance-invalidité (industrie, etc.), 1933, de la convention sur l’assurance‑invalidité (agriculture), 1933, de la convention sur l’assurance‑décès (industrie, etc.), 1933, et de la convention sur l’assurance‑décès (agriculture), 1933, question qui constitue le quatrième point à l’ordre du jour de la session,
 
-Après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
+après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
 adopte, ce vingt‑neuvième jour de juin mil neuf cent soixante‑sept, la convention ci‑après, qui sera dénommée Convention concernant les prestations d’invalidité, de vieillesse et de survivants, 1967.
 
@@ -54,7 +51,7 @@ Aux fins de la présente convention:
 
   le terme «enfant» désigne:
 
-  - i) un enfant qui est au‑dessous de l’âge auquel la scolarité obligatoire prend fin ou un enfant de moins de quinze ans, l’âge le plus élevé devant être pris en considération;
+  - i) un enfant qui est au‑dessous de l’âge auquel la scolarité obligatoire prend fin ou un enfant de moins de quinze ans, l’âge le plus élevé devant être pris en considération,
   - ii) dans des conditions prescrites, un enfant au‑dessous d’un âge plus élevé que l’âge indiqué au sous‑alinéa précédent, lorsqu’il est placé en apprentissage, poursuit ses études ou est atteint d’une maladie chronique ou d’une infirmité le rendant inapte à l’exercice d’une activité professionnelle quelconque, à moins que la législation nationale ne définisse le terme «enfant» comme comprenant tout enfant au‑dessous d’un âge sensiblement plus élevé que l’âge indiqué au sous‑alinéa précédent;
 
 - i) le terme «stage» désigne soit une période de cotisation, soit une période d’emploi, soit une période de résidence, soit une combinaison quelconque de ces périodes, selon ce qui est prescrit;
@@ -386,7 +383,7 @@ Pour tout paiement périodique auquel le présent article s’applique:
 Paiements périodiques aux bénéficiaires‑types
 
 <table>
-<tr><td>Partie</td><td>Eventualité</td><td>Bénéficiaire‑type</td><td>Pourcentage</td></tr>
+<tr><td>Partie</td><td>Éventualité</td><td>Bénéficiaire‑type</td><td>Pourcentage</td></tr>
 <tr><td>II</td><td>Invalidité</td><td>Homme ayant une épouse et 2 enfants</td><td>50</td></tr>
 <tr><td>III</td><td>Vieillesse</td><td>Homme ayant une épouse d’âge à pension</td><td>45</td></tr>
 <tr><td>IV</td><td>Décès du soutien de famille</td><td>Veuve ayant 2 enfants</td><td>45</td></tr>
@@ -470,7 +467,7 @@ Tout Membre dont la législation protège des salariés peut, dans la mesure né
 
 Tout Membre qui ratifie la présente convention peut, par une déclaration accompagnant sa ratification, exclure de l’application de la convention:
 
-- a) les gens de mer, y compris les marins pêcheurs,
+- a) les gens de mer, y compris les marins pêcheurs;
 - b) les agents de la fonction publique,
 
 <sup>2.</sup> Lorsqu’une déclaration faite en application du paragraphe précédent est en vigueur, le Membre peut exclure les personnes visées par cette déclaration du nombre des personnes prises en compte pour le calcul des pourcentages prévus à l’al. b) du par. 1 et à l’al. b) du par. 2 de l’art. 9, à l’al. b) du par. 1 et à l’al. b) du par. 2 de l’art. 16, à l’al. b) du par. 1 et à l’al. b) du par. 2 de l’art. 22 et à l’al. c) de l’art. 37.
@@ -489,7 +486,7 @@ Lorsqu’un Membre:
 
 - a) a accepté les obligations de la présente convention en ce qui concerne les parties II, III et IV;
 - b) protège un pourcentage de la population économiquement active qui est d’au moins dix unités plus élevé que le pourcentage requis à l’art. 9, par. 1, al. b), à l’art. 16, par. 1, al. b), et à l’art. 22, par. 1, al. b), ou satisfait aux dispositions de l’art. 9, par. 1, al. c), de l’art. 16, par. 1, al. c), et de l’art. 22, par. 1, al. c);
-- c) garantit en ce qui concerne au moins deux des éventualités couvertes par les parties II, III et IV des prestations d’un montant correspondant à un pourcentage d’au moins cinq unités plus élevé que les pourcentages indiqués dans le tableau annexé à la partie V;
+- c) garantit en ce qui concerne au moins deux des éventualités couvertes par les parties II, III et IV des prestations d’un montant correspondant à un pourcentage d’au moins cinq unités plus élevé que les pourcentages indiqués dans le tableau annexé à la partie V,
 
 <sup>2.</sup>
 
@@ -509,7 +506,7 @@ Ledit Membre peut:
 Lorsqu’un Membre:
 
 - a) a accepté les obligations de la présente convention en ce qui concerne les parties II, III et IV;
-- b) protège un pourcentage de la population économiquement active qui est d’au moins dix unités plus élevé que le pourcentage requis à l’art. 9, par. 1, al. b), à l’art. 16, par. 1, al. b), et à l’art. 22, par. 1, al. b), ou satisfait aux dispositions de l’art. 9, par. 1, al. c), de l’art. 16, par. 1, al. c), et de l’art. 22, par. 1, al. c);
+- b) protège un pourcentage de la population économiquement active qui est d’au moins dix unités plus élevé que le pourcentage requis à l’art. 9, par. 1, al. b), à l’art. 16, par. 1, al. b), et à l’art. 22, par. 1, al. b), ou satisfait aux dispositions de l’art. 9, par. 1, al. c), de l’art. 16, par. 1, al. c), et de l’art. 22, par. 1, al. c),
 
 <sup>2.</sup> Tout Membre ayant eu recours à de telles dérogations indiquera, dans les rapports sur l’application de la présente convention qu’il est tenu de présenter en vertu de l’art. 22 de la Constitution de l’Organisation internationale du Travail[^42-1], l’état de sa législation et de sa pratique quant aux questions faisant l’objet de ces dérogations et les progrès réalisés en vue de l’application complète des dispositions de la convention.
 
@@ -531,7 +528,7 @@ La présente convention ne s’applique pas:
 L’acceptation des obligations de la présente convention par un Membre qui est partie à l’une ou à plusieurs des conventions ainsi revisées aura, à la date à laquelle la convention entrera en vigueur pour ce Membre, les effets juridiques suivants:
 
 - a) l’acceptation des obligations de la partie II de la convention impliquera, de plein droit, la dénonciation immédiate de la convention sur l’assurance-invalidité (industrie, etc.), 1933, et de la convention sur l’assurance-invalidité (agriculture), 1933;
-- b) l’acceptation des obligations de la partie III de la convention impliquera, de plein droit, la dénonciation immédiate de la convention sur l’assurance-vieillesse (industrie, etc.), 1933, et de la convention sur l’assurance-vieillesse (agriculture), 1933,
+- b) l’acceptation des obligations de la partie III de la convention impliquera, de plein droit, la dénonciation immédiate de la convention sur l’assurance-vieillesse (industrie, etc.), 1933, et de la convention sur l’assurance-vieillesse (agriculture), 1933;
 - c) l’acceptation des obligations de la partie IV de la convention impliquera, de plein droit, la dénonciation immédiate de la convention sur l’assurance-décès (industrie, etc.), 1933, et de la convention sur l’assurance‑décès (agriculture), 1933.
 
 #### Art. 45
@@ -546,7 +543,7 @@ Conformément aux dispositions de l’art. 75 de la convention concernant la sé
 
 <sup>2.</sup>
 
-A condition qu’une déclaration en application de l’art. 38 ne soit pas en vigueur, l’acceptation des obligations de la présente convention sera considérée, aux fins de l’art. 2 de la convention concernant la sécurité sociale (norme minimum), 1952, comme constituant l’acceptation des obligations des parties suivantes et des dispositions correspondantes dans les autres parties de ladite convention:
+À condition qu’une déclaration en application de l’art. 38 ne soit pas en vigueur, l’acceptation des obligations de la présente convention sera considérée, aux fins de l’art. 2 de la convention concernant la sécurité sociale (norme minimum), 1952, comme constituant l’acceptation des obligations des parties suivantes et des dispositions correspondantes dans les autres parties de ladite convention:
 
 - a) partie IX, si le Membre a accepté les obligations de la partie II de la présente convention;
 - b) partie V, si le Membre a accepté les obligations de la partie III de la présente convention;
@@ -653,8 +650,8 @@ Nomenclature des branches et des classes
 <tr><td>39.</td><td>Industries manufacturières diverses</td></tr>
 <tr><td></td><td>Branche 4. Bâtiment et travaux publics:</td></tr>
 <tr><td>40.</td><td>Bâtiment et travaux publics</td></tr>
-<tr><td></td><td>Branche 5. Electricité, gaz, eau et services sanitaires:</td></tr>
-<tr><td>51.</td><td>Electricité, gaz et vapeur</td></tr>
+<tr><td></td><td>Branche 5. Électricité, gaz, eau et services sanitaires:</td></tr>
+<tr><td>51.</td><td>Électricité, gaz et vapeur</td></tr>
 <tr><td>52.</td><td>Services des eaux et services sanitaires</td></tr>
 <tr><td></td><td>Branche 6. Commerce, banque, assurance, affaires immobilières:</td></tr>
 <tr><td>61.</td><td>Commerce de gros et de détail</td></tr>
@@ -675,55 +672,28 @@ Nomenclature des branches et des classes
 <tr><td>90.</td><td>Activités mal désignées</td></tr>
 </table>
 
-### Champ d'application le 18 mai 2006****
-
-[^annexu1-lvlu2-lvlu1-1]
-
-[^annexu1-lvlu2-lvlu1-1]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.eda.admin.ch/eda/f/home/foreign/intagr/dabase.html).
+Champ d’application le 30 avril 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne <sup>a</sup></td><td>15 janvier</td><td>1971</td><td>15 janvier</td><td>1972</td></tr>
-<tr><td colspan="2">Autriche<sup>\*</sup> <sup>b</sup></td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
-<tr><td colspan="2">Barbade<sup>\*</sup> <sup>c</sup></td><td>15 septembre</td><td>1972</td><td>15 septembre</td><td>1973</td></tr>
-<tr><td colspan="2">Bolivie<sup>\*</sup> <sup>a</sup></td><td>31 janvier</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Chypre <sup>d</sup></td><td>7 janvier</td><td>1969</td><td>7 janvier</td><td>1970</td></tr>
-<tr><td colspan="2">Equateur<sup>\*</sup> <sup>a</sup></td><td>5 avril</td><td>1978</td><td>5 avril</td><td>1979</td></tr>
-<tr><td colspan="2">Finlande <sup>a</sup></td><td>13 janvier</td><td>1976</td><td>13 janvier</td><td>1977</td></tr>
-<tr><td colspan="2">Libye <sup>a</sup></td><td>19 juin</td><td>1975</td><td>19 juin</td><td>1976</td></tr>
-<tr><td colspan="2">Norvège <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1968</td><td>1<sup>er</sup> novembre</td><td>1969</td></tr>
-<tr><td colspan="2">Pays-Bas <sup>a</sup></td><td>27 octobre</td><td>1969</td><td>27 octobre</td><td>1970</td></tr>
-<tr><td colspan="2">République tchèque <sup>b</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Slovaquie <sup>b</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Suède <sup>a</sup></td><td>26 juillet</td><td>1968</td><td>1<sup>er</sup> novembre</td><td>1969</td></tr>
-<tr><td colspan="2">Suisse <sup>a</sup></td><td>13 septembre</td><td>1977</td><td>13 septembre</td><td>1978</td></tr>
-<tr><td colspan="2">Uruguay <sup>a</sup></td><td>28 juin</td><td>1973</td><td>28 juin</td><td>1974</td></tr>
-<tr><td colspan="2">Venezuela<sup>\*</sup> <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1983</td><td>1<sup>er</sup> décembre</td><td>1984</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">Réserves et déclarations, voir ci‑après.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Cet Etat a accepté les obligations des parties II à IV de la convention.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Cet Etat a accepté les obligations de la partie III de la convention.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Cet Etat a accepté les obligations des parties II et III de la convention.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="5">Cet Etat a accepté les obligations de la partie IV de la convention.</td></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne <sup>a</sup></td><td>15 janvier</td><td>1971</td><td>15 janvier</td><td>1972</td></tr>
+<tr><td>Autriche\* <sup>b</sup></td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
+<tr><td>Barbade\* <sup>c</sup></td><td>15 septembre</td><td>1972</td><td>15 septembre</td><td>1973</td></tr>
+<tr><td>Belgique</td><td>14 juin</td><td>2017</td><td>14 juin</td><td>2018</td></tr>
+<tr><td>Bolivie\* <sup>a</sup></td><td>31 janvier</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
+<tr><td>Chypre <sup>d</sup></td><td>7 janvier</td><td>1969</td><td>7 janvier</td><td>1970</td></tr>
+<tr><td>Équateur\* <sup>a</sup></td><td>5 avril</td><td>1978</td><td>5 avril</td><td>1979</td></tr>
+<tr><td>Finlande <sup>a</sup></td><td>13 janvier</td><td>1976</td><td>13 janvier</td><td>1977</td></tr>
+<tr><td>Libye <sup>a</sup></td><td>19 juin</td><td>1975</td><td>19 juin</td><td>1976</td></tr>
+<tr><td>Norvège <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1968</td><td>1<sup>er</sup> novembre</td><td>1969</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>27 octobre</td><td>1969</td><td>27 octobre</td><td>1970</td></tr>
+<tr><td>République tchèque <sup>b</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovaquie <sup>b</sup></td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Suède <sup>a</sup></td><td>26 juillet</td><td>1968</td><td>1<sup>er</sup> novembre</td><td>1969</td></tr>
+<tr><td>Suisse <sup>a</sup></td><td>13 septembre</td><td>1977</td><td>13 septembre</td><td>1978</td></tr>
+<tr><td>Uruguay <sup>a</sup></td><td>28 juin</td><td>1973</td><td>28 juin</td><td>1974</td></tr>
+<tr><td>Venezuela\* <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1983</td><td>1<sup>er</sup> décembre</td><td>1984</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État a accepté les obligations des parties II à IV de la convention. <sup>b</sup> Cet État a accepté les obligations de la partie III de la convention. <sup>c</sup> Cet État a accepté les obligations des parties II et III de la convention. <sup>d</sup> Cet État a accepté les obligations de la partie IV de la convention.</td></tr>
 </table>
 
-## Réserves et déclarations
-
-Autriche
-
-En vertu de l’art. 39, par. 1 b), les agents de la fonction publique sont exclus de l’application de la convention.
-
-Barbade
-
-En application de l’art. 4 de la convention, le gouvernement déclare qu’il se réserve le bénéfice de la dérogation temporaire, prévue au par. 2 de l’art. 13, jusqu’à ce que des mesures adéquates aient été prises en matière de rééducation.
-
-Bolivie
-
-En vertu de l’art. 4, par. 1, de la convention, le gouvernement se réserve le bénéfice des dérogations temporaires figurant à l’art. 9, par. 2, à l’art. 13, par. 2, à l’art. 16, par. 2, et à l’art. 22, par. 2. Le gouvernement déclare se prévaloir également de l’exclusion temporaire prévue à l’art. 38, par. 1, de la convention.
-
-Equateur
-
-En vertu de l’art. 4, par. 1, de la convention, le gouvernement se réserve le bénéfice des dérogations temporaires figurant à l’art. 9, par. 2, à l’art. 13, par. 2, à l’art. 16, par. 2, et à l’art. 22, par. 2. En vertu de l’art. 38, par. 1, de la convention, le gouvernement déclare exclure temporairement de l’application de la convention les salariés du secteur agricole.
-
-Venezuela
-
-En vertu de l’art. 4, par. 1, de la convention, le gouvernement se réserve le bénéfice des dérogations temporaires figurant à l’art. 9, par. 2, à l’art. 13, par. 2, à l’art. 16, par. 2, et à l’art. 22, par. 2. En vertu de l’art. 38, par. 1, de la convention, le gouvernement déclare exclure temporairement de l’application de la convention les salariés du secteur agricole.
+[^t-2]: [RO 1982 1820](https://fedlex.data.admin.ch/eli/oc/1982/1820_1820_1820); [1985 308](https://fedlex.data.admin.ch/eli/oc/1985/308_308_308); [1987 1461](https://fedlex.data.admin.ch/eli/oc/1987/1461_1461_1461); [1992 676](https://fedlex.data.admin.ch/eli/oc/1992/676_676_676); [2006 2985](https://fedlex.data.admin.ch/eli/oc/2006/462); [2025 274](https://fedlex.data.admin.ch/eli/oc/2025/274). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.831.105"
 title: Übereinkommen Nr. 128 vom 29. Juni 1967 über Leistungen bei Invalidität und Alter und an Hinterbliebene (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493"
 language: de
-version: 2006-05-18
+version: 2025-04-30
 adopted: 1967-06-29
 in_force: 1978-09-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20060518/de/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20060518-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20060518/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20250430/de/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20250430-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20250430/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20060518/de"
 
 AS **1978** 1493; BBl **1976** III 1317
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 29. Juni 1967 Von der Bundesversammlung genehmigt am 23. Juni 1977[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 13. September 1977 In Kraft getreten für die Schweiz am 13. September 1978
+Abgeschlossen in Genf am 29. Juni 1967 Von der Bundesversammlung genehmigt am 23. Juni 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 13. September 1977 In Kraft getreten für die Schweiz am 13. September 1978
 
-(Stand am 25. Juli 2006)
+(Stand am 30. April 2025)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 des BB vom 23. Juni 1977 ([AS 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
+[^t-1]: Art. 1 Abs. 1 des BB vom 23. Juni 1977 ([AS 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
 Die Allgemeine Konferenz der Internationalen Arbeitsorganisation,
 
@@ -39,7 +38,7 @@ Die Konferenz nimmt heute, am 29. Juni 1967, das folgende Übereinkommen an, das
 
 #### Art. 1
 
-In diesem Übereinkommen
+In diesem Übereinkommen:
 
 - a) umfasst der Ausdruck «Gesetzgebung» alle Gesetze und Verordnungen sowie die satzungsmässigen Bestimmungen auf dem Gebiet der Sozialen Sicherheit;
 - b) bedeutet der Ausdruck «vorgeschrieben» von oder auf Grund der innerstaatlichen Gesetzgebung bestimmt;
@@ -48,7 +47,10 @@ In diesem Übereinkommen
 - e) bezieht sich der Ausdruck «Unterhaltsberechtigt» auf die in vorgeschriebenen Fällen als gegeben angenommene Unterhaltsberechtigung;
 - f) bedeutet der Ausdruck «Ehefrau» eine Ehefrau, für deren Unterhalt der Ehemann sorgt;
 - g) bedeutet der Ausdruck «Witwe» eine Frau, für deren Unterhalt der Ehemann zur Zeit seines Todes gesorgt hat;
-- h) bezeichnet der Ausdruck «Kind»
+- h)
+
+  bezeichnet der Ausdruck «Kind»:
+
   - i) ein Kind unter dem Alter, in dem die Schulpflicht endet, oder ein Kind unter 15 Jahren, wobei die höhere Altersgrenze in Betracht zu ziehen ist, und
   - ii) unter vorgeschriebenen Bedingungen ein Kind unter einer vorgeschriebenen Altersgrenze, die höher als die in Unterabsatz i) angegebene ist, sofern dieses Kind Lehrling oder Student ist oder infolge einer chronischen Krankheit oder Behinderung erwerbsunfähig ist; diese Bedingung gilt als erfüllt, wenn die innerstaatliche Gesetzgebung diesen Ausdruck so bestimmt, dass er alle Kinder unter einer Altersgrenze einbezieht, die erheblich höher ist als die in Unterabsatz i) angegebene;
 
@@ -57,11 +59,13 @@ In diesem Übereinkommen
 
 #### Art. 2
 
-<sup>1.</sup> Jedes Mitglied, für das dieses Übereinkommen in Kraft ist, hat anzuwenden
+<sup>1.</sup>
 
-- a) den Teil 1,
+Jedes Mitglied, für das dieses Übereinkommen in Kraft ist, hat anzuwenden:
+
+- a) den Teil 1;
 - b) mindestens einen der Teile II, III und IV;
-- c) die entsprechenden Bestimmungen der Teile V und VI und
+- c) die entsprechenden Bestimmungen der Teile V und VI; und
 - d) den Teil VII.
 
 <sup>2.</sup> Jedes Mitglied hat in seiner Ratifikation anzugeben, für welche der Teile II bis IV dieses Übereinkommens es die Verpflichtungen aus dem Übereinkommen übernimmt.
@@ -76,9 +80,11 @@ In diesem Übereinkommen
 
 <sup>1.</sup> Ein Mitglied, dessen Entwicklung auf wirtschaftlichem Gebiet noch ungenügend ist, kann durch eine seiner Ratifikation beigefügte begründete Erklärung die in den folgenden Artikeln vorgesehenen zeitweiligen Ausnahmen für sich in Anspruch nehmen: Artikel 9 Absatz 2; Artikel 13 Absatz 2; Artikel 16 Absatz 2 und Artikel 22 Absatz 2.
 
-<sup>2.</sup> Jedes Mitglied, das eine Erklärung nach Absatz 1 dieses Artikels abgegeben hat, hat in seinen nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation vom 28. Juni 1919[^4-1] vorzulegenden Berichten über die Durchführung dieses Übereinkommens in Bezug auf jede von ihm in Anspruch genommene Ausnahme anzugeben,
+<sup>2.</sup>
 
-- a) dass die Gründe hierfür weiter bestehen oder
+Jedes Mitglied, das eine Erklärung nach Absatz 1 dieses Artikels abgegeben hat, hat in seinen nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation vom 28. Juni 1919[^4-1] vorzulegenden Berichten über die Durchführung dieses Übereinkommens in Bezug auf jede von ihm in Anspruch genommene Ausnahme anzugeben:
+
+- a) dass die Gründe hierfür weiter bestehen; oder
 - b) dass es von einem bestimmten Zeitpunkt an darauf verzichtet, die Ausnahme weiter in Anspruch zu nehmen.
 
 <sup>3.</sup> Jedes Mitglied, das eine Erklärung nach Absatz 1 dieses Artikels abgegeben hat, hat die Zahl der geschützten Arbeitnehmer in dem Masse zu erhöhen, wie die Umstände es gestatten.
@@ -91,7 +97,7 @@ Ist ein Mitglied für die Anwendung eines der durch seine Ratifikation erfassten
 
 #### Art. 6
 
-Für die Anwendung der Teile II, III oder IV dieses Übereinkommens kann ein Mitglied den durch eine Versicherung gewährten Schutz auch dann in Rechnung stellen, wenn diese Versicherung nach der innerstaatlichen Gesetzgebung für die geschützten Personen zwar keine Pflichtversicherung ist, aber
+Für die Anwendung der Teile II, III oder IV dieses Übereinkommens kann ein Mitglied den durch eine Versicherung gewährten Schutz auch dann in Rechnung stellen, wenn diese Versicherung nach der innerstaatlichen Gesetzgebung für die geschützten Personen zwar keine Pflichtversicherung ist, aber:
 
 - a) behördlich überwacht oder nach vorgeschriebenen Normen gemeinsam von Arbeitgebern und Arbeitnehmern verwaltet wird;
 - b) einen namhaften Teil der Personen umfasst, deren Verdienst denjenigen eines gelernten männlichen Arbeiters nicht übersteigt;
@@ -126,19 +132,23 @@ Ist eine nach Artikel 4 abgegebene Erklärung in Kraft, so hat der Kreis der ges
 
 #### Art. 10
 
-Die Leistung bei Invalidität hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung bei Invalidität hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
 - a) nach den Bestimmungen von Artikel 26 oder Artikel 27, wenn Arbeitnehmer oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen von Artikel 28, wenn alle Einwohner oder die Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen.
 
 #### Art. 11
 
-<sup>1.</sup> Die in Artikel 10 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
+
+Die in Artikel 10 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
 
 - a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit zurückgelegt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von zehn Jahren bestehen kann;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von drei Beitragsjahren zurückgelegt hat und für die während ihres Arbeitslebens die vorgeschriebene jährliche Durchschnittszahl oder jährliche Zahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die Leistung bei Invalidität von einer Mindestbeitragszeit, einer Mindestbeschäftigungszeit oder einer Mindestwohnsitzzeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
+
+Hängt die Leistung bei Invalidität von einer Mindestbeitragszeit, einer Mindestbeschäftigungszeit oder einer Mindestwohnsitzzeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
 
 - a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von fünf Beitrags‑, Beschäftigungs‑ oder Wohnsitzjahren zurückgelegt hat;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von drei Beitragsjahren zurückgelegt hat und für die während ihres Arbeitslebens die Hälfte der nach Absatz 1 Buchstabe b) dieses Artikels vorgeschriebenen jährlichen Durchschnittszahl oder jährlichen Zahl von Beiträgen entrichtet worden ist.
@@ -155,7 +165,9 @@ Die in den Artikeln 10 und 11 bezeichneten Leistungen sind während der ganzen D
 
 #### Art. 13
 
-<sup>1.</sup> Jedes Mitglied, für das dieser Teil des Übereinkommens in Kraft ist, hat unter vorgeschriebenen Bedingungen
+<sup>1.</sup>
+
+Jedes Mitglied, für das dieser Teil des Übereinkommens in Kraft ist, hat unter vorgeschriebenen Bedingungen:
 
 - a) Einrichtungen zur beruflichen Wiedereingliederung bereitzustellen, die dazu bestimmt sind, einen Invaliden, wo immer es möglich ist, für die Wiederaufnahme seiner früheren Tätigkeit oder, wenn dies nicht möglich ist, für eine andere Erwerbstätigkeit vorzubereiten, die seiner Eignung und seinen Fähigkeiten am besten entspricht;
 - b) Massnahmen zu treffen, um die Vermittlung einer geeigneten Beschäftigung für Invalide zu erleichtern.
@@ -195,19 +207,23 @@ Ist eine nach Artikel 4 abgegebene Erklärung in Kraft, so hat der Kreis der ges
 
 #### Art. 17
 
-Die Leistung bei Alter hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung bei Alter hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
-- a) nach den Bestimmungen von Artikel 26 oder Artikel 27, wenn Arbeitnehmer oder Gruppen der erwerbstätigen Bevölkerung geschützt sind,
+- a) nach den Bestimmungen von Artikel 26 oder Artikel 27, wenn Arbeitnehmer oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen von Artikel 28, wenn alle Einwohner oder die Einwohner geschützt sind, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen.
 
 #### Art. 18
 
-<sup>1.</sup> Die in Artikel 17 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
+
+Die in Artikel 17 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
 
 - a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit zurückgelegt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 30 Jahren oder einer Wohnsitzzeit von 20 Jahren bestehen kann;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die vor Eintritt des Falls eine vorgeschriebene Beitragszeit zurückgelegt hat und für die während ihres Arbeitslebens die vorgeschriebene jährliche Durchschnittszahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die Leistung bei Alter von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
+
+Hängt die Leistung bei Alter von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
 
 - a) einer geschützten Person, die vor Eintritt des Falls nach vorgeschriebener Regelung eine Wartezeit von 15 Beitrags‑ oder Beschäftigungsjahren zurückgelegt hat;
 - b) wenn grundsätzlich alle erwerbstätigen Personen geschützt sind, einer geschützten Person, die vor Eintritt des Falls eine vorgeschriebene Beitragszeit zurückgelegt hat und für die während ihres Arbeitslebens die Hälfte der nach Absatz 1 Buchstabe b) dieses Artikels vorgeschriebenen jährlichen Durchschnittszahl von Beiträgen entrichtet worden ist.
@@ -232,9 +248,11 @@ Jedes Mitglied, für das dieser Teil des Übereinkommens in Kraft ist, hat den g
 
 <sup>2.</sup> Der Anspruch einer Witwe auf eine Leistung an Hinterbliebene kann vom Erreichen eines vorgeschriebenen Alters abhängig gemacht werden. Das Alter darf nicht höher sein als das für den Anspruch auf Leistungen bei Alter vorgeschriebene Alter.
 
-<sup>3.</sup> Eine Altersbedingung ist nicht zulässig, wenn die Witwe
+<sup>3.</sup>
 
-- a) im vorgeschriebenen Sinn invalide ist oder
+Eine Altersbedingung ist nicht zulässig, wenn die Witwe:
+
+- a) im vorgeschriebenen Sinn invalide ist; oder
 - b) für ein unterhaltsberechtigtes Kind des Verstorbenen sorgt.
 
 <sup>4.</sup> Für den Anspruch einer kinderlosen Witwe auf eine Leistung an Hinterbliebene kann eine Mindestdauer der Ehe vorgeschrieben werden.
@@ -258,19 +276,23 @@ Ist eine nach Artikel 4 abgegebene Erklärung in Kraft, so hat der Kreis der ges
 
 #### Art. 23
 
-Die Leistung an Hinterbliebene hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird
+Die Leistung an Hinterbliebene hat in einer regelmässig wiederkehrenden Zahlung zu bestehen, die berechnet wird:
 
 - a) nach den Bestimmungen von Artikel 26 oder Artikel 27, wenn Arbeitnehmer oder Gruppen der erwerbstätigen Bevölkerung geschützt sind;
 - b) nach den Bestimmungen von Artikel 28, wenn alle Einwohner oder die Einwohner, deren Mittel während der Dauer des Falls vorgeschriebene Grenzen nicht übersteigen, geschützt sind.
 
 #### Art. 24
 
-<sup>1.</sup> Die in Art. 23 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten
+<sup>1.</sup>
 
-- a) einer geschützten Person, deren Ernährer nach vorgeschriebener Regelung eine Wartezeit zurückgelegt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von zehn Jahren bestehen kann, für eine Leistung an eine Witwe kann statt dessen jedoch verlangt werden, dass diese Witwe eine vorgeschriebene Wohnsitzzeit zurückgelegt hat,
+Die in Art. 23 bezeichnete Leistung ist im gedeckten Fall mindestens zu gewährleisten:
+
+- a) einer geschützten Person, deren Ernährer nach vorgeschriebener Regelung eine Wartezeit zurückgelegt hat, die in einer Beitrags‑ oder Beschäftigungszeit von 15 Jahren oder einer Wohnsitzzeit von zehn Jahren bestehen kann, für eine Leistung an eine Witwe kann statt dessen jedoch verlangt werden, dass diese Witwe eine vorgeschriebene Wohnsitzzeit zurückgelegt hat;
 - b) wenn grundsätzlich die Ehefrauen und Kinder aller erwerbstätigen Personen geschützt sind, einer geschützten Person, deren Ernährer nach vorgeschriebener Regelung eine Wartezeit von drei Beitragsjahren zurückgelegt hat, sofern für ihn während seines Arbeitslebens die vorgeschriebene jährliche Durchschnittszahl oder jährliche Zahl von Beiträgen entrichtet worden ist.
 
-<sup>2.</sup> Hängt die Leistung an Hinterbliebene von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten
+<sup>2.</sup>
+
+Hängt die Leistung an Hinterbliebene von einer Mindestbeitrags‑ oder Mindestbeschäftigungszeit ab, so ist eine gekürzte Leistung mindestens zu gewährleisten:
 
 - a) einer geschützten Person, deren Ernährer nach vorgeschriebener Regelung eine Wartezeit von fünf Beitrags‑ oder Beschäftigungsjahren zurückgelegt hat;
 - b) wenn grundsätzlich die Ehefrauen und Kinder aller erwerbstätigen Personen geschützt sind, einer geschützten Person, deren Ernährer nach vorgeschriebener Regelung eine Wartezeit von drei Beitragsjahren zurückgelegt hat, sofern für ihn während seines Arbeitslebens die Hälfte der nach Absatz 1 Buchstabe b) dieses Artikels vorgeschriebenen jährlichen Durchschnittszahl oder jährlichen Zahl von Beiträgen entrichtet worden ist.
@@ -299,11 +321,13 @@ Die in den Artikeln 23 und 24 bezeichneten Leistungen sind während der ganzen D
 
 <sup>5.</sup> Für die übrigen Leistungsempfänger hat die Leistung in einem angemessenen Verhältnis zu der des Typus des Leistungsempfängers zu stehen.
 
-<sup>6.</sup> Im Sinne dieses Artikels hat als gelernter männlicher Arbeiter zu gelten
+<sup>6.</sup>
 
-- a) ein Einrichter oder Dreher in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie oder
-- b) der Typus des gelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes oder
-- c) eine Person, deren Verdienst nicht niedriger ist als der Verdienst von 75 vom Hundert aller geschützten Personen, wobei dieser Verdienst auf der Grundlage jährlicher oder kürzerer Zeitspannen ermittelt wird, je nachdem was vorgeschrieben ist, oder
+Im Sinne dieses Artikels hat als gelernter männlicher Arbeiter zu gelten:
+
+- a) ein Einrichter oder Dreher in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie; oder
+- b) der Typus des gelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes; oder
+- c) eine Person, deren Verdienst nicht niedriger ist als der Verdienst von 75 vom Hundert aller geschützten Personen, wobei dieser Verdienst auf der Grundlage jährlicher oder kürzerer Zeitspannen ermittelt wird, je nachdem was vorgeschrieben ist; oder
 - d) eine Person, deren Verdienst ebenso hoch ist wie 125 vom Hundert des Durchschnittsverdienstes aller geschützten Personen.
 
 <sup>7.</sup> Als Typus des gelernten Arbeiters im Sinne von Buchstabe b*)* des vorstehenden Absatzes hat eine Person zu gelten, die in der Hauptgruppe mit der grössten Zahl für den betreffenden Fall geschützter erwerbstätiger männlicher Personen oder von Ernährern der geschützten Personen innerhalb der Abteilung beschäftigt ist, die ihrerseits die grösste Zahl solcher Personen oder Ernährer umfasst; hierfür wird die Internationale Systematik der wirtschaftlichen Tätigkeiten zugrunde gelegt, die vom Wirtschafts- und Sozialrat der Organisation der Vereinten Nationen auf seiner siebenten Tagung am 27. August 1948 angenommen wurde und im Anhang zu diesem Übereinkommen in ihrer 1958 abgeänderten Fassung wiedergegeben ist, unter Berücksichtigung aller späteren Änderungen.
@@ -320,9 +344,11 @@ Die in den Artikeln 23 und 24 bezeichneten Leistungen sind während der ganzen D
 
 <sup>3.</sup> Für die übrigen Leistungsempfänger hat die Leistung in einem angemessenen Verhältnis zu der des Typus des Leistungsempfängers zu stehen.
 
-<sup>4.</sup> Im Sinne dieses Artikels hat als gewöhnlicher erwachsener männlicher ungelernter Arbeiter zu gelten
+<sup>4.</sup>
 
-- a) der Typus des ungelernten Arbeiters in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie oder
+Im Sinne dieses Artikels hat als gewöhnlicher erwachsener männlicher ungelernter Arbeiter zu gelten:
+
+- a) der Typus des ungelernten Arbeiters in der Maschinenbauindustrie mit Ausnahme der Elektromaschinenindustrie; oder
 - b) der Typus des ungelernten Arbeiters nach den Bestimmungen des nachstehenden Absatzes.
 
 <sup>5.</sup> Als Typus des ungelernten Arbeiters im Sinne von Buchstabe b*)* des vorstehenden Absatzes hat eine Person zu gelten, die in der Hauptgruppe mit der grössten Zahl für den betreffenden Fall geschützter erwerbstätiger männlicher Personen oder von Ernährern der geschützten Personen innerhalb der Abteilung beschäftigt ist, die ihrerseits die grösste Zahl solcher Personen oder Ernährer umfasst; hierfür wird die Internationale Systematik der wirtschaftlichen Tätigkeiten zugrunde gelegt, die vom Wirtschafts- und Sozialrat der Organisation der Vereinten Nationen auf seiner siebenten Tagung am 27. August 1948 angenommen wurde und im Anhang zu diesem Übereinkommen in ihrer 1958 abgeänderten Fassung wiedergegeben ist, unter Berücksichtigung aller späteren Änderungen.
@@ -342,8 +368,8 @@ Bei einer regelmässig wiederkehrenden Zahlung, auf welche dieser Artikel Anwend
 
   die Bedingungen in Buchstabe c) gelten als erfüllt, wenn der Gesamtbetrag der nach dem betreffenden Teil gewährten Leistungen um mindestens 30 vom Hundert höher ist als der Gesamtbetrag der Leistungen, der bei Anwendung der Bestimmungen des Artikels 27 und der nachstehenden Bestimmungen erreicht würde:
 
-  - i) Artikel 9 Absatz 1 Buchstabe b) für Teil 11;
-  - ii) Artikel 16 Absatz 1 Buchstabe b) für Teil III;
+  - i) Artikel 9 Absatz 1 Buchstabe b) für Teil 11,
+  - ii) Artikel 16 Absatz 1 Buchstabe b) für Teil III,
   - iii) Artikel 22 Absatz 1 Buchstabe b) für Teil IV.
 
 #### Art. 29
@@ -381,7 +407,9 @@ Die innerstaatliche Gesetzgebung hat die Aufrechterhaltung der Anwartschaften au
 
 #### Art. 32
 
-<sup>1.</sup> Eine Leistung, auf die eine geschützte Person in Anwendung eines der Teile II bis IV dieses Übereinkommens Anspruch hätte, kann in einem vorgeschriebenen Ausmass ruhen,
+<sup>1.</sup>
+
+Eine Leistung, auf die eine geschützte Person in Anwendung eines der Teile II bis IV dieses Übereinkommens Anspruch hätte, kann in einem vorgeschriebenen Ausmass ruhen:
 
 - a) solange die betreffende Person sich ausserhalb des Gebiets des Mitglieds aufhält, ausser unter vorgeschriebenen Bedingungen im Fall einer beitragsgebundenen Leistung;
 - b) solange der Unterhalt der betreffenden Person aus öffentlichen Mitteln oder von einer Einrichtung oder einem Dienst der Sozialen Sicherheit bestritten wird;
@@ -437,9 +465,11 @@ Jedes Mitglied, dessen Gesetzgebung Arbeitnehmer schützt, kann erforderlichenfa
 
 #### Art. 39
 
-<sup>1.</sup> Jedes Mitglied, das dieses Übereinkommen ratifiziert, kann durch eine seiner Ratifikationsurkunde beigefügte Erklärung vom Geltungsbereich des Übereinkommens ausschliessen
+<sup>1.</sup>
 
-- a) die Seeleute einschliesslich der Seefischer,
+Jedes Mitglied, das dieses Übereinkommen ratifiziert, kann durch eine seiner Ratifikationsurkunde beigefügte Erklärung vom Geltungsbereich des Übereinkommens ausschliessen:
+
+- a) die Seeleute einschliesslich der Seefischer;
 - b) die öffentlichen Bediensteten, sofern diese Gruppen durch Sondersysteme geschützt sind, die im ganzen Leistungen gewähren, die den in diesem Übereinkommen vorgesehenen mindestens gleichwertig sind.
 
 <sup>2.</sup> Ist eine nach Absatz 1 dieses Artikels abgegebene Erklärung in Kraft, so kann das Mitglied Personen, die der oder den vom Geltungsbereich des Übereinkommens ausgeschlossenen Gruppe oder Gruppen angehören, von der Zahl der Personen ausschliessen, die bei der Berechnung des in Artikel 9 Absatz 1 Buchstabe b) und Absatz 2 Buchstabe b), Artikel 16 Absatz 1 Buchstabe b) und Absatz 2 Buchstabe b), Artikel 22 Absatz 1 Buchstabe b) und Absatz 2 Buchstabe b) und Artikel 37 Buchstabe c) erwähnten Hundertsatzes zu berücksichtigen sind.
@@ -452,15 +482,17 @@ Hat eine geschützte Person auf Grund der innerstaatlichen Gesetzgebung im Falle
 
 #### Art. 41
 
-<sup>1.</sup> Ein Mitglied, das
+<sup>1.</sup> kann die Bestimmungen des nachstehenden Absatzes für sich in Anspruch nehmen.
 
-kann die Bestimmungen des nachstehenden Absatzes für sich in Anspruch nehmen.
+Ein Mitglied, das:
 
-- a) die Verpflichtungen aus diesem Übereinkommen für die Teile II, III und IV übernommen hat und
-- b) einen Hundertsatz der erwerbstätigen Bevölkerung schützt, der mindestens um zehn Einheiten höher ist als der in Artikel 9 Absatz 1 Buchstabe b), Artikel 16 Absatz 1 Buchstabe b) und Artikel 22 Absatz 1 Buchstabe b) geforderte, oder das die Bestimmungen von Artikel 9 Absatz 1 Buchstabe c), Artikel 16 Absatz 1 Buchstabe c) und Artikel 22 Absatz 1 Buchstabe c) erfüllt, und
-- c) in Bezug auf mindestens zwei der in den Teilen Il, III und IV vorgesehenen gedeckten Fälle Leistungen in einem Betrag gewährleistet, der einem Hundertsatz entspricht, der um mindestens fünf Einheiten höher ist als die in der Tabelle zu Teil V bezeichneten Hundertsätze,
+- a) die Verpflichtungen aus diesem Übereinkommen für die Teile II, III und IV übernommen hat; und
+- b) einen Hundertsatz der erwerbstätigen Bevölkerung schützt, der mindestens um zehn Einheiten höher ist als der in Artikel 9 Absatz 1 Buchstabe b), Artikel 16 Absatz 1 Buchstabe b) und Artikel 22 Absatz 1 Buchstabe b) geforderte, oder das die Bestimmungen von Artikel 9 Absatz 1 Buchstabe c), Artikel 16 Absatz 1 Buchstabe c) und Artikel 22 Absatz 1 Buchstabe c) erfüllt; und
+- c) in Bezug auf mindestens zwei der in den Teilen Il, III und IV vorgesehenen gedeckten Fälle Leistungen in einem Betrag gewährleistet, der einem Hundertsatz entspricht, der um mindestens fünf Einheiten höher ist als die in der Tabelle zu Teil V bezeichneten Hundertsätze;
 
-<sup>2.</sup> Ein solches Mitglied kann
+<sup>2.</sup>
+
+Ein solches Mitglied kann:
 
 - a) für die Zwecke von Artikel 11 Absatz 2 Buchstabe b) und Artikel 24 Absatz 2 Buchstabe b) die dort bezeichnete Zeitspanne von drei Jahren durch eine solche von fünf Jahren ersetzen;
 - b) die Empfänger von Leistungen an Hinterbliebene in einer Art und Weise bestimmen, die von der in Artikel 21 geforderten abweicht, jedoch gewährleistet, dass die Gesamtzahl der Leistungsempfänger nicht unter der Zahl der Leistungsempfänger liegt, die sich bei der Anwendung von Artikel 21 ergeben würde.
@@ -471,12 +503,12 @@ kann die Bestimmungen des nachstehenden Absatzes für sich in Anspruch nehmen.
 
 #### Art. 42
 
-<sup>1.</sup> Ein Mitglied, das
+<sup>1.</sup> kann von einzelnen Bestimmungen der Teile II, III und IV abweichen, vorausgesetzt, dass der Gesamtbetrag der nach den Bestimmungen des betreffenden Teils gewährten Leistungen mindestens 110 vom Hundert des Gesamtbetrages ausmacht, der bei Anwendung aller Bestimmungen dieses Teils erreicht würde.
 
-kann von einzelnen Bestimmungen der Teile II, III und IV abweichen, vorausgesetzt, dass der Gesamtbetrag der nach den Bestimmungen des betreffenden Teils gewährten Leistungen mindestens 110 vom Hundert des Gesamtbetrages ausmacht, der bei Anwendung aller Bestimmungen dieses Teils erreicht würde.
+Ein Mitglied, das:
 
-- a) die Verpflichtungen aus diesem Übereinkommen für die Teile II, III und IV übernommen hat und
-- b) einen Hundertsatz der erwerbstätigen Bevölkerung schützt, der mindestens um zehn Einheiten höher ist als der in Artikel 9 Absatz 1 Buchstabe b, Artikel 16 Absatz 1 Buchstabe b) und Artikel 22 Absatz 1 Buchstabe b) geforderte, oder das die Bestimmungen von Artikel 9 Absatz 1 Buchstabe c), Artikel 16 Absatz 1 Buchstabe c) und Artikel 22 Absatz 1 Buchstabe c) erfüllt,
+- a) die Verpflichtungen aus diesem Übereinkommen für die Teile II, III und IV übernommen hat; und
+- b) einen Hundertsatz der erwerbstätigen Bevölkerung schützt, der mindestens um zehn Einheiten höher ist als der in Artikel 9 Absatz 1 Buchstabe b, Artikel 16 Absatz 1 Buchstabe b) und Artikel 22 Absatz 1 Buchstabe b) geforderte, oder das die Bestimmungen von Artikel 9 Absatz 1 Buchstabe c), Artikel 16 Absatz 1 Buchstabe c) und Artikel 22 Absatz 1 Buchstabe c) erfüllt;
 
 <sup>2.</sup> Jedes Mitglied, das eine solche Abweichung für sich in Anspruch genommen hat, hat in seinen nach Artikel 22 der Verfassung der Internationalen Arbeitsorganisation vom 28. Juni 1919[^42-1] vorzulegenden Berichten über die Durchführung dieses Übereinkommens Auskunft zu geben über den Stand seiner Gesetzgebung und Praxis hinsichtlich dieser Abweichungen und mitzuteilen, inwieweit Fortschritte im Hinblick auf eine vollständige Durchführung der Bestimmungen dieses Übereinkommens erzielt worden sind.
 
@@ -484,7 +516,7 @@ kann von einzelnen Bestimmungen der Teile II, III und IV abweichen, vorausgesetz
 
 #### Art. 43
 
-Dieses Übereinkommen findet keine Anwendung auf
+Dieses Übereinkommen findet keine Anwendung auf:
 
 - a) Fälle, die sich vor dem Inkrafttreten des entsprechenden Teils des Übereinkommens für das betreffende Mitglied ereignet haben;
 - b) Leistungen für Fälle, die sich nach dem Inkrafttreten des entsprechenden Teils des Übereinkommens für das betreffende Mitglied ereignet haben, soweit sich die Ansprüche auf diese Leistungen aus Zeiten vor diesem Inkrafttreten herleiten.
@@ -694,55 +726,32 @@ Abteilung 9. Ungenügend umschriebene Tätigkeiten:
 
 \90. Ungenügend umschriebene Tätigkeiten
 
-### Geltungsbereich am 18. Mai 2006****
-
-[^annexu1-lvlu1-lvlu1-1]
-
-[^annexu1-lvlu1-lvlu1-1]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/eda/g/home/foreign/intagr/dabase.html).
+Geltungsbereich am 30. April 2025[^t-2]
 
 <table>
-<tr><th colspan="3">Vertragsstaaten</th><th colspan="4">Ratifikation</th><th colspan="2">Inkrafttreten</th><th></th></tr>
-<tr><td colspan="3">Barbados\* <sup>a</sup></td><td colspan="2">15. September</td><td colspan="2">1972</td><td colspan="2">15. September</td><td>1973</td></tr>
-<tr><td colspan="3">Bolivien\* <sup>b</sup></td><td colspan="2">31. Januar</td><td colspan="2">1977</td><td colspan="2">31. Januar</td><td>1978</td></tr>
-<tr><td colspan="3">Deutschland<sup>b</sup></td><td colspan="2">15. Januar</td><td colspan="2">1971</td><td colspan="2">15. Januar</td><td>1972</td></tr>
-<tr><td colspan="3">Ecuador\* <sup>b</sup></td><td colspan="2">5 April</td><td colspan="2">1978</td><td colspan="2">5 April</td><td>1979</td></tr>
-<tr><td colspan="3">Finnland<sup>b</sup></td><td colspan="2">13. Januar</td><td colspan="2">1976</td><td colspan="2">13. Januar</td><td>1977</td></tr>
-<tr><td colspan="3">Libyen<sup>b</sup></td><td colspan="2">19. Juni</td><td colspan="2">1975</td><td colspan="2">19. Juni</td><td>1976</td></tr>
-<tr><td colspan="3">Niederlande<sup>b</sup></td><td colspan="2">27. Oktober</td><td colspan="2">1969</td><td colspan="2">27. Oktober</td><td>1970</td></tr>
-<tr><td colspan="3">Norwegen<sup>b</sup></td><td colspan="2">1. November</td><td colspan="2">1968</td><td colspan="2">1. November</td><td>1969</td></tr>
-<tr><td colspan="3">Österreich\* <sup>c</sup></td><td colspan="2">4. November</td><td colspan="2">1969</td><td colspan="2">4. November</td><td>1970</td></tr>
-<tr><td colspan="3">Schweden<sup>b</sup></td><td colspan="2">26. Juli</td><td colspan="2">1968</td><td colspan="2">1. November</td><td>1969</td></tr>
-<tr><td colspan="3">Schweiz<sup>b</sup></td><td colspan="2">13. September</td><td colspan="2">1977</td><td colspan="2">13. September</td><td>1978</td></tr>
-<tr><td colspan="3">Slowakei<sup>c</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td colspan="2">1. Januar</td><td>1993</td></tr>
-<tr><td colspan="3">Tschechische Republik<sup>c</sup></td><td colspan="2">1. Januar</td><td colspan="2">1993 N</td><td colspan="2">1. Januar</td><td>1993</td></tr>
-<tr><td colspan="3">Uruguay<sup>b</sup></td><td colspan="2">28. Juni</td><td colspan="2">1973</td><td colspan="2">28. Juni</td><td>1974</td></tr>
-<tr><td colspan="3">Venezuela\* <sup>b</sup></td><td colspan="2">1. Dezember</td><td colspan="2">1983</td><td colspan="2">1. Dezember</td><td>1984</td></tr>
-<tr><td colspan="3">Zypern<sup>d</sup></td><td colspan="2">7. Januar</td><td colspan="2">1969</td><td colspan="2">7. Januar</td><td>1970</td></tr>
-<tr><td>\*</td><td colspan="9">Vorbehalte, siehe hiernach.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="9">Dieser Staat übernimmt die Verpflichtungen der Teile II und III des Übereinkommens.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="9">Dieser Staat übernimmt die Verpflichtungen der Teile II bis IV des Übereinkommens.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="9">Dieser Staat übernimmt die Verpflichtungen des Teils III des Übereinkommens.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="9">Dieser Staat übernimmt die Verpflichtungen des Teils IV des Übereinkommens.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Nachfolgeerklärungen (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Barbados\* <sup>a</sup></td><td>15. September</td><td colspan="2">1972</td><td>15. September</td><td>1973</td></tr>
+<tr><td>Belgien</td><td>14. Juni</td><td colspan="2">2017</td><td>14. Juni</td><td>2018</td></tr>
+<tr><td>Bolivien\* <sup>b</sup></td><td>31. Januar</td><td colspan="2">1977</td><td>31. Januar</td><td>1978</td></tr>
+<tr><td>Deutschland <sup>b</sup></td><td>15. Januar</td><td colspan="2">1971</td><td>15. Januar</td><td>1972</td></tr>
+<tr><td>Ecuador\* <sup>b</sup></td><td>5 April</td><td colspan="2">1978</td><td>5 April</td><td>1979</td></tr>
+<tr><td>Finnland <sup>b</sup></td><td>13. Januar</td><td colspan="2">1976</td><td>13. Januar</td><td>1977</td></tr>
+<tr><td>Libyen <sup>b</sup></td><td>19. Juni</td><td colspan="2">1975</td><td>19. Juni</td><td>1976</td></tr>
+<tr><td>Niederlande <sup>b</sup></td><td>27. Oktober</td><td colspan="2">1969</td><td>27. Oktober</td><td>1970</td></tr>
+<tr><td>Norwegen <sup>b</sup></td><td>1. November</td><td colspan="2">1968</td><td>1. November</td><td>1969</td></tr>
+<tr><td>Österreich\* <sup>c</sup></td><td>4. November</td><td colspan="2">1969</td><td>4. November</td><td>1970</td></tr>
+<tr><td>Schweden <sup>b</sup></td><td>26. Juli</td><td colspan="2">1968</td><td>1. November</td><td>1969</td></tr>
+<tr><td>Schweiz <sup>b</sup></td><td>13. September</td><td colspan="2">1977</td><td>13. September</td><td>1978</td></tr>
+<tr><td>Slowakei <sup>c</sup></td><td>1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tschechische Republik <sup>c</sup></td><td>1. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Uruguay <sup>b</sup></td><td>28. Juni</td><td colspan="2">1973</td><td>28. Juni</td><td>1974</td></tr>
+<tr><td>Venezuela\* <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1983</td><td>1. Dezember</td><td>1984</td></tr>
+<tr><td>Zypern <sup>d</sup></td><td>7. Januar</td><td colspan="2">1969</td><td>7. Januar</td><td>1970</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht publiziert. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6"><sup>a</sup> Dieser Staat übernimmt die Verpflichtungen der Teile II und III des Übereinkommens.</td></tr>
+<tr><td colspan="6"><sup>b</sup> Dieser Staat übernimmt die Verpflichtungen der Teile II bis IV des Übereinkommens.</td></tr>
+<tr><td colspan="6"><sup>c</sup> Dieser Staat übernimmt die Verpflichtungen des Teils III des Übereinkommens.</td></tr>
+<tr><td colspan="6"><sup>d</sup> Dieser Staat übernimmt die Verpflichtungen des Teils IV des Übereinkommens.</td></tr>
 </table>
 
-## Vorbehalte
-
-Barbados
-
-Gemäss Artikel 4 des Übereinkommens erklärt die Regierung, dass sie sich nicht in Artikel 13 Absatz 2 vorgesehenen zeitweiligen Ausnahmen vorbehält, bis geeignete Massnahmen bezüglich der beruflichen Wiedereingliederung getroffen worden sind.
-
-Bolivien
-
-Gemäss Artikel 4 Absatz 1 des Übereinkommens behält sich die Regierung die in den Artikeln 9 Absatz 2, 13 Absatz 2, 16 Absatz 2 und 22 Absatz 2 vorgesehenen zeitweiligen Ausnahmen vor. Die Regierung erklärt, dass sie für sich den in Artikel 38 Absatz 1 des Übereinkommens vorgesehenen vorübergehenden Ausschluss vom Geltungsbereich beansprucht.
-
-Ecuador
-
-Gleiche Vorbehalte wie Bolivien.
-
-Österreich
-
-Gemäss Artikel 39 Absatz 1 b) wird das Übereinkommen auf die öffentlichen Bediensteten nicht angewendet.
-
-Venezuela
-
-Gleiche Vorbehalte wie Bolivien.
+[^t-2]: [AS 1982 1820](https://fedlex.data.admin.ch/eli/oc/1982/1820_1820_1820); [1985 308](https://fedlex.data.admin.ch/eli/oc/1985/308_308_308); [1987 1461](https://fedlex.data.admin.ch/eli/oc/1987/1461_1461_1461); [1992 676](https://fedlex.data.admin.ch/eli/oc/1992/676_676_676); [2006 2985](https://fedlex.data.admin.ch/eli/oc/2006/462); [2025 274](https://fedlex.data.admin.ch/eli/oc/2025/274). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

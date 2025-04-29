@@ -3,11 +3,11 @@ sr: "0.831.105"
 title: "Convenzione n. 128 del 29 giugno 1967 concernente le prestazioni per l'invalidità, la vecchiaia e i superstiti (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493"
 language: it
-version: 2006-05-18
+version: 2025-04-30
 adopted: 1967-06-29
 in_force: 1978-09-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20060518/it/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20060518-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20060518/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1493_1493_1493/20250430/it/xml/fedlex-data-admin-ch-eli-cc-1978-1493_1493_1493-20250430-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20250430/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/1493_1493_1493/20060518/it"
 
 RU **1978** 1493; FF **1976** III 1313
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Ginevra il 29 giugno 1967
+Conchiusa a Ginevra il 29 giugno 1967 Approvata dall’Assemblea federale il 23 giugno 1977[^t-1] Ratificata dalla Svizzera con strumento depositato il 13 settembre 1977 Entrata in vigore per la Svizzera il 13 settembre 1978
 
-Approvata dall’Assemblea federale il 23 giugno 1977[^t-2]
+(Stato 30 aprile 2025)
 
-Ratificata dalla Svizzera con strumento depositato il 13 settembre 1977
-
-Entrata in vigore per la Svizzera il 13 settembre 1978
-
-(Stato 25 luglio 2006)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
+[^t-1]: Art. 1 cpv. 1 del DF del 23 giu. 1977 ([RU 1978 1491](https://fedlex.data.admin.ch/eli/oc/1978/1491_1491_1491)).
 
 La Conferenza generale dell’Organizzazione internazionale del Lavoro,
 
@@ -58,7 +51,7 @@ Secondo la presente convenzione:
 
   il termine «figlio» indica:
 
-  - i) un fanciullo al di sotto dell’età in cui è prosciolto dall’obbligo scolastico oppure un fanciullo d’età inferiore a quindici anni, restando inteso che deve essere tenuto conto dell’età più elevata;
+  - i) un fanciullo al di sotto dell’età in cui è prosciolto dall’obbligo scolastico oppure un fanciullo d’età inferiore a quindici anni, restando inteso che deve essere tenuto conto dell’età più elevata,
   - ii) nelle condizioni prescritte, un fanciullo al di sotto di un’età più elevata di quella indicata nel sottoalinea precedente, qualora svolga un tirocinio, segua gli studi o sia colpito da una malattia cronica o da un’infermità che lo rendono inabile all’esercizio di un’attività professionale qualsiasi, a meno che la legislazione nazionale intenda per «figlio» ogni ragazzo al di sotto di un’età sensibilmente più elevata di quella indicata nel sottoalinea precedente;
 
 - i) il termine «stage» designa sia un periodo di contribuzione, sia un periodo di impiego, sia un periodo di residenza, sia una combinazione qualsiasi di questi periodi, secondo quanto è prescritto:
@@ -375,8 +368,8 @@ Per ogni pagamento periodico cui si applica il presente articolo:
 
   le disposizioni dell’alinea precedente sono considerate soddisfatte se l’ammontare totale delle prestazioni pagate in virtù della parte in questione supera di almeno il 30 per cento l’importo complessivo delle prestazioni che si otterrebbero applicando le disposizioni dell’articolo 27 e le disposizioni:
 
-  - i) dell’alinea b) del paragrafo 1 dell’articolo 9 per la parte II;
-  - ii) dell’alinea b) del paragrafo 1 dell’articolo 16 per la parte III;
+  - i) dell’alinea b) del paragrafo 1 dell’articolo 9 per la parte II,
+  - ii) dell’alinea b) del paragrafo 1 dell’articolo 16 per la parte III,
   - iii) dell’alinea b) del paragrafo 1 dell’articolo 22 per la parte IV.
 
 #### Art. 29
@@ -476,8 +469,8 @@ Qualsiasi Membro, la cui legislazione protegge salariati può, nella misura nece
 
 Qualsiasi Membro che ratifica la presente convenzione può, mediante una dichiarazione annessa alla ratificazione, escludere dall’applicazione della convenzione:
 
-- a) la gente di mare, compresi i marinai pescatori,
-- b) gli agenti pubblici,
+- a) la gente di mare, compresi i marinai pescatori;
+- b) gli agenti pubblici;
 
 <sup>2.</sup> Se è in vigore una dichiarazione fatta in applicazione del paragrafo precedente, il Membro può escludere le persone indicate in questa dichiarazione dal numero delle persone computate per il calcolo delle aliquote previste nell’alinea b) del paragrafo 1 e nell’alinea b) del paragrafo 2 dell’articolo 9, nell’alinea b) del paragrafo 1 e nell’alinea b) del paragrafo 2 dell’articolo 16, nell’alinea b) del paragrafo 1 e nell’alinea b) del paragrafo 2 dell’articolo 22 e nell’alinea c) dell’articolo 37.
 
@@ -493,9 +486,9 @@ Se una persona protetta può beneficiare, in virtù della legislazione nazionale
 
 Un Membro, se:
 
-- a) ha accettato gli obblighi della presente convenzione per quanto concerne le parti II, III e IV,
-- b) protegge un’aliquota della popolazione attiva che è di almeno di 10 unità più elevata dell’aliquota richiesta nell’articolo 9 paragrafo 1 alinea b), nell’articolo 16, paragrafo 1 alinea b), nell’articolo 22 paragrafo 1 alinea b), oppure soddisfa le disposizioni dell’articolo 9, paragrafo 1 alinea c), dell’articolo 16, paragrafo 1 alinea c) e dell’articolo 22, paragrafo 1 alinea c),
-- c) garantisce, per quanto concerne almeno due eventi coperti dalle parti II, III e IV, prestazioni di un ammontare corrispondente ad un’aliquota di almeno 5 unità più elevata delle aliquote indicate nella tavola allegata alla parte V,
+- a) ha accettato gli obblighi della presente convenzione per quanto concerne le parti II, III e IV;
+- b) protegge un’aliquota della popolazione attiva che è di almeno di 10 unità più elevata dell’aliquota richiesta nell’articolo 9 paragrafo 1 alinea b), nell’articolo 16, paragrafo 1 alinea b), nell’articolo 22 paragrafo 1 alinea b), oppure soddisfa le disposizioni dell’articolo 9, paragrafo 1 alinea c), dell’articolo 16, paragrafo 1 alinea c) e dell’articolo 22, paragrafo 1 alinea c);
+- c) garantisce, per quanto concerne almeno due eventi coperti dalle parti II, III e IV, prestazioni di un ammontare corrispondente ad un’aliquota di almeno 5 unità più elevata delle aliquote indicate nella tavola allegata alla parte V;
 
 <sup>2.</sup>
 
@@ -510,12 +503,12 @@ Detto Membro può:
 
 #### Art. 42
 
-<sup>1.</sup> Un Membro, se
+<sup>1.</sup> può derogare a talune disposizioni delle parti II, III o IV, purché l’ammontare complessivo delle prestazioni fornite, secondo la parte di cui si tratta, sia almeno equivalente al 110 per cento dell’importo totale delle prestazioni che si otterrebbero applicando l’insieme delle disposizioni di detta parte.
 
-può derogare a talune disposizioni delle parti II, III o IV, purché l’ammontare complessivo delle prestazioni fornite, secondo la parte di cui si tratta, sia almeno equivalente al 110 per cento dell’importo totale delle prestazioni che si otterrebbero applicando l’insieme delle disposizioni di detta parte.
+Un Membro, se:
 
-- a) ha accettato gli obblighi della presente convenzione per quanto concerne le parti II, III e IV,
-- b) protegge un’aliquota della popolazione attiva di almeno 10 unità più elevata che l’aliquota richiesta nell’articolo 9, paragrafo 1, alinea b) nell’articolo 16, paragrafo 1, alinea b) e nell’articolo 22, paragrafo 1, alinea b), oppure soddisfa le disposizioni dell’articolo 9, paragrafo 1, alinea c), dell’articolo 16, paragrafo 1, alinea c), e dell’articolo 22, paragrafo 1, alinea c),
+- a) ha accettato gli obblighi della presente convenzione per quanto concerne le parti II, III e IV;
+- b) protegge un’aliquota della popolazione attiva di almeno 10 unità più elevata che l’aliquota richiesta nell’articolo 9, paragrafo 1, alinea b) nell’articolo 16, paragrafo 1, alinea b) e nell’articolo 22, paragrafo 1, alinea b), oppure soddisfa le disposizioni dell’articolo 9, paragrafo 1, alinea c), dell’articolo 16, paragrafo 1, alinea c), e dell’articolo 22, paragrafo 1, alinea c);
 
 <sup>2.</sup> Qualsiasi Membro che ha ricorso a siffatte deroghe deve indicare, nei rapporti sull’applicazione della presente convenzione da presentare in virtù dell’articolo 22 della Costituzione dell’organizzazione internazionale del Lavoro[^42-1], lo stato della sua legislazione e della sua prassi, per quanto concerne i temi costituenti l’oggetto di siffatte deroghe e i progressi attuati per l’applicazione completa delle disposizioni convenzionali.
 
@@ -682,55 +675,30 @@ Nomenclatura dei rami e delle categorie
 <tr><td>90.</td><td>Attività non descritta adeguatamente</td></tr>
 </table>
 
-### Campo d’applicazione il 18 maggio 2006****
+### Campo d’applicazione il 30 aprile 2025
 
 [^annexu1-lvlu1-lvlu1-1]
 
-[^annexu1-lvlu1-lvlu1-1]: Una versione del campo d'applicazione aggiornata è pubblicata sul sito iternet del DFAE (http://www.eda.admin.ch/eda/i/home/foreign/intagr/dabase.html).
+[^annexu1-lvlu1-lvlu1-1]: [RU 1982 1820](https://fedlex.data.admin.ch/eli/oc/1982/1820_1820_1820); [1985 308](https://fedlex.data.admin.ch/eli/oc/1985/308_308_308); [1987 1461](https://fedlex.data.admin.ch/eli/oc/1987/1461_1461_1461); [1992 676](https://fedlex.data.admin.ch/eli/oc/1992/676_676_676); [2006 2985](https://fedlex.data.admin.ch/eli/oc/2006/462); [2025 274](https://fedlex.data.admin.ch/eli/oc/2025/274). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 <table>
-<tr><th colspan="3">Stati partecipanti</th><th colspan="2">Ratifica Dichiarazione di successione (S)</th><th colspan="2"></th><th colspan="2">Entrata in vigore</th><th></th></tr>
-<tr><td colspan="3">Austria\* <sup>a</sup></td><td colspan="2">4 novembre</td><td colspan="2">1969</td><td colspan="2">4 novembre</td><td>1970</td></tr>
-<tr><td colspan="3">Barbados\* <sup>b</sup></td><td colspan="2">15 settembre</td><td colspan="2">1972</td><td colspan="2">15 settembre</td><td>1973</td></tr>
-<tr><td colspan="3">Bolivia\* <sup>c</sup></td><td colspan="2">31 gennaio</td><td colspan="2">1977</td><td colspan="2">31 gennaio</td><td>1978</td></tr>
-<tr><td colspan="3">Cipro<sup>d</sup></td><td colspan="2">7 gennaio</td><td colspan="2">1969</td><td colspan="2">7 gennaio</td><td>1970</td></tr>
-<tr><td colspan="3">Ecuador\* <sup>c</sup></td><td colspan="2">5 aprile</td><td colspan="2">1978</td><td colspan="2">5 aprile</td><td>1979</td></tr>
-<tr><td colspan="3">Finlandia<sup>c</sup></td><td colspan="2">13 gennaio</td><td colspan="2">1976</td><td colspan="2">13 gennaio</td><td>1977</td></tr>
-<tr><td colspan="3">Germania<sup>c</sup></td><td colspan="2">15 gennaio</td><td colspan="2">1971</td><td colspan="2">15 gennaio</td><td>1972</td></tr>
-<tr><td colspan="3">Libia<sup>c</sup></td><td colspan="2">19 giugno</td><td colspan="2">1975</td><td colspan="2">19 giugno</td><td>1976</td></tr>
-<tr><td colspan="3">Norvegia<sup>c</sup></td><td colspan="2">1° novembre</td><td colspan="2">1968</td><td colspan="2">1° novembre</td><td>1969</td></tr>
-<tr><td colspan="3">Paesi Bassi<sup>c</sup></td><td colspan="2">27 ottobre</td><td colspan="2">1969</td><td colspan="2">27 ottobre</td><td>1970</td></tr>
-<tr><td colspan="3">Repubblica Ceca<sup>a</sup></td><td colspan="2">1° gennaio</td><td colspan="2">1993 S</td><td colspan="2">1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="3">Slovacchia<sup>a</sup></td><td colspan="2">1° gennaio</td><td colspan="2">1993 S</td><td colspan="2">1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="3">Svezia<sup>c</sup></td><td colspan="2">26 luglio</td><td colspan="2">1968</td><td colspan="2">1° novembre</td><td>1969</td></tr>
-<tr><td colspan="3">Svizzera<sup>c</sup></td><td colspan="2">13 settembre</td><td colspan="2">1977</td><td colspan="2">13 settembre</td><td>1978</td></tr>
-<tr><td colspan="3">Uruguay<sup>c</sup></td><td colspan="2">28 giugno</td><td colspan="2">1973</td><td colspan="2">28 giugno</td><td>1974</td></tr>
-<tr><td colspan="3">Venezuela\* <sup>c</sup></td><td colspan="2">1° dicembre</td><td colspan="2">1983</td><td colspan="2">1° dicembre</td><td>1984</td></tr>
-<tr><td>\*</td><td colspan="9">Riserve e dichiarazioni, vedi qui appresso.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="9">Questo Stato ha accettato gli obblighi di cui alla parte III della Conv.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="9">Questo Stato ha accettato gli obblighi di cui alle parti II e III della Conv.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="9">Questo Stato ha accettato gli obblighi di cui alle parti II a IV della Conv.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="9">Questo Stato ha accettato gli obblighi di cui alla parte IV della Conv.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria\* <sup>a</sup></td><td>4 novembre</td><td>1969</td><td>4 novembre</td><td>1970</td></tr>
+<tr><td>Barbados\* <sup>b</sup></td><td>15 settembre</td><td>1972</td><td>15 settembre</td><td>1973</td></tr>
+<tr><td>Belgio</td><td>14 giugno</td><td>2017</td><td>14 giugno</td><td>2018</td></tr>
+<tr><td>Bolivia\* <sup>c</sup></td><td>31 gennaio</td><td>1977</td><td>31 gennaio</td><td>1978</td></tr>
+<tr><td>Cipro<sup>d</sup></td><td>7 gennaio</td><td>1969</td><td>7 gennaio</td><td>1970</td></tr>
+<tr><td>Ecuador\* <sup>c</sup></td><td>5 aprile</td><td>1978</td><td>5 aprile</td><td>1979</td></tr>
+<tr><td>Finlandia <sup>c</sup></td><td>13 gennaio</td><td>1976</td><td>13 gennaio</td><td>1977</td></tr>
+<tr><td>Germania <sup>c</sup></td><td>15 gennaio</td><td>1971</td><td>15 gennaio</td><td>1972</td></tr>
+<tr><td>Libia <sup>c</sup></td><td>19 giugno</td><td>1975</td><td>19 giugno</td><td>1976</td></tr>
+<tr><td>Norvegia <sup>c</sup></td><td>1° novembre</td><td>1968</td><td>1° novembre</td><td>1969</td></tr>
+<tr><td>Paesi Bassi <sup>c</sup></td><td>27 ottobre</td><td>1969</td><td>27 ottobre</td><td>1970</td></tr>
+<tr><td>Repubblica Ceca <sup>a</sup></td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovacchia <sup>a</sup></td><td>1° gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Svezia <sup>c</sup></td><td>26 luglio</td><td>1968</td><td>1° novembre</td><td>1969</td></tr>
+<tr><td>Svizzera <sup>c</sup></td><td>13 settembre</td><td>1977</td><td>13 settembre</td><td>1978</td></tr>
+<tr><td>Uruguay <sup>c</sup></td><td>28 giugno</td><td>1973</td><td>28 giugno</td><td>1974</td></tr>
+<tr><td>Venezuela\* <sup>c</sup></td><td>1° dicembre</td><td>1983</td><td>1° dicembre</td><td>1984</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna <sup>a</sup> Questo Stato ha accettato gli obblighi di cui alla parte III della Conv. <sup>b</sup> Questo Stato ha accettato gli obblighi di cui alle parti II e III della Conv. <sup>c</sup> Questo Stato ha accettato gli obblighi di cui alle parti II a IV della Conv. <sup>d</sup> Questo Stato ha accettato gli obblighi di cui alla parte IV della Conv.</td></tr>
 </table>
-
-### Riserve e dichiarazioni
-
-Austria
-
-In virtù dell’articolo 39 paragrafo 1b), gli agenti della funzione pubblica sono esclusi dall’applicazione della convenzione.
-
-Barbados
-
-In applicazione dell’articolo 4 della convenzione, il governo dichiara che si riserva il beneficio della deroga temporanea, prevista nel paragrafo 2 dell’articolo 13, fintantoché non saranno state adottate misure adeguate in materia di rieducazione.
-
-Bolivia
-
-In virtù dell’articolo 4 paragrafo 1 della convenzione, il governo si riserva il beneficio delle deroghe temporanee di cui agli articoli 9 paragrafo 2, 13 paragrafo 2, 16 paragrafo 2 e 22 paragrafo 2. Il governo dichiara di prevalersi parimenti dell’esclusione temporanea prevista nell’articolo 38 paragrafo 1 della convenzione.
-
-Ecuador
-
-In virtù dell’articolo 4 paragrafo 1 della Convenzione, il governo si riserva il diritto alle deroghe temporanee, previsto all’articolo 9 paragrafo 2, all’articolo 13 paragrafo 2, all’articolo 16 paragrafo 2 e all’articolo 22 paragrafo 2. In virtù dell’articolo 38 paragrafo 1 della Convenzione, il governo dichiara di escludere temporaneamente dall’applicazione della Convenzione i salariati del settore agricolo.
-
-Venezuela
-
-Giusta l’articolo 4 paragrafo 1 della convenzione, il governo si riserva il beneficio di deroghe temporanee contemplate all’articolo 9 paragrafo 2, all’articolo 13 paragrafo 2, all’articolo 6 paragrafo 2 e all’articolo 22 paragrafo 2. In virtù dell’articolo 38 paragrafo 1 della convenzione, il governo dichiara di escludere temporaneamente dall’applicazione della convenzione i salariati agricoli.
