@@ -3,27 +3,28 @@ sr: "0.837.411"
 title: Übereinkommen Nr. 44 vom 23. Juni 1934 über die Gewährung von Versicherungsleistungen oder von Unterstützungen an unfreiwillig Arbeitslose
 eli: "https://fedlex.data.admin.ch/eli/cc/55/598_610_534"
 language: de
-version: 1982-10-01
+version: 2025-04-30
 adopted: 1934-06-23
 in_force: 1940-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/55/598_610_534/19821001/de/xml/fedlex-data-admin-ch-eli-cc-55-598_610_534-19821001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/55/598_610_534/19821001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/55/598_610_534/20250430/de/xml/fedlex-data-admin-ch-eli-cc-55-598_610_534-20250430-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/55/598_610_534/20250430/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen Nr. 44 über die Gewährung von Versicherungsleistungen oder von Unterstützungen an unfreiwillig Arbeitslose****
+# Übereinkommen Nr. 44 über die Gewährung von Versicherungsleistungen oder von Unterstützungen an unfreiwillig Arbeitslose
 
 BS **14** 99; BBl **1935** I 973[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Angenommen in Genf am 23. Juni 1934[^t-3] Von der Bundesversammlung genehmigt am 24. September 1935[^t-4] Ratifikationsurkunde von der Schweiz hinterlegt am 14. Juni 1939 In Kraft getreten für die Schweiz am 14. Juni 1940
+Angenommen in Genf am 23. Juni 1934[^t-2] Von der Bundesversammlung genehmigt am 24. September 1935[^t-3] Ratifikationsurkunde von der Schweiz hinterlegt am 14. Juni 1939 In Kraft getreten für die Schweiz am 14. Juni 1940
+
+(Stand am 30. April 2025)
 
 [^t-1]: Dieses Übereink. ist nur noch anwendbar im Verhältnis zu den Staaten, die dem Übereink. Nr. 168 vom 21. Juni 1988 über Beschäftigungsförderung und den Schutz gegen Arbeitslosigkeit ([SR 0.822.726.8](https://fedlex.data.admin.ch/eli/cc/1991/1914_1914_1914)) nicht beigetreten sind.
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechen-den Ausgabe dieser Sammlung.
-[^t-3]: Das Übereinkommen wurde von der 18. Internationalen Arbeitskonferenz angenommen und ist vom Vorsitzenden der Konferenz und vom Generaldirektor des Internationalen Arbeitsamtes unterzeichnet. Die einzelnen Staaten wurden erst verpflichtet mit der Hinterlegung ihrer Ratifikationsurkunde (Art. 18). Infolge Auflösung des Völkerbundes und Abänderung der Verfassung der Internationalen Arbeitsorganisation wurden gewisse Abänderungen an diesem Übereinkommen nötig, um die Durchführung der Kanzleiaufgaben, die ursprünglich dem Generalsekretär des Völkerbundes übertragen waren, sichezustellen. Diese durch das Übereinkommen vom 9. Oktober 1946 ([SR 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)) vorgenommenen Abänderungen sind im vorliegenden Text berücksichtigt.
-[^t-4]: AS **55** 597
+[^t-2]: Das Übereinkommen wurde von der 18. Internationalen Arbeitskonferenz angenommen und ist vom Vorsitzenden der Konferenz und vom Generaldirektor des Internationalen Arbeitsamtes unterzeichnet. Die einzelnen Staaten wurden erst verpflichtet mit der Hinterlegung ihrer Ratifikationsurkunde (Art. 18). Infolge Auflösung des Völkerbundes und Abänderung der Verfassung der Internationalen Arbeitsorganisation wurden gewisse Abänderungen an diesem Übereinkommen nötig, um die Durchführung der Kanzleiaufgaben, die ursprünglich dem Generalsekretär des Völkerbundes übertragen waren, sichezustellen. Diese durch das Übereinkommen vom 9. Oktober 1946 ([SR 0.822.719.0](https://fedlex.data.admin.ch/eli/cc/63/1099_1104_1104)) vorgenommenen Abänderungen sind im vorliegenden Text berücksichtigt.
+[^t-3]: AS **55** 597
 
 Die Allgemeine Konferenz der Internationalen Arbeitsorganisation,
 
@@ -54,7 +55,7 @@ die unter Abs. 1 dieses Artikels vorgesehene Versicherungsleistung oder Unterst�
 
 <sup>3.</sup> Die Gesetzgebung bestimmt gegebenenfalls die Voraussetzungen, unter denen Arbeitslose von der Versicherung in die Fürsorge übergehen.
 
-[^1-1]: Siehe das Arbeitslosenversicherungsgesetz ([SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)) und die Arbeitslosen- versicherungsverordnung vom 31. Aug. 1983 ([SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)).
+[^1-1]: Siehe das Arbeitslosenversicherungsgesetz ([SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)) und die Arbeitslosenversicherungsverordnung vom 31. Aug. 1983 ([SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)).
 
 #### Art. 2
 
@@ -217,53 +218,32 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich des Abkommens am 1. Oktober 1982
+Geltungsbereich am 30. April 2025[^t-4]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerkl. (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td colspan="2">Algerien</td><td>19. Oktober</td><td>1962 N</td><td>19. Oktober</td><td>1962</td></tr>
 <tr><td colspan="2">Bulgarien</td><td>29. Dezember</td><td>1949</td><td>29. Dezember</td><td>1950</td></tr>
 <tr><td colspan="2">Dschibuti</td><td>3. August</td><td>1978 N</td><td>3. August</td><td>1978</td></tr>
 <tr><td colspan="2">Frankreich\*</td><td>21. Februar</td><td>1949</td><td>21. Februar</td><td>1950</td></tr>
-<tr><td colspan="2">[tab] Überseeische Gebiete [tab] Komoren, Neu-Kaledonien, [tab] Französisch Polynesien, [tab] St-Pierre-et-Miquelon</td><td>27. November</td><td>1974</td><td>27. November</td><td>1974</td></tr>
-<tr><td colspan="2">Grossbritannien</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
-<tr><td colspan="2">[tab] Guernsey, Jersey, Insel Man</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
-<tr><td colspan="2">[tab] Nyassaland\*, [tab] Nord-Rhodesien\*</td><td>20. August</td><td>1963</td><td>20. August</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Malta\*</td><td>10. Juni</td><td>1964</td><td>10. Juni</td><td>1964</td></tr>
-<tr><td colspan="2">[tab] Gibraltar\*</td><td>11. November</td><td>1964</td><td>11. November</td><td>1964</td></tr>
+<tr><td colspan="2">Neu-Kaledonien</td><td>27. November</td><td>1974</td><td>27. November</td><td>1974</td></tr>
+<tr><td colspan="2">Französisch Polynesien</td><td>27. November</td><td>1974</td><td>27. November</td><td>1974</td></tr>
+<tr><td colspan="2">St-Pierre-et-Miquelon</td><td>27. November</td><td>1974</td><td>27. November</td><td>1974</td></tr>
 <tr><td colspan="2">Irland</td><td>10. Juni</td><td>1937</td><td>10. Juni</td><td>1938</td></tr>
 <tr><td colspan="2">Italien</td><td>22. Oktober</td><td>1952</td><td>22. Oktober</td><td>1953</td></tr>
 <tr><td colspan="2">Neuseeland</td><td>29. März</td><td>1938</td><td>29. März</td><td>1939</td></tr>
 <tr><td colspan="2">Niederlande</td><td>17. Januar</td><td>1966</td><td>17. Januar</td><td>1967</td></tr>
+<tr><td colspan="2">Norwegen</td><td>20. Mai</td><td>1957</td><td>20. Mai</td><td>1958</td></tr>
 <tr><td colspan="2">Peru</td><td>4. April</td><td>1962</td><td>4. April</td><td>1963</td></tr>
 <tr><td colspan="2">Schweiz</td><td>14. Juni</td><td>1939</td><td>14. Juni</td><td>1940</td></tr>
 <tr><td colspan="2">Spanien</td><td>5. Mai</td><td>1971</td><td>5. Mai</td><td>1972</td></tr>
-<tr><td colspan="2">Zypern</td><td>8. Oktober</td><td>1965</td><td>8. Oktober</td><td>1966</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen, siehe hiernach.</td></tr>
+<tr><td colspan="2">Vereinigtes Königreich</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
+<tr><td colspan="2">Gibraltar\*</td><td>11. November</td><td>1964</td><td>11. November</td><td>1964</td></tr>
+<tr><td colspan="2">Guernsey</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
+<tr><td colspan="2">Insel Man</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
+<tr><td colspan="2">Jersey</td><td>29. April</td><td>1936</td><td>10. Juni</td><td>1938</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="6">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
-
-Frankreich
-
-Das Übereinkommen gilt nicht für die überseeischen Departemente Guadeloupe, Martinique, Guyana und Réunion.
-
-Gibraltar
-
-Artikel 1 Absatz 2: Die Verordnung über die Leistungen der Sozialversicherung an Nicht-Beitragszahlende gewährleistet unfreiwillig Arbeitslosen, welche dem durch die Verordnung über die Sozialversicherung vorgesehenen System der obligatorischen Versicherung nicht unterstehen, keine Leistungen.
-
-Artikel 2 Buchstabe g): Arbeitnehmer, die das für eine Altersrente bestimmte Alter überschritten haben, ob sie im Genuss einer Pension bzw. einer Altersrente sind oder nicht, verlieren das Anrecht auf Versicherungsleistungen.
-
-Artikel 16: Wird nicht angewendet.
-
-Malta
-
-Artikel 3: Versicherungsleistungen werden nur Personen, die als arbeitslos gelten, gewährt.
-
-Nyassaland
-
-Es bestehen keine gemischten Ausschüsse von Arbeitnehmern und Arbeitgebern zur Begutachtung aller die Tätigkeit der Arbeitsnachweisestellen betreffenden Angelegenheiten.
-
-Nord-Rhodesien
-
-Gleicher Vorbehalt wie für Nyassaland.
+[^t-4]: [AS 1973 1136](https://fedlex.data.admin.ch/eli/oc/1973/1136_1136_1136); [1975 2493](https://fedlex.data.admin.ch/eli/oc/1975/2493_2493_2493); [1982 1830](https://fedlex.data.admin.ch/eli/oc/1982/1830_1830_1830); [2025 285](https://fedlex.data.admin.ch/eli/oc/2025/285). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

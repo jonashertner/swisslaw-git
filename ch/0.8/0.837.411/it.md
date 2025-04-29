@@ -3,33 +3,28 @@ sr: "0.837.411"
 title: "Convenzione n. 44 del 23 giugno 1934 relativa alla concessione di prestazioni d'assicurazione o d'indennità ai disoccupati involontari"
 eli: "https://fedlex.data.admin.ch/eli/cc/55/598_610_534"
 language: it
-version: 1982-10-01
+version: 2025-04-30
 adopted: 1934-06-23
 in_force: 1940-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/55/598_610_534/19821001/it/xml/fedlex-data-admin-ch-eli-cc-55-598_610_534-19821001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/55/598_610_534/19821001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/55/598_610_534/20250430/it/xml/fedlex-data-admin-ch-eli-cc-55-598_610_534-20250430-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/55/598_610_534/20250430/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione relativa alla concessione di prestazioni o d’indennità ai disoccupati involontari****
+# Convenzione relativa alla concessione di prestazioni o d’indennità ai disoccupati involontari
 
 CS **14** 99; FF **1935** I 989 ediz. franc. **1935** I 973 ediz. ted.[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Adottata a Ginevra il 23 giugno 1934[^t-3]
+Adottata a Ginevra il 23 giugno 1934[^t-2] Approvata dall’Assemblea federale il 24 settembre 1935[^t-3] Ratificazione depositata dalla Svizzera il 14 giugno 1939 Entrata in vigore per la Svizzera il 14 giugno 1940
 
-Approvata dall’Assemblea federale il 24 settembre 1935[^t-4]
-
-Ratificazione depositata dalla Svizzera il 14 giugno 1939
-
-Entrata in vigore per la Svizzera il 14 giugno 1940
+(Stato 30 aprile 2025)
 
 [^t-1]: Questa conv. è solo ancora applicabile in relazione con gli Stati che non hanno aderito alla Conv. n. 168 del 21 giugno 1988 concernente la promozione dell’impiego e la protezione contro la disoccupazione.
-[^t-2]: Il testo originale francese è pubblicato sotto lo stesso numero nell’edizione francese della presente Raccolta.
-[^t-3]: La Convenzione è stata adottata nella diciottesima sessione della Conferenza inter- nazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conven-zione solo con il deposito del rispettivo strumento di ratificazione (art. 18). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Convenzione allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presento testo si è tenuto conto di queste modificazioni, introdotte dalla Convenzione 9 ottobre 1946.
-[^t-4]: RU **55** 533
+[^t-2]: La Convenzione è stata adottata nella diciottesima sessione della Conferenza inter- nazionale del Lavoro e firmata dal Presidente di questa sessione e dal Direttore generale dell’Ufficio internazionale del Lavoro. I singoli Stati sono divenuti parte di questa Conven-zione solo con il deposito del rispettivo strumento di ratificazione (art. 18). In seguito allo scioglimento della Società delle Nazioni e all’emendamento della Costituzione dell’Organizzazione internazionale del Lavoro, sono divenute necessarie alcune modificazioni alla presente Convenzione allo scopo di garantire l’esercizio delle funzioni di cancelleria affidate in precedenza al Segretario generale della Società delle Nazioni. Nel presento testo si è tenuto conto di queste modificazioni, introdotte dalla Convenzione 9 ottobre 1946.
+[^t-3]: RU **55** 533
 
 La Conferenza generale dell’Organizzazione internazionale del Lavoro, convocata a Ginevra dal Consiglio d’amministrazione dell’Ufficio internazionale del Lavoro e riunitasi il 4 giugno 1934 nella sua diciottesima sessione,
 
@@ -204,11 +199,13 @@ Non appena saranno state registrate dall’Ufficio internazionale del Lavoro le 
 
 Il Consiglio d’amministrazione dell’Ufficio internazionale del lavoro presenta alla Conferenza generale, ogni qualvolta lo reputi necessario, un rapporto sull’applicazione della presente convenzione ed esamina se occorre porre all’ordine del giorno della conferenza la questione della sua revisione totale o parziale.
 
-[^21-1]: Tenore giusto l’art. 1 della conv. n. 116 del 26 giugno 1961, approvato dall’Ass. fed. il 2 ott. 1962 ([RS 0.822.721.6](https://fedlex.data.admin.ch/eli/cc/1962/1359_1404_1413)).
+[^21-1]: Tenore giusto l’art. 1 della Conv. n. 116 del 26 giu. 1961, approvato dall’Ass. fed. il 2 ott. 1962 ([RU 1962 1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413); FF **1962** 947).
 
 #### Art. 22
 
-l. Nel caso in cui la Conferenza adottasse una nuova Convenzione portante revisione totale o parziale della presente Convenzione, e a meno che la nuova Convenzione non disponga altrimenti:
+<sup>1.</sup>
+
+Nel caso in cui la Conferenza adottasse una nuova Convenzione portante revisione totale o parziale della presente Convenzione, e a meno che la nuova Convenzione non disponga altrimenti:
 
 - a) la ratificazione, da parte di un Membro, della nuova Convenzione portante revisione, implicherebbe di pieno diritto, nonostante l’art. 20 precedente, la denuncia immediata della presente Convenzione, sotto riserva che la nuova Convenzione portante revisione sia entrata in vigore;
 - b) a contare dalla data dell’entrata in vigore della nuova Convenzione portante revisione, la presente Convenzione cesserebbe d’essere aperta alla ratificazione dei Membri.
@@ -221,49 +218,31 @@ Il testo francese e quello inglese della presente Convenzione faranno parimente 
 
 (Seguono le firme)
 
-Campo d’applicazione della Convenzione il 1° ottobre 1982
+Campo d’applicazione il 30 aprile 2025[^t-4]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratificazione Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>19 ottobre</td><td>1962 S</td><td>19 ottobre</td><td>1962</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>29 dicembre</td><td>1949</td><td>29 dicembre</td><td>1950</td></tr>
-<tr><td colspan="2">Cipro</td><td>8 ottobre</td><td>1965</td><td>8 ottobre</td><td>1966</td></tr>
-<tr><td colspan="2">Francia\* [tab] Territori d’oltremare: [tab] Comores, Nuovo Caledonia, [tab] Polinesia francese, [tab] St. Pierre e Miquelon</td><td>21 febbraio 27 novembre</td><td>1949 1974</td><td>21 febbraio 27 novembre</td><td>1950 1974</td></tr>
-<tr><td colspan="2">Gibuti</td><td>3 agosto</td><td>1978 S</td><td>3 agosto</td><td>1978</td></tr>
-<tr><td colspan="2">Gran Bretagna [tab] Guernesey, Jersey, [tab] Isola di Man [tab] Nyassaland\*, [tab] Rodesia del Nord\* [tab] Gibilterra\* [tab] Malta\*</td><td>29 aprile 29 aprile 20 agosto 11 novembre 10 giugno</td><td>1936 1936 1963 1964 1964</td><td>10 giugno 10 giugno 20 agosto 11 novembre 10 giugno</td><td>1938 1938 1963 1964 1964</td></tr>
-<tr><td colspan="2">Irlanda</td><td>10 giugno</td><td>1937</td><td>10 giugno</td><td>1938</td></tr>
-<tr><td colspan="2">Italia</td><td>22 ottobre</td><td>1952</td><td>22 ottobre</td><td>1953</td></tr>
-<tr><td colspan="2">Norvegia</td><td>20 maggio</td><td>1957</td><td>20 maggio</td><td>1958</td></tr>
-<tr><td colspan="2">Nouva Zelanda</td><td>29 marzo</td><td>1938</td><td>29 marzo</td><td>1939</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>17 gennaio</td><td>1966</td><td>17 gennaio</td><td>1967</td></tr>
-<tr><td colspan="2">Perù</td><td>4 aprile</td><td>1962</td><td>4 aprile</td><td>1963</td></tr>
-<tr><td colspan="2">Spagna</td><td>5 maggio</td><td>1971</td><td>5 maggio</td><td>1972</td></tr>
-<tr><td colspan="2">Svizzera</td><td>14 giugno</td><td>1939</td><td>14 giugno</td><td>1940</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni, vedere qui appresso.</td></tr>
+<tr><th>Stato</th><th>Ratificazione Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>19 ottobre</td><td>1962 S</td><td>19 ottobre</td><td>1962</td></tr>
+<tr><td>Bulgaria</td><td>29 dicembre</td><td>1949</td><td>29 dicembre</td><td>1950</td></tr>
+<tr><td>Francia\*</td><td>21 febbraio</td><td>1949</td><td>21 febbraio</td><td>1950</td></tr>
+<tr><td>Nuova Caledonia</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Polinesia francese</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>St. Pierre e Miquelon</td><td>27 novembre</td><td>1974</td><td>27 novembre</td><td>1974</td></tr>
+<tr><td>Gibuti</td><td>3 agosto</td><td>1978 S</td><td>3 agosto</td><td>1978</td></tr>
+<tr><td>Irlanda</td><td>10 giugno</td><td>1937</td><td>10 giugno</td><td>1938</td></tr>
+<tr><td>Italia</td><td>22 ottobre</td><td>1952</td><td>22 ottobre</td><td>1953</td></tr>
+<tr><td>Norvegia</td><td>20 maggio</td><td>1957</td><td>20 maggio</td><td>1958</td></tr>
+<tr><td>Nouva Zelanda</td><td>29 marzo</td><td>1938</td><td>29 marzo</td><td>1939</td></tr>
+<tr><td>Paesi Bassi</td><td>17 gennaio</td><td>1966</td><td>17 gennaio</td><td>1967</td></tr>
+<tr><td>Perù</td><td>4 aprile</td><td>1962</td><td>4 aprile</td><td>1963</td></tr>
+<tr><td>Regno Unito</td><td>29 aprile</td><td>1936</td><td>10 giugno</td><td>1938</td></tr>
+<tr><td>Guernesey</td><td>29 aprile</td><td>1963</td><td>10 giugno</td><td>1938</td></tr>
+<tr><td>Jersey</td><td>29 aprile</td><td>1963</td><td>10 giugno</td><td>1938</td></tr>
+<tr><td>Isola di Man</td><td>29 aprile</td><td>1963</td><td>10 giugno</td><td>1938</td></tr>
+<tr><td>Gibilterra\*</td><td>11 novembre</td><td>1964</td><td>11 novembre</td><td>1964</td></tr>
+<tr><td>Spagna</td><td>5 maggio</td><td>1971</td><td>5 maggio</td><td>1972</td></tr>
+<tr><td>Svizzera</td><td>14 giugno</td><td>1939</td><td>14 giugno</td><td>1940</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Riserve e dichiarazioni
-
-Francia
-
-La convenzione non è applicabile ai dipartimenti d’Oltre Mare della Guadalupa, della Martinica, della Guaiana e della Reunion.
-
-Gibilterra
-
-Articolo 1 capoverso 2: L’ordinanza relativa alle indennità d’assicurazione sociale ai non contribuenti non garantisce alcun sussidio ai disoccupati involontari non sottoposti al regime dell’assicurazione obbligatoria previsto nell’ordinanza relativa alle assicurazioni sociali.
-
-Articolo 2 lettera g: I lavoratori che hanno sorpassato una determinata età per la pensione perdono il diritto al sussidio, siano essi o no a beneficio di una pensione o di un assegno di vecchiaia.
-
-Articolo 16: Non è applicabile.
-
-Malta
-
-Articolo 3: Le indennità sono assegnate unicamente ai disoccupati.
-
-Nyassaland
-
-Non esiste un comitato misto rappresentante gli operai ed i datori di lavoro, suscettivo d’essere consultato per quanto concerne il funzionamento degli uffici di collocamenta,
-
-Rodesia del Nord
-
-La stessa riserva del Nyassaland.
+[^t-4]: [RU 1973 1136](https://fedlex.data.admin.ch/eli/oc/1973/1136_1136_1136); [1975 2493](https://fedlex.data.admin.ch/eli/oc/1975/2493_2493_2493); [1982 1830](https://fedlex.data.admin.ch/eli/oc/1982/1830_1830_1830); [2025 285](https://fedlex.data.admin.ch/eli/oc/2025/285). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
