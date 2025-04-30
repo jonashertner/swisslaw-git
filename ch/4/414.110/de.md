@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20250501-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. September 2023)
+vom 4. Oktober 1991 (Stand am 1. Mai 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 63*a* Absatz 1 und 64 Absatz 3 der Bundesverfassung[^i
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 1988 I 741](https://fedlex.data.admin.ch/eli/fga/1988/1_741_697_565)
 [^ingress-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011, in Kraft seit 15. Nov. 2011 ([AS 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [BBl 2011 757](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
@@ -48,7 +48,7 @@ Dieses Gesetz gilt für den Bereich der Eidgenössischen Technischen Hochschulen
 
 #### Art. 2
 
-**Zweck**
+**Aufgaben der ETH und der Forschungsanstalten[^2-1]**
 
 <sup>1</sup>
 
@@ -58,17 +58,24 @@ Die ETH und die Forschungsanstalten sollen:
 - b. durch Forschung die wissenschaftlichen Erkenntnisse erweitern;
 - c. den wissenschaftlichen Nachwuchs fördern;
 - d. wissenschaftliche und technische Dienstleistungen erbringen;
-- e.[^2-1] Öffentlichkeitsarbeit leisten;
-- f.[^2-2] ihre Forschungsergebnisse verwerten.
+- e.[^2-2] Öffentlichkeitsarbeit leisten;
+- f.[^2-3] ihre Forschungsergebnisse verwerten.
 
 <sup>2</sup> Sie berücksichtigen die Bedürfnisse des Landes.
 
 <sup>3</sup> Sie erfüllen ihre Aufgabe auf international anerkannten Stand und pflegen die internationale Zusammenarbeit.
 
+<sup>3bis</sup> Der Bundesrat kann ihnen in den Bereichen nach Absatz 1 weitere Aufgaben übertragen; die ETH und die Forschungsanstalten werden dafür abgegolten oder können dafür Gebühren erheben.[^2-4]
+
+<sup>3ter</sup> Sie erlassen die für die Aufgabenerfüllung nötigen Verfügungen.[^2-5]
+
 <sup>4</sup> Die Achtung vor der Würde des Menschen, die Verantwortung gegenüber seinen Lebensgrundlagen und der Umwelt sowie die Abschätzung von Technologiefolgen bilden Leitlinien für Lehre und Forschung.
 
-[^2-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 [^2-2]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-3]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-4]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^2-5]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 3
 
@@ -207,7 +214,7 @@ Die ETH erfüllen ihre Aufgaben in der Forschung, indem sie:
 <sup>3</sup> Sie lassen sich institutionell akkreditieren.
 
 [^10b-1]: Urpsünglich: Art. 10*a*. Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^10b-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 11
 
@@ -275,7 +282,7 @@ Angehörige der Hochschulen sind:
 
 <sup>1</sup> Die Schulleitung stellt Assistenten für eine zeitlich begrenzte Tätigkeit in Lehre und Forschung an. Die Assistenten haben Gelegenheit, sich durch Forschung oder den Besuch von Lehrveranstaltungen weiterzubilden.
 
-<sup>2</sup> und <sup>3</sup> …[^15-2]
+<sup>2 und <sup>3</sup></sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^15-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
@@ -333,8 +340,8 @@ Die Schulleitung regelt die Zulassungsbedingungen und das Zulassungsverfahren f�
 <sup>2</sup> Die übrigen Mitglieder des ETH-Rates stehen zum Bund in einem öffentlich-rechtlichen Auftragsverhältnis. Der Bundesrat legt die Entschädigung und die weiteren Vertragsbedingungen fest.
 
 [^16b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^16b-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^16b-3]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^16b-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^16b-3]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 17
 
@@ -366,8 +373,8 @@ Er kann in der Personalverordnung für die folgenden Personalkategorien bestimme
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^17-2]: Zur Vermeidung von Missverständnissen wird in diesem Artikel, anders als im übrigen ETH-Gesetz, nicht die generische Form «Professor» oder «Professoren» verwendet.
-[^17-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^17-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17a
 
@@ -380,7 +387,7 @@ Er kann in der Personalverordnung für die folgenden Personalkategorien bestimme
 <sup>3</sup> Die ETH und die Forschungsanstalten regeln die Entlöhnung für Lehraufträge.
 
 [^17a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Aug. 2008 ([AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [BBl 2007 1223](https://fedlex.data.admin.ch/eli/fga/2007/181)).
-[^17a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17b
 
@@ -599,7 +606,7 @@ Der ETH-Rat:
 [^25-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^25-3]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^25-4]: Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-5]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-5]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^25-6]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^25-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
@@ -613,7 +620,7 @@ An den Sitzungen des ETH-Rates verfügen die Mitglieder nach Artikel 24 Absätze
 
 - a. Zuteilung der Bundesmittel;
 - b. Wahlvorschläge für die Schulpräsidenten und die Direktoren der Forschungsanstalten;
-- c. Wahl der Mitglieder der ETH-Beschwerdekommission und weitere Beschlüsse in Angelegenheiten der ETH-Beschwerdekommission.
+- c.[^25a-2] …
 
 <sup>2</sup>
 
@@ -623,6 +630,7 @@ Die Mitglieder des ETH-Rates nach Artikel 24 Absätze 1 Buchstabe c sowie 3 tret
 - b. Angelegenheiten der Finanzaufsicht nach Artikel 35*a*<sup>ter</sup>.
 
 [^25a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25a-2]: Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 26
 
@@ -684,7 +692,7 @@ Der ETH-Rat verfügt über einen Stab.
 <sup>7</sup> Die Absätze 1–6 gelten sinngemäss für die Mitglieder der Direktionen der Forschungsanstalten.
 
 [^28-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^28-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 29
 
@@ -837,15 +845,18 @@ Der ETH-Rat unterbreitet dem Bundesrat jährlich folgende Unterlagen:
 
 <sup>2</sup> Die Studiengebühren für Schweizer Studierende sowie für ausländische Studierende mit Wohnsitz in der Schweiz sind sozialverträglich zu bemessen.[^34d-1]
 
-<sup>2bis</sup> Für ausländische Studierende, die zum Zweck des Studiums in der Schweiz Wohnsitz begründen oder die keinen Wohnsitz in der Schweiz haben, können höhere Studiengebühren festgelegt werden; diese dürfen aber höchstens dreimal so hoch sein wie die Studiengebühren nach Absatz 2.[^34d-2]
+<sup>2bis</sup> Für ausländische Studierende, die zum Zweck des Studiums in der Schweiz Wohnsitz begründen oder die keinen Wohnsitz in der Schweiz haben, werden höhere Studiengebühren festgelegt. Diese betragen mindestens das Dreifache der Studiengebühren nach Absatz 2.[^34d-2]
 
 <sup>3</sup> Der ETH-Rat erlässt die Gebührenverordnung. Beschliesst er Gebührenerhöhungen, so kann er Übergangsbestimmungen erlassen, um bei bereits immatrikulierten Studierenden Härtefälle zu vermeiden.[^34d-3]
 
 <sup>4</sup> Für Dienstleistungen setzen die ETH und Forschungsanstalten marktübliche Preise fest.
 
+<sup>5</sup> Für Leistungen, die die ETH und die Forschungsanstalten zur Erfüllung der vom Bundesrat zusätzlich übertragenen Aufgaben nach Artikel 2 Absatz 3<sup>bis</sup> erbringen und für die sie keine Abgeltungen erhalten, erheben sie Gebühren. Der Bundesrat legt die Gebühren für diese Leistungen fest.[^34d-4]
+
 [^34d-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^34d-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 [^34d-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-4]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 34e
 
@@ -988,7 +999,7 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 [^36a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^36a-2]: Fassung gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36a-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36b
 
@@ -1041,7 +1052,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 <sup>2</sup> Sie stellen sicher, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^36c-2] eingehalten werden.
 
 [^36c-1]: Fassung gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 36d
 
@@ -1053,7 +1064,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>3</sup> Nach Ablauf der Aufbewahrungsfrist sind die Daten zu vernichten; die Bestimmungen des Archivierungsgesetzes vom 26. Juni 1998[^36d-1] bleiben vorbehalten.
 
-[^36d-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^36d-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 36e
 
@@ -1075,7 +1086,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>2</sup> Sie stellen sicher, dass dabei die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^36f-1] über den Datenschutz eingehalten werden.
 
-[^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 6*b*. Kapitel: Sicherheit
 
@@ -1109,7 +1120,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>5</sup> Vorbehalten bleiben Bestimmungen betreffend die Betriebswachen gemäss Kernenergiegesetzgebung für die ETH und die Forschungsanstalten, die über eine Bewilligung nach dem Kernenergiegesetz vom 21. März 2003[^36h-1] verfügen.
 
-[^36h-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36h-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ### 2. Abschnitt: Videoüberwachung
 
@@ -1125,7 +1136,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>5</sup> Vorbehalten bleiben Bestimmungen betreffend die Sicherheitsvorkehren gemäss Kernenergiegesetzgebung für die ETH und die Forschungsanstalten, die über eine Bewilligung nach dem Kernenergiegesetz vom 21. März 2003[^36i-1] verfügen.
 
-[^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## 7. Kapitel: Rechtsschutz, Disziplinarrecht und Strafbestimmungen
 
@@ -1149,7 +1160,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 [^37-1]: Fassung gemäss Anhang Ziff. 36 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^37-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^37-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009, in Kraft seit 1. März 2010 ([AS 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [BBl 2009 469](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
@@ -1206,7 +1217,7 @@ Mit Busse wird bestraft, wer:[^38-1]
 
 <sup>2</sup> Die Strafverfolgung ist Sache der Kantone.
 
-[^38-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^38-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 ## 8. Kapitel: Schlussbestimmungen
 

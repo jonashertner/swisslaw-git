@@ -3,20 +3,22 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20250501-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les écoles polytechniques fédérales
+# Loi fédérale sur les écoles polytechniques fédérales\*
 
-(Loi sur les EPF)
+(Loi sur les EPF)[^t-1]
 
-du 4 octobre 1991 (État le 1<sup>er</sup> septembre 2023)
+du 4 octobre 1991 (État le 1<sup>er</sup> mai 2025)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,7 +26,7 @@ vu les art. 63*a*, al. 1, et 64, al. 3, de la Constitution[^ingress-1], vu le me
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1988 I 697](https://fedlex.data.admin.ch/eli/fga/1988/1_741_697_565)
 [^ingress-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 15 nov. 2011 ([RO 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 715](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
@@ -48,7 +50,7 @@ La présente loi s’applique au domaine des écoles polytechniques fédérales 
 
 #### Art. 2
 
-**But**
+**Tâches des EPF et des établissements de recherche[^2-1]**
 
 <sup>1</sup>
 
@@ -58,17 +60,24 @@ Les EPF et les établissements de recherche ont pour mission:
 - b. de se consacrer à la recherche en vue de faire progresser les connaissances scientifiques;
 - c. de promouvoir la relève scientifique;
 - d. de fournir des services de caractère scientifique et technique;
-- e.[^2-1] d’assurer le dialogue avec le public;
-- f.[^2-2] de valoriser les résultats de leurs recherches.
+- e.[^2-2] d’assurer le dialogue avec le public;
+- f.[^2-3] de valoriser les résultats de leurs recherches.
 
 <sup>2</sup> Ils tiennent compte des besoins du pays.
 
 <sup>3</sup> Ils accomplissent leurs tâches à un niveau reconnu à l’échelle internationale et favorisent la coopération internationale.
 
+<sup>3bis</sup> Le Conseil fédéral peut leur confier d’autres tâches dans les domaines visés à l’al. 1; en contrepartie, ils reçoivent des indemnités ou peuvent prélever des émoluments.[^2-4]
+
+<sup>3ter</sup> Ils prennent les décisions nécessaires à l’accomplissement de leurs tâches.[^2-5]
+
 <sup>4</sup> Le respect de la dignité humaine, la responsabilité à l’égard des bases d’existence de l’homme et à l’égard de l’environnement ainsi que l’évaluation des retombées technologiques guident l’enseignement et la recherche.
 
-[^2-1]: Introduite par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 [^2-2]: Introduite par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-3]: Introduite par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-4]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^2-5]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 3
 
@@ -208,7 +217,7 @@ Les EPF accomplissent leurs tâches de recherche:
 <sup>3</sup> Elles demandent leur accréditation d’institution.
 
 [^10b-1]: Anciennement art. 10*a*. Introduit par le ch. I de la LF du 21 mars 2003 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 11
 
@@ -276,7 +285,7 @@ Relèvent des EPF:
 
 <sup>1</sup> La direction de l’école engage des assistants pour leur confier des tâches d’enseignement et de recherche à titre temporaire. Ils ont la possibilité de se perfectionner en faisant de la recherche ou en suivant des cours.
 
-<sup>2</sup> et <sup>3</sup> …[^15-2]
+<sup>2 et <sup>3</sup></sup> …[^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^15-2]: Abrogés par le ch. I de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
@@ -334,8 +343,8 @@ La direction de l’école fixe les conditions et la procédure d’admission po
 <sup>2</sup> Les autres membres du Conseil des EPF sont liés à la Confédération par un mandat de droit public. Le Conseil fédéral fixe l’indemnisation et les autres dispositions contractuelles.
 
 [^16b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^16b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^16b-3]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^16b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^16b-3]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 17
 
@@ -343,7 +352,7 @@ La direction de l’école fixe les conditions et la procédure d’admission po
 
 <sup>1</sup> Les rapports de travail du personnel et des professeurs sont régis par la LPers[^17-2], à moins que la présente loi n’en dispose autrement. À l’égard du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 3, al. 2, LPers.
 
-<sup>2</sup> Le Conseil des EPF édicte une ordonnance sur le personnel et une ordonnance sur le corps professoral, qu’il soumet toutes deux à l’approbation du Conseil fédéral.
+<sup>2</sup> Le Conseil des EPF édicte une ordonnance sur le personnel et une ordonnance concernant les professeurs, qu’il soumet toutes deux à l’approbation du Conseil fédéral.[^17-3]
 
 <sup>3</sup>
 
@@ -357,17 +366,20 @@ Il peut prévoir, dans l’ordonnance sur le personnel, une dérogation à l’a
 
 <sup>5</sup> Il peut déléguer aux directions des EPF et des établissements de recherche les décisions relevant de l’employeur ainsi que l’édiction de dispositions d’exécution de l’ordonnance sur le personnel.
 
-<sup>6</sup> Dans la mesure où les besoins spécifiques de l’enseignement et de la recherche le commandent, le Conseil des EPF peut, dans le cadre fixé par l’art. 6, al. 5, LPers, édicter dans l’ordonnance sur le corps professoral des prescriptions concernant les rapports de travail de droit privé des professeurs.
+<sup>6</sup> Dans la mesure où les besoins spécifiques de l’enseignement et de la recherche le commandent, le Conseil des EPF peut, dans le cadre fixé par l’art. 6, al. 5, LPers, édicter dans l’ordonnance concernant les professeurs des prescriptions relatives aux rapports de travail de droit privé des professeurs.[^17-4]
 
-<sup>7</sup> Si des circonstances exceptionnelles le justifient, le Conseil des EPF peut employer un professeur au-delà de l’âge limite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^17-3]. Il peut conclure à cet effet un contrat de travail de droit public ou de droit privé. Il peut édicter des dispositions en la matière dans l’ordonnance sur le corps professoral.
+<sup>7</sup> Si des circonstances exceptionnelles le justifient, le Conseil des EPF peut employer un professeur au-delà de l’âge limite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^17-5]. Il peut conclure à cet effet un contrat de travail de droit public ou de droit privé. Il peut édicter des dispositions en la matière dans l’ordonnance concernant les professeurs.[^17-6]
 
 <sup>8</sup> Sur proposition des EPF et en accord avec le Conseil des EPF, les professeures peuvent rester engagées jusqu’à l’âge limite fixé pour les hommes à l’art. 21, al. 1, let. a, LAVS, ou jusqu’à la fin du semestre au cours duquel elles atteignent cet âge limite.
 
 <sup>9</sup> Le personnel et les professeurs sont assurés auprès de la Caisse fédérale de pensions (PUBLICA) conformément aux art. 32*a* à 32*m* LPers. À l’égard du personnel du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 32*b*, al. 2, LPers. Il représente le domaine des EPF en qualité de partie contractante.
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^17-3]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^17-4]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^17-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^17-6]: Nouvelle teneur de la phrase selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 17a
 
@@ -380,7 +392,7 @@ Il peut prévoir, dans l’ordonnance sur le personnel, une dérogation à l’a
 <sup>3</sup> Les EPF et les établissements de recherche règlent la rémunération.
 
 [^17a-1]: Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)432; [FF 2007 1149](https://fedlex.data.admin.ch/eli/fga/2007/181)).
-[^17a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17b
 
@@ -599,7 +611,7 @@ Le Conseil des EPF:
 [^25-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^25-3]: Abrogée par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^25-4]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-5]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-5]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^25-6]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^25-7]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
@@ -613,7 +625,7 @@ Aux séances du Conseil des EPF, les membres visés à l’art. 24, al. 1, let. 
 
 - a. répartition des fonds fédéraux;
 - b. proposition de candidats pour la nomination des présidents des écoles et des directeurs des établissements de recherche;
-- c. nomination des membres de la Commission de recours interne des EPF et autres décisions concernant les affaires de la Commission de recours interne des EPF.
+- c.[^25a-2] …
 
 <sup>2</sup>
 
@@ -623,6 +635,7 @@ Les membres du Conseil des EPF visés à l’art. 24, al. 1, let. c, et 3, se r�
 - b. questions relatives à la surveillance des finances au sens de l’art. 35*a*<sup>ter</sup>.
 
 [^25a-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25a-2]: Abrogée par le ch. I de la LF du 27 sept. 2024, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 26
 
@@ -684,7 +697,7 @@ Le Conseil des EPF dispose d’un état-major.
 <sup>7</sup> Les al. 1 à 6 s’appliquent par analogie aux membres de la direction des établissements de recherche.
 
 [^28-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 29
 
@@ -837,15 +850,18 @@ Le Conseil des EPF soumet chaque année au Conseil fédéral les documents suiva
 
 <sup>2</sup> Le montant des taxes d’études pour les étudiants suisses et les étudiants étrangers domiciliés en Suisse doit être socialement supportable.[^34d-1]
 
-<sup>2bis</sup> Pour les étudiants étrangers qui élisent domicile en Suisse pour y étudier ou qui ne sont pas domiciliés en Suisse, des taxes d’études plus élevées peuvent être fixées; celles-ci ne peuvent toutefois pas être supérieures au triple du montant des taxes d’études visé à l’al. 2.[^34d-2]
+<sup>2bis</sup> Pour les étudiants étrangers qui élisent domicile en Suisse pour y étudier ou qui ne sont pas domiciliés en Suisse, des taxes d’études plus élevées sont fixées. Celles-ci sont au moins trois fois plus élevées que les taxes d’études visées à l’al. 2.[^34d-2]
 
 <sup>3</sup> Le Conseil des EPF édicte l’ordonnance sur les taxes du domaine des EPF. Lorsqu’il fixe des taxes plus élevées, il peut édicter des dispositions transitoires pour prévenir des cas de rigueur concernant les étudiants déjà immatriculés.[^34d-3]
 
 <sup>4</sup> Les EPF et les établissements de recherche fournissent leurs prestations au prix du marché.
 
+<sup>5</sup> Les EPF et les établissements de recherche prélèvent des émoluments pour les prestations qu’ils fournissent en vue d’accomplir les tâches supplémentaires qui leur sont confiées par le Conseil fédéral en vertu de l’art. 2, al. 3<sup>bis</sup>, pour autant qu’ils ne reçoivent pas d’indemnités en contrepartie. Le Conseil fédéral fixe le montant des émoluments pour ces prestations.[^34d-4]
+
 [^34d-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^34d-2]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-2]: Introduit par le ch. I de la LF du 30 sept. 2016 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)). Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 [^34d-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-4]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 34e
 
@@ -988,7 +1004,7 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 [^36a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^36a-2]: Nouvelle teneur selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36b
 
@@ -1041,7 +1057,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 <sup>2</sup> Ils assurent, ce faisant, le respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^36c-2].
 
 [^36c-1]: Nouvelle teneur selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 36d
 
@@ -1053,7 +1069,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>3</sup> Après échéance du délai de conservation, les données doivent être détruites, sous réserve des dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^36d-1].
 
-[^36d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^36d-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 36e
 
@@ -1075,7 +1091,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>2</sup> Ils s’assurent du respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^36f-1].
 
-[^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Chapitre 6*b* Sécurité
 
@@ -1109,7 +1125,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>5</sup> Sont réservées les dispositions sur les équipes de surveillance prévues dans la législation sur l’énergie nucléaire applicables aux EPF et aux établissements de recherche détenteurs d’une autorisation délivrée en vertu de la loi fédérale du 21 mars 2003 sur l’énergie nucléaire[^36h-1].
 
-[^36h-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36h-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ### Section 2 Vidéosurveillance
 
@@ -1125,7 +1141,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>5</sup> Sont réservées les dispositions sur les mesures de sécurité prévues dans la législation sur l’énergie nucléaire applicables aux EPF et aux établissements de recherche détenteurs d’une autorisation délivrée en vertu de la loi fédérale du 21 mars 2003 sur l’énergie nucléaire[^36i-1].
 
-[^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Chapitre 7 Voies de recours, droit disciplinaire et dispositions pénales
 
@@ -1149,7 +1165,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 [^37-1]: Nouvelle teneur selon l’annexe ch. 36 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^37-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^37-4]: Nouvelle teneur selon le ch. II al. 2 de la LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 419](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
@@ -1206,7 +1222,7 @@ Est puni de l’amende quiconque:
 
 <sup>2</sup> La poursuite pénale est du ressort des cantons.
 
-[^38-1]: Nouvelle teneur selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^38-1]: Nouvelle teneur selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ## Chapitre 8 Dispositions finales
 
@@ -1257,7 +1273,7 @@ Sont abrogés:
 …[^40-8]
 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^40-2]: [RS **4** 109; [RO 1959 557](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 al. 1 et 3, **1979** 114 art. 70]
+[^40-2]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)109; [RO 1959 557](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 al. 1 et 3, **1979** 114 art. 70]
 [^40-3]: [[RO 1965 421](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
 [^40-4]: [[RO 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
 [^40-5]: [[RO 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]

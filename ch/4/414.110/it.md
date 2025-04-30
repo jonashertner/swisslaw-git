@@ -3,11 +3,11 @@ sr: "414.110"
 title: Legge federale del 4 ottobre 1991 sui politecnici federali (Legge sui PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: it
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20250501/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20250501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/it"
 
 (Legge sui PF)
 
-del 4 ottobre 1991 (Stato 1° settembre 2023)
+del 4 ottobre 1991 (Stato 1° maggio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,9 +24,9 @@ visti gli articoli 63*a* capoverso 1 e 64 capoverso 3 della Costituzione federal
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1988 I 565](https://fedlex.data.admin.ch/eli/fga/1988/1_741_697_565)
-[^ingress-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+[^ingress-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -44,11 +44,11 @@ La presente legge si applica al settore dei politecnici federali (settore dei PF
 
 <sup>2</sup> Questi istituti sono gestiti dalla Confederazione.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 2
 
-**Scopo**
+**Compiti dei PF e degli istituti di ricerca[^2-1]**
 
 <sup>1</sup>
 
@@ -58,17 +58,24 @@ I PF e gli istituti di ricerca devono:
 - b. dedicarsi alla ricerca e contribuire in tal modo allo sviluppo delle conoscenze scientifiche;
 - c. incoraggiare la formazione di nuove leve scientifiche;
 - d. fornire servizi di carattere scientifico e tecnico;
-- e.[^2-1] curare le pubbliche relazioni;
-- f.[^2-2] valorizzare i risultati delle loro ricerche.
+- e.[^2-2] curare le pubbliche relazioni;
+- f.[^2-3] valorizzare i risultati delle loro ricerche.
 
 <sup>2</sup> Essi tengono conto dei bisogni del Paese.
 
 <sup>3</sup> Essi adempiono i loro compiti ad un livello internazionalmente riconosciuto e si curano di favorire la cooperazione internazionale.
 
+<sup>3bis</sup> Negli ambiti di cui al capoverso 1 il Consiglio federale può assegnare loro ulteriori compiti; per tali compiti i PF e gli istituti di ricerca ricevono un compenso o possono riscuotere tasse.[^2-4]
+
+<sup>3ter</sup> I PF e gli istituti di ricerca pronunciano le decisioni necessarie all’adempimento dei loro compiti.[^2-5]
+
 <sup>4</sup> Il rispetto della dignità umana, la responsabilità rispetto alle basi esistenziali dell’uomo e all’ambiente nonché la valutazione delle ripercussioni tecnologiche improntano l’insegnamento e la ricerca.
 
-[^2-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^2-2]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^2-2]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-3]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-4]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^2-5]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 3
 
@@ -82,8 +89,8 @@ I PF e gli istituti di ricerca devono:
 
 <sup>4</sup> I PF presentano alla Conferenza svizzera delle scuole universitarie i loro costi medi d’insegnamento per studente.[^3-2]
 
-[^3-1]: Nuovo testo giusta l’all. n. II 3 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^3-2]: Introdotto dall’all. n. II 3 della del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-1]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-2]: Introdotto dall’all. cifra II n. 3 della del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 3a
 
@@ -91,7 +98,7 @@ I PF e gli istituti di ricerca devono:
 
 Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il settore dei PF e delle istruzioni del Consiglio dei PF, i PF e gli istituti di ricerca possono costituire società, partecipare a società oppure collaborare in altro modo con terzi al fine di adempiere i propri compiti.
 
-[^3a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^3a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 4
 
@@ -103,14 +110,14 @@ Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il 
 
 <sup>3</sup> I PF e gli istituti di ricerca esercitano le competenze che non sono espressamente assegnate al Consiglio dei PF.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^4-2]: Nuova espr. giusta il n. I 9 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^4-2]: Nuova espr. giusta la cifra I n. 9 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4a
 
 [^4a-1]
 
-[^4a-1]: Introdotto dall’all. n. 3 della del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dal’all. n. 9 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^4a-1]: Introdotto dall’all. n. 3 della del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) (RU **2007** 5259; FF **2006** 471). Abrogato dal’all. n. 9 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 (RU **2021** 758; FF **2019** 6043).
 
 ## Capitolo 2: Politecnici federali
 
@@ -128,7 +135,7 @@ Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il 
 
 <sup>4</sup> …[^5-1]
 
-[^5-1]: Abrogato dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^5-1]: Abrogato dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 6
 
@@ -162,8 +169,8 @@ I PF adempiono il loro compito di insegnamento, in particolare:
 
 <sup>2</sup> A tal fine si appoggiano in particolare all’attività di ricerca dei membri del corpo insegnante.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^8-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^8-2]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 9
 
@@ -194,7 +201,7 @@ I PF adempiono il loro compito di ricerca:
 
 <sup>2</sup> Il Consiglio federale disciplina l’utilizzo dei ricavi così ottenuti.
 
-[^10a-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^10a-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 10b
 
@@ -206,8 +213,8 @@ I PF adempiono il loro compito di ricerca:
 
 <sup>3</sup> Provvedono a ottenere un accreditamento istituzionale.
 
-[^10b-1]: Originario art. 10*a*. Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta l’all. n. II 3 della del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-1]: Originario art. 10*a*. Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta l’all. cifra II n. 3 della del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 11
 
@@ -219,8 +226,8 @@ I PF adempiono il loro compito di ricerca:
 
 <sup>3</sup> Essi promuovono lo sport universitario.[^11-2]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^11-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^11-2]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 12
 
@@ -232,7 +239,7 @@ I PF adempiono il loro compito di ricerca:
 
 <sup>3</sup> I PF curano le lingue nazionali e promuovono la comprensione dei rispettivi valori culturali.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Sezione 2: Membri dei PF e relative attività
 
@@ -251,8 +258,8 @@ Sono membri dei PF:
 
 <sup>2</sup> Il Consiglio dei PF può istituire altre categorie di membri del corpo insegnante.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^13-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^13-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 14
 
@@ -266,8 +273,8 @@ Sono membri dei PF:
 
 <sup>4</sup> La Direzione della scuola conferisce la *venia legendi* e designa i *maîtres d’en**seignement et de recherche* e gli incaricati di corsi.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^14-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 15
 
@@ -275,10 +282,10 @@ Sono membri dei PF:
 
 <sup>1</sup> La Direzione della scuola assume assistenti per attività di insegnamento e di ricerca di durata limitata. Essi hanno la possibilità di perfezionarsi svolgendo ricerche o seguendo corsi.
 
-<sup>2</sup> e <sup>3</sup> …[^15-2]
+<sup>2 e <sup>3</sup></sup> …[^15-2]
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^15-2]: Abrogati dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^15-2]: Abrogati dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 16
 
@@ -303,7 +310,7 @@ La Direzione della scuola disciplina le condizioni e la procedura d’ammissione
 - d. i programmi di perfezionamento accademico;
 - e. gli uditori.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
 
 #### Art. 16a
 
@@ -319,10 +326,10 @@ La Direzione della scuola disciplina le condizioni e la procedura d’ammissione
 
 <sup>5</sup> La Direzione della scuola stabilisce le condizioni e la procedura d’ammissione.
 
-[^16a-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
-[^16a-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^16a-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^16a-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^16a-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^16a-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^16a-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^16a-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 16b
 
@@ -332,9 +339,9 @@ La Direzione della scuola disciplina le condizioni e la procedura d’ammissione
 
 <sup>2</sup> Gli altri membri del Consiglio dei PF sono legati alla Confederazione da un mandato di diritto pubblico. Il Consiglio federale stabilisce le indennità e le altre condizioni contrattuali.
 
-[^16b-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^16b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^16b-3]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^16b-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^16b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^16b-3]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 17
 
@@ -364,9 +371,9 @@ Nell’ordinanza sul personale il Consiglio dei PF può prevedere che per i coll
 
 <sup>9</sup> Il personale e i professori sono assicurati presso la Cassa pensioni della Confederazione (PUBLICA) secondo gli articoli 32*a*–32*m* LPers. Per il settore dei PF, il Consiglio dei PF è il datore di lavoro secondo l’articolo 32*b* capoverso 2 LPers. Esso rappresenta il settore dei PF in qualità di parte contraente.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17a
 
@@ -378,8 +385,8 @@ Nell’ordinanza sul personale il Consiglio dei PF può prevedere che per i coll
 
 <sup>3</sup> I PF e gli istituti di ricerca disciplinano la retribuzione degli incaricati di corsi.
 
-[^17a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
-[^17a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+[^17a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17b
 
@@ -399,7 +406,7 @@ Un contratto di lavoro di durata determinata può essere rinnovato più volte pe
 <sup>3</sup> I termini previsti al capoverso 2 lettere a e b possono, su domanda, essere prorogati in caso di assenza prolungata dovuta a malattia, infortunio, maternità, adozione o altro motivo importante.[^17b-2]
 
 [^17b-1]: Introdotto dall’all. n. 2 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^17b-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^17b-2]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 18
 
@@ -407,7 +414,7 @@ Un contratto di lavoro di durata determinata può essere rinnovato più volte pe
 
 Nelle pubblicazioni scientifiche devono essere menzionate tutte le persone che vi hanno collaborato sul piano scientifico.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 19
 
@@ -426,7 +433,7 @@ I PF conferiscono:
 
 <sup>3</sup> I PF possono rilasciare certificati ed attestati.
 
-[^19-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^19-1]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 20
 
@@ -436,13 +443,13 @@ I PF conferiscono:
 
 <sup>2</sup> I PF possono conferire il titolo di dottore honoris causa a persone che si sono particolarmente distinte in campo scientifico.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Sezione 3: Integrità scientifica e buona prassi scientifica
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^chap2-sec3-1]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 20a
 
@@ -502,7 +509,7 @@ Il Consiglio dei PF, il PF o l’istituto di ricerca comunica per iscritto alla 
 
 Istituti di ricerca possono essere istituiti o soppressi mediante ordinanza dell’Assemblea federale.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 23
 
@@ -534,9 +541,9 @@ Il Consiglio federale nomina per un periodo di quattro anni i seguenti membri de
 
 <sup>4</sup> Il Consiglio federale può revocare per motivi gravi i membri del Consiglio dei PF durante il loro mandato.[^24-3]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^24-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^24-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 24a
 
@@ -544,7 +551,7 @@ Il Consiglio federale nomina per un periodo di quattro anni i seguenti membri de
 
 Il Consiglio dei PF può formare comitati.
 
-[^24a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24a-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 24b
 
@@ -554,7 +561,7 @@ Il Consiglio dei PF può formare comitati.
 
 <sup>2</sup> Il Consiglio dei PF adotta i provvedimenti organizzativi necessari per tutelare gli interessi del settore dei PF ed evitare conflitti d’interesse.
 
-[^24b-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24b-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 24c
 
@@ -568,7 +575,7 @@ Il Consiglio dei PF può formare comitati.
 
 <sup>4</sup> Il Consiglio dei PF informa nel quadro del resoconto annuale sulle relazioni d’interesse dei suoi membri.
 
-[^24c-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24c-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 25
 
@@ -594,13 +601,13 @@ Il Consiglio dei PF:
 
 <sup>4</sup> Esercita la sorveglianza sul settore dei PF. In particolare può esprimere raccomandazioni ai PF e agli istituti di ricerca, dopo averne sentito il parere, e, in casi motivati, assegnare loro incarichi. Se constata una violazione del diritto può adottare le misure del caso, dopo aver sentito il parere dell’istituzione interessata.[^25-7]
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Abrogata dal n. I della LF del 19 mar. 2021, con effetto dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^25-4]: Nuovo testo giusta l’all. n. II 3 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-5]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^25-6]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^25-7]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-3]: Abrogata dalla cifra I della LF del 19 mar. 2021, con effetto dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-4]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-5]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^25-6]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-7]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 25a
 
@@ -612,7 +619,7 @@ Durante le sedute del Consiglio dei PF, i membri di cui all’articolo 24 capove
 
 - a. alla ripartizione dei mezzi finanziari della Confederazione;
 - b. alle proposte di nomina dei presidenti delle scuole e dei direttori degli istituti di ricerca;
-- c. alla nomina dei membri della Commissione di ricorso dei PF e ad altre decisioni su questioni relative alla Commissione di ricorso dei PF.
+- c. ...[^25a-2]
 
 <sup>2</sup>
 
@@ -621,7 +628,8 @@ I membri del Consiglio dei PF di cui all’articolo 24 capoversi 1 lettera c e 3
 - a. questioni relative alla sorveglianza secondo l’articolo 25 capoverso 4;
 - b. questioni relative alla vigilanza finanziaria secondo l’articolo 35*a*<sup>ter</sup>.
 
-[^25a-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25a-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25a-2]: Abrogata dalla cifra I della LF del 27 set. 2024, con effetto dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 26
 
@@ -631,7 +639,7 @@ I membri del Consiglio dei PF di cui all’articolo 24 capoversi 1 lettera c e 3
 
 <sup>2</sup> Rappresenta il settore dei PF verso l’esterno.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 26a
 
@@ -639,7 +647,7 @@ I membri del Consiglio dei PF di cui all’articolo 24 capoversi 1 lettera c e 3
 
 Il Consiglio dei PF può istituire un comitato consultivo scientifico.
 
-[^26a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 26b
 
@@ -647,7 +655,7 @@ Il Consiglio dei PF può istituire un comitato consultivo scientifico.
 
 Il Consiglio dei PF dispone di uno stato maggiore.
 
-[^26b-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26b-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Sezione 2: Politecnici federali
 
@@ -661,7 +669,7 @@ Il Consiglio dei PF dispone di uno stato maggiore.
 
 <sup>3</sup> ...[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^27-2]: Abrogato dall’all. n. 2 della LF del 14 dic. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 28
@@ -683,7 +691,7 @@ Il Consiglio dei PF dispone di uno stato maggiore.
 <sup>7</sup> I capoversi 1–6 si applicano per analogia ai membri delle direzioni degli istituti di ricerca.
 
 [^28-1]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 29
 
@@ -701,7 +709,7 @@ Il Consiglio dei PF dispone di uno stato maggiore.
 
 <sup>2</sup> I membri del corpo insegnante stabiliscono la procedura di nomina e il regolamento interno della Conferenza.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 31
 
@@ -723,7 +731,7 @@ L’assemblea della scuola ha il diritto di formulare proposte:
 
 <sup>5</sup> Prima di adottare decisioni di interesse generale per la scuola, la Direzione della scuola e il Consiglio dei PF consultano l’assemblea e i gruppi di membri della scuola.
 
-[^31-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^31-1]: Nuovo testo del per. giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 32
 
@@ -742,14 +750,14 @@ I rappresentanti di tutti i gruppi di membri dei PF partecipano, se interessati:
 
 <sup>4</sup> Per il rimanente, il Consiglio dei PF disciplina l’estensione e le modalità della cogestione.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ## Capitolo 5: Obiettivi strategici e finanze
 
 [^chap5-1][^chap5-2]
 
-[^chap5-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^chap5-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^chap5-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap5-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 33
 
@@ -763,7 +771,7 @@ I rappresentanti di tutti i gruppi di membri dei PF partecipano, se interessati:
 
 <sup>4</sup> Il Consiglio federale può modificare gli obiettivi strategici durante il periodo di validità se motivi gravi e non prevedibili lo richiedono.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 33a
 
@@ -775,7 +783,7 @@ I rappresentanti di tutti i gruppi di membri dei PF partecipano, se interessati:
 
 <sup>3</sup> Il Consiglio dei PF ripartisce i mezzi finanziari della Confederazione; a tal fine, si fonda in particolare sulle proposte budgetarie presentate dai PF e dagli istituti di ricerca.
 
-[^33a-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^33a-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 34
 
@@ -788,7 +796,7 @@ Il Consiglio dei PF sottopone ogni anno al Consiglio federale i seguenti documen
 - c. il rapporto di verifica dell’organo di revisione;
 - d. il rapporto del Controllo federale delle finanze, qualora quest’ultimo abbia verificato il settore dei PF nell’anno corrispondente.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 34a
 
@@ -798,7 +806,7 @@ Il Consiglio dei PF sottopone ogni anno al Consiglio federale i seguenti documen
 
 <sup>2</sup> Il Consiglio federale informa l’Assemblea federale.
 
-[^34a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^34a-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 34b
 
@@ -818,7 +826,7 @@ Il Consiglio dei PF sottopone ogni anno al Consiglio federale i seguenti documen
 
 <sup>2</sup> Il Consiglio federale può rinunciare ai ricavi derivanti dal trasferimento, purché siano di modesta entità e il trasferimento dell’utilizzazione sia nell’interesse della Confederazione.
 
-[^34bbis-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34bbis-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 34c
 
@@ -836,15 +844,18 @@ Il Consiglio dei PF sottopone ogni anno al Consiglio federale i seguenti documen
 
 <sup>2</sup> L’importo delle tasse universitarie per gli studenti svizzeri e per gli studenti stranieri domiciliati in Svizzera deve essere socialmente sostenibile.[^34d-1]
 
-<sup>2bis</sup> Per gli studenti stranieri che eleggono domicilio in Svizzera a scopo di studio o che non hanno domicilio in Svizzera possono essere fissate tasse universitarie più elevate; queste possono ammontare al massimo al triplo delle tasse universitarie di cui al capoverso 2.[^34d-2]
+<sup>2bis</sup> Per gli studenti stranieri che eleggono domicilio in Svizzera a scopo di studio o che non hanno domicilio in Svizzera sono fissate tasse universitarie più elevate. Queste ammontano almeno al triplo delle tasse universitarie di cui al capoverso 2.[^34d-2]
 
 <sup>3</sup> Il Consiglio dei PF emana l’ordinanza sulle tasse nel settore dei PF. Qualora decida un aumento delle tasse, può emanare disposizioni transitorie per evitare casi di rigore nei confronti degli studenti già immatricolati.[^34d-3]
 
 <sup>4</sup> I PF e gli istituti di ricerca forniscono le loro prestazioni a prezzi di mercato.
 
-[^34d-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^34d-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^34d-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+<sup>5</sup> I PF e gli istituti di ricerca riscuotono tasse per le prestazioni che forniscono per adempiere i compiti supplementari loro assegnati dal Consiglio federale secondo l’articolo 2 capoverso 3<sup>bis</sup> e per le quali non ricevono compensi. Il Consiglio federale stabilisce l’importo di tali tasse.[^34d-4]
+
+[^34d-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-2]: Introdotto dalla cifra I della LF del 30 set. 2016 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)). Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^34d-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-4]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° mag. 2025 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 34e
 
@@ -875,9 +886,9 @@ La relazione sulla gestione contiene la relazione annuale e il conto annuale del
 
 <sup>4</sup> Dopo la sua approvazione, il Consiglio dei PF pubblica la relazione sulla gestione.[^35-3]
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
-[^35-2]: Per. introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^35-3]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^35-2]: Per. introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35-3]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 35a
 
@@ -893,9 +904,9 @@ La relazione sulla gestione contiene la relazione annuale e il conto annuale del
 
 <sup>5</sup> Il Consiglio federale può emanare prescrizioni sulle finanze e sulla contabilità.[^35a-3]
 
-[^35a-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
-[^35a-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^35a-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35a-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^35a-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35a-3]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 35a<sup>bis</sup>
 
@@ -903,7 +914,7 @@ La relazione sulla gestione contiene la relazione annuale e il conto annuale del
 
 Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF e gli istituti di ricerca gestiscono ognuno un sistema di controllo interno e un sistema di gestione del rischio.
 
-[^35abis-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35abis-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 35a<sup>ter</sup>
 
@@ -916,8 +927,8 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 <sup>3</sup> I conti del settore dei PF sono revisionati dal Controllo federale delle finanze.
 
 [^35ater-1]: Originario art. 35*a* e 35*a*<sup>bis</sup>.
-[^35ater-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^35ater-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^35ater-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35ater-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 35a<sup>quater</sup>
 
@@ -929,13 +940,13 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 <sup>3</sup> L’AFF e il Consiglio dei PF concordano i particolari in un contratto di diritto pubblico.
 
-[^35aquater-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35aquater-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 ## Capitolo 6: Fondi e diritti su beni immateriali
 
 [^chap6-1]
 
-[^chap6-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap6-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 35b
 
@@ -945,7 +956,7 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 <sup>2</sup> Il Consiglio dei PF coordina la gestione dei fondi e provvede a conservarne il valore e la funzione.
 
-[^35b-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^35b-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 36
 
@@ -959,7 +970,7 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 <sup>4</sup> Il Consiglio dei PF disciplina le disposizioni esecutive in un’ordinanza; questa ordinanza sottostà all’approvazione del Consiglio federale.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ## Capitolo 6*a*: Trattamento dei dati
 
@@ -971,7 +982,7 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 [^chap6a-sec1-1]
 
-[^chap6a-sec1-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^chap6a-sec1-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 36a
 
@@ -985,9 +996,9 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 <sup>4</sup> Il Consiglio dei PF emana le disposizioni d’esecuzione e le sottopone per approvazione al Consiglio federale.
 
-[^36a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^36a-2]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^36a-2]: Nuovo testo giusta l’all. 1 cifra II n. 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36b
 
@@ -1022,14 +1033,14 @@ I PF emanano disposizioni d’esecuzione concernenti:
 - e. le autorizzazioni d’accesso ai dati in seno ai PF;
 - f. la comunicazione a organizzazioni e persone che non fanno parte dei PF, mediante procedura di richiamo, di dati personali non degni di particolare protezione, registrati nei sistemi d’informazione.
 
-[^36b-1]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36b-2]: Nuovo testo del per. giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-1]: Nuovo testo giusta l’all. 1 cifra II n. 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-2]: Nuovo testo del per. giusta l’all. 1 cifra II n. 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Trattamento dei dati personali nell’ambito di progetti di ricerca
 
 [^chap6a-sec2-1]
 
-[^chap6a-sec2-1]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^chap6a-sec2-1]: Introdotta dalla cifra I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 36c
 
@@ -1039,8 +1050,8 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>2</sup> Garantiscono l’osservanza delle disposizioni della legge federale del 25 settembre 2020[^36c-2] sulla protezione dei dati.
 
-[^36c-1]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-1]: Nuovo testo giusta l’all. 1 cifra II n. 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 36d
 
@@ -1052,7 +1063,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>3</sup> Trascorso il termine di conservazione devono essere distrutti; sono fatte salve le disposizioni della legge federale del 26 giugno 1998[^36d-1] sull’archiviazione.
 
-[^36d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^36d-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 36e
 
@@ -1066,7 +1077,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 [^chap6a-sec3-1]
 
-[^chap6a-sec3-1]: Introdotta dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^chap6a-sec3-1]: Introdotta dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 36f
 
@@ -1074,13 +1085,13 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>2</sup> Garantiscono l’osservanza delle disposizioni della legge federale del 19 giugno 1992[^36f-1] sulla protezione dei dati.
 
-[^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Capitolo 6*b*: Sicurezza
 
 [^chap6b-1]
 
-[^chap6b-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^chap6b-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 ### Sezione 1: Servizi di sicurezza
 
@@ -1108,7 +1119,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>5</sup> Sono fatte salve le disposizioni concernenti i corpi di guardia conformemente alla legislazione sull’energia nucleare applicabili ai PF e agli istituti di ricerca che dispongono di una licenza secondo la legge federale del 21 marzo 2003[^36h-1] sull’energia nucleare.
 
-[^36h-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36h-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ### Sezione 2: Videosorveglianza
 
@@ -1124,13 +1135,13 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>5</sup> Sono fatte salve le disposizioni concernenti le misure di sicurezza conformemente alla legislazione sull’energia nucleare applicabili ai PF e agli istituti di ricerca che dispongono di una licenza secondo la legge federale del 21 marzo 2003[^36i-1] sull’energia nucleare.
 
-[^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Capitolo 7: Protezione giuridica, diritto disciplinare e disposizioni penali
 
 [^chap7-1]
 
-[^chap7-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^chap7-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37
 
@@ -1147,15 +1158,15 @@ I PF emanano disposizioni d’esecuzione concernenti:
 <sup>4</sup> Nelle procedure di ricorso contro le decisioni in materia di esito di esami e promozioni non può essere invocata l’inadeguatezza.
 
 [^37-1]: Nuovo testo giusta l’all. n. 36 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^37-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^37-4]: Nuovo testo giusta il n. II cpv. 2 della LF del 25 set. 2009, in vigore dal 1° mar. 2010 ([RU 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 413](https://fedlex.data.admin.ch/eli/fga/2009/60)).
+[^37-2]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^37-4]: Nuovo testo giusta la cifra II cpv. 2 della LF del 25 set. 2009, in vigore dal 1° mar. 2010 ([RU 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 413](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
 
 **Commissione di ricorso dei PF**[^37a-1]
 
-<sup>1</sup> Il Consiglio federale nomina i sette membri della Commissione di ricorso dei PF.[^37a-2]Almeno quattro di questi membri devono far parte del settore dei PF.
+<sup>1</sup> Il Consiglio federale nomina i sette membri della Commissione di ricorso dei PF.[^37a-2] Almeno quattro di questi membri devono far parte del settore dei PF.
 
 <sup>2</sup> La durata della funzione è di quattro anni e la rielezione è possibile.
 
@@ -1165,9 +1176,9 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>5</sup> Il Consiglio federale emana il regolamento della Commissione.[^37a-3]Vi disciplina segnatamente le competenze del presidente nei casi urgenti o di importanza secondaria e l’istituzione di camere con competenza decisionale autonoma.
 
-[^37a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^37a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37a-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^37a-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37b
 
@@ -1189,7 +1200,7 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 <sup>4</sup> In singoli casi e su richiesta scritta, i PF e gli istituti di ricerca possono informarsi reciprocamente in merito a infrazioni disciplinari gravi.
 
-[^37b-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37b-1]: Introdotto dalla cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 38
 
@@ -1205,7 +1216,7 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 <sup>2</sup> Il perseguimento penale spetta ai Cantoni.
 
-[^38-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^38-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1217,7 +1228,7 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec1-1]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 39
 
@@ -1231,13 +1242,13 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 <sup>4</sup> Consulta il Consiglio dei PF prima di emanare le norme d’esecuzione o di concludere accordi internazionali. Le associazioni del personale vanno consultate prima di emanare norme relative ai rapporti di servizio.
 
-[^39-1]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^39-1]: Abrogata dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Sezione 2: Modifica del diritto vigente
 
 [^chap8-sec2-1]
 
-[^chap8-sec2-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec2-1]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 40
 
@@ -1255,7 +1266,7 @@ Sono abrogate:
 
 ...[^40-8]
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^40-2]: [CS **4** 105; [RU 1959 533](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 cpv. 1 e [3](https://fedlex.data.admin.ch/eli/oc/1970/3_3_3), [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 70]
 [^40-3]: [[RU 1965 415](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
 [^40-4]: [[RU 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), 1991, 2276]
@@ -1268,7 +1279,7 @@ Sono abrogate:
 
 [^chap8-sec3-1]
 
-[^chap8-sec3-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec3-1]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 40a
 
@@ -1308,7 +1319,7 @@ Il Consiglio federale stabilisce mediante ordinanza il momento in cui i beni mob
 
 [^chap8-sec3a-1]
 
-[^chap8-sec3a-1]: Introdotta dal n. I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+[^chap8-sec3a-1]: Introdotta dalla cifra I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
 
 #### Art. 40e
 
@@ -1320,7 +1331,7 @@ L’articolo 17*a* si applica a tutti gli incarichi d’insegnamento esterni ass
 
 [^chap8-sec3b-1]
 
-[^chap8-sec3b-1]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+[^chap8-sec3b-1]: Introdotta dalla cifra I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
 #### Art. 40f
 
@@ -1360,7 +1371,7 @@ La durata della funzione degli altri membri delle direzioni delle scuole (art. 2
 
 [^chap8-sec4-1]
 
-[^chap8-sec4-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec4-1]: Introdotta dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 41
 
@@ -1372,5 +1383,5 @@ La durata della funzione degli altri membri delle direzioni delle scuole (art. 2
 
 Data dell’entrata in vigore: 1° febbraio 1993[^41-2]
 
-[^41-1]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^41-2]: DCF del 13 gen. 1993.
+[^41-1]: Abrogata dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^41-2]: DCF del 13 gen. 1993..
