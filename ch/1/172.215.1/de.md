@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Fin
 short: OV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: de
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/de"
 
 (OV-EFD)
 
-vom 17. Februar 2010 (Stand am 1. Juli 2024)
+vom 17. Februar 2010 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -266,7 +266,7 @@ Die EFV hat die folgenden besonderen Aufgaben:
 
 <sup>2</sup> Sie organisiert die Haushalt- und Rechnungsführung sowie die Zahlungsabwicklung in der Bundesverwaltung. Sie erlässt die dazu erforderlichen Weisungen.
 
-<sup>2bis</sup> Sie betreibt das System zur Stammdatenverwaltung (MDG[^9-3]) und erfüllt die übrigen Aufgaben der EFV nach dem 6. Kapitel der Verordnung vom 25. November 2020[^9-4] über die digitale Transformation und die Informatik.[^9-5]
+<sup>2bis</sup> Sie betreibt das Informationssystem zur Stammdatenverwaltung (MDG-System[^9-3]) und erfüllt die übrigen Aufgaben der EFV nach dem 4. Kapitel 3. Abschnitt der Digitalisierungsverordnung vom 2. April 2025[^9-4].[^9-5]
 
 <sup>3</sup>
 
@@ -288,8 +288,8 @@ Der EFV unterstellt sind folgende Einheiten:
 [^9-1]: Fassung gemäss Anhang Ziff. 4 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
 [^9-3]: MDG = Master Data Governance
-[^9-4]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-5]: Eingefügt durch Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^9-4]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^9-5]: Eingefügt durch Anhang Ziff. 3 der V vom 25. Nov. 2020 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Fassung gemäss Anhang 2 Ziff. II 8 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^9-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^9-7]: Aufgehoben durch Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 

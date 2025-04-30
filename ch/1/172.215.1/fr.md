@@ -4,11 +4,11 @@ title: "Ordonnance du 17 février 2010 sur l'organisation du Département fédé
 short: Org DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: fr
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/fr"
 
 (Org DFF)
 
-du 17 février 2010 (État le 1<sup>er</sup> juillet 2024)
+du 17 février 2010 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -270,7 +270,7 @@ L’AFF assume les tâches particulières suivantes:
 
 <sup>2</sup> L’AFF définit les modalités de la gestion budgétaire, de la comptabilité et des paiements de l’administration fédérale. Elle édicte les directives requises en la matière.
 
-<sup>2bis</sup> Elle exploite le système de gestion des données de référence (GDR) et assume les autres tâches qui lui sont assignées par le chapitre 6 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^9-3].[^9-4]
+<sup>2bis</sup> Elle exploite le système d’information de gestion des données de référence (système GDR) et assume les autres tâches qui lui sont assignées par le chapitre 4, section 3, de l’ordonnance du 2 avril 2025 sur la numérisation[^9-3].[^9-4]
 
 <sup>3</sup>
 
@@ -291,8 +291,8 @@ Les unités suivantes sont subordonnées à l’AFF:
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^9-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-4]: Introduit par l’annexe ch. 3 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^9-3]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^9-4]: Introduit par l’annexe ch. 3 de l’O du 25 nov. 2020 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^9-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^9-6]: Abrogé par l’annexe ch. 2 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), avec effet au le 1<sup>er</sup> janv. 2016 (RO **2016** 4019).
 

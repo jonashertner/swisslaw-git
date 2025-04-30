@@ -4,11 +4,11 @@ title: "Ordinanza del 17 febbraio 2010 sull'organizzazione del Dipartimento fede
 short: Org-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: it
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/it"
 
 (Org-DFF)
 
-del 17 febbraio 2010 (Stato 1° luglio 2024)
+del 17 febbraio 2010 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -121,7 +121,7 @@ Il DFF osserva i principi generali dell’attività amministrativa (art. 11 OLOG
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. II 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra II n. 5 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 5
 
@@ -139,13 +139,13 @@ La Segreteria generale (SG) esercita le funzioni secondo l’articolo 42 LOGA e 
 - g.[^5-6] ...
 - h.[^5-7] esegue i compiti relativi al riconoscimento degli organi di mediazione assegnati al DFF negli articoli 84 e 85 della legge del 15 giugno 2018[^5-8] sui servizi finanziari.
 
-[^5-1]: Nuovo testo giusta il n. II 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^5-3]: Introdotta dal n. I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^5-1]: Nuovo testo giusta la cifra II n. 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^5-3]: Introdotta dalla cifra I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^5-4]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^5-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^5-5]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^5-6]: Abrogata dall’all n. 3 dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^5-7]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^5-7]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^5-8]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 #### Art. 6
@@ -156,14 +156,14 @@ La Segreteria generale (SG) esercita le funzioni secondo l’articolo 42 LOGA e 
 
 <sup>2</sup> Svolge i compiti che gli sono assegnati dall’ordinanza del 4 giugno 2010[^6-2] sulle lingue.
 
-[^6-1]: Nuovo testo giusta il n. II 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^6-1]: Nuovo testo giusta la cifra II n. 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^6-2]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
 
 #### Art. 6a
 
 [^6a-1]
 
-[^6a-1]: Introdotto dal n. I dell’O del 18 feb. 2015 ([RU 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Abrogato dal n. II 5 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 18 feb. 2015 ([RU 2015 615](https://fedlex.data.admin.ch/eli/oc/2015/94)). Abrogato dalla cifra II n. 5 dell’O del 22 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 6b
 
@@ -203,15 +203,15 @@ Per raggiungere i suoi obiettivi, la SFI svolge le seguenti funzioni:
 - h.[^7-8] cura i contatti con le associazioni di categoria e con le autorità estere nel suo settore di competenza;
 - i.[^7-9] informa sulle questioni finanziarie, fiscali e monetarie internazionali e sulla regolamentazione dei mercati finanziari.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^7-2]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-6]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
-[^7-7]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^7-8]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^7-9]: Introdotta dal n. I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-2]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^7-5]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^7-6]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
+[^7-7]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^7-8]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^7-9]: Introdotta dalla cifra I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 
 ### Sezione 3: Amministrazione federale delle finanze
 
@@ -247,8 +247,8 @@ Allo scopo di perseguire i suoi obiettivi, l’AFF svolge in particolare le segu
 - f.[^8-2] coordina la gestione dei rischi ed è competente per la gestione assicurativa centralizzata nella Confederazione;
 - g. cura le relazioni della Confederazione con la BNS per quanto non sia di competenza della SFI.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
 
 #### Art. 9
 
@@ -266,7 +266,7 @@ L’AFF adempie i seguenti compiti particolari:
 
 <sup>2</sup> L’AFF organizza la gestione finanziaria, la contabilità e i pagamenti nell’Amministrazione federale. Emana le istruzioni necessarie.
 
-<sup>2bis</sup> Gestisce il sistema di gestione dei dati di base (sistema GDB) e svolge gli altri compiti che le sono assegnati dal capitolo 6 dall’ordinanza del 25 novembre 2020[^9-3] sulla trasformazione digitale e l’informatica.[^9-4]
+<sup>2bis</sup> Gestisce il sistema di informazione per la gestione dei dati di base (sistema GDB) e svolge gli altri compiti che le sono assegnati dal capitolo 4 sezione 3 dell’ordinanza del 2 aprile 2025[^9-3] sulla digitalizzazione.[^9-4]
 
 <sup>3</sup>
 
@@ -286,10 +286,10 @@ Sono sottoposte all’AFF le seguenti unità:
 <sup>4</sup> ...[^9-6]
 
 [^9-1]: Nuovo testo giusta l’all. n. 4 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^9-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-4]: Introdotto dall’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
+[^9-2]: Introdotta dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
+[^9-3]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^9-4]: Introdotto dall’all n. 3 dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^9-6]: Abrogato dall’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ### Sezione 4: Ufficio federale del personale
@@ -320,9 +320,9 @@ Allo scopo di perseguire i suoi obiettivi, l’UFPER svolge in particolare le se
 - f. informa gli impiegati dell’Amministrazione federale nelle questioni relative al personale;
 - g. coordina e valuta le disposizioni in ambito di personale e di diritto previdenziale delle unità amministrative autonome.
 
-[^10-1]: Nuovo testo giusta l’all. n. II 3 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
-[^10-2]: Abrogata dal n. II 2 dell’O del 27 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^10-3]: Introdotta dall’all. n. II 3 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
+[^10-1]: Nuovo testo giusta l’all. cifra II n. 3 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
+[^10-2]: Abrogata dalla cifra II n. 2 dell’O del 27 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^10-3]: Introdotta dall’all. cifra II n. 3 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
 
 #### Art. 11
 
@@ -344,7 +344,7 @@ Sono aggregati amministrativamente all’UFPER:
 - a. il segretariato dell’organo paritetico della Cassa di previdenza della Confederazione;
 - b. l’Organo di mediazione per il personale federale.
 
-[^11-1]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^11-1]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^11-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 ### Sezione 5: Amministrazione federale delle contribuzioni
@@ -369,8 +369,8 @@ Allo scopo di perseguire i suoi obiettivi, l’AFC svolge in particolare le segu
 - c.[^12-2] informa sulle questioni fiscali nazionali e, d’intesa con la SFI, su questioni relative alla trasposizione del diritto fiscale internazionale.
 - d. fornisce il suo contributo per un buon clima fiscale e per l’evoluzione della fiscalità.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 
 #### Art. 13
 
@@ -384,18 +384,18 @@ L’AFC adempie i seguenti compiti particolari:
 - d. allestisce la statistica fiscale svizzera e gestisce la documentazione sui regimi fiscali svizzeri e, in collaborazione con la SFI, su su quelli esteri;
 - e.[^13-5] riscuote il canone per le imprese secondo gli articoli 70–70*d* della legge federale del 24 marzo 2006[^13-6] sulla radiotelevisione.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-4]: [RS 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
-[^13-5]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^13-5]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-6]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
 ### Sezione 6: Ufficio federale della dogana e della sicurezza dei confini
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
+[^chap2-sec6-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 14
 
@@ -420,8 +420,8 @@ Per raggiungere i suoi obiettivi, l’UDSC svolge in particolare le seguenti fun
 - e. collabora con l’economia, in particolare per semplificare e accelerare le procedure d’imposizione doganale;
 - f. collabora con le amministrazioni doganali estere, in particolare per quanto concerne la coordinazione delle procedure d’imposizione doganale.
 
-[^14-1]: Nuova espr. giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^14-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^14-1]: Nuova espr. giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
 #### Art. 15
 
@@ -433,15 +433,13 @@ L’UDSC adempie i seguenti compiti particolari:
 - b. nei limiti delle sue competenze e d’intesa con la SFI e altri servizi competenti in materia, rappresenta la Svizzera presso organizzazioni internazionali e in organi specializzati che si occupano di questioni doganali;
 - c. nei limiti delle sue competenze e d’intesa con altri servizi competenti in materia, rappresenta la Svizzera presso organizzazioni internazionali e in organi specializzati che si occupano di questioni di sicurezza dei confini e, per l’adempimento dei suoi compiti, collabora con le autorità e gli organi di altri Stati nonché con organizzazioni internazionali e l’Unione Europea.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 
 ### Sezione 7: Ufficio federale dell’informatica e della telecomunicazione
 
 #### Art. 16
 
 **Obiettivi**
-
-<sup>1</sup>
 
 L’Ufficio federale dell’informatica e della telecomunicazione (UFIT) persegue, quale fornitore di prestazioni nel settore dell’informatica e della telecomunicazione, i seguenti obiettivi:
 
@@ -545,7 +543,7 @@ L’UFCL adempie i seguenti compiti particolari:
 
 [^20a-1]
 
-[^20a-1]: Introdotto dal n. I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta l’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta l’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 
 ## Capitolo 3: Unità amministrative dell’Amministrazione federale decentralizzata
 
@@ -555,7 +553,7 @@ L’UFCL adempie i seguenti compiti particolari:
 
 [^2122-1]
 
-[^2122-1]: Abrogati dall’all. 2 n. II 4 dell’O del 15 set. 2017 sull’acol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^2122-1]: Abrogati dall’all. 2 cifra II n. 4 dell’O del 15 set. 2017 sull’acol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 
 ### Sezione 2: Autorità federale di vigilanza sui mercati finanziari
 
@@ -614,7 +612,7 @@ Il DFF emana un regolamento interno conformemente all’articolo 29 OLOGA.
 
 Ordinanza dell’11 dicembre 2000[^28-1] sull’organizzazione del Dipartimento federale delle finanze è abrogata.
 
-[^28-1]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)n. II 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2]
+[^28-1]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. cifra II n. 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)cifra II n. 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2]
 
 #### Art. 29
 
@@ -632,7 +630,7 @@ Fino all’entrata in vigore degli articoli 27, 38, 52, 71 e 76*b* della modific
 - b. la RFA sorveglia l’impiego delle bevande distillate che essa vende ai titolari di licenze;
 - c. la RFA gestisce l’azienda di Schachen, nel Cantone di Lucerna, e conclude tutti i negozi giuridici ad essa connessi.
 
-[^29a-1]: Introdotto dall’all. 2 n. II 4 dell’O del 15 set. 2017 sull’acol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^29a-1]: Introdotto dall’all. 2 cifra II n. 4 dell’O del 15 set. 2017 sull’acol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^29a-2]: [RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)
 [^29a-3]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
 
