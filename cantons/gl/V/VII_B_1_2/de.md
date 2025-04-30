@@ -3,20 +3,19 @@ canton: GL
 number: VII B/1/2
 title: Bauverordnung
 language: de
-version: 2021-11-03
-valid_until: 2025-04-30
-version_adopted: 2021-11-03
+version: 2025-05-01
+version_adopted: 2024-11-06
 adopted: 2011-02-23
 in_force: 2011-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2249/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2553/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bauverordnung
 
-Vom 23.02.2011 (Stand 03.11.2021)
+Vom 23.02.2011 (Stand 01.05.2025)
 
 Der Landrat,
 
@@ -714,7 +713,7 @@ beschliesst:
 - m. Nutzungsänderungen ausserhalb der Bauzonen;
 - n. Bauten, einschliesslich Um- und Innenumbauten, die dem Eidgenössischen Lebensmittelgesetz unterstellt sind;
 - o. Abbruch von Bauten und Anlagen;
-- p. Solaranlagen, die nicht genügend an die Baute angepasst sind oder sich auf Kulturobjekten oder in geschützten Ortsbildern befinden.
+- p. Solaranlagen, die unter Vorbehalt von Artikel 75a Absatz 1 Buchstabe b nicht genügend an die Baute angepasst sind oder sich auf Kulturobjekten oder in geschützten Ortsbildern befinden.
 
 <sup>2</sup> Betreffen Vorhaben nur Teile einer bestehenden Baute oder Anlage, sind sie ebenfalls bewilligungspflichtig, sofern sie baupolizeilich oder in ihren Auswirkungen auf die Umwelt oder auf geschützte und schützenswerte Objekte und Ortsbilder oder deren Umgebung erheblich sind. Die Bewilligungspflicht erstreckt sich grundsätzlich auch auf provisorische oder mit dem Baugrund nicht fest verbundene Bauten und Anlagen.
 
@@ -730,6 +729,8 @@ beschliesst:
 - d. Abbrucharbeiten;
 - e. provisorische Bauten, soweit sie nicht bewilligungsfrei sind;
 - f. …
+
+<sup>1a</sup> Das Meldeverfahren findet insbesondere Anwendung bei aussenaufgestellten Luft-Wasser-Wärmepumpen innerhalb der Bauzone.
 
 <sup>2</sup> Werden dabei Bestimmungen der Brandschutzgesetzgebung tangiert, muss das Vorhaben der Brandschutzbehörde vorgelegt werden.
 
@@ -753,11 +754,21 @@ beschliesst:
   - 1\. Parabolantennen bis zu 0,85 m Durchmesser, sofern sie bezüglich der Farbgebung dem Hintergrund angepasst werden;
   - 2\. nicht leuchtende Eigenreklamen auf privatem Grund bis zu einer Fläche von 1,2 m²; an Kulturobjekten und in Ortsbildern von nationaler Bedeutung bis zu einer Fläche von 0,25 m²;
   - 3\. Fahnenstangen, Verkehrssignale, Strassentafeln, Strassenbeleuchtungseinrichtungen, Vermessungszeichen, einzelne Pfähle und Stangen, Messeinrichtungen, Schaltkästen, Hydranten und dergleichen;
-- f. kleinere Anlagen der Garten- und Aussenraumgestaltung im ortsüblichen Rahmen, wie Gartenwege, Treppen, Brunnen, kleine Teiche, Sandkästen, Gartencheminées, Planschbecken, Kinderspielgeräte, künstlerische Plastiken.
+- f. kleinere Anlagen der Garten- und Aussenraumgestaltung im ortsüblichen Rahmen, wie Gartenwege, Treppen, Brunnen, kleine Teiche, Sandkästen, Gartencheminées, Planschbecken, Kinderspielgeräte, künstlerische Plastiken;
+- g. innenaufgestellte Luft-Wasser-Wärmepumpen innerhalb der Bauzone, ausser in Kulturobjekten oder in geschützten Ortsbildern.
 
 <sup>3</sup> Die Errichtung von baubewilligungsfreien Bauten und Anlagen entbindet nicht von der Einhaltung aller übrigen Vorschriften, insbesondere der Gestaltungs-, Grenzabstands-, Brandschutz- und Immissionsvorschriften. Die Befreiung erstreckt sich auf die Pflicht zur Einreichung eines Baugesuchs sowie auf die Visierung und öffentliche Bekanntmachung des Vorhabens. Falls notwendig, trifft die Gemeindebaubehörde nach Anhörung der Betroffenen die erforderlichen Anordnungen.
 
-<sup>4</sup> Auf Dächern installierte, genügend angepasste Solaranlagen unterstehen nicht der Bewilligungspflicht; sie sind der Baubewilligungsbehörde jedoch anzuzeigen.
+<sup>4</sup> …
+
+#### Art. 75a
+
+**Anzeigepflichtige Vorhaben**
+
+<sup>1</sup> Nicht bewilligungspflichtig, aber der Baubewilligungsbehörde anzuzeigen sind:
+
+- a. auf Dächern installierte, genügend angepasste Solaranlagen;
+- b. auf Dächern installierte Solaranlagen in Arbeitszonen nach Artikel 12, auch wenn sie nicht genügend angepasst sind.
 
 #### Art. 76
 
