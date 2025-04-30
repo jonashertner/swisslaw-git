@@ -4,27 +4,25 @@ number: "172.700"
 title: Gesetz über den Fristenlauf
 short: FriG
 language: de
-version: 2003-04-27
-corrected: 2018-08-22
-version_adopted: 2003-04-27
+version: 2025-05-01
+version_adopted: 2025-04-27
 adopted: 1966-04-24
 in_force: 1966-04-24
 url: "https://ai.clex.ch/app/de/texts_of_law/172.700"
-pdf: "https://ai.clex.ch/api/de/versions/163/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2354/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Fristenlauf (FriG)
+# Gesetz über den Fristenlauf
 
-Gesetzessammlung Appenzell I. Rh. – Januar 2007
+(FriG)
 
-vom 24. April 19661
+vom 24.04.1966 (Stand 01.05.2025)
 
 Die Landsgemeinde von Appenzell I. Rh.,
 
-gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
@@ -32,30 +30,86 @@ beschliesst:
 
 **Geltungsbereich**
 
-Dieses Gesetz gilt für alle Verfahren vor allen Behörden des Kantons.
+<sup>1</sup> Dieses Gesetz gilt für alle Verfahren vor den Behörden im Kanton, soweit nicht übergeordnetes Recht mit abweichenden Regelungen anzuwenden ist.
 
 #### Art. 2
 
-**Fristenbeginn**
+**Fristbeginn**
 
-<sup>1</sup> Wird die Frist nach einer Anzahl von Tagen festgesetzt, so ist der Tag, an welchem sich die Tatsache verwirklicht, die den Fristenlauf auslöst, nicht mitzuzählen. Erst der folgende Tag zählt als erster Tag der Frist.
+<sup>1</sup> Für die Festlegung des Fristbeginns zählt der Tag, an welchem sich die fristauslösende Tatsache verwirklicht, nicht. Erst der folgende Tag zählt als erster Tag der Frist.
 
-<sup>2</sup> Die Frist endigt an ihrem letzten Tag. Ist der letzte Tag ein Samstag, ein Sonntag oder ein staatlich anerkannter Feiertag, so läuft die Frist am nächstfolgenden Werktag ab.
+<sup>2</sup> …
 
-**Ende**
+<sup>3</sup> …
 
-<sup>3</sup> Schriftliche Eingaben müssen spätestens am letzten Tag der Frist bei der zuständigen Stelle eingereicht oder zu deren Handen bis 24 Uhr des letzten Tages der schweizerischen Post übergeben sein.
+#### Art. 2a
 
-#### Art. 33
+**Fristauslösung**
+
+<sup>1</sup> Die Frist für eine Mitteilung wird ausgelöst:
+
+- a) mit der Kenntnisnahme der Mitteilung durch die adressierte Person, unter Vorbehalt von gesetzlichen Formvorschriften;
+- b) bei Mitteilungen, die persönlich ausgehändigt werden, mit der Annahme und bei einer Annahmeverweigerung mit dem Festhalten der Weigerung;
+- c) bei Mitteilungen mit eingeschriebener Post oder mit Gerichtsurkunde mit der Leistung der Unterschrift für die Annahme;
+- d) bei Mitteilungen mit eingeschriebener Post oder mit Gerichtsurkunde, die nicht angenommen werden, mit Ablauf einer Frist von sieben Tagen nach dem ersten Zustellungsversuch, sofern die adressierte Person mit einer Zustellung rechnen musste;
+- e) bei Mitteilungen durch einen Postdienst mit Trackingsystem mit dem Eingang in der Machtsphäre der adressierten Person, sofern diese mit einer Zustellung rechnen musste;
+- f) bei Mitteilungen durch eine öffentliche Publikation mit der Veröffentlichung im betreffenden Medium;
+- g) bei elektronischer Mitteilung mit dem Tag, an welchem das erste Dokument einer Sendung heruntergeladen wird, oder, sofern mit einer Zustellung gerechnet werden musste, nach Ablauf von sieben Tagen seit der Bereitstellung auf einer Plattform.
+
+<sup>2</sup> Bei Mitteilungen nach Abs. 1 lit. e, die an einem Samstag, Sonntag oder staatlich anerkannten Feiertag vorgenommen werden, gilt als fristauslösender Tag der nächstfolgende Werktag.
+
+#### Art. 2b
+
+**Fristende**
+
+<sup>1</sup> Die Frist endet an ihrem letzten Tag.
+
+<sup>2</sup> Berechnet sich eine Frist nach Monaten, endet sie im letzten Monat an dem Tag, der dieselbe Zahl trägt wie der Tag, an welchem die Frist zu laufen begann. Fehlt der entsprechende Tag, so endet die Frist am letzten Tag des Monats.
+
+<sup>3</sup> Für Jahresfristen gilt die Regelung nach Abs. 2 sinngemäss.
+
+<sup>4</sup> Ist der letzte Tag der Frist ein Samstag, ein Sonntag oder ein staatlich anerkannter Feiertag, läuft sie am nächstfolgenden Werktag ab.
+
+#### Art. 2c
+
+**Fristeinhaltung**
+
+<sup>1</sup> Schriftliche Eingaben müssen spätestens am letzten Tag der Frist bei der zuständigen Stelle eingereicht oder zu deren Handen bis 24 Uhr des letzten Tages der Schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben werden.
+
+<sup>2</sup> Bei elektronischer Einreichung ist für die Fristwahrung der Zeitpunkt massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind, die auf der Seite der Partei für die Übermittlung notwendig sind.
+
+#### Art. 2d
+
+**Zahlungsfrist**
+
+<sup>1</sup> Die Frist für eine Zahlung ist eingehalten, wenn der Betrag spätestens am letzten Tag der Frist
+
+- a) bei der dafür bezeichneten zuständigen Stelle bar geleistet ist;
+- b) der Schweizerischen Post übergeben ist oder
+- c) einem Post- oder Bankkonto in der Schweiz gültig belastet ist.
+
+#### Art. 3a
+
+**Elektronische Übermittlung**
+
+<sup>1</sup> Der Grosse Rat regelt das Verfahren und die Bedingungen für die elektronische Übermittlung von Mitteilungen und Eingaben, insbesondere:
+
+- a) die Art und Weise der Übermittlung;
+- b) das Format der Eingaben und Beilagen;
+- c) die Festlegung der Anforderungen für die elektronische Quittung;
+- d) den genauen Zeitpunkt der elektronischen Zustellung;
+- e) die Fälle, in denen bei technischen Problemen die Nachreichung physischer Dokumente verlangt werden kann oder das Nachsenden solcher Dokumente möglich ist.
+
+<sup>2</sup> Er kann Abweichungen für die Zustellung von E-Rechnungen oder für die Abwicklung der elektronischen Übermittlung ausserhalb von Plattformen festlegen.
+
+#### Art. 3
+
+**…**
 
 #### Art. 4
 
 **Inkrafttreten**
 
-Das Gesetz tritt mit seiner Annahme durch die Landsgemeinde sofort in Kraft.
+<sup>1</sup> Das Gesetz tritt mit seiner Annahme durch die Landsgemeinde sofort in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 27. April 2003.
-- [2] Titel und Ingress abgeändert durch LdsgB vom 27. April 2003.
-- [3] Aufgehoben durch LdsgB vom 27. April 2003.
+cGS -
