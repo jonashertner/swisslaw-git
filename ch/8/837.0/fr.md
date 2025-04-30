@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (État le 1<sup>er</sup> janvier 2024)
+du 25 juin 1982 (État le 1<sup>er</sup> mai 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -347,7 +347,7 @@ Compte également comme période de cotisation le temps durant lequel l’assur�
 - c.[^13-3] est partie à un rapport de travail, mais ne touche pas de salaire parce qu’il est malade (art. 3 LPGA[^13-4]) ou victime d’un accident (art. 4 LPGA) et, partant, ne paie pas de cotisations;
 - d.[^13-5] a interrompu son travail pour cause de maternité (art. 5 LPGA) dans la mesure où ces absences sont prescrites par les dispositions de protection des travailleurs ou sont conformes aux clauses des conventions collectives de travail.
 
-<sup>2bis</sup> et <sup>2ter</sup> …[^13-6]
+<sup>2bis et <sup>2ter</sup></sup> …[^13-6]
 
 <sup>3</sup> …[^13-7]
 
@@ -383,7 +383,7 @@ Sont libérées des conditions relatives à la période de cotisation les person
 
 <sup>4</sup> …[^14-8]
 
-<sup>5</sup> et <sup>5bis</sup> …[^14-9]
+<sup>5 et <sup>5bis</sup></sup> …[^14-9]
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. 40 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^14-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -574,7 +574,7 @@ Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée a
 
 <sup>3</sup> Le Conseil fédéral adapte le taux minimum fixé à l’al. 2, let. b, en règle générale tous les deux ans avec effet au début de l’année civile, conformément aux principes qui régissent l’AVS.[^22-6]
 
-<sup>4</sup> et <sup>5</sup> …[^22-7]
+<sup>4 et <sup>5</sup></sup> …[^22-7]
 
 [^22-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^22-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -986,7 +986,7 @@ L’employeur remet à la caisse:
 
 **Occupation provisoire**
 
-<sup>1</sup> et <sup>2</sup>…[^41-1]
+<sup>1 et <sup>2</sup></sup> …[^41-1]
 
 <sup>3</sup> Le travailleur doit déclarer à l’employeur le revenu qu’il tire d’une occupation provisoire ou d’une activité indépendante pendant la période où l’horaire de travail est réduit. L’employeur en informe la caisse.
 
@@ -1079,7 +1079,7 @@ Le calcul de l’indemnité est régi par les dispositions de l’art. 34.
 
 <sup>1</sup> Le Conseil fédéral règle la procédure d’avis.[^45-1]
 
-<sup>2</sup> et <sup>3</sup> …[^45-2]
+<sup>2 et <sup>3</sup></sup> …[^45-2]
 
 <sup>4</sup> Lorsque l’autorité cantonale doute que la perte de travail puisse être prise en considération, elle examine le cas de façon appropriée. Si elle estime que la perte de travail ne peut être prise en considération ou si celle-ci a été annoncée trop tard, elle s’oppose par décision au versement de l’indemnité. Dans chaque cas, elle informe l’employeur et la caisse qu’il a désignée.
 
@@ -2828,6 +2828,16 @@ Parmi les caisses existantes au moment de l’entrée en vigueur de la présente
 <sup>2</sup> Si l’état des dettes du fonds de compensation atteint à la fin 2006 ou à la fin 2007 le 2,5 % de la somme des salaires soumis à cotisations, la réduction de la participation de la Confédération ne sera pas poursuivie.
 
 [^120a-1]: Introduit par le ch. I 5 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+
+#### Art. 120b
+
+**Participation de la Confédération de 2025 à 2029**[^120b-1]
+
+<sup>1</sup> La participation de la Confédération visée à l’art. 90*a*, al. 1, est réduite de 1,25 milliard de francs au total pour les années 2025 à 2029.
+
+<sup>2</sup> Si le capital propre du fonds de compensation, y compris les fonds de roulement nécessaires à l’exploitation, est inférieur à 2,5 milliards de francs en fin d’année, la participation de la Confédération n’est plus réduite à partir de l’année suivante.
+
+[^120b-1]: Introduit par le ch. I 2 de la LF du 27 sept. 2024 sur des mesures d’allègement financier et administratif à partir de 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [FF 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 ### Chapitre 4 Relation avec le droit européen
 

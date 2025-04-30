@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20240101/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2024)
+vom 25. Juni 1982 (Stand am 1. Mai 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -347,7 +347,7 @@ Angerechnet werden auch:
 - c.[^13-3] Zeiten, in denen der Versicherte zwar in einem Arbeitsverhältnis steht, aber wegen Krankheit (Art. 3 ATSG[^13-4]) oder Unfalls (Art. 4 ATSG) keinen Lohn erhält und daher keine Beiträge bezahlt;
 - d.[^13-5] Arbeitsunterbrüche wegen Mutterschaft (Art. 5 ATSG), soweit sie durch Arbeitnehmerschutzbestimmungen vorgeschrieben oder gesamtarbeitsvertraglich vereinbart sind.
 
-<sup>2</sup> <sup>bis</sup><sup>–2</sup><sup>ter</sup> …[^13-6]
+<sup>2<sup>bis</sup></sup> und <sup>2</sup><sup>ter</sup> …[^13-6]
 
 <sup>3</sup> ...[^13-7]
 
@@ -383,7 +383,7 @@ Von der Erfüllung der Beitragszeit befreit sind Personen, die innerhalb der Rah
 
 <sup>4</sup> …[^14-8]
 
-<sup>5</sup> <sup>–</sup><sup>5</sup><sup>bis</sup> …[^14-9]
+<sup>5</sup> und <sup>5</sup><sup>bis</sup> …[^14-9]
 
 [^14-1]: Fassung gemäss Anhang Ziff. 40 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^14-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -572,7 +572,7 @@ Ein Taggeld in der Höhe von 70 Prozent des versicherten Verdienstes erhalten Ve
 
 <sup>3</sup> Der Bundesrat passt den Mindestansatz nach Absatz 2 Buchstabe b in der Regel alle zwei Jahre auf Beginn des Kalenderjahres nach den Grundsätzen der AHV an.[^22-6]
 
-<sup>4</sup> und <sup>5</sup> …[^22-7]
+<sup>4 und</sup> <sup>5</sup> …[^22-7]
 
 [^22-1]: Fassung gemäss Anhang Ziff. 3 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^22-2]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -982,7 +982,7 @@ Der Arbeitgeber reicht der Kasse ein:
 
 **Zwischenbeschäftigung**
 
-<sup>1</sup> und <sup>2</sup> …[^41-1]
+<sup>1 und <sup>2</sup></sup> …[^41-1]
 
 <sup>3</sup> Der Arbeitnehmer muss das während der Kurzarbeit durch Zwischenbeschäftigung oder selbständige Tätigkeit erzielte Einkommen dem Arbeitgeber mitteilen. Dieser benachrichtigt die Kasse.
 
@@ -2825,6 +2825,16 @@ Von den beim Inkrafttreten dieses Gesetzes bereits bestehenden Kassen gelten ohn
 <sup>2</sup> Erreicht der Schuldenstand des Ausgleichsfonds Ende 2006 oder Ende 2007 2,5 Prozent der von der Beitragspflicht erfassten Lohnsumme, so wird die Kürzung der Bundesbeteiligung nicht weiter geführt.
 
 [^120a-1]: Eingefügt durch Ziff. I 5 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+
+#### Art. 120b
+
+**Beteiligung des Bundes in den Jahren 2025–2029**[^120b-1]
+
+<sup>1</sup> Die Beteiligung des Bundes nach Artikel 90*a* Absatz 1 wird im Zeitraum von 2025–2029 um insgesamt 1,25 Milliarden Franken gekürzt.
+
+<sup>2</sup> Unterschreitet das Eigenkapital des Ausgleichsfonds einschliesslich des für den Betrieb notwendigen Betriebskapitals am Jahresende 2,5 Milliarden Franken, so wird die Beteiligung des Bundes ab dem folgenden Jahr nicht mehr gekürzt.
+
+[^120b-1]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2024 über die Massnahmen zur finanziellen und administrativen Entlastung ab 2025, in Kraft seit 1. Mai 2025 ([AS 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [BBl 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 ### Viertes Kapitel: Verhältnis zum europäischen Recht
 
