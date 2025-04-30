@@ -3,20 +3,19 @@ canton: VS
 number: "172.010"
 title: Verordnung über die Befugnisse des Präsidiums und der Departemente
 language: de
-version: 2021-05-01
-valid_until: 2025-04-30
-version_adopted: 2021-05-01
+version: 2025-05-01
+version_adopted: 2025-05-01
 adopted: 2025-05-01
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.010"
-pdf: "https://lex.vs.ch/api/de/versions/2928/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Befugnisse des Präsidiums und der Departemente
 
-vom 01.05.2021 (Stand 01.05.2021)
+vom 01.05.2025 (Stand 01.05.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -32,7 +31,7 @@ verordnet: [^ingress-1]
 
 #### Art. 1
 
-<sup>1</sup> Die Staatsverwaltung umfasst das Präsidium und die folgenden fünf Departemente:
+<sup>1</sup> Die Staatsverwaltung umfasst das Präsidium (PRÄS) und die folgenden fünf Departemente:
 
 - a) Departement für Finanzen und Energie (DFE);
 - b) Departement für Gesundheit, Soziales und Kultur (DGSK);
@@ -42,22 +41,18 @@ verordnet: [^ingress-1]
 
 #### Art. 2
 
-<sup>1</sup> Das Präsidium umfasst:
+<sup>1</sup> Das Präsidium (PRÄS) umfasst:
 
 - a) die Staatskanzlei, die insbesondere für folgende Bereiche zuständig ist:
   - 1\. Planung, Koordination und Begleitung der Geschäfte des Staatsrates,
-  - 2\. Koordination der Beziehungen mit anderen Regierungen,
-  - 3\. Beschwerden, Kontrolle der Gesetzgebung und Übersetzung,
-  - 4\. Protokoll der Staatsratssitzungen,
-  - 5\. Sicherheit der Angestellten des öffentlichen Dienstes,
-  - 6\. Beziehungen mit dem Parlamentsdienst,
-  - 7\. Veröffentlichung der gesetzgeberischen Erlasse,
+  - 2\. strategische Führung und Regierungscontrolling,
+  - 3\. Beziehungen mit dem Parlamentsdienst,
+  - 4\. eidgenössische und interkantonale Angelegenheiten,
+  - 5\. Beschwerden, Kontrolle der Gesetzgebung und Veröffentlichung der gesetzgeberischen Erlasse,
+  - 6\. Übersetzung,
+  - 7\. Protokoll der Staatsratssitzungen,
   - 8\. Information,
-  - 9\. eidgenössische und interkantonale Angelegenheiten,
-  - 10\. Koordination der Regierungsgeschäfte,
-  - 11\. vorausschauende Analyse zur Erkennung der mittel- und langfristigen Herausforderungen und Chancen,
-  - 12\. Regierungscontrolling,
-  - 13\. Postverteilung;
+  - 9\. Logistik und Empfang;
 - b) das Finanzinspektorat.
 
 #### Art. 3
@@ -76,10 +71,8 @@ verordnet: [^ingress-1]
   - 3\. Personalverwaltung und Organisation,
   - 4\. Energie,
   - 5\. Informatik,
-  - 6\. digitale Verwaltung,
-  - 7\. auswärtige Angelegenheiten,
-  - 8\. Bau, Unterhalt und Verwaltung der Immobilien,
-  - 9\. Schutz des baulichen Erbes;
+  - 6\. Bau, Unterhalt und Verwaltung der Immobilien,
+  - 7\. Schutz des baulichen Erbes;
 - b) Departement für Gesundheit, Soziales und Kultur (DGSK):
   - 1\. Gesundheitswesen,
   - 2\. Kantonslaboratorium,
@@ -106,7 +99,8 @@ verordnet: [^ingress-1]
   - 11\. Studien- und Berufsberatung,
   - 12\. Stipendien und Ausbildungsdarlehen,
   - 13\. Leitung des Dossiers EPFL und Campus,
-  - 14\. öffentliche Arbeitslosenkasse;
+  - 14\. öffentliche Arbeitslosenkasse,
+  - 15\. Jagd, Fischerei und Wildtiere;
 - d) Departement für Sicherheit, Institutionen und Sport (DSIS):
   - 1\. Kantonspolizei,
   - 2\. Militärwesen,
@@ -119,9 +113,9 @@ verordnet: [^ingress-1]
   - 9\. Gemeindefinanzen,
   - 10\. Institutionen,
   - 11\. Sportförderung,
-  - 12\. Jagd, Fischerei und Wildtiere,
-  - 13\. Geoinformation,
-  - 14\. Grundbuchwesen und Verkauf an Ausländer;
+  - 12\. Geoinformation,
+  - 13\. Grundbuchwesen und Verkauf an Ausländer,
+  - 14\. digitale Verwaltung;
 - e) Departement für Mobilität, Raumentwicklung und Umwelt (DMRU):
   - 1\. Bau und Unterhalt der Strassen,
   - 2\. Unterhalt der Flussläufe,
@@ -135,4 +129,4 @@ verordnet: [^ingress-1]
   - 10\. Naturgefahren,
   - 11\. Berufs- und Freizeitmobilität.
 
-CSW RO/AGS 2021-098
+CSW RO/AGS 2025-061

@@ -3,20 +3,19 @@ canton: VS
 number: "172.010"
 title: Ordonnance sur les attributions de la présidence et des départements
 language: fr
-version: 2021-05-01
-valid_until: 2025-04-30
-version_adopted: 2021-05-01
+version: 2025-05-01
+version_adopted: 2025-05-01
 adopted: 2025-05-01
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.010"
-pdf: "https://lex.vs.ch/api/fr/versions/2928/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3494/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les attributions de la présidence et des départements
 
-du 01.05.2021 (état 01.05.2021)
+du 01.05.2025 (état 01.05.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -32,7 +31,7 @@ ordonne: [^ingress-1]
 
 #### Art. 1
 
-<sup>1</sup> L'administration de l'Etat comprend la présidence et les cinq départements ci-après:
+<sup>1</sup> L'administration de l'Etat comprend la présidence (PRES) et les cinq départements ci-après:
 
 - a) le Département des finances et de l’énergie (DFE);
 - b) le Département de la santé, des affaires sociales et de la culture (DSSC);
@@ -42,22 +41,18 @@ ordonne: [^ingress-1]
 
 #### Art. 2
 
-<sup>1</sup> La présidence comprend:
+<sup>1</sup> La présidence (PRES) comprend:
 
 - a) la Chancellerie d'Etat dont relèvent notamment:
   - 1\. planification, coordination et suivi des affaires du Conseil d'Etat,
-  - 2\. coordination des relations intergouvernementales,
-  - 3\. recours, contrôle législatif et traduction,
-  - 4\. protocole du Conseil d'Etat,
-  - 5\. sécurité des agents publics,
-  - 6\. relations avec le Service parlementaire,
-  - 7\. publication des actes législatifs,
+  - 2\. conduite stratégique et controlling gouvernemental,
+  - 3\. relations avec le Service parlementaire,
+  - 4\. affaires fédérales et intercantonales,
+  - 5\. recours, contrôle législatif, publication des actes législatifs,
+  - 6\. traduction,
+  - 7\. protocole du Conseil d'Etat,
   - 8\. information,
-  - 9\. affaires fédérales et intercantonales,
-  - 10\. coordination des objets gouvernementaux,
-  - 11\. analyse prospective en vue de l’identification des défis, enjeux et opportunités à moyen et long termes,
-  - 12\. controlling gouvernemental,
-  - 13\. distribution du courrier;
+  - 9\. logistique, accueil;
 - b) l'Inspection des finances.
 
 #### Art. 3
@@ -76,10 +71,8 @@ ordonne: [^ingress-1]
   - 3\. gestion de la politique du personnel et de l'organisation,
   - 4\. énergie,
   - 5\. informatique,
-  - 6\. administration numérique,
-  - 7\. affaires extérieures,
-  - 8\. construction, entretien et gérance d'immeubles,
-  - 9\. protection du patrimoine bâti;
+  - 6\. construction, entretien et gérance d'immeubles,
+  - 7\. protection du patrimoine bâti;
 - b) Département de la santé, des affaires sociales et de la culture (DSSC):
   - 1\. santé publique,
   - 2\. laboratoire cantonal,
@@ -106,7 +99,8 @@ ordonne: [^ingress-1]
   - 11\. orientation scolaire et professionnelle,
   - 12\. bourses d’études et prêts d’honneur,
   - 13\. conduite du dossier EPFL et campus,
-  - 14\. Caisse publique de chômage;
+  - 14\. Caisse publique de chômage,
+  - 15\. chasse, pêche et faune;
 - d) Département de la sécurité, des institutions et du sport (DSIS):
   - 1\. police cantonale,
   - 2\. affaires militaires,
@@ -119,9 +113,9 @@ ordonne: [^ingress-1]
   - 9\. finances communales,
   - 10\. institutions,
   - 11\. encouragement du sport,
-  - 12\. chasse, pêche et faune,
-  - 13\. géoinformation,
-  - 14\. registre foncier et vente aux étrangers;
+  - 12\. géoinformation,
+  - 13\. registre foncier et vente aux étrangers,
+  - 14\. administration numérique;
 - e) Département de la mobilité, du territoire et de l’environnement (DMTE):
   - 1\. construction et entretien des routes,
   - 2\. entretien des cours d'eau,
@@ -135,4 +129,4 @@ ordonne: [^ingress-1]
   - 10\. dangers naturels,
   - 11\. mobilité professionnelle et de loisir.
 
-RCV RO/AGS 2021-098
+RCV RO/AGS 2025-061
