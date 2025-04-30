@@ -4,13 +4,12 @@ number: "301.112"
 title: Verordnung über die Durchführung von Pilotprojekten in der Gesundheitsversorgung
 short: VDPG
 language: de
-version: 2024-01-01
-valid_until: 2025-04-30
-version_adopted: 2023-07-05
+version: 2025-05-01
+version_adopted: 2025-03-12
 adopted: 2021-05-05
 in_force: 2022-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3631/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3631/pdf_file"
 
 (VDPG)
 
-Vom 05.05.2021 (Stand 01.01.2024)
+Vom 05.05.2021 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Durchführung von Pilotprojekten in der Gesundheitsversorgung gemäss § 39a GesG und die Unterstützung von Pilotprojekten und deren Träger (Projektträger) durch den Kanton.
+<sup>1</sup> Diese Verordnung regelt die Durchführung von Pilotprojekten in der Gesundheitsversorgung gemäss § 39a GesG und die Unterstützung von Pilotprojekten und deren Trägerinnen und Träger (Projektträgerschaft) durch den Kanton.
 
 #### § 2
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Unterstützung durch den Kanton**
 
-<sup>1</sup> Der Kanton kann die Projektträger für die Durchführung von Pilotprojekten unterstützen durch
+<sup>1</sup> Der Kanton kann die Projektträgerschaft für die Durchführung von Pilotprojekten unterstützen durch
 
 - a) die Erteilung der Erlaubnis von kantonalen Normen und Weisungen ausnahmsweise und für eine definierte Dauer abzuweichen, und/oder
 - b) die Gewährung eines finanziellen Beitrags.
@@ -65,7 +64,7 @@ beschliesst:
 
 **Abweichung von kantonalen Bestimmungen**
 
-<sup>1</sup> Auf Gesuch hin erlaubt der Regierungsrat dem Projektträger und der vollziehenden kantonalen Stelle für die Durchführung von Pilotprojekten von genau benannten kantonalen Bestimmungen für eine definierte Dauer abzuweichen.
+<sup>1</sup> Auf Gesuch hin erlaubt der Regierungsrat der Projektträgerschaft und der vollziehenden kantonalen Stelle für die Durchführung von Pilotprojekten von genau benannten kantonalen Bestimmungen für eine definierte Dauer abzuweichen.
 
 <sup>2</sup> Eine Abweichung von kantonalen Bestimmungen ist unabhängig von einer finanziellen Beteiligung des Kantons möglich.
 
@@ -73,7 +72,7 @@ beschliesst:
 
 <sup>4</sup> Sofern für die Durchführung eines Pilotprojekts von den kantonalen Bestimmungen abgewichen werden soll, wird jeweils in einem gesonderten und für die Dauer des Pilotprojekts befristeten Anhang zu dieser Verordnung festgehalten:
 
-- a) Projektträger,
+- a) Projektträgerschaft,
 - b) Beschreibung des Pilotprojekts,
 - c) Dauer des Pilotprojekts, und
 - d) kantonale Bestimmungen, von denen für die Dauer des Pilotprojekts abgewichen werden darf.
@@ -84,11 +83,18 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann finanzielle Beiträge an die Durchführung von Pilotprojekten leisten. Die Höhe der Beiträge bestimmt der Kanton nach freiem Ermessen, wobei er nicht an die beantragte Höhe der Beiträge gebunden ist.
 
-<sup>2</sup> Er kann finanzielle Beiträge nur dann leisten, wenn die Finanzierung durch den Projektträger nachweislich anderweitig nicht sichergestellt werden kann.
+<sup>2</sup> Er kann finanzielle Beiträge nur dann leisten, wenn die Projektträgerschaft in nachvollziehbarer Weise aufzeigt, aus welchen Gründen sie auf die finanzielle Unterstützung des Kantons für die Projektumsetzung angewiesen ist.
 
-<sup>3</sup> Der Projektträger hat sich im Hinblick auf die mögliche zukünftige Verbesserung der eigenen wirtschaftlichen Situation angemessen am Projektaufwand zu beteiligen.
+<sup>3</sup> Die Projektträgerschaft hat sich angemessen am Projektaufwand zu beteiligen.
 
-<sup>4</sup> Durch die finanziellen Beiträge des Kantons dürfen dem Projektträger aus der Durchführung des Projekts selbst keine finanziellen Gewinne entstehen.
+<sup>3<sup>bis</sup></sup> Die Angemessenheit beurteilt sich insbesondere nach:
+
+- a) der Unternehmensgrösse und -struktur der Projektträgerschaft,
+- b) der beantragten Summe,
+- c) dem zu erwartenden Nutzen an der Projektumsetzung für die Allgemeinheit und die öffentliche Hand,
+- d) der möglichen Verbesserung der wirtschaftlichen Situation der Projektträgerschaft durch die Projektumsetzung.
+
+<sup>4</sup> Der Projektträgerschaft dürfen während der Projektdauer durch die finanziellen Beiträge des Kantons keine finanziellen Gewinne entstehen.
 
 <sup>5</sup> Es besteht kein Rechtsanspruch auf die Gewährung finanzieller Beiträge.
 
@@ -96,30 +102,30 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Projektträger können durch Gesuch an die Abteilung die Unterstützung von Pilotprojekten gemäss § 4 beantragen. Im Gesuch ist anzugeben, welche Art der Unterstützung beantragt wird.
+<sup>1</sup> Die Projektträgerschaft kann durch Gesuch an die Abteilung die Unterstützung von Pilotprojekten gemäss § 4 beantragen.
 
 <sup>2</sup> Gesuche um Durchführung von Pilotprojekten müssen vor dem Beginn der Pilotprojekte zusammen mit einer detaillierten Projektdokumentation eingereicht werden. Eine nachträgliche Genehmigung ist nicht möglich.
 
 <sup>3</sup> Die Projektdokumentationen müssen mindestens folgende Punkte beinhalten:
 
-- a) Detaillierte Umschreibung des Pilotprojekts,
-- b) Art der angestrebten Verbesserung,
-- c) Dauer des Projekts,
-- d) Ort der Projektdurchführung,
-- e) detailliertes Budget,
-- f) verantwortliche Person respektive verantwortliche Personen oder Institution,
-- g) Beschrieb des Mehrwerts des Pilotprojekts,
-- h) Begründung, warum das Projekt als Pilotprojekt durchgeführt werden soll und nicht im Rahmen der ordentlichen Geschäftstätigkeit des Projektträgers angegangen werden kann,
-- i) geplante Massnahmen zur Dokumentation, Auswertung und Evaluation des Projekts, und
-- j) eingesetzte eigene Ressourcen.
+- a) Nennung der federführenden Projektträgerschaft und allfälliger Partnerinnen und Partner,
+- b) detaillierte Umschreibung des Pilotprojekts,
+- c) konkreten Antrag gemäss § 4, namentlich Nennung der beantragten Summe,
+- d) Ausführungen zur Innovation/Neuheit der Projektidee,
+- e) Ausführungen zum erwarteten Verbesserungspotenzial des Projekts in medizinischer, versorgungstechnischer und/oder wirtschaftlicher Hinsicht,
+- f) Dauer und geplanten Startzeitpunkt des Projekts,
+- g) Ort der Projektdurchführung,
+- h) detailliertes Budget mit Ausweis der Gesamtprojektsumme, der Eigenleistung gemäss § 6 Abs. 3, der beantragten Summe und möglicher Gewinnerzielung,
+- i) Begründung, warum das Projekt als Pilotprojekt durchgeführt werden soll und nicht im Rahmen der ordentlichen Geschäftstätigkeit der Projektträgerschaft angegangen werden kann, und
+- j) geplante Massnahmen zur Dokumentation, Auswertung und Evaluation des Projekts.
 
-<sup>4</sup> Wird um die Erteilung der Erlaubnis zur Abweichung von kantonalen Bestimmungen ersucht, sind diese genau zu benennen und die Notwendigkeit der Abweichung zu begründen. Gleichzeitig ist aufzuzeigen, wie die Qualität und Sicherheit der Versorgung sowie die Sicherheit und Rechte der Patientinnen und Patienten auch während der Durchführung des Pilotprojekts jederzeit sichergestellt werden kann.
+<sup>4</sup> Wird um die Erteilung der Erlaubnis zur Abweichung von kantonalen Bestimmungen ersucht, sind diese genau zu benennen und die Notwendigkeit der Abweichung zu begründen. Gleichzeitig ist aufzuzeigen, wie die Qualität und Sicherheit der Versorgung sowie die Sicherheit und Rechte der Patientinnen und Patienten auch während der Durchführung des Pilotprojekts jederzeit sichergestellt werden können.
 
 #### § 8
 
-**Verträge zwischen dem Kanton und den Projektträgern**
+**Verträge zwischen dem Kanton und der Projektträgerschaft**
 
-<sup>1</sup> Die Abteilung schliesst mit den Trägern von Pilotprojekten einen Leistungsvertrag ab. Dieser enthält mindestens folgende Punkte:
+<sup>1</sup> Die Abteilung schliesst mit der Trägerschaft von Pilotprojekten einen Leistungsvertrag ab. Dieser enthält mindestens folgende Punkte:
 
 - a) Modalitäten der Projektdurchführung,
 - b) Anforderungen an die Evaluation des Projekts,
@@ -130,9 +136,9 @@ beschliesst:
 
 **Anforderungen an die Durchführung von Pilotprojekten**
 
-<sup>1</sup> Der Projektträger muss das Pilotprojekt umfassend dokumentieren. Nach Abschluss des Pilotprojekts ist ein Schlussbericht zuhanden der Abteilung zu erstellen. Darin ist zu evaluieren, ob die angestrebten medizinischen, versorgungstechnischen oder wirtschaftlichen Verbesserungen erzielt werden konnten.
+<sup>1</sup> Die Projektträgerschaft muss das Pilotprojekt umfassend dokumentieren. Nach Abschluss des Pilotprojekts ist ein Schlussbericht zuhanden der Abteilung zu erstellen. Darin ist zu evaluieren, ob die angestrebten medizinischen, versorgungstechnischen oder wirtschaftlichen Verbesserungen erzielt werden konnten.
 
-<sup>2</sup> Die Abteilung kann bei den Projektträgern jederzeit ein Audit durchführen. Ihr sind Zutritt zu den Räumlichkeiten zu gewähren, die erforderlichen Auskünfte zu erteilen und die Unterlagen zur Verfügung zu stellen.
+<sup>2</sup> Die Abteilung kann bei der Projektträgerschaft jederzeit ein Audit durchführen. Ihr sind Zutritt zu den Räumlichkeiten zu gewähren, die erforderlichen Auskünfte zu erteilen und die Unterlagen zur Verfügung zu stellen.
 
 #### § 10
 
