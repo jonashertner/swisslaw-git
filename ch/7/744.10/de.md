@@ -4,22 +4,23 @@ title: Bundesgesetz vom 20. März 2009 über die Strassentransportunternehmen (S
 short: STUG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/681"
 language: de
-version: 2016-01-01
+version: 2025-05-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/681/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2009-681-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/681/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/681/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2009-681-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/681/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Zulassung als Strassentransportunternehmen
+# Bundesgesetz über die Strassentransportunternehmen
 
-(STUG)
+(STUG)[^t-1]
 
-vom 20. März 2009[^t-1] (Stand am 1. Januar 2016)
+vom 20. März 2009[^t-2] (Stand am 1. Mai 2025)
 
-[^t-1]: Anhang 2 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
+[^t-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^t-2]: Anhang 2 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -31,58 +32,98 @@ beschliesst:
 [^ingress-2]: [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325)
 [^ingress-3]: [BBl 2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)
 
-## 1. Abschnitt: Geltungsbereich
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
 #### Art. 1
 
+**Gegenstand und anwendbares Recht[^1-1]**
+
 <sup>1</sup> Dieses Gesetz regelt die Zulassung als Strassentransportunternehmen im Personen- und im Güterverkehr.
 
-<sup>2</sup> Vorbehalten bleibt das Recht, Reisende regelmässig und gewerbsmässig zu befördern, das nach den Artikeln 6–8 des Personenbeförderungsgesetzes vom 20. März 2009[^1-1] erteilt wird.
+<sup>1bis</sup> Es regelt zudem die Beauftragung von Strassentransportunternehmen im Güterverkehr.[^1-2]
 
-[^1-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+<sup>2</sup> Vorbehalten bleibt das Recht, Reisende regelmässig und gewerbsmässig zu befördern, das nach den Artikeln 6–8 des Personenbeförderungsgesetzes vom 20. März 2009[^1-3] erteilt wird.
 
-## 2. Abschnitt: Zulassung als Strassentransportunternehmen
+[^1-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^1-2]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^1-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 #### Art. 2
 
-**Begriffe**
+**Begriffe**[^2-1]
 
 In diesem Gesetz gilt als:
 
-- a. *Strassentransportunternehmen im Personenverkehr:* jedes Unternehmen, das eine der Öffentlichkeit oder bestimmten Benutzergruppen angebotene gewerbsmässige Personenbeförderung mit Motorfahrzeugen ausführt, die nach ihrem Bau und ihrer Ausrüstung geeignet und dazu bestimmt sind, ausser dem Lenker oder der Lenkerin mehr als acht Personen zu befördern; die ausschliessliche Beförderung von Personen mit Motorfahrzeugen zu nicht gewerbsmässigen Zwecken und die Beförderung seiner Angestellten durch ein Unternehmen des Nichttransportgewerbes gelten nicht als Tätigkeit im Sinne dieser Begriffsbestimmung;
-- b.[^2-1] *Strassentransportunternehmen im Güterverkehr:* jedes Unternehmen, das gewerbsmässig die Güterbeförderung mit Lastwagen, Sattelmotorfahrzeugen oder Fahrzeugkombinationen ausführt, deren Gesamtgewicht nach Fahrzeugausweis 3,5 Tonnen übersteigt;
-- c. *Motorfahrzeug:* jedes Fahrzeug im Sinne von Artikel 7 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^2-2];
-- d.[^2-3] *Verkehrsleiter oder Verkehrsleiterin:* eine natürliche Person, die die Verkehrstätigkeiten eines Strassentransportunternehmens tatsächlich und dauerhaft leitet.
+- a. *Motorfahrzeug:* jedes Fahrzeug im Sinne von Artikel 7 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^2-2];
+- b. *gewerbsmässige Beförderung:* jede Beförderung von Personen oder Gütern, für die ein Strassentransportunternehmen eine wirtschaftliche Gegenleistung erhält;
+- c. *Verkehrsleiter oder Verkehrsleiterin:* eine natürliche Person, die die Verkehrstätigkeiten eines Strassentransportunternehmens tatsächlich und dauerhaft leitet.
 
-[^2-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^2-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 [^2-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^2-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+
+## 2. Abschnitt: Zulassung als Strassentransportunternehmen
+
+[^sec2-1]
+
+[^sec2-1]: Ursprünglich: vor Art. 2.
 
 #### Art. 3
 
 **Zulassungsbewilligung**
 
-<sup>1</sup> Wer die Tätigkeit als Strassentransportunternehmen im Personen- oder im Güterverkehr ausüben will, benötigt eine Zulassungsbewilligung.
+<sup>1</sup> Wer die Tätigkeit als Strassentransportunternehmen ausüben will, benötigt eine Zulassungsbewilligung.[^3-1]
 
-<sup>2</sup> Die Bewilligung wird vom Bundesamt für Verkehr (BAV) erteilt.
+<sup>1bis</sup>
+
+Eine Zulassungsbewilligung benötigen Strassentransportunternehmen, die gewerbsmässig:
+
+- a. eine der Öffentlichkeit oder bestimmten Benutzergruppen angebotene Personenbeförderung mit Motorfahrzeugen ausführen, die nach ihrem Bau und ihrer Ausrüstung geeignet und dazu bestimmt sind, ausser dem Lenker oder der Lenkerin mehr als acht Personen zu befördern;
+- b. die Güterbeförderung mit Lieferwagen, Lastwagen, Sattelmotorfahrzeugen oder Fahrzeugkombinationen ausführen, deren Gesamtgewicht nach Fahrzeugausweis 2,5 Tonnen übersteigt.[^3-2]
+
+<sup>1ter</sup>
+
+Keine Zulassungsbewilligung benötigen Unternehmen, die:
+
+- a. mit Motorfahrzeugen ausschliesslich ihre Angestellten befördern;
+- b. Güter ausschliesslich zur Erbringung der von ihnen angebotenen und über den Transport hinausgehenden Dienstleistungen befördern;
+- c. für die gewerbsmässige Güterbeförderung ausschliesslich Lieferwagen und Fahrzeugkombinationen verwenden, deren Gesamtgewicht nach Fahrzeugausweis 2,5 Tonnen übersteigt, jedoch höchstens 3,5 Tonnen beträgt, und die diese Fahrzeuge ausschliesslich zur Güterbeförderung in der Schweiz einsetzen;
+- d. ausschliesslich Fahrzeuge mit einer zulässigen Höchstgeschwindigkeit von 40 km/h verwenden.[^3-3]
+
+<sup>2</sup> Die Bewilligung wird vom Bundesamt für Verkehr (BAV) erteilt. Sie gilt für fünf Jahre; sie ist persönlich und nicht übertragbar.[^3-4]
 
 <sup>3</sup> Auf jedem Fahrzeug des Unternehmens muss stets eine beglaubigte Kopie der Zulassungsbewilligung mitgeführt werden.
 
-<sup>4</sup> Der Bundesrat kann Ausnahmen von der Zulassungspflicht vorsehen. Er berücksichtigt dabei insbesondere die Bestimmungen des Abkommens vom 21. Juni 1999[^3-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (Landverkehrsabkommen).[^3-2]
+<sup>4</sup> Der Bundesrat kann Ausnahmen von der Zulassungspflicht vorsehen. Er berücksichtigt dabei insbesondere die Bestimmungen des Abkommens vom 21. Juni 1999[^3-5] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (Landverkehrsabkommen).[^3-6]
 
-[^3-1]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
-[^3-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^3-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^3-2]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^3-3]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^3-4]: Zweiter Satz eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^3-5]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^3-6]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
 #### Art. 3a
 
 **Grenzüberschreitender Personen- und Güterverkehr**[^3a-1]
 
-<sup>1</sup> Der Bundesrat kann ausserhalb des Anwendungsbereichs des Landverkehrsabkommens[^3a-2] mit Drittstaaten Vereinbarungen über den grenzüberschreitenden gewerbsmässigen Personen- und Güterverkehr, mit Ausnahme der Kabotage innerhalb der Schweiz, abschliessen.
+<sup>1</sup>
 
-<sup>2</sup> Er kann in den Vereinbarungen festlegen, von welchen Voraussetzungen nach diesem Gesetz die ausländischen Strassentransportunternehmen abweichen können.
+Der Bundesrat kann ausserhalb des Anwendungsbereichs des Landverkehrsabkommens[^3a-2] und mit Ausnahme der Kabotage innerhalb der Schweiz:
 
-[^3a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+- a. mit Drittstaaten Abkommen über den grenzüberschreitenden gewerbsmässigen Personen- und Güterverkehr abschliessen;
+- b. gestützt auf das Protokoll vom 17. Oktober 1953[^3a-3] über die Europäische Konferenz der Verkehrsminister die Teilnahme der Schweiz am multilateralen System der internationalen Güterbeförderung auf der Strasse beschliessen.
+
+<sup>2</sup> Er kann in den Abkommen und im Beschluss festlegen, von welchen Voraussetzungen nach diesem Gesetz die ausländischen Strassentransportunternehmen abweichen können.
+
+<sup>3</sup> Er kann Änderungen der Anhänge 1, 3 und 4 des Landverkehrsabkommens genehmigen, um die Entwicklungen der Rechtsvorschriften der Europäischen Union (EU) im Bereich der Zulassung als Strassentransportunternehmen im Personen- und Güterverkehr zu berücksichtigen und die damit verbundenen Regelungen gleichwertig umzusetzen.
+
+[^3a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)). Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 [^3a-2]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^3a-3]: [SR 0.740.1](https://fedlex.data.admin.ch/eli/cc/1975/1747_1747_1747)
 
 #### Art. 4
 
@@ -93,8 +134,9 @@ In diesem Gesetz gilt als:
 Wer eine Zulassungsbewilligung als Strassentransportunternehmen erlangen will, muss:
 
 - a. zuverlässig sein (Art. 5);
-- b. finanziell leistungsfähig sein (Art. 6); und
-- c. fachlich geeignet sein (Art. 7).
+- b. finanziell leistungsfähig sein (Art. 6);
+- c. fachlich geeignet sein (Art. 7); und
+- d.[^4-2] über einen tatsächlichen und dauerhaften Sitz in der Schweiz verfügen.
 
 <sup>2</sup>
 
@@ -110,6 +152,7 @@ Für die Zulassung eines Unternehmens müssen die Voraussetzungen nach Absatz 1 
 <sup>5</sup> Ein Verkehrsleiter oder eine Verkehrsleiterin darf im Auftragsverhältnis höchstens vier Unternehmen mit einer Fahrzeugflotte von insgesamt 50 Fahrzeugen leiten. Der Bundesrat kann die Zahl der Unternehmen oder Fahrzeuge weiter einschränken.
 
 [^4-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^4-2]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
 #### Art. 5
 
@@ -138,9 +181,11 @@ Eine Person gilt als zuverlässig, wenn sie in den letzten zehn Jahren:
 
 **Finanzielle Leistungsfähigkeit**
 
-<sup>1</sup> Die finanzielle Leistungsfähigkeit eines Unternehmens ist gewährleistet, wenn Eigenkapital und Reserven zusammen einen bestimmten Betrag erreichen. Massgebend zu dessen Berechnung ist die Anzahl Fahrzeuge*.*
+<sup>1</sup> Die finanzielle Leistungsfähigkeit eines Unternehmens ist gewährleistet, wenn Eigenkapital und Reserven zusammen einen bestimmten Betrag erreichen. Massgebend für dessen Berechnung sind die Anzahl Fahrzeuge sowie deren jeweiliges Gesamtgewicht nach Fahrzeugausweis*.*[^6-1]
 
 <sup>2</sup> Der Bundesrat legt die Grundbeträge fest.
+
+[^6-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
 #### Art. 7
 
@@ -169,62 +214,77 @@ Eine Person gilt als zuverlässig, wenn sie in den letzten zehn Jahren:
 
 <sup>1bis</sup> Bestehen konkrete Anhaltspunkte dafür, dass die Zulassungsvoraussetzungen nicht mehr erfüllt sind, so informiert das BAV das Strassentransportunternehmen darüber und setzt ihm eine Frist für den Nachweis, dass die Voraussetzungen erfüllt sind. Erbringt das Unternehmen den Nachweis nicht, so muss es den vorschriftsmässigen Zustand innert sechs Monaten wiederherstellen. Das BAV kann die Frist um höchstens drei Monate verlängern, wenn der Verkehrsleiter oder die Verkehrsleiterin infolge Todes oder Krankheit ersetzt werden muss.[^8-1]
 
-<sup>2</sup> Es entzieht oder widerruft die Zulassungsbewilligung entschädigungslos, wenn eine Zulassungsvoraussetzung nicht mehr erfüllt ist oder wenn das Unternehmen wiederholt oder schwerwiegend gegen die Bestimmungen über den Strassenverkehr verstossen hat.
+<sup>2</sup> Es entzieht oder widerruft die Zulassungsbewilligung entschädigungslos, wenn eine Zulassungsvoraussetzung nicht mehr erfüllt ist oder wenn das Unternehmen wiederholt oder in schwerwiegender Weise gegen die Bestimmungen im Strassenverkehr verstossen hat.[^8-2]
 
 [^8-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^8-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+
+#### Art. 8a
+
+**Beauftragung von Strassentransportunternehmen im Güterverkehr**[^8a-1]
+
+Unternehmen dürfen ein Strassentransportunternehmen nicht mit einer gewerbsmässigen Güterbeförderung beauftragen, sofern die Durchführung des erteilten Auftrages einen Verstoss darstellt gegen:
+
+- a. die Bestimmungen über das Erfordernis einer Zulassungsbewilligung oder Fahrerbescheinigung nach diesem Gesetz, dem Landverkehrsabkommen[^8a-2], den gestützt darauf erlassenen Vorschriften oder Kapitel II der Verordnung (EG) Nr. 1072/2009[^8a-3]; oder
+- b. die Kabotagevorschriften des Landverkehrsabkommens oder von Kapitel III der Verordnung (EG) Nr. 1072/2009.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^8a-2]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^8a-3]: Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs, ABl. L 300 vom 14.11.2009, S. 72; zuletzt geändert durch Verordnung (EU) 2020/1055, ABl. L 249 vom 31.7.2020, S. 17.
 
 #### Art. 9
 
 **Register der Strassentransportunternehmen**[^9-1]
 
-<sup>1</sup> Das BAV führt ein Register der Strassentransportunternehmen im Personenverkehr und im Güterverkehr.
+<sup>1</sup> Das BAV führt zur Beurteilung der Zuverlässigkeit sowie zur Überprüfung der Einhaltung der für die Zulassung massgebenden Vorschriften ein Register der Strassentransportunternehmen. Das Register besteht aus einem öffentlich zugänglichen und einem nicht öffentlich zugänglichen Teil.
 
 <sup>2</sup>
 
-Das Register enthält:
+Der öffentlich zugängliche Teil des Registers enthält:
 
 - a. Name und Sitz des Unternehmens;
 - b. Art der Zulassungsbewilligung;
 - c. Name des Verkehrsleiters oder der Verkehrsleiterin;
 - d. Zahl der Fahrzeuge.
 
-<sup>3</sup> Das Register ist öffentlich zugänglich.
+<sup>3</sup>
 
-[^9-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+Der nicht öffentlich zugängliche Teil des Registers enthält folgende Informationen:
 
-#### Art. 9a
+- a. Daten, die zur Identifizierung der Personen notwendig sind, die die Voraussetzung der Zuverlässigkeit erfüllen müssen;
+- b. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen wegen Straftaten nach Artikel 5 Absatz 1 Buchstabe a oder b;
+- c. Gründe für ernsthafte Zweifel an der Zuverlässigkeit;
+- d. Feststellung im Rahmen einer Prüfung nach Artikel 8 Absatz 1, dass eine Person die Voraussetzung der Zuverlässigkeit nicht mehr erfüllt;
+- e. Entzug oder Widerruf der Zulassungsbewilligung.
 
-**Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen**[^9a-1]
-
-<sup>1</sup> Das BAV führt ein Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen.
-
-<sup>2</sup>
-
-Es bearbeitet darin folgende Daten:
-
-- a. Daten, die zur Identifizierung der betroffenen Person notwendig sind;
-- b. Verurteilungen wegen Straftaten nach Artikel 5 Absatz 1;
-- c. administrative Massnahmen wegen Straftaten nach Artikel 5 Absatz 1;
-- d. Gründe für Zweifel an der Zuverlässigkeit nach Artikel 5 Absatz 2;
-- e. Feststellung im Rahmen einer Prüfung nach Artikel 8 Absatz 1, dass die Person die Anforderungen an die Zuverlässigkeit nicht mehr erfüllt;
-- f. Entzug oder Widerruf der Zulassungsbewilligung des betroffenen Strassentransportunternehmens.
-
-<sup>3</sup> Das BAV gibt die Daten nach Absatz 2 Buchstaben a, e und f auf Anfrage den für die Zulassung als Strassentransportunternehmen zuständigen Behörden der EU-Mitgliedstaaten sowie von Drittstaaten nach Massgabe der anwendbaren Abkommen bekannt. Es kann diese Daten im Abrufverfahren zugänglich machen.
-
-<sup>4</sup> Es vernichtet die Daten nach zehn Jahren.
+<sup>4</sup> Das BAV vernichtet die Daten nach zehn Jahren.
 
 <sup>5</sup>
 
 Der Bundesrat regelt insbesondere:
 
-- a. die Modalitäten des Zugriffs im Abrufverfahren;
-- b. die Ausübung des Auskunfts- und Berichtigungsrechts der betroffenen Person;
-- c. die Anforderungen an die Datensicherheit;
-- d. die Fristen für die Löschung und die Vernichtung der Daten.
+- a. die Ausübung des Auskunfts- und Berichtigungsrechts der betroffenen Person;
+- b. die Anforderungen an die Datensicherheit;
+- c. die Einzelheiten der Löschung und der Vernichtung der Daten.
 
-<sup>6</sup> Er kann völkerrechtliche Verträge über die Bekanntgabe der Daten nach Absatz 3 abschliessen.
+[^9-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
-[^9a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+#### Art. 9a
+
+**Gegenseitige Amtshilfe und Informationsaustausch**[^9a-1]
+
+<sup>1</sup> Im Rahmen der gegenseitigen Amtshilfe gibt das BAV den zuständigen Behörden der EU-Mitgliedstaaten und Drittstaaten auf Anfrage Auskunft darüber, ob ein Strassentransportunternehmen die Voraussetzung des tatsächlichen und dauerhaften Sitzes in der Schweiz erfüllt.
+
+<sup>2</sup> Der Informationsaustausch mit EU-Mitgliedstaaten über die Daten nach Artikel 9 Absätze 2 und 3 Buchstaben a, d und e erfolgt über das in der Durchführungsverordnung (EU) 2016/480[^9a-2] vorgesehene Informationssystem.
+
+<sup>3</sup> Der Bundesrat kann völkerrechtliche Verträge über den Anschluss an Informationssysteme für die grenzüberschreitende Verwaltungszusammenarbeit abschliessen. Er regelt die Einzelheiten wie die Zuständigkeit für die nationale Koordination und die Zugriffsrechte.
+
+<sup>4</sup> Auf Anfrage von Drittstaaten gibt das BAV nach Massgabe der im Einzelfall anwendbaren Abkommen die Daten nach Artikel 9 Absätze 2 und 3 Buchstaben a, d und e bekannt. Das BAV kann diese Daten im Abrufverfahren zugänglich machen.
+
+<sup>5</sup> Der Bundesrat kann völkerrechtliche Verträge über die Bekanntgabe der Daten nach Absatz 4 abschliessen. Er regelt die Einzelheiten des Zugriffs im Abrufverfahren.
+
+[^9a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)). Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
+[^9a-2]: Durchführungsverordnung (EU) 2016/480 der Kommission vom 1. April 2016 zur Festlegung gemeinsamer Regeln für die Vernetzung der nationalen elektronischen Register der Kraftverkehrsunternehmen und zur Aufhebung der Verordnung (EU) Nr. 1213/2010, ABl. L 87 vom 2.4.2016, S. 4; zuletzt geändert durch die Durchführungsverordnung (EU) 2017/1440, ABl. L 206 vom 9.8.2017, S. 3.
 
 #### Art. 10
 
@@ -244,9 +304,12 @@ Das Beschwerdeverfahren richtet sich nach den Vorschriften der Bundesverwaltungs
 
 <sup>3</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig der Zulassungsbewilligung zuwiderhandelt.
 
+<sup>3bis</sup> Wer vorsätzlich oder fahrlässig gegen das Verbot nach Artikel 8*a* verstösst, wird mit Busse bestraft.[^11-2]
+
 <sup>4</sup> Der Bundesrat kann Widerhandlungen gegen Ausführungsbestimmungen für strafbar erklären.
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^11-2]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
 #### Art. 12
 
@@ -258,7 +321,7 @@ Das Beschwerdeverfahren richtet sich nach den Vorschriften der Bundesverwaltungs
 
 [^12-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-## 4. Abschnitt: Schlussbestimmungen****
+## 4. Abschnitt: Schlussbestimmungen
 
 [^sec4-1]
 
@@ -266,24 +329,15 @@ Das Beschwerdeverfahren richtet sich nach den Vorschriften der Bundesverwaltungs
 
 #### Art. 12a
 
-**Übergangsbestimmungen zur Änderung vom 26. September 2014**[^12a-1]
+**Übergangsbestimmungen zur Änderung vom 14. Juni 2024**[^12a-1]
 
-<sup>1</sup> Bei Inkrafttreten der Änderung vom 26. September 2014 bestehende Zulassungsbewilligungen bleiben nach bisherigem Recht gültig, sofern sie nicht nach neuem Recht entzogen oder widerrufen werden.
+<sup>1</sup> Bei Inkrafttreten der Änderung vom 14. Juni 2024 bestehende Zulassungsbewilligungen bleiben nach bisherigem Recht gültig, sofern sie nicht nach neuem Recht entzogen oder widerrufen werden.
 
-<sup>2</sup>
+<sup>2</sup> Strassentransportunternehmen nach Artikel 3 Absatz 1<sup>bis</sup> Buchstabe b, die nach bisherigem Recht über eine Zulassungsbewilligung verfügen, erhalten für Fahrzeuge, deren Gesamtgewicht nach Fahrzeugausweis 2,5 Tonnen übersteigt, jedoch höchstens 3,5 Tonnen beträgt, eine neue Zulassungsbewilligung für die verbleibende Gültigkeitsdauer der bestehenden Zulassungsbewilligung.
 
-Nach Inkrafttreten dieser Änderung gelten als Verkehrsleiter oder Verkehrsleiterin natürliche Personen, die:
+<sup>3</sup> Bis zum Inkrafttreten der für den Informationsaustausch nach Artikel 9*a* Absatz 2 erforderlichen Abkommen gibt das BAV die Daten den zuständigen Behörden der EU-Mitgliedstaaten auf Anfrage bekannt. Es kann diese Daten im Abrufverfahren zugänglich machen.
 
-- a. als Strassentransportunternehmen die Voraussetzungen nach Artikel 4 Absatz 1[^12a-2] bisherigen Rechts erfüllen;
-- b. als leitende Person in einem Strassentransportunternehmen die Voraussetzungen nach Artikel 4 Absatz 2[^12a-3] bisherigen Rechts erfüllen.
-
-<sup>3</sup> Strassentransportunternehmen, deren Verkehrsleiter oder Verkehrsleiterin die Voraussetzungen nach Artikel 4 Absatz 2 nicht erfüllt, müssen dem BAV innerhalb eines Jahres nach Inkrafttreten dieser Änderung eine Person melden, welche die Voraussetzungen erfüllt.
-
-<sup>4</sup> Für die Güterbeförderung mit Fahrzeugen mit einem Gesamtgewicht zwischen 3,5 und 6 Tonnen ist während zwei Jahren nach Inkrafttreten dieser Änderung keine Zulassung erforderlich.
-
-[^12a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^12a-2]: [AS 2009 5651](https://fedlex.data.admin.ch/eli/oc/2009/681)
-[^12a-3]: [AS 2009 5651](https://fedlex.data.admin.ch/eli/oc/2009/681)
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 ([AS 2015 3191](https://fedlex.data.admin.ch/eli/oc/2015/596); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)). Fassung gemäss Ziff. I des BG vom 14. Juni 2024, in Kraft seit 1. Mai 2025 ([AS 2025 174](https://fedlex.data.admin.ch/eli/oc/2025/174); [BBl 2023 1290](https://fedlex.data.admin.ch/eli/fga/2023/1290)).
 
 #### Art. 13
 
