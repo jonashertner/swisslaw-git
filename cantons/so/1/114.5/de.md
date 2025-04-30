@@ -1,0 +1,140 @@
+---
+canton: SO
+number: "114.5"
+title: Gesetz über die Auslagerung von Informatikdienstleistungen
+short: "Auslagerungsgesetz, AusG"
+language: de
+version: 2025-05-01
+version_adopted: 2025-01-29
+adopted: 2025-01-29
+in_force: 2025-05-01
+url: "https://bgs.so.ch/app/de/texts_of_law/114.5"
+pdf: "https://bgs.so.ch/api/de/versions/5542/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Auslagerung von Informatikdienstleistungen
+
+(Auslagerungsgesetz, AusG)
+
+Vom 29.01.2025 (Stand 01.05.2025)
+
+Der Kantonsrat von Solothurn
+
+gestützt auf Artikel 8 Absatz 2, 85 und 86 Absatz 1 Buchstabe a der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1]
+
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 12. November 2024 (RRB Nr. 2024/1809)
+
+beschliesst:
+
+[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Gesetz regelt für die kantonale Verwaltung die Auslagerung von Informatikdienstleistungen.
+
+#### § 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz gilt für alle Behörden der kantonalen Verwaltung.
+
+<sup>2</sup> Nicht unter den Geltungsbereich fallen die Solothurner Spitäler AG, die selbständigen öffentlich-rechtlichen Anstalten des Kantons und die Informatikdienstleistungen an den kantonalen Schulen für Unterrichtszwecke.
+
+#### § 3
+
+**Begriffe**
+
+<sup>1</sup> In diesem Gesetz bedeuten:
+
+- a) Auslagerung: Auftrag der zuständigen Behörde an Dritte zur Erbringung von Informatikdienstleistungen;
+- b) Informatikdienstleistungen: Dienstleistungen der Informations- und Kommunikationstechnik, namentlich im Zusammenhang mit allen Anwendungen, Informationssystemen, Einrichtungen und Produkten, die der elektronischen Verarbeitung von Informationen dienen;
+- c) Dritte: Auftragnehmende ausserhalb der kantonalen Verwaltung, die mit der Erbringung von Informatikdienstleistungen beauftragt werden;
+- d) auslagernde Behörde: Behörde, die zur Erfüllung ihrer Aufgaben Informatikdienstleistungen an Dritte auslagert;
+- e) zuständige Behörde: Behörde, die gemäss § 6 für den Entscheid über die Auslagerung zuständig ist.
+
+#### § 4
+
+**Zulässige Standorte**
+
+<sup>1</sup> Die Auslagerung von Informatikdienstleistungen darf ins Ausland nur erfolgen, wenn ein angemessener Datenschutz gemäss Anhang 1 der Verordnung über den Datenschutz (DSV) vom 31. August 2022[^4-1] gewährleistet ist.
+
+<sup>2</sup> Besonders schützenswerte Personendaten und Sachdaten mit erhöhtem Schutzbedarf dürfen nur innerhalb der Schweiz ausgelagert werden. Ausnahmen sind in begründeten Einzelfällen zulässig.
+
+[^4-1]: SR [235.11](https://db.clex.ch/link/Bund/235.11/de).
+
+#### § 5
+
+**Voraussetzungen**
+
+<sup>1</sup> Die Auslagerung ist dann zulässig, wenn die zuständige Behörde durch Gesetz oder schriftliche Vereinbarung sicherstellt, dass
+
+- a) Dritte Informatikdienstleistungen nur so erbringen, wie es die auslagernde Behörde selbst tun dürfte;
+- b) Dritte, einschliesslich ihrer Mitarbeitenden und Hilfspersonen, diejenigen Amtsgeheimnis-, Berufsgeheimnis- und besonderen Geheimhaltungspflichten übernehmen sowie die Bestimmungen über den Datenschutz einhalten, an welche die auslagernde Behörde gebunden ist;
+- c) die Datensicherheit durch angemessene technische und organisatorische Massnahmen gewährleistet ist;
+- d) Dritte zur Erbringung der Informatikdienstleistungen nur mit vorgängiger schriftlicher Genehmigung der zuständigen Behörde andere Dritte beauftragen dürfen;
+- e) Dritte für die gehörige Sorgfalt bei der Auswahl, Instruktion und Überwachung ihrer Mitarbeitenden und Hilfspersonen haften;
+- f) die Bestimmungen der kantonalen Archivgesetzgebung eingehalten werden;
+- g) der zuständigen und der auslagernden Behörde sowie den zuständigen Aufsichtsbehörden die erforderlichen Weisungs- und Kontrollrechte zustehen und
+- h) auf das Vertragsverhältnis Schweizer Recht zur Anwendung gelangt und ein Gerichtsstand in der Schweiz bestimmt wird, wobei Ausnahmen in begründeten Einzelfällen zulässig sind.
+
+<sup>2</sup> Die zuständige Behörde stellt sicher, dass die staatliche Aufgabenerfüllung auch dann ohne wesentliche Beeinträchtigung gewährleistet ist, wenn Dritte Abmachungen nicht einhalten oder die Geschäftstätigkeit einstellen.
+
+#### § 6
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Regierungsrat beschliesst unter Vorbehalt von Absatz 2 für die kantonale Verwaltung die Auslagerung von Informatikdienstleistungen, wenn sie
+
+- a) von übergeordnetem oder strategischem Interesse ist; oder
+- b) für eine oder mehrere Organisationseinheiten zwingend vorgeschrieben werden soll; oder
+- c) ein hohes Risiko für die Grundrechte der betroffenen Personen mit sich bringt, namentlich bei einer umfangreichen Bearbeitung besonders schützenswerter Personendaten.
+
+<sup>2</sup> Unter den gleichen Voraussetzungen beschliesst die Gerichtsverwaltungskommission für die Gerichte die Auslagerung von Informatikdienstleistungen.
+
+<sup>3</sup> In allen übrigen Fällen ist die auslagernde Behörde für die Auslagerung zuständig.
+
+<sup>4</sup> Die Beschlüsse zu Auslagerungen gemäss Absatz 1 und 2 werden veröffentlicht.
+
+#### § 7
+
+**Risikomanagement**
+
+<sup>1</sup> Die zuständige Behörde sorgt dafür, dass die sich aus der Auslagerung ergebenden Risiken laufend beurteilt werden.
+
+<sup>2</sup> Sie bestimmt die erforderlichen Massnahmen, um die Risiken angemessen zu minimieren.
+
+<sup>3</sup> Risiken, die getragen werden sollen, müssen nachweislich akzeptiert werden.
+
+#### § 8
+
+**Verantwortung**
+
+<sup>1</sup> Die Verantwortung für die rechtmässige Aufgabenerfüllung bleibt bei der auslagernden Behörde.
+
+<sup>2</sup> Für die sich aus der Auslagerung ergebenden Risiken trägt die zuständige Behörde die Verantwortung.
+
+#### § 9
+
+**Verhältnis zu anderen Erlassen**
+
+<sup>1</sup> Der Geltungsbereich der kantonalen Datenschutz- und Archivgesetzgebung sowie die anwendbaren finanz- und submissionsrechtlichen Bestimmungen bleiben von diesem Gesetz unberührt.
+
+#### § 10
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Bereits in Auftrag gegebene Auslagerungen sind innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes an die Anforderungen dieses Erlasses anzupassen.
+
+KRB Nr. RG 0220/2024 vom 29. Januar 2025.
+
+Die Referendumsfrist ist am 16. Mai 2025 unbenutzt abgelaufen.
+
+Inkrafttreten am 1. Mai 2025.
+
+Publiziert im Amtsblatt vom 30. Mai 2025.
+
+GS 2025, 3
