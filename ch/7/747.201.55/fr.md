@@ -4,22 +4,22 @@ title: Ordonnance du DETEC du 2 juillet 2001 sur les émoluments de l’organe d
 short: OEmol-OHB
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/290"
 language: fr
-version: 2008-03-01
+version: 2025-05-01
 adopted: 2001-07-02
 in_force: 2001-07-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/290/20080301/fr/xml/fedlex-data-admin-ch-eli-cc-2001-290-20080301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/290/20080301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/290/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2001-290-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/290/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DETEC sur la perception d’émoluments de l’organe d’homologation des bateaux
+# Ordonnance du DETEC sur les émoluments de l’organe d’homologation des bateaux
 
-(OEOHB)**[^t-1]**
+(OEmol-OHB)[^t-1]
 
-du 2 juillet 2001 (Etat le 1<sup>er</sup> mars 2008)
+du 2 juillet 2001 (État le 1<sup>er</sup> mai 2025)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication,
 
@@ -51,67 +51,56 @@ La présente ordonnance régit la perception des émoluments pour les expertises
 
 <sup>1</sup> Les débours peuvent être calculés séparément en fonction des coûts effectifs. Ils sont exigés avec les émoluments.
 
-<sup>2</sup> Sont réputés débours les frais non compris dans les émoluments, notamment les taxes postales et de télécommunication, les suppléments pour les travaux demandés dans de très brefs délais, les frais de production de doubles et de traduction.
+<sup>2</sup> Sont réputés débours les frais non compris dans les émoluments.[^3-1]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 4
 
-**Emoluments administratifs**[^4-1]
+**Émoluments administratifs**[^4-1]
 
 L’émolument administratif s’élève aux montants suivants:
 
 <table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>a. pour le procès-verbal d’expertise technique</td><td>30.–</td></tr>
-<tr><td>b. pour le certificat de type</td><td>50.–</td></tr>
-<tr><td>c. pour l’inscription supplémentaire dans le certificat de type</td><td>30.–</td></tr>
+<tr><th></th><th>Francs</th></tr>
+<tr><td>a. pour le procès-verbal d’expertise technique b. pour le certificat de type c. pour l’inscription supplémentaire dans le certificat de type</td><td>50.– 70.– 40.–</td></tr>
 </table>
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 5
 
-**Emoluments pour l’expertise technique**[^5-1]
+**Émoluments pour l’expertise technique**[^5-1]
 
 <sup>1</sup> L’émolument de base perçu pour l’expertise technique d’un bateau de sport ou de plaisance s’élève aux montants suivants:
 
 <table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>a. pour les bateaux jusqu’à 10 m de longueur</td><td>120.–</td></tr>
-<tr><td>b. pour les bateaux plus de 10 m de longueur</td><td>150.–</td></tr>
+<tr><th></th><th>Francs</th></tr>
+<tr><td>a. pour les bateaux jusqu’à 10 m de longueur b. pour les bateaux plus de 10 m de longueur</td><td>150.– 180.–</td></tr>
 </table>
 
-<sup>2</sup> Les suppléments suivants sont perçus:
+<sup>2</sup> Pour les bateaux de sport ou de plaisance, les suppléments suivants sont perçus:
 
 <table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>a. pour les bateaux à moteur fixe</td><td>30.–</td></tr>
-<tr><td>b. pour le contrôle:</td><td></td></tr>
-<tr><td>1. des feux</td><td>30.–</td></tr>
-<tr><td>2. de la protection des eaux</td><td>30.–</td></tr>
-<tr><td>3. de l’aménagement sanitaire</td><td>30.–</td></tr>
-<tr><td>4. des installations fixes de carburant</td><td>30.–</td></tr>
-<tr><td>5. du réservoir fixe à matières fécales</td><td>30.–</td></tr>
-<tr><td>c. pour la mesure des émissions sonores d’exploitation</td><td>200.–</td></tr>
-<tr><td>d. pour le calcul de la surface vélique:</td><td></td></tr>
-<tr><td>1. jusqu’à 15 m<sup>2</sup> de surface vélique</td><td>100.–</td></tr>
-<tr><td>2. plus de 15 m<sup>2</sup> de surface vélique</td><td>150.–</td></tr>
+<tr><th></th><th>Francs</th></tr>
+<tr><td>a. pour les bateaux à moteur fixe b. pour le contrôle:</td><td>40.–</td></tr>
+<tr><td>1. des feux 2. de la protection des eaux 3. de l’aménagement sanitaire 4. des installations fixes de carburant 5. du réservoir fixe à matières fécales</td><td>40.– 40.– 40.– 40.– 40.–</td></tr>
+<tr><td>c. pour la mesure des émissions sonores d’exploitation d. pour le calcul de la surface vélique:</td><td>250.–</td></tr>
+<tr><td>1. jusqu’à 15 m<sup>2</sup> de surface vélique 2. plus de 15 m<sup>2</sup> de surface vélique</td><td>100.– 150.–</td></tr>
 </table>
 
 <sup>3</sup> Pour les bateaux de plaisance, les suppléments suivants sont perçus:
 
 <table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>a. pour le calcul du nombre de personnes</td><td>30.–</td></tr>
-<tr><td>b. pour le calcul de la puissance propulsive</td><td>30.–</td></tr>
-<tr><td>c. pour le calcul du franc-bord</td><td>30.–</td></tr>
-<tr><td>d. pour le calcul de la stabilité</td><td>30.–</td></tr>
+<tr><th></th><th>Francs</th></tr>
+<tr><td>a. pour le calcul du nombre de personnes b. pour le calcul de la puissance propulsive c. pour le calcul du franc-bord d. pour le calcul de la stabilité</td><td>40.– 40.– 40.– 40.–</td></tr>
 </table>
 
 <sup>4</sup> Pour les contrôles ultérieurs, seuls les émoluments mentionnés aux al. 2 et 3 sont perçus.
 
 <sup>5</sup> Pour les autres bateaux, l’émolument se calcule selon les règles fixées à l’art. 7.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 6
 
@@ -121,11 +110,15 @@ L’émolument administratif s’élève aux montants suivants:
 
 #### Art. 7
 
-**Emoluments pour les autres actes administratifs**
+**Émoluments pour les autres actes administratifs**[^7-1]
 
 <sup>1</sup> Les émoluments perçus pour les autres actes administratifs se calculent en fonction du temps consacré.
 
-<sup>2</sup> Le tarif est compris entre 100 et 150 francs par heure de travail. Il est déterminé par l’ampleur et la difficulté de l’acte administratif et s’applique aux travaux qui dépassent le cadre de l’expertise habituelle.
+<sup>2</sup> Sont réputés autres actes administratifs les actes qui dépasse le cadre de l’expertise habituelle, en particulier les vérifications de documents, les investigations techniques et les temps de trajet sous forme de forfaits de déplacement.
+
+<sup>3</sup> Le tarif est compris entre 100 et 200 francs par heure de travail. Il est déterminé par l’ampleur et la difficulté de l’acte administratif.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 8
 
@@ -142,7 +135,7 @@ Pour des raisons importantes, l’organe d’homologation peut réduire l’émo
 
 <sup>1</sup> A la demande de la personne assujettie à l’émolument, celui-ci est fixé par une décision en bonne et due forme.
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 [^9-1]: Nouvelle teneur selon le ch. V 6 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^9-2]: Abrogé par le ch. V 6 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).

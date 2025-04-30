@@ -4,22 +4,22 @@ title: Verordnung des UVEK vom 2. Juli 2001 über die Gebühren der Typenprüfst
 short: GebV-TPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/290"
 language: de
-version: 2008-03-01
+version: 2025-05-01
 adopted: 2001-07-02
 in_force: 2001-07-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/290/20080301/de/xml/fedlex-data-admin-ch-eli-cc-2001-290-20080301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/290/20080301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/290/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2001-290-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/290/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Gebühren der Typenprüfstelle für Schiffe
 
-(GebV-TPS)**[^t-1]**
+(GebV-TPS)[^t-1]
 
-vom 2. Juli 2001 (Stand am 1. März 2008)
+vom 2. Juli 2001 (Stand am 1. Mai 2025)
 
-[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 8. Febr. 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 8. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
 
 Das Departement für Umwelt, Verkehr, Energie und Kommunikation,
 
@@ -51,7 +51,9 @@ Diese Verordnung regelt die Gebühren für die Typenprüfung und für weitere Am
 
 <sup>1</sup> Die Auslagen können separat und nach den effektiven Kosten berechnet werden. Sie werden zusammen mit den Gebühren in Rechnung gestellt.
 
-<sup>2</sup> Als Auslagen gelten Kosten, die von den Gebührenansätzen nicht abgedeckt werden, insbesondere Post- und Fernmeldetaxen, Expresszuschläge, Anfertigung von Duplikaten und Übersetzungen.
+<sup>2</sup> Als Auslagen gelten Kosten, die von den Gebührenansätzen nicht abgedeckt werden.[^3-1]
+
+[^3-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 4
 
@@ -60,13 +62,11 @@ Diese Verordnung regelt die Gebühren für die Typenprüfung und für weitere Am
 Die administrativen Gebühren betragen für:
 
 <table>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>[tab] a.</td><td>das technische Prüfungsprotokoll</td><td>30.–</td></tr>
-<tr><td>[tab] b.</td><td>den Typenschein</td><td>50.–</td></tr>
-<tr><td>[tab] c.</td><td>den Nachtrag im Typenschein</td><td>30.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. das technische Prüfungsprotokoll b. den Typenschein c. den Nachtrag im Typenschein</td><td>50.– 70.– 40.–</td></tr>
 </table>
 
-[^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 8. Febr. 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 5
 
@@ -75,57 +75,50 @@ Die administrativen Gebühren betragen für:
 <sup>1</sup> Die Grundgebühr für die technische Prüfung von Sportbooten und Vergnügungsschiffen beträgt:
 
 <table>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>[tab] a.</td><td>bis 10 m Länge</td><td>120.–</td></tr>
-<tr><td>[tab] b.</td><td>über 10 m Länge</td><td>150.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. bis 10 m Länge b. über 10 m Länge</td><td>150.– 180.–</td></tr>
 </table>
 
 <sup>2</sup> Bei Sportbooten und Vergnügungsschiffen werden folgende Zuschläge erhoben:
 
 <table>
-<tr><td></td><td colspan="2"></td><td>Franken</td></tr>
-<tr><td>[tab] a.</td><td colspan="2">für Schiffe mit Innenbordmotor</td><td>30.–</td></tr>
-<tr><td>[tab] b.</td><td colspan="2">für die Kontrolle:</td><td></td></tr>
-<tr><td></td><td>1.</td><td>der Lichterführung</td><td>30.–</td></tr>
-<tr><td></td><td>2.</td><td>des Gewässerschutzes</td><td>30.–</td></tr>
-<tr><td></td><td>3.</td><td>der sanitären Einrichtungen</td><td>30.–</td></tr>
-<tr><td></td><td>4.</td><td>der fest eingebauten Treibstoffanlagen</td><td>30.–</td></tr>
-<tr><td></td><td>5.</td><td>der fest eingebauten Fäkalientanks</td><td>30.–</td></tr>
-<tr><td>[tab] c.</td><td colspan="2">für die Messung des Betriebsgeräusches</td><td>200.–</td></tr>
-<tr><td>[tab] d.</td><td colspan="2">für die Segelvermessung:</td><td></td></tr>
-<tr><td></td><td>1.</td><td>bis 15 m<sup>2</sup> Segelfläche</td><td>100.–</td></tr>
-<tr><td></td><td>2.</td><td>über 15 m<sup>2</sup> Segelfläche</td><td>150.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. für Schiffe mit Innenbordmotoren b. für die Kontrolle:</td><td>40.–</td></tr>
+<tr><td>1. der Lichterführung 2. des Gewässerschutzes 3. der sanitären Einrichtungen 4. der fest eingebauten Treibstoffanlagen 5. der fest eingebauten Fäkalientanks</td><td>40.– 40.– 40.– 40.– 40.–</td></tr>
+<tr><td>c. für die Messung des Betriebsgeräusches d. für die Segelvermessung:</td><td>250.–</td></tr>
+<tr><td>1. bis 15 m<sup>2</sup> Segelfläche 2. über 15 m<sup>2</sup> Segelfläche</td><td>100.– 150.–</td></tr>
 </table>
 
 <sup>3</sup> Bei Vergnügungsschiffen werden zusätzlich folgende Zuschläge erhoben für die Berechnung:
 
 <table>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>[tab] a.</td><td>der Personenzahl</td><td>30.–</td></tr>
-<tr><td>[tab] b.</td><td>der Antriebsleistung</td><td>30.–</td></tr>
-<tr><td>[tab] c.</td><td>des Freibords</td><td>30.–</td></tr>
-<tr><td>[tab] d.</td><td>der Stabilität</td><td>30.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. der Personenzahl b. der Antriebsleistung c. des Freibords d. der Stabilität</td><td>40.– 40.– 40.– 40.–</td></tr>
 </table>
 
 <sup>4</sup> Für Nachkontrollen werden nur die Gebühren nach den Absätzen 2 und 3 erhoben.
 
 <sup>5</sup> Für die übrigen Schiffe wird die Gebühr nach Artikel 7 berechnet.
 
-[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 8. Febr. 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 6
 
 [^6-1]
 
-[^6-1]: Aufgehoben durch Ziff. I der V des UVEK vom 8. Febr. 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
+[^6-1]: Aufgehoben durch Ziff. I der V des UVEK vom 8. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 553](https://fedlex.data.admin.ch/eli/oc/2008/121)).
 
 #### Art. 7
 
-**Gebühren für die übrigen Amtshandlungen**
+**Gebühren für die übrigen Amtshandlungen**[^7-1]
 
 <sup>1</sup> Die Gebühr für die übrigen Amtshandlungen wird nach Zeitaufwand berechnet.
 
-<sup>2</sup> Sie beträgt je aufgewendete Arbeitsstunde 100 bis 150 Franken. Sie richtet sich nach dem Umfang und der Schwierigkeit der Amtshandlung und gilt für Aufwendungen, die nicht dem üblichen Prüfungsumfang entsprechen.
+<sup>2</sup> Als übrige Amtshandlungen gelten Handlungen, die über den üblichen Prüfungsumfang hinausgehen, insbesondere Dokumentenüberprüfungen, technische Abklärungen und Anfahrtszeiten in Form von Wegpauschalen.
+
+<sup>3</sup> Die Gebühr beträgt je aufgewendete Arbeitsstunde 100–200 Franken. Die Höhe richtet sich nach dem Umfang und der Schwierigkeit der Amtshandlung.
+
+[^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 233](https://fedlex.data.admin.ch/eli/oc/2025/233)).
 
 #### Art. 8
 
@@ -142,7 +135,7 @@ Die Typenprüfstelle kann die Gebühren aus wichtigen Gründen ermässigen oder 
 
 <sup>1</sup> Auf Ersuchen der gebührenpflichtigen Person wird die Gebühr formell verfügt.
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 [^9-1]: Fassung gemäss Ziff. V 6 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^9-2]: Aufgehoben durch Ziff. V 5 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
