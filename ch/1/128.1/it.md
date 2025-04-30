@@ -4,11 +4,11 @@ title: "Ordinanza dell’8 novembre 2023 sulla sicurezza delle informazioni in s
 short: OSIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: it
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2023-735-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/it"
 
 (Ordinanza sulla sicurezza delle informazioni, OSIn)
 
-dell’8 novembre 2023 (Stato 1° luglio 2024)
+dell’8 novembre 2023 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -54,10 +54,10 @@ La presente ordinanza si applica:
 
 <sup>2</sup>
 
-Per le unità amministrative dell’Amministrazione federale decentralizzata di cui all’articolo 2 capoverso 3 della legge del 21 marzo 1997[^2-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA) e le organizzazioni di cui all’articolo 2 capoverso 4 LOGA si applicano le disposizioni seguenti della LSIn e della presente ordinanza:
+Per le unità amministrative dell’Amministrazione federale decentralizzata di cui all’articolo 2 capoverso 3 della legge del 21 marzo 1997[^2-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA) nonché le organizzazioni e le persone di cui all’articolo 2 capoverso 4 LOGA si applicano le disposizioni seguenti della LSIn e della presente ordinanza:[^2-2]
 
 - a. se trattano informazioni classificate della Confederazione: gli articoli 5–6, 9–10, 12–15, 20–23 e 27–73 LSIn nonché gli articoli 16, 21, 24, 26 e 32, 34–35 della presente ordinanza;
-- b. se accedono a mezzi informatici dei fornitori interni di prestazioni TIC secondo l’articolo 9 dell’ordinanza del 25 novembre 2020[^2-2] sulla trasformazione digitale e l’informatica (OTDI) oppure fanno gestire i loro mezzi informatici da questi fornitori di prestazioni: gli articoli 5–6, 9–10, 16–73 LSIn nonché gli articoli 10–12, 27 e 29–35 della presente ordinanza.
+- b.[^2-3] se accedono a mezzi informatici dei fornitori interni di prestazioni TIC secondo l’articolo 10 dell’ordinanza del 2 aprile 2025[^2-4] sulla digitalizzazione (ODigi) oppure fanno gestire i loro mezzi informatici da questi fornitori di prestazioni: gli articoli 5, 6, 9, 10 e 16–73 LSIn nonché gli articoli 10–12, 27 e 29–35 della presente ordinanza.
 
 <sup>3</sup> Nel loro ambito di competenza la CaF e i dipartimenti possono assoggettare a tutta la LSIn le unità amministrative dell’Amministrazione federale decentralizzata che svolgono continuamente attività sensibili sotto il profilo della sicurezza.
 
@@ -71,7 +71,9 @@ Fatto salvo l’articolo 3 capoverso 2 LSIn, per i Cantoni si applicano le segue
 <sup>5</sup> L’Aggruppamento Difesa si fa carico per l’esercito dei compiti, delle competenze e delle responsabilità che la presente ordinanza attribuisce alle unità amministrative di cui all’articolo 2 capoverso 1 lettera c.
 
 [^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^2-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^2-2]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-3]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-4]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 ## Sezione 2: Principi
 
@@ -177,11 +179,11 @@ Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c valutano 
 
 <sup>1</sup> Se un’unità amministrativa per un oggetto da proteggere non è in grado di adempiere a una direttiva per essa vincolante prevista da un’istruzione generale e astratta secondo l’articolo 85 LSIn essa necessita di un’autorizzazione eccezionale dell’organo che ha emanato le istruzioni.
 
-<sup>2</sup> Se una deroga che rientra nell’ambito di competenza del Servizio specializzato della Confederazione per la sicurezza delle informazioni riguarda anche direttive della CaF sulla trasformazione digitale e la governance delle TIC, il Servizio specializzato della Confederazione per la sicurezza delle informazioni sente in via preliminare il delegato TDT di cui all’articolo 4 capoverso 1 OTDI[^9-1].
+<sup>2</sup> Se una deroga che rientra nell’ambito di competenza del servizio specializzato della Confederazione per la sicurezza delle informazioni riguarda anche direttive della CaF sulla trasformazione digitale e la governance delle TIC, il servizio specializzato sente in via preliminare il delegato TDT.[^9-1]
 
 <sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il Servizio specializzato della Confederazione per la sicurezza delle informazioni tengono ciascuno un registro delle autorizzazioni eccezionali valide.
 
-[^9-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-1]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 10
 
@@ -280,13 +282,14 @@ Nei casi di cui al capoverso 5, d’intesa con l’unità amministrativa interes
 
 ### (art. 7 cpv. 1, 81 cpv. 2 lett. c e 83 cpv. 1 lett. h LSIn)
 
-<sup>1</sup> Ogni anno la CaF, i dipartimenti, l’UFCS e i fornitori interni di prestazioni TIC secondo l’articolo 9 OTDI[^14-1] redigono un rapporto destinato al Servizio specializzato della Confederazione per la sicurezza delle informazioni in merito allo stato della sicurezza delle informazioni nel loro settore di competenza. Rilevano le informazioni necessarie a tale scopo presso le unità amministrative e i loro fornitori di prestazioni.
+<sup>1</sup> Ogni anno la CaF, i dipartimenti, l’UFCS e i fornitori interni di prestazioni TIC secondo l’articolo 10 ODigi[^14-1] redigono un rapporto destinato al servizio specializzato della Confederazione per la sicurezza delle informazioni in merito allo stato della sicurezza delle informazioni nel loro settore di competenza. Rilevano le informazioni necessarie a tale scopo presso le unità amministrative e i loro fornitori di prestazioni.[^14-2]
 
 <sup>2</sup> Ogni anno il Servizio specializzato della Confederazione per la sicurezza delle informazioni redige un rapporto destinato al Consiglio federale in merito allo stato della sicurezza delle informazioni in seno alla Confederazione.
 
 <sup>3</sup> Coordina i rapporti con le autorità assoggettate di cui all’articolo 2 capoverso 1 LSIn.
 
-[^14-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-1]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^14-2]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 15
 
@@ -672,17 +675,15 @@ Gli incaricati della sicurezza delle informazioni hanno in particolare i compiti
 
 #### Art. 38
 
-**Sicurezza delle informazioni nei servizi standard**
+**Sicurezza delle informazioni nei mezzi informatici messi a disposizione a livello centralizzato**[^38-1]
 
-### (art. 7 cpv. 1 LSIn)
+<sup>1</sup> Il delegato TDT è competente per la garanzia della sicurezza delle informazioni dei mezzi informatici messi a disposizione a livello centralizzato dal settore TDT.
 
-<sup>1</sup> Il delegato TDT è competente per la garanzia della sicurezza delle informazioni nei servizi standard secondo l’articolo 17 capoverso 1 lettera e OTDI[^38-1].
+<sup>2</sup> Designa un incaricato della sicurezza delle informazioni o diversi incaricati della sicurezza delle informazioni e il sostituto o i sostituti.
 
-<sup>2</sup> Designa un incaricato della sicurezza delle informazioni o diversi incaricati della sicurezza delle informazioni per i servizi standard e il o i sostituti.
+<sup>3</sup> Gli incaricati della sicurezza delle informazioni si occupano dei compiti di cui all’articolo 37 capoverso 2 per i mezzi informatici messi a disposizione a livello centralizzato dal settore TDT e informano l’Amministrazione federale e l’esercito in merito ai rischi in materia di sicurezza delle informazioni.
 
-<sup>3</sup> Gli incaricati della sicurezza delle informazioni si occupano dei compiti di cui all’articolo 37 capoverso 2 per i servizi standard e informano l’Amministrazione federale e l’esercito in merito ai rischi in materia di sicurezza delle informazioni.
-
-[^38-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^38-1]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 39
 

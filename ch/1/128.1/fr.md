@@ -4,11 +4,11 @@ title: "Ordonnance du 8 novembre 2023 sur la sécurité de l’information dans 
 short: OSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: fr
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2023-735-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/fr"
 
 (Ordonnance sur la sécurité de l’information, OSI)
 
-du 8 novembre 2023 (État le 1<sup>er</sup> juillet 2024)
+du 8 novembre 2023 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -54,10 +54,10 @@ La présente ordonnance s’applique:
 
 <sup>2</sup>
 
-Les dispositions suivantes de la LSI et de la présente ordonnance s’appliquent aux unités de l’administration fédérale décentralisée au sens de l’art. 2, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^2-1] et aux organisations visées à l’art. 2, al. 4, LOGA:
+Les dispositions suivantes de la LSI et de la présente ordonnance s’appliquent aux unités de l’administration fédérale décentralisée au sens de l’art. 2, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^2-1] et aux organisations et personnes visées à l’art. 2, al. 4, LOGA:[^2-2]
 
 - a. les art. 5, 6, 9, 10, 12 à 15, 20 à 23 et 27 à 73 LSI et les art. 16, 21, 24, 26, 32, 34 et 35 de la présente ordonnance, lorsqu’elles traitent des informations classifiées de la Confédération;
-- b. les art. 5, 6, 9, 10 et 16 à 73 LSI et les art. 10 à 12, 27 et 29 à 35 de la présente ordonnance, lorsqu’elles accèdent aux moyens informatiques des fournisseurs internes de prestations informatiques visés à l’art. 9 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique (OTNI)[^2-2] ou délèguent l’exploitation de leurs moyens informatiques à ces fournisseurs.
+- b.[^2-3] les art. 5, 6, 9, 10 et 16 à 73 LSI et 10 à 12, 27 et 29 à 35 de la présente ordonnance, lorsqu’elles accèdent aux moyens informatiques des fournisseurs internes de prestations informatiques visés à l’art. 10 de l’ordonnance du 2 avril 2025 sur la numérisation (ONum)[^2-4] ou délèguent l’exploitation de leurs moyens informatiques à ces fournisseurs.
 
 <sup>3</sup> La ChF et les départements peuvent, dans leur domaine de compétence, soumettre les unités de l’administration fédérale décentralisée qui exercent constamment des activités sensibles à l’ensemble des dispositions de la LSI.
 
@@ -71,7 +71,9 @@ Les dispositions suivantes de la présente ordonnance s’appliquent aux cantons
 <sup>5</sup> Le Groupement Défense assume pour l’armée les tâches, compétences et responsabilités que la présente ordonnance assigne aux unités administratives visées à l’art. 2, al. 1, let. c.
 
 [^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^2-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^2-2]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-4]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 ## Section 2 Principes
 
@@ -177,11 +179,11 @@ Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent en c
 
 <sup>1</sup> Si une unité administrative n’est pas en mesure d’observer une consigne contraignante pour elle d’une directive générale et abstraite visée à l’art. 85 LSI concernant un objet à protéger, elle doit obtenir une autorisation exceptionnelle du service ayant émis la directive.
 
-<sup>2</sup> Si une exception relevant du domaine de compétence du service spécialisé de la Confédération pour la sécurité de l’information concerne également des directives de la ChF sur la transformation numérique et la gouvernance de l’informatique, le service spécialisé de la Confédération pour la sécurité de l’information consulte au préalable le délégué TNI visé à l’art. 4, al. 1, OTNI[^9-1].
+<sup>2</sup> Si une exception relevant du domaine de compétence du service spécialisé de la Confédération pour la sécurité de l’information concerne également des directives de la ChF sur la transformation numérique et la gouvernance de l’informatique, le service spécialisé consulte au préalable le délégué TNI.[^9-1]
 
 <sup>3</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, les départements et le service spécialisé de la Confédération pour la sécurité de l’information établissent la liste de leurs autorisations exceptionnelles en vigueur.
 
-[^9-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 10
 
@@ -193,7 +195,7 @@ Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent en c
 
 <sup>2</sup> Les services d’achat centraux visés à l’art. 5 de l’ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^10-1] collaborent à l’évaluation et mettent les informations nécessaires à disposition.[^10-2]
 
-<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, après avoir consulté l’OFCS et la Conférence des achats de la Confédération visée à l’art. 30 Org‑OMP, émet des recommandations quant aux dispositions relatives à la sécurité de l’information devant figurer dans tous les contrats d’acquisition ou de prestation de la Confédération.[^10-3]
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, après avoir consulté l’OFCS et la Conférence des achats de la Confédération visée à l’art. 30 Org OMP, émet des recommandations quant aux dispositions relatives à la sécurité de l’information devant figurer dans tous les contrats d’acquisition ou de prestation de la Confédération.[^10-3]
 
 [^10-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
 [^10-2]: Nouvelle teneur selon l’art. 44 al. 2 ch. 1 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
@@ -280,13 +282,14 @@ Dans les cas visés à l’al. 5, il peut, en accord avec l’unité administrat
 
 ### (art. 7, al. 1, 81, al. 2, let. c, et 83, al. 1, let. h, LSI)
 
-<sup>1</sup> La ChF, les départements, l’OFCS et les fournisseurs internes de prestations informatiques visés à l’art. 9 OTNI[^14-1] rendent compte chaque année au service spécialisé de la Confédération pour la sécurité de l’information de la situation en matière de sécurité de l’information dans leur domaine de compétence. Ils collectent les informations nécessaires auprès des unités administratives et de leurs fournisseurs de prestations.
+<sup>1</sup> La ChF, les départements, l’OFCS et les fournisseurs internes de prestations informatiques visés à l’art. 10 ONum[^14-1] rendent compte chaque année au service spécialisé de la Confédération pour la sécurité de l’information de la situation en matière de sécurité de l’information dans leur domaine de compétence. Ils collectent les informations nécessaires auprès des unités administratives et de leurs fournisseurs de prestations.[^14-2]
 
 <sup>2</sup> Le service spécialisé de la Confédération pour la sécurité de l’information rend compte chaque année au Conseil fédéral de la situation en matière de sécurité de l’information au sein de la Confédération.
 
 <sup>3</sup> Il coordonne les comptes rendus avec les autorités visées à l’art. 2, al. 1, LSI.
 
-[^14-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-1]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 15
 
@@ -672,17 +675,15 @@ Les préposés à la sécurité de l’information accomplissent les tâches et 
 
 #### Art. 38
 
-**Sécurité de l’information dans les services standard**
+**Sécurité de l’information dans les moyens informatiques mis à disposition de manière centralisée**[^38-1]
 
-### (art. 7, al. 1, LSI)
+<sup>1</sup> Le délégué TNI est chargé de garantir la sécurité de l’information dans les moyens informatiques mis à disposition de manière centralisée par le secteur TNI.
 
-<sup>1</sup> Le délégué TNI est chargé de garantir la sécurité de l’information dans les services standard visés à l’art. 17, al. 1, let. e, OTNI[^38-1].
+<sup>2</sup> Il désigne un ou plusieurs préposés à la sécurité de l’information et leurs suppléants.
 
-<sup>2</sup> Il désigne un ou plusieurs préposés à la sécurité de l’information pour les services standard et leurs suppléants.
+<sup>3</sup> Les préposés à la sécurité de l’information assument les tâches visées à l’art. 37, al. 2, pour les moyens informatiques mis à disposition de manière centralisée par le secteur TNI et informent l’administration fédérale et l’armée des risques pour la sécurité de l’information*.*
 
-<sup>3</sup> Les préposés à la sécurité de l’information assument les tâches visées à l’art. 37, al. 2, pour les services standard et informent l’administration fédérale et l’armée des risques pour la sécurité de l’information.
-
-[^38-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^38-1]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 39
 

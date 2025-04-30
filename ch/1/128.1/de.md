@@ -4,11 +4,11 @@ title: "Verordnung vom 8. November 2023 über die Informationssicherheit in der 
 short: ISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: de
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2023-735-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/de"
 
 (Informationssicherheitsverordnung, ISV)
 
-vom 8. November 2023 (Stand am 1. Juli 2024)
+vom 8. November 2023 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -54,10 +54,10 @@ Diese Verordnung gilt für:
 
 <sup>2</sup>
 
-Für Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 2 Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^2-1] (RVOG) und Organisationen nach Artikel 2 Absatz 4 RVOG gelten die folgenden Bestimmungen des ISG und der vorliegenden Verordnung:
+Für Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 2 Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^2-1] (RVOG) und Organisationen und Personen nach Artikel 2 Absatz 4 RVOG gelten die folgenden Bestimmungen des ISG und der vorliegenden Verordnung:[^2-2]
 
 - a. wenn sie klassifizierte Informationen des Bundes bearbeiten: die Artikel 5–6, 9–10, 12–15, 20–23 und 27–73 ISG sowie die Artikel 16, 21, 24, 26 und 32, 34–35 dieser Verordnung;
-- b. wenn sie auf Informatikmittel der internen IKT-Leistungserbringer nach Artikel 9 der Verordnung vom 25. November 2020[^2-2] über die digitale Transformation und die Informatik (VDTI) zugreifen oder ihre eigenen Informatikmittel durch diese Leistungserbringer betreiben lassen: die Artikel 5–6, 9–10, 16–73 ISG sowie die Artikel 10–12, 27 und 29–35 dieser Verordnung.
+- b.[^2-3] wenn sie auf Informatikmittel der internen IKT-Leistungserbringer nach Artikel 10 der Digitalisierungsverordnung vom 2. April 2025[^2-4] (DigiV) zugreifen oder ihre eigenen Informatikmittel durch diese Leistungserbringer betreiben lassen: die Artikel 5–6, 9–10, 16–73 ISG sowie die Artikel 10–12, 27 und 29–35 dieser Verordnung.
 
 <sup>3</sup> Die BK und die Departemente können in ihrem Zuständigkeitsbereich Verwaltungseinheiten der dezentralen Bundesverwaltung, die ständig sicherheitsempfindliche Tätigkeiten ausüben, dem gesamten ISG unterstellen.
 
@@ -71,7 +71,9 @@ Für die Kantone gelten unter Vorbehalt von Artikel 3 Absatz 2 ISG die folgenden
 <sup>5</sup> Die Gruppe Verteidigung übernimmt für die Armee die Aufgaben, Kompetenzen und Verantwortlichkeiten, die diese Verordnung den Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe c zuweist.
 
 [^2-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^2-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^2-2]: Fassung gemäss Anhang 2 Ziff. II 1 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-3]: Fassung gemäss Anhang 2 Ziff. II 1 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^2-4]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 ## 2. Abschnitt: Grundsätze
 
@@ -177,11 +179,11 @@ Die Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe c beurteilen laufend 
 
 <sup>1</sup> Kann eine Verwaltungseinheit für ein Schutzobjekt eine für sie verbindliche Vorgabe einer generell-abstrakten Weisung nach Artikel 85 ISG nicht erfüllen, so benötigt sie eine Ausnahmebewilligung der Stelle, welche die Weisungen erlassen hat.
 
-<sup>2</sup> Betrifft eine Ausnahme, die im Kompetenzbereich der Fachstelle des Bundes für Informationssicherheit liegt, auch Vorgaben der BK über die digitale Transformation und die IKT-Lenkung, so hört die Fachstelle des Bundes für Informationssicherheit vorgängig die DTI-Delegierte oder den DTI-Delegierten nach Artikel 4 Absatz 1 VDTI[^9-1] an.
+<sup>2</sup> Betrifft eine Ausnahme, die im Kompetenzbereich der Fachstelle des Bundes für Informationssicherheit liegt, auch Vorgaben der BK über die digitale Transformation und die IKT-Lenkung, so hört die Fachstelle vorgängig die DTI-Delegierte oder den DTI-Delegierten an.[^9-1]
 
 <sup>3</sup> Die Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe c, die Departemente und die Fachstelle des Bundes für Informationssicherheit führen je ein Verzeichnis der gültigen Ausnahmebewilligungen.
 
-[^9-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 1 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 10
 
@@ -280,13 +282,14 @@ Sie kann in Fällen nach Absatz 5 nach Rücksprache mit der betroffenen Verwaltu
 
 ### (Art. 7 Abs. 1, 81 Abs. 2 Bst. c und 83 Abs. 1 Bst. h ISG)
 
-<sup>1</sup> Die BK, die Departemente, das BACS und die internen IKT-Leistungserbringer nach Artikel 9 VDTI[^14-1] erstatten der Fachstelle des Bundes für Informationssicherheit jährlich Bericht über den Stand der Informationssicherheit in ihrem Zuständigkeitsbereich. Sie erheben bei den Verwaltungseinheiten und ihren Leistungserbringern die dafür nötigen Informationen.
+<sup>1</sup> Die BK, die Departemente, das BACS und die internen IKT-Leistungserbringer nach Artikel 10 DigiV[^14-1] erstatten der Fachstelle des Bundes für Informationssicherheit jährlich Bericht über den Stand der Informationssicherheit in ihrem Zuständigkeitsbereich. Sie erheben bei den Verwaltungseinheiten und ihren Leistungserbringern die dafür nötigen Informationen.[^14-2]
 
 <sup>2</sup> Die Fachstelle des Bundes für Informationssicherheit erstattet dem Bundesrat jährlich Bericht über den Stand der Informationssicherheit beim Bund.
 
 <sup>3</sup> Sie koordiniert die Berichterstattung mit den verpflichteten Behörden nach Artikel 2 Absatz 1 ISG.
 
-[^14-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-1]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 1 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 15
 
@@ -672,17 +675,15 @@ Die Informationssicherheitsbeauftragten haben insbesondere folgende Aufgaben und
 
 #### Art. 38
 
-**Informationssicherheit bei den Standarddiensten**
+**Informationssicherheit bei zentral bereitgestellten Informatikmitteln**[^38-1]
 
-### (Art. 7 Abs. 1 ISG)
+<sup>1</sup> Die oder der DTI-Delegierte ist für die Gewährleistung der Informationssicherheit der vom Bereich DTI zentral bereitgestellten Informatikmittel zuständig.
 
-<sup>1</sup> Die oder der DTI-Delegierte ist für die Gewährleistung der Informationssicherheit bei den Standarddiensten nach Artikel 17 Absatz 1 Buchstabe e VDTI[^38-1] zuständig.
+<sup>2</sup> Sie oder er bezeichnet eine Informationssicherheitsbeauftragte oder einen Informationssicherheitsbeauftragten oder mehrere Informationssicherheitsbeauftragte sowie deren oder dessen Stellvertretung.
 
-<sup>2</sup> Sie oder er bezeichnet eine Informationssicherheitsbeauftragte oder einen Informationssicherheitsbeauftragten oder mehrere Informationssicherheitsbeauftragte für die Standarddienste sowie deren oder dessen Stellvertretung.
+<sup>3</sup> Die Informationssicherheitsbeauftragten nehmen für die vom Bereich DTI zentral bereitgestellten Informatikmittel die Aufgaben nach Artikel 37 Absatz 2 wahr und informieren die Bundesverwaltung und die Armee über die Informationssicherheitsrisiken*.*
 
-<sup>3</sup> Die Informationssicherheitsbeauftragten nehmen für die Standarddienste die Aufgaben nach Artikel 37 Absatz 2 wahr und informieren die Bundesverwaltung und die Armee über die Informationssicherheitsrisiken.
-
-[^38-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^38-1]: Fassung gemäss Anhang 2 Ziff. II 1 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 39
 
