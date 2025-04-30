@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> octobre 2021 sur la Commission de recours i
 short: OCREPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: fr
-version: 2023-06-01
+version: 2025-05-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/fr"
 
 (OCREPF)
 
-du 1<sup>er</sup> octobre 2021 (Etat le 1<sup>er</sup> juin 2023)
+du 1<sup>er</sup> octobre 2021 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -112,15 +112,19 @@ Les membres de la commission ne peuvent faire partie des services suivants ni de
 
 <sup>3</sup> Les forfaits visés à l’al. 2 couvrent l’ensemble des frais, sauf ceux soumis à remboursement.
 
-<sup>4</sup> Les autres membres touchent une indemnité journalière de 500 francs par séance, à laquelle s’ajoute un montant de 250 francs pour le temps consacré à l’étude des dossiers en vue de la séance. Si une procédure par voie de circulation est organisée en lieu et place d’une séance, les membres touchent uniquement une indemnité forfaitaire de 500 francs. Les membres de la commission qui sont employés dans le domaine des EPF ne touchent pas d’indemnité journalière.
+<sup>4</sup> Les autres membres touchent une indemnité journalière de 500 francs par séance, à laquelle s’ajoute un montant de 250 francs pour le temps consacré à l’étude des dossiers en vue de la séance. Si une procédure par voie de circulation est organisée en lieu et place d’une séance, ils touchent une rémunération forfaitaire de 500 francs. Les membres de la commission qui sont employés dans le domaine des EPF ne touchent pas de rémunération.[^7-1]
 
-<sup>5</sup> Les forfaits et les indemnités journalières sont soumis à toutes les cotisations sociales.
+<sup>5</sup> La rémunération est soumise à toutes les cotisations sociales.[^7-2]
 
-<sup>6</sup> Le montant des indemnités et des forfaits n’est pas adapté au renchérissement.
+<sup>6</sup> Son montant n’est pas adapté au renchérissement.[^7-3]
 
 <sup>7</sup> Le remboursement des frais est régi par les dispositions applicables du domaine des EPF.
 
 <sup>8</sup> La rémunération et le remboursement des frais sont versés une fois par an, en décembre.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 8
 
@@ -186,9 +190,11 @@ Le secrétariat exécute les tâches techniques et administratives liées à l�
 - c. établissement des décisions et des rapports, organisation des procédures de consultation et rédaction de toute autre correspondance;
 - d. suivi des dossiers et statistiques.
 
-<sup>2</sup> Les secrétaires juridiques procèdent aux échanges d’écritures au nom du président.
+<sup>2</sup> Au nom du président, les secrétaires juridiques perçoivent les avances de frais et procèdent aux échanges d’écritures.[^12-1]
 
 <sup>3</sup> Ils rédigent les propositions écrites à l’intention du président ainsi que les projets de décision.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 ## Section 4 Procédure
 
@@ -243,7 +249,9 @@ Il est notamment compétent pour édicter des décisions incidentes:
 
 <sup>1</sup> Le président examine les projets de décision et soumet aux membres une proposition écrite de liquidation du recours.
 
-<sup>2</sup> Le secrétariat envoie les documents de séance aux membres de la commission par voie postale ou par voie électronique au moins une semaine avant la date de la séance.
+<sup>2</sup> Le secrétariat envoie les documents de séance aux membres de la commission par voie postale ou par voie électronique. L’envoi est échelonné; les premiers documents de séance doivent parvenir aux membres au moins deux semaines avant la date de la séance.[^17-1]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 18
 

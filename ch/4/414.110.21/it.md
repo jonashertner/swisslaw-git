@@ -4,11 +4,11 @@ title: Ordinanza del 1° ottobre 2021 sulla Commissione di ricorso dei PF (OCRPF
 short: OCRPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: it
-version: 2023-06-01
+version: 2025-05-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/it"
 
 (OCRPF)
 
-del 1° ottobre 2021 (Stato 1° giugno 2023)
+del 1° ottobre 2021 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -112,15 +112,18 @@ I membri della Commissione non possono far parte dei seguenti organi, né dei lo
 
 <sup>3</sup> Le indennità di cui al capoverso 2 coprono tutti gli oneri, escluse le spese soggette a rimborso.
 
-<sup>4</sup> Gli altri membri percepiscono una diaria di 500 franchi a seduta più 250 franchi per lo studio preparatorio degli atti. Se invece di una seduta si tiene una procedura per circolazione degli atti, l’indennità forfettaria ammonta a 500 franchi. I membri della Commissione impiegati nel settore dei PF non ricevono alcuna diaria.
+<sup>4</sup> Gli altri membri percepiscono una diaria di 500 franchi a seduta più 250 franchi per lo studio preparatorio degli atti. Se invece di una seduta si tiene una procedura per circolazione degli atti, l’indennità forfettaria ammonta a 500 franchi. I membri della Commissione impiegati nel settore dei PF non ricevono alcuna indennità.[^7-1]
 
-<sup>5</sup> Le indennità forfettarie e le diarie sono soggette alle detrazioni per i contributi sociali.
+<sup>5</sup> Le indennità sono soggette alle detrazioni per i contributi sociali.[^7-2]
 
 <sup>6</sup> Gli importi non sono soggetti all’adeguamento al rincaro.
 
 <sup>7</sup> Il rimborso delle spese è disciplinato dalle disposizioni pertinenti del settore dei PF.
 
 <sup>8</sup> Le indennità e il rimborso delle spese sono versati nel mese di dicembre.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 8
 
@@ -186,9 +189,11 @@ La segreteria svolge compiti tecnici e amministrativi inerenti all’attività d
 - c. redazione di decisioni e rapporti, esecuzione delle procedure di consultazione e gestione della corrispondenza;
 - d. controllo delle pratiche e rilevazioni statistiche.
 
-<sup>2</sup> I segretari giuridici curano la corrispondenza per conto del presidente.
+<sup>2</sup> I segretari giuridici riscuotono l’anticipo delle spese e curano la corrispondenza per conto del presidente.[^12-1]
 
 <sup>3</sup> Redigono le proposte scritte da sottoporre al presidente e le bozze delle decisioni.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 ## Sezione 4: Procedura
 
@@ -243,7 +248,9 @@ Si occupa in particolare di emettere decisioni incidentali in materia di:
 
 <sup>1</sup> Il presidente esamina le bozze delle decisioni e formula una richiesta scritta di archiviazione del ricorso indirizzata ai membri.
 
-<sup>2</sup> La segreteria invia per posta o in formato elettronico ai membri della Commissione la documentazione relativa alle sedute almeno una settimana prima di ogni seduta.
+<sup>2</sup> La segreteria invia per posta o in formato elettronico ai membri della Commissione la documentazione relativa alle sedute. L’invio avviene in maniera scaglionata e i primi documenti devono pervenire ai membri almeno due settimane prima della seduta.[^17-1]
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 18
 
@@ -310,7 +317,7 @@ Il regolamento del 18 settembre 2003[^23-1] della Commissione di ricorso dei PF 
 
 <sup>1</sup> La disposizione relativa alle indennità di cui all’articolo 7 capoverso 4 terzo periodo è applicabile a partire dalla prossima legislatura.
 
-<sup>2</sup> Il rapporto per l’anno 2021 è presentato al Consiglio dei PF.
+<sup>2</sup> Il rapporto per l’anno 2021 è presentato al Consiglio dei PF
 
 #### Art. 25
 

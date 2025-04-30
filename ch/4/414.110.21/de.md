@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 2021 über die ETH-Beschwerdekommission (VETHBK
 short: VETHBK
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: de
-version: 2023-06-01
+version: 2025-05-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/de"
 
 (VETHBK)
 
-vom 1. Oktober 2021 (Stand am 1. Juni 2023)
+vom 1. Oktober 2021 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -112,15 +112,18 @@ Die Mitglieder der Kommission dürfen den folgenden Stellen einschliesslich dere
 
 <sup>3</sup> Mit den Pauschalen nach Absatz 2 sind sämtliche Aufwendungen mit Ausnahme des Auslagenersatzes abgegolten.
 
-<sup>4</sup> Die weiteren Mitglieder erhalten pro Sitzung ein Taggeld von 500 Franken plus 250 Franken für das vorbereitende Aktenstudium. Wird anstelle einer Sitzung ein Zirkularverfahren durchgeführt, so beträgt die Entschädigung pauschal 500 Franken. Kommissionsmitglieder, die im ETH-Bereich angestellt sind, erhalten kein Taggeld.
+<sup>4</sup> Die weiteren Mitglieder erhalten pro Sitzung ein Taggeld von 500 Franken plus 250 Franken für das vorbereitende Aktenstudium. Wird anstelle einer Sitzung ein Zirkularverfahren durchgeführt, so beträgt die Entschädigung pauschal 500 Franken. Kommissionsmitglieder, die im ETH-Bereich angestellt sind, erhalten keine Entschädigung.[^7-1]
 
-<sup>5</sup> Auf den Pauschalen und Taggeldern sind sämtliche Sozialversicherungsbeiträge zu entrichten.
+<sup>5</sup> Auf den Entschädigungen sind sämtliche Sozialversicherungsbeiträge zu entrichten.[^7-2]
 
 <sup>6</sup> Die Ansätze unterliegen nicht dem Teuerungsausgleich.
 
 <sup>7</sup> Der Auslagenersatz richtet sich nach den entsprechenden Bestimmungen des ETH-Bereichs.
 
 <sup>8</sup> Die Entschädigungen und der Auslagenersatz werden jeweils im Dezember ausbezahlt.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 8
 
@@ -186,9 +189,11 @@ Das Sekretariat erledigt die mit der Kommissionstätigkeit verbundenen fachliche
 - c. die Redaktion von Entscheiden, Verfügungen und Berichten, die Durchführung von Vernehmlassungen und die übrige Korrespondenz;
 - d. die Geschäftskontrolle und die Statistik.
 
-<sup>2</sup> Die juristischen Sekretärinnen und Sekretäre leiten den Schriftenwechsel im Namen der Präsidentin oder des Präsidenten.
+<sup>2</sup> Im Namen der Präsidentin oder des Präsidenten erheben die juristischen Sekretärinnen und Sekretäre den Kostenvorschuss und leiten den Schriftenwechsel.[^12-1]
 
 <sup>3</sup> Sie arbeiten die schriftlichen Anträge zuhanden der Präsidentin oder des Präsidenten und die Entscheidentwürfe aus.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 ## 4. Abschnitt: Verfahren
 
@@ -243,7 +248,9 @@ Sie oder er ist insbesondere zuständig für den Erlass von Zwischenverfügungen
 
 <sup>1</sup> Die Präsidentin oder der Präsident prüft die Entscheidentwürfe und stellt den Mitgliedern schriftlich Antrag auf Erledigung der Beschwerde.
 
-<sup>2</sup> Das Sekretariat versendet die Sitzungsunterlagen mindestens eine Woche vor der Sitzung per Post oder elektronisch an die Kommissionsmitglieder.
+<sup>2</sup> Das Sekretariat versendet die Sitzungsunterlagen per Post oder elektronisch an die Kommissionsmitglieder. Der Versand erfolgt gestaffelt, wobei die ersten Sitzungsunterlagen mindestens zwei Wochen vor der Sitzung bei den Mitgliedern eintreffen müssen.[^17-1]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 18
 
