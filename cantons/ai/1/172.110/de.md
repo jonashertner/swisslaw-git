@@ -4,13 +4,12 @@ number: "172.110"
 title: Verordnung über die Departemente
 short: DepV
 language: de
-version: 2014-12-01
-corrected: 2020-06-05
-version_adopted: 2014-12-01
+version: 2025-05-01
+version_adopted: 2025-04-01
 adopted: 2001-03-26
 in_force: 2001-03-26
 url: "https://ai.clex.ch/app/de/texts_of_law/172.110"
-pdf: "https://ai.clex.ch/api/de/versions/1685/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1685/pdf_file"
 
 (DepV)
 
-vom 26.03.2001 (Stand 01.12.2014)
+vom 26.03.2001 (Stand 01.05.2025)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -56,15 +55,21 @@ beschliesst:
 - c) Raum-, Richt- und Zonenplanung mit Ortsbildschutz
 - d) Fuss- und Wanderwege
 - e) Wasserbau und Naturgefahren
-- g) Energiewesen
-- h) Seilbahnen und Skilifte
+- g) …
+- h) …
 
 <sup>2</sup> Aufgaben Umwelt
 
 - a) Gewässerschutz (inkl. Bau, Betrieb und Unterhalt)
 - b) Umweltschutz (inkl. Bau, Betrieb und Unterhalt)
 - c) Schadendienst
-- d) Jagd und Fischerei
+- d) …
+
+<sup>3</sup> Weitere Aufgaben
+
+- a) Energiewesen
+- b) Jagd und Fischerei
+- c) Seilbahnen und Skilifte
 
 #### Art. 3
 
@@ -74,8 +79,8 @@ beschliesst:
 
 - a) Volksschule
 - b) Mittelschule
-- c) Tertiäre Ausbildung (Universitäten, Fachhochschulen ohne Landwirtschaft etc.)
-- d) Berufsbildung (ohne Landwirtschaft)
+- c) Tertiäre Ausbildung
+- d) Berufsbildung
 - e) Berufsberatung
 - f) Stipendien
 - g) Kultur
@@ -91,7 +96,7 @@ beschliesst:
 - a) Finanzverwaltung
 - b) Rechnungswesen
 - c) Finanzcontrolling
-- d) Voranschlag, Staatsrechnung, Finanzplanung
+- d) Budget, Staatsrechnung, Finanzplanung
 - e) Finanzausgleich
 - f) Verwaltung des Finanzvermögens, sofern nicht ein anderes Departement zuständig ist.
 - g) Versicherungen für Kanton, einschliesslich Pensionskasse für Staatsangestellte
@@ -106,25 +111,26 @@ beschliesst:
 
 <sup>1</sup> Aufgaben Gesundheit
 
-- a) Gesundheitsvorsorge und -aufsicht
-- b) Spital und Pflegeheim Appenzell
-- c) Alterspflege
-- d) Zusammenarbeit mit ausserkantonalen Krankenanstalten und Pflegeheimen
-- e) Schularzt- und Schulzahnarztdienst
-- f) Krankentransporte
-- g) SPITEX
-- h) Drogen- und Suchtberatung
-- i) Lebensmittelkontrolle
-- j) Vollzugsaufgaben KVG
+- a) Gesundheitsvorsorge
+- b) Gesundheitsversorgung
+- c) Langzeitpflegeversorgung
+- d) Gesundheitspolizei und -aufsicht
+- e) …
+- f) Kranken- und Rettungstransporte
+- g) …
+- h) …
+- i) Verbraucherschutz
+- j) Vollzugsaufgaben Krankenversicherungswesen
 
 <sup>2</sup> Aufgaben Soziales
 
 - a) Sozialversicherungen
-- b) Öffentliche Fürsorge
+- b) Sozialhilfe
 - c) Kindes- und Erwachsenenschutz
-- d) Heimaufsicht
-- e) Asylbetreuung inkl. baulicher Unterhalt Asylzentrum
-- f) Flüchtlingsfürsorge
+- d) Behindertenwesen
+- e) Asylbetreuung
+- f) …
+- g) Kinder-, Jugend- und Familienfragen
 
 #### Art. 6
 
@@ -136,22 +142,28 @@ beschliesst:
 - b) Strafvollzug
 - c) Bewährungshilfe
 - d) Opferhilfe
-- e) Eichwesen
-- f) Zivilstandswesen
-- g) Bürgerrecht
+- e) …
+- f) …
+- g) …
 
 <sup>2</sup> Aufgaben Polizei
 
 - a) Kantonspolizei
 - b) Strassenverkehr (ohne Strassenbau und -unterhalt)
-- c) Einwohnerkontrolle / Niederlassung und Aufenthalt / Asylwesen / Passwesen / Integration
+- c) Einwohnerkontrolle, Niederlassung und Aufenthalt, Asylwesen, Passwesen, Integration
 - d) Gewerbepolizei
 
 <sup>3</sup> Aufgaben Militär
 
 - a) Militär
-- b) Zivilschutz
+- b) Zivilschutz und Feuerschutzwesen
 - c) Kantonaler Führungsstab
+
+<sup>4</sup> Weitere Aufgaben
+
+- a) Eichwesen
+- b) Zivilstandswesen
+- c) Bürgerrecht
 
 #### Art. 7
 
@@ -159,23 +171,29 @@ beschliesst:
 
 <sup>1</sup> Aufgaben Landwirtschaft
 
-- a) Förderung / Unterstützung
+- a) Förderung und Unterstützung
 - b) Milchwirtschaft
 - c) Meliorationen
 - d) Betriebsberatung
 - e) Boden- und Pachtrecht
-- f) Veterinärwesen /Tierseuchenbekämpfung
+- f) Veterinärwesen und Tierseuchenbekämpfung
 - g) Tierschutz
 - h) Landwirtschaftliche Berufsschule und -bildung
 - i) Landwirtschaftliche Liegenschaften
 - j) Natur- und Landschaftsschutz
+- k) Reb- und Obstbau
+- l) Pflanzenschutz
 
 <sup>2</sup> Aufgaben Forstwirtschaft
 
 - a) Forstwesen
 - b) Staatswaldungen
-- c) Forstwirtschaftliche Schulen
-- d) Vermessungswesen
+- c) Forstwirtschaftliche Bildung
+- d) …
+
+<sup>3</sup> Weitere Aufgaben
+
+- a) Geoinformation und Vermessungswesen
 
 #### Art. 8
 
@@ -189,13 +207,14 @@ beschliesst:
 - d) Stiftungsaufsicht
 - e) Öffentlicher Verkehr
 - f) Tourismus
-- g) Arbeitsamt und Arbeitsvermittlung
-- h) Konkursamt
-- i) Betreibungsämter
-- j) Grundbuchämter
-- k) Erbschaftsämter
+- g) Arbeit und Arbeitsvermittlung
+- h) Konkurswesen
+- i) Betreibungswesen
+- j) Grundbuch
+- k) Erbschaftswesen
 - l) Wohnbau- und Eigentumsförderung
 - m) Wirtschaftliche Landesversorgung
+- n) Flugwesen
 
 #### Art. 9
 
@@ -205,18 +224,30 @@ beschliesst:
 
 - a) Vorbereitung und Protokollierung der Sitzungen des Grossen Rates, des Büros und der Standeskommission
 - b) Rechtsdienst
-- c) Informationsdienst
+- c) Kommunikation
 - d) Abstimmungen und Wahlen
 - e) Gesetzessammlung und Rechtssetzung
 - f) Landesarchiv
 - g) Kantonsbibliothek
 - h) Schlichtungsstelle für Mietverhältnisse
 - i) Organisation von Anlässen
-- j) Weibeldienst und Materialzentrale
+- j) Weibeldienst, Postdienst und Materialzentrale
 
 #### Art. 10
 
 <sup>1</sup> Aufgaben, die unter den Art. 2 bis 9 nicht aufgeführt sind, werden von der Standeskommission zugewiesen.
+
+## III. Unterschriften
+
+#### Art. 10a
+
+<sup>1</sup> Für das Departement unterzeichnet die Departementsvorsteherin oder der Departementsvorsteher oder deren oder dessen Stellvertretung, für die übrigen Dienststellen deren Leitung oder ihre Stellvertretung.
+
+<sup>2</sup> Die Departementsvorsteherin oder der Departementsvorsteher kann Mitarbeitende ermächtigen, in bestimmten Aufgabengebieten für das Departement oder für eine seiner Dienststellen zu unterzeichnen. Für die Ratskanzlei und ihre Dienststellen hat die Ratschreiberin oder der Ratschreiber diese Befugnis.
+
+<sup>3</sup> Die Ratskanzlei führt ein öffentliches Register über die Unterschriftsberechtigung.
+
+### IV. Schlussbestimmung
 
 #### Art. 11
 
