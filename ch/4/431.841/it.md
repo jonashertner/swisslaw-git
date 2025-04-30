@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2025-01-15
+version: 2025-05-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250115/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 15 gennaio 2025)
+del 9 giugno 2017 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -95,7 +95,10 @@ L’UST lavora in collaborazione con:
 - b. gli uffici cantonali e comunali delle costruzioni;
 - c. i servizi delle misurazioni catastali della Confederazione, dei Cantoni e dei Comuni;
 - d. i servizi cantonali di coordinamento;
-- e. i servizi cantonali e comunali incaricati dei registri riconosciuti.
+- e. i servizi cantonali e comunali incaricati dei registri riconosciuti;
+- f.[^4-1] i servizi dell’energia e dell’ambiente della Confederazione, dei Cantoni e dei Comuni.
+
+[^4-1]: Introdotta dall’all. n. 1 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 5
 
@@ -178,15 +181,15 @@ Per ogni edificio e oggetto simile a un edificio sono registrate nel REA le info
 - i. data o periodo di costruzione e data o periodo di demolizione dell’edificio;
 - j. dimensioni dell’edificio (superfici, volumi);
 - k. struttura dell’edificio (numero di piani);
-- l. installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio);
+- l.[^8-5] installazioni tecniche principali dell’edificio (sistema di riscaldamento, incluse le informazioni di cui all’art. 16*a* dell’ordinanza del 30 novembre 2012[^8-6] sul CO<sub>2</sub>, nonché rifugio);
 - m. appartenenza a zone statistiche, quartieri e altre unità territoriali infracomunali;
-- n.[^8-5] efficienza dell’involucro dell’edificio (anno di risanamento delle principali parti dell’edificio).
+- n.[^8-7] efficienza dell’involucro dell’edificio (anno di risanamento delle principali parti dell’edificio).
 
 <sup>3</sup>
 
-Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA le informazioni seguenti:[^8-6]
+Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA le informazioni seguenti:[^8-8]
 
-- a.[^8-7] identificatore dell’abitazione e di oggetti simili a un’abitazione (EWID) attribuito dall’UST;
+- a.[^8-9] identificatore dell’abitazione e di oggetti simili a un’abitazione (EWID) attribuito dall’UST;
 - b. numero dell’abitazione attribuito dal Cantone o dal comune;
 - c. riferimento ai fondi nel caso di abitazioni in proprietà per piani;
 - d. ubicazione dell’abitazione nell’edificio;
@@ -194,7 +197,7 @@ Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA l
 - f. stato dell’abitazione (progettato, terminato, demolito);
 - g. dimensioni dell’abitazione (superficie);
 - h. struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani);
-- i.[^8-8] destinazione dell’abitazione (secondo la LASec[^8-9]);
+- i.[^8-10] destinazione dell’abitazione (secondo la LASec[^8-11]);
 - j. limitazione d’uso dell’abitazione (secondo la LASec).
 
 <sup>4</sup> Un’informazione secondo i capoversi 1–3 può essere suddivisa in una o più caratteristiche.
@@ -207,11 +210,13 @@ Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA l
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^8-5]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-6]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-7]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-5]: Nuovo testo giusta l’all. n. 1 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^8-7]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-9]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-9]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-10]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-11]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
 
 #### Art. 8a
 

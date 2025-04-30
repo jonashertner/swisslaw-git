@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2025-01-15
+version: 2025-05-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (État le 15 janvier 2025)
+du 9 juin 2017 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -95,7 +95,10 @@ L’OFS travaille en collaboration avec:
 - b. les offices cantonaux et communaux des constructions;
 - c. les services fédéraux, cantonaux et communaux des mensurations cadastrales;
 - d. les services de coordination cantonaux;
-- e. les services cantonaux et communaux en charge de registres reconnus.
+- e. les services cantonaux et communaux en charge de registres reconnus;
+- f.[^4-1] les services fédéraux, cantonaux et communaux de l’énergie et de l’environnement.
+
+[^4-1]: Introduite par l’annexe ch. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 5
 
@@ -178,15 +181,15 @@ Pour chaque bâtiment et objet similaire à un bâtiment, les informations suiva
 - i. la date ou la période de construction et de démolition du bâtiment;
 - j. les dimensions du bâtiment (surfaces, volume);
 - k. la structure du bâtiment (nombre d’étages);
-- l. les installations techniques principales du bâtiment (système de chauffage, abri PC);
+- l.[^8-5] les installations techniques principales du bâtiment (système de chauffage, y c. les informations visées à l’art. 16*a* de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^8-6], et abri PC);
 - m. l’appartenance à des zones statistiques, à des quartiers et à d’autres unités territoriales infracommunales;
-- n.[^8-5] l’efficacité de l’enveloppe du bâtiment (années de rénovation des éléments de construction importants).
+- n.[^8-7] l’efficacité de l’enveloppe du bâtiment (années de rénovation des éléments de construction importants).
 
 <sup>3</sup>
 
-Pour chaque logement et objet similaire à un logement, les informations suivantes sont enregistrées dans le RegBL:[^8-6]
+Pour chaque logement et objet similaire à un logement, les informations suivantes sont enregistrées dans le RegBL:[^8-8]
 
-- a.[^8-7] l’identificateur de logement et d’objet similaire à un logement attribué par l’OFS (EWID);
+- a.[^8-9] l’identificateur de logement et d’objet similaire à un logement attribué par l’OFS (EWID);
 - b. le numéro de logement attribué par le canton ou la commune;
 - c. la référence aux biens-fonds pour les logements en propriété par étage;
 - d. la situation du logement dans le bâtiment;
@@ -194,7 +197,7 @@ Pour chaque logement et objet similaire à un logement, les informations suivant
 - f. le statut du logement (projeté, achevé, démoli);
 - g. les dimensions du logement (surface);
 - h. la structure du logement (nombre de pièces, installation de cuisine, multiniveau);
-- i.[^8-8] l’affectation du logement (au sens de la LRS[^8-9]);
+- i.[^8-10] l’affectation du logement (au sens de la LRS[^8-11]);
 - j. la restriction d’utilisation du logement (au sens de la LRS).
 
 <sup>4</sup> Une information selon les al. 1 à 3 peut être détaillée en un ou plusieurs caractères.
@@ -207,11 +210,13 @@ Pour chaque logement et objet similaire à un logement, les informations suivant
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^8-5]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-7]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^8-7]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-9]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-9]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-10]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-11]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
 
 #### Art. 8a
 

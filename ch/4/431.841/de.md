@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2025-01-15
+version: 2025-05-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250115/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250115/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 15. Januar 2025)
+vom 9. Juni 2017 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -95,7 +95,10 @@ Das BFS arbeitet mit folgenden Stellen zusammen:
 - b. den kantonalen und kommunalen Bauämtern;
 - c. den Vermessungsfachstellen von Bund, Kantonen und Gemeinden;
 - d. den kantonalen Koordinationsstellen;
-- e. den kantonalen oder kommunalen registerführenden Stellen von anerkannten Registern.
+- e. den kantonalen oder kommunalen registerführenden Stellen von anerkannten Registern;
+- f.[^4-1] Energie- und Umweltfachstellen von Bund, Kantonen und Gemeinden.
+
+[^4-1]: Eingefügt durch Anhang Ziff. 1 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 5
 
@@ -178,15 +181,15 @@ Im GWR werden zu jedem Gebäude und zu jedem gebäudeähnlichen Objekt folgende 
 - i. Baudatum oder -periode und Abbruchdatum oder -periode des Gebäudes;
 - j. Gebäudedimensionen (Flächen, Volumen);
 - k. Gebäudestruktur (Anzahl Stockwerke);
-- l. gebäudetechnische Hauptinstallationen (Heizsystem, Schutzraum);
+- l.[^8-5] gebäudetechnische Hauptinstallationen (Heizsystem, einschliesslich der Angaben nach Art. 16*a* CO<sub>2</sub>-Verordnung vom 30. November 2012[^8-6], sowie Schutzraum);
 - m. Zugehörigkeit zu statistischen Zonen, Quartieren und weiteren infrakommunalen Gebietseinheiten;
-- n.[^8-5] Effizienz der Gebäudehülle (Sanierungsjahre wichtiger Bauteile).
+- n.[^8-7] Effizienz der Gebäudehülle (Sanierungsjahre wichtiger Bauteile).
 
 <sup>3</sup>
 
-Im GWR werden zu jeder Wohnung und zu jedem wohnungsähnlichen Objekt folgende Informationen geführt:[^8-6]
+Im GWR werden zu jeder Wohnung und zu jedem wohnungsähnlichen Objekt folgende Informationen geführt:[^8-8]
 
-- a.[^8-7] vom BFS zugewiesener Identifikator für Wohnung und wohnungsähnliche Objekte (EWID);
+- a.[^8-9] vom BFS zugewiesener Identifikator für Wohnung und wohnungsähnliche Objekte (EWID);
 - b. Wohnungsnummer des Kantons oder der Gemeinde;
 - c. Referenz zu den Grundstücken bei Wohnungen im Stockwerkeigentum;
 - d. Lokalisierung der Wohnung im Gebäude;
@@ -194,7 +197,7 @@ Im GWR werden zu jeder Wohnung und zu jedem wohnungsähnlichen Objekt folgende I
 - f. Wohnungsstatus (projektiert, erstellt, abgebrochen);
 - g. Wohnungsdimensionen (Fläche);
 - h. Wohnungsstruktur (Anzahl Zimmer, Kocheinrichtung, mehrstöckig);
-- i.[^8-8] Nutzungsart der Wohnung (im Sinne des ZWG[^8-9]);
+- i.[^8-10] Nutzungsart der Wohnung (im Sinne des ZWG[^8-11]);
 - j. Nutzungseinschränkung der Wohnung (im Sinne des ZWG).
 
 <sup>4</sup> Eine Information nach den Absätzen 1–3 kann in ein oder mehrere Merkmale unterteilt werden.
@@ -207,11 +210,13 @@ Im GWR werden zu jeder Wohnung und zu jedem wohnungsähnlichen Objekt folgende I
 [^8-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-4]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^8-5]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-6]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-7]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-5]: Fassung gemäss Anhang Ziff. 1 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^8-6]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^8-7]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-9]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-9]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-10]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-11]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
 
 #### Art. 8a
 
