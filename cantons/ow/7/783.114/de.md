@@ -4,13 +4,12 @@ number: "783.114"
 title: Ausführungsbestimmungen über die Ausscheidung der Gewässerräume
 short: AB GWR
 language: de
-version: 2012-07-15
-valid_until: 2025-04-30
-version_adopted: 2012-06-26
+version: 2025-05-01
+version_adopted: 2025-04-07
 adopted: 2012-06-26
 in_force: 2012-07-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/783.114"
-pdf: "http://gdb.ow.ch/api/de/versions/1699/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1935/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1699/pdf_file"
 
 (AB GWR)
 
-vom 26.06.2012 (Stand 15.07.2012)
+vom 26.06.2012 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -36,11 +35,13 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Der Gewässerraum wird mit grundeigentümerverbindlichen Plänen und dazugehörenden Bestimmungen (Gewässerraumpläne) im Sinne dieser Ausführungsbestimmungen festgelegt. Die im Rahmen von Hochwasserschutzprojekten festgelegten Gewässerräume sind den Gewässerraumplänen dieser Ausführungsbestimmungen gleichgestellt.
+<sup>1</sup> Der Gewässerraum wird mit grundeigentümerverbindlichen Plänen und dazugehörenden Bestimmungen (Gewässerraumpläne) im Sinne dieser Ausführungsbestimmungen festgelegt. Die im Rahmen von Wasserbauprojekten festgelegten Gewässerräume sind den Gewässerraumplänen dieser Ausführungsbestimmungen gleichgestellt.
 
 <sup>2</sup> Die Gewässerraumpläne können gemeindeweise, je Gewässer oder auch gebietsweise erlassen werden, sofern mit einer Gesamtbetrachtung ein fachlich korrektes Ergebnis erreicht wird.
 
-<sup>3</sup> Als Gewässer gelten in der Regel jene, die auf der Landeskarte 1 : 25 000 vermerkt sind. Aus überwiegenden öffentlichen Interessen (z. B. Hochwasserschutz) kann der Regierungsrat für weitere Gewässer Gewässerraumpläne erlassen.
+<sup>3</sup> Als Gewässer gelten jene, die im kantonalen Gewässernetz vermerkt sind[^1-1].
+
+[^1-1]: Das kantonale Gewässernetz ist unter www.gis-daten.ch einsehbar.
 
 #### Art. 2
 
@@ -65,7 +66,7 @@ beschliesst:
 
 <sup>1</sup> Die Entwürfe der Gewässerraumpläne sind zusammen mit dem Nachweis der Abstimmung der kommunalen Zonenpläne und Baureglemente auf die kantonalen Gewässerraumpläne von der Einwohnergemeinde dem Bau- und Raumentwicklungsdepartement zur Vorprüfung vorzulegen und dürfen erst mit seinem Einverständnis öffentlich aufgelegt werden.
 
-<sup>2</sup> Das Planauflageverfahren richtet sich, soweit in diesen Ausführungsbestimmungen nichts anderes geregelt ist, sinngemäss nach Art. 4 und 5 der Verordnung zum Baugesetz[^3-1]. Nach Ablauf der Auflagefrist leitet die Einwohnergemeinde die aufgelegten Gewässerraumpläne zusammen mit den allfälligen Einsprachen und der gemeinderätlichen Stellungnahme hiezu an das Bau- und Raumentwicklungsdepartement weiter, welches allfällige Einsprachen behandelt. Der Entscheid ist der einsprechenden Person schriftlich mitzuteilen.
+<sup>2</sup> Das Planauflageverfahren richtet sich, soweit in diesen Ausführungsbestimmungen nichts anderes geregelt ist, sinngemäss nach Art. 4 und 5 der Verordnung zum Baugesetz[^3-1]. Nach Ablauf der Auflagefrist leitet die Einwohnergemeinde die aufgelegten Gewässerraumpläne zusammen mit den allfälligen Einsprachen und der gemeinderätlichen Stellungnahme hiezu an das Bau- und Raumentwicklungsdepartement weiter, welches allfällige Einsprachen behandelt.
 
 [^3-1]: GDB [710.11](http://gdb.ow.ch/data/710.11/de)
 
@@ -73,23 +74,19 @@ beschliesst:
 
 **Zuständige Behörden ausserhalb der Bauzonen**
 
-<sup>1</sup> Die Gewässerraumpläne ausserhalb der Bauzonen werden durch das Bau- und Raumentwicklungsdepartement in Zusammenarbeit mit dem Amt für Landwirtschaft und Umwelt und den betroffenen Gemeinden erarbeitet.
+<sup>1</sup> Die Gewässerraumpläne ausserhalb der Bauzonen werden durch das Volkswirtschaftsdepartement in Zusammenarbeit mit dem Amt für Wald und Landschaft und den betroffenen Gemeinden erarbeitet.
 
 #### Art. 5
 
 **Planauflage- und Einspracheverfahren ausserhalb der Bauzonen**
 
-<sup>1</sup> Nach Anhörung der betroffenen Gemeinde, der Grundeigentümerin oder des Grundeigentümers, der interessierten Amtsstellen, Behörden und Organisationen werden die Pläne während 30 Tagen öffentlich aufgelegt. Einsprachen sind an das Bau- und Raumentwicklungsdepartement zu richten.
+<sup>1</sup> Nach Anhörung der betroffenen Gemeinde, der Grundeigentümerinnen oder der Grundeigentümer, der interessierten Amtsstellen, Behörden und Organisationen werden die Pläne während 30 Tagen öffentlich aufgelegt. Einsprachen sind an das Volkswirtschaftsdepartement zu richten.
 
-<sup>2</sup> Das Bau- und Raumentwicklungsdepartement führt in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Bau- und Raumentwicklungsdepartement zu behandeln. Der Entscheid ist der einsprechenden Person schriftlich mitzuteilen.
+<sup>2</sup> Das Volkswirtschaftsdepartement entscheidet über die Einsprachen.
 
 #### Art. 6
 
-**Zuständigkeiten und Verfahren bei den drei grossen Seen**
-
-<sup>1</sup> Die Gewässerraumpläne beim Alpnacher-, Sarner- und Lungerersee werden durch das Bau- und Raumentwicklungsdepartement in Zusammenarbeit mit dem Amt für Landwirtschaft und Umwelt und den betroffenen Gemeinden erarbeitet.
-
-<sup>2</sup> Das Verfahren zur Festlegung dieser Gewässerräume richtet sich sinngemäss nach Art. 5 dieser Ausführungsbestimmungen.
+**…**
 
 #### Art. 7
 
@@ -101,11 +98,9 @@ beschliesst:
 
 #### Art. 8
 
-**Ausnahmebewilligungen**
+**Ausnahmebewilligungen, Feststellungsverfügungen**
 
-<sup>1</sup> Ausnahmebewilligungen im Sinne von Art. 41c Abs. 1 der Gewässerschutzverordnung[^8-1] erteilt das Bau- und Raumentwicklungsdepartement.
-
-[^8-1]: SR [814.201](https://db.clex.ch/link/Bund/814.201/de)
+<sup>1</sup> Zuständig für die Erteilung von Ausnahmebewilligungen und den Erlass von Feststellungsverfügungen nach Art. 41c Abs. 1 und 2 der Gewässerschutzverordnung ist das Bau- und Raumentwicklungsdepartement.
 
 #### Art. 9
 
@@ -134,5 +129,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 15. Juli 2012 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2012, 49
+
+Ursprüngliches Inkrafttreten: 15. Juli 2012
+
+geändert durch:
+
+\- Nachtrag vom 7. April 2025, in Kraft seit 1.Mai 2025 (OGS 2025, 6)
 
 OGS 2012, 49
