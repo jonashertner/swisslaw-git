@@ -4,13 +4,12 @@ number: "35"
 title: Geschäftsordnung des Regierungsrates
 short: GORR
 language: de
-version: 2021-08-01
-valid_until: 2025-04-30
-version_adopted: 2021-07-06
+version: 2025-05-01
+version_adopted: 2025-04-01
 adopted: 2014-08-26
 in_force: 2014-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/35"
-pdf: "https://srl.lu.ch/api/de/versions/3770/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3770/pdf_file"
 
 (GORR)
 
-vom 26.08.2014 (Stand 01.08.2021)
+vom 26.08.2014 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -148,7 +147,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäfte des Regierungsrates werden in einem elektronischen Geschäftsverwaltungssystem geführt.
 
-<sup>2</sup> Einsicht in alle Geschäfte haben die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin und der Protokollführer oder die Protokollführerin.
+<sup>2</sup> Einsicht in alle Geschäfte haben die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin, der Protokollführer oder die Protokollführerin und der Leiter oder die Leiterin des Sekretariates des Regierungsrates.
 
 <sup>3</sup> Über die generelle oder einzelfallweise Berechtigung weiterer Personen entscheidet der zuständige Departementsvorsteher oder die zuständige Departementsvorsteherin beziehungsweise der Staatsschreiber oder die Staatsschreiberin. Die Berechtigung zur generellen Einsichtnahme in die vertraulichen Geschäfte der Gruppe B erteilt der Regierungsrat. Die Berechtigung zur Einsichtnahme in besonders vertrauliche Geschäfte der Gruppe A darf keinen weiteren Personen als den in Absatz 2 genannten erteilt werden. Die Staatskanzlei führt über die Erlaubnis zur Einsichtnahme in vertrauliche Geschäfte Protokoll.
 
@@ -228,7 +227,7 @@ beschliesst:
 
 <sup>2</sup> Das vertrauliche Protokoll umfasst den Informations- und Meinungsaustausch gemäss § 12 Absatz 1 sowie die Änderungsanträge und -beschlüsse mit den wichtigsten Begründungen zu den Geschäften der Gruppe B. Zu den besonders vertraulichen Geschäften der Gruppe A wird ein separates vertrauliches Protokoll erstellt.
 
-<sup>3</sup> Die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin und der Protokollführer oder die Protokollführerin haben Einsicht in die Protokollnotizen und die vertraulichen Protokolle. Weitere Personen erhalten diese, soweit sie gemäss § 10 Absatz 3 zur Einsichtnahme in die betreffenden Geschäfte berechtigt sind.
+<sup>3</sup> Die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin, der Protokollführer oder die Protokollführerin und der Leiter oder die Leiterin des Sekretariates des Regierungsrates haben Einsicht in die Protokollnotizen und die vertraulichen Protokolle. Weitere Personen erhalten diese, soweit sie gemäss § 10 Absatz 3 zur Einsichtnahme in die betreffenden Geschäfte berechtigt sind.
 
 ## 6 Ausfertigung, Zustellung und Veröffentlichung der Beschlüsse
 
