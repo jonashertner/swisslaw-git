@@ -3,11 +3,11 @@ sr: "414.110.3"
 title: Ordonnance du 19 novembre 2003 sur le domaine des écoles polytechniques fédérales (Ordonnance sur le domaine des EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/16"
 language: fr
-version: 2017-05-01
+version: 2025-05-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-16-20170501-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-16-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/fr"
 
 (Ordonnance sur le domaine des EPF)
 
-du 19 novembre 2003 (État le 1<sup>er</sup> mai 2017)
+du 19 novembre 2003 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -26,11 +26,17 @@ arrête:
 
 [^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 
-## Section 1 Domaine des EPF
+## Section 1 Dispositions générales
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 1
 
-(art. 1 loi sur les EPF)
+**Domaine des EPF[^1-1]**
+
+### (art. 1 loi sur les EPF)
 
 Le domaine des EPF comprend:
 
@@ -62,6 +68,16 @@ Le domaine des EPF comprend:
 
   - [tab] la Commission de recours interne des EPF.
 
+[^1-1]: Introduit par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 1a
+
+**Tâches confiées par le Conseil fédéral au domaine des EPF**[^1a-1]
+
+Les tâches confiées par le Conseil fédéral au domaine des EPF sont énumérées dans l’annexe 1.
+
+[^1a-1]: Introduit par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
 ## Section 2 Conseil des EPF
 
 #### Art. 2
@@ -76,7 +92,9 @@ Le domaine des EPF comprend:
 
 <sup>3</sup> Le Conseil fédéral fixe la rémunération de base ainsi que les indemnités journalières et le remboursement des frais lors de la nomination.
 
-<sup>4</sup> Demeurent réservées les dispositions particulières applicables au président du domaine des EPF, aux présidents des écoles et au directeur d’établissement de recherche siégeant au Conseil des EPF.
+<sup>4</sup> Demeurent réservées les dispositions particulières applicables au président du Conseil des EPF, aux présidents des écoles et au directeur d’établissement de recherche siégeant au Conseil des EPF.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 2a
 
@@ -306,13 +324,71 @@ Les présidents des écoles et les directeurs des établissements de recherche s
 
 [^19a-1]: Introduit par le ch. I de l’O du 31 janv. 2007 ([RO 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)). Abrogé par l’art. 39 ch. 1 de l’O du 5 déc. 2014 sur les finances et la comptabilité du domaine des EPF, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)).
 
+## Section 5*a* Médias sociaux
+
+[^sec5a-1]
+
+[^sec5a-1]: Introduite par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 19b
+
+**Utilisation des médias sociaux**
+
+Le Conseil des EPF, les EPF et les établissements de recherche peuvent proposer des informations dans les médias sociaux et y gérer des profils à cet effet si les conditions suivantes sont remplies:
+
+- a. les contenus de leurs profils sont accessibles à toutes les personnes résidant en Suisse;
+- b. ils peuvent rendre leurs profils et leurs contenus inaccessibles à tout moment.
+
+#### Art. 19c
+
+**Gestion de profils interactifs**
+
+<sup>1</sup>
+
+Le Conseil des EPF, les EPF et les établissements de recherche peuvent gérer des profils interactifs dans les médias sociaux si les conditions suivantes sont remplies:
+
+- a. toutes les personnes résidant en Suisse peuvent y poster des contributions;
+- b. le Conseil des EPF, les EPF et les établissements de recherche peuvent réagir aux contributions des utilisateurs en postant leurs propres contributions;
+- c. le Conseil des EPF, les EPF et les établissements de recherche peuvent effacer ou faire disparaître d’une autre manière les contributions des utilisateurs;
+- d. le Conseil des EPF, les EPF et les établissements de recherche peuvent bloquer des utilisateurs de sorte que ces derniers ne puissent plus poster de contributions.
+
+<sup>2</sup> Ils font en sorte de pouvoir être contactés au moyen de leurs profils.
+
+#### Art. 19d
+
+**Modération des profils interactifs**
+
+<sup>1</sup>
+
+Le Conseil des EPF, les EPF et les établissements de recherche peuvent, sur leurs profils interactifs, faire disparaître des contributions:
+
+- a. qui incitent à commettre un délit ou un crime;
+- b. qui incitent à la haine ou à la violence;
+- c. qui ont des contenus qui, manifestement, portent atteinte à l’honneur, sont menaçants, discriminatoires ou pornographiques, ou représentent des actes de violence;
+- d. qui sont manifestement hors sujet;
+- e. qui sont manifestement contraires à la vérité;
+- f. qui contiennent de la publicité;
+- g. qui semblent avoir été générés automatiquement.
+
+<sup>2</sup> Lorsque les contributions sont extraordinairement nombreuses, ils peuvent les faire disparaître automatiquement pendant un certain temps.
+
+<sup>3</sup> Ils peuvent bloquer un utilisateur en cas d’infractions particulièrement graves ou réitérées. L’utilisateur concerné peut demander des informations sur le motif du blocage et demander la levée du blocage après deux ans.
+
+#### Art. 19e
+
+**Directives**
+
+Le Conseil des EPF, les EPF et les établissements de recherche peuvent établir des directives relatives à leur utilisation des médias sociaux.
+
 ## Section 6 Dispositions finales
 
 #### Art. 20
 
-**Abrogation et modification du droit en vigueur**
+**Abrogation et modification du droit en vigueur**[^20-1]
 
-L’abrogation et la modification du droit en vigueur sont réglées en annexe.
+L’abrogation et la modification du droit en vigueur sont réglées dans l’annexe 2.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 21
 
@@ -333,33 +409,72 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe
+Annexe 1[^t-1]
+
+(art. 1*a*)
+
+Les tâches confiées par le Conseil fédéral au domaine des EPF comprennent:
+
+- 1 Atlas de la Suisse, EPFZ
+- 2\. Center for Security Studies (CSS), EPFZ
+- 3\. Centre suisse de calcul scientifique (CSCS/HPCN), EPFZ
+- 4\. Service sismologique suisse (SSS), EPFZ
+- 5\. Protection des plantes en forêt, FNP
+- 6\. Prévisions nationales d’avalanches, FNP
+- 7\. Réseau national d’observation des polluants atmosphériques (NABEL), LFEM
+- 8\. Organisme d’évaluation technique pour les produits de construction, LFEM
+- 9\. Centre Ecotox, IFAEPE et EPFL
+- 10\.
+
+  Tâches découlant de l’ordonnance du 26 avril 2017 sur la radioprotection[^t-2]:
+
+  - 10\.1 Maintien des compétences en matière de sécurité nucléaire, IPS
+  - 10\.2 Collecte, conditionnement et stockage intermédiaire des déchets radioactifs de la médecine, de l’industrie et de la recherche, IPS
+  - 10\.3 Piquet radioprotection sur mandat de la Centrale nationale d’alarme (CENAL), IPS
+  - 10\.4 Gamma-Ray Laboratory, IFAEPE
+
+- 11\.
+
+  Tâches découlant de l’ordonnance du 30 novembre 1992 sur les forêts[^t-3]:
+
+  - 11\.1 Récolte de données et rôle consultatif pour la protection de la forêt, FNP
+  - 11\.2 Processus d’évolution à long terme dans les réserves forestières naturelles, FNP
+  - 11\.3 Recherches sur les écosystèmes forestiers, FNP
+  - 11\.4 Inventaire forestier national (IFN), FNP
+
+[^t-1]: Introduite par le ch. II al. 1 de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+[^t-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^t-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+
+Annexe 2[^t-4]
 
 (art. 20)
 
 ## Abrogation et modification du droit en vigueur
 
+[^t-4]: Anciennement annexe.
+
 I
 
 Sont abrogées:
 
-- 1\. l’ordonnance du 6 décembre 1999 sur le domaine des écoles polytechniques fédérales[^annexu1-lvlu1-1];
-- 2\. l’ordonnance du 13 janvier 1993 sur les Ecoles polytechniques fédérales[^annexu1-lvlu1-2];
-- 3\. l’ordonnance du 13 janvier 1993 concernant l’Institut fédéral pour l’aménagement, l’épuration et la protection des eaux[^annexu1-lvlu1-3];
-- 4\. l’ordonnance du 13 janvier 1993 concernant l’Institut Paul Scherrer[^annexu1-lvlu1-4];
-- 5\. l’ordonnance du 13 janvier 1993 concernant l’Institut fédéral de recherches sur la forêt, la neige et le paysage[^annexu1-lvlu1-5];
-- 6\. l’ordonnance du 13 janvier 1993 concernant le Laboratoire fédéral d’essai des matériaux et de recherche[^annexu1-lvlu1-6].
+- 1\. l’ordonnance du 6 décembre 1999 sur le domaine des écoles polytechniques fédérales[^annex2-lvlu1-1];
+- 2\. l’ordonnance du 13 janvier 1993 sur les Ecoles polytechniques fédérales[^annex2-lvlu1-2];
+- 3\. l’ordonnance du 13 janvier 1993 concernant l’Institut fédéral pour l’aménagement, l’épuration et la protection des eaux[^annex2-lvlu1-3];
+- 4\. l’ordonnance du 13 janvier 1993 concernant l’Institut Paul Scherrer[^annex2-lvlu1-4];
+- 5\. l’ordonnance du 13 janvier 1993 concernant l’Institut fédéral de recherches sur la forêt, la neige et le paysage[^annex2-lvlu1-5];
+- 6\. l’ordonnance du 13 janvier 1993 concernant le Laboratoire fédéral d’essai des matériaux et de recherche[^annex2-lvlu1-6].
 
 II
 
 Les ordonnances suivantes sont modifiées comme suit:
 
-…[^annexu1-lvlu1-7]
+…[^annex2-lvlu1-7]
 
-[^annexu1-lvlu1-1]: [[RO 2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)annexe ch. II 5]
-[^annexu1-lvlu1-2]: [[RO 1993 832](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
-[^annexu1-lvlu1-3]: [[RO 1993 842](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)]
-[^annexu1-lvlu1-4]: [[RO 1993 845](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)ch. II]
-[^annexu1-lvlu1-5]: [[RO 1993 849](https://fedlex.data.admin.ch/eli/oc/1993/849_849_849)]
-[^annexu1-lvlu1-6]: [[RO 1993 853](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
-[^annexu1-lvlu1-7]: Les mod. peuvent être consultées au [RO 2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16).
+[^annex2-lvlu1-1]: [[RO 2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)annexe ch. II 5]
+[^annex2-lvlu1-2]: [[RO 1993 832](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
+[^annex2-lvlu1-3]: [[RO 1993 842](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)]
+[^annex2-lvlu1-4]: [[RO 1993 845](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)ch. II]
+[^annex2-lvlu1-5]: [[RO 1993 849](https://fedlex.data.admin.ch/eli/oc/1993/849_849_849)]
+[^annex2-lvlu1-6]: [[RO 1993 853](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
+[^annex2-lvlu1-7]: Les mod. peuvent être consultées au [RO 2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16).

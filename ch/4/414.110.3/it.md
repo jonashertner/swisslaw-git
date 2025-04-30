@@ -3,11 +3,11 @@ sr: "414.110.3"
 title: Ordinanza del 19 novembre 2003 sul settore dei politecnici federali (Ordinanza sul settore dei PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/16"
 language: it
-version: 2017-05-01
+version: 2025-05-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20170501/it/xml/fedlex-data-admin-ch-eli-cc-2004-16-20170501-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2004-16-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/it"
 
 (Ordinanza sul settore dei PF)
 
-del 19 novembre 2003 (Stato 1° maggio 2017)
+del 19 novembre 2003 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,9 +26,15 @@ ordina:
 
 [^ingress-1]: RU **2004** 305 RS **414.110**
 
-## Sezione 1: Settore dei PF
+## Sezione 1: Disposizioni generali
+
+[^sec1-1]
+
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 1
+
+**Settore dei PF[^1-1]**
 
 (art. 1 legge sui PF)
 
@@ -62,6 +68,16 @@ Il settore dei politecnici federali (settore dei PF) è formato:
 
   - [tab] la Commissione di ricorso dei PF.
 
+[^1-1]: Introdotto dalla cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 1a
+
+**Compiti affidati dal Consiglio federale al settore dei PF**[^1a-1]
+
+I compiti affidati dal Consiglio federale al settore dei PF sono elencati nell’allegato 1.
+
+[^1a-1]: Introdotto dalla cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
 ## Sezione 2: Consiglio dei PF
 
 #### Art. 2
@@ -76,7 +92,9 @@ Il settore dei politecnici federali (settore dei PF) è formato:
 
 <sup>3</sup> Al momento della nomina, il Consiglio federale stabilisce la retribuzione di base, l’indennità giornaliera e il rimborso delle spese.
 
-<sup>4</sup> Sono fatte salve le prescrizioni speciali per il presidente del settore dei PF, i presidenti delle scuole e i direttori degli istituti di ricerca membri del Consiglio dei PF.
+<sup>4</sup> Sono fatte salve le prescrizioni speciali per il presidente del Consiglio dei PF, i presidenti delle scuole e i direttori degli istituti di ricerca membri del Consiglio dei PF.[^2-1]
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 2a
 
@@ -90,7 +108,7 @@ Il settore dei politecnici federali (settore dei PF) è formato:
 
 <sup>3</sup> Se in occasione della nomina il membro del Consiglio dei PF ha omesso di indicare tutte le sue relazioni d’interesse oppure ha omesso di comunicarne la modifica durante il suo mandato nonostante la richiesta in tal senso del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) sussiste un motivo grave secondo l’articolo 24 capoverso 4 della legge sui PF, e il membro può essere revocato.
 
-[^2a-1]: Introdotto dal n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 [^2a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -111,10 +129,10 @@ Il settore dei politecnici federali (settore dei PF) è formato:
 <sup>5</sup> Per il resto si applicano per analogia le prescrizioni dell’ordinanza del 15 marzo 2001[^3-6] sul personale del settore dei PF.
 
 [^3-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^3-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 [^3-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-4]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 [^3-6]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 4
@@ -127,7 +145,7 @@ Il settore dei politecnici federali (settore dei PF) è formato:
 
 <sup>2</sup> La supervisione strategica riguarda in particolare gli obiettivi strategici[^4-1] e gli accordi sugli obiettivi.
 
-[^4-1]: Nuova espr. giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-1]: Nuova espr. giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -141,7 +159,7 @@ Il Consiglio dei PF presenta proposte al DEFR, a destinazione del Consiglio fede
 - d. la nomina, il licenziamento e le dimissioni dei presidenti delle scuole e dei direttori degli istituti di ricerca;
 - e. la creazione e la soppressione di istituti di ricerca.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 6
 
@@ -149,7 +167,7 @@ Il Consiglio dei PF presenta proposte al DEFR, a destinazione del Consiglio fede
 
 Prima di decidere sugli affari di cui all’articolo 5 lettere a, c ed e, il Consiglio dei PF consulta i PF e gli istituti di ricerca interessati, i gruppi di membri dei PF e le assemblee universitarie.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2007, in vigore dal 1° feb. 2007 ([RU 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2007, in vigore dal 1° feb. 2007 ([RU 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)).
 
 ## Sezione 3: Direttori delle scuole e degli istituti di ricerca
 
@@ -182,7 +200,7 @@ In caso di risoluzione senza colpa o di cessazione consensuale del rapporto di l
 
 <sup>8</sup> In casi motivati, il Consiglio federale può assoggettare il rapporto di lavoro al Codice delle obbligazioni[^7-5].
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 [^7-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^7-4]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
@@ -211,7 +229,7 @@ L’intenzione di esercitare occupazioni accessorie a titolo gratuito deve esser
 
 <sup>7</sup> Il Consiglio dei PF può emanare direttive sulla procedura di notifica e sul controllo del rispetto delle disposizioni relative alle occupazioni accessorie.
 
-[^7a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 [^7a-2]: [RS 172.220.12](https://fedlex.data.admin.ch/eli/cc/2004/30)
 
 #### Art. 8
@@ -220,13 +238,13 @@ L’intenzione di esercitare occupazioni accessorie a titolo gratuito deve esser
 
 I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono al Consiglio dei PF proposte per l’assunzione degli altri membri delle direzioni delle loro scuole o delle loro direzioni.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
+[^9-1]: Abrogato dalla cifra I dell’O del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1797](https://fedlex.data.admin.ch/eli/oc/2013/406)).
 
 ## Sezione 4: Obiettivi strategici e attuazione
 
@@ -254,7 +272,7 @@ I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono a
 
 <sup>2</sup> Alle modifiche agli obiettivi strategici si applicano per analogia le disposizioni dell’articolo 10.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 12
 
@@ -272,15 +290,15 @@ I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono a
 
 <sup>5</sup> In caso di sostanziale cambiamento della situazione, gli accordi sugli obiettivi e la ripartizione dei mezzi finanziari vengono adeguati alle nuove circostanze.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
-[^12-2]: Abrogato dal I dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^12-2]: Abrogato dalla cifra I dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 13
 
 [^13-1]
 
-[^13-1]: Abrogato dal I dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^13-1]: Abrogato dalla cifra I dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 14
 
@@ -290,7 +308,7 @@ I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono a
 
 <sup>2</sup> La valutazione intermedia dell’adempimento del mandato è presa in considerazione per la definizione degli obiettivi strategici del periodo di prestazione successivo.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 ## Sezione 5: ...
 
@@ -304,7 +322,63 @@ I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono a
 
 [^19a-1]
 
-[^19a-1]: Introdotto dal n. I dell’O del 31 gen. 2007 ([RU 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)). Abrogato dall’art. 39 n. 1 dell’O del 5 dic. 2014 sulle finanze e sulla contabilità nel settore dei PF, con effetto dal 1° gen. 2015 ([RU 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 31 gen. 2007 ([RU 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)). Abrogato dall’art. 39 n. 1 dell’O del 5 dic. 2014 sulle finanze e sulla contabilità nel settore dei PF, con effetto dal 1° gen. 2015 ([RU 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)).
+
+## Sezione 5*a*: Media sociali
+
+[^sec5a-1]
+
+[^sec5a-1]: Introdotta dalla cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 19b
+
+**Uso dei media sociali**
+
+Il Consiglio dei PF, i PF e gli istituti di ricerca possono diffondere informazioni attraverso i media sociali e gestire a questo scopo propri profili se:
+
+- a. i contenuti di tali profili sono accessibili a tutte le persone residenti in Svizzera;
+- b. possono rendere inaccessibili in qualsiasi momento i loro profili e i contenuti.
+
+#### Art. 19c
+
+**Gestione di profili interattivi**
+
+<sup>1</sup>
+
+Il Consiglio dei PF, i PF e gli istituti di ricerca possono gestire nei media sociali profili con funzioni interattive se:
+
+- a. tutte le persone residenti in Svizzera possono apportarvi contribuiti;
+- b. il Consiglio dei PF, i PF e gli istituti di ricerca possono reagire con contributi propri ai contributi degli utenti;
+- c. il Consiglio dei PF, i PF e gli istituti di ricerca possono cancellare o sopprimere in altro modo i contributi degli utenti;
+- d. il Consiglio dei PF, i PF e gli istituti di ricerca possono bloccare degli utenti in modo tale che questi ultimi non possano più apportare contributi.
+
+<sup>2</sup> Essi garantiscono la possibilità di essere contattati attraverso i propri profili.
+
+#### Art. 19d
+
+**Moderazione di profili interattivi**
+
+<sup>1</sup>
+
+Il Consiglio dei PF, i PF e gli istituti di ricerca possono, sui loro profili interattivi, sopprimere contributi che:
+
+- a. incitano a commettere delitti o crimini;
+- b. incitano all’odio o alla violenza;
+- c. includono contenuti che, manifestamente, ledono l’onore, hanno carattere minatorio, discriminatorio o pornografico oppure rappresentano atti di cruda violenza;
+- d. sono manifestamente inappropriati;
+- e. sono manifestamente non veritieri;
+- f. contengono pubblicità;
+- g. appaiono generati automaticamente.
+
+<sup>2</sup> Se sono straordinariamente numerosi, i contributi possono essere soppressi automaticamente per un determinato periodo di tempo.
+
+<sup>3</sup> In caso di violazioni particolarmente gravi o reiterate, il Consiglio dei PF, i PF e gli istituti di ricerca possono bloccare un utente. L’utente può chiedere informazioni sul motivo del blocco e chiedere che sia tolto dopo due anni.
+
+#### Art. 19e
+
+**Direttive**
+
+Il Consiglio dei PF, i PF e gli istituti di ricerca possono definire in direttive il loro uso dei media sociali.
 
 ## Sezione 6: Disposizioni finali
 
@@ -312,7 +386,9 @@ I presidenti delle scuole e i direttori degli istituti di ricerca sottopongono a
 
 **Abrogazione e modifica del diritto vigente**
 
-L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato.
+L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato 2.[^20-1]
+
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 21
 
@@ -333,33 +409,72 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 La presente ordinanza entra in vigore il 1° gennaio 2004.
 
-Allegato
+Allegato 1[^t-1]
+
+(art. 1*a*)
+
+I compiti affidati dal Consiglio federale al settore dei PF comprendono:
+
+- 1\. Atlante della Svizzera, PFZ
+- 2\. Center for Security Studies (CSS), PFZ
+- 3\. Centro svizzero di calcolo scientifico (CSCS/HPCN), PFZ
+- 4\. Servizio sismico svizzero (SED), PFZ
+- 5\. Protezione fitosanitaria forestale, FNP
+- 6\. Bollettino valanghe nazionale, FNP
+- 7\. Rete nazionale d’osservazione degli inquinanti atmosferici (NABEL), LPMR
+- 8\. Organismo di valutazione tecnica per i prodotti da costruzione, LPMR
+- 9\. Centro Ecotox, IFADPA e PFL
+- 10\.
+
+  Compiti iscritti nell’ordinanza del 26 aprile 2017[^t-2] sulla radioprotezione:
+
+  - 10\.1 Mantenimento delle competenze in materia di sicurezza nucleare, IPS
+  - 10\.2 Raccolta, condizionamento e collocamento in un deposito intermedio di sostanze radioattive provenienti da medicina, ricerca e industria, IPS
+  - 10\.3 Picchetto di radioprotezione su incarico della Centrale nazionale d’allarme (CENAL), IPS
+  - 10\.4 Gamma-Ray Laboratory, IFADPA
+
+- 11\.
+
+  Compiti iscritti nell’ordinanza del 30 novembre 1992[^t-3] sulle foreste:
+
+  - 11\.1 Rilevazione di dati e ruolo di consulenza per la protezione delle foreste, FNP
+  - 11\.2 Processi di sviluppo a lungo termine nelle riserve forestali naturali, FNP
+  - 11\.3 Ricerca in materia di ecosistemi forestali, FNP
+  - 11\.4 Inventario forestale nazionale (IFN), FNP
+
+[^t-1]: Introdotto dalla cifra II cpv. 1 dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+[^t-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^t-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+
+Allegato 2[^t-4]
 
 (art. 20)
 
 ## Abrogazione e modifica del diritto vigente
 
+[^t-4]: Originario allegato
+
 I
 
 Le seguenti ordinanze sono abrogate:
 
-- 1\. Ordinanza del 6 dicembre 1999[^annexu1-lvlu1-1] sul settore dei PF,
-- 2\. Ordinanza del 13 gennaio 1993[^annexu1-lvlu1-2] sui PF,
-- 3\. Ordinanza del 13 gennaio 1993[^annexu1-lvlu1-3] sull’IFADPA,
-- 4\. Ordinanza IPS del 13 gennaio 1993[^annexu1-lvlu1-4],
-- 5\. Ordinanza del 13 gennaio 1993[^annexu1-lvlu1-5] sul FNP,
-- 6\. Ordinanza del 13 gennaio 1993[^annexu1-lvlu1-6] sul LPMR.
+- 1\. Ordinanza del 6 dicembre 1999[^annex2-lvlu1-1] sul settore dei PF,
+- 2\. Ordinanza del 13 gennaio 1993[^annex2-lvlu1-2] sui PF,
+- 3\. Ordinanza del 13 gennaio 1993[^annex2-lvlu1-3] sull’IFADPA,
+- 4\. Ordinanza IPS del 13 gennaio 1993[^annex2-lvlu1-4],
+- 5\. Ordinanza del 13 gennaio 1993[^annex2-lvlu1-5] sul FNP,
+- 6\. Ordinanza del 13 gennaio 1993[^annex2-lvlu1-6] sul LPMR.
 
 II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-7]
+…[^annex2-lvlu1-7]
 
-[^annexu1-lvlu1-1]: [[RU 2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. n. II 5]
-[^annexu1-lvlu1-2]: [[RU 1993 832](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
-[^annexu1-lvlu1-3]: [[RU 1993 842](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)[1350](https://fedlex.data.admin.ch/eli/oc/1993/1350_1350_1350)]
-[^annexu1-lvlu1-4]: [[RU 1993 845](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)n. II]
-[^annexu1-lvlu1-5]: [[RU 1993 849](https://fedlex.data.admin.ch/eli/oc/1993/849_849_849)]
-[^annexu1-lvlu1-6]: [[RU 1993 853](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
-[^annexu1-lvlu1-7]: Le mod. possono essere consultate alla [RU 2001 1789](https://fedlex.data.admin.ch/eli/oc/2001/279).
+[^annex2-lvlu1-1]: [[RU 2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. cifra II n. 5]
+[^annex2-lvlu1-2]: [[RU 1993 832](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
+[^annex2-lvlu1-3]: [[RU 1993 842](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)[1350](https://fedlex.data.admin.ch/eli/oc/1993/1350_1350_1350)]
+[^annex2-lvlu1-4]: [[RU 1993 845](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)cifra II]
+[^annex2-lvlu1-5]: [[RU 1993 849](https://fedlex.data.admin.ch/eli/oc/1993/849_849_849)]
+[^annex2-lvlu1-6]: [[RU 1993 853](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
+[^annex2-lvlu1-7]: Le mod. possono essere consultate alla [RU 2001 1789](https://fedlex.data.admin.ch/eli/oc/2001/279).

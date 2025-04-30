@@ -3,11 +3,11 @@ sr: "414.110.3"
 title: Verordnung vom 19. November 2003 über den Bereich der Eidgenössischen Technischen Hochschulen (Verordnung ETH-Bereich)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/16"
 language: de
-version: 2017-05-01
+version: 2025-05-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20170501/de/xml/fedlex-data-admin-ch-eli-cc-2004-16-20170501-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/16/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2004-16-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/16/20170501/de"
 
 (Verordnung ETH-Bereich)
 
-vom 19. November 2003 (Stand am 1. Mai 2017)
+vom 19. November 2003 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -26,11 +26,17 @@ verordnet:
 
 [^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 
-## 1. Abschnitt: ETH-Bereich
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 1
 
-(Art. 1 ETH-Gesetz)
+**ETH-Bereich[^1-1]**
+
+### (Art. 1 ETH-Gesetz)
 
 Den Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) bilden:
 
@@ -62,6 +68,16 @@ Den Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) bilden:
 
   - [tab] die ETH-Beschwerdekommission.
 
+[^1-1]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 1a
+
+**Vom Bundesrat an den ETH-Bereich übertragene Aufgaben**[^1a-1]
+
+Die vom Bundesrat an den ETH-Bereich übertragenen Aufgaben sind im Anhang 1 aufgeführt.
+
+[^1a-1]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
 ## 2. Abschnitt: ETH-Rat
 
 #### Art. 2
@@ -76,7 +92,9 @@ Den Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) bilden:
 
 <sup>3</sup> Der Bundesrat bestimmt mit der Ernennung die Grundbezüge sowie die Taggelder und Spesen.
 
-<sup>4</sup> Vorbehalten bleiben die besonderen Vorschriften über die Präsidentin oder den Präsidenten des ETH-Bereiches, die Schulpräsidenten oder Schulpräsidentinnen und den Direktor oder die Direktorin der Forschungsanstalt, der oder die dem ETH-Rat angehört.
+<sup>4</sup> Vorbehalten bleiben die besonderen Vorschriften über die Präsidentin oder den Präsidenten des ETH-Rats, die Schulpräsidenten oder Schulpräsidentinnen und den Direktor oder die Direktorin der Forschungsanstalt, der oder die dem ETH-Rat angehört.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 2a
 
@@ -306,13 +324,71 @@ Die Schulpräsidenten und -präsidentinnen sowie die Direktoren und Direktorinne
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2007 ([AS 2007 355](https://fedlex.data.admin.ch/eli/oc/2007/69)). Aufgehoben durch Art. 39 Ziff. 1 der V vom 5. Dez. 2014 über das Finanz- und Rechnungswesen des ETH-Bereichs, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)).
 
+## 5*a*. Abschnitt: Soziale Medien
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+
+#### Art. 19b
+
+**Nutzung sozialer Medien**
+
+Der ETH-Rat, die ETH und die Forschungsanstalten können in den sozialen Medien Informationen bereitstellen und dazu eigene Auftritte (Profile) betreiben, sofern:
+
+- a. die Inhalte dieser Profile allen in der Schweiz wohnhaften Personen zugänglich sind;
+- b. sie ihre Profile und Inhalte jederzeit unzugänglich machen können.
+
+#### Art. 19c
+
+**Betreiben interaktiver Profile**
+
+<sup>1</sup>
+
+Der ETH-Rat, die ETH und die Forschungsanstalten können in den sozialen Medien Profile mit Interaktionsfunktion betreiben, sofern:
+
+- a. alle in der Schweiz wohnhaften Personen darauf Beiträge einbringen können;
+- b. der ETH-Rat, die ETH und die Forschungsanstalten mit eigenen Beiträgen auf Beiträge von Nutzerinnen und Nutzern reagieren können;
+- c. der ETH-Rat, die ETH und die Forschungsanstalten Beiträge von Nutzerinnen und Nutzern löschen oder anderweitig unterdrücken können;
+- d. der ETH-Rat, die ETH und die Forschungsanstalten Nutzerinnen und Nutzer so blockieren können, dass die blockierten Nutzerinnen und Nutzer keine Beiträge mehr einbringen können.
+
+<sup>2</sup> Sie stellen sicher, dass sie über ihre Profile kontaktiert werden können.
+
+#### Art. 19d
+
+**Moderation interaktiver Profile**
+
+<sup>1</sup>
+
+Der ETH-Rat, die ETH und die Forschungsanstalten können in ihren interaktiven Profilen Beiträge unterdrücken, die:
+
+- a. zu Vergehen oder Verbrechen aufrufen;
+- b. zu Hass oder Gewalt aufrufen;
+- c. offensichtlich ehrverletzende, drohende, diskriminierende oder pornographische Inhalte oder Gewaltdarstellungen enthalten;
+- d. offensichtlich sachfremd sind;
+- e. krass wahrheitswidrig sind;
+- f. Werbung enthalten;
+- g. dem Anschein nach maschinell erzeugt wurden.
+
+<sup>2</sup> Gehen ausserordentlich viele Beiträge ein, so kann das Unterdrücken von Beiträgen vorübergehend automatisiert werden.
+
+<sup>3</sup> Bei besonders schweren oder bei wiederholten Verstössen kann der ETH-Rat, die ETH oder die Forschungsanstalt Nutzerinnen und Nutzer blockieren. Die betroffene Nutzerin oder der betroffene Nutzer kann Auskunft über den Grund der Blockierung und nach zwei Jahren die Aufhebung der Blockierung verlangen.
+
+#### Art. 19e
+
+**Richtlinien**
+
+Der ETH-Rat, die ETH und die Forschungsanstalten können in Richtlinien ihre Nutzung der sozialen Medien festlegen.
+
 ## 6. Abschnitt: Schlussbestimmungen
 
 #### Art. 20
 
-**Aufhebung und Änderung bisherigen Rechts**
+**Aufhebung und Änderung bisherigen Rechts**[^20-1]
 
-Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
+Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 2 geregelt.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
 
 #### Art. 21
 
@@ -333,33 +409,73 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang
+Anhang 1[^t-1]
+
+(Art. 1*a*)
+
+Die vom Bundesrat an den ETH-Bereich übertragenen Aufgaben umfassen:
+
+- 1 Atlas der Schweiz, ETH Zürich
+- 2\. Center for Security Studies (CSS), ETH Zürich
+- 3\. Nationales Hochleistungs-Rechnungszentrum (CSCS/HPCN), ETH Zürich
+- 4\. Schweizerischer Erdbebendienst (SED), ETH Zürich
+- 5\. Forstlicher Pflanzenschutz, WSL
+- 6\. Nationale Lawinenwarnung, WSL
+- 7\. Nationales Beobachtungsnetz für Luftfremdstoffe (NABEL), EMPA
+- 8\. Technische Bewertungsstelle für Bauprodukte, EMPA
+- 9\. Oekotoxzentrum, EAWAG und ETH Lausanne
+- 10\.
+
+  Aufgaben gemäss Strahlenschutzverordnung vom 26. April 2017[^t-2]:
+
+  - 10\.1 Kompetenzerhalt in nuklearer Sicherheit, PSI
+  - 10\.2 Sammlung, Konditionierung und Zwischenlagern radioaktiver Stoffe aus Medizin, Forschung und Industrie (MIF), PSI
+  - 10\.3 Strahlenschutz-Pikett im Auftrag der Nationalen Alarmzentrale (NAZ), PSI
+  - 10\.4 Gamma-Ray Laboratory, EAWAG
+
+- 11\.
+
+  Aufgaben gemäss Waldverordnung vom 30. November 1992[^t-3]:
+
+  - 11\.1 Erhebung von Daten und Beratungsrolle für den Waldschutz, WSL
+  - 11\.2 Langfristige Entwicklungsprozesse in den Naturwaldreservaten, WSL
+  - 11\.3 Waldökosystemforschung (LWF), WSL
+  - 11\.4 Schweizerisches Landesforstinventar (LFI), WSL
+  - [tab]
+
+[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 237](https://fedlex.data.admin.ch/eli/oc/2025/237)).
+[^t-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^t-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+
+Anhang 2[^t-4]
 
 (Art. 20)
 
 ## Aufhebung und Änderung bisherigen Rechts
 
+[^t-4]: Ursprünglich: Anhang.
+
 I
 
 Folgende Verordnungen werden aufgehoben:
 
-- 1\. Verordnung ETH-Bereich vom 6. Dezember 1999[^annexu1-lvlu1-1];
-- 2\. ETH-Verordnung vom 13. Januar 1993[^annexu1-lvlu1-2];
-- 3\. EAWAG-Verordnung vom 13. Januar 1993[^annexu1-lvlu1-3];
-- 4\. PSI-Verordnung vom 13. Januar 1993[^annexu1-lvlu1-4];
-- 5\. WSL-Verordnung vom 13. Januar 1993[^annexu1-lvlu1-5];
-- 6\. EMPA-Verordnung vom 13. Januar 1993[^annexu1-lvlu1-6].
+- 1\. Verordnung ETH-Bereich vom 6. Dezember 1999[^annex2-lvlu1-1];
+- 2\. ETH-Verordnung vom 13. Januar 1993[^annex2-lvlu1-2];
+- 3\. EAWAG-Verordnung vom 13. Januar 1993[^annex2-lvlu1-3];
+- 4\. PSI-Verordnung vom 13. Januar 1993[^annex2-lvlu1-4];
+- 5\. WSL-Verordnung vom 13. Januar 1993[^annex2-lvlu1-5];
+- 6\. EMPA-Verordnung vom 13. Januar 1993[^annex2-lvlu1-6].
 
 II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-7]
+…[^annex2-lvlu1-7]
 
-[^annexu1-lvlu1-1]: [[<sup>AS</sup> <sup>2000</sup> <sup>198</sup>](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. II 5]
-[^annexu1-lvlu1-2]: [[<sup>AS</sup> <sup>1993</sup> <sup>832</sup>](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
-[^annexu1-lvlu1-3]: [[<sup>AS</sup> <sup>1993</sup> <sup>842</sup>](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)[1350](https://fedlex.data.admin.ch/eli/oc/1993/1350_1350_1350)]
-[^annexu1-lvlu1-4]: [[<sup>AS</sup> <sup>1993</sup> <sup>845</sup>](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)Ziff. II]
-[^annexu1-lvlu1-5]: [<sup>AS</sup> <sup>**199**</sup>**3** 849]
-[^annexu1-lvlu1-6]: [[<sup>AS</sup> <sup>1993</sup> <sup>853</sup>](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
-[^annexu1-lvlu1-7]: Die Änderungen können unter [AS 2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)konsultiert werden.
+[^annex2-lvlu1-1]: [[<sup>AS</sup> <sup>2000</sup> <sup>198</sup>](https://fedlex.data.admin.ch/eli/oc/2000/35), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. II 5]
+[^annex2-lvlu1-2]: [[<sup>AS</sup> <sup>1993</sup> <sup>832</sup>](https://fedlex.data.admin.ch/eli/oc/1993/832_832_832), [1995 3852](https://fedlex.data.admin.ch/eli/oc/1995/3852_3852_3852)]
+[^annex2-lvlu1-3]: [[<sup>AS</sup> <sup>1993</sup> <sup>842</sup>](https://fedlex.data.admin.ch/eli/oc/1993/842_842_842)[1350](https://fedlex.data.admin.ch/eli/oc/1993/1350_1350_1350)]
+[^annex2-lvlu1-4]: [[<sup>AS</sup> <sup>1993</sup> <sup>845</sup>](https://fedlex.data.admin.ch/eli/oc/1993/845_845_845)[1730](https://fedlex.data.admin.ch/eli/oc/1993/1730_1730_1730), [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129)Ziff. II]
+[^annex2-lvlu1-5]: [<sup>AS</sup> <sup>**199**</sup>**3** 849]
+[^annex2-lvlu1-6]: [[<sup>AS</sup> <sup>1993</sup> <sup>853</sup>](https://fedlex.data.admin.ch/eli/oc/1993/853_853_853), [2002 1619](https://fedlex.data.admin.ch/eli/oc/2002/246)]
+[^annex2-lvlu1-7]: Die Änderungen können unter [AS 2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)konsultiert werden.
