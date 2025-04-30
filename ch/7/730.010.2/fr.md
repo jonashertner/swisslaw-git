@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 20 novembre 2024 sur la garantie d’origine pour 
 short: OGOC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: fr
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/fr"
 
 (OGOC)
 
-du 20 novembre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 20 novembre 2024 (État le 1<sup>er</sup> mai 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -62,6 +62,11 @@ La garantie d’origine comprend au moins les indications suivantes:
 
 <sup>3</sup> En cas de stockage à long terme du combustible ou carburant concerné, le délai de 18 mois est suspendu, sur demande, pour la durée du stockage.
 
+<sup>4</sup> Le délai de 18 mois est suspendu, sur demande, pour la durée de la procédure de décision relative à la délivrance d’attestations internationales prévue à l’art. 92*e* de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^2-1].[^2-2]
+
+[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-2]: Introduit par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+
 #### Art. 3
 
 **Saisie des groupes de consommateurs**
@@ -76,13 +81,18 @@ Quiconque annule des garanties d’origine conformément à l’art. 4*c*, al. 1
 
 <sup>1</sup> Le producteur de combustibles ou de carburants annonce à l’organe d’exécution les installations de production situées en Suisse en fournissant les indications mentionnées à l’art. 1, al. 1, let. a, c, d et g à j.
 
-<sup>2</sup> Les indications visées à l’al. 1 doivent être certifiées par un organisme d’évaluation de la conformité accrédité pour ce domaine.
+<sup>2</sup> S’il n’existe pas d’autorisation de mise sur le marché pour un combustible ou un carburant renouvelable ou à faible taux d’émission (art. 4, al. 6, de l’ordonnance du 2 avril 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission [OMCC][^4-1]), les indications visées à l’art. 1, al. 1, let. a, c, d et g à j, doivent être certifiées par un organisme d’évaluation de la conformité accrédité pour ce domaine.[^4-2]
 
-<sup>3</sup> Pour les installations de production de carburants renouvelables, le producteur saisit, en plus des indications visées à l’al. 1, l’autorisation en tant qu’établissement conformément à l’art. 28, al. 1, let. b, de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^4-1] et l’allègement fiscal accordé aux carburants renouvelables conformément à l’art. 12*b* de la loi sur l’imposition des huiles minérales.
+<sup>3</sup> Pour les installations de production de carburants renouvelables, le producteur saisit, en plus des indications visées à l’al. 1, l’autorisation en tant qu’établissement conformément à l’art. 28, al. 1, let. b, de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^4-3] et l’allègement fiscal accordé aux carburants renouvelables conformément à l’art. 12*b* de la loi sur l’imposition des huiles minérales.
+
+<sup>3bis</sup> Pour les installations de production de combustibles et de carburants, le producteur saisit l’autorisation de mise sur le marché en plus des indications visées à l’art. 1, al. 1, let. a, c, d et g à j.[^4-4]
 
 <sup>4</sup> Toute modification des données doit être annoncée immédiatement à l’organe d’exécution.
 
-[^4-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-1]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^4-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-4]: Introduit par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 #### Art. 5
 
@@ -90,16 +100,21 @@ Quiconque annule des garanties d’origine conformément à l’art. 4*c*, al. 1
 
 <sup>1</sup>
 
-L’importateur de combustibles ou de carburants issus d’installations de production situées à l’étranger annonce à l’organe d’exécution:
+L’importateur de combustibles ou de carburants issus d’installations de production situées à l’étranger saisit:[^5-1]
 
 - a. les installations de production situées à l’étranger en fournissant les indications mentionnées à l’art. 1, al. 1, let. a, c, d et g à j;
-- b. le cas échéant, l’allègement fiscal accordé aux carburants renouvelables conformément à l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^5-1].
+- b. le cas échéant, l’allègement fiscal accordé aux carburants renouvelables conformément à l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^5-2];
+- c.[^5-3] le cas échéant, l’autorisation de mise sur le marché d’un combustible ou d’un carburant renouvelable ou à faible taux d’émission (art. 4, al. 6, OMCC[^5-4]).
 
-<sup>2</sup> Si aucun allègement fiscal n’est accordé, l’importateur fait certifier les indications visées à l’al. 1, let. a, par un organisme d’évaluation de la conformité accrédité pour ce domaine.
+<sup>2</sup> Si l’autorisation de mise sur le marché visée à l’al. 1, let. c, n’a pas été accordée, l’importateur fait certifier les indications visées à l’al. 1, let. a, par un organisme d’évaluation de la conformité accrédité pour ce domaine.[^5-5]
 
 <sup>3</sup> Toute modification des données doit être annoncée immédiatement à l’organe d’exécution.
 
-[^5-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-3]: Introduite par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-4]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Section 3 Saisie et annonce des données de production et des données relatives à l’importation et à l’exportation
 
@@ -156,27 +171,32 @@ Le producteur de biogaz qui dispose d’un compteur d’énergie thermique annon
 
 <sup>1</sup>
 
-Une garantie d’origine étrangère pour du gaz renouvelable ou un autre certificat étranger pour du gaz renouvelable doit remplir les conditions suivantes pour être enregistrée dans la base de données visée à l’art. 9:
+Une garantie d’origine étrangère pour du gaz renouvelable ou un autre certificat étranger pour du gaz renouvelable doit remplir les conditions suivantes pour être enregistré dans la base de données visée à l’art. 9:[^8-1]
 
 - a. le gaz renouvelable est fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes;
-- b. le gaz renouvelable qui est produit à partir d’agents énergétiques renouvelables autres que la biomasse respecte des exigences écologiques;
-- c. le certificat étranger pour du gaz renouvelable a été délivré par un registre national, négocié via le Registre européen des gaz renouvelables (ERGaR)[^8-1] ou se fonde sur le système européen de certification de l’énergie (EECS)[^8-2] de l’Association des organismes émetteurs (*Association of Issuing Bodies*)[^8-3];
+- b.[^8-2]
+
+  le gaz renouvelable qui est produit à partir d’agents énergétiques renouvelables autres que la biomasse est doté:
+
+  - 1\. d’un certificat valable établi par un système reconnu au sens de l’art. 30, par. 4, de la directive (UE) 2018/2001[^8-3],
+  - 2\. d’une documentation d’accompagnement montrant qu’il s’agit d’un carburant renouvelable d’origine non biologique au sens de l’art. 2, point 36, de la directive (UE) 2018/2001;
+
+- c. le certificat étranger pour du gaz renouvelable a été délivré par un registre national, négocié via le Registre européen des gaz renouvelables (ERGaR)[^8-4] ou se fonde sur le système européen de certification de l’énergie (EECS)[^8-5] de l’Association des organismes émetteurs (*Association of Issuing Bodies*)[^8-6];
 - d. le gaz renouvelable a été injecté dans le réseau de gaz européen.
 
-<sup>2</sup>
-
-L’OFEN publie les directives sur les justificatifs attestant que les conditions suivantes ont été remplies:
-
-- a. le gaz renouvelable a été fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes;
-- b. le gaz renouvelable qui est produit à partir d’agents énergétiques renouvelables autres que la biomasse respecte des exigences écologiques.
+<sup>2</sup> L’OFEN publie les directives sur les justificatifs attestant que le gaz renouvelable a été fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes.[^8-7]
 
 <sup>3</sup> Lorsqu’un certificat étranger pour du gaz renouvelable est saisi dans la base de données visée à l’art. 9, il doit être supprimé du registre initial.
 
 <sup>4</sup> Lorsqu’un certificat étranger pour du gaz renouvelable qui provient d’un pays ne disposant pas d’un registre est saisi dans la base de données visée à l’art. 9, l’importateur doit attester qu’une comptabilisation commerciale à double est exclue.
 
-[^8-1]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
-[^8-2]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
-[^8-3]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-3]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12.2018, p. 82; modifiée en dernier lieu par la directive (UE) 2024/1711, JO L, 2024/1711, 26.6.2023.
+[^8-4]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
+[^8-5]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
+[^8-6]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Section 5 Organe d’exécution
 

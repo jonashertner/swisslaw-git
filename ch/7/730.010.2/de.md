@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. November 2024 über den Herkunftsnachweis fü
 short: VHBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: de
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/de"
 
 (VHBT)
 
-vom 20. November 2024 (Stand am 1. Januar 2025)
+vom 20. November 2024 (Stand am 1. Mai 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -62,6 +62,11 @@ Der Herkunftsnachweis umfasst mindestens:
 
 <sup>3</sup> Die 18-monatige Frist steht auf Gesuch hin für die Dauer der langfristigen Einlagerung der zugehörigen Brenn- oder Treibstoffe still.
 
+<sup>4</sup> Die 18-monatige Frist steht auf Gesuch hin für die Dauer des Verfahrens über den Entscheid gemäss Artikel 92*e* der CO<sub>2</sub>-Verordnung vom 30. November 2012[^2-1] zur Ausstellung von internationalen Bescheinigungen still.[^2-2]
+
+[^2-1]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-2]: Eingefügt durch Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+
 #### Art. 3
 
 **Erfassung der Verbrauchergruppen**
@@ -76,13 +81,18 @@ Wer Herkunftsnachweise nach Artikel 4*c* Absatz 1 Buchstaben a, b und c Ziffern 
 
 <sup>1</sup> Produzenten von Brenn- und Treibstoffen müssen der Vollzugsstelle inländische Produktionsanlagen mit den Angaben nach Artikel 1 Absatz 1 Buchstaben a, c, d und g–j melden.
 
-<sup>2</sup> Die Angaben nach Absatz 1 müssen von einer für diesen Fachbereich akkreditierten Konformitätsbewertungsstelle beglaubigt werden.
+<sup>2</sup> Wenn keine Bewilligung zum Inverkehrbringen eines erneuerbaren oder emissionsarmen Brenn- oder Treibstoffes vorliegt (Art. 4 Abs. 6 der Verordnung vom 2. April 2025[^4-1] über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen [IBTV]), müssen die Angaben nach Artikel 1 Absatz 1 Buchstaben a, c, d und g–j von einer für diesen Fachbereich akkreditierten Konformitätsbewertungsstelle beglaubigt werden.[^4-2]
 
-<sup>3</sup> Bei Anlagen zur Produktion von erneuerbaren Treibstoffen müssen die Produzenten zusätzlich zu den Angaben nach Absatz 1 die Bewilligung als Herstellungsbetrieb gemäss Artikel 28 Absatz 1 Buchstabe b des Mineralölsteuergesetzes vom 21. Juni 1996[^4-1] und die Gewährung einer Steuererleichterung für erneuerbare Treibstoffe nach Artikel 12*b* des Mineralsteuergesetzes erfassen.
+<sup>3</sup> Bei Anlagen zur Produktion von erneuerbaren Treibstoffen müssen die Produzenten zusätzlich zu den Angaben nach Absatz 1 die Bewilligung als Herstellungsbetrieb gemäss Artikel 28 Absatz 1 Buchstabe b des Mineralölsteuergesetzes vom 21. Juni 1996[^4-3] und die Gewährung einer Steuererleichterung für erneuerbare Treibstoffe nach Artikel 12*b* des Mineralsteuergesetzes erfassen.
+
+<sup>3bis</sup> Bei Anlagen zur Produktion von Brenn- und Treibstoffen müssen die Produzenten zusätzlich zu den Angaben nach Artikel 1 Absatz 1 Buchstaben a, c, d und g–j die Bewilligung zum Inverkehrbringen erfassen.[^4-4]
 
 <sup>4</sup> Jede Änderung der Daten muss der Vollzugstelle unverzüglich gemeldet werden.
 
-[^4-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-1]: [SR 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^4-2]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^4-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-4]: Eingefügt durch Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 #### Art. 5
 
@@ -90,16 +100,22 @@ Wer Herkunftsnachweise nach Artikel 4*c* Absatz 1 Buchstaben a, b und c Ziffern 
 
 <sup>1</sup>
 
-Importeure von Brenn- und Treibstoffen aus ausländischen Produktionsanlagen müssen der Vollzugsstelle Folgendes melden:
+Importeure von Brenn- und Treibstoffen aus ausländischen Produktionsanlagen müssen Folgendes erfassen:[^5-1]
 
-- a. ausländische Produktionsanlagen mit den Angaben nach Artikel 1 Absatz 1 Buchstaben a, c, d und g–j;
-- b. falls vorhanden: die Gewährung einer Steuererleichterung für erneuerbare Treibstoffe nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^5-1].
+- a.[^5-2] die ausländischen Produktionsanlagen mit den Angaben nach Artikel 1 Absatz 1 Buchstaben a, c, d und g–j;
+- b. falls vorhanden: die Gewährung einer Steuererleichterung für erneuerbare Treibstoffe nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^5-3];
+- c.[^5-4] falls vorhanden: die Bewilligung zum Inverkehrbringen eines erneuerbaren oder emissionsarmen Brenn- oder Treibstoffes (Art. 4 Abs. 6 IBTV[^5-5]).
 
-<sup>2</sup> Wurde keine Steuererleichterung gewährt, so muss der Importeur die Angaben nach Absatz 1 Buchstabe a von einer für diesen Fachbereich akkreditierten Konformitätsbewertungsstelle beglaubigen lassen.
+<sup>2</sup> Wurde keine Bewilligung zum Inverkehrbringen nach Absatz 1 Buchstabe c gewährt, so muss der Importeur die Angaben nach Absatz 1 Buchstabe a von einer für diesen Fachbereich akkreditierten Konformitätsbewertungsstelle beglaubigen lassen.[^5-6]
 
 <sup>3</sup> Jede Änderung der Daten muss der Vollzugsstelle unverzüglich gemeldet werden.
 
-[^5-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-2]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-4]: Eingefügt durch Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-5]: [SR 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^5-6]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## 3. Abschnitt: Erfassung und Meldung von Produktions-, Import- und Exportdaten
 
@@ -159,24 +175,28 @@ Produzenten von Biogas, die über einen Wärmezähler verfügen, müssen der Vol
 Um in der Datenbank nach Artikel 9 erfasst zu werden, muss ein ausländischer Herkunftsnachweis für erneuerbare Gase oder ein anderes ausländisches Zertifikat für erneuerbare Gase folgende Bedingungen erfüllen:
 
 - a. Das erneuerbare Gas wird nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt.
-- b. Das erneuerbare Gas, das aus anderen erneuerbaren Energieträgern als Biomasse hergestellt wird, erfüllt ökologische Anforderungen.
-- c. Das ausländische Zertifikat für erneuerbare Gase wurde von einem nationalen Register ausgegeben oder über das «European Renewable Gas Registry»[^8-1] gehandelt oder beruht auf dem europäischen Energiezertifikatsstandard[^8-2] der «Association of Issuing Bodies» [^8-3].
+- b.[^8-1]
+
+  Für das erneuerbare Gas, das aus anderen erneuerbaren Energieträgern als Biomasse hergestellt wird, muss vorliegen:
+
+  - 1\. ein gültiges Zertifikat, das durch ein anerkanntes System nach Artikel 30 Absatz 4 der Richtlinie (EU) 2018/2001[^8-2] ausgestellt worden ist;
+  - 2\. eine Begleitdokumentation, aus der hervorgeht, dass es sich um einen erneuerbaren Kraftstoff nicht biogenen Ursprungs nach Artikel 2 Nummer 36 der Richtlinie (EU) 2018/2001 handelt.
+
+- c. Das ausländische Zertifikat für erneuerbare Gase wurde von einem nationalen Register ausgegeben oder über das «European Renewable Gas Registry»[^8-3] gehandelt oder beruht auf dem europäischen Energiezertifikatsstandard[^8-4] der «Association of Issuing Bodies» [^8-5].
 - d. Das erneuerbare Gas wurde in das europäische Gasnetz eingespeist.
 
-<sup>2</sup>
-
-Das BFE veröffentlicht Richtlinien zu den Belegen, nach denen:
-
-- a. das erneuerbare Gas nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt wurde;
-- b. das erneuerbare Gas, das aus anderen erneuerbaren Energieträgern als Biomasse hergestellt wird, ökologische Anforderungen erfüllt.
+<sup>2</sup> Das BFE veröffentlicht Richtlinien zu den Belegen, nach denen das erneuerbare Gas nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt wurde.[^8-6]
 
 <sup>3</sup> Wird ein ausländisches Zertifikat für erneuerbare Gase in der Datenbank nach Artikel 9 erfasst, so ist es im ursprünglichen Register zu löschen.
 
 <sup>4</sup> Wird ein ausländisches Zertifikat für erneuerbare Gase aus einem Land, das über kein Register verfügt, in der Datenbank nach Artikel 9 erfasst, so muss der Importeur nachweisen, dass die kommerzielle Doppelzählung ausgeschlossen ist.
 
-[^8-1]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
-[^8-2]: [www.aib-net.org](http://www.aib-net.org/) &gt; EECS &gt; EECS Rules
-[^8-3]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-2]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung), ABl. L 328 vom 21.12.2018, S. 82; zuletzt geändert durch Richtlinie (EU) 2024/1711, ABl. L 2024/1711, 26.6.2023.
+[^8-3]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
+[^8-4]: [www.aib-net.org](http://www.aib-net.org/) &gt; EECS &gt; EECS Rules
+[^8-5]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-6]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## 5. Abschnitt: Vollzugstelle
 

@@ -4,11 +4,11 @@ title: Ordinanza del DATEC 20 novembre 2024 sulla garanzia di origine per combus
 short: OGOCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: it
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250101/it"
 
 (OGOCC)
 
-del 20 novembre 2024 (Stato 1° gennaio 2025)
+del 20 novembre 2024 (Stato 1° maggio 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -62,6 +62,11 @@ La garanzia di origine riporta come minimo:
 
 <sup>3</sup> Su richiesta, il termine di 18 mesi è sospeso per la durata dello stoccaggio a lungo termine dei combustibili e carburanti in questione.
 
+<sup>4</sup> Su richiesta, il termine di 18 mesi è sospeso per la durata della procedura di decisione in merito al rilascio di attestati internazionali secondo l’articolo 92*e* dell’ordinanza del 30 novembre 2012[^2-1] sul CO<sub>2</sub>.[^2-2]
+
+[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-2]: Introdotto dalla cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+
 #### Art. 3
 
 **Registrazione dei gruppi di consumatori finali**
@@ -76,13 +81,18 @@ Chi annulla garanzie di origine secondo l’articolo 4*c* capoverso 1 lettere a,
 
 <sup>1</sup> I produttori di combustibili e carburanti notificano all’organo d’esecuzione gli impianti di produzione situati in Svizzera fornendo i dati di cui all’articolo 1 capoverso 1 lettere a, c, d e g–j.
 
-<sup>2</sup> I dati di cui al capoverso 1 devono essere certificati da un organismo di valutazione della conformità accreditato per questo settore.
+<sup>2</sup> In mancanza di un’autorizzazione all’immissione in commercio di un combustibile o carburante rinnovabile o a basso tenore di emissioni (art. 4 cpv. 6 dell’ordinanza del 2 aprile 2025[^4-1] sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni [OCoCR]), i dati di cui all’articolo 1 capoverso 1 lettere a, c, d e g–j devono essere certificati da un organismo di valutazione della conformità accreditato per questo settore.[^4-2]
 
-<sup>3</sup> Per gli impianti di produzione di carburanti rinnovabili, oltre ai dati di cui al capoverso 1, i produttori registrano l’autorizzazione quale stabilimento di produzione secondo l’articolo 28 capoverso 1 lettera b della legge del 21 giugno 1996[^4-1] sull’imposizione degli oli minerali (LIOm) e la concessione di un’agevolazione fiscale per carburanti rinnovabili secondo l’articolo 12*b* LIOm.
+<sup>3</sup> Per gli impianti di produzione di carburanti rinnovabili, oltre ai dati di cui al capoverso 1, i produttori registrano l’autorizzazione quale stabilimento di produzione secondo l’articolo 28 capoverso 1 lettera b della legge del 21 giugno 1996[^4-3] sull’imposizione degli oli minerali (LIOm) e la concessione di un’agevolazione fiscale per carburanti rinnovabili secondo l’articolo 12*b* LIOm.
+
+<sup>3bis</sup> Per gli impianti di produzione di combustibili e carburanti, oltre ai dati di cui all’articolo 1 capoverso 1 lettere a, c, d e g–j, i produttori registrano l’autorizzazione all’immissione in commercio.[^4-4]
 
 <sup>4</sup> Qualsiasi modifica dei dati è notificata tempestivamente all’organo d’esecuzione.
 
-[^4-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-1]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^4-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-4]: Introdotto dalla cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 #### Art. 5
 
@@ -90,16 +100,21 @@ Chi annulla garanzie di origine secondo l’articolo 4*c* capoverso 1 lettere a,
 
 <sup>1</sup>
 
-Gli importatori di combustibili e carburanti provenienti da impianti di produzione esteri notificano all’organo d’esecuzione quanto segue:
+Gli importatori di combustibili e carburanti provenienti da impianti di produzione esteri notificano quanto segue:[^5-1]
 
 - a. gli impianti di produzione esteri con i dati di cui all’articolo 1 capoverso 1 lettere a, c, d, e g–j;
-- b. se disponibile, la concessione di un’agevolazione fiscale per carburanti rinnovabili secondo l’articolo 12*b* LIOm[^5-1].
+- b. se disponibile, la concessione di un’agevolazione fiscale per carburanti rinnovabili secondo l’articolo 12*b* LIOm[^5-2];
+- c.[^5-3] se disponibile: autorizzazione all’immissione in commercio di un combustibile o carburante rinnovabile o a basso tenore di emissioni (art. 4 cpv. 6 OCoCR[^5-4]).
 
-<sup>2</sup> Se non è stata concessa un’agevolazione fiscale, l’importatore fa certificare i dati di cui al capoverso 1 lettera a da un organismo di valutazione della conformità accreditato per questo settore.
+<sup>2</sup> Se non è stata concessa un’autorizzazione all’immissione in commercio di cui al capoverso 1 lettera c, l’importatore fa certificare i dati di cui al capoverso 1 lettera a da un organismo di valutazione della conformità accreditato per questo settore.[^5-5]
 
 <sup>3</sup> Qualsiasi modifica dei dati è notificata tempestivamente all’organo d’esecuzione.
 
-[^5-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-3]: Introdotta dalla cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^5-4]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^5-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Sezione 3: Rilevamento e notifica dei dati di produzione e concernenti l’importazione e l’esportazione
 
@@ -131,7 +146,7 @@ I produttori di combustibili o carburanti o terzi da loro incaricati rilevano i 
 
 <sup>4</sup> Gli importatori di carburanti o combustibili bilanciati in massa ai sensi dell’articolo 30 della direttiva (UE) 2018/2001[^6-1] registrano la documentazione di accompagnamento del sistema di bilanciamento di massa.
 
-[^6-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82, modificata da ultimo dalla direttiva (UE) 2024/1711 del Parlamento europeo e del consiglio, GU L 2024/1711, 26.06.2024.
+[^6-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82, modificata da ultimo dalla direttiva (UE) 2024/1711 del Parlamento europeo e del consiglio, GU L 2024/1711, 26.6.2024.
 
 #### Art. 7
 
@@ -159,24 +174,28 @@ I produttori di biogas che dispongono di un contatore di calore notificano annua
 Per essere registrati nella banca dati di cui all’articolo 9, le garanzie di origine estere per gas rinnovabili o altri certificati esteri per gas rinnovabili devono soddisfare le seguenti condizioni:
 
 - a. il gas rinnovabile viene prodotto secondo lo stato della tecnica a partire da rifiuti o residui di produzione biogeni;
-- b. il gas rinnovabile prodotto a partire da vettori energetici rinnovabili diversi dalla biomassa soddisfa le esigenze ecologiche;
-- c. il certificato estero per gas rinnovabile è stato emesso da un registro nazionale, negoziato attraverso lo «European Renewable Gas Registry»[^8-1] o si basa sullo Standard europeo di certificazione energetica[^8-2] della «Association of Issuing Bodies»[^8-3];
+- b.[^8-1]
+
+  per il gas rinnovabile prodotto a partire da vettori energetici rinnovabili diversi dalla biomassa devono essere disponibili:
+
+  - 1\. un certificato valido emesso tramite un sistema riconosciuto di cui all’articolo 30 paragrafo 4 della direttiva (UE) 2018/2001[^8-2],
+  - 2\. una documentazione di accompagnamento che dimostri che si tratta di un combustibile rinnovabile di origine non biologica secondo l’articolo 2 paragrafo 36 della direttiva (UE) 2018/2001.
+
+- c. il certificato estero per gas rinnovabile è stato emesso da un registro nazionale, negoziato attraverso lo «European Renewable Gas Registry»[^8-3] o si basa sullo Standard europeo di certificazione energetica[^8-4] della «Association of Issuing Bodies»[^8-5];
 - d. il gas rinnovabile è stato immesso nella rete europea del gas.
 
-<sup>2</sup>
-
-L’UFE pubblica direttive sui giustificativi che consentono di dimostrare che:
-
-- a. il gas rinnovabile viene prodotto secondo lo stato della tecnica a partire da rifiuti o residui di produzione biogeni;
-- b. il gas rinnovabile prodotto a partire da vettori energetici rinnovabili diversi dalla biomassa soddisfa le esigenze ecologiche.
+<sup>2</sup> L’UFE pubblica direttive sui giustificativi che consentono di dimostrare che il gas rinnovabile è prodotto secondo lo stato della tecnica a partire da rifiuti o residui di produzione biogeni.[^8-6]
 
 <sup>3</sup> Se un certificato estero per gas rinnovabile viene registrato nella banca dati di cui all’articolo 9, deve essere cancellato nel registro originale.
 
 <sup>4</sup> Se un certificato estero per gas rinnovabile proveniente da un Paese che non dispone di un registro viene registrato nella banca dati di cui all’articolo 9, l’importatore deve comprovare che un doppio conteggio commerciale è escluso.
 
-[^8-1]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
-[^8-2]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
-[^8-3]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-2]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21 dic. 2018, pag. 82; modificata da ultimo dalla direttiva (UE) 2024/1711, GU L 2024/1711, 26.6.2023.
+[^8-3]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
+[^8-4]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
+[^8-5]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-6]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Sezione 5: Organo d’esecuzione
 
