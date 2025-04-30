@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2025-03-01
+version: 2025-05-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 1. März 2025)
+vom 19. Juni 1995 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -284,26 +284,34 @@ In Abweichung von Absatz 2 können beide Ruhezeiten auf 24 Stunden reduziert wer
 
 #### Art. 11a
 
-**Verschiebung der wöchentlichen Ruhezeit bei grenzüberschreitenden Rundfahrten**[^11a-1]
+**Besondere Bestimmungen bei Rundfahrten**[^11a-1]
 
 <sup>1</sup>
 
-Abweichend von Artikel 11 Absatz 3 darf der Führer oder die Führerin den Beginn der wöchentlichen Ruhezeit auf bis zu zwölf aufeinander folgende 24-Stunden-Zeiträume nach dem Ende der vorangegangenen regelmässigen wöchentlichen Ruhezeit verschieben, wenn:
+Abweichend von Artikel 11 Absatz 3 darf der Führer oder die Führerin den Beginn der wöchentlichen Ruhezeit auf bis zu zwölf aufeinanderfolgende 24‑Stunden-Zeiträume nach dem Ende der vorangegangenen regelmässigen wöchentlichen Ruhezeit verschieben, wenn:
 
-- a. der Führer oder die Führerin im grenzüberschreitenden Personenverkehr für eine einzelne Rundfahrt (Art. 8 Abs. 1 Bst. f der V vom 4. Nov. 2009[^11a-2] über die Personenbeförderung) eingesetzt wird;
-- b. die Fahrt mindestens 24 aufeinander folgende Stunden in einem anderen Staat als in dem Staat, in dem sie begonnen wurde, dauert; und
-- c. das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet ist.
+- a. der Führer oder die Führerin im Personenverkehr für eine einzelne Rundfahrt (Art. 8 Abs. 1 Bst. f der Verordnung vom 4. November 2009[^11a-2] über die Personenbeförderung, VPB) eingesetzt wird; und
+- b. das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet ist.
 
-<sup>2</sup> Bei Fahrten zwischen 22.00 Uhr und 06.00 Uhr ist die Lenkzeit nach Artikel 8 Absatz 1 auf drei Stunden zu verkürzen, ausser bei Mehrfachbesatzung.
+<sup>2</sup> Bei Fahrten zwischen 22.00 und 06.00 Uhr ist die Lenkzeit nach Artikel 8 Absatz 1 auf drei Stunden zu kürzen, ausser bei Mehrfachbesatzung.
 
-<sup>3</sup>
+<sup>3</sup> Abweichend von Artikel 8 Absatz 2 können bei Rundfahrten zwei Pausen von je mindestens 15 Minuten eingelegt werden; diese Pausen sind so einzulegen, dass Artikel 8 Absatz 1 eingehalten ist.
 
-Verschiebt der Führer oder die Führerin die wöchentliche Ruhezeit, so muss er oder sie nach der Verschiebung einlegen:
+<sup>4</sup>
 
-- a. zwei regelmässige wöchentliche Ruhezeiten; oder
-- b. eine regelmässige wöchentliche Ruhezeit sowie eine reduzierte wöchentliche Ruhezeit von mindestens 24 Stunden; die Reduzierung ist durch eine gleichwertige und ununterbrochene Ruhezeit innerhalb der folgenden drei Wochen auszugleichen.
+Verschiebt der Führer oder die Führerin die wöchentliche Ruhezeit, so muss er oder sie nach der Verschiebung:
 
-[^11a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+- a. zwei regelmässige wöchentliche Ruhezeiten einlegen; oder
+- b. eine regelmässige wöchentliche Ruhezeit sowie eine reduzierte wöchentliche Ruhezeit von mindestens 24 Stunden einlegen; die Reduzierung ist durch eine gleichwertige und ununterbrochene Ruhezeit innerhalb der folgenden drei Wochen auszugleichen.
+
+<sup>5</sup>
+
+Abweichend von Artikel 9 Absatz 1 darf der Führer oder die Führerin die tägliche Ruhezeit innerhalb von höchstens 25 Stunden nach dem Ende der vorangegangenen täglichen oder wöchentlichen Ruhezeit einlegen, sofern die tägliche Lenkzeit am betreffenden Tag höchstens 7 Stunden beträgt und die Sicherheit im Strassenverkehr nicht gefährdet wird, und zwar:
+
+- a. einmalig bei einer einzelnen Rundfahrt von einer Dauer von mindestens sechs aufeinanderfolgenden 24‑Stunden-Zeiträumen;
+- b. zweimalig bei einer einzelnen Rundfahrt von einer Dauer von mindestens acht aufeinanderfolgenden 24‑Stunden-Zeiträumen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^11a-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 #### Art. 11b
@@ -727,10 +735,14 @@ Hat der Arbeitnehmer oder die Arbeitnehmerin zwei aufeinanderfolgende reduzierte
 
 <sup>4</sup> Der Lohn von Arbeitnehmern und Arbeitnehmerinnen darf nicht nach der zurückgelegten Fahrstrecke, der beförderten Gütermenge oder andern die Verkehrssicherheit beeinträchtigenden Leistungen berechnet werden.
 
+<sup>5</sup> Ist das Fahrzeug nicht mit einem Fahrtschreiber ausgerüstet, der zwischen Personentransporten und Rundfahrten unterscheidet, so muss der Führer oder die Führerin bei einer Strassenkontrolle während einer Fahrt im Ausland mittels des Fahrtenblatts (Art. 41 VPB[^17-5]) oder einer Kopie des Fahrtenblatts in Papierform oder elektronischer Form nachweisen, dass er oder sie in den letzten 56 Tagen die Ausnahmen nach Artikel 11*a* in Anspruch genommen hat.[^17-6]
+
 [^17-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^17-2]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-4]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-5]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^17-6]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 
 #### Art. 18
 
@@ -833,7 +845,7 @@ In Fällen nach Absatz 1 gelten folgende Bestimmungen:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer die Bestimmungen über die Arbeitszeit, Lenkzeit, Bereitschaftszeit, Pausen und Ruhezeiten (Art. 5–11) verletzt, wird mit Busse bestraft.[^21-1]
+<sup>1</sup> Wer die Bestimmungen über die Arbeitszeit, Lenkzeit, Bereitschaftszeit, Pausen und Ruhezeiten (Art. 5–11, 11*a* Abs. 2 und 12 Abs. 1<sup>ter</sup>) verletzt, wird mit Busse bestraft.[^21-1]
 
 <sup>2</sup>
 
@@ -852,7 +864,7 @@ Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 13–18) verletzt, i
 
 <sup>4</sup> Der Arbeitgeber, der eine nach dieser Verordnung strafbare Handlung eines Führers oder einer Führerin veranlasst oder nicht nach seinen Möglichkeiten verhindert, untersteht der gleichen Strafandrohung wie der Führer oder die Führerin. Der Richter kann den Führer oder die Führerin milder bestrafen oder von einer Bestrafung absehen, wenn die Umstände es rechtfertigen.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^21-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^21-4]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).

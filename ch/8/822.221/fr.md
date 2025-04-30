@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2025-03-01
+version: 2025-05-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (État le 1<sup>er</sup> mars 2025)
+du 19 juin 1995 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -286,26 +286,34 @@ En dérogation à l’al. 2, les deux temps de repos peuvent être réduits à 2
 
 #### Art. 11a
 
-**Ajournement du repos hebdomadaire lors de circuits internationaux**[^11a-1]
+**Dispositions particulières pour les circuits**[^11a-1]
 
 <sup>1</sup>
 
-En dérogation à l’art. 11, al. 3, le conducteur peut repousser le début de son repos hebdomadaire de douze périodes de 24 heures consécutives au maximum à compter de la fin du précédent temps de repos hebdomadaire normal, si:
+En dérogation à l’art. 11, al. 3, le conducteur peut repousser le début de son repos hebdomadaire de douze périodes de 24 heures consécutives au maximum à compter de la fin du précédent temps de repos hebdomadaire normal, si les conditions suivantes sont réunies:
 
-- a. le conducteur effectue un seul circuit de transport international de personnes (art. 8, al. 1, let. f, de l’O du 4 nov. 2009 sur le transport de voyageurs[^11a-2]);
-- b. le transport se déroule dans un autre État que celui où il a commencé durant au moins 24 heures consécutives, et
-- c. le véhicule est équipé d’un tachygraphe numérique.
+- a. le conducteur effectue un seul circuit de transport de personnes (art. 8, al. 1, let. f, de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs, OTV[^11a-2]);
+- b. le véhicule est équipé d’un tachygraphe numérique.
 
 <sup>2</sup> Lors de transports effectués entre 22 h 00 et 6 h 00, la durée de conduite selon l’art. 8, al. 1, est réduite à trois heures, sauf en cas de conduite en équipage.
 
-<sup>3</sup>
+<sup>3</sup> En dérogation à l’art. 8, al. 2, il est possible d’effectuer deux pauses d’au moins 15 minutes chacune lors des circuits; ces pauses doivent être prises de manière à respecter l’art. 8, al. 1.
+
+<sup>4</sup>
 
 Si le conducteur ajourne son repos hebdomadaire, il doit prévoir, après son ajournement:
 
 - a. deux temps de repos hebdomadaire normaux, ou
 - b. un temps de repos hebdomadaire normal et un temps de repos hebdomadaire réduit d’au moins 24 heures; la réduction doit être compensée par une période de repos équivalente prise en bloc dans les trois semaines qui suivent.
 
-[^11a-1]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+<sup>5</sup>
+
+En dérogation à l’art. 9, al. 1, le conducteur peut prendre un temps de repos journalier dans un délai maximal de 25 heures après la fin du temps de repos journalier ou hebdomadaire précédent, pour autant que la durée de conduite pour le jour en question n’excède pas 7 heures et que la sécurité routière ne soit pas compromise, et ce:
+
+- a. une fois lors d’un seul circuit d’une durée d’au moins six périodes consécutives de 24 heures;
+- b. deux fois lors d’un seul circuit d’une durée d’au moins huit périodes consécutives de 24 heures.
+
+[^11a-1]: Introduit par le ch. I de l’O du 30 juin 2010 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^11a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 #### Art. 11b
@@ -729,9 +737,13 @@ Si le salarié a pris deux temps de repos hebdomadaires réduits consécutifs co
 
 <sup>4</sup> Les salariés ne seront pas rémunérés en fonction des distances parcourues, du volume des marchandises transportées ou d’autres prestations qui sont de nature à compromettre la sécurité routière.
 
+<sup>5</sup> Si le véhicule n’est pas équipé d’un tachygraphe faisant la distinction entre les transports de personnes et les circuits, le conducteur est tenu de prouver, lors d’un contrôle routier effectué durant un trajet à l’étranger, qu’il a fait usage des dérogations prévues à l’art. 11*a* au cours des 56 derniers jours en présentant la feuille de route (art. 41 OTV[^17-4]) ou une copie de celle-ci sous forme papier ou électronique.[^17-5]
+
 [^17-1]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-2]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-3]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-4]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^17-5]: Introduit par le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 
 #### Art. 18
 
@@ -787,10 +799,11 @@ Lors des courses d’apprentissage, l’instructeur doit:
 - b. utiliser son propre disque d’enregistrement, ou
 - c. insérer sa carte de conducteur à l’endroit prévu pour le passager dans le tachygraphe numérique.
 
-<sup>4</sup> Les courses d’apprentissage sont comptées comme temps de conduite, aussi bien pour l’instructeur que pour la personne en formation.
+<sup>4</sup> Les courses d’apprentissage sont comptées comme durée de conduite, aussi bien pour l’instructeur que pour la personne en formation.[^19-3]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
 [^19-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 
 #### Art. 20
 
@@ -834,7 +847,7 @@ Dans les cas visés à l’al. 1, les dispositions suivantes s’appliquent:
 
 **Dispositions pénales**
 
-<sup>1</sup> Quiconque enfreint les dispositions sur la durée du travail, de la conduite, de la disponibilité, des pauses et du repos (art. 5 à 11) sera puni de l’amende.[^21-1]
+<sup>1</sup> Quiconque enfreint les dispositions sur le temps de travail, la durée de conduite, le temps de disponibilité, les pauses et le temps de repos (art. 5 à 11, 11*a*, al. 2, et 12, al. 1<sup>ter</sup>) sera puni de l’amende.[^21-1]
 
 <sup>2</sup>
 
@@ -853,7 +866,7 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 
 <sup>4</sup> L’employeur qui incite un conducteur à commettre un acte punissable en vertu de la présente ordonnance ou qui n’empêche pas, selon ses possibilités, une telle infraction, est passible de la même peine que le conducteur. Le juge pourra atténuer la peine à l’égard du conducteur ou l’exempter de toute peine si les circonstances le justifient.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^21-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^21-4]: Abrogée par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).

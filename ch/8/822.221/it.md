@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2025-03-01
+version: 2025-05-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250301-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250501/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250301/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 1° marzo 2025)
+del 19 giugno 1995 (Stato 1° maggio 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -286,28 +286,35 @@ In deroga al capoverso 2, i due periodi di riposo possono essere ridotti a 24 or
 
 #### Art. 11a
 
-**Rinvio del periodo di riposo settimanale durante corse circolari transfrontaliere**[^11a-1]
+**Disposizioni speciali per corse circolari**[^11a-1]
 
 <sup>1</sup>
 
-In deroga all’articolo 11 capoverso 3, il conducente può rinviare l’inizio del periodo di riposo settimanale fino a un massimo di dodici periodi di 24 ore consecutivi a partire dalla fine del precedente periodo di riposo settimanale regolare se:
+In deroga all’articolo 11 capoverso 3, il conducente può rinviare l’inizio del periodo di riposo settimanale fino a un massimo di 12 periodi di 24 ore consecutivi a partire dalla fine del precedente periodo di riposo settimanale regolare se:
 
-- a. effettua un’unica corsa circolare transfrontaliera di persone (art. 8 cpv. 1 lett. f dell’O del 4 nov. 2009[^11a-2] sul trasporto di viaggiatori);
-- b. la corsa circolare ha una durata di almeno 24 ore consecutive in uno Stato diverso da quello in cui la corsa ha avuto inizio; e
-- c. il veicolo è equipaggiato con un tachigrafo[^11a-3] digitale.
+- a. effettua un’unica corsa circolare per il trasporto di persone (art. 8 cpv. 1 lett. f dell’ordinanza del 4 novembre 2009[^11a-2] sul trasporto di viaggiatori, OTV); e
+- b. il veicolo è equipaggiato con un tachigrafo digitale.
 
 <sup>2</sup> In caso di guida tra le 22.00 e le 6.00, il periodo di guida di cui all’articolo 8 capoverso 1 deve essere ridotto a 3 ore, tranne che in presenza di equipaggio multiplo.
 
-<sup>3</sup>
+<sup>3</sup> In deroga all’articolo 8 capoverso 2, in caso di corse circolari possono essere effettuate due pause di almeno 15 minuti ciascuna; queste pause vanno effettuate in modo da assicurare l’osservanza dell’articolo 8 capoverso 1.
+
+<sup>4</sup>
 
 Se il conducente rinvia il periodo di riposo settimanale, dopo il rinvio deve effettuare:
 
 - a. due periodi di riposo settimanale regolare; oppure
 - b. un periodo di riposo settimanale regolare e un periodo di riposo settimanale ridotto di almeno 24 ore; la riduzione deve essere compensata da un periodo di riposo equivalente e ininterrotto nel corso delle tre settimane seguenti.
 
-[^11a-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+<sup>5</sup>
+
+In deroga all’articolo 9 capoverso 1, il conducente può effettuare il periodo di riposo giornaliero entro 25 ore dalla fine del periodo di riposo giornaliero o settimanale precedente, purché il periodo di guida della giornata in questione non superi 7 ore e la sicurezza stradale non sia compromessa, e precisamente:
+
+- a. una volta per una singola corsa circolare della durata di almeno sei periodi di 24 ore consecutivi;
+- b. due volte per una singola corsa circolare della durata di almeno otto periodi di 24 ore consecutivi.
+
+[^11a-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^11a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^11a-3]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 11b
 
@@ -731,9 +738,13 @@ Laddove il conducente abbia effettuato due periodi di riposo settimanale ridotti
 
 <sup>4</sup> Il salario dei lavoratori non può essere calcolato in base alle distanze percorse, al volume delle merci trasportate o ad altre prestazioni che compromettono la sicurezza della circolazione stradale.
 
+<sup>5</sup> Se il veicolo non è equipaggiato con un tachigrafo in grado di distinguere fra trasporti di persone e corse circolari, in caso di controlli su strada durante un viaggio all’estero il conducente è tenuto a provare, mediante foglio di viaggio (art. 41 OTV[^17-4]) o relativa copia in forma cartacea o elettronica, di essersi avvalso negli ultimi 56 giorni delle deroghe di cui all’articolo 11*a*.[^17-5]
+
 [^17-1]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-2]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-3]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-4]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^17-5]: Introdotto dalla cifra I dell’O del 7 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 
 #### Art. 18
 
@@ -836,7 +847,7 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 **Disposizioni penali**
 
-<sup>1</sup> Chiunque viola le disposizioni sulla durata del lavoro, della guida, delle pause, del riposo e del tempo di disponibilità (art. 5–11) è punito con la multa.[^21-1]
+<sup>1</sup> Chiunque viola le disposizioni sulla durata del lavoro, della guida, delle pause, del riposo e del tempo di disponibilità (art. 5–11, 11*a* cpv. 2 e 12 cpv. 1<sup>ter</sup>) è punito con la multa.[^21-1]
 
 <sup>2</sup>
 
@@ -855,7 +866,7 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 <sup>4</sup> Il datore di lavoro che induce un conducente a commettere un atto punibile ai sensi della presente ordinanza oppure non glielo impedisce, nei limiti delle sue possibilità, è passibile della stessa pena inflitta al conducente. Il giudice può attenuare la pena per il lavoratore o esentarlo da una pena se le circostanze lo giustificano.
 
-[^21-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^21-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^21-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 [^21-4]: Abrogata dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
