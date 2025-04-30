@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20250101-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20250501-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250101/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2025)
+du 30 novembre 2012 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -59,23 +59,33 @@ Au sens de la présente ordonnance, on entend par:
 - c. *puissance totale*: la somme des puissances nominales électrique et thermique fournies par une centrale thermique à combustible fossile ou une installation de couplage chaleur-force (installation CCF);
 - d. *rendement total*: le rapport indiqué par le constructeur entre la puissance totale et la puissance calorifique de combustion d’une centrale thermique à combustible fossile ou d’une installation CCF;
 - e. *participant au SEQE*: un exploitant d’installations ou un exploitant d’aéronefs qui participent au SEQE de la Suisse;
-- f. *État partenaire*: un État avec lequel la Suisse a conclu un accord international pour la réalisation, dans cet État, de projets de la Suisse visant à protéger le climat.
+- f.[^2-2] *État partenaire**:* un État avec lequel la Suisse a conclu un accord international ou une déclaration d’intention pour la réalisation, dans cet État, de projets de protection du climat.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-### Section 3 Objectifs sectoriels intermédiaires
+### Section 3 Part à réaliser en Suisse et valeurs indicatives de réduction des émissions dans les différents secteurs
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 2a
+
+**Part à réaliser en Suisse**
+
+La réduction des émissions de gaz à effet de serre pour atteindre les objectifs fixés à l’art. 3, al. 1, de la loi sur le CO<sub>2</sub> est réalisée au moins aux deux tiers par des mesures prises en Suisse.
 
 #### Art. 3
 
-<sup>1</sup>
+**Valeurs indicatives dans les différents secteurs**
 
-Les objectifs intermédiaires pour l’année 2015 sont:
+En 2030, les secteurs suivants ne doivent pas générer d’émissions en quantité supérieure aux parts ci-après de leurs émissions de 1990:
 
-- a. dans le secteur du bâtiment: 78 % au plus des émissions de 1990;
-- b. dans le secteur des transports: 100 % au plus des émissions de 1990;
-- c. dans le secteur de l’industrie: 93 % au plus des émissions de 1990.
-
-<sup>2</sup> Lorsqu’un objectif sectoriel intermédiaire au sens de l’al. 1 n’est pas atteint, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) demande au Conseil fédéral de prendre des mesures supplémentaires après avoir consulté les cantons et les milieux concernés.
+- a. secteur du bâtiment: 50 %;
+- b. secteur des transports: 75 %;
+- c. secteur de l’industrie: 65 %;
+- d. secteur «autres»: 75 %.
 
 ### Section 4 …
 
@@ -98,20 +108,29 @@ Les objectifs intermédiaires pour l’année 2015 sont:
 [^chap1-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^chap1-sec5-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
+#### Art. 4b
+
+**Principe**[^4b-1]
+
+Les réductions d’émissions et le renforcement des prestations de puits de carbone issus de projets et de programmes sont pris en compte en Suisse s’ils sont prouvés par une attestation nationale ou par une attestation internationale visée à l’art. 6, par. 2 ou 4, de l’accord de Paris du 12 décembre 2015 (accord sur le climat)[^4b-2].
+
+[^4b-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^4b-2]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
+
 #### Art. 5
 
 **Exigences**[^5-1]
 
 <sup>1</sup>
 
-Des attestations nationales ou internationales (attestations) sont délivrées pour des projets et des programmes de réduction des émissions de gaz à effet de serre ou de renforcement des prestations de puits de carbone, si les exigences suivantes sont remplies:
+Des attestations nationales ou internationales (attestations) sont délivrées pour des projets et des programmes de réduction des émissions ou de renforcement des prestations de puits de carbone réalisés en Suisse ou à l’étranger si les exigences suivantes sont remplies:[^5-2]
 
 - a. les annexes 2*a* et 3 ne l’excluent pas;
 - b.
 
   il est démontré de manière crédible et compréhensible que le projet:
 
-  - 1\. ne serait pas rentable sans le produit de la vente des attestations pendant la durée du projet,
+  - 1\.[^5-3] ne serait pas rentable sans les recettes de la vente des attestations pendant la durée du projet,
   - 2\. correspond au moins à l’état de la technique,
   - 3\. prévoit des mesures induisant une réduction d’émissions supplémentaire ou un renforcement des prestations de puits de carbone par rapport à l’évolution de référence au sens de l’art. 6, al. 2, let. d,
   - 4\. respecte les autres dispositions légales déterminantes,
@@ -121,20 +140,32 @@ Des attestations nationales ou internationales (attestations) sont délivrées p
 
   les réductions d’émissions ou le renforcement des prestations de puits de carbone:
 
-  - 1\. peuvent être prouvés et quantifiés,
+  - 1\.[^5-4] peuvent être prouvés et quantifiés, et sont confirmés soit par des mesures soit par un modèle scientifique plausibilisé par des mesures,
   - 2\. ne concernent pas des émissions de gaz à effet de serre couvertes par le SEQE,
-  - 3\. n’ont pas été réalisés par un exploitant ayant pris un engagement de réduction au sens de l’art. 66, al. 1, et demandant simultanément que des attestations lui soient délivrées en application de l’art. 12; sont exclus les exploitants ayant pris des engagements de réduction avec objectif d’émission au sens de l’art. 67, pour autant que les réductions d’émissions issues de projets ou de programmes ne soient pas comprises dans cet objectif,
+  - 3\.[^5-5] n’ont pas été réalisés par un exploitant ayant pris un engagement de réduction au sens de l’art. 66, al. 1, et demandant simultanément que des attestations lui soient délivrées en vertu de l’art. 12; des attestations sont délivrées pour les réductions d’émissions issues de projets ou de programmes d’un tel exploitant qui ne sont pas comprises dans l’objectif d’efficacité en ce qui concerne les émissions de gaz à effet de serre visé à l’art. 67 ou dans l’objectif fondé sur des mesures visé à l’art. 68,
   - 4\. sont calculés de manière à exclure toute surestimation importante des réductions d’émissions imputables ou du renforcement des prestations de puits de carbone imputables;
 
 - d. la mise en œuvre du projet ou du programme a débuté au plus tôt trois mois avant le dépôt de la demande au sens de l’art. 7;
-- e. le projet ou le programme n’est pas encore terminé, et
-- f. la mise en œuvre du projet ou du programme n’entraîne aucune délocalisation des émissions.
+- e. le projet ou le programme n’est pas encore terminé;
+- f. la mise en œuvre du projet ou du programme n’entraîne aucune délocalisation des émissions, et
+- g.[^5-6] le requérant, s’il n’est pas lui-même bénéficiaire du projet, peut prouver qu’il a droit aux réductions d’émissions ou au renforcement des prestations de puits de carbone.
 
-<sup>2</sup> Pour les projets et les programmes de stockage de carbone, des attestations sont délivrées si les exigences de l’al. 1 sont respectées et si la permanence du piégeage du carbone est suffisamment garantie, indépendamment de la durée du projet, durant 30 années au moins après le début de l’effet et est démontrée de manière compréhensible.
+<sup>2</sup>
+
+Des attestations sont délivrées pour les projets et les programmes de stockage de carbone qui, en plus des exigences de l’al. 1 remplissent les conditions de l’annexe 19; cela étant:
+
+- a. la permanence du piégeage du carbone visée à l’annexe 19, let. a, doit être garantie, indépendamment de la durée du projet, durant 30 années au moins à compter du début de l’effet et démontrée de manière compréhensible;
+- b. un stockage géologique peut être réalisé, outre dans les sites visés à l’annexe 19, let. d, sur un site de stockage qui a été reconnu par des États partenaires dans le cadre d’un accord multilatéral.[^5-7]
 
 <sup>3</sup> Est considérée comme le début de la mise en œuvre la date à laquelle le requérant s’engage financièrement de façon déterminante envers des tiers ou prend, en interne, des mesures organisationnelles en lien avec le projet ou le programme.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5-6]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5-7]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 5a
 
@@ -145,16 +176,20 @@ Des attestations nationales ou internationales (attestations) sont délivrées p
 Des projets peuvent être réunis en un programme si les exigences suivantes sont remplies:
 
 - a.[^5a-1] ils poursuivent un but commun outre la réduction d’émissions ou le renforcement des prestations de puits de carbone;
-- b. ils utilisent une des technologies définies dans la description du programme;
-- c. ils remplissent les critères d’inclusion définis dans la description du programme, qui garantissent que les projets satisfont aux exigences de l’art. 5, et
-- d. leur mise en œuvre n’a pas encore débuté.
+- b.[^5a-2] une technologie ou un groupe de technologies connexes est défini dans la description du programme et est employé dans tous les projets;
+- c. ils remplissent les critères d’inclusion définis dans la description du programme, qui garantissent que les projets satisfont aux exigences de l’art. 5;
+- d. leur mise en œuvre n’a pas encore débuté, et
+- e.[^5a-3] ils ont été mis en œuvre dans le même pays.
 
-<sup>2</sup> Des projets peuvent être inclus dans des programmes existants s’ils remplissent les exigences fixées à l’al. 1 et s’il peut être prouvé qu’ils avaient déjà été inscrits au programme avant d’y être inclus.
+<sup>2</sup> Des projets peuvent être inclus dans un programme existant s’ils remplissent les exigences fixées à l’al. 1.[^5a-4]
 
-<sup>3</sup> Les programmes qui, à la fin de la période de crédit, ne comprennent qu’un seul projet, sont poursuivis en tant que projets au sens de l’art. 5.[^5a-2]
+<sup>3</sup> Les programmes qui, à la fin de la période de crédit, ne comprennent qu’un seul projet, sont poursuivis en tant que projets au sens de l’art. 5.[^5a-5]
 
 [^5a-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^5a-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^5a-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5a-3]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5a-4]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^5a-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 5b
 
@@ -206,33 +241,36 @@ Une description du projet ou du programme doit être remise à l’organisme de 
 
   en outre, dans le cas de projets ou de programmes réalisés à l’étranger:
 
-  - 1\. la contribution attendue au développement durable sur place grâce à des indicateurs qui portent sur les objectifs de développement durable des Nations Unies et qui peuvent être examinés avec objectivité, et
-  - 2\. un plan de durabilité financière qui présente l’exploitation et la maintenance à long terme de la technologie après la fin de la période de crédit.
+  - 1\. la contribution attendue au développement durable sur place grâce à des indicateurs qui portent sur les objectifs de développement durable des Nations Unies et qui peuvent être examinés avec objectivité,
+  - 2\. un plan de durabilité financière qui présente l’exploitation et la maintenance à long terme de la technologie après la fin de la période de crédit, et
+  - 3\.[^6-2] les résultats de la consultation des groupes d’intérêt concernés et la possibilité de donner des retours d’information sur la mise en œuvre du projet ou du programme.
 
 <sup>3</sup> Dans le cas de projets et de programmes réalisés en Suisse en relation avec un réseau de chauffage à distance et de projets et de programmes portant sur le gaz de décharge, la description des informations visées à l’al. 2, let. d, e et i, doit s’effectuer selon les exigences des annexes 3*a* ou 3*b*.
 
 <sup>4</sup> Le requérant peut soumettre une esquisse du projet à l’OFEV pour examen préalable. Si l’OFEV a procédé à un tel examen préalable, l’esquisse du projet et les résultats de l’examen préalable doivent être remis à l’organisme de validation en plus des informations visées à l’al. 2.
 
-<sup>5</sup> L’organisme de validation contrôle les informations visées à l’al. 2; il vérifie que le projet remplit les exigences de l’art. 5, ou que le programme remplit les exigences des art. 5 et 5*a*. Au besoin, il procède à des visites du site. Le requérant et l’OFEV doivent en être informés à temps.[^6-2]
+<sup>5</sup> L’organisme de validation contrôle les informations visées à l’al. 2; il vérifie que le projet remplit les exigences de l’art. 5, ou que le programme remplit les exigences des art. 5 et 5*a*. Au besoin, il procède à des visites du site. Le requérant et l’OFEV doivent en être informés à temps.[^6-3]
 
 <sup>6</sup> L’organisme de validation résume les résultats du contrôle dans un rapport de validation.
 
 <sup>7</sup> L’OFEV définit la forme que doivent revêtir la description du projet ou du programme et le rapport de validation.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^6-2]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 7
 
 **Demande d’évaluation de l’adéquation d’un projet ou d’un programme en vue de la délivrance d’attestations**[^7-1]
 
-<sup>1</sup> Quiconque souhaite demander des attestations pour un projet ou un programme doit déposer auprès de l’OFEV une demande d’évaluation de l’adéquation en vue de la délivrance d’attestations. La demande doit comprendre la description du projet ou du programme et le rapport de validation.
+<sup>1</sup> Quiconque souhaite demander des attestations pour un projet ou un programme doit déposer auprès de l’OFEV, par l’intermédiaire de l’organisme de validation, une demande d’évaluation de l’adéquation en vue de la délivrance d’attestations. La demande doit comprendre la description du projet ou du programme et le rapport de validation.[^7-2]
 
 <sup>2</sup> Dans le cas de projets ou de programmes réalisés à l’étranger, la demande doit comprendre en outre la décision de l’État partenaire concernant l’adéquation du projet ou du programme.
 
 <sup>3</sup> L’OFEV peut demander au requérant les informations supplémentaires dont il a besoin pour évaluer la demande.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 8
 
@@ -294,11 +332,11 @@ La période de crédit pour les projets ou les programmes réalisés en Suisse q
 
 <sup>4</sup> Il consigne les résultats du contrôle dans un rapport de vérification.
 
-<sup>5</sup> Le rapport de suivi, les mesures effectuées et le rapport de vérification correspondant doivent couvrir une période maximale de trois ans. Ils doivent être remis à l’OFEV au plus tard une année après cette période. Les réductions d’émissions ou le renforcement des prestations de puits de carbone doivent être prouvés pour chaque année civile.
+<sup>5</sup> Le rapport de suivi, les mesures effectuées et le rapport de vérification correspondant couvrent une période maximale de trois ans. L’organisme de vérification doit les remettre à l’OFEV au plus tard un an après la fin de cette période. Les réductions d’émissions ou le renforcement des prestations de puits de carbone doivent être prouvés pour chaque année civile.[^9-3]
 
 <sup>6</sup> Dans le cas de projets ou de programmes qui requièrent un accompagnement scientifique, les rapports de suivi, les rapports de vérification correspondants et les résultats de l’accompagnement scientifique doivent être remis à l’OFEV chaque année. La quantification des réductions d’émissions ou du renforcement des prestations de puits de carbone doit être réévaluée chaque année.
 
-<sup>7</sup> Dans le cas de projets et de programmes en lien avec un engagement de réduction au sens de l’art. 31 de la loi sur le CO<sub>2</sub>, les rapports de suivi et les rapports de vérification doivent être remis à l’OFEV chaque année, au plus tard le 31 août de l’année suivante. Le nombre d’attestations demandées qui concernent les installations d’un exploitant ayant pris un engagement de réduction doit être communiqué sans délai à l’exploitant ayant pris l’engagement et à l’OFEV.[^9-3]
+<sup>7</sup> Dans le cas de projets et de programmes en lien avec un engagement de réduction au sens de l’art. 31 de la loi sur le CO<sub>2</sub>, les rapports de suivi et les rapports de vérification doivent être remis à l’OFEV chaque année, au plus tard le 31 août de l’année suivante. Le nombre d’attestations demandées qui concernent les installations d’un exploitant ayant pris un engagement de réduction doit être communiqué sans délai à l’exploitant ayant pris l’engagement et à l’OFEV.[^9-4]
 
 <sup>8</sup> Dans le cas de projets ou de programmes de stockage de carbone, quelle que soit leur durée, un rapport de suivi et un rapport de vérification doivent être remis à l’OFEV pour l’année 2030.
 
@@ -306,7 +344,8 @@ La période de crédit pour les projets ou les programmes réalisés en Suisse q
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^9-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^9-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 10
 
@@ -324,18 +363,21 @@ La période de crédit pour les projets ou les programmes réalisés en Suisse q
 
 <sup>6</sup> Les attestations sont délivrées à hauteur de la totalité des réductions d’émissions ou du renforcement des prestations de puits de carbone prouvés chaque année.
 
-<sup>7</sup> Des attestations pour des réductions d’émissions ou le renforcement des prestations de puits de carbone qui découlent de prestations pécuniaires à fonds perdu allouées par la Confédération, les cantons ou les communes, destinées à encourager les énergies renouvelables, l’efficacité énergétique ou la protection du climat, ne sont délivrées au requérant que s’il démontre que la collectivité publique compétente ne fait pas valoir les réductions d’émissions autrement. Les réductions d’émissions réalisées grâce à l’octroi de fonds sur la base de l’art. 19 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^10-2] ne donnent pas lieu à la délivrance d’attestations.
+<sup>6bis</sup> Parmi les attestations internationales délivrées, 2 % sont annulées et ne sont pas prises en compte dans la réalisation des objectifs de réduction. Les annulations effectuées par l’État partenaire sont prises en considération.[^10-2]
+
+<sup>7</sup> Des attestations pour des réductions d’émissions ou le renforcement des prestations de puits de carbone qui découlent de prestations pécuniaires à fonds perdu allouées par la Confédération, les cantons ou les communes, destinées à encourager les énergies renouvelables, l’efficacité énergétique ou la protection du climat, ne sont délivrées au requérant que s’il démontre que la collectivité publique compétente ne fait pas valoir les réductions d’émissions autrement. Les réductions d’émissions réalisées grâce à l’octroi de fonds sur la base de l’art. 19 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^10-3] ne donnent pas lieu à la délivrance d’attestations.
 
 <sup>8</sup> La plus-value écologique des réductions d’émissions ou du renforcement des prestations de puits de carbone est indemnisée par le biais de la délivrance des attestations. Aucune attestation n’est délivrée si la plus-value écologique a déjà été rétribuée.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^10-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^10-2]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^10-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 11
 
 **Modifications importantes du projet ou du programme**[^11-1]
 
-<sup>1</sup> Les modifications importantes du projet ou du programme qui interviennent après la décision concernant l’adéquation ou la prolongation de la période de crédit doivent être communiquées à l’OFEV.
+<sup>1</sup> Les modifications importantes du projet ou du programme qui interviennent après la décision concernant l’adéquation ou la prolongation de la période de crédit doivent être communiquées à l’OFEV dans le le rapport de suivi subséquent.[^11-2]
 
 <sup>2</sup>
 
@@ -355,6 +397,7 @@ La modification d’un projet ou d’un programme est importante notamment dans 
 <sup>6</sup> Après une nouvelle validation, la période de crédit dure depuis la date d’entrée en vigueur de la modification importante jusqu’au 31 décembre 2030 au plus tard.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 11a
 
@@ -364,13 +407,29 @@ La modification d’un projet ou d’un programme est importante notamment dans 
 
 L’OFEV délivre son agrément à un organisme de validation ou de vérification qui en fait la demande si celui-ci remplit les conditions suivantes:
 
-- il possède des compétences techniques avérées en matière de validation ou de vérification de projets de compensation;
+- a. il possède des compétences techniques avérées en matière de validation ou de vérification de projets de compensation;
 - b. il applique des procédures d’assurance qualité;
 - c. il s’acquitte de ses tâches en toute indépendance.
 
 <sup>2</sup> L’OFEV ordonne des mesures si un organisme de validation ou de vérification ne remplit plus les conditions fixées à l’al. 1. Il peut retirer son agrément si les mesures ordonnées ne sont pas mises en œuvre de manière satisfaisante.
 
 [^11a-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
+#### Art. 11b
+
+**Attestations internationales visées à l’art. 6, par. 4, de l’accord sur le climat**[^11b-1]
+
+<sup>1</sup> Quiconque souhaite se faire imputer en Suisse des attestations internationales au titre de l’art. 6, par. 4, de l’accord sur le climat[^11b-2] a besoin d’une lettre d’approbation de l’OFEV. Celui-ci fixe la forme de la demande.
+
+<sup>2</sup>
+
+L’OFEV délivre la lettre d’approbation si les exigences suivantes sont remplies:
+
+- a. l’annexe 2*a* n’exclut pas la délivrance d’attestations internationales pour le projet ou le programme;
+- b. le projet ou le programme a été enregistré après le 1<sup>er</sup> janvier 2021 et validé par le mécanisme prévu à l’art. 6, par. 4, de l’accord sur le climat.
+
+[^11b-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^11b-2]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ### Section 5*a* Attestations pour les exploitants d’installations
 
@@ -500,6 +559,29 @@ L’OFEV peut publier les données suivantes si elles ne compromettent ni le sec
 [^14-5]: Le renvoi a été adapté au 1<sup>er</sup> juin 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^14-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
+### Section 5*c* Indication des émissions dans les offres de vols
+
+[^chap1-sec5c-1]
+
+[^chap1-sec5c-1]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 14a
+
+<sup>1</sup> À partir du 1<sup>er</sup> janvier 2026, quiconque propose des voyages en avion, qu’il s’agisse de vols réguliers ou de vols occasionnels planifiés, dont la publicité est faite au moyen d’annonces dans des imprimés ou des médias visuels et électroniques, doit indiquer dans l’annonce, de manière visible, lisible et chiffrée, les émissions en équivalents CO<sub>2</sub> probables générées par le voyage aérien considéré jusqu’à l’aéroport de destination.
+
+<sup>2</sup>
+
+Cette obligation s’applique aux offres de voyages en avion:
+
+- a. au départ d’un aérodrome situé en Suisse;
+- b. au départ de l’aéroport de Bâle-Mulhouse lorsque le voyage est soumis aux droits de trafic suisses.
+
+<sup>3</sup> Le calcul des émissions probables générées est effectué sur la base des connaissances scientifiques actuelles. La méthode de calcul utilisée doit être présentée sur demande à l’OFEV.
+
+<sup>4</sup> D’autres émissions à incidence climatique générées par l’exploitation d’aéronefs dans la troposphère supérieure et la stratosphère inférieure, ainsi que leurs effets, doivent être pris en compte.
+
+<sup>5</sup> Quiconque utilise un calculateur d’émissions ou un système de labellisation environnementale qui ne tiennent pas compte des autres émissions à incidence climatique et de leurs effets doit l’indiquer sur les offres.
+
 ### Section 6 Coordination des mesures d’adaptation
 
 #### Art. 15
@@ -514,6 +596,8 @@ L’OFEV peut publier les données suivantes si elles ne compromettent ni le sec
 
 #### Art. 16
 
+**Rapport[^16-1]**
+
 <sup>1</sup> Les cantons rendent compte régulièrement à l’OFEV des mesures techniques qu’ils ont prises en vue de réduire les émissions de CO<sub>2</sub> des bâtiments.
 
 <sup>2</sup>
@@ -524,6 +608,23 @@ Le rapport doit comporter les informations suivantes:
 - b. évolution des émissions de CO<sub>2</sub> des bâtiments sis sur le territoire cantonal.
 
 <sup>3</sup> Sur demande, les cantons mettent à la disposition de l’OFEV les documents sur lesquels se fonde le rapport.
+
+[^16-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 16a
+
+**Informations sur les installations de production de chaleur**[^16a-1]
+
+Les principales informations visées à l’art. 9, al. 3, de la loi sur le CO<sub>2</sub> à propos des installations de production de chaleur pour le chauffage et l’eau chaude dans les nouveaux bâtiments et de leur remplacement dans les anciens bâtiments sont les suivantes:
+
+- a. agent énergétique utilisé par l’installation de production de chaleur;
+- b. puissance nominale de l’installation de production de chaleur ou du raccordement au réseau de chauffage à distance;
+- c. besoins de chaleur pour le chauffage (QH);
+- d. année de la mise en service de l’installation de production de chaleur;
+- e. date de l’inscription dans le Registre fédéral des bâtiments et des logements;
+- f. en cas d’acquisition de chaleur à distance: identificateur fédéral de bâtiment (EGID) du bâtiment où se trouve le système principal de production de chaleur ou le fournisseur de chaleur.
+
+[^16a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## Chapitre 3 Mesures visant à réduire les émissions de CO2 des véhicules
 
@@ -2344,6 +2445,10 @@ Est soumis à l’obligation de compenser les émissions de CO<sub>2</sub> quico
 
 <sup>3</sup> Il doit désigner un représentant.
 
+<sup>4</sup> Le siège du représentant est considéré comme le domicile de notification unique.[^88-1]
+
+[^88-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
 #### Art. 89
 
 **Taux de compensation**[^89-1]
@@ -2376,13 +2481,14 @@ Le taux de compensation total est fixé comme suit:
 
 **Mesures compensatoires admises**[^90-1]
 
-<sup>1</sup> Pour remplir l’obligation de compenser, la remise d’attestations pour des réductions d’émissions ou pour le renforcement des prestations de puits de carbone est admise.
+<sup>1</sup> Pour remplir l’obligation de compenser, la remise d’attestations pour des réductions d’émissions ou pour le renforcement des prestations de puits de carbone est admise; la remise d’attestations internationales pour le gaz renouvelable étranger transporté par conduites n’est pas admise.[^90-2]
 
 <sup>2</sup> Si les attestations remises ne répondent plus aux exigences de permanence au sens de l’art. 5, al. 2, elles ne peuvent pas être prises en compte pour remplir l’obligation de compenser.
 
 <sup>3</sup> Si des attestations visées à l’al. 2 ont déjà été prises en compte pour remplir l’obligation de compenser, elles sont marquées en conséquence et remboursées à la personne soumise à l’obligation de compenser. L’année suivante, la personne soumise à l’obligation de compenser doit remettre, dans les mêmes proportions, des attestations qui répondent aux exigences de l’art 5. Il est possible de remettre ultérieurement des attestations qui ont pu être remises au moment de la remise initiale.
 
 [^90-1]: Nouvelle teneur le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^90-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 91
 
@@ -2390,7 +2496,7 @@ Le taux de compensation total est fixé comme suit:
 
 <sup>1</sup> La personne soumise à l’obligation de compenser les émissions de CO<sub>2</sub> a jusqu’au 31 décembre de l’année suivante pour remplir cette obligation.[^91-1]
 
-<sup>2</sup> …[^91-2]
+<sup>2</sup> Seuls les réductions d’émissions ou le renforcement des prestations de puits de carbone obtenus en 2030 sont pris en compte pour remplir l’obligation de compenser en Suisse se rapportant à l’année 2030.[^91-2]
 
 <sup>3</sup> …[^91-3]
 
@@ -2405,7 +2511,7 @@ Pour chaque personne soumise à l’obligation de compenser, les données et les
 - c. le montant des coûts par tonne de CO<sub>2</sub> compensée.[^91-5]
 
 [^91-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^91-2]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^91-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^91-3]: Abrogé par le ch. I de l’O du 25 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^91-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^91-5]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
@@ -2420,11 +2526,87 @@ Pour chaque personne soumise à l’obligation de compenser, les données et les
 
 <sup>3</sup> Le délai de paiement est de 30 jours à compter de la notification de la décision. Un intérêt moratoire s’applique en cas de retard de paiement. Le DFF en fixe le taux.[^92-2]
 
-<sup>4</sup> Le délai concernant la remise des droits d’émission et des attestations internationales est fixé au 1<sup>er</sup> juin de l’année suivante.[^92-3]
+<sup>4</sup> Le délai de remise des attestations est fixé au 1<sup>er</sup> juin de l’année suivante.[^92-3]
 
 [^92-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^92-2]: Nouvelle teneur le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^92-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^92-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+### Section 2 …
+
+#### Art. 92a et 92b
+
+[^92a92b-1]
+
+[^92a92b-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+## Chapitre 7*a* Imputation de la prestation de réduction résultant de l’utilisation de combustibles et carburants renouvelables
+
+[^chap7a-1]
+
+[^chap7a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+### Section 1 Principe
+
+#### Art. 92c
+
+<sup>1</sup>
+
+La prestation de réduction résultant de l’utilisation de combustibles et carburants renouvelables et de carburants d’aviation à faible taux d’émission peut être imputée dans le cadre d’une mesure visée dans la loi sur le CO<sub>2</sub> dans les cas suivants:
+
+- a. les combustibles et carburants répondent aux exigences de l’ordonnance du 2 avril 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission (OMCC)[^92c-1], et
+- b. une garantie d’origine conforme à la section 2*a* OEne[^92c-2] a été attribuée à la mesure concernée visée dans la loi sur le CO<sub>2</sub>.
+
+<sup>2</sup> L’attribution d’une garantie d’origine à la mesure concernée est effectuée, pour les exploitants d’installations et pour les exploitants d’aéronefs, par le fournisseur du combustible ou du carburant.
+
+[^92c-1]: [RS 814.311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40316)
+[^92c-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+
+### Section 2 Imputation de la prestation de réduction résultant de l’utilisation de gaz renouvelable étranger transporté par conduites
+
+#### Art. 92d
+
+**Demande d’attestations internationales pour du gaz renouvelable étranger transporté par conduites**
+
+<sup>1</sup> Un importateur peut demander à l’OFEV des attestations internationales pour la prestation de réduction résultant de l’utilisation de gaz renouvelable étranger transporté par conduites.
+
+<sup>2</sup> Quiconque souhaite demander des attestations internationales pour la prestation de réduction doit, à ses frais, faire valider le projet correspondant par un organisme d’audit reconnu par l’OFEV.
+
+<sup>3</sup>
+
+La demande doit contenir les documents suivants:
+
+- a. décision de l’État partenaire concernant le projet en question;
+- b. rapport de contrôle établi par un organisme d’audit reconnu par l’OFEV concernant le respect des conditions prévues à l’art. 15, al. 3, de la loi sur le CO<sub>2</sub>.
+
+<sup>4</sup> L’OFEV peut demander au requérant les informations supplémentaires dont il a besoin pour évaluer la demande.
+
+#### Art. 92e
+
+**Délivrance d’attestations internationales pour le gaz renouvelable étranger transporté par conduites**
+
+<sup>1</sup> L’OFEV décide, sur la base de la demande, si une prestation de réduction résultant de l’utilisation de gaz renouvelable étranger transporté par conduites remplit les conditions de délivrance d’attestations internationales.
+
+<sup>2</sup> Si une prestation de réduction est jugée adéquate, il contrôle, sur demande, le volume de la prestation de réduction invoquée. Il procède s’il y a lieu à d’autres examens.
+
+<sup>3</sup> Il délivre les attestations internationales pour autant que le transfert des réductions d’émissions par l’État partenaire soit reconnu pour la prestation de réduction.
+
+<sup>4</sup> La plus-value écologique des prestations de réduction est indemnisée par le biais de la délivrance des attestations. Aucune attestation n’est délivrée si la plus-value écologique a déjà été rétribuée.
+
+<sup>5</sup> L’OFEV informe le requérant de la quantité d’attestations internationales délivrées.
+
+#### Art. 92f
+
+**Condition pour la prise en compte de la prestation de réduction**
+
+<sup>1</sup>
+
+Les participants au SEQE et les exploitants ayant pris un engagement de réduction peuvent se faire imputer la prestation de réduction résultant de l’utilisation de gaz renouvelable étranger transporté par conduites. Ils doivent prouver:
+
+- a. que le gaz renouvelable étranger transporté par conduites est indiqué sur les factures;
+- b. que l’OFEV a délivré en quantité suffisante des attestations internationales pour la prestation de réduction résultant de l’utilisation du gaz renouvelable étranger transporté par conduites.
+
+<sup>2</sup> Une fois imputées, les attestations internationales délivrées pour une prestation de réduction résultant de l’utilisation de gaz renouvelable étranger transporté par conduites sont prises en compte par l’OFEV dans la réalisation de l’objectif climatique de la Suisse.
 
 ## Chapitre 8 Taxe sur le CO<sub>2</sub>
 
@@ -2753,9 +2935,9 @@ Si un exploitant d’installations ou une personne au sens de l’art. 96 enfrei
 
 <sup>1</sup>
 
-La Confédération accorde des contributions globales aux cantons, conformément à l’art. 34, al. 1, de la loi sur le CO<sub>2</sub>, afin d’encourager des mesures de réduction à long terme des émissions de CO<sub>2</sub> des bâtiments y compris les mesures de diminution de la consommation d’électricité durant les mois d’hiver:
+Les contributions globales visées à l’art. 34, al. 2, de la loi sur le CO<sub>2</sub> sont accordées:[^104-1]
 
-- a. si les exigences visées aux art. 55 à 60 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie (OEne)[^104-1] sont respectées;
+- a. si les exigences visées aux art. 55 à 60 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie (OEne)[^104-2] sont respectées;
 - b. si les mesures réduisent efficacement les émissions de CO<sub>2</sub> et contribuent également à la diminution de la consommation d’électricité durant les mois d’hiver, et
 - c. si les mesures sont mises en œuvre de manière harmonisée au niveau intercantonal.
 
@@ -2763,12 +2945,21 @@ La Confédération accorde des contributions globales aux cantons, conformément
 
 Elle n’accorde pas de contributions globales notamment pour les mesures suivantes:
 
-- a.[^104-2] mesures mises en œuvre dans des installations dont l’exploitant est soumis à un engagement de réduction conformément à la loi sur le CO<sub>2</sub> ou participe au SEQE;
+- a.[^104-3] mesures mises en œuvre dans des installations dont l’exploitant est soumis à un engagement de réduction conformément à la loi sur le CO<sub>2</sub> ou participe au SEQE;
 - b. mesures mises en œuvre dans le cadre d’accords passés avec la Confédération au sens de l’art. 4, al. 3, de la loi sur le CO<sub>2</sub> en vue d’atteindre l’objectif de réduction légal, lorsqu’elles ne permettent pas de réduire davantage les émissions;
 - c. mesures faisant déjà l’objet d’une aide de la Confédération ou d’une organisation privée du domaine du climat, lorsqu’elles ne permettent pas de réduire davantage les émissions.
 
-[^104-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
-[^104-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^104-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^104-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^104-3]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+
+#### Art. 104a
+
+**Contribution complémentaire**[^104a-1]
+
+La contribution complémentaire visée à l’art. 34, al. 2, let. b, de la loi sur le CO<sub>2</sub> est calculée en fonction de l’efficacité du programme d’encouragement cantonal et du montant du crédit cantonal. Elle se compose d’une contribution minimale et d’un supplément.
+
+[^104a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 105
 
@@ -2835,55 +3026,89 @@ Le contrôle visant à déterminer si les contributions globales sont utilisées
 
 Abrogé
 
-### Section 1*b* Soutien de projets d’utilisation directe de la géothermie pour la production de chaleur
+### Section 1*b* Encouragement de projets d’utilisation directe de la géothermie et de projets de mise en valeur de ressources utilisables indirectement
 
 [^chap9-sec1b-1][^chap9-sec1b-2]
 
 [^chap9-sec1b-1]: Anciennement sec. 1*a*.
-[^chap9-sec1b-2]: Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^chap9-sec1b-2]: Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 112
 
-**Projets donnant droit à une contribution**[^112-1]
+**Droit à l’encouragement**[^112-1]
 
-<sup>1</sup> Des projets visant à utiliser directement la géothermie pour la production de chaleur (art. 34, al. 2, loi sur le CO<sub>2</sub>) peuvent recevoir des contributions pour la prospection et la mise en valeur de réservoirs géothermiques, s’ils remplissent les exigences visées à l’annexe 12.
+Ont droit à l’encouragement:
 
-<sup>2</sup> Les contributions se montent au plus à 60 % des coûts d’investissement imputables du projet; elles sont fixées à l’annexe 12.
+- a.
 
-[^112-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+  les mesures suivantes mises en œuvre dans le cadre de projets d’utilisation directe de la géothermie pour la production de chaleur (art. 34*a*, al. 1, let. a, de la loi sur le CO<sub>2</sub>) qui remplissent les exigences de l’annexe 12:
+
+  - 1\. la prospection,
+  - 2\. la mise en valeur de réservoirs géothermiques;
+
+- b. les projets visant à la mise en valeur de ressources hydrothermales utilisables indirectement pour la production de chaleur (art. 34*a*, al. 1, let. b, de la loi sur le CO<sub>2</sub>) qui remplissent les exigences de l’annexe 12*a*, si les ressources hydrothermales ont été sélectionnées, détectées et caractérisées dans le cadre d’un premier forage exploratoire, et que l’utilisation directe s’est révélée impossible notamment en raison d’une température trop basse.
+
+[^112-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 113
 
 **Demande**[^113-1]
 
-<sup>1</sup> La demande de contribution doit être déposée auprès de l’OFEN.
+<sup>1</sup> Les demandes de contribution doivent être déposées auprès de l’OFEN.[^113-2]
 
-<sup>2</sup> La demande de soutien à la prospection doit remplir les exigences visées à l’annexe 12, ch. 3.1, et la demande de soutien pour la mise en valeur, les exigences visées à l’annexe 12, ch. 4.1 et 4.2. Le requérant doit apporter la preuve que les demandes d’autorisations et de concessions nécessaires à la réalisation du projet ont été déposées de manière complète auprès des autorités compétentes et que le financement du projet est garanti.[^113-2]
+<sup>2</sup>
+
+Elles doivent remplir les exigences suivantes:
+
+- a.
+
+  pour les projets d’utilisation directe de la géothermie:
+
+  - 1\. prospection: exigences de l’annexe 12, ch. 3.1,
+  - 2\. mise en valeur: exigences de l’annexe 12, ch. 4.1 et 4.2;
+
+- b. pour les projets de mise en valeur de ressources hydrothermales utilisables indirectement: exigences de l’annexe 12*a*, ch. 3.1 et 3.2.[^113-3]
+
+<sup>2bis</sup> Elles doivent comporter la preuve que les demandes d’autorisations et de concessions nécessaires ont été déposées de manière complète auprès des autorités compétentes et que le financement du projet est garanti.[^113-4]
 
 <sup>3</sup> Pour examiner les demandes, l’OFEN recourt à un groupe d’experts indépendant du projet composé de six spécialistes au plus. Le canton d’implantation peut en outre déléguer un représentant au sein du groupe d’experts.
 
 <sup>4</sup> Le groupe d’experts évalue les demandes et formule une recommandation à l’intention de l’OFEN pour l’appréciation du projet. Le représentant du canton ne peut se prononcer sur la recommandation à l’intention de l’OFEN. Pour remplir sa fonction, le groupe d’experts peut faire appel à des spécialistes supplémentaires.
 
-<sup>5</sup> Si les conditions donnant droit à une contribution sont remplies, la Confédération conclut un contrat de droit administratif avec le requérant. Ce contrat fixe notamment les conditions de la restitution prévue par l’art. 113*b*.
+<sup>5</sup> Si les conditions donnant droit à une contribution sont remplies, la Confédération conclut un contrat de droit administratif avec le requérant. Ce contrat fixe notamment les conditions de la restitution prévue par l’art. 113*c*[^113-5].
 
 [^113-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^113-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^113-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^113-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^113-4]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^113-5]: Le renvoi a été adapté au 1<sup>er</sup> mai 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 113a
 
-**Ordre de prise en compte**[^113a-1]
+**Contributions d’encouragement**[^113a-1]
 
-<sup>1</sup> S’il n’y a pas ou pas suffisamment de moyens à disposition pour un projet, l’OFEN inscrit celui-ci sur une liste d’attente sauf s’il ne remplit vraisemblablement pas les conditions d’octroi. L’OFEN notifie au requérant que son projet a été inscrit sur la liste d’attente.
+Les contributions s’élèvent:
 
-<sup>2</sup> S’il dispose à nouveau de moyens, l’OFEN prend en compte les projets les plus avancés. Si plusieurs projets présentent le même stade d’avancement, le projet pour lequel une demande complète a été déposée le plus tôt est pris en compte en premier.
+- a. pour les projets d’utilisation directe de la géothermie: à 60 % au plus des coûts d’investissement imputables; sont considérés comme imputables les coûts visés à l’annexe 12, ch. 2;
+- b. pour les projets de mise en valeur de ressources hydrothermales utilisables indirectement: à 40 % au plus des coûts d’investissement imputables; sont considérés comme imputables les coûts visés à l’annexe 12*a*, ch. 2.
 
-[^113a-1]: Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^113a-1]: Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 113b
 
-**Restitution**[^113b-1]
+**Ordre de prise en compte**[^113b-1]
 
-<sup>1</sup> Les art. 28 à 30 de la loi du 5 octobre 1990 sur les subventions (LSu)[^113b-2] s’appliquent par analogie à la restitution des contributions. Celles-ci peuvent en outre faire l’objet d’une demande de restitution si l’exploitation de l’installation génère des gains démontrant *a posteriori* que les subventions n’étaient pas nécessaires.
+<sup>1</sup> S’il n’y a pas ou pas suffisamment de moyens à disposition pour un projet, l’OFEN inscrit celui-ci sur une liste d’attente sauf s’il ne remplit vraisemblablement pas les conditions d’octroi. L’OFEN notifie au requérant que son projet a été inscrit sur la liste d’attente.
+
+<sup>2</sup> S’il dispose à nouveau de moyens, l’OFEN prend d’abord en compte les projets d’utilisation directe de la géothermie, puis les projets visant à la mise en valeur de ressources hydrothermales utilisables indirectement pour la production de chaleur. Les projets les plus avancés sont pris en compte en premier. Si plusieurs projets présentent le même état d’avancement, le projet pour lequel une demande complète a été déposée le plus tôt est pris en compte en premier.
+
+[^113b-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 113c
+
+**Restitution**[^113c-1]
+
+<sup>1</sup> Les art. 28 à 30 de la loi du 5 octobre 1990 sur les subventions (LSu)[^113c-2] s’appliquent par analogie à la restitution des contributions. Celles-ci peuvent en outre faire l’objet d’une demande de restitution si l’exploitation de l’installation génère des gains démontrant *a posteriori* que les subventions n’étaient pas nécessaires.
 
 <sup>2</sup> Si le projet est utilisé à d’autres fins et génère ainsi des gains, l’OFEN peut ordonner par décision la restitution proportionnelle ou complète des contributions versées.
 
@@ -2895,8 +3120,153 @@ Avant une modification d’utilisation ou une cession, il convient d’indiquer 
 - b. le propriétaire et le responsable;
 - c. si et dans quelle mesure des gains sont réalisés.
 
-[^113b-1]: Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^113b-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^113c-1]: Anciennement art. 113*b*. Introduit selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^113c-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+
+### Section 1*c* Encouragement d’installations de production de gaz renouvelables nouvelles ou faisant l’objet d’un agrandissement notable
+
+[^chap9-sec1c-1]
+
+[^chap9-sec1c-1]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 113d
+
+**Droit à l’encouragement**
+
+<sup>1</sup> Ont droit à l’encouragement les installations nouvelles ou faisant l’objet d’un agrandissement notable qui produisent du gaz par fermentation de biomasse et le transforment ensuite en biométhane.
+
+<sup>2</sup>
+
+Sont considérées comme nouvelles:
+
+- a. les installations qui sont construites pour la première fois en un emplacement, ainsi que les installations qui remplacent entièrement une installation existante;
+- b. les installations de production électrique existantes qui sont transformées pour produire du biométhane.
+
+<sup>3</sup> Sont considérées comme agrandissement notable d’une installation les mesures de construction qui entraînent une augmentation d’au moins 25 % de la production annuelle brute d’énergie par rapport à la moyenne des trois dernières années d’exploitation complètes avant la mise en service de l’agrandissement.
+
+<sup>4</sup> Est considéré comme biométhane le biogaz préparé dont la qualité correspond à celle des gaz à fort pouvoir calorifique conformément à la directive G18, Qualité du gaz, de l’Association pour l’eau, le gaz et la chaleur (SVGW) de juin 2022[^113d-1].
+
+<sup>5</sup>
+
+Sont exclues de l’encouragement les installations:
+
+- a. qui participent au système de rétribution de l’injection visé à l’art. 19 LEne[^113d-2] ou bénéficient de la prime de marché flottante visée à l’art. 29*a* LEne ou de la contribution aux coûts d’exploitation visée à l’art. 33*a* LEne;
+- b. qui ont déjà été soutenues par la Confédération d’une autre manière au cours des dix dernières années;
+- c. qui ne couvrent pas leurs propres besoins en chaleur à l’aide d’énergies renouvelables.
+
+[^113d-1]: La directive peut être obtenue contre paiement auprès de l’Association pour l’eau, le gaz et la chaleur (SVGW) à l’adresse suivante: [www.svgw.ch](http://www.svgw.ch/fr/) &gt; Réglementation &gt; Shop, ou par courriel à l’adresse suivante: info@svgw.ch.
+[^113d-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 113e
+
+**Demande**
+
+Les demandes de contribution doivent être déposées auprès de l’OFEN.
+
+#### Art. 113f
+
+**Contribution d’encouragement**
+
+<sup>1</sup>
+
+Le montant de la contribution d’encouragement des nouvelles installations est déterminé en fonction de la capacité de l’installation de traitement mesurée en Nm<sup>3</sup> de méthane par heure; il est calculé selon une pondération établie sur la base des classes de puissance et s’élève:
+
+- a. pour les premiers 100 Nm<sup>3</sup> de méthane/h: à 10 000 francs par Nm<sup>3</sup> de méthane/h;
+- b. de 101 à 400 Nm<sup>3</sup> de méthane/h: à 5000 francs par Nm<sup>3</sup> de méthane/h;
+- c. pour toutes les autres classes de puissance: à 2000 francs par Nm<sup>3</sup> de méthane/h.
+
+<sup>2</sup>
+
+Le montant de la contribution d’encouragement des agrandissements notables est déterminé en fonction de la différence entre la capacité après l’agrandissement notable et la capacité initiale; il est calculé selon une pondération établie sur la base des classes de puissance et s’élève:
+
+- a. pour les premiers 100 Nm<sup>3</sup> de méthane/h: à 4000 francs par Nm<sup>3</sup> de méthane/h;
+- b. de 101 à 400 Nm<sup>3</sup> de méthane/h: à 2000 francs par Nm<sup>3</sup> de méthane/h;
+- c. pour toutes les autres classes de puissance: à 800 francs par Nm<sup>3</sup> de méthane/h.
+
+<sup>3</sup> La contribution d’encouragement par installation se monte au plus à 30 % des coûts effectivement supportés et imputables, mais au plus à 2,8 millions de francs.
+
+<sup>4</sup> Les stations d’épuration des eaux usées et les installations visées à l’art. 113*d*, al. 2, let. b, reçoivent 15 % des contributions d’encouragement visées aux al. 1 et 2.
+
+<sup>5</sup>
+
+Si deux demandes sont déposées pour la même installation, une contribution est accordée de manière globale. Elle se répartit comme suit:
+
+- a. production: 85 %;
+- b. traitement et injection: 15 %.
+
+<sup>6</sup> Les demandes de contributions inférieures à 80 000 francs ne sont pas prises en compte.
+
+### Section 1*d* Encouragement d’installations permettant d’utiliser la chaleur solaire comme chaleur industrielle
+
+[^chap9-sec1d-1]
+
+[^chap9-sec1d-1]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 113g
+
+**Droit à l’encouragement**
+
+<sup>1</sup>
+
+Ont droit à l’encouragement les installations permettant d’utiliser la chaleur solaire comme chaleur industrielle qui respectent les conditions suivantes:
+
+- a.
+
+  elles produisent de la chaleur destinée:
+
+  - 1\. avant tout à des procédés industriels et artisanaux de fabrication, de transformation ou de perfectionnement de produits, ou
+  - 2\. à des prestations de services;
+
+- b. elles affichent une puissance thermique nominale des capteurs d’au moins 20 kW;
+- c. elles disposent d’un équipement de mesure du rendement thermique solaire utilisable;
+- d. elles utilisent des capteurs respectant les exigences décrites dans la note explicative sur la liste des capteurs 12/2021, version 01/2025[^113g-1];
+- e.
+
+  elles disposent d’une preuve indépendante de l’intégration correcte de l’installation dans les procédés à soutenir. Cette preuve inclut notamment:
+
+  - 1\. le raccordement hydraulique,
+  - 2\. le profil de consommation et le niveau de température de la production et de la consommation,
+  - 3\. le dimensionnement et l’intégration dans un réservoir thermique,
+  - 4\. la stratégie de stagnation,
+  - 5\. le rendement solaire annuel attendu à déterminer à l’aide d’un programme de simulation dynamique,
+  - 6\. la stratégie de mesure permettant de vérifier le rendement solaire effectivement utilisé.
+
+<sup>2</sup>
+
+Sont exclues de l’encouragement:
+
+- a. les installations des participants au SEQE;
+- b. les installations déjà soutenues par la Confédération d’une autre manière.
+
+<sup>3</sup> Une contribution d’encouragement peut être octroyée aux exploitants d’installations qui se sont engagés à réduire leurs émissions conformément à l’art. 31 de la loi sur le CO<sub>2</sub>, dans la mesure où les réductions d’émissions provenant des installations solaires thermiques encouragées ne sont couvertes ni par l’objectif d’efficacité en ce qui concerne les émissions de gaz à effet de serre visé à l’art. 67, ni par l’objectif fondé sur des mesures visé à l’art. 68.
+
+[^113g-1]: La note explicative peut être consultée à l’adresse suivante: [www.kollektorliste.online](http://www.kollektorliste.online) (en allemand uniquement).
+
+#### Art. 113h
+
+**Demande**
+
+Les demandes de contribution doivent être déposées auprès de l’OFEN.
+
+#### Art. 113i
+
+**Contribution d’encouragement**
+
+La contribution d’encouragement se compose d’une contribution de base d’un montant de 2400 francs et d’une contribution d’un montant de 1000 francs par kW de puissance thermique nominale des capteurs.
+
+#### Art. 113j
+
+**Restitution**
+
+<sup>1</sup> Si le rendement solaire effectivement utilisé moyen durant les trois ans suivant la mise en service se monte à moins de 80 % du rendement attendu visé à l’art. 113*g*, al. 1, let. e, ch. 5, la contribution d’encouragement est restituée proportionnellement.
+
+<sup>2</sup> Dans des cas de rigueur, il est possible de renoncer totalement ou partiellement à une restitution.
+
+#### Art. 113k
+
+**Suivi et publication de données**
+
+L’OFEN peut soumettre une installation encouragée à un accompagnement scientifique et publier les données relevées et les résultats d’analyse obtenus dans ce contexte.
 
 ### Section 2 Encouragement des technologies visant la réduction des émissions de gaz à effet de serre
 
@@ -2906,17 +3276,21 @@ Avant une modification d’utilisation ou une cession, il convient d’indiquer 
 
 <sup>1</sup>
 
-La Confédération cautionne des prêts pour des installations et des procédés au sens de l’art. 35, al. 3, de la loi sur le CO<sub>2</sub> si les conditions suivantes sont réunies:
+La Confédération cautionne des prêts pour les installations et les procédés visés à l’art. 35, al. 3, de la loi sur le CO<sub>2</sub> si les conditions suivantes sont réunies:[^114-1]
 
 - a. il existe un marché pour ces installations et procédés;
 - b. l’exploitant d’installations emprunteur peut montrer de manière crédible qu’il est solvable;
-- c. le bailleur de fonds tient compte du cautionnement lors de la détermination du taux d’intérêt.
+- c. le bailleur de fonds tient compte du cautionnement lors de la détermination du taux d’intérêt;
+- d.[^114-2] il n’est porté atteinte de manière notable à aucun des buts visés à l’art. 35, al. 3, let. a à c.
 
-<sup>2</sup> Elle ne cautionne que des prêts accordés par une banque au sens de la loi du 8 novembre 1934 sur les banques[^114-1] ou par un autre bailleur de fonds approprié.
+<sup>2</sup> Elle ne cautionne que des prêts qu’une banque au sens de la loi du 8 novembre 1934 sur les banques[^114-3] ou un autre bailleur de fonds approprié sis en Suisse accorde à des exploitants d’installations emprunteurs qui ont leur siège en Suisse.[^114-4]
 
 <sup>3</sup> Le cautionnement peut garantir tout ou partie du prêt. Il ne peut dépasser trois millions de francs.
 
-[^114-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^114-2]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^114-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^114-4]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 115
 
@@ -2991,7 +3365,9 @@ Il fait chaque trimestre rapport à l’OFEV sur:[^116-1]
 
 <sup>2</sup> L’Assemblée fédérale décide des crédits d’engagement pour l’octroi de cautionnements.
 
-<sup>3</sup> La somme des cautionnements ne peut à aucun moment dépasser 500 millions de francs.
+<sup>3</sup> La somme des cautionnements ne peut à aucun moment dépasser 750 millions de francs.[^118-1]
+
+[^118-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### Section 3 Redistribution à la population
 
@@ -3151,27 +3527,369 @@ Dans les trois mois à compter de la date de la demande, les exploitants visés 
 
 <sup>2</sup> Il utilise à cet effet une clé de calcul qui tient compte du nombre d’employeurs tenus de remettre un décompte affiliés aux caisses de compensation concernées.
 
-## Chapitre 10 Formation, formation continue et information
+## Chapitre 9*a* Encouragement de mesures de réduction des émissions de gaz à effet de serre dans le trafic aérien
+
+[^chap9a-1]
+
+[^chap9a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 127a
+
+**Principe**
+
+<sup>1</sup>
+
+Les moyens suivants sont utilisés pour réduire les émissions de gaz à effet de serre dans le trafic aérien:
+
+- a. le produit des sanctions perçues en cas de violation de l’obligation de mélanger des carburants d’aviation à faible taux d’émission, renouvelables ou synthétiques renouvelables (art. 28*g*, al. 8, loi sur le CO<sub>2</sub>[^127a-1]);
+- b. les recettes de la mise aux enchères de droits d’émission pour les aéronefs (art. 37*a*, al. 1, let. b, loi sur le CO<sub>2</sub>[^127a-2]);
+- c. les moyens destinés à l’encouragement au sens de l’art. 103*b*, al. 2, de la loi fédérale du 21 décembre 1948 sur l’aviation[^127a-3] et de l’art. 37*d* de la la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^127a-4], en particulier les moyens issus de la part affectée du produit net de l’impôt à la consommation prélevé sur les carburants d’aviation et des surtaxes prélevées sur les carburants d’aviation (art. 1, al. 2, LUMin).
+
+<sup>2</sup>
+
+Ils sont utilisés en particulier pour:
+
+- a. le développement et l’augmentation de la production de carburants d’aviation renouvelables en Suisse et à l’étranger;
+- b. le développement et l’application de technologies d’accroissement de l’efficacité énergétique des aéronefs;
+- c. le développement et l’application de procédures d’accroissement de l’efficacité énergétique de l’exploitation des vols;
+- d. le transfert de connaissances entre les milieux scientifiques, les milieux économiques et la société dans le domaine de la réduction des émissions de gaz à effet de serre dans le transport aérien.
+
+<sup>3</sup> L’Office fédéral de l’aviation civile (OFAC) peut engager les moyens visés à l’al. 1 pour les mesures de recherche de l’administration visées à l’art. 16, al. 2, let. a et c, de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^127a-5].
+
+[^127a-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^127a-2]: Le renvoi a été adapté au 1<sup>er</sup> mai 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^127a-3]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^127a-4]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^127a-5]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+
+#### Art. 127b
+
+**Octroi des aides financières: forme et procédure**
+
+<sup>1</sup> Les aides financières sont octroyées sous la forme de contributions à fonds perdu, de prêts sans intérêts ou de cautionnements.
+
+<sup>2</sup> L’OFAC décide de la forme de l’encouragement en fonction du besoin du projet en la matière.
+
+<sup>3</sup> Les aides financières peuvent être octroyées dans le cadre d’appels d’offres. La participation à un appel d’offres est considérée comme une demande.
+
+<sup>4</sup> Les demandes doivent être déposées auprès de l’OFAC.
+
+<sup>5</sup> L’OFAC perçoit un émolument pour l’examen de la demande. Le montant des émoluments est régi par l’ordonnance du 28 septembre 2007 sur les émoluments de l’Office fédéral de l’aviation civile[^127b-1].
+
+<sup>6</sup> L’OFAC peut conditionner l’octroi des aides financières à la réalisation d’objectifs intermédiaires.
+
+[^127b-1]: [RS 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)
+
+#### Art. 127c
+
+**Octroi des aides financières: conditions**
+
+<sup>1</sup>
+
+Les mesures sont prises en compte en fonction du degré de réalisation des critères suivants:
+
+- a. importante réduction des émissions de gaz à effet de serre;
+- b. efficacité des coûts au regard de l’effet sur le climat;
+- c. faibles atteintes portées à l’environnement;
+- d. grandes chances sur le marché;
+- e. potentiel de succès important;
+- f. forte création de valeur en Suisse;
+- g. imputation des réductions d’émissions au profit de la Suisse;
+- h. existence de partenaires sur l’ensemble de la chaîne de création de valeur;
+- i. contribution au maintien et au développement des connaissances.
+
+<sup>2</sup> Les critères sont évalués pour les technologies et les procédures, en tenant compte d’un futur changement d’échelle.
+
+<sup>3</sup> Le requérant doit prouver qu’il fournit les prestations propres que l’on peut raisonnablement exiger de lui pour la réalisation de la mesure.
+
+<sup>4</sup> Si l’aide financière est demandée sous la forme d’un prêt sans intérêts, le requérant doit en outre montrer de manière transparente qu’il est solvable.
+
+#### Art. 127d
+
+**Montant des aides financières et critères de priorisation**
+
+<sup>1</sup> Le montant des contributions, des prêts et des cautionnements se fonde sur le degré de réalisation des critères visés à l’art. 127*c*, al. 1 à 3.
+
+<sup>2</sup> Si les demandes déposées ou attendues dépassent les moyens disponibles, les aides financières sont octroyées en tenant compte des critères visés à l’art. 127*c*, al. 1 à 3.
+
+#### Art. 127e
+
+**Cautionnements**
+
+<sup>1</sup> Un cautionnement peut être garanti pour des prêts de tiers, si le bailleur de fonds tient compte du cautionnement lors de la détermination du taux d’intérêt.
+
+<sup>2</sup> Le cautionnement peut garantir tout ou partie du prêt. Il peut se monter à 100 millions de francs au plus et être octroyé pour une durée de dix ans au plus.
+
+<sup>3</sup> Ne sont cautionnés que des prêts accordés par une banque au sens de la loi du 8 novembre 1934 sur les banques[^127e-1] ou par un autre bailleur de fonds approprié sis en Suisse.
+
+[^127e-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+
+#### Art. 127f
+
+**Obligation de communiquer et rapport**
+
+<sup>1</sup> L’OFAC doit être immédiatement informé des changements qui pourraient avoir des conséquences sur l’octroi de l’aide financière.
+
+<sup>2</sup>
+
+Un rapport intermédiaire doit être remis à l’OFAC une fois les objectifs intermédiaires réalisés et un rapport final une fois les mesures mises en œuvre. Les rapports doivent au moins contenir les éléments suivants:
+
+- a. des informations sur l’état de mise en œuvre de la mesure;
+- b. un récapitulatif des coûts.
+
+<sup>3</sup> Le rapport intermédiaire et le rapport final sont soumis à l’approbation de l’OFAC.
+
+<sup>4</sup>
+
+L’exploitant d’installations emprunteur Le bénéficiaire d’un prêt cautionné doit, au moins chaque année, faire rapport à l’OFAC sur:
+
+- a. l’état de l’utilisation des fonds du prêt;
+- b. l’évolution des affaires et les prévisions concernant son développement, en joignant le rapport d’activité, le bilan, le compte de résultats et le rapport de révision dans les délais prévus par le code des obligations[^127f-1];
+- c. d’autres aspects que l’OFAC exige pour l’exécution de l’aide financière.
+
+[^127f-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+#### Art. 127g
+
+**Exécution**
+
+Pour l’exécution des mesures d’encouragement, l’OFAC peut recourir à un service externe ou à un groupe d’experts indépendant de la mesure.
+
+## Chapitre 9*b* Utilisation des recettes de la mise aux enchères de droits d’émission pour installations
+
+[^chap9b-1]
+
+[^chap9b-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+### Section 1 Mesures visant à éviter les dommages
+
+#### Art. 127h
+
+**Droit à l’encouragement**
+
+<sup>1</sup> Les aides financières destinées aux mesures d’adaptation (art. 37*b*, al. 1, let. a, de la loi sur le CO<sub>2</sub>) sont octroyées pour la planification et la mise en œuvre de mesures qui apportent directement ou indirectement une contribution notable à la prévention des dommages causés aux personnes ou aux biens d’une valeur considérable.
+
+<sup>2</sup>
+
+Sont encouragées notamment les mesures d’adaptation qui contribuent à éviter:
+
+- a. les atteintes à la santé dues à l’exposition croissante à la chaleur;
+- b. les dommages aux personnes et aux biens dus au dégel du pergélisol et à la fonte des glaciers;
+- c. les dommages aux personnes et aux biens dus aux précipitations plus fréquentes et plus intenses et à leurs conséquences comme les crues, le ruissellement en hausse et les mouvements de terrain;
+- d. les dommages dans l’agriculture, l’économie forestière, le secteur de l’énergie et la gestion des eaux urbaines dus aux périodes de sécheresse plus fréquentes et plus longues;
+- e. les atteintes aux services écosystémiques par des modifications des milieux naturels et de la composition des espèces.
+
+<sup>3</sup> Aucune aide financière n’est octroyée pour les mesures qui ne correspondent pas à la politique énergétique ou à la politique climatique de la Confédération.
+
+<sup>4</sup> Les demandes d’aides financières doivent être déposées auprès de l’OFEV le 31 mars au plus tard.
+
+<sup>5</sup> Des aides financières peuvent être octroyées dans le cadre d’appels d’offres pour le développement des mesures visées à l’al. 1.
+
+#### Art. 127i
+
+**Montant des aides financières**
+
+<sup>1</sup> Le montant des aides financières est déterminé en fonction de l’utilité et de l’effet de la mesure. Il s’élève au maximum à 50 % des coûts imputables.
+
+<sup>2</sup> Sont considérés comme coûts imputables les coûts d’investissement appropriés et requis pour la mise en œuvre économique et adéquate de la mesure, mais tout au plus les coûts supplémentaires engendrés par la mesure d’adaptation.
+
+### Section 2 Mesures visant à décarboner les installations
+
+#### Art. 127j
+
+**Droit à l’encouragement**
+
+<sup>1</sup> Les aides financières destinées aux mesures visant à décarboner les installations (art. 37*b*, al. 1, let. b, de la loi sur le CO<sub>2</sub>) sont octroyées aux exploitants qui sont tenus de participer au SEQE en vertu de l’art. 16 de la loi sur le CO<sub>2</sub> et qui ne sont pas exemptés de cette obligation en vertu de l’art. 41.
+
+<sup>2</sup> Aucune aide financière n’est octroyée pour les mesures qui n’apportent aucune contribution notable à la décarbonation d’une installation, comme le remplacement d’agents énergétiques fossiles par d’autres agents énergétiques fossiles ou des mesures d’approvisionnement de réseaux de chauffage à distance.
+
+<sup>3</sup> S’il est probable que les mesures entraînent une augmentation de la consommation d’électricité, de l’électricité de source non fossile doit être utilisée à hauteur de la hausse de la consommation; cette utilisation doit être prouvée au moyen de garanties d’origine.
+
+<sup>4</sup> Les demandes d’aides financières doivent être déposées auprès de l’OFEV le 31 mars au plus tard.
+
+<sup>5</sup> L’OFEV peut exiger, aux frais de l’exploitant, la vérification des informations fournies dans la demande.
+
+#### Art. 127k
+
+**Montant de l’aide financière**
+
+<sup>1</sup> L’aide financière s’élève au maximum à 50 % des coûts imputables.
+
+<sup>2</sup> Sont considérés comme coûts imputables les coûts d’investissement appropriés et requis pour la mise en œuvre économique et adéquate de la mesure.
+
+#### Art. 127l
+
+**Critères de priorisation**
+
+Si les demandes déposées ou attendues dépassent les moyens disponibles, les aides financières sont octroyées en tenant compte des critères ci-après dans l’ordre suivant:
+
+- a. le montant de l’aide financière demandée par tonne d’éq.-CO<sub>2</sub> réduite ou par tonne d’émissions négatives produite pendant la durée de l’effet;
+- b. le volume de la réduction visée des émissions de gaz à effet de serre ou de la production visée d’émissions négatives en tonnes d’éq.‑CO<sub>2</sub>;
+- c. le risque de transfert des émissions de gaz à effet de serre vers l’étranger;
+- d. la réduction de la charge environnementale pendant tout le cycle de vie des installations et des produits.
+
+### Section 3 Rapport et versement des aides financières
+
+#### Art. 127m
+
+**Obligation de communiquer et rapport**
+
+<sup>1</sup> L’OFEV doit être immédiatement informé des changements qui pourraient avoir des conséquences sur l’octroi des aides financières.
+
+<sup>2</sup>
+
+Un rapport doit être remis à l’OFEV une fois les mesures mises en œuvre et une fois les objectifs intermédiaires réalisés. Il doit contenir au moins les éléments suivants:
+
+- a. des informations sur l’état de mise en œuvre des mesures;
+- b. un récapitulatif des coûts avec copies des factures.
+
+<sup>3</sup> Le rapport est soumis à l’approbation de l’OFEV.
+
+<sup>4</sup>
+
+L’exploitant des installations soumises au SEQE remet un rapport d’évaluation trois ans après la mise en œuvre des mesures. Ce rapport doit contenir les informations suivantes:
+
+- a. le volume de la réduction des émissions de gaz à effet de serre obtenue chaque année ou de l’effet obtenu chaque année grâce au recours aux technologies d’émission négative, en tonnes d’éq.‑CO<sub>2</sub>, au cours des trois dernières années;
+- b. les éventuels écarts par rapport aux mesures prévues initialement, avec justification et mesures correctives prévues.
+
+<sup>5</sup> L’OFEV peut exiger, aux frais de l’exploitant, la vérification du rapport d’évaluation.
+
+#### Art. 127n
+
+**Versement des aides financières**
+
+<sup>1</sup> L’OFEV verse les aides financières une fois le rapport approuvé.
+
+<sup>2</sup> S’agissant des mesures comportant des objectifs intermédiaires, l’aide financière est versée en fonction de l’avancement de la mise en œuvre.
+
+#### Art. 127o
+
+**Restitution**
+
+Si l’effet effectif de la mesure est inférieur à 80 % de l’effet indiqué dans la demande, l’OFEV peut exiger la restitution proportionnelle de l’aide financière versée.
+
+#### Art. 127p
+
+**Publication d’informations**
+
+L’OFEV publie sur son site Internet des informations sur les mesures encouragées si elles ne compromettent ni le secret de fabrication ni le secret d’affaires. Il s’agit en particulier des informations suivantes:
+
+- a. nom et adresse des bénéficiaires des aides financières;
+- b. montant des aides financières;
+- c. nature des mesures.
+
+## Chapitre 10 Encouragement et information
+
+[^chap10-1]
+
+[^chap10-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+### Section 1 Encouragement de la formation, de la formation continue et du travail d’information
 
 #### Art. 128
 
-**Encouragement de la formation et de la formation continue**
+**Encouragement**
 
-<sup>1</sup> L’OFEV encourage, en collaboration avec les cantons et les organisations du monde du travail au sens de l’art. 1 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^128-1], la formation et la formation continue des personnes exerçant des activités liées à la réduction des émissions de gaz à effet de serre ou à la maîtrise des conséquences de l’augmentation de la concentration des gaz à effet de serre dans l’atmosphère.
+<sup>1</sup> L’OFEV encourage la formation et la formation continue de personnes qui exercent des activités liées à la protection du climat, ainsi que des plateformes et d’autres travaux d’information dans le domaine de la protection du climat.
 
-<sup>2</sup> Il octroie, dans les limites des crédits approuvés, des aides financières à des organisations publiques ou privées qui proposent des cours de formation et de formation continue dans le domaine de la protection du climat et de la maîtrise des conséquences de l’augmentation de la concentration des gaz à effet de serre dans l’atmosphère.
+<sup>2</sup>
 
-[^128-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+Il octroie, dans les limites des crédits approuvés, des aides financières à des corporations et établissements de droit public et à des organisations privées qui, dans le domaine de la protection du climat:
+
+- a. proposent des cours de formation ou de formation continue, ou
+- b. informent ou conseillent le public.
+
+<sup>3</sup>
+
+Les projets dignes d’être encouragés sont des projets de formation et de communication qui, en particulier:
+
+- a. montrent comment ils peuvent fournir une contribution à la réalisation des objectifs de la loi sur le CO<sub>2</sub>;
+- b. sont axés sur les résultats;
+- c. peuvent être reproduits ailleurs.
+
+#### Art. 128a
+
+**Montant des aides financières**
+
+<sup>1</sup> Les aides financières s’élèvent au maximum à 40 % des coûts imputables.
+
+<sup>2</sup> Sont considérés comme coûts imputables les coûts appropriés et requis pour la mise en œuvre économique et adéquate du projet.
+
+### Section 2 Information
 
 #### Art. 129
 
-**Information**
+**Information par l’OFEV**
 
-L’OFEV informe le public en particulier:
+L’OFEV informe le public et conseille les autorités, les entreprises et les particuliers notamment sur:
 
-- a. des conséquences des changements climatiques;
-- b. des mesures visant à réduire les émissions de gaz à effet de serre en Suisse et à l’étranger;
-- c. des mesures visant à maîtriser les conséquences de l’augmentation de la concentration des gaz à effet de serre dans l’atmosphère.
+- a. les conséquences des changements climatiques;
+- b. les mesures de réduction des émissions de gaz à effet de serre ou de renforcement des prestations de puits de carbone;
+- c. les mesures visant à maîtriser les conséquences de l’augmentation de la concentration des gaz à effet de serre dans l’atmosphère.
+
+#### Art. 129a
+
+**Rapport sur les risques financiers liés au climat**
+
+<sup>1</sup> L’Autorité fédérale de surveillance des marchés financiers (FINMA) présente chaque année au public sous une forme agrégée un rapport sur les résultats de son examen des risques financiers liés au climat auxquels sont exposés les établissements qu’elle surveille.
+
+<sup>2</sup> La Banque nationale suisse (BNS) présente chaque année au public sous une forme agrégée un rapport sur les résultats de son examen des risques financiers liés au climat qui influencent la stabilité du système financier de la Suisse.
+
+<sup>3</sup> Si la FINMA ou la BNS prennent d’éventuelles mesures en raison des résultats de leurs examens, elles les mentionnent également dans leurs rapports annuels.
+
+### Section 3 Encouragement de technologies de propulsion électrique
+
+#### Art. 129b
+
+**Bénéficiaires de contributions**
+
+<sup>1</sup>
+
+Peuvent obtenir des contributions au sens de l’art. 41*a* de la loi sur le CO<sub>2</sub>:
+
+- a. les entreprises de transport au bénéfice d’une concession au sens de l’art. 6 de la loi du 20 mars 2009 sur le transport de voyageurs[^129b-1];
+- b. les entreprises qui fournissent, sur des lignes soumises au régime de la concession, des prestations fondées sur un contrat d’exploitation au sens de l’art. 20 de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs[^129b-2].
+
+<sup>2</sup> La demande de contribution doit être déposée auprès de l’Office fédéral des transports (OFT).
+
+[^129b-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^129b-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+
+#### Art. 129c
+
+**Condition d’encouragement**
+
+Les contributions sont octroyées pour les bus et les bateaux qui sont utilisés au moins à hauteur de 75 % pour des transports sous le régime de la concession et sont la propriété du bénéficiaire de la contribution après leur mise en service.
+
+#### Art. 129d
+
+**Véhicules encouragés**
+
+<sup>1</sup>
+
+Des contributions sont octroyées pour les bus et les bateaux suivants:
+
+- a. bus fonctionnant uniquement sur batterie;
+- b. bus à piles à combustible (hydrogène);
+- c. trolleybus;
+- d. nouveaux bateaux à propulsion électrique, y compris à piles à combustible (hydrogène);
+- e. bateaux transformés en bateaux à propulsion électrique, y compris à piles à combustible (hydrogène).
+
+<sup>2</sup> Aucun moyen d’encouragement n’est octroyé pour les véhicules remplaçant des véhicules qui sont déjà électrifiés ou qui ne sont pas encore entièrement amortis.
+
+#### Art. 129e
+
+**Versement des moyens d’encouragement**
+
+Le versement des contributions se fait après que l’entreprise a apporté la preuve de la mise en service des véhicules.
+
+#### Art. 129f
+
+**Vérification de l’utilisation des véhicules**
+
+<sup>1</sup> Cinq ans après la mise en service, les entreprises annoncent spontanément à l’OFT l’utilisation actuelle des véhicules.
+
+<sup>2</sup> Si les écarts dans l’utilisation dépassent 10 % entre les transports commandés en commun et le reste des transports sous le régime de la concession ou en cas d’utilisation majoritairement non soumise au régime de la concession, les contributions obtenues sont remboursées proportionnellement ou entièrement.
 
 ## Chapitre 11 Exécution
 
@@ -3179,7 +3897,7 @@ L’OFEV informe le public en particulier:
 
 **Autorités d’exécution**
 
-<sup>1</sup> L’OFEV est chargé de l’exécution de la présente ordonnance. Les al. 2 à 7 ainsi que l’annexe 14, ch. 2.1, sont réservés.[^130-1]
+<sup>1</sup> L’OFEV est chargé de l’exécution de la présente ordonnance. Les al. 2 à 9 ainsi que l’annexe 14, ch. 2.1, sont réservés.[^130-1]
 
 <sup>2</sup> L’OFEN exécute les dispositions concernant la réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers. Il bénéficie du soutien de l’OFROU.[^130-2]
 
@@ -3192,19 +3910,25 @@ L’OFEV exécute:
 - a. en accord avec l’OFEN: les dispositions relatives aux attestations pour des réductions d’émissions et pour le renforcement des prestations de puits de carbone réalisés en Suisse et à l’encouragement des technologies visant la réduction des émissions de gaz à effet de serre;
 - b. en accord avec l’OFEN, le Secrétariat d’État à l’économie et le Département fédéral des affaires étrangères: les dispositions relatives aux attestations pour des réductions d’émissions et pour le renforcement des prestations de puits de carbone réalisés à l’étranger.[^130-3]
 
-<sup>4bis</sup> L’OFEN exécute les dispositions concernant les contributions globales destinées à la réduction à long terme des émissions de CO<sub>2</sub> des bâtiments et les contributions pour l’utilisation directe de la géothermie.[^130-4]
+<sup>4bis</sup> L’OFEN exécute les dispositions concernant les contributions globales destinées à la réduction à long terme des émissions de CO<sub>2</sub> des bâtiments, les contributions pour l’utilisation directe de la géothermie, les contributions pour les installations de production de gaz renouvelables et les contributions pour les installations permettant d’utiliser la chaleur solaire comme chaleur industrielle.[^130-4]
 
 <sup>5</sup> L’OFEV exécute, après consultation de l’OFEN, les dispositions concernant l’encouragement de la formation et de la formation continue.
 
 <sup>6</sup> L’OFEN et les organismes privés mandatés par l’OFEN et l’OFEV soutiennent l’OFEV dans l’application des dispositions concernant l’engagement de réduction des émissions de gaz à effet de serre.
 
-<sup>7</sup> L’Office fédéral de l’aviation civile (OFAC) soutient l’OFEV dans l’exécution des dispositions concernant l’échange de quotas d’émission pour les exploitants d’aéronefs.[^130-5]
+<sup>7</sup> L’OFAC soutient l’OFEV dans l’exécution des dispositions concernant l’échange de quotas d’émission pour les exploitants d’aéronefs.[^130-5]
 
-[^130-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>8</sup> Il exécute l’obligation de mettre à disposition et mélanger des carburants à faible taux d’émission, renouvelables et synthétiques renouvelables prévue aux art. 28*f* et 28*g* de la loi sur le CO<sub>2</sub>, ainsi que l’encouragement de mesures de réduction des émissions de gaz à effet de serre dans le trafic aérien prévu aux art. 127*a* à 127*g*.[^130-6]
+
+<sup>9</sup> L’OFT exécute les dispositions concernant l’encouragement des technologies de propulsion électrique visées aux art. 129*b* à 129*f*.[^130-7]
+
+[^130-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^130-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^130-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^130-4]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^130-5]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^130-4]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^130-5]: Introduit par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^130-6]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^130-7]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 130a
 
@@ -3239,19 +3963,24 @@ L’OFEV détermine, sur la base de l’inventaire des gaz à effet de serre, si
 
 <sup>3</sup> Les droits d’émission sont imputés à l’objectif national à hauteur des émissions supplémentaires au sens de l’al. 2 après déduction des certificats de réduction des émissions remis. L’OFEV indique la quantité de ces droits dans le rapport sur la réalisation de l’objectif.[^131-2]
 
-<sup>4</sup> La quantité totale de droits d’émission suisses correspond à la somme de la quantité disponible de droits d’émission pour installations selon l’art. 18, al. 1, de la loi sur le CO<sub>2</sub> et des droits d’émission reportés selon l’art. 48, al. 1, de la loi sur le CO<sub>2</sub>, déduction faite des droits d’émission annulés en vertu de l’art. 19, al. 5, de la loi sur le CO<sub>2</sub>.[^131-3]
+<sup>4</sup> La quantité totale de droits d’émission suisses correspond à la somme de la quantité disponible de droits d’émission pour installations selon l’art. 18, al. 1, de la loi sur le CO<sub>2</sub> et des droits d’émission reportés selon les art. 48, al. 1, 48*a*, al. 1, 48*b*, al. 1, et 48*c*, al. 1, de la loi sur le CO<sub>2</sub>, déduction faite des droits d’émission annulés en vertu de l’art. 19, al. 5, de la loi sur le CO<sub>2</sub>.[^131-3]
+
+<sup>5</sup> Pour évaluer dans quelle mesure l’objectif défini à l’art. 3, al. 1, de la loi sur le CO<sub>2</sub> est atteint, on tient compte du bilan absolu de gaz à effet de serre du secteur de l’utilisation des terres pour l’ensemble de la surface de la Suisse.[^131-4]
 
 [^131-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^131-2]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^131-3]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^131-3]: Introduit par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^131-4]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 132
 
-**Indemnisation des frais**[^132-1]
+**Indemnité d’exécution**[^132-1]
 
-L’indemnisation pour les frais d’exécution s’élève à 1,85 % des recettes de la taxe sur le CO<sub>2</sub> (recettes). En cas d’augmentation des recettes, le DETEC abaisse le pourcentage en accord avec le Département fédéral des finances.
+<sup>1</sup> L’indemnisation pour les frais d’exécution incombant à l’administration fédérale s’élève au total à 23,4 millions de francs au plus; elle est couverte par les recettes courantes de la taxe sur le CO<sub>2</sub>.
 
-[^132-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+<sup>2</sup> L’OFEV établit chaque année les dépenses d’exécution déterminantes pour l’indemnité d’exécution.
+
+[^132-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 133
 
@@ -3279,11 +4008,11 @@ Les données recueillies aux fins d’exécution de la présente ordonnance sont
 - a.[^134-1] l’OFDF transmet à l’OFROU et à l’OFEN les données relatives aux importations qui sont nécessaires pour l’exécution du chapitre 3 et l’OFROU transmet à l’OFEN les autres données nécessaires pour l’exécution du chapitre 3;
 - b.[^134-2]
 
-  l’OFEV transmet à l’OFEN les données nécessaires pour le contrôle:
+  l’OFEV transmet à l’OFEN, au Département fédéral des affaires étrangères et au Secrétariat d’État à l’économie les données nécessaires pour le contrôle:
 
-  - 1\. des demandes de délivrance d’attestations (art. 7, 12 et 12*a*),
+  - 1\. des esquisses de projet (art. 6, al. 4) et des demandes de délivrance d’attestations (art. 7),
   - 2\. des demandes de définition d’un engagement de réduction, et
-  - 3\. des rapports de suivi (art. 9, 52, 72 et 91);
+  - 3\. des rapports de suivi (art. 9 et 91);
 
 - c.[^134-3]
 
@@ -3300,20 +4029,28 @@ Les données recueillies aux fins d’exécution de la présente ordonnance sont
 
   - 1\. de l’obligation de participer (art. 46*d*),
   - 2\. des plans de suivi (art. 51), et
-  - 3\. des rapports de suivi (art. 52).
+  - 3\. des rapports de suivi (art. 52);
 
-<sup>2</sup> La Direction générale des douanes et l’Organisation suisse de stockage obligatoire pour carburants et combustibles liquides (Carbura) peuvent échanger des données pour l’exécution des dispositions relatives à la compensation des émissions de CO<sub>2</sub> pour les carburants.[^134-6]
+- f.[^134-6]
 
-<sup>3</sup> L’OFEV propose aux Archives fédérales, conformément à la loi du 26 juin 1998 sur l’archivage[^134-7], les données personnelles dont il n’a plus besoin en vue de leur conservation. Les données jugées sans valeur archivistique par les Archives fédérales sont détruites.[^134-8]
+  l’OFEN transmet à l’OFEV les données nécessaires pour le contrôle:
+
+  - 1\. des rapports de suivi (art. 52 et 72), et
+  - 2\. des conventions d’objectifs (art. 67 et 68).
+
+<sup>2</sup> L’OFDF et l’Organisation suisse de stockage obligatoire pour carburants et combustibles liquides (Carbura) peuvent échanger des données pour l’exécution des dispositions relatives à la compensation des émissions de CO<sub>2</sub> des carburants.[^134-7]
+
+<sup>3</sup> L’OFEV propose aux Archives fédérales, conformément à la loi du 26 juin 1998 sur l’archivage[^134-8], les données personnelles dont il n’a plus besoin en vue de leur conservation. Les données jugées sans valeur archivistique par les Archives fédérales sont détruites.[^134-9]
 
 [^134-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^134-2]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^134-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^134-3]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^134-4]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^134-5]: Introduite par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^134-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^134-7]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
-[^134-8]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^134-6]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^134-7]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^134-8]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
+[^134-9]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 134a
 
@@ -3337,22 +4074,23 @@ Le DETEC adapte:
 - c. l’annexe 4*a*, ch. 2, pour la détermination annuelle du poids à vide moyen des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers, immatriculés pour la première fois au cours de l’année civile précédente;
 - c<sup>bis</sup>.[^135-3] l’annexe 5, pour la détermination annuelle des montants visés à l’art. 13, al. 1, de la loi sur le CO<sub>2</sub>;
 - c<sup>ter</sup>.[^135-4] l’annexe 6 lorsque les catégories d’installation sont modifiées en raison d’une réglementation internationale comparable;
-- d. l’annexe 7 lorsque d’autres secteurs économiques évoluent dans un cadre similaire;
-- d<sup>bis</sup>.[^135-5] l’annexe 9, ch. 1 et 4, lorsque le règlement d’exécution (UE) 2021/447 de la Commission du 12 mars 2021[^135-6] est modifié ou remplacé;
-- d<sup>ter</sup>.[^135-7] l’annexe 9, ch. 3, lorsque la décision déléguée (UE) 2019/708 de la Commission du 15 février 2019[^135-8] est modifiée ou remplacée;
+- d.[^135-5] …
+- d<sup>bis</sup>.[^135-6] l’annexe 9, ch. 1 et 4, lorsque le règlement d’exécution (UE) 2021/447 de la Commission du 12 mars 2021[^135-7] est modifié ou remplacé;
+- d<sup>ter</sup>.[^135-8] l’annexe 9, ch. 3, lorsque la décision déléguée (UE) 2019/708 de la Commission du 15 février 2019[^135-9] est modifiée ou remplacée;
 - e. l’annexe 11 selon l’augmentation du montant de la taxe (art. 94, al. 1);
-- f.[^135-9] l’annexe 14 lorsque le règlement (CE) n<sup>o</sup> 748/2009[^135-10] est modifié.
+- f.[^135-10] l’annexe 14 lorsque le règlement (CE) n<sup>o</sup> 748/2009[^135-11] est modifié.
 
 [^135-1]: Introduite par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-2]: Introduite par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-4]: Introduite par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^135-5]: Introduite par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^135-6]: Règlement d ’exécution (UE) 2021/447 de la Commission du 12 mars 2021 déterminant les valeurs révisées des référentiels pour l ’allocation de quotas d ’émission à titre gratuit pour la période 2021-2025, conformément à l ’art. 10*bis*, par. 2, de la directive 2003/87/CE du Parlement européen et du Conseil, version du JO L 87 du 15.3.2021, p. 29.
-[^135-7]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^135-8]: Décision déléguée (UE) 2019/708 de la Commission du 15 février 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne l ’établissement de la liste des secteurs et sous-secteurs considérés comme exposés à un risque de fuite de carbone pour la période 2021-2030, version du JO L 120 du 8.5.2019, p. 20.
-[^135-9]: Introduite par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^135-10]: Règlement (CE) n<sup>o</sup> 748/2009 de la Commission du 5 août 2009 concernant la liste des exploitants d’aéronefs ayant exercé une activité aérienne visée à l’annexe I de la directive 2003/87/CE à compter du 1<sup>er</sup> janvier 2006 et précisant l’État membre responsable de chaque exploitant d’aéronefs, JO L 219 du 22.8.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2023/838, JO L 108 du 21.4.2023, p. 1.
+[^135-5]: Abrogée par le ch. I de l’O du 2 avr. 2025, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^135-6]: Introduite par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^135-7]: Règlement d ’exécution (UE) 2021/447 de la Commission du 12 mars 2021 déterminant les valeurs révisées des référentiels pour l ’allocation de quotas d ’émission à titre gratuit pour la période 2021-2025, conformément à l ’art. 10*bis*, par. 2, de la directive 2003/87/CE du Parlement européen et du Conseil, version du JO L 87 du 15.3.2021, p. 29.
+[^135-8]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^135-9]: Décision déléguée (UE) 2019/708 de la Commission du 15 février 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne l ’établissement de la liste des secteurs et sous-secteurs considérés comme exposés à un risque de fuite de carbone pour la période 2021-2030, version du JO L 120 du 8.5.2019, p. 20.
+[^135-10]: Introduite par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^135-11]: Règlement (CE) n<sup>o</sup> 748/2009 de la Commission du 5 août 2009 concernant la liste des exploitants d’aéronefs ayant exercé une activité aérienne visée à l’annexe I de la directive 2003/87/CE à compter du 1<sup>er</sup> janvier 2006 et précisant l’État membre responsable de chaque exploitant d’aéronefs, JO L 219 du 22.8.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1030, JO L, 2024/1030, 5.4.2024.
 
 #### Art. 135a
 
@@ -3776,13 +4514,9 @@ L’art. 17*d*, al. 3, dans son ancienne version s’applique jusqu’au 31 déc
 
 #### Art. 146y
 
-**Droits d’émission pour les exploitants d’aéronefs**
+[^146y-1]
 
-<sup>1</sup> En dérogation à l’art. 46*e*, al. 3, l’OFEV ne garde pas en réserve chaque année une part des droits d’émission pour la mettre à la disposition des nouveaux exploitants d’aéronefs ou de ceux en forte croissance tant que la réserve spéciale visée à l’annexe IB de l’accord SEQE[^146y-1] contient suffisamment de droits d’émission.
-
-<sup>2</sup> Les droits d’émission qui ne sont pas attribués à titre gratuit en vertu de l’art. 46*f* pour les années 2020 à 2023 sont annulés.
-
-[^146y-1]: [RS 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
+[^146y-1]: Abrogé par le ch. I de l’O du 2 avr. 2025, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### Section 2*h* Dispositions transitoires relatives à la modification du 2 avril 2025
 
@@ -3958,9 +4692,9 @@ Annexe 2a[^t-3]
 
 (art. 5, al. 1, let. a)
 
-## Réductions d’émissions ou renforcement des prestations de puits de carbone réalisés à l’étranger ne pouvant pas faire l’objet d’attestations
+## Réductions d’émissions et renforcement des prestations de puits de carbone réalisés à l’étranger ne pouvant pas faire l’objet d’attestations
 
-[^t-3]: Introduite par le ch. II al. 1 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Mise à jour par le ch. II al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-3]: Introduite par le ch. II al. 1 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Mise à jour par le ch. II al. 1 des O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 \1. Aucune attestation internationale n’est délivrée pour un projet ou un programme réalisé à l’étranger si les réductions d’émissions ou le renforcement des prestations de puits de carbone sont obtenus:
 
@@ -3975,47 +4709,41 @@ Annexe 2a[^t-3]
 - i. en renonçant à l’extraction d’agents énergétiques fossiles;
 - j. par le biais d’activités incompatibles avec les accords que la Suisse a ratifiés dans les domaines de l’environnement et des droits de l’homme;
 - k. par le biais d’activités qui ont d’importantes conséquences néfastes sur la société ou l’environnement;
-- l. par le biais d’activités incompatibles avec la politique extérieure ou la politique de développement de la Suisse.
+- l. par le biais d’activités incompatibles avec la politique extérieure ou la politique de développement de la Suisse;
+- m. en ayant recours à du charbon végétal; l’utilisation dans les matériaux de construction constitue une exception, pour autant qu’une production durable du charbon végétal ainsi qu’un traitement écologiquement compatible des déchets de chantier soient garantis.
 
 \2. En cas d’activités dans le secteur des déchets prévoyant une utilisation énergétique différée des déchets, des attestations sont délivrées pour 55 % des réductions d’émissions à condition que l’utilisation énergétique ait effectivement lieu.
+
+\3. Aucune attestation internationale n’est délivrée pour un projet ou un programme réalisé à l’étranger si aucune consultation n’a été menée auprès des groupes d’intérêts concernés.
 
 Annexe 3[^t-4]
 
 (art. 5, al. 1, let. a)
 
-## Réductions d’émissions ou renforcement des prestations de puits de carbone réalisés en Suisse ne pouvant pas faire l’objet d’attestations
+## Réductions d’émissions et renforcement des prestations de puits de carbone réalisés en Suisse ne pouvant pas faire l’objet d’attestations
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Mise à jour par le ch. II al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 Aucune attestation nationale n’est délivrée pour un projet ou un programme réalisé en Suisse si les réductions d’émissions ou le renforcement des prestations de puits de carbone sont obtenus:
 
 - a. en ayant recours à l’énergie nucléaire;
-- b. par le biais de la recherche et du développement ou de l’information et du conseil;
-- c. en ayant recours à des biocombustibles ou à des biocarburants ne répondant pas aux exigences écologiques et sociales de l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^annex3-lvlu1-1] et des dispositions d’exécution correspondantes;
+- b. par le biais de la recherche et des technologies à des stades de développement précoces ou de l’information et du conseil;
+- c. en ayant recours à des combustibles et carburants renouvelables pour lesquels aucune garantie d’origine n’a été attribuée dans le système des garanties d’origine des combustibles et carburants;
 - d. par le remplacement d’agents énergétiques fossiles par des agents énergétiques fossiles (p. ex. dans des chaudières, véhicules ou véhicules hybrides);
-- e.
-
-  en ayant recours à l’hydrogène, sauf en cas d’utilisation:
-
-  - 1\. d’hydrogène issu de la biomasse ou d’agents énergétiques renouvelables autres que les biocarburants (art. 19*a*, let. f, de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^annex3-lvlu1-2]) qui satisfait aux exigences de l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^annex3-lvlu1-3],
-  - 2\. d’hydrogène issu de la biomasse ou d’autres agents énergétiques renouvelables qui satisfait aux exigences de l’art. 12*b* de la loi du 21 juin 1996 sur l’imposition des huiles minérales et n’est pas utilisé comme carburant;
-
-- f. par l’utilisation d’électricité en remplacement de combustibles pour la chaleur industrielle, sauf l’utilisation dans les pompes à chaleur;
+- e. …
+- f. par l’utilisation d’électricité en remplacement de combustibles pour la chaleur industrielle, sauf l’utilisation d’électricité dans les pompes à chaleur ou s’il est garanti que l’électricité utilisée est issue de sources d’énergies renouvelables;
 - g. par renoncement à l’utilisation ou par sous-utilisation;
 - h.
 
   en ayant recours à du charbon végétal, sauf:
 
-  - 1\. s’il est utilisé comme engrais en quantités inférieures à 8 t par hectare et par période de crédit et qu’il répond aux exigences de l’ordonnance du 10 janvier 2001 sur les engrais[^annex3-lvlu1-4], ou
-  - 2\. s’il est utilisé comme matériau de construction;
+  - 1\. s’il est utilisé comme engrais et qu’il répond aux exigences de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^annex3-lvlu1-1] en vigueur au moment du dépôt de la demande et respecte le taux d’épandage maximal annuel qui y est fixé, ou
+  - 2\. s’il est utilisé comme matériau de construction, pour autant qu’une production durable de charbon végétal soit assurée;
 
-- i. en ayant recours à des techniques d’adsorption et d’absorption pour la fourniture de froid ou de chaleur, sauf si celles-ci sont utilisées dans le cadre de l’utilisation décentralisée de rejets de chaleur au sens de l’art. 2, let. e, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex3-lvlu1-5] dont la disponibilité est suffisante.
+- i. en ayant recours à des techniques d’adsorption et d’absorption pour la fourniture de froid ou de chaleur, sauf si celles-ci sont utilisées dans le cadre de l’utilisation décentralisée de rejets de chaleur au sens de l’art. 2, let. e, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex3-lvlu1-2] dont la disponibilité est suffisante.
 
-[^annex3-lvlu1-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
-[^annex3-lvlu1-2]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
-[^annex3-lvlu1-3]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
-[^annex3-lvlu1-4]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^annex3-lvlu1-5]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^annex3-lvlu1-1]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annex3-lvlu1-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 Annexe 3a[^t-5]
 
@@ -4023,7 +4751,7 @@ Annexe 3a[^t-5]
 
 ## Exigences relatives au calcul des réductions d’émissions et au plan de suivi concernant les projets et les programmes en relation avec un réseau de chauffage à distance
 
-[^t-5]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Erratum du 10 nov. 2023 ([RO 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
+[^t-5]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par l’erratum du 10 nov. 2023 ([RO 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)) et le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248), [267](https://fedlex.data.admin.ch/eli/oc/2025/267)).
 
 ### 1 Champ d’application
 
@@ -4087,11 +4815,11 @@ où:
 - ESR<sub>nc,y</sub> Émissions du scénario de référence des nouveaux consommateurs au cours de l’année y [t éq.‑CO<sub>2</sub>]; cf. équation (2)
 - ESR<sub>ce,y</sub> Émissions du scénario de référence des consommateurs existants au cours de l’année y [t éq.‑CO<sub>2</sub>]; cf. équation (3)
 - ESR<sub>SEQE,y</sub> Paramètre destiné à éviter le double comptage des émissions du scénario de référence et de celles du SEQE; ce paramètre est égal à 0.
-- Si le projet s’approvisionne en chaleur auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués au cours de l’année y [t éq.‑CO<sub>2</sub>]; cette valeur est déterminée lors de la demande d’évaluation de l’adéquation du projet et ne change pendant la période de crédit que si des modifications du SEQE rendent une adaptation nécessaire.
+- Si le projet s’approvisionne en chaleur auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués pour cette quantité de chaleur fournie au cours de l’année y [t éq.‑CO<sub>2</sub>]; cette valeur est déterminée lors de la demande d’évaluation de l’adéquation du projet et ne change pendant la période de crédit que si des modifications du SEQE rendent une adaptation nécessaire.
 
 Les termes se calculent comme suit:
 
-*ESR**<sub>nc,y</sub>* *= ∑**<sub>i</sub>* *QC**<sub>nc,i,y</sub>* *\* FE**<sub>RC</sub>* (2)
+*ESR**<sub>nc,y</sub>* *= ∑**<sub>i</sub>* *QC**<sub>nc,i,y</sub>* *\* FE**<sub>RC</sub>*<sub>,y,z</sub> (2)
 
 où:
 
@@ -4104,7 +4832,12 @@ où:
   - – des bâtiments dont le chauffage est déjà neutre en CO<sub>2</sub> avant leur raccordement au réseau de chauffage à distance,
   - – des exploitants d’installations exemptés de la taxe sur le CO<sub>2</sub> en vertu de l’art. 96, al. 2.
 
-- FE<sub>RC</sub> Facteur d’émission global du réseau de chauffage à distance = 0,211 t éq.‑CO<sub>2</sub>/MWh.
+- FE<sub>RC,y,z</sub> Facteur d’émission global du réseau de chauffage à distance au cours de l’année y; ce facteur est calculé comme suit:
+- 5 &gt; y – z: 0,198 t éq.-CO<sub>2</sub>/MWh;
+- 5 ≤ y – z &lt; 9: 0,154 t éq.-CO<sub>2</sub>/MWh;
+- 9 ≤ y – z &lt; 14: 0,116 t éq.-CO<sub>2</sub>/MWh;
+- 14 ≤ y – z &lt; 20: 0,081 t éq.-CO<sub>2</sub>/MWh.
+- z Année civile au cours de laquelle a débuté la mise en œuvre du projet au sens de l’art. 5, al. 3
 
 *ESR**<sub>ce,y</sub>* *= ∑**<sub>k</sub>* *QC**<sub>ce,k,y</sub>**\* FE**<sub>ce</sub>* *\* FR**<sub>y</sub>**\*1/(1–WVN))* (3)
 
@@ -4138,7 +4871,7 @@ où:
 - FE<sub>gaz</sub> Facteur d’émission du gaz naturel visé à l’annexe 10 converti en t éq.‑CO<sub>2</sub>Nm<sup>3</sup> ou en t éq.‑CO<sub>2</sub>MWh en fonction de l’unité employée pour le Q<sub>gaz</sub>. Pour la conversion des t éq.‑CO<sub>2</sub>/TJ en t éq.‑CO<sub>2</sub>MWh, il convient d’utiliser le facteur 0,0036 TJ/MWh.
 - FE<sub>HC</sub> Le facteur d’émission de l’huile de chauffage vaut 2,65 t éq.‑CO<sub>2</sub>/1000 l.
 - EP<sub>SEQE,y</sub> Paramètre destiné à éviter le double comptage des émissions du scénario de référence et de celles du SEQE; ce paramètre est égal à 0.
-- Si le réseau de chauffage à distance s’approvisionne auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués au cours de l’année y [t éq.‑CO<sub>2</sub>]; cette valeur est déterminée chaque année dans le rapport de suivi; elle correspond aux droits d’émission délivrés à l’exploitant d’installations dans le SEQE.
+- Si le réseau de chauffage à distance s’approvisionne auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués pour cette quantité de chaleur fournie au cours de l’année y [t éq.‑CO<sub>2</sub>]; cette valeur est déterminée chaque année dans le rapport de suivi; elle correspond aux droits d’émission délivrés à l’exploitant d’installations dans le SEQE.
 - FE<sub>él</sub> Le facteur d’émission de l’électricité vaut 29,6 \* 10–6 t éq.‑CO<sub>2</sub>/kWh.
 
 ### 3.6 Calcul des réductions annuelles d’émissions
@@ -4214,7 +4947,7 @@ La mesure de l’énergie électrique (Q<sub>él,y</sub>) doit remplir les condi
 
 ### 4.7 Émissions du projet attendues: éviter les doubles comptages avec le SEQE (EP<sub>SEQE,y</sub>)
 
-\1. Si le projet s’approvisionne en chaleur auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués au cours de l’année y [t éq.‑CO<sub>2</sub>].
+\1. Si le projet s’approvisionne en chaleur auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués pour cette quantité de chaleur fournie au cours de l’année y [t éq.‑CO<sub>2</sub>].
 
 \2. Cette valeur est déterminée chaque année dans le rapport de suivi par les droits d’émission délivrés à l’exploitant d’installations dans le SEQE et peut, contrairement à ESR<sub>SEQE,y</sub> dans l’équation (1), être modifiée au cours de la période de crédit.
 
@@ -4263,7 +4996,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions des émissions de méthane
 
@@ -5101,11 +5834,17 @@ Annexe 12[^t-19]
 
 ## Utilisation directe de la géothermie pour la production de chaleur
 
-[^t-19]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) et le ch. III de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-19]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), le ch. III de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-### 1 Prospection et mise en valeur
+### 1 Définitions
 
-- 1\.1 La prospection comprend les analyses servant, d’une part, à caractériser le sous-sol d’un réservoir géothermique supposé et, d’autre part, à déterminer l’emplacement en surface et la cible d’un puits d’exploration.
+- 1\.1
+
+  La prospection comprend les analyses servant:
+
+  - – à caractériser indirectement ou directement le sous-sol d’un réservoir géothermique supposé, et
+  - – à déterminer l’emplacement en surface et la cible d’un puits d’exploration.
+
 - 1\.2 La mise en valeur comprend l’exploration au moyen de forages pour l’extraction de l’eau chaude et pour une éventuelle réinjection de l’eau extraite dans le réservoir géothermique.
 
 ### 2 Coûts d’investissement imputables
@@ -5122,7 +5861,7 @@ Annexe 12[^t-19]
 
   Sont imputables dans le cadre de la mise en valeur les coûts de réalisation, de planification et de gestion du projet ainsi que les prestations propres du requérant, pour autant qu’ils soient effectifs et indispensables à une réalisation économique et adéquate du projet et correspondant aux tâches suivantes:
 
-  - a. la préparation, la mise en place et la démolition du puits de forage;
+  - a. la préparation, la mise en place et la démolition de la place de forage;
   - b. les forages, y compris le tubage, la cémentation et l’achèvement de tous les puits de production, de réinjection et de surveillance prévus;
   - c. les travaux de stimulation de puits et de réservoirs;
   - d. les essais de puits;
@@ -5199,13 +5938,13 @@ Annexe 12[^t-19]
   - a. le programme détaillé de forage, d’achèvement, de diagraphie et de test de tous les forages prévus;
   - b. les calendriers et les estimations de coûts détaillés présentant des variations de 20 % au maximum;
   - c. les caractéristiques attendues du réservoir géothermique présumé, notamment la température dans le puits au niveau du réservoir et ses propriétés de transport;
-  - d. l’utilisation prévue des puits et du réservoir géothermique si les résultats ne correspondent pas aux attentes;
+  - d. les utilisations alternatives prévues des puits et du réservoir géothermique si les résultats ne correspondent pas aux attentes, incluant des concepts d’utilisations directes et indirectes et en précisant notamment leur impact économique;
   - e. les mesures prévues afin d’identifier les dangers et les risques pour la santé, la sécurité au travail et la sécurité de l’exploitation, l’environnement, en particulier pour les ressources en eau potable, ainsi que les mesures prévues pour réduire ces risques à un niveau aussi faible et raisonnablement praticable que possible;
   - f. les innovations prévues pour mettre en valeur de manière fiable et prometteuse les réservoirs géothermiques en Suisse;
   - g. l’importance des travaux de mise en valeur pour la recherche des ressources géothermiques du sous-sol suisse en vue de trouver des réservoirs géothermiques;
-  - h. la forme juridique prévue ainsi que le nom ou la raison de commerce de la société d’exploitation;
+  - h. la forme juridique prévue ainsi que le nom ou la raison de commerce de la société d’exploitation, son actionnariat et le taux de participation des actionnaires au capital;
   - i. le financement et les coûts administratifs des phases de mise en valeur, de construction, de développement, d’exploitation et de démantèlement;
-  - j. la valorisation du réservoir de chaleur ayant reçu un encouragement au moyen d’un concept d’utilisation, la description des acheteurs de chaleur prévus et leur intégration au projet, y compris les réductions attendues des émissions de CO<sub>2</sub>.
+  - j. la mise en valeur du réservoir géothermique au moyen d’un concept d’utilisation directe, la description des acheteurs de chaleur prévus et leur intégration au projet, y compris les réductions attendues des émissions de CO<sub>2</sub>.
 
 - 4\.3 Examen de la demande
 - 4\.3.1 L’OFEN nomme un représentant de swisstopo au sein du groupe d’experts indépendant notamment pour l’évaluation des composantes géoscientifiques du projet et de la plus-value pour la recherche de ressources géothermiques en Suisse.
@@ -5225,7 +5964,7 @@ Annexe 12[^t-19]
   - a. la température attendue du réservoir géothermique dans le puits au niveau du réservoir et ses propriétés de transport;
   - b. les délais pour les étapes du projet;
   - c. le montant de la contribution à la mise en valeur à accorder;
-  - d. le recours à un spécialiste indépendant en qualité d’accompagnateur du projet.
+  - d. la nomination d’un membre du groupe d’experts en tant que personne responsable de l’accompagnement du projet.
 
 - 4\.4 Contrat
 -
@@ -5242,7 +5981,7 @@ Annexe 12[^t-19]
 
 - 4\.5 Réalisation et achèvement du projet
 - 4\.5.1 Le responsable du projet effectue les travaux de mise en valeur prévus.
-- 4\.5.2 L’accompagnateur du projet suit le projet pendant les travaux de mise en valeur et évalue les résultats de ces travaux, notamment concernant la température et les propriétés de transport du réservoir géothermique. Pour remplir sa fonction, il peut faire appel au groupe d’experts. Il fait régulièrement rapport à l’OFEN et au groupe d’experts.
+- 4\.5.2 La personne nommée par le groupe d’experts en tant que responsable de l’accompagnement du projet suit le projet pendant les travaux de mise en valeur et évalue les résultats des travaux, notamment concernant la température et les propriétés de transport du réservoir géothermique. Pour remplir sa fonction, elle peut faire appel au groupe d’experts. Elle fait régulièrement rapport à l’OFEN et au groupe d’experts.
 - 4\.5.3 Si les étapes et les délais visés au ch. 4.4, let. a, ne sont pas respectés, l’OFEN peut résilier le contrat immédiatement.
 - 4\.5.4 Au plus tard six mois après l’achèvement des travaux de mise en valeur, le groupe d’experts évalue les résultats de ces travaux.
 - 4\.5.5 L’OFEN communique au responsable du projet le résultat de l’évaluation, notamment en ce qui concerne le réservoir géothermique.
@@ -5251,18 +5990,123 @@ Annexe 12[^t-19]
 
 - 5\.1 Le requérant met gratuitement à la disposition de swisstopo et du canton d’implantation, au plus tard six mois après leur relevé, les géodonnées correspondantes, conformément aux prescriptions techniques de swisstopo.
 - 5\.2 swisstopo peut utiliser et adapter ces géodonnées conformément aux objectifs de la loi du 5 octobre 2007 sur la géoinformation[^annex12-lvlu1-lvl5-1] et de l’ordonnance du 21 mai 2008 sur la géologie nationale[^annex12-lvlu1-lvl5-2], les cantons d’implantation peuvent le faire conformément à leur propre réglementation cantonale.
-- 5\.3 swisstopo met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public au plus tard 24 mois après l’achèvement de la prospection et dans les 12 mois suivant l’achèvement de la mise en valeur.
+- 5\.3
+
+  Il met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public après l’expiration des délais énumérés ci-après, qui commencent à courir à partir du relevé:
+
+  - a. en cas de prospection: 24 mois;
+  - b. en cas de mise en valeur: 12 mois.
 
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
-Annexe 13[^t-20]
+Annexe 12a[^t-20]
+
+(art. 112 à 113*b*)
+
+## Utilisation indirecte des ressources hydrothermales pour la production de chaleur
+
+[^t-20]: Introduite par le ch. II al. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+### 1 Définitions
+
+- La mise en valeur comprend le forage permettant de compléter la boucle géothermale pour une utilisation indirecte et qui permet l’extraction ou la réinjection de l’eau du réservoir géothermique.
+
+### 2 Coûts d’investissement imputables
+
+- 2\.1
+
+  Sont imputables dans le cadre de la mise en valeur pour une utilisation indirecte les coûts de réalisation, de planification et de gestion du projet ainsi que les prestations propres du requérant, pour autant qu’ils soient effectifs et indispensables à une réalisation économique et adéquate du projet et correspondant aux tâches suivantes:
+
+  - a. la préparation, la mise en place et la démolition de la place de forage;
+  - b. le forage, y compris le tubage, la cémentation et l’achèvement du puits de production ou de réinjection;
+  - c. les travaux de stimulation de puits et de réservoirs;
+  - d. les essais de puits;
+  - e. les diagraphies de puits, y compris l’instrumentation;
+  - f. les tests de circulation;
+  - g. les analyses des substances trouvées;
+  - h. l’accompagnement géologique, l’analyse des données et l’interprétation.
+
+- 2\.2 Les coûts de planification et de gestion du projet sont pris en compte jusqu’à concurrence de 15 % des coûts de réalisation imputables. Les coûts encourus avant le dépôt de la demande sont imputables.
+- 2\.3 Les prestations propres du requérant telles que ses prestations de planification ou de réalisation ne sont imputables que si elles sont usuelles et qu’elles peuvent être justifiées au moyen d’un rapport de travail détaillé.
+- 2\.4
+
+  Ne sont pas imputables:
+
+  - a. les coûts survenant dans le cadre de démarches administratives dans le contexte de la mise en valeur pour une utilisation indirecte;
+  - b. les coûts d’investissement pour la planification et la réalisation des installations de surface permettant l’utilisation indirecte, notamment la ou les pompes à chaleur.
+
+### 3 Procédure en vue d’obtenir un soutien pour la mise en valeur
+
+- 3\.1 Demande
+-
+
+  La demande doit comporter le rapport final sur l’exploration réalisée conformément à l’annexe 12 décrivant l’état de la situation et du puits d’exploration, ainsi que les caractéristiques de la ressource hydrothermale ciblée découverte, et expliquant les raisons rendant son utilisation directe planifiée impossible. Elle doit renseigner sur les aspects techniques, économiques, juridiques, relevant de la sécurité, de l’environnement et organisationnels du projet, en mettant clairement en exergue les différences avec le projet d’utilisation directe et notamment sur:
+
+  - a. le nouveau programme détaillé de forage, d’achèvement, de diagraphie et de test de tous les forages prévus;
+  - b. les calendriers et les estimations de coûts détaillés présentant des variations de 20 % au maximum;
+  - c. les caractéristiques attendues du réservoir géothermique, notamment la température dans le nouveau puits au niveau du réservoir et ses propriétés de transport ainsi que les incertitudes associées restantes;
+  - d. l’utilisation prévue des puits et du réservoir géothermique si les résultats ne correspondent pas aux attentes;
+  - e. les mesures prévues afin d’identifier les dangers et les risques pour la santé, la sécurité au travail et la sécurité de l’exploitation, l’environnement, en particulier pour les ressources en eau potable, ainsi que les mesures prévues pour réduire ces risques à un niveau aussi faible et raisonnablement praticable que possible;
+  - f. la forme juridique prévue ainsi que le nom ou la raison de commerce de la société d’exploitation, si différents lors de l’utilisation directe;
+  - g. le financement et les coûts administratifs des phases de mise en valeur, de construction, de développement, d’exploitation et de démantèlement, comprenant une liste des aides financières octroyées pour le projet original d’utilisation directe;
+  - h. la mise en valeur du réservoir géothermique au moyen d’un concept d’utilisation indirecte, les spécificités des pompes à chaleur, notamment le COP, la consommation et l’origine de l’électricité, la description des acheteurs de chaleur prévus et leur intégration au projet, y compris les réductions attendues des émissions de CO<sub>2</sub>.
+
+- 3\.2 Examen de la demande
+- 3\.2.1 L’OFEN nomme un représentant de swisstopo au sein du groupe d’experts indépendant notamment pour l’évaluation des composantes géoscientifiques du projet et de la plus-value pour la recherche de ressources géothermiques en Suisse.
+- 3\.2.2
+
+  Le groupe d’experts examine et évalue la demande sur la base des renseignements fournis conformément au ch. 3.1, et notamment:
+
+  - a. les propriétés attendues du réservoir géothermique, notamment la température dans le nouveau puits au niveau du réservoir et ses propriétés de transport;
+  - b. l’état d’avancement technique et qualitatif des travaux prévus;
+  - c. la gestion des risques pour la santé, la sécurité au travail, la sécurité de l’exploitation et l’environnement.
+
+- 3\.2.3
+
+  Si le groupe d’experts évalue positivement la demande, il émet notamment une recommandation à l’intention de l’OFEN concernant:
+
+  - a. la température attendue du réservoir géothermique dans le puits au niveau du réservoir et ses propriétés de transport;
+  - b. les délais pour les étapes du projet;
+  - c. le montant de la contribution à la mise en valeur à accorder;
+  - d. la nomination d’un membre du groupe d’experts en tant que personne responsable de l’accompagnement du projet.
+
+- 3\.3 Contrat
+-
+
+  Si la contribution à la mise en valeur peut être allouée, le contrat prévu à l’art. 113, al. 5, règle en particulier les points suivants:
+
+  - a. les étapes à atteindre et les délais à respecter par le requérant;
+  - b. le devoir d’information du requérant envers l’OFEN, notamment concernant les rapports financiers, les décomptes finaux et d’éventuelles modifications du projet;
+  - c. le volume, les conditions et les échéances de la contribution à la mise en valeur;
+  - d. sous réserve des monopoles cantonaux, la transmission à titre gratuit de l’installation à la Confédération et le droit d’emption de la Confédération sur le terrain dans le cas où un projet n’est pas poursuivi et ne fait pas l’objet d’une autre utilisation;
+  - e. la divulgation de toutes les données financières nécessaires au calcul des pertes ou des gains éventuels visés à l’art. 113*c*;
+  - f. les raisons entraînant la dissolution du contrat;
+  - g. d’autres charges.
+
+- 3\.4 Réalisation et achèvement du projet
+- 3\.4.1 Le responsable du projet effectue les travaux de mise en valeur prévus.
+- 3\.4.2 La personne nommée par le groupe d’experts en tant que responsable de l’accompagnement du projet suit le projet pendant les travaux de mise en valeur et évalue les résultats des travaux, notamment concernant la température et les propriétés de transport du réservoir géothermique. Pour remplir sa fonction, elle peut faire appel au groupe d’experts. Elle fait régulièrement rapport à l’OFEN et au groupe d’experts.
+- 3\.4.3 Si les étapes et les délais visés au ch. 3.3, let. a, ne sont pas respectés, l’OFEN peut résilier le contrat immédiatement.
+- 3\.4.4 Au plus tard six mois après l’achèvement des travaux de mise en valeur, le groupe d’experts évalue les résultats de ces travaux à l’intention de l’OFEN.
+- 3\.4.5 L’OFEN communique au responsable du projet le résultat de l’évaluation, notamment en ce qui concerne le réservoir géothermique.
+
+### 4 Géodonnées
+
+- 4\.1 Le requérant met gratuitement à la disposition de swisstopo et du canton d’implantation, au plus tard six mois après leur relevé, les géodonnées correspondantes, conformément aux prescriptions techniques de swisstopo.
+- 4\.2 swisstopo peut utiliser et adapter ces géodonnées conformément aux objectifs de la loi du 5 octobre 2007 sur la géoinformation[^annex12a-lvlu1-lvl4-1] et de l’ordonnance du 21 mai 2008 sur la géologie nationale[^annex12a-lvlu1-lvl4-2], les cantons d’implantation peuvent le faire conformément à leur propre réglementation cantonale.
+- 4\.3 Il met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public au terme d’un délai de douze mois qui commence à courir à partir du relevé.
+
+[^annex12a-lvlu1-lvl4-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex12a-lvlu1-lvl4-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
+
+Annexe 13[^t-21]
 
 (art. 46*d*, 46*g* et 53)
 
 ## Exploitants d’aéronefs tenus de participer au SEQE
 
-[^t-20]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 3 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) et le ch. II al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-21]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 3 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) et le ch. II al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 - 1\.
 
@@ -5307,13 +6151,13 @@ Annexe 13[^t-20]
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
-Annexe 14[^t-21]
+Annexe 14[^t-22]
 
 (art. 46*d*, al. 1 et 2, 51, al. 1, 2 et 4, 52, al. 1, 6 et 7, 53, al. 1 et 2, 55, al. 2, et 130, al. 1)
 
 ## Autorité compétente pour les participants au SEQE
 
-[^t-21]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-22]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Exploitants d’installations
 
@@ -5333,13 +6177,13 @@ Annexe 14[^t-21]
 
 [^annex14-lvlu1-lvl2-1]: Voir note de bas de page relative à l’art. 135, let. f.
 
-Annexe 15[^t-22]
+Annexe 15[^t-23]
 
 (art. 46*e*, 46*f* et 46*g*)
 
 ## Calcul de la quantité maximale de droits d’émission disponibles et de la quantité de droits d’émission attribués à titre gratuit pour les aéronefs
 
-[^t-22]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-23]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 - **1.** **Calcul de la quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs**
 - **1.1** **Base de calcul**
@@ -5423,13 +6267,13 @@ Annexe 15[^t-22]
 - **4.2** **Quantité de droits d’émission supplémentaires attribués à titre gratuit pour l’année 2025**
 - *Attribution**<sub>2025; RUP</sub>**°**= 0,848\*∑tkm**<sub>exploitantRUP</sub>* *\* Réf**<sub>2025</sub>*
 
-Annexe 16[^t-23]
+Annexe 16[^t-24]
 
 (art. 51)
 
 ## Exigences relatives au plan de suivi
 
-[^t-23]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-24]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### 1 Plan de suivi remis par les exploitants d’installations
 
@@ -5491,13 +6335,13 @@ Annexe 16[^t-23]
 
 [^annex16-lvlu1-lvl3-1]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12 2018, p. 82; modifiée en dernier lieu par la directive (UE) 2024/1711, JO L, 2024/1711, 26.6.2024.
 
-Annexe 17[^t-24]
+Annexe 17[^t-25]
 
 (art. 52)
 
 ## Exigences relatives au rapport de suivi
 
-[^t-24]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-25]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### 1 Rapport de suivi remis par les exploitants d’installations
 
@@ -5547,13 +6391,13 @@ Annexe 17[^t-24]
 
 [^annex17-lvlu1-lvl2-1]: Règlement d’exécution (UE) 2018/2066 de la Commission du 19 décembre 2018 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre au titre de la directive 2003/87/CE du Parlement européen et du Conseil et modifiant le règlement (UE) n<sup>o</sup> 601/2012 de la Commission, JO L 334 du 31.12.2018, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2493, JO L, 2024/2493, 27.9.2024.
 
-Annexe 18[^t-25]
+Annexe 18[^t-26]
 
 (art. 52)
 
 ## Vérification des rapports de suivi remis par les exploitants d’aéronefs et exigences à satisfaire par l’organisme de vérification
 
-[^t-25]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-26]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### 1 Obligations de l’organisme de vérification et de l’exploitant d’aéronefs
 
@@ -5598,13 +6442,13 @@ La vérification des rapports de suivi comprend les étapes suivantes:
 [^annex18-lvlu1-lvl4-2]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30; modifié en dernier lieu par le règlement (UE) 2019/1020, JO L 169 du 25.6.2019, p. 1.
 [^annex18-lvlu1-lvl4-3]: Règlement d’exécution (UE) 2018/2067 de la Commission du 19 décembre 2018 concernant la vérification des données et l’accréditation des vérificateurs conformément à la directive 2003/87/CE du Parlement européen et du Conseil, JO L 334 du 31.12.2018, p. 94; modifié en dernier lieu par le règlement d’exécution (UE) 2024/1321, JO L, 2024/1321, 13.5.2024.
 
-Annexe 19[^t-26]
+Annexe 19[^t-27]
 
 (art. 5, al. 2, 55, al. 1<sup>bis</sup>, et 66*a*, al. 2)
 
 ## Stockage et piégeage chimique du CO<sub>2</sub>
 
-[^t-26]: Introduite par le ch. II al. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-27]: Introduite par le ch. II al. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 Dans le cadre du stockage géologique ou du piégeage chimique du CO<sub>2</sub> capté, les exigences suivantes doivent être remplies:
 
