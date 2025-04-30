@@ -4,11 +4,11 @@ title: "Ordinanza del 7 marzo 2003 sull'organizzazione del Dipartimento federale
 short: OOrg-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: it
-version: 2025-04-01
+version: 2025-05-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/it"
 
 (OOrg-DDPS)
 
-del 7 marzo 2003 (Stato 1° aprile 2025)
+del 7 marzo 2003 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -348,9 +348,9 @@ All’Aggruppamento Difesa sono subordinati con le funzioni seguenti:
   - 1\. pianifica e gestisce le tecnologie dell’informazione e della comunicazione critiche per gli impieghi a favore dell’esercito nel quadro dell’istruzione, degli esercizi e degli impieghi,
   - 2\. pianifica e gestisce le tecnologie dell’informazione e della comunicazione critiche per gli impieghi a favore del Governo federale e della gestione nazionale delle crisi,
   - 3\. assicura la prontezza delle infrastrutture e delle truppe ai fini della salvaguardia della capacità di condotta dell’esercito a livello di tecnologie dell’informazione e della comunicazione,
-  - 4\. d’intesa con il settore Trasformazione digitale e governance delle TIC della Cancelleria federale può fornire prestazioni dal proprio catalogo delle prestazioni a favore dell’Amministrazione federale. In caso di divergenze la composizione delle controversie è retta dall’articolo 19 dell’ordinanza del 25 novembre 2020[^11-6] sulla trasformazione digitale e l’informatica,
+  - 4\.[^11-6] d’intesa con il settore Trasformazione digitale e governance delle TIC della Cancelleria federale può fornire prestazioni dal proprio catalogo delle prestazioni a favore dell’Amministrazione federale. In caso di divergenze la composizione delle controversie è retta dall’articolo 42 dell’ordinanza del 2 aprile 2025[^11-7] sulla digitalizzazione.
   - 5\. può fornire prestazioni a livello di tecnologie dell’informazione e della comunicazione per la salvaguardia della capacità di condotta di terzi, nella misura in cui sussista una relativa base legale,
-  - 6\. è competente per la ciberdifesa militare secondo l’ordinanza del 30 gennaio 2019[^11-7] sulla ciberdifesa militare;
+  - 6\. è competente per la ciberdifesa militare secondo l’ordinanza del 30 gennaio 2019[^11-8] sulla ciberdifesa militare;
 
 - e.
 
@@ -358,19 +358,20 @@ All’Aggruppamento Difesa sono subordinati con le funzioni seguenti:
 
   - 1\. è responsabile dell’istruzione militare di base nelle formazioni d’addestramento e nei centri di competenza a esso subordinati, nonché nell’Istruzione superiore dei quadri dell’esercito,
   - 2\. emana direttive in materia di istruzione per l’istruzione militare di base nell’esercito,
-  - 3\.[^11-8] è responsabile dell’istruzione degli ufficiali e dei sottufficiali di professione dell’esercito,
+  - 3\.[^11-9] è responsabile dell’istruzione degli ufficiali e dei sottufficiali di professione dell’esercito,
   - 4\. emana direttive per le persone soggette all’obbligo di prestare servizio militare nell’ambito del Personale dell’esercito,
-  - 5\.[^11-9] è responsabile del Servizio specializzato Donne nell’esercito e diversità.
+  - 5\.[^11-10] è responsabile del Servizio specializzato Donne nell’esercito e diversità.
 
 [^11-1]: Nuovo giusta l’all. 2 cifra II n. 2 dell’O del 29 mar. 2017 sulle strutture dell’esercito, in vigore dal 1° gen. 2018 ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
 [^11-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-3]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-4]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-5]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-6]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-7]: [RS 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
-[^11-8]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-9]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-6]: Nuovo testo giusta l’all. 2 cifra II n. 7 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^11-7]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^11-8]: [RS 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
+[^11-9]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-10]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 11a
 

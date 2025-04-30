@@ -4,11 +4,11 @@ title: "Ordonnance du 7 mars 2003 sur l'organisation du Département fédéral d
 short: Org-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: fr
-version: 2025-04-01
+version: 2025-05-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/fr"
 
 (Org-DDPS)
 
-du 7 mars 2003 (État le 1<sup>er</sup> avril 2025)
+du 7 mars 2003 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -349,9 +349,9 @@ Sont subordonnés au Groupement Défense avec les fonctions suivantes:
   - 1\. il planifie et assure le fonctionnement des techniques de l’information et de la communication indispensables aux engagements au profit de l’armée dans l’instruction, les exercices et les engagements,
   - 2\. il planifie et assure le fonctionnement des techniques de l’information et de la communication indispensables aux engagements au profit du gouvernement fédéral et de la gestion nationale des crises,
   - 3\. il assure la disponibilité des infrastructures et des troupes en matière d’information et de communication pour le maintien de la capacité de conduite de l’armée,
-  - 4\. il peut, en accord avec le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale, fournir des prestations dans son domaine de compétences en faveur de l’administration fédérale; en cas de différend, la procédure décrite à l’art. 19 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^11-6] s’applique,
+  - 4\.[^11-6] il peut, en accord avec le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale, fournir des prestations dans son domaine de compétences en faveur de l’administration fédérale; en cas de différend, la procédure décrite à l’art. 42 de l’ordonnance du 2 avril 2025 sur la numérisation[^11-7] s’applique,
   - 5\. il peut fournir des prestations dans le domaine des technologies de l’information et de la communication pour maintenir la capacité de conduite de tiers, dans la mesure où une base légale le prévoit,
-  - 6\. il est responsable de la cyberdéfense au sens de l’ordonnance du 30 janvier 2019 sur la cyberdéfense militaire[^11-7];
+  - 6\. il est responsable de la cyberdéfense au sens de l’ordonnance du 30 janvier 2019 sur la cyberdéfense militaire[^11-8];
 
 - e.
 
@@ -359,19 +359,20 @@ Sont subordonnés au Groupement Défense avec les fonctions suivantes:
 
   - 1\. il est responsable de l’instruction militaire de base dispensée par les formations d’application et les centres de compétences qui lui sont subordonnés et par la Formation supérieure des cadres de l’armée,
   - 2\. il édicte les directives concernant l’instruction pour l’instruction militaire de base à l’armée,
-  - 3\.[^11-8] il est responsable de l’instruction des officiers de carrière et des sous-officiers de carrière de l’armée,
+  - 3\.[^11-9] il est responsable de l’instruction des officiers de carrière et des sous-officiers de carrière de l’armée,
   - 4\. il édicte des directives dans le domaine Personnel de l’armée concernant les militaires astreints au service,
-  - 5\.[^11-9] il est responsable du service spécialisé Femmes dans l’armée et diversité.
+  - 5\.[^11-10] il est responsable du service spécialisé Femmes dans l’armée et diversité.
 
 [^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 29 mars 2017 sur les structures de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-4]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-6]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-7]: [RS 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
-[^11-8]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-9]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-6]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^11-7]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^11-8]: [RS 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
+[^11-9]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-10]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 11a
 

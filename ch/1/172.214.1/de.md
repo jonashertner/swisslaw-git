@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 7. März 2003 für das Eidgenössische Depar
 short: OV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: de
-version: 2025-04-01
+version: 2025-05-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20250401/de"
 
 (OV-VBS)
 
-vom 7. März 2003 (Stand am 1. April 2025)
+vom 7. März 2003 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -144,7 +144,7 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 Dem Generalsekretariat sind administrativ zugeordnet:
 
 - a. die Vertrauensstelle VBS;
-- [tab] b. und c.[^6-2] …
+- b. und c.[^6-2] …
 - d.[^6-3] die unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten;
 - e.[^6-4] die Interne Revision VBS;
 - f.[^6-5] …
@@ -348,9 +348,9 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
   - 1\. Es plant und betreibt die einsatzkritische Informations- und Kommunikationstechnik zugunsten der Armee in der Ausbildung, bei Übungen und in Einsätzen.
   - 2\. Es plant und betreibt die einsatzkritische Informations- und Kommunikationstechnik zugunsten der Landesregierung und des nationalen Krisenmanagements.
   - 3\. Es stellt die informations- und kommunikationstechnische Bereitschaft der Infrastrukturen und der Truppen zur Aufrechterhaltung der Führungsfähigkeit der Armee sicher.
-  - 4\. Es kann im Einvernehmen mit dem Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei Leistungen aus seinem Leistungskatalog zugunsten der Bundesverwaltung erbringen. Bei Differenzen erfolgt die Streitbeilegung in Anwendung von Artikel 19 der Verordnung vom 25. November 2020[^11-6] über die digitale Transformation und die Informatik.
+  - 4\.[^11-6] Es kann im Einvernehmen mit dem Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei Leistungen aus seinem Leistungskatalog zugunsten der Bundesverwaltung erbringen. Bei Differenzen erfolgt die Streitbeilegung nach Artikel 42 der Digitalisierungsverordnung vom 2. April 2025[^11-7].
   - 5\. Es kann informations- und kommunikationstechnische Leistungen zur Aufrechterhaltung der Führungsfähigkeit von Dritten erbringen, sofern dafür eine gesetzliche Grundlage besteht.
-  - 6\. Es ist zuständig für die militärische Cyberabwehr nach der Verordnung vom 30. Januar 2019[^11-7] über die militärische Cyberabwehr.
+  - 6\. Es ist zuständig für die militärische Cyberabwehr nach der Verordnung vom 30. Januar 2019[^11-8] über die militärische Cyberabwehr.
 
 - e.
 
@@ -358,19 +358,20 @@ Der Gruppe Verteidigung sind mit folgenden Funktionen unterstellt:
 
   - 1\. Es ist verantwortlich für die militärische Grundausbildung in den ihm unterstellten Lehrverbänden, in den Kompetenzzentren und in der Höheren Kaderausbildung in der Armee.
   - 2\. Es erlässt die Ausbildungsvorgaben für die militärische Grundausbildung in der Armee.
-  - 3\.[^11-8] Es ist verantwortlich für die Ausbildung der Berufsoffiziere und Berufsunteroffiziere der Armee.
+  - 3\.[^11-9] Es ist verantwortlich für die Ausbildung der Berufsoffiziere und Berufsunteroffiziere der Armee.
   - 4\. Es erlässt Vorgaben für die Militärdienstpflichtigen im Bereich Personelles der Armee.
-  - 5\.[^11-9] Es ist verantwortlich für die Fachstelle Frauen in der Armee und Diversity.
+  - 5\.[^11-10] Es ist verantwortlich für die Fachstelle Frauen in der Armee und Diversity.
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. II 2 der V vom 29. März 2017 über die Strukturen der Armee, in Kraft seit 1. Jan. 2018 ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
 [^11-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 [^11-5]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-6]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-7]: [SR 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
-[^11-8]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
-[^11-9]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-6]: Fassung gemäss Anhang 2 Ziff. II 7 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^11-7]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^11-8]: [SR 510.921](https://fedlex.data.admin.ch/eli/cc/2019/94)
+[^11-9]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^11-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 11a
 
