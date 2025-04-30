@@ -4,20 +4,22 @@ title: "Ordinanza del DATEC del 15 giugno 2016 concernente la prova dell'adempim
 short: OCarbR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/427"
 language: it
-version: 2016-08-01
+version: 2025-05-01
 adopted: 2016-06-15
 in_force: 2016-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/427/20160801/it/xml/fedlex-data-admin-ch-eli-cc-2016-427-20160801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/427/20160801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/427/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2016-427-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/427/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del DATEC concernente la prova dell’adempimento delle esigenze ecologiche dei biocarburanti
+# Ordinanza del DATEC concernente la prova dell’adempimento delle esigenze ecologiche dei carburanti rinnovabili
 
-(OBcarb)
+(OCarbR)[^t-1]
 
-del 15 giugno 2016 (Stato 1° agosto 2016)
+del 15 giugno 2016 (Stato 1° maggio 2025)
+
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -31,9 +33,10 @@ ordina:
 
 **Oggetto**
 
-La presente ordinanza disciplina i dettagli concernenti la prova dell’adempimento delle esigenze ecologiche dei biocarburanti che il richiedente deve fornire per beneficiare dell’agevolazione fiscale secondo l’articolo 12*b* della legge federale del 21 giugno 1996[^1-1] sull’imposizione degli oli minerali.
+La presente ordinanza disciplina i dettagli concernenti la prova dell’adempimento delle esigenze ecologiche dei carburanti rinnovabili[^1-1] che il richiedente deve fornire per beneficiare dell’agevolazione fiscale secondo l’articolo 12*b* della legge federale del 21 giugno 1996[^1-2] sull’imposizione degli oli minerali.
 
-[^1-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^1-1]: Nuova espr. giusta la cifra II dell’O del DATEC del 3 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 
 #### Art. 2
 
@@ -43,12 +46,12 @@ Per la prova dell’adempimento delle esigenze ecologiche secondo l’articolo 1
 
 #### Art. 3
 
-**Indicazioni concernenti il tipo e la qualità del biocarburante**
+**Indicazioni concernenti il tipo e la qualità del carburante rinnovabile**
 
 Il richiedente deve fornire indicazioni concernenti:
 
-- a. il tipo di biocarburante;
-- b. la qualità del biocarburante, indicando le norme riconosciute;
+- a. il tipo di carburante rinnovabile;
+- b. la qualità del carburante rinnovabile, indicando le norme riconosciute;
 - c. la biomassa utilizzata o gli altri agenti energetici rinnovabili impiegati per la produzione.
 
 #### Art. 4
@@ -75,7 +78,7 @@ In merito alla coltivazione e alla raccolta il richiedente deve fornire indicazi
 
 #### Art. 6
 
-**Indicazioni concernenti la produzione del biocarburante**
+**Indicazioni concernenti la produzione del carburante rinnovabile**
 
 In merito alla produzione il richiedente deve fornire indicazioni concernenti:
 
@@ -94,7 +97,7 @@ In merito alla produzione il richiedente deve fornire indicazioni concernenti:
 Il richiedente deve fornire indicazioni concernenti:
 
 - a. i luoghi di lavorazione;
-- b. i mezzi e le distanze di trasporto dal luogo di coltivazione delle materie prime fino al luogo in cui i consumatori acquistano il biocarburante.
+- b. i mezzi e le distanze di trasporto dal luogo di coltivazione delle materie prime fino al luogo in cui i consumatori acquistano il carburante rinnovabile.
 
 #### Art. 8
 
@@ -102,13 +105,13 @@ Il richiedente deve fornire indicazioni concernenti:
 
 <sup>1</sup> Le indicazioni di cui agli articoli 3–7 non devono essere fornite se il richiedente dimostra che il carburante è stato prodotto nel rispetto delle esigenze di una legislazione nazionale o di uno standard riconosciuto sul piano nazionale o internazionale, equivalenti alle esigenze ecologiche secondo l’articolo 19*c* OIOm. Se l’equivalenza è solo parziale, il richiedente deve fornire le indicazioni di cui agli articoli 3–7 necessarie per la verifica dell’adempimento delle esigenze ecologiche di cui all’articolo 19*c* OIOm.
 
-<sup>2</sup> Se, visti il tipo e la produzione del biocarburante, alcune indicazioni di cui agli articoli 3–7 non sono necessarie per la verifica dell’adempimento delle esigenze ecologiche di cui all’articolo 19*c* OIOm, dette indicazioni non devono essere fornite.
+<sup>2</sup> Se, visti il tipo e la produzione del carburante rinnovabile, alcune indicazioni di cui agli articoli 3–7 non sono necessarie per la verifica dell’adempimento delle esigenze ecologiche di cui all’articolo 19*c* OIOm, dette indicazioni non devono essere fornite.
 
 #### Art. 9
 
 **Bilancio relativo ai gas serra e al carico inquinante**
 
-<sup>1</sup> L’Ufficio federale dell’ambiente (UFAM) effettua un bilancio relativo ai gas serra e al carico inquinante sulla base delle indicazioni fornite e tenendo conto di valori standard sulla fase di consumo dei biocarburanti.
+<sup>1</sup> L’Ufficio federale dell’ambiente (UFAM) effettua un bilancio relativo ai gas serra e al carico inquinante sulla base delle indicazioni fornite e tenendo conto di valori standard sulla fase di consumo dei carburanti rinnovabili.
 
 <sup>2</sup>
 
@@ -138,7 +141,7 @@ Per effettuare il bilancio, utilizza in particolare:
 
 L’ordinanza del 3 aprile 2009[^11-1] sull’ecobilancio dei carburanti è abrogata.
 
-[^11-1]: [[RU 2009 1509](https://fedlex.data.admin.ch/eli/oc/2009/217), [2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)all. 9 n. 7]
+[^11-1]: [[RU 2009 1509](https://fedlex.data.admin.ch/eli/oc/2009/217); [2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)all. 9 n. 7]
 
 #### Art. 12
 
