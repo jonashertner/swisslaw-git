@@ -1,295 +1,145 @@
 ---
 canton: VS
 number: "801.100"
-title: Ordonnance sur la promotion de la santé et la prévention des maladies et des accidents
+title: Ordonnance sur la promotion de la santé et la prévention des maladies non-transmissibles et des accidents
 short: OPPS
 language: fr
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2024-11-06
+version: 2025-05-01
+version_adopted: 2025-04-23
 adopted: 2025-04-23
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/801.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3393/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3486/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur la promotion de la santé et la prévention des maladies et des accidents
+# Ordonnance sur la promotion de la santé et la prévention des maladies non-transmissibles et des accidents
 
 (OPPS)
 
-du 04.03.2009 (état 01.01.2025)
+du 23.04.2025 (état 01.05.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les dispositions de la loi sur la santé du 12 mars 2020 (LS), en particulier les articles 110 à 139;
+vu les dispositions de la loi sur la santé du 12 mars 2020 (LS), en particulier les articles 110 à 123 et 125 à 128;
 
-vu les dispositions de la loi sur les établissements et institutions sanitaires du 13 mars 2014 (LEIS), en particulier les articles 1, 3 à 9, 43 et 44;
+vu les dispositions de la loi sur les établissements et institutions sanitaires du 13 mars 2014 (LEIS), en particulier les articles 1, 6 à 9, 46 et 47;
 
 sur la proposition du département en charge de la santé,
 
 ordonne:
 
-## 1 Dispositions générales
-
 #### Art. 1
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance précise et complète les dispositions de la loi sur la santé (LS) et de la loi sur les établissements et institutions sanitaires (LEIS), concernant la promotion de la santé et la prévention des maladies et des accidents.
+<sup>1</sup> La présente ordonnance précise et complète des dispositions de la loi sur la santé (LS) et de la loi sur les établissements et institutions sanitaires (LEIS), concernant la promotion de la santé, la prévention des maladies, des accidents et des conduites addictives.
 
 <sup>2</sup> Elle a notamment pour objet:
 
-- a) l'éducation à la santé;
+- a) le développement des compétences individuelles en matière de santé;
 - b) la protection parentale et infantile;
-- c) la santé sexuelle et reproductive;
-- d) la médecine scolaire et la médecine dentaire scolaire;
-- e) la santé mentale;
-- f) la prévention du tabagisme, de l'alcoolisme, des toxicomanies et autres addictions;
-- g) la prévention des maladies transmissibles et infectieuses;
-- h) la prévention des maladies en progression significative;
-- i) la prévention des accidents;
-- j) la médecine et l'hygiène du travail.
+- c) la prévention des problèmes de santé liés au vieillissement;
+- d) la santé sexuelle et reproductive;
+- e) la santé scolaire et les soins dentaires scolaires;
+- f) la santé psychique;
+- g) la prévention des addictions et des conduites addictives;
+- h) la prévention des maladies non transmissibles et la prévention des accidents;
+- i) la promotion de la santé au travail;
+- j) le soutien aux proches aidants.
+
+<sup>3</sup> Le département en charge de la santé (ci-après: le département) veille à la coordination des projets et des programmes de prévention et de promotion de la santé entre les partenaires concernés.
 
 #### Art. 2
 
-**Définition**
+**Délégation à des organismes privés ou publics**
 
-<sup>1</sup> Au sens de la présente ordonnance, on entend par programme de promotion de la santé et de prévention des maladies et des accidents la conception et la réalisation de mesures concernant notamment:
+<sup>1</sup> Le département peut, par voie de convention, mandater, de façon temporaire ou à plus long terme, des organismes privés ou publics pour l'exécution des tâches de promotion de la santé et de prévention prévues à l'article 112 alinéa 2 LS.
 
-- a) l'information et l'éducation de la population sur les problèmes de santé et les moyens pour les prévenir;
-- b) le dépistage précoce des problèmes de santé;
-- c) le traitement préventif ou précoce des problèmes de santé;
-- d) l'aide et le conseil aux personnes directement concernées, notamment aux parents;
-- e) la recherche épidémiologique;
-- f) la formation et le perfectionnement des professionnels de la santé et des autres intervenants chargés de la promotion de la santé et de la prévention des maladies et des accidents.
+<sup>2</sup> Les conventions, soumises à l'approbation du Conseil d'Etat, précisent les modalités du mandat portant notamment sur:
 
-<sup>2</sup> Ces mesures doivent être conçues et réalisées dans une perspective interdisciplinaire et de manière coordonnée entre les partenaires publics et privés.
+- a) les tâches et les activités;
+- b) les compétences et les responsabilités;
+- c) le financement des dépenses retenues;
+- d) les dispositions particulières concernant la confidentialité.
+
+<sup>3</sup> Le département peut confier à une institution des tâches de coordination, d'analyse et d’évaluation en matière de promotion de la santé et de prévention.
 
 #### Art. 3
 
-**Rôle de l'Etat**
+**Commission cantonale pour la promotion de la santé**
 
-<sup>1</sup> Dans le cadre de la planification sanitaire, le Conseil d'Etat, par le Département dont relève la santé (ci-après: le Département), définit la politique cantonale de promotion de la santé et de prévention des maladies et des accidents.
+<sup>1</sup> Sur proposition du département, le Conseil d'Etat nomme pour une période de 4 ans les membres de la commission cantonale pour la promotion de la santé (ci-après: la commission), composée de représentants des milieux concernés par la promotion de la santé et la prévention. Elle est présidée par l'Office du médecin cantonal.
 
-<sup>2</sup> Le Département, en collaboration avec les autres départements concernés, a notamment les tâches suivantes:
+<sup>2</sup> En tant qu’organe consultatif, la commission propose périodiquement au Conseil d’Etat une stratégie cantonale de prévention et de promotion de la santé, incluant des axes d’intervention prioritaires et des objectifs.
 
-- a) élaboration périodique d'un inventaire de l'état de santé de la population;
-- b) élaboration d'un concept global de promotion de la santé et de prévention des maladies et des accidents en fixant périodiquement les priorités;
-- c) établissement et mise à jour d'une liste des institutions reconnues d'utilité publique;
-- d) coordination des programmes de promotion de la santé et de prévention des maladies et des accidents;
-- e) encouragement de la recherche dans ce domaine;
-- f) évaluation des programmes appliqués de promotion de la santé et de prévention des maladies et des accidents.
+<sup>3</sup> Elle évalue périodiquement la mise en œuvre de cette stratégie et peut proposer des recommandations ou des mesures qui lui paraissent nécessaires dans ces domaines.
+
+<sup>4</sup> La gestion administrative de la commission est assurée par le service en charge de la santé (ci-après: SSP) avec le soutien de Promotion santé Valais (ci-après: PSV).
 
 #### Art. 4
 
-**Délégation à des organismes privés ou publics**
+**Financement**
 
-<sup>1</sup> Le Département peut, par voie de convention, déléguer, de façon temporaire ou à plus long terme, à des organismes privés ou publics l'exécution des tâches de promotion de la santé et de prévention prévues à l'article 3 alinéa 2.
+<sup>1</sup> Les moyens nécessaires pour soutenir les programmes et les projets de promotion de la santé et de prévention sont prévus annuellement par voie budgétaire.
 
-<sup>2</sup> Les tâches déléguées sont exercées sous l'autorité et la responsabilité de l'Etat avec, au besoin, le soutien d'experts ou d'instituts universitaires mandatés par le Département.
-
-<sup>3</sup> Les conventions, soumises à l'approbation du Conseil d'Etat, précisent les modalités de la délégation portant notamment sur:
-
-- a) les compétences et les responsabilités;
-- b) les prestations à effectuer, leur qualité et leur adéquation;
-- c) la désignation des cadres et des responsables;
-- d) la mise à disposition du personnel;
-- e) la mise à disposition des infrastructures et des équipements;
-- f) le financement par l'Etat;
-- g) la communication, les rapports d'activités et les publications;
-- h) la protection des données personnelles, le respect du secret professionnel et de fonction.
+<sup>2</sup> Le financement de ces prestations est assuré notamment par le fonds pour la promotion cantonale de la santé, la dîme de l'alcool, les services de l'Etat porteurs de projets, ainsi que les moyens de tiers.
 
 #### Art. 5
 
-**Reconnaissance d'utilité publique**
+**Fonds pour la promotion cantonale de la santé**
 
-<sup>1</sup> Le Conseil d'Etat peut reconnaître le caractère d'utilité publique des institutions actives dans les domaines de la promotion de la santé et de la prévention qui:
+<sup>1</sup> Le fonds pour la promotion cantonale de la santé (ci-après: le fonds) prévu à l’article 115 LS est placé sous l’autorité et la responsabilité d’un comité de gestion désigné par le département. Ce comité, présidé par le médecin cantonal ou son adjoint, est composé de trois à cinq membres, notamment de représentants du SSP et de PSV.
 
-- a) respectent la planification sanitaire cantonale en la matière;
-- b) assument les tâches et les charges imposées par la planification;
-- c) ne poursuivent pas de but lucratif;
-- d) respectent la législation sanitaire;
-- e) respectent la législation sur les subventions;
-- f) produisent, en vue de la reconnaissance, les pièces demandées de cas en cas (telles que statuts, organigramme, situation financière, etc.) par le Département, lequel peut, au besoin, édicter des directives à ce sujet.
+<sup>2</sup> Les ressources et la fortune du fonds sont affectées exclusivement au soutien des programmes de promotion de la santé, de prévention des maladies, des accidents et des conduites addictives. La gestion administrative du fonds est assurée par PSV.
 
-<sup>2</sup> La reconnaissance d'utilité publique peut porter sur tout ou partie des activités des institutions concernées.
+<sup>3</sup> Le comité de gestion édicte un règlement, soumis à l’approbation du département, précisant les modalités de fonctionnement, d’utilisation et de contrôle du fonds.
 
-<sup>3</sup> La reconnaissance d'utilité publique peut être suspendue ou retirée en tout temps notamment lorsque les conditions précitées ne sont plus remplies.
-
-<sup>4</sup> Si une institution subventionnée n'est plus reconnue d'utilité publique, le Conseil d'Etat peut demander la restitution de la subvention conformément à l'article 5 LEIS.
-
-<sup>5</sup> Les demandes d'octroi de la reconnaissance d'utilité publique et les cas de suspension ou de retrait sont traités par le Département qui peut les soumettre, pour préavis, à la commission de promotion de la santé.
+<sup>4</sup> Le fond apparaît au bilan de l'Etat du Valais.
 
 #### Art. 6
 
-**Commission de promotion de la santé**
+**Statistiques**
 
-<sup>1</sup> La Commission de promotion de la santé (ci-après: la commission) est l'organe consultatif du Conseil d'Etat pour l'élaboration de la politique cantonale de promotion de la santé et de prévention des maladies et des accidents.
-
-<sup>2</sup> Sur proposition du Département, le Conseil d'Etat nomme pour une période de quatre ans les membres de la commission, composée de 9 à 13 membres représentant les milieux concernés par la promotion de la santé et la prévention.
+<sup>1</sup> Le département règle, en collaboration avec les partenaires concernés, l'établissement, l'analyse, la livraison et la publication des statistiques et des données que requiert l'application de la présente ordonnance.
 
 #### Art. 7
 
-**Attributions et fonctionnement**
+**Contrôle de l'Etat**
 
-<sup>1</sup> La commission veille à l’élaboration et à la mise en oeuvre de la politique de promotion de la santé et de prévention. Elle peut également proposer les mesures qui lui paraissent nécessaires dans ces domaines.
+<sup>1</sup> Les organismes publics ou privés qui réalisent des programmes ou des projets de promotion de la santé et de prévention subventionnés font l'objet de contrôles de la part du département portant sur le respect des tâches, le budget, les comptes et l'affectation des subventions.
 
-<sup>2</sup> Le Département peut confier, par voie de convention, à Promotion Santé Valais (ci-après: PSV) ou à une autre institution analogue le secrétariat des activités de la commission ainsi que d'autres tâches de coordination et d'exécution en matière de promotion de la santé et de prévention.
-
-<sup>3</sup> Le Département veille à ce que les activités de la commission soient coordonnées avec celles de la commission de planification sanitaire.
+<sup>2</sup> Sur proposition du département, le Conseil d'Etat réduit, suspend ou supprime les subventions aux organismes publics ou privés si les contrôles effectués révèlent des violations des dispositions de la législation.
 
 #### Art. 8
 
-**Financement**
+**Prévention des addictions et des conduites addictives**
 
-<sup>1</sup> Les moyens nécessaires pour soutenir les programmes de promotion de la santé et de prévention, en particulier ceux considérés comme des priorités de santé publique par la commission sont prévus annuellement par voie budgétaire.
+<sup>1</sup> Les programmes et projets de prévention des addictions et des conduites addictives relèvent notamment de la compétence du service en charge de la santé.
 
-<sup>2</sup> Ces moyens sont notamment assurés par un montant annuel prélevé sur la dîme de l'alcool, par des ressources provenant du fonds cantonal pour la promotion de la santé et de la prévention des maladies ainsi que par d'autres moyens.
-
-<sup>3</sup> Le Département subventionne des programmes de promotion de la santé et de prévention réalisés par des organismes publics ou privés reconnus d'intérêt public qui remplissent les conditions légales de subventionnement selon les modalités fixées par le Département dans les conventions passées avec ces organismes conformément à l'article 4 alinéa 3 de la présente ordonnance.
+<sup>2</sup> Les activités de dépistage, d’intervention précoce et de traitement des addictions et des conduites addictives relèvent d’autres organismes, notamment du domaine social.
 
 #### Art. 9
 
-**Fonds cantonal pour la promotion de la santé et la prévention des maladies**
+**Prophylaxie dentaire et dépistage scolaire**
 
-<sup>1</sup> Le fonds cantonal pour la promotion de la santé et la prévention des maladies (ci-après: le fonds) prévu à l’article 98 LS est placé sous l’autorité et la responsabilité d’un comité de gestion désigné par le Département. Ce comité, présidé par le médecin cantonal, est composé notamment de représentants de PSV et de l’Etat du Valais.
+<sup>1</sup> La prophylaxie dentaire et le dépistage scolaire ont pour objet la promotion des mesures propres à améliorer l'hygiène dentaire des élèves et la prévention contre les maladies des dents, de la gencive et des malformations dont ils pourraient souffrir.
 
-<sup>2</sup> Les ressources et la fortune du fonds sont affectées exclusivement au soutien des programmes de promotion de la santé et de prévention des maladies et des accidents.
+<sup>2</sup> Le département peut confier les tâches de prophylaxie dentaire et le dépistage scolaire, par voie de convention, à un organisme public ou privé.
 
-<sup>3</sup> Le comité de gestion édicte un règlement, soumis à l’approbation du Département, précisant les modalités de fonctionnement, d’utilisation et de contrôle du fonds.
-
-<sup>4</sup> Le fonds apparaît au bilan de l'Etat du Valais.
+<sup>3</sup> Les frais relatifs à la prophylaxie dentaire et au dépistage scolaire incombent au canton. Les modalités de collaboration et de financement sont réglées par voie de convention.
 
 #### Art. 10
 
-**Statistiques**
+**Soins conservateurs et traitements orthodontiques en faveur de la jeunesse**
 
-<sup>1</sup> Le Département règle, en collaboration avec les partenaires concernés, l'établissement, l'analyse et la publication des statistiques que requiert l'application de la présente ordonnance.
+<sup>1</sup> Les soins conservateurs et traitements orthodontiques sont mis en œuvre par l’Association pour la prophylaxie et les soins dentaires à la jeunesse (ci-après: l’Association).
 
-#### Art. 11
+<sup>2</sup> Les modalités de collaboration entre la Société valaisanne des médecins-dentistes, l'Association et les communes sont fixées par voie de règlement soumis à l'approbation du département.
 
-**Contrôle de l'Etat**
+<sup>3</sup> Le ou les représentants légaux qui choisissent de faire traiter leurs enfants dans le cadre des soins dentaires scolaires, conformément au mode d’organisation des soins dans la région, prennent en charge le 60 pour cent des frais engendrés par les soins courants et les traitements orthodontiques, franchises et plafonds éventuels en sus. Le solde est pris en charge par les communes. Celles-ci restent libres d’augmenter leur participation.
 
-<sup>1</sup> Les organismes privés ou publics qui réalisent des programmes de promotion de la santé et de prévention subventionnés font l'objet de contrôles de la part du Département portant sur le respect des tâches déléguées, le budget, les comptes et l'affectation des subventions.
+<sup>4</sup> Les subventions relatives aux soins conservateurs sont versées pour les traitements effectués dès la naissance et jusqu’au 31 décembre des 18 ans de l'enfant. Les subventions relatives aux soins orthodontiques sont versées dès le début du traitement et jusqu'à la fin de la scolarité obligatoire. Les modalités de paiement et les conditions de subventionnement sont fixées par convention entre les communes et l’Association.
 
-<sup>2</sup> Sur proposition du Département, le Conseil d'Etat réduit, suspend ou supprime les subventions aux organismes reconnus d'utilité publique si les contrôles effectués révèlent des violations des dispositions de la législation sur le subventionnement des établissements et institutions sanitaires telles que précisées dans la présente ordonnance et dans les conventions qu'elle prévoit.
-
-## 2 Dispositions spécifiques
-
-#### Art. 12
-
-**Education à la santé**
-
-<sup>1</sup> L'éducation à la santé a pour but de développer la responsabilité individuelle et collective dans le domaine du bien-être physique, psychique et social.
-
-<sup>2</sup> Elle commence dès l'enfance et s'adresse à l'ensemble de la population.
-
-<sup>3</sup> La mise en oeuvre des programmes d'éducation à la santé qui concernent les enfants et les adolescents fait l'objet d'une coordination entre les Départements compétents.
-
-#### Art. 13
-
-**Protection parentale et infantile**
-
-<sup>1</sup> La protection parentale et infantile est régie par les dispositions légales fédérales et cantonales spécifiques.
-
-<sup>2</sup> Elle se réalise en particulier sous la forme d'aide et de conseil aux parents et aux familles, d'examens de contrôles et de mesures visant à prévenir toute forme de maltraitance.
-
-<sup>3</sup> Elle fait l'objet d'une coordination entre les Départements compétents.
-
-#### Art. 14
-
-**Santé sexuelle et reproductive**
-
-<sup>1</sup> La santé sexuelle et reproductive est régie par les dispositions légales fédérales et cantonales spécifiques.
-
-<sup>2</sup> L'Etat soutient les mesures d'information et d'éducation sexuelle et de planning familial.
-
-<sup>3</sup> La réalisation de ces mesures fait l'objet d'une coordination entre les Départements compétents.
-
-<sup>4</sup> Le Conseil d'Etat définit les lignes directrices de l'éducation en matière de santé sexuelle et reproductive.
-
-#### Art. 15
-
-**Médecine scolaire**
-
-<sup>1</sup> La médecine scolaire a pour objet le maintien et la promotion de la santé des élèves et la prévention des atteintes à leur santé.
-
-<sup>2</sup> La médecine scolaire est mise en oeuvre conformément aux directives annuelles établies conjointement par les départements compétents, en collaboration avec la Société médicale du Valais.
-
-<sup>3</sup> La coordination générale des activités de médecine scolaire peut être confiée par le Département à un organisme public ou privé par voie de convention.
-
-#### Art. 16
-
-**Médecine dentaire scolaire a) Objet**
-
-<sup>1</sup> La médecine dentaire scolaire a pour objet la promotion des mesures propres à améliorer l'hygiène dentaire des élèves et la prévention contre les maladies des dents, de la gencive et des malformations dont ils pourraient souffrir.
-
-#### Art. 17
-
-**b) Association**
-
-<sup>1</sup> L'L’Association valaisanne pour la prophylaxie et les soins dentaires à la jeunesse (ci-après: l’Association) remplit les tâches de prophylaxie, de traitements et soins dentaires ainsi que de gestion que lui confie, par voie de conventions, le Département et les communes dans le cadre de la politique de promotion de la santé et de la prévention des maladies et des accidents.
-
-<sup>2</sup> La médecine dentaire scolaire est mise en œuvre conformément aux directives établies conjointement par les Départements compétents, respectivement par les communes, en collaboration avec la Société valaisanne des médecins-dentistes. Ces directives porteront notamment sur les critères de prise en charge par l’Etat des mesures préventives et par les communes des mesures thérapeutiques.
-
-#### Art. 18
-
-**c) Subventions**
-
-<sup>1</sup> Les frais relatifs à la prophylaxie incombent entièrement au canton. Les modalités de paiement sont réglées par voie de convention entre les départements compétents et l’Association.
-
-<sup>2</sup> Les parents qui choisissent de faire traiter leurs enfants dans le cadre de la médecine dentaire scolaire, conformément au mode d’organisation des soins dans la région, prennent en charge le 60 pour cent des frais engendrés par les soins courants et les traitement orthodontiques, franchises et plafonds éventuels en sus. Le solde est pris en charge par les communes. Celles-ci restent libres d’augmenter leur participation.
-
-<sup>3</sup> Les subventions relatives aux soins conservateurs sont versées pour les traitements effectués dès la naissance et jusqu’au 31 décembre des 18 ans de l'enfant. Les subventions relatives aux soins orthodontiques sont versées dès le début du traitement et jusqu'à la fin de la scolarité obligatoire. Les modalités de paiement et les conditions de subventionnement sont fixées par convention entre les communes et l’Association.
-
-<sup>4</sup> …
-
-#### Art. 19
-
-**…**
-
-#### Art. 20
-
-**Santé mentale**
-
-<sup>1</sup> La promotion de la santé mentale et la prévention des maladies mentales relèvent des institutions prévues dans les dispositions légales spécifiques sur les établissements et institutions de santé mentale.
-
-<sup>2</sup> Demeure réservée l'application des dispositions générales de la présente ordonnance.
-
-#### Art. 21
-
-**Prévention du tabagisme, de l'alcoolisme, des toxicomanies et autres addictions**
-
-<sup>1</sup> La prévention du tabagisme, de l'alcoolisme, des toxicomanies et des autres addictions relève des institutions prévues dans les dispositions légales spécifiques en la matière.
-
-<sup>2</sup> Demeure réservée l'application des dispositions générales de la présente ordonnance.
-
-#### Art. 22
-
-**Prévention des maladies transmissibles**
-
-<sup>1</sup> La prévention des maladies transmissibles et infectieuses est prévue dans les dispositions cantonales d'exécution de la législation fédérale concernant les maladies transmissibles.
-
-#### Art. 23
-
-**Maladies en progression significative**
-
-<sup>1</sup> Le Département peut confier, par voie de convention, à des organismes ou institutions spécialisées comme la Ligue valaisanne contre le cancer ou d'autres institutions analogues des tâches d'exécution et de coordination des programmes de prévention dans le domaine des maladies au développement important telles que le cancer et les maladies cardio-vasculaires.
-
-#### Art. 24
-
-**Médecine et hygiène du travail**
-
-<sup>1</sup> Le Département collabore avec les services concernés pour l'application des dispositions du droit fédéral ou de conventions intercantonales relatives à la médecine et à l'hygiène du travail.
-
-## 3 Dispositions finales
-
-#### Art. 25
-
-**Dispositions finales**
-
-<sup>1</sup> La présente ordonnance sera publiée au Bulletin officiel; elle entre en vigueur en même temps que la loi sur la santé du 14 février 2008 et abroge à cette date toutes les dispositions contraires notamment l'ordonnance sur la promotion de la santé et la prévention des maladies et des accidents du 26 mars 1997.
-
-RCV RO/AGS 2009 f 190, 347 | d 200, 363
+RCV RO/AGS 2025-047

@@ -1,295 +1,145 @@
 ---
 canton: VS
 number: "801.100"
-title: "Verordnung über die Gesundheitsförderung und die Verhütung von Krankheiten und Unfällen *"
+title: Verordnung über die Gesundheitsförderung und die Verhütung von nichtübertragbaren Krankheiten und Unfällen
 short: VVGF
 language: de
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2024-11-06
+version: 2025-05-01
+version_adopted: 2025-04-23
 adopted: 2025-04-23
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/801.100"
-pdf: "https://lex.vs.ch/api/de/versions/3393/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gesundheitsförderung und die Verhütung von Krankheiten und Unfällen
+# Verordnung über die Gesundheitsförderung und die Verhütung von nichtübertragbaren Krankheiten und Unfällen
 
 (VVGF)
 
-vom 04.03.2009 (Stand 01.01.2025)
+vom 23.04.2025 (Stand 01.05.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Bestimmungen des Gesundheitsgesetzes vom 12. März 2020 (GG), insbesondere die Artikel 110 bis 139;
+eingesehen die Bestimmungen des Gesundheitsgesetzes vom 12. März 2020 (GG), insbesondere die Artikel 110 bis 123 und 125 bis 128;
 
-eingesehen die Bestimmungen des Gesetzes über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI), insbesondere die Artikel 1, 3 bis 9, 43 und 44;
+eingesehen die Bestimmungen des Gesetzes über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI), insbesondere die Artikel 1, 6 bis 9, 46 und 47;
 
 auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
-## 1 Allgemeine Bestimmungen
-
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Die vorliegende Verordnung präzisiert und ergänzt die Bestimmungen des Gesundheitsgesetzes (GG) und des Gesetzes über die Krankenanstalten und -institutionen (GKAI) hinsichtlich der Gesundheitsförderung und der Verhütung von Krankheiten und Unfällen.
+<sup>1</sup> Die vorliegende Verordnung präzisiert und ergänzt Bestimmungen des Gesundheitsgesetzes (GG) und des Gesetzes über die Krankenanstalten und -institutionen (GKAI) hinsichtlich der Gesundheitsförderung, der Verhütung von Krankheiten und Unfällen, und der Suchtverhaltens.
 
 <sup>2</sup> Sie hat namentlich zum Inhalt:
 
-- a) die Gesundheitserziehung;
+- a) die Entwicklung der individuellen Gesundheitskompetenz;
 - b) den Schutz von Eltern und Kind;
-- c) die sexuelle und reproduktive Gesundheit;
-- d) die schulärztliche Tätigkeit und die Schulzahnpflege;
-- e) die psychische Gesundheit;
-- f) die Verhütung von Tabakmissbrauch, Alkoholismus, Drogenabhängigkeit und anderen Suchtkrankheiten;
-- g) die Verhütung von übertragbaren Krankheiten und Infektionskrankheiten;
-- h) die Verhütung von anderen Krankheiten, deren Verbreitung stark zunimmt;
-- i) die Unfallverhütung;
-- j) die Arbeitsmedizin und die Arbeitshygiene.
+- c) die Prävention altersbedingter Gesundheitsprobleme;
+- d) die sexuelle und reproduktive Gesundheit;
+- e) die Schulgesundheit und die Schulzahnpflege;
+- f) die psychische Gesundheit;
+- g) die Sucht- und Suchtverhaltensprävention;
+- h) die Verhütung nichtübertragbarer Krankheiten und die Unfallverhütung;
+- i) die betriebliche Gesundheitsförderung;
+- j) die Unterstützung der betreuenden Angehörigen.
+
+<sup>3</sup> Das für die Gesundheit zuständige Departement (nachfolgend: das Departement) sorgt für die Koordination der Projekte und Programme zur Verhütung und Gesundheitsförderung zwischen den beteiligten Partnern.
 
 #### Art. 2
 
-**Definition**
+**Delegierung an private oder öffentliche Organisationen**
 
-<sup>1</sup> Programme zur Förderung der Gesundheit und zur Verhütung von Krankheiten und Unfällen im Sinne der vorliegenden Verordnung haben die Erarbeitung und Verwirklichung von Massnahmen, insbesondere in den nachstehend aufgeführten Bereichen, zum Inhalt:
+<sup>1</sup> Das Departement kann die Erfüllung von bestimmte Aufgaben der Gesundheitsförderung und der Prävention, die in Artikel 112 Absatz 2 GG vorgesehen sind, auf dem Vereinbarungsweg vorübergehend oder langfristig an private oder öffentliche Organisationen beauftragen.
 
-- a) Information und Erziehung der Bevölkerung in Bezug auf Gesundheitsprobleme und Mittel zu deren Verhütung;
-- b) frühzeitige Erkennung von Gesundheitsproblemen;
-- c) präventive oder frühzeitige Behandlung von Gesundheitsproblemen;
-- d) Unterstützung und Beratung der direkt betroffenen Personen, insbesondere der Eltern;
-- e) epidemiologische Forschung;
-- f) Aus- und Weiterbildung der Gesundheitsfachpersonen und anderer Personen, die sich mit der Förderung der Gesundheit und der Verhütung von Krankheiten und Unfällen befassen.
+<sup>2</sup> Die Vereinbarungen, die der Genehmigung durch den Staatsrat unterliegen, präzisieren die Modalitäten des Mandats, das insbesondere die folgenden Punkte umfasst:
 
-<sup>2</sup> Bei der Erarbeitung und Verwirklichung dieser Massnahmen ist die Interdisziplinarität und die Koordination zwischen den öffentlichen und den privaten Partnern zu beachten.
+- a) die Aufgaben und die Aktivitäten;
+- b) die Zuständigkeiten und Verantwortlichkeiten;
+- c) die Finanzierung der ausgewählten Ausgaben;
+- d) die besondere Bestimmungen zur Vertraulichkeit.
+
+<sup>3</sup> Das Departement kann eine andere Institution mit Koordinations-, Analyse- und Evaluationsaufgaben im Bereich der Gesundheitsförderung und Prävention anvertrauen.
 
 #### Art. 3
 
-**Aufgaben des Staates**
+**Kantonale Kommission für Gesundheitsförderung**
 
-<sup>1</sup> Im Rahmen der Gesundheitsplanung definiert der Staatsrat über das Departement, dem das Gesundheitswesen zugewiesen ist (nachstehend: das Departement), die kantonale Politik im Bereich der Gesundheitsförderung und der Verhütung von Krankheiten und Unfällen.
+<sup>1</sup> Auf Antrag des Departements ernennt der Staatsrat für eine Amtszeit von 4 Jahren die Mitglieder der kantonaler Kommission für Gesundheitsförderung (nachstehend: die Kommission), welche die von der Gesundheitsförderung und der Prävention betroffenen Kreise vertreten. Sie wird vom Kantonsarztamt präsidiert.
 
-<sup>2</sup> Das Departement hat in Zusammenarbeit mit den anderen betroffenen Departementen insbesondere die folgenden Aufgaben:
+<sup>2</sup> Als beratendes Organ schlägt die Kommission dem Staatsrat periodisch eine kantonale Strategie zur Gesundheitsförderung und Prävention entschliessend Interventionsschwerpunkte und Ziele vor.
 
-- a) periodische Erarbeitung eines Inventars über den Gesundheitszustand der Bevölkerung;
-- b) Erarbeitung eines umfassenden Konzepts für die Gesundheitsförderung und die Verhütung von Krankheiten und Unfällen, mit periodischer Neufestsetzung der Prioritäten;
-- c) Erarbeitung und Aktualisierung einer Liste der als gemeinnützig anerkannten Institutionen;
-- d) Koordinierung der Programme zur Gesundheitsförderung und zur Verhütung von Krankheiten und Unfällen;
-- e) Förderung der Forschung in diesem Bereich;
-- f) Evaluation der verwirklichten Programme zur Gesundheitsförderung und zur Verhütung von Krankheiten und Unfällen.
+<sup>3</sup> Sie evaluiert periodisch die Umsetzung dieser Strategie und kann auch Handlungsprioritäten oder Massnahmen vorschlagen, die sie in diesen Bereichen für notwendig erachtet.
+
+<sup>4</sup> Die administrative Verwaltung der Kommission wird von der für die Gesundheit zuständige Dienststelle (nachfolgend: DGW) in Zusammenarbeit mit Gesundheitsförderung Wallis (nachfolgend: GFW) sichergestellt.
 
 #### Art. 4
 
-**Delegierung an private oder öffentliche Organisationen**
+**Finanzierung**
 
-<sup>1</sup> Das Departement kann die Erfüllung von Aufgaben der Gesundheitsförderung und der Prävention, die in Artikel 3 Absatz 2 vorgesehen sind, auf dem Vereinbarungsweg vorübergehend oder langfristig an private oder öffentliche Organisationen delegieren.
+<sup>1</sup> Die notwendigen Mittel zur Unterstützung der Programme und Projekte der Gesundheitsförderung und der Prävention sind alljährlich im Budget vorgesehen.
 
-<sup>2</sup> Die delegierten Aufgaben werden unter der Aufsicht und Verantwortlichkeit des Staates ausgeführt, nötigenfalls mit der Unterstützung von Experten oder Universitätsinstituten, die vom Departement dafür beauftragt wurden.
-
-<sup>3</sup> Die Vereinbarunegn, die der Genehmigung durch den Staatsrat unterliegen, präzisieren die Modalitäten der Delegierung, die insbesondere die folgenden Punkte umfasst:
-
-- a) die Zuständigkeiten und Verantwortlichkeiten;
-- b) die zu erbringenden Leistungen sowie deren Qualität und Angemessenheit;
-- c) die Nennung der Kaderpersonen und der Verantwortlichen;
-- d) die Bereitstellung des Personals;
-- e) die Zurverfügungstellung der Infrastrukturen und Einrichtungen;
-- f) die Finanzierung durch den Staat;
-- g) die Kommunikation, die Tätigkeitsberichte und die Publikationen;
-- h) den Schutz der Personendaten, die Einhaltung des Berufs- und des Amtsgeheimnisses.
+<sup>2</sup> Die Finanzierung dieser Leistungen erfolgt insbesondere durch den Fonds für die kantonale Gesundheitsförderung, den Alkoholzehntel, die projekttragenden staatlichen Dienststellen sowie durch Mittel Dritter.
 
 #### Art. 5
 
-**Anerkennung der Gemeinnützigkeit**
+**Fonds für die kantonale Gesundheitsförderung**
 
-<sup>1</sup> Der Staatsrat kann die Gemeinnützigkeit der Institutionen anerkennen, die in den Bereichen Gesundheitsförderung und Prävention tätig sind, und die:
+<sup>1</sup> Der Fonds für die kantonale Gesundheitsförderung und Verhütung von Krankheiten (nachstehend: der Fonds), der in Artikel 115 GG vorgesehen ist, untersteht der Aufsicht und Verantwortlichkeit eines Verwaltungsausschusses, der vom Departement bezeichnet wird. Dieser Ausschuss steht unter dem Vorsitz des Kantonsarztes oder sein Adjunkt, und setzt sich aus drei bis fünf Vertretern zusammen, insbesondere der DGW und GFW.
 
-- a) die kantonale Gesundheitsplanung in diesem Bereich einhalten;
-- b) die Aufgaben und Lasten übernehmen, die von der Planung auferlegt werden;
-- c) keinen Erwerbszweck verfolgen;
-- d) die Gesundheitsgesetzgebung einhalten;
-- e) die Gesetzgebung über die Subventionen einhalten;
-- f) im Hinblick auf die Anerkennung von Fall zu Fall die vom Departement verlangten Schriftstücke (wie etwa Statuten, Organigramme, finanzielle Situation usw.) einreichen, wobei dieses nötigenfalls Weisungen dazu erlassen kann.
-
-<sup>2</sup> Die Anerkennung der Gemeinnützigkeit kann sich auf die Gesamtheit oder auf einen Teil der Tätigkeiten der betreffenden Institutionen beziehen.
-
-<sup>3</sup> Die Anerkennung der Gemeinnützigkeit kann jederzeit sistiert oder entzogen werden, insbesondere dann, wenn die vorgenannten Bedingungen nicht mehr erfüllt sind.
-
-<sup>4</sup> Wenn eine subventionierte Institution nicht mehr als gemeinnützig anerkannt ist, kann der Staatsrat aufgrund von Artikel 5 GKAI die Rückerstattung der Subvention verlangen.
-
-<sup>5</sup> Die Gesuche um die Gewährung der Anerkennung der Gemeinnützigkeit und die Fälle von Sistierung oder Entziehung werden vom Departement bearbeitet, welches sie der Kommission für Gesundheitsförderung zur Vormeinung unterbreiten kann.
-
-#### Art. 6
-
-**Kommission für Gesundheitsförderung**
-
-<sup>1</sup> Die Kommission für Gesundheitsförderung (nachstehend: die Kommission) ist das beratende Organ des Staatsrates für die Ausarbeitung der kantonalen Politik im Bereich der Gesundheitsförderung und der Verhütung von Krankheiten und Unfällen.
-
-<sup>2</sup> Auf Antrag des Departements ernennt der Staatsrat für eine Amtszeit von vier Jahren die Mitglieder der Kommission, die aus 9 bis 13 Mitgliedern besteht, welche die von der Gesundheitsförderung und der Prävention betroffenen Kreise vertreten.
-
-#### Art. 7
-
-**Befugnisse und Funktionsweise**
-
-<sup>1</sup> Die Kommission wacht über die Ausarbeitung und Umsetzung der Politik der Gesundheitsförderung und Prävention. Sie kann auch Massnahmen vorschlagen, die ihr in diesen Bereichen als notwendig erscheinen.
-
-<sup>2</sup> Das Departement kann der Gesundheitsförderung Wallis (nachstehend: GFW) oder einer anderen ähnlichen Institution auf dem Vereinbarungsweg das Sekretariat der Tätigkeiten der Kommission sowie andere Koordinations- und Ausführungsarbeiten im Bereich der Gesundheitsförderung und der Prävention anvertrauen.
-
-<sup>3</sup> Das Departement sorgt dafür, dass die Tätigkeiten der Kommission mit jenen der Kommission für die Gesundheitsplanung koordiniert werden.
-
-#### Art. 8
-
-**Finanzierung**
-
-<sup>1</sup> Die notwendigen Mittel zur Unterstützung der Programme der Gesundheitsförderung und der Prävention, insbesondere jener Programme, die von der Kommission als Priorität für die öffentliche Gesundheit betrachtet werden, sind alljährlich im Budget vorgesehen.
-
-<sup>2</sup> Diese Mittel werden insbesondere mit einem jährlichen Betrag abgesichert, der auf dem Alkoholzehntel erhoben wird, sowie mit Geldern, die aus dem kantonalen Fonds für Gesundheitsförderung und Verhütung von Krankheiten stammen, und mit sonstigen Mitteln.
-
-<sup>3</sup> Das Departement subventioniert Programme der Gesundheitsförderung und der Prävention, die von öffentlichen oder privaten als gemeinnützig anerkannten Organisationen durchgeführt werden, welche die gesetzlichen Bedingungen der Subventionierung erfüllen, und zwar nach den vom Departement in früheren Vereinbarungen mit diesen Organisationen nach Artikel 4 Absatz 3 der vorliegenden Verordnung festgelegten Modalitäten.
-
-#### Art. 9
-
-**Kantonaler Fonds für Gesundheitsförderung und Verhütung von Krankheiten**
-
-<sup>1</sup> Der kantonale Fonds für Gesundheitsförderung und Verhütung von Krankheiten (nachstehend: der Fonds), der in Artikel 98 GG vorgesehen ist, untersteht der Aufsicht und Verantwortlichkeit eines Verwaltungsausschusses, der vom Departement bezeichnet wird. Dieser Ausschuss steht unter dem Vorsitz des Kantonsarztes und setzt sich insbesondere aus Vertretern der GFW und des Kantons Wallis zusammen.
-
-<sup>2</sup> Die Mittel und das Vermögen des Fonds werden ausschliesslich für die Unterstützung der Programme der Gesundheitsförderung und der Verhütung von Krankheiten und Unfällen verwendet.
+<sup>2</sup> Die Mittel und das Vermögen des Fonds werden ausschliesslich für die Unterstützung der Programme der Gesundheitsförderung, der Verhütung von Krankheiten und Unfällen, sowie Suchtverhalten verwendet. Die administrative Verwaltung des Fonds wird von GFW übernommen.
 
 <sup>3</sup> Der Verwaltungsausschuss erlässt ein Reglement, das der Genehmigung des Departements unterliegt und das die Funktionsweise sowie die Modalitäten der Verwendung und Kontrolle des Fonds festlegt.
 
 <sup>4</sup> Der Fonds erscheint in der Bilanz des Kantons Wallis.
 
-#### Art. 10
+#### Art. 6
 
 **Statistiken**
 
-<sup>1</sup> Das Departement regelt in Zusammenarbeit mit den betroffenen Partnern die Erstellung, die Analyse und die Veröffentlichung der Statistiken, die mit der Anwendung der vorliegenden Verordnung erforderlich werden.
+<sup>1</sup> Das Departement regelt in Zusammenarbeit mit den betroffenen Partnern die Erstellung, die Analyse, die Lieferung und die Veröffentlichung der Statistiken und Daten, die mit der Anwendung der vorliegenden Verordnung erforderlich werden.
 
-#### Art. 11
+#### Art. 7
 
 **Kontrolle des Staates**
 
-<sup>1</sup> Die subventionierten öffentlichen oder privaten Organisationen, die Programme der Gesundheitsförderung und der Prävention verwirklichen, unterliegen Kontrollen durch das Departement, die sich auf die delegierten Aufgaben, das Budget, die Jahresrechnung und die Verwendung der Subventionen erstrecken.
+<sup>1</sup> Die subventionierten öffentlichen oder privaten Organisationen, die Programme und Projekte der Gesundheitsförderung und der Prävention verwirklichen, unterliegen Kontrollen durch das Departement, die sich auf die Aufgaben, das Budget, die Jahresrechnung und die Verwendung der Subventionen erstrecken.
 
-<sup>2</sup> Auf Antrag des Departements vermindert, sistiert oder beendet der Staatsrat die Subventionen an die als gemeinnützig anerkannten Organisationen, falls die vorgenommenen Kontrollen Verletzungen der Bestimmungen der Gesetzgebung über die Subventionierung der Krankenanstalten und -institutionen aufzeigen, wie sie in der vorliegenden Verordnung und in den von ihr vorgesehenen Vereinbarungen näher festgelegt sind.
+<sup>2</sup> Auf Antrag des Departements vermindert, sistiert oder beendet der Staatsrat die Subventionen an die öffentliche oder private Organisationen, falls die vorgenommenen Kontrollen Verletzungen der Bestimmungen der Gesetzgebung aufzeigen.
 
-## 2 Spezifische Bestimmungen
+#### Art. 8
 
-#### Art. 12
+**Sucht- und Suchtverhaltensprävention**
 
-**Gesundheitserziehung**
+<sup>1</sup> Die Programme und Projekte zur Prävention von Sucht und Suchtverhalten fallen in den Zuständigkeitsbereich die für die Gesundheit zuständige Dienstelle.
 
-<sup>1</sup> Die Gesundheitserziehung bezweckt die Entwicklung der Einzelverantwortung sowie der Kollektivverantwortung in Bezug auf das physische, psychische und sozialen Wohlbefinden.
+<sup>2</sup> Für die Früherkennung, die Frühintervention und die Behandlung von Sucht und Suchtverhalten sind andere Institutionen, namentlich aus dem Sozialbereich, zuständig.
 
-<sup>2</sup> Sie setzt im Kindesalter ein und richtet sich an die gesamte Bevölkerung.
+#### Art. 9
 
-<sup>3</sup> Die Umsetzung der Programme der Gesundheitserziehung, welche die Kinder und Jugendlichen betreffen, wird von den zuständigen Departementen koordiniert.
+**Zahnprophylaxe und Schulscreening**
 
-#### Art. 13
+<sup>1</sup> Die Zahnprophylaxe und Schulscreening bezwecken die Förderung von geeigneten Massnahmen zur Verbesserung der Zahnhygiene der Schüler und der Verhütung von Erkrankungen der Zähne und des Zahnfleischs sowie von Missbildungen, an denen sie leiden mögen.
 
-**Schutz von Eltern und Kind**
+<sup>2</sup> Das Departement kann die Aufgaben der Zahnprophylaxe und der Schulscreenings durch eine Vereinbarung einer öffentlichen oder privaten Organisation übertragen.
 
-<sup>1</sup> Der Schutz von Eltern und Kind unterliegt den spezifischen gesetzlichen Bestimmungen von Bund und Kanton.
+<sup>3</sup> Die Kosten betreffend die Zahnprophylaxe und die Schulscreeningsgehen zulasten des Kantons. Die Modalitäten der Zusammenarbeit und der Finanzierung werden mit einer Vereinbarung geregelt.
 
-<sup>2</sup> Er umfassen insbesondere die Unterstützung und Beratung der Eltern und der Familien, die Vornahme der notwendigen Kontrolluntersuchungen und die Verhütung jeglicher Form von Misshandlung.
+#### Art. 10
 
-<sup>3</sup> Er wird von den zuständigen Departementen koordiniert.
+**Zahnerhaltung und kieferorthopädische Behandlungen für Jugendliche**
 
-#### Art. 14
+<sup>1</sup> Die Zahnerhaltung und kieferorthopädischen Behandlungen werden vom Verein für Prophylaxe und Jugendzahnpflege (nachfolgend: der Verein) durchgeführt.
 
-**Sexuelle und reproduktive Gesundheit**
+<sup>2</sup> Die Modalitäten der Zusammenarbeit zwischen den Walliser Zahnärztegesellschaft, dem Verein und den Gemeinden werden auf dem Reglementsweg, der der Genehmigung des Departements unterliegt, festgelegt.
 
-<sup>1</sup> Die sexuelle und reproduktive Gesundheit untersteht den spezifischen gesetzlichen Bestimmungen von Bund und Kanton.
+<sup>3</sup> Die gesetzlichen Vertreter, die sich dafür entscheiden, ihre Kinder im Rahmen der Schulzahnpflege entsprechend der Pflegeorganisation in der Region behandeln zu lassen, übernehmen 60 Prozent der Kosten, die durch die konservierende Zahnpflege und die Zahnkorrekturen entstehen, sowie ferner allfällige Franchisen und Höchstgrenzen. Die restlichen Kosten werden von den Gemeinden übernommen. Diesen steht es frei, ihre Beteiligung zu erhöhen.
 
-<sup>2</sup> Der Staat unterstützt die Massnahmen zur Sexualinformation und -erziehung und zur Familienplanung.
+<sup>4</sup> Die Subventionen für konservierende Zahnpflege werden für die Behandlungen bezahlt, die von der Geburt an und bis zum 31. Dezember der 18. Lebensjahre des Kindes. Die Subventionen für Zahnkorrekturen werden vom Beginn des Behandlung und bis zum Ende der obligatorischen Schulzeit vorgenommen werden. Die Zahlungsmodalitäten und die Subventionsbedingungen werden mit einer Vereinbarung zwischen den Gemeinden und dem Verein bestimmt.
 
-<sup>3</sup> Die Umsetzung dieser Massnahmen wird von den zuständigen Departementen koordiniert.
-
-<sup>4</sup> Der Staatsrat legt die Richtlinien für die Erziehung im Bereich der sexuellen und reproduktiven Gesundheit fest.
-
-#### Art. 15
-
-**Schulärztliche Tätigkeit**
-
-<sup>1</sup> Die schulärztliche Tätigkeit bezweckt die Bewahrung und Förderung der Gesundheit der Schüler und die Verhütung von Schädigungen ihrer Gesundheit.
-
-<sup>2</sup> Die schulärztliche Tätigkeit wird aufgrund der jährlichen Weisungen ausgeübt, die von den zuständigen Departementen in Zusammenarbeit mit der Walliser Ärztegesellschaft erstellt werden.
-
-<sup>3</sup> Die allgemeine Koordination der schulärztlichen Tätigkeiten kann vom Departement auf dem Vereinbarungsweg einer öffentlichen oder privaten Organisation anvertraut werden.
-
-#### Art. 16
-
-**Schulzahnpflege a) Zweck**
-
-<sup>1</sup> Die Schulzahnpflege bezweckt die Förderung von geeigneten Massnahmen zur Verbesserung der Zahnhygiene der Schüler und der Verhütung von Erkrankungen der Zähne und des Zahnfleischs sowie von Missbildungen, an denen sie leiden mögen.
-
-#### Art. 17
-
-**b) Vereinigung**
-
-<sup>1</sup> Die Walliser Vereinigung für Prophylaxe und Jugendzahnpflege (nachstehend: die Vereinigung) erfüllt die Aufgaben der Prophylaxe, Behandlung und Zahnpflege sowie der Verwaltung, die ihr auf dem Vereinbarungsweg vom Departement und den Gemeinden im Rahmen der Politik der Gesundheitsförderung und der Verhütung von Krankheiten und Unfällen anvertraut sind.
-
-<sup>2</sup> Die Schulzahnpflege wird gemäss den Weisungen ausgeübt, die gemeinsam von den zuständigen Departementen, beziehungsweise von den Gemeinden, in Zusammenarbeit mit der Walliser Zahnärztegesellschaft erstellt werden. Diese Weisungen umfassen insbesondere die Kriterien für die Übernahme der präventiven Massnahmen durch den Staat und der therapeutischen Massnahmen durch die Gemeinden.
-
-#### Art. 18
-
-**c) Subventionen**
-
-<sup>1</sup> Die Kosten betreffend die Prophylaxe gehen ganz zulasten des Kantons. Die Zahlungsmodalitäten werden mit einer Vereinbarung zwischen den zuständigen Departementen und der Vereinigung geregelt.
-
-<sup>2</sup> Die Eltern, die sich dafür entscheiden, ihre Kinder im Rahmen der Schulzahnpflege entsprechend der Pflegeorganisation in der Region behandeln zu lassen, übernehmen 60 Prozent der Kosten, die durch die konservierende Zahnpflege und die Zahnkorrekturen entstehen, sowie ferner allfällige Franchisen und Höchstgrenzen. Die restlichen Kosten werden von den Gemeinden übernommen. Diesen steht es frei, ihre Beteiligung zu erhöhen.
-
-<sup>3</sup> Die Subventionen für konservierende Zahnpflege werden für die Behandlungen bezahlt, die von der Geburt an und bis zum 31. Dezember der 18. Lebensjahre des Kindes. Die Subventionen für Zahnkorrekturen werden vom Beginn des Behandlung und bis zum Ende der obligatorischen Schulzeit vorgenommen werden. Die Zahlungsmodalitäten und die Subventionsbedingungen werden mit einer Vereinbarung zwischen den Gemeinden und der Vereinigung bestimmt.
-
-<sup>4</sup> …
-
-#### Art. 19
-
-**…**
-
-#### Art. 20
-
-**Psychische Gesundheit**
-
-<sup>1</sup> Die Förderung der psychischen Gesundheit und die Verhütung von psychischen Krankheiten sind Aufgabe der Institutionen, die in den spezifischen Gesetzesbestimmungen über die Anstalten und Institutionen für psychische Erkrankungen vorgesehen sind.
-
-<sup>2</sup> Die Anwendung der allgemeinen Bestimmungen der vorliegenden Verordnung bleibt vorbehalten.
-
-#### Art. 21
-
-**Verhütung von Tabakmissbrauch, Alkoholismus, Drogenab-hängigkeit und anderen Suchtkrankheiten**
-
-<sup>1</sup> Die Verhütung von Tabakmissbrauch, Alkoholismus, Drogenabhängigkeit und anderen Suchtkrankheiten ist Sache der Institutionen, die in den spezifischen Gesetzesbestimmungen in diesem Bereich vorgesehen sind.
-
-<sup>2</sup> Die Anwendung der allgemeinen Bestimmungen der vorliegenden Verordnung bleibt vorbehalten.
-
-#### Art. 22
-
-**Verhütung von übertragbaren Krankheiten und Infektionskrankheiten**
-
-<sup>1</sup> Die Verhütung von übertragbaren Krankheiten und Infektionskrankheiten ist in den kantonalen Ausführungsbestimmungen der Bundesgesetzgebung über die übertragbaren Krankheiten geregelt.
-
-#### Art. 23
-
-**Krankheiten mit stark zunehmender Verbreitung**
-
-<sup>1</sup> Das Departement kann spezialisierten Organisationen oder Institutionen wie etwa der Walliser Krebsliga oder sonstigen ähnlichen Institutionen auf dem Vereinbarungsweg Aufgaben der Ausführung und der Koordination der Präventionsprogramme im Bereich der Krankheiten mit stark zunehmender Verbreitung, wie etwa Krebs und Herz-Kreislauf-Erkrankungen übertragen.
-
-#### Art. 24
-
-**Arbeitsmedizin und Arbeitshygiene**
-
-<sup>1</sup> Das Departement arbeitet bei der Anwendung der Bestimmungen des Bundesrechtes und der interkantonalen Vereinbarungen über die Arbeitsmedizin und die Arbeitshygiene mit den betreffenden Diensten zusammen.
-
-## 3 Schlussbestimmungen
-
-#### Art. 25
-
-**Schlussbestimmungen**
-
-<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht; sie wird gleichzeitig mit dem Gesundheitsgesetz vom 14. Februar 2008 in Kraft treten und hebt zu diesem Zeitpunkt alle ihr zuwiderlaufenden Bestimmungen auf, insbesondere die Verordnung über die Förderung der Gesundheit und die Verhütung von Krankheiten und Unfällen vom 26. März 1997.
-
-CSW RO/AGS 2009 f 190, 347 | d 200, 363
+CSW RO/AGS 2025-047
