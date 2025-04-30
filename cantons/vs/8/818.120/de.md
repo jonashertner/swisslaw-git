@@ -1,31 +1,32 @@
 ---
 canton: VS
 number: "818.120"
-title: "Verordnung über den Schutz der Bevölkerung vor Passivrauchen und das Verbot von Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren *"
+title: "Verordnung über den Schutz der Bevölkerung vor Passivrauchen und das Verbot von Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren *"
 short: "Verordnung Passivrauchen, PRV"
 language: de
-version: 2021-07-01
-valid_until: 2025-04-30
-version_adopted: 2021-05-26
+version: 2025-05-01
+version_adopted: 2025-04-23
 adopted: 2009-04-01
 in_force: 2009-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/818.120"
-pdf: "https://lex.vs.ch/api/de/versions/2904/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3488/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Schutz der Bevölkerung vor Passivrauchen und das Verbot von Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren
+# Verordnung über den Schutz der Bevölkerung vor Passivrauchen und das Verbot von Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren
 
 (Verordnung Passivrauchen, PRV)
 
-vom 01.04.2009 (Stand 01.07.2021)
+vom 01.04.2009 (Stand 01.05.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 134 bis 138 des Gesundheitsgesetzes vom 12. März 2020 (GG);
+eingesehen die Artikel 123, 128, 134 bis 138 des Gesundheitsgesetzes vom 12. März 2020 (GG);
 
 eingesehen das Bundesgesetz zum Schutz vor Passivrauchen vom 3. Oktober 2008;
+
+eingesehen das Bundesgesetz über Tabakprodukte und elektronische Zigaretten vom 1. Oktober 2021 (TabPG);
 
 auf Antrag des für die Gesundheit zuständigen Departements,
 
@@ -37,9 +38,9 @@ verordnet:
 
 **Ziel und Gegenstand**
 
-<sup>1</sup> Die vorliegende Verordnung enthält die Ausführungsbestimmungen der eidgenössischen und der kantonalen Gesetzgebung über den Schutz der Bevölkerung vor Passivrauchen sowie die Ausführungsbestimmungen der kantonalen Gesetzgebung über das Verbot der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren.
+<sup>1</sup> Die vorliegende Verordnung enthält die Ausführungsbestimmungen der Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten, der eidgenössichen und kantonalen Gesetzgebung über den Schutz der Bevölkerung vor Passivrauchen, das Verbot des Verkaufs von Einweg-E-Zigaretten sowie die Ausführungsbestimmungen der kantonalen Gesetzgebung über das Verbot der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren.
 
-<sup>2</sup> Sie bezweckt den Schutz der Bevölkerung vor Passivrauchen sowie vor den Auswirkungen der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren.
+<sup>2</sup> Sie bezweckt den Schutz der Bevölkerung vor Passivrauchen, vor dem frühen Einstieg in den Nikotinkonsum sowie vor den Auswirkungen der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren.
 
 #### Art. 2
 
@@ -85,12 +86,13 @@ verordnet:
 
 <sup>1</sup> Die Kommission ist beauftragt, der zuständigen Behörde eine Meinung abzugeben:
 
-- a) zur Interpretation der in Artikeln 134 bis 138 GG und in der vorliegenden Verordnung verwendeten Begriffe und Ausdrücke;
+- a) zur Interpretation der in Artikeln 123 Absatz 2 und 3, 134 bis 138 des Gesundheitsgesetzes (GG) und in der vorliegenden Verordnung verwendeten Begriffe und Ausdrücke;
 - b) zu den technischen Aspekten (insbesondere zum Ventilationssystem und den Zugängen mit automatischer Schliessung) betreffend die Einrichtung der Raucherräume;
 - c) zu den geeigneten administrativen Massnahmen zur Beseitigung eines rechtswidrigen Zustandes gemäss Artikel 156 Absatz 2 GG;
-- d) zu jeder Frage oder jedem Vorschlag betreffend die Bestimmungen der eidgenössischen und der kantonalen Gesetzgebung zum Schutz der Bevölkerung vor Passivrauchen sowie die Bestimmungen der eidgenössischen und kantonalen Gesetzgebung zum Verbot der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren, einschliesslich der Werbung, die Minderjährige erreicht.
+- d) zu jeder Frage oder jedem Vorschlag betreffend die Bestimmungen der eidgenössischen und der kantonalen Gesetzgebung zum Schutz der Bevölkerung vor Passivrauchen sowie die Bestimmungen der eidgenössischen und kantonalen Gesetzgebung zum Verbot der Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren, einschliesslich der Werbung, die Minderjährige erreicht.
+- e) zu jeder Frage oder jedem Vorschlag betreffend die Bestimmungen der Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten in Bezug auf Zusammensetzung, Emissionen, Verpackungen, Kontrolle der Abgabe an Minderjährige und Pflichten der Unternehmen.
 
-<sup>2</sup> Die Kommission erarbeitet Weisungen zuhanden der zuständigen Behörde über die zulässige Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren sowie das zulässige Sponsoring von Kultur- oder Sportveranstaltungen durch Hersteller oder Händler von Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und anderen Rauchwaren.
+<sup>2</sup> Die Kommission erarbeitet Weisungen zuhanden der zuständigen Behörde über die zulässige Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren sowie das zulässige Sponsoring von Kultur- oder Sportveranstaltungen durch Hersteller oder Händler von Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und anderen Rauchwaren.
 
 #### Art. 7
 
@@ -110,6 +112,8 @@ verordnet:
 
 <sup>2</sup> Ein Raucherraum muss an seiner Eingangstüre deutlich als solcher bezeichnet sein.
 
+<sup>3</sup> Zonen zur Degustation von Produkten zum Erhitzen und elektronischen Zigaretten in spezialisierten Verkaufsgeschäften nach Artikel 2 Absatz 4 des Bundesgesetzes zum Schutz vor Passivrauchen sind Raucherräumen gleichgestellt.
+
 #### Art. 9
 
 **Einrichtungsbedingungen**
@@ -119,7 +123,7 @@ verordnet:
 - a) der Raucherraum muss auf natürliche Weise oder durch ein geeignetes Ventilationssystem genügend belüftet sein;
 - b) er darf nicht Durchgangsort sein;
 - c) er muss klar vom Rest der Anstalt oder des Betriebs abgetrennt und mit einem automatischen System zur Schliessung der Zugangstüre ausgestattet sein;
-- d) die Fläche soll einen Drittel der Gesamtfläche der Ausschankräume des Betriebs nicht übersteigen.
+- d) seine Fläche darf einen Drittel der Gesamtfläche der Ausschankräume des Betriebs nicht übersteigen.
 
 <sup>2</sup> Die Anstalt oder der Betrieb, welche/r einen Raucherraum einrichtet, muss die Kommission schriftlich darüber informieren und die Massnahmen darlegen, die zur Erfüllung der Bedingungen aus Absatz 1 getroffen wurden.
 
@@ -161,9 +165,11 @@ verordnet:
 
 <sup>1</sup> Die Kommission schlägt dem Departement, das für das Gesundheitswesen zuständig ist (nachstehend: das Departement), von Fall zu Fall die Dienststellen vor, die berechtigt sind, das Einhalten der vorliegenden Verordnung aufs Beste zu kontrollieren, wie die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse, die Dienststelle für Verbraucherschutz und Veterinärwesen, die Dienststelle für Handel, Industrie und Arbeit, die Dienststelle für Gesundheitswesen, die Gemeindepolizeien.
 
-<sup>2</sup> Die zuständigen Dienststellen können insbesondere die dem Rauchverbot unterworfenen Orte und die Raucherräume jederzeit und ohne Voranmeldung kontrollieren.
+<sup>1<sup>bis</sup></sup> Die Dienststelle für Verbraucherschutz und Veterinärwesen ist die zuständige Behörde für die Bestimmungen der Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten in Bezug auf Zusammensetzung, Emissionen, Verpackung, Kontrolle der Abgabe an Minderjährige und Pflichten der Unternehmen.
 
-<sup>3</sup> Die Verantwortlichen von öffentlichen oder öffentlich zugänglichen Betrieben werden angehalten, Personen, die mit der Anwendung des vorliegenden Gesetzes beauftragt sind, den Zugang zu ihren Betrieben zu erleichtern. Namentlich sind dies Mitglieder der Gemeindepolizeien und der Kantonspolizei sowie der kantonalen Verwaltung.
+<sup>2</sup> Die zuständigen Dienststellen können insbesondere die dem Rauchverbot unterworfenen Orte und die Raucherräume sowie Geschäfte, die Tabakwaren, E-Zigaretten, Vaporizer, legalen Cannabis, Nikotinprodukte und andere Rauchwaren verkaufen, jederzeit und ohne Voranmeldung kontrollieren.
+
+<sup>3</sup> Die Verantwortlichen von öffentlichen oder öffentlich zugänglichen Betrieben sowie die betroffenen Geschäfte werden angehalten, Personen, die mit der Anwendung des vorliegenden Gesetzes beauftragt sind, den Zugang zu ihren Betrieben zu erleichtern. Namentlich sind dies Mitglieder der Gemeindepolizeien und der Kantonspolizei sowie der kantonalen Verwaltung.
 
 #### Art. 15
 
@@ -174,6 +180,8 @@ verordnet:
 <sup>2</sup> Er kann dem Verantwortlichen einer Anstalt insbesondere anordnen, die erforderlichen technischen Massnahmen zu treffen, um der vorliegenden Verordnung zu entsprechen.
 
 <sup>3</sup> Er kann auch die vorübergehende Schliessung eines Betriebs von maximal acht Wochen aus Gründen der wiederholten Nichteinhaltung der Gesetzesbestimmungen in Bezug auf den Schutz der Bevölkerung vor Passivrauchen und trotz mehrerer ausgesprochener Bussen anordnen. Dieser Entscheid wird im Amtsblatt veröffentlicht.
+
+<sup>4</sup> Vorbehalten bleiben die Artikel 37 und 38 des Bundesgesetzes über Tabakprodukte und elektronische Zigaretten (TabPG).
 
 #### Art. 16
 
@@ -186,9 +194,13 @@ verordnet:
 - a) er toleriert, dass jemand in Verletzung des in Artikel 134 GG gestellten Verbots Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchprodukte konsumiert;
 - b) er einen Raucherraum einrichtet oder betreibt, ohne den in den Artikeln 8 bis 10 der vorliegenden Verordnung gestellten Anforderungen nachzukommen.
 
+<sup>2<sup>bis</sup></sup> Mit einer Busse von 200 bis 20'000 Franken wird der Inhaber einer Geschäftsbewilligung bestraft, der unter Verletzung von Artikel 123 Absatz 2 GG elektronische Einweg-E-Zigaretten verkauft oder abgibt.
+
+<sup>2<sup>ter</sup></sup> Vorbehalten bleiben die Artikel 35 bis 48 TabPG für die Kontrollen, die in die Zuständigkeit der Dienststelle für Verbraucherschutz und Veterinärwesen fallen.
+
 <sup>3</sup> Mit einer Busse bis zu 20'000 Franken wird jede natürliche und/oder juristische Person bestraft, die in Verletzung des Artikels 136 GG Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren macht.
 
-<sup>4</sup> Bei strafrechtlichen Sanktionen aufgrund der Absätze 1 und 2 ist das Verfahren jenes, welches in den Artikeln 34h bis 34l VVRG vorgesehen ist. Die Behörde, die die Bussen ausspricht, ist das Departement, das für das Gesundheitswesen zuständig ist (Art. 159 GG).
+<sup>4</sup> Bei strafrechtlichen Sanktionen aufgrund der Absätze 1, 2, 2<sup>bis</sup>, 2<sup>ter</sup> und 3, ist das Verfahren jenes, welches in den Artikeln 34h bis 34l VVRG vorgesehen ist. Ausser in klaren Fällen die zu einem administrativen Strafentscheid durch eine Gemeindepolizei führen, ist die Behörde, die die Bussen ausspricht, das Departement, das für das Gesundheitswesen zuständig ist (Art. 159 GG).
 
 <sup>4<sup>bis</sup></sup> In klaren Fällen erlässt die Gemeindepolizei ohne vorherige Anhörung des Beschuldigten einen administrativen Strafentscheid in Form eines summarisch begründeten Strafbescheids gemäss Artikel 34j VVRG auf der Grundlage der Absätze 1 und 2 des vorliegenden Artikels.
 

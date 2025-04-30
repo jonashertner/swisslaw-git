@@ -1,31 +1,32 @@
 ---
 canton: VS
 number: "818.120"
-title: "Ordonnance sur la protection de la population contre la fumée passive et l'interdiction de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer"
+title: "Ordonnance sur la protection de la population contre la fumée passive et l'interdiction de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer"
 short: "Ordonnance fumée passive, OFP"
 language: fr
-version: 2021-07-01
-valid_until: 2025-04-30
-version_adopted: 2021-05-26
+version: 2025-05-01
+version_adopted: 2025-04-23
 adopted: 2009-04-01
 in_force: 2009-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/818.120"
-pdf: "https://lex.vs.ch/api/fr/versions/2904/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3488/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur la protection de la population contre la fumée passive et l'interdiction de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer
+# Ordonnance sur la protection de la population contre la fumée passive et l'interdiction de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer
 
 (Ordonnance fumée passive, OFP)
 
-du 01.04.2009 (état 01.07.2021)
+du 01.04.2009 (état 01.05.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 134 à 138 de la loi sur la santé du 12 mars 2020 (LS);
+vu les articles 123, 128, 134 à 138 de la loi sur la santé du 12 mars 2020 (LS);
 
 vu la loi fédérale sur la protection contre le tabagisme passif du 3 octobre 2008;
+
+vu la loi fédérale sur les produits du tabac et les cigarettes électroniques du 1<sup>er</sup> octobre 2021 (LPTab);
 
 sur la proposition du département en charge de la santé,
 
@@ -37,9 +38,9 @@ ordonne:
 
 **Objet et but**
 
-<sup>1</sup> La présente ordonnance contient les dispositions d'application de la législation fédérale et cantonale sur la protection de la population contre la fumée passive ainsi que les dispositions d'application de la législation cantonale sur l'interdiction de publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer.
+<sup>1</sup> La présente ordonnance contient les dispositions d'application de la législation fédérale sur les produits du tabac et les cigarettes électroniques, de la législation fédérale et cantonale sur la protection de la population contre la fumée passive, l'interdiction de la vente de cigarettes électroniques jetables ainsi que de la législation cantonale sur l'interdiction de publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer.
 
-<sup>2</sup> Elle a pour but de protéger la population contre la fumée passive ainsi que contre les effets de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer.
+<sup>2</sup> Elle a pour but de protéger la population contre la fumée passive, contre l'entrée en consommation précoce de nicotine, ainsi que contre les effets de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer.
 
 #### Art. 2
 
@@ -85,12 +86,13 @@ ordonne:
 
 <sup>1</sup> La commission est chargée de donner un avis à l'autorité compétente notamment sur:
 
-- a) l'interprétation des termes et expressions utilisés dans les articles 134 à 138 LS et dans la présente ordonnance;
+- a) l'interprétation des termes et expressions utilisés dans les articles 123 alinéas 2 et 3, 134 à 138 loi sur la santé (LS) et dans la présente ordonnance;
 - b) les aspects techniques (notamment le système de ventilation et les accès à fermeture automatique) relatifs à l'aménagement des fumoirs;
 - c) les mesures administratives propres à faire cesser un état de fait contraire au droit au sens de l'article 156 alinéa 2 LS;
-- d) toute question ou proposition relative aux dispositions de la législation fédérale et cantonale sur la protection de la population contre la fumée passive ainsi qu'aux dispositions de la législation fédérale et cantonale sur l'interdiction de publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer, y compris la publicité qui atteint les mineurs.
+- d) toute question ou proposition relative aux dispositions de la législation fédérale et cantonale sur la protection de la population contre la fumée passive ainsi qu'aux dispositions de la législation fédérale et cantonale sur l'interdiction de publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer, y compris la publicité qui atteint les mineurs;
+- e) toute question ou proposition relative aux dispositions de la législation fédérale pour les produits du tabac et les cigarettes électroniques sur la composition, les émissions, les emballages, le contrôle de la remise aux personnes mineures et les obligations des entreprises.
 
-<sup>2</sup> La commission élabore, à l'intention de l'autorité compétente, des directives sur les usages admissibles en ce qui concerne la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer, ainsi que le parrainage de manifestations culturelles ou sportives par des fabricants et commerçants de produits du tabac, de cigarettes électroniques, de vaporettes, de cannabis légal et d’autres produits à fumer.
+<sup>2</sup> La commission élabore, à l'intention de l'autorité compétente, des directives sur les usages admissibles en ce qui concerne la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer, ainsi que le parrainage de manifestations culturelles ou sportives par des fabricants et commerçants de produits du tabac, de cigarettes électroniques, de vaporettes, de cannabis légal, de produits nicotiniques et d’autres produits à fumer.
 
 #### Art. 7
 
@@ -109,6 +111,8 @@ ordonne:
 <sup>1</sup> Un fumoir est un local fermé et doté d'une ventilation suffisante dans lequel il est permis de fumer, de vapoter, de consommer du tabac chauffé, du cannabis légal ou d’autres produits à fumer.
 
 <sup>2</sup> Un fumoir doit être clairement désigné comme tel sur la porte d'accès.
+
+<sup>3</sup> Les zones de dégustation de produits à chauffer et de cigarettes électroniques dans les magasins spécialisés, selon l'article 2 alinéa 4 de la loi fédérale sur la protection contre le tabagisme passif sont assimilées à des fumoirs.
 
 #### Art. 9
 
@@ -161,9 +165,11 @@ ordonne:
 
 <sup>1</sup> La commission propose au département dont relève la santé (ci-après: le département), de cas en cas, les services habilités à contrôler au mieux le respect de la présente ordonnance tels que le Service de la protection des travailleurs et des relations du travail, le Service de la consommation et affaires vétérinaires, le Service du commerce, de l'industrie et du travail, le Service de la santé publique, les polices municipales.
 
-<sup>2</sup> Les services compétents peuvent notamment inspecter en tout temps et sans avertissement préalable les lieux assujettis à l'interdiction de fumer et les fumoirs.
+<sup>1<sup>bis</sup></sup> Le Service de la consommation et des affaires vétérinaires est l’autorité compétente pour les dispositions de la législation fédérale pour les produits du tabac et les cigarettes électroniques sur la composition, les émissions, les emballages, le contrôle de la remise aux personnes mineures et les obligations des entreprises.
 
-<sup>3</sup> Les responsables des établissements publics ou accessibles au public sont tenus de faciliter l'accès à leur établissement aux personnes chargées de l'application de la présente loi, notamment aux membres des polices communales et cantonale, ainsi qu'aux membres de l'Administration cantonale.
+<sup>2</sup> Les services compétents peuvent notamment inspecter en tout temps et sans avertissement préalable les lieux assujettis à l'interdiction de fumer et les fumoirs, ainsi que les commerces qui vendent des produits du tabac, des cigarettes électroniques, des vaporettes, du cannabis légal, les produits nicotiniques et d'autres produits à fumer.
+
+<sup>3</sup> Les responsables des établissements publics ou accessibles au public, ainsi que les commerces concernés, sont tenus de faciliter l'accès à leur établissement aux personnes chargées de l'application de la présente loi, notamment aux membres des polices communales et cantonale, ainsi qu'aux membres de l'administration cantonale.
 
 #### Art. 15
 
@@ -174,6 +180,8 @@ ordonne:
 <sup>2</sup> Il peut notamment ordonner au responsable d'un établissement de prendre les mesures techniques requises pour se conformer à la présente ordonnance.
 
 <sup>3</sup> Il peut également ordonner la fermeture temporaire d'un établissement, pour une durée déterminée d'au maximum huit semaines, au motif du non-respect répété des dispositions légales relatives à la protection de la population contre la fumée passive, malgré le prononcé de plusieurs amendes. Cette décision est publiée au Bulletin officiel.
+
+<sup>4</sup> Demeurent réservés les articles 37 et 38 de la loi fédérale sur les produits du tabac et les cigarettes électroniques (LPTab).
 
 #### Art. 16
 
@@ -186,9 +194,13 @@ ordonne:
 - a) qui tolère qu'une personne consomme les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer en violation de l'interdiction posée à l'article 134 LS;
 - b) qui aménage ou exploite un fumoir ne respectant pas les exigences posées aux articles 8 à 10 de la présente ordonnance.
 
+<sup>2<sup>bis</sup></sup> Est passible d'une amende de 200 à 20'000 francs le titulaire de l'autorisation d'exploiter un commerce qui vend ou remet des cigarettes électroniques jetables en violation de l'article 123 alinéa 2 LS.
+
+<sup>2<sup>ter</sup></sup> Demeurent réservés les articles 35 à 48 LPTab pour les contrôles relevant de la compétence du Service de la consommation et des affaires vétérinaires.
+
 <sup>3</sup> Est passible d'une amende jusqu'à 20'000 francs la personne physique et/ou la personne morale qui fait de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer en violation de l'article 136 LS.
 
-<sup>4</sup> Pour les sanctions pénales prononcées en vertu des alinéas 1 et 2, la procédure est celle prévue aux articles 34h à 34l LPJA. L'autorité qui prononce les amendes est le département dont dépend le Service de la santé publique (art. 159 LS).
+<sup>4</sup> Pour les sanctions pénales prononcées en vertu des alinéas 1, 2, 2<sup>bis</sup>, 2<sup>ter</sup> et 3, la procédure est celle prévue aux articles 34h à 34l LPJA. Sauf dans les cas clairs qui entraînent un prononcé pénal administratif par une police municipale, l'autorité qui prononce les amendes est le département dont dépend le Service de la santé publique (art. 159 LS).
 
 <sup>4<sup>bis</sup></sup> Dans les cas clairs, les polices municipales rendent un prononcé pénal administratif sans audition préalable du contrevenant, en la forme d'un mandat de répression sommairement motivé aux conditions de l’article 34j LPJA sur la base des alinéas 1 et 2 du présent article.
 
