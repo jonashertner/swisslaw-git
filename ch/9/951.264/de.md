@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Februar 2022 über Härtefallmassnahmen für Unternehm
 short: HFMV 22
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/61"
 language: de
-version: 2023-01-01
+version: 2025-05-01
 adopted: 2022-02-02
 in_force: 2022-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-61-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2022-61-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/de"
 
 (Covid-19-Härtefallverordnung 2022, HFMV 22)
 
-vom 2. Februar 2022 (Stand am 1. Januar 2023)
+vom 2. Februar 2022 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -47,6 +47,8 @@ verordnet:
 
 **Einschränkung der Verwendung**
 
+<sup>1</sup>
+
 Das Unternehmen hat gegenüber dem Kanton bestätigt, dass es:
 
 - a.
@@ -57,6 +59,10 @@ Das Unternehmen hat gegenüber dem Kanton bestätigt, dass es:
   - 2\. keine Darlehen an seine Eigentümer vergibt und keine Darlehen von seinen Eigentümern zurückbezahlt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten;
 
 - b. die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft überträgt, die ihren Sitz nicht in der Schweiz hat; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur.
+
+<sup>2</sup> Erzielt ein Einzelunternehmen, das nicht rückzahlbare Beiträge erhalten hat, bei der definitiven Geschäftsaufgabe einen Liquidationsgewinn, so gelten diesbezüglich die Anforderungen nach Absatz 1 Buchstabe a Ziffer 1 als eingehalten.[^3-1]
+
+[^3-1]: Eingefügt durch Ziff. II der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## 3. Abschnitt: Anforderungen an die Ausgestaltung der Härtefallmassnahmen
 
@@ -155,7 +161,16 @@ Die Berichterstattung der Kantone über die geleisteten und die zugesicherten Un
 
 **Rückforderung**
 
-Der Bund kann Auszahlungen an Kantone zurückhalten oder geleistete Zahlungen von einem Kanton zurückfordern, wenn sich herausstellt, dass die Anforderungen dieser Verordnung oder des Vertrags einschliesslich Vertragszusatz nach Artikel 14 nicht eingehalten worden sind.
+<sup>1</sup> Der Bund kann Auszahlungen an Kantone zurückhalten oder geleistete Zahlungen von einem Kanton zurückfordern, wenn sich herausstellt, dass die Anforderungen dieser Verordnung oder des Vertrags einschliesslich Vertragszusatz nach Artikel 14 nicht eingehalten worden sind.
+
+<sup>2</sup>
+
+Hat ein Kanton vor dem Inkrafttreten der Änderung vom 2. April 2025 gegenüber einem Einzelunternehmen, das bei der definitiven Geschäftsaufgabe einen Liquidationsgewinn nach Artikel 3 Absatz 2 erzielt hat, auf eine Rückforderung der nicht rückzahlbaren Beiträge verzichtet oder verzichtet er nach dem Inkrafttreten dieser Verordnung darauf, so:
+
+- a. muss er dem Bund diesbezüglich keine Rückzahlung leisten;
+- b. kann er diesbezüglich bereits geleistete Rückzahlungen an den Bund von diesem zurückfordern.[^17-1]
+
+[^17-1]: Eingefügt durch Ziff. II der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

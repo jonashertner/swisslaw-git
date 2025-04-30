@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2022 concernant les mesures pour les cas de rig
 short: OMCR 22
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/61"
 language: fr
-version: 2023-01-01
+version: 2025-05-01
 adopted: 2022-02-02
 in_force: 2022-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-61-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2022-61-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/fr"
 
 (Ordonnance COVID-19 cas de rigueur 2022, OMCR 22)
 
-du 2 février 2022 (État le 1<sup>er</sup> janvier 2023)
+du 2 février 2022 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
-## Section 1 ...
+## Section 1 …
 
 #### Art. 1
 
@@ -47,6 +47,8 @@ arrête:
 
 **Restriction de l’utilisation**
 
+<sup>1</sup>
+
 L’entreprise a fourni au canton les garanties suivantes:
 
 - a.
@@ -57,6 +59,10 @@ L’entreprise a fourni au canton les garanties suivantes:
   - 2\. elle n’octroie pas de prêts à ses propriétaires et ne rembourse pas les prêts de ses propriétaires; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements;
 
 - b. elle ne transfère pas les fonds accordés à une société du groupe qui lui est liée directement ou indirectement et n’a pas son siège en Suisse; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements à l’intérieur d’un groupe.
+
+<sup>2</sup> Dès lors qu’une entreprise individuelle qui a obtenu des contributions non remboursables réalise un bénéfice de liquidation au moment de la cessation définitive de ses activités, les exigences prévues à l’al. 1, let. a, ch. 1, sont considérées comme respectées en ce qui concerne ce cas de figure.[^3-1]
+
+[^3-1]: Introduit par le ch. II de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Section 3 Exigences relatives à la forme des mesures pour les cas de rigueur
 
@@ -102,7 +108,7 @@ Le formulaire de demande du canton, le contrat que le canton conclut avec une en
 
 <sup>3</sup> La Confédération peut effectuer à tout moment des contrôles ponctuels auprès des cantons.
 
-## Section 4 ...
+## Section 4 …
 
 #### Art. 11 et 12
 
@@ -155,7 +161,16 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 **Demande de restitution**
 
-La Confédération peut retenir des paiements destinés à un canton ou réclamer la restitution des versements effectués à un canton s’il apparaît que les exigences de la présente ordonnance ou du contrat, avenant compris, visé à l’art. 14 n’ont pas été respectées.
+<sup>1</sup> La Confédération peut retenir des paiements destinés à un canton ou réclamer la restitution des versements effectués à un canton s’il apparaît que les exigences de la présente ordonnance ou du contrat, avenant compris, visé à l’art. 14 n’ont pas été respectées.
+
+<sup>2</sup>
+
+Dès lors qu’un canton a renoncé, avant l’entrée vigueur de la modification du 2 avril 2025, ou renonce, après l’entrée en vigueur de cette modification, à demander la restitution des contributions non remboursables à une entreprise individuelle qui a réalisé un bénéfice de liquidation au sens de l’art. 3, al. 2, au moment de la cessation définitive de ses activités:
+
+- a. il ne doit rien rembourser à la Confédération en ce qui concerne ce cas de figure;
+- b. il peut réclamer à la Confédération les montants qu’il lui a déjà remboursés en ce qui concerne ce cas de figure.[^17-1]
+
+[^17-1]: Introduit par le ch. II de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Section 6 Dispositions finales
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2022 sui provvedimenti per i casi di rigore con
 short: OPCR 22
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/61"
 language: it
-version: 2023-01-01
+version: 2025-05-01
 adopted: 2022-02-02
 in_force: 2022-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-61-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2022-61-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/it"
 
 (Ordinanza COVID-19 casi di rigore 2022, OPCR 22)
 
-del 2 febbraio 2022 (Stato 1° gennaio 2023)
+del 2 febbraio 2022 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -47,6 +47,8 @@ ordina:
 
 **Limitazione dell’impiego**
 
+<sup>1</sup>
+
 L’impresa ha confermato al Cantone che:
 
 - a.
@@ -57,6 +59,10 @@ L’impresa ha confermato al Cantone che:
   - 2\. non concede mutui ai suoi proprietari e non rimborsa i prestiti dei suoi proprietari; è però consentito in particolare l’adempimento di preesistenti obblighi ordinari di pagamento di interessi e di ammortamento;
 
 - b. non trasferisce fondi concessi a una società del gruppo non avente sede in Svizzera a cui è legata direttamente o indirettamente; è però consentito segnatamente l’adempimento di preesistenti obblighi ordinari di pagamento di interessi e di ammortamento all’interno di un gruppo.
+
+<sup>2</sup> Se un’impresa individuale che ha percepito contributi non rimborsabili consegue un utile di liquidazione al momento della cessazione definitiva dell’attività, per quel che concerne tale utile i requisiti di cui al capoverso 1 lettera a numero 1 sono considerati rispettati.[^3-1]
+
+[^3-1]: Introdotto cifra II dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Sezione 3: Requisiti concernenti l’impostazione dei provvedimenti per i casi di rigore
 
@@ -155,7 +161,16 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 **Restituzione**
 
-La Confederazione può trattenere i pagamenti ai Cantoni o chiedere la restituzione dei pagamenti versati a un Cantone se risulta che i requisiti della presente ordinanza o del contratto e del relativo complemento di cui all’articolo 14 non sono stati rispettati.
+<sup>1</sup> La Confederazione può trattenere i pagamenti ai Cantoni o chiedere la restituzione dei pagamenti versati a un Cantone se risulta che i requisiti della presente ordinanza o del contratto e del relativo complemento di cui all’articolo 14 non sono stati rispettati.
+
+<sup>2</sup>
+
+Se ha rinunciato, prima dell’entrata in vigore della modifica del 2 aprile 2025, o rinuncia, dopo l’entrata in vigore della presente ordinanza, a chiedere la restituzione dei contributi non rimborsabili a un’impresa individuale che al momento della cessazione definitiva dell’attività ha conseguito un utile di liquidazione secondo l’articolo 3 capoverso 2, per quel che concerne tale utile il Cantone:
+
+- a. non è tenuto a rimborsare la Confederazione;
+- b. può chiedere alla Confederazione la restituzione dei rimborsi già effettuati.[^17-1]
+
+[^17-1]: Introdotto cifra II dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Sezione 6: Disposizioni finali
 
