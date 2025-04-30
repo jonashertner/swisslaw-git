@@ -4,13 +4,12 @@ number: "819.11"
 title: Verordnung über das Veterinärwesen
 short: VetV
 language: de
-version: 2024-01-01
-valid_until: 2025-04-30
-version_adopted: 2023-12-19
+version: 2025-05-01
+version_adopted: 2025-04-22
 adopted: 2022-03-22
 in_force: 2022-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/819.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2739/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2892/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ VetV
 
 (VetV)
 
-vom 22.03.2022 (Stand 01.01.2024)
+vom 22.03.2022 (Stand 01.05.2025)
 
 ## 1. Zuständigkeiten und Organisation
 
@@ -520,6 +519,8 @@ vom 22.03.2022 (Stand 01.01.2024)
 
 <sup>3</sup> Tierische Nebenprodukte dürfen nicht an freilebende Wildtiere verfüttert werden. Zum Zweck der Bejagung von Raubwild ist das gelegentliche Beschicken von Luderplätzen mit tierischen Nebenprodukten der Risikokategorien 2 und 3 zulässig.
 
+<sup>4</sup> Die direkte Abholung von Tierkörpern gemäss § 28 VetG erfolgt nur bei Mengen von über 200 kg.
+
 #### § 47
 
 **Entsorgungsbeiträge**
@@ -808,18 +809,13 @@ vom 22.03.2022 (Stand 01.01.2024)
 
 #### § 68
 
-**Kollektivbewilligung, notfallmässige Unterbringung**
+**Kollektivbewilligung**
 
-<sup>1</sup> Eine Kollektivbewilligung benötigen:
-
-- 1\. Einrichtungen wie Tierheime oder Tierschutzorganisationen, die bewilligungspflichtige Hunde im Rahmen ihrer üblichen Tätigkeit aufnehmen, und
-- 2\. Hundeschulen, die Kurse und Veranstaltungen mit bewilligungspflichtigen Hunden anbieten oder durchführen
+<sup>1</sup> Eine Kollektivbewilligung benötigen Betriebe und Einrichtungen wie Tierheime, Tierschutzorganisationen oder Spazierdienste, die bewilligungspflichtige Hunde im Rahmen ihrer üblichen Tätigkeit betreuen oder aufnehmen.
 
 <sup>2</sup> Bei Kollektivbewilligungen gelten die Bewilligungsvoraussetzungen von § 3b Hundegesetz sinngemäss.
 
-<sup>3</sup> In Notfällen können Einrichtungen gemäss Abs. 1 Ziff. 1 bewilligungspflichtige Hunde aufnehmen, auch wenn sie nicht über die hierfür erforderliche Kollektivbewilligung verfügen. Eine solche notfallmässige Unterbringung ist der Vollzugsbehörde innert 10 Tagen nach erfolgter Aufnahme zu melden. Sie darf höchstens 30 Tage dauern.
-
-<sup>4</sup> Notfallmässig untergebrachte bewilligungspflichtige Hunde dürfen im öffentlichen Raum nur ausgeführt werden, wenn sie an einer festen Leine von maximal 2.5 m Länge geführt werden und mit einem Maulkorb versehen sind.
+<sup>3–4</sup> …
 
 #### § 69
 
@@ -827,8 +823,18 @@ vom 22.03.2022 (Stand 01.01.2024)
 
 <sup>1</sup> Personen, die einen bewilligungspflichtigen Hund halten und neu im Kanton Wohnsitz genommen haben, müssen innert 10 Tagen nach erfolgter Wohnsitznahme bei der Vollzugsbehörde ein entsprechendes Bewilligungsgesuch einreichen.
 
-<sup>2</sup> Solange über ihr Bewilligungsgesuch nicht entschieden wurde, dürfen sie den Hund im öffentlichen Raum nur ausführen, wenn er an einer festen Leine von maximal 2.5 m Länge geführt wird und mit einem Maulkorb versehen ist.
+<sup>2</sup> Solange über das Bewilligungsgesuch nicht entschieden worden ist, dürfen sie den Hund im öffentlichen Raum nur ausführen, wenn er an einer festen Leine von maximal 2.5 m Länge geführt wird und mit einem passenden Maulkorb versehen ist.
 
-<sup>3</sup> Personen, die sich mit ihrem bewilligungspflichtigen Hund für maximal 30 Tage im Kanton aufhalten, benötigen hierfür keine Bewilligung. Sie dürfen den Hund im öffentlichen Raum jedoch nur ausführen, wenn er an einer festen Leine von maximal 2.5 m Länge geführt wird und mit einem Maulkorb versehen ist.
+<sup>3</sup> Personen ohne Wohnsitz im Kanton, die sich mit einem bewilligungspflichtigen Hund, der nicht im Kanton gehalten wird, im Kanton aufhalten, benötigen hierfür keine Bewilligung. Der Hund darf im öffentlichen Raum jedoch nur ausgeführt werden, wenn er an einer festen Leine von maximal 2.5 m Länge geführt wird und mit einem passenden Maulkorb versehen ist.
+
+#### § 70
+
+**Notfallmässige Unterbringung**
+
+<sup>1</sup> Die notfallmässige Unterbringung potentiell gefährlicher Hunde ist auch bei Personen möglich, die nicht über eine Bewilligung für das Halten, Betreuen oder Ausführen eines solchen Hundes verfügen. Eine solche notfallmässige Unterbringung darf höchstens 10 Tage dauern.
+
+<sup>2</sup> Die notfallmässige Unterbringung ist auch in Betrieben und Einrichtungen gemäss § 68 Abs. 1 gestattet, selbst wenn diese nicht über die hierfür erforderliche Kollektivbewilligung verfügen. Eine solche notfallmässige Unterbringung ist der Vollzugsbehörde innert 10 Tagen nach erfolgter Aufnahme zu melden. Sie darf höchstens 30 Tage dauern.
+
+<sup>3</sup> Notfallmässig untergebrachte Hunde dürfen im öffentlichen Raum nur ausgeführt werden, wenn sie an einer festen Leine von maximal 2.5 m Länge geführt werden und mit einem passenden Maulkorb versehen sind.
 
 12/2022
