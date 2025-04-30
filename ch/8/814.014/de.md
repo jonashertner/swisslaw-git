@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2005 über die Gebühren des Bundesamtes für Umw
 short: GebV-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: de
-version: 2022-01-01
+version: 2025-05-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-449-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20220101/de"
 
 (Gebührenverordnung BAFU, GebV-BAFU)[^t-1]
 
-vom 3. Juni 2005 (Stand am 1. Januar 2022)
+vom 3. Juni 2005 (Stand am 1. Mai 2025)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie, in Kraft seit 1. Jan. 2007 ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -120,7 +120,7 @@ Es werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-...[^8-1]
+…[^8-1]
 
 [^8-1]: Die Änderungen können unter [AS 2005 2603](https://fedlex.data.admin.ch/eli/oc/2005/449)konsultiert werden.
 
@@ -144,7 +144,7 @@ Anhang[^t-2]
 
 ## Feste Gebührenansätze und Gebührenrahmen
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. II 3 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Anhang 2 Ziff. II 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)), Anhang 5 Ziff. 4 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Anhang 5 Ziff. 8 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Anhang Ziff. II 1 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), Ziff. I 1 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Ziff. I der V vom 27. Sept. 2019 ([AS 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), Ziff. III der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und Anhang 3 Ziff. 1 der Holzhandelsverordnung vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. II 3 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Anhang 2 Ziff. II 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)), Anhang 5 Ziff. 4 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Anhang 5 Ziff. 8 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Anhang Ziff. II 1 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), Ziff. I 1 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Ziff. I der V vom 27. Sept. 2019 ([AS 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), Ziff. III der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), Anhang 3 Ziff. 1 der Holzhandelsverordnung vom 12. Mai 2021 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) und Art. 10 Ziff. 2 der V vom 2. April 2025 über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen, in Kraft seit 1. Mai 2025 ([AS 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
@@ -247,6 +247,7 @@ Anhang[^t-2]
 <tr><td>– Durchführung der Kontrolle</td><td>Zeitaufwand</td></tr>
 <tr><td>– Verfügung bei festgestellten Verstössen</td><td>Zeitaufwand, höchstens aber 2000</td></tr>
 <tr><td>3. Entziehung der Anerkennung</td><td>Zeitaufwand, höchstens aber 2000</td></tr>
+<tr><td>11. Verwaltungshandlungen und Kontrollen nach der Verordnung vom 2. April 2025[^annexu1-lvlu1-24] über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen (IBTV): Bearbeitung von Gesuchen betreffend Bewilligung von erneuerbaren oder emissionsarmen Brenn- oder Treibstoffen nach Artikel 4 IBTV</td><td>Zeitaufwand, höchstens aber 10 000</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
@@ -272,3 +273,4 @@ Anhang[^t-2]
 [^annexu1-lvlu1-21]: [SR 721.100.1](https://fedlex.data.admin.ch/eli/cc/1994/2502_2502_2502)
 [^annexu1-lvlu1-22]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 [^annexu1-lvlu1-23]: [SR 814.021](https://fedlex.data.admin.ch/eli/cc/2021/306)
+[^annexu1-lvlu1-24]: [SR 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
