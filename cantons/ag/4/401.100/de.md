@@ -3,20 +3,20 @@ canton: AG
 number: "401.100"
 title: Schulgesetz
 language: de
-version: 2024-07-01
-valid_until: 2025-04-30
-version_adopted: 2023-09-19
+version: 2025-05-01
+valid_until: 2026-07-31
+version_adopted: 2024-09-10
 adopted: 1981-03-17
 in_force: 1982-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/401.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3671/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3736/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Schulgesetz
 
-Vom 17.03.1981 (Stand 01.07.2024)
+Vom 17.03.1981 (Stand 01.05.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -1240,7 +1240,7 @@ beschliesst:
 
 <sup>2</sup> Der Grosse Rat kann Schulversuche anordnen und dafür den Rahmen festlegen.
 
-<sup>3</sup> Er ist endgültig zuständig für Ausgabenbeschlüsse über die Errichtung, die Erweiterung und die Aufhebung der Mittelschulen in Aarau, Baden, Stein, Wettingen, Wohlen und Zofingen.
+<sup>3</sup> Er ist endgültig zuständig für Ausgabenbeschlüsse über die Errichtung, die Erweiterung und die Aufhebung der Mittelschulen in Aarau, Baden, Lenzburg, Stein, Wettingen, Windisch, Wohlen und Zofingen.
 
 <sup>4</sup> Er beschliesst über die Errichtung von Schulen, die vom Kanton gemeinsam mit anderen Trägern geführt werden. Er kann festlegen, dass von Studierenden dieser Schulen mit Wohnsitz im Kanton ein Kostenbeitrag erhoben wird, wenn der Kanton selbst für vergleichbare Ausbildungen persönliche Studiengelder vorsieht.
 
@@ -1272,6 +1272,12 @@ beschliesst:
 **Organisation der Bezirksschulen**
 
 <sup>1</sup> Die zum Zeitpunkt des Inkrafttretens von § 22a bestehenden Bezirksschulen mit weniger als sechs Abteilungen dürfen längstens acht Jahre weitergeführt werden, müssen aber mindestens drei Abteilungen umfassen.
+
+#### § 90e
+
+**Provisorien der Mittelschulen**
+
+<sup>1</sup> Der Grosse Rat ist bis 31. Dezember 2035 endgültig zuständig für Ausgabenbeschlüsse über die Errichtung, die Erweiterung und die Aufhebung von Provisorien der Mittelschulen in den angrenzenden Gemeinden der Standorte gemäss § 89 Abs. 3.
 
 #### § 91
 
