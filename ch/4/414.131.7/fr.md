@@ -3,11 +3,11 @@ sr: "414.131.7"
 title: Ordonnance du Conseil des EPF du 31 mai 1995 sur les taxes perçues dans le domaine des Écoles polytechniques fédérales (Ordonnance sur les taxes du domaine des EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: fr
-version: 2023-01-01
+version: 2025-05-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/fr"
 
 (Ordonnance sur les taxes du domaine des EPF)[^t-1]
 
-du 31 mai 1995 (État le 1<sup>er</sup> janvier 2023)
+du 31 mai 1995 (État le 1<sup>er</sup> mai 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 3 avr. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
@@ -47,6 +47,10 @@ La présente ordonnance régit les taxes perçues pour l’enseignement, les act
 
 <sup>1</sup> Les étudiants versent une taxe d’étude pour chaque semestre du bachelor et du master et, pour l’EPF de Lausanne (EPFL), du CMS (cours de mathématiques spéciales). Cela vaut également pour tout semestre entamé.
 
+<sup>1bis</sup> La taxe d’étude visée à l’al. 1 est trois fois plus élevée pour les étudiants étrangers qui élisent domicile en Suisse ou dans la Principauté de Liechtenstein pour étudier ou qui ne sont domiciliés dans aucun de ces deux pays. On considère que quelqu’un élit domicile pour étudier lorsque la personne concernée n’était domiciliée ni en Suisse ni dans la Principauté de Liechtenstein au moment de l’obtention du certificat donnant droit à l’admission aux études dans une haute école.[^2-2]
+
+<sup>1ter</sup> S’agissant de la taxe d’étude, les étudiants de nationalité liechtensteinoise bénéficient de l’égalité de traitement avec les étudiants suisses. L’égalité de traitement en matière de taxe d’étude est également valable pour les étudiants provenant d’un autre État membre de l’Association européenne de libre-échange ou d’un État membre de l’Union européenne s’ils sont salariés, indépendants ou membres de la famille de personnes qui exercent leur droit de libre circulation en Suisse. L’égalité en matière de taxe d’étude s’applique aux enfants de ces personnes pour autant qu’ils soient domiciliés en Suisse.[^2-3]
+
 <sup>2</sup>
 
 La taxe d’étude couvre les prestations nécessaires pour:
@@ -66,15 +70,19 @@ Les directions des écoles exonèrent du paiement de la taxe d’étude les étu
 - a. sont soumis à une taxe d’étude régulière dans leur université, et
 - b. suivent des cours dans l’une des EPF dans le cadre d’une collaboration institutionnelle.
 
-<sup>6</sup> Pour les formations dispensées en partenariat avec d’autres hautes écoles, les partenaires déterminent à quelle école la taxe d’étude doit être versée. S’il s’agit d’une EPF, la taxe d’étude est réglée par l’al. 1.
+<sup>6</sup> Pour les formations dispensées en partenariat avec d’autres hautes écoles, les partenaires déterminent à quelle école la taxe d’étude doit être versée. S’il s’agit d’une EPF, la taxe d’étude est réglée par les al. 1 et 1<sup>bis</sup>.[^2-4]
 
 <sup>7</sup> Les étudiants immatriculés aussi bien dans une filière de bachelor que dans la filière de master consécutive ne versent qu’une taxe d’étude.
 
-<sup>8</sup> Pour le travail de master, la taxe d’étude selon l’al. 1 doit être versée au cours du semestre où l’étudiant a consacré le plus de temps à ce travail.
+<sup>8</sup> Pour le travail de master, la taxe d’étude selon les al. 1 et 1<sup>bis</sup> doit être versée au cours du semestre où l’étudiant a consacré le plus de temps à ce travail.[^2-5]
 
 <sup>9</sup> Le montant de la taxe d’étude est réglé à l’annexe, ch. 1.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 3 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2-2]: Introduit par le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-3]: Introduit par le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 3
 
@@ -127,6 +135,16 @@ Les personnes qui, durant ou après leurs études, terminent une formation didac
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 3 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 [^6-2]: Introduit par le ch. I de l’O du Conseil des EPF du 8 déc. 2016, en vigueur depuis le 15 fév. 2017 ([RO 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+
+#### Art. 6a
+
+**Adaptation des taxes d’études au renchérissement**[^6a-1]
+
+<sup>1</sup> Les taxes d’études visées aux art. 2 à 6 et au ch. 1 de l’annexe sont basées sur le niveau de l’indice suisse des prix à la consommation de mai 2024, à savoir 107,7 points.
+
+<sup>2</sup> Le Conseil des EPF adapte le montant des taxes d’études visées aux art. 2 à 6, qui figure au ch. 1 de l’annexe, tous les quatre ans en fonction du niveau de l’indice suisse des prix à la consommation du mois de mai de l’année précédente, la première adaptation ayant lieu au semestre d’automne 2029.
+
+[^6a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 7
 
@@ -389,11 +407,14 @@ Sont abrogées:
 
 #### Art. 28
 
-**Disposition transitoire relative à la modification du 5 juillet 2018**[^28-1]
+**Disposition transitoire relative à la modification du 5 décembre 2024**[^28-1]
 
-Le montant des taxes d’études pour la période allant du semestre d’automne 2018 au semestre de printemps 2020 inclus est régi par les ch. 1<sup>bis</sup> et 1<sup>ter</sup> de l’annexe.
+Versent la taxe d’étude selon l’ancien droit:
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 juil. 2018, en vigueur depuis le 1<sup>er</sup> sept. 2018 ([RO 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+- a. les étudiants étrangers immatriculés dans une EPF avant l’entrée en vigueur de la modification du 5 décembre 2024, jusqu’ à la fin du bachelor;
+- b. les étudiants étrangers immatriculés en master dans une EPF avant l’entrée en vigueur de la modification du 5 décembre 2024, jusqu’à la fin du master.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 29
 
@@ -403,11 +424,11 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1995.
 
 Annexe[^t-2]
 
-(art. 2, al. 9, 6, al. 2<sup>bis</sup>, et 10, al. 2)
+(art. 2, al. 9, 6, al. 2<sup>bis</sup>, 6*a* et 10, al. 2 et 2<sup>bis</sup>)
 
 ## Taxes d’études et autres taxes d’utilisation et d’administration
 
-[^t-2]: Anciennement annexe 1. Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil des EPF du 3 mars 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Mise à jour selon le ch. II des O du Conseil des EPF du 8 déc. 2016 ([RO 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), du 5 juil. 2018 ([RO 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) et le ch. I de l’O du Conseil des EPF du 21 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
+[^t-2]: Anciennement annexe 1. Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil des EPF du 3 mars 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Mise à jour selon le ch. II des O du Conseil des EPF du 8 déc. 2016 ([RO 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), du 5 juil. 2018 ([RO 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)), le ch. I de l’O du Conseil des EPF du 21 sept. 2022 ([RO 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)) et le ch. II de l’O du Conseil des EPF du 5 déc. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 ### 1. Taxes d’études
 
@@ -416,6 +437,7 @@ Annexe[^t-2]
 <tr><td>1. Taxes d’études</td><td></td><td></td></tr>
 <tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
 <tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>730</td><td>730</td></tr>
+<tr><td>*1.1.1**<sup>bis</sup>* *Étudiants étrangers* *au sens de l’art. 2, al. 1**<sup>bis</sup>**,* en formation de bachelor et de master</td><td>2190</td><td>2190</td></tr>
 <tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
 <tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>60</td><td>–</td></tr>
 <tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>60</td></tr>
@@ -428,48 +450,6 @@ Annexe[^t-2]
 <tr><td>– taxe d’étude (payable au 1<sup>er</sup> semestre)</td><td>730</td><td>730</td></tr>
 <tr><td>– contribution aux frais variable selon le programme</td><td></td><td></td></tr>
 <tr><td>*1.2.4* *Programme de formation continue selon l’art. 6, al. 2**<sup>bis</sup>*</td><td>730</td><td>730</td></tr>
-</table>
-
-### 1<sup>bis</sup>. Taxes d’études pour la période allant du semestre d’automne 2018 au semestre de printemps 2019
-
-<table>
-<tr><th></th><th>EPFZ (en francs)</th><th>EPFL (en francs)</th></tr>
-<tr><td>1. Taxes d’études</td><td></td><td></td></tr>
-<tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>580</td><td>580</td></tr>
-<tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
-<tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Taxe d’études unique</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Doctorants* (avant l’examen de doctorat)</td><td>1200</td><td>1200</td></tr>
-<tr><td>*1.2.2* *Programme de formation continue universitaire: MAS, MBA, EM*</td><td></td><td></td></tr>
-<tr><td>– taxe d’études (payable pour moitié au 1<sup>er</sup> semestre et pour moitié au 2<sup>e</sup> semestre)</td><td>1160</td><td>1160</td></tr>
-<tr><td>– contribution aux frais variable selon le programme</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Programme de formation continue: CAS ou DAS*</td><td></td><td></td></tr>
-<tr><td>– taxe d’études (payable au 1<sup>er</sup> semestre)</td><td>580</td><td>580</td></tr>
-<tr><td>– contribution aux frais variable selon le programme</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Programme de formation continue selon l’art. 6, al. 2**<sup>bis</sup>*</td><td>580</td><td>580</td></tr>
-</table>
-
-### 1<sup>ter</sup>. Taxes d’études pour la période allant du semestre d’automne 2019 au semestre de printemps 2020
-
-<table>
-<tr><th></th><th>EPFZ (en francs)</th><th>EPFL (en francs)</th></tr>
-<tr><td>1. Taxes d’études</td><td></td><td></td></tr>
-<tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>660</td><td>660</td></tr>
-<tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
-<tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Taxe d’étude unique</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Doctorants* (avant l’examen de doctorat)</td><td>1350</td><td>1350</td></tr>
-<tr><td>*1.2.2* *Programme de formation continue universitaire: MAS, MBA, EM*</td><td></td><td></td></tr>
-<tr><td>– taxe d’étude (payable pour moitié au 1<sup>er</sup> semestre et pour moitié au 2<sup>e</sup> semestre)</td><td>1320</td><td>1320</td></tr>
-<tr><td>– contribution aux frais variable selon le programme</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Programme de formation continue: CAS ou DAS*</td><td></td><td></td></tr>
-<tr><td>– taxe d’étude (payable au 1<sup>er</sup> semestre)</td><td>660</td><td>660</td></tr>
-<tr><td>– contribution aux frais variable selon le programme</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Programme de formation continue selon l’art. 6, al. 2**<sup>bis</sup>*</td><td>660</td><td>660</td></tr>
 </table>
 
 ### 2. Autres taxes d’utilisation et d’administration

@@ -3,11 +3,11 @@ sr: "414.131.7"
 title: Ordinanza del Consiglio dei PF del 31 maggio 1995 sulle tasse riscosse nel settore dei Politecnici federali (Ordinanza sulle tasse nel settore dei PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: it
-version: 2023-01-01
+version: 2025-05-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20250501/it/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20250501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/it"
 
 (Ordinanza sulle tasse nel settore dei PF)[^t-1]
 
-del 31 maggio 1995 (Stato 1° gennaio 2023)
+del 31 maggio 1995 (Stato 1° maggio 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
 Il Consiglio dei Politecnici federali (Consiglio dei PF),
 
@@ -27,7 +27,7 @@ visto l’articolo 34*d* capoverso 3 della legge federale del 4 ottobre 1991[^in
 ordina:
 
 [^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 ## Sezione 1: Campo d’applicazione
 
@@ -42,6 +42,10 @@ La presente ordinanza disciplina le tasse riscosse per l’insegnamento, gli att
 **Tassa d’iscrizione per gli studi di bachelor e master**[^2-1]
 
 <sup>1</sup> Gli studenti versano ogni semestre una tassa d’iscrizione per gli studi di bachelor e master e, al PF di Losanna (PFL), per il «cours de mathématiques spéciales» (CMS). Questo principio si applica parimenti a ogni semestre iniziato.
+
+<sup>1bis</sup> Per gli studenti stranieri che stabiliscono il domicilio in Svizzera o nel Principato del Liechtenstein per motivi di studio o che non sono domiciliati in nessuno dei due Paesi, la tassa d’iscrizione di cui al capoverso 1 è triplicata. Il domicilio si considera stabilito per motivi di studio se la persona non era domiciliata né in Svizzera né nel Principato del Liechtenstein al momento dell’ottenimento del certificato di ammissione agli studi universitari.[^2-2]
+
+<sup>1ter</sup> Per quanto concerne la tassa d’iscrizione, gli studenti con cittadinanza del Principato del Liechtenstein sono equiparati agli studenti con cittadinanza svizzera. La parità di trattamento in relazione alla tassa d’iscrizione si applica anche agli studenti provenienti da altri Stati membri dell’Associazione europea di libero scambio o da Stati membri dell’Unione europea se sono lavoratori dipendenti, lavoratori autonomi o membri della famiglia di persone che esercitano il loro diritto alla libera circolazione in Svizzera. La parità di trattamento in relazione alla tassa d’iscrizione si applica ai figli di queste persone se sono domiciliati in Svizzera.[^2-3]
 
 <sup>2</sup>
 
@@ -62,15 +66,19 @@ Le direzioni dei PF esonerano dal pagamento della tassa d’iscrizione gli stude
 - a. versano regolarmente una tassa d’iscrizione alla loro università; e
 - b. seguono corsi in uno dei due PF nel quadro di una collaborazione interistituzionale.
 
-<sup>6</sup> Per i cicli di studi organizzati insieme ad altre scuole universitarie, i partner disciplinano a quale scuola universitaria debba essere versata la tassa d’iscrizione. Se si tratta di un PF, la tassa corrisponde a quella di cui al capoverso 1.
+<sup>6</sup> Per i cicli di studi organizzati insieme ad altre scuole universitarie, i partner disciplinano a quale scuola universitaria debba essere versata la tassa d’iscrizione. Se si tratta di un PF, la tassa corrisponde a quella di cui ai capoversi 1 e 1<sup>bis</sup>.[^2-4]
 
 <sup>7</sup> Gli studenti immatricolati sia in uno studio di bachelor sia in uno studio consecutivo di master versano la tassa d’iscrizione una sola volta.
 
-<sup>8</sup> Per il lavoro di master, la tassa d’iscrizione deve essere versata nel semestre in cui è effettuata la maggior parte del lavoro.
+<sup>8</sup> Per il lavoro di master, la tassa d’iscrizione di cui ai capoversi 1 e 1<sup>bis</sup> deve essere versata nel semestre in cui è effettuata la maggior parte del lavoro.[^2-5]
 
 <sup>9</sup> L’ammontare della tassa d’iscrizione è disciplinato nel numero 1 dell’allegato.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2-2]: Introdotto dalla cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-3]: Introdotto dalla cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 3
 
@@ -81,7 +89,7 @@ Le persone che, durante o dopo gli studi, seguono una formazione didattica compl
 - a. per la formazione completa finalizzata al conseguimento del titolo «Master of Advanced Studies in Secondary and Higher Education (MAS SHE)» o del diploma d’insegnamento, una tassa d’iscrizione corrispondente alla tassa semestrale di cui all’articolo 2 capoverso 1 (tassa semestrale completa);
 - b. per la formazione completa finalizzata al conseguimento del certificato didattico, la metà della tassa semestrale di cui all’articolo 2 capoverso 1 (mezza tassa semestrale).
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 4
 
@@ -91,7 +99,7 @@ Le persone che, durante o dopo gli studi, seguono una formazione didattica compl
 
 <sup>2</sup> Non sono considerati lavori autonomi i lavori di semestre, di bachelor, di master e di dottorato.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 5
 
@@ -103,7 +111,7 @@ Le persone che, durante o dopo gli studi, seguono una formazione didattica compl
 
 <sup>3</sup> La tassa deve essere versata prima dell’iscrizione all’esame di dottorato.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 6
 
@@ -121,8 +129,18 @@ Le persone che, durante o dopo gli studi, seguono una formazione didattica compl
 
 <sup>5</sup> In caso di rinuncia fuori termine a un programma di postformazione o a un corso di perfezionamento e in caso d’interruzione degli studi, le tasse sono riscosse integralmente o parzialmente. Le direzioni degli istituti disciplinano i dettagli.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^6-2]: Introdotto dal n. I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^6-2]: Introdotto dalla cifra I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+
+#### Art. 6a
+
+**Adeguamento al rincaro delle tasse d’iscrizione**[^6a-1]
+
+<sup>1</sup> Le tasse d’iscrizione di cui agli articoli 2–6 e al numero 1 dell’allegato si basano sull’indice nazionale dei prezzi al consumo di maggio 2024, pari a 107,7 punti.
+
+<sup>2</sup> Ogni quattro anni il Consiglio dei PF adegua nel numero 1 dell’allegato le tasse d’iscrizione di cui agli articoli 2–6 in funzione dell’indice nazionale dei prezzi al consumo del mese di maggio dell’anno precedente, la prima volta nel semestre autunnale 2029.
+
+[^6a-1]: Introdotto dalla cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 7
 
@@ -136,7 +154,7 @@ Per l’utilizzazione d’installazioni speciali, quali biblioteche, centri di c
 
 Le direzioni degli istituti possono, su domanda, accordare alle persone bisognose l’esenzione totale o parziale dalla tassa d’iscrizione e da altre tasse di utilizzazione.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
 #### Art. 9
 
@@ -146,7 +164,7 @@ Le direzioni degli istituti possono, su domanda, accordare alle persone bisognos
 
 <sup>2</sup> Gli agenti del settore dei PF che si iscrivono come uditori sono esonerati dal pagamento della tassa d’iscrizione.[^9-1]
 
-[^9-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
+[^9-1]: Introdotto dalla cifra I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
 ## Sezione 3: Tasse amministrative
 
@@ -181,10 +199,10 @@ Le direzioni dei PF possono determinare altre tasse per:
 - c. ingiunzioni di pagamento;
 - d. premi per l’assicurazione facoltativa contro gli infortuni.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
-[^10-3]: Introdotta dal n. I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
-[^10-4]: Introdotto dal n. I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+[^10-3]: Introdotta dalla cifra I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+[^10-4]: Introdotto dalla cifra I dell’O del Consiglio dei PF dell’8 dic. 2016, in vigore dal 15 feb. 2017 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
 
 ## Sezione 4: Tasse per prestazioni di servizi degli istituti
 
@@ -231,9 +249,9 @@ Nel calcolo dei costi vanno considerati in particolare gli elementi seguenti:
 
 <sup>5</sup> Per prestazioni ricorrenti della stessa natura gli istituti possono convenire con le persone interessate tasse globali.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^13-3]: Abrogata dal n. I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^13-3]: Abrogata dalla cifra I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 14
 
@@ -256,9 +274,9 @@ Oltre alle tasse sono fatturate le spese. Sono considerate spese i costi supplem
 - g. le spese di riproduzione di documenti;
 - h. le spese di traduzione.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 16
 
@@ -285,7 +303,7 @@ Le direzioni degli istituti possono esigere un anticipo da parte delle persone s
 
 [^1820-1]
 
-[^1820-1]: Abrogati dal n. I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^1820-1]: Abrogati dalla cifra I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 ## Sezione 5: …
 
@@ -293,7 +311,7 @@ Le direzioni degli istituti possono esigere un anticipo da parte delle persone s
 
 [^2122-1]
 
-[^2122-1]: Abrogati dal n. I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2122-1]: Abrogati dalla cifra I dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 ## Sezione 6: Tasse di posteggio
 
@@ -340,7 +358,7 @@ I criteri determinanti per tali deroghe sono, in particolare:
 
 [^sec7-1]
 
-[^sec7-1]: Introdotta dal n. I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^sec7-1]: Introdotta dalla cifra I dell’O del Consiglio dei PF del 3 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 #### Art. 25a
 
@@ -386,11 +404,14 @@ Sono abrogate:
 
 #### Art. 28
 
-**Disposizioni transitorie della modifica del 5 luglio 2018**[^28-1]
+**Disposizioni transitorie della modifica del 5 dicembre 2024**[^28-1]
 
-L’ammontare della tassa d’iscrizione per il periodo compreso tra il semestre autunnale 2018 e il semestre primaverile 2020 incluso è disciplinato nei numeri 1<sup>bis</sup> e 1<sup>ter</sup> dell’allegato.
+Versano la tassa d’iscrizione secondo il diritto anteriore gli studenti stranieri che prima dell’entrata in vigore della modifica del 5 dicembre 2024:
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 lug. 2018, in vigore dal 1° set. 2018 ([RU 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+- a. erano già immatricolati a un PF, e questo fino alla fine dello studio di bachelor;
+- b. erano già immatricolati a un PF per uno studio di master, e questo fino alla fine dello studio di master.
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 29
 
@@ -398,13 +419,13 @@ L’ammontare della tassa d’iscrizione per il periodo compreso tra il semestre
 
 La presente ordinanza entra in vigore il 1° ottobre 1995.
 
-Allegato[^t-2]
+Allegato 1[^t-2]
 
-(art. 2 cpv. 9, 6 cpv. 2<sup>bis</sup> e 10 cpv. 2)
+(art. 2 cpv. 9, 6 cpv. 2<sup>bis</sup>, 6*a* e 10 cpv. 2 e 2<sup>bis</sup>)
 
 ## Tassa d’iscrizione e altre tasse di utilizzazione e amministrative
 
-[^t-2]: Originario all. 1. Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dei PF del 3 mar. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Aggiornato dal n. II delle O del Consiglio dei PF dell’8 dic. 2016 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), del 5 lug. 2018 ([RU 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) e dal n. I dell’O del Consiglio dei PF del 21 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
+[^t-2]: Originario all. Nuovo testo giusta la cifra II cpv. 1 dell’O del Consiglio dei PF del 3 mar. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Aggiornato dalla cifra II delle O del Consiglio dei PF dell’8 dic. 2016 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), del 5 lug. 2018 ([RU 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)), dalla cifra I del’O del Consiglio dei PF del 21 set. 2022 ([RU 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)) e dalla cifra II del’O del Consiglio dei PF del 5 dic. 2024, in vigore dal 1° mag. 2025 ([RU 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 ### 1. Tassa d’iscrizione
 
@@ -413,6 +434,7 @@ Allegato[^t-2]
 <tr><td>1. Tassa d’iscrizione</td><td></td><td></td></tr>
 <tr><td>1.1 Tassa d’iscrizione per semestre</td><td></td><td></td></tr>
 <tr><td>*1.1.1* *Studenti* che seguono studi di bachelor e master</td><td>730</td><td>730</td></tr>
+<tr><td>*1.1.1**<sup>bis</sup>* *Studenti stranieri ai sensi dell’articolo 2 capoverso 1**<sup>bis</sup>* che seguono studi di bachelor e master</td><td>2190</td><td>2190</td></tr>
 <tr><td>*1.1.2* *Studenti* in congedo che seguono materie separate, studenti ospiti e uditori</td><td></td><td></td></tr>
 <tr><td>– per ora settimanale di corso (PFZ)</td><td>60</td><td>–</td></tr>
 <tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>60</td></tr>
@@ -425,48 +447,6 @@ Allegato[^t-2]
 <tr><td>– tassa d’iscrizione (nel primo semestre)</td><td>730</td><td>730</td></tr>
 <tr><td>– contributo ai costi variabile secondo il corso</td><td></td><td></td></tr>
 <tr><td>*1.2.4* *Programmi* *di postformazione secondo l’art. 6 cpv. 2**<sup>bis</sup>*</td><td>730</td><td>730</td></tr>
-</table>
-
-### 1*<sup>bis</sup>*. Tassa d’iscrizione nel semestre autunnale 2018 e nel semestre primaverile 2019
-
-<table>
-<tr><th></th><th>PFZ (in CHF)</th><th>PFL (in CHF)</th></tr>
-<tr><td>1. Tassa d’iscrizione</td><td></td><td></td></tr>
-<tr><td>1.1 Tassa d’iscrizione per semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Studenti* che seguono studi di bachelor e master</td><td>580</td><td>580</td></tr>
-<tr><td>*1.1.2* *Studenti* in congedo che seguono materie separate, studenti ospiti e uditori</td><td></td><td></td></tr>
-<tr><td>– per ora settimanale di corso (PFZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Tassa d’iscrizione unica</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Dottorandi* (prima dell’esame di dottorato)</td><td>1200</td><td>1200</td></tr>
-<tr><td>*1.2.2* *Programma* *master di formazione postuniversitaria (MAS, MBA, EM)*</td><td></td><td></td></tr>
-<tr><td>– tassa d’iscrizione (da pagare metà nel primo e metà nel secondo semestre)</td><td>1160</td><td>1160</td></tr>
-<tr><td>– contributo ai costi variabile secondo il ciclo di studi</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Certificato* *o diploma di formazione continua (DAS, CAS)*</td><td></td><td></td></tr>
-<tr><td>– tassa d’iscrizione (nel primo semestre)</td><td>580</td><td>580</td></tr>
-<tr><td>– contributo ai costi variabile secondo il corso</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Programmi* *di postformazione secondo l’art. 6 cpv. 2**<sup>bis</sup>*</td><td>580</td><td>580</td></tr>
-</table>
-
-### 1*<sup>ter</sup>*. Tassa d’iscrizione nel semestre autunnale 2019 e nel semestre primaverile 2020
-
-<table>
-<tr><th></th><th>PFZ (in CHF)</th><th>PFL (in CHF)</th></tr>
-<tr><td>1. Tassa d’iscrizione</td><td></td><td></td></tr>
-<tr><td>1.1 Tassa d’iscrizione per semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Studenti* che seguono studi di bachelor e master</td><td>660</td><td>660</td></tr>
-<tr><td>*1.1.2* *Studenti* in congedo che seguono materie separate, studenti ospiti e uditori</td><td></td><td></td></tr>
-<tr><td>– per ora settimanale di corso (PFZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Tassa d’iscrizione unica</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Dottorandi* (prima dell’esame di dottorato)</td><td>1350</td><td>1350</td></tr>
-<tr><td>*1.2.2* *Programma* *master di formazione postuniversitaria (MAS, MBA, EM)*</td><td></td><td></td></tr>
-<tr><td>– tassa d’iscrizione (da pagare metà nel primo e metà nel secondo semestre)</td><td>1320</td><td>1320</td></tr>
-<tr><td>– contributo ai costi variabile secondo il ciclo di studi</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Certificato* *o diploma di formazione continua (DAS, CAS)*</td><td></td><td></td></tr>
-<tr><td>– tassa d’iscrizione (nel primo semestre)</td><td>660</td><td>660</td></tr>
-<tr><td>– contributo ai costi variabile secondo il corso</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Programmi* *di postformazione secondo l’art. 6 cpv. 2**<sup>bis</sup>*</td><td>660</td><td>660</td></tr>
 </table>
 
 ### 2. Altre tasse di utilizzazione e amministrative
@@ -503,4 +483,4 @@ Allegato[^t-2]
 
 Allegato 2[^t-3]
 
-[^t-3]: Abrogato dal n. II cpv. 2 dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^t-3]: Abrogato dalla cifra II cpv. 2 dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).

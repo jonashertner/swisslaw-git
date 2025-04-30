@@ -3,11 +3,11 @@ sr: "414.131.7"
 title: Verordnung des ETH-Rates vom 31. Mai 1995 über die Gebühren im Bereich der Eidgenössischen Technischen Hochschulen (Gebührenverordnung ETH-Bereich)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: de
-version: 2023-01-01
+version: 2025-05-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/de"
 
 (Gebührenverordnung ETH-Bereich)[^t-1]
 
-vom 31. Mai 1995 (Stand am 1. Januar 2023)
+vom 31. Mai 1995 (Stand am 1. Mai 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 3. April 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
@@ -44,6 +44,10 @@ Diese Verordnung regelt die Gebühren für die von den Anstalten des ETH-Bereich
 
 <sup>1</sup> Die Studierenden entrichten für jedes Semester im Bachelor- und im Masterstudium sowie an der ETH Lausanne für jedes Semester des «cours de mathématiques spéciales» (CMS) ein Schulgeld. Dies gilt auch für jedes angefangene Semester.
 
+<sup>1bis</sup> Für ausländische Studierende, die zum Zweck des Studiums in der Schweiz oder im Fürstentum Liechtenstein Wohnsitz begründen oder die keinen Wohnsitz in einem der beiden Staaten haben, beträgt das Schulgeld nach Absatz 1 das Dreifache. Der Wohnsitz gilt als zum Zweck des Studiums begründet, wenn die betreffende Person im Zeitpunkt des Erwerbs des Hochschulzulassungsausweises weder in der Schweiz noch im Fürstentum Liechtenstein ihren Wohnsitz hatte.[^2-2]
+
+<sup>1ter</sup> Studierende mit liechtensteinischem Bürgerrecht sind in Bezug auf das Schulgeld Studierenden mit Schweizer Bürgerrecht gleichgestellt. Die Gleichstellung in Bezug auf das Schulgeld gilt auch für Studierende aus einem anderen Mitgliedsstaat der Europäischen Freihandelsassoziation oder aus einem Mitgliedstaat der Europäischen Union, soweit sie Arbeitnehmende, Selbstständigerwerbende oder Familienangehörige von Personen sind, die ihr Recht auf Freizügigkeit in der Schweiz ausüben. Für Kinder solcher Personen gilt die Gleichstellung in Bezug auf das Schulgeld, soweit die Kinder Wohnsitz in der Schweiz haben.[^2-3]
+
 <sup>2</sup>
 
 Im Schulgeld eingeschlossen sind die Leistungen für:
@@ -63,15 +67,19 @@ Die Schulleitungen befreien Studierende anderer schweizerischer universitärer H
 - a. an ihrer Heimhochschule ein reguläres Schulgeld entrichten; und
 - b. im Rahmen einer institutionellen Zusammenarbeit an einer ETH Lehrveranstaltungen besuchen.
 
-<sup>6</sup> Für Studiengänge, die gemeinsam mit anderen Hochschulen durchgeführt werden, regeln die Partner, an welcher Hochschule das Schulgeld entrichtet wird. Ist dies eine ETH, so entspricht das Schulgeld demjenigen nach Absatz 1.
+<sup>6</sup> Für Studiengänge, die gemeinsam mit anderen Hochschulen durchgeführt werden, regeln die Partner, an welcher Hochschule das Schulgeld entrichtet wird. Ist dies eine ETH, so entspricht das Schulgeld demjenigen nach Absatz 1 und 1<sup>bis</sup>.[^2-4]
 
 <sup>7</sup> Studierende, die sowohl in einem Bachelor- als auch im daran anschliessenden Masterstudium immatrikuliert sind, entrichten das Schulgeld nur einmal.
 
-<sup>8</sup> Für die Masterarbeit ist in demjenigen Semester, in dem die Arbeit mehrheitlich durchgeführt wird, ein Schulgeld nach Absatz 1 zu entrichten.
+<sup>8</sup> Für die Masterarbeit ist in demjenigen Semester, in dem die Arbeit mehrheitlich durchgeführt wird, ein Schulgeld nach Absatz 1 und 1<sup>bis</sup> zu entrichten.[^2-5]
 
 <sup>9</sup> Die Höhe des Schulgeldes ist im Anhang Ziffer 1 geregelt.
 
 [^2-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 3. März 2011, in Kraft seit 1. Mai. 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-3]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
+[^2-5]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 3
 
@@ -124,6 +132,16 @@ Personen, die während oder nach dem Studium eine ergänzende didaktische Ausbil
 
 [^6-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 3. März 2011, in Kraft seit 1. Mai. 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 [^6-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 8. Dez. 2016, in Kraft seit 15. Febr. 2017 ([AS 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)).
+
+#### Art. 6a
+
+**Anpassung der Schulgelder an die Teuerung**[^6a-1]
+
+<sup>1</sup> Die Schulgelder nach den Artikeln 2–6 und nach Anhang Ziffer 1 basieren auf dem Stand des Landesindexes der Konsumentenpreise vom Mai 2024 von 107,7 Punkten.
+
+<sup>2</sup> Der ETH-Rat passt die Schuldgelder nach den Artikeln 2–6 in Anhang Ziffer 1 alle vier Jahre an den Stand des Landesindexes der Konsumentenpreise vom Mai des vorhergehenden Jahres an, erstmals auf das Herbstsemester 2029.
+
+[^6a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 7
 
@@ -385,11 +403,14 @@ Es werden aufgehoben:
 
 #### Art. 28
 
-**Übergangsbestimmungen zur Änderung vom 5. Juli 2018**[^28-1]
+**Übergangsbestimmungen zur Änderung vom 5. Dezember 2024**[^28-1]
 
-Die Höhe des Schulgeldes für die Zeit vom Herbstsemester 2018 bis und mit dem Frühjahrssemester 2020 richtet sich nach dem Anhang Ziffern 1<sup>bis</sup> und 1<sup>ter</sup>.
+Das Schulgeld nach bisherigem Recht bezahlen ausländische Studierende, die vor dem Inkrafttreten der Änderung vom 5. Dezember 2024:
 
-[^28-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. Juli 2018, in Kraft seit 1. Sept. 2018 ([AS 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+- a. an einer ETH immatrikuliert sind, bis zum Abschluss des Bachelorstudiums;
+- b. an einer ETH für das Masterstudium immatrikuliert sind, bis zum Abschluss des Masterstudiums.
+
+[^28-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 #### Art. 29
 
@@ -399,11 +420,11 @@ Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
 Anhang[^t-2]
 
-(Art. 2 Abs. 9, 6 Abs. 2<sup>bis</sup> und 10 Abs. 2)
+(Art. 2 Abs. 9, 6 Abs. 2<sup>bis</sup>, 6*a* und 10 Abs. 2 und 2<sup>bis</sup>)
 
 ## Schulgeld sowie andere Benutzungs- und Verwaltungsgebühren
 
-[^t-2]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 1 der V des ETH-Rates vom 3. März 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Bereinigt gemäss Ziff. II der V des ETH-Rates vom 8. Dez. 2016 ([AS 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), vom 5. Juli 2018 ([AS 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) und Ziff. I der V des ETH-Rats vom 21. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
+[^t-2]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 1 der V des ETH-Rates vom 3. März 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Bereinigt gemäss Ziff. II der V des ETH-Rates vom 8. Dez. 2016 ([AS 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), vom 5. Juli 2018 ([AS 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)), Ziff. I der V des ETH-Rats vom 21. Sept. 2022 ([AS 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)) und Ziff. II der V des ETH-Rates vom 5. Dez. 2024, in Kraft seit 1. Mai 2025 ([AS 2025 106](https://fedlex.data.admin.ch/eli/oc/2025/106)).
 
 ### 1. Schulgeld
 
@@ -411,6 +432,7 @@ Anhang[^t-2]
 <tr><th></th><th>ETHZ (in CHF)</th><th>EPFL (in CHF)</th></tr>
 <tr><td>1.1 Semesterweise zu bezahlendes Schulgeld</td><td></td><td></td></tr>
 <tr><td>*1.1.1* *Studierende* im Bachelor- und Masterstudium</td><td>730</td><td>730</td></tr>
+<tr><td>*1.1.1**<sup>bis</sup>* *Ausländische Studierende im Sinn von Artikel 2 Absatz 1**<sup>bis</sup>* im Bachelor- und Masterstudium</td><td>2190</td><td>2190</td></tr>
 <tr><td>*1.1.2* *Studierende* im Urlaub mit Fächerbelegung, Gaststudierende sowie Hörerinnen und Hörer</td><td></td><td></td></tr>
 <tr><td>– pro Semesterwochenstunde (ETHZ)</td><td>60</td><td>–</td></tr>
 <tr><td>– oder pro Einheit Kreditpunkte (EPFL) (höchstens den entsprechenden Semesterbetrag)</td><td>–</td><td>60</td></tr>
@@ -423,48 +445,6 @@ Anhang[^t-2]
 <tr><td>– Schulgeld (im 1. Semester zu entrichten)</td><td>730</td><td>730</td></tr>
 <tr><td>– Kostenbeitrag individuell je nach Kurs</td><td></td><td></td></tr>
 <tr><td>*1.2.4* *Weiterbildungsprogramme gemäss Art. 6 Abs. 2**<sup>bis</sup>*</td><td>730</td><td>730</td></tr>
-</table>
-
-### 1<sup>bis</sup>. Schulgeld im Herbstsemester 2018 und im Frühjahrssemester 2019
-
-<table>
-<tr><th></th><th>ETHZ (in CHF)</th><th>EPFL (in CHF)</th></tr>
-<tr><td>1. Schulgeld</td><td></td><td></td></tr>
-<tr><td>1.1 Semesterweise zu bezahlendes Schulgeld</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Studierende* im Bachelor- und Masterstudium</td><td>580</td><td>580</td></tr>
-<tr><td>*1.1.2* *Studierende* im Urlaub mit Fächerbelegung, Gaststudierende sowie Hörerinnen und Hörer</td><td></td><td></td></tr>
-<tr><td>– pro Semesterwochenstunde (ETHZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– oder pro Einheit Kreditpunkte (EPFL) (höchstens den entsprechenden Semesterbetrag)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Einmaliges Schulgeld</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Doktorierende* (vor der Doktorprüfung)</td><td>1200</td><td>1200</td></tr>
-<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbildung*</td><td></td><td></td></tr>
-<tr><td>– Schulgeld (je zur Hälfte im 1. und 2. Semester zu entrichten)</td><td>1160</td><td>1160</td></tr>
-<tr><td>– Kostenbeitrag individuell je nach Studiengang</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Weiterbildungszertifikat oder -diplom*</td><td></td><td></td></tr>
-<tr><td>– Schulgeld (im 1. Semester zu entrichten)</td><td>580</td><td>580</td></tr>
-<tr><td>– Kostenbeitrag individuell je nach Kurs</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Weiterbildungsprogramme gemäss Art. 6 Abs. 2**<sup>bis</sup>*</td><td>580</td><td>580</td></tr>
-</table>
-
-### 1<sup>ter</sup>. Schulgeld im Herbstsemester 2019 und im Frühjahrssemester 2020
-
-<table>
-<tr><th></th><th>ETHZ (in CHF)</th><th>EPFL (in CHF)</th></tr>
-<tr><td>1. Schulgeld</td><td></td><td></td></tr>
-<tr><td>1.1 Semesterweise zu bezahlendes Schulgeld</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Studierende* im Bachelor- und Masterstudium</td><td>660</td><td>660</td></tr>
-<tr><td>*1.1.2* *Studierende* im Urlaub mit Fächerbelegung, Gaststudierende sowie Hörerinnen und Hörer</td><td></td><td></td></tr>
-<tr><td>– pro Semesterwochenstunde (ETHZ)</td><td>50</td><td>–</td></tr>
-<tr><td>– oder pro Einheit Kreditpunkte (EPFL) (höchstens den entsprechenden Semesterbetrag)</td><td>–</td><td>50</td></tr>
-<tr><td>1.2 Einmaliges Schulgeld</td><td></td><td></td></tr>
-<tr><td>*1.2.1* *Doktorierende* (vor der Doktorprüfung)</td><td>1350</td><td>1350</td></tr>
-<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbildung*</td><td></td><td></td></tr>
-<tr><td>– Schulgeld (je zur Hälfte im 1. und 2. Semester zu entrichten)</td><td>1320</td><td>1320</td></tr>
-<tr><td>– Kostenbeitrag individuell je nach Studiengang</td><td></td><td></td></tr>
-<tr><td>*1.2.3* *Weiterbildungszertifikat oder -diplom*</td><td></td><td></td></tr>
-<tr><td>– Schulgeld (im 1. Semester zu entrichten)</td><td>660</td><td>660</td></tr>
-<tr><td>– Kostenbeitrag individuell je nach Kurs</td><td></td><td></td></tr>
-<tr><td>*1.2.4* *Weiterbildungsprogramme gemäss Art. 6 Abs. 2**<sup>bis</sup>*</td><td>660</td><td>660</td></tr>
 </table>
 
 ### 2. Andere Benutzungs- und Verwaltungsgebühren
