@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2024-04-01
+version: 2025-05-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/fr"
 
 (ORT)
 
-du 19 juin 1995 (État le 1<sup>er</sup> avril 2024)
+du 19 juin 1995 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 12, 103, 104*d*, al. 5, et 106 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1],[^ingress-2]
+vu les art. 12, 103 et 106 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> fév. 2005 ([RO 2004 5069](https://fedlex.data.admin.ch/eli/oc/2004/781)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -38,7 +38,7 @@ arrête:
 
 <sup>2</sup> Dans la mesure où la présente ordonnance n’en dispose pas autrement, les prescriptions de la loi du 12 juin 2009 sur la sécurité des produits[^1-1] s’appliquent à titre complémentaire.[^1-2]
 
-[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^1-2]: Nouvelle teneur selon le ch. I 4 de l’O du 11 juin 2010 portant adaptation d’O sectorielles dans le domaine de la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2749](https://fedlex.data.admin.ch/eli/oc/2010/358)).
 
 #### Art. 2
@@ -58,7 +58,7 @@ Au sens de la présente ordonnance, on entend par:
 - i.[^2-5] systèmes de véhicules: tous les systèmes d’un type de véhicule soumis à des prescriptions techniques, tels que le dispositif de freinage ou les dispositifs antipollution;
 - k.[^2-6] constructeur: la personne ou le service responsable, envers l’autorité compétente en matière de réception par type, de toutes les questions relatives à la procédure de réception par type, ainsi que la garantie de conformité de la production. La personne ou le service responsable n’a pas l’obligation de participer directement à toutes les phases de la production du véhicule, du système ou du composant de véhicule qui fait l’objet de la procédure de réception par type;
 - l.[^2-7] fiche de données: l’attestation délivrée en lieu et place d’une réception par type pour un véhicule bénéficiant d’une réception générale UE;
-- m.[^2-8] évaluation de conformité: l’attestation écrite, fondée sur un rapport établi par un des organes d’expertise énumérés à l’annexe 2, précisant qu’un objet répond aux prescriptions suisses;
+- m.[^2-8] évaluation de conformité: l’attestation écrite, fondée sur un rapport d’examen établi par un organe d’expertise reconnu en vertu de l’art. 17, al. 1, précisant qu’un objet répond aux prescriptions suisses;
 - n.[^2-9] attestation de conformité: l’attestation écrite, fondée sur un rapport d’examen établi par un organe d’expertise étranger, précisant qu’un objet répond aux prescriptions suisses.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
@@ -68,7 +68,7 @@ Au sens de la présente ordonnance, on entend par:
 [^2-5]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-6]: Introduite par le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-7]: Introduite par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^2-8]: Introduite par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^2-8]: Introduite par le ch. I de l’O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 [^2-9]: Introduite par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
 ## Chapitre 2 Réception par type
@@ -91,7 +91,7 @@ Au sens de la présente ordonnance, on entend par:
 
 Une fiche de données est délivrée en lieu et place d’une réception par type pour un véhicule si le type de véhicule présente toutes les garanties de sécurité et:[^3a-2]
 
-- a. une réception générale-UE a été établie sur la base de prescriptions aux moins équivalentes à celles qui sont en vigueur en Suisse en matière d’équipement et d’expertise; et si
+- a. une réception générale-UE a été établie sur la base de prescriptions aux moins équivalentes à celles qui sont en vigueur en Suisse en matière d’équipement et d’expertise, et si
 - b. les données requises par la Confédération et les cantons sont disponibles.
 
 [^3a-1]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
@@ -115,15 +115,15 @@ Une fiche de données est délivrée en lieu et place d’une réception par typ
 
 <sup>6</sup> Les composants de véhicules, les objets d’équipement et les dispositifs de protection, sur lesquels sont apposées d’autres marques de conformité étrangères ou internationales, sont dispensés de la réception par type, si ces marques ont été délivrées en vertu de prescriptions reconnues comme au moins équivalentes aux prescriptions suisses par l’Office fédéral des routes (office fédéral).[^4-6]
 
-<sup>7</sup> Une évaluation ou une attestation de conformité ou un rapport d’expertise établi par un des organes énumérés à l’annexe 2 suffit pour l’admission des objets visés à l’annexe 1, ch. 2, et de véhicules transformés.[^4-7]
+<sup>7</sup> Une évaluation ou une attestation de conformité ou un rapport d’examen établi par un organe d’expertise reconnu en vertu de l’art. 17, al. 1, suffit pour l’admission des objets visés à l’annexe 1, ch. 2, et de véhicules transformés.[^4-7]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-2]: Introduit par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)). Abrogé par le ch. I de l’O du 10 juin 2005, avec effet au 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-3]: Abrogé par le ch. I de l’O du 10 juin 2005, avec effet au 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-5]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^4-5]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-7]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^4-7]: Introduit par le ch. I de l’O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 5
 
@@ -186,7 +186,7 @@ L’office fédéral refuse la réception par type si l’objet ne satisfait pas
 
 [^11-1]
 
-[^11-1]: Abrogé par le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-1]: Abrogé par l’annexe 4 ch. II 9 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 12
 
@@ -199,11 +199,11 @@ L’office fédéral refuse la réception par type si l’objet ne satisfait pas
 L’office fédéral, en se référant aux critères pertinents de différenciation et à la classification qui en découle dans le système d’information relatif à l’admission à la circulation et dans le permis de circulation, décide:[^12-2]
 
 - a s’il y a lieu de modifier la réception par type ou d’en délivrer une nouvelle;
-- b si un nouveau contrôle s’impose; ou
+- b si un nouveau contrôle s’impose, ou
 - c. si une réception étrangère par type, nouvelle ou élargie, est nécessaire.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^12-2]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^12-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### Section 2 Délivrance de la réception par type
 
@@ -221,7 +221,7 @@ La réception par type est délivrée si le type de véhicule présente toutes l
 
 - a. une réception générale-UE;
 - b. des réceptions partielles-UE;
-- c.[^13-2] des déclarations de conformité du constructeur avec rapport d’expertise selon l’art. 14; ou
+- c.[^13-2] des déclarations de conformité du constructeur avec rapport d’expertise selon l’art. 14, ou
 - d. des réceptions étrangères ou internationales selon l’art. 15.
 
 <sup>2</sup> Si aucun des documents visés à l’al. 1 n’est présenté, la réception par type est délivrée sur la base des expertises techniques de l’objet prévues à la section 3.[^13-3]
@@ -236,11 +236,11 @@ La réception par type est délivrée si le type de véhicule présente toutes l
 
 La déclaration de conformité est reconnue lorsque:
 
-- a.[^14-1] le constructeur dispose de l’infrastructure nécessaire à l’exécution de l’expertise ou qu’il confie cette tâche à un organe d’expertise agréé ou désigné par l’autorité compétente de l’État concerné;
+- a.[^14-1] le constructeur dispose de l’infrastructure nécessaire à l’exécution de l’expertise ou qu’il confie cette tâche à un organe d’expertise accrédité ou désigné par l’autorité compétente de l’État concerné;
 - b.[^14-2] le constructeur effectue un contrôle systématique de qualité dans l’entreprise (attesté p. ex. par un certificat de qualité ISO 9001, resp. EN 29001) et
 - c. l’office fédéral a accès aux données et aux résultats des expertises.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 15
@@ -249,7 +249,7 @@ La déclaration de conformité est reconnue lorsque:
 
 Des réceptions délivrées par des États étrangers selon le droit national ou international sont reconnues lorsque les prescriptions appliquées sont équivalentes aux prescriptions suisses[^15-1]. Le requérant doit en apporter la preuve lors de l’inscription.
 
-[^15-1]: OETV du 19 juin 1995 ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)), OETV 1 du 19 juin 1995 ([RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)), OETV 2 du 19 juin 1995 ([RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)), OETV 3 du 2 sept. 1998 ([RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)) (voir [RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^15-1]: OETV du 19 juin 1995 ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)), OETV 1 du 19 juin 1995 ([RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)), OETV 2 du 19 juin 1995 ([RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)), OETV 3 du 2 sept. 1998 ([RS 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)) (voir [RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 16
 
@@ -287,38 +287,136 @@ L’office fédéral conserve les documents sur support électronique pendant au
 
 #### Art. 17
 
-**Compétence et exigences[^17-2]**[^17-1]
+**Compétence**[^17-1]
 
-<sup>1</sup> La compétence qui permet d’effectuer l’expertise technique est réglée à l’annexe 2.[^17-3]
+<sup>1</sup> L’expertise technique doit être effectuée par un organe d’expertise reconnu pour celle-ci.
 
-<sup>2</sup> Pour l’exécution d’expertises techniques, l’office fédéral peut autoriser provisoirement d’autres organes.
+<sup>2</sup> L’office fédéral tient un répertoire des organes d’expertise reconnus, lequel est accessible au public. Dans ce répertoire, des domaines de compétence sont attribués auxdits organes pour des expertises techniques d’objets définis.
 
-<sup>3</sup> Les organes d’expertise doivent prouver, sur la base de normes internationales, leur aptitude à être désignés comme telles.[^17-4]
+<sup>3</sup> Si aucun organe d’expertise n’est reconnu pour l’exécution d’une expertise technique, l’office fédéral détermine la procédure.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^17-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^17-4]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+
+#### Art. 17a
+
+**Reconnaissance**[^17a-1]
+
+<sup>1</sup> Pour l’exécution d’expertises techniques, l’office fédéral peut reconnaître d’autres organes.
+
+<sup>2</sup> Les services qui souhaitent être reconnus comme organes d’expertise doivent présenter une demande de reconnaissance à l’office fédéral.
+
+<sup>3</sup>
+
+Ils sont reconnus pour l’expertise technique s’ils:
+
+- a. sont accrédités pour l’expertise par le Service d’accréditation suisse (SAS) ou, en vertu des art. 4, al. 3, et 38 de l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^17a-2], par un organisme d’accréditation public étranger ou mandaté par un État étranger;
+- b. peuvent démontrer de manière plausible qu’ils disposent de connaissances suffisantes concernant les prescriptions et documents relatifs aux expertises (art. 19) applicables en l’espèce, et
+- c. disposent d’une assurance-responsabilité civile avec un montant de couverture minimum de 10 millions de francs.
+
+<sup>4</sup>
+
+Les services sont reconnus pour une expertise technique selon un plan d’expertise (art. 19*a*) s’ils:
+
+- a. sont accrédités pour une expertise conformément à l’al. 3, let. a, et qu’il ressort de cette accréditation qu’ils disposent de la compétence requise pour l’exécution de l’expertise selon le plan d’expertise, et
+- b. disposent d’une assurance-responsabilité civile au sens de l’al. 3, let. c.
+
+<sup>5</sup> Une assurance-responsabilité civile n’est pas requise si la responsabilité civile est couverte par une autorité publique ou si l’expertise est réalisée par un organe d’expertise public.
+
+<sup>6</sup> Les services doivent présenter la demande d’accréditation au SAS ou à un organisme d’accréditation public étranger ou mandaté par un État étranger.
+
+<sup>7</sup> L’accréditation doit se référer aux prescriptions et documents relatifs aux expertises (art. 19).
+
+<sup>8</sup> Le SAS informe l’office fédéral en cas de modification, de suspension ou de retrait d’une accréditation.
+
+[^17a-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^17a-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+
+#### Art. 17b
+
+**Droits et obligations des organes d’expertise reconnus**[^17b-1]
+
+<sup>1</sup> Les organes d’expertise reconnus en vertu de l’art. 17, al. 1, sont habilités à délivrer des évaluations de conformité, des attestations de conformité ou des rapports d’examen.
+
+<sup>2</sup> Les organes d’expertise reconnus en vertu de l’art. 17, al. 1, sur la base d’accréditations étrangères doivent informer l’OFROU en cas de modification, de suspension ou de retrait de celles-ci.
+
+<sup>3</sup> Les organes d’expertise reconnus en vertu de l’art. 17, al. 1, doivent communiquer à l’office fédéral toute modification concernant l’assurance-responsabilité civile.
+
+<sup>4</sup> Sur demande, ils doivent fournir à l’office fédéral et aux autorités d’immatriculation des renseignements sur leurs documents de contrôle.
+
+[^17b-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+
+#### Art. 17c
+
+**Possibilité de notification**[^17c-1]
+
+<sup>1</sup> Tout organe d’expertise reconnu est ensuite inscrit à l’annexe 2.
+
+<sup>2</sup>
+
+Son inscription à l’annexe 2 permet sa notification selon:
+
+- a. l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^17c-2];
+- b. l’Accord du 20 mars 1958 concernant l’adoption de Règlements techniques harmonisés de l’ONU applicables aux véhicules à roues et aux équipements et pièces susceptibles d’être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces Règlements[^17c-3].
+
+<sup>3</sup> Les services qui souhaitent faire l’objet d’une notification doivent présenter une demande de notification à l’office fédéral. Celle-ci peut être déposée en même temps que la demande de reconnaissance.
+
+[^17c-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^17c-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^17c-3]: [RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+
+#### Art. 17d
+
+**Annulation de la reconnaissance**[^17d-1]
+
+<sup>1</sup>
+
+La reconnaissance pour l’exécution d’une expertise technique est annulée:
+
+- a. à la demande de l’organe d’expertise reconnu;
+- b. si les conditions prévues à l’art. 17*a*, al. 3 ou 4 ne sont plus respectées, ou
+- c. si l’organe d’expertise reconnu ne se conforme pas aux prescriptions et documents relatifs aux expertises (art. 19) ni aux plans d’expertise (art. 19*a*).
+
+<sup>2</sup> L’office fédéral prononce l’annulation de la reconnaissance et des éventuelles notifications correspondantes au sens de l’art. 17*c,* al. 2. Un recours contre cette décision n’a pas d’effet suspensif.
+
+[^17d-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 18
 
 **Expertise**[^18-1]
 
-<sup>1</sup> Le requérant doit charger un organe d’expertise indiqué à l’annexe 2 d’expertiser l’objet.[^18-2]
+<sup>1</sup> Le requérant doit charger un organe d’expertise reconnu en vertu de l’art. 17, al. 1, d’expertiser l’objet.[^18-2]
 
 <sup>2</sup> Pour chaque expertise technique, il est établi un procès-verbal qui contient les données nécessaires à l’immatriculation des véhicules et les renseignements importants pour déterminer les causes d’accidents.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 19
 
 **Prescriptions et documents relatifs aux expertises**[^19-1]
 
-Les prescriptions et les documents relatifs aux expertises se fondent sur l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^19-2] ainsi que sur les actes de l’UE et les règlements CEE-ONU qui y sont mentionnés.
+Les prescriptions et les documents relatifs aux expertises se fondent sur:
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
-[^19-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+- a. l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^19-2] ainsi que sur les actes et normes internationaux qui y sont mentionnés;
+- b. la présente ordonnance;
+- c. les instructions basées sur l’OETV et sur la présente ordonnance, ainsi que sur d’autres réglementations officielles concernant les expertises techniques.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^19-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+
+#### Art. 19a
+
+**Plans d’expertise**[^19a-1]
+
+<sup>1</sup> Si, pour des expertises au sens de l’art. 41, al. 4 et 5, OETV, il n’existe pas de prescriptions et documents relatifs aux expertises, l’organe d’expertise reconnu en vertu de l’art. 17, al. 1, établit son propre plan d’expertise.
+
+<sup>2</sup> La responsabilité de l’exactitude matérielle du plan d’expertise incombe à l’organe d’expertise.
+
+<sup>3</sup> Les plans d’expertise doivent être actualisés régulièrement et soumis tous les deux ans à l’office fédéral pour un contrôle de plausibilité.
+
+<sup>4</sup> Les coûts occasionnés à l’office fédéral pour le contrôle de la plausibilité du plan d’expertise sont à la charge de l’organe d’expertise.
+
+[^19a-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 20
 
@@ -336,9 +434,10 @@ Les prescriptions et les documents relatifs aux expertises se fondent sur l’or
 
 **Lieu de l’expertise technique**[^21-1]
 
-L’organe d’expertise détermine le lieu de l’expertise. Dans la mesure où des locaux, des installations et des pistes d’essais idoines sont disponibles, il est aussi possible d’effectuer l’expertise par exemple chez l’importateur ou le constructeur.
+L’organe d’expertise reconnu en vertu de l’art. 17, al. 1[^21-2] détermine le lieu de l’expertise. Dans la mesure où des locaux, des installations et des pistes d’essais idoines sont disponibles, il est aussi possible d’effectuer l’expertise par exemple chez l’importateur ou le constructeur.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2000, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+[^21-2]: Nouvelle expression selon le ch. I al. 1 de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 22
 
@@ -350,7 +449,7 @@ L’organe d’expertise détermine le lieu de l’expertise. Dans la mesure où
 
 **Exécution de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection**
 
-<sup>1</sup> À l’occasion de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection, l’organe d’expertise peut conserver un modèle comme pièce justificative ou élément de comparaison.
+<sup>1</sup> À l’occasion de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection, l’organe d’expertise reconnu en vertu de l’art. 17, al. 1 peut conserver un modèle comme pièce justificative ou élément de comparaison.
 
 <sup>2</sup> Aucune indemnité ne peut être requise pour des objets endommagés ou devenus inutilisables lors de l’expertise technique. Sur demande, les objets seront restitués au requérant.
 
@@ -358,7 +457,7 @@ L’organe d’expertise détermine le lieu de l’expertise. Dans la mesure où
 
 **Communication des défauts**
 
-Si à la suite de l’expertise technique, il s’avère que l’objet expertisé ne satisfait pas en tout ou partie aux prescriptions suisses, l’organe d’expertise communiquera les défauts par écrit au requérant.
+Si à la suite de l’expertise technique, il s’avère que l’objet expertisé ne satisfait pas en tout ou partie aux prescriptions suisses, l’organe d’expertise reconnu en vertu de l’art. 17, al. 1 communiquera les défauts par écrit au requérant.
 
 #### Art. 25
 
@@ -378,14 +477,14 @@ Si à la suite de l’expertise technique, il s’avère que l’objet expertis�
 
 <sup>1</sup> L’office fédéral peut ordonner en tout temps des vérifications de conformité.[^26-1]
 
-<sup>2</sup> La vérification de conformité est effectuée par l’office fédéral sur la base des documents ou en collaboration avec l’organe d’expertise compétent.[^26-2]
+<sup>2</sup> La vérification de conformité est effectuée par l’office fédéral sur la base des documents ou en collaboration avec l’organe d’expertise compétent reconnu en vertu de l’art. 17, al. 1.[^26-2]
 
 <sup>3</sup> Les frais résultant de la vérification de conformité et des mesures y relatives sont à la charge du titulaire de la réception par type. Lorsqu’il existe une réception par type étrangère, les frais sont à la charge de l’importateur.[^26-3]
 
 <sup>4</sup> Les vérifications de conformité peuvent être ordonnées pour des objets déjà admis au moyen d’une fiche de données, d’une évaluation ou d’une attestation de conformité.[^26-4]
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 [^26-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^26-4]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
@@ -393,7 +492,7 @@ Si à la suite de l’expertise technique, il s’avère que l’objet expertis�
 
 **Procédure pour le premier contrôle par sondage**
 
-<sup>1</sup> L’office fédéral choisit au hasard l’échantillon test parmi un lot d’échantillons du type concerné ou charge l’organe d’expertise d’effectuer ce choix.[^27-1]
+<sup>1</sup> L’office fédéral choisit au hasard l’échantillon test parmi un lot d’échantillons du type concerné ou charge l’organe d’expertise reconnu en vertu de l’art. 17, al. 1 d’effectuer ce choix.[^27-1]
 
 <sup>2</sup> La vérification de conformité est effectuée selon les prescriptions d’expertise qui ont servi de base à la délivrance de la réception par type.
 
@@ -409,7 +508,7 @@ Si à la suite de l’expertise technique, il s’avère que l’objet expertis�
 
 Si lors du premier contrôle par sondage, il est constaté que l’objet contrôlé n’est pas conforme à l’objet réceptionné, le titulaire de la réception par type est tenu de communiquer dans les 30 jours à l’office fédéral s’il:
 
-- a. reconnaît le résultat du contrôle et s’il s’engage à lancer une action de rappel, de contrôle et de remise en état au sens de l’art. 31*b*; ou s’il
+- a. reconnaît le résultat du contrôle et s’il s’engage à lancer une action de rappel, de contrôle et de remise en état au sens de l’art. 31*b*, ou s’il
 - b. demande qu’un contrôle définitif par sondage au sens de l’art. 30 soit effectué.[^28-1]
 
 <sup>2</sup> La procédure est identique lorsque le résultat négatif du contrôle relève d’une vérification de conformité étrangère.
@@ -448,7 +547,7 @@ Si lors du premier contrôle par sondage, il est constaté que l’objet contrô
 
 L’office fédéral retire la réception par type à son titulaire lorsque:
 
-- a. les attestations, informations ou objets demandés ne sont pas mis à disposition en temps utile; ou que
+- a. les attestations, informations ou objets demandés ne sont pas mis à disposition en temps utile, ou que
 - b.[^31-1] l’objet ne correspond pas au type réceptionné, aux prescriptions ou aux documents remis ou qu’il ne présente pas toutes les garanties de sécurité et que, dans le délai imparti, aucune demande n’est faite en vue de modifier la réception ou les documents remis selon l’art. 12, ou de rappeler, de contrôler et de remettre en état les objets mis sur le marché et ceux du même type qui sont prêts à être vendus.
 
 <sup>2</sup> Dans des cas graves, l’office fédéral peut retirer la réception sans délai.
@@ -475,7 +574,7 @@ L’office fédéral retire la réception par type à son titulaire lorsque:
 
 L’office fédéral peut interdire la mise sur le marché de véhicules, de composants de véhicules, d’objets d’équipement et de dispositifs de protection, lorsque:[^31a-3]
 
-- a. les preuves, informations ou objets requis ne sont pas mis à disposition dans les délais impartis; ou
+- a. les preuves, informations ou objets requis ne sont pas mis à disposition dans les délais impartis, ou
 - b. lorsque l’objet ne répond pas au type réceptionné ou aux prescriptions, et que les objets du même type ne sont pas rappelés, contrôlés et réparés dans le délai imparti.
 
 <sup>2</sup> L’office fédéral peut informer le public au sujet d’une interdiction de vente.
@@ -630,11 +729,13 @@ Est punie de l’amende, pour autant qu’aucune autre disposition pénale plus 
 
 - a. fournit des indications erronées ou incomplètes dans le cadre de la procédure de réception par type;
 - b. entreprend des modifications sur des véhicules ou des objets dont le type a été réceptionné, sans les annoncer;
-- c.[^44-3] met sur le marché plus de véhicules ou de châssis que le nombre fixé à l’art. 4, al. 3.
+- c.[^44-3] met sur le marché plus de véhicules ou de châssis que le nombre fixé à l’art. 4, al. 3;
+- d.[^44-4] ne remplit pas ses obligations à titre d’organe d’expertise reconnu visées à l’art. 17*b,* al. 2 à 4.
 
 [^44-1]: Abrogé par le ch. II 65 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^44-2]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^44-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^44-4]: Introduite par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -654,13 +755,23 @@ Est punie de l’amende, pour autant qu’aucune autre disposition pénale plus 
 
 Les art. 98 à 104 de l’ordonnance du 27 octobre 1976 réglant l’admission des personnes et des véhicules à la circulation routière (OAC)[^46-1] sont abrogés.
 
-[^46-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^46-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 47
 
 **Dispositions transitoires**
 
 La personne qui aura annoncé pour la réception par type, avant l’entrée en vigueur de la présente ordonnance, des véhicules, des châssis, des systèmes de véhicules, des composants de véhicules, des objets d’équipement ou des dispositifs de protection, sera soumise au droit en vigueur jusqu’à présent. La procédure de réception par type avec et sans expertise technique, selon la présente ordonnance, peut toutefois déjà être appliquée à partir du 1<sup>er</sup> juillet 1995.
+
+#### Art. 47a
+
+**Dispositions transitoires relatives à la modification du 15 janvier 2025**[^47a-1]
+
+<sup>1</sup> Les organes d’expertise visés à l’art. 17, al. 1, et reconnus avant le 1<sup>er</sup> mai 2025 pour des expertises au sens de l’art. 41, al. 4 et 5, OETV soumettront pour la première fois leur plan d’expertise actualisé à l’office fédéral pour le contrôle de plausibilité dans les deux ans à compter de l’entrée en vigueur de la présente modification.
+
+<sup>2</sup> Les organes d’expertise visés à l’art. 17, al. 1, et reconnus avant le 1<sup>er</sup> mai 2025 devront satisfaire aux conditions visées à l’art. 17*a,* al. 3, let. a et c, ou 4 au plus tard dans les cinq ans à compter de l’entrée en vigueur de la présente modification.
+
+[^47a-1]: Introduit par le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 48
 
@@ -695,8 +806,8 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
   - – les cyclomoteurs légers;
   - – les fauteuils roulants à propulsion électrique dont la vitesse maximale n’excède pas 10 km/h.
 
-[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 2 Systèmes de véhicules, composants de véhicules, éléments d’équipement et dispositifs de protection pour les utilisateurs d’un véhicule (art. 4, al. 7)
 
@@ -758,31 +869,35 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
   - – les installations de radiocommunication;
   - – les pièces de l’électronique du véhicule ayant une influence sur ses gaz d’échappement, ses émissions sonores ainsi que sur sa puissance et qui ne sont pas conformes au modèle réceptionné pour le type de véhicule concerné.
 
-[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Annexe 2[^t-2]
 
-(art. 2, let. m, 4, al. 7, 17, al. 1, et 18, al. 1)
+(art. 17*c,* al. 1)
 
-## Organes d’expertise
+## Organes d’expertise reconnus
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Erratum du 5 fév. 2019, ne concerne que le texte italien ([RO 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
-<table>
-<tr><th>Organes d’expertise</th><th>Compétents pour:</th></tr>
-<tr><td>DTC Dynamic Test Center AG Route principale 127 2537 Vauffelin</td><td>Véhicules, châssis, systèmes et composants de véhicules, éléments d’équipement et dispositifs de protection pour les utilisateurs d’un véhicule selon l’annexe 1, pour autant qu’ils ne soient pas expertisés par un autre organe mentionné ci-après Mesures de la fumée et expertises selon l’art. 41, al. 4 et 5, OETV[^annex2-lvlu1-1] Fixation des récipients à gaz pour le fonctionnement du véhicule</td></tr>
-<tr><td>Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen Représenté par: FAKT AG Augrabenstrasse 9 9466 Sennwald</td><td>Véhicules, châssis, systèmes et composants de véhicules, éléments d’équipement et dispositifs de protection pour les utilisateurs d’un véhicule selon l’annexe 1, pour autant qu’ils ne soient pas expertisés par un autre organe mentionné ci-après Mesures de la fumée et expertises selon l’art. 41, al. 4 et 5, OETV Feux, catadioptres et dispositifs de signalisation Expertise électrotechnique des véhicules électriques, solaires, hybrides, etc. Fixation des récipients à gaz pour le fonctionnement du véhicule</td></tr>
-<tr><td>Institut fédéral de métrologie (METAS) Lindenweg 50 3084 Wabern</td><td>Feux, catadioptres et dispositifs de signalisation Dispositifs limiteurs de vitesse, tachygraphes, enregistreurs de données et contrôle des cartes d’enregistrement pour tachygraphes analogiques ainsi que des disques d’enregistrement et du papier d’imprimante des tachygraphes numériques Transparence et réflexion des vitres du véhicule</td></tr>
-<tr><td>Haute école spécialisée bernoise, Haute école technique et informatique, Bienne Section Technique automobile Laboratoire de gaz d’échappement Gwerdtstrasse 5 2560 Nidau</td><td>Mesure de la puissance des moteurs, expertise des émissions de gaz d’échappement et de fumées et mesure de la consommation de carburant</td></tr>
-<tr><td>Société suisse de l’industrie du gaz et des eaux (SSIGE) ou Inspection Technique de l’Industrie gazière suisse (ITIGS) Grütlistrasse 44 8002 Zurich</td><td>Installation de gaz sur les véhicules fonctionnant au gaz naturel, à l’exception du récipient à gaz, de ses soupapes, des dispositifs de sécurité et des éléments de fixation</td></tr>
-<tr><td>Association suisse pour la technique du soudage (ASS) St. Alban-Rheinweg 222 4052 Bâle</td><td>Installation de gaz sur les véhicules fonctionnant au gaz de pétrole liquéfié, à l’exception du récipient à gaz, de ses soupapes, des dispositifs de sécurité et des éléments de fixation</td></tr>
-<tr><td>Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen</td><td>Récipient à gaz, soupapes comprises, dispositifs de sécurité et fixations pour le fonctionnement du véhicule</td></tr>
-<tr><td>Eurofins Electrosuisse Product Testing AG Luppmenstrasse 3 8320 Fehraltorf</td><td>Compatibilité électromagnétique Expertise électrotechnique des véhicules électriques, solaires, hybrides, etc.</td></tr>
-<tr><td>EMC-TESTCENTER AG Moosäckerstrasse 77 8105 Regensdorf</td><td>Compatibilité électromagnétique Expertise électrotechnique des véhicules électriques, solaires, hybrides, etc.</td></tr>
-<tr><td>QUINEL AG Elsihof 3 6035 Perlen</td><td>Expertise électrotechnique des véhicules électriques, solaires, hybrides, etc.</td></tr>
-</table>
+DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin
 
-[^annex2-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen
+
+Représenté par: FAKT AG Burstriet 11 9465 Salez
+
+Institut fédéral de métrologie (METAS) Lindenweg 50 3084 Wabern
+
+Haute école spécialisée bernoise, Haute école technique et informatique, Bienne Section Technique automobile Laboratoire de gaz d’échappement Gwerdtstrasse 5 2560 Nidau
+
+Association suisse pour la technique du soudage (ASS) St. Alban-Rheinweg 222 4052 Bâle
+
+Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen
+
+Eurofins Electric & Electronic Product Testing AG Luppmenstrasse 3 8320 Fehraltorf
+
+EMC-TESTCENTER AG Moosäckerstrasse 77 8105 Regensdorf
+
+QUINEL AG Elsihof 3 6035 Perlen
 
 Annexe 3[^t-3]
 
@@ -790,7 +905,7 @@ Annexe 3[^t-3]
 
 ## Émoluments
 
-[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. II des O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)) et du 10 juin 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) et le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
+[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. II des O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)) et du 10 juin 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), l’annexe 4 ch. II 9 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) et le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
 <table>
 <tr><td>1</td><td>Émoluments pour la réception par type de véhicules et de châssis</td><td></td></tr>
@@ -821,7 +936,7 @@ Annexe 3[^t-3]
 <tr><td>6.2</td><td>pour chaque heure ou fraction d’heure supplémentaire</td><td>100.—</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 Annexe 4[^t-4]
 

@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2024-04-01
+version: 2025-05-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20240401/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 1. April 2024)
+vom 19. Juni 1995 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 12, 103, 104*d* Absatz 5 und 106 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG),[^ingress-2]
+gestützt auf die Artikel 12, 103 und 106 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Febr. 2005 ([AS 2004 5069](https://fedlex.data.admin.ch/eli/oc/2004/781)).
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -38,7 +38,7 @@ verordnet:
 
 <sup>2</sup> Soweit diese Verordnung nichts anderes vorsieht, finden die Vorschriften des Bundesgesetzes vom 12. Juni 2009[^1-1] über die Produktesicherheit ergänzend Anwendung.[^1-2]
 
-[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^1-2]: Fassung gemäss Ziff. I 4 der V vom 11. Juni 2010 zur Bereinigung des sektoriellen Verordnungsrechts im Bereich Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2749](https://fedlex.data.admin.ch/eli/oc/2010/358)).
 
 #### Art. 2
@@ -58,7 +58,7 @@ Im Sinne dieser Verordnung gelten als:
 - i.[^2-5] Fahrzeugsysteme: alle Systeme für einen Fahrzeugtyp, welche technische Vorschriften erfüllen müssen, wie die Bremsanlage oder die Einrichtungen zur Abgasreinigung;
 - k.[^2-6] Hersteller oder Herstellerin: die Person oder Stelle, die gegenüber der Typengenehmigungsbehörde für alle Belange des Typengenehmigungsverfahrens sowie für die Sicherstellung der Übereinstimmung der Produktion verantwortlich ist. Sie muss nicht direkt an allen Herstellungsphasen des Fahrzeugs, Systems oder Fahrzeugteils, das Gegenstand des Typengenehmigungsverfahrens ist, beteiligt sein;
 - l.[^2-7] Datenblatt: Bescheinigung an Stelle einer Typengenehmigung für Fahrzeuge mit EU-Gesamtgenehmigung;
-- m.[^2-8] Konformitätsbewertung: schriftlicher Nachweis anhand eines Prüfberichtes einer in Anhang 2 aufgeführten Prüfstelle, dass ein Gegenstand den schweizerischen Vorschriften entspricht;
+- m.[^2-8] Konformitätsbewertung: schriftlicher Nachweis anhand eines Prüfberichtes einer anerkannten Prüfstelle nach Artikel 17 Absatz 1, dass ein Gegenstand den schweizerischen Vorschriften entspricht;
 - n.[^2-9] Konformitätsbeglaubigung: schriftlicher Nachweis anhand eines Prüfberichtes einer ausländischen Prüfstelle, dass ein Gegenstand den schweizerischen Vorschriften entspricht.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
@@ -68,7 +68,7 @@ Im Sinne dieser Verordnung gelten als:
 [^2-5]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-6]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^2-8]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 [^2-9]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
 ## 2. Kapitel: Typengenehmigung
@@ -115,15 +115,15 @@ Für Fahrzeuge wird an Stelle einer Typengenehmigung ein Datenblatt erteilt, wen
 
 <sup>6</sup> Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen mit anderen ausländischen oder internationalen Konformitätszeichen sind von der Typengenehmigung befreit, sofern die Konformitätszeichen aufgrund von Vorschriften erteilt wurden, die vom Bundesamt für Strassen (Bundesamt) als den schweizerischen Vorschriften mindestens gleichwertig anerkannt sind.[^4-6]
 
-<sup>7</sup> Für die Gegenstände nach Anhang 1 Ziffer 2 sowie für Fahrzeugumbauten genügt für die Zulassung eine Konformitätsbewertung oder -beglaubigung oder ein Prüfbericht einer Prüfstelle nach Anhang 2.[^4-7]
+<sup>7</sup> Für Gegenstände nach Anhang 1 Ziffer 2 sowie für Fahrzeugumbauten genügt für die Zulassung eine Konformitätsbewertung oder -beglaubigung oder ein Prüfbericht einer anerkannten Prüfstelle nach Artikel 17 Absatz 1.[^4-7]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)). Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-3]: Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-5]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS – [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^4-5]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS – [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^4-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 5
 
@@ -249,7 +249,7 @@ Die Konformitätserklärung wird anerkannt, wenn:
 
 Genehmigungen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, werden anerkannt, wenn die angewandten Vorschriften den schweizerischen Vorschriften[^15-1] gleichwertig sind. Der Gesuchsteller oder die Gesuchstellerin hat den Nachweis mit der Anmeldung zu erbringen.
 
-[^15-1]: VTS vom 19. Juni 1995 ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425); [AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)[1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)[2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), TAFV 1 vom 19. Juni 1995 ([SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145); [AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)), TAFV 2 vom 19. Juni 1995 ([SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821); [AS 1998 2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475)), TAFV 3 vom 2. September 1998 ([SR 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822); [AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487)) (siehe [AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^15-1]: VTS vom 19. Juni 1995 ([SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648); [AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)[1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)[2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), TAFV 1 vom 19. Juni 1995 ([SR 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650); [AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)), TAFV 2 vom 19. Juni 1995 ([SR 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651); [AS 1998 2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475)), TAFV 3 vom 2. September 1998 ([SR 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652); [AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487)) (siehe [AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
 #### Art. 16
 
@@ -287,38 +287,136 @@ Die Unterlagen werden vom Bundesamt nach Erteilung der Typengenehmigung während
 
 #### Art. 17
 
-**Zuständigkeit und Anforderungen[^17-2]**[^17-1]
+**Zuständigkeit**[^17-1]
 
-<sup>1</sup> Die Zuständigkeit für die Durchführung der technischen Prüfung ist in Anhang 2 geregelt.[^17-3]
+<sup>1</sup> Die technische Prüfung muss von einer Prüfstelle durchgeführt werden, die für diese Prüfung anerkannt ist.
 
-<sup>2</sup> Das Bundesamt kann weitere Stellen für die Durchführung von technischen Prüfungen provisorisch zulassen.
+<sup>2</sup> Das Bundesamt führt ein öffentlich einsehbares Verzeichnis der anerkannten Prüfstellen. Im Verzeichnis werden die anerkannten Prüfstellen Zuständigkeitsbereichen für technische Prüfungen an bestimmten Gegenständen zugeordnet.
 
-<sup>3</sup> Prüfstellen müssen auf der Basis internationaler Normen ihre Kompetenz nachweisen.[^17-4]
+<sup>3</sup> Ist für die Durchführung einer technischen Prüfung keine Prüfstelle anerkannt, bestimmt das Bundesamt das Vorgehen.
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-[^17-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^17-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^17-4]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^17-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+
+#### Art. 17a
+
+**Anerkennung**[^17a-1]
+
+<sup>1</sup> Das Bundesamt kann weitere Stellen für die Durchführung von technischen Prüfungen anerkennen.
+
+<sup>2</sup> Stellen, die für eine technische Prüfung anerkannt werden möchten, müssen dem Bundesamt ein Gesuch um Anerkennung einreichen.
+
+<sup>3</sup>
+
+Sie werden für die technische Prüfung anerkannt, wenn sie:
+
+- a. durch die Schweizerische Akkreditierungsstelle (SAS) oder, unter Berücksichtigung von Artikel 4 Absatz 3 und Artikel 38 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^17a-2], durch eine ausländische staatliche oder staatlich beauftragte Akkreditierungsstelle für die Prüfung akkreditiert sind;
+- b. plausibel darlegen können, dass sie über ausreichende Kenntnisse der für die Prüfung massgebenden Prüfvorschriften und -unterlagen (Art. 19) verfügen; und
+- c. über eine Haftpflichtversicherung mit einem minimalen Deckungsbetrag von 10 Millionen Franken verfügen.
+
+<sup>4</sup>
+
+Für eine technische Prüfung nach Prüfkonzepten (Art. 19*a*) werden Stellen anerkannt, wenn sie:
+
+- a. nach Absatz 3 Buchstabe a für eine Prüfung akkreditiert sind und aus dieser Akkreditierung hervorgeht, dass sie über die erforderliche Kompetenz für die Durchführung der Prüfung nach Prüfkonzept verfügen; und
+- b. über eine Haftpflichtversicherung nach Absatz 3 Buchstabe c verfügen.
+
+<sup>5</sup> Eine Haftpflichtversicherung ist nicht erforderlich, wenn die Haftpflicht von einer staatlichen Behörde gedeckt wird oder die Prüfung durch eine staatliche Prüfstelle durchgeführt wird.
+
+<sup>6</sup> Das Gesuch um Akkreditierung müssen die Stellen bei der SAS oder einer ausländischen staatlichen oder staatlich beauftragten Akkreditierungsstelle einreichen.
+
+<sup>7</sup> Die Akkreditierung muss sich auf die Prüfvorschriften und -unterlagen (Art. 19) beziehen.
+
+<sup>8</sup> Die SAS informiert das Bundesamt über Anpassung, Suspendierung und Entzug einer Akkreditierung.
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^17a-2]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+
+#### Art. 17b
+
+**Rechte und Pflichten von anerkannten Prüfstellen**[^17b-1]
+
+<sup>1</sup> Anerkannte Prüfstellen nach Artikel 17 Absatz 1 sind zur Ausstellung von Konformitätsbewertungen, -beglaubigungen oder Prüfberichten berechtigt.
+
+<sup>2</sup> Anerkannte Prüfstellen nach Artikel 17 Absatz 1, die aufgrund ausländischer Akkreditierungen anerkannt sind, müssen das Bundesamt über Anpassung, Suspendierung und Entzug der ausländischen Akkreditierungen informieren.
+
+<sup>3</sup> Anerkannte Prüfstellen nach Artikel 17 Absatz 1 müssen dem Bundesamt alle Änderungen zur Haftpflichtversicherung mitteilen.
+
+<sup>4</sup> Sie müssen dem Bundesamt und den Zulassungsbehörden auf Anfrage Auskunft zu ihren Prüfdokumenten geben.
+
+[^17b-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+
+#### Art. 17c
+
+**Möglichkeit zur Notifizierung**[^17c-1]
+
+<sup>1</sup> Wird eine Prüfstelle anerkannt, so wird sie in Anhang 2 aufgenommen.
+
+<sup>2</sup>
+
+Der Eintrag in Anhang 2 ermöglicht ihre Notifizierung gemäss:
+
+- a. Abkommen vom 21. Juni 1999[^17c-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen;
+- b. Übereinkommen der Vereinten Nationen vom 20. März 1958[^17c-3] über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden.
+
+<sup>3</sup> Stellen, die sich notifizieren lassen wollen, müssen dem Bundesamt ein Gesuch um Notifizierung einreichen. Dieses kann gleichzeitig mit dem Gesuch um Anerkennung eingereicht werden.
+
+[^17c-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^17c-2]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^17c-3]: [SR 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+
+#### Art. 17d
+
+**Aufhebung der Anerkennung**[^17d-1]
+
+<sup>1</sup>
+
+Die Anerkennung für die Durchführung einer technischen Prüfung wird aufgehoben:
+
+- a. auf Antrag der anerkannten Prüfstelle;
+- b. wenn die Voraussetzungen nach Artikel 17*a* Absatz 3 beziehungsweise 4 nicht mehr eingehalten sind; oder
+- c. wenn sich die anerkannte Prüfstelle nicht an die Prüfvorschriften und -unterlagen (Art. 19) beziehungsweise die Prüfkonzepte (Art. 19*a*) hält.
+
+<sup>2</sup> Das Bundesamt verfügt die Aufhebung der Anerkennung und allfälliger damit zusammenhängender Notifizierungen nach Artikel 17*c* Absatz 2. Einer Beschwerde gegen diese Verfügung kommt keine aufschiebende Wirkung zu.
+
+[^17d-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 18
 
 **Prüfung**[^18-1]
 
-<sup>1</sup> Der Gesuchsteller oder die Gesuchstellerin hat eine nach Anhang 2 festgelegte Prüfstelle mit der Prüfung des Gegenstandes zu beauftragen.[^18-2]
+<sup>1</sup> Der Gesuchsteller oder die Gesuchstellerin muss eine anerkannte Prüfstelle nach Artikel 17 Absatz 1 mit der Prüfung des Gegenstandes beauftragen.[^18-2]
 
 <sup>2</sup> Über jede technische Prüfung wird ein Protokoll aufgenommen, das die für die Zulassung notwendigen und für die Abklärung von Unfällen bedeutsamen Angaben enthält.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 19
 
 **Prüfvorschriften und -unterlagen**[^19-1]
 
-Die Prüfvorschriften und -unterlagen richten sich nach der Verordnung vom 19. Juni 1995[^19-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS) sowie den darin aufgeführten EU-Rechtsakten und UNECE-Reglementen.
+Die Prüfvorschriften und -unterlagen richten sich nach:
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
-[^19-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+- a. der Verordnung vom 19. Juni 1995[^19-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS) sowie den darin aufgeführten internationalen Rechtsakten und Normen;
+- b. der vorliegenden Verordnung;
+- c. den auf der VTS und der vorliegenden Verordnung basierenden Weisungen und sonstigen behördlichen Regelungen, welche die technischen Prüfungen betreffen.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^19-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+
+#### Art. 19a
+
+**Prüfkonzepte**[^19a-1]
+
+<sup>1</sup> Liegen für Prüfungen nach Artikel 41 Absätze 4 und 5 VTS keine Prüfvorschriften und -unterlagen vor, so erstellt die anerkannte Prüfstelle nach Artikel 17 Absatz 1 ein eigenes Prüfkonzept.
+
+<sup>2</sup> Die Verantwortung für die sachliche Richtigkeit des Prüfkonzepts obliegt der Prüfstelle.
+
+<sup>3</sup> Die Prüfkonzepte sind aktuell zu halten und dem Bundesamt alle zwei Jahre zur Plausibilisierung einzureichen.
+
+<sup>4</sup> Die Kosten des Bundesamtes für die Plausibilisierung des Prüfkonzeptes trägt die Prüfstelle.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 20
 
@@ -336,9 +434,10 @@ Die Prüfvorschriften und -unterlagen richten sich nach der Verordnung vom 19. J
 
 **Ort der technischen Prüfung**[^21-1]
 
-Die Prüfstelle bestimmt den Ort der Prüfung. Sofern geeignete Räume, Einrichtungen und Prüfstrecken vorhanden sind, kann sie beispielsweise auch beim Importeur oder beim Hersteller durchgeführt werden.
+Die anerkannte Prüfstelle nach Artikel 17 Absatz 1[^21-2] bestimmt den Ort der Prüfung. Sofern geeignete Räume, Einrichtungen und Prüfstrecken vorhanden sind, kann sie beispielsweise auch beim Importeur oder beim Hersteller durchgeführt werden.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 6. Sept. 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+[^21-2]: Ausdruck gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 22
 
@@ -350,7 +449,7 @@ Die Prüfstelle bestimmt den Ort der Prüfung. Sofern geeignete Räume, Einricht
 
 **Durchführung der technischen Prüfung von Fahrzeugteilen, Ausrüstungsgegenständen und Schutzvorrichtungen**
 
-<sup>1</sup> Die Prüfstelle kann anlässlich der technischen Prüfungen von Fahrzeugteilen, Ausrüstungsgegenständen und Schutzvorrichtungen ein Baumuster als Beleg- oder Vergleichsstück zurückbehalten.
+<sup>1</sup> Die anerkannte Prüfstelle nach Artikel 17 Absatz 1 kann anlässlich der technischen Prüfungen von Fahrzeugteilen, Ausrüstungsgegenständen und Schutzvorrichtungen ein Baumuster als Beleg- oder Vergleichsstück zurückbehalten.
 
 <sup>2</sup> Für Gegenstände, die infolge der technischen Prüfung zerstört oder beschädigt werden, besteht kein Anspruch auf Entschädigung. Die Gegenstände werden dem Gesuchsteller oder der Gesuchstellerin auf Antrag ausgehändigt.
 
@@ -358,7 +457,7 @@ Die Prüfstelle bestimmt den Ort der Prüfung. Sofern geeignete Räume, Einricht
 
 **Mitteilung der Mängel**
 
-Wird anlässlich der technischen Prüfung festgestellt, dass der Prüfgegenstand den schweizerischen Vorschriften nicht oder nur teilweise entspricht, so teilt die Prüfstelle die Mängel dem Gesuchsteller oder der Gesuchstellerin schriftlich mit.
+Wird anlässlich der technischen Prüfung festgestellt, dass der Prüfgegenstand den schweizerischen Vorschriften nicht oder nur teilweise entspricht, so teilt die anerkannte Prüfstelle nach Artikel 17 Absatz 1 die Mängel dem Gesuchsteller oder der Gesuchstellerin schriftlich mit.
 
 #### Art. 25
 
@@ -378,14 +477,14 @@ Wird anlässlich der technischen Prüfung festgestellt, dass der Prüfgegenstand
 
 <sup>1</sup> Das Bundesamt kann jederzeit Konformitätsüberprüfungen anordnen.[^26-1]
 
-<sup>2</sup> Die Konformitätsüberprüfung wird vom Bundesamt anhand von Dokumenten und Unterlagen oder in Zusammenarbeit mit der zuständigen Prüfstelle durchgeführt.[^26-2]
+<sup>2</sup> Die Konformitätsüberprüfung wird vom Bundesamt anhand von Dokumenten und Unterlagen oder in Zusammenarbeit mit der zuständigen anerkannten Prüfstelle nach Artikel 17 Absatz 1 durchgeführt.[^26-2]
 
 <sup>3</sup> Die Kosten der Konformitätsüberprüfung sowie der sich daraus ergebenden Massnahmen trägt der Inhaber oder die Inhaberin der Typengenehmigung. Liegt eine ausländische Typengenehmigung vor, ist der Importeur kostenpflichtig.[^26-3]
 
 <sup>4</sup> Konformitätsüberprüfungen können auch für Gegenstände angeordnet werden, die mit einem Datenblatt, mit einer Konformitätsbewertung oder -beglaubigung zugelassen wurden.[^26-4]
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
-[^26-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 [^26-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^26-4]: Eingefügt durch Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
@@ -393,7 +492,7 @@ Wird anlässlich der technischen Prüfung festgestellt, dass der Prüfgegenstand
 
 **Verfahren für die erste Stichprobe**
 
-<sup>1</sup> Das Bundesamt wählt das Prüfmuster zufällig aus einer Anzahl von Gegenständen des betroffenen Typs aus oder beauftragt die Prüfstelle mit dieser Auswahl.[^27-1]
+<sup>1</sup> Das Bundesamt wählt das Prüfmuster zufällig aus einer Anzahl von Gegenständen des betroffenen Typs aus oder beauftragt die anerkannte Prüfstelle nach Artikel 17 Absatz 1 mit dieser Auswahl.[^27-1]
 
 <sup>2</sup> Die Konformitätsüberprüfung wird nach den Prüfvorschriften durchgeführt, die bei der Erteilung der Typengenehmigung zugrunde gelegt wurden.
 
@@ -630,11 +729,13 @@ Mit Busse wird bestraft, sofern keine strengere Strafbestimmung anwendbar ist:[^
 
 - a. wer im Rahmen des Typengenehmigungsverfahrens unrichtige oder unvollständige Angaben macht;
 - b. wer an typengenehmigten Fahrzeugen oder Gegenständen Änderungen vornimmt, ohne dies zu melden;
-- c.[^44-3] wer mehr als die in Artikel 4 Absatz 3 festgelegte Anzahl Fahrzeuge oder Fahrgestelle in Verkehr bringt.
+- c.[^44-3] wer mehr als die in Artikel 4 Absatz 3 festgelegte Anzahl Fahrzeuge oder Fahrgestelle in Verkehr bringt;
+- d.[^44-4] wer als anerkannte Prüfstelle seinen Pflichten nach Artikel 17*b* Absätze 2–4 nicht nachkommt.
 
 [^44-1]: Aufgehoben durch Ziff. II 65 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^44-2]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^44-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^44-4]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -654,13 +755,23 @@ Mit Busse wird bestraft, sofern keine strengere Strafbestimmung anwendbar ist:[^
 
 Die Artikel 98–104 der Verordnung vom 27. Oktober 1976[^46-1] über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr (VZV) werden aufgehoben.
 
-[^46-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^46-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 47
 
 **Übergangsbestimmungen**
 
 Wer vor dem Inkrafttreten dieser Verordnung Fahrzeuge, Fahrgestelle, Fahrzeugsysteme, Fahrzeugteile, Ausrüstungsgegenstände oder Schutzvorrichtungen vollständig zur Typengenehmigung angemeldet hat, untersteht dem bisherigen Recht. Das Verfahren der Typengenehmigung mit und ohne technische Prüfung nach dieser Verordnung kann jedoch bereits ab dem 1. Juli 1995 angewendet werden.
+
+#### Art. 47a
+
+**Übergangsbestimmungen zur Änderung vom 15. Januar 2025**[^47a-1]
+
+<sup>1</sup> Prüfstellen nach Artikel 17 Absatz 1, die vor dem 1. Mai 2025 für Prüfungen nach Artikel 41 Absätze 4 und 5 VTS anerkannt worden sind, müssen dem Bundesamt innert zwei Jahren nach dem Inkrafttreten dieser Änderung ihr aktualisiertes Prüfkonzept erstmals zur Plausibilisierung einreichen.
+
+<sup>2</sup> Prüfstellen nach Artikel 17 Absatz 1, die vor dem 1. Mai 2025 anerkannt worden sind, müssen die Voraussetzungen nach Artikel 17*a* Absatz 3 Buchstaben a und c beziehungsweise Absatz 4 spätestens fünf Jahre nach dem Inkrafttreten dieser Änderung erfüllen.
+
+[^47a-1]: Eingefügt durch Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 48
 
@@ -695,8 +806,8 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Leicht-Motorfahrräder;
   - – Rollstühle mit elektrischem Antrieb und einer Höchstgeschwindigkeit bis 10 km/h.
 
-[^annex1-lvlu1-lvl1-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^annex1-lvlu1-lvl1-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-lvl1-1]: [SR 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^annex1-lvlu1-lvl1-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 2 Fahrzeugsysteme, Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen für Fahrzeugbenützer (Art. 4 Abs. 7)
 
@@ -758,31 +869,35 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
   - – Funkanlagen;
   - – Teile der Fahrzeugelektronik, die das Abgas-, Geräusch- oder Leistungsverhalten beeinflussen und nicht der für den Fahrzeugtyp genehmigten Ausführung entsprechen.
 
-[^annex1-lvlu1-lvl2-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-lvl2-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Anhang 2[^t-2]
 
-(Art. 2 Bst. m, 4 Abs. 7, 17 Abs. 1 und 18 Abs. 1)
+(17*c* Abs. 1)
 
-## Prüfstellen
+## Anerkannte Prüfstellen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Die Berichtigung vom 5. Febr. 2019 betrifft nur den italienischen Text ([AS 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
-<table>
-<tr><th>Prüfstellen</th><th>Zuständig für:</th></tr>
-<tr><td>DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin</td><td>Fahrzeuge, Fahrgestelle, Fahrzeugsysteme, Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen für Fahrzeugbenützer nach Anhang 1, sofern sie nicht von einer der nachstehend genannten Stellen geprüft werden Rauchmessungen und Prüfungen nach Artikel 41 Absätze 4 und 5 VTS[^annex2-lvlu1-1] Befestigungen von Gasbehältern für den Fahrzeugbetrieb</td></tr>
-<tr><td>Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen Vertreten durch: FAKT AG Augrabenstrasse 9 9466 Sennwald</td><td>Fahrzeuge, Fahrgestelle, Fahrzeugsysteme, Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen für Fahrzeugbenützer nach Anhang 1, sofern sie nicht von einer der nachstehend genannten Stellen geprüft werden Rauchmessungen und Prüfungen nach Artikel 41 Absätze 4 und 5 VTS Lichter, Rückstrahler und Signalvorrichtungen Elektrotechnische Prüfung von Elektro‑, Solar- und Hybridfahrzeugen Befestigungen von Gasbehältern für den Fahrzeugbetrieb</td></tr>
-<tr><td>Eidgenössisches Institut für Metrologie (METAS) Lindenweg 50 3084 Wabern</td><td>Lichter, Rückstrahler und Signalvorrichtungen Geschwindigkeitsbegrenzungseinrichtungen, Fahrtschreiber, Datenaufzeichnungsgeräte sowie Funktionsprüfungen von Einlageblättern für analoge Fahrtschreiber und von Fahrtschreiberkarten und Druckerpapier zu digitalen Fahrtschreibern Lichtdurchlässigkeit und Reflektion bei Fahrzeugscheiben</td></tr>
-<tr><td>Berner Fachhochschule, Hochschule für Technik und Informatik Biel Automobiltechnische Abteilung Abgasprüfstelle Gwerdtstrasse 5 2560 Nidau</td><td>Motorleistungsmessungen, Abgas- und Rauchprüfungen sowie Treibstoffverbrauchsmessungen</td></tr>
-<tr><td>Schweizerischer Verein des Gas‑ und Wasserfaches (SVGW) oder Technisches Inspektorat schweizerischer Gaswerke (TISG) Grütlistrasse 44 8002 Zürich</td><td>Gasinstallation an Fahrzeugen mit Erdgasantrieb mit Ausnahme des Gasbehälters, seiner Ventile und Sicherheitseinrichtungen sowie Befestigungselemente</td></tr>
-<tr><td>Schweizerischer Verein für Schweisstechnik (SVS) St. Alban-Rheinweg 222 4052 Basel</td><td>Gasinstallation an Fahrzeugen mit Flüssiggasantrieb mit Ausnahme des Gasbehälters, seiner Ventile und Sicherheitseinrichtungen sowie Befestigungselemente</td></tr>
-<tr><td>Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen</td><td>Gasbehälter inkl. Ventile, Sicherheitseinrichtungen und Befestigungen für den Fahrzeugbetrieb</td></tr>
-<tr><td>Eurofins Electrosuisse Product Testing AG Luppmenstrasse 3 8320 Fehraltorf</td><td>Elektromagnetische Verträglichkeit Elektrotechnische Prüfung von Elektro‑, Solar- und Hybridfahrzeugen</td></tr>
-<tr><td>EMC-TESTCENTER AG Moosäckerstrasse 77 8105 Regensdorf</td><td>Elektromagnetische Verträglichkeit Elektrotechnische Prüfung von Elektro‑, Solar- und Hybridfahrzeugen</td></tr>
-<tr><td>QUINEL AG Elsihof 3 6035 Perlen</td><td>Elektrotechnische Prüfung von Elektro-, Solar- und Hybridfahrzeugen</td></tr>
-</table>
+DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin
 
-[^annex2-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen
+
+Vertreten durch: FAKT AG Burstriet 11 9465 Salez
+
+Eidgenössisches Institut für Metrologie (METAS) Lindenweg 50 3084 Wabern
+
+Berner Fachhochschule, Hochschule für Technik und Informatik Biel Automobiltechnische Abteilung Abgasprüfstelle Gwerdtstrasse 5 2560 Nidau
+
+Schweizerischer Verein für Schweisstechnik (SVS) St. Alban-Rheinweg 222 4052 Basel
+
+Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen
+
+Eurofins Electric & Electronic Product Testing AG Luppmenstrasse 3 8320 Fehraltorf
+
+EMC-TESTCENTER AG Moosäckerstrasse 77 8105 Regensdorf
+
+QUINEL AG Elsihof 3 6035 Perlen
 
 Anhang 3[^t-3]
 
@@ -821,7 +936,7 @@ Anhang 3[^t-3]
 <tr><td>6.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100.—</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 Anhang 4[^t-4]
 
