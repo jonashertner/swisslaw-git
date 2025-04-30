@@ -4,10 +4,10 @@ number: "813.172"
 title: Personalreglement der Psychiatrischen Universitätsklinik Zürich (PR-PUK)
 short: PR-PUK
 language: de
-nachtrag: "122"
-valid_until: 2025-05-01
+version: "2025-05-01"
+nachtrag: "129"
 adopted: 2022-03-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_172-2022_03_14-2023_01_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_172-2022_03_14-2023_01_01-129.html"
 text: pdf
 ---
 
@@ -65,7 +65,9 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 **1**
 
-1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+- 1\. 7. 25 - 129
+
+- e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal der Psychiatrischen Universitätsklinik,
 
@@ -86,7 +88,7 @@ a.[^3-1] des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss 
 - f. von Sozialplänen gemäss § 27 PG.
 
 [^3-1]: Inkrafttreten: 1. Oktober 2023 (OS 78, 378; ABl 2023-09-01).
-[^3-2]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00007). 1.10. 23 - 122 9
+[^3-2]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00007).
 
 #### § 4
 
@@ -144,7 +146,7 @@ a.[^3-1] des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss 
 
 **3**
 
-1.10. 23 - 122
+- 1\. 7. 25 - 129
 
 <sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
 
@@ -234,7 +236,7 @@ a.[^3-1] des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss 
 
 **5**
 
-1.10. 23 - 122
+- 1\. 7. 25 - 129
 
 <sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 19 Abs. 2 PUKG.
 
@@ -249,6 +251,14 @@ a.[^3-1] des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss 
 <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)[^14-1] sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
+
+**Arbeitszeit Assistenz- und Oberärztinnen und -ärzte**
+
+§ 15 a.[^15-1] <sup>1</sup> Die Wochenarbeitszeit für Assistenz- und Oberärztinnen und -ärzte beträgt 46 Stunden.
+
+<sup>2</sup> Assistenzärztinnen und -ärzte können davon durchschnittlich vier Stunden für strukturierte Weiterbildung nutzen.
+
+[^15-1]: Eingefügt durch B vom 4. Februar 2025 (OS 80, 87; ABl 2025-03-21). In Kraft seit 1. Mai 2025. 1. 7. 25 - 129 9
 
 #### § 16
 
@@ -318,7 +328,7 @@ Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte
 
 **7**
 
-1.10. 23 - 122
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Beanspruchen sie Infrastruktur oder Personal der Psychiatrischen Universitätsklinik, holen sie eine Bewilligung der Geschäftsleitung ein. Im Übrigen sind sie vom Bewilligungserfordernis entbunden, soweit die Nebenbeschäftigungen von der Universität bewilligt worden sind.
 
