@@ -4,11 +4,11 @@ title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Lo
 short: VILB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/de"
 
 (VILB)
 
-vom 5. Dezember 2008 (Stand am 1. Januar 2024)
+vom 5. Dezember 2008 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -210,7 +210,7 @@ Im Bereich der strategischen Steuerung erfüllen die BLO insbesondere folgende A
 - c. *Immobilien-Portfolio-Management:* Sie definieren Strategien, Gesamtkonzepte, Vorgaben und das Controlling zur Kosten-Nutzen-Optimierung des Immobilien-Portfolios des Bundes.
 - d. *Schaffung von Kostentransparenz:* Sie schaffen Kostentransparenz durch den Ausweis der effektiven Kosten des Bundes als Liegenschaftseigentümer und -besitzer sowie als Bauherr, Liegenschaftsbewirtschafter und -betreiber.
 - e. *Mehrjahresplanung und Zielsetzung:* Im Rahmen einer rollenden Mehrjahresplanung erarbeiten sie strategische Ziele und legen, auf diese abgestimmt, jedes Jahr die operativen Ziele fest.
-- f.[^9-3] ...
+- f.[^9-3] …
 
 <sup>3</sup>
 
@@ -241,7 +241,7 @@ Im Bereich der operativen Steuerung erfüllen die BLO insbesondere folgende Aufg
 - e. *Ausschreibung und Realisierung:* Führung der Teilphasen Ausschreibungen, Offertvergleiche, Vergaben, Ausführungsprojekte, Ausführung, Inbetriebnahme und Bauabschluss unter Berücksichtigung der Lebenswegkosten.
 - f. *Ressourcenverbrauch:* Die BLO führen ein Ressourcen- und Umweltmanagement und erstellen ein periodisches Reporting über den Ressourcenverbrauch (Wärme, Strom, Wasser, Abfall) pro Energiebezugsfläche und pro Gebäude des für eine aussagekräftige Auswertung relevanten Gebäudebestandes sowie über die geplanten Massnahmen. Den interessierten BO stellen sie diese Informationen im Rahmen des Programms RUMBA (Ressourcen- und Umweltmanagement der Bundesverwaltung) zur Verfügung.
 
-[^9-1]: www.kbob.ch &gt; Publikationen / Empfehlungen / Musterverträge &gt; Empfehlungen Nachhaltiges Bauen
+[^9-1]: [www.kbob.ch](http://www.kbob.ch) &gt; Publikationen / Empfehlungen / Musterverträge &gt; Empfehlungen Nachhaltiges Bauen
 [^9-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 [^9-4]: Fassung gemäss Art. 39 Abs. 2 der V vom 24. Okt. 2012 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Jan. 2013 ([AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
@@ -436,7 +436,7 @@ Sie stellen dem BBL jährlich die folgenden Daten für übergeordnete Berichte u
 
 <sup>2</sup> Die Abwicklung richtet sich nach den Richtlinien und Weisungen zur Haushalt- und Rechnungsführung Bund der Eidgenössischen Finanzverwaltung[^20-1].
 
-[^20-1]: www.accounting.admin.ch
+[^20-1]: [www.accounting.admin.ch](http://www.accounting.admin.ch)
 
 #### Art. 21
 
@@ -701,7 +701,7 @@ Meinungsverschiedenheiten im Bereich des BBL-Immobilienportfolios sind in gegens
 
 Bei Meinungsverschiedenheiten in der kaufmännischen Gebäudebewirtschaftung (Leistungsverrechnung) kommt das Eskalationsverfahren gemäss den Richtlinien und Weisungen zur Haushalt- und Rechnungsführung Bund der Eidgenössischen Finanzverwaltung[^35-1] zur Anwendung.
 
-[^35-1]: http://intranet.accounting.admin.ch (Intranet Bundesverwaltung)
+[^35-1]: [http://intranet.accounting.admin.ch](http://intranet.accounting.admin.ch) (Intranet Bundesverwaltung)
 
 #### Art. 36
 
@@ -763,13 +763,14 @@ Vorbehalten bleiben abweichende Vermittlungs- und Schiedsverfahren bei Streitigk
 
 Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
 
-- a. die Verordnung vom 25. November 2020[^41-1] über die digitale Transformation und die Informatik;
-- b.[^41-2] der Informationssicherheitsverordnung vom 8. November 2023[^41-3].[^41-4]
+- a.[^41-1] die Digitalisierungsverordnung vom 2. April 2025[^41-2];
+- b.[^41-3] der Informationssicherheitsverordnung vom 8. November 2023[^41-4].[^41-5]
 
-[^41-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^41-2]: Fassung gemäss Anhang 2 Ziff. II 7 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^41-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^41-4]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^41-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^41-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^41-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^41-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-5]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
@@ -791,7 +792,7 @@ Anhang 1[^t-1]
 
 ## Verantwortlichkeiten im Immobilienmanagement des ETH-Bereiches (Funktionendiagramm)
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)). Bereinigt gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 205](https://fedlex.data.admin.ch/eli/oc/2025/205)).
 
 Legende:
 
@@ -825,9 +826,7 @@ Legende:
 <tr><td>4. Abgabe von Grundstücken im Baurecht:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>4.1 Baurechte an Dritte für Nutzungen ohne Bezug zum Leistungsauftrag ETH</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
 <tr><td>4.2 Investorenmodelle für Nutzungen in Ergänzung des Leistungsauftrags, z.B. studentisches Wohnen, Hotel etc. (kein Eigenbedarf ETH, Betrieb und Unterhalt durch Dritte)</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
-<tr><td>4.3 Leasing- und PPP-Geschäfte (Deckung des Eigenbedarfs zur Erfüllung des Leistungsauftrags der ETH, jeweils mit Rückmiete und/oder Amortisation); auch ohne Abgabe von Baurechten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.3.1 Rückmiete / Operatives Leasing (gemäss Finanzhaushaltgesetz vom 7. Okt. 2005[^annex1-lvlu1-1])</td><td>bedarfsweise</td><td></td><td></td><td>E2</td><td>E2</td><td>i</td><td>D/E1/A</td></tr>
-<tr><td>4.3.2 Finanzierungsleasing (Bestandteil Bauprogramm)</td><td>bedarfsweise</td><td>G</td><td>E4</td><td>K</td><td>E2</td><td>E3</td><td>D/E1/A</td></tr>
+<tr><td>4.3 Mietverträge welche in direktem Zusammenhang mit einem sachenrechtlichen Geschäft stehen, auch ohne Abgabe im Baurecht</td><td>bedarfsweise</td><td></td><td>i</td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
 <tr><td>4.4 Abgeltung des damit verbundenen Aufwands und Vereinnahmung des Ertrags</td><td>laufend</td><td></td><td></td><td></td><td></td><td></td><td>D</td></tr>
 <tr><td>5. Mit-/Gesamteigentum</td><td>bedarfsweise</td><td></td><td></td><td>i</td><td>E2</td><td>E2</td><td>D/E1/A</td></tr>
 <tr><td>6. Dienstbarkeiten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -849,15 +848,14 @@ Legende:
 <tr><td>7. Weiterbelastung Unterbringung</td><td>quartalsweise</td><td></td><td></td><td></td><td>D</td><td>M</td><td>i</td></tr>
 <tr><td>E. Berichterstattung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1. Berichterstattung Stufe Gesamtportfolio inkl. Kennzahlen</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
-<tr><td>2. Nachweis der Wert- und Funktionserhaltung Art. 35*b* ETH-Gesetz vom 4. Okt. 1991[^annex1-lvlu1-2]</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
+<tr><td>2. Nachweis der Wert- und Funktionserhaltung Art. 35*b* ETH-Gesetz vom 4. Okt. 1991[^annex1-lvlu1-1]</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
 <tr><td>3. Quartalsreporting Wertveränderung Investitionsrechnung/Bilanz inkl. Eventualverbindlichkeiten/ Rückstellungen</td><td>quartalsweise</td><td></td><td></td><td>i</td><td>K2</td><td></td><td>D/K/E</td></tr>
 <tr><td>4. Stand der Verpflichtungs- und der Investitionskredite (Rechnung)</td><td>halbjährlich</td><td>i</td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
 <tr><td>5. Jahresabschluss: Angaben für Staatsrechnung/Bilanz</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
 <tr><td>6. Baustatistiken für Bundesamt für Statistik</td><td>jährlich</td><td></td><td></td><td></td><td>i</td><td></td><td>D</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^annex1-lvlu1-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^annex1-lvlu1-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
 
 Anhang 2
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 5 décembre 2008 concernant la gestion de l'immobilier et 
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20240101/fr"
 
 (OILC)
 
-du 5 décembre 2008 (État le 1<sup>er</sup> janvier 2024)
+du 5 décembre 2008 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -763,13 +763,14 @@ Sont réservées les procédures de conciliation et d’arbitrage divergentes ap
 
 L’OFCL édicte des instructions pour le domaine de la logistique. Sont réservées:
 
-- a. l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^41-1];
-- b.[^41-2] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^41-3].[^41-4]
+- a.[^41-1] l’ordonnance du 2 avril 2025 sur la numérisation[^41-2];
+- b.[^41-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^41-4].[^41-5]
 
-[^41-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^41-2]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^41-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^41-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^41-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^41-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^41-3]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^41-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^41-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
@@ -791,7 +792,7 @@ Annexe 1[^t-1]
 
 ## Responsabilités en matière de gestion de l’immobilier dans le domaine des EPF (diagramme des fonctions)
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)). Mise à jour par le ch. I de l’O du 21 mars2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 205](https://fedlex.data.admin.ch/eli/oc/2025/205)).
 
 Légende:
 
@@ -825,9 +826,7 @@ Légende:
 <tr><td>4. Cession de bien-fonds en droit de superficie</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>4.1 Octroi de droits de superficie à des tiers pour des utilisations sans rapport avec le mandat de prestations du domaine des EPF</td><td>selon besoins</td><td></td><td></td><td></td><td>A</td><td></td><td>E/D/P</td></tr>
 <tr><td>4.2 Modèles d’investissement pour les utilisations complémentaires par rapport au mandat de prestations, par exemple logements pour étudiants, hôtel, etc. (utilisations ne répondant pas aux besoins du domaine des EPF, exploitation et entretien assurés par des tiers)</td><td>selon besoins</td><td></td><td></td><td></td><td>A</td><td></td><td>E/D/P</td></tr>
-<tr><td>4.3 Leasing et PPP (pour les surfaces nécessaires pour remplir le mandat de prestations du domaine des EPF, avec location et/ou amortissement); également sans cession de droits de superficie</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.3.1 Location/leasing d’exploitation (selon la loi du 7 octobre 2005 sur les finances[^annex1-lvlu1-1])</td><td>selon besoins</td><td></td><td></td><td>D2</td><td>D2</td><td>i</td><td>E/D1/P</td></tr>
-<tr><td>4.3.2 Leasing financier (compris dans le programme des constructions)</td><td>selon besoins</td><td>A</td><td>D4</td><td>K</td><td>D2</td><td>D3</td><td>E/D1/P</td></tr>
+<tr><td>4.3 Contrats de bail directement liés à une transaction portant sur des droits réels, même sans cession en droit de superficie</td><td>selon besoins</td><td></td><td>i</td><td></td><td>A</td><td></td><td>E/D/P</td></tr>
 <tr><td>4.4 Paiement des charges liées aux opérations susmentionnées et encaissement des revenus</td><td>continue</td><td></td><td></td><td></td><td></td><td></td><td>E</td></tr>
 <tr><td>5. Copropriété / propriété commune</td><td>selon besoins</td><td></td><td></td><td>i</td><td>D2</td><td>D2</td><td>E/D1/P</td></tr>
 <tr><td>6. Servitudes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -855,8 +854,6 @@ Légende:
 <tr><td>5. Bouclement annuel: indications pour le compte d’État / bilan</td><td>annuelle</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
 <tr><td>6. Statistique de la construction pour l’Office fédéral de la statistique</td><td>annuelle</td><td></td><td></td><td></td><td>i</td><td></td><td>E</td></tr>
 </table>
-
-[^annex1-lvlu1-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 Annexe 2
 
