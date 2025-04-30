@@ -4,11 +4,11 @@ title: Government and Administration Organisation Ordinance of 25 November 1998 
 short: GAOO
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: en
-version: 2024-08-01
+version: 2025-05-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/en/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/en/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (GAOO)
 
-of 25 November 1998 (Status as of 1 August 2024)
+of 25 November 1998 (Status as of 1 May 2025)
 
 The Swiss Federal Council,
 
@@ -875,56 +875,35 @@ The Federal Council's plans comprise:
 [^22-1]: Amended by Art. 20 No 3 of the GEVER Ordinance of 3 April 2019, in force since 1 April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
 [^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
 
-### Section 3*a*. Service Level Agreements
+### Section 3*a*. Exemptions from Management by Service Level Agreement
 
 [^chap3-sec3a-1]
 
-[^chap3-sec3a-1]: Inserted by Annex No 1 of the O of 14 Oct. 2015 (Optimisation New Accounting Model and New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap3-sec3a-1]: Inserted by Annex No 1 of the O of 14 Oct. 2015 (Optimisation New Accounting Model and New Management Model for the Federal Administration) ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Amended by No I of the O of 21 March 2025, in force since 1 May 2025 ([AS 2025 206](https://fedlex.data.admin.ch/eli/oc/2025/206)).
+
+### (Art. 38*a* para. 2 GAOA)
 
 #### Art. 22a
 
-**Management by service level agreement**
-
-### (Art. 38*a* GAOA)
-
-<sup>1</sup>
-
-The departments or the agencies designated by them shall conclude service level agreements with their administrative units. These shall cover as a minimum:
-
-- a. the annual objectives of the Federal Council and the departments in accordance with Articles 19 and 20;
-- b. other important projects with milestones and deadlines;
-- c. the performance and impact targets of the service groups, which are usually provided with parameters and target values.
-
-<sup>2</sup>
-
-No service level agreement needs to be concluded with:
+The Swiss Federal Audit Office and the following authorities are exempt from management by service level agreement:
 
 - a. the Federal Chancellery;
 - b. the Federal Data Protection and Information Commissioner;
 - c. the Federal Gaming Board;
-- d. the Swiss Federal Audit Office;
-- e. the Price Supervisor;
-- f. the Competition Commission;
-- g. the Swiss Transportation Safety Investigation Board;
-- h. the Federal Postal Services Commission;
-- i.[^22a-1] the Rail Transport Commission;
-- j. the Federal Electricity Commission;
-- k. der Federal Communications Commission;
-- l. the Independent Complaints Authority for Radio and Television.
-
-[^22a-1]: Amended by No I 1 of the OBI Ordinance of 13 May 2020, in force since 1 July 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+- d. the Price Supervisor;
+- e. the Competition Commission;
+- f. the Swiss Transportation Safety Investigation Board;
+- g. the Federal Postal Services Commission;
+- h. the Rail Transport Commission;
+- i. the Federal Electricity Commission;
+- j. the Federal Communications Commission;
+- k. the Independent Complaints Authority for Radio and Television.
 
 #### Art. 22b
 
-**Reporting and adjustment**
+Repealed
 
-### (Art. 38*a* para. 5 GAOA)
-
-<sup>1</sup> The departments or the agencies designated by them shall determine when and in what form the administrative units shall report on the achievement of objectives and, if necessary, on corrective measures.
-
-<sup>2</sup> The FFA shall issue directives on the review of the structure and objectives of the service groups in accordance with Article 38*a* paragraph 5 GAOA.
-
-### Section 3*b* Exceptions to the Requirement for Two Signatures
+### Section 3*b* Exemptions from the Requirement for Two Signatures
 
 [^chap3-sec3b-1]
 
@@ -1416,7 +1395,7 @@ The directives and working aids shall regulate in particular:
 - m. the coordination of information and communication.
 
 [^30-1]: Repealed by No I of the O of 21 Aug. 2002, with effect from 1 Oct. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. See now the Consultation Ordinance of 17 Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
+[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. See now the Consultation Ordinance of 17 Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
 
 ### Section 2 Authorisation to Act on behalf of a Foreign State and for International Tribunals
 
@@ -1471,7 +1450,7 @@ The Federal Council Decree of 7 July 1971[^34-1] on the Authorisation of the Dep
 
 <sup>2</sup> Articles 26 and 27 come into force at the same time as the Ordinance on the Organisation of the Federal Chancellery of 5 May 1999[^35-1] .
 
-[^35-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)para. III; **2004** 4521, **2007** 349; 4477 para. IV 7. [AS 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Art. 11]. This O came into force on 1 June 1999.
+[^35-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)para. III; **2004** 4521; **2007** 349, 4477 para. IV 7. [AS 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Art. 11]. This O came into force on 1 June 1999.
 
 ## Transitional Provision to the Amendment of 26 November 2008
 

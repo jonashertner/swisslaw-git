@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2024-08-01
+version: 2025-05-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (État le 1<sup>er</sup> août 2024)
+du 25 novembre 1998 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -870,54 +870,33 @@ Les planifications gouvernementales comprennent:
 [^22-1]: Nouvelle teneur selon l’art. 20 ch. 3 de l’O GEVER du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
 [^22-2]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
 
-### Section 3*a* Conventions de prestations
+### Section 3*a* Exceptions à la gestion par convention de prestations
 
 [^chap3-sec3a-1]
 
-[^chap3-sec3a-1]: Introduite par l’annexe ch. 1 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap3-sec3a-1]: Introduite par l’annexe ch. 1 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale) ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 206](https://fedlex.data.admin.ch/eli/oc/2025/206)).
+
+### (art. 38*a*, al. 2, LOGA)
 
 #### Art. 22a
 
-**Gestion par conventions sur les prestations**
-
-### (art. 38*a* LOGA)
-
-<sup>1</sup>
-
-Les départements ou les services qu’ils désignent passent des conventions de prestations avec leurs unités administratives. Celles-ci contiennent au moins:
-
-- a. les objectifs annuels du Conseil fédéral et des départements, conformément aux art. 19 et 20;
-- b. d’autres projets importants avec jalons et délais;
-- c. les objectifs en matière de prestations et de résultats des groupes de prestations, en règle générale assortis des indicateurs et valeurs cible.
-
-<sup>2</sup>
-
-Il n’y a pas lieu de conclure de convention de prestations avec:
+Outre le Contrôle fédéral des finances, les exceptions à la gestion par convention de prestations concernent les unités administratives suivantes:
 
 - a. la Chancellerie fédérale;
 - b. le Préposé fédéral à la protection des données et à la transparence;
 - c. la Commission fédérale des maisons de jeu;
-- d. le Contrôle fédéral des finances;
-- e. le Surveillant des prix;
-- f. la Commission de la concurrence;
-- g. le Service suisse d’enquête de sécurité;
-- h. la Commission fédérale de la poste;
-- i.[^22a-1] la Commission des chemins de fer;
-- j. la Commission fédérale de l’électricité;
-- k. la Commission fédérale de la communication;
-- l. l’Autorité indépendante d’examen des plaintes en matière de radio-télévision.
-
-[^22a-1]: Nouvelle teneur selon le ch. I 1 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+- d. le Surveillant des prix;
+- e. la Commission de la concurrence;
+- f. le Service suisse d’enquête de sécurité;
+- g. la Commission fédérale de la poste;
+- h. la Commission des chemins de fer;
+- i. la Commission fédérale de l’électricité;
+- j. la Commission fédérale de la communication;
+- k. l’Autorité indépendante d’examen des plaintes en matière de radio-télévision.
 
 #### Art. 22b
 
-**Rapports et pilotage**
-
-### (art. 38*a*, al. 5, LOGA)
-
-<sup>1</sup> Les départements ou les services qu’ils désignent fixent à quel moment et sous quelle forme les unités administratives doivent présenter les rapports sur la réalisation des objectifs et sur les éventuelles corrections.
-
-<sup>2</sup> L’AFF édicte des directives en matière d’examen des structures et fixe les objectifs des groupes de prestations conformément à l’art. 38*a*, al. 5, LOGA.
+Abrogé
 
 ### Section 3*b* Exceptions à l’exigence de la double signature
 

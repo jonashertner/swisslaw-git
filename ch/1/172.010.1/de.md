@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2024-08-01
+version: 2025-05-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. August 2024)
+vom 25. November 1998 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -873,54 +873,33 @@ Die Planungen des Bundesrates bestehen aus:
 [^22-1]: Fassung gemäss Art. 20 Ziff. 3 der GEVER-Verordnung vom 3. April 2019, in Kraft seit 1. April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
 [^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
 
-### 3*a*. Abschnitt: Leistungsvereinbarungen
+### 3*a*. Abschnitt: Ausnahmen von der Führung mit Leistungsvereinbarung
 
 [^chap3-sec3a-1]
 
-[^chap3-sec3a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap3-sec3a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung) ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 206](https://fedlex.data.admin.ch/eli/oc/2025/206)).
+
+### (Art. 38*a* Abs. 2 RVOG)
 
 #### Art. 22a
 
-**Führen mit Leistungsvereinbarungen**
+Von der Führung mit Leistungsvereinbarung sind neben der Eidgenössischen Finanzkontrolle ausgenommen:
 
-### (Art. 38a RVOG)
-
-<sup>1</sup>
-
-Die Departemente oder die von ihnen bezeichneten Stellen schliessen mit ihren Verwaltungseinheiten Leistungsvereinbarungen ab. Diese umfassen mindestens:
-
-- a. die Jahresziele des Bundesrates und der Departemente nach den Artikeln 19 und 20;
-- b. weitere wichtige Vorhaben mit Meilensteinen und Terminen;
-- c. die Leistungs- und Wirkungsziele der Leistungsgruppen, die in der Regel mit Messgrössen und Sollwerten versehen werden.
-
-<sup>2</sup>
-
-Keine Leistungsvereinbarung muss abgeschlossen werden mit:
-
-- a. der Bundeskanzlei;
-- b. dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten;
-- c. der Eidgenössischen Spielbankenkommission;
-- d. der Eidgenössischen Finanzkontrolle;
-- e. dem Preisüberwacher;
-- f. der Wettbewerbskommission;
-- g. der Schweizerischen Sicherheitsuntersuchungsstelle;
-- h. der Eidgenössischen Postkommission;
-- i.[^22a-1] der Kommission für den Eisenbahnverkehr;
-- j. der Eidgenössischen Elektrizitätskommission;
-- k. der Eidgenössischen Kommunikationskommission;
-- l. der Unabhängigen Beschwerdeinstanz für Radio und Fernsehen.
-
-[^22a-1]: Fassung gemäss Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+- a. die Bundeskanzlei;
+- b. der Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragte;
+- c. die Eidgenössischen Spielbankenkommission;
+- d. der Preisüberwacher;
+- e. die Wettbewerbskommission;
+- f. die Schweizerische Sicherheitsuntersuchungsstelle;
+- g. die Eidgenössische Postkommission;
+- h. die Kommission für den Eisenbahnverkehr;
+- i. die Eidgenössische Elektrizitätskommission;
+- j. die Eidgenössische Kommunikationskommission;
+- k. die Unabhängige Beschwerdeinstanz für Radio und Fernsehen.
 
 #### Art. 22b
 
-**Berichterstattung und Steuerung**
-
-### (Art. 38*a* Abs. 5 RVOG)
-
-<sup>1</sup> Die Departemente oder die von ihnen bezeichneten Stellen legen fest, wann und in welcher Form die Verwaltungseinheiten über die Zielerreichung und gegebenenfalls über Korrekturmassnahmen berichten.
-
-<sup>2</sup> Die EFV erlässt Weisungen zur Überprüfung der Struktur und der Ziele der Leistungsgruppen nach Artikel 38*a* Absatz 5 RVOG.
+Aufgehoben
 
 ### 3*b*. Abschnitt: Ausnahmen vom Erfordernis der Doppelunterschrift
 
@@ -1414,7 +1393,7 @@ Die Weisungen und Arbeitshilfen regeln insbesondere:
 - m. die Koordination der Information und Kommunikation.
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. Siehe heute die Vernehmlassungsverordnung vom 17. Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
+[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. Siehe heute die Vernehmlassungsverordnung vom 17. Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
 
 ### 2. Abschnitt: Bewilligungen zur Vornahme von Handlungen für einen fremden Staat und für internationale Gerichte
 
@@ -1469,7 +1448,7 @@ Der Bundesratsbeschluss vom 7. Juli 1971[^34-1] über die Ermächtigung der Depa
 
 <sup>2</sup> Die Artikel 26 und 27 treten gleichzeitig mit der Organisationsverordnung für die Bundeskanzlei vom 5. Mai 1999[^35-1] in Kraft.
 
-[^35-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)Ziff. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 7. [AS 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Art. 11]. Diese V trat am 1. Juni 1999 in Kraft.
+[^35-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)Ziff. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 7. [AS 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Art. 11]. Diese V trat am 1. Juni 1999 in Kraft.
 
 ## Übergangsbestimmung zur Änderung vom 26. November 2008
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2024-08-01
+version: 2025-05-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° agosto 2024)
+del 25 novembre 1998 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: Nuovo testo giusta il n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+[^ingress-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 ## Capitolo 1: Il Consiglio federale
 
@@ -51,7 +51,7 @@ ordina:
 
 [^1a1b-1]
 
-[^1a1b-1]: Introdotti dal n. I dell’O del 30 nov. 2011 ([RU 2011 6089](https://fedlex.data.admin.ch/eli/oc/2011/842)). Abrogati dall’all. n. 1 dell’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, con effetto dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
+[^1a1b-1]: Introdotti dalla cifra I dell’O del 30 nov. 2011 ([RU 2011 6089](https://fedlex.data.admin.ch/eli/oc/2011/842)). Abrogati dall’all. n. 1 dell’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, con effetto dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
 
 #### Art. 2
 
@@ -112,7 +112,7 @@ ordina:
 
 [^chap1a-1]
 
-[^chap1a-1]: Introdotto dal n. I dell’O del 19 nov. 2003, in vigore dal 1° dic. 2003 ([RU 2003 4117](https://fedlex.data.admin.ch/eli/oc/2003/611)).
+[^chap1a-1]: Introdotto dalla cifra I dell’O del 19 nov. 2003, in vigore dal 1° dic. 2003 ([RU 2003 4117](https://fedlex.data.admin.ch/eli/oc/2003/611)).
 
 #### Art. 5a
 
@@ -133,7 +133,7 @@ Il Consiglio federale decide in ogni caso:
 
 [^chap1b-1]
 
-[^chap1b-1]: Introdotto dal n. I dell’O del 6 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2641](https://fedlex.data.admin.ch/eli/oc/2016/421)).
+[^chap1b-1]: Introdotto dalla cifra I dell’O del 6 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2641](https://fedlex.data.admin.ch/eli/oc/2016/421)).
 
 #### Art. 5b
 
@@ -152,7 +152,7 @@ Le commissioni competenti per la politica estera sono consultate in caso di prog
 
 [^chap1c-1]
 
-[^chap1c-1]: Introdotto dal n. I dell’O del 17 mag. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3275](https://fedlex.data.admin.ch/eli/oc/2017/340)).
+[^chap1c-1]: Introdotto dalla cifra I dell’O del 17 mag. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3275](https://fedlex.data.admin.ch/eli/oc/2017/340)).
 
 #### Art. 5c
 
@@ -180,7 +180,7 @@ La Cancelleria federale tiene un elenco aggiornato comprendente:
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 6
 
@@ -262,7 +262,7 @@ Nell’allegato 1 sono elencate in modo esaustivo con la relativa attribuzione a
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
 
 #### Art. 8a
 
@@ -282,7 +282,7 @@ Nell’allegato 1 sono elencate in modo esaustivo con la relativa attribuzione a
 
 <sup>2</sup> Non sono previsti limiti di età per la nomina.[^8b-1]
 
-[^8b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8b-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
 #### Art. 8c
 
@@ -292,7 +292,7 @@ Nell’allegato 1 sono elencate in modo esaustivo con la relativa attribuzione a
 
 <sup>2</sup> Se la proporzione di uomini o di donne è inferiore al 40 per cento, la Cancelleria federale esige dal dipartimento interessato una motivazione scritta.
 
-[^8c-1]: Nuovo testo giusta il n. I 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2023 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
+[^8c-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2023 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 #### Art. 8c<sup>bis</sup>
 
@@ -302,7 +302,7 @@ Nell’allegato 1 sono elencate in modo esaustivo con la relativa attribuzione a
 
 <sup>2</sup> Se una delle comunità linguistiche tedesca, francese o italiana non è rappresentata da almeno una persona, la Cancelleria federale esige dal dipartimento interessato una motivazione scritta.
 
-[^8cbis-1]: Introdotto dall’all. n. II 1 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
+[^8cbis-1]: Introdotto dall’all. cifra II n. 1 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
 
 #### Art. 8d
 
@@ -343,14 +343,14 @@ La decisione istitutiva deve in particolare:
 - l.[^8e-7] disciplinare il diritto d’informazione della commissione nei confronti dell’Amministrazione;
 - m.[^8e-8] contenere, per le commissioni extraparlamentari che svolgono compiti di vigilanza e regolamentazione, il profilo dei requisiti dei relativi membri.
 
-[^8e-1]: Abrogata dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
-[^8e-2]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
-[^8e-3]: Abrogata dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
-[^8e-4]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^8e-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
-[^8e-6]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
-[^8e-7]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
-[^8e-8]: Introdotta dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8e-1]: Abrogata dalla cifra I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-2]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-3]: Abrogata dalla cifra I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-4]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8e-5]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
+[^8e-6]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-7]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-8]: Introdotta dalla cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 8e<sup>bis</sup>
 
@@ -358,7 +358,7 @@ La decisione istitutiva deve in particolare:
 
 Il Consiglio federale nomina i membri. Determina la loro funzione, sempre che questa non risulti da disposizioni speciali sull’organizzazione della commissione interessata.
 
-[^8ebis-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8ebis-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
 #### Art. 8e<sup>ter</sup>
 
@@ -381,7 +381,7 @@ Un conflitto d’interesse può sussistere in particolare se:
 
 <sup>6</sup> Le indennità percepite indebitamente durante il periodo di attesa devono essere restituite.
 
-[^8eter-1]: Introdotto dal n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+[^8eter-1]: Introdotto dalla cifra I n. 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 #### Art. 8f
 
@@ -405,8 +405,8 @@ Ogni membro di una commissione informa su:
 
 [^8f-1]: Vedi anche le disp. trans. della mod. del 26 nov. 2008 alla fine del presente testo.
 [^8f-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^8f-3]: Nuovo testo giusta il n. I 8.1 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^8f-4]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8f-3]: Nuovo testo giusta la cifra I n. 8.1 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^8f-4]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
 #### Art. 8f<sup>bis</sup>
 
@@ -416,7 +416,7 @@ Ogni membro di una commissione informa su:
 
 <sup>2</sup> In particolare, non possono utilizzare le informazioni di cui al capoverso 1 per procurare vantaggi a sé o a terzi.
 
-[^8fbis-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+[^8fbis-1]: Introdotto dalla cifra I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
 
 #### Art. 8g
 
@@ -426,7 +426,7 @@ Ogni membro di una commissione informa su:
 
 <sup>2</sup> Il mandato dei membri nominati nel corso della legislatura termina alla fine di quest’ultima.
 
-[^8g-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8g-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
 #### Art. 8h
 
@@ -458,7 +458,7 @@ Ogni membro di una commissione informa su:
 
 <sup>3</sup> Sono fatte salve le disposizioni derogatorie di diritto speciale o contenute nella decisione istitutiva.
 
-[^8ibis-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+[^8ibis-1]: Introdotto dalla cifra I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
 
 #### Art. 8i<sup>ter</sup>
 
@@ -466,14 +466,14 @@ Ogni membro di una commissione informa su:
 
 Le commissioni che sulla base della loro decisione istitutiva comunicano senza consultare l’autorità competente mantengono il necessario riserbo quando informano il pubblico su questioni politiche.
 
-[^8iter-1]: Introdotto dal n. I dell’O del 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)).
+[^8iter-1]: Introdotto dalla cifra I dell’O del 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)).
 
 ### Sezione 1*b*: Organi di direzione di organizzazioni della Confederazione e rappresentanti della Confederazione in organizzazioni di diritto pubblico o privato
 
 [^chap2-sec1b-1][^chap2-sec1b-2]
 
-[^chap2-sec1b-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
-[^chap2-sec1b-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^chap2-sec1b-1]: Introdotta dalla cifra I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+[^chap2-sec1b-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 8j
 
@@ -485,10 +485,10 @@ Le commissioni che sulla base della loro decisione istitutiva comunicano senza c
 
 <sup>2</sup> Per ogni organizzazione il Consiglio federale elabora un profilo dei requisiti tecnici e personali che un rappresentante deve soddisfare. Esercita il suo diritto di nomina e di designazione sulla base di tale profilo.
 
-[^8j-1]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
-[^8j-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8j-1]: Introdotto dalla cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8j-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 [^8j-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8j-4]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)
+[^8j-4]: Introdotto dalla cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23))
 
 #### Art. 8j<sup>bis</sup>
 
@@ -505,13 +505,13 @@ Un conflitto d’interesse può sussistere in particolare se:
 
 <sup>3</sup> L’articolo 8*e*<sup>ter</sup> capoversi 3–6 si applica per analogia.
 
-[^8jbis-1]: Introdotto dal n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+[^8jbis-1]: Introdotto dalla cifra I n. 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 ### Sezione 1*c*: Elenco dei membri delle commissioni extraparlamentari, degli organi di direzione e dei rappresentanti della Confederazione
 
 [^chap2-sec1c-1]
 
-[^chap2-sec1c-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+[^chap2-sec1c-1]: Introdotta dalla cifra I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
 
 #### Art. 8k
 
@@ -535,16 +535,16 @@ L’elenco contiene i seguenti dati sulle persone di cui al capoverso 1:
 
 <sup>5</sup> I dati possono essere archiviati per scopi statistici.
 
-[^8k-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
-[^8k-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
-[^8k-3]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
-[^8k-4]: Abrogato dal n. I dell’O del 9 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8k-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8k-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8k-3]: Introdotto dalla cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8k-4]: Abrogato dalla cifra I dell’O del 9 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
 
 ### Sezione 1*d*: Indennizzo dei membri delle commissioni extraparlamentari
 
 [^chap2-sec1d-1]
 
-[^chap2-sec1d-1]: Introdotta dal n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
+[^chap2-sec1d-1]: Introdotta dalla cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
 
 #### Art. 8l
 
@@ -552,7 +552,7 @@ L’elenco contiene i seguenti dati sulle persone di cui al capoverso 1:
 
 Ha diritto a un indennizzo conformemente alla presente sezione chi è stato nominato membro o membro supplente di una commissione extraparlamentare ed è attivo in seno a questa commissione.
 
-[^8l-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+[^8l-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
 
 #### Art. 8m
 
@@ -577,7 +577,7 @@ Per quanto concerne l’indennizzo dei loro membri, le commissioni politico-soci
 
 <sup>2</sup> L’attribuzione delle commissioni politico-sociali alle categorie di indennizzo è disciplinata nell’allegato 2 numero 1.[^8n-1]
 
-[^8n-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8n-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 8o
 
@@ -604,9 +604,9 @@ Se la legislazione speciale o la decisione istitutiva della commissione prevede 
 
 <sup>7</sup> Gli importi non sono adattati al rincaro.
 
-[^8o-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^8o-2]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)). Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
-[^8o-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 7](https://fedlex.data.admin.ch/eli/oc/2013/2)[427](https://fedlex.data.admin.ch/eli/oc/2013/81)).
+[^8o-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8o-2]: Introdotto dalla cifra I dell’O del 27 giu. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)). Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8o-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 7](https://fedlex.data.admin.ch/eli/oc/2013/2)[427](https://fedlex.data.admin.ch/eli/oc/2013/81)).
 
 #### Art. 8p
 
@@ -623,7 +623,7 @@ Per quanto concerne l’indennizzo dei loro membri, le commissioni di vigilanza 
 
 <sup>2</sup> L’attribuzione delle commissioni di vigilanza sul mercato alle categorie di indennizzo è disciplinata nell’allegato 2 numero 2.[^8p-1]
 
-[^8p-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8p-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 8q
 
@@ -639,8 +639,8 @@ Per quanto concerne l’indennizzo dei loro membri, le commissioni di vigilanza 
 
 <sup>5</sup> Gli importi non sono adattati al rincaro.
 
-[^8q-1]: Nuovo testo giusta il n. I 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2023 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
-[^8q-2]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8q-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2023 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
+[^8q-2]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
 #### Art. 8r
 
@@ -650,7 +650,7 @@ Per quanto concerne l’indennizzo dei loro membri, le commissioni di vigilanza 
 
 <sup>2</sup> Se la partecipazione ai lavori della commissione comporta un onere considerevole per un suo membro, in quanto è tenuto a organizzare l’assistenza di figli o congiunti bisognosi di cure, questi può chiedere il rimborso delle relative spese all’autorità competente.[^8r-1]
 
-[^8r-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+[^8r-1]: Introdotto dalla cifra I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
 
 #### Art. 8s
 
@@ -765,7 +765,7 @@ Gli interessi essenziali secondo il capoverso 1 sono toccati in particolare se:
 - b. gli organi cantonali o comunali devono essere riorganizzati; o
 - c. gli organi cantonali o comunali devono provvedere a modifiche essenziali del diritto.
 
-[^15a-1]: Introdotto dal n. II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^15a-1]: Introdotto dalla cifra II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
 #### Art. 16
 
@@ -805,9 +805,9 @@ Le pianificazioni del Consiglio federale constano di:
 
 <sup>5</sup> Per le unità amministrative subordinate sono vincolanti le pianificazioni del Consiglio federale, rispettivamente dei Dipartimenti.
 
-[^17-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [535](https://fedlex.data.admin.ch/eli/oc/2003/114); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^17-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)cifra II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [535](https://fedlex.data.admin.ch/eli/oc/2003/114); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
 [^17-2]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15. [RU 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)art. 76]. Vedi ora l’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
-[^17-3]: Nuova espr. giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^17-3]: Nuova espr. giusta la cifra I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 18
 
@@ -823,7 +823,7 @@ Le pianificazioni del Consiglio federale constano di:
 
 <sup>3</sup> Stabiliscono gli obiettivi, i risultati perseguiti, nonché i provvedimenti prioritari e designano gli ambiti in cui l’offerta statale di prestazioni deve essere oggetto di un riesame o smantellata.
 
-[^18-1]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249); [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1;[2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3]. Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^18-1]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249); [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I n. 1;[2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra I n. 3]. Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 19
 
@@ -870,60 +870,39 @@ Le pianificazioni del Consiglio federale constano di:
 [^22-1]: Nuovo testo giusta l’art. 20 n. 3 dell’O GEVER del 3 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
 [^22-2]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
 
-### Sezione 3*a*: Convenzioni sulle prestazioni
+### Sezione 3*a*: Eccezioni dalla gestione mediante convenzioni sulle prestazioni
 
 [^chap3-sec3a-1]
 
-[^chap3-sec3a-1]: Introdotta dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap3-sec3a-1]: Introdotta dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale) ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 206](https://fedlex.data.admin.ch/eli/oc/2025/206)).
+
+### (art. 38*a* cpv. 2 LOGA)
 
 #### Art. 22a
 
-**Gestione mediante convenzioni sulle prestazioni**
-
-### (art. 38*a* LOGA)
-
-<sup>1</sup>
-
-I dipartimenti o i servizi da essi designati concludono con le loro unità amministrative convenzioni sulle prestazioni. Queste indicano perlomeno:
-
-- a. gli obiettivi annui del Consiglio federale e dei dipartimenti secondo gli articoli 19 e 20;
-- b. altri importanti progetti, comprese le tappe e le scadenze;
-- c. gli obiettivi in materia di prestazioni e risultati dei gruppi di prestazioni, di regola corredati da parametri e valori di riferimento.
-
-<sup>2</sup>
-
-Non è necessario concludere convenzioni sulle prestazioni con:
+Dalla gestione mediante convenzioni sulle prestazioni sono esclusi, oltre al Controllo federale delle finanze:
 
 - a. la Cancelleria federale;
 - b. l’Incaricato federale della protezione dei dati e della trasparenza;
 - c. la Commissione federale delle case da gioco;
-- d. il Controllo federale delle finanze;
-- e. il Sorvegliante dei prezzi;
-- f. la Commissione della concorrenza;
-- g. il Servizio d’inchiesta svizzero sugli infortuni;
-- h. la Commissione federale delle poste;
-- i.[^22a-1] la Commissione del trasporto ferroviario;
-- j. la Commissione federale dell’energia elettrica;
-- k. la Commissione federale delle comunicazioni;
-- l. l’Autorità indipendente di ricorso in materia radiotelevisiva.
-
-[^22a-1]: Nuovo testo giusta il n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+- d. il Sorvegliante dei prezzi;
+- e. la Commissione della concorrenza;
+- f. il Servizio d’inchiesta svizzero sugli infortuni;
+- g. la Commissione federale delle poste;
+- h. la Commissione del trasporto ferroviario;
+- i. la Commissione federale dell’energia elettrica;
+- j. la Commissione federale delle comunicazioni;
+- k. l’Autorità indipendente di ricorso in materia radiotelevisiva.
 
 #### Art. 22b
 
-**Rapporto e gestione**
-
-### (art. 38*a* cpv. 5 LOGA)
-
-<sup>1</sup> I dipartimenti o i servizi da essi designati stabiliscono quando e in quale forma le unità amministrative presentano un rapporto sul conseguimento degli obiettivi e su eventuali misure correttive.
-
-<sup>2</sup> L’AFF emana istruzioni sulla verifica della struttura e degli obiettivi dei gruppi di prestazioni di cui all’articolo 38*a* capoverso 5 LOGA.
+*Abrogato*
 
 ### Sezione 3*b*: Deroghe all’obbligo della doppia firma
 
 [^chap3-sec3b-1]
 
-[^chap3-sec3b-1]: Introdotta dal n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^chap3-sec3b-1]: Introdotta dalla cifra III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
 ### (art. 49 cpv. 5 LOGA)
 
@@ -962,8 +941,8 @@ Derogano dall’obbligo della doppia firma:
 
 <sup>4</sup> In caso di necessità, il Consiglio federale può centralizzare l’informazione e la comunicazione presso il presidente della Confederazione, presso la Cancelleria federale, presso un dipartimento o presso un altro ente designato. L’ente designato ha corrispondenti competenze di emanare istruzioni.
 
-[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^23-1]: Introdotta dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 (RU **202****4** 313).
+[^chap3-sec4-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^23-1]: Introdotta dalla cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 #### Art. 23a
 
@@ -980,7 +959,7 @@ Le unità amministrative possono gestire propri profili nei media sociali allo s
 
 <sup>3</sup> Sono considerati media sociali le piattaforme elettroniche utili alla comunicazione con il pubblico e che consentono agli utenti di condividere contenuti.
 
-[^23a-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 #### Art. 23b
 
@@ -992,7 +971,7 @@ Le unità amministrative possono gestire propri profili nei media sociali allo s
 - c. le unità amministrative possono nascondere, cancellare o sopprimere in altro modo i contributi degli utenti.
 - [tab] <sup>2</sup> Esse garantiscono la possibilità di essere contattate attraverso i propri profili.
 
-[^23b-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+[^23b-1]: Introdotto dalla cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 #### Art. 23c
 
@@ -1026,7 +1005,7 @@ Le unità amministrative possono, sui loro profili, sopprimere contributi:
 
 <sup>4</sup> Allo scadere della durata prevista per il blocco, se l’utente lo richiede, il blocco è tolto.
 
-[^23c-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+[^23c-1]: Introdotto dalla cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 ### Sezione 5: Vigilanza
 
@@ -1058,7 +1037,7 @@ Le unità amministrative possono, sui loro profili, sopprimere contributi:
 
 <sup>5</sup> L’AFF elabora le basi per la vigilanza e l’orientamento strategico delle unità rese autonome della Confederazione («Public Corporate Governance») e coordina la redazione dei rapporti. A tal fine collabora con i dipartimenti e le unità amministrative interessati.
 
-[^24a-1]: Introdotto dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+[^24a-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
 
 #### Art. 25
 
@@ -1083,7 +1062,7 @@ Il controllo, come strumento della vigilanza, serve:
 
 Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il presidente della Confederazione sono assistiti dalla Cancelleria federale. Per chiarire questioni interdipartimentali è possibile ricorrere a gruppi di lavoro giusta l’articolo 56 LOGA o a una consulenza esterna ai sensi dell’articolo 57 LOGA.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 
 #### Art. 27
 
@@ -1097,7 +1076,7 @@ Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il pre
 
 <sup>3</sup> L’AFF coordina, in collaborazione con la Conferenza dei segretari generali, il controllo di cui al capoverso 1 con il riesame di cui all’articolo 5 della legge del 5 ottobre 1990[^27-2] sui sussidi.[^27-3]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 [^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^27-3]: Introdotto dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
@@ -1105,7 +1084,7 @@ Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il pre
 
 [^chap3-sec6-1]
 
-[^chap3-sec6-1]: Introdotta dal n. I dell’O del 10 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5251](https://fedlex.data.admin.ch/eli/oc/2004/805)).
+[^chap3-sec6-1]: Introdotta dalla cifra I dell’O del 10 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5251](https://fedlex.data.admin.ch/eli/oc/2004/805)).
 
 #### Art. 27a
 
@@ -1213,7 +1192,7 @@ L’autorità che ordina l’inchiesta rilascia un mandato d’inchiesta scritto
 
 Ogni servizio amministrativo invitato dall’organo d’inchiesta a rendere noti dati personali è tenuto, nella propria sfera di competenza, a garantire l’osservanza delle disposizioni della legge federale del 25 settembre 2020[^27i-2] sulla protezione dei dati.
 
-[^27i-1]: Nuovo testo giusta l’all. 2 n. II 14 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^27i-1]: Nuovo testo giusta l’all. 2 cifra II n. 14 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^27i-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 27j
@@ -1234,7 +1213,7 @@ Ogni servizio amministrativo invitato dall’organo d’inchiesta a rendere noti
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dal n. I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
+[^chap3a-1]: Introdotto dalla cifra I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
 
 #### Art. 27k
 
@@ -1280,7 +1259,7 @@ Se il caso non è controverso, il dipartimento dà la sua approvazione entro due
 
 [^chap3b-1]
 
-[^chap3b-1]: Introdotto dal n. I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
+[^chap3b-1]: Introdotto dalla cifra I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
 
 #### Art. 27o
 
@@ -1361,7 +1340,7 @@ Il Consiglio federale emana un’ordinanza sull’organizzazione di ogni diparti
 - b. gli obiettivi, i compiti e le competenze dei gruppi e degli uffici;
 - c.[^28-1] l’attribuzione interna ai dipartimenti delle unità amministrative decentralizzate, nonché, nella misura in cui non siano disciplinati in altro modo, i loro obiettivi, compiti e competenze.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 29
 
@@ -1382,7 +1361,7 @@ I dipartimenti e la Cancelleria federale emanano propri regolamenti interni. Vi 
 
 <sup>3</sup> I regolamenti interni sono accessibili al pubblico; non sono però pubblicati nella Raccolta ufficiale delle leggi federali.
 
-[^29-1]: Introdotta dal n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^29-1]: Introdotta dalla cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 
 #### Art. 30
 
@@ -1408,7 +1387,7 @@ Le istruzioni e i documenti ausiliari disciplinano segnatamente:
 - l. le abilitazioni del presidente della Confederazione in applicazione dell’articolo 26 capoverso 4 LOGA;
 - m. il coordinamento dell’informazione e della comunicazione.
 
-[^30-1]: Abrogata dal n. I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^30-1]: Abrogata dalla cifra I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 [^30-2]: [[RU 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)art. 22. [RU 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)art. 22]. Vedi ora l’O del 17 ago. 2005 sulla consultazione ([RS 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
 
 ### Sezione 2: Autorizzazione a compiere atti per conto di uno Stato estero e di tribunali internazionali
@@ -1438,7 +1417,7 @@ Le istruzioni e i documenti ausiliari disciplinano segnatamente:
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^32-1]: Abrogato dalla cifra I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 
 ### Sezione 4: …
 
@@ -1446,7 +1425,7 @@ Le istruzioni e i documenti ausiliari disciplinano segnatamente:
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. I dell’O del 16 gen. 2008, con effetto dal 1° feb. 2008 ([RU 2008 191](https://fedlex.data.admin.ch/eli/oc/2008/59)).
+[^33-1]: Abrogato dalla cifra I dell’O del 16 gen. 2008, con effetto dal 1° feb. 2008 ([RU 2008 191](https://fedlex.data.admin.ch/eli/oc/2008/59)).
 
 ### Sezione 5: Diritto previgente: abrogazione
 
@@ -1464,7 +1443,7 @@ Il decreto del Consiglio federale del 7 luglio 1971[^34-1] che dà facoltà ai D
 
 <sup>2</sup> Gli articoli 26 e 27 entrano in vigore simultaneamente all’ordinanza del 5 maggio 1999[^35-1] sull’organizzazione della Cancelleria federale.
 
-[^35-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 7. [RU 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. In vigore dal 1° giu. 1999.
+[^35-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)cifra III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 7. [RU 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. In vigore dal 1° giu. 1999.
 
 ## Disposizione transitoria relativa alla modifica del 26 novembre 2008
 
@@ -1500,7 +1479,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle unità amministrative dell’Amministrazione federale
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aggiornato dal n. I dell’O del 27 ott. 2010 ([RU 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), dall’art. 15 dell’O del 20 apr. 2011 sull’organizzazione del DFAE ([RU 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), dal n. II dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), dall’all. n. 1 dell’O del 23 mar. 2011 sull’organizzazione del SISI ([RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), dal n. I dell’O del 30 nov. 2011 ([RU 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), dall’all. n. 1 dell’O del 9 dic. 2011 sull’informatica nell’Amministrazione federale ([RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), dall’all. n. 2 dell’O del 21 nov. 2012 sull’Istituto federale di metrologia ([RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), dal n. I 2 cpv. 1 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), dalla correzione del 28 dic. 2012 ([RU 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), dalla correzione del 15 gen. 2013 ([RU 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), dai n. II delle O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), del 28 nov. 2014 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), del 28 gen. 2015 ([RU 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), dall’all. 2 n. II 1 dell’O del 29 mar. 2017 sulle strutture dell’esercito ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), dall’all. n. 2 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. 2 n. II 2 dell’O del 15 set. 2017 sull’alcol ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dall’all. 6 n. II 1 dell’O del 21 set. 2018 sui medicamenti ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), dal n. II dell’O del 7 nov. 2018 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), dal n. I dell’O del 30 nov. 2018 ([RU 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), dall’all. n. 2 dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)), dal n. II 1 dell’O del 12 giu. 2020 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)), dalla correzione dell’8 lug. 2021 ([RU 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)) e dal n. II 3 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aggiornato dalla cifra I dell’O del 27 ott. 2010 ([RU 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), dall’art. 15 dell’O del 20 apr. 2011 sull’organizzazione del DFAE ([RU 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), dalla cifra II dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), dall’all. n. 1 dell’O del 23 mar. 2011 sull’organizzazione del SISI ([RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), dalla cifra I dell’O del 30 nov. 2011 ([RU 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), dall’all. n. 1 dell’O del 9 dic. 2011 sull’informatica nell’Amministrazione federale ([RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), dall’all. n. 2 dell’O del 21 nov. 2012 sull’Istituto federale di metrologia ([RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), dalla cifra I n. 2 cpv. 1 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), dalla correzione del 28 dic. 2012 ([RU 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), dalla correzione del 15 gen. 2013 ([RU 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), dai cifra II delle O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), del 28 nov. 2014 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), del 28 gen. 2015 ([RU 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), dalla cifra I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), dall’all. 2 cifra II n. 1 dell’O del 29 mar. 2017 sulle strutture dell’esercito ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), dall’all. n. 2 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. 2 cifra II n. 2 dell’O del 15 set. 2017 sull’alcol ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dall’all. 6 cifra II n. 1 dell’O del 21 set. 2018 sui medicamenti ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), dalla cifra II dell’O del 7 nov. 2018 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), dalla cifra I dell’O del 30 nov. 2018 ([RU 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), dalla cifra I n. 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), dall’all. n. 2 dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)), dalla cifra II 1 dell’O del 12 giu. 2020 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)), dalla correzione dell’8 lug. 2021 ([RU 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)) e dalla cifra II 3 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 L’Amministrazione federale consta delle seguenti unità amministrative:
 
@@ -1683,7 +1662,7 @@ Allegato 2[^t-2]
 
 ## Commissioni extraparlamentari
 
-[^t-2]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta il n. I 2 cpv. 2 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Aggiornato dal n. I delle O del 21 nov. 2012 ([RU 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), del 30 nov. 2012 ([RU 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)) e dalla correzione del 5 feb. 2013 ([RU 2013 425](https://fedlex.data.admin.ch/eli/oc/2013/80)), dall’art. 12 dell’O del 1° mag. 2013 concernente l’organizzazione del Punto di contatto nazionale per le Linee guida dell’OCSE destinate alle imprese multinazionali e la sua commissione consultiva ([RU 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), dall’art. 16 n. 1 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), dal n. I dell’O del 23 ott. 2013 ([RU 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)), dall’art. 62 cpv. 2 n. 1 dell’O del 29 nov. 2013 sulla promozione della ricerca e dell’innovazione ([RU 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)), dall’all. n. 1 dell’O del 12 nov. 2014 (promozione e coordinamento del settore universitario svizzero) ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), dall’art. 24 cpv. 2 dell’O del 28 nov. 2014 sulle scuole svizzere all’estero ([RU 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), dal n. II dell’O del 5 dic. 2014 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)), dal n. I dell’O del 1° lug. 2015 ([RU 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), dal n. II dell’O del 9 dic. 2016 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dal n. I dell’O del 21 set. 2018 ([RU 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), dai n. II delle O del 17 ott. 2018 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), del 14 dic. 2018 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), dall’art. 117 n. 2 dell’O del 27 mag. 2020 sull’esecuzione della legislazione sulle derrate alimentari ([RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), dal n. II delle O del 18 nov. 2020 ([RU 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)), dell’O del 24 feb. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)), dal n. I dell’O del 24 nov. 2021 ([RU 2021 776](https://fedlex.data.admin.ch/eli/oc/2021/776)), dal n. I 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)) e dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^t-2]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta la cifra I n. 2 cpv. 2 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Aggiornato dalla cifra I delle O del 21 nov. 2012 ([RU 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), del 30 nov. 2012 ([RU 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)) e dalla correzione del 5 feb. 2013 ([RU 2013 425](https://fedlex.data.admin.ch/eli/oc/2013/80)), dall’art. 12 dell’O del 1° mag. 2013 concernente l’organizzazione del Punto di contatto nazionale per le Linee guida dell’OCSE destinate alle imprese multinazionali e la sua commissione consultiva ([RU 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), dall’art. 16 n. 1 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)), dall’art. 62 cpv. 2 n. 1 dell’O del 29 nov. 2013 sulla promozione della ricerca e dell’innovazione ([RU 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)), dall’all. n. 1 dell’O del 12 nov. 2014 (promozione e coordinamento del settore universitario svizzero) ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), dall’art. 24 cpv. 2 dell’O del 28 nov. 2014 sulle scuole svizzere all’estero ([RU 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), dalla cifra II dell’O del 5 dic. 2014 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)), dalla cifra I dell’O del 1° lug. 2015 ([RU 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), dalla cifra II dell’O del 9 dic. 2016 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dalla cifra I dell’O del 21 set. 2018 ([RU 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), dai cifra II delle O del 17 ott. 2018 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), del 14 dic. 2018 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), dalla cifra I n. 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), dall’art. 117 n. 2 dell’O del 27 mag. 2020 sull’esecuzione della legislazione sulle derrate alimentari ([RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), dalla cifra II delle O del 18 nov. 2020 ([RU 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)), dell’O del 24 feb. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)), dalla cifra I dell’O del 24 nov. 2021 ([RU 2021 776](https://fedlex.data.admin.ch/eli/oc/2021/776)), dalla cifra I n. 1 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)) e dalla cifra II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 ### 1. Commissioni politico-sociali: categoria di indennizzo, importo della diaria e attribuzione ai dipartimenti
 
@@ -1747,7 +1726,7 @@ Allegato 3[^t-3]
 
 ## Attribuzione delle unità rese autonome al dipartimento con il più stretto legame ed esercizio congiunto con l’AFF dei diritti del proprietario
 
-[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 729](https://fedlex.data.admin.ch/eli/oc/2023/729)).
+[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 729](https://fedlex.data.admin.ch/eli/oc/2023/729)).
 
 <table>
 <tr><th>Unità resa autonoma</th><th>Dipartimento con il più stretto legame con l’unità resa autonoma e unità amministrativa competente</th><th>Esercizio congiunto dei diritti del proprietario</th></tr>
