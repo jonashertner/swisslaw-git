@@ -4,13 +4,12 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2025-04-01
-valid_until: 2025-04-30
-version_adopted: 2025-03-11
+version: 2025-05-01
+version_adopted: 2025-03-04
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2542/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2542/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.04.2025)
+Vom 21.03.2006 (Stand 01.05.2025)
 
 Der Regierungsrat,
 
@@ -489,13 +488,13 @@ verordnet:
 - k1. Telefonie (Beschaffung und technischer Support),
 - l. Steuerwesen (ohne Motorfahrzeug- und Wasserfahrzeugsteuer),
 - m. Gesundheitsförderung und Prävention,
-- n. Gesundheitsversorgung einschliesslich Spitalwesen und Spitex,
+- n. Gesundheitsversorgung,
 - o. Rettungswesen,
 - p. Aufsicht über die Berufe des Gesundheitswesens,
-- q. Aufsicht über die Einrichtungen der Gesundheitsversorgung mit Ausnahme der spitalexternen Pflege,
-- r. Heilmittel-, Betäubungsmittel- und Giftkontrolle,
-- s. Lebensmittelkontrolle,
-- t. Vollzug Krankenversicherungsgesetz mit Ausnahme der spitalexternen Pflege,
+- q. Aufsicht über die Einrichtungen der Gesundheitsversorgung,
+- r. Heilmittel- und Betäubungsmittelkontrolle,
+- s. Lebensmittel- und Chemikalienkontrolle,
+- t. Vollzug Krankenversicherungsgesetz,
 - u. Veterinärwesen.
 
 #### Art. A1-3
@@ -574,7 +573,7 @@ verordnet:
 - p. Arbeitnehmerschutz,
 - q. Seilbahnen und Skilifte,
 - r. Sozialwesen, Kindes- und Erwachsenenschutz,
-- s. spitalexterne Pflege und Betreuung,
+- s. …
 - t. Opferhilfe,
 - u. Sozialversicherungen und Kinderzulagen.
 
@@ -782,7 +781,7 @@ verordnet:
   - 0\.2. Behindertenfragen und soziale Einrichtungen
   - 0\.3. …
   - 0\.4. Kommission für Behindertenbauten
-  - 0\.5. Pflege und Betreuung
+  - 0\.5. …
   - 1\. Abteilung Kindes- und Erwachsenenschutz
   - 1\.1. Kindes- und Erwachsenenschutz
   - 1\.2. Erbschaft
