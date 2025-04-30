@@ -4,13 +4,12 @@ number: "510.111"
 title: Ausführungsbestimmungen zum Polizeigesetz
 short: AB PolG
 language: de
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2024-10-15
+version: 2025-05-01
+version_adopted: 2025-03-25
 adopted: 2010-08-23
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/510.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1892/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1892/pdf_file"
 
 (AB PolG)
 
-vom 23.08.2010 (Stand 01.01.2025)
+vom 23.08.2010 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -98,6 +97,8 @@ beschliesst:
 - e. die Erfüllung der erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen.
 
 <sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant zieht über die Bewerberinnen oder Bewerber mit deren Einverständnis die erforderlichen Erkundigungen ein.
+
+<sup>3</sup> Geeignete Bewerberinnen und Bewerber können ausnahmsweise auch ohne Schweizer Bürgerrecht ins Polizeikorps aufgenommen werden.
 
 #### Art. 7
 
@@ -386,6 +387,8 @@ Geändert durch:
 
 \- Nachtrag vom 6. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 82),
 
-\- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 23)
+\- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 23),
+
+\- Nachtrag vom 25. März 2025, in Kraft seit 1. Mai 2025 (OGS 2025, 5)
 
 OGS 2010, 54
