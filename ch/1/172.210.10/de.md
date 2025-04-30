@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 29. Oktober 2008 für die Bundeskanzlei (OV-B
 short: OV-BK
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: de
-version: 2023-09-01
+version: 2025-05-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/de"
 
 (OV-BK)
 
-vom 29. Oktober 2008 (Stand am 1. September 2023)
+vom 29. Oktober 2008 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -114,10 +114,10 @@ Sie bereitet in den folgenden Rechtsbereichen die Erlasse auf Gesetzes- und Vero
 
 **Digitale Transformation und IKT-Lenkung**[^4a-1]
 
-Die Bundeskanzlei erfüllt die Aufgaben nach der Verordnung vom 25. November 2020[^4a-2] über die digitale Transformation und die Informatik.
+Die Bundeskanzlei erfüllt die Aufgaben nach der Digitalisierungsverordnung vom 2. April 2025[^4a-2].
 
-[^4a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^4a-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^4a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Fassung gemäss Anhang 2 Ziff. II 6 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^4a-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 #### Art. 5
 
@@ -184,7 +184,7 @@ Die Generalsekretärenkonferenz entscheidet auf Antrag der Bundeskanzlei darübe
 <sup>3</sup> Sie erfolgt dezentral durch die Departemente und die Bundesämter.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
-[^6-2]: Abrufbar unter www.admin.ch &gt; Dokumentation &gt; Studien.
+[^6-2]: Abrufbar unter: [www.admin.ch](http://www.admin.ch) &gt; Dokumentation &gt; Studien.
 
 #### Art. 6a
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 29 octobre 2008 sur l'organisation de la Chancellerie féd
 short: Org ChF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: fr
-version: 2023-09-01
+version: 2025-05-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/fr"
 
 (Org ChF)
 
-du 29 octobre 2008 (État le 1<sup>er</sup> septembre 2023)
+du 29 octobre 2008 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -114,10 +114,10 @@ Elle prépare et exécute les lois et les ordonnances relevant:
 
 **Transformation numérique et gouvernance de l’informatique**[^4a-1]
 
-La Chancellerie fédérale accomplit les tâches que lui assigne l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^4a-2].
+La Chancellerie fédérale accomplit les tâches que lui assigne l’ordonnance du 2 avril 2025 sur la numérisation[^4a-2].
 
-[^4a-1]: Introduit par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^4a-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^4a-1]: Introduit par le ch. I de l’O du 25 nov. 2020 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Nouvelle teneur selon l’annexe 2 ch. II 6 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^4a-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 #### Art. 5
 

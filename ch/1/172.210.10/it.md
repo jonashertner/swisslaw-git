@@ -4,11 +4,11 @@ title: "Ordinanza del 29 ottobre 2008 sull'organizzazione della Cancelleria fede
 short: OrgCaF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: it
-version: 2023-09-01
+version: 2025-05-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20230901/it"
 
 (OrgCaF)
 
-del 29 ottobre 2008 (Stato 1° settembre 2023)
+del 29 ottobre 2008 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -55,7 +55,7 @@ La Cancelleria federale adempie inoltre i compiti d’esecuzione che le assegna 
 - b. pubblica, con la massima sollecitudine e la qualità richiesta, i testi giuridici e gli altri documenti da pubblicare in virtù della legislazione federale sulle pubblicazioni ufficiali;
 - c.[^1-3] fornisce le prestazioni linguistiche e di coordinamento previste dall’ordinanza del 14 novembre 2012[^1-4] sui servizi linguistici ed esegue i compiti affidatile dalla legislazione sulle lingue.
 
-[^1-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^1-1]: Introdotto dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 [^1-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^1-3]: Nuovo testo giusta l’art.17 dell’O del 14 nov. 2012 sui servizi linguistici, in vigore dal 1° gen. 2013 ([RU 2012 6457](https://fedlex.data.admin.ch/eli/oc/2012/771)).
 [^1-4]: [RS 172.081](https://fedlex.data.admin.ch/eli/cc/2012/771)
@@ -112,12 +112,12 @@ La Cancelleria federale prepara ed esegue le leggi e le ordinanze nei seguenti s
 
 #### Art. 4a
 
-**Trasformazione digitale e governance delle tecnologie dell’informazione e della comunicazione**[^4a-1]
+**Trasformazione digitale e governance delle TIC**[^4a-1]
 
-La Cancelleria federale svolge i compiti che le sono assegnati dall’ordinanza del 25 novembre 2020[^4a-2] sulla trasformazione digitale e l’informatica.
+La Cancelleria federale svolge i compiti che le sono assegnati dall’ordinanza del 2 aprile 2025[^4a-2] sulla digitalizzazione.
 
-[^4a-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
-[^4a-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^4a-1]: Introdotto dalla cifra I dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^4a-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
 
 #### Art. 5
 
@@ -168,10 +168,10 @@ Su proposta della Cancelleria federale, la Conferenza dei segretari generali sta
 
 <sup>4</sup> La Cancelleria federale accorda i diritti d’accesso alle persone che ne necessitano per svolgere i loro compiti e secondo l’estensione necessaria.[^5a-4]
 
-[^5a-1]: Introdotto dal n. I dell’O del 17 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2311](https://fedlex.data.admin.ch/eli/oc/2016/378)).
-[^5a-2]: Nuovo testo giusta l’all. 2 n. II 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^5a-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
-[^5a-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 17 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2311](https://fedlex.data.admin.ch/eli/oc/2016/378)).
+[^5a-2]: Nuovo testo giusta l’all. 2 cifra II n. 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^5a-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^5a-4]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 
 #### Art. 6
 
@@ -183,7 +183,7 @@ Su proposta della Cancelleria federale, la Conferenza dei segretari generali sta
 
 <sup>3</sup> La pubblicazione avviene in modo decentralizzato per il tramite dei dipartimenti e degli uffici federali.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 [^6-2]: Consultabile all’indirizzo: www.admin.ch &gt; Documentazione &gt; Studi, rapporti e valutazioni dell’Amministrazione federale.
 
 #### Art. 6a
@@ -192,7 +192,7 @@ Su proposta della Cancelleria federale, la Conferenza dei segretari generali sta
 
 La Cancelleria federale può rendere accessibile al pubblico per via elettronica l’offerta di informazioni e le prestazioni delle autorità della Confederazione, dei Cantoni e dei Comuni, nonché di altre organizzazioni che adempiono compiti statali. La collaborazione tra Confederazione e Cantoni e la partecipazione finanziaria dei Cantoni sono disciplinate da convenzioni di diritto pubblico.
 
-[^6a-1]: Introdotto dal n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6177](https://fedlex.data.admin.ch/eli/oc/2009/753)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6177](https://fedlex.data.admin.ch/eli/oc/2009/753)).
 
 #### Art. 7
 
@@ -208,7 +208,7 @@ La Cancelleria federale può rendere accessibile al pubblico per via elettronica
 
 <sup>5</sup> La Cancelleria federale rappresenta gli interessi dei dipartimenti in seno alla Biblioteca del Parlamento.
 
-[^7-1]: Abrogato dal n. I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+[^7-1]: Abrogato dalla cifra I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
 
 #### Art. 8
 
@@ -244,7 +244,7 @@ Nell’ambito delle legalizzazioni la Cancelleria federale è competente per le 
 
 <sup>2</sup> La sua organizzazione e i suoi compiti sono retti dalla legislazione sulla protezione dei dati.
 
-[^10-1]: Nuovo testo giusta l’all. 2 n. II 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^10-1]: Nuovo testo giusta l’all. 2 cifra II n. 22 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Disposizioni finali
 
@@ -254,7 +254,7 @@ Nell’ambito delle legalizzazioni la Cancelleria federale è competente per le 
 
 L’ordinanza del 5 maggio 1999[^11-1] sull’organizzazione della Cancelleria federale è abrogata.
 
-[^11-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)]
+[^11-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)cifra III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)]
 
 #### Art. 12
 
