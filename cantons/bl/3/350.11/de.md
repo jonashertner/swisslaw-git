@@ -4,13 +4,12 @@ number: "350.11"
 title: Verordnung zum Gebäudeversicherungsgesetz Basel-Landschaft
 short: GVV BL
 language: de
-version: 2023-01-01
-valid_until: 2025-04-30
-version_adopted: 2023-01-10
+version: 2025-05-01
+version_adopted: 2025-04-01
 adopted: 2023-01-10
 in_force: 2023-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/350.11"
-pdf: "https://bl.clex.ch/api/de/versions/3507/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3507/pdf_file"
 
 (GVV BL)
 
-Vom 10.01.2023 (Stand 01.01.2023)
+Vom 10.01.2023 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -319,6 +318,14 @@ beschliesst:
 <sup>3</sup> Als Investitionsmehrwert gilt der Mehrwert, den ein Gebäude nach Abzug seiner Wertminderung durch eine Investition gegebenenfalls erhält. Investitionen für Renovation und Unterhalt haben keine Investitionsmehrwerte zur Folge.
 
 [^32-1]: [SGS 331](https://bl.clex.ch/data/331/de)
+
+#### § 32a
+
+**Meldungen an das Amt für Militär und Bevölkerungsschutz (AMB)**
+
+<sup>1</sup> Die Meldung von Daten an das Amt für Militär und Bevölkerungsschutz richtet sich nach § 23a der Verordnung zum Zivilschutzgesetz im Kanton Basel-Landschaft vom 31. Mai 2022[^32a-1].
+
+[^32a-1]: [SGS 732.11](https://bl.clex.ch/data/732.11/de/art23a)
 
 #### § 33
 
