@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés 
 short: Org-OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/224"
 language: fr
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2024-05-01
 in_force: 2024-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2024-224-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-224-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/fr"
 
 (Org-OMP)
 
-du 1<sup>er</sup> mai 2024 (État le 1<sup>er</sup> juillet 2024)
+du 1<sup>er</sup> mai 2024 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -126,11 +126,13 @@ Les unités administratives suivantes acquièrent des marchandises et des servic
 
 <sup>2</sup> Les services d’achat centraux coopèrent pour recenser les besoins et veillent à un regroupement approprié des acquisitions. Ils se fondent à cet effet sur les besoins exprimés par les services demandeurs.
 
-<sup>3</sup> Le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI de la ChF) encourage et soutient, en collaboration avec le service d’achat central compétent, le regroupement des acquisitions de marchandises et de services dans le domaine des technologies de l’information et de la communication (TIC).
+<sup>3</sup> Le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI[^7-1]) encourage et soutient, en collaboration avec le service d’achat central compétent, le regroupement des acquisitions de marchandises et de services dans le domaine des technologies de l’information et de la communication (TIC).
 
 <sup>4</sup> L’appel d’offres d’une acquisition groupée est lancé par le service d’achat central compétent. Pour les acquisitions de marchandises et de services utilisés à des fins tant civiles que militaires, les services d’achat centraux déterminent les compétences au cas par cas.
 
 <sup>5</sup> Les services d’achat centraux peuvent conclure des contrats-cadres avec des fournisseurs afin que les services demandeurs puissent acquérir des marchandises et des services.
+
+[^7-1]: La dénomination de l'unité administrative a été adaptée au 1<sup>er</sup> mai 2025 en application de l'art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
@@ -148,7 +150,7 @@ Les unités administratives suivantes acquièrent des marchandises et des servic
 
 <sup>1</sup> Les services d’achat centraux acquièrent, dans la mesure du possible, des marchandises courantes qui satisfont à des exigences économiques, écologiques et sociales élevées tout au long de leur cycle de vie.
 
-<sup>2</sup> Ils respectent les directives du chancelier de la Confédération et du secteur TNI de la ChF pour toute acquisition de service informatique standard.
+<sup>2</sup> Ils respectent les directives du chancelier de la Confédération et du secteur TNI pour toute acquisition de service informatique standard.
 
 #### Art. 10
 
@@ -267,15 +269,16 @@ Les conditions ci-après doivent en outre être remplies pour les délégations 
 
 Les services d’achat centraux peuvent déléguer aux organisations suivantes l’exécution des procédures d’adjudication ci‑après:
 
-- a. acquisitions communes de moyens informatiques et de services en lien avec les moyens informatiques de la Confédération, des cantons et des communes: entreprise eOperations Suisse SA (art. 2 de l’ordonnance du 22 novembre 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités[^21-1]);
-- b. acquisitions communes d’applications et de systèmes de police, d’interfaces avec des tiers ou de moyens d’intervention communes à la Confédération et des cantons: corporation TIP Suisse (art. 3 de la Convention TIP du 2 septembre 2020[^21-2]).
+- a.[^21-1] acquisitions communes de moyens informatiques et de services en lien avec les moyens informatiques de la Confédération, des cantons et des communes: eOperations Suisse SA (art. 13 de l’ordonnance du 2 avril 2025 sur la numérisation[^21-2]);
+- b. acquisitions communes d’applications et de systèmes de police, d’interfaces avec des tiers ou de moyens d’intervention communes à la Confédération et des cantons: corporation TIP Suisse (art. 3 de la Convention TIP du 2 septembre 2020[^21-3]).
 
 <sup>2</sup> Le service d’achat central compétent conclut avec l’organisation un accord écrit qui fixe les modalités et les obligations liées à l’exécution de la procédure d’adjudication, y compris les obligations de *reporting*.
 
 <sup>3</sup> Les organisations rendent les décisions qui s’imposent pour l’exécution de la procédure d’adjudication.
 
-[^21-1]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
-[^21-2]: [RS 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
+[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^21-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2025/235)
+[^21-3]: [RS 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
 
 ## Chapitre 3 Acquisition décentralisée de marchandises et de services
 
@@ -414,7 +417,7 @@ La CA remplit notamment les tâches suivantes:
 - b. élaborer et soutenir la mise en œuvre de la stratégie de l’administration fédérale en matière d’acquisitions, en collaborant avec la Conférence de coordination des services de la construction et des immeubles des maîtres d’ouvrage publics (KBOB);
 - c. se prononcer sur des questions fondamentales ayant trait à la politique et à la stratégie en matière d’acquisitions, et émettre des recommandations à ce sujet;
 - d. promouvoir des acquisitions durables sur les plans économique, écologique et social;
-- e. encourager l’utilisation des technologies modernes dans les marchés publics, en collaborant avec le secteur TNI de la ChF;
+- e. encourager l’utilisation des technologies modernes dans les marchés publics, en collaborant avec le secteur TNI;
 - f. encourager et soutenir la prévention de la corruption dans les marchés publics de la Confédération;
 - g. promouvoir le plurilinguisme dans les marchés publics de la Confédération conformément à la loi du 5 octobre 2007 sur les langues[^30-1];
 - h. approuver les programmes de formation et de perfectionnement du CCMP;
@@ -443,7 +446,7 @@ La CA remplit notamment les tâches suivantes:
 La CA comprend dix membres au maximum. Ceux-ci se recrutent notamment au sein des unités suivantes:
 
 - a. les services d’achat centraux;
-- b. le secteur TNI de la ChF;
+- b. le secteur TNI;
 - c. l’Office fédéral de l’environnement (OFEV);
 - d. le Secrétariat d’État à l’économie (SECO);
 - e. le Secrétariat général du DFAE.

@@ -4,11 +4,11 @@ title: Verordnung vom 1. Mai 2024 über die Organisation des öffentlichen Besch
 short: Org-VöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/224"
 language: de
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2024-05-01
 in_force: 2024-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2024-224-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2024-224-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/de"
 
 (Org-VöB)
 
-vom 1. Mai 2024 (Stand am 1. Juli 2024)
+vom 1. Mai 2024 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -126,11 +126,13 @@ Die folgenden Verwaltungseinheiten beschaffen als zentrale Beschaffungsstellen W
 
 <sup>2</sup> Die zentralen Beschaffungsstellen stimmen sich bei der Bedarfserhebung ab und sorgen für eine angemessene Bündelung. Sie stützen sich dabei auf die Bedarfsmeldungen der Bedarfsstellen.
 
-<sup>3</sup> Der Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI der BK) fördert und unterstützt in Absprache mit der zuständigen zentralen Beschaffungsstelle die Bündelung der Beschaffung von Waren und Dienstleistungen der Informations- und Kommunikationstechnik (IKT).
+<sup>3</sup> Der Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI[^7-1]) fördert und unterstützt in Absprache mit der zuständigen zentralen Beschaffungsstelle die Bündelung der Beschaffung von Waren und Dienstleistungen der Informations- und Kommunikationstechnik (IKT).
 
 <sup>4</sup> Die Ausschreibung von gebündelten Beschaffungen erfolgt durch die jeweils zuständige zentrale Beschaffungsstelle. Bei Beschaffungen von Waren oder Dienstleistungen, die sowohl zivilen als auch militärischen Zwecken dienen, bestimmen die zentralen Beschaffungsstellen die Zuständigkeit im Einzelfall.
 
 <sup>5</sup> Die zentrale Beschaffungsstelle kann mit Lieferanten Rahmenverträge abschliessen, um den Bedarfsstellen den Bezug von Waren oder Dienstleistungen zu ermöglichen.
+
+[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Mai 2025 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 8
 
@@ -148,7 +150,7 @@ Die folgenden Verwaltungseinheiten beschaffen als zentrale Beschaffungsstellen W
 
 <sup>1</sup> Die zentralen Beschaffungsstellen beschaffen nach Möglichkeit marktgängige Waren, die über ihren gesamten Lebensweg hohen wirtschaftlichen, ökologischen und sozialen Anforderungen genügen.
 
-<sup>2</sup> Bei der Beschaffung von IKT-Standarddiensten beachten sie die Vorgaben der Bundeskanzlerin oder des Bundeskanzlers und des Bereichs DTI der BK.
+<sup>2</sup> Bei der Beschaffung von IKT-Standarddiensten beachten sie die Vorgaben der Bundeskanzlerin oder des Bundeskanzlers und des Bereichs DTI.
 
 #### Art. 10
 
@@ -267,15 +269,16 @@ Für die folgenden Delegationen müssen zusätzlich die nachstehenden Voraussetz
 
 Die zentralen Beschaffungsstellen können für folgende Beschaffungen den nachstehenden Organisationen die Durchführung von Vergabeverfahren übertragen:
 
-- a. gemeinsame Beschaffungen von IKT-Mitteln oder Dienstleistungen in Zusammenhang mit IKT‑Mitteln von Bund, Kantonen und Gemeinden: dem Unternehmen «eOperations Schweiz AG» (Art. 2 der Verordnung vom 22. November 2023[^21-1] über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben);
-- b. gemeinsame Beschaffungen von polizeilichen Fachanwendungen, Systemen, Schnittstellen zu Dritten oder Einsatzmitteln von Bund und Kantonen: der Körperschaft «PTI Schweiz» (Art. 3 der PTI-Vereinbarung vom 2. September 2020[^21-2]).
+- a.[^21-1] gemeinsame Beschaffungen von IKT-Mitteln oder Dienstleistungen in Zusammenhang mit IKT‑Mitteln von Bund, Kantonen und Gemeinden: der eOperations Schweiz AG (Art. 13 der Digitalisierungsverordnung vom 2. April 2025[^21-2]);
+- b. gemeinsame Beschaffungen von polizeilichen Fachanwendungen, Systemen, Schnittstellen zu Dritten oder Einsatzmitteln von Bund und Kantonen: der Körperschaft «PTI Schweiz» (Art. 3 der PTI-Vereinbarung vom 2. September 2020[^21-3]).
 
 <sup>2</sup> Die zuständige zentrale Beschaffungsstelle hält die Bedingungen und Auflagen für die Durchführung des Vergabeverfahrens, einschliesslich der Reportingpflichten, in einer Vereinbarung mit der Organisation schriftlich fest.
 
 <sup>3</sup> Die Organisationen erlassen die zur Durchführung der Vergabeverfahren erforderlichen Verfügungen.
 
-[^21-1]: [SR 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)**.****1**
-[^21-2]: [SR 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
+[^21-1]: Fassung gemäss Anhang 2 Ziff. II 5 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^21-2]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2025/235)
+[^21-3]: [SR 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
 
 ## 3. Kapitel: Dezentrale Beschaffung von Waren und Dienstleistungen
 
@@ -414,7 +417,7 @@ Die BKB nimmt insbesondere folgende Aufgaben wahr:
 - b. Sie erarbeitet und unterstützt die Umsetzung der Beschaffungsstrategie der Bundesverwaltung; sie arbeitet dabei mit der Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren (KBOB) zusammen.
 - c. Sie nimmt Stellung zu beschaffungspolitischen und -strategischen Grundsatzfragen und kann dazu Empfehlungen abgeben.
 - d. Sie fördert wirtschaftlich sowie volkswirtschaftlich, ökologisch und sozial nachhaltige Beschaffungen.
-- e. Sie fördert den Einsatz moderner Technologien im öffentlichen Beschaffungswesen; sie arbeitet dabei mit dem Bereich DTI der BK zusammen.
+- e. Sie fördert den Einsatz moderner Technologien im öffentlichen Beschaffungswesen; sie arbeitet dabei mit dem Bereich DTI zusammen.
 - f. Sie fördert und unterstützt die Korruptionsprävention im öffentlichen Beschaffungswesen des Bundes.
 - g. Sie fördert im Rahmen des Sprachengesetzes vom 5. Oktober 2007[^30-1] die Mehrsprachigkeit im öffentlichen Beschaffungswesen des Bundes.
 - h. Sie genehmigt die Aus- und Weiterbildungskonzepte des Kompetenzzentrums Beschaffungswesen Bund.
@@ -443,7 +446,7 @@ Die BKB nimmt insbesondere folgende Aufgaben wahr:
 Die BKB besteht aus höchstens zehn Mitgliedern. Diese rekrutieren sich insbesondere aus:
 
 - a. den zentralen Beschaffungsstellen;
-- b. dem Bereich DTI der BK;
+- b. dem Bereich DTI;
 - c. dem Bundesamt für Umwelt (BAFU);
 - d. dem Staatsekretariat für Wirtschaft (SECO);
 - e. dem Generalsekretariat des EDA.

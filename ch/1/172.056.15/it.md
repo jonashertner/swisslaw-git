@@ -4,11 +4,11 @@ title: Ordinanza del 1° maggio 2024 concernente l’organizzazione degli appalt
 short: OOAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/224"
 language: it
-version: 2024-07-01
+version: 2025-05-01
 adopted: 2024-05-01
 in_force: 2024-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2024-224-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/224/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2024-224-20250501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/224/20240701/it"
 
 (OOAPub)
 
-del 1° maggio 2024 (Stato 1° luglio 2024)
+del 1° maggio 2024 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -126,11 +126,13 @@ Le seguenti unità amministrative acquistano beni e prestazioni di servizi in qu
 
 <sup>2</sup> I servizi centrali d’acquisto collaborano per rilevare il fabbisogno e provvedono a un adeguato raggruppamento degli acquisti. Nel farlo, si basano sul fabbisogno comunicato dai servizi richiedenti.
 
-<sup>3</sup> Il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT della CaF), d’intesa con i servizi centrali d’acquisto competenti, promuove e sostiene il raggruppamento degli acquisti di beni e prestazioni di servizi nell’ambito delle tecnologie dell’informazione e della comunicazione (TIC).
+<sup>3</sup> Il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT[^7-1]), d’intesa con i servizi centrali d’acquisto competenti, promuove e sostiene il raggruppamento degli acquisti di beni e prestazioni di servizi nell’ambito delle tecnologie dell’informazione e della comunicazione (TIC).
 
 <sup>4</sup> I bandi relativi ad acquisti raggruppati vengono indetti dal servizio centrale d’acquisto competente. Per gli acquisti di beni e prestazioni di servizi che hanno finalità sia civili che militari, i servizi centrali d’acquisto determinano la competenza caso per caso.
 
 <sup>5</sup> Il servizio centrale d’acquisto può concludere contratti quadro con fornitori per consentire ai servizi richiedenti di acquistare beni o prestazioni di servizi.
+
+[^7-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° mag. 2025. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 8
 
@@ -148,7 +150,7 @@ Le seguenti unità amministrative acquistano beni e prestazioni di servizi in qu
 
 <sup>1</sup> I servizi centrali d’acquisto acquistano, se possibile, beni correnti che durante il loro intero ciclo di vita rispettano elevati requisiti economici, ecologici e sociali.
 
-<sup>2</sup> Nell’acquisto di servizi standard TIC osservano le disposizioni del cancelliere della Confederazione e del settore TDT della CaF.
+<sup>2</sup> Nell’acquisto di servizi standard TIC osservano le disposizioni del cancelliere della Confederazione e del settore TDT.
 
 #### Art. 10
 
@@ -267,15 +269,16 @@ Per le deleghe seguenti devono inoltre sussistere i presupposti indicati di segu
 
 Per i seguenti acquisti, i servizi centrali d’acquisto possono delegare l’esecuzione delle procedure di aggiudicazione alle organizzazioni indicate di seguito:
 
-- a. acquisti comuni di mezzi TIC o prestazioni di servizi connesse a mezzi TIC di Confederazione, Cantoni e Comuni: la società «eOperations Svizzera SA» (art. 2 dell’ordinanza del 22 novembre 2023[^21-1] concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità);
-- b. acquisti comuni di applicazioni specifiche, sistemi, interfacce con terzi e mezzi d’intervento di polizia di Confederazione e Cantoni: corporazione «TIP Svizzera» (art. 3 della convenzione TIP del 2 settembre 2020[^21-2]).
+- a.[^21-1] acquisti comuni di mezzi TIC o prestazioni di servizi connesse a mezzi TIC di Confederazione, Cantoni e Comuni: eOperations Svizzera SA (art. 13 dell’ordinanza del 2 aprile 2025[^21-2] sulla digitalizzazione);
+- b. acquisti comuni di applicazioni specifiche, sistemi, interfacce con terzi e mezzi d’intervento di polizia di Confederazione e Cantoni: corporazione «TIP Svizzera» (art. 3 della convenzione TIP del 2 settembre 2020[^21-3]).
 
 <sup>2</sup> Il servizio centrale d’acquisto competente stabilisce per scritto, in un accordo concluso con l’organizzazione, le condizioni e gli oneri per l’esecuzione della procedura di aggiudicazione, inclusi gli obblighi di rendicontazione.
 
 <sup>3</sup> Le organizzazioni emanano le decisioni necessarie per l’esecuzione delle procedure di aggiudicazione.
 
-[^21-1]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
-[^21-2]: [RS 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
+[^21-1]: Nuovo testo giusta l’all. 2 cifra II n. 5 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^21-2]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2025/235)
+[^21-3]: [RS 367.1](https://fedlex.data.admin.ch/eli/cc/2020/1053)
 
 ## Capitolo 3: Acquisto decentralizzato di beni e prestazioni di servizi
 
@@ -414,7 +417,7 @@ La CA adempie segnatamente i seguenti compiti:
 - b. elabora la strategia dell’Amministrazione federale in materia di appalti pubblici e ne sostiene l’attuazione, collaborando con la Conferenza di coordinamento degli organi della costruzione e degli immobili dei committenti pubblici (KBOB);
 - c. si pronuncia sulle questioni essenziali in materia di politica e di strategia degli appalti e può emanare raccomandazioni al riguardo;
 - d. promuove appalti sostenibili sotto il profilo economico, ecologico, sociale e dell’economia pubblica;
-- e. promuove l’impiego di tecnologie moderne nel settore degli appalti pubblici, collaborando con il settore TDT della CaF;
+- e. promuove l’impiego di tecnologie moderne nel settore degli appalti pubblici, collaborando con il settore TDT;
 - f. promuove e sostiene la prevenzione della corruzione negli appalti pubblici della Confederazione;
 - g. nel quadro della legge del 5 ottobre 2007[^30-1] sulle lingue, promuove il plurilinguismo nel settore degli appalti pubblici della Confederazione;
 - h. approva i programmi di formazione e di formazione continua del CCAP;
@@ -443,7 +446,7 @@ La CA adempie segnatamente i seguenti compiti:
 La CA si compone di dieci membri al massimo. Essi sono scelti in particolare in seno a:
 
 - a. i servizi centrali d’acquisto;
-- b. il settore TDT della CaF;
+- b. il settore TDT;
 - c. l’Ufficio federale dell’ambiente (UFAM);
 - d. la Segreteria di Stato dell’economia (SECO);
 - e. la Segreteria generale del DFAE.
