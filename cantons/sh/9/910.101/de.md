@@ -3,49 +3,43 @@ canton: SH
 number: "910.101"
 title: Landwirtschaftsverordnung
 language: de
-version: 2021-01-01
-corrected: 2024-06-18
-version_adopted: 2020-12-15
+version: 2025-05-01
+version_adopted: 2025-04-29
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/910.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/329/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1985/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Landwirtschaftsverordnung
 
-vom 12. Dezember 2000
+Vom 12.12.2000 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf das Bundesgesetz über die Landwirtschaft (Landwirtschaftsgesetz) vom 29. April 1998 (SR 910.1), das Gesetz über die Förderung der Landwirtschaft (Kantonales Landwirtschaftsgesetz, LwG) vom 29. November 1999, die Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung) vom 23. Oktober 2013 (SR 910.13), das Bundesgesetz über das bäuerliche Bodenrecht (BGBB) vom 4. Oktober 1991 (SR 211.412.11), die Verordnung über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung) vom 7. Dezember 1998 (SR 913.1), die Verordnung des Bundesamtes für Landwirtschaft über Investitionshilfen und soziale Begleitmassnahmen in der Landwirtschaft vom 26. November 2003 (SR 913.211), die Verordnung über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV) vom 26. November 2003 (SR 914.11), Art. 33 ff. des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 21. Juni 1911, Art. 12 und Art. 14 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen vom 12. Februar 1968, die Verordnung über die Gebühren im kantonalen Verwaltungsverfahren (Verwaltungsgebührenverordnung) vom 16. Oktober 1973,[^t-1]
+gestützt auf das Bundesgesetz über die Landwirtschaft (Landwirtschaftsgesetz) vom 29. April 1998 (SR [910.1](http://db.clex.ch/link/Bund/910.1/de)), das Gesetz über die Förderung der Landwirtschaft (Kantonales Landwirtschaftsgesetz, LwG) vom 29. November 1999 (SHR [910.100](https://rechtsbuch.sh.ch/data/910.100/de)), die Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung) vom 23. Oktober 2013 (SR [910.13](http://db.clex.ch/link/Bund/910.13/de)), das Bundesgesetz über das bäuerliche Bodenrecht (BGBB) vom 4. Oktober 1991 (SR [211.412.11](http://db.clex.ch/link/Bund/211.412.11/de)), die Verordnung über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung) vom 7. Dezember 1998 (SR [913.1](http://db.clex.ch/link/Bund/913.1/de)), die Verordnung des Bundesamtes für Landwirtschaft über Investitionshilfen und soziale Begleitmassnahmen in der Landwirtschaft vom 26. November 2003 (SR [913.211](http://db.clex.ch/link/Bund/913.211/de)), die Verordnung über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV) vom 26. November 2003 (SR [914.11](http://db.clex.ch/link/Bund/914.11/de)), Art. 33 ff. des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 21. Juni 1911 (SHR [210.100](https://rechtsbuch.sh.ch/data/210.100/de)), Art. 12 und Art. 14 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen vom 12. Februar 1968 (SHR [451.100](https://rechtsbuch.sh.ch/data/451.100/de)), die Verordnung über die Gebühren im kantonalen Verwaltungsverfahren (Verwaltungsgebührenverordnung) vom 16. Oktober 1973 (SHR [172.201](https://rechtsbuch.sh.ch/data/172.201/de)),
 
-verordnet:
+beschliesst:
 
-Amtsblatt 2000, S. 1889.
+## 1 Wirtschaftliche Grundlagen
 
-[^t-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+### 1.1 Strukturverbesserungen
 
-## A. Wirtschaftliche Grundlagen
-
-### I. Strukturverbesserungen
-
-- 1\. Allgemeine Bestimmungen
+### 1.1.1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-Die Bestimmungen von Kapitel I gelten für alle unter amtlicher Mitwirkung durchgeführten Strukturverbesserungen, soweit nicht abweichende Vorschriften bestehen.
+<sup>1</sup> Die Bestimmungen von Kapitel 1 gelten für alle unter amtlicher Mitwirkung durchgeführten Strukturverbesserungen, soweit nicht abweichende Vorschriften bestehen.
 
 #### § 2
 
 **Zuständigkeit**
 
-Die zuständige Stelle für amtliche Mitwirkung bei Strukturverbesserungen ist das kantonale Landwirtschaftsamt, soweit nicht abweichende Vorschriften bestehen.
+<sup>1</sup> Die zuständige Stelle für amtliche Mitwirkung bei Strukturverbesserungen ist das kantonale Landwirtschaftsamt, soweit nicht abweichende Vorschriften bestehen.
 
 #### § 3
 
@@ -59,7 +53,7 @@ Die zuständige Stelle für amtliche Mitwirkung bei Strukturverbesserungen ist d
 
 **Kostenbefreiung**
 
-Die amtliche Mitwirkung ist gebührenfrei.
+<sup>1</sup> Die amtliche Mitwirkung ist gebührenfrei.
 
 #### § 5
 
@@ -69,29 +63,27 @@ Die amtliche Mitwirkung ist gebührenfrei.
 
 <sup>2</sup> Das Landwirtschaftsamt prüft das Vorhaben und zieht bei Bedarf weitere Fachstellen bei.
 
-<sup>3</sup> Wenn sich das geplante Vorhaben als zweckmässig erweist und die Durchführung im öffentlichen Interesse liegt, sichert a) bei Güterzusammenlegungen das Volkswirtschaftsdepartement;
+<sup>3</sup> Wenn sich das geplante Vorhaben als zweckmässig erweist und die Durchführung im öffentlichen Interesse liegt, sichert:
 
-- b) bei allen übrigen Strukturverbesserungen das Landwirtschaftsamt die amtliche Mitwirkung zu.
+- a) bei Güterzusammenlegungen das Volkswirtschaftsdepartement
+- b) bei allen übrigen Strukturverbesserungen das Landwirtschaftsamt die amtliche Mitwirkung zu
 
-<sup>4</sup> Unter Vorbehalt eines genehmigten Budgets sowie der Zusicherung des Gemeinde- und des Bundesbeitrages sichert[^5-1] a) bei landwirtschaftlichen Gebäuden im Sinne von Art. 14 LwG und periodischen Wiederinstandstellungen von Meliorationswerken das Volkswirtschaftsdepartement;
+<sup>4</sup> Unter Vorbehalt eines genehmigten Budgets sowie der Zusicherung des Gemeinde- und des Bundesbeitrages sichert:
 
-- b) bei allen übrigen Strukturverbesserungen der Regierungsrat einen Kantonsbeitrag zu.
-
-[^5-1]: Fassung gemäss RRB vom 15. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2254).
+- a) bei landwirtschaftlichen Gebäuden im Sinne von Art. 14 LwG und periodischen Wiederinstandstellungen von Meliorationswerken das Volkswirtschaftsdepartement
+- b) bei allen übrigen Strukturverbesserungen der Regierungsrat einen Kantonsbeitrag zu
 
 #### § 6
 
 **Zweckmässigkeit, öffentliches Interesse**
 
-<sup>1</sup> Die Zweckmässigkeit eines Vorhabens ist insbesondere dann gegeben, wenn dadurch a) die Bewirtschaftungsstrukturen verbessert werden und die Bewirtschaftung erleichtert wird;
+<sup>1</sup> Die Zweckmässigkeit eines Vorhabens ist insbesondere dann gegeben, wenn dadurch:
 
-- b) die Ertragsfähigkeit des Bodens erhalten und gefördert wird;
-
-- c) der Boden vor Verwüstung und Zerstörung geschützt oder boden- und kulturtechnische Anlagen wieder hergestellt werden;
-
-- d) der ökologische Wert der Landschaft erhöht wird;
-
-- e) die wirtschaftliche Nutzung von Pachtland ermöglicht wird.
+- a) die Bewirtschaftungsstrukturen verbessert werden und die Bewirtschaftung erleichtert wird
+- b) die Ertragsfähigkeit des Bodens erhalten und gefördert wird
+- c) der Boden vor Verwüstung und Zerstörung geschützt oder boden- und kulturtechnische Anlagen wieder hergestellt werden
+- d) der ökologische Wert der Landschaft erhöht wird
+- e) die wirtschaftliche Nutzung von Pachtland ermöglicht wird
 
 <sup>2</sup> Das öffentliche Interesse an einem Vorhaben ist insbesondere dann gegeben, wenn es den Zielsetzungen von Art. 87 des Bundesgesetzes über die Landwirtschaft und Art. 1 und 2 LwG entspricht.
 
@@ -103,40 +95,40 @@ Die amtliche Mitwirkung ist gebührenfrei.
 
 <sup>2</sup> Die Bestimmungen über das Verfahren bei Güterzusammenlegungen gelten sinngemäss für alle Unternehmen zur Verbesserung von Strukturen und Böden.
 
-[^7-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
-
 #### § 8
 
-**Beiträge gemäss Art. 13 LwG**[^7-1]
+**Beiträge gemäss Art. 13 LwG**
 
 <sup>1</sup> Als Beiträge im Sinne von Art. 13 Abs. 1 LwG gilt die Summe der Kantons- und Gemeindebeiträge an die beitragsberechtigten Kosten der Bodenverbesserungsmassnahmen.
 
-<sup>2</sup> Die gemeinsamen Beiträge von Kanton und Gemeinde belaufen sich bei grossem öffentlichen Interesse auf höchstens 40 Prozent, bei mittlerem Interesse auf höchstens 30 Prozent und bei kleinem Interesse auf höchstens 25 Prozent der beitragsberechtigten Kosten
+<sup>2</sup> Die gemeinsamen Beiträge von Kanton und Gemeinde belaufen sich bei grossem öffentlichen Interesse auf höchstens 40 Prozent, bei mittlerem Interesse auf höchstens 30 Prozent und bei kleinem Interesse auf höchstens 25 Prozent der beitragsberechtigten Kosten.
 
 <sup>3</sup> Ein grosses öffentliches Interesse besteht bei umfassenden gemeinschaftlichen Massnahmen, ein mittleres bei gemeinschaftlichen Massnahmen und ein kleines bei einzelbetrieblichen Massnahmen.
 
 #### § 9
 
-**Reduktion der Beiträge bei Bodenverbesserungen 3)**
+**Reduktion der Beiträge bei Bodenverbesserungen**
 
-<sup>1</sup> Die Höhe der Beiträge wird je um maximal 5% der Höchstansätze reduziert, wenn a) die Wirtschaftlichkeit des Vorhabens nur mit Einschränkungen gewährleistet ist;
+<sup>1</sup> Die Höhe der Beiträge wird je um maximal 5% der Höchstansätze reduziert, wenn:
 
-- b) die Entwicklungsfähigkeit des Unternehmens oder Betriebes nur in vermindertem Masse gewährleistet ist;
+- a) die Wirtschaftlichkeit des Vorhabens nur mit Einschränkungen gewährleistet ist
+- b) die Entwicklungsfähigkeit des Unternehmens oder Betriebes nur in vermindertem Masse gewährleistet ist
+- c) die Bewirtschaftungsverhältnisse optimal sind
 
-- c) die Bewirtschaftungsverhältnisse optimal sind.
-
-<sup>2</sup> Bei einzelbetrieblichen Massnahmen wird zusätzlich die wirtschaftliche Lage der gesuchstellenden Person berücksichtigt. Die Abstufung richtet sich nach der Regelung des kantonalen Fonds für nicht versicherbare Elementarschäden.[^9-1]
-
-[^9-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-[^9-2]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+<sup>2</sup> Bei einzelbetrieblichen Massnahmen wird zusätzlich die wirtschaftliche Lage der gesuchstellenden Person berücksichtigt. Die Abstufung richtet sich nach der Regelung des kantonalen Fonds für nicht versicherbare Elementarschäden.
 
 #### § 10
 
-**Gemeindebeitrag an Bodenverbesserungen gemäss Art. 16 LwG**[^9-2]
+**Gemeindebeitrag an Bodenverbesserungen gemäss Art. 16 LwG**
 
-Der Gemeindeanteil am gemeinsamen Beitrag von Kanton und Gemeinde nach Art. 13 LwG beträgt 25 Prozent des Kantonsbeitrages.
+<sup>1</sup> Der Gemeindeanteil am gemeinsamen Beitrag von Kanton und Gemeinde nach Art. 13 LwG beträgt:
 
-- 2\. Verfahren bei Güterzusammenlegungen
+- a) 5% -10% des Kantonsbeitrages bei überwiegend kantonalem Interesse gegenüber dem kommunalen Interesse
+- b) 10% - 20% des Kantonsbeitrages bei vergleichbarem kantonalem und kommunalem Interesse
+- c) 20% - 30% des Kantonsbeitrages bei überwiegend kommunalem Interesse gegenüber dem kantonalen Interesse
+- d) 30% - 40% des Kantonsbeitrages bei ausschliesslich kommunalem Interesse
+
+### 1.1.2 Verfahren bei Güterzusammenlegungen
 
 #### § 11
 
@@ -162,9 +154,7 @@ Der Gemeindeanteil am gemeinsamen Beitrag von Kanton und Gemeinde nach Art. 13 L
 
 <sup>2</sup> Der Gemeinderat legt den Perimeter gemäss Art. 17 Abs. 5 lit. a LwG während 30 Tagen öffentlich auf.
 
-<sup>3</sup> …[^13-1]
-
-[^13-1]: Aufgehoben durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+<sup>3</sup> …
 
 #### § 14
 
@@ -204,7 +194,7 @@ Der Gemeindeanteil am gemeinsamen Beitrag von Kanton und Gemeinde nach Art. 13 L
 
 **Anmerkung im Grundbuch**
 
-Nach der Genehmigung durch den Regierungsrat ordnet das Landwirtschaftsamt die erforderlichen Anmerkungen im Grundbuch von Amtes wegen an.
+<sup>1</sup> Nach der Genehmigung durch den Regierungsrat ordnet das Landwirtschaftsamt die erforderlichen Anmerkungen im Grundbuch von Amtes wegen an.
 
 #### § 18
 
@@ -216,9 +206,9 @@ Nach der Genehmigung durch den Regierungsrat ordnet das Landwirtschaftsamt die e
 
 #### § 19
 
-**Boden- und – Bestandesbewertung**
+**Boden- und Bestandesbewertung**
 
-Für die Bewertung des Bodens und des Baumbestandes wird in der Regel eine Schätzungskommission eingesetzt.
+<sup>1</sup> Für die Bewertung des Bodens und des Baumbestandes wird in der Regel eine Schätzungskommission eingesetzt.
 
 #### § 20
 
@@ -232,7 +222,7 @@ Für die Bewertung des Bodens und des Baumbestandes wird in der Regel eine Schä
 
 **Dienstbarkeiten**
 
-Soweit erforderlich, können Dienstbarkeiten und Grundlasten errichtet, gelöscht oder angepasst und öffentlichrechtliche Eigentumsbeschränkungen eingetragen oder übertragen werden. Dies hat im Auflageverfahren für die Neuzuteilung zu erfolgen.
+<sup>1</sup> Soweit erforderlich, können Dienstbarkeiten und Grundlasten errichtet, gelöscht oder angepasst und öffentlichrechtliche Eigentumsbeschränkungen eingetragen oder übertragen werden. Dies hat im Auflageverfahren für die Neuzuteilung zu erfolgen.
 
 #### § 22
 
@@ -246,13 +236,13 @@ Soweit erforderlich, können Dienstbarkeiten und Grundlasten errichtet, gelösch
 
 **Altbestand der Eigentumsverhältnisse**
 
-Über den Bestand bestrittener privater Rechte und Lasten im Altbestand urteilt die zivilrechtliche Instanz am Ort der gelegenen Sache.
+<sup>1</sup> Über den Bestand bestrittener privater Rechte und Lasten im Altbestand urteilt die zivilrechtliche Instanz am Ort der gelegenen Sache.
 
 #### § 24
 
 **Neuzuteilung**
 
-Der Vorstand der Meliorationsgenossenschaft legt zusammen mit der Projektleitung und dem Landwirtschaftsamt den Entwurf für die Neuzuteilung fest. Grundlage bilden die Art. 18 und 19 LwG.
+<sup>1</sup> Der Vorstand der Meliorationsgenossenschaft legt zusammen mit der Projektleitung und dem Landwirtschaftsamt den Entwurf für die Neuzuteilung fest. Grundlage bilden die Art. 18 und 19 LwG.
 
 #### § 25
 
@@ -262,11 +252,9 @@ Der Vorstand der Meliorationsgenossenschaft legt zusammen mit der Projektleitung
 
 <sup>2</sup> Eine Entschädigung in Geld ist möglich, insbesondere wenn:
 
-- a) Wertunterschiede zwischen dem Anspruch auf Neuzuteilung und den neu zugewiesenen Grundstücken auszugleichen sind;
-
-- b) nur ein kleines Grundstück von geringem Wert eingeworfen wurde und kein entsprechender Realersatz geleistet werden kann;
-
-- c) besondere Leistungen erbracht worden sind, die nicht durch Realersatz abgegolten werden können.
+- a) Wertunterschiede zwischen dem Anspruch auf Neuzuteilung und den neu zugewiesenen Grundstücken auszugleichen sind
+- b) nur ein kleines Grundstück von geringem Wert eingeworfen wurde und kein entsprechender Realersatz geleistet werden kann
+- c) besondere Leistungen erbracht worden sind, die nicht durch Realersatz abgegolten werden können
 
 <sup>3</sup> Bei einer Entschädigung in Geld für eine Mehr- oder Minderzuteilung ist der Bonitätswert mit einem angemessenen Zuschlag bis zur Höhe des Verkehrswertes abzugelten.
 
@@ -284,7 +272,7 @@ Der Vorstand der Meliorationsgenossenschaft legt zusammen mit der Projektleitung
 
 **Eigentumsübergang**
 
-Der Regierungsrat genehmigt den Neuzuteilungsplan und damit den Eigentumsübergang.
+<sup>1</sup> Der Regierungsrat genehmigt den Neuzuteilungsplan und damit den Eigentumsübergang.
 
 #### § 28
 
@@ -294,41 +282,34 @@ Der Regierungsrat genehmigt den Neuzuteilungsplan und damit den Eigentumsüberga
 
 <sup>2</sup> Der Regierungsrat kann ausnahmsweise auch den Abschluss von Teilen des Unternehmens genehmigen.
 
-- 3\. Meliorationsgenossenschaft
+### 1.1.3 Meliorationsgenossenschaft
 
 #### § 29
 
 **Rechtsgrundlagen**
 
-Die Meliorationsgenossenschaft ist eine Genossenschaft im Sinne von Art. 828 ff. OR und Art. 703 ZGB sowie den vom Volkswirtschaftsdepartement erlassenen Grundstatuten.
+<sup>1</sup> Die Meliorationsgenossenschaft ist eine Genossenschaft im Sinne von Art. 828 ff. OR und Art. 703 ZGB sowie den vom Volkswirtschaftsdepartement erlassenen Grundstatuten.
 
 #### § 30
 
 **Verfahren**
 
-Das Verfahren in Versammlungen und Sitzungen richtet sich, soweit nicht anderweitig gesetzlich oder durch die Grundstatuten anders bestimmt, nach dem Gemeindegesetz.
+<sup>1</sup> Das Verfahren in Versammlungen und Sitzungen richtet sich, soweit nicht anderweitig gesetzlich oder durch die Grundstatuten anders bestimmt, nach dem Gemeindegesetz.
 
 #### § 31
 
 **Statuten**
 
-Die Statuten der Meliorationsgenossenschaft enthalten insbesondere Bestimmungen über:
+<sup>1</sup> Die Statuten der Meliorationsgenossenschaft enthalten insbesondere Bestimmungen über:
 
-- a) Wahl und Aufgaben des Vorstandes;
-
-- b) Wahl und Aufgaben der Projektleitung;
-
-- c) Wahl und Aufgaben der Schätzungskommission;
-
-- d) besondere Rechte und Pflichten der Genossenschaftsmitglieder;
-
-- e) Vorgehen bei Projektänderungen;
-
-- f) Sanktionen und die Möglichkeit einer Ersatzvornahme;
-
-- g) Kostenverteilung für Bau und Unterhalt;
-
-- h) Grundsätze der Finanzierung.
+- a) Wahl und Aufgaben des Vorstandes
+- b) Wahl und Aufgaben der Projektleitung
+- c) Wahl und Aufgaben der Schätzungskommission
+- d) besondere Rechte und Pflichten der Genossenschaftsmitglieder
+- e) Vorgehen bei Projektänderungen
+- f) Sanktionen und die Möglichkeit einer Ersatzvornahme
+- g) Kostenverteilung für Bau und Unterhalt
+- h) Grundsätze der Finanzierung
 
 #### § 32
 
@@ -350,47 +331,41 @@ Die Statuten der Meliorationsgenossenschaft enthalten insbesondere Bestimmungen 
 
 <sup>3</sup> Unwesentliche Änderungen genehmigt das Landwirtschaftsamt.
 
-- 4\. Privatrechtliche Unternehmen
+### 1.1.4 Privatrechtliche Unternehmen
 
 #### § 34
 
 **Verfahren**
 
-<sup>1</sup> Privatrechtliche Unternehmen können durch mehrere vertraglich zusammengeschlossene Grundeigentümerinnen und Grundeigentümer eines bestimmten Beizugsgebietes durchgeführt werden. Der Ablauf des Verfahrens richtet sich sinngemäss nach Abschnitt 2.
+<sup>1</sup> Privatrechtliche Unternehmen können durch mehrere vertraglich zusammengeschlossene Grundeigentümerinnen und Grundeigentümer eines bestimmten Beizugsgebietes durchgeführt werden. Der Ablauf des Verfahrens richtet sich sinngemäss nach Abschnitt 1.1.2.
 
 <sup>2</sup> Die Zusicherung eines Kantonsbeitrags setzt voraus, dass:
 
-- a) der schriftliche Vertrag den Rücktritt einzelner Grundeigentümerinnen und Grundeigentümer ausschliesst,
-
-- b) die Kostentragung eindeutig geregelt ist,
-
-- c) der dauernde gemeinschaftliche Unterhalt gesichert oder von der Gemeinde resp. einer Güterkorporation gewährleistet ist,
-
-- d) das Projekt allseitig unterzeichnet ist,
-
-- e) amtliche Auflagen geduldet werden.
+- a) der schriftliche Vertrag den Rücktritt einzelner Grundeigentümerinnen und Grundeigentümer ausschliesst
+- b) die Kostentragung eindeutig geregelt ist
+- c) der dauernde gemeinschaftliche Unterhalt gesichert oder von der Gemeinde resp. einer Güterkorporation gewährleistet ist
+- d) das Projekt allseitig unterzeichnet ist
+- e) amtliche Auflagen geduldet werden
 
 <sup>3</sup> Wird das Projekt nicht begonnen oder vollendet, entfallen öffentliche Beitragsleistungen. Erbrachte Aufwendungen des Kantons können den Grundeigentümerinnen und Grundeigentümern überbunden werden.
 
-- 5\. Landwirtschaftliche Gebäude
+### 1.1.5 Landwirtschaftliche Gebäude
 
 #### § 35
 
 **Grundsatz**
 
-Voraussetzungen und Auflagen an Gesuchstellerinnen und Gesuchsteller sowie Beitragshöhe richten sich nach Art. 93 ff. und 102 ff. des Landwirtschaftsgesetzes, der Strukturverbesserungsverordnung und der Verordnung des Bundesamtes für Landwirtschaft über Investitionshilfen und soziale Begleitmassnahmen in der Landwirtschaft.[^35-1]
+<sup>1</sup> Voraussetzungen und Auflagen an Gesuchstellerinnen und Gesuchsteller sowie Beitragshöhe richten sich nach Art. 93 ff. und 102 ff. des Landwirtschaftsgesetzes, der Strukturverbesserungsverordnung und der Verordnung des Bundesamtes für Landwirtschaft über Investitionshilfen und soziale Begleitmassnahmen in der Landwirtschaft.
 
-- 6\. Pachtlandarrondierungen
-
-[^35-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+### 1.1.6 Pachtlandarrondierungen
 
 #### § 36
 
 **Verfahren**
 
-Pachtlandarrondierungen können als privates oder als öffentliches Unternehmen in der Form einer Meliorationsgenossenschaft durchgeführt werden. Das Volkswirtschaftsdepartement regelt das Verfahren in einer technischen Weisung.
+<sup>1</sup> Pachtlandarrondierungen können als privates oder als öffentliches Unternehmen in der Form einer Meliorationsgenossenschaft durchgeführt werden. Das Volkswirtschaftsdepartement regelt das Verfahren in einer technischen Weisung.
 
-- 7\. Sicherung der Bodenverbesserung
+### 1.1.7 Sicherung der Bodenverbesserung
 
 #### § 37
 
@@ -400,13 +375,11 @@ Pachtlandarrondierungen können als privates oder als öffentliches Unternehmen 
 
 <sup>2</sup> Auf Verlangen sind dem Landwirtschaftsamt die erforderlichen Unterlagen, insbesondere die Statuten der Güterkorporation oder die entsprechenden Bestimmungen der Gemeindeverfassung zuzustellen.
 
-- 8\. Rechtspflege
+### 1.1.8 Rechtspflege
 
 #### § 38
 
 **Auflagen**
-
-**Grundsatz**
 
 <sup>1</sup> Bei Auflagen sind den Betroffenen die vorgesehenen Massnahmen unter Hinweis auf die Einsprachemöglichkeit schriftlich mitzuteilen, jedoch ohne dass die Gültigkeit der Auflage von dieser Mitteilung abhängt. Bei umfangreichen Auflagen genügt der schriftliche Hinweis auf die Auflage.
 
@@ -424,14 +397,11 @@ Pachtlandarrondierungen können als privates oder als öffentliches Unternehmen 
 
 <sup>3</sup> Die Einsprachen sind zu begründen und müssen einen Antrag enthalten.
 
-<sup>4</sup> …[^39-1]
-
-[^39-1]: Aufgehoben durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-[^39-2]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+<sup>4</sup> …
 
 #### § 40
 
-**Erledigung**[^39-2]
+**Erledigung**
 
 <sup>1</sup> Die nach Art. 25 des Landwirtschaftsgesetzes zuständige Behörde prüft die Einsprachen und erledigt sie soweit möglich auf dem Wege der gütlichen Einigung.
 
@@ -439,109 +409,87 @@ Pachtlandarrondierungen können als privates oder als öffentliches Unternehmen 
 
 <sup>3</sup> Einsprachen gegen den Perimeter sind dem Vorstand der Meliorationsgenossenschaft zur Stellungnahme zu unterbreiten.
 
-[^40-1]: Aufgehoben durch RRB vom 21. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1881).
-
 #### § 41
 
-[^40-1]
+**…**
 
-## II. Betriebshilfe, Kantonale Darlehen und Beiträge
+### 1.2 Betriebshilfe, Kantonale Darlehen und Beiträge
 
-### 1. Darlehen für die Umstellungsphase auf biologische Bewirtschaftungsweise
+### 1.2.1 Darlehen für die Umstellungsphase auf biologische Bewirtschaftungsweise
 
 #### § 42
 
-Die Schaffhauser Bauernkreditkasse gewährt Bewirtschafterinnen und Bewirtschaftern, die ihren Betrieb auf den biologischen Landbau umstellen, als Starthilfe ein zinsloses Betriebshilfedarlehen. Damit soll während der Umstellungsphase finanziellen Engpässen vorgebeugt werden.
+**Grundsatz**
 
-[^42-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+<sup>1</sup> Die Schaffhauser Bauernkreditkasse gewährt Bewirtschafterinnen und Bewirtschaftern, die ihren Betrieb auf den biologischen Landbau umstellen, als Starthilfe ein zinsloses Betriebshilfedarlehen. Damit soll während der Umstellungsphase finanziellen Engpässen vorgebeugt werden.
 
 #### § 43
 
-**Höhe der Betriebshilfedarlehen**[^42-1]
+**Höhe der Betriebshilfedarlehen**
 
-Die Höhe der Betriebshilfedarlehen richtet sich nach der Anzahl der Standardarbeitskräfte. Sie beträgt bei:
+<sup>1</sup> Die Höhe der Betriebshilfedarlehen richtet sich nach der Anzahl der Standardarbeitskräfte. Sie beträgt bei:
 
-**höchstens Fr. 50'000.- höchstens Fr. 75'000.-**
-
-1,20 bis 1,99 Standardarbeitskräften 2,00 und mehr Standardarbeitskräften
+- a) 1.20 bis 1.99 Standardarbeitskräften: — höchstens Fr. 50'000.00
+- b) 2.00 und mehr Standardarbeitskräften: — höchstens Fr. 75'000.00
 
 #### § 44
 
 **Rückzahlungsrist**
 
-Das Betriebhilfedarlehen ist innert höchstens 10 Jahren zurückzuzahlen.
-
-[^44-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+<sup>1</sup> Das Betriebhilfedarlehen ist innert höchstens 10 Jahren zurückzuzahlen.
 
 #### § 45
 
-**Weitere Bestimmungen**[^44-1]
+**Weitere Bestimmungen**
 
-Im Übrigen gelten die Bestimmungen der Verordnung über die sozialen Begleitmassnahmen des Bundes.
+<sup>1</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die sozialen Begleitmassnahmen des Bundes.
 
-- 2\. Darlehen für Anschaffungen zur umweltschonen-
-
-[^45-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
-
-### den Bewirtschaftung
-
-[^45-1]
-
-[^hdenBewirtschaftung-1]: Eingefügt durch RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+### 1.2.2 Darlehen für Anschaffungen zur umweltschonenden Bewirtschaftung
 
 #### § 45a
 
-**Grundsatz**[^hdenBewirtschaftung-1]
+**Grundsatz**
 
 <sup>1</sup> Der Kanton kann Bewirtschafterinnen und Bewirtschaftern ein zinsloses Darlehen an die Anschaffungskosten von Maschinen und Einrichtungen für den überbetrieblichen Einsatz gewähren, wenn:
 
-- a) die Maschine oder Einrichtung eine besonders umweltschonende Bewirtschaftung ermöglicht, namentlich durch eine wesentliche Verminderung von Schadstoffemissionen oder eine verminderte Nährstoffauswaschung;
-
-- b) die Anschaffung in gemeinsamer Selbsthilfe durch mindestens zwei Bewirtschafterinnen oder Bewirtschafter in einer Rechtsform nach Schweizerischem Obligationenrecht erfolgt, wobei die persönliche Haftung der Mitglieder nicht ausgeschlossen werden darf.
+- a) die Maschine oder Einrichtung eine besonders umweltschonende Bewirtschaftung ermöglicht, namentlich durch eine wesentliche Verminderung von Schadstoffemissionen oder eine verminderte Nährstoffauswaschung
+- b) die Anschaffung in gemeinsamer Selbsthilfe durch mindestens zwei Bewirtschafterinnen oder Bewirtschafter in einer Rechtsform nach Schweizerischem Obligationenrecht erfolgt, wobei die persönliche Haftung der Mitglieder nicht ausgeschlossen werden darf
 
 <sup>2</sup> Das Gesuch ist an die Schaffhauser Bauernkreditkasse zu richten und ausreichend zu begründen. Diese entscheidet darüber und legt im Einzelfall die Bedingungen und Auflagen fest.
 
-[^45a-1]: Eingefügt durch RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
-
 #### § 45b
 
-**Beitragshöhe**[^45a-1]
+**Beitragshöhe**
 
-Die Höhe des Darlehens beträgt bis zu 40 % der Anschaffungskosten, höchstens jedoch Fr. 50'000.--. Auf Gesuche für Darlehen unter Fr. 10'000.-- wird nicht eingetreten.
-
-[^45b-1]: Eingefügt durch RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+<sup>1</sup> Die Höhe des Darlehens beträgt bis zu 40% der Anschaffungskosten, höchstens jedoch Fr. 50'000.00. Auf Gesuche für Darlehen unter Fr. 10'000.00 wird nicht eingetreten.
 
 #### § 45c
 
-**Rückzahlungsfrist**[^45b-1]
+**Rückzahlungsfrist**
 
-Das Darlehen ist in gleichen Raten innert längstens 5 Jahren zurückzuzahlen.
-
-[^45c-1]: Eingefügt durch RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+<sup>1</sup> Das Darlehen ist in gleichen Raten innert längstens 5 Jahren zurückzuzahlen.
 
 #### § 45d
 
-**Weitere Bestimmungen**[^45c-1]
+**Weitere Bestimmungen**
 
-Im Übrigen gelten die Bestimmungen der Strukturverbesserungsverordnung des Bundes.
+<sup>1</sup> Im Übrigen gelten die Bestimmungen der Strukturverbesserungsverordnung des Bundes.
 
-- 3\. Beiträge[^45d-1]
-
-[^45d-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
+### 1.2.3 Beiträge
 
 #### § 46
 
 **Beiträge an besondere ökologische Leistungen**
 
-Wird ein wissenschaftliches Prognosesystem angeboten, welches die umweltgerechte Produktion unterstützt und der Schaffhauser Landwirtschaft zugute kommt, kann der Kanton Beiträge an die Beschaffung entsprechender Geräte gewähren.
+<sup>1</sup> Wird ein wissenschaftliches Prognosesystem angeboten, welches die umweltgerechte Produktion unterstützt und der Schaffhauser Landwirtschaft zugute kommt, kann der Kanton Beiträge an die Beschaffung entsprechender Geräte gewähren.
 
 #### § 47
 
 **Beiträge an Massnahmen, die besonders umweltschonenden Produktionsmethoden zum Durchbruch verhelfen**
 
-<sup>1</sup> An Versuche im Pflanzenbau, namentlich im pfluglosen Anbau von Feldfrüchten sowie an Sortenanbau- und Düngungsversuche, können flächenbezogene Entschädigungen bis höchstens Fr. 20.- pro Are ausgerichtet werden.
+<sup>1</sup> An Versuche im Pflanzenbau, namentlich im pfluglosen Anbau von Feldfrüchten sowie an Sortenanbau- und Düngungsversuche, können flächenbezogene Entschädigungen bis höchstens Fr. 20.00 pro Are ausgerichtet werden.
 
-<sup>2</sup> An Versuche für tiergerechte Haltung und emissionsarme Hofdüngerbewirtschaftung können Entschädigungen bis zu einer maximalen Höhe von Fr. 1'000.- pro Grossvieheinheit (GVE) ausgerichtet werden.
+<sup>2</sup> An Versuche für tiergerechte Haltung und emissionsarme Hofdüngerbewirtschaftung können Entschädigungen bis zu einer maximalen Höhe von Fr. 1'000.00 pro Grossvieheinheit (GVE) ausgerichtet werden.
 
 <sup>3</sup> Die Beitragshöhe richtet sich nach betriebswirtschaftlichen Grundsätzen und nach dem durch den Versuch verursachten Mehraufwand.
 
@@ -557,11 +505,11 @@ Wird ein wissenschaftliches Prognosesystem angeboten, welches die umweltgerechte
 
 <sup>2</sup> Die Beiträge dürfen folgende Ansätze je Quadratmeter nicht übersteigen:
 
-### Geländeneigung Geschlossene Eventualgebiete Reblagen
-
-**Fr. -.70 Fr. 1.--**
-
-30 bis 50 Prozent Fr. 1.-- über 50 Prozent Fr. 1.50
+<table>
+<tr><th>Geländeneigung</th><th>Geschlossene Reblagen</th><th>Eventualgebiete</th></tr>
+<tr><td>30 bis 50 Prozent</td><td>Fr. 1.00</td><td>Fr. 0.70</td></tr>
+<tr><td>über 50 Prozent</td><td>Fr. 1.50</td><td>Fr. 1.00</td></tr>
+</table>
 
 <sup>3</sup> Die Höhe der Beiträge richtet sich nach der Finanzlage des Kantons.
 
@@ -569,15 +517,16 @@ Wird ein wissenschaftliches Prognosesystem angeboten, welches die umweltgerechte
 
 **Beiträge an die Förderung des Anbaus von Hochstammobstbäumen**
 
-<sup>1</sup> Mit der Beitragsgewährung sollen wertvolle Hochstammobstanlagen erhalten und die Vernetzung von Biodiversitätsförderflächen gefördert werden.[^49-1]
+<sup>1</sup> Mit der Beitragsgewährung sollen wertvolle Hochstammobstanlagen erhalten und die Vernetzung von Biodiversitätsförderflächen gefördert werden.
 
-<sup>2</sup> Die Beiträge entsprechen höchstens den Anschaffungskosten der Obstbäume. Sie werden nur ausgerichtet, wenn a) mindestens 10 Bäume gleichzeitig in einer geschlossener Anlage oder in Reihe als wertvolle Vernetzung gepflanzt werden oder b) in einer geschlossenen Anlage von mindestens 20 Bäumen wenigstens 5 Bäume pro Jahr ersetzt werden.
+<sup>2</sup> Die Beiträge entsprechen höchstens den Anschaffungskosten der Obstbäume. Sie werden nur ausgerichtet, wenn:
+
+- a) mindestens 10 Bäume gleichzeitig in einer geschlossener Anlage oder in Reihe als wertvolle Vernetzung gepflanzt werden oder
+- b) in einer geschlossenen Anlage von mindestens 20 Bäumen wenigstens 5 Bäume pro Jahr ersetzt werden
 
 <sup>3</sup> Der Unternutzen muss extensiviert werden.
 
-[^49-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
-## III. Ursprungsbezeichnung, Produktequalität, Absatzförderung
+### 1.3 Ursprungsbezeichnung, Produktequalität, Absatzförderung
 
 #### § 50
 
@@ -589,81 +538,64 @@ Wird ein wissenschaftliches Prognosesystem angeboten, welches die umweltgerechte
 
 #### § 51
 
-**Regionalmarketing, Öffentlichkeitsarbeit a) Voraussetzungen**
+**Regionalmarketing, Öffentlichkeitsarbeit: Voraussetzungen**
 
 <sup>1</sup> Der Kanton kann Projekte für Regionalmarketing oder Öffentlichkeitsarbeit unterstützen, wenn:
 
-- a) sie die Wettbewerbsfähigkeit der Schaffhauser Landwirtschaft verbessern;
-
-- b) sie mittel- und langfristig einer grösseren Gruppe von Produzentinnen und Produzenten zugute kommen;
-
-- c) Synergien mit anderen gleichartigen Projekten gesucht und genutzt werden;
-
-- d) sie nach der Startphase voraussichtlich selbsttragend sind;
-
+- a) sie die Wettbewerbsfähigkeit der Schaffhauser Landwirtschaft verbessern
+- b) sie mittel- und langfristig einer grösseren Gruppe von Produzentinnen und Produzenten zugute kommen
+- c) Synergien mit anderen gleichartigen Projekten gesucht und genutzt werden
+- d) sie nach der Startphase voraussichtlich selbsttragend sind
 - e) sie einer Erfolgskontrolle unterstehen, nicht anderweitig bereits Staatsbeiträge erhalten und
-
-- f) die Trägerschaft auch einen angemessenen Beitrag leistet.
+- f) die Trägerschaft auch einen angemessenen Beitrag leistet
 
 <sup>2</sup> Die Mitwirkung des kantonalen landwirtschaftlichen Beratungsdienstes ist gebührenfrei.
 
 #### § 52
 
-**b) Bemessungsgrundlagen**
+**Regionalmarketing, Öffentlichkeitsarbeit: Bemessungsgrundlagen**
 
-Beiträge können nur für die Projektierungsphase und für die nachfolgende Startphase eines Projektes, während welcher die Produktionsabläufe sichergestellt werden und das Marketing sich im Aufbau befindet, gewährt werden.
+<sup>1</sup> Beiträge können nur für die Projektierungsphase und für die nachfolgende Startphase eines Projektes, während welcher die Produktionsabläufe sichergestellt werden und das Marketing sich im Aufbau befindet, gewährt werden.
 
 #### § 53
 
-**c) Anrechenbare Kosten**
+**Regionalmarketing, Öffentlichkeitsarbeit: Anrechenbare Kosten**
 
-Als anrechenbare Kosten gelten namentlich solche für:
+<sup>1</sup> Als anrechenbare Kosten gelten namentlich solche für:
 
-- a) besondere Marketingberatung;
-
-- b) Gutachten;
-
-- c) besondere Werbemassnahmen;
-
-- d) Markenschutzgebühren und Herkunftskosten;
-
-- e) projektbezogener Verwaltungsaufwand.
+- a) besondere Marketingberatung
+- b) Gutachten
+- c) besondere Werbemassnahmen
+- d) Markenschutzgebühren und Herkunftskosten
+- e) projektbezogener Verwaltungsaufwand
 
 #### § 54
 
-**d) Beitragshöhe**
+**Regionalmarketing, Öffentlichkeitsarbeit:Beitragshöhe**
 
-<sup>1</sup> An die anrechenbaren Kosten können Beiträge bis zu 50 % gewährt werden.
+<sup>1</sup> An die anrechenbaren Kosten können Beiträge bis zu 50% gewährt werden.
 
 <sup>2</sup> Sie sind in den Staatsvoranschlag aufzunehmen.
 
 #### § 55
 
-**e) Verfahren**
+**Regionalmarketing, Öffentlichkeitsarbeit: Verfahren**
 
-Anträge zur Unterstützung von Projekten für regionales Marketing oder Öffentlichkeitsarbeit sind dem Landwirtschaftsamt bis Ende April des Jahres vor der allfälligen Beitragszahlung zur weiteren Bearbeitung einzureichen.
+<sup>1</sup> Anträge zur Unterstützung von Projekten für regionales Marketing oder Öffentlichkeitsarbeit sind dem Landwirtschaftsamt bis Ende April des Jahres vor der allfälligen Beitragszahlung zur weiteren Bearbeitung einzureichen.
 
-[^55-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
-### IV. Direktzahlungen und Kantonsbeiträge für die Vernetzung und die Landschaftsqualität
-
-[^55-1]
-
-[^hIVDirektzahlungen-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+### 1.4 Direktzahlungen und Kantonsbeiträge für die Vernetzung und die Landschaftsqualität
 
 #### § 55a
 
-**Vollzug**[^hIVDirektzahlungen-1]
+**Vollzug**
 
-1 Das Landwirtschaftsamt ist zuständig für den Vollzug der Direktzahlungsverordnung, soweit nichts anderes bestimmt ist.
+<sup>1</sup> Das Landwirtschaftsamt ist zuständig für den Vollzug der Direktzahlungsverordnung, soweit nichts anderes bestimmt ist.
 
-2 Bei Bedarf sind weitere landschaftsrelevante Fachstellen, insbesondere das Planungs- und Naturschutzamt, beizuziehen.
-
-[^55a-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+<sup>2</sup> Bei Bedarf sind weitere landschaftsrelevante Fachstellen, insbesondere das Planungs- und Naturschutzamt, beizuziehen.
 
 #### § 55b
 
-**Kantonale Vernetzungsprojekte 9)**[^55a-1]
+**Kantonale Vernetzungsprojekte**
 
 <sup>1</sup> Das Planungs- und Naturschutzamt kann in Vorranggebieten für Biotopschutz und ökologische Ausgleichsmassnahmen gemäss kantonalem Richtplan eigene Vernetzungsprojekte realisieren.
 
@@ -671,21 +603,17 @@ Anträge zur Unterstützung von Projekten für regionales Marketing oder Öffent
 
 <sup>3</sup> Nach Verfügbarkeit der Mittel können nach Art. 12 und Art. 14 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen Beiträge aus dem Natur- und Heimatschutzfonds entnommen werden.
 
-[^55b-1]: Fassung gemäss RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
 #### § 55c
 
-**Kommunale und regionale Vernetzungsprojekte 9)**[^55b-1]
+**Kommunale und regionale Vernetzungsprojekte**
 
 <sup>1</sup> Projektträger von Vernetzungsprojekten gemäss der Direktzahlungsverordnung sind Gemeindeverbände, einzelne Gemeinden, Stiftungen oder öffentlich- oder privatrechtliche Organisationen.
 
 <sup>2</sup> Die Projektträgerschaft ist verantwortlich für die Planung, die Durchführung, die Betreuung und die Restfinanzierung der Beiträge an Vernetzungsprojekte. Sie erstattet dem Landwirtschaftsamt nach dessen Vorgaben schriftlich Bericht über den Stand der Zielerreichung.
 
-[^55c-1]: Eingefügt durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
 #### § 55d
 
-**Landschaftsqualitätsprojekte**[^55c-1]
+**Landschaftsqualitätsprojekte**
 
 <sup>1</sup> Projektträger von Landschaftsqualitätsprojekten sind privatrechtliche Organisationen.
 
@@ -695,73 +623,67 @@ Anträge zur Unterstützung von Projekten für regionales Marketing oder Öffent
 
 <sup>4</sup> Nach Verfügbarkeit der Mittel können nach Art. 12 und Art. 14 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen Beiträge aus dem Natur- und Heimatschutzfonds entnommen werden.
 
-[^55d-1]: Eingefügt durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
 #### § 55e
 
-**Beiträge**[^55d-1]
+**Beiträge**
 
 <sup>1</sup> Gesuche für Kantonsbeiträge an kantonale Vernetzungsprojekte oder Landschaftsqualitätsprojekte sind dem Landwirtschaftsamt bis am 31. Dezember des Vorjahres einzureichen.
 
-<sup>2</sup> Beiträge werden ausgerichtet, wenn die Mindestanforderungen nach der Direktzahlungsverordnung und die vom Landwirtschaftsamt mit Zustimmung des Planungs- und Naturschutzamtes festgelegten Voraussetzungen an die Vernetzung oder die Landschaftsqualität erfüllt sind.
-
-[^55e-1]: Eingefügt durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+<sup>2</sup> Beiträge werden ausgerichtet, wenn die Mindestanforderungen nach der Direktzahlungsverordnung und die vom Landwirt-schaftsamt mit Zustimmung des Planungs- und Naturschutzamtes festgelegten Voraussetzungen an die Vernetzung oder die Landschaftsqualität erfüllt sind.
 
 #### § 55f
 
-**Gebühren**[^55e-1]
+**Gebühren**
 
 <sup>1</sup> Die Entscheide des Landwirtschaftsamtes über die Ausrichtung von Direktzahlungen sowie die Ausübung von Kontrollfunktionen sind gebührenpflichtig, wenn das Bundesrecht nichts anderes vorschreibt.
 
 <sup>2</sup> Die Gebühren richten sich nach der Verwaltungsgebührenverordnung.
 
-[^55f-1]: Eingefügt durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
-
 #### § 55g
 
-**Verrechnungen**[^55f-1]
+**Verrechnungen**
 
-Das Landwirtschaftsamt kann die auferlegten Gebühren mit den Direktzahlungen verrechnen.
+<sup>1</sup> Das Landwirtschaftsamt kann die auferlegten Gebühren mit den Direktzahlungen verrechnen.
 
-## B. Bäuerlicher Grundbesitz
+## 2 Bäuerlicher Grundbesitz
 
-### I. Bäuerliches Bodenrecht
+### 2.1 Bäuerliches Bodenrecht
 
-### 1. Behörden
+### 2.1.1 Behörden
 
 #### § 56
 
 **Schätzungsbehörde**
 
-Für die Ertragswertschätzung gemäss Art. 87 des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB) ist das Amt für Grundstückschätzungen zuständig.
+<sup>1</sup> Für die Ertragswertschätzung gemäss Art. 87 des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB) ist das Amt für Grundstückschätzungen zuständig.
 
-- 2\. Verfahren
+### 2.1.2 Verfahren
 
 #### § 57
 
 **Gesuche**
 
-Gesuche um Erteilung einer Ausnahmebewilligung vom Realteilungs- und Zerstückelungsverbot, einer Bewilligung für den Erwerb landwirtschaftlicher Grundstücke und Gewerbe sowie für die Überschreitung der Belastungsgrenze und Anträge im Sinne von Art. 86 BGBB für die Anmerkung im Grundbuch sind schriftlich und begründet beim Landwirtschaftsamt einzureichen. Das Grundbuchamt hat ebenfalls das Recht, Anträge im Sinne von Art. 86 BGBB zu stellen. Dem Gesuch sind die zur Beurteilung der Begehren notwendigen Unterlagen und Beweismittel beizulegen.
+<sup>1</sup> Gesuche um Erteilung einer Ausnahmebewilligung vom Realteilungs- und Zerstückelungsverbot, einer Bewilligung für den Erwerb landwirtschaftlicher Grundstücke und Gewerbe sowie für die Überschreitung der Belastungsgrenze und Anträge im Sinne von Art. 86 BGBB für die Anmerkung im Grundbuch sind schriftlich und begründet beim Landwirtschaftsamt einzureichen. Das Grundbuchamt hat ebenfalls das Recht, Anträge im Sinne von Art. 86 BGBB zu stellen. Dem Gesuch sind die zur Beurteilung der Begehren notwendigen Unterlagen und Beweismittel beizulegen.
 
 #### § 58
 
 **Abklärungen**
 
-Das Landwirtschaftsamt hat nach Eingang des Gesuches alle erforderlichen Abklärungen zu treffen. Es kann insbesondere Schätzungs- und Steuerakten einfordern und einen Mitbericht der Gemeindebehörde am Ort der gelegenen Sache einholen. Es kann zudem weitere Sachverständige beiziehen.
+<sup>1</sup> Das Landwirtschaftsamt hat nach Eingang des Gesuches alle erforderlichen Abklärungen zu treffen. Es kann insbesondere Schätzungs- und Steuerakten einfordern und einen Mitbericht der Gemeindebehörde am Ort der gelegenen Sache einholen. Es kann zudem weitere Sachverständige beiziehen.
 
 #### § 59
 
 **Eröffnung des Entscheides**
 
-Das Landwirtschaftsamt hat seinen Entscheid den Vertragsparteien, dem Grundbuchamt, der kantonalen Aufsichtsbehörde, der Pächterin oder dem Pächter sowie Kaufs-, Vorkaufs- oder Zuweisungsberechtigten schriftlich mitzuteilen (Art. 83 Abs. 2 BGBB).
+<sup>1</sup> Das Landwirtschaftsamt hat seinen Entscheid den Vertragsparteien, dem Grundbuchamt, der kantonalen Aufsichtsbehörde, der Pächterin oder dem Pächter sowie Kaufs-, Vorkaufs- oder Zuweisungsberechtigten schriftlich mitzuteilen (Art. 83 Abs. 2 BGBB).
 
-### II. Landwirtschaftliche Pacht
+### 2.2 Landwirtschaftliche Pacht
 
 #### § 60
 
 **Einsprachen gegen Zupacht**
 
-Personen, die ein schutzwürdiges Interesse haben, sowie der Gemeinderat derjenigen Gemeinde, in welcher der Pachtgegenstand liegt, sind berechtigt, innert dreier Monate seit Kenntnis des Vertragsabschlusses beim kantonalen Landwirtschaftsamt schriftlich Einsprache zu erheben. Nach Ablauf eines halben Jahres seit Antritt der Pacht sind nur noch Einsprachen des Gemeinderates zulässig.
+<sup>1</sup> Personen, die ein schutzwürdiges Interesse haben, sowie der Gemeinderat derjenigen Gemeinde, in welcher der Pachtgegenstand liegt, sind berechtigt, innert dreier Monate seit Kenntnis des Vertragsabschlusses beim kantonalen Landwirtschaftsamt schriftlich Einsprache zu erheben. Nach Ablauf eines halben Jahres seit Antritt der Pacht sind nur noch Einsprachen des Gemeinderates zulässig.
 
 #### § 61
 
@@ -769,23 +691,21 @@ Personen, die ein schutzwürdiges Interesse haben, sowie der Gemeinderat derjeni
 
 <sup>1</sup> Gegen Verfügungen des Landwirtschaftsamtes kann innert 30 Tagen beim Regierungsrat Beschwerde erhoben werden.
 
-<sup>2</sup> ...[^61-1]
+<sup>2</sup> …
 
-[^61-1]: Aufgehoben durch RRB vom 19. Juni 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 901).
-
-## C. Tierzucht
+## 3 Tierzucht
 
 #### § 62
 
 **Allgemeines**
 
-Die Beiträge des Kantons an die vom Bund unterstützten Tätigkeiten der nationalen Zuchtorganisationen sind so zu bemessen, dass jeweils der volle Bundesbeitrag ausgelöst werden kann.
+<sup>1</sup> Die Beiträge des Kantons an die vom Bund unterstützten Tätigkeiten der nationalen Zuchtorganisationen sind so zu bemessen, dass jeweils der volle Bundesbeitrag ausgelöst werden kann.
 
 #### § 63
 
 **Beitragshöhe**
 
-Das Volkswirtschaftsdepartement erlässt Weisungen über die Höhe und die Verteilung sämtlicher Beiträge.
+<sup>1</sup> Das Volkswirtschaftsdepartement erlässt Weisungen über die Höhe und die Verteilung sämtlicher Beiträge.
 
 #### § 64
 
@@ -801,33 +721,27 @@ Das Volkswirtschaftsdepartement erlässt Weisungen über die Höhe und die Verte
 
 **Bienenzucht**
 
-An die Belegstation der kantonalen Bienenzuchtorganisation wird auf Gesuch hin ein Beitrag ausgerichtet, sofern die Betreiberin dafür auch eine angemessene Eigenleistung erbringt.
+<sup>1</sup> An die Belegstation der kantonalen Bienenzuchtorganisation wird auf Gesuch hin ein Beitrag ausgerichtet, sofern die Betreiberin dafür auch eine angemessene Eigenleistung erbringt.
 
 #### § 66
 
 **Geflügelzucht**
 
-Der Kanton kann an die Schweizerische Geflügelzuchtschule Beiträge leisten, sofern andere Kantone und der Bund sich auch daran beteiligen.
+<sup>1</sup> Der Kanton kann an die Schweizerische Geflügelzuchtschule Beiträge leisten, sofern andere Kantone und der Bund sich auch daran beteiligen.
 
 #### § 67
 
 **Beiträge an die Zucht von anderen Nutztierarten, die vom Bund nicht gefördert werden**
 
-An die Zucht von anderen Nutztierarten können Beiträge geleistet werden, sofern die Züchter in einer anerkannten Zuchtorganisation zusammengeschlossen sind und eine angemessene Eigenleistung erbringen.
+<sup>1</sup> An die Zucht von anderen Nutztierarten können Beiträge geleistet werden, sofern die Züchter in einer anerkannten Zuchtorganisation zusammengeschlossen sind und eine angemessene Eigenleistung erbringen.
 
-[^67-1]: Aufgehoben durch RRB vom 23. Dezember 2003, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2003, S. 1887).
+## 4
 
-## D.
+#### § 68–78
 
-[^67-1]
+**…**
 
-[^hD671-1]: Aufgehoben durch RRB vom 23. Dezember 2003, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2003, S. 1887).
-
-#### §§ 68
-
-**- 78[^hD671-1]**
-
-## E. Landwirtschaftliche und bäuerlichhauswirtschaftliche Berufsbildung und Beratung
+## 5 Landwirtschaftliche und bäuerlich-hauswirtschaftliche Berufsbildung und Beratung
 
 #### § 79
 
@@ -845,39 +759,26 @@ An die Zucht von anderen Nutztierarten können Beiträge geleistet werden, sofer
 
 <sup>2</sup> Sie führen auch die darauf abgestützten Erhebungen und Versuche durch.
 
-<sup>3</sup> Die Verrechnung der Beratungsleistungen und der Weiterbildungskurse erfolgt nach dem vom Regierungsrat genehmigten Beratungskonzept und dem vom Volkswirtschaftsdepartement genehmigten Gebührenreglement des Landwirtschaftsamtes.[^80-1]
+<sup>3</sup> Die Verrechnung der Beratungsleistungen und der Weiterbildungskurse erfolgt nach dem vom Regierungsrat genehmigten Beratungskonzept und dem vom Volkswirtschaftsdepartement genehmigten Gebührenreglement des Landwirtschaftsamtes.
 
-[^80-1]: Fassung gemäss RRB vom 6. April 2004, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2004, S. 491).
-
-## F. Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
 #### § 81
 
 **Aufhebung bisherigen Rechts**
 
-Die nachstehenden Erlasse werden aufgehoben.
+<sup>1</sup> Die nachstehenden Erlasse werden aufgehoben:
 
-- a) Verordnung zum Bundesgesetz über das bäuerliche Bodenrecht (BGBB) vom 2. November 1993;
-
-- b) Verordnung über den Vollzug des Bundesgesetzes vom 4. Oktober 1985 über die landwirtschaftliche Pacht (LPG) vom 28. Oktober 1986;
-
-- c) Verordnung über den Vollzug des kantonalen Rebbaugesetzes vom 18.Juli 1951 vom 5. August 1970;
-
-- d) Verordnung über das Rebsortenverzeichnis vom 17. September 1991;
-
-- e) Verordnung über die Weinlesekontrolle, die Qualitätsbezahlung, den Mindestzuckergehalt und den Vollzug der Mengenbegrenzung im Rebbau vom 10. August 1993;
-
-- f) Verordnung betreffend Massnahmen gegen die Reblaus, Blutlaus und andere die landwirtschaftliche Produktion bedrohende Schädlinge vom 10. April 1886;
-
-- g) Verordnung über die Bekämpfung der San-José-Schildlaus (Quadraspidiotus perniciosus) vom 8. Januar 1947;
-
-- h) Verordnung über die Förderung der Tierzucht vom 15. September 1998;
-
-- i) Beschluss des Regierungsrates über den Vollzug von Art. 44<sup>bis</sup> des Bundesgesetzes vom 2. Oktober 1964 betreffend die Änderung des Beschlusses der Bundesversammlung über Milch, Milchprodukte und Speisefette (Milchbeschluss) vom 14. Juli 1965;
-
-- j) Verordnung über die Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (kantonale Öko-Qualitätsverordnung) vom 4. Januar 2002.[^81-1]
-
-[^81-1]: Eingefügt durch RRB vom 23. September 2014, in Kraft getreten am 1. Oktober 2014 (Amtsblatt 2014, S. 1405).
+- a) Verordnung zum Bundesgesetz über das bäuerliche Bodenrecht (BGBB) vom 2. November 1993
+- b) Verordnung über den Vollzug des Bundesgesetzes vom 4. Oktober 1985 über die landwirtschaftliche Pacht (LPG) vom 28. Oktober 1986
+- c) Verordnung über den Vollzug des kantonalen Rebbaugesetzes vom 18. Juli 1951 vom 5. August 1970
+- d) Verordnung über das Rebsortenverzeichnis vom 17. September 1991
+- e) Verordnung über die Weinlesekontrolle, die Qualitätsbezahlung, den Mindestzuckergehalt und den Vollzug der Mengenbegrenzung im Rebbau vom 10. August 1993
+- f) Verordnung betreffend Massnahmen gegen die Reblaus, Blutlaus und andere die landwirtschaftliche Produktion bedrohende Schädlinge vom 10. April 1886
+- g) Verordnung über die Bekämpfung der San-José-Schildlaus (Quadraspidiotus perniciosus) vom 8. Januar 1947
+- h) Verordnung über die Förderung der Tierzucht vom 15. September 1998
+- i) Beschluss des Regierungsrates über den Vollzug von Art. 44<sup>bis</sup> des Bundesgesetzes vom 2. Oktober 1964 betreffend die Änderung des Beschlusses der Bundesversammlung über Milch, Milchprodukte und Speisefette (Milchbeschluss) vom 14. Juli 1965
+- j) Verordnung über die Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (kantonale Öko-Qualitätsverordnung) vom 4. Januar 2002
 
 #### § 82
 
@@ -887,11 +788,6 @@ Die nachstehenden Erlasse werden aufgehoben.
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^82-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^82-1]: Amtsblatt 2000, S. 1889.
 
-## Weitere Fussnoten
-
-- [5] Eingefügt durch RRB vom 24. August 2004, in Kraft getreten am 1. August 2004 (Amtsblatt 2004, S. 1233).
-- [6] Eingefügt durch RRB vom 1. März 2005, in Kraft getreten am 1. März 2005 (Amtsblatt 2005, S. 347).
+Abl. 2000, S. 1889
