@@ -4,11 +4,11 @@ title: Ordonnance du 5 avril 2006 sur les finances de la Confédération (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20240101-fr-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20250501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/fr"
 
 (OFC)
 
-du 5 avril 2006 (État le 1<sup>er</sup> janvier 2024)
+du 5 avril 2006 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 7 octobre 2005 sur les finances (LFC)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ## Chapitre 1 Compte d’État
@@ -52,7 +52,7 @@ arrête:
 
 [^1-1]: Introduite par l’annexe 2 ch. II 68 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^1-4]: Nouvelle teneur selon l’annexe 2 ch. II 68 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
@@ -142,7 +142,7 @@ La présentation de l’évolution financière au cours de la législature compr
 <sup>5</sup> En règle générale, le Conseil fédéral soumet à l’Assemblée fédérale les arrêtés financiers pluriannuels et périodiques de grande portée au plus tard six mois après l’adoption du message sur le programme de la législature.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 6
 
@@ -240,7 +240,7 @@ Les demandes de crédit des unités administratives doivent satisfaire aux exige
 
 <sup>3</sup> En l’absence de dispositions découlant d’actes spéciaux, l’Administration des finances décide, après avoir entendu l’unité administrative et le département concernés, sous quelle forme le crédit d’engagement doit être demandé.
 
-[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/eli/cc/2004/383)
+[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7767)
 
 #### Art. 14
 
@@ -307,9 +307,10 @@ Les objectifs annuels doivent au minimum:
 - a. garantir que les exigences du frein à l’endettement pourront être respectées (art. 13 à 18 LFC);
 - b. tenir compte des objectifs budgétaires de l’Assemblée fédérale.
 
-<sup>3</sup> L’Administration des finances édicte, conjointement avec l’Office fédéral du personnel (OFPER) et le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI de la ChF), des instructions techniques relatives à la procédure applicable aux demandes budgétaires.[^18-1]
+<sup>3</sup> L’Administration des finances édicte, conjointement avec l’Office fédéral du personnel (OFPER) et le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI[^18-1]), des instructions techniques relatives à la procédure applicable aux demandes budgétaires.[^18-2]
 
-[^18-1]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-1]: La dénomination de l'unité administrative a été adaptée au 1<sup>er</sup> mai 2025 en application de l'art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
+[^18-2]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 19
 
@@ -386,7 +387,7 @@ Les demandes des unités administratives doivent satisfaire aux exigences suivan
 
 ### (art. 32 et 58 LFC)
 
-<sup>1</sup> L’Administration des finances, le secteur TNI de la ChF et l’OFPER vérifient si les demandes budgétaires des unités administratives sont conformes aux principes mentionnés à l’art. 12, al. 4, LFC, ainsi qu’aux directives et exigences au sens des art. 18 et 21.[^22-1]
+<sup>1</sup> L’Administration des finances, le secteur TNI et l’OFPER vérifient si les demandes budgétaires des unités administratives sont conformes aux principes mentionnés à l’art. 12, al. 4, LFC, ainsi qu’aux directives et exigences au sens des art. 18 et 21.[^22-1]
 
 <sup>2</sup> Ils s’emploient à éliminer les divergences autant que possible directement avec les unités administratives, en tenant compte de l’avis des départements. Si des divergences subsistent, le Conseil fédéral statue à leur endroit.
 
@@ -601,7 +602,7 @@ Sont indiqués en particulier pour chaque groupe de prestations:
 
 ### (art. 30*a* et 32*a* LFC)
 
-L’Administration des finances édicte des directives complémentaires concernant les art. 27*a* à 27*h*. Elle édicte les directives concernant les art. 27*d* et 27*e* en accord avec l’OFPER et le secteur TNI de la ChF.
+L’Administration des finances édicte des directives complémentaires concernant les art. 27*a* à 27*h*. Elle édicte les directives concernant les art. 27*d* et 27*e* en accord avec l’OFPER et le secteur TNI.
 
 [^27i-1]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
@@ -842,9 +843,9 @@ Le traitement des données personnelles sert à exécuter les tâches assignées
 - g.[^42-6] l’exécution des processus de gestion de la relation client.
 
 [^42-1]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
-[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
+[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5319)
 [^42-5]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 [^42-6]: Introduite par l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
@@ -869,8 +870,8 @@ Si l’accomplissement des tâches l’exige, il est possible de traiter les don
 <sup>2</sup> Les données personnelles des employés de l’administration fédérale peuvent être extraites du système d’information pour la gestion des données du personnel (art. 27 de la loi du 24 mars 2000 sur le personnel de la Confédération[^43-2]) ou de la base centralisée des identités (art. 13 de l’ordonnance du 19 octobre 2016 sur les systèmes de gestion des données d’identification et les services d’annuaires de la Confédération[^43-3]).[^43-4]
 
 [^43-1]: Introduite par l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^43-4]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
@@ -912,7 +913,7 @@ Toutes les unités administratives de la Confédération:
 
 <sup>2</sup> Au demeurant, la communication des données des employés de l’administration fédérale à d’autres systèmes d’information est soumise aux conditions énumérées à l’art. 34 de l’ordonnance du 22 novembre 2017 concernant la protection des données personnelles du personnel de la Confédération[^47-1].[^47-2]
 
-[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
 [^47-2]: Nouvelle teneur selon l’annexe 8 ch. II 5 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 48
@@ -1003,14 +1004,15 @@ L’Administration des finances édicte des directives sur:
 
 **Normes**[^53-1]
 
-### (art. 10 et 48 LFC)
+### (art. 48 LFC)
 
-<sup>1</sup> L’établissement des comptes est régi par les normes comptables internationales pour le secteur public (*International Public Sector Accounting Standards*, IPSAS)[^53-2].
+<sup>1</sup> Les normes comptables internationales du secteur public (*International Public* *Sector* *Accounting Standards*, IPSAS) nouvellement édictées ou modifiées doivent être mises en œuvre dans les délais prévus par le Conseil IPSAS (*IPSAS-Board*).
 
-<sup>2</sup> Les principales dérogations aux IPSAS sont réglées dans l’annexe 2 et motivées dans l’annexe des comptes annuels.
+<sup>2</sup> Leur mise en œuvre peut, à titre exceptionnel, être repoussée de deux ans au plus par l’AFF si les travaux préparatoires au sein de l’administration fédérale exigent davantage de temps ou s’il est indiqué de mettre en œuvre en même temps plusieurs modifications de normes IPSAS.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^53-2]: [www.ifac.org/public-sector](http://www.ifac.org/public-sector)
+<sup>3</sup> Les dérogations aux normes IPSAS sont motivées dans l’annexe au compte annuel. Si elles sont importantes, elles sont inscrites dans l’annexe 2 dans le cadre de la prochaine révision de la présente ordonnance, mais au plus tard deux ans après le délai prévu par le Conseil IPSAS.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 #### Art. 54
 
@@ -1140,7 +1142,7 @@ S’agissant des libéralités qui ne ressortissent pas au Département des fina
 
 Les délais de paiement et les mises en demeure sont régis par l’art. 12, al. 2 à 4, de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^67-1].
 
-[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 68
 
@@ -1269,7 +1271,7 @@ Les personnes visées à l’al. 2, let. d et f, restent autorisées à entreten
 <sup>3</sup> Le département des finances précise le cercle des personnes pour lesquelles la CEPF peut gérer des comptes.
 
 [^72a-1]: Introduit par le ch. I de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/eli/cc/1990/254_254_254)
+[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5234)
 [^72a-3]: Introduite par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 [^72a-4]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
@@ -1437,7 +1439,7 @@ Annexe 2[^t-2]
 
 ## Compte de la Confédération: dérogations aux IPSAS
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 10 nov. 2021 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)). Mise à jour par le ch. II de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 <table>
 <tr><td>N<sup>o</sup></td><td>IPSAS</td><td>N<sup>o</sup></td><td>Dérogation</td></tr>
@@ -1445,6 +1447,7 @@ Annexe 2[^t-2]
 <tr><td>18</td><td>*Information sectorielle*</td><td>18</td><td>Aucune information sectorielle n’est établie. Les dépenses sont présentées par groupe de tâches dans le commentaire sur le compte d’État. Elles sont toutefois exposées dans l’optique du financement, et non pas dans celle du compte de résultats, et sans indication des valeurs inscrites au bilan.</td></tr>
 <tr><td>23</td><td>Revenus de transactions sans contre-prestation imputable</td><td>23.1</td><td>Les revenus de l’impôt fédéral direct sont comptabilisés selon le principe des créances acquises, et non pas selon celui de la comptabilité d’exercice. Pour des raisons administratives, les revenus sont enregistrés un mois après que les cantons ont facturé l’impôt aux contribuables.</td></tr>
 <tr><td></td><td></td><td>23.2</td><td>Les revenus de la taxe sur la valeur ajoutée et de la redevance sur le trafic des poids lourds liée aux prestations sont comptabilisés avec un décalage d’un trimestre.</td></tr>
+<tr><td>43</td><td>Contrats de location</td><td>43</td><td>La norme n’est pas appliquée. Par conséquent, les droits d’utilisation et les obligations locatives ne sont pas inscrits au bilan dans le cadre d’opérations de location. En revanche, les dépenses sont portées au compte de résultats à l’échéance.</td></tr>
 </table>
 
 Annexe 3[^t-3]

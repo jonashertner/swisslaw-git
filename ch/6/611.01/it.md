@@ -4,11 +4,11 @@ title: Ordinanza del 5 aprile 2006 sulle finanze della Confederazione (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: it
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20240101-it-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20250501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/it"
 
 (OFC)
 
-del 5 aprile 2006 (Stato 1° gennaio 2024)
+del 5 aprile 2006 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 7 ottobre 2005[^ingress-1] sulle finanze della Confe
 
 ordina:
 
-[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ## Capitolo 1: Consuntivo della Confederazione
 
@@ -50,10 +50,10 @@ Sempre che la legge e l’ordinanza non dispongano altrimenti, le disposizioni d
 
 <sup>2</sup> È fatta salva la posizione speciale dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze (Controllo delle finanze), del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’IFPDT di cui all’articolo 142 capoversi 2 e 3 della legge del 13 dicembre 2002[^1-3] sul Parlamento (LParl).[^1-4]
 
-[^1-1]: Introdotta dall’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^1-4]: Nuovo testo giusta l’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-1]: Introdotta dall’all. 2 cifra II n. 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^1-4]: Nuovo testo giusta l’all. 2 cifra II n. 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
 
@@ -69,15 +69,15 @@ Conti speciali sono tenuti da:
 - d.[^2-4] il Fondo per le strade nazionali e il traffico d’agglomerato
 
 [^2-1]: Abrogata dall’art. 39 n. 2 dell’O del 5 dic. 2014 sulle finanze e sulla contabilità nel settore dei PF, con effetto dal 1° gen. 2015 ([RU 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)).
-[^2-2]: Abrogata dall’all. 2 n. II 6 dell’O del 15 set. 2017 sull’alcol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^2-4]: Introdotta dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^2-2]: Abrogata dall’all. 2 cifra II n. 6 dell’O del 15 set. 2017 sull’alcol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^2-4]: Introdotta dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
 #### Art. 3
 
 [^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^3-1]: Abrogato dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ## Capitolo 2: Gestione globale delle finanze federali
 
@@ -111,7 +111,7 @@ Essa prende in considerazione in particolare le ripercussioni finanziarie presum
 
 <sup>4</sup> I progetti posti in consultazione sono presi in considerazione nella pianificazione finanziaria solo se la loro portata finanziaria può essere stimata.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 5
 
@@ -141,8 +141,8 @@ La presentazione dello sviluppo finanziario durante la legislatura comprende ind
 
 <sup>5</sup> Di regola entro sei mesi dall’adozione del messaggio sul programma di legislatura, il Consiglio federale sottopone all’Assemblea federale decisioni finanziarie pluriennali e periodiche di portata rilevante.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 6
 
@@ -160,13 +160,13 @@ Per il piano integrato dei compiti e delle finanze (PICF) annuale, si applicano 
 
 <sup>2</sup> Il Consiglio federale emana istruzioni sugli articoli 4–6.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 7 e 8
 
 [^78-1]
 
-[^78-1]: Abrogati dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^78-1]: Abrogati dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 9
 
@@ -192,7 +192,7 @@ Per il piano integrato dei compiti e delle finanze (PICF) annuale, si applicano 
 
 <sup>3</sup> Il *trasferimento di credito* è la facoltà conferita esplicitamente al Consiglio federale, mediante un decreto federale semplice, di modificare la ripartizione tra i crediti d’impegno.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 11
 
@@ -213,8 +213,8 @@ Non sono chiesti crediti d’impegno:
 
 - b. per l’assunzione di personale federale,
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^11-2]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^11-2]: Introdotto dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 12
 
@@ -240,7 +240,7 @@ Le domande di credito delle unità amministrative devono soddisfare le seguenti 
 
 <sup>3</sup> In difetto di disposizioni in atti normativi speciali, spetta all’Amministrazione delle finanze determinare, sentite le unità amministrative interessate e il dipartimento, in quale forma il credito d’impegno deve essere domandato.
 
-[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/eli/cc/2004/383)
+[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7767)
 
 #### Art. 14
 
@@ -250,7 +250,7 @@ Le domande di credito delle unità amministrative devono soddisfare le seguenti 
 
 Sempre che nell’atto di stanziamento del credito non sia esplicitamente prevista la competenza del Consiglio federale, spetta ai dipartimenti decidere la liberazione di crediti d’impegno secondo l’articolo 24 LFC. I dipartimenti possono demandare tale competenza a servizi loro subordinati.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 15
 
@@ -271,8 +271,8 @@ L’unità amministrativa deve indicare nel registro di controllo relativo all�
 
 <sup>3</sup> I crediti d’impegno devono essere iscritti nel sistema di contabilità dell’unità amministrativa.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
 #### Art. 16
 
@@ -288,7 +288,7 @@ L’unità amministrativa deve indicare nel registro di controllo relativo all�
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O dell’11 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212))
+[^17-1]: Abrogato dalla cifra I dell’O dell’11 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 
 ### Sezione 3: Preventivo e aggiunte
 
@@ -307,9 +307,10 @@ Gli obiettivi annui devono almeno:
 - a. garantire l’osservanza del freno all’indebitamento (art. 13–18 LFC);
 - b. tenere conto delle opzioni di politica finanziaria dell’Assemblea federale.
 
-<sup>3</sup> L’Amministrazione delle finanze emana, congiuntamente con l’Ufficio federale del personale (Ufficio del personale) e il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT della CaF), istruzioni tecniche sulla procedura da seguire per le domande per il preventivo.[^18-1]
+<sup>3</sup> L’Amministrazione delle finanze emana, congiuntamente con l’Ufficio federale del personale (Ufficio del personale) e il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT[^18-1]), istruzioni tecniche sulla procedura da seguire per le domande per il preventivo.[^18-2]
 
-[^18-1]: Nuovo testo giusta l’all. n. 16 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° mag. 2025. Di detta mod. è tenuto conto in tutto il presente testo.
+[^18-2]: Nuovo testo giusta l’all. n. 16 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 19
 
@@ -332,9 +333,9 @@ I seguenti principi si applicano al preventivo e alle sue aggiunte:
 
 <sup>4</sup> I principi per la presentazione dei conti (art. 54) si applicano per analogia.[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^19-3]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^19-3]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 20
 
@@ -356,10 +357,10 @@ I seguenti principi si applicano al preventivo e alle sue aggiunte:
 
 <sup>7</sup> Con il *riporto di credito* il Consiglio federale riporta all’anno successivo i crediti a preventivo già stanziati dall’Assemblea federale e non completamente utilizzati.[^20-4]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^20-4]: Introdotto dal n. I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^20-4]: Introdotto dalla cifra I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
 
 #### Art. 21
 
@@ -378,7 +379,7 @@ Le domande delle unità amministrative devono soddisfare le seguenti esigenze:
 
 <sup>2</sup> Le domande per i preventivi globali e i singoli crediti contengono inoltre le informazioni secondo gli articoli 27*b* e 27*d*.[^21-1]
 
-[^21-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^21-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 22
 
@@ -386,7 +387,7 @@ Le domande delle unità amministrative devono soddisfare le seguenti esigenze:
 
 ### (art. 32 e 58 LFC)
 
-<sup>1</sup> L’Amministrazione delle finanze, il settore TDT della CaF e l’Ufficio del personale esaminano se le domande delle unità amministrative sono conformi ai principi di cui all’articolo 12 capoverso 4 LFC come anche alle istruzioni e alle esigenze di cui agli articoli 18 e 21.[^22-1]
+<sup>1</sup> L’Amministrazione delle finanze, il settore TDT e l’Ufficio del personale esaminano se le domande delle unità amministrative sono conformi ai principi di cui all’articolo 12 capoverso 4 LFC come anche alle istruzioni e alle esigenze di cui agli articoli 18 e 21.[^22-1]
 
 <sup>2</sup> Essi appianano le divergenze per quanto possibile direttamente con le unità amministrative coinvolgendo i dipartimenti. Il Consiglio federale decide sulle divergenze rimanenti.
 
@@ -412,7 +413,7 @@ Le domande delle unità amministrative devono soddisfare le seguenti esigenze:
 
 <sup>2</sup> Fatto salvo l’articolo 36 capoverso 1 LFC, il Consiglio federale autorizza le spese urgenti e le uscite urgenti per investimenti a titolo di anticipazione, previo consenso della Delegazione delle finanze.[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 25
 
@@ -422,7 +423,7 @@ Le domande delle unità amministrative devono soddisfare le seguenti esigenze:
 
 Le anticipazioni sono autorizzate soltanto se la spesa o l’uscita per investimenti non può essere differita sino all’approvazione del credito aggiuntivo.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
 
 #### Art. 26
 
@@ -440,8 +441,8 @@ Le anticipazioni sono autorizzate soltanto se la spesa o l’uscita per investim
 
 <sup>4</sup> Un residuo di credito riportato può essere utilizzato anche nell’anno successivo solo per il progetto corrispondente.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^26-2]: Nuovo testo giusta l’all. 2 n. II 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^26-2]: Nuovo testo giusta l’all. 2 cifra II n. 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -469,16 +470,16 @@ Nella domanda deve essere esaustivamente motivato il fabbisogno di credito e dev
 
 <sup>5</sup> Le domande devono essere presentate all’Amministrazione delle finanze.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^27-2]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^27-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
-[^27-4]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-2]: Introdotto dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1387](https://fedlex.data.admin.ch/eli/oc/2011/212)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Sezione 4: Spese e investimenti dell’Amministrazione
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Introdotta dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap2-sec4-1]: Introdotta dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 27a
 
@@ -601,7 +602,7 @@ Per ogni gruppo di prestazioni sono documentati segnatamente:
 
 ### (art. 30*a* e 32*a* LFC)
 
-L’Amministrazione delle finanze emana istruzioni complementari sugli articoli 27*a*–27*h*. Essa emana, congiuntamente con l’Ufficio del personale e il settore TDT della CaF, le istruzioni sugli articoli 27*d* e 27*e*.
+L’Amministrazione delle finanze emana istruzioni complementari sugli articoli 27*a*–27*h*. Essa emana, congiuntamente con l’Ufficio del personale e il settore TDT, le istruzioni sugli articoli 27*d* e 27*e*.
 
 [^27i-1]: Nuovo testo giusta l’all. n. 16 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
@@ -639,8 +640,8 @@ La contabilizzazione deve essere eseguita:
 - c.[^29-2] in caso di imposte, nel periodo contabile in cui sorge il credito;
 - d. in caso di sussidi, nel periodo contabile in cui sorge l’impegno alla prestazione del sussidio.
 
-[^29-1]: Abrogata dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^29-1]: Abrogata dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 30
 
@@ -660,7 +661,7 @@ I rimborsi per le spese o le uscite per investimenti di anni precedenti sono con
 
 <sup>2</sup> I libri di commercio e i documenti contabili sono conservati in forma elettronica. La concordanza con le operazioni e gli altri eventi cui si riferiscono deve essere garantita e i libri di commercio e i documenti contabili devono poter essere resi leggibili in ogni momento.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 32
 
@@ -720,7 +721,7 @@ Nell’inventario dei valori reali e contabili degli immobili figurano tutti i f
 
 <sup>3</sup> I direttori delle unità amministrative sono responsabili per l’introduzione, l’impiego e la gestione di un adeguato sistema di controllo interno nel loro settore di competenza.[^36-1]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 37
 
@@ -744,19 +745,19 @@ L’approvazione e l’autorizzazione per via elettronica sono equiparate alla f
 
 <sup>5</sup> I direttori delle unità amministrative sono responsabili dell’attuazione del disciplinamento della firma ai sensi del presente articolo e delle istruzioni dell’AFF. L’attuazione deve essere conforme alla ripartizione dei compiti e delle competenze dell’unità amministrativa.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 37a e 37b
 
 [^37a37b-1]
 
-[^37a37b-1]: Introdotti dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogati dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^37a37b-1]: Introdotti dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogati dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 38
 
 [^38-1]
 
-[^38-1]: Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^38-1]: Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 39
 
@@ -806,14 +807,14 @@ L’Amministrazione delle finanze può ammettere un computo delle prestazioni co
 
 <sup>4</sup> Per la fase iniziale della fornitura delle prestazioni, l’AFF può autorizzare deroghe temporanee al computo del costo pieno se l’unità amministrativa che fornisce le prestazioni dimostra che in futuro si potranno sfruttare economie di diversificazione o di scala. L’AFF disciplina i dettagli mediante istruzioni.[^41-2]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^41-2]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^41-2]: Introdotto dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Sezione 5: Trattamento di dati personali
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^chap3-sec5-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 42
 
@@ -840,9 +841,9 @@ Il trattamento di dati personali serve ad adempiere i compiti previsti dalla pre
 - g.[^42-6] l’esecuzione di processi concernenti le relazioni con i clienti.
 
 [^42-1]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
-[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
+[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5319)
 [^42-5]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 [^42-6]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
@@ -867,8 +868,8 @@ Ai fini dell’adempimento dei compiti possono essere trattati i seguenti dati p
 <sup>2</sup> I dati personali degli impiegati dell’Amministrazione federale possono essere ottenuti dal sistema d’informazione per la gestione dei dati del personale (art. 27 della legge del 24 marzo 2000[^43-2] sul personale federale) o dall’archivio centralizzato delle identità (art. 13 dell’ordinanza del 19 ottobre 2016[^43-3] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione).[^43-4]
 
 [^43-1]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^43-4]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
@@ -910,8 +911,8 @@ Tutte le unità amministrative della Confederazione:
 
 <sup>2</sup> Per il resto, per la comunicazione dei dati degli impiegati dell’Amministrazione federale ad altri sistemi d’informazione si applicano le condizioni di cui all’articolo 34 dell’ordinanza del 22 novembre 2017[^47-1] sulla protezione dei dati personali del personale federale.[^47-2]
 
-[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
-[^47-2]: Nuovo testo giusta l’all. 8 n. II 5 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
+[^47-2]: Nuovo testo giusta l’all. 8 cifra II n. 5 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 48
 
@@ -963,7 +964,7 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 <sup>4</sup> L’Amministrazione delle finanze coordina il rapporto da presentare al Consiglio federale.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 51
 
@@ -989,7 +990,7 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 [^52a-1]
 
-[^52a-1]: Introdotto dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^52a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Capitolo 4: Presentazione dei conti
 
@@ -999,20 +1000,21 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 **Norme di riferimento**[^53-1]
 
-### (art. 10 e 48 LFC)
+### (art. 48 LFC)
 
-<sup>1</sup> La presentazione dei conti è retta dagli *International Public Sector Accounting Standards*[^53-2] (IPSAS).
+<sup>1</sup> I nuovi principi contabili internazionali applicabili al settore pubblico (*International Public Sector Accounting Standards*; IPSAS) o le modifiche degli IPSAS esistenti vanno attuati entro il termine previsto dal comitato IPSAS (*International Public Sector Accounting Standards Board*).
 
-<sup>2</sup> Le deroghe sostanziali agli IPSAS sono disciplinate nell’allegato 2 e motivate nell’allegato del conto annuale.
+<sup>2</sup> In via eccezionale, l’AFF può posticipare l’attuazione di due anni al massimo se i lavori preparatori per l’attuazione interni all’Amministrazione federale richiedono più tempo o se risulta appropriato attuare congiuntamente diverse modifiche degli IPSAS.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^53-2]: www.ifac.org/public-sector
+<sup>3</sup> Le deroghe agli IPSAS sono motivate nell’allegato del conto annuale. Le deroghe sostanziali agli IPSAS sono inserite nell’allegato 2 nel quadro della prossima modifica della presente ordinanza, ma al più tardi due anni dopo il termine previsto dal comitato IPSAS.
+
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 #### Art. 54
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^54-1]: Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Sezione 2: ...
 
@@ -1020,7 +1022,7 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 [^5560-1]
 
-[^5560-1]: Abrogati dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^5560-1]: Abrogati dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ### Sezione 3: Generi di finanziamento particolari
 
@@ -1034,7 +1036,7 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 <sup>2</sup> Negli altri casi l’iscrizione a bilancio è effettuata sotto il capitale di terzi.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 62
 
@@ -1046,13 +1048,13 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 <sup>2</sup> Negli altri casi l’iscrizione a bilancio è effettuata sotto il capitale di terzi.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 63
 
 [^63-1]
 
-[^63-1]: Abrogato dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^63-1]: Abrogato dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 64
 
@@ -1076,19 +1078,19 @@ Riguardo alle liberalità di cui il Dipartimento delle finanze non è competente
 
 [^64a-1]
 
-[^64a-1]: Introdotto dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^64a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 64a<sup>bis</sup>
 
 [^64abis-1]
 
-[^64abis-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale) ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^64abis-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale) ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 64b a 64d
 
 [^64b64d-1]
 
-[^64b64d-1]: Introdotti dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogati dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^64b64d-1]: Introdotti dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogati dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Capitolo 5: Compiti e competenze dell’Amministrazione federale
 
@@ -1106,13 +1108,13 @@ Riguardo alle liberalità di cui il Dipartimento delle finanze non è competente
 
 <sup>3</sup> Le unità amministrative sono tenute ad adempiere tempestivamente i loro obblighi di pagamento.
 
-[^65-1]: Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^65-1]: Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 65a
 
 [^65a-1]
 
-[^65a-1]: Introdotto dal n. I dell’O del 21 mar. 2012 ([RU 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)). Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 21 mar. 2012 ([RU 2012 1599](https://fedlex.data.admin.ch/eli/oc/2012/230)). Abrogato dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 66
 
@@ -1136,7 +1138,7 @@ Riguardo alle liberalità di cui il Dipartimento delle finanze non è competente
 
 I termini di pagamento e le diffide sono retti dall’articolo 12 capoversi 2–4 dell’ordinanza generale dell’8 settembre 2004[^67-1] sugli emolumenti.
 
-[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 68
 
@@ -1194,7 +1196,7 @@ Se a causa di un credito d’impegno devono essere effettuati pagamenti in valut
 
 <sup>4</sup> L’Amministrazione delle finanze disciplina i dettagli mediante istruzioni.
 
-[^70a-1]: Introdotto dal n. I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^70a-1]: Introdotto dalla cifra I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
 
 #### Art. 71
 
@@ -1224,7 +1226,7 @@ Il Dipartimento delle finanze disciplina in un’ordinanza i principi dell’att
 
 <sup>2</sup> L’Amministrazione delle finanze definisce le condizioni generali della CRPF.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 72a
 
@@ -1264,10 +1266,10 @@ Le persone di cui al capoverso 2 lettere d ed f continuano ad avere diritto a un
 
 <sup>3</sup> Il Dipartimento delle finanze precisa la cerchia delle persone aventi diritto a un conto.
 
-[^72a-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/eli/cc/1990/254_254_254)
-[^72a-3]: Introdotta dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
-[^72a-4]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^72a-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5234)
+[^72a-3]: Introdotta dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^72a-4]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
 #### Art. 72b
 
@@ -1281,7 +1283,7 @@ Le persone di cui al capoverso 2 lettere d ed f continuano ad avere diritto a un
 
 <sup>3</sup> Se la relazione di conto non può essere sciolta, la CRPC procede secondo quanto previsto dall’articolo 60*b* capoverso 4 LFC.
 
-[^72b-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^72b-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 72c
 
@@ -1289,7 +1291,7 @@ Le persone di cui al capoverso 2 lettere d ed f continuano ad avere diritto a un
 
 Il Controllo federale delle finanze funge da organo di revisione esterno.
 
-[^72c-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^72c-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 72d
 
@@ -1311,7 +1313,7 @@ La CRPC tratta in forma cartacea e in un sistema d’informazione i seguenti dat
 
 <sup>3</sup> I dati del dossier del cliente sono conservati per dieci anni a decorrere dalla fine della relazione di conto. Allo scadere del termine di conservazione i dati sono distrutti.
 
-[^72d-1]: Introdotto dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^72d-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 #### Art. 73
 
@@ -1366,15 +1368,15 @@ Essa emana istruzioni segnatamente:
 - p. per l’incasso e l’esecuzione forzata (art. 67–69);
 - q. [^75-9] per la garanzia dei rischi di cambio (art. 70*a*).
 
-[^75-1]: Introdotta dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-2]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-4]: Abrogata dal n. I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^75-5]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-6]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-7]: Abrogate dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-8]: Introdotta dal n. I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogata dal n. I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^75-9]: Introdotta dal n. I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
+[^75-1]: Introdotta dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^75-2]: Introdotta dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-3]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-4]: Abrogata dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^75-5]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-6]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-7]: Abrogate dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-8]: Introdotta dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogata dalla cifra I dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^75-9]: Introdotta dalla cifra I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)).
 
 #### Art. 76
 
@@ -1398,7 +1400,7 @@ L’ordinanza dell’11 giugno 1990[^76-1] sulle finanze della Confederazione è
 
 La CRPF estingue le relazioni di conto dei titolari non domiciliati in Svizzera (art. 72*a* cpv. 2 lett. f) entro un anno dall’entrata in vigore della presente modifica. Se non può estinguere una relazione di conto, al più tardi dopo un anno dall’entrata in vigore della presente modifica la CRPF non fornisce più prestazioni di servizi. Può mantenere il conto senza più rimunerarlo.
 
-[^78-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+[^78-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
 #### Art. 79
 
@@ -1412,7 +1414,7 @@ Allegato 1[^t-1]
 
 ## Piano contabile generale della Confederazione (articolazione per tipi)
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 <table>
 <tr><th colspan="4">Bilancio</th><th colspan="4">Conto economico</th><th colspan="4">Conto degli investimenti</th></tr>
@@ -1433,7 +1435,7 @@ Allegato 2[^t-2]
 
 ## Deroghe del conto della Confederazione agli IPSAS
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 10 nov. 2021, in vigore dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 10 nov. 2021 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)). Aggiornato dalla cifra II dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 <table>
 <tr><th>N.</th><th>IPSAS</th><th>N.</th><th>Deroga</th></tr>
@@ -1441,8 +1443,9 @@ Allegato 2[^t-2]
 <tr><td>18</td><td>Presentazione delle informazioni per segmento</td><td>18</td><td>Si rinuncia a fornire una presentazione delle informazioni per segmento. Nel commento al conto annuale le uscite sono esposte per settori di compiti. L’esposizione è tuttavia effettuata nell’ottica del finanziamento e non nell’ottica dei risultati e non fornisce indicazioni sui valori di bilancio.</td></tr>
 <tr><td>23</td><td>Reddito derivante da operazioni non commerciali</td><td>23.1</td><td>I ricavi dell’imposta federale diretta sono contabilizzati secondo il principio che considera il momento in cui sorge il credito e non secondo il principio della conformità temporale. Per ragioni amministrative, i ricavi sono registrati un mese dopo che i Cantoni hanno emesso la fattura al contribuente.</td></tr>
 <tr><td></td><td></td><td>23.2</td><td>I ricavi dell’imposta sul valore aggiunto e della tassa sul traffico pesante commisurata alle prestazioni (TTPCP) sono contabilizzati con un differimento di un trimestre.</td></tr>
+<tr><td>43</td><td>Leasing</td><td>43</td><td>Lo standard non viene applicato. Di conseguenza, nel quadro di operazioni di leasing i diritti d’uso e le obbligazioni derivanti dal contratto di leasing non sono iscritti a bilancio. Per contro, al momento della scadenza le uscite sono addebitate al conto economico.</td></tr>
 </table>
 
 Allegato 3[^t-3]
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dal n. II cpv. 2 dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^t-3]: Introdotto dalla cifra II cpv. 2 dell’O del 5 dic. 2008 ([RU 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Abrogato dalla cifra II cpv. 2 dell’O del 10 nov. 2021, con effetto dal 1° gen 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
