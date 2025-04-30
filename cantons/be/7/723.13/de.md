@@ -4,13 +4,12 @@ number: "723.13"
 title: Dekret über das Normalbaureglement
 short: NBRD
 language: de
-version: 2020-08-01
-valid_until: 2025-04-30
-version_adopted: 2020-06-24
+version: 2025-05-01
+version_adopted: 2025-04-04
 adopted: 1970-02-10
 in_force: 1971-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/723.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1920/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1920/pdf_file"
 
 (NBRD)
 
-vom 10.02.1970 (Stand 01.08.2020)
+vom 10.02.1970 (Stand 01.05.2025)
 
 Der Grosse Rat des Kantons Bern,
 

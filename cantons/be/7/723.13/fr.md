@@ -4,13 +4,12 @@ number: "723.13"
 title: "Décret concernant le règlement-norme sur les constructions *"
 short: DRN
 language: fr
-version: 2020-08-01
-valid_until: 2025-04-30
-version_adopted: 2020-06-24
+version: 2025-05-01
+version_adopted: 2025-04-04
 adopted: 1970-02-10
 in_force: 1971-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/723.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1920/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3165/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1920/pdf_file"
 
 (DRN)
 
-du 10.02.1970 (état au 01.08.2020)
+du 10.02.1970 (état au 01.05.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -181,7 +180,7 @@ décrète:
 
 <sup>4</sup> Les parties de construction saillantes et ouvertes, telles qu'avant-toits, perrons, balcons, peuvent empiéter sur la distance à la limite, mais de 1,20 mètres au maximum à compter du plan de façade.
 
-<sup>5</sup> Dans la zone à bâtir, les distances à la limite sont régies par l’alinéa 1. Dans les zones affectées à des besoins publics, les distances à la limite des zones d’affectation attenantes s’appliquent.
+<sup>5</sup> Par rapport à la limite de la zone à bâtir, les distances sont régies par l’alinéa 1. Dans les zones affectées à des besoins publics, les distances à la limite des zones d’affectation attenantes s’appliquent.
 
 #### Art. 13
 
