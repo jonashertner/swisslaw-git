@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2022-05-01
+version: 2025-05-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220501-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/de"
 
 (Covid-19-Härtefallverordnung 2020, HFMV 20)[^t-1]
 
-vom 25. November 2020 (Stand am 1. Mai 2022)
+vom 25. November 2020 (Stand am 1. Mai 2025)
 
 [^t-1]: Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
@@ -38,13 +38,17 @@ verordnet:
 
 #### Art. 1
 
-## 2. Abschnitt: …
+## 2. Abschnitt: Anforderungen an die Unternehmen
 
 [^sec2-1]
 
-[^sec2-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
+[^sec2-1]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 #### Art. 2
+
+[^2-1]
+
+[^2-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
 
 #### Art. 2a
 
@@ -53,6 +57,10 @@ verordnet:
 [^2a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 
 #### Art. 3–5
+
+[^35-1]
+
+[^35-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
 
 #### Art. 5a
 
@@ -67,6 +75,19 @@ verordnet:
 [^5b-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 6
+
+**Einschränkung der Verwendung**
+
+<sup>1</sup> …[^6-1]
+
+<sup>2</sup> Erzielt ein Einzelunternehmen, das nicht rückzahlbare Beiträge erhalten hat, bei der definitiven Geschäftsaufgabe einen Liquidationsgewinn, so gelten diesbezüglich die Anforderungen nach Absatz 1 Buchstabe a in der jeweils gültigen Fassung vom 25. November 2020[^6-2], 18. Dezember 2020[^6-3], 13. Januar 2021[^6-4] oder 31. März 2021[^6-5] als eingehalten.[^6-6]
+
+[^6-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
+[^6-2]: [AS 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875)
+[^6-3]: [AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)
+[^6-4]: [AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)
+[^6-5]: [AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)
+[^6-6]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## 3. Abschnitt: Anforderungen an die Ausgestaltung der Härtefallmassnahmen
 
@@ -223,9 +244,17 @@ Die Berichterstattung der Kantone über die geleisteten und die zugesicherten Un
 
 **Rückforderung**[^19-1]
 
-Der Bund kann Auszahlungen an Kantone zurückhalten oder geleistete Zahlungen von einem Kanton zurückfordern, wenn sich herausstellt, dass die Anforderungen dieser Verordnung oder des Vertrags nach Artikel 16 nicht eingehalten worden sind.
+<sup>1</sup> Der Bund kann Auszahlungen an Kantone zurückhalten oder geleistete Zahlungen von einem Kanton zurückfordern, wenn sich herausstellt, dass die Anforderungen dieser Verordnung oder des Vertrags nach Artikel 16 nicht eingehalten worden sind.
+
+<sup>2</sup>
+
+Hat ein Kanton vor dem Inkrafttreten der Änderung vom 2. April 2025 gegenüber einem Einzelunternehmen, das bei der definitiven Geschäftsaufgabe einen Liquidationsgewinn nach Artikel 6 Absatz 2 erzielt hat, auf eine Rückforderung der nicht rückzahlbaren Beiträge verzichtet oder verzichtet er nach dem Inkrafttreten dieser Änderung darauf, so:
+
+- a. muss er dem Bund diesbezüglich keine Rückzahlung leisten;
+- b. kann er diesbezüglich bereits geleistete Rückzahlungen an den Bund von diesem zurückfordern.[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
+[^19-2]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## 6. Abschnitt: Nachlassverfahren, Kapitalverlust und Überschuldung
 

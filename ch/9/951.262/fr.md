@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2022-05-01
+version: 2025-05-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220501-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/fr"
 
 (Ordonnance COVID-19 cas de rigueur 2020, OMCR 20)[^t-1]
 
-du 25 novembre 2020 (État le 1<sup>er</sup> mai 2022)
+du 25 novembre 2020 (État le 1<sup>er</sup> mai 2025)
 
 [^t-1]: Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
@@ -38,13 +38,17 @@ arrête:
 
 #### Art. 1
 
-## Section 2 …
+## Section 2 Exigences relatives aux entreprises
 
 [^sec2-1]
 
-[^sec2-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
+[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 #### Art. 2
+
+[^2-1]
+
+[^2-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
 
 #### Art. 2a
 
@@ -53,6 +57,10 @@ arrête:
 [^2a-1]: Introduit par le ch. I de l’O du 18 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 3 à 5
+
+[^35-1]
+
+[^35-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
 
 #### Art. 5a
 
@@ -67,6 +75,19 @@ arrête:
 [^5b-1]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 6
+
+**Restriction de l’utilisation**
+
+<sup>1</sup> …[^6-1]
+
+<sup>2</sup> Dès lors qu’une entreprise individuelle qui a obtenu des contributions non remboursables réalise un bénéfice de liquidation au moment de la cessation définitive de ses activités, les exigences prévues à l’al. 1, let. a, dans sa version en vigueur respectivement du 25 novembre 2020[^6-2], du 18 décembre 2020[^6-3], du 13 janvier 2021[^6-4] ou du 31 mars 2021[^6-5], sont considérées comme respectées en ce qui concerne ce cas de figure.[^6-6]
+
+[^6-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
+[^6-2]: [RO 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875)
+[^6-3]: [RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)
+[^6-4]: [RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)
+[^6-5]: [RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)
+[^6-6]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Section 3 Exigences relatives à la forme des mesures pour les cas de rigueur
 
@@ -223,9 +244,17 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 **Remboursement**[^19-1]
 
-La Confédération peut retenir des paiements destinés à un canton ou réclamer le remboursement des versements effectués à un canton s’il apparaît que les exigences de la présente ordonnance ou du contrat visé à l’art. 16 n’ont pas été respectées.
+<sup>1</sup> La Confédération peut retenir des paiements destinés à un canton ou réclamer le remboursement des versements effectués à un canton s’il apparaît que les exigences de la présente ordonnance ou du contrat visé à l’art. 16 n’ont pas été respectées.
+
+<sup>2</sup>
+
+Dès lors qu’un canton a renoncé, avant l’entrée vigueur de la modification du 2 avril 2025, ou renonce, après l’entrée en vigueur de cette modification, à demander la restitution des contributions non remboursables à une entreprise individuelle qui a réalisé un bénéfice de liquidation au sens de l’art. 6, al. 2, au moment de la cessation définitive de ses activités:
+
+- a. il ne doit rien rembourser à la Confédération en ce qui concerne ce cas de figure;
+- b. il peut réclamer à la Confédération les montants qu’il lui a déjà remboursés en ce qui concerne ce cas de figure.[^19-2]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). En vigueur jusqu’au 31 déc. 2031 (art. 23, al. 5).
+[^19-2]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Section 6 Procédure concordataire, perte de capital et surendettement
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2022-05-01
+version: 2025-05-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220501-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/it"
 
 (Ordinanza COVID-19 casi di rigore 2020, OPCR 20)[^t-1]
 
-del 25 novembre 2020 (Stato 1° maggio 2022)
+del 25 novembre 2020 (Stato 1° maggio 2025)
 
 [^t-1]: Nuovo testo giusta l’art 19 dell’O del 2 feb. 2022 sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19 nel 2022, in vigore dall’8 feb. 2022 al 31 dic. 2031 ([RU 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
@@ -38,13 +38,17 @@ ordina:
 
 #### Art. 1
 
-## Sezione 2: ...
+## Sezione 2: Requisiti delle imprese
 
 [^sec2-1]
 
-[^sec2-1]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 #### Art. 2
+
+[^2-1]
+
+[^2-1]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).
 
 #### Art. 2a
 
@@ -53,6 +57,10 @@ ordina:
 [^2a-1]: Introdotto dalla cifra I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 
 #### Art. 3 a 5
+
+[^35-1]
+
+[^35-1]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).
 
 #### Art. 5a
 
@@ -67,6 +75,19 @@ ordina:
 [^5b-1]: Introdotto dalla cifra I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 6
+
+**Limitazione dell’impiego**
+
+<sup>1</sup> ...[^6-1]
+
+<sup>2</sup> Se un’impresa individuale che ha percepito contributi non rimborsabili consegue un utile di liquidazione al momento della cessazione definitiva dell’attività, per quel che concerne tale utile i requisiti di cui al capoverso 1 lettera a nella relativa versione in vigore, rispettivamente del 25 novembre 2020[^6-2], del 18 dicembre 2020[^6-3], del 13 gennaio 2021[^6-4] o del 31 marzo 2021[^6-5], sono considerati rispettati.[^6-6]
+
+[^6-1]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).
+[^6-2]: [RU 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875)
+[^6-3]: [RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)
+[^6-4]: [RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)
+[^6-5]: [RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)
+[^6-6]: Introdotto dalla cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Sezione 3: Requisiti concernenti l’impostazione dei provvedimenti per i casi di rigore
 
@@ -223,9 +244,17 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 **Restituzione**[^19-1]
 
-La Confederazione può trattenere i pagamenti ai Cantoni o chiedere la restituzione dei pagamenti versati a un Cantone se risulta che i requisiti della presente ordinanza o del contratto di cui all’articolo 16 non sono stati rispettati.
+<sup>1</sup> La Confederazione può trattenere i pagamenti ai Cantoni o chiedere la restituzione dei pagamenti versati a un Cantone se risulta che i requisiti della presente ordinanza o del contratto di cui all’articolo 16 non sono stati rispettati.
+
+<sup>2</sup>
+
+Se ha rinunciato, prima dell’entrata in vigore della modifica del 2 aprile 2025, o rinuncia, dopo l’entrata in vigore di tale modifica, a chiedere la restituzione dei contributi non rimborsabili a un’impresa individuale che al momento della cessazione definitiva dell’attività ha conseguito un utile di liquidazione secondo l’articolo 6 capoverso 2, per quel che concerne tale utile il Cantone:
+
+- a. non è tenuto a rimborsare la Confederazione;
+- b. può chiedere alla Confederazione la restituzione dei rimborsi già effettuati.[^19-2]
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). In vigore fino al 31 dic. 2031 (art. 23 cpv. 5).
+[^19-2]: Introdotto dalla cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 238](https://fedlex.data.admin.ch/eli/oc/2025/238)).
 
 ## Sezione 6: Procedura concordataria, perdita di capitale ed eccedenza dei debiti
 
