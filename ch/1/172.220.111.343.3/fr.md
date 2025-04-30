@@ -4,11 +4,11 @@ title: "Ordonnance du DFAE du 20 septembre 2002 concernant l'ordonnance sur le p
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/fr"
 
 (O-OPers – DFAE)
 
-du 20 septembre 2002 (État le 1<sup>er</sup> janvier 2024)
+du 20 septembre 2002 (État le 1<sup>er</sup> mai 2025)
 
 Le Département fédéral des affaires étrangères (DFAE), en accord avec le Département fédéral des finances (DFF),
 
@@ -54,9 +54,10 @@ Les employés du département appartiennent soit aux services généraux, soit a
 
 - a. la carrière diplomatique;
 - b. la carrière de coopération internationale;
-- c. la carrière affaires consulaires, gestion et finances;
+- c.[^2-2] la carrière consulaire, qui comprend le personnel consulaire de direction et le personnel consulaire spécialisé.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 3
 
@@ -267,31 +268,66 @@ Les conditions à remplir pour être engagé dans les carrières au sens de l’
 
 <sup>2</sup> Les candidats à un engagement dans la carrière diplomatique ou dans la carrière de coopération internationale doivent être âgées de 30 ans au plus pendant l’année de la sélection.
 
-<sup>3</sup> Aucune limite d’âge ne s’applique à un engagement dans la carrière affaires consulaires, gestion et finances.
+<sup>3</sup> Aucune limite d’âge ne s’applique à un engagement dans la carrière consulaire.[^14-2]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 15
 
-**Admission à la formation**
+**Conditions d’admission à la formation**[^15-1]
 
 ### (art. 24 OPers)
 
 <sup>1</sup> Les candidats ne peuvent postuler, au cours d’une même année, que pour être admis à l’une des carrières au sens de l’art. 2.
 
-<sup>2</sup> Les candidats à l’admission à la carrière diplomatique ou à la carrière de coopération internationale doivent remplir les conditions fixées à l’art. 13, mais aussi être titulaires d’un diplôme d’une haute école de niveau master ou d’une formation jugée équivalente.
+<sup>2</sup>
 
-<sup>3</sup> Les candidats à l’admission à la carrière affaires consulaires, gestion et finances doivent remplir les conditions fixées à l’art. 13, mais aussi être titulaires d’un diplôme d’une haute école de niveau bachelor en économie ou en finances, avoir réussi un examen professionnel supérieur, ou disposer d’un diplôme d’une haute école spécialisée dans les domaines de l’économie, du personnel, de l’administration ou des finances et de la comptabilité, ou d’une qualification jugée équivalente.
+Les candidats à l’admission à la carrière diplomatique ou à la carrière de coopération internationale doivent:
 
-<sup>4</sup> Les candidatures qui, à la date limite du dépôt de candidature, ne remplissent pas toutes les conditions d’engagement dans les carrières (art. 13, al. 1, let. b à d, et 2, 14 et 15, al. 1 à 3 et 7) sont éliminées dans le cadre d’une présélection administrative.[^15-1]
+- a. remplir les conditions d’engagement fixées à l’art. 13, al. 1, let. b à d, et 2;
+- b. ne pas avoir dépassé l’âge limite fixé à l’art. 14, al. 2, et
+- c. être titulaires d’un diplôme d’une haute école de niveau master ou d’un titre jugé équivalent.
 
-<sup>5</sup> À la suite de la présélection administrative, une sélection qualitative permet de déterminer quels candidats sont autorisés à se présenter aux examens de la procédure d’admission.
+<sup>3</sup>
 
-<sup>6</sup> Le chef de département décide quels candidats sont admis à la formation sur la base des résultats des examens et en tenant compte de la recommandation de la commission d’admission compétente.
+Les candidats à l’admission à la carrière consulaire doivent:
 
-<sup>7</sup> Les candidats qui ne sont pas admis à la formation peuvent se représenter une fois à la procédure d’admission I, pour autant qu’ils remplissent encore les conditions d’engagement et qu’ils soient autorisés de nouveau à se présenter aux examens dans le cadre de la sélection qualitative (al. 5).
+- a. remplir les conditions d’engagement fixées à l’art. 13, al. 1, let. b à d, et
+- b.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 30 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+  justifier de l’une des qualifications suivantes:
+
+  - 1\. pour une admission en tant que membre du personnel consulaire de direction, un diplôme d’une haute école de niveau bachelor ou un titre jugé équivalent,
+  - 2\. pour une admission en tant que membre du personnel consulaire spécialisé, une formation commerciale de base ou une formation jugée équivalente.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 15a
+
+**Admission à la formation**[^15a-1]
+
+### (art. 24 OPers)
+
+<sup>1</sup> Dans le cadre d’une présélection administrative, la DR élimine les candidatures qui, à la date limite du dépôt de candidature, ne remplissent pas toutes les conditions prévues aux art. 15 et 15*a*, al. 4.
+
+<sup>2</sup>
+
+Dans le cadre d’une présélection qualitative, la décision d’admission aux examens de la procédure d’admission I est prise par:
+
+- a. la commission d’admission compétente pour la carrière diplomatique, la carrière de coopération internationale et le personnel consulaire de direction de la carrière consulaire;
+- b. la DR pour le personnel consulaire spécialisé de la carrière consulaire.
+
+<sup>3</sup>
+
+La décision d’admission à la formation est prise, sur la base des résultats des examens, par:
+
+- a. le chef du département pour la carrière diplomatique, la carrière de coopération internationale et le personnel consulaire de direction de la carrière consulaire; il tient compte de la recommandation de la commission d’admission compétente;
+- b. le directeur de la DR pour le personnel consulaire spécialisé de la carrière consulaire.
+
+<sup>4</sup> Les candidats qui ne sont pas admis à la formation peuvent se représenter une fois à la procédure d’admission I, pour autant qu’ils remplissent encore les conditions fixées à l’art. 15 et qu’ils soient autorisés de nouveau à se présenter aux examens dans le cadre de la présélection qualitative.
+
+[^15a-1]: Introduit par le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 16
 
@@ -311,13 +347,20 @@ Les conditions à remplir pour être engagé dans les carrières au sens de l’
 
 #### Art. 17
 
-**Engagement de durée indéterminée**
+**Engagement de durée indéterminée**[^17-1]
 
-<sup>1</sup> La DR décide, sur la base des résultats de la formation et de l’évaluation finale, et en tenant compte de la recommandation de la commission d’admission compétente, de l’engagement du candidat pour une durée indéterminée.[^17-1]
+### (art. 24 OPers)
+
+<sup>1</sup>
+
+La décision d’engager un candidat pour une durée indéterminée est prise par:
+
+- a. le directeur de la DR, avec l’accord du chef du département, pour la carrière diplomatique, la carrière de coopération internationale et le personnel consulaire de direction de la carrière consulaire; il se fonde sur les résultats de la formation et de l’évaluation finale et tient compte de la recommandation de la commission d’admission compétente;
+- b. le chef du personnel du DFAE pour les membres du personnel consulaire spécialisé de la carrière consulaire; il se fonde sur les résultats de l’évaluation réalisée pendant la formation.
 
 <sup>2</sup> La durée de la formation (art. 16, al. 2) est prise en compte comme expérience professionnelle lors de la fixation du salaire.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 18
 
@@ -348,6 +391,30 @@ Le contrat de travail régit en particulier:
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
+### Section 3*a* Procédure de changement au sein de la carrière consulaire
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introduite par le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 19a
+
+<sup>1</sup>
+
+Les employés qui appartiennent au personnel consulaire spécialisé de la carrière consulaire peuvent postuler pour passer au sein du personnel consulaire de direction, pour autant qu’ils remplissent, en plus des conditions d’engagement fixées à l’art. 13, al. 1, let. b à d, l’une des conditions suivantes:
+
+- a. ils sont titulaires d’un diplôme d’une haute école de niveau bachelor ou d’un titre jugé équivalent;
+- b.
+
+  ils peuvent justifier des expériences suivantes:
+
+  - 1\. être depuis au moins cinq ans membre du personnel consulaire spécialisé de la carrière consulaire,
+  - 2\. avoir déjà effectué une affectation à un poste de membre du personnel consulaire de direction et être en mesure de présenter au moins une évaluation des prestations pour cette affectation.
+
+<sup>2</sup> Sont vérifiées l’aptitude générale ainsi que les conditions professionnelles et personnelles requises pour un passage du personnel consulaire spécialisé au personnel consulaire de direction.
+
+<sup>3</sup> Le chef du département décide, sur la base des résultats de cette vérification et en tenant compte de la recommandation de la commission d’admission compétente, du passage du personnel consulaire spécialisé au personnel consulaire de direction.
+
 ### Section 4 Commissions d’admission
 
 #### Art. 20
@@ -358,32 +425,26 @@ Le département nomme une commission d’admission pour chacune des carrières a
 
 #### Art. 21
 
-**Compétence**[^21-1]
+**Recommandations de la commission d’admission compétente**[^21-1]
 
-<sup>1</sup> La commission d’admission compétente procède à la sélection qualitative en amont de la procédure d’admission I (art. 15, al. 5).
+<sup>1</sup>
 
-<sup>2</sup>
+Dans le cadre de la procédure d’admission I pour la carrière diplomatique, la carrière de coopération internationale et le personnel consulaire de direction de la carrière consulaire, la commission d’admission compétente formule une recommandation:
 
-Dans le cadre de la procédure d’admission I, elle formule une recommandation:
+- a. à l’intention du chef du département en vue de l’admission à la formation (art. 15*a*, al. 3, let. a);
+- b. à l’intention du directeur de la DR en vue d’un engagement de durée indéterminée (art. 17, al. 1, let. a).
 
-- a. à l’intention du chef du département en vue de l’admission à la formation (art. 15, al. 6);
-- b. à l’intention de la DR en vue d’un engagement de durée indéterminée (art. 17, al. 1).
+<sup>2</sup> Dans le cadre de la procédure de passage du personnel consulaire spécialisé au personnel consulaire de direction, elle formule une recommandation à l’intention du chef du département (art. 19*a*, al. 3).
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
-### Section 5 Conditions générales d’engagement pour les collaborateurs spécialisés
-
-[^chap3-sec5-1]
-
-[^chap3-sec5-1]: Introduite par le ch. I de l’O du DFAE du 30 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+### Section 5 …
 
 #### Art. 21a
 
-Toute personne engagée en qualité de collaborateur spécialisé doit:
+[^21a-1]
 
-- a. avoir une réputation irréprochable;
-- b. posséder la nationalité suisse;
-- c. se déclarer disposée à se soumettre à la discipline des transferts.
+[^21a-1]: Introduit par le ch. I de l’O du DFAE du 30 oct. 2020 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)). Abrogé par le ch. I de l’O du DFAE du 31 mars 2025, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ## Chapitre 3*a* Indexation des lieux d’affectation
 
@@ -688,7 +749,7 @@ Les employés affectés à l’étranger ont droit à:[^56-1]
 - b. sept semaines de vacances à partir du début de l’année civile pendant laquelle ils atteignent l’âge de 50 ans révolus;
 - c. huit semaines de vacances à partir du début de l’année civile pendant laquelle ils atteignent l’âge de 60 ans révolus.
 
-<sup>2 et <sup>3</sup></sup> ...[^56-2]
+<sup>2 et <sup>3</sup></sup> …[^56-2]
 
 <sup>4</sup> Lorsqu’une affectation à l’étranger commence ou se termine en cours d’année civile, le droit aux vacances se calcule au prorata de la durée du séjour à l’étranger et en Suisse.[^56-3]
 
@@ -2306,6 +2367,17 @@ Le salaire des employés au sens de l’art. 2, al. 2, let. b, de l’ancien dro
 Les contributions aux frais de formation en Suisse qui ont déjà été accordées aux employés à l’entrée en vigueur de la modification du 30 octobre 2020 en vertu de l’art. 130 de l’ancien droit peuvent être allouées selon l’ancien droit jusqu’au prochain transfert à l’étranger, mais jusqu’au 31 juillet 2023 au plus tard.
 
 [^161e-1]: Introduit par le ch. I de l’O du DFAE du 30 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+
+#### Art. 161f
+
+**Dispositions transitoires relatives à la modification du 31 mars 2025: appartenance aux services**[^161f-1]
+
+À partir du 1<sup>er</sup> avril 2025, l’appartenance aux services est la suivante:
+
+- a. les employés de la carrière affaires consulaires, gestion et finances au sens de l’art. 2, let. c, de l’ancien droit appartiennent au personnel consulaire de direction de la carrière consulaire au sens de l’art. 2, let. c, du nouveau droit;
+- b. les employés du personnel spécialisé au sens de l’art. 2 de l’ancien droit qui exercent des fonctions consulaires appartiennent au personnel consulaire spécialisé de la carrière consulaire au sens de l’art. 2, let. c, du nouveau droit.
+
+[^161f-1]: Introduit par le ch. I de l’O du DFAE du 31 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ### Section 4 Entrée en vigueur
 

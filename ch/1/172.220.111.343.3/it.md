@@ -4,11 +4,11 @@ title: "Ordinanza del DFAE del 20 settembre 2002 concernente l'ordinanza sul per
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: it
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/it"
 
 (O-OPers–DFAE)
 
-del 20 settembre 2002 (Stato 1° gennaio 2024)
+del 20 settembre 2002 (Stato 1° maggio 2025)
 
 Il Dipartimento federale degli affari esteri (DFAE), d’intesa con il Dipartimento federale delle finanze (DFF),
 
@@ -26,7 +26,7 @@ visti gli articoli 2 capoverso 4, 48 capoverso 2, 52 capoverso 5, 70 capoverso 3
 ordina:
 
 [^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -50,9 +50,10 @@ Gli impiegati del DFAE appartengono ai servizi generali, al personale specializz
 
 - a. carriera diplomatica;
 - b. carriera cooperazione internazionale (CI);
-- c. carriera affari consolari, gestione e finanze.
+- c.[^2-2] carriera consolare, composta dal personale consolare con funzioni dirigenziali e dal personale consolare specializzato.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 3
 
@@ -74,12 +75,12 @@ Nella presente ordinanza si intende per:
 - e. *figlio*: ogni figlio per il quale l’impiegato ha diritto all’assegno familiare[^3-5] conformemente all’articolo 51 OPers;
 - f.[^3-6] ...
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^3-2]: Introdotta dal n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^3-5]: Nuova espr. giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^3-6]: Abrogata dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^3-2]: Introdotta dalla cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^3-5]: Nuova espr. giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-6]: Abrogata dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ### Sezione 2: Competenza in materia di decisioni del datore di lavoro
 
@@ -94,14 +95,14 @@ Per costituire, modificare e risolvere il rapporto di lavoro sono competenti:
 - a.[^4-2] il DFAE, fatto salvo l’articolo 2 capoverso 1 OPers, per gli impiegati nelle classi di stipendio 32–38 e per gli impiegati di cui all’articolo 2 capoverso 1<sup>bis</sup> OPers;
 - b. la Direzione delle risorse (DR), fatto salvo l’articolo 6, per gli impiegati nelle classi di stipendio 1–31.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^5-1]: Abrogato dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 6
 
@@ -131,10 +132,10 @@ In merito al trasferimento di impiegati soggetti all’obbligo di trasferimento 
 - d.[^6-4] ...
 - e. la DR per gli altri impiegati.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^6-3]: Introdotto dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^6-4]: Abrogata dal n. I dell’O del DFAE del 30 ott. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^6-3]: Introdotto dalla cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^6-4]: Abrogata dalla cifra I dell’O del DFAE del 30 ott. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 #### Art. 7
 
@@ -155,10 +156,10 @@ La DR rilascia le autorizzazioni per:
 
 <sup>2</sup> Le competenze per le altre autorizzazioni si basano sull’articolo 9.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
 [^7-2]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
 [^7-3]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^7-4]: Abrogata dal n. I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^7-4]: Abrogata dalla cifra I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 #### Art. 8
 
@@ -168,7 +169,7 @@ La DR rilascia le autorizzazioni per:
 
 La DR è competente per il conferimento di titoli diplomatici e consolari in quanto non corrispondano al rango di capomissione.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 #### Art. 9
 
@@ -184,16 +185,16 @@ Per le decisioni del datore di lavoro non menzionate negli articoli 4–8 sono c
 - b.[^9-4] ...
 - c. la DR per gli altri impiegati.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^9-4]: Abrogata dal n. I dell’O del DFAE del 9 mar. 2014, con effetto dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^9-4]: Abrogata dalla cifra I dell’O del DFAE del 9 mar. 2014, con effetto dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 ## Capitolo 2: Valutazione del personale nelle carriere
 
 [^chap2-1]
 
-[^chap2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 10
 
@@ -203,7 +204,7 @@ Per le decisioni del datore di lavoro non menzionate negli articoli 4–8 sono c
 
 La valutazione del personale nelle carriere di cui all’articolo 2 comprende la valutazione delle prestazioni nell’ambito del ciclo di gestione annuale (*Management by Objectives*, MbO) nonché le valutazioni effettuate in vista dello sviluppo professionale all’interno del DFAE, in particolare la valutazione periodica del potenziale e test attitudinali.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 11
 
@@ -221,19 +222,19 @@ La valutazione del personale nelle carriere di cui all’articolo 2 comprende la
 
 <sup>5</sup> Nelle rappresentanze integrate la valutazione delle prestazioni del capomissione è eseguita congiuntamente dalla Direzione politica e dalla DSC ed è sottoscritta da entrambe le direzioni.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 #### Art. 12
 
 [^12-1]
 
-[^12-1]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^12-1]: Abrogato dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ## Capitolo 3: Costituzione, modifica e risoluzione del rapporto di lavoro
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ### Sezione 1: Condizioni generali di assunzione nelle carriere
 
@@ -264,31 +265,66 @@ La persona assunta in una delle carriere di cui all’articolo 2 deve:
 
 <sup>2</sup> I candidati alla carriera diplomatica o alla carriera CI devono avere al massimo 30 anni nell’anno della selezione.
 
-<sup>3</sup> Per l’assunzione nella carriera affari consolari, gestione e finanze non vi è alcun limite d’età.
+<sup>3</sup> Per l’assunzione nella carriera consolare non vi è alcun limite d’età.[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 15
 
-**Ammissione alla formazione**
+**Condizioni per l’ammissione alla formazione**[^15-1]
 
 ### (art. 24 OPers)
 
 <sup>1</sup> Nello stesso anno i candidati possono candidarsi solo per l’ammissione a una delle carriere di cui all’articolo 2.
 
-<sup>2</sup> Oltre alle condizioni di cui all’articolo 13, chi si candida per l’ammissione alla carriera diplomatica o alla carriera CI deve dimostrare di avere ottenuto un diploma di scuola universitaria a livello master o di disporre di una formazione equivalente.
+<sup>2</sup>
 
-<sup>3</sup> Oltre alle condizioni di cui all’articolo 13, chi si candida per l’ammissione alla carriera affari consolari, gestione e finanze deve dimostrare di aver ottenuto un diploma di scuola universitaria a livello bachelor in economia o finanze, di aver superato un esame professionale superiore o di avere un diploma di scuola specializzata superiore in economia, gestione del personale, amministrazione o finanze e contabilità, oppure di disporre di una qualifica equivalente.
+Chi si candida per l’ammissione alla carriera diplomatica o alla carriera CI:
 
-<sup>4</sup> Le candidature che, entro il termine previsto per la loro presentazione, non rispettano tutte le condizioni per un’assunzione nelle carriere (art. 13 cpv. 1 lett. b–d e 2, art. 14 e art. 15 cpv. 1–3 e 7) sono respinte nell’ambito di una preselezione amministrativa.[^15-1]
+- a. deve soddisfare le condizioni di assunzione di cui all’articolo 13 capoversi 1 lettere b–d e 2;
+- b. non deve aver superato l’età massima di cui all’articolo 14 capoverso 2; e
+- c. deve dimostrare di avere ottenuto un diploma di scuola universitaria a livello master o di disporre di una formazione equivalente.
 
-<sup>5</sup> Dopo la preselezione amministrativa ha luogo una preselezione qualitativa in cui si decide quali candidati sono ammessi agli esami della procedura di ammissione.
+<sup>3</sup>
 
-<sup>6</sup> Sulla base dei risultati degli esami e tenendo conto delle raccomandazioni della commissione di ammissione competente, il capo del Dipartimento decide quali candidati sono ammessi alla formazione.
+Chi si candida per l’ammissione alla carriera consolare:
 
-<sup>7</sup> I candidati non ammessi alla formazione possono ripetere una volta la procedura di ammissione I, se adempiono ancora le condizioni di assunzione e se nell’ambito della procedura di preselezione qualitativa (cpv. 5) vengono nuovamente ammessi agli esami.
+- a. deve soddisfare le condizioni di assunzione di cui all’articolo 13 capoverso 1 lettere b−d; e
+- b.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+  deve dimostrare di disporre di una delle qualifiche seguenti:
+
+  - 1\. in caso di candidatura come membro del personale consolare con funzioni dirigenziali: diploma di scuola universitaria a livello bachelor o formazione equivalente,
+  - 2\. in caso di candidatura come membro del personale consolare specializzato: formazione di base commerciale o formazione equivalente.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 15a
+
+**Ammissione alla formazione**[^15a-1]
+
+### (art. 24 OPers)
+
+<sup>1</sup> Nell’ambito di una preselezione amministrativa, la DR respinge le candidature che, entro il termine previsto per la loro presentazione, non rispettano tutte le condizioni di cui agli articoli 15 e 15*a* capoverso 4.
+
+<sup>2</sup>
+
+Nell’ambito di una preselezione qualitativa, in merito all’ammissione agli esami della procedura di ammissione I decide:
+
+- a. la commissione di ammissione competente per quanto concerne la carriera diplomatica, la carriera CI e il personale consolare con funzioni dirigenziali della carriera consolare;
+- b. la DR per quanto concerne il personale consolare specializzato della carriera consolare.
+
+<sup>3</sup>
+
+Sulla base dei risultati degli esami, in merito all’ammissione alla formazione decide:
+
+- a. il capo del Dipartimento per quanto concerne la carriera diplomatica, la carriera CI e il personale consolare con funzioni dirigenziali della carriera consolare; a tal fine tiene conto della raccomandazione della commissione di ammissione competente;
+- b. il direttore della DR per quanto concerne il personale consolare specializzato della carriera consolare.
+
+<sup>4</sup> Chi non è ammesso alla formazione può ripetere una volta la procedura di ammissione I se adempie ancora le condizioni di assunzione di cui all’articolo 15 e se nell’ambito della procedura di preselezione qualitativa viene nuovamente ammesso agli esami.
+
+[^15a-1]: Introdotto dalla cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 16
 
@@ -304,17 +340,24 @@ La persona assunta in una delle carriere di cui all’articolo 2 deve:
 
 <sup>4</sup> Al termine della formazione ha luogo una valutazione finale dei candidati.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 #### Art. 17
 
-**Assunzione a tempo indeterminato**
+**Assunzione a tempo indeterminato**[^17-1]
 
-<sup>1</sup> La DR decide in merito all’assunzione a tempo indeterminato dei candidati sulla base dei risultati della formazione e della valutazione finale e tenendo conto delle raccomandazioni della commissione di ammissione competente.[^17-1]
+### (art. 24 OPers)
+
+<sup>1</sup>
+
+In merito a un’assunzione a tempo indeterminato decide:
+
+- a. per quanto concerne i candidati alla carriera diplomatica, alla carriera CI e per il personale consolare con funzioni dirigenziali della carriera consolare: il direttore della DR, con l’accordo del capo del Dipartimento, sulla base dei risultati della formazione e della valutazione finale e tenendo conto della raccomandazione della commissione di ammissione competente;
+- b. per quanto concerne i candidati per il personale consolare specializzato della carriera consolare: il capo del personale del DFAE sulla base dei risultati della valutazione effettuata durante la formazione.
 
 <sup>2</sup> Per la fissazione dello stipendio la durata della formazione (art. 16 cpv. 2) è calcolata come esperienza professionale.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 18
 
@@ -343,7 +386,31 @@ Il contratto di lavoro disciplina in particolare:
 
 <sup>4</sup> Il capo del Dipartimento decide in merito all’assunzione dei candidati sulla base dei risultati della procedura di selezione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
+### Sezione 3*a*: Procedura di mutazione all’interno della carriera consolare
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introdotta dalla cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 19a
+
+<sup>1</sup>
+
+Gli impiegati che appartengono al personale consolare specializzato della carriera consolare possono candidarsi per una mutazione al fine di passare al personale consolare con funzioni dirigenziali se, oltre alle condizioni di assunzione di cui all’articolo 13 capoverso 1 lettere b−d, soddisfano una delle condizioni seguenti:
+
+- a. dimostrano di avere ottenuto un diploma di scuola universitaria a livello bachelor o di disporre di una formazione equivalente;
+- b.
+
+  dispongono delle seguenti esperienze comprovate:
+
+  - 1\. sono da almeno cinque anni membri del personale consolare specializzato della carriera consolare,
+  - 2\. sono già stati impiegati in un posto relativo al personale consolare con funzioni dirigenziali e possono dimostrare di disporre di almeno una valutazione delle prestazioni per tale impiego.
+
+<sup>2</sup> Vengono verificati l’idoneità generale nonché il possesso dei requisiti professionali e personali per una mutazione dal personale consolare specializzato al personale consolare con funzioni dirigenziali.
+
+<sup>3</sup> Il capo del Dipartimento decide in merito alla mutazione dal personale consolare specializzato al personale consolare con funzioni dirigenziali sulla base dei risultati della verifica e tenendo conto della raccomandazione della commissione di ammissione competente.
 
 ### Sezione 4: Commissioni di ammissione
 
@@ -355,38 +422,32 @@ Il Dipartimento nomina una commissione per l’ammissione a ciascuna delle carri
 
 #### Art. 21
 
-**Competenza**[^21-1]
+**Raccomandazioni della commissione di ammissione competente**[^21-1]
 
-<sup>1</sup> La commissione di ammissione competente effettua la preselezione qualitativa per la procedura di ammissione I (art. 15 cpv. 5).
+<sup>1</sup>
 
-<sup>2</sup>
+Nell’ambito della procedura di ammissione I per la carriera diplomatica, la carriera CI e il personale consolare con funzioni dirigenziali della carriera consolare, la commissione di ammissione competente formula una raccomandazione:
 
-Nell’ambito della procedura di ammissione I formula una raccomandazione:
+- a. all’attenzione del capo del Dipartimento in vista dell’ammissione alla formazione (art. 15*a* cpv. 3 lett. a);
+- b. all’attenzione del direttore della DR in vista di un’assunzione a tempo indeterminato (art. 17 cpv. 1 lett. a).
 
-- a. all’attenzione del capo del Dipartimento in vista dell’ammissione alla formazione (art. 15 cpv. 6);
-- b. all’attenzione della DR in vista di un’assunzione a tempo indeterminato (art. 17 cpv. 1).
+<sup>2</sup> Nell’ambito della procedura di mutazione dal personale consolare specializzato al personale consolare con funzioni dirigenziali, formula una raccomandazione all’attenzione del capo del Dipartimento (art. 19*a* cpv. 3).
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
-### Sezione 5: Condizioni generali di assunzione come personale specializzato
-
-[^chap3-sec5-1]
-
-[^chap3-sec5-1]: Introdotta dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+### Sezione 5: ...
 
 #### Art. 21a
 
-La persona assunta come personale specializzato deve:
+[^21a-1]
 
-- a. essere incensurata;
-- b. avere la cittadinanza svizzera;
-- c. dichiararsi disposta ad adempiere l’obbligo di trasferimento.
+[^21a-1]: Introdotto dalla cifra I dell’O del DFAE del 30 ott. 2020 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)). Abrogato dalla cifra I dell’O del DFAE del 31 mar. 2025, con effetto dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ## Capitolo 3*a*: Indicizzazione dei luoghi d’impiego
 
 [^chap3a-1]
 
-[^chap3a-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^chap3a-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 ### (art. 114 cpv. 4 OPers)
 
@@ -396,7 +457,7 @@ La persona assunta come personale specializzato deve:
 
 Abrogato
 
-[^chap3a-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^chap3a-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 23
 
@@ -414,29 +475,29 @@ Abrogati
 
 ### Sezione 1: ...
 
-#### Art. 26 a 38
+#### Art. 26 a 28
 
-[^2638-1]
+[^2628-1]
 
-[^2638-1]: Abrogati dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^2628-1]: Abrogati dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-#### Art. 39
+#### Art. 29
 
-[^39-1]
+[^29-1]
 
-[^39-1]: Abrogato dal n. I dell’O del DFAE del 17 feb. 2009, con effetto dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
+[^29-1]: Abrogato dalla cifra I dell’O del DFAE del 17 feb. 2009, con effetto dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
 
 #### Art. 30 a 33
 
 [^3033-1]
 
-[^3033-1]: Abrogati dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^3033-1]: Abrogati dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ### Sezione 2: Stipendio in caso di trasferimento
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 34
 
@@ -460,7 +521,7 @@ Se all’impiegato trasferito è assegnato un posto inquadrato in una classe di 
 
 [^chap4-sec3-1]
 
-[^chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 36
 
@@ -470,8 +531,8 @@ Se all’impiegato trasferito è assegnato un posto inquadrato in una classe di 
 
 <sup>3</sup> Il supplemento è versato per una durata limitata. La durata del versamento del supplemento viene verificata periodicamente. I dettagli sono disciplinati in un’istruzione.[^36-2]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 ### Sezione 4: Prestazioni sociali agli impiegati in servizio all’estero
 
@@ -538,13 +599,13 @@ Per gli impiegati in servizio all’estero sono considerate malattie professiona
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 41 a 46
 
 [^4146-1]
 
-[^4146-1]: Abrogati dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^4146-1]: Abrogati dalla cifra I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 47
 
@@ -554,7 +615,7 @@ Per gli impiegati in servizio all’estero sono considerate malattie professiona
 
 La durata settimanale del lavoro all’estero è, in media, di 40 ore. Per gli impiegati occupati a tempo parziale essa si riduce in funzione del tasso di occupazione.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 48
 
@@ -564,7 +625,7 @@ La durata settimanale del lavoro all’estero è, in media, di 40 ore. Per gli i
 
 I capi delle rappresentanze all’estero stabiliscono gli orari di lavoro a scelta e gli orari di lavoro fissi nei loro settori. In casi motivati possono autorizzare deroghe per alcuni impiegati.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 49
 
@@ -574,7 +635,7 @@ I capi delle rappresentanze all’estero stabiliscono gli orari di lavoro a scel
 
 Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 50
 
@@ -586,7 +647,7 @@ Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
 <sup>2</sup> L’indennità in contanti versata in caso di orario di lavoro basato sulla fiducia si calcola secondo l’articolo 35*a* O-OPers[^50-2].
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^50-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 #### Art. 51
@@ -607,18 +668,18 @@ Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
 <sup>6</sup> Le prestazioni del DFAE durante un congedo sabbatico si basano sul luogo d’impiego di Berna. Chi non prende il congedo in occasione di un trasferimento o dopo la fine di un impiego può, in casi motivati, chiedere alla DR che siano assunti gli eventuali costi fissi nel luogo d’impiego per la durata del congedo.[^51-6]
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^51-2]: Abrogati dal n. I dell’O del DFAE del 17 feb. 2009, con effetto dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
-[^51-3]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
-[^51-4]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^51-5]: Nuovo testo giusta il n. I dell’O del DFAE del 17 feb. 2009, in vigore dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
-[^51-6]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^51-2]: Abrogati dalla cifra I dell’O del DFAE del 17 feb. 2009, con effetto dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
+[^51-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^51-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^51-5]: Nuovo testo giusta la cifra I dell’O del DFAE del 17 feb. 2009, in vigore dal 1° mar. 2009 ([RU 2009 737](https://fedlex.data.admin.ch/eli/oc/2009/126)).
+[^51-6]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 52
 
 [^52-1]
 
-[^52-1]: Abrogato dal n. I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^52-1]: Abrogato dalla cifra I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 53
 
@@ -634,8 +695,8 @@ Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
 <sup>4</sup> I capi delle rappresentanze all’estero decidono nei loro settori sul momento della compensazione. Essa ha luogo di regola entro tre mesi, in ogni caso prima di un trasferimento o della fine dell’impiego.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 ## Capitolo 6: Vacanze e congedi
 
@@ -645,7 +706,7 @@ Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^54-1]: Abrogato dalla cifra I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 55
 
@@ -662,13 +723,13 @@ Sono competenti per l’approvazione del piano delle vacanze:
 
 <sup>2</sup> La competenza per la concessione di congedi agli altri impiegati è retta dall’articolo 9. Può essere delegata ai capi delle rappresentanze all’estero.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 ### Sezione 2: Vacanze degli impiegati in servizio all’estero
 
 [^chap6-sec2-1]
 
-[^chap6-sec2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^chap6-sec2-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 56
 
@@ -688,9 +749,9 @@ Gli impiegati in servizio all’estero hanno diritto a vacanze di:[^56-1]
 
 <sup>4</sup> Se un impiego all’estero inizia o termina durante un anno civile, il diritto alle vacanze è calcolato in modo proporzionale alla durata del soggiorno all’estero e in Svizzera.[^56-3]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^56-2]: Abrogati dal n. I dell’O del DFAE del 2 lug. 2023, con effetto dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
-[^56-3]: Nuovo testo giusta il n. I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^56-2]: Abrogati dalla cifra I dell’O del DFAE del 2 lug. 2023, con effetto dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^56-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 
 #### Art. 57
 
@@ -700,7 +761,7 @@ Gli impiegati in servizio all’estero hanno diritto a vacanze di:[^56-1]
 
 Se un viaggio di servizio o un impiego temporaneo fuori dal luogo d’impiego vero e proprio dura più di 30 giorni, il diritto alle vacanze è adeguato di un giorno ogni 30 giorni di viaggio o di impiego in luoghi con altre condizioni di vita.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 58
 
@@ -722,7 +783,7 @@ Agli impiegati che prestano volontariamente il servizio militare o civile, obbli
 
 [^chap6-sec3-1]
 
-[^chap6-sec3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^chap6-sec3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 60
 
@@ -751,14 +812,14 @@ Agli impiegati in servizio all’estero viene concesso, su richiesta, un congedo
 
 <sup>6</sup> Il congedo pagato di cui al capoverso 3 deve essere preso nell’anno civile in cui è stato concesso. Se ciò non è possibile a causa di impellenti motivi di servizio o a causa di malattia o infortunio, il congedo pagato deve essere preso l’anno successivo. Il congedo pagato viene a cadere senza risarcimento se non viene preso per altri motivi, ma al più tardi al termine dell’impiego all’estero.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 2 lug. 2023, in vigore dal 1° gen. 2024 ([RU 2023 420](https://fedlex.data.admin.ch/eli/oc/2023/420)).
 [^60-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 ## Capitolo 7: Altre prestazioni del datore di lavoro per gli impiegati in servizio all’estero
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^chap7-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 ### Sezione 1: Rimborso dei viaggi di servizio
 
@@ -790,11 +851,11 @@ Non sono considerati viaggi di servizio:
 - i. i viaggi per partecipare a manifestazioni di formazione;
 - j.[^61-5] i viaggi per recarsi a un colloquio di assunzione in seno al dipartimento.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^61-2]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
-[^61-3]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^61-4]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^61-5]: Introdotta dal n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^61-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^61-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^61-5]: Introdotta dalla cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 62
 
@@ -807,7 +868,7 @@ Sono competenti di ordinare o autorizzare viaggi di servizio degli impiegati lor
 - a. il segretario generale, i direttori o per delega i capidivisione;
 - b.[^62-1] i capi delle rappresentanze all’estero.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 63
 
@@ -828,7 +889,7 @@ Per viaggi di servizio all’estero con i mezzi di trasporto pubblici gli impieg
 <sup>2</sup> Per i viaggi pagati conformemente all’articolo 61 capoverso 2 lettere f–j è rimborsato il prezzo di un biglietto in classe economica. In presenza di motivi validi, la DR può eccezionalmente autorizzare un biglietto aereo in classe business.[^64-2]
 
 [^64-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^64-2]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 65
 
@@ -838,7 +899,7 @@ Per viaggi di servizio all’estero con i mezzi di trasporto pubblici gli impieg
 
 In caso di utilizzo autorizzato di un veicolo a motore privato per viaggi di servizio all’estero, l’indennità chilometrica si calcola secondo l’articolo 46 O-OPers[^65-2]. ll capo della rappresentanza all’estero è competente per il rilascio dell’autorizzazione agli impiegati a lui subordinati.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^65-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 #### Art. 66
@@ -847,7 +908,7 @@ In caso di utilizzo autorizzato di un veicolo a motore privato per viaggi di ser
 
 Il pernottamento privato con colazione in Svizzera è rimborsato con un importo forfettario di 30 franchi.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 67
 
@@ -861,7 +922,7 @@ Il pernottamento privato con colazione in Svizzera è rimborsato con un importo 
 
 <sup>3</sup> Il pernottamento privato con colazione è rimborsato con un importo forfettario di 30 franchi.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 ### Sezione 2: Rimborso di spese in relazione alla candidatura a un posto di lavoro
 
@@ -879,22 +940,22 @@ Il pernottamento privato con colazione in Svizzera è rimborsato con un importo 
 
 <sup>3</sup> Sono rimborsate le spese per un volo diretto in classe economica e le spese per un viaggio in treno in seconda classe. Il rimborso delle spese di pernottamento è retto dall’articolo 44 O-OPers e dall’articolo 66 della presente ordinanza.[^68-4]
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^68-2]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^68-3]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
-[^68-4]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^68-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^68-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abrogato dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^69-1]: Abrogato dalla cifra I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Sezione 3: Rimborso di spese particolari dovute a impieghi temporanei all’estero
 
 [^chap7-sec3-1]
 
-[^chap7-sec3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^chap7-sec3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 70
 
@@ -902,7 +963,7 @@ Il pernottamento privato con colazione in Svizzera è rimborsato con un importo 
 
 Sono considerati impieghi temporanei gli impieghi di lavoro provvisori fuori dal luogo d’impiego vero e proprio per sostituire persone in vacanza, rafforzare temporaneamente il personale, seguire una formazione di durata limitata, installare o effettuare la manutenzione di impianti tecnici o per scopi analoghi.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 71
 
@@ -914,9 +975,9 @@ Sono considerati impieghi temporanei gli impieghi di lavoro provvisori fuori dal
 
 <sup>2</sup> Il carico trasportato per via aerea, la tutela degli interessi, l’equipaggiamento e le visite sono indennizzati in modo adeguato nell’ambito della presente ordinanza.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 [^71-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^71-3]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^71-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 71a
 
@@ -928,13 +989,13 @@ Sono considerati impieghi temporanei gli impieghi di lavoro provvisori fuori dal
 
 <sup>3</sup> Per determinare l’entità dell’indennità di cui al capoverso 2 vengono considerati i minori costi dovuti all’esenzione fiscale degli impiegati all’estero (art. 112 e 113). Ciò non si applica se gli impiegati dimostrano di essere contribuenti in Svizzera e di versare le imposte cantonali e comunali sul reddito percepito nel quadro di un impiego come jolly.
 
-[^71a-1]: Introdotto dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^71a-1]: Introdotto dalla cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 ### Sezione 4: Rimborso di spese in relazione a viaggi di revisione
 
 [^chap7-sec4-1]
 
-[^chap7-sec4-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^chap7-sec4-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 72
 
@@ -946,14 +1007,14 @@ Sono considerati impieghi temporanei gli impieghi di lavoro provvisori fuori dal
 
 <sup>3</sup> Ai revisori spetta per ogni giorno di viaggio un’indennità conformemente agli articoli 80 e 87.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^72-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 #### Art. 73
 
 [^73-1]
 
-[^73-1]: Abrogato dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^73-1]: Abrogato dalla cifra I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ## Capitolo 8: Prestazioni del datore di lavoro per trasferimenti e impieghi all’estero e in organizzazioni internazionali
 
@@ -995,7 +1056,7 @@ La compensazione del rincaro è versata sulle indennità per soggiorno all’est
 
 <sup>2</sup> L’indennità per il lavoro domenicale si basa sull’articolo 12 capoverso 1 O-OPers[^77-2].
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^77-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 #### Art. 78
@@ -1010,7 +1071,7 @@ La compensazione del rincaro è versata sulle indennità per soggiorno all’est
 
 <sup>3</sup> Se in caso di malattia o infortunio l’impiegato rimane nel luogo d’impiego, i costi fissi sono compensati adeguatamente.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 79
 
@@ -1032,9 +1093,9 @@ Se il tasso di occupazione è inferiore all’80 per cento, nei seguenti casi le
 - f. spese di locazione e spese accessorie di locazione (art. 100);
 - g. risarcimento forfettario delle spese (art. 87 segg.).
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^79-2]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
-[^79-3]: Abrogata dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^79-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^79-3]: Abrogata dalla cifra I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 79a
 
@@ -1046,7 +1107,7 @@ Se il tasso di occupazione è inferiore all’80 per cento, nei seguenti casi le
 
 <sup>3</sup> È fatto salvo il diritto al risarcimento forfettario delle spese ai sensi dell’articolo 87.
 
-[^79a-1]: Introdotto dal n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^79a-1]: Introdotto dalla cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Sezione 2: Indennità per inconvenienti connessi al lavoro
 
@@ -1058,7 +1119,7 @@ Se il tasso di occupazione è inferiore all’80 per cento, nei seguenti casi le
 
 Per compensare le condizioni di vita difficili agli impiegati è versata un’indennità per inconvenienti connessi al lavoro, a condizione che il loro luogo d’impiego sia valutato con meno di 95 punti nell’indice di cui all’articolo 23.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 81
 
@@ -1068,7 +1129,7 @@ Per compensare le condizioni di vita difficili agli impiegati è versata un’in
 
 Per ogni punto dell’indice inferiore a 95 con il quale è valutato il luogo d’impiego sorge un diritto a un importo di 721 franchi l’anno.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 82
 
@@ -1095,7 +1156,7 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 [^chap8-sec3-1]
 
-[^chap8-sec3-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^chap8-sec3-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 84
 
@@ -1105,7 +1166,7 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 L’indennità per mobilità ammonta a 6457 franchi l’anno.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 85
 
@@ -1132,7 +1193,7 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 [^chap8-sec4-1]
 
-[^chap8-sec4-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^chap8-sec4-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 87
 
@@ -1146,8 +1207,8 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 <sup>3</sup> Se la persona di accompagnamento fa valere l’importo forfettario a causa del suo rapporto d’impiego con la Confederazione, esso è calcolato in base allo stipendio superiore tra i due.[^87-2]
 
-[^87-1]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^87-2]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^87-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^87-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 88
 
@@ -1157,7 +1218,7 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 L’importo forfettario si compone di un importo di base di 8279 franchi l’anno e di un supplemento pari al 9 per cento dello stipendio annuo.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 89
 
@@ -1190,8 +1251,8 @@ Gli impiegati assegnati a un altro luogo d’impiego hanno diritto per sé, le p
 
 <sup>2</sup> Le spese di cui al capoverso 1 lettere e e f sono rimborsate a titolo forfettario. L’importo forfettario per le spese per equipaggiamenti e attrezzature si basa sulla classe di stipendio dell’impiegato, sulla grandezza dell’economia domestica e sul grado di mobilio del nuovo alloggio.
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^90-2]: Introdotto dal n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^90-2]: Introdotto dalla cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 91
 
@@ -1209,7 +1270,7 @@ Se gli impiegati poco prima della partenza dal precedente luogo d’impiego o po
 
 Se, a causa di un trasferimento o di un nuovo impiego, l’impiegato deve lasciare il suo alloggio prima del successivo termine di disdetta possibile o locare un alloggio nel nuovo luogo d’impiego nell’interesse della Confederazione, di regola per al massimo tre mesi dopo la decisione di trasferimento o di impiego e al più tardi fino al successivo termine di disdetta possibile o fino alla data di entrata nell’alloggio gli viene versato un contributo adeguato alle spese effettive di locazione e alle spese accessorie di locazione.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 93
 
@@ -1223,9 +1284,9 @@ Se, a causa di un trasferimento o di un nuovo impiego, l’impiegato deve lascia
 
 <sup>3</sup> L’impiegato comunica senza indugio la cessazione dei motivi al servizio competente.
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^93-2]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^93-3]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^93-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^93-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 ### Sezione 6: Rimborso di spese di viaggio di impiegati in servizio all’estero per lutti o in caso di viaggi a scopo di trattamento medico
 
@@ -1250,8 +1311,8 @@ Agli impiegati sono rimborsate le spese di viaggio proprie e, se del caso, le sp
 
 <sup>3</sup> Per la partecipazione al funerale in un Paese terzo sono rimborsate le spese di viaggio effettive fino all’importo massimo di un viaggio conformemente al capoverso 2.
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^94-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^94-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 95
 
@@ -1269,15 +1330,15 @@ Agli impiegati sono rimborsate le spese di viaggio proprie e, se del caso, le sp
 
 <sup>5</sup> Se l’impiegato, una persona di accompagnamento o i figli devono essere accompagnati in occasione di un viaggio di cui al capoverso 1, le spese sono assunte con il consenso del servizio medico dell’Amministrazione federale.[^95-3]
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^95-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^95-3]: Introdotto dal n. I dell’O del DFAE del 24 ott. 2008 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)). Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^95-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^95-3]: Introdotto dalla cifra I dell’O del DFAE del 24 ott. 2008 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)). Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 ### Sezione 7: Rimborso dei viaggi per consultazioni
 
 [^chap8-sec7-1]
 
-[^chap8-sec7-1]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^chap8-sec7-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
 
 #### Art. 96
 
@@ -1297,12 +1358,12 @@ Agli impiegati sono rimborsate le spese di viaggio proprie e, se del caso, le sp
 
 <sup>5</sup> Il diritto a un viaggio per consultazioni si estingue in caso di fine del rapporto di lavoro, se l’impiegato rientra in Svizzera a spese della Confederazione o si stabilisce in un Paese terzo a spese della Confederazione.[^96-6]
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
-[^96-2]: Introdotto dal n. I dell’O del DFAE del 29 nov. 2013 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)). Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
-[^96-3]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^96-4]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
-[^96-5]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^96-6]: Introdotto dal n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^96-2]: Introdotto dalla cifra I dell’O del DFAE del 29 nov. 2013 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)). Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^96-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^96-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^96-5]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^96-6]: Introdotto dalla cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 97
 
@@ -1319,14 +1380,14 @@ L’importo forfettario dev’essere restituito, se:
 - a. il viaggio non ha avuto luogo nell’anno civile determinante;
 - b. l’impiegato, in caso di fine del rapporto di lavoro, rientra in Svizzera a spese della Confederazione o si stabilisce in un Paese terzo a spese della Confederazione e se tra il momento in cui sorge il diritto e la fine del rapporto di lavoro trascorrono meno di sei mesi.[^97-2]
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
-[^97-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Sezione 8: Rimborso di visite
 
 [^chap8-sec8-1]
 
-[^chap8-sec8-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^chap8-sec8-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 
 #### Art. 98
 
@@ -1353,13 +1414,13 @@ Se i figli non risiedono nel luogo d’impiego del genitore, possono essere rimb
 
 <sup>6</sup> Possono essere prese adeguatamente in considerazione situazioni scolastiche o famigliari particolari.[^98-7]
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^98-2]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^98-3]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^98-4]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^98-5]: Introdotto dal n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^98-6]: Introdotto dal n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^98-7]: Introdotto dal n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^98-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^98-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^98-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^98-5]: Introdotto dalla cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^98-6]: Introdotto dalla cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^98-7]: Introdotto dalla cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 
 #### Art. 99
 
@@ -1378,9 +1439,9 @@ L’importo forfettario deve essere restituito se:
 - a. il viaggio non ha luogo entro un mese dopo la data di partenza notificata;
 - b. l’impiegato, in caso di fine del rapporto di lavoro, rientra in Svizzera a spese della Confederazione o si stabilisce in un Paese terzo a spese della Confederazione e se tra il momento in cui sorge il diritto e la fine del rapporto di lavoro trascorrono meno di sei mesi.[^99-3]
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
-[^99-2]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^99-3]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^99-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^99-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Sezione 9: Contributo alla locazione di alloggi
 
@@ -1394,16 +1455,16 @@ L’importo forfettario deve essere restituito se:
 
 <sup>4</sup> ...[^100-4]
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^100-2]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^100-3]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^100-4]: Abrogato dal n. I dell’O del DFAE del 28 set. 2005, con effetto dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^100-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^100-3]: Abrogato dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^100-4]: Abrogato dalla cifra I dell’O del DFAE del 28 set. 2005, con effetto dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 ### Sezione 10: Rimborso per la tutela degli interessi
 
 [^chap8-sec10-1]
 
-[^chap8-sec10-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^chap8-sec10-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 #### Art. 101
 
@@ -1415,8 +1476,8 @@ L’importo forfettario deve essere restituito se:
 
 <sup>2</sup> Lo scopo, la qualità, l’entità e il tipo di compiti per la tutela degli interessi svolti dall’impiegato e dalla persona di accompagnamento sono concordati nel quadro del ciclo MbO annuale tra il capo della rappresentanza all’estero e l’impiegato.[^101-2]
 
-[^101-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^101-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^101-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^101-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 102
 
@@ -1430,13 +1491,13 @@ L’importo forfettario deve essere restituito se:
 
 <sup>3</sup> Stabiliscono l’entità del rimborso delle spese per la tutela degli interessi in base alla funzione e ai compiti di tutela degli interessi assunti dagli impiegati e agli obblighi di rappresentanza delle persone di accompagnamento.
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 ### Sezione 11: Importo forfettario per la tutela degli interessi
 
 [^chap8-sec11-1]
 
-[^chap8-sec11-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^chap8-sec11-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 #### Art. 103
 
@@ -1446,7 +1507,7 @@ L’importo forfettario deve essere restituito se:
 
 Gli impiegati che devono assumere compiti di tutela degli interessi ricevono un importo forfettario per le relative spese.
 
-[^103-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^103-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 #### Art. 104
 
@@ -1458,13 +1519,13 @@ Gli impiegati che devono assumere compiti di tutela degli interessi ricevono un 
 
 <sup>2</sup> Con l’importo forfettario sono rimborsate le spese di viaggio all’interno della località e del vicino agglomerato, le spese per il maggior fabbisogno di guardaroba e per la custodia temporanea dei bambini, nonché le spese accessorie legate alla tutela degli interessi.
 
-[^104-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^104-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 
 #### Art. 105
 
 [^105-1]
 
-[^105-1]: Abrogato dal n. I dell’O del DFAE del 19 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^105-1]: Abrogato dalla cifra I dell’O del DFAE del 19 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 
 #### Art. 106
 
@@ -1491,8 +1552,8 @@ Alla DR spettano in questo ambito i compiti seguenti:
 - b. classificazione dei luoghi d’impiego, secondo gli interessi di politica estera della Svizzera nella cura delle relazioni esterne, nelle categorie I–IV;
 - c.[^106-2] determinazione a quale delle classi di funzione 3–6 possono essere assegnati, al massimo, gli impiegati.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^106-2]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^106-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^106-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 #### Art. 107
 
@@ -1502,8 +1563,8 @@ Alla DR spettano in questo ambito i compiti seguenti:
 
 <sup>2</sup> Il diritto all’importo forfettario viene a cadere in caso di assenza di più di 90 giorni dal luogo d’impiego.[^107-2]
 
-[^107-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^107-2]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^107-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^107-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 ### Sezione 12: Adeguamento al potere d’acquisto
 
@@ -1522,8 +1583,8 @@ Sottostanno all’adeguamento al potere d’acquisto:
 
 <sup>2</sup> Un potere d’acquisto negativo è compensato con lo stipendio e le prestazioni di cui al capoverso 1.
 
-[^108-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^108-2]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^108-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 #### Art. 109
 
@@ -1558,7 +1619,7 @@ Se dalla verifica dei prezzi risulta una modifica del valore dell’indice per i
 
 <sup>2</sup> La modifica dell’adeguamento al potere d’acquisto può essere sospesa dopo una verifica dei prezzi in presenza di un contesto economico e politico instabile nonché di incertezza sui mercati finanziari.[^111-1]
 
-[^111-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^111-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### Sezione 13: Esenzione fiscale
 
@@ -1581,7 +1642,7 @@ La deduzione per i minori costi è calcolata in base alle seguenti categorie:
 
 <sup>3</sup> La deduzione forfettaria per i minori costi ammonta al 70 per cento dell’importo calcolato secondo il capoverso 1.
 
-[^112-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^112-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 113
 
@@ -1593,7 +1654,7 @@ La deduzione per i minori costi è calcolata in base alle seguenti categorie:
 
 <sup>2</sup> Una correzione della deduzione per i minori costi dovuti all’esenzione fiscale ha luogo dopo la presentazione di una decisione di tassazione definitiva dell’imposta federale diretta per l’anno civile in questione (postnumerando).
 
-[^113-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^113-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 ### Sezione 14: Prestiti
 
@@ -1614,8 +1675,8 @@ In occasione di un trasferimento, sia esso dalla Svizzera o dall’estero o di u
 
 <sup>2</sup> I prestiti per gli acquisti di autovetture devono essere remunerati al tasso che la Cassa di risparmio del personale federale fissa il 1° gennaio dell’anno in questione per gli averi depositati.
 
-[^114-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^114-2]: Abrogata dal n. I dell’O del DFAE del 13 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^114-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^114-2]: Abrogata dalla cifra I dell’O del DFAE del 13 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 115
 
@@ -1631,9 +1692,9 @@ In occasione di un trasferimento, sia esso dalla Svizzera o dall’estero o di u
 
 <sup>4</sup> In caso di decesso la DR può, eccezionalmente, rinunciare alla restituzione del debito residuo e degli interessi maturati.[^115-3]
 
-[^115-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^115-2]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^115-3]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^115-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^115-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^115-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 ## Capitolo 9: Persone di accompagnamento
 
@@ -1645,7 +1706,7 @@ In occasione di un trasferimento, sia esso dalla Svizzera o dall’estero o di u
 
 Gli impiegati che convivono e i loro partner consegnano alla DR una dichiarazione scritta nella quale confermano la loro convivenza.
 
-[^116-1]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^116-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 ### Sezione 2: Supplemento per le persone di accompagnamento
 
@@ -1665,11 +1726,11 @@ Gli impiegati che convivono e i loro partner consegnano alla DR una dichiarazion
 
 <sup>5</sup> Le assenze delle persone di accompagnamento in comunione domestica superiori a 90 giorni per calendario civile devono essere comunicate alla DR.[^117-5]
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^117-2]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^117-3]: Abrogato dal n. I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^117-4]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^117-5]: Introdotto dal n. I dell’O del DFAE del 15 set. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)). Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^117-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^117-3]: Abrogato dalla cifra I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^117-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^117-5]: Introdotto dalla cifra I dell’O del DFAE del 15 set. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)). Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 118
 
@@ -1679,7 +1740,7 @@ Gli impiegati che convivono e i loro partner consegnano alla DR una dichiarazion
 
 Il diritto a supplementi per le persone di accompagnamento si estingue alla fine del mese nel quale le condizioni per questo statuto non sono più soddisfatte.
 
-[^118-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^118-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 #### Art. 119
 
@@ -1689,7 +1750,7 @@ Il diritto a supplementi per le persone di accompagnamento si estingue alla fine
 
 I supplementi per le persone di accompagnamento sulle indennità per inconvenienti connessi al lavoro e per mobilità ammontano al 10 per cento delle relative indennità versate agli impiegati conformemente agli articoli 80–86.
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
 #### Art. 120
 
@@ -1701,8 +1762,8 @@ I supplementi per le persone di accompagnamento sulle indennità per inconvenien
 
 <sup>2</sup> La riduzione del supplemento si basa sull’articolo 89.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^120-2]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^120-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^120-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 121
 
@@ -1716,9 +1777,9 @@ I supplementi per le persone di accompagnamento sulle indennità per inconvenien
 
 <sup>3</sup> Per la riduzione e la restituzione del supplemento si applica per analogia l’articolo 107.[^121-3]
 
-[^121-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^121-2]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^121-3]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^121-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^121-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 #### Art. 122
 
@@ -1734,7 +1795,7 @@ I supplementi per le persone di accompagnamento sulle indennità per inconvenien
 
 [^chap9-sec2a-1]
 
-[^chap9-sec2a-1]: Introdotta dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^chap9-sec2a-1]: Introdotta dalla cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 ### (art. 114 cpv. 3 OPers)
 
@@ -1768,10 +1829,10 @@ In deroga al capoverso 1 può essere approvata una partecipazione alle spese per
 
 <sup>2</sup> Il capoverso 1 si applica alle persone di accompagnamento ai sensi dell’articolo 1 capoverso 1 anche quando il luogo di lavoro è in Svizzera, ma al più presto dopo il primo trasferimento, o se esiste il diritto alle prestazioni secondo l’articolo 93.[^123-4]
 
-[^123-1]: Abrogata dal n. I dell’O del DFAE del 30 ott. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
-[^123-2]: Abrogata dal n. I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^123-3]: Introdotto dal n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^123-4]: Introdotto dal n. I dell’O del DFAE del 28 set. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)). Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^123-1]: Abrogata dalla cifra I dell’O del DFAE del 30 ott. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^123-2]: Abrogata dalla cifra I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^123-3]: Introdotto dalla cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^123-4]: Introdotto dalla cifra I dell’O del DFAE del 28 set. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)). Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 #### Art. 124
 
@@ -1785,7 +1846,7 @@ In deroga al capoverso 1 può essere approvata una partecipazione alle spese per
 
 <sup>3</sup> Se la persona di accompagnamento percepisce un reddito da attività lucrativa o in forma di rendita compreso tra 18 000 e 47 000 franchi all’anno, la partecipazione alle spese per la previdenza professionale è ridotta in misura proporzionale.
 
-[^124-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^124-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 125
 
@@ -1799,7 +1860,7 @@ La persona di accompagnamento non ha più diritto a ricevere una partecipazione 
 - b. l’impiegato si dimette dal DFAE;
 - c. la persona di accompagnamento raggiunge l’età ordinaria di pensionamento.
 
-[^125-1]: Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^125-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 ### Sezione 4: Risarcimento di danni
 
@@ -1813,7 +1874,7 @@ Se persone di accompagnamento subiscono perdite di patrimonio alle condizioni di
 
 [^chap10-sec1-1]
 
-[^chap10-sec1-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^chap10-sec1-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 127
 
@@ -1821,14 +1882,14 @@ Se persone di accompagnamento subiscono perdite di patrimonio alle condizioni di
 
 <sup>2</sup> Il risarcimento delle spese è versato soltanto una volta per ciascuna economia domestica.[^127-2]
 
-[^127-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
-[^127-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^127-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Sezione 1*a*: Contributi per la custodia di bambini complementare alla famiglia
 
 [^chap10-sec1a-1]
 
-[^chap10-sec1a-1]: Introdotta dal n. I dell’O del DFAE del 13 ago. 2012, in vigore dal 1° set. 2012 ([RU 2012 4245](https://fedlex.data.admin.ch/eli/oc/2012/506)).
+[^chap10-sec1a-1]: Introdotta dalla cifra I dell’O del DFAE del 13 ago. 2012, in vigore dal 1° set. 2012 ([RU 2012 4245](https://fedlex.data.admin.ch/eli/oc/2012/506)).
 
 #### Art. 127a
 
@@ -1858,8 +1919,8 @@ Il DFAE accorda agli impiegati i contributi:[^128-1]
 
 <sup>3</sup> La concessione di contributi alle spese di formazione è esclusa se, dal momento della loro assunzione, gli impiegati non hanno mai vissuto in comunione domestica con i figli.[^128-2]
 
-[^128-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
-[^128-2]: Introdotto dal n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^128-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^128-2]: Introdotto dalla cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 
 #### Art. 129
 
@@ -1871,7 +1932,7 @@ Il DFAE accorda agli impiegati i contributi:[^128-1]
 
 <sup>2</sup> I contributi alle spese di formazione sono accordati fino al conseguimento della maturità o di un diploma equivalente, fino al termine della prima formazione professionale, del primo ciclo di studi universitari o alla conclusione della formazione professionale basata sull’apprendistato, al massimo tuttavia fino al compimento del 25° anno d’età.
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 130
 
@@ -1883,7 +1944,7 @@ Il DFAE accorda agli impiegati i contributi:[^128-1]
 
 <sup>3</sup> Eccezionalmente i contributi di cui al capoverso 1 possono essere versati anche per le spese di formazione nel livello primario se il livello d’istruzione e le esigenze scolastiche dei figli lo richiedono.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 ### Sezione 3: Risarcimento di danni
 
@@ -1916,7 +1977,7 @@ Allo scadere delle seguenti durate minime di soggiorno in luoghi d’impiego dal
 
 <sup>4</sup> Nella decisione di trasferimento degli impiegati si prendono in considerazione gli interessi di servizio e le pari opportunità nonché la formazione, l’esperienza, le competenze, le conoscenze specifiche e il potenziale degli impiegati ai fini dello svolgimento della funzione prevista come pure il loro stato di salute. Se possibile si tiene conto anche dello stato di salute della persona di accompagnamento come pure dello stato di salute e delle possibilità di formazione per i figli.
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^132-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^132-2]: L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
 
 #### Art. 133
@@ -1945,8 +2006,8 @@ I superiori possono obbligare gli impiegati a prendere le vacanze in occasione:[
 - b. di viaggi di trasferimento o di impiego;
 - c. di viaggi in Svizzera intrapresi a scopo di trattamento medico secondo l’articolo 95.
 
-[^135-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^135-2]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^135-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^135-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 136
 
@@ -1962,7 +2023,7 @@ Gli impiegati sono tenuti a occupare le residenze e gli alloggi di servizio dest
 
 <sup>2</sup> I capi delle rappresentanze all’estero possono, in casi motivati, limitare la scelta dell’alloggio oppure rifiutare un alloggio se esso non soddisfa i requisiti di sicurezza o la funzione degli impiegati loro subordinati.[^137-1]
 
-[^137-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^137-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 138
 
@@ -1970,7 +2031,7 @@ Gli impiegati sono tenuti a occupare le residenze e gli alloggi di servizio dest
 
 La DR può emanare prescrizioni particolari per le rappresentanze all’estero concernenti il versamento dello stipendio nella valuta corrente nel luogo d’impiego agli impiegati retribuiti in franchi svizzeri.
 
-[^138-1]: Nuovo testo giusta il n. I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
+[^138-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 9 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
 #### Art. 139
 
@@ -2012,13 +2073,13 @@ Gli impiegati notificano al servizio competente:[^142-1]
 - b. le pubblicazioni, le conferenze e le dichiarazioni pubbliche durante il servizio all’estero, non effettuate per lavoro, qualora riguardino la politica estera della Svizzera o l’attività del DFAE;
 - c. l’abbandono dello Stato di residenza.
 
-[^142-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^142-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 #### Art. 143
 
 [^143-1]
 
-[^143-1]: Abrogato dal n. I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^143-1]: Abrogato dalla cifra I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 #### Art. 144
 
@@ -2079,20 +2140,20 @@ Gli impiegati o le persone di accompagnamento, che devono fare una deposizione d
 <sup>3</sup> La composizione e i compiti della commissione di trasferimento sono disciplinati in un regolamento emanato dal DFAE.
 
 [^149-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^149-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^149-3]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^149-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^149-3]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ### Sezione 2: Riesame dell’eliminazione delle divergenze
 
 [^chap12-sec2-1]
 
-[^chap12-sec2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^chap12-sec2-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 150
 
 [^150-1]
 
-[^150-1]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^150-1]: Abrogato dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 151
 
@@ -2103,8 +2164,8 @@ Il riesame dell’eliminazione delle divergenze secondo l’articolo 6 capoverso
 - a. dal capo della DR per i capimissione;
 - b. dal capo del personale del DFAE per il rimanente personale.
 
-[^151-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^151-2]: Abrogata dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^151-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^151-2]: Abrogata dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^151-3]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
 ### Sezione 3: ...
@@ -2113,13 +2174,13 @@ Il riesame dell’eliminazione delle divergenze secondo l’articolo 6 capoverso
 
 [^152153-1]
 
-[^152153-1]: Abrogati dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^152153-1]: Abrogati dalla cifra I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 154 e 155
 
 [^154155-1]
 
-[^154155-1]: Abrogati dal n. I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^154155-1]: Abrogati dalla cifra I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 ## Capitolo 13: Disposizioni finali
 
@@ -2156,14 +2217,14 @@ La DR emana istruzioni nei seguenti settori:
 - w. contributi alle spese di formazione (art. 128 segg.);
 - x. regolamento interno e responsabilità civile per l’utilizzo di alloggi di servizio (art. 136).
 
-[^156-1]: Abrogata dal n. I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^156-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
-[^156-3]: Abrogata dal n. I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^156-4]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^156-5]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
-[^156-6]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^156-7]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
-[^156-8]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^156-1]: Abrogata dalla cifra I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^156-2]: Nuovo testo giusta la cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^156-3]: Abrogata dalla cifra I dell’O del DFAE del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^156-4]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^156-5]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^156-6]: Nuovo testo giusta la cifra I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^156-7]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
+[^156-8]: Nuovo testo giusta la cifra I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
 ### Sezione 2: Diritto vigente: abrogazione
 
@@ -2194,7 +2255,7 @@ Sono abrogati i seguenti regolamenti:
 
 [^158-1]
 
-[^158-1]: Abrogato dal n. I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^158-1]: Abrogato dalla cifra I dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 #### Art. 159
 
@@ -2212,7 +2273,7 @@ Sono abrogati i seguenti regolamenti:
 
 Per gli impiegati del DFAE soggetti all’obbligo di trasferimento e il personale della DSC soggetto a rotazione, che in virtù dell’articolo 8 capoverso 2 dell’ordinanza del 20 febbraio 2013[^160-2] concernente il pensionamento in particolari categorie di personale hanno richiesto il pensionamento anticipato secondo il diritto anteriore, continuano ad essere applicabili gli articoli 22–25, 158 e l’allegato 1[^160-3] del diritto anteriore.
 
-[^160-1]: Nuovo testo giusta il n. I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^160-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 [^160-2]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
 [^160-3]: [RU 2002 2917](https://fedlex.data.admin.ch/eli/oc/2002/427), [2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623), [2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)
 
@@ -2224,7 +2285,7 @@ Per gli impiegati del DFAE soggetti all’obbligo di trasferimento e il personal
 
 <sup>2</sup> In deroga all’articolo 26 capoverso 3 le promozioni in una funzione superiore sono effettive a partire dal 1° gennaio 2014.
 
-[^161-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^161-1]: Nuovo testo giusta la cifra I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
 #### Art. 161a
 
@@ -2236,7 +2297,7 @@ Per gli impiegati del DFAE soggetti all’obbligo di trasferimento e il personal
 
 <sup>3</sup> Per la partecipazione alle spese ai sensi dell’articolo 123 capoverso 2, al personale soggetto a rotazione secondo l’articolo 3 lettera f del diritto anteriore, per quanto sia soggetto all’obbligo di trasferimento secondo il nuovo diritto, sono computati come trasferimenti gli impieghi svolti all’estero nei quattro anni precedenti l’entrata in vigore della modifica del 16 novembre 2014.
 
-[^161a-1]: Introdotto dal n. I dell’O del DFAE del 6 ago. 2008 ([RU 2008 3935](https://fedlex.data.admin.ch/eli/oc/2008/529)). Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^161a-1]: Introdotto dalla cifra I dell’O del DFAE del 6 ago. 2008 ([RU 2008 3935](https://fedlex.data.admin.ch/eli/oc/2008/529)). Nuovo testo giusta la cifra I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
 
 #### Art. 161b
 
@@ -2246,7 +2307,7 @@ Per gli impiegati del DFAE soggetti all’obbligo di trasferimento e il personal
 
 <sup>2</sup> Gli impiegati dei servizi di carriera secondo l’articolo 2 capoverso 2 O-OPers-DFAE nella versione del 1° gennaio 2017 ricevono entro il 1° gennaio 2019 un nuovo contratto di lavoro scritto secondo l’articolo 8 LPers[^161b-2].
 
-[^161b-1]: Introdotto dal n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° giu. 2018 per il cpv. 2 e dal 1° gen. 2019 per il cpv. 1 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^161b-1]: Introdotto dalla cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° giu. 2018 per il cpv. 2 e dal 1° gen. 2019 per il cpv. 1 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^161b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 161c
@@ -2261,7 +2322,7 @@ Dal 1° gennaio 2019 l’appartenenza ai servizi è la seguente:
 - d. gli impiegati del servizio consolare secondo l’articolo 2 capoverso 2 lettera b del diritto anteriore che sono già stati promossi nella fascia di funzione 2 del servizio consolare o svolgono al DFAE una funzione finora classificata nella fascia di funzione 2 o 3 del servizio consolare appartengono alla carriera affari consolari, gestione e finanze secondo l’articolo 2 lettera c del nuovo diritto;
 - e. i restanti impiegati del servizio consolare secondo il diritto anteriore appartengono al personale specializzato secondo l’articolo 2 del nuovo diritto soggetto all’obbligo di trasferimento.
 
-[^161c-1]: Introdotto dal n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^161c-1]: Introdotto dalla cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 161d
 
@@ -2284,7 +2345,7 @@ Lo stipendio degli impiegati di cui all’articolo 2 capoverso 2 lettera b del d
 
 <sup>5</sup> Nei casi di cui ai capoversi 1–4 e fintantoché lo stipendio supera l’ammontare giustificato in base alla valutazione della funzione, non è versata la compensazione del rincaro e non è accordato alcun aumento di stipendio.
 
-[^161d-1]: Introdotto dal n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^161d-1]: Introdotto dalla cifra I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 #### Art. 161e
 
@@ -2292,7 +2353,18 @@ Lo stipendio degli impiegati di cui all’articolo 2 capoverso 2 lettera b del d
 
 I contributi alle spese di formazione in Svizzera che al momento dell’entrata in vigore della modifica del 30 ottobre sono stati concessi agli impiegati secondo l’articolo 130 del diritto anteriore possono essere accordati secondo il diritto anteriore fino al prossimo trasferimento all’estero, al massimo tuttavia fino al 31 luglio 2023.
 
-[^161e-1]: Introdotto dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^161e-1]: Introdotto dalla cifra I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+
+#### Art. 161f
+
+**Disposizioni transitorie della modifica del 31 marzo 2025: appartenenza ai servizi**[^161f-1]
+
+Dal 1° aprile 2025 l’appartenenza ai servizi è la seguente:
+
+- a. gli impiegati della carriera affari consolari, gestione e finanze secondo l’articolo 2 lettera c del diritto anteriore appartengono al personale consolare con funzioni dirigenziali della carriera consolare secondo l’articolo 2 lettera c del nuovo diritto;
+- b. i membri del personale specializzato secondo l’articolo 2 del diritto anteriore che svolgono compiti consolari appartengono al personale consolare specializzato della carriera consolare secondo l’articolo 2 lettera c del nuovo diritto.
+
+[^161f-1]: Introdotto dalla cifra I dell’O del DFAE del 31 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -2306,11 +2378,11 @@ I contributi alle spese di formazione in Svizzera che al momento dell’entrata 
 
 Allegato 1[^t-1]
 
-[^t-1]: Abrogato dal n. II dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
+[^t-1]: Abrogato dalla cifra II dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
 Allegato 2[^t-2]
 
-[^t-2]: Abrogato dal n. II cpv. 2 dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^t-2]: Abrogato dalla cifra II cpv. 2 dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 Allegato 3[^t-3]
 
@@ -2318,7 +2390,7 @@ Allegato 3[^t-3]
 
 ## Congedo pagato all’estero
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
 <table>
 <tr><th></th><th>Motivo</th><th>Più precisamente</th><th>Diritto a</th><th>Osservazioni</th></tr>
@@ -2348,7 +2420,7 @@ Allegato 4[^t-4]
 
 ## Categorie delle rappresentanze all’estero ed entità degli importi forfettari per la tutela degli interessi
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 3 dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 3 dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
 ### Parte 1: Categorie delle rappresentanze all’estero
 
@@ -2399,7 +2471,7 @@ Allegato 5[^t-5]
 
 ## Adeguamento al potere d’acquisto
 
-[^t-5]: Nuovo testo giusta il n. II dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^t-5]: Nuovo testo giusta la cifra II dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 **Indice comparativo**
 

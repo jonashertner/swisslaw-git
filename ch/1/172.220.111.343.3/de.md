@@ -4,11 +4,11 @@ title: Verordnung des EDA vom 20. September 2002 zur Bundespersonalverordnung (V
 short: VBPV-EDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20240101/de"
 
 (VBPV–EDA)
 
-vom 20. September 2002 (Stand am 1. Januar 2024)
+vom 20. September 2002 (Stand am 1. Mai 2025)
 
 Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA), im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EFD),
 
@@ -50,9 +50,10 @@ Die Angestellten des EDA gehören den allgemeinen Diensten, dem Fachpersonal ode
 
 - a. Karriere Diplomatie;
 - b. Karriere Internationale Zusammenarbeit (IZA);
-- c. Karriere Konsularisches, Betriebsführung und Finanzen.
+- c.[^2-2] konsularische Karriere, bestehend aus dem konsularischen Managementpersonal und dem konsularischen Fachpersonal.
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDA vom 3. Mai 2018, in Kraft am 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
+[^2-2]: Fassung gemäss Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 3
 
@@ -263,31 +264,66 @@ Wer in den Karrieren nach Artikel 2 angestellt wird, muss:
 
 <sup>2</sup> Kandidaten und Kandidatinnen für die Karrieren Diplomatie und IZA dürfen im Jahr der Selektion höchsten 30 Jahre alt sein.
 
-<sup>3</sup> Für eine Anstellung in der Karriere Konsularisches, Betriebsführung und Finanzen gilt keine Altersgrenze.
+<sup>3</sup> Für eine Anstellung in der konsularischen Karriere gilt keine Altersgrenze.[^14-2]
 
 [^14-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^14-2]: Fassung gemäss Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 15
 
-**Zulassung zur Ausbildung**
+**Voraussetzungen für die Zulassung zur Ausbildung**[^15-1]
 
 ### (Art. 24 BPV)
 
 <sup>1</sup> Kandidaten und Kandidatinnen dürfen sich im gleichen Jahr nur für die Zulassung zu einer der Karrieren nach Artikel 2 bewerben.
 
-<sup>2</sup> Wer sich für die Zulassung zur Karriere Diplomatie oder zur Karriere IZA bewirbt, muss zusätzlich zu den Voraussetzungen nach Artikel 13 einen Hochschulabschluss auf Stufe Master oder eine gleichwertige Ausbildung vorweisen.
+<sup>2</sup>
 
-<sup>3</sup> Wer sich für die Zulassung zur Karriere Konsularisches, Betriebsführung und Finanzen bewirbt, muss zusätzlich zu den Voraussetzungen nach Artikel 13 einen Hochschulabschluss auf Stufe Bachelor in den Bereichen Wirtschaft oder Finanzen, eine höhere Fachprüfung oder ein Diplom einer höheren Fachschule in den Bereichen Wirtschaft, Personal, Verwaltung oder Finanz- und Rechnungswesen oder eine gleichwertige Qualifikation vorweisen.
+Wer sich für die Zulassung zur Karriere Diplomatie oder zur Karriere IZA bewirbt:
 
-<sup>4</sup> Bewerbungen, die bis zum Ende der Bewerbungsfrist nicht sämtliche Voraussetzungen für die Anstellung in den Karrieren (Art. 13 Abs. 1 Bst. b–d und 2, 14 sowie Art. 15 Abs. 1–3 und 7) erfüllen, werden im Rahmen einer administrativen Vorauswahl ausgeschieden.[^15-1]
+- a. muss die Anstellungsvoraussetzungen nach Artikel 13 Absatz 1 Buchstaben b–d und 2 erfüllen;
+- b. darf das Höchstalter nach Artikel 14 Absatz 2 nicht überschritten haben; und
+- c. muss einen Hochschulabschluss auf Stufe Master oder eine gleichwertige Ausbildung vorweisen.
 
-<sup>5</sup> Im Anschluss an die administrative Vorauswahl findet eine qualitative Vorselektion statt, in der entschieden wird, welche Kandidaten und Kandidatinnen zu den Prüfungen des Eintrittsverfahrens zugelassen werden.
+<sup>3</sup>
 
-<sup>6</sup> Aufgrund der Ergebnisse in den Prüfungen und unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission entscheidet der Departementsvorsteher oder die Departementsvorsteherin, welche Kandidaten und Kandidatinnen zur Ausbildung zugelassen werden.
+Wer sich für die Zulassung zur konsularischen Karriere bewirbt, muss:
 
-<sup>7</sup> Kandidaten und Kandidatinnen, die nicht zur Ausbildung zugelassen werden, können das Eintrittsverfahren I einmal wiederholen, sofern die Anstellungsvoraussetzungen weiterhin erfüllt sind und die Person im Rahmen der qualitativen Vorselektion (Abs. 5) nochmals zu den Prüfungen zugelassen wird.
+- a. die Anstellungsvoraussetzungen nach Artikel 13 Absatz 1 Buchstaben b−d erfüllen; und
+- b.
 
-[^15-1]: Fassung gemäss Ziff. I der V des EDA vom 30. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+  eine der folgenden Qualifikationen vorweisen:
+
+  - 1\. bei einer Bewerbung als Angehöriger oder Angehörige des konsularischen Managementpersonals: einen Hochschulabschluss auf Stufe Bachelor oder eine gleichwertige Ausbildung,
+  - 2\. bei einer Bewerbung als Angehöriger oder Angehörige des konsularischen Fachpersonals: eine kaufmännische Grundausbildung oder eine gleichwertige Ausbildung.
+
+[^15-1]: Fassung gemäss Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 15a
+
+**Zulassung zur Ausbildung**[^15a-1]
+
+### (Art. 24 BPV)
+
+<sup>1</sup> Die DR scheidet im Rahmen einer administrativen Vorauswahl Bewerbungen von Kandidaten und Kandidatinnen aus, die bis zum Ende der Bewerbungsfrist nicht sämtliche Voraussetzungen nach Artikel 15 und Artikel 15*a* Absatz 4 erfüllen.
+
+<sup>2</sup>
+
+Über die Zulassung zu den Prüfungen des Eintrittsverfahrens I entscheidet im Rahmen einer qualitativen Vorselektion:
+
+- a. die zuständige Zulassungskommission für die Karriere Diplomatie, die Karriere IZA und das konsularische Managementpersonal der konsularischen Karriere;
+- b. die DR für das konsularische Fachpersonal der konsularischen Karriere.
+
+<sup>3</sup>
+
+Über die Zulassung zur Ausbildung entscheidet aufgrund der Ergebnisse der Prüfungen:
+
+- a. der Departementsvorsteher oder die Departementsvorsteherin für die Karriere Diplomatie, die Karriere IZA und das konsularische Managementpersonal der konsularischen Karriere; er oder sie berücksichtigt dabei die Empfehlung der zuständigen Zulassungskommission;
+- b. der Direktor oder die Direktorin der DR für das konsularische Fachpersonal der konsularischen Karriere.
+
+<sup>4</sup> Wer nicht zur Ausbildung zugelassen wird, kann das Eintrittsverfahren I einmal wiederholen, sofern die Voraussetzungen nach Artikel 15 weiterhin erfüllt sind und der Kandidat oder die Kandidatin im Rahmen der qualitativen Vorselektion nochmals zu den Prüfungen zugelassen wird.
+
+[^15a-1]: Eingefügt durch Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 16
 
@@ -307,15 +343,20 @@ Wer in den Karrieren nach Artikel 2 angestellt wird, muss:
 
 #### Art. 17
 
-**Unbefristete Anstellung**
+**Unbefristete Anstellung**[^17-1]
 
 ### (Art. 24 BPV)
 
-<sup>1</sup> Die DR entscheidet aufgrund der Ergebnisse der Ausbildung und der Schlussevaluation und unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission über die unbefristete Anstellung des Kandidaten oder der Kandidatin.[^17-1]
+<sup>1</sup>
+
+Über eine unbefristete Anstellung entscheidet:
+
+- a. bei den Kandidaten und Kandidatinnen für die Karriere Diplomatie, die Karriere IZA und das konsularische Managementpersonal der konsularischen Karriere: der Direktor oder die Direktorin der DR, nach Absprache mit dem Departementsvorsteher oder der Departementsvorsteherin, aufgrund der Ergebnisse der Ausbildung und der Schlussevaluation sowie unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission;
+- b. bei den Kandidaten und Kandidatinnen für das konsularische Fachpersonal der konsularischen Karriere: der Personalchef oder die Personalchefin des EDA aufgrund der Ergebnisse der während der Ausbildung durchgeführten Evaluation.
 
 <sup>2</sup> Bei der Festsetzung des Lohnes wird die Dauer der Ausbildung (Art. 16 Abs. 2) als Berufserfahrung angerechnet.
 
-[^17-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^17-1]: Fassung gemäss Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 #### Art. 18
 
@@ -346,6 +387,30 @@ Der Arbeitsvertrag regelt insbesondere:
 
 [^19-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
+### 3*a*. Abschnitt: Übertrittsverfahren innerhalb der konsularischen Karriere
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Eingefügt durch Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
+
+#### Art. 19a
+
+<sup>1</sup>
+
+Angestellte, die zum konsularischen Fachpersonal der konsularischen Karriere gehören, können sich für den Übertritt zum konsularischen Managementpersonal bewerben, wenn sie zusätzlich zu den Anstellungsvoraussetzungen nach Artikel 13 Absatz 1 Buchstaben b−d eine der folgenden Voraussetzungen erfüllen:
+
+- a. Sie weisen einen Hochschulabschluss auf Stufe Bachelor oder eine gleichwertige Ausbildung vor.
+- b.
+
+  Sie verfügen über die folgenden Leistungsnachweise:
+
+  - 1\. Sie sind seit mindestens fünf Jahren als Angehörige des konsularischen Fachpersonals der konsularischen Karriere tätig.
+  - 2\. Sie haben bereits einen Einsatz auf einer Stelle des konsularischen Managementpersonals geleistet und können für diesen Einsatz mindestens eine Leistungsbeurteilung vorweisen.
+
+<sup>2</sup> Geprüft werden die allgemeine Eignung sowie die fachlichen und persönlichen Voraussetzungen für einen Übertritt vom konsularischen Fachpersonal zum konsularischen Managementpersonal.
+
+<sup>3</sup> Der Departementsvorsteher oder die Departementsvorsteherin entscheidet aufgrund der Ergebnisse der Prüfung und unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission über den Übertritt vom konsularischen Fachpersonal zum konsularischen Managementpersonal.
+
 ### 4. Abschnitt: Zulassungskommissionen
 
 #### Art. 20
@@ -356,32 +421,26 @@ Das Departement ernennt je eine Kommission für die Zulassung zu den Karrieren n
 
 #### Art. 21
 
-**Zuständigkeit**[^21-1]
+**Empfehlungen der zuständigen Zulassungskommission**[^21-1]
 
-<sup>1</sup> Die zuständige Zulassungskommission nimmt die qualitative Vorselektion des Eintrittsverfahrens I (Art. 15 Abs. 5) vor.
+<sup>1</sup>
 
-<sup>2</sup>
+Die zuständige Zulassungskommission gibt im Rahmen des Eintrittsverfahrens I für die Karriere Diplomatie, die Karriere IZA und das konsularische Managementpersonal der konsularischen Karriere eine Empfehlung ab:
 
-Sie gibt im Rahmen des Eintrittsverfahrens I eine Empfehlung ab:
+- a. zuhanden des Departementsvorstehers oder der Departementsvorsteherin im Hinblick auf die Zulassung zur Ausbildung (Art. 15*a* Abs. 3 Bst. a);
+- b. zuhanden des Direktors oder der Direktorin der DR im Hinblick auf eine unbefristete Anstellung (Art. 17 Abs. 1 Bst. a).
 
-- a. zuhanden des Departementsvorstehers oder der Departementsvorsteherin im Hinblick auf die Zulassung zur Ausbildung (Art. 15 Abs. 6);
-- b. zuhanden der DR im Hinblick auf eine unbefristete Anstellung (Art. 17 Abs. 1).
+<sup>2</sup> Sie gibt im Rahmen des Übertrittsverfahrens im Hinblick auf den Übertritt vom konsularischen Fachpersonal zum konsularischen Managementpersonal eine Empfehlung zuhanden des Departementsvorstehers oder der Departementsvorsteherin ab (Art. 19*a* Abs. 3).
 
-[^21-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^21-1]: Fassung gemäss Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
-### 5. Abschnitt: Allgemeine Voraussetzungen für die Anstellung als Fachpersonal
-
-[^chap3-sec5-1]
-
-[^chap3-sec5-1]: Eingefügt durch Ziff. I der V des EDA vom 30. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+### 5. Abschnitt: …
 
 #### Art. 21a
 
-Wer als Fachpersonal angestellt wird, muss:
+[^21a-1]
 
-- a. einen unbescholtenen Leumund haben;
-- b. das schweizerische Bürgerrecht besitzen;
-- c. sich bereit erklären, die Versetzungspflicht zu erfüllen.
+[^21a-1]: Eingefügt durch Ziff. I der V des EDA vom 30. Okt. 2020 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)). Aufgehoben durch Ziff. I der V des EDA vom 31. März 2025, mit Wirkung seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ## 3*a*. Kapitel: Indexierung der Einsatzorte
 
@@ -2297,6 +2356,17 @@ Der Lohn von Angestellten nach Artikel 2 Absatz 2 Buchstabe b des bisherigen Rec
 Ausbildungskostenbeiträge in der Schweiz, die Angestellten zum Zeitpunkt des Inkrafttretens der Änderung vom 30. Oktober 2020 nach Artikel 130 des bisherigen Rechts zugesprochen wurden, können bis zur nächsten Versetzung ins Ausland, längstens aber bis am 31. Juli 2023 nach bisherigem Recht gewährt werden.
 
 [^161e-1]: Eingefügt durch Ziff. I der V des EDA vom 30. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
+
+#### Art. 161f
+
+**Übergangsbestimmungen zur Änderung vom 31. März 2025: Dienstzugehörigkeit**[^161f-1]
+
+Ab dem 1. April 2025 gilt folgende Dienstzugehörigkeit:
+
+- a. Die Angestellten der Karriere Konsularisches, Betriebsführung und Finanzen nach Artikel 2 Buchstabe c des bisherigen Rechts gehören als konsularisches Managementpersonal der konsularischen Karriere nach Artikel 2 Buchstabe c des neuen Rechts an.
+- b. Die Angestellten des Fachpersonals nach Artikel 2 des bisherigen Rechts, die konsularische Aufgaben erfüllen, gehören als konsularisches Fachpersonal der konsularischen Karriere nach Artikel 2 Buchstabe c des neuen Rechts an.
+
+[^161f-1]: Eingefügt durch Ziff. I der V des EDA vom 31. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 232](https://fedlex.data.admin.ch/eli/oc/2025/232)).
 
 ### 4. Abschnitt: Inkrafttreten
 
