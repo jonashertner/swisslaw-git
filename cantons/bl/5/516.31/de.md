@@ -3,20 +3,19 @@ canton: BL
 number: "516.31"
 title: Verordnung über den Pflanzenbau
 language: de
-version: 2019-07-01
-valid_until: 2025-04-30
-version_adopted: 2019-06-11
+version: 2025-05-01
+version_adopted: 2025-05-06
 adopted: 2011-04-19
 in_force: 2011-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/516.31"
-pdf: "https://bl.clex.ch/api/de/versions/4248/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Pflanzenbau
 
-Vom 19.04.2011 (Stand 01.07.2019)
+Vom 19.04.2011 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug der Massnahmen von Bund und Kanton für den Obst-, Wein-, Gemüse- und Feldbau sowie den Pflanzenschutz.
+<sup>1</sup> Diese Verordnung regelt den Vollzug der Massnahmen von Bund und Kanton für den Obst-, Wein-, Gemüse- und Feldbau sowie die Wein- und Schaumweinbereitung.
 
 #### § 2
 
@@ -102,7 +101,7 @@ beschliesst:
 - 6\. Bodenbeschaffenheit / Wasserhaushalt: keine Hang- oder Staunässe;
 - 7\. Windzutritt: nach Norden geschützt durch mind. 20 m hohes Gelände oder Bewuchs;
 
-<sup>4</sup> Der Ebenrain holt vor dem Entscheid die Stellungnahme des Weinproduzentenverbandes Baselland und der kantonalen Naturschutzfachstelle ein.
+<sup>4</sup> Der Ebenrain holt vor dem Entscheid die Stellungnahme des regionalen Branchenverbands und der kantonalen Naturschutzfachstelle ein.
 
 <sup>5</sup> Der Ebenrain kann Bedingungen und Auflagen an die Bewilligung knüpfen und in Abweichung von den Kriterien 1–7 in Abs. 3 zu Versuchszwecken befristete Pflanzbewilligungen erteilen.
 
@@ -138,6 +137,12 @@ beschliesst:
 
 <sup>7</sup> …
 
+<sup>8</sup> Widerrechtlich gepflanzte Reben werden nicht in den kantonalen Rebbaukataster aufgenommen. Der Ebenrain ordnet die Beseitigung widerrechtlich gepflanzter Reben an.
+
+<sup>9</sup> Der Ebenrain kann aus Gründen des Pflanzenschutzes die Rodung nicht mehr genutzter und nicht mehr gepflegter Reben verfügen.
+
+<sup>10</sup> Die Bewirtschafterin bzw. der Bewirtschafter oder die Grundeigentümerin bzw. der Grundeigentümer muss die Reben innerhalb von 12 Monaten nach Erhalt der Verfügung beseitigen. Nach unbenutztem Ablauf dieser Frist lässt der Ebenrain die Reben auf Kosten der bzw. des Fehlbaren beseitigen.
+
 ## 3.2 Weinlesekontrolle
 
 #### § 9
@@ -167,17 +172,21 @@ beschliesst:
 
 #### § 10
 
-**Produktionsgebiete und Lagen**
+**Produktionsgebiete, Lagen und regionale Bezeichnungen**
 
 <sup>1</sup> Die Weinbaugebiete der Kantone Basel-Landschaft, Basel-Stadt und Solothurn bilden je 1 Produktionsgebiet.
 
-<sup>2</sup> Lagen sind begrenzte Ursprungsgebiete wie: Rebberg, Weingut, Schlossgut, Halde mit der ortsbekannten Flur-, Hof-, Kataster- oder anderer geografischer Bezeichnung für kleine Rebgebiete.
+<sup>2</sup> Lagebezeichnungen dürfen als Zusatzbezeichnung verwendet werden. Lagen sind begrenzte Ursprungsgebiete wie: Rebberg, Weingut, Schlossgut, Halde mit der ortsbekannten Flur-, Hof-, Kataster- oder anderer geografischer Bezeichnung für kleine Rebgebiete.
 
 <sup>3</sup> Der Ebenrain:
 
 - a. führt das Reblagenverzeichnis;
 - b. entscheidet über die Aufnahme neuer Lagen und die Lagenzugehörigkeit von Parzellen;
 - c. …
+
+<sup>4</sup> Regionale Bezeichnungen sind geografische Ursprungsgebiete, die nicht im kantonalen Reblagenverzeichnis aufgeführt sind. Sie dürfen als Zusatzbezeichnung verwendet werden.
+
+<sup>5</sup> Regionale Bezeichnungen müssen vor der Verwendung beim Ebenrain beantragt werden. Der Ebenrain führt eine Liste der regionalen Bezeichnungen.
 
 #### § 11
 
@@ -192,17 +201,19 @@ beschliesst:
 
 #### § 12
 
-**Weinbezeichnung mit Gebietshinweis (Kanton, Gemeinde, Lage)**
+**Weinbezeichnung mit Gebietshinweis (Kanton, Gemeinde, regionale Bezeichnung, Lage)**
 
 <sup>1</sup> Die Weine können zusätzlich:
 
 - a. als «Baselbieter Wein», «Basler Wein» oder «Solothurner Wein» bezeichnet werden, wenn die Trauben aus dem betreffenden Produktionsgebiet stammen;
-- b. den Namen einer Gemeinde tragen; sie müssen zu mindestens 70 % aus Trauben dieser Gemeinde und dürfen zu höchstens 30 % aus Trauben anderer Gemeinden des gleichen Produktionsgebietes hergestellt werden;
+- b. den Namen einer Gemeinde oder einer regionalen Bezeichnung tragen; sie müssen zu mindestens 70 % aus Trauben dieser Gemeinde oder dieser regionalen Bezeichnung und dürfen zu höchstens 30 % aus Trauben anderer Gemeinden oder anderer regionaler Bezeichnungen des gleichen Produktionsgebietes hergestellt werden;
 - c. den Namen einer Lage tragen. Sie müssen zu 100 % aus Trauben dieser Lage hergestellt werden. Die Lage muss im kantonalen Verzeichnis enthalten sein.
+
+<sup>2</sup> Ein Los mit Weinbezeichnungen muss nach nachvollziehbaren und rückverfolgbaren Kriterien von den anderen unterschieden werden können.
 
 #### § 13
 
-**Weinbezeichnung mit Hinweis auf ein historisches Gebäude**
+**Weinbezeichnung mit Hinweis auf ein historisches Gebäude oder auf einen umfriedeten Rebberg**
 
 <sup>1</sup> Als «Schloss» kann ein Wein mit kontrollierter Ursprungsbezeichnung bezeichnet werden, der aus Parzellen stammt, die eine homogene Produktionseinheit bilden und zu einem Grundbesitz oder Rebberg gehören, auf dem sich ein Gebäude befindet oder befand, welches traditionsgemäss als Schloss bezeichnet wird.
 
@@ -210,13 +221,15 @@ beschliesst:
 
 <sup>3</sup> Dasselbe gilt für Bezeichnungen anderer historischer Gebäude wie Turm, Landsitz, Abtei.
 
+<sup>4</sup> Als «Clos» kann ein Wein aus einem umfriedeten (ummauerten oder umzäunten) Rebberg bezeichnet werden.
+
 #### § 14
 
-**Hervorgehobene Lese**
+**Zusätzliche hervorhebende Bezeichnungen**
 
-<sup>1</sup> Als «Auslese», «Sélection» kann ein Wein mit kontrollierter Ursprungsbezeichnung bezeichnet werden, den die Produzentin oder der Produzent hervorheben will.
+<sup>1</sup> Als «Auslese»/«Sélection», «Grosses Gewächs»/«Grand Cru», «Erste Lage»/«Premier Cru» kann ein Wein mit kontrollierter Ursprungsbezeichnung bezeichnet werden, den die Produzentin oder der Produzent hervorheben will.
 
-<sup>2</sup> Pro Sorte, Jahrgang und Ursprungsbezeichnung, gegebenenfalls ergänzt durch die kantonalen Zusatzbezeichnungen, darf pro Betrieb nur 1 Los als Auslese bezeichnet werden.
+<sup>2</sup> Pro Sorte, Jahrgang und Ursprungsbezeichnung, gegebenenfalls ergänzt durch die kantonalen Zusatzbezeichnungen, darf pro Betrieb nur 1 Los als «Auslese»/«Sélection», «Grosses Gewächs»/«Grand Cru», «Erste Lage»/«Premier Cru» bezeichnet werden.
 
 <sup>3</sup> Das Los muss nach nachvollziehbaren und rückverfolgbaren Kriterien von den anderen unterschieden werden können. Die Kriterien sind schriftlich festzuhalten und die Einhaltung ist zu dokumentieren.
 
@@ -234,7 +247,7 @@ beschliesst:
 
 **Beerenauslese**
 
-<sup>1</sup> Wein mit kontrollierter Ursprungsbezeichnung, erzeugt aus Trauben mit Edelfäulebefall mit einem natürlichen Mindestzuckergehalt von mindestens 125 °Oechsle. Jede Anreicherung bzw. Konzentration ist verboten.
+<sup>1</sup> Wein mit kontrollierter Ursprungsbezeichnung, erzeugt aus Trauben mit Edelfäulebefall mit einem natürlichen Mindestzuckergehalt von mindestens 110.2 °Oechsle. Jede Anreicherung bzw. Konzentration ist verboten.
 
 #### § 15c
 
@@ -271,7 +284,7 @@ beschliesst:
 
 <sup>1</sup> Der Mindest-Oechslegrad für Trauben, die für Weine mit kontrollierter Ursprungsbezeichnung bestimmt sind, beträgt:
 
-- a. für die weissen Sorten 65 °Oechsle;
+- a. für alle weissen Sorten 65 °Oechsle;
 - b. für alle roten Sorten 70 °Oechsle.
 
 <sup>2</sup> …
@@ -303,14 +316,14 @@ beschliesst:
 
 <sup>3</sup> Oeil de Perdrix ist Roséwein mit KUB/AOC, hergestellt aus Trauben der Sorte Blauburgunder. Er darf ausschliesslich mit bis zu 10 % Grau- oder Weissburgunder oder deren Mischung verschnitten werden.
 
-<sup>4</sup> Weine mit KUB/AOC dürfen maximal um 2,5 Volumenprozent Alkohol auf maximal 15 Volumenprozent Gesamtalkoholgehalt angereichert werden.
+<sup>4</sup> Weine mit KUB/AOC dürfen auf maximal 15 Volumenprozent Gesamtalkoholgehalt angereichert werden.
 
 <sup>5</sup> Der Gehalt an flüchtiger Säure für Weine, die nach einem besonderen Verfahren hergestellt wurden, darf folgende Werte nicht überschreiten:
 
 - a. 30 Milliäquivalent[^20-1] pro Liter bei Süsswein (mehr als 45 g/l Restzuckergehalt);
 - b. 35 Milliäquivalent pro Liter bei Eiswein.
 
-<sup>6</sup> Die Süssung von Weinen mit KUB/AOC ist zugelassen, wenn die Bedingungen nach Anlage 11 zu Anhang 9 der Verordnung des EDI über Getränke vom 16. Dezember 2016[^20-2] erfüllt sind.
+<sup>6</sup> Die Süssung von Weinen mit KUB/AOC ist zugelassen, wenn die Bedingungen nach Anhang 9 der Verordnung des EDI über Getränke vom 16. Dezember 2016[^20-2] erfüllt sind.
 
 [^20-1]: Milliäquivalent entspricht 0,06 g/l flüchtiger Säure.
 [^20-2]: [SR 817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
@@ -327,7 +340,7 @@ beschliesst:
 
 <sup>4</sup> Die sensorische Prüfung erfolgt nach der geltenden Norm der Organisation Internationale de la Vigne et du Vin (OIV). Sie ist bestanden, wenn mindestens 60 von 100 Punkten erreicht werden.
 
-<sup>5</sup> Die Analyse und sensorische Prüfung entfallen für Weine, die mit einem anerkannten Label wie «Vinatura» oder «Winzerwy» versehen werden dürfen. Der Ebenrain entscheidet über die Anerkennung der Label.
+<sup>5</sup> Die Analyse und sensorische Prüfung entfallen für Weine, die mit einem anerkannten Label versehen werden dürfen. Der Ebenrain entscheidet über die Anerkennung der Label.
 
 #### § 22
 
