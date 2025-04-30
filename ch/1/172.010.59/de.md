@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2024)
+vom 19. Oktober 2016 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -89,9 +89,9 @@ Die folgenden Bundesorgane sind für die nachstehenden IAM-Systeme der zentralen
 
 - a.
 
-  der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI der BK) für:
+  der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI) für:[^5-2]
 
-  - 1\. alle als Standarddienste angebotenen oder dem Bereich DTI der BK ausdrücklich zugewiesenen IAM-Systeme einschliesslich derer Zurverfügungstellung an Kantone und Gemeinden sowie Organisationen und Personen des öffentlichen oder privaten Rechts nach Artikel 11 Absatz 3 EMBAG,
+  - 1\. alle als Standarddienste angebotenen oder dem Bereich DTI[^5-3] ausdrücklich zugewiesenen IAM-Systeme einschliesslich derer Zurverfügungstellung an Kantone und Gemeinden sowie Organisationen und Personen des öffentlichen oder privaten Rechts nach Artikel 11 Absatz 3 EMBAG,
   - 2\. das IAM-System der Supportprozesse Finanzen, Beschaffung, Immobilien und Logistik einschliesslich der Cloud-Anbindungen;
 
 - b. die Direktion für Ressourcen im Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) für das von der Informatik EDA betriebene IAM-System;
@@ -115,6 +115,8 @@ Die folgenden Organe sind für die nachstehenden IAM-Systeme verantwortlich:
 <sup>5</sup> Die Verantwortung für das nachgelagerte System, insbesondere für den Zugang dazu, bleibt bei der Fachstelle, die für dieses zuständig ist.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^5-2]: Fassung gemäss Anhang 2 Ziff. II 4 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^5-3]: Ausdruck gemäss Anhang 2 Ziff. II 4 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 6
 
@@ -122,7 +124,7 @@ Die folgenden Organe sind für die nachstehenden IAM-Systeme verantwortlich:
 
 Die für Verzeichnisdienste ausserhalb von IAM-Systemen verantwortlichen Bundesorgane sind:
 
-- a. für die Standarddienste: der Bereich DTI der BK[^6-1];
+- a.[^6-1] für die vom Bereich DTI zentral bereitgestellten IKT-Mittel: der Bereich DTI;
 - b.
 
   für die anderen Verzeichnisse: die Informatik-Leistungserbringer, die diese Systeme betreiben, im Einzelnen:
@@ -133,7 +135,7 @@ Die für Verzeichnisdienste ausserhalb von IAM-Systemen verantwortlichen Bundeso
   - 4\. das Bundesamt für Informatik und Telekommunikation (BIT),
   - 5\. das ISCeco.
 
-[^6-1]: Ausdruck gemäss Anhang Ziff. 8 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^6-1]: Fassung gemäss Anhang 2 Ziff. II 4 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 7
@@ -247,7 +249,7 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 **Zentraler Identitätsspeicher als Verteiler**
 
-<sup>1</sup> Für die Verteilung von Benutzerdaten auf die verschiedenen IAM-Systeme und Verzeichnisdienste betreibt das BIT einen zentralen Identitätsspeicher. In diesem können alle Personendaten gemäss Anhang bearbeitet werden. Verantwortliches Bundesorgan ist der Bereich DTI der BK.
+<sup>1</sup> Für die Verteilung von Benutzerdaten auf die verschiedenen IAM-Systeme und Verzeichnisdienste betreibt das BIT einen zentralen Identitätsspeicher. In diesem können alle Personendaten gemäss Anhang bearbeitet werden. Verantwortliches Bundesorgan ist der Bereich DTI.
 
 <sup>2</sup> Das IPDM liefert die Daten gemäss Anhang soweit verfügbar regelmässig an den zentralen Identitätsspeicher. Jeder automatische Bezug von Personendaten aus dem IPDM erfolgt über diesen Verteiler. Ausgenommen ist der direkte Bezug von Personalstammdaten im SAP-Standard für die berechtigten SAP-Systeme.
 
@@ -326,9 +328,9 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 
 <sup>2</sup> IAM-Systeme und Verzeichnisdienste, die nicht von Stellen nach Artikel 2 oder in deren Auftrag geführt werden, dürfen nur mit bundesinternen IAM-Systemen oder Verzeichnisdiensten verbunden werden, wenn sie die Minimalanforderungen bezüglich der Informationssicherheit erfüllen.[^18-3]
 
-<sup>3</sup> Für den Zugang zu bestimmten Informationssystemen können von der zuständigen Stelle oder vom Bereich DTI der BK die Einhaltung höherer Anforderungen und bestimmte Zertifizierungen verlangt werden.
+<sup>3</sup> Für den Zugang zu bestimmten Informationssystemen können von der zuständigen Stelle oder vom Bereich DTI die Einhaltung höherer Anforderungen und bestimmte Zertifizierungen verlangt werden.
 
-<sup>4</sup> Der Bereich DTI der BK regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen und Verfahren.
+<sup>4</sup> Der Bereich DTI regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen und Verfahren.
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-2]: Fassung gemäss Ziff. I der V vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
@@ -361,7 +363,7 @@ Die IAM-Systeme des Bundes können untereinander und mit den externen IAM-System
 Die nachstehenden externen IAM-Systeme können für den Zugang der in ihnen geführten Personen zu den Ressourcen des Bundes an die IAM-Systeme des Bundes angeschlossen werden, sofern sie die Bedingungen und Verfahren nach den Artikeln 22 und 23 einhalten und ihre Betreiber sich verpflichten, diese Verordnung und die gestützt darauf erlassenen Vorgaben einzuhalten oder im Falle der Kantone diese eine mindestens gleichwertige Informationssicherheit gewährleisten:[^21-1]
 
 - a.[^21-2] IAM-Systeme mit kantonalen und kommunalen Mitarbeiterinnen und Mitarbeitern nach Artikel 9 Buchstabe a sowie IAM-Systeme des Fürstentums Liechtenstein;
-- b. vom Bereich DTI der BK anerkannte IAM-Systeme, die für den Identitätsverbund im E‑Government vorgesehen sind;
+- b. vom Bereich DTI anerkannte IAM-Systeme, die für den Identitätsverbund im E‑Government vorgesehen sind;
 - c. ausländische IAM-Systeme oder Identitätsverbunde, deren gegenseitige Anbindung in einem Staatsvertrag vorgesehen ist; oder
 - d. Attribut-Register, die Angaben zu beruflichen Funktionen gemäss Anhang Buchstabe b für den Abruf bereitstellen.
 
@@ -391,9 +393,9 @@ Der Antrag enthält insbesondere:
 
 <sup>1</sup> Das für ein IAM-System des Bundes verantwortliche Bundesorgan ist für den Entscheid über den Antrag zuständig.
 
-<sup>2</sup> Soll das externe IAM-System über das direkt angeschlossene IAM-System hinaus auch mit anderen IAM-Systemen des Bundes verbunden sein, so ist für die Gutheissung des Antrags das Einverständnis des Bereichs DTI der BK erforderlich.
+<sup>2</sup> Soll das externe IAM-System über das direkt angeschlossene IAM-System hinaus auch mit anderen IAM-Systemen des Bundes verbunden sein, so ist für die Gutheissung des Antrags das Einverständnis des Bereichs DTI erforderlich.
 
-<sup>3</sup> Das verantwortliche Bundesorgan schliesst mit der antragstellenden Stelle die Vereinbarung ab, informiert der Bereich DTI der BK und gibt dem zuständigen Leistungserbringer den Auftrag für den Anschluss.
+<sup>3</sup> Das verantwortliche Bundesorgan schliesst mit der antragstellenden Stelle die Vereinbarung ab, informiert der Bereich DTI und gibt dem zuständigen Leistungserbringer den Auftrag für den Anschluss.
 
 <sup>4</sup> Anträge auf Änderungen oder Abschaltungen werden wie Anschlussanträge behandelt.
 
@@ -415,7 +417,7 @@ IAM-Systeme des Bundes können als Lieferant von Identitäts- und Authentifizier
 - b. Es besteht eine Vereinbarung zwischen dem Bund und dem Betreiber des empfangenden Informationssystems, welche die Beziehung in rechtlicher, organisatorischer und technischer Hinsicht regelt.
 - c. Die Verbindung ist so konfiguriert, dass sie einzig für den Zugang zu bestimmten, vordefinierten Informationssystemen verwendet werden kann.
 
-<sup>2</sup> Der Bereich DTI der BK regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen in Absprache mit dem für das entsprechende IAM-System verantwortlichen Organ und überprüft die Einhaltung periodisch.
+<sup>2</sup> Der Bereich DTI regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen in Absprache mit dem für das entsprechende IAM-System verantwortlichen Organ und überprüft die Einhaltung periodisch.
 
 <sup>3</sup> Ebenfalls möglich ist die Teilnahme an einem internationalen Identitätsverbund auf der Basis eines Staatsvertrags, sofern gewährleistet ist, dass die Anforderungen an die Informationssicherheit eingehalten werden.
 
@@ -474,7 +476,7 @@ Jedes Organ, das für ein IAM-System, für einen Verzeichnisdienst oder für ein
 
 **Vollzug**
 
-Der Bereich DTI der BK erlässt die administrativen und technischen Weisungen zum Aufbau und zum Betrieb der IAM-Systeme des Bundes.
+Der Bereich DTI erlässt die administrativen und technischen Weisungen zum Aufbau und zum Betrieb der IAM-Systeme des Bundes.
 
 #### Art. 30
 

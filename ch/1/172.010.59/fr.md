@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur les systèmes de gestion des données 
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/fr"
 
 (OIAM)
 
-du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2024)
+du 19 octobre 2016 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -89,9 +89,9 @@ Les organes de la Confédération suivants sont responsables des systèmes IAM d
 
 - a.
 
-  le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI de la ChF), pour:
+  le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI), pour:[^5-2]
 
-  - 1\. tous les systèmes IAM proposés comme services standard et tous les systèmes IAM relevant explicitement du secteur TNI de la ChF, y compris leur mise à la disposition des cantons et des communes ainsi que d’organisations et de personnes de droit public ou de droit privé conformément à l’art. 11, al. 3, LMETA,
+  - 1\. tous les systèmes IAM proposés comme services standard et tous les systèmes IAM relevant explicitement du secteur TNI[^5-3], y compris leur mise à la disposition des cantons et des communes ainsi que d’organisations et de personnes de droit public ou de droit privé conformément à l’art. 11, al. 3, LMETA,
   - 2\. le système IAM des processus de soutien en matière de finances, d’acquisition, de gestion immobilière et de logistique, y compris le raccordement aux services d’informatique en nuage *(**cloud**)*;
 
 - b. la Direction des ressources du Département fédéral des affaires étrangères (DFAE), pour le système IAM exploité par l’unité Informatique DFAE;
@@ -115,6 +115,8 @@ Les organes suivants sont responsables des systèmes IAM ci-après:
 <sup>5</sup> La responsabilité du système en aval, et en particulier de l’accès à celui-ci, continue d’incomber au service technique responsable du système.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^5-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^5-3]: Nouvelle expression selon l’annexe 2 ch. II 4 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -122,7 +124,7 @@ Les organes suivants sont responsables des systèmes IAM ci-après:
 
 Les organes de la Confédération responsables des services d’annuaires extérieurs aux systèmes IAM sont:
 
-- a. pour les services standard, le secteur TNI de la ChF[^6-1];
+- a.[^6-1] pour les moyens informatiques mis à disposition de manière centralisée par le secteur TNI, le secteur TNI;
 - b.
 
   pour les autres annuaires, les fournisseurs de prestations informatiques qui exploitent ces systèmes, à savoir:
@@ -133,7 +135,7 @@ Les organes de la Confédération responsables des services d’annuaires extér
   - 4\. l’Office fédéral de l’informatique et de la télécommunication (OFIT),
   - 5\. l’ISCeco.
 
-[^6-1]: Nouvelle expression selon l’annexe ch. 8 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-1]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 7
@@ -247,7 +249,7 @@ Les données des membres d’autorités cantonales ou communales et d’autres e
 
 **Base centralisée des identités pour la distribution des données**
 
-<sup>1</sup> L’OFIT exploite une base centralisée des identités pour distribuer les données des utilisateurs aux différents systèmes IAM et services d’annuaires. Toutes les données personnelles mentionnées dans l’annexe peuvent être traitées dans cette base. Le secteur TNI de la ChF est l’organe responsable au sein de la Confédération.
+<sup>1</sup> L’OFIT exploite une base centralisée des identités pour distribuer les données des utilisateurs aux différents systèmes IAM et services d’annuaires. Toutes les données personnelles mentionnées dans l’annexe peuvent être traitées dans cette base. Le secteur TNI est l’organe responsable au sein de la Confédération.
 
 <sup>2</sup> IGDP transmet régulièrement à la base centralisée des identités les données mentionnées dans l’annexe, pour autant que ces dernières soient disponibles. Toute obtention automatique de données personnelles depuis IGDP est réalisée grâce à ce distributeur, à l’exception de l’obtention directe des données de base du personnel dans l’environnement SAP pour les systèmes SAP autorisés.
 
@@ -324,9 +326,9 @@ Le système IAM authentifie les personnes, les machines ou les systèmes qui dem
 
 <sup>2</sup> Les systèmes IAM et les services d’annuaires qui ne sont pas gérés par des organes visés à l’art. 2 ou sur mandat de ces derniers peuvent être raccordés à des systèmes IAM ou des services d’annuaires internes à l’administration fédérale uniquement s’ils respectent les exigences minimales concernant la sécurité de l’information.[^18-3]
 
-<sup>3</sup> L’organe compétent ou le secteur TNI de la ChF peut demander le respect d’exigences plus élevées et des certifications précises afin d’accorder l’accès à certains systèmes d’information.
+<sup>3</sup> L’organe compétent ou le secteur TNI peut demander le respect d’exigences plus élevées et des certifications précises afin d’accorder l’accès à certains systèmes d’information.
 
-<sup>4</sup> Le secteur TNI de la ChF fixe dans des directives les exigences en matière de sécurité et les procédures à respecter.
+<sup>4</sup> Le secteur TNI fixe dans des directives les exigences en matière de sécurité et les procédures à respecter.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 8 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
@@ -359,7 +361,7 @@ Les systèmes IAM de la Confédération peuvent être reliés entre eux et aux s
 Les systèmes IAM externes ci-après peuvent être raccordés aux systèmes IAM de la Confédération afin que les personnes gérées dans ces systèmes externes puissent accéder aux ressources de celle-ci, pour autant que les conditions et les procédures énoncées aux art. 22 et 23 soient respectées et que leurs exploitants s’engagent à respecter la présente ordonnance et les prescriptions qui en découlent ou, dans le cas des cantons, que ces derniers garantissent une sécurité de l’information au moins équivalente:[^21-1]
 
 - a.[^21-2] systèmes IAM comprenant des collaborateurs cantonaux et communaux au sens de l’art. 9, let. a, et systèmes IAM de la Principauté de Liechtenstein;
-- b. systèmes IAM reconnus par le secteur TNI de la ChF qui sont destinés à la fédération d’identités dans le cadre de la cyberadministration;
+- b. systèmes IAM reconnus par le secteur TNI qui sont destinés à la fédération d’identités dans le cadre de la cyberadministration;
 - c. fédérations d’identités ou systèmes IAM étrangers dont le raccordement mutuel est prévu dans un traité international, ou
 - d. registres des attributs qui mettent à disposition des données relatives à des fonctions professionnelles selon l’annexe, let. b.
 
@@ -389,9 +391,9 @@ La demande comprend notamment:
 
 <sup>1</sup> L’organe de la Confédération responsable d’un système IAM de la Confédération est chargé de statuer sur la demande.
 
-<sup>2</sup> Si le système IAM externe est relié aussi à d’autres systèmes IAM de la Confédération par le système auquel il est directement raccordé, l’approbation de la demande requiert l’accord de le secteur TNI de la ChF.
+<sup>2</sup> Si le système IAM externe est relié aussi à d’autres systèmes IAM de la Confédération par le système auquel il est directement raccordé, l’approbation de la demande requiert l’accord de le secteur TNI.
 
-<sup>3</sup> L’organe de la Confédération responsable conclut la convention avec le service demandeur, informe le secteur TNI de la ChF et mandate le fournisseur de prestations concerné en vue du raccordement.
+<sup>3</sup> L’organe de la Confédération responsable conclut la convention avec le service demandeur, informe le secteur TNI et mandate le fournisseur de prestations concerné en vue du raccordement.
 
 <sup>4</sup> Les demandes de modification ou de déconnexion sont traitées de manière analogue aux demandes de raccordement.
 
@@ -413,7 +415,7 @@ Les systèmes IAM de la Confédération peuvent être raccordés en qualité de 
 - b. la Confédération et l’exploitant du système d’information bénéficiaire concluent une convention régissant les relations sur le plan juridique, organisationnel et technique;
 - c. la connexion est configurée de façon à permettre uniquement un accès aux systèmes d’information prédéfinis.
 
-<sup>2</sup> Le secteur TNI de la ChF fixe dans des directives les exigences à respecter en matière de sécurité, en accord avec l’organe responsable du système IAM correspondant, et vérifie régulièrement si ces exigences sont satisfaites.
+<sup>2</sup> Le secteur TNI fixe dans des directives les exigences à respecter en matière de sécurité, en accord avec l’organe responsable du système IAM correspondant, et vérifie régulièrement si ces exigences sont satisfaites.
 
 <sup>3</sup> Il est également possible de participer à une fédération internationale d’identités sur la base d’un traité international, à condition que le respect des exigences concernant la sécurité de l’information soit garanti.
 
@@ -470,7 +472,7 @@ Tout organe responsable d’un système IAM, d’un service d’annuaires ou d�
 
 **Exécution**
 
-Le secteur TNI de la ChF édicte les directives administratives et techniques concernant la mise en place et l’exploitation des systèmes IAM de la Confédération.
+Le secteur TNI édicte les directives administratives et techniques concernant la mise en place et l’exploitation des systèmes IAM de la Confédération.
 
 #### Art. 30
 

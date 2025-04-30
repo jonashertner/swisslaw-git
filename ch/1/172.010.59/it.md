@@ -4,11 +4,11 @@ title: Ordinanza del 19 ottobre 2016 sui sistemi di gestione delle identità e s
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: it
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20240101/it"
 
 (OIAM)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2024)
+del 19 ottobre 2016 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-6]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^ingress-6]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -55,7 +55,7 @@ Gli articoli 24 e 25 LSIn e la presente ordinanza si applicano:
 
 <sup>2</sup> L’applicabilità della presente ordinanza alle unità amministrative dell’Amministrazione federale decentralizzata secondo l’articolo 2 capoverso 3 LOGA e alle organizzazioni secondo l’articolo 2 capoverso 4 LOGA si fonda sull’articolo 2 capoverso 2 lettera b e 3 dell’ordinanza dell’8 novembre 2023[^2-3] sulla sicurezza delle informazioni (OSIn).
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 [^2-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^2-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
@@ -89,9 +89,9 @@ I seguenti organi federali sono responsabili dei sottostanti sistemi IAM dell’
 
 - a.
 
-  il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT della CaF) per:
+  il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT) per:[^5-2]
 
-  - 1\. tutti i sistemi IAM offerti come servizi standard o esplicitamente attribuiti al settore TDT della CaF inclusa la relativa messa a disposizione dei Cantoni e dei Comuni nonché delle organizzazioni e delle persone di diritto pubblico o privato conformemente all’articolo 11 capoverso 3 LMeCA,
+  - 1\. tutti i sistemi IAM offerti come servizi standard o esplicitamente attribuiti al settore TDT[^5-3] inclusa la relativa messa a disposizione dei Cantoni e dei Comuni nonché delle organizzazioni e delle persone di diritto pubblico o privato conformemente all’articolo 11 capoverso 3 LMeCA,
   - 2\. tutti i sistemi IAM dei processi di supporto legati a finanze, acquisti, immobili e logistica, compresi i collegamenti cloud;
 
 - b. la Direzione delle risorse del Dipartimento federale degli affari esteri (DFAE) per il sistema IAM gestito dall’unità Informatica DFAE;
@@ -114,7 +114,9 @@ I seguenti organi federali sono responsabili dei sottostanti sistemi IAM:
 
 <sup>5</sup> La responsabilità del sistema a valle, in particolare dell’accesso ad esso, rimane al servizio tecnico cui spetta la relativa competenza.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^5-2]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^5-3]: Nuova espr. giusta l’all. 2 cifra II n. 4 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
@@ -122,7 +124,7 @@ I seguenti organi federali sono responsabili dei sottostanti sistemi IAM:
 
 Gli organi federali responsabili dei servizi di elenchi esterni ai sistemi IAM sono:
 
-- a. il settore TDT della CaF[^6-1] per i servizi standard;
+- a.[^6-1] per i mezzi TIC messi a disposizione a livello centralizzato dal settore TDT: il settore TDT;
 - b.
 
   per gli altri elenchi, i fornitori di prestazioni informatiche che gestiscono tali sistemi, più precisamente:
@@ -133,8 +135,8 @@ Gli organi federali responsabili dei servizi di elenchi esterni ai sistemi IAM s
   - 4\. l’Ufficio federale dell’informatica e della telecomunicazione (UFIT),
   - 5\. il CSIeco.
 
-[^6-1]: Nuova espressione giusta l’all. n. 8 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^6-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^6-1]: Nuovo testo giusta l’all. 2 cifra II n. 4 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 7
 
@@ -150,7 +152,7 @@ Le persone interessate fanno valere i propri diritti relativi ai sistemi IAM e a
   - 1\. presso il servizio del personale della loro unità amministrativa od organizzazione oppure presso il servizio competente per l’aggiornamento dei loro dati,
   - 2\. nel caso di cui all’articolo 9 lettera b: presso gli organi responsabili.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## Sezione 4: Dati trattati, ottenimento dei dati e termine di conservazione
 
@@ -191,7 +193,7 @@ Nei sistemi IAM e nei servizi di elenchi possono essere inoltre trattati dati su
 [^8-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 [^8-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^8-4]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^8-5]: Introdotta dal n. I dell’O del 14 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^8-5]: Introdotta dalla cifra I dell’O del 14 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
 
 #### Art. 9
 
@@ -202,7 +204,7 @@ Oltre ai dati di cui all’articolo 8, nei sistemi IAM possono essere trattati d
 - a. collaboratori di autorità cantonali o comunali se queste persone utilizzano sistemi informatici messi a disposizione dalla Confederazione;
 - b.[^9-1] privati e rappresentanti di organizzazioni che accedono a sistemi informatici, come le applicazioni per il Governo elettronico, messi a disposizione dalla Confederazione o, per l’esecuzione del diritto cantonale, dai Cantoni e dai Comuni nonché dalle organizzazioni e dalle persone di diritto pubblico o privato.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 10
 
@@ -223,8 +225,8 @@ Oltre ai dati di cui all’articolo 8, nei servizi di elenchi possono essere tra
 <sup>4</sup> I dati riguardanti persone secondo l’articolo 8 che nell’allegato sono contrassegnati con un asterisco possono essere pubblicati in un elenco di persone accessibile a tutti coloro che vi sono riportati.
 
 [^11-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^11-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
-[^11-3]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 12
 
@@ -239,15 +241,15 @@ Oltre ai dati di cui all’articolo 8, nei servizi di elenchi possono essere tra
 <sup>4</sup> Possono ottenere automaticamente dati di persone esterne dai sistemi IAM esterni collegati ai sistemi IAM della Confederazione secondo gli articoli 21–24.[^12-4]
 
 [^12-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
-[^12-2]: Nuovo testo giusta l’all. 8 n. II 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
-[^12-3]: Nuova espr. giusta l’all. 8 n. II 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^12-4]: Introdotto dal n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^12-2]: Nuovo testo giusta l’all. 8 cifra II n. 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^12-3]: Nuova espr. giusta l’all. 8 cifra II n. 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-4]: Introdotto dalla cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 13
 
 **Archivio centralizzato delle identità per la distribuzione di dati**
 
-<sup>1</sup> L’UFIT gestisce un archivio centralizzato delle identità per distribuire dati degli utenti ai diversi sistemi IAM e ai servizi di elenchi. In questo archivio possono essere trattati tutti i dati personali conformemente all’allegato. L’organo federale responsabile è il settore TDT della CaF.
+<sup>1</sup> L’UFIT gestisce un archivio centralizzato delle identità per distribuire dati degli utenti ai diversi sistemi IAM e ai servizi di elenchi. In questo archivio possono essere trattati tutti i dati personali conformemente all’allegato. L’organo federale responsabile è il settore TDT.
 
 <sup>2</sup> La SIGDP trasmette regolarmente, se disponibili, i dati conformemente all’allegato all’archivio centralizzato delle identità. Tutti i dati personali ottenuti automaticamente dalla SIGDP sono distribuiti mediante questo archivio. Fanno eccezione i dati personali di base nel sistema SAP standard ottenuti direttamente per i sistemi SAP autorizzati.
 
@@ -264,12 +266,12 @@ I dati possono essere messi a disposizione automaticamente di altri sistemi d’
 
 <sup>5</sup> I dati necessari per la pubblicazione nell’Annuario federale secondo l’articolo 5 dell’ordinanza del 29 ottobre 2008[^13-7] sull’organizzazione della Cancelleria federale sono trasmessi regolarmente alla Cancelleria federale.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 [^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^13-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-4]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-4]: Nuovo testo giusta l’all. 2 cifra II n. 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^13-5]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^13-6]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-6]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
 [^13-7]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
@@ -280,7 +282,7 @@ I dati possono essere messi a disposizione automaticamente di altri sistemi d’
 
 <sup>2</sup> Sono fatte salve le disposizioni sulla distruzione dei dati biometrici secondo l’articolo 20 capoverso 2 LSIn.[^14-1]
 
-[^14-1]: Introdotto dal n. I dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)). Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^14-1]: Introdotto dalla cifra I dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)). Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## Sezione 5: Comunicazione di dati in relazione ai sistemi IAM
 
@@ -310,13 +312,13 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 
 <sup>4</sup> Le persone interessate devono essere previamente informate.
 
-[^17-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-1]: Nuovo testo giusta l’all. 2 cifra II n. 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 6: Misure di protezione dei sistemi IAM e dei servizi di elenchi
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 18
 
@@ -326,13 +328,13 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 
 <sup>2</sup> I sistemi IAM e i servizi di elenchi che non sono gestiti da servizi secondo l’articolo 2 o su loro mandato, possono essere collegati a sistemi IAM o servizi di elenchi interni alla Confederazione soltanto se soddisfano i requisiti minimi in materia di sicurezza delle informazioni.[^18-3]
 
-<sup>3</sup> Per accedere a determinati sistemi d’informazione il servizio competente o il settore TDT della CaF possono esigere il rispetto di requisiti più severi e la presenza di determinate certificazioni.
+<sup>3</sup> Per accedere a determinati sistemi d’informazione il servizio competente o il settore TDT possono esigere il rispetto di requisiti più severi e la presenza di determinate certificazioni.
 
-<sup>4</sup> Il settore TDT della CaF disciplina in istruzioni i requisiti in materia di sicurezza e le procedure da rispettare.
+<sup>4</sup> Il settore TDT disciplina in istruzioni i requisiti in materia di sicurezza e le procedure da rispettare.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
-[^18-3]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 19
 
@@ -352,7 +354,7 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 
 I sistemi IAM della Confederazione possono essere collegati tra loro e con i sistemi IAM esterni di cui all’articolo 21 al fine di costituire un sistema globale.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 21
 
@@ -361,12 +363,12 @@ I sistemi IAM della Confederazione possono essere collegati tra loro e con i sis
 I seguenti sistemi esterni IAM possono essere collegati ai sistemi IAM della Confederazione per consentire l’accesso delle persone ivi registrate alle risorse della Confederazione, sempre che siano soddisfatte le condizioni e le procedure secondo gli articoli 22 e 23 e i loro gestori s’impegnino a rispettare la presente ordinanza e le direttive emanate in virtù della stessa oppure, nel caso dei Cantoni, tali sistemi garantiscano una sicurezza delle informazioni almeno equivalente:[^21-1]
 
 - a.[^21-2] sistemi IAM comprendenti collaboratori cantonali e comunali secondo l’articolo 9 lettera a e i sistemi IAM del Principato del Liechtenstein;
-- b. sistemi IAM riconosciuti dal settore TDT della CaF previsti per la rete per le identificazioni nell’ambito del Governo elettronico;
+- b. sistemi IAM riconosciuti dal settore TDT previsti per la rete per le identificazioni nell’ambito del Governo elettronico;
 - c. sistemi IAM esteri o reti estere per le identificazioni il cui collegamento è previsto in un trattato internazionale; oppure
 - d. registri degli attributi che mettono a disposizione per l’utilizzo dati relativi alle funzioni professionali conformemente alla lettera b dell’allegato.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
-[^21-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 #### Art. 22
 
@@ -391,9 +393,9 @@ La richiesta contiene in particolare:
 
 <sup>1</sup> La decisione in merito alla richiesta di collegamento spetta all’organo federale responsabile del sistema IAM della Confederazione interessato.
 
-<sup>2</sup> Se il sistema IAM esterno deve essere collegato, oltre al sistema IAM direttamente collegato, anche ad altri sistemi IAM della Confederazione, per l’approvazione della richiesta è necessario il consenso del settore TDT della CaF.
+<sup>2</sup> Se il sistema IAM esterno deve essere collegato, oltre al sistema IAM direttamente collegato, anche ad altri sistemi IAM della Confederazione, per l’approvazione della richiesta è necessario il consenso del settore TDT.
 
-<sup>3</sup> L’organo federale responsabile stipula l’accordo con il servizio richiedente, ne informa il settore TDT della CaF e conferisce il mandato per il collegamento al fornitore di prestazioni competente.
+<sup>3</sup> L’organo federale responsabile stipula l’accordo con il servizio richiedente, ne informa il settore TDT e conferisce il mandato per il collegamento al fornitore di prestazioni competente.
 
 <sup>4</sup> Le richieste di modiche o disattivazioni sono trattate analogamente alle richieste di collegamento.
 
@@ -415,11 +417,11 @@ I sistemi IAM della Confederazione possono essere collegati, in qualità di forn
 - b. tra la Confederazione e il gestore del sistema d’informazione beneficiario esiste un accordo che disciplina il rapporto sotto il profilo legale, organizzativo e tecnico;
 - c. il collegamento è configurato in modo da permettere unicamente un accesso a sistemi d’informazione predefiniti.
 
-<sup>2</sup> Il settore TDT della CaF disciplina in istruzioni i requisiti da soddisfare in materia di sicurezza, d’intesa con l’organo responsabile per il corrispondente sistema IAM, e periodicamente ne verifica il rispetto.
+<sup>2</sup> Il settore TDT disciplina in istruzioni i requisiti da soddisfare in materia di sicurezza, d’intesa con l’organo responsabile per il corrispondente sistema IAM, e periodicamente ne verifica il rispetto.
 
 <sup>3</sup> È altresì possibile partecipare a una rete internazionale per le identificazioni sulla base di un trattato internazionale a condizione che sia garantito il rispetto dei requisiti in materia di sicurezza delle informazioni.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 ## Sezione 8: Verbalizzazione, statistiche e documentazione
 
@@ -433,7 +435,7 @@ I sistemi IAM della Confederazione possono essere collegati, in qualità di forn
 
 <sup>3</sup> È fatta salva una verbalizzazione più dettagliata, una conservazione prolungata o un’archiviazione dei dati protocollati concernenti gli accessi a un determinato sistema d’informazione se lo prevede su una base legale particolare.
 
-[^25-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^25-1]: Nuovo testo giusta l’all. 2 cifra II n. 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 26
 
@@ -445,7 +447,7 @@ I sistemi IAM della Confederazione possono essere collegati, in qualità di forn
 
 <sup>3</sup> In base ai principi vigenti per l’ottenimento di servizi informatici in seno alla Confederazione la trasmissione può essere soggetta a pagamento.
 
-[^26-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Nuovo testo giusta l’all. 2 cifra II n. 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -474,7 +476,7 @@ Ogni organo che secondo la presente ordinanza è responsabile di un sistema IAM,
 
 **Esecuzione**
 
-Il settore TDT della CaF emana le istruzioni amministrative e tecniche per realizzare e gestire i sistemi IAM della Confederazione.
+Il settore TDT emana le istruzioni amministrative e tecniche per realizzare e gestire i sistemi IAM della Confederazione.
 
 #### Art. 30
 
@@ -496,7 +498,7 @@ Allegato[^t-1]
 
 ## Categorie di dati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O dell’8 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 738](https://fedlex.data.admin.ch/eli/oc/2023/738)).
 
 Osservazione preliminare: per il significato degli asterischi (\*) si veda l’articolo 11 capoverso 4.
 
