@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 régissant les émoluments de l'Office fé
 short: OEmol-OFRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: fr
-version: 2022-01-01
+version: 2025-05-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20250501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/fr"
 
 (Ordonnance sur les émoluments de l’OFROU, OEmol-OFROU)
 
-du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2022)
+du 7 novembre 2007 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -157,12 +157,12 @@ Annexe[^t-1]
 
 ## Émoluments pour prestations et autorisations spéciales
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Mise à jour par le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Mise à jour par le ch. I des O du 8 sept. 2021 ([RO 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) et du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)).
 
 <table>
 <tr><th></th><th></th><th>francs</th></tr>
 <tr><td>1</td><td>Octroi ou refus d’autorisations pour l’importation ou le transit transfrontalier avec un véhicule spécial ou un chargement indivisible (art. 78, al. 2, et 79, al. 1 et 5, de l’ordonnance du 13 nov. 1962 sur les règles de la circulation routière, OCR[^annexu1-lvlu1-1])</td><td></td></tr>
-<tr><td>1.1</td><td>Autorisation unique :</td><td></td></tr>
+<tr><td>1.1</td><td>Autorisation unique:</td><td></td></tr>
 <tr><td>1.1.1</td><td>Pour des dépassements de dimensions et de poids compris dans les valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td>80</td></tr>
 <tr><td>1.1.2</td><td>Pour des dépassements de dimensions et de poids au-delà des valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td></td></tr>
 <tr><td></td><td>– émolument de base</td><td>200</td></tr>
@@ -208,9 +208,15 @@ Annexe[^t-1]
 <tr><td>5.4</td><td>Examen préliminaire des demandes d’autorisation de construire et des demandes d’autorisation de réclames dans la zone des routes nationales ainsi que leur octroi ou leur refus: en fonction du temps consacré</td><td></td></tr>
 <tr><td></td><td>– jusqu’à 2 heures</td><td>gratuit</td></tr>
 <tr><td></td><td>– tarif horaire dès la 3<sup>e</sup> heure</td><td>150</td></tr>
-<tr><td>6</td><td>Autres décisions du domaine du droit de la circulation routière</td><td>jusqu’à 5000</td></tr>
+<tr><td>6</td><td>Reconnaissance (art. 17*a*, al. 1, de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers [ORT][^annexu1-lvlu1-4]), notification (art. 17*c*, al. 2, ORT), annulation de la reconnaissance (17*d*, al. 1, ORT) et contrôle de la plausibilité du plan d’expertise d’un organe d’expertise (19*a*, al. 4, ORT)</td><td></td></tr>
+<tr><td>6.1</td><td>Par procédure de reconnaissance</td><td>300</td></tr>
+<tr><td>6.2</td><td>Par procédure de notification</td><td>200</td></tr>
+<tr><td>6.3</td><td>Par procédure d’annulation</td><td>300</td></tr>
+<tr><td>6.4</td><td>Contrôle de la plausibilité du plan d’expertise</td><td>500</td></tr>
+<tr><td>7</td><td>Autres décisions dans le domaine du droit de la circulation routière</td><td>jusqu’à 5000</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^annexu1-lvlu1-2]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
 [^annexu1-lvlu1-3]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^annexu1-lvlu1-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)

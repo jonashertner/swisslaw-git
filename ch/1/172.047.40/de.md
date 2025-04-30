@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2007 über die Gebühren des Bundesamtes für
 short: GebV-ASTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: de
-version: 2022-01-01
+version: 2025-05-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/de"
 
 (Gebührenverordnung ASTRA, GebV-ASTRA)
 
-vom 7. November 2007 (Stand am 1. Januar 2022)
+vom 7. November 2007 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -137,7 +137,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 Die Gebührenverordnung ASTRA vom 19. Juni 1995[^9-1] wird aufgehoben.
 
-[^9-1]: [[AS 1995 3991](https://fedlex.data.admin.ch/eli/oc/1995/3991_3991_3991), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 3, [2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 2 Ziff. 3, [2003 3369](https://fedlex.data.admin.ch/eli/oc/2003/469), [2006 1673](https://fedlex.data.admin.ch/eli/oc/2006/261)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 61]
+[^9-1]: [[AS 1995 3991](https://fedlex.data.admin.ch/eli/oc/1995/3991_3991_3991); [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 3; [2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 2 Ziff. 3; [2003 3369](https://fedlex.data.admin.ch/eli/oc/2003/469); [2006 1673](https://fedlex.data.admin.ch/eli/oc/2006/261), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 61]
 
 #### Art. 10
 
@@ -157,7 +157,7 @@ Anhang[^t-1]
 
 ## Gebühren für besondere Dienstleistungen und Bewilligungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Bereinigt gemäss Ziff. I der V vom 8. Sept. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Bereinigt gemäss Ziff. I der V vom 8. Sept. 2021 ([AS 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) und vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)).
 
 <table>
 <tr><th></th><th></th><th>Franken</th></tr>
@@ -208,9 +208,15 @@ Anhang[^t-1]
 <tr><td>5.4</td><td>Vorprüfung von Baugesuchen und von Gesuchen für die Bewilligung von Reklamen im Bereich der Nationalstrassen sowie Erteilung oder Verweigerung der Genehmigung für diese Bewilligung: nach Zeitaufwand</td><td></td></tr>
 <tr><td></td><td>– Aufwand bis 2 Stunden</td><td>kostenlos</td></tr>
 <tr><td></td><td>– Aufwand ab 3. Stunde, je</td><td>150</td></tr>
-<tr><td>6</td><td>Weitere Verfügungen im Bereich des Strassenverkehrsrechts</td><td>bis 5000</td></tr>
+<tr><td>6</td><td>Anerkennung (Art. 17*a* Abs. 1 der Verordnung vom 19. Juni 1995[^annexu1-lvlu1-4] über die Typengenehmigung von Strassenfahrzeugen [TGV]), Notifizierung (Art. 17*c* Abs. 2 TGV), Aufhebung der Anerkennung (Art. 17*d* Abs. 1 TGV) und Plausibilisierung Prüfkonzept von Prüfstellen (Art. 19*a* Abs. 4 TGV)</td><td></td></tr>
+<tr><td>6.1</td><td>Pro Anerkennungsverfahren</td><td>300</td></tr>
+<tr><td>6.2</td><td>Pro Notifizierungsverfahren</td><td>200</td></tr>
+<tr><td>6.3</td><td>Pro Aufhebungsverfahren</td><td>300</td></tr>
+<tr><td>6.4</td><td>Plausibilisierung Prüfkonzept</td><td>500</td></tr>
+<tr><td>7</td><td>Weitere Verfügungen im Bereich des Strassenverkehrsrechts</td><td>bis 5000</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^annexu1-lvlu1-2]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
 [^annexu1-lvlu1-3]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^annexu1-lvlu1-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)

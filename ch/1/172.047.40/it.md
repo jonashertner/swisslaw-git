@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2007 concernente gli emolumenti dell'Ufficio fe
 short: OEmo-USTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: it
-version: 2022-01-01
+version: 2025-05-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2007-786-20250501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/it"
 
 (Ordinanza sugli emolumenti USTRA, OEmo-USTRA)
 
-del 7 novembre 2007 (Stato 1° gennaio 2022)
+del 7 novembre 2007 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -37,7 +37,7 @@ La presente ordinanza si applica agli emolumenti riscossi per le decisioni e le 
 
 **Emolumenti per le approvazioni del tipo**
 
-Gli emolumenti per la procedura d’approvazione del tipo di veicoli si basano sull’articolo 32 e sull’appendice 3 dell’ordinanza del 19 giugno 1995[^2-1] concernente l’approvazione del tipo di veicoli stradali.
+Gli emolumenti per la procedura d’approvazione del tipo di veicoli si basano sull’articolo 32 e sull’allegato 3 dell’ordinanza del 19 giugno 1995[^2-1] concernente l’approvazione del tipo di veicoli stradali.
 
 [^2-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 
@@ -85,17 +85,17 @@ Gli emolumenti sono stabiliti:
 
 <sup>8</sup> Il rilascio o il diniego dell’autorizzazione per la posa e la modifica di segnaletica turistica lungo le strade nazionali di prima e seconda classe sono gratuiti.[^5-11]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-3]: [RS 451.13](https://fedlex.data.admin.ch/eli/cc/2010/227)
 [^5-4]: [RS 741.57](https://fedlex.data.admin.ch/eli/cc/2018/782)
-[^5-5]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-5]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-6]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^5-7]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-7]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-8]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^5-9]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-10]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-11]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-9]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-10]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-11]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 
 #### Art. 5a
 
@@ -107,7 +107,7 @@ Gli emolumenti sono stabiliti:
 
 <sup>3</sup> I dati nazionali contenuti nel sottosistema SIAC Valutazione del sistema d’informazione sull’ammissione alla circolazione sono forniti ai Cantoni e a terzi che li elaborano su loro mandato con una riduzione del 50 per cento degli emolumenti.
 
-[^5a-1]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)). Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 30 nov. 2012 ([RU 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)). Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 
 #### Art. 6
 
@@ -137,7 +137,7 @@ Con effetto all’inizio dell’anno successivo, il Dipartimento federale dell�
 
 L’ordinanza del 19 giugno 1995[^9-1] sugli emolumenti USTRA è abrogata.
 
-[^9-1]: [[RU 1995 3991](https://fedlex.data.admin.ch/eli/oc/1995/3991_3991_3991), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 3, [2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 3, [2003 3369](https://fedlex.data.admin.ch/eli/oc/2003/469), [2006 1673](https://fedlex.data.admin.ch/eli/oc/2006/261)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 61]
+[^9-1]: [[RU 1995 3991](https://fedlex.data.admin.ch/eli/oc/1995/3991_3991_3991); [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 3; [2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 3; [2003 3369](https://fedlex.data.admin.ch/eli/oc/2003/469); [2006 1673](https://fedlex.data.admin.ch/eli/oc/2006/261), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 61]
 
 #### Art. 10
 
@@ -157,7 +157,7 @@ Allegato[^t-1]
 
 ## Emolumenti per prestazioni e autorizzazioni speciali
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 30 nov. 2018 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Aggiornato dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 30 nov. 2018 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Aggiornato dalle cifre I delle O dell’8 set. 2021 ([RU 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) e del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)).
 
 <table>
 <tr><th></th><th></th><th>Franchi</th></tr>
@@ -208,9 +208,15 @@ Allegato[^t-1]
 <tr><td>5.4</td><td>Esame preliminare di domande di costruzione e di domande per l’autorizzazione di cartelloni pubblicitari nelle aree appartenenti alle strade nazionali, nonché rilascio o diniego dell’approvazione di tale autorizzazione: in base al tempo impiegato</td><td></td></tr>
 <tr><td></td><td>– fino a 2 ore</td><td>gratuito</td></tr>
 <tr><td></td><td>– da 3 ore in poi, per ciascun esame</td><td>150</td></tr>
-<tr><td>6</td><td>Altre decisioni nell’ambito della legislazione sulla circolazione stradale</td><td>fino a 5000</td></tr>
+<tr><td>6</td><td>Riconoscimento (art. 17*a* cpv. 1 dell’ordinanza del 19 giugno 1995[^annexu1-lvlu1-4] concernente l’approvazione del tipo di veicoli stradali [OATV]), notifica (art. 17*c* cpv. 2 OATV), revoca del riconoscimento (art. 17*d* cpv. 1 OATV) e verifica della plausibilità dei piani di controllo dei singoli organi (art. 19*a* cpv. 4 OATV)</td><td></td></tr>
+<tr><td>6.1</td><td>per procedura di riconoscimento</td><td>300</td></tr>
+<tr><td>6.2</td><td>per procedura di notifica</td><td>200</td></tr>
+<tr><td>6.3</td><td>per procedura di revoca</td><td>300</td></tr>
+<tr><td>6.4</td><td>verifica della plausibilità piano di controllo</td><td>500</td></tr>
+<tr><td>7</td><td>Altre decisioni nell’ambito della legislazione sulla circolazione stradale</td><td>fino a 5000</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^annexu1-lvlu1-2]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
 [^annexu1-lvlu1-3]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^annexu1-lvlu1-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
