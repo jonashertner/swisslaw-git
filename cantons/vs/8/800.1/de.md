@@ -4,13 +4,12 @@ number: "800.1"
 title: Gesundheitsgesetz
 short: GG
 language: de
-version: 2021-01-01
-valid_until: 2025-04-30
-version_adopted: 2020-03-12
+version: 2025-05-01
+version_adopted: 2024-11-14
 adopted: 2020-03-12
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/800.1"
-pdf: "https://lex.vs.ch/api/de/versions/2749/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2749/pdf_file"
 
 (GG)
 
-vom 12.03.2020 (Stand 01.01.2021)
+vom 12.03.2020 (Stand 01.05.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -33,15 +32,17 @@ eingesehen das Bundesgesetz über die medizinisch unterstützte Fortpflanzung vo
 
 eingesehen das Bundesgesetz über Arzneimittel und Medizinprodukte vom 15. Dezember 2000 (HMG);
 
-eingesehen das Bundesgesetz über genetische Untersuchungen beim Menschen vom 8. Oktober 2004 (GUMG);
+eingesehen das Bundesgesetz über genetische Untersuchungen beim Menschen vom 15. Juni 2018 (GUMG);
 
 eingesehen das Bundesgesetz zum Schutz vor Passivrauchen vom 3. Oktober 2008;
 
-eingesehen das Bundesgesetz über die Transplantation von Organen, Geweben und Zellen vom 8. Oktober 2004 (Transplantationsgesetz);
+eingesehen das Bundesgesetz über die Transplantation von Organen, Geweben und Zellen vom 8. Oktober 2004;
 
-eingesehen das Bundesgesetz über Voraussetzungen und Verfahren bei Sterilisationen vom 17. Dezember 2004 (Sterilisationsgesetz);
+eingesehen das Bundesgesetz über Voraussetzungen und Verfahren bei Sterilisationen vom 17. Dezember 2004;
 
 eingesehen das Bundesgesetz über die universitären Medizinalberufe vom 23. Juni 2006 (MedBG);
+
+eingesehen das Bundesgesetz über die Gesundheitsberufe vom 30. September 2016 (GesBG);
 
 eingesehen das Bundesgesetz über die Forschung am Menschen vom 30. September 2011 (HFG);
 
@@ -121,6 +122,8 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die ärztliche Grundversorgung wird im Prinzip prioritär von privaten Leistungserbringern gewährleistet. Öffentliche Leistungserbringer erbringen sie subsidiär im Rahmen ihrer Leistungsaufträge.
 
+<sup>3</sup> Der Staatsrat fördert alle Massnahmen, welche die Einführung von partnerschaftlichen Projekten und die interprofessionelle Zusammenarbeit auf regionaler und kantonaler Ebene ermöglichen und erleichtern. Er veröffentlicht seine Arbeiten in seinem Jahresbericht.
+
 #### Art. 6
 
 **Pilotprojekte**
@@ -196,6 +199,18 @@ verordnet:[^ingress-1]
 <sup>1</sup> Der Kantonsapotheker befasst sich im Rahmen der Dienststelle für Gesundheitswesen mit den Aufgaben, die ihm durch das vorliegende Gesetz sowie die kantonale und eidgenössische Gesetzgebung übertragen werden, namentlich mit der Kontrolle der Arznei- und der Betäubungsmittel.
 
 <sup>2</sup> Er berät die Departemente und Dienststellen der Kantonsverwaltung in diesen Bereichen.
+
+#### Art. 11a
+
+**Kantonspflegefachperson**
+
+<sup>1</sup> Die Kantonspflegefachperson ist innerhalb der Dienststelle für Gesundheitswesen dafür zu sorgen, dass Demografie, Verantwortlichkeiten und Aufgaben der Gesundheitsberufe im Sinne der eidgenössischen und kantonalen Gesetzgebung abgestimmt sind, um den Bedürfnissen der Bevölkerung und des Gesundheitssystems gerecht zu werden.
+
+<sup>2</sup> Sie entwickelt eine kantonale strategische Vision für die Pflege und die Gesundheitsberufe und trägt zu ihrer Umsetzung bei.
+
+<sup>3</sup> Sie berät die Departemente und die Dienststellen der Kantonsverwaltung in diesen Bereichen.
+
+<sup>4</sup> Sie arbeitet bei der Erfüllung ihrer Aufgaben mit dem Kantonsarzt zusammen.
 
 #### Art. 12
 
@@ -611,7 +626,7 @@ verordnet:[^ingress-1]
 
 **Meldepflicht**
 
-<sup>1</sup> Ausländische Staatsangehörige, die aufgrund internationaler Abkommen berechtigt sind, während maximal 90 Tagen pro Kalenderjahr ohne Bewilligung in der Schweiz selbstständig einen Medizinalberuf oder einen anderen Gesundheitsberuf auszuüben, müssen sich vor Aufnahme ihrer Tätigkeit bei der Dienststelle für Gesundheitswesen melden. Sie müssen die Art der Tätigkeiten, die sie auszuüben gedenken, den Arbeitsort und die vorgesehenen Daten angeben sowie die vom Bundesrecht verlangten Bescheinigungen vorlegen.
+<sup>1</sup> Ausländische Staatsangehörige, die gemäss internationaler Abkommen berechtigt sind, während maximal 90 Tagen pro Kalenderjahr ohne Bewilligung in der Schweiz selbstständig einen Medizinalberuf oder einen anderen Gesundheitsberuf auszuüben, müssen sich vor Aufnahme ihrer Tätigkeit bei der zuständigen Bundesbehörde melden. Sie müssen die Art der Tätigkeiten, die sie auszuüben gedenken, den Arbeitsort und die vorgesehenen Daten angeben sowie die vom Bundesrecht verlangten Bescheinigungen vorlegen.
 
 <sup>2</sup> Inhaber einer Bewilligung eines anderen Schweizer Kantons haben das Recht, ihren Gesundheitsberuf im Sinne des vorliegenden Gesetzes und zu den im Bundesrecht vorgesehenen Bedingungen während maximal 90 Tagen pro Kalenderjahr im Wallis auszuüben. Sie müssen sich bei der Dienststelle für Gesundheitswesen melden. Sie müssen die Art der Tätigkeiten, die sie auszuüben gedenken, ihren Arbeitsort und die vorgesehenen Daten angeben sowie ein Dokument der Behörde, welche die Bescheinigung ausgestellt hat, dass gegen sie kein Disziplinarverfahren läuft, vorlegen.
 
@@ -674,7 +689,7 @@ verordnet:[^ingress-1]
 - e) handlungsfähig ist;
 - f) über die notwendigen Kenntnisse einer Amtssprache des Kantons verfügt.
 
-<sup>3</sup> Wenn die Anerkennung ausländischer Diplome und Titel nicht einer Bundesbehörde obliegt, befindet die Dienststelle für Gesundheitswesen.
+<sup>3</sup> Wenn die Anerkennung ausländischer Diplome und Titel nicht einer Bundesbehörde obliegt, befindet die Dienststelle für Gesundheitswesen gemäss den Kriterien in Absatz 2.
 
 <sup>4</sup> Der Staatsrat legt auf dem Verordnungsweg die ausführlichen Voraussetzungen fest.
 
@@ -725,6 +740,72 @@ verordnet:[^ingress-1]
 <sup>3</sup> Die Dienststelle für Gesundheitswesen kann Informationen im Zusammenhang mit den Tätigkeiten der Fachpersonen mit Berufsausübungsbewilligung sowie die Dokumente, die sie für die gute Führung der Dossiers und die Verwaltung dieser Fachpersonen als nützlich erachtet, verlangen.
 
 <sup>4</sup> Die Bekanntgabe der öffentlichen Daten erfolgt gemäss Bundesgesetzgebung über die Medizinalberufe und gilt analog für alle anderen bewilligungspflichtigen Berufe.
+
+### 4.2a Beschränkung der Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung für den Arztberuf
+
+#### Art. 57a
+
+**Anwendungsbereich**
+
+<sup>1</sup> Im vorliegenden Abschnitt werden die anwendbaren Grundsätze, die Zuständigkeiten des Staatsrats und das anwendbare Verfahren in Bezug auf Zulassungsbeschränkungen für Ärzte definiert, die der allgemeinen Beschränkungsregelung für die Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (OKP) im Sinne von Artikel 55a des Bundesgesetzes über die Krankenversicherung (KVG) und der Bundesverordnung über die Festlegung der Höchstzahlen für Ärzte im ambulanten Bereich unterliegen.
+
+#### Art. 57b
+
+**Ziele**
+
+<sup>1</sup> Ziel der Festlegung von Höchstzahlen ist es sicherzustellen, dass das medizinische Angebot angemessen ist und den Bedürfnissen der Bevölkerung entspricht.
+
+<sup>2</sup> Der Staatsrat stellt im jährlichen Bericht über die Gesundheitspolitik den Deckungsgrad pro ärztlichem Fachgebiet dem nationalen Durchschnitt gegenüber. Er formuliert im Bericht die geplanten Massnahmen zur Deckung des Bedarfs.
+
+#### Art. 57c
+
+**Von der Zulassungsbeschränkung betroffene Ärzte**
+
+<sup>1</sup> Von der Zulassungsbeschränkung betroffen sind Ärzte, die über einen Weiterbildungstitel oder als gleichwertig anerkannten Titel im Sinne des KVG verfügen und ambulante Leistungen zulasten der obligatorischen Krankenpflegeversicherung, einschliesslich im spitalambulanten Bereich, erbringen.
+
+#### Art. 57d
+
+**Der Zulassungsbeschränkung unterliegende Fachgebiete**
+
+<sup>1</sup> Der Staatsrat legt in einer Verordnung entsprechend den in der Bundesverordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich definierten Kriterien und methodologischen Grundsätzen die der Beschränkung unterliegenden Fachgebiete und die Höchstzahlen für Ärzte in den der Beschränkung unterliegenden Fachgebieten, die für die Erbringung von ambulanten Leistungen zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind, fest.
+
+<sup>2</sup> Bei der Festlegung der Höchstzahlen für Ärzte sieht der Staatsrat Gewichtungsfaktoren vor, um Umstände zu berücksichtigen, die bei der Berechnung des Deckungsgrads nicht einbezogen werden.
+
+<sup>3</sup> In Sonderfällen kann das Departement im Interesse der öffentlichen Gesundheit oder des regionalen Gleichgewichts von der Beschränkung abweichen.
+
+<sup>4</sup> Das Departement nimmt eine regelmässige Bewertung der medizinischen Demografie, der Gewichtungsfaktoren und der Beschränkungen vor.
+
+#### Art. 57e
+
+**Nichtigkeit der Zulassung**
+
+<sup>1</sup> Die Zulassung verfällt, wenn der Arzt nicht innert 12 Monaten nach ihrer Erteilung von ihr Gebrauch macht, indem er zulasten der obligatorischen Krankenpflegeversicherung tätig wird. Es wird insbesondere angenommen, dass ein Arzt von seiner Zulassung Gebrauch gemacht hat, wenn er von der zuständigen Stelle eine Zahlstellenregister-Nummer (ZSR-Nummer) erhalten hat.
+
+<sup>2</sup> Kann im Einzelfall die Frist aus wichtigen Gründen, insbesondere wegen Krankheit, Mutterschaft oder Weiterbildung, nicht eingehalten werden, kann das Departement diese Frist auf ein schriftliches und begründetes Gesuch hin verlängern.
+
+<sup>3</sup> Die Zulassung wird nichtig, wenn die Tätigkeit im Kanton aufgegeben wird.
+
+#### Art. 57f
+
+**Konsultativkommission für die Planung des ambulanten medizinischen Angebots**
+
+<sup>1</sup> Eine kantonale Kommission für die Planung des medizinischen Angebots legt dem Departement ihre Empfehlungen über die Entwicklung des medizinischen Bedarfs und die Auswirkungen der laufenden Massnahmen zu dessen Anpassung vor.
+
+<sup>2</sup> Der Staatsrat legt in einer Verordnung die Arbeitsweise, die Zusammensetzung und die Aufgaben der Konsultativkommission fest, die periodisch die Mitglieder, welche die betroffenen Kreise vertreten, zusammenführen muss.
+
+<sup>3</sup> Die Konsultativkommission, unter dem Vorsitz des Kantonsarztes, analysiert und schlägt alle zweckdienlichen Massnahmen vor, um eine regionale und kantonale medizinische Unter- oder Überversorgung zu beheben oder zu verhindern.
+
+#### Art. 57g
+
+**Zuständige Behörde und Verfahren**
+
+<sup>1</sup> Die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung wird gegen Gebühr vom Departement erteilt.
+
+<sup>2</sup> Die Zulassung wird erteilt, wenn die Zulassungsvoraussetzungen erfüllt sind. In der Zulassung werden insbesondere das Fachgebiet, der Beschäftigungsgrad und die Tätigkeitsregion angegeben.
+
+<sup>3</sup> Der Staatsrat legt die besonderen Modalitäten des Verfahrens in einer Verordnung fest. Im Übrigen gilt das VVRG.
+
+<sup>4</sup> Das Departement kann die nützlichen Richtlinien erlassen.
 
 ### 4.3 Berufliche Rechte und Pflichten
 
@@ -784,6 +865,16 @@ verordnet:[^ingress-1]
 
 <sup>6</sup> Der Staatsrat kann auf dem Verordnungsweg bestimmte Tätigkeiten bewilligen oder bestimmten Gesundheitsfachpersonen gewisse spezifische Kompetenzen zuerkennen.
 
+#### Art. 63a
+
+**Befugnisse – Apotheker**
+
+<sup>1</sup> Apotheker, die über die erforderliche Ausbildung verfügen, sind befugt, gemäss der Bundesgesetzgebung Tests durchzuführen und ohne Verschreibung Arzneimittel zur Diagnose und Behandlung von Gesundheitsstörungen und häufigen Krankheiten abzugeben.
+
+<sup>2</sup> Apotheker können zur Umsetzung des schweizerischen Impfplans beitragen.
+
+<sup>3</sup> Die Leistungen, die von Apothekern erbracht werden dürfen, und deren Umsetzungsmodalitäten werden auf dem Verordnungsweg festgelegt.
+
 #### Art. 64
 
 **Unlautere Vereinbarungen – Kollusion**
@@ -807,6 +898,18 @@ verordnet:[^ingress-1]
 <sup>1</sup> Eine Gesundheitsfachperson, die sich aus gerechtfertigten Gründen nicht am Bereitschaftsdienst beteiligen kann, kann auf Anfrage hin vom entsprechenden Berufsverband davon dispensiert werden.
 
 <sup>2</sup> Die betreffenden Berufsverbände definieren die Kriterien und Anforderungen für die Beteiligung am Bereitschaftsdienst. Gegebenenfalls legen sie die Modalitäten für die Befreiung vom Bereitschaftsdienst in einem Reglement fest, das dem Staatsrat zur Genehmigung unterbreitet wird.
+
+#### Art. 66a
+
+**Bereitschaftsabgabe**
+
+<sup>1</sup> Vom Bereitschaftsdienst befreite Gesundheitsfachpersonen können verpflichtet werden, eine jährliche Abgabe an die für dessen Organisation verantwortlichen Berufsverbände zu zahlen. Die Berufsverbände definieren deren Höhe und Modalitäten in einem vom Staatsrat genehmigten internen Reglement.
+
+<sup>2</sup> Die von den Berufsverbänden erhobenen Beträge sind ausschliesslich für die Finanzierung des Bereitschaftsdiensts und der diesbezüglichen Dispositive vorgesehen.
+
+<sup>3</sup> Der Staatsrat legt auf dem Verordnungsweg fest, welche Berufe der Abgabe unterliegen.
+
+<sup>4</sup> Die von den Berufsverbänden festgelegte Abgabe darf höchstens 12’000 Franken pro Jahr betragen.
 
 #### Art. 67
 
@@ -1180,7 +1283,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Bei Missachtung von Kapitel 5.5 sind die in Kapitel 9 vorgesehenen Sanktionen anwendbar.
 
-## 6 Besondere medizinische Massnahmen und Forschung
+## 6 Besondere medizinische Massnahmen, Forschung und verbotene Praktiken
 
 #### Art. 99
 
@@ -1215,6 +1318,24 @@ verordnet:[^ingress-1]
 <sup>2</sup> Der Arzt, der die Sterilisation einer Person unter umfassender Beistandschaft oder einer dauernd urteilsunfähigen Person durchgeführt hat, meldet dies innerhalb von 30 Tagen dem Kantonsarzt.
 
 <sup>3</sup> Die Meldung darf keine Daten enthalten, mit denen Personen identifiziert werden können.
+
+#### Art. 102a
+
+**"Konversionstherapien": Praktiken, die auf eine Veränderung der romantischen oder sexuellen Orientierung oder der Geschlechtsidentität einer anderen Person abzielen**
+
+<sup>1</sup> "Konversionstherapien", einschliesslich jeglicher Praktiken, die darauf abzielen, die romantische oder sexuelle Orientierung oder Geschlechtsidentität einer anderen Person zu verändern oder zu unterdrücken, sind verboten und werden mit den im vorliegenden Gesetz vorgesehenen Sanktionen bestraft.
+
+<sup>2</sup> Ebenfalls verboten und mit den im vorliegenden Gesetz vorgesehenen Sanktionen belegt sind das Bewerben, das Erleichtern oder das Unterstützen des Zugangs zu solchen Praktiken oder ihrer Inanspruchnahme.
+
+<sup>3</sup> Fachpersonen, die namentlich in den Bereichen Gesundheit, Bildung, Soziales, Sport, Jugendarbeit oder religiöse Aktivitäten tätig sind und feststellen, dass minderjährige oder nicht urteilsfähige Personen den unter Absatz 1 oder 2 aufgeführten Praktiken ausgesetzt sind, benachrichtigen entsprechend der einschlägigen geltenden Gesetzgebung den Kantonsarzt, die Kindes- und Erwachsenenschutzbehörde und gegebenenfalls die Behörde, der sie unterstehen.
+
+<sup>4</sup> Für minderjährige Personen bleiben die Bestimmungen der Meldepflicht im Jugendgesetz vorbehalten.
+
+<sup>5</sup> Nicht betroffen von den Absätzen 1 bis 4 sind:
+
+- a) psychosoziale oder psychotherapeutische Therapien und Hilfs- und Unterstützungsleistungen, die das Recht auf Selbstbestimmung der Person einhalten und zum freien Ausdruck ihrer romantischen oder sexuellen Orientierung oder ihrer Geschlechtsidentität beitragen;
+- b) hormonelle und chirurgische Behandlungen zur Geschlechtsangleichung, die mit der freien und aufgeklärten Zustimmung der Person durchgeführt werden und im Rahmen anerkannter Behandlungen für Geschlechtsinkongruenz medizinisch indiziert sind;
+- c) die Tatsache, Personen, die sich Fragen zu ihrer Geschlechtsidentität stellen und eine Behandlung im Sinne von Buchstabe b erwägen, unter Einhaltung des Rechts auf Selbstbestimmung zu Reflexion aufzufordern, ohne ihren Zugang zu Behandlungen zur Geschlechtsangleichung zu behindern oder zu verzögern.
 
 #### Art. 103
 
@@ -1442,6 +1563,10 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Der Staat unterstützt Programme zur Prävention von Tabakmissbrauch, Alkoholismus, Drogenabhängigkeit, Spielsucht und anderen Suchterkrankungen, insbesondere die Hilfs- und Unterstützungsmassnahmen für Jugendliche.
 
+<sup>2</sup> Der Verkauf von Einweg-E-Zigaretten ist verboten.
+
+<sup>3</sup> Jeder Verstoss gegen Absatz 2 wird mit einer Sanktion gemäss Artikel 137 bestraft, der sinngemäss Anwendung findet.
+
 #### Art. 124
 
 **Verhütung von übertragbaren Krankheiten und Infektionskrankheiten**
@@ -1574,9 +1699,9 @@ verordnet:[^ingress-1]
 
 **Tabakwerbung**
 
-<sup>1</sup> Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren ist auf öffentlichem Grund und in öffentlichen Räumen, auf vom öffentlichen Grund aus sichtbarem Privatgrund, in den Kinosälen und an Kultur- und Sportveranstaltungen verboten.
+<sup>1</sup> Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legales Cannabis, Nikotinprodukte und andere Rauchwaren ist auf öffentlichem Grund und in öffentlichen Räumen, auf vom öffentlichen Grund aus sichtbarem Privatgrund, in Kinosälen und an Kultur- und Sportveranstaltungen verboten.
 
-<sup>2</sup> Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legalen Cannabis und andere Rauchwaren, die Minderjährige erreicht, ist in öffentlich zugänglichen privaten Räumen ebenfalls verboten.
+<sup>2</sup> Werbung für Tabakprodukte, E-Zigaretten, Vaporizer, legales Cannabis, Nikotinprodukte und andere Rauchwaren, die Minderjährige erreicht, ist auch in öffentlich zugänglichen privaten Räumen verboten.
 
 #### Art. 137
 
@@ -1702,9 +1827,9 @@ verordnet:[^ingress-1]
 
 #### Art. 146
 
-**Missbrauch psychotroper und stimulierender Arzneimittel**
+**Missbrauch von Arzneimitteln**
 
-<sup>1</sup> Mit dem Einverständnis des Patienten kann der behandelnde Arzt die Gesundheitsbehörden um Hilfe angehen, um bei nachweislichem Missbrauch den Zugang des Betroffenen zu psychotropen und stimulierenden Arzneimitteln einzuschränken.
+<sup>1</sup> Mit dem Einverständnis des Patienten kann der behandelnde Arzt die Gesundheitsbehörden um Hilfe angehen, um bei nachweislichem Missbrauch den Zugang des Betroffenen zu Arzneimitteln, insbesondere zu psychotropen und stimulierenden Arzneimitteln, einzuschränken.
 
 <sup>2</sup> Werden durch den Missbrauch Dritte oder der Patient selbst gefährdet, ist das Einverständnis des Patienten nicht nötig.
 

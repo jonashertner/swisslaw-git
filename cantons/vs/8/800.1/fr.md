@@ -4,13 +4,12 @@ number: "800.1"
 title: Loi sur la santé
 short: LS
 language: fr
-version: 2021-01-01
-valid_until: 2025-04-30
-version_adopted: 2020-03-12
+version: 2025-05-01
+version_adopted: 2024-11-14
 adopted: 2020-03-12
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/800.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2749/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3484/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,33 +18,35 @@ pdf: "https://lex.vs.ch/api/fr/versions/2749/pdf_file"
 
 (LS)
 
-du 12.03.2020 (état 01.01.2021)
+du 12.03.2020 (état 01.05.2025)
 
 Le Grand Conseil du canton du Valais
 
 vu les articles 19, 31 et 42 de la Constitution cantonale;
 
-vu la loi fédérale sur les stupéfiants du 3 octobre 1951 (LStup);
+vu la loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre 1951 (LStup);
 
 vu la loi fédérale sur l'assurance-maladie du 18 mars 1994 (LAMal);
 
 vu la loi fédérale sur la procréation médicalement assistée du 18 décembre 1998 (LPMA);
 
-vu la loi fédérale sur les produits thérapeutiques du 15 décembre 2000 (LPTh);
+vu la loi fédérale sur les médicaments et les dispositifs médicaux du 15 décembre 2000 (LPTh);
 
-vu la loi fédérale sur l'analyse génétique humaine du 8 octobre 2004 (LAGH);
+vu la loi fédérale sur l'analyse génétique humaine du 15 juin 2018 (LAGH);
 
 vu la loi fédérale sur la protection contre le tabagisme passif du 3 octobre 2008;
 
-vu la loi fédérale sur la transplantation d'organes, de tissus et de cellules du 8 octobre 2004 (loi sur la transplantation);
+vu la loi fédérale sur la transplantation d'organes, de tissus et de cellules du 8 octobre 2004;
 
-vu la loi fédérale sur les conditions et la procédure régissant la stérilisation de personnes du 17 décembre 2004 (loi sur la stérilisation);
+vu la loi fédérale sur les conditions et la procédure régissant la stérilisation de personnes du 17 décembre 2004;
 
-vu la loi fédérale sur les professions médicales du 23 juin 2006 (LPMéd);
+vu la loi fédérale sur les professions médicales universitaires du 23 juin 2006 (LPMéd);
+
+vu la loi fédérale sur les professions de la santé du 30 septembre 2016 (LPSan);
 
 vu la loi fédérale relative à la recherche sur l'être humain du 30 septembre 2011 (LRH);
 
-vu la loi fédérale sur les épidémies du 28 septembre 2012 (LEp);
+vu la loi fédérale sur la lutte contre les maladies transmissibles de l’homme du 28 septembre 2012 (LEp);
 
 vu la loi fédérale sur le dossier électronique du patient du 19 juin 2015 (LDEP);
 
@@ -120,6 +121,8 @@ ordonne:[^ingress-1]
 <sup>1</sup> La couverture des besoins en soins hospitaliers et de longue durée, stationnaires et ambulatoires, est régie par la loi sur les établissements et institutions sanitaires, respectivement la loi sur les soins de longue durée.
 
 <sup>2</sup> En principe, la médecine de premier recours est assurée prioritairement par les fournisseurs privés. Les fournisseurs publics la dispensent de façon subsidiaire dans le cadre des mandats de prestations qui leur sont confiés.
+
+<sup>3</sup> Le Conseil d'Etat favorise toutes les mesures qui permettent et facilitent la mise en place de projets partenariaux et de collaboration interprofessionnelle, tant au niveau régional que cantonal. Il publie ses travaux dans son rapport annuel.
 
 #### Art. 6
 
@@ -196,6 +199,18 @@ ordonne:[^ingress-1]
 <sup>1</sup> Le pharmacien cantonal est chargé, dans le cadre du Service de la santé publique, des tâches que lui attribuent la présente loi, la législation cantonale et la législation fédérale, notamment le contrôle des produits thérapeutiques et des stupéfiants.
 
 <sup>2</sup> Il conseille les départements et les services de l'administration cantonale dans ces domaines.
+
+#### Art. 11a
+
+**Infirmier cantonal**
+
+<sup>1</sup> L’infirmier cantonal est chargé, dans le cadre du Service de la santé publique, de veiller à l'adéquation de la démographie, des responsabilités et des missions des professions de la santé au sens des législations fédérale et cantonale, pour répondre aux besoins de la population et du système sanitaire.
+
+<sup>2</sup> Il développe une vision stratégique cantonale des soins infirmiers et des professions de la santé et contribue à sa mise en œuvre.
+
+<sup>3</sup> Il conseille les départements et les services de l’administration cantonale dans ces domaines.
+
+<sup>4</sup> Il collabore avec le médecin cantonal dans l'exécution de ses tâches.
 
 #### Art. 12
 
@@ -611,7 +626,7 @@ ordonne:[^ingress-1]
 
 **Devoir d'annonce**
 
-<sup>1</sup> Les ressortissants étrangers qui, en vertu de traités internationaux, ont le droit d’exercer à titre indépendant, sans autorisation, une profession médicale ou une autre profession de la santé en Suisse pendant 90 jours au plus par année civile doivent s’annoncer auprès du Service de la santé publique avant leur début d'activité. Ils doivent préciser la nature des activités qu’ils entendent exercer, ainsi que leur lieu de travail et les dates prévues, et fournir les attestations exigées par le droit fédéral.
+<sup>1</sup> Les ressortissants étrangers qui, en vertu de traités internationaux, ont le droit d’exercer à titre indépendant, sans autorisation, une profession médicale ou une autre profession de la santé en Suisse pendant 90 jours au plus par année civile doivent s’annoncer auprès de l'autorité fédérale compétente avant leur début d'activité. Ils doivent préciser la nature des activités qu’ils entendent exercer, ainsi que leur lieu de travail et les dates prévues, et fournir les attestations exigées par le droit fédéral.
 
 <sup>2</sup> Les titulaires d’une autorisation d’un autre canton suisse ont le droit d’exercer leur profession de la santé en Valais au sens de la présente loi pendant 90 jours au plus par année civile, aux conditions prévues par le droit fédéral. Ils doivent s’annoncer auprès du Service de la santé publique. Ils doivent préciser la nature des activités qu’ils entendent exercer, ainsi que leur lieu de travail et les dates prévues, et fournir un document de l’autorité ayant délivré l’autorisation attestant qu’ils ne font pas l’objet d’une procédure disciplinaire.
 
@@ -674,7 +689,7 @@ ordonne:[^ingress-1]
 - e) a l'exercice des droits civils;
 - f) dispose des connaissances nécessaires dans une langue officielle du canton.
 
-<sup>3</sup> Quand la reconnaissance des diplômes et des titres étrangers ne relève pas d'une autorité fédérale, le Service de la santé publique statue.
+<sup>3</sup> Quand la reconnaissance des diplômes et des titres étrangers ne relève pas d'une autorité fédérale, le Service de la santé publique statue conformément aux critères fixés à l'alinéa 2.
 
 <sup>4</sup> Le Conseil d'Etat définit par voie d'ordonnance les conditions détaillées.
 
@@ -725,6 +740,72 @@ ordonne:[^ingress-1]
 <sup>3</sup> Le Service de la santé publique peut exiger les informations en lien avec leur activité ainsi que les documents qu’il juge utiles à la bonne tenue de ses dossiers et à la gestion des professionnels autorisés.
 
 <sup>4</sup> La communication des données publiques a lieu conformément à la législation fédérale relative aux professions médicales, par analogie pour toutes les autres professions nécessitant une autorisation.
+
+### 4.2a Limitation de l’admission à pratiquer à la charge de l’assurance obligatoire des soins pour la profession de médecin
+
+#### Art. 57a
+
+**Champ d’application**
+
+<sup>1</sup> La présente section définit les principes applicables, les compétences du Conseil d’Etat et la procédure applicable en matière de limitation des admissions des médecins soumis au régime général de la limitation à pratiquer à charge de l’assurance obligatoire des soins au sens de l’article 55a de la loi fédérale sur l’assurance-maladie (LAMal) et de l’ordonnance fédérale sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires.
+
+#### Art. 57b
+
+**Objectifs**
+
+<sup>1</sup> La fixation de nombres maximaux a pour objectifs de garantir une offre médicale adéquate correspondant aux besoins de la population.
+
+<sup>2</sup> Dans son rapport annuel de politique sanitaire, le Conseil d'Etat compare le taux de couverture par spécialité médicale à la moyenne nationale. Il formule dans le rapport les mesures prévues pour couvrir les besoins.
+
+#### Art. 57c
+
+**Médecins concernés par la limitation**
+
+<sup>1</sup> Les médecins concernés par la limitation de l’admission sont ceux qui sont au bénéfice d’un titre postgrade ou jugé équivalent au sens de la LAMal et qui fournissent des prestations ambulatoires à la charge de l’assurance obligatoire des soins, y compris dans le domaine ambulatoire hospitalier.
+
+#### Art. 57d
+
+**Domaines de spécialité visés par la limitation de l’admission**
+
+<sup>1</sup> Le Conseil d’Etat fixe dans une ordonnance les domaines de spécialité soumis à la limitation et les nombres maximaux de médecins des domaines de spécialité soumis à la limitation et admis à fournir des soins ambulatoires à la charge de l’assurance obligatoire des soins, selon les critères et les principes méthodologiques définis dans l’ordonnance fédérale sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires.
+
+<sup>2</sup> Lorsqu’il fixe les nombres maximaux de médecins, le Conseil d’Etat prévoit des facteurs de pondération afin de tenir compte de circonstances qui ne sont pas prises en considération dans le calcul du taux de couverture.
+
+<sup>3</sup> Dans des cas particuliers, le département peut déroger à la limitation pour des raisons de santé publique ou d’équilibre régional.
+
+<sup>4</sup> Le département procède à une évaluation périodique de la démographie médicale, des facteurs de pondération et des limitations.
+
+#### Art. 57e
+
+**Caducité de l’admission**
+
+<sup>1</sup> L'admission à pratiquer à la charge de l’assurance obligatoire des soins est caduque lorsque le médecin n'en fait pas usage dans un délai de 12 mois après sa délivrance. Est notamment considéré comme ayant fait usage de son admission le médecin qui a obtenu un numéro de registre de code-créancier (numéro RCC) auprès de l’organisme compétent.
+
+<sup>2</sup> Si, dans des cas particuliers, le délai ne peut pas être respecté pour de justes motifs, notamment en raison de maladie, de maternité ou de formation postgraduée, le département peut, sur demande écrite et motivée, prolonger ce délai.
+
+<sup>3</sup> L'admission est caduque au moment de la cessation d'activité dans le canton.
+
+#### Art. 57f
+
+**Commission consultative de planification de l’offre médicale ambulatoire**
+
+<sup>1</sup> Une commission cantonale de planification de l’offre médicale apporte ses recommandations au département sur l’évolution des besoins en offre médicale, ainsi que sur l’impact des mesures en cours visant à l’adapter.
+
+<sup>2</sup> Le Conseil d’Etat détermine dans une ordonnance le mode de fonctionnement, la composition et les tâches de la commission consultative, qui doit réunir périodiquement les membres représentant les milieux concernés.
+
+<sup>3</sup> La commission consultative, sous la présidence du médecin cantonal, analyse et propose toute mesure utile pour éviter une couverture médicale régionale et cantonale insuffisante ou excédentaire ou y remédier.
+
+#### Art. 57g
+
+**Autorité compétente et procédure**
+
+<sup>1</sup> L’admission à pratiquer à la charge de l’assurance obligatoire des soins est délivrée contre émolument par le département.
+
+<sup>2</sup> L’autorisation est délivrée lorsque les critères d’admission sont remplis. Elle précise notamment le domaine de spécialité, le taux d’activité et la région de pratique admis.
+
+<sup>3</sup> Le Conseil d’Etat fixe dans une ordonnance les modalités particulières de la procédure. La LPJA est applicable pour le surplus.
+
+<sup>4</sup> Le département peut édicter les directives utiles.
 
 ### 4.3 Droits et devoirs professionnels
 
@@ -784,6 +865,16 @@ ordonne:[^ingress-1]
 
 <sup>6</sup> Le Conseil d'Etat peut autoriser par voie d'ordonnance certains actes ou reconnaître certaines compétences spécifiques pour certains professionnels de la santé.
 
+#### Art. 63a
+
+**Compétences – pharmaciens**
+
+<sup>1</sup> Les pharmaciens au bénéfice de la formation requise sont autorisés à administrer des tests et à délivrer sans ordonnance des médicaments en matière de diagnostic et de traitement des troubles de la santé et des maladies fréquentes, conformément à la législation fédérale.
+
+<sup>2</sup> Les pharmaciens peuvent contribuer à la réalisation du plan national de vaccination.
+
+<sup>3</sup> Les prestations pouvant être effectuées par les pharmaciens et les modalités de leur mise en œuvre sont définies par voie d’ordonnance.
+
 #### Art. 64
 
 **Compérage – collusion**
@@ -807,6 +898,18 @@ ordonne:[^ingress-1]
 <sup>1</sup> Le professionnel de la santé qui, pour de justes motifs, ne peut pas participer au service de garde peut en être dispensé, sur demande, par l’association professionnelle concernée.
 
 <sup>2</sup> Les associations professionnelles concernées définissent les critères et exigences pour la participation au service de garde. Le cas échéant, elles fixent les modalités d’exemption dans un règlement soumis pour approbation au Conseil d’Etat.
+
+#### Art. 66a
+
+**Taxe de garde**
+
+<sup>1</sup> Les professionnels de la santé exemptés du service de garde peuvent être tenus de verser une taxe annuelle aux associations professionnelles chargées de son organisation. Ces dernières définissent les modalités et les montants dans un règlement interne approuvé par le Conseil d’Etat.
+
+<sup>2</sup> Les montants perçus par les associations professionnelles sont affectés exclusivement au financement du service de garde et des dispositifs y relatifs.
+
+<sup>3</sup> Le Conseil d'Etat définit par voie d'ordonnance les professions assujetties à la taxe.
+
+<sup>4</sup> La taxe définie par les associations professionnelles s’élève à 12'000 francs par année au maximum.
 
 #### Art. 67
 
@@ -1180,7 +1283,7 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> En cas de non-respect du chapitre 5.5, les sanctions prévues au chapitre 9 sont applicables.
 
-## 6 Mesures médicales spéciales et recherche
+## 6 Mesures médicales spéciales, recherche et pratiques interdites
 
 #### Art. 99
 
@@ -1215,6 +1318,24 @@ ordonne:[^ingress-1]
 <sup>2</sup> Le médecin qui a stérilisé une personne sous curatelle de portée générale ou durablement incapable de discernement l'annonce dans les 30 jours au médecin cantonal.
 
 <sup>3</sup> L'annonce ne doit pas contenir de données permettant d'identifier des personnes.
+
+#### Art. 102a
+
+**"Thérapies de conversion" : pratiques visant à modifier l'orientation affective ou sexuelle ou l'identité de genre d'autrui**
+
+<sup>1</sup> Les "thérapies de conversion", incluant toute pratique visant à modifier ou réprimer l'orientation affective ou sexuelle ou l'identité de genre d'autrui, sont interdites et passibles des sanctions prévues par la présente loi.
+
+<sup>2</sup> Est également interdite et passible des sanctions prévues par la présente loi la promotion ou le fait de faciliter ou d'encourager l'accès ou le recours à de telles pratiques.
+
+<sup>3</sup> Les professionnels œuvrant notamment dans le domaine de la santé, de l’éducation, du social, du sport, des activités de jeunesse ou des activités religieuses, qui constatent qu'une personne mineure ou incapable de discernement subit des pratiques désignées à l'alinéa 1 ou 2, avisent le médecin cantonal, l'autorité de protection de l'enfant et de l'adulte selon la législation applicable en la matière et, le cas échéant, l'autorité administrative dont ils dépendent.
+
+<sup>4</sup> Demeurent réservées les dispositions de la loi en faveur de la jeunesse relatives au devoir de signalement lorsque les personnes sont mineures.
+
+<sup>5</sup> Ne sont pas concernés par les alinéas 1 à 4:
+
+- a) les thérapies et prestations d'aide et de soutien de nature psychosociale ou psychothérapeutique respectueuses de l'autodétermination de la personne et contribuant à la libre expression de son orientation affective ou sexuelle ou de son identité de genre;
+- b) les traitements hormonaux et les chirurgies d'affirmation du genre effectués avec le consentement libre et éclairé de la personne et indiqués médicalement dans le cadre des traitements reconnus de l'incongruence de genre;
+- c) le fait d’inviter à la réflexion, tout en respectant son autodétermination sans entraver ou retarder son accès aux soins d'affirmation, une personne qui s’interroge sur son identité de genre et qui envisage un traitement prévu à la lettre b.
 
 #### Art. 103
 
@@ -1442,6 +1563,10 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> L'Etat soutient des programmes de prévention du tabagisme, de l'alcoolisme, des toxicomanies, de l’addiction aux jeux excessifs et d’autres addictions, en particulier les mesures d'aide et de soutien à l'intention des jeunes.
 
+<sup>2</sup> La vente de cigarettes électroniques jetables est interdite.
+
+<sup>3</sup> Toute contravention à l'alinéa 2 est passible d'une sanction en vertu de l'article 137 appliqué par analogie.
+
 #### Art. 124
 
 **Prévention des maladies transmissibles et infectieuses**
@@ -1574,9 +1699,9 @@ ordonne:[^ingress-1]
 
 **Publicité pour le tabac**
 
-<sup>1</sup> La publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer est interdite sur le domaine et dans les lieux publics, sur le domaine privé visible du domaine public, dans les salles de cinéma, lors de manifestations culturelles et sportives.
+<sup>1</sup> La publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer est interdite sur le domaine et dans les lieux publics, sur le domaine privé visible du domaine public, dans les salles de cinéma, lors de manifestations culturelles et sportives.
 
-<sup>2</sup> La publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal et autres produits à fumer qui atteint les mineurs est également interdite dans les lieux privés accessibles du public.
+<sup>2</sup> La publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer qui atteint les mineurs est également interdite dans les lieux privés accessibles au public.
 
 #### Art. 137
 
@@ -1702,9 +1827,9 @@ ordonne:[^ingress-1]
 
 #### Art. 146
 
-**Abus de médicaments psychotropes et stimulants**
+**Abus de médicaments**
 
-<sup>1</sup> Avec le consentement du patient, le médecin traitant peut requérir l'aide des autorités de santé pour limiter, en cas d'abus manifeste, l'accès de l'intéressé aux médicaments psychotropes et stimulants.
+<sup>1</sup> Avec le consentement du patient, le médecin traitant peut requérir l'aide des autorités de santé pour limiter, en cas d'abus manifeste, l'accès de l'intéressé aux médicaments, notamment aux médicaments psychotropes et stimulants.
 
 <sup>2</sup> Si l'abus est dangereux pour autrui ou pour le patient lui-même, le consentement du patient n'est pas nécessaire.
 
