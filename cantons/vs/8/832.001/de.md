@@ -1,119 +1,189 @@
 ---
 canton: VS
 number: "832.001"
-title: Ausführungsverordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung
+title: Ausführungsverordnung über die Beschränkung der Zulassung von Ärzten zur Abrechnung zu Lasten der obligatorischen Krankenpflegeversicherung
 short: AZBAV
 language: de
-version: 2021-07-01
-valid_until: 2025-04-30
-version_adopted: 2021-06-16
+version: 2025-05-01
+valid_until: 2026-06-30
+version_adopted: 2025-04-23
 adopted: 2025-04-23
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/832.001"
-pdf: "https://lex.vs.ch/api/de/versions/2921/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsverordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung
+# Ausführungsverordnung über die Beschränkung der Zulassung von Ärzten zur Abrechnung zu Lasten der obligatorischen Krankenpflegeversicherung
 
-vom 16.06.2021 (Stand 01.07.2021)
+(AZBAV)
+
+vom 23.04.2025 (Stand 01.05.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Änderung vom 19. Juni 2020 des Artikels 55a des Bundesgesetzes über die Krankenpflegeversicherung vom 18. März 1994 (KVG);
+eingesehen die Artikel 38 und 43 Absatz 2 der Kantonsverfassung;
 
-eingesehen die Verordnung des Bundesrates über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung vom 3. Juli 2016 (VEZL), Stand am 1. Juli 2019;
+eingesehen das Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG), insbesondere Artikel 35 fortfolgende und 55a;
 
-eingesehen den Artikel 91 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
+eingesehen die Bundesverordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich vom 23. Juni 2021;
+
+eingesehen die Bundesverordnung über die Festlegung der regionalen Versorgungsgrade je medizinisches Fachgebiet im ambulanten Bereich vom 28. November 2022;
+
+eingesehen das kantonale Gesundheitsgesetz vom 1. März 2020 (GG), insbesondere die Artikel 57a bis 57g;
 
 auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
+## 1 Allgemeine Bestimmungen
+
 #### Art. 1
 
-**Zwecke**
+**Zweck**
 
-<sup>1</sup> Die vorliegende Verordnung bezweckt:
+<sup>1</sup> Die vorliegende Verordnung bezweckt die Festlegung der Anwendungsmodalitäten von Artikel 55 des Bundesgesetzes über die Krankenversicherung (KVG) und Artikel 57a fortfolgende des Gesundheitsgesetzes (GG) in Bezug auf die Beschränkung der Zulassung von Ärzten zur Abrechnung zu Lasten der obligatorischen Krankenpflegeversicherung (nachfolgend: OKP) im ambulanten Bereich.
 
-- a) die Festlegung der Kategorien von Leistungserbringern, deren Zulassung zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung nicht eingeschränkt ist;
-- b) die Festsetzung des Verfahrens, das auf die Zulassungen von Leistungserbringern anwendbar ist, die der allgemeinen Regelung der Einschränkung unterstehen;
-- c) die Bestimmung der Ausführungsmodalitäten im Hinblick auf den Verfall der Zulassung zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung.
+<sup>2</sup> In Anwendung der Bundesverordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich (nachfolgend: der Bundesverordnung über die Festlegung der Höchstzahlen) legt die vorliegende Verordnung das Angebot an Ärztinnen und Ärzten, das der bedarfsgerechten Versorgung entspricht, nach medizinischen Fachgebieten und Region fest.
 
 #### Art. 2
 
-**Beschränkung der Zulassung zu Lasten der Krankenkasse**
+**Zuständige Behörden**
 
-<sup>1</sup> Die Leistungserbringer im Sinne von Artikel 36 KVG sowie die Ärzte, die in Einrichtungen für ambulanten Krankenpflege im Sinne von Artikel 36a KVG tätig sind, unterstehen grundsätzlich der Einschränkung der Zulassung zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung.
+<sup>1</sup> Das für die Gesundheit zuständige Departement (nachfolgend: das Departement) und die für das Gesundheitswesen zuständige Dienstelle (nachfolgend: DGW) sind, vorbehaltlich der gemäss kantonaler und nationaler Gesetzgebung einer anderen Instanz übertragenen Zuständigkeiten, für die Ausführung der vorliegenden Verordnung zuständig.
 
-<sup>2</sup> Die Bundesregelung der Einschränkung gilt jedoch nicht für die folgenden Fachgebiete: Allgemeine Innere Medizin, Kinder- und Jugendmedizin, Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie und -psychotherapie (Art. 3 Bst. a VEZL i.V. m. Anhang 1).
-
-<sup>3</sup> Die Bundesregelung der Einschränkung gilt jedoch nicht für Ärzte, die ihre Tätigkeit mindestens drei Jahre lang in einer Schweizer Einrichtung mit anerkannter Weiterbildung ausgeübt haben.
-
-<sup>4</sup> Kein Bedürfnisnachweis ist erforderlich für Ärztinnen und Ärzte, die vor Inkrafttreten der Änderung des Artikels 55a KVG vom 19. Juni 2020 nach Artikel 36 zugelassen und in eigener Praxis zu Lasten der obligatorischen Krankenpflegeversicherung tätig waren.
-
-<sup>5</sup> Ärztinnen und Ärzte, die vor Inkrafttreten der Änderung des Artikels 55a KVG vom 19. Juni 2020 ihre Tätigkeit in einer Einrichtung nach Artikel 36a ausgeübt haben, müssen den Bedürfnisnachweis nicht erbringen, wenn sie ihre Tätigkeit in derselben Einrichtung weiter ausüben.
-
-<sup>6</sup> Die anderen Kategorien von Leistungserbringern, insbesondere die Zahnärzte und die Apotheker, sind ohne Einschränkung zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung zugelassen.
+<sup>2</sup> Es wird eine Konsultativkommission für die Planung des ambulanten medizinischen Angebots (nachfolgend: die Konsultativkommission) eingesetzt, die die Umsetzung der Bundesverordnungen verfolgen und das Departement über Veränderungen beim Versorgungsbedarf der Bevölkerung informieren soll; in diesem Zusammenhang kann sie die vorübergehende Aufhebung der Zulassungsbeschränkung für bestimmte medizinische Fachgebiete, gegebenenfalls unter Angabe des betreffenden Teilfachgebiets, empfehlen.
 
 #### Art. 3
 
-**Informationspflicht**
+**Allgemeine Zulassungsvoraussetzungen**
 
-<sup>1</sup> Die uneingeschränkt zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung zugelassenen Ärzte sind verpflichtet, das Departement für Gesundheit, Soziales und Kultur (im Folgenden: das Departement) über die Dienststelle für Gesundheitswesen zu informieren, wenn sie vorhaben, ihren Beruf selbständig und auf ihre eigene Rechnung auszuüben. Dasselbe gilt auch, wenn sie ihre Tätigkeit einstellen.
+<sup>1</sup> Alle Zulassungsgesuche, die der Beschränkung im Sinne von Artikel 55a KVG und der vorliegenden Verordnung unterliegen, werden gemeinsam mit den Bewilligungsvoraussetzungen nach Artikel 36 fortfolgende des Bundesgesetzes über die universitären Medizinalberufe (MedBG) und Artikel 57a fortfolgende GG geprüft; die Prüfung darauf abzielt zweckmässige und hochwertige Leistungen zu gewährleisten.
 
-<sup>2</sup> Der Arzt, der beantragt, aufgrund des Bundesrechts von der Zulassungsbeschränkung ausgenommen zu werden, muss das Departement über alle Weiterbildungstitel informieren, die ihm von der zuständigen schweizerischen oder ausländischen Behörde verliehen wurden. Falls die Ausnahmebedingungen erfüllt sind, bestätigt dies das Departement schriftlich.
+## 2 Beschränkungsmodalitäten
 
 #### Art. 4
 
-**Ordentliche Zulassung**
+**Von der Zulassungsbeschränkung betroffene Ärzte**
 
-<sup>1</sup> Ein Arzt kann zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung ermächtigt werden, sofern er:
-
-- a) einen Arzt ersetzt, der seine selbständig und auf eigene Rechnung ausgeübte Tätigkeit aufgibt, oder
-- b) von einem Spital angestellt wird, das auf der Spitalliste des Kantons im Sinne von Artikel 39 KVG steht, und über eine Stellung verfügt, die ihm eine Tätigkeit in der Privatpraxis erlaubt.
-
-<sup>2</sup> Die Ärzte, die ihre selbständige Tätigkeit aufgegeben haben (Praxisübergabe), bleiben im Rahmen ihrer begrenzten verbleibenden Tätigkeit nach den vom Departement festgelegten Modalitäten zugelassen.
+<sup>1</sup> Von der Zulassungsbeschränkung betroffen sind Ärzte, die über einen eidgenössischen Weiterbildungstitel oder als gleichwertig anerkannten Titel im Sinne des KVG verfügen und ambulante Leistungen zulasten der OKP, einschliesslich im spitalambulanten Bereich, erbringen.
 
 #### Art. 5
 
-**Verfahren**
+**Festlegung der Höchstzahlen**
 
-<sup>1</sup> Das Zulassungsgesuch ist über die Dienststelle für Gesundheitswesen beim Departement einzureichen, das sich vergewissert, dass die Bedingungen der Artikel 4 oder 5 erfüllt sind. Das Departement erteilt die Bewilligung für die Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung.
+<sup>1</sup> Die Höchstzahlen für Ärzte, die in den medizinischen Fachgebieten zugelassen werden, die der Beschränkung im Sinne der Bundesverordnung über die Festlegung der Höchstzahlen unterliegen, sind wie folgt definiert:
 
-<sup>2</sup> Im Fall eines Gesuchs um eine ordentliche oder eine Ausnahmezulassung kann die Dienststelle für Gesundheitswesen die Stellungnahme des Walliser Ärzteverbands, der santésuisse und der Patientenorganisationen einholen, die in der Region tätig sind, in der sich der Arzt niederlassen möchte.
+<table>
+<tr><th>Medizinisches Fachgebiet</th><th>Höchstzahlen in Vollzeitäquivalenten</th></tr>
+<tr><td>Kardiologie</td><td>15.5</td></tr>
+<tr><td>Radiologie</td><td>40.2</td></tr>
+</table>
 
-<sup>3</sup> Das Departement teilt santésuisse regelmässig sämtliche positiven und negativen Entscheide mit, die aufgrund der vorliegenden Verordnung ausgesprochen werden. Ihrerseits übermittelt santésuisse dem Departement regelmässig die Liste der Ärzte, denen eine Zahlstellenregister-Nummer (ZSR-Nummer) von santésuisse erteilt wurde.
+<sup>2</sup> Die Zulassung zur Abrechnung zu Lasten der OKP wird abgelehnt, sobald die Höchstzahl erreicht ist.
+
+<sup>3</sup> Wenn ein medizinisches Fachgebiet nicht von der Beschränkung die unter Absatz 1 betroffen ist, kann das Departement auf Vormeinung der Konsultativkommission entscheiden, die Zulassung in folgenden Situationen zu beschränken:
+
+- a) der auf der Grundlage der Bundesverordnung über die Festlegung der regionalen Versorgungsgrade je medizinisches Fachgebiet im ambulanten Bereich festgesetzte Versorgungsgrad beträgt mehr als 90 Prozent, und
+- b) die Höchstzahl in Vollzeitäquivalenten (VZÄ) beträgt mehr als 5.
 
 #### Art. 6
 
-**Verfall der Zulassungen und Übergangsbestimmungen**
+**Ausnahmen von der Zulassungsbeschränkung**
 
-<sup>1</sup> Die Zulassung verfällt, wenn der Arzt nicht innert zwölf Monaten nach ihrer Erteilung von ihr Gebrauch macht, indem er zu Lasten der obligatorischen Krankenpflegeversicherung tätig wird. Es wird insbesondere angenommen, dass ein Arzt von seiner Zulassung Gebrauch gemacht hat, wenn er von santésuisse eine Zahlstellenregister-Nummer (ZSR-Nummer) erhalten hat.
-
-<sup>2</sup> Kann im Einzelfall die Frist aus wichtigen Gründen, insbesondere wegen Krankheit, Mutterschaft oder Weiterbildung, nicht eingehalten werden, kann das Departement diese Frist auf ein schriftliches und begründetes Gesuch hin verlängern.
-
-<sup>3</sup> Unter Vorbehalt von Artikel 4 Absatz 2 verfällt die Zulassung im Zeitpunkt der Aufgabe der Tätigkeit im Kanton.
-
-<sup>4</sup> Die Zulassungen zur Tätigkeit, die vor dem 1. Juli 2021 bestanden, werden aufrechterhalten.
+<sup>1</sup> Je nach Versorgungsbedarf der Bevölkerung, insbesondere in spezifischen medizinischen Teilfachgebieten oder Regionen, oder aus Gründen des öffentlichen Interesses und nach Konsultation mit der Konsultativkommission kann das Departement ausnahmsweise von der Beschränkung abweichen.
 
 #### Art. 7
 
-**Gebühr**
+**Regelmässige Bewertung**
 
-<sup>1</sup> Für die Erteilung einer Bewilligung zur Ausübung zu Lasten der obligatorischen Krankenpflegeversicherung erhebt das Departement eine Gebühr von 500 Franken.
+<sup>1</sup> Das Departement nimmt eine regelmässige Bewertung der medizinischen Demografie und der Beschränkungen vor.
 
 #### Art. 8
 
-**Rechtsweg**
+**Allgemeine Mitteilungspflicht**
 
-<sup>1</sup> Die Entscheide, die in Anwendung der vorliegenden Verordnung ergehen, können innert 30 Tagen nach ihrer Eröffnung mittels Beschwerde an das Bundesverwaltungsgericht angefochten werden.
+<sup>1</sup> Gemäss Artikel 55a Absatz 4 KVG übermitteln die Leistungserbringer, die Versicherer und ihre jeweiligen Verbände der DGW kostenlos die notwendigen Daten zur Ermittlung der Höchstzahlen für Ärzte.
 
 #### Art. 9
 
-**Schlussbestimmung**
+**Spezifische Mitteilungspflicht**
 
-<sup>1</sup> Das Departement wird mit dem Vollzug dieser Verordnung beauftragt.
+<sup>1</sup> Ärzte mit Zulassung zur Abrechnung zu Lasten der OKP sind gemäss Artikel 55a Absatz 4 KVG und Artikel 57 Absatz 1 GG verpflichtet, die DGW unaufgefordert und unverzüglich über allfällige Veränderungen insbesondere in Bezug auf den Tätigkeitsort und den Beschäftigungsgrad zu informieren, welche die Festlegung der Höchstzahlen beeinflussen. Gleiches gilt für die Einstellung ihrer Tätigkeit.
 
-CSW RO/AGS 2021-079
+<sup>2</sup> Sie übermitteln die statistischen Daten, die zur Anwendung der vorliegenden Verordnung gemäss Artikel 58 Absatz 2 GG erforderlich sind, namentlich im Rahmen der Erfassung ihrer Tätigkeit.
+
+<sup>3</sup> Der Kanton führt ein Verzeichnis der Tätigkeit der Ärzte und aktualisiert es regelmässig.
+
+#### Art. 10
+
+**Verwaltungsmassnahmen**
+
+<sup>1</sup> Bei Missachtung der Bestimmungen der vorliegenden Verordnung sind die Verwaltungsmassnahmen des GG anwendbar.
+
+## 3 Konsultativkommission für die Planung des ambulanten medizinischen Angebots
+
+#### Art. 11
+
+**Zweck**
+
+<sup>1</sup> Zweck der Konsultativkommission ist es, einen Austausch zwischen Vertretern der wichtigsten von der Beschränkung betroffenen Gesundheitspartner zu ermöglichen.
+
+#### Art. 12
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Konsultativkommission übt die in Artikel 57f Absatz 1 GG vorgesehenen Aufgaben aus; sie gibt insbesondere eine Vormeinung ab, wenn das Departement eine Verfügung nach Artikel 5 Absatz 3 der vorliegenden Verordnung zu erlassen gedenkt.
+
+<sup>2</sup> Sie kann die vorübergehende Aufhebung der Zulassungsbeschränkung nach Artikel 6 Absatz 1 empfehlen.
+
+<sup>3</sup> Sie liefert dem Departement die Informationen über den ermittelten Bedarf nach Fachgebiet.
+
+#### Art. 13
+
+**Zusammensetzung der Konsultativkommission für die Planung des ambulanten medizinischen Angebots**
+
+<sup>1</sup> Die Konsultativkommission besteht aus den folgenden Mitgliedern:
+
+- a) der Kantonsarzt, der den Vorsitz hat;
+- b) zwei Vertretern der Walliser Ärztegesellschaft, eingeschlossen einer Hausarzt;
+- c) ein Vertreter der öffentlichen und privaten Spitäler des Kantons.
+
+<sup>2</sup> Für jedes Mitglied wird ein Stellvertreter bestimmt, der über die gleichen Qualifikationen verfügen muss. Der Stellvertreter tagt nur dann in der Kommission, wenn das ordentliche Mitglied verhindert ist.
+
+<sup>3</sup> Die Vertreter und ihre Stellvertreter werden auf Vorschlag der in Absatz 1 genannten Organismen und Verbände vom Departement ernannt.
+
+<sup>4</sup> Die Konsultativkommission kann weitere Vertreter oder Experten einladen.
+
+#### Art. 14
+
+**Arbeitsweise der Konsultativkommission**
+
+<sup>1</sup> Die Konsultativkommission wird unabhängig organisiert und tritt nach Einberufung durch den Vorsitz oder auf Anfrage der Mehrheit ihrer Mitglieder zusammen. Die Vormeinungen werden mit der Mehrheit der anwesenden Mitglieder abgegeben. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
+
+<sup>2</sup> Das Sekretariat der Konsultativkommission wird von einem Mitarbeiter der DGW übernommen.
+
+#### Art. 15
+
+**Finanzierung**
+
+<sup>1</sup> Die Mitglieder der Konsultativkommission werden gemäss den Richtlinien des Beschlusses über die Kommissionsentschädigungen vergütet.
+
+## 4 Gebühren
+
+#### Art. 16
+
+**Gebühren**
+
+<sup>1</sup> Für die Erteilung einer Zulassung zur Abrechnung zu Lasten der OKP erhält die DGW eine Gebühr zwischen 500 und 1’000 Franken.
+
+## 5 Rechtsweg
+
+#### Art. 17
+
+**Rechtsweg**
+
+<sup>1</sup> Das Beschwerdeverfahren gegen Entscheide, die in Anwendung der vorliegenden Verordnung gefällt wurden, ist im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
+
+CSW RO/AGS 2025-046
