@@ -4,13 +4,12 @@ number: "740.330"
 title: Kantonale Steinwildverordnung
 short: KStV
 language: de
-version: 2017-06-01
-corrected: 2020-04-01
-version_adopted: 2017-02-28
+version: 2025-05-01
+version_adopted: 2025-04-08
 adopted: 2007-03-27
 in_force: 2007-06-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/740.330"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2778/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2778/pdf_file"
 
 (KStV)
 
-Vom 27.03.2007 (Stand 01.06.2017)
+Vom 27.03.2007 (Stand 01.05.2025)
 
 Gestützt auf Art. 21c und Art. 38 des kantonalen Jagdgesetzes vom 4. Juni 1989[^ingress-1]
 
@@ -42,17 +41,18 @@ von der Regierung erlassen am 27. März 2007
 - e) Umbrail;
 - f) Rothorn-Weissfluh-Hochwang;
 - g) Safien-Rheinwald-Adula-Mesocco;
-- h) Oberalp-Tödi-Calanda.
+- h) Oberalp-Tödi-Calanda;
+- i) Cadagno-Unteralp-Maighels.
 
-<sup>2</sup> Das Amt für Jagd und Fischerei kann Steinwild einfangen und umsiedeln.
+<sup>2</sup> Das Amt für Jagd und Fischerei (Amt) kann Steinwild einfangen und umsiedeln.
 
 #### Art. 2
 
 **Bestandeserhebung und Abschussplanung**
 
-<sup>1</sup> Das Amt für Jagd und Fischerei erhebt die Bestände in den einzelnen Kolonien, erstellt die Abschusspläne, führt die Abschusskontrolle und meldet die erforderlichen Angaben den zuständigen Bundesbehörden.
+<sup>1</sup> Das Amt erhebt die Bestände in den einzelnen Kolonien, erstellt die Abschusspläne, führt die Abschusskontrolle und meldet die erforderlichen Angaben den zuständigen Bundesbehörden.
 
-<sup>2</sup> Das Bau-, Verkehrs- und Forstdepartement unterbreitet die Abschusspläne dem Bund zur Genehmigung.
+<sup>2</sup> Das Departement für Infrastruktur, Energie und Mobilität unterbreitet die Pläne zur Regulierung der Steinwildbestände dem Bund zur Zustimmung.
 
 #### Art. 3
 
@@ -83,18 +83,20 @@ von der Regierung erlassen am 27. März 2007
 
 **Ausschreibung**
 
-<sup>1</sup> Die Ausschreibung im Kantonsamtsblatt erfolgt durch das Amt für Jagd und Fischerei.
+<sup>1</sup> Die Ausschreibung im Kantonsamtsblatt erfolgt durch das Amt.
 
 #### Art. 6
 
 **Anmeldung**
 
-<sup>1</sup> Jägerinnen und Jäger, welche die Steinwildjagd ausüben wollen, haben sich unter Vorweisung des Jagdpatentbüchleins bei den vom Amt für Jagd und Fischerei im Kantonsamtsblatt bezeichneten Patentausgabestellen anzumelden.
+<sup>1</sup> Jägerinnen und Jäger, welche die Steinwildjagd ausüben wollen, haben sich unter Vorweisung des Jagdpatentbüchleins bei der vom Amt im Kantonsamtsblatt bezeichneten Stelle anzumelden.
 
 <sup>2</sup> Berechtigt zur Anmeldung sind Jägerinnen und Jäger, welche:
 
 - a) mindestens fünf Jahre die Bündner Hochjagd ausgeübt haben;
 - b) noch nie an der Steinwildjagd teilgenommen haben oder sich aufgrund der Ausschreibung erneut anmelden dürfen.
+
+<sup>3</sup> Die Anmeldung für die Regulationsjagd auf Steingeissen setzt voraus, dass die Jägerin oder der Jäger mindestens eine reguläre Steinwildjagd im Kanton Graubünden ausgeübt hat.
 
 #### Art. 7
 
@@ -102,7 +104,7 @@ von der Regierung erlassen am 27. März 2007
 
 <sup>1</sup> Die Anzahl der zur Teilnahme an der Jagd berechtigten Jägerinnen und Jäger richtet sich nach der Zahl des jährlich zu erlegenden Steinwildes.
 
-<sup>2</sup> Vorrang haben Jägerinnen und Jäger, welche erstmals an der Steinwildjagd teilnehmen. In zweiter Linie werden Jägerinnen und Jäger berücksichtigt, welche bereits einmal oder mehrmals die Steinwildjagd ausgeübt haben.
+<sup>2</sup> …
 
 <sup>3</sup> Gehen innert Frist mehr Anmeldungen ein als zur Erfüllung des Abschussplanes erforderlich sind, entscheidet das Los.
 
@@ -112,7 +114,7 @@ von der Regierung erlassen am 27. März 2007
 
 **Ausgabestellen**
 
-<sup>1</sup> Das Patent zur Ausübung der Steinwildjagd kann bei den vom Amt für Jagd und Fischerei im Kantonsamtsblatt bezeichneten Patentausgabestellen gelöst werden.
+<sup>1</sup> Das Patent zur Ausübung der Steinwildjagd kann bei den vom Amt im Kantonsamtsblatt bezeichneten Patentausgabestellen gelöst werden.
 
 #### Art. 9
 
@@ -131,7 +133,7 @@ von der Regierung erlassen am 27. März 2007
 
 <sup>1</sup> Besteht begründeter Verdacht, dass die Angaben nicht stimmen, können die Patentausgabestellen die Einreichung weiterer Unterlagen verlangen. Bis zur Klärung des Sachverhaltes wird die Abgabe des Patentes verweigert.
 
-<sup>2</sup> Auf Gesuch der Betroffenen erlässt das Amt für Jagd und Fischerei eine Verfügung über das Vorliegen der Patentbezugsvoraussetzungen (Feststellungsverfügung).
+<sup>2</sup> Auf Gesuch der Betroffenen erlässt das Amt eine Verfügung über das Vorliegen der Patentbezugsvoraussetzungen (Feststellungsverfügung).
 
 ## 4. Steinwildjagd
 
@@ -139,9 +141,9 @@ von der Regierung erlassen am 27. März 2007
 
 **Instruktion**
 
-<sup>1</sup> Das Amt für Jagd und Fischerei instruiert die Jägerinnen und Jäger, welche an der Steinwildjagd teilnehmen. Diese sind verpflichtet, den Einführungskurs zu besuchen.
+<sup>1</sup> Das Amt instruiert die Jägerinnen und Jäger, welche an der Steinwildjagd teilnehmen. Diese sind verpflichtet, den Einführungskurs vollständig zu besuchen.
 
-<sup>2</sup> Die Teilnahme am Kurs wird vom Amt für Jagd und Fischerei schriftlich bestätigt.
+<sup>2</sup> Die Teilnahme am Kurs wird vom Amt schriftlich bestätigt.
 
 #### Art. 12
 
@@ -155,11 +157,15 @@ von der Regierung erlassen am 27. März 2007
 
 **Bejagung des Steinwildes 1. Grundsätze**
 
-<sup>1</sup> Jeder Jägerin und jedem Jäger wird eine nichtsäugende Steingeiss und ein Steinbock der Jugend-, Mittel- oder Altersklasse zum Abschuss zugeteilt. Die Geiss ist vor dem Bock zu erlegen.
+<sup>1</sup> Bei der regulären Steinwildjagd wird jeder Jägerin und jedem Jäger eine nichtsäugende Steingeiss und ein Steinbock der Jugend-, Mittel- oder Altersklasse zum Abschuss zugeteilt. Die Geiss ist vor dem Bock zu erlegen.
+
+<sup>1<sup>bis</sup></sup> Bei der Regulationsjagd auf Steingeissen werden jeder Jägerin und jedem Jäger zwei nichtsäugende Geissen zugeteilt. Das Amt kann die zu bejagenden Altersklassen einschränken.
 
 <sup>2</sup> Um in einzelnen Kolonien die natürliche Alters- und Geschlechtsstruktur zu erhalten, kann das Abschusskontingent entsprechend den genehmigten Abschussplänen geändert werden.
 
 <sup>3</sup> Wird das Abschusskontingent nicht erfüllt, verfällt es. Die fehlenden Abschüsse können von der Wildhut getätigt werden.
+
+<sup>4</sup> Ist das Abschusskontingent von zwei Tieren pro Jägerin oder Jäger erfüllt, verfällt die Jagdberechtigung.
 
 #### Art. 14
 
@@ -177,7 +183,7 @@ von der Regierung erlassen am 27. März 2007
 
 **3. Zuteilung der Böcke**
 
-<sup>1</sup> Die Böcke werden den Jägerinnen und Jägern wie folgt zugeteilt:
+<sup>1</sup> Die Böcke werden dem Jahrgang der Jägerinnen und Jäger entsprechend wie folgt zugeteilt:
 
 - a) Jugendklasse A: 24- bis 29jährige Jägerinnen und Jäger;
 - b) Jugendklasse B: 30- bis 44jährige Jägerinnen und Jäger;
@@ -192,7 +198,7 @@ von der Regierung erlassen am 27. März 2007
 
 **Durchführung der Steinwildjagd 1. Organisation**
 
-<sup>1</sup> Die Zuteilung der Jägerinnen und Jäger auf die einzelnen Kolonien erfolgt durch das Amt für Jagd und Fischerei. Die Wildhut weist ihnen das zu bejagende Gebiet zu.
+<sup>1</sup> Die Zuteilung der Jägerinnen und Jäger auf die einzelnen Kolonien erfolgt durch das Amt. Die Wildhut weist ihnen das zu bejagende Gebiet zu.
 
 #### Art. 17
 
@@ -200,7 +206,7 @@ von der Regierung erlassen am 27. März 2007
 
 <sup>1</sup> Erlegtes Steinwild ist der Wildhut vorzuweisen. Entsprechen die Tiere den Zuteilungskriterien, werden diese der Jägerin oder dem Jäger überlassen.
 
-<sup>2</sup> Die Beurteilung der Jagdbarkeit erlegter Tiere, die nach Körperwuchs und Gehörnbildung abnorm entwickelt sind, erfolgt nach Massgabe der Richtlinien des Amtes für Jagd und Fischerei.
+<sup>2</sup> Die Beurteilung der Jagdbarkeit erlegter Tiere, die nach Körperwuchs und Gehörnbildung abnorm entwickelt sind, erfolgt nach Massgabe der Richtlinien des Amtes.
 
 #### Art. 18
 
