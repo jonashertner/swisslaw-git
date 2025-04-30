@@ -4,11 +4,11 @@ title: Legge federale del 17 marzo 2023 concernente l’impiego di mezzi elettro
 short: LMeCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: it
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-682-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/it"
 
 (LMeCA)
 
-del 17 marzo 2023 (Stato 1° gennaio 2024)
+del 17 marzo 2023 (Stato 1° maggio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -43,13 +43,13 @@ La presente legge si prefigge di creare i presupposti per:
 
 <sup>1</sup> La presente legge si applica all’Amministrazione federale centrale.
 
-<sup>2</sup> ...[^2-1]
+<sup>2</sup> Si applica anche a unità amministrative dell’Amministrazione federale decentralizzata. Il Consiglio federale può prevedere eccezioni.[^2-1]
 
 <sup>3</sup> I Servizi del Parlamento, i tribunali della Confederazione e il Ministero pubblico della Confederazione possono assoggettarsi alla presente legge o a parti di essa concludendo una convenzione con il Consiglio federale.
 
 <sup>4</sup> La presente legge si applica sempre che altri atti normativi della Confederazione non prevedano disposizioni derogatorie.
 
-[^2-1]: Non ancora in vigore.
+[^2-1]: [RU 2025 234](https://fedlex.data.admin.ch/eli/oc/2025/234)
 
 #### Art. 3
 
@@ -328,9 +328,10 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore:[^20-1] 1° gennaio 2024 art. 2 cpv. 2: in un secondo tempo.
+Data dell’entrata in vigore:[^20-1] 1° gennaio 2024 art. 2 cpv. 2:[^20-2] 1° maggio 2025.
 
 [^20-1]: DFC del 22 nov. 2023.
+[^20-2]: O del 2 apr. 2025 ([RU 2025 234](https://fedlex.data.admin.ch/eli/oc/2025/234)).
 
 Allegato
 

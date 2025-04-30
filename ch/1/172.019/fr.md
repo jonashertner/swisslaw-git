@@ -4,11 +4,11 @@ title: Loi fédérale du 17 mars 2023 sur l’utilisation des moyens électroniq
 short: LMETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-682-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/fr"
 
 (LMETA)
 
-du 17 mars 2023 (État le 1<sup>er</sup> janvier 2024)
+du 17 mars 2023 (État le 1<sup>er</sup> mai 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -43,13 +43,11 @@ La présente loi vise à créer les conditions propres:
 
 <sup>1</sup> La présente loi s’applique à l’administration fédérale centrale.
 
-<sup>2</sup> ... [^2-1]
+<sup>2</sup> Elle s’applique également aux unités de l’administration fédérale décentralisée. Le Conseil fédéral peut prévoir des exceptions.
 
 <sup>3</sup> Les Services du Parlement, les tribunaux fédéraux et le Ministère public de la Confédération peuvent conclure avec le Conseil fédéral une convention en vue de se soumettre à tout ou partie de la présente loi.
 
 <sup>4</sup> La présente loi s’applique dans la mesure où d’autres actes de la Confédération ne contiennent pas de dispositions contraires.
-
-[^2-1]: Pas encore en vigueur.
 
 #### Art. 3
 
@@ -330,9 +328,10 @@ La modification d’autres actes est réglée en annexe.
 
 Date de l’entrée en vigueur[^20-1]: 1<sup>er</sup> janv. 2024
 
-Art. 2, al. 2 entre en vigueur ultérieurement.
+Art. 2, al. 2[^20-2]: 1<sup>er</sup> mai 2025
 
 [^20-1]: ACF du 22 novembre 2023
+[^20-2]: O du 2 avr. 2025 ([RO 2025 234](https://fedlex.data.admin.ch/eli/oc/2025/234))
 
 Annexe
 

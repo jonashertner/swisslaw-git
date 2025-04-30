@@ -4,11 +4,11 @@ title: Bundesgesetz vom 17. März 2023 über den Einsatz elektronischer Mittel z
 short: EMBAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-682-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20240101/de"
 
 (EMBAG)
 
-vom 17. März 2023 (Stand am 1. Januar 2024)
+vom 17. März 2023 (Stand am 1. Mai 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -43,13 +43,11 @@ Dieses Gesetz soll die Voraussetzungen schaffen für:
 
 <sup>1</sup> Dieses Gesetz gilt für die zentrale Bundesverwaltung.
 
-<sup>2</sup> ... [^2-1]
+<sup>2</sup> Es gilt auch für Einheiten der dezentralen Bundesverwaltung. Der Bundesrat kann Ausnahmen vorsehen.
 
 <sup>3</sup> Die Parlamentsdienste, die eidgenössischen Gerichte und die Bundesanwaltschaft können sich diesem Gesetz oder Teilen davon durch Vereinbarung mit dem Bundesrat unterstellen.
 
 <sup>4</sup> Dieses Gesetz gilt, soweit andere Erlasse des Bundes nichts Abweichendes vorsehen.
-
-[^2-1]: Noch nicht in Kraft
 
 #### Art. 3
 
@@ -328,9 +326,10 @@ Die Änderung anderer Erlasse wird im Anhang geregelt.
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-Datum des Inkrafttretens: 1. Januar 2024[^20-1] Art. 2 Abs. 2 wird zu einem späteren Zeitpunkt in Kraft gesetzt.
+Datum des Inkrafttretens: 1. Januar 2024[^20-1] Art. 2 Abs. 2: 1. Mai 2025[^20-2]
 
 [^20-1]: BRB vom 22. Nov. 2023
+[^20-2]: V vom 2. April 2025 ([AS 2025 234](https://fedlex.data.admin.ch/eli/oc/2025/234))
 
 Anhang
 
@@ -338,6 +337,6 @@ Anhang
 
 ## Änderung anderer Erlasse
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die Änd. können unter [AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682)konsultiert werden.
+[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2023 682](https://fedlex.data.admin.ch/eli/oc/2023/682)konsultiert werden.
