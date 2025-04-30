@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "641.2"
-title: Gesetz über das Halten von Hunden
+title: Hundegesetz
 short: HundeG
 language: de
-version: 2024-04-01
-valid_until: 2025-04-30
-version_adopted: 2023-12-06
+version: 2025-05-01
+version_adopted: 2024-11-06
 adopted: 1983-12-05
 in_force: 1985-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/641.2"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2759/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2893/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Halten von Hunden
+# Hundegesetz
 
 HundeG
 
 (HundeG)
 
-vom 05.12.1983 (Stand 01.04.2024)
+vom 05.12.1983 (Stand 01.05.2025)
 
 #### § 1
 
@@ -77,23 +76,25 @@ vom 05.12.1983 (Stand 01.04.2024)
 
 **Bewilligungspflicht für potentiell gefährliche Hunde**
 
-<sup>1</sup> Wer einen potentiell gefährlichen Hund oder einen Hund aus einer Kreuzung mit einem potentiell gefährlichen Hund im Kantonsgebiet halten oder ausführen will, benötigt eine kantonale Bewilligung.
+<sup>1</sup> Wer einen potentiell gefährlichen Hund im Kantonsgebiet halten, betreuen oder ausführen will, benötigt eine kantonale Bewilligung.
 
 <sup>2</sup> Als potentiell gefährliche Hunde gelten alle Vertreter von Hunderassen, bei welchen aufgrund ihrer Zucht und Abstammung oder aufgrund von Erfahrungswerten ein erhöhtes Gefährdungspotential wie zum Beispiel ein Aggressionspotential erwartet werden muss. Mit eingeschlossen sind neben rassenreinen Hunden auch Kreuzungen mit solchen Rassen und Einzelhunde, deren äusseres Erscheinungsbild vermuten lässt, dass sie von einer potentiell gefährlichen Rasse abstammen.
 
 <sup>3</sup> Der Regierungsrat bezeichnet die als potentiell gefährlich eingestuften Hunderassen und Hundegruppen.
 
+<sup>4</sup> Von der Bewilligungspflicht ausgenommen sind Hunde, bei denen aufgrund eines Gentests eines anerkannten Labors nachgewiesen ist, dass sie weniger als 50 % einer potentiell gefährlichen Hunderasse in sich tragen.
+
 #### § 3b
 
 **Bewilligungsvoraussetzungen und -verfahren**
 
-<sup>1</sup> Die Bewilligung wird erteilt, wenn Art und Umstände, wie der Hund gehalten wird, und die Beurteilung seines Wesens einer Bewilligung nicht offensichtlich entgegen stehen, und die gesuchstellende Person:
+<sup>1</sup> Die Bewilligung wird erteilt, wenn Art und Umstände, wie der Hund gehalten wird, und die Beurteilung seines Wesens einer Bewilligung nicht offensichtlich entgegenstehen und wenn die gesuchstellende Person:
 
 - 1\. volljährig und urteilsfähig ist
 - 2\. einen festen Wohnsitz hat
 - 3\. über einen ungetrübten Leumund verfügt und nicht wegen Gewaltdelikten, schweren Betäubungsmitteldelikten, Förderung der Prostitution oder weiteren Delikten vorbestraft ist, welche das Halten eines potentiell gefährlichen Hundes als problematisch für das Leben, die Gesundheit oder das Eigentum Dritter erscheinen lassen
 - 4\. ausreichende Kenntnisse über die Haltung und den Umgang mit Hunden nachweist
-- 5\. den Nachweis erbringt, dass der Hund aus einer Zucht und Haltung stammt, die den kynologischen Anforderungen genügt und der eidgenössischen Tierschutzgesetzgebung entspricht
+- 5\. die Herkunft des Hundes nachweist
 - 6\. einen verlangten Kostenvorschuss fristgerecht bezahlt hat
 - 7\. den Abschluss einer Haftpflichtversicherung gemäss § 1a nachweist
 
@@ -117,7 +118,13 @@ vom 05.12.1983 (Stand 01.04.2024)
 
 **Kranke und gefährliche Hunde**
 
-<sup>1</sup> Hunde, die wegen ansteckender Krankheiten oder bösartiger Eigenschaften für Mensch oder Tier gefährlich sind, müssen auf Anordnung der Gemeinde beseitigt werden. Es besteht kein Anspruch auf Entschädigung; die Kosten trägt der Halter.
+<sup>1</sup> Hunde, die wegen ansteckender Krankheiten oder aufgrund ihres aggressiven Verhaltens für Mensch oder Tier gefährlich sind, müssen auf Anordnung der zuständigen Behörde getötet werden.
+
+<sup>2</sup> Es besteht kein Anspruch auf Entschädigung.
+
+<sup>3</sup> Die Kosten für die Tötung und Beseitigung trägt der Hundehalter.
+
+<sup>4</sup> Wer einen Hundeerziehungskurs gemäss § 1b leitet und an diesem Kurs eine übermässige Aggression eines Hundes feststellt, hat dies der zuständigen Behörde zu melden.
 
 #### § 6
 
@@ -205,7 +212,7 @@ vom 05.12.1983 (Stand 01.04.2024)
 
 <sup>1</sup> Der Regierungsrat bezeichnet eine Stelle, bei welcher die mit der Kennzeichnung erhobenen Daten zu melden und zu erfassen sind.
 
-<sup>2</sup> Halter registrierter Hunde müssen Änderungen ihrer Personalien, die Personalien eines neuen Halters sowie den Tod ihres registrierten Hundes innert dreissig Tagen ihrer Wohnsitzgemeinde melden. Sie leitet diese Angaben an die Stelle gemäss Abs. 1 weiter.
+<sup>2</sup> Die Registrierung erfolgt nach den Vorschriften der Tierseuchengesetzgebung des Bundes.
 
 <sup>3</sup> Der kostenlose Zugang zu den registrierten Daten wird dem kantonalen Veterinäramt über alle Hundehaltungen im Kanton sowie den Politischen Gemeinden über alle Hundehaltungen in ihrer Gemeinde gewährleistet.
 
@@ -219,15 +226,15 @@ vom 05.12.1983 (Stand 01.04.2024)
 
 <sup>1</sup> Die Hundesteuer beträgt für einen Hund Fr. 80 und für jeden weiteren Hund im gleichen Haushalt Fr. 130 pro Jahr. Die Abgabe ist vom Halter am Wohnsitz zu entrichten.
 
-<sup>2</sup> Anerkannte Hundezüchter und Hundehändler entrichten eine pauschale Steuer. Massgebend für die Berechnung sind der durchschnittliche Tierbestand und der Steueransatz für einen Hund.
+<sup>2</sup> Wer über eine kantonale Bewilligung für die gewerbsmässige Zucht oder den gewerbsmässigen Handel mit Hunden verfügt, entrichtet eine pauschale Steuer. Massgebend für die Berechnung sind der durchschnittliche Tierbestand und der Steueransatz für einen Hund.
 
-<sup>3</sup> Der Grosse Rat kann die Hundesteuer der Geldwert- und Kostenentwicklung anpassen.
+<sup>3</sup> …
 
 #### § 11
 
 **Gemeindezuschlag**
 
-<sup>1</sup> Die Politische Gemeinde kann die Hundesteuer um höchstens 25 % erhöhen.
+<sup>1</sup> Die Politische Gemeinde kann die Hundesteuer um höchstens 50 % erhöhen.
 
 #### § 12
 
@@ -242,15 +249,20 @@ vom 05.12.1983 (Stand 01.04.2024)
 <sup>1</sup> Die Steuerpflicht entfällt für:
 
 - 1\. Hunde unter fünf Monaten
-- 2\. Diensthunde der Armee, der Polizei und des Grenzwachtkorps
-- 3\. ausgebildete Sanitäts-, Katastrophen- oder Lawinenhunde
-- 4\. Blindenhunde
+- 2\. Nutzhunde gemäss Art. 69 Abs. 2 der Tierschutzverordnung (TSchV)[^13-1]
+- 3\.–4. …
+
+[^13-1]: SR [455.1](https://db.clex.ch/link/Bund/455.1/de)
 
 #### § 14
 
 **Steuerbemessung, Steuerrückerstattung**
 
-<sup>1</sup> Wird ein Hund im Laufe des Jahres angeschafft oder erreicht er in diesem das Alter von fünf Monaten, bemisst sich die Steuer nach Quartalen; ein angebrochenes Quartal wird als volles gezählt.
+<sup>1</sup> Die Steuer bemisst sich nach Quartalen, wobei ein angebrochenes Quartal als volles gezählt wird, wenn im Laufe des Jahrs:
+
+- 1\. ein Hund angeschafft wird
+- 2\. der Hund das Alter von fünf Monaten erreicht
+- 3\. ein Halter mit dem Hund aus dem Ausland zuzieht
 
 <sup>2</sup> Eine Steuerrückerstattung erfolgt nicht.
 
@@ -286,24 +298,10 @@ vom 05.12.1983 (Stand 01.04.2024)
 
 [^17-1]: Heute: § 51 des Gesetzes über die Zivil- und Strafrechtspflege (ZSRG; RB [271.1](https://www.rechtsbuch.tg.ch/data/271.1/de))
 
-## 5. Schlussbestimmungen
+## 5.
 
-#### § 18
+#### § 18–19
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Vor dem 1. Januar 2006 geborene Hunde sind innert drei Monaten nach Inkrafttreten dieser Gesetzesänderung, spätestens aber bis zum 31. Dezember 2006, zu kennzeichnen und zu registrieren. Art. 315f Abs. 2 der eidgenössischen Tierseuchenverordnung[^18-1] bleibt vorbehalten.
-
-<sup>2</sup> Wer einen bewilligungspflichtigen Hund gemäss § 3a hält, muss innerhalb eines Jahres nach Inkrafttreten dieser Bestimmung über eine kantonale Haltebewilligung verfügen.
-
-[^18-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
-
-#### § 19
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^19-1].
-
-[^19-1]: In Kraft gesetzt auf den 1. Januar 1985.
+**…**
 
 ABl. 51/1983
