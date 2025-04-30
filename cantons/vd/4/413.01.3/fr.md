@@ -4,7 +4,7 @@ number: "413.01.3"
 title: "RÈGLEMENT du 20.11.2024 sur la formation d'employé(e) en économie familiale (RFEEF)"
 short: RFEEF
 language: fr
-version: 2024-08-01
+version: 2025-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.3?id=312f32d8-4a57-4397-a93b-0960132d2d63"
 ---
 
@@ -63,20 +63,21 @@ arrête
 <sup>1</sup> Sont habilitées à former, les personnes majeures qui sont titulaires de :
 
 - a. une attestation cantonale d'employé(e) en économie familiale justifiant d'au moins deux années d'expérience professionnelle dans le domaine de la formation qu'elles dispensent ;
-- b. un certificat fédéral de capacité d'employé(e) de maison ;
-- c. un certificat fédéral de capacité de gestionnaire en intendance ;
-- d. une attestation fédérale de formation professionnelle d'employé(e) en intendance ;
-- e. une attestation fédérale de formation professionnelle d'employé(e) en hôtellerie ou d'un certificat fédéral de capacité de spécialiste en hôtellerie, avec une spécialisation en intendance ;
-- f. un certificat fédéral de capacité de gestionnaire en hôtellerie-intendance ;
-- g. une attestation fédérale de formation professionnelle d'employé(e) en hôtellerie-intendance ;
-- h. un brevet de paysanne ou du brevet de responsable de ménage agricole ;
-- i. un titre jugé équivalent.
+- b. un certificat cantonal de capacité d'employé(e) en économie familiale justifiant d'au moins deux années d'expérience professionnelle dans le domaine de la formation qu'elles dispensent ;
+- c. un certificat fédéral de capacité d'employé(e) de maison ;
+- d. un certificat fédéral de capacité de gestionnaire en intendance ;
+- e. une attestation fédérale de formation professionnelle d'employé(e) en intendance ;
+- f. une attestation fédérale de formation professionnelle d'employé(e) en hôtellerie ou un certificat fédéral de capacité de spécialiste en hôtellerie, avec une spécialisation en intendance ;
+- g. un certificat fédéral de capacité de gestionnaire en hôtellerie-intendance ;
+- h. une attestation fédérale de formation professionnelle d'employé(e) en hôtellerie-intendance ;
+- i. un brevet de paysanne ou un brevet de responsable de ménage agricole ;
+- j. un titre jugé équivalent.
 
 <sup>2</sup> La personne responsable de la formation au sein de l'entreprise formatrice est autorisée à exercer une activité accessoire, pour autant qu'au moins 10 heures de formation hebdomadaire avec la personne en formation soient garanties.
 
 <sup>3</sup> L'entreprise formatrice ne peut, en principe, former qu'une seule personne à la fois.
 
-[^2-1]: Modif. 1 du 25.06.2025: Modification Al. 1, b-i; entrée en vigueur au 01.05.2025; Introduction Al. 1, j; entrée en vigueur au 01.05.2025; Introduction Art. 12, Al. 2; entrée en vigueur au 01.05.2025
+[^2-1]: Modif. 1 du 25.06.2025: Modification Al. 1, b-i; entrée en vigueur au 01.05.2025; Introduction Al. 1, j; entrée en vigueur au 01.05.2025
 
 #### Art. 4
 
@@ -189,9 +190,9 @@ arrête
 
 <sup>1</sup> L'enseignement obligatoire est dispensé par l'école professionnelle à raison d'un jour par semaine et comprend 360 périodes d'enseignement. Celles-ci sont réparties sur l'année scolaire selon le tableau suivant :
 
-Enseignement Périodes a. Connaissances professionnelles DCO A - Présentation personnelle et communication 40 DCO B - Composition, préparation et service des boissons et des mets 50 DCO B - Composition, préparation et service des boissons et des mets 40 DCO D - Organisation du circuit du linge et création textile 50 DCO E - Santé et sécurité au travail 20 Total des connaissances professionnelles 200 b. Culture générale 120 c. Education physique 40 Total des périodes d'enseignement 360
+Enseignement Périodes a. Connaissances professionnelles DCO A - Présentation personnelle et communication 40 DCO B - Composition, préparation et service des boissons et des mets 50 DCO C - Nettoyage et aménagement de l'habitat 40 DCO D - Organisation du circuit du linge et création textile 50 DCO E - Santé et sécurité au travail 20 Total des connaissances professionnelles 200 b. Culture générale 120 c. Education physique 40 Total des périodes d'enseignement 360
 
-[^9-1]: Modif. 1 du 25.06.2025: Introduction Art. 3, Al. 1, j; entrée en vigueur au 01.05.2025; Modification Al. 1; entrée en vigueur au 01.05.2025; Introduction Art. 12, Al. 2; entrée en vigueur au 01.05.2025
+[^9-1]: Modif. 1 du 25.06.2025: Modification Al. 1; entrée en vigueur au 01.05.2025
 
 ## Chapitre II Procédure de qualification
 
@@ -204,7 +205,7 @@ Enseignement Périodes a. Connaissances professionnelles DCO A - Présentation p
 <sup>2</sup> Sont admises à la procédure de qualification les personnes qui ont suivi la formation professionnelle initiale :
 
 - a. conformément au présent règlement ;
-- b. dans une institution de formation accréditée par le canton ; ou,
+- b. dans une entreprise formatrice ; ou,
 - c. dans un autre cadre que celui d'une filière de formation réglementée, pour autant qu'elles remplissent les conditions suivantes :
 - 1\. elles ont acquis l'expérience professionnelle nécessaire visée à l'article 32 OFPr ;
 - 2\. elles ont acquis 2 ans au minimum de cette expérience dans le domaine d'activité des personnes employées en économie familiale ;
@@ -222,7 +223,7 @@ Enseignement Périodes a. Connaissances professionnelles DCO A - Présentation p
 
 <sup>8</sup> Deux membres du collège des expert(e)s au moins apprécient et évaluent chaque domaine de qualification.
 
-[^chapterChapitreII-1]: Modif. 1 du 25.06.2025: Introduction Art. 3, Al. 1, j; entrée en vigueur au 01.05.2025; Modification Al. 2, b; entrée en vigueur au 01.05.2025; Introduction Art. 12, Al. 2; entrée en vigueur au 01.05.2025
+[^chapterChapitreII-1]: Modif. 1 du 25.06.2025: Modification Al. 2, b; entrée en vigueur au 01.05.2025
 
 #### Art. 12
 
@@ -230,13 +231,12 @@ Enseignement Périodes a. Connaissances professionnelles DCO A - Présentation p
 
 <sup>1</sup> La procédure de qualification porte sur les compétences opérationnelles mentionnées à l'article 8 selon les modalités suivantes :
 
-- a. Un « travail pratique » d'une durée de 5 heures, comportant un entretien professionnel et un examen sur le dossier de formation visant à évaluer les compétences opérationnelles décrites à l'article 8.
-- b. Un « travail écrit » d'une durée de 2 heures, portant sur les 3 épreuves suivantes :
-- 1\. « présentation personnelle et communication (DCO A) ainsi que nettoyage et aménagement de l'habitat (DCO C) » ;
-- 2\. « composition, préparation et service des boissons et des mets (DCO B) » ;
-- 3\. « organisation du circuit du linge et création textile (DCO D) ».
+- a. Un « travail pratique » d'une durée totale de 5 heures, composé de plusieurs épreuves, dont un entretien professionnel portant sur le dossier de formation.
+- b. Un « travail écrit » d'une durée totale de 2 heures, composé de plusieurs épreuves.
 
-[^11-1]: Modif. 1 du 25.06.2025: Introduction Art. 3, Al. 1, j; entrée en vigueur au 01.05.2025; Modification Al. 1, a-b; entrée en vigueur au 01.05.2025; Introduction Al. 2; entrée en vigueur au 01.05.2025
+<sup>2</sup> La culture générale ne fait pas l'objet d'un examen final. La note de culture générale prise en compte à la procédure de qualification, correspond à la note obtenue à l'enseignement professionnel pondérée conformément à l'article 14 alinéa 6.
+
+[^11-1]: Modif. 1 du 25.06.2025: Modification Al. 1, a-b; entrée en vigueur au 01.05.2025; Introduction Al. 2; entrée en vigueur au 01.05.2025
 
 #### Art. 13
 
