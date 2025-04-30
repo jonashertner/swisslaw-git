@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2025)
+del 1° novembre 2017 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1838,23 +1838,26 @@ L’organo d’esecuzione concede l’accesso ai dati personali e ai dati di per
   - 1\. nel sistema di scambio di quote di emissioni (art. 15–21 della legge sul CO<sub>2</sub>),
   - 2\. nel quadro della compensazione per i carburanti (art. 28*b*–28*e* della legge sul CO<sub>2</sub>),
   - 3\. nel quadro dell’impegno a ridurre le emissioni di gas serra (art. 31–32 della legge sul CO<sub>2</sub>),
-  - 4\. nel quadro della restituzione della tassa sul CO<sub>2</sub> ai gestori di impianti di cogenerazione che non partecipano al SSQE e non hanno sottoscritto un impegno di riduzione (art. 32*a* e 32*b* della legge sul CO<sub>2</sub>);
+  - 4\. nel quadro della restituzione della tassa sul CO<sub>2</sub> ai gestori di impianti di cogenerazione che non partecipano al SSQE e non hanno sottoscritto un impegno di riduzione (art. 32*a* e 32*b* della legge sul CO<sub>2</sub>),
+  - 5\.[^70-4] nel quadro dell’immissione in commercio di combustibili o carburanti rinnovabili o a basso tenore di emissioni (art. 35*d* della legge del 7 ottobre 1983[^70-5] sulla protezione dell’ambiente);
 
 - c.
 
   all’Ufficio federale dell’aviazione civile per i suoi compiti d’esecuzione:
 
   - 1\. nel quadro della fornitura e miscelazione di carburanti per l’aviazione a basso tenore di emissioni, rinnovabili e sintetici rinnovabili (art. 28*f* della legge sul CO<sub>2</sub>),
-  - 2\. nel quadro del Carbon Offsetting and Reduction Scheme for International Aviation di cui all’allegato 16 volume IV della convenzione del 7 dicembre 1944[^70-4] sull’aviazione civile internazionale;
+  - 2\. nel quadro del Carbon Offsetting and Reduction Scheme for International Aviation di cui all’allegato 16 volume IV della convenzione del 7 dicembre 1944[^70-6] sull’aviazione civile internazionale;
 
 - d. all’Ufficio federale della dogana e della sicurezza dei confini per l’esecuzione della legislazione sull’imposizione degli oli minerali e la riscossione e il rimborso della tassa sul CO<sub>2</sub>;
-- e. ai Cantoni nella misura in cui ne necessitano per l’esecuzione delle prescrizioni cantonali in materia di edifici (art. 45 LEne e art. 9 della legge sul CO<sub>2</sub>).[^70-5]
+- e. ai Cantoni nella misura in cui ne necessitano per l’esecuzione delle prescrizioni cantonali in materia di edifici (art. 45 LEne e art. 9 della legge sul CO<sub>2</sub>).[^70-7]
 
-[^70-1]: Nuovo testo giusta l’all. 2 n. II 74 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^70-1]: Nuovo testo giusta l’all. 2 cifra II n. 74 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^70-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 [^70-3]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^70-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^70-5]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^70-4]: Introdotta dall’art. 10 n. 1 dell’O del 2 apr. 2025 sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni, in vigore dal 1° mag. 2025 ([RU 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
+[^70-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^70-6]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-7]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Capitolo 11: Esecuzione
 
@@ -2469,10 +2472,14 @@ La promozione è destinata a:
 
 ### 4.2 Condizioni
 
-- 4\.2.1 I risanamenti di edifici vengono promossi se è soddisfatta una o più delle seguenti condizioni:
-- a. dopo il risanamento, almeno il 90 per cento della facciata e del tetto, ad eccezione della parete e del pavimento contro terra, è isolato termicamente secondo i requisiti della misura M-01 del ModEnHa 2015;
-- b. dopo il risanamento, all’edificio è attribuita la classe di efficienza CECE C o B per l’involucro dell’edificio;
-- c. dopo il risanamento, il fabbisogno termico per il riscaldamento dell’edificio è inferiore al 150 per cento del valore limite per il fabbisogno termico per il riscaldamento dei nuovi edifici secondo il modello di prescrizioni energetiche dei Cantoni 2014 (MoPEC)[^annex6a-lvlu1-lvl4-lvl42-1].
+- 4\.2.1
+
+  I risanamenti di edifici vengono promossi se è soddisfatta una o più delle seguenti condizioni:
+
+  - a. dopo il risanamento, almeno il 90 per cento della facciata e del tetto, ad eccezione della parete e del pavimento contro terra, è isolato termicamente secondo i requisiti della misura M-01 del ModEnHa 2015;
+  - b. dopo il risanamento, all’edificio è attribuita la classe di efficienza CECE C o B per l’involucro dell’edificio;
+  - c. dopo il risanamento, il fabbisogno termico per il riscaldamento dell’edificio è inferiore al 150 per cento del valore limite per il fabbisogno termico per il riscaldamento dei nuovi edifici secondo il modello di prescrizioni energetiche dei Cantoni 2014 (MoPEC)[^annex6a-lvlu1-lvl4-lvl42-1].
+
 - 4\.2.2. Il Cantone stabilisce quali risanamenti di edifici secondo il numero 4.2.1 intende promuovere.
 
 [^annex6a-lvlu1-lvl4-lvl42-1]: Il MoPEC può essere consultato all’indirizzo Internet [www.endk.ch/it](https://www.endk.ch/it) &gt; Documentazione &gt; Edifici / MoPEC &gt; MoPEC.

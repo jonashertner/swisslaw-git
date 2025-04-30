@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -129,7 +129,7 @@ L’entreprise soumise à l’obligation de marquage doit procéder au marquage 
 - a.[^4-3] pour l’ensemble de l’électricité fournie à tous les consommateurs finaux (mix du fournisseur), et
 - b. pour chaque consommateur final uniquement pour l’électricité qui lui a été fournie (mix du produit).
 
-<sup>3</sup> Indépendamment du type de marquage, elle doit publier son mix du fournisseur et la quantité totale d’électricité fournie à ses consommateurs finaux, au plus tard à la fin du mois de juin de l’année civile suivante. La publication se fait notamment par le biais de l’adresse Internet www.stromkennzeichnung.ch, gérée par toutes les entreprises soumises à l’obligation de marquage et librement accessible.[^4-4]
+<sup>3</sup> Indépendamment du type de marquage, elle doit publier son mix du fournisseur et la quantité totale d’électricité fournie à ses consommateurs finaux, au plus tard à la fin du mois de juin de l’année civile suivante. La publication se fait notamment par le biais de l’adresse Internet [www.stromkennzeichnung.ch](http://www.stromkennzeichnung.ch), gérée par toutes les entreprises soumises à l’obligation de marquage et librement accessible.[^4-4]
 
 <sup>4</sup> Quiconque fournit moins de 500 MWh par an à des consommateurs finaux est exempté de l’obligation de publier le marquage de l’électricité.
 
@@ -1833,23 +1833,26 @@ L’organe d’exécution octroie l’accès aux données personnelles ainsi qu�
   - 1\. dans le cadre du système d’échange de quotas d’émission (art. 15 à 21 de la loi sur le CO<sub>2</sub>),
   - 2\. dans le cadre de la compensation s’appliquant aux carburants (art. 28*b* à 28*e* de la loi sur le CO<sub>2</sub>),
   - 3\. dans le cadre de l’engagement à réduire les émissions de gaz à effet de serre (art. 31 à 32 de la loi sur le CO<sub>2</sub>),
-  - 4\. dans le cadre du remboursement de la taxe sur le CO<sub>2</sub> aux exploitants d’installations de couplage chaleur-force qui ne participent pas au système SEQE et n’ont pas pris d’engagement de réduction (art. 32*a* et 32*b* de la loi sur le CO<sub>2</sub>);
+  - 4\. dans le cadre du remboursement de la taxe sur le CO<sub>2</sub> aux exploitants d’installations de couplage chaleur-force qui ne participent pas au système SEQE et n’ont pas pris d’engagement de réduction (art. 32*a* et 32*b* de la loi sur le CO<sub>2</sub>),
+  - 5\.[^70-4] dans le cadre de la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission (art. 35*d* de la loi du 7 octobre 1983 sur la protection de l’environnement[^70-5]);
 
 - c.
 
   à l’Office fédéral de l’aviation civile, pour ses tâches d’exécution:
 
   - 1\. dans le cadre de la mise à disposition et du mélange de carburants d’aviation à faible taux d’émission, renouvelables et synthétiques renouvelables (art. 28*f* de la loi sur le CO<sub>2</sub>),
-  - 2\. dans le cadre du régime de compensation et de réduction de carbone pour l’aviation internationale visé à l’annexe 16, volume IV, de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^70-4];
+  - 2\. dans le cadre du régime de compensation et de réduction de carbone pour l’aviation internationale visé à l’annexe 16, volume IV, de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^70-6];
 
 - d. à l’Office fédéral de la douane et de la sécurité des frontières, pour l’exécution de la législation concernant l’impôt sur les huiles minérales ainsi que pour la perception et le remboursement de la taxe sur le CO<sub>2</sub>;
-- e. les cantons, dans la mesure où l’exécution des dispositions cantonales dans le domaine des bâtiments le requiert (art. 45 LEne et art. 9 de la loi sur le CO<sub>2</sub>).[^70-5]
+- e. les cantons, dans la mesure où l’exécution des dispositions cantonales dans le domaine des bâtiments le requiert (art. 45 LEne et art. 9 de la loi sur le CO<sub>2</sub>).[^70-7]
 
 [^70-1]: Nouvelle teneur selon l’annexe 2 ch. II 74 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^70-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 [^70-3]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^70-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^70-5]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^70-4]: Introduit par l’art. 10 ch. 1 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
+[^70-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^70-6]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-7]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Chapitre 11 Exécution
 
@@ -2464,10 +2467,14 @@ Sont encouragés:
 
 ### 4.2 Conditions
 
-- 4\.2.1 L’assainissement du bâtiment est encouragé si l’une ou plusieurs des conditions suivantes sont remplies:
-- a. au moins 90 % des surfaces des façades et du toit, à l’exception des murs et du sol contre terre, sont isolées conformément aux conditions de la mesure M‑01 du ModEnHa 2015;
-- b. après assainissement, le bâtiment présente une classe d’efficacité CECB C ou B au niveau de l’enveloppe du bâtiment;
-- c. après assainissement, le besoin en chauffage du bâtiment se situe sous la valeur limite de 150 % du seuil fixé pour le besoin en chauffage des nouvelles constructions selon le Modèle de prescriptions énergétiques des cantons 2014 (MoPEC 2014)[^annex6a-lvlu1-lvl4-lvl42-1].
+- 4\.2.1
+
+  L’assainissement du bâtiment est encouragé si l’une ou plusieurs des conditions suivantes sont remplies:
+
+  - a. au moins 90 % des surfaces des façades et du toit, à l’exception des murs et du sol contre terre, sont isolées conformément aux conditions de la mesure M‑01 du ModEnHa 2015;
+  - b. après assainissement, le bâtiment présente une classe d’efficacité CECB C ou B au niveau de l’enveloppe du bâtiment;
+  - c. après assainissement, le besoin en chauffage du bâtiment se situe sous la valeur limite de 150 % du seuil fixé pour le besoin en chauffage des nouvelles constructions selon le Modèle de prescriptions énergétiques des cantons 2014 (MoPEC 2014)[^annex6a-lvlu1-lvl4-lvl42-1].
+
 - 4\.2.2. Le canton détermine les assainissements au sens du ch. 4.2.1 qu’il encourage.
 
 [^annex6a-lvlu1-lvl4-lvl42-1]: Le MoPEC 2014 peut être obtenu sur [www.endk.ch](https://www.endk.ch/fr/documentation/batiments-mopec) &gt; Documentation / Archives &gt; Bâtiments / MoPEC &gt; MoPEC 2014.

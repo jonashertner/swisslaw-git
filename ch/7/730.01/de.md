@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250101/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Januar 2025)
+vom 1. November 2017 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -129,7 +129,7 @@ Das stromkennzeichnungspflichtige Unternehmen muss die Kennzeichnung für alle s
 - a.[^4-3] für die gesamthaft an alle seine Endverbraucherinnen und Endverbraucher gelieferte Elektrizität (Lieferantenmix); und
 - b. für jede Endverbraucherin und jeden Endverbraucher einzeln für die an diese oder diesen gelieferte Elektrizität (Produktemix).
 
-<sup>3</sup> Unabhängig von der Art der Kennzeichnung muss es seinen Lieferantenmix und die gesamthaft an seine Endverbraucherinnen und Endverbraucher gelieferte Menge Elektrizität bis spätestens Ende Juni des folgenden Kalenderjahres veröffentlichen. Die Veröffentlichung hat insbesondere über die im Internet von den stromkennzeichnungspflichtigen Unternehmen gemeinsam betriebene, frei zugängliche Adresse www.stromkennzeichnung.ch zu erfolgen.[^4-4]
+<sup>3</sup> Unabhängig von der Art der Kennzeichnung muss es seinen Lieferantenmix und die gesamthaft an seine Endverbraucherinnen und Endverbraucher gelieferte Menge Elektrizität bis spätestens Ende Juni des folgenden Kalenderjahres veröffentlichen. Die Veröffentlichung hat insbesondere über die im Internet von den stromkennzeichnungspflichtigen Unternehmen gemeinsam betriebene, frei zugängliche Adresse [www.stromkennzeichnung.ch](http://www.stromkennzeichnung.ch) zu erfolgen.[^4-4]
 
 <sup>4</sup> Wer weniger als 500 MWh pro Jahr an Endverbraucherinnen und Endverbraucher liefert, ist von der Pflicht zur Veröffentlichung der Stromkennzeichnung befreit.
 
@@ -1834,24 +1834,27 @@ Die Vollzugstelle gewährt Zugang zu den im Rahmen der Artikel 4*b* und 4*c* erh
   - 1\. im Emissionshandelssystem (Art. 15–21 des CO<sub>2</sub>-Gesetzes),
   - 2\. im Rahmen der Kompensation bei Treibstoffen (Art. 28*b*–28*e* des CO<sub>2</sub>-Gesetzes),
   - 3\. im Rahmen der Verpflichtung zu Verminderung der Treibhausgasemissionen (Art. 31–32 des CO<sub>2</sub>-Gesetzes),
-  - 4\. im Rahmen der Rückerstattung der CO<sub>2</sub>-Abgabe an Betreiber von Wärme-Kraft-Koppelungsanlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind (Art. 32*a* und 32*b* des CO<sub>2</sub>-Gesetzes);
+  - 4\. im Rahmen der Rückerstattung der CO<sub>2</sub>-Abgabe an Betreiber von Wärme-Kraft-Koppelungsanlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind (Art. 32*a* und 32*b* des CO<sub>2</sub>-Gesetzes),
+  - 5\.[^70-5] im Rahmen des Inverkehrbringens von erneuerbaren oder emissionsarmen Brenn- oder Treibstoffen (Art. 35*d* des Umweltschutzgesetzes vom 7. Oktober 1983[^70-6]);
 
 - c.
 
   dem Bundesamt für Zivilluftfahrt: für seine Vollzugsaufgaben:
 
   - 1\. im Rahmen der Bereitstellung und Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Flugtreibstoffen (Art. 28*f* des CO<sub>2</sub>-Gesetzes),
-  - 2\. im Rahmen des Carbon Offsetting and Reduction Scheme for International Aviation gemäss Anhang 16 Band IV zum Übereinkommen vom 7. Dezember 1944[^70-5] über die Internationale Zivilluftfahrt;
+  - 2\. im Rahmen des Carbon Offsetting and Reduction Scheme for International Aviation gemäss Anhang 16 Band IV zum Übereinkommen vom 7. Dezember 1944[^70-7] über die Internationale Zivilluftfahrt;
 
 - d. dem Bundesamt für Zoll und Grenzsicherheit: für den Vollzug der Mineralölsteuergesetzgebung sowie für die Erhebung und die Rückerstattung der CO<sub>2</sub>-Abgabe;
-- e. den Kantonen: soweit sie diese für den Vollzug der kantonalen Vorschriften im Gebäudebereich benötigen (Art. 45 EnG und Art. 9 des CO<sub>2</sub>-Gesetzes).[^70-6]
+- e. den Kantonen: soweit sie diese für den Vollzug der kantonalen Vorschriften im Gebäudebereich benötigen (Art. 45 EnG und Art. 9 des CO<sub>2</sub>-Gesetzes).[^70-8]
 
 [^70-1]: Fassung gemäss Anhang 2 Ziff. II 74 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^70-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^70-3]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 [^70-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^70-5]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^70-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^70-5]: Eingefügt durch Art. 10 Ziff. 1 der V vom 2. April 2025 über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen, in Kraft seit 1. Mai 2025 ([AS 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
+[^70-6]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^70-7]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-8]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 11. Kapitel: Vollzug
 
@@ -1972,7 +1975,7 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 
 [^80a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^80a-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^80a-3]: [AS 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/de)
+[^80a-3]: [[AS 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/de)](https://fedlex.data.admin.ch/eli/oc/2021/589)
 [^80a-4]: [www.gazenergie.ch](https://gazenergie.ch/de/wissen/detail/knowledge-topic/3-biogas-grundsaetze/) &gt; Wissen &gt; Biogas / Erneuerbare Gase &gt; 3. Biogas-Grundsätze &gt; Biogas-Grundsätze – Basis für den Entwurf der Energieverordnung
 
 #### Art. 80b
@@ -2435,7 +2438,7 @@ Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
 - c. Es werden alle dezentralen Heizungen im Gebäude ersetzt, mit Ausnahme von Handtuchradiatoren.
 - d. Ist der Ausbau einer elektrischen Fussbodenheizung nicht möglich oder unverhältnismässig, so wird diese elektrisch dauerhaft von der Stromversorgung getrennt.
 
-[^annex6a-lvlu1-lvl3-lvl32-1]: Die Norm SIA 384.201 (2017) kann beim BFE kostenlos eingesehen oder gegen Bezahlung abgerufen werden unter www.shop.sia.ch &gt; Europäische Normen &gt; Architekt.
+[^annex6a-lvlu1-lvl3-lvl32-1]: Die Norm SIA 384.201 (2017) kann beim BFE kostenlos eingesehen oder gegen Bezahlung abgerufen werden unter: [www.shop.sia.ch](http://www.shop.sia.ch) &gt; Europäische Normen &gt; Architekt.
 
 ### 3.3 Mehrfachförderung
 
