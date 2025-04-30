@@ -4,7 +4,7 @@ number: "414.11.1"
 title: "RÈGLEMENT du 18.12.2013 d'application de la loi du 6 juillet 2004 sur l'Université de Lausanne (RLUL)"
 short: RLUL
 language: fr
-version: 2021-01-01
+version: 2025-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/414.11.1?id=18a7e6d2-a1b5-46b7-aa99-c9468d30f4c6"
 ---
 
@@ -790,7 +790,7 @@ arrête
 
 **Conditions d'inscription et équivalences au sein des facultés [^subsectionSoussectionI-1]**
 
-<sup>1</sup> Les règlements d'études des facultés déterminent les conditions d'inscription en leur sein. Ils règlent les questions relatives à l'équivalence des études faites dans une autre haute école.
+<sup>1</sup> Les règlements d'études des facultés déterminent les conditions d'inscription en leur sein. Ils règlent les questions relatives à l'équivalence des études faites dans une autre haute école ou des formations attestées correspondant aux objectifs de formation du cursus visé.
 
 <sup>1bis</sup> Les règlements d'études précisent les conditions de la validation des acquis de l'expérience (VAE).
 
@@ -800,7 +800,7 @@ arrête
 
 <sup>4</sup> Demeurent réservées les conventions interuniversitaires.
 
-[^subsectionSoussectionI-1]: Modif. 1 du 11.05.2016: Modification Al. 1,3; entrée en vigueur au 01.05.2016; Introduction Al. 1bis; entrée en vigueur au 01.05.2016; Abrogation Al. 2; entrée en vigueur au 01.05.2016 · Modif. 3 du 04.11.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Abrogation Al. 3; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Modification Al. 1; entrée en vigueur au 01.05.2025; Introduction Art. 104, Al. 2bis; entrée en vigueur au 01.05.2025; Introduction Art. 104a, Al. 1, d; entrée en vigueur au 01.05.2025
+[^subsectionSoussectionI-1]: Modif. 1 du 11.05.2016: Modification Al. 1,3; entrée en vigueur au 01.05.2016; Introduction Al. 1bis; entrée en vigueur au 01.05.2016; Abrogation Al. 2; entrée en vigueur au 01.05.2016 · Modif. 3 du 04.11.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Abrogation Al. 3; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Modification Al. 1; entrée en vigueur au 01.05.2025
 
 #### Art. 77a
 
@@ -1257,13 +1257,18 @@ arrête
 
 <sup>1</sup> L'auditeur est tenu de s'inscrire aux enseignements qu'il se propose de suivre et de s'acquitter des taxes d'inscription forfaitaires semestrielles.
 
-<sup>2</sup> L'auditeur peut être autorisé par la faculté concernée à se présenter aux évaluations organisées pour les étudiants ; il peut recevoir une attestation ad hoc mais ne peut prétendre à un grade universitaire, ni obtenir des crédits ECTS, ni faire valoir ultérieurement des évaluations réussies.
+<sup>2</sup> L'auditeur peut être autorisé par la faculté concernée à se présenter aux évaluations organisées pour les étudiants ; il peut recevoir une attestation ad hoc mais ne peut prétendre à un grade universitaire. Sous réserve de l'alinéa suivant, l'auditeur ne peut ni obtenir des crédits ECTS, ni faire valoir ultérieurement des évaluations réussies.
+
+<sup>2bis</sup> La faculté concernée peut, sur demande de l'auditeur, reconnaître ultérieurement des évaluations réussies d'enseignements suivis en tant qu'auditeur à l'Université et octroyer des crédits ECTS pour un maximum de 15 crédits ECTS, si:
+
+- a. l'auditeur était titulaire d'un permis N, F, S ou B réfugié lorsqu'il a suivi ces enseignements, et
+- b. l'auditeur est admis à l'immatriculation dans un cursus dans les cinq ans après avoir suivi ces enseignements en tant qu'auditeur.
 
 <sup>3</sup> L'auditeur n'est admis aux travaux pratiques et aux séminaires qu'avec l'autorisation du doyen de la faculté concernée, sur préavis du professeur concerné.
 
 <sup>4</sup> Sur proposition du doyen de la faculté concernée, la Direction peut restreindre le nombre des auditeurs lorsque les conditions de l'enseignement l'exigent.
 
-[^chapterChapitreIII-1]: Modif. 3 du 04.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Modification Al. 2; entrée en vigueur au 01.05.2025; Introduction Al. 2bis; entrée en vigueur au 01.05.2025; Introduction Art. 104a, Al. 1, d; entrée en vigueur au 01.05.2025
+[^chapterChapitreIII-1]: Modif. 3 du 04.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Modification Al. 2; entrée en vigueur au 01.05.2025; Introduction Al. 2bis; entrée en vigueur au 01.05.2025
 [^104-1]: Modif. 3 du 04.11.2020: Introduction ; entrée en vigueur au 01.01.2021
 
 ### Chapitre IV Formation continue
@@ -1279,22 +1284,23 @@ arrête
 - a. Certificate of Advanced Studies (CAS);
 - b. Diploma of Advanced Studies (DAS);
 - c. Master of Advanced Studies (MAS).
+- d. Certificate of Open Studies (COS).
 
 <sup>2</sup> L'Université peut également offrir des formations continues non certifiantes.
 
-[^chapterChapitreIV-1]: Modif. 3 du 04.11.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1-2; entrée en vigueur au 01.01.2021; Introduction Art. 104a; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Introduction Art. 104, Al. 2bis; entrée en vigueur au 01.05.2025; Introduction Al. 1, d; entrée en vigueur au 01.05.2025
+[^chapterChapitreIV-1]: Modif. 3 du 04.11.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1-2; entrée en vigueur au 01.01.2021; Introduction Art. 104a; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Introduction Al. 1, d; entrée en vigueur au 01.05.2025
 
 #### Art. 104b
 
 **Modalités d'obtention des titres de formation continue [^104a-1]**
 
-<sup>1</sup> Les titres mentionnés à l'article 104a alinéa 1 sont délivrés sur la base d'examens et de validations de travaux dont l'organisation et les modalités sont définies dans les règlements d'études des CAS, DAS et MAS.
+<sup>1</sup> Les titres mentionnés à l'article 104a alinéa 1 sont délivrés sur la base d'examens et de validations de travaux dont l'organisation et les modalités sont définies dans les règlements d'études des CAS, COS, DAS et MAS.
 
-<sup>2</sup> Les titres de CAS et de DAS sont décernés par les facultés concernées.
+<sup>2</sup> Les titres de CAS, de COS et de DAS sont décernés par les facultés concernées.
 
 <sup>3</sup> Le titre de MAS est décerné par l'Université.
 
-[^104a-1]: Modif. 3 du 04.11.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1-3; entrée en vigueur au 01.01.2021; Introduction Art. 104b; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Introduction Art. 104, Al. 2bis; entrée en vigueur au 01.05.2025; Introduction Art. 104a, Al. 1, d; entrée en vigueur au 01.05.2025; Modification Al. 1-2; entrée en vigueur au 01.05.2025
+[^104a-1]: Modif. 3 du 04.11.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1-3; entrée en vigueur au 01.01.2021; Introduction Art. 104b; entrée en vigueur au 01.01.2021 · Modif. 4 du 30.04.2025: Modification Al. 1-2; entrée en vigueur au 01.05.2025
 
 ## Titre VI Discipline
 
