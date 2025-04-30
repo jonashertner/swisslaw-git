@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2025-02-01
+version: 2025-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° febbraio 2025)
+del 3 giugno 2016 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -401,8 +401,8 @@ Allegati 1 e 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR dell’11 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
-[^annexu1-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229)).
+[^annexu1-lvlu1-1]: Il contenuto degli all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 

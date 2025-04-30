@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2025-02-01
+version: 2025-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Februar 2025)
+vom 3. Juni 2016 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -401,8 +401,8 @@ Anhänge 1 und 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassungen gemäss Ziff. I der V des WBF vom 11. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184)).
-[^annexu1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassungen gemäss Ziff. I der V des WBF vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229)).
+[^annexu1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 

@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2025-02-01
+version: 2025-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250201/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250201-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 February 2025)
+of 3 June 2016 (Status as of 1 May 2025)
 
 The Swiss Federal Council,
 
@@ -403,8 +403,8 @@ Annexes 1 and 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Amended by No I of the EAER O of 11 April 2024, in force since 1 June 2024 ([AS 2024 184](https://fedlex.data.admin.ch/eli/oc/2024/184))
-[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2024/184](https://fedlex.data.admin.ch/eli/oc/2024/184) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
+[^t-1]: Amended by No I of the EAER O of 2 April 2025, in force since 1 May 2025 ([AS 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229))
+[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
 
 Annex 3[^t-2]
 
