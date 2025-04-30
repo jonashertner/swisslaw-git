@@ -3,20 +3,20 @@ canton: SG
 number: "141.81"
 title: Verordnung über die Raumnutzung im Regierungsgebäude
 language: de
-version: 2014-02-01
-valid_until: 2025-04-30
-version_adopted: 2014-01-07
+version: 2025-05-01
+valid_until: 2026-03-31
+version_adopted: 2025-03-18
 adopted: 2011-09-20
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.81"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1529/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3762/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Raumnutzung im Regierungsgebäude
 
-vom 20.09.2011 (Stand 01.02.2014)
+vom 20.09.2011 (Stand 01.05.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -122,9 +122,11 @@ als Verordnung:[^ingress-1]
 
 - a) das Tafelzimmer Nr. 200;
 - b) das Lesezimmer Nr. 215 a;
+- b<sup>bis</sup>) das Sitzungszimmer Nr. 219;
 - c) das Sitzungszimmer Nr. 308;
 - d) das Sitzungszimmer Nr. 310;
-- e) der Medien- und Schulungsraum Nr. 311.
+- e) …
+- f) das Botschafterzimmer Nr. 315.
 
 <sup>2</sup> Die Sitzungszimmer stehen gemeinsam mit der Nutzung eines anderen Raums oder separat für Sitzungen, Besprechungen, Zusammenkünfte von Projekt- und Arbeitsgruppen zur Verfügung.
 
@@ -132,9 +134,9 @@ als Verordnung:[^ingress-1]
 
 **Bewirtung**
 
-<sup>1</sup> Die Bewirtung im Pfalzkeller sowie im Forum des Pfalzkellers und im Hofkeller erfolgt durch die von der Staatskanzlei bezeichneten Catering-Unternehmen. Im Pfalzkeller sowie im Forum des Pfalzkellers kann die nutzungsberechtigte Person in Absprache mit der Dienststelle Raumnutzung ein anderes Catering-Unternehmen oder andere Private mit der Bewirtung beauftragen oder die Bewirtung selbst besorgen.
+<sup>1</sup> Die Bewirtung im Pfalzkeller sowie im Forum des Pfalzkellers und im Hofkeller erfolgt durch die von der Staatskanzlei bezeichneten Catering-Unternehmen. Im Pfalzkeller sowie im Forum des Pfalzkellers kann die nutzungsberechtigte Person in Absprache mit der Raumnutzung der Staatskanzlei ein anderes Catering-Unternehmen oder andere Private mit der Bewirtung beauftragen oder die Bewirtung selbst besorgen.
 
-<sup>2</sup> Die Bewirtung im Ratsstübli und in den Sitzungszimmern erfolgt in Absprache mit der Dienststelle Raumnutzung.
+<sup>2</sup> Die Bewirtung im Ratsstübli und in den Sitzungszimmern erfolgt in Absprache mit der Raumnutzung der Staatskanzlei.
 
 <sup>3</sup> Die Bewirtung im Kantonsratssaal ist ausgeschlossen.
 
@@ -144,7 +146,7 @@ als Verordnung:[^ingress-1]
 
 **Gesuch a) Einreichung**
 
-<sup>1</sup> Wer einen Raum nutzen möchte, reicht der Dienststelle Raumnutzung das Nutzungsgesuch ein.
+<sup>1</sup> Wer einen Raum nutzen möchte, reicht der Raumnutzung der Staatskanzlei das Nutzungsgesuch ein.
 
 #### Art. 11
 
@@ -158,7 +160,7 @@ als Verordnung:[^ingress-1]
 - d) verantwortliche, für den Verkehr mit der Staatskanzlei zuständige Person;
 - e) allfällige Bewirtung und damit verbundene Informationen.
 
-<sup>2</sup> Die Dienststelle Raumnutzung kann weitere Angaben verlangen.
+<sup>2</sup> Die Raumnutzung der Staatskanzlei kann weitere Angaben verlangen.
 
 #### Art. 12
 
@@ -202,7 +204,7 @@ als Verordnung:[^ingress-1]
 
 **Parkfelder**
 
-<sup>1</sup> Die Dienststelle Raumnutzung kann Catering-Unternehmen oder Privaten, die mit der Bewirtung beauftragt sind, Parkfelder auf dem Areal des Regierungsgebäudes zur Verfügung stellen.
+<sup>1</sup> Die Raumnutzung der Staatskanzlei kann Catering-Unternehmen oder Privaten, die mit der Bewirtung beauftragt sind, Parkfelder auf dem Areal des Regierungsgebäudes zur Verfügung stellen.
 
 <sup>2</sup> Sie kann die Dauer der Belegung festsetzen und andere Anordnungen für die Benützung der Parkfelder treffen.
 
@@ -224,9 +226,11 @@ als Verordnung:[^ingress-1]
 - f) das Sitzungszimmer:
   - 1\. Nummer 200 (Tafelzimmer): halber Tag Fr. 300.–, ganzer Tag Fr. 500.–
   - 2\. Nummer 215 a (Lesezimmer): halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
+  - 2<sup>bis</sup>. Nummer 219: halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
   - 3\. Nummer 308: halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
   - 4\. Nummer 310: halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
-  - 5\. Nummer 311 (Medien- und Schulungsraum): halber Tag Fr. 180.–, ganzer Tag Fr. 300.–
+  - 5\. …
+  - 6\. Nummer 315 (Botschafterzimmer): halber Tag Fr. 200.–, ganzer Tag Fr. 400.–
 
 <sup>2</sup> Die Benützungsgebühr wird zusätzlich für die Tage oder die halben Tage, die für die Bereitstellung der Räume sowie für den Auf- und Abbau von Einrichtungen benötigt werden, entrichtet.
 
@@ -244,10 +248,10 @@ als Verordnung:[^ingress-1]
 
 **c) Verzicht auf Erhebung**
 
-<sup>1</sup> Auf die Erhebung der Benützungsgebühr kann verzichtet werden, wenn die Veranstaltung für die Teilnehmenden kostenlos ist und:
+<sup>1</sup> Auf die Erhebung der Benützungsgebühr kann verzichtet werden, wenn die Veranstaltung:
 
 - a) von einer gemeinnützig tätigen Organisation durchgeführt wird oder einem gemeinnützigen Zweck dient;
-- b) der Standortförderung durch Vermittlung von Informationen über den Wirtschaftsstandort St.Gallen dient;
+- b) der wirtschaftlichen oder kulturellen Standortförderung dient;
 - c) der Vermittlung von wissenschaftlichen Erkenntnissen oder dem wissenschaftlichen Erfahrungsaustausch dient;
 - d) der politischen Meinungsbildung der Allgemeinheit dient;
 - e) von militärischen Organisationen sowie von Organisationen des Bevölkerungsschutzes durchgeführt wird und der Wissensvermittlung oder dem Erfahrungsaustausch dient.
@@ -262,15 +266,7 @@ als Verordnung:[^ingress-1]
 
 #### Art. 21
 
-**Einrichtungsgebühr**
-
-<sup>1</sup> Die Einrichtungsgebühr wird für zusätzliche, die Grundausstattung ergänzende Einrichtungen entrichtet.
-
-<sup>2</sup> Sie wird als Pauschale erhoben für:
-
-- a) Hellraumprojektor mit Leinwand: Fr. 50.–
-- b) Beamer, DVD und Videogeräte sowie Telematikanschlüsse: Fr. 100.–
-- c) Konzert-Flügel im Forum des Pfalzkellers: Fr. 300.–
+**…**
 
 #### Art. 22
 
@@ -283,7 +279,7 @@ als Verordnung:[^ingress-1]
 - a) 50 Prozent der Benützungsgebühr bei Annullierung zwischen dem 60. und dem 15. Tag vor Veranstaltungsbeginn;
 - b) 100 Prozent der Benützungsgebühr ab dem 14. Tag vor Veranstaltungsbeginn.
 
-<sup>3</sup> Zusätzlich werden die tatsächlichen Sach- und Personalkosten, die der Dienststelle Raumnutzung bei der Vorbereitung der Veranstaltung entstanden sind, ersetzt.
+<sup>3</sup> Zusätzlich werden die tatsächlichen Sach- und Personalkosten, die der Raumnutzung der Staatskanzlei bei der Vorbereitung der Veranstaltung entstanden sind, ersetzt.
 
 #### Art. 23
 
