@@ -4,11 +4,11 @@ title: Ordonnance du 16 octobre 2024 sur l’indemnisation et la présentation d
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: fr
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/fr"
 
 (OITRV)
 
-du 16 octobre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 16 octobre 2024 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 29, al. 2, 30, al. 3, 31*a*, al. 2, 31*a*<sup>ter</sup>, al. 3, 31*a*<sup>quater</sup>, al. 3, 31*b*, al. 2, 35, al. 3, 35*a*, al. 3, et 63, al. 1, de la loi du 20 mars 2009 sur le transport de voyageurs (LTV)[^ingress-1], vu l’art. 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-2], vu l’art. 26 de la loi du 23 juin 2006 sur les installations à câbles (LICa)[^ingress-3],
+vu les art. 29, al. 2, 30, al. 3, 31*a*, al. 2, 31*a*<sup>ter</sup>, al. 3, 31*a*<sup>quater</sup>, al. 3, 31*b*, al. 2, 35, al. 3, 35*a*, al. 3, et 63, al. 1 de la loi du 20 mars 2009 sur le transport de voyageurs (LTV)[^ingress-1], vu l’art. 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-2], vu l’art. 26 de la loi du 23 juin 2006 sur les installations à câbles (LICa)[^ingress-3], vu l’art. 37*a* de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^ingress-4],[^ingress-5]
 
 arrête:
 
 [^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-5]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -721,6 +723,120 @@ La conversion doit être demandée à l’OFT au moins trois mois à l’avance.
 <sup>1</sup> La Confédération peut octroyer, dans le cadre des crédits alloués, des contributions à fonds perdu selon l’art. 16, al. 3, LICa pour les investissements des entreprises de transport à câbles.
 
 <sup>2</sup> L’OFT règle dans une directive les conditions et le processus de financement des investissements des entreprises de transport à câbles ayant droit aux indemnités.
+
+### Section 4 Encouragement du transport ferroviaire transfrontalier de voyageurs grandes lignes
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Introduite par l’annexe ch. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 58a
+
+**Soutien financier**
+
+Pour encourager le transport ferroviaire transfrontalier de voyageurs grandes lignes visé à l’art. 37*a* de la loi sur le CO<sub>2</sub>, la Confédération accorde des contributions à fonds perdu à l’exploitation ou aux investissements dans les limites des crédits approuvés.
+
+#### Art. 58b
+
+**Priorités en matière de soutien**
+
+<sup>1</sup> La priorité est donnée aux nouvelles offres de trains de nuit exploités toute l’année et combinant des voitures à places assises, des voitures-lits ou des voitures-couchettes. La manière dont le nombre de voyageurs-kilomètres en transport transfrontalier de voyageurs grandes lignes peut être maximisé avec les moyens disponibles est prise en considération.
+
+<sup>2</sup>
+
+Si des moyens supplémentaires sont disponibles, ils sont utilisés pour:
+
+- a. promouvoir de nouvelles offres de trains de nuit saisonniers;
+- b. promouvoir de nouvelles liaisons transfrontalières de jour et de nuit sans voitures-lits ni voitures-couchettes;
+- c. améliorer la capacité ou l’attractivité des offres transfrontalières existantes;
+- d. investir principalement dans le transport ferroviaire transfrontalier de voyageurs grandes lignes.
+
+<sup>3</sup> Aucun moyen n’est accordé pour réduire le tarif des titres de transport.
+
+#### Art. 58c
+
+**Conditions**
+
+<sup>1</sup>
+
+Peuvent demander des contributions les entreprises qui remplissent les conditions suivantes:
+
+- a.
+
+  elles sont actives dans le transport ferroviaire transfrontalier de voyageurs grandes lignes et bénéficient:
+
+  - 1\. d’une concession visée à l’art. 6 LTV,
+  - 2\. d’une autorisation visée à l’art. 8 LTV, ou
+  - 3\. d’un traité international, et
+
+- b. elles disposent déjà d’une expérience dans l’exploitation d’offres comparables au moment où elles déposent la demande de soutien financier.
+
+<sup>2</sup> Les offres à destination ou au départ d’une gare frontière en Suisse ne sont soutenues que si elles sont dans l’intérêt prépondérant de la Suisse.
+
+<sup>3</sup> Aucun soutien n’est accordé à des offres dont le rapport entre les coûts non couverts et les voyageurs-kilomètres est nettement moins bon que celui d’autres offres.
+
+#### Art. 58d
+
+**Projets d’offre**
+
+<sup>1</sup> L’OFT édicte des prescriptions administratives pour la présentation de projets d’offre et de projets d’investissement et publie ces prescriptions.
+
+<sup>2</sup> Les entreprises peuvent soumettre à l’OFT des projets pour les offres et les investissements à encourager.
+
+<sup>3</sup> À l’issue d’un examen préalable, l’OFT communique aux entreprises si les projets correspondent aux prescriptions ou doivent être adaptés, et si d’autres entreprises ont également présenté des projets.
+
+#### Art. 58e
+
+**Demandes**
+
+<sup>1</sup> Les entreprises peuvent soumettre à l’OFT des demandes d’encouragement de leurs offres.
+
+<sup>2</sup>
+
+Les demandes doivent comporter les données et documents suivants:
+
+- a. données relatives à l’entreprise requérante;
+- b. projet d’offre avec analyse du marché, tracé des lignes, politique des arrêts, tarifs, capacité, structure quantitative et horaires;
+- c. coûts et recettes attendus, ainsi que contributions demandées par an pendant au moins trois années d’exploitation;
+- d. demande escomptée, en particulier les voyageurs-kilomètres en transport transfrontalier de voyageurs grandes lignes annuels et indications sur le transfert attendu du transport aérien des voyageurs vers le rail;
+- e. contributions accordées par des tiers;
+- f. assurance que l’offre sera fournie pendant plusieurs années;
+- g. pour les offres existantes: explications sur l’amélioration de l’attractivité pour les voyageurs.
+
+<sup>3</sup> L’OFT peut exiger des entreprises d’autres données nécessaires pour le traitement des demandes.
+
+#### Art. 58f
+
+**Évaluation des demandes**
+
+L’OFT évalue et classe par ordre de priorité les demandes sur la base des coûts non couverts et des voyageurs-kilomètres en transport transfrontalier de voyageurs grandes lignes attendus.
+
+#### Art. 58g
+
+**Montant des contributions**
+
+<sup>1</sup> Les contributions accordées correspondent au maximum au montant prévu des coûts non couverts de l’offre, incluant toutes les sections de ligne en Suisse et à l’étranger.
+
+<sup>2</sup> Aucune marge bénéficiaire n’est prise en compte dans la détermination du montant des contributions.
+
+<sup>3</sup> Pour les années 2028 à 2030, le montant des contributions est réexaminé sur la base des résultats des années précédentes.
+
+#### Art. 58h
+
+**Décision**
+
+<sup>1</sup> L’OFT édicte une décision concernant la demande d’encouragement des offres.
+
+<sup>2</sup>
+
+Il y fixe notamment:
+
+- a. le montant des contributions annuelles;
+- b. l’offre encouragée;
+- c. les conditions à respecter;
+- d. les modalités d’établissement des rapports;
+- e. les modalités de versement des contributions;
+- f. les motifs du rejet de la demande.
 
 ## Chapitre 5 Présentation des comptes
 

@@ -4,11 +4,11 @@ title: Ordinanza del 16 ottobre 2024 sulle indennità e la presentazione dei con
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: it
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/it"
 
 (OITRV)
 
-del 16 ottobre 2024 (Stato 1° gennaio 2025)
+del 16 ottobre 2024 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 29 capoverso 2, 30 capoverso 3, 31*a* capoverso 2, 31*a*<sup>ter</sup> capoverso 3, 31*a*<sup>quater</sup> capoverso 3, 31*b* capoverso 2, 35 capoverso 3, 35*a* capoverso 3 e 63 capoverso 1 della legge del 20 marzo 2009[^ingress-1] sul trasporto di viaggiatori (LTV); visto l’articolo 97 della legge federale del 20 dicembre 1957[^ingress-2] sulle ferrovie (Lferr); visto l’articolo 26 della legge del 23 giugno 2006[^ingress-3] sugli impianti a fune (LIFT),
+visti gli articoli 29 capoverso 2, 30 capoverso 3, 31*a* capoverso 2, 31*a*<sup>ter</sup> capoverso 3, 31*a*<sup>quater</sup> capoverso 3, 31*b* capoverso 2, 35 capoverso 3, 35*a* capoverso 3 e 63 capoverso 1 della legge del 20 marzo 2009[^ingress-1] sul trasporto di viaggiatori (LTV); visto l’articolo 97 della legge federale del 20 dicembre 1957[^ingress-2] sulle ferrovie (Lferr); visto l’articolo 26 della legge del 23 giugno 2006[^ingress-3] sugli impianti a fune (LIFT); visto l’articolo 37*a* della legge del 23 dicembre 2011[^ingress-4] sul CO<sub>2</sub>,[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-5]: Nuovo testo giusta l’all. n. 3 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -721,6 +723,120 @@ La conversione deve essere richiesta all’UFT almeno tre mesi prima.
 <sup>1</sup> Nei limiti dei crediti approvati la Confederazione può concedere contributi a fondo perso ai sensi dell’articolo 16 capoverso 3 LIFT per gli investimenti di imprese di trasporto a fune.
 
 <sup>2</sup> L’UFT stabilisce in una direttiva le condizioni e il processo per il finanziamento degli investimenti di imprese di trasporto a fune beneficiarie di indennità.
+
+### Sezione 4: Promozione del trasporto ferroviario transfrontaliero di persone
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Introdotta dall’all. n. 3 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 58a
+
+**Promozione finanziaria**
+
+La Confederazione promuove il trasporto ferroviario transfrontaliero di persone ai sensi dell’articolo 37*a* della legge sul CO<sub>2</sub> nel quadro dei crediti stanziati mediante contributi a fondo perso per l’esercizio o gli investimenti.
+
+#### Art. 58b
+
+**Priorità nella promozione**
+
+<sup>1</sup> Sono promosse in via prioritaria le nuove offerte di treni notturni che circolano tutto l’anno, dotati sia di posti a sedere sia di vagoni letto o cuccette. In tale contesto, si considera come può essere massimizzato, con i mezzi disponibili, il numero di viaggiatori-chilometro nel trasporto transfrontaliero di persone.
+
+<sup>2</sup>
+
+Se sono disponibili mezzi ulteriori, sono promossi inoltre:
+
+- a. nuove offerte di treni notturni stagionali;
+- b. nuovi collegamenti notturni e diurni transfrontalieri senza vagoni letto o cuccette;
+- c. l’aumento della capacità o dell’attrattiva delle offerte transfrontaliere attuali;
+- d. investimenti destinati prevalentemente al trasporto ferroviario transfrontaliero di persone.
+
+<sup>3</sup> La promozione di riduzioni di prezzo sui titoli di trasporto è esclusa.
+
+#### Art. 58c
+
+**Condizioni**
+
+<sup>1</sup>
+
+Possono chiedere contributi le imprese che:
+
+- a.
+
+  trasportano persone nel trasporto transfrontaliero sulla base di:
+
+  - 1\. una concessione secondo l’articolo 6 LTV,
+  - 2\. un’autorizzazione secondo l’articolo 8 LTV, oppure
+  - 3\. un trattato internazionale; e
+
+- b. al momento della presentazione della domanda di promozione hanno già esperienza nell’esercizio di offerte comparabili.
+
+<sup>2</sup> Le offerte che cominciano o terminano in una stazione di confine in Svizzera sono promosse unicamente se corrispondono a un interesse preponderante della Svizzera.
+
+<sup>3</sup> Non sono promosse le offerte con un rapporto tra costi non coperti e viaggiatori-chilometro decisamente peggiore rispetto ad altre offerte.
+
+#### Art. 58d
+
+**Piani dell’offerta**
+
+<sup>1</sup> L’UFT stabilisce prescrizioni amministrative per la presentazione di piani dell’offerta e di piani degli investimenti e le pubblica.
+
+<sup>2</sup> Le imprese possono presentare all’UFT piani dell’offerta e piani degli investimenti da promuovere.
+
+<sup>3</sup> Dopo una verifica preliminare, l’UFT comunica alle imprese se i loro piani corrispondono alle prescrizioni o devono essere modificati e se altre imprese hanno presentato piani.
+
+#### Art. 58e
+
+**Domande**
+
+<sup>1</sup> Le imprese possono presentare all’UFT domande per la promozione delle loro offerte.
+
+<sup>2</sup>
+
+Le domande devono contenere le indicazioni e i documenti seguenti:
+
+- a. indicazioni sull’impresa richiedente;
+- b. il piano dell’offerta con analisi di mercato, tracciato della linea, politica delle fermate, tariffe, capacità, numero di collegamenti e orario;
+- c. costi e proventi attesi nonché contributi annui richiesti per almeno tre anni d’esercizio;
+- d. domanda attesa, in particolare i viaggiatori-chilometro annui nel trasporto transfrontaliero di persone e indicazioni sul trasferimento previsto del trasporto di persone dagli aerei alla ferrovia;
+- e. contributi garantiti di terzi;
+- f. garanzia che l’offerta sarà fornita per diversi anni;
+- g. per le offerte esistenti, spiegazioni in merito alla maggiore attrattiva per i viaggiatori.
+
+<sup>3</sup> L’UFT può esigere dalle imprese ulteriori indicazioni necessarie al trattamento delle domande.
+
+#### Art. 58f
+
+**Valutazione delle domande**
+
+L’UFT valuta le domande e ne stabilisce la priorità in base ai previsti costi non coperti e viaggiatori-chilometro nel trasporto transfrontaliero di persone.
+
+#### Art. 58g
+
+**Ammontare dei contributi**
+
+<sup>1</sup> I contributi sono concessi al massimo nella misura dei previsti costi non coperti dell’offerta riguardante tratti di linea in Svizzera e all’estero.
+
+<sup>2</sup> L’ammontare dei contributi è determinato senza considerare i margini di guadagno.
+
+<sup>3</sup> L’ammontare dei contributi per gli anni 2028–2030 è verificato sulla base dei risultati degli anni precedenti.
+
+#### Art. 58h
+
+**Decisione**
+
+<sup>1</sup> L’UFT emana una decisione concernente la domanda per la promozione delle offerte.
+
+<sup>2</sup>
+
+In particolare vi stabilisce:
+
+- a. l’ammontare dei contributi annui;
+- b. l’offerta promossa;
+- c. le condizioni da osservare;
+- d. le modalità della presentazione di rapporti;
+- e. le modalità di versamento dei contributi;
+- f. i motivi del rifiuto della domanda.
 
 ## Capitolo 5: Presentazione dei conti
 

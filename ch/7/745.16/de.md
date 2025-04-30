@@ -4,11 +4,11 @@ title: Verordnung vom 16. Oktober 2024 über die Abgeltung und die Rechnungslegu
 short: ARPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: de
-version: 2025-01-01
+version: 2025-05-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250101/de"
 
 (ARPV)
 
-vom 16. Oktober 2024 (Stand am 1. Januar 2025)
+vom 16. Oktober 2024 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 29 Absatz 2, 30 Absatz 3, 31*a* Absatz 2, 31*a*<sup>ter</sup> Absatz 3, 31*a*<sup>quater</sup> Absatz 3, 31*b* Absatz 2, 35 Absatz 3, 35*a* Absatz 3 und 63 Absatz 1 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-1] (PBG), Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-2] (EBG) und Artikel 26 des Seilbahngesetzes vom 23. Juni 2006[^ingress-3] (SebG)
+gestützt auf die Artikel 29 Absatz 2, 30 Absatz 3, 31*a* Absatz 2, 31*a*<sup>ter</sup> Absatz 3, 31*a*<sup>quater</sup> Absatz 3, 31*b* Absatz 2, 35 Absatz 3, 35*a* Absatz 3 und 63 Absatz 1 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-1] (PBG), Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-2] (EBG), Artikel 26 des Seilbahngesetzes vom 23. Juni 2006[^ingress-3] (SebG) und auf Artikel 37*a* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^ingress-4],[^ingress-5]
 
 verordnet:
 
 [^ingress-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^ingress-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^ingress-3]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^ingress-4]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-5]: Fassung gemäss Anhang Ziff. 3 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -721,6 +723,120 @@ Die Umwandlung ist spätestens drei Monate zum Voraus beim BAV zu beantragen.
 <sup>1</sup> Für Investitionen von Seilbahnunternehmen kann der Bund im Rahmen der bewilligten Kredite A-Fonds-perdu-Beiträge nach Artikel 16 Absatz 3 SebG gewähren.
 
 <sup>2</sup> Das BAV regelt die Voraussetzungen und den Prozess der Finanzierung von Investitionen abgeltungsberechtigter Seilbahnunternehmen in einer Richtlinie.
+
+### 4. Abschnitt: Förderung des grenzüberschreitenden Personenfernverkehrs auf der Schiene
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Eingefügt durch Anhang Ziff. 3 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+
+#### Art. 58a
+
+**Finanzielle Förderung**
+
+Der Bund fördert den grenzüberschreitenden Personenfernverkehr auf der Schiene gestützt auf Artikel 37*a* des CO<sub>2</sub>-Gesetzes im Rahmen der bewilligten Kredite durch A‑Fonds-perdu-Beiträge an den Betrieb oder an Investitionen.
+
+#### Art. 58b
+
+**Prioritäten bei der Förderung**
+
+<sup>1</sup> Vorrangig gefördert werden neue Angebote ganzjährig betriebener Nachtzüge, die neben Sitzplatz- auch Schlaf- oder Liegewagen mitführen. Dabei wird berücksichtigt, wie mit den vorhandenen Mitteln die Anzahl der Personenkilometer im grenzüberschreitenden Personenfernverkehr maximiert werden kann.
+
+<sup>2</sup>
+
+Stehen zusätzliche Mittel zur Verfügung, so werden zudem gefördert:
+
+- a. neue Angebote saisonal verkehrender Nachtzüge;
+- b. neue grenzüberschreitende Nacht- und Tagesverbindungen ohne Schlaf- oder Liegewagen;
+- c. die Erhöhung der Kapazität oder Attraktivität bestehender grenzüberschreitender Angebote;
+- d. Investitionen, die überwiegend dem grenzüberschreitenden Personenfernverkehr auf der Schiene dienen.
+
+<sup>3</sup> Die Förderung der Vergünstigung der Fahrausweise ist ausgeschlossen.
+
+#### Art. 58c
+
+**Voraussetzungen**
+
+<sup>1</sup>
+
+Beiträge beantragen können Unternehmen, die:
+
+- a.
+
+  im grenzüberschreitenden Personenfernverkehr Personen befördern auf der Basis:
+
+  - 1\. einer Konzession nach Artikel 6 PBG,
+  - 2\. einer Bewilligung nach Artikel 8 PBG, oder
+  - 3\. eines Staatsvertrages; und
+
+- b. zum Zeitpunkt der Einreichung des Fördergesuchs bereits über Erfahrung im Betrieb vergleichbarer Angebote verfügen.
+
+<sup>2</sup> Angebote, die an einem Grenzbahnhof in der Schweiz starten oder enden, werden nur gefördert, wenn sie im überwiegenden Interesse der Schweiz liegen.
+
+<sup>3</sup> Angebote, die ein wesentlich schlechteres Verhältnis zwischen den ungedeckten Kosten und den Personenkilometern aufweisen als andere Angebote, werden nicht gefördert.
+
+#### Art. 58d
+
+**Angebotskonzepte**
+
+<sup>1</sup> Das BAV macht administrative Vorgaben für die Einreichung von Angebotskonzepten und von Investitionskonzepten und veröffentlicht diese.
+
+<sup>2</sup> Die Unternehmen können dem BAV Konzepte für die zu fördernden Angebote und die Investitionen einreichen.
+
+<sup>3</sup> Nach einer Vorprüfung informiert das BAV die Unternehmen, ob ihre Konzepte den Vorgaben entsprechen oder angepasst werden müssen und ob andere Unternehmen Konzepte eingereicht haben.
+
+#### Art. 58e
+
+**Gesuche**
+
+<sup>1</sup> Die Unternehmen können dem BAV Gesuche für die Förderung ihrer Angebote einreichen.
+
+<sup>2</sup>
+
+Die Gesuche müssen die folgenden Angaben und Unterlagen enthalten:
+
+- a. Angaben zum gesuchstellenden Unternehmen;
+- b. das Angebotskonzept mit Marktanalyse, Linienführung, Haltepolitik, Tarifen, Kapazität, Mengengerüst und Fahrplan;
+- c. erwartete Kosten und Erlöse sowie beantragte Beiträge pro Jahr für mindestens drei Betriebsjahre;
+- d. erwartete Nachfrage, insbesondere die jährlichen Personenkilometer im grenzüberschreitenden Personenfernverkehr sowie Angaben zur erwarteten Verlagerung des Personenverkehrs von der Luft auf die Schiene;
+- e. zugesicherte Beiträge Dritter;
+- f. Zusicherung, dass das Angebot während mehrerer Jahre erbracht wird;
+- g. bei bestehenden Angeboten: Ausführungen über die Attraktivitätsverbesserung für die Reisenden.
+
+<sup>3</sup> Das BAV kann von den Unternehmen weitere Angaben verlangen, die für die Behandlung der Gesuche erforderlich sind.
+
+#### Art. 58f
+
+**Bewertung der Gesuche**
+
+Das BAV bewertet und priorisiert die Gesuche aufgrund der erwarteten ungedeckten Kosten und Personenkilometer im grenzüberschreitenden Personenfernverkehr.
+
+#### Art. 58g
+
+**Bemessung der Beiträge**
+
+<sup>1</sup> Beiträge werden maximal in der Höhe der geplanten ungedeckten Kosten des Angebots bestehend aus den in- und ausländischen Linienabschnitten gewährt.
+
+<sup>2</sup> Bei der Festlegung der Höhe der Beiträge werden keine Gewinnzuschläge berücksichtigt.
+
+<sup>3</sup> Die Höhe der Beiträge für die Jahre 2028–2030 wird aufgrund der Ergebnisse der Vorjahre überprüft.
+
+#### Art. 58h
+
+**Verfügung**
+
+<sup>1</sup> Das BAV erlässt eine Verfügung zum Gesuch für die Förderung von Angeboten.
+
+<sup>2</sup>
+
+Es legt darin insbesondere fest:
+
+- a. die Höhe der jährlichen Beiträge;
+- b. das geförderte Angebot;
+- c. die einzuhaltenden Bedingungen;
+- d. die Modalitäten der Berichterstattung;
+- e. die Modalitäten der Auszahlung der Beiträge;
+- f. die Gründe für die Ablehnung des Gesuchs.
 
 ## 5. Kapitel: Rechnungslegung
 
