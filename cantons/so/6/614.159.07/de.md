@@ -3,20 +3,20 @@ canton: SO
 number: "614.159.07"
 title: "Steuerverordnung Nr. 7: Auskünfte aus Steuerakten und Herausgabe von Steuerakten an Verwaltungsbehörden und Gerichte"
 language: de
-version: 2020-01-01
-valid_until: 2025-04-30
-version_adopted: 2019-10-29
+version: 2025-05-01
+valid_until: 2026-03-31
+version_adopted: 2025-04-22
 adopted: 1986-07-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.07"
-pdf: "https://bgs.so.ch/api/de/versions/4882/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 7: Auskünfte aus Steuerakten und Herausgabe von Steuerakten an Verwaltungsbehörden und Gerichte
 
-Vom 01.07.1986 (Stand 01.01.2020)
+Vom 01.07.1986 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -90,10 +90,10 @@ beschliesst:
   - 2\. an die Kosten von Einrichtungen und Veranstaltungen der Schule wie Musikunterricht, Klassen- und Ferienlager.
 - l) dem Finanzdepartement für Abklärungen über den Rückforderungsanspruch des Staates aus unentgeltlicher Rechtspflege und unentgeltlichem Rechtsbeistand (Art. 123 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008[^5-5] i.V.m. § 12 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung vom 10. März 2010[^5-6]);
 - m) den Betreibungs- und Konkursämtern beim Pfändungsvollzug (Art. 91 Abs. 5 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889, SchKG[^5-7] und zur Feststellung der Konkursmasse (Art. 222 Abs. 5 SchKG);
-- n) dem Departement des Innern (Amt für öffentliche Sicherheit) zur Bemessung der Gebühren nach dem Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken vom 9. Juni 1996;
+- n) dem Volkswirtschaftsdepartement (Amt für Wirtschaft und Arbeit) zur Bemessung der Gebühren nach dem Wirtschafts- und Arbeitsgesetz vom 8. März 2015[^5-8];
 - o) den Behörden, die für die Aufsicht über Stiftungen und Einrichtungen der beruflichen Vorsorge zuständig sind, zur Ausübung dieser Aufsicht.
 - p) dem Amt für Umwelt zur Feststellung der Eigentümeradressen von Grundstücken an Standorten, die durch Abfälle belastet sein können.
-- q) den Jugendstrafbehörden für die Festsetzung des Elternbeitrags an die Kosten von Massnahmen (Art. 45 Abs. 5 der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009[^5-8] i.V.m. § 37 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung vom 10. März 2010[^5-9]);
+- q) den Jugendstrafbehörden für die Festsetzung des Elternbeitrags an die Kosten von Massnahmen (Art. 45 Abs. 5 der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009[^5-9] i.V.m. § 37 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung vom 10. März 2010[^5-10]);
 - r) der Motorfahrzeugkontrolle zur Abklärung der Personalien und Adressen von Motorfahrzeughaltern.
 
 <sup>2</sup> Die in Absatz 1 genannten Behörden dürfen Auskünfte aus Steuerakten verlangen, soweit diese für die Erfüllung ihrer Aufgaben erforderlich sind.
@@ -107,8 +107,9 @@ beschliesst:
 [^5-5]: SR [272](https://db.clex.ch/link/Bund/272/de).
 [^5-6]: BGS [221.2](https://bgs.so.ch/data/221.2/de).
 [^5-7]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de).
-[^5-8]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de).
-[^5-9]: BGS [321.3](https://bgs.so.ch/data/321.3/de).
+[^5-8]: BGS [940.11](https://bgs.so.ch/data/940.11/de).
+[^5-9]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de).
+[^5-10]: BGS [321.3](https://bgs.so.ch/data/321.3/de).
 
 #### § 5bis
 
@@ -160,7 +161,7 @@ beschliesst:
 <sup>1</sup> Verwaltungsbehörden und Gerichten können die für die Erfüllung ihrer Aufgaben erforderlichen Auskünfte aus Steuerakten mittels eines elektronischen Abrufverfahrens aus den Datenbanken des Steueramtes erteilt werden. Berechtigt sind:
 
 - a) das Amt für Finanzen für die Bewirtschaftung von Verlustscheinen und für Abklärungen über den Rückforderungsanspruch des Staates aus unentgeltlicher Rechtspflege und unentgeltlichem Rechtsbeistand (§ 5 Abs. 1 BSt. l);
-- b) das Amt für soziale Sicherheit und die Oberämter für die Abklärung der wirtschaftlichen Verhältnisse im Zusammenhang mit
+- b) das Amt für Gesellschaft und Soziales und die Oberämter für die Abklärung der wirtschaftlichen Verhältnisse im Zusammenhang mit
   - 1\. der Ausrichtung und Rückerstattung von Sozialhilfeleistungen und Pflegekostenbeiträgen,
   - 2\. der Inanspruchnahme der Verwandtenunterstützungspflicht,
   - 3\. der Ausrichtung und Rückforderung von Genugtuung und Entschädigung nach Opferhilfegesetz[^9bis-1],
@@ -183,7 +184,8 @@ beschliesst:
 - i) dem Departement für Bildung und Kultur für den Vollzug des Gesetzes über Ausbildungsbeiträge vom 30. Juni 1985[^9bis-2];
 - j) der Motorfahrzeugkontrolle zur Abklärung der Personalien und Adressen;
 - k) die Zentrale Gerichtskasse zur Abklärung der Personalien für den Vollzug von Gerichtskosten, Geldstrafen und Bussen;
-- l) die Kindes- und Erwachsenenschutzbehörde zur Abklärung der wirtschaftlichen Verhältnisse einer schutzbedürftigen Person sowie zur Ermittlung von Unterhaltsbeiträgen.
+- l) die Kindes- und Erwachsenenschutzbehörde zur Abklärung der wirtschaftlichen Verhältnisse einer schutzbedürftigen Person sowie zur Ermittlung von Unterhaltsbeiträgen;
+- m) das Bau- und Justizdepartement zur Berechnung und Plausibilisierung von Ausgleichsabgaben nach dem Gesetz über den Ausgleich raumplanungsbedingter Vor- und Nachteile vom 31. Januar 2018[^9bis-3] sowie zur Kostenevaluation für Landkäufe des Kantons.
 
 <sup>2</sup> Das Steueramt und die berechtigte Verwaltungsbehörde oder das berechtigte Gericht stellen sicher, dass die berechtigte Stelle nur auf jene Daten Zugriff erhält, die sie zur Erfüllung der in Absatz 1 genannten Aufgaben benötigt, und dass der Zugriff an nicht mehr Arbeitsplätzen als erforderlich ermöglicht wird. Die Zugriffe sind zu protokollieren.
 
@@ -191,6 +193,7 @@ beschliesst:
 
 [^9bis-1]: SR [312.5.](https://db.clex.ch/link/Bund/312.5./de)
 [^9bis-2]: BGS [419.11](https://bgs.so.ch/data/419.11/de).
+[^9bis-3]: BGS [711.18](https://bgs.so.ch/data/711.18/de).
 
 ## 4<sup>bis</sup> Meldungen an Verwaltungsbehörden
 
