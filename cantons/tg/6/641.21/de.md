@@ -4,13 +4,12 @@ number: "641.21"
 title: Hundeverordnung
 short: HundeV
 language: de
-version: 2023-05-01
-valid_until: 2025-04-30
-version_adopted: 2023-04-25
+version: 2025-05-01
+version_adopted: 2025-04-22
 adopted: 1984-10-16
 in_force: 1985-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/641.21"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2744/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ HundeV
 
 (HundeV)
 
-vom 16.10.1984 (Stand 01.05.2023)
+vom 16.10.1984 (Stand 01.05.2025)
 
 ## 1. Hundekontrolle und Hundehaltung
 
@@ -65,9 +64,11 @@ vom 16.10.1984 (Stand 01.05.2023)
 
 #### § 5
 
-**Meldungen bei Hundebissvorfällen**
+**Meldungen bei Hundebissvorfällen und übermässigem Aggressionsverhalten**
 
 <sup>1</sup> Meldestelle im Sinne von § 7b HundeG ist das Veterinäramt, welches die Meldungen zu statistischen Zwecken erfasst und an die zuständige Gemeinde oder das Veterinäramt des zuständigen Kantons zur Bearbeitung weiterleitet.
+
+<sup>1<sup>bis</sup></sup> Für die Bearbeitung von Meldungen, die einen Hund einer potentiell gefährlichen Hunderasse betreffen, ist das Veterinäramt zuständig.
 
 <sup>2</sup> Als erhebliche Verletzung eines Menschen oder eines Tieres gilt insbesondere jede Hundebissverletzung, die ärztlich beziehungsweise tierärztlich versorgt werden muss.
 
@@ -81,11 +82,11 @@ vom 16.10.1984 (Stand 01.05.2023)
 
 <sup>1</sup> Entlaufene Hunde sind von ihrem Halter unverzüglich öffentlich auszuschreiben.
 
-<sup>2</sup> Entlaufene Hunde sind von der Gemeinde in Gewahrsam zu nehmen und dem Halter zuzuführen. Die Auslagen für die Fütterung und Unterbringung des Hundes, für Nachforschungen und sämtliche weiteren Spesen sind vom Hundehalter zu tragen.
+<sup>2</sup> Sie sind von der Gemeinde in Gewahrsam zu nehmen und dem Halter zuzuführen. Kann der Hund nicht umgehend dem Halter zugeführt werden, ist der Hund durch die Gemeinde vorübergehend geeignet unterzubringen. Die Auslagen für die Fütterung und Unterbringung des Hundes, für Nachforschungen und sämtliche weiteren Kosten sind vom Hundehalter zu tragen.
 
-<sup>3</sup> Kann der Halter des Hundes nicht innert angemessener Frist ermittelt werden, wird der Hund auf Anordnung der Gemeinde an einem geeigneten Platz versorgt.
+<sup>3</sup> Kann der Halter des Hundes nicht innert angemessener Frist ermittelt werden, wird der Hund auf Anordnung der Gemeinde an einem geeigneten Ort neu platziert.
 
-<sup>4</sup> Lässt sich der Hund nirgends unterbringen, wird er beseitigt. In diesem Falle trägt die Gemeinde die Kosten.
+<sup>4</sup> Kann der Hund nicht neu platziert werden, wird er getötet und beseitigt. In diesem Falle trägt die Gemeinde die Kosten.
 
 #### § 7a
 
@@ -155,6 +156,8 @@ vom 16.10.1984 (Stand 01.05.2023)
 
 <sup>2</sup> Wird der bewilligungspflichtige Hund ausgeführt, ist der Bewilligungsausweis mitzuführen und bei einer Kontrolle vorzuweisen.
 
+<sup>3</sup> Der Kollektivbewilligungsausweis kann abweichende Angaben enthalten.
+
 #### § 7e
 
 **Zuzug in den Kanton Thurgau**
@@ -167,37 +170,45 @@ vom 16.10.1984 (Stand 01.05.2023)
 
 **Verweigerung der Bewilligung**
 
-<sup>1</sup> Wird das Bewilligungsgesuch nicht innert der verlangten Frist eingereicht oder rechtskräftig abgewiesen oder wird die Bewilligung rechtskräftig widerrufen, ordnet das Veterinäramt die vorsorgliche Beschlagnahme oder die Einziehung des Hundes an.
+<sup>1</sup> Wird das Bewilligungsgesuch nicht innert der verlangten Frist eingereicht oder rechtskräftig abgewiesen oder wird die Bewilligung rechtskräftig widerrufen, beschlagnahmt das Veterinäramt den Hund und zieht diesen zur geeigneten Neuplatzierung ein. Ist keine Neuplatzierung möglich, veranlasst es die Tötung des Hundes und die Beseitigung des Kadavers. Die Kosten für die Unterbringung und Versorgung bis zur Neuplatzierung sowie für die Tötung und Beseitigung trägt der Hundehalter.
+
+#### § 7g
+
+**Befreiung von der Bewilligungspflicht**
+
+<sup>1</sup> Als anerkannte Labore gemäss § 3a Abs. 4 HundeG gelten in- und ausländische Labore, die über eine Zertifizierung nach ISO/IEC 17025 oder eine Akkreditierung der Clinical Laboratory Improvement Amendments (CLIA) oder der International Society for Animal Genetics (ISAG) verfügen. Das Veterinäramt kann Gentests anderer Labore akzeptieren, die über eine gleichwertige Zertifizierung oder Akkreditierung verfügen.
+
+<sup>2</sup> Die Probenahme für den Gentest gemäss § 3a Abs. 4 HundeG ist von einer Person durchzuführen, die über die Bewilligung zur Ausübung des Berufs als Tierarzt in eigener fachlicher Verantwortung verfügt. Das Veterinäramt kann auch andere Personen hierzu berechtigen oder die Probenahme selbst durchführen.
+
+<sup>3</sup> Den Nachweis, dass der Gentest durch ein nach Abs. 1 anerkanntes Labor durchgeführt wurde, hat der Hundehalter auf seine Kosten zu erbringen.
 
 ## 2. Hundesteuer
 
 #### § 8
 
-**Hundezüchter und Hundehändler**
-
-<sup>1</sup> Als Hundezüchter oder Hundehändler im Sinne von § 10 Abs. 2 HundeG ist anerkannt,
-
-- 1\. wer die gewerbsmässige Zucht von Hunden betreibt,
-- 2\. wer gewerbsmässig mit Hunden Handel betreibt und im Besitze der kantonalen tierschutzrechtlichen Bewilligung ist und
-- 3\. wer die dafür erforderlichen Einrichtungen besitzt.
-
-<sup>2</sup> Die Voraussetzungen sind durch die Hundesteuerbezugsstelle zu prüfen.
+**…**
 
 #### § 9
 
 **Steuerbefreiung**
 
-<sup>1</sup> Für die Befreiung von der Hundesteuer ist erforderlich:
+<sup>1</sup> Im Sinne von § 13 Abs. 1 Ziff. 2 HundeG gelten als steuerbefreite Nutzhunde:
 
-- 1\. für Diensthunde der Armee eine Bestätigung der militärischen Stelle
-- 2\. für Diensthunde der Polizei eine Bescheinigung des Polizeikommandos
-- 3\. für Diensthunde des Grenzwachtkorps eine Bescheinigung des Grenzwachtkommandos
-- 4\. für Sanitätshunde der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Sanitätshund gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft
-- 5\. für Katastrophen- und Flächensuchhunde ein Ausweis über die Einsatzfähigkeit vom Schweizerischen Verein für Katastrophenhunde (SVKA)
-- 6\. für Lawinenhunde eine Bescheinigung des Schweizerischen Alpen-Clubs oder der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Lawinenhunde gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft
-- 7\. für Blindenhunde die Funktion als Blindenführhund
+- 1\. Diensthunde: Hunde, die von der Schweizer Armee, vom Bundesamt für Zoll- und Grenzsicherheit (BAZG) oder von der Polizei für dienstliche Zwecke eingesetzt werden, oder Hunde, die für tierseuchen-, umwelt-, forst- oder jagdpolizeiliche Zwecke genutzt werden. Als Nachweis hierfür gilt eine entsprechende Bestätigung der zuständigen Stelle.
+- 2\. Blindenführhunde: Hunde, die von sehbehinderten Personen oder von im gleichen Haushalt mit denselben lebenden Personen gehalten werden und auf die die sehbehinderten Personen für die Bewältigung ihres Alltags angewiesen sind. Als Nachweis hierfür gilt eine entsprechende Bestätigung der zuständigen IV-Stelle oder des behandelnden Arztes.
+- 3\. Behindertenhunde: Hunde, die von körperlich oder geistig eingeschränkten Personen oder von im gleichen Haushalt mit denselben lebenden Personen gehalten werden und auf die die körperlich oder geistig eingeschränkten Personen für die Bewältigung ihres Alltags oder zur Milderung ihrer Gebrechen angewiesen sind. Als Nachweis hierfür gilt eine entsprechende Bestätigung der zuständigen IV-Stelle oder des behandelnden Arztes.
+- 4\. Rettungshunde: Hunde, die als Sanitäts-, Katastrophen-, Suchhunde oder Ähnliches im Rettungswesen eingesetzt werden. Als Nachweis hierfür gilt eine entsprechende Bestätigung der jeweiligen Rettungsorganisation.
+- 5\. Herdenschutzhunde: Hunde, die für die weitestgehend selbständige Bewachung landwirtschaftlicher Nutztiere und die damit zusammenhängende Abwehr fremder Tiere eingesetzt werden. Als Nachweis hierfür gilt die bestandene Prüfung zur Eignung zum Herdenschutzhund sowie die Kennzeichnung als «anerkannter Herdenschutzhund» in der Datenbank nach Art. 30 Abs. 2 des Tierseuchengesetzes (TSG)[^9-1].
+- 6\. Treibhunde: Hunde, die für das Treiben von gewerblich gehaltenen Nutztieren eingesetzt werden und einer von der Fédération Cynologique Internationale (FCI) anerkannten Treibhunderasse (Gruppe 1, Sektion 2) oder Schweizer Sennenhunderasse (Gruppe 2, Sektion 3) angehören oder Mischlinge zwischen diesen Hunderassen sind. Als Nachweis hierfür gelten eine entsprechende Bestätigung des Landwirtschaftsamtes und ein entsprechender Abstammungsnachweis.
+- 7\. Jagdhunde: Hunde, die von einer gemäss Jagdgesetzgebung jagdberechtigten Person gehalten werden und für die Ausübung der Jagd oder die Nachsuche zugelassen sind. Als Nachweis hierfür gilt die gültige Jagdkarte.
 
-<sup>2</sup> Für den Entscheid über die Steuerbefreiung ist die Hundesteuerbezugsstelle zuständig.
+<sup>1<sup>bis</sup></sup> Den Nachweis dafür, dass einer der Steuerbefreiungstatbestände nach Abs. 1 erfüllt ist, hat der steuerpflichtige Hundehalter zu erbringen.
+
+<sup>1<sup>ter</sup></sup> Einmal von der Steuer befreite Hunde bleiben bis zu ihrem Ableben steuerbefreit, auch wenn sie die Voraussetzungen dafür nicht mehr erfüllen.
+
+<sup>2</sup> Für den Entscheid über die Steuerbefreiung ist die Gemeinde zuständig. Sie kann auch andere als die in Abs. 1 aufgeführten Nachweise akzeptieren.
+
+[^9-1]: SR [916.40](https://db.clex.ch/link/Bund/916.40/de)
 
 #### § 10
 
@@ -208,6 +219,9 @@ vom 16.10.1984 (Stand 01.05.2023)
 - 1\. bei Wohnsitzwechsel des Hundehalters, sofern die Steuer des laufenden Jahres bereits in einer anderen Gemeinde des Kantons oder in einem anderen Kanton entrichtet wurde
 - 2\. für Hunde, die sich weniger als drei Monate im Kanton aufhalten
 - 3\. für Hunde, welche als Ersatz für einen bereits versteuerten Hund angeschafft werden
+- 4\. für Hunde, die nach einem Halterwechsel für das laufende Jahr bereits in einer anderen Gemeinde besteuert wurden
+
+<sup>2</sup> Bei einem Zuzug eines Halters mit dem Hund aus einer anderen Gemeinde des Kantons oder einem anderen Kanton, wo die Steuer des laufenden Jahres noch nicht entrichtet wurde oder eine solche Steuer nicht erhoben wird, erfolgt die Steuerbemessung gemäss § 14 Abs. 1 HundeG.
 
 #### § 11
 
