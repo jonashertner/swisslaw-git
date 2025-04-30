@@ -4,13 +4,13 @@ number: "732.11"
 title: Verordnung zum Zivilschutzgesetz im Kanton Basel-Landschaft
 short: Vo ZSG BL
 language: de
-version: 2023-11-01
-valid_until: 2025-04-30
-version_adopted: 2023-09-19
+version: 2025-05-01
+valid_until: 2025-12-31
+version_adopted: 2025-04-01
 adopted: 2022-05-31
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/732.11"
-pdf: "https://bl.clex.ch/api/de/versions/3723/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3723/pdf_file"
 
 (Vo ZSG BL)
 
-Vom 31.05.2022 (Stand 01.11.2023)
+Vom 31.05.2022 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -255,16 +255,32 @@ beschliesst:
 <sup>2</sup> Der Schutzraumkataster enthält folgende Daten:
 
 - a. Lage der einzelnen Schutzräume;
-- b. Vornamen und Namen sowie Kontaktdaten der Eigentümerinnen und Eigentümer der einzelnen Schutzräume;
+- b. Vornamen, Namen und Kontaktdaten der Eigentümerinnen und Eigentümer der einzelnen Schutzräume;
 - c. Anzahl Schutzplätze des Schutzraums;
 - d. Datum der letzten Schutzraumkontrolle;
-- e. Zustand des Schutzraums.
+- e. Zustand des Schutzraums;
+- f. Vornamen, Namen und Kontaktdaten von Stellvertreterinnen und Stellvertreter der Eigentümerschaft der einzelnen Schutzräume;
+- g. Vornamen, Namen und Kontaktdaten von Verwaltungen von Liegenschaften mit Schutzräumen;
+- h. den eidgenössischen Gebäudeidentifikator (EGID) der Liegenschaften mit Schutzräumen;
+- i. Parzellennummern der Liegenschaften mit Schutzräumen.
 
 <sup>3</sup> Das AMB, das Bauinspektorat, die für die Planung des Schutzraumbaus zuständigen kommunalen Stellen sowie die Zivilschutzorganisationen erhalten Zugriff auf die Informatikplattform, soweit sie diesen zur Erfüllung ihrer Aufgaben benötigen.
 
 <sup>4</sup> Das AMB übernimmt die Verantwortung für den Schutzraumkataster.
 
-<sup>5</sup> Die Einwohnergemeinden aktualisieren eigenständig ihre Katasterdaten der Schutzraumbauten.
+<sup>5</sup> Die Einwohnergemeinden und der Kanton aktualisieren regelmässig die Katasterdaten der Schutzraumbauten.
+
+#### § 23a
+
+**Meldungen an das AMB**
+
+<sup>1</sup> Die Basellandschaftliche Gebäudeversicherung stellt dem AMB zur Erfüllung seiner Aufgaben im Zusammenhang mit Schutzbauten folgende Daten elektronisch zur Verfügung:
+
+- a. Vornamen, Namen und Kontaktdaten von Eigentümerinnen und Eigentümern von Liegenschaften;
+- b. Namen und Kontaktdaten von Verwaltungen von Liegenschaften;
+- c. Vornamen, Namen und Kontaktdaten von Vertreterinnen und Vertretern der Eigentümerschaft von Liegenschaften;
+- d. den eidgenössischen Gebäudeidentifikator (EGID);
+- e. Parzellennummern der Liegenschaften.
 
 #### § 24
 
@@ -276,11 +292,23 @@ beschliesst:
 
 <sup>3</sup> Der Kanton führt in Zusammenarbeit mit den Einwohnergemeinden eine elektronische Plattform für die Zuweisung von Schutzplätzen.
 
-<sup>4</sup> Die elektronische Plattform enthält folgende Daten:
+<sup>4</sup> Die elektronische Plattform enthält folgende Daten zu den Bewohnerinnen und Bewohnern von Liegenschaften:
 
-- a. die Namen und Vornamen sowie Geburtsdaten der Bewohnerinnen und Bewohner einer Liegenschaft;
-- b. die Namen und Vornamen der Eigentümerin oder des Eigentümers einer Liegenschaft;
-- c. den Wohnungsidentifikator.
+- a. Namen und Vornamen;
+- b. Geburtsdaten;
+- c. deren Geschlechter;
+- d. AHV-Versichertennummern;
+- e. Wohnadressen.
+
+<sup>4<sup>bis</sup></sup> Sie enthält folgende Daten zu den Eigentümerinnen und Eigentümern von Liegenschaften:
+
+- a. Namen und Vornamen.
+
+<sup>4<sup>ter</sup></sup> Sie enthält folgende Daten zu den Liegenschaften:
+
+- a. den eidgenössischen Wohnungsidentifikator (EWID);
+- b. den eidgenössischen Gebäudeidentifikator (EGID);
+- c. Dienstbarkeiten auf Grundstücken im Zusammenhang mit Schutzbauten.
 
 <sup>5</sup> Das AMB und die Zivilschutzorganisationen erhalten zur Erfüllung ihrer Aufgaben Zugang zur elektronischen Plattform.
 
