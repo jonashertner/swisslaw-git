@@ -4,13 +4,12 @@ number: "173.400"
 title: Verwaltungsgerichtsgesetz
 short: VerwGG
 language: de
-version: 2014-04-27
-corrected: 2019-02-11
-version_adopted: 2014-04-27
+version: 2025-05-01
+version_adopted: 2025-04-27
 adopted: 2010-04-25
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/173.400"
-pdf: "https://ai.clex.ch/api/de/versions/1131/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,13 @@ pdf: "https://ai.clex.ch/api/de/versions/1131/pdf_file"
 
 (VerwGG)
 
-vom 25.04.2010 (Stand 27.04.2014)
+vom 25.04.2010 (Stand 01.05.2025)
 
-Die Landsgemeinde des Kantons Appenzell I. Rh.,[^ingress-1]
+Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
 gestützt auf Art. 130 des Bundesgesetzes über das Bundesgericht vom 17. Juni 2005 und Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
-
-[^ingress-1]: Mit Revision vom 27. April 2014.
 
 ## I. Allgemeine Bestimmungen
 
@@ -548,7 +545,7 @@ beschliesst:
 
 <sup>1</sup> Für die Berechnung der Fristen gilt grundsätzlich das kantonale Gesetz über den Fristenlauf.
 
-<sup>2</sup> Wird eine Frist nach Monaten bemessen, endet sie am Tag, der durch seine Zahl dem Tag der Fristeröffnung entspricht, oder, wenn der Tag fehlt, am letzten Tag des Monats.
+<sup>2</sup> …
 
 <sup>3</sup> Wird eine Eingabe rechtzeitig einer unzuständigen Stelle eingereicht, gilt die Frist als eingehalten.
 
