@@ -3,13 +3,12 @@ canton: BS
 number: "211.110"
 title: Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 language: de
-version: 2024-07-01
-valid_until: 2025-04-30
-version_adopted: 2024-06-04
+version: 2025-05-01
+version_adopted: 2025-03-25
 adopted: 1911-12-09
 in_force: 1912-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/211.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6300/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6300/pdf_file"
 
 Einführungsgesetz zum ZGB: Verordnung | Ergänzungserlasse zum Bundeszivilrecht
 
-Vom 9. Dezember 1911 (Stand 1. Juli 2024)
+Vom 9. Dezember 1911 (Stand 1. Mai 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -273,7 +272,7 @@ CHF 200 bis CHF 2’000 werden erhoben für:
 - a) Minimal- und Maximalgebühr bei Promilleansätzen: Die Gebühr wird mindestens vom Steuerwert berechnet, wenn sie sich nach dem Wert oder Preis bestimmt. Die Minimalgebühr beträgt CHF 200. Die Gebühr für die Vornahme einer Eintragung oder einer Änderung beträgt höchstens CHF 50’000.
 - b) Aufrundung: Der Wert bzw. Preis eines Grundstückes oder einer Pfandsumme wird für die Gebührenberechnung auf volle Tausend aufgerundet.
 - c) Gesamthandsverhältnisse: Bei Gesamthandsverhältnissen ist der Wert der internen Beteiligung massgebend.
-- d) Zuschlag: Wenn eine Eintragung, Änderung oder Löschung auf mehr als einem Grundstück vorgenommen wird, so ist für jedes weitere Grundstück ein Zuschlag von mind. CHF 20 zu berechnen; der Zuschlag beträgt höchstens CHF 200.
+- d) Zuschlag: Wenn eine Eintragung, Änderung oder Löschung auf mehr als einem Grundstück vorgenommen wird, so ist für jedes weitere Grundstück ein Zuschlag von mind. CHF 20 zu berechnen; der Zuschlag beträgt höchstens CHF 200. Keine Zuschläge werden erhoben bei Promillegebühren.
 - e) Besonderer Arbeitsaufwand: Für in der Gebührenordnung nicht besonders aufgeführte Verrichtungen wird für jede aufgewendete Stunde eine Gebühr von CHF 100 bis CHF 200 zuzüglich allfälliger Sachkosten erhoben. Nach dem Zeitaufwand können auch Verrichtungen berechnet werden, welche besonders arbeitsaufwändig und daher in keinem angemessenen Verhältnis zur ordentlichen Gebühr stehen.
 - f) Anlegung oder Löschung eines Grundstücks: Anlegung einer Parzelle oder Eintragung eines Parzellenindexes: CHF 100. Löschung einer Parzelle: CHF 50.
 
@@ -310,10 +309,10 @@ Eintragung und Änderung: CHF 100.
 - b) Schriftliche Bescheinigung: eines Grundbucheintrages pro Grundstück CHF 20.
 - c) Visum: CHF 20.
 - d) Ausstellung eines Schuldbriefes: CHF 100.
-- e) Auszüge aus dem Grundbuch: beglaubigt: CHF 40 pro Parzelle; CHF 20 für jede zusätzlich erforderliche Parzelle; unbeglaubigt: CHF 20 pro Parzelle; CHF 10 für jede zusätzlich erforderliche Parzelle
+- e) Grundbuchauszüge: CHF 30 pro Parzelle. Auszüge zusätzlich erforderlicher Parzellen sind gebührenfrei.
 - f) ....
-- g) Fotokopien: CHF 2 pro Seite
-- h) Mündliche Auskünfte: CHF 5 pro Grundstück, Inhalt einer Dienstbarkeit und Adresse eines Eigentümers. Telefonische Auskünfte: CHF 2 bis CHF 5 pro Minute und Anruf. Abgabe von Eigentümeradressen: √Anzahl x CHF 10 zuzüglich einer Grundgebühr von CHF 20.
+- g) Fotokopien: CHF 10 Grundgebühr; bis 10 Seiten CHF 1 pro Seite, darüber CHF 0.50 pro Seite.
+- h) Abgabe von Adressen der Eigentümerinnen und Eigentümer: √Anzahl x CHF 10 zuzüglich einer Grundgebühr von CHF 20.
 - i) Die Kosten für Porti, Verpackung und andere Auslagen sind hinzuzurechnen.
 
 <sup>8</sup> 8. Gebührenermässigung und Gebührenerlass
@@ -360,7 +359,7 @@ Die Gebühr für die Aufbereitung von Standard-Planauszügen beträgt:
 
 - a) Format A4 und A3 — CHF 40
 - b) Format A2 bis A0 — CHF 80
-- c) Situationsgrundlagen für Baubegehren — CHF 60
+- c) …
 
 <sup>3</sup> 3. Berechnen und Erstellen von Mutationsplänen sowie deren Eintragung in die Datenbestände
 
@@ -377,11 +376,11 @@ Die Gebühr für die Aufbereitung von Standard-Planauszügen beträgt:
 - c) Löschen von Grenzen und Servitutlinien bzw. Servitutflächen
   - ca) für jede Linie bzw. Fläche — CHF 53
   - cb) …
-- d) Für das Anfertigen von Plänen für Parzellierungen wird eine Grundgebühr von CHF 600, für Servitut-, Allmendparzellen und Parzellenvereinigungspläne eine solche von CHF 300 verrechnet. Für die erschwerte Festlegung der Linien und Flächen sowie für Abklärungen erfolgt ein Zuschlag, der nach dem Zeitaufwand berechnet wird.
+- d) Für das Anfertigen von Plänen für Parzellierungen wird eine Grundgebühr von CHF 600, für Servitut- und Parzellenvereinigungspläne eine solche von CHF 300 verrechnet. Für die erschwerte Festlegung der Linien und Flächen sowie für Abklärungen erfolgt ein Zuschlag, der nach dem Zeitaufwand berechnet wird.
 - e) Eintragen bzw. Löschen der rechtsgültigen Linien und Flächen in der amtlichen Vermessung
   - ea) für die erste Linie bzw. Fläche — CHF 96
   - eb) für jede weitere Linie bzw. Fläche — CHF 32
-  - ec) Für das Eintragen rechtsgültiger Linien und Flächen aus privaten Servitutplänen sowie neuer Baurechtsparzellen ohne Plan wird eine Grundgebühr von CHF 150 verrechnet.
+  - ec) Für das Eintragen rechtsgültiger Linien und Flächen aus privaten Servitutplänen wird eine Grundgebühr von CHF 150 verrechnet.
 - f) Gebührenreduktion: Bei der Änderung von Grenzen und Servitutlinien zur Anpassung an bestehende Bauten oder Nutzungen sowie bei geringfügigen Flächen- oder Linienänderungen kann eine angemessene Reduktion der Gebühr gewährt werden. Bei Nichtvollziehbarkeit eines Mutations- oder Servitutplanes infolge öffentlich-rechtlicher Hindernisse können die vorstehenden Gebühren ebenfalls angemessen reduziert werden.
 
 <sup>4</sup> 4. Nachführungsvermessung von Neubauten und von Um- und Anbauten
