@@ -4,29 +4,34 @@ title: Ordinanza del 2 settembre 2015 concernente i trasportatori su strada (OTS
 short: OTStr
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: it
-version: 2023-09-01
+version: 2025-05-01
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20250501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente l’accesso alle professioni di trasportatore di viaggiatori e di merci su strada
+# Ordinanza concernente i trasportatori su strada
 
-(OATVM)
+(OTStr)[^t-1]
 
-del 2 settembre 2015 (Stato 1° settembre 2023)
+del 2 settembre 2015 (Stato 1° maggio 2025)
+
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 6 capoverso 2, 7 capoverso 2, 9*a* capoverso 5, 11 capoverso 4 e 13 della legge federale del 20 marzo 2009[^ingress-1] sull’accesso alle professioni di trasportatore su strada (LPTS); in applicazione dell’articolo 5 dell’Accordo del 21 giugno 1999[^ingress-2] tra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia (Accordo sui trasporti terrestri),
+visti gli articoli 6 capoverso 2, 7 capoverso 2, 9 capoverso 5, 11 capoverso 4 e 13 della legge federale del 20 marzo 2009[^ingress-1] concernente i trasportatori su strada (LTrS);
+
+in applicazione dell’articolo 5 dell’Accordo del 21 giugno 1999[^ingress-2] tra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia (Accordo sui trasporti terrestri),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
 [^ingress-2]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 ## Sezione 1: Oggetto
 
@@ -52,30 +57,49 @@ L’autorizzazione di accesso di cui al capoverso 1 è rilasciata alle imprese c
 
 Per comprovare l’affidabilità, occorre presentare un estratto per privati del casellario giudiziale informatizzato VOSTRA del gestore dei trasporti. L’estratto non deve essere stato rilasciato più di tre mesi prima.
 
-[^2-1]: Nuovo testo giusta l’all. 10 n. II 21 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^2-1]: Nuovo testo giusta l’all. 10 cifra II n. 21 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
-**Prova della capacità finanziaria**
+**Capacità finanziaria**[^3-1]
 
-<sup>1</sup> La prova della capacità finanziaria è data se il capitale proprio e le riserve dell’impresa ammontano almeno a 11 000 franchi per il primo veicolo e a 6000 franchi per ogni veicolo ulteriore. Se il capitale proprio e le riserve non raggiungono tali importi, la prova della capacità finanziaria può essere data mediante garanzia bancaria.
+<sup>1</sup>
 
-<sup>2</sup> Per comprovare la capacità finanziaria, occorre presentare l’ultimo conto annuale comprendente il conto economico, il bilancio e le altre informazioni prescritte dal Codice delle obbligazioni[^3-1].
+La capacità finanziaria di un’impresa di trasporto di merci è data se il suo capitale proprio e le sue riserve ammontano a:
+
+- a. almeno 9000 franchi per il primo veicolo di oltre 3,5 tonnellate;
+- b. 5000 franchi per ogni ulteriore veicolo di oltre 3,5 tonnellate; e
+- c. 900 franchi per ogni ulteriore veicolo il cui peso totale supera 2,5 tonnellate ma non eccede 3,5 tonnellate.
+
+<sup>2</sup> La capacità finanziaria di un’impresa di trasporto di merci che impiega esclusivamente veicoli il cui peso totale supera 2,5 tonnellate ma non eccede 3,5 tonnellate è data se il suo capitale proprio e le sue riserve ammontano almeno a 1800 franchi per il primo veicolo e a 900 franchi per ogni veicolo ulteriore.
+
+<sup>3</sup> La capacità finanziaria di un’impresa di trasporto di viaggiatori è data se il suo capitale proprio e le sue riserve ammontano almeno a 9000 franchi per il primo veicolo e a 5000 franchi per ogni veicolo ulteriore.
+
+<sup>4</sup> La capacità finanziaria di un’impresa attiva sia nel trasporto di viaggiatori sia nel trasporto di merci è data se il suo capitale proprio e le sue riserve ammontano almeno a 9000 franchi per il primo veicolo. Per ogni veicolo ulteriore la capacità finanziaria è retta dal capoverso 1 lettere b e c oppure dal capoverso 3.
+
+<sup>5</sup> Se il capitale proprio e le riserve non raggiungono tali importi, l’impresa può garantire la capacità finanziaria mediante garanzia bancaria. La garanzia bancaria deve garantire la capacità finanziaria per la durata dell’autorizzazione di accesso.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+
+#### Art. 3a
+
+**Prova della capacità finanziaria**[^3a-1]
+
+<sup>1</sup> Per comprovare la capacità finanziaria, occorre presentare l’ultimo conto annuale comprendente il conto economico, il bilancio e le altre informazioni prescritte dal Codice delle obbligazioni (CO)[^3a-2].
+
+<sup>2</sup> Le imprese individuali che non dispongono di un conto annuale possono comprovare la loro capacità finanziaria mediante la tassazione fiscale più recente. Se, a causa di importi esenti, nella tassazione non figura alcuna sostanza, oltre a questa occorre inviare la dichiarazione d’imposta completa. Il capitale proprio è calcolato in base al bilancio o alla sostanza netta secondo i documenti fiscali.
 
 <sup>3</sup>
 
-Le imprese costituite da meno di 15 mesi devono inoltre presentare:
+Le imprese costituite da meno di 15 mesi devono presentare:
 
-- a. il bilancio d’apertura;
-- b. un piano d’esercizio;
-- c. attestazioni concernenti i crediti d’esercizio accordati all’impresa;
-- d. un inventario degli oneri gravanti sul capitale dell’impresa, in particolare i diritti di pegno, i diritti di pegno immobiliare e le riserve della proprietà.
+- a. il bilancio d’apertura; o
+- b. il conto annuale attuale comprendente il bilancio e il conto economico.
 
-<sup>4</sup> I conti annuali o, all’occorrenza, il bilancio d’apertura devono essere accompagnati da un rapporto dei revisori qualora il Codice delle obbligazioni preveda la revisione dei conti annuali.
+<sup>4</sup> Se il CO prevede la revisione del conto annuale, quest’ultimo o, all’occorrenza, il bilancio d’apertura deve essere accompagnato da un rapporto dei revisori.
 
-<sup>5</sup> La garanzia bancaria deve garantire gli importi necessari per la prova della capacità finanziaria durante tutta la durata di validità dell’autorizzazione di accesso.
-
-[^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^3a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -87,11 +111,13 @@ Per comprovare la capacità professionale, il richiedente deve presentare uno de
 
 - a. un certificato di capacità secondo gli articoli 6 e 7;
 - b. un attestato di capacità valido nell’UE;
-- c. un attestato professionale federale di «Disponente di trasporti stradali con attestato professionale federale» o «Disponente di trasporti e logistica con attestato professionale federale»;
+- c.[^4-1] un attestato professionale federale di «Disponente di trasporti stradali con attestato professionale federale», «Disponente di trasporti e logistica con attestato professionale federale» o «Specialista dei trasporti e della logistica con attestato professionale federale»;
 - d. un diploma federale di «Responsabile del trasporto stradale diplomato» o «Responsabile di trasporto e logistica diplomato;
 - e. un attestato professionale federale di «Guida e conducente di pullman».
 
 <sup>2</sup> Se il documento presentato è rilasciato unicamente per il trasporto di merci o per il trasporto di viaggiatori, l’accesso dell’impresa è limitato al settore corrispondente.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 5
 
@@ -102,6 +128,19 @@ Le imprese che hanno un rapporto d’impiego o di mandato con un gestore dei tra
 - a. conferma del rapporto d’impiego o di mandato tra il gestore dei trasporti e l’impresa;
 - b. convenzione concernente i compiti e le responsabilità del gestore dei trasporti;
 - c. inventario delle altre imprese di trasporti su strada per le quali opera il gestore dei trasporti.
+
+#### Art. 5a
+
+**Prova di avere una sede effettiva e stabile in Svizzera**[^5a-1]
+
+Per comprovare di avere una sede effettiva e stabile in Svizzera, un’impresa di trasporti su strada deve:
+
+- a. disporre di locali in cui può accedere agli originali dei suoi documenti principali che devono essere accessibili all’Ufficio federale dei trasporti (UFT) per la verifica del rispetto delle condizioni legali in materia di accesso alle professioni di trasportatore su strada;
+- b. dopo aver ottenuto l’autorizzazione di accesso, disporre stabilmente di un numero di veicoli immatricolati e di conducenti adeguato alla portata della sua attività di trasporto;
+- c. svolgere effettivamente e stabilmente le sue attività amministrative e commerciali, in particolare utilizzando attrezzature e strutture appropriate;
+- d. esercitare effettivamente e stabilmente la sua attività di trasporto utilizzando attrezzature tecniche appropriate per i veicoli.
+
+[^5a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 ## Sezione 3: Ottenimento del certificato di capacità
 
@@ -117,17 +156,19 @@ Le seguenti associazioni possono organizzare congiuntamente gli esami di capacit
 - b. Unione dei trasporti pubblici;
 - c. Les Routiers Suisses.
 
-<sup>2</sup> Queste associazioni elaborano un regolamento d’esame, il cui programma corrisponde all’Allegato I del regolamento (CE) n. 1071/2009[^6-1].
+<sup>2</sup> Queste associazioni elaborano un regolamento d’esame, il cui programma corrisponde all’Allegato I del regolamento (CE) n.1071/2009[^6-1].[^6-2]
 
 <sup>3</sup> Il certificato di capacità è rilasciato soltanto a chi è domiciliato o lavora in Svizzera.
 
 <sup>4</sup> Il regolamento d’esame definisce anche l’esame semplificato e le condizioni d’ammissione a tale esame secondo l’articolo 8 del regolamento (CE) n. 1071/2009.
 
-<sup>5</sup> Gli organizzatori degli esami possono riscuotere un emolumento; quest’ultimo dev’essere approvato dall’Ufficio federale dei trasporti (UFT).
+<sup>5</sup> Gli organizzatori degli esami possono riscuotere un emolumento; quest’ultimo deve essere approvato dall’UFT.[^6-3]
 
 <sup>6</sup> Il regolamento d’esame deve essere sopposto all’UFT per approvazione.
 
-[^6-1]: Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio, GU L 300 del 14.11.2009, pag. 51; modificato da ultimo dal regolamento (UE) n. 517/2013, GU L 158 del 10.6.2013, pag. 1.
+[^6-1]: Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio, GU L 300 del 14.11.2009, pag. 51; modificato da ultimo dal regolamento (UE) 2020/1055, GU L 249 del 31.7.2020, pag. 17.
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 7
 
@@ -179,33 +220,54 @@ L’UFT ritira l’attestato di conducente se l’impresa di trasporti su strada
 
 <sup>2</sup> In caso di infrazioni gravi o di infrazioni lievi e ripetute delle pertinenti disposizioni, l’UFT può negare il rilascio degli attestati di conducente o fissare condizioni per il loro rilascio.
 
-## Sezione 5: Obbligo di recare con sé i documenti
+## Sezione 5: Obbligo di conservare i documenti e obbligo di recarli a bordo
+
+[^sec5-1]
+
+[^sec5-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 11
 
-<sup>1</sup> Una copia, certificata conforme dall’UFT o dall’autorità competente, dell’autorizzazione di accesso e l’attestato di conducente devono sempre essere recati con sé. Su richiesta, tali documenti vanno esibiti agli organi di controllo.
+<sup>1</sup> L’originale dell’autorizzazione di accesso deve essere conservato dall’impresa di trasporto su strada presso la propria sede.
 
-<sup>2</sup> Il capoverso 1 non si applica se il veicolo è impiegato nel servizio di linea concessionario secondo l’articolo 6 lettera a dell’ordinanza del 4 novembre 2009[^11-1] sul trasporto di viaggiatori.
+<sup>2</sup> Una copia dell’autorizzazione di accesso certificata conforme dall’UFT o dall’autorità competente e l’attestato di conducente devono sempre essere recati a bordo del veicolo. Su richiesta, tali documenti vanno esibiti agli organi di controllo.
+
+<sup>3</sup> Il capoverso 2 non si applica se il veicolo è impiegato nel servizio di linea concessionario secondo l’articolo 6 lettera a dell’ordinanza del 4 novembre 2009[^11-1] sul trasporto di viaggiatori.
 
 [^11-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
-## Sezione 6: Registro per la valutazione dell’affidabilità dei gestori dei trasporti
+## Sezione 6: Registro delle imprese di trasporto su strada
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 12
 
-**Dati per l’identificazione**
+**Dati per l’identificazione**[^12-1]
 
-Per identificare i gestori dei trasporti l’UFT ne riporta nome e cognome, data di nascita, luogo d’origine o di nascita e indirizzo nel registro per la valutazione dell’affidabilità dei gestori dei trasporti (art. 9*a* LPTS).
+Per identificare i gestori dei trasporti l’UFT ne riporta nome e cognome, data di nascita, luogo d’origine o di nascita e indirizzo nel registro delle imprese di trasporto su strada.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 13
 
-**Accesso mediante procedura di richiamo**
+**Accesso mediante procedura di richiamo**[^13-1]
 
-<sup>1</sup> L’UFT può rendere i dati accessibili alle autorità estere competenti per l’accesso alle professioni di trasportatore su strada mediante procedura di richiamo secondo l’articolo 9*a* capoverso 3 LPTS, se le autorità stesse hanno comunicato all’UFT il punto di contatto designato a questo scopo.
+<sup>1</sup> L’UFT può rendere i dati accessibili alle autorità estere competenti per l’accesso alle professioni di trasportatore su strada mediante procedura di richiamo secondo l’articolo 9 capoverso 3 lettere a, d ed e LTrS, se le autorità stesse hanno comunicato all’UFT il punto di contatto designato a questo scopo.
 
-<sup>2</sup> Hanno accesso mediante procedura di richiamo i punti di contatto designati dagli Stati membri dell’UE e dagli Stati dello SEE secondo l’articolo 18 del regolamento (CE) n. 1071/2009[^13-1].
+<sup>2</sup> Hanno accesso mediante procedura di richiamo i punti di contatto designati secondo l’articolo 18 paragrafo 1 del regolamento (CE) n. 1071/2009[^13-2] dagli Stati membri dell’UE e dagli Stati dell’AELS membri dello SEE.
 
-[^13-1]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 2.
+[^13-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^13-2]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 2.
+
+#### Art. 13a
+
+**Assistenza amministrativa reciproca**[^13a-1]
+
+Se nel quadro dell’assistenza amministrativa reciproca le autorità competenti degli Stati membri dell’UE e degli Stati dell’AELS membri dello SEE chiedono all’UFT informazioni secondo l’articolo 9*a* capoverso 1 LTrS, l’UFT le fornisce entro 30 giorni.
+
+[^13a-1]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 14
 
@@ -213,9 +275,20 @@ Per identificare i gestori dei trasporti l’UFT ne riporta nome e cognome, data
 
 Se una persona chiede l’accesso ai propri dati, deve presentare una domanda all’UFT nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^14-2] sulla protezione dei dati. La pretesa del diritto alla rettifica è retta dall’articolo 41 della legge federale del 25 settembre 2020[^14-3] sulla protezione dei dati.
 
-[^14-1]: Nuovo testo giusta l’all. 2 n. II 82 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-1]: Nuovo testo giusta l’all. 2 cifra II n. 82 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^14-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 14a
+
+**Cancellazione dei dati**[^14a-1]
+
+L’UFT procede alla cancellazione dei dati secondo l’articolo 9 LTrS:
+
+- a. se l’autorizzazione di accesso non è più valida; o
+- b. non appena non necessita più dei dati per il rilascio o la verifica dell’autorizzazione di accesso.
+
+[^14a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° mag. 2025 ([RU 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 ## Sezione 7: Notifica alle autorità estere
 

@@ -4,29 +4,32 @@ title: Verordnung vom 2. September 2015 über die Strassentransportunternehmen (
 short: STUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: de
-version: 2023-09-01
+version: 2025-05-01
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20250501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Zulassung als Strassentransportunternehmen im Personen- und Güterverkehr
+# Verordnung über die Strassentransportunternehmen
 
-(STUV)
+(STUV)[^t-1]
 
-vom 2. September 2015 (Stand am 1. September 2023)
+vom 2. September 2015 (Stand am 1. Mai 2025)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 6 Absatz 2, 7 Absatz 2, 9*a* Absatz 5, 11 Absatz 4 und 13 des Bundesgesetzes vom 20. März 2009[^ingress-1] über die Zulassung als Strassentransportunternehmen (STUG) sowie in Ausführung von Artikel 5 des Abkommens vom 21. Juni 1999[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (Landverkehrsabkommen),
+gestützt auf die Artikel 6 Absatz 2, 7 Absatz 2, 9 Absatz 5, 11 Absatz 4 und 13 des Bundesgesetzes vom 20. März 2009[^ingress-1] über die Strassentransportunternehmen (STUG) sowie in Ausführung von Artikel 5 des Abkommens vom 21. Juni 1999[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (Landverkehrsabkommen),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
 [^ingress-2]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -56,26 +59,45 @@ Zum Nachweis der Zuverlässigkeit ist ein Privatauszug aus dem Strafregister-Inf
 
 #### Art. 3
 
-**Nachweis der finanziellen Leistungsfähigkeit**
+**Finanzielle Leistungsfähigkeit**[^3-1]
 
-<sup>1</sup> Finanziell leistungsfähig ist ein Unternehmen, dessen Eigenkapital und Reserven sich auf mindestens 11 000 Franken für das erste Fahrzeug und 6000 Franken für jedes weitere Fahrzeug belaufen. Erreichen das Eigenkapital und die Reserven diese Beträge nicht, so kann die Leistungsfähigkeit mit einer Bankgarantie gewährleistet werden.
+<sup>1</sup>
 
-<sup>2</sup> Zum Nachweis der Leistungsfähigkeit ist die letzte Jahresrechnung einzureichen, bestehend aus Erfolgsrechnung, Bilanz und den weiteren vom Obligationenrecht[^3-1] vorgeschriebenen Angaben.
+Ein Unternehmen des Güterverkehrs ist finanziell leistungsfähig, wenn sich sein Eigenkapital und seine Reserven auf folgende Beträge belaufen:
+
+- a. mindestens 9000 Franken für das erste Fahrzeug über 3,5 Tonnen;
+- b. 5000 Franken für jedes weitere Fahrzeug über 3,5 Tonnen; und
+- c. 900 Franken für jedes weitere Fahrzeug mit einem Gesamtgewicht über 2,5 bis 3,5 Tonnen.
+
+<sup>2</sup> Ein Unternehmen des Güterverkehrs, das ausschliesslich Fahrzeuge mit einem Gesamtgewicht über 2,5 bis 3,5 Tonnen einsetzt, ist finanziell leistungsfähig, wenn sich sein Eigenkapital und seine Reserven auf mindestens 1800 Franken für das erste Fahrzeug und 900 Franken für jedes weitere Fahrzeug belaufen.
+
+<sup>3</sup> Ein Unternehmen des Personenverkehrs ist finanziell leistungsfähig, wenn sich sein Eigenkapital und seine Reserven auf mindestens 9000 Franken für das erste Fahrzeug und 5000 Franken für jedes weitere Fahrzeug belaufen.
+
+<sup>4</sup> Ein Unternehmen, das sowohl im Personen- als auch im Güterverkehr tätig ist, ist finanziell leistungsfähig, wenn sich sein Eigenkapital und seine Reserven auf mindestens 9000 Franken für das erste Fahrzeug belaufen. Für jedes weitere Fahrzeug bestimmt sich die finanzielle Leistungsfähigkeit nach Absatz 1 Buchstaben b und c beziehungsweise Absatz 3.
+
+<sup>5</sup> Erreichen das Eigenkapital und die Reserven eines Unternehmens die Beträge nicht, so kann es die Leistungsfähigkeit mit einer Bankgarantie gewährleisten. Die Bankgarantie muss die finanzielle Leistungsfähigkeit für die Dauer der Zulassungsbewilligung sicherstellen.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+
+#### Art. 3a
+
+**Nachweis der finanziellen Leistungsfähigkeit**[^3a-1]
+
+<sup>1</sup> Zum Nachweis der Leistungsfähigkeit ist die letzte Jahresrechnung einzureichen, bestehend aus Erfolgsrechnung, Bilanz und den weiteren vom Obligationenrecht[^3a-2] vorgeschriebenen Angaben.
+
+<sup>2</sup> Einzelunternehmen, die über keine Jahresrechnung verfügen, können die finanzielle Leistungsfähigkeit anhand der aktuellen Steuerveranlagung nachweisen. Ist in der Veranlagung aufgrund der Freibeträge kein Vermögen ausgewiesen, so ist neben der Veranlagung zusätzlich die komplette Steuererklärung einzureichen. Das Eigenkapital wird anhand der Bilanz oder des Reinvermögens gemäss den Steuerunterlagen ermittelt.
 
 <sup>3</sup>
 
-Unternehmen, die weniger als 15 Monate bestehen, müssen zudem vorlegen:
+Unternehmen, die seit weniger als 15 Monaten bestehen, müssen vorlegen:
 
-- a. die Eröffnungsbilanz;
-- b. einen Geschäftsplan;
-- c. Bestätigungen betreffend die dem Unternehmen gewährten Betriebskredite;
-- d. ein Verzeichnis der Belastungen des Betriebsvermögens, insbesondere mit Pfandrechten, Grundpfandrechten und Eigentumsvorbehalten.
+- a. die Eröffnungsbilanz; oder
+- b. die aktuelle Jahresrechnung bestehend aus Bilanz und Erfolgsrechnung.
 
-<sup>4</sup> Mit der Jahresrechnung oder gegebenenfalls der Eröffnungsbilanz ist ein Revisorenbericht vorzulegen, wenn das Obligationenrecht die Revision der Jahresrechnung vorsieht.
+<sup>4</sup> Sieht das Obligationenrecht die Revision der Jahresrechnung vor, so ist mit der Jahresrechnung oder gegebenenfalls der Eröffnungsbilanz ein Revisorenbericht vorzulegen.
 
-<sup>5</sup> Die Bankgarantie muss die zum Nachweis der finanziellen Leistungsfähigkeit erforderlichen Beträge für die Dauer der Gültigkeit der Zulassungsbewilligung sicherstellen.
-
-[^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3a-1]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^3a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -103,6 +125,19 @@ Unternehmen mit einem Verkehrsleiter oder einer Verkehrsleiterin im Anstellungs-
 - b. Vereinbarung über die Aufgaben und Verantwortlichkeiten des Verkehrsleiters oder der Verkehrsleiterin;
 - c. Verzeichnis weiterer Strassentransportunternehmen, für die der Verkehrsleiter oder die Verkehrsleiterin tätig ist.
 
+#### Art. 5a
+
+**Nachweis des tatsächlichen und dauerhaften Sitzes in der Schweiz**[^5a-1]
+
+Zum Nachweis des tatsächlichen und dauerhaften Sitzes in der Schweiz muss ein Strassentransportunternehmen:
+
+- a. über Räumlichkeiten verfügen, in denen es auf die Originale seiner wichtigsten Unternehmensunterlagen zugreifen kann, die dem Bundesamt für Verkehr (BAV) zur Kontrolle der gesetzlichen Voraussetzungen im Bereich der Zulassung als Strassentransportunternehmen zugänglich sein müssen;
+- b. nach Erhalt der Zulassung dauerhaft über eine im Verhältnis zum Umfang der Verkehrstätigkeit des Unternehmens angemessene Zahl an zugelassenen Fahrzeugen sowie an Fahrern und Fahrerinnen verfügen;
+- c. seine administrativen und gewerblichen Tätigkeiten insbesondere mittels einer angemessenen Ausstattung und Einrichtung tatsächlich und dauerhaft ausüben;
+- d. seine Verkehrstätigkeit mittels einer angemessenen technischen Ausstattung für die Fahrzeuge tatsächlich und dauerhaft ausüben.
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+
 ## 3. Abschnitt: Erwerb des Fachausweises
 
 #### Art. 6
@@ -117,17 +152,19 @@ Die Prüfungen zum Nachweis der fachlichen Eignung können von den folgenden Org
 - b. Verband öffentlicher Verkehr;
 - c. Les Routiers Suisses.
 
-<sup>2</sup> Diese Träger erlassen ein Prüfungsreglement, dessen Prüfungsstoff dem Anhang I der Verordnung (EG) Nr. 1071/2009[^6-1] entspricht.
+<sup>2</sup> Diese Träger erlassen ein Prüfungsreglement, dessen Prüfungsstoff dem Anhang I der Verordnung (EG) Nr. 1071/2009[^6-1] entspricht.[^6-2]
 
 <sup>3</sup> Der Fachausweis wird nur an Personen ausgestellt, die ihren Wohnsitz oder Arbeitsort in der Schweiz haben.
 
 <sup>4</sup> Das Prüfungsreglement legt auch die vereinfachte Prüfung und die Voraussetzungen für die Zulassung zu dieser Prüfung nach Artikel 8 der Verordnung (EG) Nr. 1071/2009 fest.
 
-<sup>5</sup> Die Prüfungsträgerschaft ist berechtigt, eine Prüfungsgebühr zu erheben; diese ist vom Bundesamt für Verkehr (BAV) zu genehmigen.
+<sup>5</sup> Die Prüfungsträgerschaft ist berechtigt, eine Prüfungsgebühr zu erheben; diese ist vom BAV zu genehmigen.[^6-3]
 
 <sup>6</sup> Das Prüfungsreglement ist dem BAV zur Genehmigung zu unterbreiten.
 
-[^6-1]: Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates, ABl. L 300 vom 14.11.2009, S. 51; zuletzt geändert durch Verordnung (EU) Nr. 517/2013, ABl. L 158 vom 10.6.2013, S. 1.
+[^6-1]: Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates, ABl. L 300 vom 14.11.2009, S. 51; zuletzt geändert durch Verordnung (EU) 2020/1055, ABl. L 249 vom 31.7.2020, S. 17.
+[^6-2]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 7
 
@@ -179,33 +216,54 @@ Das BAV entzieht die Fahrerbescheinigung, wenn das Strassentransportunternehmen:
 
 <sup>2</sup> Bei schweren und bei wiederholten leichten Verstössen gegen die einschlägigen Bestimmungen kann die Ausstellung von Fahrerbescheinigungen verweigert werden oder es können Auflagen für die Ausstellung von Fahrerbescheinigungen gemacht werden.
 
-## 5. Abschnitt: Mitführungspflichten
+## 5. Abschnitt: Aufbewahrungs- und Mitführungspflichten
+
+[^sec5-1]
+
+[^sec5-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 11
 
-<sup>1</sup> Mitzuführen sind jeweils eine vom BAV oder von der zuständigen Behörde beglaubigte Kopie der Zulassungsbewilligung und die Fahrerbescheinigung. Auf Verlangen sind diese den Kontrollorganen vorzuweisen.
+<sup>1</sup> Das Original der Zulassungsbewilligung ist vom Strassentransportunternehmen am Sitz des Unternehmens aufzubewahren.
 
-<sup>2</sup> Absatz 1 gilt nicht, wenn ein Fahrzeug im konzessionierten Linienverkehr nach Artikel 6 Buchstabe a der Verordnung vom 4. November 2009[^11-1] über die Personenbeförderung eingesetzt wird.
+<sup>2</sup> Auf jedem Fahrzeug sind jeweils eine vom BAV oder von der zuständigen Behörde beglaubigte Kopie der Zulassungsbewilligung und die Fahrerbescheinigung mitzuführen. Auf Verlangen sind diese den Kontrollorganen vorzuweisen.
+
+<sup>3</sup> Absatz 2 gilt nicht, wenn ein Fahrzeug im konzessionierten Linienverkehr nach Artikel 6 Buchstabe a der Verordnung vom 4. November 2009[^11-1] über die Personenbeförderung eingesetzt wird.
 
 [^11-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
-## 6. Abschnitt: Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen
+## 6. Abschnitt: Register der Strassentransportunternehmen
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 12
 
-**Daten zur Identifizierung**
+**Daten zur Identifizierung**[^12-1]
 
-Zur Identifizierung der Verkehrsleiter und Verkehrsleiterinnen erfasst das BAV im Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen (Art. 9*a* STUG) deren Namen, Vornamen, Geburtsdatum, Heimat- oder Geburtsort und Adresse.
+Zur Identifizierung der Verkehrsleiter und Verkehrsleiterinnen erfasst das BAV im Register der Strassentransportunternehmen deren Namen, Vornamen, Geburtsdatum, Heimat- oder Geburtsort und Adresse.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 13
 
-**Zugang im Abrufverfahren**
+**Zugang im Abrufverfahren**[^13-1]
 
-<sup>1</sup> Das BAV kann die Daten nach Artikel 9*a* Absatz 3 STUG den für die Zulassung von Strassentransportunternehmen zuständigen ausländischen Behörden im Abrufverfahren zugänglich machen, wenn diese Behörden dem BAV mitgeteilt haben, wer als Kontaktstelle benannt wurde.
+<sup>1</sup> Das BAV kann die Daten nach Artikel 9 Absatz 3 Buchstaben a, d und e STUG den für die Zulassung von Strassentransportunternehmen zuständigen ausländischen Behörden im Abrufverfahren zugänglich machen, wenn diese Behörden dem BAV mitgeteilt haben, wer als Kontaktstelle benannt wurde.
 
-<sup>2</sup> Zugang im Abrufverfahren haben die nach Artikel 18 der Verordnung (EG) Nr. 1071/2009[^13-1] von den EU-Mitgliedstaaten und EWR-Staaten benannten Kontaktstellen.
+<sup>2</sup> Zugang im Abrufverfahren haben die nach Artikel 18 Absatz 1 der Verordnung (EG) Nr. 1071/2009[^13-2] von den EU-Mitgliedstaaten und von den EFTA-Staaten, die Mitglieder des EWR sind, benannten Kontaktstellen.
 
-[^13-1]: Siehe Fussnote zu Art. 6 Abs. 2.
+[^13-1]: Fassung gemäss Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
+[^13-2]: Siehe Fussnote zu Art. 6 Abs. 2.
+
+#### Art. 13a
+
+**Gegenseitige Amtshilfe**[^13a-1]
+
+Ersuchen die zuständigen Behörden der EU-Mitgliedstaaten sowie der EFTA-Staaten, die Mitglieder des EWR sind, im Rahmen der gegenseitigen Amtshilfe das BAV um Auskünfte nach Artikel 9*a* Absatz 1 STUG, so erteilt es diese innert 30 Arbeitstagen.
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 #### Art. 14
 
@@ -216,6 +274,17 @@ Verlangt eine Person Auskunft über ihre Daten, so muss sie in der Form nach Art
 [^14-1]: Fassung gemäss Anhang 2 Ziff. II 82 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^14-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 14a
+
+**Löschung der Daten**[^14a-1]
+
+Das BAV löscht die Daten nach Artikel 9 STUG:
+
+- a. wenn die Zulassungsbewilligung nicht mehr gültig ist; oder
+- b. sobald es die Daten nicht mehr für die Zwecke der Erteilung oder der Überprüfung der Zulassungsbewilligung benötigt.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 14. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 204](https://fedlex.data.admin.ch/eli/oc/2025/204)).
 
 ## 7. Abschnitt: Meldung an ausländische Behörden
 
