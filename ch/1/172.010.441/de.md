@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: Verordnung vom 3. April 2019 über die elektronische Geschäftsverwaltung in der Bundesverwaltung (GEVER-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: de
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20250501-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/de"
 
 (GEVER-Verordnung)
 
-vom 3. April 2019 (Stand am 1. Januar 2024)
+vom 3. April 2019 (Stand am 1. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganis
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -38,17 +38,19 @@ verordnet:
 Diese Verordnung gilt für:
 
 - a. die Verwaltungseinheiten der zentralen Bundesverwaltung nach Artikel 7 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^1-1] (RVOV);
-- b. die Stellen, die sich gemäss Artikel 2 Absatz 2 der Verordnung vom 25. November 2020[^1-2] über die digitale Transformation und die Informatik (VDTI) dazu verpflichten, sie einzuhalten.[^1-3]
+- b.[^1-2] die Stellen nach Artikel 11 Absatz 4 der Digitalisierungsverordnung vom 2. April 2025[^1-3], soweit sie das vom IKT-Standarddienst GEVER bereitgestellte Geschäftsverwaltungssystem (standardisiertes GEVER) nutzen.[^1-4]
 
 <sup>2</sup> Die Departemente und die Bundeskanzlei können die ihnen zugeordneten Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 7*a* RVOV mit einer Verordnung der vorliegenden Verordnung unterstellen, soweit die dezentralen Einheiten nicht ermächtigt sind, selbstständig zu archivieren.
 
-<sup>3</sup> Die Bestimmungen dieser Verordnung über die Zuständigkeiten in der Bundesverwaltung (4. Abschnitt) gelten nur, soweit das vom IKT-Standarddienst GEVER bereitgestellte Geschäftsverwaltungssystem (standardisiertes GEVER) genutzt wird.
+<sup>3</sup> Die Bestimmungen dieser Verordnung über die Zuständigkeiten in der Bundesverwaltung (4. Abschnitt) gelten nur, soweit das standardisierte GEVER genutzt wird.[^1-5]
 
 <sup>4</sup> Diese Verordnung gilt nicht, soweit die Gesetzgebung für ein System abweichende Regelungen aufstellt.
 
-[^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^1-3]: Fassung gemäss Anhang Ziff. 6 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-2]: Fassung gemäss Anhang 2 Ziff. II 3 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^1-3]: [SR 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^1-4]: Fassung gemäss Anhang Ziff. 6 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-5]: Fassung gemäss Anhang 2 Ziff. II 3 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 2
 
@@ -60,7 +62,7 @@ Diese Verordnung gilt für:
 
 <sup>3</sup> Als Geschäftsverwaltungssystem gilt ein Informatiksystem, das im Sinne von Artikel 57*h* RVOG der Abwicklung von Geschäftsprozessen sowie der Verwaltung von Dokumenten, einschliesslich der Korrespondenz, dient.[^2-2]
 
-[^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^2-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
@@ -161,7 +163,7 @@ Nicht archivwürdige Informationen können nach Ablauf der von der Verwaltungsei
 <sup>2</sup> Informationen, die nach Artikel 20 der Informationssicherheitsverordnung als GEHEIM klassifiziert sind, dürfen nicht in Geschäftsverwaltungssystemen bearbeitet werden.
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. II 8 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-2]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 

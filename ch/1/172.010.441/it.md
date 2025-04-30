@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordinanza del 3 aprile 2019 sulla gestione elettronica degli affari nell'Amministrazione federale (Ordinanza GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: it
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20250501-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20250501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/it"
 
 (Ordinanza GEVER)
 
-del 3 aprile 2019 (Stato 1° gennaio 2024)
+del 3 aprile 2019 (Stato 1° maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -24,8 +24,8 @@ visto l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: Nuovo testo giusta l’all. 2 cifra II n. 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -38,17 +38,19 @@ ordina:
 La presente ordinanza si applica:
 
 - a. alle unità amministrative dell’Amministrazione federale centrale di cui all’articolo 7 dell’ordinanza del 25 novembre 1998[^1-1] sull’organizzazione del Governo e dell’Amministrazione (OLOGA);
-- b. alle autorità, organizzazioni e persone di cui all’articolo 2 capoverso 2 dell’ordinanza del 25 novembre 2020[^1-2] sulla trasformazione digitale e l’informatica (OTDI) che s’impegnano a rispettarla.[^1-3]
+- b.[^1-2] alle autorità, organizzazioni e persone di cui all’articolo 11 capoverso 4 dell’ordinanza del 2 aprile 2025[^1-3] sulla digitalizzazione (ODigi) se utilizzano il sistema di gestione degli affari fornito dal servizio standard delle TIC GEVER (sistema GEVER standardizzato).[^1-4]
 
 <sup>2</sup> I dipartimenti e la Cancelleria federale possono prevedere in un’ordinanza di assoggettare alle prescrizioni della presente ordinanza le unità amministrative dell’Amministrazione federale decentralizzata che sono loro attribuite conformemente all’articolo 7*a* OLOGA, se tali unità non sono autorizzate ad archiviare i loro affari in maniera autonoma.
 
-<sup>3</sup> Le disposizioni della presente ordinanza sulle competenze in seno all’Amministrazione federale (sezione 4) si applicano soltanto se è in uso il sistema di gestione degli affari fornito dal servizio standard delle TIC GEVER (sistema GEVER standardizzato).
+<sup>3</sup> Le disposizioni della presente ordinanza sulle competenze in seno all’Amministrazione federale (sezione 4) si applicano soltanto se è in uso il sistema GEVER standardizzato.[^1-5]
 
 <sup>4</sup> La presente ordinanza non si applica ai sistemi per i quali la legislazione prevede deroghe.
 
-[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^1-3]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-2]: Nuovo testo giusta l’all. 2 cifra II n. 3 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^1-3]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^1-4]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-5]: Nuovo testo giusta l’all. 2 cifra II n. 3 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 2
 
@@ -60,8 +62,8 @@ La presente ordinanza si applica:
 
 <sup>3</sup> È considerato sistema di gestione degli affari ogni sistema informatico che, ai sensi dell’articolo 57*h* LOGA, serve al trattamento degli affari e alla gestione di documenti, inclusa la corrispondenza.[^2-2]
 
-[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^2-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^2-2]: Nuovo testo giusta l’all. 2 cifra II n. 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -160,8 +162,8 @@ Le informazioni prive di valore archivistico possono essere distrutte alla scade
 
 <sup>2</sup> Le informazioni classificate SEGRETO conformemente all’articolo 20 dell’ordinanza sulla sicurezza delle informazioni non possono essere trattate nei sistemi di gestione degli affari.
 
-[^11-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-1]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 
@@ -181,7 +183,7 @@ I sistemi di gestione degli affari registrano gli accessi alle informazioni, la 
 
 I sistemi di gestione degli affari consentono di associare conferme elettroniche alle informazioni, in particolare per attestarne la presa di conoscenza oppure per ottenere o concedere un’autorizzazione.
 
-## Sezione 4: Strategia GEVER e competenzenell’Amministrazione federale
+## Sezione 4: Strategia GEVER e competenze nell’Amministrazione federale
 
 [^sec4-1]
 
@@ -191,11 +193,12 @@ I sistemi di gestione degli affari consentono di associare conferme elettroniche
 
 **Strategia GEVER**[^15-1]
 
-<sup>1</sup> Su proposta del settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT della CaF) e dopo aver sentito la Conferenza dei segretari generali (CSG), il cancelliere della Confederazione definisce la strategia della Confederazione in materia di gestione degli affari dell’Amministrazione federale (strategia GEVER).
+<sup>1</sup> Su proposta del settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT[^15-2]) e dopo aver sentito la Conferenza dei segretari generali (CSG), il cancelliere della Confederazione definisce la strategia della Confederazione in materia di gestione degli affari dell’Amministrazione federale (strategia GEVER).
 
-<sup>2</sup> L’elaborazione e la realizzazione della strategia GEVER sono coordinate dal settore TDT della CaF.
+<sup>2</sup> L’elaborazione e la realizzazione della strategia GEVER sono coordinate dal settore TDT.
 
 [^15-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^15-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° mag. 2025. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -229,7 +232,7 @@ Il Gruppo tecnico sostiene il Servizio GEVER per:
 - b. la valutazione e il consolidamento dei requisiti relativi agli affari del sistema GEVER standardizzato;
 - c. la redazione e l’aggiornamento della guida di GEVER.
 
-<sup>6</sup> Il Gruppo tecnico prepara le decisioni del settore TDT della CaF relative a GEVER standardizzato, segnatamente le decisioni relative alla configurazione specialistica e all’ordine di priorità dei requisiti relativi agli affari.[^17-3]
+<sup>6</sup> Il Gruppo tecnico prepara le decisioni del settore TDT relative a GEVER standardizzato, segnatamente le decisioni relative alla configurazione specialistica e all’ordine di priorità dei requisiti relativi agli affari.[^17-3]
 
 [^17-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^17-2]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).

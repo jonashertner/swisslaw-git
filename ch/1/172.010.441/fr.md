@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordonnance du 3 avril 2019 sur la gestion électronique des affaires dans l'administration fédérale (Ordonnance GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: fr
-version: 2024-01-01
+version: 2025-05-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20250501-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/fr"
 
 (Ordonnance GEVER)
 
-du 3 avril 2019 (État le 1<sup>er</sup> janvier 2024)
+du 3 avril 2019 (État le 1<sup>er</sup> mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation d
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
@@ -38,17 +38,19 @@ arrête:
 La présente ordonnance s’applique:
 
 - a. aux unités de l’administration fédérale centrale au sens de l’art. 7 de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^1-1];
-- b. aux autorités, organisations et personnes visées à l’art. 2, al. 2, de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique (OTNI)[^1-2] qui s’engagent à la respecter.[^1-3]
+- b.[^1-2] aux unités administratives, autorités et organisations visées à l’art. 11, al. 4, de l’ordonnance du 2 avril 2025 sur la numérisation[^1-3] si elles utilisent le système de gestion des affaires proposé par le service TIC standardisé GEVER (GEVER standardisé).[^1-4]
 
 <sup>2</sup> Les départements et la Chancellerie fédérale peuvent, par ordonnance, soumettre à la présente ordonnance les unités de l’administration fédérale décentralisée au sens de l’art. 7*a* OLOGA qui leur sont rattachées si celles-ci ne sont pas autorisées à archiver elles-mêmes leurs documents.
 
-<sup>3</sup> Les dispositions de la présente ordonnance relatives aux compétences dans l’administration fédérale (section 4) ne s’appliquent qu’en cas d’utilisation du système de gestion des affaires proposé par le service TIC standardisé GEVER (GEVER standardisé).
+<sup>3</sup> Les dispositions de la présente ordonnance relatives aux compétences dans l’administration fédérale (section 4) ne s’appliquent qu’en cas d’utilisation de GEVER standardisé.[^1-5]
 
 <sup>4</sup> La présente ordonnance ne s’applique pas lorsqu’un système est soumis à une législation prévoyant des règles différentes.
 
-[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^1-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-2]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
+[^1-3]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^1-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^1-5]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 2 avr. 2025 sur la numérisation, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 
 #### Art. 2
 
@@ -60,7 +62,7 @@ La présente ordonnance s’applique:
 
 <sup>3</sup> Par système de gestion des affaires, on entend un système informatique visant à assurer le bon déroulement des processus opérationnels et de gérer des documents, correspondance y comprise, au sens de l’art. 57*h* LOGA.[^2-2]
 
-[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^2-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
@@ -161,7 +163,7 @@ Les informations sans valeur archivistique peuvent être détruites au terme du 
 <sup>2</sup> Les informations classifiées SECRET en vertu de l’art. 20 OSI ne doivent pas être traitées dans les systèmes de gestion des affaires.
 
 [^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 
@@ -191,11 +193,12 @@ Les systèmes de gestion des affaires permettent de confirmer des informations p
 
 **Stratégie GEVER**[^15-1]
 
-<sup>1</sup> Le chancelier de la Confédération, sur proposition du secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI de la ChF) et après avoir entendu la Conférence des secrétaires généraux (CSG), définit la stratégie de la Confédération en matière de gestion des affaires de l’administration fédérale (stratégie GEVER).
+<sup>1</sup> Le chancelier de la Confédération, sur proposition du secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI[^15-2]) et après avoir entendu la Conférence des secrétaires généraux (CSG), définit la stratégie de la Confédération en matière de gestion des affaires de l’administration fédérale (stratégie GEVER).
 
-<sup>2</sup> L’élaboration et la mise en œuvre de la stratégie GEVER sont coordonnées par le secteur TNI de la ChF.
+<sup>2</sup> L’élaboration et la mise en œuvre de la stratégie GEVER sont coordonnées par le secteur TNI.
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^15-2]: La dénomination de l'unité administrative a été adaptée au 1<sup>er</sup> mai 2025 en application de l'art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 16
 
@@ -229,7 +232,7 @@ Le Groupe spécialisé GEVER Confédération aide le Service GEVER Confédérati
 - b. évaluer et compiler les exigences relatives aux affaires dans GEVER standardisé;
 - c. élaborer et mettre à jour le manuel GEVER.
 
-<sup>6</sup> Il prépare les décisions du secteur TNI de la ChF relatives à GEVER standardisé, notamment les décisions relatives à la configuration spécialisée et à l’ordre de priorité des exigences relatives aux affaires.[^17-3]
+<sup>6</sup> Il prépare les décisions du secteur TNI relatives à GEVER standardisé, notamment les décisions relatives à la configuration spécialisée et à l’ordre de priorité des exigences relatives aux affaires.[^17-3]
 
 [^17-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^17-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
