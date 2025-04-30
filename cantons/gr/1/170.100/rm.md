@@ -4,13 +4,13 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2022-06-14
+version: 2025-05-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-02
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3378/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3378/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-01-2025)
+dals 08-12-2005 (versiun dals 01-05-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -576,7 +576,7 @@ concluda:
 
 <sup>1</sup> Il program da la regenza ed il plan da finanzas fixeschan ils puncts centrals sco er il rom finanzial per la perioda da planisaziun.
 
-<sup>2</sup> Per mintga perioda da planisaziun concluda il cussegl grond la structura da las gruppas da products. Sin proposta da la regenza po el concluder midadas entaifer la perioda da planisaziun.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
@@ -590,11 +590,13 @@ concluda:
 
 #### Art. 63
 
-**4. effect**
+**4. gruppas da products ed effects**
 
-<sup>1</sup> Il cussegl grond definescha periodicamain l'effect per mintga gruppa da products ch'è fixada en il preventiv global.
+<sup>1</sup> Sin proposta da la Regenza e da la Dretgira superiura fixescha il Cussegl grond las gruppas da products per mintga preventiv global.
 
-<sup>2</sup> Il cussegl grond fixescha uschia il niz intenziunà e controllescha tal.
+<sup>2</sup> El determinescha l'effect per mintga gruppa da products e fixescha uschia il niz intenziunà.
+
+<sup>3</sup> La Regenza e la Dretgira superiura controlleschan periodicamain las gruppas da products ed ils effects.
 
 #### Art. 64
 

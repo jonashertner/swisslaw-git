@@ -4,13 +4,13 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2022-06-14
+version: 2025-05-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-02
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3378/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3378/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.01.2025)
+Vom 08.12.2005 (Stand 01.05.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -572,7 +572,7 @@ beschliesst:
 
 <sup>1</sup> Regierungsprogramm und Finanzplan legen die Schwerpunkte sowie den finanziellen Rahmen für die Planungsperiode fest.
 
-<sup>2</sup> Der Grosse Rat beschliesst für jede Planungsperiode die Produktgruppenstruktur. Er kann auf Antrag der Regierung Änderungen innerhalb der Planungsperiode beschliessen.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
@@ -586,11 +586,13 @@ beschliesst:
 
 #### Art. 63
 
-**4. Wirkung**
+**4. Produktgruppen und Wirkungen**
 
-<sup>1</sup> Der Grosse Rat definiert periodisch die Wirkung für jede im Globalbudget festgelegte Produktgruppe.
+<sup>1</sup> Der Grosse Rat legt auf Antrag der Regierung und des Obergerichts für jedes Globalbudget die Produktgruppen fest.
 
-<sup>2</sup> Der Grosse Rat legt damit den beabsichtigten Nutzen fest und überprüft diesen.
+<sup>2</sup> Er legt die Wirkung für jede Produktgruppe und damit den beabsichtigten Nutzen fest.
+
+<sup>3</sup> Die Regierung und das Obergericht überprüfen periodisch die Produktgruppen und Wirkungen.
 
 #### Art. 64
 

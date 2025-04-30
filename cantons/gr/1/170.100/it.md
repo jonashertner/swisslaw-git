@@ -4,13 +4,13 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2025-01-01
-valid_until: 2025-04-30
-version_adopted: 2022-06-14
+version: 2025-05-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-02
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3378/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3544/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3378/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.01.2025)
+del 08.12.2005 (stato 01.05.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -572,7 +572,7 @@ decide:
 
 <sup>1</sup> Il programma di Governo ed il piano finanziario fissano le priorità e il quadro finanziario per il periodo di pianificazione.
 
-<sup>2</sup> Il Gran Consiglio decide la struttura dei gruppi di prodotti per ogni periodo di pianificazione. Su proposta del Governo può decidere cambiamenti all'interno del periodo di pianificazione.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
@@ -586,11 +586,13 @@ decide:
 
 #### Art. 63
 
-**4. Efficacia**
+**4. Gruppi di prodotti ed effetti**
 
-<sup>1</sup> Il Gran Consiglio definisce regolarmente l'efficacia per ogni gruppo di prodotti stabilito nel preventivo globale.
+<sup>1</sup> Su incarico del Governo e del Tribunale d'appello, il Gran Consiglio stabilisce i gruppi di prodotti per ogni preventivo globale.
 
-<sup>2</sup> In questo modo il Gran Consiglio determina e verifica l'utilità auspicata.
+<sup>2</sup> Esso stabilisce l'effetto per ogni gruppo di prodotti e quindi l'utilità auspicata.
+
+<sup>3</sup> Il Governo e il Tribunale d'appello verificano periodicamente i gruppi di prodotti e gli effetti.
 
 #### Art. 64
 
