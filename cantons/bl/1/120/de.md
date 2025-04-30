@@ -4,13 +4,12 @@ number: "120"
 title: Gesetz über die politischen Rechte
 short: GpR
 language: de
-version: 2024-01-01
-valid_until: 2025-04-30
-version_adopted: 2023-01-26
+version: 2025-05-01
+version_adopted: 2024-10-17
 adopted: 1981-09-07
 in_force: 1982-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/120"
-pdf: "https://bl.clex.ch/api/de/versions/3916/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4475/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3916/pdf_file"
 
 (GpR)
 
-Vom 07.09.1981 (Stand 01.01.2024)
+Vom 07.09.1981 (Stand 01.05.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -511,11 +510,15 @@ beschliesst:[^ingress-2]
 
 #### § 36
 
-**Listen, Veröffentlichung**
+**Listen, Listengruppen und Veröffentlichung**
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen. Sie werden mit Ordnungsnummern versehen.
 
-<sup>2</sup> Die Listen werden bei kantonalen Wahlen von der Landeskanzlei im Amtsblatt, bei Gemeindewahlen von der Gemeindeverwaltung in geeigneter Weise veröffentlicht.
+<sup>2</sup> Listen mit gleicher Bezeichnung bilden im Kanton eine Listengruppe.
+
+<sup>3</sup> Eine Liste, die nur in einem Wahlkreis eingereicht wird, bildet ebenfalls eine Listengruppe.
+
+<sup>4</sup> Die Listen werden bei kantonalen Wahlen von der Landeskanzlei im Amtsblatt, bei Gemeindewahlen von der Gemeindeverwaltung in geeigneter Weise veröffentlicht.
 
 #### § 37
 
@@ -541,71 +544,68 @@ beschliesst:[^ingress-2]
 
 #### § 39
 
-**Ermittlung des Ergebnisses**
+**Parteistimmenzahlen**
 
 <sup>1</sup> Massgebend für die Ermittlung des Wahlergebnisses sind die Parteistimmenzahlen.
 
 <sup>2</sup> Die Parteistimmenzahl setzt sich zusammen aus:
 
-- a. den Kandidatenstimmen, d.h. den Stimmen, welche die Kandidaten der gleichen Parteiliste erhalten haben;
-- b. den Zusatzstimmen, d.h. der Zahl der leeren Linien auf den Listen der gleichen Partei; als leere Linien gelten auch die ungültigen Stimmen und die gestrichenen Namen.
+- a. den Kandidierendenstimmen, d.h. den Stimmen, welche die Kandidatinnen und Kandidaten einer Liste erhalten haben und
+- b. den Zusatzstimmen, d.h. der Zahl der leeren Linien der gleichen Liste; als leere Linien gelten auch die ungültigen Stimmen und die gestrichenen Namen.
 
-<sup>3</sup> Die leeren Linien auf den Freien Listen fallen als leere Stimmen ausser Betracht.
+<sup>3</sup> Die leeren Linien auf den Blankolisten fallen als leere Stimmen ausser Betracht.
+
+#### § 39a
+
+**Quorum**
+
+<sup>1</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn:
+
+- a. eine ihrer Listen in einem Wahlkreis mindestens 5 % aller Parteistimmen des betreffenden Wahlkreises erhält oder
+- b. die Listengruppe eine Wählerzahl erreicht, die gesamtkantonal einem Wähleranteil von mindestens 3 % entspricht.
+
+<sup>2</sup> Ein Quorum kommt in den Gemeinden nur dann zur Anwendung, wenn die Gemeindeordnung dies vorsieht.
 
 #### § 40
 
-**Verteilung der Mandate auf die Parteien**
+**Oberzuteilung auf die Listengruppen**
 
-<sup>1</sup> Für die Verteilung der Mandate auf die Parteien werden bei der Wahl des Landrats und des Verfassungsrats folgende Regionen gebildet:
+<sup>1</sup> Die Parteistimmenzahl einer Liste wird durch die Zahl der im betreffenden Wahlkreis zu vergebenden Mandate geteilt. Das Ergebnis heisst Wählerzahl der Liste.
 
-- a. Region 1, umfassend die Wahlkreise Allschwil, Binningen und Oberwil;
-- b. Region 2, umfassend die Wahlkreise Reinach, Münchenstein, Muttenz und Laufen;
-- c. Region 3, umfassend die Wahlkreise Pratteln und Liestal;
-- d. Region 4, umfassend die Wahlkreise Sissach, Gelterkinden und Waldenburg.
+<sup>2</sup> In jeder Listengruppe werden die Wählerzahlen der Listen zusammengezählt. Die Summe wird durch den Kantonswahlschlüssel geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze der betreffenden Listengruppe.
 
-<sup>2</sup> In jedem Wahlkreis werden die Parteistimmenzahlen durch die Zahl der Wahlkreismandate geteilt. Die auf die nächste ganze Zahl abgerundeten Ergebnisse sind die Wählerzahlen.
+<sup>3</sup> Die Landeskanzlei legt den Kantonswahlschlüssel so fest, dass die 90 Mandate beim Vorgehen gemäss Abs. 2 vergeben werden.
 
-<sup>3</sup> In jeder Region werden die Wählerzahlen aller Parteien zusammengezählt und durch die Zahl der Mandate der Region plus 1 geteilt. Das auf die nächsthöhere ganze Zahl aufgerundete Ergebnis ist die 1. Wahlzahl.
-
-<sup>4</sup> Jede Partei erhält so viele Mandate, als die 1. Wahlzahl in ihrer Wählerzahl der Region enthalten ist.
-
-<sup>5</sup> Können auf diese Weise nicht alle Mandate verteilt werden, so wird die Wählerzahl jeder Partei durch die Zahl der bereits zugeteilten Mandate plus 1 geteilt und das 1. Restmandat der Partei mit dem grössten Quotienten zugeteilt. Dieses Verfahren wird fortgesetzt, bis alle Restmandate verteilt sind.
-
-<sup>6</sup> Haben mehrere Listen aufgrund des gleichen Quotienten den gleichen Anspruch auf das nächste Mandat, so erhält jene unter diesen Listen das nächste Mandat, die bei der Teilung nach § 40 Abs. 4 den grössten Rest erzielt.
-
-<sup>7</sup> Falls noch immer mehrere Listen den gleichen Anspruch haben, geht das Mandat an jene dieser Listen, welche die grösste Parteistimmenzahl aufweist.
-
-<sup>8</sup> Haben immer noch mehrere Listen den gleichen Anspruch, so erhält jene dieser Listen das nächste Mandat, bei welcher der für die Wahl in Betracht kommende Kandidat die grösste Stimmenzahl aufweist.
-
-<sup>9</sup> Falls mehrere solche Kandidaten die gleiche Stimmenzahl aufweisen, entscheidet das Los.
+<sup>4</sup> Kommt es bei der Berechnung gemäss Abs. 2 zu gleichwertigen Rundungsmöglichkeiten, zieht die Landschreiberin oder der Landschreiber in Anwesenheit der betroffenen Listenverantwortlichen das Los.
 
 #### § 41
 
-**Verteilung der Parteimandate auf die Wahlkreise**
+**Unterzuteilung auf die Listen**
 
-<sup>1</sup> In jeder Region wird die Wählerzahl jeder Partei durch die Zahl der ihr gemäss § 40 zugeteilten Mandate geteilt. Die auf das Ergebnis folgende höhere ganze Zahl ist die 2. Wahlzahl.
+<sup>1</sup> Die Parteistimmenzahl einer Liste wird durch den Wahlkreis-Divisor und den Listengruppen-Divisor geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze dieser Liste.
 
-<sup>2</sup> Jede Partei erhält im Wahlkreis so viele Mandate, als die 2. Wahlzahl in ihrer Wählerzahl enthalten ist. Restmandate entfallen auf jene Wahlkreisparteien, die bei der Teilung ihrer Wählerzahl durch die 2. Wahlzahl die grössten Bruchzahlen aufweisen. Haben mehrere Wahlkreisparteien aufgrund der gleichen Bruchzahl den gleichen Anspruch auf ein Restmandat, so entscheidet das Los.
+<sup>2</sup> Die Landeskanzlei legt für jeden Wahlkreis einen Wahlkreis-Divisor und für jede Listengruppe einen Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Abs. 1:
 
-<sup>3</sup> Entfallen so auf einen Wahlkreis weniger Mandate, als ihm gemäss § 49 zustehen, so werden ihm die fehlenden Mandate zulasten jener Parteien zugeteilt, welche im übervertretenen Wahlkreis bei einer Mandatverteilung gemäss dem Verfahren von § 40 kein Mandat bzw. die letzten Mandate erhalten würden und im untervertretenen Wahlkreis eine Liste eingereicht haben. Bei dieser Berechnung werden nur Parteien berücksichtigt, die bei der regionalen Mandatverteilung mindestens ein Mandat erhalten haben. Die Regelung von § 40 ist sinngemäss anzuwenden.
+- a. jeder Wahlkreis die ihm zugeteilte Anzahl Mandate erhält;
+- b. jede Listengruppe die ihr gemäss Oberzuteilung zugeteilte Anzahl Sitze erhält.
 
-<sup>4</sup> Entfallen auf mehrere Wahlkreise weniger Mandate, als ihnen gemäss § 49 zustehen, so werden ihnen die fehlenden Mandate gemäss dem Verfahren von Abs. 3 zugeteilt. Dabei ist bei demjenigen untervertretenen Wahlkreis zu beginnen, in welchem die das Mandat abgebende Partei zuerst ein weiteres Mandat erhalten würde. Die Regelung von § 40 ist sinngemäss anzuwenden.
+<sup>3</sup> Kommt es bei der Berechnung gemäss Abs. 1 zu gleichwertigen Rundungsmöglichkeiten, zieht die Landschreiberin oder der Landschreiber in Anwesenheit der betroffenen Listenverantwortlichen das Los.
 
 #### § 42
 
 **Bestimmung der Gewählten**
 
-<sup>1</sup> Von jeder Parteiliste sind gemäss der aufgrund von § 41 erhaltenen Sitzzahl diejenigen Kandidaten gewählt, welche die höchsten Stimmenzahlen erhalten haben.
+<sup>1</sup> Von jeder Liste sind nach Massgabe der erreichten Sitze die Kandidatinnen und Kandidaten gewählt, welche am meisten Stimmen erhalten haben.
 
-<sup>2</sup> Bei gleicher Stimmenzahl entscheidet das Los.
+<sup>2</sup> Bei Stimmengleichheit entscheidet das Los. Dieses wird in Anwesenheit der Betroffenen bei kantonalen Wahlen durch die Landschreiberin oder den Landschreiber, bei Gemeindewahlen durch die Gemeindeschreiberin oder den Gemeindeschreiber gezogen.
 
-<sup>3</sup> Die nicht gewählten Kandidaten werden in der Reihenfolge der Stimmenzahlen als Ersatzleute bezeichnet.
+<sup>3</sup> Die nicht gewählten Kandidatinnen und Kandidaten werden in der Reihenfolge der Stimmenzahlen als Ersatzleute bezeichnet.
 
 #### § 43
 
 **Besondere Fälle**
 
-<sup>1</sup> Werden einer Partei in einem Wahlkreis mehr Sitze zugeteilt, als sie Kandidaten aufgestellt hat, so findet eine Ergänzungswahl gemäss § 45 statt.
+<sup>1</sup> Werden einer Liste in einem Wahlkreis mehr Sitze zugeteilt, als sie Kandidatinnen bzw. Kandidaten aufgestellt hat, so findet eine Ergänzungswahl gemäss § 45 statt.
 
 #### § 44
 
@@ -641,9 +641,9 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Wahl des Landrats und des Verfassungsrats erfolgt in den Wahlkreisen gemäss § 48.
 
-<sup>2</sup> Für die Wahlen in den Gemeinden bildet jede Einwohnergemeinde einen Wahlkreis, sofern die Gemeindeordnung nichts anderes bestimmt.
+<sup>2</sup> Für die Wahlen in den Gemeinden bildet jede Einwohnergemeinde einen Wahlkreis, sofern die Gemeindeordnung nichts anderes bestimmt. In diesem Fall gelangt nur die Oberzuteilung gemäss § 40 sinngemäss zur Anwendung.
 
-<sup>3</sup> Sind in einer Gemeinde mehrere Wahlkreise gebildet, so finden für die Mandatzuteilung und die Mandatverteilung die §§ 40, 41 und 49 sinngemäss Anwendung, wobei jede Gemeinde als eine Region betrachtet wird.
+<sup>3</sup> Besteht eine Gemeinde aus mehreren Wahlkreisen, so finden für die Mandatszuteilung und die Mandatsverteilung die § 40, § 41 und § 49 sinngemäss Anwendung.
 
 #### § 48
 
@@ -672,12 +672,12 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Die Mandate werden den Wahlkreisen gemäss folgendem Verfahren zugeteilt:
 
-- a. Die Zahl der Stimmberechtigten wird durch die Zahl der Mandate geteilt. Die auf das Ergebnis folgende nächsthöhere ganze Zahl ist die 1. Verteilzahl. Jeder Wahlkreis, dessen Stimmberechtigtenzahl das Sechsfache der 1. Verteilzahl nicht erreicht, erhält 6 Mandate zugeteilt und scheidet für die weitere Zuteilung aus.
-- b. Die Stimmberechtigtenzahl der verbleibenden Wahlkreise wird durch die Zahl der verbleibenden Mandate geteilt. Die auf das Ergebnis folgende nächsthöhere ganze Zahl ist die 2. Verteilzahl.
-- c. Jeder der verbleibenden Wahlkreise erhält so viele Mandate zugeteilt, als die 2.Verteilzahl in seiner Stimmberechtigtenzahl enthalten ist.
-- d. Restmandate werden jenen Wahlkreisen zugeteilt, welche bei der Teilung gemäss Bst. c die grössten Bruchzahlen aufweisen.
-- e. Haben mehrere Wahlkreise die gleiche Bruchzahl, so wird das letzte Mandat demjenigen Wahlkreis zugeteilt, welcher bei der Teilung gemäss Bst. a die grösste Bruchzahl aufweist.
-- f. Erhält ein Wahlkreis auf diese Weise weniger als 6 Mandate, so werden ihm 6 Mandate zugeteilt. Er scheidet für die gemäss den Bst. b–d neu durchzuführende Zuteilung der verbleibenden Mandate aus.
+- a. Jeder Wahlkreis erhält ein 1. Mandat.
+- b. Die Zahl der Stimmberechtigten wird durch die Zahl der Mandate plus 1, abzüglich der gemäss Bst. a bereits verteilten Mandate, geteilt. Die auf das Ergebnis folgende nächsthöhere ganze Zahl ist die Verteilungszahl. Jeder Wahlkreis erhält so viele Mandate zugeteilt, als die Verteilungszahl in seiner Stimmberechtigtenzahl enthalten ist.
+- c. Werden durch diese Verteilung nicht alle Mandate ermittelt, so wird die Zahl der Stimmberechtigten jedes Wahlkreises durch die um 1 erhöhte Zahl der bereits zugeteilten Mandate geteilt, ohne Berücksichtigung des 1. Mandats nach Bst. a, und das nächstfolgende Mandat dem Wahlkreis mit dem grössten Quotienten zugeteilt. Dieses Verfahren wird fortgesetzt, bis alle Restmandate verteilt sind.
+- d. Haben mehrere Wahlkreise den gleichen Quotienten, so wird das letzte Mandat demjenigen Wahlkreis zugeteilt, welcher bei der Teilung gemäss Bst. b die grösste Bruchzahl aufweist.
+- e. Falls die Bruchzahlen gemäss Bst. d identisch sind, zieht die Landschreiberin oder der Landschreiber in Anwesenheit der Landratspräsidentin oder des Landratspräsidenten das Los.
+- f. …
 
 ## 5 Referendum
 
@@ -1091,7 +1091,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Beim Kantonsgericht (Abteilung Verfassungs- und Verwaltungsrecht) kann Beschwerde erhoben werden:
 
-- a. gegen Entscheide des Regierungsrats über Beschwerden gemäss§ 83 Abs. 1;
+- a. gegen Entscheide des Regierungsrats über Beschwerden gemäss § 83 Abs. 1;
 - b. gegen Verfügungen, Handlungen und Unterlassungen des Regierungsrats wegen Verletzung des Stimmrechts oder wegen mangelhafter Vorbereitung und Durchführung von Abstimmungen und Wahlen;
 - c. gegen Verfügungen der Landeskanzlei nach diesem Gesetz.
 
