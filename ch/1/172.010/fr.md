@@ -4,11 +4,11 @@ title: "Loi du 21 mars 1997 sur l'organisation du gouvernement et de l'administr
 short: LOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: fr
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20250501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20250501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/fr"
 
 (LOGA)
 
-du 21 mars 1997 (État le 1<sup>er</sup> septembre 2023)
+du 21 mars 1997 (État le 1<sup>er</sup> mai 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le messag
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010 (Protection des données lors de l’utilisation de l’infrastructure électronique), en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7693](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
 [^ingress-3]: [FF 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)
 
@@ -385,7 +385,7 @@ Le Conseil fédéral s’entretient des affaires d’importance primordiale lors
 
 <sup>2</sup> Les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^20-1] relatives à la récusation sont applicables en matière de décisions et de recours.
 
-[^20-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 21
 
@@ -440,7 +440,7 @@ Le président de la Confédération:
 - a. veille à ce que le Conseil fédéral s’acquitte de ses obligations dans les délais, avec efficacité et de manière coordonnée;
 - a<sup>bis</sup>.[^25-1] coordonne les affaires de grande importance impliquant plusieurs départements ou ayant une portée majeure pour le pays;
 - b.[^25-2] prépare les délibérations du Conseil fédéral, établit la liste des objets à examiner et cherche à concilier les points de vue s’il y a lieu;
-- [tab] b<sup>bis</sup>.[^25-3] peut charger un membre du Conseil fédéral de soumettre, dans un certain délai, au Conseil fédéral un objet donné;
+- b<sup>bis</sup>.[^25-3] peut charger un membre du Conseil fédéral de soumettre, dans un certain délai, au Conseil fédéral un objet donné;
 - c. veille à ce que le Conseil fédéral organise et exerce efficacement la surveillance de l’administration fédérale;
 - d. peut demander en tout temps des éclaircissements sur des affaires déterminées et propose au Conseil fédéral les mesures qui lui paraissent opportunes.
 
@@ -634,11 +634,10 @@ Les départements gèrent à l’aide de conventions de prestations annuelles:
 
 <sup>3</sup> Si des groupements et des offices gèrent des unités administratives ayant leur propre enveloppe budgétaire, le département peut leur déléguer la compétence de conclure les conventions de prestations avec ces unités.
 
-<sup>4</sup> Dans la convention de prestations, les tâches des unités administratives sont réparties dans des projets et des groupes de prestations. Elles doivent être assorties d’objectifs mesurables.
-
-<sup>5</sup> Les unités administratives établissent chaque année un rapport sur la réalisation de leurs objectifs. Au début de chaque programme de législature, elles examinent la structure et les objectifs de leurs groupes de prestations.
+<sup>4 et <sup>5</sup></sup> …[^38a-2]
 
 [^38a-1]: Introduit par l’annexe ch. 2 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^38a-2]: Abrogés par le ch. I 1 de la LF du 27 sept. 2024 sur des mesures d’allègement financier et administratif à partir de 2025, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [FF 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 #### Art. 39
 
@@ -769,7 +768,7 @@ Il fixe les modalités de la perception des émoluments, en particulier:
 
 <sup>6</sup> Lorsqu’il s’agit de décisions qui peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral, le dossier du Conseil fédéral est confié d’office au département compétent à raison de la matière. Le recours contre les décisions du Conseil fédéral visées à l’art. 33, let. a et b, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^47-1] est réservé.[^47-2]
 
-[^47-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
@@ -987,25 +986,23 @@ La raison d’être, les tâches et la composition des commissions extraparlemen
 
 [^tit4-chap4-sec1-1]
 
-[^tit4-chap4-sec1-1]: Tit. introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010 (Protection des données lors de l’utilisation de l’infrastructure électronique) ([RO 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7693](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Nouvelle teneur selon l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^tit4-chap4-sec1-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010 (Protection des données lors de l’utilisation de l’infrastructure électronique) ([RO 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7693](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Nouvelle teneur selon l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57h
 
-**Gestion des systèmes**[^57h-1]
+**Gestion des systèmes**
 
 <sup>1</sup> Les unités de l’administration fédérale et les Services du Parlement gèrent des systèmes électroniques permettant d’assurer le bon déroulement de leurs processus opérationnels et de gérer des documents, correspondance y comprise.
 
 <sup>2</sup> Ils peuvent donner à d’autres autorités fédérales et à des unités qui sont extérieures à l’administration fédérale un accès à leurs systèmes de gestion des affaires dans la mesure où cet accès est nécessaire au bon déroulement de leurs processus opérationnels.
 
-[^57h-1]: Anciennement art. 57*a*. Nouvelle teneur selon l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-
 #### Art. 57h<sup>bis</sup>
 
-**Traitement de données personnelles et de données concernant des personnes morales**[^57hbis-1]
+**Traitement de données personnelles et de données concernant des personnes morales**
 
 <sup>1</sup>
 
-Les données personnelles, y compris les données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^57hbis-2], ainsi que les données concernant des personnes morales, y compris les données sensibles au sens de l’art. 57*r*, al. 2, de la présente loi, peuvent être traitées dans les systèmes de gestion des affaires dans le but:
+Les données personnelles, y compris les données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^57hbis-1], ainsi que les données concernant des personnes morales, y compris les données sensibles au sens de l’art. 57*r*, al. 2, de la présente loi, peuvent être traitées dans les systèmes de gestion des affaires dans le but:
 
 - a. de traiter des affaires;
 - b. d’organiser le déroulement du travail;
@@ -1018,16 +1015,13 @@ Les données personnelles, y compris les données sensibles au sens de la loi f�
 
 <sup>4</sup> L’accès à des données sensibles au sens de la LPD ainsi qu’à des données sensibles concernant des personnes morales au sens de l’art. 57*r*, al. 2, de la présente loi ne peut être accordé qu’aux personnes auxquelles cet accès est nécessaire pour l’accomplissement de leurs tâches.
 
-[^57hbis-1]: Introduit par l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^57hbis-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57hbis-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57h<sup>ter</sup>
 
-**Dispositions d’exécution**[^57hter-1]
+**Dispositions d’exécution**
 
 Le Conseil fédéral édicte les dispositions d’exécution, en particulier sur l’organisation et l’exploitation des systèmes de gestion des affaires et sur la protection des données personnelles et des données concernant des personnes morales qui y sont enregistrées.
-
-[^57hter-1]: Introduit par l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Traitement de données personnelles et de données concernant des personnes morales lors de l’utilisation de l’infrastructure électronique
 
@@ -1053,7 +1047,7 @@ Les dispositions de la présente section ne sont pas applicables lorsqu’une au
 <sup>2</sup> Les traitements au sens de la présente section peuvent également porter sur des données sensibles au sens de la LPD et des données sensibles concernant des personnes morales au sens de l’art. 57*r*, al. 2, de la présente loi.
 
 [^57j-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^57j-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57k
 
@@ -1205,7 +1199,7 @@ Les organes fédéraux refusent la communication, la restreignent ou l’assorti
 - a. si un intérêt public important ou un intérêt légitime manifeste de la personne morale concernée l’exige, ou
 - b. si une obligation légale de garder le secret ou des prescriptions particulières de protection des données concernant des personnes morales l’exigent.
 
-[^57s-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^57s-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 57t
 

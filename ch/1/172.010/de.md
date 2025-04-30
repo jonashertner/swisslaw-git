@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 (RVOG)
 short: RVOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: de
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20250501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20250501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/de"
 
 (RVOG)
 
-vom 21. März 1997 (Stand am 1. September 2023)
+vom 21. März 1997 (Stand am 1. Mai 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2]
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur), in Kraft seit 1. April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
 [^ingress-3]: [BBl 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)
 
@@ -319,7 +319,7 @@ Der Bundesrat pflegt die Beziehungen zur Öffentlichkeit und informiert sich üb
 
 <sup>3</sup> Der wesentliche Inhalt der Verhandlungen und die Beschlüsse des Bundesrates werden durchgehend schriftlich festgehalten. Das Bundesratsprotokoll gewährleistet deren Nachvollziehbarkeit; es dient dem Bundesrat als Führungsinstrument.[^13-1]
 
-[^13-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). Die Berichtigung der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG - [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)) vom 22. Mai 2017, publiziert am 30. Mai 2017 betrifft nur den französischen Text ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
+[^13-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). Die Berichtigung der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG - [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)) vom 22. Mai 2017, publiziert am 30. Mai 2017 betrifft nur den französischen Text ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
 
 #### Art. 14
 
@@ -385,7 +385,7 @@ Der Bundesrat führt zu Fragen von weit reichender Bedeutung besondere Aussprach
 
 <sup>2</sup> Sind Verfügungen zu treffen oder Beschwerden zu entscheiden, so gelten die Ausstandsbestimmungen des Bundesgesetzes vom 20. Dezember 1968[^20-1] über das Verwaltungsverfahren.
 
-[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 21
 
@@ -634,11 +634,10 @@ Die Departemente führen mit jährlichen Leistungsvereinbarungen:
 
 <sup>3</sup> Führen Gruppen und Ämter Verwaltungseinheiten mit eigenem Globalbudget, so kann ihnen das Departement die Kompetenz zum Abschluss der Leistungsvereinbarungen mit diesen Verwaltungseinheiten delegieren.
 
-<sup>4</sup> In der Leistungsvereinbarung sind die Aufgaben der Verwaltungseinheiten nach Vorhaben und Leistungsgruppen gegliedert. Sie sind mit messbaren Zielen zu versehen.
-
-<sup>5</sup> Die Verwaltungseinheiten berichten jährlich über die Zielerreichung. Zu Beginn jeder Legislaturplanung überprüfen sie die Struktur und die Ziele ihrer Leistungsgruppen.
+<sup>4 und <sup>5</sup></sup> …[^38a-2]
 
 [^38a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^38a-2]: Aufgehoben durch Ziff. I 1 des BG vom 27. Sept. 2024 über die Massnahmen zur finanziellen und administrativen Entlastung ab 2025, mit Wirkung seit 1. Mai 2025 ([AS 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [BBl 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 #### Art. 39
 
@@ -769,7 +768,7 @@ Er regelt die Erhebung von Gebühren im Einzelnen, insbesondere:
 
 <sup>6</sup> Geschäfte des Bundesrates gehen von Rechts wegen auf das in der Sache zuständige Departement über, soweit Verfügungen zu treffen sind, die der Beschwerde an das Bundesverwaltungsgericht unterliegen. Die Beschwerde gegen Verfügungen des Bundesrates nach Artikel 33 Buchstaben a und b des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^47-1] bleibt vorbehalten.[^47-2]
 
-[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-2]: Fassung gemäss Anhang Ziff. 9 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
@@ -1016,7 +1015,7 @@ Personendaten, einschliesslich besonders schützenswerter Personendaten im Sinne
 
 <sup>4</sup> Zugriff auf besonders schützenswerte Personendaten im Sinne des DSG sowie auf besonders schützenswerte Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes darf nur Personen gewährt werden, die diesen zur Erfüllung ihrer Aufgabe benötigen.
 
-[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57h<sup>ter</sup>
 
@@ -1048,7 +1047,7 @@ Die Vorschriften dieses Abschnitts gelten nicht, wenn ein anderes Bundesgesetz d
 <sup>2</sup> Die Datenbearbeitung nach diesem Abschnitt kann auch besonders schützenswerte Personendaten im Sinne des DSG sowie besonders schützenswerte Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes umfassen.
 
 [^57j-1]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57k
 
@@ -1200,7 +1199,7 @@ Die Bundesorgane lehnen die Bekanntgabe ab, schränken sie ein oder verbinden si
 - a. wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen der betroffenen juristischen Person es verlangen; oder
 - b. gesetzliche Geheimhaltungspflichten oder besondere Vorschriften zum Schutz von Daten juristischer Personen es verlangen.
 
-[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 57t
 

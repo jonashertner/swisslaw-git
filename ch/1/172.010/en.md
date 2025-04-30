@@ -4,11 +4,11 @@ title: Government and Administration Organisation Act of 21 March 1997 (GAOA)
 short: GAOA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: en
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20250501/en/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20250501-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20250501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (GAOA)
 
-of 21 March 1997 (Status as of 1 September 2023)
+of 21 March 1997 (Status as of 1 May 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 173 paragraph 2 of the Federal Constitution[^ingress-1],[^ingre
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 1 Oct. 2010 (Data Protection in the Use of Electronic Infrastructure), in force since 1 April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
 [^ingress-3]: [BBl 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)
 
@@ -321,7 +321,7 @@ The Federal Council maintains contact with the general public and ensures they a
 
 <sup>3</sup> The essential content of Federal Council deliberations and decisions are recorded in writing at all times. The Federal Council minutes guarantee transparency and aid the Federal Council as a management instrument.[^13-1]
 
-[^13-1]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 Jan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). The correction by the Federal Assembly Drafting Committee (Art. 58 Abs. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)) of 22 May 2017, published on 30 May 2017 relates to the French text only ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
+[^13-1]: Inserted by No I of the FA of 28 Sept. 2012, in force since 1 Jan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). The correction by the Federal Assembly Drafting Committee (Art. 58 Abs. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)) of 22 May 2017, published on 30 May 2017 relates to the French text only ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
 
 #### Art. 14
 
@@ -387,7 +387,7 @@ The Federal Council holds special discussions and closed-door meetings on issues
 
 <sup>2</sup> If the Council is making a ruling or deciding on an appeal, the provisions on recusal of the Federal Act of 20 December 1968[^20-1] on Administrative Procedure apply.
 
-[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 21
 
@@ -636,11 +636,10 @@ The departments shall manage the following with annual service agreements:
 
 <sup>3</sup> Where groups and offices manage administrative units with their own global budgets, the department may delegate the power to them to conclude the service agreements with these administrative units.
 
-<sup>4</sup> In the service agreement, the tasks of the administrative units are set out according to projects and service groups. They must be given measurable goals.
-
-<sup>5</sup> The administrative units report annually on the achievement of their goals. At the start of each legislature plan, they shall review the structure and goals of their service groups.
+<sup>4</sup> and <sup>5</sup> …[^38a-2]
 
 [^38a-1]: Inserted by Annex No 2 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^38a-2]: Repealed by No I 1 of the FA of 27 Sept. 2024 on Measures for Financial and Administrative Relief from 2025, with effect from 1 May 2025 ([AS 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [BBl 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 #### Art. 39
 
@@ -771,7 +770,7 @@ It regulates the charging of fees in detail, in particular:
 
 <sup>6</sup> Federal Council business is delegated by law to the department competent for the matter concerned where rulings must be issued that are subject to an appeal to the Federal Administrative Court. The appeal against Federal Council rulings under Article 33 letters a and b of the Administrative Court Act of 17 June 2005[^47-1] is reserved.[^47-2]
 
-[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-2]: Amended by Annex No 9 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
@@ -1018,7 +1017,7 @@ Personal data, including sensitive personal data in terms of the Data Protection
 
 <sup>4</sup> Access to sensitive personal data in terms of the FADP and to sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act may only be granted to persons who require access in order to fulfil their task.
 
-[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57h<sup>ter</sup>
 
@@ -1050,7 +1049,7 @@ The regulations in this section do not apply if another federal act regulates th
 <sup>2</sup> Data processing as described in this Section may also involve personal data in terms of the FADP and sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act.
 
 [^57j-1]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57k
 
@@ -1203,7 +1202,7 @@ The federal bodies shall refuse to permit, or shall restrict or impose condition
 - a. essential public interests or the clearly legitimate interests of the legal entity concerned so require; or
 - b. statutory confidentiality duties or specific regulations on the protection of legal entities’ data so require.
 
-[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 57t
 
@@ -1394,7 +1393,7 @@ The Confederation exercises domiciliary rights in its buildings.
 
 The Federal Act of 19 September 1978[^63-1] on the Organisation and Management of the Federal Council and the Federal Administration is repealed.
 
-[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170),[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2;, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1]
+[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170),[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1]
 
 #### Art. 64
 

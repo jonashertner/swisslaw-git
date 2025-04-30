@@ -4,11 +4,11 @@ title: "Lescha dals 21 da mars 1997 davart l'organisaziun da la regenza e da l'a
 short: LORA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: rm
-version: 2023-09-01
+version: 2025-05-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20250501/rm/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20250501-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20250501/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LORA)
 
-dals 21 da mars 1997 (versiun dal 1. da settember 2023)
+dals 21 da mars 1997 (versiun dal 1. da matg 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 173 alinea 2 da la Constituziun federala[^ingress-1],
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2010 (protecziun da datas en il rom da l’utilisaziun da l’infrastructura electronica), en vigur dapi il 1. d’avr. 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
 [^ingress-3]: [BBl 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)
 
@@ -321,7 +321,7 @@ Il Cussegl federal tgira las relaziuns cun la publicitad e s’infurmescha davar
 
 <sup>3</sup> Il cuntegn essenzial da las tractativas e las decisiuns dal Cussegl federal vegnan adina fixads en scrit. Il protocol dal Cussegl federal garantescha la chapaivladad da las decisiuns; el serva al Cussegl federal sco instrument directiv.[^13-1]
 
-[^13-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). La rectificaziun da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)) dals 22 da matg 2017, publitgada ils 30 da matg 2017, concerna mo il text franzos ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
+[^13-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)). La rectificaziun da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)) dals 22 da matg 2017, publitgada ils 30 da matg 2017, concerna mo il text franzos ([AS 2017 3259](https://fedlex.data.admin.ch/eli/oc/2017/333)).
 
 #### Art. 14
 
@@ -387,7 +387,7 @@ Per dumondas da fitg gronda impurtanza fa il Cussegl federal reuniuns e sedutas 
 
 <sup>2</sup> Per prender disposiziuns u per decider davart recurs valan las disposiziuns da recusaziun da la Lescha federala dals 20 da december 1968[^20-1] davart la procedura administrativa.
 
-[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 21
 
@@ -636,11 +636,10 @@ Cun agid da cunvegnas da prestaziun annualas mainan ils departaments:
 
 <sup>3</sup> Sche gruppas ed uffizis mainan unitads administrativas cun in agen preventiv global, po il departament delegar a questas gruppas ed a quests uffizis la cumpetenza da concluder cunvegnas da prestaziun cun questas unitads administrativas.
 
-<sup>4</sup> En la cunvegna da prestaziun èn repartidas las incumbensas da las unitads administrativas tenor projects e tenor gruppas da prestaziun. Ellas ston vegnir munidas cun finamiras mesirablas.
-
-<sup>5</sup> Las unitads administrativas rapportan annualmain davart l’adempliment da las finamiras. Al cumenzament da la planisaziun da mintga legislatura examineschan ellas la structura e las finamiras da lur gruppas da prestaziun.
+<sup>4 e <sup>5</sup></sup> …[^38a-2]
 
 [^38a-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 26 da sett. 2014 (nov model da gestiun per l’administraziun federala), en vigur dapi il 1. da schan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^38a-2]: Abolì tras la cifra I 1 da la LF dals 27 da sett. 2024 davart las mesiras da distgargia finanziala ed administrativa a partir dal 2025, cun effect dapi il 1. da matg 2025 ([AS 2025 196](https://fedlex.data.admin.ch/eli/oc/2025/196); [BBl 2024 558](https://fedlex.data.admin.ch/eli/fga/2024/558)).
 
 #### Art. 39
 
@@ -704,7 +703,7 @@ En accord cun la Chanzlia federala prenda il schef dal departament las mesiras a
 
 Ils directurs da las gruppas e dals uffizis èn responsabels envers lur superiurs per manar las unitads administrativas ch’èn subordinadas ad els sco er per ademplir las incumbensas ch’èn delegadas ad els.
 
-### 4. part Secretaris dal stadi
+### 4. part Secretaris da stadi
 
 [^tit3-chap2-sec4-1]
 
@@ -714,17 +713,17 @@ Ils directurs da las gruppas e dals uffizis èn responsabels envers lur superiur
 
 **Nominaziun e funcziun**[^45a-1]
 
-<sup>1</sup> Il Cussegl federal po conferir il titel d’in secretari dal stadi a directurs d’uffizis u da gruppas ch’èn responsabels per champs d’incumbensa impurtants d’in departament. Uffizis u gruppas che vegnan manads d’in secretari dal stadi pon vegnir designads sco secretariats dal stadi.
+<sup>1</sup> Il Cussegl federal po conferir il titel d’in secretari da stadi a directurs d’uffizis u da gruppas ch’èn responsabels per champs d’incumbensa impurtants d’in departament. Uffizis u gruppas che vegnan manads d’in secretari da stadi pon vegnir designads sco secretariats da stadi.
 
-<sup>2</sup> Ils secretaris dal stadi sustegnan e distgargian ils schefs dals departaments, en spezial en las relaziuns cun l’exteriur.
+<sup>2</sup> Ils secretaris da stadi sustegnan e distgargian ils schefs dals departaments, en spezial en las relaziuns cun l’exteriur.
 
 [^45a-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
 
 #### Art. 46
 
-**Surdada temporara dal titel «secretari dal stadi»**[^46-1]
+**Surdada temporara dal titel «secretari da stadi»**[^46-1]
 
-Il Cussegl federal po surdar temporarmain il titel «secretari dal stadi» a persunas da l’administraziun federala, sch’ellas represchentan per sia incumbensa la Svizra a tractativas internaziunalas sin il nivel il pli aut.
+Il Cussegl federal po surdar temporarmain il titel «secretari da stadi» a persunas da l’administraziun federala, sch’ellas represchentan per sia incumbensa la Svizra a tractativas internaziunalas sin il nivel il pli aut.
 
 [^46-1]: Versiun tenor la cifra I da la LF dals 28 da sett. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
 
@@ -771,7 +770,7 @@ El regla l’incassament da taxas en il cas singul, en spezial:
 
 <sup>6</sup> Sch’i sa tracta da prender disposiziuns ch’èn suttamessas ad in recurs tar il Tribunal administrativ federal, vegnan affars dal Cussegl federal confidads tenor la lescha al departament ch’è cumpetent en chaussa. Il recurs cunter disposiziuns dal Cussegl federal tenor l’artitgel 33 literas a e b da la Lescha dals 17 da zercladur 2005[^47-1] davart il Tribunal administrativ federal resta resalvà.[^47-2]
 
-[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-2]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
@@ -1018,7 +1017,7 @@ Datas persunalas, inclusiv datas persunalas spezialmain sensiblas en il senn da 
 
 <sup>4</sup> L’access a datas persunalas spezialmain sensiblas en il senn da la LPD sco er a datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha dastga vegnir concedì mo a persunas che dovran quest access per ademplir lur incumbensa.
 
-[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57h<sup>ter</sup>
 
@@ -1050,7 +1049,7 @@ Las prescripziuns da questa part na valan betg, sch’ina autra lescha federala 
 <sup>2</sup> L’elavuraziun da datas tenor questa part po er cumpigliar datas persunalas spezialmain sensiblas en il senn da la LPD sco er datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha.
 
 [^57j-1]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 57k
 
@@ -1202,7 +1201,7 @@ Ils organs federals refusan la communicaziun, restrenschan ella u permettan ella
 - a. interess publics impurtants u interess evidentamain degns da protecziun da vart da la persuna giuridica pertutgada pretendan quai; u
 - b. obligaziuns legalas da mantegnair il secret u prescripziuns davart la protecziun da datas da persunas giuridicas pretendan quai.
 
-[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 57t
 
