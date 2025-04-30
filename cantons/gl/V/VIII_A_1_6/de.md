@@ -4,13 +4,13 @@ number: VIII A/1/6
 title: Pflege- und Betreuungsverordnung
 short: PBV
 language: de
-version: 2024-01-01
-valid_until: 2025-04-30
-version_adopted: 2023-11-21
+version: 2025-05-01
+valid_until: 2025-12-31
+version_adopted: 2025-03-04
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2453/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2453/pdf_file"
 
 (PBV)
 
-Vom 29.11.2022 (Stand 01.01.2024)
+Vom 29.11.2022 (Stand 01.05.2025)
 
 Der Regierungsrat,
 
@@ -58,15 +58,15 @@ erlässt:
 
 **Zuständiges Departement**
 
-<sup>1</sup> Zuständiges Departement ist das Departement Volkswirtschaft und Inneres (Departement).
+<sup>1</sup> Zuständiges Departement ist das Departement Finanzen und Gesundheit (Departement).
 
 <sup>2</sup> Es ist für die Erteilung der Betriebsbewilligungen und die Aufsicht über die bewilligungspflichtigen Einrichtungen zuständig. Im Übrigen übt es die Aufgaben nach dieser Verordnung und die unmittelbare Aufsicht über den Vollzug aus.
 
 #### Art. 4
 
-**Fachstelle Pflege und Betreuung**
+**Hauptabteilung Gesundheit**
 
-<sup>1</sup> Die Fachstelle Pflege und Betreuung (Fachstelle) vollzieht das PBG und diese Verordnung, soweit diese nichts anderes bestimmen.
+<sup>1</sup> Die Hauptabteilung Gesundheit (Hauptabteilung) vollzieht das PBG und diese Verordnung, soweit diese nichts anderes bestimmen.
 
 #### Art. 5
 
@@ -77,7 +77,7 @@ erlässt:
 <sup>2</sup> Die Leitung der Kommission obliegt der Departementsvorsteherin oder dem Departementsvorsteher des Departements. Im Übrigen setzt sie sich aus Vertretern folgender Organisationen bzw. deren Verbände zusammen:
 
 - a. des Departements;
-- b. des Departements Finanzen und Gesundheit;
+- b. …
 - c. der Gemeinden;
 - d. der ambulanten Leistungserbringer;
 - e. der stationären Leistungserbringer;
@@ -212,7 +212,7 @@ erlässt:
 
 **Meldepflicht**
 
-<sup>1</sup> Änderungen von bewilligungs- oder zulassungsrelevanten Tatbeständen sind der Fachstelle unverzüglich und unaufgefordert schriftlich unter Beilage der erforderlichen Unterlagen zu melden.
+<sup>1</sup> Änderungen von bewilligungs- oder zulassungsrelevanten Tatbeständen sind der Hauptabteilung unverzüglich und unaufgefordert schriftlich unter Beilage der erforderlichen Unterlagen zu melden.
 
 <sup>2</sup> Als bewilligungs- oder zulassungsrelevante Tatbestände gelten insbesondere die in Artikel 7 genannten Angaben.
 
@@ -222,9 +222,9 @@ erlässt:
 
 **Aufsicht**
 
-<sup>1</sup> Die Fachstelle besucht mindestens alle vier Jahre die bewilligten Einrichtungen. Sie prüft, ob die Bewilligungsvoraussetzungen eingehalten und das Wohlergehen der Leistungsbezügerinnen und Leistungsbezüger gewährleistet sind.
+<sup>1</sup> Die Hauptabteilung besucht mindestens alle vier Jahre die bewilligten Einrichtungen. Sie prüft, ob die Bewilligungsvoraussetzungen eingehalten und das Wohlergehen der Leistungsbezügerinnen und Leistungsbezüger gewährleistet sind.
 
-<sup>2</sup> Der Fachstelle ist jederzeit Einsicht in die für die Wahrnehmung der Aufsicht erforderlichen Akten zu geben.
+<sup>2</sup> Der Hauptabteilung ist jederzeit Einsicht in die für die Wahrnehmung der Aufsicht erforderlichen Akten zu geben.
 
 ## 3. Versorgung
 
@@ -356,14 +356,14 @@ erlässt:
 
 **Befreiung von der Versorgungspflicht**
 
-<sup>1</sup> Ein Leistungserbringer kann von der Fachstelle von der Versorgungspflicht befreit werden:
+<sup>1</sup> Ein Leistungserbringer kann von der Hauptabteilung von der Versorgungspflicht befreit werden:
 
 - a. bei aufwendigen Therapien, welche den Einsatz von ständig zu überwachenden medizinischen Geräten erfordern;
 - b. wenn die Pflege und Betreuung aus fachlichen, menschlichen oder wirtschaftlichen Gründen nicht mehr verantwortbar ist.
 
 <sup>2</sup> Er trifft in diesen Fällen geeignete Massnahmen oder hilft bei der Suche nach einem geeigneten Leistungserbringer.
 
-<sup>3</sup> In dringenden Fällen kann der Leistungserbringer seine Leistungen unmittelbar einstellen. Er informiert umgehend die Fachstelle.
+<sup>3</sup> In dringenden Fällen kann der Leistungserbringer seine Leistungen unmittelbar einstellen. Er informiert umgehend die Hauptabteilung.
 
 #### Art. 27
 
@@ -454,7 +454,7 @@ erlässt:
 - a. Beitrag der Leistungsbezügerin bzw. des Leistungsbezügers;
 - b. Beitrag des Kantons.
 
-<sup>7</sup> Die Fachstelle definiert die Anforderungen an die Rechnungsstellung gegenüber dem Kanton für die Restfinanzierung (Art. 31) und die Mitfinanzierung ambulanter Leistungen (Art. 32).
+<sup>7</sup> Die Hauptabteilung definiert die Anforderungen an die Rechnungsstellung gegenüber dem Kanton für die Restfinanzierung (Art. 31) und die Mitfinanzierung ambulanter Leistungen (Art. 32).
 
 ### 3.3. Information und Beratung
 
@@ -469,7 +469,7 @@ erlässt:
 - a. die pflege- oder betreuungsbedürftige Person ihren Wohnsitz im Kanton Glarus hat;
 - b. die Person glaubhaft macht, dass sie die Massnahme nicht selber finanzieren kann und auch Beiträge Dritter nicht bzw. nur mit einem unverhältnismässigen Aufwand erhältlich sind;
 - c. die Massnahme mit einem Beratungsgespräch verbunden ist; und
-- d. die Massnahme geeignet ist, pflegende- oder betreuende Bezugspersonen zu entlasten oder einen Heimeintritt zu verzögern oder ganz zu vermeiden.
+- d. die Massnahme geeignet ist, den Gesundheitszustand der pflege- oder betreuungsbedürftigen Person zu stabilisieren oder zu verbessern, pflegende- oder betreuende Bezugspersonen zu entlasten oder einen Heimeintritt zu verzögern oder ganz zu vermeiden.
 
 <sup>3</sup> Über Beiträge an Massnahmen gemäss Absatz 2 von mehr als 3000 Franken entscheidet das Departement Finanzen und Gesundheit.
 
@@ -498,7 +498,7 @@ erlässt:
 
 <sup>4</sup> Der Kantonsbeitrag wird an die gesuchstellende Person ausbezahlt, sofern diese die Voraussetzungen gemäss Absatz 2 nachweist und eine Anmeldebestätigung eines anerkannten Kurses vorlegt.
 
-<sup>5</sup> Nach Abschluss des Kurses ist der Fachstelle eine Bestätigung über die erfolgreiche Absolvierung einzureichen. Der Kantonsbeitrag ist vollumfänglich zu erstatten, falls der Kurs nicht oder nicht vollständig absolviert wurde.
+<sup>5</sup> Nach Abschluss des Kurses ist der Hauptabteilung eine Bestätigung über die erfolgreiche Absolvierung einzureichen. Der Kantonsbeitrag ist vollumfänglich zu erstatten, falls der Kurs nicht oder nicht vollständig absolviert wurde.
 
 #### Art. 36
 
@@ -516,13 +516,13 @@ erlässt:
 
 **Beitragsgewährung**
 
-<sup>1</sup> Beiträge gemäss Artikel 35 und 36 sind durch die Bezugspersonen bei der Fachstelle mit dem dafür vorgesehenen Formular zu beantragen.
+<sup>1</sup> Beiträge gemäss Artikel 35 und 36 sind durch die Bezugspersonen bei der Hauptabteilung mit dem dafür vorgesehenen Formular zu beantragen.
 
-<sup>2</sup> Die Fachstelle befindet über die Beitragsgewährung mit anfechtbarer Verfügung.
+<sup>2</sup> Die Hauptabteilung befindet über die Beitragsgewährung mit anfechtbarer Verfügung.
 
 <sup>3</sup> Die Beiträge gemäss Artikel 36 werden frühestens ab dem Monat des Antragseingangs für längstens zwölf Monate gewährt. Für eine Fortführung ist ein erneuter Antrag zu stellen.
 
-<sup>4</sup> Die Bezugspersonen sind verpflichtet, sämtliche Änderungen der Beitragsvoraussetzungen der Fachstelle zu melden. Allfällige zu Unrecht ausbezahlte Beiträge sind dem Kanton zurückzuerstatten.
+<sup>4</sup> Die Bezugspersonen sind verpflichtet, sämtliche Änderungen der Beitragsvoraussetzungen der Hauptabteilung zu melden. Allfällige zu Unrecht ausbezahlte Beiträge sind dem Kanton zurückzuerstatten.
 
 ## 5. Weitere Bestimmungen
 
@@ -551,7 +551,7 @@ erlässt:
 
 **Datenerhebung**
 
-<sup>1</sup> Die Leistungserbringer mit Leistungsvereinbarung sind verpflichtet, der Fachstelle jährlich bis Ende April des Folgejahres folgende Unterlagen einzureichen:
+<sup>1</sup> Die Leistungserbringer mit Leistungsvereinbarung sind verpflichtet, der Hauptabteilung jährlich bis Ende April des Folgejahres folgende Unterlagen einzureichen:
 
 - a. die Jahresrechnung, bestehend aus Bilanz, Erfolgsrechnung, Anhang und Revisionsbericht;
 - b. den Jahresbericht;
@@ -561,7 +561,7 @@ erlässt:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die Software der Fachstelle darf zum Zweck der Überprüfung der Rechnungen gemäss Artikel 31–33 und der Beiträge gemäss Artikel 35–37 mittels automatischem Abgleichverfahren mit der kantonalen Datenplattform der Einwohnerregister verknüpft werden.
+<sup>1</sup> Die Software der Hauptabteilung darf zum Zweck der Überprüfung der Rechnungen gemäss Artikel 31–33 und der Beiträge gemäss Artikel 35–37 mittels automatischem Abgleichverfahren mit der kantonalen Datenplattform der Einwohnerregister verknüpft werden.
 
 <sup>2</sup> Der automatisierte Zugriff und Abgleich betrifft die Personendaten der Merkmalsgruppen 1–4 und 6 gemäss Anhang 1 der Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^40-1].
 
