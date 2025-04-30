@@ -3,20 +3,20 @@ canton: BL
 number: "107.11"
 title: Kantonale Statistikverordnung
 language: de
-version: 2023-03-01
-valid_until: 2025-04-30
-version_adopted: 2023-02-07
+version: 2025-05-01
+valid_until: 2026-01-31
+version_adopted: 2025-03-25
 adopted: 2008-06-17
 in_force: 2008-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/107.11"
-pdf: "https://bl.clex.ch/api/de/versions/3648/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Statistikverordnung
 
-Vom 17.06.2008 (Stand 01.03.2023)
+Vom 17.06.2008 (Stand 01.05.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt:
 
-- a. führt die Statistischen Erhebungen durch;
+- a. führt die statistischen Erhebungen durch;
 - b. kann einzelne statistische Arbeiten an Dritte übertragen und stellt dabei sicher, dass der Datenschutz gewährleistet ist;
 - c. unterstützt im Rahmen seiner personellen Kapazitäten kantonale Verwaltungsstellen bei deren statistischen Tätigkeiten.
 
@@ -47,9 +47,9 @@ beschliesst:
 
 **Statistische Prinzipien**
 
-<sup>1</sup> Die Statistischen Erhebungen werden nach anerkannten beruflichen Grundsätzen, auf der Basis wissenschaftlicher Methoden, interdisziplinär sowie fachlich unabhängig durchgeführt (Professionalitätsprinzip).
+<sup>1</sup> Die statistischen Erhebungen werden nach anerkannten beruflichen Grundsätzen, auf der Basis wissenschaftlicher Methoden, interdisziplinär sowie fachlich unabhängig durchgeführt (Professionalitätsprinzip).
 
-<sup>2</sup> Die Ergebnisse der Statistischen Erhebungen sind unter Wahrung des Datenschutzes öffentlich (Öffentlichkeitsprinzip).
+<sup>2</sup> Die Ergebnisse der statistischen Erhebungen sind unter Wahrung des Datenschutzes öffentlich (Öffentlichkeitsprinzip).
 
 <sup>3</sup> Sie werden transparent dargestellt und insbesondere mit Angaben zum Geltungsbereich, zu den Quellen sowie zu den Erhebungs- und Auswertungsmethoden ergänzt (Transparenzprinzip).
 
@@ -57,23 +57,28 @@ beschliesst:
 
 **Statistikregister**
 
-<sup>1</sup> Das Amt führt als Statistikregister gemäss § 6 des Gesetzes das Bodenpreisregister.
+<sup>1</sup> Das Amt führt als Statistikregister gemäss § 6 des Gesetzes die folgenden Statistikregister:
+
+- a. Statistikregister der Bodenpreise;
+- b. Statistikregister der Bildungsinstitutionen.
+
+<sup>2</sup> Die Einzelheiten der Statistikregister sind im Anhang 1 aufgeführt.
 
 #### § 4
 
 **Statistische Erhebungen**
 
-<sup>1</sup> Das Amt führt die folgenden kantonalen Statistischen Erhebungen durch:
+<sup>1</sup> Das Amt führt die folgenden kantonalen statistischen Erhebungen durch:
 
 - a. Steuerstatistik;
-- b. Steuerfüsse und -sätze, Gebühren und Ersatzabgaben;
+- b. Statistik der Steuerfüsse, Gebühren und Ersatzabgaben;
 - c. Bodenpreisstatistik;
 - d. Energiestatistik;
 - e. …
 - f. …
 - g. \* Statistik der Checks in der Volksschule.
 
-<sup>2</sup> Es führt die folgenden vom Bund angeordneten Statistiktätigkeiten durch und erweitert sie mit kantonalen Statistischen Erhebungen:
+<sup>2</sup> Es führt die folgenden vom Bund angeordneten Statistiktätigkeiten durch und erweitert sie mit kantonalen statistischen Erhebungen:
 
 - a. Staatsfinanzstatistik;
 - b. Gemeindefinanzstatistik;
@@ -90,14 +95,14 @@ beschliesst:
 - b. Medizinische Statistik;
 - c. Statistik der sozialmedizinischen Institutionen;
 - d. Spitexstatistik;
-- e. Sozialhilfestatistik;
+- e. …
 - f. Statistik der Bildungsabschlüsse.
 
 #### § 4a
 
-**Einzelheiten der Statistischen Erhebungen**
+**Einzelheiten der statistischen Erhebungen**
 
-<sup>1</sup> Die Einzelheiten der Statistischen Erhebungen gemäss § 4 sind im Anhang 1 aufgeführt.
+<sup>1</sup> Die Einzelheiten der statistischen Erhebungen gemäss § 4 sind im Anhang 2 aufgeführt.
 
 #### § 5
 
