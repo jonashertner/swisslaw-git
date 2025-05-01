@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Landwirtschaftliches Verordnungspaket 2025
 document: Vernehmlassungsvorlage
 language: de

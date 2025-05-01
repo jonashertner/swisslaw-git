@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Train d'ordonnances agricoles 2025"
 document: Projet mis en consultation
 language: fr
