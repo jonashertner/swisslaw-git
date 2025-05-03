@@ -3,20 +3,20 @@ canton: GL
 number: I A/1/1
 title: Verfassung des Kantons Glarus
 language: de
-version: 2023-01-01
-valid_until: 2025-05-03
-version_adopted: 2021-09-05
+version: 2025-05-04
+valid_until: 2025-10-20
+version_adopted: 2025-05-04
 adopted: 1988-05-01
 in_force: 1988-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2372/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Glarus
 
-Vom 01.05.1988 (Stand 01.01.2023)
+Vom 01.05.1988 (Stand 04.05.2025)
 
 Das Volk des Landes Glarus, eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft, gibt sich folgende
 
@@ -532,7 +532,7 @@ Verfassung:
 
 <sup>1</sup> Alle Schweizer sind im Kanton und in der Gemeinde stimmberechtigt, wenn sie hier wohnhaft sind und das 16. Altersjahr zurückgelegt haben.
 
-<sup>2</sup> Ausgeschlossen vom Stimmrecht ist, wer wegen geistiger Behinderung oder psychischer Störung unter umfassender Beistandschaft steht.
+<sup>2</sup> …
 
 <sup>3</sup> Das Stimmrecht wird an der Landsgemeinde und im Übrigen, soweit das Gesetz keine Erleichterungen vorsieht, am Wohnort ausgeübt; es wird mit der Niederlassung erlangt.
 
@@ -552,6 +552,14 @@ Verfassung:
 - a. an der Gemeindeversammlung oder an der Urne zu wählen und, ab zurückgelegtem 18. Altersjahr, gewählt zu werden;
 - b. Anträge zuhanden der Gemeindeversammlung zu stellen;
 - c. an der Gemeindeversammlung zu raten sowie an der Gemeindeversammlung oder an der Urne abzustimmen.
+
+#### Art. 57a
+
+**Politische Partizipation**
+
+<sup>1</sup> Der Kanton fördert die politische Partizipation.
+
+<sup>2</sup> Der Regierungsrat kann Massnahmen dazu ergreifen, damit auch stimmen kann, wer insbesondere wegen einer Behinderung unfähig ist, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen.
 
 #### Art. 58
 
@@ -607,7 +615,7 @@ Verfassung:
 
 <sup>3</sup> …
 
-<sup>4</sup> Das Landsgemeindememorial wird in einer ausreichenden Anzahl spätestens vier Wochen vor der Landsgemeinde an die Stimmberechtigten verteilt.
+<sup>4</sup> Das Landsgemeindememorial wird den Stimmberechtigten spätestens vier Wochen vor der Landsgemeinde zugänglich gemacht.
 
 <sup>5</sup> …
 
@@ -623,7 +631,7 @@ Verfassung:
 
 <sup>4</sup> …
 
-<sup>5</sup> Der Regierungsrat kann Massnahmen zur Erleichterung der Teilnahme treffen, besonders für Stimmberechtigte aus entfernteren Gemeinden.
+<sup>5</sup> Der Kanton kann Massnahmen zur Erleichterung der Teilnahme treffen.
 
 #### Art. 64
 
