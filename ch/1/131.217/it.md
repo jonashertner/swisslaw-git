@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Costituzione del Cantone di Glarona, del 1<sup>o</sup> maggio 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: it
-version: 2023-03-06
+version: 2025-05-04
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/it"
 
 Traduzione[^t-1]
 
-del 1° maggio 1988 (Stato 6 marzo 2023)[^t-2]
+del 1° maggio 1988 (Stato 4 maggio 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 **Preambolo**
 
@@ -175,7 +175,7 @@ Qualsiasi attività dello Stato dev’essere conforme al diritto e proporzionata
 
 <sup>1</sup> Il Cantone, i Comuni e gli altri enti incaricati di compiti pubblici rispondono dei danni causati illecitamente dalle persone che agiscono per essi. La legge disciplina i particolari, segnatamente l’estensione della responsabilità, l’applicabilità di altre norme in materia di responsabilità e il regresso contro i responsabili.[^18-1]
 
-<sup>2</sup> e <sup>3</sup> [^18-2]
+<sup>2 e <sup>3</sup></sup> [^18-2]
 
 [^18-1]: Accettato nella Landsgemeinde del 4 mag. 2014, in vigore dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 [^18-2]: Abrogati dalla Landsgemeinde del 4 mag. 2014, con effetto dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
@@ -586,11 +586,12 @@ La perequazione finanziaria consiste in una compensazione delle risorse e in una
 
 <sup>1</sup> Hanno diritto di voto nel Cantone e nel Comune i cittadini svizzeri d’ambo i sessi che vi sono domiciliati e che hanno compiuto i 16 anni.[^56-1]
 
-<sup>2</sup> È escluso dal diritto di voto chi è interdetto per infermità o debolezza mentali.
+<sup>2</sup> …[^56-2]
 
 <sup>3</sup> Il diritto di voto si esercita nella Landsgemeinde e, per il resto, per quanto la legge non preveda agevolazioni, nel proprio luogo di domicilio; il diritto di voto si ottiene con il domicilio.
 
 [^56-1]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 6 mag. 2007. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^56-2]: Abrogato nella Landsgemeinde del 4 mag. 2025, con effetto dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
 
 #### Art. 57
 
@@ -615,6 +616,16 @@ In materia comunale, l’avente diritto di voto ha il diritto di:
 
 [^57-1]: Accettata nella Landsgemeinde del 6 mag. 2007, in vigore dal 6 mag. 2007. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^57-2]: Accettata nella Landsgemeinde del 6 mag. 2007, in vigore dal 6 mag. 2007. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 57a
+
+**Partecipazione politica**[^57a-1]
+
+<sup>1</sup> Il Cantone promuove la partecipazione politica.
+
+<sup>2</sup> Il Consiglio di Stato può prendere provvedimenti per garantire alle persone che non sono in grado di compiere gli atti necessari per partecipare alla votazione, in particolare a causa di una disabilità, di poter votare.
+
+[^57a-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
 
 #### Art. 58
 
@@ -680,12 +691,12 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 
 <sup>3</sup> ...[^62-1]
 
-<sup>4</sup> Il memoriale della Landsgemeinde è distribuito in un numero sufficiente di esemplari agli aventi diritto di voto almeno quattro settimane prima della Landsgemeinde.[^62-2]
+<sup>4</sup> Il memoriale della Landsgemeinde è reso accessibile agli aventi diritto di voto almeno quattro settimane prima della Landsgemeinde.[^62-2]
 
 <sup>5</sup> ...[^62-3]
 
 [^62-1]: Abrogato nella Landsgemeinde del 1° mag. 2022, con effetto dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^62-2]: Accettata nella Landsgemeinde del 7 mag. 2017, in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
 [^62-3]: Abrogato nella Landsgemeinde del 7 mag. 2017, con effetto dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 63
@@ -700,9 +711,10 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 
 <sup>4</sup> ...[^63-1]
 
-<sup>5</sup> Il Consiglio di Stato può prendere provvedimenti per agevolare la partecipazione alla Landsgemeinde, in particolare per gli aventi diritto di voto che risiedono in Comuni discosti.
+<sup>5</sup> Il Cantone può prendere provvedimenti per agevolare la partecipazione alla Landsgemeinde.[^63-2]
 
 [^63-1]: Abrogato nella Landsgemeinde del 7 mag. 2017, con effetto dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^63-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 (FF 2026 1668 art. 2, 771)
 
 #### Art. 64
 
@@ -1305,7 +1317,7 @@ Incombe al Consiglio di Stato:
 
 <sup>1</sup> La legge disciplina l’organizzazione e le competenze dei tribunali, nonché la procedura in sede di giudizio.
 
-<sup>2</sup> a <sup>4</sup> ...[^112-3]
+<sup>2 a <sup>4</sup></sup> ...[^112-3]
 
 [^112-1]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 [^112-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
@@ -2891,6 +2903,8 @@ Organizzazione/i
 Pace
 
 - [tab] – confessionale 7
+
+Partecipazione politica 57*a*
 
 Periodo amministrativo
 

@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Constitution du canton de Glaris, du 1<sup>er</sup> mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: fr
-version: 2023-03-06
+version: 2025-05-04
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/fr"
 
 Traduction[^t-1]
 
-du 1<sup>er</sup> mai 1988 (État le 6 mars 2023)[^t-2]
+du 1<sup>er</sup> mai 1988 (État le 4 mai 2025)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 **Préambule**
 
@@ -175,7 +175,7 @@ Toute activité étatique doit être conforme au droit et respecter les principe
 
 <sup>1</sup> Le canton, les communes et les autres institutions assumant des tâches publiques répondent des dommages causés sans droit, dans le cadre de leur activité, par les personnes qu’ils emploient. La loi règle les modalités, notamment l’extension de la responsabilité, l’applicabilité d’autres normes sur la responsabilité et la possibilité de se retourner contre la personne responsable.[^18-1]
 
-<sup>2</sup> et <sup>3</sup> …[^18-2]
+<sup>2 et <sup>3</sup></sup> …[^18-2]
 
 [^18-1]: Accepté par la *Landsgemeinde* du 4 mai 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 [^18-2]: Abrogés par la *Landsgemeinde* du 4 mai 2014, avec effet au 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
@@ -587,11 +587,12 @@ La péréquation financière comprend la péréquation des ressources et la comp
 
 <sup>1</sup> Ont le droit de vote dans le canton et dans la commune tous les citoyens suisses qui y sont domiciliés et qui ont atteint l’âge de 16 ans révolus.[^56-1]
 
-<sup>2</sup> Est exclu du droit de vote celui qui est interdit pour cause de maladie mentale ou de faiblesse d’esprit.
+<sup>2</sup> …[^56-2]
 
 <sup>3</sup> Le droit de vote est exercé à la *Landsgemeinde* et, pour le reste, pour autant que la loi ne prévoie pas de facilités, au domicile; il s’acquiert avec l’établissement.
 
 [^56-1]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 6 mai 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^56-2]: Abrogé par la *Landsgemeinde* du 4 mai 2025, avec effet au 4 mai 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 57
 
@@ -616,6 +617,16 @@ En matière communale, tout citoyen actif a le droit:
 
 [^57-1]: Acceptée par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 6 mai 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^57-2]: Acceptée par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 6 mai 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 57a
+
+**Participation politique**[^57a-1]
+
+<sup>1</sup> Le canton encourage la participation politique.
+
+<sup>2</sup> Le Conseil d’État peut prendre des mesures afin que les personnes qui ne sont pas en mesure d’effectuer les actes nécessaires pour participer au vote, notamment en raison d’un handicap, puissent également voter.
+
+[^57a-1]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 4 mai 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 58
 
@@ -681,12 +692,12 @@ La *Landsgemeinde* est l’assemblée des citoyens actifs du canton. Elle consti
 
 <sup>3</sup> …[^62-1]
 
-<sup>4</sup> Le mémorial de la *Landsgemeinde* est distribué en nombre suffisant aux citoyens actifs quatre semaines au plus tard avant la *Lands**gemeinde*.[^62-2]
+<sup>4</sup> Le mémorial de la *Landsgemeinde* est rendu accessible aux citoyens actifs quatre semaines au plus tard avant la *Landsgemeinde*.[^62-2]
 
 <sup>5</sup> …[^62-3]
 
 [^62-1]: Abrogé par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, avec effet au 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^62-2]: Accepté par la *Landsgemeinde* du 7 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 4 mai 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^62-3]: Abrogé par la *Landsgemeinde* du 7 mai 2017, avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 63
@@ -701,9 +712,10 @@ La *Landsgemeinde* est l’assemblée des citoyens actifs du canton. Elle consti
 
 <sup>4</sup> …[^63-1]
 
-<sup>5</sup> Le Conseil d’État peut prendre des mesures destinées à faciliter la participation à la *Landsgemeinde*, en particulier pour les citoyens actifs venant de communes éloignées.
+<sup>5</sup> Le canton peut prendre des mesures destinées à faciliter la participation à la *Landsgemeinde*.[^63-2]
 
 [^63-1]: Abrogé par la *Landsgemeinde* du 7 mai 2017, avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^63-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 4 mai 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 64
 
@@ -1306,7 +1318,7 @@ Il incombe au Conseil d’État:
 
 <sup>1</sup> La loi règle l’organisation et les compétences des tribunaux ainsi que la procédure judiciaire.
 
-<sup>2</sup> à <sup>4</sup> …[^112-3]
+<sup>2 à <sup>4</sup></sup> …[^112-3]
 
 [^112-1]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 [^112-2]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
@@ -2337,6 +2349,8 @@ Modification des limites, des communes 118
 **Parenté**, exclusion 76
 
 **Paroisse** 127, 128
+
+Participation politique 57*a*
 
 Période de fonction 78, 154
 

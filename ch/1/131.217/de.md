@@ -3,20 +3,20 @@ sr: "131.217"
 title: "Verfassung des Kantons Glarus, vom 1. Mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: de
-version: 2023-03-06
+version: 2025-05-04
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Glarus
 
-vom 1. Mai 1988 (Stand am 6. März 2023)[^t-1]
+vom 1. Mai 1988 (Stand am 4. Mai 2025)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 **Präambel**
 
@@ -172,7 +172,7 @@ Jedes staatliche Handeln muss rechtmässig und verhältnismässig sein sowie Tre
 
 <sup>1</sup> Kanton, Gemeinden und andere öffentlich-rechtliche Körperschaften haften für den Schaden, den ihre Behördenmitglieder, Angestellten und Lehrpersonen oder andere im öffentlichen Auftrag tätige Personen durch eine Amtshandlung rechtswidrig verursacht haben.[^18-1]
 
-<sup>2</sup> und <sup>3</sup> …[^18-2]
+<sup>2 und <sup>3</sup></sup> …[^18-2]
 
 [^18-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 [^18-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
@@ -583,11 +583,12 @@ Der Finanzausgleich besteht aus dem Ressourcen- und dem Lastenausgleich. Den Res
 
 <sup>1</sup> Alle Schweizer sind im Kanton und in der Gemeinde stimmberechtigt, wenn sie hier wohnhaft sind und das 16. Altersjahr zurückgelegt haben.[^56-1]
 
-<sup>2</sup> Ausgeschlossen vom Stimmrecht ist, wer wegen Geisteskrankheit oder Geistesschwäche entmündigt ist.
+<sup>2</sup> …[^56-2]
 
 <sup>3</sup> Das Stimmrecht wird an der Landsgemeinde und im Übrigen, soweit das Gesetz keine Erleichterungen vorsieht, am Wohnort ausgeübt; es wird mit der Niederlassung erlangt.
 
 [^56-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^56-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 4. Mai 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 57
 
@@ -612,6 +613,16 @@ Auf Gemeindeebene hat jeder Stimmberechtigte das Recht:
 
 [^57-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^57-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 57a
+
+**Politische Partizipation**[^57a-1]
+
+<sup>1</sup> Der Kanton fördert die politische Partizipation.
+
+<sup>2</sup> Der Regierungsrat kann Massnahmen dazu ergreifen, damit auch stimmen kann, wer insbesondere wegen einer Behinderung unfähig ist, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen.
+
+[^57a-1]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 4. Mai 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 58
 
@@ -677,12 +688,12 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 
 <sup>3</sup> …[^62-1]
 
-<sup>4</sup> Das Landsgemeindememorial wird in einer ausreichenden Anzahl spätestens vier Wochen vor der Landsgemeinde an die Stimmberechtigten verteilt.[^62-2]
+<sup>4</sup> Das Landsgemeindememorial wird den Stimmberechtigten spätestens vier Wochen vor der Landsgemeinde zugänglich gemacht.[^62-2]
 
 <sup>5</sup> …[^62-3]
 
 [^62-1]: Aufgehoben an der Landsgemeinde vom 1. Mai 2022, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^62-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 4. Mai 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^62-3]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 63
@@ -697,9 +708,10 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 
 <sup>4</sup> …[^63-1]
 
-<sup>5</sup> Der Regierungsrat kann Massnahmen zur Erleichterung der Teilnahme treffen, besonders für Stimmberechtigte aus entfernteren Gemeinden.
+<sup>5</sup> Der Kanton kann Massnahmen zur Erleichterung der Teilnahme treffen.[^63-2]
 
 [^63-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^63-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 4. Mai 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 64
 
@@ -2192,6 +2204,8 @@ Militär
 **Persönliche Freiheit** 5
 
 **Petitionsrecht** 60
+
+**Politische Partizipation** 57*a*
 
 Politische Rechte
 
