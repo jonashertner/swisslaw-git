@@ -3,11 +3,11 @@ sr: "0.672.932.51"
 title: Abkommen vom 6. Oktober 2011 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/736"
 language: de
-version: 2018-01-30
+version: 2025-05-05
 adopted: 2011-10-06
 in_force: 2012-10-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/736/20180130/de/xml/fedlex-data-admin-ch-eli-cc-2012-736-20180130-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/736/20180130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/736/20250505/de/xml/fedlex-data-admin-ch-eli-cc-2012-736-20250505-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/736/20250505/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 15. Juni 2012[^t-1]
 
 In Kraft getreten durch Notenaustausch am 21. Oktober 2012
 
-(Stand am 30. Januar 2018)
+(Stand am 5. Mai 2025)
 
 [^t-1]: [AS 2012 6243](https://fedlex.data.admin.ch/eli/oc/2012/735)
 
@@ -32,7 +32,13 @@ Der Schweizerische Bundesrat und die Regierung der Vereinigten Arabischen Emirat
 
 vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen abzuschliessen,
 
-haben Folgendes vereinbart:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
+
+in der Absicht, in Bezug auf die Steuern vom Einkommen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. I des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 1
 
@@ -70,21 +76,24 @@ Zu den bestehenden Steuern, für welche das Abkommen gilt, gehören insbesondere
 
 #### Art. 3
 
-**Allgemeine Begriffsbestimmungen**
+**Allgemeine Begriffsbestimmungen**[^3-1]
 
-l. Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
+<sup>1.</sup>
 
-- 2\. a) (i) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft,
-- (ii) bedeutet der Ausdruck «Vereinigte Arabische Emirate» die Vereinigten Arabischen Emirate und umfasst, wenn im geografischen Sinne verwendet, deren Hoheitsgebiet, einschliesslich der Hoheitsgewässer, des Luftraums sowie des Meeresuntergrunds, in dem die Vereinigten Arabischen Emirate nach ihrem innerstaatlichen Recht und in Übereinstimmung mit dem Völkerrecht Hoheitsrechte ausüben;
+Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
+
+- a) (i) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft,
+  - (ii) bedeutet der Ausdruck «Vereinigte Arabische Emirate» die Vereinigten Arabischen Emirate und umfasst, wenn im geografischen Sinne verwendet, deren Hoheitsgebiet, einschliesslich der Hoheitsgewässer, des Luftraums sowie des Meeresuntergrunds, in dem die Vereinigten Arabischen Emirate nach ihrem innerstaatlichen Recht und in Übereinstimmung mit dem Völkerrecht Hoheitsrechte ausüben;
+
 - b) umfasst der Ausdruck «Person» natürliche Personen, juristische Personen, Gesellschaften und alle anderen Personenvereinigungen;
 - c) bedeutet der Ausdruck «Gesellschaft» juristische Personen oder jegliche Rechtsträger, die für die Besteuerung wie juristische Personen behandelt werden;
 - d) bedeuten die Ausdrücke «Unternehmen eines Vertragsstaats» und «Unternehmen des anderen Vertragsstaats», je nachdem, ein Unternehmen, das von einer in einem Vertragsstaat ansässigen Person betrieben wird, oder ein Unternehmen, das von einer im anderen Vertragsstaat ansässigen Person betrieben wird;
-- e) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Schiff[^3-1] oder Luftfahrzeug, das von einem Unternehmen mit tatsächlicher Geschäftsleitung in einem Vertragsstaat betrieben wird, es sei denn, das Schiff oder Luftfahrzeug wird ausschliesslich zwischen Orten im anderen Vertragsstaat betrieben;
+- e) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Schiff[^3-2] oder Luftfahrzeug, das von einem Unternehmen mit tatsächlicher Geschäftsleitung in einem Vertragsstaat betrieben wird, es sei denn, das Schiff oder Luftfahrzeug wird ausschliesslich zwischen Orten im anderen Vertragsstaat betrieben;
 - f)
 
   bedeutet der Ausdruck «zuständige Behörde»:
 
-  - (i) in der Schweiz den Direktor der Eidgenössischen Steuerverwaltung oder seinen bevollmächtigten Vertreter;
+  - (i) in der Schweiz den Vorsteher des Eidgenössischen Finanzdepartements oder seinen bevollmächtigten Vertreter;
   - (ii) in den Vereinigten Arabischen Emiraten den Finanzminister oder seinen bevollmächtigten Vertreter,
 
 - g)
@@ -94,9 +103,10 @@ l. Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
   - (i) jede natürliche Person, die die Staatsangehörigkeit eines Vertragsstaats besitzt,
   - (ii) jede juristische Person, Personengesellschaft oder andere Personenvereinigung, die nach dem in einem Vertragsstaat geltenden Recht errichtet worden ist.
 
-<sup>3.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang keine andere Auslegung erfordert, jeder im Abkommen nicht definierte Begriff oder Ausdruck die Bedeutung, die ihm im Anwendungszeitpunkt nach dem Recht dieses Staats über die Steuern zukommt, für die das Abkommen gilt, wobei die in der Steuergesetzgebung geltende Bedeutung derjenigen nach anderen Gesetzen des gleichen Staats vorgeht.
+<sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang keine andere Auslegung erfordert, jeder im Abkommen nicht definierte Begriff oder Ausdruck die Bedeutung, die ihm im Anwendungszeitpunkt nach dem Recht dieses Staats über die Steuern zukommt, für die das Abkommen gilt, wobei die in der Steuergesetzgebung geltende Bedeutung derjenigen nach anderen Gesetzen des gleichen Staats vorgeht.
 
-[^3-1]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
+[^3-1]: Bereinigt gemäss Art. II des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
+[^3-2]: Der Begriff wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) formlos berichtigt. Die Berichtigung wurde im ganzen Erlass vorgenommen.
 
 #### Art. 4
 
@@ -192,7 +202,12 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als «Betr
 
 <sup>6.</sup> Bei der Anwendung der vorstehenden Absätze sind die der Betriebsstätte zuzurechnenden Gewinne jedes Jahr auf dieselbe Art zu ermitteln, es sei denn, dass ausreichende Gründe dafür bestehen, anders zu verfahren.
 
-<sup>7.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen des vorliegenden Artikels nicht berührt.
+<sup>7.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^7-1]
+
+<sup>8.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen des vorliegenden Artikels nicht berührt.[^7-2]
+
+[^7-1]: Eingefügt durch Art. III des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
+[^7-2]: Ursprünglich: Abs. 7.
 
 #### Art. 8
 
@@ -217,9 +232,12 @@ Wenn:
 - a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind;
 
-<sup>2.</sup> Werden Gewinne, mit denen ein Unternehmen eines Vertragsstaats in diesem Staat besteuert worden ist, auch den Gewinnen eines Unternehmens des anderen Vertragsstaats zugerechnet und entsprechend besteuert und handelt es sich dabei um Gewinne, die das Unternehmen des anderen Vertragsstaats erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, wie sie unabhängige Unternehmen miteinander vereinbaren würden, so können sich die zuständigen Behörden der Vertragsstaaten zur Herbeiführung einer Einigung über die Berichtigung der Gewinne in den beiden Vertragsstaaten konsultieren.
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
 
-<sup>3.</sup> Ein Vertragsstaat soll die Gewinne eines Unternehmens in den in Absatz 1 genannten Fällen nicht mehr berichtigen, wenn die in seinem innerstaatlichen Recht vorgesehenen Fristen abgelaufen sind, und keinesfalls, wenn seit dem Ende des Jahres, in dem ein Unternehmen dieses Staates die Gewinne, die Gegenstand einer solchen Berichtigung wären, erzielt hätte, mehr als fünf Jahre verflossen sind. Dieser Absatz ist in Fällen von Betrug oder vorsätzlicher Unterlassung nicht anzuwenden.
+<sup>3.</sup> Ein Vertragsstaat darf nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres, in dem ein Unternehmen die Gewinne erzielt hätte, den Gewinnen des Unternehmens keine Gewinne zurechnen und entsprechend besteuern, die das Unternehmen erzielt hätte, aufgrund der in Absatz 1 genannten Bedingungen jedoch nicht erzielt hat. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^9-2]
+
+[^9-1]: Fassung gemäss Art. IV Abs. 1 des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
+[^9-2]: Fassung gemäss Art. IV Abs. 2 des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 10
 
@@ -377,10 +395,13 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 - c) Bezieht eine in der Schweiz ansässige Person Einkünfte im Sinne von Artikel 18, so gewährt die Schweiz ihr auf Antrag eine Anrechnung auf die schweizerische Steuer, die auf diese Einkünfte entfällt in Höhe der von den Vereinigten Arabischen Emiraten nach Artikel 18 auf diesen Einkünften erhobenen Steuer; der anzurechnende Betrag darf jedoch den Teil der vor der Anrechnung ermittelten schweizerischen Steuer nicht übersteigen, der auf die Einkünfte entfällt, die in den Vereinigten Arabischen Emiraten besteuert werden können.
 - d) Eine in der Schweiz ansässige Gesellschaft, die Dividenden von einer in den Vereinigten Arabischen Emiraten ansässigen Gesellschaft bezieht, geniesst bei der Erhebung der schweizerischen Steuer auf diesen Dividenden die gleichen Vergünstigungen, die ihr zustehen würden, wenn die die Dividenden zahlende Gesellschaft in der Schweiz ansässig wäre.
+- e)[^22-1] Buchstabe a) gilt nicht für Einkünfte einer in der Schweiz ansässigen Person, wenn die Vereinigten Arabischen Emirate dieses Abkommen anwenden, um solche Einkünfte von der Besteuerung auszunehmen, oder wenn sie Artikel 10 Absatz 2 für solche Einkünfte anwenden.
 
 <sup>2.</sup> In den Vereinigten Arabischen Emiraten wird die Doppelbesteuerung wie folgt vermieden:
 
 Bezieht eine in den Vereinigten Arabischen Emiraten ansässige Person Einkünfte, die nach den Bestimmungen dieses Abkommens in der Schweiz besteuert werden können, so gewähren die Vereinigten Arabischen Emirate einen Abzug in Höhe der in der Schweiz auf diesen Einkünften erhobenen Einkommenssteuer.
+
+[^22-1]: Eingefügt durch Art. V des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 23
 
@@ -400,13 +421,15 @@ Bezieht eine in den Vereinigten Arabischen Emiraten ansässige Person Einkünfte
 
 **Verständigungsverfahren**
 
-<sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 23 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehörige sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
+<sup>1.</sup> Ist eine Person der Auffassung, dass die Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel den Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten.[^24-1] Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und ist sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
 <sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten bemühen sich, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren und sich auch in einer gemeinsamen Kommission beraten, in der sie selbst oder ihre Vertreter Einsitz nehmen.
+
+[^24-1]: Fassung gemäss Art. VI des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 25
 
@@ -433,6 +456,14 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 **Mitglieder diplomatischer Missionen und konsularischer Vertretungen**
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder aufgrund besonderer Vereinbarungen zustehen.
+
+#### Art. 26A
+
+**Anspruch auf Vorteile**[^26A-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^26A-1]: Eingefügt durch Art. VII des Prot. vom 5. Nov. 2022, von der BVers genehmigt am 22. Dez. 2023 und in Kraft seit 5. Mai 2025 ([AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 27
 
@@ -524,3 +555,16 @@ Geschehen zu Dubai, am 6. Oktober 2011, im Doppel in französischer, arabischer 
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: Wolfgang Amadeus Bruelhart</td><td>Für die Regierung der Vereinigten Arabischen Emirate: Younis Haji Al Khoori</td></tr>
 </table>
+
+## Art. VIII Abs. 2 und 3 des Prot. vom 5. November 2022
+
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [AS 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [BBl 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)
+
+\2. Das Protokoll tritt am Tag des Eingangs der späteren dieser beiden Notifikationen in Kraft, und seine Bestimmungen finden Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten dieses Protokolls folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.
+
+\3. Ungeachtet der Bestimmungen von Absatz 2 finden die in Artikel IV Absatz 1 und Artikel VI dieses Protokolls vorgesehenen Änderungen vom Tag des Inkrafttretens dieses Protokolls an Anwendung ohne Berücksichtigung der Steuerperiode, auf die sich die Sache bezieht.

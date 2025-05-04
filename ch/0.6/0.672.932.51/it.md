@@ -3,11 +3,11 @@ sr: "0.672.932.51"
 title: Convenzione del 6 ottobre 2011 tra la Confederazione Svizzera e gli Emirati Arabi Uniti per evitare le doppie imposizioni in materia di imposte sul reddito (con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/736"
 language: it
-version: 2018-01-30
+version: 2025-05-05
 adopted: 2011-10-06
 in_force: 2012-10-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/736/20180130/it/xml/fedlex-data-admin-ch-eli-cc-2012-736-20180130-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/736/20180130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/736/20250505/it/xml/fedlex-data-admin-ch-eli-cc-2012-736-20250505-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/736/20250505/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,21 +18,23 @@ RU **2012** 6245; FF **2011** 8123
 
 Traduzione
 
-Conclusa il 6 ottobre 2011
+Conclusa il 6 ottobre 2011 Approvata dall’Assemblea federale il 15 giugno 2012[^t-1] Entrata in vigore mediante scambio di note il 21 ottobre 2012
 
-Approvata dall’Assemblea federale il 15 giugno 2012[^t-1]
-
-Entrata in vigore mediante scambio di note il 21 ottobre 2012
-
-(Stato 30 gennaio 2018)
+(Stato 5 maggio 2025)
 
 [^t-1]: [RU 2012 6243](https://fedlex.data.admin.ch/eli/oc/2012/735)
 
-Il Consiglio federale svizzero e il Governo degli Emirati Arabi Uniti
+Il Consiglio federale svizzero e il Governo degli Emirati Arabi Uniti,
 
-animati dal desiderio di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito,
+desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito;
 
-hanno convenuto quanto segue:
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
+
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti in Stati terzi),
+
+hanno convenuto quanto segue:[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 1
 
@@ -70,13 +72,13 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
 
 #### Art. 3
 
-**Definizioni generali**
+**Definizioni generali**[^3-1]
 
 <sup>1.</sup>
 
 Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione:
 
-- 2\. a) (i) il termine «Svizzera» designa la Confederazione Svizzera,
+- a) (i) il termine «Svizzera» designa la Confederazione Svizzera,
   - (ii) l’espressione «Emirati Arabi Uniti» designa gli Emirati Arabi Uniti e, geograficamente impiegata, designa tutto il territorio sotto la loro sovranità, compresi le acque territoriali, lo spazio aereo e il sottosuolo marino sul quale gli Emirati Arabi Uniti, in accordo con il diritto internazionale e il loro diritto interno, possono esercitare i loro diritti territoriali;
 
 - b) il termine «persona» comprende le persone fisiche, le persone giuridiche, le società e ogni altra associazione di persone;
@@ -87,7 +89,7 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
 
   l’espressione «autorità competente» designa:
 
-  - (i) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato,
+  - (i) per quanto concerne la Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato,
   - (ii) per quanto concerne gli Emirati Arabi Uniti, il Ministro delle finanze o il suo rappresentante autorizzato;
 
 - g)
@@ -97,7 +99,9 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
   - (i) le persone fisiche che possiedono la cittadinanza di uno Stato contraente,
   - (ii) tutte le persone giuridiche, società di persone o associazioni costituite in conformità della legislazione in vigore in uno Stato contraente.
 
-<sup>3.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, a meno che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, ritenuto che il senso attribuito a queste espressioni dalla legislazione fiscale applicabile in questo Stato prevale sul senso loro attribuito da un’altra legislazione di detto Stato.
+<sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, a meno che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, ritenuto che il senso attribuito a queste espressioni dalla legislazione fiscale applicabile in questo Stato prevale sul senso loro attribuito da un’altra legislazione di detto Stato.
+
+[^3-1]: Aggiornato dall’art. II del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 4
 
@@ -193,7 +197,12 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati ogni anno con lo stesso metodo, a meno che non esistano validi e sufficienti motivi per procedere diversamente.
 
-<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>7.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+<sup>8.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo. [^7-2]
+
+[^7-1]: Introdotto dall’art. III par. 2 del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
+[^7-2]: Originale par. 7.
 
 #### Art. 8
 
@@ -216,9 +225,12 @@ Se:
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
 
-<sup>2.</sup> Quando utili in base ai quali un’impresa di uno Stato contraente è stata imposta in questo Stato sono inclusi anche negli utili di un’impresa dell’altro Stato contraente e tassati in conseguenza, e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa dell’altro Stato contraente se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi in vista di raggiungere un accordo sugli adeguamenti da apportare agli utili nei due Stati contraenti.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare la rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
 
-<sup>3.</sup> Uno Stato contraente non rettificherà gli utili di un’impresa nei casi previsti dal paragrafo 1 dopo lo spirare dei termini previsti dalla sua legislazione nazionale e, in ogni caso, non dopo lo spirare di cinque anni a partire dalla fine dell’anno in cui gli utili oggetto di tale rettifica sarebbero stati conseguiti da un’impresa di questo Stato. Il presente paragrafo non è applicabile in caso di frode od omissione volontaria.
+<sup>3.</sup> Uno Stato contraente non può includere negli utili di un’impresa, e tassare di conseguenza, utili che sarebbero stati conseguiti da detta impresa ma che non lo sono stati a motivo delle condizioni indicate nel paragrafo 1 decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati conseguiti dall’impresa. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^9-2]
+
+[^9-1]: Nuovo testo giusta l’art. IV par. 2 del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
+[^9-2]: Nuovo testo giusta l’art. IV par. 3 del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 10
 
@@ -376,10 +388,13 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 - c) Qualora un residente di Svizzera ritragga redditi ai sensi dell’articolo 18, la Svizzera accorda, su domanda, un computo sull’imposta svizzera di questo reddito pari all’imposta riscossa negli Emirati Arabi Uniti giusta l’articolo 18; questo computo non può tuttavia eccedere la frazione d’imposta svizzera calcolata prima del computo accordato su questo reddito imponibile negli Emirati Arabi Uniti.
 - d) Qualora una società residente di Svizzera riceva dividendi da una società residente degli Emirati Arabi Uniti, essa fruisce, per quanto concerne la riscossione dell’imposta svizzera afferente a detti dividendi, delle medesime agevolazioni di cui beneficerebbe se la società che paga i dividendi fosse residente della Svizzera.
+- e)[^22-1] Le disposizioni della lettera a) non sono applicabili ai redditi di un residente di Svizzera se gli Emirati Arabi Uniti applicano le disposizioni della presente Convenzione per esentare questi redditi dall’imposta oppure applica a questi redditi le disposizioni di cui al paragrafo 2 dell’articolo 10.
 
 <sup>2.</sup> Per quanto concerne gli Emirati Arabi Uniti, la doppia imposizione sarà evitata nel modo seguente:
 
 qualora un residente degli Emirati Arabi Uniti riceva dividendi che secondo le disposizioni della Convenzione sono imponibili in Svizzera, gli Emirati Arabi Uniti accordano una deduzione pari all’imposta sul reddito pagata in Svizzera.
+
+[^22-1]: Introdotta dall’art. V del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 23
 
@@ -399,13 +414,15 @@ qualora un residente degli Emirati Arabi Uniti riceva dividendi che secondo le d
 
 **Procedura amichevole**
 
-<sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione paragrafo 1 dell’articolo 23, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+<sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, questa persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati, sottoporre il suo caso all’autorità competente di uno dei due Stati contraenti.[^24-1] Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
 <sup>2.</sup> Se il reclamo le appare fondato e se non è in grado di giungere ad una soluzione soddisfacente, l’autorità competente fa del suo meglio per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione.
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da esse stesse o da loro rappresentanti.
+
+[^24-1]: Nuovo testo giusta l’art. VI del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 25
 
@@ -432,6 +449,14 @@ I paragrafi 1 e 2 non possono essere interpretati nel senso che facciano obbligo
 **Membri di missioni diplomatiche e di agenzie consolari**
 
 Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche e di rappresentanze consolari in virtù delle regole generali del diritto internazionale o di accordi particolari.
+
+#### Art. 26A
+
+**Diritto ai benefici**[^26A-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^26A-1]: Introdotto dall’art. VII del Prot. del 5 nov. 2022, approvato dall’AS il 22 dic. 2023, in vigore mediante scambio di note il 5 mag. 2025 ([RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330); [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)).
 
 #### Art. 27
 
@@ -527,3 +552,18 @@ Fatto in doppio esemplare a Dubaï, il 6 ottobre 2011, in lingua francese, araba
 <table>
 <tr><td>Per il Consiglio federale svizzero: Wolfgang Amadeus Bruelhart</td><td>Per il Governo degli Emirati Arabi Uniti: Younis Haji Al Khoori</td></tr>
 </table>
+
+#### Art. VIII
+
+****paragrafo 2 e 3 del Pototocollo del 5 novembre 2022**[^annexu1-lvl7-VIII-1]**
+
+<sup>2.</sup>
+
+Il presente Protocollo entrerà in vigore alla data di ricezione dell’ultima di queste notifiche e le sue disposizioni si applicano:
+
+- a) con riferimento alle imposte prelevate alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+<sup>3.</sup> Nonostante le disposizioni del paragrafo 2, le modifiche previste al paragrafo 1 dell’articolo IV e all’articolo VI del presente Protocollo saranno applicabili dalla data dell’entrata in vigore del presente Protocollo senza tenere conto del periodo fiscale considerato.
+
+[^annexu1-lvl7-VIII-1]: [RU 2025 330](https://fedlex.data.admin.ch/eli/oc/2025/330), [329](https://fedlex.data.admin.ch/eli/oc/2025/329); [FF 2023 1347](https://fedlex.data.admin.ch/eli/fga/2023/1347)
