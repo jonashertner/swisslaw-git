@@ -4,11 +4,11 @@ title: Regolamento del Consiglio nazionale del 3 ottobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: it
-version: 2023-12-04
+version: 2025-05-05
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/it"
 
 (RCN)
 
-del 3 ottobre 2003 (Stato 4 dicembre 2023)
+del 3 ottobre 2003 (Stato 5 maggio 2025)
 
 Il Consiglio nazionale,
 
@@ -207,7 +207,7 @@ La Camera dispone delle seguenti commissioni permanenti:
 - 11\. Commissione degli affari giuridici (CAG).
 - 12\.[^10-1] Commissione dell’immunità (CdI).
 
-[^10-1]: Nuovo testo giusta il n. I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^10-1]: Nuovo testo giusta la cifra I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 11
 
@@ -227,7 +227,7 @@ Salvo diversa disposizione di una legge o di un’ordinanza dell’Assemblea fed
 
 Nella prima sessione di ogni legislatura è istituita una commissione speciale incaricata dell’esame preliminare del messaggio del Consiglio federale sul programma di legislatura.
 
-[^13-1]: Nuovo testo giusta il n. I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
+[^13-1]: Nuovo testo giusta la cifra I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
 
 #### Art. 13a
 
@@ -237,7 +237,7 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 
 <sup>2</sup> Per ogni membro della Commissione è eletto un sostituto permanente.
 
-[^13a-1]: Introdotto dal n. I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^13a-1]: Introdotto dalla cifra I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 14
 
@@ -252,7 +252,7 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 <sup>4</sup> La Commissione della politica estera istituisce una sottocommissione permanente per le questioni europee. Quest’ultima si informa sugli sviluppi giuridici importanti per la Svizzera che vanno delineandosi nell’Unione europea e riferisce periodicamente al plenum.[^14-2]
 
 [^14-1]: La mod. del 18 mar. 2022, in vigore dal 30 mag. 2022, concerne soltanto i testi tedesco e francese ([RU 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^14-2]: Introdotto dal n. I del D del CN del 29 set. 2023 (Sottocommissione permanente per le questioni europee della Commissione della politica estera del Consiglio nazionale), in vigore dal 4 dic. 2023 ([RU 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [FF 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988))
+[^14-2]: Introdotto dalla cifra I del D del CN del 29 set. 2023 (Sottocommissione permanente per le questioni europee della Commissione della politica estera del Consiglio nazionale), in vigore dal 4 dic. 2023 ([RU 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [FF 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988))
 
 #### Art. 15
 
@@ -272,10 +272,10 @@ I seggi seguenti sono ripartiti fra i gruppi parlamentari in applicazione analog
 <sup>3</sup> Di norma, un deputato non può appartenere contemporaneamente a più di due commissioni di cui all’articolo 10.[^15-5]
 
 [^15-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^15-2]: Nuovo testo giusta il n. I del D del CN del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^15-3]: Introdotta dal n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^15-4]: Abrogato dal n. I del D del CN del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^15-5]: Nuovo testo giusta il n. I del D del CN del 1° ott. 2010, in vigore dal 5 dic. 2011 ([RU 2010 4543](https://fedlex.data.admin.ch/eli/oc/2010/650); [FF 2010 5241](https://fedlex.data.admin.ch/eli/fga/2010/1054)[5247](https://fedlex.data.admin.ch/eli/fga/2010/1056)).
+[^15-2]: Nuovo testo giusta la cifra I del D del CN del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^15-3]: Introdotta dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^15-4]: Abrogato dalla cifra I del D del CN del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^15-5]: Nuovo testo giusta la cifra I del D del CN del 1° ott. 2010, in vigore dal 5 dic. 2011 ([RU 2010 4543](https://fedlex.data.admin.ch/eli/oc/2010/650); [FF 2010 5241](https://fedlex.data.admin.ch/eli/fga/2010/1054)[5247](https://fedlex.data.admin.ch/eli/fga/2010/1056)).
 
 #### Art. 16
 
@@ -313,7 +313,7 @@ Un rinnovo integrale straordinario delle commissioni per il resto del mandato ha
 - a. per una modifica del numero dei membri di un gruppo parlamentare, questo gruppo è sovrarappresentato o sottorappresentato di oltre un membro in una delle commissioni permanenti di cui all’articolo 10;
 - b. è costituito un nuovo gruppo parlamentare.[^17-1]
 
-[^17-1]: Introdotto dal n. I del D del CN del 3 ott. 2008, in vigore con l’inizio della sessione d’inverno 2011 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^17-1]: Introdotto dalla cifra I del D del CN del 3 ott. 2008, in vigore con l’inizio della sessione d’inverno 2011 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 18
 
@@ -329,7 +329,7 @@ Un rinnovo integrale straordinario delle commissioni per il resto del mandato ha
 
 <sup>4</sup> I membri della Commissione della gestione e delle commissioni parlamentari d’inchiesta e delle loro sottocommissioni non possono farsi sostituire.
 
-[^18-1]: Introdotto dal n. I del D del CN del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^18-1]: Introdotto dalla cifra I del D del CN del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 19
 
@@ -375,7 +375,7 @@ Gli oggetti in deliberazione ai sensi dell’articolo 71 LParl sono esaminati pr
 
 <sup>3</sup> ...[^21-1]
 
-[^21-1]: Abrogato dal n. I del D del CN del 30 set. 2011 (Commissione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^21-1]: Abrogato dalla cifra I del D del CN del 30 set. 2011 (Commissione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 22
 
@@ -409,7 +409,7 @@ Gli oggetti in deliberazione ai sensi dell’articolo 71 LParl sono esaminati pr
 
 [^24a-1]
 
-[^24a-1]: Introdotto dal n. I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
+[^24a-1]: Introdotto dalla cifra I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
 
 ### Sezione 2: Oggetti in deliberazione e loro trattazione
 
@@ -435,7 +435,7 @@ Un deputato o un gruppo parlamentare può presentare per scritto un’iniziativa
 
 Se, eccezionalmente, il destinatario di un intervento non è in grado di rispettare i termini, ne informa l’Ufficio e l’autore indicandone il motivo.
 
-[^27-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^27-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 28
 
@@ -449,9 +449,9 @@ Se, eccezionalmente, il destinatario di un intervento non è in grado di rispett
 
 <sup>4</sup> L’interpellante può dichiarare di essere o no soddisfatto della risposta data dal Consiglio federale anche se la Camera rifiuta di discutere l’interpellanza.
 
-[^28-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^28-2]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^28-3]: Per. introdotto dal n. I del D del CN del 12 dic. 2014 (Trattazione prioritaria degli interventi parlamentari controversi in seno alla Camera), in vigore dal 2 mar. 2015 ([RU 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105); [FF 2014 8145](https://fedlex.data.admin.ch/eli/fga/2014/2043)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^28-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^28-2]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^28-3]: Per. introdotto dalla cifra I del D del CN del 12 dic. 2014 (Trattazione prioritaria degli interventi parlamentari controversi in seno alla Camera), in vigore dal 2 mar. 2015 ([RU 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105); [FF 2014 8145](https://fedlex.data.admin.ch/eli/fga/2014/2043)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 28a
 
@@ -461,8 +461,8 @@ Se, eccezionalmente, il destinatario di un intervento non è in grado di rispett
 
 <sup>2</sup> ...[^28a-2]
 
-[^28a-1]: Introdotto dal n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^28a-2]: Introdotto dal n. I del D del CN del 17 dic. 2010 ([RU 2011 637](https://fedlex.data.admin.ch/eli/oc/2011/98); [FF 2010 7133](https://fedlex.data.admin.ch/eli/fga/2010/1473)[7141](https://fedlex.data.admin.ch/eli/fga/2010/1475)). Abrogato dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), con effetto dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^28a-1]: Introdotto dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^28a-2]: Introdotto dalla cifra I del D del CN del 17 dic. 2010 ([RU 2011 637](https://fedlex.data.admin.ch/eli/oc/2011/98); [FF 2010 7133](https://fedlex.data.admin.ch/eli/fga/2010/1473)[7141](https://fedlex.data.admin.ch/eli/fga/2010/1475)). Abrogato dalla cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), con effetto dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 28b
 
@@ -476,8 +476,8 @@ Se, eccezionalmente, il destinatario di un intervento non è in grado di rispett
 
 <sup>4</sup> ...[^28b-2]
 
-[^28b-1]: Introdotto dal n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^28b-2]: Abrogato dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), con effetto dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^28b-1]: Introdotto dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^28b-2]: Abrogato dalla cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), con effetto dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 29
 
@@ -489,7 +489,7 @@ Se, eccezionalmente, il destinatario di un intervento non è in grado di rispett
 
 <sup>2</sup> L’autore può ritirare l’iniziativa o l’intervento anche senza il consenso dei cofirmatari.
 
-[^29-1]: Introdotto dal n. I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
+[^29-1]: Introdotto dalla cifra I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
 
 #### Art. 30
 
@@ -508,15 +508,15 @@ La dichiarazione d’urgenza compete:
 
 <sup>4</sup> L’Ufficio può, d’intesa con il suo autore, trasformare un’interpellanza urgente in un’interrogazione urgente.[^30-3]
 
-[^30-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^30-2]: Nuovo testo giusta il n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^30-3]: Nuovo testo giusta il n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^30-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^30-2]: Nuovo testo giusta la cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^30-3]: Nuovo testo giusta la cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### a<sup>bis</sup>. Dibattito d’attualità
 
 [^chap3-sec2-lvlabis-1]
 
-[^chap3-sec2-lvlabis-1]: Introdotto dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^chap3-sec2-lvlabis-1]: Introdotto dalla cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 30a
 
@@ -542,8 +542,8 @@ La dichiarazione d’urgenza compete:
 
 <sup>6</sup> Alle domande cui non sia possibile rispondere per mancanza di tempo e alle domande o domande supplementari che richiedessero un esame più approfondito il Consiglio federale risponde per scritto, secondo la norma applicabile alle interrogazioni urgenti.
 
-[^31-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^31-2]: Introdotto dal n. I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
+[^31-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^31-2]: Introdotto dalla cifra I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
 
 ### c. Dichiarazioni
 
@@ -569,7 +569,7 @@ La dichiarazione d’urgenza compete:
 
 [^chap3-sec2-lvld-1]
 
-[^chap3-sec2-lvld-1]: Introdotto dal n. I del D del CN del 22 giu. 2007 (Programma di legislatura), in vigore dal 1° dic. 2007 ([RU 2007 3773](https://fedlex.data.admin.ch/eli/oc/2007/488)[5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1715](https://fedlex.data.admin.ch/eli/fga/2006/164)[1735](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^chap3-sec2-lvld-1]: Introdotto dalla cifra I del D del CN del 22 giu. 2007 (Programma di legislatura), in vigore dal 1° dic. 2007 ([RU 2007 3773](https://fedlex.data.admin.ch/eli/oc/2007/488)[5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1715](https://fedlex.data.admin.ch/eli/fga/2006/164)[1735](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 33a
 
@@ -601,7 +601,7 @@ La dichiarazione d’urgenza compete:
 
 <sup>3</sup> Per ogni gruppo parlamentare il tempo di parola è di almeno 10 minuti.
 
-[^33c-1]: Nuovo testo giusta il n. I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
+[^33c-1]: Nuovo testo giusta la cifra I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
 
 ### e. ...
 
@@ -609,13 +609,13 @@ La dichiarazione d’urgenza compete:
 
 [^33cbis-1]
 
-[^33cbis-1]: Introdotto dal n. I del D del CN del 19 dic. 2008 (Rapporto di gestione del Consiglio federale) ([RU 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [FF 2008 939](https://fedlex.data.admin.ch/eli/fga/2008/229)[949](https://fedlex.data.admin.ch/eli/fga/2008/232)). Abrogato del n. I del D del CN del 29 set. 2017 (Rapporto di gestione del Consiglio federale), con effetto dal 1° gen. 2018 ([RU 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [FF 2017 2977](https://fedlex.data.admin.ch/eli/fga/2017/776)[2983](https://fedlex.data.admin.ch/eli/fga/2017/778)).
+[^33cbis-1]: Introdotto dalla cifra I del D del CN del 19 dic. 2008 (Rapporto di gestione del Consiglio federale) ([RU 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [FF 2008 939](https://fedlex.data.admin.ch/eli/fga/2008/229)[949](https://fedlex.data.admin.ch/eli/fga/2008/232)). Abrogato della cifra I del D del CN del 29 set. 2017 (Rapporto di gestione del Consiglio federale), con effetto dal 1° gen. 2018 ([RU 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [FF 2017 2977](https://fedlex.data.admin.ch/eli/fga/2017/776)[2983](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
 ### f. Immunità relativa
 
 [^chap3-sec2-lvlf-1]
 
-[^chap3-sec2-lvlf-1]: Introdotto dal n. I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlf-1]: Introdotto dalla cifra I del D del CN del 30 set. 2011 (Commissione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 33c<sup>ter</sup>
 
@@ -636,7 +636,7 @@ Di norma, la Camera si riunisce:
 
 <sup>2</sup> è fatta salva la convocazione di sessioni straordinarie (art. 2 LParl).
 
-[^33d-1]: Introdotto dal n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^33d-1]: Introdotto dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 34
 
@@ -688,8 +688,8 @@ Per ogni seduta, il segretario della Camera redige un verbale nella lingua del p
 
 <sup>2</sup> Il verbale va sottoposto per approvazione al presidente.
 
-[^36-1]: Abrogata dal n. I del D del CN del 26 set. 2014 (Considerare il decesso di un parente come motivo d’impedimento), con effetto dal 24 nov. 2014 ([RU 2014 3621](https://fedlex.data.admin.ch/eli/oc/2014/629); [FF 2014 6193](https://fedlex.data.admin.ch/eli/fga/2014/1573)).
-[^36-2]: Nuovo testo giusta il n. I del D del CN del 26 set. 2014 (Considerare il decesso di un parente come motivo d’impedimento), in vigore dal 24 nov. 2014 ([RU 2014 3621](https://fedlex.data.admin.ch/eli/oc/2014/629); [FF 2014 6193](https://fedlex.data.admin.ch/eli/fga/2014/1573)).
+[^36-1]: Abrogata dalla cifra I del D del CN del 26 set. 2014 (Considerare il decesso di un parente come motivo d’impedimento), con effetto dal 24 nov. 2014 ([RU 2014 3621](https://fedlex.data.admin.ch/eli/oc/2014/629); [FF 2014 6193](https://fedlex.data.admin.ch/eli/fga/2014/1573)).
+[^36-2]: Nuovo testo giusta la cifra I del D del CN del 26 set. 2014 (Considerare il decesso di un parente come motivo d’impedimento), in vigore dal 24 nov. 2014 ([RU 2014 3621](https://fedlex.data.admin.ch/eli/oc/2014/629); [FF 2014 6193](https://fedlex.data.admin.ch/eli/fga/2014/1573)).
 
 #### Art. 37
 
@@ -819,10 +819,10 @@ Gli oggetti in deliberazione sono discussi in una delle seguenti forme:
 
 <sup>5</sup> Indipendentemente dalla forma della discussione, in occasione dell’esame preliminare di un’iniziativa cantonale un deputato del Cantone che ha depositato l’iniziativa può motivarla oralmente a condizione che sia stato designato dalla maggioranza dei deputati del Cantone interessato.[^46-4]
 
-[^46-1]: Originario n. III. Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^46-2]: Introdotta n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^46-3]: Nuovo testo giusta il n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^46-4]: Introdotto dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-1]: Originario n. III. Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^46-2]: Introdotta dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^46-3]: Nuovo testo giusta la cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-4]: Introdotto dalla cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 47
 
@@ -843,7 +843,7 @@ Si può procedere a un dibattito organizzato in particolare:
 
 <sup>5</sup> Ai deputati che non fanno parte di nessun gruppo è messa a disposizione una congrua parte del tempo di parola complessivo.
 
-[^47-1]: Nuovo testo giusta il n. I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
+[^47-1]: Nuovo testo giusta la cifra I del D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), in vigore dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
 [^47-2]: Abrogato dalla D del CN del 25 set. 2015 (Procedura relativa al programma di legislatura), con effetto dal 30 nov. 2015 ([RU 2015 4485](https://fedlex.data.admin.ch/eli/oc/2015/747); [FF 2015 5737](https://fedlex.data.admin.ch/eli/fga/2015/1672)).
 
 #### Art. 48
@@ -858,9 +858,9 @@ Si può procedere a un dibattito organizzato in particolare:
 
 <sup>3</sup> Rimane salvo in ogni caso l’articolo 46 capoversi 3 e 4.
 
-[^48-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^48-2]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^48-3]: Introdotta dal n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-2]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-3]: Introdotta dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 49
 
@@ -886,7 +886,7 @@ Si può procedere a un dibattito organizzato in particolare:
 
 <sup>6</sup> Se sono presentate più proposte di ugual tenore in merito ad oggetti in deliberazione discussi nelle forme I–III, è data la parola a chi ha presentato la prima proposta. Gli altri proponenti possono fare una breve dichiarazione supplementare.
 
-[^50-1]: Terzo per. introdotto dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^50-1]: Terzo per. introdotto dalla cifra I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 51
 
@@ -964,36 +964,38 @@ Sull’elenco nominativo si menziona per ogni deputato se:
 
 <sup>5</sup> ...[^57-4]
 
-[^57-1]: Nuovo testo giusta il n. I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^57-2]: Nuovo testo giusta il n. I del D del CN del 18 mar. 2022 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 1° gen. 2021 ([RU 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^57-3]: Nuovo testo giusta il n. I del D del CN del 1° ott. 2010 (Assenze giustificate dalle votazioni sugli elenchi nominativi), in vigore dal 29 nov. 2010 ([RU 2011 1](https://fedlex.data.admin.ch/eli/oc/2011/1); [FF 2010 5261](https://fedlex.data.admin.ch/eli/fga/2010/1060)[5271](https://fedlex.data.admin.ch/eli/fga/2010/1062)).
-[^57-4]: Abrogato dal n. I del D del CN del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^57-1]: Nuovo testo giusta la cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^57-2]: Nuovo testo giusta la cifra I del D del CN del 18 mar. 2022 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 1° gen. 2021 ([RU 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^57-3]: Nuovo testo giusta la cifra I del D del CN del 1° ott. 2010 (Assenze giustificate dalle votazioni sugli elenchi nominativi), in vigore dal 29 nov. 2010 ([RU 2011 1](https://fedlex.data.admin.ch/eli/oc/2011/1); [FF 2010 5261](https://fedlex.data.admin.ch/eli/fga/2010/1060)[5271](https://fedlex.data.admin.ch/eli/fga/2010/1062)).
+[^57-4]: Abrogato dalla cifra I del D del CN del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 58
 
 **Eccezioni all’espressione del voto mediante procedimento elettronico**[^58-1]
 
-In caso di guasto dei dispositivi elettronici di voto, la votazione avviene per appello nominale.
+<sup>1</sup> In caso di deliberazione segreta o di difetto del sistema di voto elettronico, la votazione si svolge per alzata e seduta o mediante un segno oppure per appello nominale (art. 60 cpv. 1).
 
-[^58-1]: Nuovo testo giusta il n. I del D del CN del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^58-1]: Nuovo testo giusta la cifra I del D del CN del 21 mar. 2025 (Consentire di nuovo la votazione senza appello nominale), in vigore dal 5 mag. 2025 ([RU 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
+
+### <sup>2</sup> Il numero di voti è accertato.
 
 #### Art. 58a
 
 [^58a-1]
 
-[^58a-1]: Introdotto dal n. I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
+[^58a-1]: Introdotto dalla cifra I del D del CN del 4 mag. 2020 (Deliberazioni in una sede diversa dal Palazzo del Parlamento), in vigore dal 4 mag. 2020 sino a che il CN non tornerà a riunirsi nel Palazzo del Parlamento (7 set. 2020) ([RU 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [FF 2020 3901](https://fedlex.data.admin.ch/eli/fga/2020/925)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abrogato dal n. I del D del CN del 15 giu. 2018, con effetto dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^59-1]: Abrogato dalla cifra I del D del CN del 15 giu. 2018, con effetto dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 60
 
 **Votazione per appello nominale**
 
-<sup>1</sup> ... [^60-1]
+<sup>1</sup> La votazione si svolge per appello nominale se la mozione d’ordine presentata a tal fine è accolta da almeno 30 deputati. Salvo nei casi di deliberazione segreta, il risultato della votazione è pubblicato secondo l’articolo 57.[^60-1]
 
 <sup>2</sup> Nella votazione per appello nominale i deputati, nominati in ordine alfabetico, rispondono dal loro banco con «sì» o «no» oppure con «astensione» al quesito posto dal presidente.
 
@@ -1001,7 +1003,7 @@ In caso di guasto dei dispositivi elettronici di voto, la votazione avviene per 
 
 <sup>4</sup> Contano soltanto i voti dei deputati che hanno risposto immediatamente dopo la loro chiamata.
 
-[^60-1]: Abrogato dal n. I del D del CN del 15 giu. 2018, con effetto dal 26 nov. 2018 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^60-1]: Nuovo testo giusta la cifra I del D del CN del 21 mar. 2025 (Consentire di nuovo la votazione senza appello nominale), in vigore dal 5 mag. 2025 ([RU 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 ## Capitolo 4: Polizia della Camera
 

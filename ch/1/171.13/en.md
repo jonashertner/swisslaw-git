@@ -4,11 +4,11 @@ title: Standing Orders of the National Council of 3 October 2003 (SO-NC)
 short: SO-NC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: en
-version: 2023-12-04
+version: 2025-05-05
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-NC)
 
-of 3 October 2003 (Status as of 4 December 2023)
+of 3 October 2003 (Status as of 5 May 2025)
 
 The National Council,
 
@@ -975,9 +975,11 @@ On the list of names, an indication is given for each member of the Council if h
 
 **Exceptions from electronic voting**[^58-1]
 
-If the electronic voting equipment is out of order, voting takes place by roll call.
+<sup>1</sup> When sitting in camera or if the electronic voting equipment is out of order, votes shall be cast by standing up or giving a signal or by roll call (Art. 60 para. 1).
 
-[^58-1]: Amended by No I of the NC Decree of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+<sup>2</sup> The number of votes cast must be counted.
+
+[^58-1]: Amended by No I of the NC Decree of 21 March 2025 (Re-Enabling Voting without Roll Call), in force since 5 May 2025 ([AS 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [BBl 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 #### Art. 58a
 
@@ -995,7 +997,7 @@ If the electronic voting equipment is out of order, voting takes place by roll c
 
 **Roll call voting**
 
-<sup>1</sup> ...[^60-1]
+<sup>1</sup> Votes shall be cast by roll call if at least 30 members of the Council agree to a point of order to that effect. The result of the vote shall be published in accordance with Article 57, apart from when sitting in camera.[^60-1]
 
 <sup>2</sup> In a vote by calling the roll, the members of the Council respond from their seats in alphabetical order of their names to question put to the vote by the President with a «Yes», «No» or «Abstain».
 
@@ -1003,7 +1005,7 @@ If the electronic voting equipment is out of order, voting takes place by roll c
 
 <sup>4</sup> The only vote that counts is that cast immediately after the member's name is read out counts.
 
-[^60-1]: Repealed by No I of the NC Decree of 15 June 2018, with effect from 26 Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^60-1]: Amended by No I of the NC Decree of 21 March 2025 (Re-Enabling Voting without Roll Call), in force since 5 May 2025 ([AS 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [BBl 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 ## Chapter 4 House Rules
 

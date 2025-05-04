@@ -4,11 +4,11 @@ title: Geschäftsreglement des Nationalrates vom 3. Oktober 2003 (GRN)
 short: GRN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: de
-version: 2023-12-04
+version: 2025-05-05
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/de"
 
 (GRN)
 
-vom 3. Oktober 2003 (Stand am 4. Dezember 2023)
+vom 3. Oktober 2003 (Stand am 5. Mai 2025)
 
 Der Nationalrat,
 
@@ -973,9 +973,11 @@ Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 
 **Ausnahmen von der elektronischen Stimmabgabe**[^58-1]
 
-Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter Namensaufruf.
+<sup>1</sup> Bei geheimer Beratung oder bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe durch Aufstehen beziehungsweise Zeichengeben oder unter Namensaufruf (Art. 60 Abs. 1).
 
-[^58-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+<sup>2</sup> Die Stimmenzahlen sind zu ermitteln.
+
+[^58-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. März 2025 (Abstimmen ohne Namensaufruf wieder ermöglichen), in Kraft seit 5. Mai 2025 ([AS 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [BBl 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 #### Art. 58a
 
@@ -993,7 +995,7 @@ Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter N
 
 **Namensaufruf**
 
-<sup>1</sup> …[^60-1]
+<sup>1</sup> Die Abstimmung findet unter Namensaufruf statt, wenn mindestens 30 Ratsmitglieder einem entsprechenden Ordnungsantrag zustimmen. Ausser bei geheimer Beratung wird das Abstimmungsergebnis nach Artikel 57 veröffentlicht.[^60-1]
 
 <sup>2</sup> Bei der Abstimmung unter Namensaufruf antworten die Ratsmitglieder in der alphabetischen Reihenfolge ihrer Namen auf die von der Präsidentin oder vom Präsidenten vorgelegte Abstimmungsfrage von ihrem Platz aus mit «Ja», «Nein» oder «Enthaltung».
 
@@ -1001,7 +1003,7 @@ Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter N
 
 <sup>4</sup> Es zählt nur die Stimme, die unmittelbar nach der Verlesung des einzelnen Namens abgegeben wird.
 
-[^60-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^60-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. März 2025 (Abstimmen ohne Namensaufruf wieder ermöglichen), in Kraft seit 5. Mai 2025 ([AS 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [BBl 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 ## 4. Kapitel: Hausrecht
 

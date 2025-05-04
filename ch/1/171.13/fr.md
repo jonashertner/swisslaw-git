@@ -4,11 +4,11 @@ title: Règlement du Conseil national du 3 octobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: fr
-version: 2023-12-04
+version: 2025-05-05
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/fr"
 
 (RCN)
 
-du 3 octobre 2003 (État le 4 décembre 2023)
+du 3 octobre 2003 (État le 5 mai 2025)
 
 Le Conseil national,
 
@@ -975,9 +975,11 @@ Pour chacun des députés, une des mentions suivantes figure sur la liste nomina
 
 **Exceptions à l’utilisation du système de vote électronique**[^58-1]
 
-Lorsque le système électronique tombe en panne, le vote a lieu à l’appel nominal.
+<sup>1</sup> Lorsque les délibérations ont lieu à huis clos ou que le système électronique tombe en panne, le vote a lieu par assis et levé, ou par un autre signe, ou à l’appel nominal (art. 60, al. 1).
 
-[^58-1]: Nouvelle teneur selon le ch. I de l’A du CN du 15 juin 2018 (Droit parlementaire. Mod. diverses), en vigueur depuis le 26 nov. 2018 ([RO 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+<sup>2</sup> Les voix sont comptées.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’A du CN du 21 mars 2025 (Réintroduire le vote sans appel nominal), en vigueur depuis le 5 mai 2025 ([RO 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 #### Art. 58a
 
@@ -995,7 +997,7 @@ Lorsque le système électronique tombe en panne, le vote a lieu à l’appel no
 
 **Vote par appel nominal**
 
-<sup>1</sup> ...[^60-1]
+<sup>1</sup> Le vote a lieu à l’appel nominal si la demande en est faite au moyen d’une motion d’ordre approuvée par 30 députés au moins. Sauf en cas de délibération à huis clos, le résultat du vote est publié selon les modalités prévues à l’art. 57.[^60-1]
 
 <sup>2</sup> Lorsqu’un vote a lieu par appel nominal, les députés répondent dans l’ordre alphabétique et de leur place par «oui», «non» ou «abstention» à la question posée par le président.
 
@@ -1003,7 +1005,7 @@ Lorsque le système électronique tombe en panne, le vote a lieu à l’appel no
 
 <sup>4</sup> Seules comptent les voix des députés qui ont répondu immédiatement à l’appel.
 
-[^60-1]: Abrogé par le ch. I de l’A du CN du 15 juin 2018 (Droit parlementaire. Mod. diverses), avec effet au 26 nov. 2018 ([RO 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^60-1]: Nouvelle teneur selon le ch. I de l’A du CN du 21 mars 2025 (Réintroduire le vote sans appel nominal), en vigueur depuis le 5 mai 2025 ([RO 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 ## Chapitre 4 Droit de disposer des locaux
 
