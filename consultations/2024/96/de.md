@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über das Entlastungspaket 2027
 document: Vernehmlassungsvorlage
 language: de

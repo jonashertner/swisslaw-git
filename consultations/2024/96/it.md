@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulle misure di sgravio del bilancio della Confederazione applicabili dal 2027
 document: Progetto posto in consultazione
 language: it

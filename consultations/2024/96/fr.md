@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur le programme d’allégement budgétaire 2027
 document: Projet mis en consultation
 language: fr
