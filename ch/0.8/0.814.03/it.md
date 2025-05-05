@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convenzione di Stoccolma del 22 maggio 2001 sugli inquinanti organici persistenti (Convenzione POP) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: it
-version: 2025-02-26
+version: 2025-05-06
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250506/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250506-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Conclusa a Stoccolma il 22 maggio 2001 Approvata dall’Assemblea federale il 2 giugno 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 30 luglio 2003 Entrata in vigore per la Svizzera il 17 maggio 2004
 
-(Stato 26 febbraio 2025)
+(Stato 6 maggio 2025)
 
 [^t-1]: [RU 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -1355,7 +1355,7 @@ In caso di disaccordo sulla competenza della commissione di conciliazione, è la
 
 Le spese della commissione sono sostenute dalle Parti in causa secondo le proporzioni da esse convenute. La commissione tiene un registro di tutte le proprie spese e ne fornisce un estratto finale alle.
 
-Campo d’applicazione il 13 maggio 2022[^t-6]
+Campo d’applicazione il 6 maggio 2025[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1407,8 +1407,9 @@ Campo d’applicazione il 13 maggio 2022[^t-6]
 <tr><td>Côte d’Ivoire</td><td>20 gennaio</td><td>2004</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Croazia</td><td>30 gennaio</td><td>2007</td><td>30 aprile</td><td>2007</td></tr>
 <tr><td>Cuba</td><td>21 dicembre</td><td>2007</td><td>20 marzo</td><td>2008</td></tr>
-<tr><td>Danimarca <sup>a</sup></td><td>17 dicembre</td><td>2003</td><td>17 maggio</td><td>2004</td></tr>
+<tr><td>Danimarca</td><td>17 dicembre</td><td>2003</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Faeröer, Isole</td><td>10 febbraio</td><td>2012</td><td>10 febbraio</td><td>2012</td></tr>
+<tr><td>Groenlandia</td><td>22 marzo</td><td>2024</td><td>22 marzo</td><td>2024</td></tr>
 <tr><td>Dominica</td><td>8 agosto</td><td>2003 A</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>4 maggio</td><td>2007</td><td>2 agosto</td><td>2007</td></tr>
 <tr><td>Ecuador</td><td>7 giugno</td><td>2004</td><td>5 settembre</td><td>2004</td></tr>
@@ -1448,6 +1449,7 @@ Campo d’applicazione il 13 maggio 2022[^t-6]
 <tr><td>Islanda</td><td>29 maggio</td><td>2002</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Isole Cook</td><td>29 giugno</td><td>2004 A</td><td>27 settembre</td><td>2004</td></tr>
 <tr><td>Isole Marshall</td><td>27 gennaio</td><td>2003 A</td><td>17 maggio</td><td>2004</td></tr>
+<tr><td>Italia</td><td>29 settembre</td><td>2022</td><td>28 dicembre</td><td>2022</td></tr>
 <tr><td>Kazakistan</td><td>9 novembre</td><td>2007</td><td>7 febbraio</td><td>2008</td></tr>
 <tr><td>Kenya</td><td>24 settembre</td><td>2004</td><td>23 dicembre</td><td>2004</td></tr>
 <tr><td>Kirghizistan</td><td>12 dicembre</td><td>2006</td><td>12 marzo</td><td>2007</td></tr>
@@ -1547,9 +1549,8 @@ Campo d’applicazione il 13 maggio 2022[^t-6]
 <tr><td>Zambia</td><td>7 luglio</td><td>2006</td><td>5 ottobre</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012</td><td>30 maggio</td><td>2012</td></tr>
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/), oppure ottenuto presso la Direzione del diritto interna-zionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. non vale per Tokelau.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>a</sup> La Conv. non vale per Tokelau</td></tr>
+<tr><td colspan="5"><sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: [RU 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483);[2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-6]: [RU 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298); [2025 287](https://fedlex.data.admin.ch/eli/oc/2025/287). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

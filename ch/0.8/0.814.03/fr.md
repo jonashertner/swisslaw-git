@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convention de Stockholm du 22 mai 2001 sur les polluants organiques persistants (Convention POP) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: fr
-version: 2025-02-26
+version: 2025-05-06
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250506/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250506-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250506/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 30 juillet 2003
 
 Entrée en vigueur pour la Suisse le 17 mai 2004
 
-(État le 26 février 2025)
+(État le 6 mai 2025)
 
 [^t-1]: [RO 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -774,8 +774,8 @@ Chaque Partie:
 
 Aux fins de la présente Annexe:
 
-- a. «Hexabromodiphényléther» et «heptabromodiphényléther» désignent le 2,2',4,4',5,5'-hexabromodiphényléther (BDE-153, N<sup>o</sup> de CAS: 68631-49-2), le 2,2',4,4',5,6'-hexabromodiphényléther (BDE-154, N<sup>o</sup> de CAS: 207122-15-4), le 2,2',3,3',4,5',6-heptabromodiphényléther (BDE-175, N<sup>o</sup> de CAS: 446255-22-7) et le 2,2',3,4,4',5',6-heptabromodiphényléther (BDE-183, N<sup>o</sup> de CAS: 207122-16-5) ainsi que les autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther commercial.
-- b. «Tétrabromodiphényléther» et «pentabromodiphényléther» désignent le 2,2',4,4'-tétrabromodiphényléther (BDE-47, N<sup>o</sup> de CAS: 5436-43-1) et le 2,2',4,4',5-pentabromodiphényléther (BDE-99, N<sup>o</sup> de CAS: 60348-60-9) ainsi que les autres tétra- et pentabromodiphényléthers présents dans le pentabromodiphényléther commercial.
+- a. «Hexabromodiphényléther» et «heptabromodiphényléther» désignent le 2,2’,4,4’,5,5’-hexabromodiphényléther (BDE-153, N<sup>o</sup> de CAS: 68631-49-2), le 2,2’,4,4’,5,6’-hexabromodiphényléther (BDE-154, N<sup>o</sup> de CAS: 207122-15-4), le 2,2’,3,3’,4,5’,6-heptabromodiphényléther (BDE-175, N<sup>o</sup> de CAS: 446255-22-7) et le 2,2’,3,4,4’,5’,6-heptabromodiphényléther (BDE-183, N<sup>o</sup> de CAS: 207122-16-5) ainsi que les autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther commercial.
+- b. «Tétrabromodiphényléther» et «pentabromodiphényléther» désignent le 2,2’,4,4’-tétrabromodiphényléther (BDE-47, N<sup>o</sup> de CAS: 5436-43-1) et le 2,2’,4,4’,5-pentabromodiphényléther (BDE-99, N<sup>o</sup> de CAS: 60348-60-9) ainsi que les autres tétra- et pentabromodiphényléthers présents dans le pentabromodiphényléther commercial.
 - c. On entend par «Hexabromocyclododécane» l’hexabromocyclododécane (N<sup>o</sup> de CAS: 25637-99-4), le 1,2,5,6,9,10-hexabromocyclododécane (N<sup>o</sup> de CAS: 3194-55-6) et ses principaux diastéréoisomères: l’alphahexabromocyclododécane (N<sup>o</sup> de CAS: 134237-50-6); le bêta-hexabromocyclododécane (N<sup>o</sup> de CAS: 134237-51-7); et le gamma-hexabromocyclododécane (N<sup>o</sup> de CAS: 134237-52-8).
 
 ### Partie IV Hexabromodiphényléther et heptabromodiphényléther
@@ -1370,7 +1370,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission sont supportés par les parties au différend dans des proportions dont elles conviennent. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Champ d’application le 13 mai 2022[^t-6]
+Champ d’application le 6 mai 2025[^t-6]
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1408,8 +1408,8 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Cap-Vert</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">2006 A</td><td>30 mai</td><td>2006</td></tr>
 <tr><td colspan="2">Chili</td><td colspan="2">20 janvier</td><td colspan="2">2005</td><td>20 avril</td><td>2005</td></tr>
 <tr><td colspan="2">Chine\*</td><td colspan="2">13 août</td><td colspan="2">2004</td><td>11 novembre</td><td>2004</td></tr>
-<tr><td colspan="2">[tab] Hong Kong</td><td colspan="2">13 août</td><td colspan="2">2004</td><td>11 novembre</td><td>2004</td></tr>
-<tr><td colspan="2">[tab] Macao</td><td colspan="2">13 août</td><td colspan="2">2004</td><td>11 novembre</td><td>2004</td></tr>
+<tr><td colspan="2">Hong Kong</td><td colspan="2">13 août</td><td colspan="2">2004</td><td>11 novembre</td><td>2004</td></tr>
+<tr><td colspan="2">Macao</td><td colspan="2">13 août</td><td colspan="2">2004</td><td>11 novembre</td><td>2004</td></tr>
 <tr><td colspan="2">Chypre</td><td colspan="2">7 mars</td><td colspan="2">2005 A</td><td>5 juin</td><td>2005</td></tr>
 <tr><td colspan="2">Colombie</td><td colspan="2">22 octobre</td><td colspan="2">2008</td><td>20 janvier</td><td>2009</td></tr>
 <tr><td colspan="2">Comores</td><td colspan="2">23 février</td><td colspan="2">2007</td><td>24 mai</td><td>2007</td></tr>
@@ -1421,7 +1421,8 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">20 janvier</td><td colspan="2">2004</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Croatie</td><td colspan="2">30 janvier</td><td colspan="2">2007</td><td>30 avril</td><td>2007</td></tr>
 <tr><td colspan="2">Cuba</td><td colspan="2">21 décembre</td><td colspan="2">2007</td><td>20 mars</td><td>2008</td></tr>
-<tr><td colspan="2">Danemark <sup>a</sup></td><td colspan="2">17 décembre</td><td colspan="2">2003</td><td>17 mai</td><td>2004</td></tr>
+<tr><td colspan="2">Danemark</td><td colspan="2">17 décembre</td><td colspan="2">2003</td><td>17 mai</td><td>2004</td></tr>
+<tr><td colspan="2">Groenland</td><td colspan="2">22 mars</td><td colspan="2">2024</td><td>22 mars</td><td>2024</td></tr>
 <tr><td colspan="2">Îles Féroé</td><td colspan="2">10 février</td><td colspan="2">2012</td><td>10 février</td><td>2012</td></tr>
 <tr><td colspan="2">Djibouti</td><td colspan="2">11 mars</td><td colspan="2">2004</td><td>9 juin</td><td>2004</td></tr>
 <tr><td colspan="2">Dominique</td><td colspan="2">8 août</td><td colspan="2">2003 A</td><td>17 mai</td><td>2004</td></tr>
@@ -1459,6 +1460,7 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Iraq</td><td colspan="2">8 mars</td><td colspan="2">2016 A</td><td>6 juin</td><td>2016</td></tr>
 <tr><td colspan="2">Irlande</td><td colspan="2">5 août</td><td colspan="2">2010</td><td>3 novembre</td><td>2010</td></tr>
 <tr><td colspan="2">Islande</td><td colspan="2">29 mai</td><td colspan="2">2002</td><td>17 mai</td><td>2004</td></tr>
+<tr><td colspan="2">Italie</td><td colspan="2">29 septembre</td><td colspan="2">2022</td><td>28 décembre</td><td>2022</td></tr>
 <tr><td colspan="2">Jamaïque</td><td colspan="2">1<sup>er</sup> juin</td><td colspan="2">2007</td><td>30 août</td><td>2007</td></tr>
 <tr><td colspan="2">Japon</td><td colspan="2">30 août</td><td colspan="2">2002 A</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Jordanie</td><td colspan="2">8 novembre</td><td colspan="2">2004</td><td>6 février</td><td>2005</td></tr>
@@ -1500,7 +1502,7 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Nigéria</td><td colspan="2">24 mai</td><td colspan="2">2004</td><td>22 août</td><td>2004</td></tr>
 <tr><td colspan="2">Nioué</td><td colspan="2">2 septembre</td><td colspan="2">2005</td><td>1<sup>er</sup> décembre</td><td>2005</td></tr>
 <tr><td colspan="2">Norvège</td><td colspan="2">11 juillet</td><td colspan="2">2002</td><td>17 mai</td><td>2004</td></tr>
-<tr><td colspan="2">Nouvelle-Zélande <sup>b</sup></td><td colspan="2">24 septembre</td><td colspan="2">2004</td><td>23 décembre</td><td>2004</td></tr>
+<tr><td colspan="2">Nouvelle-Zélande <sup>a</sup></td><td colspan="2">24 septembre</td><td colspan="2">2004</td><td>23 décembre</td><td>2004</td></tr>
 <tr><td colspan="2">Oman</td><td colspan="2">19 janvier</td><td colspan="2">2005</td><td>19 avril</td><td>2005</td></tr>
 <tr><td colspan="2">Ouganda</td><td colspan="2">20 juillet</td><td colspan="2">2004 A</td><td>18 octobre</td><td>2004</td></tr>
 <tr><td colspan="2">Ouzbékistan\*</td><td colspan="2">28 juin</td><td colspan="2">2019 A</td><td>26 septembre</td><td>2019</td></tr>
@@ -1510,7 +1512,7 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Panama</td><td colspan="2">5 mars</td><td colspan="2">2003</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Papouasie-Nouvelle-Guinée</td><td colspan="2">7 octobre</td><td colspan="2">2003</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Paraguay</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">2004</td><td>30 juin</td><td>2004</td></tr>
-<tr><td colspan="2">Pays-Bas\* <sup>c</sup></td><td colspan="2">28 janvier</td><td colspan="2">2002</td><td>17 mai</td><td>2004</td></tr>
+<tr><td colspan="2">Pays-Bas\* <sup>b</sup></td><td colspan="2">28 janvier</td><td colspan="2">2002</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Pérou</td><td colspan="2">14 septembre</td><td colspan="2">2005</td><td>13 décembre</td><td>2005</td></tr>
 <tr><td colspan="2">Philippines</td><td colspan="2">27 février</td><td colspan="2">2004</td><td>27 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Pologne</td><td colspan="2">23 octobre</td><td colspan="2">2008</td><td>21 janvier</td><td>2009</td></tr>
@@ -1561,7 +1563,7 @@ Champ d’application le 13 mai 2022[^t-6]
 <tr><td colspan="2">Yémen</td><td colspan="2">9 janvier</td><td colspan="2">2004</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">7 juillet</td><td colspan="2">2006</td><td>5 octobre</td><td>2006</td></tr>
 <tr><td colspan="2">Zimbabwe</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">2012</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): http://treaties.un.org ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groenland. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-6]: [RO 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307), [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-6]: [RO 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298); [2025 287](https://fedlex.data.admin.ch/eli/oc/2025/287). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

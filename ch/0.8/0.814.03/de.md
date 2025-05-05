@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Stockholmer Übereinkommen vom 22. Mai 2001 über persistente organische Schadstoffe (POP-Konvention) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: de
-version: 2025-02-26
+version: 2025-05-06
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250226/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20250506/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20250506-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20250506/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 30. Juli 2003
 
 In Kraft getreten für die Schweiz am 17. Mai 2004
 
-(Stand am 26. Februar 2025)
+(Stand am 6. Mai 2025)
 
 [^t-1]: [AS 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -1341,7 +1341,7 @@ Bei Meinungsverschiedenheiten über die Zuständigkeit der Vergleichskommission 
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu zwischen ihnen vereinbarten Teilen getragen. Die Kommission verzeichnet alle ihre Kosten und legt den Streitparteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 13. Mai 2022[^t-6]
+Geltungsbereich am 6. Mai 2025[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1379,8 +1379,9 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Cook-Inseln</td><td>29. Juni</td><td>2004 B</td><td>27. September</td><td>2004</td></tr>
 <tr><td>Costa Rica</td><td>6. Februar</td><td>2007</td><td>7. Mai</td><td>2007</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20. Januar</td><td>2004</td><td>17. Mai</td><td>2004</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td>17. Dezember</td><td>2003</td><td>17. Mai</td><td>2004</td></tr>
+<tr><td>Dänemark</td><td>17. Dezember</td><td>2003</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Färöer</td><td>10. Februar</td><td>2012</td><td>10. Februar</td><td>2012</td></tr>
+<tr><td>Grönland</td><td>22. März</td><td>2024</td><td>22. März</td><td>2024</td></tr>
 <tr><td>Deutschland</td><td>25. April</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Dominica</td><td>8. August</td><td>2003 B</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Dominikanische Republik</td><td>4. Mai</td><td>2007</td><td>2. August</td><td>2007</td></tr>
@@ -1411,6 +1412,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Iran</td><td>6. Februar</td><td>2006</td><td>7. Mai</td><td>2006</td></tr>
 <tr><td>Irland</td><td>5. August</td><td>2010</td><td>3. November</td><td>2010</td></tr>
 <tr><td>Island</td><td>29. Mai</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
+<tr><td>Italien</td><td>29. September</td><td>2022</td><td>28. Dezember</td><td>2022</td></tr>
 <tr><td>Jamaika</td><td>1. Juni</td><td>2007</td><td>30. August</td><td>2007</td></tr>
 <tr><td>Japan</td><td>30. August</td><td>2002 B</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Jemen</td><td>9. Januar</td><td>2004</td><td>17. Mai</td><td>2004</td></tr>
@@ -1461,9 +1463,9 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Namibia</td><td>24. Juni</td><td>2005 B</td><td>22. September</td><td>2005</td></tr>
 <tr><td>Nauru</td><td>9. Mai</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Nepal</td><td>6. März</td><td>2007</td><td>4. Juni</td><td>2007</td></tr>
-<tr><td>Neuseeland <sup>b</sup></td><td>24. September</td><td>2004</td><td>23. Dezember</td><td>2004</td></tr>
+<tr><td>Neuseeland <sup>a</sup></td><td>24. September</td><td>2004</td><td>23. Dezember</td><td>2004</td></tr>
 <tr><td>Nicaragua</td><td>1. Dezember</td><td>2005</td><td>1. März</td><td>2006</td></tr>
-<tr><td>Niederlande\* <sup>c</sup></td><td>28. Januar</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
+<tr><td>Niederlande\* <sup>b</sup></td><td>28. Januar</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Niger</td><td>12. April</td><td>2006</td><td>11. Juli</td><td>2006</td></tr>
 <tr><td>Nigeria</td><td>24. Mai</td><td>2004</td><td>22. August</td><td>2004</td></tr>
 <tr><td>Niue</td><td>2. September</td><td>2005</td><td>1. Dezember</td><td>2005</td></tr>
@@ -1532,7 +1534,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Vietnam</td><td>22. Juli</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>12. Februar</td><td>2008</td><td>12. Mai</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>7. März</td><td>2005 B</td><td>5. Juni</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298); [2025 287](https://fedlex.data.admin.ch/eli/oc/2025/287). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
