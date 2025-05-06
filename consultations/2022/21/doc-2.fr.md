@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision partielle de deux ordonnances sur la surveillance de la correspondance par poste et télécommunication (OSCPT, OME-SCPT)"
 document: Projet mis en consultation-2
 language: fr

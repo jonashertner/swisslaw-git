@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale delle due ordinanze sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OSCPT, OE-SCPT)"
 document: Progetto posto in consultazione-2
 language: it
