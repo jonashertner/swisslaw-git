@@ -3,11 +3,11 @@ sr: "0.311.54"
 title: Übereinkommen der Vereinten Nationen vom 15. November 2000 gegen die grenzüberschreitende organisierte Kriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/862"
 language: de
-version: 2020-03-26
+version: 2025-05-07
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20200326/de/xml/fedlex-data-admin-ch-eli-cc-2006-862-20200326-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20200326/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20250507/de/xml/fedlex-data-admin-ch-eli-cc-2006-862-20250507-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20250507/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2006** 5861; BBl **2005** 6693
 
 Abgeschlossen in New York am 15. November 2000 Von der Bundesversammlung genehmigt am 23. Juni 2006[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006 Für die Schweiz in Kraft getreten am 26. November 2006
 
-(Stand am 26. März 2020)
+(Stand am 7. Mai 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861)).
 
@@ -767,7 +767,7 @@ Jeder Vertragsstaat trifft die erforderlichen gesetzgeberischen und anderen Mass
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. März 2020**[^t-2]**
+Geltungsbereich am 7. Mai 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -792,6 +792,7 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>Belgien</td><td>11. August</td><td>2004</td><td>10. September</td><td>2004</td></tr>
 <tr><td>Belize\*</td><td>26. September</td><td>2003 B</td><td>26. Oktober</td><td>2003</td></tr>
 <tr><td>Benin</td><td>30. August</td><td>2004</td><td>29. September</td><td>2004</td></tr>
+<tr><td>Bhutan\*</td><td>20. Februar</td><td>2023 B</td><td>22. März</td><td>2023</td></tr>
 <tr><td>Bolivien\*</td><td>10. Oktober</td><td>2005</td><td>9. November</td><td>2005</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>24. April</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Botsuana</td><td>29. August</td><td>2002</td><td>29. September</td><td>2003</td></tr>
@@ -804,7 +805,6 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>China\*</td><td>23. September</td><td>2003</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td>Hongkong</td><td>27. September</td><td>2006</td><td>27. September</td><td>2006</td></tr>
 <tr><td>Macau</td><td>23. September</td><td>2003</td><td>23. Oktober</td><td>2003</td></tr>
-<tr><td>Cook-Inseln</td><td>4. März</td><td>2004 B</td><td>3. April</td><td>2004</td></tr>
 <tr><td>Costa Rica</td><td>24. Juli</td><td>2003</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Côte d’Ivoire</td><td>25. Oktober</td><td>2012</td><td>24. November</td><td>2012</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>30. September</td><td>2003</td><td>30. Oktober</td><td>2003</td></tr>
@@ -893,6 +893,8 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>Nauru</td><td>12. Juli</td><td>2012</td><td>11. August</td><td>2012</td></tr>
 <tr><td>Nepal\*</td><td>23. Dezember</td><td>2011</td><td>22. Januar</td><td>2012</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>19. Juli</td><td>2002</td><td>29. September</td><td>2003</td></tr>
+<tr><td>Cook-Inseln</td><td>4. März</td><td>2004 B</td><td>3. April</td><td>2004</td></tr>
+<tr><td>Niue</td><td>16. Juli</td><td>2012 B</td><td>15. August</td><td>2012</td></tr>
 <tr><td>Nicaragua</td><td>9. September</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Niederlande <sup>c</sup></td><td>26. Mai</td><td>2004</td><td>25. Juni</td><td>2004</td></tr>
 <tr><td>Aruba</td><td>18. Januar</td><td>2007</td><td>18. Januar</td><td>2007</td></tr>
@@ -901,7 +903,6 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>Sint Maarten</td><td>9. September</td><td>2010</td><td>9. September</td><td>2010</td></tr>
 <tr><td>Niger</td><td>30. September</td><td>2004</td><td>30. Oktober</td><td>2004</td></tr>
 <tr><td>Nigeria</td><td>28. Juni</td><td>2001</td><td>29. September</td><td>2003</td></tr>
-<tr><td>Niue</td><td>16. Juli</td><td>2012 B</td><td>15. August</td><td>2012</td></tr>
 <tr><td>Nordmazedonien\*</td><td>12. Januar</td><td>2005</td><td>11. Februar</td><td>2005</td></tr>
 <tr><td>Norwegen</td><td>23. September</td><td>2003</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td>Oman</td><td>13. Mai</td><td>2005 B</td><td>12. Juni</td><td>2005</td></tr>
@@ -933,6 +934,7 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>Singapur\*</td><td>28. August</td><td>2007</td><td>27. September</td><td>2007</td></tr>
 <tr><td>Slowakei\*</td><td>3. Dezember</td><td>2003</td><td>2. Januar</td><td>2004</td></tr>
 <tr><td>Slowenien</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
+<tr><td>Somalia\*</td><td>25. März</td><td>2025 B</td><td>24. April</td><td>2025</td></tr>
 <tr><td>Spanien\*</td><td>1. März</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Sri Lanka</td><td>22. September</td><td>2006</td><td>22. Oktober</td><td>2006</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
@@ -940,6 +942,7 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010</td><td>28. November</td><td>2010</td></tr>
 <tr><td>Südafrika\*</td><td>20. Februar</td><td>2004</td><td>21. März</td><td>2004</td></tr>
 <tr><td>Sudan</td><td>10. Dezember</td><td>2004</td><td>9. Januar</td><td>2005</td></tr>
+<tr><td>Südsudan</td><td>20. Oktober</td><td>2023 B</td><td>19. November</td><td>2023</td></tr>
 <tr><td>Suriname</td><td>25. Mai</td><td>2007 B</td><td>24. Juni</td><td>2007</td></tr>
 <tr><td>Syrien\*</td><td>8. April</td><td>2009</td><td>8. Mai</td><td>2009</td></tr>
 <tr><td>Tadschikistan</td><td>8. Juli</td><td>2002</td><td>29. September</td><td>2003</td></tr>
@@ -977,10 +980,10 @@ Geltungsbereich am 26. März 2020**[^t-2]**
 <tr><td>Vietnam\*</td><td>8. Juni</td><td>2012</td><td>8. Juli</td><td>2012</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>14. September</td><td>2004 B</td><td>14. Oktober</td><td>2004</td></tr>
 <tr><td>Zypern</td><td>22. April</td><td>2003</td><td>29. September</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Notifikationen der Vertragsstaaten über die zentralen Behörden, gemäss Art. 18 Abs. 13 sowie die Notifikationen gemäss den Art. 5 Abs. 3, 16 Abs. 5*a* und 5*b*, Art. 18 Abs. 14 und Art. 31 Abs. 6, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen sowie die Notifikationen der Vertragsstaaten zu den erwähnten Artikeln werden, mit Ausnahme jener der Schweiz, in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Notifikationen der Vertragsstaaten über die zentralen Behörden, gemäss Art. 18 Abs. 13 sowie die Notifikationen gemäss den Art. 5 Abs. 3, 16 Abs. 5*a* und 5*b*, Art. 18 Abs. 14 und Art. 31 Abs. 6, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen sowie die Notifikationen der Vertragsstaaten zu den erwähnten Artikeln werden, mit Ausnahme jener der Schweiz, in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862), [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479)[5193](https://fedlex.data.admin.ch/eli/oc/2007/729), [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559), [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218), [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442), [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205)[5605](https://fedlex.data.admin.ch/eli/oc/2012/653), [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367), [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542), [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131), [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85), [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862); [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479), [5193](https://fedlex.data.admin.ch/eli/oc/2007/729); [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559); [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218); [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442); [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205), [5605](https://fedlex.data.admin.ch/eli/oc/2012/653); [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367); [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542); [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131); [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85); [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218); [2025 292](https://fedlex.data.admin.ch/eli/oc/2025/292). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse: veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Notifizierung auf Grund des Artikels 18
 
