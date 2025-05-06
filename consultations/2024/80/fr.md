@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’assurance-maladie (Objectifs en matière de coûts et de qualité)
 document: Projet mis en consultation
 language: fr

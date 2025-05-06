@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’assicurazione malattie (Obiettividi costo e di qualità)
 document: Progetto posto in consultazione
 language: it
