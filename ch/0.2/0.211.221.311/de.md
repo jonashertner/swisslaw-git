@@ -3,11 +3,11 @@ sr: "0.211.221.311"
 title: Übereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption (mit Verzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/99"
 language: de
-version: 2023-05-17
+version: 2025-05-07
 adopted: 1993-05-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20230517/de/xml/fedlex-data-admin-ch-eli-cc-2003-99-20230517-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20230517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20250507/de/xml/fedlex-data-admin-ch-eli-cc-2003-99-20250507-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20250507/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 24. September 2002
 
 In Kraft getreten für die Schweiz am 1. Januar 2003
 
-(Stand am 17. Mai 2023)
+(Stand am 7. Mai 2025)
 
 [^t-1]: [AS 2003 414](https://fedlex.data.admin.ch/eli/oc/2003/98)
 
@@ -50,7 +50,7 @@ haben die folgenden Bestimmungen vereinbart:
 
 #### Art. 1
 
-Ziel dieses Übereinkommens ist es,
+Ziel dieses Übereinkommens ist es:
 
 - a) Schutzvorschriften einzuführen, damit internationale Adoptionen zum Wohl des Kindes und unter Wahrung seiner völkerrechtlich anerkannten Grundrechte stattfinden;
 - b) ein System der Zusammenarbeit unter den Vertragsstaaten einzurichten, um die Einhaltung dieser Schutzvorschriften sicherzustellen und dadurch die Entführung und den Verkauf von Kindern sowie den Handel mit Kindern zu verhindern;
@@ -70,7 +70,7 @@ Das Übereinkommen ist nicht mehr anzuwenden, wenn die in Artikel 17 Buchstabe c
 
 #### Art. 4
 
-Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zuständigen Behörden des Heimatstaats
+Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zuständigen Behörden des Heimatstaats:
 
 - a) festgestellt haben, dass das Kind adoptiert werden kann;
 - b) nach gebührender Prüfung der Unterbringungsmöglichkeiten für das Kind im Heimatstaat entschieden haben, dass eine internationale Adoption dem Wohl des Kindes dient;
@@ -88,7 +88,7 @@ Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zu
 
 #### Art. 5
 
-Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zuständigen Behörden des Aufnahmestaats
+Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zuständigen Behörden des Aufnahmestaats:
 
 - a) entschieden haben, dass die künftigen Adoptiveltern für eine Adoption in Betracht kommen und dazu geeignet sind;
 - b) sich vergewissert haben, dass die künftigen Adoptiveltern soweit erforderlich beraten worden sind, und
@@ -106,7 +106,9 @@ Eine Adoption nach dem Übereinkommen kann nur durchgeführt werden, wenn die zu
 
 <sup>(1)</sup> Die Zentralen Behörden arbeiten zusammen und fördern die Zusammenarbeit der zuständigen Behörden ihrer Staaten, um Kinder zu schützen und die anderen Ziele des Übereinkommens zu verwirklichen.
 
-<sup>(2)</sup> Sie treffen unmittelbar alle geeigneten Massnahmen, um
+<sup>(2)</sup>
+
+Sie treffen unmittelbar alle geeigneten Massnahmen, um:
 
 - a) Auskünfte über das Recht ihrer Staaten auf dem Gebiet der Adoption zu erteilen und andere allgemeine Informationen, wie beispielsweise statistische Daten und Musterformulare, zu übermitteln;
 - b) einander über die Wirkungsweise des Übereinkommens zu unterrichten und Hindernisse, die seiner Anwendung entgegenstehen, so weit wie möglich auszuräumen.
@@ -117,7 +119,7 @@ Die Zentralen Behörden treffen unmittelbar oder mit Hilfe staatlicher Stellen a
 
 #### Art. 9
 
-Die Zentralen Behörden treffen unmittelbar oder mit Hilfe staatlicher Stellen oder anderer in ihrem Staat ordnungsgemäss zugelassener Organisationen alle geeigneten Massnahmen, um insbesondere
+Die Zentralen Behörden treffen unmittelbar oder mit Hilfe staatlicher Stellen oder anderer in ihrem Staat ordnungsgemäss zugelassener Organisationen alle geeigneten Massnahmen, um insbesondere:
 
 - a) Auskünfte über die Lage des Kindes und der künftigen Adoptiveltern einzuholen, aufzubewahren und auszutauschen, soweit dies für das Zustandekommen der Adoption erforderlich ist;
 - b) das Adoptionsverfahren zu erleichtern, zu überwachen und zu beschleunigen;
@@ -131,7 +133,7 @@ Die Zulassung erhalten und behalten nur Organisationen, die darlegen, dass sie f
 
 #### Art. 11
 
-Eine zugelassene Organisation muss
+Eine zugelassene Organisation muss:
 
 - a) unter Einhaltung der von den zuständigen Behörden des Zulassungsstaats festgelegten Voraussetzungen und Beschränkungen ausschliesslich gemeinnützige Zwecke verfolgen;
 - b) von Personen geleitet und verwaltet werden, die nach ihren ethischen Grundsätzen und durch Ausbildung oder Erfahrung für die Arbeit auf dem Gebiet der internationalen Adoption qualifiziert sind, und
@@ -159,7 +161,9 @@ Personen mit gewöhnlichem Aufenthalt in einem Vertragsstaat, die ein Kind mit g
 
 #### Art. 16
 
-<sup>(1)</sup> Hat sich die Zentrale Behörde des Heimatstaats davon überzeugt, dass das Kind adoptiert werden kann, so
+<sup>(1)</sup>
+
+Hat sich die Zentrale Behörde des Heimatstaats davon überzeugt, dass das Kind adoptiert werden kann, so:
 
 - a) verfasst sie einen Bericht, der Angaben zur Person des Kindes und darüber, dass es adoptiert werden kann, über sein soziales Umfeld, seine persönliche und familiäre Entwicklung, seine Krankheitsgeschichte einschliesslich derjenigen seiner Familie sowie besondere Bedürfnisse des Kindes enthält;
 - b) trägt sie der Erziehung des Kindes sowie seiner ethnischen, religiösen und kulturellen Herkunft gebührend Rechnung;
@@ -170,7 +174,7 @@ Personen mit gewöhnlichem Aufenthalt in einem Vertragsstaat, die ein Kind mit g
 
 #### Art. 17
 
-Eine Entscheidung, ein Kind künftigen Adoptiveltern anzuvertrauen, kann im Heimatstaat nur getroffen werden, wenn
+Eine Entscheidung, ein Kind künftigen Adoptiveltern anzuvertrauen, kann im Heimatstaat nur getroffen werden, wenn:
 
 - a) die Zentrale Behörde dieses Staates sich vergewissert hat, dass die künftigen Adoptiveltern einverstanden sind;
 - b) die Zentrale Behörde des Aufnahmestaats diese Entscheidung gebilligt hat, sofern das Recht dieses Staates oder die Zentrale Behörde des Heimatstaats dies verlangt;
@@ -195,7 +199,9 @@ Die Zentralen Behörden halten einander über das Adoptionsverfahren und die zu 
 
 #### Art. 21
 
-<sup>(1)</sup> Soll die Adoption erst durchgeführt werden, nachdem das Kind in den Aufnahmestaat gebracht worden ist, und dient es nach Auffassung der Zentralen Behörde dieses Staates nicht mehr dem Wohl des Kindes, wenn es in der Aufnahmefamilie bleibt, so trifft diese Zentrale Behörde die zum Schutz des Kindes erforderlichen Massnahmen, indem sie insbesondere
+<sup>(1)</sup>
+
+Soll die Adoption erst durchgeführt werden, nachdem das Kind in den Aufnahmestaat gebracht worden ist, und dient es nach Auffassung der Zentralen Behörde dieses Staates nicht mehr dem Wohl des Kindes, wenn es in der Aufnahmefamilie bleibt, so trifft diese Zentrale Behörde die zum Schutz des Kindes erforderlichen Massnahmen, indem sie insbesondere:
 
 - a) veranlasst, dass das Kind aus der Aufnahmefamilie entfernt und vorläufig betreut wird;
 - b) in Absprache mit der Zentralen Behörde des Heimatstaats unverzüglich die Unterbringung des Kindes in einer neuen Familie mit dem Ziel der Adoption veranlasst oder, falls dies nicht angebracht ist, für eine andere dauerhafte Betreuung sorgt; eine Adoption kann erst durchgeführt werden, wenn die Zentrale Behörde des Heimatstaats gebührend über die neuen Adoptiveltern unterrichtet worden ist;
@@ -207,7 +213,9 @@ Die Zentralen Behörden halten einander über das Adoptionsverfahren und die zu 
 
 <sup>(1)</sup> Die Aufgaben einer Zentralen Behörde nach diesem Kapitel können von staatlichen Stellen oder nach Kapitel III zugelassenen Organisationen wahrgenommen werden, soweit das Recht des Staates der Zentralen Behörde dies zulässt.
 
-<sup>(2)</sup> Ein Vertragsstaat kann gegenüber dem Depositar des Übereinkommens erklären, dass die Aufgaben der Zentralen Behörde nach den Artikeln 15 bis 21 in diesem Staat in dem nach seinem Recht zulässigen Umfang und unter Aufsicht seiner zuständigen Behörden auch von Organisationen oder Personen wahrgenommen werden können, welche
+<sup>(2)</sup>
+
+Ein Vertragsstaat kann gegenüber dem Depositar des Übereinkommens erklären, dass die Aufgaben der Zentralen Behörde nach den Artikeln 15 bis 21 in diesem Staat in dem nach seinem Recht zulässigen Umfang und unter Aufsicht seiner zuständigen Behörden auch von Organisationen oder Personen wahrgenommen werden können, welche:
 
 - a) die von diesem Staat verlangten Voraussetzungen der Integrität, fachlichen Kompetenz, Erfahrung und Verantwortlichkeit erfüllen und
 - b) nach ihren ethischen Grundsätzen und durch Ausbildung oder Erfahrung für die Arbeit auf dem Gebiet der internationalen Adoption qualifiziert sind.
@@ -236,7 +244,9 @@ Jeder Vertragsstaat kann gegenüber dem Depositar des Übereinkommens erklären,
 
 #### Art. 26
 
-<sup>(1)</sup> Die Anerkennung einer Adoption umfasst die Anerkennung
+<sup>(1)</sup>
+
+Die Anerkennung einer Adoption umfasst die Anerkennung:
 
 - a) des Eltern-Kind-Verhältnisses zwischen dem Kind und seinen Adoptiveltern;
 - b) der elterlichen Verantwortlichkeit der Adoptiveltern für das Kind;
@@ -297,7 +307,7 @@ Die zuständigen Behörden der Vertragsstaaten handeln in Adoptionsverfahren mit
 
 #### Art. 36
 
-Bestehen in einem Staat auf dem Gebiet der Adoption zwei oder mehr Rechtssysteme, die in verschiedenen Gebietseinheiten gelten, so ist
+Bestehen in einem Staat auf dem Gebiet der Adoption zwei oder mehr Rechtssysteme, die in verschiedenen Gebietseinheiten gelten, so ist:
 
 - a) eine Verweisung auf den gewöhnlichen Aufenthalt in diesem Staat als Verweisung auf den gewöhnlichen Aufenthalt in einer Gebietseinheit dieses Staates zu verstehen;
 - b) eine Verweisung auf das Recht dieses Staates als Verweisung auf das in der betreffenden Gebietseinheit geltende Recht zu verstehen;
@@ -362,7 +372,9 @@ Der Generalsekretär der Haager Konferenz für Internationales Privatrecht beruf
 
 <sup>(1)</sup> Das Übereinkommen tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach der in Artikel 43 vorgesehenen Hinterlegung der dritten Ratifikations‑, Annahme- oder Genehmigungsurkunde folgt.
 
-<sup>(2)</sup> Danach tritt das Übereinkommen in Kraft
+<sup>(2)</sup>
+
+Danach tritt das Übereinkommen in Kraft:
 
 - a) für jeden Staat, der es später ratifiziert, annimmt oder genehmigt oder der ihm beitritt, am ersten Tag des Monats, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde folgt;
 - b) für jede Gebietseinheit, auf die es nach Artikel 45 erstreckt worden ist, am ersten Tag des Monats, der auf einen Zeitabschnitt von drei Monaten nach der in jenem Artikel vorgesehenen Notifikation folgt.
@@ -375,7 +387,7 @@ Der Generalsekretär der Haager Konferenz für Internationales Privatrecht beruf
 
 #### Art. 48
 
-Der Depositar notifiziert den Mitgliedstaaten der Haager Konferenz für Internationales Privatrecht, den anderen Staaten, die an der siebzehnten Tagung teilgenommen haben, sowie den Staaten, die nach Artikel 44 beigetreten sind,
+Der Depositar notifiziert den Mitgliedstaaten der Haager Konferenz für Internationales Privatrecht, den anderen Staaten, die an der siebzehnten Tagung teilgenommen haben, sowie den Staaten, die nach Artikel 44 beigetreten sind:
 
 - a) jede Unterzeichnung, Ratifikation, Annahme und Genehmigung nach Artikel 43;
 - b) jeden Beitritt und jeden Einspruch gegen einen Beitritt nach Artikel 44;
@@ -390,24 +402,32 @@ Verzeichnis der zentralen und der zuständigen Behörden, welche die ihnen gemä
 
 Schweiz
 
-Zentrale eidgenössische Behörde
+A. Zentrale eidgenössische Behörde:
 
-Bundesamt für Justiz Fachbereich Internationales Privatrecht Bundesrain 20 3003 Bern Schweiz Telefon +41 (58) 463 8864 Telefax +41 (58) 462 7864 E-Mail: kindesschutz@bj.admin.ch
+Bundesamt für Justiz Zentralbehörde zur Behandlung internationaler Adoptionen Bundesrain 20 3003 Bern Schweiz Telefon: +41 (58) 463 88 64 Telefax: +41 (58) 462 78 64 E-Mail: Adoption@bj.admin.ch
 
-Zuständige kantonale Behörden[^t-3]
+B. Zuständige kantonale Behörden[^t-3]
 
-[^t-2]: Die Übersicht über die zentralen und die zuständigen Behörden wird in der AS nicht veröffentlicht. Die französische und englische Übersicht kann auf der Internetseite der Haager Konferenz: www.hcch.net/index\_fr.php?act=conventions.authorities&cid=69 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden (siehe [AS 2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189)).
-[^t-3]: Die Übersicht über die Zuständige kantonale Behörde kann eingesehen werden auf der Internetseite des Bundesamt für Justiz: [www.bj.admin.ch/](http://www.bj.admin.ch/) &gt; Gesellschaft &gt; Internationale Adoptionen.
+[^t-2]: Die Übersicht über die zentralen und die zuständigen Behörden wird in der AS nicht publiziert ([AS 2025 291](https://fedlex.data.admin.ch/eli/oc/2025/291)). Sie kann auf der Internetseite des Depositars: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234\_du.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234_du.html) eingesehen werden.
+[^t-3]: Die Übersicht über die zuständigen kantonalen Behörden kann eingesehen werden auf der Internetseite des Bundesamtes für Justiz: [www.bj.admin.ch/](https://www.bj.admin.ch/) &gt; Gesellschaft &gt; Internationale Adoption.
 
-Geltungsbereich am 17. Mai 2023[^t-4]
+Geltungsbereich am 7. Mai 2025[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>12. September</td><td>2000</td><td>1. Januar</td><td>2001</td></tr>
 <tr><td>Andorra\*</td><td>3. Januar</td><td>1997 B</td><td>1. Mai</td><td>1997</td></tr>
+<tr><td>Angola</td><td>14. März</td><td>2024 B</td><td>1. Juli</td><td>2024</td></tr>
 <tr><td>Armenien\*</td><td>1. März</td><td>2007 B</td><td>1. Juni</td><td>2007</td></tr>
 <tr><td>Aserbaidschan\*</td><td>22. Juni</td><td>2004 B</td><td>1. Oktober</td><td>2004</td></tr>
 <tr><td>Australien\*</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Ashmore- und Cartier-Inseln</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Australisches Antarktis-Territorium</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Kokos-Inseln</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Korallensee-Territorium</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Norfolk-Insel</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Territorium der Insel Heard und der McDonald-Inseln</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Weihnachts-Insel</td><td>25. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
 <tr><td>Belarus\*</td><td>17. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
 <tr><td>Belgien\*</td><td>26. Mai</td><td>2005</td><td>1. September</td><td>2005</td></tr>
 <tr><td>Belize</td><td>20. Dezember</td><td>2005 B</td><td>1. April</td><td>2006</td></tr>
@@ -424,11 +444,11 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Macau</td><td>1. Januar</td><td>2006</td><td>1. Januar</td><td>2006</td></tr>
 <tr><td>Costa Rica</td><td>30. Oktober</td><td>1995</td><td>1. Februar</td><td>1996</td></tr>
 <tr><td>Côte d’Ivoire</td><td>11. Juni</td><td>2015 B</td><td>1. Oktober</td><td>2015</td></tr>
-<tr><td>Dänemark\*</td><td>2. Juli</td><td>1997</td><td>1. November</td><td>1997</td></tr>
-<tr><td>Färöer</td><td>15. Dezember</td><td>2006</td><td>1. April</td><td>2007</td></tr>
-<tr><td>Grönland</td><td>4. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
 <tr><td>Deutschland\*</td><td>22. November</td><td>2001</td><td>1. März</td><td>2002</td></tr>
 <tr><td>Dominikanische Republik</td><td>22. November</td><td>2006 B</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Dänemark</td><td>2. Juli</td><td>1997</td><td>1. November</td><td>1997</td></tr>
+<tr><td>Färöer</td><td>18. Dezember</td><td>2006</td><td>1. April</td><td>2007</td></tr>
+<tr><td>Grönland</td><td>28. Januar</td><td>2010</td><td>1. Mai</td><td>2010</td></tr>
 <tr><td>Ecuador</td><td>7. September</td><td>1995</td><td>1. Januar</td><td>1996</td></tr>
 <tr><td>El Salvador\*</td><td>17. November</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Estland</td><td>22. Februar</td><td>2002 B</td><td>1. Juni</td><td>2002</td></tr>
@@ -437,10 +457,10 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Finnland</td><td>27. März</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Frankreich\*</td><td>30. Juni</td><td>1998</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td>Georgien</td><td>9. April</td><td>1999 B</td><td>1. August</td><td>1999</td></tr>
-<tr><td>Ghana <sup>a</sup></td><td>16. September</td><td>2016 B</td><td>1. Januar</td><td>2017</td></tr>
+<tr><td>Ghana</td><td>16. September</td><td>2016 B</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>Griechenland\*</td><td>2. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
-<tr><td>Guatemala <sup>b</sup></td><td>26. November</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
-<tr><td>Guinea <sup>c</sup></td><td>21. Oktober</td><td>2003 B</td><td>1. Februar</td><td>2004</td></tr>
+<tr><td>Guatemala</td><td>26. November</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Guinea</td><td>21. Oktober</td><td>2003 B</td><td>1. Februar</td><td>2004</td></tr>
 <tr><td>Guyana</td><td>5. Februar</td><td>2019 B</td><td>1. Juni</td><td>2019</td></tr>
 <tr><td>Haiti</td><td>16. Dezember</td><td>2013</td><td>1. April</td><td>2014</td></tr>
 <tr><td>Honduras</td><td>6. März</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
@@ -449,17 +469,30 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Island</td><td>17. Januar</td><td>2000 B</td><td>1. Mai</td><td>2000</td></tr>
 <tr><td>Israel</td><td>3. Februar</td><td>1999</td><td>1. Juni</td><td>1999</td></tr>
 <tr><td>Italien\*</td><td>18. Januar</td><td>2000</td><td>1. Mai</td><td>2000</td></tr>
-<tr><td>Kambodscha <sup>d</sup></td><td>6. April</td><td>2007 B</td><td>1. August</td><td>2007</td></tr>
+<tr><td>Kambodscha</td><td>6. April</td><td>2007 B</td><td>1. August</td><td>2007</td></tr>
 <tr><td>Kanada\*</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Alberta</td><td>23. Juli</td><td>1997</td><td>1. November</td><td>1997</td></tr>
+<tr><td>Britisch Kolumbien</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Manitoba</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Neubraunschweig</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Neufundland und Labrador</td><td>15. August</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Neuschottland</td><td>21. Juni</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
+<tr><td>Nordwestterritorien</td><td>22. Dezember</td><td>1999</td><td>1. April</td><td>2000</td></tr>
+<tr><td>Nunavut</td><td>15. Mai</td><td>2001</td><td>1. September</td><td>2001</td></tr>
+<tr><td>Ontario</td><td>6. August</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Prinz Eduard Insel</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Quebec</td><td>28. Oktober</td><td>2005</td><td>1. Februar</td><td>2006</td></tr>
+<tr><td>Saskatchewan</td><td>19. Dezember</td><td>1996</td><td>1. April</td><td>1997</td></tr>
+<tr><td>Yukon</td><td>24. April</td><td>1998</td><td>1. August</td><td>1998</td></tr>
 <tr><td>Kap Verde</td><td>4. September</td><td>2009 B</td><td>1. Januar</td><td>2010</td></tr>
 <tr><td>Kasachstan</td><td>9. Juli</td><td>2010 B</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Kenia</td><td>12. Februar</td><td>2007 B</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td>Kirgisistan</td><td>12. August</td><td>2016 B</td><td>1. November</td><td>2016</td></tr>
+<tr><td>Kirgisistan</td><td>25. Juli</td><td>2016 B</td><td>1. November</td><td>2016</td></tr>
 <tr><td>Kolumbien\*</td><td>13. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td>Kongo (Kinshasa)</td><td>11. Dezember</td><td>2019 B</td><td>1. April</td><td>2020</td></tr>
-<tr><td>Kroatien<sup>\*</sup></td><td>5. Dezember</td><td>2013 B</td><td>1. April</td><td>2014</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>11. Dezember</td><td>2019 B</td><td>1. April</td><td>2020</td></tr>
+<tr><td>Kroatien\*</td><td>5. Dezember</td><td>2013 B</td><td>1. April</td><td>2014</td></tr>
 <tr><td>Kuba</td><td>20. Februar</td><td>2007 B</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td>Lesotho <sup>e</sup></td><td>24. August</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Lesotho</td><td>24. August</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
 <tr><td>Lettland\*</td><td>9. August</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
 <tr><td>Liechtenstein\*</td><td>26. Januar</td><td>2009 B</td><td>1. Mai</td><td>2009</td></tr>
 <tr><td>Litauen</td><td>29. April</td><td>1998 B</td><td>1. August</td><td>1998</td></tr>
@@ -472,12 +505,12 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Moldau</td><td>10. April</td><td>1998 B</td><td>1. August</td><td>1998</td></tr>
 <tr><td>Monaco</td><td>29. Juni</td><td>1999 B</td><td>1. Oktober</td><td>1999</td></tr>
 <tr><td>Mongolei</td><td>25. April</td><td>2000 B</td><td>1. August</td><td>2000</td></tr>
-<tr><td>Montenegro<sup>\*</sup></td><td>9. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Montenegro\*</td><td>9. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Namibia\*</td><td>21. September</td><td>2015 B</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Neuseeland</td><td>18. September</td><td>1998 B</td><td>1. Januar</td><td>1999</td></tr>
 <tr><td>Niederlande</td><td>26. Juni</td><td>1998</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>18. Oktober</td><td>2010</td><td>1. Februar</td><td>2011</td></tr>
-<tr><td>Niger <sup>f</sup></td><td>24. Mai</td><td>2021 B</td><td>1. September</td><td>2021</td></tr>
+<tr><td>Niger</td><td>24. Mai</td><td>2021 B</td><td>1. September</td><td>2021</td></tr>
 <tr><td>Nordmazedonien</td><td>23. Dezember</td><td>2008 B</td><td>1. April</td><td>2009</td></tr>
 <tr><td>Norwegen\*</td><td>25. September</td><td>1997</td><td>1. Januar</td><td>1998</td></tr>
 <tr><td>Österreich\*</td><td>19. Mai</td><td>1999</td><td>1. September</td><td>1999</td></tr>
@@ -487,7 +520,7 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Philippinen</td><td>2. Juli</td><td>1996</td><td>1. November</td><td>1996</td></tr>
 <tr><td>Polen\*</td><td>12. Juni</td><td>1995</td><td>1. Oktober</td><td>1995</td></tr>
 <tr><td>Portugal\*</td><td>19. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td>Ruanda <sup>g</sup></td><td>28. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Ruanda</td><td>28. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Rumänien</td><td>28. Dezember</td><td>1994</td><td>1. Mai</td><td>1995</td></tr>
 <tr><td>Sambia</td><td>11. Juni</td><td>2015 B</td><td>1. Oktober</td><td>2015</td></tr>
 <tr><td>San Marino</td><td>6. Oktober</td><td>2004 B</td><td>1. Februar</td><td>2005</td></tr>
@@ -514,19 +547,12 @@ Geltungsbereich am 17. Mai 2023[^t-4]
 <tr><td>Insel Man</td><td>1. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
 <tr><td>Vietnam</td><td>1. November</td><td>2011</td><td>1. Februar</td><td>2012</td></tr>
 <tr><td>Zypern</td><td>20. Februar</td><td>1995</td><td>1. Juni</td><td>1995</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 005234 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Der Beitritt Ghanas wurde durch Zypern und Spanien nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Der Beitritt Guatemalas wurde durch Kanada, Deutschland, die Niederlande, Spanien und das Vereinigte Königreich nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Der Beitritt Guineas wurde durch Deutschland nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Der Beitritt Kambodschas wurde durch Deutschland, die Niederlande und das Vereinigte Königreich nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>e</sup> Der Beitritt Lesothos wurde durch Deutschland nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>f</sup> Der Beitritt Nigers wurde von Deutschland, Griechenland und den Niederlanden nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>g</sup> Der Beitritt Ruandas wurde durch Deutschland nicht angenommen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234.html) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden. Die Einsprüche gegen Beitritte von Staaten gemäss Artikel 44 Absatz 3 des Übereinkommens werden in der AS nicht publiziert. Sie können auf der Internetseite des Depositars: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234\_db.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234_db.html) eingesehen werden. [tab]</td></tr>
 </table>
 
-## Erklärungen
+[^t-4]: [AS 2025 291](https://fedlex.data.admin.ch/eli/oc/2025/291). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-[^t-4]: [AS 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99); [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257); [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235); [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146); [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437); [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671); [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189); [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9); [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684); [2023 243](https://fedlex.data.admin.ch/eli/oc/2023/243). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+Erklärungen
 
 Schweiz
 

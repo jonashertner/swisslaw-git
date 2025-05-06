@@ -3,11 +3,11 @@ sr: "0.211.221.311"
 title: "Convention du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale (avec liste)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/99"
 language: fr
-version: 2023-05-17
+version: 2025-05-07
 adopted: 1993-05-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20230517/fr/xml/fedlex-data-admin-ch-eli-cc-2003-99-20230517-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20230517/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20250507/fr/xml/fedlex-data-admin-ch-eli-cc-2003-99-20250507-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20250507/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à La Haye le 29 mai 1993 Approuvée par l’Assemblée fédérale le 22 juin 2001[^t-1] Instrument de ratification déposé par la Suisse le 24 septembre 2002 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2003
 
-(État le 17 mai 2023)
+(État le 7 mai 2025)
 
 [^t-1]: [RO 2003 414](https://fedlex.data.admin.ch/eli/oc/2003/98)
 
@@ -155,7 +155,9 @@ Les personnes résidant habituellement dans un État contractant, qui désirent 
 
 #### Art. 16
 
-<sup>(1)</sup> Si l’Autorité centrale de l’État d’origine considère que l’enfant est adoptable,
+<sup>(1)</sup>
+
+Si l’Autorité centrale de l’État d’origine considère que l’enfant est adoptable:
 
 - a) elle établit un rapport contenant des renseignements sur l’identité de l’enfant, son adoptabilité, son milieu social, son évolution personnelle et familiale, son passé médical et celui de sa famille, ainsi que sur ses besoins particuliers;
 - b) elle tient dûment compte des conditions d’éducation de l’enfant, ainsi que de son origine ethnique, religieuse et culturelle;
@@ -166,7 +168,7 @@ Les personnes résidant habituellement dans un État contractant, qui désirent 
 
 #### Art. 17
 
-Toute décision de confier un enfant à des futurs parents adoptifs ne peut être prise dans l’État d’origine que
+Toute décision de confier un enfant à des futurs parents adoptifs ne peut être prise dans l’État d’origine que:
 
 - a) si l’Autorité centrale de cet État s’est assurée de l’accord des futurs parents adoptifs;
 - b) si l’Autorité centrale de l’État d’accueil a approuvé cette décision, lorsque la loi de cet État ou l’Autorité centrale de l’État d’origine le requiert;
@@ -236,7 +238,9 @@ Tout État contractant peut déclarer au dépositaire de la Convention qu’il n
 
 #### Art. 26
 
-<sup>(1)</sup> La reconnaissance de l’adoption comporte celle
+<sup>(1)</sup>
+
+La reconnaissance de l’adoption comporte celle:
 
 - a) du lien de filiation entre l’enfant et ses parents adoptifs;
 - b) de la responsabilité parentale des parents adoptifs à l’égard de l’enfant;
@@ -386,32 +390,18 @@ Le dépositaire notifiera aux États membres de la Conférence de La Haye de dro
 
 Liste des autorités centrales et autorités compétentes chargées de satisfaire aux obligations qui lui sont imposées par la Convention sur la protection des enfants et la coopération en matière d’adoption internationale selon art. 6 et 23[^t-2]
 
-**Suisse**
-
-Autorité centrale fédérale:
-
-Office fédéral de la justice
-
-Unité Droit international privé
-
-Bundesrain 20
-
-3003 Berne
-
 Suisse
 
-Téléphone +41 (58) 463 8864
+A. Autorité centrale fédérale:
 
-Téléfax +41 (58) 462 7864
+Office fédéral de la justice Autorité centrale en matière d’adoptions internationales Bundesrain 20 3003 Berne Suisse Téléphone: +41 (58) 463 88 64 Téléfax: +41 (58) 462 78 64 E-mail: Adoption@bj.admin.ch
 
-e-mail: kindesschutz@bj.admin.ch
+B. Autorités centrales cantonales[^t-3]
 
-Autorités centrales cantonales[^t-3]
-
-[^t-2]: La liste des autorités centrales et autorités compétentes étrangères n’est pas publiée au RO. Les listes en français et en anglais peut être consultées à l’adresse du site Internet de la Conférence de La Haye: [www.hcch.net/fr/instruments/conventions/authorities1/?cid=69](https://www.hcch.net/fr/instruments/conventions/authorities1/?cid=69) ou obtenues à la Direction du droit international public (DDIP), Section des traités internationaux (voir [RO 2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189)).
+[^t-2]: La liste des autorités centrales et autorités compétentes étrangères n’est pas publiée au RO ([RO 2025 291](https://fedlex.data.admin.ch/eli/oc/2025/291)). Elle peut être consultée sur le site Internet du dépositaire: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234\_du.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234_du.html).
 [^t-3]: La liste des autorités centrales cantonales peut être consultée à l’adresse du site Internet de l’Office fédérale de la justice: [www.bj.admin.ch](https://www.bj.admin.ch) &gt; Société &gt; Adoption internationale
 
-Champ d’application le 17 mai 2023[^t-4]
+Champ d’application le 7 mai 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -419,8 +409,16 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Albanie</td><td>12 septembre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
 <tr><td>Allemagne\*</td><td>22 novembre</td><td>2001</td><td>1<sup>er</sup> mars</td><td>2002</td></tr>
 <tr><td>Andorre\*</td><td>3 janvier</td><td>1997 A</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
-<tr><td>Arménie \*</td><td>1<sup>er</sup> mars</td><td>2007 A</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
+<tr><td>Angola</td><td>14 mars</td><td>2024 A</td><td>1<sup>er</sup> juillet</td><td>2024</td></tr>
+<tr><td>Arménie\*</td><td>1<sup>er</sup> mars</td><td>2007 A</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Australie\*</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Territoire antarctique australien</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Territoire de l’Île de Heard et des Îles Mc Donald</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Territoire des Îles de la mer de Corail</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Île Christmas</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Île Norfolk</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Îles Ashmore et Cartier</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Îles Cocos</td><td>25 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
 <tr><td>Autriche\*</td><td>19 mai</td><td>1999</td><td>1<sup>er</sup> septembre</td><td>1999</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>22 juin</td><td>2004 A</td><td>1<sup>er</sup> octobre</td><td>2004</td></tr>
 <tr><td>Bélarus\*</td><td>17 juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
@@ -433,8 +431,21 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Bulgarie\*</td><td>15 mai</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td>Burkina Faso\*</td><td>11 janvier</td><td>1996</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
 <tr><td>Burundi</td><td>15 octobre</td><td>1998 A</td><td>1<sup>er</sup> février</td><td>1999</td></tr>
-<tr><td>Cambodge <sup>a</sup></td><td>6 avril</td><td>2007 A</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
+<tr><td>Cambodge</td><td>6 avril</td><td>2007 A</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
 <tr><td>Canada\*</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Alberta</td><td>23 juillet</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1997</td></tr>
+<tr><td>Colombie britannique</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Île-du-Prince-Edouard</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Manitoba</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Nouveau-Brunswick</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Nouvelle-Ecosse</td><td>21 juin</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
+<tr><td>Nunavut</td><td>15 mai</td><td>2001</td><td>1<sup>er</sup> septembre</td><td>2001</td></tr>
+<tr><td>Ontario</td><td>6 août</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Québec</td><td>28 octobre</td><td>2005</td><td>1<sup>er</sup> février</td><td>2006</td></tr>
+<tr><td>Saskatchewan</td><td>19 décembre</td><td>1996</td><td>1<sup>er</sup> avril</td><td>1997</td></tr>
+<tr><td>Terre-Neuve-et-Labrador</td><td>15 août</td><td>2003</td><td>1<sup>er</sup> décembre</td><td>2003</td></tr>
+<tr><td>Territoires du Nord-Ouest</td><td>22 décembre</td><td>1999</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
+<tr><td>Yukon</td><td>24 avril</td><td>1998</td><td>1<sup>er</sup> août</td><td>1998</td></tr>
 <tr><td>Cap-Vert</td><td>4 septembre</td><td>2009 A</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
 <tr><td>Chili</td><td>13 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Chine\*</td><td>16 septembre</td><td>2005</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
@@ -442,14 +453,14 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Macao</td><td>1<sup>er</sup> janvier</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
 <tr><td>Chypre</td><td>20 février</td><td>1995</td><td>1<sup>er</sup> juin</td><td>1995</td></tr>
 <tr><td>Colombie\*</td><td>13 juillet</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>11 décembre</td><td>2019 A</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>11 décembre</td><td>2019 A</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
 <tr><td>Costa Rica</td><td>30 octobre</td><td>1995</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
 <tr><td>Côte d’Ivoire</td><td>11 juin</td><td>2015 A</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
 <tr><td>Croatie\*</td><td>5 décembre</td><td>2013 A</td><td>1<sup>er</sup> avril</td><td>2014</td></tr>
 <tr><td>Cuba</td><td>20 février</td><td>2007 A</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
-<tr><td>Danemark\*</td><td>2 juillet</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1997</td></tr>
-<tr><td>[tab] Groenland</td><td>4 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td>[tab] Îles Féroé</td><td>15 décembre</td><td>2006</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
+<tr><td>Danemark</td><td>2 juillet</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1997</td></tr>
+<tr><td>Groenland</td><td>28 janvier</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2010</td></tr>
+<tr><td>Îles Féroé</td><td>18 décembre</td><td>2006</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
 <tr><td>El Salvador\*</td><td>17 novembre</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Équateur</td><td>7 septembre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Espagne\*</td><td>11 juillet</td><td>1995</td><td>1<sup>er</sup> novembre</td><td>1995</td></tr>
@@ -460,10 +471,10 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Finlande</td><td>27 mars</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>France\*</td><td>30 juin</td><td>1998</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
 <tr><td>Géorgie</td><td>9 avril</td><td>1999 A</td><td>1<sup>er</sup> août</td><td>1999</td></tr>
-<tr><td>Ghana <sup>b</sup></td><td>16 septembre</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
+<tr><td>Ghana</td><td>16 septembre</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
 <tr><td>Grèce\*</td><td>2 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td>Guatemala <sup>c</sup></td><td>26 novembre</td><td>2002 A</td><td>1<sup>er</sup> mars</td><td>2003</td></tr>
-<tr><td>Guinée <sup>d</sup></td><td>21 octobre</td><td>2003 A</td><td>1<sup>er</sup> février</td><td>2004</td></tr>
+<tr><td>Guatemala</td><td>26 novembre</td><td>2002 A</td><td>1<sup>er</sup> mars</td><td>2003</td></tr>
+<tr><td>Guinée</td><td>21 octobre</td><td>2003 A</td><td>1<sup>er</sup> février</td><td>2004</td></tr>
 <tr><td>Guyana</td><td>5 février</td><td>2019 A</td><td>1<sup>er</sup> juin</td><td>2019</td></tr>
 <tr><td>Haïti</td><td>16 décembre</td><td>2013</td><td>1<sup>er</sup> avril</td><td>2014</td></tr>
 <tr><td>Honduras</td><td>6 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
@@ -475,8 +486,8 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Italie\*</td><td>18 janvier</td><td>2000</td><td>1<sup>er</sup> mai</td><td>2000</td></tr>
 <tr><td>Kazakhstan</td><td>9 juillet</td><td>2010 A</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
 <tr><td>Kenya</td><td>12 février</td><td>2007 A</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
-<tr><td>Kirghizistan</td><td>12 août</td><td>2016 A</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
-<tr><td>Lesotho <sup>e</sup></td><td>24 août</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Kirghizistan</td><td>25 juillet</td><td>2016 A</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
+<tr><td>Lesotho</td><td>24 août</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
 <tr><td>Lettonie\*</td><td>9 août</td><td>2002</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
 <tr><td>Liechtenstein\*</td><td>26 janvier</td><td>2009 A</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
 <tr><td>Lituanie</td><td>29 avril</td><td>1998 A</td><td>1<sup>er</sup> août</td><td>1998</td></tr>
@@ -492,7 +503,7 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Mongolie</td><td>25 avril</td><td>2000 A</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
 <tr><td>Monténégro\*</td><td>9 mars</td><td>2012 A</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
 <tr><td>Namibie\*</td><td>21 septembre</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
-<tr><td>Niger <sup>f</sup></td><td>24 mai</td><td>2021 A</td><td>1<sup>er</sup> septembre</td><td>2021</td></tr>
+<tr><td>Niger</td><td>24 mai</td><td>2021 A</td><td>1<sup>er</sup> septembre</td><td>2021</td></tr>
 <tr><td>Norvège\*</td><td>25 septembre</td><td>1997</td><td>1<sup>er</sup> janvier</td><td>1998</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>18 septembre</td><td>1998 A</td><td>1<sup>er</sup> janvier</td><td>1999</td></tr>
 <tr><td>Panama\*</td><td>29 septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
@@ -507,8 +518,8 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>République tchèque</td><td>11 février</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
 <tr><td>Roumanie</td><td>28 décembre</td><td>1994</td><td>1<sup>er</sup> mai</td><td>1995</td></tr>
 <tr><td>Royaume-Uni\*</td><td>27 février</td><td>2003</td><td>1<sup>er</sup> juin</td><td>2003</td></tr>
-<tr><td>[tab] Île de Man</td><td>1<sup>er</sup> juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
-<tr><td>Rwanda <sup>g</sup></td><td>28 mars</td><td>2012 A</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
+<tr><td>Île de Man</td><td>1<sup>er</sup> juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
+<tr><td>Rwanda</td><td>28 mars</td><td>2012 A</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>26 octobre</td><td>2020 A</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
 <tr><td>Saint-Marin</td><td>6 octobre</td><td>2004 A</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
 <tr><td>Sénégal</td><td>24 août</td><td>2011 A</td><td>1<sup>er</sup> décembre</td><td>2011</td></tr>
@@ -526,14 +537,14 @@ Champ d’application le 17 mai 2023[^t-4]
 <tr><td>Venezuela\*</td><td>10 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>1<sup>er</sup> novembre</td><td>2011</td><td>1<sup>er</sup> février</td><td>2012</td></tr>
 <tr><td>Zambie</td><td>11 juin</td><td>2015 A</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’adhésion du Cambodge n’a pas été accéptée par l’Allemagne, les Pay-Bas et le Royaume-Uni. <sup>b</sup> L’adhésion du Ghana n’a pas été accéptée par Chypre et l’Espagne. <sup>c</sup> L’adhésion du Guatemala n’a pas été acceptée par l’Allemagne, le Canada, l’Espagne, les Pays-Bas et le Royaume-Uni. <sup>d</sup> L’adhésion de la Guinée n’a pas été acceptée par l’Allemagne. <sup>e</sup> L’adhésion du Lesotho n’a pas été accéptée par l’Allemagne. <sup>f</sup> L’adhésion du Niger n’est pas acceptée par l’Allemagne, la Grèce et les Pays-Bas. <sup>g</sup> L’adhésion du Rwanda n’a pas été accéptée par l’Allemagne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l’adresse du site internet du dépositaire, du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234.htmlo) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. Les objections à l’adhésion d’un autre État au sens de l’art. 44, par. 3, de la Convention ne sont pas publiées au RO. Elles peuvent être consultées sur le site Internet du dépositaire: [https://treatydatabase.overheid.nl/en/Treaty/Details/005234\_db.html](https://treatydatabase.overheid.nl/en/Treaty/Details/005234_db.html). [tab]</td></tr>
 </table>
 
-[^t-4]: [RO 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99); [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257); [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235); [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146); [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437); [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671); [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189); [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9); [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684); [2023 243](https://fedlex.data.admin.ch/eli/oc/2023/243). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-4]: [RO 2025 291](https://fedlex.data.admin.ch/eli/oc/2025/291). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclarations
 
-**Suisse**
+Suisse
 
 Art. 22
 
@@ -541,4 +552,4 @@ La Suisse déclare que les adoptions d’enfants dont la résidence habituelle e
 
 Art. 25
 
-La Suisse déclare qu’elle ne sera pas tenue de reconnaître en vertu de la Convention les adoptions faites conformément à un accord conclu en application de l’art. 39 par. 2, de celle -ci.
+La Suisse déclare qu’elle ne sera pas tenue de reconnaître en vertu de la Convention les adoptions faites conformément à un accord conclu en application de l’art. 39 par. 2, de celle-ci.
