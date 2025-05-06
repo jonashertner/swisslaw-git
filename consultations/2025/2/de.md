@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Raumfahrt
 document: Vernehmlassungsvorlage
 language: de

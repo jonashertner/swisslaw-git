@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les opérations spatiales
 document: Projet mis en consultation
 language: fr
