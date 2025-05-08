@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Chemikalien-Risikoreduktions-Verordnung (ChemRRV) ‒ Anhang Biozidprodukte
 document: Vernehmlassungsvorlage
 language: de

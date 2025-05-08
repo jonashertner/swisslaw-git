@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim); Allegato sui biocidi
 document: Progetto posto in consultazione
 language: it

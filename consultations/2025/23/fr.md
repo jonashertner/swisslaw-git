@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la réduction des risques liés aux produits chimiques (ORRChim) – annexe sur les produits biocides
 document: Projet mis en consultation
 language: fr
