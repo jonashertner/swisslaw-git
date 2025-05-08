@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.498 n Iv.pa. Roduit. Attuare il rapporto di valutazione concernente le perizie mediche nell’AI
 document: Progetto posto in consultazione
 language: it

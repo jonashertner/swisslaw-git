@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.498 n Pa.Iv. Roduit. Umsetzung des Berichtes zur Evaluation der medizinischen Begutachtung in der IV
 document: Vernehmlassungsvorlage
 language: de

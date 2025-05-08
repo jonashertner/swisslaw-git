@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.498 n Iv.pa. Roduit. Mettre en oeuvre le rapport d’évaluation relatif aux expertises médicales dans l’Al
 document: Projet mis en consultation
 language: fr
