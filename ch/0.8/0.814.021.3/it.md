@@ -3,11 +3,11 @@ sr: "0.814.021.3"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 17 settembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/455"
 language: it
-version: 2021-11-19
+version: 2025-05-09
 adopted: 1997-09-17
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20211119/it/xml/fedlex-data-admin-ch-eli-cc-2003-455-20211119-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20211119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20250509/it/xml/fedlex-data-admin-ch-eli-cc-2003-455-20250509-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20250509/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 3288; FF **2002** 906
 
 Traduzione
 
-Concluso a Montreal il 17 settembre 1997
+Concluso a Montreal il 17 settembre 1997 Approvato dall’Assemblea federale il 6 giugno 2002[^t-1] Ratificato con strumenti depositati dalla Svizzera il 28 agosto 2002 Entrato in vigore per la Svizzera il 26 novembre 2002
 
-Approvato dall’Assemblea federale il 6 giugno 2002[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 28 agosto 2002
-
-Entrato in vigore per la Svizzera il 26 novembre 2002
-
-(Stato 19 novembre 2021)
+(Stato 9 maggio 2025)
 
 [^t-1]: [RU 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -36,11 +30,11 @@ Entrato in vigore per la Svizzera il 26 novembre 2002
 
 ### A. Articolo 4 paragrafo 1<sup>quater</sup>
 
-Dopo il paragrafo 1<sup>ter</sup> dell’articolo 4 del Protocollo*[^1-subdivu1-1]* va inserito il seguente paragrafo:
+Dopo il paragrafo 1<sup>ter</sup> dell’articolo 4 del Protocollo[^1-subdivu1-1] va inserito il seguente paragrafo:
 
 1<sup>quater</sup>. Entro un anno dalla data di entrata in vigore del presente paragrafo, ogni Parte interdirà l’importazione della sostanza controllata di cui in Allegato E da tutti gli Stati che non sono Parte al presente Protocollo.
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Articolo 4 paragrafo 2<sup>quater</sup>
 
@@ -94,7 +88,7 @@ Nessuno Stato o organizzazione regionale di integrazione economica può deposita
 
 (Seguono le firme)
 
-Campo d’applicazione il 19 novembre 2021**[^t-2]**
+Campo d’applicazione il 9 maggio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -150,6 +144,7 @@ Campo d’applicazione il 19 novembre 2021**[^t-2]**
 <tr><td>Croazia</td><td>8 settembre</td><td>2000</td><td>7 dicembre</td><td>2000</td></tr>
 <tr><td>Cuba</td><td>12 settembre</td><td>2005</td><td>11 dicembre</td><td>2005</td></tr>
 <tr><td>Danimarca</td><td>24 settembre</td><td>2003</td><td>23 dicembre</td><td>2003</td></tr>
+<tr><td>Isole FærØer</td><td>3 dicembre</td><td>2009</td><td>3 dicembre</td><td>2009</td></tr>
 <tr><td>Dominica</td><td>7 marzo</td><td>2006 A</td><td>5 giugno</td><td>2006</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>1° ottobre</td><td>2009 A</td><td>30 dicembre</td><td>2009</td></tr>
 <tr><td>Ecuador</td><td>16 febbraio</td><td>2007 A</td><td>17 maggio</td><td>2007</td></tr>
@@ -247,6 +242,7 @@ Campo d’applicazione il 19 novembre 2021**[^t-2]**
 <tr><td>Qatar</td><td>29 gennaio</td><td>2009</td><td>29 aprile</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>12 ottobre</td><td>2001</td><td>10 gennaio</td><td>2002</td></tr>
 <tr><td>Gibilterra</td><td>5 agosto</td><td>2014</td><td>5 agosto</td><td>2014</td></tr>
+<tr><td>Guernesey</td><td>2 novembre</td><td>2022</td><td>2 novembre</td><td>2022</td></tr>
 <tr><td>Jersey</td><td>4 agosto</td><td>2020</td><td>4 agosto</td><td>2020</td></tr>
 <tr><td>Man, Isola di</td><td>25 febbraio</td><td>2021</td><td>25 febbraio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>21 maggio</td><td>2001</td><td>19 agosto</td><td>2001</td></tr>
@@ -301,7 +297,7 @@ Campo d’applicazione il 19 novembre 2021**[^t-2]**
 <tr><td>Yemen</td><td>23 aprile</td><td>2001 A</td><td>22 luglio</td><td>2001</td></tr>
 <tr><td>Zambia</td><td>11 aprile</td><td>2007 A</td><td>9 giugno</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012 A</td><td>30 maggio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728); [2025 317](https://fedlex.data.admin.ch/eli/oc/2025/317). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

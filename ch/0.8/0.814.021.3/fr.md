@@ -3,11 +3,11 @@ sr: "0.814.021.3"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 17 septembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/455"
 language: fr
-version: 2021-11-19
+version: 2025-05-09
 adopted: 1997-09-17
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20211119/fr/xml/fedlex-data-admin-ch-eli-cc-2003-455-20211119-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20211119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20250509/fr/xml/fedlex-data-admin-ch-eli-cc-2003-455-20250509-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20250509/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 août 2002
 
 Entré en vigueur pour la Suisse le 26 novembre 2002
 
-(Etat le 19 novembre 2021)
+(État le 9 mai 2025)
 
 [^t-1]: [RO 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -40,7 +40,7 @@ Après le par. 1<sup>ter</sup> de l’art. 4 du Protocole[^1-subdivu1-1], insér
 
 1<sup>quater</sup>. Dans un délai de un an à compter de la date d’entrée en vigueur du présent paragraphe, chacune des Parties interdit l’importation de la substance réglementée de l’annexe E en provenance de tout État non Partie au présent Protocole.
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Art. 4, par. 2<sup>quater</sup>
 
@@ -94,7 +94,7 @@ Aucun État ni aucune organisation régionale d’intégration économique ne pe
 
 (Suivent les signatures)
 
-Champ d’application le 19 novembre 2021**[^t-2]**
+Champ d’application le 9 mai 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -149,6 +149,7 @@ Champ d’application le 19 novembre 2021**[^t-2]**
 <tr><td>Croatie</td><td>8 septembre</td><td>2000</td><td>7 décembre</td><td>2000</td></tr>
 <tr><td>Cuba</td><td>12 septembre</td><td>2005</td><td>11 décembre</td><td>2005</td></tr>
 <tr><td>Danemark</td><td>24 septembre</td><td>2003</td><td>23 décembre</td><td>2003</td></tr>
+<tr><td>Îles Féroé</td><td>3 décembre</td><td>2009</td><td>3 décembre</td><td>2009</td></tr>
 <tr><td>Djibouti</td><td>30 juillet</td><td>1999 A</td><td>10 novembre</td><td>1999</td></tr>
 <tr><td>Dominique</td><td>7 mars</td><td>2006 A</td><td>5 juin</td><td>2006</td></tr>
 <tr><td>Égypte</td><td>20 juillet</td><td>2000</td><td>18 octobre</td><td>2000</td></tr>
@@ -254,15 +255,16 @@ Champ d’application le 19 novembre 2021**[^t-2]**
 <tr><td>Roumanie</td><td>21 mai</td><td>2001</td><td>19 août</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>12 octobre</td><td>2001</td><td>10 janvier</td><td>2002</td></tr>
 <tr><td>Gibraltar</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
-<tr><td>Jersey</td><td>4 août</td><td>2020</td><td>4 août</td><td>2020</td></tr>
+<tr><td>Guernesey</td><td>2 novembre</td><td>2022</td><td>2 novembre</td><td>2022</td></tr>
 <tr><td>Île de Man</td><td>25 février</td><td>2021</td><td>25 février</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>4 août</td><td>2020</td><td>4 août</td><td>2020</td></tr>
 <tr><td>Russie</td><td>14 décembre</td><td>2005</td><td>14 mars</td><td>2006</td></tr>
 <tr><td>Rwanda</td><td>7 janvier</td><td>2004 A</td><td>6 avril</td><td>2004</td></tr>
-<tr><td>Sainte-Lucie</td><td>24 août</td><td>1999 A</td><td>22 novembre</td><td>1999</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>25 février</td><td>1999</td><td>10 novembre</td><td>1999</td></tr>
 <tr><td>Saint-Marin</td><td>23 avril</td><td>2009 A</td><td>22 juillet</td><td>2009</td></tr>
-<tr><td>Saint-Siège<sup>\*</sup></td><td>5 mai</td><td>2008 A</td><td>3 août</td><td>2008</td></tr>
+<tr><td>Saint-Siège\*</td><td>5 mai</td><td>2008 A</td><td>3 août</td><td>2008</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>11 mai</td><td>2009 A</td><td>9 août</td><td>2009</td></tr>
+<tr><td>Sainte-Lucie</td><td>24 août</td><td>1999 A</td><td>22 novembre</td><td>1999</td></tr>
 <tr><td>Samoa</td><td>4 octobre</td><td>2001</td><td>2 janvier</td><td>2002</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>19 novembre</td><td>2001 A</td><td>17 février</td><td>2002</td></tr>
 <tr><td>Sénégal</td><td>12 août</td><td>1999 A</td><td>10 novembre</td><td>1999</td></tr>
@@ -301,7 +303,7 @@ Champ d’application le 19 novembre 2021**[^t-2]**
 <tr><td>Yémen</td><td>23 avril</td><td>2001 A</td><td>22 juillet</td><td>2001</td></tr>
 <tr><td>Zambie</td><td>11 octobre</td><td>2007 A</td><td>9 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>1<sup>er</sup> mars</td><td>2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728); [2025 317](https://fedlex.data.admin.ch/eli/oc/2025/317). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
