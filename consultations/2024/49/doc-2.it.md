@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione dell’Accordo multilaterale tra autorità competenti concernente lo scambio di informazioni GloBE
 document: Progetto posto in consultazione
 language: it

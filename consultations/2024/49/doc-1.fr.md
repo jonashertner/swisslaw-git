@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation de l’accord multilatéral entre autorités compétentes portant sur l’échange de la déclaration d’information GloBE
 document: Projet mis en consultation-2
 language: fr

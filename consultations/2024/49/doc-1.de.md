@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung der multilateralen Vereinbarung der zuständigen Behörden über den Austausch von Global Anti-Base Erosion (GloBE)-Informationen
 document: Vernehmlassungsvorlage-2
 language: de
