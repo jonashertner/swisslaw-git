@@ -3,11 +3,11 @@ sr: "0.814.04"
 title: Übereinkommen vom 17. März 1992 über die grenzüberschreitenden Auswirkungen von Industrieunfällen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/142"
 language: de
-version: 2016-02-05
+version: 2025-05-09
 adopted: 1992-03-17
 in_force: 2000-04-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20160205/de/xml/fedlex-data-admin-ch-eli-cc-2005-142-20160205-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20160205/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20250509/de/xml/fedlex-data-admin-ch-eli-cc-2005-142-20250509-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20250509/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20160205/de"
 
 AS **2005** 1079; BBl **1998** 5467
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Helsinki am 17. März 1992 Von der Bundesversammlung genehmigt am 10. März 1999[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 21. Mai 1999 In Kraft getreten für die Schweiz am 19. April 2000
+Abgeschlossen in Helsinki am 17. März 1992 Von der Bundesversammlung genehmigt am 10. März 1999[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 21. Mai 1999 In Kraft getreten für die Schweiz am 19. April 2000
 
-(Stand am 5. Februar 2016)
+(Stand am 9. Mai 2025)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 2005 1077](https://fedlex.data.admin.ch/eli/oc/2005/141)
+[^t-1]: [AS 2005 1077](https://fedlex.data.admin.ch/eli/oc/2005/141)
 
 *Präambel*
 
@@ -57,7 +56,7 @@ sind wie folgt übereingekommen:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Übereinkommens
+Im Sinne dieses Übereinkommens:
 
 - a) bedeutet «Industrieunfall» ein Ereignis, das die Folge einer unkontrollierten Entwicklung im Verlauf einer mit gefährlichen Stoffen verbundenen Tätigkeit ist, und zwar
   - i) entweder in einem Betrieb, zum Beispiel bei der Herstellung, Verwendung, Lagerung, dem Umgang oder der Entsorgung, oder
@@ -86,7 +85,9 @@ Im Sinne dieses Übereinkommens
 
 <sup>1.</sup> Dieses Übereinkommen findet Anwendung auf die Verhütung von Industrieunfällen, die grenzüberschreitende Auswirkungen haben können, sowie auf die entsprechenden Bereitschafts- und Bekämpfungsmassnahmen; es gilt auch für Auswirkungen solcher Unfälle, die durch Naturkatastrophen verursacht wurden, sowie auf die internationale Zusammenarbeit bei gegenseitiger Hilfe, bei Forschung und Entwicklung, beim Austausch von Informationen sowie beim Austausch von Technologie im Bereich der Verhütung von Industrieunfällen und der entsprechenden Bereitschafts- und Bekämpfungsmassnahmen.
 
-<sup>2.</sup> Dieses Übereinkommen findet keine Anwendung auf
+<sup>2.</sup>
+
+Dieses Übereinkommen findet keine Anwendung auf:
 
 - a) nukleare Unfälle oder strahlungsbedingte Notfälle;
 - b) Unfälle in militärischen Einrichtungen;
@@ -248,7 +249,9 @@ Die Vertragsparteien erleichtern im Einklang mit ihren Gesetzen, sonstigen Vorsc
 
 <sup>1.</sup> Die Vertreter der Vertragsparteien bilden die Konferenz der Vertragsparteien dieses Übereinkommens; sie treten zu regelmässigen Tagungen zusammen. Die erste Tagung der Konferenz der Vertragsparteien wird spätestens ein Jahr nach Inkrafttreten des Übereinkommens einberufen. Danach finden die Tagungen der Konferenz der Vertragsparteien mindestens einmal jährlich oder auf schriftliches Ersuchen einer Vertragspartei statt, sofern das Ersuchen innerhalb von sechs Monaten, nachdem es vom Sekretariat an die Vertragsparteien übermittelt wurde, von mindestens einem Drittel der Vertragsparteien unterstützt wird.
 
-<sup>2.</sup> Die Konferenz der Vertragsparteien
+<sup>2.</sup>
+
+Die Konferenz der Vertragsparteien:
 
 - a) überprüft die Anwendung dieses Übereinkommens;
 - b) nimmt beratende Aufgaben wahr zu dem Zweck, die Fähigkeit der Vertragsparteien zu stärken, grenzüberschreitende Auswirkungen von Industrieunfällen zu verhüten, sich darauf vorzubereiten und sie zu bekämpfen sowie die Leistung technischer Hilfe und die Beratung auf Ersuchen von Vertragsparteien, die von einem Industrieunfall betroffen sind, zu erleichtern;
@@ -400,52 +403,53 @@ Die Urschrift dieses Übereinkommens, dessen englischer, französischer und russ
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Helsinki am 17. März 1992. (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. März 2012**[^t-3]**
+Geltungsbereich am 9. Mai 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien</td><td colspan="2">5. Januar</td><td colspan="2">1994</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Armenien</td><td colspan="2">21. Februar</td><td colspan="2">1997 B</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Aserbaidschan\*</td><td colspan="2">16. Juni</td><td colspan="2">2004 B</td><td>14. September</td><td>2004</td></tr>
-<tr><td>Belarus</td><td colspan="2">25. Juni</td><td colspan="2">2003 B</td><td>23. September</td><td>2003</td></tr>
-<tr><td>Belgien</td><td colspan="2">6. April</td><td colspan="2">2006</td><td>5. Juli</td><td>2006</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td colspan="2">20. Februar</td><td colspan="2">2013 B</td><td>21. Mai</td><td>2013</td></tr>
-<tr><td>Bulgarien</td><td colspan="2">12. Mai</td><td colspan="2">1995</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td colspan="2">28. März</td><td colspan="2">2001</td><td>26. Juni</td><td>2001</td></tr>
-<tr><td>Deutschland</td><td colspan="2">9. September</td><td colspan="2">1998</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Estland</td><td colspan="2">17. Mai</td><td colspan="2">2000</td><td>15. August</td><td>2000</td></tr>
-<tr><td>[tab] Europäische Union\*</td><td colspan="2">24. April</td><td colspan="2">1998</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Finnland</td><td colspan="2">13. September</td><td colspan="2">1999</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Frankreich\*</td><td colspan="2">3. Oktober</td><td colspan="2">2003</td><td>1. Januar</td><td>2004</td></tr>
-<tr><td>Griechenland</td><td colspan="2">24. Februar</td><td colspan="2">1998</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Italien</td><td colspan="2">2. Juli</td><td colspan="2">2002</td><td>30. September</td><td>2002</td></tr>
-<tr><td>Kasachstan</td><td colspan="2">11. Januar</td><td colspan="2">2001 B</td><td>11. April</td><td>2001</td></tr>
-<tr><td>Kroatien</td><td colspan="2">20. Januar</td><td colspan="2">2000 B</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Lettland</td><td colspan="2">29. Juni</td><td colspan="2">2004</td><td>27. September</td><td>2004</td></tr>
-<tr><td>Litauen</td><td colspan="2">2. November</td><td colspan="2">2000</td><td>1. Februar</td><td>2001</td></tr>
-<tr><td>Luxemburg</td><td colspan="2">8. August</td><td colspan="2">1994</td><td>19. April</td><td>2000</td></tr>
-<tr><td colspan="2">Mazedonien</td><td colspan="2">2. März</td><td>2010 B</td><td>31. Mai</td><td>2010</td></tr>
-<tr><td>Moldau</td><td colspan="2">4. Januar</td><td colspan="2">1994 B</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Monaco</td><td colspan="2">28. August</td><td colspan="2">2001 B</td><td>26. November</td><td>2001</td></tr>
-<tr><td>Montenegro</td><td colspan="2">19. Mai</td><td colspan="2">2009 B</td><td>17. August</td><td>2009</td></tr>
-<tr><td>Niederlande\* <sup>b</sup></td><td colspan="2">6. November</td><td colspan="2">2006</td><td>4. Februar</td><td>2007</td></tr>
-<tr><td>Norwegen</td><td colspan="2">1. April</td><td colspan="2">1993</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Österreich\*</td><td colspan="2">4. August</td><td colspan="2">1999</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Polen</td><td colspan="2">8. September</td><td colspan="2">2003</td><td>7. Dezember</td><td>2003</td></tr>
-<tr><td>Portugal</td><td colspan="2">2. November</td><td colspan="2">2006</td><td>31. Januar</td><td>2007</td></tr>
-<tr><td>Rumänien</td><td colspan="2">22. Mai</td><td colspan="2">2003 B</td><td>20. August</td><td>2003</td></tr>
-<tr><td>Russland</td><td colspan="2">1. Februar</td><td colspan="2">1994</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Schweden</td><td colspan="2">22. September</td><td colspan="2">1999</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Schweiz</td><td colspan="2">21. Mai</td><td colspan="2">1999</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Serbien\*</td><td colspan="2">31. Juli</td><td colspan="2">2009 B</td><td>29. Oktober</td><td>2009</td></tr>
-<tr><td>Slowakei</td><td colspan="2">9. September</td><td colspan="2">2003 B</td><td>8. Dezember</td><td>2003</td></tr>
-<tr><td>Slowenien</td><td colspan="2">13. Mai</td><td colspan="2">2002 B</td><td>11. August</td><td>2002</td></tr>
-<tr><td>Spanien</td><td colspan="2">16. Mai</td><td colspan="2">1997</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Tschechische Republik</td><td colspan="2">12. Juni</td><td colspan="2">2000 B</td><td>10. September</td><td>2000</td></tr>
-<tr><td>Ungarn\*</td><td colspan="2">2. Juni</td><td colspan="2">1994</td><td>19. April</td><td>2000</td></tr>
-<tr><td>Vereinigtes Königreich</td><td colspan="2">5. August</td><td colspan="2">2002</td><td>3. November</td><td>2002</td></tr>
-<tr><td>Zypern</td><td colspan="2">31. August</td><td colspan="2">2005 B</td><td>29. November</td><td>2005</td></tr>
-<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td colspan="2">5. Januar</td><td>1994</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Armenien</td><td colspan="2">21. Februar</td><td>1997 B</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Aserbaidschan\*</td><td colspan="2">16. Juni</td><td>2004 B</td><td>14. September</td><td>2004</td></tr>
+<tr><td>Belarus</td><td colspan="2">25. Juni</td><td>2003 B</td><td>23. September</td><td>2003</td></tr>
+<tr><td>Belgien</td><td colspan="2">6. April</td><td>2006</td><td>5. Juli</td><td>2006</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td colspan="2">20. Februar</td><td>2013 B</td><td>21. Mai</td><td>2013</td></tr>
+<tr><td>Bulgarien</td><td colspan="2">12. Mai</td><td>1995</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td colspan="2">28. März</td><td>2001</td><td>26. Juni</td><td>2001</td></tr>
+<tr><td>Deutschland</td><td colspan="2">9. September</td><td>1998</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Estland</td><td colspan="2">17. Mai</td><td>2000</td><td>15. August</td><td>2000</td></tr>
+<tr><td>[tab] Europäische Union\*</td><td colspan="2">24. April</td><td>1998</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Finnland</td><td colspan="2">13. September</td><td>1999</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Frankreich\*</td><td colspan="2">3. Oktober</td><td>2003</td><td>1. Januar</td><td>2004</td></tr>
+<tr><td>Griechenland</td><td colspan="2">24. Februar</td><td>1998</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Italien</td><td colspan="2">2. Juli</td><td>2002</td><td>30. September</td><td>2002</td></tr>
+<tr><td>Kasachstan</td><td colspan="2">11. Januar</td><td>2001 B</td><td>11. April</td><td>2001</td></tr>
+<tr><td>Kroatien</td><td colspan="2">20. Januar</td><td>2000 B</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Lettland</td><td colspan="2">29. Juni</td><td>2004</td><td>27. September</td><td>2004</td></tr>
+<tr><td>Litauen</td><td colspan="2">2. November</td><td>2000</td><td>1. Februar</td><td>2001</td></tr>
+<tr><td>Luxemburg</td><td colspan="2">8. August</td><td>1994</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Moldau</td><td colspan="2">4. Januar</td><td>1994 B</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Monaco</td><td colspan="2">28. August</td><td>2001 B</td><td>26. November</td><td>2001</td></tr>
+<tr><td>Montenegro</td><td colspan="2">19. Mai</td><td>2009 B</td><td>17. August</td><td>2009</td></tr>
+<tr><td>Niederlande\* <sup>b</sup></td><td colspan="2">6. November</td><td>2006</td><td>4. Februar</td><td>2007</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td>2. März</td><td>2010 B</td><td>31. Mai</td><td>2010</td></tr>
+<tr><td>Norwegen</td><td colspan="2">1. April</td><td>1993</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Österreich\*</td><td colspan="2">4. August</td><td>1999</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Polen</td><td colspan="2">8. September</td><td>2003</td><td>7. Dezember</td><td>2003</td></tr>
+<tr><td>Portugal</td><td colspan="2">2. November</td><td>2006</td><td>31. Januar</td><td>2007</td></tr>
+<tr><td>Rumänien</td><td colspan="2">22. Mai</td><td>2003 B</td><td>20. August</td><td>2003</td></tr>
+<tr><td>Russland</td><td colspan="2">1. Februar</td><td>1994</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Schweden</td><td colspan="2">22. September</td><td>1999</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Schweiz</td><td colspan="2">21. Mai</td><td>1999</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Serbien\*</td><td colspan="2">31. Juli</td><td>2009 B</td><td>29. Oktober</td><td>2009</td></tr>
+<tr><td>Slowakei</td><td colspan="2">9. September</td><td>2003 B</td><td>8. Dezember</td><td>2003</td></tr>
+<tr><td>Slowenien</td><td colspan="2">13. Mai</td><td>2002 B</td><td>11. August</td><td>2002</td></tr>
+<tr><td>Spanien</td><td colspan="2">16. Mai</td><td>1997</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Tschechische Republik</td><td colspan="2">12. Juni</td><td>2000 B</td><td>10. September</td><td>2000</td></tr>
+<tr><td>Ukraine\*</td><td colspan="2">6. Juli</td><td>2022 B</td><td>4. Oktober</td><td>2022</td></tr>
+<tr><td>Ungarn\*</td><td colspan="2">2. Juni</td><td>1994</td><td>19. April</td><td>2000</td></tr>
+<tr><td>Vereinigtes Königreich</td><td colspan="2">5. August</td><td>2002</td><td>3. November</td><td>2002</td></tr>
+<tr><td>Zypern</td><td colspan="2">31. August</td><td>2005 B</td><td>29. November</td><td>2005</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142), [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628), [2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224)und [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142); [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628); [2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224); [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105); [2025 331](https://fedlex.data.admin.ch/eli/oc/2025/331). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

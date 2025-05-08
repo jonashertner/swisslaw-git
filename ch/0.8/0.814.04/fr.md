@@ -3,11 +3,11 @@ sr: "0.814.04"
 title: Convention du 17 mars 1992 sur les effets transfrontières des accidents industriels (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/142"
 language: fr
-version: 2016-02-05
+version: 2025-05-09
 adopted: 1992-03-17
 in_force: 2000-04-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20160205/fr/xml/fedlex-data-admin-ch-eli-cc-2005-142-20160205-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20160205/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20250509/fr/xml/fedlex-data-admin-ch-eli-cc-2005-142-20250509-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20250509/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Helsinki, le 17 mars 1992 Approuvée par l’Assemblée fédéral le 10 mars 1999[^t-1] Instrument de ratification suisse déposé le 21 mai 1999 Entrée en vigueur pour la Suisse le 19 avril 2000
 
-(Etat le 5 février 2016)
+(État le 9 mai 2025)
 
 [^t-1]: [RO 2005 1077](https://fedlex.data.admin.ch/eli/oc/2005/141)
 
@@ -32,17 +32,17 @@ conscientes qu’il est particulièrement important, dans l’intérêt des gén
 
 reconnaissant qu’il est important et urgent de prévenir les effets nocifs graves des accidents industriels sur les êtres humains et l’environnement et de promouvoir toutes les mesures de nature à encourager l’application rationnelle, économique et efficace de mesures de prévention, de préparation et de lutte pour permettre un développement économique écologiquement rationnel et durable,
 
-tenant compte du fait que les effets des accidents industriels peuvent se faire sentir par-delà les frontières et nécessitent une coopération entre les Etats,
+tenant compte du fait que les effets des accidents industriels peuvent se faire sentir par-delà les frontières et nécessitent une coopération entre les États,
 
-affirmant la nécessité de promouvoir une coopération internationale active entre les Etats concernés avant, pendant et après un accident, d’intensifier les politiques appropriées et de renforcer et coordonner l’action à tous les niveaux appropriés afin de pouvoir plus aisément prévenir les effets transfrontières des accidents industriels, s’y préparer et les combattre,
+affirmant la nécessité de promouvoir une coopération internationale active entre les États concernés avant, pendant et après un accident, d’intensifier les politiques appropriées et de renforcer et coordonner l’action à tous les niveaux appropriés afin de pouvoir plus aisément prévenir les effets transfrontières des accidents industriels, s’y préparer et les combattre,
 
 notant l’importance et l’utilité d’arrangements bilatéraux et multilatéraux pour prévenir les effets des accidents industriels, s’y préparer et les combattre,
 
 conscientes du rôle joué à cet égard par la Commission économique des Nations Unies pour l’Europe (CEE) et rappelant notamment le Code de conduite de la CEE relatif à la pollution accidentelle des eaux intérieures transfrontières et la Convention sur l’évaluation de l’impact sur l’environnement dans un contexte transfrontière,
 
-prenant en considération les dispositions pertinentes de l’Acte final de la Conférence sur la sécurité et la coopération en Europe (CSCE), le Document de clôture de la Réunion de Vienne des représentants des Etats participant à la CSCE et les résultats de la Réunion de Sofia sur la protection de l’environnement de la CSCE, ainsi que les activités et mécanismes pertinents du Programme des Nations Unies pour l’environnement (PNUE), notamment le programme APPEL, de l’Organisation internationale du Travail (OIT), en particulier le Recueil de directives pratiques sur la prévention des accidents industriels majeurs, et d’autres organisations internationales compétentes,
+prenant en considération les dispositions pertinentes de l’Acte final de la Conférence sur la sécurité et la coopération en Europe (CSCE), le Document de clôture de la Réunion de Vienne des représentants des États participant à la CSCE et les résultats de la Réunion de Sofia sur la protection de l’environnement de la CSCE, ainsi que les activités et mécanismes pertinents du Programme des Nations Unies pour l’environnement (PNUE), notamment le programme APPEL, de l’Organisation internationale du Travail (OIT), en particulier le Recueil de directives pratiques sur la prévention des accidents industriels majeurs, et d’autres organisations internationales compétentes,
 
-considérant les dispositions pertinentes de la Déclaration de la Conférence des Nations Unies sur l’environnement et en particulier le Principe 21 selon lequel les Etats ont, conformément à la Charte des Nations Unies[^ingress-1] et aux principes du droit international, le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement dans d’autres Etats ou dans des zones ne relevant d’aucune juridiction nationale,
+considérant les dispositions pertinentes de la Déclaration de la Conférence des Nations Unies sur l’environnement et en particulier le Principe 21 selon lequel les États ont, conformément à la Charte des Nations Unies[^ingress-1] et aux principes du droit international, le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement dans d’autres États ou dans des zones ne relevant d’aucune juridiction nationale,
 
 tenant compte du principe «pollueur-payeur» en tant que principe général du droit international de l’environnement,
 
@@ -62,7 +62,7 @@ Aux fins de la présente Convention:
 
   l’expression «accident industriel» désigne un événement consécutif à un phénomène incontrôlé dans le déroulement de toute activité mettant en jeu des substances dangereuses:
 
-  - i) dans une installation, par exemple pendant la fabrication, l’utilisation, le stockage, la manutention ou l’élimination; ou
+  - i) dans une installation, par exemple pendant la fabrication, l’utilisation, le stockage, la manutention ou l’élimination, ou
   - ii) pendant le transport, dans la mesure où il est visé au par. 2, d, de l’art. 2;
 
 - b) l’expression «activité dangereuse» désigne toute activité dans laquelle une ou plusieurs substances dangereuses sont ou peuvent être présentes dans des quantités égales ou supérieures aux quantités limites énumérées à l’Annexe I[^1-1], de la présente Convention, et qui est susceptible d’avoir des effets transfrontières;
@@ -80,7 +80,7 @@ Aux fins de la présente Convention:
 - f) le terme «Partie» désigne, sauf indication contraire dans le texte, une Partie contractante à la présente Convention;
 - g) l’expression «Partie d’origine» désigne la (ou les) Partie(s) sous la juridiction de laquelle (ou desquelles) un accident industriel se produit ou est susceptible de se produire;
 - h) l’expression «Partie touchée» désigne la (ou les) Partie(s) touchée(s) ou susceptible(s) d’être touchée(s) par des effets transfrontières d’un accident industriel;
-- i) l’expression «Parties concernées» désigne toute Partie d’origine et toute Partie touchée; et
+- i) l’expression «Parties concernées» désigne toute Partie d’origine et toute Partie touchée, et
 - j) le terme «public» désigne une ou plusieurs personnes physiques ou morales.
 
 [^1-1]: Le texte des annexes n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’Office fédéral de l’environnement, des forêts et du paysage, 3003 Berne.
@@ -93,7 +93,7 @@ Aux fins de la présente Convention:
 
 <sup>2.</sup>
 
-La présente Convention ne s’applique pas :
+La présente Convention ne s’applique pas:
 
 - a) aux accidents nucléaires ni aux situations d’urgence radiologique;
 - b) aux accidents survenant dans des installations militaires;
@@ -113,7 +113,7 @@ La présente Convention ne s’applique pas :
 
 **Dispositions générales**
 
-<sup>1.</sup> Les Parties, compte tenu des efforts déjà faits aux niveaux national et international, prennent les dispositions appropriées et coopèrent dans le cadre de la présente Convention, afin de protéger les êtres humains et l’environnement contre les accidents industriels en prévenant ces accidents dans toute la mesure possible, en en réduisant la fréquence et la gravité et en en atténuant les effets. A cette fin, des mesures préventives, des mesures de préparation et des mesures de lutte, y compris des mesures de remise en état, sont appliquées.
+<sup>1.</sup> Les Parties, compte tenu des efforts déjà faits aux niveaux national et international, prennent les dispositions appropriées et coopèrent dans le cadre de la présente Convention, afin de protéger les êtres humains et l’environnement contre les accidents industriels en prévenant ces accidents dans toute la mesure possible, en en réduisant la fréquence et la gravité et en en atténuant les effets. À cette fin, des mesures préventives, des mesures de préparation et des mesures de lutte, y compris des mesures de remise en état, sont appliquées.
 
 <sup>2.</sup> Les Parties définissent et appliquent sans retard indu, au moyen d’échanges d’informations, de consultations et d’autres mesures de coopération, des politiques et des stratégies visant à réduire les risques d’accident industriel et à améliorer les mesures préventives, les mesures de préparation et les mesures de lutte, y compris les mesures de remise en état, en tenant compte, afin d’éviter les doubles emplois, des efforts déjà faits aux niveaux national et international.
 
@@ -129,7 +129,7 @@ La présente Convention ne s’applique pas :
 
 <sup>1.</sup> En vue de prendre des mesures préventives et de mettre au point des mesures de préparation, la Partie d’origine prend les dispositions appropriées pour identifier les activités dangereuses relevant de sa juridiction et faire en sorte que les Parties touchées reçoivent notification de toute activité de ce type proposée ou existante.
 
-<sup>2.</sup> A la demande de l’une quelconque d’entre elles, les Parties concernées engagent des discussions concernant l’identification des activités dangereuses qui, raisonnablement, sont susceptibles d’avoir des effets transfrontières. Si les Parties concernées ne se mettent pas d’accord sur le point de savoir si une activité est une activité dangereuse de ce type, l’une quelconque de ces Parties peut soumettre cette question pour avis à une commission d’enquête au sens de l’Annexe II de la présente Convention, à moins que les Parties concernées ne conviennent d’une autre méthode pour régler la question.
+<sup>2.</sup> À la demande de l’une quelconque d’entre elles, les Parties concernées engagent des discussions concernant l’identification des activités dangereuses qui, raisonnablement, sont susceptibles d’avoir des effets transfrontières. Si les Parties concernées ne se mettent pas d’accord sur le point de savoir si une activité est une activité dangereuse de ce type, l’une quelconque de ces Parties peut soumettre cette question pour avis à une commission d’enquête au sens de l’Annexe II de la présente Convention, à moins que les Parties concernées ne conviennent d’une autre méthode pour régler la question.
 
 <sup>3.</sup> En ce qui concerne les activités dangereuses, proposées ou existantes, les Parties appliquent les procédures décrites à l’Annexe III de la présente Convention.
 
@@ -213,17 +213,17 @@ Les Parties appuient les initiatives internationales appropriées visant à éla
 
 **Recherche-développement**
 
-Les Parties, s’il y a lieu, entreprennent des travaux de recherche-développement sur les méthodes et les technologies à appliquer pour prévenir les accidents industriels, s’y préparer et y faire face, et coopèrent à l’exécution de tels travaux. A cet effet, les Parties encouragent et favorisent activement la coopération scientifique et technologique, y compris la recherche de procédés moins dangereux en vue de limiter les risques d’accident et de prévenir et limiter les conséquences des accidents industriels.
+Les Parties, s’il y a lieu, entreprennent des travaux de recherche-développement sur les méthodes et les technologies à appliquer pour prévenir les accidents industriels, s’y préparer et y faire face, et coopèrent à l’exécution de tels travaux. À cet effet, les Parties encouragent et favorisent activement la coopération scientifique et technologique, y compris la recherche de procédés moins dangereux en vue de limiter les risques d’accident et de prévenir et limiter les conséquences des accidents industriels.
 
 #### Art. 15
 
-**Echange d’informations**
+**Échange d’informations**
 
 Les Parties échangent, au niveau multilatéral ou bilatéral, les informations qui peuvent, raisonnablement, être obtenues, y compris les éléments mentionnés à l’Annexe XI de la présente Convention.
 
 #### Art. 16
 
-**Echange de technologie**
+**Échange de technologie**
 
 <sup>1.</sup>
 
@@ -231,7 +231,7 @@ Les Parties, conformément à leurs législation, réglementation et pratiques, 
 
 - a) l’échange de technologies disponibles selon diverses modalités financières;
 - b) les contacts directs et la coopération dans le secteur industriel;
-- c) l’échange d’informations et de données d’expérience; et
+- c) l’échange d’informations et de données d’expérience, et
 - d) l’octroi d’une assistance technique.
 
 <sup>2.</sup> Pour promouvoir les activités spécifiées aux al. a à d du par. 1 du présent article, les Parties créent des conditions favorables en facilitant les contacts et la coopération entre les organisations et les personnes compétentes qui, tant dans le secteur privé que dans le secteur public, sont à même de fournir une technologie, des services d’études et d’ingénierie, du matériel ou des moyens financiers.
@@ -270,9 +270,9 @@ La Conférence des Parties:
 
 <sup>3.</sup> Dans l’exercice de ses fonctions, la Conférence des Parties coopère aussi, lorsqu’elle le juge utile, avec les autres organisations internationales compétentes.
 
-<sup>4.</sup> A sa première réunion, la Conférence des Parties établit un programme de travail en tenant compte notamment des éléments mentionnés à l’Annexe XII de la présente Convention. En outre, la Conférence des Parties décide de la méthode de travail et notamment se prononce sur l’opportunité de faire appel aux centres nationaux et de coopérer avec les organisations internationales compétentes, de mettre sur pied un système en vue de faciliter l’application de la présente Convention notamment aux fins de l’assistance mutuelle en cas d’accident industriel, et de s’appuyer sur les activités menées dans ce domaine au sein des organisations internationales compétentes. Dans le cadre de son programme de travail, la Conférence des Parties passe en revue les centres nationaux, régionaux et internationaux existants ainsi que les autres organes et programmes chargés de coordonner les informations et les efforts touchant la prévention des accidents industriels et les mesures à prendre pour s’y préparer et pour y faire face, dans le but de déterminer les institutions ou centres internationaux supplémentaires qui peuvent être nécessaires pour mener à bien les tâches énumérées à l’Annexe XII.
+<sup>4.</sup> À sa première réunion, la Conférence des Parties établit un programme de travail en tenant compte notamment des éléments mentionnés à l’Annexe XII de la présente Convention. En outre, la Conférence des Parties décide de la méthode de travail et notamment se prononce sur l’opportunité de faire appel aux centres nationaux et de coopérer avec les organisations internationales compétentes, de mettre sur pied un système en vue de faciliter l’application de la présente Convention notamment aux fins de l’assistance mutuelle en cas d’accident industriel, et de s’appuyer sur les activités menées dans ce domaine au sein des organisations internationales compétentes. Dans le cadre de son programme de travail, la Conférence des Parties passe en revue les centres nationaux, régionaux et internationaux existants ainsi que les autres organes et programmes chargés de coordonner les informations et les efforts touchant la prévention des accidents industriels et les mesures à prendre pour s’y préparer et pour y faire face, dans le but de déterminer les institutions ou centres internationaux supplémentaires qui peuvent être nécessaires pour mener à bien les tâches énumérées à l’Annexe XII.
 
-<sup>5.</sup> A sa première réunion, la Conférence des Parties commence à étudier des procédures en vue de créer des conditions plus favorables à l’échange de technologie pour prévenir les effets des accidents industriels, s’y préparer et les combattre.
+<sup>5.</sup> À sa première réunion, la Conférence des Parties commence à étudier des procédures en vue de créer des conditions plus favorables à l’échange de technologie pour prévenir les effets des accidents industriels, s’y préparer et les combattre.
 
 <sup>6.</sup> La Conférence des Parties adopte des directives et des critères pour faciliter l’identification des activités dangereuses au sens de la présente Convention.
 
@@ -282,7 +282,7 @@ La Conférence des Parties:
 
 <sup>1.</sup> Sous réserve des dispositions du par. 2 du présent article, les Parties à la présente Convention ont chacune une voix.
 
-<sup>2.</sup> Les organisations d’intégration économique régionale définies à l’art. 27, dans les domaines relevant de leur compétence, disposent, pour exercer leur droit de vote, d’un nombre de voix égal au nombre de leurs Etats membres qui sont Parties à la présente Convention. Ces organisations n’exercent pas leur droit de vote si leurs Etats membres exercent le leur, et inversement.
+<sup>2.</sup> Les organisations d’intégration économique régionale définies à l’art. 27, dans les domaines relevant de leur compétence, disposent, pour exercer leur droit de vote, d’un nombre de voix égal au nombre de leurs États membres qui sont Parties à la présente Convention. Ces organisations n’exercent pas leur droit de vote si leurs États membres exercent le leur, et inversement.
 
 #### Art. 20
 
@@ -366,7 +366,7 @@ Pour les amendements à l’Annexe I:
 
 **Signature**
 
-La présente Convention est ouverte à la signature des Etats membres de la Commission économique pour l’Europe ainsi que des Etats dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu du par. 8 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947 et des organisations d’intégration économique régionale constituées par des Etats souverains, membres de la Commission économique pour l’Europe, qui leur ont transféré compétence pour des matières dont traite la présente Convention, y compris la compétence pour conclure des traites sur ces matières, à Helsinki du 17 au 18 mars 1992 inclus, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 18 septembre 1992.
+La présente Convention est ouverte à la signature des États membres de la Commission économique pour l’Europe ainsi que des États dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu du par. 8 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947 et des organisations d’intégration économique régionale constituées par des États souverains, membres de la Commission économique pour l’Europe, qui leur ont transféré compétence pour des matières dont traite la présente Convention, y compris la compétence pour conclure des traites sur ces matières, à Helsinki du 17 au 18 mars 1992 inclus, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 18 septembre 1992.
 
 #### Art. 28
 
@@ -378,11 +378,11 @@ Le Secrétaire général de l’Organisation des Nations Unies remplit les fonct
 
 **Ratification, acceptation, approbation et adhésion**
 
-<sup>1.</sup> La présente Convention est soumise à la ratification, l’acceptation ou l’approbation des Etats et des organisations d’intégration économique régionale signataires visés à l’art. 27.
+<sup>1.</sup> La présente Convention est soumise à la ratification, l’acceptation ou l’approbation des États et des organisations d’intégration économique régionale signataires visés à l’art. 27.
 
-<sup>2.</sup> La présente Convention est ouverte à l’adhésion des Etats et organisations visés à l’art. 27.
+<sup>2.</sup> La présente Convention est ouverte à l’adhésion des États et organisations visés à l’art. 27.
 
-<sup>3.</sup> Toute organisation visée à l’art. 27 qui devient Partie à la présente Convention sans qu’aucun de ses Etats membres n’en soit Partie est liée par toutes les obligations qui découlent de la présente Convention. Lorsqu’un ou plusieurs Etats membres d’une telle organisation sont Parties à la présente Convention, cette organisation et ses Etats membres conviennent de leurs responsabilités respectives dans l’exécution des obligations contractées en vertu de la présente Convention. En pareil cas, l’organisation et les Etats membres ne sont pas habilités à exercer concurremment les droits qui découlent de la présente Convention.
+<sup>3.</sup> Toute organisation visée à l’art. 27 qui devient Partie à la présente Convention sans qu’aucun de ses États membres n’en soit Partie est liée par toutes les obligations qui découlent de la présente Convention. Lorsqu’un ou plusieurs États membres d’une telle organisation sont Parties à la présente Convention, cette organisation et ses États membres conviennent de leurs responsabilités respectives dans l’exécution des obligations contractées en vertu de la présente Convention. En pareil cas, l’organisation et les États membres ne sont pas habilités à exercer concurremment les droits qui découlent de la présente Convention.
 
 <sup>4.</sup> Dans leurs instruments de ratification, d’acceptation, d’approbation ou d’adhésion, les organisations d’intégration économique régionale visées à l’art. 27 indiquent l’étendue de leur compétence à l’égard des matières dont traite la présente Convention. En outre, ces organisations informent le Dépositaire de toute modification importante de l’étendue de leur compétence.
 
@@ -392,15 +392,15 @@ Le Secrétaire général de l’Organisation des Nations Unies remplit les fonct
 
 <sup>1.</sup> La présente Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>2.</sup> Aux fins du par. 1 du présent article, l’instrument déposé par une organisation visée à l’art. 27 ne s’ajoute pas à ceux qui sont déposés par les Etats membres de cette organisation.
+<sup>2.</sup> Aux fins du par. 1 du présent article, l’instrument déposé par une organisation visée à l’art. 27 ne s’ajoute pas à ceux qui sont déposés par les États membres de cette organisation.
 
-<sup>3.</sup> A l’égard de chaque Etat ou organisation visé à l’art. 27, qui ratifie, accepte ou approuve la présente Convention ou y adhère après le dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt par cet Etat ou cette organisation de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>3.</sup> À l’égard de chaque État ou organisation visé à l’art. 27, qui ratifie, accepte ou approuve la présente Convention ou y adhère après le dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt par cet État ou cette organisation de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. 31
 
 **Dénonciation**
 
-<sup>1.</sup> A tout moment après l’expiration d’un délai de trois ans commençant à courir à la date à laquelle la présente Convention est entrée en vigueur à l’égard d’une Partie, cette Partie peut dénoncer la présente Convention par notification écrite adressée au Dépositaire. Cette dénonciation prend effet le quatre-vingt-dixième jour qui suit la date de réception de sa notification par le Dépositaire.
+<sup>1.</sup> À tout moment après l’expiration d’un délai de trois ans commençant à courir à la date à laquelle la présente Convention est entrée en vigueur à l’égard d’une Partie, cette Partie peut dénoncer la présente Convention par notification écrite adressée au Dépositaire. Cette dénonciation prend effet le quatre-vingt-dixième jour qui suit la date de réception de sa notification par le Dépositaire.
 
 <sup>2.</sup> Cette dénonciation ne fait pas obstacle à l’application de l’art. 4 à une activité ayant fait l’objet d’une notification en application de l’art. 4, par. 1, ou d’une demande de discussions en application de l’art. 4, par. 2.
 
@@ -412,10 +412,10 @@ L’original de la présente Convention, dont les textes anglais, français et r
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Helsinki, le dix-sept mars mil neuf cent quatre-vingt-douze. (Suivent les signatures)
 
-Champ d'application le 5 février 2016**[^t-2]**
+Champ d’application le 9 mai 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>5 janvier</td><td>1994</td><td>19 avril</td><td>2000</td></tr>
 <tr><td>Allemagne</td><td>9 septembre</td><td>1998</td><td>19 avril</td><td>2000</td></tr>
 <tr><td>Arménie</td><td>21 février</td><td>1997 A</td><td>19 avril</td><td>2000</td></tr>
@@ -439,7 +439,7 @@ Champ d'application le 5 février 2016**[^t-2]**
 <tr><td>Lettonie</td><td>29 juin</td><td>2004</td><td>27 septembre</td><td>2004</td></tr>
 <tr><td>Lituanie</td><td>2 novembre</td><td>2000</td><td>1<sup>er</sup> février</td><td>2001</td></tr>
 <tr><td>Luxembourg</td><td>8 août</td><td>1994</td><td>19 avril</td><td>2000</td></tr>
-<tr><td>Macédoine</td><td>2 mars</td><td>2010 A</td><td>31 mai</td><td>2010</td></tr>
+<tr><td>Macédoine du Nord</td><td>2 mars</td><td>2010 A</td><td>31 mai</td><td>2010</td></tr>
 <tr><td>Moldova</td><td>4 janvier</td><td>1994 A</td><td>19 avril</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>28 août</td><td>2001 A</td><td>26 novembre</td><td>2001</td></tr>
 <tr><td>Monténégro</td><td>19 mai</td><td>2009 A</td><td>17 août</td><td>2009</td></tr>
@@ -457,9 +457,8 @@ Champ d'application le 5 février 2016**[^t-2]**
 <tr><td>Serbie\*</td><td>31 juillet</td><td>2009 A</td><td>29 octobre</td><td>2009</td></tr>
 <tr><td>Suède</td><td>22 septembre</td><td>1999</td><td>19 avril</td><td>2000</td></tr>
 <tr><td>Suisse</td><td>21 mai</td><td>1999</td><td>19 avril</td><td>2000</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La convention ne s’applique pas aux Iles Féroé et au Groenland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Pour le Royaume en Europe</td></tr>
+<tr><td>Ukraine\*</td><td>6 juillet</td><td>2022 A</td><td>4 octobre</td><td>2022</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: [RO 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142), [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628), [2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224), [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142); [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628); [2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224); [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105); [2025 331](https://fedlex.data.admin.ch/eli/oc/2025/331). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

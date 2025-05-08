@@ -3,11 +3,11 @@ sr: "0.814.04"
 title: Convenzione del 17 marzo 1992 sugli effetti transfrontalieri degli incidenti industriali (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/142"
 language: it
-version: 2016-02-05
+version: 2025-05-09
 adopted: 1992-03-17
 in_force: 2000-04-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20160205/it/xml/fedlex-data-admin-ch-eli-cc-2005-142-20160205-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20160205/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/142/20250509/it/xml/fedlex-data-admin-ch-eli-cc-2005-142-20250509-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20250509/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/142/20160205/it"
 
 RU **2005** 1079; FF **1998** 4338
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Helsinki il 17 marzo 1992 Approvata dall’Assemblea federale il 10 marzo 1999[^t-2] Ratificato con strumenti depositati dalla Svizzera il 21 maggio 1999 Entrato in vigore per la Svizzera il 19 aprile 2000
+Conclusa a Helsinki il 17 marzo 1992 Approvata dall’Assemblea federale il 10 marzo 1999[^t-1] Ratificato con strumenti depositati dalla Svizzera il 21 maggio 1999 Entrato in vigore per la Svizzera il 19 aprile 2000
 
-(Stato 5 febbraio 2016)
+(Stato 9 maggio 2025)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 2005 1077](https://fedlex.data.admin.ch/eli/oc/2005/141)
+[^t-1]: [RU 2005 1077](https://fedlex.data.admin.ch/eli/oc/2005/141)
 
 *Preambolo*
 
@@ -413,7 +412,7 @@ L’originale della presente Convenzione, i cui testi in francese, inglese e rus
 
 *In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Helsinki, il diciassette marzo millenovecentonovantadue. (Seguono le firme)
 
-Campo d’applicazione il 5 febbraio 2016**[^t-3]**
+Campo d’applicazione il 9 maggio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -439,28 +438,29 @@ Campo d’applicazione il 5 febbraio 2016**[^t-3]**
 <tr><td>Lettonia</td><td>29 giugno</td><td>2004</td><td>27 settembre</td><td>2004</td></tr>
 <tr><td>Lituania</td><td>2 novembre</td><td>2000</td><td>1° febbraio</td><td>2001</td></tr>
 <tr><td>Lussemburgo</td><td>8 agosto</td><td>1994</td><td>19 aprile</td><td>2000</td></tr>
-<tr><td>Macedonia</td><td>2 marzo</td><td>2010 A</td><td>31 maggio</td><td>2010</td></tr>
+<tr><td>Macedonia del Nord</td><td>2 marzo</td><td>2010 A</td><td>31 maggio</td><td>2010</td></tr>
 <tr><td>Moldova</td><td>4 gennaio</td><td>1994 A</td><td>19 aprile</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>28 agosto</td><td>2001 A</td><td>26 novembre</td><td>2001</td></tr>
 <tr><td>Montenegro</td><td>19 maggio</td><td>2009 A</td><td>17 agosto</td><td>2009</td></tr>
 <tr><td>Norvegia</td><td>1° aprile</td><td>1993</td><td>19 aprile</td><td>2000</td></tr>
-<tr><td>Paesi Bassi\* <sup>b</sup></td><td>6 novembre</td><td>2006</td><td>4 febbraio</td><td>2007</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>b</sup></td><td>6 novembre</td><td>2006</td><td>4 febbraio</td><td>2007</td></tr>
 <tr><td>Polonia</td><td>8 settembre</td><td>2003</td><td>7 dicembre</td><td>2003</td></tr>
 <tr><td>Portogallo</td><td>2 novembre</td><td>2006</td><td>31 gennaio</td><td>2007</td></tr>
 <tr><td>Regno Unito</td><td>5 agosto</td><td>2002</td><td>3 novembre</td><td>2002</td></tr>
 <tr><td>Romania</td><td>22 maggio</td><td>2003 A</td><td>20 agosto</td><td>2003</td></tr>
 <tr><td>Russia</td><td>1° febbraio</td><td>1994</td><td>19 aprile</td><td>2000</td></tr>
-<tr><td>Serbia\*</td><td>31 luglio</td><td>2009 A</td><td>29 ottobre</td><td>2009</td></tr>
+<tr><td>Serbia<sup>\*</sup></td><td>31 luglio</td><td>2009 A</td><td>29 ottobre</td><td>2009</td></tr>
 <tr><td>Slovacchia</td><td>9 settembre</td><td>2003 A</td><td>8 dicembre</td><td>2003</td></tr>
 <tr><td>Slovenia</td><td>13 maggio</td><td>2002 A</td><td>11 agosto</td><td>2002</td></tr>
 <tr><td>Spagna</td><td>16 maggio</td><td>1997</td><td>19 aprile</td><td>2000</td></tr>
 <tr><td>Svezia</td><td>22 settembre</td><td>1999</td><td>19 aprile</td><td>2000</td></tr>
 <tr><td>Svizzera</td><td>21 maggio</td><td>1999</td><td>19 aprile</td><td>2000</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>6 luglio</td><td>2022 A</td><td>4 ottobre</td><td>2022</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>2 giugno</td><td>1994</td><td>19 aprile</td><td>2000</td></tr>
 <tr><td>Unione Europea<sup>\*</sup></td><td>24 aprile</td><td>1998</td><td>19 aprile</td><td>2000</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non è applicabile alle Isole Faeröer né alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142), [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628)[2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224)e [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 1079](https://fedlex.data.admin.ch/eli/oc/2005/142); [2008 4495](https://fedlex.data.admin.ch/eli/oc/2008/628); [2012 1571](https://fedlex.data.admin.ch/eli/oc/2012/224); [2016 555](https://fedlex.data.admin.ch/eli/oc/2016/105); [2025 331](https://fedlex.data.admin.ch/eli/oc/2025/331). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
