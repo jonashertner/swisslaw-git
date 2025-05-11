@@ -3,13 +3,12 @@ canton: BS
 number: RiE 730.710
 title: Reglement über die Reinigung privater Liegenschaften bei Verschmierungen
 language: de
-version: 2013-01-01
-valid_until: 2025-05-11
-version_adopted: 2012-10-30
+version: 2025-05-12
+version_adopted: 2025-04-29
 adopted: 2012-10-30
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20730.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2354/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2354/pdf_file"
 
 Reinigung von Verschmierungen: Reglement | Riehen: Einwohnergemeinde
 
-Vom 30. Oktober 2012 (Stand 1. Januar 2013)
+Vom 30. Oktober 2012 (Stand 12. Mai 2025)
 
 Der Gemeinderat der Gemeinde Riehen erlässt
 
@@ -40,7 +39,7 @@ gestützt auf § 3 der Ordnung über die Reinigung privater Liegenschaften bei V
 
 #### § 3
 
-<sup>1</sup> Für die Beseitigung der Verschmierungen steht jährlich ein Gesamtbetrag von CHF 30'000 zur Verfügung.
+<sup>1</sup> Für die Beseitigung der Verschmierungen steht jährlich ein Gesamtbetrag von CHF 15'000 zur Verfügung.
 
 <sup>2</sup> Ein Anspruch auf Reinigungen nach diesem Reglement besteht nur bis zur Erschöpfung des jährlichen Gesamtbetrags.
 
