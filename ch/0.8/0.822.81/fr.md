@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Convention du travail maritime, 2006 du 23 février 2006 (avec règles, code et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: fr
-version: 2024-12-23
+version: 2025-05-12
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20241223/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20241223-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20241223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20250512/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20250512-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20250512/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 février 2011
 
 Entrée en vigueur pour la Suisse le 20 août 2013
 
-(État le 23 décembre 2024)
+(État le 12 mai 2025)
 
 [^t-1]: [RO 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -45,25 +45,25 @@ désireuse de créer un instrument unique et cohérent qui intègre autant que p
 - – la Convention n<sup>o</sup> 138 sur l’âge minimum[^ingress-7], 1973,
 - – la Convention n<sup>o</sup> 182 sur les pires formes de travail des enfants[^ingress-8], 1999,
 
-consciente que l’OIT a pour mandat fondamental de promouvoir des conditions de travail décentes;
+consciente que l’OIT a pour mandat fondamental de promouvoir des conditions de travail décentes,
 
-rappelant la Déclaration de l’OIT relative aux principes et droits fondamentaux au travail, 1998;
+rappelant la Déclaration de l’OIT relative aux principes et droits fondamentaux au travail, 1998,
 
-consciente également que les gens de mer peuvent se prévaloir des dispositions d’autres instruments de l’OIT et doivent jouir des libertés et droits fondamentaux reconnus à toutes les personnes;
+consciente également que les gens de mer peuvent se prévaloir des dispositions d’autres instruments de l’OIT et doivent jouir des libertés et droits fondamentaux reconnus à toutes les personnes,
 
-considérant que les activités du secteur maritime se déploient dans le monde entier et que les gens de mer doivent par conséquent bénéficier d’une protection particulière;
+considérant que les activités du secteur maritime se déploient dans le monde entier et que les gens de mer doivent par conséquent bénéficier d’une protection particulière,
 
-tenant compte également des normes internationales sur la sécurité des navires, la sécurité et la sûreté des personnes et la qualité de la gestion des navires édictées dans la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer[^ingress-9], telle que modifiée, et dans la Convention de 1972 sur le règlement international pour prévenir les abordages en mer[^ingress-10] telle que modifiée, ainsi que des prescriptions relatives à la formation et aux compétences requises des gens de mer qui figurent dans la Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille[^ingress-11],, telle que modifiée;
+tenant compte également des normes internationales sur la sécurité des navires, la sécurité et la sûreté des personnes et la qualité de la gestion des navires édictées dans la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer[^ingress-9], telle que modifiée, et dans la Convention de 1972 sur le règlement international pour prévenir les abordages en mer[^ingress-10] telle que modifiée, ainsi que des prescriptions relatives à la formation et aux compétences requises des gens de mer qui figurent dans la Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille[^ingress-11], telle que modifiée,
 
-rappelant que la Convention des Nations Unies de 1982 sur le droit de la mer[^ingress-12] établit un cadre juridique général régissant l’ensemble des activités sur les mers et les océans, qu’elle revêt une importance stratégique comme base de l’action et de la coopération nationales, régionales et mondiales dans le secteur maritime et que son intégrité doit être préservée;
+rappelant que la Convention des Nations Unies de 1982 sur le droit de la mer[^ingress-12] établit un cadre juridique général régissant l’ensemble des activités sur les mers et les océans, qu’elle revêt une importance stratégique comme base de l’action et de la coopération nationales, régionales et mondiales dans le secteur maritime et que son intégrité doit être préservée,
 
-rappelant l’art. 94 de la Convention des Nations Unies de 1982 sur le droit de la mer qui définit les devoirs et les obligations incombant à l’État du pavillon notamment en ce qui concerne les conditions de travail, les effectifs et les questions sociales à bord des navires qui battent son pavillon;
+rappelant l’art. 94 de la Convention des Nations Unies de 1982 sur le droit de la mer qui définit les devoirs et les obligations incombant à l’État du pavillon notamment en ce qui concerne les conditions de travail, les effectifs et les questions sociales à bord des navires qui battent son pavillon,
 
-rappelant le par. 8 de l’art. 19 de la Constitution de l’Organisation internationale du Travail[^ingress-13] qui dispose que l’adoption d’une convention ou d’une recommandation par la Conférence ou la ratification d’une convention par un Membre ne devront en aucun cas être considérées comme affectant toute loi, toute sentence, toute coutume ou tout accord qui assurent des conditions plus favorables aux travailleurs intéressés que celles prévues par la convention ou la recommandation;
+rappelant le par. 8 de l’art. 19 de la Constitution de l’Organisation internationale du Travail[^ingress-13] qui dispose que l’adoption d’une convention ou d’une recommandation par la Conférence ou la ratification d’une convention par un Membre ne devront en aucun cas être considérées comme affectant toute loi, toute sentence, toute coutume ou tout accord qui assurent des conditions plus favorables aux travailleurs intéressés que celles prévues par la convention ou la recommandation,
 
-déterminée à faire en sorte que ce nouvel instrument soit conçu de manière à recueillir la plus large acceptation possible par les gouvernements, les armateurs et les gens de mer attachés aux principes du travail décent, qu’il soit facile à mettre à jour et qu’il puisse être appliqué et respecté de manière effective;
+déterminée à faire en sorte que ce nouvel instrument soit conçu de manière à recueillir la plus large acceptation possible par les gouvernements, les armateurs et les gens de mer attachés aux principes du travail décent, qu’il soit facile à mettre à jour et qu’il puisse être appliqué et respecté de manière effective,
 
-après avoir décidé d’adopter diverses propositions relatives à l’élaboration d’un tel instrument, question qui constitue le seul point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à l’élaboration d’un tel instrument, question qui constitue le seul point à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
@@ -3005,7 +3005,7 @@ Certificat de travail maritime
 
 Délivré en vertu des dispositions de l’art. V et du titre 5 de la Convention du travail maritime, 2006 (ci-après «la Convention») sous l’autorité du gouvernement de:
 
-(dénomination exacte de l’État dont le navire est autorisé à battre pavillon) par .................................................................................................................................
+(dénomination exacte de l’État dont le navire est autorisé à battre pavillon) par …………………………………………………………………………………………………………………
 
 (désignation exacte et adresse complète de l’autorité compétente ou de l’organisme reconnu dûment habilité en vertu des dispositions de la Convention)
 
@@ -3032,15 +3032,15 @@ Il est certifié:
 - 1\. Que ce navire a été inspecté et que sa conformité aux prescriptions de la Convention et aux dispositions de la déclaration de conformité du travail maritime ci-jointe a été vérifiée.
 - 2\. Que les conditions de travail et de vie des gens de mer telles que spécifiées à l’annexe A5-I de la Convention ont été jugées correspondre aux prescriptions nationales adoptées par le pays susmentionné pour mettre en œuvre la Convention. La déclaration de conformité du travail maritime figurant en annexe contient dans sa partie I un récapitulatif de ces prescriptions nationales.
 
-Le présent certificat est valide jusqu’au .........................................., sous réserve d’inspections réalisées conformément aux dispositions des normes A5.1.3 et A5.1.4 de la Convention.
+Le présent certificat est valide jusqu’au ……………………………………, sous réserve d’inspections réalisées conformément aux dispositions des normes A5.1.3 et A5.1.4 de la Convention.
 
-Le présent certificat n’est valide que s’il est accompagné de la déclaration de conformité du travail maritime délivrée à ............................................................... le .......................................
+Le présent certificat n’est valide que s’il est accompagné de la déclaration de conformité du travail maritime délivrée à ……………………………………………………… le …………………………………
 
 Date de l’inspection sur la base de laquelle le présent certificat est établi
 
-......................................................
+………………………………………………
 
-Établi à ..................................................... le ................................................................
+Établi à …………………………………………….. le ……………………………………………………….
 
 Signature du fonctionnaire dûment autorisé qui délivre le certificat
 
@@ -3051,11 +3051,11 @@ Inspection intermédiaire obligatoire et, le cas échéant, inspection suppléme
 Il est certifié que le navire a été inspecté conformément aux dispositions des normes A.5.1.3 et A5.1.4 de la Convention et que les conditions de travail et de vie des gens de mer spécifiées à l’annexe A5-I de la Convention ont été jugées correspondre aux prescriptions nationales adoptées par le pays susmentionné pour mettre en œuvre la Convention.
 
 <table>
-<tr><td>*Inspection intermédiaire:*</td><td>Signé: ....................................................................</td></tr>
+<tr><td>*Inspection intermédiaire:*</td><td>Signé: …………………………………………………………..</td></tr>
 <tr><td>(à effectuer entre le deuxième</td><td>(Signature du fonctionnaire autorisé)</td></tr>
-<tr><td>et le troisième anniversaire de la date d’établissement du certificat)</td><td>................................................................................</td></tr>
-<tr><td></td><td>Lieu: ......................................................................</td></tr>
-<tr><td></td><td>Date: ......................................................................</td></tr>
+<tr><td>et le troisième anniversaire de la date d’établissement du certificat)</td><td>……………………………………………………………………..</td></tr>
+<tr><td></td><td>Lieu: …………………………………………………………….</td></tr>
+<tr><td></td><td>Date: …………………………………………………………….</td></tr>
 <tr><td></td><td>(Sceau ou cachet, selon le cas, de l’autorité)</td></tr>
 </table>
 
@@ -3064,29 +3064,29 @@ Il est certifié que le navire a été inspecté conformément aux dispositions 
 Il est certifié que le navire a fait l’objet d’une inspection supplémentaire pour vérifier qu’il continuait d’être en conformité avec les prescriptions nationales mettant en œuvre la Convention, conformément aux dispositions de la norme A3.1, par. 3, de la Convention (nouvelle immatriculation ou modification substantielle du logement) ou pour d’autres raisons.
 
 <table>
-<tr><td>*Inspection supplémentaire:*</td><td>Signé: ....................................................................</td></tr>
+<tr><td>*Inspection supplémentaire:*</td><td>Signé: …………………………………………………………..</td></tr>
 <tr><td>(le cas échéant)</td><td>(Signature du fonctionnaire autorisé)</td></tr>
-<tr><td></td><td>...............................................................................</td></tr>
-<tr><td></td><td>Lieu: .....................................................................</td></tr>
-<tr><td></td><td>Date: .....................................................................</td></tr>
+<tr><td></td><td>…………………………………………………………………….</td></tr>
+<tr><td></td><td>Lieu: ……………………………………………………………</td></tr>
+<tr><td></td><td>Date: ……………………………………………………………</td></tr>
 <tr><td></td><td>(Sceau ou cachet, selon le cas, de l’autorité)</td></tr>
 </table>
 
 <table>
-<tr><td>*Inspection supplémentaire:*</td><td>Signé: ....................................................................</td></tr>
+<tr><td>*Inspection supplémentaire:*</td><td>Signé: …………………………………………………………..</td></tr>
 <tr><td>(le cas échéant)</td><td>(Signature du fonctionnaire autorisé)</td></tr>
-<tr><td></td><td>................................................................................</td></tr>
-<tr><td></td><td>Lieu: ......................................................................</td></tr>
-<tr><td></td><td>Date: ......................................................................</td></tr>
+<tr><td></td><td>……………………………………………………………………..</td></tr>
+<tr><td></td><td>Lieu: …………………………………………………………….</td></tr>
+<tr><td></td><td>Date: …………………………………………………………….</td></tr>
 <tr><td></td><td>(Sceau ou cachet, selon le cas, de l’autorité)</td></tr>
 </table>
 
 <table>
-<tr><td>*Inspection supplémentaire:*</td><td>Signé: ....................................................................</td></tr>
+<tr><td>*Inspection supplémentaire:*</td><td>Signé: …………………………………………………………..</td></tr>
 <tr><td>(le cas échéant)</td><td>(Signature du fonctionnaire autorisé)</td></tr>
-<tr><td></td><td>................................................................................</td></tr>
-<tr><td></td><td>Lieu: ......................................................................</td></tr>
-<tr><td></td><td>Date: ......................................................................</td></tr>
+<tr><td></td><td>……………………………………………………………………..</td></tr>
+<tr><td></td><td>Lieu: …………………………………………………………….</td></tr>
+<tr><td></td><td>Date: …………………………………………………………….</td></tr>
 <tr><td></td><td>(Sceau ou cachet, selon le cas, de l’autorité)</td></tr>
 </table>
 
@@ -3112,7 +3112,7 @@ Déclaration de conformité du travail maritime – Partie I
 
 *(Note: la présente déclaration doit être annexée au certificat de travail maritime du navire)*
 
-Délivrée sous l’autorité de: ............................ *(insérer le nom de l’autorité compétente telle que définie à l’art. II, par. 1* a)*, de la Convention)*
+Délivrée sous l’autorité de: ………………………. *(insérer le nom de l’autorité compétente telle que définie à l’art. II, par. 1* a)*, de la Convention)*
 
 Le navire répondant aux caractéristiques suivantes:
 
@@ -3215,34 +3215,34 @@ Les mesures ci-après ont été établies par l’armateur dont le nom figure da
 
 (Veuillez mentionner ci-dessous les mesures établies pour assurer la conformité à chacun des éléments énoncés dans la partie I)
 
-- 1\. Âge minimum (règle 1.1) ............................................................................. ◻
-- ...........................................................................................................................
-- 2\. Certificat médical (règle 1.2) ....................................................................... ◻
-- ...........................................................................................................................
-- 3\. Qualifications des gens de mer (règle 1.3) .................................................. ◻
-- ...........................................................................................................................
-- 4\. Contrats d’engagement maritime (règle 2.1) ............................................... ◻
-- ...........................................................................................................................
-- 5\. Recours à tout service de recrutement et de placement privé sous licence ou agréé ou réglementé (règle 1.4) ................................................................... ◻
-- ...........................................................................................................................
-- 6\. Durée du travail ou du repos (règle 2.3) ..................................................... ◻
-- ...........................................................................................................................
-- 7\. Effectifs du navire (règle 2.7) ...................................................................... ◻
-- ...........................................................................................................................
-- 8\. Logement (règle 3.1) .................................................................................... ◻
-- ...........................................................................................................................
-- 9\. Installations de loisirs à bord (règle 3.1) ...................................................... ◻
-- ...........................................................................................................................
-- 10\. Alimentation et service de table (règle 3.2) ................................................. ◻
-- ...........................................................................................................................
-- 11\. Santé et sécurité et prévention des accidents (règle 4.3) ............................. ◻
-- ...........................................................................................................................
-- 12\. Soins médicaux à bord (règle 4.1) ............................................................... ◻
-- ...........................................................................................................................
-- 13\. Procédures de plainte à bord (règle 5.1.5) ................................................... ◻
-- ...........................................................................................................................
-- 14\. Paiement des salaires (règle 2.2) .................................................................. ◻
-- ...........................................................................................................................
+- 1\. Âge minimum (règle 1.1) ………………………………………………………………….. ◻
+- ……………………………………………………………………………………………………………
+- 2\. Certificat médical (règle 1.2) …………………………………………………………….. ◻
+- ……………………………………………………………………………………………………………
+- 3\. Qualifications des gens de mer (règle 1.3) ………………………………………….. ◻
+- ……………………………………………………………………………………………………………
+- 4\. Contrats d’engagement maritime (règle 2.1) ……………………………………….. ◻
+- ……………………………………………………………………………………………………………
+- 5\. Recours à tout service de recrutement et de placement privé sous licence ou agréé ou réglementé (règle 1.4) …………………………………………………………. ◻
+- ……………………………………………………………………………………………………………
+- 6\. Durée du travail ou du repos (règle 2.3) …………………………………………….. ◻
+- ……………………………………………………………………………………………………………
+- 7\. Effectifs du navire (règle 2.7) ……………………………………………………………. ◻
+- ……………………………………………………………………………………………………………
+- 8\. Logement (règle 3.1) ………………………………………………………………………… ◻
+- ……………………………………………………………………………………………………………
+- 9\. Installations de loisirs à bord (règle 3.1) ……………………………………………… ◻
+- ……………………………………………………………………………………………………………
+- 10\. Alimentation et service de table (règle 3.2) …………………………………………. ◻
+- ……………………………………………………………………………………………………………
+- 11\. Santé et sécurité et prévention des accidents (règle 4.3) ……………………….. ◻
+- ……………………………………………………………………………………………………………
+- 12\. Soins médicaux à bord (règle 4.1) ……………………………………………………… ◻
+- ……………………………………………………………………………………………………………
+- 13\. Procédures de plainte à bord (règle 5.1.5) …………………………………………… ◻
+- ……………………………………………………………………………………………………………
+- 14\. Paiement des salaires (règle 2.2) ………………………………………………………… ◻
+- ……………………………………………………………………………………………………………
 - 15\. Garantie financière pour rapatriement (règle 2.5) ◻
 -
 
@@ -3308,13 +3308,13 @@ Il est certifié, aux fins du par. 7 de la norme A5.1.3 de la Convention, que:
 - c) le capitaine est averti des prescriptions de la Convention et des obligations relatives à sa mise en œuvre;
 - d) les informations requises ont été présentées à l’autorité compétente ou à l’organisme reconnu en vue de l’établissement d’une déclaration de conformité du travail maritime.
 
-Le présent certificat est valide jusqu’au .................................., sous réserve d’inspections effectuées conformément aux dispositions des normes A5.1.3 et A5.1.4 de la Convention.
+Le présent certificat est valide jusqu’au ……………………………., sous réserve d’inspections effectuées conformément aux dispositions des normes A5.1.3 et A5.1.4 de la Convention.
 
-Date de l’inspection visée au point a) ci-dessus ...........................................................
+Date de l’inspection visée au point a) ci-dessus …………………………………………………..
 
-Établi à ……………......………............. le ..................................................................
+Établi à ……………………………………. le …………………………………………………………
 
-Signature du fonctionnaire dûment autorisé ayant établi le présent certificat provisoire ...............................................................................................................................
+Signature du fonctionnaire dûment autorisé ayant établi le présent certificat provisoire ……………………………………………………………………………………………………………….
 
 (Sceau ou cachet, selon le cas, de l’autorité qui délivre le certificat)
 
@@ -3420,7 +3420,7 @@ Les mesures ci-après ont été établies par l’armateur dont le nom figure da
 
 (Veuillez mentionner ci-dessous les mesures établies pour assurer la conformité à chacun des éléments énoncés dans la partie I)
 
-\1. Âge minimum (règle 1.1) .................................................................................... ◻
+\1. Âge minimum (règle 1.1) ………………………………………………………………………… ◻
 
 La date de naissance de chaque marin est mentionnée à côté de son nom sur le rôle d’équipage.
 
@@ -3428,16 +3428,16 @@ Le capitaine ou un officier agissant en son nom («l’officier compétent») v�
 
 Chaque marin de moins de 18 ans reçoit, au moment de son engagement, une note qui lui interdit de travailler de nuit ou d’effectuer les travaux jugés dangereux énumérés dans l’annexe (voir partie I, section 1) ou tout autre travail dangereux. Cette note prescrit également au marin de consulter l’officier compétent en cas de doute en la matière. L’officier compétent conserve une copie de la note portant la signature du marin au-dessous de la mention «reçu et lu» ainsi que la date du jour de signature.
 
-\2. Certificat médical (règle 1.2) ............................................................................... ◻
+\2. Certificat médical (règle 1.2) ……………………………………………………………………. ◻
 
 L’officier compétent conserve les certificats médicaux à titre strictement confidentiel, ainsi qu’une liste, élaborée sous sa responsabilité, qui indique pour chaque marin à bord: les fonctions, la date du certificat médical/des certificats médicaux en cours de validité ainsi que l’état de santé indiqué sur le certificat.
 
 En cas de doute quant à l’aptitude du marin à exercer une fonction ou des fonctions particulières, l’officier compétent consulte le médecin traitant du marin ou tout autre praticien qualifié et consigne un résumé de ses conclusions, ainsi que son nom, son numéro de téléphone et la date de la consultation.
 
-Champ d’application le 29 août 2023[^t-13]
+Champ d’application le 12 mai 2025[^t-13]
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>20 juin</td><td>2013</td><td>20 juin</td><td>2014</td></tr>
 <tr><td>Albanie</td><td>28 octobre</td><td>2016</td><td>28 octobre</td><td>2017</td></tr>
 <tr><td>Algérie</td><td>22 juillet</td><td>2016</td><td>22 juillet</td><td>2017</td></tr>
@@ -3460,12 +3460,14 @@ Champ d’application le 29 août 2023[^t-13]
 <tr><td>Chine</td><td>12 novembre</td><td>2015</td><td>12 novembre</td><td>2016</td></tr>
 <tr><td>Hong Kong</td><td>6 août</td><td>2018</td><td>20 décembre</td><td>2018</td></tr>
 <tr><td>Chypre</td><td>20 juillet</td><td>2012</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Comores</td><td>18 février</td><td>2024</td><td>18 février</td><td>2025</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 mars</td><td>2014</td><td>26 mars</td><td>2015</td></tr>
 <tr><td>Corée (Sud)</td><td>9 janvier</td><td>2014</td><td>9 janvier</td><td>2015</td></tr>
 <tr><td>Croatie</td><td>12 février</td><td>2010</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Danemark</td><td>23 juin</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Îles Féroé</td><td>9 juillet</td><td>2013</td><td>9 juillet</td><td>2014</td></tr>
 <tr><td>Djibouti</td><td>20 juillet</td><td>2018</td><td>20 juillet</td><td>2019</td></tr>
+<tr><td>Égypte</td><td>7 juin</td><td>2024</td><td>7 juin</td><td>2025</td></tr>
 <tr><td>Espagne</td><td>4 février</td><td>2010</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Estonie</td><td>5 mai</td><td>2016</td><td>5 mai</td><td>2017</td></tr>
 <tr><td>Éthiopie</td><td>28 mars</td><td>2019</td><td>28 mars</td><td>2020</td></tr>
@@ -3474,11 +3476,15 @@ Champ d’application le 29 août 2023[^t-13]
 <tr><td>France</td><td>28 février</td><td>2013</td><td>28 février</td><td>2014</td></tr>
 <tr><td>Nouvelle-Calédonie</td><td>28 février</td><td>2013</td><td>28 février</td><td>2014</td></tr>
 <tr><td>Gabon</td><td>25 septembre</td><td>2014</td><td>25 septembre</td><td>2015</td></tr>
+<tr><td>Gambie</td><td>9 novembre</td><td>2018</td><td>9 novembre</td><td>2019</td></tr>
+<tr><td>Géorgie</td><td>14 février</td><td>2024</td><td>14 février</td><td>2025</td></tr>
 <tr><td>Ghana</td><td>16 août</td><td>2013</td><td>16 août</td><td>2014</td></tr>
 <tr><td>Grèce</td><td>4 janvier</td><td>2013</td><td>4 janvier</td><td>2014</td></tr>
 <tr><td>Grenade</td><td>12 novembre</td><td>2018</td><td>12 novembre</td><td>2019</td></tr>
+<tr><td>Guinée-Bissau</td><td>10 juin</td><td>2024</td><td>10 juin</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>6 juin</td><td>2016</td><td>6 juin</td><td>2017</td></tr>
 <tr><td>Hongrie</td><td>31 juillet</td><td>2013</td><td>31 juillet</td><td>2014</td></tr>
+<tr><td>Îles Cook</td><td>18 décembre</td><td>2019</td><td>18 décembre</td><td>2020</td></tr>
 <tr><td>Îles Marshall</td><td>25 septembre</td><td>2007</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Inde</td><td>9 octobre</td><td>2015</td><td>9 octobre</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>12 juin</td><td>2017</td><td>12 juin</td><td>2018</td></tr>
@@ -3511,7 +3517,6 @@ Champ d’application le 29 août 2023[^t-13]
 <tr><td>Nigéria</td><td>18 juin</td><td>2013</td><td>18 juin</td><td>2014</td></tr>
 <tr><td>Norvège</td><td>10 février</td><td>2009</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>9 mars</td><td>2016</td><td>9 mars</td><td>2017</td></tr>
-<tr><td>Îles Cook</td><td>18 décembre</td><td>2019</td><td>18 décembre</td><td>2020</td></tr>
 <tr><td>Oman</td><td>29 mars</td><td>2022</td><td>29 mars</td><td>2023</td></tr>
 <tr><td>Palaos</td><td>29 mai</td><td>2012</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Panama</td><td>6 février</td><td>2009</td><td>20 août</td><td>2013</td></tr>
@@ -3540,8 +3545,8 @@ Champ d’application le 29 août 2023[^t-13]
 <tr><td>Slovénie</td><td>15 avril</td><td>2016</td><td>15 avril</td><td>2017</td></tr>
 <tr><td>Soudan</td><td>4 octobre</td><td>2019</td><td>4 octobre</td><td>2020</td></tr>
 <tr><td>Sri Lanka</td><td>12 janvier</td><td>2017</td><td>12 janvier</td><td>2018</td></tr>
-<tr><td>Suisse</td><td>21 février</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Suède</td><td>12 juin</td><td>2012</td><td>20 août</td><td>2013</td></tr>
+<tr><td>Suisse</td><td>21 février</td><td>2011</td><td>20 août</td><td>2013</td></tr>
 <tr><td>Syrie</td><td>6 avril</td><td>2023</td><td>6 avril</td><td>2024</td></tr>
 <tr><td>Tanzanie</td><td>3 avril</td><td>2019</td><td>3 avril</td><td>2020</td></tr>
 <tr><td>Thaïlande</td><td>7 juin</td><td>2016</td><td>7 juin</td><td>2017</td></tr>
@@ -3552,4 +3557,4 @@ Champ d’application le 29 août 2023[^t-13]
 <tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-13]: [RO 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291); [2023 477](https://fedlex.data.admin.ch/eli/oc/2023/477). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-13]: [RO 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291); [2023 477](https://fedlex.data.admin.ch/eli/oc/2023/477); [2025 332](https://fedlex.data.admin.ch/eli/oc/2025/332). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Seearbeitsübereinkommen, 2006 vom 23. Februar 2006 (mit Regeln und Code sowie Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: de
-version: 2024-12-23
+version: 2025-05-12
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20241223/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20241223-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20241223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20250512/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20250512-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20250512/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Februar 2011
 
 Für die Schweiz in Kraft getreten am 20. August 2013
 
-(Stand am 23. Dezember 2024)
+(Stand am 12. Mai 2025)
 
 [^t-1]: [AS 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -3116,122 +3116,127 @@ Die ärztlichen Zeugnisse werden vom zuständigen Offizier streng vertraulich ge
 
 Bei Zweifel an der Tauglichkeit des Betreffenden für eine bestimmte Aufgabe/für bestimmte Aufgaben konsultiert der zuständige Offizier den Hausarzt des Betreffenden oder einen anderen qualifizierten Arzt und verzeichnet eine Zusammenfassung dessen Schlussfolgerungen sowie dessen Namen, dessen Telefonnummer und das Datum der Konsultation.
 
-Geltungsbereich am 29. August 2023[^t-13]
+Geltungsbereich am 12. Mai 2025[^t-13]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien</td><td>28. Oktober</td><td>2016</td><td>28. Oktober</td><td>2017</td></tr>
-<tr><td>Algerien</td><td>22. Juli</td><td>2016</td><td>22. Juli</td><td>2017</td></tr>
-<tr><td>Antigua und Barbuda</td><td>11. August</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Argentinien</td><td>28. Mai</td><td>2014</td><td>28. Mai</td><td>2015</td></tr>
-<tr><td>Äthiopien</td><td>28. März</td><td>2019</td><td>28. März</td><td>2020</td></tr>
-<tr><td>Australien</td><td>21. Dezember</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Bahamas</td><td>11. Februar</td><td>2008</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Bangladesch</td><td>6. November</td><td>2014</td><td>6. November</td><td>2015</td></tr>
-<tr><td>Barbados</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td>2014</td></tr>
-<tr><td>Belgien</td><td>20. August</td><td>2013</td><td>20. August</td><td>2014</td></tr>
-<tr><td>Belize</td><td>8. Juli</td><td>2014</td><td>8. Juli</td><td>2015</td></tr>
-<tr><td>Benin</td><td>13. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>18. Januar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Brasilien</td><td>7. Mai</td><td>2020</td><td>7. Mai</td><td>2021</td></tr>
-<tr><td>Bulgarien</td><td>12. Januar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Chile</td><td>22. Februar</td><td>2018</td><td>22. Februar</td><td>2019</td></tr>
-<tr><td>China</td><td>12. November</td><td>2015</td><td>12. November</td><td>2016</td></tr>
-<tr><td>Hongkong</td><td>6. August</td><td>2018</td><td>20. Dezember</td><td>2018</td></tr>
-<tr><td>Dänemark</td><td>23. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Färöer</td><td>9. Juli</td><td>2013</td><td>9. Juli</td><td>2014</td></tr>
-<tr><td>Deutschland</td><td>16. August</td><td>2013</td><td>16. August</td><td>2014</td></tr>
-<tr><td>Dschibuti</td><td>20. Juli</td><td>2018</td><td>20. Juli</td><td>2019</td></tr>
-<tr><td>Estland</td><td>5. Mai</td><td>2016</td><td>5. Mai</td><td>2017</td></tr>
-<tr><td>Fidschi</td><td>10. Oktober</td><td>2014</td><td>10. Oktober</td><td>2015</td></tr>
-<tr><td>Finnland</td><td>9. Januar</td><td>2013</td><td>9. Januar</td><td>2014</td></tr>
-<tr><td>Frankreich</td><td>28. Februar</td><td>2013</td><td>28. Februar</td><td>2014</td></tr>
-<tr><td>Neukaledonien</td><td>28. Februar</td><td>2013</td><td>28. Februar</td><td>2014</td></tr>
-<tr><td>Gabun</td><td>25. September</td><td>2014</td><td>25. September</td><td>2015</td></tr>
-<tr><td>Ghana</td><td>16. August</td><td>2013</td><td>16. August</td><td>2014</td></tr>
-<tr><td>Grenada</td><td>12. November</td><td>2018</td><td>12. November</td><td>2019</td></tr>
-<tr><td>Griechenland</td><td>4. Januar</td><td>2013</td><td>4. Januar</td><td>2014</td></tr>
-<tr><td>Honduras</td><td>6. Juni</td><td>2016</td><td>6. Juni</td><td>2017</td></tr>
-<tr><td>Indien</td><td>9. Oktober</td><td>2015</td><td>9. Oktober</td><td>2016</td></tr>
-<tr><td>Indonesien</td><td>12. Juni</td><td>2017</td><td>12. Juni</td><td>2018</td></tr>
-<tr><td>Irak</td><td>22. März</td><td>2023</td><td>22. März</td><td>2024</td></tr>
-<tr><td>Iran</td><td>11. Juni</td><td>2014</td><td>11. Juni</td><td>2015</td></tr>
-<tr><td>Irland</td><td>21. Juli</td><td>2014</td><td>21. Juli</td><td>2015</td></tr>
-<tr><td>Island</td><td>4. April</td><td>2019</td><td>4. April</td><td>2020</td></tr>
-<tr><td>Italien</td><td>19. November</td><td>2013</td><td>19. November</td><td>2014</td></tr>
-<tr><td>Jamaika</td><td>13. Juni</td><td>2017</td><td>13. Juni</td><td>2018</td></tr>
-<tr><td>Japan</td><td>5. August</td><td>2013</td><td>5. August</td><td>2014</td></tr>
-<tr><td>Jordanien</td><td>27. April</td><td>2016</td><td>27. Mai</td><td>2016</td></tr>
-<tr><td>Kanada</td><td>15. Juni</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Kap Verde</td><td>6. Oktober</td><td>2015</td><td>6. Oktober</td><td>2016</td></tr>
-<tr><td>Kiribati</td><td>24. Oktober</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Kenia</td><td>31. Juli</td><td>2014</td><td>31. Juli</td><td>2015</td></tr>
-<tr><td>Kongo (Brazzaville)</td><td>26. März</td><td>2014</td><td>26. März</td><td>2015</td></tr>
-<tr><td>Korea (Süd-)</td><td>9. Januar</td><td>2014</td><td>9. Januar</td><td>2015</td></tr>
-<tr><td>Kroatien</td><td>12. Februar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Lettland</td><td>12. August</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Libanon</td><td>9. März</td><td>2018</td><td>9. März</td><td>2019</td></tr>
-<tr><td>Liberia</td><td>7. Juni</td><td>2006</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Litauen</td><td>20. August</td><td>2013</td><td>20. August</td><td>2014</td></tr>
-<tr><td>Luxemburg</td><td>20. September</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Madagaskar</td><td>15. Juni</td><td>2023</td><td>15. Juni</td><td>2024</td></tr>
-<tr><td>Malaysia</td><td>20. August</td><td>2013</td><td>20. August</td><td>2014</td></tr>
-<tr><td>Malediven</td><td>7. Oktober</td><td>2014</td><td>7. Oktober</td><td>2015</td></tr>
-<tr><td>Malta</td><td>22. Januar</td><td>2013</td><td>22. Januar</td><td>2014</td></tr>
-<tr><td>Marokko</td><td>10. September</td><td>2012</td><td>10. September</td><td>2013</td></tr>
-<tr><td>Marshallinseln</td><td>25. September</td><td>2007</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Mauritius</td><td>30. Mai</td><td>2014</td><td>30. Mai</td><td>2015</td></tr>
-<tr><td>Mongolei</td><td>1. September</td><td>2015</td><td>1. September</td><td>2016</td></tr>
-<tr><td>Montenegro</td><td>3. Februar</td><td>2015</td><td>3. Februar</td><td>2016</td></tr>
-<tr><td>Mosambik</td><td>25. Mai</td><td>2021 B</td><td>25. Mai</td><td>2022</td></tr>
-<tr><td>Myanmar</td><td>25. Mai</td><td>2016</td><td>25. Mai</td><td>2017</td></tr>
-<tr><td>Neuseeland <sup>a</sup></td><td>9. März</td><td>2016</td><td>9. März</td><td>2017</td></tr>
-<tr><td>Cook-Inseln</td><td>18. Dezember</td><td>2019</td><td>18. Dezember</td><td>2020</td></tr>
-<tr><td>Nicaragua</td><td>20. Dezember</td><td>2013</td><td>20. Dezember</td><td>2014</td></tr>
-<tr><td>Niederlande</td><td>13. Dezember</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Curaçao</td><td>14. April</td><td>2015</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Nigeria</td><td>18. Juni</td><td>2013</td><td>18. Juni</td><td>2014</td></tr>
-<tr><td>Norwegen</td><td>10. Februar</td><td>2009</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Oman</td><td>29. März</td><td>2022</td><td>29. März</td><td>2023</td></tr>
-<tr><td>Palau</td><td>29. Mai</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Panama</td><td>6. Februar</td><td>2009</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Philippinen</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Polen</td><td>3. Mai</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Portugal</td><td>12. Mai</td><td>2016</td><td>12. Mai</td><td>2017</td></tr>
-<tr><td>Rumänien</td><td>24. November</td><td>2015</td><td>24. November</td><td>2016</td></tr>
-<tr><td>Russland</td><td>20. August</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Samoa</td><td>21. November</td><td>2013</td><td>21. November</td><td>2014</td></tr>
-<tr><td>San Marino</td><td>30. März</td><td>2022</td><td>30. März</td><td>2023</td></tr>
-<tr><td>Schweden</td><td>12. Juni</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Schweiz</td><td>21. Februar</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Senegal</td><td>19. September</td><td>2019</td><td>19. September</td><td>2020</td></tr>
-<tr><td>Serbien</td><td>15. März</td><td>2013</td><td>15. März</td><td>2014</td></tr>
-<tr><td>Seychellen</td><td>7. Januar</td><td>2014</td><td>7. Januar</td><td>2015</td></tr>
-<tr><td>Sierra Leone</td><td>29. März</td><td>2022</td><td>29. März</td><td>2023</td></tr>
-<tr><td>Singapur</td><td>15. Juni</td><td>2011</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Slowakei</td><td>17. Mai</td><td>2018</td><td>17. Mai</td><td>2019</td></tr>
-<tr><td>Slowenien</td><td>15. April</td><td>2016</td><td>15. April</td><td>2017</td></tr>
-<tr><td>Spanien</td><td>4. Februar</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Sri Lanka</td><td>12. Januar</td><td>2017</td><td>12. Januar</td><td>2018</td></tr>
-<tr><td>St. Kitts und Nevis</td><td>21. Februar</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>2010</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Südafrika</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td>2014</td></tr>
-<tr><td>Sudan</td><td>4. Oktober</td><td>2019</td><td>4. Oktober</td><td>2020</td></tr>
-<tr><td>Syrien</td><td>6. April</td><td>2023</td><td>6. April</td><td>2024</td></tr>
-<tr><td>Tansania</td><td>3. April</td><td>2019</td><td>3. April</td><td>2020</td></tr>
-<tr><td>Thailand</td><td>7. Juni</td><td>2016</td><td>7. Juni</td><td>2017</td></tr>
-<tr><td>Togo</td><td>14. März</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Tunesien</td><td>5. April</td><td>2017</td><td>5. April</td><td>2018</td></tr>
-<tr><td>Tuvalu</td><td>16. Februar</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td>Ungarn</td><td>31. Juli</td><td>2013</td><td>31. Juli</td><td>2014</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>7. August</td><td>2013</td><td>7. August</td><td>2014</td></tr>
-<tr><td>Bermudas</td><td>7. August</td><td>2013</td><td>7. August</td><td>2014</td></tr>
-<tr><td>Gibraltar</td><td>7. August</td><td>2013</td><td>7. August</td><td>2014</td></tr>
-<tr><td>Insel Man</td><td>7. August</td><td>2013</td><td>7. August</td><td>2014</td></tr>
-<tr><td>Kaimaninseln</td><td>7. August</td><td>2013</td><td>7. August</td><td>2014</td></tr>
-<tr><td>Vietnam</td><td>8. Mai</td><td>2013</td><td>8. Mai</td><td>2014</td></tr>
-<tr><td>Zypern</td><td>20. Juli</td><td>2012</td><td>20. August</td><td>2013</td></tr>
-<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
+<tr><td>Ägypten</td><td>7. Juni</td><td>2024</td><td>7. Juni</td><td>2025</td></tr>
+<tr><td>Albanien</td><td>28. Oktober</td><td>2016</td><td>28. Oktober</td><td colspan="2">2017</td></tr>
+<tr><td>Algerien</td><td>22. Juli</td><td>2016</td><td>22. Juli</td><td colspan="2">2017</td></tr>
+<tr><td>Antigua und Barbuda</td><td>11. August</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Argentinien</td><td>28. Mai</td><td>2014</td><td>28. Mai</td><td colspan="2">2015</td></tr>
+<tr><td>Äthiopien</td><td>28. März</td><td>2019</td><td>28. März</td><td colspan="2">2020</td></tr>
+<tr><td>Australien</td><td>21. Dezember</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Bahamas</td><td>11. Februar</td><td>2008</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Bangladesch</td><td>6. November</td><td>2014</td><td>6. November</td><td colspan="2">2015</td></tr>
+<tr><td>Barbados</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td colspan="2">2014</td></tr>
+<tr><td>Belgien</td><td>20. August</td><td>2013</td><td>20. August</td><td colspan="2">2014</td></tr>
+<tr><td>Belize</td><td>8. Juli</td><td>2014</td><td>8. Juli</td><td colspan="2">2015</td></tr>
+<tr><td>Benin</td><td>13. Juni</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>18. Januar</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Brasilien</td><td>7. Mai</td><td>2020</td><td>7. Mai</td><td colspan="2">2021</td></tr>
+<tr><td>Bulgarien</td><td>12. Januar</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Chile</td><td>22. Februar</td><td>2018</td><td>22. Februar</td><td colspan="2">2019</td></tr>
+<tr><td>China</td><td>12. November</td><td>2015</td><td>12. November</td><td colspan="2">2016</td></tr>
+<tr><td>Hongkong</td><td>6. August</td><td>2018</td><td>20. Dezember</td><td colspan="2">2018</td></tr>
+<tr><td>Cook-Inseln</td><td>18. Dezember</td><td>2019</td><td>18. Dezember</td><td colspan="2">2020</td></tr>
+<tr><td>Dänemark</td><td>23. Juni</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Färöer</td><td>9. Juli</td><td>2013</td><td>9. Juli</td><td colspan="2">2014</td></tr>
+<tr><td>Deutschland</td><td>16. August</td><td>2013</td><td>16. August</td><td colspan="2">2014</td></tr>
+<tr><td>Dschibuti</td><td>20. Juli</td><td>2018</td><td>20. Juli</td><td colspan="2">2019</td></tr>
+<tr><td>Estland</td><td>5. Mai</td><td>2016</td><td>5. Mai</td><td colspan="2">2017</td></tr>
+<tr><td>Fidschi</td><td>10. Oktober</td><td>2014</td><td>10. Oktober</td><td colspan="2">2015</td></tr>
+<tr><td>Finnland</td><td>9. Januar</td><td>2013</td><td>9. Januar</td><td colspan="2">2014</td></tr>
+<tr><td>Frankreich</td><td>28. Februar</td><td>2013</td><td>28. Februar</td><td colspan="2">2014</td></tr>
+<tr><td>Neukaledonien</td><td>28. Februar</td><td>2013</td><td>28. Februar</td><td colspan="2">2014</td></tr>
+<tr><td>Gabun</td><td>25. September</td><td>2014</td><td>25. September</td><td colspan="2">2015</td></tr>
+<tr><td>Gambia</td><td>9. November</td><td>2018</td><td>9. November</td><td>2019</td></tr>
+<tr><td>Georgien</td><td>14. Februar</td><td>2024</td><td>14. Februar</td><td>2025</td></tr>
+<tr><td>Ghana</td><td>16. August</td><td>2013</td><td>16. August</td><td colspan="2">2014</td></tr>
+<tr><td>Grenada</td><td>12. November</td><td>2018</td><td>12. November</td><td colspan="2">2019</td></tr>
+<tr><td>Griechenland</td><td>4. Januar</td><td>2013</td><td>4. Januar</td><td colspan="2">2014</td></tr>
+<tr><td>Guinea-Bissau</td><td>10. Juni</td><td>2024</td><td>10. Juni</td><td>2025</td></tr>
+<tr><td>Honduras</td><td>6. Juni</td><td>2016</td><td>6. Juni</td><td colspan="2">2017</td></tr>
+<tr><td>Indien</td><td>9. Oktober</td><td>2015</td><td>9. Oktober</td><td colspan="2">2016</td></tr>
+<tr><td>Indonesien</td><td>12. Juni</td><td>2017</td><td>12. Juni</td><td colspan="2">2018</td></tr>
+<tr><td>Irak</td><td>22. März</td><td>2023</td><td>22. März</td><td colspan="2">2024</td></tr>
+<tr><td>Iran</td><td>11. Juni</td><td>2014</td><td>11. Juni</td><td colspan="2">2015</td></tr>
+<tr><td>Irland</td><td>21. Juli</td><td>2014</td><td>21. Juli</td><td colspan="2">2015</td></tr>
+<tr><td>Island</td><td>4. April</td><td>2019</td><td>4. April</td><td colspan="2">2020</td></tr>
+<tr><td>Italien</td><td>19. November</td><td>2013</td><td>19. November</td><td colspan="2">2014</td></tr>
+<tr><td>Jamaika</td><td>13. Juni</td><td>2017</td><td>13. Juni</td><td colspan="2">2018</td></tr>
+<tr><td>Japan</td><td>5. August</td><td>2013</td><td>5. August</td><td colspan="2">2014</td></tr>
+<tr><td>Jordanien</td><td>27. April</td><td>2016</td><td>27. Mai</td><td colspan="2">2016</td></tr>
+<tr><td>Kanada</td><td>15. Juni</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Kap Verde</td><td>6. Oktober</td><td>2015</td><td>6. Oktober</td><td colspan="2">2016</td></tr>
+<tr><td>Kiribati</td><td>24. Oktober</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Kenia</td><td>31. Juli</td><td>2014</td><td>31. Juli</td><td colspan="2">2015</td></tr>
+<tr><td>Komoren</td><td>18. Februar</td><td>2024</td><td>18. Februar</td><td>2025</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>26. März</td><td>2014</td><td>26. März</td><td colspan="2">2015</td></tr>
+<tr><td>Korea (Süd-)</td><td>9. Januar</td><td>2014</td><td>9. Januar</td><td colspan="2">2015</td></tr>
+<tr><td>Kroatien</td><td>12. Februar</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Lettland</td><td>12. August</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Libanon</td><td>9. März</td><td>2018</td><td>9. März</td><td colspan="2">2019</td></tr>
+<tr><td>Liberia</td><td>7. Juni</td><td>2006</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Litauen</td><td>20. August</td><td>2013</td><td>20. August</td><td colspan="2">2014</td></tr>
+<tr><td>Luxemburg</td><td>20. September</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Madagaskar</td><td>15. Juni</td><td>2023</td><td>15. Juni</td><td colspan="2">2024</td></tr>
+<tr><td>Malaysia</td><td>20. August</td><td>2013</td><td>20. August</td><td colspan="2">2014</td></tr>
+<tr><td>Malediven</td><td>7. Oktober</td><td>2014</td><td>7. Oktober</td><td colspan="2">2015</td></tr>
+<tr><td>Malta</td><td>22. Januar</td><td>2013</td><td>22. Januar</td><td colspan="2">2014</td></tr>
+<tr><td>Marokko</td><td>10. September</td><td>2012</td><td>10. September</td><td colspan="2">2013</td></tr>
+<tr><td>Marshallinseln</td><td>25. September</td><td>2007</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Mauritius</td><td>30. Mai</td><td>2014</td><td>30. Mai</td><td colspan="2">2015</td></tr>
+<tr><td>Mongolei</td><td>1. September</td><td>2015</td><td>1. September</td><td colspan="2">2016</td></tr>
+<tr><td>Montenegro</td><td>3. Februar</td><td>2015</td><td>3. Februar</td><td colspan="2">2016</td></tr>
+<tr><td>Mosambik</td><td>25. Mai</td><td>2021 B</td><td>25. Mai</td><td colspan="2">2022</td></tr>
+<tr><td>Myanmar</td><td>25. Mai</td><td>2016</td><td>25. Mai</td><td colspan="2">2017</td></tr>
+<tr><td>Neuseeland <sup>a</sup></td><td>9. März</td><td>2016</td><td>9. März</td><td colspan="2">2017</td></tr>
+<tr><td>Nicaragua</td><td>20. Dezember</td><td>2013</td><td>20. Dezember</td><td colspan="2">2014</td></tr>
+<tr><td>Niederlande</td><td>13. Dezember</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Curaçao</td><td>14. April</td><td>2015</td><td>14. April</td><td colspan="2">2015</td></tr>
+<tr><td>Nigeria</td><td>18. Juni</td><td>2013</td><td>18. Juni</td><td colspan="2">2014</td></tr>
+<tr><td>Norwegen</td><td>10. Februar</td><td>2009</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Oman</td><td>29. März</td><td>2022</td><td>29. März</td><td colspan="2">2023</td></tr>
+<tr><td>Palau</td><td>29. Mai</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Panama</td><td>6. Februar</td><td>2009</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Philippinen</td><td>20. August</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Polen</td><td>3. Mai</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Portugal</td><td>12. Mai</td><td>2016</td><td>12. Mai</td><td colspan="2">2017</td></tr>
+<tr><td>Rumänien</td><td>24. November</td><td>2015</td><td>24. November</td><td colspan="2">2016</td></tr>
+<tr><td>Russland</td><td>20. August</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Samoa</td><td>21. November</td><td>2013</td><td>21. November</td><td colspan="2">2014</td></tr>
+<tr><td>San Marino</td><td>30. März</td><td>2022</td><td>30. März</td><td colspan="2">2023</td></tr>
+<tr><td>Schweden</td><td>12. Juni</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Schweiz</td><td>21. Februar</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Senegal</td><td>19. September</td><td>2019</td><td>19. September</td><td colspan="2">2020</td></tr>
+<tr><td>Serbien</td><td>15. März</td><td>2013</td><td>15. März</td><td colspan="2">2014</td></tr>
+<tr><td>Seychellen</td><td>7. Januar</td><td>2014</td><td>7. Januar</td><td colspan="2">2015</td></tr>
+<tr><td>Sierra Leone</td><td>29. März</td><td>2022</td><td>29. März</td><td colspan="2">2023</td></tr>
+<tr><td>Singapur</td><td>15. Juni</td><td>2011</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Slowakei</td><td>17. Mai</td><td>2018</td><td>17. Mai</td><td colspan="2">2019</td></tr>
+<tr><td>Slowenien</td><td>15. April</td><td>2016</td><td>15. April</td><td colspan="2">2017</td></tr>
+<tr><td>Spanien</td><td>4. Februar</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Sri Lanka</td><td>12. Januar</td><td>2017</td><td>12. Januar</td><td colspan="2">2018</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>21. Februar</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>2010</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Südafrika</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td colspan="2">2014</td></tr>
+<tr><td>Sudan</td><td>4. Oktober</td><td>2019</td><td>4. Oktober</td><td colspan="2">2020</td></tr>
+<tr><td>Syrien</td><td>6. April</td><td>2023</td><td>6. April</td><td colspan="2">2024</td></tr>
+<tr><td>Tansania</td><td>3. April</td><td>2019</td><td>3. April</td><td colspan="2">2020</td></tr>
+<tr><td>Thailand</td><td>7. Juni</td><td>2016</td><td>7. Juni</td><td colspan="2">2017</td></tr>
+<tr><td>Togo</td><td>14. März</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Tunesien</td><td>5. April</td><td>2017</td><td>5. April</td><td colspan="2">2018</td></tr>
+<tr><td>Tuvalu</td><td>16. Februar</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td>Ungarn</td><td>31. Juli</td><td>2013</td><td>31. Juli</td><td colspan="2">2014</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>7. August</td><td>2013</td><td>7. August</td><td colspan="2">2014</td></tr>
+<tr><td>Bermudas</td><td>7. August</td><td>2013</td><td>7. August</td><td colspan="2">2014</td></tr>
+<tr><td>Gibraltar</td><td>7. August</td><td>2013</td><td>7. August</td><td colspan="2">2014</td></tr>
+<tr><td>Insel Man</td><td>7. August</td><td>2013</td><td>7. August</td><td colspan="2">2014</td></tr>
+<tr><td>Kaimaninseln</td><td>7. August</td><td>2013</td><td>7. August</td><td colspan="2">2014</td></tr>
+<tr><td>Vietnam</td><td>8. Mai</td><td>2013</td><td>8. Mai</td><td colspan="2">2014</td></tr>
+<tr><td>Zypern</td><td>20. Juli</td><td>2012</td><td>20. August</td><td colspan="2">2013</td></tr>
+<tr><td colspan="6"><sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-13]: [AS 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291); [2023 477](https://fedlex.data.admin.ch/eli/oc/2023/477). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-13]: [AS 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530), [2793](https://fedlex.data.admin.ch/eli/oc/2013/575); [2014 1227](https://fedlex.data.admin.ch/eli/oc/2014/266), [3539](https://fedlex.data.admin.ch/eli/oc/2014/612); [2016 1247](https://fedlex.data.admin.ch/eli/oc/2016/248), [2909](https://fedlex.data.admin.ch/eli/oc/2016/482); [2018 2417](https://fedlex.data.admin.ch/eli/oc/2018/347); [2019 1565](https://fedlex.data.admin.ch/eli/oc/2019/293); [2020 1485](https://fedlex.data.admin.ch/eli/oc/2020/291); [2023 477](https://fedlex.data.admin.ch/eli/oc/2023/477); [2025 332](https://fedlex.data.admin.ch/eli/oc/2025/332). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
