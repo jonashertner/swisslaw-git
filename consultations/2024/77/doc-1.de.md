@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der EDI-Verordnungen über Fachbewilligungen im Bereich Chemikalien
 document: Vernehmlassungsvorlage-3
 language: de

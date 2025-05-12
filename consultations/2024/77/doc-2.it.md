@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale delle ordinanze del DFI sulle autorizzazioni speciali nel settore dei prodotti chimici
 document: Progetto posto in consultazione-2
 language: it

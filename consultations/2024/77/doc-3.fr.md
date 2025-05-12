@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale des ordonnances du DFI sur les permis dans le domaine des produits
 document: Projet mis en consultation
 language: fr
