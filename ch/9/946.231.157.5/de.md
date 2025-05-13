@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2025-03-11
+version: 2025-05-14
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250311/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250311-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250514/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250514-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250514/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 11. März 2025)
+vom 17. Oktober 2018 (Stand am 14. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -134,7 +134,7 @@ Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gü
 
 <sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdienste und technische Hilfe, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 ist verboten.
 
-[^6-1]: SR **946.202.1** Anhang 2 GKV ist abrufbar unter folgender Internetadresse: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^6-1]: SR **946.202.1** Anhang 2 GKV ist abrufbar unter folgender Internetadresse: [www.s e c o . a dmin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 
 #### Art. 7
 
@@ -227,8 +227,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), Ziff. I der V vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), Ziff. I der V des WBF vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), vom 21. Nov. 2022 ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) vom 1. März 2023 ([AS 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), vom 9. Mai 2023 ([AS 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), vom 2. Aug. 2023 ([AS 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)) und vom 27. Nov. 2023 ([AS 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), vom 20. Dez. 2023 ([AS 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), vom 13. Mai 2024 ([AS 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), vom 11. Nov. 2024 ([AS 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)) und vom 10. März 2025, in Kraft seit 11. März 2025 (AS **202****5** 160).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/160](https://fedlex.data.admin.ch/eli/oc/2025/160) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), Ziff. I der V vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), Ziff. I der V des WBF vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), vom 21. Nov. 2022 ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) vom 1. März 2023 ([AS 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), vom 9. Mai 2023 ([AS 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), vom 2. Aug. 2023 ([AS 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)) und vom 27. Nov. 2023 ([AS 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), vom 20. Dez. 2023 ([AS 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), vom 13. Mai 2024 ([AS 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), vom 11. Nov. 2024 ([AS 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)), vom 10. März 2025 ([AS 2025 160](https://fedlex.data.admin.ch/eli/oc/2025/160)) und vom 12. Mai 2025, in Kraft seit 14. Mai 2025 ([AS 2025 299](https://fedlex.data.admin.ch/eli/oc/2025/299)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/299](https://fedlex.data.admin.ch/eli/oc/2025/299) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2
 
@@ -282,7 +282,7 @@ Anhang 2
 - [tab]
 
 [^annex2-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)Anhang 3 GKV ist abrufbar unter folgender Internetadresse: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex2-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)Anhang 3 GKV ist abrufbar unter folgender Internetadresse: [www.s e co.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 
 Anhang 3
 

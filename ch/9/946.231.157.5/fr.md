@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2025-03-11
+version: 2025-05-14
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250311/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250311-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250514/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250514-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250514/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 11 mars 2025)
+du 17 octobre 2018 (État le 14 mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -134,7 +134,7 @@ La vente, la livraison, l’exportation, le transit et le transport au Myanmar d
 
 <sup>2</sup> La fourniture de services de toutes sortes, y compris les services financiers, les services de courtage et l’assistance technique en rapport avec la vente, la livraison, l’exportation, le transit, la mise à disposition, la fabrication, l’entretien ou l’utilisation des biens visés à l’al. 1, est interdite.
 
-[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 2 OCB peut être consultée sur: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 2 OCB peut être consultée sur: [www.s e c o . a dmin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 #### Art. 7
 
@@ -227,8 +227,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), du 13 mai 2024 ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), du 11 nov. 2024 ([RO 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)) et du 10 mars 2025, en vigueur depuis le 11 mars 2025 ([RO 2025 160](https://fedlex.data.admin.ch/eli/oc/2025/160)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/160](https://fedlex.data.admin.ch/eli/oc/2025/160) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), du 13 mai 2024 ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), du 11 nov. 2024 ([RO 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)), du 10 mars 2025 ([RO 2025 160](https://fedlex.data.admin.ch/eli/oc/2025/160)) et du 12 mai 2025, en vigueur depuis le 14 mai 2025 ([RO 2025 299](https://fedlex.data.admin.ch/eli/oc/2025/299)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/299](https://fedlex.data.admin.ch/eli/oc/2025/299) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2
 
@@ -281,7 +281,7 @@ Annexe 2
 - 11 Technologies spécifiques requises pour le développement, la production ou l’utilisation des biens visés dans la présente liste.
 
 [^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 3 de l’OCB peut être consultée sur [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 3 de l’OCB peut être consultée sur [www. s e c o.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 3
 

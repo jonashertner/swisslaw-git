@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2025-03-11
+version: 2025-05-14
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250311/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250311-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250514/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250514-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250514/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 11 marzo 2025)
+del 17 ottobre 2018 (Stato 14 maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -134,7 +134,7 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>2</sup> Sono vietati la fornitura di servizi di ogni genere, compresi i servizi finanziari, i servizi di mediazione e l’assistenza tecnica concernenti la vendita, la fornitura, l’esportazione, il transito, la messa a disposizione, la fabbricazione, la manutenzione o l’impiego di beni di cui al capoverso 1.
 
-[^6-1]: RS **946.202.1** L’all. 2 OBDI è consultabile all’indirizzo: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^6-1]: RS **946.202.1** L’all. 2 OBDI è consultabile all’indirizzo: [ww w . s e co.admin.ch](https://www.seco.admin.ch/seco/it/home.html) &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 
 #### Art. 7
 
@@ -227,8 +227,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dalla cifra I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dalla cifra I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), del 30 giu. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), del 4 mar. 2022 ([RU 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), del 21 nov. 2022 ([RU 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), del 1° mar. 2023 ([RU 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), del 9 mag. 2023 ([RU 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), del 2 ago. 2023 ([RU 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), del 27 nov. 2023 ([RU 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), del 20 dic. 2023 ([RU 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), del 13 mag. 2024 ([RU 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), dell’11 nov. 2024 ([RU 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)) e del 10 mar. 2025, in vigore dall’11 mar. 2025 (**2025** 160).
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/160](https://fedlex.data.admin.ch/eli/oc/2025/160%20) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalla cifra I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dalla cifra I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), del 30 giu. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), del 4 mar. 2022 ([RU 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), del 21 nov. 2022 ([RU 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), del 1° mar. 2023 ([RU 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), del 9 mag. 2023 ([RU 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), del 2 ago. 2023 ([RU 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), del 27 nov. 2023 ([RU 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), del 20 dic. 2023 ([RU 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), del 13 mag. 2024 ([RU 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), dell’11 nov. 2024 ([RU 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)), del 10 mar. 2025 (**2025** 160) e del 12 mag. 2025, in vigore dal 14 mag. 2025 (**2025** 299).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/299](https://fedlex.data.admin.ch/eli/oc/2025/299) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2
 
@@ -281,7 +281,7 @@ Allegato 2
 - 11 Tecnologia specifica destinata allo sviluppo, alla fabbricazione e all’utilizzo degli articoli menzionati nel presente elenco.
 
 [^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: RS **946.202.1** L’all. 3 OBDI può essere consultato all’indirizzo: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli alle esportazioni e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^annex2-lvlu1-2]: RS **946.202.1** L’all. 3 OBDI può essere consultato all’indirizzo: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home.html) &gt; Politica economica esterna e cooperazione economica &gt; Controlli alle esportazioni e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 
 Allegato 3
 
