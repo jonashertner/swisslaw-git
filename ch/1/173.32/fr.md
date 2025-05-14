@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2023-09-01
+version: 2025-05-15
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250515/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250515-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/fr"
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> septembre 2023)
+du 17 juin 2005 (État le 15 mai 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -481,18 +481,19 @@ Le recours est recevable contre les décisions:
   - 3\.[^33-4] le blocage de valeurs patrimoniales en vertu de la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite[^33-5],
   - 4\.[^33-6] l’interdiction d’exercer des activités en vertu de la LRens[^33-7],
   - 4<sup>bis</sup>.[^33-8] l’interdiction d’organisations en vertu de la LRens,
-  - 5\.[^33-9] la révocation du mandat d’un membre du Conseil de l’Institut fédéral de métrologie au sens de la loi du 17 juin 2011 sur l’Institut fédéral de métrologie[^33-10],
-  - 6\.[^33-11] la révocation d’un membre du conseil d’administration de l’Autorité fédérale de surveillance en matière de révision ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration selon la loi du 16 décembre 2005 sur la surveillance de la révision[^33-12],
-  - 7\.[^33-13] la révocation d’un membre du conseil de l’Institut suisse des produits thérapeutiques sur la base de la loi du 15 décembre 2000 sur les produits thérapeutiques[^33-14],
-  - 8\.[^33-15] la révocation d’un membre du conseil d’administration de l’établissement au sens de la loi du 16 juin 2017 sur les fonds de compensation[^33-16],
-  - 9\.[^33-17] la révocation d’un membre du conseil de l’Institut suisse de droit comparé selon la loi du 28 septembre 2018 sur l’Institut suisse de droit comparé[^33-18];
-  - 10\.[^33-19] la révocation d’un membre du conseil d’administration du Service suisse d’attribution des sillons ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration, conformément à la loi fédérale du 20 décembre 1957 sur les chemins de fer[^33-20];
+  - 4<sup>ter</sup>.[^33-9] l’interdiction d’organisations et de groupements en vertu de l’art. 1, al. 2, de la loi fédérale du 20 décembre 2024 interdisant le Hamas et les organisations apparentées[^33-10],
+  - 5\.[^33-11] la révocation du mandat d’un membre du Conseil de l’Institut fédéral de métrologie au sens de la loi du 17 juin 2011 sur l’Institut fédéral de métrologie[^33-12],
+  - 6\.[^33-13] la révocation d’un membre du conseil d’administration de l’Autorité fédérale de surveillance en matière de révision ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration selon la loi du 16 décembre 2005 sur la surveillance de la révision[^33-14],
+  - 7\.[^33-15] la révocation d’un membre du conseil de l’Institut suisse des produits thérapeutiques sur la base de la loi du 15 décembre 2000 sur les produits thérapeutiques[^33-16],
+  - 8\.[^33-17] la révocation d’un membre du conseil d’administration de l’établissement au sens de la loi du 16 juin 2017 sur les fonds de compensation[^33-18],
+  - 9\.[^33-19] la révocation d’un membre du conseil de l’Institut suisse de droit comparé selon la loi du 28 septembre 2018 sur l’Institut suisse de droit comparé[^33-20];
+  - 10\.[^33-21] la révocation d’un membre du conseil d’administration du Service suisse d’attribution des sillons ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration, conformément à la loi fédérale du 20 décembre 1957 sur les chemins de fer[^33-22];
 
 - c. du Tribunal pénal fédéral en matière de rapports de travail de ses juges et de son personnel;
-- c<sup>bis</sup>.[^33-21] du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;
-- c<sup>ter</sup>.[^33-22] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
-- c<sup>quater</sup>.[^33-23] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
-- c<sup>quinquies</sup>.[^33-24] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
+- c<sup>bis</sup>.[^33-23] du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;
+- c<sup>ter</sup>.[^33-24] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
+- c<sup>quater</sup>.[^33-25] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
+- c<sup>quinquies</sup>.[^33-26] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
 - d. de la Chancellerie fédérale, des départements et des unités de l’administration fédérale qui leur sont subordonnées ou administrativement rattachées;
 - e. des établissements et des entreprises de la Confédération;
 - f. des commissions fédérales;
@@ -508,22 +509,24 @@ Le recours est recevable contre les décisions:
 [^33-6]: Introduit par l’annexe ch. 2 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4473](https://fedlex.data.admin.ch/eli/fga/2007/665), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-7]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^33-8]: Introduit par l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^33-9]: Introduit par l’art. 26 ch. 2 de la LF du 17 juin 2011 sur l’Institut fédéral de métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^33-10]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
-[^33-11]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-12]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^33-13]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), **2018** 3755; [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^33-14]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^33-15]: Introduit par l’annexe ch. II 3 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^33-16]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
-[^33-17]: Introduit par l’art. 23 al. 2 de la LF du 28 sept. 2018 sur l’Institut suisse de droit comparé, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [FF 2018 899](https://fedlex.data.admin.ch/eli/fga/2018/336)).
-[^33-18]: [RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
-[^33-19]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^33-20]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^33-21]: Introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur TFB, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^33-22]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
-[^33-23]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^33-24]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-9]: Introduit par l’art. 3 de la LF du 20 déc. 2024 interdisant le Hamas et les organisations apparentées, en vigueur depuis le 15 mai 2025 ([RO 2025 269](https://fedlex.data.admin.ch/eli/oc/2025/269); [FF 2024 2250](https://fedlex.data.admin.ch/eli/fga/2024/2250)).
+[^33-10]: [RS 122.1](https://fedlex.data.admin.ch/eli/cc/2025/269)
+[^33-11]: Introduit par l’art. 26 ch. 2 de la LF du 17 juin 2011 sur l’Institut fédéral de métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
+[^33-12]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^33-13]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^33-14]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^33-15]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), **2018** 3755; [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^33-16]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^33-17]: Introduit par l’annexe ch. II 3 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^33-18]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^33-19]: Introduit par l’art. 23 al. 2 de la LF du 28 sept. 2018 sur l’Institut suisse de droit comparé, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [FF 2018 899](https://fedlex.data.admin.ch/eli/fga/2018/336)).
+[^33-20]: [RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
+[^33-21]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^33-22]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-23]: Introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur TFB, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)).
+[^33-24]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^33-25]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-26]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 34
 

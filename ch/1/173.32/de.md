@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2023-09-01
+version: 2025-05-15
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250515/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250515-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 1. September 2023)
+vom 17. Juni 2005 (Stand am 15. Mai 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -478,19 +478,20 @@ Die Beschwerde ist zulässig gegen Verfügungen:
   - 2\. die Abberufung eines Verwaltungsratsmitgliedes der Eidgenössischen Finanzmarktaufsicht oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Direktorin oder des Direktors durch den Verwaltungsrat nach dem Finanzmarktaufsichtsgesetz vom 22. Juni 2007[^33-3],
   - 3\.[^33-4] die Sperrung von Vermögenswerten gestützt auf das Bundesgesetz vom 18. Dezember 2015[^33-5] über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen,
   - 4\.[^33-6] das Verbot von Tätigkeiten nach dem NDG[^33-7],
-  - [tab] 4<sup>bis</sup>.[^33-8] das Verbot von Organisationen nach dem NDG,
-  - 5\.[^33-9] die Abberufung eines Mitglieds des Institutsrats des Eidgenössischen Instituts für Metrologie nach dem Bundesgesetz vom 17. Juni 2011[^33-10] über das Eidgenössische Institut für Metrologie,
-  - 6\.[^33-11] die Abberufung eines Verwaltungsratsmitglieds der Eidgenössischen Revisionsaufsichtsbehörde oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Direktorin oder des Direktors durch den Verwaltungsrat nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^33-12],
-  - 7\.[^33-13] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Heilmittelinstituts nach dem Heilmittelgesetz vom 15. Dezember 2000[^33-14],
-  - 8\.[^33-15] die Abberufung eines Verwaltungsratsmitglieds der Anstalt nach dem Ausgleichsfondsgesetz vom 16. Juni 2017[^33-16],
-  - 9\.[^33-17] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Instituts für Rechtsvergleichung nach dem Bundesgesetz vom 28. September 2018[^33-18] über das Schweizerische Institut für Rechtsvergleichung,
-  - 10\.[^33-19] die Abberufung eines Verwaltungsratsmitglieds der Schweizerischen Trassenvergabestelle oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Geschäftsführerin oder des Geschäftsführers durch den Verwaltungsrat nach dem Eisenbahngesetz vom 20. Dezember 1957[^33-20];
+  - 4<sup>bis</sup>.[^33-8] das Verbot von Organisationen nach dem NDG,
+  - 4<sup>ter</sup>.[^33-9] das Verbot von Organisationen und Gruppierungen nach Artikel 1 Absatz 2 des Bundesgesetzes vom 20. Dezember 2024[^33-10] über das Verbot der Hamas sowie verwandter Organisationen,
+  - 5\.[^33-11] die Abberufung eines Mitglieds des Institutsrats des Eidgenössischen Instituts für Metrologie nach dem Bundesgesetz vom 17. Juni 2011[^33-12] über das Eidgenössische Institut für Metrologie,
+  - 6\.[^33-13] die Abberufung eines Verwaltungsratsmitglieds der Eidgenössischen Revisionsaufsichtsbehörde oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Direktorin oder des Direktors durch den Verwaltungsrat nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^33-14],
+  - 7\.[^33-15] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Heilmittelinstituts nach dem Heilmittelgesetz vom 15. Dezember 2000[^33-16],
+  - 8\.[^33-17] die Abberufung eines Verwaltungsratsmitglieds der Anstalt nach dem Ausgleichsfondsgesetz vom 16. Juni 2017[^33-18],
+  - 9\.[^33-19] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Instituts für Rechtsvergleichung nach dem Bundesgesetz vom 28. September 2018[^33-20] über das Schweizerische Institut für Rechtsvergleichung,
+  - 10\.[^33-21] die Abberufung eines Verwaltungsratsmitglieds der Schweizerischen Trassenvergabestelle oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Geschäftsführerin oder des Geschäftsführers durch den Verwaltungsrat nach dem Eisenbahngesetz vom 20. Dezember 1957[^33-22];
 
 - c. des Bundesstrafgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
-- c<sup>bis</sup>.[^33-21] des Bundespatentgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
-- c<sup>ter</sup>.[^33-22] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses der von der Vereinigten Bundesversammlung gewählten Mitglieder der Bundesanwaltschaft;
-- c<sup>quater</sup>.[^33-23] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
-- c<sup>quinquies</sup>.[^33-24] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
+- c<sup>bis</sup>.[^33-23] des Bundespatentgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
+- c<sup>ter</sup>.[^33-24] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses der von der Vereinigten Bundesversammlung gewählten Mitglieder der Bundesanwaltschaft;
+- c<sup>quater</sup>.[^33-25] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
+- c<sup>quinquies</sup>.[^33-26] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
 - d. der Bundeskanzlei, der Departemente und der ihnen unterstellten oder administrativ zugeordneten Dienststellen der Bundesverwaltung;
 - e. der Anstalten und Betriebe des Bundes;
 - f. der eidgenössischen Kommissionen;
@@ -506,22 +507,24 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 [^33-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-7]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^33-8]: Eingefügt durch Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^33-9]: Eingefügt durch Art. 26 Ziff. 2 des BG vom 17. Juni 2011 über das Eidgenössische Institut für Metrologie, in Kraft seit 1. Jan. 2013 ([AS 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^33-10]: [SR 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
-[^33-11]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-12]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^33-13]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^33-14]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^33-15]: Eingefügt durch Anhang Ziff. II 3 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^33-16]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
-[^33-17]: Eingefügt durch Art. 23 Abs. 2 des BG vom 28. Sept. 2018 über das Schweizerische Institut für Rechtsvergleichung, in Kraft seit 1. Jan. 2020 ([AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [BBl 2018 913](https://fedlex.data.admin.ch/eli/fga/2018/336)).
-[^33-18]: [SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
-[^33-19]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^33-20]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^33-21]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^33-22]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
-[^33-23]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^33-24]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-9]: Eingefügt durch Art. 3 des BG vom 20. Dez. 2024 über das Verbot der Hamas sowie verwandter Organisationen, in Kraft seit 15. Mai 2025 ([AS 2025 269](https://fedlex.data.admin.ch/eli/oc/2025/269); [BBl 2024 2250](https://fedlex.data.admin.ch/eli/fga/2024/2250)).
+[^33-10]: [SR 122.1](https://fedlex.data.admin.ch/eli/cc/2025/269)
+[^33-11]: Eingefügt durch Art. 26 Ziff. 2 des BG vom 17. Juni 2011 über das Eidgenössische Institut für Metrologie, in Kraft seit 1. Jan. 2013 ([AS 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
+[^33-12]: [SR 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^33-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^33-14]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^33-15]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^33-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^33-17]: Eingefügt durch Anhang Ziff. II 3 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^33-18]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^33-19]: Eingefügt durch Art. 23 Abs. 2 des BG vom 28. Sept. 2018 über das Schweizerische Institut für Rechtsvergleichung, in Kraft seit 1. Jan. 2020 ([AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [BBl 2018 913](https://fedlex.data.admin.ch/eli/fga/2018/336)).
+[^33-20]: [SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
+[^33-21]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^33-22]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-23]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
+[^33-24]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^33-25]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-26]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 34
 
