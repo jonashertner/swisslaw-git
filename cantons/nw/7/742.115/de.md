@@ -4,13 +4,13 @@ number: "742.115"
 title: Regierungsratsbeschluss betreffend die Liste der Heime für die Pflege von Langzeitpatientinnen und -patienten
 short: Pflegeheimliste
 language: de
-version: 2024-07-01
-corrected: 2024-12-09
-version_adopted: 2024-09-10
+version: 2025-05-15
+valid_until: 2025-12-31
+version_adopted: 2026-02-03
 adopted: 2021-03-30
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.115"
-pdf: "https://gesetze.nw.ch/api/de/versions/1304/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1304/pdf_file"
 
 (Pflegeheimliste)
 
-vom 30.03.2021 (Stand 01.07.2024)
+vom 30.03.2021 (Stand 15.05.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -61,20 +61,20 @@ beschliesst:
 <tr><td>Alters- und Pflegeheim Heimet</td><td>Ennetbürgen</td><td>64</td><td>1–12</td><td>1</td><td>X</td></tr>
 <tr><td>Seniorenzentrum Zwyden</td><td>Hergiswil</td><td>95</td><td>1–12</td><td></td><td>X</td></tr>
 <tr><td>Wohnhaus Mettenweg</td><td>Stans</td><td>52</td><td>1–12</td><td></td><td></td></tr>
-<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>123</td><td>1–12</td><td></td><td>X</td></tr>
+<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>140</td><td>1–12</td><td></td><td>X</td></tr>
 </table>
 
 <sup>3</sup> Spezialangebote:
 
 <table>
-<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th><th>Spezialangebot Tages-& Nacht- strukturen</th></tr>
-<tr><td>Alterswohnheim Hungacher</td><td>Beckenried</td><td></td><td></td><td></td></tr>
-<tr><td>Alterswohnheim Buochs</td><td>Buochs</td><td></td><td></td><td></td></tr>
-<tr><td>Altersheim Oeltrotte</td><td>Ennetbürgen</td><td></td><td></td><td></td></tr>
-<tr><td>Alters- und Pflegeheim Heimet</td><td>Ennetbürgen</td><td></td><td></td><td></td></tr>
-<tr><td>Seniorenzentrum Zwyden</td><td>Hergiswil</td><td></td><td></td><td>3</td></tr>
-<tr><td>Wohnhaus Mettenweg</td><td>Stans</td><td></td><td></td><td></td></tr>
-<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>X</td><td>X</td><td></td></tr>
+<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th></tr>
+<tr><td>Alterswohnheim Hungacher</td><td>Beckenried</td><td></td><td></td></tr>
+<tr><td>Alterswohnheim Buochs</td><td>Buochs</td><td></td><td></td></tr>
+<tr><td>Altersheim Oeltrotte</td><td>Ennetbürgen</td><td></td><td></td></tr>
+<tr><td>Alters- und Pflegeheim Heimet</td><td>Ennetbürgen</td><td></td><td></td></tr>
+<tr><td>Seniorenzentrum Zwyden</td><td>Hergiswil</td><td></td><td></td></tr>
+<tr><td>Wohnhaus Mettenweg</td><td>Stans</td><td></td><td></td></tr>
+<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>X</td><td>X</td></tr>
 </table>
 
 [^Ziff2-1]: Die maximale Bettenanzahl darf bei begründeten Fällen wie Doppelbelegungen durch Ehepaare oder Geschwister kurzzeitig überschritten werden.
