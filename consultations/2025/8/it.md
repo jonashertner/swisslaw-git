@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "20.490 n Iv. pa. Hurni. Industria farmaceutica e medicina. Maggiore trasparenza!"
 document: Progetto posto in consultazione
 language: it

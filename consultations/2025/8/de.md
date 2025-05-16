@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.490 n Pa. Iv. Hurni. Pharmazeutische Industrie und Medizin. Mehr Transparenz
 document: Vernehmlassungsvorlage
 language: de

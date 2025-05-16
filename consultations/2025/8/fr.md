@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "20.490 n Iv. pa. Hurni. Industrie pharmaceutique et médecine. Plus de transparence!"
 document: Projet mis en consultation
 language: fr
