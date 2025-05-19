@@ -4,11 +4,11 @@ title: Ordinance of 1 July 2020 on Clinical Trials with Medical Devices (CTO-Med
 short: CTO-MedD
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: en
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250520/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250520-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250520/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ClinO-MD)
 
-of 1 July 2020 (Status as of 1 March 2025)
+of 1 July 2020 (Status as of 20 May 2025)
 
 The Swiss Federal Council,
 
@@ -120,23 +120,24 @@ The following provisions of the Ordinance of 20 September 2013[^3-1] on Clinical
 
 - a.[^3-2] for scientific integrity, scientific quality and the inclusion of relevant groups of persons: Articles 3, 4 and 4*a* ClinO;
 - b.[^3-3] for participant information, consent, communication of results and revocation of consent: Articles 7–9 ClinO;
-- c. for liability and coverage: Article 10 paragraphs 1 letter c and 2 and Article 11–14 ClinO;
+- c.[^3-4] for liability and coverage: Article 10 paragraph 1 letter c *mutatis mutandis* and Articles 10 paragraph 2 and 11–14 ClinO;
 - d. for the conduct of clinical trials in emergency situations: Articles 15–17 ClinO;
-- e.[^3-4] for the storage of health-related personal data and biological material, and for the handling of genetic data in connection with insurance matters: Articles 18 and 18*a* ClinO;
+- e.[^3-5] for the storage of health-related personal data and biological material, and for the handling of genetic data in connection with insurance matters: Articles 18 and 18*a* ClinO;
 - f. for inspections and administrative measures: Article 46 paragraphs 1, 2, 4 and 5 and Articles 47 and 48 ClinO.
 
-<sup>2</sup> The powers exercised by Swissmedic and the duty to cooperate and provide information incumbent on the sponsor and investigator in the event of inspections and administrative measures are governed by Articles 77 and 78 MedDO[^3-5] or by Articles 70 and 71 IvDO[^3-6].[^3-7]
+<sup>2</sup> The powers exercised by Swissmedic and the duty to cooperate and provide information incumbent on the sponsor and investigator in the event of inspections and administrative measures are governed by Articles 77 and 78 MedDO[^3-6] or by Articles 70 and 71 IvDO[^3-7].[^3-8]
 
-<sup>3</sup> …[^3-8]
+<sup>3</sup> …[^3-9]
 
 [^3-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^3-3]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-6]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-7]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-8]: Repealed by No I of the O of 4 May 2022, with effect from 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-4]: Correction of 20 May 2025 ([AS 2025 326](https://fedlex.data.admin.ch/eli/oc/2025/326)).
+[^3-5]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-8]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-9]: Repealed by No I of the O of 4 May 2022, with effect from 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Section 2 General Obligations of the Sponsor and Investigator and Professional Qualifications
 
@@ -555,9 +556,9 @@ The definitions of adverse events and device deficiencies are based:
 
 For sub-category A2 performance studies and category C clinical trials, the sponsor shall report without delay to the competent ethics committee:
 
-- a. any serious adverse event that has a causal relationship with the device to be investigated, the comparator or the investigation procedure, or where such causal relationship is reasonably possible;
-- b. any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fortunate;
-- c. any new findings in relation to any event referred to in points a and b.
+- any serious adverse event that has a causal relationship with the device to be investigated, the comparator or the investigation procedure, or where such causal relationship is reasonably possible;
+- any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fortunate;
+- any new findings in relation to any event referred to in points a and b.
 
 <sup>2</sup> For category C clinical trials, the reports specified in paragraph 1 shall also be submitted to Swissmedic.
 
@@ -569,8 +570,8 @@ For sub-category A2 performance studies and category C clinical trials, the spon
 
 The reports specified in paragraph 1 shall also be submitted to the contracting states in which the clinical trial is conducted or due to be conducted:
 
-- a. for conformity-related performance studies in sub-category A2;
-- b. for conformity-related clinical trials in sub-categories C1 and C2.
+- for conformity-related performance studies in sub-category A2;
+- for conformity-related clinical trials in sub-categories C1 and C2.
 
 <sup>6</sup> For category A clinical investigations and sub-category A1 performance studies, the sponsor is responsible for ensuring that the competent ethics committee is informed, without delay, of any serious adverse event for which a causal relationship between the event and the test procedure used in the clinical trial has been ascertained. Paragraph 4 is applicable.
 

@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten
 short: KlinV-Mep
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: de
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250520/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250520-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/de"
 
 (KlinV-Mep)
 
-vom 1. Juli 2020 (Stand am 1. März 2025)
+vom 1. Juli 2020 (Stand am 20. Mai 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -118,23 +118,24 @@ Für klinische Versuche mit Produkten sind folgende Bestimmungen der Verordnung 
 
 - a.[^3-2] betreffend die wissenschaftliche Integrität, wissenschaftliche Qualität und den Einschluss relevanter Personengruppen: die Artikel 3, 4 und 4*a* KlinV;
 - b.[^3-3] betreffend die Aufklärung, die Einwilligung, die Mitteilung von Ergebnissen und den Widerruf: die Artikel 7–9 KlinV;
-- c. betreffend die Haftung und die Sicherstellung: Artikel 10 Absätze 1 Buchstabe c und 2 sowie die Artikel 11–14 KlinV;
+- c.[^3-4] betreffend die Haftung und die Sicherstellung: Artikel 10 Absatz 1 Buchstabe c sinngemäss sowie die Artikel 10 Absatz 2 und 11–14 KlinV;
 - d. betreffend die Durchführung klinischer Versuche in Notfallsituationen: die Artikel 15–17 KlinV;
-- e.[^3-4] betreffend die Aufbewahrung gesundheitsbezogener Personendaten und biologischen Materials sowie den Umgang mit genetischen Daten bei Versicherungsverhältnissen: die Artikel 18 und 18*a* KlinV;
+- e.[^3-5] betreffend die Aufbewahrung gesundheitsbezogener Personendaten und biologischen Materials sowie den Umgang mit genetischen Daten bei Versicherungsverhältnissen: die Artikel 18 und 18*a* KlinV;
 - f. betreffend Inspektionen und Verwaltungsmassnahmen: Artikel 46 Absätze 1, 2, 4 und 5 sowie die Artikel 47 und 48 KlinV.
 
-<sup>2</sup> Die Befugnisse der Swissmedic und die Mitwirkungs- und Auskunftspflichten des Sponsors und der Prüfperson bei Inspektionen und Verwaltungsmassnahmen richten sich nach den Artikeln 77 und 78 MepV[^3-5] oder nach den Artikeln 70 und 71 IvDV[^3-6].[^3-7]
+<sup>2</sup> Die Befugnisse der Swissmedic und die Mitwirkungs- und Auskunftspflichten des Sponsors und der Prüfperson bei Inspektionen und Verwaltungsmassnahmen richten sich nach den Artikeln 77 und 78 MepV[^3-6] oder nach den Artikeln 70 und 71 IvDV[^3-7].[^3-8]
 
-<sup>3</sup> …[^3-8]
+<sup>3</sup> …[^3-9]
 
 [^3-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-6]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-7]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-8]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-4]: Berichtigung vom 20. Mai 2025 ([AS 2025 326](https://fedlex.data.admin.ch/eli/oc/2025/326)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-8]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-9]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### 2. Abschnitt: Allgemeine Pflichten des Sponsors und der Prüfperson und fachliche Qualifikation
 

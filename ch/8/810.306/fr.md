@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de di
 short: OClin-Dim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: fr
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250520/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250520-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/fr"
 
 (OClin-Dim)
 
-du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> mars 2025)
+du 1<sup>er</sup> juillet 2020 (État le 20 mai 2025)
 
 Le Conseil fédéral suisse,
 
@@ -120,23 +120,24 @@ Les essais cliniques de dispositifs sont soumis aux dispositions suivantes de l�
 
 - a.[^3-2] art. 3, 4 et 4*a* pour ce qui concerne l’intégrité scientifique, la qualité scientifique et l’inclusion des groupes de personnes pertinents;
 - b.[^3-3] art. 7 à 9 pour ce qui concerne l’information, le consentement, la communication des résultats et la révocation;
-- c. art. 10, al. 1, let. c, et 2, et 11 à 14 pour ce qui concerne la responsabilité et la garantie;
+- c.[^3-4] art. 10, al. 1, let. c, qui s’applique par analogie, et art. 10, al. 2 et 11 à 14 pour ce qui concerne la responsabilité et la garantie;
 - d. art. 15 à 17 pour ce qui concerne la réalisation d’essais cliniques en situation d’urgence;
-- e.[^3-4] art. 18 et 18*a* pour ce qui concerne la conservation de données personnelles liées à la santé, la conservation de matériel biologique et l’utilisation de données génétiques dans le cadre de rapports d’assurance;
+- e.[^3-5] art. 18 et 18*a* pour ce qui concerne la conservation de données personnelles liées à la santé, la conservation de matériel biologique et l’utilisation de données génétiques dans le cadre de rapports d’assurance;
 - f. art. 46, al. 1, 2, 4 et 5, 47 et 48 pour ce qui concerne les inspections et les mesures administratives.
 
-<sup>2</sup> Les compétences de Swissmedic et les obligations de collaboration et d’information du promoteur et de l’investigateur lors d’inspections et de mesures administratives sont régies par les art. 77 et 78 ODim[^3-5] ou par les art. 70 et 71 ODiv[^3-6].[^3-7]
+<sup>2</sup> Les compétences de Swissmedic et les obligations de collaboration et d’information du promoteur et de l’investigateur lors d’inspections et de mesures administratives sont régies par les art. 77 et 78 ODim[^3-6] ou par les art. 70 et 71 ODiv[^3-7].[^3-8]
 
-<sup>3</sup> …[^3-8]
+<sup>3</sup> …[^3-9]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-7]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-8]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-4]: Erratum du 20 mai 2025 ([RO 2025 326](https://fedlex.data.admin.ch/eli/oc/2025/326)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-7]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-8]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-9]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Section 2 Obligations générales du promoteur et de l’investigateur et qualification professionnelle
 
@@ -736,7 +737,7 @@ Pour les essais cliniques de catégorie C, les déclarations et les rapports vis
 
 Le promoteur doit garantir qu’une synthèse des résultats des essais soit saisie et publiée dans un registre reconnu au sens de l’art. 64, al. 1, let. a ou b, OClin[^42-3], dans les délais suivants:[^42-4]
 
-- a. pour les essais cliniques terminés portant sur des dispositifs déjà pourvus d’un marquage de conformité et utilisés conformément au mode d’emploi ainsi qu’en cas d’arrêt prématuré ou d’interruption d’un essai clinique, immédiatement après la remise du rapport final au sens de l’art. 37;
+- pour les essais cliniques terminés portant sur des dispositifs déjà pourvus d’un marquage de conformité et utilisés conformément au mode d’emploi ainsi qu’en cas d’arrêt prématuré ou d’interruption d’un essai clinique, immédiatement après la remise du rapport final au sens de l’art. 37;
 - b. pour tous les autres essais cliniques terminés, au plus tard avant la mise sur le marché du dispositif ou une année après la remise du rapport final au sens de l’art. 37 si le dispositif n’a pas encore été mis sur le marché à cette date.
 
 <sup>2</sup> Aux fins de la publication sur le portail visé à l’art. 67 OClin, il doit de plus garantir qu’une synthèse des résultats de l’essai destinée aux profanes, conformément à l’annexe 5, ch. 2.15, OClin soit saisie dans le système d’information des cantons, en respectant le délai fixé à l’al. 1; les données sont saisies au moins dans les langues nationales de la Suisse utilisées pour le recrutement.[^42-5]

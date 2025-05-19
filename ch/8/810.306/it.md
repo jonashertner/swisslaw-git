@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250301-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20250520/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20250520-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20250301/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 1° marzo 2025)
+del 1° luglio 2020 (Stato 20 maggio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -118,23 +118,24 @@ Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti dispo
 
 - a.[^3-2] l’integrità scientifica, la qualità scientifica e l’inclusione di gruppi di persone rilevanti: articoli 3, 4 e 4*a* OSRUm;
 - b.[^3-3] l’informazione, il consenso, la comunicazione dei risultati e la revoca: articoli 7–9 OSRUm;
-- c. la responsabilità civile e la garanzia: articolo 10 capoversi 1 lettera c e 2 nonché articoli 11–14 OSRUm;
+- c.[^3-4] la responsabilità civile e la garanzia: articolo 10 capoversi 1 lettera c, per analogia, e articolo 10 capoverso 2 nonché articoli 11–14 OSRUm;
 - d. lo svolgimento di sperimentazioni cliniche in situazioni d’emergenza: articoli 15–17 OSRUm;
-- e.[^3-4] la conservazione dei dati sanitari personali e del materiale biologico nonché le operazioni relative ai dati genetici nell’ambito di rapporti assicurativi: articoli 18 e 18*a* OSRUm;
+- e.[^3-5] la conservazione dei dati sanitari personali e del materiale biologico nonché le operazioni relative ai dati genetici nell’ambito di rapporti assicurativi: articoli 18 e 18*a* OSRUm;
 - f. le ispezioni e le misure amministrative: articolo 46 capoversi 1, 2, 4 e 5 nonché articoli 47 e 48 OSRUm.
 
-<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti dagli articoli 77 e 78 ODmed[^3-5] o dagli articoli 70 e 71 ODIV[^3-6].[^3-7]
+<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti dagli articoli 77 e 78 ODmed[^3-6] o dagli articoli 70 e 71 ODIV[^3-7].[^3-8]
 
-<sup>3</sup> ....[^3-8]
+<sup>3</sup> ...[^3-9]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^3-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-7]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-8]: Abrogato dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-4]: Correzione del 20 mag. 2025 ([RU 2025 326](https://fedlex.data.admin.ch/eli/oc/2025/326)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-7]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-8]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-9]: Abrogato dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Obblighi generali del promotore e dello sperimentatore e qualifica professionale
 
