@@ -3,20 +3,19 @@ canton: LU
 number: 880b
 title: Geschäftsreglement des Sozialversicherungszentrums
 language: de
-version: 2020-06-01
-valid_until: 2025-05-19
-version_adopted: 2020-05-04
+version: 2025-05-20
+version_adopted: 2025-05-20
 adopted: 2018-11-21
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/880b"
-pdf: "https://srl.lu.ch/api/de/versions/3900/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Sozialversicherungszentrums
 
-vom 21.11.2018 (Stand 01.06.2020)
+vom 21.11.2018 (Stand 20.05.2025)
 
 Der Verwaltungsrat des Sozialversicherungszentrums des Kantons Luzern,
 
@@ -45,7 +44,7 @@ beschliesst:
 - a. die Ausgleichskasse Luzern (nachfolgend Ausgleichskasse),
 - b. die IV-Stelle Luzern (nachfolgend IV-Stelle),
 - c. das Geschäftsfeld Wirtschaft und Arbeit,
-- d. das Geschäftsfeld Personal und Dienste.
+- d. das Geschäftsfeld Services.
 
 <sup>2</sup> Im Übrigen gilt das vom Verwaltungsrat genehmigte Organigramm des Sozialversicherungszentrums.
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Zeichnungsbefugnis**
 
-<sup>1</sup> Die Leiterinnen und Leiter der Ausgleichskasse, der IV-Stelle und der Geschäftsfelder Wirtschaft und Arbeit sowie Personal und Dienste regeln die Zeichnungsbefugnis in ihrem Geschäftsfeld. Über die Unterschriftsberechtigung ist auf Anfrage hin Auskunft zu geben.
+<sup>1</sup> Die Leiterinnen und Leiter der Ausgleichskasse, der IV-Stelle und der Geschäftsfelder Wirtschaft und Arbeit sowie Services regeln die Zeichnungsbefugnis in ihrem Geschäftsfeld. Über die Unterschriftsberechtigung ist auf Anfrage hin Auskunft zu geben.
 
 <sup>2</sup> Im Übrigen gelten die §§ 11 Absatz 1 und 19 Absatz 1.
 
@@ -113,7 +112,7 @@ beschliesst:
 
 <sup>5</sup> Der Präsident oder die Präsidentin leitet die Sitzung des Verwaltungsrates. Ist er oder sie verhindert, übernimmt der Vizepräsident oder die Vizepräsidentin die Sitzungsleitung.
 
-<sup>6</sup> Der oder die Vorsitzende der Geschäftsleitung nimmt an den Sitzungen des Verwaltungsrates mit beratender Stimme teil. Die Leiterinnen und Leiter der Ausgleichskasse, der IV-Stelle, des Geschäftsfeldes Wirtschaft und Arbeit und des Geschäftsfeldes Personal und Dienste nehmen an den Sitzungen des Verwaltungsrates zu ihren jeweiligen Geschäften mit beratender Stimme teil. Der Präsident oder die Präsidentin des Verwaltungsrates entscheidet über die Teilnahme weiterer Personen.
+<sup>6</sup> Der oder die Vorsitzende der Geschäftsleitung nimmt an den Sitzungen des Verwaltungsrates mit beratender Stimme teil. Die Leiterinnen und Leiter der Ausgleichskasse, der IV-Stelle, des Geschäftsfeldes Wirtschaft und Arbeit und des Geschäftsfeldes Services nehmen an den Sitzungen des Verwaltungsrates zu ihren jeweiligen Geschäften mit beratender Stimme teil. Der Präsident oder die Präsidentin des Verwaltungsrates entscheidet über die Teilnahme weiterer Personen.
 
 <sup>7</sup> Der Präsident oder die Präsidentin des Verwaltungsrates beziehungsweise der Vizepräsident oder die Vizepräsidentin und der oder die Vorsitzende der Geschäftsleitung bereiten die Sitzungen des Verwaltungsrates vor, verfassen die Traktandenliste und stellen Anträge zu den Sachgeschäften.
 
@@ -170,7 +169,7 @@ beschliesst:
 - a. der Leiter oder die Leiterin der Ausgleichskasse,
 - b. der Leiter oder die Leiterin der IV-Stelle,
 - c. der Leiter oder die Leiterin des Geschäftsfeldes Wirtschaft und Arbeit,
-- d. der Leiter oder die Leiterin des Geschäftsfeldes Personal und Dienste.
+- d. der Leiter oder die Leiterin des Geschäftsfeldes Services.
 
 <sup>2</sup> Der Verwaltungsrat wählt ein Mitglied nach Absatz 1 zum oder zur Vorsitzenden der Geschäftsleitung. Er wählt die Stellvertretung des oder der Vorsitzenden der Geschäftsleitung.
 
@@ -182,7 +181,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitung führt das Sozialversicherungszentrum.
 
-<sup>2</sup> Sie erfüllt diejenigen Aufgaben, die nach der Gesetzgebung des Bundes und des Kantons und nach einem Reglement des Verwaltungsrates nicht der Ausgleichskasse, der IV-Stelle, dem Geschäftsfeld Wirtschaft und Arbeit oder dem Geschäftsfeld Personal und Dienste zur selbständigen Erledigung zugewiesen sind.
+<sup>2</sup> Sie erfüllt diejenigen Aufgaben, die nach der Gesetzgebung des Bundes und des Kantons und nach einem Reglement des Verwaltungsrates nicht der Ausgleichskasse, der IV-Stelle, dem Geschäftsfeld Wirtschaft und Arbeit oder dem Geschäftsfeld Services zur selbständigen Erledigung zugewiesen sind.
 
 #### § 15
 
@@ -199,7 +198,7 @@ beschliesst:
 
 **Sitzungen, Einberufung, Teilnahmepflicht und Traktandierung**
 
-<sup>1</sup> Der oder die Vorsitzende der Geschäftsleitung legt die ordentlichen Sitzungsdaten nach Rücksprache mit der Ausgleichskasse, der IV-Stelle und den Geschäftsfeldern Wirtschaft und Arbeit sowie Personal und Dienste in einem Sitzungsplan fest. Die Mitglieder der Geschäftsleitung sind zur Teilnahme an den Sitzungen verpflichtet. Im Verhinderungsfall nimmt der Stellvertreter oder die Stellvertreterin an den Sitzungen teil. Der oder die Vorsitzende der Geschäftsleitung entscheidet, ob weitere Personen an den Sitzungen teilnehmen.
+<sup>1</sup> Der oder die Vorsitzende der Geschäftsleitung legt die ordentlichen Sitzungsdaten nach Rücksprache mit der Ausgleichskasse, der IV-Stelle und den Geschäftsfeldern Wirtschaft und Arbeit sowie Services in einem Sitzungsplan fest. Die Mitglieder der Geschäftsleitung sind zur Teilnahme an den Sitzungen verpflichtet. Im Verhinderungsfall nimmt der Stellvertreter oder die Stellvertreterin an den Sitzungen teil. Der oder die Vorsitzende der Geschäftsleitung entscheidet, ob weitere Personen an den Sitzungen teilnehmen.
 
 <sup>2</sup> Die Einberufung zur Sitzung erfolgt durch den Vorsitzenden oder die Vorsitzende der Geschäftsleitung, im Verhinderungsfall durch den Stellvertreter oder die Stellvertreterin. Jedes Mitglied der Geschäftsleitung kann unter Angabe der Gründe die Einberufung einer Sitzung verlangen.
 
@@ -233,7 +232,7 @@ beschliesst:
 
 #### § 19
 
-**Zeichnungsebfugnis**
+**Zeichnungsbefugnis**
 
 <sup>1</sup> Für die Geschäftsleitung zeichnet der oder die Vorsitzende zusammen mit einem Mitglied. Vorbehalten bleibt § 17 Absatz 4.
 
