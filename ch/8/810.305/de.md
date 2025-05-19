@@ -4,11 +4,11 @@ title: Verordnung vom 20. September 2013 über klinische Versuche mit Ausnahme k
 short: KlinV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: de
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-de-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/de"
 
 (Verordnung über klinische Versuche; KlinV)[^t-1]
 
-vom 20. September 2013 (Stand am 1. März 2025)
+vom 20. September 2013 (Stand am 20. Mai 2025)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -967,7 +967,7 @@ Treten bei der Durchführung eines klinischen Versuchs der Kategorie B unerwüns
 
 <sup>1</sup> Treten bei der Durchführung des klinischen Versuchs bei teilnehmenden Personen schwerwiegende unerwünschte Ereignisse auf, so muss die Prüfperson diese in standardisierter Weise dokumentieren und dem Sponsor innerhalb von 24 Stunden nach Bekanntwerden melden. Ausgenommen sind Ereignisse, die gemäss Prüfplan nicht meldepflichtig sind.
 
-<sup>2</sup> und <sup>3</sup> …[^40-2]
+<sup>2 und <sup>3</sup></sup> …[^40-2]
 
 <sup>4</sup> Die Definition schwerwiegender unerwünschter Ereignisse richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
 
@@ -1439,13 +1439,14 @@ Der Sponsor muss einen bewilligten klinischen Versuch registrieren und veröffen
 
 <sup>1</sup> Der Sponsor muss sicherstellen, dass eine Zusammenfassung der Versuchsergebnisse innert eines Jahres nach Abschluss oder Abbruch des klinischen Versuchs in einem Register nach Artikel 64 Absatz 1 Buchstabe a oder b eingetragen und veröffentlicht wird. Ein mehr als zwei Jahre dauernder Unterbruch gilt als Abbruch.
 
-<sup>2</sup> Zwecks Veröffentlichung im Portal nach Artikel 67 muss er zusätzlich sicherstellen, dass eine Laienzusammenfassung der Versuchsergebnisse nach Anhang 5 Ziffer 2.15 im Informationssystem der Kantone eingetragen wird; es gilt die Frist nach Absatz 1. Die Eintragung muss mindestens in den Landessprachen der Schweiz erfolgen, in welchen Personen rekrutiert wurden.
+<sup>2</sup> Zwecks Veröffentlichung im Portal nach Artikel 67 muss er zusätzlich sicherstellen, dass eine Laienzusammenfassung der Versuchsergebnisse nach Anhang 5 Ziffer 2.15 im Informationssystem der Kantone eingetragen wird; es gilt die Frist nach Absatz 1. Die Eintragung muss mindestens in den Landessprachen der Schweiz erfolgen, die zur Rekrutierung der teilnehmenden Personen verwendet wurden.[^65a-2]
 
 <sup>3</sup> Bei klinischen Versuchen der Phase I in denen das zu untersuchende Arzneimittel ausschliesslich erwachsenen Personen verabreicht wird, muss die Veröffentlichung der Versuchsergebnisse nach den Absätzen 1 und 2 spätestens innert der in Anhang 5 Ziffer 3.2 angegebenen Frist erfolgen.
 
 <sup>4</sup> Ist die fristgerechte Veröffentlichung der Versuchsergebnisse nach den Absätzen 1 und 2 aus wissenschaftlichen Gründen nicht möglich, so muss dies der Sponsor in den Gesuchsunterlagen begründen und angeben, wann die Veröffentlichung erfolgen wird.
 
 [^65a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. März 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^65a-2]: Berichtigung vom 20. Mai 2025 ([AS 2025 325](https://fedlex.data.admin.ch/eli/oc/2025/325)).
 
 #### Art. 66
 
@@ -1710,7 +1711,6 @@ Anhang 3[^t-5]
   - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen.
 
 - 6\.2 Angaben zu den Eigenschaften des Medizinprodukts, insbesondere Art und Intensität der ionisierenden Strahlung, sowie zur Art der Abweichung von der Gebrauchsanweisung.
-- [tab]
 
 [^annex3-lvlu1-lvl6-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse: [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht.
 

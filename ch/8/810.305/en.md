@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Clinical Trials in Human Research (Cli
 short: ClinO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: en
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Clinical Trials Ordinance, ClinO)
 
-of 20 September 2013 (Status as of 1 March 2025)
+of 20 September 2013 (Status as of 20 May 2025)
 
 [^t-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials of Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -1425,7 +1425,7 @@ b. in the registry of the U.S. National Library of Medicine[^chap5-5].
 
 <sup>1</sup> The sponsor must ensure that, within a year after completion or premature termination of the clinical trial, a summary of the trial results is entered and published in a registry as specified in Article 64 paragraph 1 letter a or b. An interruption lasting for more than two years is considered to be a premature termination.
 
-<sup>2</sup> For the purpose of publication on the portal specified in Article 67, the sponsor must additionally ensure that a lay summary of the trial results in accordance with Annex 5 number 2.15 is entered in the cantonal information system; the deadline specified in paragraph 1 applies. The entry must be made at least in those national languages of Switzerland in which persons were recruited.
+<sup>2</sup> For the purpose of publication on the portal specified in Article 67, the sponsor must additionally ensure that a lay summary of the trial results in accordance with Annex 5 number 2.15 is entered in the cantonal information system; the deadline specified in paragraph 1 applies. The entry must be made at least in the Swiss national languages used for recruiting the participants.[^chap5-13]
 
 <sup>3</sup> For Phase I clinical trials in which the medicinal product under investigation is administered exclusively to adults, publication of the trial results in accordance with paragraphs 1 and 2 must take place no later than within the period specified in Annex 5 number 3.2.
 
@@ -1448,6 +1448,7 @@ The sponsor is responsible for the accuracy and completeness of the data entered
 [^chap5-10]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^chap5-11]: Repealed by No I of the O of 7 June 2024, with effect from 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^chap5-12]: Inserted by No I of the O of 7 June 2024, in force since 1 March 2025 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^chap5-13]: Correction of 20 May 2025 ([AS 2025 325](https://fedlex.data.admin.ch/eli/oc/2025/325)).
 
 #### Art. 67
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 sulle sperimentazioni cliniche ad eccezi
 short: OSRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: it
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/it"
 
 (Ordinanza sulle sperimentazioni cliniche, OSRUm)[^t-1]
 
-del 20 settembre 2013 (Stato 1° marzo 2025)
+del 20 settembre 2013 (Stato 20 maggio 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -971,7 +971,7 @@ Se durante una sperimentazione clinica della categoria B si manifestano eventi i
 
 <sup>1</sup> Se durante una sperimentazione clinica si manifestano eventi indesiderati gravi in persone partecipanti, lo sperimentatore deve documentarli nella forma standardizzata e notificarli al promotore entro 24 ore da quando ne è venuto a conoscenza. Fanno eccezione gli eventi che non sono sottoposti all’obbligo di notifica secondo il protocollo della sperimentazione.
 
-<sup>2</sup> e <sup>3</sup> ... [^40-2]
+<sup>2 e <sup>3</sup></sup> ... [^40-2]
 
 <sup>4</sup> La definizione degli eventi indesiderati gravi è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
@@ -1443,13 +1443,14 @@ Il promotore deve registrare e pubblicare una sperimentazione clinica autorizzat
 
 <sup>1</sup> Il promotore deve garantire che una sintesi dei risultati della sperimentazione sia iscritta e pubblicata in un registro di cui all’articolo 64 capoverso 1 lettera a o b entro un anno dalla conclusione o dall’arresto prematuro della sperimentazione clinica. Un’interruzione che supera i due anni è considerata un arresto prematuro.
 
-<sup>2</sup> Al fine della pubblicazione nel portale di cui all’articolo 67, egli è inoltre tenuto a garantire che nel sistema d’informazione dei Cantoni sia iscritta una sintesi divulgativa dei risultati della sperimentazione secondo l’allegato 5 numero 2.15; si applica il termine di cui al capoverso 1. L’iscrizione deve avvenire almeno nelle lingue nazionali della Svizzera in cui le persone sono state reclutate.
+<sup>2</sup> Al fine della pubblicazione nel portale di cui all’articolo 67, egli è inoltre tenuto a garantire che nel sistema d’informazione dei Cantoni sia iscritta una sintesi divulgativa dei risultati della sperimentazione secondo l’allegato 5 numero 2.15; si applica il termine di cui al capoverso 1. L’iscrizione deve avvenire almeno nelle lingue nazionali della Svizzera in cui sono state reclutate le persone che hanno partecipato alla sperimentazione clinica.[^65a-2]
 
 <sup>3</sup> Per le sperimentazioni cliniche della fase I in cui il medicamento in esame è somministrato esclusivamente a persone adulte, la pubblicazione dei risultati della sperimentazione di cui ai capoversi 1 e 2 deve avvenire al più tardi entro il termine indicato all’allegato 5 numero 3.2.
 
 <sup>4</sup> Se per motivi scientifici non è possibile eseguire puntualmente la pubblicazione dei risultati della sperimentazione di cui ai capoversi 1 e 2, il promotore deve spiegarne il motivo nella documentazione a corredo della domanda indicando quando la pubblicazione avrà luogo.
 
 [^65a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° mar. 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^65a-2]: Correzione del 20 mag. 2025 ([RU 2025 325](https://fedlex.data.admin.ch/eli/oc/2025/325)).
 
 #### Art. 66
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 sur les essais cliniques hors essais cli
 short: OClin
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: fr
-version: 2025-03-01
+version: 2025-05-20
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250301-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20250520/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20250520-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20250301/fr"
 
 (Ordonnance sur les essais cliniques, OClin)[^t-1]
 
-du 20 septembre 2013 (État le 1<sup>er</sup> mars 2025)
+du 20 septembre 2013 (État le 20 mai 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -978,7 +978,7 @@ Si des événements indésirables se produisent au cours de la réalisation d’
 
 <sup>1</sup> Si, au cours de la réalisation d’un essai clinique, des événements indésirables graves se produisent sur des personnes participant à l’essai clinique, l’investigateur doit les documenter de manière standardisée et les déclarer au promoteur dans les 24 heures suivant la constatation de l’événement. Sont exceptés les événements qui ne doivent pas être déclarés en vertu du protocole de recherche.
 
-<sup>2</sup> et <sup>3</sup> … [^40-2]
+<sup>2 et <sup>3</sup></sup> … [^40-2]
 
 <sup>4</sup> La définition des événements indésirables graves obéit aux règles de bonnes pratiques cliniques selon l’annexe 1, ch. 2.
 
@@ -1140,7 +1140,7 @@ Swissmedic peut révoquer l’autorisation, la suspendre ou soumettre la poursui
 
 <sup>2</sup> Sont réservées les mesures qui doivent être immédiatement ordonnées afin de protéger la sécurité ou la santé de ces personnes. Les commissions d’éthique et les autres autorités cantonales et fédérales compétentes s’échangent immédiatement les informations relatives à ces mesures.
 
-## Chapitre 3Procédures d’autorisation et de déclaration pour les essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine
+## Chapitre 3 Procédures d’autorisation et de déclaration pour les essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine
 
 ### Section 1 Dispositions générales
 
@@ -1431,8 +1431,8 @@ Le promoteur doit enregistrer et publier l’essai clinique autorisé en saisiss
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^64-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
-[^64-3]: Les registres peuvent être consultés sous www.who.int &gt; programmes and projects &gt; clinical trials international registry platform.
-[^64-4]: Le registre peut être consulté sous www.clinicaltrials.gov.
+[^64-3]: Les registres peuvent être consultés sous [www.who.int](http://www.who.int) &gt; programmes and projects &gt; clinical trials international registry platform.
+[^64-4]: Le registre peut être consulté sous [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
 [^64-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^64-6]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^64-7]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
@@ -1451,13 +1451,14 @@ Le promoteur doit enregistrer et publier l’essai clinique autorisé en saisiss
 
 <sup>1</sup> Dans un délai d’un an suivant la fin ou l’arrêt prématuré de l’essai clinique, le promoteur doit garantir qu’une synthèse des résultats de l’essai soit saisie et publiée dans un registre au sens de l’art. 64, al. 1, let. a ou b. Une interruption de plus de deux ans est considérée comme un arrêt prématuré.
 
-<sup>2</sup> Aux fins de la publication sur le portail visé à l’art. 67, il doit de plus garantir qu’une synthèse des résultats de l’essai destinée aux profanes, conformément à l’annexe 5, ch. 2.15, soit saisie dans le système d’information des cantons; le délai fixé à l’al. 1 s’applique. Les données sont saisies au moins dans les langues nationales de la Suisse utilisées pour le recrutement.
+<sup>2</sup> Aux fins de la publication sur le portail visé à l’art. 67, il doit de plus garantir qu’une synthèse des résultats de l’essai destinée aux profanes, conformément à l’annexe 5, ch. 2.15, soit saisie dans le système d’information des cantons; le délai fixé à l’al. 1 s’applique. Les données sont saisies au moins dans les langues nationales de la Suisse utilisées pour le recrutement des personnes qui ont participé à l’essai clinique.[^65a-2]
 
 <sup>3</sup> Pour les essais cliniques de phase I au cours desquels le médicament examiné est administré exclusivement à des adultes, la publication des résultats de l’essai visée aux al. 1 et 2 doit être effectuée au plus tard dans le délai indiqué à l’annexe 5, ch. 3.2.
 
 <sup>4</sup> Si pour la publication des résultats de l’essai, il n’est pas possible de respecter le délai prévu aux al. 1 et 2 pour des raisons scientifiques, le promoteur doit le justifier dans les documents de la demande et indiquer à quel moment les données seront publiées.
 
 [^65a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^65a-2]: Erratum du 20 mai 2025 ([RO 2025 325](https://fedlex.data.admin.ch/eli/oc/2025/325)).
 
 #### Art. 66
 
