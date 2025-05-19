@@ -3,20 +3,19 @@ canton: LU
 number: 880d
 title: "Reglement über Organisation, Aufgaben, Kompetenzen und Verantwortlichkeiten der Kommissionen des Verwaltungsrates des Sozialversicherungszentrums (WAS)"
 language: de
-version: 2020-02-01
-valid_until: 2025-05-19
-version_adopted: 2020-02-06
+version: 2025-05-20
+version_adopted: 2025-05-20
 adopted: 2019-03-18
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/880d"
-pdf: "https://srl.lu.ch/api/de/versions/3559/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Organisation, Aufgaben, Kompetenzen und Verantwortlichkeiten der Kommissionen des Verwaltungsrates des Sozialversicherungszentrums (WAS)
 
-vom 18.03.2019 (Stand 01.02.2020)
+vom 18.03.2019 (Stand 20.05.2025)
 
 Der Verwaltungsrat des Sozialversicherungszentrums (WAS) des Kantons Luzern,
 
@@ -54,7 +53,7 @@ beschliesst:
 <sup>2</sup> Der Verwaltungsrat sieht folgende ständigen Kommissionen vor:
 
 - a. Finanzen und Riskmanagement,
-- b. Informatik, Personal und Changemanagement.
+- b. Personal und Unternehmensentwicklung.
 
 <sup>3</sup> Der Verwaltungsrat kann weitere ständige Kommissionen bestellen.
 
