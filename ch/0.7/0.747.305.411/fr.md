@@ -3,11 +3,11 @@ sr: "0.747.305.411"
 title: Convention internationale du 5 avril 1966 sur les lignes de charge (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/728_753_747"
 language: fr
-version: 2021-04-28
+version: 2025-05-20
 adopted: 1966-04-05
 in_force: 1968-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20210428-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20210428/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20250520/fr/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20250520-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20250520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 5 avril 1966 Approuvée par l’Assemblée fédérale le 12 mars 1968[^t-1] Instrument d’approbation déposé par la Suisse le 23 avril 1968 Entrée en vigueur pour la Suisse le 23 juillet 1968[^t-2]
 
-(État le 28 avril 2021)
+(État le 20 mai 2025)
 
 [^t-1]: Ch. I let. b de l’AF du 12 mars 1968([RO 1968 729](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725))
 [^t-2]: [RO 1968 976](https://fedlex.data.admin.ch/eli/oc/1968/936_976_)
@@ -448,7 +448,7 @@ Annexes I à III[^t-3]
 
 [^t-3]: Les annexes et leurs amendements ne sont plus publiés dans le RO et le RS ([RO 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Les textes en anglais peuvent être consultés sur le site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Ils y sont mis à jour dans les résolutions du comité compétent de l’OMI. Les textes français ainsi qu’une version anglaise consolidée peuvent être consultés auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
-Champ d’application le 28 avril 2021[^t-4]
+Champ d’application le 20 mai 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -508,7 +508,6 @@ Champ d’application le 28 avril 2021[^t-4]
 <tr><td>Porto Rico</td><td>9 septembre</td><td>1975 A</td><td>9 septembre</td><td>1975</td></tr>
 <tr><td>Samoa américaines</td><td>9 septembre</td><td>1975 A</td><td>9 septembre</td><td>1975</td></tr>
 <tr><td>Territoires sous tutelle des Îles du Pacifique</td><td>9 septembre</td><td>1975 A</td><td>9 septembre</td><td>1975</td></tr>
-<tr><td>Zone du canal du Panama</td><td>9 septembre</td><td>1975 A</td><td>9 septembre</td><td>1975</td></tr>
 <tr><td>Éthiopie</td><td>18 juillet</td><td>1985 A</td><td>18 octobre</td><td>1985</td></tr>
 <tr><td>Fidji</td><td>29 novembre</td><td>1972 A</td><td>1<sup>er</sup> mars</td><td>1973</td></tr>
 <tr><td>Finlande</td><td>15 mai</td><td>1968 A</td><td>15 août</td><td>1968</td></tr>
@@ -521,17 +520,18 @@ Champ d’application le 28 avril 2021[^t-4]
 <tr><td>Grenade</td><td>28 juin</td><td>2004 A</td><td>28 septembre</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>5 septembre</td><td>1994 A</td><td>5 décembre</td><td>1994</td></tr>
 <tr><td>Guinée</td><td>19 janvier</td><td>1981 A</td><td>19 avril</td><td>1981</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>24 juillet</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Haïti</td><td>6 avril</td><td>1989 A</td><td>6 juillet</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>1977 A</td><td>16 février</td><td>1978</td></tr>
 <tr><td>Hongrie</td><td>25 septembre</td><td>1973 A</td><td>25 décembre</td><td>1973</td></tr>
-<tr><td>Îles Cook</td><td>21 décembre</td><td>2001 A</td><td>21 mars</td><td>2002</td></tr>
 <tr><td>Îles Marshall</td><td>26 avril</td><td>1988 A</td><td>26 juillet</td><td>1988</td></tr>
 <tr><td>Îles Salomon</td><td>30 juin</td><td>2004 A</td><td>30 septembre</td><td>2004</td></tr>
 <tr><td>Inde</td><td>19 avril</td><td>1968</td><td>21 juillet</td><td>1968</td></tr>
 <tr><td>Indonésie</td><td>17 janvier</td><td>1977 A</td><td>17 avril</td><td>1977</td></tr>
 <tr><td>Iran</td><td>5 octobre</td><td>1973 A</td><td>5 janvier</td><td>1974</td></tr>
+<tr><td>Iraq</td><td>13 février</td><td>2025 A</td><td>13 mai</td><td>2025</td></tr>
 <tr><td>Irlande</td><td>28 août</td><td>1968</td><td>28 novembre</td><td>1968</td></tr>
 <tr><td>Islande</td><td>24 juin</td><td>1970</td><td>24 septembre</td><td>1970</td></tr>
 <tr><td>Israël</td><td>5 juillet</td><td>1967</td><td>21 juillet</td><td>1968</td></tr>
@@ -568,9 +568,10 @@ Champ d’application le 28 avril 2021[^t-4]
 <tr><td>Nauru</td><td>7 juin</td><td>2018 A</td><td>7 septembre</td><td>2018</td></tr>
 <tr><td>Nicaragua</td><td>2 février</td><td>1994 A</td><td>2 mai</td><td>1994</td></tr>
 <tr><td>Nigéria</td><td>14 novembre</td><td>1968 A</td><td>14 février</td><td>1969</td></tr>
-<tr><td>Nioué</td><td>27 juin</td><td>2012 A</td><td>27 septembre</td><td>2012</td></tr>
 <tr><td>Norvège</td><td>18 mars</td><td>1968</td><td>21 juillet</td><td>1968</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>5 février</td><td>1970</td><td>5 mai</td><td>1970</td></tr>
+<tr><td>Îles Cook</td><td>21 décembre</td><td>2001 A</td><td>21 mars</td><td>2002</td></tr>
+<tr><td>Nioué</td><td>27 juin</td><td>2012 A</td><td>27 septembre</td><td>2012</td></tr>
 <tr><td>Oman</td><td>20 août</td><td>1975 A</td><td>20 novembre</td><td>1975</td></tr>
 <tr><td>Ouganda</td><td>10 octobre</td><td>2019 A</td><td>10 janvier</td><td>2020</td></tr>
 <tr><td>Pakistan</td><td>5 décembre</td><td>1968</td><td>5 mars</td><td>1969</td></tr>
@@ -621,7 +622,7 @@ Champ d’application le 28 avril 2021[^t-4]
 <tr><td>Suisse</td><td>23 avril</td><td>1968</td><td>23 juillet</td><td>1968</td></tr>
 <tr><td>Suriname</td><td>29 novembre</td><td>1975 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Syrie</td><td>6 février</td><td>1975 A</td><td>6 mai</td><td>1975</td></tr>
-<tr><td>Taïwan (Taipei chinois) <sup>c</sup></td><td>24 juillet</td><td>1968</td><td>24 octobre</td><td>1968</td></tr>
+<tr><td>Taipei chinois (Taïwan) <sup>c</sup></td><td>24 juillet</td><td>1968</td><td>24 octobre</td><td>1968</td></tr>
 <tr><td>Tanzanie</td><td>28 février</td><td>1989 A</td><td>28 mai</td><td>1989</td></tr>
 <tr><td>Thaïlande</td><td>30 décembre</td><td>1992 A</td><td>30 mars</td><td>1993</td></tr>
 <tr><td>Togo</td><td>19 juillet</td><td>1989 A</td><td>19 octobre</td><td>1989</td></tr>
@@ -641,4 +642,4 @@ Champ d’application le 28 avril 2021[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 16 août 1972 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> 25.10.1968: Ratification par la République fédérative socialiste de Yougoslavie. 4.2.2003: La République fédérative de Yougoslavie devient la Serbie-et-Monténégro. <sup>c</sup> Du 24 oct. 1968 au 5 janv. 1974 (date d’adhésion de la République populaire de Chine), la convention était applicable à la seule province de Taiwan (ainsi qu’aux îles de Penghu, Kinmen et Matsu) en vertu de l’adhésion des autorités taiwanaises à la convention. À partir du 5 janv. 1974, la convention s’applique à la province de Taiwan ainsi qu’aux îles susmentionnées du fait que celles-ci sont considérées comme des parties intégrantes de la Chine et que la Chine est devenue partie à la conv.. <sup>d</sup> 24.06.1968: Adhésion de la République du Vietnam. 2.7.1976: Réunification de la République socialiste du Vietnam avec la République du Vietnam. <sup>e</sup> 22.5.1990: Unification de la République Arabe du Yémen et la République démocratique populaire du Yémen en la République du Yémen.</td></tr>
 </table>
 
-[^t-4]: [RO 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670); [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-4]: [RO 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670); [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262); [2025 335](https://fedlex.data.admin.ch/eli/oc/2025/335). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

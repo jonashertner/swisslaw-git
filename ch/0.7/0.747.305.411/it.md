@@ -3,11 +3,11 @@ sr: "0.747.305.411"
 title: Convenzione internazionale del 5 aprile 1966 sulle linee di carico (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/728_753_747"
 language: it
-version: 2021-04-28
+version: 2025-05-20
 adopted: 1966-04-05
 in_force: 1968-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20210428-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20210428/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20250520/it/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20250520-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20250520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Londra il 5 aprile 1966 Accettata dall’Assemblea federale il 12 marzo 1968[^t-1] Approvata dalla Svizzera con strumento depositato il 23 aprile 1958 Entrata in vigore per la Svizzera il 23 luglio 1968
 
-(Stato 28 aprile 2021)
+(Stato 20 maggio 2025)
 
 [^t-1]: No 1 lett. b del DF del 12 mar. 1968 ([RU 1968 725](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
@@ -440,7 +440,7 @@ Allegato I a III[^t-2]
 
 [^t-2]: Aggiornati dalla mod. dei 1° dic. 2005 e 4. dic. 2013, in vigore dal 28 feb. 2018 ([RU 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Gli all. e i loro emendamenti non sono più pubblicati nella RU e nella RS. Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’OMI. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
-Campo d’applicazione il 28 aprile 2021[^t-3]
+Campo d’applicazione il 20 maggio 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -470,6 +470,7 @@ Campo d’applicazione il 28 aprile 2021[^t-3]
 <tr><td>Canada</td><td>14 gennaio</td><td>1970</td><td>14 aprile</td><td>1970</td></tr>
 <tr><td>Capo Verde</td><td>28 aprile</td><td>1977 A</td><td>28 luglio</td><td>1977</td></tr>
 <tr><td>Ceca, Repubblica</td><td>19 ottobre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cecoslovacchia</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Cile</td><td>10 marzo</td><td>1975 A</td><td>10 giugno</td><td>1975</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>5 ottobre</td><td>1973 A</td><td>5 gennaio</td><td>1974</td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
@@ -510,15 +511,16 @@ Campo d’applicazione il 28 aprile 2021[^t-3]
 <tr><td>Guatemala</td><td>5 settembre</td><td>1994 A</td><td>5 dicembre</td><td>1994</td></tr>
 <tr><td>Guinea</td><td>19 gennaio</td><td>1981 A</td><td>19 aprile</td><td>1981</td></tr>
 <tr><td>Guinea equatoriale</td><td>24 aprile</td><td>1996 A</td><td>24 luglio</td><td>1996</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 marzo</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>6 aprile</td><td>1989 A</td><td>6 luglio</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>1977 A</td><td>16 febbraio</td><td>1978</td></tr>
 <tr><td>India</td><td>19 aprile</td><td>1968</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Indonesia</td><td>17 gennaio</td><td>1977 A</td><td>17 aprile</td><td>1977</td></tr>
 <tr><td>Iran</td><td>5 ottobre</td><td>1973 A</td><td>5 gennaio</td><td>1974</td></tr>
+<tr><td>Iraq</td><td>13 febbraio</td><td>2025 A</td><td>13 maggio</td><td>2025</td></tr>
 <tr><td>Irlanda</td><td>28 agosto</td><td>1968</td><td>28 novembre</td><td>1968</td></tr>
 <tr><td>Islanda</td><td>24 giugno</td><td>1970</td><td>24 settembre</td><td>1970</td></tr>
-<tr><td>Isole Cook</td><td>21 dicembre</td><td>2001 A</td><td>21 marzo</td><td>2002</td></tr>
 <tr><td>Isole Marshall</td><td>26 aprile</td><td>1988 A</td><td>26 luglio</td><td>1988</td></tr>
 <tr><td>Israele</td><td>5 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Italia</td><td>19 aprile</td><td>1968</td><td>21 luglio</td><td>1968</td></tr>
@@ -551,11 +553,12 @@ Campo d’applicazione il 28 aprile 2021[^t-3]
 <tr><td>Nauru</td><td>7 giugno</td><td>2018 A</td><td>7 settembre</td><td>2018</td></tr>
 <tr><td>Nicaragua</td><td>2 febbraio</td><td>1994 A</td><td>2 maggio</td><td>1994</td></tr>
 <tr><td>Nigeria</td><td>14 novembre</td><td>1968 A</td><td>14 febbraio</td><td>1969</td></tr>
-<tr><td>Niue</td><td>27 giugno</td><td>2012 A</td><td>27 settembre</td><td>2012</td></tr>
 <tr><td>Norvegia</td><td>18 marzo</td><td>1968</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Nuova Zelanda</td><td>5 febbraio</td><td>1970</td><td>5 maggio</td><td>1970</td></tr>
+<tr><td>Isole Cook</td><td>21 dicembre</td><td>2001 A</td><td>21 marzo</td><td>2002</td></tr>
+<tr><td>Niue</td><td>27 giugno</td><td>2012 A</td><td>27 settembre</td><td>2012</td></tr>
 <tr><td>Oman</td><td>20 agosto</td><td>1975 A</td><td>20 novembre</td><td>1975</td></tr>
-<tr><td>Paesi Bassi</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
+<tr><td>Paesi bassi</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Aruba</td><td>24 dicembre</td><td>1985</td><td>1° gennaio</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
@@ -599,10 +602,12 @@ Campo d’applicazione il 28 aprile 2021[^t-3]
 <tr><td>Spagna</td><td>1° luglio</td><td>1968</td><td>1° ottobre</td><td>1968</td></tr>
 <tr><td>Sri Lanka</td><td>10 maggio</td><td>1974 A</td><td>10 agosto</td><td>1974</td></tr>
 <tr><td>Stati Uniti</td><td>17 novembre</td><td>1966</td><td>21 luglio</td><td>1968</td></tr>
+<tr><td>Guam</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
+<tr><td>Isole Midway, Wake, Johnston</td><td>18 marzo</td><td>1976 A</td><td>18 marzo</td><td>1976</td></tr>
+<tr><td>Isole Vergini americane</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
 <tr><td>Portorico</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
 <tr><td>Samoa americane</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
 <tr><td>Territorio sotto tutela delle Isole del Pacifico</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
-<tr><td>Zona del canale di Panama</td><td>9 settembre</td><td>1975 A</td><td>9 settembre</td><td>1975</td></tr>
 <tr><td>Sudafrica</td><td>14 dicembre</td><td>1966</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Sudan</td><td>26 settembre</td><td>1991 A</td><td>26 dicembre</td><td>1991</td></tr>
 <tr><td>Suriname</td><td>29 novembre</td><td>1975 S</td><td>25 novembre</td><td>1975</td></tr>
@@ -635,6 +640,4 @@ Campo d’applicazione il 28 aprile 2021[^t-3]
 <tr><td colspan="5"><sup>e</sup> 22.05.1990: Unificazione della Repubblica araba dello Yemen e della Repubblica democratica popolare dello Yemen che diventano la Repubblica dello Yemen.</td></tr>
 </table>
 
-- [tab]
-
-[^t-3]: [RU 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670)e [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty).
+[^t-3]: [RU 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670)e [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262), [2025 335](https://fedlex.data.admin.ch/eli/oc/2025/335). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
