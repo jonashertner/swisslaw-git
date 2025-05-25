@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: "Secondo Protocollo addizionale dell' 8 novembre 2001 alla Convenzione europea di assistenza giudiziaria in materia penale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: it
-version: 2022-04-22
+version: 2025-05-26
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/it/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20250526/it/xml/fedlex-data-admin-ch-eli-cc-2005-46-20250526-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20250526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Strasburgo l’8 novembre 2001 Approvato dall’Assemblea federale il 19 marzo 2004[^t-1] Strumento di ratifica depositato dalla Svizzera il 4 ottobre 2004 Entrato in vigore per la Svizzera il 1° febbraio 2005
 
-(Stato 22 aprile 2022)
+(Stato 26 maggio 2025)
 
 [^t-1]: [RU 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -40,11 +40,11 @@ tenuto conto della Convenzione per la salvaguardia dei diritti dell’uomo e del
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
-[^ingress-2]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
+[^ingress-2]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 [^ingress-3]: Non pubblicato nella RU.
-[^ingress-4]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-5]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
+[^ingress-4]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-5]: [RS 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
 
 ## Capitolo I
 
@@ -568,7 +568,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, l’8 novembre 2001, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare, depositato all’archivio del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmette copia certificata conforme a ciascuno Stato membro del Consiglio d’Europa come anche a ciascuno Stato non membro che ha aderito alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 22 aprile 2022**[^t-2]**
+Campo d’applicazione il 26 maggio 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -594,6 +594,7 @@ Campo d’applicazione il 22 aprile 2022**[^t-2]**
 <tr><td>Lettonia<sup>\*</sup></td><td>30 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>25 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>6 aprile</td><td>2004</td><td>1° agosto</td><td>2004</td></tr>
+<tr><td>Lussemburgo<sup>\*</sup></td><td>21 gennaio</td><td>2021</td><td>1° febbraio</td><td>2022</td></tr>
 <tr><td>Macedonia del Nord<sup>\*</sup></td><td>16 dicembre</td><td>2008</td><td>1° aprile</td><td>2009</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>12 aprile</td><td>2012</td><td>1° agosto</td><td>2012</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>8 agosto</td><td>2013</td><td>1° dicembre</td><td>2013</td></tr>
@@ -614,10 +615,10 @@ Campo d’applicazione il 22 aprile 2022**[^t-2]**
 <tr><td>Turchia<sup>\*</sup></td><td>11 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>14 settembre</td><td>2011</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Ungheria</td><td>9 gennaio</td><td>2018</td><td>1° maggio</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna..</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese può essere consultato sul sito Internet del Consiglio d’Europa: [https://conventions.coe.int](https://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269); [2025 355](https://fedlex.data.admin.ch/eli/oc/2025/355). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni
 
@@ -645,7 +646,7 @@ La Svizzera dichiara che le autorità seguenti sono considerate autorità giudiz
 - – l’Ufficio federale di giustizia;
 - – le autorità abilitate dal diritto cantonale o federale a istruire cause penali, a emettere decreti d’accusa e a prendere decisioni in un procedimento connesso a una causa penale.
 
-L’elenco dettagliato delle autorità giudiziarie svizzere può essere consultato al seguente sito Internet: https://www.rhf.admin.ch/dam/rhf/it/data/strafrecht/behoerden/direktverkehr-i.pdf.download.pdf/direktverkehr-i.pdf
+L’elenco dettagliato delle autorità giudiziarie svizzere può essere consultato al seguente sito Internet: [www.rhf.admin.ch/it/autorita-diritto-penale](https://www.rhf.admin.ch/it/autorita-diritto-penale)
 
 Art. 17 par. 4 (Osservazione transfrontaliera)
 

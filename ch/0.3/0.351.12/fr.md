@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: "Deuxième Protocole additionnel du 8 novembre 2001 à la Convention européenne d'entraide judiciaire en matière pénale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: fr
-version: 2022-04-22
+version: 2025-05-26
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/fr/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20250526/fr/xml/fedlex-data-admin-ch-eli-cc-2005-46-20250526-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20250526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 4 octobre 2004
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> février 2005
 
-(Etat le 22 avril 2022)
+(État le 26 mai 2025)
 
 [^t-1]: [RO 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -44,11 +44,11 @@ tenant compte de la Convention de sauvegarde des Droits de l’Homme et des Libe
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
-[^ingress-2]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
+[^ingress-2]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 [^ingress-3]: Non publié au RO.
-[^ingress-4]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-5]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
+[^ingress-4]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-5]: [RS 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
 
 ## Chapitre I
 
@@ -568,7 +568,7 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du 
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 8 novembre 2001, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’à tout État non membre ayant adhéré à la Convention. (Suivent les signatures)
 
-Champ d’application le 22 avril 2022**[^t-2]**
+Champ d’application le 26 mai 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -595,6 +595,7 @@ Champ d’application le 22 avril 2022**[^t-2]**
 <tr><td>Lettonie\*</td><td>30 mars</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>25 septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Lituanie\*</td><td>6 avril</td><td>2004</td><td>1<sup>er</sup> août</td><td>2004</td></tr>
+<tr><td>Luxembourg\*</td><td>21 janvier</td><td>2021</td><td>1<sup>er</sup> février</td><td>2022</td></tr>
 <tr><td>Macédoine du Nord\*</td><td>16 décembre</td><td>2008</td><td>1<sup>er</sup> avril</td><td>2009</td></tr>
 <tr><td>Malte<sup>\*</sup></td><td>12 avril</td><td>2012</td><td>1<sup>er</sup> août</td><td>2012</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>8 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
@@ -614,10 +615,10 @@ Champ d’application le 22 avril 2022**[^t-2]**
 <tr><td>Suisse\*</td><td>4 octobre</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
 <tr><td>Turquie\*</td><td>11 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
 <tr><td>Ukraine\*</td><td>14 septembre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [https://conventions.coe.int](https://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46), [1821](https://fedlex.data.admin.ch/eli/oc/2005/299); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46), [1821](https://fedlex.data.admin.ch/eli/oc/2005/299); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269); [2025 355](https://fedlex.data.admin.ch/eli/oc/2025/355). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -627,9 +628,9 @@ Art. 4 (Voies de communication)
 
 La Suisse déclare que l’Office fédéral de la justice du Département fédéral de justice et police, à Berne, est l’autorité centrale compétente, au sens de l’art. 4 (et 15 de la Convention), pour adresser et recevoir:
 
-- – les demandes d’entraide judiciaire, sauf si la demande est présentée directement à l’autorité compétente de l’État requis selon l’art. 4, par. 1, 3 et 4;
-- – les demandes de transfèrement temporaire de personnes détenues selon l’art. 4, par. 2;
-- – les demandes d’extraits du casier judiciaire, selon l’art. 4, par. 5.
+- les demandes d’entraide judiciaire, sauf si la demande est présentée directement à l’autorité compétente de l’État requis selon l’art. 4, par. 1, 3 et 4;
+- les demandes de transfèrement temporaire de personnes détenues selon l’art. 4, par. 2;
+- les demandes d’extraits du casier judiciaire, selon l’art. 4, par. 5.
 
 Lorsqu’en cas d’urgence, une demande d’entraide judiciaire est présentée directement à l’autorité compétente de l’État requis, une copie de la demande et de la réponse doit être communiquée à l’Office fédéral de la justice.
 
@@ -639,25 +640,25 @@ Art. 6 (Autorités judiciaires)
 
 La Suisse déclare que les autorités suivantes sont considérées comme autorités judiciaires suisses aux fins de la Convention et du Protocole:
 
-- – les tribunaux, leurs cours, chambres ou sections;
-- – le Ministère public (Procureur général) de la Confédération;
-- – les juges d’instructions fédéraux;
-- – l’Office fédéral de la justice;
-- – les autorités habilitées par le droit cantonal ou fédéral à instruire des affaires pénales, à décerner des mandats de répression et à prendre des décisions dans une procédure liée à une cause pénale.
+- les tribunaux, leurs cours, chambres ou sections;
+- le Ministère public (Procureur général) de la Confédération;
+- les juges d’instructions fédéraux;
+- l’Office fédéral de la justice;
+- les autorités habilitées par le droit cantonal ou fédéral à instruire des affaires pénales, à décerner des mandats de répression et à prendre des décisions dans une procédure liée à une cause pénale.
 
-La liste détaillée des autorités judiciaires suisses peut être consultée en ligne à l’adresse suivante: https://www.rhf.admin.ch/dam/rhf/fr/data/strafrecht/behoerden/direktverkehr-f.pdf.download.pdf/direktverkehr-f.pdf
+La liste détaillée des autorités judiciaires suisses peut être consultée en ligne à l’adresse suivante: [www.rhf.admin.ch/fr/autorites-droit-penal](https://www.rhf.admin.ch/fr/autorites-droit-penal)
 
 Art. 17, par. 4 (Observation transfrontalière)
 
 La Suisse déclare que les autorités suivantes sont compétentes pour exécuter les demandes au titre de l’art. 17:
 
-- – l’Office fédéral de la police, à Berne;
-- – les commandements de la police des cantons.
+- l’Office fédéral de la police, à Berne;
+- les commandements de la police des cantons.
 
 Les demandes présentées à la Suisse au titre de l’art. 17, par. 1 et 2, doivent être adressées:
 
-- – aux autorités de poursuite pénale de la Confédération, ou
-- – aux autorités de poursuite pénale du canton sur le territoire duquel interviendra probablement le franchissement de la frontière.
+- aux autorités de poursuite pénale de la Confédération, ou
+- aux autorités de poursuite pénale du canton sur le territoire duquel interviendra probablement le franchissement de la frontière.
 
 En cas de doute, les demandes présentées au titre de l’art. 17, par. 1, peuvent être adressées à l’Office fédéral de la justice, à Berne, et celles présentées au titre de l’art. 17, par. 2, à l’Office fédéral de la police, à Berne.
 
@@ -665,25 +666,25 @@ Art. 18, par. 4 (Livraison surveillée)
 
 La Suisse déclare que les autorités suivantes sont compétentes pour exécuter les demandes au titre de l’art. 18:
 
-- – les autorités de poursuite pénale de la Confédération;
-- – les autorités de poursuite pénale du canton sur le territoire duquel le transport commence.
+- les autorités de poursuite pénale de la Confédération;
+- les autorités de poursuite pénale du canton sur le territoire duquel le transport commence.
 
 Art. 19, par. 4 (Enquêtes discrètes)
 
 La Suisse déclare que les autorités suivantes sont compétentes pour exécuter les demandes au titre de l’art. 19:
 
-- – le Ministère public (Procureur général) de la Confédération et les juges d’instruction fédéraux;
-- – les autorités de poursuite pénale du canton sur le territoire duquel l’enquête transfrontalière commence.
+- le Ministère public (Procureur général) de la Confédération et les juges d’instruction fédéraux;
+- les autorités de poursuite pénale du canton sur le territoire duquel l’enquête transfrontalière commence.
 
 Art. 26, par. 5 (Protection des données)
 
 La Suisse exige que les données à caractère personnel qu’elle transmet à une autre Partie aux fins citées à l’art. 26, par. 1, let. a et b, ne puissent être utilisées sans le consentement de la personne concernée qu’avec l’accord de l’Office fédéral de la justice aux fins d’une procédure pour laquelle la Suisse aurait pu, selon les termes de la Convention ou du Protocole, refuser ou limiter la transmission ou l’utilisation de données à caractère personnel.
 
-Art. 27 (Autorités administratives)*[^t-3]*
+Art. 27 (Autorités administratives)[^t-3]
 
 La Suisse déclare que sont considérées comme autorités administratives suisses au sens de l’art. 1, par. 3, de la Convention les services administratifs de la Confédération et des cantons qui, en vertu du droit fédéral ou cantonal, peuvent poursuivre des infractions et qui sont habilités, lorsque l’enquête est terminée, à demander l’ouverture d’une procédure judiciaire pouvant déboucher sur une condamnation pénale.
 
-Déclaration suisse du 1.2.2022 en réaction aux déclarations des États participants au Parquet européen relatives à la désignation de ce dernier comme autorité judiciaire*[^t-4]* Les textes en français et en anglais de la déclaration suisse peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
+Déclaration suisse du 1.2.2022 en réaction aux déclarations des États participants au Parquet européen relatives à la désignation de ce dernier comme autorité judiciaire[^t-4] Les textes en français et en anglais de la déclaration suisse peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
 
 [^t-3]: [RO 2005 1821](https://fedlex.data.admin.ch/eli/oc/2005/299)
 [^t-4]: [RO 2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269)

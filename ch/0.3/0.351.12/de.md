@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: Zweites Zusatzprotokoll vom 8. November 2001 zum Europäischen Übereinkommen über die Rechtshilfe in Strafsachen
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: de
-version: 2022-04-22
+version: 2025-05-26
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/de/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20250526/de/xml/fedlex-data-admin-ch-eli-cc-2005-46-20250526-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20250526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 4. Oktober 2004
 
 Inkrafttreten für die Schweiz am 1. Februar 2005
 
-(Stand am 22. April 2022)
+(Stand am 26. Mai 2025)
 
 [^t-1]: [AS 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -46,11 +46,11 @@ unter Berücksichtigung der am 4. November 1950[^ingress-4] in Rom beschlossenen
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
-[^ingress-2]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^ingress-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
+[^ingress-2]: [SR 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 [^ingress-3]: In der AS nicht veröffentlicht.
-[^ingress-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-5]: [SR 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
+[^ingress-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-5]: [SR 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
 
 ## Kapitel I
 
@@ -576,7 +576,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben*.* Geschehen zu Strassburg, am 8. November 2001, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und den Nichtmitgliedstaaten, die dem Übereinkommen beigetreten sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. April 2022**[^t-2]**
+Geltungsbereich am 26. Mai 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -599,6 +599,7 @@ Geltungsbereich am 22. April 2022**[^t-2]**
 <tr><td>Lettland\*</td><td>30. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>25. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Litauen\*</td><td>6. April</td><td>2004</td><td>1. August</td><td>2004</td></tr>
+<tr><td>Luxemburg\*</td><td>21. Januar</td><td>2021</td><td>1. Februar</td><td>2022</td></tr>
 <tr><td>Malta\*</td><td>12. April</td><td>2012</td><td>1. August</td><td>2012</td></tr>
 <tr><td>Moldau<sup>\*</sup></td><td>8. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
 <tr><td>Montenegro\*</td><td>20. Oktober</td><td>2008</td><td>1. Februar</td><td>2009</td></tr>
@@ -622,10 +623,10 @@ Geltungsbereich am 22. April 2022**[^t-2]**
 <tr><td>Ungarn</td><td>9. Januar</td><td>2018</td><td>1. Mai</td><td>2018</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>30. Juni</td><td>2010</td><td>1. Oktober</td><td>2010</td></tr>
 <tr><td>Zypern<sup>\*</sup></td><td>12. Februar</td><td>2015</td><td>1. Juni</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [https://conventions.coe.int](https://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269); [2025 355](https://fedlex.data.admin.ch/eli/oc/2025/355). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
@@ -653,7 +654,7 @@ Die Schweiz erklärt, dass als schweizerische Justizbehörden im Sinne des Über
 - – das Bundesamt für Justiz,
 - – die nach kantonalem oder eidgenössischem Recht mit der Instruktion von Straffällen betrauten, zur Ausstellung von Strafbefehlen ermächtigten oder Entscheide in Verfahren strafrechtlicher Angelegenheiten fällenden Behörden.
 
-Das genaue Verzeichnis der schweizerischen Justizbehörden ist unter folgender Internetadresse abrufbar: https://www.rhf.admin.ch/dam/rhf/de/data/strafrecht/behoerden/direktverkehr-d.pdf.download.pdf/direktverkehr-d.pdf
+Das genaue Verzeichnis der schweizerischen Justizbehörden ist unter folgender Internetadresse abrufbar: [www.rhf.admin.ch/de/behoerden-strafsachen](https://www.rhf.admin.ch/de/behoerden-strafsachen)
 
 Art. 17 Abs. 4 (Grenzüberschreitende Observation)
 
@@ -691,8 +692,8 @@ Art. 27 (Verwaltungsbehörden)
 
 Die Schweiz erklärt, dass als schweizerische Verwaltungsbehörden nach Artikel 1 Absatz 3 des Übereinkommens die Amtsstellen des Bundes und der Kantone gelten, die nach kantonalem oder eidgenössischem Recht strafbare Handlungen verfolgen und nach Abschluss der Untersuchung die Eröffnung eines Gerichtsverfahrens beantragen können, das zu einer strafrechtlichen Verurteilung führen kann.
 
-Erklärung der Schweiz vom 1.2.2022 als Reaktion auf die Erklärungen der Teilnehmerstaaten der Europäischen Staatsanwaltschaft zur Benennung der Europäischen Staatsanwaltschaft als Justizbehörde*[^t-3]*
+Erklärung der Schweiz vom 1.2.2022 als Reaktion auf die Erklärungen der Teilnehmerstaaten der Europäischen Staatsanwaltschaft zur Benennung der Europäischen Staatsanwaltschaft als Justizbehörde[^t-3]
 
-Der englische und französische Text der Schweizer Erklärung ist auf der Website des Europarates unter http://conventions.coe.int abrufbar oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, erhältlich.
+Die französischen und englischen Texte können auf der Internetseite des Europarats: [https://conventions.coe.int](https://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.
 
 [^t-3]: [AS 2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269)
