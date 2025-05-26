@@ -1,0 +1,92 @@
+---
+canton: NE
+number: "601.52"
+title: "Arrêté désignant les entités sur lesquelles l’activité du CCF peut s’exercer, au sens de l’article 12 LCCF"
+language: fr
+version: 2025-05-27
+adopted: 2017-06-26
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.52.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté désignant les entités sur lesquelles l’activité du CCF peut s’exercer, au sens de l’article 12 LCCF
+26 juin 2017[^t-1]
+
+État au 27 mai 2025
+
+Le Conseil d’État de la République et Canton de Neuchâtel,
+
+vu la loi sur le contrôle des finances (LCCF), du 3 octobre 2006[^t-2] ;
+
+sur la proposition du conseiller d'État, chef du Département des finances et de la santé,
+
+arrête :
+
+[^t-1]: (\*) FO 2017 No 26
+[^t-2]: RSN 601.3
+
+#### Article premier
+
+**Établissements cantonaux de droit public**
+
+Les établissements cantonaux de droit public sur lesquels l’activité du CCF peut s’exercer en vertu de l'article 12, alinéa 2, lettre *a* LCCF sont les suivants :
+
+- Service cantonal des automobiles et de la navigation ;
+- Centre neuchâtelois d’intégration professionnelle (CNIP).
+
+[^premier-1]: Teneur selon A du 22 janvier 2018 (FO 2018 N° 4) avec effet au 31 janvier 2018
+
+#### Art. 2
+
+**Structures et personnes privées**[^premier-1]
+
+Les structures et les personnes privées bénéficiant de subventions cantonales sur lesquelles l’activité du CCF peut s’exercer en vertu de l'article 12, alinéa 2, lettre *c* LCCF sont les suivantes :
+
+- Latitude 21, Fédération neuchâteloise de coopération au développement ;
+- Association « Structure porteuse de la Communauté de référence Dossier électronique du patient Neuchâtel ».
+
+[^2-1]: Teneur selon A du 22 janvier 2018 (FO 2018 N° 4) avec effet au 31 janvier 2018
+
+#### Art. 3
+
+**Organismes intercantonaux et interrégionaux**[^2-1]
+
+Les organismes intercantonaux et interrégionaux sur lesquels l’activité du CCF peut s’exercer en vertu de l'article 12, alinéa 2, lettre *f* LCCF sont les suivants :
+
+- Glossaire des patois de la Suisse romande ;
+- Institut de recherche et de documentation pédagogique ;
+- Conférence latine des affaires sanitaires et sociales ;
+- Conférence intercantonale de l'Instruction publique de la Suisse romande et du Tessin ;
+- Arcjurassien.ch ;
+- Centre interrégional de formation de police.
+
+[^3-1]: Non publiés au RSN
+
+#### Art. 4
+
+**Abrogation**
+
+Les arrêtés[^3-1] suivants sont abrogés :
+
+- Arrêté désignant les entités soumises au contrôle du CCF au sens de l’article 12 LCCF, du 20 décembre 2006 ;
+- Arrêté autorisant le CCF à fonctionner comme organe de révision de la Commission LoRo-Sport NE, du 23 novembre 2016 ;
+- Arrêté désignant l’organe de révision du SCAN pour les années 2017 et 2018, du 23 janvier 2017 ;
+- Arrêté autorisant le CCF à fonctionner comme organe de révision de Latitude 21, du 12 novembre 2008 ;
+- Arrêté autorisant le CCF à fonctionner comme organe de révision du Centre neuchâtelois d’intégration professionnelle (CNIP), du 8 avril 2011.
+
+#### Art. 5
+
+**Entrée en vigueur et publication**
+
+<sup>1</sup> Le présent arrêté entre en vigueur avec effet rétroactif au 1<sup>er</sup> avril 2017.
+
+<sup>2</sup> Il fera l'objet d'une publication dans la Feuille officielle et sera inséré au Recueil de la législation neuchâteloise.
+
+[^5-1]: La désignation du département a été adaptée en application de l'article 12 de l'A fixant les attributions et l'organisation des départements et de la chancellerie d'état, du 26 juillet 2013 (FO 2013 N° 31) et de l’A portant modification de l’A fixant les attributions et l'organisation des départements et de la chancellerie d'état, du 27 mai 2025 (FO 2025 N° 23), avec effet immédiat.
+
+#### Art. 6
+
+**Exécution**[^5-1]
+
+Le Département de la formation et des finances est chargé de l'exécution du présent arrêté.
