@@ -1,0 +1,124 @@
+---
+canton: NE
+number: "503.5"
+title: "Arrêté relatif à l'installation de places de tir"
+language: fr
+version: 2025-05-27
+adopted: 1981-03-30
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/503.5.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté relatif à l'installation de places de tir
+30 mars 1981[^t-1]
+
+Etat au 27 mai 2025
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu les articles 31 et 32 de la loi fédérale sur l'organisation militaire de la Confédération suisse, du 12 avril 1907[^t-2];
+
+vu l'ordonnance du Conseil fédéral sur les tirs hors du service, du 29 novembre 1935[^t-3];
+
+vu l'ordonnance du Département militaire fédéral sur les places de tir hors service, du 6 mai 1969;
+
+vu l'article 64 de la loi sur les routes et voies publiques, du 21 août 1849[^t-4];
+
+sur la proposition du conseiller d'Etat, chef du département Militaire,
+
+arrête:
+
+[^t-1]: (\*) RLN VII 1056
+[^t-2]: RS 510.10
+[^t-3]: RS 512.31
+[^t-4]: RSN 735.10
+
+#### Article premier
+
+Aucune place de tir ne peut être installée sans l'autorisation du Conseil d'Etat.
+
+#### Art. 2
+
+Par place de tir, on entend tout emplacement fixe et approprié permettant le tir sur cibles aux armes militaires d'ordonnance, armes de chasse, armes de petit calibre, armes à air comprimé ou avec appareil réducteur, arbalètes ou arcs.
+
+#### Art. 3
+
+On distingue les places de tir à l'air libre et les places de tir en local fermé.
+
+[^3-1]: La désignation du département a été adaptée en application de l'article 12 de l'A fixant les attributions et l'organisation des départements et de la chancellerie d'état, du 26 juillet 2013 (FO 2013 N° 31) et de l’A portant modification de l’A fixant les attributions et l'organisation des départements et de la chancellerie d'état, du 27 mai 2025 (FO 2025 N° 23), avec effet immédiat.
+
+#### Art. 4
+
+[^3-1]
+
+Toute demande d'autorisation pour l'ouverture d'une ligne de tir aux armes d'ordonnance et autre place de tir à l'air libre doit être adressée par écrit au Département de la sécurité, de la digitalisation et de la culture (ci-après: le département) et être accompagnée des pièces suivantes, en deux exemplaires:
+
+- *a)* une feuille de l'atlas topographique suisse au 1:25.000 indiquant l'axe de la ligne de tir, l'emplacement du stand et celui des cibleries;
+- *b)* un plan de situation établi sur un calque du plan cadastral, indiquant les articles du cadastre et les noms des propriétaires des immeubles situés sur le parcours et à proximité immédiate de la ligne de tir;
+- *c)* un plan et coupe, à l'échelle d'au moins 1:100, des bâtiments du stand et des cibleries, ainsi que des installations de protection prévues telles que pare-balles, écrans, fossés, buttes.
+
+#### Art. 5
+
+<sup>1</sup> La requête et les pièces annexes sont déposées pendant trente jours au département, où le public peut en prendre connaissance.
+
+<sup>2</sup> Les Conseils communaux des communes sur le territoire desquelles se trouve la ligne de tir projetée ou dont le territoire est situé à moins de 4 km de cette place sont avisés de ce dépôt, lequel est en outre publié à trois reprises dans la Feuille officielle du canton.
+
+<sup>3</sup> Les intéressés peuvent faire opposition au projet de place de tir en s'adressant au département par écrit dans le délai du dépôt.
+
+#### Art. 6
+
+<sup>1</sup> A l'expiration du délai du dépôt, le dossier est communiqué au Département du développement territorial et de l'environnement et, lorsqu'une ligne de chemin de fer passe à moins de 4 km de la place de tir projetée, aux Chemins de fer fédéraux.
+
+<sup>2</sup> Si des oppositions se sont manifestées, leurs auteurs sont entendus, en présence du requérant, par le chef du département qui peut consulter en cas de besoin des experts.
+
+<sup>3</sup> Le dossier est ensuite transmis au Conseil d'Etat pour décision.
+
+#### Art. 7
+
+Toute demande d'autorisation d'installation de place de tir en local fermé doit être adressée par écrit, avec précision du genre d'armes avec lesquelles sont prévus les tirs, au département et être accompagnée des pièces suivantes en deux exemplaires:
+
+- *a)* un plan et coupe, à l'échelle d'au moins 1:100, du stand et de son implantation à l'intérieur du bâtiment mentionnant notamment les accès et ouvertures, pare-balles et écrans, système de cibles ainsi que les matériaux prévus pour le revêtement et le pare-balles;
+- *b)* l'accord du propriétaire foncier relatif à l'utilisation du local aux fins de tir;
+- *c)* copie de la proposition d'assurance ou du contrat d'assurance couvrant les risques inhérents au tir.
+
+#### Art. 8
+
+Le dossier est ensuite communiqué au Conseil communal de la localité dans laquelle la place de tir est projetée pour préavis, puis transmis au Conseil d'Etat pour décision.
+
+#### Art. 9
+
+<sup>1</sup> Si l'autorisation est accordée, un exemplaire de chacune des pièces mentionnées aux articles 4 et 7, lettres *a, b* et *c*, du présent arrêté demeure déposé au département.
+
+<sup>2</sup> L'autre exemplaire, muni du visa du département et accompagné de l'arrêté du Conseil d'Etat, est retourné au requérant.
+
+<sup>3</sup> Les frais de publication et d'expertise sont à la charge du requérant, quelle que soit la décision prise par le Conseil d'Etat.
+
+#### Art. 10
+
+Les installations d'une place de tir autorisée par le Conseil d'Etat ne peuvent être modifiées que suivant la procédure prévue pour leur adoption et moyennant autorisation du Conseil d'Etat.
+
+#### Art. 11
+
+<sup>1</sup> Lorsque les travaux d'établissement d'une place de tir sont terminés, le requérant doit en aviser immédiatement le département qui fait procéder:
+
+- *a)* par l'officier fédéral de tir pour les installations permettant le tir aux armes à feu d'ordonnance ou de chasse;
+- *b)* par un expert compétent de la SFTPC ou de la FSTRP pour les autres installations,
+
+à une expertise afin de s'assurer que les installations sont conformes aux dispositions en vigueur et au projet sanctionné par le Conseil d'Etat. Le département s'assure en outre que les assurances couvrant les risques inhérents au tir ont été conclues.
+
+<sup>2</sup> Si le résultat de l'expertise est satisfaisant, le Conseil d'Etat accorde l'autorisation d'utiliser la place de tir.
+
+#### Art. 12
+
+<sup>1</sup> La décision du Conseil d'Etat autorisant l'installation d'une place de tir est prise sans préjudice du droit des tiers de s'opposer à cette installation, par la voie judiciaire, pour des motifs de droit privé.
+
+<sup>2</sup> Le Conseil d'Etat peut en outre ordonner en tout temps des travaux de protection complémentaires, si l'expérience démontre que les mesures de précaution prises au moment de la sanction du projet ne sont pas suffisantes pour assurer d'une manière convenable la sécurité publique.
+
+[^12-1]: RLN **II** 879
+
+#### Art. 13
+
+<sup>1</sup> Le département est chargé de l'application du présent arrêté qui abroge l'arrêté du 15 juillet 1960[^12-1].
+
+<sup>2</sup> Il entre immédiatement en vigueur, sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.
