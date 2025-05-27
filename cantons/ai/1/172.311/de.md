@@ -5,12 +5,12 @@ title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-05-28
 version_adopted: 2025-01-07
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2365/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
