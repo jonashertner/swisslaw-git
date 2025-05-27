@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2025-04-01
+version: 2025-05-28
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250528/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250528-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250528/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. April 2025)
+vom 16. Dezember 2005 (Stand am 28. Mai 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 121 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
@@ -52,8 +52,8 @@ Dieses Gesetz regelt die Ein- und Ausreise, den Aufenthalt sowie den Familiennac
 
 <sup>5</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 1 Ziffer 1 aufgeführt.[^2-4]
 
-[^2-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621); im Verhältnis Schweiz-Liechtenstein gilt das Prot. vom 21. Juni 2001, welches integraler Bestandteil des Abk. ist.
+[^2-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314); im Verhältnis Schweiz-Liechtenstein gilt das Prot. vom 21. Juni 2001, welches integraler Bestandteil des Abk. ist.
 [^2-3]: Eingefügt durch Art. 127 hiernach ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a). Fassung gemäss Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^2-4]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
@@ -103,8 +103,8 @@ Ausländerinnen und Ausländer, die in die Schweiz einreisen wollen:
 <sup>4</sup> Der Bundesrat bestimmt die für den Grenzübertritt anerkannten Ausweispapiere.[^5-5]
 
 [^5-1]: Fassung gemäss Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^5-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^5-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^5-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^5-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^5-4]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^5-5]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
 
@@ -122,7 +122,7 @@ Ausländerinnen und Ausländer, die in die Schweiz einreisen wollen:
 
 [^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassungen wurde für den ganzen Text vorgenommen.
 [^6-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^6-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^6-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^6-4]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung der Notenaustausche betreffend das Visa-Informationssystem) ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)). Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^6-5]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
 
@@ -459,7 +459,7 @@ Von den Zulassungsvoraussetzungen (Art. 18–29) kann abgewichen werden, um:
 [^30-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 [^30-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^30-3]: Aufgehoben durch Ziff. I des BG vom 18. Juni 2010 (Erleichterte Zulassung von Ausländerinnen und Ausländern mit Schweizer Hochschulabschluss), mit Wirkung seit 1. Jan. 2011 ([AS 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [BBl 2010 427](https://fedlex.data.admin.ch/eli/fga/2010/119)[445](https://fedlex.data.admin.ch/eli/fga/2010/121)).
-[^30-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^30-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### 4. Abschnitt: Staatenlose
 
@@ -471,10 +471,10 @@ Von den Zulassungsvoraussetzungen (Art. 18–29) kann abgewichen werden, um:
 
 <sup>3</sup> Staatenlose Personen nach den Absätzen 1 und 2 sowie staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^31-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^31-2] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind, können in der ganzen Schweiz eine Erwerbstätigkeit ausüben.[^31-3] Artikel 61 AsylG[^31-4] gilt sinngemäss.[^31-5]
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^31-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^31-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^31-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^31-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^31-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## 6. Kapitel: Regelung des Aufenthalts
@@ -651,7 +651,7 @@ Die mit der Ausfertigung von biometrischen Ausweisen betraute Stelle und die bet
 <sup>5</sup> Der Bundesrat legt die weiteren Anforderungen an die Ausfertigungsstelle, die Generalunternehmer, die Dienstleistungserbringer und die Lieferanten fest.
 
 [^41b-1]: Eingefügt durch Art. 2 Ziff. I des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis), in Kraft seit 24. Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^41b-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 Abs. 1]. Siehe heute: die V vom 4 März 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^41b-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 Abs. 1]. Siehe heute: die V vom 4 März 2011 ([SR 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744)).
 
 ## 7. Kapitel: Familiennachzug
 
@@ -699,7 +699,7 @@ Ausländische Ehegatten und ledige Kinder unter 18 Jahren von Personen mit Niede
 <sup>6</sup> Kinder unter zwölf Jahren haben Anspruch auf Erteilung der Niederlassungsbewilligung.
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^43-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^43-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 44
 
@@ -722,7 +722,7 @@ Ausländischen Ehegatten und ledigen Kindern unter 18 Jahren von Personen mit Au
 <sup>4</sup> Die Erteilung und die Verlängerung der Aufenthaltsbewilligung können mit dem Abschluss einer Integrationsvereinbarung verbunden werden, wenn ein besonderer Integrationsbedarf nach den Kriterien gemäss Artikel 58*a* besteht.
 
 [^44-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^44-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^44-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 45
 
@@ -736,7 +736,7 @@ Ausländischen Ehegatten und ledigen Kindern unter 18 Jahren von Personen mit Ku
 - d.[^45-1] die nachziehende Person keine jährlichen Ergänzungsleistungen nach dem ELG[^45-2] bezieht oder wegen des Familiennachzugs beziehen könnte.
 
 [^45-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^45-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 45a
 
@@ -745,7 +745,7 @@ Ausländischen Ehegatten und ledigen Kindern unter 18 Jahren von Personen mit Ku
 Haben die zuständigen Behörden bei der Prüfung des Ehegattennachzugs nach den Artikeln 42–45 Anhaltspunkte dafür, dass für die Ehe ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 105*a* des Zivilgesetzbuchs (ZGB)[^45a-2] vorliegt, so melden sie dies der nach Artikel 106 ZGB zuständigen Behörde.[^45a-3] Das Gesuch um Ehegattennachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
 
 [^45a-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^45a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^45a-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
@@ -836,7 +836,7 @@ Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorli
 
 [^50-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 [^50-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-3]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-3]: [SR 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 [^50-4]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 [^50-5]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
@@ -978,7 +978,7 @@ Die Kantone sehen für Personen mit besonderem Integrationsbedarf so früh wie m
 <sup>5</sup> Der Bundesrat bezeichnet in Absprache mit den Kantonen die Förderungsbereiche und regelt die Einzelheiten des Verfahrens nach den Absätzen 2 und 3.
 
 [^58-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^58-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^58-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### 2. Abschnitt: Integrationserfordernisse
 
@@ -1043,10 +1043,10 @@ Anspruch auf Reisedokumente haben Ausländerinnen und Ausländer, die:
 
 [^59-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-2]: Ausdruck gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^59-3]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^59-4]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^59-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^59-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^59-3]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^59-4]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^59-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^59-6]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^59-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-8]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), mit Wirkung seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-9]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)). Aufgehoben durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), mit Wirkung seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -1060,8 +1060,8 @@ Anspruch auf Reisedokumente haben Ausländerinnen und Ausländer, die:
 <sup>2</sup> Der Bundesrat legt fest, welche Arten von Reisedokumenten für ausländische Personen mit einem Datenchip versehen werden und welche Daten darauf zu speichern sind.
 
 [^59a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^59a-2]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^59a-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^59a-2]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^59a-3]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 59b
 
@@ -1074,7 +1074,7 @@ Anspruch auf Reisedokumente haben Ausländerinnen und Ausländer, die:
 <sup>3</sup> Die für die Ausstellung eines Reisedokuments erforderlichen biometrischen Daten werden alle fünf Jahre neu erhoben. Der Bundesrat kann kürzere Fristen für die Erhebung festlegen, wenn dies aufgrund der Entwicklung der Gesichtszüge der betreffenden Person erforderlich ist.
 
 [^59b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^59b-2]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^59b-2]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 59c
 
@@ -1114,7 +1114,7 @@ Die Rückkehr- und Wiedereingliederungshilfe umfasst:
 <sup>4</sup> Der Bundesrat regelt die Voraussetzungen und das Verfahren zur Ausrichtung und Abrechnung der Beiträge.
 
 [^60-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^60-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^60-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^60-3]: Fassung gemäss Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 
 ### 2. Abschnitt: Erlöschen und Widerruf der Bewilligungen und Erlöschen des Aufenthaltsrechts
@@ -1141,8 +1141,8 @@ Eine Bewilligung erlischt:
 <sup>2</sup> Verlässt die Ausländerin oder der Ausländer die Schweiz, ohne sich abzumelden, so erlischt die Kurzaufenthaltsbewilligung nach drei Monaten, die Aufenthalts- und Niederlassungsbewilligung nach sechs Monaten. Auf Gesuch hin kann die Niederlassungsbewilligung während vier Jahren aufrechterhalten werden.
 
 [^61-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^61-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^61-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^61-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^61-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 61a
@@ -1160,8 +1160,8 @@ Eine Bewilligung erlischt:
 <sup>5</sup> Die Absätze 1–4 gelten nicht bei Beendigung des Arbeitsverhältnisses aufgrund vorübergehender Arbeitsunfähigkeit infolge Krankheit, Unfall oder Invalidität sowie für Personen, die sich auf ein Verbleiberecht nach dem Abkommen vom 21. Juni 1999[^61a-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) oder dem Übereinkommen vom 4. Januar 1960[^61a-3] zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen) berufen können.
 
 [^61a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^61a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^61a-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^61a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^61a-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 62
 
@@ -1182,9 +1182,9 @@ Die zuständige Behörde kann Bewilligungen, ausgenommen die Niederlassungsbewil
 <sup>2</sup> Unzulässig ist ein Widerruf, der nur damit begründet wird, dass ein Delikt begangen wurde, für das ein Strafgericht bereits eine Strafe oder Massnahme verhängt, jedoch von einer Landesverweisung abgesehen hat.
 
 [^62-1]: Fassung gemäss Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^62-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-3]: Eingefügt durch Anhang Ziff. II 1 des Bürgerrechtsgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
-[^62-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^62-4]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^62-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)). Berichtigung der Redaktionskommission der BVers vom 10. Aug. 2018, veröffentlicht am 18. Sept. 2018 ([AS 2018 3213](https://fedlex.data.admin.ch/eli/oc/2018/515)).
 
 #### Art. 63
@@ -1207,7 +1207,7 @@ Die Niederlassungsbewilligung kann nur widerrufen werden, wenn:
 
 [^63-1]: Fassung gemäss Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^63-2]: Eingefügt durch Anhang Ziff. II 1 des Bürgerrechtsgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
-[^63-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^63-3]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^63-4]: Ursprünglich: Bst. d. Aufgehoben durch Ziff. IV 3 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^63-5]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^63-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
@@ -1350,7 +1350,7 @@ Die zuständige Behörde kann Ausländerinnen und Ausländer nach der Eröffnung
 [^65-2]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.3.2017, S. 1.
 [^65-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^65-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^65-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^65-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^65-6]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 #### Art. 66
@@ -1428,9 +1428,9 @@ Die zuständige Behörde trägt in das Schengener Informationssystem (SIS) die D
 <sup>6</sup> Der Bundesrat regelt das Verfahren und die Zuständigkeiten für die Erfassung und Übermittlung der Daten nach den Absätzen 1–5 zwecks Ausschreibungen im SIS. Er kann Ausnahmen bei der Erfassung und Lieferung hinsichtlich der biometrischen Daten vorsehen.
 
 [^68a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021, Abs. 1, 2, 4 und 6 in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^68a-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^68a-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^68a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^68a-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^68a-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^68a-5]: Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 14.
 
 #### Art. 68b
@@ -1444,7 +1444,7 @@ Die zuständige Behörde trägt in das Schengener Informationssystem (SIS) die D
 <sup>3</sup> Ist im Zusammenhang mit einer Ausschreibung im SIS eine Konsultation der zuständigen Behörden anderer Schengen-Staaten erforderlich, so erfolgt diese über das SIRENE-Büro.
 
 [^68b-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^68b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst.
 
 #### Art. 68c
 
@@ -1518,8 +1518,8 @@ Die zuständige kantonale Behörde schafft Ausländerinnen und Ausländer aus, w
 <sup>4</sup> Die zuständige Behörde stellt vor der Ausschaffung von unbegleiteten minderjährigen Ausländerinnen und Ausländern sicher, dass diese im Rückkehrstaat einem Familienmitglied, einem Vormund oder einer Aufnahmeeinrichtung übergeben werden, welche den Schutz des Kindes gewährleisten*.*[^69-5]
 
 [^69-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^69-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^69-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^69-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^69-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^69-4]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^69-5]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
@@ -1547,8 +1547,8 @@ Das Eidgenössische Justiz- und Polizeidepartement (EJPD) unterstützt die mit d
 
 <sup>2</sup> Das EJPD kann bei der Erfüllung der Aufgaben nach Absatz 1, insbesondere Buchstaben a und b, mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Europäischen Agentur zusammenarbeiten.[^71-5]
 
-[^71-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^71-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^71-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^71-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^71-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^71-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^71-5]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
@@ -1651,7 +1651,7 @@ Die zuständige kantonale Behörde kann einer Person die Auflage machen, ein ihr
 
 [^74-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^74-2]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^74-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^74-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^74-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^74-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1677,8 +1677,8 @@ Um die Durchführung eines Weg- oder Ausweisungsverfahrens oder eines strafrecht
 
 <sup>2</sup> Die zuständige Behörde entscheidet über die Aufenthaltsberechtigung der inhaftierten Person ohne Verzug.
 
-[^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^75-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^75-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^75-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^75-4]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^75-5]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
@@ -1712,13 +1712,13 @@ Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine e
 
 <sup>4</sup> Die für den Vollzug der Wegweisung, der Ausweisung oder der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG notwendigen Vorkehren sind umgehend zu treffen.[^76-13]
 
-[^76-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^76-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^76-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^76-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-4]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Aufgehoben durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-6]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
-[^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^76-7]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^76-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-9]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Aufgehoben durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), mit Wirkung seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76-10]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1767,7 +1767,7 @@ Die betroffene Person kann in Haft belassen oder in Haft genommen werden ab Haft
 
 [^76a-1]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76a-2]: Siehe Fussnote zu Art. 64*a* Abs. 1.
-[^76a-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^76a-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^76a-4]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76a-5]: Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. Sept. 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist, ABl. L 222 vom 5.9.2003, S. 3.
 
@@ -1810,8 +1810,8 @@ Die Haft wird beendet, wenn:
 - c. die Ausschaffungshaft angeordnet wird;
 - d. einem Haftentlassungsgesuch entsprochen wird.
 
-[^78-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^78-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^78-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^78-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^78-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^78-4]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^78-5]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1835,7 +1835,7 @@ Die maximale Haftdauer kann mit Zustimmung der kantonalen richterlichen Behörde
 
 **Haftanordnung und Haftüberprüfung**
 
-<sup>1</sup> Die Haft wird von den Behörden des Kantons angeordnet, welcher für den Vollzug der Weg- oder Ausweisung zuständig ist. Für Personen, welche sich in den Zentren des Bundes aufhalten, ist für die Anordnung der Vorbereitungshaft (Art. 75) der Standortkanton zuständig. In den Fällen nach Artikel 76 Absatz 1 Buchstabe b Ziffer 5 wird die Haft vom Standortkanton der Zentren des Bundes angeordnet.[^80-1]
+<sup>1</sup> Die Haft wird von den Behörden des Kantons angeordnet, welcher für den Vollzug der Weg- oder Ausweisung zuständig ist. Für Personen, welche sich in den Zentren des Bundes aufhalten, ist für die Anordnung der Vorbereitungshaft (Art. 75) der Standortkanton zuständig.[^80-1]
 
 <sup>1bis</sup> In den Fällen nach Artikel 76 Absatz 1 Buchstabe b Ziffer 5 wird die Haft vom Standortkanton der Zentren des Bundes angeordnet; wurde gestützt auf Artikel 46 Absatz 1<sup>bis</sup> dritter Satz AsylG[^80-2] ein anderer als der Standortkanton für den Vollzug der Wegweisung als zuständig bezeichnet, so ist dieser auch für die Anordnung der Haft zuständig.[^80-3]
 
@@ -1857,8 +1857,8 @@ Die Haft wird beendet, wenn:
 - b. einem Haftentlassungsgesuch entsprochen wird;
 - c. die inhaftierte Person eine freiheitsentziehende Strafe oder Massnahme antritt.
 
-[^80-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^80-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^80-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Berichtigung der RedK der BVers vom 26. Mai 2025, veröffentlicht am 28. Mai 2025 ([AS 2025 342](https://fedlex.data.admin.ch/eli/oc/2025/342)).
+[^80-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^80-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80-4]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^80-5]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -1897,7 +1897,7 @@ Die Haft wird beendet, wenn:
 
 [^80a-1]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^80a-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^80a-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^80a-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^80a-4]: Aufgehoben durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80a-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1934,7 +1934,7 @@ Die zuständige Behörde kann anordnen, dass die Möglichkeiten einer inhaftiert
 [^81-4]: Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger, Fassung gemäss ABl. L 348 vom 24.12.2008, S. 98.
 [^81-5]: Siehe Fussnote zu Art. 64*a* Abs. 1.
 [^81-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^81-7]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^81-7]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 [^81-8]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^81-9]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^81-10]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
@@ -1963,8 +1963,8 @@ Der Bund kann sich für einen befristeten Zeitraum mit einer Tagespauschale an d
 - c. das kantonale Ausreisezentrum der kurzzeitigen Unterbringung von ausländischen Personen dient, die beim illegalen Übertritt im entsprechenden Grenzraum aufgegriffen und nach Artikel 64*c* Absatz 1 Buchstabe a formlos weggewiesen wurden.[^82-4]
 
 [^82-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^82-2]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
-[^82-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-2]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
+[^82-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^82-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022 (Finanzielle Unterstützung von Kantonen mit Ausreisezentren an der Grenze), in Kraft seit 1. Juni 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## 11. Kapitel: Vorläufige Aufnahme
@@ -2007,10 +2007,10 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 [^83-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^83-5]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-6]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-7]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^83-8]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^83-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^83-10]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^83-9]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^83-10]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^83-11]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-12]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2052,7 +2052,7 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>8</sup> …[^85-7]
 
-[^85-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85-2]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), mit Wirkung seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85-3]: Zweiter Satz eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^85-4]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2016 (Integration), mit Wirkung seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2085,7 +2085,7 @@ Die Aufnahme und die Beendigung der unselbstständigen Erwerbstätigkeit sowie e
 <sup>6</sup> Er regelt das Meldeverfahren.
 
 [^85a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85a-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85a-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85a-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
@@ -2135,8 +2135,8 @@ Ehegatten und ledige Kinder unter 18 Jahren von vorläufig aufgenommenen Persone
 <sup>3</sup> Hat das SEM bei der Prüfung des Nachzugs nach Absatz 1 Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 105*a* ZGB[^85c-3] vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde.[^85c-4] Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
 
 [^85c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^85c-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^85c-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
@@ -2156,14 +2156,14 @@ Für die folgenden Personen gelten bezüglich Sozialhilfestandards die gleichen 
 
 <sup>2</sup> Bezüglich obligatorischer Krankenversicherung für vorläufig aufgenommene Personen sind die entsprechenden Bestimmungen für Asylsuchende nach dem AsylG und dem Bundesgesetz vom 18. März 1994[^86-8] über die Krankenversicherung anwendbar.
 
-[^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^86-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^86-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^86-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^86-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^86-6]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^86-7]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-8]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 87
 
@@ -2185,12 +2185,12 @@ Der Bund zahlt den Kantonen für:
 <sup>4</sup> Die Pauschale nach Absatz 1 Buchstabe d wird während längstens fünf Jahren nach der Anerkennung der Staatenlosigkeit ausgerichtet.[^87-9]
 
 [^87-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^87-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^87-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^87-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-4]: Eingefügt durch Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^87-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^87-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^87-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^87-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^87-7]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^87-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-9]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -2203,7 +2203,7 @@ Der Bund zahlt den Kantonen für:
 <sup>2</sup> Die Pflicht zur Sonderabgabe besteht längstens zehn Jahre seit der Einreise.
 
 [^88-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^88-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^88-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 88a
 
@@ -2287,7 +2287,7 @@ Kann ein Luftverkehrsunternehmen nicht nachweisen, dass es seiner Sorgfaltspflic
 [^93-1]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
 [^93-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^93-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^93-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^93-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^93-5]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
 #### Art. 94
@@ -2365,10 +2365,10 @@ Der Bundesrat bestimmt, welche Daten den Behörden nach Absatz 1 gemeldet werden
 
 <sup>4</sup> Erhält eine Behörde nach Absatz 1 in Anwendung von Artikel 26*a* ELG Daten über den Bezug einer Ergänzungsleistung, so meldet sie dem für die Festsetzung und die Auszahlung der Ergänzungsleistung zuständigen Organ unaufgefordert die mögliche Nichtverlängerung oder den möglichen Widerruf der Aufenthaltsbewilligung.[^97-9]
 
-[^97-1]: Für Daten im Zusammenhang mit Schwarzarbeit gelten die Art. 11 und 12 des BG vom 17. Juni 2005 gegen die Schwarzarbeit ([SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)).
+[^97-1]: Für Daten im Zusammenhang mit Schwarzarbeit gelten die Art. 11 und 12 des BG vom 17. Juni 2005 gegen die Schwarzarbeit ([SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)).
 [^97-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-3]: Eingefügt durch Ziff. III 1 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-4]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^97-4]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^97-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2385,7 +2385,7 @@ Der Bundesrat bestimmt, welche Daten den Behörden nach Absatz 1 gemeldet werden
 
 <sup>3</sup> Die Kantone bezeichnen die Behörden, welche für die ihnen übertragenen Aufgaben zuständig sind.
 
-[^98-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^98-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^98-2]: Fassung gemäss Art. 35 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 
 #### Art. 98a
@@ -2395,7 +2395,7 @@ Der Bundesrat bestimmt, welche Daten den Behörden nach Absatz 1 gemeldet werden
 Das mit dem Vollzug dieses Gesetzes beauftragte Personal darf zur Erfüllung seines Auftrags und, soweit die zu schützenden Rechtsgüter es rechtfertigen, polizeilichen Zwang und polizeiliche Massnahmen anwenden. Das Zwangsanwendungsgesetz vom 20. März 2008[^98a-2] ist anwendbar.
 
 [^98a-1]: Eingefügt durch Anhang Ziff. 2 des Zwangsanwendungsgesetzes vom 20. März 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [BBl 2006 2489](https://fedlex.data.admin.ch/eli/fga/2006/250)).
-[^98a-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^98a-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 98b
 
@@ -2788,7 +2788,7 @@ Die Luftverkehrsunternehmen dürfen die Daten nach Absatz 3 ausschliesslich zu B
 [^104-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^104-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^104-6]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104a
@@ -2885,7 +2885,7 @@ Folgende Personendaten können bekannt gegeben werden:
 - g. Angaben über Aufenthaltsorte und Reisewege;
 - h. Angaben über die Regelung des Aufenthalts und erteilte Visa.
 
-[^105-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^105-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^105-2]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 106
@@ -2929,7 +2929,7 @@ Zum Zweck der Durchbeförderung Angehöriger von Drittstaaten können dem andere
 
 <sup>4</sup> Die Zweckbindung, allfällige Sicherheitsmassnahmen sowie die zuständigen Behörden sind im Rückübernahme- oder Transitabkommen festzulegen.
 
-[^107-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^107-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 #### Art. 108 und 109
 
@@ -3041,10 +3041,10 @@ Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des nationalen
 
 [^109c-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109c-3]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^109c-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^109c-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^109c-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^109c-3]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^109c-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^109c-5]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^109c-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 109d
 
@@ -3095,8 +3095,8 @@ Das Informationssystem dient:
 - c. der Erstellung von Statistiken;
 - d.[^109f-3] der Übermittlung von Statistiken und von Personendaten nach Artikel 105 Absatz 2 an die für die Überwachung der Schengen-Aussengrenzen zuständige Agentur der Europäischen Union gestützt auf die Verordnung (EU) 2019/1896[^109f-4].
 
-[^109f-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^109f-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109f-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^109f-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^109f-3]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^109f-4]: Siehe Fussnote zu Art. 7 Abs. 1<sup>bis</sup>.
 
@@ -3135,7 +3135,7 @@ Es enthält folgende Datenkategorien:
 
 <sup>4</sup> Das SEM informiert die Personen, deren Daten im System erfasst sind, über den Zweck der Bearbeitung dieser Daten, die Datenkategorien und die Datenempfänger.
 
-[^109g-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^109g-1]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 109h
 
@@ -3175,7 +3175,7 @@ Das SEM kann beauftragten Dritten Zugriff auf die zur Erfüllung ihres Auftrags 
 
 <sup>4</sup> Der Bundesrat legt fest, welche Kategorien von Personendaten die in Absatz 1 genannten beauftragten Dritten im Informationssystem bearbeiten dürfen.
 
-[^109i-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^109i-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 109j
 
@@ -3290,7 +3290,7 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 - b. internationale Organisationen;
 - c. private Stellen.[^111d-4]
 
-[^111d-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^111d-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^111d-2]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-3]: Fassung gemäss Anhang 1 Ziff. II 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -3377,7 +3377,7 @@ Die nach den Absätzen 1 und 2 übermittelten Daten werden von der Zentraleinhei
 <sup>9</sup> Auf die Verfahren nach den Absätzen 1–8 sind die Artikel 102*b*, 102*c* und 102*e* AsylG[^111i-2] anwendbar.
 
 [^111i-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^111i-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^111i-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## 15. Kapitel: Rechtsschutz
 
@@ -3657,7 +3657,7 @@ Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember
 - b. im Fall einer Verletzung der Meldepflicht: spätestens zwei Jahre nach dem Datum, an dem nach Artikel 104 Absatz 1 die Daten hätten übermittelt werden müssen.
 
 [^122c-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^122c-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^122c-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 17. Kapitel: Gebühren
 
@@ -3687,8 +3687,8 @@ Die Richtlinie 2008/115/EG[^124a-2] findet keine Anwendung auf die Anordnung und
 
 [^124a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^124a-2]: Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger, Fassung gemäss ABl. L 348 vom 24.12.2008, S. 98.
-[^124a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^124a-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^124a-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^124a-4]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 125
 
@@ -3712,7 +3712,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 <sup>6</sup> Mit dem Inkrafttreten des Bundesgesetzes vom 20. Juni 2003[^126-1] über das Informationssystem für den Ausländer- und den Asylbereich werden die Artikel 108 und 109 aufgehoben.
 
-[^126-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^126-1]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 126a
 
@@ -3733,7 +3733,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 <sup>7</sup> Ist die vorläufige Aufnahme vor Inkrafttreten der Änderung vom 16. Dezember 2005 des AsylG rechtskräftig aufgehoben worden, so zahlt der Bund den Kantonen eine einmalige Pauschale von 15 000 Franken, sofern diese Personen die Schweiz noch nicht verlassen haben.
 
 [^126a-1]: Eingefügt durch Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^126a-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^126a-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^126a-3]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 [^126a-4]: [AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)
 
@@ -3765,7 +3765,7 @@ Zum Zeitpunkt des Inkrafttretens der Änderung vom 20. Juni 2014 dieses Gesetzes
 <sup>2</sup> Bei hängigen Verfahren nach den Artikeln 76 Absatz 1 Buchstabe b Ziffer 5 und 76*a* Absatz 3 gelten die Artikel 80 Absatz 1 dritter Satz und Absatz 2<sup>bis</sup>, Artikel 80*a* Absätze 1 und 2 des vorliegenden Gesetzes sowie die Artikel 108 Absatz 4, 109 Absatz 3, 110 Absatz 4 Buchstabe b, 111 Buchstabe d AsylG[^126d-2] in der bisherigen Fassung.
 
 [^126d-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 126e und 126f
 
@@ -3832,11 +3832,11 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - d. Abkommen vom 28. April 2005[^annex1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - e. Protokoll vom 28. Februar 2008[^annex1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvl1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvl1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvl1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvl1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Dublin-Assoziierungsabkommen
 
@@ -3847,10 +3847,10 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annex1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annex1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Anhang 2[^t-3]
 

@@ -4,20 +4,20 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2025-04-01
+version: 2025-05-28
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250401-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250528/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250528-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250528/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les étrangers et l’intégration<sup></sup>
+# Loi fédérale sur les étrangers et l’intégration<sup>∗</sup>
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> avril 2025)
+du 16 décembre 2005 (État le 28 mai 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -28,7 +28,7 @@ vu l’art. 121, al. 1, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)
 
 ## Chapitre 1 Objet et champ d’application
@@ -53,8 +53,8 @@ La présente loi règle l’entrée en Suisse et la sortie de Suisse, le séjour
 
 <sup>5</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 1, ch. 1.[^2-4]
 
-[^2-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)(Les relations entre la Suisse et le Liechtenstein sont régies par le Prot. du 21 juin 2001, qui fait partie intégrante de l’Ac. amendant la Conv. instituant l’AELE).
+[^2-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)(Les relations entre la Suisse et le Liechtenstein sont régies par le Prot. du 21 juin 2001, qui fait partie intégrante de l’Ac. amendant la Conv. instituant l’AELE).
 [^2-3]: Introduit par l’art. 127. Nouvelle teneur selon le ch. I de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des Ac. d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^2-4]: Introduit par le ch. I de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des Ac. d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
@@ -104,8 +104,8 @@ Pour entrer en Suisse, tout étranger doit:
 <sup>4</sup> Le Conseil fédéral désigne les pièces de légitimation reconnues pour le passage de la frontière.[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^5-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^5-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^5-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^5-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^5-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^5-5]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 
@@ -123,7 +123,7 @@ Pour entrer en Suisse, tout étranger doit:
 
 [^6-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^6-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^6-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^6-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^6-4]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^6-5]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 
@@ -465,7 +465,7 @@ Il est possible de déroger aux conditions d’admission (art. 18 à 29) dans le
 [^30-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^30-3]: Abrogée par le ch. I de la LF du 18 juin 2010 (Faciliter l’admission des étrangers diplômés d’une haute école suisse), avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5957](https://fedlex.data.admin.ch/eli/oc/2010/854); [FF 2010 373](https://fedlex.data.admin.ch/eli/fga/2010/119)[391](https://fedlex.data.admin.ch/eli/fga/2010/121)).
 [^30-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^30-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^30-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### Section 4 Apatrides
 
@@ -477,10 +477,10 @@ Il est possible de déroger aux conditions d’admission (art. 18 à 29) dans le
 
 <sup>3</sup> Les apatrides au sens des al. 1 et 2 ainsi que les apatrides sous le coup d’une expulsion entrée en force au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^31-1] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^31-2] ou de l’art. 68 de la présente loi peuvent exercer dans toute la Suisse une activité lucrative.[^31-3] L’art. 61 LAsi[^31-4] est applicable par analogie.[^31-5]
 
-[^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^31-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^31-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^31-3]: Nouvelle teneur selon le ch. III de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^31-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^31-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^31-5]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Chapitre 6 Réglementation du séjour
@@ -657,7 +657,7 @@ Le centre chargé de produire les titres de séjour biométrique et les entrepri
 <sup>5</sup> Le Conseil fédéral détermine les autres conditions applicables au centre chargé de produire les titres de séjour, aux entreprises générales, aux prestataires de services et aux fournisseurs.
 
 [^41b-1]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant l’introduction des données biométriques dans les titres de séjour pour étrangers, en vigueur depuis le 24 janv. 2011 ([RO 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^41b-2]: [[RO 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch II 2. [RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Voir actuellement l’O du 4 mars 2011 ([RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^41b-2]: [[RO 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch II 2. [RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Voir actuellement l’O du 4 mars 2011 ([RS 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744)).
 
 ## Chapitre 7 Regroupement familial
 
@@ -705,7 +705,7 @@ Le conjoint étranger du titulaire d’une autorisation d’établissement ainsi
 <sup>6</sup> Les enfants de moins de douze ans ont droit à l’octroi d’une autorisation d’établissement.
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^43-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^43-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 44
 
@@ -728,7 +728,7 @@ Le conjoint étranger du titulaire d’une autorisation de séjour ainsi que ses
 <sup>4</sup> L’octroi et la prolongation d’une autorisation de séjour peuvent être subordonnés à la conclusion d’une convention d’intégration lorsque se présentent des besoins d’intégration particuliers conformément aux critères définis à l’art. 58*a*.
 
 [^44-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^44-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^44-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 45
 
@@ -742,7 +742,7 @@ Le conjoint étranger du titulaire d’une autorisation de courte durée ainsi q
 - d.[^45-1] la personne à l’origine de la demande de regroupement familial ne perçoit pas de prestations complémentaires annuelles au sens de la LPC[^45-2] ni ne pourrait en percevoir grâce au regroupement familial.
 
 [^45-1]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^45-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^45-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 45a
 
@@ -751,7 +751,7 @@ Le conjoint étranger du titulaire d’une autorisation de courte durée ainsi q
 Si l’examen des conditions du regroupement familial définies aux art. 42 à 45 révèle des indices d’une cause absolue d’annulation du mariage au sens de l’art. 105, ch. 5, ou 105*a* du code civil (CC)[^45a-2], les autorités compétentes en informent l’autorité visée à l’art. 106 CC.[^45a-3] La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
 
 [^45a-1]: Introduit par le ch. I 1 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^45a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^45a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
@@ -842,7 +842,7 @@ Les raisons personnelles majeures visées à l’al. 1, let. b, sont notamment d
 
 [^50-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 [^50-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-3]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-3]: [RS 312.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6225)
 [^50-4]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 [^50-5]: Introduit par le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
@@ -984,7 +984,7 @@ Les cantons prévoient le plus tôt possible des mesures appropriées pour les �
 <sup>5</sup> Le Conseil fédéral définit, d’entente avec les cantons, les domaines qui font l’objet de mesures d’encouragement et règle les modalités de la procédure prévue aux al. 2 et 3.
 
 [^58-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^58-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^58-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ### Section 2 Exigences en matière d’intégration
 
@@ -1048,11 +1048,11 @@ Ont droit à des documents de voyage:
 <sup>5 et <sup>6</sup></sup> …[^59-9]
 
 [^59-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^59-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^59-3]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^59-4]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^59-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^59-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^59-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^59-3]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^59-4]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^59-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^59-6]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^59-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^59-8]: Abrogé par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-9]: Introduits par l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)). Abrogés par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -1066,8 +1066,8 @@ Ont droit à des documents de voyage:
 <sup>2</sup> Le Conseil fédéral détermine quels types de documents de voyage destinés aux étrangers sont munis d’une puce et les données qui doivent y être enregistrées.
 
 [^59a-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^59a-2]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^59a-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^59a-2]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^59a-3]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 59b
 
@@ -1080,7 +1080,7 @@ Ont droit à des documents de voyage:
 <sup>3</sup> Les données biométriques nécessaires à l’établissement d’un document de voyage font l’objet d’une nouvelle saisie tous les cinq ans. Le Conseil fédéral peut fixer des délais de saisie plus courts lorsque l’évolution physionomique de la personne l’exige.
 
 [^59b-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^59b-2]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^59b-2]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 59c
 
@@ -1120,7 +1120,7 @@ L’aide au retour et à la réintégration comporte:
 <sup>4</sup> Le Conseil fédéral fixe les conditions et définit la procédure de versement et de décompte des contributions.
 
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^60-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^60-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^60-3]: Nouvelle teneur selon le ch. IV 2 de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### Section 2 Extinction et révocation des autorisations et extinction du droit de séjour
@@ -1147,8 +1147,8 @@ L’autorisation prend fin:
 <sup>2</sup> Si un étranger quitte la Suisse sans déclarer son départ, l’autorisation de courte durée prend automatiquement fin après trois mois, l’autorisation de séjour ou d’établissement après six mois. Sur demande, l’autorisation d’établissement peut être maintenue pendant quatre ans.
 
 [^61-1]: Introduite par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels) ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^61-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^61-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^61-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^61-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^61-4]: Introduite par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 61a
@@ -1166,8 +1166,8 @@ L’autorisation prend fin:
 <sup>5</sup> Les al. 1 à 4 ne s’appliquent pas aux personnes dont les rapports de travail cessent en raison d’une incapacité temporaire de travail pour cause de maladie, d’accident ou d’invalidité ni à celles qui peuvent se prévaloir d’un droit de demeurer en vertu de l’accord du 21 juin 1999 entre, d’une part, la Confédération suisse, et, d’autre part, la Communauté européenne et ses États membres sur la libre circulation des personnes (ALCP)[^61a-2] ou de la convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (convention AELE)[^61a-3].
 
 [^61a-1]: Introduit par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^61a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^61a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^61a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^61a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 62
 
@@ -1188,9 +1188,9 @@ L’autorité compétente peut révoquer une autorisation, à l’exception de l
 <sup>2</sup> Est illicite toute révocation fondée uniquement sur des infractions pour lesquelles un juge pénal a déjà prononcé une peine ou une mesure mais a renoncé à prononcer une expulsion.
 
 [^62-1]: Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^62-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^62-3]: Introduite par l’annexe ch. II 1 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
-[^62-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^62-4]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^62-5]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)). Erratum de la Commission de rédaction de l’Ass. féd. du 10 août 2018, publié le 18 sept. 2018 ([RO 2018 3213](https://fedlex.data.admin.ch/eli/oc/2018/515)).
 
 #### Art. 63
@@ -1213,7 +1213,7 @@ L’autorisation d’établissement ne peut être révoquée que dans les cas su
 
 [^63-1]: Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^63-2]: Introduite par l’annexe ch. II 1 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
-[^63-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^63-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^63-4]: Anciennement let. d. Abrogée par l’annexe ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^63-5]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^63-6]: Introduit par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
@@ -1356,7 +1356,7 @@ Après la notification d’une décision de renvoi, l’autorité compétente pe
 [^65-2]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), version du JO L 77 du 23.3.2016, p. 1; mod. en vertu du R (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
 [^65-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^65-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^65-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^65-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^65-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 #### Art. 66
@@ -1434,9 +1434,9 @@ L’autorité compétente inscrit dans le système d’information Schengen (SIS
 <sup>6</sup> Le Conseil fédéral définit la procédure et les compétences en matière de saisie et de transmission des données visées aux al. 1 à 5 en vue des signalements dans le SIS. Il peut prévoir des exceptions à la saisie et à la transmission des données biométriques.
 
 [^68a-1]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021, al. 1, 2, 4 et 6 depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^68a-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^68a-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^68a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^68a-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^68a-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^68a-5]: Règlement (UE) 2018/1861 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006, version du JO L 312 du 7.12.2018, p. 14.
 
 #### Art. 68b
@@ -1450,7 +1450,7 @@ L’autorité compétente inscrit dans le système d’information Schengen (SIS
 <sup>3</sup> Si une consultation des autorités compétentes d’autres États Schengen est nécessaire en lien avec un signalement dans le SIS, celle-ci a lieu par le bureau SIRENE.
 
 [^68b-1]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68b-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^68b-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 #### Art. 68c
 
@@ -1524,8 +1524,8 @@ L’autorité cantonale compétente exécute le renvoi ou l’expulsion d’un �
 <sup>4</sup> Avant de renvoyer ou d’expulser un étranger mineur non accompagné, l’autorité compétente s’assure qu’il sera remis à un membre de sa famille, à un tuteur ou à une structure d’accueil pouvant garantir sa protection dans l’État concerné.[^69-5]
 
 [^69-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^69-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^69-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^69-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^69-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^69-4]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^69-5]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
@@ -1553,8 +1553,8 @@ Le Département fédéral de justice et police (DFJP) assiste les cantons qui so
 
 <sup>2</sup> Le DFJP peut collaborer avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen dans l’accomplissement de ses tâches au sens de l’al. 1, notamment let. a et b.[^71-5]
 
-[^71-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^71-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^71-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^71-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^71-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^71-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^71-5]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
@@ -1657,7 +1657,7 @@ L’autorité cantonale compétente peut enjoindre à un étranger de ne pas qui
 <sup>3</sup> Ces mesures peuvent faire l’objet d’un recours auprès d’une autorité judiciaire cantonale. Le recours n’a pas d’effet suspensif.
 
 [^74-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^74-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^74-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^74-3]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^74-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1683,8 +1683,8 @@ Afin d’assurer l’exécution d’une procédure de renvoi ou d’expulsion ou
 
 <sup>2</sup> L’autorité compétente prend sans délai une décision quant au droit de séjour de la personne mise en détention.
 
-[^75-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^75-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^75-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^75-3]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^75-4]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^75-5]: Introduite par le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
@@ -1718,14 +1718,14 @@ Après notification d’une décision de première instance de renvoi ou d’exp
 
 <sup>4</sup> Les démarches nécessaires à l’exécution du renvoi, de l’expulsion au sens de la présente loi ou de l’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM doivent être entreprises sans tarder.[^76-14]
 
-[^76-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^76-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^76-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^76-3]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^76-5]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-6]: Abrogé par l’annexe ch. 1 de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-7]: Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8979](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
-[^76-8]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^76-8]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^76-9]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-10]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE; [RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Abrogé par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76-11]: Introduit par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1774,7 +1774,7 @@ Les éléments concrets suivants font craindre que l’étranger entend se soust
 
 [^76a-1]: Introduit par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76a-2]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
-[^76a-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^76a-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^76a-4]: Introduite par le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76a-5]: R (CE) n<sup>o</sup> 1560/2003 de la Commission du 2 sept. 2003 portant modalités d’application du R (CE) n<sup>o</sup> 343/2003 du Conseil établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande d’asile présentée dans l’un des États membres par un ressortissant d’un pays tiers, JO L 222 du 5.9.2003, p. 3.
 
@@ -1817,8 +1817,8 @@ La détention est levée dans les cas suivants:
 - c. la détention en vue du renvoi ou de l’expulsion est ordonnée;
 - d. une demande de levée de la détention est déposée et approuvée.
 
-[^78-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^78-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^78-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^78-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^78-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^78-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^78-5]: Nouvelle teneur selon l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1864,8 +1864,8 @@ La détention est levée dans les cas suivants:
 - b. la demande de levée de détention est admise;
 - c. la personne détenue doit subir une peine ou une mesure privative de liberté.
 
-[^80-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^80-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^80-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)). L’erratum de la CdR de l’Ass. féd. du 26 mai 2025, publiée le 28 mai 2025, ne concerne que le texte allemand ([RO 2025 342](https://fedlex.data.admin.ch/eli/oc/2025/342))
+[^80-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^80-3]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^80-5]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE; [RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -1904,7 +1904,7 @@ La détention est levée dans les cas suivants:
 
 [^80a-1]: Introduit par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^80a-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^80a-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^80a-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^80a-4]: Abrogé par l’annexe ch. 1 de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80a-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1941,7 +1941,7 @@ L’autorité compétente peut restreindre les possibilités d’un étranger en
 [^81-4]: Directive 2008/115/CE du Parlement européen et du Conseil du 16 déc. 2008 relative aux normes et procédures communes applicables dans les État membres au retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 348 du 24.12.2008, p. 98.
 [^81-5]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
 [^81-6]: Introduite par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^81-7]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^81-7]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 [^81-8]: Introduit par l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^81-9]: Introduit par le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^81-10]: Introduit par le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
@@ -1970,8 +1970,8 @@ La Confédération peut participer pendant une période limitée, à raison d’
 - c. que le centre cantonal de départ serve à héberger à court terme des étrangers appréhendés dans la zone frontalière concernée lors de leur entrée illégale en Suisse et renvoyés sans décision formelle au sens de l’art. 64*c*, al. 1, let. a.[^82-4]
 
 [^82-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^82-2]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
-[^82-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^82-2]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
+[^82-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^82-4]: Introduit par le ch. I de la LF du 16 déc. 2022 (Soutien financier aux cantons qui gèrent des centres de départ à la frontière), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [FF 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 ## Chapitre 11 Admission provisoire
@@ -2013,11 +2013,11 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 [^83-3]: Nouvelle teneur de la phrase selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-4]: Introduit par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^83-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^83-7]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^83-8]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^83-8]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^83-9]: Nouvelle expression selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)). Il a été tenu compte de cette mod. dans tout le texte.
-[^83-10]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^83-10]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^83-11]: Introduit par l’annexe ch. 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels) ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^83-12]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2059,7 +2059,7 @@ L’admission provisoire visée aux al. 2 et 4 n’est pas ordonnée dans les ca
 
 <sup>8</sup> …[^85-7]
 
-[^85-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85-2]: Abrogés par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), avec effet au 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85-3]: Phrase introduite par l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^85-4]: Abrogé par le ch. I de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2092,7 +2092,7 @@ Le début et la fin de l’activité lucrative salariée ainsi que les changemen
 <sup>6</sup> Il règle la procédure d’annonce.
 
 [^85a-1]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^85a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^85a-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85a-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85a-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85a-5]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
@@ -2142,8 +2142,8 @@ Le conjoint et les enfants célibataires de moins de 18 ans d’une personne adm
 <sup>3</sup> Si l’examen des conditions du regroupement familial définies à l’al. 1 révèle des indices d’une cause absolue d’annulation au sens de l’art. 105, ch. 5, ou 105*a* CC[^85c-3], le SEM en informe l’autorité visée à l’art. 106 CC.[^85c-4] La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
 
 [^85c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^85c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^85c-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^85c-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^85c-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
@@ -2163,14 +2163,14 @@ Les dispositions qui régissent l’aide sociale octroyée aux réfugiés auxque
 
 <sup>2</sup> L’assurance-maladie obligatoire pour les personnes admises à titre provisoire est régie par les dispositions de la LAsi et de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^86-8] applicables aux requérants d’asile.
 
-[^86-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^86-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^86-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^86-3]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^86-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^86-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^86-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^86-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^86-6]: Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^86-7]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-8]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-8]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 87
 
@@ -2192,12 +2192,12 @@ La Confédération verse aux cantons:
 <sup>4</sup> Les indemnités forfaitaires visées à l’al. 1, let. d, sont versées au plus pendant cinq ans à compter de la reconnaissance de l’apatridie.[^87-9]
 
 [^87-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^87-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^87-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^87-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-4]: Introduite par le ch. IV 2 de la L du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^87-5]: Introduite par l’annexe ch. 1 de la LF du 25 sept. 2015 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^87-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^87-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^87-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^87-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^87-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-9]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -2210,7 +2210,7 @@ La Confédération verse aux cantons:
 <sup>2</sup> L’assujettissement à la taxe spéciale prend fin dix ans au plus tard à compter de l’entrée en Suisse.
 
 [^88-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416)).
-[^88-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^88-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 88a
 
@@ -2290,7 +2290,7 @@ Si l’entreprise de transport aérien ne peut pas prouver qu’elle a rempli so
 [^93-1]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 [^93-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^93-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^93-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^93-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^93-5]: Nouvelle teneur selon le ch. I de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des Ac. d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
 #### Art. 94
@@ -2368,10 +2368,10 @@ Le Conseil fédéral détermine les données à communiquer aux autorités en ve
 
 <sup>4</sup> Lorsqu’une des autorités visées à l’al. 1 reçoit, en application de l’art. 26*a* LPC, des données concernant le versement d’une prestation complémentaire, elle communique spontanément la non-prolongation ou la révocation éventuelles de l’autorisation de séjour à l’organe chargé de fixer et de verser la prestation complémentaire.[^97-10]
 
-[^97-1]: Pour les données concernant le travail au noir, les art. 11 et 12 de LF du 17 juin 2005 sur le travail au noir sont applicables ([RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)).
+[^97-1]: Pour les données concernant le travail au noir, les art. 11 et 12 de LF du 17 juin 2005 sur le travail au noir sont applicables ([RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)).
 [^97-2]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-3]: Introduite par le ch. III 1 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-4]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^97-4]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^97-5]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-6]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-7]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2389,7 +2389,7 @@ Le Conseil fédéral détermine les données à communiquer aux autorités en ve
 
 <sup>3</sup> Les cantons désignent les autorités compétentes pour les tâches qui leur sont attribuées.
 
-[^98-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^98-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^98-2]: Nouvelle teneur selon l’art. 35 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 
 #### Art. 98a
@@ -2399,7 +2399,7 @@ Le Conseil fédéral détermine les données à communiquer aux autorités en ve
 Les personnes chargées de l’exécution de la présente loi peuvent, si leur mandat l’exige et dans la mesure où les intérêts à protéger le justifient, faire usage de la contrainte et de mesures policières. La loi du 20 mars 2008 sur l’usage de la contrainte[^98a-2] est applicable.
 
 [^98a-1]: Introduit par l’annexe ch. 2 de la LF du 20 mars 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2429](https://fedlex.data.admin.ch/eli/fga/2006/250)).
-[^98a-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^98a-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 98b
 
@@ -2508,7 +2508,7 @@ Le Conseil fédéral peut conclure avec des États étrangers ou des organisatio
 <sup>5</sup> Le Conseil fédéral peut confier d’autres tâches à la commission.
 
 [^100b-1]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^100b-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^100b-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 ## Chapitre 14 Traitement et protection des données
 
@@ -2793,7 +2793,7 @@ Les entreprises de transport aérien ne peuvent conserver les données prévues 
 [^104-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-3]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^104-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^104-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^104-6]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104a
@@ -2889,7 +2889,7 @@ Les données personnelles suivantes peuvent être communiquées:
 - g. des indications sur les lieux de séjour et sur les itinéraires empruntés;
 - h des indications sur les autorisations et les visas accordés.
 
-[^105-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^105-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^105-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 106
@@ -2933,7 +2933,7 @@ Les données suivantes peuvent être communiquées à l’autre État contractan
 
 <sup>4</sup> L’accord de réadmission ou de transit doit mentionner le but de l’utilisation des données, les mesures de sécurité à prendre le cas échéant et les autorités compétentes.
 
-[^107-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^107-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 #### Art. 108 et 109
 
@@ -3045,10 +3045,10 @@ Le SEM peut autoriser les organes ci-après à accéder en ligne aux données du
 
 [^109c-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109c-3]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^109c-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^109c-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^109c-6]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^109c-3]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^109c-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^109c-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^109c-6]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 109d
 
@@ -3099,8 +3099,8 @@ Le système d’information sert:
 - c. à établir des statistiques.
 - d.[^109f-3] à transmettre des statistiques et des données personnelles au sens de l’art. 105, al. 2, à l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen en vertu du règlement (UE) 2019/1896[^109f-4].
 
-[^109f-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^109f-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109f-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^109f-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^109f-3]: Introduite par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^109f-4]: Cf. note de bas de page relative à l’art. 7, al. 1<sup>bis</sup>.
 
@@ -3139,7 +3139,7 @@ Il contient les catégories de données suivantes:
 
 <sup>4</sup> Le SEM informe les personnes dont les données sont saisies dans le système de la finalité du traitement des données, des catégories de données traitées et des destinataires de ces données.
 
-[^109g-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^109g-1]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 109h
 
@@ -3179,7 +3179,7 @@ Le SEM peut autoriser les tiers mandatés à accéder aux données du système d
 
 <sup>4</sup> Le Conseil fédéral détermine les catégories de données personnelles que les tiers mandatés visés à l’al. 1 sont habilités à traiter dans le système d’information.
 
-[^109i-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^109i-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 109j
 
@@ -3294,7 +3294,7 @@ Les données issues de la banque de données Eurodac ne peuvent en aucun cas êt
 - b. à des organisations internationales;
 - c. à des entités privées.[^111d-4]
 
-[^111d-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^111d-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^111d-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-3]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-4]: Introduit par l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -3381,7 +3381,7 @@ Les données transmises conformément aux al. 1 et 2 sont enregistrées par l’
 <sup>9</sup> Les art. 102*b*, 102*c* et 102*e* LAsi[^111i-2] sont applicables aux procédures définies aux al. 1 à 8.
 
 [^111i-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^111i-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^111i-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Chapitre 15 Voies de droit
 
@@ -3661,7 +3661,7 @@ La procédure est réglée par la loi fédérale du 20 décembre 1968 sur la pro
 - b. dans le cas d’une violation de l’obligation de communiquer: au plus tard dans les deux ans qui suivent la date à laquelle les données visée à l’art. 104, al. 1, auraient dû être transmises.
 
 [^122c-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^122c-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^122c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Chapitre 17 Émoluments
 
@@ -3691,8 +3691,8 @@ La directive 2008/115/CE[^124a-2] ne s’applique pas à la décision et à l’
 
 [^124a-1]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^124a-2]: Directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 348 du 24.12.2008, p. 98.
-[^124a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^124a-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^124a-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^124a-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 125
 
@@ -3716,7 +3716,7 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 <sup>6</sup> À l’entrée en vigueur de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^126-1], les art. 108 et 109 sont abrogés.
 
-[^126-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^126-1]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 126a
 
@@ -3737,7 +3737,7 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 <sup>7</sup> La Confédération verse aux cantons une indemnité unique de 15 000 francs pour chaque personne dont la protection provisoire est levée par une décision exécutoire avant l’entrée en vigueur de la modification du 16 décembre 2005 LAsi, pour autant que cette personne n’ait pas encore quitté la Suisse.
 
 [^126a-1]: Introduit par le ch. IV 2 de la L du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^126a-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^126a-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^126a-3]: [RO 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 [^126a-4]: [RO 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)
 
@@ -3769,7 +3769,7 @@ Les procédures pénales administratives pour violation du devoir de diligence o
 <sup>2</sup> Les procédures pendantes selon les art. 76, al. 1, let. b, ch. 5, et 76*a*, al. 3, sont régies par l’art. 80, al. 1, 3<sup>e</sup> phrase, et al. 2<sup>bis</sup>, par l’art. 80*a*, al. 1 et 2, de la présente loi ainsi que par les art. 108, al. 4, 109, al. 3, 110, al. 4, let. b, et 111, let. d, LAsi[^126d-2], dans leur ancienne teneur.
 
 [^126d-1]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^126d-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^126d-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 126e et 126f
 
@@ -3836,11 +3836,11 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex1-lvl1-4];
 - e. Protocole du 28 février 2008 entre l’Union européenne, la Communauté européenne, la Suisse et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté du Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvl1-5].
 
-[^annex1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Accords d’association à Dublin
 
@@ -3851,10 +3851,10 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex1-lvl2-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État Membre ou en Suisse[^annex1-lvl2-4].
 
-[^annex1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Annexe 2[^t-4]
 
@@ -3874,5 +3874,5 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 
 …[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1]
+[^annex2-lvlu1-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758).
