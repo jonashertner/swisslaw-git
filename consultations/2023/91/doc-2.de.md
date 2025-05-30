@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Genehmigung und Umsetzung des Übereinkommens von Ljubljana und Den Haag über die internationale Zusammenarbeit bei der Ermittlung und Strafverfolgung in Bezug auf das Verbrechen des Völkermords, auf Verbrechen gegen die Menschlichkeit, Kriegsverbrechen und andere internationale Verbrechen"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approvazione e attuazione della Convenzione di Lubiana-L’Aia sulla cooperazione internazionale in materia di indagini e di azione penale per il crimine di genocidio, i crimini contro l’umanità, i crimini di guerra e altri crimini internazionali"
 document: Progetto posto in consultazione-2
 language: it

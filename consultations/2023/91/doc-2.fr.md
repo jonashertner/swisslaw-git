@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approbation et mise en œuvre de la Convention de Ljubljana-La Haye pour la coopération internationale en matière d’enquête et de poursuite du crime de génocide, des crimes contre l’humanité, des crimes de guerre et autres crimes internationaux"
 document: Projet mis en consultation
 language: fr
