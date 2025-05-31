@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° gennaio 2024)
+del 9 marzo 2007 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ vista la legge del 30 aprile 1997[^ingress-1] sulle telecomunicazioni (LTC),[^in
 ordina:
 
 [^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Capitolo 1: Definizioni
 
@@ -39,8 +39,8 @@ Nella presente ordinanza, s’intende per:
 - c.[^1-1] *...*
 - d.[^1-2] *prezzo di accesso:* il prezzo per l’accesso a servizi e dispositivi di fornitori che detengono una posizione dominante sul mercato secondo l’articolo 11 capoverso 1 LTC.
 
-[^1-1]: Abrogata dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^1-2]: Introdotta dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^1-1]: Abrogata dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^1-2]: Introdotta dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 ## Capitolo 2: Disposizioni comuni sui servizi di telecomunicazione
 
@@ -56,7 +56,7 @@ Non fornisce servizi di telecomunicazione chi trasmette informazioni:
 - d. all’interno delle corporazioni di diritto pubblico e tra di esse;
 - e.[^2-1] nell’ambito della trasmissione gratuita di informazioni all’interno di gruppi senza organizzazione centralizzata.
 
-[^2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^2-1]: Introdotta dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 3
 
@@ -66,7 +66,7 @@ Non fornisce servizi di telecomunicazione chi trasmette informazioni:
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione registrati che intendono consentire a fornitori registrati o non ancora registrati di utilizzare risorse di cui all’articolo 4 capoverso 1 LTC devono comunicarlo all’UFCOM.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 4
 
@@ -76,7 +76,7 @@ Non fornisce servizi di telecomunicazione chi trasmette informazioni:
 
 <sup>2</sup> L’UFCOM pubblica l’indirizzo postale. Può renderlo accessibile mediante una procedura di richiamo.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^4-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 5
@@ -85,7 +85,7 @@ Non fornisce servizi di telecomunicazione chi trasmette informazioni:
 
 Il Servizio Sorveglianza della corrispondenza postale e del traffico delle comunicazioni mette gratuitamente a disposizione dell’UFCOM i dati in suo possesso concernenti i fornitori di servizi di telecomunicazione che possono essere importanti per l’esecuzione e la valutazione della legislazione sulle telecomunicazioni.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 6
 
@@ -114,7 +114,7 @@ Il Servizio Sorveglianza della corrispondenza postale e del traffico delle comun
 
 <sup>5</sup> L’UFCOM emana le necessarie prescrizioni tecniche e amministrative.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 8
 
@@ -122,7 +122,7 @@ Il Servizio Sorveglianza della corrispondenza postale e del traffico delle comun
 
 L’ordinanza del 18 novembre 2020[^8-2] sull’utilizzazione dello spettro delle radiofrequenze è applicabile a tutti i fornitori che per proporre i propri servizi di telecomunicazione utilizzano lo spettro delle radiofrequenze.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^8-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 9
@@ -133,8 +133,8 @@ L’ordinanza del 18 novembre 2020[^8-2] sull’utilizzazione dello spettro dell
 
 <sup>2</sup> I fornitori possono adempiere quest’obbligo anche in collaborazione con terzi attivi nel settore delle telecomunicazioni.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10
 
@@ -148,32 +148,12 @@ L’ordinanza del 18 novembre 2020[^8-2] sull’utilizzazione dello spettro dell
 
 <sup>3</sup> I capoversi 1–2 non si applicano alle chiamate ai servizi a valore aggiunto, alle chiamate all’estero e all’utilizzo di reti di telefonia mobile estere (roaming internazionale).[^10-2]
 
-[^10-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10-1]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10a
 
-**Tariffe del roaming internazionale**[^10a-1]
-
-<sup>1</sup> Al momento della conclusione del contratto, i fornitori di servizi di telecomunicazione mobile indicano per scritto e in modo chiaro ai loro clienti come e dove informarsi sulle tariffe praticate per il roaming internazionale, comprese le opzioni tariffarie più vantaggiose.
-
-<sup>2</sup>
-
-Se un loro cliente entra in una rete di telefonia mobile estera, sono tenuti a informarlo senza indugio, gratuitamente e in forma chiara riguardo ai seguenti costi massimi dei servizi di roaming internazionale:
-
-- a. chiamate verso la Svizzera;
-- b. chiamate in entrata;
-- c. chiamate locali;
-- d. invio di SMS;
-- e. trasmissione di dati, compreso l’invio di MMS.
-
-<sup>3</sup> Devono permettere ai loro clienti di disattivare e riattivare facilmente e gratuitamente tale servizio di informazione. Sono tenuti a informarli in merito a questa possibilità al momento della conclusione del contratto e, in seguito, almeno una volta all’anno.
-
-[^10a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). I cpv. 2 e 3 entrano in vigore il 1° lug. 2010.
-
-#### Art. 10a
-
-**Roaming internazionale: obbligo d’informare**[^10a-2]
+**Roaming internazionale: obbligo d’informare**[^10a-1]
 
 <sup>1</sup>
 
@@ -198,7 +178,7 @@ Se un loro cliente entra in una rete di telefonia mobile estera, lo informano im
 
 <sup>4</sup> In caso di vendita di un terminale che, per motivi tecnici, non consente di fornire tale informazione quando il cliente entra in una rete di telefonia mobile estera, i fornitori di servizi di telecomunicazione mobile segnalano, oltre alle informazioni di cui al capoverso 1, abbonamenti e opzioni per ridurre i prezzi per il terminale in questione.
 
-[^10a-2]: Introdotto dal n. I dell’O del 4 nov. 2009 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)) Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)) Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10b
 
@@ -212,7 +192,7 @@ Se un loro cliente entra in una rete di telefonia mobile estera, lo informano im
 
 <sup>4</sup> I fornitori di servizi di telecomunicazione mobile non devono ostacolare o impedire attivamente ai loro clienti l’utilizzazione di servizi di roaming di fornitori terzi.
 
-[^10b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10c
 
@@ -239,7 +219,7 @@ Una fatturazione diversa è ammessa soltanto:
 - a. se i fornitori di servizi di telecomunicazione mobile esteri non mettono a disposizione i dati necessari e se il fornitore prova all’UFCOM la necessità di una modalità di calcolo diversa sulla base dei dati messi a disposizione; o
 - b. per i servizi di messaggistica testuale e multimediale quali SMS o MMS, che di regola sono addebitati ai clienti per unità.
 
-[^10c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10c-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10d
 
@@ -255,7 +235,7 @@ I fornitori di servizi di telecomunicazione mobile devono offrire ai loro client
 
 <sup>2</sup> Le opzioni devono poter essere attivate gratuitamente in Svizzera e all’estero. L’attivazione di opzioni deve essere possibile tramite Internet indipendentemente dall’apparecchio.
 
-[^10d-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10d-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10e
 
@@ -284,7 +264,7 @@ Per ciascuno dei servizi offerti devono almeno:
 
 <sup>6</sup> Le informazioni ai sensi del presente articolo devono essere pubblicate su un sito Internet liberamente accessibile. L’UFCOM può prevedere che le pubblicazioni debbano essere effettuate sullo stesso sito Internet.
 
-[^10e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^10e-2]: In vigore dal 1° set. 2021, le informazioni devono essere pubblicate soltanto dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^10e-3]: In vigore dal 1° gen. 2024, le informazioni devono essere pubblicate soltanto dal 1° apr. 2024 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
@@ -296,7 +276,7 @@ Per ciascuno dei servizi offerti devono almeno:
 
 <sup>2</sup> La richiesta del cliente al fornitore ai sensi dell’articolo 12*e* capoverso 2 lettera c LTC non può essere oggetto di un’offerta che il cliente accetta sulla base delle condizioni generali di contratto o sulla base di un’offerta standard.
 
-[^10f-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10f-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 11
 
@@ -320,7 +300,7 @@ L’iscrizione di un cliente in elenchi di servizi di telecomunicazione si compo
 
 <sup>5</sup> L’UFCOM definisce le designazioni dei campi contenenti i dati e altri dati complementari necessari per formattare e pubblicare gli elenchi.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^11-2]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
 
 ## Capitolo 3: Servizio universale
@@ -382,7 +362,7 @@ Il costo netto del servizio universale corrisponde alle spese sostenute da un fo
 
 [^chap3-sec1a-1]
 
-[^chap3-sec1a-1]: Introdotta dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^chap3-sec1a-1]: Introdotta dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 14a
 
@@ -429,12 +409,12 @@ Il servizio universale comprende le seguenti prestazioni:
 
 <sup>3</sup> L’UFCOM determina i dati tecnici applicabili alle prestazioni del servizio universale. Essi si fondano sulle norme internazionali armonizzate.
 
-[^15-1]: Nuova espr. giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^15-2]: Abrogato dal n. I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
-[^15-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^15-6]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^15-1]: Nuova espr. giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15-2]: Abrogato dalla cifra I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^15-5]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-6]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 
 #### Art. 16
 
@@ -444,7 +424,7 @@ Il servizio universale comprende le seguenti prestazioni:
 
 <sup>2</sup> L’UFCOM determina le specifiche per il punto terminale di rete sulla base di norme armonizzate a livello internazionale.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 17
 
@@ -470,7 +450,7 @@ Il servizio universale comprende le seguenti prestazioni:
 
 <sup>3</sup> Se il cliente partecipa ai costi, il concessionario del servizio universale non può prevedere una durata minima del contratto.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 19
 
@@ -480,7 +460,7 @@ Il servizio universale comprende le seguenti prestazioni:
 
 <sup>2</sup> In caso di partecipazione finanziaria del cliente secondo l’articolo 18 capoverso 2, la portata della prestazione non può essere ridotta.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 19a
 
@@ -497,7 +477,7 @@ Il concessionario del servizio universale è tenuto a presentare ogni anno all�
 
 <sup>2</sup> L’UFCOM può pubblicare in forma anonima i dati di cui al capoverso 1.
 
-[^19a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 20
 
@@ -511,7 +491,7 @@ Il concessionario del servizio universale è tenuto a presentare ogni anno all�
 
 <sup>4</sup> In caso di disaccordo in merito all’importo dei costi aggiuntivi, l’UFCOM può avvalersi della collaborazione di un perito indipendente, a spese della persona interessata, per procedere alla verifica. In caso di abuso manifesto da parte del concessionario del servizio universale, le spese della perizia sono a suo carico.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 21
 
@@ -556,7 +536,7 @@ Il concessionario del servizio universale valuta la qualità delle prestazioni d
 
 <sup>4</sup> Per controllare che i criteri qualitativi abbiano raggiunto i valori di riferimento, l’UFCOM può avvalersi della collaborazione di un perito indipendente. I risultati di questa perizia possono essere resi pubblici.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22
 
@@ -587,7 +567,7 @@ Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
 <sup>2</sup> Il concessionario del servizio universale notifica all’UFCOM tutti i cambiamenti delle sue tariffe almeno 30 giorni prima della loro introduzione.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 22a
 
@@ -595,7 +575,7 @@ Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
 L’invio periodico della fattura cartacea deve essere gratuito per i clienti che non dispongono di un servizio di accesso a Internet (art. 15 cpv. 1 lett. d).
 
-[^22a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^22a-1]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 23
 
@@ -627,9 +607,9 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 <sup>7</sup> Se il concessionario non ha fornito le informazioni richieste entro dodici mesi dalla fine dell’anno, cessa il diritto a un’indennità finanziaria.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^24-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 25
 
@@ -649,7 +629,7 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 <sup>7</sup> L’UFCOM emana prescrizioni amministrative relative al calcolo della cifra d’affari e alla presentazione delle informazioni necessarie alla ripartizione del costo.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 26
 
@@ -685,9 +665,9 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 <sup>6</sup> Se i fornitori sono a conoscenza del fatto che un numero trasmesso non è valido o viene impiegato senza possedere un diritto d’utilizzazione o che si tratta di un numero di cui al capoverso 5, devono prendere le misure necessarie e coordinarle per impedire la trasmissione di tali numeri o per bloccare la chiamata.[^26a-3]
 
-[^26a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^26a-2]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^26a-3]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^26a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^26a-2]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-3]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 27
 
@@ -697,7 +677,7 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione mobile via satellite del servizio universale ai quali l’Unione internazionale delle telecomunicazioni ha attribuito elementi d’indirizzo devono unicamente garantire l’accesso gratuito al numero d’emergenza europeo.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^27-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 28
@@ -706,7 +686,7 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 I fornitori del servizio telefonico pubblico devono garantire l’istradamento delle chiamate d’emergenza ai servizi di chiamata d’emergenza di cui all’articolo 28 ORAT[^28-2].
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^28-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 29
@@ -719,7 +699,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>3</sup> Su richiesta, l’UFCOM può designare altri numeri destinati esclusivamente a servizi di chiamata d’emergenza della polizia, dei pompieri, dei servizi medici e dei servizi di salvataggio, per i quali va garantita la localizzazione della chiamata. Pubblica una lista di questi numeri.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^29-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 #### Art. 29a
@@ -730,7 +710,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>2</sup> In caso di chiamate d’emergenza in cui vengono utilizzate le funzioni di localizzazione del dispositivo o del sistema operativo nonché la trasmissione indipendente dal canale vocale delle informazioni relative all’ubicazione (*Advanced Mobile Location*, AML), devono trasmettere queste informazioni al servizio di localizzazione.
 
-[^29a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
@@ -746,7 +726,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>5</sup> Le centrali d’allarme assumono unicamente i costi per l’utilizzazione del servizio di localizzazione.
 
-[^29b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 4 dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 4 dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 30
 
@@ -758,7 +738,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>3</sup> Le chiamate d’emergenza non possono essere interrotte da servizi di telecomunicazione aventi priorità nell’ambito della comunicazione di sicurezza (art. 90 cpv. 2).
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 31
 
@@ -770,7 +750,7 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 <sup>3</sup> I fornitori che hanno accesso ai dati elenco di cui all’articolo 11 capoverso 3 possono trattare questi dati unicamente per fornire un servizio di collegamento. Segnatamente, non possono pubblicare questi dati, né utilizzarli a fini pubblicitari né comunicarli a terzi.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 32
 
@@ -788,8 +768,8 @@ I fornitori del servizio telefonico pubblico devono garantire la capacità di co
 
 <sup>3</sup> La ComCom stabilisce le condizioni d’interconnessione secondo i principi usuali del mercato e del settore in questione.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 33
 
@@ -803,7 +783,7 @@ I fornitori del servizio telefonico pubblico devono garantire la capacità di co
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap4a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34
 
@@ -811,7 +791,7 @@ I fornitori del servizio telefonico pubblico devono garantire la capacità di co
 
 Gli articoli 34*a*‒34*e* si applicano alla portabilità dei numeri del piano di numerazione E. 164[^34-2], escluso il servizio di radiochiamata.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^34-2]: Raccomandazione dell’UIT-T. Tale raccomandazione può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra.
 
 #### Art. 34a
@@ -832,7 +812,7 @@ Sono considerate categorie:
 
 <sup>4</sup> L’UFCOM emana le prescrizioni tecniche e amministrative necessarie.
 
-[^34a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34b
 
@@ -844,7 +824,7 @@ Sono considerate categorie:
 
 <sup>3</sup> I fornitori disciplinano nei loro contratti di interconnessione la copertura dei costi legati all’istradamento delle comunicazioni a destinazione dei numeri trasferiti.
 
-[^34b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34c
 
@@ -852,7 +832,7 @@ Sono considerate categorie:
 
 I fornitori di servizi di telecomunicazione possono offrire ai loro clienti la possibilità di mantenere il loro numero in caso di cambiamento dell’ubicazione del collegamento.
 
-[^34c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34c-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34d
 
@@ -860,7 +840,7 @@ I fornitori di servizi di telecomunicazione possono offrire ai loro clienti la p
 
 I fornitori di servizi di telecomunicazione che offrono la portabilità dei numeri devono garantire la trasmissione del numero conformemente all’articolo 26*a* capoverso 2.
 
-[^34d-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34d-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34e
 
@@ -868,13 +848,13 @@ I fornitori di servizi di telecomunicazione che offrono la portabilità dei nume
 
 I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare la portabilità dei numeri devono consentire agli altri fornitori l’accesso alle informazioni necessarie a garantire un istradamento corretto delle comunicazioni a destinazione dei numeri trasferiti.
 
-[^34e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34e-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Capitolo 4*b*: Libera scelta dei fornitori per i collegamenti nazionali e internazionali
 
 [^chap4b-1]
 
-[^chap4b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap4b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34f
 
@@ -894,7 +874,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 <sup>2</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164, né mediante SMS o MMS, si applicano soltanto gli articoli 36 capoversi 4 e 5, 37, 38 capoversi 3 e 4, 40 capoversi 3–5 e 41 capoversi 1, 3, 4 lettera c e 5.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 2 dal 1° lug 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 2 dal 1° lug 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 36
 
@@ -913,8 +893,8 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 <sup>5</sup> I servizi a valore aggiunto a carattere erotico o pornografico devono essere compresi in una categoria separata, chiaramente identificabile dal cliente.
 
 [^36-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^36-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^36-3]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-3]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 37
 
@@ -922,7 +902,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 I fornitori di servizi a valore aggiunto devono avere una sede o una stabile organizzazione in Svizzera.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 38
 
@@ -955,8 +935,8 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 <sup>4</sup> Per i servizi a valore aggiunto, la somma di tutte le tariffe (tariffa di base, tariffa fissa e tariffa determinata dal tempo) non può superare i 400 franchi per collegamento o abbonamento.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 39a
 
@@ -966,9 +946,9 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 <sup>2</sup> Per le comunicazioni verso i numeri del tipo 0800 e 00800, i fornitori di servizi di telecomunicazione non possono fatturare ai loro clienti alcun genere di tassa.
 
-[^39a-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^39a-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^39a-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39a-1]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^39a-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39a-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 39b
 
@@ -978,7 +958,7 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 <sup>2</sup> Per le comunicazioni verso i numeri del tipo 0800, 00800, 084x, 090x e verso i numeri brevi di cui agli articoli 29–32 e 54 ORAT non può essere riscosso alcun supplemento oltre ai prezzi regolamentati nel capoverso 1 e nell’articolo 39*a*.
 
-[^39b-1]: Introdotto dal n. I dell’O del 5 nov. 2014 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39b-1]: Introdotto dalla cifra I dell’O del 5 nov. 2014 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^39b-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^39b-3]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
 
@@ -996,9 +976,9 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 <sup>5</sup> I fornitori di servizi di telecomunicazione di cui ai capoversi 1, 2 e 3 segnalano ai loro clienti la possibilità di bloccare i servizi a valore aggiunto al momento in cui concludono il contratto e, in seguito, almeno una volta all’anno.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^40-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^40-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 41
 
@@ -1025,7 +1005,7 @@ Per determinare la necessità di un blocco dell’accesso, i fornitori di serviz
 - a. registrano l’età dell’utente principale, qualora questi non abbia ancora compiuto i 16 anni, al momento della conclusione del contratto;
 - b. esigono, in caso di dubbio, che venga prodotto un passaporto o una carta d’identità validi o un altro documento di viaggio riconosciuto per entrare in Svizzera.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^41-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 ## Capitolo 6: Organo di conciliazione
@@ -1051,7 +1031,7 @@ Può incaricare un delegato di esercitare il compito che spetta all’organo di 
 
 <sup>5</sup> L’UFCOM approva la nomina della persona fisica designata quale responsabile dell’organo di conciliazione.
 
-[^42-1]: [[RU 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2432](https://fedlex.data.admin.ch/eli/oc/1997/2432_2432_2432), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)all. n. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 cpv. 2 n. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)all. 2 n. II 3. [RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 cpv. 2]. Vedi ora l’O del 12 feb. 2020 sugli appalti pubblici ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127))
+[^42-1]: [[RU 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2432](https://fedlex.data.admin.ch/eli/oc/1997/2432_2432_2432), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)all. cifra II n. 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 cpv. 2 n. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)all. 3 n. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)all. 2 cifra II n. 3. [RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 cpv. 2]. Vedi ora l’O del 12 feb. 2020 sugli appalti pubblici ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127))
 
 #### Art. 43
 
@@ -1108,7 +1088,7 @@ Una richiesta di conciliazione può essere accolta solo se:
 
 <sup>3</sup> I fornitori di servizi di telecomunicazione informano i loro clienti dell’esistenza dell’organo di conciliazione su ogni fattura. Nel caso delle comunicazioni prepagate, sono tenuti a farlo ad ogni ricarica effettuata dal cliente titolare del collegamento. Devono sempre segnalare che l’organo di conciliazione è competente anche per controversie in materia di servizi a valore aggiunto.[^47-1]
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 48
 
@@ -1126,12 +1106,12 @@ Una richiesta di conciliazione può essere accolta solo se:
 
 <sup>5</sup> Esso è tenuto a comunicare gratuitamente a un nuovo delegato o all’UFCOM i dati personali in suo possesso al momento in cui cessa le sue attività di conciliazione.[^48-6]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^48-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^48-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^48-4]: Nuovo testo del per. giusta l’all. 2 n. II 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^48-5]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^48-6]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-3]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^48-4]: Nuovo testo del per. giusta l’all. 2 cifra II n. 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^48-5]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-6]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 49
 
@@ -1145,7 +1125,7 @@ Una richiesta di conciliazione può essere accolta solo se:
 
 <sup>4</sup> L’organo di conciliazione può, mediante una decisione, riscuotere tasse procedurali dalle parti.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 50
 
@@ -1178,7 +1158,7 @@ Se accerta che il delegato non rispetta i suoi obblighi, l’UFCOM può:
 
 Hanno diritto di accedere alle risorse e ai servizi del fornitore che detiene una posizione dominante sul mercato tutti i fornitori di servizi di telecomunicazione.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 52
 
@@ -1194,9 +1174,9 @@ Hanno diritto di accedere alle risorse e ai servizi del fornitore che detiene un
 
 <sup>4</sup> Esso tratta sollecitamente le ordinazioni degli altri fornitori nell’ordine di arrivo. Può rifiutare un’ordinazione se vi sono dubbi fondati che corrisponda all’effettivo bisogno del fornitore richiedente.[^52-3]
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
-[^52-2]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
-[^52-3]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-2]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-3]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 53
 
@@ -1229,8 +1209,8 @@ Se non è specificato altrimenti, il computo si fonda sui costi che un fornitore
 
 <sup>3</sup> Le prestazioni di accesso devono essere calcolate e fatturate separatamente dagli altri servizi.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
-[^54-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 54a
 
@@ -1249,7 +1229,7 @@ Per capitale impiegato si intende il capitale vincolato medio; esso è calcolato
 - a. nel primo anno contabile il capitale vincolato medio si calcola sottraendo il tasso per la manutenzione e l’ampliamento dell’infrastruttura dalla metà dell’investimento di riacquisto che un fornitore efficace ha effettuato nell’infrastruttura di canalizzazione di cavi e aggiungendo al risultato ottenuto gli investimenti effettuati l’anno precedente dal fornitore che detiene una posizione dominante sul mercato;
 - b. negli anni successivi il capitale vincolato medio è calcolato indicizzando il valore ottenuto l’anno precedente con l’indice medio dei costi di produzione nelle categorie di lavoro delle condotte industriali e pavimentazioni in un rapporto pari a 7:3; in seguito si sottrae dal valore ottenuto il tasso per la manutenzione e l’ampliamento dell’infrastruttura e si aggiungono gli investimenti effettuati l’anno precedente dal fornitore che detiene una posizione dominante sul mercato.
 
-[^54a-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 54b
 
@@ -1259,7 +1239,7 @@ Per capitale impiegato si intende il capitale vincolato medio; esso è calcolato
 
 <sup>2</sup> Il prezzo soglia corrisponde ai costi di un fornitore efficace, che si compongono dei costi supplementari a breve termine delle componenti di rete utilizzate, dei costi supplementari a breve termine generati esclusivamente dalle prestazioni di accesso, nonché dai costi congiunti e dai costi comuni (*short run incremental costs plus,* *SRIC+*).
 
-[^54b-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54b-1]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 54c
 
@@ -1267,7 +1247,7 @@ Per capitale impiegato si intende il capitale vincolato medio; esso è calcolato
 
 Se con l’applicazione degli articoli 54-54*b* non è possibile realizzare ricavi a copertura dei costi ai sensi dell’articolo 52 capoverso 2<sup>bis</sup>, i relativi prezzi di accesso sono calcolati sottraendo, dalla cifra d’affari che il fornitore che detiene una posizione dominante sul mercato consegue fornendo ai clienti finali servizi basati su una determinata forma d’accesso, i costi a valle per la fornitura di tali servizi e in seguito riportando il risultato ottenuto a un’unità (*retail minus*).
 
-[^54c-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54c-1]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 55
 
@@ -1283,7 +1263,7 @@ Altri fornitori possono domandare al fornitore che detiene una posizione dominan
 - b. siano tecnicamente realizzabili; e
 - c. presentino considerevoli vantaggi economici per la fornitura di servizi.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 56
 
@@ -1343,14 +1323,14 @@ Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente 
 
 <sup>4</sup> In caso di accesso a una parte della rete locale, il fornitore che detiene una posizione dominante sul mercato può riservare nei suoi ripartitori il posto di cui ha bisogno per soddisfare la domanda dei propri clienti, prevista in un prossimo futuro, in materia di servizi forniti mediante tali ripartitori. Su richiesta fornisce le informazioni sulla domanda e sulle riserve previste e le relative giustificazioni.[^58-2]
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 59 e 60
 
 [^5960-1]
 
-[^5960-1]: Abrogati dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^5960-1]: Abrogati dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 61
 
@@ -1382,8 +1362,8 @@ Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente 
 - b. l’anno successivo, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per un terzo sulla base dell’impianto precedente usato per l’ultima volta e per due terzi sulla base del nuovo impianto;
 - c. negli anni successivi, i costi secondo l’articolo 54 capoverso 2 sono stabiliti interamente sulla base del nuovo impianto. [^61-2]
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
-[^61-2]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^61-2]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 62
 
@@ -1405,7 +1385,7 @@ Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente 
 - b. l’anno successivo, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per un terzo sulla base dell’impianto precedente usato per l’ultima volta e per due terzi sulla base del nuovo impianto;
 - c. negli anni successivi, i costi secondo l’articolo 54 capoverso 2 sono stabiliti interamente sulla base del nuovo impianto.[^62-1]
 
-[^62-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^62-1]: Introdotto dalla cifra I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 63
 
@@ -1434,7 +1414,7 @@ Il sistema online del fornitore che detiene una posizione dominante sul mercato 
 
 Gli articoli 64–68 si applicano soltanto agli accordi in materia d’accesso stipulati con un fornitore che detiene una posizione dominante sul mercato.
 
-[^63a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^63a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 64
 
@@ -1491,7 +1471,7 @@ Su richiesta, l’UFCOM consente la consultazione di accordi e decisioni in mate
 
 [^69-1]
 
-[^69-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^69-1]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 70
 
@@ -1510,9 +1490,9 @@ Le domande di decisione in materia di accesso devono comprendere i dati seguenti
 
 <sup>3</sup> L’UFCOM è incaricato dell’istruzione. Se ritiene che la richiesta presentata sia incompleta o poco chiara, concede al richiedente un breve termine supplementare per regolarizzarla, avvisandolo che se le lacune non saranno debitamente colmate entro tale termine, proporrà alla ComCom di dichiarare la richiesta irricevibile.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^70-2]: Abrogata dal n. I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^70-3]: Abrogato dal n. I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-2]: Abrogata dalla cifra I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-3]: Abrogato dalla cifra I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 71
 
@@ -1546,7 +1526,7 @@ Nel quadro dell’istruzione, l’UFCOM può aprire un’udienza di conciliazion
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 75
 
@@ -1602,7 +1582,7 @@ L’obbligo dei proprietari dell’immobile di tollerare altri collegamenti via 
 - a. se le capacità sono sufficienti: l’obbligo di tollerare la coutenza delle canalizzazioni di cavi preesistenti che servono per il raccordo all’immobile;
 - b. se le capacità sono insufficienti: l’obbligo di tollerare la realizzazione di ulteriori impianti che servono per il raccordo all’immobile.
 
-[^78a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^78a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 78b
 
@@ -1613,7 +1593,7 @@ L’obbligo dei proprietari dell’immobile e dei fornitori di servizi di teleco
 - a. la coutenza degli allacciamenti elettrici;
 - b. l’installazione di impianti che consentono a un fornitore che li coutilizza di fornire i propri servizi di telecomunicazione.
 
-[^78b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^78b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 78c
 
@@ -1631,7 +1611,7 @@ L’obbligo dei proprietari dell’immobile e dei fornitori di servizi di teleco
 
 <sup>6</sup> La procedura per la composizione di controversie sull’accesso al punto d’entrata nell’edificio e la coutenza di impianti domestici è disciplinata per analogia dagli articoli 70–74.
 
-[^78c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^78c-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 79
 
@@ -1639,13 +1619,13 @@ L’obbligo dei proprietari dell’immobile e dei fornitori di servizi di teleco
 
 È considerato un rimborso adeguato per la coutenza di impianti di altri fornitori secondo l’articolo 36 capoverso 2 LTC la parte corrispondente dei costi totali.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Capitolo 9: Segreto delle telecomunicazioni, protezione dei dati e protezione dei bambini e dei giovani
 
 [^chap9-1]
 
-[^chap9-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap9-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 80
 
@@ -1662,7 +1642,7 @@ I fornitori di servizi di telecomunicazione possono trattare i dati relativi al 
 
 <sup>2</sup> Per altri scopi possono trattare i dati relativi al traffico soltanto in forma anonima e previo consenso dei clienti in questione.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 81
 
@@ -1676,10 +1656,10 @@ I fornitori di servizi di telecomunicazione possono trattare i dati relativi al 
 
 <sup>4</sup> Se un cliente contesta la fattura di un servizio a valore aggiunto oppure non la paga entro i termini stabiliti, il fornitore di servizi di telecomunicazione può comunicare al fornitore del servizio in questione i dati personali del cliente che ha a disposizione e che sono necessari a far valere il credito.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^81-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-2]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^81-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^81-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-4]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 82
 
@@ -1696,7 +1676,7 @@ Se un cliente rende verosimile, per scritto, che è stato chiamato abusivamente 
 
 <sup>3</sup> Se le chiamate abusive o la pubblicità sleale provengono da collegamenti di clienti di un altro fornitore, tutti i fornitori che partecipano alla comunicazione devono fornire le informazioni necessarie al fornitore tenuto a comunicare i dati secondo il capoverso 1.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^82-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 83
@@ -1719,7 +1699,7 @@ Se un cliente rende verosimile, per scritto, che è stato chiamato abusivamente 
 
 <sup>8</sup> In caso di pubblicità sleale ai sensi dell’articolo 3 lettere o e v LCSl o di disposizioni estere simili, l’autorità federale competente può chiedere al fornitore di servizi di telecomunicazione le informazioni e la documentazione necessarie per esercitare il suo diritto d’intervento e garantire la collaborazione amministrativa ai sensi della LCSl.
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^83-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 84
@@ -1732,7 +1712,7 @@ Se un cliente rende verosimile, per scritto, che è stato chiamato abusivamente 
 
 <sup>3</sup> In ogni caso, essi devono garantire l’indicazione del numero chiamante per le chiamate di cui va garantita la localizzazione ai sensi degli articoli 29 capoverso 1 e 90 capoverso 5, e per le chiamate al servizio di trascrizione per audiolesi conformemente all’articolo 15 capoverso 1 lettera e. Eccezion fatta per il proprio servizio guasti, i fornitori non devono consentire a nessun altro cliente di conoscere il numero chiamante dei clienti che hanno scelto il servizio di soppressione dell’indicazione.[^84-1]
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 85
 
@@ -1762,12 +1742,12 @@ Se tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecom
 
 <sup>1</sup> I clienti che figurano in un elenco hanno il diritto di far indicare chiaramente che non desiderano ricevere messaggi pubblicitari da parte di persone con cui non intrattengono una relazione commerciale, e che i loro dati non possono essere comunicati ai fini della pubblicità diretta.[^88-1]
 
-<sup>2</sup> e <sup>3</sup> ...[^88-2]
+<sup>2 e <sup>3</sup></sup> ...[^88-2]
 
 <sup>4</sup> Il fornitore di un elenco online deve adottare i provvedimenti tecnici e organizzativi adeguati per impedire che il contenuto di un’iscrizione o di una parte dell’elenco sia modificato o soppresso da una persona non autorizzata.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^88-2]: Abrogati dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^88-2]: Abrogati dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 89
 
@@ -1775,7 +1755,7 @@ Se tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecom
 
 Per quanto la presente ordinanza non disponga altrimenti, è applicabile la legge federale del 25 settembre 2020[^89-2] sulla protezione dei dati.
 
-[^89-1]: Nuovo testo giusta l’all. 2 n. II 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89-1]: Nuovo testo giusta l’all. 2 cifra II n. 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^89-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 89a
@@ -1784,7 +1764,7 @@ Per quanto la presente ordinanza non disponga altrimenti, è applicabile la legg
 
 I fornitori di servizi d’accesso a Internet informano i loro clienti sulle possibili misure di protezione dei bambini e dei giovani in Internet. Offrono ai propri clienti un sostegno individuale nell’applicazione di misure concrete di protezione.
 
-[^89a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^89a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 89b
 
@@ -1794,19 +1774,19 @@ I fornitori di servizi d’accesso a Internet informano i loro clienti sulle pos
 
 <sup>2</sup> Provvedono affinché terzi possano segnalare loro per scritto dei casi conformemente all’articolo 46*a* capoverso 3 secondo periodo LTC. Segnalano immediatamente all’Ufficio federale di polizia tutti i casi sospetti.
 
-[^89b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^89b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Capitolo 10: Interessi nazionali importanti
 
 [^chap10-1]
 
-[^chap10-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ### Sezione 1: Comunicazione a garanzia della sicurezza
 
 [^chap10-sec1-1]
 
-[^chap10-sec1-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec1-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 90
 
@@ -1827,13 +1807,13 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 <sup>5</sup> Su richiesta degli organi autorizzati, l’UFCOM designa i numeri per i quali deve essere garantito il servizio di localizzazione delle chiamate. Per tali numeri gli organi hanno accesso al servizio di cui all’articolo 29*b*.
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 91
 
 [^91-1]
 
-[^91-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^91-1]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 92
 
@@ -1845,8 +1825,8 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 <sup>3</sup> Il Consiglio federale può obbligare i fornitori di servizi di telecomunicazione i cui impianti o servizi sono importanti in situazioni straordinarie ad organizzarsi in previsione di simili situazioni.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 93
 
@@ -1860,7 +1840,7 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 <sup>4</sup> Se, conformemente all’articolo 92 capoverso 2 un fornitore è obbligato a mettere a disposizione i servizi necessari, l’UFCOM stabilisce la relativa indennità sulla base dei capoversi 1–3.
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ### Sezione 2: Limitazione del traffico delle telecomunicazioni
 
@@ -1874,7 +1854,7 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 <sup>3</sup> I fornitori di servizi di telecomunicazione possono effettuare restrizioni al traffico civile delle telecomunicazioni a favore degli organi di cui all’articolo 47 capoverso 1 LTC per 36 ore al massimo, se constatano un sovraccarico della propria rete. Ne informano senza indugio l’UFCOM.
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 95
 
@@ -1884,13 +1864,13 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 <sup>2</sup> Nella misura in cui le restrizioni di cui all’articolo 94 non comportino vantaggi commerciali per i fornitori, la Confederazione assume i costi dei provvedimenti preparatori.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ### Sezione 3: Segnalazione di interferenze
 
 [^chap10-sec3-1]
 
-[^chap10-sec3-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+[^chap10-sec3-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96
 
@@ -1902,7 +1882,7 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 [^chap10-sec4-1]
 
-[^chap10-sec4-1]: Introdotta dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+[^chap10-sec4-1]: Introdotta dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96a
 
@@ -1931,13 +1911,13 @@ I fornitori di servizi di accesso a Internet gestiscono un servizio che riceve l
 
 L’UFCOM esegue le disposizioni della presente sezione in collaborazione con l’Ufficio federale della cibersicurezza.
 
-[^96c-1]: Nuovo testo giusta il n. II 12 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^96c-1]: Nuovo testo giusta la cifra II n. 12 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 ### Sezione 5: Sicurezza delle reti e dei servizi dei concessionari di radiocomunicazione mobile
 
 [^chap10-sec5-1]
 
-[^chap10-sec5-1]: Introdotta dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+[^chap10-sec5-1]: Introdotta dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96d
 
@@ -1979,9 +1959,10 @@ Gli articoli 96*e*‒96*g* si applicano alle reti mobili conformi alle specifich
 
 <sup>2</sup> Garantisce la raccolta e il trattamento dei dati, nonché tutti i lavori statistici nell’ambito del capoverso 1.
 
-<sup>3</sup> Collabora e coordina questi lavori con l’Ufficio federale di statistica conformemente all’ordinanza del 30 giugno 1993[^97-1] sull’organizzazione della statistica federale.
+<sup>3</sup> Collabora e coordina questi lavori con l’Ufficio federale di statistica conformemente all’ordinanza del 30 aprile 2025[^97-1] sulla statistica federale.[^97-2]
 
-[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-2]: Nuovo testo giusta l’all. 3 n. 13 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
 
@@ -2061,7 +2042,7 @@ Le persone incaricate dei lavori statistici sono tenute a mantenere il segreto s
 <sup>2</sup> Il segretario dell’Unione internazionale delle telecomunicazioni (UIT) può riconoscere la qualità di «membro dei Settori» ai sensi dell’articolo 19 della Convenzione dell’UIT agli altri fornitori di servizi di telecomunicazione nonché a organizzazioni o enti che hanno la loro sede o la loro attività commerciale in Svizzera, se questi garantiscono di rispettare le esigenze dell’UIT.[^104-2]
 
 [^104-1]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
-[^104-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^104-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Capitolo 13: Disposizioni finali
 
@@ -2089,7 +2070,7 @@ L’ordinanza del 31 ottobre 2001[^106-1] sui servizi di telecomunicazione è ab
 
 L’ordinanza del DATEC del 15 dicembre 1997[^106a-2] sui collegamenti di telecomunicazione al di fuori dei centri abitati è abrogata.
 
-[^106a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^106a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
 [^106a-2]: [[RU 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483), [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665), [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84), [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
 
 #### Art. 107
@@ -2106,13 +2087,13 @@ L’ordinanza del DATEC del 15 dicembre 1997[^106a-2] sui collegamenti di teleco
 
 [^108-1]
 
-[^108-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^108-1]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 108a
 
 [^108a-1]
 
-[^108a-1]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Abrogato dal n. I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
+[^108a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)). Abrogato dalla cifra I dell’O del 16 dic. 2022, con effetto dal 1° gen. 2024 ([RU 2022 849](https://fedlex.data.admin.ch/eli/oc/2022/849)).
 
 #### Art. 108b
 
@@ -2120,7 +2101,7 @@ L’ordinanza del DATEC del 15 dicembre 1997[^106a-2] sui collegamenti di teleco
 
 I fornitori di servizi a valore aggiunto che, all’entrata in vigore della presente ordinanza, non hanno né sede né stabile organizzazione in Svizzera devono indicare entro sei mesi una sede o una stabile organizzazione in Svizzera.
 
-[^108b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^108b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 108c
 
@@ -2128,7 +2109,7 @@ I fornitori di servizi a valore aggiunto che, all’entrata in vigore della pres
 
 L’articolo 96*a* capoversi 2 e 3 va attuato al più tardi entro il 1° gennaio 2024.
 
-[^108c-1]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+[^108c-1]: Introdotto dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 ### Sezione 4: Entrata in vigore
 

@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/fr"
 
 (OST)
 
-du 9 mars 2007 (État le 1<sup>er</sup> janvier 2024)
+du 9 mars 2007 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -103,7 +103,7 @@ Le Service de surveillance de la correspondance par poste et télécommunication
 
 **Interfaces de réseaux et de services de télécommunication**[^7-1]
 
-- [tab] <sup>1</sup> Les fournisseurs de services de télécommunication doivent publier les spécifications techniques des interfaces requises pour l’accès physique aux réseaux de télécommunication.
+<sup>1</sup> Les fournisseurs de services de télécommunication doivent publier les spécifications techniques des interfaces requises pour l’accès physique aux réseaux de télécommunication.
 
 <sup>2</sup> Sur demande, ils doivent indiquer à l’OFCOM, aux clients et aux fabricants d’installations de télécommunication et de logiciels pour l’utilisation de services de télécommunication les types d’interfaces qu’ils mettent à disposition pour le service d’accès à Internet et les services fournis au moyen des ressources visées à l’art. 4, al. 1, LTC. Ils communiquent ces informations dans un délai raisonnable et gratuitement.
 
@@ -846,12 +846,6 @@ Les fournisseurs de services de télécommunication offrant la portabilité des 
 **Accès aux informations**[^34e-1]
 
 Les fournisseurs de services de télécommunication ayant l’obligation d’assurer la portabilité des numéros doivent donner aux autres fournisseurs l’accès aux informations qui permettent l’acheminement correct des communications vers les numéros portés.
-
-<sup>3</sup> Les fournisseurs de services de télécommunication obligés de fournir des lignes louées établissent pour ces dernières une comptabilité séparée. La méthode de calcul des coûts se base sur les principes relatifs aux prestations en matière d’accès.
-
-<sup>4</sup> Les tarifs et les conditions de livraison doivent être communiqués à l’OFCOM. Celui-ci peut les publier.
-
-<sup>5</sup> L’OFCOM édicte les prescriptions techniques sur les interfaces et la qualité des services.
 
 [^34e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
@@ -1744,7 +1738,7 @@ Lorsque cela est techniquement réalisable à des conditions raisonnables, les f
 
 <sup>1</sup> Les clients figurant dans un annuaire ont le droit d’y faire mentionner clairement qu’ils ne souhaitent pas recevoir de messages publicitaires de personnes avec lesquelles ils n’entretiennent aucune relation commerciale, et que les données les concernant ne peuvent pas être communiquées à des fins de prospection publicitaire directe.[^88-1]
 
-<sup>2</sup> et <sup>3</sup> …[^88-2]
+<sup>2 et <sup>3</sup></sup> …[^88-2]
 
 <sup>4</sup> Le fournisseur d’un annuaire en ligne doit prendre les mesures techniques et organisationnelles appropriées pour empêcher que le contenu d’un enregistrement ou d’une partie de l’annuaire soit modifié ou effacé par une personne non autorisée.
 
@@ -1957,9 +1951,10 @@ Les art. 96*e* à 96*g* s’appliquent aux réseaux de radiocommunication mobile
 
 <sup>2</sup> Il assure la collecte et le traitement des données, ainsi que l’ensemble des travaux statistiques dans le cadre de l’al. 1.
 
-<sup>3</sup> Il collabore et coordonne ses travaux statistiques avec l’Office fédéral de la statistique en application de l’ordonnance du 30 juin 1993 concernant l’organisation de la statistique fédérale[^97-1].
+<sup>3</sup> Il collabore et coordonne ses travaux statistiques avec l’Office fédéral de la statistique en application de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^97-1].[^97-2]
 
-[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-2]: Nouvelle teneur selon l’annexe 3 ch. 13 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
 

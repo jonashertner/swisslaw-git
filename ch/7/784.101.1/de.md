@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20240101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20240101/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Januar 2024)
+vom 9. März 2007 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1741,7 +1741,7 @@ Wenn es mit vertretbarem Aufwand technisch möglich ist, müssen die Anbieterinn
 
 <sup>1</sup> Die in einem Verzeichnis aufgeführten Kundinnen und Kunden sind berechtigt, eindeutig vermerken zu lassen, dass sie keine Werbemitteilungen von Personen erhalten möchten, mit denen sie in keiner Geschäftsbeziehung stehen, und dass ihre Daten zu Zwecken der Direktwerbung nicht weitergegeben werden dürfen.[^88-1]
 
-<sup>2</sup> und <sup>3</sup> …[^88-2]
+<sup>2 und <sup>3</sup></sup> …[^88-2]
 
 <sup>4</sup> Die Anbieterin eines Online-Verzeichnisses muss die geeigneten technischen und organisatorischen Massnahmen treffen, um zu verhindern, dass der Inhalt einer Eintragung oder eines Teils des Verzeichnisses durch Unbefugte geändert oder gelöscht wird.
 
@@ -1954,9 +1954,10 @@ Die Artikel 96*e*–96*g* gelten für Mobilfunknetze, die den international fest
 
 <sup>2</sup> Es stellt die Erhebung und Bearbeitung der Daten sowie sämtliche statistischen Arbeiten im Rahmen von Absatz 1 sicher.
 
-<sup>3</sup> In Anwendung der Verordnung vom 30. Juni 1993[^97-1] über die Organisation der Bundesstatistik koordiniert es seine statistischen Arbeiten mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.
+<sup>3</sup> In Anwendung der Bundesstatistikverordnung vom 30. April 2025[^97-1] koordiniert es seine statistischen Arbeiten mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.[^97-2]
 
-[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-2]: Fassung gemäss Anhang 3 Ziff. 13 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
 
