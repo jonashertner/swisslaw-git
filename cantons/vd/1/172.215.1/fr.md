@@ -4,7 +4,7 @@ number: "172.215.1"
 title: "RÈGLEMENT du 06.07.2022 sur les départements de l'administration (RdéA)"
 short: RdéA
 language: fr
-version: 2022-07-01
+version: 2025-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1?id=cc76a1a6-7dc4-4689-9916-2040725cdb88"
 ---
 
@@ -32,15 +32,15 @@ arrête
 
 <sup>1</sup> Les départements portent les noms suivants :
 
-- - Département des institutions, du territoire et du sport
+- - Département des finances, du territoire et du sport
 - - Département de l'enseignement et de la formation professionnelle
 - - Département de la jeunesse, de l'environnement et de la sécurité
 - - Département de la santé et de l'action sociale
 - - Département de l'économie, de l'innovation, de l'emploi et du patrimoine
-- - Département de la culture, des infrastructures et des ressources humaines
-- - Département des finances et de l'agriculture.
+- - Département des institutions, de la culture, des infrastructures et des ressources humaines
+- - Département de l'agriculture, de la durabilité et du climat et du numérique
 
-[^t-1]: Modif. 1 du 07.05.2025: Modification Al. 1, Tiret 1,6,7; entrée en vigueur au 01.06.2025; Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+[^t-1]: Modif. 1 du 07.05.2025: Modification Al. 1, Tiret 1,6,7; entrée en vigueur au 01.06.2025
 
 #### Art. 2
 
@@ -71,25 +71,28 @@ arrête
 
 **[^4-1]**
 
-<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département des institutions, du territoire et du sport sont notamment les suivants :
+<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département des finances, du territoire et du sport sont notamment les suivants:
 
 - a. Développement et aménagement du territoire, améliorations foncières (en zones à bâtir)
-- b. Durabilité, Agenda 2030
-- c. Plan climat
+- b. ...
+- c. ...
 - d. Cadastre et information sur le territoire
-- e. Affaires intérieures et régime juridique des institutions (organisation politique, affaires communales et préfectorales)
+- e. ...
 - f. Affaires extérieures
 - g. Logement
-- h. Affaires juridiques, justice et législation
+- h. ...
 - i. Affaires ecclésiastiques et religieuses
-- j. Droits politiques
+- j. ...
 - k. Sport.
+- l. Finances, analyse et gestion financière
+- m. impôts et régale du sel
+- n. Registre foncier.​​​​
 
 <sup>2</sup> La Chancellerie d'Etat est rattachée administrativement à ce département. Elle comprend le Bureau d'information et de communication ainsi que les Archives cantonales.
 
-<sup>3</sup> Le Ministère public est rattaché administrativement à ce département.
+<sup>3</sup> ...
 
-[^4-1]: Modif. 1 du 07.05.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, b,c,e,h,j; entrée en vigueur au 01.06.2025; Introduction Al. 1, l-n; entrée en vigueur au 01.06.2025; Abrogation Al. 3; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+[^4-1]: Modif. 1 du 07.05.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, b,c,e,h,j; entrée en vigueur au 01.06.2025; Introduction Al. 1, l-n; entrée en vigueur au 01.06.2025; Abrogation Al. 3; entrée en vigueur au 01.06.2025
 
 #### Art. 6
 
@@ -103,9 +106,11 @@ arrête
 - d. Affaires universitaires, Haute école pédagogique
 - e. Appui à la formation, orientation scolaire et professionnelle, écoles en santé, psychologie scolaire
 - f. Enseignement spécialisé
-- g. Affaires transfrontalières.
+- g. ...
+- h. Affaires communales
+- i. Affaires préfectorales.
 
-[^5-1]: Modif. 1 du 07.05.2025: Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Abrogation Al. 1, g; entrée en vigueur au 01.06.2025; Introduction Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+[^5-1]: Modif. 1 du 07.05.2025: Abrogation Al. 1, g; entrée en vigueur au 01.06.2025; Introduction Al. 1, h-i; entrée en vigueur au 01.06.2025
 
 #### Art. 7
 
@@ -123,7 +128,9 @@ arrête
 - h. Affaires pénitentiaires
 - i. Sécurité civile et militaire.
 
-[^6-1]: Modif. 1 du 07.05.2025: Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+<sup>2</sup> Ce département est en charge des relations avec l'Etablissement d'assurance contre l'incendie et les éléments naturels du Canton de Vaud.
+
+[^6-1]: Modif. 1 du 07.05.2025: Introduction Al. 2; entrée en vigueur au 01.06.2025
 
 #### Art. 8
 
@@ -143,45 +150,53 @@ arrête
 - a. Promotion économique, innovation, relations avec l'économie, tourisme
 - b. Police du commerce
 - c. Emploi et marché du travail
-- d. Consommation, laboratoire cantonal, poids et mesures
+- d. ...
 - e. Population et migration, intégration des étrangers
 - f. Accueil et hébergement des requérants d'asile
 - g. Bâtiments, gérances, monuments et sites, archéologie, logistique et opérations foncières
 - h. Egalité entre femmes et hommes.
 
-[^8-1]: Modif. 1 du 07.05.2025: Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Abrogation Al. 1, d; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+[^8-1]: Modif. 1 du 07.05.2025: Abrogation Al. 1, d; entrée en vigueur au 01.06.2025
 
 #### Art. 10
 
 **[^9-1]**
 
-<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département de la culture, des infrastructures et des ressources humaines sont notamment les suivants :
+<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département des institutions, de la culture, des infrastructures et des ressources humaines sont notamment les suivants:
 
 - a. Culture
 - b. Marchés publics, procédés de réclame
-- c. Conseil et appui en organisation
+- c. ...
 - d. Mobilité, transports, routes et autoroutes
 - e. Circulation et navigation
-- f. Numérique, stratégie et planification informatiques - exploitation et sécurité informatiques des systèmes d'information et de télécommunication
+- f. ...
 - g. Personnel et ressources humaines
 - h. Accueil de jour des enfants.
+- i. Affaires juridiques, justice, législation et droits politiques;
+- j. Affaires transfrontalières.
 
-[^9-1]: Modif. 1 du 07.05.2025: Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, c,f; entrée en vigueur au 01.06.2025; Introduction Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 11, Al. 1, g-j; entrée en vigueur au 01.06.2025
+<sup>2</sup> Ce département est en charge des relations avec le Conseil de la magistrature, l'Ordre judiciaire vaudois et le Ministère public.
+
+[^9-1]: Modif. 1 du 07.05.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, c,f; entrée en vigueur au 01.06.2025; Introduction Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Al. 2; entrée en vigueur au 01.06.2025
 
 #### Art. 11
 
 **[^10-1]**
 
-<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département des finances et de l'agriculture sont notamment les suivants :
+<sup>1</sup> Les attributions et les domaines relevant de la compétence du Département de l'agriculture, de la durabilité et du climat et du numérique sont notamment les suivants:
 
-- a. Finances, analyse et gestion financière
-- b. Impôts et régale du sel
-- c. Registre foncier
+- a. ...
+- b. ...
+- c. ...
 - d. Statistiques et prospective
 - e. Agriculture, viticulture et améliorations foncières (hors zones à bâtir)
 - f. Affaires vétérinaires.
+- g. Climat et durabilité
+- h. Numérique, stratégie et planification informatiques - exploitation et sécurité informatiques des systèmes d'information et de télécommunication
+- i. Conseil et appui en organisation et numérisation de l'administration
+- j. Consommation, laboratoire cantonal, poids et mesures.​​
 
-[^10-1]: Modif. 1 du 07.05.2025: Introduction Art. 5, Al. 1, l-n; entrée en vigueur au 01.06.2025; Introduction Art. 6, Al. 1, h-i; entrée en vigueur au 01.06.2025; Introduction Art. 7, Al. 2; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 1, i-j; entrée en vigueur au 01.06.2025; Introduction Art. 10, Al. 2; entrée en vigueur au 01.06.2025; Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, a-c; entrée en vigueur au 01.06.2025; Introduction Al. 1, g-j; entrée en vigueur au 01.06.2025
+[^10-1]: Modif. 1 du 07.05.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, a-c; entrée en vigueur au 01.06.2025; Introduction Al. 1, g-j; entrée en vigueur au 01.06.2025
 
 #### Art. 12
 
