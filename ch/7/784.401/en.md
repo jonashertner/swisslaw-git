@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Radio and Television (RTVO)
 short: RTVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: en
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVO)
 
-of 9 March 2007 (Status as of 1 January 2024)
+of 9 March 2007 (Last amended on 1 June 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Federal Act of 24 March 2006[^ingress-1] on Radio and Television (R
 
 ordains:
 
-[^ingress-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^ingress-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Title 1 Scope
 
@@ -233,10 +233,10 @@ The broadcast is made:
 <sup>5</sup> DETEC shall regulate the details of the broadcasts.
 
 [^9-1]: Amended by Art. 23 Abs. 2 of the Alarm O of 18 Aug. 2010, in force since 1 Jan. 2011 ([AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)).
-[^9-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^9-2]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^9-3]: Amended by Annex 3 No II 7 of the Civil Protection Ordinance of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 [^9-4]: Inserted by Art. 16 of the O of 22 Nov. 2017 on Mobilisation for Specific Civil Support and Active Service Duties, in force since 1 Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
-[^9-5]: [SR 519.2](https://fedlex.data.admin.ch/eli/cc/2017/815)
+[^9-5]: [SR 519.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7581)
 [^9-6]: Amended by Art. 16 of the O of 22 Nov. 2017 on Mobilisation for Specific Civil Support and Active Service Duties, in force since 1 Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 [^9-7]: Inserted by Art. 16 of the O of 22 Nov. 2017 on Mobilisation for Specific Civil Support and Active Service Duties, in force since 1 Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 
@@ -642,13 +642,14 @@ The recording and retention period for contributions forming part of the other j
 
 #### Art. 29
 
-**Organisation**
+**Organisation**[^29-1]
 
 ### (Art. 19 RTVA)
 
-OFCOM shall ensure the collection and processing of data and the other statistical work that is necessary to produce the statistics in accordance with Article 19 paragraph 1 RTVA (broadcasting statistics). It coordinates the work in application of the Ordinance of 30 June 1993[^29-1] on the Organisation of Federal Statistics with the Federal Statistical Office and cooperates with the latter.
+OFCOM shall ensure the collection and processing of data and the other statistical work that is necessary to produce the statistics in accordance with Article 19 paragraph 1 RTVA (broadcasting statistics). It shall coordinate the work in application of the Federal Statistics Ordinance of 30 April 2025[^29-2] and cooperate with the latter.
 
-[^29-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^29-1]: Amended by Annex 3 No 14 of the Federal Statistics Ordinance of 30 April 2025, in force since 1 June 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^29-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 30
 
@@ -913,7 +914,7 @@ The public invitation to tender for a licence must include at least:
 <sup>6</sup> The provisions of the Subsidies Act of 5 October 1990[^44a-2] apply.
 
 [^44a-1]: Amended by No I of the O of 16 April 2020, in force since 1 Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
-[^44a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^44a-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Title 3 Transmission and Technical Processing of Programme Services
 
@@ -961,15 +962,18 @@ If a telecommunications service provider broadcasts an access-entitled programme
 
 **Use of radio frequencies for the broadcasting of radio and television programme services**
 
-### (Art. 54 para. 4 RTVA and Art. 24 para. 1bis TCA)
+### (Art. 54 para. 1 RTVA and Art. 22*a* para. 4 TCA)
 
-<sup>1</sup> The Federal Council shall issue directives for the use of radio frequencies which are intended entirely or in part for the broadcasting of radio and television programme services in accordance with the national frequency allocation plan (Art. 25 of the Telecommunications Act of 30 Apr. 1997[^47-1]; TCA), and for the award of radiocommunication licences for such frequencies.
+[^47-1]
+
+<sup>1</sup> The Federal Council shall issue directives for the use of radio frequencies which are intended entirely or in part for the broadcasting of radio and television programme services in accordance with the national frequency allocation plan (Art. 25 of the Telecommunications Act of 30 Apr. 1997[^47-2]; TCA), and for the award of radiocommunication licences for such frequencies.
 
 <sup>2</sup> The Federal Communications Commission and interested parties shall be consulted before the directives are issued.
 
 <sup>3</sup> Radiocommunication licences for the utilisation of frequencies in accordance with paragraph 1 may be put out to public tender or awarded only when, based on the directives in accordance with paragraph 1, DETEC has laid down the details of the specific use of the frequencies.
 
-[^47-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^47-1]: The references have been adjusted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^47-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 48
 
@@ -1050,7 +1054,7 @@ The costs in accordance with paragraph 1 must be determined according to the fol
 <sup>5</sup> The Subsidies Act of 5 October 1990[^51-2] applies.
 
 [^51-1]: Amended by No I of the O of 25 May 2016, in force since 1 July 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^51-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^51-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Chapter 3 Broadcasting by Wire
 
@@ -1240,8 +1244,8 @@ The following persons are exempted from the obligation to pay:
 
 <sup>4</sup> Article 961*d* paragraph 1 CO does not apply to the collection agency.
 
-[^63-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-2]: [SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^63-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^63-2]: [SR 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 64
 
@@ -1267,7 +1271,7 @@ The collection agency provides OFCOM with an interim report within 30 days of th
 
 <sup>5</sup> OFCOM may carry out follow-up inspections at the collection agency’s premises and may instruct external specialists to carry out a financial audit.
 
-[^64-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 65
 
@@ -1277,7 +1281,7 @@ The collection agency provides OFCOM with an interim report within 30 days of th
 
 The collection agency shall publish the annual invoice (Art. 958 para. 2 CO[^65-1]), the audit report (Art. 728*b* para. 2 CO) and the activity report with the details in terms of Article 64 paragraph 1 by the end of April of the following year at the latest
 
-[^65-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -1306,7 +1310,7 @@ The cantons and communes shall supply the collection agency with:
 
 <sup>4</sup> The data must be supplied to the collection agency on a monthly basis within the first three working days of each month. Each supply shall include the entries that have changed since the previous supply. Once each year the canton or, if applicable, the commune must supply the complete data set by a date specified by OFCOM.
 
-[^67-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^67-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 67a
 
@@ -1383,8 +1387,8 @@ The Federal Council shall determine the minimum turnover for the obligation to p
 
 <sup>5</sup> Admission to a corporate fee group is conditional on the undertaking giving written notice to the FTA that it waives the group representative from preserving tax secrecy, insofar as this is useful for the assessment and collection of the fee.
 
-[^67c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67c-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67c-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67c-2]: [SR 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 [^67c-3]: Amended by No I of the O of 29 Aug. 2018, in force since 1 Oct. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 67d
@@ -1399,8 +1403,8 @@ The Federal Council shall determine the minimum turnover for the obligation to p
 
 <sup>3</sup> The obligation to pay is that of the public authority to which the combined units belong.
 
-[^67d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67d-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67d-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67d-2]: [SR 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 
 #### Art. 67e
 
@@ -1659,7 +1663,7 @@ The regulations of the Complaints Authority (Art. 85 para. 2 RTVA) shall regulat
 
 <sup>2</sup>
 
-The administrative fee in terms of para. 1 may be further reduced and the fee for the other charged-for activities may be reduced for:
+The administrative fee in terms of para graph . 1 may be further reduced and the fee for the other charged-for activities may be reduced for:
 
 - a. broadcasters to which a licence has been awarded for broadcasting an advertising-free programme service;
 - b. broadcasters which prove that they have an operating income of less than CHF 1 million. Operating income is deemed to be revenue related to operating activity, in particular advertising and sponsorship revenue as well as contributions and subsidies.
@@ -1674,7 +1678,7 @@ The administrative fee in terms of para. 1 may be further reduced and the fee fo
 
 Otherwise, the provisions of the General Fees Ordinance of 8 September 2004[^80-1] apply.
 
-[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Title 8 Final Provisions
 
@@ -2036,7 +2040,7 @@ Annex 3[^t-3]
 
 ## List of foreign programme services to be broadcast by wire
 
-[^t-3]: Amended by No II of the O of 12 March 2010, in force since 1 Apr. 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^t-3]: Amended by No II of the O of 12 March 2010, in force since 1 Apr. 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156))..
 
 Throughout Switzerland:
 

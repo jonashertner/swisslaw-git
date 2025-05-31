@@ -4,11 +4,11 @@ title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
 short: RTVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: de
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/de"
 
 (RTVV)
 
-vom 9. März 2007 (Stand am 1. Januar 2024)
+vom 9. März 2007 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Bundesgesetz vom 24. März 2006[^ingress-1] über Radio und Fe
 
 verordnet:
 
-[^ingress-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^ingress-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## 1. Titel: Geltungsbereich
 
@@ -229,10 +229,10 @@ Die Verbreitung erfolgt:
 <sup>5</sup> Das UVEK regelt die Einzelheiten der Verbreitung.
 
 [^9-1]: Fassung gemäss Art. 23 Abs. 2 der Alarmierungsverordnung vom 18. Aug. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)).
-[^9-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^9-2]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^9-3]: Fassung gemäss Anhang 3 Ziff. II 7 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 [^9-4]: Eingefügt durch Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
-[^9-5]: [SR 519.2](https://fedlex.data.admin.ch/eli/cc/2017/815)
+[^9-5]: [SR 519.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7581)
 [^9-6]: Fassung gemäss Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 [^9-7]: Eingefügt durch Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 
@@ -565,7 +565,7 @@ Der Auskunftspflicht nach Artikel 17 Absatz 2 Buchstabe a RTVG unterliegen auch 
 
 ### (Art. 18 RTVG)
 
-<sup>1</sup> Einen Jahresbericht einzureichen haben alle konzessionierten Veranstalter sowie andere Veranstalter, deren jährlicher Betriebsaufwand mehr als 1 Millionen Franken beträgt.[^27-1]
+<sup>1</sup> Einen Jahresbericht einzureichen haben alle konzessionierten Veranstalter sowie andere Veranstalter, deren jährlicher Betriebsaufwand mehr als 1 Million Franken beträgt.[^27-1]
 
 <sup>2</sup>
 
@@ -638,13 +638,14 @@ Die Aufzeichnungs- und Aufbewahrungsfrist für Beiträge im übrigen publizistis
 
 #### Art. 29
 
-**Organisation**
+**Organisation**[^29-1]
 
 ### (Art. 19 RTVG)
 
-Das BAKOM stellt die Erhebung und Bearbeitung der Daten und die weiteren statistischen Arbeiten sicher, die für die Erstellung der Statistik nach Artikel 19 Absatz 1 RTVG (Rundfunkstatistik) erforderlich sind. Es koordiniert die Arbeiten in Anwendung der Verordnung vom 30. Juni 1993[^29-1] über die Organisation der Bundesstatistik mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.
+Das BAKOM stellt die Erhebung und die Bearbeitung der Daten und die weiteren statistischen Arbeiten sicher, die für die Erstellung der Statistik nach Artikel 19 Absatz 1 RTVG (Rundfunkstatistik) erforderlich sind. Es koordiniert die Arbeiten in Anwendung der Bundesstatistikverordnung vom 30. April 2025[^29-2] mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.
 
-[^29-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^29-1]: Fassung gemäss Anhang 3 Ziff. 14 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^29-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 30
 
@@ -909,7 +910,7 @@ Die öffentliche Ausschreibung einer Konzession muss mindestens enthalten:
 <sup>6</sup> Die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^44a-2] sind anwendbar.
 
 [^44a-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
-[^44a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^44a-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 3. Titel: Übertragung und Aufbereitung von Programmen
 
@@ -957,15 +958,18 @@ Verbreitet eine Fernmeldedienstanbieterin ein zugangsberechtigtes Programm, so s
 
 **Nutzung von Funkfrequenzen für die Verbreitung von Radio- und Fernsehprogrammen**
 
-### (Art. 54 Abs. 4 RTVG und Art. 24 Abs. 1<sup>bis</sup> FMG)
+### (Art. 54 Abs. 1 RTVG und Art. 22*a* Abs. 4 FMG)
 
-<sup>1</sup> Der Bundesrat erlässt Richtlinien für die Nutzung von Funkfrequenzen, welche nach dem nationalen Frequenzzuweisungsplan (Art. 25 Fernmeldegesetz vom 30. April 1997[^47-1]) ganz oder teilweise für die Verbreitung von Radio- und Fernsehprogrammen vorgesehen sind, und für die Erteilung von Funkkonzessionen für solche Frequenzen.
+[^47-1]
+
+<sup>1</sup> Der Bundesrat erlässt Richtlinien für die Nutzung von Funkfrequenzen, welche nach dem nationalen Frequenzzuweisungsplan (Art. 25 Fernmeldegesetz vom 30. April 1997[^47-2]) ganz oder teilweise für die Verbreitung von Radio- und Fernsehprogrammen vorgesehen sind, und für die Erteilung von Funkkonzessionen für solche Frequenzen.
 
 <sup>2</sup> Vor dem Erlass der Richtlinien werden die Eidgenössische Kommunikationskommission und die interessierten Kreise angehört.
 
 <sup>3</sup> Funkkonzessionen für die Nutzung von Frequenzen nach Absatz 1 dürfen erst öffentlich ausgeschrieben bzw. erteilt werden, wenn das UVEK gestützt auf die Richtlinien nach Absatz 1 die Einzelheiten der konkreten Frequenznutzung festgelegt hat.
 
-[^47-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^47-1]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
+[^47-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 48
 
@@ -1046,7 +1050,7 @@ Die Festlegung der Kosten nach Absatz 1 muss nach folgenden Grundsätzen gescheh
 <sup>5</sup> Das Subventionsgesetz vom 5. Oktober 1990[^51-2] ist anwendbar.
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^51-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^51-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. Kapitel: Verbreitung über Leitungen
 
@@ -1236,8 +1240,8 @@ Von der Abgabepflicht befreit sind:
 
 <sup>4</sup> Artikel 961*d* Absatz 1 OR ist für die Erhebungsstelle nicht anwendbar.
 
-[^63-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-2]: [SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^63-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^63-2]: [SR 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 64
 
@@ -1263,7 +1267,7 @@ Die Erhebungsstelle stellt dem BAKOM jeweils innert 30 Tagen nach Ablauf des ers
 
 <sup>5</sup> Das BAKOM kann bei der Erhebungsstelle vor Ort Nachprüfungen vornehmen, und es kann externe Sachverständige mit der Finanzprüfung beauftragen.
 
-[^64-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 65
 
@@ -1273,7 +1277,7 @@ Die Erhebungsstelle stellt dem BAKOM jeweils innert 30 Tagen nach Ablauf des ers
 
 Die Erhebungsstelle veröffentlicht bis spätestens Ende April des Folgejahres die Jahresrechnung (Art. 958 Abs. 2 OR[^65-1]), den Revisionsbericht (Art. 728*b* Abs. 2 OR) sowie den Tätigkeitsbericht mit den Angaben nach Artikel 64 Absatz 1.
 
-[^65-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -1302,7 +1306,7 @@ Die Kantone und Gemeinden liefern der Erhebungsstelle:
 
 <sup>4</sup> Die Daten sind der Erhebungsstelle monatlich innerhalb der ersten drei Werktage des Monats zu liefern. Jede Lieferung umfasst die Einträge, die seit der vorangegangenen Lieferung geändert wurden. Einmal pro Jahr muss der Kanton beziehungsweise die Gemeinde zu einem vom BAKOM bestimmten Zeitpunkt den vollen Datenbestand liefern.
 
-[^67-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^67-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 67a
 
@@ -1377,8 +1381,8 @@ Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssys
 
 <sup>5</sup> Die Aufnahme in eine Unternehmensabgabegruppe setzt voraus, dass das Unternehmen die ESTV schriftlich vom Steuergeheimnis gegenüber der Vertretung der Gruppe entbindet, soweit dies für die Erhebung und den Bezug der Abgabe dienlich ist.
 
-[^67c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67c-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67c-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67c-2]: [SR 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 [^67c-3]: Fassung gemäss Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 67d
@@ -1393,8 +1397,8 @@ Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssys
 
 <sup>3</sup> Die Abgabepflicht obliegt dem Gemeinwesen, welchem die zusammengeschlossenen Dienststellen angehören.
 
-[^67d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67d-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67d-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67d-2]: [SR 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 
 #### Art. 67e
 
@@ -1668,7 +1672,7 @@ Die Verwaltungsgebühr nach Absatz 1 kann weiter reduziert und diejenige für di
 
 Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^80-1].
 
-[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 8. Titel: Schlussbestimmungen
 
@@ -2035,8 +2039,8 @@ In diesem Anhang bedeuten:
 - 2\.5 Der funktechnische Netzbeschrieb wird von der Konzessionsbehörde erteilt. Ist die Eidgenössische Kommunikationskommission die Konzessionsbehörde, so kann sie diese Aufgabe an das BAKOM delegieren.
 
 [^annex1-lvlu1-lvl2-1]: Der Nationale Frequenzzuweisungsplan kann beim Bundesamt für Kommunikation kostenlos abgerufen werden unter [www.bakom.admin.ch](http://www.bakom.admin.ch) &gt; Frequenzen und Antennen &gt; Nationaler Frequenzzuweisungsplan.
-[^annex1-lvlu1-lvl2-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^annex1-lvlu1-lvl2-3]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^annex1-lvlu1-lvl2-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^annex1-lvlu1-lvl2-3]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 ### 3 Verbreitungspflichten für Funkkonzessionärinnen
 
@@ -2142,7 +2146,7 @@ Je eine Konzession für die Veranstaltung eines regionalen Fernsehprogramms mit 
 <tr><td>i.</td><td>Zentralschweiz</td><td>Kanton Luzern Kanton Zug Kanton Obwalden Kanton Nidwalden Kanton Uri Kanton Schwyz</td></tr>
 <tr><td>j.</td><td>Zürich – Nordostschweiz</td><td>Kanton Zürich Kanton Schaffhausen Kanton Thurgau</td></tr>
 <tr><td>k.</td><td>Ostschweiz</td><td>Kanton St. Gallen Kanton Appenzell I. Rh. Kanton Appenzell A. Rh. Kanton Thurgau</td></tr>
-<tr><td>l.</td><td>Südostschweiz – Glarus</td><td>Kanton Graubünden Kanton Glarus Kanton St. Gallen: Wahlkreise Sargans und Werdenberg</td></tr>
+<tr><td>l.</td><td>Südostschweiz – Glarus</td><td>Kanton Graubünden Kanton Glarus Kanton St. Gallen: Wahlkreise Sarganserland und Werdenberg</td></tr>
 <tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, einen bestimmten Mindestanteil von Sendungen in rätoromanischer und italienischer Sprache zu verbreiten.</td></tr>
 <tr><td>m.</td><td>Tessin</td><td>Kanton Tessin Kanton Graubünden: Bezirk Moesa</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur la radio et la télévision (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: fr
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/fr"
 
 (ORTV)
 
-du 9 mars 2007 (État le 1<sup>er</sup> janvier 2024)
+du 9 mars 2007 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)[^ing
 
 arrête:
 
-[^ingress-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^ingress-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Titre 1 Champ d’application
 
@@ -231,10 +231,10 @@ La diffusion a lieu:
 <sup>5</sup> Le DETEC règle les détails de la diffusion.
 
 [^9-1]: Nouvelle teneur selon l’art. 23 al. 2 de l’O du 18 août 2010 sur l’alarme, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)).
-[^9-2]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^9-2]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^9-3]: Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 11 nov. 2020 sur la protection de la population, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 [^9-4]: Introduite par l’art. 16 de l’O du 22 nov. 2017, sur la mobilisation de l’armée pour des services d’appui et des services actifs. en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815))
-[^9-5]: [RS 519.2](https://fedlex.data.admin.ch/eli/cc/2017/815)
+[^9-5]: [RS 519.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7581)
 [^9-6]: Nouvelle teneur selon l’art. 16 de l’O du 22 nov. 2017, sur la mobilisation de l’armée pour des services d’appui et des services actifs. en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815))
 [^9-7]: Introduite par l’art. 16 de l’O du 22 nov. 2017, sur la mobilisation de l’armée pour des services d’appui et des services actifs. en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815))
 
@@ -640,13 +640,14 @@ La durée d’enregistrement et de conservation des contributions dans les autre
 
 #### Art. 29
 
-**Organisation**
+**Organisation**[^29-1]
 
 ### (art. 19 LRTV)
 
-L’OFCOM assure la collecte et le traitement des données ainsi que les autres travaux statistiques nécessaires à l’établissement de la statistique (statistique sur la radiodiffusion) conformément à l’art. 19, al. 1, LRTV. Il collabore et coordonne ses travaux avec l’Office fédéral de la statistique en application de l’ordonnance du 30 juin 1993 concernant l’organisation de la statistique fédérale[^29-1].
+L’OFCOM assure la collecte et le traitement des données ainsi que les autres travaux statistiques nécessaires à l’établissement de la statistique (statistique sur la radiodiffusion) conformément à l’art. 19, al. 1, LRTV. Il collabore et coordonne ses travaux avec l’Office fédéral de la statistique en application de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^29-2].
 
-[^29-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^29-1]: Nouvelle teneur selon l’annexe 3 ch. 14 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^29-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 30
 
@@ -909,7 +910,7 @@ L’appel d’offres public relatif à une concession doit contenir au moins:
 <sup>6</sup> Les dispositions de la loi du 5 octobre 1990 sur les subventions[^44a-2] est applicable.
 
 [^44a-1]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
-[^44a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^44a-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Titre 3 Transmission et conditionnement technique des programmes
 
@@ -957,15 +958,18 @@ Si un fournisseur de services de télécommunication diffuse un programme à acc
 
 **Utilisation des fréquences pour la diffusion de programmes de radio et de télévision**
 
-### (art. 54, al. 4, LRTV, et art. 24, al. 1<sup>bis</sup>, LTC)
+### (art. 54, al. 1, LRTV, et art. 22*a*, al. 4, LTC)
 
-<sup>1</sup> Le Conseil fédéral édicte des lignes directrices sur l’utilisation des fréquences qui, d’après le plan national d’attribution des fréquences (art. 25 de la LF du 30 avril 1997 sur les télécommunications[^47-1]), sont totalement ou partiellement prévues pour la diffusion de programmes de radio et de télévision, ainsi que sur l’octroi de concessions de radiocommunication pour ce genre de fréquences.
+[^47-1]
+
+<sup>1</sup> Le Conseil fédéral édicte des lignes directrices sur l’utilisation des fréquences qui, d’après le plan national d’attribution des fréquences (art. 25 de la LF du 30 avril 1997 sur les télécommunications[^47-2]), sont totalement ou partiellement prévues pour la diffusion de programmes de radio et de télévision, ainsi que sur l’octroi de concessions de radiocommunication pour ce genre de fréquences.
 
 <sup>2</sup> La Commission fédérale de la communication et les milieux intéressés sont consultés avant que des lignes directrices soient édictées.
 
 <sup>3</sup> Les concessions de radiocommunication pour l’utilisation des fréquences évoquées à l’al. 1 ne peuvent être mises au concours ou octroyées que lorsque le DETEC a fixé, sur la base des lignes directrices énoncées à l’al. 1, les modalités de l’utilisation des fréquences.
 
-[^47-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^47-1]: Les renvois ont été adaptés en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^47-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 48
 
@@ -1046,7 +1050,7 @@ Les coûts selon l’al. 1 doivent être fixés sur la base des éléments suiva
 <sup>5</sup> La loi du 5 octobre 1990 sur les subventions[^51-2] est applicable.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^51-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^51-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Chapitre 3 Diffusion sur des lignes
 
@@ -1236,8 +1240,8 @@ Sont exonérés du paiement de la redevance:
 
 <sup>4</sup> L’art. 961*d*, al. 1, CO, ne s’applique pas à l’organe de perception.
 
-[^63-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-2]: [RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^63-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^63-2]: [RS 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 64
 
@@ -1263,7 +1267,7 @@ Dans les 30 jours suivant la fin du premier, du deuxième et du troisième trime
 
 <sup>5</sup> L’OFCOM peut effectuer des contrôles sur place auprès de l’organe de perception et charger des experts externes de contrôler les finances.
 
-[^64-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 65
 
@@ -1273,7 +1277,7 @@ Dans les 30 jours suivant la fin du premier, du deuxième et du troisième trime
 
 L’organe de perception publie au plus tard fin avril de l’année suivante les comptes annuels (art. 958, al. 2, CO[^65-1]), le rapport de révision (art. 728*b*, al. 2, CO) ainsi que le rapport d’activité contenant les indications mentionnées à l’art. 64, al. 1.
 
-[^65-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -1302,7 +1306,7 @@ Les cantons et les communes transmettent à l’organe de perception:
 
 <sup>4</sup> Les données doivent être transmises à l’organe de perception mensuellement dans les trois premiers jours ouvrables du mois. Chaque transmission contient les données modifiées depuis la précédente transmission. Une fois par année, à une date définie par l’OFCOM, le canton ou la commune transmet des données complètes.
 
-[^67-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^67-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 67a
 
@@ -1377,8 +1381,8 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 
 <sup>5</sup> La participation à un groupe d’assujettissement présuppose que l’entreprise délie par écrit l’AFC du secret fiscal par rapport à la représentation du groupe, dans la mesure où cela est utile pour la perception et l’encaissement de la redevance.
 
-[^67c-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67c-2]: [RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67c-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67c-2]: [RS 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 [^67c-3]: Nouvelle teneur selon le ch. I de l’O du 29 août 2018, en vigueur depuis le 1<sup>er</sup> oct. 2018 ([RO 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 67d
@@ -1393,8 +1397,8 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 
 <sup>3</sup> Le paiement de la redevance incombe à la collectivité publique dont relèvent les services concernés.
 
-[^67d-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67d-2]: [RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67d-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67d-2]: [RS 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 
 #### Art. 67e
 
@@ -1668,7 +1672,7 @@ Peuvent bénéficier d’une réduction supplémentaire de l’émolument visé 
 
 Au surplus, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^80-1] sont applicables.
 
-[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Titre 8 Dispositions finales
 
@@ -2035,8 +2039,8 @@ Dans la présente annexe, on entend par:
 - 2\.5 Le descriptif technique du réseau est délivré par l’autorité concédante. Si la Commission fédérale de la communication est l’autorité concédante, elle peut déléguer cette tâche à l’OFCOM.
 
 [^annex1-lvlu1-lvl2-1]: Le plan national d’attribution des fréquences peut être consulté gratuitement sur le site de l’Office fédéral de la communication à l’adresse suivante: [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; Fréquences et antennes &gt; Plan national d’attribution des fréquences.
-[^annex1-lvlu1-lvl2-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^annex1-lvlu1-lvl2-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^annex1-lvlu1-lvl2-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^annex1-lvlu1-lvl2-3]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 ### 3 Obligations de diffuser des concessionnaires de radiocommunication
 
@@ -2075,7 +2079,7 @@ Une concession est octroyée pour la diffusion en DAB+ d’un programme de radio
 <tr><td>c.</td><td>Haut-Valais</td><td>Canton du Valais: districts de Loèche, de Viège, de Rarogne, de Brigue, de Conches, de Sierre et de Sion</td></tr>
 <tr><td>d.</td><td>Neuchâtel</td><td>Canton de Neuchâtel</td></tr>
 <tr><td>e.</td><td>Jura</td><td>Canton du Jura</td></tr>
-<tr><td>f.</td><td>Biel/Bienne – Jura bernois</td><td>Canton de Berne: arrondissements administratifs de Biel-Bienne et du Jura bernois</td></tr>
+<tr><td>f.</td><td>Biel/Bienne – Jura bernois</td><td>Canton de Berne: arrondissements administratifs de Biel/Bienne et du Jura bernois</td></tr>
 <tr><td></td><td>Obligation:</td><td>Le programme est diffusé en français.</td></tr>
 <tr><td>g.</td><td>Biel/Bienne – Seeland</td><td>Canton de Berne: région administrative du Seeland Canton de Soleure: agglomération de Granges</td></tr>
 <tr><td></td><td>Obligation:</td><td>Le programme est diffusé en allemand.</td></tr>
@@ -2142,7 +2146,7 @@ Une concession est octroyée pour la diffusion d’un programme de télévision 
 <tr><td>i.</td><td>Suisse centrale</td><td>Canton de Lucerne Canton de Zoug Canton d’Obwald Canton de Nidwald Canton d’Uri Canton de Schwyz</td></tr>
 <tr><td>j.</td><td>Zurich – Suisse du nord-est</td><td>Canton de Zurich Canton de Schaffhouse Canton de Thurgovie</td></tr>
 <tr><td>k.</td><td>Suisse orientale</td><td>Canton de St-Gall Canton d’Appenzell Rhodes intérieures. Canton d’Appenzell Rhodes extérieures Canton de Thurgovie</td></tr>
-<tr><td>l.</td><td>Suisse du sud-est – Glaris</td><td>Canton des Grisons Canton de Glaris Canton de St-Gall: cercles électoraux de Sargans et de Werdenberg</td></tr>
+<tr><td>l.</td><td>Suisse du sud-est – Glaris</td><td>Canton des Grisons Canton de Glaris Canton de St-Gall: cercles électoraux de Sarganserland et de Werdenberg</td></tr>
 <tr><td></td><td>Obligation:</td><td>Le diffuseur est tenu de diffuser un minimum d’émissions en rhéto-romanche et en italien fixé dans la concession.</td></tr>
 <tr><td>m.</td><td>Tessin</td><td>Canton du Tessin Canton des Grisons: district de Moesa</td></tr>
 </table>

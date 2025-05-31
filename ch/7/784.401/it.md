@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sulla radiotelevisione (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: it
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20240101/it"
 
 (ORTV)
 
-del 9 marzo 2007 (Stato 1° gennaio 2024)
+del 9 marzo 2007 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 24 marzo 2006[^ingress-1] sulla radiotelevisione (LR
 
 ordina:
 
-[^ingress-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^ingress-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Titolo primo: Campo d’applicazione
 
@@ -53,7 +53,7 @@ Sono inoltre offerte con una portata editoriale limitata le offerte che:
 
 - b.[^1-1] non contengono né sponsorizzazioni né pubblicità, ad eccezione della pubblicità per propri prodotti e servizi.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
 
 ## Titolo secondo: Emittenza di programmi
 
@@ -89,9 +89,9 @@ Le emittenti sottoposte all’obbligo di notificazione devono fornire all’Uffi
 
 <sup>4</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC[^2-3]) stabilisce quali modifiche della fattispecie sottoposta all’obbligo di notificazione devono essere comunicate all’UFCOM ed entro quale termine.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Introdotta dal n. I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
-[^2-3]: Nuova espr. giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuova espr. giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Introdotta dalla cifra I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^2-3]: Nuova espr. giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -163,7 +163,7 @@ La Società svizzera di radiotelevisione (SSR) è tenuta a sottotitolare i suoi 
 
 <sup>7</sup> L’UFCOM esamina almeno ogni tre anni la possibilità di aumentare la quota delle trasmissioni televisive adattate alle esigenze dei disabili. Se la normativa vigente non sembra più adeguata, il DATEC incarica il Consiglio federale di modificarla.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 8
 
@@ -181,10 +181,10 @@ La Società svizzera di radiotelevisione (SSR) è tenuta a sottotitolare i suoi 
 
 <sup>4</sup> Per ogni emittente l’UFCOM determina anticipatamente l’importo massimo dell’indennizzo in base ai mezzi disponibili e all’importo previsto delle spese computabili, risultante dall’adempimento dell’obbligo di cui al capoverso 3. Il conteggio definitivo è effettuato non appena l’emittente presenta il conteggio finale.[^8-4]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^8-2]: Introdotto dal n. I dell’O del 12 mar. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^8-3]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^8-4]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^8-2]: Introdotto dalla cifra I dell’O del 12 mar. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^8-3]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^8-4]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 9
 
@@ -229,10 +229,10 @@ La diffusione ha luogo:
 <sup>5</sup> Il DATEC disciplina i dettagli della diffusione.
 
 [^9-1]: Nuovo testo giutsa l’art. 23 cpv. 2 dell’O del 18 ago. 2010 sull’allarme, in vigore dal 1° gen. 2011 ([RU 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)).
-[^9-2]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^9-3]: Nuovo testo giusta l’all. 3 n. II 7 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^9-2]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
+[^9-3]: Nuovo testo giusta l’all. 3 cifra II n. 7 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 [^9-4]: Introdotta dall’art. 16 dell’O del 22 nov. 2017 sulla mobilitazione per determinati servizi d’appoggio e servizi attivi, in vigore dal 1° gen. 2018 ([RU 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
-[^9-5]: [RS 519.2](https://fedlex.data.admin.ch/eli/cc/2017/815)
+[^9-5]: [RS 519.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7581)
 [^9-6]: Nuovo testo giusta l’art. 16 dell’O del 22 nov. 2017 sulla mobilitazione per determinati servizi d’appoggio e servizi attivi, in vigore dal 1° gen. 2018 ([RU 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 [^9-7]: Introdotta dall’art. 16 dell’O del 22 nov. 2017 sulla mobilitazione per determinati servizi d’appoggio e servizi attivi, in vigore dal 1° gen. 2018 ([RU 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
 
@@ -267,7 +267,7 @@ Non sono considerati pubblicità segnatamente:
 
 <sup>3</sup> Non è considerata sponsorizzazione la coproduzione di una trasmissione da parte di persone fisiche e giuridiche che svolgono un’attività nel settore radiofonico o televisivo o nella produzione di opere audiovisive.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 12
 
@@ -285,8 +285,8 @@ Non sono considerati pubblicità segnatamente:
 
 <sup>4</sup> I collaboratori ai programmi di emittenti radiofoniche locali o regionali le cui zone di copertura comprendono meno di 150 000 abitanti di almeno 15 anni d’età possono partecipare alle trasmissioni pubblicitarie di tali emittenti se non fungono da moderatori in notiziari o in trasmissioni di attualità politica. Lo stesso vale per le emittenti televisive locali o regionali la cui zona di copertura comprende meno di 250 000 abitanti di almeno 15 anni d’età.
 
-[^12-1]: Introdotto dal n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^12-1]: Introdotto dalla cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 13
 
@@ -404,7 +404,7 @@ Le seguenti trasmissioni possono essere interrotte da pubblicità una volta per 
 
 <sup>7</sup> Ai programmi radiofonici senza concessione, nonché a quelli televisivi senza concessione che non possono essere captati all’estero non si applicano le restrizioni in materia di inserimento della pubblicità, ad eccezione della restrizione di cui al capoverso 3.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 19
 
@@ -416,8 +416,8 @@ Le seguenti trasmissioni possono essere interrotte da pubblicità una volta per 
 
 <sup>2</sup> Ai programmi radiofonici senza concessione, nonché a quelli televisivi senza concessione che non possono essere captati all’estero non si applicano le restrizioni riguardo alla durata della pubblicità.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 20
 
@@ -433,7 +433,7 @@ Le seguenti trasmissioni possono essere interrotte da pubblicità una volta per 
 
 <sup>4</sup> Durante la diffusione di una trasmissione televisiva è consentito ricordare breve-mente il rapporto di sponsorizzazione (insert). Lo sponsor può essere citato una volta ogni dieci minuti. Nelle trasmissioni per bambini gli insert sono vietati.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 21
 
@@ -454,7 +454,7 @@ L’obbligo di segnalazione di cui al capoverso 3 non si applica ai lungometragg
 - a. non sono stati prodotti né commissionati dall’emittente stessa o da un’impresa gestita dall’emittente;
 - b. l’emittente ha commissionato a registi indipendenti e che essa stessa ha cofinanziato in ragione di meno del 40 per cento (coproduzioni).
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 22
 
@@ -494,10 +494,10 @@ Nei programmi televisivi della SSR:
 
 <sup>7</sup> Le citazioni degli sponsor nei programmi radiofonici della SSR possono contenere solo elementi necessari per identificare lo sponsor.[^22-4]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
-[^22-2]: Introdotto dal n. I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
-[^22-4]: Introdotto dal n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-2]: Introdotto dalla cifra I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-4]: Introdotto dalla cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 23
 
@@ -512,7 +512,7 @@ Nell’ulteriore offerta editoriale della SSR che, oltre ai programmi radiotelev
 - c. la pubblicità e la sponsorizzazione nel servizio di teletext sono autorizzate. Si applicano per analogia le disposizioni sulla pubblicità e la sponsorizzazione della LRTV e della presente ordinanza applicabili ai programmi della SSR; i dettagli sono disciplinati nella concessione;
 - d. la concessione può prevedere altre eccezioni per le offerte presentate in collaborazione con terzi senza scopo lucrativo, come pure per l’autopromozione.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Sezione 4: Obblighi in materia di emittenza di programmi
 
@@ -530,7 +530,7 @@ Nell’ulteriore offerta editoriale della SSR che, oltre ai programmi radiotelev
 
 <sup>4</sup> Le emittenti senza concessione le cui spese annue d’esercizio ammontano al massimo a 1 milione di franchi sono esentate dall’obbligo di notificazione.[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 #### Art. 25
 
@@ -546,7 +546,7 @@ Nell’ulteriore offerta editoriale della SSR che, oltre ai programmi radiotelev
 
 <sup>4</sup> Le emittenti senza concessione le cui spese annue d’esercizio ammontano al massimo a 1 milione di franchi sono esentate dall’obbligo di notificazione.[^25-1]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 #### Art. 26
 
@@ -602,14 +602,14 @@ La relazione annuale di un’emittente senza concessione deve segnatamente conte
 
 <sup>7</sup> La relazione annuale e il conto annuale devono essere presentati all’UFCOM entro la fine di aprile dell’anno successivo.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-3]: Abrogata dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-4]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-5]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-6]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^27-7]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
-[^27-8]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-3]: Abrogata dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-5]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-6]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-7]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^27-8]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
 
 #### Art. 28
 
@@ -631,20 +631,21 @@ La durata di registrazione e di conservazione dei contributi che compongono l’
 
 <sup>4</sup> Soggiacciono all’obbligo di registrazione e di conservazione conformemente al capoverso 3 i contributi che sono rimasti pubblicati senza cambiamenti per almeno 24 ore.[^28-2]
 
-[^28-1]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^28-2]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^28-1]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^28-2]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Sezione 5: Statistica sulla radiodiffusione
 
 #### Art. 29
 
-**Organizzazione**
+**Organizzazione**[^29-1]
 
 ### (art. 19 LRTV)
 
-L’UFCOM assicura la rilevazione e il trattamento dei dati e gli altri lavori statistici necessari per allestire la statistica secondo l’articolo 19 capoverso 1 LRTV (statistica sulla radiodiffusione). Esso coordina i lavori e collabora con l’Ufficio federale di statistica in applicazione dell’ordinanza del 30 giugno 1993[^29-1] sull’organizzazione della statistica federale.
+L’UFCOM assicura la rilevazione e il trattamento dei dati e gli altri lavori statistici necessari per allestire la statistica secondo l’articolo 19 capoverso 1 LRTV (statistica sulla radiodiffusione). Esso coordina i lavori e collabora con l’Ufficio federale di statistica in applicazione dell’ordinanza del 30 aprile 2025[^29-2] sulla statistica federale.
 
-[^29-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^29-1]: Nuovo testo giusta l’all. 3 n. 14 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^29-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 30
 
@@ -703,7 +704,7 @@ L’UFCOM può:
 
 <sup>4</sup> Le spese della SSR sono considerate nel fabbisogno di cui all’articolo 68*a* capoverso 1 lettera a LRTV.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 33a
 
@@ -715,7 +716,7 @@ L’UFCOM può:
 
 <sup>2</sup> Le trasmissioni, conservate in modo durevole con il sostegno dell’UFCOM, vanno rese accessibili al pubblico in forma idonea per un utilizzo privato e scientifico, rispettando i diritti di terzi.
 
-[^33a-1]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Sezione 7: Tassa di concessione
 
@@ -741,7 +742,7 @@ L’UFCOM può:
 
 [^tit2-chap2-1]
 
-[^tit2-chap2-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^tit2-chap2-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
 
 ### (art. 28 cpv. 1 LRTV)
 
@@ -761,13 +762,13 @@ L’accordo tra il Consiglio federale e la SSR sull’offerta editoriale destina
 
 <sup>2</sup> In una simile programmazione radiofonica la diffusione della pubblicità non è ammessa, ad eccezione dell’autopromozione che serve prevalentemente a consolidare il legame con il pubblico, compresi i riferimenti a partenariati ai sensi dell’articolo 22 capoverso 6.[^36-1]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 #### Art. 37
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. I dell’O del 25 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^37-1]: Abrogato dalla cifra I dell’O del 25 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 38
 
@@ -780,7 +781,7 @@ Il numero e l’estensione delle zone di copertura per le quali sono rilasciate 
 - a. nell’allegato 1, per le emittenti radiofoniche;
 - b. nell’allegato 2, per le emittenti televisive.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 4 lug. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)).
 
 #### Art. 39
 
@@ -800,7 +801,7 @@ La quota di partecipazione annua al canone corrisponde:
 
 <sup>3</sup> Il DATEC riesamina di regola dopo cinque anni le partecipazioni al canone dell’emittente e se del caso le fissa nuovamente.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 40
 
@@ -814,9 +815,9 @@ La quota di partecipazione annua al canone corrisponde:
 
 <sup>3</sup> Alla successiva determinazione degli importi del canone, sarà tenuto conto della quota dei proventi del canone non utilizzata.[^40-3]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
-[^40-3]: Introdotto dal n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^40-3]: Introdotto dalla cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 41
 
@@ -882,13 +883,13 @@ Il concorso pubblico relativo a una concessione deve indicare perlomeno:
 
 <sup>4</sup> Le concessioni per i programmi di breve durata possono essere rilasciate segnatamente in occasione di un avvenimento importante nella zona di copertura per sostenere le attività di insegnamento e di formazione o nell’ambito di attività giovanili.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 ### Capitolo 4: Accordi sulle prestazioni con agenzie di stampa d’importanza nazionale
 
 [^tit2-chap4-1]
 
-[^tit2-chap4-1]: Introdotto dal n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^tit2-chap4-1]: Introdotto dalla cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 ### (art. 68*a* cpv. 1 lett. b LRTV)
 
@@ -906,8 +907,8 @@ Il concorso pubblico relativo a una concessione deve indicare perlomeno:
 
 <sup>6</sup> Sono applicabili le disposizioni della legge del 5 ottobre 1990[^44a-2] sui sussidi.
 
-[^44a-1]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
-[^44a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^44a-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^44a-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Titolo terzo: Trasmissione e preparazione tecnica dei programmi
 
@@ -945,7 +946,7 @@ Se un fornitore di servizi di telecomunicazione diffonde un programma con diritt
 
 <sup>3</sup> Il DATEC può emanare prescrizioni tecniche e prevedere per determinate tecnologie eccezioni all’obbligo di diffusione per i servizi abbinati.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Capitolo 2: Diffusione di programmi via etere
 
@@ -955,15 +956,18 @@ Se un fornitore di servizi di telecomunicazione diffonde un programma con diritt
 
 **Utilizzazione delle frequenze di radiocomunicazione per la diffusione di programmi radiotelevisivi**
 
-### (art. 54 cpv. 4 LRTV e art. 24 cpv. 1bis LTC)
+### (art. 54 cpv. 1 LRTV e art. 22*a* cpv. 4 LTC)
 
-<sup>1</sup> Il Consiglio federale emana direttive sull’utilizzazione delle frequenze di radiocomunicazione che, secondo il piano nazionale d’attribuzione delle frequenze (art. 25 della L del 30 apr. 1997[^47-1] sulle telecomunicazioni), sono completamente o parzialmente previste per la diffusione di programmi radiotelevisivi, nonché sul rilascio di concessioni di radiocomunicazione per tali frequenze.
+[^47-1]
+
+<sup>1</sup> Il Consiglio federale emana direttive sull’utilizzazione delle frequenze di radiocomunicazione che, secondo il piano nazionale d’attribuzione delle frequenze (art. 25 della L del 30 apr. 1997[^47-2] sulle telecomunicazioni), sono completamente o parzialmente previste per la diffusione di programmi radiotelevisivi, nonché sul rilascio di concessioni di radiocomunicazione per tali frequenze.
 
 <sup>2</sup> La Commissione federale delle comunicazioni e le cerchie interessate sono consultate prima dell’emanazione delle direttive.
 
 <sup>3</sup> Le concessioni di radiocomunicazione per l’utilizzazione delle frequenze secondo il capoverso 1 possono essere messe a pubblico concorso o rilasciate solo se il DATEC ha fissato in base alle direttive secondo il capoverso 1 i dettagli dell’utilizzazione concreta delle frequenze.
 
-[^47-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^47-1]: Le denominazioni sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^47-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 48
 
@@ -1009,7 +1013,7 @@ I costi di cui al capoverso 1 sono fissati secondo i seguenti principi:
 <sup>5</sup> Nei primi due anni d’esercizio di un’emittente, le sue spese d’esercizio iscritte nel preventivo per l’anno di contributo, stimate sull’intero anno, costituiscono la base di calcolo. Se in base alle spese effettive il contributo versato è eccessivo o insufficiente, si procede a un rimborso o alla riscossione della differenza nell’ambito dei crediti disponibili.
 
 [^49-1]: Nuovo testo giusta il n .I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^49-2]: Introdotto dal n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^49-2]: Introdotto dalla cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 ### Sezione 3: Contributi agli investimenti per nuove tecnologie
 
@@ -1025,7 +1029,7 @@ I costi di cui al capoverso 1 sono fissati secondo i seguenti principi:
 
 <sup>3</sup> Contributi agli investimenti per una determinata modalità di diffusione possono essere versati a un’emittente al massimo per dieci anni.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 51
 
@@ -1043,8 +1047,8 @@ I costi di cui al capoverso 1 sono fissati secondo i seguenti principi:
 
 <sup>5</sup> È applicabile la legge del 5 ottobre 1990[^51-2] sui sussidi.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^51-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^51-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Capitolo 3: Diffusione su linea
 
@@ -1079,7 +1083,7 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 - c.[^53-1] ...
 - d. per la diffusione digitale di programmi televisivi: 30.
 
-[^53-1]: Abrogata dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^53-1]: Abrogata dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 #### Art. 54
 
@@ -1095,15 +1099,15 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 
 <sup>3</sup> ...[^54-3]
 
-[^54-1]: Introdotto dal n. I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
-[^54-2]: Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
-[^54-3]: Introdotto dal n. I dell’O del 12 mar. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^54-1]: Introdotto dalla cifra I dell’O del 15 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^54-2]: Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^54-3]: Introdotto dalla cifra I dell’O del 12 mar. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 #### Art. 55
 
 [^55-1]
 
-[^55-1]: Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^55-1]: Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 ### Capitolo 4: Preparazione tecnica
 
@@ -1125,7 +1129,7 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^tit4-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Capitolo 1: Canone per le economie domestiche di tipo privato e le collettività
 
@@ -1143,7 +1147,7 @@ Importo del canone annuo:
 <tr><td>b. per una collettività</td><td>670.–</td></tr>
 </table>
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 58
 
@@ -1234,8 +1238,8 @@ Sono esentati dall’obbligo di pagare il canone:
 
 <sup>4</sup> L’articolo 961*d* capoverso 1 CO non è applicabile all’organo di riscossione.
 
-[^63-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-2]: [RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^63-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^63-2]: [RS 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 64
 
@@ -1261,7 +1265,7 @@ Entro 30 giorni dalla scadenza del primo, secondo e terzo trimestre l’organo d
 
 <sup>5</sup> L’UFCOM può svolgere verifiche a posteriori in loco presso l’organo di riscossione e incaricare periti esterni di esaminare la situazione finanziaria.
 
-[^64-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 65
 
@@ -1271,7 +1275,7 @@ Entro 30 giorni dalla scadenza del primo, secondo e terzo trimestre l’organo d
 
 L’organo di riscossione pubblica al più tardi entro fine aprile dell’anno successivo il conto annuale (art. 958 cpv. 2 CO[^65-1]), la relazione di revisione (art. 728*b* cpv. 2 CO) nonché il rapporto d’attività contenente i dati di cui all’articolo 64 capoverso 1.
 
-[^65-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 66
 
@@ -1300,7 +1304,7 @@ I Cantoni e i Comuni forniscono all’organo di riscossione:
 
 <sup>4</sup> I dati vanno forniti all’organo di riscossione mensilmente entro i primi tre giorni lavorativi di ogni mese. Ogni fornitura contiene solo le modifiche sopraggiunte dopo la fornitura precedente. Una volta all’anno il Cantone o il Comune deve fornire, in un preciso momento stabilito dall’UFCOM, l’intera raccolta di dati.
 
-[^67-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^67-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 67a
 
@@ -1356,8 +1360,8 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 <tr><td>r. Livello 18</td><td>[tab] 1 000 000 000 e oltre</td><td>49 925. [^67b-2]</td></tr>
 </table>
 
-[^67b-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
-[^67b-2]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^67b-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^67b-2]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67c
 
@@ -1375,9 +1379,9 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 
 <sup>5</sup> La partecipazione a un gruppo di imprese assoggettato al canone presuppone che l’impresa esoneri per scritto l’AFC dal segreto fiscale nei confronti della rappresentanza del gruppo, se ciò è funzionale alla riscossione e all’incasso del canone.
 
-[^67c-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67c-2]: [RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
-[^67c-3]: Nuovo testo giusta il n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^67c-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67c-2]: [RS 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
+[^67c-3]: Nuovo testo giusta la cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 67d
 
@@ -1391,8 +1395,8 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 
 <sup>3</sup> L’obbligo di pagare il canone spetta alla collettività pubblica alla quale appartengono i servizi riuniti.
 
-[^67d-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^67d-2]: [RS 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67d-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^67d-2]: [RS 641.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8080)
 
 #### Art. 67e
 
@@ -1415,7 +1419,7 @@ Le imprese con una cifra d’affari inferiore a un milione di franchi possono su
 - a. abbiano realizzato un guadagno inferiore al decuplo dell’importo del canone; oppure
 - b. abbiano registrato una perdita.
 
-[^67f-1]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^67f-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67g
 
@@ -1433,7 +1437,7 @@ Il provento netto comprende il canone e gli interessi di mora fatturati nell’a
 - b. i costi d’esercizio dell’AFC per la riscossione del canone;
 - c. i rimborsi secondo l’articolo 67*f*.
 
-[^67g-1]: Nuovo testo giusta il n. I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^67g-1]: Nuovo testo giusta la cifra I dell’O del 29 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 #### Art. 67h
 
@@ -1461,7 +1465,7 @@ L’AFC pubblica, al più tardi entro fine aprile dell’anno successivo, almeno
 - h. i costi d’esercizio dell’AFC per la riscossione del canone;
 - i. il numero di riunioni (art. 67*c* e 67*d*) e di rimborsi (art. 67*f*).
 
-[^67i-1]: Abrogata dal n. I dell’O del 29 ago. 2018, con effetto dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^67i-1]: Abrogata dalla cifra I dell’O del 29 ago. 2018, con effetto dal 1° ott. 2018 ([RU 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
 
 ### Capitolo 3: Pubblicazione di cifre relative al canone
 
@@ -1519,7 +1523,7 @@ Le emittenti terze che fanno valere il diritto di accesso diretto a un avvenimen
 
 <sup>5</sup> Nella misura del possibile l’accesso diretto delle emittenti terze deve essere utilizzato in modo tale da non pregiudicare lo svolgimento dell’avvenimento e l’esercizio dei diritti di prima diffusione e dei diritti di esclusiva.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 #### Art. 70
 
@@ -1619,7 +1623,7 @@ Il regolamento dell’Autorità di ricorso (art. 85 cpv. 2 LRTV) disciplina i pa
 
 <sup>3</sup> La tariffa oraria è di 230 franchi.[^77-1]
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
 
 ## Titolo settimo: Emolumenti amministrativi
 
@@ -1639,7 +1643,7 @@ Il regolamento dell’Autorità di ricorso (art. 85 cpv. 2 LRTV) disciplina i pa
 
 <sup>5</sup> Per il disbrigo delle richieste è riscosso un emolumento amministrativo se esso comporta un onere straordinario. L’UFCOM ne informa previamente la persona assoggettata.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
 
 #### Art. 79
 
@@ -1656,7 +1660,7 @@ Possono beneficiare di una riduzione supplementare dell’emolumento amministrat
 - a. le emittenti cui è stata rilasciata una concessione per la diffusione di un programma senza pubblicità;
 - b. le emittenti che provano di avere ricavi d’esercizio inferiori a 1 milione di franchi. I ricavi d’esercizio comprendono le entrate legate alle attività dell’azienda, in particolare le entrate pubblicitarie e di sponsorizzazione, nonché i contributi e le sovvenzioni.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
 
 #### Art. 80
 
@@ -1666,7 +1670,7 @@ Possono beneficiare di una riduzione supplementare dell’emolumento amministrat
 
 Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^80-1] sugli emolumenti.
 
-[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Titolo ottavo: Disposizioni finali
 
@@ -1674,7 +1678,7 @@ Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 set
 
 [^tit8-chap1-1]
 
-[^tit8-chap1-1]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^tit8-chap1-1]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 80a
 
@@ -1690,10 +1694,10 @@ Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 set
 
 <sup>3</sup> L’UFCOM è autorizzato a rappresentare la Confederazione in seno a organismi internazionali.[^80a-4]
 
-[^80a-1]: Introdotto dal n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
-[^80a-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^80a-3]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
-[^80a-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^80a-1]: Introdotto dalla cifra I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^80a-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^80a-3]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^80a-4]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 #### Art. 81
 
@@ -1707,7 +1711,7 @@ L’ordinanza del 6 ottobre 1997[^81-1] sulla radiotelevisione è abrogata.
 
 [^tit8-chap2-1]
 
-[^tit8-chap2-1]: Introdotto dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^tit8-chap2-1]: Introdotto dalla cifra I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
 
 ### Sezione 1: Utilizzazione delle eccedenze delle quote di partecipazione al canone
 
@@ -1795,7 +1799,7 @@ Il contributo di promozione a favore delle emittenti con partecipazione al canon
 
 <sup>3</sup> Il canone radiotelevisivo è riscosso a partire dal cambiamento di sistema.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
 [^86-2]: [RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
 [^86-3]: [RU 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
 
@@ -1972,7 +1976,7 @@ Apparecchi atti alla ricezione di programmi radiofonici o televisivi sono:
 
 [^tit8-chap2a-1]
 
-[^tit8-chap2a-1]: Introdotto dal n. I dell’O del 25 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
+[^tit8-chap2a-1]: Introdotto dalla cifra I dell’O del 25 ott. 2017, in vigore dal 1° dic. 2017 ([RU 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
 
 ### (art. 45 cpv. 1<sup>bis</sup> LRTV)
 
@@ -1986,7 +1990,7 @@ Apparecchi atti alla ricezione di programmi radiofonici o televisivi sono:
 
 [^tit8-chap2b-1]
 
-[^tit8-chap2b-1]: Introdotto dal n. I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+[^tit8-chap2b-1]: Introdotto dalla cifra I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 #### Art. 96b
 
@@ -2012,7 +2016,7 @@ Allegato 1[^t-1]
 
 ## Modalità di diffusione e zone di copertura per la diffusione via etere di programmi radiofonici con mandato di prestazioni e partecipazione al canone
 
-[^t-1]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta il n. II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+[^t-1]: Introdotto dalla cifra II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta la cifra II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 ### 1 Definizioni
 
@@ -2033,8 +2037,8 @@ Nel presente allegato, s’intende per:
 - 2\.5 La descrizione tecnica della rete è rilasciata dall’autorità concedente. Se la Commissione federale delle comunicazioni è l’autorità concedente, può delegare questo compito all’UFCOM.
 
 [^annex1-lvlu1-lvl2-1]: Il Piano nazionale di attribuzione delle frequenze può essere consultato gratuitamente sul sito dell’Ufficio federale delle comunicazioni all’indirizzo seguente: www.bakom.admin.ch &gt; Frequenze e antenne &gt; Piano nazionale di attribuzione delle frequenze.
-[^annex1-lvlu1-lvl2-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^annex1-lvlu1-lvl2-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^annex1-lvlu1-lvl2-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^annex1-lvlu1-lvl2-3]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 ### 3 Obblighi di diffusione per i concessionari di radiocomunicazione
 
@@ -2115,7 +2119,7 @@ Allegato 2[^t-2]
 
 ## Modalità di diffusione e zone di copertura per emittenti televisive regionali con mandato di prestazioni e partecipazione al canone
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta il n. II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta la cifra II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 ### 1 Modalità di diffusione
 
@@ -2140,7 +2144,7 @@ I programmi televisivi regionali con mandato di prestazioni e partecipazione al 
 <tr><td>i.</td><td>Svizzera centrale</td><td>Cantone di Lucerna Cantone di Zugo Cantone di Obvaldo Cantone di Nidvaldo Cantone di Uri Cantone di Svitto</td></tr>
 <tr><td>j.</td><td>Zurigo – Svizzera nord orientale</td><td>Cantone di Zurigo Cantone di Sciaffusa Cantone di Turgovia</td></tr>
 <tr><td>k.</td><td>Svizzera orientale</td><td>Cantone di San Gallo Cantone di Appenzello Interno Cantone di Appenzello Esterno Cantone di Turgovia</td></tr>
-<tr><td>l.</td><td>Svizzera sud orientale – Glarona</td><td>Cantone dei Grigioni Cantone di Glarona Cantone di San Gallo: circondari elettorali di Sargans e Werdenberg</td></tr>
+<tr><td>l.</td><td>Svizzera sud orientale – Glarona</td><td>Cantone dei Grigioni Cantone di Glarona Cantone di San Gallo: circondari elettorali di Sarganserland e Werdenberg</td></tr>
 <tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a diffondere una determinata quota minima delle trasmissioni in romancio e in italiano.</td></tr>
 <tr><td>m.</td><td>Ticino</td><td>Cantone Ticino Cantone dei Grigioni: circondario Moesa</td></tr>
 </table>
@@ -2151,7 +2155,7 @@ Allegato 3[^t-3]
 
 ## Elenco dei programmi esteri che devono essere diffusi su linea
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
 In tutta la Svizzera:
 
