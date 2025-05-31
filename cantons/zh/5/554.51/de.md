@@ -4,11 +4,10 @@ number: "554.51"
 title: Hundeverordnung (HuV)
 short: HuV
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2025-06-01
+version: "2025-06-01"
+nachtrag: "129"
 adopted: 2009-11-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_51-2009_11_25-2010_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_51-2009_11_25-2010_01_01-129.html"
 text: pdf
 ---
 
@@ -20,7 +19,7 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf §§ 7 Abs. 2, 8 Abs. 2 und 23 Abs. 2 des Hundegesetzes vom 14. April 2008 (HuG)[^t-2],
+gestützt auf §§ 7 Abs. 2, 8 Abs. 2 und 23 Abs. 2 des Hundegesetzes vom 14.April 2008 (HuG)[^t-2],
 
 beschliesst:
 
@@ -53,27 +52,21 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 
 - b. bei einer bestehenden oder zu erwartenden Gefährdung der Sicherheit von Mensch und Tier durch einen Hund.
 
+**Zentrale Hundedatenbank**
+
+§ 3 a.[^3-1] Zentrale Datenbank zur Registrierung der Hunde ist die nationale Datenbank AMICUS für Hunde (zentrale Hundedatenbank).
+
+[^3-1]: Eingefügt durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+
 ### B. Rassetypen
 
-#### § 4
-
-**Hunde der Rassetypenliste I**
-
-<sup>1</sup> Zur Rassetypenliste I im Sinne von § 7 Abs. 2 lit. a HuG zählen Hunde, die a. nicht der Rassetypenliste II zuzuordnen sind und b. nicht von Elterntieren abstammen, die beide zu einer der im Anhang zu dieser Verordnung genannten oder ähnlich kleinwüchsigen Rassen gehören.
+§ 4.[^hBRassetypen-1]
 
 **1**
 
-- 1\. 1. 25 - 127
-
-<sup>2</sup> Verfügt die Halterin oder der Halter über Abstammungsnachweise, hat sie oder er diese vorzuweisen.
-
-<sup>3</sup> Werden keine Abstammungsnachweise vorgelegt oder ist die Zuordnung des Hundes aus anderen Gründen zweifelhaft, entscheidet darüber das Veterinäramt.
-
-#### § 5
+- 1\. 7. 25 - 129 § 5. <sup>1</sup> Zur Rassetypenliste II im Sinne von § 8 Abs. 2 HuG zählen Hunde, die mindestens 10% Blutanteil von Hunden folgender Rassetypen haben:
 
 **Hunde der Rassetypenliste II a. Zuordnung**
-
-<sup>1</sup> Zur Rassetypenliste II im Sinne von § 8 Abs. 2 HuG zählen Hunde, die mindestens 10% Blutanteil von Hunden folgender Rassetypen haben:
 
 - a. American Staffordshire Terrier,
 
@@ -81,13 +74,14 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 
 - c. Staffordshire Bull Terrier,
 
-- d. American Pit Bull Terrier, Pit Bull Terrier, Bandog und Basicdog, e.[^5-1] Rottweiler.
+- d. American Pit Bull Terrier, Pit Bull Terrier, Bandog und Basicdog, e.[^hBRassetypen-2] Rottweiler.
 
 <sup>2</sup> Verfügt die Halterin oder der Halter über Abstammungsnachweise, hat sie oder er diese vorzuweisen.
 
 <sup>3</sup> Werden keine Abstammungsnachweise vorgelegt oder ist die Zuordnung des Hundes aus anderen Gründen zweifelhaft, entscheidet darüber das Veterinäramt.
 
-[^5-1]: Eingefügt durch RRB vom 18. Dezember 2024 (OS 79, 477; ABl 2024-12-20). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 11
+[^hBRassetypen-1]: Aufgehoben durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 13
+[^hBRassetypen-2]: Eingefügt durch RRB vom 18. Dezember 2024 (OS 79, 477; ABl 2024-12-20). In Kraft seit 1. Januar 2025.
 
 #### § 6
 
@@ -106,196 +100,266 @@ Das Veterinäramt trifft Abklärungen und Massnahmen nach §§ 17–19 HuG a. be
 - b. im Rahmen der Haltebewilligung nach § 30 HuG eine entsprechende Auflage verfügt worden ist.
 
 [^6-1]: SR 455.1.
+[^6-2]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
 
-### C. Praktische Hundeausbildung
+### C. Ausbildungsverpflichtung
 
-#### § 7
+[^6-2]
 
-**Allgemein**
+**Grundsatz**
 
-<sup>1</sup> Die praktische Hundeausbildung im Sinne von § 7 Abs. 1 HuG ist mit Hunden der Rassetypenliste I zu besuchen.
+§ 7.[^hCAusbildungsverpfl-1] <sup>1</sup> Zum Besuch der theoretischen und praktischen Hundeausbildung ist verpflichtet, wer in einer Zürcher Gemeinde niedergelassen ist und einen Hund für mindestens drei Monate hält.
 
-<sup>2</sup> Die Ausbildung besteht aus der Welpenförderung, dem Junghundekurs und unter den Voraussetzungen von § 10 Abs. 1 dem Erziehungskurs. Mit Hunden, die in gemeldeten Tierheimen nach Art. 101 Abs. 1 lit. a TSchV gehalten werden, muss nur die Welpenförderung besucht werden.
+<sup>2</sup> Die Ausbildung muss bei einer Ausbildnerin oder einem Ausbildner erfolgen, die oder der über eine entsprechende Bewilligung des Veterinäramtes verfügt.
 
-<sup>3</sup> Die Kurse umfassen praktische Übungslektionen und die Aufklärung der Halterinnen und Halter über ihre Pflichten. Die Gesundheitsdirektion bestimmt den Inhalt der Kurse in einem Reglement.
+**Ausnahmen von der theoretischen Ausbildung**
 
-<sup>4</sup> Die Kurse sind bei Hundeausbilderinnen oder -ausbildern zu besuchen, die über eine Bewilligung nach § 15 verfügen.
+§ 8.[^hCAusbildungsverpfl-1] <sup>1</sup> Keine Pflicht zur theoretischen Ausbildung besteht für a. Personen, die in den letzten zehn Jahren einen Hund für mindestens sechs Monate in Folge gehalten haben,
 
-#### § 8
+- b. Personen, die den Hund von ihrer Ehepartnerin oder ihrem Ehepartner oder ihrer Lebenspartnerin oder ihrem Lebenspartner übernehmen, wenn der Hund seit mindestens sechs Monaten im gemeinsamen Haushalt lebt,
 
-**Welpenförderung**
+- c. sehbehinderte Personen, die einen Blindenführhund einer von der Invalidenversicherung anerkannten Blindenführhundeschule übernehmen.
 
-<sup>1</sup> Die Halterin oder der Halter eines Welpen hat mit diesem zwischen dessen 8. und 16. Lebenswoche die Welpenförderung zu besuchen.
+<sup>2</sup> Massgebend sind die Daten der zentralen Hundedatenbank. Liegen keine entsprechenden Daten vor, sind andere Nachweise zulässig.
 
-<sup>2</sup> Die Lernziele der Welpenförderung sind a. der Aufbau der Bindung des Hundes zur Halterin oder zum Halter,
+**Ausnahmen von der praktischen Hundeausbildung**
 
-- b. die Förderung von erwünschtem Verhalten des Welpen,
+§ 9.[^hCAusbildungsverpfl-1] <sup>1</sup> Keine Pflicht zur praktischen Hundeausbildung besteht a. für Personen, die einen Hund halten, der bei seinem Erwerb oder beim Zuzug der Person in den Kanton älter als zehn Jahre ist,
 
-- c. die Sozialisation mit Menschen und Artgenossen sowie die Gewöhnung an die Umwelt,
+- b. für Personen, die in den Kanton zuziehen, wenn sie eine praktische Hundeausbildung absolviert haben, die gemäss Bestätigung des Veterinäramtes gleichwertig ist,
 
-- d. die Anwendung tiergerechter Erziehungsmethoden,
+- c. für Personen, die den Hund von ihrer Ehepartnerin oder ihrem Ehepartner oder ihrer Lebenspartnerin oder ihrem Lebenspartner übernehmen, wenn der Hund seit mindestens sechs Monaten im gemeinsamen Haushalt lebt,
 
-- e. das Wahrnehmen und Umsetzen der Pflichten als Halterin oder als Halter.
+- d. für Personen, die gemäss § 16 d Abs. 1 eine Bewilligung als Hundeausbildnerin oder Hundeausbildner haben,
 
-<sup>3</sup> Die Welpenförderung umfasst mindestens vier praktische Übungslektionen zu mindestens 50 Minuten. Die Lektionen sind an verschiedenen Tagen zu besuchen.
+- e. bei Hunden, die in der zentralen Hundedatenbank auf ein Tierheim registriert sind, ausgenommen jene, die ein Tierheim aus dem Ausland eingeführt hat, um sie in der Schweiz zu platzieren,
 
-#### § 9
+- f. für Personen, die einen Assistenzhund von einer von der Invalidenversicherung anerkannten Schule oder Ausbildungsvereinigung halten,
 
-**Junghundekurs**
+- g. für Personen, die als Milizhundeführerin oder -führer während der Rekrutenschule oder als Instruktorin oder Instruktor einen Hund der Armee übernehmen, wenn der Hund in der Armee eingesetzt wird oder für einen solchen Einsatz vorgesehen ist,
 
-<sup>1</sup> Die Halterin oder der Halter eines Junghundes hat mit diesem bis zu dessen 18. Lebensmonat den Junghundekurs zu besuchen.
-
-<sup>2</sup> Die Lernziele des Junghundekurses sind a. das Erreichen eines Grundgehorsams des Hundes,
-
-- b. das korrekte Anbinden und Führen des Hundes an der Leine,
-
-- c. das tiergerechte und sichere Führen des Hundes in der Umwelt sowie bei der Begegnung mit Menschen, Artgenossen und anderen Tieren, insbesondere Wildtieren,
-
-- d. eine dem Entwicklungsstand des Hundes angemessene Weiterführung und Vertiefung der Lernziele der Welpenförderung,
+- h. bei Hunden, die für den Sicherheitsdienst der Polizei oder einer Strafvollzugsanstalt oder beim Grenzwachtkorps eingesetzt werden oder für einen solchen Einsatz vorgesehen sind,
 
 **3**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 25 - 129
 
-- e. die Umsetzung der für ein sicheres Führen des Hundes bedeutsamen Grundsätze im Zusammenleben mit dem Hund.
+- i. bei vom Bundesamt für Umwelt anerkannten Herdenschutzhunden.
 
-<sup>3</sup> Der Junghundekurs umfasst mindestens zehn praktische Übungslektionen zu mindestens 50 Minuten. Die Lektionen sind an mindestens zehn verschiedenen Tagen zu besuchen. Sie sind teilweise innerhalb und teilweise ausserhalb des Übungsgeländes abzuhalten.
+<sup>2</sup> Das Veterinäramt kann eine Person auf Gesuch von der praktischen Hundeausbildung befreien, wenn sie a. aus gesundheitlichen Gründen die Ausbildung nicht absolvieren kann,
 
-#### § 10
+- b. einen kranken oder verhaltensauffälligen Hund hält, mit dem keine praktische Hundeausbildung durchgeführt werden kann.
 
-**Erziehungskurs**
+[^hCAusbildungsverpfl-1]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+[^hCAusbildungsverpfl-2]: Eingefügt durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
 
-<sup>1</sup> Die Halterin oder der Halter eines Hundes muss mit diesem in folgenden Fällen einen Erziehungskurs besuchen:
+### D. Ausbildung
 
-- a. Sie oder er hat den Hund übernommen, als dieser zwischen 16 Wochen und 18 Monate alt war, wobei der Hund die Welpenförderung nicht oder nicht vollständig besucht hat. Der Erziehungskurs ist innert eines Jahres nach Abschluss des Junghundekurses zu besuchen.
+[^hCAusbildungsverpfl-2]
 
-- b. Sie oder er hat den Hund übernommen oder ist mit diesem zugezogen, als dieser zwischen 18 Monate und acht Jahre alt war. Der Erziehungskurs ist innert eines Jahres nach der Übernahme oder dem Zuzug zu besuchen.
+**Theoretische Ausbildung a. Ziel und Inhalt**
 
-- c. Sie oder er hat mit dem Hund die Welpenförderung oder den Junghundekurs nicht besucht, obwohl sie oder er den Hund im fraglichen Alter im Kanton gehalten hat.
+§ 10.[^hDAusbildunghCAus-1] <sup>1</sup> Die theoretische Ausbildung vermittelt Grundwissen in folgenden Bereichen:
 
-<sup>2</sup> Lernziel des Erziehungskurses ist die der Reife und dem Ausbildungsstand des Hundes angemessene Vertiefung der Inhalte des Junghundekurses.
+- a. rechtliche Vorgaben für die Hundehaltung,
 
-<sup>3</sup> Der Erziehungskurs umfasst a. in den Fällen von Abs. 1 lit. a und b mindestens zehn praktische Übungslektionen zu mindestens 50 Minuten, wobei die Lektionen an mindestens fünf verschiedenen Tagen zu besuchen sind,
+- b. Bedürfnisse, Sozialverhalten und Lernweise eines Hundes,
 
-- b. im Fall von Abs. 1 lit. c mindestens 20 praktische Übungslektionen zu mindestens 50 Minuten, wobei die Lektionen an mindestens zehn verschiedenen Tagen zu besuchen sind.
+- c. Einsatz von Hilfsmitteln der Hundehaltung und Hundeerziehung,
 
-<sup>4</sup> Die Lektionen sind teilweise innerhalb und teilweise ausserhalb des Übungsgeländes abzuhalten.
+- d. zeitlicher und finanzieller Aufwand der Hundehaltung.
 
-#### § 11
+<sup>2</sup> Das Veterinäramt bestimmt die Lernziele und die Ausbildungsinhalte.
 
-**Lernziele für Nutzhunde**
+**b. Zeitpunkt und Umfang**
 
-Für Nutzhunde nach Art. 69 Abs. 2 TSchV können die Lernziele der Welpenförderung, des Junghunde- und des Erziehungskurses dem Einsatzzweck angepasst werden.
+§ 11.[^hDAusbildunghCAus-1] <sup>1</sup> Die theoretische Ausbildung ist frühestens ein Jahr vor und spätestens zwei Monate nach Beginn der Hundehaltung bzw. dem Zuzug in den Kanton zu besuchen.
 
-#### § 12
+<sup>2</sup> Die theoretische Ausbildung umfasst einen durchschnittlichen Lernaufwand von zwei Stunden und den Zeitaufwand für die Prüfung.
 
-**Anrechnung anderer Ausbildungen**
+**c. Abschluss**
 
-<sup>1</sup> Die zur Erlangung des praktischen Sachkundenachweises nach Art. 68 Abs. 2 TSchV besuchten Lektionen werden dem Junghundekurs beziehungsweise dem Erziehungskurs vollumfänglich angerechnet.
+§ 12.[^hDAusbildunghCAus-1] <sup>1</sup> Die theoretische Ausbildung wird mit einer Prüfung abgeschlossen.
 
-<sup>2</sup> Andere von der Halterin oder vom Halter besuchte Ausbildungen werden angerechnet, soweit sie Inhalte der praktischen Hundeausbildung nach dieser Verordnung abdecken und durch Hundeausbilderinnen oder -ausbilder mit Bewilligung nach § 15 erteilt wurden.
+<sup>2</sup> Das Veterinäramt gibt die Prüfungsfragen vor.
 
-#### § 13
+<sup>3</sup> Die Ausbildnerin oder der Ausbildner trägt das erfolgreiche Absolvieren der Ausbildung innert zehn Tagen in der zentralen Hundedatenbank ein, sofern die Kursabsolventin oder der Kursabsolvent dort bereits erfasst ist.
 
-**Bestätigung**
+<sup>4</sup> Sie oder er stellt der Absolventin oder dem Absolventen innert dieser Frist eine schriftliche Prüfungsbestätigung zu. Die Kursabsolventin oder der Kursabsolvent reicht die Bestätigung mit der Anmeldung des Hundes, aber spätestens innerhalb von drei Monaten nach Beginn der Hundehaltung der Gemeinde ein.
 
-<sup>1</sup> Nach erfolgreichem Abschluss eines Kurses stellt die Hundeausbilderin oder der Hundeausbilder der Halterin oder dem Halter eine Bestätigung aus:
+**Praktische Hundeausbildung a. Ziel**
 
-- a. über den Besuch der Welpenförderung, des Junghundekurses oder des Erziehungskurses,
+§ 13.[^hDAusbildunghCAus-1] <sup>1</sup> Die praktische Hundeausbildung bezweckt:
 
-- b. über den Bestand der praktischen Sachkunde nach Art. 68 Abs. 2 TSchV, sofern die Voraussetzungen hierfür erfüllt sind.
+- a. Förderung der Bindung und Beziehung des Hundes zur Hundehalterin oder zum Hundehalter,
 
-<sup>2</sup> Die Gesundheitsdirektion regelt das Nähere in einem Reglement.
+- b. Erkennen und Verstehen der Körpersprache des Hundes,
 
-<sup>3</sup> Ist die Erteilung der Bestätigung umstritten, entscheidet das Veterinäramt darüber mittels Verfügung.
+- c. Befähigung der Hundehalterin oder des Hundehalters zur Grunderziehung des Hundes,
 
-<sup>4</sup> Die Hundehalterinnen und -halter weisen dem Veterinäramt und anderen für den Vollzug der Hundegesetzgebung zuständigen Behörden Bestätigungen auf Verlangen vor.
+- d. tiergerechtes und sicheres Führen des Hundes auch in anspruchsvollen Alltagssituationen,
 
-#### § 14
+- e. Vermittlung der Methoden zur Maulkorbgewöhnung.
 
-**Nachweis und Kontrolle**
+<sup>2</sup> Das Veterinäramt legt die Lernziele fest.
 
-<sup>1</sup> Die Halterin oder der Halter reicht der Gemeinde die Bestätigung innert eines Monats seit Erhalt ein.
+<sup>3</sup> Alle Lektionen sind von der in der zentralen Hundedatenbank eingetragenen Hundehalterin oder dem Hundehalter mit dem dort registrierten Hund zu besuchen.
 
-<sup>2</sup> Die Gemeinden prüfen mindestens jährlich, ob die Hundehalterinnen und -halter die praktische Hundeausbildung gemäss dieser Verordnung besucht haben. Sie können prüfen, ob die Ausbildungsanforderungen nach Art. 68 TSchV erfüllt sind.
+<sup>4</sup> Die Ausbildnerin oder der Ausbildner prüft die Identität der Hundehalterin oder des Hundehalters anhand eines amtlichen Ausweises und kontrolliert, ob die Personalien der Hundehalterin oder des Hundehalters und die beim Hund abgelesene Mikrochipnummer mit den Angaben auf dem Hundeausweis oder auf der Registrierungsbestätigung der Hundedatenbank übereinstimmen.
 
-<sup>3</sup> Die Gemeinde prüft den praktischen Sachkundenachweis nach Art. 68 Abs. 2 TSchV, wenn die Halterin oder der Halter a. einen Hund übernommen hat, der älter als acht Jahre ist,
+<sup>5</sup> Die Lektionen finden innerhalb und ausserhalb eines Übungsgeländes statt.
 
-- b. mit einem solchen Hund in den Kanton zuzieht.
+**b. Zeitpunkt und Umfang**
 
-### D. Hundeausbilderinnen und Hundeausbilder
+§ 14.[^hDAusbildunghCAus-1] <sup>1</sup> Die praktische Hundeausbildung beginnt frühestens nach Vollendung des sechsten Lebensmonats des Hundes.
 
-#### § 15
+<sup>2</sup> Sie muss zwölf Monate nach Beginn der Hundehaltung oder nach dem Zuzug in den Kanton abgeschlossen sein.
 
-**Erteilung der Bewilligung**
+<sup>3</sup> Die praktische Hundeausbildung umfasst sechs Lektionen zu je 60 Minuten.
 
-<sup>1</sup> Das Veterinäramt erteilt einer Person auf schriftliches Gesuch hin die Bewilligung zur Durchführung von Junghunde- und Erziehungskursen, wenn sie a. die Anforderungen nach Art. 203 Abs. 1 TSchV erfüllt oder b. über vergleichbare Kenntnisse und Fähigkeiten oder über einen Beruf mit vergleichbaren Voraussetzungen nach Art. 199 Abs. 3 TSchV verfügt.
+<sup>4</sup> Die Lektionen sind mit einem Abstand von mindestens einer Woche zu besuchen.
+
+**c. Absolvierung**
+
+§ 15.[^hDAusbildunghCAus-1] <sup>1</sup> Die Ausbildnerin oder der Ausbildner führt auf einer vom Veterinäramt vorgegebenen Checkliste fortlaufend nach, welche Lernziele der Hund erreicht hat (Lernerfolgskontrolle).
+
+<sup>2</sup> Die Ausbildung ist erfolgreich absolviert, wenn die Hundehalterin oder der Hundehalter alle Lernziele erreicht hat. Konnten diese nach sechs Lektionen nicht erreicht werden, sind weitere Lektionen zu besuchen.
+
+<sup>3</sup> Die Ausbildnerin oder der Ausbildner trägt das erfolgreiche Absolvieren der Ausbildung innert zehn Tagen in der zentralen Hundedatenbank ein.
 
 **5**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 25 - 129
 
-<sup>2</sup> Die Bewilligung zur Durchführung der Welpenförderung setzt voraus, dass die Person zusätzlich vertiefte Kenntnisse über die Welpenentwicklung und über die Durchführung praktischer Übungslektionen mit Welpen nachweist. Die Gesundheitsdirektion regelt das Nähere in einem Reglement.
+<sup>4</sup> Sie oder er händigt der Hundehalterin oder dem Hundehalter innert dieser Frist die Lernerfolgskontrolle aus und bestätigt darauf das Erreichen der Lernziele.
 
-<sup>3</sup> Das Veterinäramt führt eine Liste der Namen der Bewilligungsinhaberinnen und -inhaber sowie der Dauer der Bewilligungen. Es veröffentlicht die Liste.
+**Kostentragung**
 
-#### § 16
+§ 16.[^hDAusbildunghCAus-1] Die Hundehalterin oder der Hundehalter trägt die Kosten der theoretischen und praktischen Ausbildung.
 
-**Befristung und Fortbildung**
+**Dokumentation**
 
-<sup>1</sup> Die Bewilligungen sind auf vier Jahre befristet.
+§ 16 a.[^hDAusbildunghCAus-2] Die Ausbildnerin oder der Ausbildner führt eine Liste der Hundehalterinnen und Hundehalter, die eine Ausbildung absolviert haben. Sie oder er bewahrt die Liste, die Prüfungsergebnisse der theoretischen Ausbildung und die Lernerfolgskontrolle der praktischen Hundeausbildung während dreier Jahre auf. Sie oder er legt die Unterlagen dem Veterinäramt auf Ersuchen vor.
 
-<sup>2</sup> Sie werden um vier Jahre verlängert, wenn die Bewilligungsinhaberinnen und -inhaber folgende, innerhalb der letzten vier Jahre erworbene Fortbildung nachweisen:
+**Entscheid des Veterinäramtes**
 
-- a. Ausbilderinnen und Ausbilder nach § 15 Abs. 1 lit. a: Fortbildungsbestätigung ihrer Ausbildungsstätte nach Art. 205 TSchV,
+§ 16 b.[^hDAusbildunghCAus-2] <sup>1</sup> Entscheidet eine Ausbildnerin oder ein Ausbildner, dass die theoretische oder praktische Hundeausbildung nicht erfolgreich absolviert wurde, kann die Hundehalterin oder der Hundehalter die Überprüfung durch das Veterinäramt verlangen.
 
-- b. Ausbilderinnen und Ausbilder nach § 15 Abs. 1 lit. b: Nachweis von mindestens vier Tagen besuchter Fortbildung innerhalb der Ziele von § 9 Abs. 2 oder zur Erwachsenenbildung,
+<sup>2</sup> Bestätigt das Veterinäramt den Entscheid, erlässt es eine anfechtbare Verfügung und erhebt eine Gebühr.
 
-- c. Ausbilderinnen und Ausbilder nach § 15 Abs. 2: zusätzlich einen Tag Fortbildung im Bereich der Welpenentwicklung oder Durchführung praktischer Übungslektionen mit Welpen.
+[^hDAusbildunghCAus-1]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+[^hDAusbildunghCAus-2]: Eingefügt durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
 
-### E. Gebühren und Abgaben
+### E. Ausbildnerinnen und Ausbildner
 
-#### § 17
+[^hDAusbildunghCAus-1]
 
-**Gebühren a. Der Gemeinden**
+**Allgemeines**
 
-<sup>1</sup> Die Gemeinden können in ihrem Zuständigkeitsbereich eine Gebührenordnung erlassen.
+§ 16 c.[^hEAusbildnerinnenu-1] <sup>1</sup> Personen, welche die theoretische oder praktische Hundeausbildung anbieten wollen, benötigen eine Bewilligung des Veterinäramtes.
 
-<sup>2</sup> Für die Bearbeitung von Meldungen nach § 2 Abs. 2 lit. a HuG können die Gemeinden von den Hundehalterinnen oder den Hundehaltern folgende Gebühren erheben:
+<sup>2</sup> Das Veterinäramt veröffentlicht eine Liste mit den Bewilligungsinhaberinnen und -inhabern.
+
+**Bewilligung a. Voraussetzungen**
+
+§ 16 d.[^hEAusbildnerinnenu-1] <sup>1</sup> Das Veterinäramt erteilt einer natürlichen Person unter folgenden Voraussetzungen die Bewilligung zur Erteilung der theoretischen und praktischen Hundeausbildung:
+
+- a. Die Person ist volljährig.
+
+- b. Die Person hat innerhalb der letzten drei Jahre vor Einreichung des Gesuchs mindestens 150 Stunden praktische Hundeausbildung geleitet oder bei ihrer Durchführung mitgewirkt.
+
+- c. Die Person hat längstens ein Jahr vor Einreichung des Gesuchs die Theorie- und Praxisprüfung als Hundeausbildnerin oder Hundeausbildner bestanden.
+
+- d. Die Person legt einen höchstens drei Monate alten Privatauszug aus dem Strafregister vor, aus dem sich keine Verurteilung ergibt, welche die Eignung der Person als Hundeausbildnerin oder Hundeausbildner infrage stellt.
+
+- e. Gegen die Person liegt kein Tierhalteverbot vor. Hat die Person Wohnsitz in einem anderen Kanton, legt sie eine entsprechende, höchstens drei Monate alte Bestätigung der Veterinärbehörde des Wohnkantons vor.
+
+<sup>2</sup> Das Veterinäramt erteilt natürlichen oder juristischen Personen die Bewilligung zur Erteilung der theoretischen Ausbildung in Form des webbasierten Lernens, sofern der Ausbildungsgang geeignet ist, die Lernziele und Ausbildungsinhalte gemäss § 10 Abs. 2 zu vermitteln.
+
+**b. Prüfung**
+
+§ 16 e.[^hEAusbildnerinnenu-1] <sup>1</sup> Mit der Theorieprüfung gemäss § 16 d Abs. 1 lit. c weist die Person vertieftes Wissens in den Bereichen der theoretischen Ausbildung gemäss § 10 Abs. 1 und in folgenden Bereichen nach:
+
+- a. Biologie und Verhaltenskunde des Hundes,
+
+- b. körperliche Beeinträchtigungen des Hundes und erste Hilfe,
+
+- c. tiergerechte Erziehungsmethoden,
+
+- d. Lektionenplanung samt Festlegung von Lernzielen, Methodik und Didaktik.
+
+<sup>2</sup> Die Theorieprüfung erfolgt schriftlich und dauert 60 Minuten.
+
+<sup>3</sup> Mit der praktischen Prüfung gemäss § 16 d Abs. 1 lit. c weist die Person vertiefte Kenntnisse in den Bereichen der praktischen Hundeausbildung gemäss § 13 Abs. 1 sowie in folgenden Bereichen nach:
+
+- a. Erkennen von und korrekter Umgang mit auffälligem Verhalten eines Hundes,
+
+- b. korrekter Umgang mit Konflikten zwischen Mensch und Hund und unter Hunden,
+
+- c. zweckmässige Anleitung der Hundehalterinnen und Hundehalter sowie sinnvolle Gestaltung der praktischen Ausbildungslektionen.
+
+<sup>4</sup> Die praktische Prüfung erfolgt in der Form einer Lektion praktischer Hundeausbildung.
+
+<sup>5</sup> Das Veterinäramt kann Dritte mit der Durchführung der Theorie- und Praxisprüfung beauftragen.
+
+[^hEAusbildnerinnenu-1]: Eingefügt durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+
+### F. Gebühren und Abgaben
+
+[^hEAusbildnerinnenu-1]
+
+**Gebühren a. der Gemeinden**
+
+§ 17.[^hFGebührenundAbga-1] <sup>1</sup> Für die Bearbeitung von Meldungen nach § 2 Abs. 2 lit. a HuG[^hFGebührenundAbga-2] können die Gemeinden von den Hundehalterinnen oder Hundehaltern folgende Gebühren erheben:
 
 - a. bis Fr. 20 für ordentliche Meldungen,
 
-- b. bis Fr. 40 für verspätete Meldungen,
+- b. bis Fr. 40 für verspätete Meldungen.
 
-- c. den tatsächlich entstandenen Aufwand, aber höchstens Fr. 150, wenn die Gemeinde anstatt der Halterin oder des Halters die Meldung bei der ANIS AG (§ 20 Abs. 1 HuG) vornehmen muss.
+**7**
 
-#### § 18
+- 1\. 7. 25 - 129
 
-**b. Des Kantons**
+- c. den tatsächlich entstandenen Aufwand, aber höchstens Fr. 150, wenn die Gemeinde anstatt der Hundehalterin oder des Hundehalters die Meldung bei der zentralen Hundedatenbank vornehmen muss.
 
-<sup>1</sup> Das Veterinäramt erhebt höchstens folgende Gebühren:
+<sup>2</sup> Für besonders aufwendige Abklärungen anlässlich der Prüfung der Ausbildungsverpflichtung nach § 7 Abs. 1 oder des Vorliegens einer Ausnahme nach §§ 8 Abs. 1 oder 9 Abs. 1 kann die Gemeinde eine Gebühr bis Fr. 150 erheben.
 
-- a. von Hundeausbilderinnen und -ausbildern:
+<sup>3</sup> Für Verfügungen gegenüber säumigen Hundehalterinnen und Hundehaltern gemäss § 22 a Abs. 2 kann die Gemeinde eine Gebühr bis Fr. 150 zuzüglich Schreibgebühren erheben.
 
-- 1\. für die Bewilligung nach § 15: Fr. 600,
+**b. des Veterinäramtes**
 
-- 2\. für die Verlängerung der Bewilligung: Fr. 180;
+§ 18.[^hFGebührenundAbga-1] <sup>1</sup> Das Veterinäramt erhebt höchstens folgende Gebühren:
 
-- b. von Halterinnen und Haltern:
+- a. von Hundeausbildnerinnen und Hundeausbildnern:
 
-- 1\. für die Erteilung oder Ablehnung einer Haltebewilligung nach § 30 HuG: Fr. 1200,
+**Fr. 1500**
 
-- 2\. für Änderungen und Ergänzungen der Haltebewilligung: Fr. 500.
+- 1\. für die Bewilligung zur Erteilung der theoretischen und praktischen Ausbildung nach § 16 c
 
-<sup>2</sup> Sofern Massnahmen nach §§ 18 und 19 HuG verfügt werden oder die Halterin oder der Halter Mitwirkungspflichten verletzt hat, verrechnet das Veterinäramt höchstens:
+- b. von Hundehalterinnen und Hundehaltern:
 
-- a. für eine Wesensbeurteilung: Fr. 1000,
+- 1\. für den Entscheid über Gesuche um Befreiung von der Pflicht zur praktischen Ausbildung nach § 9 Abs. 1 lit. b oder Abs. 2
 
-- b. für die weiteren Aufwendungen des Veterinäramtes: Fr. 180 pro Stunde.
+**Fr. 400**
 
-<sup>3</sup> Die Gebühren werden nach dem personellen Aufwand, dem Zeitaufwand und nach der Bedeutung der Sache festgesetzt. Die Gesundheitsdirektion regelt das Nähere in einer Gebührenordnung.
+- 2\. für die Bestätigung des Entscheids einer Ausbildnerin oder eines Ausbildners, wonach die theoretische oder praktische Ausbildung nicht erfolgreich absolviert worden ist (§ 16 b Abs. 2)
 
-<sup>4</sup> Zusätzlich sind die tatsächlich entstandenen Auslagen zu ersetzen.
+**Fr. 600**
+
+**Fr. 1200**
+
+- 3\. für die Erteilung oder Ablehnung einer Haltebewilligung nach § 30 HuG
+
+**Fr. 500**
+
+- 4\. für die Änderung oder Ergänzung einer Haltebewilligung nach § 30 HuG
+
+<sup>2</sup> Für weitere Amtshandlungen erhebt das Veterinäramt Gebühren nach Aufwand. Der Stundenansatz beträgt Fr. 180.
+
+<sup>3</sup> Auslagen, ausgenommen Schreibgebühren, werden zusätzlich verrechnet.
+
+[^hFGebührenundAbga-1]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+[^hFGebührenundAbga-2]: LS 554.5.
 
 #### § 19
 
@@ -311,43 +375,53 @@ Die jährliche Abgabe nach § 23 Abs. 1 HuG ist bis spätestens Ende März zu en
 
 <sup>2</sup> Die Gemeinden teilen dem Veterinäramt jährlich per 30. September die Anzahl der Hunde mit, für die eine Abgabe geleistet werden muss. Gestützt darauf erhebt das Veterinäramt bei den Gemeinden im November die Beiträge.
 
-[^20-1]: Fassung gemäss RRB vom 10. Juli 2013 (OS 68, 337; ABl 2013-07-19). In Kraft seit 1. November 2013.
+[^20-1]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
 
 #### § 21
 
 **c. Befreiung**
 
-Die Halterinnen und Halter von Hunden nach § 25 HuG reichen der Gemeinde die für die Befreiung von der Abgabe erforderlichen Unterlagen ein. Im Einzelnen sind dies[^20-1] a. für Dienst- und Militärhunde: Bescheinigung der vorgesetzten Amtsstelle,
+Die Hundehalterinnen und Hundehalter gemäss § 25 HuG reichen der Gemeinde die für die Befreiung von der Abgabe erforderlichen Unterlagen ein. Im Einzelnen sind dies[^20-1] a. für Dienst- und Militärhunde: Bescheinigung der vorgesetzten Amtsstelle,
 
 - b. für Sanitäts-, Lawinen- und Katastrophenhunde: Leistungsheft der Schweizerischen Kynologischen Gesellschaft sowie Nachweis der Einsatzverpflichtung,
 
 - c. für Schweisshunde: von der Fischerei- und Jagdverwaltung der Baudirektion ausgestellter Prüfungsnachweis sowie Nachweis der Einsatzverpflichtung,
 
-- d. für Begleit-, Hilfs- und Therapiehunde: Nachweis der Ausbildungsstätte und Bestätigung der Institution, der Therapeutin oder des Therapeuten oder der motorisch Behinderten, aus der Art und Umfang des Einsatzes hervorgehen,
+- d. für Blindenführhunde: Nachweis der anerkannten Blindenführhundeschule,
 
-**7**
-
-- 1\. 1. 25 - 127
-
-- e. für Blindenführhunde: Nachweis der anerkannten Blindenführhundeschule,
+- e. für Begleit-, weitere Assistenz- und Therapiehunde: Nachweis der Ausbildungsstätte und Bestätigung der Institution, der Therapeutin oder des Therapeuten oder der motorisch behinderten Person, aus der Art und Umfang des Einsatzes hervorgehen,
 
 - f. für Hunde nach § 25 lit. f und g HuG: Nachweis der bereits geleisteten Abgabe,
 
 - g. für Hunde nach § 25 lit. h HuG: Bestätigung über den Aufenthalt.
 
-### F. Einsichtsrecht
+[^21-1]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+
+### G. Weitere Bestimmungen
+
+[^21-1]
 
 #### § 22
 
+**Einsichtsrecht7**
+
 Halterinnen oder Halter, deren Hunde einer Wesensbeurteilung nach §§ 17 und 30 HuG sowie nach § 25 Abs. 2 unterzogen wurden, können beim Veterinäramt die elektronischen Bild- und Tonaufzeichnungen einsehen.
 
-### G. Strafbestimmungen
+**Kontrolle durch die Gemeinden**
 
-#### § 23
+§ 22 a.[^22-1] <sup>1</sup> Die Gemeinden prüfen mindestens jährlich, ob die niedergelassenen Personen, die neu einen Hund halten oder mit einem Hund zugezogen sind, die Ausbildungsverpflichtung erfüllen.
 
-**Busse**
+<sup>2</sup> Sie setzen säumigen Hundehalterinnen und Hundehaltern mit Verfügung Frist an, die Ausbildung zu absolvieren.
 
-<sup>1</sup> Wer vorsätzlich a. das Verbot nach § 8 Abs. 1 oder nach § 9 Abs. 3 HuG missachtet, wird mit Busse bis Fr. 5000 bestraft,
+<sup>3</sup> Lässt eine Hundehalterin oder ein Hundehalter die Frist unbenutzt verstreichen, erstattet die Gemeinde dem Veterinäramt Meldung.
+
+**9**
+
+- 1\. 7. 25 - 129 § 23.[^22-2] <sup>1</sup> Wer vorsätzlich
+
+**Strafbestimmungen**
+
+- a. das Verbot nach § 8 Abs. 1 oder nach § 9 Abs. 3 HuG missachtet, wird mit Busse bis Fr. 5000 bestraft,
 
 - b. gegen die Leinenpflicht nach § 8 Abs. 3 oder § 11 Abs. 2 lit. b–d HuG verstösst, wird mit Busse bis Fr. 3000 bestraft,
 
@@ -359,19 +433,25 @@ Halterinnen oder Halter, deren Hunde einer Wesensbeurteilung nach §§ 17 und 30
 
 - f. gegen die Bewilligungspflicht nach § 30 Abs. 1 HuG verstösst oder die erteilten Auflagen missachtet, wird mit Busse bis Fr. 2000 bestraft,
 
-- g. die praktische Hundeausbildung nach § 7 Abs. 1 HuG nicht absolviert, wird mit Busse bis Fr. 2000 bestraft,
+- g. die Hundeausbildung nach § 7 Abs. 1 oder 2 HuG nicht absolviert, wird mit Busse bis Fr. 2000 bestraft,
 
 - h. die Haftpflichtversicherung nach § 6 Abs. 1 HuG nicht abschliesst, wird mit Busse bis Fr. 1000 bestraft,
 
 - i. die Abgabe nach § 23 Abs. 1 HuG nicht leistet, wird mit Busse bis Fr. 1000 bestraft,
 
-- j. die Meldepflicht nach § 28 dieser Verordnung missachtet, wird mit Busse bis Fr. 1000 bestraft.
+- j. die Meldepflicht nach § 28 dieser Verordnung missachtet, wird mit Busse bis Fr. 1000 bestraft,
 
-<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zur Hälfte der für die vorsätzliche Tatbegehung vorgesehenen maximalen Bussenhöhen bestraft.[^23-1]
+- k. die theoretische oder praktische Ausbildung gemäss §§ 10 und 13 anbietet oder durchführt, ohne über die erforderliche Bewilligung zu verfügen, wird mit Busse bis Fr. 2000 bestraft,
 
-<sup>3</sup> Versuch und Gehilfenschaft sind strafbar.[^23-1]
+- l. den rechtlichen Pflichten als Ausbildnerin oder Ausbildner gemäss §§ 12 Abs. 3 und 4, 15 Abs. 3 und 4 sowie 16 a nicht nachkommt, wird mit Busse bis Fr. 1000 bestraft.
 
-[^23-1]: Eingefügt durch RRB vom 10. Juli 2013 (OS 68, 337; ABl 2013-07-19). In Kraft seit 1. November 2013.
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zur Hälfte der für die vorsätzliche Tatbegehung vorgesehenen maximalen Bussenhöhen bestraft.[^22-3]
+
+<sup>3</sup> Versuch und Gehilfenschaft sind strafbar.[^22-3]
+
+[^22-1]: Eingefügt durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+[^22-2]: Fassung gemäss RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025.
+[^22-3]: Eingefügt durch RRB vom 10. Juli 2013 (OS 68, 337; ABl 2013-07-19). In Kraft seit 1. November 2013.
 
 ### H. Übergangsbestimmungen
 
@@ -413,10 +493,6 @@ Der Nachweis der praktischen Hundeausbildung ist nur für Hunde zu erbringen, di
 
 <sup>4</sup> Die gesuchstellende Person trägt die Kosten des Bewilligungsverfahrens.
 
-**9**
-
-- 1\. 1. 25 - 127
-
 <sup>5</sup> Das Veterinäramt teilt den Entscheid über die Erteilung oder Nichterteilung sowie über den Entzug der Bewilligung der Halterin oder dem Halter und der Wohnsitzgemeinde mit.
 
 #### § 27
@@ -432,6 +508,10 @@ Der Nachweis der praktischen Hundeausbildung ist nur für Hunde zu erbringen, di
 - c. Ort und Datum der Ausstellung sowie Bezeichnung der ausstellenden Behörde,
 
 - d. Datum des Ablaufs von befristeten Bewilligungen.
+
+**11**
+
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Wer den Hund im öffentlich zugänglichen Raum führt, hat den Ausweis auf Verlangen der Polizei und den mit dem Hundewesen befassten Behörden vorzuweisen.
 
@@ -463,54 +543,20 @@ Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
 <sup>2</sup> Das Veterinäramt kann bei diesen Hunden im Einzelfall von der Wesensbeurteilung gemäss § 25 Abs. 2 dieser Verordnung absehen, insbesondere unter Berücksichtigung des Alters des Hundes und der Dauer seiner Haltung.
 
+### Übergangsbestimmungen zur Änderung vom 15. Dezember 2021
+
+(OS 80, 117)
+
+<sup>1</sup> Personen, die ihren Hund bereits am 31. Mai 2025 gehalten haben, sind nicht zur theoretischen und praktischen Ausbildung verpflichtet.
+
+<sup>2</sup> Wer über eine Bewilligung zur Durchführung von Junghunde- und Erziehungs- oder Welpenförderungskursen gemäss § 15 der Hundeverordnung in der bis zum 31. Mai 2025 geltenden Fassung verfügt, darf die Hundeausbildung gemäss §§ 10 ff. durchführen. Diese Berechtigung gilt während der Geltungsdauer der altrechtlichen Bewilligung, mindestens aber bis 31. Mai 2026.
+
+[^hÜbergangsbestimmunge_2-1]: Aufgehoben durch RRB vom 15. Dezember 2021 (OS 80, 117; ABl 2022-01-07, ABl 2025-03-21). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 13
+
 ### Anhang
 
-Liste der kleinwüchsigen Hunderassen (§ 4)
+[^hÜbergangsbestimmunge_2-1]
 
-**Rasse**
+## Weitere Fussnoten
 
-### Typ Rasse Typ
-
-Terrier Yorkshire Terrier Stöber- und English Cocker Spaniel West Highland White Terrier Wasser- American Cocker Spaniel Welsh Terrier hunde Cairn Terrier Nordische Schwedischer Vallhund; Australian Terrier Hunde Bedlington Terrier Border Terrier Foxterrier, Glatthaar Foxterrier, Drahthaar Dandie Dinmont Terrier Lauf- und Berner Niederlaufhund
-
-**Kooikerhondje**
-
-**Västgötaspets Norwegischer Buhund Norwegischer Lundehund Islandhund Norrbottenspets**
-
-English Toy Terrier Schweiss- Jura Niederlaufhund
-
-**Luzerner Niederlaufhund Schwyzer Niederlaufhund Schwedische Dachsbracke Alpenländische Dachsbracke Westfälische Dachsbracke Basset artésien normand Basset bleu de Gascogne Basset fauve de Bretagne Basset griffon vendéen petit Beagle**
-
-Lakeland Terrier hunde Manchester Terrier Norwich Terrier Scottish Terrier Sealyham Terrier Skye Terrier Australian Silky Terrier Cesky Terrier Deutscher Jagdterrier Parson Russell Terrier Brasilianischer Terrier Schäfer- Sheltie Jack Russell Terrier hunde Japanischer Terrier Norfolk Terrier Irish Glen of Imaal Terrier Westfalenterrier Patterdale Terrier Biewer Yorkshire Terrier Urtyp-
-
-**Welsh Corgi Cardigan Welsh Corgi Pembroke Puli Schipperke Mudi Mexikanischer Nackthund, klein Peruanischer Nackthund, klein Basenji Podengo Português Pequeno**
-
-Hunde
-
-**Podengo Português pequeno – pelo liso (Kurzhaar)**
-
-Rat Terrier Ratonero Bodeguero Andaluz Ratier – pelo cerdoso (Rauhhaar) Bullartige Miniature Bull Terrier Terrier Liste der kleinwüchsigen Hunderassen (§ 4)
-
-**Rasse Mittelspitz Kleinspitz Zwergspitz Volpino Italiano Shiba Inu Japanischer Spitz Elo, klein**
-
-### Typ Rasse Typ
-
-Gesell- Papillon, Epagneul nain continental Spitze schafts- Phalène, Epagneul nain continental hunde Zwerggriffon, Griffon bruxellois Zwerggriffon, Griffon belge Zwerggriffon, Petit Brabançon Malteser Französische Bulldogge
-
-King Charles Spaniel Dachshunde Dachshund
-
-**Kaninchen-Dachshund Zwerg-Dachshund**
-
-Cavalier King Charles Spaniel Boston Terrier
-
-Bologneser Pinscher und Zwergpinscher
-
-Kleinpudel Schnauzer Zwergschnauzer Toypudel Zwergpudel Japanischer Spaniel Pekingese Windhunde Italienisches Windspiel
-
-**Affenpinscher Hollandse Smoushond**
-
-Shih Tzu Tibetan Terrier Bichon frisé Chihuahua Lhasa Apso Tibetan Spaniel Löwchen Chinese Crested Dog Coton de Tuléar Havaneser Mops Svensk-Gardhund Dansk-Gardhund Prager Rattler Lancashire Heeler Bolonka Zwetna Kyi Leo Russkiy Toy
-
-**13**
-
-- 1\. 1. 25 - 127
+- [5] Fassung gemäss RRB vom 10. Juli 2013 (OS 68, 337; ABl 2013-07-19). In Kraft seit 1. November 2013.
