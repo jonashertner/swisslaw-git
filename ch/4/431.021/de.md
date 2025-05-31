@@ -4,11 +4,11 @@ title: Registerharmonisierungsverordnung vom 21. November 2007 (RHV)
 short: RHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: de
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/de"
 
 (RHV)
 
-vom 21. November 2007 (Stand am 1. Januar 2022)
+vom 21. November 2007 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 10 Absatz 2, 14 Absätze 1 und 2, 15 Absatz 2, 19 und 
 
 verordnet:
 
-[^ingress-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^ingress-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -121,9 +121,10 @@ Die für die Register nach Artikel 2 RHG zuständigen Stellen (registerführende
 
 <sup>2</sup> Das BFS kann die Qualität der gelieferten Daten kontrollieren. Bei unvollständiger oder fehlerhafter Datenlieferung kann es eine erneute Lieferung auf den gleichen Stichtag verlangen; es bestimmt die erneut zu liefernden Daten und den Liefertermin.
 
-<sup>3</sup> Inhalt und Periodizität der Datenlieferungen richten sich nach der Verordnung vom 30. Juni 1993[^7-1] über die Durchführung von statistischen Erhebungen des Bundes.
+<sup>3</sup> Inhalt und Periodizität der Datenlieferungen richten sich nach der Bundesstatistikverordnung vom 30. April 2025[^7-1].[^7-2]
 
-[^7-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^7-2]: Fassung gemäss Anhang 3 Ziff. 5 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 8
 
@@ -223,7 +224,7 @@ Der Validierungsservice kontrolliert:
 
 <sup>2</sup> Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003[^15-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
 
-[^15-1]: [SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^15-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 16
 
@@ -260,7 +261,7 @@ Das Bundesamt für Informatik und Telekommunikation erteilt für jede dieser Ste
 
 Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV (ZAS) die systematische Verwendung der AHV-Nummer nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^18-1] über die Alters- und Hinterlassenenversicherung (AHVV) für alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG als Sammelmeldung.
 
-[^18-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -276,7 +277,7 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 <sup>5</sup> Die ZAS gibt die Nummer den registerführenden Stellen bekannt und liefert ihnen gleichzeitig die für die Zuweisung und Bekanntgabe gelieferten Daten zurück. Sie gibt den registerführenden Stellen zusätzlich die entsprechenden Daten aus den Informationssystemen Infostar und ZEMIS bekannt.
 
-[^19-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^19-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 20
 
@@ -296,7 +297,7 @@ Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV 
 
 <sup>3</sup> Es legt fest, auf welche Weise, ab welchem Zeitpunkt und auf welchen Stichtag die für die Zuweisung und Bekanntgabe notwendigen Datenlieferungen an die ZAS erfolgen können.
 
-[^21-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^21-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 22
 

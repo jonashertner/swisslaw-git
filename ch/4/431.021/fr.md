@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur l'harmonisation de registres (OHR)"
 short: OHR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: fr
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/fr"
 
 (OHR)
 
-du 21 novembre 2007 (État le 1<sup>er</sup> janvier 2022)
+du 21 novembre 2007 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 2, 14, al. 1 et 2, 15, al. 2, 19 et 20 de la loi du 23 juin 
 
 arrête:
 
-[^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 ## Section 1 Dispositions générales
 
@@ -121,9 +121,10 @@ Les services qui tiennent les registres visés à l’art. 2 LHR sont personnell
 
 <sup>2</sup> L’OFS peut contrôler la qualité des données livrées. S’il constate que celles-ci sont incomplètes ou erronées, il peut ordonner une nouvelle livraison pour le même jour de référence; il précise alors quelles données doivent lui être livrées encore une fois et la date de leur livraison.
 
-<sup>3</sup> Le contenu et la périodicité des livraisons de données sont réglés par l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^7-1].
+<sup>3</sup> Le contenu et la périodicité des livraisons de données sont réglés par l’ordonnance du 30 avril 2025 sur la statistique fédérale[^7-1].[^7-2]
 
-[^7-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^7-2]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 8
 
@@ -223,7 +224,7 @@ Ce service de validation contrôle que:
 
 <sup>2</sup> La perception d’émoluments par l’OFS est réglée par l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^15-1].
 
-[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 16
 
@@ -260,7 +261,7 @@ L’Office fédéral de l’informatique et de la télécommunication délivre �
 
 Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tous les services du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR, l’utilisation systématique du numéro AVS, conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^18-1], à la Centrale de compensation (CdC).
 
-[^18-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -276,7 +277,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 <sup>5</sup> La CdC transmet le numéro AVS aux services qui tiennent les registres et leur redonne les informations qu’ils avaient livrées en vue de l’attribution ou de la communication. Elle fournit de plus les données personnelles officielles provenant des systèmes d’information Infostar et SYMIC.
 
-[^19-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^19-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 20
 
@@ -296,7 +297,7 @@ Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tou
 
 <sup>3</sup> L’OFS fixe comment, à partir de quelle date et par rapport à quel jour de référence les données nécessaires à l’attribution et à la communication peuvent être livrées à la CdC.
 
-[^21-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^21-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 22
 

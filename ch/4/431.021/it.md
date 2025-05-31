@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sull'armonizzazione dei registri (OArRa)"
 short: OArRa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: it
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20220101/it"
 
 (OArRa)
 
-del 21 novembre 2007 (Stato 1° gennaio 2022)
+del 21 novembre 2007 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 10 capoverso 2, 14 capoversi 1 e 2, 15 capoverso 2, 19 e 20 d
 
 ordina:
 
-[^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^ingress-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 ## Sezione 1: Disposizioni generali
 
@@ -45,7 +45,7 @@ La presente ordinanza disciplina nell’ambito dell’armonizzazione dei registr
 
 <sup>3</sup> Essa contiene disposizioni complementari concernenti il numero AVS[^1-1].
 
-[^1-1]: Nuova espr. giusta l’all. n. II 14 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: Nuova espr. giusta l’all. cifra II n. 14 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -121,9 +121,10 @@ I servizi competenti per i registri di cui all’articolo 2 LArRa (organi che te
 
 <sup>2</sup> L’UST può controllare la qualità dei dati inviati. In caso di invio di dati incompleto o errato, esso può richiedere un nuovo invio per lo stesso giorno di riferimento, determinando i dati da inviare nuovamente e il termine per l’invio.
 
-<sup>3</sup> Il contenuto e la periodicità degli invii dei dati sono disciplinati dall’ordinanza del 30 giugno 1993[^7-1] sull’esecuzione di rilevazioni statistiche federali.
+<sup>3</sup> Il contenuto e la periodicità degli invii dei dati sono disciplinati dall’ordinanza del 30 aprile 2025[^7-1] sulla statistica federale.[^7-2]
 
-[^7-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^7-2]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 8
 
@@ -223,7 +224,7 @@ Il servizio di convalida controlla:
 
 <sup>2</sup> La riscossione di emolumenti da parte dell’UST è disciplinata dall’ordinanza del 25 giugno 2003[^15-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
 
-[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 #### Art. 16
 
@@ -249,8 +250,8 @@ L’Ufficio federale dell’informatica e della telecomunicazione rilascia a cia
 
 <sup>4</sup> *...*[^17-2]
 
-[^17-1]: Nuovo testo giusta il n. II 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^17-2]: Abrogato dal n. II 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, con effetto dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^17-1]: Nuovo testo giusta la cifra II n. 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^17-2]: Abrogato dalla cifra II n. 7 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, con effetto dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 ## Sezione 5: Numero AVS
 
@@ -260,7 +261,7 @@ L’Ufficio federale dell’informatica e della telecomunicazione rilascia a cia
 
 Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centrale di compensazione dell’AVS (UCC) l’utilizzazione sistematica del numero AVS di cui all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^18-1] sull’assicurazione per la vecchiaia e per i superstiti (OAVS) collettivamente per tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa.
 
-[^18-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -276,7 +277,7 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 <sup>5</sup> L’UCC ritorna agli organi che tengono i registri il numero unitamente ai dati da essi inviati per l’attribuzione e la comunicazione. Esso comunica inoltre agli organi che tengono i registri i dati tratti dai sistemi d’informazione Infostar e SIMIC.
 
-[^19-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^19-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 20
 
@@ -296,7 +297,7 @@ Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centr
 
 <sup>3</sup> L’UST stabilisce a partire da quando e per quale giorno di riferimento possono avvenire gli invii dei dati all’UCC necessari ai fini dell’attribuzione e della comunicazione.
 
-[^21-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^21-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 22
 
@@ -385,6 +386,8 @@ Allegato
 (art. 30)
 
 ## Modifica del diritto vigente
+
+Le seguenti ordinanze sono modificate come segue:
 
 ....[^annexu1-lvlu1-1]
 
