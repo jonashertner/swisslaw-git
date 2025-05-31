@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "415.11"
-title: Verordnung des Regierungsrates zum Gesetz über die Förderung von Sport und Bewegung und über die Verwendung der Mittel aus dem Sportfonds
-short: Sportförderungs- und Sportfondsverordnung
+title: Sportförderungs- und Sportfondsverordnung
+short: SSV
 language: de
-version: 2021-01-01
-valid_until: 2025-05-31
-version_adopted: 2020-12-08
+version: 2025-06-01
+valid_until: 2026-07-31
+version_adopted: 2025-04-08
 adopted: 2012-05-15
 in_force: 2012-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/415.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2137/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Förderung von Sport und Bewegung und über die Verwendung der Mittel aus dem Sportfonds
+# Sportförderungs- und Sportfondsverordnung
 
-Sportförderungs- und Sportfondsverordnung
+SSV
 
-(Sportförderungs- und Sportfondsverordnung)
+(SSV)
 
-vom 15.05.2012 (Stand 01.01.2021)
+vom 15.05.2012 (Stand 01.06.2025)
 
 ## 1. Grundsätze
 
@@ -53,12 +53,12 @@ vom 15.05.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Beiträge aus dem Sportfonds an sport- und bewegungsfördernde Vorhaben werden insbesondere ausgerichtet als:
 
-- 1\. Erfolgsbeiträge für die Teilnahme an einer internationalen Meisterschaft und im Elitemannschaftssport für Meistertitel, Cupsiege sowie Aufstiege in die beiden höchsten Ligen;
-- 2\. Projektbeiträge zur Förderung von Leistungssportlerinnen und Leistungssportlern nach Massgabe der Bedeutung des Projekts, der Qualifikation der Trainerinnen und Trainer sowie der Anzahl Swiss Olympic Cards;
-- 3\. Beiträge für Grossanlässe nach Massgabe ihrer Bedeutung, Grösse und Dauer sowie ihres Aufwandes;
-- 4\. Beiträge an grössere Materialanschaffungen;
-- 5\. Beiträge an Bauten und Anlagen nach Massgabe ihrer überregionalen Bedeutung gemäss kantonalem Richtplan und kantonalem Sportanlagenkonzept (KASAK);
-- 6\. zusätzliche Förderung von Vereinen mit nationalen Kaderathletinnen und Kaderathleten sowie mit Mannschaften aus den beiden höchsten Ligen.
+- 1\. Erfolgsbeiträge für die Teilnahme an einer internationalen Meisterschaft und im Elitemannschaftssport für Meistertitel, Cupsiege sowie Aufstiege in die beiden höchsten Ligen
+- 2\. Projektbeiträge zur Förderung von Leistungssportlerinnen und Leistungssportlern nach Massgabe der Bedeutung des Projekts, der Qualifikation der Trainerinnen und Trainer sowie der Anzahl Swiss Olympic Cards
+- 3\. Beiträge für Grossanlässe nach Massgabe ihrer Bedeutung, Grösse und Dauer sowie ihres Aufwandes
+- 4\. Beiträge an grössere Materialanschaffungen
+- 5\. Beiträge an Bauten und Anlagen nach Massgabe ihrer überregionalen Bedeutung gemäss kantonalem Richtplan und kantonalem Sportanlagenkonzept (KASAK)
+- 6\. zusätzliche Förderung von Vereinen mit nationalen Kaderathletinnen und Kaderathleten sowie mit Mannschaften aus den beiden höchsten Ligen
 - 7\. …
 
 <sup>2</sup> …
@@ -75,10 +75,10 @@ vom 15.05.2012 (Stand 01.01.2021)
 
 <sup>4</sup> Sie werden jährlich festgesetzt. Massgebend sind folgende Kriterien:
 
-- 1\. Bedeutung der Sportart für den Kanton;
-- 2\. Einstufung der Sportart bei Swiss Olympic;
-- 3\. Anzahl der zugehörigen Vereine;
-- 4\. Höhe der Auszahlungen von Jugend und Sport (J+S).
+- 1\. Bedeutung der Sportart für den Kanton
+- 2\. Einstufung der Sportart bei Swiss Olympic
+- 3\. Anzahl der zugehörigen Vereine
+- 4\. Höhe der Auszahlungen von Jugend und Sport (J+S)
 
 #### § 5a
 
@@ -104,9 +104,9 @@ vom 15.05.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Der Regierungsrat entscheidet über Beiträge gemäss § 6 Abs. 1 des Gesetzes über den Lotterie- und Sportfonds (LSG)[^6-1].
 
-<sup>2</sup> Das Departement für Erziehung und Kultur entscheidet über Beiträge bis zu einer Höhe von Fr. 20'000.
+<sup>2</sup> Das Departement für Erziehung und Kultur entscheidet über Beiträge bis zu einer Höhe von Fr. 40'000.
 
-<sup>3</sup> Das Sportamt entscheidet über Beiträge bis zu einer Höhe von Fr. 10'000 und spricht die jährlichen Verbandsbeiträge gemäss § 5 zu.
+<sup>3</sup> Das Sportamt entscheidet über Beiträge bis zu einer Höhe von Fr. 20'000 und spricht die jährlichen Verbandsbeiträge gemäss § 5 zu.
 
 [^6-1]: RB [935.1](https://www.rechtsbuch.tg.ch/data/935.1/de)
 
@@ -160,13 +160,13 @@ vom 15.05.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Das Sportamt koordiniert die Massnahmen zur Förderung von Sport und Bewegung. Es erfüllt namentlich folgende Aufgaben:
 
-- 1\. Umsetzung des J+S-Programms;
-- 2\. Betreuung und Beratung der Verbände, Vereine und Schulen;
-- 3\. Sicherstellung der Zusammenarbeit mit den Gemeinden, den Sportverbänden und anderen Institutionen;
-- 4\. Sicherstellung der Aus- und Weiterbildung der Lehrpersonen;
-- 5\. Durchführung von Sportanlässen und Jugendsportlagern;
-- 6\. Beratung bei der Errichtung und Erneuerung von Sportanlagen;
-- 7\. Zusammenarbeit mit den kantonalen Bildungsämtern.
+- 1\. Umsetzung des J+S-Programms
+- 2\. Betreuung und Beratung der Verbände, Vereine und Schulen
+- 3\. Sicherstellung der Zusammenarbeit mit den Gemeinden, den Sportverbänden und anderen Institutionen
+- 4\. Sicherstellung der Aus- und Weiterbildung der Lehrpersonen
+- 5\. Durchführung von Sportanlässen und Jugendsportlagern
+- 6\. Beratung bei der Errichtung und Erneuerung von Sportanlagen
+- 7\. Zusammenarbeit mit den kantonalen Bildungsämtern
 
 <sup>2</sup> Das Sportamt bearbeitet die Geschäfte des Sportfonds. Es erlässt eine Wegleitung über die Gewährung von Beiträgen aus dem Sportfonds.
 
