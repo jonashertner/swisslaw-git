@@ -4,13 +4,12 @@ number: "141.112"
 title: Verordnung über die politischen Rechte
 short: PRV
 language: de
-version: 2022-03-01
-valid_until: 2025-05-31
-version_adopted: 2022-02-02
+version: 2025-06-01
+version_adopted: 2025-02-12
 adopted: 2013-09-04
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2536/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3148/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2536/pdf_file"
 
 (PRV)
 
-vom 04.09.2013 (Stand 01.03.2022)
+vom 04.09.2013 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -648,6 +647,33 @@ beschliesst:
 ## 4 Wahlen
 
 ### 4.1 Verhältniswahlen
+
+#### Art. 61a
+
+**Verteilung der Mandate auf die Wahlkreise bei der Wahl des Grossen Rates**
+
+<sup>1</sup> Bei der Wahl des Grossen Rates entsprechen die für die Verteilung der Mandate auf die Wahlkreise massgeblichen Einwohnerzahlen den jeweils neuesten verfügbaren Daten des Bundesamtes für Statistik zur ständigen Wohnbevölkerung am Hauptwohnsitz.
+
+#### Art. 61b
+
+**Ermittlung des prozentualen Anteils der französischsprachigen Bevölkerung des zweisprachigen Wahlkreises Biel-Seeland**
+
+<sup>1</sup> Für die Ermittlung des prozentualen Anteils der französischsprachigen Bevölkerung des zweisprachigen Wahlkreises Biel-Seeland gemäss Artikel 64 Absatz 3 PRG
+
+- a wird auf die Daten zur Hauptsprache in der Strukturerhebung des Bundesamtes für Statistik abgestellt,
+- b wird die Anzahl der Französischsprachigen durch die Anzahl der Französisch- und Deutschsprachigen geteilt und mit Hundert multipliziert,
+- c wird die Anzahl der Personen, die sowohl Französisch als auch Deutsch als Hauptsprache angeben, je hälftig den Französischsprachigen und den Deutschsprachigen zugerechnet.
+
+#### Art. 61c
+
+**Wahlvorschläge im zweisprachigen Wahlkreis Biel-Seeland**
+
+<sup>1</sup> Als französischsprachige Kandidatinnen und Kandidaten im zweisprachigen Wahlkreis Biel-Seeland gelten
+
+- a Kandidatinnen und Kandidaten, die bei Einreichung des Wahlvorschlags schriftlich bestätigen, dass sie zur französischsprachigen Minderheit im Sinne von Artikel 73 Absatz 3 der Kantonsverfassung[^61c-1] gehören, und
+- b deren Zugehörigkeit zur französischsprachigen Minderheit durch die Vertretung des Wahlvorschlags bei Einreichung des Wahlvorschlags schriftlich bestätigt wird.
+
+[^61c-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 
 #### Art. 62
 

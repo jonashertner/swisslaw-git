@@ -4,13 +4,12 @@ number: "141.112"
 title: Ordonnance sur les droits politiques
 short: ODP
 language: fr
-version: 2022-03-01
-valid_until: 2025-05-31
-version_adopted: 2022-02-02
+version: 2025-06-01
+version_adopted: 2025-02-12
 adopted: 2013-09-04
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2536/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3148/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2536/pdf_file"
 
 (ODP)
 
-du 04.09.2013 (état au 01.03.2022)
+du 04.09.2013 (état au 01.06.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -648,6 +647,33 @@ arrête:
 ## 4 Elections
 
 ### 4.1 Elections selon le mode proportionnel
+
+#### Art. 61a
+
+**Répartition des mandats entre les cercles électoraux lors de l'élection du Grand Conseil**
+
+<sup>1</sup> Lors de l'élection du Grand Conseil, le nombre d'habitantes et d'habitants déterminant pour la répartition des mandats entre les cercles électoraux correspond aux données disponibles les plus récentes de l'Office fédéral de la statistique relatives à la population résidante permanente au domicile principal.
+
+#### Art. 61b
+
+**Détermination du pourcentage de la population de langue française du cercle électoral bilingue de Bienne-Seeland**
+
+<sup>1</sup> Pour déterminer le pourcentage de la population de langue française du cercle électoral bilingue de Bienne-Seeland au sens de l'article 64, alinéa 3 LDP,
+
+- a il convient de se référer aux données sur la langue principale du relevé structurel de l'Office fédéral de la statistique;
+- b le nombre de personnes de langue française est divisé par la somme du nombre de personnes de langue française et du nombre de personnes de langue allemande, et le résultat est multiplié par cent;
+- c le nombre de personnes qui indiquent aussi bien le français que l'allemand comme langue principale est ajouté à parts égales au nombre de personnes de langue française et au nombre de personnes de langue allemande.
+
+#### Art. 61c
+
+**Listes de candidatures dans le cercle électoral bilingue de Bienne-Seeland**
+
+<sup>1</sup> Sont considérés comme candidates et candidats de langue française dans le cercle électoral bilingue de Bienne-Seeland
+
+- a les candidates et candidats qui confirment par écrit lors du dépôt de la liste de candidatures qu'ils appartiennent à la minorité de langue française au sens de l'article 73, alinéa 3 de la Constitution cantonale[^61c-1] et
+- b dont l'appartenance à la minorité de langue française est attestée par écrit par la ou le mandataire de la liste de candidatures lors du dépôt de celle-ci.
+
+[^61c-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
 #### Art. 62
 
