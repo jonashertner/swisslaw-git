@@ -4,13 +4,12 @@ number: 775a
 title: Verordnung über den öffentlichen Verkehr
 short: öVV
 language: de
-version: 2022-01-01
-valid_until: 2025-05-31
-version_adopted: 2021-08-23
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 2009-10-20
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775a"
-pdf: "https://srl.lu.ch/api/de/versions/3856/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3856/pdf_file"
 
 (öVV)
 
-vom 20.10.2009 (Stand 01.01.2022)
+vom 20.10.2009 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -140,11 +139,11 @@ beschliesst:
 - a. wenn es die bisherigen Kosten einer Linie oder die Qualität der erbrachten Leistungen erfordern,
 - b. wenn andere wichtige Gründe vorliegen.
 
-<sup>2</sup> Soweit die Vorschriften des Bundes nichts anderes bestimmen, findet für das Vergabeverfahren sinngemäss das kantonale Beschaffungsrecht Anwendung. Insbesondere sind die Vergabegrundsätze gemäss § 4 des Gesetzes über die öffentlichen Beschaffungen vom 19. Oktober 1998[^10-1] zu den öffentlich-rechtlichen Verpflichtungen der Transportunternehmen sowie zum Arbeitsschutz, zu den Arbeitsbedingungen und zur Gleichbehandlung des Personals zu beachten.
+<sup>2</sup> Soweit die Vorschriften des Bundes nichts anderes bestimmen, findet für das Vergabeverfahren sinngemäss das kantonale Beschaffungsrecht Anwendung. Insbesondere sind die Vergabegrundsätze gemäss den Artikeln 12 und 26 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019[^10-1] zu beachten.
 
 <sup>3</sup> Nach Möglichkeit sind die Ausschreibung sowie die Erteilung, Erneuerung, Änderung oder Übertragung einer Konzession oder Bewilligung für die regelmässige und gewerbsmässige Personenbeförderung zeitlich und inhaltlich aufeinander abzustimmen.
 
-[^10-1]: SRL Nr. [733](https://srl.lu.ch/data/733/de)
+[^10-1]: SRL Nr. [733b](https://srl.lu.ch/data/733b/de)
 
 #### § 11
 
