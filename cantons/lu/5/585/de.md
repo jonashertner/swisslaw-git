@@ -4,13 +4,12 @@ number: "585"
 title: Gesetz über das Archivwesen
 short: Archivgesetz
 language: de
-version: 2021-09-01
-valid_until: 2025-05-31
-version_adopted: 2021-05-10
+version: 2025-06-01
+version_adopted: 2024-10-21
 adopted: 2003-06-16
 in_force: 2004-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/585"
-pdf: "https://srl.lu.ch/api/de/versions/3797/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3797/pdf_file"
 
 (Archivgesetz)
 
-vom 16.06.2003 (Stand 01.09.2021)
+vom 16.06.2003 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -185,7 +184,7 @@ beschliesst:
 
 #### § 15
 
-**Einsichtnahme durch Dritte**
+**Einsichtnahme durch Dritte in Unterlagen mit Schutzfristen**
 
 <sup>1</sup> Das Staatsarchiv kann Dritten vor Ablauf der Schutzfristen Einsicht in das Archivgut gewähren, wenn keine überwiegenden schutzwürdigen öffentlichen oder privaten Interessen entgegenstehen oder wenn die betroffene Person in die Einsichtnahme einwilligt.
 
