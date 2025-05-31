@@ -4,172 +4,161 @@ number: "211.100"
 title: "Ordonnance générale d'exécution de la loi d'application du code civil suisse"
 short: OELACC
 language: fr
-version: 2013-01-01
-corrected: 2017-07-20
-version_adopted: 2012-09-19
+version: 2025-06-01
+version_adopted: 2025-03-26
 adopted: 2000-10-04
 in_force: 2001-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.100"
-pdf: "https://lex.vs.ch/api/fr/versions/617/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3491/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance générale d'exécution de la loi d'application du code civil suisse
 
-du 4 octobre 2000
+(OELACC)
+
+du 04.10.2000 (état 01.06.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 57, alinéa 2 de la Constitution cantonale;
+vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu les articles 10, 22, 23, 27, 65, alinéa 4 et 174, alinéa 1 de la loi d'application du code civil suisse du 24 mars 1998;
+vu les articles 10, 22, 23, 27, 65 alinéa 4 et 174 alinéa 1 de la loi d'application du code civil suisse du 24 mars 1998;
 
-sur la proposition du département de la sécurité et des institutions,
+sur la proposition du Département de la sécurité et des institutions,
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
 **Objet**
 
-La présente ordonnance énonce les dispositions d'exécution de la loi d'application du code civil suisse concernant:
+<sup>1</sup> La présente ordonnance énonce les dispositions d'exécution de la loi d'application du code civil suisse concernant:
 
 - a) la répartition des compétences au sein de l'administration;
-
-- b) abrogé[^premier-1]
-
+- b) …
 - c) la surveillance des fondations;
-
 - d) l'adoption;
-
 - e) le mandat en mariage ou en partenariat;
-
 - f) le registre du commerce;
-
 - g) l'institution des centres de consultation conjugale;
-
 - h) l'engagement du bétail;
-
 - i) l'intérêt maximal autorisé pour les créances garanties par un immeuble ou pour le nantissement de titres hypothécaires.
-
-[^premier-1]: Modification selon l'art. 21 de l'ordonnance RO/VS 2008, 209 1.01.2008 sur l'état civil du 21.11.2007
 
 #### Art. 2
 
 **Droit réservé**
 
-Demeure réservée la législation cantonale spéciale d'application du droit privé fédéral, notamment dans les domaines suivants:
+<sup>1</sup> Demeure réservée la législation cantonale spéciale d'application du droit privé fédéral, notamment dans les domaines suivants:
 
-- a) l'état civil;[^2-1]
-
+- a) l'état civil;
 - b) le recouvrement des pensions alimentaires et le versement d'avances;
-
-- c) la protection des adultes;[^2-2]
-
+- c) la protection des adultes;
 - d) la protection des mineurs;
-
 - e) le droit foncier et le droit foncier rural;
-
 - f) l'acquisition d'immeubles par des personnes à l'étranger;
-
 - g) la mensuration officielle;
-
 - h) le bail à ferme;
-
 - i) le contrat de travail.
-
-[^2-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
-[^2-2]: Modification selon l'art. 43 ch. 2 de BO No 39/2012 1.01.2013 l'ordonnance sur la protection de l'enfant et de l'adulte (OPEA) du 22.08.2012
 
 #### Art. 3
 
 **Egalité des sexes**
 
-Toute désignation de personne, de statut, de fonction ou de profession utilisée dans la présente ordonnance s'applique indifféremment aux femmes et aux hommes.
+<sup>1</sup> Toute désignation de personne, de statut, de fonction ou de profession utilisée dans la présente ordonnance s'applique indifféremment aux femmes et aux hommes.
 
 #### Art. 4
 
 **Répartition des compétences**
 
-<sup>1</sup> Le département dont relève la sécurité est compétent pour:[^4-1]
+<sup>1</sup> Le département dont relève la sécurité est compétent pour:
 
-- a) abrogé[^4-1]
-
+- a) …
 - b) intenter l'action en dissolution d'une personne morale dont le but est devenu illicite ou contraire aux moeurs;
-
-- c) surveiller les fondations relevant par leur but du canton ou de plusieurs districts (art. 84 CCS), sous réserve de délégation;[^4-2]
-
-- d) modifier l'organisation, le but ou les charges d'une fondation, dont la surveillance relève de la commune, du préfet ou du canton, et prononcer sa dissolution lorsque le but ne peut plus être ni atteint, ni maintenu, ou qu'il est devenu illicite ou contraire aux moeurs (art. 85, 86, 86a et 88 al. 1 CCS);[^4-3]
-
-- e) intenter l'action en annulation du mariage (art. 106 al. 1 CCS);
-
-- f) autoriser l'adoption (art. 268 CCS);
-
-- g) abrogé[^4-2]
-
+- c) surveiller les fondations relevant par leur but du canton ou de plusieurs districts (art. 84 CC), sous réserve de délégation;
+- d) modifier l'organisation, le but ou les charges d'une fondation, dont la surveillance relève de la commune, du préfet ou du canton, et prononcer sa dissolution lorsque le but ne peut plus être ni atteint, ni maintenu, ou qu'il est devenu illicite ou contraire aux moeurs (art. 85, 86, 86a et 88 al. 1 CC);
+- e) intenter l'action en annulation du mariage (art. 106 al. 1 CC);
+- f) autoriser l'adoption (art. 268 CC);
+- g) …
 - h) délivrer, retirer, révoquer les autorisations et prendre toute autre décision relative à l'activité de courtage transnationale visant à la conclusion d'un mariage ou à l'établissement d'un partenariat (art. 406c CO);
+- i) exercer la surveillance administrative et disciplinaire sur les offices du registre du commerce conformément au droit fédéral.
 
-- i) exercer la surveillance en matière de registre du commerce (art. 927 al. 3 CO).
+<sup>2</sup> Le département dont relève les finances est compétent pour poursuivre l'exécution de charges contenues dans des libéralités entre vifs ou à cause de mort, lorsque l'exécution de ces charges intéresse le canton ou plusieurs districts (art. 482 CC, 246 al. 2 CO).
 
-<sup>2</sup> Le département dont relève les finances est compétent pour poursuivre l'exécution de charges contenues dans des libéralités entre vifs ou à cause de mort, lorsque l'exécution de ces charges intéresse le canton ou plusieurs districts (art. 482 CCS, 246 al. 2 CO).[^4-1]
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>3</sup> Le département dont relève l'économie est compétent pour:[^4-1] a) autoriser les établissements de crédit et des sociétés coopératives à pratiquer l'hypothèque sur le bétail (art. 885 CCS);
+<sup>3</sup> Le département dont relève l'économie est compétent pour:
 
+- a) autoriser les établissements de crédit et des sociétés coopératives à pratiquer l'hypothèque sur le bétail (art. 885 CC);
 - b) autoriser les entrepositaires à émettre des papiers-valeurs pour les marchandises entreposées (art. 482 CO);
-
 - c) reconnaître les asiles d'entretien viager et approuver leurs conditions d'admission et leurs règlements d'ordre intérieur (art. 522 et 524 CO);
-
 - d) prononcer l'amende à l'encontre de celui qui émet un titre représentatif de marchandises en violation des dispositions du droit fédéral (art. 1155 al. 2 CO).
 
-<sup>4</sup> Le département dont relève les affaires sociales est compétent pour:[^4-1] a) établir des contrats-types de travail (art. 359 à 360 CO);
+<sup>4</sup> Le département dont relève les affaires sociales est compétent pour:
 
-- b) étendre une convention collective de travail (art. 7 al. 2 de la loi fédérale du 28 septembre 1956 permettant d'étendre le champ d'application de la convention collective de travail).
+- a) établir des contrats-types de travail (art. 359 à 360 CO);
+- b) étendre une convention collective de travail (art. 7 al. 2 de la loi fédérale permettant d'étendre le champ d'application de la convention collective de travail du 28 septembre 1956).
 
-[^4-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
-[^4-2]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
-[^4-3]: Modification du 13.04.2005 RO/VS 2005, 175 1.01.2006
-
-### Section 2: Etat civil
-
-[^hSection2Etatcivi-1]: Modification selon l'art. 21 de l'ordonnance RO/VS 2008, 209 1.01.2008 sur l'état civil du 21.11.2007
+## 2
 
 #### Art. 5
 
-**à 11[^hSection2Etatcivi-1]**
+**…**
 
-Abrogés
+#### Art. 6
 
-### Section 3: Surveillance des fondations
+**…**
+
+#### Art. 7
+
+**…**
+
+#### Art. 8
+
+**…**
+
+#### Art. 9
+
+**…**
+
+#### Art. 10
+
+**…**
+
+#### Art. 11
+
+**…**
+
+## 3 Surveillance des fondations
 
 #### Art. 12
 
 **Autorités compétentes et procédure**
 
-<sup>1</sup> L'autorité de surveillance des fondations au sens du code civil suisse est:[^12-1] a) le conseil municipal, lorsque la fondation relève par son but de la commune;
+<sup>1</sup> L'autorité de surveillance des fondations au sens du code civil suisse est:
 
+- a) le conseil municipal, lorsque la fondation relève par son but de la commune;
 - b) le préfet, lorsque la fondation relève par son but du district ou de plusieurs communes du même district;
-
 - c) sous réserve de délégation, le département dont relève la sécurité, lorsque la fondation relève par son but du canton ou de plusieurs districts.
 
 <sup>2</sup> La procédure est réglée par la loi sur la procédure et la juridiction administratives.
-
-[^12-1]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
 
 #### Art. 13
 
 **Désignation de l'autorité compétente**
 
-<sup>1</sup> Au moment de l'inscription de la fondation, le préposé au registre du commerce communique la constitution de la fondation à l'autorité de surveillance qui lui semble compétente en vertu des circonstances, afin que celle-ci statue sur l'exercice de la surveillance.[^13-1]
+<sup>1</sup> Au moment de l'inscription de la fondation, le préposé au registre du commerce communique la constitution de la fondation à l'autorité de surveillance qui lui semble compétente en vertu des circonstances, afin que celle-ci statue sur l'exercice de la surveillance.
 
 <sup>2</sup> Le préposé au registre du commerce décide de la compétence en matière de surveillance à l'endroit d'une fondation constituée par un testament n'indiquant pas les organes de celle-ci ou son mode d'administration.
 
-<sup>3</sup> Abrogé[^13-1]
-
-[^13-1]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
+<sup>3</sup> …
 
 #### Art. 14
 
@@ -179,80 +168,64 @@ Abrogés
 
 <sup>2</sup> A qualité pour déposer plainte celui qui a un intérêt personnel déterminé au contrôle de l'activité des organes de la fondation et qui ne peut agir par la voie de l'action devant le juge civil. Le plaignant a qualité de partie.
 
-<sup>3</sup> Chacun peut dénoncer en tout temps à l'autorité de surveillance les faits qui appellent une intervention de cette dernière. Le dénonciateur n'a pas qualité de partie.[^14-1]
-
-[^14-1]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
+<sup>3</sup> Chacun peut dénoncer en tout temps à l'autorité de surveillance les faits qui appellent une intervention de cette dernière. Le dénonciateur n'a pas qualité de partie.
 
 #### Art. 15
 
-<sup>1,8</sup> Tâches de l'autorité de surveillance
+**Tâches de l'autorité de surveillance**
 
 <sup>1</sup> L'autorité de surveillance assume les tâches prévues par le droit civil fédéral. Elle veille à ce que les fondations soient administrées conformément à la loi, à l'acte de fondation, aux statuts et règlements, et selon les principes généraux applicables à la gestion du patrimoine.
 
 <sup>2</sup> En particulier:
 
 - a) elle confirme au préposé au registre du commerce et au conseil de fondation, par voie de décision, l'exercice de sa tâche de surveillance;
-
 - b) elle prend les mesures nécessaires pour remédier au défaut d'inscription d'une fondation dans le registre du commerce;
-
 - c) elle prend les mesures nécessaires pour remédier aux indications insuffisantes de l'acte de fondation;
-
 - d) elle vérifie la conformité des dispositions réglementaires avec les prescriptions légales applicables en droit des fondations et les statuts;
-
 - e) elle exige des organes responsables de l'administration un rapport annuel de gestion;
-
 - f) elle prend connaissance du rapport de l'organe de révision et des autres communications importantes que celui-ci adresse à la fondation;
-
 - g) elle prend les mesures propres à éliminer les insuffisances constatées;
-
 - h) elle propose à l'instance compétente de modifier l'organisation ou le but de la fondation;
-
 - i) elle peut dispenser la fondation de l'obligation de désigner un organe de révision et révoque cette dispense lorsque les conditions pour son octroi ne sont plus remplies;
-
-- j) elle peut apporter des modifications accessoires à l'acte de fondation (art. 86b CCS).
-
+- j) elle peut apporter des modifications accessoires à l'acte de fondation (art. 86b CC);
 - k) elle avise le préposé au registre du commerce de l'introduction de la procédure de liquidation;
-
 - l) elle contrôle la procédure de liquidation de la fondation et prend les mesures nécessaires à sa réalisation.
 
-<sup>3</sup> Abrogé
+<sup>3</sup> …
 
 #### Art. 16
 
-<sup>8</sup> Examen annuel de la gestion et des comptes
+**Examen annuel de la gestion et des comptes**
 
 <sup>1</sup> Dans les six mois qui suivent la clôture comptable de chaque exercice, les fondations sont tenues de soumettre à l'autorité de surveillance les documents suivants, dûment signés:
 
 - a) les comptes annuels, composés du bilan, du compte d'exploitation et de l'annexe;
-
 - b) le rapport annuel de gestion;
-
 - c) le rapport de l'organe de révision ou l'attestation du conseil de fondation concernant les fondations dispensées de l'organe de révision.
 
-<sup>2</sup> Sous réserve des indications que l'autorité de surveillance peut exiger au sens de l'article 663b CO, l'annexe contient au moins les indications suivantes:
+<sup>2</sup> Sous réserve des indications que l'autorité de surveillance peut exiger, l'annexe contient au moins les indications suivantes:
 
 - a) l'organisation de la fondation, la liste des membres du conseil de fondation et la liste des personnes habilitées à signer;
-
 - b) le nom et l'adresse de l'organe de révision.
+- c) …
+- d) …
+- e) …
 
 #### Art. 16a
 
-<sup>8</sup> Organe de révision
+**Organe de révision**
 
-Outre les obligations prévues par le code civil suisse, l'organe de révision informe immédiatement l'autorité de surveillance lorsque son mandat prend fin.
+<sup>1</sup> Outre les obligations prévues par le code civil suisse, l'organe de révision informe immédiatement l'autorité de surveillance lorsque son mandat prend fin.
 
 #### Art. 16b
 
-<sup>8</sup> Administration de la fortune - Principes généraux
+**Administration de la fortune - Principes généraux**
 
 <sup>1</sup> La fondation administre les valeurs pécuniaires qui constituent sa fortune de manière à garantir:
 
 - a) la sécurité des placements;
-
 - b) un rendement raisonnable;
-
 - c) une répartition appropriée des risques;
-
 - d) la couverture des besoins prévisibles de liquidités.
 
 <sup>2</sup> Lorsque l'application simultanée de ces principes s'avère difficile, voire impossible, ceux-ci doivent être appliqués en tenant compte de l'ensemble de la situation, de façon à assurer de manière durable le respect du but de la fondation.
@@ -265,55 +238,47 @@ Outre les obligations prévues par le code civil suisse, l'organe de révision i
 
 #### Art. 16c
 
-<sup>8</sup> Moyens à disposition
+**Moyens à disposition**
 
-Dans l'exercice de ses tâches de surveillance, l'autorité dispose, en respectant le principe de proportionnalité, des pouvoirs les plus étendus, notamment:
+<sup>1</sup> Dans l'exercice de ses tâches de surveillance, l'autorité dispose, en respectant le principe de proportionnalité, des pouvoirs les plus étendus, notamment:
 
 - a) elle a accès à tous les livres, registres, rapports, procès-verbaux, documents et correspondances des fondations;
-
 - b) elle peut procéder ou faire procéder, le cas échéant, aux frais de la fondation ou d'une autre partie, à des enquêtes et à des expertises comptables;
-
 - c) elle peut recourir à l'exécution par équivalent, aux frais de la fondation, si, malgré ses injonctions, les organes de la fondation négligent leurs devoirs;
-
 - d) elle peut édicter des directives de portée générale ou particulière à l'égard du conseil de fondation ou des organes de révision;
-
 - e) elle peut prendre toute mesure conservatoire, avertir, suspendre ou destituer les membres des organes de fondation ou certains d'entre eux et en nommer d'autres, en cas de carence, d'incapacité ou d'inobservation des prescriptions régissant leur activité;
-
 - f) elle peut mandater, aux frais de la fondation, des tiers chargés d'ouvrir une action civile en responsabilité contre les organes coupables de manquements dans la gestion du patrimoine;
-
 - g) elle peut signifier ses décisions sous la menace de l'article 292 du code pénal et dénoncer aux autorités pénales les cas d'insoumission.
 
-### Section 3a: Modification et dissolution des fondations
+## 3a Modification et dissolution des fondations
 
 #### Art. 17
 
-<sup>8</sup> Autorité compétente et procédure
+**Autorité compétente et procédure**
 
-<sup>1</sup> L'autorité cantonale compétente au sens des articles 85 à 86a et 88 alinéa 1 du code civil suisse (ci-après autorité de modification) est le département dont relève la sécurité.
+<sup>1</sup> L'autorité cantonale compétente au sens des articles 85 à 86a et 88 alinéa 1 du code civil suisse (ci-après: autorité de modification) est le département dont relève la sécurité.
 
 <sup>2</sup> La procédure est réglée par la loi sur la procédure et la juridiction administratives.
 
-<sup>3</sup> Demeure réservée la compétence de l'autorité de surveillance pour les modifications accessoires de l'acte de fondation (art. 86b CCS et 15 al. 2 let. j de la présente ordonnance).
+<sup>3</sup> Demeure réservée la compétence de l'autorité de surveillance pour les modifications accessoires de l'acte de fondation (art. 86b CC et 15 al. 2 let. j de la présente ordonnance).
 
 #### Art. 17a
 
-<sup>8</sup> Tâches de l'autorité de modification
+**Tâches de l'autorité de modification**
 
 <sup>1</sup> L'autorité de modification assume les tâches prévues par le droit civil fédéral.
 
 <sup>2</sup> En particulier, elle peut:
 
 - a) prendre les décisions relatives à la modification de l'organisation, du but ou des charges d'une fondation et en aviser le registre du commerce dès leur entrée en force;
-
 - b) prononcer la dissolution de la fondation;
-
 - c) constater que les opérations de liquidation sont terminées et requérir la radiation de l'inscription de la fondation en liquidation auprès du registre du commerce.
 
 <sup>3</sup> En cas de modification du but de la fondation, l'autorité de modification désigne l'autorité chargée d'exercer à l'avenir la surveillance si celle-ci change.
 
 #### Art. 17b
 
-<sup>8</sup> Interventions et moyens à disposition
+**Interventions et moyens à disposition**
 
 <sup>1</sup> Les interventions de l'autorité de modification sont prévues par le droit fédéral.
 
@@ -321,23 +286,21 @@ Dans l'exercice de ses tâches de surveillance, l'autorité dispose, en respecta
 
 #### Art. 17c
 
-<sup>8</sup> Demande de modification des statuts
+**Demande de modification des statuts**
 
 <sup>1</sup> La demande de modification des statuts est adressée par écrit à l'autorité de modification. Elle est motivée et signée par les personnes habilitées à représenter la fondation.
 
 <sup>2</sup> Les pièces nécessaires sont jointes en annexe, soit notamment un exemplaire des anciens statuts, deux exemplaires originaux des nouveaux statuts ainsi qu'un exemplaire original du procès-verbal du conseil de fondation entérinant les modifications statutaires proposées.
 
-### Section 4: Adoption
+## 4 Adoption
 
 #### Art. 18
 
 **Requête**
 
-<sup>1</sup> Le(s) parent(s) adoptif(s) doit(doivent) déposer une requête d'adoption écrite auprès du service dont relève l'état civil et établir que toutes les conditions de l'adoption sont réalisées.[^18-1]
+<sup>1</sup> Le(s) parent(s) adoptif(s) doit(doivent) déposer une requête d'adoption écrite auprès du service dont relève l'état civil et établir que toutes les conditions de l'adoption sont réalisées.
 
 <sup>2</sup> Il(s) peut(peuvent) solliciter le soutien du département dont relève la jeunesse.
-
-[^18-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
 
 #### Art. 19
 
@@ -345,34 +308,28 @@ Dans l'exercice de ses tâches de surveillance, l'autorité dispose, en respecta
 
 <sup>1</sup> Le service examine d'office si les conditions légales de l'adoption sont remplies.
 
-<sup>2</sup> Si la requête d'adoption ne doit pas être rejetée pour un autre motif, le service est compétent pour :
+<sup>2</sup> Si la requête d'adoption ne doit pas être rejetée pour un autre motif, le service est compétent pour:
 
-- a) enregistrer le consentement d'un parent à l'adoption qui n'aurait pas été signifié préalablement à l'autorité de protection de l'enfant (art. 265a CCS) et informer l'intéressé sur son droit de rétractation (art. 265b al. 2 CCS);[^19-1]
+- a) enregistrer le consentement d'un parent à l'adoption qui n'aurait pas été signifié préalablement à l'autorité de protection de l'enfant (art. 265a CC) et informer l'intéressé sur son droit de rétractation (art. 265b al. 2 CC);
+- b) instruire, le cas échéant, la décision que prononcera l'autorité d'adoption sur l'abstraction du consentement d'un parent à l'adoption (art. 265d al. 2 CC).
 
-- b) instruire, le cas échéant, la décision que prononcera l'autorité d'adoption sur l'abstraction du consentement d'un parent à l'adoption (art. 265d al. 2 CCS).
-
-<sup>3</sup> Le service confie l'enquête d'évaluation sociale à l'office compétent du département dont relève la jeunesse et s'assure que son rapport renseigne sur tous les faits déterminants (art. 268a CCS).
-
-[^19-1]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
+<sup>3</sup> En cas d'adoption d'un enfant mineur, le service confie l'enquête d'évaluation sociale à l'office compétent du département dont relève la jeunesse et s'assure que son rapport renseigne sur tous les faits déterminants.
 
 #### Art. 20
 
 **Décision**
 
-<sup>1</sup> Le service soumet le dossier complet d'adoption, accompagné de son préavis, au chef du département dont relève la sécurité pour décision.[^20-1]
+<sup>1</sup> Le service soumet le dossier complet d'adoption, accompagné de son préavis, au chef du département dont relève la sécurité pour décision.
 
 <sup>2</sup> Il procède aux notifications et communications de la décision selon les prescriptions du droit privé fédéral.
-
-[^20-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
 
 #### Art. 21
 
 **Placement en vue d'adoption - Activité d'intermédiaire**
 
-La loi en faveur de la jeunesse et la loi d'application du code civil suisse désignent l'autorité compétente et la procédure applicable pour prendre les décisions et mesures prévues par:
+<sup>1</sup> La loi en faveur de la jeunesse et la loi d'application du code civil suisse désignent l'autorité compétente et la procédure applicable pour prendre les décisions et mesures prévues par:
 
 - a) l'ordonnance réglant le placement d'enfants;
-
 - b) l'ordonnance sur l'activité d'intermédiaire en vue de l'adoption.
 
 #### Art. 22
@@ -381,28 +338,23 @@ La loi en faveur de la jeunesse et la loi d'application du code civil suisse dé
 
 <sup>1</sup> Les décisions d'un département en matière d'adoption, de placement d'enfant ou d'activité d'intermédiaire sont susceptibles d'un recours administratif au Conseil d'Etat.
 
-<sup>2</sup> Les décisions du Conseil d'Etat en matière de placement d'enfant ou d'activité d'intermédiaire sont susceptibles d'un recours de droit administratif au Tribunal cantonal chaque fois que le recours en matière civile au Tribunal fédéral est recevable.[^22-1]
+<sup>2</sup> Les décisions du Conseil d'Etat en matière de placement d'enfant ou d'activité d'intermédiaire sont susceptibles d'un recours de droit administratif au Tribunal cantonal chaque fois que le recours en matière civile au Tribunal fédéral est recevable.
 
-<sup>3</sup> Abrogé[^22-2]
+<sup>3</sup> …
 
-[^22-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
-[^22-2]: Modification selon l'art. 11 al. 1 let. e de la loi RO/VS 2010, 60 1.01.2011 d'application du code de procédure civile suisse (LACPC) du 11.02.2009
-
-### Section 5: Mandat en mariage ou en partenariat
+## 5 Mandat en mariage ou en partenariat
 
 #### Art. 23
 
 **Autorités compétentes**
 
-<sup>1</sup> La délivrance, le renouvellement, le retrait et la révocation de l'autorisation de pratiquer l'activité à titre professionnel de mandataire en mariage ou en partenariat, au sens de l'ordonnance fédérale, sont de la compétence du service administratif et juridique du département dont relève la sécurité.[^23-1]
+<sup>1</sup> La délivrance, le renouvellement, le retrait et la révocation de l'autorisation de pratiquer l'activité à titre professionnel de mandataire en mariage ou en partenariat, au sens de l'ordonnance fédérale, sont de la compétence du service administratif et juridique du département dont relève la sécurité.
 
 <sup>2</sup> La surveillance sur cette activité est exercée par le service et la police cantonale.
 
-<sup>3</sup> L'autorité qui, dans l'exercice d'une activité officielle, constate une violation des dispositions du droit fédéral ou cantonal sur le mandat en mariage ou en partenariat doit la dénoncer à l'office central du ministère public et au service. 6
+<sup>3</sup> L'autorité qui, dans l'exercice d'une activité officielle, constate une violation des dispositions du droit fédéral ou cantonal sur le mandat en mariage ou en partenariat doit la dénoncer à l'office central du ministère public et au service.
 
 <sup>4</sup> Le service exerce, en outre, les compétences que la loi n'attribue pas à une autre autorité.
-
-[^23-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
 
 #### Art. 24
 
@@ -413,27 +365,22 @@ La loi en faveur de la jeunesse et la loi d'application du code civil suisse dé
 <sup>2</sup> Afin d'établir que l'activité sera exercée consciencieusement et conformément au droit, le requérant doit:
 
 - a) déposer un modèle de contrat renseignant sur les droits et les obligations du mandant et du mandataire (art. 406d CO);
-
 - b) exposer de quelle manière il s'acquittera de son devoir d'information et de protection des données (art. 406g CO);
-
 - c) s'engager à annoncer, sans délai et par écrit, toute modification des indications mentionnées dans la demande d'autorisation, et à présenter un rapport annuel d'activité sur la marche des affaires et leur extension prévisible (art. 16 ordonnance fédérale);
-
 - d) attester que les personnes responsables de l'activité de courtage connaissent les prescriptions pertinentes du droit des étrangers, en particulier celles relatives à l'entrée et au séjour en Suisse.
 
 #### Art. 25
 
 **Sûretés**
 
-<sup>1</sup> Les sûretés fournies sous forme :
+<sup>1</sup> Les sûretés fournies sous forme:
 
 - a) de cautionnement, de déclaration de garantie d'une banque ou d'une assurance, ou d'une assurance garantie, sont déposées auprès du service;
-
 - b) d'obligations de caisse ou d'un dépôt en espèces, sont déposées auprès d'un établissement bancaire soumis à la loi fédérale sur les banques et les caisses d'épargne; l'acte de sûretés doit prévoir une prorogation de for en Valais si l'établissement bancaire n'a pas son siège en Valais.
 
-<sup>2</sup> L'établissement bancaire qui reçoit des obligations de caisse ou un dépôt en espèces doit :
+<sup>2</sup> L'établissement bancaire qui reçoit des obligations de caisse ou un dépôt en espèces doit:
 
 - a) attester détenir une somme d'un montant déterminé au titre de sûretés pour l'activité de courtage en mariage ou en partenariat;
-
 - b) s'engager à ne libérer les sûretés qu'avec l'accord du service.
 
 <sup>3</sup> Le montant minimal des sûretés fixé par l'ordonnance fédérale concerne une activité de courtage accessoire, irrégulière, pratiquée sans publicité dans des pays géographiquement proches de la Suisse.
@@ -444,9 +391,9 @@ La loi en faveur de la jeunesse et la loi d'application du code civil suisse dé
 
 **Procédure**
 
-La loi sur la procédure et la juridiction administratives s'applique à toute décision rendue par le service en application de la législation fédérale et cantonale sur le mandat en mariage et en partenariat.
+<sup>1</sup> La loi sur la procédure et la juridiction administratives s'applique à toute décision rendue par le service en application de la législation fédérale et cantonale sur le mandat en mariage et en partenariat.
 
-### Section 6: Registre du commerce
+## 6 Registre du commerce
 
 #### Art. 27
 
@@ -455,16 +402,12 @@ La loi sur la procédure et la juridiction administratives s'applique à toute d
 <sup>1</sup> La tenue du registre du commerce s'opère par arrondissements:
 
 - a) l'office du premier arrondissement, avec siège à Brigue, exerce ses compétences dans les districts de Conches, Rarogne oriental, Brigue, Viège, Rarogne occidental et Loèche;
-
 - b) l'office du deuxième arrondissement, avec siège à Sion, exerce ses compétences dans les districts de Sierre, Sion, Hérens et Conthey;
-
 - c) l'office du troisième arrondissement, avec siège à Saint-Maurice, exerce ses compétences dans les districts de Martigny, Entremont, Saint-Maurice et Monthey.
 
 <sup>2</sup> Le registre du commerce est tenu en langue allemande dans le premier arrondissement, et en langue française dans les deux autres arrondissements.
 
-<sup>3</sup> Le préposé fixe les heures d'ouverture des bureaux du registre en tenant compte des besoins des usagers. Les bureaux sont obligatoirement accessibles au public les jours de semaine entre 14 heures et 17 heures, sauf le samedi et les jours fériés.[^27-1]
-
-[^27-1]: Modification du 1.04.2009 RO/VS 2009, 176 10.04.2009
+<sup>3</sup> Le préposé fixe les heures d'ouverture des bureaux du registre en tenant compte des besoins des usagers. Les bureaux sont obligatoirement accessibles au public les jours de semaine entre 14 heures et 17 heures, sauf le samedi et les jours fériés.
 
 #### Art. 28
 
@@ -499,9 +442,7 @@ La loi sur la procédure et la juridiction administratives s'applique à toute d
 <sup>7</sup> Le Conseil d'Etat fixe, par voie d'arrêté:
 
 - a) le revenu minimal garanti ainsi que le revenu maximal du préposé;
-
 - b) le système de rétribution du préposé et du substitut, les composantes et la tenue du compte d'exploitation;
-
 - c) la limite de rémunération du personnel de l'office.
 
 #### Art. 30
@@ -526,25 +467,33 @@ La loi sur la procédure et la juridiction administratives s'applique à toute d
 
 #### Art. 32
 
-<sup>2</sup> Autorité cantonale de surveillance
+**Autorité cantonale de surveillance**
 
-<sup>1</sup> Le département dont relève la sécurité est l'autorité chargée de la surveillance du registre du commerce dans l'ensemble du canton.
+<sup>1</sup> …
 
-<sup>2</sup> Il exerce toutes les tâches assignées par le droit fédéral à l'autorité cantonale de surveillance.
+<sup>2</sup> Le département dont relève la sécurité exerce les tâches assignées à l'autorité cantonale de surveillance selon l'article 4 alinéa 1 lettre i.
+
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+
+<sup>3</sup> …
 
 #### Art. 33
 
 **Procédure**
 
-<sup>1</sup> La procédure devant l'autorité cantonale de surveillance est régie par la loi sur la procédure et la juridiction administratives; toutefois, les dispositions de la procédure sommaire en droit pénal administratif ne s'appliquent pas au prononcé des amendes d'ordre.
+<sup>1</sup> La procédure devant l'autorité cantonale de surveillance est régie par la loi sur la procédure et la juridiction administratives.
 
-<sup>2</sup> Les décisions de l'autorité cantonale de surveillance sont susceptibles de recours à un juge du Tribunal cantonal.[^33-1]
-
-[^33-1]: Modification du 24.10.2007 RO/VS 2007, 262 1.01.2008
+<sup>2</sup> Les décisions de l'autorité cantonale de surveillance sont susceptibles de recours à un juge du Tribunal cantonal.
 
 #### Art. 33a
 
-<sup>2</sup> Recours contre les décisions de l'office du registre du commerce
+**Recours contre les décisions de l'office du registre du commerce**
 
 <sup>1</sup> Un juge du Tribunal cantonal connaît des recours contre les décisions de l'office du registre du commerce.
 
@@ -566,13 +515,13 @@ La loi sur la procédure et la juridiction administratives s'applique à toute d
 
 <sup>2</sup> Dans le cadre du droit de consultation, des extraits peuvent être exigés contre un émolument de 100 francs.
 
-### Section 7: Autres dispositions
+## 7 Autres dispositions
 
 #### Art. 36
 
 **Centres de consultation conjugale ou familiale**
 
-<sup>1</sup> Les centres de consultation en matière de grossesse exercent les tâches dévolues aux offices de consultation conjugale ou familiale (art. 171 CCS).
+<sup>1</sup> Les centres de consultation en matière de grossesse exercent les tâches dévolues aux offices de consultation conjugale ou familiale (art. 171 CC).
 
 <sup>2</sup> La reconnaissance, l'organisation et le financement des centres sont réglés par la loi d'application de la loi fédérale sur les centres de consultation en matière de grossesse.
 
@@ -585,20 +534,17 @@ La loi sur la procédure et la juridiction administratives s'applique à toute d
 <sup>2</sup> Le préposé perçoit un émolument:
 
 - a) en appliquant, par analogie, les articles 7, 9 à 15 et 42 de l'ordonnance sur les émoluments perçus en application de la LP pour les inscriptions, notifications, établissement de pièces, communications, renseignements, publications, déplacements et débours;
-
 - b) en se conformant à la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives pour la délivrance d'autorisations.
 
-<sup>3</sup> Les émoluments sont attribués à la caisse de l'Etat.[^37-1]
-
-[^37-1]: Modification du 9.06.2010 RO/VS 2010, 231 1.01.2011
+<sup>3</sup> Les émoluments sont attribués à la caisse de l'Etat.
 
 #### Art. 38
 
 **Taux hypothécaire maximum**
 
-En cas de situation économique difficile, le Conseil d'Etat peut, par voie d'arrêté, fixer un taux d'intérêt hypothécaire maximum.
+<sup>1</sup> En cas de situation économique difficile, le Conseil d'Etat peut, par voie d'arrêté, fixer un taux d'intérêt hypothécaire maximum.
 
-### Section 8: Dispositions transitoires et finales
+## 8 Dispositions transitoires et finales
 
 #### Art. 39
 
@@ -612,42 +558,24 @@ En cas de situation économique difficile, le Conseil d'Etat peut, par voie d'ar
 
 **Abrogations**
 
-Sont abrogées dès l'entrée en vigueur de la présente ordonnance toutes les dispositions qui lui sont contraires, notamment:
+<sup>1</sup> Sont abrogées dès l'entrée en vigueur de la présente ordonnance toutes les dispositions qui lui sont contraires, notamment:
 
-- a) l'ordonnance sur l'état civil, du 20 juin 1972;
-
-- b) l'arrêté fixant les émoluments et frais perçus par le service cantonal de l'état civil, du 30 mai 1990;
-
-- c) l'arrêté fixant le tarif des émoluments en matière d'état civil, du 16 mai 1990;
-
-- d) les articles 1er lettre a, 2 lettre d, 3 alinéa 1, 4 à 12 et 17 à 19 du décret concernant la surveillance des fondations et des institutions de prévoyance professionnelle vieillesse, survivants et invalidité, du 14 novembre 1988;
-
-- e) l'ordonnance sur l'adoption, du 29 mars 1973;
-
-- f) l'ordonnance concernant le mandat en mariage ou en partenariat, du 15 décembre 1999;
-
-- g) le règlement d'exécution concernant le registre du commerce, du 4 janvier 1938.
-
-[^40-1]: Modification du 19.09.2012 BO No 39/2012 1.01.2013
+- a) l'ordonnance sur l'état civil du 20 juin 1972;
+- b) l'arrêté fixant les émoluments et frais perçus par le service cantonal de l'état civil du 30 mai 1990;
+- c) l'arrêté fixant le tarif des émoluments en matière d'état civil du 16 mai 1990;
+- d) les articles 1 lettre a, 2 lettre d, 3 alinéa 1, 4 à 12 et 17 à 19 du décret concernant la surveillance des fondations et des institutions de prévoyance professionnelle vieillesse, survivants et invalidité du 14 novembre 1988;
+- e) l'ordonnance sur l'adoption du 29 mars 1973;
+- f) l'ordonnance concernant le mandat en mariage ou en partenariat du 15 décembre 1999;
+- g) le règlement d'exécution concernant le registre du commerce du 4 janvier 1938.
 
 #### Art. 41
 
-**Abrogé**[^40-1]
+**…**
 
 #### Art. 42
 
 **Entrée en vigueur**
 
-La présente ordonnance entre en vigueur au 1er janvier 2001 après avoir été approuvée par la Confédération et publiée au Bulletin officiel.
+<sup>1</sup> La présente ordonnance entre en vigueur au 1<sup>er</sup> janvier 2001 après avoir été approuvée par la Confédération et publiée au Bulletin officiel.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 4 octobre 2000.
-
-Le président du Conseil d'Etat: Jean-René Fournier Le chancelier d'Etat: Henri v. Roten
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.01.2001**
-
-vigueur RO/VS 2000, 176
+RCV BO/Abl. 44/2000
