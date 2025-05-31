@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° gennaio 2025)
+del 17 gennaio 1961 (Stato 1° giugno 2025)
 
-[^t-1]: Nuovo tit. giusta la cifra II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
+[^t-1]: Nuovo tit. giusta la cifra II n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
 Il Consiglio federale svizzero,
 
@@ -1554,7 +1554,7 @@ L’articolo 54<sup>bis</sup> OAVS[^34-2] è applicabile per analogia alla riduz
 
 [^35bis-1]: Introdotto dalla cifra I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^35bis-2]: Nuovo testo del per. giusta la cifra I n. 1 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^35bis-3]: Introdotto dalla cifra I 1 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^35bis-3]: Introdotto dalla cifra I n. 1 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^35bis-4]: Introdotto dalla cifra I n. 1 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^35bis-5]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^35bis-6]: Abrogato dalla cifra I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
@@ -2512,7 +2512,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>1</sup> Nel caso di un modello di rimunerazione di tipo DRG (*Diagnosis Related Groups*) il fornitore di prestazioni deve fornire un numero d’identificazione unico per gli insiemi di dati con le indicazioni amministrative e mediche ai sensi dell’articolo 79<sup>ter</sup>. La struttura dell’insieme dei dati deve rispettare la struttura uniforme valida in tutta la Svizzera stabilita dal DFI secondo l’articolo 59*a* capoverso 1 OAMal[^79quater-2].
 
-<sup>2</sup> Le diagnosi e le procedure ai sensi dell’articolo 79<sup>ter</sup> capoverso 1 devono essere codificate conformemente alle classificazioni menzionate per la statistica medica degli stabilimenti ospedalieri alla cifra 62 dell’allegato dell’ordinanza del 30 giugno 1993[^79quater-3] sulle rilevazioni statistiche.
+<sup>2</sup> Le diagnosi e le procedure ai sensi dell’articolo 79<sup>ter</sup> capoverso 1 devono essere codificate conformemente alle classificazioni menzionate nella rilevazione per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^79quater-3] sulla statistica federale.[^79quater-4]
 
 <sup>3</sup> Il fornitore di prestazioni trasmette contemporaneamente alla fattura gli insiemi di dati con le indicazioni amministrative e mediche secondo l’articolo 79<sup>ter</sup> capoverso 1 all’assicurazione per l’invalidità.
 
@@ -2520,7 +2520,8 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 [^79quater-1]: Introdotto dalla cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). La mod. giusta l’all. 2 cifra II n. 118 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo francese ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^79quater-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^79quater-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^79quater-4]: Nuovo testo giusta l’all. 3 n. 16 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 79<sup>quinquies</sup>
 

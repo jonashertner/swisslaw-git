@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2025)
+du 17 janvier 1961 (État le 1<sup>er</sup> juin 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -2510,17 +2510,18 @@ Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes 
 
 <sup>1</sup> Dans le cas d’un modèle de rémunération de type DRG (*Diagnosis Related Groups*), le fournisseur de prestations doit munir d’un numéro d’identification unique les ensembles de données avec les indications administratives et médicales visées à l’art. 79<sup>ter</sup>. Les ensembles de données doivent respecter la structure harmonisée au niveau suisse telle que fixée par le DFI en vertu de l’art. 59*a*, al. 1, OAMal[^79quater-2].[^79quater-3]
 
-<sup>2</sup> Les diagnostics et procédures visés à l’art. 79<sup>ter</sup>, al. 1, doivent être codés conformément aux classifications mentionnées pour la statistique médicale des hôpitaux au ch. 62 de l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^79quater-4].
+<sup>2</sup> Les diagnostics et procédures visés à l’art. 79<sup>ter</sup>, al. 1, doivent être codés conformément aux classifications utilisées dans le relevé pour la statistique des services de santé visé à l’annexe 1, ch. 05.03, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^79quater-4].[^79quater-5]
 
-<sup>3</sup> Le fournisseur de prestations transmet simultanément, avec la facture, les ensembles de données avec les indications administratives et médicales visées à l’art. 79<sup>ter</sup>, al. 1, à l’assurance-invalidité.[^79quater-5]
+<sup>3</sup> Le fournisseur de prestations transmet simultanément, avec la facture, les ensembles de données avec les indications administratives et médicales visées à l’art. 79<sup>ter</sup>, al. 1, à l’assurance-invalidité.[^79quater-6]
 
 <sup>4</sup> L’office AI détermine pour quelles factures un examen supplémentaire est nécessaire.
 
 [^79quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^79quater-3]: Nouvelle teneur selon l’annexe 2 ch. II 118 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^79quater-4]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^79quater-5]: Nouvelle teneur selon l’annexe 2 ch. II 118 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^79quater-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^79quater-5]: Nouvelle teneur selon l’annexe 3 ch. 16 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^79quater-6]: Nouvelle teneur selon l’annexe 2 ch. II 118 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 79<sup>quinquies</sup>
 

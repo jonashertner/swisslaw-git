@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Januar 2025)
+vom 17. Januar 1961 (Stand am 1. Juni 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -2512,7 +2512,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>1</sup> Im Falle eines Vergütungsmodells vom Typus DRG *(Diagnosis Related Groups)* muss der Leistungserbringer die Datensätze mit den administrativen und medizinischen Angaben nach Artikel 79<sup>ter</sup> mit einer einmaligen Identifikationsnummer versehen. Die Datensätze müssen der gesamtschweizerisch einheitlichen Struktur entsprechen, wie sie das EDI nach Artikel 59*a* Absatz 1 KVV[^79quater-2] festlegt.
 
-<sup>2</sup> Diagnosen und Prozeduren nach Artikel 79<sup>ter</sup> Absatz 1 sind entsprechend den Klassifikationen für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Statistikerhebungsverordnung vom 30. Juni 1993[^79quater-3] zu codieren.
+<sup>2</sup> Diagnosen und Prozeduren nach Artikel 79<sup>ter</sup> Absatz 1 sind entsprechend den Klassifikationen für die Statistik der Gesundheitsversorgung in Anhang 1 Ziffer 05.03. der Bundesstatistikverordnung vom 30. April 2025[^79quater-3] zu codieren.[^79quater-4]
 
 <sup>3</sup> Der Leistungserbringer leitet die Datensätze mit den administrativen und den medizinischen Angaben nach Artikel 79<sup>ter</sup> Absatz 1 gleichzeitig mit der Rechnung an die Invalidenversicherung weiter.
 
@@ -2520,7 +2520,8 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 [^79quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Die Änd. der Abs. 1 und 3 durch die Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023, betrifft nur den französischen Text ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)Anhang 2 Ziff. II 118).
 [^79quater-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^79quater-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^79quater-3]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^79quater-4]: Fassung gemäss Anhang 3 Ziff. 16 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 79<sup>quinquies</sup>
 
