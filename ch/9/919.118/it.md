@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordinanza del 7 dicembre 1998 concernente l'analisi della sostenibilità in agricoltura"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’analisi della sostenibilità in agricoltura
 
-del 7 dicembre 1998 (Stato 1° gennaio 2025)
+del 7 dicembre 1998 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -94,11 +94,13 @@ Per analizzare la situazione economica del settore agricolo, l’UFAG si basa pr
 
 **Valutazione della situazione economica delle singole aziende**[^4-1]
 
-<sup>1</sup> Per valutare la situazione economica delle singole aziende l’UFAG utilizza i dati dell’analisi centralizzata dei dati contabili.
+<sup>1</sup> Per analizzare i risultati delle aziende di riferimento, l’UFAG utilizza i dati dell’analisi centralizzata dei dati contabili di cui al numero 09.41 dell’allegato 2 dell’ordinanza del 30 aprile 2025[^4-2] sulla statistica federale.[^4-3]
 
 <sup>2</sup> A tal fine paragona il reddito del lavoro agricolo al salario comparabile e analizza lo sviluppo e la dispersione degli indicatori di produttività e di redditività delle aziende agricole.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^4-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^4-3]: Nuovo testo giusta l’all. 3 n. 26 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giugno 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 5
 

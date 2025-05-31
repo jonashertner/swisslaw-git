@@ -3,18 +3,18 @@ sr: "919.118"
 title: Verordnung vom 7. Dezember 1998 über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Beurteilung der Nachhaltigkeit in der Landwirtschaft
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2025)
+vom 7. Dezember 1998 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -93,11 +93,13 @@ Das BLW[^3-1] stützt sich für die wirtschaftliche Beurteilung des Agrarsektors
 
 **Einzelbetriebliche Beurteilung der wirtschaftlichen Lage**[^4-1]
 
-<sup>1</sup> Das BLW verwendet für die einzelbetriebliche Beurteilung der wirtschaftlichen Lage die Daten aus der zentralen Auswertung von Buchhaltungsdaten.
+<sup>1</sup> Das BLW verwendet für die einzelbetriebliche Beurteilung der wirtschaftlichen Lage die Daten aus der zentralen Auswertung von Buchhaltungsdaten nach Anhang 2 Ziffer 09.41. der Bundesstatistikverordnung vom 30. April 2025[^4-2].[^4-3]
 
 <sup>2</sup> Dazu nimmt es eine Gegenüberstellung des bäuerlichen Arbeitsverdienstes und des Vergleichseinkommens vor und analysiert die Entwicklung und die Streuung der Produktivitäts- und Rentabilitätsindikatoren der landwirtschaftlichen Betriebe.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^4-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^4-3]: Fassung gemäss Anhang 3 Ziff. 26 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 5
 

@@ -3,18 +3,18 @@ sr: "919.118"
 title: "Ordonnance du 7 décembre 1998 sur l'évaluation de la durabilité de l'agriculture"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’évaluation de la durabilité de l’agriculture
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2025)
+du 7 décembre 1998 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -93,11 +93,13 @@ L’OFAG[^3-1] analyse l’évolution économique du secteur agricole en se basa
 
 **Examen de la situation économique à l’échelon de l’exploitation**[^4-1]
 
-<sup>1</sup> L’OFAG utilise les données du dépouillement centralisé des données comptables pour examiner la situation économique à l’échelon de l’exploitation.
+<sup>1</sup> L’OFAG analyse les résultats des exploitations de référence sur la base des données collectées dans le cadre du dépouillement centralisé de données comptables visé à l’annexe 2, ch. 09.41, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^4-2].[^4-3]
 
 <sup>2</sup> À cet effet, il compare le revenu du travail paysan au salaire comparable et examine l’évolution et la dispersion des indicateurs de productivité et de viabilité des exploitations agricoles.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 663](https://fedlex.data.admin.ch/eli/oc/2024/663)).
+[^4-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^4-3]: Nouvelle teneur selon l’annexe 3 ch. 26 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 5
 
