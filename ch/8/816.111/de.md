@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 22. März 2017 über das elektronische Patientendo
 short: EPDV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: de
-version: 2024-10-01
+version: 2025-06-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20241001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20241001/de"
 
 (EPDV-EDI)
 
-vom 22. März 2017 (Stand am 1. Oktober 2024)
+vom 22. März 2017 (Stand am 1. Juni 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -142,6 +142,14 @@ Bis zum 31. Mai 2025 müssen Gemeinschaften und Stammgemeinschaften die Änderun
 
 [^8d-1]: Eingefügt durch Ziff. I der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 
+#### Art. 8e
+
+**Übergangsbestimmung zur Änderung vom 30. April 2025**[^8e-1]
+
+Bis zum 31. Mai 2027 müssen Herausgeber von Identifikationsmitteln, Gemeinschaften und Stammgemeinschaften die Änderung vom 30. April 2025 nicht umsetzen.
+
+[^8e-1]: Eingefügt durch Ziff. I der V des EDI vom 30. April 2025, in Kraft seit 1. Juni 2025 (AS **202****5** 309).
+
 #### Art. 9
 
 **Inkrafttreten**
@@ -205,8 +213,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), Ziff. II Abs. 1 der V des EDI vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und Ziff. I der V des EDI vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 460](https://fedlex.data.admin.ch/eli/oc/2024/460)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/460](https://fedlex.data.admin.ch/eli/oc/2024/460) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)), Ziff. I der V des EDI vom 28. Aug. 2024 ([AS 2024 460](https://fedlex.data.admin.ch/eli/oc/2024/460)) und Ziff. II Abs. 1 der V des EDI vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -216,8 +224,8 @@ Anhang 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss der Berichtigung vom 26. Nov. 2019 ([AS 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) und Ziff. II Abs. 1 der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss der Berichtigung vom 26. Nov. 2019 ([AS 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-3]
 
@@ -227,8 +235,8 @@ Anhang 4[^t-3]
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) und Ziff. II Abs. 1 der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex4-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
+[^annex4-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 5[^t-4]
 
@@ -236,7 +244,7 @@ Anhang 5[^t-4]
 
 ## Integrationsprofile
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
 
 ### 1 IHE Integrationsprofile
 
@@ -246,41 +254,44 @@ Anhang 5[^t-4]
 
 <table>
 <tr><th>Integrationsprofil</th><th>Technisches Dokument</th><th>Akteure</th><th>Transaktionen</th><th>Nationale Anpassungen</th></tr>
-<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Secure Application Secure Node Audit Record Repository</td><td>Authenticate Node [ITI‑19] Record Audit Event [ITI‑20]</td><td>Ergänzung 1[^annex5-lvlu1-lvl1-2] zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td></td><td>IHE IT Infrastructure Technical Framework Supplement, Add RESTful ATNA (Query and Feed), Revision 3.3, July 2, 2021</td><td>Audit Consumer Audit Record Repository</td><td>Retrieve ATNA Audit Event [ITI‑81]</td><td>Ergänzung 2.2[^annex5-lvlu1-lvl1-3] zu Anhang 5 der EPDV-EDI, Integrationsprofil Audit Trail Consumption (CH:ATC), Ausgabe 5</td></tr>
+<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Secure Application Secure Node Audit Record Repository</td><td>Authenticate Node [ITI‑19] Record Audit Event [ITI‑20]</td><td>Ergänzung 1[^annex5-lvlu1-lvl1-2] zu Anhang 5 der EPDV‑EDI, Ausgabe 8 RESTful ATNA, CH EPR FHIR (R4), RESTful ATNA, Implementation Guide Version 4.0.1, 2024-12-18</td></tr>
 <tr><td>CT</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Time Client Time Server</td><td>Maintain Time [ITI‑1]</td><td>Nein</td></tr>
-<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.8, August 28, 2020</td><td>Provider Information Source Provider Information Consumer Provider Information Directory</td><td>Provider Information Query [ITI‑58] Provider Information Feed [ITI‑59] Provider Information Delta Download (CH:PIDD)</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>IUA</td><td>IHE IT Infrastructure Technical Framework, Supplement Internet User Authorization (IUA), Revision 2.2, June 17, 2022</td><td>Authorization Client Resource Server</td><td>Incorporate Authorization Token [ITI‑72]</td><td>Nein</td></tr>
-<tr><td>PCC</td><td>IHE Patient Care Coordination (PCC) Technical Framework, Volume 2, Revision 11.1, April 14, 2021</td><td>Content Creator Content Consumer</td><td></td><td>Nein</td></tr>
-<tr><td>PDQV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Demographics Consumer Patient Demographics Supplier</td><td>Patient Demographics Query HL7 V3 [ITI‑47]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>PIXV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Identity Source Patient Identifier Cross-reference Consumer Patient Identifier Cross-reference Manager</td><td>Patient Identity Feed HL7 V3 [ITI‑44] PIXV3 Query [ITI‑45] PIXV3 Update Notification [ITI‑46]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update (RMU), Revision 1.3, July 2, 2021</td><td>Update Initiator Update Responder</td><td>Restricted Update Document Set [ITI‑92]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
+<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.8, August 28, 2020</td><td>Provider Information Source Provider Information Consumer Provider Information Directory</td><td>Provider Information Query [ITI‑58] Provider Information Feed [ITI‑59] Provider Information Delta Download (CH:PIDD)</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>IUA</td><td>IHE IT Infrastructure Technical Framework, Supplement Internet User Authorization (IUA), Revision 2.2, June 17, 2022</td><td>Authorization Server Authorization Client Resource Server</td><td>Get Access Token [ITI‑71] Incorporate Authorization Token [ITI‑72] Get Authorization Server Metadata [ITI‑103]</td><td>Internet User Authorization (IUA), CH EPR FHIR (R4), IUA, Implementation Guide Version 4.0.1, 2024‑12‑18</td></tr>
+<tr><td>mCSD</td><td>IHE IT Infrastructure Technical Framework, Mobile Care Services Discovery (mCSD), Implementation Guide Version 3.8.0, 2022‑08‑12</td><td>Care Services Selective Consumer Care Services Selective SupplierCare Services SourceCare Services Directory</td><td>Find Matching Care Services [ITI‑90] Care Services Feed [CH:mCSD‑1]</td><td>Mobile Care Services Discovery (mCSD), CH EPR FHIR (R4), mCSD, Implementation Guide Version 4.0.1, 2024‑12‑18</td></tr>
+<tr><td>MHD</td><td>IHE IT Infrastructure Technical Framework, Mobile access to Health Documents (MHD), Implementation Guide Version 4.2.2, 2024‑05‑18</td><td>Document Source Document Recipient Document Consumer Document Responder</td><td>Provide Document Bundle [ITI‑65] Find Document References [ITI‑67] Retrieve Document [ITI‑68] Update Document Metadata [CH:MHD‑1]</td><td>Mobile Access to Health Documents (MHD) with XDS on FHIR, CH EPR FHIR (R4), MHD, Implementation Guide Version 4.0.1, 2024‑12‑18</td></tr>
+<tr><td>PCC</td><td>IHE Patient Care Coordination (PCC) Technical Framework, Volume 2, Revision 11.1, April 14, 2021</td><td>Content Creator Content Consumer</td><td></td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>PDQV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Demographics Consumer Patient Demographics Supplier</td><td>Patient Demographics Query HL7 V3 [ITI‑47]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>PDQm</td><td>IHE IT Infrastructure Technical Framework, Patient Demographics Query for Mobile (PDQm), Implementation Guide Version 3.0.0, 2024-02-23</td><td>Patient Demographics Consumer Patient Demographics Supplier</td><td>Patient Demographics Match [ITI‑119]</td><td>Patient Demographics Query for Mobile (PDQm), CH EPR FHIR (R4), PDQm, Implementation Guide Version 4.0.1, 2024‑12‑18</td></tr>
+<tr><td>PIXV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Identity Source Patient Identifier Cross-reference Consumer Patient Identifier Cross-reference Manager</td><td>Patient Identity Feed HL7 V3 [ITI‑44] PIXV3 Query [ITI‑45]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>PIXm</td><td>IHE IT Infrastructure Technical Framework, Patient Identifier Cross-referencing for Mobile (PIXm), Implementation Guide Version 3.0.4, 2024‑02‑23</td><td>Patient Identity Source Patient Identifier Cross-reference Consumer Patient Identifier Cross-reference Manager</td><td>Mobile Patient Identifier Cross-reference Query [ITI‑83] Patient Identity Feed FHIR [ITI‑104]</td><td>Patient Identifier Cross-referencing for mobile (PIXm), CH EPR FHIR (R4), PIXm, Implementation Guide Version 4.0.1, 2024‑12‑18</td></tr>
+<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update (RMU), Revision 1.3, July 2, 2021</td><td>Update Initiator Update Responder</td><td>Restricted Update Document Set [ITI‑92]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
 <tr><td>SVS</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Value Set Consumer Value Set Repository</td><td>Retrieve Value Set [ITI‑48]</td><td>Nein</td></tr>
-<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Query [ITI‑38] Cross Gateway Retrieve [ITI‑39]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>XCA-I</td><td>IHE Radiology Technical Framework, Volume 3 (RAD‑TF‑3), Cross-Transaction Specifications and Content Specifications, Revision 20.0, March 10, 2022</td><td>Initiating Imaging Gateway Responding Imaging Gateway</td><td>Cross Gateway Retrieve Image Document Set [RAD‑75]</td><td>Nein</td></tr>
-<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Patient Discovery [ITI‑55]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
+<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Query [ITI‑38] Cross Gateway Retrieve [ITI‑39]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>XCA-I</td><td>IHE Radiology Technical Framework, Volume 3 (RAD‑TF‑3), Cross-Transaction Specifications and Content Specifications, Revision 22.0, June 25, 2024</td><td>Initiating Imaging Gateway Responding Imaging Gateway</td><td>Cross Gateway Retrieve Image Document Set [RAD‑75]</td><td>Nein</td></tr>
+<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Patient Discovery [ITI‑55]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
 <tr><td>XDM</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Portable Media Creator Portable Media Importer</td><td>Distribute Document Set on Media [ITI‑32]</td><td>Nein</td></tr>
-<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Document Consumer Document Source Document Repository Document Registry Patient Identity Source</td><td>Registry Stored Query [ITI‑18] Provide and Register Document Set‑b [ITI‑41] Register Document Set‑b [ITI‑42] Retrieve Document Set [ITI‑43] Patient Identity Feed HL7v3 [ITI‑44]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD‑TF‑3), Cross-Transaction Specifications and Content Specifications, Revision 20.0, March 10, 2022</td><td>Imaging Document Source Imaging Document Consumer</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD‑68] Retrieve Imaging Document Set [RAD‑69]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.13, June 17, 2022</td><td>Document Administrator Document Registry</td><td>Update Document Set [ITI‑57]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
-<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>X-Service User X-Service Provider X-Assertion Provider User Authentication Provider</td><td>Authenticate User Get X‑User Assertion Provide X‑User Assertion [ITI‑40]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 7</td></tr>
+<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Document Consumer Document Source Document Repository Document Registry Patient Identity Source</td><td>Registry Stored Query [ITI‑18] Provide and Register Document Set‑b [ITI‑41] Register Document Set‑b [ITI‑42] Retrieve Document Set [ITI‑43] Patient Identity Feed HL7v3 [ITI‑44]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 8</td></tr>
+<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Cross-Transaction Specifications and Content Specifications, Revision 22.0, June 25, 2024</td><td>Imaging Document Source Imaging Document Consumer</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD‑68] Retrieve Imaging Document Set [RAD‑69]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.13, June 17, 2022</td><td>Document Administrator Document Registry</td><td>Update Document Set [ITI‑57]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
+<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>X-Service User X-Service Provider X-Assertion Provider User Authentication Provider</td><td>Authenticate User Get X-User Assertion Provide X-User Assertion [ITI‑40]</td><td>Ergänzung 1 zu Anhang 5 der EPDV‑EDI, Ausgabe 8</td></tr>
 </table>
 
-[^annex5-lvlu1-lvl1-2]: Der Inhalt der Ergänzung 1 zu Anhang 5 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
-[^annex5-lvlu1-lvl1-3]: Der Inhalt der Ergänzung 2.2 zu Anhang 5 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^annex5-lvlu1-lvl1-2]: Der Inhalt der Ergänzung 1 zu Anhang 5 kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 ### 2 Nationale Integrationsprofile
 
 <table>
 <tr><th>Integrationsprofil</th><th>Technisches Dokument</th><th>Akteure</th><th>Transaktionen</th></tr>
-<tr><td>CH:ADR</td><td>Ergänzung 2.1[^annex5-lvlu1-lvl2-1] zu Anhang 5 EPDV‑EDI, Integrationsprofil Authorization Decision Request (CH:ADR), Ausgabe 6</td><td>Authorization Decision Provider Authorization Decision Consumer</td><td>Authorization Decision Request (CH:ADR)</td></tr>
-<tr><td>CH:ATC</td><td>Ergänzung 2.2 zu Anhang 5 EPDV‑EDI, Integrationsprofil Audit Trail Consumption (CH:ATC), Ausgabe 5</td><td>Patient Audit Consumer Patient Audit Record Repository</td><td>Retrieve ATNA Audit Event [ITI‑81]</td></tr>
-<tr><td>CH:CPI</td><td>Ergänzung 2.3[^annex5-lvlu1-lvl2-2] zu Anhang 5 EPDV‑EDI, Integrationsprofil Community Portal Index (CH:CPI), Ausgabe 6</td><td>CH:CPI Consumer CH:CPI Provider</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
-<tr><td>CH:PPQ</td><td>Ergänzung 2.1 zu Anhang 5 EPDV‑EDI, Integrationsprofil Privacy Policy Query (CH:PPQ), Ausgabe 6</td><td>Policy Source Policy Repository Policy Consumer</td><td>Privacy Policy Feed (CH:PPQ‑1) Privacy Policy Retrieve (CH:PPQ‑2)</td></tr>
+<tr><td>CH:ADR</td><td>Ergänzung 2.1[^annex5-lvlu1-lvl2-1] zu Anhang 5 EPDV-EDI, Integrationsprofil Authorization Decision Request (CH:ADR), Ausgabe 7</td><td>Authorization Decision Provider Authorization Decision Consumer</td><td>Authorization Decision Request (CH:ADR)</td></tr>
+<tr><td>CH:ATC</td><td>Audit Trail Consumption (CH:ATC), CH ATC, Implementation Guide Version 3.3.0, 2024‑12‑18</td><td>Patient Audit Consumer Patient Audit Record Repository</td><td>Retrieve ATNA Audit Event [ITI‑81]</td></tr>
+<tr><td>CH:CPI</td><td>Ergänzung 2.3[^annex5-lvlu1-lvl2-2] zu Anhang 5 EPDV-EDI, Integrationsprofil Community Portal Index (CH:CPI), Ausgabe 7</td><td>CH:CPI Consumer CH:CPI Provider</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
+<tr><td>CH:PPQ</td><td>Ergänzung 2.1 zu Anhang 5 EPDV-EDI, Integrationsprofil Privacy Policy Query (CH:PPQ), Ausgabe 7</td><td>Policy Source Policy Repository Policy Consumer</td><td>Privacy Policy Feed (CH:PPQ‑1) Privacy Policy Retrieve (CH:PPQ‑2)</td></tr>
+<tr><td>CH:PPQm</td><td>Privacy Policy Query for Mobile (CH:PPQm), CH EPR FHIR (R4), CH:PPQm, Implementation Guide Version 4.0.1, 2024‑12‑18</td><td>Policy Repository Policy Source Policy Consumer</td><td>Mobile Privacy Policy Feed (PPQ‑3) Mobile Privacy Policy Bundle Feed (PPQ‑4) Mobile Privacy Policy Retrieve (PPQ‑5)</td></tr>
 </table>
 
-[^annex5-lvlu1-lvl2-1]: Der Inhalt der Ergänzung 2.1 zu Anhang 5 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
-[^annex5-lvlu1-lvl2-2]: Der Inhalt der Ergänzung 2.3 zu Anhang 5 kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^annex5-lvlu1-lvl2-1]: Der Inhalt der Ergänzung 2.1 zu Anhang 5 kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^annex5-lvlu1-lvl2-2]: Der Inhalt der Ergänzung 2.3 zu Anhang 5 kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 6[^t-5]
 
@@ -386,8 +397,8 @@ Anhang 7[^t-6]
 
 - 1\.2 Die Zertifizierungsstelle muss nachweisen, dass sie jeweils für die einzelnen Teilbereiche über qualifiziertes Personal verfügt. Die Begutachtung durch ein interdisziplinäres Team ist zulässig.
 
-[^annex7-lvlu1-lvl1-1]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, www.snv.ch gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern kostenlos eingesehen werden.
-[^annex7-lvlu1-lvl1-2]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, www.snv.ch gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern kostenlos eingesehen werden.
+[^annex7-lvlu1-lvl1-1]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch) gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern, kostenlos eingesehen werden.
+[^annex7-lvlu1-lvl1-2]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch) gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern, kostenlos eingesehen werden.
 
 ### 2 Zertifizierung von Herausgebern von Identifikationsmitteln
 
@@ -403,8 +414,8 @@ Anhang 7[^t-6]
 
 - 2\.2 Die Zertifizierungsstelle muss nachweisen, dass sie jeweils für die einzelnen Teilbereiche über qualifiziertes Personal verfügt. Die Begutachtung durch ein interdisziplinäres Team ist zulässig.
 
-[^annex7-lvlu1-lvl2-1]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, www.snv.ch gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern kostenlos eingesehen werden.
-[^annex7-lvlu1-lvl2-2]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, www.snv.ch gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern kostenlos eingesehen werden.
+[^annex7-lvlu1-lvl2-1]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch) gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern, kostenlos eingesehen werden.
+[^annex7-lvlu1-lvl2-2]: Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch) gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern, kostenlos eingesehen werden.
 
 Anhang 8[^t-7]
 
@@ -414,8 +425,8 @@ Anhang 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 4. Mai ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) und Ziff. II Abs. 1 der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 4. Mai ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
+[^annex8-lvlu1-1]: veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9[^t-8]
 
