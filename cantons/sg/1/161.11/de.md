@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "161.11"
-title: "Verordnung über die Sicherheitsleistung von Behördemitgliedern, Beamten und Angestellten"
+title: Verordnung über die Sicherheitsleistung von Behördemitgliedern und Angestellten
 language: de
-version: 1996-11-19
-valid_until: 2025-05-31
-version_adopted: 1996-11-19
+version: 2025-06-01
+version_adopted: 2025-04-01
 adopted: 1981-05-19
 in_force: 1981-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/161.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/652/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3766/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Sicherheitsleistung von Behördemitgliedern, Beamten und Angestellten
+# Verordnung über die Sicherheitsleistung von Behördemitgliedern und Angestellten
 
-vom 19.05.1981 (Stand 19.11.1996)
+vom 19.05.1981 (Stand 01.06.2025)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -38,15 +37,15 @@ als Verordnung:[^ingress-2]
 - a) Verpfändung von Wertpapieren und Wertsachen oder Hinterlegung von Bargeld (Realkaution);
 - b) Bürgschaft nach den Vorschriften des Obligationenrechts (Personalkaution);
 - c) Mitgliedschaft bei einer anerkannten Selbsthilfeorganisation;
-- d) Abschluss einer Haftpflichtversicherung.
+- d) Abschluss einer Versicherung.
 
 <sup>2</sup> Art und Umfang der Sicherheitsleistung bestimmen:
 
 - 1\. für Behördemitglieder die Behörde, der sie angehören;
-- 2\. für die von der Bürgerschaft einer Gemeinde oder einer anderen öffentlich-rechtlichen Körperschaft gewählten Beamten der Rat;
-- 3\. für die vom Volk oder vom Grossen Rat gewählten Beamten des Staates der Regierungsrat;
-- 4\. für die übrigen Beamten und Angestellten die Wahlbehörde.
-- 5\. für die ausseramtlichen Konkursverwaltungen, Sachwalter und Liquidatoren die richterliche Instanz, die zur Festsetzung des Honorars zuständig ist.
+- 2\. …
+- 3\. für die von den Stimmberechtigten oder vom Kantonsrat gewählten Angestellten des Staates die Regierung;
+- 4\. für die übrigen Angestellten die Wahlbehörde;
+- 5\. für die ausseramtlichen Konkursverwaltungen, Sachwalterinnen oder Sachwalter und Liquidatorinnen oder Liquidatoren die richterliche Instanz, die zur Festsetzung des Honorars zuständig ist.
 
 [^1-1]: sGS [161.1](https://www.gesetzessammlung.sg.ch/data/161.1/de).
 
@@ -56,9 +55,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Körperschaft oder Anstalt haftet für sichere Aufbewahrung verpfändeter Wertpapiere und Wertsachen.
 
-<sup>2</sup> Die Behörde legt Bargeld auf ein auf den Namen des Kautionspflichtigen lautendes Sparheft an und sorgt für sichere Aufbewahrung.
+<sup>2</sup> Die Behörde legt Bargeld auf ein auf den Namen der oder des Kautionspflichtigen lautendes Sparheft an und sorgt für sichere Aufbewahrung.
 
-<sup>3</sup> Der Kautionspflichtige hat Anspruch auf Auszahlung anfallender Zinsen.
+<sup>3</sup> Die oder der Kautionspflichtige hat Anspruch auf Auszahlung anfallender Zinsen.
 
 #### Art. 3
 
@@ -89,7 +88,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Departement des Innern:
 
-- a) überwacht das Erbringen der Sicherheitsleistung;
+- a) …
 - b) beaufsichtigt die Selbsthilfeorganisationen.
 
 #### Art. 7
