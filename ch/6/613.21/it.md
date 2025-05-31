@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 concernente la perequazione finanziaria e l
 short: OPFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/792"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-792-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-792-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250101/it"
 
 (OPFC)
 
-del 7 novembre 2007 (Stato 1° gennaio 2025)
+del 7 novembre 2007 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -95,7 +95,7 @@ Il potenziale di risorse pro capite degli abitanti è fissato nell’allegato 1.
 
 Il gettito fiscale standardizzato della Svizzera comprende:[^5-2]
 
-- a.[^5-3] la somma delle entrate fiscali realizzate da tutti i Cantoni e i Comuni nella media degli anni di calcolo secondo la statistica finanziaria degli enti pubblici ai sensi dell’ordinanza del 30 giugno 1993[^5-4] sulle rilevazioni statistiche;
+- a.[^5-3] la somma delle entrate fiscali realizzate da tutti i Cantoni e i Comuni nella media degli anni di calcolo secondo la statistica finanziaria degli enti pubblici ai sensi dell’ordinanza del 30 aprile 2025[^5-4] sulla statistica federale;
 - b. la quota dei Cantoni alle entrate dell’imposta federale diretta conformemente all’articolo 196 capoverso 1 della legge federale del 14 dicembre 1990[^5-5] sull’imposta federale diretta (LIFD) nella media degli anni di calcolo.
 
 <sup>3</sup> L’aliquota d’imposta standardizzata corrisponde al rapporto tra il gettito fiscale standardizzato e il potenziale di risorse della Svizzera.
@@ -106,8 +106,8 @@ Il gettito fiscale standardizzato della Svizzera comprende:[^5-2]
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 [^5-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^5-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
-[^5-4]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^5-3]: Nuovo testo giusta l’all. 3 n. 9 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^5-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 [^5-5]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^5-6]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
@@ -509,25 +509,26 @@ La compensazione degli oneri speciali sociodemografici in base alla struttura de
 
 <sup>2</sup>
 
-Si considerano prestazioni di aiuto sociale in senso lato le prestazioni in denaro orientate al bisogno, per quanto concesse a persone o economie domestiche e considerate nella statistica dei beneficiari dell’aiuto sociale conformemente all’ordinanza del 30 giugno 1993[^34-1] sull’esecuzione di rilevazioni statistiche federali. In particolare:
+Si considerano prestazioni di aiuto sociale in senso lato le prestazioni in denaro orientate al bisogno, per quanto concesse a persone o economie domestiche e considerate nella statistica dei beneficiari dell’aiuto sociale conformemente all’ordinanza del 30 aprile 2025[^34-1] sulla statistica federale. In particolare:[^34-2]
 
 - a. l’aiuto sociale economico in virtù della legislazione cantonale sull’aiuto sociale;
 - b. l’anticipo di alimenti disciplinato a livello cantonale;
-- c. le prestazioni complementari della Confederazione, ponderate in funzione della quota cantonale di finanziamento secondo l’articolo 13 capoverso 1 della legge federale del 6 ottobre 2006[^34-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità;
+- c. le prestazioni complementari della Confederazione, ponderate in funzione della quota cantonale di finanziamento secondo l’articolo 13 capoverso 1 della legge federale del 6 ottobre 2006[^34-3] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità;
 - d. gli assegni cantonali di vecchiaia e di invalidità;
 - e. le prestazioni cantonali in caso di bisogno nel contesto della disoccupazione;
 - f. gli aiuti cantonali alla maternità, nonché i contributi di sostentamento alle famiglie con figli;
-- g. le indennità di alloggio o gli anticipi cantonali di spese di alloggio.[^34-3]
+- g. le indennità di alloggio o gli anticipi cantonali di spese di alloggio.[^34-4]
 
-<sup>3</sup> Se una prestazione di aiuto sociale in senso lato presenta un contributo di sostegno annuo per beneficiario più basso nel confronto nazionale, si pondera il numero di beneficiari di questa prestazione. La statistica finanziaria dell’aiuto sociale in senso lato secondo l’ordinanza sulle rilevazioni statistiche costituisce la base dei dati per la ponderazione.[^34-4]
+<sup>3</sup> Se una prestazione di aiuto sociale in senso lato presenta un contributo di sostegno annuo per beneficiario più basso nel confronto nazionale, si pondera il numero di beneficiari di questa prestazione. La statistica finanziaria dell’aiuto sociale in senso lato secondo l’ordinanza sulle rilevazioni statistiche costituisce la base dei dati per la ponderazione.[^34-5]
 
-<sup>4</sup> Le prestazioni multiple sono contate una sola volta.[^34-5]
+<sup>4</sup> Le prestazioni multiple sono contate una sola volta.[^34-6]
 
-[^34-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^34-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^34-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^34-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
-[^34-5]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^34-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^34-2]: Nuovo testo giusta l’all. 3 n. 9 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^34-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^34-4]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^34-5]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+[^34-6]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
 #### Art. 35
 
@@ -1050,7 +1051,7 @@ Allegato 3[^t-3]
 - TE Quota della somma lorda degli stipendi dei frontalieri della Francia tassati limitatamente, con imposizione nel Cantone di Ginevra, rimborsata dal Cantone di Ginevra alla Francia conformemente alla convenzione del 29.1.1973 tra il Cantone di Ginevra e la Francia
 - TF Quota massima (aliquota d’imposta) della somma lorda degli stipendi dei frontalieri della Francia tassati limitatamente, con imposizione in Francia, rimborsata dalla Francia conformemente alla convenzione dell’11.4.1983 tra i Cantoni di Berna, Soletta, Basilea Città, Basilea Campagna, Vaud, Vallese e Neuchâtel e la Francia
 - TG Quota delle entrate fiscali lorde provenienti dai frontalieri dell’Italia tassati limitatamente, rimborsata all’Italia conformemente all’articolo 14*a* CDI-I e agli accordi dei Cantoni dei Grigioni, del Ticino e del Vallese con l’Italia
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image1.png)</sub> Ultima aliquota d’imposta standardizzata disponibile per l’anno di calcolo t (anno di calcolo + 3 anni)
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image1.png)</sub> Ultima aliquota d’imposta standardizzata disponibile per l’anno di calcolo t (anno di calcolo + 3 anni)
 - γ Fattore gamma: rapporto tra il reddito determinante delle persone fisiche della Svizzera e il reddito primario delle economie domestiche private della Svizzera durante gli anni di calcolo, arrotondato a tre decimali. Il fattore gamma è calcolato annualmente
 - δ Fattore delta: fattore con il quale sono presi in considerazione gli oneri dei frontalieri ed è applicata una ponderazione più bassa ai loro redditi BQB, BQC, BQD, BQE, BQF e BQG
 
@@ -1062,23 +1063,23 @@ Allegato 3[^t-3]
 - γ · δ BQB
 - (3) Reddito determinante tassato alla fonte dei frontalieri dell’Austria tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image2.png)
 
 - (4) Reddito determinante tassato alla fonte dei frontalieri della Germania tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image3.png)
 
 - (5) Reddito determinante tassato alla fonte dei frontalieri della Francia tassati limitatamente, con imposizione nel Cantone di Ginevra:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image4.png)
 
 - (6) Reddito determinante tassato alla fonte dei frontalieri della Francia tassati limitatamente, con imposizione in Francia:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image5.png)
 
 - (7) Reddito determinante tassato alla fonte dei frontalieri dell’Italia tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image6.png)
 
 ### 3. Valori parametrici per l’anno di riferimento 2025
 
@@ -1154,14 +1155,14 @@ Allegato 4[^t-4]
 
 ### 1. Definizione delle variabili e dei parametri
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image7.png)</sub> Entrate dell’imposta sulla sostanza dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image8.png)</sub> Sostanza netta
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image9.png)</sub> Entrate dell’imposta sul reddito dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image10.png)</sub> Entrate dell’imposta alla fonte dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image11.png)</sub> Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^annex4-lvlu1-lvl1-1]
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image12.png)</sub> Entrate dell’imposta federale diretta sul reddito
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image13.png)</sub> Redditi determinanti delle persone fisiche
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image14.png)</sub> Redditi determinanti tassati alla fonte delle persone fisiche
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image7.png)</sub> Entrate dell’imposta sulla sostanza dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image8.png)</sub> Sostanza netta
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image9.png)</sub> Entrate dell’imposta sul reddito dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image10.png)</sub> Entrate dell’imposta alla fonte dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image11.png)</sub> Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^annex4-lvlu1-lvl1-1]
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image12.png)</sub> Entrate dell’imposta federale diretta sul reddito
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image13.png)</sub> Redditi determinanti delle persone fisiche
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image14.png)</sub> Redditi determinanti tassati alla fonte delle persone fisiche
 
 [^annex4-lvlu1-lvl1-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -1169,7 +1170,7 @@ Allegato 4[^t-4]
 
 - 2\.1 Il fattore alfa di cui all’articolo 13 è calcolato secondo la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image15.png)
 
 - 2\.2 Il fattore alfa è calcolato annualmente sulla base degli ultimi sei anni di calcolo disponibili.
 
@@ -1284,7 +1285,7 @@ Allegato 6[^t-6]
 
 I fattori di supplemento di cui all’articolo 20 capoverso 2 sono calcolati secondo la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image16.png)
 
 ### 3. Valori parametrici per gli anni di riferimento dal 2020
 
@@ -1357,27 +1358,27 @@ Allegato 6a[^t-7]
 I fattori zeta servono a ponderare gli utili delle persone giuridiche nel potenziale di risorse in funzione del loro sfruttamento fiscale. Si distingue tra utili soggetti ad imposizione ordinaria, ponderati esclusivamente con il fattore zeta 1, e utili da brevetti e diritti analoghi (utili rientranti nel patent box) soggetti all’imposizione ad aliquota ridotta, ponderati quindi prima con il fattore zeta 2 e successivamente con il fattore zeta 1.
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image17.png)</sub></td><td>Fattore di ponderazione per gli utili delle persone giuridiche. Corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image18.png)</td><td>Fattore di ponderazione per gli utili rientranti nel patent box. Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario), tenuto conto della quota cantonale delle entrate dell’imposta federale diretta *π.*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image19.png)</td><td>Fattore di base per ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image20.png). Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario).</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image21.png)</td><td>Utili determinanti del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image22.png)</td><td>Redditi determinanti delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image23.png)</td><td>Redditi determinanti tassati alla fonte delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image24.png)</td><td>Sostanza determinante delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image25.png)</td><td>Base di calcolo degli utili delle persone giuridiche del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image26.png)</td><td>Base di calcolo degli utili delle persone giuridiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image27.png)</td><td>Utili rientranti nel patent box in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image28.png)</td><td>Utili rientranti nel patent box del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image29.png)</td><td>Utili ordinari in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image30.png)</td><td>Utili ordinari del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image31.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image32.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (senza le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image33.png)</td><td>Entrate dell’imposta sul reddito, alla fonte e sulla sostanza dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image34.png)</td><td>Riduzione nel calcolo dell’utile imponibile secondo l’articolo 24*b* LAID[^annex6a-lvlu1-lvl1-1] del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image35.png)</td><td>Entrate dell’imposta federale diretta sull’utile delle persone giuridiche</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image36.png)</td><td>Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image37.png)</td><td>Somma delle spese di ricerca e sviluppo secondo l’articolo 24*b* capoverso 3, ma senza un’eventuale deduzione secondo l’articolo 25*a* LAID per le imprese nel Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image38.png)</td><td>Quota degli utili non più ponderati con i fattori beta secondo l’articolo 57*b* (fattore di conversione)</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image17.png)</sub></td><td>Fattore di ponderazione per gli utili delle persone giuridiche. Corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image18.png)</td><td>Fattore di ponderazione per gli utili rientranti nel patent box. Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario), tenuto conto della quota cantonale delle entrate dell’imposta federale diretta *π.*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image19.png)</td><td>Fattore di base per ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image20.png). Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario).</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image21.png)</td><td>Utili determinanti del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image22.png)</td><td>Redditi determinanti delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image23.png)</td><td>Redditi determinanti tassati alla fonte delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image24.png)</td><td>Sostanza determinante delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image25.png)</td><td>Base di calcolo degli utili delle persone giuridiche del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image26.png)</td><td>Base di calcolo degli utili delle persone giuridiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image27.png)</td><td>Utili rientranti nel patent box in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image28.png)</td><td>Utili rientranti nel patent box del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image29.png)</td><td>Utili ordinari in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image30.png)</td><td>Utili ordinari del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image31.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image32.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (senza le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image33.png)</td><td>Entrate dell’imposta sul reddito, alla fonte e sulla sostanza dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image34.png)</td><td>Riduzione nel calcolo dell’utile imponibile secondo l’articolo 24*b* LAID[^annex6a-lvlu1-lvl1-1] del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image35.png)</td><td>Entrate dell’imposta federale diretta sull’utile delle persone giuridiche</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image36.png)</td><td>Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image37.png)</td><td>Somma delle spese di ricerca e sviluppo secondo l’articolo 24*b* capoverso 3, ma senza un’eventuale deduzione secondo l’articolo 25*a* LAID per le imprese nel Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image38.png)</td><td>Quota degli utili non più ponderati con i fattori beta secondo l’articolo 57*b* (fattore di conversione)</td></tr>
 </table>
 
 [^annex6a-lvlu1-lvl1-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -1386,22 +1387,22 @@ I fattori zeta servono a ponderare gli utili delle persone giuridiche nel potenz
 
 - 2\.1 Gli utili determinanti delle persone giuridiche di un Cantone sono calcolati moltiplicando la base di calcolo per il fattore zeta 1:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image39.png)
 
 - 2\.2 Il fattore zeta 1 di cui all’articolo 20*b* capoverso 1 corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image40.png)
 
 - 2\.3 Il fattore zeta 1 è calcolato annualmente sulla base degli ultimi sei anni di calcolo disponibili.
 - 2\.4 La base di calcolo degli utili delle persone giuridiche è data dalla somma degli utili soggetti ad imposizione ordinaria, degli utili rientranti nel patent box ponderati e delle spese di ricerca e sviluppo ponderate secondo l’articolo 20*a* capoverso 2:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image41.png)
 
-- 2\.5 Il fattore zeta 2 di cui all’articolo 20*b* capoverso 2 è calcolato annualmente sulla base di una ponderazione media più bassa degli utili rientranti nel patent box nell’ultimo anno di calcolo disponibile (fattore di base <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image42.png)</sub>). Inoltre si tiene conto del fatto che la quota cantonale delle entrate dell’imposta federale diretta spetta loro senza riduzione.
+- 2\.5 Il fattore zeta 2 di cui all’articolo 20*b* capoverso 2 è calcolato annualmente sulla base di una ponderazione media più bassa degli utili rientranti nel patent box nell’ultimo anno di calcolo disponibile (fattore di base <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image42.png)</sub>). Inoltre si tiene conto del fatto che la quota cantonale delle entrate dell’imposta federale diretta spetta loro senza riduzione.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image43.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image44.png)
 
 ### 3. Fattori zeta e ponderazione delle spese di ricerca e sviluppo per gli anni di calcolo 2020–2021
 
@@ -1414,15 +1415,15 @@ I fattori zeta servono a ponderare gli utili delle persone giuridiche nel potenz
 
 ### 4. Continuazione dell’applicazione dei fattori beta negli anni di calcolo 2017–2024
 
-- 4\.1 Per gli anni di calcolo t = 2017–2024, gli utili determinanti delle persone giuridiche secondo l’articolo 57*b* sono calcolati secondo il metodo descritto nell’allegato 6 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image45.png)</sub> e il metodo descritto nel numero 2 del presente allegato <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image46.png)</sub>. Gli utili determinanti <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image47.png)</sub> sono calcolati sulla base della media dei due risultati ponderata con il fattore di conversione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image48.png)</sub>:
+- 4\.1 Per gli anni di calcolo t = 2017–2024, gli utili determinanti delle persone giuridiche secondo l’articolo 57*b* sono calcolati secondo il metodo descritto nell’allegato 6 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image45.png)</sub> e il metodo descritto nel numero 2 del presente allegato <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image46.png)</sub>. Gli utili determinanti <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image47.png)</sub> sono calcolati sulla base della media dei due risultati ponderata con il fattore di conversione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image48.png)</sub>:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image49.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image49.png)
 
 - 4\.2 Fattori di conversione nei seguenti anni di calcolo:
 
 <table>
 <tr><td>t</td><td>2017–2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image50.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image50.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
 </table>
 
 - 4\.3 Fattori beta nel periodo di transizione:
@@ -1514,27 +1515,27 @@ Allegato 7a[^t-9]
 
 ## Contributi ai Cantoni finanziariamente deboli
 
-[^t-9]: Introdotto dal n. II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-9]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
 
 ### 1. Definizione delle variabili e dei parametri
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image51.png)</sub> Contributo al Cantone finanziariamente debole r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image52.png)</sub> Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole r durante gli anni di calcolo
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image53.png)</sub> Indice delle risorse del Cantone finanziariamente debole r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image54.png)</sub> Valore dell’indice della dotazione minima garantita
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image55.png) Gettito fiscale standardizzato della Svizzera per abitante
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image51.png)</sub> Contributo al Cantone finanziariamente debole r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image52.png)</sub> Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole r durante gli anni di calcolo
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image53.png)</sub> Indice delle risorse del Cantone finanziariamente debole r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image54.png)</sub> Valore dell’indice della dotazione minima garantita
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image55.png) Gettito fiscale standardizzato della Svizzera per abitante
 
 ### 2. Calcolo
 
 - 2\.1 Il contributo a un Cantone finanziariamente debole r è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image56.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image56.png)
 
 - 2\.2 I valori dei parametri *p* e *t* sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image57.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image57.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image58.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image58.png)
 
 ### 3. Valori parametrici per l’anno di riferimento 2025
 
@@ -1603,13 +1604,13 @@ Allegato 8[^t-10]
 
 Il contributo di un Cantone finanziariamente forte *q* è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image59.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image59.png)
 
 ### 3. Commento del calcolo
 
 Per determinare il contributo di un Cantone finanziariamente forte q, il suo indice delle risorse che supera 100 punti, RI<sub>q</sub>–100, è moltiplicato per la sua popolazione residente permanente e non permanente media, e<sub>q</sub>. Questo valore è infine messo in relazione con la somma dei valori di tutti i Cantoni *n* finanziariamente forti,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image60.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image60.png)
 
 Ne risulta la quota dei Cantoni finanziariamente forti al contributo globale, A.
 
@@ -1719,41 +1720,41 @@ Calcolo dell’indice di aggravio
 a) Variabili e parametri:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image61.png)</td><td>Indicatore parziale «Povertà» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image62.png)</td><td>Indicatore parziale «Struttura di età» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image63.png)</td><td>Indicatore parziale «Integrazione degli stranieri» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image64.png)</td><td>Valore medio degli indicatori parziali «Povertà» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image65.png)</td><td>Valore medio degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image66.png)</td><td>Valore medio degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image67.png)</td><td>Deviazione standard degli indicatori parziali «Povertà» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image68.png)</td><td>Deviazione standard degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image69.png)</td><td>Deviazione standard degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image70.png)</td><td>Indicatore parziale standardizzato «Povertà» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image71.png)</td><td>Indicatore parziale standardizzato «Struttura di età» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image72.png)</td><td>Indicatore parziale standardizzato «Integrazione degli stranieri» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image73.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Povertà»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image74.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Struttura di età»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image75.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Integrazione degli stranieri»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image76.png)</td><td>Indice di aggravio degli oneri speciali dovuti alla struttura demografica del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image61.png)</td><td>Indicatore parziale «Povertà» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image62.png)</td><td>Indicatore parziale «Struttura di età» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image63.png)</td><td>Indicatore parziale «Integrazione degli stranieri» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image64.png)</td><td>Valore medio degli indicatori parziali «Povertà» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image65.png)</td><td>Valore medio degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image66.png)</td><td>Valore medio degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image67.png)</td><td>Deviazione standard degli indicatori parziali «Povertà» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image68.png)</td><td>Deviazione standard degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image69.png)</td><td>Deviazione standard degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image70.png)</td><td>Indicatore parziale standardizzato «Povertà» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image71.png)</td><td>Indicatore parziale standardizzato «Struttura di età» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image72.png)</td><td>Indicatore parziale standardizzato «Integrazione degli stranieri» del Cantone *k*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image73.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Povertà»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image74.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Struttura di età»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image75.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Integrazione degli stranieri»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image76.png)</td><td>Indice di aggravio degli oneri speciali dovuti alla struttura demografica del Cantone *k*</td></tr>
 </table>
 
 b) Gli indicatori parziali standardizzati sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image77.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image77.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image78.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image78.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image79.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image79.png).
 
 La standardizzazione ha luogo dividendo le divergenze degli indicatori parziali rispetto al valore medio svizzero per la divergenza standard.
 
 c) L’indice di aggravio degli oneri speciali dovuti alla struttura demografica di un Cantone *k* è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image80.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image80.png)
 
 d) Le ponderazioni sono calcolate mediante un’analisi delle componenti principali. Ai fini della ponderazione vale pertanto la formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image81.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image81.png),
 
 dove
 
@@ -1782,41 +1783,41 @@ Allegato 14[^t-16]
 a) Variabili e parametri:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image82.png)</td><td>Indicatore parziale «Grandezza del Comune» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image83.png)</td><td>Indicatore parziale «Densità dell’insediamento» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image84.png)</td><td>Indicatore parziale «Tasso di occupazione» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image85.png)</td><td>Valore medio degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image86.png)</td><td>Valore medio degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image87.png)</td><td>Valore medio degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image88.png)</td><td>Deviazione standard degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image89.png)</td><td>Deviazione standard degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image90.png)</td><td>Deviazione standard degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image91.png)</td><td>Indicatore parziale standardizzato «Grandezza del Comune» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image92.png)</td><td>Indicatore parziale standardizzato «Densità dell’insediamento» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image93.png)</td><td>Indicatore parziale standardizzato «Tasso di occupazione» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image94.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Grandezza del Comune»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image95.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Densità dell’insediamento»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image96.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Tasso di occupazione»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image97.png)</td><td>Indice di aggravio degli oneri speciali delle città polo del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image82.png)</td><td>Indicatore parziale «Grandezza del Comune» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image83.png)</td><td>Indicatore parziale «Densità dell’insediamento» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image84.png)</td><td>Indicatore parziale «Tasso di occupazione» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image85.png)</td><td>Valore medio degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image86.png)</td><td>Valore medio degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image87.png)</td><td>Valore medio degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image88.png)</td><td>Deviazione standard degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image89.png)</td><td>Deviazione standard degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image90.png)</td><td>Deviazione standard degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image91.png)</td><td>Indicatore parziale standardizzato «Grandezza del Comune» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image92.png)</td><td>Indicatore parziale standardizzato «Densità dell’insediamento» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image93.png)</td><td>Indicatore parziale standardizzato «Tasso di occupazione» del Comune *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image94.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Grandezza del Comune»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image95.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Densità dell’insediamento»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image96.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Tasso di occupazione»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image97.png)</td><td>Indice di aggravio degli oneri speciali delle città polo del Comune *g*</td></tr>
 </table>
 
 b) Gli indicatori parziali standardizzati sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image98.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image98.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image99.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image99.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image100.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image100.png).
 
 La standardizzazione ha luogo dividendo le divergenze degli indicatori parziali rispetto al valore medio svizzero per la divergenza standard.
 
 c) L’indice di aggravio degli oneri speciali delle città polo di un Comune è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image101.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image101.png)
 
 d) Le ponderazioni sono calcolate con l’ausilio di un’analisi delle componenti principali. Ai fini della ponderazione vale pertanto la formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image102.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image102.png),
 
 dove
 
@@ -1846,7 +1847,7 @@ b) Calcolo:
 
 L’indice di aggravio di un Cantone è la media ponderata con la popolazione dell’indice di aggravio dei suoi Comuni. È quindi dato dalla somma degli indici di aggravio dei Comuni nel Cantone moltiplicati per la popolazione residente permanente, divisa per la popolazione residente permanente del Cantone:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image103.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image103.png)
 
 Allegato 15[^t-17]
 
@@ -1908,15 +1909,15 @@ In caso di dati mancanti o non ulteriormente sfruttabili le componenti del poten
 <tr><td>EK<sub>k,T</sub></td><td>Numero dei dimoranti temporanei (&lt;12 mesi o stagionali) del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>ECH<sub>k,T</sub></td><td>Numero dei cittadini svizzeri della popolazione residente permanente del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EN<sub>k,T</sub></td><td>Numero degli stranieri domiciliati del Cantone *k* nell’anno di calcolo *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image104.png)</td><td>Ponderazione del reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image105.png)</td><td>Reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image104.png)</td><td>Ponderazione del reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image105.png)</td><td>Reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
 <tr><td>RV<sub>k,T</sub></td><td>Sostanza netta per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EV<sub>k,T</sub></td><td>Reddito dell’imposta sulla sostanza per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>tv<sub>k,T</sub></td><td>Onere medio dell’imposta sulla sostanza del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>GK<sub>k,T</sub></td><td>Somma degli utili tassati integralmente delle persone giuridiche per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EJP<sub>k,T</sub></td><td>Reddito dell’imposta sull’utile per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>GDB<sub>k,T</sub></td><td>Utili secondo l’imposta federale diretta (dopo deduzione della partecipazione) per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image106.png)</td><td>Fattore beta del tipo di società «società mista» nell’anno di calcolo *T* secondo l’allegato 6</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image106.png)</td><td>Fattore beta del tipo di società «società mista» nell’anno di calcolo *T* secondo l’allegato 6</td></tr>
 <tr><td>WGDB<sub>t</sub></td><td>Tasso di crescita degli utili secondo l’imposta federale diretta di tutta la Svizzera nell’anno *t*</td></tr>
 </table>
 
@@ -1931,23 +1932,23 @@ In caso di dati mancanti o non ulteriormente sfruttabili le componenti del poten
 
 <table>
 <tr><th>Caso</th><th>Componente potenziale delle risorse</th><th colspan="3">Equazione di regressione per determinare i coefficienti</th></tr>
-<tr><td>1</td><td>Reddito determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image107.png)</td></tr>
-<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image108.png)</td></tr>
-<tr><td>2</td><td>Redditi determinanti tassati alla fonte</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image109.png)</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image110.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image111.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image112.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image113.png)</td></tr>
-<tr><td>3</td><td>Sostanza determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image114.png)</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image115.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image116.png)</td></tr>
+<tr><td>1</td><td>Reddito determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image107.png)</td></tr>
+<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image108.png)</td></tr>
+<tr><td>2</td><td>Redditi determinanti tassati alla fonte</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image109.png)</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image110.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image111.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image112.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image113.png)</td></tr>
+<tr><td>3</td><td>Sostanza determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image114.png)</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image115.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image116.png)</td></tr>
 <tr><td>4</td><td>Utili determinanti delle persone giuridiche</td><td colspan="3">Passo 1:</td></tr>
-<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image117.png)</sub>*</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image118.png)</sub></td></tr>
+<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image117.png)</sub>*</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image118.png)</sub></td></tr>
 <tr><td></td><td></td><td colspan="3">Passo 2:</td></tr>
-<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image119.png)</sub></td></tr>
-<tr><td>5</td><td>Utile secondo l’imposta federale diretta</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image120.png)</td></tr>
-<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image121.png)</td></tr>
+<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image119.png)</sub></td></tr>
+<tr><td>5</td><td>Utile secondo l’imposta federale diretta</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image120.png)</td></tr>
+<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image121.png)</td></tr>
 </table>
 
 Allegato 17[^t-19]
@@ -1997,12 +1998,12 @@ Allegato 18[^t-20]
 <table>
 <tr><td>gw<sub>k</sub></td><td>Valore limite per il raggiungimento dello sgravio minimo di un Cantone in percento del gettito fiscale standardizzato del Cantone *k*</td></tr>
 <tr><td>ε</td><td>Fattore per determinare lo sgravio perseguito con la compensazione dei casi di rigore a dipendenza dell’indice delle risorse</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image122.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image123.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image124.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image125.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image126.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2004 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image127.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2005 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image122.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image123.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image124.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image125.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image126.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2004 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image127.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2005 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
 <tr><td>nes<sub>k</sub></td><td>Risultato netto del Cantone *k* in percento del gettito fiscale standardizzato del Cantone *k* (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
 <tr><td>HA<sub>k</sub></td><td>Contributo iniziale a titolo di compensazione dei casi di rigore per il Cantone *k*</td></tr>
 </table>
@@ -2011,7 +2012,7 @@ Allegato 18[^t-20]
 
 Il valore limite per la compensazione dei casi di rigore à calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image128.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image128.png)
 
 Il valore limite di un Cantone si calcola moltiplicando il fattore epsilon, ε, per la divergenza dell’indice delle risorse del Cantone dalla media svizzera negli anni 2004 e 2005. I valori negativi significano uno sgravio, i valori positivi un aggravio. Dalla formula risulta che il valore limite per un Cantone in media finanziariamente debole è negativo, vale a dire che si persegue uno sgravio.
 
@@ -2019,7 +2020,7 @@ Il valore limite di un Cantone si calcola moltiplicando il fattore epsilon, ε, 
 
 Il risultato netto del bilancio globale di un Cantone in percento del gettito fiscale standardizzato è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image129.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image129.png)
 
 I valori negativi significano uno sgravio netto, i valori positivi un aggravio netto.
 
@@ -2029,20 +2030,20 @@ Il contributo iniziale a un Cantone *k* per la compensazione dei casi di rigore 
 
 <table>
 <tr><td>Condizioni (se …,)</td><td></td><td>Compensazione dei casi di rigore (allora …)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image130.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image131.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image132.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image130.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image131.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image132.png)</td></tr>
 </table>
 
 *Condizione 1:* Se l’indice medio delle risorse negli anni 2004 e 2005 è superiore alla media svizzera,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image133.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image133.png),
 
 il Cantone non riceve una compensazione dei casi di rigore.
 
 *Condizione 2:* Se l’indice medio delle risorse negli anni 2004 e 2005 è inferiore alla media svizzera,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image134.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image134.png),
 
 occorre distinguere tra due casi:
 
@@ -2050,17 +2051,17 @@ occorre distinguere tra due casi:
 
 *Caso 2b:* Se il risultato netto del bilancio globale in percento del gettito fiscale standardizzato è superiore al valore limite (vale a dire che lo sgravio netto è inferiore allo sgravio perseguito o che il Cantone presenta un aggravio netto), il Cantone riceve una compensazione dei casi di rigore pari alla differenza tra il risultato netto e il valore limite, moltiplicato per il suo gettito fiscale standardizzato medio negli anni 2004 e 2005:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image135.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image135.png)
 
 ### 5. Determinazione del fattore epsilon
 
 Il fattore ε è stabilito in modo che la somma di tutti i versamenti di compensazione al numero *h* di Cantoni *z* che hanno diritto alla compensazione dei casi di rigore corrisponda all’importo globale *H* a disposizione per la compensazione dei casi di rigore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image136.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image136.png).
 
 Con *z* si definiscono i Cantoni finanziariamente deboli che hanno diritto alla compensazione dei casi di rigore, vale a dire tutti i Cantoni *k*, per i quali il risultato netto in percento del gettito fiscale standardizzato presenta un valore superiore al valore limite:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image137.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image137.png).
 
 Il fattore ε e i Cantoni *z* sono stabiliti con un processo iterativo.
 
@@ -2192,31 +2193,31 @@ Allegato 20[^t-22]
 ### 1. Definizione delle variabili e dei parametri
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image138.png)</sub></td><td>Contributo complementare del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image140.png)</td><td>Contributo complementare per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub></td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image141.png)</sub></td><td>Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub> durante gli anni di calcolo</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image142.png)</td><td>Valore mirato del contributo complementare per abitante</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image143.png)</sub></td><td>Gettito fiscale standardizzato per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub> nel 2023</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image144.png)</td><td>Versamenti di compensazione per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image138.png)</sub></td><td>Contributo complementare del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image140.png)</td><td>Contributo complementare per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image141.png)</sub></td><td>Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> durante gli anni di calcolo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image142.png)</td><td>Valore mirato del contributo complementare per abitante</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image143.png)</sub></td><td>Gettito fiscale standardizzato per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> nel 2023</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image144.png)</td><td>Versamenti di compensazione per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
 </table>
 
 ### 2. Calcolo
 
-- 2\.1 I contributi complementari sono versati negli anni 2024–2030. I versamenti sono destinati esclusivamente ai Cantoni finanziariamente deboli. Il contributo complementare è calcolato sulla base delle risorse determinanti di ciascun Cantone nel 2023 (gettito fiscale standardizzato per abitante prima della perequazione, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image145.png)</sub>, ultimo anno di riferimento in cui tutti gli anni di calcolo derivano dal vecchio sistema. A queste risorse si sommano i versamenti di compensazione dell’attuale anno di riferimento.
+- 2\.1 I contributi complementari sono versati negli anni 2024–2030. I versamenti sono destinati esclusivamente ai Cantoni finanziariamente deboli. Il contributo complementare è calcolato sulla base delle risorse determinanti di ciascun Cantone nel 2023 (gettito fiscale standardizzato per abitante prima della perequazione, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image145.png)</sub>, ultimo anno di riferimento in cui tutti gli anni di calcolo derivano dal vecchio sistema. A queste risorse si sommano i versamenti di compensazione dell’attuale anno di riferimento.
 - 2\.2 I mezzi finanziari provenienti dal contributo complementare sono interamente ripartiti tra i Cantoni finanziariamente più deboli in modo che tutti i Cantoni finanziariamente deboli raggiungano almeno il valore mirato del contributo complementare.
-- 2\.3 La somma dei contributi complementari dei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image146.png)</sub> Cantoni finanziariamente deboli negli anni 2024–2030 ammonta a 180 000 000 franchi per anno:
+- 2\.3 La somma dei contributi complementari dei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image146.png)</sub> Cantoni finanziariamente deboli negli anni 2024–2030 ammonta a 180 000 000 franchi per anno:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image147.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image147.png)
 
-- 2\.4 Il contributo complementare di un Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image148.png)</sub> si calcola moltiplicando il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image149.png)</sub> per la popolazione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image150.png)</sub>
+- 2\.4 Il contributo complementare di un Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image148.png)</sub> si calcola moltiplicando il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image149.png)</sub> per la popolazione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image150.png)</sub>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image151.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image151.png)
 
-- 2\.5 Se la somma del gettito fiscale standardizzato per abitante del Cantone <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image139.png)</sub> nel 2023 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image152.png)</sub> e dei versamenti di compensazione per abitante nell’attuale anno di riferimento <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image153.png)</sub> è inferiore al valore mirato del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image154.png)</sub>, il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image155.png)</sub> corrisponde alla differenza tra tale somma e il valore mirato. In caso contrario, il contributo complementare è uguale a zero.
+- 2\.5 Se la somma del gettito fiscale standardizzato per abitante del Cantone <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> nel 2023 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image152.png)</sub> e dei versamenti di compensazione per abitante nell’attuale anno di riferimento <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image153.png)</sub> è inferiore al valore mirato del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image154.png)</sub>, il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image155.png)</sub> corrisponde alla differenza tra tale somma e il valore mirato. In caso contrario, il contributo complementare è uguale a zero.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image156.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image156.png)
 
-- 2\.6 Il limite del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/it/xml/image/image157.png)</sub>, è stabilito annualmente in modo che il totale dei contributi di tutti i Cantoni ammonti esattamente a 180 milioni di franchi.
+- 2\.6 Il limite del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image157.png)</sub>, è stabilito annualmente in modo che il totale dei contributi di tutti i Cantoni ammonti esattamente a 180 milioni di franchi.
 
 ### 3. Contributi per l’anno 2025
 

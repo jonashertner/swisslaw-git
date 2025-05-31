@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über den Finanz- und Lastenausgleich (Fi
 short: FiLaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/792"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-792-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-792-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250101/de"
 
 (FiLaV)
 
-vom 7. November 2007 (Stand am 1. Januar 2025)
+vom 7. November 2007 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -95,7 +95,7 @@ Das Ressourcenpotenzial pro Kopf der Einwohnerinnen und Einwohner ist in Anhang 
 
 Der standardisierte Steuerertrag der Schweiz umfasst:[^5-2]
 
-- a.[^5-3] die Steuereinnahmen, die alle Kantone und Gemeinden im Durchschnitt der Bemessungsjahre laut Finanzstatistik der öffentlichen Haushalte nach Statistikerhebungsverordnung vom 30. Juni 1993[^5-4] erzielt haben;
+- a.[^5-3] die Steuereinnahmen, die alle Kantone und Gemeinden im Durchschnitt der Bemessungsjahre laut Finanzstatistik der öffentlichen Haushalte nach der Bundesstatistikverordnung vom 30. April 2025[^5-4] erzielt haben;
 - b. die Anteile der Kantone an den Einnahmen der direkten Bundessteuer gemäss Artikel 196 Absatz 1 des Bundesgesetzes vom 14. Dezember 1990[^5-5] über die direkte Bundessteuer (DBG) im Durchschnitt der Bemessungsjahre.
 
 <sup>3</sup> Der standardisierte Steuersatz entspricht dem Verhältnis zwischen dem standardisierten Steuerertrag und dem Ressourcenpotenzial der Schweiz.
@@ -106,8 +106,8 @@ Der standardisierte Steuerertrag der Schweiz umfasst:[^5-2]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^5-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
-[^5-4]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^5-3]: Fassung gemäss Anhang 3 Ziff. 9 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^5-4]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 [^5-5]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^5-6]: Eingefügt durch Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
@@ -509,25 +509,26 @@ Der Ausgleich von soziodemografischen Sonderlasten aufgrund der Bevölkerungsstr
 
 <sup>2</sup>
 
-Als Leistungen der Sozialhilfe im weiteren Sinn gelten bedarfsorientierte Geldleistungen, sofern sie personen- beziehungsweise haushaltsbezogen gewährt werden und soweit sie in der Statistik der Sozialhilfeempfängerinnen und Sozialhilfeempfänger gemäss Statistikerhebungsverordnung vom 30. Juni 1993[^34-1] aufgeführt sind. Dazu gehören insbesondere:
+Als Leistungen der Sozialhilfe im weiteren Sinn gelten bedarfsorientierte Geldleistungen, sofern sie personen-beziehungsweise haushaltsbezogen gewährt werden und soweit sie in der Statistik der Sozialhilfeempfängerinnen und Sozialhilfeempfänger nach der Bundesstatistikverordnung vom 30. April 2025[^34-1] aufgeführt sind. Dazu gehören insbesondere:[^34-2]
 
 - a. wirtschaftliche Sozialhilfe gemäss den kantonalen Sozialhilfegesetzen;
 - b. kantonal geregelte Bevorschussung von Alimenten;
-- c. Ergänzungsleistungen des Bundes, gewichtet mit dem kantonalen Finanzierungsanteil gemäss Artikel 13 Absatz 1 des Bundesgesetzes vom 6. Oktober 2006[^34-2] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
+- c. Ergänzungsleistungen des Bundes, gewichtet mit dem kantonalen Finanzierungsanteil gemäss Artikel 13 Absatz 1 des Bundesgesetzes vom 6. Oktober 2006[^34-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - d. kantonale Alters- und Invaliditätsbeihilfen;
 - e. kantonale Bedarfsleistungen im Zusammenhang mit Arbeitslosigkeit;
 - f. kantonale Mutterschaftsbeihilfen sowie Unterhaltszuschüsse an Familien mit Kindern;
-- g. kantonale Wohngelder beziehungsweise Wohnkostenzuschüsse.[^34-3]
+- g. kantonale Wohngelder beziehungsweise Wohnkostenzuschüsse.[^34-4]
 
-<sup>3</sup> Weist eine Leistung der Sozialhilfe im weiteren Sinn einen im gesamtschweizerischen Vergleich tiefen jährlichen Unterstützungsbeitrag pro Kopf der Empfängerinnen und Empfänger auf, so wird die Anzahl der Empfängerinnen und Empfänger dieser Leistung gewichtet. Die Finanzstatistik der Sozialhilfe im weiteren Sinn nach Statistikerhebungsverordnung bildet die Datengrundlage für die Gewichtung.[^34-4]
+<sup>3</sup> Weist eine Leistung der Sozialhilfe im weiteren Sinn einen im gesamtschweizerischen Vergleich tiefen jährlichen Unterstützungsbeitrag pro Kopf der Empfängerinnen und Empfänger auf, so wird die Anzahl der Empfängerinnen und Empfänger dieser Leistung gewichtet. Die Finanzstatistik der Sozialhilfe im weiteren Sinn nach Statistikerhebungsverordnung bildet die Datengrundlage für die Gewichtung.[^34-5]
 
-<sup>4</sup> Mehrfachbezüge werden einfach gezählt.[^34-5]
+<sup>4</sup> Mehrfachbezüge werden einfach gezählt.[^34-6]
 
-[^34-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^34-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^34-3]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^34-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
-[^34-5]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^34-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^34-2]: Fassung gemäss Anhang 3 Ziff. 9 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^34-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^34-4]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^34-5]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+[^34-6]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
 #### Art. 35
 
@@ -1050,7 +1051,7 @@ Anhang 3[^t-3]
 - TE Anteil der durch den Kanton Genf an Frankreich zurückerstatteten Bruttolohnsumme der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch den Kanton Genf gemäss Abkommen des Kantons Genf mit Frankreich vom 29.1.1973
 - TF Maximaler Anteil (Steuersatz) der durch Frankreich zurückerstatteten Bruttolohnsumme der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch Frankreich gemäss dem Abkommen der Kantone Bern, Solothurn, Basel-Stadt, Basel-Landschaft, Waadt, Wallis und Neuenburg vom 11.4.1983
 - TG Anteil der an Italien zurückerstatteten Bruttosteuereinnahmen von begrenzt besteuerten Grenzgängerinnen und Grenzgängern aus Italien gemäss Artikel 14*a* DBA-I und der Vereinbarung der Kantone Graubünden, Tessin und Wallis mit Italien
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image1.png)</sub> Letzter verfügbarer standardisierter Steuersatz für das Bemessungsjahr t (d.h. Bemessungsjahr + 3 Jahre)
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image1.png)</sub> Letzter verfügbarer standardisierter Steuersatz für das Bemessungsjahr t (d.h. Bemessungsjahr + 3 Jahre)
 - γ Faktor Gamma: Auf drei Stellen gerundetes Verhältnis zwischen dem massgebenden Einkommen der natürlichen Personen der Schweiz und dem Primäreinkommen der privaten Haushalte der Schweiz in den Bemessungsjahren. Der Faktor Gamma wird jährlich berechnet.
 - δ Faktor Delta: Faktor, der die Lasten der Grenzgänger berücksichtigt und deren Einkommen BQB, BQC, BQD, BQE, BQF und BQG tiefer gewichtet.
 
@@ -1062,23 +1063,23 @@ Anhang 3[^t-3]
 - γ · δ ·BQB
 - (3) Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Österreich:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image2.png)
 
 - (4) Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Deutschland:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image3.png)
 
 - (5) Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch den Kanton Genf:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image4.png)
 
 - (6) Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch Frankreich:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image5.png)
 
 - (7) Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Italien:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image6.png)
 
 ### 3. Parameterwerte für das Referenzjahr 2025
 
@@ -1154,14 +1155,14 @@ Anhang 4[^t-4]
 
 ### 1. Definition der Variablen und Parameter
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image7.png)</sub> Vermögenssteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image8.png)</sub> Reinvermögen
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image9.png)</sub> Einkommenssteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image10.png)</sub> Quellensteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image11.png)</sub> Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG[^annex4-lvlu1-lvl1-1]
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image12.png)</sub> Einkommenssteuereinnahmen der direkten Bundessteuer
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image13.png)</sub> Massgebende Einkommen der natürlichen Personen
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image14.png)</sub> Massgebende quellenbesteuerte Einkommen der natürlichen Personen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image7.png)</sub> Vermögenssteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image8.png)</sub> Reinvermögen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image9.png)</sub> Einkommenssteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image10.png)</sub> Quellensteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image11.png)</sub> Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG[^annex4-lvlu1-lvl1-1]
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image12.png)</sub> Einkommenssteuereinnahmen der direkten Bundessteuer
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image13.png)</sub> Massgebende Einkommen der natürlichen Personen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image14.png)</sub> Massgebende quellenbesteuerte Einkommen der natürlichen Personen
 
 [^annex4-lvlu1-lvl1-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -1169,7 +1170,7 @@ Anhang 4[^t-4]
 
 - 2\.1 Der Faktor Alpha nach Artikel 13 wird gemäss folgender Formel berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image15.png)
 
 - 2\.2 Der Faktor Alpha wird jährlich berechnet und basiert auf den letzten verfügbaren sechs Bemessungsjahren.
 
@@ -1284,7 +1285,7 @@ Anhang 6[^t-6]
 
 Die Zuschlagsfaktoren gemäss Artikel 20 Absatz 2 werden gemäss folgender Formel berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image16.png)
 
 ### 3. Parameterwerte für Referenzjahre ab 2020
 
@@ -1357,27 +1358,27 @@ Anhang 6a[^t-7]
 Die Zeta-Faktoren gewichten die Gewinne der juristischen Personen im Ressourcenpotenzial gemäss ihrer steuerlichen Ausschöpfung. Es wird unterschieden zwischen den ordentlich besteuerten Gewinnen, die ausschliesslich mit Zeta-1 gewichtet werden, und den Gewinnen aus Patenten und vergleichbaren Rechten (Boxengewinnen), die reduziert besteuert und deshalb vorab mit Zeta-2 und anschliessend mit Zeta-1 gewichtet werden.
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image17.png)</sub></td><td>Gewichtungsfaktor für die Gewinne der juristischen Personen. Entspricht dem Verhältnis der steuerlichen Ausschöpfung der Gewinne der juristischen Personen zur steuerlichen Ausschöpfung der Einkommen und Vermögen der natürlichen Personen.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image18.png)</td><td>Gewichtungsfaktor für die Boxengewinne. Entspricht dem durchschnittlichen steuerbaren Anteil der Boxengewinne nach (statutarischer) Entlastung unter Einbezug des Anteils an der direkten Bundessteuer *π.*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image19.png)</td><td>Basisfaktor für ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image20.png). Entspricht dem durchschnittlichen steuerbaren Anteil der Boxengewinne nach (statutarischer) Entlastung.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image21.png)</td><td>Massgebende Gewinne des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image22.png)</td><td>Massgebende Einkommen der natürlichen Personen Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image23.png)</td><td>Massgebende quellenbesteuerte Einkommen der natürlichen Personen Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image24.png)</td><td>Massgebende Vermögen der natürlichen Personen Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image25.png)</td><td>Bemessungsgrundlage der Gewinne der juristischen Personen des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image26.png)</td><td>Bemessungsgrundlage der Gewinne der juristischen Personen Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image27.png)</td><td>Boxengewinne Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image28.png)</td><td>Boxengewinne des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image29.png)</td><td>Ordentliche Gewinne Total</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image30.png)</td><td>Ordentliche Gewinne des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image31.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der Kantone und Gemeinden (inklusive Kantonsanteile an der direkten Bundessteuer)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image32.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der Kantone und Gemeinden ohne Kantonsanteil an der direkten Bundessteuer</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image33.png)</td><td>Einkommens-, Quellen- und Vermögenssteuereinnahmen der Kantone und Gemeinden (inklusive Kantonsanteile an der direkten Bundessteuer)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image34.png)</td><td>Ermässigung bei der Berechnung des steuerbaren Gewinns nach Art. 24*b* StHG[^annex6a-lvlu1-lvl1-1] des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image35.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der direkten Bundessteuer</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image36.png)</td><td>Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image37.png)</td><td>Summe der Forschungs- und Entwicklungsaufwände nach Artikel 24*b* Absatz 3, jedoch ohne allfällige Abzüge nach Artikel 25*a* StHG der Unternehmen im Kanton k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image38.png)</td><td>Anteil der nicht mehr mit den Faktoren Beta gewichteten Gewinne nach Artikel 57*b* (Umbuchungsfaktor)</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image17.png)</sub></td><td>Gewichtungsfaktor für die Gewinne der juristischen Personen. Entspricht dem Verhältnis der steuerlichen Ausschöpfung der Gewinne der juristischen Personen zur steuerlichen Ausschöpfung der Einkommen und Vermögen der natürlichen Personen.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image18.png)</td><td>Gewichtungsfaktor für die Boxengewinne. Entspricht dem durchschnittlichen steuerbaren Anteil der Boxengewinne nach (statutarischer) Entlastung unter Einbezug des Anteils an der direkten Bundessteuer *π.*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image19.png)</td><td>Basisfaktor für ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image20.png). Entspricht dem durchschnittlichen steuerbaren Anteil der Boxengewinne nach (statutarischer) Entlastung.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image21.png)</td><td>Massgebende Gewinne des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image22.png)</td><td>Massgebende Einkommen der natürlichen Personen Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image23.png)</td><td>Massgebende quellenbesteuerte Einkommen der natürlichen Personen Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image24.png)</td><td>Massgebende Vermögen der natürlichen Personen Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image25.png)</td><td>Bemessungsgrundlage der Gewinne der juristischen Personen des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image26.png)</td><td>Bemessungsgrundlage der Gewinne der juristischen Personen Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image27.png)</td><td>Boxengewinne Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image28.png)</td><td>Boxengewinne des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image29.png)</td><td>Ordentliche Gewinne Total</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image30.png)</td><td>Ordentliche Gewinne des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image31.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der Kantone und Gemeinden (inklusive Kantonsanteile an der direkten Bundessteuer)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image32.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der Kantone und Gemeinden ohne Kantonsanteil an der direkten Bundessteuer</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image33.png)</td><td>Einkommens-, Quellen- und Vermögenssteuereinnahmen der Kantone und Gemeinden (inklusive Kantonsanteile an der direkten Bundessteuer)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image34.png)</td><td>Ermässigung bei der Berechnung des steuerbaren Gewinns nach Art. 24*b* StHG[^annex6a-lvlu1-lvl1-1] des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image35.png)</td><td>Gewinnsteuereinnahmen juristischer Personen der direkten Bundessteuer</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image36.png)</td><td>Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image37.png)</td><td>Summe der Forschungs- und Entwicklungsaufwände nach Artikel 24*b* Absatz 3, jedoch ohne allfällige Abzüge nach Artikel 25*a* StHG der Unternehmen im Kanton k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image38.png)</td><td>Anteil der nicht mehr mit den Faktoren Beta gewichteten Gewinne nach Artikel 57*b* (Umbuchungsfaktor)</td></tr>
 </table>
 
 [^annex6a-lvlu1-lvl1-1]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -1386,22 +1387,22 @@ Die Zeta-Faktoren gewichten die Gewinne der juristischen Personen im Ressourcenp
 
 - 2\.1 Die massgebenden Gewinne der juristischen Personen eines Kantons ergeben sich aus der Multiplikation der Bemessungsgrundlage mit dem Faktor Zeta-1:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image39.png)
 
 - 2\.2 Der Faktor Zeta-1 nach Artikel 20*b* Absatz 1 berechnet sich aus dem Verhältnis der steuerlichen Ausschöpfung der Gewinne der juristischen Personen zur steuerlichen Ausschöpfung der Einkommen und Vermögen der natürlichen Personen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image40.png)
 
 - 2\.3 Der Faktor Zeta-1 wird jährlich berechnet und basiert auf den letzten verfügbaren sechs Bemessungsjahren.
 - 2\.4 Die Bemessungsgrundlage der Gewinne der juristischen Personen besteht aus der Summe der ordentlichen Gewinne, der gewichteten Boxengewinne und der gewichteten Forschungs- und Entwicklungsaufwände nach Artikel 20*a* Absatz 2:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image41.png)
 
-- 2\.5 Der Faktor Zeta-2 nach Artikel 20*b* Absatz 2 wird jährlich berechnet und basiert auf der durchschnittlichen Tiefergewichtung der Boxengewinne im letzten verfügbaren Bemessungsjahr (Basisfaktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image42.png)</sub>). Zudem wird berücksichtigt, dass der Kantonsanteil an der direkten Bundessteuer den Kantonen ohne Reduktion zukommt:
+- 2\.5 Der Faktor Zeta-2 nach Artikel 20*b* Absatz 2 wird jährlich berechnet und basiert auf der durchschnittlichen Tiefergewichtung der Boxengewinne im letzten verfügbaren Bemessungsjahr (Basisfaktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image42.png)</sub>). Zudem wird berücksichtigt, dass der Kantonsanteil an der direkten Bundessteuer den Kantonen ohne Reduktion zukommt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image43.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image44.png)
 
 ### 3. Faktoren Zeta und Gewichtung des Forschungs- und Entwicklungsaufwands für die Bemessungsjahre 2020–2021
 
@@ -1414,15 +1415,15 @@ Die Zeta-Faktoren gewichten die Gewinne der juristischen Personen im Ressourcenp
 
 ### 4. Weiteranwendung der Faktoren Beta in den Bemessungsjahren 2017–2024
 
-- 4\.1 Für die Bemessungsjahre t = 2017–2024 werden die massgebenden Gewinne der juristischen Personen nach Artikel 57*b* sowohl mit der Berechnungsweise nach Anhang 6 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image45.png)</sub> wie auch mit der Berechnungsweise nach Ziffer 2 dieses Anhangs <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image46.png)</sub> berechnet. Die massgebenden Gewinne <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image47.png)</sub> berechnen sich aus dem mit dem Umbuchungsfaktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image48.png)</sub> gewichteten Mittel der beiden Resultate:
+- 4\.1 Für die Bemessungsjahre t = 2017–2024 werden die massgebenden Gewinne der juristischen Personen nach Artikel 57*b* sowohl mit der Berechnungsweise nach Anhang 6 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image45.png)</sub> wie auch mit der Berechnungsweise nach Ziffer 2 dieses Anhangs <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image46.png)</sub> berechnet. Die massgebenden Gewinne <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image47.png)</sub> berechnen sich aus dem mit dem Umbuchungsfaktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image48.png)</sub> gewichteten Mittel der beiden Resultate:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image49.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image49.png)
 
 - 4\.2 Der Umbuchungsfaktor beträgt in den Bemessungsjahren:
 
 <table>
 <tr><td>t</td><td>2017–2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image50.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image50.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
 </table>
 
 - 4\.3 Die Faktoren Beta betragen in der Übergangsphase:
@@ -1518,23 +1519,23 @@ Anhang 7a[^t-9]
 
 ### 1. Definition der Variablen und Parameter
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image51.png)</sub> Beitrag an den ressourcenschwachen Kanton r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image52.png)</sub> durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons r in den Bemessungsjahren
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image53.png)</sub> Ressourcenindex des ressourcenschwachen Kantons r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image54.png)</sub> Indexwert der garantierten Mindestausstattung
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image55.png) Standardisierter Steuerertrag der Schweiz pro Einwohnerin und Einwohner
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image51.png)</sub> Beitrag an den ressourcenschwachen Kanton r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image52.png)</sub> durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons r in den Bemessungsjahren
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image53.png)</sub> Ressourcenindex des ressourcenschwachen Kantons r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image54.png)</sub> Indexwert der garantierten Mindestausstattung
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image55.png) Standardisierter Steuerertrag der Schweiz pro Einwohnerin und Einwohner
 
 ### 2. Berechnung
 
 - 2\.1 Der Beitrag an einen ressourcenschwachen Kanton *r* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image56.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image56.png)
 
 - 2\.2 Der Werte der Parameter *p* und *t* werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image57.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image57.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image58.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image58.png)
 
 ### 3. Parameterwerte für das Referenzjahr 2025
 
@@ -1603,13 +1604,13 @@ Anhang 8[^t-10]
 
 Der Beitrag eines ressourcenstarken Kantons *q* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image59.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image59.png)
 
 ### 3. Kommentar zur Berechnung
 
 Zur Festlegung des Beitrags eines ressourcenstarken Kantons q wird sein 100 Punkte übersteigender Ressourcenindex, RI<sub>q</sub>-100, mit seiner mittleren ständigen und nichtständigen Wohnbevölkerung, e<sub>q</sub>, multipliziert. Dieser Wert wird anschliessend in Beziehung gesetzt zur Summe der Werte aller n ressourcenstarken Kantone,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image60.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image60.png)
 
 Daraus ergibt sich sein Anteil am gesamten Beitrag der ressourcenstarken Kantone, A.
 
@@ -1719,41 +1720,41 @@ Anhang 13[^t-15]
 a) Variablen und Parameter:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image61.png)</td><td>Teilindikator «Armut» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image62.png)</td><td>Teilindikator «Altersstruktur» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image63.png)</td><td>Teilindikator «Ausländerintegration» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image64.png)</td><td>Mittelwert der Teilindikatoren «Armut» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image65.png)</td><td>Mittelwert der Teilindikatoren «Altersstruktur» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image66.png)</td><td>Mittelwert der Teilindikatoren «Ausländerintegration» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image67.png)</td><td>Standardabweichung der Teilindikatoren «Armut» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image68.png)</td><td>Standardabweichung der Teilindikatoren «Altersstruktur» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image69.png)</td><td>Standardabweichung der Teilindikatoren «Ausländerintegration» der Kantone</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image70.png)</td><td>Standardisierter Teilindikator «Armut» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image71.png)</td><td>Standardisierter Teilindikator «Altersstruktur» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image72.png)</td><td>Standardisierter Teilindikator «Ausländerintegration» des Kantons k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image73.png)</td><td>Gewicht für den standardisierten Teilindikator «Armut»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image74.png)</td><td>Gewicht für den standardisierten Teilindikator «Altersstruktur»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image75.png)</td><td>Gewicht für den standardisierten Teilindikator «Ausländerintegration»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image76.png)</td><td>Lastenindex für Sonderlasten der Bevölkerungsstruktur des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image61.png)</td><td>Teilindikator «Armut» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image62.png)</td><td>Teilindikator «Altersstruktur» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image63.png)</td><td>Teilindikator «Ausländerintegration» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image64.png)</td><td>Mittelwert der Teilindikatoren «Armut» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image65.png)</td><td>Mittelwert der Teilindikatoren «Altersstruktur» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image66.png)</td><td>Mittelwert der Teilindikatoren «Ausländerintegration» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image67.png)</td><td>Standardabweichung der Teilindikatoren «Armut» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image68.png)</td><td>Standardabweichung der Teilindikatoren «Altersstruktur» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image69.png)</td><td>Standardabweichung der Teilindikatoren «Ausländerintegration» der Kantone</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image70.png)</td><td>Standardisierter Teilindikator «Armut» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image71.png)</td><td>Standardisierter Teilindikator «Altersstruktur» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image72.png)</td><td>Standardisierter Teilindikator «Ausländerintegration» des Kantons k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image73.png)</td><td>Gewicht für den standardisierten Teilindikator «Armut»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image74.png)</td><td>Gewicht für den standardisierten Teilindikator «Altersstruktur»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image75.png)</td><td>Gewicht für den standardisierten Teilindikator «Ausländerintegration»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image76.png)</td><td>Lastenindex für Sonderlasten der Bevölkerungsstruktur des Kantons k</td></tr>
 </table>
 
 b) Die standardisierten Teilindikatoren werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image77.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image77.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image78.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image78.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image79.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image79.png).
 
 Die Standardisierung erfolgt, indem die Abweichungen der Teilindikatoren zum jeweiligen Schweizer Mittelwert mit der Standardabweichung dividiert werden.
 
 c) Der Lastenindex für Sonderlasten der Bevölkerungsstruktur eines Kantons *k* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image80.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image80.png)
 
 d) Die Gewichte werden mit Hilfe einer Hauptkomponentenanalyse berechnet. Für die Gewichte gilt deshalb:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image81.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image81.png),
 
 mit
 
@@ -1782,41 +1783,41 @@ Anhang 14[^t-16]
 a) Variablen und Parameter:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image82.png)</td><td>Teilindikator «Gemeindegrösse» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image83.png)</td><td>Teilindikator «Siedlungsdichte» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image84.png)</td><td>Teilindikator «Beschäftigungsquote» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image85.png)</td><td>Mittelwert der Teilindikatoren «Gemeindegrösse» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image86.png)</td><td>Mittelwert der Teilindikatoren «Siedlungsdichte» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image87.png)</td><td>Mittelwert der Teilindikatoren «Beschäftigungsquote» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image88.png)</td><td>Standardabweichung der Teilindikatoren «Gemeindegrösse» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image89.png)</td><td>Standardabweichung der Teilindikatoren «Siedlungsdichte» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image90.png)</td><td>Standardabweichung der Teilindikatoren «Beschäftigungsquote» der Gemeinden</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image91.png)</td><td>Standardisierter Teilindikator «Gemeindegrösse» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image92.png)</td><td>Standardisierter Teilindikator «Siedlungsdichte» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image93.png)</td><td>Standardisierter Teilindikator «Beschäftigungsquote» der Gemeinde *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image94.png)</td><td>Gewicht für den standardisierten Teilindikator «Gemeindegrösse»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image95.png)</td><td>Gewicht für den standardisierten Teilindikator «Siedlungsdichte»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image96.png)</td><td>Gewicht für den standardisierten Teilindikator «Beschäftigungsquote»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image97.png)</td><td>Lastenindex für Sonderlasten der Kernstädte für Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image82.png)</td><td>Teilindikator «Gemeindegrösse» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image83.png)</td><td>Teilindikator «Siedlungsdichte» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image84.png)</td><td>Teilindikator «Beschäftigungsquote» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image85.png)</td><td>Mittelwert der Teilindikatoren «Gemeindegrösse» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image86.png)</td><td>Mittelwert der Teilindikatoren «Siedlungsdichte» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image87.png)</td><td>Mittelwert der Teilindikatoren «Beschäftigungsquote» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image88.png)</td><td>Standardabweichung der Teilindikatoren «Gemeindegrösse» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image89.png)</td><td>Standardabweichung der Teilindikatoren «Siedlungsdichte» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image90.png)</td><td>Standardabweichung der Teilindikatoren «Beschäftigungsquote» der Gemeinden</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image91.png)</td><td>Standardisierter Teilindikator «Gemeindegrösse» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image92.png)</td><td>Standardisierter Teilindikator «Siedlungsdichte» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image93.png)</td><td>Standardisierter Teilindikator «Beschäftigungsquote» der Gemeinde *g*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image94.png)</td><td>Gewicht für den standardisierten Teilindikator «Gemeindegrösse»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image95.png)</td><td>Gewicht für den standardisierten Teilindikator «Siedlungsdichte»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image96.png)</td><td>Gewicht für den standardisierten Teilindikator «Beschäftigungsquote»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image97.png)</td><td>Lastenindex für Sonderlasten der Kernstädte für Gemeinde *g*</td></tr>
 </table>
 
 b) Die standardisierten Teilindikatoren werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image98.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image98.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image99.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image99.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image100.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image100.png).
 
 Die Standardisierung erfolgt, indem die Abweichungen der Teilindikatoren zum jeweiligen Schweizer Mittelwert mit der Standardabweichung dividiert werden.
 
 c) Der Lastenindex für Sonderlasten der Kernstädte einer Gemeinde berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image101.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image101.png)
 
 d) Die Gewichte werden mit Hilfe einer Hauptkomponentenanalyse berechnet. Für die Gewichte gilt deshalb:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image102.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image102.png),
 
 mit
 
@@ -1846,7 +1847,7 @@ b) Berechnung:
 
 Der Lastenindex eines Kantons ist der mit der Bevölkerung gewichtete Durchschnitt der Lastenindizes seiner Gemeinden. Er ist somit gegeben durch die Summe der mit der ständigen Wohnbevölkerung multiplizierten Lastenindizes der Gemeinden im Kanton, dividiert durch die ständige Wohnbevölkerung des Kantons:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image103.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image103.png)
 
 Anhang 15[^t-17]
 
@@ -1914,9 +1915,9 @@ ECHk,T Anzahl der Schweizer Einwohner der ständigen Wohnbevölkerung des Kanton
 
 ENk,T Anzahl der niedergelassenen Ausländer des Kantons k im Bemessungsjahr T
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image104.png) Gewichtung der Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image104.png) Gewichtung der Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image105.png) Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image105.png) Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
 
 RVk,T Reinvermögen pro Einwohner des Kantons k im Bemessungsjahr T
 
@@ -1930,7 +1931,7 @@ EJPk,T Ertrag der Gewinnsteuer pro Einwohner des Kantons k im Bemessungsjahr T
 
 GDBk,T Gewinne gemäss direkter Bundessteuer (nach Beteiligungsabzug) pro Einwohner des Kantons k im Bemessungsjahr T
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image106.png) Faktor Beta des Gesellschaftstyps gemischte Gesellschaft im Bemessungsjahr T gemäss Anhang 6
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image106.png) Faktor Beta des Gesellschaftstyps gemischte Gesellschaft im Bemessungsjahr T gemäss Anhang 6
 
 WGDBt Wachstumsrate der Gewinne gemäss direkter Bundessteuer der gesamten Schweiz im Jahr t
 
@@ -1945,23 +1946,23 @@ WGDBt Wachstumsrate der Gewinne gemäss direkter Bundessteuer der gesamten Schwe
 
 <table>
 <tr><th>Fall</th><th>Bestandteil Ressourcenpotenzial</th><th colspan="3">Regressionsgleichung zur Bestimmung der Koeffizienten</th><th colspan="2"></th></tr>
-<tr><td>1</td><td>Massgebendes Einkommen natürliche Personen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image107.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image108.png)</td></tr>
-<tr><td>2</td><td>Massgebende quellenbesteuerte Einkommen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image109.png)</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image110.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image111.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image112.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image113.png)</td><td colspan="2"></td></tr>
-<tr><td>3</td><td>Massgebendes Vermögen natürliche Personen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image114.png)</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image115.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image116.png)</td><td colspan="2"></td></tr>
+<tr><td>1</td><td>Massgebendes Einkommen natürliche Personen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image107.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image108.png)</td></tr>
+<tr><td>2</td><td>Massgebende quellenbesteuerte Einkommen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image109.png)</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image110.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image111.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image112.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image113.png)</td><td colspan="2"></td></tr>
+<tr><td>3</td><td>Massgebendes Vermögen natürliche Personen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image114.png)</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image115.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image116.png)</td><td colspan="2"></td></tr>
 <tr><td>4</td><td>Massgebende Gewinne juristische Personen</td><td colspan="5">Schritt 1:</td></tr>
-<tr><td></td><td></td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image117.png)</sub></td><td></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image118.png)</sub></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image117.png)</sub></td><td></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image118.png)</sub></td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td colspan="3">Schritt 2:</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image119.png)</sub></td><td colspan="2"></td></tr>
-<tr><td>5</td><td>Gewinne gemäss direkter Bundessteuer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image120.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image121.png)</td></tr>
+<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image119.png)</sub></td><td colspan="2"></td></tr>
+<tr><td>5</td><td>Gewinne gemäss direkter Bundessteuer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image120.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image121.png)</td></tr>
 </table>
 
 Anhang 17[^t-19]
@@ -2011,12 +2012,12 @@ Anhang 18[^t-20]
 <table>
 <tr><td>gw<sub>k</sub></td><td>Grenzwert für die zu erreichende Mindestentlastung eines Kantons in Prozent des standardisierten Steuerertrags des Kantons *k*</td></tr>
 <tr><td>ε</td><td>Faktor zur Bestimmung der mit dem Härteausgleich angestrebten Entlastung in Abhängigkeit des Ressourcenindex</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image122.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image123.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image124.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image125.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image126.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2004 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image127.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2005 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image122.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image123.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image124.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image125.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image126.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2004 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image127.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2005 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
 <tr><td>nes<sub>k</sub></td><td>Nettoergebnis des Kantons *k* in Prozent des standardisierten Steuerertrags des Kantons *k* (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
 <tr><td>HA<sub>k</sub></td><td>Anfangsbeitrag aus dem Härteausgleich für den Kanton *k*</td></tr>
 </table>
@@ -2025,7 +2026,7 @@ Anhang 18[^t-20]
 
 Der Grenzwert für den Bezug von Härteausgleich berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image128.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image128.png)
 
 Der Grenzwert eines Kantons berechnet sich durch die Multiplikation des Faktors Epsilon, ε, mit der durchschnittlichen Abweichung des Ressourcenindex des Kantons vom Schweizer Durchschnitt in den Jahren 2004 und 2005. Negative Werte bedeuten eine Entlastung, positive Werte eine Belastung. Aus der Formel ergibt sich, dass der Grenzwert für einen durchschnittlich ressourcenschwachen Kanton negativ ist, d.h. dass eine Entlastung angestrebt wird.
 
@@ -2033,7 +2034,7 @@ Der Grenzwert eines Kantons berechnet sich durch die Multiplikation des Faktors 
 
 Das Nettoergebnis der Globalbilanz eines Kantons in Prozent des standardisierten Steuerertrags wird wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image129.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image129.png)
 
 Negative Werte bedeuten eine Nettoentlastung, positive Werte eine Nettobelastung.
 
@@ -2043,20 +2044,20 @@ Der Anfangsbeitrag eines Kantons *k* aus dem Härteausgleich richtet sich nach f
 
 <table>
 <tr><td>Bedingungen (wenn …,)</td><td></td><td>Härteausgleich (… dann)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image130.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image131.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image132.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image130.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image131.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image132.png)</td></tr>
 </table>
 
 *Bedingung 1:* Ist der durchschnittliche Ressourcenindex in den Jahren 2004 und 2005 grösser als der Schweizer Durchschnitt,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image133.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image133.png),
 
 so erhält der Kanton keinen Härteausgleich.
 
 *Bedingung 2:* Ist der durchschnittliche Ressourcenindex in den Jahren 2004 und 2005 kleiner als der Schweizer Durchschnitt,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image134.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image134.png),
 
 so muss zwischen zwei Fällen unterschieden werden:
 
@@ -2064,17 +2065,17 @@ so muss zwischen zwei Fällen unterschieden werden:
 
 *all 2b:* Ist das Nettoergebnis der Globalbilanz in Prozent des standardisierten Steuerertrags grösser als der Grenzwert (d.h. ist die Nettoentlastung kleiner als die angestrebte Entlastung oder weist der Kanton eine Nettobelastung auf), so erhält der Kanton Härteausgleich in der Höhe der Differenz zwischen dem Nettoergebnis und dem Grenzwert, multipliziert mit seinem durchschnittlichen standardisierten Steuerertrag in den Jahren 2004 und 2005:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image135.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image135.png)
 
 ### 5. Bestimmung des Faktors Epsilon
 
 Der Faktor ε wird so bestimmt, dass die Summe aller Ausgleichszahlungen für die *h* im Härteausgleich anspruchsberechtigten Kantone *z* gleich dem für den Härteausgleich zur Verfügung stehenden Gesamtbetrag *H* entspricht:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image136.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image136.png).
 
 Mit *z* werden jene ressourcenschwachen Kantone bezeichnet, welche Anspruch auf Härteausgleich haben, d.h. alle Kantone *k*, für welche das Nettoergebnis in Prozent des standardisierten Steuerertrags einen höheren Wert aufweist als der Grenzwert:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image137.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image137.png).
 
 Der Faktor ε und die Kantone *z* werden mit einem Iterationsverfahren bestimmt.
 
@@ -2206,31 +2207,31 @@ Anhang 20[^t-22]
 ### 1. Definition der Variablen und Parameter
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image138.png)</sub></td><td>Ergänzungsbeitrag des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image139.png)</sub></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image140.png)</td><td>Ergänzungsbeitrag pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image139.png)</sub></td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image141.png)</sub></td><td>Durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image139.png)</sub> in den Bemessungsjahren</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image142.png)</td><td>Zielwert des Ergänzungsbeitrags pro Einwohnerin und Einwohner</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image143.png)</sub></td><td>Standardisierter Steuerertrag pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image139.png)</sub> im Jahr 2023</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image144.png)</td><td>Ausgleichszahlungen pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image139.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image138.png)</sub></td><td>Ergänzungsbeitrag des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image139.png)</sub></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image140.png)</td><td>Ergänzungsbeitrag pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image139.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image141.png)</sub></td><td>Durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image139.png)</sub> in den Bemessungsjahren</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image142.png)</td><td>Zielwert des Ergänzungsbeitrags pro Einwohnerin und Einwohner</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image143.png)</sub></td><td>Standardisierter Steuerertrag pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image139.png)</sub> im Jahr 2023</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image144.png)</td><td>Ausgleichszahlungen pro Einwohnerin und Einwohner des ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image139.png)</sub></td></tr>
 </table>
 
 ### 2. Berechnung
 
-- 2\.1 Ergänzungsbeiträge werden in den Jahren 2024–2030 ausgerichtet. Die Auszahlungen erfolgen ausschliesslich an ressourcenschwache Kantone. Grundlage für die Berechnung des Ergänzungsbeitrags sind die massgebenden eigenen Ressourcen jedes Kantons im Jahr 2023 (standardisierter Steuerertrag pro Einwohnerin und Einwohner vor Ausgleich, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image145.png)</sub>, dem letzten Referenzjahr, in welchem alle Bemessungsjahre aus dem alten System stammen. Dazu werden die Ausgleichszahlungen des aktuellen Referenzjahres addiert.
+- 2\.1 Ergänzungsbeiträge werden in den Jahren 2024–2030 ausgerichtet. Die Auszahlungen erfolgen ausschliesslich an ressourcenschwache Kantone. Grundlage für die Berechnung des Ergänzungsbeitrags sind die massgebenden eigenen Ressourcen jedes Kantons im Jahr 2023 (standardisierter Steuerertrag pro Einwohnerin und Einwohner vor Ausgleich, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image145.png)</sub>, dem letzten Referenzjahr, in welchem alle Bemessungsjahre aus dem alten System stammen. Dazu werden die Ausgleichszahlungen des aktuellen Referenzjahres addiert.
 - 2\.2 Die Mittel aus dem Ergänzungsbeitrag werden vollständig auf die ressourcenschwächsten Kantone aufgeteilt, sodass alle ressourcenschwachen Kantone mindestens den Zielwert des Ergänzungsbeitrags erreichen.
-- 2\.3 Die Summe der Ergänzungsbeiträge der <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image146.png)</sub> ressourcenschwachen Kantone in den Jahren 2024–2030 beträgt je 180 000 000 Franken:
+- 2\.3 Die Summe der Ergänzungsbeiträge der <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image146.png)</sub> ressourcenschwachen Kantone in den Jahren 2024–2030 beträgt je 180 000 000 Franken:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image147.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image147.png)
 
-- 2\.4 Der Ergänzungsbeitrag eines ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image148.png)</sub> ergibt sich aus der Multiplikation des Ergänzungsbeitrags pro Einwohnerin und Einwohner <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image149.png)</sub> mit der Bevölkerung<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image150.png)</sub>
+- 2\.4 Der Ergänzungsbeitrag eines ressourcenschwachen Kantons <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image148.png)</sub> ergibt sich aus der Multiplikation des Ergänzungsbeitrags pro Einwohnerin und Einwohner <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image149.png)</sub> mit der Bevölkerung<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image150.png)</sub>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image151.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image151.png)
 
-- 2\.5 Ist die Summe des standardisierten Steuerertrags pro Einwohnerin und Einwohner eines Kantons<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image152.png)</sub>im Jahr 2023, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image153.png)</sub> und der Ausgleichszahlungen pro Einwohnerin und Einwohner im aktuellen Referenzjahr,<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image154.png)</sub> kleiner als der Zielwert des Ergänzungsbeitrags, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image155.png)</sub>, dann entspricht der Ergänzungsbeitrag pro Einwohnerin und Einwohner, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image156.png)</sub>, der Differenz zwischen dieser Summe und dem Zielwert. Im gegenteiligen Fall beträgt er Null.
+- 2\.5 Ist die Summe des standardisierten Steuerertrags pro Einwohnerin und Einwohner eines Kantons<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image152.png)</sub>im Jahr 2023, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image153.png)</sub> und der Ausgleichszahlungen pro Einwohnerin und Einwohner im aktuellen Referenzjahr,<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image154.png)</sub> kleiner als der Zielwert des Ergänzungsbeitrags, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image155.png)</sub>, dann entspricht der Ergänzungsbeitrag pro Einwohnerin und Einwohner, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image156.png)</sub>, der Differenz zwischen dieser Summe und dem Zielwert. Im gegenteiligen Fall beträgt er Null.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image157.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image157.png)
 
-- 2\.6 Der Grenzwert des Ergänzungsbeitrags, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250101/de/xml/image/image158.png)</sub>, wird jährlich so festgelegt, dass die Gesamtbeiträge aller Kantone genau 180 Millionen Franken ergeben.
+- 2\.6 Der Grenzwert des Ergänzungsbeitrags, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/de/xml/image/image158.png)</sub>, wird jährlich so festgelegt, dass die Gesamtbeiträge aller Kantone genau 180 Millionen Franken ergeben.
 
 ### 3. Beiträge für das Jahr 2025
 
