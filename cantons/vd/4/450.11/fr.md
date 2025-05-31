@@ -4,7 +4,7 @@ number: "450.11"
 title: LOI du 30.08.2022 sur la protection du patrimoine naturel et paysager (LPrPNP)
 short: LPrPNP
 language: fr
-version: 2024-07-01
+version: 2025-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11?id=4a786a8c-4557-4af3-8af3-8f3e90811acf"
 ---
 
@@ -551,6 +551,55 @@ décrète
 <sup>2</sup> La subvention est calculée conformément à la loi du 3 décembre 1957 sur la police des eaux dépendant du domaine public[^33-1] (LPDP).
 
 [^33-1]: Loi du 03.12.1957 sur la police des eaux dépendant du domaine public ([BLV 721.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/721.01?id=ff4c6edf-3eb3-45fd-ba16-6ec5989c6433))
+[^33-2]: Modif. 2 du 25.02.2025: Introduction ; entrée en vigueur au 01.06.2025
+
+### Section IV Mesures spécifiques pour le Mormont
+
+[^33-2]
+
+#### Art. 33a
+
+**Principes [^sectionSectionIV-1]**
+
+<sup>1</sup> La colline du Mormont et ses milieux naturels et historiques attenants sont protégés, notamment pour leur rôle clé dans l'infrastructure écologique cantonale et la conservation du patrimoine archéologique et historique.
+
+<sup>2</sup> La protection est assurée par un plan d'affectation cantonal (PAC) qui en précise l'étendue.
+
+<sup>3</sup> Le PAC et son règlement ont notamment les objectifs suivants :
+
+- a. assurer la protection des valeurs paysagères et naturelles emblématiques du Mormont ;
+- b. assurer, pendant et après l'extraction complète des ressources incluses dans les périmètres de Mormont 6 et de La Birette, l'absence de nouvelle extension ;
+- c. permettre un comblement en cours d'exploitation aussi rapide que possible en vue d'atténuer les atteintes paysagères de l'exploitation ;
+- d. favoriser le transit de la faune par une restauration et la protection des corridors faunistiques qui le traversent ou le bordent ;
+- e. encourager la mise en réseau des milieux naturels (au sein du périmètre, mais aussi avec les milieux naturels environnants), notamment avec ceux du PAC Venoge et de la plaine de l'Orbe, via le canal d'Entreroches ;
+- f. préserver la mosaïque des milieux thermophiles et améliorer si besoin leur étendue et leur qualité pour favoriser les espèces rares et emblématiques ;
+- g. prendre en considération la protection du patrimoine archéologique et historique, notamment les fours à chaux, ainsi que les traces de l'ancien canal d'Entreroches, tant pour sa substance que pour son caractère paysager ;
+- h. encourager une gestion agricole et forestière qui soit favorable à la biodiversité et qui puisse contribuer à renforcer l'infrastructure écologique ;
+- i. éviter la réalisation ou l'exploitation de tout ouvrage ou installation qui pourrait contrecarrer les objectifs énoncés sous les lettres a, et c à h, hormis ceux nécessaires dans le cadre de la lettre b.
+
+[^sectionSectionIV-1]: Modif. 2 du 25.02.2025: Introduction Art. 33a; entrée en vigueur au 01.06.2025
+
+#### Art. 33b
+
+**Etablissement et adoption du plan [^33a-1]**
+
+<sup>1</sup> L'élaboration du PAC est conduite par le service en charge de l'aménagement du territoire, en collaboration avec le service en charge des carrières et de la protection de l'environnement.
+
+<sup>2</sup> Les articles 12 à 14 LATC s'appliquent à la procédure d'établissement et de modification du PAC.
+
+<sup>3</sup> Le Conseil d'Etat statue sur le PAC et sur les oppositions par une décision motivée.
+
+<sup>4</sup> La décision du Conseil d'Etat est susceptible d'un recours auprès du Tribunal cantonal avec libre pouvoir d'examen.
+
+[^33a-1]: Modif. 2 du 25.02.2025: Introduction Art. 33b; entrée en vigueur au 01.06.2025
+
+#### Art. 33c
+
+**Financement [^33b-1]**
+
+<sup>1</sup> Le financement des mesures d'entretien et de mise en réseau des milieux naturels peut faire l'objet d'un subventionnement conformément aux dispositions de l'article 56 et du règlement d'application.
+
+[^33b-1]: Modif. 2 du 25.02.2025: Introduction tArt; entrée en vigueur au 01.06.2025; Introduction Al. 1; entrée en vigueur au 01.06.2025; Introduction Art. 33c; entrée en vigueur au 01.06.2025
 
 ### Chapitre V Prévention, réduction et réparation des atteintes
 
