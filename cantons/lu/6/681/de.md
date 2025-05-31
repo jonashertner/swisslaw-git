@@ -3,20 +3,19 @@ canton: LU
 number: "681"
 title: Gebührentarif und Kostenverordnung für die Staatsverwaltung
 language: de
-version: 2025-01-01
-valid_until: 2025-05-31
-version_adopted: 2024-12-10
+version: 2025-06-01
+version_adopted: 2025-04-08
 adopted: 1982-05-28
 in_force: 1982-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/681"
-pdf: "https://srl.lu.ch/api/de/versions/4322/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif und Kostenverordnung für die Staatsverwaltung
 
-vom 28.05.1982 (Stand 01.01.2025)
+vom 28.05.1982 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -35,9 +34,9 @@ beschliesst:
 
 **Gebührenansätze**
 
-<sup>1</sup> Die Gebühren für Entscheide des Regierungsrates sowie für Verrichtungen der Staatskanzlei betragen:
+<sup>1</sup> Die Gebühren für Entscheide des Regierungsrates sowie für Entscheide und Verrichtungen der Staatskanzlei betragen:
 
-- 1\. Spruchgebühr für einen Entscheid des Regierungsrates: Fr. 300.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
+- 1\. Spruchgebühr für einen Entscheid des Regierungsrates oder der Staatskanzlei: Fr. 300.– bis Fr. 25 000.–. Bei grossen wirtschaftlichen Interessen der Parteien kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf Fr. 50 000.–.
 - 2\. …
 - 3\. Erstellen einer Kopie
   - a. für das erstmalige Kopieren des Originals, je Seite: Fr. 2.50
@@ -47,6 +46,7 @@ beschliesst:
 - 6\. …
 - 7\. …
 - 8\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn die anfragende Person ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
+- 8<sup>bis</sup>. Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip, nach Zeitaufwand von mehr als einer Stunde, pro Stunde: Fr. 85.– bis Fr. 275.–
 - 9\. …
 
 ## 2 Departemente und Dienststellen
@@ -66,6 +66,7 @@ beschliesst:
 - 5\. …
 - 6\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, wenn die anfragende Person ein wirtschaftliches Interesse an der Auskunft hat, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
 - 6<sup>bis</sup>. Vorprüfung von kommunalen Reglementen und Statuten von öffentlich-rechtlichen Genossenschaften des kantonalen Rechts, nach Zeitaufwand, pro Stunde: Fr. 85.– bis Fr. 275.–
+- 6<sup>ter</sup>. Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip, nach Zeitaufwand von mehr als einer Stunde, pro Stunde: Fr. 85.– bis Fr. 275.–
 - 7\. …
 - 8\. Apostillen und Legalisationen: Fr. 30.–
 
