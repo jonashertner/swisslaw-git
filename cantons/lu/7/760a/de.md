@@ -4,13 +4,12 @@ number: 760a
 title: Wasserbauverordnung
 short: WBV
 language: de
-version: 2020-01-01
-valid_until: 2025-05-31
-version_adopted: 2019-10-15
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 2019-10-15
 in_force: 2020-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/760a"
-pdf: "https://srl.lu.ch/api/de/versions/3481/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3481/pdf_file"
 
 (WBV)
 
-vom 15.10.2019 (Stand 01.01.2020)
+vom 15.10.2019 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 3 Absatz 3, 6 Absatz 3, 8 Absatz 6, 9 Absatz 2, 10 Absatz 2, 17 Absatz 1, 20 Absatz 1, 28 Absatz 2 und 36 Absatz 5 des Wasserbaugesetzes vom 17. Juni 2019[^ingress-1],
+gestützt auf die §§ 3 Absatz 3, 6 Absatz 3, 8 Absatz 6, 9 Absatz 2, 10 Absatz 2, 17 Absatz 1, 17 Absatz 1<sup>bis</sup>, 20 Absatz 1, 28 Absatz 2 und 36 Absatz 5 des Wasserbaugesetzes vom 17. Juni 2019[^ingress-1],
 
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 
@@ -184,6 +183,11 @@ beschliesst:
 <sup>2</sup> In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen.
 
 <sup>3</sup> Spätestens mit Beginn der öffentlichen Bekanntmachung und bis zur rechtskräftigen Erledigung des Bewilligungsverfahrens ist das Wasserbauprojekt auf gut erkennbare Weise auszustecken oder zu markieren. Die Instruktions- und, während des Beschwerdeverfahrens, die Beschwerdeinstanz können die vorzeitige Beseitigung der Aussteckung oder Markierung verfügen, wenn es der Stand des Verfahrens erlaubt.
+
+<sup>4</sup> Auf die frühzeitige Unterbreitung des Entwurfs des Landerwerbsvertrags an die betroffenen Grundeigentümerschaften kann in der Regel verzichtet werden:
+
+- a. bei einem Erwerb von Flächen unter 20 m² oder
+- b. wenn die betroffenen Grundeigentümerschaften mit zumutbarem Aufwand nicht innert nützlicher Frist aufgefunden werden können.
 
 #### § 11
 
