@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 1. Januar 2025)
+vom 12. April 2006 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -525,14 +525,14 @@ Das SEM kann in ZEMIS bearbeitete Personendaten den folgenden Behörden oder Org
 
 <sup>2</sup> Den Behörden und Stellen nach Absatz 1 Buchstaben c und d dürfen nur die Personendaten in Anhang 2 bekannt gegeben werden.
 
-<sup>3</sup> Die Datenlieferungen im Rahmen der Verordnung vom 30. Juni 1993[^13-2] über die Durchführung von statistischen Erhebungen des Bundes und der Registerharmonisierungsverordnung vom 21. November 2007[^13-3] erfolgen über Sedex oder mittels elektronischen Datenträgers.[^13-4]
+<sup>3</sup> Die Datenlieferungen im Rahmen der Bundesstatistikverordnung vom 30. April 2025[^13-2] und der Registerharmonisierungsverordnung vom 21. November 2007[^13-3] erfolgen über Sedex oder mittels elektronischer Datenträger.[^13-4]
 
 <sup>4</sup> Die Daten nach Artikel 5 Absatz 2 Buchstabe a werden dem UID-Register des Bundesamtes für Statistik laufend in Form von elektronischen Datensätzen bekannt gegeben.[^13-5]
 
 [^13-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^13-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^13-3]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^13-4]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^13-4]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Fassung gemäss Anhang 3 Ziff. 1 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^13-5]: Eingefügt durch Anhang Ziff. 1 der V vom 26. Jan. 2011 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 
 #### Art. 14
@@ -671,10 +671,10 @@ Das SEM vernichtet die nicht archivwürdigen Personendaten in ZEMIS nach folgend
 
 <sup>5</sup>
 
-Es wirkt bei der jährlichen eidgenössischen Statistik des Bevölkerungsstandes, bei der Migrationsstatistik und bei der Erwerbstätigenstatistik mit. Es liefert dem Bundesamt für Statistik zur Erfüllung seiner Aufgaben gemäss der Statistikerhebungsverordnung vom 30. Juni 1993[^20-9]:
+Es wirkt bei der jährlichen eidgenössischen Erhebung für die Statistik der Bevölkerung und der Haushalte, bei der Migrationsstatistik und bei der Erwerbstätigenstatistik mit. Es liefert dem Bundesamt für Statistik zur Erfüllung seiner Aufgaben nach der Bundesstatistikverordnung vom 30. April 2025[^20-9]:[^20-10]
 
 - a. regelmässig Einzeldaten über Bestand und Bewegungen der in ZEMIS aufgeführten Ausländerinnen und Ausländer;
-- b. die für die Erstellung der Sozialhilfestatistik notwendigen Daten über Asylsuchende, vorläufig Aufgenommene und Flüchtlinge.[^20-10]
+- b. die für die Erstellung der Sozialhilfestatistik notwendigen Daten über Asylsuchende, vorläufig Aufgenommene und Flüchtlinge.[^20-11]
 
 <sup>6</sup> Es kann den auf ZEMIS zugriffsberechtigten Stellen bewilligen, aufgrund ihrer eigenen Daten selbst Statistiken zu erstellen.
 
@@ -686,8 +686,9 @@ Es wirkt bei der jährlichen eidgenössischen Statistik des Bevölkerungsstandes
 [^20-6]: Diese Abk. sind in Anhang 4 Ziff. 1 aufgeführt.
 [^20-7]: Diese Abk. sind in Anhang 4 Ziff. 2 aufgeführt.
 [^20-8]: Fassung gemäss Ziff. I 1 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^20-10]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^20-10]: Fassung gemäss Anhang 3 Ziff. 1 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -785,14 +786,14 @@ Anhang 1[^t-1]
 
 ### Zeichenerklärung
 
-**Zugriffsstufen**
+Zugriffsstufen
 
 - A Online-Abfrage
 - B Bearbeiten
 - W Weitergabe über eine Informatikplattform im Einzelfall
 - Leer Kein Zugriff
 
-**Organisationseinheiten**
+Organisationseinheiten
 
 - AV Auslandvertretungen und Missionen
 - BA Bundesanwaltschaft: Dienst Urteilsvollzug
@@ -830,7 +831,6 @@ Anhang 1[^t-1]
 - LV Vollzugsbehörden von Landesverweisungen
 - ZAS Zentrale Ausgleichsstelle
 - ZstB Kantonale und kommunale Zivilstandsbehörden
-- [tab]
 
 [^annex1-lvlu1-lvlu1-1]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
 
@@ -1251,7 +1251,7 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-lvlu2-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex1-lvlu1-lvlu2-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex1-lvlu1-lvlu2-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^annex1-lvlu1-lvlu2-4]: Verordnung vom 22. Mai 2002 über den freien Personenverkehr ([SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261))
+[^annex1-lvlu1-lvlu2-4]: Verordnung vom 22. Mai 2002 über den freien Personenverkehr ([SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260))
 
 Anhang 2[^t-2]
 

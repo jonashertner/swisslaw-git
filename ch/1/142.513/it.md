@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 1° gennaio 2025)
+del 12 aprile 2006 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -511,14 +511,14 @@ La SEM può, in un caso specifico o periodicamente, comunicare alle seguenti aut
 
 <sup>2</sup> Alle autorità e ai servizi di cui al capoverso 1 lettere c e d possono essere comunicati soltanto i dati personali di cui all’allegato 2.
 
-<sup>3</sup> Gli invii dei dati nell’ambito dell’ordinanza del 30 giugno 1993[^13-2] sull’esecuzione di rilevazioni statistiche federali e dell’ordinanza del 21 novembre 2007[^13-3] sull’armonizzazione dei registri avvengono attraverso Sedex o mediante un supporto elettronico di dati.[^13-4]
+<sup>3</sup> Gli invii dei dati nell’ambito dell’ordinanza del 30 aprile 2025[^13-2] sulla statistica federale e dell’ordinanza del 21 novembre 2007[^13-3] sull’armonizzazione dei registri avvengono attraverso sedex o mediante un supporto elettronico di dati.[^13-4]
 
 <sup>4</sup> I dati di cui all’articolo 5 capoverso 2 lettera a sono comunicati progressivamente al registro IDI dell’Ufficio federale di statistica sotto forma di record elettronici.[^13-5]
 
 [^13-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^13-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^13-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^13-4]: Introdotto dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^13-4]: Introdotto dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^13-5]: Introdotto dall’all. n. 1 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 
 #### Art. 14
@@ -657,10 +657,10 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 
 <sup>5</sup>
 
-Collabora alla stesura della statistica federale sullo stato annuale della popolazione, di quelle sulla migrazione e sull’attività lucrativa. La SEM fornisce all’Ufficio federale di statistica per l’adempimento dei suoi compiti conformemente all’ordinanza del 30 giugno 1993[^20-9] sulle rilevazioni statistiche:
+Collabora alla stesura della rilevazione federale annuale per la statistica della popolazione e delle economie domestiche, la statistica sulla migrazione e la statistica delle persone occupate. La SEM fornisce all’Ufficio federale di statistica per l’adempimento dei suoi compiti conformemente all’ordinanza del 30 aprile 2025[^20-9] sulla statistica federale:[^20-10]
 
 - a. a scadenze regolari, dati singoli su effettivi e movimento degli stranieri registrati nel SIMIC;
-- b. i dati relativi ai richiedenti l’asilo, alle persone ammesse provvisoriamente e ai rifugiati, necessari per la stesura della statistica dell’aiuto sociale.[^20-10]
+- b. i dati relativi ai richiedenti l’asilo, alle persone ammesse provvisoriamente e ai rifugiati, necessari per la stesura della statistica dell’aiuto sociale.[^20-11]
 
 <sup>6</sup> Può autorizzare i servizi con diritto d’accesso al SIMIC ad allestire statistiche in base ai loro propri dati.
 
@@ -672,8 +672,9 @@ Collabora alla stesura della statistica federale sullo stato annuale della popol
 [^20-6]: Tali Acc. sono menzionati nell’all. 4 n. 1.
 [^20-7]: Tali Acc. sono menzionati nell’all. 4 n. 2.
 [^20-8]: Nuovo testo giusta la cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^20-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^20-10]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-11]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -823,7 +824,7 @@ Allegato 1[^t-1]
 
 <table>
 <tr><th>Denominazione dei campi di dati</th><th colspan="2">SEM</th><th></th><th colspan="2"></th><th></th><th></th><th colspan="4">Partner SEM</th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2"></th><th colspan="3"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th colspan="3">CP</th><th colspan="2">ASC</th><th colspan="3">fedpol</th><th colspan="2"></th><th></th><th></th><th>SIC</th><th>TAF I</th><th>UCC</th><th>RSE</th><th>DFAE</th><th>TAF II</th><th>UFG</th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>AFD</th><th>UFAS</th><th>AEG</th><th>ACEP</th><th>MPC</th></tr>
+<tr><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th colspan="3">CP</th><th colspan="2">ASC</th><th colspan="3">fedpol</th><th colspan="2"></th><th></th><th></th><th>SIC</th><th>TAF I</th><th>UCC</th><th>RSE</th><th>DFAE</th><th>TAF II</th><th>UFG</th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>UDSC</th><th>UFAS</th><th>AEG</th><th>ACEP</th><th>MPC</th></tr>
 <tr><th></th><th>I</th><th>II</th><th colspan="2">III</th><th colspan="2">IV</th><th>V</th><th></th><th></th><th></th><th colspan="3"></th><th colspan="2"></th><th>I</th><th>II</th><th colspan="2">III</th><th colspan="3">IV</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="42">I. Dati di base</td></tr>
 <tr><td colspan="42">1. Identità</td></tr>
@@ -1236,7 +1237,7 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-lvlu2-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex1-lvlu1-lvlu2-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex1-lvlu1-lvlu2-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^annex1-lvlu1-lvlu2-4]: O del 22 mag. 2002 sull’introduzione della libera circolazione ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)).
+[^annex1-lvlu1-lvlu2-4]: O del 22 mag. 2002 sull’introduzione della libera circolazione ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260)).
 
 Allegato 2[^t-2]
 

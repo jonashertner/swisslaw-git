@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250101/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (État le 1<sup>er</sup> janvier 2025)
+du 12 avril 2006 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -523,15 +523,15 @@ Le SEM peut, dans un cas particulier ou périodiquement, communiquer, sous forme
 
 <sup>2</sup> Ne sont communiquées aux autorités et services visés à l’al. 1, let. c et d que les données personnelles mentionnées à l’annexe 2.
 
-<sup>3</sup> Les livraisons de données effectuées en application de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^13-3] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^13-4] se font via sedex ou au moyen de supports électroniques de données.[^13-5]
+<sup>3</sup> Les livraisons de données effectuées en application de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^13-3] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^13-4] se font via sedex ou au moyen de supports électroniques de données.[^13-5]
 
 <sup>4</sup> Les données visées à l’art. 5, al. 2, let. a, sont communiquées de manière continue sous forme de banques de données au registre IDE de l’OFS.[^13-6]
 
 [^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^13-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^13-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
 [^13-4]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^13-5]: Introduit par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^13-5]: Introduit par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^13-6]: Introduit par l’annexe ch. 1 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
@@ -670,10 +670,10 @@ Le SEM détruit les données personnelles du SYMIC qui sont sans valeur archivis
 
 <sup>5</sup>
 
-Il collabore à l’établissement de la statistique fédérale annuelle de l’effectif de la population, de la migration et de l’activité lucrative. Pour permettre à l’Office fédéral de la statistique d’accomplir ses tâches conformément à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^20-9], il lui fournit:
+Il collabore à l’établissement du relevé fédéral annuel pour la statistique de la population et des ménages, à la statistique de la migration et à la statistique de la population active occupée. Pour permettre à l’Office fédéral de la statistique d’accomplir ses tâches conformément à l’ordonnance du 30 avril 2025 sur la statistique fédérale[^20-9], il lui fournit:[^20-10]
 
 - a. à intervalles réguliers, les données relatives à l’effectif des étrangers enregistrés dans le SYMIC et à son évolution;
-- b. les données relatives aux requérants d’asile, aux personnes admises à titre provisoire et aux réfugiés, qui sont nécessaires à l’établissement de la statistique de l’aide sociale.[^20-10]
+- b. les données relatives aux requérants d’asile, aux personnes admises à titre provisoire et aux réfugiés, qui sont nécessaires à l’établissement de la statistique de l’aide sociale.[^20-11]
 
 <sup>6</sup> Il peut autoriser les services ayant un accès en ligne au SYMIC d’établir des statistiques sur la base des données qu’ils ont eux-mêmes enregistrées.
 
@@ -685,8 +685,9 @@ Il collabore à l’établissement de la statistique fédérale annuelle de l’
 [^20-6]: Ces Ac. sont mentionnés à l’annexe 4, ch. 1.
 [^20-7]: Ces Ac. sont mentionnés à l’annexe 4, ch. 2.
 [^20-8]: Nouvelle teneur selon le ch. I 1 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^20-10]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^20-10]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-11]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -1249,7 +1250,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-lvlu2-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex1-lvlu1-lvlu2-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex1-lvlu1-lvlu2-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^annex1-lvlu1-lvlu2-4]: Ordonnance du 22 mai 2002 sur la libre circulation des personnes ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261))
+[^annex1-lvlu1-lvlu2-4]: Ordonnance du 22 mai 2002 sur la libre circulation des personnes ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/260))
 
 Annexe 2[^t-2]
 
