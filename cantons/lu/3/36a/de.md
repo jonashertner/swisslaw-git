@@ -4,13 +4,12 @@ number: 36a
 title: Verordnung über die Information der Öffentlichkeit durch den Regierungsrat und die Verwaltung
 short: "Informationsverordnung, InfoV"
 language: de
-version: 2017-09-01
-valid_until: 2025-05-31
-version_adopted: 2017-07-07
+version: 2025-06-01
+version_adopted: 2025-04-08
 adopted: 2017-07-07
 in_force: 2017-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/36a"
-pdf: "https://srl.lu.ch/api/de/versions/3126/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3126/pdf_file"
 
 (Informationsverordnung, InfoV)
 
-vom 07.07.2017 (Stand 01.09.2017)
+vom 07.07.2017 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -37,7 +36,9 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Information der Öffentlichkeit durch den Regierungsrat und die Verwaltung.
+<sup>1</sup> Diese Verordnung regelt die Information der Öffentlichkeit durch den Regierungsrat und die Verwaltung sowie den Vollzug des Öffentlichkeitsprinzips gemäss den §§ 68a ff. des Organisationsgesetzes (OG) vom 13. März 1995[^1-1].
+
+[^1-1]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 
 #### § 2
 
@@ -164,7 +165,7 @@ beschliesst:
 
 <sup>2</sup> Auf Gesuch akkreditiert werden Medien und Medienschaffende, sofern sie regelmässig über den Kanton Luzern berichten.
 
-<sup>3</sup> Gesuchstellerinnen und Gesuchsteller haben anzugeben, für welche Redaktion sie arbeiten. Die Staatskanzlei kann Bestätigungen der Auftraggeber verlangen. Änderungen in den Auftragsverhältnissen sind der Staatskanzlei zu melden.
+<sup>3</sup> Gesuchstellende Personen haben anzugeben, für welche Redaktion sie arbeiten. Die Staatskanzlei kann Bestätigungen der Auftraggeber verlangen. Änderungen in den Auftragsverhältnissen sind der Staatskanzlei zu melden.
 
 <sup>4</sup> Die Entscheide der Staatskanzlei können mit Verwaltungsbeschwerde beim Regierungsrat angefochten werden.
 
@@ -195,5 +196,111 @@ beschliesst:
 **Verzeichnis der Informationsempfängerinnen und -empfänger**
 
 <sup>1</sup> Die Staatskanzlei führt ein Verzeichnis der Informationsempfängerinnen und -empfänger und stellt es den Departementen und den Informationsbeauftragten zur Verfügung.
+
+## 6 Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip
+
+### 6.1 Allgemeines
+
+#### § 18
+
+**Amtliche Informationen**
+
+<sup>1</sup> Amtliche Informationen im Sinn von § 68a OG sind Informationen, die
+
+- a. auf einem Informationsträger aufgezeichnet sind,
+- b. sich auf die Erfüllung einer öffentlichen Aufgabe beziehen.
+
+<sup>2</sup> Als amtliche Informationen gelten insbesondere von den Verwaltungsorganen erstellte Dokumente, wie Mitteilungen, Stellungnahmen, Berichte, Studien und andere schriftliche Aufzeichnungen eines Geschäftsdossiers, Statistiken sowie Richtlinien, Weisungen, Beschlüsse und Entscheide.
+
+#### § 19
+
+**Amtliche Dokumente des Regierungsrates**
+
+<sup>1</sup> Zu den Verhandlungsunterlagen des Regierungsrates, deren Zugang ausgeschlossen ist, gehören insbesondere Entwürfe, Anträge, Mitberichte und Stellungnahmen der Departemente und der Staatskanzlei.
+
+<sup>2</sup> Diesen Unterlagen gleichgestellt sind die Unterlagen, die dem Departementsvorsteher oder der Departementsvorsteherin zur Vor- und Nachbereitung der Regierungsratssitzungen dienen.
+
+<sup>3</sup> Im Rahmen der Grundsätze des Öffentlichkeitsprinzips zugänglich sind insbesondere
+
+- a. die Beschlüsse, die in Form eines formellen Regierungsratsbeschlusses oder in Briefform ergehen (z. B. Vollmachtschreiben) und Wahlurkunden,
+- b. Entscheide gemäss Gesetz über die Verwaltungsrechtspflege (VRG) vom 13. März 1995[^19-1],
+- c. die Vorlagen des Regierungsrates an den Kantonsrat nach dem Kantonsratsgesetz[^19-2] (Botschaften, Berichte, Stellungnahmen zu parlamentarischen Vorstössen usw.),
+- d. die rechtsetzenden Erlasse.
+
+<sup>4</sup> Zum Zwecke der Rechtsanwendung und für wissenschaftliche Arbeiten kann ausnahmsweise Einsicht in das Protokoll und die Verhandlungsunterlagen des Regierungsrates gewährt werden.
+
+[^19-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^19-2]: SRL Nr. [30](https://srl.lu.ch/data/30/de)
+
+#### § 20
+
+**Zuständigkeit**
+
+<sup>1</sup> Zuständig für Gesuche im Zusammenhang mit amtlichen Informationen des Regierungsrates sowie für Einsichtsgesuche gemäss § 19 Absatz 4 ist der Regierungsrat. Das Departement, welches das Geschäft unterbreitet hat, oder die Staatskanzlei, wenn sie das Geschäft unterbreitet hat, stellt Antrag.
+
+<sup>2</sup> Zuständig für Gesuche um Zugang zu amtlichen Informationen übriger Verwaltungsorgane ist die Staatskanzlei oder die Dienststelle, welche die Informationen erstellt hat, durch Dritte hat erstellen lassen oder von Dritten als Hauptadressaten erhalten hat.
+
+<sup>3</sup> Das zuständige Verwaltungsorgan kann andere Organe anhören. Vorbehalten bleibt die Beiladung Dritter.
+
+### 6.2 Verfahren
+
+#### § 21
+
+**Bezeichnung des Gegenstands**
+
+<sup>1</sup> Im Gesuch um Zugang zu amtlichen Informationen muss der Gegenstand in thematischer und zeitlicher Hinsicht hinreichend genau bezeichnet sein.
+
+<sup>2</sup> Ist das Gesuch ungenügend spezifiziert, namentlich auf ganze Bestände von Datenbanken oder unbestimmte Zeiträume gerichtet, teilt das Verwaltungsorgan dies der gesuchstellenden Person mit und fordert sie auf, das Gesuch zu präzisieren. Ansonsten wird es nicht behandelt.
+
+#### § 22
+
+**Zugangsgewährung**
+
+<sup>1</sup> Das Verwaltungsorgan gewährt den Zugang zu amtlichen Informationen, indem es der gesuchstellenden Person in der Regel eine elektronische Ausfertigung oder eine Kopie zur Verfügung stellt. In besonderen Fällen gewährt sie den Zugang durch Einsichtnahme am Sitz der Verwaltungsstelle.
+
+<sup>2</sup> Mit Einverständnis der gesuchstellenden Person kann das Organ über den Inhalt der nachgesuchten Informationen mündlich Auskunft erteilen.
+
+#### § 23
+
+**Fristen**
+
+<sup>1</sup> Der Zugang zu amtlichen Informationen ist in der Regel innert 20 Tagen seit Eingang des Gesuch zu gewähren oder es ist innert dieser Frist der gesuchstellenden Person Mitteilung nach § 68f Absätzen 2 oder 3 OG zu geben. Bezieht sich das Gesuch auf amtliche Informationen des Regierungsrates, beträgt die Frist in der Regel 30 Tage.
+
+<sup>2</sup> Die Verwaltungsorgane berücksichtigen bei der Bearbeitung von Gesuchen von akkreditierten Medien und Medienschaffenden soweit möglich deren Bedürfnis nach aktueller Berichterstattung.
+
+#### § 24
+
+**Gebühren**
+
+<sup>1</sup> Das Verwaltungsorgan erhebt Gebühren gemäss Gebührentarif und Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^24-1], wenn ihm für die Behandlung des Gesuchs ein erheblicher Aufwand entsteht.
+
+<sup>2</sup> Als erheblicher Aufwand gilt, wenn für die Behandlung eines Zugangsgesuchs mehr als eine Stunde aufgewendet werden muss.
+
+<sup>3</sup> Als ausserordentlich gilt der Aufwand, wenn für die Behandlung eines Zugangsgesuchs mehr als zwei Stunden aufgewendet werden müssen.
+
+<sup>4</sup> Die Behandlung umfasst die Suche in den elektronischen Informations-, Geschäftsverwaltungs- und Dokumentationssystemen oder den Aktenablagen sowie die inhaltliche Prüfung, die Anonymisierung, die Anhörung Dritter einschliesslich die weitere Aufbereitung für die Zugangsgewährung.
+
+<sup>5</sup> Das Organ teilt der gesuchstellenden Person die voraussichtliche Gebührenhöhe sobald als möglich mit. Es kann die Leistung eines Kostenvorschusses verlangen, bevor das Gesuch weiterbearbeitet wird.
+
+[^24-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+
+#### § 25
+
+**Gebührenverzicht**
+
+<sup>1</sup> Auf die Erhebung einer Gebühr kann ganz oder teilweise verzichtet werden, wenn das Gesuch von Medien oder Medienschaffenden gestellt wird und in Zusammenhang mit der politischen Wissens- und Willensbildung steht.
+
+### 6.3 Vollzug
+
+#### § 26
+
+<sup>1</sup> Unter der Leitung des Justiz- und Sicherheitsdepartementes sorgt ein interdepartementales Gremium insbesondere für eine Vereinheitlichung der Praxis der Verwaltung zum Öffentlichkeitsprinzip. Das Gremium
+
+- a. stellt für das Verwaltungspersonal aller Departemente und der Staatskanzlei eine Informationsplattform zum Thema Öffentlichkeitsprinzip zur Verfügung,
+- b. führt bei Bedarf Schulungen durch.
+
+<sup>2</sup> Die Staatskanzlei und die Departemente melden dem Gremium die verlangten statistischen Angaben und orientieren es über besondere Vorkommnisse im Zusammenhang mit dem Vollzug des Öffentlichkeitsprinzips.
+
+<sup>3</sup> Das Gremium erstattet der Konferenz der Departementssekretärinnen und -sekretäre Bericht.
 
 G 2017-087
