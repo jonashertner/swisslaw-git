@@ -4,13 +4,13 @@ number: "20"
 title: Gesetz über die Organisation von Regierung und Verwaltung
 short: "Organisationsgesetz, OG"
 language: de
-version: 2021-09-01
-valid_until: 2025-05-31
-version_adopted: 2021-05-10
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-21
 adopted: 1995-03-13
 in_force: 1995-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/20"
-pdf: "https://srl.lu.ch/api/de/versions/3787/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3787/pdf_file"
 
 (Organisationsgesetz, OG)
 
-vom 13.03.1995 (Stand 01.09.2021)
+vom 13.03.1995 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -699,13 +699,104 @@ beschliesst:
 
 **…**
 
+## 5a Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip
+
+#### § 68a
+
+**Grundsätze**
+
+<sup>1</sup> Die Verwaltungsorgane gewähren auf Gesuch hin Zugang zu amtlichen Informationen, die sie bei der Erfüllung ihrer Aufgaben erstellt oder erhalten haben, und informieren auf Anfrage über ihre Tätigkeit, soweit nicht besondere Vorschriften und überwiegende öffentliche oder schützenswerte private Interessen entgegenstehen.
+
+<sup>2</sup> Ein überwiegendes öffentliches Interesse liegt insbesondere vor, wenn der Zugang zu amtlichen Informationen
+
+- a. die öffentliche Sicherheit und Ordnung gefährden kann,
+- b. die freie Meinungs- und Willensbildung der Verwaltungsorgane beeinträchtigen kann,
+- c. die Ausführung oder die Wirkung von Massnahmen gefährden kann,
+- d. die Beziehungen mit den Behörden inner- und ausserhalb des Kantons beeinträchtigen kann.
+
+<sup>3</sup> Ein schützenswertes privates Interesse liegt insbesondere vor, wenn die Privatsphäre und Berufs-, Geschäfts- oder Fabrikationsgeheimnisse zu wahren sind.
+
+<sup>4</sup> Der Schutz von Personendaten richtet sich nach dem Kantonalen Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^68a-1].
+
+[^68a-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
+
+#### § 68b
+
+**Besondere Vorschriften**
+
+<sup>1</sup> Bei Verfahren der Zivil- und der Strafrechtspflege, bei Schlichtungs-, Schieds-, Amtshilfe- und Rechtshilfeverfahren sowie bei Verfahren mit Schul-, Berufs- und Fähigkeitsprüfungen ist ausschliesslich das massgebende Verfahrensrecht anzuwenden.
+
+<sup>2</sup> Der Zugang zu den Akten von Verwaltungsverfahren richtet sich nach dem massgeblichen Verfahrensrecht, insbesondere dem Gesetz über die Verwaltungsrechtspflege (VRG) vom 3. Juli 1972[^68b-1].
+
+<sup>3</sup> Der Zugang zu Unterlagen, welche die Verwaltungsorgane dem Staatsarchiv abgeliefert haben, richtet sich ausschliesslich nach den Bestimmungen des Gesetzes über das Archivwesen (Archivgesetz) vom 16. Juni 2003[^68b-2].
+
+<sup>4</sup> Weitere besondere gesetzliche Vorschriften, welche die Geheimhaltung von amtlichen Informationen vorschreiben oder den Informationszugang regeln, bleiben vorbehalten.
+
+[^68b-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^68b-2]: SRL Nr. [585](https://srl.lu.ch/data/585/de)
+
+#### § 68c
+
+**Ausschluss des Zugangs**
+
+<sup>1</sup> Kein Zugang besteht zu amtlichen Informationen,
+
+- a. deren Aufzeichnung noch nicht fertiggestellt ist,
+- b. die für gewerbliche Leistungen genutzt werden,
+- c. die Verhandlungspositionen in laufenden oder künftigen Verhandlungen betreffen,
+- d. die als Hilfsmittel bei der Aufgabenerfüllung dienen, namentlich Skizzen, Notizen und Agenden.
+
+<sup>2</sup> Amtliche Informationen sind erst zugänglich, wenn der Entscheid oder der Beschluss, für den sie die Grundlage bilden, getroffen oder gefasst ist. Zu Protokollen über den Verlauf nichtöffentlicher Sitzungen besteht kein Zugang.
+
+<sup>3</sup> Zu den Verhandlungsunterlagen des Regierungsrates besteht kein Zugang.
+
+#### § 68d
+
+**Aufschub des Zugangs**
+
+<sup>1</sup> Der Zugang zu amtlichen Informationen kann aufgeschoben werden, wenn zunächst die Öffentlichkeit informiert werden soll.
+
+#### § 68e
+
+**Recht auf Zugang zu amtlichen Informationen**
+
+<sup>1</sup> Anspruch auf Zugang zu amtlichen Informationen hat jede Person.
+
+<sup>2</sup> Das vom Regierungsrat in der Verordnung bezeichnete Verwaltungsorgan gewährt den Zugang, indem es die Informationen zustellt. Soweit erforderlich sind zuvor Informationen und Daten, die nicht zugänglich gemacht werden können, zu entfernen oder zu anonymisieren. Vorbehalten bleibt der ausnahmsweise Zugang zu Personendaten und Daten juristischer Personen sowie Daten der Personengesellschaften des Handelsrechts, wenn das öffentliche Interesse an den amtlichen Informationen das Interesse an der Geheimhaltung überwiegt.
+
+<sup>3</sup> Sind die Informationen veröffentlicht worden, kann das Organ lediglich die Fundstelle angeben.
+
+<sup>4</sup> Für erheblichen Aufwand können Gebühren erhoben werden. Das zuständige Verwaltungsorgan weist die gesuchstellende Person vorgängig auf die Gebührenpflicht hin.
+
+<sup>5</sup> Ist der Aufwand ausserordentlich hoch, namentlich wegen des Umfangs der nachgesuchten amtlichen Informationen, kann der Zugang von der Glaubhaftmachung eines schutzwürdigen Interesses abhängig gemacht werden.
+
+#### § 68f
+
+**Verfahren**
+
+<sup>1</sup> Wer Zugang zu amtlichen Informationen beansprucht, stellt ein Gesuch, das den Gegenstand hinreichend genau bezeichnet und sich auf eine bestimmbare Aufgabe bezieht. Eine Begründung ist nicht erforderlich.
+
+<sup>2</sup> Sind Interessen von Dritten betroffen, gibt das Verwaltungsorgan den betroffenen Dritten Gelegenheit zur Stellungnahme innert angemessener Frist.
+
+<sup>3</sup> Zieht das Organ die Abweisung des Gesuchs in Betracht, teilt es dies der gesuchstellenden Person kostenlos mit. Die gesuchstellende Person kann innert zehn Tagen seit Zustellung der Mitteilung einen beschwerdefähigen Entscheid verlangen.
+
+<sup>4</sup> Zieht das Organ in Betracht, dem Gesuch entgegen der eingeholten Stellungnahme zu entsprechen, teilt es dies den betroffenen Dritten mit. Das Recht, einen beschwerdefähigen Entscheid zu verlangen, steht auch diesen zu.
+
+<sup>5</sup> Im Übrigen richtet sich das Verfahren, unter Einschluss der Kosten, nach dem Gesetz über die Verwaltungsrechtspflege. Das Organ entscheidet in einem raschen Verfahren.
+
+#### § 68g
+
+**Rechtsschutz**
+
+<sup>1</sup> Entscheide über den Zugang zu amtlichen Informationen können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
+
 ## 6 Übergangs- und Schlussbestimmungen
 
 #### § 69
 
 **Organisationsverordnung**
 
-<sup>1</sup> Der Regierungsrat regelt die Einzelheiten der Organisation, der Führung und der Kontrolle der Verwaltung sowie die Information der Öffentlichkeit und das Vernehmlassungsverfahren durch Verordnung.
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten der Organisation, der Führung und der Kontrolle der Verwaltung sowie der Information der Öffentlichkeit, den Informationszugang nach dem Öffentlichkeitsprinzip und das Vernehmlassungsverfahren durch Verordnung.
 
 #### § 70
 
@@ -718,6 +809,12 @@ beschliesst:
 - a. in den Kulturgüterschutz- und Kulturförderungserlassen, ausgenommen die Erlasse über das Archivwesen, sowie in den Erlassen über das Jugendförderungswesen die Bezeichnung Justiz-, Gemeinde- und Kulturdepartement durch Bildungs- und Kulturdepartement,
 - b. in den Erlassen über das Vermessungswesen die Bezeichnung Justiz-, Gemeinde- und Kulturdepartement durch Bau-, Umwelt- und Wirtschaftsdepartement,
 - c. in den Erlassen über die Niederlassung und den Aufenthalt sowie die Zwangsmassnahmen im Ausländerrecht, über das Handelsregisterwesen und das Gastgewerbewesen die Bezeichnung Wirtschaftsdepartement durch Justiz- und Sicherheitsdepartement.
+
+#### § 70a
+
+**Einführung des Öffentlichkeitsprinzips durch Änderung vom 21. Oktober 2024**
+
+<sup>1</sup> Die Bestimmungen des Teils 5a über den Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip gemäss der Änderung vom 21. Oktober 2024 werden auf die amtlichen Informationen angewendet, welche ab dem Inkrafttreten dieser Änderung angelegt werden.
 
 #### § 71
 
