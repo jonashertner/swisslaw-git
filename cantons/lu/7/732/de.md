@@ -4,13 +4,12 @@ number: "732"
 title: Verordnung über Grundeigentümer-Beiträge an öffentliche Werke
 short: "Perimeterverordnung, PV"
 language: de
-version: 2014-01-01
-valid_until: 2025-05-31
-version_adopted: 2013-10-29
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 1969-10-16
 in_force: 1969-11-01
 url: "https://srl.lu.ch/app/de/texts_of_law/732"
-pdf: "https://srl.lu.ch/api/de/versions/2665/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2665/pdf_file"
 
 (Perimeterverordnung, PV)
 
-vom 16.10.1969 (Stand 01.01.2014)
+vom 16.10.1969 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -244,7 +243,7 @@ beschliesst:
 
 <sup>1</sup> Wo nicht nur an die Bau-, sondern auch an die Betriebs- und Unterhaltskosten Beiträge erhoben werden, bleibt die einmal ermittelte anteilmässige Beitragspflicht grundsätzlich unverändert. Sie darf von der Gemeinde nur bei wesentlicher Veränderung der gemäss den §§ 7–9 massgebenden Verhältnisse von Amtes wegen oder auf begründetes Gesuch eines beteiligten Grundeigentümers hin abgeändert werden.
 
-<sup>2</sup> Die Neufestsetzung der anteilmässigen Beitragspflicht ist den betreffenden Grundeigentümern mit eingeschriebenem Brief mitzuteilen. Im übrigen gelten für das Verfahren die §§ 20 ff.
+<sup>2</sup> Die Neufestsetzung der anteilmässigen Beitragspflicht ist den betreffenden Grundeigentümern schriftlich mitzuteilen. Im Übrigen gelten für das Verfahren die §§ 20 ff.
 
 ### 2.2 Verfahren
 
@@ -267,7 +266,7 @@ beschliesst:
 
 **Mitteilung**
 
-<sup>1</sup> Der Kostenverteiler ist den Eigentümern der beitragspflichtigen Grundstücke mit eingeschriebenem Brief vollumfänglich mitzuteilen.
+<sup>1</sup> Der Kostenverteiler ist den Eigentümern der beitragspflichtigen Grundstücke vollumfänglich schriftlich mitzuteilen.
 
 <sup>2</sup> Der Beitragsplan ist entweder dem Kostenverteiler beizulegen oder durch die Gemeinde während 30 Tagen zur Einsichtnahme bereitzuhalten. Zur Einsichtnahme ist jedermann berechtigt, der ein Interesse glaubhaft macht.
 
