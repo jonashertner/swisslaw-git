@@ -4,13 +4,12 @@ number: "630"
 title: Gesetz betreffend die Erbschaftssteuern
 short: EStG
 language: de
-version: 2025-01-01
-valid_until: 2025-05-31
-version_adopted: 2024-03-18
+version: 2025-06-01
+version_adopted: 2024-10-21
 adopted: 1908-05-27
 in_force: 1908-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/630"
-pdf: "https://srl.lu.ch/api/de/versions/4342/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4342/pdf_file"
 
 (EStG)
 
-vom 27.05.1908 (Stand 01.01.2025)
+vom 27.05.1908 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -159,6 +158,12 @@ beschliesst:
 <sup>6</sup> Die Rechtsmittelfristen betragen 30 Tage.
 
 [^15-1]: Gemäss Gesetz über die Schaffung des Kantonsgerichtes vom 14. Mai 2012, in Kraft seit dem 1. Juni 2013 (G 2012 189), wurde die Bezeichnung «Verwaltungsgericht» durch «Kantonsgericht» ersetzt.
+
+#### § 15a
+
+<sup>1</sup> Für die Geheimhaltungspflicht, die Amtshilfe und die Mitwirkungspflichten der steuerpflichtigen Person sowie für die Bescheinigungs-, Auskunfts- und Meldepflicht Dritter gelten zusätzlich die Bestimmungen des Steuergesetzes vom 22. November 1999[^15a-1] sinngemäss.
+
+[^15a-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
 #### § 16
 
