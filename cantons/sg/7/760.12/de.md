@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "760.12"
-title: Verordnung über die amtliche Vermessung
+title: Vermessungsverordnung
 language: de
-version: 2021-10-01
-valid_until: 2025-05-31
-version_adopted: 2021-06-29
+version: 2025-06-01
+version_adopted: 2025-04-29
 adopted: 2019-05-14
 in_force: 2019-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/760.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3252/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3782/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die amtliche Vermessung
+# Vermessungsverordnung
 
-vom 14.05.2019 (Stand 01.10.2021)
+vom 14.05.2019 (Stand 01.06.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -35,58 +34,71 @@ als Verordnung:[^ingress-2]
 
 **Vermessungsaufsicht**
 
-<sup>1</sup> Die Abteilung Vermessung im Amt für Raumentwicklung und Geoinformation hat die Aufsicht über die amtliche Vermessung.
+<sup>1</sup> Die Abteilung Vermessung im Amt für Raumentwicklung und Geoinformation hat die Aufsicht über die kantonale Vermessung.
 
 <sup>2</sup> Sie:
 
-- a) ist zuständig für die Leitung, Verifikation und Genehmigung der amtlichen Vermessung;
-- b) erlässt die notwendigen technischen und administrativen Weisungen im Bereich der amtlichen Vermessung und koordiniert Vermessungsvorhaben mit anderen Geodatenprojekten;
+- a) ist zuständig für die Leitung, Verifikation und Genehmigung der kantonalen Vermessung;
+- b) erlässt die notwendigen technischen und administrativen Weisungen im Bereich der kantonalen Vermessung und koordiniert Vermessungsvorhaben mit anderen Geodatenprojekten;
 - c) ist die kantonale Koordinationsstelle für das Gebäude- und Wohnungsregister[^1-1];
-- d) steht unter der Leitung der Kantonsgeometerin oder des Kantonsgeometers, die oder der im eidgenössischen Register als Ingenieur-Geometerin oder Ingenieur-Geometer eingetragen ist.
+- d) steht unter der weisungsfreien fachlichen Leitung[^1-2] der Kantonsgeometerin oder des Kantonsgeometers, die oder der im eidgenössischen Register als Ingenieur-Geometerin oder Ingenieur-Geometer eingetragen ist.
 
 [^1-1]: Vgl. Art. 5 der eidgenössischen Verordnung über das eidgenössische Gebäude- und Wohnungsregister vom 9. Juni 2017, SR [431.841](https://db.clex.ch/link/Bund/431.841/de).
+[^1-2]: Vgl. [Art. 42](https://db.clex.ch/link/Bund/211.432.2/de) der eidgenössischen Verordnung über die amtliche Vermessung vom 18. November 1992, SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
+
+#### Art. 1a
+
+**Kantonale Vermessung**
+
+<sup>1</sup> Die kantonale Vermessung (VMSG) umfasst die amtliche Vermessung nach Bundesrecht und die ergänzenden kantonalen Geobasisdaten zur amtlichen Vermessung.
+
+<sup>2</sup> Daten der amtlichen Vermessung nach Bundesrecht sind die durch die Bundesgesetzgebung bezeichneten Geobasisdatensätze.
+
+<sup>3</sup> Die ergänzenden kantonalen Geobasisdaten zur amtlichen Vermessung werden als VMSG-Ergänzungen bezeichnet.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Erlass ist anwendbar auf die Daten der amtlichen Vermessung sowie auf Auszüge und Auswertungen davon.
+<sup>1</sup> Dieser Erlass ist anwendbar auf die Daten der kantonalen Vermessung sowie auf Auszüge und Auswertungen davon.
 
-<sup>2</sup> Daten der amtlichen Vermessung sind die durch die Bundesgesetzgebung bezeichneten Geobasisdatensätze einschliesslich der kantonalen Mehranforderungen.
+<sup>2</sup> …
 
-<sup>3</sup> Für Umfang, Inhalt und Beschreibung der Objekte und ihrer Attribute sind die Datenmodelle der amtlichen Vermessung im Kanton St.Gallen massgeblich.[^2-1]
+<sup>3</sup> Für Umfang, Inhalt und Beschreibung der Objekte und ihrer Attribute sind die Datenmodelle des Bundes und die ergänzenden Datenmodelle des Kantons St.Gallen massgeblich.[^2-1]
 
-<sup>4</sup> Auszüge und Auswertungen der amtlichen Vermessung sind insbesondere:
+<sup>4</sup> Auszüge und Auswertungen sind insbesondere:
 
 - a) der Plan für das Grundbuch;
 - b) die Mutationsurkunde;
 - c) die Grundstückbeschreibung für den Austausch mit dem Grundbuch über eine anerkannte Schnittstelle;
-- d) der Übersichtsplan: ein weitgehend aus den Daten der amtlichen Vermessung generierter Plan im Massstab 1:2'500 bis 1:10'000;
+- d) der Übersichtsplan: ein weitgehend aus den Daten der kantonalen Vermessung generierter Plan im Massstab 1:2'500 bis 1:10'000;
 - e) der Perimeterplan für Gebiete mit dauernden Bodenverschiebungen.
+
+<sup>5</sup> Weitere Auszüge und Auswertungen können mit VMSG-Ergänzungen ausgestellt werden.
 
 [^2-1]: In der Gesetzessammlung nicht veröffentlicht. Die Datenmodelle sind unter www.geoinformation.sg.ch zugänglich.
 
 #### Art. 3
 
-**Kantonale Mehranforderungen**
+**VMSG-Ergänzungen**
 
-<sup>1</sup> Der durch das Bundesrecht vorgeschriebene Inhalt der amtlichen Vermessung wird durch folgende Themen erweitert:[^3-1]
+<sup>1</sup> Die VMSG-Ergänzungen umfassen Folgendes:
 
-- a) Gemeindestrassenplan nach Art. 12 des Strassengesetzes vom 12. Juni 1988[^3-2];
+- a) Gemeindestrassenplan nach Art. 12 des Strassengesetzes vom 12. Juni 1988[^3-1];
 - b) Höhenkurven;
-- c) Dienstbarkeiten;
-- d) Übersichtsplan.
+- c) …
+- d) Übersichtsplan;
+- e) Modellergänzungen zur amtlichen Vermessung.
 
-<sup>2</sup> Die eidgenössischen Vorschriften über die amtliche Vermessung werden auf die Mehranforderungen sachgemäss angewendet.
+<sup>2</sup> Die eidgenössischen Vorschriften über die amtliche Vermessung werden auf die VMSG-Ergänzungen sachgemäss angewendet.
 
-[^3-1]: Vgl. Art. 10 der eidgenössischen Verordnung über die amtliche Vermessung vom 18. November 1992, SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
-[^3-2]: sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
+[^3-1]: sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
 
 #### Art. 4
 
 **Verhältnis zum Geoinformationsrecht**
 
-<sup>1</sup> Soweit dieser Erlass keine besonderen Vorschriften enthält, gelten für die Daten der amtlichen Vermessung die Verordnungsvorschriften im Bereich Geoinformation.
+<sup>1</sup> Soweit dieser Erlass keine besonderen Vorschriften enthält, gelten für die Daten der kantonalen Vermessung die Verordnungsvorschriften im Bereich Geoinformation.
 
 #### Art. 5
 
@@ -123,7 +135,7 @@ als Verordnung:[^ingress-2]
 - b) öffentlich-rechtliche Körperschaften und andere juristische Personen des öffentlichen Rechts;
 - c) private Geometerbüros.
 
-<sup>2</sup> Der Auftragnehmer steht unter der Leitung einer Ingenieur-Geometerin oder eines Ingenieur-Geometers, die oder der im eidgenössischen Register eingetragen ist.
+<sup>2</sup> Der Auftragnehmer steht unter der weisungsfreien Leitung einer Ingenieur-Geometerin oder eines Ingenieur-Geometers, die oder der im eidgenössischen Register eingetragen ist.
 
 <sup>3</sup> Die Auftragserteilung an Dritte erfolgt durch Vertrag, im Fall der eigenen Dienststelle durch Dienstanweisung.
 
@@ -133,6 +145,14 @@ als Verordnung:[^ingress-2]
 
 [^8-1]: Vgl. Art. 44 der eidgenössischen Verordnung über die amtliche Vermessung vom 18. November 1992, SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
 [^8-2]: sGS [760.1](https://www.gesetzessammlung.sg.ch/data/760.1/de).
+
+#### Art. 8a
+
+**Ermächtigung**
+
+<sup>1</sup> Der Kanton ermächtigt alle von den Gemeinden nach [Art. 31](https://www.gesetzessammlung.sg.ch/data/760.12/de/art31) dieses Erlasses beauftragten Ingenieur-Geometerinnen und Ingenieur-Geometer sowie deren Stellvertretungen zur Unterzeichnung von Mutationsurkunden und beglaubigten Auszügen.[^8a-1]
+
+[^8a-1]: Vgl. [Art. 46a](https://db.clex.ch/link/Bund/211.432.2/de) der eidgenössischen Verordnung über die amtliche Vermessung vom 18. November 1992, SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
 
 ## II. Vermarkung
 
@@ -237,13 +257,13 @@ als Verordnung:[^ingress-2]
 - a) nimmt der Zuschlagsempfänger eigene Kontrollen vor;
 - b) stellt die Vermessungsaufsicht eine begleitende Verifikation während der Arbeitsausführung sicher.
 
-<sup>3</sup> Während der Erneuerung verbleibt die laufende Nachführung aller Informationsebenen bei der Nachführungsstelle. Über Ausnahmen entscheidet die Vermessungsaufsicht.
+<sup>3</sup> Während der Erneuerung verbleibt die laufende Nachführung grundsätzlich bei der Nachführungsstelle. Über Ausnahmen entscheidet die Vermessungsaufsicht.
 
 #### Art. 19
 
 **Verifikation**
 
-<sup>1</sup> Alle Bestandteile der amtlichen Vermessung unterliegen der Prüfung durch die Vermessungsaufsicht.
+<sup>1</sup> Alle Bestandteile der kantonalen Vermessung unterliegen der Prüfung durch die Vermessungsaufsicht.
 
 <sup>2</sup> Die Verifikation wird in der Regel innerhalb eines Jahres nach Abgabe abgeschlossen.
 
@@ -307,7 +327,12 @@ als Verordnung:[^ingress-2]
 
 **Nachführungsobjekte**
 
-<sup>1</sup> Nachführungsobjekte sind sämtliche Objekte der anerkannten Informationsebenen gemäss Objektkatalog nach Bundesrecht zuzüglich kantonaler Mehranforderungen.
+<sup>1</sup> Nachführungsobjekte sind sämtliche Objekte der kantonalen Vermessung.
+
+<sup>2</sup> Die politischen Gemeinden:
+
+- a) führen Nachführungsobjekte in ihrer Zuständigkeit originär in den Daten nach;
+- b) integrieren Nachführungsobjekte in Zuständigkeit von Bund und Kanton mit geeigneten technischen Mitteln in den Gesamtdatensatz.
 
 #### Art. 27
 
@@ -358,31 +383,43 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Als Nachführungsstelle beauftragt die politische Gemeinde einen Auftragnehmer nach Art. 8 dieses Erlasses.
 
-<sup>2</sup> Nimmt sie in Aussicht, ein privates Geometerbüro zu beauftragen, führt sie eine öffentliche Ausschreibung durch.[^31-1]
+<sup>2</sup> Nimmt sie in Aussicht, ein privates Geometerbüro zu beauftragen, führt sie eine öffentliche Ausschreibung durch.[^31-1] Die Ausschreibung der laufenden Nachführung wird durch die politische Gemeinde wenigstens ein halbes Jahr vor Beginn der Vertragsdauer durch Publikation im Amtsblatt bekannt gemacht.
+
+<sup>2<sup>bis</sup></sup> Mit der Bekanntmachung wird eine Frist von wenigstens einem Monat zur Einreichung von Bewerbungen angesetzt und über den Ablauf des Vergabeverfahrens informiert.
+
+<sup>2<sup>ter</sup></sup> Der Zuschlag erfolgt nach schriftlicher Bewerbung und mündlicher Präsentation nach folgenden Kriterien:
+
+- a) Qualifikation der Ingenieur-Geometerinnen oder Ingenieur-Geometer: 50 Prozent;
+- b) Unternehmenskonzept: 50 Prozent.
 
 <sup>3</sup> Der Vertrag mit einem privaten Geometerbüro hat eine Laufzeit von höchstens sechs Jahren, mit der Möglichkeit zur Verlängerung um insgesamt höchstens sechs weitere Jahre.
 
-<sup>4</sup> Die Vermessungsaufsicht stellt einen Muster-Nachführungsvertrag bereit und steht den politischen Gemeinden für die fachliche Unterstützung zur Verfügung.
+<sup>4</sup> Die Vermessungsaufsicht stellt einen Muster-Nachführungsvertrag sowie Hilfsmittel zu Inhalt und Ablauf des Bewerbungsverfahrens bereit und steht den politischen Gemeinden für die fachliche Unterstützung zur Verfügung.
 
 [^31-1]: Art. 45 Abs. 2 der eidgenössischen Verordnung über die amtliche Vermessung vom 18. November 1992, SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
 
 #### Art. 32
 
-**Gebühren für die Nachführung**
+**Kostentragung a) Grundsatz**
 
-<sup>1</sup> Wer die laufende Nachführung von Daten der amtlichen Vermessung verursacht, entrichtet der politischen Gemeinde eine Gebühr. Die Gebührenhöhe richtet sich nach Anhang 2 dieses Erlasses.
+<sup>1</sup> Wer die laufende Nachführung von Daten der kantonalen Vermessung verursacht, trägt die Kosten.
 
-<sup>2</sup> Die politische Gemeinde kann durch Reglement bestimmen, dass die Verursacherin oder der Verursacher anstelle der Gebühr die tatsächlichen Kosten der Vermessung trägt.
+<sup>2</sup> Die Abgeltung der Kosten erfolgt gegenüber der politischen Gemeinde durch:
+
+- a) eine Gebühr nach Anhang 2 dieses Erlasses oder
+- b) die Entschädigung der tatsächlichen Nachführungskosten.
+
+<sup>3</sup> Die Art der Abgeltung wird im Vertrag oder in der Dienstanweisung nach [Art. 8](https://www.gesetzessammlung.sg.ch/data/760.12/de/art8) Abs. 3 dieses Erlasses festgelegt.
 
 #### Art. 33
 
-**Tatsächliche Nachführungskosten**
+**b) tatsächliche Nachführungskosten**
 
-<sup>1</sup> Das Bau- und Umweltdepartement erlässt einen Leistungstarif für die Entschädigung der laufenden Nachführung.
+<sup>1</sup> Das Bau- und Umweltdepartement erlässt einen Leistungstarif für die Entschädigung der tatsächlichen Nachführungskosten.
 
-<sup>2</sup> Die Nachführungsstelle fordert die Entschädigung für die laufende Nachführung bei der politischen Gemeinde ein.
+<sup>2</sup> Die Nachführungsstelle fordert jeweils die Entschädigung der tatsächlichen Nachführungskosten bei der politischen Gemeinde ein.
 
-<sup>3</sup> Die politische Gemeinde kann mit der Nachführungsstelle vertraglich regeln, dass diese die Entschädigung direkt bei der Verursacherin oder beim Verursacher einfordert.
+<sup>3</sup> Die politische Gemeinde kann mit der Nachführungsstelle vertraglich regeln, dass diese die Entschädigung der tatsächlichen Nachführungskosten direkt bei der Verursacherin oder beim Verursacher einfordert.
 
 #### Art. 34
 
@@ -392,10 +429,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die politische Gemeinde regelt, welche weiteren kommunalen Stellen Veränderungen an Nachführungsobjekten direkt der Nachführungsstelle melden.
 
-<sup>3</sup> Folgende überkommunale Stellen melden weitere bauliche Veränderungen an Nachführungsobjekten:
+<sup>3</sup> Insbesondere folgende überkommunale Stellen melden weitere bauliche Veränderungen an Nachführungsobjekten:
 
 - a) das Kantonsforstamt über forstliche Einrichtungen, Rodungsbewilligungen und Aufforstungen;
-- b) der kantonale Rebbaukommissär über den Rebkataster;
+- b) das Landwirtschaftsamt über den Rebbaukataster;
 - c) das Amt für Natur, Jagd und Fischerei über Hoch und Flachmoore;
 - d) das Tiefbauamt über Kantonsstrassen erster und zweiter Klasse;
 - e) das Amt für Wasser und Energie über kantonale Gewässerbauten;
@@ -411,7 +448,7 @@ als Verordnung:[^ingress-2]
 
 **Bearbeitungsfrist**
 
-<sup>1</sup> Alle Bestandteile der amtlichen Vermessung, für deren Nachführung ein Meldewesen organisiert werden kann, werden innert drei bis sechs Monaten nach Eintreten der Veränderung nachgeführt.
+<sup>1</sup> Alle Bestandteile der kantonalen Vermessung, für deren Nachführung ein Meldewesen organisiert werden kann, werden innert drei bis sechs Monaten nach Eintreten der Veränderung nachgeführt.
 
 <sup>2</sup> Die Bearbeitungsfrist umfasst die Meldefrist der Meldestelle und die Nachführungsfrist der Nachführungsstelle.
 
@@ -430,7 +467,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 37
 
-**Nachführungsfristen a) Informationsebene Liegenschaften**
+**Nachführungsfristen a) Grundstücke**
 
 <sup>1</sup> Das Grundbuchamt legt die Frist für die Ausfertigung des Mutationsplans und der Mutationstabelle in Absprache mit der Nachführungsstelle fest.
 
@@ -440,19 +477,19 @@ als Verordnung:[^ingress-2]
 
 #### Art. 38
 
-**b) übrige Informationsebenen**
+**b) übrige Inhalte**
 
 <sup>1</sup> Die Nachführungsstelle plant die Arbeiten so, dass die Nachführungen in der Regel innert der Bearbeitungsfrist abgeschlossen werden können. Sie werden auf die Nachführungszyklen nach Art. 39 dieses Erlasses ausgerichtet. Neubauten und Nachführungen im Baugebiet werden priorisiert.
 
 <sup>2</sup> Projektierte Bauten und Gebäudeadressen werden innert eines Monats ab Baubewilligung nachgeführt.
 
-<sup>3</sup> Die Nachführungsstelle führt die Informationsebene administrative Einteilungen innert angemessener Frist selbständig nach.
+<sup>3</sup> Übrige Anpassungen erfolgen in Absprache mit der Vermessungsaufsicht.
 
 #### Art. 39
 
 **Datenprüfung und Verifikation**
 
-<sup>1</sup> Nach jeder Veränderung der Ebene Liegenschaften prüft die Nachführungsstelle die Daten mittels eines Prüfdienstes auf die wichtigsten Anforderungen bezüglich technischer Qualität.
+<sup>1</sup> Nach jeder Veränderung von Grundstücken prüft die Nachführungsstelle die Daten mittels eines Prüfdienstes auf die wichtigsten Anforderungen bezüglich technischer Qualität.
 
 <sup>2</sup> Ergänzend legt die Vermessungsaufsicht Nachführungszyklen fest, bei denen die Daten erhöhte Anforderungen zu erfüllen haben.
 
@@ -474,15 +511,15 @@ als Verordnung:[^ingress-2]
 
 **Berichtigungsmutation**
 
-<sup>1</sup> Zur Behebung von Widersprüchen in der amtlichen Vermessung beauftragt das Grundbuchamt auf Antrag der Vermessungsaufsicht die Nachführungsstelle mit einer Berichtigungsmutation.
+<sup>1</sup> Zur Behebung von Widersprüchen in der kantonalen Vermessung beauftragt das Grundbuchamt auf Antrag der Vermessungsaufsicht die Nachführungsstelle mit einer Berichtigungsmutation.
 
 #### Art. 42
 
 **Datenverwaltung**
 
-<sup>1</sup> Zum Nachführungsmandat der amtlichen Vermessung gehören insbesondere:
+<sup>1</sup> Zum Nachführungsmandat der kantonalen Vermessung gehören insbesondere:
 
-- a) die Verwaltung und Sicherung aller Daten, Akten und Pläne der amtlichen Vermessung;
+- a) die Verwaltung und Sicherung aller Daten, Akten und Pläne;
 - b) die Auskunftserteilung;
 - c) die Jahresberichterstattung an die kantonale Vermessungsaufsicht;
 - d) die regelmässige Datenprüfung und -lieferung.
@@ -499,15 +536,15 @@ als Verordnung:[^ingress-2]
 
 #### Art. 44
 
-**Zugang zu den Daten der amtlichen Vermessung**
+**Zugang zu den Daten der kantonalen Vermessung**
 
-<sup>1</sup> Die Daten der amtlichen Vermessung sind sowohl bei den Nachführungsstellen der amtlichen Vermessung als auch über die technische Geodateninfrastruktur zugänglich.
+<sup>1</sup> Die Daten der kantonalen Vermessung sind sowohl bei den Nachführungsstellen als auch über die technische Geodateninfrastruktur zugänglich.
 
-<sup>2</sup> Über die technische Geodateninfrastruktur können digitale Daten der amtlichen Vermessung kostenfrei bezogen werden.
+<sup>2</sup> Über die technische Geodateninfrastruktur können digitale Daten der kantonalen Vermessung kostenfrei bezogen werden.
 
-<sup>3</sup> Für den Bezug eines kundenspezifischen Ausschnitts digitaler Daten der amtlichen Vermessung bei der Nachführungsstelle wird eine Gebühr festgelegt.
+<sup>3</sup> Für den Bezug eines kundenspezifischen Ausschnitts digitaler Daten der kantonalen Vermessung bei der Nachführungsstelle wird eine Gebühr festgelegt.
 
-<sup>4</sup> Das Ausstellen beglaubigter Planauszüge sowie nachträgliche Beglaubigungen sind der eingetragenen Ingenieur-Geometerin oder dem eingetragenen Ingenieur-Geometer der Nachführungsstelle vorbehalten.
+<sup>4</sup> Das Ausstellen beglaubigter Planauszüge sowie nachträgliche Beglaubigungen richten sich nach [Art. 8a](https://www.gesetzessammlung.sg.ch/data/760.12/de/art8a) dieses Erlasses.
 
 <sup>5</sup> Bestätigungen für Situationspläne von Baueingaben können von Fachleuten der Nachführungsstellen vorgenommen werden, die bei der Vermessungsaufsicht gemeldet sind. Die Nachführungsstellen nehmen die Meldung jährlich vor.
 
@@ -585,14 +622,26 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Vermessungsaufsicht regelt das Verfahren für das Festsetzen, Erheben und Nachführen der Gebäudeadressen. Sie erlässt Weisungen über die Gebäudeadressierung.
 
-<sup>2</sup> Die Gebäudeadressen bestehen aus dem Ortschaftsnamen, der Postleitzahl, der Strassenbezeichnung und der Hausnummer. Sie bilden eine verbindliche Informationsebene der amtlichen Vermessung und werden mit dem Gebäude- und Wohnungsregister koordiniert.
+<sup>2</sup> Die Gebäudeadressen bestehen aus dem Ortschaftsnamen, der Postleitzahl, der Strassenbezeichnung und der Hausnummer. Sie sind Bestandteil der amtlichen Vermessung und werden mit dem Gebäude- und Wohnungsregister koordiniert.
 
 ## VII. Schlussbestimmungen
 
 #### Art. 52
 
-**Übergangsbestimmung**
+**…**
 
-<sup>1</sup> Alle bestehenden Nachführungsverträge werden innert sechs Jahren nach Vollzugsbeginn dieses Erlasses an das neue Recht angepasst.
+#### Art. 52a
+
+**Übergangsbestimmungen des Nachtrags vom 29. April 2025 a) Nachführungsmandate**
+
+<sup>1</sup> Die politischen Gemeinden schreiben Nachführungsmandate, die vor dem 1. Juni 2019 abgeschlossen wurden, bis spätestens zum 31. Mai 2026 im Sinn von [Art. 31](https://www.gesetzessammlung.sg.ch/data/760.12/de/art31) dieses Erlasses in der Fassung gemäss Nachtrag aus.
+
+#### Art. 52b
+
+**b) Wechsel Geodatenmodell**
+
+<sup>1</sup> Der Wechsel zum neuen Geodatenmodell der amtlichen Vermessung erfolgt für das ganze Kantonsgebiet auf den 31. Dezember 2027.[^52b-1] Die politischen Gemeinden sind verpflichtet, bis zu diesem Zeitpunkt die erforderliche Umstellung vorzunehmen.
+
+[^52b-1]: Vgl. [Art. 32](https://db.clex.ch/link/Bund/211.432.21/de) Abs. 2 der Verordnung des VBS über die amtliche Vermessung vom 24. August 2023, SR [211.432.21](https://db.clex.ch/link/Bund/211.432.21/de).
 
 nGS 2019-038
