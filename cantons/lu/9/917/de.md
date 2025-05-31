@@ -3,24 +3,23 @@ canton: LU
 number: "917"
 title: Verordnung über die kontrollierte Ursprungsbezeichnung für Weine
 language: de
-version: 2015-01-01
-valid_until: 2025-05-31
-version_adopted: 2014-11-28
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 2009-07-07
 in_force: 2009-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/917"
-pdf: "https://srl.lu.ch/api/de/versions/4431/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die kontrollierte Ursprungsbezeichnung für Weine
 
-vom 07.07.2009 (Stand 01.01.2015)
+vom 07.07.2009 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 178 Absatz 2 des Bundesgesetzes über die Landwirtschaft vom 29. April 1981[^ingress-1], Artikel 21 der Verordnung über den Rebbau und die Einfuhr von Wein vom 14. November 2007[^ingress-2], Artikel 8 Absatz 5 und Anhang 2 der Verordnung des EDI über alkoholische Getränke vom 29. November 2013[^ingress-3] sowie auf § 133 der Kantonalen Landwirtschaftsverordnung vom 3. November 1998[^ingress-4],
+gestützt auf Artikel 178 Absatz 2 des Bundesgesetzes über die Landwirtschaft vom 29. April 1981[^ingress-1], Artikel 21 der Verordnung über den Rebbau und die Einfuhr von Wein vom 14. November 2007[^ingress-2], Anhang 9 der Verordnung des EDI über Getränke vom 16. Dezember 2016[^ingress-3] sowie auf § 133 der Kantonalen Landwirtschaftsverordnung vom 3. November 1998[^ingress-4],
 
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 
@@ -28,7 +27,7 @@ beschliesst:
 
 [^ingress-1]: SR [910.1](https://db.clex.ch/link/Bund/910.1/de)
 [^ingress-2]: SR [916.140](https://db.clex.ch/link/Bund/916.140/de)
-[^ingress-3]: SR [817.022.110](https://db.clex.ch/link/Bund/817.022.110/de)
+[^ingress-3]: SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
 [^ingress-4]: SRL Nr. [903](https://srl.lu.ch/data/903/de)
 
 #### § 1
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>1</sup> KUB-/AOC-Weine dürfen nur aus den Rebsorten, die im Anhang 1 aufgeführt sind, sowie deren Mischungen hergestellt werden.
 
-<sup>2</sup> Die verarbeiteten Rebsorten sind auf der Flasche anzugeben.
+<sup>2</sup> Auf dem Flaschenetikett sind die Rebsorten anzugeben, aus denen der Wein zu mindestens 85 Prozent zusammengesetzt ist. Die Rebsorten sind in absteigender Reihenfolge ihres Mengenanteils aufzuführen. Ausgenommen davon sind Schaumweine.
 
 #### § 5
 
@@ -89,11 +88,11 @@ beschliesst:
 
 **Methoden der Weinbereitung**
 
-<sup>1</sup> KUB-/AOC-Weine müssen nach den im Anhang 3 aufgeführten anerkannten Methoden der guten önologischen Herstellungspraxis bereitet sein, und es müssen dabei mit Ausnahme der Anhebung des Gesamtalkoholgehalts die dafür geltenden Grenzen und Bedingungen gemäss Anhang 2 zur Verordnung des EDI über alkoholische Getränke vom 29. November 2013[^8-1] eingehalten werden.
+<sup>1</sup> KUB-/AOC-Weine müssen nach den anerkannten Methoden der guten önologischen Herstellungspraxis gemäss der Verordnung des EDI über Getränke vom 16. Dezember 2016[^8-1] bereitet sein.
 
 <sup>2</sup> Die Anreicherungsverfahren dürfen keine Anhebung des Gesamtalkohols der frischen Weintrauben, des Traubenmostes, des teilweise vergorenen Traubenmostes, des Jungweins oder des Weins auf über 15 Volumenprozente zur Folge haben.
 
-[^8-1]: SR [817.022.110](https://db.clex.ch/link/Bund/817.022.110/de)
+[^8-1]: SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
 
 #### § 9
 
