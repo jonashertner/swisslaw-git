@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Verordnung des EDI vom 20. November 2012 über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: de
-version: 2023-07-01
+version: 2025-06-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 
-vom 20. November 2012 (Stand am 1. Juli 2023)
+vom 20. November 2012 (Stand am 1. Juni 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -38,7 +38,7 @@ Anhang[^t-1]
 
 ## Gesamtschweizerisch einheitliche Struktur der Datensätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 3. Dez. 2021 ([AS 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) und Anhang der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 3. Dez. 2021 ([AS 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)), Anhang der V des EDI vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und Anhang 3 Ziff. 18 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### 1 Allgemeines
 
@@ -46,10 +46,11 @@ Anhang[^t-1]
 
 - CHOP Schweizerische Operationsklassifikation
 - GM German Modification
-- Medizinische Statistik Medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Verordnung vom 30. Juni 1993[^annexu1-lvlu1-lvl1-lvl11-1] über die Durchführung von statistischen Erhebungen des Bundes
+- SpiGes Erhebung der Daten der Leistungserbringer nach Artikel 59*a* des Bundesgesetzes vom 18. März 1994[^annexu1-lvlu1-lvl1-lvl11-1] über die Krankenversicherung und Artikel 30 der Verordnung vom 27. Juni 1995[^annexu1-lvlu1-lvl1-lvl11-2] über die Krankenversicherung im Bereich der Gesundheitsversorgung bei einem Spitalaufenthalt
 - ICD-10 Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme
 
-[^annexu1-lvlu1-lvl1-lvl11-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^annexu1-lvlu1-lvl1-lvl11-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annexu1-lvlu1-lvl1-lvl11-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 ### 1.2 Medizinischer Datensatz
 
@@ -99,7 +100,6 @@ Anhang[^t-1]
 <tr><td>Aufenthaltsort nach dem 3. Zwischenaustritt</td><td>4.8.V19</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozialmedizinische Institution 4 = psychiatrische Klinik, in einem anderen Betrieb 44 = psychiatrische Abteilung/Klinik, im gleichen Betrieb 5 = Rehabilitationsklinik, in einem anderen Betrieb 55 = Rehabilitationsabteilung/-klinik, im gleichen Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, im gleichen Betrieb 7 = Strafvollzugsanstalt 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
 <tr><td>Aufenthaltsort nach dem 4. Zwischenaustritt</td><td>4.8.V20</td><td>1 = zuhause 2 = Krankenheim, Pflegeheim 3 = Altersheim, andere sozialmedizinische Institution 4 = psychiatrische Klinik, in einem anderen Betrieb 44 = psychiatrische Abteilung/Klinik, im gleichen Betrieb 5 = Rehabilitationsklinik, in einem anderen Betrieb 55 = Rehabilitationsabteilung/ -klinik, im gleichen Betrieb 6 = anderes Krankenhaus (Akutspital) oder Geburtshaus 66 = Akutabteilung/-klinik, im gleichen Betrieb 7 = Strafvollzugsanstalt 8 = andere 9 = unbekannt 0 = Todesfall</td></tr>
 <tr><td>Einweisende Instanz</td><td>1.2.V04</td><td>1 = selbst, Angehörige 2 = Rettungsdienst (Ambulanz, Polizei) 3 = Arzt 4 = nichtmedizinische/r Therapeut/in 8 = andere 9 = unbekannt</td></tr>
-<tr><td></td><td></td><td>[tab]</td></tr>
 <tr><td>Behandlungsart</td><td>1.3.V01</td><td>1 = ambulant 3 = stationär 9 = unbekannt</td></tr>
 <tr><td>Klasse</td><td>1.3.V02</td><td>1 = allgemein 2 = halbprivat 3 = privat 9 = unbekannt</td></tr>
 <tr><td>Geburtsdatum der Mutter</td><td>2.3.V01</td><td>Datumsangabe (Jahr und Monat)</td></tr>

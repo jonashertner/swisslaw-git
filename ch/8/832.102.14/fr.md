@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Ordonnance du DFI du 20 novembre 2012 sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: fr
-version: 2023-07-01
+version: 2025-06-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 
-du 20 novembre 2012 (État le 1<sup>er</sup> juillet 2023)
+du 20 novembre 2012 (État le 1<sup>er</sup> juin 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -38,7 +38,7 @@ Annexe[^t-1]
 
 ## Structure uniforme au niveau suisse des fichiers de données
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 3 déc. 2021 ([RO 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) et l’annexe de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 3 déc. 2021 ([RO 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)), l’annexe de l’O du DFI du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et l’annexe 3 ch. 18 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### 1 Généralités
 
@@ -46,10 +46,11 @@ Annexe[^t-1]
 
 - CHOP Classification suisse des interventions chirurgicales
 - GM German Modification
-- Statistique médicale Statistique médicale des hôpitaux visée au ch. 62 de l’annexe de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^annexu1-lvlu1-lvl1-lvl11-1]
+- SpiGes Relevé des données des fournisseurs de prestations au sens de l’art. 59*a* de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^annexu1-lvlu1-lvl1-lvl11-1] et de l’art. 30 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^annexu1-lvlu1-lvl1-lvl11-2] dans le domaine des services de santé en cas de séjour hospitalier
 - CIM-10 Classification statistique internationale des maladies et des problèmes de santé connexes
 
-[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annexu1-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 ### 1.2 Fichier de données médicales
 

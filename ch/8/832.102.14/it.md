@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Ordinanza del DFI del 20 novembre 2012 sugli insiemi di dati per la trasmissione dei dati tra fornitori di prestazioni e assicuratori
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: it
-version: 2023-07-01
+version: 2025-06-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2012-867-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sugli insiemi di dati per la trasmissione dei dati tra fornitori di prestazioni e assicuratori
 
-del 20 novembre 2012 (Stato 1° luglio 2023)
+del 20 novembre 2012 (Stato 1° giugno 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -38,21 +38,19 @@ Allegato[^t-1]
 
 ## Struttura uniforme degli insiemi di dati valida in tutta la Svizzera
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 3 dic. 2021 ([RU 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) e dall’all. dell’O del DFI del 16 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+[^t-1]: Aggiornato dalla cifra I dell’O del DFI del 3 dic. 2021 ([RU 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)), dall’all. dell’O del DFI del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) e dall’all. 3 n. 18 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### 1 In generale
 
 ### 1.1 Abbreviazioni e definizioni
 
-CHOP Classificazione svizzera degli interventi chirurgici
+- CHOP Classificazione svizzera degli interventi chirurgici
+- GM German Modification
+- SpiGes Rilevazione dei dati dei fornitori di prestazioni ai sensi dell’articolo 59*a* della legge federale del 18 marzo 1994[^annexu1-lvlu1-lvl1-lvl11-1] sull’assicurazione malattie e dell’articolo 30 dell’ordinanza del 27 giugno 1995[^annexu1-lvlu1-lvl1-lvl11-2] sull’assicurazione malattie nell’ambito dell’assistenza sanitaria in caso di degenza ospedaliera
+- ICD-10 Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati
 
-GM German Modification
-
-Statistica medica Statistica medica degli stabilimenti ospedalieri di cui al numero 62 dell’allegato dell’ordinanza del 30 giugno 1993[^annexu1-lvlu1-lvl1-lvl11-1] sull’esecuzione di rilevazioni statistiche federali
-
-ICD-10 Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati
-
-[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annexu1-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 ### 1.2 Insieme di dati medici
 
