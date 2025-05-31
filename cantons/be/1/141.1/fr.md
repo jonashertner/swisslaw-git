@@ -4,13 +4,12 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2025-03-30
-valid_until: 2025-05-31
+version: 2025-06-01
 version_adopted: 2024-11-25
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3170/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3172/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3170/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 30.03.2025)
+du 05.06.2012 (état au 01.06.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -839,7 +838,7 @@ arrête:
 
 <sup>2</sup> Si deux ou plusieurs cercles électoraux ont les mêmes restes, la répartition est faite par tirage au sort (art. 92).
 
-<sup>3</sup> Des mandats sont garantis à la population de langue française du cercle électoral de Bienne-Seeland proportionnellement à la population totale du cercle électoral. Les décimales sont arrondies au chiffre supérieur à partir de cinq dixièmes.
+<sup>3</sup> Au sein du cercle électoral bilingue de Bienne-Seeland, la population de langue française se voit garantir un nombre de mandats correspondant à son pourcentage par rapport à la population de langue française et de langue allemande. Les décimales sont arrondies au chiffre supérieur à partir de cinq dixièmes.
 
 <sup>4</sup> La répartition des mandats entre les cercles électoraux est arrêtée et publiée dans la feuille officielle cantonale au moins cinq mois avant le scrutin.
 
@@ -1050,9 +1049,9 @@ arrête:
 
 #### Art. 88
 
-**Sièges garantis à la population francophone du cercle électoral de Bienne-Seeland 1. Principe**
+**Sièges garantis à la population francophone du cercle électoral bilingue de Bienne-Seeland 1. Principe**
 
-<sup>1</sup> Si à l’issue de la répartition des sièges au sens des articles 83 à 85 au sein du cercle électoral bilingue de Bienne-Seeland, les listes francophones n’ont pas obtenu les sièges qui leur sont garantis en vertu de l’article 64, alinéa 3, il est procédé à des transferts de sièges.
+<sup>1</sup> Si à l’issue de la répartition des sièges au sens des articles 83 à 85 dans le cercle électoral bilingue de Bienne-Seeland, tous les sièges garantis en vertu de l’article 64, alinéa 3 ne peuvent pas être occupés par des candidates ou des candidats francophones, il est procédé à des transferts de sièges.
 
 <sup>2</sup> Les transferts de sièges s’effectuent au sein des groupes de listes électorales francophones et germanophones d’un même groupement politique (art. 70) et ne doivent pas modifier le résultat de la répartition des sièges dans le cercle électoral.
 

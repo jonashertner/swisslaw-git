@@ -4,13 +4,12 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2025-03-30
-valid_until: 2025-05-31
+version: 2025-06-01
 version_adopted: 2024-11-25
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3170/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3172/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3170/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 30.03.2025)
+vom 05.06.2012 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -839,7 +838,7 @@ beschliesst:
 
 <sup>2</sup> Erreichen bei der Restverteilung gemäss Absatz 1 Buchstabe c zwei oder mehrere Wahlkreise die gleiche Restzahl, so entscheidet das Los (Art. 92).
 
-<sup>3</sup> Innerhalb des Wahlkreises Biel-Seeland werden der französischsprachigen Bevölkerung so viele Mandate garantiert, wie es ihrem prozentualen Anteil an der Gesamtbevölkerung des Wahlkreises entspricht. Bruchteile ab fünf Zehnteln werden aufgerundet.
+<sup>3</sup> Innerhalb des zweisprachigen Wahlkreises Biel-Seeland werden der französischsprachigen Bevölkerung so viele Mandate garantiert, wie es ihrem prozentualen Anteil an der französisch- und der deutschsprachigen Bevölkerung des Wahlkreises entspricht. Bruchteile ab fünf Zehnteln werden aufgerundet.
 
 <sup>4</sup> Der Beschluss über die Verteilung der Mandate auf die einzelnen Wahlkreise ist mindestens fünf Monate vor dem Wahltag zu fassen und im kantonalen Amtsblatt zu veröffentlichen.
 
@@ -1050,9 +1049,9 @@ beschliesst:
 
 #### Art. 88
 
-**Garantiesitze für die französischsprachige Bevölkerung im Wahlkreis Biel-Seeland 1. Grundsatz**
+**Garantiesitze für die französischsprachige Bevölkerung des zweisprachigen Wahlkreises Biel-Seeland 1. Grundsatz**
 
-<sup>1</sup> Haben nach der Sitzverteilung nach Artikel 83 bis 85 im zweisprachigen Wahlkreis Biel-Seeland die Listen der Französischsprachigen nicht die nach Artikel 64 Absatz 3 garantierte Anzahl Sitze erhalten, so werden Umverteilungen vorgenommen.
+<sup>1</sup> Ergibt die Sitzverteilung nach Artikel 83 bis 85 im zweisprachigen Wahlkreis Biel-Seeland, dass nicht alle nach Artikel 64 Absatz 3 garantierten Sitze mit französischsprachigen Kandidatinnen und Kandidaten besetzt werden können, so werden Umverteilungen vorgenommen.
 
 <sup>2</sup> Die Umverteilungen erfolgen innerhalb der gemischtsprachigen Listengruppen derselben politischen Gruppierung (Art. 70) und dürfen das Ergebnis der Sitzverteilung im Wahlkreis nicht ändern.
 
