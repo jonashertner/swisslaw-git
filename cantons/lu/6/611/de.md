@@ -4,13 +4,13 @@ number: "611"
 title: Verordnung über den Finanzausgleich
 short: FAV
 language: de
-version: 2020-01-01
-valid_until: 2025-05-31
-version_adopted: 2019-05-28
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-20
 adopted: 2002-12-03
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/611"
-pdf: "https://srl.lu.ch/api/de/versions/3517/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4761/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3517/pdf_file"
 
 (FAV)
 
-vom 03.12.2002 (Stand 01.01.2020)
+vom 03.12.2002 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -72,6 +72,10 @@ beschliesst:
 **Mindestausstattung**
 
 <sup>1</sup> Für die Festlegung der Mindestausstattung der Gemeinden wird die mittlere Wohnbevölkerung in der Dreijahresperiode nach Absatz 2 berücksichtigt.
+
+<sup>1<sup>bis</sup></sup> Die Mindestausstattung ist auf eine Hundertstelstelle genau zu bestimmen.
+
+<sup>1<sup>ter</sup></sup> Zur Bestimmung des Wachstums des Ressourcenausgleichs wird der Besitzstand nicht mitberücksichtigt.
 
 <sup>2</sup> Als massgebende Jahre im Sinn von § 5 Absatz 3 des Gesetzes gelten die Werte des fünften bis dritten Jahres vor dem Bezugsjahr. Es wird der mittlere Steuerfuss über diese drei Jahre nach der Definition gemäss § 4 Absatz 3 des Gesetzes errechnet und mit dem mittleren Steuerfuss der Gemeinden über die gleiche Periode verglichen.
 
