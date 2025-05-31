@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (État le 1<sup>er</sup> janvier 2024)
+du 17 août 2016 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -139,17 +139,18 @@ Les services énumérés ci-après peuvent consulter en ligne les données menti
 
 Les données mentionnées à l’annexe 1 sont transmises automatiquement et sous forme chiffrée aux services énumérés ci-après:
 
-- a. l’Office fédéral de la statistique: dans le cadre de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^8-1] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation des registres[^8-2];
+- a.[^8-1] l’Office fédéral de la statistique: dans le cadre de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^8-2] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation des registres[^8-3];
 - b. la CSC: pour la réalisation des mutations signalées par les représentations et qui concernent des dossiers gérés par la CSC;
 - c. la CdC: pour la vérification et l’attribution du numéro AVS.
 
 <sup>3</sup> Les représentations et la DC peuvent également communiquer des données saisies dans E-VERA à d’autres autorités, si ces dernières ont besoin de ces données pour accomplir leurs tâches.
 
-<sup>4</sup> Les annonces relatives aux changements concernant le droit de vote sont transmises de manière automatique et chiffrée aux autorités responsables du registre électoral, ou mises à leur disposition au moyen du guichet en ligne.[^8-3]
+<sup>4</sup> Les annonces relatives aux changements concernant le droit de vote sont transmises de manière automatique et chiffrée aux autorités responsables du registre électoral, ou mises à leur disposition au moyen du guichet en ligne.[^8-4]
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^8-1]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
 
@@ -262,7 +263,7 @@ La sécurité des données et la sécurité de l’information sont régies par:
 
 L’ordonnance VERA du 7 juin 2004[^16-1] est abrogée.
 
-[^16-1]: [[RO 2004 2997](https://fedlex.data.admin.ch/eli/oc/2004/381), [2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)annexe ch. 4,[2012 337](https://fedlex.data.admin.ch/eli/oc/2012/21)art. 19]
+[^16-1]: [[RO 2004 2997](https://fedlex.data.admin.ch/eli/oc/2004/381); [2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)annexe ch. 4;[2012 337](https://fedlex.data.admin.ch/eli/oc/2012/21)art. 19]
 
 #### Art. 17
 

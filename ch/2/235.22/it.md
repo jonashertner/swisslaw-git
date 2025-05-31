@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° gennaio 2024)
+del 17 agosto 2016 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ ordina:
 
 [^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 [^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -96,11 +96,11 @@ In E-VERA sono trattati i dati delle persone seguenti:
 
 <sup>3</sup> E-VERA verifica mediante una consultazione online se le persone registrate in E‑VERA sono segnalate nel sistema di ricerca informatizzato di polizia (RIPOL) per aver commesso un crimine o un delitto. Il risultato della consultazione non viene memorizzato in E-VERA.
 
-[^6-1]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-1]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 [^6-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^6-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-3]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 [^6-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^6-5]: Nuovo testo giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^6-5]: Nuovo testo giusta l’all. cifra II n. 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -125,9 +125,9 @@ I seguenti servizi possono consultare mediante procedura di richiamo tutti i dat
 
 <sup>5</sup> Le autorità competenti per il catalogo elettorale dispongono, per lo sportello online, dei diritti di accesso necessari a ricevere le notifiche concernenti cambiamenti relativi al diritto di voto.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^7-2]: Nuova espr. giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^7-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nuova espr. giusta l’all. cifra II n. 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^7-3]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -139,17 +139,18 @@ I seguenti servizi possono consultare mediante procedura di richiamo tutti i dat
 
 I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifrata ai seguenti servizi:
 
-- a. all’Ufficio federale di statistica: nell’ambito dell’ordinanza del 30 giugno 1993[^8-1] sulle rilevazioni statistiche e dell’ordinanza del 21 novembre 2007[^8-2] sull’armonizzazione dei registri;
+- a.[^8-1] all’Ufficio federale di statistica: nell’ambito dell’ordinanza del 30 aprile[^8-2] sulla statistica federale e dell’ordinanza del 21 novembre 2007[^8-3] sull’armonizzazione dei registri;
 - b. alla CSC: per l’esecuzione delle mutazioni notificate alle rappresentanze che riguardano dossier gestiti dalla CSC;
 - c. all’UCC: per la verifica e l’assegnazione del numero AVS.
 
 <sup>3</sup> Se altre autorità hanno bisogno dei dati registrati in E-VERA per l’adempimento dei loro compiti, le rappresentanze e la DC possono comunicarglieli.
 
-<sup>4</sup> Le notifiche concernenti cambiamenti relativi al diritto di voto vengono trasmesse alle autorità competenti per il catalogo elettorale automaticamente e in forma cifrata oppure mediante lo sportello online.[^8-3]
+<sup>4</sup> Le notifiche concernenti cambiamenti relativi al diritto di voto vengono trasmesse alle autorità competenti per il catalogo elettorale automaticamente e in forma cifrata oppure mediante lo sportello online.[^8-4]
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^8-1]: Nuovo testo giusta l’all. 3 n. 4 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
 
@@ -157,7 +158,7 @@ I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifr
 
 I documenti elaborati in E-VERA sono archiviati nel pertinente sistema di gestione degli affari. In E-VERA sono eliminati dopo l’elaborazione.
 
-[^8a-1]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 9
 
@@ -175,8 +176,8 @@ I dati relativi a una persona vengono distrutti dopo cinque anni dalla registraz
 
 <sup>2</sup> Sono fatte salve le disposizioni della legislazione federale in materia di archiviazione.
 
-[^9-1]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^9-2]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-1]: Nuovo testo giusta l’all. 2 cifra II n. 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: Nuovo testo giusta l’all. 2 cifra II n. 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 3: Diritti di accesso e gestione
 
@@ -210,7 +211,7 @@ I dati relativi a una persona vengono distrutti dopo cinque anni dalla registraz
 
 <sup>4</sup> I dati necessari per creare dossier personali elettronici nel sistema di gestione degli affari standardizzato GEVER sono trasmessi a GEVER mediante un’interfaccia.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 [^12-2]: [RS 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
 
 ## Sezione 4: Sicurezza dei dati
@@ -237,10 +238,10 @@ La sicurezza dei dati e delle informazioni è retta:[^14-1]
 
 <sup>2</sup> La DC emana un regolamento per il trattamento dei dati. Il regolamento contiene le misure organizzative e tecniche volte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^14-1]: Nuovo testo giusta l’all. 2 n. II 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-2]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-1]: Nuovo testo giusta l’all. 2 cifra II n. 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-2]: Nuovo testo giusta l’all. 2 cifra II n. 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^14-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-4]: Nuovo testo giusta l’all. 2 n. II 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: Nuovo testo giusta l’all. 2 cifra II n. 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^14-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 [^14-6]: Abrogata dall’all. n. 12 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
@@ -252,7 +253,7 @@ La sicurezza dei dati e delle informazioni è retta:[^14-1]
 
 <sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
 
-[^15-1]: Nuovo testo giusta l’all. 2 n. II 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-1]: Nuovo testo giusta l’all. 2 cifra II n. 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -286,7 +287,7 @@ Allegato 1[^t-1]
 
 ## Diritti di trattamento
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 Legenda:
 

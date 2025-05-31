@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2024-01-01
+version: 2025-06-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20240101/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. Januar 2024)
+vom 17. August 2016 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -140,17 +140,18 @@ Die folgenden Stellen können für die nachstehenden Zwecke die Daten nach Anhan
 
 Den folgenden Stellen werden die Daten nach Anhang 1 automatisch und verschlüsselt übermittelt:
 
-- a. dem Bundesamt für Statistik: im Rahmen der Statistikerhebungsverordnung vom 30. Juni 1993[^8-1] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-2];
+- a.[^8-1] dem Bundesamt für Statistik: im Rahmen der Bundesstatistikverordnung vom 30. April 2025[^8-2] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-3];
 - b. der SAK: zur Vornahme der den Vertretungen gemeldeten Mutationen, die Dossiers betreffen, die von der SAK verwaltet werden;
 - c. der ZAS: zur Verifizierung und Zuweisung der AHV-Nummer.
 
 <sup>3</sup> Die Vertretungen und die KD können im E-VERA erfasste Daten anderen Behörden bekannt geben, sofern diese die Daten zur Erfüllung ihrer Aufgaben benötigen.
 
-<sup>4</sup> Den für das Stimmregister zuständigen Behörden werden Meldungen zu Änderungen betreffend das Stimmrecht automatisch und verschlüsselt übermittelt oder über den Online-Schalter bereitgestellt.[^8-3]
+<sup>4</sup> Den für das Stimmregister zuständigen Behörden werden Meldungen zu Änderungen betreffend das Stimmrecht automatisch und verschlüsselt übermittelt oder über den Online-Schalter bereitgestellt.[^8-4]
 
-[^8-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^8-1]: Fassung gemäss Anhang 3 Ziff. 4 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
 
