@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/fr"
 
 (OAM)
 
-du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2025)
+du 10 novembre 1993 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -53,31 +53,28 @@ arrête:
 
 #### Art. 2
 
-**Membres du corps des instructeurs de l’armée, instructeurs de la protection civile et autres membres du personnel enseignant de l’armée**[^2-1]
+**Militaires de métier, militaires contractuels et instructeurs de l’Office fédéral de la protection de la population**[^2-1]
 
 <sup>1</sup>
 
-Sont réputés membres du corps des instructeurs de l’armée, au sens de l’art. 1*a*, al. 1, let. b, ch. 1, de la loi:
+Sont réputés militaires de métier, au sens de l’art. 1*a*, al. 1, let. b, ch. 1, de la loi:
 
-- a. les officiers et les sous-officiers de carrière au sens de l’art. 47 de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^2-2];
-- b. les candidats du corps des instructeurs de l’armée qui suivent une formation pour devenir officier ou sous-officier de carrière;
+- a. les officiers de carrière, les sous-officiers de carrière et les soldats de métier conformément à l’art. 47, al. 2, LAAM[^2-2];
+- b. les aspirants et candidats au titre d’officier de carrière ou de sous-officier de carrière;
 - c. les officiers généraux qui exercent une fonction ou un commandement à titre principal et qui sont considérés comme étant en service à plein temps.
 
-<sup>2</sup>
+<sup>2</sup> Sont réputés militaires contractuels, au sens de l’art. 1*a*, al. 1, let. b, ch. 2, de la loi, les officiers contractuels, les sous-officiers contractuels et les soldats contractuels conformément à l’art. 47, al. 3, LAAM.
 
-Sont réputés instructeurs de la protection civile, au sens de l’art. 1*a*, al. 1, let. b, ch. 7, de la loi:
+<sup>3</sup>
 
-- a. le chef de la division de l’instruction;
-- b. les chefs des sections de l’instruction, à l’exception du chef de la section de la planification, des centres d’instruction et des moyens d’enseignement;
-- c. les chefs instructeurs;
-- d. les moniteurs de cours;
-- e. les instructeurs;
-- f. les candidats instructeurs;
-- g. les employés de la Confédération nommés simultanément en qualité d’instructeur.
+Sont réputés instructeurs de l’Office fédéral de la protection de la population, au sens de l’art. 1*a*, al. 1, let. b, ch. 6, de la loi:
 
-<sup>3</sup> Est également réputé être au service de la Confédération selon l’art. 1*a*, al. 1, let. b, ch. 1, de la loi, quiconque participe en tant que cadre aux écoles et cours de l’armée ou accomplit d’autres activités pour l’armée et de ce fait entretient avec la Confédération des rapports de service régis par le droit public (soldat contractuel).
+- a. le chef de la division Protection civile et formation;
+- b. le chef des sections et des groupes de formation;
+- c. les employés de la Confédération qui assument des tâches d’instruction en raison de leur fonction;
+- d. les candidats instructeurs.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^2-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 3
@@ -247,27 +244,28 @@ La suspension de l’assurance selon l’art. 3, al. 2, de la loi est limitée a
 
 **Hôpitaux, établissements de cure et centres de dépistage[^11-1]**
 
-<sup>1</sup> Sont réputés hôpitaux au sens de l’art. 22, al. 3, de la loi les établissements suisses ou leurs divisions qui, placés sous direction médicale permanente et disposant d’un personnel soignant en suffisance, dûment formé, ainsi que d’installations médicales appropriées, servent au traitement hospitalier des atteintes à la santé ou aux mesures hospitalières de réadaptation médicale.[^11-2]
+<sup>1</sup> Sont réputés hôpitaux au sens de l’art. 22, al. 2, de la loi les établissements suisses ou leurs divisions qui, placés sous direction médicale permanente et disposant d’un personnel soignant en suffisance, dûment formé, ainsi que d’installations médicales appropriées, servent au traitement hospitalier des atteintes à la santé ou aux mesures hospitalières de réadaptation médicale.[^11-2]
 
-<sup>2</sup> Sont réputées établissements de cure au sens de l’art. 22, al. 3, de la loi, les institutions qui, placées sous direction médicale et disposant d’un personnel en suffisance, dûment formé, ainsi que d’installations appropriées, servent au traitement complémentaire en milieu hospitalier ou à une cure.[^11-3]
+<sup>2</sup> Sont réputés établissements de cure au sens de l’art. 22, al. 2, de la loi les institutions qui, placées sous direction médicale et disposant d’un personnel en suffisance, dûment formé, ainsi que d’installations appropriées, servent au traitement complémentaire ou à une cure.[^11-3]
 
-<sup>3</sup> Sont réputés établissements de soins les établissements publics ainsi que les homes privés reconnus d’utilité publique non compris aux al. 1 et 2 et qui offrent le logement, les soins et l’assistance aux personnes âgées ou infirmes.
+<sup>3</sup> Sont réputés établissements de soins les établissements médico-sociaux mentionnés sur la liste cantonale des établissements médico-sociaux au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^11-4].[^11-5]
 
 <sup>4</sup> Sont réputées centres de dépistage les institutions de l’assurance-invalidité et de l’assurance-accidents obligatoire servant à l’examen des mesures médicales et professionnelles requises en vue de l’amélioration ou du maintien de la capacité de gain.
 
 [^11-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-5]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
 
-**Chiropraticiens, sages-femmes, personnel paramédical et laboratoires**[^12-1]
+**Chiropraticiens, sages-femmes, personnel paramédical, organisations qui emploient du personnel paramédical et laboratoires**[^12-1]
 
-Les chiropraticiens, les sages-femmes, les personnes prodiguant des soins sur prescription médicale (personnel paramédical) et les laboratoires autorisés à pratiquer à titre indépendant, au sens des art. 44, 45, 47 à 50*a*, 53 et 54 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^12-2], peuvent aussi pratiquer à la charge de l’assurance militaire. Le Département fédéral de l’intérieur (DFI[^12-3]) peut désigner d’autres professions paramédicales qui, dans les limites d’une autorisation cantonale, peuvent être exercées à la charge de l’assurance militaire.
+Les chiropraticiens, les sages-femmes, les personnes prodiguant des soins sur prescription médicale (personnel paramédical), les organisations qui emploient du personnel paramédical et les laboratoires autorisés visés aux art. 44, 44*a*, 45, 45*a*, 47 à 50*d*, 51 à 52*f*, 53 et 54 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^12-2] peuvent aussi pratiquer à la charge de l’assurance militaire. Le Département fédéral de l’intérieur (DFI) peut désigner d’autres professions paramédicales qui, dans les limites d’une autorisation cantonale, peuvent être exercées à la charge de l’assurance militaire.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5081](https://fedlex.data.admin.ch/eli/oc/2004/786)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^12-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^12-3]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 13
 
@@ -277,21 +275,22 @@ Les chiropraticiens, les sages-femmes, les personnes prodiguant des soins sur pr
 
 Sont applicables par analogie pour la fixation des tarifs:
 
-- a. l’art. 43, al. 2 et 3, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^13-2].
+- a.[^13-2] l’art. 43, al. 2 et 3, LAMal[^13-3];
 - b. l’art. 49, al. 1 et 3 à 6, LAMal.
 
 <sup>2</sup> Les tarifs sont calculés en fonction de critères d’économie d’entreprise, tout en veillant à une structure adéquate des tarifs. Le tarif couvre au plus les coûts de la prestation qui sont justifiés de manière transparente et les coûts nécessaires à la fourniture efficiente des prestations.
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 13a
 
 **Calcul des coûts et classement des prestations**[^13a-1]
 
-L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico-sociaux dans l’assurance-maladie[^13a-2] s’applique par analogie aux hôpitaux et établissements de cure mentionnés à l’art. 22, al. 2 et 3, de la loi. Les services spécialisés compétents de la Confédération, l’association Commission des tarifs médicaux LAA ainsi que les partenaires tarifaires ont accès aux documents.
+L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico-sociaux dans l’assurance-maladie[^13a-2] s’applique par analogie aux hôpitaux et établissements de cure mentionnés à l’art. 22, al. 2, de la loi. Les services spécialisés compétents de la Confédération, l’association Commission des tarifs médicaux LAA ainsi que les partenaires tarifaires ont accès aux documents.
 
-[^13a-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13a-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 
 #### Art. 13b
@@ -302,11 +301,11 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>2</sup> Le délai de dénonciation des conventions sur la collaboration et les tarifs est d’au moins six mois.
 
-<sup>3</sup> Les art. 59*f*, 59*h* et 59*i* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^13b-2] sont applicables par analogie à la communication des données au sens de l’art. 26, al. 3<sup>bis</sup>, de la loi, ainsi qu’à leur transmission, leur sécurité et leur conservation.[^13b-3]
+<sup>3</sup> Les art. 59*f*, 59*h* et 59*i* de l’OAMal[^13b-2] sont applicables par analogie à la communication des données au sens de l’art. 26, al. 3<sup>bis</sup>, de la loi, ainsi qu’à leur transmission, leur sécurité et leur conservation.[^13b-3]
 
 [^13b-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^13b-3]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^13b-3]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
 
@@ -328,16 +327,19 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>1</sup> …[^14-1]
 
-<sup>2</sup> L’assurance militaire rembourse les médicaments, les spécialités pharmaceutiques et les analyses de laboratoire, d’après les listes qui ont été établies conformément à l’art. 52, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^14-2].[^14-3]
+<sup>2</sup> L’assurance militaire rembourse les médicaments, les spécialités pharmaceutiques et les analyses de laboratoire, d’après les listes qui ont été établies conformément à l’art. 52, al. 1, LAMal.[^14-2]
 
-<sup>3</sup> Le DFI peut établir un tarif pour le remboursement des moyens et appareils servant à la guérison.
+<sup>3</sup> Le DFI[^14-3] peut établir un tarif pour le remboursement des moyens et appareils servant à la guérison.
 
-<sup>4</sup> Les assurés qui se rendent dans un établissement hospitalier auquel l’accord tarifaire n’est pas applicable sont remboursés comme ils le seraient dans un hôpital comparable auquel l’accord tarifaire s’applique. Les cas urgents sont réservés.[^14-4]
+<sup>4</sup> Si l’assuré se rend, pour des raisons médicales, dans un hôpital qui n’a pas conclu de convention sur la collaboration et les tarifs au sens de l’art. 13*c*, al. 1, l’assurance militaire prend en charge les coûts qui lui incomberaient pour un traitement dans la division commune d’un hôpital comparable qui aurait conclu une telle convention. L’hôpital a droit uniquement au remboursement de ces frais.[^14-4]
+
+<sup>5</sup> Sont reconnus raisons médicales au sens de l’al. 4 les cas d’urgences ou les cas où la prestation requise n’est proposée dans aucun hôpital conventionné.[^14-5]
 
 [^14-1]: Abrogé par l’annexe ch. 3 de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^14-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^14-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^14-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^14-3]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^14-5]: Introduit par le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 15
 
@@ -416,19 +418,22 @@ L’indemnité journalière est versée pour tous les jours de l’année, y com
 
 <sup>1</sup>
 
-En cas de séjour de courte durée dans un établissement hospitalier, un centre de dépistage ou un établissement de réadaptation, la déduction s’élève par jour (sans les jours d’entrée et de sortie) à:
+En cas de séjour de courte durée dans un hôpital, un centre de dépistage ou un établissement de réadaptation, la déduction s’élève par jour, sans les jours d’entrée et de sortie, à:[^21-1]
 
 - a. 20 % de l’indemnité journalière ou de la rente d’invalidité non réduite, mais au plus à 20 francs pour les célibataires sans obligations d’entretien ou d’assistance;
 - b. 10 % de l’indemnité journalière ou de la rente d’invalidité non réduite, mais au plus à 10 francs pour les assurés mariés et pour les célibataires qui ont des obligations d’entretien ou d’assistance.
 
 <sup>2</sup>
 
-En cas de séjour prolongé dans un établissement hospitalier, une clinique psychiatrique, un home ou un établissement de soins ou une institution équivalente, la déduction s’élève par jour à:
+En cas de séjour prolongé dans un hôpital, une clinique psychiatrique, un home ou un établissement de soins ou une institution équivalente, la déduction s’élève par jour à:[^21-2]
 
 - a. 40 % de l’indemnité journalière ou de la rente d’invalidité non réduite, mais au plus à 40 francs pour les célibataires sans obligations d’entretien ou d’assistance;
 - b. 30 % de l’indemnité journalière ou de la rente d’invalidité non réduite, mais au plus à 30 francs pour les assurés mariés et pour les célibataires qui ont des obligations d’entretien ou d’assistance.
 
 <sup>3</sup> L’indemnité journalière ne subit aucune déduction pour les assurés mariés ou célibataires ayant à leur charge un enfant mineur ou qui fait un apprentissage ou des études.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 22
 

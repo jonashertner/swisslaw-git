@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Januar 2025)
+vom 10. November 1993 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -53,31 +53,28 @@ verordnet:
 
 #### Art. 2
 
-**Angehörige des Instruktionskorps der Armee, Instruktoren des Zivilschutzes und übriges Lehrpersonal der Armee**[^2-1]
+**Berufsmilitär, Zeitmilitär und Instruktoren des Bundesamtes für Bevölkerungsschutz**[^2-1]
 
 <sup>1</sup>
 
-Als Angehörige des Instruktionskorps der Armee im Sinne von Artikel 1*a* Absatz 1 Buchstabe b Ziffer 1 des Gesetzes gelten:
+Als Berufsmilitär im Sinne von Artikel 1*a* Absatz 1 Buchstabe b Ziffer 1 des Gesetzes gelten:
 
-- a. die Berufsoffiziere und Berufsunteroffiziere nach Artikel 47 MG[^2-2];
-- b. die Anwärterinnen und Anwärter des Instruktionskorps, die in der Ausbildung zum Berufsoffizier oder Berufsunteroffizier stehen;
+- a. die Berufsoffiziere, Berufsunteroffiziere und Berufssoldaten nach Artikel 47 Absatz 2 MG[^2-2];
+- b. die Berufsoffiziers- und Berufsunteroffiziersanwärter und -kandidaten;
 - c. die höheren Stabsoffiziere, die ihre Funktion oder ihr Kommando hauptamtlich ausüben und als dauernd im Militärdienst stehend gelten.
 
-<sup>2</sup>
+<sup>2</sup> Als Zeitmilitär im Sinne von Artikel 1*a* Absatz 1 Buchstabe b Ziffer 2 des Gesetzes gelten die Zeitoffiziere, Zeitunteroffiziere und Zeitsoldaten nach Artikel 47 Absatz 3 MG.
 
-Als Instruktoren des Zivilschutzes im Sinne von Artikel 1*a* Absatz 1 Buchstabe b Ziffer 7 des Gesetzes gelten:
+<sup>3</sup>
 
-- a. der Chef der Abteilung Ausbildung;
-- b. die Chefs der Ausbildungssektionen, ausgenommen der Chef der Sektion Planung, Ausbildungszentren und Lehrmittel;
-- c. die Chefinstruktoren;
-- d. die Kursleiter;
-- e. die Instruktoren;
-- f. die Instruktorenanwärter;
-- g. die Bundesangestellten, die gleichzeitig als Instruktoren gewählt sind.
+Als Instruktoren des Bundesamtes für Bevölkerungsschutz im Sinne von Artikel 1*a* Absatz 1 Buchstabe b Ziffer 6 des Gesetzes gelten:
 
-<sup>3</sup> Im Bundesdienst nach Artikel 1*a* Absatz 1 Buchstabe b Ziffer 1 des Gesetzes steht auch, wer in Kaderfunktion an Schulen und Kursen der Armee teilnimmt oder andere Tätigkeiten für die Armee verrichtet und dafür in einem öffentlich-rechtlichen Dienstverhältnis zum Bund steht (Zeitsoldat).
+- a. der Leiter des Geschäftsbereichs Zivilschutz und Ausbildung;
+- b. die Leiter der Ausbildungsfachbereiche und Ausbildungsgruppen;
+- c. die Bundesangestellten, die aufgrund ihrer Funktion Aufgaben eines Instruktors wahrnehmen;
+- d. die Instruktorenanwärter.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^2-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 3
@@ -247,27 +244,28 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 
 **Spitäler, Kuranstalten und Abklärungsstellen[^11-1]**
 
-<sup>1</sup> Als Spitäler nach Artikel 22 Absatz 3 des Gesetzes gelten inländische Anstalten oder Abteilungen von solchen, die der stationären Behandlung von Gesundheitsschädigungen oder der stationären Durchführung von Massnahmen der medizinischen Rehabilitation dienen, unter dauernder ärztlicher Leitung stehen sowie über das erforderliche fachgemäss ausgebildete Pflegepersonal und über zweckentsprechende medizinische Einrichtungen verfügen.[^11-2]
+<sup>1</sup> Als Spitäler nach Artikel 22 Absatz 2 des Gesetzes gelten inländische Anstalten oder Abteilungen solcher Anstalten, die der stationären Behandlung von Gesundheitsschädigungen oder der stationären Durchführung von Massnahmen der medizinischen Rehabilitation dienen, unter dauernder ärztlicher Leitung stehen sowie über das erforderliche fachgemäss ausgebildete Pflegepersonal und über zweckentsprechende medizinische Einrichtungen verfügen. [^11-2]
 
-<sup>2</sup> Als Kuranstalten nach Artikel 22 Absatz 3 des Gesetzes gelten Institutionen, die stationär der Nachbehandlung oder Kur dienen, unter ärztlicher Leitung stehen, über das erforderliche, fachgemäss ausgebildete Personal und über zweckentsprechende Einrichtungen verfügen.[^11-3]
+<sup>2</sup> Als Kuranstalten nach Artikel 22 Absatz 2 des Gesetzes gelten Institutionen, die der Nachbehandlung oder Kur dienen, unter ärztlicher Leitung stehen, über das erforderliche fachgemäss ausgebildete Personal und über zweckentsprechende Einrichtungen verfügen. [^11-3]
 
-<sup>3</sup> Als Pflegeanstalten gelten die nach den Absätzen 1 und 2 nicht erfassten öffentlichen oder anerkannten gemeinnützigen privaten Heime, die der Unterbringung, Pflege und Betreuung von Gebrechlichen und Betagten dienen.
+<sup>3</sup> Als Pflegeanstalten gelten Heime, die auf der kantonalen Pflegeheimliste im Sinne des Bundesgesetzes vom 18. März 1994[^11-4] über die Krankenversicherung (KVG) aufgeführt sind. [^11-5]
 
 <sup>4</sup> Als Abklärungsstellen gelten Institutionen wie jene der Invalidenversicherung und der obligatorischen Unfallversicherung, welche der Abklärung der für die Verbesserung oder Erhaltung der Erwerbsfähigkeit erforderlichen medizinischen und beruflichen Massnahmen dienen.
 
 [^11-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-2]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-3]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-5]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
 
-**Chiropraktoren, Chiropraktorinnen, Hebammen und medizinische Hilfspersonen sowie Laboratorien**[^12-1]
+**Chiropraktoren, Hebammen, medizinische Hilfspersonen und Organisationen, die medizinische Hilfspersonen beschäftigen, sowie Laboratorien**[^12-1]
 
-Chiropraktoren, Chiropraktorinnen, Hebammen sowie Personen, die auf ärztliche Anordnung hin Leistungen erbringen (medizinische Hilfspersonen), und Laboratorien, die nach den Artikeln 44, 45, 47–50*a*, 53 und 54 der Verordnung vom 27. Juni 1995[^12-2] über die Krankenversicherung zur selbständigen Tätigkeit zugelassen sind, können auch für die Militärversicherung tätig sein. Das Eidgenössische Departement des Innern (EDI[^12-3]) kann weitere medizinische Hilfspersonen bezeichnen, die im Rahmen der kantonalen Bewilligung für die Militärversicherung tätig sein können.
+Chiropraktoren, Hebammen, Personen, die auf ärztliche Anordnung hin Leistungen erbringen (medizinische Hilfspersonen), Organisationen, die medizinische Hilfspersonen beschäftigen, und Laboratorien, die nach den Artikeln 44, 44*a*, 45, 45*a*, 47–50*d*, 51–52*f*, 53 und 54 der Verordnung vom 27. Juni 1995[^12-2] über die Krankenversicherung (KVV) zugelassen sind, können auch für die Militärversicherung tätig sein. Das Eidgenössische Departement des Innern (EDI) kann weitere medizinische Hilfspersonen bezeichnen, die im Rahmen der kantonalen Bewilligung für die Militärversicherung tätig sein können.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5081](https://fedlex.data.admin.ch/eli/oc/2004/786)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^12-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^12-3]: Ausdruck gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)). Die Änd. wurde im ganzen Text berücksichtigt.
 
 #### Art. 13
 
@@ -277,21 +275,22 @@ Chiropraktoren, Chiropraktorinnen, Hebammen sowie Personen, die auf ärztliche A
 
 Für die Ausgestaltung der Tarife sind sinngemäss anwendbar:
 
-- a. Artikel 43 Absätze 2 und 3 des Bundesgesetzes vom 18. März 1994[^13-2] über die Krankenversicherung (KVG);
+- a.[^13-2] Artikel 43 Absätze 2 und 3 KVG[^13-3];
 - b. Artikel 49 Absätze 1 und 3–6 KVG.
 
 <sup>2</sup> Die Tarife sind nach betriebswirtschaftlichen Kriterien zu bemessen, und es ist eine sachgerechte Struktur der Tarife zu beachten. Der Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung und die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
 
 [^13-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-2]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^13-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 13a
 
 **Kostenermittlung und Leistungserfassung**[^13a-1]
 
-Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung ist für die in Artikel 22 Absätze 2 und 3 des Gesetzes genannten Spitäler und Kuranstalten sinngemäss anwendbar. Die fachlich zuständigen Stellen des Bundes, der Verein Medizinaltarif-Kommission UVG und die Tarifpartner sind berechtigt, die Unterlagen einzusehen.
+Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung ist für die in Artikel 22 Absatz 2 des Gesetzes genannten Spitäler und Kuranstalten sinngemäss anwendbar. Die fachlich zuständigen Stellen des Bundes, der Verein Medizinaltarif-Kommission UVG und die Tarifpartner sind berechtigt, die Unterlagen einzusehen.
 
-[^13a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^13a-2]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 
 #### Art. 13b
@@ -302,11 +301,11 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 <sup>2</sup> Die Frist zur Kündigung von Zusammenarbeits- und Tarifverträgen beträgt mindestens sechs Monate.
 
-<sup>3</sup> Für die Datenbekanntgabe nach Artikel 26 Absatz 3<sup>bis</sup> des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* der Verordnung vom 27. Juni 1995[^13b-2] über die Krankenversicherung (KVV) sinngemäss anwendbar.[^13b-3]
+<sup>3</sup> Für die Datenbekanntgabe nach Artikel 26 Absatz 3<sup>bis</sup> des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* KVV[^13b-2] sinngemäss anwendbar.[^13b-3]
 
 [^13b-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^13b-3]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^13b-3]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
 
@@ -330,14 +329,18 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 <sup>2</sup> Die Militärversicherung vergütet Arzneimittel, pharmazeutische Spezialitäten und Laboranalysen nach den Listen, die aufgrund von Artikel 52 Absatz 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^14-2] aufgestellt sind.[^14-3]
 
-<sup>3</sup> Das EDI kann für die Vergütung der zur Heilung dienlichen Mittel und Gegenstände einen Tarif aufstellen.
+<sup>3</sup> Das EDI[^14-4] kann für die Vergütung der zur Heilung dienlichen Mittel und Gegenstände einen Tarif aufstellen.
 
-<sup>4</sup> Versicherte, die sich in ein Spital ohne Tarifvereinbarung begeben, erhalten Vergütungen, wie sie für ein vergleichbares Spital mit Tarifvereinbarung entrichtet werden. Vorbehalten bleiben Notfälle.[^14-4]
+<sup>4</sup> Begibt sich die versicherte Person aus medizinischen Gründen in ein Spital ohne Zusammenarbeits- und Tarifvertrag nach Artikel 13*c* Absatz 1, so übernimmt die Militärversicherung die Kosten, die ihr bei der Behandlung in einer allgemeinen Abteilung eines vergleichbaren Spitals mit Zusammenarbeits- und Tarifvertrag erwachsen wären. Das Spital hat nur Anspruch auf die Erstattung dieser Kosten.[^14-5]
+
+<sup>5</sup> Medizinische Gründe nach Absatz 4 liegen bei einem Notfall vor oder wenn die erforderliche Leistung in keinem Vertragsspital angeboten wird.[^14-6]
 
 [^14-1]: Aufgehoben durch Anhang Ziff. 3 der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^14-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^14-3]: Fassung gemäss Anhang Ziff. 5 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^14-4]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^14-4]: Ausdruck gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
+[^14-5]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^14-6]: Eingefügt durch Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 15
 
@@ -416,19 +419,22 @@ Das Taggeld wird für alle Tage des Jahres, einschliesslich Sonn- und Feiertage 
 
 <sup>1</sup>
 
-Der Abzug bei vorübergehender Unterbringung in einer Heilanstalt, in einer Abklärungsstelle oder Eingliederungsstätte beträgt pro Aufenthaltstag (ohne Eintritts- und Austrittstag):
+Der Abzug bei vorübergehender Unterbringung in einem Spital, in einer Abklärungsstelle oder in einer Eingliederungseinrichtung beträgt pro Aufenthaltstag, ohne Eintritts- und Austrittstag:[^21-1]
 
 - a. 20 Prozent des Taggeldes oder der ungekürzten Invalidenrente, höchstens aber 20 Franken bei Alleinstehenden ohne Unterhalts- oder Unterstützungspflichten;
 - b. 10 Prozent des Taggeldes oder der ungekürzten Invalidenrente, höchstens aber 10 Franken bei Verheirateten und bei unterhalts- oder unterstützungspflichtigen Alleinstehenden.
 
 <sup>2</sup>
 
-Der Abzug bei dauernder Unterbringung in einer Heilanstalt, einer psychiatrischen Klinik, einem Alters- und Pflegeheim oder einer ähnlichen Institution beträgt pro Aufenthaltstag:
+Der Abzug bei dauernder Unterbringung in einem Spital, einer psychiatrischen Klinik, einem Alters- und Pflegeheim oder einer ähnlichen Institution beträgt pro Aufenthaltstag:[^21-2]
 
 - a. 40 Prozent des Taggeldes oder der ungekürzten Invalidenrente, höchstens aber 40 Franken bei Alleinstehenden ohne Unterhalts- oder Unterstützungspflichten;
 - b. 30 Prozent des Taggeldes oder der ungekürzten Invalidenrente, höchstens aber 30 Franken bei Verheirateten und bei unterhalts- oder unterstützungspflichtigen Alleinstehenden.
 
 <sup>3</sup> Bei Verheirateten oder Alleinstehenden, die für minderjährige oder in Ausbildung stehende Kinder zu sorgen haben, wird kein Abzug vorgenommen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 22
 

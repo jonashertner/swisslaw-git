@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 1993 sull'assicurazione militare (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250101/it"
 
 (OAM)
 
-del 10 novembre 1993 (Stato 1° gennaio 2025)
+del 10 novembre 1993 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -35,49 +35,47 @@ ordina:
 
 **Servizio militare e servizio di protezione civile**
 
-<sup>1</sup> Compie un servizio militare obbligatorio o volontario ai sensi dell’articolo 1*a* capoverso 1 lettera a della legge, chiunque adempie gli obblighi militari conformemente alla legge militare del 3 febbraio 1995[^1-1] e all’ordinanza del 22 novembre 2017[^1-2] concernente l’obbligo di prestare servizio militare.[^1-3]
+<sup>1</sup> Compie un servizio militare obbligatorio o volontario ai sensi dell’articolo 1*a* capoverso 1 lettera a della legge, chiunque adempie gli obblighi militari conformemente alla legge militare del 3 febbraio 1995[^1-1] (LM) e all’ordinanza del 22 novembre 2017[^1-2] concernente l’obbligo di prestare servizio militare[^1-3].[^1-4]
 
-<sup>2</sup> ...[^1-4]
+<sup>2</sup> ...[^1-5]
 
-<sup>3</sup> Compie un servizio di protezione civile obbligatorio o volontario ai sensi dell’articolo 1*a* capoverso 1 lettera a della legge, chiunque adempie gli obblighi di protezione civile conformemente alla legge federale del 20 dicembre 2019[^1-5] sulla protezione della popolazione e sulla protezione civile e all’ordinanza dell’11 novembre 2020[^1-6] sulla protezione civile.[^1-7]
+<sup>3</sup> Compie un servizio di protezione civile obbligatorio o volontario ai sensi dell’articolo 1*a* capoverso 1 lettera a della legge, chiunque adempie gli obblighi di protezione civile conformemente alla legge federale del 20 dicembre 2019[^1-6] sulla protezione della popolazione e sulla protezione civile e all’ordinanza dell’11 novembre 2020[^1-7] sulla protezione civile.[^1-8]
 
 <sup>4</sup> Non sono considerati servizio militare o servizio di protezione civile, segnatamente, l’adempimento degli obblighi fuori servizio per la manutenzione del vestiario, dell’equipaggiamento personale e dell’armamento nonché i lavori di preparazione in vista del servizio militare o di protezione civile.
 
 [^1-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^1-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 [^1-3]: Nuovo testo giusta l’all. 7 cifra II n. 8 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^1-4]: Abrogato dalla cifra I dell’O del 19 nov. 1997, con effetto dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^1-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1-6]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
-[^1-7]: Nuovo testo giusta l’all. 6 cifra II n. 2 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^1-5]: Abrogato dalla cifra I dell’O del 19 nov. 1997, con effetto dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
+[^1-6]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^1-7]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^1-8]: Nuovo testo giusta l’all. 6 cifra II n. 2 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 2
 
-**Membri del corpo degli istruttori dell’esercito, istruttori della protezione civile e altri membri del personale insegnante dell’esercito**[^2-1]
+**Militari di professione, militari a contratto temporaneo e istruttori dell’Ufficio federale della protezione della popolazione**[^2-1]
 
 <sup>1</sup>
 
-Sono considerati membri del corpo degli istruttori dell’esercito ai sensi dell’articolo 1*a* capoverso 1 lettera b numero 1 della legge:
+Sono considerati militari di professione ai sensi dell’articolo 1*a* capoverso 1 lettera b numero 1 della legge:
 
-- a. gli ufficiali e i sottufficiali professionisti ai sensi dell’articolo 47 della legge militare del 3 febbraio 1995[^2-2];
-- b. gli allievi istruttori che seguono una formazione per ufficiali o sottufficiali professionisti;
+- a. gli ufficiali di professione, i sottufficiali di professione e i soldati di professione conformemente all’articolo 47 capoverso 2 LM[^2-2];
+- b. gli aspiranti ufficiali e sottufficiali di professione e i candidati ufficiali e sottufficiali di professione;
 - c. gli alti ufficiali superiori che esercitano la loro funzione o il loro comando a titolo principale e che sono considerati in servizio militare permanente.
 
-<sup>2</sup>
+<sup>2</sup> Sono considerati militari a contratto temporaneo ai sensi dell’articolo 1*a* capoverso 1 lettera b numero 2 della legge gli ufficiali a contratto temporaneo, i sottufficiali a contratto temporaneo e i soldati a contratto temporaneo conformemente all’articolo 47 capoverso 3 LM.
 
-Sono considerati istruttori della protezione civile ai sensi dell’articolo 1*a* capoverso 1 lettera b numero 7 della legge:
+<sup>3</sup>
 
-- a. il capo dell’aggruppamento dell’istruzione;
-- b. i capi delle sezioni dell’istruzione, eccetto il capo della sezione della pianificazione, dei centri d’istruzione e dei mezzi d’insegnamento;
-- c. i capi istruttori;
-- d. i monitori di corso;
-- e. gli istruttori;
-- f. gli allievi istruttori;
-- g. gli impiegati della Confederazione che sono contemporaneamente istruttori.
+Sono considerati istruttori dell’Ufficio federale della protezione della popolazione ai sensi dell’articolo 1*a* capoverso 1 lettera b numero 6 della legge:
 
-<sup>3</sup> È altresì considerato al servizio della Confederazione secondo l’articolo 1*a* capoverso 1 lettera b numero 1 della legge, chiunque partecipa come quadro a scuole e corsi dell’esercito o svolge altre attività per l’esercito e a tale riguardo è vincolato alla Confederazione da rapporti di servizio di diritto pubblico (militare a contratto temporaneo).
+- a. il responsabile della divisione Protezione civile e formazione;
+- b. i responsabili delle sezioni e dei gruppi di istruzione;
+- c. gli impiegati della Confederazione che in ragione della loro funzione svolgono compiti di istruttore;
+- d. gli aspiranti istruttori.
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^2-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 3
@@ -245,29 +243,30 @@ La sospensione dell’assicurazione secondo l’articolo 3 capoverso 2 della leg
 
 #### Art. 11
 
-**Ospedali, case di cura e centri d’accertamento medico[^11-1]**
+**Ospedali, stabilimenti di cura e centri di accertamento medico[^11-1]**
 
-<sup>1</sup> Sono considerati ospedali conformemente all’articolo 22 capoverso 3 della legge gli stabilimenti svizzeri e i reparti di quelli destinati alla cura ospedaliera di affezioni o all’esecuzione ospedaliera di misure di rieducazione medica, se sono posti sotto una direzione medica permanente, dispongono del necessario personale curante specializzato e delle installazioni mediche adeguate allo scopo.[^11-2]
+<sup>1</sup> Sono considerati ospedali ai sensi dell’articolo 22 capoverso 2 della legge gli stabilimenti svizzeri e i reparti di tali stabilimenti destinati alla cura ospedaliera di affezioni o all’esecuzione ospedaliera di misure di rieducazione medica, se sono posti sotto una direzione medica permanente, dispongono del necessario personale curante specializzato e delle installazioni mediche adeguate allo scopo.[^11-2]
 
-<sup>2</sup> Sono considerate case di cura conformemente all’articolo 22 capoverso 3 della legge gli istituti destinati alla terapia successiva o alla cura in ambito ospedaliero che, posti sotto direzione medica, dispongono del necessario personale specializzato e delle installazioni adeguate allo scopo.[^11-3]
+<sup>2</sup> Sono considerati stabilimenti di cura ai sensi dell’articolo 22 capoverso 2 della legge gli istituti destinati alla terapia successiva o alla cura che, posti sotto direzione medica, dispongono del necessario personale specializzato e delle installazioni adeguate allo scopo.[^11-3]
 
-<sup>3</sup> Sono considerati stabilimenti di ricovero gli istituti pubblici o riconosciuti di utilità pubblica non compresi nei capoversi 1 e 2, che offrono ricovero, cura e assistenza agli infermi e agli anziani.
+<sup>3</sup> Sono considerati stabilimenti di ricovero gli istituti che figurano nell’elenco cantonale delle case di cura ai sensi della legge federale del 18 marzo 1994[^11-4] sull’assicurazione malattie (LAMal).[^11-5]
 
 <sup>4</sup> Sono considerati centri di accertamento medico le istituzioni come quelle dell’assicurazione per l’invalidità e dell’assicurazione obbligatoria contro gli infortuni, che effettuano l’accertamento dei provvedimenti medici e professionali necessari per il miglioramento o il mantenimento della capacità lavorativa.
 
-[^11-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-2]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^11-3]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-5]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
 
-**Chiropratici, levatrici, personale paramedico e laboratori**[^12-1]
+**Chiropratici, levatrici, personale paramedico, organizzazioni che impiegano personale paramedico e laboratori**[^12-1]
 
-I chiropratici, le levatrici, le persone che dispensano cure previa prescrizione medica (personale paramedico) e i laboratori autorizzati ad esercitare per conto proprio ai sensi degli articoli 44, 45, 47–50*a*, 53 e 54 dell’ordinanza del 27 giugno 1995[^12-2] sull’assicurazione malattie, possono praticare anche per l’assicurazione militare. Il Dipartimento federale dell’interno (DFI[^12-3]) può designare altre persone come personale paramedico, che possono esercitare per l’assicurazione militare nel quadro dell’autorizzazione cantonale.
+I chiropratici, le levatrici, le persone che dispensano cure previa prescrizione medica (personale paramedico), le organizzazioni che impiegano personale paramedico e i laboratori, autorizzati a esercitare ai sensi degli articoli 44, 44*a*, 45, 45*a*, 47–50*d*, 51–52*f*, 53 e 54 dell’ordinanza del 27 giugno 1995[^12-2] sull’assicurazione malattie (OAMal), possono praticare anche per l’assicurazione militare. Il Dipartimento federale dell’interno (DFI) può designare altre persone come personale paramedico, che possono praticare per l’assicurazione militare nel quadro dell’autorizzazione cantonale.
 
-[^12-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5081](https://fedlex.data.admin.ch/eli/oc/2004/786)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^12-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^12-3]: Nuova espr. giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 13
 
@@ -277,36 +276,38 @@ I chiropratici, le levatrici, le persone che dispensano cure previa prescrizione
 
 Per l’approntamento delle tariffe sono applicabili per analogia:
 
-- a. l’articolo 43 capoversi 2 e 3 della legge federale del 18 marzo 1994[^13-2] sull’assicurazione malattie (LAMal);
+- a.[^13-2] l’articolo 43 capoversi 2 e 3 LAMal[^13-3];
 - b. l’articolo 49 capoversi 1 e 3–6 LAMal.
 
 <sup>2</sup> Le tariffe devono essere calcolate secondo criteri economici e occorre considerare una struttura adeguata delle tariffe. La tariffa può coprire al massimo i costi della prestazione comprovati in modo trasparente e i costi necessari per la fornitura efficiente delle prestazioni.
 
 [^13-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 13a
 
 **Calcolo dei costi e registrazione delle prestazioni**[^13a-1]
 
-L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie si applica per analogia agli ospedali e alle case di cura di cui all’articolo 22 capoversi 2 e 3 della legge. Sono autorizzati a consultare i documenti le autorità della Confederazione competenti in materia, l’associazione Commissione delle tariffe mediche LAINF e i partner tariffali.
+L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie si applica per analogia agli ospedali e agli stabilimenti di cura di cui all’articolo 22 capoverso 2 della legge. Sono autorizzati a consultare i documenti le autorità della Confederazione competenti in materia, l’associazione Commissione delle tariffe mediche LAINF e i partner tariffali.
 
-[^13a-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13a-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 
 #### Art. 13b
 
 **Rimunerazione delle cure ambulatoriali**[^13b-1]
 
-<sup>1</sup> Per la rimunerazione delle cure ambulatoriali l’assicurazione militare stipula con le persone che esercitano una professione medica, il personale paramedico, gli ospedali e le case di cura nonché le imprese di trasporto e di salvataggio convenzioni tariffali e di collaborazione a livello nazionale. Le tariffe per singola prestazione si basano su strutture tariffali uniformi, stabilite a livello nazionale.
+<sup>1</sup> Per la rimunerazione delle cure ambulatoriali l’assicurazione militare stipula con le persone che esercitano una professione medica, il personale paramedico, gli ospedali e gli stabilimenti di cura nonché le imprese di trasporto e di salvataggio convenzioni tariffali e di collaborazione a livello nazionale. Le tariffe per singola prestazione si basano su strutture tariffali uniformi, stabilite a livello nazionale.[^13b-2]
 
 <sup>2</sup> Il termine per la disdetta di convezioni tariffali e di collaborazione è di almeno sei mesi.
 
-<sup>3</sup> La comunicazione dei dati secondo l’articolo 26 capoverso 3<sup>bis</sup> della legge, la trasmissione dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f*, 59*g* e 59*i* dell’ordinanza del 27 giugno 1995[^13b-2] sull’assicurazione malattie (OAMal).[^13b-3]
+<sup>3</sup> La comunicazione dei dati secondo l’articolo 26 capoverso 3<sup>bis</sup> della legge, la trasmissione dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f*, 59*g* e 59*i* OAMal[^13b-3].[^13b-4]
 
 [^13b-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^13b-3]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^13b-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^13b-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-4]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
 
@@ -328,16 +329,18 @@ L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione
 
 <sup>1</sup> ...[^14-1]
 
-<sup>2</sup> L’assicurazione militare risarcisce i medicamenti, le specialità farmaceutiche e le analisi di laboratorio secondo gli elenchi redatti sulla base dell’articolo 52 capoverso 1 della legge federale del 18 marzo 1994[^14-2] sull’assicurazione malattie.[^14-3]
+<sup>2</sup> L’assicurazione militare risarcisce i medicamenti, le specialità farmaceutiche e le analisi di laboratorio secondo gli elenchi redatti sulla base dell’articolo 52 capoverso 1 LAMal.[^14-2]
 
 <sup>3</sup> Il DFI può fissare una tariffa per il risarcimento dei mezzi e degli apparecchi che servono alla guarigione.
 
-<sup>4</sup> Gli assicurati che si recano in un ospedale senza convenzione sulle tariffe ricevono rimborsi equivalenti a quelli che sarebbero versati per un ospedale equiparabile sottoposto a una convenzione tariffale. Sono fatti salvi i casi urgenti.[^14-4]
+<sup>4</sup> Se l’assicurato si reca per motivi di ordine medico in un ospedale non sottoposto a una convenzione tariffale e di collaborazione secondo l’articolo 13*c* capoverso 1, l’assicurazione militare assume le spese che avrebbe dovuto rimborsare per le cure nella sala comune di un ospedale equiparabile sottoposto a una convenzione tariffale e di collaborazione. L’ospedale ha diritto solo al rimborso di queste spese.[^14-3]
+
+<sup>5</sup> Sono considerati motivi di ordine medico secondo il capoverso 4 i casi urgenti e quelli in cui le prestazioni necessarie non sono dispensate in alcun ospedale convenzionato.[^14-4]
 
 [^14-1]: Abrogato dall’all. n. 3 dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^14-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^14-3]: Nuovo testo giusta l’all. n. 5 dell’O del 27 giu. 1995 sull’assicurazione militare, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^14-4]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^14-3]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^14-4]: Introdotto dalla cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 15
 
@@ -416,19 +419,22 @@ L’indennità giornaliera è versata per tutti i giorni dell’anno, inclusi la
 
 <sup>1</sup>
 
-La deduzione in caso di ricovero temporaneo in uno stabilimento ospedaliero, in un centro di accertamento medico o in centri di integrazione (esclusi il giorno d’entrata e d’uscita) ammonta, per giorno di soggiorno, al:
+La deduzione in caso di ricovero temporaneo in un ospedale, in un centro di accertamento medico o in istituzioni d’integrazione, esclusi il giorno d’entrata e d’uscita, ammonta, per giorno di soggiorno, al:[^21-1]
 
 - a. 20 per cento dell’indennità giornaliera o della rendita integrale d’invalidità, ma al massimo 20 franchi per persone sole senza obblighi di sostentamento o di assistenza;
 - b. 10 per cento dell’indennità giornaliera o della rendita integrale d’invalidità, ma al massimo 10 franchi per i coniugati e per le persone sole con obblighi di sostentamento o di assistenza.
 
 <sup>2</sup>
 
-La deduzione in caso di ricovero prolungato in uno stabilimento ospedaliero, in una clinica psichiatrica, in una casa per anziani e di cura o in un istituto analogo ammonta, per giorno di soggiorno, al:
+La deduzione in caso di ricovero prolungato in un ospedale, in una clinica psichiatrica, in una casa per anziani e di cura o in un istituto analogo ammonta, per giorno di soggiorno, al:[^21-2]
 
 - a. 40 per cento dell’indennità giornaliera o della rendita integrale d’invalidità, ma al massimo 40 franchi per le persone sole senza obblighi di sostentamento o di assistenza;
 - b. 30 per cento dell’indennità giornaliera o della rendita integrale d’invalidità, ma al massimo 30 franchi per i coniugati e le persone sole con obblighi di sostentamento o di assistenza.
 
 <sup>3</sup> Per i coniugati o le persone sole, che devono provvedere a ragazzi minorenni o in formazione, non viene effettuata nessuna deduzione.
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 22
 
