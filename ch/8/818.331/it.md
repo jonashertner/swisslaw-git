@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 aprile 2018 sulla registrazione delle malattie tumoral
 short: ORMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: it
-version: 2023-01-01
+version: 2025-06-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/it"
 
 (ORMT)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2023)
+dell’11 aprile 2018 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -190,7 +190,7 @@ Sono comunicati i seguenti dati:
 
 - b. dati di contatto del medico che ha constatato il decesso.
 
-[^10-1]: Nuovo testo giusta l’all. n. II 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-1]: Nuovo testo giusta l’all. cifra II n. 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-2]: Il testo della Classificazione può essere visionato gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, o consultato sui siti Internet www.ufsp.admin.ch &gt; Temi &gt; Persone & salute &gt; Malattie non trasmissibili &gt; Cancro &gt; Registrazione delle malattie tumorali, e www.who.int &gt; Health topics &gt; Classifications of diseases.
 
 #### Art. 11
@@ -224,10 +224,11 @@ Sono comunicati i seguenti dati:
 
 - b. denominazione dell’unità organizzativa dell’ospedale.
 
-<sup>4</sup> Per la comunicazione dei dati, gli ospedali utilizzano le stesse fonti di dati che hanno consultato per la statistica medica degli stabilimenti ospedalieri di cui al numero 62 dell’allegato dell’ordinanza del 30 giugno 1993[^11-2] sulle rilevazioni statistiche.
+<sup>4</sup> Per la comunicazione dei dati, gli ospedali utilizzano le stesse fonti di dati che hanno consultato per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^11-2] sulla statistica federale.[^11-3]
 
-[^11-1]: Nuovo espr. giusta l’all. n. II 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta modifica è tenuto conto in tutto il presente testo.
-[^11-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: Nuovo espr. giusta l’all. cifra II n. 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^11-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-3]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -350,7 +351,7 @@ Fino alla scadenza del termine di attesa, i dati possono essere sottoposti ai se
 - b. verifica se sono già stati registrati dati;
 - c. in caso di incompetenza, trasmissione dei dati a un altro registro cantonale dei tumori o al registro dei tumori pediatrici.
 
-[^17-1]: Nuovo teso giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
+[^17-1]: Nuovo teso giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 #### Art. 18
 
@@ -533,9 +534,9 @@ Il servizio nazionale di registrazione dei tumori assolve in particolare anche i
 
 <sup>2</sup> Devono essere resi irriconoscibili o cancellati in particolare il nome, l’indirizzo e numeri d’identificazione univoci. La data di nascita e di morte può contenere soltanto il mese e l’anno.
 
-<sup>3</sup> e <sup>4</sup> …[^30-1]
+<sup>3 e <sup>4</sup></sup> …[^30-1]
 
-[^30-1]: Abrogati dal n. I dell’O del 17 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
+[^30-1]: Abrogati dalla cifra I dell’O del 17 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
 ## Sezione 9: Promozione della registrazione di altre malattie
 
@@ -706,7 +707,7 @@ Allegato 1[^t-1]
 
 ## Malattie tumorali soggette all’obbligo di notifica
 
-[^t-1]: Aggiornato dai n. I delle O del DFI del 2 feb. 2021 ([RU 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) e del 3 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 595](https://fedlex.data.admin.ch/eli/oc/2022/595)).
+[^t-1]: Aggiornato dai cifra I delle O del DFI del 2 feb. 2021 ([RU 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) e del 3 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 595](https://fedlex.data.admin.ch/eli/oc/2022/595)).
 
 Le seguenti malattie in conformità alla Classificazione internazionale delle malattie dell’OMS nella versione del 2010[^annex1-lvlu1-1] (ICD-10) devono essere notificate; fa stato la categoria della malattia definita con il codice a tre caratteri:
 

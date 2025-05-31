@@ -4,11 +4,11 @@ title: "Verordnung vom 11. April 2018 über die Registrierung von Krebserkrankun
 short: KRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: de
-version: 2023-01-01
+version: 2025-06-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/de"
 
 (Krebsregistrierungsverordnung, KRV)
 
-vom 11. April 2018 (Stand am 1. Januar 2023)
+vom 11. April 2018 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -191,7 +191,7 @@ Bekanntgegeben werden die folgenden Daten:
 - b. Kontaktdaten der Ärztin oder des Arztes, die oder der den Tod festgestellt hat.
 
 [^10-1]: Fassung gemäss Anhang Ziff. II 33 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Mensch & Gesundheit &gt; Nichtübertragbare Krankheiten &gt; Krebs &gt; Krebsregistrierung, sowie unter: www.who.int &gt; Health topics &gt; Classifications of disease.
+[^10-2]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Mensch & Gesundheit &gt; Nichtübertragbare Krankheiten &gt; Krebs &gt; Krebsregistrierung, sowie unter: [www.who.int](http://www.who.int) &gt; Health topics &gt; Classifications of disease.
 
 #### Art. 11
 
@@ -224,10 +224,11 @@ Bekanntgegeben werden die folgenden Daten:
 
 - b. Bezeichnung der Organisationseinheit des Spitals.
 
-<sup>4</sup> Die Spitäler verwenden für die Bekanntgabe dieselben Datenquellen, die sie für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Statistikerhebungsverordnung vom 30. Juni 1993[^11-2] beigezogen haben.
+<sup>4</sup> Die Spitäler verwenden für die Bekanntgabe dieselben Datenquellen, die sie für die medizinische Statistik der Krankenhäuser nach Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^11-2] beigezogen haben.[^11-3]
 
 [^11-1]: Ausdruck gemäss Anhang Ziff. II 33 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^11-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-3]: Fassung gemäss Anhang 3 Ziff. 15 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -533,7 +534,7 @@ Die nationale Krebsregistrierungsstelle nimmt insbesondere folgende weitere Aufg
 
 <sup>2</sup> Insbesondere unkenntlich gemacht oder gelöscht werden müssen Name, Wohnadresse und eindeutig kennzeichnende Identifikationsnummern. Das Geburts- und das Todesdatum dürfen nur Monat und Jahr umfassen.
 
-<sup>3</sup> und <sup>4</sup> …[^30-1]
+<sup>3 und <sup>4</sup></sup> …[^30-1]
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 17. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
@@ -706,7 +707,7 @@ Anhang 1[^t-1]
 
 ## Zu meldende Krebserkrankungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 2. Febr. 2021 ([AS 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) und vom 3. Okt. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 595).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 2. Febr. 2021 ([AS 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) und vom 3. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 595](https://fedlex.data.admin.ch/eli/oc/2022/595)).
 
 Folgende Erkrankungen gemäss der *International Classification of diseases* der WHO in der Fassung von 2010[^annex1-lvlu1-1] (ICD-10) müssen gemeldet werden; massgebend ist die mit dreistelligem Code definierte Krankheitsgruppe:
 
@@ -748,7 +749,7 @@ Folgende Erkrankungen gemäss der *International Classification of diseases* der
 <tr><td>D76</td><td>Sonstige näher bezeichnete Krankheiten mit Beteiligung des lymphoretikulären Gewebes und des retikulohistiozytären Systems</td><td colspan="2">nein</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Mensch & Gesundheit &gt; Nichtübertragbare Krankheiten &gt; Krebs &gt; Krebsregistrierung, sowie unter: www.who.int &gt; Health topics &gt; Classifications of disease.
+[^annex1-lvlu1-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Themen &gt; Mensch & Gesundheit &gt; Nichtübertragbare Krankheiten &gt; Krebs &gt; Krebsregistrierung, sowie unter: [www.who.int](http://www.who.int) &gt; Health topics &gt; Classifications of disease.
 
 Anhang 2
 

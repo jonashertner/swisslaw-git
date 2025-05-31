@@ -4,11 +4,11 @@ title: "Ordonnance du 11 avril 2018 sur l'enregistrement des maladies oncologiqu
 short: OEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: fr
-version: 2023-01-01
+version: 2025-06-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/fr"
 
 (OEMO)
 
-du 11 avril 2018 (État le 1<sup>er</sup> janvier 2023)
+du 11 avril 2018 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -224,9 +224,10 @@ Les données suivantes sont communiquées:
 
 - b. désignation de l’unité organisationnelle de l’hôpital.
 
-<sup>4</sup> Les hôpitaux utilisent les sources de données qu’ils ont utilisées pour la Statistique médicale des hôpitaux visée au ch. 62 de l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^11-1].
+<sup>4</sup> Les hôpitaux utilisent les mêmes sources de données que lors du relevé pour la statistique des services de santé visé à l’annexe 1, ch. 05.03. de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^11-1].[^11-2]
 
-[^11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-2]: Nouvelle teneur selon l’annexe 3 ch. 15 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -532,7 +533,7 @@ L’organe national d’enregistrement du cancer assume notamment les autres tâ
 
 <sup>2</sup> Le nom, l’adresse et les numéros d’identification caractéristiques en particulier doivent être rendus méconnaissables ou être détruits. Les dates de naissance et de décès ne doivent contenir que le mois et l’année.
 
-<sup>3</sup> et <sup>4</sup> …[^30-1]
+<sup>3 et <sup>4</sup></sup> …[^30-1]
 
 [^30-1]: Abrogés par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 722](https://fedlex.data.admin.ch/eli/oc/2021/722)).
 
