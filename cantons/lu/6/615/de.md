@@ -3,20 +3,19 @@ canton: LU
 number: "615"
 title: Finanzkontrollgesetz
 language: de
-version: 2013-06-01
-valid_until: 2025-05-31
-version_adopted: 2012-05-14
+version: 2025-06-01
+version_adopted: 2024-10-21
 adopted: 2004-03-08
 in_force: 2004-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/615"
-pdf: "https://srl.lu.ch/api/de/versions/2545/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Finanzkontrollgesetz
 
-vom 08.03.2004 (Stand 01.06.2013)
+vom 08.03.2004 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -191,11 +190,21 @@ beschliesst:
 
 #### § 17
 
-**Tätigkeitsbericht**
+**Berichte**
 
-<sup>1</sup> Die Finanzkontrolle legt den für die Finanzaufsicht zuständigen Kommissionen des Kantonsrates, dem Regierungsrat und, soweit dessen Aufsichtsbereich betroffen ist, dem Kantonsgericht jährlich Ende Mai einen Tätigkeitsbericht vor, in dem sie über den Umfang und die Schwerpunkte ihrer Revisionstätigkeit und über wichtige Feststellungen und Beurteilungen informiert. Anfang Jahr legt sie ihnen einen Zwischenbericht über ihre Prüftätigkeit vor. Bei wichtigen Vorkommnissen wird zusätzlich Bericht erstattet.
+<sup>1</sup> Die Finanzkontrolle legt den für die Finanzaufsicht zuständigen Kommissionen des Kantonsrates, dem Regierungsrat und, soweit dessen Aufsichtsbereich betroffen ist, dem Kantonsgericht anfangs Jahr einen Zwischenbericht und jeweils im Mai einen Gesamtbericht über die Prüftätigkeit vor. Bei wichtigen Vorkommnissen wird zusätzlich Bericht erstattet.
+
+<sup>1<sup>bis</sup></sup> Die Finanzkontrolle informiert die Öffentlichkeit in einem jährlichen Tätigkeitsbericht über den Umfang und die Schwerpunkte ihrer Prüftätigkeit sowie über wichtige Feststellungen und Beurteilungen.
 
 <sup>2</sup> In der Regel wird nur über abgeschlossene Verfahren berichtet. Wichtige Vorkommnisse und andere besondere Fälle bleiben vorbehalten.
+
+#### § 17a
+
+**Zugang zu den Berichten**
+
+<sup>1</sup> Die Prüfberichte gemäss § 14, der Zwischen- und der Gesamtbericht sowie die damit zusammenhängenden weiteren Unterlagen sind ausschliesslich zur Verwendung durch die zuständigen Stellen vorgesehen. Öffentlich sind die Berichte zur Jahresrechnung und zur konsolidierten Rechnung des Kantons.
+
+<sup>2</sup> Der Tätigkeitsbericht ist im Internet zu veröffentlichen.
 
 ## 5 Weitere Verfahrensvorschriften
 
