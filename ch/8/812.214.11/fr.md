@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novembre 2001 concernant l'édiction de la pharmacopée et la reconnaissance d'autres pharmacopées"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: fr
-version: 2025-04-01
+version: 2025-06-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Institut suisse des produits thérapeutiques concernant l’édiction de la pharmacopée et la reconnaissance d’autres pharmacopées
 
-du 9 novembre 2001 (État le 1<sup>er</sup> avril 2025)[^t-1]
+du 9 novembre 2001 (État le 1<sup>er</sup> juin 2025)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 7 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 5053](https://fedlex.data.admin.ch/eli/oc/2012/589)).
 
@@ -36,11 +36,12 @@ arrête:
 Sont reconnus au titre de pharmacopée:
 
 - a. la *Pharmacopoea Europaea,* 11<sup>e</sup> édition[^1-2] (Ph. Eur. 11) de novembre 2021, le supplément 11.1 à la *Pharmacopoea Europaea* de mars 2022, le supplément 11.2 à la *Pharmacopoea Europaea* de juin 2022, le supplément 11.3 à la *Pharmacopoea Europaea* de novembre 2022, le supplément 11.4 à la *Pharmacopoea Europaea* de mars 2023, le supplément 11.5 à la *Pharmacopoea Europaea* de juin 2023, le supplément 11.6 à la *Pharmacopoea Europaea* de novembre 2023 et le supplément 11.7 à la *Pharmacopoea Europaea* de mars 2024;
-- b. la *Pharmacopoea Helvetica,* 12<sup>e</sup> édition[^1-3] (Ph. Helv. 12) d’août 2022.
+- b.[^1-3] la *Pharmacopoea Helvetica,* 12<sup>e</sup> édition[^1-4] (Ph. Helv. 12) d’août 2022 et la modification urgente *des chapitres 20.1.A.2, 20.1.B, 20.2.A.2, 20.2.B, 20.3.A.2, 20.3.B, 21.1.A.2 et 21.1.B* de la *Pharmacopoea Helvetica* d’avril 2025.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 22 nov. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 753](https://fedlex.data.admin.ch/eli/oc/2024/753)).
 [^1-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 novembre 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
-[^1-3]: La *Pharmacopoea Helvetica* est publiée par Swissmedic et peut être téléchargée à l’adresse [www.phhelv.ch](https://www.phhelv.ch/changeLangFr) ou obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’OEmol-Publ.
+[^1-3]: Nouvelle teneur selon le ch. I de l’O de l’Institut du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 301](https://fedlex.data.admin.ch/eli/oc/2025/301)).
+[^1-4]: La *Pharmacopoea Helvetica* est publiée par Swissmedic. Elle peut être téléchargée à l’adresse www.phhelv.ch ou être obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’OEmol-Publ.
 
 #### Art. 1a
 
