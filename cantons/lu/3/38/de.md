@@ -4,13 +4,12 @@ number: "38"
 title: Kantonales Gesetz über den Schutz von Personendaten
 short: "Kantonales Datenschutzgesetz, KDSG"
 language: de
-version: 2021-09-01
-valid_until: 2025-05-31
-version_adopted: 2021-05-10
+version: 2025-06-01
+version_adopted: 2024-10-21
 adopted: 1990-07-02
 in_force: 1991-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/38"
-pdf: "https://srl.lu.ch/api/de/versions/3786/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3786/pdf_file"
 
 (Kantonales Datenschutzgesetz, KDSG)
 
-vom 02.07.1990 (Stand 01.09.2021)
+vom 02.07.1990 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -255,6 +254,20 @@ beschliesst:
 <sup>3</sup> Die Einwohnergemeinde kann durch Reglement oder Gemeindeordnung bestimmen, dass auch ohne Glaubhaftmachung eines schutzwürdigen Interesses Personendaten gemäss Absatz 1 zu politischen, kulturellen, gesellschaftlichen, wohltätigen und wissenschaftlichen Zwecken veröffentlicht oder auf Anfrage hin bekanntgegeben werden.
 
 <sup>4</sup> Jede betroffene Person kann bei der Einwohnerkontrolle das Bekanntgeben ihrer Personendaten ohne Angabe von Gründen sperren lassen; die Sperre ist indessen unwirksam, wenn die Einwohnerkontrolle durch Rechtssatz zum Bekanntgeben verpflichtet ist oder der Gesuchsteller eine Behinderung in der Verfolgung schutzwürdiger Ansprüche gegenüber der betroffenen Person glaubhaft macht.
+
+#### § 11a
+
+**Bekanntgeben durch Zugänglichmachen gemäss Öffentlichkeitsprinzip**
+
+<sup>1</sup> Bevor Organe im Rahmen der Regelungen ihrer Gemeinwesen zum Öffentlichkeitsprinzip den Zugang zu amtlichen Informationen ermöglichen, prüfen sie, ob die Informationen Personendaten enthalten.
+
+<sup>2</sup> Personendaten sind durch das Organ nach Möglichkeit so zu anonymisieren, dass die betroffenen Personen nicht mehr bestimmt oder bestimmbar sind. § 10 Absatz 2 gilt sinngemäss.
+
+<sup>3</sup> Ist eine Anonymisierung nicht möglich, kann das Organ den Zugang zu amtlichen Informationen ermöglichen, wenn die Voraussetzungen der Bestimmungen über das Öffentlichkeitsprinzip erfüllt sind und die betroffenen Personen eingewilligt haben oder ihre Einwilligung nach den Umständen vorausgesetzt werden kann.
+
+<sup>4</sup> Vorbehalten bleibt der Zugang auch ohne Einwilligung, wenn das öffentliche Interesse an den amtlichen Informationen das Interesse an der Geheimhaltung der Personendaten Dritter überwiegt. Die betroffenen Personen sind anzuhören. Bei besonders schützenswerten Personendaten wird vermutet, dass das private Interesse der betroffenen Personen gegenüber dem Zugangsanspruch überwiegt.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### § 12
 
