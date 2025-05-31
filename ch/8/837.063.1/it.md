@@ -4,11 +4,11 @@ title: "Ordinanza del 26 maggio 2021 sui sistemi d’informazione gestiti dall�
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: it
-version: 2024-08-01
+version: 2025-06-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20240801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/it"
 
 (Ordinanza sui sistemi d’informazione AD, OSI-AD)
 
-del 26 maggio 202 (Stato 1° agosto 2024)
+del 26 maggio 2021 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -49,7 +49,7 @@ La presente ordinanza disciplina la gestione e l’utilizzo dei sistemi d’info
 
 <sup>3</sup> I responsabili degli uffici e degli organi di cui agli articoli 96*c* LADI e 35 LC provvedono affinché agli utenti dei sistemi d’informazione siano assegnati unicamente i diritti di cui hanno bisogno.
 
-[^2-1]: Nuovo testo giusta l’all. 2 n. II 123 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-1]: Nuovo testo giusta l’all. 2 cifra II n. 123 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -160,11 +160,12 @@ I dati contenuti nel sistema d’informazione e i corrispondenti diritti d’acc
 
 Il sistema d’informazione per l’analisi dei dati del mercato del lavoro di cui all’articolo 83 capoverso 1<sup>bis</sup> lettera c LADI serve a:
 
-- a. tenere una statistica aggiornata per l’osservazione del mercato del lavoro secondo l’articolo 36 LC e i numeri 17 e 150 dell’allegato all’ordinanza del 30 giugno 1993[^12-1] sulle rilevazioni statistiche;
+- a.[^12-1] stabilire le statistiche per l’osservazione del mercato del lavoro conformemente all’articolo 36 LC e a fornire i dati necessari alle altre statistiche conformemente all’allegato 1 dell’ordinanza del 30 aprile 2025[^12-2] sulla statistica federale;
 - b. garantire la ricerca sul mercato del lavoro secondo l’articolo 73 LADI;
 - c. fornire ai servizi coinvolti indicatori relativi alle prestazioni e alla gestione.
 
-[^12-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^12-1]: Nuovo testo giusta l’all. 3 n. 22 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^12-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 
 #### Art. 13
 

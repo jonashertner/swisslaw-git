@@ -4,11 +4,11 @@ title: "Ordonnance du 26 mai 2021 sur les systèmes d’information gérés par 
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: fr
-version: 2024-08-01
+version: 2025-06-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20240801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/fr"
 
 (Ordonnance sur les systèmes d’information AC, OSI-AC)
 
-du 26 mai 2021 (État le 1<sup>er</sup> août 2024)
+du 26 mai 2021 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -161,11 +161,12 @@ Les données contenues dans le système et les droits d’accès correspondants 
 
 Le système d’information servant à l’analyse des données du marché du travail au sens de l’art. 83, al. 1<sup>bis</sup>, let. c, LACI poursuit les buts suivants:
 
-- a. tenir une statistique actualisée en vue d’observer le marché du travail conformément à l’art. 36 LSE et aux ch. 17 et 150 de l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^12-1];
+- a.[^12-1] établir les statistiques permettant l’observation du marché du travail conformément à l’art. 36 LSE et fournir les données nécessaires aux autres statistiques conformément à l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^12-2];
 - b. assurer la recherche en matière de marché du travail au sens de l’art. 73 LACI;
 - c. fournir des indicateurs de performance et de conduite aux organes participant aux systèmes.
 
-[^12-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^12-1]: Nouvelle teneur selon l’annexe 3 ch. 22 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^12-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 
 #### Art. 13
 
@@ -376,7 +377,6 @@ Légendes
 <tr><td>3.1.13 Données de l’entreprise pour l’IC (n° REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail, aux rapports de participation et aux droits de l’assuré)</td><td>T</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.1.14 Données de l’institution étrangère ou de l’organisme de liaison étranger</td><td>V</td><td>V</td><td>V</td><td>T</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.1.15 Décomptes de l’organisme de liaison étranger</td><td>V</td><td>–</td><td>–</td><td>–</td><td>T</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>**3.2** **Indemnité en cas d’insolvabilité**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3.2.1 Données personnelles de l’assuré (cf. 3.1.1)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.2.2 Coordonnées de l’assuré (cf. 3.1.2)</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
@@ -390,14 +390,12 @@ Légendes
 <tr><td>3.2.10 Données de l’assuré relatives à l’impôt à la source</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.2.11 Décisions à l’intention de l’assuré</td><td>V</td><td>T</td><td>V</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.2.12 Données de l’entreprise pour l’ICI (n<sup>o</sup> REE, IDE, nom, forme juridique, adresse et données relatives à l’activité, aux rapports de travail et aux droits de l’assuré, données relatives au décompte en faveur des assurances sociales)</td><td>V</td><td>T</td><td>V</td><td></td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>**3.3** **Indemnité en cas de réduction de l’horaire** **de travail et en cas d’intempéries**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3.3.1 Données de l’entreprise pour la RHT/INTEMP (n° REE, IDE, nom, forme juridique, adresse, interlocuteur; effectif, travailleurs concernés, durée de la réduction de l’horaire de travail, caisse de compensation, questionnaire [présentation de l’entreprise, situation des commandes et marche des affaires, justification de la réduction de l’horaire de travail et perspectives])</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.3.2 Données personnelles des travailleurs (numéro AVS, numéro personnel AC, nom, prénom, sexe, date de naissance)</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.3.3 Données relatives au droit de toucher des indemnités, y compris les indemnités devant être restituées par l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.3.4 Données de paiement, y compris demandes de restitution, rappels et poursuites, demandes de remise et remises en faveur de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
 <tr><td>3.3.5 Décisions à l’intention de l’entreprise</td><td>V</td><td>V</td><td>T</td><td>–</td><td>T</td><td>–</td><td>–</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>**3.4** **Coûts de projet pour les mesures relatives** **aux MMT**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3.4.1 Données de paiement</td><td>–</td><td>–</td><td>–</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
 </table>
