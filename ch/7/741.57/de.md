@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Strassenver
 short: ISUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/782"
 language: de
-version: 2023-09-01
+version: 2025-06-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-782-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2018-782-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/de"
 
 (ISUV)
 
-vom 30. November 2018 (Stand am 1. September 2023)
+vom 30. November 2018 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -282,11 +282,11 @@ Das ASTRA erstellt halbjährlich eine standardisierte Strassenverkehrsunfall-Sta
 
 <sup>3</sup> Dritten werden anonymisierte Jahresdaten erst zur Verfügung gestellt, nachdem sie in der Strassenverkehrsunfall-Statistik publiziert worden sind.
 
-<sup>4</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Datenschutzverordnung vom 31. August 2022[^17-1] sowie nach dem BStatG und der Statistikerhebungsverordnung vom 30. Juni 1993[^17-2].[^17-3]
+<sup>4</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Datenschutzverordnung vom 31. August 2022[^17-1] sowie nach dem BStatG und der Bundesstatistikverordnung vom 30. April 2025[^17-2].[^17-3]
 
 [^17-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^17-3]: Fassung gemäss Anhang 2 Ziff. II 78 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^17-3]: Fassung gemäss Anhang 3 Ziff. 10 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 18
 

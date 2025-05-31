@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif aux
 short: OSAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/782"
 language: fr
-version: 2023-09-01
+version: 2025-06-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-782-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-782-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/fr"
 
 (OSAR)
 
-du 30 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 30 novembre 2018 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -282,11 +282,11 @@ L’OFROU établit chaque semestre une statistique normalisée des accidents de 
 
 <sup>3</sup> Les données de l’année rendues anonymes ne sont mises à la disposition de tiers qu’après leur publication dans la statistique des accidents de la route.
 
-<sup>4</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 sur la protection des données[^17-1], la LSF et l’ordonnance du 30 juin 1993 sur les relevés statistiques[^17-2].[^17-3]
+<sup>4</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 sur la protection des données[^17-1], la LSF et l’ordonnance du 30 avril 2025 sur la statistique fédérale[^17-2].[^17-3]
 
 [^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^17-3]: Nouvelle teneur selon l’annexe 2 ch. II 78 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^17-3]: Nouvelle teneur selon l’annexe 3 ch. 10 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 18
 
