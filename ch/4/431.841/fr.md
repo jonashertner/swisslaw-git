@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (État le 1<sup>er</sup> mai 2025)
+du 9 juin 2017 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 10, al. 3<sup>bis</sup>, de la loi du 9 octobre 1992 sur la statisti
 
 arrête:
 
-[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Section 1 Dispositions générales
@@ -57,11 +57,11 @@ Au sens de la présente ordonnance, on entend par:
 - f.[^2-7] *données de référence des bâtiments et des logements:* données servant de base pour l’identification, la catégorisation et la caractérisation des bâtiments et des logements ainsi que des objets similaires à un bâtiment ou à un logement.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^2-3]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-4]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^2-4]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 [^2-5]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^2-7]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Section 2 Organisation, gestion et contenu du RegBL
@@ -145,7 +145,7 @@ Les objets suivants sont enregistrés dans le RegBL:
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 
 #### Art. 8
 
@@ -209,14 +209,14 @@ Pour chaque logement et objet similaire à un logement, les informations suivant
 [^8-1]: Abrogées par le ch. I de l’O du 27 nov. 2024, avec effet au 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^8-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 [^8-7]: Introduite par le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-9]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-10]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-11]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-11]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 #### Art. 8a
 
@@ -245,17 +245,18 @@ Les sources suivantes, en particulier, peuvent être utilisées pour la mise à 
 - e. les registres administratifs des assurances immobilières cantonales;
 - f. les données collectées par la Poste, les services de télécommunication et les distributeurs d’électricité et de gaz ainsi que par les opérateurs de réseaux de chaleur;
 - g.[^9-1] les communications faites par des maîtres d’ouvrage, des architectes, des propriétaires, des sociétés de gestion immobilière, des assurances ainsi que d’autres sources privées;
-- h. les données d’autres relevés statistiques, pour autant que cette utilisation dans le RegBL soit explicitement mentionnée dans l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^9-2];
+- h.[^9-2] les données d’autres relevés statistiques, pour autant que cette utilisation dans le RegBL soit explicitement mentionnée dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^9-3];
 - i. les données relevées lors du contrôle cantonal et communal des installations de combustion;
 - j. les données relevées pour l’établissement des certificats énergétiques cantonaux des bâtiments (CECB).
 
-<sup>3</sup> Les données tirées de registres et de répertoires de la Confédération, des cantons et des communes doivent être mises gratuitement à la disposition de l’OFS ou d’un service en charge d’un registre reconnu pour la mise à jour du RegBL.[^9-3]
+<sup>3</sup> Les données tirées de registres et de répertoires de la Confédération, des cantons et des communes doivent être mises gratuitement à la disposition de l’OFS ou d’un service en charge d’un registre reconnu pour la mise à jour du RegBL.[^9-4]
 
 <sup>4</sup> Les personnes physiques ou morales et les institutions chargées de tâches de droit public sont tenues de fournir les informations selon art. 8.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^9-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^9-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^9-2]: Nouvelle teneur selon l’annexe 3 ch. 7 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 15 janv. 2025 ([RO 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 10
 
@@ -374,7 +375,7 @@ L’OFS publie, sur Internet et via l’interface standardisée, les données du
 
 <sup>4</sup> La perception d’émoluments par l’OFS est réglée par l’ordonnance du 25 juin 2003 sur les émoluments et les indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^17-1].
 
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 ## Section 4 Sécurité des données
 
@@ -393,9 +394,9 @@ La sécurité des données est régie par:
 
 [^18-1]: Nouvelle teneur selon l’annexe ch. 25 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^18-2]: Nouvelle teneur selon l’annexe 2 ch. II 55 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^18-4]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18-6]: Introduit par l’annexe 2 ch. II 55 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
@@ -468,8 +469,8 @@ Annexe 1[^t-1]
 <tr><td>Nombre de logements concernés par le projet</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^annex1-lvlu1-2]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^annex1-lvlu1-1]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^annex1-lvlu1-2]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 Annexe 2
 

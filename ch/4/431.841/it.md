@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° maggio 2025)
+del 9 giugno 2017 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 10 capoverso 3<sup>bis</sup> della legge del 9 ottobre 1992 s
 
 ordina:
 
-[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 1: Disposizioni generali
@@ -57,12 +57,12 @@ Nella presente ordinanza si intende per:
 - f.[^2-7] *dati di base degli edifici* e *delle abitazioni:* dati che fungono da base per l’identificazione, l’attribuzione di categorie e caratteristiche di edifici e abitazioni nonché di oggetti simili a edifici e abitazioni.
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^2-3]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-4]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
-[^2-5]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^2-7]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^2-3]: Introdotta dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-4]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
+[^2-5]: Introdotta dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^2-6]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^2-7]: Introdotta dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 2: Organizzazione, gestione e contenuto del REA
 
@@ -82,8 +82,8 @@ Nella presente ordinanza si intende per:
 
 <sup>6</sup> Garantisce che i dati di base degli edifici e delle abitazioni siano gratuitamente a disposizione dei servizi amministrativi della Confederazione, dei Cantoni e dei Comuni per l’adempimento dei loro compiti legali.[^3-2]
 
-[^3-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^3-2]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^3-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^3-2]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 4
 
@@ -145,7 +145,7 @@ Nel REA sono registrati gli oggetti seguenti:
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^7-4]: [RS 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 
 #### Art. 8
 
@@ -209,14 +209,14 @@ Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA l
 [^8-1]: Abrogate dalla cifra I dell’O del 27 nov. 2024, con effetto dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-4]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^8-5]: Nuovo testo giusta l’all. n. 1 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^8-7]: Introdotta dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8-6]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^8-7]: Introdotta dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-9]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-10]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-11]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-11]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 #### Art. 8a
 
@@ -226,7 +226,7 @@ Per ogni abitazione e oggetto simile a un’abitazione sono registrate nel REA l
 
 <sup>2</sup> Sono considerati dati di base delle abitazioni e di oggetti simili a un’abitazione gli indentificatori e le caratteristiche definite come tali nel catalogo delle caratteristiche dell’UST secondo l’articolo 3 capoverso 1 per i dati del registro degli edifici e delle abitazioni secondo l’articolo 8 capoverso 3 lettere a, d e f–h.
 
-[^8a-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 9
 
@@ -245,18 +245,19 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 - e. registri amministrativi delle assicurazioni immobiliari cantonali;
 - f.[^9-1] banche dati della Posta, dei servizi di telecomunicazione, dei fornitori di elettricità e di gas nonché dei gestori delle reti di riscaldamento a distanza;
 - g.[^9-2] notifiche di committenti, architetti, proprietari, società di gestione immobiliare, assicurazioni e di altre fonti private;
-- h. dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato dell’ordinanza del 30 giugno 1993[^9-3] sulle rilevazioni statistiche;
+- h.[^9-3] dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato 2 dell’ordinanza del 30 aprile 2025[^9-4] sulla statistica federale;
 - i. dati rilevati in occasione di controlli cantonali e comunali di impianti di combustione;
 - j. dati rilevati per il rilascio di certificati energetici cantonali degli edifici (CECE).
 
-<sup>3</sup> Per l’aggiornamento del REA i dati dei registri e degli elenchi della Confederazione, dei Cantoni e dei Comuni sono messi gratuitamente a disposizione dall’UST o da un servizio incaricato di un registro riconosciuto.[^9-4]
+<sup>3</sup> Per l’aggiornamento del REA i dati dei registri e degli elenchi della Confederazione, dei Cantoni e dei Comuni sono messi gratuitamente a disposizione dall’UST o da un servizio incaricato di un registro riconosciuto.[^9-5]
 
 <sup>4</sup> Le persone fisiche o giuridiche e le istituzioni con compiti di diritto pubblico sono tenute a fornire le informazioni di cui all’articolo 8.
 
 [^9-1]: Nuovo testo giusta l’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^9-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^9-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^9-4]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^9-3]: Nuovo testo giusta l’all. 3 n. 7 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-4]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 10
 
@@ -290,7 +291,7 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 
 <sup>5</sup> Le autorità e i servizi responsabili delle fonti dei dati menzionate nell’articolo 9 capoverso 2 segnalano al servizio responsabile dell’aggiornamento del REA eventuali irregolarità, quali lacune o errori, dei dati di base degli edifici e delle abitazioni.[^12-1]
 
-[^12-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^12-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 13
 
@@ -302,7 +303,7 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 
 <sup>3</sup> Mette a disposizione un’interfaccia standardizzata per la segnalazione di irregolarità nei dati di base degli edifici e delle abitazioni nonché di altri dati. Le irregolarità segnalate e la loro correzione sono comunicate ai servizi responsabili dell’aggiornamento del REA a scopo di convalida.[^13-1]
 
-[^13-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^13-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## Sezione 3: Impiego e comunicazione dei dati
 
@@ -353,7 +354,7 @@ L’impiego di questi dati è vincolante per le seguenti autorità che necessita
 
 <sup>2</sup> Se le autorità federali, cantonali e comunali accertano discrepanze tra di dati di base degli edifici e delle abitazioni e i propri dati, lo segnalano all’UST utilizzando l’apposita interfaccia di cui all’articolo 13 capoverso 3.
 
-[^15a-1]: Introdotto dal cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 27 nov. 2024, in vigore dal 15 gen. 2025 ([RU 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 16
 
@@ -375,7 +376,7 @@ L’UST pubblica in Internet e attraverso interfacce standardizzate i dati del R
 
 <sup>4</sup> La riscossione degli emolumenti da parte dell’UST è disciplinata nell’ordinanza del 25 giugno 2003[^17-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
 
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 ## Sezione 4: Sicurezza dei dati
 
@@ -394,9 +395,9 @@ La sicurezza dei dati è disciplinata:
 
 [^18-1]: Nuovo testo giusta l’all. n. 25 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^18-2]: Nuovo testo giusta l’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^18-4]: Nuovo testo giusta l’all. 2 cifra II n. 26 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18-6]: Introdotto dall’all. 2 cifra II n. 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
@@ -469,8 +470,8 @@ Allegato 1[^t-1]
 <tr><td>Numero di abitazioni del progetto di costruzione</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^annex1-lvlu1-2]: [RS 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^annex1-lvlu1-1]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^annex1-lvlu1-2]: [RS 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 Allegato 2
 

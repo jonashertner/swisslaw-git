@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250501/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. Mai 2025)
+vom 9. Juni 2017 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 10 Absatz 3<sup>bis</sup> des Bundesstatistikgesetzes vom 
 
 verordnet:
 
-[^ingress-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-2]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-1]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-2]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -57,11 +57,11 @@ In dieser Verordnung bedeuten:
 - f.[^2-7] *Gebäude-* und *Wohnungsstammdaten:* Daten, die als Grundlage für die Identifikation, die Kategorisierung und die Charakterisierung von Gebäuden und Wohnungen sowie von gebäude- und wohnungsähnlichen Objekten dienen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^2-3]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-4]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^2-4]: [SR 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 [^2-5]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^2-6]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^2-6]: [SR 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^2-7]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 ## 2. Abschnitt: Organisation, Führung und Inhalt des GWR
@@ -145,7 +145,7 @@ Im GWR werden folgende Objekte geführt:
 [^7-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^7-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^7-4]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^7-4]: [SR 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 
 #### Art. 8
 
@@ -209,14 +209,14 @@ Im GWR werden zu jeder Wohnung und zu jedem wohnungsähnlichen Objekt folgende I
 [^8-1]: Aufgehoben durch Ziff. I der V vom 27. Nov. 2024, mit Wirkung seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-4]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^8-4]: [SR 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^8-5]: Fassung gemäss Anhang Ziff. 1 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^8-6]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^8-6]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 [^8-7]: Eingefügt durch Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-8]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-9]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 [^8-10]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^8-11]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^8-11]: [SR 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 #### Art. 8a
 
@@ -245,18 +245,19 @@ Für die Nachführung der im GWR geführten Informationen können insbesondere f
 - e. Verwaltungsregister der kantonalen Gebäudeversicherungen;
 - f.[^9-1] Datenbanken der Post, der Fernmeldedienste, der Elektrizitäts- und Gasversorger und der Betreiber von Wärmeverbünden;
 - g.[^9-2] Meldungen der Bauherrschaft, von Architektinnen und Architekten, von Eigentümerinnen und Eigentümern, von Immobilienverwaltungen, von Versicherungen und von weiteren privaten Quellen;
-- h. Daten anderer statistischer Erhebungen, sofern deren Verwendung im GWR im Anhang zur Statistikerhebungsverordnung vom 30. Juni 1993[^9-3] ausdrücklich erwähnt ist;
+- h.[^9-3] Daten anderer statistischer Erhebungen, sofern deren Verwendung im GWR in Anhang 1 zur Bundesstatistikverordnung vom 30. April 2025[^9-4] ausdrücklich erwähnt ist;
 - i. Daten, die anlässlich kantonaler und kommunaler Feuerungskontrollen erhoben werden;
 - j. Daten, die für die Ausstellung kantonaler Gebäudeenergieausweise (GEAK) erhoben werden.
 
-<sup>3</sup> Daten aus Registern und Verzeichnissen des Bundes, der Kantone und der Gemeinden sind dem BFS oder der registerführenden Stelle eines anerkannten Registers für die Nachführung des GWR unentgeltlich zur Verfügung zu stellen.[^9-4]
+<sup>3</sup> Daten aus Registern und Verzeichnissen des Bundes, der Kantone und der Gemeinden sind dem BFS oder der registerführenden Stelle eines anerkannten Registers für die Nachführung des GWR unentgeltlich zur Verfügung zu stellen.[^9-5]
 
 <sup>4</sup> Natürliche und juristische Personen und Institutionen, die mit öffentlich-rechtlichen Aufgaben betraut sind, sind verpflichtet, die Informationen nach Artikel 8 zu liefern.
 
 [^9-1]: Fassung gemäss Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
-[^9-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^9-4]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
+[^9-3]: Fassung gemäss Anhang 3 Ziff. 7 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-4]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^9-5]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 15. Jan. 2025 ([AS 2024 760](https://fedlex.data.admin.ch/eli/oc/2024/760)).
 
 #### Art. 10
 
@@ -375,7 +376,7 @@ Das BFS veröffentlicht die Daten des GWR der Stufe A, einschliesslich allfälli
 
 <sup>4</sup> Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003[^17-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
 
-[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
 
 ## 4. Abschnitt: Datensicherheit
 
@@ -394,9 +395,9 @@ Für die Datensicherheit gelten:
 
 [^18-1]: Fassung gemäss Anhang Ziff. 25 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^18-2]: Fassung gemäss Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^18-4]: Fassung gemäss Anhang 2 Ziff. II 26 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18-6]: Eingefügt durch Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
@@ -469,8 +470,8 @@ Anhang 1[^t-1]
 <tr><td>Anzahl Wohnungen des Bauprojekts</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
-[^annex1-lvlu1-2]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^annex1-lvlu1-1]: [SR 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
+[^annex1-lvlu1-2]: [SR 702](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8357)
 
 Anhang 2
 
