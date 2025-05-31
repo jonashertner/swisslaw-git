@@ -1,0 +1,845 @@
+---
+canton: GE
+number: A 4 05
+title: Loi sur le droit de cité genevois (LDCG)
+short: LDCG
+language: fr
+version: 2025-06-01
+adopted: 2023-03-02
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_a4_05.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi sur le droit de cité genevois (LDCG)
+**Dernières modifications au 1<sup>er</sup> juin 2025**
+
+du 2 mars 2023
+
+(Entrée en vigueur : 1<sup>er</sup> septembre 2024)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu la loi fédérale sur la nationalité suisse, du 20 juin 2014 (ci-après : la loi fédérale);
+
+vu l’ordonnance fédérale sur la nationalité suisse, du 17 juin 2016 (ci-après : l’ordonnance fédérale);
+
+vu les articles 6 et 210 de la constitution de la République et canton de Genève, du 14 octobre 2012,
+
+décrète ce qui suit :
+
+## Titre I Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente loi a pour objet l'application des normes prévues par le droit fédéral relatives à l'acquisition et à la perte de la nationalité suisse ainsi que les conditions d'acquisition et de perte du droit de cité cantonal et communal pour, respectivement, les personnes confédérées et les citoyennes et les citoyens genevois.
+
+<sup>2</sup> Elle détermine le champ de compétences du canton et des communes.
+
+#### Art. 2
+
+**Définitions**
+
+<sup>1</sup> Le droit fédéral visé par la présente loi porte sur la loi fédérale, sur l’ordonnance fédérale ainsi que sur les directives d’application édictées par l’autorité fédérale.
+
+<sup>2</sup> La majorité est déterminée par l'article 14 du code civil suisse, du 10 décembre 1907 (ci-après : code civil suisse).
+
+<sup>3</sup> Les termes « personne confédérée » désignent tout ressortissante ou ressortissant suisse qui ne dispose pas du droit de cité genevois.
+
+<sup>4</sup> Les termes « personne étrangère » désignent toute personne qui ne dispose pas de la nationalité suisse.
+
+<sup>5</sup> Le terme « naturalisation » vise la procédure d'obtention de la nationalité suisse.
+
+<sup>6</sup> Le terme « droit de cité genevois » désigne le droit de cité cantonal.
+
+<sup>7</sup> Le terme « autorité compétente » désigne le département mentionné à l'article 5, alinéa 1, lettre a, et, le cas échéant, l'office qu'il a désigné conformément à l'article 5, alinéa 3.
+
+<sup>8</sup> Le terme « autorité fédérale » désigne l’autorité compétente au niveau fédéral pour appliquer la loi fédérale et l’ordonnance fédérale.
+
+#### Art. 3
+
+**Intégration**
+
+<sup>1</sup> L’acquisition de la nationalité suisse constitue l’ultime étape administrative de l’intégration.
+
+<sup>2</sup> Une intégration est considérée comme réussie, par le canton de Genève, lorsque la personne requérante respecte la sécurité et l’ordre publics ainsi que les valeurs de la Constitution fédérale, du 18 avril 1999, et de la constitution de la République et canton de Genève, du 14 octobre 2012, lorsqu’elle est apte à communiquer en français et lorsqu’elle démontre sa volonté de participer à la vie économique ou d’acquérir une formation.
+
+<sup>3</sup> L’autorité compétente doit prendre en compte la situation spécifique de la personne requérante. Elle doit le cas échéant lui apporter son soutien afin qu'elle puisse acquérir les connaissances nécessaires pour justifier d’une intégration suffisante en vue de l’obtention de la nationalité suisse.
+
+<sup>4</sup> L'autorité compétente veille tout particulièrement à organiser des séances d'information à l'intégration en faveur des personnes visées par l'article 12, alinéa 2, de la loi fédérale. Elle peut déléguer cette tâche à des associations à but non lucratif œuvrant pour l'intégration des personnes étrangères dans le canton de Genève.
+
+#### Art. 4
+
+**Modes d'acquisition et de perte du droit de cité genevois et de la nationalité suisse**
+
+Le droit de cité genevois et la nationalité suisse s'acquièrent et se perdent selon les cas :
+
+- a) par le seul effet de la loi;
+- b) par décision de l'autorité cantonale;
+- c) par décision de l'autorité fédérale.
+
+#### Art. 5
+
+**Autorités cantonales compétentes**
+
+<sup>1</sup> Le Conseil d'Etat est l'autorité compétente pour :
+
+- a) désigner le département compétent en matière d'acquisition et de perte de la nationalité (ci-après : département);
+- b) rendre la décision de naturalisation;
+- c) se prononcer sur le préavis communal;
+- d) rejeter la requête en naturalisation en raison de faits nouveaux survenus après l’octroi de l’autorisation fédérale;
+- e) octroyer le droit de cité genevois et communal pour les personnes étrangères admises à la naturalisation;
+- f) constater le droit de cité genevois et communal de l’enfant mineur trouvé;
+- g) recevoir la prestation de serment des personnes étrangères ou des membres de leur famille admis à la naturalisation;
+- h) se prononcer sur les demandes de réintégration ou de renonciation au droit de cité genevois;
+- i) annuler le droit de cité genevois;
+- j) constater la perte du droit de cité genevois et communal par reconnaissance de l’enfant trouvé;
+- k) donner son assentiment au retrait de la nationalité suisse;
+- l) proposer l'octroi de la bourgeoisie d'honneur.
+
+<sup>2</sup> Le Grand Conseil est l'autorité compétente pour décerner la bourgeoisie d'honneur.
+
+<sup>3</sup> Le département est l'autorité compétente, avec possibilité de délégation à l'un de ses offices, pour :
+
+- a) enregistrer ou refuser d'enregistrer la demande de naturalisation ordinaire;
+- b) déclarer irrecevable la demande de naturalisation ordinaire;
+- c) suspendre la procédure de naturalisation ordinaire;
+- d) classer la demande de naturalisation ordinaire;
+- e) rendre toute décision qui ne relève pas expressément de la compétence d'une autre autorité en vertu de l'article 5;
+- f) procéder aux instructions découlant de la présente loi ou de son règlement d'application (ci-après : règlement).
+
+<sup>4</sup> Les communes sont compétentes pour :
+
+- a) préaviser positivement ou négativement la demande de naturalisation de la personne requérante domiciliée sur leur territoire;
+- b) demander à la personne requérante des précisions complémentaires relatives à sa situation personnelle et à celle de sa famille;
+- c) procéder, sur demande du département, à une vérification sommaire de la résidence effective et de l’intégration de la personne requérante;
+- d) compléter l'offre de formation du canton sur les connaissances générales à maîtriser;
+- e) décider de l'octroi du droit de cité communal;
+- f) libérer une citoyenne ou un citoyen genevois du droit de cité communal.
+
+<sup>5</sup> La chambre administrative de la Cour de justice est compétente pour connaître des recours interjetés contre les décisions prises en vertu de la présente loi, à l’exception des décisions sur l’octroi de la bourgeoisie d’honneur et le préavis communal en matière de naturalisation ordinaire, qui ne sont pas sujettes à recours.
+
+#### Art. 6
+
+**Devoir de collaboration de la personne requérante**
+
+<sup>1</sup> La personne requérante est tenue :
+
+- a) de fournir des indications exactes et complètes sur les éléments déterminants pour l'application de la présente loi;
+- b) de communiquer sans retard les moyens de preuve nécessaires et tout document demandé par l'autorité compétente;
+- c) d'informer immédiatement l'autorité compétente de tout changement déterminant pour l'application de la présente loi, en particulier lorsque celui-ci concerne sa situation économique et familiale ou lorsque l’ouverture d’une enquête pénale est portée à sa connaissance pendant la procédure de naturalisation.
+
+<sup>2</sup> Pour faciliter l’enquête prévue, la personne requérante délie en outre toute administration du secret de fonction et du secret fiscal.
+
+<sup>3</sup> Si l'une des obligations mentionnées aux alinéas 1 et 2 n'est pas respectée, le département pourra statuer en l'état du dossier et, le cas échéant, déclarer la demande irrecevable.
+
+#### Art. 7
+
+**Protection des données**
+
+<sup>1</sup> Pour l'accomplissement de ses tâches en vertu de la présente loi, l'autorité compétente peut traiter ou faire traiter les données personnelles nécessaires, y compris les données sensibles et les profils de personnalité.
+
+<sup>2</sup> Le règlement fixe les dispositions d'application.
+
+<sup>3</sup> La loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001, ainsi que la loi sur les archives publiques, du 1<sup>er</sup> décembre 2000, sont applicables pour le surplus.
+
+#### Art. 8
+
+**Entraide administrative**
+
+<sup>1</sup> L'autorité compétente peut échanger des informations avec les autorités concernées par l'exécution de la présente loi, notamment celles qui sont compétentes en matière de police des étrangers et d’état civil, à la condition que ces informations soient utiles à l’instruction de la demande de naturalisation ou à l’application de la loi fédérale sur les étrangers et l'intégration, du 16 décembre 2005. Sur demande, elles s’accordent le droit de consulter les dossiers.
+
+<sup>2</sup> Les autres autorités cantonales et communales, les autorités judiciaires cantonales, ainsi que celles chargées de l’assistance publique communiquent, gratuitement et sans délai, aux autorités chargées de l’application de la présente loi, sur demande de celles-ci, toutes les données qui sont nécessaires à l’accomplissement de leurs tâches légales.
+
+## Titre II Acquisition du droit de cité genevois et de la nationalité suisse
+
+### Chapitre I Acquisition par le seul effet de la loi
+
+#### Art. 9
+
+**Enfant**
+
+L’acquisition du droit de cité genevois et de la nationalité suisse par le seul effet de la loi est régie par la loi fédérale et le code civil suisse, sous réserve de l’article 10, alinéa 1.
+
+#### Art. 10
+
+**Enfant trouvé**
+
+<sup>1</sup> L’enfant mineur de filiation inconnue trouvé sur le territoire du canton acquiert le droit de cité genevois et le droit de cité de la commune dans laquelle elle ou il a été trouvé, et par là même la nationalité suisse.
+
+<sup>2</sup> Après avis de l’exécutif de la commune concernée, le Conseil d’Etat accorde, par arrêté, le droit de cité genevois ainsi que le droit de cité communal.<sup>(1)</sup>
+
+### Chapitre II Acquisition par décision de l’autorité cantonale
+
+### Section 1 Acquisition du droit de cité genevois par les personnes confédérées
+
+#### Art. 11
+
+**Conditions**
+
+<sup>1</sup> La personne confédérée peut, à titre individuel ou avec sa conjointe ou son conjoint ou sa ou son partenaire enregistré, demander le droit de cité genevois si elle a résidé d’une manière effective sur le territoire du canton pendant 2 ans, dont les 12 mois précédant le dépôt de sa requête.
+
+<sup>2</sup> Elle doit indiquer la commune dont elle veut obtenir le droit de cité.
+
+<sup>3</sup> Elle a le choix entre sa commune de domicile, l'une de celles où elle a résidé précédemment ou la commune d'origine de sa conjointe ou de son conjoint, respectivement de sa ou son partenaire enregistré, genevois.
+
+#### Art. 12
+
+**La conjointe ou le conjoint, la ou le partenaire enregistré et les enfants**
+
+<sup>1</sup> La requête émanant d’une personne confédérée mariée ou liée par un partenariat enregistré n’inclut la conjointe ou le conjoint, respectivement la ou le partenaire enregistré, que si cette dernière ou ce dernier y consent par écrit.
+
+<sup>2</sup> Les enfants mineurs de la personne requérante sont compris dans sa requête. Ceux-ci doivent toutefois y consentir par écrit s’ils ont plus de 16 ans. Le consentement de l’autre parent est nécessaire si la personne requérante n'est pas titulaire de l’exercice exclusif de l’autorité parentale. Ce consentement est présumé si l’autre parent est compris dans la demande. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+<sup>3</sup> La personne confédérée mineure qui présente une demande de droit de cité genevois à titre individuel doit produire la preuve du consentement de ses deux parents, en cas d’autorité parentale conjointe. La réserve prévue à l’alinéa 2 est également applicable.
+
+#### Art. 13
+
+**Procédure et émolument**
+
+<sup>1</sup> La personne requérante adresse sa demande au département sur une formule ad hoc.
+
+<sup>2</sup> Elle doit verser un émolument destiné à couvrir au plus les frais de procédure, dont le montant est fixé dans le règlement.
+
+<sup>3</sup> L'émolument est exigible au moment du dépôt de la demande et reste acquis à l’administration cantonale, quelle que soit la décision prise au sujet de la requête.
+
+#### Art. 14
+
+**Octroi du droit de cité genevois**
+
+Le département examine la demande et, suite à sa proposition, le Conseil d’Etat statue par arrêté.
+
+#### Art. 15
+
+**Déclaration d’engagement solennel**
+
+Après que la demande a été acceptée, la personne confédérée majeure et sa conjointe ou son conjoint ou sa ou son partenaire enregistré, compris dans sa demande, signent la déclaration d’engagement solennel dont la teneur est la suivante :
+
+« Je m’engage solennellement :
+
+à être fidèle à la République et canton de Genève;
+
+à en observer scrupuleusement la constitution et les lois;
+
+à en respecter les traditions;
+
+à justifier par mes actes et mon comportement mon adhésion à la communauté genevoise;
+
+à contribuer de tout mon pouvoir à la maintenir libre et prospère. »
+
+#### Art. 16
+
+**Effet de l’acquisition du droit de cité genevois**
+
+L’acquisition du droit de cité genevois prend effet :
+
+- a) à la date de la signature de la déclaration d’engagement solennel pour la personne confédérée majeure et ses enfants inclus dans la demande;
+- b) à la date de l’arrêté du Conseil d’Etat pour la personne confédérée mineure ayant un dossier individuel.
+
+### Section 2 Naturalisation de personnes étrangères
+
+#### Art. 17
+
+**Conditions formelles**
+
+<sup>1</sup> Pour être admise à déposer une demande de naturalisation ordinaire dans le canton de Genève, la personne étrangère doit, au moment du dépôt de la demande :
+
+- a) remplir les conditions formelles prévues par la législation fédérale;
+- b) avoir résidé 2 ans dans le canton d’une manière effective, dont les 12 mois précédant l’introduction de sa demande.
+
+<sup>2</sup> La condition de résidence est réalisée, d’une part, lorsque la personne requérante étrangère est valablement inscrite dans le registre cantonal des habitants comme établie dans le canton de Genève, et, d’autre part, lorsqu’aucun indice ne donne à penser qu'elle a déplacé sa résidence principale à l’étranger.
+
+<sup>3</sup> Un transfert de domicile dans un autre canton ne remet pas en cause la procédure de naturalisation, à compter de l’avis du département concluant à la fin de l’examen des conditions des articles 11 et 12 de la loi fédérale. L'avis de clôture n’est délivré que sur demande de la personne requérante.
+
+<sup>4</sup> La personne requérante doit résider effectivement en Suisse et être au bénéfice de l'autorisation d'établissement en cours de validité pendant toute la durée de la procédure.
+
+<sup>5</sup> Le calcul de la durée du séjour, la notion de non-interruption de séjour et celle de fin de séjour sont définis par le droit fédéral.
+
+<sup>6</sup> Le règlement mentionne l’ensemble des documents devant être présentés lors du dépôt de la demande de naturalisation ordinaire pour la vérification des conditions formelles, ainsi que les exceptions à la présentation de ceux-ci.
+
+#### Art. 18
+
+**Enfants mineurs**
+
+<sup>1</sup> Les enfants mineurs qui vivent avec la personne requérante sont en principe compris dans la demande de naturalisation ordinaire. Le consentement de l’autre parent est nécessaire si la personne requérante n'est pas titulaire de l’exercice exclusif de l’autorité parentale. Ce consentement est présumé si l’autre parent est compris dans la demande. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+<sup>2</sup> Dès 12 ans révolus, l’enfant doit remplir elle-même ou lui-même les conditions des articles 11 et 12 de la loi fédérale.
+
+<sup>3</sup> Dès 16 ans révolus, l’enfant doit exprimer personnellement, par écrit, son intention d’acquérir la nationalité suisse.
+
+#### Art. 19
+
+**Conditions matérielles**
+
+Les conditions matérielles à l’octroi d’une naturalisation ordinaire sont définies par le droit fédéral et sont complétées par les dispositions des articles 20 à 26.
+
+#### Art. 20
+
+**Respect de la sécurité et de l’ordre publics**
+
+<sup>1</sup> Pour les personnes requérantes majeures, le département consulte, avant tout autre examen, le casier judiciaire informatisé VOSTRA.
+
+<sup>2</sup> Pour les personnes requérantes âgées de 12 à 18 ans, le département consulte systématiquement la juridiction pénale des mineurs.
+
+<sup>3</sup> Lorsque le département constate que la personne requérante ne remplit pas les critères d’intégration en raison d’une inscription figurant dans le casier judiciaire informatisé VOSTRA portant sur une sanction énumérée à l’article 4, alinéa 2, de l’ordonnance fédérale, il transmet son dossier au Conseil d’Etat pour décision.
+
+<sup>4</sup> Lorsqu’une procédure pénale est pendante, le département poursuit l’instruction des autres conditions formelles et matérielles de la naturalisation. Il suspend la procédure de naturalisation si, au terme de l’instruction, la clôture définitive de la procédure par la justice pénale n’est pas encore intervenue.
+
+<sup>5</sup> Le département peut suspendre la procédure de naturalisation, notamment lorsqu’il apparaît que la justice pénale a terminé l’instruction et qu’un jugement devrait être rendu dans un court délai.
+
+<sup>6</sup> Le règlement définit les autres comportements pouvant également constituer, en vertu du droit fédéral, un obstacle à la naturalisation. Il précise en outre les modalités de la consultation et de l’utilisation des données obtenues auprès du casier judiciaire informatisé VOSTRA ainsi qu’auprès des autorités de poursuite pénale et des juridictions pénales.
+
+#### Art. 21
+
+**Connaissances linguistiques**
+
+<sup>1</sup> La personne requérante doit justifier de connaissances orales et écrites en français. Sont fixés par le droit fédéral le niveau requis, les critères d'évaluation et les cas dans lesquels la preuve des compétences linguistiques doit être fournie.
+
+<sup>2</sup> Le département refuse d'enregistrer la demande de naturalisation ordinaire lorsque l'attestation de langue n'est pas conforme aux exigences prévues par l'alinéa 1.
+
+<sup>3</sup> Le règlement fixe les modalités de contrôle des connaissances linguistiques acquises par la personne requérante.
+
+#### Art. 22
+
+**Connaissances générales sur les conditions de vie en Suisse et dans le canton de Genève**
+
+<sup>1</sup> Le département procède, au moyen d’un test écrit, au contrôle des connaissances générales de la personne requérante sur la géographie, l’histoire, la politique et les particularités sociales de la Suisse et du canton de Genève (ci-après : connaissances générales), et délivre une attestation en cas de réussite.
+
+<sup>2</sup> Le département refuse d'enregistrer la demande de naturalisation ordinaire lorsque la personne requérante a échoué au test visé à l'alinéa 1.
+
+<sup>3</sup> Le règlement fixe les modalités de formation et de contrôle des connaissances générales acquises par la personne requérante.
+
+<sup>4</sup> La formation nécessaire à l’acquisition des connaissances générales est mise à disposition de toutes les personnes requérantes par le département.
+
+<sup>5</sup> Les communes sont autorisées à compléter, au moyen de modules complémentaires, l’offre de formation du canton.
+
+#### Art. 23
+
+**Personnes étrangères et nées dans le canton de Genève et personnes étrangères de moins de 25 ans**
+
+<sup>1</sup> Lorsqu’il constate qu’aucun indice ne laisse supposer une intégration insuffisante, le département peut dispenser la personne requérante des tests linguistiques et portant sur les connaissances générales, aux conditions alternatives suivantes :
+
+- a) la personne requérante est née dans le canton de Genève, et y a séjourné sans interruption jusqu’au moment du dépôt de sa demande de naturalisation;
+- b) la personne requérante est âgée de moins de 25 ans révolus et a accompli 5 ans de scolarité obligatoire dans le canton de Genève ou y a suivi une formation de degré secondaire II ou du degré tertiaire et y séjourne depuis lors.
+
+<sup>2</sup> La dispense des tests doit être communiquée à la personne requérante par écrit.
+
+<sup>3</sup> Le règlement énumère l’ensemble des documents devant être présentés pour évaluer la réalisation des conditions. Il précise également les indices qui laissent supposer une intégration insuffisante, ainsi que la procédure d'évaluation des personnes requérantes qui ne remplissent pas l'ensemble des critères fixés à l'alinéa 1.
+
+#### Art. 24
+
+**Participation à la vie économique ou acquisition d’une formation**
+
+<sup>1</sup> La personne requérante doit justifier d’une situation économique permettant de subvenir à ses besoins et à ceux des membres de sa famille dont elle a la charge.
+
+<sup>2</sup> L’intégration peut également être considérée comme réalisée lorsque la personne requérante apporte la preuve qu’elle suit ou vient d’achever une formation (contrat d’apprentissage ou diplôme).
+
+<sup>3</sup> La personne requérante ne doit pas avoir été à la charge de l’assistance publique dans les 3 ans précédant le dépôt de sa demande de naturalisation et pendant toute la durée de la procédure.
+
+<sup>4</sup> La personne requérante ne doit pas avoir fait l'objet de poursuites en force ou d'actes de défaut de biens dans les 5 dernières années et doit avoir intégralement acquitté ses impôts.
+
+<sup>5</sup> Le département peut refuser d'entrer en matière sur la demande de naturalisation ordinaire si la personne requérante ne remplit pas les conditions posées aux alinéas 3 et 4.
+
+<sup>6</sup> Le règlement fixe les modalités de vérification des critères portant sur la participation à la vie économique ou à l’acquisition d’une formation et précise les exceptions à l'alinéa 4.
+
+#### Art. 25
+
+**Encouragement de l’intégration des membres de la famille de nationalité étrangère**
+
+<sup>1</sup> La personne requérante encourage l'intégration dans la communauté genevoise de sa conjointe ou de son conjoint ou de sa ou son partenaire enregistré ou des enfants mineurs sur lesquels est exercée l'autorité parentale, en particulier par leur participation à la vie sociale, culturelle et économique.
+
+<sup>2</sup> En cas de doute, le département peut auditionner la conjointe ou le conjoint, la ou le partenaire enregistré ou les enfants mineurs sur lesquels est exercée l’autorité parentale, et procéder à des investigations supplémentaires.
+
+<sup>3</sup> Le règlement fixe les modalités de vérification de l'encouragement par la personne requérante de l'intégration de sa conjointe ou son conjoint, de sa ou son partenaire enregistré ou des enfants mineurs sur lesquels est exercée l'autorité parentale.
+
+#### Art. 26
+
+**Prise en compte des circonstances personnelles**
+
+<sup>1</sup> Le département tient compte de manière appropriée de la situation particulière de la personne requérante lors de l’appréciation des critères énumérés aux articles 21, 22 et 24 de la présente loi, lorsqu’il apparaît qu'elle est dans l’incapacité de satisfaire aux conditions précitées en raison des circonstances personnelles visées aux articles 12, alinéa 2, de la loi fédérale, et 9 de l’ordonnance fédérale.
+
+<sup>2</sup> Si une circonstance personnelle est reconnue, le département peut toutefois astreindre la personne requérante à suivre les séances d'information à l'intégration visées à l’article 3, alinéa 4, à la condition toutefois que sa situation personnelle ou médicale le permette.
+
+<sup>3</sup> Le règlement fixe la procédure d’examen des situations dans lesquelles la personne requérante pourrait se prévaloir de circonstances personnelles et détermine les modalités d’accès aux séances d’information à l’intégration.
+
+#### Art. 27
+
+**Procédure**
+
+<sup>1</sup> La personne étrangère dépose sa demande de naturalisation auprès du département.
+
+<sup>2</sup> Elle doit indiquer la commune dont elle veut obtenir le droit de cité.
+
+<sup>3</sup> Elle a le choix entre la commune où elle réside et l’une de celles où elle a résidé.
+
+<sup>4</sup> Les époux ayant déposé une demande collective gardent un dossier commun jusqu’à la fin de la procédure. Sous réserve de justes motifs, la naturalisation est accordée, suspendue ou refusée indivisément à toutes les personnes comprises dans la requête.
+
+#### Art. 28
+
+**Dépôt de la demande de naturalisation ordinaire**
+
+<sup>1</sup> La demande de naturalisation est considérée comme valablement déposée lorsque la formule officielle, complétée de toutes les annexes requises, est remise au département.
+
+<sup>2</sup> Si les conditions formelles ne sont pas réalisées, le département en informe par écrit la personne requérante et lui accorde un délai pour fournir les documents valables ou manquants ou, le cas échéant, présenter ses arguments. A l’échéance du délai, le département peut, selon les informations et les pièces communiquées par la personne requérante, refuser d'entrer en matière sur la demande de naturalisation, poursuivre l’instruction ou la suspendre.
+
+<sup>3</sup> Si le département refuse d'entrer en matière sur la demande de naturalisation, il rend une décision formelle de non-entrée en matière.
+
+<sup>4</sup> Le règlement précise la procédure et fixe le contenu de la formule officielle ainsi que les annexes qui doivent l’accompagner.
+
+#### Art. 29
+
+**Enquête sur l’intégration et la résidence effective de la personne requérante et sur celles de sa famille**
+
+<sup>1</sup> Le département procède à une enquête sur l’intégration et la résidence effective de la personne requérante et sur celles des membres de sa famille faisant ménage commun avec elle.
+
+<sup>2</sup> Le contenu du rapport d’enquête cantonal et les délais de procédure qui relèvent de la compétence de la Confédération sont régis par le droit fédéral.
+
+<sup>3</sup> Il ne peut être rédigé qu’un seul rapport d’enquête par famille.
+
+<sup>4</sup> En cas de doute sur la résidence effective de la personne requérante ou sur son intégration sur le plan communal, le département peut demander à la commune compétente de procéder à une vérification sommaire. Les constatations de la commune sont retranscrites dans le rapport d’enquête.
+
+<sup>5</sup> Le rapport d’enquête est transmis à l'autorité fédérale compétente en vue de l’octroi de l’autorisation fédérale de naturalisation. Il est accompagné du préavis de la commune et, si celui-ci est négatif, de l’arrêté du Conseil d’Etat certifiant que les conditions de la naturalisation ordinaire sont remplies, ou, le cas échéant, de l’arrêt définitif de la chambre administrative de la Cour de justice. Le rapport d’enquête mentionne également expressément la clôture de l’examen cantonal de la demande de naturalisation.
+
+#### Art. 30
+
+**Préavis de la commune**
+
+<sup>1</sup> La personne étrangère doit obtenir, sous forme de préavis, le consentement de la commune qu'il a choisie.
+
+<sup>2</sup> Pour la personne étrangère de moins de 25 ans, le consentement est délivré par l’exécutif de la commune concernée et communiqué au département.<sup>(1)</sup>
+
+<sup>3</sup> Pour la personne étrangère de plus de 25 ans, le consentement est donné par le Conseil municipal ou, sur délégation, par l'exécutif communal, conformément à l’article 30A, alinéa 1, lettre g, de la loi sur l’administration des communes, du 13 avril 1984.<sup>(1)</sup>
+
+<sup>4</sup> Le cas échéant, le Conseil municipal se prononce à huis clos et en présence de la majorité des membres du Conseil; chaque membre du Conseil municipal doit être informé, au moins 5 jours ouvrables à l'avance, des noms des personnes requérantes et de la date à laquelle la séance a lieu. Le Conseil municipal transmet au département le contenu de son préavis.
+
+<sup>5</sup> Dans tous les cas, si un préavis négatif est rendu, la commune doit motiver sa décision sur la base de l’article 12 de la loi fédérale et en informer par écrit la personne requérante.
+
+#### Art. 31
+
+**Durée de la procédure**
+
+<sup>1</sup> La durée totale de la procédure de naturalisation ordinaire depuis le dépôt de la demande jusqu'au moment du préavis communal ne doit en principe pas dépasser 12 mois.
+
+<sup>2</sup> Lorsque les circonstances l’exigent, la durée totale de la procédure peut dépasser celle fixée à l’alinéa 1. Elle ne doit toutefois pas excéder 24 mois.
+
+<sup>3</sup> Dans des cas particuliers, le département peut suspendre la procédure de naturalisation ordinaire. La durée de suspension ne peut toutefois pas dépasser 36 mois.
+
+<sup>4</sup> Le département classe la procédure de naturalisation ordinaire si la suspension a duré plus de 36 mois.
+
+<sup>5</sup> Le règlement détermine les situations visées aux alinéas 2 et 3 et précise la procédure applicable. Il fixe en outre les modalités et les conditions de la suspension.
+
+#### Art. 32
+
+**Contrôles effectués après la notification de l’autorisation fédérale de naturalisation**
+
+<sup>1</sup> A réception de l’autorisation fédérale de naturalisation, le département consulte à nouveau le casier judiciaire informatisé VOSTRA.
+
+<sup>2</sup> Le département s’assure également que le critère relatif à la participation à la vie économique ou à l’acquisition d’une formation est toujours réalisé, si l’arrêté de naturalisation ne peut pas intervenir dans les 6 mois suivant l’octroi de l’autorisation fédérale de naturalisation. S’il parvient à sa connaissance que d’autres critères ne sont plus réalisés, le département en tient également compte.
+
+<sup>3</sup> Si le département constate que les conditions de la naturalisation suisse ne sont plus remplies, il en informe la personne requérante et lui accorde un délai de 30 jours pour exercer son droit d’être entendue.
+
+<sup>4</sup> Dès réception de la réponse de la personne requérante ou à l’échéance du délai pour exercer son droit d’être entendue, le département transmet le dossier au Conseil d’Etat afin que celui-ci se prononce sur la demande de naturalisation.
+
+#### Art. 33
+
+**Arrêté du Conseil d’Etat en matière de naturalisation ordinaire**
+
+<sup>1</sup> Dans tous les cas, le Conseil d'Etat examine le préavis de la commune. Il statue par un arrêté, qu'il transmet également à la commune concernée. Il motive l’arrêté en cas de refus ou s’il ne suit pas le préavis négatif de la commune.
+
+<sup>2</sup> L’arrêté du Conseil d’Etat doit intervenir, au plus tard, dans le délai d’un an à compter de l'octroi de l'autorisation fédérale de naturalisation. En cas de dépassement du délai, l'autorisation fédérale échoit et une nouvelle autorisation fédérale doit être demandée pour que le Conseil d’Etat puisse rendre un nouvel arrêté conformément à l’alinéa 1. Il est tenu compte, le cas échéant, des faits survenus après le prononcé de l’arrêté initial.
+
+<sup>3</sup> Le Conseil d’Etat rend un arrêté négatif de naturalisation dans les cas suivants :
+
+- a) sur proposition du département, après que celui-ci a procédé à l’examen des conditions formelles et matérielles de la naturalisation ordinaire au sens des articles 17 à 26;
+- b) suite au préavis négatif de la commune, lorsqu’il estime que celui-ci est justifié;
+- c) lorsqu'après l’octroi de l’autorisation fédérale de naturalisation, le département découvre des faits nouveaux ou qui n’étaient pas connus de l’autorité compétente au moment de l’instruction de la demande de naturalisation, qui ne permettent plus de considérer comme remplies les conditions figurant aux articles 17 à 26.
+
+#### Art. 34
+
+**Recours de la commune**
+
+La commune dont le préavis n'a pas été suivi par le Conseil d'Etat peut recourir contre l’arrêté rendu par celui-ci.
+
+#### Art. 35
+
+**Recours des particuliers**
+
+Toute personne partie à la procédure de naturalisation peut recourir contre l’arrêté du Conseil d’Etat.
+
+#### Art. 36
+
+**Emoluments de naturalisation ordinaire**
+
+<sup>1</sup> La personne étrangère doit verser un émolument de naturalisation ordinaire destiné à couvrir au plus les frais de procédure. Son montant est fixé dans le règlement.
+
+<sup>2</sup> Cet émolument est exigible au moment du dépôt de la demande et reste acquis à l’administration cantonale, quelle que soit la décision prise au sujet de la requête.
+
+<sup>3</sup> Le règlement fixe, conformément au principe de la couverture des frais, un émolument spécifique pour chacune des catégories suivantes :
+
+- a) les personnes requérantes de moins de 25 ans (procédure allégée);
+- b) les personnes requérantes de plus de 25 ans (procédure individuelle);
+- c) les couples mariés ou en partenariat enregistré (procédure pour couple);
+- d) les enfants compris dans les différents types de procédure.
+
+#### Art. 37
+
+**Prestation de serment**
+
+La personne étrangère majeure et, le cas échéant, sa conjointe ou son conjoint ou sa ou son partenaire enregistré admis à la naturalisation prêtent publiquement, devant le Conseil d’Etat, le serment suivant :
+
+« Je jure ou je promets solennellement :
+
+d’être fidèle à la République et canton de Genève comme à la Confédération suisse;
+
+d’en observer scrupuleusement la constitution et les lois;
+
+d’en respecter les traditions;
+
+de justifier par mes actes et mon comportement mon adhésion à la communauté genevoise;
+
+de contribuer de tout mon pouvoir à la maintenir libre et prospère. »
+
+#### Art. 38
+
+**Effets**
+
+<sup>1</sup> La naturalisation d’une personne étrangère s’étend aux membres de sa famille qui bénéficient de l’autorisation fédérale et qui sont inclus dans l’arrêté du Conseil d’Etat.
+
+<sup>2</sup> L’enfant qui atteint sa majorité avant la délivrance de l’arrêté de naturalisation du Conseil d’Etat à ses parents en obtient un à titre personnel. Elle ou il est en outre tenu de prêter serment à titre individuel.
+
+<sup>3</sup> L’acquisition du droit de cité genevois, respectivement de la nationalité suisse, prend effet :
+
+- a) à la date de la prestation de serment pour la personne étrangère majeure et ses enfants inclus dans la demande;
+- b) à la date de l’arrêté de naturalisation du Conseil d’Etat pour la personne étrangère mineure ayant un dossier individuel.
+
+<sup>4</sup> L'arrêté de naturalisation devient caduc lorsque la personne candidate, sans raison valable, ne se présente pas à la cérémonie de prestation de serment, ou lorsque les conditions de la naturalisation ordinaire ne sont plus remplies entre son prononcé et la prestation de serment.
+
+<sup>5</sup> Le règlement détermine la procédure applicable aux situations visées à l'alinéa 4.
+
+### Section 3 Réintégration
+
+#### Art. 39
+
+**Conditions**
+
+<sup>1</sup> La citoyenne genevoise d’origine qui a perdu le droit de cité genevois par mariage avec une personne confédérée peut demander la réintégration dans son ancien droit de cité.
+
+<sup>2</sup> La citoyenne ou le citoyen genevois qui a acquis le droit de cité d’un autre canton peut demander la réintégration dans son ancien droit de cité genevois.
+
+#### Art. 40
+
+**Procédure**
+
+<sup>1</sup> La réintégration doit faire l’objet d’une demande au département.
+
+<sup>2</sup> Elle est prononcée de droit dans les cas mentionnés à l’article 39, alinéa 1.
+
+<sup>3</sup> La demande de réintégration prévue à l’article 61 doit être déposée auprès de l’autorité compétente, désignée dans le règlement d’application.
+
+#### Art. 41
+
+**Autorité compétente**
+
+La réintégration dans le droit de cité genevois est accordée gratuitement en tout temps par le Conseil d’Etat.
+
+#### Art. 42
+
+**Effets de la réintégration**
+
+### Personne confédérée
+
+<sup>1</sup> La réintégration dans le droit de cité genevois d’une personne confédérée s’étend à ses enfants mineurs suisses si elle détient sur ces derniers l’exercice exclusif de l’autorité parentale. En cas d’autorité parentale conjointe, le consentement de l’autre parent est nécessaire. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+### Personne étrangère
+
+<sup>2</sup> La réintégration dans le droit de cité genevois d’une personne étrangère s’étend aux membres de sa famille compris dans l’acte de réintégration établi par l’autorité fédérale.
+
+### Effet
+
+<sup>3</sup> L’acquisition du droit de cité genevois prend effet :
+
+- a) à la date de l’arrêté du Conseil d’Etat pour les personnes confédérées réintégrées dans le droit de cité genevois;
+- b) à la date de l’entrée en force de la décision d’admission de l’autorité fédérale pour les personnes étrangères réintégrées selon la loi fédérale;
+- c) à la date de l'ordonnance d'inscription dans le registre de l'état civil pour les réintégrations basées sur l'article 61.
+
+### Section 4 Bourgeoisie d’honneur
+
+#### Art. 43
+
+**Bourgeoisie d’honneur**
+
+<sup>1</sup> Le Grand Conseil, sur proposition du Conseil d’Etat, peut décerner gratuitement la bourgeoisie d’honneur à une personne qui a rendu au canton ou à la Suisse des services importants ou qui s’est distinguée par ses mérites.
+
+<sup>2</sup> La bourgeoisie d’honneur est personnelle et intransmissible; elle n’a pas les effets d’une naturalisation et ne confère pas le droit de cité genevois.
+
+<sup>3</sup> L’acquisition de la bourgeoisie d’honneur prend effet à la date de l’entrée en vigueur de la loi votée par le Grand Conseil.
+
+### Chapitre III Acquisition par décision de l’autorité fédérale
+
+#### Art. 44
+
+**Décision de l’autorité fédérale**
+
+<sup>1</sup> L’autorité fédérale est compétente pour statuer sur les demandes de naturalisation facilitée et sur les demandes de réintégration dans la nationalité suisse, conformément à la loi fédérale.
+
+<sup>2</sup> Elle consulte le canton avant d’approuver la demande.
+
+<sup>3</sup> En vue de la détermination de l’autorité fédérale, le département effectue l’enquête visée à l’article 34, alinéa 2, de la loi fédérale.
+
+<sup>4</sup> L'acquisition de la nationalité suisse et du droit de cité genevois prend effet à la date d'entrée en force de la décision d'admission de l'autorité fédérale.
+
+## Titre III Perte du droit de cité genevois et de la nationalité suisse
+
+### Chapitre I Perte par le seul effet de la loi
+
+#### Art. 45
+
+**Par acquisition d’un nouveau droit de cité cantonal**
+
+La citoyenne ou le citoyen genevois qui acquiert le droit de cité d’un autre canton garde son droit de cité genevois, à moins qu’elle ou il n’ait signé une déclaration de renonciation avant le prononcé de l’acquisition de son nouveau droit de cité.
+
+#### Art. 46
+
+**Par reconnaissance de l’enfant trouvé**
+
+Lorsque la filiation est reconnue ultérieurement, l’enfant trouvé perd le droit de cité acquis conformément à l’article 10, si elle ou il est encore mineur et ne devient pas apatride. Le Conseil d’Etat constate cette perte par arrêté.
+
+### Chapitre II Perte par décision de l’autorité
+
+### Section 1 Renonciation
+
+#### Art. 47
+
+**Conditions**
+
+<sup>1</sup> Toute citoyenne et tout citoyen genevois peut demander à être libéré du droit de cité genevois :
+
+- a) si elle ou il est domicilié en dehors du canton et possède le droit de cité d’un autre canton;
+- b) si elle ou il est domicilié à l’étranger et a une nationalité étrangère acquise ou assurée.
+
+<sup>2</sup> Toute citoyenne et tout citoyen genevois qui demande à être libéré de son droit de cité genevois dans les conditions mentionnées à l’alinéa 1, lettre b, perd la nationalité suisse, pour autant qu’elle ou il ne possède pas le droit de cité d’un autre canton.
+
+### Personnes mineures
+
+<sup>3</sup> Sur demande expresse de la personne requérante, les enfants mineurs qui sont soumis à l'exercice exclusif de son autorité parentale sont compris dans sa libération des liens du droit de cité genevois s'ils remplissent les conditions énumérées à l'alinéa 1, sous réserve du droit fédéral. Le consentement de l'autre parent est nécessaire si la personne requérante ne bénéficie pas de l'exercice exclusif de l'autorité parentale. Les décisions de l'autorité de protection de l'enfant sont réservées.
+
+<sup>4</sup> La personne mineure qui présente une demande de libération à titre individuel doit produire l’assentiment de la détentrice ou du détenteur exclusif de l’autorité parentale et, le cas échéant, celui de l’autre parent aux conditions fixées par l’alinéa 3.
+
+#### Art. 48
+
+**Procédure**
+
+<sup>1</sup> La demande de libération des liens du droit de cité genevois est adressée au département; ce dernier en donne connaissance à la commune d’origine de la personne requérante.
+
+<sup>2</sup> Après avoir fait procéder à une enquête, le département communique son préavis au Conseil d’Etat.
+
+<sup>3</sup> Si le Conseil d’Etat estime que la demande peut être acceptée, il établit un acte de libération des liens du droit de cité genevois mentionnant toutes les personnes comprises dans sa décision.
+
+<sup>4</sup> Le Conseil d’Etat notifie sa décision :
+
+- a) à la personne intéressée, si la demande a été présentée en vertu de l’article 47, alinéa 1, lettre a;
+- b) à l’autorité fédérale si la demande a été présentée en vertu de l’article 47, alinéa 1, lettre b.
+
+### Emolument
+
+<sup>5</sup> Un émolument est perçu pour la libération.
+
+### Section 2 Annulation par décision de l’autorité cantonale
+
+#### Art. 49
+
+**Annulation par décision du Conseil d’Etat**
+
+<sup>1</sup> Le Conseil d'Etat peut annuler le droit de cité genevois ou la réintégration dans le droit de cité genevois obtenus par des déclarations mensongères ou par la dissimulation de faits essentiels.
+
+<sup>2</sup> Le Conseil d'Etat peut annuler la naturalisation ou la réintégration dans un délai de 2 ans après qu'il a eu connaissance de l'état de fait juridiquement pertinent, mais au plus tard 8 ans après l'octroi du droit de cité genevois. Un nouveau délai de prescription de 2 ans commence à courir après tout acte d'instruction signalé à la personne naturalisée ou réintégrée. Les délais de prescription sont suspendus pendant la procédure de recours.
+
+#### Art. 50
+
+**Procédure**
+
+<sup>1</sup> La citoyenne ou le citoyen genevois qui fait l’objet d’une procédure d’annulation du droit de cité genevois doit en être informé, par écrit, par le département qui doit l'inviter à exercer son droit d’être entendu. Les membres de la famille également concernés par cette procédure sont avisés individuellement.
+
+<sup>2</sup> Si le lieu de résidence de la personne intéressée est inconnu, l’avis est publié dans la Feuille d’avis officielle.
+
+### Personnes comprises dans l’annulation du droit de cité genevois
+
+<sup>3</sup> L'annulation fait perdre le droit de cité genevois aux membres de la famille qui l'ont acquis en vertu de la décision annulée. Font exception les enfants qui deviendraient apatrides ensuite de l’annulation ou ceux qui, au moment où la décision d'annulation est prise, ont atteint l'âge de 16 ans et remplissent les conditions prévues aux articles 17 à 26.
+
+### Publication
+
+<sup>4</sup> Le Conseil d'Etat fait publier dans la Feuille d'avis officielle le nom des personnes dont le droit de cité genevois, respectivement la nationalité suisse, a été annulé.
+
+### Section 3 Annulation et retrait par décision de l’autorité fédérale
+
+#### Art. 51
+
+**Annulation**
+
+La naturalisation ou la réintégration accordée en application de la loi fédérale peut être annulée par l'autorité fédérale dans un délai de 2 ans après que le Conseil d'Etat a eu connaissance de l'état de fait juridiquement pertinent, mais au plus tard 8 ans après l'octroi du droit de cité genevois. Un nouveau délai de prescription de 2 ans commence à courir après tout acte d'instruction signalé à la personne naturalisée ou réintégrée. Les délais de prescription sont suspendus pendant la procédure de recours.
+
+#### Art. 52
+
+**Retrait**
+
+<sup>1</sup> L’autorité fédérale peut en tout temps, avec l’assentiment du Conseil d’Etat, retirer la nationalité suisse et le droit de cité genevois à une personne double nationale, si sa conduite porte gravement atteinte aux intérêts ou au renom de la Suisse.
+
+<sup>2</sup> Lorsque l’intérêt de l’enfant mineur de la personne concernée s’y oppose, le Conseil d'Etat ne donne pas son consentement.
+
+### Section 4 Effets de la perte du droit de cité genevois
+
+#### Art. 53
+
+**Effets**
+
+La perte du droit de cité genevois prend effet :
+
+- a) à la date de l’arrêté du Conseil d’Etat, pour la personne confédérée libérée des liens du droit de cité genevois;
+- b) à la date de la notification ou, à défaut, de la publication dans la Feuille fédérale par l’autorité fédérale, pour la personne étrangère libérée des liens du droit de cité genevois;
+- c) à la date de l’entrée en force de l’arrêté du Conseil d’Etat, pour la personne confédérée ou étrangère dont le droit de cité genevois a été annulé en vertu de l’article 49;
+- d) à la date de l’entrée en force de la décision de l’autorité fédérale, pour la personne étrangère dont le droit de cité genevois a été retiré ou annulé en vertu des articles 51 ou 52.
+
+## Titre IV Acquisition et perte du droit de cité communal
+
+### Chapitre I Acquisition d’un nouveau droit de cité communal
+
+#### Art. 54
+
+**Conditions**
+
+La citoyenne ou le citoyen genevois peut demander d’acquérir :
+
+- a) le droit de cité de sa commune de domicile si elle ou il y a résidé d’une manière effective pendant 2 ans dont les 12 mois qui précèdent sa requête;
+- b) le droit de cité de sa conjointe ou son conjoint ou de sa ou son partenaire enregistré lorsqu’elle ou il était célibataire.
+
+#### Art. 55
+
+**La conjointe ou le conjoint, la ou le partenaire enregistré et les enfants**
+
+<sup>1</sup> Lorsque la requête émane d’une personne mariée ou liée par un partenariat enregistré, elle n’inclut la conjointe ou le conjoint ou la ou le partenaire enregistré que si cette dernière ou ce dernier y consent par écrit.
+
+<sup>2</sup> Les enfants mineurs de la personne requérante sont compris dans sa requête. Ceux-ci doivent y consentir par écrit s’ils ont plus de 16 ans. Le consentement de l’autre parent est en outre nécessaire si la personne requérante n'est pas titulaire de l’exercice exclusif de l’autorité parentale. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+<sup>3</sup> La personne mineure genevoise qui présente une demande de droit de cité communal à titre individuel doit apporter la preuve du consentement de ses deux parents, en cas d’autorité parentale conjointe. La réserve prévue à l’alinéa 2 est également applicable.
+
+#### Art. 56<sup>(1)</sup>
+
+**Procédure**
+
+La personne requérante présente sa requête auprès de l’exécutif de la commune concernée.
+
+#### Art. 57<sup>(1)</sup>
+
+**Octroi du droit de cité communal**
+
+L’exécutif de la commune concernée examine si la personne requérante remplit les conditions prévues à l’article 54 et décide de l’octroi du droit de cité communal.
+
+#### Art. 58
+
+**Emolument**
+
+<sup>1</sup> Un émolument n’excédant pas 100 francs peut être perçu.
+
+<sup>2</sup> Toutefois, aucun émolument ne peut être exigé de la citoyenne ou du citoyen genevois qui est domicilié sur le territoire de la commune et y a vécu pendant 10 ans au moins, dont les 5 dernières années de manière ininterrompue.
+
+#### Art. 59<sup>(1)</sup>
+
+**Communication**
+
+La décision de l’octroi du droit de cité communal est communiquée par l’exécutif communal au service compétent en matière d'état civil.
+
+#### Art. 60<sup>(1)</sup>
+
+**Refus**
+
+L’exécutif communal qui refuse le droit de cité communal communique par écrit sa décision à la personne concernée.
+
+#### Art. 61
+
+**Réintégration**
+
+<sup>1</sup> La citoyenne genevoise qui a perdu son droit de cité par mariage avec un citoyen genevois originaire d’une autre commune peut demander gratuitement sa réintégration dans son droit de cité de célibataire.
+
+<sup>2</sup> La citoyenne ou le citoyen genevois qui a perdu son droit de cité par acquisition de celui d’une autre commune peut demander sa réintégration dans son ancien droit de cité.
+
+### Chapitre II Perte du droit de cité communal
+
+#### Art. 62
+
+**Par le seul effet de la loi**
+
+La citoyenne ou le citoyen genevois qui acquiert le droit de cité d’une autre commune du canton de Genève garde son droit de cité communal, en application de l’article 54, à moins qu’elle ou il n’ait signé une déclaration de renonciation avant le prononcé de l’acquisition de son nouveau droit de cité communal*.*
+
+#### Art. 63
+
+**Par décision de l’autorité communale**
+
+<sup>1</sup> La citoyenne ou le citoyen genevois peut, si elle ou il conserve au moins un droit de cité communal, demander à l’exécutif de la commune concernée d’être libéré du droit de cité communal, si elle ou il est domicilié en dehors de la commune.<sup>(1)</sup>
+
+<sup>2</sup> L’exécutif libère la personne requérante, de même que ses enfants mineurs et sa conjointe ou son conjoint ou sa ou son partenaire enregistré, sous réserve de leur accord formel, de son droit de cité communal.<sup>(1)</sup>
+
+<sup>3</sup> Aucune taxe n’est perçue.
+
+#### Art. 64
+
+**Procédure**
+
+<sup>1</sup> La personne requérante présente sa requête à l’exécutif de la commune de laquelle elle entend renoncer au droit de cité.<sup>(1)</sup>
+
+<sup>2</sup> Sur demande expresse de la personne requérante, les enfants mineurs qui sont soumis à l’exercice exclusif de son autorité parentale sont compris dans sa libération s’ils remplissent les autres conditions légales. Le consentement de l’autre parent est nécessaire si la personne requérante ne bénéficie pas de l’exercice exclusif de l’autorité parentale. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+<sup>3</sup> La citoyenne ou le citoyen genevois mineur qui présente une demande de libération du droit de cité communal doit apporter la preuve du consentement de ses deux parents, en cas d’autorité parentale conjointe. Les décisions de l’autorité de protection de l’enfant sont réservées.
+
+#### Art. 65<sup>(1)</sup>
+
+**Communication et effets**
+
+La décision de libération du droit de cité communal est communiquée par l’exécutif de la commune concernée au service compétent en matière d'état civil et prend effet à cette date.
+
+## Titre V Dispositions finales et transitoires
+
+#### Art. 66
+
+**Règlement d’application**
+
+<sup>1</sup> Le Conseil d’Etat est chargé d’édicter le règlement d’application de la présente loi.
+
+<sup>2</sup> Le Conseil d’Etat désigne le département compétent en matière d’acquisition et de perte du droit de cité genevois.
+
+#### Art. 67
+
+**Clause abrogatoire**
+
+La loi sur la nationalité genevoise, du 13 mars 1992, est abrogée.
+
+#### Art. 68
+
+**Entrée en vigueur**
+
+Le Conseil d’Etat fixe l’entrée en vigueur de la présente loi.
+
+#### Art. 69
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les articles 50 et 51 de la loi fédérale sont applicables à toutes les demandes d’octroi de la nationalité suisse pendantes lors de l'entrée en vigueur de la présente loi.
+
+<sup>2</sup> Les articles 50 et 51 de la loi fédérale sont applicables par analogie à toutes les demandes relatives au droit de cité genevois et au droit de cité communal pendantes lors de l'entrée en vigueur de la présente loi.
+
+#### Art. 70
+
+**Dérogation temporaire aux articles 37 et 38, alinéa 3, lettre a**
+
+<sup>1</sup> En raison de la situation sanitaire et des prescriptions en matière d’hygiène et de distance sociale en vue de contenir et d'atténuer l’épidémie du coronavirus à laquelle la Suisse est confrontée depuis le mois de mars 2020, il peut être dérogé, jusqu’au 30 juin 2022, à la prestation de serment publique, notamment en procédant par écrit à l’engagement solennel prévu à l’article 24.
+
+<sup>2</sup> En dérogation à l’article 38, alinéa 3, lettre a, l’acquisition de la nationalité genevoise intervient à la date à laquelle le Conseil d’Etat prend acte de l’engagement écrit.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| A 4 05 L sur le droit de cité genevois | 02.03.2023 | 01.09.2024 |
+| Modifications : |  |  |
+| 1. *n.t.* : 10/2, 30/2, 30/3, 56, 57, 59, 60, 63/1, 63/2, 64/1, 65 | 17.11.2023 | 01.06.2025 |
