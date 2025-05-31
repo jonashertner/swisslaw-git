@@ -4,11 +4,11 @@ title: "Federal Act of 30 September 2011 on Funding and Coordination of the Swis
 short: HEdA
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: en
-version: 2021-03-01
+version: 2025-06-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/en/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Higher Education Act, HEdA)
 
-of 30 September 2011 (Status as of 1 March 2021)
+of 30 September 2011 (Status as of 1 June 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 63*a*, 64 paragraph 2, 66 paragraph 1 and 95 paragraph 1 of the
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)
 
 ## Chapter 1 General Provisions
@@ -95,7 +95,7 @@ As part of its cooperation activities within the higher education sector, the Co
 
 <sup>5</sup> Under the terms of special legislation, the Confederation shall make contributions to the Swiss National Science Foundation, to the Swiss Innovation Agency (Innosuisse) as well as to national and international education and research programmes.[^4-2]
 
-[^4-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^4-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 [^4-2]: Amended by Annex No 1 of the Innosuisse Act of 17 June 2016, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 5
@@ -347,7 +347,7 @@ The Swiss Conference of Rectors of Higher Education Institutions has the tasks a
 
 **Swiss Accreditation Council**
 
-<sup>1</sup> The Swiss Accreditation Council comprises 15–20 independent members; these members represent in particular higher education institutions, professional organisations, students, mid-level faculty as well as professors and lecturers. Teaching and research fields at higher education institutions as well as gender must be adequately represented. A minority of at least five members must be mainly involved in activities abroad.
+<sup>1</sup> The Swiss Accreditation Council comprises 15–20 independent members; these members represent in particular higher education institutions, professional organisations, students, mid-level faculty as well as professors and lecturers. Teaching and research fields at higher education institutions as well as gender must be adequately represented. Three to five members must be mainly involved in activities abroad.[^21-1]
 
 <sup>2</sup> On the basis of the Cooperation Agreement, the Higher Education Council elects Accreditation Council members for a four-year term of office. Each member may only be re-elected once.
 
@@ -362,6 +362,8 @@ The Swiss Conference of Rectors of Higher Education Institutions has the tasks a
 <sup>7</sup> It may recognise other Swiss or foreign accreditation agencies.
 
 <sup>8</sup> At the request of the Director of the Swiss Accreditation Agency, it issues Organisational Regulations for the Swiss Accreditation Agency; these Organisational Regulations require approval by the Higher Education Council.
+
+[^21-1]: Third sentence amended by No I of the FA of 27 Sept. 2024, in force since 1 June 2025 ([AS 2025 475](https://fedlex.data.admin.ch/eli/oc/2025/475); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 22
 
@@ -928,7 +930,7 @@ The following administrative measures shall be considered:
 
 <sup>3</sup> The administrative measures taken by federal subsidising authorities are based on the Federal Act of 5 October 1990[^64-1] on Financial Assistance and Subsidies, those taken by the Cantons are based on the Intercantonal Agreement on Cooperation in Higher Education.
 
-[^64-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^64-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 65
 
@@ -982,7 +984,7 @@ The Federal Council shall issue implementing provisions if implementation of thi
 
 The declaration on the generally binding nature of intercantonal agreements relating to the higher education sector is based on Article 14 of the Federal Act of 3 October 2003[^68-1]. on Fiscal Equalisation and Cost Compensation
 
-[^68-1]: [SR 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^68-1]: [SR 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 
 #### Art. 69
 

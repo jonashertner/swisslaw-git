@@ -4,22 +4,22 @@ title: "Loi fédérale du 30 septembre 2011 sur l'encouragement des hautes écol
 short: LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: fr
-version: 2021-03-01
+version: 2025-06-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles<sup>\*</sup>
+# Loi fédérale sur l’encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles\*
 
 (Loi sur l’encouragement et la coordination des hautes écoles, LEHE)[^t-1]
 
-du 30 septembre 2011 (État le 1<sup>er</sup> mars 2021)
+du 30 septembre 2011 (État le 1<sup>er</sup> juin 2025)
 
-[^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 63*a*, 64, al. 2, 66, al. 1, et 95, al. 1, de la Constitution[^ingre
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)
 
 ## Chapitre 1 Dispositions générales
@@ -95,7 +95,7 @@ Dans le cadre de la coopération dans le domaine des hautes écoles, la Conféd�
 
 <sup>5</sup> La Confédération alloue en vertu de lois spéciales des contributions au Fonds national suisse, à l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) et à des programmes de formation et de recherche nationaux et internationaux.[^4-2]
 
-[^4-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^4-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 [^4-2]: Nouvelle teneur selon l’annexe ch. 1 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 5
@@ -347,7 +347,7 @@ La Conférence des recteurs des hautes écoles suisses assume les tâches et les
 
 **Conseil suisse d’accréditation**
 
-<sup>1</sup> Le Conseil suisse d’accréditation se compose de 15 à 20 membres indépendants, représentant notamment les hautes écoles, le monde du travail, les étudiants, le corps intermédiaire et le corps professoral. Les domaines de l’enseignement et de la recherche des hautes écoles ainsi que les deux sexes doivent être représentés de manière appropriée. Le Conseil comprend une minorité de cinq membres au moins exerçant leur activité principale à l’étranger.
+<sup>1</sup> Le Conseil suisse d’accréditation se compose de 15 à 20 membres indépendants, représentant notamment les hautes écoles, le monde du travail, les étudiants, le corps intermédiaire et le corps professoral. Les domaines de l’enseignement et de la recherche des hautes écoles ainsi que les deux sexes doivent être représentés de manière appropriée. Trois à cinq membres doivent exercer leur activité principalement à l’étranger.[^21-1]
 
 <sup>2</sup> En vertu de la convention de coopération, le Conseil des hautes écoles élit les membres du Conseil suisse d’accréditation pour quatre ans. Leur mandat est renouvelable une fois.
 
@@ -362,6 +362,8 @@ La Conférence des recteurs des hautes écoles suisses assume les tâches et les
 <sup>7</sup> Le Conseil suisse d’accréditation peut reconnaître d’autres agences d’accréditation, en Suisse ou à l’étranger.
 
 <sup>8</sup> Il édicte le règlement d’organisation de l’Agence suisse d’accréditation sur proposition du directeur de l’agence; le règlement est soumis à l’approbation du Conseil des hautes écoles.
+
+[^21-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 475](https://fedlex.data.admin.ch/eli/oc/2025/475); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 22
 
@@ -928,7 +930,7 @@ Les mesures administratives applicables sont notamment:
 
 <sup>3</sup> Les mesures administratives des autorités de subventionnement de la Confédération sont régies par la loi du 5 octobre 1990 sur les subventions[^64-1], celles des cantons, par le concordat sur les hautes écoles.
 
-[^64-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^64-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 65
 
@@ -982,7 +984,7 @@ Le Conseil fédéral édicte les dispositions d’exécution dans la mesure où 
 
 La déclaration de force obligatoire générale de conventions intercantonales dans le domaine des hautes écoles est régie par l’art. 14 de la loi fédérale du 3 octobre 2003 sur la péréquation financière et la compensation des charges[^68-1].
 
-[^68-1]: [RS 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^68-1]: [RS 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 
 #### Art. 69
 
@@ -1058,7 +1060,7 @@ Le département compétent fixe:
 - b. les conditions d’admission des diplômés d’autres filières de formation;
 - c. les objectifs pédagogiques de l’expérience du monde du travail d’un an exigée dans les divers domaines d’étude.
 
-[^73-1]: Non publiées au RO. Ces décisions peuvent être obtenues auprès de du Secrétariat d’état à la formation, à la recherche et à l’innovation (SEFRI), Einsteinstrasse 2, 3003 Berne et consultées sur le site www.sbfi.admin.ch
+[^73-1]: Non publiées au RO. Ces décisions peuvent être obtenues auprès de du Secrétariat d’état à la formation, à la recherche et à l’innovation (SEFRI), Einsteinstrasse 2, 3003 Berne et consultées sur le site [www.sbfi.admin.ch](http://www.sbfi.admin.ch).
 
 #### Art. 74
 
@@ -1081,8 +1083,8 @@ Le département compétent fixe:
 <sup>3</sup> Les hautes écoles et autres institutions du domaine des hautes écoles qui ont été accréditées après le 1<sup>er</sup> janvier 2011 selon l’ancien droit sont considérées comme accréditées pendant les huit ans qui suivent l’entrée en vigueur de la présente loi.
 
 [^75-1]: Introduit par le ch. I de la L du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^75-2]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24), [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447), [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
-[^75-3]: [RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[3459](https://fedlex.data.admin.ch/eli/oc/2006/549), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^75-2]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^75-3]: [RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
 [^75-4]: Nouvelle teneur selon le ch. I de la L du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 76
@@ -1127,8 +1129,8 @@ En cas de mise en vigueur de la présente loi selon l’art. 81, al. 3, le Conse
 - a. les art. 13 à 21 (subventions fédérales) et 23 de la loi fédérale du 8 octobre 1999 sur l’aide aux universités[^80-1];
 - b. les art. 18 à 21 (subventions fédérales) et 23 de la loi fédérale du 6 octobre 1995 sur les hautes écoles spécialisées[^80-2].
 
-[^80-1]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
-[^80-2]: [RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
+[^80-1]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^80-2]: [RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
 
 ### Section 4 Référendum et entrée en vigueur
 
@@ -1165,6 +1167,6 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10]
-[^annexu1-lvlu1-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11]
+[^annexu1-lvlu1-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10]
+[^annexu1-lvlu1-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11]
 [^annexu1-lvlu1-3]: Les mod. peuvent être consultées au [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691).

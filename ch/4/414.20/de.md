@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen
 short: HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: de
-version: 2021-03-01
+version: 2025-06-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/de"
 
 (Hochschulförderungs- und -koordinationsgesetz, HFKG)
 
-vom 30. September 2011 (Stand am 1. März 2021)
+vom 30. September 2011 (Stand am 1. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 63*a*, 64 Absatz 2, 66 Absatz 1 und 95 Absatz 1 der Bu
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -93,7 +93,7 @@ Der Bund verfolgt im Rahmen der Zusammenarbeit im Hochschulbereich insbesondere 
 
 <sup>5</sup> Er gewährt gestützt auf Spezialgesetze Beiträge an den Schweizerischen Nationalfonds, an die Schweizerische Agentur für Innovationsförderung (Innosuisse) sowie an nationale und internationale Bildungs- und Forschungsprogramme.[^4-2]
 
-[^4-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^4-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 [^4-2]: Fassung gemäss Anhang Ziff. 1 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 5
@@ -345,7 +345,7 @@ Die Rektorenkonferenz der schweizerischen Hochschulen hat die Aufgaben und die Z
 
 **Schweizerischer Akkreditierungsrat**
 
-<sup>1</sup> Der Schweizerische Akkreditierungsrat besteht aus 15–20 unabhängigen Mitgliedern; diese vertreten insbesondere die Hochschulen, die Arbeitswelt, die Studierenden, den Mittelbau und den Lehrkörper. Die Lehr- und Forschungsbereiche der Hochschulen sowie die Geschlechter müssen angemessen vertreten sein. Eine Minderheit von mindestens fünf Mitgliedern muss hauptsächlich im Ausland tätig sein.
+<sup>1</sup> Der Schweizerische Akkreditierungsrat besteht aus 15–20 unabhängigen Mitgliedern; diese vertreten insbesondere die Hochschulen, die Arbeitswelt, die Studierenden, den Mittelbau und den Lehrkörper. Die Lehr- und Forschungsbereiche der Hochschulen sowie die Geschlechter müssen angemessen vertreten sein. Drei bis fünf Mitglieder müssen hauptsächlich im Ausland tätig sein.[^21-1]
 
 <sup>2</sup> Der Hochschulrat wählt gestützt auf die Zusammenarbeitsvereinbarung die Mitglieder des Akkreditierungsrates für eine Amtsdauer von vier Jahren. Eine einmalige Wiederwahl ist zulässig.
 
@@ -360,6 +360,8 @@ Die Rektorenkonferenz der schweizerischen Hochschulen hat die Aufgaben und die Z
 <sup>7</sup> Er kann weitere in- oder ausländische Akkreditierungsagenturen anerkennen.
 
 <sup>8</sup> Er erlässt auf Antrag der Direktorin oder des Direktors der Schweizerischen Akkreditierungsagentur ein Organisationsreglement für die Schweizerische Akkreditierungsagentur; dieses bedarf der Genehmigung durch den Hochschulrat.
+
+[^21-1]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Juni 2025 ([AS 2025 475](https://fedlex.data.admin.ch/eli/oc/2025/475); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 22
 
@@ -926,7 +928,7 @@ Als Verwaltungsmassnahmen fallen insbesondere in Betracht:
 
 <sup>3</sup> Die Verwaltungsmassnahmen der Subventionsbehörden des Bundes richten sich nach dem Subventionsgesetz vom 5. Oktober 1990[^64-1], diejenigen der Kantone nach dem Hochschulkonkordat.
 
-[^64-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^64-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 65
 
@@ -980,7 +982,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen, soweit der Vollzug dieses G
 
 Die Allgemeinverbindlicherklärung interkantonaler Verträge im Hochschulbereich richtet sich nach Artikel 14 des Bundesgesetzes vom 3. Oktober 2003[^68-1] über den Finanz- und Lastenausgleich.
 
-[^68-1]: [SR 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^68-1]: [SR 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 
 #### Art. 69
 

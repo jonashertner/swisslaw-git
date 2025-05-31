@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2011 sulla promozione e sul coordinamento
 short: LPSU
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: it
-version: 2021-03-01
+version: 2025-06-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/it"
 
 (LPSU)
 
-del 30 settembre 2011 (Stato 1° marzo 2021)
+del 30 settembre 2011 (Stato 1° giugno 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -93,8 +93,8 @@ Nell’ambito della cooperazione nel settore universitario, la Confederazione pe
 
 <sup>5</sup> La Confederazione accorda, in virtù di leggi speciali, sussidi al Fondo nazionale svizzero, all’Agenzia svizzera per la promozione dell’innovazione (Innosuisse) nonché a programmi di formazione e di ricerca nazionali e internazionali.[^4-2]
 
-[^4-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^4-2]: Nuovo testo l’all. n. 1 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^4-2]: Nuovo testo giusta l’all. n. 1 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 5
 
@@ -345,7 +345,7 @@ La Conferenza svizzera dei rettori delle scuole universitarie ha i compiti e le 
 
 **Consiglio svizzero di accreditamento**
 
-<sup>1</sup> Il Consiglio svizzero di accreditamento è composto di 15–20 membri indipendenti; essi rappresentano in particolare le scuole universitarie, il mondo del lavoro, gli studenti, il corpo intermedio e il corpo insegnante. I settori dell’insegnamento e della ricerca delle scuole universitarie e i due sessi devono essere adeguatamente rappresentati. Una minoranza di almeno cinque membri deve svolgere le proprie attività principalmente all’estero.
+<sup>1</sup> Il Consiglio svizzero di accreditamento è composto di 15–20 membri indipendenti; essi rappresentano in particolare le scuole universitarie, il mondo del lavoro, gli studenti, il corpo intermedio e il corpo insegnante. I settori dell’insegnamento e della ricerca delle scuole universitarie e i due sessi devono essere adeguatamente rappresentati. Da tre a cinque membri devono svolgere le proprie attività principalmente all’estero.[^21-1]
 
 <sup>2</sup> In virtù della Convenzione sulla cooperazione, il Consiglio delle scuole universitarie elegge i membri del Consiglio svizzero di accreditamento per un periodo di quattro anni. È ammessa un’unica rielezione.
 
@@ -360,6 +360,8 @@ La Conferenza svizzera dei rettori delle scuole universitarie ha i compiti e le 
 <sup>7</sup> Il Consiglio svizzero di accreditamento può riconoscere altre agenzie di accreditamento, in Svizzera o all’estero.
 
 <sup>8</sup> Su proposta del direttore dell’Agenzia svizzera di accreditamento, il Consiglio svizzero di accreditamento emana un regolamento di organizzazione per l’Agenzia svizzera di accreditamento; tale regolamento necessita dell’approvazione del Consiglio delle scuole universitarie.
+
+[^21-1]: Nuovo testo del per. giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° giu. 2025 ([RU 2025 475](https://fedlex.data.admin.ch/eli/oc/2025/475); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 
 #### Art. 22
 
@@ -473,7 +475,7 @@ L’accreditamento istituzionale è concesso se sono soddisfatte le seguenti con
 
 <sup>2</sup> Il Consiglio delle scuole universitarie stabilisce in un’ordinanza le condizioni per l’accreditamento.[^30-1] A tal fine tiene conto delle particolarità e dell’autonomia delle università, dei PF, delle scuole universitarie professionali, delle alte scuole pedagogiche e degli altri istituti accademici.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
 
 #### Art. 31
 
@@ -926,7 +928,7 @@ Si applicano in particolare i seguenti provvedimenti amministrativi:
 
 <sup>3</sup> I provvedimenti amministrativi presi dalle autorità federali competenti in materia di sussidi sono retti dalla legge del 5 ottobre 1990[^64-1] sui sussidi, quelli adottati dai Cantoni dal Concordato sulle scuole universitarie.
 
-[^64-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^64-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 65
 
@@ -938,7 +940,7 @@ Si applicano in particolare i seguenti provvedimenti amministrativi:
 
 <sup>3</sup> Per il rimanente si applicano le disposizioni generali sull’amministrazione della giustizia federale.
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
 
 ## Capitolo 10: Competenza del Consiglio federale di concludere accordi internazionali
 
@@ -980,7 +982,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione nella misura in cui l
 
 Il conferimento dell’obbligatorietà generale agli accordi intercantonali nel settore delle scuole universitarie è retto dall’articolo 14 della legge federale del 3 ottobre 2003[^68-1] concernente la perequazione finanziaria e la compensazione degli oneri.
 
-[^68-1]: [RS 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^68-1]: [RS 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 
 #### Art. 69
 
@@ -1007,7 +1009,7 @@ Il Consiglio federale sottopone ogni quattro anni all’Assemblea federale un ra
 
 <sup>3</sup> È fatta salva la competenza dei Cantoni di riconoscere i diplomi relativi alle professioni regolamentate a livello intercantonale.
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 ### Sezione 2: Abrogazione e modifica del diritto vigente
 
@@ -1056,7 +1058,7 @@ Il Dipartimento competente definisce:
 - b. le condizioni di ammissione per diplomati di altri cicli di studio;
 - c. gli obiettivi di apprendimento dell’esperienza lavorativa di un anno nei singoli settori di studio.
 
-[^73-1]: Non pubblicate nella RU. Il testo di queste Dec. può essere richiesto alla Segreteria di Stato per la formazione, la ricerca e l’innovazione(SEFRI), Einsteinstrasse 2, 3003 Berna e consultato all’indirizzo www.sbfi.admin.ch.
+[^73-1]: Non pubblicate nella RU. Il testo di queste Dec. può essere richiesto alla Segreteria di Stato per la formazione, la ricerca e l’innovazione(SEFRI), Einsteinstrasse 2, 3003 Berna e consultato all’indirizzo [www.sbf i .admin.ch](https://www.sbfi.admin.ch/it).
 
 #### Art. 74
 
@@ -1078,10 +1080,10 @@ Il Dipartimento competente definisce:
 
 <sup>3</sup> L’accreditamento istituzionale delle scuole universitarie e degli altri istituti accademici ottenuto dopo il 1° gennaio 2011 secondo il diritto anteriore vale per otto anni dall’entrata in vigore della presente legge.
 
-[^75-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^75-2]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]
-[^75-3]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]
-[^75-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^75-1]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^75-2]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II n. 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II n. 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 1]
+[^75-3]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 2]
+[^75-4]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 76
 
@@ -1107,8 +1109,8 @@ Per le scuole universitarie e gli altri istituti accademici che non hanno ottenu
 
 <sup>3</sup> L’ufficio federale competente provvede, se necessario, alla conversione dei titoli conferiti secondo il diritto anteriore. Può delegare questo compito a terzi. I terzi possono riscuotere emolumenti per le loro prestazioni.[^78-2]
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^78-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^78-2]: Introdotto dalla cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 79
 
@@ -1161,8 +1163,8 @@ II
 
 Le leggi federali qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 10]
-[^annexu1-lvlu1-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11]
+[^annexu1-lvlu1-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II n. 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II n. 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 10]
+[^annexu1-lvlu1-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 11]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691).
