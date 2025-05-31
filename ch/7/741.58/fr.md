@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif à 
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: fr
-version: 2023-10-01
+version: 2025-06-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20231001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20231001/fr"
 
 (OSIAC)
 
-du 30 novembre 2018 (État le 1<sup>er</sup> octobre 2023)
+du 30 novembre 2018 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -249,11 +249,12 @@ L’OFROU publie chaque année:
 
 <sup>4</sup> L’OFROU peut également mettre à la disposition du public des données anonymisées ou des données techniques.
 
-<sup>5</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 sur la protection des données[^18-1], la LSF et l’ordonnance du 30 juin 1993 sur les relevés statistiques[^18-2].[^18-3]
+<sup>5</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 relative à la loi fédérale sur la protection des données[^18-1], la LSF[^18-2] et l’ordonnance du 30 avril 2025 sur la statistique fédérale[^18-3].[^18-4]
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^18-3]: Nouvelle teneur selon l’annexe 2 ch. II 79 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^18-4]: Nouvelle teneur selon l’annexe 3 ch. 11 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
 

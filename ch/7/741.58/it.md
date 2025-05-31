@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sul
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: it
-version: 2023-10-01
+version: 2025-06-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20231001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20231001/it"
 
 (OSIAC)
 
-del 30 novembre 2018 (Stato 1° ottobre 2023)
+del 30 novembre 2018 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^ingress-3]: Nuovo testo giusta l’all. 2 n. II 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^ingress-3]: Nuovo testo giusta l’all. 2 cifra II n. 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -214,7 +214,7 @@ La trasmissione di dati al SIAC deve avvenire attraverso le interfacce e le proc
 
 <sup>2</sup> I servizi che possono accedere ai dati del SIAC mediante procedura di richiamo in virtù dell’articolo 89*e* LCStr designano le persone autorizzate a tal fine.
 
-[^16-1]: Abrogato dal n. I dell’O del 16 ago. 2023, con effetto dal 1° ott. 2023 ([RU 2023 474](https://fedlex.data.admin.ch/eli/oc/2023/474)).
+[^16-1]: Abrogato dalla cifra I dell’O del 16 ago. 2023, con effetto dal 1° ott. 2023 ([RU 2023 474](https://fedlex.data.admin.ch/eli/oc/2023/474)).
 
 #### Art. 17
 
@@ -246,11 +246,12 @@ L’USTRA pubblica annualmente:
 
 <sup>4</sup> L’USTRA può rendere accessibili anche al pubblico informazioni anonimizzate o dati tecnici.
 
-<sup>5</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla LPD e dall’ordinanza del 31 agosto 2022[^18-1] sulla protezione dei dati, nonché dalla LStat e dall’ordinanza del 30 giugno 1993[^18-2] sulle rilevazioni statistiche.[^18-3]
+<sup>5</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla LPD, dall’ordinanza del 31 agosto 2022[^18-1] relativa alla legge federale sulla protezione dei dati nonché dalla LStat[^18-2] e dall’ordinanza del 30 aprile 2025[^18-3] sulla statistica federale.[^18-4]
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^18-3]: Nuovo testo giusta l’all. 2 n. II 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^18-4]: Nuovo testo giusta l’all. 3 n. 11 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
 
@@ -400,7 +401,7 @@ Allegato 2[^t-1]
 
 ## Dati del sottosistema SIAC Persone
 
-[^t-1]: Aggiornato dal n. I dell’O dell’USTRA del 28 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4223](https://fedlex.data.admin.ch/eli/oc/2019/726)).
+[^t-1]: Aggiornato dalla cifra I dell’O dell’USTRA del 28 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4223](https://fedlex.data.admin.ch/eli/oc/2019/726)).
 
 ### 1 Autorizzazioni a condurre
 
