@@ -4,13 +4,12 @@ number: "756"
 title: Strassenverordnung
 short: StrV
 language: de
-version: 2020-01-01
-valid_until: 2025-05-31
-version_adopted: 2019-10-15
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 1996-01-19
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/756"
-pdf: "https://srl.lu.ch/api/de/versions/3535/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3535/pdf_file"
 
 (StrV)
 
-vom 19.01.1996 (Stand 01.01.2020)
+vom 19.01.1996 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 61 Absätze 1 und 2 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960[^ingress-1] sowie die §§ 2a, 7 Absatz 2, 8 Absatz 2, 25 Absätze 3 und 4, 26 Absätze 2 und 3, 52 Absatz 2, 56 Absatz 3, 60 Absatz 3, 65 Absatz 3, 66a Absatz 2b, 68 Absatz 2, 69 Absatz 1, 71b Absatz 2b, 72, 77 Absatz 3 und 91 Absatz 2 des Strassengesetzes vom 21. März 1995[^ingress-2],
+gestützt auf Artikel 61 Absätze 1 und 2 des Bundesgesetzes über die Nationalstrassen vom 8. März 1960[^ingress-1] sowie die §§ 2a, 7 Absatz 2, 8 Absatz 2, 25 Absätze 3 und 4, 26 Absätze 2 und 3, 52 Absatz 2, 56 Absatz 3, 60 Absatz 3, 65 Absatz 3, 66a Absatz 2b, 68 Absatz 2, 69 Absatz 1, 69 Absatz 1<sup>bis</sup>, 71b Absatz 2b, 72, 77 Absatz 3 und 91 Absatz 2 des Strassengesetzes vom 21. März 1995[^ingress-2],
 
 auf Antrag des Baudepartementes,
 
@@ -219,6 +218,11 @@ beschliesst:
 
 <sup>3</sup> Bei Kantonsstrassen holt die Dienststelle Verkehr und Infrastruktur vor der öffentlichen Auflage des Strassenprojektes oder vor der Einleitung des vereinfachten Projektbewilligungsverfahrens gemäss § 72 des Strassengesetzes die Stellungnahmen der betroffenen Gemeinden und der interessierten kantonalen Dienststellen ein.
 
+<sup>4</sup> Auf die frühzeitige Unterbreitung des Entwurfs des Landerwerbsvertrags an die betroffenen Grundeigentümerschaften kann in der Regel verzichtet werden:
+
+- a. bei einem Erwerb von Flächen unter 20 m² oder
+- b. wenn die betroffenen Grundeigentümerschaften mit zumutbarem Aufwand nicht innert nützlicher Frist aufgefunden werden können.
+
 #### § 10a
 
 **Kantonale Leit- oder Entscheidsbehörde**
@@ -232,9 +236,9 @@ beschliesst:
 
 **Koordination**
 
-<sup>1</sup> Ist der Entscheid der Gemeinde nach § 66 Absatz 1 oder die Projektbewilligung nach § 71b Absatz 1 des Strassengesetzes mit weiteren Bewilligungen oder Verfügungen in der gleichen Sache zu koordinieren, finden die Vorschriften in § 65 der Planungs- und Bauverordnung vom 27. November 2001[^10b-1] sinngemäss Anwendung.
+<sup>1</sup> Ist der Entscheid der Gemeinde nach § 66 Absatz 1 oder die Projektbewilligung nach § 71b Absatz 1 des Strassengesetzes mit weiteren Bewilligungen oder Verfügungen in der gleichen Sache zu koordinieren, finden die Vorschriften in § 61 der Planungs- und Bauverordnung vom 29. Oktober 2013[^10b-1] sinngemäss Anwendung.
 
-[^10b-1]: SRL Nr. [736](https://srl.lu.ch/data/736/de)
+[^10b-1]: SRL Nr.[736](https://srl.lu.ch/data/736/de)
 
 #### § 10c
 
