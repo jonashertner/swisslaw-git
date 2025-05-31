@@ -4,11 +4,10 @@ number: "172.5"
 title: Verordnung über die strategische Führung und den Einsatz der kantonalen Führungsorganisation (KFOV)
 short: KFOV
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-06-01
+version: "2025-06-01"
+nachtrag: "129"
 adopted: 2010-12-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-129.html"
 text: pdf
 ---
 
@@ -16,17 +15,13 @@ text: pdf
 
 # Verordnung über die strategische Führung und den Einsatz der kantonalen Führungsorganisation (KFOV)
 
-(vom 22. Dezember 2010)[^t-1],[^t-2]
+(vom 22. Dezember 2010)<sup>1,</sup> <sup>2</sup>
 
 Der Regierungsrat,
 
-gestützt auf § 28 des Bevölkerungsschutzgesetzes (BSG) vom 4. Februar 2008[^t-3],
+gestützt auf § 28 des Bevölkerungsschutzgesetzes (BSG) vom 4. Februar 2008<sup>3</sup>,
 
 beschliesst:
-
-[^t-1]: OS 66, 249; Begründung siehe ABl 2011, 93.
-[^t-2]: Inkrafttreten: 1. April 2011.
-[^t-3]: LS 520.
 
 ### A. Allgemeines
 
@@ -50,9 +45,9 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 
 - b. zur Bewältigung von Ereignissen anderer Lagen.
 
-<sup>2</sup> Die Direktionen können beim Regierungsrat die Unterstützung der KFO beantragen. Deren Einsatz erfolgt in Absprache mit der Sicherheitsdirektion.[^2-1]
+<sup>2</sup> Die Direktionen können beim Regierungsrat die Unterstützung der KFO beantragen. Deren Einsatz erfolgt in Absprache mit der Sicherheitsdirektion.<sup>5</sup>
 
-<sup>3</sup> Der Regierungsrat entscheidet über den Einsatz der KFO ausserhalb von ausserordentlichen Lagen.[^2-1] § 3. <sup>1</sup> Ständige Mitglieder des Fachstabs der KFO sind die Chefinnen oder die Chefs bzw. die von ihnen bezeichneten Vertreterinnen oder Vertreter folgender Verwaltungseinheiten:[^2-2] a. der Kantonspolizei,
+<sup>3</sup> Der Regierungsrat entscheidet über den Einsatz der KFO ausserhalb von ausserordentlichen Lagen.<sup>5</sup> § 3. <sup>1</sup> Ständige Mitglieder des Fachstabs der KFO sind die Chefinnen oder die Chefs bzw. die von ihnen bezeichneten Vertreterinnen oder Vertreter folgender Verwaltungseinheiten:<sup>6</sup> a. der Kantonspolizei,
 
 **b. Fachstab**
 
@@ -64,11 +59,11 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 25 - 129
 
 - e. des Kantonsärztlichen Dienstes,
 
-- f. des Amtes für Wirtschaft[^2-3],
+- f. des Amtes für Wirtschaft<sup>7</sup>,
 
 - g. der Kommunikationsabteilung des Regierungsrates,
 
@@ -83,10 +78,6 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 <sup>2</sup> Der Regierungsrat kann bei der Bewältigung von ausserordentlichen Lagen weitere Mitglieder beiziehen.
 
 <sup>3</sup> Der Fachstab kann zusätzliche Fachleute beiziehen.
-
-[^2-1]: Eingefügt durch RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
-[^2-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
-[^2-3]: Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 547; ABl 2023-12-15). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 5
 
 #### § 4
 
@@ -150,20 +141,17 @@ Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion a. lässt sich in re
 
 <sup>2</sup> Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion informiert den Regierungsrat.
 
-[^8-1]: LS 520.
-[^8-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
-
 #### § 9
 
 **Aufgaben des Regierungsrates a. Allgemeines**
 
-<sup>1</sup> Im Rahmen seiner Aufgaben gemäss § 10 BSG[^8-1] entscheidet der Regierungsrat insbesondere über zusätzliche Aufträge an die Leitung der KFO.[^8-2]
+<sup>1</sup> Im Rahmen seiner Aufgaben gemäss § 10 BSG<sup>3</sup> entscheidet der Regierungsrat insbesondere über zusätzliche Aufträge an die Leitung der KFO.<sup>6</sup>
 
 <sup>2</sup> Er kann ereignisbezogen einen Ausschuss einsetzen. Diesem gehören die Regierungspräsidentin oder der Regierungspräsident, die Vorsteherin oder der Vorsteher der Sicherheitsdirektion und ein weiteres Regierungsmitglied an.
 
 **3**
 
-- 1\. 1. 24 - 123 § 10. <sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
+- 1\. 7. 25 - 129 § 10. <sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
 
 **b. Verkehr mit ausserkantonalen Behörden**
 
@@ -211,12 +199,47 @@ Ist rechtzeitiges Handeln des Regierungsrates nicht möglich, trifft an dessen S
 
 Besteht bei einer ausserordentlichen Lage in den Städten Zürich oder Winterthur ein über deren Gebiet hinausreichendes Schadensrisiko, entscheidet der Regierungsrat, ob die Gesamtleitung der Einsätze auch in den Städten beim Kanton liegt.
 
-### D. Andere Lagen
+[^15-1]: Fassung gemäss RRB vom 26. Februar 2025 (OS 80, 113; ABl 2025-03-28). In Kraft seit 1. Juni 2025.
 
-#### § 16
+### D. ABC-Schutz
 
-<sup>1</sup> Die Gemeinden melden der Kantonspolizei ihre Führungsorgane.
+[^15-1]
+
+**Vorsorgeleistungen**
+
+§ 16.[^hDABCSchutz151-1] <sup>1</sup> Der Fachstab prüft periodisch, ob die Vorsorgeleistungen der Partnerorganisationen gemäss § 3 der Verordnung über den ABC-Schutz vom 26. Februar 2025[^hDABCSchutz151-2], insbesondere im Hinblick auf eskalierende A-, B- und C-Ereignisse, den Vorgaben des Regierungsrates entsprechen.
+
+<sup>2</sup> Er sorgt dafür, dass erkannte Defizite rasch behoben werden. § 17.[^hDABCSchutz151-3] <sup>1</sup> Die Partnerorganisationen stellen im Rahmen ihrer Möglichkeiten zusätzliche Einsatzkräfte und zusätzliches Einsatzmaterial zur Verfügung, wenn ein A-, B- oder C-Ereignis nicht durch die ABC-Wehr bewältigt werden kann.
+
+**Unterstützung bei der Ereignisbewältigung**
+
+<sup>2</sup> Auf Antrag einer Partnerorganisation an die Kommandantin oder den Kommandanten der Kantonspolizei kann der Fachstab den Einsatz dieser Mittel leiten.
+
+**Zusammenarbeit mit Bund, Kantonen und Gemeinden**
+
+§ 18.[^hDABCSchutz151-3] <sup>1</sup> Der Fachstab koordiniert im Ereignisfall die Zusammenarbeit mit Bund, Kantonen und Gemeinden. Er kann hierzu Vereinbarungen mit den zuständigen Stellen abschliessen.
+
+<sup>2</sup> Ist Gefahr im Verzug, trifft die Kommandantin oder der Kommandant der Kantonspolizei die nötigen Vorkehren.
+
+[^hDABCSchutz151-1]: Fassung gemäss RRB vom 26. Februar 2025 (OS 80, 113; ABl 2025-03-28). In Kraft seit 1. Juni 2025.
+[^hDABCSchutz151-2]: LS 528.1.
+[^hDABCSchutz151-3]: Eingefügt durch RRB vom 26. Februar 2025 (OS 80, 113; ABl 2025-03-28). In Kraft seit 1. Juni 2025.
+
+### E. Andere Lagen
+
+[^hDABCSchutz151-3]
+
+§ 19.[^hEAndereLagenhDA-1] <sup>1</sup> Die Gemeinden melden der Kantonspolizei ihre Führungsorgane.
 
 <sup>2</sup> Schliessen sich mehrere Gemeinden zu einem Sicherheitsverbund zusammen, bilden sie eine gemeinsame Führungsorganisation.
 
-<sup>3</sup> Unterstützt die Kantonspolizei eine Gemeinde bei der Bewältigung eines Ereignisses, übernimmt sie die Gesamtleitung.
+[^hEAndereLagenhDA-1]: Nummerierung gemäss RRB vom 26. Februar 2025 (OS 80, 113; ABl 2025-03-
+
+## Weitere Fussnoten
+
+- [1] OS 66, 249; Begründung siehe ABl 2011, 93.
+- [2] Inkrafttreten: 1. April 2011.
+- [3] LS 520.
+- [5] Eingefügt durch RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
+- [7] Fassung gemäss RRB vom 12. Dezember 2023 (OS 78, 547; ABl 2023-12-15). In Kraft seit 1. Januar 2024.
+- [28] . In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 5
