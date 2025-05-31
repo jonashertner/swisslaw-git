@@ -4,13 +4,13 @@ number: "271.215"
 title: Verordnung über die elektronische Übermittlung in Verfahren vor Verwaltungs- und Verwaltungsjustizbehörden
 short: "Übermittlungsverordnung, ÜmV"
 language: de
-version: 2022-07-01
-valid_until: 2025-05-31
-version_adopted: 2022-05-18
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2025-04-23
 adopted: 2012-05-09
 in_force: 2012-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/271.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3219/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3219/pdf_file"
 
 (Übermittlungsverordnung, ÜmV)
 
-Vom 09.05.2012 (Stand 01.07.2022)
+Vom 09.05.2012 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -47,7 +47,7 @@ beschliesst:
 
 <sup>2</sup> Für erstinstanzliche, nicht an gesetzliche Fristen gebundene Eingaben gelten das Behördenportal des Kantons Aargau oder andere gemäss § 2a Abs. 1 anerkannte und im Anhang 1 aufgeführte Behördenportale als qualifizierte elektronische Zugänge (Behördenportale ohne Zustellfunktion).
 
-<sup>2<sup>bis</sup></sup> Für erstinstanzliche, an gesetzliche Fristen gebundene Eingaben gelten das Behördenportal des Kantons Aargau oder andere gemäss § 2a Abs. 2 anerkannte Behördenportale als qualifizierte elektronische Zugänge (Behördenportale mit Zustellfunktion).
+<sup>2<sup>bis</sup></sup> Für erstinstanzliche, an gesetzliche Fristen gebundene Eingaben gelten das Behördenportal des Kantons Aargau oder andere gemäss § 2a Abs. 2 anerkannte und im Anhang 2 aufgeführte Behördenportale als qualifizierte elektronische Zugänge (Behördenportale mit Zustellfunktion).
 
 <sup>3</sup> Der Regierungsrat entscheidet nach Anhörung der Gemeindeammänner-Vereinigung über die Anerkennung kommunaler oder interkommunaler Behördenportale mit oder ohne Zustellfunktion gemäss den Absätzen 2 und 2<sup>bis</sup>. Antragsberechtigt sind die Gemeinden.
 
