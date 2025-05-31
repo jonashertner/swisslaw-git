@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juli 2002 über die Kostenermittlung und die Leistungs
 short: VKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: de
-version: 2024-07-01
+version: 2025-06-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2002-418-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/de"
 
 (VKL)[^t-1]
 
-vom 3. Juli 2002 (Stand am 1. Juli 2024)
+vom 3. Juli 2002 (Stand am 1. Juni 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
@@ -171,7 +171,7 @@ Als Kosten für die universitäre Lehre nach Artikel 49 Absatz 3 Buchstabe b des
 
 <sup>1</sup> Die Spitäler und die Geburtshäuser müssen eine Finanzbuchhaltung führen.
 
-<sup>2</sup> Die Spitäler müssen die Kosten der Kostenstellen nach der Nomenklatur der nach dem Anhang zur Verordnung vom 30. Juni 1993[^10-2] über die Durchführung von statistischen Erhebungen des Bundes durchgeführten Krankenhausstatistik ermitteln.
+<sup>2</sup> Die Spitäler müssen die Kosten der Kostenstellen nach der Nomenklatur ermitteln, die im Bearbeitungsreglement nach Artikel 30*c* der Krankenversicherungsverordnung vom 27. Juni 1995[^10-2] festgelegt ist.[^10-3]
 
 <sup>3</sup> Die Spitäler und Geburtshäuser müssen eine Lohnbuchhaltung führen.
 
@@ -180,7 +180,8 @@ Als Kosten für die universitäre Lehre nach Artikel 49 Absatz 3 Buchstabe b des
 <sup>5</sup> Zur Ermittlung der Kosten für Anlagenutzung müssen die Spitäler und Geburtshäuser eine Anlagebuchhaltung führen. Objekte mit einem Anschaffungswert von 10 000 Franken und mehr gelten als Investitionen nach Artikel 8.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^10-3]: Fassung gemäss Anhang 3 Ziff. 19 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 10a
 
@@ -241,22 +242,24 @@ Die Anlagebuchhaltung muss für jede Anlage mindestens die Angaben enthalten üb
 
 **Spitäler und Geburtshäuser**[^13-1]
 
-<sup>1</sup> Die Leistungsstatistik der Spitäler muss in Abstimmung mit der nach dem Anhang zur Verordnung vom 30. Juni 1993[^13-2] über die Durchführung von statistischen Erhebungen des Bundes erstellten Krankenhausstatistik und der Medizinischen Statistik der Krankenhäuser erstellt werden. Diese Bestimmung gilt sinngemäss für die Geburtshäuser.
+<sup>1</sup> Die Leistungsstatistik der Spitäler muss in Abstimmung mit der nach Anhang 1 Ziffer 05.03. der Bundesstatistikverordnung vom 30. April 2025[^13-2] erstellten Erhebung für die Statistik der Gesundheitsversorgung erstellt werden. Diese Bestimmung gilt sinngemäss für die Geburtshäuser.[^13-3]
 
 <sup>2</sup> Die Leistungsstatistik muss namentlich die Elemente Leistungsbezeichnung, Patientenbewegung, Pflegetage, Aufenthaltsdauer und geleistete Taxpunkte umfassen.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^13-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-3]: Fassung gemäss Anhang 3 Ziff. 19 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
 **Pflegeheime**
 
-<sup>1</sup> Die Leistungsstatistik der Pflegeheime muss in Abstimmung mit der nach dem Anhang zur Verordnung vom 30. Juni 1993[^14-1] über die Durchführung von statistischen Erhebungen des Bundes erstellten Statistik der sozialmedizinischen Institutionen erstellt werden.
+<sup>1</sup> Die Leistungsstatistik der Pflegeheime muss in Abstimmung mit der nach Anhang 1 Ziffer 05.03. der Bundesstatistikverordnung vom 30. April 2025[^14-1] erstellten Erhebung für die Statistik der Gesundheitsversorgung erstellt werden.[^14-2]
 
 <sup>2</sup> Die Leistungsstatistik muss namentlich die Elemente Leistungsbezeichnung, Aufenthaltstage und Pflegetage pro Pflegebedarfsstufe umfassen.
 
-[^14-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^14-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^14-2]: Fassung gemäss Anhang 3 Ziff. 19 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## 5. Abschnitt: Einsichtnahme
 

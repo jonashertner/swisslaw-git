@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement d
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: fr
-version: 2024-07-01
+version: 2025-06-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-418-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/fr"
 
 (OCP)[^t-1]
 
-du 3 juillet 2002 (État le 1<sup>er</sup> juillet 2024)
+du 3 juillet 2002 (État le 1<sup>er</sup> juin 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
@@ -171,7 +171,7 @@ Sont réputés coûts de formation universitaire au sens de l’art. 49, al. 3, 
 
 <sup>1</sup> Les hôpitaux et les maisons de naissance doivent tenir une comptabilité financière.
 
-<sup>2</sup> Les hôpitaux doivent calculer les coûts des centres de coûts en suivant la nomenclature de la statistique des hôpitaux établie selon l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^10-2].
+<sup>2</sup> Les hôpitaux doivent calculer les coûts des centres de coûts en suivant la nomenclature fixée dans le règlement de traitement visé à l’art. 30*c* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^10-2].[^10-3]
 
 <sup>3</sup> Les hôpitaux et les maisons de naissance doivent tenir une comptabilité des salaires.
 
@@ -180,7 +180,8 @@ Sont réputés coûts de formation universitaire au sens de l’art. 49, al. 3, 
 <sup>5</sup> Pour le calcul des coûts d’utilisation des immobilisations, les hôpitaux et les maisons de naissance doivent tenir une comptabilité des immobilisations. Sont réputés investissements au sens de l’art. 8 les objets d’une valeur d’achat de 10 000 francs ou plus.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^10-3]: Nouvelle teneur selon l’annexe 3 ch. 19 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 10a
 
@@ -241,22 +242,24 @@ La comptabilité des immobilisations contient, pour chaque immobilisation, au mo
 
 **Hôpitaux et maisons de naissance**[^13-1]
 
-<sup>1</sup> La statistique des prestations des hôpitaux doit être établie en coordination avec la statistique des hôpitaux et la statistique médicale des hôpitaux établies selon l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^13-2]. Cette disposition s’applique par analogie aux maisons de naissance.
+<sup>1</sup> La statistique des prestations des hôpitaux doit être établie en coordination avec le relevé pour la statistique des services de santé visé à l’annexe 1, au ch. 05.03, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^13-2]. Cette disposition s’applique par analogie aux maisons de naissance.[^13-3]
 
 <sup>2</sup> La statistique des prestations doit comprendre notamment la description des prestations, les mouvements de patients, les journées de soins, la durée du séjour et le nombre de points effectué.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^13-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-3]: Nouvelle teneur selon l’annexe 3 ch. 19 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
 **Etablissements médico-sociaux**
 
-<sup>1</sup> La statistique des prestations des établissements médico-sociaux doit être établie en coordination avec la statistique des établissements de santé non hospitaliers établie selon l’annexe à l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^14-1].
+<sup>1</sup> La statistique des prestations des établissements médico-sociaux doit être établie en coordination avec le relevé pour la statistique des services de santé visé à l’annexe 1, ch. 05.03, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^14-1].[^14-2]
 
 <sup>2</sup> La statistique des prestations doit comprendre notamment la description des prestations, les journées de séjour et les journées de soins par niveau de soins requis.
 
-[^14-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^14-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^14-2]: Nouvelle teneur selon l’annexe 3 ch. 19 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Section 5 Consultation des pièces
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 3 luglio 2002 sul calcolo dei costi e la registrazione del
 short: OCPre
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: it
-version: 2024-07-01
+version: 2025-06-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2002-418-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/it"
 
 (OCPre)[^t-1]
 
-del 3 luglio 2002 (Stato 1° luglio 2024)
+del 3 luglio 2002 (Stato 1° giugno 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ visto l’articolo 96 della legge federale del 18 marzo 1994[^ingress-1] sull’
 ordina:
 
 [^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 ## Sezione 1: In generale
 
@@ -40,7 +40,7 @@ ordina:
 
 <sup>2</sup> È applicabile agli ospedali, alle case per partorienti e alle case di cura autorizzati ai sensi dell’articolo 39 della legge.[^1-1]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 2
 
@@ -71,11 +71,11 @@ La distinzione e la determinazione dei costi e delle prestazioni summenzionati d
 - f. di valutare l’economicità e l’equità della fornitura di prestazioni;
 - g. di controllare l’evoluzione e il livello dei costi.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^2-3]: Abrogato dal n. I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^2-5]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-3]: Abrogato dalla cifra I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-6]: Introdotta dall’art. 17 dell’O dell’8 mag. 2024 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 al 30giugno 2032 ([RU 2024 219](https://fedlex.data.admin.ch/eli/oc/2024/219)).
 [^2-7]: [RS 811.225](https://fedlex.data.admin.ch/eli/cc/2024/219)
 
@@ -93,13 +93,13 @@ Sono considerate cure ospedaliere ai sensi dell’articolo 49 capoverso 1 della 
 - d. in una casa per partorienti in caso di trasferimento in ospedale;
 - e. in caso di decesso.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogato dal n. I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^4-1]: Abrogato dalla cifra I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 5
 
@@ -107,7 +107,7 @@ Sono considerate cure ospedaliere ai sensi dell’articolo 49 capoverso 1 della 
 
 Sono considerate ambulatoriali ai sensi dell’articolo 49 capoverso 6 della legge le cure che non sono considerate ospedaliere. Sono pure considerate cure ambulatoriali le degenze ripetute in cliniche di giorno o di notte.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ Sono considerate ambulatoriali ai sensi dell’articolo 49 capoverso 6 della leg
 
 Sono considerate cure per pazienti lungodegenti ai sensi degli articoli 49 capoverso 4 e 50 della legge le degenze in ospedale o in casa di cura senza che, secondo l’indicazione medica, siano necessarie cure e assistenza o una riabilitazione medica in ospedale.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 7
 
@@ -132,7 +132,7 @@ Sono considerati costi di formazione universitaria ai sensi dell’articolo 49 c
 
 <sup>3</sup> Sono considerati costi di formazione universitaria e di ricerca anche i costi indiretti come pure i mezzi impiegati per le attività di formazione e di ricerca finanziate da terzi.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^7-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 8
@@ -143,7 +143,7 @@ Sono considerati costi di formazione universitaria ai sensi dell’articolo 49 c
 
 <sup>2</sup> Sono assimilate alle operazioni di acquisto le operazioni di acquisto rateale e di locazione. I costi delle operazioni di acquisto rateale e di locazione sono giustificati separatamente come costi d’utilizzazione delle immobilizzazioni.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 ## Sezione 3: Calcolo dei costi e registrazione delle prestazioni
 
@@ -163,7 +163,7 @@ Sono considerati costi di formazione universitaria ai sensi dell’articolo 49 c
 
 <sup>6</sup> Il Dipartimento federale dell’interno (Dipartimento) può emanare disposizioni più dettagliate riguardanti l’elaborazione tecnica della contabilità analitica. In tal caso consulta i Cantoni, i fornitori di prestazioni e gli assicuratori.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 10
 
@@ -171,7 +171,7 @@ Sono considerati costi di formazione universitaria ai sensi dell’articolo 49 c
 
 <sup>1</sup> Gli ospedali e le case per partorienti devono tenere una contabilità finanziaria.
 
-<sup>2</sup> Gli ospedali devono calcolare i costi dei centri di costo secondo la nomenclatura della statistica ospedaliera attuata secondo l’allegato all’ordinanza del 30 giugno 1993[^10-2] sull’esecuzione di rilevazioni statistiche federali.
+<sup>2</sup> Gli ospedali devono calcolare i costi dei centri di costo secondo la nomenclatura fissata nel regolamento per il trattamento di cui all’articolo 30*c* dell’ordinanza del 27 giugno 1995[^10-2] sull’assicurazione malattie.[^10-3]
 
 <sup>3</sup> Gli ospedali e le case per partorienti devono tenere una contabilità dei salari.
 
@@ -179,8 +179,9 @@ Sono considerati costi di formazione universitaria ai sensi dell’articolo 49 c
 
 <sup>5</sup> Per il calcolo dei costi d’utilizzazione delle immobilizzazioni gli ospedali e le case per partorienti devono tenere una contabilità delle immobilizzazioni. Sono considerati investimenti ai sensi dell’articolo 8 gli oggetti con un valore di acquisto di 10 000 franchi o più.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^10-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^10-3]: Nuovo testo giusta l’all. 3 n. 19 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 10a
 
@@ -207,7 +208,7 @@ La contabilità delle immobilizzazioni deve contenere, per ogni immobilizzazione
 
 <sup>4</sup> Gli interessi calcolatori delle immobilizzazioni necessarie per l’esercizio e per la fornitura delle prestazioni ospedaliere sono calcolati in base al metodo del valore medio. Il tasso d’interesse ammonta al 3,7 per cento. Esso è verificato periodicamente.
 
-[^10a-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^10a-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 11
 
@@ -235,28 +236,30 @@ La contabilità delle immobilizzazioni deve contenere, per ogni immobilizzazione
 
 <sup>5</sup> Il Dipartimento può emanare disposizioni più dettagliate riguardanti l’elaborazione tecnica della statistica delle prestazioni. In tal caso consulta i Cantoni, i fornitori di prestazioni e gli assicuratori.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 13
 
 **Ospedali e case per partorienti**[^13-1]
 
-<sup>1</sup> La statistica delle prestazioni degli ospedali deve essere elaborata in coordinamento con la statistica ospedaliera e la statistica medica degli stabilimenti ospedalieri elaborate secondo l’allegato all’ordinanza del 30 giugno 1993[^13-2] sull’esecuzione di rilevazioni statistiche federali. Questa disposizione si applica per analogia alle case per partorienti.
+<sup>1</sup> La statistica delle prestazioni degli ospedali deve essere elaborata in coordinamento con la rilevazione per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^13-2] sulla statistica federale. Questa disposizione si applica per analogia alle case per partorienti.[^13-3]
 
 <sup>2</sup> La statistica delle prestazioni deve comprendere segnatamente gli elementi descrizione delle prestazioni, movimento dei pazienti, giornate di cura, durata di degenza e numero di punti effettuati.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
-[^13-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^13-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-3]: Nuovo testo giusta l’all. 3 n. 19 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
 **Case di cura**
 
-<sup>1</sup> La statistica delle prestazioni delle case di cura è elaborata in coordinamento con la statistica degli stabilimenti sanitari non ospedalieri elaborata secondo l’allegato all’ordinanza del 30 giugno 1993[^14-1] sull’esecuzione di rilevazioni statistiche federali.
+<sup>1</sup> La statistica delle prestazioni delle case di cura è elaborata in coordinamento con la rilevazione per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^14-1] sulla statistica federale.[^14-2]
 
 <sup>2</sup> La statistica delle prestazioni deve comprendere segnatamente gli elementi descrizione delle prestazioni, giornate di soggiorno e giornate di cura per livello dei bisogni di cure.
 
-[^14-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^14-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^14-2]: Nuovo testo giusta l’all. 3 n. 19 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Sezione 5: Consultazione dei documenti
 
@@ -266,7 +269,7 @@ La contabilità delle immobilizzazioni deve contenere, per ogni immobilizzazione
 
 Gli ospedali, le case per partorienti e le case di cura devono tenere a disposizione per consultazione i documenti di un anno, a partire dal 1° maggio dell’anno seguente. Sono autorizzati a consultarli le autorità che approvano, le autorità della Confederazione competenti in materia e i partner tariffali.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -274,7 +277,7 @@ Gli ospedali, le case per partorienti e le case di cura devono tenere a disposiz
 
 [^16-1]
 
-[^16-1]: Abrogato dal n. I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^16-1]: Abrogato dalla cifra I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
 #### Art. 17
 
