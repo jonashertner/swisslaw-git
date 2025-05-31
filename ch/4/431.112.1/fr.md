@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Ordonnance du 19 décembre 2008 sur le recensement fédéral de la population (Ordonnance sur le recensement)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: fr
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2009-42-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/fr"
 
 (Ordonnance sur le recensement)
 
-du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2022)
+du 19 décembre 2008 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -196,9 +196,10 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 
 <sup>3</sup> Les personnes sont interrogées à leur domicile principal.
 
-<sup>4</sup> L’objet et les modalités de réalisation de l’enquête sont réglés dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^11-1].
+<sup>4</sup> L’objet et les modalités de réalisation de l’enquête sont réglés dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^11-1].[^11-2]
 
-[^11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-2]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -206,9 +207,10 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 
 <sup>1</sup> Les enquêtes thématiques sont réalisées sous forme d’enquête téléphonique assistée par ordinateur. Celle-ci peut être complétée par une enquête en face à face assistée par ordinateur ou par une enquête écrite réalisée à l’aide d’un questionnaire imprimé ou électronique.
 
-<sup>2</sup> L’objet et les modalités de réalisation de chaque enquête sont réglés dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^12-1].
+<sup>2</sup> L’objet et les modalités de réalisation de chaque enquête sont réglés dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^12-1].[^12-2]
 
-[^12-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^12-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^12-2]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 13
 
@@ -220,9 +222,10 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 
 <sup>3</sup> Les instituts de science et de recherche peuvent, en collaboration avec l’OFS ou avec d’autres unités administratives de la Confédération, demander que des thèmes ou des questions soient traités, à condition d’en supporter les coûts.
 
-<sup>4</sup> L’objet et les modalités de réalisation de chaque enquête sont réglés dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^13-1].
+<sup>4</sup> L’objet et les modalités de réalisation de chaque enquête sont réglés dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^13-1].[^13-2]
 
-[^13-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-2]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
@@ -236,14 +239,15 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 
 **Obligation de renseigner**
 
-<sup>1</sup> L’obligation de renseigner est réglée, pour chaque type d’enquête, dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^15-1].
+<sup>1</sup> L’obligation de renseigner est réglée, pour chaque type d’enquête, dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^15-1].[^15-2]
 
-<sup>2</sup> Ne sont pas tenues à l’obligation de renseigner les personnes qui bénéficient de privilèges, d’immunités et de facilités en vertu de l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^15-2] et qui sont en possession d’une carte de légitimation du Département fédéral des affaires étrangères.
+<sup>2</sup> Ne sont pas tenues à l’obligation de renseigner les personnes qui bénéficient de privilèges, d’immunités et de facilités en vertu de l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^15-3] et qui sont en possession d’une carte de légitimation du Département fédéral des affaires étrangères.
 
 <sup>3</sup> L’obligation de renseigner vaut également pour les enquêtes de contrôle. Si l’enquête de contrôle est combinée avec une autre enquête statistique de l’OFS, l’obligation de renseigner est régie par les dispositions applicables à cette dernière enquête.
 
-[^15-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^15-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^15-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^15-2]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^15-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 16
 
@@ -266,6 +270,21 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 <sup>2</sup> Les enquêtes électroniques sont réalisées via Internet. Les questionnaires utilisés pour ces enquêtes ont la même structure que les questionnaires imprimés correspondants.
 
 <sup>3</sup> Les enquêtes électroniques sont réalisées sous forme cryptée et sécurisée.
+
+#### Art. 17a
+
+**Prise en charge des taxes postales**[^17a-1]
+
+<sup>1</sup>
+
+L’OFS prend à sa charge les taxes postales dues pour les envois ci-après effectués lors des recensements fédéraux:
+
+- a. les envois jusqu’à concurrence de 20 kilos échangés entre les autorités et les services de la Confédération, des cantons et des communes;
+- b. les envois jusqu’à concurrence de 5 kilos échangés entre les autorités et les services communaux d’une part et les commissions de recensement et les agents recenseurs nommés par eux d’autre part.
+
+<sup>2</sup> Les cantons et les communes peuvent facturer à l’OFS les taxes postales que les recensements fédéraux leur occasionnent.
+
+[^17a-1]: Introduit par l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 18
 
@@ -313,13 +332,15 @@ L’OFS publie les chiffres suivants de la population résidante:
 
 **Densification des enquêtes thématiques**
 
-<sup>1</sup> La densification de chaque enquête thématique est réglée dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^22-1].
+<sup>1</sup> La densification de chaque enquête thématique est réglée dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^22-1].[^22-2]
 
-<sup>2</sup> Elle est en principe homogène sur l’ensemble du territoire cantonal. Les exceptions sont fixées dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques.
+<sup>2</sup> Elle est en principe homogène sur l’ensemble du territoire cantonal. Les exceptions sont fixées dans l’annexe 1 de l’ordonnance sur la statistique fédérale.[^22-3]
 
 <sup>3</sup> La demande de densification doit être adressée à l’OFS au plus tard 9 mois avant le début de l’enquête.
 
-[^22-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^22-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^22-2]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^22-3]: Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 23
 
@@ -385,7 +406,7 @@ L’organe responsable de l’enquête détruit les documents d’enquête et le
 
 L’ordonnance du 13 janvier 1999 sur le recensement fédéral de la population de l’an 2000[^28-1] est abrogée.
 
-[^28-1]: [[RO 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)annexe ch. II 3, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)annexe 3 ch. 9]
+[^28-1]: [[RO 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)annexe ch. II 3; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)annexe 3 ch. 9]
 
 #### Art. 29
 

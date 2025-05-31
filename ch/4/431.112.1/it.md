@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Ordinanza del 19 dicembre 2008 sul censimento federale della popolazione (Ordinanza sul censimento)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: it
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2009-42-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/it"
 
 (Ordinanza sul censimento)
 
-del 19 dicembre 2008 (Stato 1° gennaio 2022)
+del 19 dicembre 2008 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -134,7 +134,9 @@ Le statistiche strutturali forniscono informazioni supplementari relativamente a
 - g. religioni;
 - h. mobilità e trasporti.
 
-<sup>2</sup> Esse sono elaborate in base alle rilevazioni basate sui registri e alla rilevazione strutturale.
+<sup>2</sup> Esse sono elaborate in base alle rilevazioni basate sui registri e all’indagine strutturale.[^6-1]
+
+[^6-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 7
 
@@ -158,7 +160,9 @@ Le statistiche tematiche forniscono informazioni di approfondimento relativament
 
 <sup>1</sup> Le statistiche omnibus forniscono informazioni supplementari su problematiche di attualità in materia di società, politica, economia e scienza.
 
-<sup>2</sup> Esse sono elaborate in base alle rilevazioni basate sui registri e alle rilevazioni omnibus.
+<sup>2</sup> Esse sono elaborate in base alle rilevazioni basate sui registri e all’indagine strutturale.[^8-1]
+
+[^8-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Sezione 3: Rilevazioni
 
@@ -200,17 +204,20 @@ L’identificatore federale dell’edificio e l’identificatore federale dell�
 
 #### Art. 11
 
-**Rilevazione strutturale**
+**Indagine strutturale[^11-1]**
 
-<sup>1</sup> La rilevazione strutturale è realizzata mediante indagine scritta in forma cartacea o elettronica.
+<sup>1</sup> L’indagine strutturale è realizzata mediante indagine scritta in forma cartacea o elettronica.[^11-2]
 
 <sup>2</sup> Sono utilizzati un questionario per le persone e un questionario per le economie domestiche.
 
 <sup>3</sup> Le persone sono interrogate al loro domicilio principale.
 
-<sup>4</sup> L’oggetto e le modalità di esecuzione della rilevazione sono disciplinati nell’allegato dell’ordinanza del 30 giugno 1993[^11-1] sulle rilevazioni statistiche.
+<sup>4</sup> L’oggetto e le modalità di esecuzione dell’indagine sono disciplinati nell’allegato 1 dell’ordinanza del 30 aprile 2025[^11-3] sulla statistica federale.[^11-4]
 
-[^11-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^11-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^11-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-4]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -218,23 +225,28 @@ L’identificatore federale dell’edificio e l’identificatore federale dell�
 
 <sup>1</sup> Le rilevazioni tematiche sono realizzate mediante intervista telefonica assistita da computer. Essa può essere completata con un’intervista personale assistita da computer oppure con un’indagine scritta in forma cartacea o elettronica.
 
-<sup>2</sup> L’oggetto e le modalità di esecuzione di ciascuna rilevazione sono disciplinati nell’allegato dell’ordinanza del 30 giugno 1993[^12-1] sulle rilevazioni statistiche.
+<sup>2</sup> L’oggetto e le modalità di esecuzione di ciascuna indagine sono disciplinati nell’allegato 1 dell’ordinanza del 30 aprile 2025[^12-1] sulla statistica federale.[^12-2]
 
-[^12-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^12-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^12-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 13
 
-**Rilevazioni omnibus**
+**Indagini omnibus[^13-1]**
 
-<sup>1</sup> Le rilevazioni omnibus sono realizzate mediante intervista telefonica assistita da computer. Essa può essere completata con un’indagine scritta in forma cartacea o elettronica.
+<sup>1</sup> Le indagini omnibus sono realizzate mediante intervista telefonica assistita da computer. Possono essere completate con un’indagine scritta in forma cartacea o elettronica.[^13-2]
 
-<sup>2</sup> I temi delle rilevazioni omnibus sono stabiliti dall’UST. Se unità amministrative della Confederazione richiedono l’introduzione di temi o domande supplementari l’UST ne tiene conto nella misura in cui gli siano stati accordati i mezzi finanziari corrispondenti nel quadro del preventivo per il censimento.
+<sup>2</sup> I temi delle indagini omnibus sono stabiliti dall’UST. Se unità amministrative della Confederazione richiedono l’introduzione di temi o domande supplementari l’UST ne tiene conto nella misura in cui gli siano stati accordati i mezzi finanziari corrispondenti nel quadro del preventivo per il censimento.[^13-3]
 
 <sup>3</sup> Istituti scientifici e di ricerca possono definire temi o domande supplementari in collaborazione con l’UST o altre unità amministrative della Confederazione, a condizione di assumersi i relativi costi.
 
-<sup>4</sup> L’oggetto e le modalità di esecuzione di ogni rilevazione sono disciplinati nell’allegato dell’ordinanza del 30 giugno 1993[^13-1] sulle rilevazioni statistiche.
+<sup>4</sup> L’oggetto e le modalità di esecuzione di ciascuna indagine sono disciplinati nell’allegato 2 dell’ordinanza del 30 aprile 2025[^13-4] sulla statistica federale.[^13-5]
 
-[^13-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-3]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-5]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
@@ -248,14 +260,15 @@ L’identificatore federale dell’edificio e l’identificatore federale dell�
 
 **Obbligo d’informare**
 
-<sup>1</sup> L’obbligo d’informare nelle singole rilevazioni è stabilito nell’allegato dell’ordinanza del 30 giugno 1993[^15-1] sulle rilevazioni statistiche.
+<sup>1</sup> L’obbligo d’informare nelle singole indagini è stabilito nell’allegato 2 dell’ordinanza del 30 parile 2025[^15-1] sulla statistica federale.[^15-2]
 
-<sup>2</sup> Sono esonerate dall’obbligo d’informare le persone in possesso di una carta di legittimazione del Dipartimento federale degli affari esteri a cui sono accordati privilegi, immunità e facilitazioni ai sensi dell’articolo 2 capoverso 2 della legge del 22 giugno 2007[^15-2] sullo Stato ospite.
+<sup>2</sup> Sono esonerate dall’obbligo d’informare le persone in possesso di una carta di legittimazione del Dipartimento federale degli affari esteri a cui sono accordati privilegi, immunità e facilitazioni ai sensi dell’articolo 2 capoverso 2 della legge del 22 giugno 2007[^15-3] sullo Stato ospite.
 
 <sup>3</sup> Nelle rilevazioni di controllo vige l’obbligo d’informare. Se le rilevazioni di controllo sono combinate con un’altra rilevazione statistica dell’UST, sono applicate le disposizioni relative all’obbligo d’informare di quest’altra rilevazione.
 
-[^15-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^15-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^15-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^15-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^15-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 16
 
@@ -279,17 +292,35 @@ L’identificatore federale dell’edificio e l’identificatore federale dell�
 
 <sup>3</sup> Le indagini elettroniche vanno realizzate in forma codificata e protetta.
 
+#### Art. 17a
+
+**Presa a carico delle tasse postali**[^17a-1]
+
+<sup>1</sup>
+
+L’UST si assume le tasse postali per i seguenti invii concernenti i censimenti federali:
+
+- a. invii fino a 20 kg nel traffico tra autorità e servizi federali, cantonali e comunali;
+- b. invii fino a 5 kg nel traffico tra autorità, servizi comunali e tra le commissioni e gli incaricati del censimento, da essi designati.
+
+<sup>2</sup> I Cantoni e i Comuni possono fatturare all’UST le tasse postali sostenute per i censimenti federali.
+
+[^17a-1]: Introdotto dal’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+
 #### Art. 18
 
 **Elaborazione delle rilevazioni e pubblicazione dei risultati**
 
 <sup>1</sup> Le rilevazioni basate sui registri sono elaborate annualmente. I primi risultati sono pubblicati entro il 31 agosto dell’anno successivo.
 
-<sup>2</sup> La rilevazione strutturale è elaborata annualmente. I primi risultati sono pubblicati entro 12 mesi dal giorno di riferimento.
+<sup>2</sup> L’indagine strutturale è elaborata annualmente. I primi risultati sono pubblicati entro 12 mesi dal giorno di riferimento.[^18-1]
 
 <sup>3</sup> Le rilevazioni tematiche sono elaborate annualmente. I primi risultati sono pubblicati entro 12 mesi dal termine della rilevazione.
 
-<sup>4</sup> I primi risultati della rilevazione omnibus sono pubblicati entro sei mesi dal termine della rilevazione.
+<sup>4</sup> I primi risultati dell’indagine omnibus sono pubblicati entro sei mesi dal termine della rilevazione.[^18-2]
+
+[^18-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^18-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
 
@@ -315,29 +346,36 @@ L’UST pubblica le seguenti cifre sulla popolazione residente:
 
 #### Art. 21
 
-**Ampliamento della rilevazione strutturale**
+**Ampliamento dell’indagine strutturale[^21-1]**
 
-<sup>1</sup> I Cantoni possono richiedere all’UST un ampliamento della rilevazione strutturale per l’insieme o parti del loro territorio. L’ampliamento non può superare il raddoppiamento del campione.
+<sup>1</sup> I Cantoni possono richiedere all’UST un ampliamento dell’indagine strutturale per l’insieme o parti del loro territorio. L’ampliamento non può superare il raddoppiamento del campione.[^21-2]
 
 <sup>2</sup> La richiesta va inoltrata almeno un anno prima del giorno di riferimento (31 dicembre).
+
+[^21-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^21-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 22
 
 **Ampliamento delle rilevazioni tematiche**
 
-<sup>1</sup> L’ampliamento è disciplinato nell’allegato dell’ordinanza del 30 giugno 1993[^22-1] sulle rilevazioni statistiche per ciascuna rilevazione tematica.
+<sup>1</sup> L’ampliamento è disciplinato nell’allegato 1 dell’ordinanza del 30 aprile 2025[^22-1] sulla statistica federale per ciascuna indagine tematica.[^22-2]
 
-<sup>2</sup> Per principio, le rilevazioni tematiche sono ampliate in modo uniforme sull’intero territorio cantonale. Le deroghe sono stabilite nell’allegato dell’ordinanza 30 giugno 1993 sulle rilevazioni statistiche.
+<sup>2</sup> Per principio, le rilevazioni tematiche sono ampliate in modo uniforme sull’intero territorio cantonale. Le deroghe sono stabilite nell’allegato 2 dell’ordinanza sulla statistica federale.[^22-3]
 
 <sup>3</sup> L’ampliamento va richiesto all’UST almeno nove mesi prima dell’inizio della rilevazione.
 
-[^22-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^22-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^22-2]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^22-3]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 23
 
-**Ampliamento della rilevazione omnibus**
+**Ampliamento dell’indagine omnibus**[^23-1]
 
-La rilevazione omnibus non può essere ampliata.
+L’indagine omnibus non può essere ampliata.
+
+[^23-1]: Nuovo testo giusta l’all. 3 n. 6 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 24
 
@@ -397,7 +435,7 @@ L’organo di rilevazione distrugge i documenti di rilevazione e i supporti di d
 
 L’ordinanza del 13 gennaio 1999[^28-1] sul censimento federale della popolazione del 2000 è abrogata.
 
-[^28-1]: [[RU 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 3, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. n. 3 n. 9]
+[^28-1]: [[RU 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. cifra II n. 3, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. n. 3 n. 9]
 
 #### Art. 29
 
@@ -425,7 +463,7 @@ Il diritto vigente è modificato conformemente all’allegato.
 
 <sup>3</sup> Il numero dell’economia domestica va inviato all’UST trimestralmente assieme agli altri dati a partire dal 31 dicembre 2010, fino a quando il registro degli abitanti non ha attribuito l’identificatore federale dell’abitazione a tutte le persone del proprio territorio.
 
-[^31-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Il Catalogo ufficiale delle caratteristiche può essere consultato sul sito Internet dell’UST: www.bfs.admin.ch/bfs/portal/it/index/news/00/00/publikationen.html, oppure richiesto presso l’Ufficio federale di statistica, Espace de l’Europe 10, 2010 Neuchâtel.
+[^31-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Il Catalogo ufficiale delle caratteristiche può essere consultato sul sito Internet dell’UST: www.bfs.admin.ch/bfs/portal/it/index/news/00/00/publikationen.html , oppure richiesto presso l’Ufficio federale di statistica, Espace de l’Europe 10, 2010 Neuchâtel.
 
 #### Art. 32
 

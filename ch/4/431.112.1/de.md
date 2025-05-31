@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Verordnung vom 19. Dezember 2008 über die eidgenössische Volkszählung (Volkszählungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: de
-version: 2022-01-01
+version: 2025-06-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2009-42-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/de"
 
 (Volkszählungsverordnung)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2022)
+vom 19. Dezember 2008 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -131,7 +131,9 @@ Die Strukturstatistiken liefern zusätzliche Informationen zu den Basisstatistik
 - g. Religionen;
 - h. Mobilität und Verkehr.
 
-<sup>2</sup> Sie werden auf der Basis der Registererhebungen und der Strukturerhebung erstellt.
+<sup>2</sup> Sie werden auf der Basis der Registererhebungen und der Befragung Strukturerhebung erstellt.[^6-1]
+
+[^6-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 7
 
@@ -155,7 +157,9 @@ Thematische Statistiken liefern abwechslungsweise vertiefte Informationen zu den
 
 <sup>1</sup> Omnibus-Statistiken liefern zusätzliche Informationen zu aktuellen Fragestellungen in den Bereichen Gesellschaft, Politik, Wirtschaft und Wissenschaft.
 
-<sup>2</sup> Sie werden auf der Basis der Registererhebungen und der Omnibus-Erhebungen erstellt.
+<sup>2</sup> Sie werden auf der Basis der Registererhebungen und der Omnibus-Befragung erstellt.[^8-1]
+
+[^8-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## 3. Abschnitt: Erhebungen
 
@@ -197,17 +201,20 @@ Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidenti
 
 #### Art. 11
 
-**Strukturerhebung**
+**Befragung Strukturerhebung[^11-1]**
 
-<sup>1</sup> Die Strukturerhebung erfolgt durch schriftliche Befragung in Papierform oder elektronischer Form.
+<sup>1</sup> Die Befragung Strukturerhebung erfolgt durch schriftliche Befragung in Papierform oder in elektronischer Form.[^11-2]
 
 <sup>2</sup> Es werden ein Personenfragebogen und ein Haushaltsfragebogen verwendet.
 
 <sup>3</sup> Die Personen werden an ihrem Hauptwohnsitz befragt.
 
-<sup>4</sup> Gegenstand und Modalitäten der Erhebung werden im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^11-1] geregelt.
+<sup>4</sup> Der Gegenstand und die Modalitäten der Befragung werden in Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^11-3] geregelt.[^11-4]
 
-[^11-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^11-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^11-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^11-3]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-4]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
 
@@ -215,23 +222,28 @@ Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidenti
 
 <sup>1</sup> Die thematischen Erhebungen werden mittels computergestützter Telefonbefragung durchgeführt. Diese kann ergänzt werden mit einer computergestützten persönlichen Befragung oder einer schriftlichen Befragung in Papierform oder elektronischer Form.
 
-<sup>2</sup> Gegenstand und Modalitäten jeder Erhebung werden im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^12-1] geregelt.
+<sup>2</sup> Der Gegenstand und die Modalitäten jeder Erhebung werden in Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^12-1] geregelt.[^12-2]
 
-[^12-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^12-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^12-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 13
 
-**Omnibus-Erhebungen**
+**Omnibus-Befragung[^13-1]**
 
-<sup>1</sup> Die Omnibus-Erhebungen werden mittels computergestützter Telefonbefragung durchgeführt. Diese kann ergänzt werden mit einer schriftlichen Befragung in Papierform oder elektronischer Form.
+<sup>1</sup> Die Omnibus-Befragung wird mittels computergestützter Telefonbefragung durchgeführt. Diese kann ergänzt werden mit einer schriftlichen Befragung in Papierform oder in elektronischer Form.[^13-2]
 
-<sup>2</sup> Die Themen der Omnibus-Erhebungen werden durch das BFS festgelegt. Beantragen Verwaltungseinheiten des Bundes zusätzliche Themen und Fragen, so berücksichtigt das BFS diese, soweit ihm im Rahmen des Voranschlags für die Volkszählung die entsprechenden Mittel bewilligt wurden.
+<sup>2</sup> Die Themen der Omnibus-Befragung werden durch das BFS festgelegt. Beantragen Verwaltungseinheiten des Bundes zusätzliche Themen und Fragen, so berücksichtigt das BFS diese, soweit ihm im Rahmen des Voranschlags für die Volkszählung die entsprechenden Mittel bewilligt wurden.[^13-3]
 
 <sup>3</sup> Stellen aus Wissenschaft und Forschung können die Bearbeitung von Themen und Fragen in Zusammenarbeit mit dem BFS oder anderen Verwaltungseinheiten des Bundes beantragen, sofern sie die Kosten tragen.
 
-<sup>4</sup> Gegenstand und Modalitäten jeder Erhebung werden im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^13-1] geregelt.
+<sup>4</sup> Der Gegenstand und die Modalitäten jeder Erhebung werden in Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^13-4] geregelt.[^13-5]
 
-[^13-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^13-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-3]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^13-4]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^13-5]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 14
 
@@ -245,14 +257,15 @@ Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidenti
 
 **Auskunftspflicht**
 
-<sup>1</sup> Die Auskunftspflicht bei den einzelnen Erhebungen wird im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^15-1] festgelegt.
+<sup>1</sup> Die Auskunftspflicht bei den einzelnen Befragungen wird in Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^15-1] geregelt.[^15-2]
 
-<sup>2</sup> Von der Auskunftspflicht ausgenommen sind Personen, die im Sinne von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^15-2] mit Vorrechten, Immunitäten und Erleichterungen begünstigt sind und eine Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten besitzen.
+<sup>2</sup> Von der Auskunftspflicht ausgenommen sind Personen, die im Sinne von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^15-3] mit Vorrechten, Immunitäten und Erleichterungen begünstigt sind und eine Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten besitzen.
 
 <sup>3</sup> Bei den Kontrollerhebungen besteht eine Auskunftspflicht. Werden die Kontrollerhebungen mit einer anderen statistischen Erhebung des BFS kombiniert, so gilt für die Auskunftspflicht das Recht dieser anderen Erhebung.
 
-[^15-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^15-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^15-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^15-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^15-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 16
 
@@ -276,17 +289,35 @@ Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidenti
 
 <sup>3</sup> Die Befragungen per Internet sind in verschlüsselter und gesicherter Form durchzuführen.
 
+#### Art. 17a
+
+**Posttaxen**[^17a-1]
+
+<sup>1</sup>
+
+Das BFS übernimmt im Zusammenhang mit eidgenössischen Zählungen die Posttaxen für folgende Sendungen:
+
+- a. Sendungen bis 20 kg im Verkehr zwischen Behörden und Amtsstellen des Bundes, der Kantone und der Gemeinden;
+- b. Sendungen bis 5 kg im Verkehr zwischen den Behörden und Amtsstellen der Gemeinden und den von ihnen ernannten Zählkommissionen sowie Zählerinnen und Zählern.
+
+<sup>2</sup> Die Kantone und Gemeinden können ihre Postauslagen für eidgenössische Zählungen dem BFS in Rechnung stellen.
+
+[^17a-1]: Eingefügt durch Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+
 #### Art. 18
 
 **Auswertung der Erhebungen und Veröffentlichung der Ergebnisse**
 
 <sup>1</sup> Die Registererhebungen werden jährlich ausgewertet. Erste Ergebnisse werden spätestens am 31. August des Folgejahres veröffentlicht.
 
-<sup>2</sup> Die Strukturerhebung wird jährlich ausgewertet. Erste Ergebnisse werden innerhalb von zwölf Monaten nach dem Stichtag veröffentlicht.
+<sup>2</sup> Die Befragung Strukturerhebung wird jährlich ausgewertet. Erste Ergebnisse werden innerhalb von zwölf Monaten nach dem Stichtag veröffentlicht.[^18-1]
 
 <sup>3</sup> Die thematischen Erhebungen werden jährlich ausgewertet. Erste Ergebnisse werden innerhalb von zwölf Monaten nach Abschluss der Erhebung veröffentlicht.
 
-<sup>4</sup> Erste Ergebnisse der Omnibus-Erhebung werden innerhalb von sechs Monaten nach Abschluss der Erhebung veröffentlicht.
+<sup>4</sup> Erste Ergebnisse der Omnibus-Befragung werden innerhalb von sechs Monaten nach Abschluss der Befragung veröffentlicht*.*[^18-2]
+
+[^18-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^18-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
 
@@ -312,29 +343,36 @@ Das BFS veröffentlicht folgende Zahlen zur Wohnbevölkerung:
 
 #### Art. 21
 
-**Aufstockung der Strukturerhebung**
+**Aufstockung der Befragung Strukturerhebung[^21-1]**
 
-<sup>1</sup> Die Kantone können beim BFS eine Aufstockung der Strukturerhebung für das eigene Gebiet oder Teile davon bestellen. Die Erhebung darf höchstens auf das Doppelte aufgestockt werden.
+<sup>1</sup> Die Kantone können beim BFS eine Aufstockung der Befragung Strukturerhebung für das eigene Gebiet oder Teile davon bestellen. Die Erhebung darf höchstens auf das Doppelte aufgestockt werden.[^21-2]
 
 <sup>2</sup> Die Bestellung ist spätestens ein Jahr vor dem Stichtag (31. Dezember) einzureichen.
+
+[^21-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^21-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 22
 
 **Aufstockung bei den thematischen Erhebungen**
 
-<sup>1</sup> Die Aufstockung wird für jede thematische Erhebung im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^22-1] festgelegt.
+<sup>1</sup> Die Aufstockung wird für jede thematische Befragung nach Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^22-1] festgelegt.[^22-2]
 
-<sup>2</sup> Die thematischen Erhebungen werden grundsätzlich im ganzen Kantonsgebiet gleichmässig aufgestockt. Ausnahmen werden im Anhang der Statistikerhebungsverordnung vom 30. Juni 1993 festgehalten.
+<sup>2</sup> Die thematischen Erhebungen werden grundsätzlich im ganzen Kantonsgebiet gleichmässig aufgestockt. Ausnahmen werden in Anhang 1 der Bundesstatistikverordnung festgehalten.[^22-3]
 
 <sup>3</sup> Die Aufstockung ist beim BFS spätestens neun Monate vor dem Erhebungsbeginn zu bestellen.
 
-[^22-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^22-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^22-2]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^22-3]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 23
 
-**Aufstockung der Omnibus-Erhebung**
+**Aufstockung der Omnibus-Befragung**[^23-1]
 
-Die Omnibus-Erhebung kann nicht aufgestockt werden.
+Die Omnibus-Befragung kann nicht aufgestockt werden.
+
+[^23-1]: Fassung gemäss Anhang 3 Ziff. 6 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 24
 
