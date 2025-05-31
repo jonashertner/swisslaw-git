@@ -4,13 +4,13 @@ number: IV B/1/3
 title: Gesetz über Schule und Bildung
 short: Bildungsgesetz
 language: de
-version: 2023-01-01
-valid_until: 2025-05-31
-version_adopted: 2022-05-01
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-04
 adopted: 2001-05-06
 in_force: 2002-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2390/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2390/pdf_file"
 
 (Bildungsgesetz)
 
-Vom 06.05.2001 (Stand 01.01.2023)
+Vom 06.05.2001 (Stand 01.06.2025)
 
 Erlassen von der Landsgemeinde am 6. Mai 2001
 
@@ -855,7 +855,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>4</sup> …
 
-<sup>5</sup> Die Beschwerdefrist beträgt unter Vorbehalt der nachfolgenden Ausnahmen 30 Tage; in Promotions- und Prüfungsangelegenheiten sowie bei allen übrigen Entscheiden betreffend den Zugang zu oder den Verbleib in Bildungsgängen beträgt sie zehn Tage.
+<sup>5</sup> Die Beschwerdefrist beträgt unter Vorbehalt der nachfolgenden Ausnahmen 30 Tage; in Promotions- und Prüfungsangelegenheiten sowie bei allen übrigen Entscheiden betreffend den Zugang zu oder den Verbleib in Bildungsgängen beträgt sie zehn Tage. In solchen Fällen finden die Vorschriften zum Stillstand der Fristen keine Anwendung.
 
 #### Art. 115
 
@@ -888,6 +888,12 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 <sup>1</sup> Die Verschiebung des Stichtags auf das Datum gemäss Artikel 43 Absatz 1 erfolgt während drei Jahren gestaffelt um einen Monat pro Schuljahr. Der Regierungsrat legt den Beginn der Verschiebung fest, sobald das Harmos-Konkordat zustande gekommen ist.[^118-1]
 
 [^118-1]: Beginn der Verschiebung: Schuljahr 2009/2010 (B RR 12. Mai 2009)
+
+#### Art. 118a
+
+**Übergangsbestimmung zur Änderung vom 4. Mai 2025**
+
+<sup>1</sup> Mit Ausnahme dieses Artikels und von Artikel 114 Absatz 5 sind die Änderungen vom 4. Mai 2025 erst ab dem 1. August 2026 rechtswirksam.
 
 #### Art. 119
 
