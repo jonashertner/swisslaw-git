@@ -4,10 +4,11 @@ number: "935.511"
 title: Verordnung über den Personentransport mit Taxis und Limousinen (PTLV)
 short: PTLV
 language: de
-nachtrag: "123"
-valid_until: 2025-05-26
+version: "2025-06-01"
+nachtrag: "128"
+valid_until: 2025-06-25
 adopted: 2023-05-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_511-2023_05_24-2024_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_511-2023_05_24-2024_01_01-128.html"
 text: pdf
 ---
 
@@ -67,7 +68,7 @@ Die Strafverfolgungsbehörden und das Strassenverkehrsamt melden dem Amt Verurte
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 - d. Strafregisterauszug, der nicht älter als drei Monate ist,
 
@@ -153,7 +154,7 @@ Mit dem Gesuch sind folgende Angaben bekannt zu geben und Unterlagen einzureiche
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 ### C. Betriebsvorschriften für Taxis
 
@@ -211,15 +212,16 @@ Mit dem Gesuch sind folgende Angaben bekannt zu geben und Unterlagen einzureiche
 
 <sup>1</sup> Werden Taxifahrten angeboten oder ausgeführt, ist die Taxilampe am Fahrzeug anzubringen.
 
-<sup>2</sup> Wird das Fahrzeug auf einem öffentlichen Parkplatz in Sichtweite eines Taxistandplatzes abgestellt oder für Privatfahrten verwendet, ist die Taxilampe auszuschalten.[^16-1]
+<sup>2</sup> Wird das Fahrzeug für Privatfahrten verwendet, ist die Taxilampe auszuschalten.[^16-1]
 
 **Anwerbeverbot**
 
 § 17. <sup>1</sup> Taxifahrerinnen und Taxifahrer dürfen Fahrgäste nicht durch Zurufe, Winken oder auf ähnliche Weise anwerben.
 
-<sup>2</sup> Sie dürfen öffentliche Parkplätze in Sichtweite von Taxistandplätzen nicht nutzen, um auf Fahrgäste oder Fahraufträge zu warten.[^16-1]
+<sup>2</sup> ….[^16-2]
 
-[^16-1]: Noch nicht in Kraft.
+[^16-1]: Fassung gemäss RRB vom 5. März 2025 (OS 80, 128; ABl 2025-03-14). In Kraft seit 1. Juni 2025.
+[^16-2]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 5. Dezember 2024 (AN.2023.00016).
 
 ### D. Limousinen
 
@@ -253,7 +255,7 @@ Mit dem Gesuch sind folgende Angaben bekannt zu geben und Unterlagen einzureiche
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 25 - 128
 
 [^19-1]: Noch nicht in Kraft.
 
