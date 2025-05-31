@@ -3,20 +3,19 @@ canton: LU
 number: "276"
 title: Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Staatsanwältinnen und -anwälte und der Jugendanwältinnen und -anwälte
 language: de
-version: 2020-07-01
-valid_until: 2025-05-31
-version_adopted: 2020-05-18
+version: 2025-06-01
+version_adopted: 2025-05-12
 adopted: 2010-05-10
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/276"
-pdf: "https://srl.lu.ch/api/de/versions/3589/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Staatsanwältinnen und -anwälte und der Jugendanwältinnen und -anwälte
 
-vom 10.05.2010 (Stand 01.07.2020)
+vom 10.05.2010 (Stand 01.06.2025)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -32,8 +31,8 @@ beschliesst:
 
 <sup>1</sup> Die Zahl und der Beschäftigungsgrad der Staatsanwältinnen und -anwälte werden wie folgt festgelegt:
 
-- a. 35 vollamtliche Staatsanwältinnen oder -anwälte,
-- b. 4 hauptamtliche Staatsanwältinnen oder -anwälte mit einem Beschäftigungsgrad von 80 Prozent (1 Stelle) beziehungsweise 50 Prozent (3 Stellen).
+- a. 38 vollamtliche Staatsanwältinnen oder -anwälte,
+- b. 9 hauptamtliche Staatsanwältinnen oder -anwälte mit einem Beschäftigungsgrad von 80 Prozent (2 Stellen) beziehungsweise 50 Prozent (7 Stellen).
 
 #### § 2
 
