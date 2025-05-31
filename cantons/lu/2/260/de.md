@@ -4,13 +4,13 @@ number: "260"
 title: "Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justizgesetz, JusG"
 language: de
-version: 2019-01-01
-valid_until: 2025-05-31
-version_adopted: 2018-09-10
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-21
 adopted: 2010-05-10
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/260"
-pdf: "https://srl.lu.ch/api/de/versions/3956/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3956/pdf_file"
 
 (Justizgesetz, JusG)
 
-vom 10.05.2010 (Stand 01.01.2019)
+vom 10.05.2010 (Stand 01.06.2025)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -340,6 +340,10 @@ beschliesst:
 <sup>3</sup> Es kann zentrale Dienste, namentlich im Informatik- und im Finanzbereich, für das gesamte Gerichtswesen einsetzen.
 
 <sup>4</sup> Es vertritt die Gerichte und Behörden gegenüber dem Kantonsrat und dem Regierungsrat.
+
+<sup>5</sup> Es sorgt für die Information der Öffentlichkeit über die Tätigkeit und die Organisation der Gerichte und Behörden. Die Bestimmungen der §§ 68a–68g und 70a des Organisationsgesetzes[^22-1] über den Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip gelten sinngemäss für die Belange der Gerichtsverwaltung sowie für die dem Kantonsgericht unterstellten Dienststellen.
+
+[^22-1]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 
 ### 2.2.3 Organisation
 
