@@ -4,11 +4,11 @@ title: Ordinanza del DATEC 20 novembre 2024 sulla garanzia di origine per combus
 short: OGOCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: it
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/it"
 
 (OGOCC)
 
-del 20 novembre 2024 (Stato 1° maggio 2025)
+del 20 novembre 2024 (Stato 1° giugno 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -152,7 +152,7 @@ I produttori di combustibili o carburanti o terzi da loro incaricati rilevano i 
 
 **Obbligo di notifica per la statistica globale dell’energia**
 
-<sup>1</sup> I produttori che non immettono tutto il biogas da loro prodotto nella rete o che non vendono tutto il gas da loro prodotto a una stazione di rifornimento, notificano all’organo d’esecuzione per la statistica globale dell’energia, di cui al numero 167 dell’allegato dell’ordinanza del 30 giugno 1993[^7-1] sulle rilevazioni statistiche, la potenza del combustibile e la potenza nominale elettrica e termica installata, inclusi eventuali ampliamenti.
+<sup>1</sup> I produttori che non immettono tutto il biogas da loro prodotto nella rete o che non vendono tutto il gas da loro prodotto a una stazione di rifornimento, notificano all’organo d’esecuzione per la statistica globale dell’energia, di cui all’allegato 2 numero 03.03 dell’ordinanza del 30 aprile 2025[^7-1] sulla statistica federale, la potenza del combustibile e la potenza nominale elettrica e termica installata, tenendo conto di eventuali ampliamenti.[^7-2]
 
 <sup>2</sup>
 
@@ -163,7 +163,8 @@ I produttori di biogas che dispongono di un contatore di calore notificano annua
 
 <sup>3</sup> Se i vettori energetici utilizzati per la produzione del combustibile o carburante sono vettori energetici primari o fossili, i produttori notificano all’organo d’esecuzione le quantità di vettori energetici impiegati per la produzione.
 
-[^7-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 3 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Sezione 4: Trasferimento di garanzie di origine estere per gas rinnovabili e di altri certificati esteri per gas rinnovabili
 

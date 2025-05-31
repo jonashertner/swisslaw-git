@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 20 novembre 2024 sur la garantie d’origine pour 
 short: OGOC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: fr
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/fr"
 
 (OGOC)
 
-du 20 novembre 2024 (État le 1<sup>er</sup> mai 2025)
+du 20 novembre 2024 (État le 1<sup>er</sup> juin 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -152,7 +152,7 @@ Le producteur de combustibles ou de carburants, ou un tiers qu’il a mandaté, 
 
 **Obligation d’annonce pour la statistique globale de l’énergie**
 
-<sup>1</sup> Le producteur qui n’injecte pas intégralement sa production de biogaz dans le réseau gazier ou qui ne la vend pas intégralement à une station-service annonce à l’organe d’exécution, pour la statistique globale de l’énergie visée à l’annexe, ch. 167, de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^7-1], la puissance du combustible et la puissance électrique et thermique nominale installée, en tenant compte, le cas échéant, des agrandissements effectués.
+<sup>1</sup> Le producteur qui n’injecte pas intégralement sa production de biogaz dans le réseau gazier ou qui ne la vend pas intégralement à une station-service annonce à l’organe d’exécution, pour la statistique globale de l’énergie visée à l’annexe 2, ch. 03.03, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^7-1], la puissance du combustible et la puissance électrique et thermique nominale installée, en tenant compte, le cas échéant, des agrandissements effectués.[^7-2]
 
 <sup>2</sup>
 
@@ -163,7 +163,8 @@ Le producteur de biogaz qui dispose d’un compteur d’énergie thermique annon
 
 <sup>3</sup> Si des agents énergétiques primaires ou fossiles sont utilisés pour produire le combustible ou le carburant, le producteur en annonce les quantités à l’organe d’exécution.
 
-[^7-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Section 4 Transfert de garanties d’origine étrangères pour du gaz renouvelable et d’autres certificats étrangers pour du gaz renouvelable
 

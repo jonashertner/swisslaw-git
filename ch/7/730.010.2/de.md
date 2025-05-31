@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. November 2024 über den Herkunftsnachweis fü
 short: VHBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: de
-version: 2025-05-01
+version: 2025-06-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250501/de"
 
 (VHBT)
 
-vom 20. November 2024 (Stand am 1. Mai 2025)
+vom 20. November 2024 (Stand am 1. Juni 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -153,7 +153,7 @@ Produzenten von Brenn- oder Treibstoffen oder von ihnen beauftragte Dritte müss
 
 **Meldepflicht für die Gesamtenergiestatistik**
 
-<sup>1</sup> Produzenten, die das von ihnen produzierte Biogas nicht vollumfänglich ins Gasnetz einspeisen oder nicht vollumfänglich an einer Tankstelle verkaufen, müssen der Vollzugsstelle für die Gesamtenergiestatistik nach Anhang Ziffer 167 der Statistikerhebungserhebungsverordnung vom 30. Juni 1993[^7-1] die Brennstoffleistung sowie die installierte elektrische und thermische Nennleistung unter Berücksichtigung allfälliger Erweiterungen melden.
+<sup>1</sup> Produzenten, die das von ihnen produzierte Biogas nicht vollumfänglich ins Gasnetz einspeisen oder nicht vollumfänglich an einer Tankstelle verkaufen, müssen der Vollzugsstelle für die Gesamtenergiestatistik nach Anhang 2 Ziffer 03.03 der Bundesstatistikverordnung vom 30. April 2025[^7-1] die Brennstoffleistung sowie die installierte elektrische und thermische Nennleistung unter Berücksichtigung allfälliger Erweiterungen melden.[^7-2]
 
 <sup>2</sup>
 
@@ -164,7 +164,8 @@ Produzenten von Biogas, die über einen Wärmezähler verfügen, müssen der Vol
 
 <sup>3</sup> Handelt es sich bei den Energieträgern, die zur Produktion des Brenn- oder Treibstoffs eingesetzt wurden, um Primärenergieträger oder fossile Energieträger, so müssen die Produzenten der Vollzugsstelle die Mengen der zur Produktion eingesetzten Energieträger melden.
 
-[^7-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^7-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^7-2]: Fassung gemäss Ziff. I der V des UVEK vom 3. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## 4. Abschnitt: Übertragung ausländischer Herkunftsnachweise für erneuerbare Gase und anderer ausländischer Zertifikate für erneuerbare Gase
 
