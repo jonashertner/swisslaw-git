@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordinanza del 22 marzo 2019 concernente il sistema d'informazione Ordipro (Ordinanza Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: it
-version: 2023-09-01
+version: 2025-06-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/it"
 
 (Ordinanza Ordipro)
 
-del 22 marzo 2019 (Stato 1° settembre 2023)
+del 22 marzo 2019 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Il Protocollo DFAE e la Missione di Ginevra sono responsabili di Ordipro.
 <sup>4</sup> I numeri AVS registrati in Ordipro sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^5-1] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero AVS alle persone che ne sono prive.[^5-2]
 
 [^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^5-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^5-2]: Nuovo testo giusta l’all. cifra II n. 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 6
 
@@ -131,7 +131,7 @@ Gli enti seguenti possono trattare i dati di cui nell’allegato per gli scopi i
 
 [^7-1]: Correzione del 24 apr. 2019 ([RU 2019 1251](https://fedlex.data.admin.ch/eli/oc/2019/239)).
 [^7-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-3]: Nuova espr. giusta l’all. n. II 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
+[^7-3]: Nuova espr. giusta l’all. cifra II n. 10 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 8
 
@@ -141,7 +141,7 @@ Gli enti seguenti possono trattare i dati di cui nell’allegato per gli scopi i
 
 I dati di cui nell’allegato sono trasmessi automaticamente e in forma cifrata ai seguenti enti:
 
-- a. all’Ufficio federale di statistica: ai sensi dell’ordinanza del 30 giugno 1993[^8-1] sulle rilevazioni statistiche e dell’ordinanza del 21 novembre 2007[^8-2] sull’armonizzazione dei registri;
+- a.[^8-1] all’Ufficio federale di statistica: ai sensi dell’ordinanza del 30 aprile[^8-2] sulla statistica federale e dell’ordinanza del 21 novembre 2007[^8-3] sull’armonizzazione dei registri;
 - b. all’UCC: per la verifica e l’assegnazione del numero AVS;
 - c. a fedpol: per la consultazione online di cui all’articolo 6 lettera a;
 - d. alla SEM: per la consultazione online di cui all’articolo 6 lettere b e c;
@@ -149,15 +149,16 @@ I dati di cui nell’allegato sono trasmessi automaticamente e in forma cifrata 
 - f. a coloro che forniscono prestazioni esenti da rimborso, imposta sul valore aggiunto e tasse doganali: per controllare i diritti alle prestazioni;
 - g. alle rappresentanze e alle organizzazioni internazionali specifiche di cui all’articolo 5 capoverso 2: per la conferma dei dati da loro registrati e trasmessi sulle persone da esse annunciate;
 - h. agli enti responsabili della tenuta dei registri degli abitanti: per controllare le mutazioni nel registro degli abitanti;
-- i. all’organo di riscossione di cui all’articolo 69*d* della legge federale del 24 marzo 2006[^8-3] sulla radiotelevisione: per la riscossione del canone radiotelevisivo;
+- i. all’organo di riscossione di cui all’articolo 69*d* della legge federale del 24 marzo 2006[^8-4] sulla radiotelevisione: per la riscossione del canone radiotelevisivo;
 - j. al Centro d’accoglienza – Ginevra internazionale (CAGI): per l’adempimento dei suoi compiti, in particolare per aiutare le persone interessate con le pratiche di ingresso e l’integrazione in Svizzera;
 - k. all’amministrazione delle contribuzioni del Cantone di Ginevra: per verificare l’obbligo fiscale dei titolari di una carta di legittimazione che non beneficiano di esenzioni fiscali.
 
 <sup>2</sup> Il Protocollo DFAE e la Missione di Ginevra possono comunicare ad altre autorità dati registrati in Ordipro se queste ultime ne hanno bisogno per l’adempimento dei propri compiti e dispongono delle adeguate basi giuridiche.
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^8-1]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
 #### Art. 9
 
@@ -217,7 +218,7 @@ Il Protocollo DFAE e la Missione di Ginevra emanano un regolamento per il tratta
 
 <sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
 
-[^15-1]: Nuovo testo giusta l’all. 2 n. II 30 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-1]: Nuovo testo giusta l’all. 2 cifra II n. 30 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -227,7 +228,7 @@ Il Protocollo DFAE e la Missione di Ginevra emanano un regolamento per il tratta
 
 L’ordinanza Ordipro del 7 giugno 2004[^16-1] è abrogata.
 
-[^16-1]: [[RU 2004 2951](https://fedlex.data.admin.ch/eli/oc/2004/363), [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 6 [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 11, [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)n. III]
+[^16-1]: [[RU 2004 2951](https://fedlex.data.admin.ch/eli/oc/2004/363), [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 6 [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 11, [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)cifra III]
 
 #### Art. 17
 

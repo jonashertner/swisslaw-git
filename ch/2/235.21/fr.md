@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordonnance du 22 mars 2019 sur le système d'information Ordipro (Ordonnance Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: fr
-version: 2023-09-01
+version: 2025-06-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/fr"
 
 (Ordonnance Ordipro)
 
-du 22 mars 2019 (État le 1<sup>er</sup> septembre 2023)
+du 22 mars 2019 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -139,7 +139,7 @@ Les services énumérés ci-après peuvent traiter les données mentionnées en 
 
 Les données mentionnées dans l’annexe sont transmises automatiquement et sous forme chiffrée aux services énumérés ci-après:
 
-- a. l’Office fédéral de la statistique: dans le cadre de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^8-1] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^8-2];
+- a.[^8-1] l’Office fédéral de la statistique: dans le cadre de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^8-2] et de l’ordonnance du 21 novembre 2007 sur l’harmonisation de registres[^8-3];
 - b. la CdC: pour vérifier et attribuer le numéro AVS;
 - c. fedpol: pour effectuer des consultations en ligne conformément à l’art. 6, let. a;
 - d. le SEM: pour effectuer des consultations en ligne conformément à l’art. 6, let. b et c;
@@ -147,15 +147,16 @@ Les données mentionnées dans l’annexe sont transmises automatiquement et sou
 - f. les personnes fournissant des prestations qui ne sont soumises ni à rémunération, ni à la TVA, ni aux droits de douane: pour vérifier leurs droits à exonération;
 - g. les organisations internationales et les représentations visées à l’art. 5, al. 2: pour confirmer les données qu’elles ont saisies et communiquées au sujet des personnes qu’elles ont annoncées;
 - h. les services chargés de tenir les registres des habitants: pour contrôler les mutations effectuées dans les registres des habitants;
-- i. l’organe de perception mentionné à l’art. 69*d* de la loi fédérale du 24 mars 2006 sur la radio et la télévision[^8-3]: pour percevoir la redevance de radio-télévision;
+- i. l’organe de perception mentionné à l’art. 69*d* de la loi fédérale du 24 mars 2006 sur la radio et la télévision[^8-4]: pour percevoir la redevance de radio-télévision;
 - j. le Centre d’accueil – Genève Internationale (CAGI): pour remplir ses tâches, en particulier pour soutenir les personnes concernées lors de leur arrivée et de leur intégration en Suisse;
 - k. l’Administration fiscale du canton de Genève: pour vérifier l’assujettissement à l’impôt de titulaires d’une carte de légitimation qui ne bénéficient pas de l’exonération fiscale.
 
 <sup>2</sup> Le Protocole du DFAE et la Mission de Genève peuvent communiquer les données saisies dans Ordipro à d’autres autorités pour autant que ces dernières en aient besoin pour accomplir leurs tâches et qu’elles disposent de la base légale nécessaire.
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^8-1]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
 #### Art. 9
 

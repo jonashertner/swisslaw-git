@@ -3,11 +3,11 @@ sr: "235.21"
 title: Verordnung vom 22. März 2019 über das Informationssystem Ordipro (Ordipro-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: de
-version: 2023-09-01
+version: 2025-06-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/de"
 
 (Ordipro-Verordnung)
 
-vom 22. März 2019 (Stand am 1. September 2023)
+vom 22. März 2019 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -140,7 +140,7 @@ Die folgenden Stellen können die Daten nach dem Anhang zur Erfüllung der nachs
 
 Den folgenden Stellen werden die Daten nach dem Anhang automatisch und verschlüsselt übermittelt:
 
-- a. dem Bundesamt für Statistik: im Rahmen der Statistikerhebungsverordnung vom 30. Juni 1993[^8-1] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-2];
+- a.[^8-1] dem Bundesamt für Statistik: im Rahmen der Bundesstatistikverordnung vom 30. April 2025[^8-2] und der Registerharmonisierungsverordnung vom 21. November 2007[^8-3];
 - b. der ZAS: zur Verifizierung und Zuweisung der AHV-Nummer;
 - c. dem fedpol: für die Online-Abfrage nach Artikel 6 Buchstabe a;
 - d. dem SEM: für die Online-Abfrage nach Artikel 6 Buchstaben b und c;
@@ -148,15 +148,16 @@ Den folgenden Stellen werden die Daten nach dem Anhang automatisch und verschlü
 - f. den Erbringern von vergütungsfreien, mehrwertsteuerfreien und zollfreien Leistungen: zur Überprüfung der Bezugsberechtigungen;
 - g. den ausgewählten internationalen Organisationen und Vertretungen nach Artikel 5 Absatz 2: zur Bestätigung der von ihnen erfassten und übermittelten Daten über die von ihnen gemeldeten Personen;
 - h. den für die Führung der Einwohnerregister zuständigen Stellen: zur Kontrolle der Mutationen im Einwohnerregister;
-- i. der Erhebungsstelle nach Artikel 69*d* des Bundesgesetzes vom 24. März 2006[^8-3] über Radio und Fernsehen: zur Erhebung der Abgabe für Radio und Fernsehen;
+- i. der Erhebungsstelle nach Artikel 69*d* des Bundesgesetzes vom 24. März 2006[^8-4] über Radio und Fernsehen: zur Erhebung der Abgabe für Radio und Fernsehen;
 - j. dem Centre d’Accueil – Genève Internationale (CAGI): zur Erfüllung seiner Aufgaben, insbesondere zur Unterstützung der Betroffenen bei der Ankunft und Integration in der Schweiz;
 - k. der Steuerverwaltung des Kantons Genf: zur Prüfung der Steuerpflicht von Inhaberinnen und Inhabern einer Legitimationskarte, die keine Steuerfreiheit geniessen.
 
 <sup>2</sup> Das Protokoll EDA und die Mission Genf können im Ordipro erfasste Daten anderen Behörden bekanntgeben, sofern diese die Daten zur Erfüllung ihrer Aufgaben benötigen und sie über die nötige rechtliche Grundlage verfügen.
 
-[^8-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
-[^8-3]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^8-1]: Fassung gemäss Anhang 3 Ziff. 3 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^8-3]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-4]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
 
 #### Art. 9
 
