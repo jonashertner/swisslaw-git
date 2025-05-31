@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Zollabkommen vom 14. November 1975 über den internationalen Warentransport mit Carnets TIR (TIR-Abkommen) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: de
-version: 2024-10-18
+version: 2025-06-01
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20241018-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20250601-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1978** 1281; BBl **1977** I 1397
 
 Abgeschlossen in Genf am 14. November 1975 Von der Bundesversammlung genehmigt am 27. September 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Februar 1978 In Kraft getreten für die Schweiz am 3. August 1978
 
-(Stand am 18. Oktober 2024)
+(Stand am 1. Juni 2025)
 
 [^t-1]: [AS 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -233,7 +233,7 @@ Die Abschnitte a) und b) dieses Kapitels gelten nur dann, wenn jedes Strassenfah
 
 <sup>2.</sup> Bei Behältern, die zum Warentransport unter Zollverschluss zugelassen worden sind in Übereinstimmung mit dem Zollabkommen über Behälter 1956, den im Zusammenhang damit im Rahmen der Vereinten Nationen getroffenen Übereinkünften, dem Zollabkommen über Behälter von 1972[^13-1] oder den gegebenenfalls dieses Abkommen ersetzenden oder ändernden internationalen Vertragswerken, ist davon auszugehen, dass sie den Vorschriften des Absatzes 1 entsprechen; sie sind ohne erneute Zulassung für den Transport im TIR-Verfahren anzuerkennen.
 
-[^13-1]: [SR 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
+[^13-1]: [SR 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
 
 #### Art. 14
 
@@ -536,7 +536,7 @@ Beträgt die Zahl der Staaten, die Vertragsparteien sind, nach Inkrafttreten die
 
 <sup>2.</sup> Die nach den Bedingungen des TIR-Abkommens von 1959 für Strassenfahrzeuge und Behälter ausgestellten Zulassungsbescheinigungen Verschlussanerkenntnisse) werden von den Vertragsparteien dieses Abkommens für den Warentransport unter Zollverschluss innerhalb ihrer Gültigkeitsdauer oder unter Vorbehalt der Erneuerung anerkannt, sofern die Fahrzeuge und Behälter nach wie vor den Bedingungen entsprechen, unter denen sie ursprünglich zugelassen worden sind.
 
-[^56-1]: [SR 0.631.252.511](https://fedlex.data.admin.ch/eli/cc/1960/1101_1151_1147)
+[^56-1]: [SR 0.631.252.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2061)
 
 #### Art. 57
 
@@ -829,43 +829,43 @@ Schiebeplanen, Boden, Türen und andere Bestandteile des Laderaums müssen den E
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image1.png)
 
 *Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image2.png)
 
 *Zeichnung 2a*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image3.png)
 
-*Zeichnung* 3
+*Zeichnung 3*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image4.png)
 
-*Zeichnung* 4
+*Zeichnung* *4*
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image5.png)
 
-*Zeichnung* 5
+*Zeichnung* *5*
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image6.png)
 
-*Zeichnung* 6
+*Zeichnung* *6*
 
 Beispiel eines Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image7.png)
 
 Beschreibung
 
@@ -875,7 +875,7 @@ Dieses Schutzdeckenverschlusssystem kann zugelassen werden unter der Voraussetzu
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image8.png)
 
 Beschreibung
 
@@ -885,7 +885,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image9.png)
 
 Beschreibung
 
@@ -895,19 +895,19 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Fahrzeugs mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image12.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image15.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Buchstaben a) bis c) entsprechen:
 
@@ -917,9 +917,11 @@ Das Schiebeplanendach muss den Erfordernissen der nachstehenden Buchstaben a) bi
 
 - \*) Die von innen sichtbaren Nähfäden müssen sich farblich von den von aussen sichtbaren Nähfäden und von der Schutzdecke unterscheiden.
 
-Anlage 3
+Anlage 3[^t-4]
 
 ## Verfahren für die Zulassung der Strassenfahrzeuge, die den technischen Bedingungen der Anlage 2 entsprechen
+
+[^t-4]: Bereinigt gemäss Änd. vom 10. Okt. 2024, für die Schweiz in Kraft getreten am 1. Juni 2025 ([AS 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
 
 Allgemeines
 
@@ -932,7 +934,7 @@ Allgemeines
 
 \3. Die Zulassungsbescheinigung (Verschlussanerkenntnis) ist im Strassenfahrzeug mitzuführen.
 
-\4. Die Strassenfahrzeuge sind alle zwei Jahre den zuständigen Behörden des Landes, in dem das Fahrzeug zum Verkehr zugelassen ist, oder bei nicht zulassungspflichtigen Fahrzeugen – des Landes, in dem der Eigentümer oder der Benutzer seinen Sitz hat, zur Überprüfung und etwaigen Erneuerung der Zulassung vorzuführen.
+\4. Die Strassenfahrzeuge sind alle drei Jahre den zuständigen Behörden des Landes, in dem das Fahrzeug zum Verkehr zugelassen ist, oder bei nicht zulassungspflichtigen Fahrzeugen – des Landes, in dem der Eigentümer oder der Benutzer seinen Sitz hat, zur Überprüfung und etwaigen Erneuerung der Zulassung vorzuführen.
 
 \5. Entspricht ein Strassenfahrzeug nicht mehr den für seine Zulassung vorgeschriebenen technischen Bedingungen, so muss es, bevor es erneut zum Warentransport mit Carnets TIR verwendet werden kann, wieder in den Zustand versetzt werden, der für seine Zulassung massgebend war, damit es den technischen Bedingungen wieder entspricht.
 
@@ -952,7 +954,7 @@ Verfahren für die Zulassung nach dem Konstruktionstyp (Serienherstellung)
 
 \11. Dem Antrag sind Zeichnungen und eine detaillierte Konstruktionsbeschreibung des zuzulassenden Strassenfahrzeugtyps beizufügen.
 
-\12. Der Hersteller muss sich schriftlich verpflichten,
+\12. Der Hersteller muss sich schriftlich verpflichten:
 
 - a) der zuständigen Behörde die Strassenfahrzeuge des betreffenden Typs, die sie prüfen möchte, vorzuführen;
 - b) der zuständigen Behörde während der Herstellung der Serie des betreffenden Typs jederzeit die Prüfung weiterer Einheiten zu gestatten;
@@ -968,7 +970,7 @@ Verfahren für die Zulassung nach dem Konstruktionstyp (Serienherstellung)
 
 \16. Die zuständige Behörde trifft die erforderlichen Massnahmen, damit für jedes hergestellte Fahrzeug der zugelassenen Bauart eine von ihr ordnungsgemäss bestätigte Zulassungsbescheinigung (Verschlussanerkenntnis) ausgegeben wird.
 
-\17. Der Inhaber der Zulassungsbescheinigung (Verschlussanerkenntnis) muss, ehe das Fahrzeug für den Warentransport mit Carnets TIR benutzt wird, die Zulassungsbescheinigung (Verschlussanerkenntnis) erforderlichenfalls ergänzen
+\17. Der Inhaber der Zulassungsbescheinigung (Verschlussanerkenntnis) muss, ehe das Fahrzeug für den Warentransport mit Carnets TIR benutzt wird, die Zulassungsbescheinigung (Verschlussanerkenntnis) erforderlichenfalls ergänzen:
 
 - – durch Angabe des amtlichen Kennzeichens des Fahrzeugs (Nr. 1) oder
 - – bei nicht zulassungspflichtigen Fahrzeugen durch Angabe seines Namens und seiner Geschäftsadresse (Nr. 8).
@@ -985,13 +987,14 @@ Verfahren für das Anbringen von Anmerkungen auf der Zulassungsbescheinigung (Ve
 
 \22. Sind die Zollbehörden der Ansicht, dass ein Fahrzeug Mängel geringer Bedeutung aufweist, die kein Schmuggelrisiko mit sich bringen, so kann die Weiterverwendung des Fahrzeugs für den Warentransport mit Carnets TIR gestattet werden. Der Inhaber der Zulassungsbescheinigung (Verschlussanerkenntnis) wird von dem Mangel unterrichtet und muss sein Fahrzeug innerhalb einer angemessenen Frist instand setzen lassen.
 
-Anlage 4
+Anlage 4[^t-5]
 
 ## Muster der Zulassungsbescheinigung (Verschlussanerkenntnis) für Strassenfahrzeuge
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: In der SR nicht veröffentlicht (siehe [AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)). Das Muster kann bezogen werden bei der Oberzolldirektion, Sektion Zollbefreiung und Transite, 3003 Bern.
+[^t-5]: Fassung gemäss der am 1. Aug. 1995 in Kraft getretenen Änd. ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)). Bereinigt gemäss Änd. vom 10. Okt. 2024, für die Schweiz in Kraft getreten am 1. Juni 2025 ([AS 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
+[^annex4-lvlu1-1]: Der Inhalt dieser Anlage wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann bezogen werden beim Bundesamt für Zoll und Grenzsicherheit BAZG, Freihandels- und Zollabkommen, 3003 Bern.
 
 Anlage 5
 
@@ -1001,11 +1004,11 @@ Anlage 5
 
 \2. Die Buchstaben TIR in grosser lateinischer Druckschrift müssen 200 mm hoch und ihre Striche mindestens 20 mm breit sein. Sie müssen weiss auf blauem Grund sein.
 
-Anlage 6[^t-4]
+Anlage 6[^t-6]
 
 ## Erläuterungen
 
-[^t-4]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 15. Okt. 2020 ([AS 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), der Änd. vom 15. Okt. 2020 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)) und der Änd. vom 11. Febr. 2021, in Kraft getreten für die Schweiz am 25. Juni 2022 ([AS 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^t-6]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 15. Okt. 2020 ([AS 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), der Änd. vom 15. Okt. 2020 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)), der Änd. vom 11. Febr. 2021 ([AS 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)) und der Änd. vom 10. Okt. 2024, für die Schweiz in Kraft getreten am 1. Juni 2025 ([AS 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
 
 ### Einleitung
 
@@ -1048,7 +1051,7 @@ Dieser Artikel schliesst nicht das Recht aus, die Waren stichprobenweise zu kont
 
 0.6.2 Nach diesem Absatz können die Zollbehörden einer Vertragspartei mehrere Verbände ermächtigen, wobei jeder Verband für die Verbindlichkeiten aus durchgeführten Transporten mit Carnets haftet, die er ausgegeben hat oder die die mit ihm in Verbindung stehenden Verbände ausgegeben haben.
 
-0.6.2<sup>bis-1</sup> Die Beziehungen zwischen einer internationalen Organisation und ihren Mitgliedsverbänden sind in schriftlichen Vereinbarungen über die Funktionsweise des internationalen Bürgschaftssystems festzulegen.
+0.6.2<sup>bis-1</sup> Die Beziehungen zwischen einer internationalen Organisation und ihren Mitgliedsverbänden sind in schriftlichen Vereinbarungen über die Funktionsweise des internationalen Bürgschaftssystems festzulegen. Die Vereinbarungen können ausser im Falle eines früheren Widerrufs einer der in Artikel 6 Absätze 1 und 2<sup>bis</sup> genannten Zulassungen von jeder Vertragspartei mit einer Frist von mindestens sechs (6) Monaten gekündigt werden.
 
 0.6.2<sup>bis-2</sup> Die Zulassung nach Artikel 6 Absatz 2<sup>bis</sup> wird in einer schriftlichen Vereinbarung zwischen der Wirtschaftskommission für Europa und der internationalen Organisation festgehalten. In der Vereinbarung wird festgelegt, dass die internationale Organisation die einschlägigen Bestimmungen des Übereinkommens erfüllt, die Zuständigkeiten der Vertragsparteien des Abkommens erfüllt, die Zuständigkeiten der Vertragsparteien des Abkommens achtet und die Beschlüsse des Verwaltungsausschusses und die Ersuchen der TIR-Kontrollkommission befolgt. Mit der Unterzeichnung der Vereinbarung bestätigt die internationale Organisation, dass sie die mit der Zulassung verbundenen Verantwortlichkeiten annimmt. Die Vereinbarung gilt auch für die in Anlage 8 Artikel 10 Buchstabe b) genannten Verantwortlichkeiten der internationalen Organisation, sofern die zentrale Durchführung des Drucks der Carnets TIR und ihrer Verteilung von der genannten internationalen Organisation wahrgenommen wird. Die Vereinbarung wird vom Verwaltungsausschuss verabschiedet.
 
@@ -1319,6 +1322,10 @@ Um nach zufrieden stellender Instandsetzung des Fahrzeugs einen Vermerk über fe
 
 8.10 b Die in der Erläuterung zu Artikel 6 Absatz 2<sup>bis</sup> genannte Vereinbarung gilt auch für die unter Buchstabe b) genannten Verantwortlichkeiten der internationalen Organisation, sofern die zentrale Durchführung des Drucks der Carnets TIR und ihrer Verteilung von der genannten internationalen Organisation wahrgenommen werden.
 
+8.10 e Im Falle von Streitigkeiten zwischen der internationalen Organisation, einem nationalen Verband, einer oder mehreren Zollverwaltungen oder zuständigen Behörden der betreffenden Vertragsparteien, die sich auf das Funktionieren der Bürgschaftskette auswirken und zur Beendigung einer der Vereinbarungen zwischen den betreffenden Vertragsparteien führen könnten, unterrichten diese einander unverzüglich. Die Vertragsparteien leiten Verhandlungen zur Beilegung der Streitigkeiten ein, um für eine ununterbrochene Bürgschaftskette im betreffenden Zollgebiet zu sorgen.
+
+Jede Vertragspartei kann die TIR-Kontrollkommission jederzeit offiziell mit den Streitigkeiten befassen und sie um Hilfe bei deren Beilegung ersuchen.
+
 8.13.1.1 Finanzielle Regelungen
 
 Nach einem Anfangszeitraum von zwei Jahren streben die Vertragsparteien des Abkommens die Finanzierung der TIR-Kontrollkommission und des TIR-Sekretariats durch den ordentlichen Haushalt der Vereinten Nationen an. Dies schliesst eine Verlängerung der anfänglichen Finanzierungsregelung nicht aus, falls eine Finanzierung durch die Vereinten Nationen oder aus anderen Quellen nicht zur Verfügung steht.
@@ -1347,7 +1354,7 @@ Zeichnung 1
 
 Scharniere und Zollverschlusssysteme für Türen von Fahrzeugen mit wärmeisolierten Laderäumen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image16.png)
 
 Zeichnung 1a
 
@@ -1355,19 +1362,19 @@ Beispiel für ein Scharnier, bei dem es nicht erforderlich ist, den Scharnierbol
 
 Das abgebildete Scharnier entspricht der Vorschrift der Nr. 2.2.1 b) Buchstabe b zweiter Satz. Auf eine Sicherung des Scharnierbolzens kann verzichtet werden, weil Scharnierblatt und Scharnierbock so konstruiert sind, dass das Scharnierblatt mit seinem Hinterschnitt hinter die Backen des Scharnierbockes greift. Der Hinterschnitt verhindert, dass die zollamtlich verschlossene Tür auch bei Entfernung des ungesicherten Scharnierbolzens an der Anschlagvorrichtung geöffnet werden kann, ohne sichtbare Spuren zu hinterlassen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image17.png)
 
 Zeichnung 2
 
 Fahrzeuge mit Schutzdecken und Gleitringen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image18.png)
 
 Zeichnung 2a
 
 Beispiel eines drehbaren Befestigungsringes (Modell «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image19.png)
 
 Zeichnung 3
 
@@ -1375,7 +1382,7 @@ Beispiel einer Vorrichtung zur Befestigung von Schutzdecken
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 11 Buchstabe a letzter Satz. Sie entspricht auch den Vorschriften der Anlage 2 Artikel 3 Absatz 6.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image20.png)
 
 Zeichnung 4
 
@@ -1383,19 +1390,19 @@ Vorrichtung zur Befestigung einer Schutzdecke
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 6 Buchstabe a.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image21.png)
 
 Zeichnung 5
 
 Befestigungsvorrichtung, die von der Innenseite der isolierten Tür angebracht wird
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image22.png)
 
-Anlage 7[^t-5]
+Anlage 7[^t-7]
 
 ## Anlage über die Zulassung von Behältern
 
-[^t-5]: Bereinigt gemäss der Änd. genehmigt vom BR am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 1. Juli 1992 ([AS 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 2. Mai 2001 ([AS 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) und der Änd. genehmigt vom EFD am 1. Nov. 2016, in Kraft getreten für die Schweiz am 1. Jan. 2017 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
+[^t-7]: Bereinigt gemäss der Änd. genehmigt vom BR am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 1. Juli 1992 ([AS 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 2. Mai 2001 ([AS 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) und der Änd. genehmigt vom EFD am 1. Nov. 2016, in Kraft getreten für die Schweiz am 1. Jan. 2017 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
 
 ### Teil I Vorschriften über die technischen Bedingungen für Behälter, die zum internationalen Transport unter Zollverschluss zugelassen werden können.
 
@@ -1529,13 +1536,13 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengenäht)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image23.png)
 
 *Teil I – Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image24.png)
 
 *Teil I – Zeichnung 3*
 
@@ -1543,31 +1550,31 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengeschweisst)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image25.png)
 
 *Teil I – Zeichnung 4*
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image26.png)
 
 *Teil I – Zeichnung 5*
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image27.png)
 
 *Zeichnung 6*
 
 Beispiel für ein Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image28.png)
 
 *Zeichnung 7*
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image29.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Ziffern a) bis c) entsprechen:
 
@@ -1583,7 +1590,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image30.png)
 
 ### Beschreibung
 
@@ -1593,17 +1600,17 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Behälters mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image32.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image33.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image34.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image35.png)
 
 ### Teil II Verfahren bei der Zulassung von Behältern, die den technischen Bedingungen des Teils I entsprechen
 
@@ -1671,7 +1678,7 @@ Muster I
 
 (englische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image36.png)
 
 Anhang I von Teil II
 
@@ -1681,7 +1688,7 @@ Muster I
 
 (französische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image37.png)
 
 Anhang 2 von Teil II
 
@@ -1775,13 +1782,13 @@ Teil III
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Teils I Artikel 4 Absatz 6 Buchstabe a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/de/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/de/xml/image/image38.png)
 
-Anlage 8[^t-6]
+Anlage 8[^t-8]
 
 ## Zusammensetzung, Aufgaben und Geschäftsordnungen des Verwaltungsausschusses und der TIR-Kontrollkommission
 
-[^t-6]: Bereinigt gemäss der vom BR am 14. März 1994 genehmigten Änd ([AS 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) und der Änd. vom 30. März 2018, in Kraft getreten für die Schweiz am 1. Juli 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-8]: Bereinigt gemäss der vom BR am 14. März 1994 genehmigten Änd ([AS 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) und der Änd. vom 30. März 2018, in Kraft getreten für die Schweiz am 1. Juli 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
 
 ### Zusammensetzung, Aufgaben und Geschäftsordnung des Verwaltungsausschusses
 
@@ -1879,11 +1886,11 @@ Der TIR-Sekretär muss Mitglied des Sekretariats der Wirtschaftskommission der V
 
 <sup>(2)</sup> Das Verfahren für die Finanzierung der Tätigkeit der TIR-Kontrollkommission und des TIR-Sekretariats ist vom Verwaltungsausschuss zu genehmigen.
 
-Anlage 9[^t-7]
+Anlage 9[^t-9]
 
 ## Zulassung zum TIR-Verfahren
 
-[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
+[^t-9]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Teil I Ermächtigung der Verbände zur Ausgabe von Carnets TIR und zur Übernahme der Bürgschaft
 
@@ -1991,11 +1998,11 @@ Anlage 9[^t-7]
 
 (6) Die einer internationalen Organisation nach Massgabe der vorstehenden Bestimmungen erteilte Zulassung lässt die Verantwortlichkeiten und Verpflichtungen dieser Organisation nach dem Übereinkommen unberührt.
 
-Anlage 10[^t-8]
+Anlage 10[^t-10]
 
 ## Auskünfte der Vertragsparteien an zugelassene Verbände (nach Art. 42*b*) und internationale Organisationen (nach Art. 6 Abs. 2<sup>bis</sup>)
 
-[^t-8]: Eingefügt durch die vom BR am 3. Mai 2006 genehmigte Änd., in Kraft für die Schweiz am 12. Aug. 2006 ([AS 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
+[^t-10]: Eingefügt durch die vom BR am 3. Mai 2006 genehmigte Änd., in Kraft für die Schweiz am 12. Aug. 2006 ([AS 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 
 Aufgrund des Artikels 6 Absatz 1 und der Anlage 9 Teil I Absatz 1 Buchstabe f Ziffer iii müssen sich zugelassene Verbände verpflichten, laufend zu überprüfen, ob die zum TIR-Verfahren zugelassenen Personen die Mindestvoraussetzungen und ‑erfordernisse nach Anlage 9 Teil II erfüllen.
 
@@ -2025,11 +2032,11 @@ Im Rahmen ihrer Verantwortlichkeiten als nach Artikel 6 Absatz 2<sup>bis</sup> z
 - 3) Die Zollbehörden und die nationalen bürgenden Verbände schließen über den oben beschriebenen Datenaustausch eine Vereinbarung im Einklang mit ihrem innerstaatlichen Recht.
 - 4) Eine internationale Organisation gewährt den Zollbehörden Zugang zur Datenbank der erledigten Carnets TIR und zur Datenbank der für ungültig erklärten Carnets TIR.
 
-Anlage 11[^t-9]
+Anlage 11[^t-11]
 
 ## eTIR-Verfahren
 
-[^t-9]: Eingefügt durch Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). Gemäß Artikel 60*a* Absatz 1 des TIR-Abkommens erklärt die Schweiz, dass sie die Anlage 11 zur Zeit nicht akzeptiert.
+[^t-11]: Eingefügt durch Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). Gemäß Artikel 60*a* Absatz 1 des TIR-Abkommens erklärt die Schweiz, dass sie die Anlage 11 zur Zeit nicht akzeptiert.
 
 ### Teil I
 
@@ -2202,7 +2209,7 @@ Antwort der Bestimmungszollstelle
 <tr><td colspan="8">\* Bitte beachten: Es handelt sich um Angaben zu der Bestimmungszollstelle, bei der der TIR‑Versand beendet wurde.»</td></tr>
 </table>
 
-Geltungsbereich am 18. Oktober 2024[^t-10]
+Geltungsbereich am 18. Oktober 2024[^t-12]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2289,7 +2296,7 @@ Geltungsbereich am 18. Oktober 2024[^t-10]
 <tr><td>Insel Man</td><td>8. Oktober</td><td>1982</td><td>8. April</td><td>1983</td></tr>
 <tr><td>Jersey</td><td>8. Oktober</td><td>1982</td><td>8. April</td><td>1983</td></tr>
 <tr><td>Zypern</td><td>7. August</td><td>1981 B</td><td>7. Februar</td><td>1982</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong und Macao.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong und Macao.</td></tr>
 </table>
 
-[^t-10]: [AS 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); [1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161); [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67); [2023 591](https://fedlex.data.admin.ch/eli/oc/2023/591). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-12]: [AS 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); [1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161); [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67); [2023 591](https://fedlex.data.admin.ch/eli/oc/2023/591). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

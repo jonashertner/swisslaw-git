@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convenzione doganale del 14 novembre 1975 concernente il trasporto internazionale di merci con libretti TIR (Convenzione TIR) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: it
-version: 2024-10-18
+version: 2025-06-01
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20241018-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20250601-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Conchiusa a Ginevra il 14 novembre 1975 Approvata dall’Assemblea federale il 27 settembre 1977[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 febbraio 1978 Entrata in vigore per la Svizzera il 3 agosto 1978
 
-(Stato 18 ottobre 2024)
+(Stato 1° giugno 2025)
 
 [^t-1]: [RU 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -238,7 +238,7 @@ Per usufruire delle disposizioni giusta le sezioni a) e b) del presente Capo, og
 
 <sup>2.</sup> Sono reputati conformi alle disposizioni del paragrafo 1 che precede i contenitori ammessi al trasporto di merci sotto chiusura doganale in applicazione della Convenzione doganale concernente le casse mobili, del 1956, dei successivi accordi stipulati in tale ambito sotto l’egida delle Nazioni Unite, della Convenzione doganale concernente i contenitori, 1972[^13-1], o di qualsiasi altro trattato internazionale che sostituisse o modificasse detta Convenzione; i succitati contenitori devono essere ammessi al trasporto nel regime TIR senza nuova ammissione.
 
-[^13-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
+[^13-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
 
 #### Art. 14
 
@@ -537,7 +537,7 @@ Se, dopo l’entrata in vigore della presente Convenzione, il numero degli Stati
 
 <sup>2.</sup> I certificati di nullaosta rilasciati per i veicoli stradali e i contenitori secondo le condizioni della Convenzione TIR (1959) saranno accettati dalle Parti contraenti alla presente Convenzione, per il trasporto di merci sotto chiusura doganale, nell’ambito del loro periodo di validità o verso riserva di rinnovo, sempreché tali veicoli e contenitori adempiano ancora le condizioni che avevano inizialmente giustificato la loro ammissione.
 
-[^56-1]: [RS 0.631.252.511](https://fedlex.data.admin.ch/eli/cc/1960/1101_1151_1147)
+[^56-1]: [RS 0.631.252.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2061)
 
 #### Art. 57
 
@@ -580,6 +580,14 @@ Se, dopo l’entrata in vigore della presente Convenzione, il numero degli Stati
 Il Comitato di gestione istituisce una Commissione di controllo TIR che fungerà da organo sussidiario e adempirà in suo nome i compiti che le sono trasmessi nell’ambito della Convenzione. La sua composizione, le sue funzioni e il suo regolamento interno sono definiti nell’Allegato 8.
 
 [^58b-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+
+#### Art. 58c
+
+**Organo di attuazione tecnica**[^58c-1]
+
+È istituito un Organo di attuazione tecnica. La sua composizione, le sue funzioni e il suo regolamento interno sono definiti nell’Allegato 11.
+
+[^58c-1]: Introdotto dalla mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 59
 
@@ -816,47 +824,47 @@ Copertoni scorrevoli, pavimenti, porte e altri componenti del compartimento di c
 
 <sup>2.</sup> Un esempio di un possibile sistema di costruzione è mostrato nell’illustrazione n. 10 in appendice al presente regolamento.
 
-Illustrazione n. 1
+*Illustrazione n. 1*
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image2.png)
 
-Illustrazione n. 2a)
+*Illustrazione n. 2a)*
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image3.png)
 
-Illustrazione n. 3
+*Illustrazione n. 3*
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image4.png)
 
-Illustrazione n. 4
+*Illustrazione n. 4*
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image5.png)
 
-Illustrazione n. 5
+*Illustrazione n. 5*
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image6.png)
 
-Illustrazione n. 6
+*Illustrazione n. 6*
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image7.png)
 
 Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c seguenti:
 
@@ -868,21 +876,21 @@ Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c 
 
 Il presente dispositivo di chiusura a catenaccio del copertone può essere autorizzato a condizione che lo stesso sia munito di almeno un anello metallico a ciascuna estremità delle sponde. Le aperture adibite all’introduzione dell’anello sono di forma ovale e di dimensione appena sufficiente per permettere il passaggio dell’anello. La parte visibile dell’anello metallico non supera il doppio del diametro massimo del cavo di chiusura allorquando il dispositivo è chiuso.
 
-Illustrazione n. 7
+*Illustrazione n. 7*
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image8.png)
 
 ### Descrizione
 
 È ammessa la fissazione del copertone ai veicoli sempre che gli anelli siano incastrati nel profilo e la parte esterna non superi la profondità massima del profilo. La larghezza del profilo deve essere il più possibile ridotta.
 
-Illustrazione n. 8
+*Illustrazione n. 8*
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image9.png)
 
 ### Descrizione
 
@@ -892,23 +900,25 @@ Illustrazione n. 9
 
 Esempio della struttura di un veicolo dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image12.png)
 
-Illustrazione n. 10
+*Illustrazione n. 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image15.png)
 
-Allegato 3
+Allegato 3[^t-4]
 
 ## Procedura per l’ammissione dei veicoli stradali che adempiono le condizioni tecniche dell’allegato 2
+
+[^t-4]: Aggiornato dalla mod. del 10 ott. 2024, in vigore per la Svizzera dal 1° giu 2025 ([RU 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
 
 In generale
 
@@ -921,7 +931,7 @@ In generale
 
 \3. Il certificato dovrà trovarsi a bordo del veicolo stradale.
 
-\4. I veicoli stradali saranno presentati, ogni due anni, per la verificazione e, se occorre, per il rinnovo dell’ammissione, alle autorità competenti del Paese d’immatricolazione del veicolo, o, se trattasi di veicoli non immatricolati, del Paese nel quale il proprietario o l’utente è domiciliato.
+\4. I veicoli stradali saranno presentati, ogni tre anni, per la verificazione e, se occorre, per il rinnovo dell’ammissione, alle autorità competenti del Paese d’immatricolazione del veicolo, o, se trattasi di veicoli non immatricolati, del Paese nel quale il proprietario o l’utente è domiciliato.
 
 \5. Se un veicolo stradale non adempie più le condizioni tecniche prescritte per la sua ammissione, prima di riutilizzarlo per il trasporto di merci con libretto TIR dovrà essere rimesso nello stato che aveva giustificato la sua ammissione, affinché adempia nuovamente le condizioni tecniche.
 
@@ -975,13 +985,14 @@ Procedura per l’apposizione di annotazioni nel certificato d’ammissione
 
 \22. Allorché le autorità doganali reputano che un veicolo presenta dei difetti d’importanza secondaria che non implicano un rischio di frode, si potrà permettere l’impiego ulteriore di detto veicolo per il trasporto di merci con libretto TIR. Il titolare del certificato d’ammissione sarà reso attento sui citati difetti e dovrà far riassettare il veicolo entro adeguati termini.
 
-Allegato 4
+Allegato 4[^t-5]
 
 ## Modello del certificato d’ammissione d’un veicolo stradale
 
 [^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: Il modello non è pubblicato nella RS, vedi [RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881). Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
+[^t-5]: Nuovo tsto giusta la mod. in vigore dal 1° ago. 1997 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)). Aggiornato dalla mod. del 10 ott. 2024, in vigore per la Svizzera dal 1° giu 2025 ([RU 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
+[^annex4-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere ottenuto presso l’Ufficio federale della dogana e della sicurezza dei confini UDSC, Accordi di libero scambio e Accordi doganali, 3003 Berna
 
 Allegato 5
 
@@ -991,11 +1002,11 @@ Allegato 5
 
 \2. Le lettere TIR, in caratteri latini maiuscoli, avranno un’altezza di 200 mm e i loro tratti una larghezza di almeno 20 mm. Esse saranno di colore bianco su fondo azzurro.
 
-Allegato 6[^t-4]
+Allegato 6[^t-6]
 
 ## Note esplicative
 
-[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), del 15 ott. 2020 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), del 15 ott. 2020 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)) e dalla mod. dell’11 feb. 2021, in vigore per la Svizzera dal 25 giu. 2022 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^t-6]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), del 15 ott. 2020 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), del 15 ott. 2020 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)), dalla mod. dell’11 feb. 2021 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)) e dalla mod. del 10 ott. 2024, in vigore per la Svizzera dal 1° giu 2025 ([RU 2025 268](https://fedlex.data.admin.ch/eli/oc/2025/268)).
 
 ### Introduzione
 
@@ -1039,7 +1050,7 @@ Tale articolo non esclude il diritto di eseguire dei controlli saltuari delle me
 
 0.6.2 Secondo le disposizioni di tale paragrafo, le autorità doganali di una Parte contraente possono ammettere più associazioni, ciascuna delle quali assume la responsabilità derivante da operazioni effettuate con libretti che essa ha rilasciato o che sono stati rilasciati dalle associazioni con cui essa è in relazione.
 
-0.6.2<sup>bis-1</sup> Le relazioni tra un’organizzazione internazionale e le sue associazioni membro sono definite in accordi scritti che trattano del funzionamento del sistema di garanzia internazionale.
+0.6.2<sup>bis-1</sup> Le relazioni tra un’organizzazione internazionale e le sue associazioni membro sono definite in accordi scritti che trattano del funzionamento del sistema di garanzia internazionale. Tali accordi possono essere disdetti da ciascuna delle parti con un preavviso di almeno sei (6) mesi, salvo in caso di revoca precedente di una delle autorizzazioni di cui all’articolo 6 paragrafi 1 e 2<sup>bis</sup>.
 
 0.6.2<sup>bis-2</sup> L’autorizzazione di cui all’articolo 6.2<sup>bis</sup> deve essere stabilita in un accordo scritto concluso tra la CEE-ONU e l’organizzazione internazionale. Nell’accordo occorre indicare che l’organizzazione internazionale soddisfa le disposizioni pertinenti della Convenzione, rispetta le competenze delle Parti contraenti della Convenzione, ottempera alle decisioni del Comitato di gestione TIR e osserva le domande presentate dalla Commissione di controllo TIR. Con la firma dell’accordo, l’organizzazione internazionale conferma di accettare le responsabilità connesse con l’autorizzazione. L’accordo è parimenti applicabile alle responsabilità dell’organizzazione internazionale menzionate nell’articolo 10 lettera b) dell’Allegato 8, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale summenzionata. L’accordo viene approvato dal Comitato di gestione.
 
@@ -1311,6 +1322,10 @@ Per annullare un’annotazione concernente dei difetti dopo che il veicolo è st
 
 8.10 b) L’accordo menzionato nella nota esplicativa di cui all’articolo 6.2<sup>bis</sup> si applica parimenti alle responsabilità dell’organizzazione internazionale menzionate alla lettera b) del presente articolo, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale.
 
+8.10 e) In caso di controversia che potrebbe incidere sul funzionamento della catena di garanzia tra l’organizzazione internazionale e un’associazione nazionale, l’amministrazione doganale (le amministrazioni doganali) o le autorità competenti della Parte contraente interessata (delle Parti contraenti interessate) e che potrebbe portare alla risoluzione di uno degli accordi tra le parti interessate, queste ultime si informano reciprocamente senza indugio. Le Parti contraenti avviano negoziazioni per regolare le controversie, in modo da assicurare la copertura continua della garanzia nel territorio doganale interessato.
+
+Ciascuna delle Parti contraenti può, in qualsiasi momento, sottoporre formalmente la controversia alla Commissione di controllo TIR e chiedere la sua assistenza per facilitarne la composizione.
+
 8.13.1.1 Disposizioni finanziarie
 
 Al termine di un periodo iniziale di due anni, le Parti contraenti prevedono di finanziare la Commissione di controllo TIR e il Segretariato TIR tramite il bilancio ordinario dell’Organizzazione delle Nazioni Unite. Ciò non esclude una proroga delle disposizioni finanziarie originali qualora venisse meno un finanziamento da parte dell’Organizzazione delle Nazioni Unite o di altre fonti.
@@ -1325,7 +1340,7 @@ L’importo di cui al paragrafo 1 è basato (a) sul bilancio e sul piano dei cos
 
 8.13.2 Dopo consultazione dell’organizzazione internazionale di cui all’articolo 6, le modalità di cui al paragrafo 2 devono essere riprodotte nell’accordo tra la CEE-ONU, che agisce su mandato e a nome delle Parti contraenti, e l’organizzazione internazionale di cui all’articolo 6. L’accordo deve essere approvato dal Comitato di gestione.
 
-### 9 Annesso
+### 9 Annesso 9
 
 9.II.3 Comitato d’autorizzazione
 
@@ -1339,7 +1354,7 @@ Illustrazione n. 1
 
 Esempio di cerniera e di dispositivo di chiusura doganale per le parte di veicoli provvisti di compartimenti di carico calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image16.png)
 
 Illustrazione n. 1a
 
@@ -1347,19 +1362,19 @@ Esempio di una cerniera che non ha bisogno di una protezione particolare del per
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 2.2.1 b). La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti della piastra risalgono fin dietro le estremità del ponticello. Questi becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image17.png)
 
 Illustrazione n. 2
 
 Veicolo provvisti di copertoni ad anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image18.png)
 
 Illustrazione n. 2a
 
 Esempio di anello di fissazione girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image19.png)
 
 Illustrazione n. 3
 
@@ -1367,7 +1382,7 @@ Esempio di dispositivo di fissazione d’un copertone di veicolo
 
 Il dispositivo riprodotto qui appresso corrisponde alle prescrizioni dell’ultimo capoverso del paragrafo 11a) dell’articolo 3 dell’allegato 2. Esso è pure conforme alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image20.png)
 
 Illustrazione n. 4
 
@@ -1375,19 +1390,19 @@ Dispositivo di fissazione d’un copertone
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni della lettera a) del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image21.png)
 
 Illustrazione 5
 
 Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image22.png)
 
-Allegato 7[^t-5]
+Allegato 7[^t-7]
 
 ## Allegato concernente l’ammissione dei contenitori
 
-[^t-5]: Aggiornato dalle mod. approvate dal CF il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), il 1° lug. 1992 ([RU 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 2 mag. 2001 ([RU 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) e dalla mod. approvata dal DFF il 1° nov. 2016, in vigore per la Svizzera dal 1° gen. 2017 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
+[^t-7]: Aggiornato dalle mod. approvate dal CF il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), il 1° lug. 1992 ([RU 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 2 mag. 2001 ([RU 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) e dalla mod. approvata dal DFF il 1° nov. 2016, in vigore per la Svizzera dal 1° gen. 2017 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
 
 ### Parte I Prescrizioni sulle condizioni tecniche applicabili ai contenitori che possono essere ammessi al trasporto internazionale sotto chiusura doganale
 
@@ -1527,13 +1542,13 @@ Parte I – Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image23.png)
 
 Parte I – Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image24.png)
 
 *Nota*: Le cuciture d’angolo effettuate secondo il metodo esposto nell’illustrazione n. 2a dell’allegato 2 alla presente Convenzione sono pure ammesse.
 
@@ -1541,25 +1556,25 @@ Parte I – Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image25.png)
 
 Parte I – Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image26.png)
 
 Parte I – Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image27.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image28.png)
 
 Il tetto scorrevole telonato deve essere conforme ai requisiti di cui alle lettera a)–c) seguenti:
 
@@ -1575,7 +1590,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image29.png)
 
 ### Descrizione
 
@@ -1585,7 +1600,7 @@ Illustrazione n. 8
 
 Copertone con l’apertura per il caricamento e lo scaricamento
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image30.png)
 
 ### Descrizione
 
@@ -1595,17 +1610,17 @@ Illustrazione n. 9
 
 Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image32.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image34.png)
 
 ### Parte II Procedure per l’ammissione dei contenitori che adempiono le condizioni tecniche della parte I
 
@@ -1673,7 +1688,7 @@ Modello n. I
 
 (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image35.png)
 
 Appendice 1 della parte II
 
@@ -1683,7 +1698,7 @@ Modello n. I
 
 (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image36.png)
 
 Appendice 2 della parte II
 
@@ -1773,13 +1788,13 @@ Dispositivo per fissare il copertone attorno ai montanti d’angolo
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni delle lettera a) del paragrafo 6 dell’articolo 4 della Parte I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/it/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20250601/it/xml/image/image37.png)
 
-Allegato 8[^t-6]
+Allegato 8[^t-8]
 
 ## Composizione, funzioni e Regolamento interno del Comitato di gestione e della Commissione di controllo TIRComposizione, funzioni e Regolamento interno del Comitato di gestione
 
-[^t-6]: Aggiornato dalla mod. approvata dal CF il 14 mar. 1994 ([RU 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dalla mod. approvata dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera dal 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-8]: Aggiornato dalla mod. approvata dal CF il 14 mar. 1994 ([RU 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dalla mod. approvata dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera dal 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
 
 #### Art. 1
 
@@ -1875,11 +1890,11 @@ Il Segretario della Convenzione TIR è membro del Segretariato della Commissione
 
 <sup>2.</sup> Le modalità di finanziamento del funzionamento della Commissione di controllo TIR e del Segretariato TIR devono essere approvate dal Comitato di gestione.
 
-Allegato 9[^t-7]
+Allegato 9[^t-9]
 
 ## Accesso al regime TIR
 
-[^t-7]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), dalla mod. del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) e dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
+[^t-9]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), dalla mod. del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) e dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Parte prima Autorizzazione delle associazioni a rilasciare i libretti TIR e ad agire come garanti
 
@@ -1990,11 +2005,11 @@ Allegato 9[^t-7]
 
 (6) L’autorizzazione di un’organizzazione internazionale alle condizioni sopra enunciate non pregiudica le responsabilità e gli obblighi dell’organizzazione previsti dalla Convenzione.
 
-Allegato 10[^t-8]
+Allegato 10[^t-10]
 
 ## Informazioni che le Parti contraenti devono fornire alle associazioni autorizzate (conformemente all’art. 42*b*) e all’organizzazione internazionale autorizzata (conformemente all’art. 6.2<sup>bis</sup>)
 
-[^t-8]: Introdotto dalla mod. approvata dal CF il 3 mag. 2006, in vigore dal 12 ago. 2006 ([RU 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
+[^t-10]: Introdotto dalla mod. approvata dal CF il 3 mag. 2006, in vigore dal 12 ago. 2006 ([RU 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 
 In virtù del paragrafo 1 dell’articolo 6 e del paragrafo 1 lettera f) iii) della prima parte dell’Allegato 9 della presente Convenzione, le associazioni autorizzate devono impegnarsi a verificare sistematicamente che le persone autorizzate ad accedere al regime TIR rispettino le condizioni e le prescrizioni minime convenute nella seconda parte dell’Allegato 9 della Convenzione.
 
@@ -2024,11 +2039,11 @@ In nome delle associazioni membro e al fine di assumersi le proprie responsabili
 - 3) Per tutelare gli scambi dei summenzionati dati, le autorità doganali e le associazioni garanti nazionali concludono un accordo conforme alla loro legislazione nazionale.
 - 4) Un’organizzazione internazionale fornisce alle autorità doganali l’accesso alla banca dati rispettivamente dei libretti TIR terminati nonché di quelli invalidati.
 
-Allegato 11[^t-9]
+Allegato 11[^t-11]
 
 ## Il regime eTIR
 
-[^t-9]: Introdotta dalla mod del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). In conformità all’art. 60*a* para. 1, la Svizzera dichiara di non accettare, per il momento, l’all. 11.
+[^t-11]: Introdotta dalla mod del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). In conformità all’art. 60*a* para. 1, la Svizzera dichiara di non accettare, per il momento, l’all. 11.
 
 ### Parte prima
 
@@ -2199,7 +2214,7 @@ Risposta dell’ufficio doganale di destinazione
 <tr><td colspan="8">\* I dati si riferiscono all’**ufficio doganale di destinazione** nel quale si è conclusa l’operazione TIR.</td></tr>
 </table>
 
-Campo d’applicazione il 18 ottobre 2024[^t-10]
+Campo d’applicazione il 18 ottobre 2024[^t-12]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2287,8 +2302,7 @@ Campo d’applicazione il 18 ottobre 2024[^t-10]
 <tr><td>Unione europea\*\*</td><td>20 dicembre</td><td>1982</td><td>20 giugno</td><td>1983</td></tr>
 <tr><td>Uruguay</td><td>24 dicembre</td><td>1980 A</td><td>24 giugno</td><td>1981</td></tr>
 <tr><td>[tab] Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>28 marzo</td><td>1996</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nel RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Hong Kong e Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nel RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/)oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Hong Kong e Macao.</td></tr>
 </table>
 
-[^t-10]: Completa quelli in [RU 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); [1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161); [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67); [2023 591](https://fedlex.data.admin.ch/eli/oc/2023/591). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-12]: Completa quelli in [RU 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); [1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161); [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67); [2023 591](https://fedlex.data.admin.ch/eli/oc/2023/591). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
