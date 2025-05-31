@@ -4,13 +4,13 @@ number: "610"
 title: Gesetz über den Finanzausgleich
 short: FAG
 language: de
-version: 2025-01-01
-valid_until: 2025-05-31
-version_adopted: 2024-03-18
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-02
 adopted: 2002-03-05
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/610"
-pdf: "https://srl.lu.ch/api/de/versions/4481/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4717/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4481/pdf_file"
 
 (FAG)
 
-vom 05.03.2002 (Stand 01.01.2025)
+vom 05.03.2002 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -124,15 +124,11 @@ beschliesst:
 
 <sup>2</sup> Die Beiträge an den Disparitätenabbau werden von dem Betrag an berechnet, der 86,4 Prozent des mittleren kantonalen Ressourcenpotenzials pro Einwohner und Einwohnerin übersteigt. Die Beiträge bemessen sich nach einem Grundbeitrag und einem einheitlichen Korrekturfaktor.
 
-<sup>3</sup> Der Grundbeitrag beträgt für die ersten 400 Franken
+<sup>3</sup> …
 
-- a. für das Hauptzentrum 9 Prozent,
-- b. für Regionalzentren 14 Prozent,
-- c. für die übrigen Gemeinden 17 Prozent.
+<sup>4</sup> …
 
-<sup>4</sup> Als Hauptzentrum und als Regionalzentren gelten Gemeinden, die im kantonalen Richtplan so bezeichnet sind.
-
-<sup>5</sup> Der Korrekturfaktor stellt sicher, dass die Abschöpfung insgesamt dem in § 6 festgelegten Anteil entspricht.
+<sup>5</sup> …
 
 <sup>6</sup> Der Beitrag, den eine Gemeinde an den Disparitätenabbau zu bezahlen hat, ist im Maximum begrenzt auf 40 Prozent des Ertrags einer Einheit der Gemeindesteuern in den für die Berechnung des Beitrags massgebenden Jahren.
 
@@ -345,8 +341,8 @@ beschliesst:
 
 <sup>1</sup> Das zuständige Departement setzt den Gemeinden bis 30. Juni des dem Bezugsjahr vorangehenden Jahres mit Verfügung fest:
 
-- a. die Finanzausgleichsbeiträge im Sinn der §§ 5 und 9–11,
-- b. die Beiträge an den horizontalen Finanzausgleich im Sinn von § 7.
+- a. die Finanzausgleichsbeiträge im Sinn der §§ 5 und 9–11, in der im Bezugsjahr geltenden Fassung,
+- b. die Beiträge an den horizontalen Finanzausgleich im Sinn von § 7, in der im Bezugsjahr geltenden Fassung.
 
 <sup>2</sup> Die Finanzausgleichsbeiträge werden den Gemeinden bis 30. April des Bezugsjahres ausbezahlt.
 
