@@ -4,13 +4,13 @@ number: "128.213"
 title: Juristische Prüfungsverordnung
 short: JPV
 language: de
-version: 2011-01-01
-valid_until: 2025-05-31
-version_adopted: 2010-09-28
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2025-03-25
 adopted: 2000-07-04
 in_force: 2001-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/128.213"
-pdf: "https://bgs.so.ch/api/de/versions/3619/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3619/pdf_file"
 
 (JPV)
 
-Vom 04.07.2000 (Stand 01.01.2011)
+Vom 04.07.2000 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -101,7 +101,7 @@ beschliesst:
 
 <sup>2</sup> Die mündliche Anwaltsprüfung und die mündliche Notariatsprüfung nach § 19 Absatz 3 dieser Verordnung sind innert vier Jahren seit Beendigung des Rechtspraktikums abzulegen, die mündliche Notariatsprüfung nach § 18 Absatz 3 dieser Verordnung und die mündliche Gerichtsschreiberprüfung innert drei Jahren seit Zulassung zur Prüfung. Wer sich nicht rechtzeitig zur Prüfung stellt, ist ausgeschlossen.
 
-<sup>3</sup> Das Departement kann die Fristen nach Absatz 2 aus wichtigen Gründen erstrecken; das Gesuch ist vor Ablauf der Frist zu stellen.
+<sup>3</sup> Das Departement kann die Fristen nach Absatz 2 aus wichtigen Gründen erstrecken, wobei diese Fristen insgesamt nicht um mehr als die Hälfte erstreckt werden dürfen.
 
 ## 3. Das Rechtspraktikum
 
@@ -186,7 +186,7 @@ beschliesst:
 
 <sup>2</sup> Die mündliche Prüfung ist bestanden, wenn in jedem Fach mindestens das Prädikat "genügend" erteilt werden kann. Sie kann als Ganzes ein Mal wiederholt werden.
 
-<sup>3</sup> Der Rücktritt nach begonnener Prüfung ohne zwingende Gründe wird dem Nichtbestehen gleichgestellt. Die Juristische Prüfungskommission trifft den Entscheid.
+<sup>3</sup> Das Fernbleiben nach Erhalt der Einladung zur Prüfung, der Nichtbeginn der Prüfung oder der Abbruch der begonnenen Prüfung ohne zwingende Gründe werden dem Nichtbestehen gleichgestellt. Zwingende Gründe stellen namentlich eine Krankheit oder ein Unfall von einer gewissen Schwere sowie der Todesfall einer nahestehenden Person dar. Sie müssen unverzüglich gemeldet und durch ein ärztliches Zeugnis, das die Prüfungsunfähigkeit ausdrücklich bestätigt, oder andere sachdienliche Unterlagen belegt werden. Die Juristische Prüfungskommission trifft den Entscheid. Sie kann weitere Unterlagen oder Angaben, insbesondere eine einlässliche ärztliche Begründung, verlangen. § 6 Absatz 2 ist sinngemäss anwendbar.
 
 #### § 14
 
@@ -327,6 +327,14 @@ beschliesst:
 <sup>1</sup> Die Absätze 1<sup>bis</sup> und 2 von § 6 sind auf alle Personen anwendbar, die am 1. Mai 2009 noch nicht rechtskräftig zum Rechtspraktikum zugelassen sind.
 
 <sup>2</sup> § 4<sup>bis</sup> und § 5 Absatz 1 sind auf alle Personen anwendbar, die am 1. Mai 2009 noch nicht rechtskräftig zur Prüfung zugelassen sind.
+
+#### § 23quater
+
+**Übergangsbestimmung zu den Änderungen vom 25. März 2025**
+
+<sup>1</sup> Die geänderten Bestimmungen sind sofort anwendbar. Absatz 2 bleibt vorbehalten.
+
+<sup>2</sup> Eine Prüfungsfrist, die nicht letztmalig erstreckt und bei Inkrafttreten der geänderten Bestimmungen noch nicht abgelaufen ist, kann aus wichtigen Gründen noch einmal längstens bis Ende 2025 erstreckt werden, auch wenn dadurch die nach § 5 Absatz 3 maximal zulässige Dauer überschritten wird.
 
 #### § 24
 
