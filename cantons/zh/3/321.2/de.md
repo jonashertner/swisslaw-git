@@ -4,11 +4,10 @@ number: "321.2"
 title: Kantonale Ordnungsbussenverordnung (KOBV)
 short: KOBV
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2025-06-01
+version: "2025-06-01"
+nachtrag: "131"
 adopted: 2019-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-131.html"
 text: pdf
 ---
 
@@ -27,7 +26,7 @@ beschliesst:
 [^t-1]: OS 74, 596; Begründung siehe ABl 2019-12-13.
 [^t-2]: Inkrafttreten: 1. Januar 2020.
 [^t-3]: LS 211.1.
-[^t-4]: SR 741.03.
+[^t-4]: SR 314.1.
 
 #### § 1
 
@@ -61,7 +60,7 @@ Die Stadt- und Gemeindepolizeien sind für die Erhebung von bundes- und kantonal
 
 Die weiteren Organe gemäss Anhang 2 sind für die Erhebung von bundes- und kantonalrechtlichen Ordnungsbussen im Bereich der aufgeführten Erlasse zuständig.
 
-[^5-1]: SR 741.031.
+[^5-1]: SR 314.11.
 
 #### § 6
 
@@ -79,12 +78,11 @@ Die weiteren Organe gemäss Anhang 2 sind für die Erhebung von bundes- und kant
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 26 - 131
 
-<sup>2</sup> Die Kantonspolizei und die Stadtpolizeien Zürich und Winterthur können für die Erhebung von bundesrechtlichen Ordnungsbussen für Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^7-1] und dem Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe[^7-2] sowie von kantonalrechtlichen Ordnungsbussen Hilfskräfte anstellen.
+<sup>2</sup> Die Kantonspolizei und die Stadtpolizeien Zürich und Winterthur können für die Erhebung von bundesrechtlichen Ordnungsbussen für Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958 und dem Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe[^7-1] sowie von kantonalrechtlichen Ordnungsbussen Hilfskräfte anstellen.
 
-[^7-1]: SR 741.01.
-[^7-2]: SR 812.121.
+[^7-1]: SR 812.121. 1. 1. 26 - 131 3
 
 #### § 8
 
@@ -201,6 +199,12 @@ Verletzung der persönlichen Meldepflicht (§ 3 Abs. 1 und 2 und § 4 in Verbind
 
 - g. Missachten der Meldepflichten gegenüber den Gemeinden (§ 21) h.[^hHundegesetzvom14-1] Verstoss gegen die Leinenpflicht im Wald und am Waldrand vom 1. April bis 31. Juli (§ 11 Abs. 1 lit. e)
 
+**Fr. 60**
+
+**5**
+
+- 1\. 1. 26 - 131
+
 [^hHundegesetzvom14-1]: Eingefügt durch RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
 [^hHundegesetzvom14-2]: LS 554.51.
 
@@ -290,14 +294,6 @@ und Limousinen vom 25. März 2019[^h10h9h4Hundeverord-1]:
 
 - a. Ausführen von Taxidiensten ohne, mit einem defekten oder mit einem vorschriftswidrigen Taxameter (§ 4 Abs. 1 lit. b)
 
-**Fr. 60**
-
-**Fr. 100**
-
-**5**
-
-- 1\. 1. 24 - 123
-
 - b. Unterlassen der rechtzeitigen Überprüfung des Taxameters bei einer offiziellen Montagestelle (§ 6 Abs. 2)
 
 **Fr. 80**
@@ -358,15 +354,19 @@ und Limousinen vom 24. Mai 2023[^hVerordnungüberden-1]:
 
 - e. Ungenügende Sicht- und Lesbarkeit des Taxameters (§ 14 Abs. 3)
 
+**Fr. 100**
+
 **Fr. 80**
 
-- f. Ausführen von Taxidiensten ohne Taxilampe (§ 16 Abs. 1) g.[^hVerordnungüberden-2] Nichtausschalten der Taxilampe bei Privatfahrten oder beim Parkieren auf einem öffentlichen Parkplatz in Sichtweite eines Taxistandplatzes (§ 16 Abs. 2)
+- f. Ausführen von Taxidiensten ohne Taxilampe (§ 16 Abs. 1)
+
+**7**
+
+- 1\. 1. 26 - 131 g.[^hVerordnungüberden-2] Nichtausschalten der Taxilampe bei Privatfahrten (§ 16 Abs. 2)
 
 **Fr. 100**
 
-- h. Anwerben von Fahrgästen für Taxi- oder Limousinendienste durch Zurufe, Winken oder auf ähnliche Weise (§ 17 Abs. 1 und § 20) i.[^hVerordnungüberden-2] Abstellen von Taxis oder Limousinen auf öffentlichen Parkplätzen in Sichtweite von Taxistandplätzen, um auf Fahrgäste oder Fahrgastaufträge zu warten (§ 17 Abs. 2 und § 20)
-
-**Fr. 80**
+- h. Anwerben von Fahrgästen für Taxi- oder Limousinendienste durch Zurufe, Winken oder auf ähnliche Weise (§ 17 Abs. 1 und § 20) i.[^hVerordnungüberden-3]
 
 **Fr. 80**
 
@@ -374,54 +374,36 @@ und Limousinen vom 24. Mai 2023[^hVerordnungüberden-1]:
 
 - j. Nichtanbringen oder vorschriftswidriges Anbringen der Plakette (§ 19 Abs. 2)
 
-**7**
-
-- 1\. 1. 24 - 123
-
 [^hVerordnungüberden-1]: LS 935.511.
-[^hVerordnungüberden-2]: Noch nicht in Kraft. 1. 1. 24 - 123 3
-[^hVerordnungüberden-3]: Fassung gemäss RRB vom 24. Mai 2023 (OS 78, 528; ABl 2023-06-09). In Kraft seit 1. Januar 2024 (ABl 2023-09-29).
+[^hVerordnungüberden-2]: Fassung gemäss RRB vom 5. März 2025 (OS 80, 128; ABl 2025-03-14). In Kraft seit 1. Juni 2025.
+[^hVerordnungüberden-3]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 5. Dezember 2024 (AN.2023.00016).
+[^hVerordnungüberden-4]: Fassung gemäss RRB vom 24. Mai 2023 (OS 78, 528; ABl 2023-06-09). In Kraft seit 1. Januar 2024 (ABl 2023-09-29).
 
 ### Anhang 2 Weitere Organe (§ 5)
 
-[^hVerordnungüberden-3]
-
-**Jagdliche Revieraufsicht**
-
-**X**
-
-X X X X Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X X
-
-**X**
-
-**Ranger)**
-
-**nen und -förster**
-
-Staats- und Revierförsterin- X
-
-**X**
-
-Wildhüterinnen und -hüter X X X X X X Fischereiaufseherinnen und X X X X X X
-
-**X**
-
-**-aufseher**
-
-**nerregisters betraute**
-
-Mit der Führung des Einwoh-X Personen der Gemeinden Polizeistundenkontrolleurinnen und -kontrolleure der
-
-**X**
-
-**Gemeinden**
+[^hVerordnungüberden-4]
 
 **X X**
 
-**für Mobilität**
+Jagdliche Revieraufsicht X X X Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X Ranger) Staats- und Revierförsterin- X nen und -förster Wildhüterinnen und -hüter X X X X X Fischereiaufseherinnen und X X X X X -aufseher Mit der Führung des Einwohnerregisters betraute Personen der Gemeinden Polizeistundenkontrolleurinnen und -kontrolleure der Gemeinden Mit dem Vollzug des Taxi- und Limousinenwesens betraute Personen des Amtes für Mobilität
 
-Mit dem Vollzug des Taxi- und Limousinenwesens betraute Personen des Amtes
+**X X**
+
+**X X**
+
+**X X**
+
+**X**
+
+**X**
+
+**X X**
+
+**9**
+
+- 1\. 1. 26 - 131
 
 ## Weitere Fussnoten
 
+- [17] Obsolet.
 - [22] Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
