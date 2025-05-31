@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2025-04-11
+version: 2025-06-01
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250411/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250411-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250411/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 11. April 2025)
+vom 16. März 2022 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -119,32 +119,66 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 **Zivil und militärisch verwendbare Güter**
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von zivil und militärisch verwendbaren Gütern gemäss Anhang 2 GKV[^4-1] nach Belarus oder zur Verwendung in Belarus sind verboten.
+<sup>1</sup>
 
-<sup>1bis</sup> Die Durchfuhr durch Belarus von Gütern gemäss Anhang 2 GKV ist verboten.[^4-2]
+Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern gemäss Anhang 2 GKV[^4-1]:
 
-<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 ist verboten.
+- a. nach Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 der vorliegenden Verordnung sind verboten.[^4-2]
 
-<sup>3</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 2 GKV oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in Belarus oder zur Verwendung in Belarus sind verboten.[^4-3]
+<sup>1bis</sup> Die Durchfuhr durch Belarus von Gütern gemäss Anhang 2 GKV ist verboten.[^4-3]
+
+<sup>2</sup>
+
+Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, des Transports, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1:
+
+- a. nach Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 sind verboten.[^4-4]
+
+<sup>3</sup>
+
+Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 2 GKV oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
+
+- a. in Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 der vorliegenden Verordnung sind verboten.[^4-5]
 
 [^4-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^4-2]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 5
 
 **Güter zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors**
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors gemäss Anhang 3 nach oder zur Verwendung in Belarus sind verboten.
+<sup>1</sup>
 
-<sup>1bis</sup> Die Durchfuhr durch Belarus von Gütern nach Anhang 3 ist verboten.[^5-1]
+Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern nach Anhang 3:
 
-<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 nach oder zur Verwendung in Belarus sind verboten.
+- a. nach Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 sind verboten.[^5-1]
 
-<sup>3</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 3 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in Belarus oder zur Verwendung in Belarus sind verboten.[^5-2]
+<sup>1bis</sup> Die Durchfuhr durch Belarus von Gütern nach Anhang 3 ist verboten.[^5-2]
 
-[^5-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+<sup>2</sup>
+
+Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1:
+
+- a. nach Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 sind verboten.[^5-3]
+
+<sup>3</sup>
+
+Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 3 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
+
+- a. nach Belarus oder zur Verwendung in Belarus sind verboten;
+- b. an Endempfänger nach Anhang 5 sind verboten.[^5-4]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
 
 #### Art. 6
 
@@ -164,41 +198,59 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 
 <sup>1</sup>
 
-Die Verbote nach den Artikeln 4‒6 gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Gütern und Technologien sowie für die Bereitstellung von damit verbundenen Dienstleistungen, wenn die Güter und Technologien bestimmt sind für:[^7-1]
+Die Verbote nach den Artikeln 4 Absätze 1 Buchstabe a und 2 Buchstabe a und 5 Absätze 1 Buchstabe a und 2 Buchstabe a gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Gütern und Technologien sowie für die Bereitstellung von damit verbundenen Dienstleistungen, wenn die Güter und Technologien bestimmt sind für:[^7-1]
+
+- a. ausschliesslich humanitäre und medizinische Aktivitäten, die von einer unparteilichen humanitären Organisation durchgeführt werden, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen;
+- b.[^7-2] medizinische oder pharmazeutische Zwecke, es sei denn, sie sind in Anhang 11*a* aufgeführt;
+- c.–e. [^7-3]…
+- f.[^7-4] …
+- g.[^7-5] …
+
+<sup>1bis</sup> Die Verbote nach den Artikeln 4 Absatz 1<sup>bis</sup> und 5 Absatz 1<sup>bis</sup> gelten nicht für Güter nach Anhang 2 GKV[^7-6] beziehungsweise Anhang 3 der vorliegenden Verordnung, die für Zwecke nach Absatz 1 bestimmt sind.[^7-7]
+
+<sup>1ter</sup>
+
+Die Verbote nach Artikel 6 Absätze 1 und 2 gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Maschinen gemäss Anhang 4 sowie für die Bereitstellung von damit verbundener technischer Hilfe oder Finanzhilfe, wenn die Maschinen für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:
 
 - a. ausschliesslich humanitäre und medizinische Aktivitäten, die von einer unparteilichen humanitären Organisation durchgeführt werden, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen;
 - b. medizinische oder pharmazeutische Zwecke;
 - c. die vorübergehende Ausfuhr von Gegenständen zur Verwendung durch Nachrichtenmedien;
 - d. Softwareaktualisierungen;
-- e. die Verwendung als Kommunikationsgeräte des täglichen Gebrauchs; oder
-- f.[^7-2] …
+- e. die Verwendung als Kommunikationsgeräte des täglichen Gebrauchs;
+- f. die Gewährleistung der Cybersicherheit und der Informationssicherheit für natürliche oder juristische Personen, Organisationen oder Einrichtungen in Belarus mit Ausnahme der belarussischen Regierung und der Unternehmen, die unmittelbar oder mittelbar von dieser Regierung kontrolliert werden; oder
 - g.
 
-  die persönliche Verwendung folgender Gegenstände durch natürliche Personen, die nach Belarus reisen oder mit ihnen reisende Familienangehörige, sofern sich die Gegenstände im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind:
+  die persönliche Verwendung folgender Gegenstände durch natürliche Personen, die nach Belarus reisen, oder mit ihnen reisende Familienangehörige, sofern sich die Gegenstände im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind:
 
   - 1\. persönliche Gegenstände,
   - 2\. Haushaltsgegenstände,
-  - 3\. Fahrzeuge oder Arbeitsmittel.
-
-<sup>1bis</sup> Die Verbote nach den Artikeln 4 Absatz 1<sup>bis</sup> und 5 Absatz 1<sup>bis</sup> gelten nicht für Güter nach Anhang 2 GKV[^7-3] beziehungsweise Anhang 1 der vorliegenden Verordnung, die für Zwecke nach Absatz 1 Buchstaben a–e bestimmt sind.[^7-4]
+  - 3\. Fahrzeuge oder Arbeitsmittel.[^7-8]
 
 <sup>2</sup>
 
-Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 sowie Artikel 5 Absätze 1 und 2 bewilligen für Güter, Technologien und Dienstleistungen, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:[^7-5]
+Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 sowie Artikel 5 Absätze 1 und 2 bewilligen für Güter, Technologien und Dienstleistungen, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:[^7-9]
 
 - a. die Zusammenarbeit zwischen der Schweiz und Belarus in ausschliesslich zivilen Angelegenheiten;
 - b. die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen;
 - c. den Betrieb, die Instandhaltung und die Wiederaufbereitung von Brennelementen, die Sicherheit ziviler nuklearer Kapazitäten sowie die zivile nukleare Zusammenarbeit, insbesondere im Bereich der Forschung und Entwicklung;
 - d. die maritime Sicherheit;
-- e.[^7-6] zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze, sofern diese nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über fünfzig Prozent beteiligt ist;
+- e.[^7-10] zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze, sofern diese nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über fünfzig Prozent beteiligt ist;
 - f. die Verwendung durch Organisationen, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines Partners gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befinden;
 - g. diplomatische Vertretungen der Schweiz oder ihrer Partner;
-- h.[^7-7] die Gewährleistung von Cybersicherheit und Informationssicherheit für natürliche und juristische Personen, Organisationen und Einrichtungen in Belarus mit Ausnahme der Regierung von Belarus und der Unternehmen, die unmittelbar oder mittelbar von dieser kontrolliert werden; oder
-- i.[^7-8] die ausschliessliche Nutzung durch die Schweiz, sofern sie deren vollständiger Kontrolle unterliegen, damit die Schweiz ihre Unterhaltungsverpflichtungen in Bereichen erfüllen kann, die einem langfristigen Mietvertrag zwischen der Schweiz und Belarus unterliegen.
+- h.[^7-11] die Gewährleistung von Cybersicherheit und Informationssicherheit für natürliche und juristische Personen, Organisationen und Einrichtungen in Belarus mit Ausnahme der Regierung von Belarus und der Unternehmen, die unmittelbar oder mittelbar von dieser kontrolliert werden;
+- i.[^7-12] die ausschliessliche Nutzung durch die Schweiz, sofern sie deren vollständiger Kontrolle unterliegen, damit die Schweiz ihre Unterhaltungsverpflichtungen in Bereichen erfüllen kann, die einem langfristigen Mietvertrag zwischen der Schweiz und Belarus unterliegen;
+- j.[^7-13] Softwareaktualisierungen;
+- k.[^7-14] die Verwendung als Kommunikationsgeräte des täglichen Gebrauchs; oder
+- l.[^7-15] medizinische oder pharmazeutische Zwecke, sofern sie in Anhang 11*a* aufgeführt sind.
 
-<sup>2bis</sup> Es kann Ausnahmen von den Verboten nach den Artikeln 4 Absatz 1<sup>bis</sup> und 5 Absatz 1<sup>bis</sup> bewilligen für Güter nach Anhang 2 GKV beziehungsweise Anhang 1 der vorliegenden Verordnung, die für zivile Zwecke oder zivile Endempfänger nach Absatz 2 Buchstaben b, c, d und h bestimmt sind.[^7-9]
+<sup>2bis</sup> Es kann Ausnahmen von den Verboten nach den Artikeln 4 Absatz 1<sup>bis</sup> und 5 Absatz 1<sup>bis</sup> bewilligen für Güter nach Anhang 2 GKV beziehungsweise Anhang 3 der vorliegenden Verordnung, die für zivile Zwecke oder zivile Endempfänger nach Absatz 2 Buchstaben b–d, h und l bestimmt sind.[^7-16]
 
-<sup>2ter</sup> Es kann Ausnahmen von den Verboten nach Artikel 6 Absätze 1 und 2 bewilligen zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.[^7-10]
+<sup>2ter</sup>
+
+Es kann Ausnahmen von den Verboten nach Artikel 6 Absätze 1 und 2 bewilligen für:
+
+- a. die Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- b. nichtmilitärische Zwecke und nichtmilitärische Endempfänger, sofern Maschinen der Zolltarifnummer 8471 80 betroffen sind und die Maschinen oder die damit verbundene technische Hilfe oder Finanzhilfe für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind.[^7-17]
 
 <sup>3</sup>
 
@@ -206,25 +258,32 @@ Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur 
 
 - a. einen militärischen Endempfänger oder eine natürliche Person, ein Unternehmen oder eine Organisation gemäss Anhang 5;
 - b. eine militärische Endverwendung; oder
-- c. die Luft- oder Raumfahrtindustrie.[^7-11]
+- c. die Luft- oder Raumfahrtindustrie.[^7-18]
 
-<sup>4</sup> Absatz 3 Buchstaben a und b gilt nicht für Güter, Technologien und Dienstleistungen, die für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen erforderlich sind.[^7-12]
+<sup>4</sup> Absatz 3 Buchstaben a und b gilt nicht für Güter, Technologien und Dienstleistungen, die für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen erforderlich sind.[^7-19]
 
-<sup>5</sup> Absatz 3 Buchstabe c gilt nicht für Güter, Technologien und Dienstleistungen, die für die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen bestimmt sind.[^7-13]
+<sup>5</sup> …[^7-20]
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-2]: Aufgehoben durch Ziff. I der V vom 30. Aug. 2023, mit Wirkung seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-3]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^7-4]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^7-5]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-7]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-8]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^7-9]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^7-10]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^7-11]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-12]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^7-13]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-3]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-4]: Aufgehoben durch Ziff. I der V vom 30. Aug. 2023, mit Wirkung seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-5]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-6]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-7]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
+[^7-8]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-9]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-10]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-11]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-12]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^7-13]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-14]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-15]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-16]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316), [320](https://fedlex.data.admin.ch/eli/oc/2025/320)).
+[^7-17]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^7-18]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-19]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^7-20]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023 ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 8
 
@@ -314,6 +373,20 @@ Bewilligungen von Ausnahmen von den Verboten nach Artikel 7 Absatz 2 werden sist
 
 [^10c-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
+#### Art. 10c<sup>bis</sup>
+
+**Software für den Energiesektor**[^10cbis-1]
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Bereitstellung von Software für den Energiesektor nach Anhang 7*b* nach oder zur Verwendung in Belarus sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Software nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung, der Wartung, dem Transport oder der Verwendung dieser Software sind verboten.
+
+<sup>3</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an natürliche oder juristische Personen, Organisationen oder Einrichtungen in Belarus oder zur Verwendung in Belarus sind verboten.
+
+<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Finanzdienstleistungen oder die Energieversorgung betroffen sind, des Eidgenössischen Finanzdepartements (EFD) beziehungsweise des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, falls dies notwendig ist, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedstaates sicherzustellen.
+
+[^10cbis-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+
 #### Art. 10d
 
 **Güter zur Stärkung der Industrie**[^10d-1]
@@ -332,7 +405,7 @@ Bewilligungen von Ausnahmen von den Verboten nach Artikel 7 Absatz 2 werden sist
 
 <sup>7</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen, falls dies erforderlich ist für:
+Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen, falls dies erforderlich ist für:[^10d-2]
 
 - a. medizinische oder pharmazeutische Zwecke bei einer Endverwendung nichtmilitärischer Art;
 - b. humanitäre Zwecke oder für Evakuierungen;
@@ -341,14 +414,19 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des Eid
 
 <sup>8</sup>
 
-Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen für:
+Es kann Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen für:[^10d-3]
 
 - a. Güter der Zolltarifnummer 8417 20, falls diese von natürlichen Personen im Haushalt für die Herstellung von Backwaren, Patisserie und Biskuits verwendet werden;
 - b. Güter der Zolltarifnummern 3917, 8523 und 8536, falls diese für die Instandhaltung oder Reparatur von Medizinprodukten erforderlich sind;
 - c. Güter der Zolltarifnummern 7411 oder 7412 mit einem inneren Durchmesser von bis zu 50 mm, falls diese von natürlichen Personen im Haushalt verwendet werden;
 - d. Güter der Zolltarifnummer 3917 10, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind.
 
+<sup>9</sup> Es kann Ausnahmen von den Verboten nach den Absätzen 1 und 3 bewilligen für Güter der Zolltarifnummern 8517 62 und 8523 52 für nichtmilitärische Zwecke und nichtmilitärische Endempfänger, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind.[^10d-4]
+
 [^10d-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^10d-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^10d-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^10d-4]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 10e
 
@@ -523,9 +601,11 @@ Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter direkter 
 
 <sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
+<sup>2bis</sup> Absatz 1 gilt nicht, wenn die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen erforderlich ist für die Entgegennahme und die Gutschrift von Überweisungen in die Schweiz oder innerhalb der Schweiz, bei denen ein Unternehmen oder eine Organisation nach Absatz 1 als sendende oder zwischengeschaltete Bank an der Überweisung beteiligt ist, sofern die Überweisung zwischen natürlichen Personen, Unternehmen oder Organisationen erfolgt, die nicht unter Absatz 1 fallen.[^12-1]
+
 <sup>3</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:[^12-1]
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:[^12-2]
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
@@ -554,10 +634,11 @@ Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausna
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen und Organisationen nach Anhang 13 befinden, oder die Erbringung von Dienstleistungen für solche natürliche Personen, Unternehmen oder Organisationen bewilligen, wenn es festgestellt hat, dass dies unbedingt erforderlich ist für die Errichtung, Zertifizierung oder Bewertung eines Systems, mit dem:
 
 - a. die Kontrolle aufgehoben wird, die von einer natürlichen Person, einem Unternehmen oder einer Organisation gemäss Anhang 13 ausgeübt wird über die Vermögenswerte einer nach Schweizer Recht oder dem Recht eines EWR‑Mitgliedstaates gegründeten oder eingetragenen Organisation oder eines Unternehmens, die oder das nicht in Anhang 13 aufgeführt ist und sich im Eigentum einer der Erstgenannten befindet oder von ihr kontrolliert wird; und
-- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^12-2]
+- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^12-3]
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^12-2]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^12-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 #### Art. 13
 
@@ -598,8 +679,13 @@ Die Verbote nach Absatz 1 gelten nicht für:
 Das Verbot nach Absatz 1 gilt nicht für:
 
 - a. verbindliche Verpflichtungen betreffend die Bereitstellung von Finanzmitteln oder Finanzhilfen, die vor dem 17. März 2022 eingegangen wurden;
-- b. die Bereitstellung öffentlicher Finanzmittel oder Finanzhilfen bis zu einem Gesamtwert von 10 000 000 Franken pro Projekt für in der Schweiz niedergelassene kleine und mittlere Unternehmen;
+- b.[^15-1] …
 - c. die Bereitstellung öffentlicher Finanzmittel oder Finanzhilfen für den Handel mit Lebensmitteln sowie für landwirtschaftliche, medizinische oder humanitäre Zwecke.
+
+<sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen für die Bereitstellung öffentlicher Finanzmittel oder Finanzhilfen von jeweils bis zu 10 Millionen Franken für Projekte, die in der Schweiz niedergelassenen kleinen und mittleren Unternehmen zugutekommen.[^15-2]
+
+[^15-1]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 16
 
@@ -639,32 +725,49 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 **Entgegennahme von Einlagen**
 
-<sup>1</sup> Die Entgegennahme von Einlagen von belarussischen Staatsangehörigen, in Belarus ansässigen natürlichen Personen und in Belarus niedergelassenen Unternehmen und Organisationen ist verboten, wenn der Gesamtwert der Einlagen der natürlichen oder juristischen Person, des Unternehmens oder der Organisation pro Bank oder pro nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^18-1] (BankG) bewilligte Person 100 000 Franken übersteigt.
+<sup>1</sup>
 
-<sup>2</sup>
+Personen und Einrichtungen, die gewerbsmässig Einlagen entgegennehmen und Kredite gewähren, ist es verboten, von folgenden Personen Organisationen oder Einrichtungen Einlagen entgegenzunehmen, sofern der Gesamtwert der Einlagen pro Person, Organisation oder Einrichtung 100 000 Franken übersteigt:
 
-Das Verbot gilt nicht für:
+- a. belarussischen Staatsangehörigen;
+- b. in Belarus ansässigen natürlichen Personen;
+- c. in Belarus niedergelassenen Banken, Unternehmen und Organisationen;
+- d. ausserhalb der Schweiz oder des EWR niedergelassenen Banken, Unternehmen oder Organisationen, deren Anteile zu über 50 Prozent unmittelbar oder mittelbar von belarussischen Staatsangehörigen oder in Belarus ansässigen natürlichen Personen gehalten werden.[^18-1]
 
-- a. Schweizer Staatsangehörige, Staatsangehörige eines EU-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EU-Mitgliedstaats verfügen;
-- b. Einlagen, die für den nicht verbotenen grenzüberschreitenden Handel mit Waren und Dienstleistungen zwischen der Schweiz und Belarus, zwischen der Schweiz und der EU sowie zwischen der EU und Belarus erforderlich sind.
+<sup>1bis</sup>
+
+Personen und Einrichtungen, die gewerbsmässig Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten erbringen, ist es verboten, solche Dienstleistungen für folgende Personen, Organisationen oder Einrichtungen bereitzustellen:
+
+- a. belarussische Staatsangehörige;
+- b. in Belarus ansässige natürliche Personen;
+- c. in Belarus niedergelassene juristische Personen, Unternehmen oder Organisationen.[^18-2]
+
+<sup>2</sup> Die Verbote nach den Absätzen 1–1<sup>ter</sup> gelten nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen.[^18-3]
 
 <sup>3</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen für Einlagen, die erforderlich sind:
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1<sup>bis</sup> bewilligen für Einlagen oder die Erbringung von Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten, die erforderlich sind:[^18-4]
 
 - a. zur Vermeidung von Härtefällen;
 - b. zu humanitären Zwecken oder zu Evakuierungszwecken;
 - c. für zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte oder die Rechtsstaatlichkeit in Belarus unmittelbar fördern;
-- d. zur Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder internationalen Organisationen; oder
-- e. zur Wahrung schweizerischer Interessen.
+- d. zur Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder internationalen Organisationen;
+- e. zur Wahrung schweizerischer Interessen;
+- f.[^18-5] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen; oder
+- g.[^18-6] für den nicht verbotenen grenzüberschreitenden Handel mit Gütern und Dienstleistungen zwischen der Schweiz und Belarus, der Schweiz und dem EWR oder dem EWR und Belarus.
 
-[^18-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^18-1]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-5]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^18-6]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 19
 
 **Meldepflicht für bestehende Einlagen**
 
-<sup>1</sup> Banken oder nach Artikel 1*b* BankG[^19-1] bewilligte Personen sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von belarussischen Staatsangehörigen, in Belarus ansässigen natürlichen Personen und in Belarus niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln.
+<sup>1</sup> Banken oder nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^19-1] bewilligte Personen sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von belarussischen Staatsangehörigen, in Belarus ansässigen natürlichen Personen und in Belarus niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln.
 
 <sup>2</sup> Sie legen alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.
 
@@ -712,13 +815,14 @@ Die Bereitstellung von spezialisierten Nachrichtenübermittlungsdiensten für de
 
 <sup>2</sup>
 
-Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, die Verbringung und die Ausfuhr von auf Schweizerfranken oder eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Banknoten, sofern diese erforderlich sind für:[^24-2]
+Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von auf Schweizerfranken oder eine amtliche Währung eines EU‑Mitgliedstaates lautenden Banknoten, die bestimmt sind für:
 
-- a. die persönliche Verwendung durch nach Belarus reisende natürliche Personen oder ihre mit ihnen reisenden nahen Verwandten; oder
-- b. die Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder internationalen Organisationen in Belarus.
+- a. die persönliche Verwendung durch Personen, die nach Belarus reisen;
+- b. die Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen in Belarus; oder
+- c. Tätigkeiten der Zivilgesellschaft und der Medien, mit denen Demokratie, Menschenrechte oder Rechtsstaatlichkeit in Belarus unmittelbar gefördert werden und die öffentliche Mittel der Schweiz, eines EWR-Mitgliedstaates oder eines Partners erhalten.[^24-2]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
-[^24-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 24a
 
@@ -748,13 +852,15 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA, des Eidgen
 
 <sup>1</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
 
-<sup>2</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
+<sup>2</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Bauwesen, Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.[^24b-2]
 
 <sup>3</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
 
 <sup>4</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Bereitstellung von Software für die Unternehmensführung und Software für Industriedesign und Fertigung gemäss Anhang 27 an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sowie der Transport und die Durchfuhr dieser Güter durch die Schweiz sind verboten.
 
 <sup>5</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1–4 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in Belarus sind verboten.
+
+<sup>5bis</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 4 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sind verboten.[^24b-3]
 
 <sup>6</sup>
 
@@ -794,19 +900,30 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
   die Erbringungen von Dienstleistungen durch Telekommunikationsbetreiber in der Schweiz oder einem EWR-Mitgliedstaat, die erforderlich sind für:
 
   - 1\. den Betrieb, die Instandhaltung und die Sicherheit, einschliesslich der Cybersicherheit, von elektronischen Kommunikationsdiensten in Belarus, der Ukraine, der Schweiz oder einem EWR-Mitgliedstaat, zwischen Belarus oder der Ukraine und der Schweiz oder einem EWR-Mitgliedstaat, oder
-  - 2\. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat.
+  - 2\. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat;
+
+- i.[^24b-4] den laufenden Bau von Infrastruktur mit einer Höhe von bis zu 25 Meter für die zivile Energieversorgung und -verteilung an Bildungseinrichtungen und Einrichtungen der Gesundheitsversorgung.
 
 <sup>10</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Dienstleistungen, die erforderlich sind für die Errichtung, Zertifizierung oder Bewertung eines Systems nach Artikel 12 Absatz 5.
 
 <sup>11</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 4 bewilligen, sofern die Software für den Beitrag belarussischer Staatsangehöriger zu internationalen Open-Source-Projekten erforderlich ist.
 
-<sup>12</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern die Rechtsberatungsdienstleistungen für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen und im Rahmen von internationalen Adoptionsverfahren erforderlich sind.
+<sup>12</sup>
+
+Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern:
+
+- a. es sich um Rechtsberatungsdienstleistungen handelt, die für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen oder im Rahmen von internationalen Adoptionsverfahren erforderlich sind;
+- b. die Dienstleistungen für die Tätigkeit einer konsularischen oder diplomatischen Vertretung von Belarus in der Schweiz oder einem EWR-Mitgliedstaat unbedingt erforderlich sind.[^24b-5]
 
 <sup>13</sup> Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 6 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2025 und anschliessend semesterweise melden.
 
 <sup>14</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.
 
 [^24b-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024, Abs. 13 und 14 in Kraft seit 3. Jan. 2025 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^24b-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^24b-3]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^24b-4]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^24b-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 
@@ -914,12 +1031,24 @@ Das SECO kann bis zum 31. März 2025 nach Rücksprache mit den zuständigen Stel
 
 #### Art. 27c
 
-Schweizer Staatsangehörige, in der Schweiz ansässige natürliche Personen sowie in der Schweiz niedergelassene juristische Personen, Organisationen und Einrichtungen haben das Recht, in Gerichtsverfahren vor den zuständigen Schweizer Gerichten Schadenersatz für Kosten, einschliesslich Rechtskosten, einzufordern, die ihnen infolge von Forderungen entstanden sind, die von den nachstehenden Personen, Unternehmen oder Organisationen bei Gerichten in Drittstaaten im Zusammenhang mit Verträgen oder Geschäften geltend gemacht wurden, deren Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde, sofern kein wirksamer Zugang zu den Rechtsbehelfen im betreffenden Hoheitsgebiet besteht:
+[^27c-1]
 
-- a. juristische Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung;
-- b. juristische Personen, Unternehmen oder Organisationen, die ausserhalb der Schweiz und des EWR niedergelassen sind und an denen juristische Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
-- c. andere belarussische natürliche Personen, Unternehmen oder Organisationen;
-- d. natürliche Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer natürlichen Person, eines Unternehmens oder einer Organisation nach Buchstabe a, b oder c handeln.
+<sup>1</sup>
+
+Schweizer Staatsangehörige, in der Schweiz ansässige natürliche Personen und in der Schweiz niedergelassene juristische Personen, Organisationen und Einrichtungen haben das Recht, vor den zuständigen Schweizer Gerichten Schadenersatz für direkte oder indirekte Schäden, einschliesslich Rechtskosten, einzufordern, die ihnen infolge von Forderungen entstanden sind, die von den nachstehenden Personen, Unternehmen oder Organisationen bei Gerichten ausserhalb der Schweiz oder des EWR im Zusammenhang mit Verträgen oder Geschäften geltend gemacht wurden, deren Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde, sofern kein wirksamer Zugang zu den Rechtsbehelfen im betreffenden Hoheitsgebiet besteht:
+
+- a. juristische Personen, Unternehmen und Organisationen nach den Anhängen dieser Verordnung;
+- b. juristische Personen, Unternehmen und Organisationen, die ausserhalb der Schweiz und des EWR niedergelassen sind und an denen juristische Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung zu über 50 Prozent unmittelbar oder mittelbar beteiligt sind;
+- c. andere belarussische natürliche Personen, Unternehmen und Organisationen;
+- d. natürliche Personen, Unternehmen und Organisationen, die im Namen oder auf Anweisung einer natürlichen Person, eines Unternehmens oder einer Organisation nach Buchstabe a, b oder c handeln.
+
+<sup>2</sup> In der Schweiz niedergelassene juristische Personen, Organisationen und Einrichtungen können Schäden nach Absatz 1 auch für juristische Personen, Organisationen und Einrichtungen einfordern, die sich in ihrem Eigentum oder unter ihrer alleinigen oder gemeinsamen Kontrolle befinden.
+
+<sup>3</sup> Der Schadenersatz kann von Personen, Unternehmen und Organisationen nach Absatz 1 oder von Personen, Unternehmen und Organisationen, die Eigentümer der Unternehmen und Organisationen nach Absatz 1 sind oder Kontrolle über diese haben, eingefordert werden.
+
+<sup>4</sup> Sehen andere Bestimmungen des Schweizer Rechts keine Zuständigkeit in der Schweiz vor, so kann die Zuständigkeit für ein schweizerisches Gericht für Schadenersatzforderungen nach Absatz 1 dennoch an einem Ort begründet werden, mit dem der Sachverhalt einen genügenden Zusammenhang aufweist.
+
+[^27c-1]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 ## 5. Abschnitt: Strafbestimmungen
 
@@ -974,61 +1103,46 @@ Die Verordnung vom 11. August 2021[^30-1] über Massnahmen gegenüber Belarus wi
 
 **Übergangsbestimmungen**
 
-<sup>1</sup>
-
-Artikel 11 Absatz 1 Buchstabe b und 2 ist bis zum 1. Februar 2025 nicht auf Geschäfte über Güter nach Anhang 7*a* anwendbar, sofern:
-
-- a. es sich um kurzfristige einmalige Geschäfte handelt und diese vor dem genannten Datum vereinbart und ausgeführt werden;
-- b. diese Geschäfte vertraglich vor dem 31. Oktober 2024 vereinbart und bis zum 1. Februar 2025 erfüllt werden.[^31-1]
-
-<sup>2</sup> Die Artikel 6 und 11 Absatz 1 Buchstaben c–f sind nicht auf Geschäfte anwendbar, die vor dem 16. März 2022 vertraglich vereinbart wurden und bis zum 18. Juni 2022 erfüllt sind.
+<sup>1 und <sup>2</sup></sup> …[^31-1]
 
 <sup>3</sup> Das SECO bewilligt in Abweichung von den Verboten nach Artikel 4 Absätze 1 und 2 und Artikel 5 Absätze 1 und 2 bis zum 15. Mai 2022 gestellte Gesuche für Tätigkeiten, die für zivile Zwecke und zivile Endempfänger bestimmt sind und auf Verträgen beruhen, die vor dem 17. März 2022 abgeschlossen wurden. Die Artikel 8 und 9 über das Verfahren gelten sinngemäss.
 
-<sup>4</sup> Es bewilligt in Abweichung von den Verboten nach Artikel 5 Absätze 1 und 2 Gesuche für Tätigkeiten im Zusammenhang mit Gütern nach Artikel 5 Absatz 1, sofern diese Tätigkeiten dazu bestimmt sind, vor dem 31. August 2023 geschlossene Verträge, die für die Erbringung von zivilen Telekommunikationsdiensten für die belarussische Zivilbevölkerung erforderlich sind, bis zum 6. Februar 2024 zu beenden.[^31-2]
-
-<sup>5</sup>
-
-Es bewilligt in Abweichung von den Verboten nach Artikel 5 Absätze 1 und 2 bis zum 6. Februar 2024 gestellte Gesuche für Tätigkeiten im Zusammenhang mit Gütern der Zolltarifnummern 8536 69, 8536 90, 8541 30 und 8541 60, falls die folgenden Voraussetzungen erfüllt sind:
-
-- a. Die Güter werden in Belarus durch ein Joint Venture verarbeitet, das sich vor dem 31. August 2023 mehrheitlich im Eigentum eines Unternehmens mit Sitz in der Schweiz oder eines Mitgliedstaats des Europäischen Wirtschaftsraums (EWR) befand.
-- b. Die in Belarus verarbeiteten Güter dienen in der Schweiz der Herstellung von anderen Gütern, die zur Verwendung im Gesundheits- oder im Arzneimittelsektor oder im Bereich Forschung und Entwicklung bestimmt sind.[^31-3]
-
-<sup>6</sup> Artikel 10*a* ist nicht auf Geschäfte anwendbar, die vor dem 31. August 2023 vertraglich vereinbart wurden und bis zum 30. September 2023 erfüllt sind.[^31-4]
+<sup>4–6</sup> …[^31-2]
 
 <sup>7</sup>
 
 Das SECO kann für die Erfüllung von Finanzierungsleasingverträgen für Luftfahrzeuge, die vor dem 31. August 2023 abgeschlossen wurden, Ausnahmen von den Verboten gemäss Artikel 10*a* Absätze 1, 4 und 5 bewilligen, falls:
 
 - a. dies erforderlich ist für die Zahlung der Leasingraten an nach Schweizer Recht oder dem Recht eines Mitgliedstaates des EWR gegründete oder eingetragene juristische Personen, Unternehmen oder Organisationen, die nicht unter Massnahmen nach dieser Verordnung fallen; und
-- b. dem belarussischen Vertragspartner ausser der Übertragung des Eigentums an dem Luftfahrzeug nach der vollständigen Begleichung der Leasingverbindlichkeiten keine weiteren wirtschaftlichen Ressourcen zur Verfügung gestellt werden.[^31-5]
+- b. dem belarussischen Vertragspartner ausser der Übertragung des Eigentums an dem Luftfahrzeug nach der vollständigen Begleichung der Leasingverbindlichkeiten keine weiteren wirtschaftlichen Ressourcen zur Verfügung gestellt werden.[^31-3]
 
-<sup>8</sup> Artikel 10*d* Absätze 1 und 2 ist nicht auf Geschäfte anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 1. Februar 2025 erfüllt sind.[^31-6]
+<sup>8</sup> …[^31-4]
 
-<sup>9</sup> Artikel 10*d* Absätze 1, 3 und 4 ist nicht auf Geschäfte über Güter der Zolltarifnummer 2602 anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 2. Dezember 2025 erfüllt sind.[^31-7]
+<sup>9</sup> Artikel 10*d* Absätze 1, 3 und 4 ist nicht auf Geschäfte über Güter der Zolltarifnummer 2602 anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 2. Dezember 2025 erfüllt sind.[^31-5]
 
-<sup>10</sup> Artikel 10*d* Absätze 1, 3 und 4 ist nicht auf Geschäfte der Zolltarifnummer 8708 99 anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 2. Mai 2025 erfüllt sind.[^31-8]
+<sup>10</sup> Artikel 10*d* Absätze 1, 3 und 4 ist nicht auf Geschäfte der Zolltarifnummer 8708 99 anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 2. Mai 2025 erfüllt sind.[^31-6]
 
-<sup>11</sup> Artikel 10*c* Absätze 1–3 ist nicht auf Geschäfte anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 1. Februar 2025 erfüllt sind.[^31-9]
+<sup>11</sup> …[^31-7]
 
-<sup>12</sup> Artikel 10*f* ist nicht auf Geschäfte anwendbar, die vor dem 31. Oktober 2024 vereinbart wurden und bis zum 1. Februar 2025 erfüllt sind.[^31-10]
+<sup>12</sup> Artikel 10*f* Absätze 1 und 2 sind nicht auf Geschäfte in Bezug auf Güter der Zolltarifnummer 7601 anwendbar, die vor dem 1. Juni 2025 vereinbart wurden und bis zum 2. September 2025 erfüllt sind.[^31-8]
 
-<sup>13</sup> Artikel 11*a* Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 1. Juli 2024 vertraglich vereinbart wurden, bis zu ihrem Ablaufdatum.[^31-11]
+<sup>13</sup> Artikel 11*a* Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 1. Juli 2024 vertraglich vereinbart wurden, bis zu ihrem Ablaufdatum.[^31-9]
 
-<sup>14</sup> Artikel 24*b* Absätze 1–4 ist nicht auf Geschäfte anwendbar, die vor dem 31. Oktober 2024 vertraglich vereinbart wurden und bis zum 1. Februar 2025 erfüllt sind.[^31-12]
+<sup>14</sup> …[^31-10]
 
-[^31-1]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-2]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+<sup>15</sup> Artikel 10*c*<sup>bis</sup> Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 1. Juni 2025 vereinbart wurden und bis zum 2. September 2025 erfüllt sind.[^31-11]
+
+[^31-1]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023 ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^31-3]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^31-4]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
-[^31-5]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 30. Aug. 2023 um 18.00 Uhr ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)).
+[^31-4]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^31-5]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 [^31-6]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-7]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-8]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^31-7]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^31-8]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 [^31-9]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-10]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-11]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^31-12]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^31-10]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^31-11]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 #### Art. 32
 
@@ -1170,8 +1284,8 @@ Anhang 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/316](https://fedlex.data.admin.ch/eli/oc/2025/316) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-3]
 
@@ -1261,7 +1375,7 @@ Anhang 4a[^t-4]
 
 ## Maschinen nach Artikel 6 Absatz 1<sup>bis</sup>
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. II Abs. 2 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1272,14 +1386,21 @@ Anhang 4a[^t-4]
 <tr><td>8413 50</td><td>Andere oszillierende Verdrängerpumpen</td></tr>
 <tr><td>8421 23</td><td>Apparate zum Filtrieren der Mineralöle in Motoren mit Funken- oder Kompressionszündung</td></tr>
 <tr><td>8421 31</td><td>Luftansaugfilter für Motoren mit Funken- oder Kompressionszündung</td></tr>
+<tr><td>8425 11</td><td>Flaschenzüge mit Elektromotor</td></tr>
 <tr><td>8428 39</td><td>Andere Hebevorrichtungen und Längsförderer mit stetiger Arbeitsweise, für Waren – andere</td></tr>
 <tr><td>8429 59</td><td>Löffelbagger und andere Bagger, Schaufellader sowie Schürflader, selbstfahrend (ausg. Bagger mit um 360° drehbarem Aufbau sowie Frontschaufellader und Frontschürflader)</td></tr>
 <tr><td>8431 39</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Maschinen oder Apparate und Geräte der Nr. 8428 bestimmt (ausg. Teile von Personenaufzügen, Lastenaufzügen und Rolltreppen)</td></tr>
+<tr><td>8466 20</td><td>Werkstückhalter</td></tr>
+<tr><td>8467 29</td><td>Von Hand zu führende Werkzeuge, mit eingebautem Elektromotor (ausg. Handsägen und Handbohrmaschinen)</td></tr>
 <tr><td>8471 30</td><td>Tragbare automatische Datenverarbeitungsmaschinen, , mit einem Gewicht von nicht mehr als 10 kg, mindestens einer Zentraleinheit, einer Tastatur und einen Bildschirm enthaltend</td></tr>
 <tr><td>8471 70</td><td>Speichereinheiten für automatische Datenverarbeitungsmaschinen</td></tr>
+<tr><td>8474 39</td><td>Maschinen und Apparate zum Mischen oder Kneten festen mineralischen Stoffen (ausg. Beton- und Mörtelmischmaschinen, Maschinen zum Mischen mineralischer Stoffe mit Bitumen sowie Kalander)</td></tr>
 <tr><td>8481 20</td><td>Ventile für ölhydraulische oder pneumatische Energieübertragungen</td></tr>
+<tr><td>8482 99</td><td>Teile von Wälzlagern, ausg. deren Wälzkörper</td></tr>
+<tr><td>8483 50</td><td>Schwungräder, Riemen- und Seilscheiben, einschliesslich Rollenblöcke für Flaschenzüge</td></tr>
 <tr><td>8502 20</td><td>Stromerzeugungsaggregate, angetrieben durch Kolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
 <tr><td>8507 10</td><td>Blei-Akkumulatoren, der zum Starten von Kolbenmotoren verwendeten Art</td></tr>
+<tr><td>8511 10</td><td>Zündkerzen</td></tr>
 </table>
 
 Anhang 5[^t-5]
@@ -1339,6 +1460,22 @@ Anhang 7a[^t-7]
 <tr><td>ex 2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh, ausgenommen Erdgaskondensate aus Flüssigerdgasproduktionsanlagen</td></tr>
 </table>
 
+Anhang 7b[^t-8]
+
+(Art. 10*c*<sup>bis</sup> Abs. 1)
+
+## Software für den Energiesektor
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+
+- 1\. Software für die Exploration und Berechnung von Lagerstätten
+- 2\. Software für die Berechnung, Verarbeitung und Analyse seismischer Daten
+- 3\. Software für geologische Untersuchungen sowie für die jeweilige Charakterisierung / Modellierung / Visualisierung / Berechnung
+- 4\. Software für Bohrungen, für die Planung von Bohrprozessen und für Bohrloch-Trajektorien von Bohrprozessen
+- 5\. Software für Trägheitsnavigationssysteme für Bohrungen
+- 6\. Software für Bohrlochüberwachung in Echtzeit
+- 7\. Software zur Beobachtung und Sicherung in der Erdöl- und Erdgasförderung
+
 Anhang 8
 
 (Art. 11 Abs. 1 Bst. b)
@@ -1388,7 +1525,7 @@ Anhang 11
 <tr><td>73</td><td>Waren aus Gusseisen, Eisen oder Stahl</td></tr>
 </table>
 
-Anhang 11a[^t-8]
+Anhang 11a[^t-9]
 
 (Art. 11*a* Abs. 1)
 
@@ -1396,7 +1533,7 @@ Anhang 11a[^t-8]
 
 [^annex11a-lvlu1-1]
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 [^annex11a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 12
@@ -1410,7 +1547,7 @@ Anhang 12
 <tr><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 </table>
 
-Anhang 13[^t-9]
+Anhang 13[^t-10]
 
 (Art. 12 Abs. 1 Bst. a und 5, 25 Abs. 1 sowie 27 Bst. c)
 
@@ -1418,7 +1555,7 @@ Anhang 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), vom 4. April 2025 ([AS 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) und vom 10. April 2025, in Kraft seit 11. April 2025 ([AS 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
+[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), vom 4. April 2025 ([AS 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)) und vom 10. April 2025, in Kraft seit 11. April 2025 ([AS 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)).
 [^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/240](https://fedlex.data.admin.ch/eli/oc/2025/240) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
@@ -1431,7 +1568,7 @@ Anhang 14
 
 [^annex14-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 15[^t-10]
+Anhang 15[^t-11]
 
 (Art. 23)
 
@@ -1439,16 +1576,16 @@ Anhang 15[^t-10]
 
 [^annex15-lvlu1-1]
 
-[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^t-11]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex15-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 16[^t-11]
+Anhang 16[^t-12]
 
 (Art. 10*a* Abs. 1–3 und 5 sowie 27*a* Abs. 1)
 
 ## Güter zur Verwendung für die Luft- und Raumfahrt
 
-[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Aug. 2023 ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-12]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Aug. 2023 ([AS 2023 475](https://fedlex.data.admin.ch/eli/oc/2023/475)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1469,13 +1606,13 @@ Anhang 16[^t-11]
 <tr><td>9026</td><td>Instrumente, Apparate und Geräte zum Messen oder Überwachen von Durchfluss, Füllhöhe, Druck oder anderen veränderlichen Grössen von Flüssigkeiten oder Gasen (z. B. Durchflussmesser, Flüssigkeitsstand- oder Gasstandanzeiger, Manometer, Wärmemengenzähler), ausgenommen Instrumente, Apparate und Geräte der Position 9014, 9015, 9028 oder 9032</td></tr>
 </table>
 
-Anhang 17[^t-12]
+Anhang 17[^t-13]
 
 (Art. 10*b* Abs. 1 und 27*a* Abs. 1)
 
 ## Güter und Technologien der Seeschifffahrt
 
-[^t-12]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### Kategorie VI – Meeres- und Schiffstechnik
 
@@ -1496,13 +1633,13 @@ Anhang 17[^t-12]
 <tr><td>ex 8517</td><td>Telefonapparate, einschliesslich Smartphones und andere Telefone für zellulare Netze und für andere drahtlose Netze; andere Sende-, Übermittlungs- oder Empfangsgeräte für Sprache, Bilder oder andere Daten, einschliesslich Apparate für den Informationsaustausch in einem drahtgebundenen oder drahtlosen Netz (wie ein lokales Netz [LAN] oder ein Weitverkehrsnetz [WAN]), andere als solche der Nr. 8443, 8525, 8527 oder 8528 (einschl. Teile)</td></tr>
 </table>
 
-Anhang 18[^t-13]
+Anhang 18[^t-14]
 
 (Art. 10*c* Abs. 1 und 5 sowie 27*a* Abs. 1)
 
 ## Güter für die Ölraffination und die Verflüssigung von Erdgas
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th colspan="2">Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1511,7 +1648,7 @@ Anhang 18[^t-13]
 <tr><td>ex</td><td>8419 60, 8419 89, 8421 39</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschl. Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
 </table>
 
-Anhang 19[^t-14]
+Anhang 19[^t-15]
 
 (Art. 10*d* Abs. 1 und 27*a* Abs. 1)
 
@@ -1519,32 +1656,43 @@ Anhang 19[^t-14]
 
 [^annex19-lvlu1-1]
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex19-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/598](https://fedlex.data.admin.ch/eli/oc/2024/598) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
+[^annex19-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/316](https://fedlex.data.admin.ch/eli/oc/2025/316) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 20[^t-15]
+Anhang 20[^t-16]
 
 (Art. 10*d* Abs. 2)
 
 ## Güter zur Stärkung der Industrie nach Artikel 10*d* Absatz 2
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. II Abs. 2 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 <table>
 <tr><th colspan="2">Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td>ex</td><td>2710 19 11, 19 19</td><td>Flugturbinenkraftstoff auf Petroleumbasis</td></tr>
 <tr><td></td><td>2710 19 11, 19 19, 19 91, 19 99</td><td>Mittelschwere Öle und Zubereitungen aus Erdöl oder bituminösen Materialien</td></tr>
 <tr><td></td><td>3811</td><td>Zubereitete Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschl. Kraftstoffe) oder für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten</td></tr>
-<tr><td></td><td>8705 10</td><td>Kranwagen</td></tr>
+<tr><td></td><td>3815 12</td><td>Auf Trägern fixierte Katalysatoren, mit Edelmetall oder einer Edelmetallverbindung als Aktivsubstanz</td></tr>
+<tr><td></td><td>7219 21</td><td>Flachgewalzte Erzeugnisse aus rostfreiem Stahl, mit einer Breite von 600 mm oder mehr, nur warm gewalzt, nicht aufgerollt, mit einer Dicke von mehr als 10 mm</td></tr>
+<tr><td></td><td>7225 40</td><td>Flachgewalzte Erzeugnisse aus anderem legierten Stahl, mit einer Breite von 600 mm oder mehr, andere, nur warm gewalzt, nicht aufgerollt (ausg. aus Silicium-Elektrostahl)</td></tr>
+<tr><td></td><td>7304 29</td><td>Futterrohre, Steigrohre und Bohrgestänge, der bei der Öl- oder Gasgewinnung verwendeten Art (ausg. aus Gusseisen) – andere</td></tr>
+<tr><td></td><td>7311 00</td><td>Behälter für verdichtete oder verflüssigte Gase, aus Gusseisen, Eisen oder Stahl (ausg. Warenbehälter [Container], speziell für eine oder mehrere Beförderungsarten gebaut oder ausgestattet)</td></tr>
+<tr><td></td><td>8456 30</td><td>Werkzeugmaschinen zum Abtragen von Stoffen aller Art mit Elektroerosion arbeitend</td></tr>
+<tr><td></td><td>8460</td><td>Werkzeugmaschinen zum Entgraten, Schärfen, Schleifen, Honen, Polieren oder zu anderem Feinbearbeiten von Metallen oder Cermets, mit Hilfe von Schleifscheiben oder Schleif- oder Poliermitteln, andere als Verzahnmaschinen und Zahnfertigbearbeitungsmaschinen der Nr. 8461</td></tr>
+<tr><td></td><td>8515 19</td><td>Teile von elektrischen Maschinen und Apparate zum Löten oder Schweissen (ausg. Lötkolben und -pistolen)</td></tr>
+<tr><td></td><td>8543 30</td><td>Maschinen und Apparate für die Galvanoplastik, Elektrolyse oder Elektrophorese</td></tr>
+<tr><td></td><td>8705 10</td><td>Kranwagen (Autokrane)</td></tr>
+<tr><td></td><td>8708 99</td><td>Andere Teile und Zubehör für Motorfahrzeuge der Nrn. 8701–8705</td></tr>
+<tr><td></td><td>9024</td><td>Maschinen, Apparate und Geräte zum Prüfen der Härte, Zugfestigkeit, Druckfestigkeit, Elastizität oder anderer mechanischer Eigenschaften von Materialien (z. B. Metallen, Holz, Textilien, Papier, Kunststoffen)</td></tr>
 </table>
 
-Anhang 21[^t-16]
+Anhang 21[^t-17]
 
 (Art. 10*e* Abs. 1 und 27*a* Abs. 1)
 
 ## Luxusgüter
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artikel 10*e* für Luxusgüter mit einem Stückpreis von über 300 Franken.
 
@@ -1673,13 +1821,13 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td>ex</td><td>9013 80</td><td>Rotpunktvisier</td></tr>
 </table>
 
-Anhang 22[^t-17]
+Anhang 22[^t-18]
 
 (Art. 10*f* Abs. 1)
 
 ## Wirtschaftlich bedeutende Güter
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. II Abs. 2 der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
 
 <table>
 <tr><th colspan="2">Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1689,14 +1837,23 @@ Anhang 22[^t-17]
 <tr><td></td><td>2208</td><td>Ethylalkohol, nicht denaturiert, mit einem Alkoholgehalt von weniger als 80 % Vol; Branntwein, Likör und andere Spirituosen:</td></tr>
 <tr><td></td><td>2303</td><td>Rückstände aus der Stärkegewinnung und ähnliche Rückstände, ausgelaugte Rübenschnitzel, Bagasse und andere Abfälle aus der Zuckergewinnung, Treber, Schlempen und Abfälle aus Brauereien oder Brennereien, auch in Form von Pellets</td></tr>
 <tr><td></td><td>2402</td><td>Zigarren (einschl. Stumpen), Zigarillos und Zigaretten, aus Tabak oder Tabakersatzstoffen</td></tr>
+<tr><td></td><td>2523</td><td>Zement (einschl. Zementklinker), auch gefärbt</td></tr>
 <tr><td></td><td>2701</td><td>Steinkohle; Briketts und ähnliche feste Brennstoffe aus Steinkohle</td></tr>
 <tr><td></td><td>2702</td><td>Braunkohle, auch agglomeriert, ausgenommen Jett</td></tr>
 <tr><td></td><td>2703</td><td>Torf (einschl. Torfstreu), auch agglomeriert</td></tr>
 <tr><td></td><td>2704</td><td>Koks und Schwelkoks, aus Steinkohle, Braunkohle oder Torf, auch agglomeriert; Retortenkohle</td></tr>
 <tr><td></td><td>2705</td><td>Steinkohlengas, Wassergas, Schwachgas und ähnliche Gase, ausgenommen Erdgas und andere gasförmige Kohlenwasserstoffe</td></tr>
 <tr><td></td><td>2706</td><td>Teer aus Steinkohle, Braunkohle oder Torf und andere Mineralteere, auch entwässert oder teilweise destilliert, einschliesslich rekonstituierter Teere</td></tr>
+<tr><td></td><td>2707</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nicht aromatischen Bestandteilen überwiegen</td></tr>
 <tr><td></td><td>2708</td><td>Pech und Pechkoks aus Steinkohlenteer oder anderen Mineralteeren</td></tr>
+<tr><td></td><td>2711 12</td><td>Propan, verflüssigt</td></tr>
+<tr><td></td><td>2711 13</td><td>Butane, verflüssigt</td></tr>
+<tr><td></td><td>2711 14</td><td>Ethylen, Propylen, Butylen und Butadien, verflüssigt</td></tr>
+<tr><td></td><td>2711 19</td><td>Gasförmige Kohlenwasserstoffe, verflüssigt – andere</td></tr>
+<tr><td></td><td>2712</td><td>Vaselin; Paraffin, mikrokristallines Erdölwachs, paraffinische «slack wax», Ozokerit, Montanwachs, Torfwachs, andere Mineralwachse und ähnliche durch Synthese oder andere Verfahren gewonnene Erzeugnisse, auch gefärbt</td></tr>
+<tr><td></td><td>2713</td><td>Petrolkoks, Bitumen aus Erdöl und andere Rückstände aus Erdölen oder Ölen aus bituminösen Mineralien</td></tr>
 <tr><td></td><td>2714</td><td>Naturbitumen und Naturasphalt; bituminöse Schiefer und Sande; Asphaltite und Asphaltgestein</td></tr>
+<tr><td></td><td>2715</td><td>Bituminöse Mischungen auf der Grundlage von Naturasphalt oder Naturbitumen, Bitumen aus Erdöl, Mineralteer oder Mineralteerpech (z. B. Asphaltmastix, Verschnittbitumen)</td></tr>
 <tr><td></td><td>2803</td><td>Kohlenstoff (Russ und andere Formen von Kohlenstoff, anderweit weder genannt noch inbegriffen)</td></tr>
 <tr><td>ex</td><td>2804 29</td><td>Helium</td></tr>
 <tr><td></td><td>2811</td><td>Andere anorganische Säuren und andere anorganische Sauerstoffverbindungen der nichtmetallischen Elemente</td></tr>
@@ -1719,6 +1876,10 @@ Anhang 22[^t-17]
 <tr><td></td><td>2923</td><td>Quaternäre Ammoniumsalze und hydroxide; Lecithine und andere Phosphoaminolipoide, auch chemisch nicht einheitlich</td></tr>
 <tr><td></td><td>2931</td><td>Andere organisch-anorganische Verbindungen</td></tr>
 <tr><td></td><td>2933</td><td>Heterocyclische Verbindungen mit ausschliesslich Stickstoff als Heteroatom(e)</td></tr>
+<tr><td></td><td>3104 20</td><td>Kaliumchlorid</td></tr>
+<tr><td></td><td>3105 20</td><td>Düngemittel, mineralische oder chemische, die drei düngenden Elemente Stickstoff, Phosphor und Kalium enthaltend</td></tr>
+<tr><td></td><td>3105 60</td><td>Düngemittel, mineralische oder chemische, die zwei düngenden Elemente Phosphor und Kalium enthaltend</td></tr>
+<tr><td>ex</td><td>3105 90</td><td>andere Düngemittel, Kaliumchlorid enthaltend</td></tr>
 <tr><td></td><td>3301</td><td>Ätherische Öle (auch terpenfrei gemacht), einschliesslich feste (konkrete) oder absolute; Resinoide; Extraktions-Oleoresine; Konzentrate ätherischer Öle in Fetten, nichtflüchtigen Ölen, Wachsen oder ähnlichen Stoffen, durch Enfleurage oder Mazeration gewonnen; terpenhaltige Nebenerzeugnisse aus der Herstellung terpenfreier ätherischer Öle; destillierte aromatische Wasser und wässerige Lösungen ätherischer Öle</td></tr>
 <tr><td></td><td>3304</td><td>Schönheitsmittel, Schminken und Hautpflegemittel, zubereitet, ausgenommen Arzneiwaren, einschliesslich Sonnenschutz- oder Bräunungsmittel; Zubereitungen für die Hand- oder Fusspflege</td></tr>
 <tr><td></td><td>3305</td><td>Zubereitungen für die Haarpflege</td></tr>
@@ -1749,9 +1910,11 @@ Anhang 22[^t-17]
 <tr><td></td><td>3925</td><td>Waren zu Bauzwecken, aus Kunststoffen, anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td></td><td>3926</td><td>Andere Waren aus Kunststoffen und Waren aus anderen Stoffen der Nrn. 3901–3914</td></tr>
 <tr><td></td><td>4002</td><td>Synthetischer Kautschuk und Faktis (Ölkautschuk), in Primärformen oder in Platten, Blättern oder Streifen; Mischungen von Waren der Nr. 4001 mit Waren dieser Nummer, in Primärformen oder in Platten, Blättern oder Streifen.</td></tr>
+<tr><td></td><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 <tr><td></td><td>4107</td><td>Leder, nach dem Gerben oder nach dem Trocknen zugerichtet, und Leder und Häute als Pergament- oder Rohhautleder zugerichtet, von Tieren der Rindviehgattung (einschl. Büffel) oder von Pferden und anderen Einhufern, enthaart, auch gespalten, andere als solche der Nr. 4114</td></tr>
 <tr><td></td><td>4202</td><td>Reisekoffer, Handkoffer aller Art, einschliesslich Toiletten- und Dokumentenkoffer, Aktenmappen, Schulsäcke, Brillenetuis, Etuis für Ferngläser, Fotoapparate, Filmkameras, Musikinstrumente oder Waffen und ähnliche Behältnisse; Reisetaschen, Isoliertaschen für Lebensmittel und Getränke, Toilette-Necessaires, Rucksäcke, Handtaschen, Einkaufstaschen, Brieftaschen, Geldbeutel, Kartentaschen, Zigarettenetuis, Tabakbeutel, Werkzeugtaschen, Taschen für Sportgeräte, Schachteln für Flakons oder Schmuck, Puderdosen, Etuis für Gold- und Silberschmiedewaren und ähnliche Behältnisse aus Leder, rekonstituiertem Leder, Kunststofffolien, Spinnstoffen, Vulkanfiber oder Pappe, oder ganz oder vorwiegend mit diesen Stoffen oder Papier überzogen</td></tr>
 <tr><td></td><td>4301</td><td>Rohe Pelzfelle (einschl. Köpfe, Schwänze, Klauen und andere zu Kürschnerzwecken verwendbare Teile), ausgenommen rohe Häute und Felle der Nr. 4101, 4102 oder 4103</td></tr>
+<tr><td></td><td>44</td><td>Holz, Holzkohle und Holzwaren</td></tr>
 <tr><td></td><td>4703</td><td>Chemische Halbstoffe aus Holz (Natron- oder Sulfat-Holzzellstoff), andere als solche zum Auflösen</td></tr>
 <tr><td></td><td>4705</td><td>Halbstoffe aus Holz, mittels einer kombinierten mechanischen und chemischen Behandlung erzeugt</td></tr>
 <tr><td></td><td>4801</td><td>Zeitungsdruckpapier, in Rollen oder Bogen</td></tr>
@@ -1773,6 +1936,7 @@ Anhang 22[^t-17]
 <tr><td></td><td>6806</td><td>Hüttenwolle, Schlackenwolle, Steinwolle und ähnliche mineralische Wollen; geblähter Vermiculit, geblähter Ton, Schaumschlacke und ähnliche geblähte mineralische Erzeugnisse; Mischungen und Waren aus mineralischen Stoffen zu Wärme-, Kälte- oder Schallisolationszwecken oder zu Schalldämpfungszwecken, ausgenommen solche der Nr. 6811 oder 6812 oder des Kapitels 69</td></tr>
 <tr><td></td><td>6807</td><td>Waren aus Asphalt oder aus ähnlichen Stoffen (z. B. Erdölpech, Kohlenteerpech)</td></tr>
 <tr><td></td><td>6808</td><td>Platten, Dielen, Fliesen, Blöcke und ähnliche Waren, aus Pflanzenfasern, Stroh oder Holzspänen, -plättchen, -schnitzeln, -sägespänen oder anderen Holzabfällen, mit Zement, Gips oder anderen mineralischen Bindemitteln agglomeriert</td></tr>
+<tr><td></td><td>6810</td><td>Waren aus Zement, Beton oder Kunststein, auch armiert</td></tr>
 <tr><td></td><td>6814</td><td>Bearbeiteter Glimmer und Waren aus Glimmer, einschliesslich agglomerierter oder wiedergewonnener Glimmer, auch auf Unterlage aus Papier, Pappe oder anderen Stoffen</td></tr>
 <tr><td></td><td>6815</td><td>Waren aus Steinen oder anderen mineralischen Stoffen (einschl. Kohlenstofffasern und Waren daraus sowie Waren aus Torf), anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td></td><td>6902</td><td>Feuerfeste Steine, Platten, Fliesen und ähnliche keramische Bauteile, andere als solche aus kieselsaurem Fossilienmehl oder aus ähnlichen kieselsauren Erden</td></tr>
@@ -1785,7 +1949,12 @@ Anhang 22[^t-17]
 <tr><td></td><td>7106</td><td>Silber (einschl. vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7112</td><td>Abfälle und Schrott aus Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden, andere als Waren der Nr. 8549</td></tr>
 <tr><td></td><td>7115</td><td>Andere Waren aus Edelmetallen oder Edelmetallplattierungen</td></tr>
+<tr><td></td><td>7201</td><td>Roheisen und Spiegeleisen, in Masseln, Flossen oder anderen Rohformen</td></tr>
+<tr><td></td><td>7202</td><td>Ferrolegierungen</td></tr>
+<tr><td></td><td>7203</td><td>Durch Direktreduktion aus Eisenerzen erhaltene Eisenerzeugnisse und anderer Eisenschwamm, in Stücken, Pellets oder ähnlichen Formen; Eisen mit einer minimalen Reinheit von 99,94 Gewichtsprozent, in Stücken, Pellets oder ähnlichen Formen</td></tr>
+<tr><td></td><td>7205</td><td>Körner und Pulver, aus Roheisen, Spiegeleisen, Eisen oder Stahl</td></tr>
 <tr><td></td><td>7408</td><td>Draht aus Kupfer</td></tr>
+<tr><td></td><td>7601</td><td>Aluminium in Rohform</td></tr>
 <tr><td></td><td>7604</td><td>Stäbe, Stangen und Profile, aus Aluminium</td></tr>
 <tr><td></td><td>7605</td><td>Draht aus Aluminium</td></tr>
 <tr><td></td><td>7606</td><td>Bleche und Bänder, aus Aluminium, mit einer Dicke von mehr als 0,2 mm</td></tr>
@@ -1820,7 +1989,7 @@ Anhang 22[^t-17]
 <tr><td></td><td>8479</td><td>Maschinen und mechanische Apparate mit eigenständiger Funktion, in Kapitel 84 anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td></td><td>8480</td><td>Giesserei-Formkästen; Modellplatten; Giessereimodelle; Formen für Metalle (andere als solche zum Giessen von Ingots, Masseln oder dergleichen), für Metallcarbide, Glas, mineralische Stoffe, Kautschuk oder Kunststoffe</td></tr>
 <tr><td></td><td>8481</td><td>Armaturen und ähnliche Apparate für Rohr- oder Schlauchleitungen, Dampfkessel, Sammelbehälter, Wannen oder ähnliche Behälter, einschliesslich Druckminderventile und thermostatisch gesteuerte Ventile</td></tr>
-<tr><td></td><td>8482</td><td>Wälzlager (Kugellager, Rollenlager und Nadellager</td></tr>
+<tr><td></td><td>8482</td><td>Wälzlager (Kugellager, Rollenlager und Nadellager)</td></tr>
 <tr><td></td><td>8483</td><td>Transmissionswellen (einschl. Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse und Lagerschalen; Zahnradgetriebe und Friktionsräder; Umlaufspindeln mit Kugeln oder Rollen; Untersetzungs-, Übersetzungs- und Wechselgetriebe, einschliesslich Drehmomentwandler; Schwungräder, Riemen- und Seilscheiben, einschliesslich Rollenblöcke für Flaschenzüge; Schaltkupplungen und andere Wellenkupplungen, einschliesslich Gelenkverbindungen</td></tr>
 <tr><td></td><td>8487</td><td>Teile von Maschinen oder Apparaten, in Kapitel 84 anderweit weder genannt noch inbegriffen, ausgenommen Teile mit elektrischen Anschlussstücken, elektrischen Isolierungen, Wicklungen, Kontakten oder anderen charakteristischen Merkmalen elektrotechnischer Waren</td></tr>
 <tr><td></td><td>8501</td><td>Elektromotoren und elektrische Generatoren, ausgenommen Stromerzeugungsaggregate</td></tr>
@@ -1871,13 +2040,13 @@ Anhang 22[^t-17]
 <tr><td></td><td>9406</td><td>Vorgefertigte Gebäude</td></tr>
 </table>
 
-Anhang 23[^t-18]
+Anhang 23[^t-19]
 
 (Art. 10*g* Abs. 1 und 2)
 
 ## Gold
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1886,13 +2055,13 @@ Anhang 23[^t-18]
 <tr><td>ex 7118 90</td><td>Goldmünzen</td></tr>
 </table>
 
-Anhang 24[^t-19]
+Anhang 24[^t-20]
 
 (Art. 10*g* Abs. 3)
 
 ## Gold enthaltende Erzeugnisse
 
-[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1900,13 +2069,13 @@ Anhang 24[^t-19]
 <tr><td>ex 7114</td><td>Gold- und Silberschmiedewaren und Teile davon, aus Gold oder Gold erhaltend oder aus Goldplattierungen</td></tr>
 </table>
 
-Anhang 25[^t-20]
+Anhang 25[^t-21]
 
 (Art. 10*h* Abs. 1, 2 und 4)
 
 ## Diamanten und Erzeugnisse mit Diamanten
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### 1. Natürliche Diamanten
 
@@ -1936,13 +2105,13 @@ Anhang 25[^t-20]
 <tr><td>ex</td><td>9101</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschl. Stoppuhren vom gleichen Typ, in Verbindung mit Diamanten), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td></tr>
 </table>
 
-Anhang 26[^t-21]
+Anhang 26[^t-22]
 
 (Art. 11*a* Abs. 1)
 
 ## Flugturbinenkraftstoffe und Kraftstoffadditive
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-22]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 <table>
 <tr><th colspan="2">Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1976,13 +2145,13 @@ Anhang 26[^t-21]
 <tr><td>ex</td><td>3811 90</td><td>Thermostabilitätsverbesserer für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten</td></tr>
 </table>
 
-Anhang 27[^t-22]
+Anhang 27[^t-23]
 
 (Art. 24*b* Abs. 4)
 
 ## Software für Unternehmensführung sowie Entwurfs- und Fertigungssoftware
 
-[^t-22]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^t-23]: Eingefügt durch Ziff. II Abs. 3 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 ### 1. Software für Unternehmensführung
 
