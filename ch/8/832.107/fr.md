@@ -3,18 +3,18 @@ sr: "832.107"
 title: Ordonnance du 23 juin 2021 sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/391"
 language: fr
-version: 2021-07-01
+version: 2025-06-01
 adopted: 2021-06-23
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-391-20210701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-391-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires
 
-du 23 juin 2021 (État le 1<sup>er</sup> juillet 2021)
+du 23 juin 2021 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -106,11 +106,12 @@ L’offre de médecins au sens de l’art. 2, le besoin en prestations médicale
 - a. le volume de points selon la structure tarifaire pour les prestations médicales obligatoires;
 - b. les prestations brutes à la charge de l’assurance obligatoire des soins;
 - c. le nombre de consultations;
-- d. les relevés de l’Office fédéral de la statistique, notamment les données structurelles des cabinets médicaux et des centres ambulatoires et les données des patients ambulatoires des hôpitaux et des maisons de naissance au sens de l’annexe 1, ch. 193 et 194, de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^8-1];
-- e. les données relatives aux médecins du registre des professions médicales au sens de l’ordonnance du 5 avril 2017 concernant le registre LPMéd[^8-2].
+- d.[^8-1] les relevés par l’Office fédéral de la statistique des données des fournisseurs de prestations au sens de l’art. 59*a* LAMal, notamment les données structurelles des cabinets médicaux et des centres ambulatoires et les données des patients ambulatoires des hôpitaux et des maisons de naissance telles que précisées dans le règlement de traitement visé à l’art. 30*c* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^8-2];
+- e. les données relatives aux médecins du registre des professions médicales au sens de l’ordonnance du 5 avril 2017 concernant le registre LPMéd[^8-3].
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^8-1]: Nouvelle teneur selon l’annexe 3 ch. 20 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^8-3]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 9
 

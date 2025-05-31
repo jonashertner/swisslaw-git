@@ -3,18 +3,18 @@ sr: "832.107"
 title: Ordinanza del 23 giugno 2021 sulla determinazione di numeri massimi di medici nel settore ambulatoriale
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/391"
 language: it
-version: 2021-07-01
+version: 2025-06-01
 adopted: 2021-06-23
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-391-20210701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2021-391-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla determinazione di numeri massimi di medici nel settore ambulatoriale
 
-del 23 giugno 2021 (Stato 1° luglio 2021)
+del 23 giugno 2021 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -106,11 +106,12 @@ Per il calcolo dell’offerta di medici ai sensi dell’articolo 2, per dedurre 
 - a. il volume dei punti della struttura tariffaria per le prestazioni mediche ambulatoriali;
 - b. le prestazioni lorde dell’assicurazione obbligatoria delle cure medico-sanitarie;
 - c. il numero di consultazioni;
-- d. le rilevazioni dell’Ufficio federale di statistica, in particolare i dati strutturali degli studi medici e dei centri ambulatoriali e i dati ambulatoriali degli ospedali e delle case per partorienti secondo l’allegato 1 numeri 193 e 194 dell’ordinanza del 30 giugno 1993[^8-1] sulle rilevazioni statistiche;
-- e. i dati relativi ai medici del registro delle professioni mediche secondo l’ordinanza del 5 aprile 2017[^8-2] sul registro LPMed.
+- d.[^8-1] le rilevazioni dell’Ufficio federale di statistica dei dati dei fornitori di prestazioni ai sensi dell’articolo 59*a* LAMal, segnatamente i dati strutturali degli studi medici e dei centri ambulatoriali e i dati dei pazienti ambulatoriali degli ospedali e delle case per partorienti secondo il regolamento per il trattamento di cui all’articolo 30*c* dell’ordinanza del 27 giugno 1995[^8-2] sull’assicurazione-malattie;
+- e. i dati relativi ai medici del registro delle professioni mediche secondo l’ordinanza del 5 aprile 2017[^8-3] sul registro LPMed.
 
-[^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^8-1]: Nuovo testo giusta l’all. 3 n. 20 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^8-3]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 9
 

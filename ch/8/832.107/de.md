@@ -3,18 +3,18 @@ sr: "832.107"
 title: Verordnung vom 23. Juni 2021 über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/391"
 language: de
-version: 2021-07-01
+version: 2025-06-01
 adopted: 2021-06-23
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-391-20210701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/391/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2021-391-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/391/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich
 
-vom 23. Juni 2021 (Stand am 1. Juli 2021)
+vom 23. Juni 2021 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -101,16 +101,18 @@ Im Rahmen der Verpflichtung zur interkantonalen Koordination nach Artikel 55*a* 
 
 **Grundlagen**
 
-Für die Ermittlung des Angebots an Ärztinnen und Ärzten nach Artikel 2, für die Herleitung des Bedarfs an ärztlichen Leistungen nach Artikel 3, für Ein- und Zuteilung der medizinischen Fachgebiete nach Artikel 4 und für die Festlegung des Gewichtungsfaktors nach Artikel 5 Absatz 2 werden namentlich folgende Grundlagen beigezogen:
+Für die Ermittlung des Angebots an Ärztinnen und Ärzten nach Artikel 2, für die Herleitung des Bedarfs an ärztlichen Leistungen nach Artikel 3, für die Ein- und die Zuteilung der medizinischen Fachgebiete nach Artikel 4 und für die Festlegung des Gewichtungsfaktors nach Artikel 5 Absatz 2 werden namentlich folgende Grundlagen beigezogen:[^8-1]
 
 - a. Taxpunktvolumen der Tarifstruktur für ambulante ärztliche Behandlungen;
 - b. Bruttoleistungen der obligatorischen Krankenpflegeversicherung;
 - c. Anzahl Konsultationen;
-- d. Erhebungen des Bundesamtes für Statistik, namentlich die Strukturdaten von Arztpraxen und ambulanten Zentren und die ambulanten Patientendaten von Spitälern und Geburtshäusern nach Anhang 1 Ziffern 193 und 194 der Statistikerhebungsverordnung vom 30. Juni 1993[^8-1];
-- e. Daten aus dem Medizinalberuferegister nach der Registerverordnung MedBG vom 5. April 2017[^8-2] zu Ärztinnen und Ärzten.
+- d.[^8-2] Erhebungen durch das Bundesamt für Statistik der Daten der Leistungserbringer nach Artikel 59*a* KVG, namentlich die Strukturdaten von Arztpraxen und ambulanten Zentren und die ambulanten Patientendaten von Spitälern und Geburtshäusern nach dem Bearbeitungsreglement nach Artikel 30*c* der Krankenversicherungsverordnung vom 27. Juni 1995[^8-3];
+- e. Daten aus dem Medizinalberuferegister nach der Registerverordnung MedBG vom 5. April 2017[^8-4] zu Ärztinnen und Ärzten.
 
-[^8-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^8-2]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^8-1]: Fassung gemäss Anhang 3 Ziff. 20 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-2]: Fassung gemäss Anhang 3 Ziff. 20 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^8-4]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 9
 
