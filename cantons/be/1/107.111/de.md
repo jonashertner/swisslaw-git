@@ -4,13 +4,13 @@ number: "107.111"
 title: Verordnung über die Information und die Medienförderung
 short: IMV
 language: de
-version: 2024-01-01
-valid_until: 2025-05-31
-version_adopted: 2023-11-15
+version: 2025-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-04-30
 adopted: 2023-11-15
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/107.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2941/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2941/pdf_file"
 
 (IMV)
 
-vom 15.11.2023 (Stand 01.01.2024)
+vom 15.11.2023 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -310,13 +310,14 @@ beschliesst:
 
 <sup>4</sup> Für die Unterstützung von Trägerschaften digitaler Infrastrukturen (Art. 34c Abs. 1 Bst. b IMG) gelten die Absätze 1 bis 3 sinngemäss.
 
-### 3.2 Massnahmen zur Förderung der politischen Bildung
+### 3.2 Massnahmen zur Förderung der politischen Bildung (Art. 34l IMG)
 
 #### Art. 27
 
-**Förderungsmassnahmen (Art. 34l IMG)**
+<sup>1</sup> Der Kanton kann
 
-<sup>1</sup> Der Kanton kann den Verein «Polit-Forum Bern» für das Wirken im Bereich der politischen Bildung mit jährlichen Betriebsbeiträgen von höchstens 20 Prozent des ausgewiesenen Finanzbedarfs unterstützen.
+- a den Verein «Polit-Forum Bern» für das Wirken im Bereich der politischen Bildung mit jährlichen Betriebsbeiträgen von höchstens 20 Prozent des ausgewiesenen Finanzbedarfs unterstützen,
+- b den Verein «Jugendparlament Kanton Bern» thematisch und logistisch sowie gemäss Absatz 2 finanziell unterstützen.
 
 <sup>2</sup> Die Unterstützung weiterer Institutionen mit Angeboten auf dem Gebiet der politischen Bildung, insbesondere zur Förderung der politischen Bildung von Jugendlichen, erfolgt durch die Gewährung von Betriebs- oder Projektbeiträgen. Die Beiträge belaufen sich in beiden Fällen auf höchstens 20'000 Franken pro Jahr und Institution, wobei die Beitragsempfängerin oder der Beitragsempfänger angemessene Eigenleistungen erbringen muss.
 

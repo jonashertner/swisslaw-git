@@ -4,13 +4,13 @@ number: "107.111"
 title: "Ordonnance sur l'information et l'aide aux médias"
 short: OIAM
 language: fr
-version: 2024-01-01
-valid_until: 2025-05-31
-version_adopted: 2023-11-15
+version: 2025-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-04-30
 adopted: 2023-11-15
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/107.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2941/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3176/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2941/pdf_file"
 
 (OIAM)
 
-du 15.11.2023 (état au 01.01.2024)
+du 15.11.2023 (état au 01.06.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -310,13 +310,14 @@ arrête:
 
 <sup>4</sup> Les alinéas 1 à 3 s'appliquent par analogie au soutien d'organismes responsables d'infrastructures numériques (art. 34c, al. 1, lit. b LIAM).
 
-### 3.2 Mesures de promotion de la formation politique
+### 3.2 Mesures de promotion de la formation politique (art. 34l LIAM)
 
 #### Art. 27
 
-**Mesures de promotion (art. 34l LIAM)**
+<sup>1</sup> Le canton peut
 
-<sup>1</sup> Le canton peut soutenir l'association «Forum politique Berne» pour ses activités dans le domaine de la formation politique au moyen de subventions annuelles à l'exploitation s'élevant au maximum à 20 pour cent du besoin de financement avéré.
+- a soutenir l'association «Forum politique Berne» pour ses activités dans le domaine de la formation politique au moyen de subventions annuelles à l'exploitation s'élevant au maximum à 20 pour cent du besoin de financement avéré;
+- b soutenir l'association «Jugendparlament Kanton Bern» sur les plans thématique et logistique ainsi que financier conformément à l'alinéa 2.
 
 <sup>2</sup> Le soutien à d'autres institutions proposant des offres dans le domaine de la formation politique, en particulier auprès des jeunes, prend la forme de subventions à l'exploitation ou à des projets. Les montants n'excèdent pas 20'000 francs par an et par institution dans les deux cas, les bénéficiaires devant fournir des prestations propres adéquates.
 
