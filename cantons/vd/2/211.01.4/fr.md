@@ -4,7 +4,7 @@ number: "211.01.4"
 title: RÈGLEMENT du 22.06.2010 sur les médiateurs civils agréés (RMCA)
 short: RMCA
 language: fr
-version: 2024-07-15
+version: 2025-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.01.4?id=890e27d0-9a1c-4282-ae21-e245383c8480"
 ---
 
@@ -204,13 +204,13 @@ arrête
 
 **Rémunération du médiateur [^chapterChapitreVI-1]**
 
-<sup>1</sup> Lorsque l'assistance judiciaire a été octroyée en application de l'article 39c CDPJ[^14-1] ou que les parties ont droit à la gratuité de la médiation en application de l'art. 218 al. 2 CPC, la rémunération du médiateur est fixée selon le tarif horaire suivant:
+<sup>1</sup> Lorsque l'assistance judiciaire a été octroyée en application de l'article 39c CDPJ ou que les parties ont droit à la gratuité de la médiation en application de l'art. 218 al. 2 CPC, la rémunération du médiateur est fixée à un tarif horaire de 180 francs.
 
-- a. Séances de médiation avec les parties: 180 fr.
-- b. Entretiens séparés avec les parties: 180 fr.
-- c. Autres opérations: 80 fr.
+- a. ...
+- b. ...
+- c. ...
 
-<sup>2</sup> Les débours sont forfaitairement compris dans le tarif horaire. L'éventuel déplacement est défrayé à hauteur de 70 centimes par kilomètre.
+<sup>2</sup> Les débours du médiateur sont fixés conformément à l'art. 3bis al. 1 RAJ. L'éventuel déplacement est défrayé à hauteur de 70 centimes par kilomètre.
 
 <sup>3</sup> La décision fixant l'indemnité est une décision distincte du jugement au fond, prise par le juge délégué de l'autorité compétente au fond, à l'issue de la médiation.
 
@@ -219,7 +219,6 @@ arrête
 <sup>5</sup> Le médiateur peut recourir contre le montant de son indemnité selon les voies ouvertes aux conseils d'office en matière d'assistance judiciaire.
 
 [^chapterChapitreVI-1]: Modif. 2 du 25.06.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Al. 1, a-c; entrée en vigueur au 15.07.2024; Modification Al. 2; entrée en vigueur au 15.07.2024; Introduction Al. 3-5; entrée en vigueur au 15.07.2024 · Modif. 3 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, a-c; entrée en vigueur au 01.06.2025; Modification Al. 2; entrée en vigueur au 01.06.2025
-[^14-1]: Code de droit privé judiciaire vaudois du 12.01.2010 ([BLV 211.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e))
 
 ## Chapitre VII Dispositions finales
 
