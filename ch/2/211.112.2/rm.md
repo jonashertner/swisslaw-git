@@ -4,11 +4,11 @@ title: "Ordinaziun dals 28 d'avrigl 2004 davart il stadi civil (OSC)"
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: rm
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250601/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250601-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250601/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OSC)
 
-dals 28 d’avrigl 2004 (versiun dal 1. da schaner 2025)
+dals 28 d’avrigl 2004 (versiun dal 1. da zercladur 2025)
 
 Il Cussegl federal svizzer,
 
@@ -27,8 +27,8 @@ sa basond sin ils artitgels 40, 43*a*, 44 alinea 2, 45*a* alinea 3, 48 e 103 sco
 
 decretescha:
 
-[^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^ingress-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^ingress-3]: Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## 1. chapitel Disposiziuns generalas
@@ -82,7 +82,7 @@ Als uffizis dal stadi civil spezials pon els attribuir las suandantas incumbensa
 <sup>4</sup> Plirs chantuns pon furmar uffizis dal stadi civil spezials cuminaivels. En enclegientscha cun il UFSC[^2-4] fan els las cunvegnas necessarias.
 
 [^2-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^2-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^2-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^2-3]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^2-4]: Noziun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Questa midada è vegnida resguardada en l’entir decret.
 
@@ -162,9 +162,9 @@ Las represchentanzas da la Svizra a l’exteriur han en spezial las suandantas i
 [^5-5]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-6]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^5-7]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^5-8]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-8]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^5-9]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^5-10]: [SR 195.11](https://fedlex.data.admin.ch/eli/cc/2015/654)
+[^5-10]: [SR 195.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5691)
 [^5-11]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-12]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
@@ -332,13 +332,14 @@ En il register dal stadi civil vegnan administradas ulteriuras fatschentas e dat
   - 1\. constituziun d’in mandat preventiv e lieu, nua ch’el è deposità (art. 361 al. 3 CCS),
   - 2\. curatella cumplessiva u effect d’in mandat preventiv pervia d’inabilitad permanenta da giuditgar (art. 449*c* CCS);
 
-- i. indicaziuns statisticas tenor l’Ordinaziun dals 30 da zercladur 1993[^8a-3] davart las retschertgas statisticas;
+- i.[^8a-3] indicaziuns statisticas tenor l’Ordinaziun dals 30 d’avrigl 2025[^8a-4] davart la statistica federala;
 - j. indicaziuns davart la derivanza genetica u biologica d’in uffant ch’è vegnì schendrà a l’exteriur en il rom d’ina maternitad substitutiva ubain d’ina donaziun da cellas d’ov u da sperma, uschenavant che questas indicaziuns èn enconuschentas e betg gia registradas tar las datas davart la derivanza (art. 8 lit. g);
 - k. ulteriuras remartgas davart particularitads d’in tschert cas.
 
 [^8a-1]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^8a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8a-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^8a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^8a-3]: Versiun tenor la cifra 2 da l’agiunta 3 da l’Ordinaziun dals 30 d’avr. 2025 davart la statistica federala, en vigur dapi il 1. da zer. 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8a-4]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 9
 
@@ -383,7 +384,7 @@ A l’annunzia ston vegnir agiuntads ils suandants documents:
 <sup>4</sup> L’uffizi dal stadi civil tegna en salv l’annunzia ensemen cun ils auters documents. Ils artitgels 31–33 èn applitgabels tenor il senn.
 
 [^9b-1]: Integrà tras la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^9b-2]: Il formular tudestg po vegnir chargià giu gratuitamain da la pagina d’internet [www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html](https://www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html).
+[^9b-2]: Il formular tudestg po vegnir chargià giu gratuitamain da la pagina d’internet [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Gesellschaft &gt; Zivilstandswesen &gt; Formulare.
 
 #### Art. 9c
 
@@ -423,7 +424,7 @@ Sco uffant chattà vala in uffant mess a l’abandun da derivanza nunenconuschen
 
 [^11-1]: Expressiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)). Questa midada è vegnida resguardada en l’entir decret.
 [^11-2]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^11-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^11-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^11-4]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^11-5]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -445,7 +446,7 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 
 [^11b-1]: Integrà tras la cifra I da l’O dals 14 da matg 2014, en vigur dapi il 1. da fan. 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^11b-2]: La rectificaziun dal 1. da fan. 2014 concerna mo il text franzos ([AS 2014 2049](https://fedlex.data.admin.ch/eli/oc/2014/353)).
-[^11b-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^11b-3]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^11b-4]: En vigur dapi il 1. da schan. 2015.
 
 #### Art. 12
@@ -504,7 +505,7 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 <sup>5</sup> Sch’ina persuna svizra fa ina decleraziun concernent la midada da la schlattaina inscritta en il register dal stadi civil tenor l’artitgel 14*b*, vala quai sco decleraziun da vulair suttametter la schlattaina al dretg naziunal.[^14-7]
 
 [^14-1]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^14-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^14-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^14-3]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^14-4]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^14-5]: Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
@@ -610,12 +611,12 @@ Cun ina u cun pliras identitads supplementaras pon vegnir inscrits en il registe
 <sup>5</sup> La registraziun, las annunzias, las communicaziuns uffizialas e la publicaziun da las datas vegnan fatgas en il cas singul sin ordinaziun dal SIS.[^15b-10]
 
 [^15b-1]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^15b-2]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^15b-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^15b-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^15b-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^15b-6]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15b-7]: [SR 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^15b-2]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
+[^15b-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^15b-4]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^15b-5]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^15b-6]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^15b-7]: [SR 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 [^15b-8]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^15b-9]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^15b-10]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
@@ -672,7 +673,7 @@ Ina conferma en scrit davart la correctadad da las indicaziuns tenor l’artitge
 <sup>4</sup> La conferma d’autenticitad vegn archivada ensemen cun ils mussaments dal process da documentaziun.
 
 [^16a-1]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^16a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 17
 
@@ -808,8 +809,8 @@ Datas davart il stadi civil cumprovadas ston vegnir documentadas immediatamain.
 <sup>3</sup> Naschientschas e mortoris a l’exteriur, per ils quals na pon vegnir appurtads nagins documents dal stadi civil, vegnan documentads sin basa d’ina disposiziun giudiziala dal circul dal stadi civil dal lieu, nua che la dretgira cumpetenta ha sia sedia tenor il dretg chantunal (art. 40 al. 1 lit. a).
 
 [^20b-1]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^20b-2]: [SR 748.225.1](https://fedlex.data.admin.ch/eli/cc/1960/81_85_86)
-[^20b-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^20b-2]: [SR 748.225.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9101)
+[^20b-3]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 21
 
@@ -861,8 +862,8 @@ Decisiuns e documents esters davart il stadi civil da persunas estras vegnan doc
 <sup>5</sup> La denunzia dals acts chastiabels constatads e las mesiras da protecziun sa drizzan tenor l’artitgel 16 alinea 7. L’annunzia a las autoritads ch’èn cumpetentas per il plant sin nunvalaivladad d’ina lètg u d’in partenadi registrà sa drizza tenor l’artitgel 16 alinea 8.[^23-5]
 
 [^23-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^23-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^23-3]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^23-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^23-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^23-4]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^23-5]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1002,7 +1003,7 @@ Sch’in chantun na dispona – pervia d’ina mancanza da persunal temporara �
 <sup>4</sup> Ils mussaments ch’èn vegnids duvrads per documentar las datas davart il stadi civil e che vegnan transmess al Secretariat da stadi per migraziun tenor l’artitgel 2*b* da l’Ordinaziun d’asil 1 dals 11 d’avust 1999[^31-2], vegnan tegnids en salv da questa autoritad. Ella metta a disposiziun ils mussaments a las autoritads dal stadi civil.
 
 [^31-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 32
 
@@ -1091,7 +1092,7 @@ Obligads d’annunziar la mort èn:
 [^35-3]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Versiun da la segunda frasa tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-5]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^35-6]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-6]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 [^35-7]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^35-8]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-9]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
@@ -1237,7 +1238,7 @@ Las autoritads administrativas communitgeschan las suandantas disposiziuns:
 [^41-1]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^41-2]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^41-3]: Integrà tras la cifra I da l’O dals 4 da zer. 2010 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Versiun tenor la cifra II 4 da l’agiunta da l’O dal dretg da burgais dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^41-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^41-4]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 
 #### Art. 42
 
@@ -1399,7 +1400,7 @@ Sch’i n’è betg previs in formular u sche sia utilisaziun n’è betg cunveg
 <sup>3</sup> Per la legalisaziun da documents da partenza electronics tenor l’artitgel 18*a* alinea 2 vala l’Ordinaziun dals 8 da december 2017[^47a-2] davart l’emissiun da documents publics electronics e da legalisaziuns electronicas (ODPE), en spezial l’artitgel 17 ODPE.
 
 [^47a-1]: Integrà tras la cifra II 2 da l’agiunta da l’O dals 8 da dec. 2017 davart l’emissiun da documents publics electronics e da legalisaziuns electronicas, en vigur dapi il 1. da favr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^47a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 #### Art. 47b
 
@@ -1416,7 +1417,7 @@ Sch’i n’è betg previs in formular u sche sia utilisaziun n’è betg cunveg
 <sup>5</sup> Per la transmissiun electronica da documents dal stadi civil vala l’artitgel 89 alinea 4.[^47b-3]
 
 [^47b-1]: Integrà tras la cifra II 2 da l’agiunta da l’O dals 8 da dec. 2017 davart l’emissiun da documents publics electronics e da legalisaziuns electronicas, en vigur dapi il 1. da favr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^47b-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47b-2]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^47b-3]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 48
@@ -1537,12 +1538,13 @@ L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha
 
 **A l’Uffizi federal da statistica**
 
-<sup>1</sup> L’Uffizi federal da statistica survegn las indicaziuns statisticas tenor l’Ordinaziun dals 30 zercladur 1993[^52-1] davart la realisaziun da retschertgas statisticas federalas.
+<sup>1</sup> L’Uffizi federal da statistica survegn las indicaziuns statisticas tenor l’Ordinaziun dals 30 d’avrigl 2025[^52-1] davart la statistica federala.[^52-2]
 
-<sup>2</sup> La datas vegnan furnidas en moda automatisada ed en furma electronica.[^52-2]
+<sup>2</sup> La datas vegnan furnidas en moda automatisada ed en furma electronica.[^52-3]
 
-[^52-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^52-2]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^52-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^52-2]: Versiun tenor la cifra 2 da l’agiunta 3 da l’Ordinaziun dals 30 d’avr. 2025 davart la statistica federala, en vigur dapi il 1. da zer. 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^52-3]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 
 #### Art. 52a
 
@@ -1551,7 +1553,7 @@ L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha
 Il register dal stadi civil informatisà transmetta a la banca da datas RIPOL tenor l’artitgel 15 da la Lescha federala dals 13 zercladur 2008[^52a-2] davart ils sistems d’infurmaziun da polizia federala automaticamain ina infurmaziun electronica correspundenta en cas che datas da persunas RIPOL, a las qualas l’Uffizi federal da polizia ha access tenor la tabella en l’agiunta, vegnan midadas.
 
 [^52a-1]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^52a-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^52a-2]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 #### Art. 53
 
@@ -1597,7 +1599,7 @@ L’annunzia vegn fatga immediatamain e cuntegna las suandantas indicaziuns, usc
 - d. lieu e data da la naschientscha;
 - e. lieu e data da la mort.
 
-[^55-1]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^55-1]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 56
 
@@ -1675,7 +1677,7 @@ La represchentanza estra sto cumprovar:
 
 <sup>5</sup> I na vegnan incassads naginas taxas.
 
-[^61-1]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^61-1]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 ## 7. chapitel Preparaziun e celebraziun da la maridaglia
 
@@ -1757,9 +1759,9 @@ Il funcziunari dal stadi civil renda attent ils spus a lur obligaziun da dir la 
 [^65-2]: Versiun tenor la cifra I da l’O dals 9 da dec. 2005, en vigur dapi il 1. da schan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
 [^65-3]: Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^65-4]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^65-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^65-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^65-7]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Questa adattaziun è vegnida fatga en tut il text.
+[^65-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^65-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^65-7]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Questa adattaziun è vegnida fatga en tut il text.
 [^65-8]: Versiun tenor la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^65-9]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^65-10]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -1892,7 +1894,7 @@ La dumonda sto vegnir inoltrada a l’uffizi dal stadi civil che duai celebrar l
 
 <sup>3</sup> A medem temp cun decider davart la dumonda, decida l’autoritad da surveglianza davart l’organisaziun en scrit da la procedura da preparaziun (art. 69).[^73-3]
 
-[^73-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^73-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^73-2]: Versiun tenor la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^73-3]: Versiun tenor la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1930,7 +1932,7 @@ Il funcziunari dal stadi civil communitgescha en scrit sia decisiun da refusar l
 
 [^74a-1]: Integrà tras la cifra I da l’O dals 24 d’oct. 2007, en vigur dapi il 1. da schan. 2008 ([AS 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
 [^74a-2]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^74a-3]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^74a-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^74a-4]: Integrà tras la cifra I da l’O dals 4 da zer. 2010 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^74a-5]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -2099,7 +2101,7 @@ Las datas vegnan registradas tenor il set da caracters da la norma ISO 8859-1 + 
 
 <sup>2</sup> L’infurmaziun vegn dada tenor l’artitgel 47. Ils custs sa drizzan tenor l’Ordinaziun dals 27 d’october 1999[^81-1] davart las taxas en ils fatgs dal stadi civil.[^81-2]
 
-[^81-1]: [SR 172.042.110](https://fedlex.data.admin.ch/eli/cc/1999/490)
+[^81-1]: [SR 172.042.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5092)
 [^81-2]: Versiun tenor la cifra II 2 da l’agiunta da l’O dals 8 da dec. 2017 davart l’emissiun da documents publics electronics e da legalisaziuns electronicas, en vigur dapi il 1. da favr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 82
@@ -2198,7 +2200,7 @@ Las autoritads da surveglianza rapportan al UFSC annualmain davart:[^85-1]
 <sup>3</sup> …[^85-3]
 
 [^85-1]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^85-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^85-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 [^85-3]: Abolì tras la cifra I da l’O dals 26 d’oct. 2016, cun effect dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 86
@@ -2263,7 +2265,7 @@ Proceduras tranter persunas privatas ed autoritads dal stadi civil pon vegnir ex
 [^89-2]: Versiun tenor la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-3]: Versiun tenor la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-4]: Versiun tenor la cifra I da l’O dals 9 da dec. 2005, en vigur dapi il 1. da schan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^89-5]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^89-5]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^89-6]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^89-7]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -2498,7 +2500,7 @@ Ils suandants decrets vegnan abolids:
 <sup>3</sup> La procedura per l’attribuziun, per la verificaziun e per la communicaziun dal numer da la AVS sa drizza tenor ils artitgels 133<sup>bis</sup> e 134<sup>quater</sup> da l’Ordinaziun dals 31 d’october 1947[^99a-2] davart l’assicuranza per vegls e survivents.
 
 [^99a-1]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^99a-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^99a-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 99b
 
@@ -2642,4 +2644,4 @@ Dretgs d’access
 
 [^annexu1-lvlu1-1]: E per adressas sin il stgalim SC.
 [^annexu1-lvlu1-2]: E per adressas sin il stgalim SC.
-[^annexu1-lvlu1-3]: E per adressas sin il stgalim ASR..
+[^annexu1-lvlu1-3]: E per adressas sin il stgalim ASR.

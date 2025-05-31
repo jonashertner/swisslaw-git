@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20250601-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20250101/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. Januar 2025)
+vom 28. April 2004 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 40, 43*a*, 44 Absatz 2, 45*a* Absatz 3, 48 und 103 sow
 
 verordnet:
 
-[^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^ingress-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^ingress-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^ingress-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -80,7 +80,7 @@ Sie können den Sonderzivilstandsämtern folgende Aufgaben zuteilen:
 <sup>4</sup> Mehrere Kantone können gemeinsame Sonderzivilstandsämter bilden. Sie treffen im Einvernehmen mit dem EAZW[^2-4] die nötigen Vereinbarungen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^2-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^2-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^2-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^2-4]: Ausdruck gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -160,9 +160,9 @@ Die Vertretungen der Schweiz im Ausland haben im Zivilstandswesen insbesondere f
 [^5-5]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^5-7]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^5-8]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-8]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^5-9]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^5-10]: [SR 195.11](https://fedlex.data.admin.ch/eli/cc/2015/654)
+[^5-10]: [SR 195.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5691)
 [^5-11]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-12]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
@@ -330,13 +330,14 @@ Im Personenstandsregister werden weitere Geschäfte und Daten geführt, die nich
   - 1\. Errichtung eines Vorsorgeauftrags und dessen Hinterlegungsort (Art. 361 Abs. 3 ZGB),
   - 2\. umfassende Beistandschaft oder Wirksamkeit eines Vorsorgeauftrags infolge dauernder Urteilsunfähigkeit (Art. 449*c* ZGB);
 
-- i. statistische Angaben nach der Statistikerhebungsverordnung vom 30. Juni 1993[^8a-3];
+- i.[^8a-3] statistische Angaben nach der Bundesstatistikverordnung vom 30. April 2025[^8a-4];
 - j. Angaben zur genetischen und biologischen Abstammung eines Kindes, das im Rahmen einer Leihmutterschaft oder mittels Eizellen- oder Samenspende im Ausland gezeugt wurde, sofern sie bekannt und nicht bereits in den Abstammungsangaben (Art. 8 Bst. g) erfasst sind;
 - k. weitere Bemerkungen zu Besonderheiten eines Geschäftsfalls.
 
 [^8a-1]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^8a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8a-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^8a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^8a-3]: Fassung gemäss Anhang 3 Ziff. 2 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^8a-4]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 9
 
@@ -381,7 +382,7 @@ Der Meldung beizulegen sind folgende Dokumente:
 <sup>4</sup> Das Zivilstandsamt bewahrt die Meldung zusammen mit den anderen Dokumenten auf. Die Artikel 31–33 sind sinngemäss anwendbar.
 
 [^9b-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^9b-2]: Das Formular ist gratis abrufbar auf der Internetseite [www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html](https://www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html).
+[^9b-2]: Das Formular ist gratis abrufbar auf der Internetseite [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Gesellschaft &gt; Zivilstandswesen &gt; Formulare.
 
 #### Art. 9c
 
@@ -421,7 +422,7 @@ Als Findelkind gilt ein ausgesetztes Kind unbekannter Abstammung.
 
 [^11-1]: Ausdruck gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^11-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^11-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^11-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^11-4]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^11-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -443,7 +444,7 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 [^11b-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^11b-2]: Die Berichtigung vom 1. Juli 2014 betrifft nur den französischen Text ([AS 2014 2049](https://fedlex.data.admin.ch/eli/oc/2014/353)).
-[^11b-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^11b-3]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^11b-4]: In Kraft seit 1. Jan. 2015.
 
 #### Art. 12
@@ -502,7 +503,7 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 <sup>5</sup> Wenn eine Schweizerin oder ein Schweizer eine Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts nach Artikel 14*b* abgibt, so gilt dies als Erklärung, das Geschlecht dem Heimatrecht unterstellen zu wollen.[^14-7]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^14-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^14-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^14-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^14-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^14-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
@@ -608,12 +609,12 @@ Mit einer oder mehreren zusätzlichen Identitäten in das Personenstandsregister
 <sup>5</sup> Das Erfassen, die Meldungen, die amtlichen Mitteilungen und die Bekanntgabe der Daten erfolgen im Einzelfall auf Anweisung des FIS.[^15b-10]
 
 [^15b-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^15b-2]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^15b-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^15b-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^15b-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^15b-6]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15b-7]: [SR 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)
+[^15b-2]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
+[^15b-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^15b-4]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^15b-5]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^15b-6]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^15b-7]: [SR 121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4759)
 [^15b-8]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^15b-9]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^15b-10]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
@@ -670,7 +671,7 @@ Eine schriftliche Bestätigung über die Richtigkeit der Angaben nach Artikel 16
 <sup>4</sup> Die Richtigkeitsbestätigung wird zusammen mit den Belegen zum Beurkundungsvorgang archiviert.
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^16a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 17
 
@@ -806,8 +807,8 @@ Nachgewiesene Personenstandsdaten sind unverzüglich zu beurkunden.
 <sup>3</sup> Geburten und Todesfälle im Ausland, für die keine zivilstandsamtlichen Urkunden beigebracht werden können, werden gestützt auf eine gerichtliche Verfügung durch das Zivilstandsamt am Sitz des nach kantonalem Recht zuständigen Gerichts beurkundet (Art. 40 Abs. 1 Bst. a).
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^20b-2]: [SR 748.225.1](https://fedlex.data.admin.ch/eli/cc/1960/81_85_86)
-[^20b-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^20b-2]: [SR 748.225.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9101)
+[^20b-3]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 21
 
@@ -859,8 +860,8 @@ Ausländische Entscheidungen und Urkunden über den Zivilstand ausländischer Pe
 <sup>5</sup> Die Anzeige der festgestellten Straftaten und die Schutzmassnahmen richten sich nach Artikel 16 Absatz 7. Die Meldung an die Behörde, die für die Klage auf Ungültigerklärung einer Ehe oder eingetragenen Partnerschaft zuständig ist, richtet sich nach Artikel 16 Absatz 8.[^23-5]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^23-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^23-3]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^23-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^23-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^23-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^23-5]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1000,7 +1001,7 @@ Steht in einem Kanton aufgrund eines vorübergehenden Personalengpasses keine ge
 <sup>4</sup> Die Belege in Zusammenhang mit der Beurkundung von Personenstandsdaten, die dem Staatssekretariat für Migration nach Artikel 2*b* der Asylverordnung 1 vom 11. August 1999[^31-2] übermittelt werden, werden durch diese Behörde aufbewahrt. Sie stellt die Belege den Zivilstandsbehörden zur Verfügung.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 32
 
@@ -1089,7 +1090,7 @@ Zur Meldung des Todes verpflichtet sind:
 [^35-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-5]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
-[^35-6]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-6]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 [^35-7]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^35-8]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-9]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
@@ -1235,7 +1236,7 @@ Die Verwaltungsbehörden teilen folgende Verfügungen mit:
 [^41-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^41-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^41-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2010 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Fassung gemäss Anhang Ziff. II 4 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
-[^41-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^41-4]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 
 #### Art. 42
 
@@ -1397,7 +1398,7 @@ Ist kein Formular vorgesehen oder ist dessen Verwendung nicht zweckmässig, so e
 <sup>3</sup> Für die Beglaubigung gemäss Artikel 18*a* Absatz 2 gilt bei elektronischen Ausgangsdokumenten die Verordnung vom 8. Dezember 2017[^47a-2] über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (EÖBV), insbesondere deren Artikel 17 EÖBV.
 
 [^47a-1]: Eingefügt durch Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^47a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 #### Art. 47b
 
@@ -1414,7 +1415,7 @@ Ist kein Formular vorgesehen oder ist dessen Verwendung nicht zweckmässig, so e
 <sup>5</sup> Für die elektronische Übermittlung von Zivilstandsdokumenten gilt Artikel 89 Absatz 4.[^47b-3]
 
 [^47b-1]: Eingefügt durch Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^47b-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47b-2]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^47b-3]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 48
@@ -1535,12 +1536,13 @@ Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat
 
 **An das Bundesamt für Statistik**
 
-<sup>1</sup> Das Bundesamt für Statistik erhält die statistischen Angaben nach der Verordnung vom 30. Juni 1993[^52-1] über die Durchführung von statistischen Erhebungen des Bundes.
+<sup>1</sup> Das Bundesamt für Statistik erhält die statistischen Angaben nach der Bundesstatistikverordnung vom 30. April 2025[^52-1].[^52-2]
 
-<sup>2</sup> Die Datenlieferungen erfolgen automatisiert und in elektronischer Form.[^52-2]
+<sup>2</sup> Die Datenlieferungen erfolgen automatisiert und in elektronischer Form.[^52-3]
 
-[^52-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^52-2]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^52-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^52-2]: Fassung gemäss Anhang 3 Ziff. 2 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^52-3]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 
 #### Art. 52a
 
@@ -1549,7 +1551,7 @@ Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat
 Das elektronische Personenstandsregister übermittelt der Datenbank RIPOL nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^52a-2] über die polizeilichen Informationssysteme des Bundes bei einer Änderung von RIPOL-Personendaten, auf die das Bundesamt für Polizei gemäss der Tabelle im Anhang Zugriff hat, automatisch einen entsprechenden elektronischen Hinweis.
 
 [^52a-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^52a-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^52a-2]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 #### Art. 53
 
@@ -1595,7 +1597,7 @@ Die Meldung erfolgt unverzüglich und enthält die folgenden Angaben, soweit sie
 - d. Ort und Datum der Geburt;
 - e. Ort und Datum des Todes.
 
-[^55-1]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^55-1]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 56
 
@@ -1673,7 +1675,7 @@ Die ausländische Vertretung muss nachweisen, dass:
 
 <sup>5</sup> Es werden keine Gebühren erhoben.
 
-[^61-1]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^61-1]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 ## 7. Kapitel: Vorbereitung der Eheschliessung und Trauung
 
@@ -1755,9 +1757,9 @@ Die Zivilstandsbeamtin oder der Zivilstandsbeamte ermahnt die Verlobten zur Wahr
 [^65-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
 [^65-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^65-4]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^65-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^65-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^65-7]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^65-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^65-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^65-7]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^65-8]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^65-9]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^65-10]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -1890,7 +1892,7 @@ Das Gesuch ist beim Zivilstandsamt einzureichen, das die Trauung durchführen so
 
 <sup>3</sup> Gleichzeitig mit dem Entscheid über das Gesuch entscheidet die Aufsichtsbehörde über die schriftliche Durchführung des Vorbereitungsverfahrens (Art. 69).[^73-3]
 
-[^73-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^73-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^73-2]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^73-3]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1928,7 +1930,7 @@ Die Zivilstandsbeamtin oder der Zivilstandsbeamte teilt den Entscheid, dass auf 
 
 [^74a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
 [^74a-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^74a-3]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^74a-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^74a-4]: Eingefügt durch Ziff. I der V vom 4. Juni 2010 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^74a-5]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -2097,7 +2099,7 @@ Die Daten werden nach dem hinterlegten Standardzeichensatz erfasst (ISO-Norm 885
 
 <sup>2</sup> Die Auskunft wird nach Artikel 47 erteilt. Die Kosten richten sich nach der Verordnung vom 27. Oktober 1999[^81-1] über die Gebühren im Zivilstandswesen.[^81-2]
 
-[^81-1]: [SR 172.042.110](https://fedlex.data.admin.ch/eli/cc/1999/490)
+[^81-1]: [SR 172.042.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5092)
 [^81-2]: Fassung gemäss Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 82
@@ -2196,7 +2198,7 @@ Die Aufsichtsbehörden berichten dem EAZW jährlich über:[^85-1]
 <sup>3</sup> …[^85-3]
 
 [^85-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^85-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^85-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 [^85-3]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2016, mit Wirkung seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 86
@@ -2261,7 +2263,7 @@ Verfahren zwischen Privaten und Zivilstandsbehörden können unter den folgenden
 [^89-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-4]: Fassung gemäss Ziff. I der V vom 9. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^89-5]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^89-5]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^89-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^89-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -2496,7 +2498,7 @@ Folgende Erlasse werden aufgehoben:
 <sup>3</sup> Das Verfahren für die Zuweisung, Verifizierung und Bekanntgabe der AHV-Nummer richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^99a-2] über die Alters und Hinterlassenenversicherung.
 
 [^99a-1]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^99a-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^99a-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 99b
 
