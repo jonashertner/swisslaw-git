@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2025-01-01
-valid_until: 2025-05-31
-version_adopted: 2024-03-18
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-21
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/4359/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4359/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.01.2025)
+vom 22.11.1999 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -1988,6 +1988,10 @@ beschliesst:
 <sup>2</sup> Eine Auskunft, einschliesslich der Edition von Akten, ist zulässig, wenn dafür eine ausdrückliche gesetzliche Grundlage im Recht des Bundes oder des Kantons besteht. Fehlt eine solche Grundlage, ist eine Auskunft an Verwaltungsbehörden und Gerichte zulässig, soweit sie im öffentlichen Interesse geboten ist.
 
 <sup>3</sup> Über Auskunftsbegehren entscheidet das Finanzdepartement endgültig. Es kann für bestimmte Auskünfte generelle Ermächtigungen erteilen oder die Entscheidbefugnis der Dienststelle Steuern des Kantons übertragen.
+
+<sup>4</sup> Die Bestimmungen des Gesetzes über die Organisation von Regierung und Verwaltung (Organisationsgesetz, OG) vom 13. März 1995[^134-1] über den Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip finden in Steuersachen keine Anwendung.
+
+[^134-1]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 
 #### § 135
 
