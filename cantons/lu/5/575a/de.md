@@ -4,13 +4,12 @@ number: 575a
 title: Verordnung zum Gesetz über Ausbildungsbeiträge
 short: Stipendienverordnung
 language: de
-version: 2022-04-01
-valid_until: 2025-05-31
-version_adopted: 2022-03-08
+version: 2025-06-01
+version_adopted: 2025-04-01
 adopted: 2014-05-20
 in_force: 2014-05-19
 url: "https://srl.lu.ch/app/de/texts_of_law/575a"
-pdf: "https://srl.lu.ch/api/de/versions/3899/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3899/pdf_file"
 
 (Stipendienverordnung)
 
-vom 20.05.2014 (Stand 01.04.2022)
+vom 20.05.2014 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -402,12 +401,12 @@ beschliesst:
 
 <sup>1</sup>
 
-- a. 1 Person — Fr. 12 072.– pro Jahr
-- b. 2 Personen — Fr. 18 468.– pro Jahr
-- c. 3 Personen — Fr. 22 452.– pro Jahr
-- d. 4 Personen — Fr. 25 836.– pro Jahr
-- d<sup>bis</sup>. 5 Personen — Fr. 29 220.– pro Jahr
-- e. jede weitere Person — + Fr. 2 448.– pro Jahr
+- a. 1 Person — Fr. 12 732.– pro Jahr
+- b. 2 Personen — Fr. 19 488.– pro Jahr
+- c. 3 Personen — Fr. 23 688.– pro Jahr
+- d. 4 Personen — Fr. 27 252.– pro Jahr
+- d<sup>bis</sup>. 5 Personen — Fr. 30 816.– pro Jahr
+- e. jede weitere Person — + Fr. 2 592.– pro Jahr
 
 #### § A1-2
 
@@ -415,23 +414,23 @@ beschliesst:
 
 <sup>1</sup> Region 1:
 
-- a. 1 Person — Fr. 15 000.– pro Jahr
-- b. 2 Personen — Fr. 19 800.– pro Jahr
-- c. 3 Personen — Fr. 20 400.– pro Jahr
+- a. 1 Person — Fr. 15 600.– pro Jahr
+- b. 2 Personen — Fr. 20 400.– pro Jahr
+- c. 3 Personen — Fr. 21 600.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
 <sup>2</sup> Region 2:
 
-- a. 1 Person — Fr. 15 000.– pro Jahr
-- b. 2 Personen — Fr. 21 000.– pro Jahr
-- c. 3 Personen — Fr. 22 800.– pro Jahr
+- a. 1 Person — Fr. 16 200.– pro Jahr
+- b. 2 Personen — Fr. 21 600.– pro Jahr
+- c. 3 Personen — Fr. 24 000.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
 <sup>3</sup> Region 3:
 
-- a. 1 Person — Fr. 13 800.– pro Jahr
-- b. 2 Personen — Fr. 18 600.– pro Jahr
-- c. 3 Personen — Fr. 20 400.– pro Jahr
+- a. 1 Person — Fr. 14 400.– pro Jahr
+- b. 2 Personen — Fr. 19 800.– pro Jahr
+- c. 3 Personen — Fr. 21 000.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
 #### § A1-3
@@ -475,8 +474,8 @@ beschliesst:
 
 <sup>1</sup>
 
-- a. Grundbedarf — Fr. 9240.– pro Jahr
-- b. Wohnkosten — Fr. 8400.– pro Jahr
+- a. Grundbedarf — Fr. 9750.– pro Jahr
+- b. Wohnkosten — Fr. 8520.– pro Jahr
 
 <sup>2</sup> Gesundheitskosten: Aktuelle Richtprämie des Kantons Luzern nach Altersgruppe und Prämienregion. Bei ausserkantonalem Wohnsitz gelten die Richtprämien der Prämienregion 2 des Kantons Luzern.
 
