@@ -4,13 +4,13 @@ number: "736"
 title: Planungs- und Bauverordnung
 short: PBV
 language: de
-version: 2025-01-01
-valid_until: 2025-05-31
-version_adopted: 2024-11-29
+version: 2025-06-01
+valid_until: 2026-04-30
+version_adopted: 2025-04-15
 adopted: 2013-10-29
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/736"
-pdf: "https://srl.lu.ch/api/de/versions/4315/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4315/pdf_file"
 
 (PBV)
 
-vom 29.10.2013 (Stand 01.01.2025)
+vom 29.10.2013 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -43,9 +43,11 @@ beschliesst:
 
 <sup>1</sup> Die Richt- und Nutzungspläne (bestehend aus Plan und Vorschriften) sind der Dienststelle Raum und Wirtschaft zur Vorprüfung, beim Beginn der öffentlichen Auflage, zur Genehmigung und nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates in elektronischer Form als Datei einzureichen. Die Richtplantexte und die Vorschriften sind so aufzubereiten, dass die Verbindung und Verlinkung der Textinhalte mit den Plandaten gewährleistet ist. Die Dienststelle Raum und Wirtschaft legt die Modalitäten sowie die zu nutzenden Datenmodelle, Transferformate und Standards fest.
 
-<sup>1<sup>bis</sup></sup> Die genehmigten Richt- und Nutzungspläne sind der Dienststelle Raum und Wirtschaft nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates zusätzlich in Papierform einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+<sup>1<sup>bis</sup></sup> Genehmigte Richt- und Zonenpläne sind in elektronischer Form gemäss Absatz 1 rechtsverbindlich. Wenn Differenzen zwischen den bisher in Papierform genehmigten Plänen und den Plänen in elektronischer Form festgestellt werden, kann die Dienststelle Raum und Wirtschaft von Amtes wegen oder auf Gesuch der Gemeinde eine Berichtigung vornehmen. Im Streitfall erlässt die Dienststelle Raum und Wirtschaft eine anfechtbare Verfügung.
 
-<sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gelten die Absätze 1 und 1<sup>bis</sup> sinngemäss.
+<sup>1<sup>ter</sup></sup> Genehmigte Bebauungs- und Gestaltungspläne sind der Dienststelle Raum und Wirtschaft nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates zusätzlich in Papierform einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+
+<sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gelten die Absätze 1, 1<sup>bis</sup> und 1<sup>ter</sup> sinngemäss.
 
 #### § 2
 
@@ -137,7 +139,7 @@ beschliesst:
 
 <sup>1</sup> Das Kaufrecht der Gemeinde gemäss § 38 Absatz 3 PBG ist von der Gemeinde in ihrem Entscheid betreffend bestimmungsgemässe Nutzung der Bauzone auf zehn Jahre ab Entscheiddatum zu befristen und zusammen mit der Frist zur Überbauung im Grundbuch anzumerken.
 
-<sup>2</sup> Die Gemeinde legt im Entscheid die Modalitäten der Einhaltung der Frist zur Überbauung des Baulandes fest. Der Fristenlauf beginnt mit der Rechtskraft des Entscheids. Die Dauer des Baubewilligungs- und eines allfälligen Beschwerdeverfahrens oder eines Zivilverfahrens ist nicht mitzurechnen.
+<sup>2</sup> Die Gemeinde legt im Entscheid die Modalitäten der Einhaltung der Frist zur Überbauung des Baulandes fest. Der Fristenlauf beginnt mit der Rechtskraft des Entscheids. Die Dauer von Bewilligungs- und Beschwerdeverfahren oder von Zivilverfahren ist nicht mitzurechnen.
 
 <sup>3</sup> Die Gemeinde kann das Kaufrecht nach unbenütztem Ablauf der Frist zur Überbauung des Baulandes mit Entscheid ausüben. Vorgängig versucht sie mit dem Grundeigentümer oder der Grundeigentümerin eine vertragliche Einigung zu erzielen. Kommt keine gütliche Einigung über den Verkehrswert des Baulandes zustande, leitet die Gemeinde das Schätzungsverfahren bei der Schätzungskommission ein.
 
@@ -181,6 +183,8 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinde kann verlangen, dass mehrere Entwürfe vorgelegt werden und insbesondere die zweckmässige Dimensionierung und Anordnung der Aussengeschoss- und Umgebungsflächen nachgewiesen wird.
 
+<sup>2<sup>bis</sup></sup> Die zuständige Behörde kann Vorgaben zur Abstimmung von Siedlung und Verkehr (Anzahl Veloabstellplätze, Anzahl Parkplätze usw.) machen und die gemäss den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes zur Beurteilung notwendigen Unterlagen (Verkehrsgutachten, Mobilitätskonzept usw.) einverlangen.
+
 <sup>3</sup> Der Bebauungsplan (bestehend aus Plan und Vorschriften) ist der Dienststelle Raum und Wirtschaft zur Vorprüfung, beim Beginn der öffentlichen Auflage, zur Genehmigung und nach seiner Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates in elektronischer Form als Datei einzureichen. Die Vorschriften sind so aufzubereiten, dass die Verbindung und Verlinkung der Textinhalte mit den Plandaten gewährleistet ist. Die Dienststelle Raum und Wirtschaft legt die Modalitäten sowie die zu nutzenden Datenmodelle, Transferformate und Standards fest.
 
 <sup>4</sup> Werden Bebauungspläne geändert, gilt Absatz 3 sinngemäss.
@@ -222,6 +226,8 @@ beschliesst:
 <sup>2</sup> Die Flächen der Hauszufahrten werden angerechnet.
 
 <sup>3</sup> Nicht angerechnet werden die Flächen der Grund-, Grob- und Feinerschliessung.
+
+<sup>4</sup> Wird ein Gebiet mit bestehenden Verkehrszonen neu überbaut, gelten bei einer wesentlichen Änderung der Erschliessung anstelle der Verkehrszonenflächen die im Bauprojekt geplanten Erschliessungsflächen im Sinn von Absatz 3 als nicht anrechenbare Grundstücksflächen. Die Verkehrszone darf entsprechend der zugehörigen Bauzone überbaut werden. Im Rahmen der nächsten Änderung der Nutzungsplanung sind die Verkehrszonenflächen entsprechend zu bereinigen.
 
 [^11-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
 
@@ -272,7 +278,9 @@ beschliesst:
   - 2\. eine Zertifizierung des Labels Minergie mit dem Zusatz P oder A erreicht wird,
 - b. bei Umbauten
   - 1\. der Neubaugrenzwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
-  - 2\. eine Zertifizierung des Labels Minergie erreicht wird.
+  - 2\. eine Zertifizierung des Labels Minergie (Erneuerung) erreicht wird.
+
+<sup>1<sup>bis</sup></sup> Bei Neu- und Umbauten erhöht sich bei Erfüllung der Vorgaben gemäss Absatz 1 die zonengemässe Überbauungsziffer um zusätzliche 5 Prozent, wenn eine Zertifizierung nach dem Standard Nachhaltiges Bauen Schweiz (SNBS) oder eine Zertifizierung des Labels Minergie mit dem Zusatz ECO erreicht wird.
 
 <sup>2</sup> Die höhere maximal mögliche Überbauungsziffer gemäss § 75 Absätze 1 und 2 PBG darf dabei nicht überschritten werden.
 
@@ -780,7 +788,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 <sup>1</sup> Die Dienststelle Raum und Wirtschaft entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung gemäss den §§ 180 oder 181 PBG erteilt werden kann. Vorbehalten bleibt § 192a Absätze 3 und 4 PBG.
 
-<sup>2</sup> Die Dienststelle Landwirtschaft und Wald ist zuständig für die Umsetzung der Vorgaben zur Biodiversität. Vorbehalten bleiben abweichende Zuständigkeiten nach der jeweils massgebenden Spezialgesetzgebung.
+<sup>2</sup> Die Dienststelle Landwirtschaft und Wald ist für die Umsetzung der Vorgaben zur Biodiversität und die Dienststelle Raum und Wirtschaft für den Erlass und die Umsetzung der Vorgaben für die Eingliederung von Bauten und Anlagen in das Landschaftsbild zuständig. Sie können dafür andere Dienststellen sowie externe Fachpersonen beiziehen und berücksichtigen die Interessen der betroffenen Gemeinden angemessen. Vorbehalten bleiben abweichende Zuständigkeiten nach der jeweils massgebenden Spezialgesetzgebung.
 
 #### § 52
 
@@ -840,7 +848,8 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 <sup>2</sup> Keiner Baubewilligung bedürfen in der Regel
 
 - a. der Gebäudehülle und der Umgebung angepasste oder direkt auf dem Boden aufgestellte Solaranlagen bis zu 20 m² Fläche, ausser in ortsbildgeschützten Gebieten oder an inventarisierten, schützenswerten Gebäuden,
-- b. Solaranlagen über 20 m² nach Massgabe des Bundesrechts (Art. 18a RPG); sie sind der zuständigen Behörde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Erstellung zu melden,
+- b. Solaranlagen über 20 m² nach Massgabe des Bundesrechts; sie sind der zuständigen Behörde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Erstellung zu melden,
+- b<sup>bis</sup>. energetische Sanierungen in Bauzonen ohne gestalterische Veränderungen nach Massgabe des Bundesrechts, ausser in ortsbildgeschützten Gebieten oder an inventarisierten, schützenswerten Gebäuden sowie bei Gebäuden mit Vorkommen geschützter Tierarten, beispielsweise Gebäudebrütern,
 - c. Erdwärmenutzungsanlagen bis 400 m unter Terrain,
 - d. Heizungs-, Lüftungs- und Klimatisierungsanlagen innerhalb des Gebäudes,
 - e. bis zu zwei höchstens je 1,2 m² grosse Dachflächenfenster pro Hauptdachfläche, ausser in ortsbildgeschützten Gebieten oder an inventarisierten, schützenswerten Gebäuden,
@@ -848,11 +857,13 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 - g. nicht gewerblichen Zwecken dienende bauliche Anlagen der Garten- oder Aussenraumgestaltung wie Pergolen, Gartenwege und -treppen, Sitzplatzbefestigungen, Sandkästen und saisonal aufgestellte Gartenpools von maximal 10 m² Fläche und 1,5 m Höhe, Feuerstellen und Gartencheminées, Brunnen, Teiche, künstlerische Plastiken, Fahnenmasten, Ställe oder Gehege für einzelne Kleintiere,
 - h. Mauern und Einfriedungen bis 1,5 m Höhe ab massgebendem Terrain,
 - i. Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen innerhalb der Bauzonen bis 1,5 m Höhe ab massgebendem Terrain, welche nicht mehr als 150 m³ umfassen,
-- i<sup>bis</sup>. einmalige Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen ausserhalb der Bauzonen bis 0,4 m Höhe ab massgebendem Terrain, welche nicht mehr als 80 m³ unbelasteten Oberboden umfassen, unter Vorbehalt abweichender Vorschriften für bestimmte Schutzzonen; sie sind der zuständigen Behörde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Ausführung zu melden,
+- i<sup>bis</sup>. einmalige Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen ausserhalb der Bauzonen bis 0,4 m Höhe ab massgebendem Terrain, welche nicht mehr als 80 m³ unbelasteten Oberboden umfassen, unter Vorbehalt abweichender Vorschriften für bestimmte Schutzzonen; sie sind der zuständigen Stelle der Gemeinde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Ausführung zu melden,
 - j. Kleinstbauvorhaben wie Treib- und Gartenhäuschen mit maximal 4 m² Grundfläche, Werkzeugtruhen, einzelne Automaten,
 - k. Fahrnisbauten wie Festhütten, Zirkuszelte, Tribünen sowie Materiallager bis zu einer Dauer von höchstens einem Monat,
 - l. das Abstellen einzelner Wohnmobile, Wohnwagen oder Boote während der Nichtbetriebszeit auf bestehenden privaten Abstellflächen oder die anderweitige ähnliche Nutzung solcher Abstellflächen, sofern und solange ausreichend Abstellplätze für Motorfahrzeuge übrig bleiben und weder Umgebung noch Aussenbereiche erheblich beeinträchtigt werden,
-- m. das Aufstellen von Reklamen für örtliche Veranstaltungen sowie für Wahlen und Abstimmungen, die gemäss § 6 Absätze 1d und e sowie 2 der Reklameverordnung vom 3. Juni 1997[^54-1] keiner Bewilligung bedürfen.
+- m. das Aufstellen von Reklamen für örtliche Veranstaltungen sowie für Wahlen und Abstimmungen, die gemäss § 6 Absätze 1d und e sowie 2 der Reklameverordnung vom 3. Juni 1997[^54-1] keiner Bewilligung bedürfen,
+- n. die für die bodenabhängig produzierende Landwirtschaft erforderlichen Folientunnel bis zu einer Einsatzdauer von maximal sechs Monaten pro Jahr, ausgenommen in der Freihaltezone Wildtierkorridor,
+- o. die für die bodenabhängig produzierende Landwirtschaft erforderlichen Witterungs- und Insektenschutznetze und die dazugehörende Konstruktion mit gerammten Pfählen aus Holz, Beton oder Metall. Ausgenommen sind Vorhaben innerhalb der Freihaltezone Wildtierkorridor.
 
 [^54-1]: SRL Nr. [739](https://srl.lu.ch/data/739/de)
 
@@ -876,7 +887,8 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 - h. Brandschutzpläne für Bauten, die infolge ihrer Nutzung ein erhöhtes Risiko aufweisen, nach den Vorgaben der Gebäudeversicherung,
 - i. detaillierte Berechnungen zum Nachweis der Einhaltung der vorgeschriebenen Bauziffern,
 - j. Nachweis der Bodenverwertung gemäss eidgenössischer Abfallverordnung[^55-2],
-- k. Angaben über die Art, die Qualität und die Menge der anfallenden Abfälle und über die vorgesehene Verwertung und Entsorgung nach den Vorgaben der Dienststelle Umwelt und Energie.
+- k. Angaben über die Art, die Qualität und die Menge der anfallenden Abfälle und über die vorgesehene Verwertung und Entsorgung nach den Vorgaben der Dienststelle Umwelt und Energie,
+- l. die zur Beurteilung der Abstimmung von Siedlung und Verkehr gemäss den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes notwendigen Unterlagen (Verkehrsgutachten, Mobilitätskonzept usw.).
 
 <sup>3</sup> Die Gemeinde kann weitere für die Prüfung und Beurteilung des Bauvorhabens notwendige Unterlagen (Fotografien, Grundbuchauszüge, Modelle usw.) einverlangen.
 
@@ -891,7 +903,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 **Unterzeichnung des Baugesuchs**
 
-<sup>1</sup> Das elektronische Baugesuch ist mit einem eigenhändig unterzeichneten Unterschriftenblatt zum Baugesuch im PDF-Format digital einzureichen. Alternativ kann das Baugesuch mit einer elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts vom 30. März 1911[^56-1] versehen digital eingereicht werden.
+<sup>1</sup> Das elektronische Baugesuch ist mit einem eigenhändig unterzeichneten Unterschriftenblatt zum Baugesuch im PDF-Format digital einzureichen. Alternativ kann das Baugesuch mit einer elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts vom 30. März 1911[^56-1] versehen oder nach einer Authentifizierung mit einem zugelassenen elektronischen Identitätsnachweis digital eingereicht werden.
 
 <sup>2</sup> Bei gemeinschaftlichem Eigentum ist die nach Massgabe des Zivilrechts erforderliche Zustimmung der Gesamt-, Mit- oder Stockwerkeigentümerschaft nachzuweisen.
 
@@ -905,7 +917,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 <sup>2</sup> Diese Anforderungen nicht zu erfüllen haben Architektinnen und Architekten sowie Ingenieurinnen und Ingenieure, die ihren Beruf mindestens seit dem 1. Januar 1990 ausüben.
 
-<sup>3</sup> Pläne für landwirtschaftliche Bauten, Einfamilien-, Doppeleinfamilien- und Zweifamilienhäuser können Baufachleute verfassen, die ihren Beruf bei Einreichung des Baugesuchs seit mindestens fünf Jahren ausüben.
+<sup>3</sup> …
 
 <sup>4</sup> Pläne für Bauten und Anlagen, über die im vereinfachten Baubewilligungsverfahren nach § 198 PBG entschieden wird, kann jedermann verfassen.
 
@@ -1100,7 +1112,9 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
   - 2\. eine Zertifizierung des Labels Minergie mit dem Zusatz P oder A erreicht wird,
 - b. bei Umbauten
   - 1\. der Neubaugrenzwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
-  - 2\. eine Zertifizierung des Labels Minergie erreicht wird.
+  - 2\. eine Zertifizierung des Labels Minergie (Erneuerung) erreicht wird.
+
+<sup>3<sup>bis</sup></sup> Bei Neu- und Umbauten werden bei Erfüllung der Vorgaben gemäss Absatz 3 zusätzliche 5 Prozent nicht angerechnet, wenn eine Zertifizierung nach dem Standard Nachhaltiges Bauen Schweiz (SNBS) oder eine Zertifizierung des Labels Minergie mit dem Zusatz ECO erreicht wird.
 
 #### § 68a
 
