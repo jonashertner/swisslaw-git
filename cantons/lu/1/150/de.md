@@ -4,13 +4,13 @@ number: "150"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2018-01-01
-valid_until: 2025-05-31
-version_adopted: 2016-06-20
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-21
 adopted: 2004-05-04
 in_force: 2005-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/150"
-pdf: "https://srl.lu.ch/api/de/versions/3157/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3157/pdf_file"
 
 (GG)
 
-vom 04.05.2004 (Stand 01.01.2018)
+vom 04.05.2004 (Stand 01.06.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -92,6 +92,16 @@ beschliesst:
 <sup>1</sup> Die Gemeinde regelt die Grundzüge ihrer Organisation in der Gemeindeordnung. Die Gemeindeordnung geht dem übrigen kommunalen Recht vor.
 
 <sup>2</sup> Die Gemeinde regelt die Zuständigkeiten ihrer Organe und Verwaltungseinheiten in einem rechtsetzenden Erlass.
+
+#### § 6a
+
+**Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip**
+
+<sup>1</sup> Die Einwohnergemeinde regelt in einem rechtsetzenden Erlass den Zugang zu amtlichen Informationen, die sie bei der Erfüllung ihrer Aufgaben erstellt oder erhalten hat, und gewährt den Zugang, soweit nicht besondere Vorschriften und überwiegende öffentliche oder schützenswerte private Interessen entgegenstehen.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^6a-1].
+
+[^6a-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
 #### § 7
 
@@ -1100,6 +1110,16 @@ beschliesst:
 **Einführung der Anlagebuchhaltung und des Kostenausweises**
 
 <sup>1</sup> Für die Einführung der Anlagebuchhaltung gemäss § 88 und des Kostenausweises gemäss § 77 gilt eine Übergangsfrist bis spätestens 1. Januar 2009.
+
+#### § 114a
+
+**Übergangsbestimmung zur Änderung vom 21. Oktober 2024**
+
+<sup>1</sup> Erlässt die Gemeinde bis zum 1. Januar 2030 keine Regelungen nach § 6a, gelten die Bestimmungen des Organisationsgesetzes[^114a-1] über den Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip sinngemäss.
+
+<sup>2</sup> Die kantonale Aufsichtsbehörde kann die Frist um maximal sechs Monate erstrecken.
+
+[^114a-1]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 
 #### § 115
 
