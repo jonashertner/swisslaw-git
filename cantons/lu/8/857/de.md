@@ -3,20 +3,19 @@ canton: LU
 number: "857"
 title: Vollzugsverordnung zur Bundesgesetzgebung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer
 language: de
-version: 2019-01-01
-valid_until: 2025-05-31
-version_adopted: 2018-11-20
+version: 2025-06-01
+version_adopted: 2025-04-15
 adopted: 2004-05-25
 in_force: 2004-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/857"
-pdf: "https://srl.lu.ch/api/de/versions/3363/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur Bundesgesetzgebung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer
 
-vom 25.05.2004 (Stand 01.01.2019)
+vom 25.05.2004 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -83,7 +82,7 @@ beschliesst:
 
 **Entschädigungen**
 
-<sup>1</sup> Die Mitglieder der tripartiten Arbeitsmarktkommission und die von ihr beigezogenen Personen haben Anspruch auf Vergütungen gemäss Anhang 6 zur Besoldungsverordnung für das Staatspersonal vom 24. September 2002[^6-1].
+<sup>1</sup> Die Mitglieder der tripartiten Arbeitsmarktkommission und die von ihr beigezogenen Personen haben Anspruch auf Vergütungen gemäss Anhang 3 zur Besoldungsverordnung für das Staatspersonal vom 24. September 2002[^6-1].
 
 [^6-1]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
 
