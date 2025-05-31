@@ -4,13 +4,13 @@ number: "152.025"
 title: Ordonnance sur les procédures de consultation et de corapport
 short: OPC
 language: fr
-version: 2023-02-01
-valid_until: 2025-05-31
-version_adopted: 2022-12-21
+version: 2025-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-04-30
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2777/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3177/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2777/pdf_file"
 
 (OPC)
 
-du 21.12.2022 (état au 01.02.2023)
+du 21.12.2022 (état au 01.06.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -98,19 +98,20 @@ arrête:
 - i les Églises nationales,
 - k la Communauté d'intérêt des communautés israélites du canton de Berne,
 - l les partis politiques représentés au Grand Conseil ainsi que leur jeunesse de parti au niveau cantonal,
-- m les associations faîtières patronales et syndicales du canton de Berne ainsi que les associations syndicales du secteur public,
-- n les associations faîtières des organisations féminines et masculines bernoises,
-- o la Commission de l'égalité,
-- p le Contrôle des finances,
-- q le Bureau cantonal pour la surveillance de la protection des données (BPD),
-- r le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’État (LJB).
+- m l'association «Jugendparlament Kanton Bern»,
+- n les associations faîtières patronales et syndicales du canton de Berne ainsi que les associations syndicales du secteur public,
+- o les associations faîtières des organisations féminines et masculines bernoises,
+- p la Commission de l'égalité,
+- q le Contrôle des finances,
+- r le Bureau cantonal pour la surveillance de la protection des données (BPD),
+- s le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’État (LJB).
 
 <sup>3</sup> Les Directions et la Chancellerie d'État peuvent
 
 - a compléter la liste figurant à l'alinéa 2 avec les noms des autres autorités et organisations à consulter dans leurs domaines;
 - b soumettre leur propre avis à la Direction en charge du projet ou à la Chancellerie d'État; un tel avis n'est pas public.
 
-<sup>5</sup> Lorsque le Grand Conseil ou l'un de ses organes ouvre une procédure de consultation, le Conseil-exécutif figure également parmi les destinataires.
+<sup>4</sup> Lorsque le Grand Conseil ou l'un de ses organes ouvre une procédure de consultation, le Conseil-exécutif figure également parmi les destinataires.
 
 ### 2.2 Déroulement
 

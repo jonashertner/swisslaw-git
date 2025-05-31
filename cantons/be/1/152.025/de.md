@@ -4,13 +4,13 @@ number: "152.025"
 title: Verordnung über das Vernehmlassungs- und das Mitberichtsverfahren
 short: VMV
 language: de
-version: 2023-02-01
-valid_until: 2025-05-31
-version_adopted: 2022-12-21
+version: 2025-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-04-30
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2777/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3177/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2777/pdf_file"
 
 (VMV)
 
-vom 21.12.2022 (Stand 01.02.2023)
+vom 21.12.2022 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -98,19 +98,20 @@ beschliesst:
 - i die Landeskirchen,
 - k die Interessengemeinschaft der jüdischen Gemeinden des Kantons Bern,
 - l die im Grossen Rat vertretenen politischen Parteien sowie ihre kantonalen Jungparteien,
-- m die Dachverbände der bernischen Arbeitgeber- und Arbeitnehmerorganisationen sowie die Arbeitnehmerorganisationen des öffentlichen Sektors,
-- n die Dachverbände bernischer Frauen- und Männerorganisationen,
-- o die Fachkommission für Gleichstellungsfragen,
-- p die Finanzkontrolle,
-- q die kantonale Datenschutzaufsichtsstelle (DSA),
-- r der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei (RJZ).
+- m der Verein «Jugendparlament Kanton Bern»,
+- n die Dachverbände der bernischen Arbeitgeber- und Arbeitnehmerorganisationen sowie die Arbeitnehmerorganisationen des öffentlichen Sektors,
+- o die Dachverbände der bernischen Frauen- und Männerorganisationen,
+- p die Fachkommission für Gleichstellungsfragen,
+- q die Finanzkontrolle,
+- r die kantonale Datenschutzaufsichtsstelle (DSA),
+- s der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei (RJZ).
 
 <sup>3</sup> Die Direktionen und die Staatskanzlei können
 
 - a die Liste gemäss Absatz 2 mit den in ihren Fachgebieten zusätzlich anzuhörenden Behörden und Organisationen ergänzen,
 - b ihrerseits eine Stellungnahme zuhanden der federführenden Direktion oder Staatskanzlei einreichen, die nicht öffentlich ist.
 
-<sup>5</sup> Eröffnet der Grosse Rat oder ein Ratsorgan eine Vernehmlassung, wird zusätzlich der Regierungsrat begrüsst.
+<sup>4</sup> Eröffnet der Grosse Rat oder ein Ratsorgan eine Vernehmlassung, wird zusätzlich der Regierungsrat begrüsst.
 
 ### 2.2 Vorgehen
 
