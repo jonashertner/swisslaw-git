@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2025-02-07
+version: 2025-06-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 7 février 2025)
+du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,13 +25,13 @@ vu les art. 148*a*, al. 3, 158, al. 2, 159*a*, 160, al. 1 à 5, 161, 164, 164*a,
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-6]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-7]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-6]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-7]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Dispositions générales
 
@@ -53,9 +53,9 @@ L’ordonnance ne s’applique pas:
 
 <sup>4</sup> Pour la mise en circulation d’engrais dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci, les dispositions de l’ordonnance de Nagoya du 11 décembre 2015[^1-3] sont réservées.
 
-[^1-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^1-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^1-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^1-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^1-3]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 2
 
@@ -180,7 +180,7 @@ Un engrais ne peut être homologué que si les conditions suivantes sont réunie
 - c. il est garanti que, s’il en est fait usage conformément aux prescriptions, les denrées alimentaires, les aliments pour animaux et les objets usuels fabriqués à partir de produits de base traités avec ces matières satisfont aux exigences de la législation sur les denrées alimentaires et de celle sur les aliments pour animaux;
 - d. il ne contient que des substances qui, dans la mesure où elles relèvent de l’OChim[^7-1], ont été classées, évaluées et notifiées conformément à cette ordonnance.
 
-[^7-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^7-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 8
 
@@ -206,7 +206,7 @@ Un engrais ne peut être homologué que si les conditions suivantes sont réunie
 
 <sup>6</sup> L’ajout intentionnel de phosphonates à un engrais est interdit. La présence non intentionnelle de phosphonates ne doit pas dépasser 0,5 % en masse.
 
-[^9-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^9-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 10
 
@@ -221,7 +221,7 @@ L’OFAG peut accorder une autorisation à une installation de compostage ou de 
 
 <sup>2</sup> Lorsqu’une autorisation au sens de l’al. 1 est accordée, la quantité de compost ou de digestats pouvant être remise est restreinte de manière à ce que la charge en polluants par hectare ne soit pas supérieure à ce qu’elle serait si les valeurs limites fixées à l’annexe 2.6, ch. 2.2.1.10, al. 1, ORRChim étaient respectées.
 
-[^10-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^10-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 11
 
@@ -312,7 +312,7 @@ Sont exemptés de l’enregistrement obligatoire visé à l’art. 14:
 - b. les engrais de ferme dont les livraisons ont été saisies conformément à l’art. 29 et qui ne sont pas remis en sacs.
 - c. les composts et digestats dont les livraisons sont enregistrées conformément à l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^17-1] et qui ne sont pas constitués d’une des matières premières soumises à autorisation visées à l’art. 29.
 
-[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### Section 3 Procédure d’enregistrement
 
@@ -352,7 +352,7 @@ L’enregistrement doit contenir au moins les données et documents ci-après:
 <sup>2</sup> Lorsque l’engrais est soumis à communication conformément aux art. 48 à 54 OChim, les données y relatives doivent être enregistrées dans le registre des produits.
 
 [^19-1]: Erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
-[^19-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^19-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### Section 4 Engrais soumis à autorisation
 
@@ -425,7 +425,7 @@ L’OFAG peut en tout temps subordonner une autorisation à des conditions et de
 
 <sup>8</sup> Le titulaire de l’autorisation communique immédiatement à l’OFAG toute nouvelle information concernant l’engrais.
 
-[^21-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^21-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 22
 
@@ -441,7 +441,7 @@ L’OFAG peut accorder, avant la fin de la procédure d’autorisation et pendan
 
 <sup>2</sup> Les engrais consistant en des organismes génétiquement modifiés ou pathogènes ou contenant de tels organismes ne sont autorisés provisoirement que s’ils satisfont aux exigences de l’art. 44 ODE[^22-1].
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -497,8 +497,8 @@ Sauf exigences spéciales, la demande d’autorisation doit contenir au moins le
 
 <sup>8</sup> Si les exigences relatives aux données ne sont pas remplies, l’OFAG impartit au demandeur un délai pour les compléter. Si les indications requises ne sont pas fournies dans ce délai, la demande n’est pas examinée.
 
-[^25-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^25-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^25-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^25-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 26
 
@@ -517,7 +517,7 @@ Lorsqu’un demandeur veut mettre en circulation un engrais déjà autorisé sou
 
 <sup>2</sup> La vérification de la classification et de l’étiquetage de l’engrais visés à l’art. 25, al. 1, let. g, n’a pas lieu dans le cadre de la procédure d’autorisation, mais s’effectue dans le cadre de la vérification du contrôle autonome, conformément à l’art. 81 OChim[^27-1].
 
-[^27-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^27-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 28
 
@@ -541,9 +541,9 @@ Lorsqu’un demandeur veut mettre en circulation un engrais déjà autorisé sou
 
 <sup>3</sup> Les détenteurs d’installations de compostage ou de méthanisation qui traitent plus de 100 t de matières compostables ou méthanisables par année civile, qui cèdent des engrais de ferme ou des engrais de recyclage au sens des al. 1 et 2 doivent également communiquer dans le système d’information les matières premières destinées à être compostées ou méthanisées.
 
-[^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^29-2]: Introduit par l’annexe ch. 2 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 30
 
@@ -587,7 +587,7 @@ Le nom et l’adresse de l’importateur peuvent être remplacés par le nom et 
 [^31-1]: Cf. note de bas de page relative à l’art. 2, al. 2.
 [^31-2]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, version du JO L 218 du 13.8.2008 p. 30.
 [^31-3]: Cf. note de bas de page relative à l’art. 2, al. 2.
-[^31-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^31-4]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 32
 
@@ -620,7 +620,7 @@ Toutes les allégations publicitaires doivent se justifier sur le plan technique
 
 <sup>2</sup> Les données nécessaires pour l’enregistrement et pour l’autorisation sont saisies dans le registre des produits.
 
-[^34-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^34-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 35
 
@@ -628,9 +628,10 @@ Toutes les allégations publicitaires doivent se justifier sur le plan technique
 
 <sup>1</sup> Les entreprises et les personnes qui fabriquent ou mettent en circulation des engrais sont tenues de fournir sur demande à l’OFAG des renseignements sur les produits et les quantités commercialisés.
 
-<sup>2</sup> La statistique de commercialisation est régie par les dispositions de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^35-1].
+<sup>2</sup> La statistique de commercialisation est régie par les dispositions de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^35-1].[^35-2]
 
-[^35-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^35-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^35-2]: Nouvelle teneur selon l’annexe 3 ch. 25 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Chapitre 6 Exécution et contrôle
 
@@ -665,7 +666,7 @@ L’OFAG peut:
 
 <sup>2</sup> L’OFAG et les laboratoires reconnus au sens de l’al. 1, let. d, peuvent prélever à tout moment des échantillons auprès des fabricants d’engrais, notamment dans les installations de compostage ou de méthanisation, et sur les lieux d’épandage.
 
-[^37-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^37-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 38
 
@@ -677,9 +678,9 @@ L’OFAG peut:
 
 <sup>3</sup> S’agissant des engrais qui consistent en des organismes génétiquement modifiés ou pathogènes ou qui contiennent de tels organismes, l’OFAG dirige et coordonne la procédure, en tenant compte de l’ODE[^38-3].
 
-[^38-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^38-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^38-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^38-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^38-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-3]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 39
 
@@ -699,7 +700,7 @@ L’OFAG peut:
 
 Les émoluments perçus pour les actes administratifs relevant de la présente ordonnance et le mode de calcul sont régis par l’ordonnance du 16 juin 2006 relative aux émoluments perçus par l’Office fédéral de l’agriculture[^40-1].
 
-[^40-1]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
+[^40-1]: [RS 910.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10402)
 
 ### Section 2 Prélèvement d’échantillons et analyses
 
@@ -744,7 +745,7 @@ L’identifiant unique de formulation (UFI) au sens de l’art. 15*a* OChim[^44-
 - a. les engrais destinés aux utilisateurs professionnels;
 - b. les engrais destinés aux utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022.
 
-[^44-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^44-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 45
 
@@ -1448,7 +1449,7 @@ M = la valeur maximale du nombre de bactéries, exprimée en UFC
 
 <sup>3</sup> Les livraisons des engrais de ferme sont régies par l’art. 29. Sauf s’ils sont remis en sac, ils ne doivent pas être enregistré dans le registre des produits, mais conformément à l’OSIAgr[^annex1-lvlu1-lvl3-lvlu8-1].
 
-[^annex1-lvlu1-lvl3-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-lvl3-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Engrais de recyclage
 
@@ -1525,7 +1526,7 @@ Annexe 2
 ### 1 Désignation des CMC
 
 [^annex2-lvlu1-1]: Cf, note de bas de page relative à l’art. 2, al. 2.
-[^annex2-lvlu1-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 CMC 1: Substances et mélanges à base de matières vierges
 
@@ -1569,7 +1570,7 @@ CMC 100: Engrais de ferme
 
 <sup>2</sup> La substance ne remplissant pas les exigences visées à l’annexe II, partie II, CMC 1, point 2, du règlement (UE) n° 2019/1009 doit être notifiée conformément à l’art. 24 OChim[^annex2-lvlu1-lvl2-lvlCMC-1].
 
-[^annex2-lvlu1-lvl2-lvlCMC-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl2-lvlCMC-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### CMC 2: Végétaux, parties de végétaux ou extraits de végétaux
 
@@ -1589,7 +1590,7 @@ Un engrais peut contenir du compost qui respecte les prescriptions définies à 
 - f. l’exigence à l’annexe II, partie II, CMC 3, point 5, du règlement (UE) 2019/1009 concernant les critères de stabilités est facultative;
 - g. en complément des matériaux et additifs décrits à l’annexe II, partie II, CMC 3 du règlement (UE) 2019/1009, les matériaux de la CMC 14 peuvent être utilisés sans restriction quantitative dans le compostage.
 
-[^annex2-lvlu1-lvl2-lvlCMC-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex2-lvlu1-lvl2-lvlCMC-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### CMC 4: Digestat issu de cultures végétales
 
@@ -2227,7 +2228,7 @@ Les informations suivantes doivent être fournies:
 
 <sup>4</sup> Lors de la remise d’engrais de ferme en sacs, le mode d’emploi doit prendre en considération les recommandations de fumure applicables aux acheteurs concernés.
 
-[^annex3-lvlu1-lvl2-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex3-lvlu1-lvl2-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Engrais de recyclage
 
@@ -2242,7 +2243,7 @@ Les informations suivantes doivent être fournies:
 
 <sup>3</sup> Lors de la remise de compost et de digestats, les instructions concernant l’usage prévu doivent respecter la quantité autorisée conformément à l’ORRChim[^annex3-lvlu1-lvl2-lvlu9-1].
 
-[^annex3-lvlu1-lvl2-lvlu9-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex3-lvlu1-lvl2-lvlu9-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### PFC 103: Autres engrais
 

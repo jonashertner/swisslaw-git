@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2025-02-07
+version: 2025-06-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 7. Februar 2025)
+vom 1. November 2023 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,13 +25,13 @@ gestützt auf die Artikel 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 1�
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-6]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-7]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-6]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-7]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -53,9 +53,9 @@ Die Verordnung gilt nicht:
 
 <sup>4</sup> Für das Inverkehrbringen von Düngern, deren Entwicklung auf der Nutzung von genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, bleiben die Bestimmungen der Nagoya-Verordnung vom 11. Dezember 2015[^1-3] vorbehalten.
 
-[^1-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^1-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-3]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^1-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^1-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^1-3]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 2
 
@@ -180,7 +180,7 @@ Ein Dünger kann nur zugelassen werden, wenn er folgende Voraussetzungen erfüll
 - c. Er bietet bei vorschriftsgemässem Gebrauch Gewähr dafür, dass damit behandelte Ausgangsprodukte Lebensmittel, Futtermittel und Gebrauchsgegenstände ergeben, welche die Anforderungen der Lebensmittel- und Futtermittelgesetzgebung erfüllen.
 - d. Er enthält ausschliesslich Stoffe, die, sofern sie unter die ChemV[^7-1] fallen, gemäss der ChemV eingestuft, beurteilt und angemeldet wurden.
 
-[^7-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^7-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 8
 
@@ -206,7 +206,7 @@ Ein Dünger kann nur zugelassen werden, wenn er folgende Voraussetzungen erfüll
 
 <sup>6</sup> Phosphonate dürfen einem Dünger nicht absichtlich zugesetzt werden. Unbeabsichtigt enthaltene Phosphonate dürfen einen Massenanteil von 0,5 Prozent nicht überschreiten.
 
-[^9-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^9-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 10
 
@@ -221,7 +221,7 @@ Das BLW kann einer Kompostierungs- oder Vergärungsanlage eine befristete Bewill
 
 <sup>2</sup> Wird eine Bewilligung nach Absatz 1 erteilt, so wird die Abgabemenge des Komposts oder Gärguts so eingeschränkt, dass die Schadstofffracht pro Hektare nicht grösser ist als bei Einhaltung der Grenzwerte nach Anhang 2.6 Ziffer 2.2.1.10 Absatz 1 ChemRRV.
 
-[^10-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^10-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 11
 
@@ -312,7 +312,7 @@ Von der Registrierungspflicht nach Artikel 14 ausgenommen sind:
 - b. Hofdünger, deren Lieferungen gemäss Artikel 29 erfasst wurden und die nicht in Säcken abgegeben werden;
 - c. Kompost und Gärgut, deren Lieferungen gemäss der Verordnung vom 23. Oktober 2013[^17-1] über Informationssysteme im Bereich der Landwirtschaft (ISLV) registriert sind und die nicht aus einem nach Artikel 29 bewilligungspflichtigen Ausgangsmaterial bestehen.
 
-[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### 3. Abschnitt: Registrierungsverfahren
 
@@ -351,7 +351,7 @@ Die Registrierung muss mindestens die folgenden Angaben und Dokumente enthalten:
 
 <sup>2</sup> Ist der Dünger gemäss den Artikeln 48–54 ChemV meldepflichtig, so müssen die entsprechenden Angaben im Produkteregister eingetragen werden.
 
-[^19-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^19-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4. Abschnitt: Bewilligungspflichtige Dünger
 
@@ -424,7 +424,7 @@ Das BLW kann eine Bewilligung jederzeit mit einschränkenden Bedingungen und Auf
 
 <sup>8</sup> Der Bewilligungsinhaber teilt dem BLW unverzüglich alle neuen Informationen über den Dünger mit.
 
-[^21-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^21-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 22
 
@@ -440,7 +440,7 @@ Das BLW kann vor Abschluss des Bewilligungsverfahrens während höchstens fünf 
 
 <sup>2</sup> Dünger, die aus gentechnisch veränderten oder pathogenen Organismen bestehen oder solche enthalten, werden nur dann provisorisch bewilligt, wenn sie die Anforderungen nach Artikel 44 FrSV[^22-1] erfüllen.
 
-[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -496,8 +496,8 @@ Sofern keine besonderen Anforderungen festgelegt sind, muss das Bewilligungsgesu
 
 <sup>8</sup> Erfüllen die Angaben die Anforderungen nicht, so räumt das BLW dem Gesuchsteller eine Frist zur Ergänzung ein. Werden die erforderlichen Angaben innert dieser Frist nicht geliefert, so wird auf das Gesuch nicht eingetreten.
 
-[^25-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^25-2]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^25-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^25-2]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 26
 
@@ -516,7 +516,7 @@ Möchte ein Gesuchsteller einen bereits bewilligten Dünger unter seinem eigenen
 
 <sup>2</sup> Die Überprüfung der Einstufung und der Kennzeichnung des Düngers nach Artikel 25 Absatz 1 Buchstabe g erfolgt nicht im Rahmen des Bewilligungsverfahrens, sondern im Rahmen der Überprüfung der Selbstkontrolle nach Artikel 81 ChemV[^27-1].
 
-[^27-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^27-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 28
 
@@ -540,9 +540,9 @@ Möchte ein Gesuchsteller einen bereits bewilligten Dünger unter seinem eigenen
 
 <sup>3</sup> Inhaber von Kompostierungs- oder Vergärungsanlagen, die pro Kalenderjahr mehr als 100 t kompostier- oder vergärbares Material verarbeiten und Hof- oder Recyclingdünger nach den Absätzen 1 und 2 abgeben, müssen auch die Ausgangsmaterialien für die Kompostierung oder die Vergärung im Informationssystem mitteilen.
 
-[^29-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^29-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^29-2]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^29-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 30
 
@@ -586,7 +586,7 @@ Der Name und die Adresse des Importeurs können durch den Namen und die Adresse 
 [^31-1]: Siehe Fussnote zu Art. 2 Abs. 2.
 [^31-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, Fassung vom ABl. L 218 vom 13.8.2008, S. 30.
 [^31-3]: Siehe Fussnote zu Art. 2 Abs. 2.
-[^31-4]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^31-4]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 32
 
@@ -619,7 +619,7 @@ Alle in der Werbung verwendeten Aussagen müssen technisch zu rechtfertigen sein
 
 <sup>2</sup> Die für die Registrierung und die Bewilligung erforderlichen Daten werden im Produkteregister erfasst.
 
-[^34-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^34-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 35
 
@@ -627,9 +627,10 @@ Alle in der Werbung verwendeten Aussagen müssen technisch zu rechtfertigen sein
 
 <sup>1</sup> Unternehmen und Personen, welche Dünger herstellen oder in Verkehr bringen, sind verpflichtet, dem BLW auf Anfrage hin Auskunft über ihre vermarkteten Produkte und Mengen zu geben.
 
-<sup>2</sup> Die Umsatzstatistik richtet sich nach den Bestimmungen der Statistikerhebungsverordnung vom 30. Juni 1993[^35-1].
+<sup>2</sup> Die Umsatzstatistik richtet sich nach den Bestimmungen der Bundesstatistikverordnung vom 30. April 2025[^35-1].[^35-2]
 
-[^35-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^35-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^35-2]: Fassung gemäss Anhang 3 Ziff. 25 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## 6. Kapitel: Vollzug und Kontrolle
 
@@ -664,7 +665,7 @@ Das BLW kann:
 
 <sup>2</sup> Das BLW und die anerkannten Untersuchungsstellen nach Absatz 1 Buchstabe d können bei den Herstellern von Düngern, namentlich bei den Kompostierungs- oder Vergärungsanlagen, sowie am Ort der Düngung jederzeit Proben nehmen.
 
-[^37-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^37-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 38
 
@@ -676,9 +677,9 @@ Das BLW kann:
 
 <sup>3</sup> Bei Düngern, die aus gentechnisch veränderten oder pathogenen Organismen bestehen oder solche enthalten, leitet und koordiniert das BLW das Verfahren unter Berücksichtigung der FrSV[^38-3].
 
-[^38-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^38-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^38-3]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^38-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^38-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-3]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 39
 
@@ -698,7 +699,7 @@ Das BLW kann:
 
 Die Gebühren für Verwaltungshandlungen nach dieser Verordnung und die Gebührenbemessung richten sich nach der Verordnung vom 16. Juni 2006[^40-1] über Gebühren des Bundesamtes für Landwirtschaft.
 
-[^40-1]: [SR 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
+[^40-1]: [SR 910.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10402)
 
 ### 2. Abschnitt: Probenahme und Analysen
 
@@ -743,7 +744,7 @@ Der eindeutige Rezepturidentifikator (UFI) nach Artikel 15*a* ChemV[^44-1] muss 
 - a. Dünger, die für gewerbliche Verwender bestimmt sind;
 - b. Dünger, die für private Verwender bestimmt sind und vor dem 1. Januar 2022 in Verkehr gebracht wurden.
 
-[^44-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^44-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 45
 
@@ -1447,7 +1448,7 @@ M = Höchstwert für die Keimzahl, ausgedrückt in KBE
 
 <sup>3</sup> Hofdüngerlieferungen richten sich nach Artikel 29. Sofern sie nicht in Säcken abgegeben werden, müssen sie nicht im Produkteregister, sondern gemäss der ISLV[^annex1-lvlu1-lvl3-lvlu8-1] erfasst werden.
 
-[^annex1-lvlu1-lvl3-lvlu8-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-lvl3-lvlu8-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Recyclingdünger
 
@@ -1513,7 +1514,7 @@ Ein Zusatz zu Dünger verbessert die Eigenschaften oder die Wirksamkeit von Dün
 
 Anhang 2
 
-(Art. 14 Abs. 2 sowie 20 Abs. 1 Bst. c und d)
+(Art. 14 Abs. 2 sowie 20 Abs. 1 Bst. b und c)
 
 ## Komponentenmaterialkategorien (CMC)
 
@@ -1524,7 +1525,7 @@ Anhang 2
 ### 1 Bezeichnung der CMC
 
 [^annex2-lvlu1-1]: Siehe Fussnote zu Art. 2 Abs. 2.
-[^annex2-lvlu1-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 CMC 1: Stoffe und Gemische aus unbearbeiteten Rohstoffen
 
@@ -1568,7 +1569,7 @@ CMC 100: Hofdünger
 
 <sup>2</sup> Ein Stoff, der die Anforderungen gemäss Anhang II Teil II CMC 1 Nummer 2 der Verordnung (EU) 2019/1009 nicht erfüllt, muss nach Artikel 24 ChemV[^annex2-lvlu1-lvl2-lvlCMC-1] angemeldet werden.
 
-[^annex2-lvlu1-lvl2-lvlCMC-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl2-lvlCMC-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### CMC 2: Pflanzen, Pflanzenteile oder Pflanzenextrakte
 
@@ -1588,7 +1589,7 @@ Ein Dünger kann Kompost enthalten, der die für Anhang II Teil II CMC 3 der Ver
 - f. Die Anforderung in Anhang II Teil II CMC 3 Nummer 5 der Verordnung (EU) 2019/1009 zu den Stabilitätskriterien ist fakultativ.
 - g. Ergänzend zu den in Anhang II Teil II CMC 3 der Verordnung (EU) 2019/ 1009 beschriebenen Materialien und Zusätzen können Materialien der CMC 14 ohne quantitative Einschränkung in der Kompostierung eingesetzt werden.
 
-[^annex2-lvlu1-lvl2-lvlCMC-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex2-lvlu1-lvl2-lvlCMC-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### CMC 4: Frisches Gärgut von Pflanzen
 
@@ -2226,7 +2227,7 @@ Folgende Angaben sind zu machen:
 
 <sup>4</sup> Wird Hofdünger in Säcken abgegeben, so muss die Gebrauchsanweisung die für die jeweilige Abnehmerin oder den jeweiligen Abnehmer anwendbaren Düngungsempfehlungen berücksichtigen.
 
-[^annex3-lvlu1-lvl2-lvlu8-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex3-lvlu1-lvl2-lvlu8-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Recyclingdünger
 
@@ -2241,7 +2242,7 @@ Folgende Angaben sind zu machen:
 
 <sup>3</sup> Wird Kompost und Gärgut abgegeben, so müssen die Anweisungen betreffend Anwendungszweck die erlaubte Verwendungsmenge nach der ChemRRV[^annex3-lvlu1-lvl2-lvlu9-1] respektieren.
 
-[^annex3-lvlu1-lvl2-lvlu9-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex3-lvlu1-lvl2-lvlu9-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### PFC 103: Sonstige Dünger
 

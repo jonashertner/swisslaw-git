@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2025-02-07
+version: 2025-06-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250207/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250207-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250207/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 7 febbraio 2025)
+del 1° novembre 2023 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,13 +25,13 @@ visti gli articoli 148*a* capoverso 3, 158 capoverso 2, 159*a*, 160 capoversi 1�
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-6]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-7]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-6]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-7]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -53,9 +53,9 @@ L’ordinanza non si applica:
 
 <sup>4</sup> Per la messa in commercio di concimi il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, sono fatte salve le disposizioni dell’ordinanza di Nagoya dell’11 dicembre 2015[^1-3].
 
-[^1-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^1-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^1-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^1-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^1-3]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 2
 
@@ -180,7 +180,7 @@ Un concime può essere omologato soltanto se sono adempiute tutte le seguenti co
 - c. un’utilizzazione conforme alle prescrizioni garantisce che a partire dai prodotti di base trattati con tale concime si ottengono derrate alimentari, alimenti per animali e oggetti d’uso che soddisfano le esigenze della legislazione sulle derrate alimentari e di quella sugli alimenti per animali;
 - d. contiene esclusivamente sostanze che se rientrano nel campo d’applicazione dell’OPChim[^7-1] sono classificate, valutate e notificate conformemente alla stessa.
 
-[^7-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^7-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 8
 
@@ -206,7 +206,7 @@ Un concime può essere omologato soltanto se sono adempiute tutte le seguenti co
 
 <sup>6</sup> È vietata l’aggiunta intenzionale di fosfonati a un concime. La presenza non intenzionale di fosfonati non deve superare lo 0,5 per cento in massa.
 
-[^9-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^9-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 10
 
@@ -221,7 +221,7 @@ Per un periodo limitato, l’UFAG può concedere a un impianto di compostaggio o
 
 <sup>2</sup> Se è concessa un’autorizzazione ai sensi del capoverso 1, la quantità di compost o di digestato che può essere fornita è limitata in modo che il carico di inquinanti per ettaro non sia superiore a quello che si avrebbe rispettando i valori limite di cui all’allegato 2.6 numero 2.2.1.10 capoverso 1 ORRPChim.
 
-[^10-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^10-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 11
 
@@ -312,7 +312,7 @@ Non soggiacciono all’obbligo di registrazione di cui all’articolo 14:
 - b. i concimi aziendali le cui forniture sono state registrate conformemente all’articolo 29 e che non sono forniti in sacchi;
 - c. i compost e i digestati le cui forniture sono registrate conformemente all’ordinanza del 23 ottobre 2013[^17-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr) e che non sono costituiti da una delle materie prime soggette ad autorizzazione di cui all’articolo 29.
 
-[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### Sezione 3: Procedura di registrazione
 
@@ -351,7 +351,7 @@ La registrazione deve contenere almeno i seguenti dati e documenti:
 
 <sup>2</sup> Se un concime è soggetto all’obbligo di annuncio ai sensi degli articoli 48–54 OPChim, i relativi dati devono essere registrati nel registro dei prodotti.
 
-[^19-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^19-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### Sezione 4: Concimi soggetti ad autorizzazione
 
@@ -424,7 +424,7 @@ L’UFAG può in ogni momento vincolare l’autorizzazione a condizioni e a oner
 
 <sup>8</sup> Il titolare dell’autorizzazione comunica immediatamente all’UFAG tutte le nuove informazioni concernenti il concime.
 
-[^21-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^21-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 22
 
@@ -440,7 +440,7 @@ L’UFAG può concedere, prima della fine della procedura di autorizzazione e pe
 
 <sup>2</sup> I concimi composti da organismi geneticamente modificati o patogeni o che contengono questo tipo di organismi sono autorizzati in via provvisoria soltanto se adempiono le condizioni di cui all’articolo 44 OEDA[^22-1].
 
-[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^22-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 23
 
@@ -496,8 +496,8 @@ Fatte salve esigenze speciali, la domanda di autorizzazione deve contenere almen
 
 <sup>8</sup> Se le esigenze concernenti i dati non sono adempiute, l’UFAG assegna al richiedente un termine per completarli. Se le informazioni richieste non sono fornite entro tale termine, non si entra nel merito della domanda.
 
-[^25-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^25-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^25-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^25-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 26
 
@@ -516,7 +516,7 @@ Se un richiedente intende mettere in commercio un concime già autorizzato sotto
 
 <sup>2</sup> La verifica della classificazione e dell’etichettatura del concime giusta l’articolo 25 capoverso 1 lettera h non avviene nell’ambito della procedura di autorizzazione, bensì nel quadro della verifica del controllo autonomo conformemente all’articolo 81 OPChim[^27-1].
 
-[^27-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^27-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 28
 
@@ -540,9 +540,9 @@ Se un richiedente intende mettere in commercio un concime già autorizzato sotto
 
 <sup>3</sup> I detentori di impianti di compostaggio o di fermentazione che lavorano più di 100 tonnellate di materiale compostabile o fermentabile per anno civile e cedono concimi aziendali o concimi ottenuti dal riciclaggio ai sensi dei capoversi 1 e 2 devono registrare nel sistema d’informazione anche le materie prime per il compostaggio o la fermentazione.
 
-[^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^29-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^29-2]: Introdotto dall’all n. 2 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^29-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 30
 
@@ -554,7 +554,7 @@ Se un richiedente intende mettere in commercio un concime già autorizzato sotto
 
 <sup>3</sup> I detentori di impianti devono far effettuare le necessarie analisi secondo la direttiva dell’UFAG[^30-1], onde determinare i tenori di sostanze nutritive e le proprietà di cui all’allegato 1 numero 2 PFC 100 e 101 nonché garantire che le esigenze di cui all’articolo 9 siano soddisfatte. Mettono immediatamente a disposizione dell’UFAG e delle autorità cantonali i risultati delle analisi.
 
-[^30-1]: La direttiva è disponibile sul sito Internet www.blw.admin.ch/it/concimi.
+[^30-1]: La direttiva è disponibile sul sito Internet www.blw.admin.ch/it/concimi .
 
 ## Capitolo 4: Etichettatura e pubblicità
 
@@ -586,7 +586,7 @@ Il nome e l’indirizzo dell’importatore possono essere sostituiti dal nome e 
 [^31-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
 [^31-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio del 9 luglio 2008 che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, versione della GU L 218 del 13.8.2008, pag. 30.
 [^31-3]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
-[^31-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^31-4]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 32
 
@@ -619,7 +619,7 @@ Tutte le affermazioni contenute nella pubblicità devono essere tecnicamente giu
 
 <sup>2</sup> I dati necessari per la registrazione e per l’autorizzazione sono registrati nel registro dei prodotti.
 
-[^34-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^34-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 35
 
@@ -627,9 +627,10 @@ Tutte le affermazioni contenute nella pubblicità devono essere tecnicamente giu
 
 <sup>1</sup> Le aziende e le persone che fabbricano o mettono in commercio concimi sono tenute a fornire all’UFAG, su richiesta, informazioni concernenti i prodotti da loro messi in commercio e le relative quantità.
 
-<sup>2</sup> Le statistiche di vendita sottostanno alle disposizioni dell’ordinanza del 30 giugno 1993[^35-1] sulle rilevazioni statistiche.
+<sup>2</sup> Le statistiche di vendita sottostanno alle disposizioni dell’ordinanza del 30 aprile 2025[^35-1] sulla statistica federale.[^35-2]
 
-[^35-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^35-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^35-2]: Nuovo testo giusta l’all. 3 n. 25 dell’O del 30 apr. 2025 sulla statististica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Capitolo 6: Esecuzione e controllo
 
@@ -664,7 +665,7 @@ L’UFAG può:
 
 <sup>2</sup> L’UFAG e i laboratori riconosciuti ai sensi del capoverso 1 lettera d possono in ogni momento prelevare campioni presso i fabbricanti di concimi, segnatamente negli impianti di compostaggio o di fermentazione, nonché sui luoghi di spandimento.
 
-[^37-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^37-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 38
 
@@ -676,9 +677,9 @@ L’UFAG può:
 
 <sup>3</sup> Trattandosi di concimi composti da organismi geneticamente modificati o patogeni o che contengono questo tipo di organismi, l’UFAG dirige e coordina la procedura tenendo conto dell’OEDA[^38-3].
 
-[^38-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^38-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^38-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^38-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^38-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-3]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 39
 
@@ -698,7 +699,7 @@ L’UFAG può:
 
 Le tasse riscosse per atti amministrativi secondo la presente ordinanza e le modalità di calcolo sono rette dall’ordinanza del 16 giugno 2006[^40-1] concernente le tasse dell’Ufficio federale dell’agricoltura.
 
-[^40-1]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
+[^40-1]: [RS 910.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10402)
 
 ### Sezione 2: Prelievo di campioni e analisi
 
@@ -743,7 +744,7 @@ L’identificatore unico di formula (UFI) secondo l’articolo 15*a* OPChim[^44-
 - a. i concimi destinati a utilizzatori professionali;
 - b. i concimi destinati a utilizzatori privati e messi in commercio prima del 1° gennaio 2022.
 
-[^44-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^44-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 45
 
@@ -1447,7 +1448,7 @@ M = valore massimo del numero di batteri, espresso in UFC
 
 <sup>3</sup> La fornitura di concimi aziendali è disciplinata all’articolo 29. A meno che siano forniti in sacchi, non devono essere registrati nel registro dei prodotti, ma in conformità dell’OSIAgr[^annex1-lvlu1-lvl3-lvlu8-1].
 
-[^annex1-lvlu1-lvl3-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-lvl3-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Concime ottenuto dal riciclaggio
 
@@ -1524,7 +1525,7 @@ Allegato 2
 ### 1 Designazione delle CMC
 
 [^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
-[^annex2-lvlu1-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 CMC 1: Sostanze e miscele a base di materiale grezzo
 
@@ -1568,7 +1569,7 @@ CMC 100: Concime aziendale
 
 <sup>2</sup> Le sostanze che non adempiono le esigenze relative alla CMC 1 di cui al punto 2 della parte II dell’allegato II del regolamento (UE) 2019/1009 devono essere notificate conformemente all’articolo 24 OPChim[^annex2-lvlu1-lvl2-lvlCMC-1].
 
-[^annex2-lvlu1-lvl2-lvlCMC-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl2-lvlCMC-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### CMC 2: Piante, parti di piante o estratti di piante
 
@@ -1588,7 +1589,7 @@ Un concime può contenere compost che adempie le prescrizioni definite per la CM
 - f. l’esigenza relativa alla CMC 3 di cui al punto 5 della parte II dell’allegato II del regolamento (UE) 2019/1009 concernente i criteri di stabilità è facoltativa;
 - g. a complemento dei materiali e degli additivi appartenenti alla CMC 3 della parte II dell’allegato II del regolamento (UE) 2019/1009, i materiali appartenenti alla CMC 14 possono essere utilizzati senza limitazioni quantitative nel compostaggio.
 
-[^annex2-lvlu1-lvl2-lvlCMC-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex2-lvlu1-lvl2-lvlCMC-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### CMC 4: Digestato di colture fresche
 
@@ -2222,7 +2223,7 @@ Devono essere fornite le seguenti informazioni:
 
 <sup>4</sup> In caso di fornitura in sacchi di concime aziendale, le istruzioni concernenti l’utilizzazione devono tener conto delle raccomandazioni in materia di concimazione applicabili per il rispettivo acquirente.
 
-[^annex3-lvlu1-lvl2-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex3-lvlu1-lvl2-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### PFC 101: Concime ottenuto dal riciclaggio
 
@@ -2237,7 +2238,7 @@ Devono essere fornite le seguenti informazioni:
 
 <sup>3</sup> In caso di fornitura di compost o digestato, le istruzioni concernenti l’utilizzazione prevista devono rispettare il dosaggio autorizzato conformemente all’ORRPChim[^annex3-lvlu1-lvl2-lvlu9-1].
 
-[^annex3-lvlu1-lvl2-lvlu9-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex3-lvlu1-lvl2-lvlu9-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### PFC 103: Altro concime
 
