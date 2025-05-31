@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> janvier 2025)
+du 27 juin 1995 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -687,7 +687,7 @@ Les fournisseurs de prestations communiquent à l’Office fédéral de la stati
 
 **Collecte et traitement des données des fournisseurs de prestations**[^30a-1]
 
-<sup>1</sup> Les fournisseurs de prestations doivent transmettre les données en respectant les variables fixées dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^30a-2]; ils doivent les transmettre à leurs frais, de manière exacte et complète, dans les délais impartis et en garantissant l’anonymat des patients.
+<sup>1</sup> Les fournisseurs de prestations doivent transmettre les données en respectant les variables fixées dans le règlement de traitement visé à l’art. 30*c*; ils doivent les transmettre à leurs frais, de manière exacte et complète, dans les délais impartis et en garantissant l’anonymat des patients.[^30a-2]
 
 <sup>2</sup> Ils sont tenus de transmettre les données à l’OFS par voie électronique sous forme chiffrée.
 
@@ -699,11 +699,12 @@ Les fournisseurs de prestations communiquent à l’Office fédéral de la stati
 
 <sup>6</sup> Il peut réutiliser à des fins statistiques, dans le respect de la législation sur la statistique fédérale, les données recueillies en les rendant anonymes ou en utilisant des pseudonymes.
 
-<sup>7</sup> Il peut produire des indicateurs de qualité en appariant des données visées à l’art. 30 à d’autres sources de données. Les art. 13*h* à 13*n* de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^30a-3] s’appliquent par analogie, à l’exception des dispositions réglant l’appariement de données sur mandat de tiers.
+<sup>7</sup> Il peut produire des indicateurs de qualité en appariant des données visées à l’art. 30 à d’autres sources de données. Le chapitre 2, section 6, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^30a-3] s’applique par analogie.[^30a-4]
 
 [^30a-1]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^30a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30a-2]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-4]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
 
@@ -1389,7 +1390,7 @@ Les psychologues-psychothérapeutes sont admis s’ils remplissent les condition
 [^50c-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^50c-4]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^50c-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^50c-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^50c-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
 
 #### Art. 50d
 
@@ -1411,7 +1412,7 @@ Les podologues sont admis s’ils remplissent les conditions suivantes:
 - e. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
 
 [^50d-1]: Introduit par le ch. I de l’O du 26 mai 2021 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^50d-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^50d-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
 
 #### Art. 51
 
@@ -1861,25 +1862,26 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 <sup>1</sup> Dans le cas d’un modèle de rémunération de type DRG (*Diagnosis Related Groups*), le fournisseur de prestations doit munir d’un numéro d’identification unique les ensembles de données avec les indications administratives et médicales visées à l’art 59, al. 1. Le DFI fixe la structure uniforme au niveau suisse des ensembles de données.[^59a-2]
 
-<sup>2</sup> Les diagnostics et les procédures visés à l’art 59, al. 1, let. c, doivent être codés conformément aux classifications mentionnées pour la statistique médicale des hôpitaux au ch. 62 de l’annexe à l’ordonnance du 30 juin 1993 sur les relevés statistiques[^59a-3].
+<sup>2</sup> Les diagnostics et les procédures visés à l’art. 59, al. 1, let. c, doivent être codés conformément aux classifications utilisées lors du relevé pour la statistique des services de santé visé à l’annexe 1, ch. 05.03, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^59a-3].[^59a-4]
 
-<sup>3</sup> Le fournisseur de prestations transmet simultanément avec la facture les ensembles de données avec les indications administratives et médicales visées à l’art 59, al. 1, au service de réception des données de l’assureur.[^59a-4] Il doit être garanti que seul ce service de réception des données obtienne l’accès aux indications médicales.
+<sup>3</sup> Le fournisseur de prestations transmet simultanément avec la facture les ensembles de données avec les indications administratives et médicales visées à l’art 59, al. 1, au service de réception des données de l’assureur.[^59a-5] Il doit être garanti que seul ce service de réception des données obtienne l’accès aux indications médicales.
 
 <sup>4</sup> Le service de réception des données détermine pour quelles factures un examen plus approfondi est nécessaire et transmet à l’assureur les indications nécessaires à cet effet. L’assureur ne peut pas donner au service de réception des données, pour des factures individuelles, d’instructions concernant la transmission des données.
 
 <sup>5</sup> Si des renseignements supplémentaires d’ordre médical au sens de l’art. 42, al. 4, de la loi sont exigés du fournisseur de prestations par l’assureur au cours de l’examen, l’assureur doit informer la personne assurée sur les possibilités dont elle dispose selon l’art. 42, al. 5, de la loi.
 
-<sup>6</sup> Chaque assureur doit disposer d’un service de réception des données. Celui-ci doit être certifié au sens de l’art. 13 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^59a-5].[^59a-6]
+<sup>6</sup> Chaque assureur doit disposer d’un service de réception des données. Celui-ci doit être certifié au sens de l’art. 13 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^59a-6].[^59a-7]
 
-<sup>7</sup> L’assureur informe spontanément le Préposé fédéral à la protection des données et à la transparence (PFPDT) visé à l’art. 43 LPD de la certification de son service de réception des données ou du renouvellement de la certification. Le PFPDT peut exiger à tout moment du service de réception des données ou de l’organisme de certification les documents déterminants pour la certification ou le renouvellement de la certification. Il publie une liste des services de réception des données certifiés.[^59a-7]
+<sup>7</sup> L’assureur informe spontanément le Préposé fédéral à la protection des données et à la transparence (PFPDT) visé à l’art. 43 LPD de la certification de son service de réception des données ou du renouvellement de la certification. Le PFPDT peut exiger à tout moment du service de réception des données ou de l’organisme de certification les documents déterminants pour la certification ou le renouvellement de la certification. Il publie une liste des services de réception des données certifiés.[^59a-8]
 
 [^59a-1]: Introduit par le ch. I de l’O du 17 sept. 1997 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^59a-2]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^59a-4]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59a-6]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-7]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-4]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^59a-5]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-7]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-8]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -3056,19 +3058,20 @@ Les contrats de prestations visés aux art. 58*d*, al. 2, et 58*e*, al. 2, LAMal
 
 **Calcul des parts de financement des cantons et des assureurs**[^77g-1]
 
-<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se base sur les chiffres du dernier relevé de la population résidente permanente moyenne effectué par l’OFS.
+<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se fonde sur les chiffres de la population résidente permanente moyenne résultant du dernier relevé pour la statistique de la population et des ménages.[^77g-2]
 
 <sup>2</sup> Le calcul du nombre d’assurés au sens de l’art. 58*f*, al. 5, LAMal se base sur les effectifs d’assurés au 1<sup>er</sup> janvier.
 
 <sup>3</sup> L’OFSP calcule les parts de financement des cantons et des assureurs.
 
 [^77g-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77g-2]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 77h
 
 **Perception des contributions**[^77h-1]
 
-<sup>1</sup> L’OFSP demande le 30 avril au plus tard aux cantons et aux assureurs de verser leur contribution pour l’année.
+<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se fonde sur les chiffres de la population résidente permanente moyenne résultant du dernier relevé pour la statistique de la population et des ménages.
 
 <sup>2</sup> Les assureurs et les cantons qui ne versent pas leur contribution dans le délai imparti sont débiteurs d’intérêts moratoires de 5 % par an.
 

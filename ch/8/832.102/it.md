@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2025)
+del 27 giugno 1995 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -686,7 +686,7 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 **Rilevazione e trattamento dei dati dei fornitori di prestazioni**[^30a-1]
 
-<sup>1</sup> I fornitori di prestazioni devono fornire i dati, conformemente alle pertinenti variabili che figurano nell’allegato dell’ordinanza del 30 giugno 1993[^30a-2] sulle rilevazioni statistiche, in maniera corretta, completa, entro il termine prescritto, a proprie spese e nel rispetto dell’anonimato dei pazienti.
+<sup>1</sup> I fornitori di prestazioni devono fornire i dati, conformemente alle pertinenti variabili che figurano nel regolamento per il trattamento di cui all’articolo 30*c* in maniera corretta, completa, entro il termine prescritto, a proprie spese e nel rispetto dell’anonimato dei pazienti.[^30a-2]
 
 <sup>2</sup> Essi trasmettono i dati all’UST per via elettronica e in forma criptata.
 
@@ -698,11 +698,12 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 <sup>6</sup> Nell’ambito della legislazione in materia di statistica federale, esso può riutilizzare a fini statistici i dati raccolti, in forma anonimizzata o pseudonimizzata.
 
-<sup>7</sup> Per produrre indicatori di qualità, può anche collegare i dati di cui all’articolo 30 con altre fonti di dati. Gli articoli 13*h*–13*n* dell’ordinanza del 30 giugno 1993[^30a-3] sulle rilevazioni statistiche, a eccezione delle disposizioni sul collegamento di dati su mandato di terzi, sono applicabili per analogia.
+<sup>7</sup> Per produrre indicatori di qualità, può anche collegare i dati di cui all’articolo 30 con altre fonti di dati. Il capitolo 2 sezione 6 dell’ordinanza del 30 aprile 2025[^30a-3] sulla statistica federale è applicabile per analogia.[^30a-4]
 
 [^30a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^30a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30a-2]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-4]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
 
@@ -815,8 +816,8 @@ Sentita la commissione competente, il Dipartimento federale dell’interno (DFI)
 
 [^33-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
-[^33-3]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
-[^33-4]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. II 2).
+[^33-3]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
+[^33-4]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
 
 #### Art. 34
 
@@ -1221,7 +1222,6 @@ Le organizzazioni di levatrici sono autorizzate se adempiono le seguenti condizi
 - a. essere autorizzate ai sensi della legislazione del Cantone nel quale esercitano la loro attività;
 - b. avere delimitato il loro campo d’attività in relazione al luogo e all’orario degli interventi, alle prestazioni fornite e ai pazienti ai quali forniscono le prestazioni;
 - c. fornire le loro prestazioni facendo ricorso a personale che soddisfa le condizioni dell’articolo 45 lettere a e b;
-
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
@@ -1388,7 +1388,7 @@ Gli psicologi psicoterapeuti sono autorizzati se adempiono le seguenti condizion
 [^50c-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
 [^50c-5]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
-[^50c-6]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
+[^50c-6]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref .
 
 #### Art. 50d
 
@@ -1410,7 +1410,7 @@ I podologi sono autorizzati se adempiono le seguenti condizioni:
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^50d-1]: Introdotto dalla cifra I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Vedi anche la disp. trans. del 23 giu. 2021 alla fine del testo.
-[^50d-2]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
+[^50d-2]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref .
 
 #### Art. 51
 
@@ -1859,7 +1859,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>1</sup> Nel caso di un modello di rimunerazione di tipo DRG (*diagnosis related groups*) il fornitore di prestazioni deve fornire un numero d’identificazione unico per gli insiemi di dati con le indicazioni amministrative e mediche ai sensi dell’articolo 59 capoverso 1. Il DFI stabilisce una struttura uniforme degli insiemi di dati, valida in tutta la Svizzera.
 
-<sup>2</sup> Le diagnosi e le procedure ai sensi dell’articolo 59 capoverso 1 lettera c devono essere codificate conformemente alle classificazioni menzionate per la statistica medica degli stabilimenti ospedalieri alla cifra 62 dell’allegato dell’ordinanza del 30 giugno 1993[^59a-2] sull’esecuzione di rilevazioni statistiche federali.
+<sup>2</sup> Le diagnosi e le procedure ai sensi dell’articolo 59 capoverso 1 lettera c devono essere codificate conformemente alle classificazioni menzionate nella rilevazione per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^59a-2] sulla statistica federale.[^59a-3]
 
 <sup>3</sup> Il fornitore di prestazioni trasmette contemporaneamente alla fattura gli insiemi di dati con le indicazioni amministrative e mediche secondo l’articolo 59 capoverso 1 al servizio di ricezione dei dati dell’assicuratore. Deve essere garantito che esclusivamente questo servizio di ricezione dei dati ottenga l’accesso alle indicazioni mediche.
 
@@ -1867,15 +1867,16 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>5</sup> Se nel corso dell’esame l’assicuratore esige dal fornitore di prestazioni ragguagli supplementari di natura medica ai sensi dell’articolo 42 capoverso 4 della legge, l’assicuratore deve informare la persona assicurata riguardo alla possibilità di scelta di cui dispone ai sensi dell’articolo 42 capoverso 5 della legge.
 
-<sup>6</sup> Ogni assicuratore deve disporre di un servizio di ricezione dei dati. Quest’ultimo deve essere certificato ai sensi dell’articolo 13 della legge federale del 25 settembre 2020[^59a-3] sulla protezione dei dati (LPD).[^59a-4]
+<sup>6</sup> Ogni assicuratore deve disporre di un servizio di ricezione dei dati. Quest’ultimo deve essere certificato ai sensi dell’articolo 13 della legge federale del 25 settembre 2020[^59a-4] sulla protezione dei dati (LPD).[^59a-5]
 
-<sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ai sensi dell’articolo 43 LPD della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’IFPDT può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. Esso pubblica un elenco dei servizi di ricezione dei dati certificati.[^59a-5]
+<sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ai sensi dell’articolo 43 LPD della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’IFPDT può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. Esso pubblica un elenco dei servizi di ricezione dei dati certificati.[^59a-6]
 
 [^59a-1]: Introdotto dalla cifra I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta la cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^59a-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^59a-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59a-4]: Nuovo testo del per. giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-5]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-3]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^59a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-5]: Nuovo testo del per. giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-6]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -3053,13 +3054,14 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 **Calcolo delle quoteparti di finanziamento dei Cantoni e degli assicuratori**[^77g-1]
 
-<sup>1</sup> Per il calcolo della popolazione residente di cui all’articolo 58*f* capoverso 4 LAMal sono determinanti le cifre dell’ultima rilevazione della statistica demografica dell’UST sulla popolazione residente permanente media.
+<sup>1</sup> Per il calcolo della popolazione residente di cui all’articolo 58*f* capoverso 4 LAMal sono determinanti le cifre dell’ultima rilevazione per la statistica della popolazione e delle economie domestiche.[^77g-2]
 
 <sup>2</sup> Il numero degli assicurati di cui all’articolo 58*f* capoverso 5 LAMal è determinato in base all’effettivo degli assicurati il 1° gennaio.
 
 <sup>3</sup> L’UFSP calcola le quoteparti dei Cantoni e degli assicuratori.
 
 [^77g-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77g-2]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 77h
 
@@ -4666,9 +4668,9 @@ Sono abrogate:
 
 [^annex2-lvlu1-lvl1-1]: [[RU 1964 1329](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329); [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978); [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685); [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675); [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609), [2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547); [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)art. 18]
 [^annex2-lvlu1-lvl1-2]: [[RU 1965 33](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33); [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481); [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674); [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606), [2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
-[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)n. V, [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024); [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)n. II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)n. II;[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142;[1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
+[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)cifra V, [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024); [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)cifra II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)cifra II;[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142;[1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
 [^annex2-lvlu1-lvl1-4]: [[RU 1965 60](https://fedlex.data.admin.ch/eli/oc/1965/55_59_60)]
-[^annex2-lvlu1-lvl1-5]: [[RU 1965 93](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93); [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)n. II lett. B n. 3, 1241; **1970** 1648; **1984** 1479; **1986** 80, 1706; **1990** 21, 2039; **1991** 370all. n. 18]
+[^annex2-lvlu1-lvl1-5]: [[RU 1965 93](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93); [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 3, 1241; **1970** 1648; **1984** 1479; **1986** 80, 1706; **1990** 21, 2039; **1991** 370all. n. 18]
 [^annex2-lvlu1-lvl1-6]: [[RU 1966 515](https://fedlex.data.admin.ch/eli/oc/1966/499_519_515), [1971 1186](https://fedlex.data.admin.ch/eli/oc/1971/1185_1186_1186)]
 [^annex2-lvlu1-lvl1-7]: [[RU 1966 586](https://fedlex.data.admin.ch/eli/oc/1966/570_590_586)]
 [^annex2-lvlu1-lvl1-8]: [[RU 1968 1282](https://fedlex.data.admin.ch/eli/oc/1968/1318_1366_1282), [1982 2178](https://fedlex.data.admin.ch/eli/oc/1982/2178_2178_2178), [1984 1486](https://fedlex.data.admin.ch/eli/oc/1984/1486_1486_1486), [1986 89](https://fedlex.data.admin.ch/eli/oc/1986/89_89_89), [1988 1563](https://fedlex.data.admin.ch/eli/oc/1988/1563_1563_1563)]

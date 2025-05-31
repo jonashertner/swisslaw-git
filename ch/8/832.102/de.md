@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2025)
+vom 27. Juni 1995 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -687,7 +687,7 @@ Die Leistungserbringer geben dem Bundesamt für Statistik (BFS) folgende Daten n
 
 **Erhebung und Bearbeitung der Daten der Leistungserbringer**[^30a-1]
 
-<sup>1</sup> Die Leistungserbringer haben die Daten gemäss den entsprechenden Variablen nach dem Anhang der Statistikerhebungsverordnung vom 30. Juni 1993[^30a-2] korrekt, vollständig, fristgerecht, auf eigene Kosten und unter Wahrung der Anonymität der Patientinnen und Patienten zu liefern.
+<sup>1</sup> Die Leistungserbringer haben die Daten gemäss den entsprechenden Variablen nach dem in Artikel 30*c* vorgeschriebenen Bearbeitungsreglement korrekt, vollständig, fristgerecht, auf eigene Kosten und unter Wahrung der Anonymität der Patientinnen und Patienten zu liefern.[^30a-2]
 
 <sup>2</sup> Sie müssen dem BFS die Daten in verschlüsselter Form elektronisch übermitteln.
 
@@ -699,11 +699,12 @@ Die Leistungserbringer geben dem Bundesamt für Statistik (BFS) folgende Daten n
 
 <sup>6</sup> Es kann die erhobenen Daten im Rahmen der Gesetzgebung über die Bundesstatistik zu statistischen Zwecken in anonymisierter oder pseudonymisierter Form weiterverwenden.
 
-<sup>7</sup> Es kann zur Gewinnung von Qualitätsindikatoren Daten nach Artikel 30 mit anderen Datenquellen verknüpfen. Die Artikel 13*h*–13*n* der Statistikerhebungsverordnung vom 30. Juni 1993[^30a-3] mit Ausnahme der Bestimmungen über die Verknüpfung von Daten im Auftrag Dritter sind sinngemäss anwendbar.
+<sup>7</sup> Es kann zur Gewinnung von Qualitätsindikatoren Daten nach Artikel 30 mit anderen Datenquellen verknüpfen. Das 2. Kapitel 6. Abschnitt der Bundesstatistikverordnung vom 30. April 2025[^30a-3] ist mit Ausnahme der Bestimmungen über die Verknüpfung von Daten im Auftrag Dritter sinngemäss anwendbar.[^30a-4]
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30a-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^30a-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30a-2]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30a-3]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-4]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
 
@@ -1861,7 +1862,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>1</sup> Im Falle eines Vergütungsmodells vom Typus DRG *(Diagnosis Related Groups)* muss der Leistungserbringer die Datensätze mit den administrativen und medizinischen Angaben nach Artikel 59 Absatz 1 mit einer einmaligen Identifikationsnummer versehen. Das EDI legt die gesamtschweizerisch einheitliche Struktur der Datensätze fest.
 
-<sup>2</sup> Diagnosen und Prozeduren nach Artikel 59 Absatz 1 Buchstabe c sind entsprechend den Klassifikationen für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Verordnung vom 30. Juni 1993[^59a-2] über die Durchführung von statistischen Erhebungen des Bundes zu codieren.
+<sup>2</sup> Diagnosen und Prozeduren nach Artikel 59 Absatz 1 Buchstabe c sind entsprechend den Klassifikationen für die Erhebung für die Statistik der Gesundheitsversorgung nach Anhang 1 Ziffer 05.03. der Bundesstatistikverordnung vom 30. April 2025[^59a-2] zu kodieren.[^59a-3]
 
 <sup>3</sup> Der Leistungserbringer leitet die Datensätze mit den administrativen und den medizinischen Angaben nach Artikel 59 Absatz 1 gleichzeitig mit der Rechnung an die Datenannahmestelle des Versicherers weiter. Es muss sichergestellt werden, dass ausschliesslich diese Datenannahmestelle Zugang zu den medizinischen Angaben erhält.
 
@@ -1869,15 +1870,16 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>5</sup> Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 des Gesetzes, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 des Gesetzes zu informieren.
 
-<sup>6</sup> Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 13 des Datenschutzgesetzes vom 25. September 2020[^59a-3] (DSG) zertifiziert sein.[^59a-4]
+<sup>6</sup> Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 13 des Datenschutzgesetzes vom 25. September 2020[^59a-4] (DSG) zertifiziert sein.[^59a-5]
 
-<sup>7</sup> Der Versicherer informiert den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nach Artikel 43 DSG unaufgefordert über die Zertifizierung oder Rezertifizierung seiner Datenannahmestelle. Der EDÖB kann von der Datenannahmestelle oder von der Zertifizierungsstelle jederzeit die für die Zertifizierung oder Rezertifizierung relevanten Dokumente einfordern. Er veröffentlicht eine Liste der zertifizierten Datenannahmestellen.[^59a-5]
+<sup>7</sup> Der Versicherer informiert den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nach Artikel 43 DSG unaufgefordert über die Zertifizierung oder Rezertifizierung seiner Datenannahmestelle. Der EDÖB kann von der Datenannahmestelle oder von der Zertifizierungsstelle jederzeit die für die Zertifizierung oder Rezertifizierung relevanten Dokumente einfordern. Er veröffentlicht eine Liste der zertifizierten Datenannahmestellen.[^59a-6]
 
 [^59a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
-[^59a-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^59a-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^59a-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-5]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-3]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^59a-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-5]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^59a-6]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 59a<sup>bis</sup>
 
@@ -3052,13 +3054,14 @@ Die Leistungsvereinbarungen nach den Artikeln 58*d* Absatz 2 und 58*e* Absatz 2 
 
 **Berechnung der Finanzierungsanteile der Kantone und der Versicherer**[^77g-1]
 
-<sup>1</sup> Für die Ermittlung der Wohnbevölkerung nach Artikel 58*f* Absatz 4 KVG sind die Zahlen der letzten Erhebung der Bevölkerungsstatistik des BFS über die ständige mittlere Wohnbevölkerung massgebend.
+<sup>1</sup> Für die Ermittlung der Wohnbevölkerung nach Artikel 58*f* Absatz 4 KVG sind die Zahlen der letzten Erhebung für die Statistik der Bevölkerung und der Haushalte massgebend.[^77g-2]
 
 <sup>2</sup> Die Anzahl der Versicherten nach Artikel 58*f* Absatz 5 KVG bestimmt sich nach den Versichertenbeständen am 1. Januar.
 
 <sup>3</sup> Das BAG berechnet die Anteile der Kantone und der Versicherer.
 
 [^77g-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77g-2]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 77h
 
