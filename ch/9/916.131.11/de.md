@@ -3,11 +3,11 @@ sr: "916.131.11"
 title: Verordnung vom 23. Oktober 2013 über Massnahmen zur Verwertung von Obst (Obstverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/722"
 language: de
-version: 2017-01-01
+version: 2025-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2013-722-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2013-722-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/de"
 
 (Obstverordnung)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2017)
+vom 23. Oktober 2013 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -124,11 +124,12 @@ Das BLW kann für die Gewährung der Beiträge nach den Artikeln 1 und 2 betrieb
 
 #### Art. 9
 
-**Beiträge an statistische Erhebungen im Obstbereich**
+**Beiträge an statistische Befragungen im Obstbereich**[^9-1]
 
-Das BLW leistet Beiträge an statistische Erhebungen im Obstbereich nach der Statistikerhebungsverordnung vom 30. Juni 1993[^9-1].
+Das BLW leistet Beiträge an statistische Befragungen im Obstbereich nach der Bundesstatistikverordnung vom 30. April 2025[^9-2].
 
-[^9-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Fassung gemäss Anhang 3 Ziff. 23 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 
 #### Art. 10
 
@@ -150,7 +151,7 @@ Für Obst der Ernten 2015 und 2016 gilt das bisherige Recht.
 
 Die Obst- und Gemüseverordnung vom 7. Dezember 1998[^11-1] wird aufgehoben.
 
-[^11-1]: [[AS 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50), [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724), [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738), [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 66, [2008 3575](https://fedlex.data.admin.ch/eli/oc/2008/460), [2009 6363](https://fedlex.data.admin.ch/eli/oc/2009/776)]
+[^11-1]: [[AS 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50); [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724); [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738); [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 66; [2008 3575](https://fedlex.data.admin.ch/eli/oc/2008/460); [2009 6363](https://fedlex.data.admin.ch/eli/oc/2009/776)]
 
 #### Art. 12
 
@@ -166,7 +167,7 @@ Die Obst- und Gemüseverordnung vom 7. Dezember 1998[^11-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2 Abs. 1)
 

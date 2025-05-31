@@ -3,11 +3,11 @@ sr: "916.131.11"
 title: Ordinanza del 23 ottobre 2013 concernente provvedimenti a favore della valorizzazione della frutta (Ordinanza sulla frutta)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/722"
 language: it
-version: 2017-01-01
+version: 2025-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2013-722-20170101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2013-722-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/it"
 
 (Ordinanza sulla frutta)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2017)
+del 23 ottobre 2013 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -65,8 +65,8 @@ I contributi sono concessi soltanto per la fabbricazione di prodotti:
 
 <sup>4</sup> Quale prezzo del prodotto si intende la media dei prezzi dei quattro anni precedenti l’anno civile in corso. In casi eccezionali quale prezzo del prodotto può essere considerata la media dei prezzi di un periodo più breve.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 3
 
@@ -76,7 +76,7 @@ I contributi sono concessi soltanto per la fabbricazione di prodotti:
 
 <sup>2</sup> Le persone con sede o domicilio in Svizzera ricevono contributi di cui all’articolo 2.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 4
 
@@ -88,7 +88,7 @@ I contributi sono concessi soltanto per la fabbricazione di prodotti:
 
 <sup>3</sup> Non sono versati importi inferiori a 500 franchi.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 5
 
@@ -100,7 +100,7 @@ I contributi sono concessi soltanto per la fabbricazione di prodotti:
 
 <sup>3</sup> ...[^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 16 set. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^5-1]: Abrogato dalla cifra I dell’O del 16 set. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 6
 
@@ -108,7 +108,7 @@ I contributi sono concessi soltanto per la fabbricazione di prodotti:
 
 Chi richiede contributi è tenuto a notificare all’UFAG, entro il termine da esso impartito, i dati necessari riguardo all’entrata e alla trasformazione di frutta e di prodotti di frutta nonché all’utilizzazione e alle scorte di prodotti.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 7
 
@@ -124,11 +124,12 @@ Per la concessione dei contributi di cui agli articoli 1 e 2 l’UFAG può rilev
 
 #### Art. 9
 
-**Contributi a rilevazioni statistiche nell’ambito della frutta**
+**Contributi a indagini statistiche nell’ambito della frutta**[^9-1]
 
-L’UFAG accorda contributi a rilevazioni statistiche nell’ambito della frutta conformemente all’ordinanza del 30 giugno 1993[^9-1] sulle rilevazioni statistiche.
+L’UFAG accorda contributi a indagini statistiche nell’ambito della frutta conformemente all’ordinanza del 30 aprile 2025[^9-2] sulla statistica federale.
 
-[^9-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Nuovo testo giusta l’all. 3 n. 23 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 
 #### Art. 10
 
@@ -142,7 +143,7 @@ L’UFAG esegue la presente ordinanza.
 
 Alla frutta dei raccolti 2015 e 2016 si applica il diritto anteriore.
 
-[^10a-1]: Introdotto dal n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 #### Art. 11
 
@@ -150,7 +151,7 @@ Alla frutta dei raccolti 2015 e 2016 si applica il diritto anteriore.
 
 L’ordinanza del 7 dicembre 1998[^11-1] sulla frutta e la verdura è abrogata.
 
-[^11-1]: [[RU 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50), [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724), [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738), [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 66, [2008 3575](https://fedlex.data.admin.ch/eli/oc/2008/460), [2009 6363](https://fedlex.data.admin.ch/eli/oc/2009/776)]
+[^11-1]: [[RU 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50), [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724), [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738), [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 66, [2008 3575](https://fedlex.data.admin.ch/eli/oc/2008/460), [2009 6363](https://fedlex.data.admin.ch/eli/oc/2009/776)]
 
 #### Art. 12
 
@@ -166,13 +167,13 @@ L’ordinanza del 7 dicembre 1998[^11-1] sulla frutta e la verdura è abrogata.
 
 La presente ordinanza entra in vigore il 1° gennaio 2014.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 1)
 
 ## Importo dei contributi per la fabbricazione di prodotti da bacche, frutta a granella e a nocciolo
 
-[^t-1]: Introdotto dal n. II dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
+[^t-1]: Introdotto dalla cifra II dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3341](https://fedlex.data.admin.ch/eli/oc/2016/567)).
 
 Per le bacche, la frutta a granella e a nocciolo sottoelencate sono concessi i seguenti contributi per 100 kg:
 

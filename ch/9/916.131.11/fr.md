@@ -3,11 +3,11 @@ sr: "916.131.11"
 title: Ordonnance du 23 octobre 2013 sur les mesures visant à transformer des fruits (Ordonnance sur les fruits)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/722"
 language: fr
-version: 2017-01-01
+version: 2025-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-722-20170101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/722/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-722-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/722/20170101/fr"
 
 (Ordonnance sur les fruits)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2017)
+du 23 octobre 2013 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -124,11 +124,12 @@ L’OFAG peut relever et évaluer des données spécifiques aux exploitations en
 
 #### Art. 9
 
-**Contributions pour les relevés statistiques dans le domaine des fruits**
+**Contributions pour les enquêtes statistiques dans le domaine des fruits**[^9-1]
 
-L’OFAG alloue des contributions pour les relevés statistiques réalisés dans le domaine des fruits au sens de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^9-1].
+L’OFAG alloue des contributions pour les enquêtes statistiques réalisées dans le domaine des fruits au sens de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^9-2].
 
-[^9-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Nouvelle teneur selon l’annexe 3 ch. 23 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^9-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
 
 #### Art. 10
 
@@ -150,7 +151,7 @@ Les fruits des récoltes 2015 et 2016 sont régis par l’ancien droit.
 
 L’ordonnance du 7 décembre 1998 sur les fruits et les légumes[^11-1] est abrogée.
 
-[^11-1]: [[RO 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50), [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724), [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738), [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch IV 66, **2008** 3575, **2009** 6363]
+[^11-1]: [[RO 1999 415](https://fedlex.data.admin.ch/eli/oc/1999/50); [2003 4909](https://fedlex.data.admin.ch/eli/oc/2003/724); [2004 4909](https://fedlex.data.admin.ch/eli/oc/2004/738); [2005 5267](https://fedlex.data.admin.ch/eli/oc/2005/733); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch IV 66; **2008** 3575; **2009** 6363]
 
 #### Art. 12
 
@@ -166,7 +167,7 @@ L’ordonnance du 7 décembre 1998 sur les fruits et les légumes[^11-1] est abr
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 1)
 
