@@ -4,30 +4,30 @@ number: "554.5"
 title: Hundegesetz (HuG)
 short: HuG
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2025-06-01
+version: "2025-06-01"
+nachtrag: "129"
 adopted: 2008-04-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_5-2008_04_14-2010_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_5-2008_04_14-2010_01_01-129.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Hundegesetz
+# Hundegesetz (HuG)
 
-(vom 14. April 2008)[^t-1],[^t-2]
+(vom 14. April 2008)[^t-2],[^t-3][^t-1]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in die Anträge des Regierungsrates vom 18. April 2007[^t-3] und der Kommission für Justiz und öffentliche Sicherheit vom 8. November 2007[^t-4],
+nach Einsichtnahme in die Anträge des Regierungsrates vom 18. April 2007[^t-4] und der Kommission für Justiz und öffentliche Sicherheit vom 8. November 2007[^t-5],
 
 beschliesst:
 
-[^t-1]: OS 64, 665.
-[^t-2]: Inkrafttreten: 1. Januar 2010.
-[^t-3]: ABl 2007, 732.
-[^t-4]: ABl 2007, 2177.
+[^t-1]: Fassung gemäss G vom 18. Januar 2021 (OS 80, 115; ABl 2019-04-26). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 9
+[^t-2]: OS 64, 665.
+[^t-3]: Inkrafttreten: 1. Januar 2010.
+[^t-4]: ABl 2007, 732.
+[^t-5]: ABl 2007, 2177.
 
 ### A. Allgemeine Bestimmungen
 
@@ -39,7 +39,7 @@ Dieses Gesetz bezweckt den sicheren und verantwortungsbewussten Umgang mit Hunde
 
 #### § 2
 
-**Zuständigkeiten a. Der Gemeinden**
+**Zuständigkeiten a. der Gemeinden9**
 
 <sup>1</sup> Die Gemeinden sind zuständig für den Vollzug dieses Gesetzes.
 
@@ -59,7 +59,7 @@ Dieses Gesetz bezweckt den sicheren und verantwortungsbewussten Umgang mit Hunde
 
 #### § 3
 
-**b. Des Kantons**
+**b. des Kantons9**
 
 <sup>1</sup> Direktion im Sinne dieses Gesetzes ist die für das Veterinärwesen zuständige Direktion.
 
@@ -71,17 +71,16 @@ Dieses Gesetz bezweckt den sicheren und verantwortungsbewussten Umgang mit Hunde
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 25 - 129
 
 - d. nimmt die Ersatzvornahme vor, wenn sich die Halterin oder der Halter weigert, den Hund gemäss Tierseuchenverordnung[^3-1] kennzeichnen zu lassen,
 
-- e. trifft die notwendigen Anordnungen gemäss § 18, wenn keine Haftpflichtversicherung gemäss § 6 abgeschlossen werden kann,
-
-- f. trifft die notwendigen Anordnungen gemäss § 18, wenn sich die Halterin oder der Halter weigert, eine praktische Hundeausbildung gemäss § 7 zu absolvieren,
+- e. trifft die notwendigen Anordnungen gemäss § 18, wenn keine Haftpflichtversicherung gemäss § 6 abgeschlossen werden kann, f.[^3-2] trifft die notwendigen Anordnungen gemäss § 18, wenn sich die Halterin oder der Halter weigert, eine Hundeausbildung gemäss § 7 zu absolvieren,
 
 - g. trifft weitere Massnahmen gemäss §§ 17–19.
 
 [^3-1]: LS 916.22.
+[^3-2]: Fassung gemäss G vom 18. Januar 2021 (OS 80, 115; ABl 2019-04-26). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 9
 
 #### § 4
 
@@ -107,23 +106,23 @@ Die Gemeinden und die Direktion informieren einander über die in ihrem Zuständ
 
 <sup>1</sup> Wer einen Hund hält, muss für diesen über eine Haftpflichtversicherung mit einer Deckungssumme von mindestens 1 Mio. Franken verfügen.
 
-<sup>2</sup> Auf Verlangen ist der entsprechende Nachweis zu erbringen.
+<sup>2</sup> Auf Verlangen ist der entsprechende Nachweis zu erbringen. § 7.[^6-1] <sup>1</sup> Wer einen Hund hält, muss mit ihm eine anerkannte praktische Hundeausbildung besuchen.
 
-#### § 7
+**Hundeausbildung**
 
-**Praktische Hundeausbildung**
+<sup>2</sup> Wer erstmals einen Hund hält, muss zudem eine anerkannte theoretische Hundeausbildung absolvieren.
 
-<sup>1</sup> Wer einen Hund hält oder erwirbt, der einem grossen oder massigen Rassetyp angehört oder dessen Haltung eine Bewilligung voraussetzt, muss nachweisen, dass sie oder er eine anerkannte praktische Hundeausbildung absolviert hat.
+<sup>3</sup> Der Regierungsrat a. legt die Anforderungen an die erstmalige Hundehaltung fest,
 
-<sup>2</sup> Der Regierungsrat a. bezeichnet die grossen oder massigen Rassetypen (Rassetypenliste I),
+- b. kann Ausnahmen von der Ausbildungspflicht vorsehen,
 
-- b. regelt die Anerkennung von praktischen Hundeausbildungen,
+- c. legt Zeitpunkt, Inhalt und Umfang der Hundeausbildung fest,
 
-- c. legt Art und Umfang der zu absolvierenden praktischen Hundeausbildung fest,
-
-- d. legt fest, ab welchem Zeitpunkt die erforderliche praktische Hundeausbildung nachzuweisen ist,
+- d. regelt die Anerkennung von Personen, die solche Ausbildungen durchführen.
 
 - e. regelt das weitere Verfahren.
+
+[^6-1]: Fassung gemäss G vom 18. Januar 2021 (OS 80, 115; ABl 2019-04-26). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 9
 
 #### § 8
 
@@ -169,19 +168,15 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 
 - c. auf Pausenplätzen von Schulhausanlagen,
 
-**3**
-
-- 1\. 1. 23 - 119
-
 - d. auf Spiel- oder Sportfeldern,
 
 - e. an Orten, die von den zuständigen Behörden entsprechend signalisiert wurden.
 
-#### § 11
+**3**
+
+- 1\. 7. 25 - 129 § 11. <sup>1</sup> Hunde sind anzuleinen:
 
 **Leinenpflicht**
-
-<sup>1</sup> Hunde sind anzuleinen:
 
 - a. in öffentlich zugänglichen Gebäuden,
 
@@ -189,7 +184,7 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 
 - c. in öffentlichen Verkehrsmitteln, an Bahnhöfen und an Haltestellen,
 
-- d. an Orten, die von den zuständigen Behörden entsprechend signalisiert wurden, e.[^11-1] im Wald und am Waldrand vom 1. April bis 31. Juli, ausgenommen Jagd-, Rettungs- und Diensthunde beim Einsatz und bei der Ausbildung.
+- d. an Orten, die von den zuständigen Behörden entsprechend signalisiert wurden, e.[^10-1] im Wald und am Waldrand vom 1. April bis 31. Juli, ausgenommen Jagd-, Rettungs- und Diensthunde beim Einsatz und bei der Ausbildung.
 
 <sup>2</sup> Hunde sind im öffentlich zugänglichen Raum anzuleinen, wenn a. sie läufig sind,
 
@@ -199,7 +194,7 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 
 - d. die zuständige Behörde es anordnet.
 
-[^11-1]: Eingefügt durch Jagdgesetz vom 1. Februar 2021 (OS 77, 600; ABl 2018-04-20). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 9
+[^10-1]: Eingefügt durch Jagdgesetz vom 1. Februar 2021 (OS 77, 600; ABl 2018-04-20). In Kraft seit 1. Januar 2023.
 
 #### § 12
 
@@ -287,10 +282,6 @@ Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefu
 
 - i. Zuchtverbot,
 
-**5**
-
-- 1\. 1. 23 - 119
-
 - j. Entzug des Hundes zur Neuplatzierung oder Rückgabe an die Zuchtstätte,
 
 - k. Beschränkung der Anzahl gehaltener Hunde,
@@ -309,21 +300,26 @@ Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefu
 
 <sup>2</sup> Sie kann einen Hund vorsorglich beschlagnahmen und geeignet unterbringen; wenn notwendig lässt sie den Hund einschläfern.
 
+**5**
+
+- 1\. 7. 25 - 129
+
 <sup>3</sup> Die Hundehalterin oder der Hundehalter trägt die Kosten für die Unterbringung. Die Direktion kann einen Kostenvorschuss verlangen.
 
 ### E. Registrierung
 
-#### § 20
-
 **Zentrale Registrierung**
 
-<sup>1</sup> Registrierungsstelle im Sinne der Tierseuchenverordnung für im Kanton Zürich gehaltene Hunde ist die Animal Identity Service AG, Bern (ANIS AG).
+§ 20.[^hERegistrierung-1] <sup>1</sup> Der Regierungsrat bezeichnet in der Verordnung die Stelle nach Art. 30 Abs. 2 des Tierseuchengesetzes vom 1. Juli 1966[^hERegistrierung-2], welche die zentrale Datenbank zur Registrierung der Hunde führt.
 
 <sup>2</sup> Die Direktion hat kostenlosen Zugang zu den registrierten Daten über Hundehaltungen im Kanton Zürich. Sie kann diese mit weiteren Daten ergänzen, die sie für den Vollzug dieses Gesetzes benötigt.
 
 <sup>3</sup> Die Gemeinden haben kostenlosen Zugang zu den registrierten Daten über Hundehaltungen in ihrer Gemeinde. Sie können diese mit weiteren Daten ergänzen, die sie für den Vollzug dieses Gesetzes benötigen.
 
-<sup>4</sup> Die Gemeinden können mit der ANIS AG vereinbaren, dass diese Leistungen erbringt, die über Abs. 3 hinausgehen.
+<sup>4</sup> Die Gemeinden können mit der Registrierungsstelle vereinbaren, dass diese Leistungen erbringt, die über Abs. 3 hinausgehen.
+
+[^hERegistrierung-1]: Fassung gemäss G vom 18. Januar 2021 (OS 80, 115; ABl 2019-04-26). In Kraft seit 1. Juni 2025. 1. 7. 25 - 129 9
+[^hERegistrierung-2]: SR 455.1.
 
 #### § 21
 
@@ -383,10 +379,6 @@ Von der Abgabe befreit sind Halterinnen und Halter von:
 
 - b. Militärhunden und Diensthunden des Grenzwachtkorps, die für seinen Dienst verwendet werden,
 
-**7**
-
-- 1\. 1. 23 - 119
-
 - c. ausgebildeten Schweiss-, Sanitäts-, Lawinen- und Katastrophenhunden, soweit an ihrer Haltung ein öffentliches Interesse besteht,
 
 - d. Begleit- und Hilfshunden für motorisch Behinderte sowie von Therapiehunden, wenn der Nachweis über eine angemessene Ausbildung und den regelmässigen Einsatz erbracht wird,
@@ -394,6 +386,10 @@ Von der Abgabe befreit sind Halterinnen und Halter von:
 - e. Blindenführhunden, die aus einer von der Eidgenössischen Invalidenversicherung anerkannten Blindenführhundeschule stammen,
 
 - f. Hunden, für welche die Abgabe bereits in einer anderen Gemeinde des Kantons bezahlt wurde,
+
+**7**
+
+- 1\. 7. 25 - 129
 
 - g. Hunden, für welche die Abgabe bereits in einem anderen Kanton bezahlt wurde,
 
@@ -448,3 +444,9 @@ Das Gesetz über das Halten von Hunden vom 14. März 1971 wird aufgehoben.
 <sup>5</sup> Halterinnen und Halter, die gestützt auf bisheriges Recht über eine Bewilligung für die Befreiung ihres Hundes vom Leinen- oder Maulkorbzwang verfügen, haben Anspruch auf eine Haltebewilligung, wenn die Voraussetzungen zum Zeitpunkt des Inkrafttretens dieses Gesetzes noch erfüllt sind.
 
 <sup>6</sup> Halterinnen und Halter, die gestützt auf bisheriges Recht über keine Bewilligung für die Befreiung ihres Hundes vom Leinen- oder Maulkorbzwang verfügen, unterstehen bis zur Erteilung der Haltebewilligung den Bestimmungen des bisherigen Rechts.
+
+### Übergangsbestimmung zur Änderung vom 18. Januar 2021
+
+(OS 80, 115)
+
+Der Regierungsrat regelt die Anerkennung von Hundekursen, die gemäss bisherigem Recht besucht worden sind, und die Verpflichtung zum Besuch von Hundekursen bei Hunden, für die bisher keine Ausbildungsverpflichtung bestand.
