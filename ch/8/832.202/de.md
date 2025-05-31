@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2024-07-01
+version: 2025-06-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Juli 2024)
+vom 20. Dezember 1982 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1489,13 +1489,13 @@ Zur Beschaffung versicherungstechnischer Grundlagen sind insbesondere Statistike
 
 <sup>4</sup> Zur Beschaffung von Unterlagen für die Verhütung von Unfällen und Berufskrankheiten sind Statistiken über die Ursachen von Berufsunfällen und Berufskrankheiten sowie von Nichtberufsunfällen zu führen.
 
-<sup>5</sup> Die Versicherer stellen dem Bundesamt für Statistik alle bei der Sammelstelle für Statistik der Unfallversicherung nach der Verordnung vom 15. August 1994[^105-3] über die Statistiken der Unfallversicherung vorhandenen Angaben aus den Unfallakten über Löhne, Lohnformen, Arbeitszeit und weitere wichtige Merkmale der Verunfallten zur Verfügung. Einzelheiten sind im Anhang der Verordnung vom 30. Juni 1993[^105-4] über die Durchführung von statistischen Erhebungen des Bundes geregelt.[^105-5]
+<sup>5</sup> Die Versicherer stellen dem Bundesamt für Statistik alle bei der Sammelstelle für Statistik der Unfallversicherung nach der Verordnung des EDI vom 15. August 1994[^105-3], über die Statistiken der Unfallversicherung vorhandenen Angaben aus den Unfallakten über Löhne, Lohnformen, Arbeitszeit und weitere wichtige Merkmale der Verunfallten zur Verfügung. Die Einzelheiten werden in Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^105-4] festgehalten.[^105-5]
 
 [^105-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-3]: [SR 431.835](https://fedlex.data.admin.ch/eli/cc/1994/1908_1908_1908)
-[^105-4]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^105-5]: Fassung gemäss Ziff. I der V vom 15. Juni 2001, in Kraft seit 1. Aug. 2001 ([AS 2001 1740](https://fedlex.data.admin.ch/eli/oc/2001/270)).
+[^105-4]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^105-5]: Fassung gemäss Anhang 3 Ziff. 21 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### 2. Abschnitt: Aufgaben der Kantone
 
@@ -2221,7 +2221,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2232,7 +2232,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2245,7 +2245,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>

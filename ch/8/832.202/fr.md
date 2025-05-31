@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2024-07-01
+version: 2025-06-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (État le 1<sup>er</sup> juillet 2024)
+du 20 décembre 1982 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1509,13 +1509,13 @@ Les statistiques permettant d’établir les bases actuarielles doivent porter e
 
 <sup>4</sup> Aux fins de réunir les données nécessaires à la prévention des accidents et des maladies professionnelles, les assureurs doivent établir des statistiques sur les causes des accidents et maladies professionnels et sur celles des accidents non professionnels.
 
-<sup>5</sup> Les assureurs mettent à la disposition de l’Office fédéral de la statistique toutes les données qui sont disponibles auprès du Service de centralisation des statistiques de l’assurance-accidents, conformément à l’ordonnance du 15 août 1994 sur les statistiques de l’assurance-accidents[^105-3], et qui concernent les salaires et leurs modalités, la durée du travail et d’autres données importantes relatives aux victimes d’accidents. Les détails sont réglés dans l’annexe de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^105-4].[^105-5]
+<sup>5</sup> Les assureurs mettent à la disposition de l’Office fédéral de la statistique toutes les données qui sont disponibles auprès du Service de centralisation des statistiques de l’assurance-accidents, conformément à l’ordonnance du DFI du 15 août 1994 sur les statistiques de l’assurance-accidents[^105-3], et qui concernent les salaires et leurs modalités, la durée du travail et d’autres données importantes relatives aux victimes d’accidents. Les modalités sont réglées dans l’annexe 1 de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^105-4].[^105-5]
 
 [^105-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-2]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-3]: [RS 431.835](https://fedlex.data.admin.ch/eli/cc/1994/1908_1908_1908)
-[^105-4]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^105-5]: Nouvelle teneur selon le ch. I de l’O du 15 juin 2001, en vigueur depuis le 1<sup>er</sup> août 2001 ([RO 2001 1740](https://fedlex.data.admin.ch/eli/oc/2001/270)).
+[^105-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^105-5]: Nouvelle teneur selon l’annexe 3 ch. 21 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### Section 2 Tâches des cantons
 
@@ -2495,7 +2495,7 @@ Annexe 2[^t-2]
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2508,7 +2508,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2520,7 +2520,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

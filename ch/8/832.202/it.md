@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2024-07-01
+version: 2025-06-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° luglio 2024)
+del 20 dicembre 1982 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,8 +27,8 @@ ordina:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
-[^ingress-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^ingress-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. cifra I n. 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Titolo primo: Persone assicurate
 
@@ -38,7 +38,7 @@ ordina:
 
 È considerato lavoratore a tenore dell’articolo 1*a* capoverso 1 della legge chiunque esercita un’attività lucrativa dipendente ai sensi della legislazione federale sull’assicurazione per la vecchiaia e per i superstiti (AVS).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 1a
 
@@ -52,7 +52,7 @@ ordina:
 
 <sup>4</sup> Sono infortuni professionali quelli di cui sono vittima gli assicurati giusta i capoversi 2 e 3, occorsi sul tragitto per recarsi al lavoro o sulla via del ritorno.
 
-[^1a-1]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^1a-1]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 2
 
@@ -73,18 +73,18 @@ Non sono soggetti all’obbligo assicurativo:
 
 <sup>2</sup> …[^2-12]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^2-3]: Abrogate dal n. I dell’O del 15 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^2-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^2-3]: Abrogate dalla cifra I dell’O del 15 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-6]: Introdotta dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^2-7]: Introdotta dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogata dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^2-8]: Introdotta dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^2-9]: Introdotta dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 (RU **20****23** 752).
+[^2-6]: Introdotta dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^2-7]: Introdotta dalla cifra I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogata dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^2-8]: Introdotta dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^2-9]: Introdotta dalla cifra I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
+[^2-10]: Introdotta dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 752](https://fedlex.data.admin.ch/eli/oc/2023/752)).
 [^2-11]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-12]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dall’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-12]: Introdotto dalla cifra I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dall’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -101,7 +101,7 @@ Non sono soggetti all’obbligo assicurativo:
 <sup>5</sup> Non sono assicurate le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 lettera a della legge del 22 giugno 2007[^3-4] sullo Stato ospite che sono impiegate da un’organizzazione intergovernativa, un’istituzione internazionale, un segretariato o altro organo istituito da un trattato internazionale, un tribunale internazionale, un tribunale arbitrale o un altro organismo internazionale ai sensi dell’articolo 2 capoverso 1 della legge del 22 giugno 2007 sullo Stato ospite. Sono assicurate le persone che sono impiegate da una di queste organizzazioni che non offre loro una protezione equivalente contro i postumi di infortuni e malattie professionali.[^3-5]
 
 [^3-1]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^3-2]: Nuova espr. giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-2]: Nuova espr. giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^3-3]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-4]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^3-5]: Nuovo testo giusta l’all. n. 16 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
@@ -112,7 +112,7 @@ Non sono soggetti all’obbligo assicurativo:
 
 Il rapporto assicurativo non viene interrotto se il lavoratore era assicurato d’obbligo in Svizzera immediatamente prima di essere mandato all’estero e se resta vincolato da un rapporto di lavoro a un datore di lavoro con domicilio o sede in Svizzera, mantenendo nei suoi riguardi un diritto al salario. Il rapporto assicurativo si protrae per due anni.[^4-1] Su richiesta, l’assicuratore può protrarre questa durata per sei anni in tutto.
 
-[^4-1]: Nuovo testo del per. giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^4-1]: Nuovo testo del per. giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 5
 
@@ -132,8 +132,8 @@ Il rapporto assicurativo non viene interrotto se il lavoratore era assicurato d�
 
 <sup>2</sup> I lavoratori mandati in Svizzera non sono assicurati durante il primo anno. A richiesta questo periodo può essere prolungato per sei anni in tutto dall’Istituto nazionale svizzero di assicurazione contro gli infortuni (INSAI) o dalla cassa suppletiva, se la protezione assicurativa è garantita altrimenti.[^6-2]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 7
 
@@ -157,8 +157,8 @@ Non sono considerate salario:[^7-3]
 
 [^7-1]: Nuovo testo giusta l’art. 45 n. 2 dell’O del 24 nov. 2004 sulle indennità di perdita di guadagno, in vigore dal 1° lug. 2005 ([RU 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
 [^7-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^7-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 8
 
@@ -166,7 +166,7 @@ Non sono considerate salario:[^7-3]
 
 Le convenzioni individuali o collettive con l’assicuratore relative al prolungamento dell’assicurazione contro gli infortuni non professionali devono essere concluse prima della scadenza del rapporto d’assicurazione.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ## Titolo secondo: Oggetto dell’assicurazione
 
@@ -178,7 +178,7 @@ Le convenzioni individuali o collettive con l’assicuratore relative al prolung
 
 Non costituiscono una lesione corporale ai sensi dell’articolo 6 capoverso 2 della legge i danni non imputabili all’infortunio causati alle strutture applicate in seguito a malattia che sostituiscono una parte del corpo o una funzione fisiologica.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 10
 
@@ -220,7 +220,7 @@ Sono segnatamente infortuni professionali ai sensi dell’articolo 7 capoverso 1
 
 <sup>2</sup> Per i dipendenti occupati a tempo parziale, la cui durata settimanale di lavoro è inferiore a questo minimo, gli infortuni occorsi sul tragitto per recarsi al lavoro e viceversa sono considerati infortuni professionali.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 20 set. 1999, in vigore dal 1° gen. 2000 ([RU 1999 2879](https://fedlex.data.admin.ch/eli/oc/1999/453)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 20 set. 1999, in vigore dal 1° gen. 2000 ([RU 1999 2879](https://fedlex.data.admin.ch/eli/oc/1999/453)).
 
 #### Art. 14
 
@@ -228,7 +228,7 @@ Sono segnatamente infortuni professionali ai sensi dell’articolo 7 capoverso 1
 
 Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell’articolo 9 capoverso 1 della legge figurano nell’allegato 1.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ## Titolo terzo: Prestazioni assicurative
 
@@ -236,7 +236,7 @@ Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell�
 
 [^tit3-chap1-1]
 
-[^tit3-chap1-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^tit3-chap1-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 15
 
@@ -250,9 +250,9 @@ Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell�
 
 <sup>3</sup> L’ospedale non può domandare nessun anticipo per il trattamento in sala comune.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Correzione del 24 gen. 2017 ([RU 2017 237](https://fedlex.data.admin.ch/eli/oc/2017/56)).
-[^15-2]: Nuovo testo giusta il n. III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^15-3]: Introdotto dal n. III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Correzione del 24 gen. 2017 ([RU 2017 237](https://fedlex.data.admin.ch/eli/oc/2017/56)).
+[^15-2]: Nuovo testo giusta la cifra III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^15-3]: Introdotto dalla cifra III dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 16
 
@@ -260,7 +260,7 @@ Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell�
 
 Se vuole cambiare il medico, il dentista, il chiropratico o l’ospedale da lui scelti, l’assicurato deve informare immediatamente l’assicuratore.
 
-[^16-1]: Nuova espr. giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^16-1]: Nuova espr. giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 17
 
@@ -281,7 +281,7 @@ L’assicuratore assegna un contributo per:
 - a. un’assistenza medica a domicilio prescritta dal medico prestata da una persona non autorizzata, a condizione che questa assistenza sia eseguita in modo professionale;
 - b. un’assistenza non medica a domicilio, se questa non è rimborsata dall’assegno per grandi invalidi secondo l’articolo 26.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^18-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 19
@@ -290,7 +290,7 @@ L’assicuratore assegna un contributo per:
 
 Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi ausiliari ed emana disposizioni sulla loro consegna.
 
-[^19-1]: Nuova espr. giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-1]: Nuova espr. giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 20
 
@@ -302,7 +302,7 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>3</sup> Se il fornitore di prestazioni e l’assicuratore non raggiungono un accordo, il DFI può stabilire importi massimi per il rimborso delle spese di salvataggio e di ricupero.[^20-1]
 
-[^20-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^20-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 21
 
@@ -338,12 +338,12 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>4</sup> Le rendite sono calcolate in base al salario pagato all’assicurato da uno o più datori di lavoro nel corso dell’anno precedente l’infortunio, inclusi gli elementi del salario non ancora versati che gli sono dovuti. Se il rapporto di lavoro non è durato un anno intero, il salario ottenuto durante questo periodo è convertito in pieno salario annuo. Nel caso di un’attività temporanea la conversione è limitata alla durata prevista a condizione che in base al modello attuale o previsto della biografia lavorativa non risulti una durata normale diversa dell’attività. La conversione è limitata al periodo di tempo ammesso dal diritto in materia di stranieri.[^22-6]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2014, in vigore dal 1° gen. 2016 ([RU 2014 4213](https://fedlex.data.admin.ch/eli/oc/2014/702)).
-[^22-2]: Abrogata dal n. I dell’O del 21 ott. 1987, con effetto dal 1° gen. 1988 ([RU 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2014, in vigore dal 1° gen. 2016 ([RU 2014 4213](https://fedlex.data.admin.ch/eli/oc/2014/702)).
+[^22-2]: Abrogata dalla cifra I dell’O del 21 ott. 1987, con effetto dal 1° gen. 1988 ([RU 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^22-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^22-5]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^22-6]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^22-5]: Introdotto dalla cifra I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^22-6]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 23
 
@@ -371,11 +371,11 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 [^23-1]: Nuovo testo giusta l’appendice 3 n. 7 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 [^23-2]: Abrogato dall’art. 11 dell’O del 24 gen. 1996 sull’assicurazione contro gli infortuni dei disoccupati, con effetto dal 1° gen. 1996 ([RU 1996 698](https://fedlex.data.admin.ch/eli/oc/1996/698_698_698)).
-[^23-3]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^23-4]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^23-5]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^23-6]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^23-7]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^23-3]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^23-5]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^23-6]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^23-7]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 24
 
@@ -392,8 +392,8 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 <sup>5</sup> …[^24-3]
 
 [^24-1]: Nuovo testo giusta l’appendice 3 n. 7 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^24-3]: Abrogato dal n. I dell’O del 15 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^24-3]: Abrogato dalla cifra I dell’O del 15 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Sezione 2: Indennità giornaliera
 
@@ -407,9 +407,9 @@ Il Dipartimento federale dell’interno (DFI[^19-1]) redige l’elenco dei mezzi
 
 <sup>3</sup> L’assicurazione contro gli infortuni fornisce l’intera prestazione se l’incapacità lavorativa di un assicurato disoccupato supera il 50 per cento e metà della prestazione se l’incapacità lavorativa è superiore al 25 per cento ma raggiunge al massimo il 50 per cento. Non v’è alcun diritto all’indennità giornaliera se l’incapacità lavorativa è del 25 per cento o inferiore.[^25-3]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^25-2]: Abrogato dall’art. 11 dell’O del 24 gen. 1996 sull’assicurazione contro gli infortuni dei disoccupati, con effetto dal 1° gen. 1996 ([RU 1996 698](https://fedlex.data.admin.ch/eli/oc/1996/698_698_698)).
-[^25-3]: Abrogato dall’art. 11 dell’O del 24 gen. 1996 sull’assicurazione contro gli infortuni dei disoccupati ([RU 1996 698](https://fedlex.data.admin.ch/eli/oc/1996/698_698_698)). Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^25-3]: Abrogato dall’art. 11 dell’O del 24 gen. 1996 sull’assicurazione contro gli infortuni dei disoccupati ([RU 1996 698](https://fedlex.data.admin.ch/eli/oc/1996/698_698_698)). Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 26
 
@@ -446,7 +446,7 @@ La trattenuta sull’indennità giornaliera per le spese di sostentamento negli 
 
 [^28-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
 [^28-2]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
-[^28-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^28-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 29
 
@@ -458,7 +458,7 @@ La trattenuta sull’indennità giornaliera per le spese di sostentamento negli 
 
 <sup>3</sup> Se solo la prima o la seconda perdita di un organo geminato è assicurata secondo la legge, il grado d’invalidità in caso di perdita del secondo organo viene determinato in base al danno complessivo e l’assicuratore è obbligato a versare prestazioni per questo danno. Le prestazioni per la perdita di un organo geminato non assicurato, fornite da un’assicurazione contro gli infortuni, da un’assicurazione malattie o da un terzo responsabile, sono computate nella rendita. Se tali prestazioni sono ancora da riscuotere, l’assicurato deve cedere i suoi diritti all’assicuratore tenuto a versare le prestazioni. Rimane riservata la normativa speciale in materia d’assicurazione militare (art. 103 LAINF).
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 30
 
@@ -474,8 +474,8 @@ Se dalla continuazione della cura medica non si può più attendere un sensibile
 
 <sup>2</sup> Nel caso di assicurati reintegrati professionalmente all’estero la rendita transitoria è versata fino alla conclusione dell’integrazione. Le prestazioni in denaro di assicurazioni sociali estere sono prese in considerazione secondo l’articolo 69 LPGA.[^30-2]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^30-2]: Nuovo testo del per. giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^30-2]: Nuovo testo del per. giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 31
 
@@ -489,9 +489,9 @@ Se dalla continuazione della cura medica non si può più attendere un sensibile
 
 <sup>4</sup> Le rendite complementari sono sottoposte alle riduzioni secondo l’articolo 21 LPGA e gli articoli 36–39 della legge.[^31-3] Le indennità di rincaro sono calcolate in base alle rendite complementari ridotte.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^31-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 32
 
@@ -503,7 +503,7 @@ Se dalla continuazione della cura medica non si può più attendere un sensibile
 
 <sup>3</sup> Se, prima dell’infortunio, l’assicurato era al beneficio di una rendita di vecchiaia dell’AVS, per la determinazione del limite del 90 per cento secondo l’articolo 20 capoverso 2 della legge occorre prendere in considerazione non soltanto il guadagno assicurato bensì anche la rendita di vecchiaia fino a concorrenza dell’ammontare massimo del guadagno assicurato.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
 
 #### Art. 33
 
@@ -521,9 +521,9 @@ Le rendite complementari sono rettificate quando:
 - d. il guadagno assicurato secondo l’articolo 24 capoverso 3 è modificato;
 - e.[^33-4] la riscossione della rendita dell’AVS è differita conformemente all’articolo 39 della legge federale del 20 dicembre 1946[^33-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) o anticipata conformemente all’articolo 40 LAVS.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
-[^33-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^33-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
+[^33-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33-3]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^33-4]: Introdotta dall’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^33-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -535,7 +535,7 @@ Le rendite complementari sono rettificate quando:
 
 <sup>2</sup> Dopo la rettifica della rendita complementare secondo l’articolo 33 capoverso 2 o dell’indennità di rincaro, la riduzione è calcolata sul nuovo ammontare.
 
-[^33a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33a-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 33b
@@ -554,7 +554,7 @@ Se il beneficiario di una rendita d’invalidità subisce un altro infortunio as
 
 <sup>3</sup> All’atto della prima fissazione della rendita dopo più infortuni invalidanti l’età dell’assicurato al momento del primo infortunio invalidante è determinante per stabilire l’entità della riduzione.
 
-[^33b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33b-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33b-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^33b-3]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^33b-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
@@ -569,7 +569,7 @@ Se il beneficiario di una rendita d’invalidità subisce un altro infortunio as
 
 <sup>2</sup> Le regole di riduzione di cui al capoverso 1 valgono anche per le ricadute e le conseguenze tardive con ripercussioni sulla rendita indipendentemente dall’età al momento dell’infortunio.
 
-[^33c-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^33c-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33c-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 34
@@ -602,10 +602,10 @@ Se il beneficiario di una rendita d’invalidità subisce un altro infortunio as
 
 <sup>5</sup> Per malattie professionali di cui soffre la persona interessata, come il mesotelioma o altri tumori con una prognosi di sopravvivenza altrettanto breve, il diritto a un’indennità per menomazione dell’integrità nasce con l’insorgenza della malattia.[^36-4]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
-[^36-3]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^36-4]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^36-3]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^36-4]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ### Sezione 5: Assegno per grandi invalidi
 
@@ -615,7 +615,7 @@ Se il beneficiario di una rendita d’invalidità subisce un altro infortunio as
 
 Il diritto a un assegno per grandi invalidi nasce il primo giorno del mese in cui sono soddisfatte le relative condizioni. Si estingue alla fine del mese in cui le condizioni non sono più soddisfatte o l’avente diritto muore.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 38
 
@@ -643,9 +643,9 @@ La grande invalidità è di grado esiguo se l’assicurato, pur munito di mezzi 
 
 <sup>5</sup> Qualora la grande invalidità sia solo parzialmente imputabile all’infortunio, l’assicuratore può reclamare all’AVS o all’AI l’importo dell’assegno per grandi invalidi che avrebbero dovuto versare all’assicurato se non si fosse infortunato.[^38-3]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^38-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^38-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Sezione 6: Rendite per i superstiti
 
@@ -671,7 +671,7 @@ L’obbligo di versare gli alimenti al coniuge divorziato secondo l’articolo 2
 
 Se in base al diritto estero l’assicurato era obbligato soltanto a versare una prestazione alimentare a un figlio naturale, questi ha diritto a una rendita per orfano, a condizione che l’obbligo risulti da una sentenza giudiziaria passata in giudicato.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 42
 
@@ -695,10 +695,10 @@ Se il padre e la madre muoiono in seguito a infortuni assicurati, la rendita deg
 
 <sup>6</sup> Sono applicabili gli articoli 31 capoversi 3 e 4 e 33 capoverso 2.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^43-4]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3456](https://fedlex.data.admin.ch/eli/oc/1996/3456_3456_3456)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^43-4]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ### Sezione 7: Adeguamento delle rendite al rincaro
 
@@ -710,7 +710,7 @@ Se il padre e la madre muoiono in seguito a infortuni assicurati, la rendita deg
 
 <sup>2</sup> Per il primo adeguamento al rincaro di una rendita riconosciuta dopo l’entrata in vigore della legge o dopo l’ultima assegnazione di un’indennità di rincaro, la base di calcolo è l’indice del mese di settembre dell’anno in cui è insorto l’infortunio e, nei casi previsti all’articolo 24 capoverso 2, quello dell’anno precedente l’inizio della rendita.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 1992, in vigore dal 1° gen. 1992 ([RU 1992 1290](https://fedlex.data.admin.ch/eli/oc/1992/1290_1290_1290)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 1992, in vigore dal 1° gen. 1992 ([RU 1992 1290](https://fedlex.data.admin.ch/eli/oc/1992/1290_1290_1290)).
 
 #### Art. 45
 
@@ -735,7 +735,7 @@ In caso di rinascita del diritto a una rendita, le indennità di rincaro corrisp
 
 [^tit3-chap3-1]
 
-[^tit3-chap3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^tit3-chap3-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 47
 
@@ -749,7 +749,7 @@ L’entità della riduzione delle rendite e delle indennità per menomazione del
 
 Anche se è provato che l’assicurato intendeva suicidarsi o automutilarsi, l’articolo 37 capoverso 1 della legge non è applicabile se l’assicurato, al momento dell’azione e senza propria colpa, era completamente incapace di agire ragionevolmente, o se il suicidio, il tentato suicidio o l’automutilazione vanno indubbiamente ascritti ad un infortunio assicurato.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 49
 
@@ -778,7 +778,7 @@ Le prestazioni in contanti sono ridotte di almeno la metà in caso d’infortuni
 
 <sup>2</sup> Vi è atto temerario se l’assicurato si espone a un pericolo particolarmente grave senza prendere o poter prendere le precauzioni per limitare il rischio a proporzioni ragionevoli. Sono tuttavia assicurati gli atti di salvataggio di persone, anche se si possono considerare temerari.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 51
 
@@ -792,14 +792,14 @@ Le prestazioni in contanti sono ridotte di almeno la metà in caso d’infortuni
 
 <sup>4</sup> Nei casi rigorosi si può rinunciare totalmente o parzialmente alla riduzione.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 52
 
 [^52-1]
 
-[^52-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^52-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ### Capitolo 4: Determinazione ed effettuazione delle prestazioni
 
@@ -811,7 +811,7 @@ Le prestazioni in contanti sono ridotte di almeno la metà in caso d’infortuni
 
 [^tit3-chap4-sec1-1]
 
-[^tit3-chap4-sec1-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^tit3-chap4-sec1-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 53
 
@@ -841,11 +841,11 @@ Gli assicuratori mettono a disposizione gratuitamente i formulari per la notific
 <sup>5</sup> La notifica dell’infortunio allʼINSAI non esime dall’obbligo di annunciare di cui all’articolo 42 capoverso 1 dell’ordinanza del 31 agosto 1983[^53-5] sullʼassicurazione contro la disoccupazione.[^53-6]
 
 [^53-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^53-3]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-4]: Nuovo testo giusta l’all. n. 5 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-5]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^53-6]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^53-6]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 54
 
@@ -863,8 +863,8 @@ L’assicuratore può domandare alle autorità competenti tutte le informazioni 
 
 <sup>2</sup> L’assicurato deve sottoporsi ad altri accertamenti, ordinati dall’assicuratore per la diagnosi e la determinazione delle prestazioni, e in particolare alle visite mediche ragionevolmente esigibili. Non sono ragionevolmente esigibili i provvedimenti sanitari presentanti un pericolo per la vita e la salute dell’assicurato.[^55-2]
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^55-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^55-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 56
 
@@ -879,7 +879,7 @@ Il datore di lavoro, il servizio competente dell’assicurazione contro la disoc
 
 [^57-1]
 
-[^57-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^57-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 58
 
@@ -889,14 +889,14 @@ Il datore di lavoro, il servizio competente dell’assicurazione contro la disoc
 
 <sup>2</sup> …[^58-2]
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^58-2]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^58-2]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^59-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 60
 
@@ -906,7 +906,7 @@ Il datore di lavoro, il servizio competente dell’assicurazione contro la disoc
 
 <sup>2</sup> L’autopsia non può essere praticata se i congiunti prossimi vi si oppongono o se essa contrasta con una volontà espressa dal defunto.[^60-1] Si considerano congiunti prossimi, per le persone sposate, il coniuge e, per le persone non sposate o vedove, i genitori o i figli maggiorenni. La data dell’autopsia va scelta in modo che i congiunti prossimi, in condizioni normali, possano opporvisi, ciò non potendo comunque compromettere l’accertamento.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Sezione 2: Effettuazione delle prestazioni
 
@@ -916,7 +916,7 @@ Il datore di lavoro, il servizio competente dell’assicurazione contro la disoc
 
 L’assicurato che senza sufficiente motivo rifiuta cure o provvedimenti d’integrazione ragionevolmente esigibili ha diritto solo alle prestazioni che verosimilmente sarebbero dovute considerato l’attendibile esito di dette misure.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 62
 
@@ -930,13 +930,13 @@ L’assicurato che senza sufficiente motivo rifiuta cure o provvedimenti d’int
 
 <sup>4</sup> Se il beneficiario di una rendita d’invalidità è scomparso qualora si trovava in un grande pericolo di morte, oppure è assente da molto tempo senza dare notizie di sé e l’AVS non versa rendite per i superstiti, gli assicuratori possono pagare la rendita d’invalidità al coniuge e ai figli durante al massimo due anni.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 63
 
 [^63-1]
 
-[^63-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^63-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 64
 
@@ -948,13 +948,13 @@ In caso di compensazione, l’assicuratore deve badare a che l’assicurato o i 
 
 [^65-1]
 
-[^65-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^65-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ### Sezione 3: Versamento di arretrati
 
 [^tit3-chap4-sec3-1]
 
-[^tit3-chap4-sec3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^tit3-chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 66
 
@@ -972,7 +972,7 @@ L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto so
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit4-chap1-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 67
 
@@ -984,7 +984,7 @@ L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto so
 
 [^tit4-chap1a-1]
 
-[^tit4-chap1a-1]: Introdotto dal n. I dell’O del 22 nov. 2000 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)). Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit4-chap1a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2000 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)). Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 68
 
@@ -996,7 +996,7 @@ L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto so
 
 <sup>3</sup> Nei limiti degli articoli 48 e 54 della legge, l’assicurato può scegliere liberamente gli ospedali e le case di cura con cui è stata stipulata una convenzione tariffale e di collaborazione.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 69
 
@@ -1006,14 +1006,14 @@ Gli articoli 44 e 46–54 dell’ordinanza del 27 giugno 1995[^69-2] sull’assi
 
 [^69-1]: Nuovo testo giusta l’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^69-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^69-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^69-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Capitolo 1*b*: Fatturazione
 
 [^tit4-chap1b-1][^tit4-chap1b-2]
 
-[^tit4-chap1b-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
-[^tit4-chap1b-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit4-chap1b-1]: Introdotto dalla cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
+[^tit4-chap1b-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 69a
 
@@ -1029,7 +1029,7 @@ I fornitori di prestazioni devono indicare nelle loro fatture:
 
 <sup>3</sup> Per le analisi, la fatturazione al debitore della rimunerazione è effettuata esclusivamente dal laboratorio che ha eseguito l’analisi.[^69a-1]
 
-[^69a-1]: Introdotto dal n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3255](https://fedlex.data.admin.ch/eli/oc/2003/446)).
+[^69a-1]: Introdotto dalla cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3255](https://fedlex.data.admin.ch/eli/oc/2003/446)).
 
 ### Capitolo 2: Collaborazione e tariffe
 
@@ -1046,7 +1046,7 @@ Per l’approntamento delle tariffe sono applicabili per analogia:
 
 <sup>2</sup> Le tariffe devono essere calcolate secondo criteri economici e occorre considerare una struttura adeguata delle tariffe. La tariffa può coprire al massimo i costi della prestazione comprovati in modo trasparente e i costi necessari per la fornitura efficiente delle prestazioni.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^70-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 70a
@@ -1055,7 +1055,7 @@ Per l’approntamento delle tariffe sono applicabili per analogia:
 
 L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie (OCPre) si applica per analogia agli ospedali e alle case di cura di cui all’articolo 56 capoverso 1 della legge. Sono autorizzati a consultare i documenti le autorità della Confederazione competenti in materia, l’associazione Commissione delle tariffe mediche LAINF e i partner tariffali.
 
-[^70a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70a-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^70a-2]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 
 #### Art. 70b
@@ -1068,7 +1068,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>3</sup> La comunicazione dei dati secondo l’articolo 56 capoverso 3<sup>bis</sup> LAINF, la trasmissione dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f,* 59*g* e 59*i* dell’ordinanza del 27 giugno 1995[^70b-2] sull’assicurazione malattie (OAMal).[^70b-3]
 
-[^70b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70b-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^70b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^70b-3]: Introdotto dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
@@ -1084,7 +1084,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>4</sup> Il termine per la disdetta di convenzioni tariffali e di collaborazione è di almeno sei mesi.
 
-[^70c-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70c-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 71
 
@@ -1096,7 +1096,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>3</sup> Il DFI può fissare una tariffa per il rimborso dei mezzi e degli apparecchi che servono alla guarigione.
 
-[^71-1]: Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^71-1]: Abrogato dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^71-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^71-3]: Nuovo testo giusta l’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, in vigore dal 1° gen. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
@@ -1125,10 +1125,10 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>2</sup> Se per poter fornire queste informazioni sono necessarie ricerche speciali o altri lavori che implicano spese, si può riscuotere un emolumento, applicando per analogia l’articolo 16 dell’ordinanza del 10 settembre 1969[^72a-2] sulle tasse e spese nella procedura amministrativa. È salvo l’articolo 19 dell’ordinanza del 31 agosto 2022[^72a-3] sulla protezione dei dati.[^72a-4]
 
-[^72a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^72a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^72a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^72a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^72a-4]: Nuovo testo del per. giusta l’all. 2 n. II 120 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^72a-4]: Nuovo testo del per. giusta l’all. 2 cifra II n. 120 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2: Istituto nazionale svizzero di assicurazione contro gli infortuni
 
@@ -1136,7 +1136,7 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 [^72b-1]
 
-[^72b-1]: Introdotto dal n. I dell’O del 25 giu. 2003 ([RU 2003 2184](https://fedlex.data.admin.ch/eli/oc/2003/322)). Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^72b-1]: Introdotto dalla cifra I dell’O del 25 giu. 2003 ([RU 2003 2184](https://fedlex.data.admin.ch/eli/oc/2003/322)). Abrogato dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 73
 
@@ -1193,10 +1193,10 @@ Sono considerati aziende che producono, impiegano in grandi quantità o hanno in
 - k. le aziende di distillazione del catrame;
 - l.[^77-4] i cinema e i laboratori di riprese cinematografiche.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^77-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^77-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^77-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^77-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^77-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^77-4]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 78
 
@@ -1222,7 +1222,7 @@ Sono considerate aziende di comunicazione, di trasporto e aziende direttamente c
 
 <sup>3</sup> Sono segnatamente considerati mezzi meccanici i montacarichi, i carrelli elevatori, le gru, gli argani e le installazioni di trasporto.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 80
 
@@ -1240,7 +1240,7 @@ Sono considerate aziende di comunicazione, di trasporto e aziende direttamente c
 
 Sono considerati aziende per la fabbricazione di bevande ai sensi dell’articolo 66 capoverso 1 lettera k della legge anche i commerci di bevande all’ingrosso e i depositi di bevande connessi a imprese di trasporto.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 82
 
@@ -1269,7 +1269,7 @@ Sono considerati laboratori d’apprendistato o laboratori protetti ai sensi del
 - a. le officine d’apprendistato per le professioni designate all’articolo 66 capoverso 1 lettere b–m della legge, l’assicurazione coprendo gli apprendisti partecipanti ai corsi come pure gli insegnanti e gli altri membri del personale;
 - b. i laboratori per invalidi e i centri d’integrazione, l’assicurazione coprendo sia le persone che vi fanno capo sia il personale.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 85
 
@@ -1277,7 +1277,7 @@ Sono considerati laboratori d’apprendistato o laboratori protetti ai sensi del
 
 Le aziende di lavoro temporaneo ai sensi dell’articolo 66 capoverso 1 lettera o della legge comprendono il proprio personale e quello fornito a prestito.
 
-[^85-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^85-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 86
 
@@ -1329,11 +1329,11 @@ La domanda di registrazione va deposta per iscritto, in tre esemplari. Alla stes
 
 <sup>5</sup> Con l’iscrizione nel registro, gli assicuratori s’impegnano a gestire l’assicurazione contro gli infortuni conformemente alla legge. Ogni modifica strutturale che ne rimetta in causa l’esecuzione va comunicata senza indugio all’UFSP.
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^90-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^90-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^90-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^90-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^90-5]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^90-4]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^90-5]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 91
 
@@ -1353,7 +1353,7 @@ La scelta d’una cassa malati implica quella dell’assicuratore con cui la ste
 
 [^93-1]
 
-[^93-1]: Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^93-1]: Abrogato dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ### Sezione 4: Cassa suppletiva
 
@@ -1364,7 +1364,7 @@ La scelta d’una cassa malati implica quella dell’assicuratore con cui la ste
 La cassa suppletiva determina nel regolamento l’obbligo dei diversi assicuratori di versare contributi. Ne fissa annualmente l’importo. Se un assicuratore contesta i contributi impostigli, la cassa suppletiva risolve mediante decisione formale ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^94-1] sulla procedura amministrativa.[^94-2]
 
 [^94-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^94-2]: Nuovo testo del per. giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^94-2]: Nuovo testo del per. giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 95
 
@@ -1374,7 +1374,7 @@ La cassa suppletiva determina nel regolamento l’obbligo dei diversi assicurato
 
 <sup>2</sup> La cassa suppletiva notifica l’affiliazione all’assicuratore e al datore di lavoro interessati mediante decisione formale ai sensi dell’articolo 49 LPGA. L’articolo 52 LPGA è applicabile.[^95-1]
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 95a
 
@@ -1390,7 +1390,7 @@ La cassa suppletiva determina nel regolamento l’obbligo dei diversi assicurato
 
 <sup>5</sup> La cassa suppletiva tiene una contabilità aggregata del fondo. Disciplina in un regolamento l’organizzazione del fondo di compensazione e i dettagli concernenti lo svolgimento del finanziamento.
 
-[^95a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^95a-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 96
 
@@ -1400,7 +1400,7 @@ La cassa suppletiva determina nel regolamento l’obbligo dei diversi assicurato
 
 <sup>2</sup> L’articolo 91 è applicabile per analogia in esito alla presentazione del rapporto.
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Sezione 5: Disposizioni comuni
 
@@ -1410,7 +1410,7 @@ La cassa suppletiva determina nel regolamento l’obbligo dei diversi assicurato
 
 Se un’azienda cambia proprietario, quest’ultimo deve informarne entro 14 giorni l’assicuratore fino allora competente.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 98
 
@@ -1422,7 +1422,7 @@ Se un’azienda cambia proprietario, quest’ultimo deve informarne entro 14 gio
 
 <sup>3</sup> Le amministrazioni pubbliche esercitano il diritto di scelta presentando all’assicuratore designato una proposta scritta d’assicurazione indicante le entità da affiliare.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 99
 
@@ -1434,7 +1434,7 @@ Se un’azienda cambia proprietario, quest’ultimo deve informarne entro 14 gio
 
 <sup>3</sup> Se non è possibile determinare l’assicuratore competente di cui ai capoversi 1 e 2, è competente l’assicuratore presso il quale è assicurato il guadagno massimo.
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 100
 
@@ -1452,7 +1452,7 @@ Se un’azienda cambia proprietario, quest’ultimo deve informarne entro 14 gio
 
 <sup>6</sup> Se l’assicurato beneficiario di una rendita o di un assegno per grandi invalidi assegnati per un primo infortunio è vittima di un nuovo infortunio che modifica la rendita o il grado d’invalidità, l’assicuratore tenuto alle prestazioni per il secondo infortunio deve versare l’intero ammontare della rendita o dell’assegno per grandi invalidi. L’assicuratore tenuto alle prestazioni per il primo infortunio versa al secondo assicuratore l’importo corrispondente al valore capitalizzato, senza indennità di rincaro, della parte di rendita o di assegno per grandi invalidi imputabile al primo infortunio; si libera in tal modo dal proprio obbligo.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 101
 
@@ -1474,7 +1474,7 @@ Se il padre e la madre muoiono per postumi d’infortuni assicurati, l’orfano 
 
 Se i diversi assicuratori non possono intendersi su chi di loro è tenuto ad effettuare la prestazione per le conseguenze dell’infortunio, le prestazioni sono versate sotto forma di prestazioni anticipate dall’assicuratore più vicino, in un’ottica temporale, all’insorgere delle conseguenze dell’infortunio.
 
-[^102a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^102a-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 103
 
@@ -1482,7 +1482,7 @@ Se i diversi assicuratori non possono intendersi su chi di loro è tenuto ad eff
 
 Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni, gli assicuratori, su richiesta, devono gratuitamente dare reciproche informazioni sugli infortuni, le malattie professionali, le prestazioni e l’attribuzione alle classi di rischio.
 
-[^103-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^103-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 103a
 
@@ -1494,7 +1494,7 @@ Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni,
 
 <sup>3</sup> La Confederazione assume gli interessi del prefinanziamento di prestazioni accordate a titolo dell’aiuto reciproco.
 
-[^103a-1]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^103a-1]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 ### Capitolo 2: Vigilanza
 
@@ -1513,8 +1513,8 @@ Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni,
 <sup>4</sup> I due uffici coordinano le attività di vigilanza.[^104-3]
 
 [^104-1]: Per. abrogato dall’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^104-2]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
-[^104-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^104-2]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. cifra I n. 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^104-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 105
 
@@ -1535,13 +1535,13 @@ Le statistiche per le basi attuariali devono segnatamente concernere:
 
 <sup>4</sup> Per ottenere i dati inerenti la prevenzione degli infortuni e delle malattia professionali, gli assicuratori devono allestire statistiche sulle cause degli infortuni professionali, delle malattie professionali come pure degli infortuni non professionali.
 
-<sup>5</sup> Gli assicuratori mettono a disposizione dell’UFSP di statistica tutti i dati disponibili presso il servizio centrale delle statistiche dell’assicurazione contro gli infortuni in base all’ordinanza del 15 agosto 1994[^105-3] sulle statistiche dell’assicurazione contro gli infortuni, provenienti dai documenti relativi agli infortuni e concernenti i salari e loro modalità, la durata del lavoro e altri indici importanti circa gli infortunati. I dettagli sono regolati nell’allegato all’ordinanza del 30 giugno 1993[^105-4] sull’esecuzione di rilevazioni statistiche federali.[^105-5]
+<sup>5</sup> Gli assicuratori mettono a disposizione dell’Ufficio federale di statistica tutti i dati disponibili presso il servizio centrale delle statistiche dell’assicurazione contro gli infortuni in base all’ordinanza del DFI del 15 agosto 1994[^105-3] sulle statistiche dell’assicurazione contro gli infortuni e concernenti i salari e loro modalità, la durata del lavoro e altri indici importanti circa gli infortunati. Le modalità sono regolate nell’allegato 1 all’ordinanza del 30 aprile 2025[^105-4] sulla statistica federale.[^105-5]
 
-[^105-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^105-2]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^105-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^105-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-3]: [RS 431.835](https://fedlex.data.admin.ch/eli/cc/1994/1908_1908_1908)
-[^105-4]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^105-5]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1740](https://fedlex.data.admin.ch/eli/oc/2001/270)).
+[^105-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^105-5]: Nuovo testo giusta l’all. 3 n. 21 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### Sezione 2: Compiti dei Cantoni
 
@@ -1571,7 +1571,7 @@ I Cantoni informano periodicamente e in modo appropriato i datori di lavoro in m
 
 <sup>2</sup> Le basi contabili vanno riesaminate periodicamente.
 
-[^108-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 109
 
@@ -1589,13 +1589,13 @@ Per ogni esercizio contabile gli assicuratori devono allestire:
 
 <sup>3</sup> Le altre entrate devono essere ripartite sui conti di gestione secondo la provenienza e le uscite secondo le cause.[^109-1]
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 110
 
 [^110-1]
 
-[^110-1]: Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^110-1]: Abrogato dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 111
 
@@ -1609,7 +1609,7 @@ Per ogni esercizio contabile gli assicuratori devono allestire:
 
 <sup>4</sup> LʼINSAI documenta la propria garanzia finanziaria in un rapporto annuale all’attenzione del Consiglio federale. In particolare il rapporto presenta i fondi propri disponibili computabili dellʼINSAI e i fondi propri necessari. Questi ultimi sono stabiliti con l’aiuto di un modello per quantificare i rischi e gli scenari rilevanti ai fini di futuri sviluppi in modo tale da poter coprire una prevedibile perdita eccezionale. I fondi propri computabili disponibili devono essere superiori ai fondi propri necessari.
 
-[^111-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^111-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^111-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^111-3]: [RS 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
 
@@ -1621,7 +1621,7 @@ Per ogni esercizio contabile gli assicuratori devono allestire:
 
 <sup>2</sup> Per le rendite inerenti gli infortuni anteriori al cambiamento d’assicuratore, l’assicuratore competente in quel momento ha un credito nei confronti della cassa suppletiva o dell’INSAI per la parte delle indennità di rincaro che non può essere finanziata con le eccedenze d’interesse sui capitali di copertura.
 
-[^112-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^112-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 112a
 
@@ -1629,7 +1629,7 @@ Per ogni esercizio contabile gli assicuratori devono allestire:
 
 L’associazione secondo lʼarticolo 90*a* capoverso 1 della legge allestisce un conto globale sulle dotazioni supplementari distinte di cui all’articolo 90*a* capoverso 2 della legge.
 
-[^112a-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^112a-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ### Capitolo 2: Premi
 
@@ -1650,10 +1650,10 @@ Gli assicuratori registrati sottopongono all’UFSP:
 - a. al più tardi entro la fine di maggio dell’anno corrente, le tariffe per l’anno successivo;
 - b. nell’anno corrente, le statistiche dei rischi dell’anno precedente.[^113-4]
 
-[^113-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^113-2]: Nuovo testo del per. giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^113-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^113-4]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^113-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^113-2]: Nuovo testo del per. giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^113-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^113-4]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 114
 
@@ -1663,7 +1663,7 @@ Gli assicuratori registrati sottopongono all’UFSP:
 
 <sup>2</sup> L’UFSP può chiedere agli assicuratori informazioni sulla riscossione dei premi supplementari per le spese amministrative.
 
-[^114-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5261](https://fedlex.data.admin.ch/eli/oc/2005/731)).
+[^114-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5261](https://fedlex.data.admin.ch/eli/oc/2005/731)).
 
 #### Art. 115
 
@@ -1684,13 +1684,13 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 <sup>4</sup> Se l’assicurazione contro la disoccupazione versa indennità per lavoro ridotto, indennità per intemperie, assegni per il periodo d’introduzione o assegni di formazione, il datore di lavoro è tenuto a pagare il totale del premio dell’assicurazione contro gli infortuni corrispondente alla durata normale del lavoro.[^115-7]
 
-[^115-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^115-2]: Introdotta dal n. I dell’O del 21 ott. 1987 ([RU 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)). Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^115-3]: Introdotta dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta l’art. 45 n. 2 dell’O del 24 nov. 2004 sulle indennità di perdita di guadagno, in vigore dal 1° lug. 2005 ([RU 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
+[^115-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^115-2]: Introdotta dalla cifra I dell’O del 21 ott. 1987 ([RU 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)). Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^115-3]: Introdotta dalla cifra I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Nuovo testo giusta l’art. 45 n. 2 dell’O del 24 nov. 2004 sulle indennità di perdita di guadagno, in vigore dal 1° lug. 2005 ([RU 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
 [^115-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^115-5]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^115-6]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^115-7]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^115-5]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^115-6]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^115-7]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 116
 
@@ -1714,9 +1714,9 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 <sup>3</sup> Supplementi e interessi di mora non possono essere dedotti dal salario del lavoratore.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^117-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
-[^117-3]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^117-2]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-3]: Introdotto dalla cifra I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
 
 #### Art. 117a
 
@@ -1736,7 +1736,7 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 <sup>7</sup> Gli interessi sono calcolati per giorni. I mesi interi sono calcolati come 30 giorni.
 
-[^117a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^117a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 118
 
@@ -1749,7 +1749,7 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 [^118-1]: Nuovo testo giusta l’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^118-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^118-3]: Nuovo testo giusta l’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^118-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^118-4]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 119
 
@@ -1757,7 +1757,7 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 Gli assicuratori possono prevedere un premio minimo di 100 franchi all’anno al massimo per ciascuna branca dell’assicurazione obbligatoria. Tale importo comprende i premi supplementari menzionati all’articolo 92 capoverso 1 della legge.
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5261](https://fedlex.data.admin.ch/eli/oc/2005/731)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5261](https://fedlex.data.admin.ch/eli/oc/2005/731)).
 
 #### Art. 120
 
@@ -1769,7 +1769,7 @@ Gli assicuratori possono prevedere un premio minimo di 100 franchi all’anno al
 
 <sup>3</sup> Se il datore di lavoro non provvede in merito, l’assicuratore fissa mediante decisione l’importo dovuto.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^120-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 121
 
@@ -1777,7 +1777,7 @@ Gli assicuratori possono prevedere un premio minimo di 100 franchi all’anno al
 
 Se l’importo dei premi sostitutivi è pari a quello semplice dei premi dovuti, è riscosso un interesse di mora conformemente all’articolo 117 capoverso 2.
 
-[^121-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Titolo settimo: Disposizioni diverse
 
@@ -1787,19 +1787,19 @@ Se l’importo dei premi sostitutivi è pari a quello semplice dei premi dovuti,
 
 [^122-1]
 
-[^122-1]: Abrogato dal n. I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
+[^122-1]: Abrogato dalla cifra I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
 
 #### Art. 123
 
 [^123-1]
 
-[^123-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^123-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 123a
 
 [^123a-1]
 
-[^123a-1]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^123a-1]: Introdotto dalla cifra I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dalla cifra I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 124
 
@@ -1814,7 +1814,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 - e.[^124-1] la riscossione di premi sostitutivi e l’attribuzione di un datore di lavoro a un assicuratore da parte della cassa suppletiva;
 - f. la determinazione dei premi ove il datore di lavoro non abbia fornito i dati necessari.
 
-[^124-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^124-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 125
 
@@ -1826,10 +1826,10 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza dell’assoggettato o per altri gravi motivi.
 
-[^125-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
-[^125-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^125-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
+[^125-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^125-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
-[^125-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^125-4]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ### Capitolo 2: Relazioni con altre branche delle assicurazioni sociali
 
@@ -1849,16 +1849,16 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>6</sup> …[^126-4]
 
-[^126-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^126-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^126-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^126-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^126-4]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^126-3]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^126-4]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 127
 
 [^127-1]
 
-[^127-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
+[^127-1]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 128
 
@@ -1868,13 +1868,13 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>2</sup> Se un assicurato malato s’infortuna in un ospedale, l’assicuratore-malattie fornisce, per la durata del trattamento ospedaliero, le prestazioni assicurate per tutto il danno alla salute. Lʼassicuratore contro gli infortuni è liberato dallʼobbligo di versare prestazioni per lʼimporto pari a quello dellʼassicuratore-malattie.
 
-[^128-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^128-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ## Titolo ottavo: Assicurazione contro gli infortuni dei disoccupati
 
 [^tit8-1]
 
-[^tit8-1]: Originario avanti art. 130. Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit8-1]: Originario avanti art. 130. Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 129
 
@@ -1886,7 +1886,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>3</sup> In caso d’infortunio nell’ambito di un programma per l’occupazione temporanea o di una pratica professionale, l’indennità giornaliera corrisponde a quella che sarebbe accordata all’assicurato se non partecipasse a un programma per l’occupazione temporanea o non svolgesse un periodo di pratica professionale.
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^129-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 130
@@ -1903,7 +1903,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>5</sup> In caso di disoccupazione parziale i capoversi 1–4 si applicano per analogia.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^130-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 131
@@ -1922,7 +1922,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 <sup>6</sup> LʼINSAI allestisce una statistica dei rischi relativa agli infortuni dei disoccupati.
 
-[^131-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^131-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ## Titolo ottavo *a*: Assicurazione contro gli infortuni delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge
 
@@ -2011,7 +2011,7 @@ I premi sono fissati in per mille:
 [^134-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^134-2]: Nuovo testo giusta l’all. n. 9 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^134-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^134-4]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^134-4]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 135
 
@@ -2048,7 +2048,7 @@ Il rapporto assicurativo termina:
 
 <sup>4</sup> L’assicuratore può escludere l’assicurato il quale, malgrado comminatoria scritta, non paga i premi o fa dichiarazioni inveritiere alla conclusione del contratto o in merito a un infortunio.
 
-[^137-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^137-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 138
 
@@ -2056,7 +2056,7 @@ Il rapporto assicurativo termina:
 
 Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti sono calcolati secondo il guadagno assicurato, il cui importo, pattuito alla conclusione del contratto, potrà essere modificato all’inizio di ogni anno civile. Per le persone esercitanti un’attività lucrativa indipendente, questo importo non può essere inferiore al 45 per cento e, per i familiari, al 30 per cento del guadagno massimo assicurato.
 
-[^138-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3815](https://fedlex.data.admin.ch/eli/oc/2015/639)).
+[^138-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3815](https://fedlex.data.admin.ch/eli/oc/2015/639)).
 
 #### Art. 139
 
@@ -2066,7 +2066,7 @@ Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti 
 
 <sup>2</sup> Nell’assicurazione facoltativa non è riscosso alcun premio supplementare per le indennità di rincaro e per la prevenzione degli infortuni e malattie professionali e degli infortuni non professionali.[^139-1]
 
-[^139-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^139-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 140
 
@@ -2078,7 +2078,7 @@ Nell’assicurazione facoltativa sono versate indennità di rincaro solo se cope
 
 [^tit10-1]
 
-[^tit10-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit10-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 140a
 
@@ -2092,13 +2092,13 @@ Nell’assicurazione facoltativa sono versate indennità di rincaro solo se cope
 
 [^tit11-1]
 
-[^tit11-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit11-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 ### Capitolo 1: Abrogazione di ordinanze
 
 [^tit11-chap1-1]
 
-[^tit11-chap1-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^tit11-chap1-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 141
 
@@ -2166,7 +2166,7 @@ Nessuna indennità di rincaro è accordata sulle rendite per i superstiti versat
 
 <sup>3</sup> Per i contratti d’assicurazione multirischio che coprono anche gli infortuni, la disdetta secondo il capoverso 2 può essere data per il rischio infortunio, salvo si tratti d’assicurazioni sulla vita.
 
-[^147-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^147-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 147a
 
@@ -2174,7 +2174,7 @@ Nessuna indennità di rincaro è accordata sulle rendite per i superstiti versat
 
 Le prestazioni assicurative versate per gli infortuni sopraggiunti prima dell’entrata in vigore della presente modifica e per le malattie professionali sopravvenute prima di questa data sono assegnate in base al diritto previgente.
 
-[^147a-1]: Introdotto dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^147a-1]: Introdotto dalla cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 147b
 
@@ -2193,7 +2193,7 @@ L’aliquota graduata di riduzione ai sensi del numero II capoverso 2 della modi
 
 <sup>3</sup> Le riserve secondo l’articolo 111 capoversi 1 e 3 del diritto anteriore, di cui gli assicuratori dispongono secondo l’articolo 68 capoverso 1 lettera c della legge al momento dell’entrata in vigore della modifica del 9 novembre 2016, sono trasposte nelle loro riserve secondo l’articolo 90 capoverso 3 della legge.
 
-[^147b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^147b-1]: Introdotto dalla cifra I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^147b-2]: [RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723)
 
 #### Art. 147c
@@ -2230,7 +2230,7 @@ Allegato 1[^t-1]
 
 ## Malattie professionali
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aggiornato dal n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 1025](https://fedlex.data.admin.ch/eli/oc/2018/157)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aggiornato dalla cifra I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 1025](https://fedlex.data.admin.ch/eli/oc/2018/157)).
 
 **Elenco delle sostanze nocive e delle malattie provocate da determinati lavori secondo l’articolo 14 dell’ordinanza**
 
@@ -2505,11 +2505,11 @@ Allegato 2[^t-2]
 
 ## Calcolo dell’indennità giornaliera
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/it/xml/image/image1.png)
 
 Esempi
 
@@ -2522,19 +2522,19 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
 <tr><td>[tab] Salario di base orario fr. 18.25</td><td></td></tr>
 <tr><td>[tab] Assegni familiari mensili fr. 365.—</td><td></td></tr>
-<tr><td>[tab] Tredicesima mensilità 8,33 %</td><td>[tab]</td></tr>
-<tr><td>[tab] Orario di lavoro: 45 ore la settimana</td><td>[tab]</td></tr>
+<tr><td>[tab] Tredicesima mensilità 8,33 %</td><td></td></tr>
+<tr><td>[tab] Orario di lavoro: 45 ore la settimana</td><td></td></tr>
 <tr><td>[tab] Salario annuale: fr. 18,25 × 45 × 52</td><td>42 705.—</td></tr>
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
@@ -2545,7 +2545,7 @@ Allegato 3[^t-3]
 
 ## Calcolo dell’indennità per menomazione dell’integrità
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aggiornato dal n. II dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aggiornato dalla cifra II dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3881](https://fedlex.data.admin.ch/eli/oc/2003/563)).
 
 - 1\. Per le menomazioni dell’integrità menzionate di seguito, l’indennità corrisponde, nel caso normale, al tasso indicato dell’ammontare massimo del guadagno assicurato.
 - Per le menomazioni speciali dell’integrità e quelle non indicate di seguito, l’indennità verrà calcolata secondo il valore della tabella in funzione della gravità della menomazione. Ciò vale anche quando l’assicurato presenta contemporaneamente più menomazioni dell’integrità fisica, mentale e psichica.
