@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Januar 2025)
+vom 14. November 2007 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -541,12 +541,14 @@ Sie informieren das BLW nach dessen Vorgaben bis Ende März des auf die Weinlese
 - d. die festgestellten Verstösse gegen die Bestimmungen der Artikel 21–24 und 29;
 - e. die Anzahl angeordneter Deklassierungen nach Artikel 30*a* Absatz 3.
 
-<sup>3</sup> Sie teilen dem BLW bis Ende November des laufenden Jahres die Rebflächen nach dem Anhang Ziffer 156 der Statistikerhebungsverordnung vom 30. Juni 1993[^30b-2] mit.
+<sup>3</sup> Sie teilen dem BLW bis Ende November des laufenden Jahres die Rebflächen nach der Erhebung für die Rebbau-Statistik in Anhang 1 Ziffer 09.44. der Bundesstatistikverordnung vom 30. April 2025[^30b-2] mit.[^30b-3]
 
-<sup>4</sup> Sie reichen dem BLW bis Ende Januar des auf die Weinlese folgenden Jahres einen Weinlesebericht ein, der sämtliche statistischen Angaben nach dem Anhang Ziffer 156 der Statistikerhebungsverordnung enthält.
+<sup>4</sup> Sie reichen dem BLW bis Ende Januar des auf die Weinlese folgenden Jahres einen Weinlesebericht ein, der sämtliche statistischen Angaben nach der Erhebung für die Rebbau-Statistik enthält.[^30b-4]
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30b-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-3]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30b-4]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 31
 

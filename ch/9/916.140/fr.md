@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin (Ordonnance sur le vin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/fr"
 
 (Ordonnance sur le vin)
 
-du 14 novembre 2007 (État le 1<sup>er</sup> janvier 2025)
+du 14 novembre 2007 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -225,7 +225,7 @@ L’aire de production du raisin peut être étendue à une aire limitrophe du t
 
 [^21-1]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 733](https://fedlex.data.admin.ch/eli/oc/2010/115)).
-[^21-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> août 2010 ([[RO 2010 733](http://www.admin.ch/ch/f/as/2010/733.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/115)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> août 2010 ( [[RO 2010 733](http://www.admin.ch/ch/f/as/2010/733.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/115)).
 
 #### Art. 22
 
@@ -543,12 +543,14 @@ Ils informent l’OFAG, conformément à ses instructions, pour la fin du mois d
 - d. les infractions constatées aux dispositions prévues aux art. 21 à 24 et 29;
 - e. le nombre de déclassements ordonnés selon l’art. 30*a*, al. 3.
 
-<sup>3</sup> Ils communiquent à l’OFAG, pour la fin du mois de novembre de l’année en cours, les surfaces viticoles selon l’annexe, ch. 156, de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^30b-2].
+<sup>3</sup> Ils communiquent à l’OFAG, pour la fin du mois de novembre de l’année en cours, les surfaces viticoles telles que définies pour le relevé pour la statistique viticole visé à l’annexe 1. ch. 09.44, de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^30b-2].[^30b-3]
 
-<sup>4</sup> Ils adressent à l’OFAG, pour la fin du mois de janvier de l’année suivant la vendange, un rapport sur la vendange comprenant toutes les données statistiques selon l’annexe, ch. 156, de l’ordonnance sur les relevés statistiques.
+<sup>4</sup> Ils adressent à l’OFAG, pour la fin du mois de janvier de l’année suivant la vendange, un rapport sur la vendange comprenant toutes les données statistiques contenues dans le relevé pour la statistique viticole.[^30b-4]
 
 [^30b-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-3]: Nouvelle teneur selon l’annexe 3 ch. 24 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30b-4]: Nouvelle teneur selon l’annexe 3 ch. 24 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 31
 

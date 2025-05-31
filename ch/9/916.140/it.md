@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250101/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° gennaio 2025)
+del 14 novembre 2007 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -551,12 +551,14 @@ Essi informano l’UFAG, secondo le sue prescrizioni, entro fino marzo dell’an
 - d. sulle infrazioni constatate alle disposizioni degli articoli 21–24 e 29;
 - e. sul numero di declassamenti ordinati giusta l’articolo 30*a* capoverso 3.
 
-<sup>3</sup> Essi comunicano all’UFAG, entro fine novembre dell’anno in corso, le superfici viticole in virtù dell’allegato numero 156 dell’ordinanza del 30 giugno 1993[^30b-2] sulle rilevazioni statistiche.
+<sup>3</sup> Essi comunicano all’UFAG, entro fine novembre dell’anno in corso, le superfici viticole definite per la rilevazione per la statistica della viticoltura di cui al numero 09.44 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^30b-2] sulla statistica federale.[^30b-3]
 
-<sup>4</sup> Essi presentano all’UFAG, entro fine gennaio dell’anno successivo alla vendemmia, un rapporto della vendemmia che comprende tutti i dati statistici secondo l’allegato numero 156 dell’ordinanza sulle rilevazioni statistiche.
+<sup>4</sup> Essi presentano all’UFAG, entro fine gennaio dell’anno successivo alla vendemmia, un rapporto della vendemmia che comprende tutti i dati statistici contenuti nella rilevazione per la statistica della viticoltura.[^30b-4]
 
 [^30b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30b-3]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30b-4]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 31
 
@@ -957,7 +959,7 @@ I vini svizzeri a denominazione di origine controllata (DOC) prodotti con uve de
 
 L’ordinanza del 28 maggio 1997[^49-1] sul controllo del commercio dei vini e l’ordinanza del 7 dicembre 1998[^49-2] sul vino sono abrogate.
 
-[^49-1]: [[RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)n. I 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 102]
+[^49-1]: [[RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)cifra I n. 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 102]
 [^49-2]: [[RU 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16); [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175); [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263), [4915](https://fedlex.data.admin.ch/eli/oc/2003/725); [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 53]
 
 #### Art. 50
