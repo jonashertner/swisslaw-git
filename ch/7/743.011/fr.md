@@ -4,11 +4,11 @@ title: "Ordonnance du 21 décembre 2006 sur les installations à câbles transpo
 short: OICa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: fr
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/fr"
 
 (Ordonnance sur les installations à câbles, OICa)
 
-du 21 décembre 2006 (État le 1<sup>er</sup> janvier 2025)
+du 21 décembre 2006 (État le 1<sup>er</sup> juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -257,11 +257,12 @@ Quiconque veut mettre en service une installation à câbles ou mettre à dispos
 
 **Statistique et publication des données**
 
-<sup>1</sup> La collecte des données pour la statistique des transports publics est régie par l’ordonnance du 30 juin 1993 sur l’exécution des relevés statistiques fédéraux[^10-1].
+<sup>1</sup> La collecte des données destinées à l’enquête pour la statistique des transports publics est régie par l’ordonnance du 30 avril 2025 sur la statistique fédérale[^10-1].[^10-2]
 
 <sup>2</sup> Les prestations d’exploitation et de trafic peuvent être publiées, de même que l’effectif du personnel des entreprises de transport à câbles.
 
-[^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-2]: Nouvelle teneur selon l’annexe 3 ch. 12 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Chapitre 2 Construction et modification d’installations à câbles soumises à concession fédérale
 

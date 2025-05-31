@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Dezember 2006 über Seilbahnen zur Personenbeförderu
 short: SebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: de
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/de"
 
 (Seilbahnverordnung, SebV)
 
-vom 21. Dezember 2006 (Stand am 1. Januar 2025)
+vom 21. Dezember 2006 (Stand am 1. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -257,11 +257,12 @@ Wer Seilbahnen in Betrieb nehmen oder Teilsysteme oder Sicherheitsbauteile auf d
 
 **Statistik und Bekanntgabe von Daten**
 
-<sup>1</sup> Die Erhebung der Daten für die Statistik des öffentlichen Verkehrs richtet sich nach der Verordnung vom 30. Juni 1993[^10-1] über die Durchführung von statistischen Erhebungen des Bundes.
+<sup>1</sup> Die Erhebung der Daten für die Befragung für die Statistik des öffentlichen Verkehrs richtet sich nach der Bundesstatistikverordnung vom 30. April 2025[^10-1].[^10-2]
 
 <sup>2</sup> Die Betriebs- und Verkehrsleistungen sowie der Personalbestand der Seilbahnunternehmen dürfen publiziert werden.
 
-[^10-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-2]: Fassung gemäss Anhang 3 Ziff. 12 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## 2. Kapitel: Bau und Änderung von Seilbahnen mit Bundeskonzession
 

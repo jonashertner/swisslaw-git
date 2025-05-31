@@ -4,11 +4,11 @@ title: Ordinanza del 21 dicembre 2006 sugli impianti a fune adibiti al trasporto
 short: OIFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: it
-version: 2025-01-01
+version: 2025-06-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250101/it"
 
 (Ordinanza sugli impianti a fune; OIFT)
 
-del 21 dicembre 2006 (Stato 1° gennaio 2025)
+del 21 dicembre 2006 (Stato 1° giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
 [^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -36,7 +36,7 @@ ordina:
 
 [^chap1-sec1-1]
 
-[^chap1-sec1-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap1-sec1-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 1
 
@@ -51,10 +51,10 @@ La presente ordinanza definisce le disposizioni d’esecuzione della LIFT e dell
 - e.[^1-3] l’immissione sul mercato di sottosistemi e componenti di sicurezza per impianti a fune;
 - f.[^1-4] la progettazione, la costruzione e la messa in servizio di nuovi impianti a fune.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^1-3]: Introdotta dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^1-4]: Introdotta dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^1-3]: Introdotta dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^1-4]: Introdotta dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ La presente ordinanza definisce le disposizioni d’esecuzione della LIFT e dell
 
 La presente ordinanza si applica a tutti gli impianti a fune che rientrano nel campo d’applicazione della LIFT.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 3
 
@@ -97,16 +97,16 @@ Sono *attività rilevanti per la sicurezza*:
 
 <sup>11</sup> Dispone di *esperienza d’esercizio nel settore degli impianti a fune* chi è addetto all’esercizio e alla manutenzione di tali tipi d’impianto.[^3-10]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^3-2]: Regolamento (UE) 2016/424 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo agli impianti a fune e che abroga la direttiva 2000/9/CE, versione della GU L 81 del 31.3.2016, pag. 1.
-[^3-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-5]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-6]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-7]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-8]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-9]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^3-10]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-6]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-7]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-8]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-9]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-10]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 3a
 
@@ -125,14 +125,14 @@ Gli obblighi degli operatori economici riportati di seguito sono retti dalle seg
 
 <sup>3</sup> L’identificazione degli operatori economici nei confronti delle autorità di vigilanza è retta dall’articolo 16 del regolamento UE sugli impianti a fune.
 
-[^3a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3a-1]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^3a-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
 ### Sezione 2: Impianti soggetti ad autorizzazione cantonale
 
 [^chap1-sec2-1]
 
-[^chap1-sec2-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap1-sec2-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 4
 
@@ -152,9 +152,9 @@ Necessitano di un’autorizzazione cantonale di costruzione e di esercizio:
 
 <sup>4</sup> I Cantoni possono emanare disposizioni complementari e deroghe, purché la LIFT e il regolamento UE sugli impianti a fune[^4-2] lo consentano.[^4-3]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^4-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
-[^4-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 4a
 
@@ -177,14 +177,14 @@ L’autorizzazione non può essere rilasciata se:
 
 <sup>3</sup> Di regola l’autorizzazione viene rilasciata insieme all’autorizzazione di costruzione. Deve essere rilasciata al più tardi insieme all’autorizzazione di esercizio.
 
-[^4a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 ### Sezione 3: Requisiti essenziali, disposizioni complementari, deroghe alle norme tecniche
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap1-sec3-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 5
 
@@ -199,16 +199,16 @@ L’autorizzazione non può essere rilasciata se:
 <sup>4</sup> L’apposizione della marcatura CE non è obbligatoria. La marcatura CE è ammissibile purché avvenga in conformità con il diritto dell’Unione europea. L’apposizione di ulteriori indicazioni e marcature è disciplinata dall’articolo 21 punti 3 e 4 del regolamento UE sugli impianti a fune.[^5-5]
 
 [^5-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
-[^5-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^5-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^5-5]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^5-5]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 6
 
 [^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^6-1]: Abrogato dalla cifra I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 6a
 
@@ -216,13 +216,13 @@ L’autorizzazione non può essere rilasciata se:
 
 Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul mercato sottosistemi o componenti di sicurezza che non corrispondono alle norme tecniche atte a concretizzare i requisiti essenziali, deve provare in altro modo che i requisiti essenziali sono adempiuti. Per fornire tale prova occorre dimostrare, mediante un’apposita analisi dei rischi, che il rischio complessivo non aumenta a seguito della deroga.
 
-[^6a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ### Sezione 4: Disposizioni varie
 
 [^chap1-sec4-1]
 
-[^chap1-sec4-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap1-sec4-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 7
 
@@ -244,35 +244,36 @@ Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul me
 
 <sup>3</sup> D’intesa, per quanto possibile, con il servizio tecnico di controllo del CITS, il DATEC stabilisce in quali casi occorra rivolgersi a un organo di controllo delle funi accreditato.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^9-1]: Abrogato dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 10
 
 **Statistica e pubblicazione dei dati**
 
-<sup>1</sup> I dati destinati alla statistica dei trasporti pubblici sono raccolti conformemente all’ordinanza del 30 giugno 1993[^10-1] sull’esecuzione di rilevazioni statistiche federali.
+<sup>1</sup> I dati destinati all’indagine per la statistica dei trasporti pubblici sono raccolti conformemente all’ordinanza del 30 aprile 2025[^10-1] sulla statistica federale.[^10-2]
 
 <sup>2</sup> Le prestazioni d’esercizio, le prestazioni di trasporto e l’effettivo del personale delle imprese di trasporto a fune possono essere resi pubblici.
 
-[^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-2]: Nuovo testo giusta l’all. 3 n. 12 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Capitolo 2: Costruzione e modifica di impianti a fune soggetti a concessione federale
 
 [^chap2-1]
 
-[^chap2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ### Sezione 1: Procedura d’approvazione dei piani
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 11
 
@@ -298,12 +299,12 @@ Assieme alla domanda di approvazione dei piani, occorre presentare all’Ufficio
 
 <sup>5</sup> Se i documenti sono incompleti o imprecisi, l’UFT accorda al richiedente la possibilità di completarli o riformularli in modo più accurato.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^11-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
 [^11-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^11-6]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-6]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 12
 
@@ -315,9 +316,9 @@ Assieme alla domanda di approvazione dei piani, occorre presentare all’Ufficio
 
 <sup>3</sup> Il rapporto di sicurezza elenca tutti i componenti di sicurezza e i sottosistemi dell’impianto a fune e tutti i componenti dell’infrastruttura rilevanti ai fini della sicurezza.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^12-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
-[^12-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 13
 
@@ -332,7 +333,7 @@ Per il picchettamento si applicano le seguenti disposizioni:
 
 <sup>2</sup> L’UFT può esigere che l’altezza dei sostegni sia segnalata anche al di fuori delle zone residenziali.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^13-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 14
@@ -384,9 +385,9 @@ Una volta approvati i piani, l’UFT può autorizzare l’inizio immediato della
 - b. il Cantone interessato e i servizi competenti della Confederazione non abbiano sollevato obiezioni; e
 - c. l’inizio dei lavori non comporti alcuna modifica irreversibile.
 
-[^18-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^18-1]: Abrogato dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 19
 
@@ -429,7 +430,7 @@ Per la valutazione dei punti elencati il richiedente deve fornire le seguenti in
 
 <sup>4</sup> Il richiedente deve garantire il rispetto delle disposizioni di legge.
 
-[^19a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 20
 
@@ -452,7 +453,7 @@ Con la domanda per il primo rilascio della concessione occorre presentare:
 
 <sup>5</sup> Sono applicabili le disposizioni dell’articolo 11 capoversi 3 e 5.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 20a
 
@@ -460,7 +461,7 @@ Con la domanda per il primo rilascio della concessione occorre presentare:
 
 I Cantoni e le cerchie interessate vengono consultati nell’ambito della procedura di approvazione dei piani.
 
-[^20a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 20b
 
@@ -475,7 +476,7 @@ Può essere rilasciata o rinnovata per una durata inferiore se ciò è giustific
 - a. il richiedente lo richiede;
 - b. è prevedibile che le condizioni di rilascio saranno adempiute per un periodo inferiore a 40 anni.
 
-[^20b-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 21
 
@@ -491,7 +492,7 @@ Può essere rilasciata o rinnovata per una durata inferiore se ciò è giustific
 
 <sup>5</sup> L’UFT stabilisce nel caso singolo l’ampiezza della documentazione da accludere alla domanda.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 22
 
@@ -505,7 +506,7 @@ Può essere rilasciata o rinnovata per una durata inferiore se ciò è giustific
 
 <sup>4</sup> Non è necessaria una modifica della concessione se, per al massimo un anno, la prestazione di trasporto è fornita del tutto o in parte con un mezzo di trasporto diverso da quello previsto nella concessione. Su richiesta, l’UFT può prorogare il termine.[^22-1]
 
-[^22-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^22-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 23
 
@@ -525,7 +526,7 @@ Su domanda, l’UFT può trasferire la concessione a un’altra persona, previo 
 
 <sup>4</sup> Su richiesta, i contratti d’esercizio sono inviati all’UFT per informazione.
 
-[^23a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 24
 
@@ -545,7 +546,7 @@ L’autorizzazione si estingue:
 - d. alla sua revoca;
 - e. tre anni dopo l’estinzione dell’autorizzazione d’esercizio.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 25
 
@@ -555,7 +556,7 @@ L’autorizzazione si estingue:
 
 <sup>2</sup> La consultazione dei Comuni compete ai Cantoni.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 25a
 
@@ -565,7 +566,7 @@ L’autorizzazione si estingue:
 
 <sup>2</sup> La designazione ufficiale e le iniziali dell’impresa sono vincolanti per le pubblicazioni degli orari e delle tariffe.
 
-[^25a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ## Capitolo 3: Esercizio
 
@@ -585,7 +586,7 @@ A tal fine:
 - b.[^26-1] prova che l’impianto a fune è stato costruito, trasformato o modificato conformemente alle disposizioni (art. 30);
 - c. presenta gli ulteriori documenti di cui all’allegato 3.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 27
 
@@ -593,7 +594,7 @@ A tal fine:
 
 I componenti rilevanti ai fini della sicurezza devono essere controllati da un organismo indipendente; esso verifica che tali componenti soddisfino i requisiti essenziali. Fornisce un attestato di conformità o un rapporto di perizia[^27-1].
 
-[^27-1]: Nuova espressione giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^27-1]: Nuova espressione giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 28
 
@@ -619,7 +620,7 @@ All’attestato di conformità per un sottosistema devono essere allegati i segu
 
 <sup>4</sup> I documenti presentati devono essere redatti in una lingua ufficiale della Confederazione oppure in inglese.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^28-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
 #### Art. 29
@@ -643,9 +644,9 @@ Nel caso di trasformazioni e modifiche il rapporto di perizia è necessario unic
 - a. per la parte dell’impianto trasformata o modificata;
 - b. se la trasformazione o la modifica può ripercuotersi sul resto dell’impianto o sull’esercizio.[^29-3]
 
-[^29-1]: Nuova espressione giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^29-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^29-3]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^29-1]: Nuova espressione giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^29-3]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 30
 
@@ -667,15 +668,15 @@ Il richiedente deve provare, fornendo all’autorità competente per il rilascio
 - a. i componenti di sicurezza;
 - b. i sottosistemi di cui all’allegato I del regolamento UE sugli impianti a fune.[^30-3]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^30-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
-[^30-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 31
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^31-1]: Abrogato dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 32
 
@@ -725,7 +726,7 @@ Prima del rilascio dell’autorizzazione d’esercizio possono essere trasportat
 
 <sup>3</sup> Le autorizzazioni d’esercizio cantonali possono essere rilasciate a tempo determinato.
 
-[^35a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^35a-1]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 36
 
@@ -737,9 +738,9 @@ Prima del rilascio dell’autorizzazione d’esercizio possono essere trasportat
 
 <sup>3</sup> Se l’approvazione dei piani o l’autorizzazione d’esercizio esistente non contempla modifiche dell’impianto a fune o dell’esercizio, occorre chiedere l’adeguamento della rispettiva autorizzazione oppure il rilascio di una nuova approvazione dei piani e dell’autorizzazione d’esercizio.[^36-3]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^36-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^36-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 36a
 
@@ -759,7 +760,7 @@ Non sono sostanziali le modifiche tecniche che non incidono sui punti di contatt
 
 <sup>4</sup> L’attestato di sicurezza di cui all’articolo 26 deve essere tenuto aggiornato.
 
-[^36a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^36a-1]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 37
 
@@ -769,13 +770,13 @@ Non sono sostanziali le modifiche tecniche che non incidono sui punti di contatt
 
 <sup>2</sup> A titolo di prova deve essere presentata una dichiarazione di conformità del fabbricante e, se necessario, un attestato di conformità valido oppure un rapporto di perizia valido e documenti che attestano in modo verificabile che si tratta di un componente dello stesso tipo.[^37-1]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 38
 
 [^38-1]
 
-[^38-1]: Abrogato dal n. I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^38-1]: Abrogato dalla cifra I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 39
 
@@ -795,7 +796,7 @@ La domanda, inoltre, deve:
 
 <sup>4</sup> Il titolare dell’autorizzazione d’esercizio non ha il diritto di affidare la gestione a terzi.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 40
 
@@ -814,8 +815,8 @@ L’autorizzazione si estingue:
 - c. alla sua revoca;
 - d. tre anni dopo la sospensione dell’esercizio regolare e professionale.[^40-2]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^40-2]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^40-2]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ### Sezione 2: Organizzazione dell’esercizio
 
@@ -827,13 +828,13 @@ L’autorizzazione si estingue:
 
 <sup>2</sup> L’organizzazione dell’esercizio e della manutenzione dell’impianto a fune (organizzazione dell’esercizio) è adeguata alle dimensioni, alle particolarità tecniche dell’impianto e ai rischi legati alla sua ubicazione; garantisce inoltre uno svolgimento impeccabile dei compiti.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 42 e43
 
 [^4243-1]
 
-[^4243-1]: Abrogati dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^4243-1]: Abrogati dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 44
 
@@ -843,7 +844,7 @@ L’autorizzazione si estingue:
 
 <sup>2</sup> A tale scopo effettua apposite esercitazioni almeno una volta all’anno nella misura necessaria.[^44-1]
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ### Sezione 3: Personale e direzione tecnica
 
@@ -859,7 +860,7 @@ L’autorizzazione si estingue:
 
 <sup>4</sup> ...[^45-1]
 
-[^45-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^45-1]: Abrogato dalla cifra I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 46
 
@@ -879,7 +880,7 @@ L’autorizzazione si estingue:
 
 <sup>7</sup> In caso di guasti o incidenti, il capotecnico o il suo sostituto prendono le necessarie disposizioni.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 46a
 
@@ -894,7 +895,7 @@ I capitecnici di impianti soggetti a concessione federale devono:
 
 <sup>2</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione può riconoscere attestati equivalenti conseguiti all’estero[^46a-2].
 
-[^46a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^46a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^46a-2]: I fornitori di servizi che possono avvalersi dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) oppure della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS; [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) devono dichiararsi all’autorità competente in conformità con la procedura stabilita nella legge federale del 14 dicembre 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate ([RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)).
 
 #### Art. 46b
@@ -907,7 +908,7 @@ I sostituti dei capitecnici di impianti soggetti a concessione federale devono:
 - b. aver svolto una formazione professionale di base nell’industria metalmeccanica, dei macchinari o elettrica, o essere in possesso di un diploma di laurea triennale in ingegneria in ambito tecnico, e disporre di due anni di esperienza d’esercizio nel settore degli impianti di trasporto a fune; oppure
 - c. disporre di quattro anni di esperienza d’esercizio nel settore degli impianti di trasporto a fune.
 
-[^46b-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^46b-1]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 46c
 
@@ -915,7 +916,7 @@ I sostituti dei capitecnici di impianti soggetti a concessione federale devono:
 
 Per gli impianti a fune soggetti ad autorizzazione cantonale di costruzione e d’esercizio, i Cantoni emanano prescrizioni concernenti la formazione e l’esperienza d’esercizio dei capitecnici e dei loro sostituti. A tale scopo, consultano preventivamente il servizio tecnico di controllo del CITS e l’associazione Funivie Svizzere.
 
-[^46c-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^46c-1]: Introdotto dalla cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 47
 
@@ -925,7 +926,7 @@ Per gli impianti a fune soggetti ad autorizzazione cantonale di costruzione e d�
 
 <sup>2</sup> Assicura che il capotecnico e il suo sostituto dispongano durevolmente delle conoscenze necessarie nel loro settore di attività; in particolare assicura che siano sempre informati sulle regole riconosciute della tecnica come pure sulle prescrizioni e norme applicabili.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 47a
 
@@ -937,13 +938,13 @@ L’autorità di vigilanza vieta a una persona, a tempo indeterminato, di eserci
 - b. la persona in questione soffre di una forma di dipendenza che potrebbe compromettere l’idoneità a svolgere l’attività rilevante per la sicurezza;
 - c. per il suo precedente comportamento, non dà garanzie che in futuro rispetterà le prescrizioni nello svolgimento dell’attività rilevante per la sicurezza.
 
-[^47a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^47a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ### Sezione 3*a*: Capacità di prestare servizio
 
 [^chap3-sec3a-1]
 
-[^chap3-sec3a-1]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap3-sec3a-1]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 47b
 
@@ -994,7 +995,7 @@ Una persona è considerata incapace di prestare servizio per influsso di stupefa
 <sup>6</sup> L’impresa di trasporto a fune può prevedere disposizioni di diritto del lavoro più rigide per il consumo di alcol.
 
 [^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^47d-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^47d-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 47e
 
@@ -1042,7 +1043,7 @@ L’impianto a fune può essere messo in funzione solo se:
 
 <sup>3</sup> Le persone che a causa del loro stato o del loro comportamento possono mettere in pericolo l’esercizio dell’impianto o altre persone non sono trasportate.[^48-1]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 49
 
@@ -1053,7 +1054,7 @@ Per il trasporto di merci pericolose si applicano le disposizioni:
 - a. dell’ordinanza del 31 ottobre 2012[^49-2] sui mezzi di contenimento per merci pericolose; e
 - b. dell’ordinanza del 31 ottobre 2012[^49-3] concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune.
 
-[^49-1]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 31 ott. 2012 concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune, in vigore dal 1° gen. 2013 ([RU 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
+[^49-1]: Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 31 ott. 2012 concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune, in vigore dal 1° gen. 2013 ([RU 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
 [^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
 [^49-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
 
@@ -1068,7 +1069,7 @@ L’impresa di trasporto a fune conserva la documentazione concernente:
 - c. le modifiche di cui all’articolo 36*a*;
 - d. i cambiamenti nell’attribuzione delle responsabilità di cui all’articolo 47 capoverso 1.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 51
 
@@ -1083,7 +1084,7 @@ L’impresa di trasporto a fune pianifica e organizza la manutenzione in modo da
 - a. soddisfare le prescrizioni di legge e le prescrizioni interne all’impresa;
 - b. garantire costantemente ai responsabili una visione globale dello stato delle costruzioni, degli impianti e dei veicoli.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 52
 
@@ -1097,7 +1098,7 @@ L’impresa di trasporto a fune pianifica e organizza la manutenzione in modo da
 
 <sup>4</sup> I risultati della pianificazione devono confluire nelle prescrizioni d’esercizio e di manutenzione.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 52a
 
@@ -1114,7 +1115,7 @@ Le prescrizioni d’esercizio e le prescrizioni di manutenzione:
 - c. descrivono la funzione dell’impianto a fune e delle sue parti;
 - d. forniscono indicazioni per la manovra e la manutenzione corrette dell’impianto a fune, complete di procedimenti e istruzioni di lavoro.
 
-[^52a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^52a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 53
 
@@ -1122,7 +1123,7 @@ Le prescrizioni d’esercizio e le prescrizioni di manutenzione:
 
 L’impresa di trasporto a fune fa sì che i controlli previsti nelle prescrizioni d’esercizio e di manutenzione siano svolti puntualmente e in modo professionale.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 54
 
@@ -1136,7 +1137,7 @@ L’impresa di trasporto a fune fa sì che i controlli previsti nelle prescrizio
 
 <sup>4</sup> L’autorità di vigilanza può ordinare che un organo di controllo accreditato esegua un controllo non distruttivo delle funi.[^54-1]
 
-[^54-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ### Sezione 5: Smantellamento dell’impianto a fune
 
@@ -1172,11 +1173,11 @@ Notifica immediatamente all’autorità di vigilanza:
 
 <sup>5</sup> In caso di eventi, gli impianti a fune che necessitano di una concessione federale sono soggetti all’ordinanza del 17 dicembre 2014[^56-4] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^56-5]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^56-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^56-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^56-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^56-5]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^56-5]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 56a
 
@@ -1216,7 +1217,7 @@ Il fabbricante è tenuto a conservare durante almeno 30 anni:
 
 <sup>5</sup> La documentazione deve essere concepita in modo tale che i riferimenti ai relativi componenti siano inequivocabili.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^57-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
 #### Art. 58
@@ -1241,7 +1242,7 @@ Le imprese di trasporto a fune che ricevono indennità conformemente all’artic
 - a. conformemente alle disposizioni della sezione 7 LTV; e
 - b.[^58-4] conformemente alle disposizioni emanate dal Consiglio federale secondo l’articolo 35 capoverso 3 LTV e dall’UFT secondo l’articolo 35 capoverso 4 LTV.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^58-3]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^58-4]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
@@ -1264,9 +1265,9 @@ L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di si
 
 <sup>4</sup> Sorveglia il rispetto delle esigenze in materia ambientale in collaborazione con le autorità specializzate.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^59-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^59-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^59-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^59-3]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 60
 
@@ -1282,10 +1283,10 @@ L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di si
 
 <sup>5</sup> Le autorità di vigilanza possono gestire una banca dati che riporta le misure adottate e i motivi, e informare l’opinione pubblica.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^60-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^60-3]: Nuovo testo giusta il n. I 7 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^60-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^60-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^60-3]: Nuovo testo giusta la cifra I n. 7 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^60-4]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 61
 
@@ -1305,7 +1306,7 @@ L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di si
 
 <sup>7</sup> L’obbligo di collaborazione e di informazione dei fabbricanti, degli importatori e di eventuali altre persone interessate è retto dall’articolo 11 LSPro.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^61-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 ### Sezione 2: Emolumenti
@@ -1341,7 +1342,7 @@ Per i relativi settori di specializzazione gli organismi di valutazione della co
 
 Gli organismi di valutazione della conformità sono soggetti, per analogia, ai diritti e ai doveri stabiliti dagli allegati III‒VII del regolamento UE sugli impianti a fune[^64-2].
 
-[^64-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^64-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
 ### Sezione 2: Procedura di valutazione della conformità
@@ -1366,7 +1367,7 @@ A scelta del fabbricante, la valutazione della conformità di sottosistemi e com
 - b. conformità basata sulla verifica di un unico prodotto (modulo G) di cui all’allegato VI del regolamento UE sugli impianti a fune;
 - c. conformità basata sulla garanzia di qualità totale e sull’esame del progetto (modulo H 1) di cui all’allegato VII del regolamento UE sugli impianti a fune.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^65-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
 
 #### Art. 66
@@ -1375,13 +1376,13 @@ A scelta del fabbricante, la valutazione della conformità di sottosistemi e com
 
 I documenti e la corrispondenza relativi alle procedure di valutazione della conformità sono redatti in una lingua ufficiale del Paese in cui è stabilito l’organismo di valutazione della conformità che esegue le procedure di cui all’articolo 65, oppure in una lingua utilizzata da tale organismo.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ### Sezione 3: Periti
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^chap5-sec3-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 67
 
@@ -1420,7 +1421,7 @@ D’intesa per quanto possibile con il servizio tecnico di controllo del CITS, l
 
 <sup>2</sup> L’impresa di trasporto a fune concorda con i periti la portata della loro responsabilità e dell’assicurazione di responsabilità civile necessaria.
 
-[^68c-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^68c-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ## Capitolo 6: Disposizioni penali
 
@@ -1436,7 +1437,7 @@ A querela di parte, conformemente all’articolo 25*a* capoverso 2 LIFT è punit
 - d. l’articolo 56 capoversi 1–4;
 - e. l’articolo 57.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -1480,7 +1481,7 @@ Le seguenti ordinanze sono modificate come segue:
 
 <sup>2</sup> L’autorità di vigilanza è competente fino al momento in cui l’impianto a fune dispone di un’autorizzazione d’esercizio..
 
-[^72-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 73
 
@@ -1497,7 +1498,7 @@ Per gli impianti e le parti di impianti realizzati prima del 1° gennaio 2007 ri
 
 <sup>2</sup> Per gli impianti titolari di un’autorizzazione cantonale rimangono applicabili le direttive cantonali.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/eli/cc/1987/902_902_902)
 [^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/eli/cc/1988/1634_1634_1634)
 [^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/eli/cc/1991/82_82_82)
@@ -1515,7 +1516,7 @@ Per gli impianti e le parti di impianti realizzati prima del 1° gennaio 2007 ri
 
 <sup>4</sup> Per i capitecnici riconosciuti come tali prima dell’entrata in vigore della presente ordinanza, la competenza professionale di cui all’articolo 46*a* capoverso 1 è ritenuta comprovata.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^74-2]: Direttiva 2000/9/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000, relativa agli impianti a fune adibiti al trasporto di persone; GU L 106 del 3.5.2000, pag. 21.
 
 ### Sezione 3: Entrata in vigore
@@ -1530,7 +1531,7 @@ Allegato 1[^t-1]
 
 ## Documenti da presentare all’autorità competente nel quadro della procedura di approvazione dei piani
 
-[^t-1]: Aggiornato dal n. II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dal n. II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dalla cifra II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 <sup>1</sup> Assieme alla domanda di approvazione dei piani, l’impresa di trasporto a fune presenta all’autorità competente per il rilascio dell’autorizzazione i seguenti documenti ai fini della valutazione della sicurezza:
 
@@ -1573,7 +1574,7 @@ Allegato 2[^t-2]
 
 ## Controlli svolti dall’autorità competente per il rilascio dell’autorizzazione nel quadro della procedura di approvazione dei piani
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 Nel quadro della procedura di approvazione dei piani, sulla base dei documenti presentati l’autorità competente per il rilascio dell’autorizzazione può eseguire i seguenti controlli per verificare la sicurezza, procedendo per campionatura e in funzione dei rischi:
 
@@ -1599,7 +1600,7 @@ Allegato 3[^t-3]
 
 ## Documenti da presentare all’autorità competente insieme alla domanda di autorizzazione d’esercizio (attestato di sicurezza)
 
-[^t-3]: Aggiornato dal n. II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dal n. II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dalla cifra II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 Per ottenere l’autorizzazione d’esercizio, l’impresa di trasporto a fune presenta all’autorità competente i seguenti documenti:
 
