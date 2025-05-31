@@ -4,11 +4,11 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2024-01-01
+version: 2025-06-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/it"
 
 (ORIS)[^t-1]
 
-del 30 giugno 1993 (Stato 1° gennaio 2024)
+del 30 giugno 1993 (Stato 1° giugno 2025)
 
-[^t-1]: Introdotta dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^t-1]: Introdotta dalla cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ visto l’articolo 10 capoverso 3 della legge del 9 ottobre 1992[^ingress-1] sul
 
 ordina:
 
-[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## Sezione 1: Disposizioni generali
 
@@ -37,7 +37,7 @@ ordina:
 
 Il Registro delle imprese e degli stabilimenti (RIS) è destinato a scopi statistici nonché a compiti di interesse pubblico inerenti alle persone, segnatamente alla messa a disposizione di dati di base delle imprese alle unità amministrative di Confederazione, Cantoni e Comuni, come pure a privati per l’adempimento dei rispettivi compiti legali.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 2
 
@@ -54,8 +54,8 @@ Possono partecipare al RIS:
 - c. altri servizi ufficiali che eseguono compiti di interesse pubblico;
 - d.[^2-2] l’Ufficio statistico della Commissione europea (Eurostat) per la statistica dei gruppi di imprese multinazionali e delle loro unità.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^2-2]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^2-2]: Introdotta dalla cifra I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 
 #### Art. 2a
 
@@ -68,13 +68,13 @@ Ai sensi della presente ordinanza s’intende per:
 - c. *impresa:* una combinazione di unità legali;
 - d. *dati di base delle imprese:* dati che servono a identificare e categorizzare imprese, unità locali e unità legali.
 
-[^2a-1]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 ## Sezione 2: Contenuto, accesso alle fonti dei dati ed elaborazione dei dati
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 3
 
@@ -130,29 +130,29 @@ Sono considerati dati di base delle imprese:
 - a. i dati del RIS conformemente ai capoversi 2 lettere a, c, e–f, h e o–q nonché 3 lettere b, c, f–h e k–m;
 - b. la classe di grandezza in funzione delle persone occupate calcolata sulla base dell’articolo 3 capoverso 2 lettera d.[^3-23]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-5]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-6]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^3-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-8]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^3-9]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^3-10]: Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
-[^3-11]: Abrogata dal n. I dell’O del 7 nov. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-6]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^3-7]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^3-8]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^3-9]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)cifra II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. cifra I]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
+[^3-10]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
+[^3-11]: Abrogata dalla cifra I dell’O del 7 nov. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-12]: Introdotta dall’all. n. 5 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^3-13]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^3-14]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-15]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-16]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-17]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-18]: Originaria lett. e. Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-19]: Introdotta dal n. I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^3-20]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^3-21]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^3-22]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-23]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-13]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^3-14]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-15]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
+[^3-16]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-17]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-18]: Originaria lett. e. Nuovo testo giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3-19]: Introdotta dalla cifra I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^3-20]: Introdotta dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^3-21]: Introdotta dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^3-22]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
+[^3-23]: Introdotto dalla cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 3a
 
@@ -172,9 +172,9 @@ Sempre che ciò sia necessario per la tenuta del registro, il RIS può utilizzar
 
 <sup>3</sup> I dati del registro IVA sono accessibili mediante una procedura di richiamo.[^3a-3]
 
-[^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3a-2]: Nuova espr. giusta l’all. n. II 16 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^3a-3]: Introdotto dal n. II 2 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
+[^3a-2]: Nuova espr. giusta l’all. cifra II n. 16 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3a-3]: Introdotto dalla cifra II n. 2 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 #### Art. 4
 
@@ -182,7 +182,7 @@ Sempre che ciò sia necessario per la tenuta del registro, il RIS può utilizzar
 
 I dati registrati nel RIS provengono dalle seguenti fonti:
 
-- a.[^4-1] rilevazioni per l’aggiornamento del RIS giusta l’ordinanza del 30 giugno 1993[^4-2] sull’esecuzione di rilevazioni statistiche federali;
+- a.[^4-1] le indagini di aggiornamento del RIS, conformemente all’ordinanza del 30 aprile 2025[^4-2] sulla statistica federale;
 - b. ulteriori rilevazioni statistiche presso le imprese e gli stabilimenti;
 - c. Registro di commercio;
 - d. Registri della Confederazione, dei Cantoni e dei Comuni (RCCC);
@@ -199,20 +199,20 @@ I dati registrati nel RIS provengono dalle seguenti fonti:
 - o.[^4-13] registro IDI dell’UST;
 - p.[^4-14] sistema dell’Amministrazione federale delle finanze per la gestione dei dati di base per i processi di supporto *Master Data Governance*.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^4-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^4-3]: Nuovo testo giusta il n. II 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^4-4]: Nuovo testo giusta il n. II 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^4-5]: Nuovo testo giusta il n. II 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^4-6]: Nuovo testo giusta il n. II 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^4-7]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^4-8]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^4-9]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^4-10]: Introdotta dal n. I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^4-11]: Introdotta dal n. I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^4-12]: Introdotta dal n. I dell’O del 23 giu. 2004 ([RU 2004 3373](https://fedlex.data.admin.ch/eli/oc/2004/433)). Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
+[^4-1]: Nuovo testo giusta l’all. 3 n. 8 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^4-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^4-3]: Nuovo testo giusta la cifra II n. 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^4-4]: Nuovo testo giusta la cifra II n. 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^4-5]: Nuovo testo giusta la cifra II n. 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^4-6]: Nuovo testo giusta la cifra II n. 25 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^4-7]: Introdotta dalla cifra I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^4-8]: Introdotta dalla cifra I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^4-9]: Introdotta dalla cifra I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^4-10]: Introdotta dalla cifra I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^4-11]: Introdotta dalla cifra I dell’O del 13 giu. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)). Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^4-12]: Introdotta dalla cifra I dell’O del 23 giu. 2004 ([RU 2004 3373](https://fedlex.data.admin.ch/eli/oc/2004/433)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
 [^4-13]: Introdotta dal n. 5 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^4-14]: Introdotta dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^4-14]: Introdotta dalla cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 5
 
@@ -220,7 +220,7 @@ I dati registrati nel RIS provengono dalle seguenti fonti:
 
 L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attraverso un’interfaccia tra il RIS e il sistema di fonti interessato.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 6
 
@@ -230,9 +230,9 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>2</sup> …[^6-3]
 
-[^6-1]: Nuova espr. giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^6-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
-[^6-3]: Abrogato dal n. I dell’O del 29 giu. 1994, con effetto dal 1° ago. 1994 ([RU 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
+[^6-1]: Nuova espr. giusta la cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
+[^6-3]: Abrogato dalla cifra I dell’O del 29 giu. 1994, con effetto dal 1° ago. 1994 ([RU 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
 
 #### Art. 7
 
@@ -244,7 +244,7 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>3</sup> Sono fatte salve le disposizioni della legislazione federale sull’archiviazione.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 
 ## Sezione 3: Utilizzazione e comunicazione dei dati
 
@@ -270,14 +270,14 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>3</sup> Per quanto concerne il formato, la riservatezza, la sicurezza e la trasmissione dei dati che l’UST comunica a Eurostat si applicano gli articoli 11 capoverso 3, 12 e 13 del regolamento (CE) n. 177/2008 nonché i regolamenti (CE) n. 192/2009[^9-4] e (UE) n. 1097/2010[^9-5].
 
-<sup>4</sup> e <sup>5</sup> ...[^9-6]
+<sup>4 e <sup>5</sup></sup> ...[^9-6]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^9-3]: Regolamento (CE) n. 177/2008 del Parlamento europeo e del Consiglio, del 20 febbraio 2008, che istituisce un quadro comune per i registri di imprese utilizzati a fini statistici e abroga il regolamento (CEE) n. 2186/93 del Consiglio, versione della GU L 61 del 5.3.2008, pag. 6.
 [^9-4]: Regolamento (CE) n. 192/2009 della Commissione, dell’11 marzo 2009, recante attuazione, per quanto riguarda gli scambi di dati riservati tra la Commissione (Eurostat) e gli Stati membri, del regolamento (CE) n. 177/2008 del Parlamento europeo e del Consiglio che istituisce un quadro comune per i registri di imprese utilizzati a fini statistici, versione della GU L 67 del 12.3.2009, pag. 14.
 [^9-5]: Regolamento (UE) n. 1097/2010 della Commissione, del 26 novembre 2010, recante attuazione, per quanto riguarda gli scambi di dati riservati tra la Commissione (Eurostat) e le banche centrali, del regolamento (CE) n. 177/2008 del Parlamento europeo e del Consiglio che istituisce un quadro comune per i registri di imprese utilizzati a fini statistici, versione della GU L 312 del 27.11.2010, pag. 1.
-[^9-6]: Abrogati dal n. I dell’O del 4 mar. 2022, con effetto dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^9-6]: Abrogati dalla cifra I dell’O del 4 mar. 2022, con effetto dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 9a
 
@@ -287,9 +287,9 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>2</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della legge federale del 25 settembre 2020[^9a-2] sulla protezione dei dati (LPD).[^9a-3]
 
-[^9a-1]: Introdotto dal n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^9a-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^9a-3]: Nuovo testo giusta l’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
 
@@ -301,9 +301,9 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>3</sup> L’elaborazione dei dati è disciplinata dalle disposizioni della LPD[^10-2].[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10-3]: Nuovo testo giusta l’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
 
@@ -315,7 +315,7 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 <sup>3</sup> L’UST tiene un elenco dei servizi aventi diritto d’accesso.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 
 #### Art. 12
 
@@ -323,7 +323,7 @@ L’accesso dell’UST alle fonti dei dati di cui all’articolo 4 avviene attra
 
 I dati del RIS che consentono di trarre conclusioni sulla situazione di determinate imprese o stabilimenti non possono essere pubblicati, ad eccezione del codice dell’attività economica.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 
 #### Art. 13
 
@@ -335,7 +335,7 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 
 <sup>3</sup> Il calcolo degli emolumenti è effettuato conformemente all’ordinanza del 30 giugno 1993[^13-1] sugli emolumenti per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
 
-[^13-1]: [[RU 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)all. 1 n. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RU 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Ora: O del 25 giu. 2003 sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione ([RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)).
+[^13-1]: [[RU 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)all. 1 n. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RU 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Ora: O del 25 giu. 2003 sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione ([RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
 
 ## Sezione 4: Protezione e sicurezza dei dati, disposizioni penali
 
@@ -347,8 +347,8 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 
 <sup>2</sup> I dati inesatti devono essere rettificati.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^14-2]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^14-2]: Nuovo testo giusta l’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
 
@@ -364,12 +364,12 @@ La sicurezza dei dati è disciplinata:[^15-2]
 <sup>2</sup> La sicurezza dei dati di persone giuridiche è disciplinata per analogia dall’OPDa.[^15-7]
 
 [^15-1]: Nuovo testo giusta l’all. n. 26 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-2]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^15-3]: Nuovo testo giusta l’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^15-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-5]: Nuovo testo giusta l’all. 2 n. II 27 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^15-7]: Introdotto dall’all. 2 n. II 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: Nuovo testo giusta l’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-3]: Nuovo testo giusta l’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-4]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^15-5]: Nuovo testo giusta l’all. 2 cifra II n. 27 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-6]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^15-7]: Introdotto dall’all. 2 cifra II n. 56 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
@@ -395,4 +395,4 @@ La presente ordinanza entra in vigore il 1° agosto 1993.
 
 Allegato[^t-2]
 
-[^t-2]: Abrogato dal n. II dell’O del 4 mar. 2022, con effetto dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
+[^t-2]: Abrogato dalla cifra II dell’O del 4 mar. 2022, con effetto dal 1° apr. 2022 ([RU 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).

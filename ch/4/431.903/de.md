@@ -4,11 +4,11 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2024-01-01
+version: 2025-06-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/de"
 
 (BURV)[^t-1]
 
-vom 30. Juni 1993 (Stand am 1. Januar 2024)
+vom 30. Juni 1993 (Stand am 1. Juni 2025)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 10 Absatz 3 des Bundesstatistikgesetzes vom 9. Oktober 199
 
 verordnet:
 
-[^ingress-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-1]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -133,10 +133,10 @@ Als Unternehmensstammdaten gelten:
 [^3-1]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-4]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^3-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-6]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^3-7]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^3-4]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^3-5]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^3-6]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^3-7]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 [^3-8]: Eingefügt durch Ziff. I der V vom 18. Aug. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Fassung gemäss Ziff. I der V vom 7. Nov. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-9]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2018, mit Wirkung seit 1. Dez. 2018 ([AS 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-10]: Eingefügt durch Anhang Ziff. 5 der V vom 26. Jan. 2011 über die Unternehmens-Identi-fikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
@@ -179,7 +179,7 @@ Soweit es für die Registerführung erforderlich ist, kann das BUR insbesondere 
 
 Die im BUR gespeicherten Daten stammen aus folgenden Quellen:
 
-- a.[^4-1] Aktualisierungserhebungen des BUR nach der Verordnung vom 30. Juni 1993[^4-2] über die Durchführung von statistischen Erhebungen des Bundes;
+- a.[^4-1] Aktualisierungserhebungen des BUR nach der Bundesstatistikverordnung vom 30. April 2025[^4-2];
 - b. weitere statistische Erhebungen bei Unternehmen und Betrieben;
 - c. Handelsregister;
 - d. Register von Bund, Kantonen und Gemeinden (RBKB);
@@ -196,8 +196,8 @@ Die im BUR gespeicherten Daten stammen aus folgenden Quellen:
 - o.[^4-10] UID-Register des BFS;
 - p.[^4-11] System der Eidgenössischen Finanzverwaltung zur Stammdatenverwaltung für die Supportprozesse *Master Data Governance*.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^4-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^4-1]: Fassung gemäss Anhang 3 Ziff. 8 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^4-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^4-3]: Fassung gemäss Ziff. II 25 der V vom 1. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
@@ -264,7 +264,7 @@ Der Zugriff des BFS auf die Datenquellen nach Artikel 4 erfolgt über eine Schni
 
 <sup>3</sup> Für das Format, die Vertraulichkeit, die Sicherheit und die Übermittlung der Daten, die das BFS Eurostat bekannt gibt, gelten die Artikel 11 Absatz 3, 12 und 13 der Verordnung (EG) Nr. 177/2008 sowie die Verordnungen (EG) Nr.192/2009[^9-4] und (EU) Nr. 1097/2010[^9-5].
 
-<sup>4</sup> und <sup>5</sup> …[^9-6]
+<sup>4 und <sup>5</sup></sup> …[^9-6]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
@@ -282,7 +282,7 @@ Der Zugriff des BFS auf die Datenquellen nach Artikel 4 erfolgt über eine Schni
 <sup>2</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^9a-2] (DSG).[^9a-3]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^9a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^9a-3]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
@@ -296,7 +296,7 @@ Der Zugriff des BFS auf die Datenquellen nach Artikel 4 erfolgt über eine Schni
 <sup>3</sup> Für das Bearbeiten der Daten gelten die Bestimmungen des DSG[^10-2].[^10-3]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^10-3]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
@@ -329,7 +329,7 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 
 <sup>3</sup> Die Berechnung der Gebühr erfolgt nach der Verordnung vom 30. Juni 1993[^13-1] über die Gebühren für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
 
-[^13-1]: [[AS 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)Anhang 1 Ziff. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)Art. 18. [AS 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)Art. 23]. Siehe heute die V vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes ([SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)).
+[^13-1]: [[AS 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)Anhang 1 Ziff. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)Art. 18. [AS 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)Art. 23]. Siehe heute die V vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes ([SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
 
 ## 4. Abschnitt: Datenschutz und -sicherheit, Strafbestimmungen
 
@@ -341,7 +341,7 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 
 <sup>2</sup> Unrichtige Daten sind zu berichtigen.
 
-[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^14-2]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
@@ -359,9 +359,9 @@ Für die Datensicherheit gelten:
 
 [^15-1]: Fassung gemäss Anhang Ziff. 26 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: Fassung gemäss Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^15-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^15-4]: Fassung gemäss Anhang 2 Ziff. II 27 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^15-6]: Eingefügt durch Anhang 2 Ziff. II 56 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16

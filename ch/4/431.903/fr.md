@@ -4,11 +4,11 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2024-01-01
+version: 2025-06-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20240101/fr"
 
 (OREE[^t-1])
 
-du 30 juin 1993 (État le 1<sup>er</sup> janvier 2024)
+du 30 juin 1993 (État le 1<sup>er</sup> juin 2025)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -27,7 +27,7 @@ vu l’art. 10, al. 3, de la loi fédérale du 9 octobre 1992 sur la statistique
 
 arrête:
 
-[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## Section 1 Dispositions générales
 
@@ -134,10 +134,10 @@ Sont réputées données de référence des entreprises:
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3-5]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^3-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-7]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^3-8]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement: LF du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^3-5]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^3-6]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^3-7]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^3-8]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement: LF du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 [^3-9]: Introduite par le ch. I de l’O du 18 août 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nouvelle teneur selon le ch. I de l’O du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-10]: Abrogée par le ch. I de l’O du 7 nov. 2018, avec effet au 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-11]: Introduite par l’annexe ch. 5 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
@@ -180,7 +180,7 @@ Si la tenue du registre le requiert, le REE peut utiliser en particulier les don
 
 Les informations enregistrées dans le REE proviennent des sources suivantes:
 
-- a.[^4-1] les enquêtes de mise à jour du REE, selon l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^4-2];
+- a.[^4-1] les enquêtes de mise à jour du REE, conformément à l’ordonnance du 30 avril 2025 sur la statistique fédérale[^4-2];
 - b. d’autres relevés statistiques effectués auprès des entreprises et des établissements;
 - c. le registre du commerce;
 - d. les registres de la Confédération, des cantons et des communes (RCCC);
@@ -197,8 +197,8 @@ Les informations enregistrées dans le REE proviennent des sources suivantes:
 - o.[^4-10] le registre IDE de l’OFS;
 - p.[^4-11] le système de l’Administration fédérale des finances servant à gérer les données de référence pour les processus de soutien *master data governance.*
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^4-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^4-1]: Nouvelle teneur selon l’annexe 3 ch. 8 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^4-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^4-3]: Nouvelle teneur selon le ch. II 25 de l’O du 1<sup>er</sup> déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 [^4-4]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 [^4-5]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
@@ -265,7 +265,7 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 
 <sup>3</sup> Le format, la confidentialité, la sécurité et la transmission des données que l’OFS communique à Eurostat sont régis par les art. 11, al. 3, 12 et 13 du règlement (CE) n<sup>o</sup> 177/2008 et par les règlements (CE) n<sup>o</sup> 192/2009[^9-4] et (UE) n<sup>o</sup> 1097/2010[^9-5].
 
-<sup>4</sup> et <sup>5</sup> …[^9-6]
+<sup>4 et <sup>5</sup></sup> …[^9-6]
 
 [^9-1]: Nouvelle teneur selon le ch. 1 de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
@@ -283,7 +283,7 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 <sup>2</sup> Le traitement des données est régi par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^9a-2].[^9a-3]
 
 [^9a-1]: Introduit par le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^9a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^9a-3]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 10
@@ -297,7 +297,7 @@ L’OFS accède aux sources de données visées à l’art. 4 via une interface 
 <sup>3</sup> Le traitement des données est régi par les dispositions de la LPD[^10-2].[^10-3]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 176](https://fedlex.data.admin.ch/eli/oc/2022/176)).
-[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^10-3]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 11
@@ -330,7 +330,7 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 <sup>3</sup> Le calcul des émoluments se fonde sur les dispositions de l’ordonnance du 30 juin 1993 sur les émoluments pour les prestations de services statistiques des unités administratives fédérales[^13-1].
 
-[^13-1]: [[RO 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)annexe 1 ch. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114)[1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RO 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Voir actuellement l’O du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération ([RS 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)).
+[^13-1]: [[RO 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)annexe 1 ch. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114)[1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RO 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Voir actuellement l’O du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération ([RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
 
 ## Section 4 Protection et sécurité des données, dispositions pénales
 
@@ -342,7 +342,7 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 <sup>2</sup> Les données inexactes doivent être rectifiées.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 15
@@ -360,9 +360,9 @@ La sécurité des données est régie par:
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 26 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: Nouvelle teneur selon l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^15-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^15-4]: Nouvelle teneur selon l’annexe 2 ch. II 27 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^15-6]: Introduit par l’annexe 2 ch. II 56 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
