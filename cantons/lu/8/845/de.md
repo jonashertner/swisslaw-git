@@ -3,20 +3,20 @@ canton: LU
 number: "845"
 title: Kantonale Tierseuchenverordnung
 language: de
-version: 2020-06-01
-valid_until: 2025-05-31
-version_adopted: 2020-04-28
+version: 2025-06-01
+valid_until: 2025-12-31
+version_adopted: 2025-04-15
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/845"
-pdf: "https://srl.lu.ch/api/de/versions/3723/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Tierseuchenverordnung
 
-vom 22.11.2011 (Stand 01.06.2020)
+vom 22.11.2011 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -39,7 +39,7 @@ beschliesst:
 
 - a. übt die Oberaufsicht über den Vollzug der Tierseuchengesetzgebung aus,
 - b. wählt den Kantonstierarzt oder die Kantonstierärztin,
-- c. erlässt Sömmerungs- und Winterungsvorschriften,
+- c. …
 - d. bezeichnet die Anlagen für die Entsorgung von tierischen Nebenprodukten gemäss Artikel 37 der Verordnung über tierische Nebenprodukte (VTNP) vom 25. Mai 2011[^1-1],
 - e. …
 
@@ -70,6 +70,7 @@ beschliesst:
 - e. trifft Massnahmen zur Beaufsichtigung der Tiertransporte,
 - f. entscheidet über die Entschädigungen bei Tierverlusten und Seuchenbekämpfungsmassnahmen,
 - g. erteilt bei Seuchengefahr oder bei Ausbruch einer Seuche Weisungen an die übrigen Personen und Organe gemäss den §§ 6–10 und koordiniert deren Zusammenarbeit.
+- h. erlässt seuchenpolizeiliche Vorschriften über die Sömmerung und Winterung.
 
 <sup>3</sup> Der Veterinärdienst koordiniert seine Tätigkeit im Bereich der Tierseuchengesetzgebung soweit erforderlich mit den anderen Kantonen.
 
