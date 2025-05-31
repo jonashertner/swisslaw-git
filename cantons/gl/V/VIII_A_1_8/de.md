@@ -4,13 +4,12 @@ number: VIII A/1/8
 title: Kantonale Verordnung für die Förderung der Ausbildung im Bereich der Pflege
 short: "Förderverordnung Pflege, FöPV"
 language: de
-version: 2024-07-01
-valid_until: 2025-05-31
-version_adopted: 2024-02-20
+version: 2025-06-01
+version_adopted: 2025-04-01
 adopted: 2024-02-20
 in_force: 2024-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.8"
-pdf: "https://gesetze.gl.ch/api/de/versions/2487/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2487/pdf_file"
 
 (Förderverordnung Pflege, FöPV)
 
-Vom 20.02.2024 (Stand 01.07.2024)
+Vom 20.02.2024 (Stand 01.06.2025)
 
 Der Regierungsrat,
 
@@ -110,9 +109,9 @@ erlässt:
 <sup>3</sup> Es werden folgende Beiträge geleistet:
 
 - a. Ausbildungsplatz Pflege HF: 12 000 Franken pro Schuljahr;
-- b. Ausbildungsplatz Bachelorstudiengang FH: 2100 Franken pro Schuljahr.
+- b. Ausbildungsplatz Bachelorstudiengang FH: 4200 Franken pro Schuljahr.
 
-<sup>4</sup> Für die Schuljahre 2024/2025 und 2025/2026 wird ein jährlicher Zusatzbeitrag für Pflege HF von 2000 Franken geleistet.
+<sup>4</sup> Für die Schuljahre 2024/2025 und 2025/2026 wird ein jährlicher Zusatzbeitrag für Pflege HF von 2000 Franken bzw. für Bachelorstudiengang FH von 1400 Franken geleistet.
 
 #### Art. 9
 
@@ -128,7 +127,7 @@ erlässt:
 
 **Gesuch**
 
-<sup>1</sup> Die Einrichtungen reichen bis spätestens Ende August dem Bildungszentrum Gesundheit und Soziales die Gesuche ein und melden die Anzahl der besetzten Ausbildungsplätze der Bildungsgänge Pflege HF und FH des auslaufenden und des kommenden Schuljahres.
+<sup>1</sup> Die Einrichtungen reichen bis spätestens Ende März dem Bildungszentrum Gesundheit und Soziales die Gesuche ein und melden die Anzahl der besetzten Ausbildungsplätze der Bildungsgänge Pflege HF und FH des vergangenen Kalenderjahres.
 
 #### Art. 11
 
@@ -136,9 +135,9 @@ erlässt:
 
 <sup>1</sup> Die Höhe der Abgeltung besteht aus der Anzahl der berechtigten Ausbildungsplätze multipliziert mit den für den Bildungsgang jeweils geltenden Beiträgen pro Ausbildungsplatz.
 
-<sup>2</sup> Das Bildungszentrum Gesundheit und Soziales berechnet die Höhe der Abgeltung der Einrichtung und übermittelt bis Ende September die Daten dem Departement.
+<sup>2</sup> Das Bildungszentrum Gesundheit und Soziales berechnet die Höhe der Abgeltung der Einrichtung und übermittelt bis Ende April die Daten dem Departement.
 
-<sup>3</sup> Die Hauptabteilung verfügt die Abgeltung für das vergangene Schuljahr.
+<sup>3</sup> Die Hauptabteilung verfügt die Abgeltung für das vergangene Kalenderjahr.
 
 #### Art. 12
 
@@ -146,7 +145,7 @@ erlässt:
 
 <sup>1</sup> Der Kanton kann für innovative Projekte zur Verbesserung der Qualität der praktischen Ausbildung HF und FH Beiträge gewähren.
 
-<sup>2</sup> Gesuche um finanzielle Unterstützung sind beim Departement einzureichen.
+<sup>2</sup> Gesuche um finanzielle Unterstützung für das folgende Kalenderjahr sind bis spätestens Ende Juli beim Departement einzureichen.
 
 <sup>3</sup> Für Beitragsgesuche bis zu einer Höhe von 10 000 Franken ist das Departement zuständig, im Übrigen der Regierungsrat.
 
