@@ -4,13 +4,12 @@ number: 38b
 title: Kantonale Datenschutzverordnung
 short: KDSV
 language: de
-version: 2021-09-01
-valid_until: 2025-05-31
-version_adopted: 2021-08-23
+version: 2025-06-01
+version_adopted: 2025-04-08
 adopted: 1991-02-26
 in_force: 1991-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/38b"
-pdf: "https://srl.lu.ch/api/de/versions/3803/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3803/pdf_file"
 
 (KDSV)
 
-vom 26.02.1991 (Stand 01.09.2021)
+vom 26.02.1991 (Stand 01.06.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -146,11 +145,24 @@ beschliesst:
 
 **Bekanntgeben von Personendaten der Polizei**
 
-<sup>1</sup> Soweit nicht ein Rechtssatz dazu verpflichtet oder ermächtigt, dürfen Personendaten, die von der Polizei ausserhalb hängiger Strafverfahren zur Verhütung oder Verfolgung strafbarer Handlungen bearbeitet werden, nichtpolizeilichen Organen oder Dritten nur auf schriftliches Gesuch hin und nur mit Einwilligung des Vorstehers des Justiz- und Sicherheitsdepartementes[^7-1] bekanntgegeben werden. Im Gesuch ist darzulegen, dass die Voraussetzungen des § 9 Absatz 1b bzw. des § 10 Absatz 1b des Datenschutzgesetzes erfüllt sind.
+<sup>1</sup> Soweit nicht ein Rechtssatz dazu verpflichtet oder ermächtigt, dürfen Personendaten, die von der Polizei ausserhalb hängiger Strafverfahren zur Verhütung oder Verfolgung strafbarer Handlungen bearbeitet werden, nichtpolizeilichen Organen oder Dritten nur auf schriftliches Gesuch hin und nur mit Einwilligung des Vorstehers oder der Vorsteherin des Justiz- und Sicherheitsdepartementes[^7-1] bekanntgegeben werden. Im Gesuch ist darzulegen, dass die Voraussetzungen des § 9 Absatz 1b bzw. des § 10 Absatz 1b KDSG erfüllt sind.
 
-<sup>2</sup> Für das Bekanntgeben bestimmter Personendaten kann der Vorsteher des Justiz- und Sicherheitsdepartementes seine Befugnis zur Einwilligung an die Polizeikommandanten delegieren.
+<sup>2</sup> Für das Bekanntgeben bestimmter Personendaten kann der Vorsteher oder die Vorsteherin des Justiz- und Sicherheitsdepartementes seine Befugnis zur Einwilligung an die Polizeikommandanten delegieren.
 
 [^7-1]: Departementsbezeichnung gemäss Änderung des Organisationsgesetzes vom 17. Februar 2003, in Kraft seit dem 1. Juli 2003 (G 2003 89).
+
+#### § 7a
+
+**Anonymisierung und Bekanntgabe von Personendaten bei Anwendung des Öffentlichkeitsprinzips**
+
+<sup>1</sup> Das Anonymisieren von Personendaten für die Bekanntgabe in Anwendung des Öffentlichkeitsprinzips umfasst das Verändern von Personendaten einschliesslich der damit verbundenen Informationen zu den persönlichen Verhältnissen derart, dass die Informationen nicht mehr oder nur mit unverhältnismässig grossem Aufwand einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können.
+
+<sup>2</sup> Das öffentliche Interesse an den amtlichen Informationen kann ausnahmsweise das Interesse an der Geheimhaltung von Personendaten überwiegen, namentlich wenn
+
+- a. die Zugänglichmachung einem besonderen Informationsinteresse der Öffentlichkeit dient, insbesondere diejenige von Vorkommnissen von grosser Tragweite in der Verwaltung, oder
+- b. die betroffene Person zum Gemeinwesen in einer rechtlichen oder faktischen Beziehung steht, aus der ihr bedeutende Vorteile erwachsen, insbesondere durch die Ausrichtung von Staatsbeiträgen.
+
+<sup>3</sup> Die Fristen zur Einholung der Einwilligung oder zur Anhörung betroffener Personen gemäss § 11a Absätze 3 und 4 KDSG betragen in der Regel 10 Tage.
 
 #### § 8
 
@@ -159,22 +171,22 @@ beschliesst:
 <sup>1</sup> Zur Veröffentlichung von Personendaten dürfen bekanntgegeben werden:
 
 - a. für Adressbücher und ähnliche Nachschlagewerke: Name, Vorname, Titel, Firma und Adresse von Personen und Personengesellschaften sowie deren Eigentum an Grundstücken am Wohnort oder Sitz;
-- b. für das Verzeichnis der Fahrzeughalter[^8-1] und Schiffshalter: Name, Vorname oder Firma und Adresse von Inhabern eines Kontrollschildes;
+- b. für das Verzeichnis der Fahrzeughalterinnen und -halter[^8-1] und Schiffshalterinnen und -halter: Name, Vorname oder Firma und Adresse von Inhaberinnen und Inhabern eines Kontrollschildes;
 - c. für den Staatskalender, Behördenverzeichnisse und ähnliche Nachschlagewerke: Name, Vorname, Titel, Beruf, Geburtsjahr, Adresse, Heimatort sowie Funktion von Personen, die im öffentlichen Dienst stehen oder gestanden haben;
 - d. für Zeitschriften und andere periodische Veröffentlichungen und Mitteilungen: Personendaten im Zusammenhang mit Geburten, Todesfällen, Verkündungen und Trauungen nach Massgabe der Verordnung über das Zivilstandswesen[^8-2].
 
-<sup>2</sup> Vorbehalten bleiben die Sperre von Personendaten gemäss § 11 Absatz 4 des Datenschutzgesetzes und andere rechtmässig zugelassene Ausnahmen von der Veröffentlichung.
+<sup>2</sup> Vorbehalten bleiben die Sperre von Personendaten gemäss § 11 Absatz 4 KDSG und andere rechtmässig zugelassene Ausnahmen von der Veröffentlichung.
 
 <sup>3</sup> Auf das Bekanntgeben der Personendaten gemäss Absatz 1 besteht kein Rechtsanspruch.
 
-[^8-1]: Die Rechtsgrundlage für die Veröffentlichung des Verzeichnisses der Fahrzeughalter findet sich in Artikel 104 Absatz 5 des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1958 (SR 741.01).
+[^8-1]: Die Rechtsgrundlage für die Veröffentlichung des Verzeichnisses der Fahrzeughalter und -halterinnen findet sich in Artikel 89g Absatz 5 des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1958 (SR 741.01).
 [^8-2]: SRL Nr. [201](https://srl.lu.ch/data/201/de)
 
 #### § 8a
 
 **Grenzüberschreitende Bekanntgabe**
 
-<sup>1</sup> Das bekanntgebende Organ informiert den Beauftragten oder die Beauftragte für den Datenschutz vor der grenzüberschreitenden Bekanntgabe über die Garantien nach § 12a Absatz 2a des Kantonalen Datenschutzgesetzes. Ist die vorgängige Information nicht möglich, so hat sie unmittelbar nach der Bekanntgabe zu erfolgen.
+<sup>1</sup> Das bekanntgebende Organ informiert den Beauftragten oder die Beauftragte für den Datenschutz vor der grenzüberschreitenden Bekanntgabe über die Garantien nach § 12a Absatz 2a KDSG. Ist die vorgängige Information nicht möglich, so hat sie unmittelbar nach der Bekanntgabe zu erfolgen.
 
 <sup>2</sup> Die Informationspflicht gilt als erfüllt für alle Bekanntgaben, die unter denselben Garantien erfolgen, soweit die Kategorien der Empfänger, der Zweck der Bearbeitung und die Datenkategorien unverändert bleiben.
 
