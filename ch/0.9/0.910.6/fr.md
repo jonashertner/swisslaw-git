@@ -3,11 +3,11 @@ sr: "0.910.6"
 title: "Traité international du 3 novembre 2001 sur les ressources phytogénétiques pour l'alimentation et l'agriculture (avec appendices)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/298"
 language: fr
-version: 2019-07-05
+version: 2025-06-02
 adopted: 2001-11-03
 in_force: 2005-02-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/298/20190705/fr/xml/fedlex-data-admin-ch-eli-cc-2005-298-20190705-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/298/20190705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/298/20250602/fr/xml/fedlex-data-admin-ch-eli-cc-2005-298-20250602-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/298/20250602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 22 novembre 2004
 
 Entré en vigueur pour la Suisse le 20 février 2005
 
-(Etat le 5 juillet 2019)
+(État le 2 juin 2025)
 
 [^t-1]: [RO 2005 1787](https://fedlex.data.admin.ch/eli/oc/2005/297)
 
@@ -263,7 +263,7 @@ Les Parties contractantes conviennent de promouvoir l’octroi d’assistance te
   - ii) au développement et au renforcement d’installations destinées à la conservation et à l’utilisation durables des ressources phytogénétiques pour l’alimentation et l’agriculture, en particulier dans les pays en développement et les pays en transition, et
   - iii) à la recherche scientifique menée de préférence et, si possible, dans les pays en développement et les pays en transition, en coopération avec les institutions de ces pays, ainsi qu’au développement de la capacité à mener de telles recherches dans les domaines où elles sont nécessaires.
 
-- d) *Partage des avantages monétaires et autres découlant de la commercialis**a**tion*
+- d) *Partage des avantages monétaires et autres découlant de la commercialisation*
   - i) Les Parties contractantes conviennent, dans le cadre du Système multilatéral, de prendre des mesures pour assurer le partage des avantages commerciaux, grâce à l’association des secteurs privé et public aux activités identifiées dans le présent article, par le biais de partenariats et de collaborations, notamment avec le secteur privé des pays en développement et des pays en transition pour la recherche et la mise au point de technologies.
   - ii) Les Parties contractantes conviennent que l’accord type de transfert de matériel (ATM) visé à l’art. 12.4 doit contenir une disposition au titre de laquelle un bénéficiaire commercialisant un produit qui est une ressource phytogénétique pour l’alimentation et l’agriculture et qui incorpore du matériel auquel ledit bénéficiaire a eu accès grâce au Système multilatéral est requis de verser au mécanisme visé à l’art. 19.3 f) une part équitable des avantages découlant de la commercialisation de ce produit, sauf lorsque ce produit est disponible sans restriction pour d’autres bénéficiaires à des fins de recherche et de sélection, auquel cas le bénéficiaire qui commercialise le produit est encouragé à effectuer ce paiement.
   - A sa première réunion, l’Organe directeur détermine le montant, la forme et les modalités du paiement, conformément aux pratiques commerciales. L’Organe directeur peut décider d’établir différents montants de paiement pour les diverses catégories de bénéficiaires qui commercialisent de tels produits; il peut également décider qu’il est nécessaire d’exonérer de ces paiements les petits agriculteurs des pays en développement et des pays en transition. L’Organe directeur peut, de temps à autre, examiner les montants du paiement afin de parvenir à un partage juste et équitable des avantages et il peut également évaluer, pendant une période de cinq ans à compter de l’entrée en vigueur du présent Traité, si la disposition de l’ATM prévoyant un paiement obligatoire s’applique aussi aux cas dans lesquels ces produits commercialisés sont, sans restriction, à la disposition d’autres bénéficiaires à des fins de recherche et sélection.
@@ -730,7 +730,7 @@ La Commission de conciliation prend ses décisions à la majorité des voix de s
 
 En cas de désaccord au sujet de la compétence de la Commission de conciliation, celle-ci décide si elle est ou non compétente.
 
-Champ d’application le 5 juillet 2019**[^t-2]**
+Champ d’application le 2 juin 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -745,6 +745,7 @@ Champ d’application le 5 juillet 2019**[^t-2]**
 <tr><td>Arménie</td><td>20 mars</td><td>2007 A</td><td>18 juin</td><td>2007</td></tr>
 <tr><td>Australie</td><td>12 décembre</td><td>2005</td><td>14 mars</td><td>2006</td></tr>
 <tr><td>Autriche\*</td><td>4 novembre</td><td>2005</td><td>2 février</td><td>2006</td></tr>
+<tr><td>Bahreïn</td><td>17 avril</td><td>2024 A</td><td>16 juillet</td><td>2024</td></tr>
 <tr><td>Bangladesh</td><td>14 novembre</td><td>2003</td><td>29 juin</td><td>2004</td></tr>
 <tr><td>Belgique\*</td><td>2 octobre</td><td>2007</td><td>30 janvier</td><td>2008</td></tr>
 <tr><td>Bénin</td><td>24 février</td><td>2006 A</td><td>25 mai</td><td>2006</td></tr>
@@ -759,6 +760,7 @@ Champ d’application le 5 juillet 2019**[^t-2]**
 <tr><td>Canada</td><td>10 juin</td><td>2002</td><td>29 juin</td><td>2004</td></tr>
 <tr><td>Chili</td><td>14 janvier</td><td>2016</td><td>13 avril</td><td>2016</td></tr>
 <tr><td>Chypre</td><td>15 septembre</td><td>2003</td><td>29 juin</td><td>2004</td></tr>
+<tr><td>Colombie</td><td>7 janvier</td><td>2025</td><td>8 avril</td><td>2025</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>14 septembre</td><td>2004 A</td><td>13 décembre</td><td>2004</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>5 juin</td><td>2003 A</td><td>29 juin</td><td>2004</td></tr>
 <tr><td>Corée (Nord)</td><td>16 juillet</td><td>2003 A</td><td>29 juin</td><td>2004</td></tr>
@@ -847,6 +849,7 @@ Champ d’application le 5 juillet 2019**[^t-2]**
 <tr><td>Portugal</td><td>7 novembre</td><td>2006</td><td>5 février</td><td>2007</td></tr>
 <tr><td>Qatar</td><td>1<sup>er</sup> juillet</td><td>2008 A</td><td>28 septembre</td><td>2008</td></tr>
 <tr><td>République centrafricaine</td><td>4 août</td><td>2003</td><td>29 juin</td><td>2004</td></tr>
+<tr><td>République dominicaine</td><td>1<sup>er</sup> février</td><td>2022</td><td>2 mai</td><td>2022</td></tr>
 <tr><td>République tchèque</td><td>31 mars</td><td>2004 A</td><td>29 juin</td><td>2004</td></tr>
 <tr><td>Roumanie</td><td>31 mai</td><td>2005 A</td><td>29 août</td><td>2005</td></tr>
 <tr><td>Royaume-Uni\*</td><td>31 mars</td><td>2004</td><td>29 juin</td><td>2004</td></tr>
@@ -878,7 +881,7 @@ Champ d’application le 5 juillet 2019**[^t-2]**
 <tr><td>Yémen</td><td>1<sup>er</sup> mars</td><td>2006 A</td><td>30 mai</td><td>2006</td></tr>
 <tr><td>Zambie</td><td>13 mars</td><td>2006</td><td>11 juin</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>5 juillet</td><td>2005</td><td>3 octobre</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’Alimentation et l’Agriculture: www.fao.org &gt; Français &gt; Bureau des affaires juridiques et de l’Ethique &gt; Traités, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’Alimentation et l’Agriculture: [www.fao.org/treaties/fr/](https://www.fao.org/treaties/fr/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 1789](https://fedlex.data.admin.ch/eli/oc/2005/298), [2008 37](https://fedlex.data.admin.ch/eli/oc/2008/16), [2010 507](https://fedlex.data.admin.ch/eli/oc/2010/69), [2013 2199](https://fedlex.data.admin.ch/eli/oc/2013/465), [2014 2289](https://fedlex.data.admin.ch/eli/oc/2014/383), [2016 2861](https://fedlex.data.admin.ch/eli/oc/2016/472), [2019 2259](https://fedlex.data.admin.ch/eli/oc/2019/427). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 1789](https://fedlex.data.admin.ch/eli/oc/2005/298); [2008 37](https://fedlex.data.admin.ch/eli/oc/2008/16); [2010 507](https://fedlex.data.admin.ch/eli/oc/2010/69); [2013 2199](https://fedlex.data.admin.ch/eli/oc/2013/465); [2014 2289](https://fedlex.data.admin.ch/eli/oc/2014/383); [2016 2861](https://fedlex.data.admin.ch/eli/oc/2016/472); [2019 2259](https://fedlex.data.admin.ch/eli/oc/2019/427); [2025 359](https://fedlex.data.admin.ch/eli/oc/2025/359). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

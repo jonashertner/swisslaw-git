@@ -3,11 +3,11 @@ sr: "0.910.6"
 title: Internationaler Vertrag vom 3. November 2001 über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/298"
 language: de
-version: 2019-07-05
+version: 2025-06-02
 adopted: 2001-11-03
 in_force: 2005-02-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/298/20190705/de/xml/fedlex-data-admin-ch-eli-cc-2005-298-20190705-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/298/20190705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/298/20250602/de/xml/fedlex-data-admin-ch-eli-cc-2005-298-20250602-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/298/20250602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen in Rom am 3. November 2001
 
 Von der Bundesversammlung genehmigt am 18. Juni 2004[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 22. November 2004 In Kraft getreten für die Schweiz am 20. Februar 2005
 
-(Stand am 5. Juli 2019)
+(Stand am 2. Juni 2025)
 
 [^t-1]: [AS 2005 1787](https://fedlex.data.admin.ch/eli/oc/2005/297)
 
@@ -116,9 +116,9 @@ Jede Vertragspartei stellt sicher, dass ihre Gesetze, Vorschriften und Verfahren
 
 **Erhaltung, Erforschung, Sammlung, Charakterisierung, Evaluierung und Dokumentation pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft**
 
-5.1 Nach Massgabe der innerstaatlichen Rechtsvorschriften und gegebenenfalls in Zusammenarbeit mit anderen Vertragsparteien fördert jede Vertragspartei einen integrierten Ansatz zur Erforschung, Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft und wird insbesondere, sofern angebracht,
-
 5.2 Die Vertragsparteien ergreifen, sofern angebracht, Massnahmen, um Gefahren für pflanzengenetische Ressourcen für Ernährung und Landwirtschaft auf ein Mindestmass zu beschränken oder nach Möglichkeit zu beseitigen.
+
+5.1 Nach Massgabe der innerstaatlichen Rechtsvorschriften und gegebenenfalls in Zusammenarbeit mit anderen Vertragsparteien fördert jede Vertragspartei einen integrierten Ansatz zur Erforschung, Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft und wird insbesondere, sofern angebracht:
 
 - a) pflanzengenetische Ressourcen für Ernährung und Landwirtschaft erfassen und inventarisieren, wobei Art und Ausmass der genetischen Variation bestehender Populationen – einschliesslich solcher mit potentiellem Nutzen – zu berücksichtigen sind und, soweit möglich, alle sie bedrohenden Gefahren bewerten;
 - b) das Sammeln pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft und damit verbundener einschlägiger Informationen über bedrohte oder potentiell nutzbare pflanzengenetische Ressourcen fördern;
@@ -149,7 +149,7 @@ Jede Vertragspartei stellt sicher, dass ihre Gesetze, Vorschriften und Verfahren
 
 7.1 Jede Vertragspartei nimmt, sofern angebracht, die in den Artikeln 5 und 6 genannten Tätigkeiten in ihre Politiken und Programme für die Landwirtschaft und die ländliche Entwicklung auf und arbeitet unmittelbar oder über die FAO und andere einschlägige internationale Organisationen mit anderen Vertragsparteien bei der Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft zusammen.
 
-7.2 Die internationale Zusammenarbeit ist insbesondere ausgerichtet auf
+7.2 Die internationale Zusammenarbeit ist insbesondere ausgerichtet auf:
 
 - a) die Schaffung oder den Ausbau der Kapazitäten von Entwicklungsländern und Ländern mit im Übergang befindlichen Wirtschaftssystemen in Bezug auf die Erhaltung und nachhaltige Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft;
 - b) die Verstärkung internationaler Tätigkeiten zur Förderung der Erhaltung, Evaluierung, Dokumentation, genetischen Verbesserung, Pflanzenzüchtung und Saatgutvermehrung sowie nach Teil IV die Teilhabe an, die Gewährung von Zugang zu und den Austausch von pflanzengenetischen Ressourcen für Ernährung und Landwirtschaft und geeigneten Informationen und Technologien;
@@ -170,9 +170,9 @@ Die Vertragsparteien kommen überein, die Bereitstellung technischer Unterstütz
 
 9.1 Die Vertragsparteien erkennen den ausserordentlich grossen Beitrag an, den die ortsansässigen und eingeborenen Gemeinschaften und Bauern aller Regionen der Welt, insbesondere in den Ursprungszentren und Zentren der Nutzpflanzenvielfalt, zur Erhaltung und Entwicklung pflanzengenetischer Ressourcen, welche die Grundlage der Nahrungsmittel- und Agrarproduktion in der ganzen Welt darstellen, geleistet haben und weiterhin leisten.
 
-9.2 Die Vertragsparteien vereinbaren, dass die nationalen Regierungen für die Verwirklichung der Rechte der Bauern im Zusammenhang mit pflanzengenetischen Ressourcen für Ernährung und Landwirtschaft verantwortlich sind. Entsprechend ihren Bedürfnissen und Prioritäten soll jede Vertragspartei, sofern angebracht und nach Massgabe ihrer innerstaatlichen Rechtsvorschriften, Massnahmen zum Schutz und zur Förderung der Rechte der Bauern ergreifen; hierzu gehören
-
 9.3 Dieser Artikel ist nicht so auszulegen, als schränke er irgendwelche Rechte der Bauern ein, auf dem Betrieb gewonnenes Saatgut/Vermehrungsmaterial vorbehaltlich des innerstaatlichen Rechts und sofern angemessen zurückzubehalten, zu nutzen, auszutauschen und zu verkaufen.
+
+9.2 Die Vertragsparteien vereinbaren, dass die nationalen Regierungen für die Verwirklichung der Rechte der Bauern im Zusammenhang mit pflanzengenetischen Ressourcen für Ernährung und Landwirtschaft verantwortlich sind. Entsprechend ihren Bedürfnissen und Prioritäten soll jede Vertragspartei, sofern angebracht und nach Massgabe ihrer innerstaatlichen Rechtsvorschriften, Massnahmen zum Schutz und zur Förderung der Rechte der Bauern ergreifen; hierzu gehören:
 
 - a) der Schutz des traditionellen Wissens, das für pflanzengenetische Ressourcen für Ernährung und Landwirtschaft von Belang ist;
 - b) das Recht auf gerechte Teilhabe an den Vorteilen, die sich aus der Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft ergeben;
@@ -336,9 +336,9 @@ In Anerkennung der Tatsache, dass der fortzuschreibende Globale Aktionsplan für
 
 18.3 Um finanzielle Mittel für vorrangige Massnahmen, Pläne und Programme insbesondere in Entwicklungsländern und Ländern mit im Übergang befindlichen Wirtschaftssystemen verfügbar zu machen und unter Berücksichtigung des Globalen Aktionsplans setzt das Lenkungsorgan in regelmässigen Abständen ein Ziel für diese Finanzierung fest.
 
-18.4 Nach dieser Finanzierungsstrategie
-
 18.5 Die Vertragsparteien sind sich darüber einig, dass der Durchführung der vereinbarten Pläne und Programme für Bauern in Entwicklungsländern, insbesondere in den am wenigsten entwickelten Ländern, und Ländern mit im Übergang befindlichen Wirtschaftssystemen, die pflanzengenetische Ressourcen für Ernährung und Landwirtschaft erhalten und nachhaltig nutzen, Vorrang gebührt.
+
+18.4 Nach dieser Finanzierungsstrategie:
 
 - a) ergreifen die Vertragsparteien die notwendigen und geeigneten Massnahmen in den Lenkungsorganen der einschlägigen internationalen Mechanismen, Fonds und Gremien, um der wirksamen Zuweisung von vorhersehbaren und vereinbarten Mitteln zur Durchführung von Plänen und Programmen im Rahmen dieses Vertrags die gebührende Priorität und Aufmerksamkeit zu sichern;
 - b) wird das Ausmass, in dem die Vertragsparteien, die Entwicklungsländer und Länder mit im Übergang befindlichen Wirtschaftssystemen sind, ihre Pflichten im Rahmen dieses Vertrags wirksam erfüllen werden, von der wirksamen Zuweisung der in diesem Artikel genannten finanziellen Mittel, insbesondere durch entwickelte Länder, die Vertragsparteien sind, abhängen. Vertragsparteien, die Entwicklungsländer und Länder mit im Übergang befindlichen Wirtschaftssystemen sind, werden dem Kapazitätsaufbau im Bereich pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft in ihren eigenen Plänen und Programmen gebührenden Vorrang einräumen;
@@ -357,8 +357,6 @@ In Anerkennung der Tatsache, dass der fortzuschreibende Globale Aktionsplan für
 
 19.2 Alle Entscheidungen des Lenkungsorgans werden durch Konsens getroffen, sofern nicht durch Konsens ein anderes Verfahren der Entscheidungsfindung über bestimmte Massnahmen vereinbart wird; hiervon ausgenommen sind die Artikel 23 und 24, bei denen stets eine Entscheidung durch Konsens erforderlich ist.
 
-19.3 Die Aufgaben des Lenkungsorgans bestehen darin, die vollständige Durchführung dieses Vertrags unter Berücksichtigung seiner Ziele zu fördern und insbesondere
-
 19.4 Vorbehaltlich des Absatzes 6 hat jede Vertragspartei eine Stimme und kann auf Tagungen des Lenkungsorgans von einem einzelnen Delegierten, der von einem Stellvertreter begleitet werden kann, sowie von Sachverständigen und Beratern vertreten werden. Die Stellvertreter, Sachverständigen und Berater dürfen an den Beratungen des Lenkungsorgans teilnehmen, aber nicht abstimmen, es sei denn, sie sind ordnungsgemäss bevollmächtigt, den Delegierten zu vertreten.
 
 19.5 Die Vereinten Nationen, ihre Sonderorganisationen und die Internationale Atomenergie-Organisation sowie jeder Staat, der nicht Vertragspartei dieses Vertrags ist, können als Beobachter auf den Tagungen des Lenkungsorgans vertreten sein. Jede andere Stelle, ob staatlich oder nichtstaatlich, die auf Gebieten im Zusammenhang mit der Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen für Ernährung und Landwirtschaft fachlich befähigt ist und dem Sekretär ihren Wunsch mitgeteilt hat, auf einer Tagung des Lenkungsorgans als Beobachter vertreten zu sein, kann zugelassen werden, sofern nicht mindestens ein Drittel der anwesenden Vertragsparteien widerspricht. Die Zulassung und Teilnahme von Beobachtern unterliegen der vom Lenkungsorgan beschlossenen Geschäftsordnung.
@@ -374,6 +372,8 @@ In Anerkennung der Tatsache, dass der fortzuschreibende Globale Aktionsplan für
 19.10 Ausserordentliche Tagungen des Lenkungsorgans finden statt, wenn es das Lenkungsorgan für notwendig erachtet oder eine Vertragspartei dies schriftlich beantragt, sofern dieser Antrag von mindestens einem Drittel der Vertragsparteien unterstützt wird.
 
 19.11 Das Lenkungsorgan wählt seinen Vorsitzenden und seine stellvertretenden Vorsitzenden (zusammen als das «Präsidium» bezeichnet) in Übereinstimmung mit seiner Geschäftsordnung.
+
+19.3 Die Aufgaben des Lenkungsorgans bestehen darin, die vollständige Durchführung dieses Vertrags unter Berücksichtigung seiner Ziele zu fördern und insbesondere:
 
 - a) politische Leitlinien und Orientierungshilfen zur Überwachung zu geben und die für die Durchführung dieses Vertrags notwendigen Empfehlungen anzunehmen, insbesondere für das Funktionieren des multilateralen Systems;
 - b) Pläne und Programme für die Durchführung dieses Vertrags zu beschliessen;
@@ -398,8 +398,6 @@ In Anerkennung der Tatsache, dass der fortzuschreibende Globale Aktionsplan für
 
 20.1 Der Sekretär des Lenkungsorgans wird vom Generaldirektor der FAO mit Genehmigung des Lenkungsorgans ernannt. Der Sekretär wird durch das erforderliche Personal unterstützt.
 
-20.3 Der Sekretär übermittelt allen Vertragsparteien und dem Generaldirektor
-
 20.4 Der Sekretär stellt Unterlagen für Tagungen des Lenkungsorgans in den sechs Sprachen der Vereinten Nationen zur Verfügung.
 
 20.5 Der Sekretär arbeitet mit anderen Organisationen und Vertragsorganen, wozu insbesondere das Sekretariat des Übereinkommens über die biologische Vielfalt[^20-1] gehört, bei der Erreichung der Ziele dieses Vertrags zusammen.
@@ -409,6 +407,8 @@ In Anerkennung der Tatsache, dass der fortzuschreibende Globale Aktionsplan für
 - a) Er veranlasst und leistet verwaltungsmässige Unterstützung für Tagungen des Lenkungsorgans und gegebenenfalls eingesetzter Nebenorgane;
 - b) er unterstützt das Lenkungsorgan bei der Erfüllung seiner Aufgaben, einschliesslich der Wahrnehmung von Sonderaufgaben, die ihm das Lenkungsorgan gegebenenfalls überträgt;
 - c) er berichtet dem Lenkungsorgan über seine Tätigkeiten.
+
+20.3 Der Sekretär übermittelt allen Vertragsparteien und dem Generaldirektor:
 
 - a) Beschlüsse des Lenkungsorgans innerhalb von sechzig Tagen nach ihrer Annahme;
 - b) von den Vertragsparteien erhaltene Informationen in Übereinstimmung mit diesem Vertrag.
@@ -655,7 +655,7 @@ Das Schiedsgericht kann auf Ersuchen einer der Streitparteien unerlässliche ein
 
 #### Art. 7
 
-Die Streitparteien erleichtern die Arbeit des Schiedsgerichts und werden insbesondere mit allen ihnen zur Verfügung stehenden Mitteln
+Die Streitparteien erleichtern die Arbeit des Schiedsgerichts und werden insbesondere mit allen ihnen zur Verfügung stehenden Mitteln:
 
 - a) ihm alle sachdienlichen Schriftstücke vorlegen, Erleichterungen einräumen und Auskünfte erteilen und
 - b) ihm die Möglichkeit geben, soweit nötig Zeugen und Sachverständige zu laden und ihre Aussagen einzuholen.
@@ -726,7 +726,7 @@ Die Vergleichskommission entscheidet mit der Mehrheit ihrer Mitglieder. Sofern d
 
 Bei Uneinigkeit darüber, ob die Vergleichskommission zuständig ist, entscheidet die Kommission.
 
-Geltungsbereich am 5. Juli 2019**[^t-2]**
+Geltungsbereich am 2. Juni 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -740,6 +740,7 @@ Geltungsbereich am 5. Juli 2019**[^t-2]**
 <tr><td>Armenien</td><td>20. März</td><td>2007 B</td><td>18. Juni</td><td>2007</td></tr>
 <tr><td>Äthiopien</td><td>18. Juni</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Australien</td><td>12. Dezember</td><td>2005</td><td>14. März</td><td>2006</td></tr>
+<tr><td>Bahrain</td><td>17. April</td><td>2024 B</td><td>16. Juli</td><td>2024</td></tr>
 <tr><td>Bangladesch</td><td>14. November</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Belgien\*</td><td>2. Oktober</td><td>2007</td><td>30. Januar</td><td>2008</td></tr>
 <tr><td>Benin</td><td>24. Februar</td><td>2006 B</td><td>25. Mai</td><td>2006</td></tr>
@@ -755,6 +756,7 @@ Geltungsbereich am 5. Juli 2019**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>25. Juni</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Dänemark\*</td><td>31. März</td><td>2004</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Deutschland\*</td><td>31. März</td><td>2004</td><td>29. Juni</td><td>2004</td></tr>
+<tr><td>Dominikanische Republik</td><td>1. Februar</td><td>2022</td><td>2. Mai</td><td>2022</td></tr>
 <tr><td>Dschibuti</td><td>8. Mai</td><td>2006 B</td><td>6. August</td><td>2006</td></tr>
 <tr><td>Ecuador</td><td>7. Mai</td><td>2004 B</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>El Salvador</td><td>9. Juli</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
@@ -792,6 +794,7 @@ Geltungsbereich am 5. Juli 2019**[^t-2]**
 <tr><td>Kenia</td><td>27. Mai</td><td>2003 B</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Kirgisistan</td><td>30. August</td><td>2009 B</td><td>27. November</td><td>2009</td></tr>
 <tr><td>Kiribati</td><td>13. Dezember</td><td>2005 B</td><td>13. März</td><td>2006</td></tr>
+<tr><td>Kolumbien</td><td>7. Januar</td><td>2025</td><td>8. April</td><td>2025</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>14. September</td><td>2004 B</td><td>13. Dezember</td><td>2004</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>5. Juni</td><td>2003 B</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Korea (Nord-)</td><td>16. Juli</td><td>2003 B</td><td>29. Juni</td><td>2004</td></tr>
@@ -874,7 +877,7 @@ Geltungsbereich am 5. Juli 2019**[^t-2]**
 <tr><td>Vereinigte Staaten\*</td><td>13. Dezember</td><td>2016</td><td>13. März</td><td>2017</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>4. August</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
 <tr><td>Zypern</td><td>15. September</td><td>2003</td><td>29. Juni</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der UNO Organisation für Ernährung und Landwirtschaft www.fao.org/legal/traites/traites-en-vertu-de-larticle-xiv/fr/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der UNO Organisation für Ernährung und Landwirtschaft [www.fao.org/treaties/fr/](https://www.fao.org/treaties/fr/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 1789](https://fedlex.data.admin.ch/eli/oc/2005/298), [2008 37](https://fedlex.data.admin.ch/eli/oc/2008/16), [2010 507](https://fedlex.data.admin.ch/eli/oc/2010/69), [2013 2199](https://fedlex.data.admin.ch/eli/oc/2013/465), [2014 2289](https://fedlex.data.admin.ch/eli/oc/2014/383), [2016 2861](https://fedlex.data.admin.ch/eli/oc/2016/472), [2019 2259](https://fedlex.data.admin.ch/eli/oc/2019/427). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in AS **2005** 1798; [2008 37](https://fedlex.data.admin.ch/eli/oc/2008/16); [2010 507](https://fedlex.data.admin.ch/eli/oc/2010/69); [2013 2199](https://fedlex.data.admin.ch/eli/oc/2013/465); [2014 2289](https://fedlex.data.admin.ch/eli/oc/2014/383); [2016 2861](https://fedlex.data.admin.ch/eli/oc/2016/472); [2019 2259](https://fedlex.data.admin.ch/eli/oc/2019/427)und [2025 359](https://fedlex.data.admin.ch/eli/oc/2025/359). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
