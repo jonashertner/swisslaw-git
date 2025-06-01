@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2025-01-01
+version: 2025-06-02
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> janvier 2025)
+du 18 mai 2005 (État le 2 juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -378,7 +378,7 @@ L’assujettissement aux émoluments et le calcul des émoluments perçus par le
 
 <sup>3</sup> Les demandes de dérogations en suspens lors de l’entrée en vigueur de la présente ordonnance sont régies par ses dispositions.
 
-[^23-1]: [[RO 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [1214](https://fedlex.data.admin.ch/eli/oc/1989/1214_1214_1214), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2106](https://fedlex.data.admin.ch/eli/oc/1991/2106_2106_2106); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 ch. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)annexe 5 ch. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)annexe 2 ch. 3; **2000** ch. II 9, 1949 art. 22 al. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)annexe ch. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)ch. II 2;[2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch I 7. [RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. I 1]
+[^23-1]: [[RO 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [1214](https://fedlex.data.admin.ch/eli/oc/1989/1214_1214_1214), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2106](https://fedlex.data.admin.ch/eli/oc/1991/_2106_); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 ch. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)annexe 5 ch. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)annexe 2 ch. 3; **2000** ch. II 9, 1949 art. 22 al. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)annexe ch. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)ch. II 2;[2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch I 7. [RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. I 1]
 
 #### Art. 23a
 
@@ -600,7 +600,7 @@ Annexe 1.2[^t-3]
 - c. *Quintozène* (n<sup>o</sup> CAS 82-68-8);
 - d. *Phénols polychlorés et leurs dérivés*
   - – composés de pentachlorophénoxy,
-  - – tétrachlorophénols (TeCP) et leurs sels, ainsi que les composés de tétra- chlorophénoxy;
+  - tétrachlorophénols (TeCP) et leurs sels, ainsi que les composés de tétra- chlorophénoxy;
 
 - e. *Biphényles, terphényles et naphtalènes halogénés*
   - – biphényles halogénés du type C<sub>12</sub>H<sub>n</sub>X<sub>10-n</sub>,
@@ -1313,7 +1313,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1862,12 +1862,6 @@ Annexe 1.10[^t-11]
 - c. aux carburants à moteur;
 - d aux produits dérivés d’huiles minérales, aux combustibles dans des installations de combustion mobiles ou fixes, et aux combustibles dans des systèmes fermés;
 - e. aux substances énumérées à l’annexe XVII, appendice 11, première colonne, du règlement (CE) n<sup>o</sup> 1907/2006[^annex110-lvlu1-lvl2-1], pour les applications mentionnées dans la deuxième colonne, jusqu’à la date qui y figure.
-
-<sup>1bis</sup> L’interdiction au sens du ch. 1, al. 3, ne s’applique pas au papier thermique destiné à des applications spéciales nécessitant des spécifications techniques supplémentaires. Sont en particulier concernées les applications suivantes:
-
-- a. applications dans le domaine médical et des laboratoires;
-- b. étiquettes autocollantes;
-- c. tickets d’entrée et titres de transport avec fonction supplémentaire.
 
 <sup>2</sup> Après entente avec l’OFEV et le SECO, l’OFSP adapte l’al. 1, let. e, aux modifications de l’annexe XVII, appendice 11, du règlement (CE) n<sup>o</sup> 1907/2006.
 
@@ -4255,7 +4249,7 @@ Annexe 2.9[^t-29]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 

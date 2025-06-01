@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-01-01
+version: 2025-06-02
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° gennaio 2025)
+del 18 maggio 2005 (Stato 2 giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -380,7 +380,7 @@ L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amminist
 
 <sup>3</sup> Le domande di autorizzazioni eccezionali ancora in sospeso al momento dell’entrata in vigore della presente ordinanza sono giudicate in base alla presente ordinanza.
 
-[^23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)cifra II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n I 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra I n.1]
+[^23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)cifra II n. 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n I 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra I n.1]
 
 #### Art. 23a
 
@@ -630,7 +630,7 @@ Allegato 1.3[^t-4]
 
 ## Idrocarburi clorurati alifatici
 
-[^t-4]: Aggiornato dall’all. 2 dalla cifra II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-4]: Aggiornato dall’all. 2 dalla cifra II n. 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Divieti
 
@@ -1317,7 +1317,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1683,7 +1683,7 @@ Allegato 1.8[^t-9]
 
 ## Octilfenolo, nonilfenolo e loro etossilati
 
-[^t-9]: Aggiornato dall’all. 2 dalla cifra II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-9]: Aggiornato dall’all. 2 dalla cifra II n. 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Divieti
 
@@ -1867,12 +1867,6 @@ Allegato 1.10[^t-11]
 - c. carburanti per motori;
 - d. prodotti derivati da oli minerali utilizzati come combustibili in impianti di combustione mobili o fissi e come combustibili in sistemi chiusi;
 - e. sostanze di cui all’allegato XVII appendice 11 colonna 1 del regolamento (CE) n. 1907/2006[^annex110-lvlu1-lvl2-1] con le applicazioni ivi elencate alla colonna 2 ed eventuali limitazioni.
-
-<sup>1bis</sup> Il divieto di cui al numero 1 capoverso 3 non si applica alla carta termica utilizzata per applicazioni speciali che richiedono specifiche tecniche aggiuntive. Tra queste rientrano in particolare le applicazioni:
-
-- a. applicazioni nel settore medico e dei laboratori;
-- b. etichette autoadesive;
-- c. biglietti d’entrata e titoli di trasporto con funzionalità aggiuntive.
 
 <sup>2</sup> L’UFSP, d’intesa con l’UFAM e con la SECO, adegua il capoverso 1 lettera e alle modifiche dell’allegato XVII appendice 11 del regolamento (CE) n. 1907/2006.
 
@@ -4261,7 +4255,7 @@ Allegato 2.9[^t-29]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4982,7 +4976,7 @@ Allegato 2.15[^t-35]
 
 ## Pile
 
-[^t-35]: Nuovo testo giusta la cifra I n. 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. dalla cifra II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) e dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-35]: Nuovo testo giusta la cifra I n. 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. dalla cifra II n. 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)) e dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
 
 ### 1 Definizioni
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2025-01-01
+version: 2025-06-02
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250101/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2025)
+vom 18. Mai 2005 (Stand am 2. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1318,7 +1318,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1845,7 +1845,7 @@ Anhang 1.10[^t-11]
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022, ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V des BAG vom 5. Sept. 2023, In Kraft seit 1. Okt. 2023 ([AS 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022, ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V des BAG vom 5. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
 
 ### 1 Verbot
 
@@ -1867,12 +1867,6 @@ Anhang 1.10[^t-11]
 - c. Motorkraftstoffe;
 - d. Mineralölerzeugnisse als Brennstoffe in beweglichen oder ortsfesten Feuerungsanlagen sowie Brennstoffe in geschlossenen Systemen;
 - e. in Anhang XVII Anlage 11 Spalte 1 der Verordnung (EG) Nr. 1907/2006[^annex110-lvlu1-lvl2-1] aufgeführte Stoffe mit den dort in Spalte 2 aufgeführten Anwendungen und etwaigen Befristungen.
-
-<sup>1bis</sup> Das Verbot nach Ziffer 1 Absatz 3 gilt nicht für Thermopapier, das für Spezialanwendungen eingesetzt wird, die zusätzliche technische Spezifikationen erfordern. Dazu gehören insbesondere die folgenden Anwendungen:
-
-- a. Anwendungen im Medizinal- und Laborbereich;
-- b. Selbstklebeetiketten;
-- c. Eintritts- und Fahrkarten mit Zusatzfunktion.
 
 <sup>2</sup> Das BAG passt im Einvernehmen mit dem BAFU sowie dem SECO Absatz 1 Buchstabe e an Änderungen von Anhang XVII Anlage 11 der Verordnung (EG) Nr. 1907/2006 an.
 
@@ -1910,7 +1904,7 @@ Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitung
 - c. Gefahrenklasse 4.1;
 - d. Gefahrenklasse 5.1.
 
-[^annex111-lvlu1-lvl1-1]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1272/2008, ABl. L 353 vom 31.12.2008, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter http://eur-lex.europa.eu/ abrufbar.
+[^annex111-lvlu1-lvl1-1]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1272/2008, ABl. L 353 vom 31.12.2008, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/) abrufbar.
 [^annex111-lvlu1-lvl1-2]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr.618/2012, ABl. L 179 vom 11.7.2012, S. 3.
 
 ### 2 Verbote
@@ -3047,7 +3041,7 @@ Anhang 2.2[^t-22]
 <sup>4</sup> Das Verbot von Ziffer 2 Absatz 1 Buchstabe e gilt nicht für folgende Tenside, die im Verzeichnis von Anhang V der Verordnung (EG) Nr. 648/2004 aufgeführt sind:
 
 <table>
-<tr><th>Name (IUPAC Nomenklatur)</th><th>EG-Nummer</th><th>CAS-Nummer</th><th>Beschränkungen</th></tr>
+<tr><th>Name (IUPAC Nomenklatur)</th><th>EG-Nummer</th><th>CAS -Nummer</th><th>Beschränkungen</th></tr>
 <tr><td>Alkohole, Guerbet, C16-20, ethoxyliert, n-Butylether (7-8 EO)</td><td>Keine (Polymer)</td><td>147993-59-7</td><td>Kann für folgende industrielle Anwendungen bis zum 27. Juni 2019 verwendet werden: – Flaschenreinigung – CIP-Reinigung – Metallreinigung</td></tr>
 </table>
 
@@ -3835,7 +3829,7 @@ In einem anorganischen Bodenverbesserungsmittel enthaltene Schadstoffe dürfen d
 <tr><th>Schadstoff</th><th>Richtwert</th></tr>
 <tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
 <tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramme WHO<sub>2005</sub>-TEQ<sup>2</sup> pro Kilogramm Trockensubstanz</td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241. https://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241. [https://doi.org/10.1093/toxsci/kfl055](https://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.1.9 Pflanzen-Biostimulans PFC 6
@@ -3881,7 +3875,7 @@ Der Schadstoffgehalt von Pflanzen-Biostimulanzien darf die folgenden Grenzwerte 
 <tr><th>Schadstoff</th><th>Richtwert</th></tr>
 <tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
 <tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramme WHO<sub>2005</sub>-TEQ<sup>2</sup> pro Kilogramm Trockensubstanz</td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; [https://doi.org/10.1093/toxsci/kfl055](https://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 <sup>4</sup> Für Hofdünger, die für den eigenen Betrieb bestimmt sind und die von einem Betrieb mit Nutztierhaltung direkt an die Endverbraucherin oder den Endverbraucher abgegeben werden, gelten die Bestimmungen von Absatz 1 nicht. Vorbehalten bleiben auch die Bestimmungen nach Artikel 10 DüV.
@@ -3915,7 +3909,7 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 <tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>25 Milligramm pro Kilogramm Phosphor (P)<sup>1</sup></td></tr>
 <tr><td>Polychlorierte Biphenyle (PCB)</td><td>0,5 Milligramm pro Kilogramm Phosphor (P)<sup>2</sup></td></tr>
 <tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>120 Nanogramm WHO<sub>2005</sub>-TEQ pro Kilogramm Phosphor (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180 <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180 <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science93(2):223–241; [https://doi.org/10.1093/toxsci/kfl055](https://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.2.3 Durch Pyrolyse oder Vergasung gewonnene Materialien (CMC 14)
@@ -3941,7 +3935,7 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 <tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
 <tr><td>Polychlorierte Biphenyle (PCB)</td><td>0,2 Milligramm pro Kilogramm Trockensubstanz<sup>2</sup></td></tr>
 <tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramm WHO<sub>2005</sub>-TEQ pro Kilogramm Trockenmasse<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. Bestimmung mittels zweistündiger Rückflussextraktion mit Toluol. <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180. Bestimmung mittels sechsstündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055. Bestimmung mittels 20-stündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. Bestimmung mittels zweistündiger Rückflussextraktion mit Toluol. <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180. Bestimmung mittels sechsstündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; [https://doi.org/10.1093/toxsci/kfl055](https://doi.org/10.1093/toxsci/kfl055). Bestimmung mittels 20-stündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion</td></tr>
 </table>
 
 ### 3 Verwendung
@@ -4156,7 +4150,7 @@ Anhang 2.9[^t-29]
 
 <sup>4</sup> Als oxo-abbaubarer Kunststoff gilt ein Kunststoff, der Zusatzstoffe enthält, die durch Oxidation einen Zerfall des Kunststoffs in Mikropartikel oder einen chemischen Abbau herbeiführen.
 
-[^annex29-lvlu1-lvl1-1]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S.1; zuletzt geändert durch Verordnung (EU) Nr. 65/2012, ABl. L 28 vom 31.1.2012, S. 24. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter http://eur-lex.europa.eu/ abrufbar.
+[^annex29-lvlu1-lvl1-1]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S.1; zuletzt geändert durch Verordnung (EU) Nr. 65/2012, ABl. L 28 vom 31.1.2012, S. 24. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/) abrufbar.
 [^annex29-lvlu1-lvl1-2]: Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG, ABl. L 171 vom 9.7.2003, S. 1; zuletzt geändert durch Richtlinie 2010/62/EU, ABl. L 238 vom 9.9.2010, S. 7.
 [^annex29-lvlu1-lvl1-3]: Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates, ABl. L 124 vom 9.5.2002, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1137/2008, ABl. L 311 vom 21.11.2008, S. 1.
 
@@ -4260,7 +4254,7 @@ Anhang 2.9[^t-29]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
