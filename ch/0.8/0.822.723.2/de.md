@@ -3,11 +3,11 @@ sr: "0.822.723.2"
 title: Übereinkommen Nr. 132 vom 24. Juni 1970 über den bezahlten Jahresurlaub (Neufassung vom Jahre 1970)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749"
 language: de
-version: 2019-04-24
+version: 2025-06-02
 adopted: 1970-06-24
 in_force: 1993-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20190424/de/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20190424-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20190424/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20250602/de/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20250602-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20250602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1993** 1749; BBl **1991** III 869
 
 Abgeschlossen in Genf am 24. Juni 1970 Von der Bundesversammlung genehmigt am 28. Januar 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 1992 In Kraft getreten für die Schweiz am 9. Juli 1993
 
-(Stand am 24. April 2019)
+(Stand am 2. Juni 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 28. Jan. 1992 ([AS 1993 1737](https://fedlex.data.admin.ch/eli/oc/1993/1737_1737_1737)).
 
@@ -192,56 +192,55 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 24. April 2019**[^t-2]**
+Geltungsbereich am 2. Juni 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Armenien <sup>a</sup></td><td>27. Januar</td><td>2006</td><td>27. Januar</td><td>2007</td></tr>
-<tr><td>Aserbaidschan <sup>b</sup></td><td>20. Mai</td><td>2016</td><td>20. Mai</td><td>2016</td></tr>
-<tr><td>Belgien <sup>c</sup></td><td>2. Juni</td><td>2003</td><td>2. Juni</td><td>2004</td></tr>
-<tr><td>Bosnien und Herzegowina <sup>d</sup></td><td>2. Juni</td><td>1993 N</td><td>2. Juni</td><td>1993</td></tr>
-<tr><td>Brasilien <sup>e</sup></td><td>23. September</td><td>1998</td><td>23. September</td><td>1999</td></tr>
-<tr><td>Burkina Faso <sup>f</sup></td><td>12. Juli</td><td>1974</td><td>12. Juli</td><td>1975</td></tr>
-<tr><td>Deutschland <sup>d</sup></td><td>1. Oktober</td><td>1975</td><td>1. Oktober</td><td>1976</td></tr>
-<tr><td>Finnland <sup>g</sup></td><td>15. Januar</td><td>1990</td><td>15. Januar</td><td>1991</td></tr>
-<tr><td>Guinea <sup>f</sup></td><td>2. Juni</td><td>1977</td><td>2. Juni</td><td>1978</td></tr>
-<tr><td>Irak <sup>h</sup></td><td>19. Februar</td><td>1974</td><td>19. Februar</td><td>1975</td></tr>
-<tr><td>Irland <sup>i</sup></td><td>20. Juni</td><td>1974</td><td>20. Juni</td><td>1975</td></tr>
-<tr><td>Italien <sup>h</sup></td><td>28. Juli</td><td>1981</td><td>28. Juli</td><td>1982</td></tr>
-<tr><td>Jemen <sup>j</sup></td><td>1. November</td><td>1976</td><td>1. November</td><td>1977</td></tr>
-<tr><td>Kamerun <sup>h</sup></td><td>7. August</td><td>1973</td><td>7. August</td><td>1974</td></tr>
-<tr><td>Kenia <sup>b</sup></td><td>9. April</td><td>1979</td><td>9. April</td><td>1980</td></tr>
-<tr><td>Kroatien <sup>d</sup></td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
-<tr><td>Lettland <sup>k</sup></td><td>10. Juni</td><td>1994</td><td>10. Juni</td><td>1995</td></tr>
-<tr><td>Luxemburg <sup>l</sup></td><td>1. Oktober</td><td>1979</td><td>1. Oktober</td><td>1980</td></tr>
-<tr><td>Madagaskar <sup>h</sup></td><td>8. Februar</td><td>1972</td><td>30. Juni</td><td>1973</td></tr>
-<tr><td>Malta <sup>b</sup></td><td>9. Juni</td><td>1988</td><td>9. Juni</td><td>1989</td></tr>
-<tr><td>Moldau <sup>g</sup></td><td>27. Januar</td><td>1998</td><td>27. Januar</td><td>1999</td></tr>
-<tr><td>Montenegro <sup>d</sup></td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td>Nordmazedonien <sup>d</sup></td><td>17. November</td><td>1991 N</td><td>17. November</td><td>1991</td></tr>
-<tr><td>Norwegen <sup>g</sup></td><td>22. Juni</td><td>1973</td><td>22. Juni</td><td>1974</td></tr>
-<tr><td>Portugal <sup>m</sup></td><td>17. März</td><td>1981</td><td>17. März</td><td>1982</td></tr>
-<tr><td>Ruanda <sup>n</sup></td><td>13. Mai</td><td>1991</td><td>13. Mai</td><td>1992</td></tr>
-<tr><td>Russland <sup>a</sup></td><td>6. September</td><td>2010</td><td>6. September</td><td>2011</td></tr>
-<tr><td>Schweden <sup>o</sup></td><td>7. Juni</td><td>1978</td><td>7. Juni</td><td>1979</td></tr>
-<tr><td>Schweiz <sup>p</sup></td><td>9. Juli</td><td>1992</td><td>9. Juli</td><td>1993</td></tr>
-<tr><td>Serbien <sup>d</sup></td><td>24. November</td><td>2000 N</td><td>12. Mai</td><td>1976</td></tr>
-<tr><td>Slowenien <sup>d</sup></td><td>29. Mai</td><td>1992 N</td><td>29. Mai</td><td>1992</td></tr>
-<tr><td>Spanien <sup>i</sup></td><td>30. Juni</td><td>1972</td><td>30. Juni</td><td>1973</td></tr>
-<tr><td>Tschad <sup>g</sup></td><td>15. Dezember</td><td>2000</td><td>15. Dezember</td><td>2001</td></tr>
-<tr><td>Tschechische Republik <sup>h</sup></td><td>23. August</td><td>1996</td><td>23. August</td><td>1997</td></tr>
-<tr><td>Ukraine <sup>g</sup></td><td>25. Oktober</td><td>2001</td><td>25. Oktober</td><td>2002</td></tr>
-<tr><td>Ungarn <sup>q</sup></td><td>19. August</td><td>1998</td><td>19. August</td><td>1999</td></tr>
-<tr><td>Uruguay <sup>q</sup></td><td>2. Juni</td><td>1977</td><td>2. Juni</td><td>1978</td></tr>
-</table>
-
-<table>
-<tr><td><sup>a</sup></td><td colspan="5">Angegebene Urlaubsdauer: 28 Tage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a) und b) angenommen.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td colspan="2">Armenien <sup>a</sup></td><td>27. Januar</td><td>2006</td><td>27. Januar</td><td>2007</td></tr>
+<tr><td colspan="2">Aserbaidschan <sup>b</sup></td><td>20. Mai</td><td>2016</td><td>20. Mai</td><td>2016</td></tr>
+<tr><td colspan="2">Belarus <sup>c</sup></td><td>13. Februar</td><td>2020</td><td>13. Februar</td><td>2021</td></tr>
+<tr><td colspan="2">Belgien <sup>d</sup></td><td>2. Juni</td><td>2003</td><td>2. Juni</td><td>2004</td></tr>
+<tr><td colspan="2">Bosnien und Herzegowina <sup>e</sup></td><td>2. Juni</td><td>1993 N</td><td>2. Juni</td><td>1993</td></tr>
+<tr><td colspan="2">Brasilien <sup>f</sup></td><td>23. September</td><td>1998</td><td>23. September</td><td>1999</td></tr>
+<tr><td colspan="2">Burkina Faso <sup>b</sup></td><td>12. Juli</td><td>1974</td><td>12. Juli</td><td>1975</td></tr>
+<tr><td colspan="2">Deutschland <sup>e</sup></td><td>1. Oktober</td><td>1975</td><td>1. Oktober</td><td>1976</td></tr>
+<tr><td colspan="2">Finnland <sup>g</sup></td><td>15. Januar</td><td>1990</td><td>15. Januar</td><td>1991</td></tr>
+<tr><td colspan="2">Guinea <sup>b</sup></td><td>2. Juni</td><td>1977</td><td>2. Juni</td><td>1978</td></tr>
+<tr><td colspan="2">Irak <sup>h</sup></td><td>19. Februar</td><td>1974</td><td>19. Februar</td><td>1975</td></tr>
+<tr><td colspan="2">Irland <sup>i</sup></td><td>20. Juni</td><td>1974</td><td>20. Juni</td><td>1975</td></tr>
+<tr><td colspan="2">Italien <sup>h</sup></td><td>28. Juli</td><td>1981</td><td>28. Juli</td><td>1982</td></tr>
+<tr><td colspan="2">Jemen <sup>j</sup></td><td>1. November</td><td>1976</td><td>1. November</td><td>1977</td></tr>
+<tr><td colspan="2">Kamerun <sup>h</sup></td><td>7. August</td><td>1973</td><td>7. August</td><td>1974</td></tr>
+<tr><td colspan="2">Kenia <sup>b</sup></td><td>9. April</td><td>1979</td><td>9. April</td><td>1980</td></tr>
+<tr><td colspan="2">Kroatien <sup>e</sup></td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td>1991</td></tr>
+<tr><td colspan="2">Lettland <sup>k</sup></td><td>10. Juni</td><td>1994</td><td>10. Juni</td><td>1995</td></tr>
+<tr><td colspan="2">Luxemburg <sup>l</sup></td><td>1. Oktober</td><td>1979</td><td>1. Oktober</td><td>1980</td></tr>
+<tr><td colspan="2">Madagaskar <sup>h</sup></td><td>8. Februar</td><td>1972</td><td>30. Juni</td><td>1973</td></tr>
+<tr><td colspan="2">Malta <sup>b</sup></td><td>9. Juni</td><td>1988</td><td>9. Juni</td><td>1989</td></tr>
+<tr><td colspan="2">Moldau <sup>g</sup></td><td>27. Januar</td><td>1998</td><td>27. Januar</td><td>1999</td></tr>
+<tr><td colspan="2">Montenegro <sup>e</sup></td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td colspan="2">Nordmazedonien <sup>e</sup></td><td>17. November</td><td>1991 N</td><td>17. November</td><td>1991</td></tr>
+<tr><td colspan="2">Norwegen <sup>g</sup></td><td>22. Juni</td><td>1973</td><td>22. Juni</td><td>1974</td></tr>
+<tr><td colspan="2">Portugal <sup>m</sup></td><td>17. März</td><td>1981</td><td>17. März</td><td>1982</td></tr>
+<tr><td colspan="2">Ruanda <sup>n</sup></td><td>13. Mai</td><td>1991</td><td>13. Mai</td><td>1992</td></tr>
+<tr><td colspan="2">Russland <sup>a</sup></td><td>6. September</td><td>2010</td><td>6. September</td><td>2011</td></tr>
+<tr><td colspan="2">Schweden <sup>o</sup></td><td>7. Juni</td><td>1978</td><td>7. Juni</td><td>1979</td></tr>
+<tr><td colspan="2">Schweiz <sup>p</sup></td><td>9. Juli</td><td>1992</td><td>9. Juli</td><td>1993</td></tr>
+<tr><td colspan="2">Serbien <sup>e</sup></td><td>24. November</td><td>2000 N</td><td>12. Mai</td><td>1976</td></tr>
+<tr><td colspan="2">Slowenien <sup>e</sup></td><td>29. Mai</td><td>1992 N</td><td>29. Mai</td><td>1992</td></tr>
+<tr><td colspan="2">Spanien <sup>i</sup></td><td>30. Juni</td><td>1972</td><td>30. Juni</td><td>1973</td></tr>
+<tr><td colspan="2">Tschad <sup>g</sup></td><td>15. Dezember</td><td>2000</td><td>15. Dezember</td><td>2001</td></tr>
+<tr><td colspan="2">Tschechische Republik <sup>h</sup></td><td>23. August</td><td>1996</td><td>23. August</td><td>1997</td></tr>
+<tr><td colspan="2">Ukraine <sup>g</sup></td><td>25. Oktober</td><td>2001</td><td>25. Oktober</td><td>2002</td></tr>
+<tr><td colspan="2">Ungarn <sup>q</sup></td><td>19. August</td><td>1998</td><td>19. August</td><td>1999</td></tr>
+<tr><td colspan="2">Uruguay <sup>q</sup></td><td>2. Juni</td><td>1977</td><td>2. Juni</td><td>1978</td></tr>
+<tr><td colspan="2">Usbekistan <sup>b</sup></td><td>6. Januar</td><td>2025</td><td>6. Januar</td><td>2026</td></tr>
+<tr><td><sup>a</sup></td><td colspan="5">Angegebene Urlaubsdauer: 28 Tage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
 <tr><td><sup>b</sup></td><td colspan="5">Angegebene Urlaubsdauer: 21 Werktage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Minimale Urlaubsdauer: 24 Tage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="5">Angegebene Urlaubsdauer: 18 Werktage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
-<tr><td><sup>e</sup></td><td colspan="5">Angegebene Urlaubsdauer: 30 Kalendertage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
-<tr><td><sup>f</sup></td><td colspan="5">Angegebene Urlaubsdauer: 1 Kalendermonat. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
+<tr><td><sup>c</sup></td><td colspan="5">Angegebene Urlaubsdauer: 1 Kalendermonat. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
+<tr><td><sup>d</sup></td><td colspan="5">Minimale Urlaubsdauer: 24 Tage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
+<tr><td><sup>e</sup></td><td colspan="5">Angegebene Urlaubsdauer: 18 Werktage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
+<tr><td><sup>f</sup></td><td colspan="5">Angegebene Urlaubsdauer: 30 Kalendertage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
 <tr><td><sup>g</sup></td><td colspan="5">Angegebene Urlaubsdauer: 24 Werktage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
 <tr><td><sup>h</sup></td><td colspan="5">Angegebene Urlaubsdauer: 3 Wochen. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
 <tr><td><sup>i</sup></td><td colspan="5">Angegebene Urlaubsdauer: 3 Wochen. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a angenommen.</td></tr>
@@ -255,4 +254,4 @@ Geltungsbereich am 24. April 2019**[^t-2]**
 <tr><td><sup>q</sup></td><td colspan="5">Angegebene Urlaubsdauer: 20 Werktage. Hat die Bestimmungen von Art. 15 Abs. 1 Bst. a und b angenommen.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 1749](https://fedlex.data.admin.ch/eli/oc/1993/1749_1749_1749), [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365), [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571), [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62), [2019 1331](https://fedlex.data.admin.ch/eli/oc/2019/256). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 1749](https://fedlex.data.admin.ch/eli/oc/1993/1749_1749_1749); [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365); [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571); [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62); [2019 1331](https://fedlex.data.admin.ch/eli/oc/2019/256); [2025 375](https://fedlex.data.admin.ch/eli/oc/2025/375). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

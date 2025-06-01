@@ -3,11 +3,11 @@ sr: "0.822.723.2"
 title: Convenzione n. 132 del 24 giugno 1970 concernente i congedi annui pagati (riveduta nel 1970)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749"
 language: it
-version: 2019-04-24
+version: 2025-06-02
 adopted: 1970-06-24
 in_force: 1993-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20190424/it/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20190424-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20190424/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20250602/it/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20250602-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20250602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (riveduta nel 1970)
 
-Conclusa a Ginevra il 24 giugno 1970
+Conclusa a Ginevra il 24 giugno 1970 Approvata dall’Assemblea federale il 28 gennaio 1992[^t-1] Ratificata dalla Svizzera con strumento depositato il 9 luglio 1992 Entrata in vigore per la Svizzera il 9 luglio 1993
 
-Approvata dall’Assemblea federale il 28 gennaio 1992[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 9 luglio 1992
-
-Entrata in vigore per la Svizzera il 9 luglio 1993
-
-(Stato 24 aprile 2019)
+(Stato 2 giugno 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. b dal DF dal 28 gen. 1992 ([RU 1993 1737](https://fedlex.data.admin.ch/eli/oc/1993/1737_1737_1737)).
 
@@ -200,65 +194,66 @@ Qualora la Conferenza adottasse una nuova Convenzione avente per oggetto una rev
 
 I testi in lingua francese e inglese della presente Convenzione fanno ugualmente fede.
 
-Campo d’applicazione il 24 aprile 2019**[^t-2]**
+Campo d’applicazione il 2 giugno 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Armenia <sup>a</sup></td><td>27 gennaio</td><td>2006</td><td>27 gennaio</td><td>2007</td></tr>
 <tr><td>Azerbaigian <sup>b</sup></td><td>20 maggio</td><td>2016</td><td>20 maggio</td><td>2016</td></tr>
 <tr><td>Belgio <sup>c</sup></td><td>2 giugno</td><td>2003</td><td>2 giugno</td><td>2004</td></tr>
-<tr><td>Bosnia e Erzegovina <sup>d</sup></td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
-<tr><td>Brasile <sup>e</sup></td><td>23 settembre</td><td>1998</td><td>23 settembre</td><td>1999</td></tr>
-<tr><td>Burkina Faso <sup>f</sup></td><td>12 luglio</td><td>1974</td><td>12 luglio</td><td>1975</td></tr>
+<tr><td>Bielorussia <sup>d</sup></td><td>13 febbraio</td><td>2020</td><td>13 febbraio</td><td>2021</td></tr>
+<tr><td>Bosnia e Erzegovina <sup>e</sup></td><td>2 giugno</td><td>1993 S</td><td>2 giugno</td><td>1993</td></tr>
+<tr><td>Brasile <sup>f</sup></td><td>23 settembre</td><td>1998</td><td>23 settembre</td><td>1999</td></tr>
+<tr><td>Burkina Faso <sup>d</sup></td><td>12 luglio</td><td>1974</td><td>12 luglio</td><td>1975</td></tr>
 <tr><td>Camerun <sup>g</sup></td><td>7 agosto</td><td>1973</td><td>7 agosto</td><td>1974</td></tr>
 <tr><td>Ceca, Repubblica <sup>g</sup></td><td>23 agosto</td><td>1996</td><td>23 agosto</td><td>1997</td></tr>
-<tr><td>Ciad <sup>f</sup></td><td>15 dicembre</td><td>2000</td><td>15 dicembre</td><td>2001</td></tr>
-<tr><td>Croazia <sup>d</sup></td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Ciad <sup>h</sup></td><td>15 dicembre</td><td>2000</td><td>15 dicembre</td><td>2001</td></tr>
+<tr><td>Croazia <sup>e</sup></td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Finlandia <sup>h</sup></td><td>15 gennaio</td><td>1990</td><td>15 gennaio</td><td>1991</td></tr>
-<tr><td>Germania <sup>d</sup></td><td>1° ottobre</td><td>1975</td><td>1° ottobre</td><td>1976</td></tr>
-<tr><td>Guinea <sup>f</sup></td><td>2 giugno</td><td>1977</td><td>2 giugno</td><td>1978</td></tr>
+<tr><td>Germania <sup>e</sup></td><td>1° ottobre</td><td>1975</td><td>1° ottobre</td><td>1976</td></tr>
+<tr><td>Guinea <sup>d</sup></td><td>2 giugno</td><td>1977</td><td>2 giugno</td><td>1978</td></tr>
 <tr><td>Iraq <sup>g</sup></td><td>19 febbraio</td><td>1974</td><td>19 febbraio</td><td>1975</td></tr>
 <tr><td>Irlanda <sup>i</sup></td><td>20 giugno</td><td>1974</td><td>20 giugno</td><td>1975</td></tr>
 <tr><td>Italia <sup>g</sup></td><td>28 luglio</td><td>1981</td><td>28 luglio</td><td>1982</td></tr>
 <tr><td>Kenya <sup>b</sup></td><td>9 aprile</td><td>1979</td><td>9 aprile</td><td>1980</td></tr>
 <tr><td>Lettonia <sup>j</sup></td><td>10 giugno</td><td>1994</td><td>10 giugno</td><td>1995</td></tr>
 <tr><td>Lussemburgo <sup>j</sup></td><td>1° ottobre</td><td>1979</td><td>1° ottobre</td><td>1980</td></tr>
-<tr><td>Macedonia del Nord <sup>d</sup></td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord <sup>e</sup></td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar <sup>g</sup></td><td>8 febbraio</td><td>1972</td><td>30 giugno</td><td>1973</td></tr>
-<tr><td>Malta <sup>j</sup></td><td>9 giugno</td><td>1988</td><td>9 giugno</td><td>1989</td></tr>
+<tr><td>Malta <sup>b</sup></td><td>9 giugno</td><td>1988</td><td>9 giugno</td><td>1989</td></tr>
 <tr><td>Moldova <sup>h</sup></td><td>27 gennaio</td><td>1998</td><td>27 gennaio</td><td>1999</td></tr>
-<tr><td>Montenegro <sup>d</sup></td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Montenegro <sup>e</sup></td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia <sup>h</sup></td><td>22 giugno</td><td>1973</td><td>22 giugno</td><td>1974</td></tr>
 <tr><td>Portogallo <sup>k</sup></td><td>17 marzo</td><td>1981</td><td>17 marzo</td><td>1982</td></tr>
 <tr><td>Ruanda <sup>l</sup></td><td>13 maggio</td><td>1991</td><td>13 maggio</td><td>1992</td></tr>
 <tr><td>Russia <sup>a</sup></td><td>6 settembre</td><td>2010</td><td>6 settembre</td><td>2011</td></tr>
-<tr><td>Serbia <sup>d</sup></td><td>24 novembre</td><td>2000 S</td><td>12 maggio</td><td>1976</td></tr>
-<tr><td>Slovenia <sup>d</sup></td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
+<tr><td>Serbia <sup>e</sup></td><td>24 novembre</td><td>2000 S</td><td>12 maggio</td><td>1976</td></tr>
+<tr><td>Slovenia <sup>e</sup></td><td>29 maggio</td><td>1992 S</td><td>29 maggio</td><td>1992</td></tr>
 <tr><td>Spagna <sup>i</sup></td><td>30 giugno</td><td>1972</td><td>30 giugno</td><td>1973</td></tr>
 <tr><td>Svezia <sup>m</sup></td><td>7 giugno</td><td>1978</td><td>7 giugno</td><td>1979</td></tr>
 <tr><td>Svizzera <sup>n</sup></td><td>9 luglio</td><td>1992</td><td>9 luglio</td><td>1993</td></tr>
 <tr><td>Ucraina <sup>h</sup></td><td>25 ottobre</td><td>2001</td><td>25 ottobre</td><td>2002</td></tr>
 <tr><td>Ungheria <sup>o</sup></td><td>19 agosto</td><td>1998</td><td>19 agosto</td><td>1999</td></tr>
 <tr><td>Uruguay <sup>o</sup></td><td>2 giugno</td><td>1977</td><td>2 giugno</td><td>1978</td></tr>
+<tr><td>Uzbekistan <sup>b</sup></td><td>6 gennaio</td><td>2025</td><td>6 gennaio</td><td>2026</td></tr>
 <tr><td>Yemen <sup>q</sup></td><td>1° novembre</td><td>1976</td><td>1° novembre</td><td>1977</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni vedi qui appresso.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Durata di congedo specificata: 28 giorni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>b</sup> Durata di congedo specificata: 21 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>c</sup> Durata di congedo specificata: 24 giorni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>d</sup> Durata di congedo specificata: 18 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>e</sup> Durata di congedo specificata: 30 giorni civili. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>f</sup> Durata di congedo specificata: 1 mese civile. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>d</sup> Durata di congedo specificata: 1 mese civile. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>e</sup> Durata di congedo specificata: 18 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>f</sup> Durata di congedo specificata: 30 giorni civili. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>g</sup> Durata di congedo specificata: 3 settimane. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>h</sup> Durata di congedo specificata: 24 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>i</sup> Durata di congedo specificata: 3 settimane. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a).</td></tr>
 <tr><td colspan="5"><sup>j</sup> Durata di congedo specificata: 4 settimane. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>k</sup> Durata di congedo specificata: 25 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>l</sup> Durata di congedo specificata: 21 giorni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>m</sup> Durata di congedo specificata: 18 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a).</td></tr>
-<tr><td colspan="5"><sup>n</sup> Durata di congedo specificata: 5 settimane. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>o</sup> Durata di congedo specificata: 4 settimane per i lavoratori e 5 settimane peri minori di venti anni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
-<tr><td colspan="5"><sup>p</sup> Durata di congedo specificata: 20 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>k</sup> Durata di congedo specificata: 21 giorni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>l</sup> Durata di congedo specificata: 18 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a).</td></tr>
+<tr><td colspan="5"><sup>m</sup> Durata di congedo specificata: 5 settimane. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>n</sup> Durata di congedo specificata: 4 settimane per i lavoratori e 5 settimane peri minori di venti anni. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
+<tr><td colspan="5"><sup>o</sup> Durata di congedo specificata: 20 giorni feriali. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a) e b).</td></tr>
 <tr><td colspan="5"><sup>q</sup> Durata di congedo specificata: 21 giorni per gli operai e 30 giorni per gli impiegati. Ha accettato le disposizioni dell’art. 15 par. 1 cap. a).</td></tr>
 </table>
 
-[^t-2]: [RU 1993 1749](https://fedlex.data.admin.ch/eli/oc/1993/1749_1749_1749), [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365), [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571), [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62)e [2019 1331](https://fedlex.data.admin.ch/eli/oc/2019/256). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 1749](https://fedlex.data.admin.ch/eli/oc/1993/1749_1749_1749); [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365); [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571); [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62); [2019 1331](https://fedlex.data.admin.ch/eli/oc/2019/256); [2025 375](https://fedlex.data.admin.ch/eli/oc/2025/375)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

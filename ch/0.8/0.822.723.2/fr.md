@@ -3,11 +3,11 @@ sr: "0.822.723.2"
 title: "Convention n<sup>o</sup> 132 du 24 juin 1970 concernant les congés annuels payés (révisée en 1970)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749"
 language: fr
-version: 2019-04-24
+version: 2025-06-02
 adopted: 1970-06-24
 in_force: 1993-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20190424/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20190424-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20190424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1749_1749_1749/20250602/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1749_1749_1749-20250602-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1749_1749_1749/20250602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Texte original
 
 Conclue à Genève le 24 juin 1970 Approuvée par l’Assemblée fédérale le 28 janvier 1992[^t-1] Instrument de ratification déposé par la Suisse le 9 juillet 1992 Entrée en vigueur pour la Suisse le 9 juillet 1993
 
-(Etat le 24 avril 2019)
+(État le 2 juin 2025)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 28 janv. 1992 ([RO 1993 1737](https://fedlex.data.admin.ch/eli/oc/1993/1737_1737_1737)).
 
@@ -92,7 +92,7 @@ Pour autant qu’elles ne seront pas mises en application, soit par voie de conv
 
 <sup>1.</sup> Le fractionnement du congé annuel payé pourra être autorisé par l’autorité compétente ou par l’organisme approprié dans chaque pays,
 
-<sup>2.</sup> A moins qu’il n’en soit convenu autrement par un accord liant l’employeur et la personne employée intéressée, et à condition que la durée du service de cette personne lui donne droit à une telle période de congé, l’une des fractions de congé devra correspondre au moins à deux semaines de travail ininterrompues.
+<sup>2.</sup> À moins qu’il n’en soit convenu autrement par un accord liant l’employeur et la personne employée intéressée, et à condition que la durée du service de cette personne lui donne droit à une telle période de congé, l’une des fractions de congé devra correspondre au moins à deux semaines de travail ininterrompues.
 
 #### Art. 9
 
@@ -194,13 +194,14 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 24 avril 2019**[^t-2]**
+Champ d’application le 2 juin 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th colspan="2">États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td colspan="2">Allemagne <sup>a</sup></td><td>1<sup>er</sup> octobre</td><td>1975</td><td>1<sup>er</sup> octobre</td><td>1976</td></tr>
 <tr><td colspan="2">Arménie <sup>b</sup></td><td>27 janvier</td><td>2006</td><td>27 janvier</td><td>2007</td></tr>
 <tr><td colspan="2">Azerbaïdjan <sup>c</sup></td><td>20 mai</td><td>2016</td><td>20 mai</td><td>2016</td></tr>
+<tr><td colspan="2">Bélarus <sup>f</sup></td><td>13 février</td><td>2020</td><td>13 février</td><td>2021</td></tr>
 <tr><td colspan="2">Belgique <sup>d</sup></td><td>2 juin</td><td>2003</td><td>2 juin</td><td>2004</td></tr>
 <tr><td colspan="2">Bosnie et Herzégovine <sup>a</sup></td><td>2 juin</td><td>1993 S</td><td>2 juin</td><td>1993</td></tr>
 <tr><td colspan="2">Brésil <sup>e</sup></td><td>23 septembre</td><td>1998</td><td>23 septembre</td><td>1999</td></tr>
@@ -223,6 +224,7 @@ Champ d’application le 24 avril 2019**[^t-2]**
 <tr><td colspan="2">Moldova <sup>i</sup></td><td>27 janvier</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
 <tr><td colspan="2">Monténégro <sup>a</sup></td><td>3 juin</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td colspan="2">Norvège <sup>i</sup></td><td>22 juin</td><td>1973</td><td>22 juin</td><td>1974</td></tr>
+<tr><td colspan="2">Ouzbékistan <sup>b</sup></td><td>6 janvier</td><td>2025</td><td>6 janvier</td><td>2026</td></tr>
 <tr><td colspan="2">Portugal <sup>m</sup></td><td>17 mars</td><td>1981</td><td>17 mars</td><td>1982</td></tr>
 <tr><td colspan="2">République tchèque <sup>g</sup></td><td>23 août</td><td>1996</td><td>23 août</td><td>1997</td></tr>
 <tr><td colspan="2">Russie <sup>b</sup></td><td>6 septembre</td><td>2010</td><td>6 septembre</td><td>2011</td></tr>
@@ -254,4 +256,4 @@ Champ d’application le 24 avril 2019**[^t-2]**
 <tr><td><sup>q</sup></td><td colspan="5">Durée du congé spécifiée: 21 jours pour les ouvriers et 30 jours pour les employés. A accepté les dispositions de l’art. 15, par. 1, al. a).</td></tr>
 </table>
 
-[^t-2]: RO **1993** 1756, [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365), [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571), [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62)et **2019** 1331. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: RO **1993** 1756; [2005 2199](https://fedlex.data.admin.ch/eli/oc/2005/365); [2010 3993](https://fedlex.data.admin.ch/eli/oc/2010/571); [2014 399](https://fedlex.data.admin.ch/eli/oc/2014/62); [2019 1331](https://fedlex.data.admin.ch/eli/oc/2019/256)et **2025** 375. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
