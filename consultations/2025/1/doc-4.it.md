@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Promozione dell’attività lucrativa di persone con statuto di protezione S e agevolazione dell’ammissione di cittadini di Stati terzi che hanno conseguito una formazione in Svizzera: modifica della legge sugli stranieri e la loro integrazione, della legge sull’asilo, dell’ordinanza sull’ammissione, il soggiorno e l’attività lucrativa e dell’ordinanza sull’integrazione degli stranieri"
 document: Progetto posto in consultazione-2
 language: it

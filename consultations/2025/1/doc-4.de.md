@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Förderung der Erwerbstätigkeit von Personen mit Schutzstatus S und Zulassungserleichterungen für in der Schweiz ausgebildete Drittstaatsangehörige: Änderung des Ausländer- und Integrationsgesetzes, des Asylgesetzes, der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit sowie der Verordnung über die Integration von Ausländerinnen und Ausländern"
 document: Vernehmlassungsvorlage-2
 language: de

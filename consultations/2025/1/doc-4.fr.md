@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Encourager les bénéficiaires du statut de protection S à exercer une activité lucrative et faciliter l’admission des ressortissants d’États tiers formés en Suisse: modification de la loi fédérale sur les étrangers et l’intégration, de la loi sur l’asile, de l’ordonnance relative à l’admission, au séjour et à l’exercice d’une activité lucrative et de l’ordonnance sur l’intégration des étrangers"
 document: Projet mis en consultation-2
 language: fr
