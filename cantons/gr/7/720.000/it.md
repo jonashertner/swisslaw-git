@@ -4,12 +4,12 @@ number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
 version: 2025-01-01
-corrected: 2025-02-25
+corrected: 2025-06-04
 version_adopted: 2025-02-10
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3415/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3540/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -678,7 +678,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 38
 
-**IV. Deduzioni sociali**
+**IV. Deduzioni sociali: detrazione per doppio reddito coniugale, deduzioni per figli, deduzione per persone a carico**
 
 <sup>1</sup> Si deducono dal reddito netto:
 
