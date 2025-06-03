@@ -3,11 +3,11 @@ sr: "0.172.030.5"
 title: "Convenzione europea del 24 novembre 1977 sulla notificazione all'estero dei documenti in materia amministrativa"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/533"
 language: it
-version: 2019-10-01
+version: 2025-06-04
 adopted: 1977-11-24
 in_force: 2019-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/533/20191001/it/xml/fedlex-data-admin-ch-eli-cc-2019-533-20191001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/533/20191001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/533/20250604/it/xml/fedlex-data-admin-ch-eli-cc-2019-533-20250604-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/533/20250604/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 4 giugno 2019
 
 Entrata in vigore per la Svizzera il 1° ottobre 2019
 
-(Stato 1° ottobre 2019)
+(Stato 4 giugno 2025)
 
 [^t-1]: [RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177)
 
@@ -261,7 +261,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Strasburgo il 24 novembre 1977 in francese e inglese, i due testi facenti egualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia certificata conforme a ciascuno degli Stati firmatari e aderenti. (Seguono le firme)
 
-Campo d’applicazione il 29 agosto 2019[^t-2]
+Campo d’applicazione il 4 giugno 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -271,13 +271,14 @@ Campo d’applicazione il 29 agosto 2019[^t-2]
 <tr><td>Francia</td><td>21 dicembre</td><td>1979</td><td>1° novembre</td><td>1982</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>24 settembre</td><td>1982</td><td>1° novembre</td><td>1982</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>16 ottobre</td><td>1984</td><td>1° febbraio</td><td>1985</td></tr>
+<tr><td>Liechtenstein\*</td><td>27 febbraio</td><td>2025</td><td>1° giugno</td><td>2025</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>8 dicembre</td><td>1980</td><td>1° novembre</td><td>1982</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>16 luglio</td><td>1987</td><td>1° novembre</td><td>1987</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>4 giugno</td><td>2019</td><td>1° ottobre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni (nel campo d’applicazione qui sopra le notifiche degli Stati Parte trasmesse attraverso le autorità centrali conformemente all'art. 2, non sono contrassegnate con \*). Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione del campo di applicazione aggiornata è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2019 2931](https://fedlex.data.admin.ch/eli/oc/2019/533); [2025 364](https://fedlex.data.admin.ch/eli/oc/2025/364). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 [Dichiarazioni](https://www.admin.ch/opc/it/classified-compilation/20162518/index.html) della Svizzera
 

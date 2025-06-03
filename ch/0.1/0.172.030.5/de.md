@@ -3,11 +3,11 @@ sr: "0.172.030.5"
 title: Europäisches Übereinkommen vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/533"
 language: de
-version: 2019-10-01
+version: 2025-06-04
 adopted: 1977-11-24
 in_force: 2019-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/533/20191001/de/xml/fedlex-data-admin-ch-eli-cc-2019-533-20191001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/533/20191001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/533/20250604/de/xml/fedlex-data-admin-ch-eli-cc-2019-533-20250604-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/533/20250604/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 28. September 2018[^t-1] Schweizerische R
 
 In Kraft getreten für die Schweiz am 1. Oktober 2019
 
-(Stand am 1. Oktober 2019)
+(Stand am 4. Juni 2025)
 
 [^t-1]: [AS 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177)
 
@@ -259,7 +259,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 24. November 1977 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Unterzeichnerstaaten und allen beitretenden Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. August 2019**[^t-2]**
+Geltungsbereich am 4. Juni 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -268,14 +268,15 @@ Geltungsbereich am 29. August 2019**[^t-2]**
 <tr><td>Estland\*</td><td>25. April</td><td>2001</td><td>1. August</td><td>2001</td></tr>
 <tr><td>Frankreich</td><td>21. Dezember</td><td>1979</td><td>1. November</td><td>1982</td></tr>
 <tr><td>Italien\*</td><td>16. Oktober</td><td>1984</td><td>1. Februar</td><td>1985</td></tr>
+<tr><td>Liechtenstein\*</td><td>27. Februar</td><td>2025</td><td>1. Juni</td><td>2025</td></tr>
 <tr><td>Luxemburg\*</td><td>8. Dezember</td><td>1980</td><td>1. November</td><td>1982</td></tr>
 <tr><td>Österreich\*</td><td>24. November</td><td>1982</td><td>1. März</td><td>1983</td></tr>
 <tr><td>Schweiz\*</td><td>4. Juni</td><td>2019</td><td>1. Oktober</td><td>2019</td></tr>
 <tr><td>Spanien\*</td><td>16. Juli</td><td>1987</td><td>1. November</td><td>1987</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen (die Erklärungen aller Vertragsstaaten über die zentralen Behörden, gemäss Art. 2, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2019 2931](https://fedlex.data.admin.ch/eli/oc/2019/533); [2025 364](https://fedlex.data.admin.ch/eli/oc/2025/364). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erlärungen der Schweiz
 
