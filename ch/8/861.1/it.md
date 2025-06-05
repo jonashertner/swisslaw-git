@@ -4,11 +4,11 @@ title: Ordinanza del 25 aprile 2018 sugli aiuti finanziari per la custodia di ba
 short: OACust
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: it
-version: 2025-01-01
+version: 2025-06-06
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250606/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250606-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250606/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/it"
 
 (OACust)
 
-del 25 aprile 2018 (Stato 1° gennaio 2025)
+del 25 aprile 2018 (Stato 6 giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -223,11 +223,12 @@ L’UFAS sottopone per parere la domanda di aiuti finanziari all’autorità com
 - b. se, dal punto di vista del Cantone, il progetto risponde a un bisogno;
 - c. se, dal punto di vista del Cantone, il progetto adempie i requisiti di qualità;
 - d. se è probabile il rilascio di un’autorizzazione eventualmente necessaria in virtù dell’ordinanza del 19 ottobre 1977[^13-1] sull’affiliazione;
-- e. come il Cantone valuta il piano di finanziamento per quanto riguarda l’esistenza a lungo termine della struttura di cui all’articolo 4 o 7.
+- e.[^13-2] come il Cantone valuta il piano di finanziamento per quanto riguarda l’esistenza a lungo termine della struttura di cui all’articolo 5 o 8.
 
 <sup>2</sup> L’UFAS mette a disposizione del Cantone appositi moduli ai fini del parere.
 
 [^13-1]: [RS 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)
+[^13-2]: Correzione del 6 giu. 2025 ([RU 2025 363](https://fedlex.data.admin.ch/eli/oc/2025/363)).
 
 #### Art. 14
 

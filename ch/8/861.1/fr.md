@@ -4,11 +4,11 @@ title: "Ordonnance du 25 avril 2018 sur les aides financières à l'accueil extr
 short: OAAcc
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: fr
-version: 2025-01-01
+version: 2025-06-06
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250606/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250606-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250606/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/fr"
 
 (OAAcc)
 
-du 25 avril 2018 (État le 1<sup>er</sup> janvier 2025)
+du 25 avril 2018 (État le 6 juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -223,11 +223,12 @@ L’OFAS transmet la demande d’aide financière, pour avis, à l’autorité c
 - b. si le canton estime que le projet soumis répond à un besoin;
 - c. s’il estime qu’il satisfait aux exigences de qualité;
 - d. s’il y a lieu de penser que l’autorisation requise, le cas échéant, au sens de l’ordonnance du 19 octobre 1977 sur le placement d’enfants[^13-1] sera délivrée;
-- e. quelle appréciation le canton porte sur le concept de financement quant à l’existence à long terme de la structure visée aux art. 4 et 7.
+- e.[^13-2] quelle appréciation le canton porte sur le concept de financement quant à l’existence à long terme de la structure visée aux art. 5 et 8.
 
 <sup>2</sup> L’OFAS met à la disposition du canton des formulaires appropriés pour la consultation.
 
 [^13-1]: [RS 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)
+[^13-2]: Erratum du 6 juin 2025 ([RO 2025 363](https://fedlex.data.admin.ch/eli/oc/2025/363)).
 
 #### Art. 14
 

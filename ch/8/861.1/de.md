@@ -4,11 +4,11 @@ title: Verordnung vom 25. April 2018 über Finanzhilfen für familienergänzende
 short: KBFHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: de
-version: 2025-01-01
+version: 2025-06-06
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20250606/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20250606-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250606/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20250101/de"
 
 (KBFHV)
 
-vom 25. April 2018 (Stand am 1. Januar 2025)
+vom 25. April 2018 (Stand am 6. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -223,11 +223,12 @@ Das BSV übermittelt das Beitragsgesuch der zuständigen Behörde jenes Kantons 
 - b. ob aus Sicht des Kantons das entsprechende Vorhaben einem Bedarf entspricht;
 - c. ob aus Sicht des Kantons die Qualitätsanforderungen erfüllt sind;
 - d. ob eine allenfalls notwendige Bewilligung im Sinne der Pflegekinderverordnung vom 19. Oktober 1977[^13-1] voraussichtlich erteilt werden wird;
-- e. wie der Kanton das Finanzierungskonzept hinsichtlich eines langfristigen Bestehens der Institution nach Artikel 4 oder 7 beurteilt.
+- e.[^13-2] wie der Kanton das Finanzierungskonzept hinsichtlich eines langfristigen Bestehens der Institution nach Artikel 5 oder 8 beurteilt.
 
 <sup>2</sup> Das BSV stellt dem Kanton für die Stellungnahme entsprechende Formulare zur Verfügung.
 
 [^13-1]: [SR 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)
+[^13-2]: Berichtigung vom 6. Juni 2025 ([AS 2025 363](https://fedlex.data.admin.ch/eli/oc/2025/363)).
 
 #### Art. 14
 
