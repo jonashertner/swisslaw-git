@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: Beschluss Nr. 2/2019 vom 13. Dezember 2019 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz zu den Übergangsmassnahmen zur Aufrechterhaltung eines reibungslosen Eisenbahnverkehrs zwischen der Schweiz und der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: de
-version: 2024-12-13
+version: 2025-06-06
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20241213/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20241213-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20241213/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20250606/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20250606-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20250606/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Angenommen am 13. Dezember 2019
 
 In Kraft getreten für die Schweiz am 13. Dezember 2019
 
-(Stand am 13. Dezember 2024)
+(Stand am 6. Juni 2025)
 
 Originaltext
 
@@ -143,7 +143,7 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 <sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2025 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
 
 [^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Fassung gemäss Art. 4 Ziff. 1 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^6-2]: Fassung gemäss Art. 4 Ziff. 1 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)). Berichtigung vom 6. Juni 2025 ([AS 2025 366](https://fedlex.data.admin.ch/eli/oc/2025/366)).
 
 #### Art. 7
 

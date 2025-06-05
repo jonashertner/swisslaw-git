@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: "Decisione n. 2/2019 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dicembre 2019 relativa alle misure transitorie per la salvaguardia della fluidità del traffico ferroviario tra la Svizzera e l'Unione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: it
-version: 2024-12-13
+version: 2025-06-06
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20241213/it/xml/fedlex-data-admin-ch-eli-cc-2020-53-20241213-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20241213/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20250606/it/xml/fedlex-data-admin-ch-eli-cc-2020-53-20250606-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20250606/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2020** 287
 
 Adottata il 13 dicembre 2019 Entrata in vigore per la Svizzera il 13 dicembre 2019
 
-(Stato 13 dicembre 2024)
+(Stato 6 giugno 2025)
 
 Testo originale
 
@@ -141,7 +141,7 @@ La Commissione europea provvede alla pubblicazione dell’elenco degli organismi
 <sup>3.</sup> L’allegato 1 riporta le norme nazionali e i casi specifici applicabili che sono potenzialmente incompatibili con il diritto europeo. Se non se ne stabilisce la compatibilità entro il 31 dicembre 2025, tali norme nazionali e casi specifici non possono più essere applicati, salvo decisione contraria del Comitato misto.[^6-2]
 
 [^6-1]: Nuovo testo giusta l’art. 2 par. 1 della Dec. n. 2/2020 del Comitato dei trasporti terrestri Comunità/Svizzera dell’11 dic. 2020 relativa alle misure transitorie per la salvaguardia della fluidità del traffico ferroviario tra la Svizzera e l’Unione europea, in vigore per la Svizzera dall’11 dic. 2020 ([RU 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Nuovo testo giusta l’art. 4 della Dec. n. 1/2024 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dic. 2024, in vigore per la Svizzera dal 13 dic. 2024 ([RU 2024 36](https://fedlex.data.admin.ch/eli/oc/2024/36)).
+[^6-2]: Nuovo testo giusta l’art. 4 della Dec. n. 1/2024 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dic. 2024, in vigore per la Svizzera dal 13 dic. 2024 ([RU 2024 36](https://fedlex.data.admin.ch/eli/oc/2024/36)). La correzione del 6 giu. 2025 concerne soltanto il testo tedesco ([RU 2025 366](https://fedlex.data.admin.ch/eli/oc/2025/366)).
 
 #### Art. 7
 
@@ -176,4 +176,4 @@ Allegato 1
 
 ...[^t-1]
 
-[^t-1]: Il contenuto dell’all. è stato introdotto nella [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)e può essere consultato anche alla [RU 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53).
+[^t-1]: Il contenuto dell’all. è stato introdotto nella [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)e può essere consultato alla [RU 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53).

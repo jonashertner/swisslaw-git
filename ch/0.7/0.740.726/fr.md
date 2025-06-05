@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: "Décision n<sup>o</sup> 2/2019 du Comité des transports terrestres Communauté/Suisse du 13 décembre 2019 sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l'Union européenne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: fr
-version: 2024-12-13
+version: 2025-06-06
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20241213/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20241213-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20241213/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20250606/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20250606-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20250606/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Adoptée le 13 décembre 2019
 
 Entrée en vigueur pour la Suisse le 13 décembre 2019
 
-(État le 13 décembre 2024)
+(État le 6 juin 2025)
 
 Texte original
 
@@ -143,7 +143,7 @@ La Commission rend publique la liste des organismes notifiés suisses.
 <sup>3.</sup> L’annexe 1 identifie les règles nationales et cas spécifiques applicables qui sont potentiellement incompatibles avec le droit de l’Union. Si la compatibilité avec le droit de l’Union n’a pas été établie au 31 décembre 2025, ces règles nationales et cas spécifiques ne peuvent plus être appliquées sauf si le Comité mixte en décide autrement.[^6-2]
 
 [^6-1]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 2/2020 du Comité sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l’Union européenne du 11 déc. 2020, en vigueur pour la Suisse depuis le 11 déc. 2020 ([RO 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Nouvelle teneur selon l’art. 4 par. 1 de la D n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024, en vigueur pour la Suisse depuis le 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^6-2]: Nouvelle teneur selon l’art. 4 par. 1 de la D n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024, en vigueur pour la Suisse depuis le 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)). Erratum du 6 juin 2025, ne concerne que le texte allemand ([RO 2025 366](https://fedlex.data.admin.ch/eli/oc/2025/366)).
 
 #### Art. 7
 
