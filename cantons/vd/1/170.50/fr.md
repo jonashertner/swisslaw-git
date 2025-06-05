@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 14.05.2025 de mise en vigueur
+title: ARRÊTÉ du 28.05.2025 de mise en vigueur
 language: fr
-version: 2025-05-20
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=4ff6aaaa-74ee-486f-beb1-91b3b82de618"
+version: 2025-06-06
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=592142d1-a5a0-496a-978c-9fd15981498b"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 14 mai 2025
+du 28 mai 2025
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,10 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 11 février 2025, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 28 février 2025, entrent en vigueur avec effet :
+<sup>1</sup> Les actes législatifs ci-après du 25 février 2025, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 11 mars 2025, entrent en vigueur avec effet au 1er juin 2025 :
 
-- a. au 5 mai 2025 :
-- 1\. décret du 11 février 2025 autorisant le Conseil d'Etat à adhérer à la convention portant révision du concordat du 18 octobre 1996 sur les entreprises de sécurité (BLV 935.91).
-- b. au 15 mai 2025 :
-- 1\. décret du 11 février 2025 acordant au Conseil d'Etat un crédit d'investissement de CHF 3'110'000.- pour financer les travaux de transformation et d'aménagement du nouvel Office régional de protection des mineurs de la Couronne lausannoise et du Gros-de-Vaud, à Romanel-sur-Lausanne (BLV 850.00) ;
-- 2\. décret du 11 février 2025 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'800'000.- pour financer l'équipement et le mobilier d'une salle de sport VD6 et l'extension du Gymnase de Bussigny (BLV 412.00).
+- 1\. loi du 25 février 2025 modifiant celle du 30 août 2022 sur la protection du patrimoine naturel et paysager (BLV 450.11) ;
+- 2\. décret du 25 février 2025 adoptant la modification du Plan directeur des carrières (PDCar), de a fiche n° 1222-104 et de la carte y relative (BLV 931.151).
