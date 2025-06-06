@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über das Plangenehmigungsverfahren für Bauten und Anlagen des CERN (VBAC)
 document: Vernehmlassungsvorlage
 language: de

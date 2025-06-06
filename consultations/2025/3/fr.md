@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance concernant l’approbation des plans des constructions et installations du CERN (OCIC)
 document: Projet mis en consultation
 language: fr
