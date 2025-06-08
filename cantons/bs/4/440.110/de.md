@@ -4,13 +4,12 @@ number: "440.110"
 title: Statut der Universität Basel
 short: Universitätsstatut
 language: de
-version: 2023-01-01
-valid_until: 2025-06-08
-version_adopted: 2022-12-19
+version: 2025-06-09
+version_adopted: 2025-05-26
 adopted: 2012-05-03
 in_force: 2012-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/440.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5838/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Universität und Universitätsgut / Wissenschaftliche Institute
 
 (Universitätsstatut)
 
-Vom 3. Mai 2012 (Stand 1. Januar 2023)
+Vom 3. Mai 2012 (Stand 9. Juni 2025)
 
 Der Universitätsrat der Universität Basel,
 
@@ -191,6 +190,10 @@ beschliesst:
 
 <sup>3</sup> Der Universitätsrat entscheidet über die Wahl der Vorsorgeinstitution für die berufliche Vorsorge des Personals der Universität im Einverständnis mit dem Universitätspersonal oder der allfälligen Arbeitnehmervertretung.
 
+<sup>4</sup> Der Universitätsrat entscheidet als kollegiales Organ. Vorbehältlich anderslautender Bestimmungen des Staatsvertrags[^9-1] sind seine Sitzungen nicht öffentlich.
+
+[^9-1]: SG [442.400](https://www.gesetzessammlung.bs.ch/data/442.400/de)
+
 #### § 10
 
 **Rektorat**
@@ -204,6 +207,10 @@ beschliesst:
 <sup>4</sup> Rektoratsmitglieder werden mit besonderen Anstellungsverträgen angestellt. In Einzelfällen sind Ausnahmen möglich. Bei der Wahl von internen Kandidatinnen und Kandidaten werden zusammen mit den Departementen und Fakultäten adäquate Lösungen für die Stellvertretung gesucht.
 
 <sup>5</sup> Die Generalsekretärin bzw. der Generalsekretär der Universität koordiniert die Geschäfte des Rektorats und nimmt mit beratender Stimme an den Sitzungen des Rektorats teil.
+
+<sup>6</sup> Das Rektorat entscheidet als kollegiales Organ. Vorbehältlich anderslautender Bestimmungen des Staatsvertrags[^10-1] sind seine Sitzungen nicht öffentlich.
+
+[^10-1]: SG [442.400](https://www.gesetzessammlung.bs.ch/data/442.400/de)
 
 #### § 11
 
