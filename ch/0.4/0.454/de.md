@@ -3,11 +3,11 @@ sr: "0.454"
 title: Europäisches Übereinkommen vom 10. März 1976 zum Schutze von Tieren in landwirtschaftlichen Tierhaltungen
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/218_218_218"
 language: de
-version: 2008-04-16
+version: 2025-06-11
 adopted: 1976-03-10
 in_force: 1981-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20080416/de/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20080416-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20080416/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20250611/de/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20250611-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20250611/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20080416/de"
 
 AS **1981** 218; BBl **1979** II 109
 
-*Übersetzung*[^t-1]
+*Übersetzung*
 
-Abgeschlossen in Strassburg am 10. März 1976 Von der Bundesversammlung genehmigt am 26. November 1979[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 1980 In Kraft getreten für die Schweiz am 25. März 1981
+Abgeschlossen in Strassburg am 10. März 1976 Von der Bundesversammlung genehmigt am 26. November 1979[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 1980 In Kraft getreten für die Schweiz am 25. März 1981
 
-(Stand am 16. April 2008)
+(Stand am 11. Juni 2025)
 
-[^t-1]: Gemeinsame deutsche Übersetzung des französischen Originaltextes, der sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung befindet.
-[^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 26. Nov. 1979 ([AS 1981 217](https://fedlex.data.admin.ch/eli/oc/1981/217_217_217))
+[^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 26. Nov. 1979 ([AS 1981 217](https://fedlex.data.admin.ch/eli/oc/1981/217_217_217))
 
 Die Mitgliedstaaten des Europarats, die dieses Übereinkommen unterzeichnen,
 
@@ -77,7 +76,9 @@ Ein Tier darf nicht so ernährt werden, dass ihm vermeidbare Leiden oder Schäde
 
 <sup>4.</sup> Der Ständige Ausschuss ist beschlussfähig, wenn die Mehrheit der Vertreter der Vertragsparteien auf einer Sitzung anwesend ist.
 
-<sup>5.</sup> Der Ständige Ausschuss fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen; dagegen ist Einstimmigkeit der abgegebenen Stimmen erforderlich für
+<sup>5.</sup>
+
+Der Ständige Ausschuss fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen; dagegen ist Einstimmigkeit der abgegebenen Stimmen erforderlich für:
 
 - a) die Annahme von Empfehlungen nach Artikel 9 Absatz 1;
 - b) Beschlüsse über die Zulassung von Beobachtern mit Ausnahme der in Absatz 2 genannten;
@@ -143,7 +144,7 @@ Der Ständige Ausschuss unterbreitet dem Ministerkomitee des Europarates drei Ja
 
 #### Art. 18
 
-Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Rates und jeder Vertragspartei, die nicht Mitglied des Rates ist,
+Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Rates und jeder Vertragspartei, die nicht Mitglied des Rates ist:
 
 - a) jede Unterzeichnung,
 - b) jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde;
@@ -156,10 +157,10 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Rates u
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 10. März 1976 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Unterzeichnerparteien und allen beitretenden Parteien beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich des Übereinkommens am 21. August 2008**[^t-3]**
+Geltungsbereich am 11. Juni 2025[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Belgien</td><td>13. September</td><td>1979</td><td>14. März</td><td>1980</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>29. Dezember</td><td>1994 B</td><td>30. Juni</td><td>1995</td></tr>
 <tr><td>Bulgarien</td><td>20. Juli</td><td>2004</td><td>21. Januar</td><td>2005</td></tr>
@@ -177,9 +178,9 @@ Geltungsbereich des Übereinkommens am 21. August 2008**[^t-3]**
 <tr><td>Litauen</td><td>2. März</td><td>2004</td><td>3. September</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>19. Januar</td><td>1979</td><td>20. Juli</td><td>1979</td></tr>
 <tr><td>Malta</td><td>26. März</td><td>1991</td><td>27. September</td><td>1991</td></tr>
-<tr><td>Mazedonien</td><td>30. März</td><td>1994 B</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande\*</td><td>21. April</td><td>1981</td><td>22. Oktober</td><td>1981</td></tr>
+<tr><td>Nordmazedonien</td><td>30. März</td><td>1994 B</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td>Norwegen</td><td>25. Februar</td><td>1980</td><td>26. August</td><td>1980</td></tr>
 <tr><td>Österreich</td><td>22. Dezember</td><td>1992</td><td>23. Juni</td><td>1993</td></tr>
 <tr><td>Polen</td><td>20. Februar</td><td>2008</td><td>21. August</td><td>2008</td></tr>
@@ -190,12 +191,13 @@ Geltungsbereich des Übereinkommens am 21. August 2008**[^t-3]**
 <tr><td>Slowenien</td><td>20. Oktober</td><td>1992 B</td><td>21. April</td><td>1993</td></tr>
 <tr><td>Spanien</td><td>5. Mai</td><td>1988</td><td>6. November</td><td>1988</td></tr>
 <tr><td>Tschechische Republik</td><td>23. September</td><td>1998</td><td>24. März</td><td>1999</td></tr>
+<tr><td>Türkei</td><td>14. Mai</td><td>2018</td><td>15. November</td><td>2018</td></tr>
 <tr><td>Ungarn</td><td>30. März</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>8. Januar</td><td>1979</td><td>9. Juli</td><td>1979</td></tr>
 <tr><td>[tab] Guernsey</td><td>8. Januar</td><td>1979</td><td>9. Juli</td><td>1979</td></tr>
 <tr><td>[tab] Insel Man</td><td>13. Dezember</td><td>2001</td><td>13. Dezember</td><td>2001</td></tr>
 <tr><td>Zypern</td><td>15. April</td><td>1977</td><td>10. September</td><td>1978</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internet-Seite des Europarates: http://conventions.coe.int/Treaty/FR/v3DefaultFRE.asp eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereichs findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: **1981** 218; **1982** 1928; **1985** 1603; **1987** 841; **1989** 780; **1990** 1194; **2004** 4997; **2008** 3747; **2025** 400. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

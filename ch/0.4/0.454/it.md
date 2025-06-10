@@ -3,11 +3,11 @@ sr: "0.454"
 title: Convenzione europea del 10 marzo 1976 sulla protezione degli animali negli allevamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/218_218_218"
 language: it
-version: 2008-04-16
+version: 2025-06-11
 adopted: 1976-03-10
 in_force: 1981-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20080416/it/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20080416-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20080416/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20250611/it/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20250611-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20250611/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20080416/it"
 
 RU **1981** 218, FF **1979** II 113
 
-*Traduzione*[^t-1]
+*Traduzione*
 
-Conchiusa a Strasburgo il 10 marzo 1976 Approvata dall’Assemblea federale il 26 novembre 1979[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 24 settembre 1980 Entrata in vigore per la Svizzera il 25 marzo 1981
+Conchiusa a Strasburgo il 10 marzo 1976 Approvata dall’Assemblea federale il 26 novembre 1979[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 24 settembre 1980 Entrata in vigore per la Svizzera il 25 marzo 1981
 
-(Stato 16 aprile 2008)
+(Stato 11 giugno 2025)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 26 nov. 1979 ([RU 1981 217](https://fedlex.data.admin.ch/eli/oc/1981/217_217_217)).
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 26 nov. 1979 ([RU 1981 217](https://fedlex.data.admin.ch/eli/oc/1981/217_217_217)).
 
 Gli Stati membri del Consiglio d’Europa, firmatari della presente Convenzione,
 
@@ -158,7 +157,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Strasburgo, il 10 marzo 1976, in francese e in inglese, i due testi facenti parimenti fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne notificherà copie certificate conformi a ciascuna delle Parti firmatarie e aderenti. (Seguono le firme)
 
-Campo d’applicazione il 21 agosto 2008**[^t-3]**
+Campo d’applicazione l’11 giugno 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -181,7 +180,7 @@ Campo d’applicazione il 21 agosto 2008**[^t-3]**
 <tr><td>Lettonia</td><td>5 giugno</td><td>2007</td><td>6 dicembre</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>2 marzo</td><td>2004</td><td>3 settembre</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>19 gennaio</td><td>1979</td><td>20 luglio</td><td>1979</td></tr>
-<tr><td>Macedonia</td><td>30 marzo</td><td>1994 A</td><td>1° ottobre</td><td>1994</td></tr>
+<tr><td>Macedonia del Nord</td><td>30 marzo</td><td>1994 A</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Malta</td><td>26 marzo</td><td>1991</td><td>27 settembre</td><td>1991</td></tr>
 <tr><td>Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia</td><td>25 febbraio</td><td>1980</td><td>26 agosto</td><td>1980</td></tr>
@@ -189,15 +188,16 @@ Campo d’applicazione il 21 agosto 2008**[^t-3]**
 <tr><td>Polonia</td><td>20 febbraio</td><td>2008</td><td>21 agosto</td><td>2008</td></tr>
 <tr><td>Portogallo</td><td>20 aprile</td><td>1982</td><td>21 ottobre</td><td>1982</td></tr>
 <tr><td>Regno Unito\*</td><td>8 gennaio</td><td>1979</td><td>9 luglio</td><td>1979</td></tr>
-<tr><td>[tab] Guernesey</td><td>8 gennaio</td><td>1979</td><td>9 luglio</td><td>1979</td></tr>
-<tr><td>[tab] Isola di Man</td><td>13 dicembre</td><td>2001</td><td>13 dicembre</td><td>2001</td></tr>
+<tr><td>Guernesey</td><td>8 gennaio</td><td>1979</td><td>9 luglio</td><td>1979</td></tr>
+<tr><td>Isola di Man</td><td>13 dicembre</td><td>2001</td><td>13 dicembre</td><td>2001</td></tr>
 <tr><td>Serbia</td><td>28 febbraio</td><td>2001 A</td><td>29 agosto</td><td>2001</td></tr>
 <tr><td>Slovenia</td><td>20 ottobre</td><td>1992 A</td><td>21 aprile</td><td>1993</td></tr>
 <tr><td>Spagna</td><td>5 maggio</td><td>1988</td><td>6 novembre</td><td>1988</td></tr>
 <tr><td>Svezia</td><td>7 dicembre</td><td>1977</td><td>10 settembre</td><td>1978</td></tr>
 <tr><td>Svizzera</td><td>24 settembre</td><td>1980</td><td>25 marzo</td><td>1981</td></tr>
+<tr><td>Turchia</td><td>14 maggio</td><td>2018</td><td>15 novembre</td><td>2018</td></tr>
 <tr><td>Ungheria</td><td>30 marzo</td><td>2004</td><td>1° ottobre</td><td>2004</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul Sito Internet del Consiglio d’Europa: http://conventions.coe.int/treaty/FR/cadreprincipal.htm od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1981 218](https://fedlex.data.admin.ch/eli/oc/1981/218_218_218); [1982 1928](https://fedlex.data.admin.ch/eli/oc/1982/1928_1928_1928); [1985 1603](https://fedlex.data.admin.ch/eli/oc/1985/1603_1603_1603); [1987 841](https://fedlex.data.admin.ch/eli/oc/1987/841_841_841); [1989 780](https://fedlex.data.admin.ch/eli/oc/1989/780_780_780); [1990 1194](https://fedlex.data.admin.ch/eli/oc/1990/1194_1194_1194); [2004 4997](https://fedlex.data.admin.ch/eli/oc/2004/758); [2008 3747](https://fedlex.data.admin.ch/eli/oc/2008/502); [2025 400](https://fedlex.data.admin.ch/eli/oc/2025/400). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

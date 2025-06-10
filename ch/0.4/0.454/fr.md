@@ -3,11 +3,11 @@ sr: "0.454"
 title: Convention européenne du 10 mars 1976 sur la protection des animaux dans les élevages
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/218_218_218"
 language: fr
-version: 2008-04-16
+version: 2025-06-11
 adopted: 1976-03-10
 in_force: 1981-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20080416/fr/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20080416-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20080416/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/218_218_218/20250611/fr/xml/fedlex-data-admin-ch-eli-cc-1981-218_218_218-20250611-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/218_218_218/20250611/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ RO **1981** 218; FF **1979** II 113
 
 Conclue à Strasbourg le 10 mars 1976 Approuvée par l’Assemblée fédérale le 26 novembre 1979[^t-1] Instrument de ratification déposé par la Suisse le 24 septembre 1980 Entrée en vigueur pour la Suisse le 25 mars 1981
 
-(Etat le 16 avril 2008)
+(État le 11 juin 2025)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 26 nov. 1979 ([RO 1981 217](https://fedlex.data.admin.ch/eli/oc/1981/217_217_217)).
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
 considérant qu’il est souhaitable d’adopter des dispositions communes pour protéger les animaux dans les élevages, en particulier dans les systèmes modernes d’élevage intensif,
 
@@ -70,9 +70,9 @@ Aucun animal ne doit être alimenté de telle sorte qu’il en résulte des souf
 
 <sup>1.</sup> Il est constitué, dans l’année qui suit la date d’entrée en vigueur de la présente Convention, un Comité Permanent.
 
-<sup>2.</sup> Toute Partie Contractante a le droit de désigner un représentant au Comité Permanent. Tout Etat membre du Conseil de l’Europe qui n’est pas Partie Contractante à la Convention a le droit de se faire représenter au Comité par un observateur.
+<sup>2.</sup> Toute Partie Contractante a le droit de désigner un représentant au Comité Permanent. Tout État membre du Conseil de l’Europe qui n’est pas Partie Contractante à la Convention a le droit de se faire représenter au Comité par un observateur.
 
-<sup>3.</sup> Le Secrétaire Général du Conseil de l’Europe convoque le Comité Permanent chaque fois qu’il l’estime nécessaire et, en tout cas, si la majorité des représentants des Parties Contractantes ou le représentant de la Communauté Economique Européenne, elle‑même Partie Contractante, en formulent la demande.
+<sup>3.</sup> Le Secrétaire Général du Conseil de l’Europe convoque le Comité Permanent chaque fois qu’il l’estime nécessaire et, en tout cas, si la majorité des représentants des Parties Contractantes ou le représentant de la Communauté Économique Européenne, elle‑même Partie Contractante, en formulent la demande.
 
 <sup>4.</sup> La majorité des représentants des Parties Contractantes constitue le quorum nécessaire pour tenir une réunion du Comité Permanent.
 
@@ -92,9 +92,9 @@ Le Comité Permanent prend ses décisions à la majorité des voix exprimées; t
 
 <sup>2.</sup> Aux fins de l’accomplissement de ses tâches telles que visées au par. 1 du présent article, le Comité Permanent suit l’évolution de la recherche scientifique et des nouvelles méthodes en matière d’élevage.
 
-<sup>3.</sup> Sauf si un délai plus long est fixé par le Comité Permanent, toute recommandation prend effet en tant que telle six mois après la date de son adoption par le Comité. A partir de la date à laquelle une recommandation prend effet, toute Partie Contractante doit, soit la mettre en œuvre, soit informer le Comité Permanent par notification adressée au Secrétaire Général du Conseil de l’Europe des raisons pour lesquelles elle a décidé qu’elle n’est pas ou n’est plus en mesure de la mettre en œuvre.
+<sup>3.</sup> Sauf si un délai plus long est fixé par le Comité Permanent, toute recommandation prend effet en tant que telle six mois après la date de son adoption par le Comité. À partir de la date à laquelle une recommandation prend effet, toute Partie Contractante doit, soit la mettre en œuvre, soit informer le Comité Permanent par notification adressée au Secrétaire Général du Conseil de l’Europe des raisons pour lesquelles elle a décidé qu’elle n’est pas ou n’est plus en mesure de la mettre en œuvre.
 
-<sup>4.</sup> Si deux ou plusieurs Parties Contractantes ou la Communauté Economique Européenne, elle‑même Partie Contractante, ont notifié conformément au par. 3 du présent article, leur décision de ne pas mettre ou de ne plus mettre en œuvre une recommandation, cette recommandation cesse d’avoir effet.
+<sup>4.</sup> Si deux ou plusieurs Parties Contractantes ou la Communauté Économique Européenne, elle‑même Partie Contractante, ont notifié conformément au par. 3 du présent article, leur décision de ne pas mettre ou de ne plus mettre en œuvre une recommandation, cette recommandation cesse d’avoir effet.
 
 #### Art. 10
 
@@ -116,15 +116,15 @@ Le Comité Permanent soumet au Comité des Ministres du Conseil de l’Europe, �
 
 #### Art. 14
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe ainsi qu’à celle de la Communauté Economique Européenne. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe ainsi qu’à celle de la Communauté Économique Européenne. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La présente Convention entrera en vigueur six mois après la date du dépôt du quatrième instrument de ratification, d’acceptation ou d’approbation d’un Etat membre du Conseil de l’Europe.
+<sup>2.</sup> La présente Convention entrera en vigueur six mois après la date du dépôt du quatrième instrument de ratification, d’acceptation ou d’approbation d’un État membre du Conseil de l’Europe.
 
 <sup>3.</sup> Elle entrera en vigueur à l’égard de toute Partie signataire qui la ratifiera, l’acceptera ou l’approuvera après la date visée au par. 2 du présent article, six mois après la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 15
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter, selon les modalités qu’il jugera opportunes, tout Etat non membre du Conseil à adhérer à la présente Convention.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter, selon les modalités qu’il jugera opportunes, tout État non membre du Conseil à adhérer à la présente Convention.
 
 <sup>2.</sup> L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet six mois après la date de son dépôt.
 
@@ -144,7 +144,7 @@ Le Comité Permanent soumet au Comité des Ministres du Conseil de l’Europe, �
 
 #### Art. 18
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil et à toute Partie Contractante non membre du Conseil:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil et à toute Partie Contractante non membre du Conseil:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -157,10 +157,10 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 10 mars 1976, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacune des Parties signataires et adhérentes. (Suivent les signatures)
 
-Champ d’application le 21 août 2008**[^t-2]**
+Champ d’application le 11 juin 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>9 mars</td><td>1978</td><td>10 septembre</td><td>1978</td></tr>
 <tr><td>Autriche</td><td>22 décembre</td><td>1992</td><td>23 juin</td><td>1993</td></tr>
 <tr><td>Belgique</td><td>13 septembre</td><td>1979</td><td>14 mars</td><td>1980</td></tr>
@@ -181,7 +181,7 @@ Champ d’application le 21 août 2008**[^t-2]**
 <tr><td>Lettonie</td><td>5 juin</td><td>2007</td><td>6 décembre</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>2 mars</td><td>2004</td><td>3 septembre</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>19 janvier</td><td>1979</td><td>20 juillet</td><td>1979</td></tr>
-<tr><td>Macédoine</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
+<tr><td>Macédoine du Nord</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
 <tr><td>Malte</td><td>26 mars</td><td>1991</td><td>27 septembre</td><td>1991</td></tr>
 <tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>25 février</td><td>1980</td><td>26 août</td><td>1980</td></tr>
@@ -191,12 +191,13 @@ Champ d’application le 21 août 2008**[^t-2]**
 <tr><td>République tchèque</td><td>23 septembre</td><td>1998</td><td>24 mars</td><td>1999</td></tr>
 <tr><td>Royaume-Uni\*</td><td>8 janvier</td><td>1979</td><td>9 juillet</td><td>1979</td></tr>
 <tr><td>[tab] Guernesey</td><td>8 janvier</td><td>1979</td><td>9 juillet</td><td>1979</td></tr>
-<tr><td>[tab] Ile de Man</td><td>13 décembre</td><td>2001</td><td>13 décembre</td><td>2001</td></tr>
+<tr><td>[tab] Île de Man</td><td>13 décembre</td><td>2001</td><td>13 décembre</td><td>2001</td></tr>
 <tr><td>Serbie</td><td>28 février</td><td>2001 A</td><td>29 août</td><td>2001</td></tr>
 <tr><td>Slovénie</td><td>20 octobre</td><td>1992 A</td><td>21 avril</td><td>1993</td></tr>
 <tr><td>Suède</td><td>7 décembre</td><td>1977</td><td>10 septembre</td><td>1978</td></tr>
 <tr><td>Suisse</td><td>24 septembre</td><td>1980</td><td>25 mars</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int/treaty/FR/cadreprincipal.htm ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Turquie</td><td>14 mai</td><td>2018</td><td>15 novembre</td><td>2018</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1981 218](https://fedlex.data.admin.ch/eli/oc/1981/218_218_218); [1982 1928](https://fedlex.data.admin.ch/eli/oc/1982/1928_1928_1928); [1985 1603](https://fedlex.data.admin.ch/eli/oc/1985/1603_1603_1603); [1987 841](https://fedlex.data.admin.ch/eli/oc/1987/841_841_841); [1989 780](https://fedlex.data.admin.ch/eli/oc/1989/780_780_780); [1990 1194](https://fedlex.data.admin.ch/eli/oc/1990/1194_1194_1194); [2004 4997](https://fedlex.data.admin.ch/eli/oc/2004/758); [2008 3747](https://fedlex.data.admin.ch/eli/oc/2008/502); [2025 400](https://fedlex.data.admin.ch/eli/oc/2025/400). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
