@@ -3,11 +3,11 @@ sr: "0.440.4"
 title: "Convention du 3 octobre 1985 pour la sauvegarde du patrimoine architectural de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402"
 language: fr
-version: 2013-02-08
+version: 2025-06-11
 adopted: 1985-10-03
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402/20130208/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2402_2402_2402-20130208-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2402_2402_2402/20130208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402/20250611/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2402_2402_2402-20250611-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2402_2402_2402/20250611/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ Texte original
 
 Conclue à Grenade le 3 octobre 1985 Approuvée par l’Assemblée fédérale le 6 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 27 mars 1996 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 1996
 
-(Etat le 8 février 2013)
+(État le 11 juin 2025)
 
 [^t-1]: [RO 1996 2401](https://fedlex.data.admin.ch/eli/oc/1996/2401_2401_2401)
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
 Considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin notamment de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun;
 
@@ -36,9 +36,9 @@ Vu la Charte Européenne du Patrimoine Architectural adoptée par le Comité des
 
 Vu la Recommandation 880 (1979) de l’Assemblée Parlementaire du Conseil de l’Europe relative à la conservation du patrimoine architectural;
 
-Compte tenu de la Recommandation n<sup>o</sup> R (80) 16 du Comité des Ministres aux Etats membres concernant la formation spécialisée des architectes, urbanistes, ingénieurs du génie civil et paysagistes ainsi que la Recommandation n<sup>o</sup> R (81) 13 du Comité des Ministres adoptée le 1<sup>er</sup> juillet 1981 concernant les actions à entreprendre en faveur de certains métiers menacés de disparition dans le cadre de l’activité artisanale;
+Compte tenu de la Recommandation n<sup>o</sup> R (80) 16 du Comité des Ministres aux États membres concernant la formation spécialisée des architectes, urbanistes, ingénieurs du génie civil et paysagistes ainsi que la Recommandation n<sup>o</sup> R (81) 13 du Comité des Ministres adoptée le 1<sup>er</sup> juillet 1981 concernant les actions à entreprendre en faveur de certains métiers menacés de disparition dans le cadre de l’activité artisanale;
 
-Rappelant qu’il importe de transmettre un système de références culturelles aux générations futures, d’améliorer le cadre de vie urbain et rural et de favoriser par la même occasion le développement économique, social et culturel des Etats et des régions;
+Rappelant qu’il importe de transmettre un système de références culturelles aux générations futures, d’améliorer le cadre de vie urbain et rural et de favoriser par la même occasion le développement économique, social et culturel des États et des régions;
 
 Affirmant qu’il importe de s’accorder sur les orientations essentielles d’une politique commune qui garantisse la sauvegarde et la mise en valeur du patrimoine architectural,
 
@@ -69,7 +69,7 @@ Afin d’identifier avec précision les monuments, ensembles architecturaux et s
 Chaque Partie s’engage:
 
 - 1\. à mettre en œuvre un régime légal de protection du patrimoine architectural;
-- 2\. à assurer, dans le cadre de ce régime et selon des modalités propres à chaque Etat ou région, la protection des monuments, des ensembles architecturaux et des sites.
+- 2\. à assurer, dans le cadre de ce régime et selon des modalités propres à chaque État ou région, la protection des monuments, des ensembles architecturaux et des sites.
 
 #### Art. 4
 
@@ -153,7 +153,7 @@ Afin de faciliter la mise en œuvre de ces politiques, chaque Partie s’engage 
 
 En vue de seconder l’action des pouvoirs publics en faveur de la connaissance, la protection, la restauration, l’entretien, la gestion et l’animation du patrimoine architectural, chaque Partie s’engage:
 
-- 1\. à mettre en place, aux divers stades des processus de décision, des structures d’information, de consultation et de collaboration entre l’Etat, les collectivités locales, les institutions et associations culturelles et le public;
+- 1\. à mettre en place, aux divers stades des processus de décision, des structures d’information, de consultation et de collaboration entre l’État, les collectivités locales, les institutions et associations culturelles et le public;
 - 2\. à favoriser le développement du mécénat et des associations à but non lucratif œuvrant en la matière.
 
 ## Information et formation
@@ -197,9 +197,9 @@ Les Parties s’engagent à favoriser, dans le cadre des législations nationale
 
 Aux fins de la présente Convention, un Comité d’experts institué par le Comité des Ministres du Conseil de l’Europe en vertu de l’art. 17 du Statut du Conseil de l’Europe[^20-1] est chargé de suivre l’application de la Convention et en particulier:
 
-- 1\. de soumettre périodiquement au Comité des Ministres du Conseil de l’Europe un rapport sur la situation des politiques de conservation du patrimoine architectural dans les Etats parties à la Convention, sur l’application des principes qu’elle a énoncés et sur ses propres activités;
+- 1\. de soumettre périodiquement au Comité des Ministres du Conseil de l’Europe un rapport sur la situation des politiques de conservation du patrimoine architectural dans les États parties à la Convention, sur l’application des principes qu’elle a énoncés et sur ses propres activités;
 - 2\. de proposer au Comité des Ministres du Conseil de l’Europe toute mesure tendant à la mise en œuvre des dispositions de la Convention, y compris dans le domaine des activités multilatérales et en matière de révision ou d’amendement de la Convention ainsi que d’information du public sur les objectifs de la Convention;
-- 3\. de faire des recommandations au Comité des Ministres du Conseil de l’Europe relatives à l’invitation d’Etats non membres du Conseil de l’Europe à adhérer à la Convention.
+- 3\. de faire des recommandations au Comité des Ministres du Conseil de l’Europe relatives à l’invitation d’États non membres du Conseil de l’Europe à adhérer à la Convention.
 
 [^20-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
 
@@ -217,35 +217,35 @@ Les dispositions de la présente Convention ne portent pas atteinte à l’appli
 
 #### Art. 22
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe.
 
 Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle trois Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
+<sup>2.</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle trois États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
 
-<sup>3.</sup> Elle entrera en vigueur à l’égard de tout Etat membre qui exprimerait ultérieurement son consentement à être lié par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>3.</sup> Elle entrera en vigueur à l’égard de tout État membre qui exprimerait ultérieurement son consentement à être lié par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 23
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non membre du Conseil ainsi que la Communauté Economique Européenne à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.d du Statut du Conseil de l’Europe[^23-1], et à l’unanimité des représentants des Etats contractants ayant le droit de siéger au Comité.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout État non membre du Conseil ainsi que la Communauté Économique Européenne à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.d du Statut du Conseil de l’Europe[^23-1], et à l’unanimité des représentants des États contractants ayant le droit de siéger au Comité.
 
-<sup>2.</sup> Pour tout Etat adhérent ou pour la Communauté Economique Européenne en cas d’adhésion, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhérent ou pour la Communauté Économique Européenne en cas d’adhésion, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
 [^23-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
 
 #### Art. 24
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
-<sup>2.</sup> Tout Etat peut, à tout autre moment par la suite, par une déclaration adressé au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+<sup>2.</sup> Tout État peut, à tout autre moment par la suite, par une déclaration adressé au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
 <sup>3.</sup> Toute déclaration faite en vertu des deux paragraphes précédents pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général. Le retrait prendra effet le premier jour du mois qui suit l’expiration d’une période de six mois après la date de réception de la notification par le Secrétaire Général.
 
 #### Art. 25
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il se réserve le droit de ne pas se conformer en tout ou en partie aux dispositions de l’art. 4, par. 2, let. *c* et *d*. Aucune autre réserve n’est admise.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il se réserve le droit de ne pas se conformer en tout ou en partie aux dispositions de l’art. 4, par. 2, let. *c* et *d*. Aucune autre réserve n’est admise.
 
-<sup>2.</sup> Tout Etat contractant qui a formulé une réserve en vertu du paragraphe précédent peut la retirer en tout ou en partie en adressant une notification au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet à la date de réception de la notification par le Secrétaire Général.
+<sup>2.</sup> Tout État contractant qui a formulé une réserve en vertu du paragraphe précédent peut la retirer en tout ou en partie en adressant une notification au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet à la date de réception de la notification par le Secrétaire Général.
 
 <sup>3.</sup> La Partie qui a formulé la réserve au sujet de la disposition mentionnée au premier paragraphe ci‑dessus ne peut prétendre à l’application de cette disposition par une autre Partie; toutefois, elle peut, si la réserve est partielle ou conditionnelle, prétendre à l’application de cette disposition dans la mesure où elle l’a acceptée.
 
@@ -257,97 +257,67 @@ Elle sera soumise à ratification, acceptation ou approbation. Les instruments d
 
 #### Art. 27
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe, à tout Etat ayant adhéré à la présente Convention et à la Communauté Economique Européenne adhérente:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe, à tout État ayant adhéré à la présente Convention et à la Communauté Économique Européenne adhérente:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
 - c. toute date d’entrée en vigueur de la présente Convention conformément à ses art. 22, 23 et 24;
 - d. tout autre acte, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Grenade, le 3 octobre 1985, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, ainsi qu’à tout Etat ou à la Communauté Economique Européenne invités à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Grenade, le 3 octobre 1985, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, ainsi qu’à tout État ou à la Communauté Économique Européenne invités à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 8 février 2013**[^t-2]**
+Champ d’application le 11 juin 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne</td><td>17 août</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
-<tr><td colspan="2">Andorre</td><td>28 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Arménie</td><td>17 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
-<tr><td colspan="2">Azerbaïdjan<sup>\*</sup></td><td>15 février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td colspan="2">Belgique</td><td>17 septembre</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>29 décembre</td><td>1994 A</td><td>1<sup>er</sup> avril</td><td>1995</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>31 janvier</td><td>1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
-<tr><td colspan="2">Chypre</td><td>6 janvier</td><td>1989</td><td>1<sup>er</sup> mai</td><td>1989</td></tr>
-<tr><td colspan="2">Croatie</td><td>27 janvier</td><td>1993 A</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Danemark <sup>a</sup></td><td>23 juillet</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
-<tr><td colspan="2">Espagne</td><td>27 avril</td><td>1989</td><td>1<sup>er</sup> août</td><td>1989</td></tr>
-<tr><td colspan="2">Estonie</td><td>15 novembre</td><td>1996</td><td>1<sup>er</sup> mars</td><td>1997</td></tr>
-<tr><td colspan="2">Finlande</td><td>17 octobre</td><td>1991</td><td>1<sup>er</sup> février</td><td>1992</td></tr>
-<tr><td colspan="2">France\*</td><td>17 mars</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
-<tr><td colspan="2">Géorgie</td><td>13 avril</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
-<tr><td colspan="2">Grèce</td><td>27 mai</td><td>1992</td><td>1<sup>er</sup> septembre</td><td>1992</td></tr>
-<tr><td colspan="2">Hongrie</td><td>18 avril</td><td>1990 A</td><td>1<sup>er</sup> août</td><td>1990</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>20 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
-<tr><td colspan="2">Italie</td><td>31 mai</td><td>1989</td><td>1<sup>er</sup> septembre</td><td>1989</td></tr>
-<tr><td colspan="2">Lettonie</td><td>29 juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>11 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
-<tr><td colspan="2">Lituanie</td><td>7 décembre</td><td>1999</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
-<tr><td colspan="2">Macédoine</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> juillet</td><td>1994</td></tr>
-<tr><td colspan="2">Malte</td><td>20 juin</td><td>1990</td><td>1<sup>er</sup> octobre</td><td>1990</td></tr>
-<tr><td colspan="2">Moldova</td><td>21 décembre</td><td>2001</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
-<tr><td colspan="2">Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Norvège</td><td>6 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
-<tr><td colspan="2">Pays-Bas <sup>b</sup></td><td>15 février</td><td>1994</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>\*</sup></td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
-<tr><td colspan="2">Pologne</td><td>22 novembre</td><td>2011</td><td>1<sup>er</sup> mars</td><td>2012</td></tr>
-<tr><td colspan="2">Portugal</td><td>27 mars</td><td>1991</td><td>1<sup>er</sup> juillet</td><td>1991</td></tr>
-<tr><td colspan="2">République tchèque</td><td>6 avril</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
-<tr><td colspan="2">Roumanie</td><td>20 novembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
-<tr><td colspan="2">[tab] Gibraltar</td><td>31 octobre</td><td>1991</td><td>1<sup>er</sup> février</td><td>1992</td></tr>
-<tr><td colspan="2">[tab] Guernesey</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
-<tr><td colspan="2">[tab] Ile de Man</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
-<tr><td colspan="2">[tab] Jersey</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
-<tr><td colspan="2">Russie</td><td>13 novembre</td><td>1990 A</td><td>1<sup>er</sup> mars</td><td>1991</td></tr>
-<tr><td colspan="2">Serbie</td><td>28 février</td><td>2001 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>7 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2001</td></tr>
-<tr><td colspan="2">Slovénie</td><td>2 juillet</td><td>1992 A</td><td>1<sup>er</sup> novembre</td><td>1992</td></tr>
-<tr><td colspan="2">Suède</td><td>5 octobre</td><td>1990</td><td>1<sup>er</sup> février</td><td>1991</td></tr>
-<tr><td colspan="2">Suisse</td><td>27 mars</td><td>1996</td><td>1<sup>er</sup> juillet</td><td>1996</td></tr>
-<tr><td colspan="2">Turquie</td><td>11 octobre</td><td>1989</td><td>1<sup>er</sup> février</td><td>1990</td></tr>
-<tr><td colspan="2">Ukraine</td><td>21 décembre</td><td>2006</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations, voir ci-après.</td></tr>
-<tr><td></td><td colspan="5">Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La convention ne s’applique ni aux Iles Féroé ni au Groenland.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">La convention s’applique au Royaume en Europe.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>17 août</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
+<tr><td>Andorre</td><td>28 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Arménie</td><td>17 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
+<tr><td>Azerbaïdjan<sup>\*</sup></td><td>15 février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
+<tr><td>Belgique</td><td>17 septembre</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>29 décembre</td><td>1994 A</td><td>1<sup>er</sup> avril</td><td>1995</td></tr>
+<tr><td>Bulgarie</td><td>31 janvier</td><td>1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
+<tr><td>Chypre</td><td>6 janvier</td><td>1989</td><td>1<sup>er</sup> mai</td><td>1989</td></tr>
+<tr><td>Croatie</td><td>27 janvier</td><td>1993 A</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>23 juillet</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
+<tr><td>Espagne</td><td>27 avril</td><td>1989</td><td>1<sup>er</sup> août</td><td>1989</td></tr>
+<tr><td>Estonie</td><td>15 novembre</td><td>1996</td><td>1<sup>er</sup> mars</td><td>1997</td></tr>
+<tr><td>Finlande</td><td>17 octobre</td><td>1991</td><td>1<sup>er</sup> février</td><td>1992</td></tr>
+<tr><td>France\*</td><td>17 mars</td><td>1987</td><td>1<sup>er</sup> décembre</td><td>1987</td></tr>
+<tr><td>Géorgie</td><td>13 avril</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
+<tr><td>Grèce</td><td>27 mai</td><td>1992</td><td>1<sup>er</sup> septembre</td><td>1992</td></tr>
+<tr><td>Hongrie</td><td>18 avril</td><td>1990 A</td><td>1<sup>er</sup> août</td><td>1990</td></tr>
+<tr><td>Irlande\*</td><td>20 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
+<tr><td>Italie</td><td>31 mai</td><td>1989</td><td>1<sup>er</sup> septembre</td><td>1989</td></tr>
+<tr><td>Lettonie</td><td>29 juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
+<tr><td>Liechtenstein</td><td>11 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
+<tr><td>Lituanie</td><td>7 décembre</td><td>1999</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
+<tr><td>Luxembourg</td><td>14 juin</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
+<tr><td>Macédoine du Nord</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> juillet</td><td>1994</td></tr>
+<tr><td>Malte</td><td>20 juin</td><td>1990</td><td>1<sup>er</sup> octobre</td><td>1990</td></tr>
+<tr><td>Moldova</td><td>21 décembre</td><td>2001</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
+<tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
+<tr><td>Norvège</td><td>6 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
+<tr><td>Pays-Bas <sup>b</sup> <sup>\*</sup></td><td>15 février</td><td>1994</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>\*</sup></td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
+<tr><td>Pologne</td><td>22 novembre</td><td>2011</td><td>1<sup>er</sup> mars</td><td>2012</td></tr>
+<tr><td>Portugal</td><td>27 mars</td><td>1991</td><td>1<sup>er</sup> juillet</td><td>1991</td></tr>
+<tr><td>République tchèque</td><td>6 avril</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
+<tr><td>Roumanie</td><td>20 novembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
+<tr><td>Royaume-Uni\*</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
+<tr><td>[tab] Gibraltar</td><td>31 octobre</td><td>1991</td><td>1<sup>er</sup> février</td><td>1992</td></tr>
+<tr><td>[tab] Guernesey</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
+<tr><td>[tab] Île de Man</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
+<tr><td>[tab] Jersey</td><td>13 novembre</td><td>1987</td><td>1<sup>er</sup> mars</td><td>1988</td></tr>
+<tr><td>Russie</td><td>13 novembre</td><td>1990 A</td><td>1<sup>er</sup> mars</td><td>1991</td></tr>
+<tr><td>Serbie</td><td>28 février</td><td>2001 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
+<tr><td>Slovaquie\*</td><td>7 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2001</td></tr>
+<tr><td>Slovénie</td><td>2 juillet</td><td>1992 A</td><td>1<sup>er</sup> novembre</td><td>1992</td></tr>
+<tr><td>Suède</td><td>5 octobre</td><td>1990</td><td>1<sup>er</sup> février</td><td>1991</td></tr>
+<tr><td>Suisse</td><td>27 mars</td><td>1996</td><td>1<sup>er</sup> juillet</td><td>1996</td></tr>
+<tr><td>Turquie</td><td>11 octobre</td><td>1989</td><td>1<sup>er</sup> février</td><td>1990</td></tr>
+<tr><td>Ukraine</td><td>21 décembre</td><td>2006</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique ni aux Îles Féroé ni au Groenland. <sup>b</sup> La convention s’applique au Royaume en Europe.</td></tr>
 </table>
 
-## Réserves et déclarations
-
-[^t-2]: [RO 1996 2402](https://fedlex.data.admin.ch/eli/oc/1996/2402_2402_2402), [2003 3430](https://fedlex.data.admin.ch/eli/oc/2003/486), [2007 1395](https://fedlex.data.admin.ch/eli/oc/2007/241)et **2013** 707. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-
-Danemark
-
-La convention ne s’applique pas aux Iles Féroé ni au Groenland.
-
-France
-
-La convention s’applique aux Départements européens et aux Départements d’outre‑mer de la République.
-
-Irlande
-
-Conformément à l’art. 25, l’Irlande déclare se réserver le droit de ne pas se conformer aux dispositions du par. 2 let. c) de l’art. 4 de la convention.
-
-Pays‑Bas
-
-Conformément à l’art. 25, par. 1, de la convention, le Royaume des Pays‑Bas déclare qu’il se réserve le droit de ne pas se conformer, en tout, aux dispositions de l’art. 4, par. 2, let. c) et d).
-
-La convention s’applique au Royaume en Europe.
-
-Royaume‑Uni
-
-Conformément aux dispositions de l’art. 25, par. 1, de la convention, le Royaume‑Uni déclare que l’art. 4, let. c), de la convention ne peut pas s’appliquer actuellement à l’Irlande du Nord.
-
-Slovaquie
-
-La République slovaque, conformément à l’art. 25, par. 1, déclare qu’elle se réserve le droit de ne pas se conformer aux dispositions de l’art. 4, al. 2. let d)
+[^t-2]: [RO 1996 2402](https://fedlex.data.admin.ch/eli/oc/1996/2402_2402_2402); [2003 3430](https://fedlex.data.admin.ch/eli/oc/2003/486), [3517](https://fedlex.data.admin.ch/eli/oc/2003/498); [2007 1395](https://fedlex.data.admin.ch/eli/oc/2007/241); [2013 707](https://fedlex.data.admin.ch/eli/oc/2013/136); [2025 398](https://fedlex.data.admin.ch/eli/oc/2025/398). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

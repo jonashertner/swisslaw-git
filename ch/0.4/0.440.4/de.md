@@ -3,11 +3,11 @@ sr: "0.440.4"
 title: Übereinkommen vom 3. Oktober 1985 zum Schutz des baugeschichtlichen Erbes in Europa
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402"
 language: de
-version: 2013-02-08
+version: 2025-06-11
 adopted: 1985-10-03
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402/20130208/de/xml/fedlex-data-admin-ch-eli-cc-1996-2402_2402_2402-20130208-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2402_2402_2402/20130208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402/20250611/de/xml/fedlex-data-admin-ch-eli-cc-1996-2402_2402_2402-20250611-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2402_2402_2402/20250611/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2402_2402_2402/20130208/de"
 
 AS **1996** 2402; BB1 **1995** III 445
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Granada am 3. Oktober 1985 Von der Bundesversammlung genehmigt am 6. Dezember 1995[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 27. März 1996 In Kraft getreten für die Schweiz am 1. Juli 1996
+Abgeschlossen in Granada am 3. Oktober 1985 Von der Bundesversammlung genehmigt am 6. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. März 1996 In Kraft getreten für die Schweiz am 1. Juli 1996
 
-(Stand am 8. Februar 2013)
+(Stand am 11. Juni 2025)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 1996 2401](https://fedlex.data.admin.ch/eli/oc/1996/2401_2401_2401)
+[^t-1]: [AS 1996 2401](https://fedlex.data.admin.ch/eli/oc/1996/2401_2401_2401)
 
 Die unterzeichnenden Mitgliedstaaten des Europarates,
 
@@ -213,7 +212,7 @@ Die Bestimmungen dieses Übereinkommens sollen nicht die Anwendung spezieller un
 - – im Europäischen Übereinkommen über den Schutz des archäologischen Kulturgutes vom 6. Mai 1969[^21-2].
 
 [^21-1]: [SR 0.451.41](https://fedlex.data.admin.ch/eli/cc/1975/2223_2223_2223)
-[^21-2]: [AS 1970 1227](https://fedlex.data.admin.ch/eli/oc/1970/1227_1223_1223), [1996 2785](https://fedlex.data.admin.ch/eli/oc/1996/2785_2785_2785)
+[^21-2]: [AS 1970 1227](https://fedlex.data.admin.ch/eli/oc/1970/1227_1223_1223); [1996 2785](https://fedlex.data.admin.ch/eli/oc/1996/2785_2785_2785)
 
 ## Schlussbestimmungen
 
@@ -272,60 +271,61 @@ Der Generalsekretär des Europarates unterrichtet die Mitgliedstaaten des Europa
 - c) alle Daten des Inkrafttretens dieses Übereinkommens gemäss Artikel 22, 23 und 24;
 - d) jedes sonstige Dokument und jede Erklärung oder Mitteilung, die sich auf dieses Übereinkommen beziehen.
 
-Geltungsbereich am 8. Februar 2013**[^t-3]**
+Geltungsbereich am 11. Juni 2025[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Andorra</td><td>28. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td colspan="2">Armenien</td><td>17. Februar</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
-<tr><td colspan="2">Aserbaidschan\*</td><td>15. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
-<tr><td colspan="2">Belgien</td><td>17. September</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>29. Dezember</td><td>1994 B</td><td>1. April</td><td>1995</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>31. Januar</td><td>1991 B</td><td>1. Mai</td><td>1991</td></tr>
-<tr><td colspan="2">Dänemark <sup>a</sup></td><td>23. Juli</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
-<tr><td colspan="2">Deutschland</td><td>17. August</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
-<tr><td colspan="2">Estland</td><td>15. November</td><td>1996</td><td>1. März</td><td>1997</td></tr>
-<tr><td colspan="2">Finnland</td><td>17. Oktober</td><td>1991</td><td>1. Februar</td><td>1992</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>17. März</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
-<tr><td colspan="2">Georgien</td><td>13. April</td><td>2000</td><td>1. August</td><td>2000</td></tr>
-<tr><td colspan="2">Griechenland</td><td>27. Mai</td><td>1992</td><td>1. September</td><td>1992</td></tr>
-<tr><td colspan="2">Irland\*</td><td>20. Januar</td><td>1997</td><td>1. Mai</td><td>1997</td></tr>
-<tr><td colspan="2">Italien</td><td>31. Mai</td><td>1989</td><td>1. September</td><td>1989</td></tr>
-<tr><td colspan="2">Kroatien</td><td>27. Januar</td><td>1993 B</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Lettland</td><td>29. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>11. Mai</td><td>1988</td><td>1. September</td><td>1988</td></tr>
-<tr><td colspan="2">Litauen</td><td>7. Dezember</td><td>1999</td><td>1. April</td><td>2000</td></tr>
-<tr><td colspan="2">Malta</td><td>20. Juni</td><td>1990</td><td>1. Oktober</td><td>1990</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>30. März</td><td>1994 B</td><td>1. Juli</td><td>1994</td></tr>
-<tr><td colspan="2">Moldau</td><td>21. Dezember</td><td>2001</td><td>1. April</td><td>2002</td></tr>
-<tr><td colspan="2">Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Niederlande <sup>b</sup></td><td>15. Februar</td><td>1994</td><td>1. Juni</td><td>1994</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
-<tr><td colspan="2">Norwegen</td><td>6. September</td><td>1996</td><td>1. Januar</td><td>1997</td></tr>
-<tr><td colspan="2">Polen</td><td>22. November</td><td>2011</td><td>1. März</td><td>2012</td></tr>
-<tr><td colspan="2">Portugal</td><td>27. März</td><td>1991</td><td>1. Juli</td><td>1991</td></tr>
-<tr><td colspan="2">Rumänien</td><td>20. November</td><td>1997</td><td>1. März</td><td>1998</td></tr>
-<tr><td colspan="2">Russland</td><td>13. November</td><td>1990 B</td><td>1. März</td><td>1991</td></tr>
-<tr><td colspan="2">Schweden</td><td>5. Oktober</td><td>1990</td><td>1. Februar</td><td>1991</td></tr>
-<tr><td colspan="2">Schweiz</td><td>27. März</td><td>1996</td><td>1. Juli</td><td>1996</td></tr>
-<tr><td colspan="2">Serbien</td><td>28. Februar</td><td>2001 B</td><td>1. Juni</td><td>2001</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>7. März</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
-<tr><td colspan="2">Slowenien</td><td>2. Juli</td><td>1992 B</td><td>1. November</td><td>1992</td></tr>
-<tr><td colspan="2">Spanien</td><td>27. April</td><td>1989</td><td>1. August</td><td>1989</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>6. April</td><td>2000</td><td>1. August</td><td>2000</td></tr>
-<tr><td colspan="2">Türkei</td><td>11. Oktober</td><td>1989</td><td>1. Februar</td><td>1990</td></tr>
-<tr><td colspan="2">Ukraine</td><td>21. Dezember</td><td>2006</td><td>1. April</td><td>2007</td></tr>
-<tr><td colspan="2">Ungarn</td><td>18. April</td><td>1990 B</td><td>1. August</td><td>1990</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich\*</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
-<tr><td colspan="2">Gibraltar</td><td>31. Oktober</td><td>1991</td><td>1. Februar</td><td>1992</td></tr>
-<tr><td colspan="2">Guernsey</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
-<tr><td colspan="2">Insel Man</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
-<tr><td colspan="2">Jersey</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
-<tr><td colspan="2">Zypern</td><td>6. Januar</td><td>1989</td><td>1. Mai</td><td>1989</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Das Übereinkommen gilt nicht für die Färöer-Inseln und Grönland.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Das Übereinkommen gilt für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Andorra</td><td>28. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Armenien</td><td>17. Februar</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
+<tr><td>Aserbaidschan\*</td><td>15. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
+<tr><td>Belgien</td><td>17. September</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>29. Dezember</td><td>1994 B</td><td>1. April</td><td>1995</td></tr>
+<tr><td>Bulgarien</td><td>31. Januar</td><td>1991 B</td><td>1. Mai</td><td>1991</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>23. Juli</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
+<tr><td>Deutschland</td><td>17. August</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
+<tr><td>Estland</td><td>15. November</td><td>1996</td><td>1. März</td><td>1997</td></tr>
+<tr><td>Finnland</td><td>17. Oktober</td><td>1991</td><td>1. Februar</td><td>1992</td></tr>
+<tr><td>Frankreich\*</td><td>17. März</td><td>1987</td><td>1. Dezember</td><td>1987</td></tr>
+<tr><td>Georgien</td><td>13. April</td><td>2000</td><td>1. August</td><td>2000</td></tr>
+<tr><td>Griechenland</td><td>27. Mai</td><td>1992</td><td>1. September</td><td>1992</td></tr>
+<tr><td>Irland\*</td><td>20. Januar</td><td>1997</td><td>1. Mai</td><td>1997</td></tr>
+<tr><td>Italien</td><td>31. Mai</td><td>1989</td><td>1. September</td><td>1989</td></tr>
+<tr><td>Kroatien</td><td>27. Januar</td><td>1993 B</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Lettland</td><td>29. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
+<tr><td>Liechtenstein</td><td>11. Mai</td><td>1988</td><td>1. September</td><td>1988</td></tr>
+<tr><td>Litauen</td><td>7. Dezember</td><td>1999</td><td>1. April</td><td>2000</td></tr>
+<tr><td>Luxemburg</td><td>14. Juni</td><td>2016</td><td>1. Oktober</td><td>2016</td></tr>
+<tr><td>Malta</td><td>20. Juni</td><td>1990</td><td>1. Oktober</td><td>1990</td></tr>
+<tr><td>Moldau</td><td>21. Dezember</td><td>2001</td><td>1. April</td><td>2002</td></tr>
+<tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande <sup>b</sup></td><td>15. Februar</td><td>1994</td><td>1. Juni</td><td>1994</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
+<tr><td>Nordmazedonien</td><td>30. März</td><td>1994 B</td><td>1. Juli</td><td>1994</td></tr>
+<tr><td>Norwegen</td><td>6. September</td><td>1996</td><td>1. Januar</td><td>1997</td></tr>
+<tr><td>Polen</td><td>22. November</td><td>2011</td><td>1. März</td><td>2012</td></tr>
+<tr><td>Portugal</td><td>27. März</td><td>1991</td><td>1. Juli</td><td>1991</td></tr>
+<tr><td>Rumänien</td><td>20. November</td><td>1997</td><td>1. März</td><td>1998</td></tr>
+<tr><td>Russland</td><td>13. November</td><td>1990 B</td><td>1. März</td><td>1991</td></tr>
+<tr><td>Schweden</td><td>5. Oktober</td><td>1990</td><td>1. Februar</td><td>1991</td></tr>
+<tr><td>Schweiz</td><td>27. März</td><td>1996</td><td>1. Juli</td><td>1996</td></tr>
+<tr><td>Serbien</td><td>28. Februar</td><td>2001 B</td><td>1. Juni</td><td>2001</td></tr>
+<tr><td>Slowakei\*</td><td>7. März</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Slowenien</td><td>2. Juli</td><td>1992 B</td><td>1. November</td><td>1992</td></tr>
+<tr><td>Spanien</td><td>27. April</td><td>1989</td><td>1. August</td><td>1989</td></tr>
+<tr><td>Tschechische Republik</td><td>6. April</td><td>2000</td><td>1. August</td><td>2000</td></tr>
+<tr><td>Türkei</td><td>11. Oktober</td><td>1989</td><td>1. Februar</td><td>1990</td></tr>
+<tr><td>Ukraine</td><td>21. Dezember</td><td>2006</td><td>1. April</td><td>2007</td></tr>
+<tr><td>Ungarn</td><td>18. April</td><td>1990 B</td><td>1. August</td><td>1990</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
+<tr><td>Gibraltar</td><td>31. Oktober</td><td>1991</td><td>1. Februar</td><td>1992</td></tr>
+<tr><td>Guernsey</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
+<tr><td>Insel Man</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
+<tr><td>Jersey</td><td>13. November</td><td>1987</td><td>1. März</td><td>1988</td></tr>
+<tr><td>Zypern</td><td>6. Januar</td><td>1989</td><td>1. Mai</td><td>1989</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer-Inseln und Grönland.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1996 2402](https://fedlex.data.admin.ch/eli/oc/1996/2402_2402_2402), [2003 3430](https://fedlex.data.admin.ch/eli/oc/2003/486), [2007 1395](https://fedlex.data.admin.ch/eli/oc/2007/241)und [2013 707](https://fedlex.data.admin.ch/eli/oc/2013/136). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1996 2402](https://fedlex.data.admin.ch/eli/oc/1996/2402_2402_2402); [2003 3430](https://fedlex.data.admin.ch/eli/oc/2003/486), [3517](https://fedlex.data.admin.ch/eli/oc/2003/498); [2007 1395](https://fedlex.data.admin.ch/eli/oc/2007/241); [2013 707](https://fedlex.data.admin.ch/eli/oc/2013/136); [2025 398](https://fedlex.data.admin.ch/eli/oc/2025/398). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
