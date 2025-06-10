@@ -4,7 +4,7 @@ number: "910.21.1"
 title: "RÈGLEMENT du 15.12.2010 sur l'agroécologie (RAgrEco)"
 short: RAgrEco
 language: fr
-version: 2011-01-01
+version: 2025-06-11
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.21.1?id=43906f63-ab4a-455d-88c1-acf4bdc85719"
 ---
 
@@ -255,6 +255,20 @@ arrête
 <sup>2</sup> Seules sont concernées les cultures principales, à l'exclusion des prairies, situées en région de plaine et en zone de montagne I.
 
 <sup>3</sup> Le montant de l'aide est de 250 francs par hectare au maximum.
+
+#### Art. 19a
+
+**Dommages causés aux cultures [^19-1]**
+
+<sup>1</sup> Le service peut octroyer des aides individuelles forfaitaires à l'hectare à raison d'un semis pour des parcelles qui seraient nues ou partiellement nues à la suite de dégâts causés aux cultures et à la condition que ce semis soit effectué avec une culture non sujette aux dégâts des corvidés.
+
+<sup>2</sup> Ces aides complètent celles octroyées par le service en charge de la chasse et de la protection de la faune.
+
+<sup>3</sup> Le département en charge de l'agriculture établit une directive concernant le montant des aides.
+
+<sup>4</sup> Le service fixe les modalités d'annonce. Il en informe le cercle des bénéficiaires concernés au sens de l'article 2.
+
+[^19-1]: Modif. 1 du 11.06.2025: Introduction Art. 19a; entrée en vigueur au 11.06.2025
 
 ## Chapitre V Agriculture biologique (art. 60 LVLAgr)
 
@@ -613,4 +627,4 @@ Annexes
 
 1
 
-[Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/43906f63-ab4a-455d-88c1-acf4bdc85719/annexes/1?dmev=01.01.2011)
+[Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/43906f63-ab4a-455d-88c1-acf4bdc85719/annexes/1?dmev=11.06.2025)
