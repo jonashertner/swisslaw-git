@@ -4,13 +4,12 @@ number: RiE 411.600
 title: Ordnung für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulordnung
 language: de
-version: 2024-06-06
-valid_until: 2025-06-11
-version_adopted: 2024-04-24
+version: 2025-06-12
+version_adopted: 2025-02-26
 adopted: 2009-03-25
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.600"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6279/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,13 +20,13 @@ Schulordnung | Riehen: Einwohnergemeinde
 
 (Schulordnung)
 
-Vom 25. März 2009 (Stand 6. Juni 2024)
+Vom 25. März 2009 (Stand 12. Juni 2025)
 
 Der Einwohnerrat Riehen
 
 erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Soziales und Sport (BSS) sowie gestützt auf §§ 2, 4, 16, 23 und 64 des Schulgesetzes des Kantons Basel-Stadt vom 4. April 1929[^ingress-1] und in Umsetzung des Vertrags betreffend die Zusammenarbeit der Gemeinden Bettingen und Riehen für den Betrieb und die Finanzierung ihrer Schulen (Schulvertrag) vom 6. Januar 2009[^ingress-2] folgende Ordnung:
 
-[^ingress-1]: SG [410.100](https://www.gesetzessammlung.bs.ch/data/410.100/de); massgeblich sind namentlich die Änderungen des Schulgesetzes vom 6. 6. 2007 und 20. 2. 2008, mit Wirksamkeit per 1. 8. 2009.
+[^ingress-1]: SG [RiE 410.600](https://www.gesetzessammlung.bs.ch/data/RiE%20410.600/de); massgeblich sind namentlich die Änderungen des Schulgesetzes vom 6. 6. 2007 und 20. 2. 2008, mit Wirksamkeit per 1. 8. 2009.
 [^ingress-2]: [RiE 411.500](https://www.gesetzessammlung.bs.ch/data/RiE%20411.500/de) / [BeE 411.500](https://www.gesetzessammlung.bs.ch/data/BeE%20411.500/de).
 
 ## I. Allgemeines
@@ -261,6 +260,22 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 
 <sup>1</sup> Die beruflichen Voraussetzungen für die Anstellung von Lehrpersonen richten sich nach dem kantonalen Recht.
 
+#### § 19a
+
+**Anstellung, Probezeit, Kündigungsfrist**
+
+<sup>1</sup> Die Anstellung erfolgt in der Regel unbefristet. Der Gemeinderat regelt, in welchen Fällen die Anstellung befristet erfolgt.
+
+<sup>2</sup> Die ersten sechs Monate der unbefristeten Neuanstellung oder des unbefristeten Wiedereintritts gelten als Probezeit. Die Schulleitung kann die Probezeit auf zwölf Monate verlängern. Die Verlängerung muss der Lehrperson schriftlich mitgeteilt werden.
+
+<sup>3</sup> Bei einem Standortwechsel innerhalb der Gemeindeschulen erfolgt die Anstellung ohne Probezeit. Bei einem Funktionswechsel kann auf das Ansetzen einer Probezeit verzichtet werden.
+
+<sup>4</sup> Die Kündigung in der Probezeit erfolgt gemäss § 29 der Personalordnung vom 24. April 2002[^19a-1] .
+
+<sup>5</sup> Nach der Probezeit beträgt die Kündigungsfrist für beide Parteien drei Monate. Die Kündigung kann jeweils auf Ende des Semesters erfolgen.
+
+[^19a-1]: SG [RiE 162.100](https://www.gesetzessammlung.bs.ch/data/RiE%20162.100/de)
+
 #### § 20
 
 **Berufsauftrag**
@@ -352,7 +367,7 @@ erlässt, auf Antrag des Gemeinderats und der Sachkommission für Bildung, Sozia
 
 #### § 28a
 
-<sup>1</sup> Die §§ 20 Abs. 1, 21 und 22 sowie die §§ 24 bis 26 und 28 gelten auch für die Fachpersonen Logopädie und Psychomotorik.
+<sup>1</sup> Die §§ 19a, 20 Abs. 1, 21 und 22 sowie die §§ 24 bis 26 und 28 gelten auch für die Fachpersonen Logopädie und Psychomotorik.
 
 ## V. Verschiedene Bestimmungen
 
