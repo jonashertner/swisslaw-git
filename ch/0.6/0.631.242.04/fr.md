@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: fr
-version: 2025-02-01
+version: 2025-06-12
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250612-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
 Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-(État le 1<sup>er</sup> février 2025)
+(État le 12 juin 2025)
 
 [^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -4623,11 +4623,11 @@ La liste des codes applicables est la suivante:
 <tr><td>En cas de dispense de garantie (art. 53 de l’appendice I)</td><td>0</td><td>– numéro de certificat de dispense de garantie</td></tr>
 <tr><td>En cas de garantie globale</td><td>1</td><td>– numéro de certificat de garantie globale – bureau de douane de garantie</td></tr>
 <tr><td>En cas de garantie isolée par caution</td><td>2</td><td>– référence de l’acte de cautionnement – bureau de douane de garantie</td></tr>
-<tr><td>En cas de garantie isolée en espèces</td><td>3</td><td>[tab]</td></tr>
+<tr><td>En cas de garantie isolée en espèces</td><td>3</td><td></td></tr>
 <tr><td>En cas de garantie isolée par titres</td><td>4</td><td>– numéro du titre de garantie isolée</td></tr>
-<tr><td>En cas de dispense de garantie (art. 11 de l’appendice I)</td><td>6</td><td>[tab]</td></tr>
-<tr><td>En cas de dispense de garantie sur la base d’un agrément (art. 10(2)(a) de la Convention)</td><td>A.</td><td>[tab]</td></tr>
-<tr><td>En cas de dispense de garantie pour le parcours entre le bureau de douane de départ et le bureau de douane de passage (art. 10(2)(b) de la Convention)</td><td>7</td><td>[tab]</td></tr>
+<tr><td>En cas de dispense de garantie (art. 11 de l’appendice I)</td><td>6</td><td></td></tr>
+<tr><td>En cas de dispense de garantie sur la base d’un agrément (art. 10(2)(a) de la Convention)</td><td>A.</td><td></td></tr>
+<tr><td>En cas de dispense de garantie pour le parcours entre le bureau de douane de départ et le bureau de douane de passage (art. 10(2)(b) de la Convention)</td><td>7</td><td></td></tr>
 <tr><td>En cas de garantie isolée du type repris sous le point 3 de l’annexe I de l’appendice I</td><td>9</td><td>– référence à l’acte de cautionnement – bureau de de douane de garantie</td></tr>
 </table>
 
@@ -4653,7 +4653,7 @@ Annexe A3 de l’appendice III
 
 ## Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image1.png)
 
 Annexe A4 de l’appendice III
 
@@ -5769,7 +5769,7 @@ Annexe B9 de l’appendice III
 
 ## Modèle d’un cachet spécial utilisé par un expéditeur agréé
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image2.png)
 
 - 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
 - 2\. Numéro de référence du bureau de douane de départ
@@ -5783,7 +5783,7 @@ Annexe B10 de l’appendice III
 ## TC 11 – RECEPISSE
 
 <table>
-<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ………… (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le ……………… (jj/mm/aa) sous le n<sup>o</sup> ……………… (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à ………………………… (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image3.png) Fait à ……………, le …………… (jj/mm/aa) …………………………………………………… (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ………… (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le ……………… (jj/mm/aa) sous le n<sup>o</sup> ……………… (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à ………………………… (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image3.png) Fait à ……………, le …………… (jj/mm/aa) …………………………………………………… (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
 </table>
 
 Annexe B11 de l’appendice III
@@ -5792,7 +5792,7 @@ Annexe B11 de l’appendice III
 
 (transit par chemin de fer)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image4.png)
 
 Annexe C1 de l’appendice III
 
@@ -5933,11 +5933,11 @@ Annexe C3 de l’appendice III
 
 *(Recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image5.png)
 
 *(Verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image6.png)
 
 Normes techniques applicables au titre
 
@@ -7941,7 +7941,7 @@ La présente annexe s’applique à partir des dates de déploiement de la mise 
 
 Modèle du document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image7.png)
 
 Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -8022,7 +8022,7 @@ La présente annexe s’applique à partir des dates de déploiement de la mise 
 
 Modèle de liste d’articles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/fr/xml/image/image8.png)
 
 Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -8991,7 +8991,7 @@ requérante désignée ci-dessus, demande par la présente l’obtention des ren
 <table>
 <tr><th colspan="4">Informations relatives à la personne concernée<sup>1</sup></th><th>Informations relatives à la ou aux créances</th><th colspan="3">Renseignements demandés</th></tr>
 <tr><td>a)</td><td>Nom et adresse</td><td>{</td><td>connus<sup>\*</sup> présumés<sup>1</sup></td><td>– Montant de la ou des créances (y compris éventuellement les intérêts et frais)</td><td colspan="3"></td></tr>
-<tr><td>b)</td><td colspan="3">Informations utiles concernant la personne désignée ci-dessus – débiteur principal – codébiteur – tiers débiteur</td><td>– Nature exacte de la ou des créances [tab] – Autres indications</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Informations utiles concernant la personne désignée ci-dessus – débiteur principal – codébiteur – tiers débiteur</td><td>– Nature exacte de la ou des créances – Autres indications</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Autres autorités requises</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Signature)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Cachet officiel)</td></tr>
@@ -9025,7 +9025,7 @@ requérante désignée ci-dessus, demande par la présente la notification, conf
 <table>
 <tr><th colspan="4">Informations relatives à la personne concernée<sup>1</sup></th><th>Informations relatives à la ou aux créances</th><th colspan="3">Renseignements demandés</th></tr>
 <tr><td>a)</td><td>Nom et adresse</td><td>{</td><td>connus<sup>\*</sup> présumés<sup>\*</sup></td><td>– Montant de la ou des créances (y compris éventuellement les intérêts et frais)</td><td colspan="3"></td></tr>
-<tr><td>b)</td><td colspan="3">Informations utiles concernant la personne désignée ci-dessus – débiteur principal – codébiteur – tiers débiteur</td><td>– Nature exacte de la ou des créances [tab] – Autres indications</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Informations utiles concernant la personne désignée ci-dessus – débiteur principal – codébiteur – tiers débiteur</td><td>– Nature exacte de la ou des créances – Autres indications</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Autres autorités requises</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Signature)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Cachet officiel)</td></tr>
@@ -9089,10 +9089,11 @@ requérante désignée ci-dessus, demande par la présente:
 <tr><td><sup>2</sup></td><td colspan="14">En cas de titre exécutoire global, indiquer le montant des créances de nature différente.</td></tr>
 </table>
 
-Champ d’application le 25 février 2021[^t-8]
+Champ d’application le 12 juin 2025[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Géorgie</td><td>19 décembre</td><td>2024 A</td><td>1<sup>er</sup> février</td><td>2025</td></tr>
 <tr><td>Islande <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Macédoine du Nord</td><td>28 mai</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
 <tr><td>Norvège <sup>a</sup></td><td>31 juillet</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
@@ -9100,8 +9101,9 @@ Champ d’application le 25 février 2021[^t-8]
 <tr><td>Serbie</td><td>9 décembre</td><td>2015 A</td><td>1<sup>er</sup> février</td><td>2016</td></tr>
 <tr><td>Suisse <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> décembre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>31 août</td><td>2022 A</td><td>1<sup>er</sup> octobre</td><td>2022</td></tr>
 <tr><td>Union européenne (UE) <sup>b</sup></td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
-<tr><td colspan="5"><sup>a</sup> Membre de l’AELE. <sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Union européenne: [www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015](https://www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Membre de l’AELE. <sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.</td></tr>
 </table>
 
-[^t-8]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-8]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129); [2025 406](https://fedlex.data.admin.ch/eli/oc/2025/406). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

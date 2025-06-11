@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2025-02-01
+version: 2025-06-12
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Testo originale
 
 Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-(Stato 1° febbraio 2025)
+(Stato 12 giugno 2025)
 
-[^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
+[^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv.La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
 
 La Repubblica d’Austria, la Repubblica di Finlandia, la Repubblica d’Islanda, il Regno di Norvegia, il Regno di Svezia, la Confederazione Svizzera (in seguito denominati «Paesi AELS») e la Comunità economica europea (in seguito denominata «Comunità»),
@@ -4663,11 +4663,11 @@ L’elenco dei codici da utilizzare è il seguente:
 <tr><td>In caso di esonero dalla garanzia (articolo 53 dell’appendice I)</td><td>0</td><td>– numero del certificato di esonero dalla garanzia</td></tr>
 <tr><td>In caso di garanzia globale</td><td>1</td><td>– numero del certificato di garanzia globale – ufficio doganale di garanzia</td></tr>
 <tr><td>In caso di garanzia isolata mediante fideiussione</td><td>2</td><td>– riferimento dell’atto costitutivo della garanzia – ufficio doganale di garanzia</td></tr>
-<tr><td>In caso di garanzia isolata in contanti</td><td>3</td><td>[tab]</td></tr>
+<tr><td>In caso di garanzia isolata in contanti</td><td>3</td><td></td></tr>
 <tr><td>In caso di garanzia isolata a mezzo di certificati</td><td>4</td><td>– numero del certificato di garanzia isolata</td></tr>
-<tr><td>In caso di esonero dalla garanzia (articolo 11 dell’appendice I)</td><td>6</td><td>[tab]</td></tr>
-<tr><td>In caso di esonero dalla garanzia sulla base di un accordo (articolo 10, paragrafo 2, lettera a) della Convenzione)</td><td>A.</td><td>[tab]</td></tr>
-<tr><td>In caso di esonero dalla garanzia per il percorso compreso fra l’ufficio doganale di partenza e l’ufficio doganale di passaggio (ar. 10, par. 2, lett. b) della Conv.)</td><td>7</td><td>[tab]</td></tr>
+<tr><td>In caso di esonero dalla garanzia (articolo 11 dell’appendice I)</td><td>6</td><td></td></tr>
+<tr><td>In caso di esonero dalla garanzia sulla base di un accordo (articolo 10, paragrafo 2, lettera a) della Convenzione)</td><td>A.</td><td></td></tr>
+<tr><td>In caso di esonero dalla garanzia per il percorso compreso fra l’ufficio doganale di partenza e l’ufficio doganale di passaggio (ar. 10, par. 2, lett. b) della Conv.)</td><td>7</td><td></td></tr>
 <tr><td>In caso di garanzia isolata del tipo di cui all’allegato I, punto 3, dell’appendice I</td><td>9</td><td>– riferimento dell’atto costitutivo della garanzia – ufficio doganale di garanzia</td></tr>
 </table>
 
@@ -4693,7 +4693,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -5810,7 +5810,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5824,7 +5824,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5833,7 +5833,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5974,11 +5974,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -7970,7 +7970,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -8051,7 +8051,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco di articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
@@ -9020,7 +9020,7 @@ richiedente designata qui sopra, richiede con la presente informazioni a norma d
 <table>
 <tr><th colspan="4">Informazioni relative alla persona interessata<sup>1</sup></th><th>Informazioni relative al credito o ai crediti</th><th colspan="3">Informazioni richieste</th></tr>
 <tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>\*</sup> presunto<sup>\*</sup></td><td>– Importo del credito o dei crediti (compresi eventuali interessi e spese</td><td colspan="3"></td></tr>
-<tr><td>b)</td><td colspan="3">Altre informazioni utili riguardanti la persona di cui sopra – debitore principale – co-debitore – terzo detentore</td><td>– Natura esatta del credito o dei crediti [tab] – Altre indicazioni</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Altre informazioni utili riguardanti la persona di cui sopra – debitore principale – co-debitore – terzo detentore</td><td>– Natura esatta del credito o dei crediti – Altre indicazioni</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Altre autorità adite</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Firma)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Timbro ufficiale)</td></tr>
@@ -9053,12 +9053,12 @@ richiedente designata qui sopra, richiede con la presente notifica, a norma dell
 
 <table>
 <tr><th colspan="4">Informazioni relative alla persona interessata<sup>1</sup></th><th>Natura e oggetto dell’atto o della decisione da notificare</th><th>Informazioni relative al credito o ai crediti</th><th colspan="3">Altre informazioni</th></tr>
-<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>\*</sup> presunto<sup>\*</sup></td><td>[tab]</td><td>– Importo del credito o dei crediti (compresi eventuali interessi e spese)</td><td colspan="3">[tab]</td></tr>
-<tr><td>b)</td><td colspan="3">Nome e indirizzo del debitore principale se diverso da quello del destinatario</td><td>[tab]</td><td>– Natura esatta del credito o dei crediti</td><td colspan="3"></td></tr>
+<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>\*</sup> presunto<sup>\*</sup></td><td></td><td>– Importo del credito o dei crediti (compresi eventuali interessi e spese)</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Nome e indirizzo del debitore principale se diverso da quello del destinatario</td><td></td><td>– Natura esatta del credito o dei crediti</td><td colspan="3"></td></tr>
 <tr><td>c)</td><td colspan="3">Altre informazioni</td><td></td><td>– Altre indicazioni</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">(Firma)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">(Timbro ufficiale)</td></tr>
-<tr><td colspan="6"><sup>\*</sup> Cancellare la menzione inutile.</td><td colspan="3">[tab]</td></tr>
+<tr><td colspan="6"><sup>\*</sup> Cancellare la menzione inutile.</td><td colspan="3"></td></tr>
 <tr><td colspan="6"><sup>1</sup> Persona fisica o giuridica.</td><td colspan="3"></td></tr>
 </table>
 
@@ -9116,16 +9116,16 @@ richiedente designata qui sopra, richiede con la presente:
 <tr><td></td><td colspan="9">– debitore principale – co-debitore – terzo detentore</td><td></td><td colspan="6">Importo delle spese sostenute fino al giorno della firma della presente<sup><sup>2</sup></sup></td><td></td><td colspan="3">Beni del debitore detenuti da una terza persona</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="6"></td><td></td><td colspan="2">Totale</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Firma)</td></tr>
 <tr><td colspan="10">Dettaglio dei documenti annessi</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Timbro ufficiale)</td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3"></td></tr>
 <tr><td colspan="21"><sup>\*</sup> Cancellare la menzione inutile.</td></tr>
 <tr><td colspan="21"><sup>1</sup> Persona fisica o giuridica.</td></tr>
 <tr><td colspan="21"><sup>2</sup> In caso di titolo esecutivo globale, indicare l’importo dei crediti di natura differente.</td></tr>
 </table>
 
-Campo d’applicazione il 25 febbraio 2021[^t-8]
+Campo d’applicazione il 12 giugno 2025[^t-8]
 
 <table>
-<tr><th>Statipartecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Georgia</td><td>19 dicembre</td><td>2024 A</td><td>1° febbraio</td><td>2025</td></tr>
 <tr><td>Islanda <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Macedonia del Nord</td><td>28 maggio</td><td>2015 A</td><td>1° luglio</td><td>2015</td></tr>
 <tr><td>Norvegia <sup>a</sup></td><td>31 luglio</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
@@ -9133,8 +9133,9 @@ Campo d’applicazione il 25 febbraio 2021[^t-8]
 <tr><td>Serbia</td><td>9 dicembre</td><td>2015 A</td><td>1° febbraio</td><td>2016</td></tr>
 <tr><td>Svizzera <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Turchia</td><td>1° dicembre</td><td>2012 A</td><td>1° dicembre</td><td>2012</td></tr>
+<tr><td>Ucraina\*</td><td>31 agosto</td><td>2022 A</td><td>1° ottobre</td><td>2022</td></tr>
 <tr><td>Unione europea <sup>b</sup></td><td>15 giugno</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
-<tr><td colspan="5"><sup>a</sup> Stato partecipante dell’AELS. <sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet del Consiglio dell’Unione europea: [www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015&DocLanguage=en](https://www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015&DocLanguage=en) oppure ottenuto preso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Stato partecipante dell’AELS. <sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
 </table>
 
-[^t-8]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-8]: [RU 1988 308](https://fedlex.data.admin.ch/eli/oc/1988/308_308_308); [2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129); [2025 406](https://fedlex.data.admin.ch/eli/oc/2025/406). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

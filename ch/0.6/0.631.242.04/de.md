@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Übereinkommen vom 20. Mai 1987 über ein gemeinsames Versandverfahren (mit Anlagen und Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: de
-version: 2025-02-01
+version: 2025-06-12
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20250612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20250612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 1. Februar 2025)
+(Stand am 12. Juni 2025)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink. Die Republik Polen, die Slowakische Republik, die Tschechische Republik und die Republik Ungarn sind dem Übereink. am 1. Juli 1996 beigetreten (AS **1996** 2508). Mit dem Beitritt zur Europäischen Union, sind diese vier Länder seit dem 1. Mai 2004 nicht mehr selbständige Vertragsparteien des Übereinkommens. Die Republik Kroatien ist dem Übereink. am 1. Juli 2012 beigetreten (AS **2013** 81), die Republik Türkei am 1. Dez. 2012 (AS **2013** 827), die ehemalige jugoslawische Republik Mazedonien (heute: Nordmazedonien) am 1. Juli 2015 (AS **2015** 5967) und die Republik Serbien am 1. Febr. 2016 (AS **2016** 535).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -2855,7 +2855,7 @@ Anlage III[^t-5]
 
 ## Versandanmeldung und Vordrucke bei Anwendung von Mitteln der elektronischen Datenverarbeitung
 
-[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)), gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022 ([AS 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)) und gemäss Art. 1 des Beschlusses Nr. 3/2024 des Gemischten Ausschusses vom 5. Nov. 2024, in Kraft für die Schweiz seit 1. Febr. 2025 (AS **202****5** 303). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1, C2, C4, C5 und C6 in der am 30. Nov. 2024 geltenden Fassung wiedergegebenen Vordrucke bis zum 30. Juni 2026 weiterverwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
+[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)), gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022 ([AS 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)) und gemäss Art. 1 des Beschlusses Nr. 3/2024 des Gemischten Ausschusses vom 5. Nov. 2024, in Kraft für die Schweiz seit 1. Febr. 2025 ([AS 2025 303](https://fedlex.data.admin.ch/eli/oc/2025/303)). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1, C2, C4, C5 und C6 in der am 30. Nov. 2024 geltenden Fassung wiedergegebenen Vordrucke bis zum 30. Juni 2026 weiterverwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
 
 #### Art. 1
 
@@ -4607,11 +4607,11 @@ Folgende Codes sind zu verwenden:
 <tr><td>Befreiung von der Sicherheitsleistung (Art. 53 Anlage I)</td><td>0</td><td>– Nummer der Bescheinigung über die Befreiung von der Sicherheitsleistung</td></tr>
 <tr><td>Gesamtbürgschaft</td><td>1</td><td>– Nummer der Bürgschaftsurkunde – Zollstelle der Bürgschaftsleistung</td></tr>
 <tr><td>Einzelsicherheit durch Bürgschaft</td><td>2</td><td>– Hinweis auf die Bürgschaftsurkunde – Zollstelle der Bürgschaftsleistung</td></tr>
-<tr><td>Einzelsicherheit in Form einer Barsicherheit</td><td>3</td><td>[tab]</td></tr>
+<tr><td>Einzelsicherheit in Form einer Barsicherheit</td><td>3</td><td></td></tr>
 <tr><td>Einzelsicherheit mit Sicherheitstiteln</td><td>4</td><td>– Nummer des Einzelsicherheitstitels</td></tr>
-<tr><td>Befreiung von der Sicherheitsleistung (Art. 11 Anlage I)</td><td>6</td><td>[tab]</td></tr>
-<tr><td>Befreiung von der Sicherheitsleistung ausgehend von einer Bewilligung (Art. 10 Abs. 2 Bst. a) des Übereinkommens)</td><td>A.</td><td>[tab]</td></tr>
-<tr><td>Befreiung von der Sicherheitsleistung für die Beförderung zwischen der Abgangszollstelle und der Durchgangszollstelle (Art. 10 Abs. 2 Bst. b) des Übereinkommens)</td><td>7</td><td>[tab]</td></tr>
+<tr><td>Befreiung von der Sicherheitsleistung (Art. 11 Anlage I)</td><td>6</td><td></td></tr>
+<tr><td>Befreiung von der Sicherheitsleistung ausgehend von einer Bewilligung (Art. 10 Abs. 2 Bst. a) des Übereinkommens)</td><td>A.</td><td></td></tr>
+<tr><td>Befreiung von der Sicherheitsleistung für die Beförderung zwischen der Abgangszollstelle und der Durchgangszollstelle (Art. 10 Abs. 2 Bst. b) des Übereinkommens)</td><td>7</td><td></td></tr>
 <tr><td>Einzelsicherheit gemäss Anhang I Nummer 3 der Anlage I</td><td>9</td><td>– Hinweis auf die Bürgschaftsurkunde – Zollstellen der Sicherheitsleistung</td></tr>
 </table>
 
@@ -4637,7 +4637,7 @@ Anhang A3 zu Anlage III
 
 ## Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image1.png)
 
 Anhang A4 zu Anlage III
 
@@ -5783,7 +5783,7 @@ Anhang B9 zu Anlage III
 
 ## Muster für den vom zugelassenen Versender zu verwendenden Sonderstempel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image2.png)
 
 - 1\. Wappen oder sonstige Zeichen oder Buchstaben des Landes
 - 2\. Kennnummer der Abgangszollstelle
@@ -5797,7 +5797,7 @@ Anhang B10 zu Anlage III
 ## Eingangsbescheinigung (TC 11)
 
 <table>
-<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
+<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
 </table>
 
 Anhang B11 zu Anlage III
@@ -5806,7 +5806,7 @@ Anhang B11 zu Anlage III
 
 (Versandverfahren im Eisenbahnverkehr)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image4.png)
 
 Anhang C1 zu Anlage III
 
@@ -5887,7 +5887,6 @@ Anmerkungen:
 - (9) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
 - (10) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
 - (11) Von der Zollstelle auszufüllen, bei der die Waren in das Verfahren oder die vorübergehende Verwahrung übergeführt wurden.
-- [tab]
 
 Anhang C2 zu Anlage III
 
@@ -5941,13 +5940,12 @@ Anmerkungen:
 - (4) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
 - (5) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
 - (6) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheitsleistung».
-- [tab]
 
 Anhang C3 zu Anlage III
 
 ## Einzelsicherheitstitel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image5.png)
 
 Technische Anforderungen an den Sicherheitstitel
 
@@ -6047,7 +6045,6 @@ Anmerkungen:
 - (10) Für Beträge, die in einer Zollanmeldung für die zur Endverwendung angemeldeten Waren angegeben wurden.
 - (11) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
 - (12) Vor der Unterschrift muss der Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
-- [tab]
 
 Anhang C5 zu Anlage III
 
@@ -7948,7 +7945,7 @@ Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879
 
 Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image6.png)
 
 Anhang A4a zu Anlage IIIa
 
@@ -8029,7 +8026,7 @@ Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879
 
 Muster der Liste der Warenpositionen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250201/de/xml/image/image7.png)»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20250612/de/xml/image/image7.png)»
 
 Anhang A6a zu Anlage IIIa
 
@@ -8998,7 +8995,7 @@ Anlage IV zu dem Übereinkommen als befugter Bediensteter der oben genannten ers
 <table>
 <tr><th colspan="4">Angabe zur Person<sup>1</sup></th><th>Angaben zu der (den) Forderung(en)</th><th colspan="3">Beantragte Auskünfte</th></tr>
 <tr><td>a)</td><td>Name und Anschrift</td><td>{</td><td>bekannte<sup>\*</sup> vermutliche<sup>\*</sup></td><td>– Betrag der Forderung bzw. Forderungen (ggf. einschliesslich Zinsen und Kosten)</td><td colspan="3"></td></tr>
-<tr><td>b)</td><td colspan="3">Sonstige sachdienliche Angaben – Hauptschuldner – Weitere Schuldner – Drittbesitzer</td><td>– Genaue Angaben der Art der Forderung(en) [tab] – Sonstige Angaben</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Sonstige sachdienliche Angaben – Hauptschuldner – Weitere Schuldner – Drittbesitzer</td><td>– Genaue Angaben der Art der Forderung(en) – Sonstige Angaben</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Weitere ersuchte Behörden</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Unterschrift)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Dienststempel)</td></tr>
@@ -9031,8 +9028,8 @@ Anlage IV zum Übereinkommen als berechtigter Bediensteter der oben genannten er
 
 <table>
 <tr><th colspan="4">Angabe zur Person<sup>1</sup></th><th>Art und Gegenstand der zuzustellenden Verfügung (oder Entscheidung)</th><th>Angaben zu der (den) Forderung(en)</th><th>Sonstige Angaben</th></tr>
-<tr><td>a)</td><td>Name und Anschrift</td><td>{</td><td>bekannte<sup>\*</sup> vermutliche<sup>\*</sup></td><td>[tab]</td><td>– Betrag der Forderung(en) einschliesslich gegebenenfalls der Zinsen und Kosten</td><td>[tab]</td></tr>
-<tr><td>b)</td><td colspan="3">Name und Anschrift des Hauptschuldners, sofern dieser nicht zugleich der Zustellungsempfänger ist</td><td>[tab]</td><td>– Genaue Angaben der Art der Forderung(en)</td><td></td></tr>
+<tr><td>a)</td><td>Name und Anschrift</td><td>{</td><td>bekannte<sup>\*</sup> vermutliche<sup>\*</sup></td><td></td><td>– Betrag der Forderung(en) einschliesslich gegebenenfalls der Zinsen und Kosten</td><td></td></tr>
+<tr><td>b)</td><td colspan="3">Name und Anschrift des Hauptschuldners, sofern dieser nicht zugleich der Zustellungsempfänger ist</td><td></td><td>– Genaue Angaben der Art der Forderung(en)</td><td></td></tr>
 <tr><td>c)</td><td colspan="3">Sonstige Angaben</td><td></td><td>– Sonstige Angaben</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>(Unterschrift)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>(Dienststempel)</td></tr>
@@ -9096,19 +9093,21 @@ teter der oben genannten ersuchenden Behörde
 <tr><td><sup>2</sup></td><td colspan="14">Sofern es sich um einen globalen Vollstreckungstitel handelt, sind die Forderungsbeträge getrennt nach Forderungen aufzuführen.</td></tr>
 </table>
 
-Geltungsbereich am 25. Februar 2021[^t-8]
+Geltungsbereich am 12. Juni 2025[^t-8]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Europäische Union <sup>a</sup></td><td>15. Juni</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Georgien</td><td>19. Dezember</td><td>2024 B</td><td>1. Februar</td><td>2025</td></tr>
 <tr><td>Island <sup>b</sup></td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Nordmazedonien</td><td>28. Mai</td><td>2015 B</td><td>1. Juli</td><td>2015</td></tr>
 <tr><td>Norwegen <sup>b</sup></td><td>31. Juli</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Schweiz <sup>b</sup></td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Serbien</td><td>9. Dezember</td><td>2015 B</td><td>1. Februar</td><td>2016</td></tr>
 <tr><td>Türkei</td><td>1. Dezember</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>31. August</td><td>2022 B</td><td>1. Oktober</td><td>2022</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>1. Januar</td><td>2021 B</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td colspan="5"><sup>a</sup> Mitglieder der Europäischen Union: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Kroatien, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Zypern. <sup>b</sup> Mitglied der EFTA.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Rates der Europäischen Union: [www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015](https://www.consilium.europa.eu/de/documents/treaties-agreements/agreement/?id=1987015) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Mitglieder der Europäischen Union: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Kroatien, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Zypern. <sup>b</sup> Mitglied der EFTA.</td></tr>
 </table>
 
-[^t-8]: [AS 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-8]: Diese Veröffentlichung ergänzt die früheren in [AS 1988 308](https://fedlex.data.admin.ch/eli/oc/1988/308_308_308); [2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129); [2025 406](https://fedlex.data.admin.ch/eli/oc/2025/406). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
