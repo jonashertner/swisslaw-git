@@ -3,13 +3,12 @@ canton: TG
 number: "414.27"
 title: Personalreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2023-06-01
-valid_until: 2025-06-13
-version_adopted: 2023-05-08
+version: 2025-06-14
+version_adopted: 2025-05-05
 adopted: 2018-09-03
 in_force: 2019-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.27"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2663/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2663/pdf_file"
 
 Personalreglement PHTG
 
-vom 03.09.2018 (Stand 01.06.2023)
+vom 03.09.2018 (Stand 14.06.2025)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 3 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -199,7 +198,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Probezeit**
 
-<sup>1</sup> Für Dozenten und Dozentinnen sowie für Lehrbeauftragte gilt keine Probezeit.
+<sup>1</sup> Die Probezeit für Dozenten und Dozentinnen sowie für Lehrbeauftragte beträgt sechs Monate. Sie kann durch Vereinbarung verkürzt oder wegbedungen werden.
 
 <sup>2</sup> Die Probezeit für Wissenschaftliche Mitarbeiter und Mitarbeiterinnen sowie für Wissenschaftliche Assistenten und Assistentinnen beträgt drei Monate. Sie kann durch Vereinbarung verkürzt oder wegbedungen werden.
 
@@ -217,7 +216,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Beendigung bei Dozenten und Dozentinnen sowie Lehrbeauftragten**
 
-<sup>1</sup> Unter Vorbehalt abweichender Vereinbarungen können Anstellungsverhältnisse von Dozenten und Dozentinnen sowie Lehrbeauftragten beidseitig nur auf Ende Januar oder Ende Juli aufgelöst werden.
+<sup>1</sup> Nach Ablauf der Probezeit und unter Vorbehalt abweichender Vereinbarungen können Anstellungsverhältnisse von Dozenten und Dozentinnen sowie Lehrbeauftragten beidseitig nur auf Ende Januar oder Ende Juli aufgelöst werden.
 
 <sup>2</sup> Unter Vorbehalt abweichender Vereinbarungen beträgt die Kündigungsfrist für Dozenten und Dozentinnen sechs Monate und für Lehrbeauftragte drei Monate.
 
