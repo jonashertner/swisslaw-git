@@ -3,13 +3,12 @@ canton: TG
 number: "414.28"
 title: Geschäftsreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2023-05-01
-valid_until: 2025-06-13
-version_adopted: 2023-03-27
+version: 2025-06-14
+version_adopted: 2025-05-05
 adopted: 2004-08-16
 in_force: 2004-09-25
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.28"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2650/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2650/pdf_file"
 
 Geschäftsreglement PHTG
 
-vom 16.08.2004 (Stand 01.05.2023)
+vom 16.08.2004 (Stand 14.06.2025)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 2 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -127,13 +126,13 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Konvent**
 
-<sup>1</sup> Das gesamte Akademische Personal der PHTG (Dozenten und Dozentinnen, Lehrbeauftragte, Wissenschaftliche Mitarbeiter und Mitarbeiterinnen sowie Wissenschaftliche Assistenten und Assistentinnen) bildet den Konvent.
+<sup>1</sup> Die Gesamtheit der Mitarbeitenden bildet den Konvent.
 
-<sup>2</sup> Der Konvent kann sich zu grundlegenden Fragen des Hochschulbetriebs im Namen des Akademischen Personals vernehmen lassen und in diesen Belangen Anträge stellen.
+<sup>2</sup> Der Konvent dient der Information, dem Austausch und der Meinungsbildung zu Themen der Hochschulentwicklung.
 
-<sup>3</sup> Die Hochschulleitung unterbreitet dem Konvent vor Beschlussfassung von oder Antragstellung an Hochschulrat oder Hochschulleitung grundlegende Fragen des Hochschulbetriebs, die das Akademische Personal betreffen.
+<sup>3</sup> Der Konvent kann Empfehlungen zu den Traktanden der Sitzungen formulieren. Die Hochschulleitung bezieht zu den Empfehlungen in geeigneter Form Stellung.
 
-<sup>4</sup> Die Versammlung der Studenten und Studentinnen stellt eine Vertretung im Konvent.
+<sup>4</sup> Die Gesamtheit der immatrikulierten Studierenden stellt eine durch deren Vorsitz delegierte Vertretung im Konvent.
 
 #### § 10
 
@@ -141,11 +140,11 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Leitung des Konvents obliegt einem Mitglied der Hochschulleitung.
 
-<sup>2</sup> Der Konvent versammelt sich auf Einladung der Leitung des Konvents oder auf Begehren eines Fünftels seiner Mitglieder.
+<sup>2</sup> Der Konvent trifft sich auf Einladung der Hochschulleitung zu seinen Sitzungen.
 
-<sup>3</sup> Mitarbeitende der PHTG, die nicht Mitglied des Konvents sind, können grundsätzlich als Gäste am Konvent teilnehmen.
+<sup>3</sup> …
 
-<sup>4</sup> Der Konvent gibt sich eine von der Hochschulleitung zu genehmigende Geschäftsordnung, die sich auch zu den Rechten und Pflichten der Vertretung der Studenten und Studentinnen äussert.
+<sup>4</sup> Der Konvent gibt sich eine von der Hochschulleitung zu genehmigende Geschäftsordnung.
 
 #### § 11
 
