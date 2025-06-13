@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2025-01-01
+version: 2025-06-14
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 1° gennaio 2025)[^t-2]
+del 14 ottobre 2012 (Stato 14 giugno 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -739,14 +739,16 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 Può chiedere al Consiglio comunale di deliberare su un oggetto determinato:
 
 - a) il 10 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
-- b) il 5 per cento dei titolari dei diritti politici, ma almeno 300 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
-- c) il 3 per cento dei titolari dei diritti politici, ma almeno 1800 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^71-1]
+- b)[^71-1] il 5 per cento dei titolari dei diritti politici, ma almeno 500 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
+- c)[^71-2] il 3 per cento dei titolari dei diritti politici, ma almeno 1500 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^71-3]
 
 <sup>2</sup> La legge definisce gli ambiti in cui può essere esercitato il diritto di iniziativa.
 
 <sup>3</sup> Sono applicabili gli articoli 58 e 59.
 
-[^71-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^71-1]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 14 giu. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-2]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 14 giu. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-3]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -809,12 +811,14 @@ Se il corpo elettorale accetta un’iniziativa o un controprogetto non elaborati
 Le delibere dei Consigli comunali sono sottoposte al voto del corpo elettorale comunale quando il referendum è chiesto dal:
 
 - a) 10 per cento dei titolari dei diritti politici nei Comuni con meno di 5000 titolari dei diritti politici;
-- b) 5 per cento dei titolari dei diritti politici, ma almeno 300 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
-- c) 3 per cento dei titolari dei diritti politici, ma almeno 1800 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^77-1]
+- b)[^77-1] 5 per cento dei titolari dei diritti politici, ma almeno 500 di loro, nei Comuni in cui si contano da 5000 a 30 000 titolari dei diritti politici;
+- c)[^77-2] 3 per cento dei titolari dei diritti politici, ma almeno 1500 e al massimo 2400 di loro, nei Comuni con più di 30 000 titolari dei diritti politici.[^77-3]
 
 <sup>2</sup> È applicabile l’articolo 68.
 
-[^77-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^77-1]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 14 giu. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-2]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 14 giu. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-3]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
@@ -1789,14 +1793,14 @@ Le autorità cantonali si oppongono con ogni mezzo di cui dispongono e nei limit
 
 #### Art. 174A
 
-**Servizio ginevrino per il mantenimento a domicilio (IMAD)[^174A-2]**[^174A-1]
+**Servizio ginevrino per il mantenimento a domicilio (IMAD)[^174-2]**[^174-1]
 
 <sup>1</sup> Il Servizio ginevrino per il mantenimento a domicilio (IMAD) è un ente di diritto pubblico che fornisce prestazioni in favore del mantenimento a domicilio e dell’autonomia delle persone.
 
 <sup>2</sup> Il disavanzo d’esercizio di tale servizio è coperto da una sovvenzione iscritta ogni anno nel preventivo dello Stato.
 
-[^174A-1]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^174A-2]: La designazione dell’unità amministrative è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^174-1]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174-2]: La designazione dell’unità amministrative è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 174
 

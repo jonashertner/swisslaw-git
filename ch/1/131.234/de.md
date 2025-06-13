@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2025-01-01
+version: 2025-06-14
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 1. Januar 2025)[^t-2]
+vom 14. Oktober 2012 (Stand am 14. Juni 2025)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -739,14 +739,16 @@ Gegen das jährliche Gesetz über die Ausgaben und Einnahmen als Ganzes kann kei
 Vom Gemeinderat die Beratung eines bestimmten Gegenstands verlangen können:
 
 - a. 10 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
-- b. 5 Prozent, aber mindestens 300 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
-- c. 3 Prozent, aber mindestens 1800 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^71-1]
+- b.[^71-1] 5 Prozent, aber mindestens 500 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
+- c.[^71-2] 3 Prozent, aber mindestens 1500 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^71-3]
 
 <sup>2</sup> Das Gesetz bestimmt die Bereiche, in denen das Initiativrecht ausgeübt werden kann.
 
 <sup>3</sup> Die Artikel 58 und 59 sind anwendbar.
 
-[^71-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^71-1]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 14. Juni 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-2]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 14. Juni 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-3]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -809,12 +811,14 @@ Wenn die Stimmberechtigten eine Initiative oder einen nicht ausformulierten Gege
 Beschlüsse der Gemeinderäte sind den Stimmberechtigten der Gemeinde zur Abstimmung zu unterbreiten, wenn das Referendum ergriffen wird von:
 
 - a. 10 Prozent der Stimmberechtigten in den Gemeinden mit weniger als 5000 Stimmberechtigten;
-- b. 5 Prozent, aber mindestens 300 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
-- c. 3 Prozent, aber mindestens 1800 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^77-1]
+- b.[^77-1] 5 Prozent, aber mindestens 500 der Stimmberechtigten in den Gemeinden mit 5000 bis 30 000 Stimmberechtigten;
+- c.[^77-2] 3 Prozent, aber mindestens 1500 und höchstens 2400 der Stimmberechtigten in den Gemeinden mit mehr als 30 000 Stimmberechtigten.[^77-3]
 
 <sup>2</sup> Artikel 68 ist anwendbar.
 
-[^77-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^77-1]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 14. Juni 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-2]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 14. Juni 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-3]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 

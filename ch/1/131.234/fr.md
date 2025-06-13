@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2025-01-01
+version: 2025-06-14
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 1<sup>er</sup> janvier 2025)[^t-1]
+du 14 octobre 2012 (État le 14 juin 2025)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -736,14 +736,16 @@ Le référendum est exclu contre la loi annuelle sur les dépenses et les recett
 Peuvent demander au conseil municipal de délibérer sur un objet déterminé:
 
 - a) 10 % des titulaires des droits politiques dans les communes de moins de 5000 titulaires des droits politiques;
-- b) 5 % des titulaires des droits politiques, mais au moins 300 d’entre eux, dans les communes de 5000 à 30 000 titulaires des droits politiques;
-- c) 3 % des titulaires des droits politiques, mais au moins 1800 et au plus 2400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.[^71-1]
+- b)[^71-1] 5 % des titulaires des droits politiques, mais au moins 500 d’entre eux, dans les communes de 5000 à 30 000 titulaires des droits politiques;
+- c)[^71-2] 3 % des titulaires des droits politiques, mais au moins 1500 et au plus 2400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.[^71-3]
 
 <sup>2</sup> La loi définit les matières dans lesquelles le droit d’initiative peut s’exercer.
 
 <sup>3</sup> Les art. 58 et 59 sont applicables.
 
-[^71-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^71-1]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 14 juin 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-2]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 14 juin 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^71-3]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -806,12 +808,14 @@ Si le corps électoral accepte une initiative ou un contreprojet non formulé, l
 Les délibérations des conseils municipaux sont soumises au corps électoral communal si le référendum est demandé par:
 
 - a) 10 % des titulaires des droits politiques dans les communes de moins de 5000 titulaires des droits politiques;
-- b) 5 % des titulaires des droits politiques, mais au moins 300 d’entre eux, dans les communes de 5000 à 30 000 titulaires des droits politiques;
-- c) 3 % des titulaires des droits politiques, mais au moins 1800 et au plus 2400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.[^77-1]
+- b)[^77-1] 5 % des titulaires des droits politiques, mais au moins 500 d’entre eux, dans les communes de 5000 à 30 000 titulaires des droits politiques;
+- c)[^77-2] 3 % des titulaires des droits politiques, mais au moins 1500 et au plus 2400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.[^77-3]
 
 <sup>2</sup> L’art. 68 est applicable.
 
-[^77-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^77-1]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 14 juin 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-2]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 14 juin 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^77-3]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
