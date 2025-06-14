@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2025-05-15
+version: 2025-06-15
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250515/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250515-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 15 maggio 2025)
+del 17 giugno 2005 (Stato 15 giugno 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -309,13 +309,16 @@ Il giudice dell’istruzione decide quale giudice unico circa:
 
 Sono fatte salve le competenze particolari del giudice unico secondo:
 
-- a. l’articolo 111 capoverso 2 lettera c della legge del 26 giugno 1998[^23-1] sull’asilo;
-- b. gli articoli 29, 31 e 41 della legge federale del 25 settembre 2015[^23-2] sulle attività informative (LAIn);
-- c. le leggi federali in materia di assicurazioni sociali.[^23-3]
+- a.[^23-1] l’articolo 111 della legge del 26 giugno 1998[^23-2] sull’asilo;
+- b. la non entrata nel merito di impugnazioni manifestamente inammissibili;
+- c. le leggi federali in materia di assicurazioni sociali;
+- d.[^23-3] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-4] sugli stranieri e la loro integrazione. [^23-5]
 
-[^23-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^23-3]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/de)](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^23-3]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^23-5]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 

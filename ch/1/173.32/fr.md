@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2025-05-15
+version: 2025-06-15
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250515/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250515-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/fr"
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (État le 15 mai 2025)
+du 17 juin 2005 (État le 15 juin 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -311,13 +311,17 @@ Le juge instructeur statue en tant que juge unique sur:
 
 Les compétences particulières du juge unique fondées sur les dispositions suivantes sont réservées:
 
-- a. l’art. 111, al. 2, let. c, de la loi du 26 juin 1998 sur l’asile[^23-1];
-- b. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^23-2];
-- c. les lois fédérales d’assurances sociales.[^23-3]
+- a.[^23-1] l’art. 111 de la loi du 26 juin 1998 sur l’asile[^23-2];
+- b. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^23-3];
+- c. les lois fédérales d’assurances sociales;
+- d.[^23-4] l’art. 108*d*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-5].[^23-6]
 
-[^23-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^23-3]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); FF **202****2** 1449).
+[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/fr)](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^23-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^23-4]: Introduite par l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^23-6]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 

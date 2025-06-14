@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2025-05-15
+version: 2025-06-15
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250515/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250515-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250515/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 15. Mai 2025)
+vom 17. Juni 2005 (Stand am 15. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -309,13 +309,17 @@ Der Instruktionsrichter oder die Instruktionsrichterin entscheidet als Einzelric
 
 Vorbehalten bleiben die besonderen Zuständigkeiten des Einzelrichters beziehungsweise der Einzelrichterin nach:
 
-- a. Artikel 111 Absatz 2 Buchstabe c des Asylgesetzes vom 26. Juni 1998[^23-1];
-- b. den Artikeln 29, 31 und 41 des Nachrichtendienstgesetzes vom 25. September 2015[^23-2] (NDG);
-- c. den Bundesgesetzen über die Sozialversicherung.[^23-3]
+- a.[^23-1] Artikel 111 des Asylgesetzes vom 26. Juni 1998[^23-2];
+- b. den Artikeln 29, 31 und 41 des Nachrichtendienstgesetzes vom 25. September 2015[^23-3] (NDG);
+- c. den Bundesgesetzen über die Sozialversicherung;
+- d.[^23-4] Artikel 108*d*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-5].[^23-6]
 
-[^23-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^23-3]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^23-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^23-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^23-6]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
