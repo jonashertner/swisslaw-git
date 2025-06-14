@@ -3,22 +3,21 @@ canton: BS
 number: "569.500"
 title: Plakatverordnung
 language: de
-version: 2020-02-20
-valid_until: 2025-06-14
-version_adopted: 2020-02-11
+version: 2025-06-15
+version_adopted: 2025-06-10
 adopted: 1933-02-07
 in_force: 1933-02-07
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/569.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6174/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6610/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Plakatverordnung
 
-Plakatverordnung | Sonstige Gewerbe
+Sonstige Gewerbe
 
-Vom 7. Februar 1933 (Stand 20. Februar 2020)
+Vom 7. Februar 1933 (Stand 15. Juni 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -120,16 +119,14 @@ beschliesst:
 
 <sup>1</sup> Die für die Kontrolle der Plakatinhalte zuständige Behörde nimmt Rücksprache mit anderen Fachstellen. Insbesondere nimmt sie Rücksprache mit
 
-- a) der Stelle «Integration Basel»[^8-1] bei Plakaten mit möglicherweise rassistischem Inhalt;
-- b) dem Gleichstellungsbüro[^8-2] bei Plakaten mit möglicherweise Geschlechter diskriminierendem Inhalt;
+- a) der Fachstelle für Integration und Rassismus bei Plakaten mit möglicherweise rassistischem Inhalt;
+- b) der Fachstelle für Gleichstellung bei Plakaten mit möglicherweise Geschlechter diskriminierendem Inhalt;
 - c) der Abteilung Verkehr der Polizei bei Plakaten mit möglicherweise die öffentliche Sicherheit und Ordnung, insbesondere die Verkehrssicherheit gefährdendem Inhalt;
-- d) dem Bereich Gesundheitsschutz[^8-3] bei Plakaten mit möglicherweise der Gesetzgebung über Lebensmittel und Gebrauchsgegenstände widersprechendem Inhalt;
-- e) dem Bereich Gesundheitsdienste[^8-4] bei Plakaten mit möglicherweise der Gesetzgebung über Heilmittel widersprechendem Inhalt.
+- d) dem Bereich Gesundheitsschutz[^8-1] bei Plakaten mit möglicherweise der Gesetzgebung über Lebensmittel und Gebrauchsgegenstände widersprechendem Inhalt;
+- e) dem Bereich Gesundheitsdienste[^8-2] bei Plakaten mit möglicherweise der Gesetzgebung über Heilmittel widersprechendem Inhalt.
 
-[^8-1]: Statt «Integration Basel» neu: Fachstelle Integration und Antirassismus (Entscheid des Präsidialdepartements vom März 2023).
-[^8-2]: § 8 lit. b: Die Bezeichnung lautet ab 1. April 2024 «Fachstelle Gleichstellung» (Entscheid des Präsidialdepartements vom März 2024).
-[^8-3]: § 8 Abs. 1 lit. d): Umbenennung «Bereich Gesundheitsschutz» in «Kantonales Laboratorium» gemäss RRB vom 22. 12. 2015.
-[^8-4]: § 8 Abs. 1 lit. e): Umbenennung «Bereich Gesundheitsdienste» in «Medizinische Dienste» gemäss RRB vom 22. 12. 2015.
+[^8-1]: § 8 Abs. 1 lit. d): Umbenennung «Bereich Gesundheitsschutz» in «Kantonales Laboratorium» gemäss RRB vom 22. 12. 2015.
+[^8-2]: § 8 Abs. 1 lit. e): Umbenennung «Bereich Gesundheitsdienste» in «Medizinische Dienste» gemäss RRB vom 22. 12. 2015.
 
 #### § 9
 
