@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2025-05-28
+version: 2025-06-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250528/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250528-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250528/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 28 mai 2025)
+du 16 décembre 2005 (État le 15 juin 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -92,22 +92,27 @@ La présente loi règle l’entrée en Suisse et la sortie de Suisse, le séjour
 
 Pour entrer en Suisse, tout étranger doit:
 
-- a. avoir une pièce de légitimation reconnue pour le passage de la frontière et être muni d’un visa si ce dernier est requis;
+- a.[^5-1] avoir une pièce de légitimation reconnue pour le passage de la frontière;
+- a<sup>bis</sup>.[^5-2] avoir un visa au sens du règlement (CE) n<sup>o</sup> 810/2009[^5-3] ou une autorisation de voyage au sens du règlement (UE) 2018/1240[^5-4] (autorisation de voyage ETIAS) si un tel document est requis;
 - b. disposer des moyens financiers nécessaires à son séjour;
 - c. ne représenter aucune menace pour la sécurité et l’ordre publics ni pour les relations internationales de la Suisse;
-- d.[^5-1] ne pas faire l’objet d’une mesure d’éloignement ou d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^5-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^5-3].
+- d.[^5-5] ne pas faire l’objet d’une mesure d’éloignement ou d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^5-6] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^5-7].
 
 <sup>2</sup> S’il prévoit un séjour temporaire, il doit apporter la garantie qu’il quittera la Suisse.
 
-<sup>3</sup> Le Conseil fédéral peut prévoir des exceptions aux conditions d’entrée prévues à l’al. 1 pour des motifs humanitaires ou d’intérêt national ou en raison d’obligations internationales.[^5-4]
+<sup>3</sup> Le Conseil fédéral peut prévoir des exceptions aux conditions d’entrée prévues à l’al. 1 pour des motifs humanitaires ou d’intérêt national ou en raison d’obligations internationales.[^5-8]
 
-<sup>4</sup> Le Conseil fédéral désigne les pièces de légitimation reconnues pour le passage de la frontière.[^5-5]
+<sup>4</sup> Le Conseil fédéral désigne les pièces de légitimation reconnues pour le passage de la frontière.[^5-9]
 
-[^5-1]: Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^5-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^5-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^5-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^5-5]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^5-2]: Introduite par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^5-3]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 188 du 12.7.2019, p. 25.
+[^5-4]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^5-5]: Nouvelle teneur selon le ch. IV 3 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^5-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^5-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^5-8]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^5-9]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 
 #### Art. 6
 
@@ -143,8 +148,8 @@ Pour entrer en Suisse, tout étranger doit:
 [^7-2]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, JO L 295 du 14.11.2019, p. 1.
 [^7-3]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^7-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/2225, JO L 327 du 9.12.2017, p. 1.
-[^7-6]: Nouvelle teneur selon l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2019/817, JO L 135 du 22.5.2019, p. 27.
+[^7-6]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^7-7]: Introduit par l’art. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du code frontières Schengen ([RO 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. b; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
@@ -160,6 +165,30 @@ Pour entrer en Suisse, tout étranger doit:
 <sup>1</sup> Les cantons exercent le contrôle des personnes sur leur territoire.
 
 <sup>2</sup> Le Conseil fédéral règle en accord avec les cantons frontaliers le contrôle des personnes par la Confédération dans la zone frontalière.
+
+#### Art. 9a
+
+**Surveillance de l’arrivée à l’aéroport**[^9a-1]
+
+<sup>1</sup>
+
+L’arrivée des passagers à l’aéroport peut être surveillée par des moyens techniques de reconnaissance. Les autorités chargées du contrôle à la frontière (art. 7 et 9) utilisent les données recueillies dans les buts suivants:[^9a-2]
+
+- a. établir quelle entreprise de transport aérien a transporté l’étranger qui ne remplit pas les conditions d’entrée et quel était le lieu d’embarquement;
+- b. procéder pour toute personne entrant en Suisse à une comparaison avec les données enregistrées dans les systèmes de recherche.
+
+<sup>2</sup> Les autorités compétentes avertissent le SRC si, lors de la surveillance effectuée selon l’al. 1, elles constatent qu’un étranger représente une menace concrète pour la sécurité intérieure et extérieure de la Suisse. Elles sont autorisées à transmettre les données pertinentes.[^9a-3]
+
+<sup>3</sup> Les données recueillies sont effacées dans les 30 jours. Le Conseil fédéral peut prévoir un délai plus long pour les données utilisées dans une procédure pendante relevant du droit pénal, du droit des étrangers ou du droit d’asile.
+
+<sup>4</sup> La Confédération peut verser aux cantons sur le territoire desquels se trouve un aéroport international des contributions à la couverture des frais de surveillance au sens de l’al. 1.
+
+<sup>5</sup> Le Conseil fédéral détermine les spécificités indispensables à un système de reconnaissance des visages, fixe les détails de la procédure de surveillance et arrête les modalités de transmission des informations au SRC.[^9a-4]
+
+[^9a-1]: Anciennement art. 103.
+[^9a-2]: Nouvelle teneur de la phrase selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
+[^9a-3]: Nouvelle teneur selon le ch. I 2 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^9a-4]: Nouvelle teneur selon le ch. I 2 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
 ## Chapitre 4 Autorisation et déclaration
 
@@ -1423,7 +1452,7 @@ L’autorité compétente inscrit dans le système d’information Schengen (SIS
 - c. une expulsion prononcée conformément aux art. 66*a* ou 66*a*<sup>bis</sup> CP[^68a-2] ou 49*a* ou 49*a*<sup>bis</sup> du CPM[^68a-3], lors du prononcé de l’ordre exécution;
 - d. un renvoi assorti d’un ordre d’exécution conformément aux art. 44 et 45 LAsi[^68a-4].
 
-<sup>2</sup> L’autorité compétente inscrit dans le SIS les données des ressortissants d’États tiers faisant l’objet d’une interdiction d’entrée au sens des art. 67 et 68, al. 3, ou d’une expulsion pénale, pour autant que les conditions du règlement (UE) 2018/1861[^68a-5] soient remplies.
+<sup>2</sup> L’autorité compétente inscrit dans le SIS les données des ressortissants d’États tiers faisant l’objet d’une interdiction d’entrée au sens des art. 67 et 68, al. 3, ou d’une expulsion pénale, pour autant que les conditions du règlement (UE) 2018/1861[^68a-5] soient remplies.[^68a-6]
 
 <sup>3</sup> Le SEM peut fournir au SIS les données biométriques disponibles dans le système automatique d’identification des empreintes digitales prévu à l’art. 354 CP (AFIS) ou dans le SYMIC. La livraison des données peut être automatisée.
 
@@ -1437,7 +1466,8 @@ L’autorité compétente inscrit dans le système d’information Schengen (SIS
 [^68a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^68a-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^68a-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^68a-5]: Règlement (UE) 2018/1861 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006, version du JO L 312 du 7.12.2018, p. 14.
+[^68a-5]: Règlement (UE) 2018/1861 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006, version du JO L 312 du 7 décembre 2018, p. 14; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^68a-6]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 68b
 
@@ -1494,10 +1524,11 @@ Les signalements aux fins de non-admission et d’interdiction de séjour en ver
 
 <sup>1</sup> Les données du SIS et les informations supplémentaires y afférentes ne peuvent pas être transmises à des États tiers, à des organisations internationales, à des entités privées ou à des personnes physiques.
 
-<sup>2</sup> Le SEM peut transmettre ces données et informations à un État tiers lorsqu’il s’agit d’identifier, dans le cadre du retour, un ressortissant d’un État tiers en séjour irrégulier en Suisse, ou d’établir un document de voyage ou une pièce de légitimation, pour autant que l’État qui a émis le signalement ait donné son accord et que les conditions prévues par l’art. 15 du règlement (UE) 2018/1860[^68e-2] soient remplies.
+<sup>2</sup> Le SEM peut transmettre ces données et informations à un État tiers lorsqu’il s’agit d’identifier, dans le cadre du retour, un ressortissant d’un État tiers en séjour irrégulier en Suisse, ou d’établir un document de voyage ou une pièce de légitimation, pour autant que l’État qui a émis le signalement ait donné son accord et que les conditions prévues par l’art. 15 du règlement (UE) 2018/1860[^68e-2] soient remplies.[^68e-3]
 
 [^68e-1]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68e-2]: Règlement (UE) 2018/1860 du Parlement européen et du Conseil du 28 novembre 2018 relatif à l’utilisation du système d’information Schengen aux fins du retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 312 du 7.12.2018, p. 1.
+[^68e-2]: Règlement (UE) 2018/1860 du Parlement européen et du Conseil du 28 novembre 2018 relatif à l’utilisation du système d’information Schengen aux fins du retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 312 du 7.12.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^68e-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 ### Section 4 Exécution du renvoi ou de l’expulsion et interventions internationales en matière de retour
 
@@ -2254,11 +2285,65 @@ L’étranger et les tiers participant à une procédure prévue par la présent
 
 **Devoir de diligence**[^92-1]
 
-<sup>1</sup> L’entreprise de transport aérien est tenue de prendre toutes les dispositions raisonnablement exigibles pour ne transporter que les personnes disposant des documents de voyage, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports.
+<sup>1</sup> L’entreprise de transport aérien est tenue de prendre toutes les dispositions raisonnablement exigibles pour ne transporter que les personnes disposant des documents de voyage, autorisations de voyage ETIAS, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports.[^92-2]
 
 <sup>2</sup> Le Conseil fédéral règle l’étendue du devoir de diligence.
 
 [^92-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^92-2]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+
+#### Art. 92a
+
+**Obligation des entreprises de transport aérien de communiquer des données personnelles**[^92a-1]
+
+<sup>1</sup> Afin d’améliorer le contrôle à la frontière et de lutter contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports, le SEM peut, à la demande des autorités chargées du contrôle à la frontière, contraindre une entreprise de transport aérien à lui communiquer les données relatives à certains vols et les données personnelles des passagers de ces vols, ou à les communiquer à l’autorité chargée du contrôle à la frontière.[^92a-2]
+
+<sup>1bis</sup>
+
+Le SEM peut étendre l’obligation de communiquer des données à d’autres vols:
+
+- a. à la demande de fedpol: afin de lutter contre la criminalité internationale organisée et le terrorisme;
+- b. à la demande du SRC: afin de prévenir les menaces que représentent pour la sûreté intérieure ou extérieure le terrorisme, l’espionnage et les actes préparatoires relatifs au commerce illicite d’armes et de substances radioactives ainsi que ceux relatifs au transfert illégal de technologie.[^92a-3]
+
+<sup>1ter</sup> Ces données doivent être transmises immédiatement après le décollage.[^92a-4]
+
+<sup>2</sup>
+
+La décision ordonnant l’obligation de communiquer précise:
+
+- a. les aéroports ou États de départ;
+- b. les catégories de données énumérées à l’al. 3;
+- c. les détails techniques relatifs à la transmission des données.
+
+<sup>3</sup>
+
+L’obligation de communiquer s’applique aux catégories de données suivantes:
+
+- a. l’identité des passagers (nom, prénom, sexe, date de naissance, nationalité);
+- b. le numéro, l’État émetteur, le type et la date d’échéance du document de voyage utilisé;
+- c. le numéro, l’État émetteur, le type et la date d’échéance du visa ou du titre de séjour utilisé, pour autant que l’entreprise de transport aérien dispose de ces données;
+- d. l’aéroport de départ, les aéroports de transit ou l’aéroport de destination en Suisse, ainsi que l’itinéraire de vol réservé par le passager, pour autant que l’entreprise de transport aérien en ait connaissance;
+- e. le code de transport;
+- f. le nombre de passagers à bord du vol en question;
+- g. la date et les heures de départ et d’arrivée prévues.
+
+<sup>4</sup> Les entreprises de transport aérien informent les passagers concernés conformément à l’art. 19 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^92a-5].[^92a-6]
+
+<sup>5</sup> Les décisions ordonnant ou levant l’obligation de communiquer prennent la forme d’une décision de portée générale et sont publiées dans la Feuille fédérale. Le recours contre une décision de portée générale n’a pas d’effet suspensif.
+
+<sup>6</sup>
+
+Les entreprises de transport aérien ne peuvent conserver les données prévues à l’al. 3 qu’à titre de moyen de preuve. Elles doivent effacer ces données:
+
+- a. dès qu’il est constaté que le SEM n’ouvrira pas de procédure en violation de l’obligation de communiquer, mais deux ans au plus tard après la date du vol;
+- b. le jour suivant l’entrée en force de la décision rendue en application de l’art. 122*b*.
+
+[^92a-1]: Anciennement art. 104. Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^92a-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-3]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^92a-6]: Nouvelle teneur selon l’annexe 2 ch. I 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 93
 
@@ -2514,21 +2599,18 @@ Le Conseil fédéral peut conclure avec des États étrangers ou des organisatio
 
 [^chap14-1]
 
-[^chap14-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-
-### Section 1 Généralités
-
-[^chap14-sec1-1]
-
-[^chap14-sec1-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 101
 
-**Traitement de données personnelles**[^101-1]
+**Traitement des données**[^101-1]
 
-Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités cantonales chargées des questions relatives aux étrangers et, dans la limite de ses compétences, le Tribunal administratif fédéral peuvent traiter ou faire traiter des données personnelles relatives aux étrangers et aux tiers participant à une procédure prévue par la présente loi, y compris des données sensibles.
+<sup>1</sup> Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités migratoires cantonales et, dans la limite de ses compétences, le Tribunal administratif fédéral peuvent traiter ou faire traiter les données personnelles relatives aux étrangers et aux tiers participant à une procédure prévue par la présente loi, y compris les données sensibles.[^101-2]
 
-[^101-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+<sup>2</sup> L’autorité responsable du traitement des données assure que le traitement des données personnelles dans les systèmes d’information du SEM et les systèmes d’information Schengen/Dublin soit en adéquation avec les buts visés et n’ait lieu que dans la mesure où il est nécessaire à l’accomplissement de ses tâches.
+
+[^101-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^101-2]: Nouvelle teneur selon l’annexe 2 ch. I 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 102
 
@@ -2578,38 +2660,96 @@ Les autorités suivantes sont autorisées à procéder à la lecture des donnée
 
 [^102b-1]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant l’introduction des données biométriques dans les titres de séjour pour étrangers, en vigueur depuis le 24 janv. 2011 ([RO 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-### Section 2 Données des passagers, surveillance et contrôle à l’aéroport et obligation des entreprises de transport aérien de communiquer des données
+#### Art. 102c
 
-[^chap14-sec2-1]
+**Communication de données personnelles à l’étranger**[^102c-1]
 
-[^chap14-sec2-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+<sup>1</sup> Afin d’accomplir leurs tâches, notamment de lutter contre les actes punissables en vertu de la présente loi, le SEM et les autorités cantonales compétentes peuvent communiquer des données personnelles concernant des étrangers aux autorités étrangères et aux organisations internationales chargées de tâches similaires, pour autant que les conditions de l’art. 16 LPD[^102c-2] soient respectées.[^102c-3]
+
+<sup>2</sup>
+
+Les données personnelles suivantes peuvent être communiquées:
+
+- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, dernière adresse connue dans l’État d’origine ou de provenance);
+- b. des indications relatives au passeport ou à d’autres pièces d’identité;
+- c. des données biométriques;
+- d. d’autres données nécessaires pour établir l’identité de l’étranger;
+- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt et qu’il en ait été averti;
+- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte;
+- g. des indications sur les lieux de séjour et sur les itinéraires empruntés;
+- h des indications sur les autorisations et les visas accordés.
+
+[^102c-1]: Anciennement art. 105.
+[^102c-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^102c-3]: Nouvelle teneur selon l’annexe 2 ch. I 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 102d
+
+**Communication de données personnelles à l’État d’origine ou de provenance**[^102d-1]
+
+L’autorité chargée d’organiser le départ n’est autorisée à communiquer les données personnelles suivantes à l’autorité compétente de l’État d’origine ou de provenance en vue de l’exécution du renvoi ou de l’expulsion dans cet État que si cette démarche ne constitue pas une menace pour l’étranger et ses proches:
+
+- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, nom et prénom des parents et dernière adresse connue dans l’État d’origine ou de provenance);
+- b. des indications relatives au passeport ou à d’autres pièces d’identité;
+- c. des données biométriques;
+- d. d’autres données nécessaires pour établir l’identité de l’étranger;
+- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt et qu’il en ait été averti;
+- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte.
+
+[^102d-1]: Anciennement art. 106.
+
+#### Art. 102e
+
+**Communication de données personnelles dans le cadre des accords de réadmission et de transit**[^102e-1]
+
+<sup>1</sup> Le SEM et les autorités cantonales compétentes peuvent communiquer les données personnelles nécessaires à des États qui ne garantissent pas une protection des données équivalente à celle de la Suisse, en vue de l’application des accords de réadmission et de transit cités à l’art. 100.
+
+<sup>2</sup>
+
+Peuvent être communiquées à l’autre État contractant, en vue de la réadmission d’un de ses propres ressortissants, les données suivantes:
+
+- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, dernière adresse connue dans l’État d’origine ou de provenance);
+- b. des indications relatives au passeport ou à d’autres pièces d’identité;
+- c. des données biométriques;
+- d. d’autres données nécessaires pour établir l’identité de l’étranger;
+- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt;
+- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte;
+- g. des indications sur des procédures pénales pour autant que, dans le cas d’espèce, la procédure de réadmission et le maintien de la sécurité et de l’ordre publics dans l’État d’origine l’exigent et qu’il n’en découle aucun danger pour la personne concernée; l’art. 2 de la loi du 20 mars 1981 sur l’entraide pénale internationale[^102e-2] est applicable par analogie.
+
+<sup>3</sup>
+
+Les données suivantes peuvent être communiquées à l’autre État contractant en vue du transit de ressortissants d’États tiers:
+
+- a. les données citées à l’al. 2;
+- b. des indications sur les lieux de séjour et les itinéraires empruntés;
+- c. des indications sur les autorisations et les visas accordés.
+
+<sup>4</sup> L’accord de réadmission ou de transit doit mentionner le but de l’utilisation des données, les mesures de sécurité à prendre le cas échéant et les autorités compétentes.
+
+[^102e-1]: Anciennement art. 107.
+[^102e-2]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 #### Art. 103
 
-**Surveillance de l’arrivée à l’aéroport**
+[^103-1]
 
-<sup>1</sup>
+[^103-1]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-L’arrivée des passagers à l’aéroport peut être surveillée par des moyens techniques de reconnaissance. Les autorités chargées du contrôle à la frontière (art. 7 et 9) utilisent les données recueillies dans les buts suivants:[^103-1]
+## Chapitre 14*a* Systèmes d’information
 
-- a. établir quelle entreprise de transport aérien a transporté l’étranger qui ne remplit pas les conditions d’entrée et quel était le lieu d’embarquement;
-- b. procéder pour toute personne entrant en Suisse à une comparaison avec les données enregistrées dans les systèmes de recherche.
+[^chap14a-1]
 
-<sup>2</sup> Les autorités compétentes avertissent le SRC si, lors de la surveillance effectuée selon l’al. 1, elles constatent qu’un étranger représente une menace concrète pour la sécurité intérieure et extérieure de la Suisse. Elles sont autorisées à transmettre les données pertinentes.[^103-2]
+[^chap14a-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-<sup>3</sup> Les données recueillies sont effacées dans les 30 jours. Le Conseil fédéral peut prévoir un délai plus long pour les données utilisées dans une procédure pendante relevant du droit pénal, du droit des étrangers ou du droit d’asile.
+### Section 1 Système d’information sur les refus d’entrée (système INAD)
 
-<sup>4</sup> La Confédération peut verser aux cantons sur le territoire desquels se trouve un aéroport international des contributions à la couverture des frais de surveillance au sens de l’al. 1.
+[^chap14a-sec1-1]
 
-<sup>5</sup> Le Conseil fédéral détermine les spécificités indispensables à un système de reconnaissance des visages, fixe les détails de la procédure de surveillance et arrête les modalités de transmission des informations au SRC.[^103-3]
-
-[^103-1]: Nouvelle teneur de la phrase selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
-[^103-2]: Nouvelle teneur selon le ch. I 2 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^103-3]: Nouvelle teneur selon le ch. I 2 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^chap14a-sec1-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103a
 
-**Système d’information sur les refus d’entrée**[^103a-1]
+**…[^103a-2]**[^103a-1]
 
 <sup>1</sup> Le SEM gère un système d’information interne relatif aux refus d’entrée prononcés en vertu de l’art. 65 (système INAD). Le système INAD sert, d’une part, à mettre en œuvre des sanctions en cas de violation du devoir de diligence au sens de l’art. 122*a* et, d’autre part, à établir des statistiques.
 
@@ -2624,30 +2764,46 @@ Le système INAD contient les données suivantes sur les personnes auxquelles l�
 
 <sup>3</sup> Les données saisies dans le système sont anonymisées après deux ans.
 
-<sup>4</sup> Lors du passage de la frontière, les données du passeport biométrique ou de la carte de participant peuvent être comparées avec celles contenues dans le système de recherches informatisées de police (système RIPOL) ou le SIS.[^103a-2]
+<sup>4</sup> Lors du passage de la frontière, les données du passeport biométrique ou de la carte de participant peuvent être comparées avec celles contenues dans le système de recherches informatisées de police (système RIPOL) ou le SIS.[^103a-3]
 
 [^103a-1]: Anciennement art. 103*b*. Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^103a-2]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^103a-2]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103a-3]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+### Section 2 Système d’entrée et de sortie (EES) et contrôle automatisé à la frontière
+
+[^chap14a-sec2-1]
+
+[^chap14a-sec2-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103b
 
 **Système d’entrée et de sortie**[^103b-1]
 
-<sup>1</sup> Conformément au règlement (UE) 2017/2226[^103b-2], le système d’entrée et de sortie (EES) contient les données personnelles des ressortissants d’États tiers qui entrent dans l’espace Schengen pour un séjour d’une durée n’excédant pas 90 jours par période de 180 jours ou auxquels l’entrée dans l’espace Schengen est refusée.
+<sup>1</sup> Conformément au règlement (UE) 2017/2226[^103b-2], le système d’entrée et de sortie (EES) contient les données personnelles des ressortissants d’États tiers qui entrent dans l’espace Schengen pour un séjour d’une durée n’excédant pas 90 jours par période de 180 jours ou auxquels l’entrée dans l’espace Schengen est refusée.[^103b-3]
 
 <sup>2</sup>
 
 Les catégories de données suivantes sont communiquées à l’EES par l’intermédiaire de l’interface nationale:
 
-- a. les données alphanumériques relatives au ressortissant d’État tiers concerné ainsi que les données relatives au visa octroyé si celui-ci est requis;
+- a.[^103b-4] les données d’identité relatives au ressortissant d’État tiers concerné et les données relatives aux documents de voyage;
 - b. l’image faciale;
+- b<sup>bis</sup>.[^103b-5] les données relatives au visa octroyé si celui-ci est obligatoire;
+- b<sup>ter</sup>.[^103b-6] les données relatives à l’autorisation de voyage ETIAS délivrée si celle-ci est obligatoire;
 - c. les dates d’entrées dans l’espace Schengen et de sortie de l’espace Schengen ainsi que le point de passage frontalier et l’autorité chargée du contrôle à la frontière;
 - d. les refus d’entrée.
 
 <sup>3</sup> Si le ressortissant d’État tiers n’est pas soumis à l’obligation de visa, l’autorité compétente saisit les empreintes digitales de cette personne et les transmet à l’EES, en plus des données visées à l’al. 2.
 
+<sup>4</sup> Les données tirées de l’EES visées aux al. 2, let. a et b, et 3 sont stockées de manière automatisée dans le répertoire commun de données d’identité (CIR).[^103b-7]
+
 [^103b-1]: Introduit par l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^103b-2]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, version du JO L 327 du 9.12.2017, p. 20.
+[^103b-2]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9 décembre 2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^103b-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103b-4]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103b-5]: Introduite par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103b-6]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103b-7]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103c
 
@@ -2667,39 +2823,48 @@ Les autorités suivantes peuvent consulter en ligne les données de l’EES:
 
 - a. le Corps des gardes-frontière et les autorités cantonales de police chargées du contrôle aux frontières extérieures de Schengen: pour mener les contrôles aux points de passage aux frontières extérieures de Schengen et sur le territoire suisse;
 - b. le SEM, les représentations suisses à l’étranger et les missions, les autorités cantonales migratoires compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences, le Secrétariat d’État et la Direction politique du DFAE ainsi que le Corps des gardes-frontière et les postes frontière des polices cantonales: dans le cadre de la procédure d’octroi de visas menée au moyen du système central d’information sur les visas (C-VIS) (art. 109*a*);
-- c. le Corps des gardes-frontière, les autorités cantonales et communales de police procédant à des contrôles d’identité, le SEM et les autorités migratoires cantonales et communales: pour examiner les conditions d’entrée ou de séjour en Suisse et pour identifier les étrangers qui ont éventuellement été saisis sous une autre identité dans l’EES ou qui ne remplissent pas ou plus les conditions d’entrée ou de séjour en Suisse.
+- c. le Corps des gardes-frontière, les autorités cantonales et communales de police procédant à des contrôles d’identité, le SEM et les autorités migratoires cantonales et communales: pour examiner les conditions d’entrée ou de séjour en Suisse et pour identifier les étrangers qui ont éventuellement été saisis sous une autre identité dans l’EES ou qui ne remplissent pas ou plus les conditions d’entrée ou de séjour en Suisse;
+- d.[^103c-3] le SEM: pour accomplir les tâches qui lui reviennent en tant qu’unité nationale du système européen d’information et d’autorisation concernant les voyages (ETIAS) (unité nationale ETIAS).
 
 <sup>3</sup> Les autorités visées à l’al. 2 peuvent consulter en ligne les données livrées par la calculatrice automatique prévue à l’art. 11 du règlement (UE) 2017/2226.
 
 <sup>4</sup>
 
-Les autorités suivantes peuvent demander des données de l’EES au point d’accès central visé à l’al. 6 dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, et d’enquêter en la matière:[^103c-3]
+Les autorités suivantes peuvent demander des données de l’EES au point d’accès central visé à l’al. 6[^103c-4] dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, ainsi que d’enquêter en la matière:[^103c-5]
 
 - a. fedpol;
 - b. le SRC;
 - c. le Ministère public de la Confédération;
-- d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, Winterthour, Lausanne, Chiasso et Lugano.
+- d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, Winterthour, Lausanne, Chiasso et Lugano;
+- e.[^103c-6] les collaborateurs de l’Office fédéral de la douane et de la sécurité des frontières (OFDF) chargés de la poursuite pénale.
 
-<sup>5</sup> …[^103c-4]
+<sup>5</sup> …[^103c-7]
 
-<sup>6</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.[^103c-5]
+<sup>6</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.[^103c-8]
 
 [^103c-1]: Introduit par l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
-[^103c-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-4]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-5]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-3]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103c-4]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^103c-5]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^103c-6]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^103c-7]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-8]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
-**Communication de données issues de l’EES**[^103d-1]
+**Communication de données tirées de l’EES[^103d-2]**[^103d-1]
 
 <sup>1</sup> Les données tirées de l’EES ne peuvent en principe pas être communiquées à un État tiers, une organisation internationale, une entité privée ou une personne physique.
 
-<sup>2</sup> Le SEM peut néanmoins communiquer des données à un État qui n’est pas lié par un des accords d’association à Schengen ou à une organisation internationale mentionnée à l’annexe I du règlement (UE) 2017/2226[^103d-2], si ces données sont nécessaires pour prouver l’identité d’un ressortissant d’État tiers en vue de son retour et que les conditions visées à l’art. 41 du règlement (UE) 2017/2226 sont remplies.
+<sup>2</sup> Le SEM peut néanmoins communiquer des données à un État qui n’est pas lié par un des accords d’association à Schengen ou à une organisation internationale mentionnée à l’annexe I du règlement (UE) 2017/2226[^103d-3], si ces données sont nécessaires pour prouver l’identité d’un ressortissant d’État tiers en vue de son retour et que les conditions visées à l’art. 41 du règlement (UE) 2017/2226 sont remplies.
+
+<sup>3</sup> L’art 110*h* est applicable aux données tirées de l’EES qui sont stockées dans le CIR.[^103d-4]
 
 [^103d-1]: Introduit par l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^103d-2]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
+[^103d-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103d-3]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
+[^103d-4]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103e
 
@@ -2745,60 +2910,19 @@ Le Conseil fédéral:
 
 #### Art. 104
 
-**Obligation des entreprises de transport aérien de communiquer des données personnelles**[^104-1]
+[^104-1]
 
-<sup>1</sup> Afin d’améliorer le contrôle à la frontière et de lutter contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports, le SEM peut, à la demande des autorités chargées du contrôle à la frontière, contraindre une entreprise de transport aérien à lui communiquer les données relatives à certains vols et les données personnelles des passagers de ces vols, ou à les communiquer à l’autorité chargée du contrôle à la frontière.[^104-2]
+[^104-1]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-<sup>1bis</sup>
+### Section 3 Système d’information sur les passagers (système API) et accès aux données relatives aux passagers dans des cas particuliers
 
-Le SEM peut étendre l’obligation de communiquer des données à d’autres vols:
+[^chap14a-sec3-1]
 
-- a. à la demande de fedpol: afin de lutter contre la criminalité internationale organisée et le terrorisme;
-- b. à la demande du SRC: afin de prévenir les menaces que représentent pour la sûreté intérieure ou extérieure le terrorisme, l’espionnage et les actes préparatoires relatifs au commerce illicite d’armes et de substances radioactives ainsi que ceux relatifs au transfert illégal de technologie.[^104-3]
-
-<sup>1ter</sup> Ces données doivent être transmises immédiatement après le décollage.[^104-4]
-
-<sup>2</sup>
-
-La décision ordonnant l’obligation de communiquer précise:
-
-- a. les aéroports ou États de départ;
-- b. les catégories de données énumérées à l’al. 3;
-- c. les détails techniques relatifs à la transmission des données.
-
-<sup>3</sup>
-
-L’obligation de communiquer s’applique aux catégories de données suivantes:
-
-- a. l’identité des passagers (nom, prénom, sexe, date de naissance, nationalité);
-- b. le numéro, l’État émetteur, le type et la date d’échéance du document de voyage utilisé;
-- c. le numéro, l’État émetteur, le type et la date d’échéance du visa ou du titre de séjour utilisé, pour autant que l’entreprise de transport aérien dispose de ces données;
-- d. l’aéroport de départ, les aéroports de transit ou l’aéroport de destination en Suisse, ainsi que l’itinéraire de vol réservé par le passager, pour autant que l’entreprise de transport aérien en ait connaissance;
-- e. le code de transport;
-- f. le nombre de passagers à bord du vol en question;
-- g. la date et les heures de départ et d’arrivée prévues.
-
-<sup>4</sup> Les entreprises de transport aérien informent les passagers concernés conformément à l’art. 19 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^104-5].[^104-6]
-
-<sup>5</sup> Les décisions ordonnant ou levant l’obligation de communiquer prennent la forme d’une décision de portée générale et sont publiées dans la Feuille fédérale. Le recours contre une décision de portée générale n’a pas d’effet suspensif.
-
-<sup>6</sup>
-
-Les entreprises de transport aérien ne peuvent conserver les données prévues à l’al. 3 qu’à titre de moyen de preuve. Elles doivent effacer ces données:
-
-- a. dès qu’il est constaté que le SEM n’ouvrira pas de procédure en violation de l’obligation de communiquer, mais deux ans au plus tard après la date du vol;
-- b. le jour suivant l’entrée en force de la décision rendue en application de l’art. 122*b*.
-
-[^104-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^104-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-3]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^104-6]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^chap14a-sec3-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104a
 
-**Système d’information sur les passagers**[^104a-1]
+**But et contenu du système d’information sur les passagers et traitement de données[^104a-2]**[^104a-1]
 
 <sup>1</sup>
 
@@ -2806,21 +2930,21 @@ Le SEM exploite un système d’information sur les passagers (système API) qui
 
 - a. d’améliorer le contrôle à la frontière;
 - b. de lutter contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports;
-- c. de lutter contre la criminalité internationale organisée, le terrorisme, l’espionnage et les actes préparatoires relatifs au commerce illicite d’armes et de substances radioactives ainsi que ceux relatifs au transfert illégal de technologie.[^104a-2]
+- c. de lutter contre la criminalité internationale organisée, le terrorisme, l’espionnage et les actes préparatoires relatifs au commerce illicite d’armes et de substances radioactives ainsi que ceux relatifs au transfert illégal de technologie.[^104a-3]
 
-<sup>1bis</sup> Le système API contient les données visées à l’art. 104, al. 3, ainsi que les résultats des comparaisons prévues à l’al. 4.[^104a-3]
+<sup>1bis</sup> Le système API contient les données visées à l’art. 92*a*, al. 3, ainsi que les résultats des comparaisons visées à l’al. 4.[^104a-4]
 
-<sup>2</sup> Le SEM peut consulter en ligne les données du système API visées à l’art. 104, al. 3, afin de vérifier si les entreprises de transport aérien respectent leur obligation de communiquer ces données et pour appliquer les sanctions prévues à l’art. 122*b*.
+<sup>2</sup> Le SEM peut consulter en ligne les données du système API visées à l’art. 92*a*, al. 3, pour vérifier si les entreprises de transport aérien respectent leur obligation de communiquer ces données et pour appliquer les sanctions prévues à l’art. 122*b*.[^104a-5]
 
-<sup>3</sup> Les autorités habilitées à effectuer le contrôle des personnes aux frontières extérieures de l’espace Schengen peuvent consulter en ligne les données visées à l’art. 104, al. 3, et les résultats des comparaisons prévues à l’al. 4 afin d’améliorer le contrôle à la frontière et de lutter contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports.[^104a-4]
+<sup>3</sup> Les autorités habilitées à effectuer le contrôle des personnes aux frontières extérieures de l’espace Schengen peuvent consulter en ligne les données visées à l’art. 92*a*, al. 3, et les résultats des comparaisons visées à l’al. 4 afin d’améliorer le contrôle à la frontière et de lutter contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports.[^104a-6]
 
-<sup>3bis</sup> Lorsque des soupçons liés à la préparation ou à la commission d’une infraction au sens de l’art. 104, al. 1<sup>bis</sup>, let. a, pèsent sur une personne, fedpol peut consulter en ligne les données visées à l’art. 104, al. 3.[^104a-5]
+<sup>3bis</sup> Lorsque des soupçons liés à la préparation ou à la commission d’une infraction au sens de l’art. 92*a*, al. 1<sup>bis</sup>, let. a, pèsent sur une personne, fedpol peut consulter en ligne les données visées à l’art. 92*a*, al. 3.[^104a-7]
 
-<sup>4</sup> Des comparaisons sont automatiquement et systématiquement effectuées entre les données visées à l’art. 104, al. 3, let. a et b, et celles du système RIPOL, du SIS, du SYMIC ainsi que du système d’information sur les documents volés et perdus d’Interpol (ASF-SLTD).[^104a-6]
+<sup>4</sup> Des comparaisons sont automatiquement et systématiquement effectuées entre les données visées à l’art. 92*a*, al. 3, let. a et b, et celles du système RIPOL, du SIS, du SYMIC ainsi que du système d’information sur les documents volés et perdus d’Interpol (ASF-SLTD).[^104a-8]
 
 <sup>5</sup>
 
-Les données prévues à l’art. 104, al. 3, ainsi que le résultat des comparaisons visées à l’al. 4 ne peuvent être conservés après l’arrivée du vol concerné que s’ils sont utilisés en vue de l’exécution d’une procédure relevant du droit des étrangers, du droit de l’asile ou du droit pénal. Ils doivent être effacés:
+Les données prévues à l’art. 92*a*, al. 3, ainsi que le résultat des comparaisons visées à l’al. 4 ne peuvent être conservés après l’arrivée du vol concerné que s’ils sont utilisés en vue de l’exécution d’une procédure relevant du droit des étrangers, du droit de l’asile ou du droit pénal. Ils doivent être effacés:[^104a-9]
 
 - a. dès qu’il est constaté qu’aucune procédure de ce type ne sera ouverte, mais deux ans au plus tard après la date du vol;
 - b. le jour suivant l’entrée en force de la décision prise dans le cadre d’une procédure de ce type.
@@ -2828,21 +2952,25 @@ Les données prévues à l’art. 104, al. 3, ainsi que le résultat des compara
 <sup>6</sup> Les données peuvent être conservées sous forme anonymisée au-delà des délais prévus à l’al. 5 si elles servent à des fins statistiques.
 
 [^104a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^104a-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-3]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-5]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-6]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104a-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104a-4]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information) ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)). Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-5]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-6]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-7]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information) ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)). Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-8]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-9]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104b
 
 **Communication automatique de données du système API**[^104b-1]
 
-<sup>1</sup> Les données prévues à l’art. 104, al. 3, sont transmises automatiquement au SRC, sous forme électronique.
+<sup>1</sup> Les données prévues à l’art. 92*a*, al. 3, sont automatiquement transmises sous forme électronique au SRC.[^104b-2]
 
 <sup>2</sup> Le SRC peut les traiter en vue d’accomplir les tâches prévues à l’art. 104*a*, al. 1, let. c.
 
 [^104b-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104b-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104c
 
@@ -2864,200 +2992,495 @@ Les listes de passagers doivent mentionner les éléments suivants:
 
 [^104c-1]: Anciennement art. 104*b*. Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### Section 3 Communication de données personnelles à l’étranger
+#### Art. 105 à 107
 
-[^chap14-sec3-1]
+[^105107-1]
 
-[^chap14-sec3-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^105107-1]: Abrogés par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-#### Art. 105
+#### Art. 108
 
-**Communication de données personnelles à l’étranger**
+[^108-1]
 
-<sup>1</sup> Afin d’accomplir leurs tâches, notamment de lutter contre les actes punissables en vertu de la présente loi, le SEM et les autorités cantonales compétentes peuvent communiquer des données personnelles concernant des étrangers aux autorités étrangères et aux organisations internationales chargées de tâches similaires, pour autant que les conditions de l’art. 16 LPD[^105-1] soient respectées.[^105-2]
+[^108-1]: Voir art. 126 al. 6.
 
-<sup>2</sup>
+### Section 3*a* Système européen d’autorisation et d’information concernant les voyages
 
-Les données personnelles suivantes peuvent être communiquées:
+[^chap14a-sec3a-1]
 
-- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, dernière adresse connue dans l’État d’origine ou de provenance);
-- b. des indications relatives au passeport ou à d’autres pièces d’identité;
-- c. des données biométriques;
-- d. d’autres données nécessaires pour établir l’identité de l’étranger;
-- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt et qu’il en ait été averti;
-- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte;
-- g. des indications sur les lieux de séjour et sur les itinéraires empruntés;
-- h des indications sur les autorisations et les visas accordés.
+[^chap14a-sec3a-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
-[^105-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^105-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+#### Art. 108a
 
-#### Art. 106
+**Données du système européen d’information et d’autorisation concernant les voyages**[^108a-1]
 
-**Communication de données personnelles à l’État d’origine ou de provenance**
+<sup>1</sup>
 
-L’autorité chargée d’organiser le départ n’est autorisée à communiquer les données personnelles suivantes à l’autorité compétente de l’État d’origine ou de provenance en vue de l’exécution du renvoi ou de l’expulsion dans cet État que si cette démarche ne constitue pas une menace pour l’étranger et ses proches:
+L’ETIAS prévu par le règlement (UE) 2018/1240[^108a-2] contient les données suivantes des ressortissants d’États tiers exemptés de l’obligation de visa qui souhaitent entrer dans l’espace Schengen:[^108a-3]
 
-- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, nom et prénom des parents et dernière adresse connue dans l’État d’origine ou de provenance);
-- b. des indications relatives au passeport ou à d’autres pièces d’identité;
-- c. des données biométriques;
-- d. d’autres données nécessaires pour établir l’identité de l’étranger;
-- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt et qu’il en ait été averti;
-- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte.
-
-#### Art. 107
-
-**Communication de données personnelles dans le cadre des accords de réadmission et de transit**
-
-<sup>1</sup> Le SEM et les autorités cantonales compétentes peuvent communiquer les données personnelles nécessaires à des États qui ne garantissent pas une protection des données équivalente à celle de la Suisse, en vue de l’application des accords de réadmission et de transit cités à l’art. 100.
+- a. les données d’identité et les données relatives aux documents de voyage;
+- b. les demandes d’autorisation de voyage ETIAS acceptées ou rejetées.
 
 <sup>2</sup>
 
-Peuvent être communiquées à l’autre État contractant, en vue de la réadmission d’un de ses propres ressortissants, les données suivantes:
+L’ETIAS contient également une liste de surveillance dans laquelle figurent les données des ressortissants d’États tiers:
 
-- a. l’identité de l’étranger et, si nécessaire, de ses proches (nom, prénom, noms d’emprunt, date et lieu de naissance, sexe, nationalité, dernière adresse connue dans l’État d’origine ou de provenance);
-- b. des indications relatives au passeport ou à d’autres pièces d’identité;
-- c. des données biométriques;
-- d. d’autres données nécessaires pour établir l’identité de l’étranger;
-- e. des indications sur l’état de santé de l’étranger, à condition que cela soit dans son intérêt;
-- f. les données nécessaires pour assurer l’entrée dans l’État de destination et la sécurité des agents d’escorte;
-- g. des indications sur des procédures pénales pour autant que, dans le cas d’espèce, la procédure de réadmission et le maintien de la sécurité et de l’ordre publics dans l’État d’origine l’exigent et qu’il n’en découle aucun danger pour la personne concernée; l’art. 2 de la loi du 20 mars 1981 sur l’entraide pénale internationale[^107-1] est applicable par analogie.
+- a. qui sont soupçonnés d’avoir commis une infraction terroriste ou une autre infraction pénale grave ou d’y avoir participé;
+- b. pour lesquels il existe des indices concrets ou des motifs raisonnables permettant de croire qu’ils commettront une infraction terroriste ou une autre infraction pénale grave ou qu’ils y participeront.
+
+<sup>3</sup> Les données visées à l’al. 1, let. a, sont automatiquement enregistrées dans le répertoire commun de données d’identité (CIR).[^108a-4]
+
+[^108a-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108a-2]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+[^108a-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108a-4]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108b
+
+**Demande d’autorisation de voyage ETIAS et examen par l’ETIAS ainsi que par l’unité centrale ETIAS**[^108b-1]
+
+Le dépôt des demandes d’autorisation de voyage ETIAS, leur examen automatique par l’ETIAS, leur examen manuel par l’unité centrale ETIAS et la transmission du dossier à l’unité nationale ETIAS compétente s’effectuent conformément au règlement (UE) 2018/1240[^108b-2].
+
+[^108b-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108b-2]: Voir note de bas de page relative à l’art. 5*,* al. 1, let. a<sup>bis</sup>.
+
+#### Art. 108c
+
+**Unité nationale ETIAS**[^108c-1]
+
+<sup>1</sup> L’unité nationale ETIAS de la Suisse au sens de l’art. 8 du règlement (UE) 2018/1240[^108c-2] est instaurée au sein du SEM. Le SEM examine les demandes d’autorisation de voyage ETIAS relevant de la compétence de la Suisse et consulte, si nécessaire, les autres unités nationales ETIAS ainsi qu’Europol.
+
+<sup>2</sup> Dans le cadre de l’examen d’une demande d’autorisation de voyage ETIAS, le SEM peut consulter d’autres autorités de la Confédération ou des cantons ou les charger de procéder à d’autres vérifications. Le Conseil fédéral détermine quelles autorités peuvent être chargées de procéder à ces vérifications et précise quelles sont ces vérifications.
+
+[^108c-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108c-2]: Voir note de bas de page relative à l’art. 5*,* al. 1, let. a<sup>bis</sup>.
+
+#### Art. 108d
+
+**Octroi, refus, annulation ou révocation d’une autorisation de voyage ETIAS**[^108d-1]
+
+<sup>1</sup> Le SEM octroie une autorisation de voyage ETIAS s’il n’existe aucun indice concret ou aucun motif raisonnable permettant de croire que la présence de la personne concernée dans l’espace Schengen présente un risque de migration illégale ou un risque en matière de sécurité ou de santé publique.
+
+<sup>2</sup> À titre exceptionnel, le SEM peut, pour des motifs humanitaires, pour des raisons d’intérêt national ou en vertu d’obligations internationales, octroyer une autorisation de voyage ETIAS dont la validité territoriale est limitée à la Suisse.
+
+<sup>3</sup> Les autorisations de voyage ETIAS sont valables pendant trois ans, mais au plus tard jusqu’à l’expiration du document de voyage. Elles ne donnent aucun droit d’entrée en Suisse.
+
+<sup>4</sup> Le SEM est compétent pour révoquer ou annuler les autorisations de voyage ETIAS déjà délivrées. Il rend une décision au moyen d’un formulaire lorsque l’autorisation de voyage ETIAS est refusée, annulée ou révoquée.
+
+<sup>5</sup>
+
+La procédure de délivrance, de refus, d’annulation et de révocation de l’autorisation de voyage ETIAS est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^108d-2]. Les art. 11*b*, al. 1, 22*a* et 24 PA ne sont pas applicables. Pour mettre en œuvre le règlement (UE) 2018/1240[^108d-3] ainsi que les actes juridiques adoptés par la Commission européenne sur la base de ce règlement, le Conseil fédéral peut édicter des dispositions dérogeant à la PA en ce qui concerne:
+
+- a. la transmission d’écrits et la notification par voie électronique (art. 11*b*, al. 2, 21*a* et 34, al. 1<sup>bis</sup>, PA);
+- b. l’audition préalable (art. 30 PA);
+- c. la possibilité de déposer des écrits en anglais; la langue de la procédure est une langue officielle (art. 33*a* PA).[^108d-4]
+
+[^108d-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108d-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108d-3]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+[^108d-4]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108d<sup>bis</sup>
+
+**Procédure de recours ETIAS: dispositions générales de procédure**[^108dbis-1]
+
+<sup>1</sup> La procédure de recours ETIAS est régie par la PA[^108dbis-2] et la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^108dbis-3], à moins que la présente loi n’en dispose autrement.
+
+<sup>2</sup> Les suspensions de délai prévues par l’art. 22*a*, al. 1, PA ne sont pas applicables à la procédure de recours ETIAS.
+
+<sup>3</sup> Le recours et les autres requêtes adressées au Tribunal administratif fédéral peuvent être déposés dans l’une des quatre langues officielles ou en anglais. Lorsque la requête est déposée en anglais, le Tribunal administratif fédéral désigne une des quatre langues officielles comme langue de la procédure.
+
+<sup>4</sup> L’arrêt et les décisions relatives à la procédure sont rédigés dans la langue de la procédure. Lorsque le recours est déposé en anglais, le dispositif de l’arrêt est en outre traduit en anglais à titre d’information.
+
+<sup>5</sup>
+
+Un recours manifestement infondé est rejeté par un juge unique si:
+
+- a. un document de voyage signalé dans le SIS comme égaré, volé, détourné ou invalidé a été utilisé;
+- b. la personne concernée est signalée dans le SIS aux fins de non-admission et d’interdiction de séjour, ou
+- c. l’unité nationale ETIAS d’un autre État a émis un avis négatif.
+
+[^108dbis-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dbis-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108dbis-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+
+#### Art. 108d<sup>ter</sup>
+
+**Procédure de recours ETIAS: mode de transmission**[^108dter-1]
+
+<sup>1</sup> Les requêtes dans le cadre de la procédure de recours ETIAS peuvent être déposées sous forme électronique via la plateforme de transmission ETIAS visée à l’art. 108*d*<sup>quater</sup> ou par l’un des moyens de transmission prévus par la PA[^108dter-2].
+
+<sup>2</sup> Les notifications du Tribunal administratif fédéral sont transmises à la partie ou à son mandataire par le moyen utilisé en dernier lieu pour transmettre une requête dans le cadre de la même procédure. La partie peut exiger l’utilisation d’un autre canal de communication.
+
+<sup>3</sup> La transmission des documents de procédure entre le Tribunal administratif fédéral et le SEM a toujours lieu via la plateforme de transmission ETIAS.
+
+[^108dter-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dter-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 108d<sup>quater</sup>
+
+**Procédure de recours ETIAS: plateforme de transmission ETIAS**[^108dquater-1]
+
+Le Tribunal administratif fédéral met à disposition la plateforme de transmission ETIAS.
+
+[^108dquater-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108d<sup>quinquies</sup>
+
+**Procédure de recours ETIAS: dispositions de procédure relatives à l’utilisation de la plateforme de transmission ETIAS**[^108dquinquies-1]
+
+<sup>1</sup> Les requêtes déposées via la plateforme de transmission ETIAS n’ont pas besoin d’être munies d’une signature électronique.
+
+<sup>2</sup> Les parties qui déposent une requête via la plateforme de transmission ETIAS et qui sont domiciliées à l’étranger n’ont pas besoin d’élire de domicile de notification en Suisse.
+
+<sup>3</sup> Lors du dépôt d’un recours via la plateforme de transmission ETIAS, la partie recourante est automatiquement invitée à verser une avance de frais. En cas de non-respect du délai de paiement, le recours est déclaré irrecevable. Toute demande d’assistance judiciaire au sens de l’art. 65 PA[^108dquinquies-2] est réservée.
+
+<sup>4</sup> Les décisions et les arrêts notifiés via la plateforme de transmission ETIAS doivent être munis d’une signature électronique au sens de la loi du 18 mars 2016 sur la signature électronique[^108dquinquies-3].
+
+<sup>5</sup> Les notifications adressées aux parties via la plateforme de transmission ETIAS sont réputées transmises dès lors qu’elles ont été consultées sur la plateforme ou au plus tard au septième jour après leur publication sur ladite plateforme.
+
+<sup>6</sup>
+
+Le Conseil fédéral règle les éléments suivants de la procédure relative à l’utilisation de la plateforme de transmission ETIAS:
+
+- a. le type de signature à utiliser pour les décisions et les arrêts;
+- b. le format de la décision et des pièces jointes;
+- c. les détails concernant le mode de transmission;
+- d. les modes de paiement admis pour régler l’avance de frais;
+- e. les modalités de l’archivage.
+
+[^108dquinquies-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dquinquies-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108dquinquies-3]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 108e
+
+**Saisie et consultation des données dans l’ETIAS**[^108e-1]
+
+<sup>1</sup> Le SEM peut saisir et traiter des données dans l’ETIAS dans le cadre de l’accomplissement de ses tâches en qualité d’unité nationale ETIAS. À la demande de fedpol ou du SRC, il saisit et traite des données dans la liste de surveillance ETIAS.
+
+<sup>2</sup>
+
+Les autorités ou tiers suivants peuvent consulter en ligne des données dans l’ETIAS:
+
+- a. le SEM, les collaborateurs de l’Office fédéral de la douane et de la sécurité des frontières (OFDF) chargés du contrôle des personnes sur le territoire suisse, les autorités cantonales et communales de police et les autorités migratoires cantonales et communales: afin d’examiner les conditions d’entrée et de séjour en Suisse;
+- b. les collaborateurs de l’OFDF chargés du contrôle des personnes à la frontière et les autorités cantonales de police chargées du contrôle aux frontières extérieures de Schengen: afin d’accomplir leurs tâches dans le cadre du contrôle aux frontières extérieures de Schengen;
+- c. les entreprises de transport aérien: afin de vérifier si le ressortissant d’État tiers est en possession d’une autorisation de voyage ETIAS valable.
 
 <sup>3</sup>
 
-Les données suivantes peuvent être communiquées à l’autre État contractant en vue du transit de ressortissants d’États tiers:
+Les autorités suivantes peuvent demander au point d’accès central visé à l’al. 5 des données de l’ETIAS dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, ainsi que d’enquêter en la matière:[^108e-2]
 
-- a. les données citées à l’al. 2;
-- b. des indications sur les lieux de séjour et les itinéraires empruntés;
-- c. des indications sur les autorisations et les visas accordés.
+- a. fedpol;
+- b. le SRC;
+- c. le Ministère public de la Confédération;
+- d. les autorités cantonales de police et de poursuite pénale et les autorités de police des villes de Zurich, de Winterthour, de Lausanne, de Chiasso et de Lugano;
+- e.[^108e-3] les collaborateurs de l’OFDF chargés de la poursuite pénale.
 
-<sup>4</sup> L’accord de réadmission ou de transit doit mentionner le but de l’utilisation des données, les mesures de sécurité à prendre le cas échéant et les autorités compétentes.
+<sup>4</sup> …[^108e-4]
 
-[^107-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 50 du règlement (UE) 2018/1240[^108e-5].
 
-#### Art. 108 et 109
+[^108e-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^108e-3]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^108e-4]: Abrogé par l’art. 4 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), avec effet au 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-5]: Voir note de bas de page relative à l’art. 5*,* al. 1, let. a<sup>bis</sup>.
 
-[^108109-1]
+#### Art. 108f
 
-[^108109-1]: Voir art. 126 al. 6.
+**Communication de données de l’ETIAS et de données de l’ETIAS enregistrées dans le CIR[^108f-2]**[^108f-1]
 
-## Chapitre 14*a* Systèmes d’information
+<sup>1</sup> Les données personnelles enregistrées dans l’ETIAS ne peuvent être communiquées à un État tiers, à une organisation internationale, à une entité privée ou à une personne physique.
 
-[^chap14a-1]
+<sup>2</sup>
 
-[^chap14a-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+Des données de l’ETIAS peuvent néanmoins être communiquées à un État tiers dans les cas suivants:
 
-### Section 1 Système central d’information sur les visas et système national d’information sur les visas
+- a. par le SEM, lorsque la communication est nécessaire, dans un cas d’espèce, au retour d’un ressortissant d’un État tiers en vertu de l’art. 65, par. 3, du règlement (UE) 2018/1240[^108f-3];
+- b. par les autorités visées à l’art. 108*e*, al. 3, en cas d’urgence exceptionnelle, lorsqu’il existe un danger imminent lié à un acte terroriste ou un danger imminent de mort lié à une infraction grave en vertu de l’art. 65, par. 5, du règlement (UE) 2018/1240.
 
-[^chap14a-sec1-1]
+<sup>3</sup> La communication des données de l’ETIAS enregistrées dans le CIR est régie par l’art. 110*h.*[^108f-4]
 
-[^chap14a-sec1-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^108f-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108f-2]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108f-3]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+[^108f-4]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108f<sup>bis</sup>
+
+**Droits des personnes concernées**[^108fbis-1]
+
+<sup>1</sup> Les dispositions dérogeant à la PA[^108fbis-2] visées à l’art. 108*d*, al. 5, sont applicables à la procédure relative à l’exercice du droit de la personne d’accéder aux données de l’ETIAS qui la concernent ainsi qu’à la procédure relative à l’exercice de son droit à les faire rectifier, compléter ou effacer.
+
+<sup>2</sup> Les dispositions dérogeant à la PA visées aux art. 108*d*<sup>bis</sup> à 108*d*<sup>quinquies</sup> sont applicables aux recours concernant les procédures visées à l’al. 1.
+
+[^108fbis-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108fbis-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 108g
+
+**Dispositions d’exécution relatives à l’ETIAS**[^108g-1]
+
+Le Conseil fédéral définit:
+
+- a. pour chacune des autorités visées à l’art. 108*e*, les unités auxquelles incombent les tâches mentionnées;
+- b. les données de l’ETIAS que peuvent demander les autorités visées à l’art. 108*e*, al. 3, et la procédure d’obtention de ces données;
+- c. le catalogue des données de l’ETIAS et les autorisations d’accès des autorités visées à l’art. 108*e*, al. 1 et 2;
+- d. la conservation et l’effacement des données;
+- e. les modalités relatives à la sécurité des données;
+- f. la responsabilité du traitement des données;
+- g. le catalogue des infractions visées à l’art. 108*e*, al. 3;
+- h. les modalités de saisie et d’effacement des données de la liste de surveillance ETIAS et la restriction du droit d’accès à cette liste;
+- i. les autres modalités et procédures nécessaires à la mise en œuvre du règlement (UE) 2018/1240[^108g-2].
+
+[^108g-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108g-2]: Voir note de bas de page relative à l’art. 5*,* al. 1, let. a<sup>bis</sup>.
+
+### Section 3*b* Système national d’information et d’autorisation concernant les voyages
+
+[^chap14a-sec3b-1]
+
+[^chap14a-sec3b-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108h
+
+**Principes**[^108h-1]
+
+<sup>1</sup> Le SEM exploite un système d’information qui contient les demandes d’autorisation de voyage ETIAS qui relèvent de la responsabilité de la Suisse ainsi que les données que la Suisse saisit et traite dans la liste de surveillance ETIAS (N-ETIAS). Ce système contient notamment les données transmises depuis le système central ETIAS par l’intermédiaire de l’interface nationale.
+
+<sup>2</sup>
+
+Le N-ETIAS sert à l’unité nationale ETIAS pour:
+
+- a. saisir et traiter les données personnelles, y compris traiter les données sensibles, les coordonnées, les données complémentaires liées à la demande, les informations et les copies des documents des étrangers dans le cadre de l’examen des demandes d’autorisation de voyage ETIAS qui relèvent de la compétence de la Suisse;
+- b. consulter les autorités de la Confédération et des cantons dans le cadre de l’examen des demandes d’autorisation de voyage ETIAS;
+- c. saisir et traiter les données personnelles et les coordonnées des étrangers qui, sur mandat de fedpol ou du SRC, sont introduites dans la liste de surveillance ETIAS;
+- d. établir des statistiques.
+
+[^108h-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108i
+
+**Contenu**[^108i-1]
+
+<sup>1</sup>
+
+Le N-ETIAS contient des données relatives aux ressortissants d’États tiers et à leurs documents de voyage:
+
+- a. lorsque la demande d’autorisation de voyage ETIAS de la personne concernée a été examinée par le SEM en tant qu’unité nationale ETIAS, ou
+- b. lorsque la personne concernée a été ajoutée à la liste de surveillance ETIAS par la Suisse.
+
+<sup>2</sup>
+
+Il contient les catégories de données suivantes:
+
+- a. données d’identité relatives au demandeur et aux autorisations de voyage ETIAS demandées, délivrées, refusées, annulées ou révoquées;
+- b. données relatives aux documents de voyage;
+- c. coordonnées;
+- d. données collectées sur la santé dans le cadre de l’évaluation du risque épidémique défini à l’art. 3, par. 1, ch. 8, du règlement (UE) 2018/1240[^108i-2];
+- e. informations complémentaires et copies des documents du demandeur;
+- f. résultats de l’examen et de la consultation des autorités de la Confédération et des cantons, résultats d’investigations, considérations émises lors de la procédure et indications concernant l’état de la procédure;
+- g. données tirées des systèmes ORBIS, RIPOL et N-SIS, de l’index national de police et des systèmes ASF-SLTD, VOSTRA et SYMIC auxquelles l’unité nationale ETIAS a accès;
+- h. données tirées des systèmes EES, C-VIS, SIS et CIR auxquelles l’unité nationale ETIAS a accès;
+- i. données que le SEM reçoit en tant qu’unité nationale ETIAS dans le cadre de l’entraide administrative de la Confédération et des cantons;
+- j. informations sur la procédure de recours;
+- k. demandes de fedpol et du SRC visant à inscrire des étrangers sur la liste de surveillance ETIAS;
+- l. données que le SEM a saisies dans la liste de surveillance ETIAS en sa qualité d’unité nationale ETIAS.
+
+<sup>3</sup> L’unité nationale ETIAS peut reprendre dans le N-ETIAS les données personnelles tirées de l’ETIAS visées à l’al. 2, let. a à e.
+
+<sup>4</sup> Le N-ETIAS contient en outre les dossiers de procédure des demandes d’autorisations de voyage ETIAS sous forme électronique.
+
+[^108i-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108i-2]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+
+#### Art. 108j
+
+**Traitement et communication des données**[^108j-1]
+
+<sup>1</sup>
+
+Ont accès aux données suivantes du N-ETIAS:
+
+- a.
+
+  le SEM:
+
+  - 1\. aux données visées à l’art. 108*i*, al. 2, dans le cadre de l’accomplissement de ses tâches en qualité d’unité nationale ETIAS,
+  - 2\. aux données visées à l’art. 108*i*, al. 2, let. a à i, pour traiter les demandes de consultation et y répondre;
+
+- b. le SRC et fedpol: aux données visées à l’art. 108*i*, al. 2, let. a à i, pour traiter les demandes de consultation et y répondre dans le cadre du traitement des demandes d’autorisation de voyage ETIAS;
+- c. le SRC et fedpol: aux données visées à l’art. 108*i*, al. 2, let. k et l, dans le cadre de l’accomplissement de leurs tâches en qualité d’autorité chargée de demander le traitement de données dans la liste de surveillance ETIAS.
+
+<sup>2</sup> Pour instruire les recours qui lui parviennent, le Tribunal administratif fédéral reçoit un extrait du dossier de procédure sous forme électronique par l’intermédiaire de la plateforme de transmission ETIAS visée à l’art. 108*d*<sup>quater</sup>.
+
+<sup>3</sup> La communication de données personnelles enregistrées dans le N-ETIAS est régie par l’art. 108*f*.
+
+[^108j-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108k
+
+**Surveillance et exécution**[^108k-1]
+
+<sup>1</sup> Le SEM est responsable de la sécurité du N-ETIAS et de la légalité du traitement des données personnelles.
+
+<sup>2</sup>
+
+Le Conseil fédéral règle:
+
+- a. l’organisation et l’exploitation du système;
+- b. le catalogue des données du système et l’étendue des droits d’accès des autorités mentionnées à l’art. 108*j*;
+- c. les mesures de protection techniques et organisationnelles visant à empêcher tout traitement non autorisé;
+- d. la procédure de consultation des autorités fédérales et cantonales;
+- e. le traitement des demandes de consultation et leur réponse dans le cadre du traitement des demandes d’autorisation de voyage ETIAS;
+- f. le traitement des données dans la liste de surveillance ETIAS;
+- g. la durée de conservation et l’effacement des données.
+
+[^108k-1]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 109
+
+[^109-1]
+
+[^109-1]: Voir art. 126 al. 6.
+
+### Section 4 Système central d’information sur les visas (C-VIS) et système national d’information sur les visas (ORBIS)
+
+[^chap14a-sec4-1]
+
+[^chap14a-sec4-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109a
 
-**Consultation des données du système central d’information sur les visas**[^109a-1]
+**Système central d’information sur les visas[^109a-2]**[^109a-1]
 
-<sup>1</sup> Le C-VIS contient les données relatives aux visas recueillies par tous les États dans lesquels le règlement (CE) n<sup>o</sup> 767/2008[^109a-2] est en vigueur.[^109a-3]
+<sup>1</sup> Le système central d’information sur les visas (C-VIS) contient les données relatives aux visas recueillies par tous les États dans lesquels le règlement (CE) n<sup>o</sup> 767/2008[^109a-3] est en vigueur.[^109a-4]
+
+<sup>1bis</sup> Les données d’identité des demandeurs de visa, les données relatives aux documents de voyage et les données biométriques tirées du C‑VIS sont stockées de manière automatisée dans le CIR.[^109a-5]
 
 <sup>2</sup>
 
 Les autorités suivantes ont accès en ligne aux données du C-VIS:
 
-- a.[^109a-4] le SEM, les représentations suisses à l’étranger et les missions, les autorités cantonales migratoires compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences, le Secrétariat d’État et la Direction politique du DFAE ainsi que le Corps des gardes-frontière et les postes frontière des polices cantonales: dans le cadre de la procédure d’octroi de visas;
-- b.[^109a-5] le SEM: afin de déterminer l’État responsable de l’examen d’une demande d’asile en application du règlement (UE) n<sup>o</sup> 604/2013[^109a-6] et dans le cadre de l’examen d’une demande d’asile lorsque la Suisse est compétente pour traiter la demande;
+- a.[^109a-6] le SEM, les représentations suisses à l’étranger et les missions, les autorités cantonales migratoires compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences, le Secrétariat d’État et la Direction politique du DFAE ainsi que le Corps des gardes-frontière et les postes frontière des polices cantonales: dans le cadre de la procédure d’octroi de visas;
+- b.[^109a-7] le SEM: afin de déterminer l’État responsable de l’examen d’une demande d’asile en application du règlement (UE) n<sup>o</sup> 604/2013[^109a-8] et dans le cadre de l’examen d’une demande d’asile lorsque la Suisse est compétente pour traiter la demande;
 - c. le Corps des gardes-frontière et les autorités cantonales de police chargées du contrôle aux frontières extérieures à Schengen: afin de mener les contrôles aux points de passage aux frontières extérieures et sur le territoire suisse;
-- d.[^109a-7] le Corps des gardes-frontière et les autorités cantonales et communales de police procédant à des contrôles d’identité: afin d’identifier toute personne qui ne remplit pas ou plus les conditions d’entrée ou de séjour sur le territoire suisse.
+- d.[^109a-9] le Corps des gardes-frontière et les autorités cantonales et communales de police procédant à des contrôles d’identité: afin d’identifier toute personne qui ne remplit pas ou plus les conditions d’entrée ou de séjour sur le territoire suisse;
+- e.[^109a-10] le SEM: dans le cadre de l’accomplissement de ses tâches en qualité d’unité nationale ETIAS.
 
 <sup>3</sup>
 
-Les autorités suivantes peuvent, en vertu de la décision 2008/633/JAI[^109a-8], demander des données du C-VIS au point d’accès central visé à l’al. 5 dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, et d’enquêter en la matière:[^109a-9]
+Les autorités suivantes peuvent demander au point d’accès central visé à l’al. 4 certaines données du C‑VIS au sens du règlement (CE) n<sup>o</sup> 767/2008 dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, ainsi que d’enquêter en la matière:[^109a-11]
 
 - a. fedpol;
 - b. le SRC;
 - c. le Ministère public de la Confédération;
-- d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, de Winterthour, de Lausanne, de Chiasso et de Lugano.
+- d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, de Winterthour, de Lausanne, de Chiasso et de Lugano;
+- e.[^109a-12] les collaborateurs de l’OFDF chargés de la poursuite pénale.
 
-<sup>4</sup> …[^109a-10]
+<sup>4</sup> …[^109a-13]
 
-<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 3, par. 3, de la décision 2008/633/JAI.[^109a-11]
+<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 3, par. 3, de la décision 2008/633/JAI.[^109a-14]
 
 [^109a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109a-2]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (R VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2017/2226, JO L 327 du 9.12.2017, p. 20.
-[^109a-3]: Nouvelle teneur selon l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^109a-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 3225](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109a-5]: Nouvelle teneur selon l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^109a-6]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
-[^109a-7]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-8]: Décision 2008/633/JAI du Conseil du 23 juin 2008 concernant l’accès en consultation au système d’information sur les visas (VIS) par les autorités désignées des États membres et par l’Office européen de police (Europol) aux fins de la prévention et de la détection des infractions terroristes et des autres infractions pénales graves, ainsi qu’aux fins des enquêtes en la matière; version du JO L 218 du 13.8.2008, p. 129.
-[^109a-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-10]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-11]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109a-3]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^109a-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109a-5]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109a-6]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 3225](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109a-7]: Nouvelle teneur selon l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109a-8]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
+[^109a-9]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109a-10]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109a-11]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^109a-12]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^109a-13]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-14]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
 **Système national d’information sur les visas**[^109b-1]
 
-<sup>1</sup> Le SEM exploite le système national d’information sur les visas. Ce système sert à l’enregistrement des demandes et à l’établissement des visas délivrés par la Suisse. Il contient notamment les données qui seront transmises par le biais de l’interface nationale (N‑VIS) au C-VIS.
+<sup>1</sup> Le SEM exploite le système national d’information sur les visas (ORBIS). Ce système sert à l’enregistrement des demandes et à l’établissement des visas délivrés par la Suisse. Il contient notamment les données qui sont transmises au C‑VIS par l’interface nationale (N‑VIS).[^109b-2]
 
 <sup>2</sup>
 
-Le système national d’information sur les visas contient les catégories de données suivantes:
+ORBIS contient les catégories de données suivantes sur les demandeurs de visa:[^109b-3]
 
 - a. données alphanumériques sur le demandeur et sur les visas demandés, délivrés, refusés, annulés, révoqués ou prolongés;
 - b. photographies et empreintes digitales du demandeur;
 - c. liens entre certaines demandes de visas;
-- d.[^109b-2] données relatives au demandeur de visa tirées des systèmes RIPOL et ASF-SLTD auxquelles les autorités compétentes en matière de visas ont accès;
-- e.[^109b-3] données relatives au demandeur de visa tirées du SIS auxquelles les autorités compétentes en matière de visas ont accès, pour autant qu’un signalement ait été introduit dans le SIS conformément au règlement (UE) 2018/1861[^109b-4] ou au règlement (UE) 2018/1860[^109b-5].
+- d.[^109b-4] données relatives au demandeur de visa tirées des systèmes RIPOL et ASF-SLTD auxquelles les autorités compétentes en matière de visas ont accès;
+- e.[^109b-5] données relatives au demandeur de visa tirées du SIS auxquelles les autorités compétentes en matière de visas ont accès, pour autant qu’un signalement ait été introduit dans le SIS conformément au règlement (UE) 2018/1861[^109b-6] ou au règlement (UE) 2018/1860[^109b-7].
 
-<sup>2bis</sup> Le système national d’information sur les visas contient en outre un sous-système dans lequel les dossiers des demandeurs de visa sont enregistrés sous forme électronique.[^109b-6]
+<sup>2bis</sup> Il contient en outre un sous-système dans lequel les dossiers des demandeurs de visa sont enregistrés sous forme électronique.[^109b-8]
 
-<sup>3</sup> Le SEM, les représentations suisses à l’étranger et les missions, les autorités migratoires cantonales compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences, le Secrétariat d’État et la Direction politique du DFAE ainsi que le Corps des gardes-frontière et les postes frontière des polices cantonales qui délivrent des visas exceptionnels peuvent saisir, modifier et effacer des données afin d’accomplir les tâches requises dans le cadre de la procédure d’octroi de visas.[^109b-7] Les autorités sont tenues de saisir et de traiter les données des demandeurs de visas destinées au C-VIS conformément au règlement (CE) n<sup>o</sup> 767/2008[^109b-8].
+<sup>3</sup>
+
+Peuvent saisir, modifier et effacer des données dans ORBIS afin d’accomplir leurs tâches dans le cadre de la procédure d’octroi de visas:
+
+- a. le SEM;
+- b. les représentations suisses à l’étranger et les missions;
+- c. les autorités migratoires cantonales compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences;
+- d. le Secrétariat d’État et la Direction politique du DFAE;
+- e. l’Office fédéral de la douane et de la sécurité des frontières (OFDF) et les autorités cantonales de police, pour délivrer des visas exceptionnels.[^109b-9]
+
+<sup>4</sup> Les autorités visées à l’al. 3 sont tenues de saisir et de traiter les données des demandeurs de visas destinées au C‑VIS conformément au règlement (CE) n<sup>o</sup> 767/2008[^109b-10].[^109b-11]
 
 [^109b-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109b-2]: Introduite par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-3]: Introduite par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^109b-4]: Cf. note de bas de page ad art. 68*a,* al. 2.
-[^109b-5]: Cf. note de bas de page ad art. 68*e,* al. 2.
-[^109b-6]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-7]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 3225](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109b-8]: R (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juil. 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS); JO L 218 du 13.8.2008, p. 60.
+[^109b-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-3]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-4]: Introduite par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^109b-5]: Introduite par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^109b-6]: Cf. note de bas de page ad art. 68*a,* al. 2.
+[^109b-7]: Cf. note de bas de page ad art. 68*e,* al. 2.
+[^109b-8]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-9]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-10]: Cf. note de bas de page relative à l’art. 109*a,* al. 1.
+[^109b-11]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109c
 
-**Consultation du système national d’information sur les visas**[^109c-1]
+**Consultation d’ORBIS [^109c-2]**[^109c-1]
 
-Le SEM peut autoriser les organes ci-après à accéder en ligne aux données du système national d’information sur les visas:
+Le SEM peut autoriser les organes ci-après à accéder en ligne aux données d’ORBIS:[^109c-3]
 
 - a. le Corps des gardes-frontière et les postes frontière des polices cantonales: pour les contrôles d’identité et l’établissement de visas exceptionnels;
 - b. les représentations suisses à l’étranger et les missions: pour l’examen des demandes de visa;
 - c. le Secrétariat d’État et la Direction politique du DFAE: pour l’examen des demandes de visa relevant de la compétence de celui-ci;
 - d. la Centrale de compensation: pour l’examen des demandes de prestations ainsi que l’attribution et la vérification des numéros d’assurés AVS;
-- e.[^109c-2] les autorités migratoires cantonales et communales ainsi que les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur incombent dans le domaine des étrangers;
+- e.[^109c-4] les autorités migratoires cantonales et communales ainsi que les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur incombent dans le domaine des étrangers;
 - f.
 
   les autorités fédérales compétentes en matière de sûreté intérieure, d’entraide pénale internationale, et de police:
 
-  - 1\. pour l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté et de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la poursuite et de la répression d’une infraction par délégation, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, du contrôle des pièces de légitimation, des recherches de personnes disparues ainsi que du contrôle des entrées du système de recherches informatisées de police au sens de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^109c-3],
-  - 2\. pour l’examen des mesures d’éloignement visant à garantir la sûreté intérieure et extérieure de la Suisse en application de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^109c-4];
+  - 1\. pour l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté et de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la poursuite et de la répression d’une infraction par délégation, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, du contrôle des pièces de légitimation, des recherches de personnes disparues ainsi que du contrôle des entrées du système de recherches informatisées de police au sens de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^109c-5],
+  - 2\. pour l’examen des mesures d’éloignement visant à garantir la sûreté intérieure et extérieure de la Suisse en application de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^109c-6];
 
 - g. les instances fédérales de recours compétentes: pour l’instruction des recours qui leur parviennent;
-- h. les offices de l’état civil et leurs autorités de surveillance: pour l’identification de personnes en relation avec des événements de l’état civil, la célébration d’un mariage ou l’enregistrement d’un partenariat et la lutte contre le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^109c-5] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^109c-6].
+- h. les offices de l’état civil et leurs autorités de surveillance: pour l’identification de personnes en relation avec des événements de l’état civil, la célébration d’un mariage ou l’enregistrement d’un partenariat et la lutte contre le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^109c-7] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^109c-8];
+- i.[^109c-9] l’unité nationale ETIAS: dans le cadre de l’accomplissement de ses tâches.
 
 [^109c-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109c-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109c-3]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
-[^109c-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^109c-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^109c-6]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^109c-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109c-3]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109c-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109c-5]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^109c-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^109c-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^109c-8]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^109c-9]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 109d
 
 **Échange d’informations avec les États membres de l’UE pour lesquels le règlement (CE) n<sup>o</sup> 767/2008 n’est pas encore entré en vigueur**[^109d-1]
 
-Tout État membre de l’UE pour lequel le règlement (CE) n<sup>o</sup> 767/2008[^109d-2] n’est pas encore en vigueur peut adresser des demandes d’information aux autorités visées à l’art. 109*a*, al. 3.
+Tout État membre de l’UE pour lequel le règlement (CE) n<sup>o</sup> 767/2008[^109d-2] n’est pas encore en vigueur peut adresser des demandes d’information aux autorités visées à l’art. 109*a*, al. 3.[^109d-3]
 
 [^109d-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^109d-2]: R (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juil. 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (R VIS); JO L 218 du 13.8.2008, p. 60.
+[^109d-2]: Cf. note de bas de page relative à l’art. 109*a,* al. 1.
+[^109d-3]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109e
 
@@ -3078,11 +3501,11 @@ Le Conseil fédéral:
 
 [^109e-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
-### Section 2 Système d’information destiné à la mise en œuvre des retours
+### Section 5 Système d’information destiné à la mise en œuvre des retours
 
-[^chap14a-sec2-1]
+[^chap14a-sec5-1]
 
-[^chap14a-sec2-1]: Introduite par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14a-sec5-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109f
 
@@ -3196,20 +3619,298 @@ Le Conseil fédéral règle:
 - c. les mesures de protection organisationnelles et techniques empêchant tout traitement non autorisé des données personnelles;
 - d. la durée de conservation et la destruction des données.
 
-### Section 3 Système de gestion des dossiers personnels et de la documentation
+### Section 6 Eurodac
 
-[^chap14a-sec3-1]
+[^chap14a-sec6-1]
 
-[^chap14a-sec3-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14a-sec6-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-#### Art. 110
+#### Art. 109k
 
-**…[^110-2]**[^110-1]
+**Saisie et transmission de données dans Eurodac[^109k-2]**[^109k-1]
+
+<sup>1</sup>
+
+Les postes frontière et les autorités cantonales et communales de police relèvent immédiatement les empreintes digitales de tous les doigts des étrangers âgés de plus de 14 ans:
+
+- a. qui entrent illégalement en Suisse en provenance d’un État qui n’est pas lié par un des accords d’association à Dublin, et
+- b. qui ne sont pas refoulés ou mis en rétention ou détention en vue du refoulement durant la totalité de la période entre leur appréhension et leur renvoi.
+
+<sup>2</sup>
+
+Par ailleurs, les données suivantes sont relevées:
+
+- a. le lieu où la personne a été appréhendée et la date;
+- b. le sexe de la personne appréhendée;
+- c. la date à laquelle les empreintes digitales ont été relevées;
+- d. le numéro de référence attribué par la Suisse aux empreintes digitales;
+- e. la date à laquelle les données ont été transmises à l’unité centrale;
+- f. le code d’identification de l’opérateur.
+
+<sup>3</sup> Les données saisies selon les al. 1 et 2 sont transmises à l’unité centrale dans les 72 heures après l’interception de la personne. Si la personne est mise en détention pour une durée supérieure à 72 heures, la livraison des données doit avoir lieu avant sa remise en liberté.
+
+<sup>4</sup> Si la saisie des empreintes digitales est impossible en raison de l’état des doigts de l’intéressé, celles-ci doivent être livrées à l’unité centrale dans les 48 heures après qu’une saisie de qualité soit à nouveau possible. Si la saisie est impossible en raison de l’état de santé de la personne ou de mesures relevant de la santé publique, les empreintes digitales doivent être transmises à l’unité centrale dans les 48 heures après que le motif de l’empêchement a disparu.
+
+<sup>5</sup> Si des problèmes techniques graves empêchent la transmission des données, un délai supplémentaire de 48 heures est accordé afin de mettre en œuvre les mesures prévues pour garantir le fonctionnement du système.
+
+<sup>6</sup> Les postes frontière, les autorités cantonales et communales de police et celles compétentes dans le domaine des étrangers peuvent relever les empreintes digitales de tous les doigts des étrangers de plus de 14 ans qui séjournent illégalement en Suisse afin de contrôler s’ils ont déjà déposé une demande d’asile dans un autre État lié par un des accords d’association à Dublin.
+
+<sup>7</sup> Les données relevées conformément aux al. 1, 2 et 6 sont communiquées au SEM en vue de leur transmission à l’unité centrale.
+
+<sup>8</sup>
+
+Les données transmises conformément aux al. 1 et 2 sont enregistrées par l’unité centrale dans la banque de données Eurodac et sont détruites automatiquement 18 mois après le relevé des empreintes digitales. Le SEM demande à l’unité centrale de procéder à la destruction anticipée de ces données dès qu’il a connaissance du fait que l’étranger:
+
+- a. a obtenu une autorisation de séjour en Suisse;
+- b. a quitté le territoire des États liés par un des accords d’association à Dublin;
+- c. a acquis la nationalité d’un État lié par un des accords d’association à Dublin.
+
+<sup>9</sup> Les art. 102*b*, 102*c* et 102*e* LAsi[^109k-3] sont applicables aux procédures définies aux al. 1 à 8.
+
+[^109k-1]: Anciennement avant art. 111*i*. Nouvelle teneur selon l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109k-2]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109k-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+
+#### Art. 109l
+
+**Communication de données Eurodac**[^109l-1]
+
+Les données personnelles stockées dans Eurodac ne peuvent être communiquées:
+
+- a. à un État qui n’est pas lié par un des accords d’association à Dublin[^109l-2];
+- b. à une organisation internationale;
+- c. à une entité privée.
+
+[^109l-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109l-2]: Ces accords sont mentionnés dans l’annexe 1, ch. 2.
+
+### Section 7 Système de gestion des dossiers personnels et de la documentation
+
+[^chap14a-sec7-1]
+
+[^chap14a-sec7-1]: Introduite par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 109m
 
 Le SEM exploite, en collaboration avec le Tribunal administratif fédéral et les autorités cantonales compétentes, un système automatisé de gestion des dossiers personnels et de la documentation.
 
-[^110-1]: Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la LF sur le TF et de la LF sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^110-2]: Abrogé par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+## Chapitre 14*b* Interopérabilité des systèmes d’information Schengen/Dublin
+
+[^chap14b-1]
+
+[^chap14b-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+### Section 1 Service partagé d’établissement de correspondances biométriques (sBMS)
+
+[^chap14b-sec1-1]
+
+[^chap14b-sec1-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110
+
+[^110-1]
+
+<sup>1</sup>
+
+Le service partagé d’établissement de correspondances biométriques (sBMS) prévu par les règlements (UE) 2019/817[^110-2] et (UE) 2019/818[^110-3] contient les modèles biométriques obtenus à partir des données biométriques des systèmes d’information Schengen/Dublin suivants:[^110-4]
+
+- a. EES;
+- b. C-VIS;
+- c. Eurodac;
+- d. SIS.
+
+<sup>2</sup> Il contient en outre une référence au système d’information dont les données proviennent et une référence aux enregistrements contenus dans ce système.
+
+<sup>3</sup> Il permet d’effectuer des recherches simultanées à l’aide de données biométriques dans l’ensemble des systèmes d’information Schengen/Dublin visés à l’al. 1.
+
+<sup>4</sup> Si la comparaison de données biométriques des systèmes visés à l’al. 1 aboutit à une réponse positive, le service de fedpol chargé du traitement des données biométriques peut la vérifier manuellement afin d’en confirmer l’exactitude.[^110-5]
+
+[^110-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110-2]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, version du JO L 135 du 22 mai 2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^110-3]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, version du JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
+[^110-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^110-5]: Introduit par le ch. I de la LF du 16 déc. 2022 (Mesures d’assurance de la qualité pour l’identification biométrique), en vigueur depuis le 15 juin 2025 ([RO 2025 341](https://fedlex.data.admin.ch/eli/oc/2025/341); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+### Section 2 Répertoire commun de données d’identité (CIR)
+
+[^chap14b-sec2-1]
+
+[^chap14b-sec2-1]: Introduite par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110a
+
+**Contenu du répertoire commun de données d’identité**
+
+<sup>1</sup>
+
+Le répertoire commun de données d’identité (CIR) prévu par les règlements (UE) 2019/817[^110a-1] et (UE) 2019/818[^110a-2] contient les données d’identité, les données relatives aux documents de voyage et les données biométriques des ressortissants d’États tiers enregistrées dans les systèmes d’information Schengen/Dublin suivants:
+
+- a. EES;
+- b. ETIAS;
+- c. C-VIS;
+- d. Eurodac.
+
+<sup>2</sup> Il contient en outre une référence au système d’information dont les données proviennent et une référence aux enregistrements contenus dans ce système.
+
+[^110a-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110a-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+#### Art. 110b
+
+**Consultation du CIR à des fins d’identification**
+
+<sup>1</sup>
+
+Des recherches peuvent être effectuées dans le CIR afin d’identifier les personnes suivantes:
+
+- a. ressortissants d’États tiers, si les conditions prévues à l’art. 20, par. 1, des règlements (UE) 2019/817[^110b-1] et (UE) 2019/818[^110b-2] sont remplies;
+- b. personnes inconnues en cas d’accident, de catastrophe naturelle ou d’actes de violence.
+
+<sup>2</sup> Des recherches au sens de l’al. 1, let. a, peuvent être effectuées uniquement dans le but de prévenir et de combattre l’immigration illégale, de garantir la sécurité publique, de préserver l’ordre public ou de sauvegarder la sécurité intérieure.
+
+<sup>3</sup>
+
+Les autorités suivantes peuvent effectuer des recherches:
+
+- a. fedpol;
+- b. les autorités de police cantonales et communales;
+- c. l’OFDF, dans le cadre de ses tâches douanières et non douanières, afin de protéger la population et de sauvegarder la sécurité intérieure.
+
+<sup>4</sup> Les recherches concernant les personnes visées à l’al. 1, let. a, sont réalisées à l’aide des données biométriques prélevées sur place lors d’un contrôle d’identité. Lorsque les données biométriques ne peuvent être utilisées ou que les recherches effectuées à l’aide de ces données n’aboutissent pas, les recherches sont menées à l’aide des données d’identité ou des données relatives aux documents de voyage.
+
+<sup>5</sup> Les recherches concernant les personnes visées à l’al. 1, let. b, sont réalisées à l’aide de données biométriques.
+
+[^110b-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110b-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+#### Art. 110c
+
+**Consultation du CIR à des fins de détection d’identités multiples**
+
+<sup>1</sup>
+
+Les autorités suivantes peuvent consulter les données et les références stockées dans le CIR aux fins de détecter les identités multiples de ressortissants d’États tiers:
+
+- a. le bureau SIRENE, s’il existe un lien avec un signalement dans le SIS;
+- b. l’OFDF et les autorités cantonales de police dans le cadre de leurs tâches de contrôle aux frontières extérieures de Schengen, s’il existe un lien avec un dossier individuel de l’EES contenant les données personnelles prévues aux art. 16 à 18 du règlement (UE) 2017/2226[^110c-1];
+- c. le SEM, les représentations suisses à l’étranger et les missions, les autorités cantonales migratoires compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences, le Secrétariat d’État et la Direction politique du DFAE ainsi que l’OFDF et les postes frontières des polices cantonales, s’il existe un lien avec un dossier individuel du C‑VIS;
+- d. le SEM, dans le cadre de l’accomplissement de ses tâches en qualité d’unité nationale ETIAS, s’il existe un lien avec un dossier de demande ETIAS contenant les données visées à l’art. 19, par. 3, du règlement (UE) 2018/1240[^110c-2].
+
+<sup>2</sup> S’il existe un lien dans le CIR avec des données de plusieurs systèmes d’information qui indique une fraude à l’identité, les autorités visées à l’al. 1 peuvent consulter les données et les références enregistrées dans le CIR dans la mesure où elles ont accès à l’EES, à l’ETIAS, au C‑VIS, à Eurodac ou au SIS en vertu de la présente loi ou de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^110c-3].
+
+[^110c-1]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
+[^110c-2]: Cf. note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+[^110c-3]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+
+#### Art. 110d
+
+**Consultation du CIR à des fins de prévention, de détection d’infractions terroristes, d’autres infractions pénales graves ou d’investigations en la matière**
+
+<sup>1</sup> Dans des cas particuliers, des recherches peuvent être effectuées dans le CIR en vue de détecter ou de prévenir des infractions terroristes ou d’autres infractions pénales graves ou d’investiguer en la matière si les conditions prévues à l’art. 22, par. 1, des règlements (UE) 2019/817[^110d-1] et (UE) 2019/818[^110d-2] sont remplies.
+
+<sup>2</sup>
+
+Les autorités suivantes peuvent effectuer de telles recherches:
+
+- a. fedpol;
+- b. le SRC;
+- c. le Ministère public de la Confédération;
+- d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, Winterthour, Lausanne, Chiasso et Lugano;
+- e.[^110d-3] les collaborateurs de l’OFDF chargés de la poursuite pénale.
+
+<sup>3</sup> Lorsqu’une recherche révèle que des données figurent dans le CIR, la réponse contient une référence au système d’information Schengen/Dublin concerné.
+
+<sup>4</sup> Pour obtenir les données enregistrées dans le système d’information en question, les autorités visées à l’al. 1 doivent adresser une demande à la centrale d’engagement de fedpol. Les conditions et procédures prévues pour le système d’information concerné sont applicables.
+
+[^110d-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110d-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110d-3]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+
+### Section 3 Portail de recherche européen (ESP)
+
+[^chap14b-sec3-1]
+
+[^chap14b-sec3-1]: Introduite par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110e
+
+<sup>1</sup> Le portail de recherche européen (ESP) prévu par les règlements (UE) 2019/817[^110e-1] et (UE) 2019/818[^110e-2] permet d’effectuer des recherches simultanées dans l’EES, l’ETIAS, le C‑VIS, Eurodac, le SIS, le système d’information sur les documents volés et perdus d’Interpol (ASF-SLTD), la banque de données d’Interpol sur les documents de voyage associés aux notices (TDAWN), les données Europol et le CIR.
+
+<sup>2</sup> Les autorités ayant accès à au moins un des systèmes d’information visés à l’al. 1 peuvent accéder à l’ESP en ligne.
+
+<sup>3</sup> Les recherches sont effectuées à l’aide de données d’identité, de données relatives aux documents de voyage ou de données biométriques.
+
+<sup>4</sup> Les autorités voient s’afficher uniquement les données des systèmes d’information visés à l’al. 1 auxquels elles ont accès et le type de lien établi entre les données en vertu des art. 30 à 33 des règlements (UE) 2019/817 et (UE) 2019/818.
+
+[^110e-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110e-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+### Section 4 Détecteur d’identités multiples (MID)
+
+[^chap14b-sec4-1]
+
+[^chap14b-sec4-1]: Introduite par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110f
+
+**Contenu du détecteur d’identités multiples**
+
+<sup>1</sup> Le détecteur d’identités multiples (MID) prévu par les règlements (UE) 2019/817[^110f-1] et (UE) 2019/818[^110f-2] sert à effectuer les contrôles d’identité et à lutter contre la fraude à l’identité.
+
+<sup>2</sup> Toute saisie ou mise à jour de données dans l’EES, l’ETIAS, le C-VIS, le SIS ou Eurodac déclenche de manière automatisée une détection d’identités multiples dans le CIR et le SIS.
+
+<sup>3</sup>
+
+Cette détection consiste en une comparaison des données suivantes avec les données déjà présentes dans le CIR et le SIS:
+
+- a. pour le sBMS, les modèles biométriques;
+- b. pour l’ESP, les données d’identité et les données relatives aux documents de voyage.
+
+<sup>4</sup> S’il existe un lien entre les données au sens des art. 30 à 33 des règlements (UE) 2019/817 et (UE) 2019/818, le MID crée et conserve un dossier de confirmation d’identité conformément à l’art. 34 desdits règlements.
+
+[^110f-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110f-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+#### Art. 110g
+
+**Vérification manuelle de différentes identités dans le MID**
+
+<sup>1</sup> Les autorités visées à l’art. 110*c*, al. 1, peuvent accéder aux données stockées dans le MID afin de procéder à une vérification manuelle des différentes identités.
+
+<sup>2</sup> La responsabilité de la vérification manuelle des différentes identités revient à l’autorité qui saisit ou met à jour des données dans les systèmes d’information Schengen/Dublin conformément à l’art. 110*f,* al. 2. Les liens vers des signalements dans le SIS qui relèvent de la police sont du ressort du bureau SIRENE.
+
+<sup>3</sup> La vérification manuelle des différentes identités est effectuée conformément à l’art. 29 des règlements (UE) 2019/817[^110g-1] et (UE) 2019/818[^110g-2].
+
+<sup>4</sup> La procédure à suivre lorsque la vérification manuelle révèle l’existence d’identités multiples illicites ou la présence d’une personne dans plusieurs systèmes d’information Schengen/Dublin est prévue respectivement aux art. 32 et 33 des règlements (UE) 2019/817 et (UE) 2019/818.
+
+[^110g-1]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110g-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+### Section 5 Communication de données et responsabilité en matière de traitement de données
+
+[^chap14b-sec5-1]
+
+[^chap14b-sec5-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110h
+
+**Communication de données du sBMS, du CIR et du MID**[^110h-1]
+
+La communication de données du sBMS, du CIR ou du MID est régie par l’art. 50 des règlements (UE) 2019/817[^110h-2] et (UE) 2019/818[^110h-3].
+
+[^110h-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110h-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110h-3]: Cf. note de bas de page relative à l’art. 110, al. 1.
+
+#### Art. 110i
+
+**Responsabilité en matière de traitement des données dans le sBMS, le CIR et le MID**[^110i-1]
+
+La responsabilité du traitement des données dans le sBMS, le CIR ou le MID est régie par l’art. 40 des règlements (UE) 2019/817[^110i-2] et (UE) 2019/818[^110i-3].
+
+[^110i-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110i-2]: Cf. note de bas de page relative à l’art. 110, al. 1.
+[^110i-3]: Cf. note de bas de page relative à l’art. 110, al. 1.
 
 #### Art. 111
 
@@ -3217,11 +3918,11 @@ Le SEM exploite, en collaboration avec le Tribunal administratif fédéral et le
 
 [^111-1]: Abrogé par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), avec effet au 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-## Chapitre 14*b* Protection des données dans le cadre des accords d’association à Schengen
+## Chapitre 14*c* Protection des données dans le cadre des accords d’association à Schengen
 
-[^chap14b-1]
+[^chap14c-1]
 
-[^chap14b-1]: Anciennement chapitre 14<sup>bis</sup>. Introduit par l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
+[^chap14c-1]: Anciennement chapitre 14<sup>bis</sup>, puis 14*b*. Introduit par l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 
 #### Art. 111a
 
@@ -3264,9 +3965,9 @@ Le SEM exploite, en collaboration avec le Tribunal administratif fédéral et le
 
 <sup>2</sup> À ce titre, elles peuvent communiquer et recevoir notamment les données personnelles visées à l’art. 111*b*, al. 2, let. b à d.
 
-<sup>3</sup> Les art. 111*a,* 111*d* et 111*f* sont applicables par analogie.[^111c-1]
+<sup>3</sup> Les art. 109*l*, 111*a* et 111*d* sont applicables par analogie.[^111c-1]
 
-[^111c-1]: Nouvelle teneur selon le ch. 1 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^111c-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111d
 
@@ -3286,18 +3987,12 @@ Des données personnelles peuvent être communiquées à un État tiers en dépi
 
 <sup>4</sup> Le Conseil fédéral fixe l’étendue des garanties à fournir et les modalités selon lesquelles elles doivent être fournies.
 
-<sup>5</sup>
-
-Les données issues de la banque de données Eurodac ne peuvent en aucun cas être transmises:
-
-- a. à un État qui n’est pas lié par un des accords d’association à Dublin;
-- b. à des organisations internationales;
-- c. à des entités privées.[^111d-4]
+<sup>5</sup> …[^111d-4]
 
 [^111d-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^111d-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-3]: Nouvelle teneur selon l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^111d-4]: Introduit par l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^111d-4]: Introduit par l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT) ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)). Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111e
 
@@ -3307,12 +4002,9 @@ Les données issues de la banque de données Eurodac ne peuvent en aucun cas êt
 
 #### Art. 111f
 
-**Droit d’accès**
+[^111f-1]
 
-Le droit d’accès est régi par les dispositions fédérales ou cantonales de protection des données.[^111f-1] …[^111f-2]
-
-[^111f-1]: Nouvelle teneur selon le ch. 1 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
-[^111f-2]: Phrase abrogée par l’annexe 1 ch. II 4 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111f-1]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111g
 
@@ -3332,56 +4024,11 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 [^111h-1]: Abrogé par le ch. 1 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, avec effet au 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-## Chapitre 14*c* Eurodac
-
-[^chap14c-1]
-
-[^chap14c-1]: Anciennement chapitre 14<sup>ter</sup>. Introduit par l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
-
 #### Art. 111i
 
 [^111i-1]
 
-<sup>1</sup>
-
-Les postes frontière et les autorités cantonales et communales de police relèvent immédiatement les empreintes digitales de tous les doigts des étrangers âgés de plus de 14 ans:
-
-- a. qui entrent illégalement en Suisse en provenance d’un État qui n’est pas lié par un des accords d’association à Dublin, et
-- b. qui ne sont pas refoulés ou mis en rétention ou détention en vue du refoulement durant la totalité de la période entre leur appréhension et leur renvoi.
-
-<sup>2</sup>
-
-Par ailleurs, les données suivantes sont relevées:
-
-- a. le lieu où la personne a été appréhendée et la date;
-- b. le sexe de la personne appréhendée;
-- c. la date à laquelle les empreintes digitales ont été relevées;
-- d. le numéro de référence attribué par la Suisse aux empreintes digitales;
-- e. la date à laquelle les données ont été transmises à l’unité centrale;
-- f. le code d’identification de l’opérateur.
-
-<sup>3</sup> Les données saisies selon les al. 1 et 2 sont transmises à l’unité centrale dans les 72 heures après l’interception de la personne. Si la personne est mise en détention pour une durée supérieure à 72 heures, la livraison des données doit avoir lieu avant sa remise en liberté.
-
-<sup>4</sup> Si la saisie des empreintes digitales est impossible en raison de l’état des doigts de l’intéressé, celles-ci doivent être livrées à l’unité centrale dans les 48 heures après qu’une saisie de qualité soit à nouveau possible. Si la saisie est impossible en raison de l’état de santé de la personne ou de mesures relevant de la santé publique, les empreintes digitales doivent être transmises à l’unité centrale dans les 48 heures après que le motif de l’empêchement a disparu.
-
-<sup>5</sup> Si des problèmes techniques graves empêchent la transmission des données, un délai supplémentaire de 48 heures est accordé afin de mettre en œuvre les mesures prévues pour garantir le fonctionnement du système.
-
-<sup>6</sup> Les postes frontière, les autorités cantonales et communales de police et celles compétentes dans le domaine des étrangers peuvent relever les empreintes digitales de tous les doigts des étrangers de plus de 14 ans qui séjournent illégalement en Suisse afin de contrôler s’ils ont déjà déposé une demande d’asile dans un autre État lié par un des accords d’association à Dublin.
-
-<sup>7</sup> Les données relevées conformément aux al. 1, 2 et 6 sont communiquées au SEM en vue de leur transmission à l’unité centrale.
-
-<sup>8</sup>
-
-Les données transmises conformément aux al. 1 et 2 sont enregistrées par l’unité centrale dans la banque de données Eurodac et sont détruites automatiquement 18 mois après le relevé des empreintes digitales. Le SEM demande à l’unité centrale de procéder à la destruction anticipée de ces données dès qu’il a connaissance du fait que l’étranger:
-
-- a. a obtenu une autorisation de séjour en Suisse;
-- b. a quitté le territoire des États liés par un des accords d’association à Dublin;
-- c. a acquis la nationalité d’un État lié par un des accords d’association à Dublin.
-
-<sup>9</sup> Les art. 102*b*, 102*c* et 102*e* LAsi[^111i-2] sont applicables aux procédures définies aux al. 1 à 8.
-
-[^111i-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 26 sept. 2014 (Reprise du R [EU] n<sup>o</sup> 603/2013 relatif à la création d’Eurodac et modifiant le R [UE] n<sup>o</sup> 1077/2011 portant création de l’Agence IT), en vigueur depuis le 20 juil. 2015 ([RO 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^111i-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^111i-1]: Abrogé par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, avec effet au 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 ## Chapitre 15 Voies de droit
 
@@ -3547,18 +4194,17 @@ Est puni d’une amende quiconque, intentionnellement ou par négligence:
 
 #### Art. 120d
 
-**Traitement illicite de données personnelles dans les systèmes d’information du SEM**[^120d-1]
+**Traitement illicite de données personnelles dans les systèmes d’information**[^120d-1]
 
-<sup>1</sup> Chaque autorité compétente assure que le traitement des données personnelles dans les systèmes d’information du SEM a lieu en adéquation avec les buts visés et uniquement dans la mesure où il est nécessaire à l’accomplissement de ses tâches.
+Est puni d’une amende quiconque, en qualité de collaborateur d’une autorité ayant compétence pour traiter des données, traite délibérément des données personnelles:
 
-<sup>2</sup>
+- a. d’ORBIS ou du C-VIS dans un but autre que ceux prévus aux art. 109*a* à 109*d*;
+- b. de l’EES dans un but autre que ceux prévus aux art. 103*c* et 103*d*;
+- c. de l’ETIAS dans un but autre que ceux prévus aux art. 108*e* et 108*f*;
+- d. du CIR dans un but autre que ceux prévus aux art. 110*a* à 110*d*;
+- e. du MID dans un but autre que ceux prévus aux art. 110*f et* 110*g*.
 
-Est puni d’une amende quiconque traite des données personnelles:
-
-- a. du système national d’information sur les visas ou du C-VIS dans un but autre que ceux prévus aux art. 109*a* à 109*d*;
-- b. de l’EES dans un but autre que ceux prévus à l’art. 103*c*.
-
-[^120d-1]: Introduit par le ch. I de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des Ac. d’association à Schengen et à Dublin; [RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nouvelle teneur selon l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^120d-1]: Introduit par le ch. I de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des Ac. d’association à Schengen et à Dublin; [RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nouvelle teneur selon l’annexe 2 ch. II de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 120e
 
@@ -3605,9 +4251,9 @@ Est puni d’une amende quiconque traite des données personnelles:
 
 **Violation du devoir de diligence des entreprises de transport aérien**[^122a-1]
 
-<sup>1</sup> L’entreprise de transport aérien qui viole le devoir de diligence prévu à l’art. 92, al. 1, est tenue au paiement d’un montant de 4000 francs par passager transporté ne disposant pas des documents de voyage, visa ou titre de séjour nécessaires. Dans les cas graves, le montant est de 16 000 francs par passager. Dans les cas de peu de gravité, les autorités peuvent renoncer à introduire une procédure.
+<sup>1</sup> L’entreprise de transport aérien qui viole le devoir de diligence prévu à l’art. 92, al. 1, est tenue au paiement d’un montant de 4000 francs par passager transporté ne disposant pas des documents de voyage, autorisations de voyage ETIAS, visas ou titres de séjour requis. Dans les cas graves, le montant est de 16 000 francs par passager. Dans les cas de peu de gravité, les autorités peuvent renoncer à introduire une procédure.[^122a-2]
 
-<sup>2</sup> Une violation du devoir de diligence est présumée lorsque l’entreprise a transporté un passager ne disposant pas des documents de voyage, visa ou titre de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports et que ce passager s’est vu refuser l’entrée.
+<sup>2</sup> Une violation du devoir de diligence est présumée lorsque l’entreprise a transporté un passager ne disposant pas des documents de voyage, autorisations de voyage ETIAS, visas ou titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports et que ce passager s’est vu refuser l’entrée.[^122a-3]
 
 <sup>3</sup>
 
@@ -3620,13 +4266,18 @@ Il n’y a pas violation du devoir de diligence dans les cas suivants:
   - 1\. que la contrefaçon ou la falsification d’un document de voyage, d’un visa ou d’un titre de séjour n’était pas manifestement décelable,
   - 2\. qu’il n’était pas manifestement décelable qu’un document de voyage, un visa ou un titre de séjour n’appartenait pas à la personne transportée,
   - 3\. que les cachets apposés sur un document de voyage ne permettaient pas d’établir aisément le nombre de jours du séjour autorisé ou des entrées,
-  - 4\. qu’elle a pris toutes les mesures organisationnelles nécessaires raisonnablement exigibles pour éviter de transporter des passagers ne disposant pas des documents de voyage, des visas et des titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports;
+  - 4\.[^122a-4] qu’elle a pris toutes les mesures organisationnelles nécessaires raisonnablement exigibles pour éviter de transporter des passagers ne disposant pas des documents de voyage, des autorisations de voyage ETIAS, des visas et des titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports,
+  - 5\.[^122a-5] qu’un dysfonctionnement de l’ETIAS a empêché la consultation du système pour y vérifier l’existence d’une autorisation de voyage ETIAS valable;
 
 - b. l’entreprise de transport aérien rend vraisemblable qu’elle a été contrainte de transporter une personne.
 
 <sup>4</sup> Le Conseil fédéral peut prévoir des exceptions au paiement du montant prévu à l’al. 1, notamment en cas de guerre ou de catastrophe naturelle.
 
 [^122a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^122a-2]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-5]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 122b
 
@@ -3634,7 +4285,7 @@ Il n’y a pas violation du devoir de diligence dans les cas suivants:
 
 <sup>1</sup> L’entreprise de transport aérien qui viole son obligation de communiquer est tenue au paiement d’un montant de 4000 francs par vol. Dans les cas graves, le montant est de 12 000 francs par vol. Dans les cas de peu de gravité, les autorités peuvent renoncer à introduire une procédure.
 
-<sup>2</sup> Une violation de l’obligation de communiquer est présumée lorsque l’entreprise de transport aérien ne transmet pas à temps les données prévues à l’art. 104, al. 3, ou que ces données sont incomplètes ou fausses.
+<sup>2</sup> Une violation de l’obligation de communiquer est présumée lorsque l’entreprise de transport aérien ne transmet pas à temps les données prévues à l’art. 92*a*, al. 3, ou que ces données sont incomplètes ou fausses.[^122b-2]
 
 <sup>3</sup>
 
@@ -3644,6 +4295,7 @@ Il n’y a pas violation de l’obligation de communiquer lorsque l’entreprise
 - b. qu’elle a pris toutes les mesures organisationnelles raisonnablement exigibles pour éviter de violer son obligation de communiquer.
 
 [^122b-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^122b-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 122c
 
@@ -3658,10 +4310,11 @@ Il n’y a pas violation de l’obligation de communiquer lorsque l’entreprise
 La procédure est réglée par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^122c-2]. Elle doit être introduite:
 
 - a. dans le cas d’une violation du devoir de diligence: au plus tard dans les deux ans qui suivent le refus d’entrée concerné;
-- b. dans le cas d’une violation de l’obligation de communiquer: au plus tard dans les deux ans qui suivent la date à laquelle les données visée à l’art. 104, al. 1, auraient dû être transmises.
+- b.[^122c-3] dans le cas d’une violation de l’obligation de communiquer: au plus tard dans les deux ans qui suivent la date à laquelle les données visées à l’art. 92*a*, al. 1, auraient dû être transmises.
 
 [^122c-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^122c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^122c-3]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 ## Chapitre 17 Émoluments
 
@@ -3712,11 +4365,12 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 <sup>4</sup> Les dispositions pénales de la présente loi s’appliquent aux infractions commises avant son entrée en vigueur lorsqu’elles sont plus favorables à leur auteur.
 
-<sup>5</sup> L’art. 107 ne s’applique qu’aux accords de réadmission et de transit conclus après le 1<sup>er</sup> mars 1999.
+<sup>5</sup> L’art. 102*e* ne s’applique qu’aux accords de réadmission et de transit conclus après le 1<sup>er</sup> mars 1999.[^126-1]
 
-<sup>6</sup> À l’entrée en vigueur de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^126-1], les art. 108 et 109 sont abrogés.
+<sup>6</sup> À l’entrée en vigueur de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^126-2], les art. 108 et 109 sont abrogés.
 
-[^126-1]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^126-1]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^126-2]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 126a
 
@@ -3771,11 +4425,21 @@ Les procédures pénales administratives pour violation du devoir de diligence o
 [^126d-1]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
-#### Art. 126e et 126f
+#### Art. 126e
 
-[^126e126f-1]
+**Disposition transitoire relative à la modification du 25 septembre 2020**[^126e-1]
 
-[^126e126f-1]: Pas encore en vigueur ([FF 2020 7669](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+<sup>1</sup> L’obligation d’être en possession d’une autorisation de voyage ETIAS valable prévue à l’art. 5, al. 1, let. a<sup>bis</sup>, ne s’applique pas pendant les six mois qui suivent l’entrée en vigueur de la modification du 25 septembre 2020. Le Conseil fédéral peut prolonger ce délai.
+
+<sup>2</sup> Durant les six mois qui suivent l’échéance du délai prévu à l’al. 1, les autorités compétentes en matière de contrôle à la frontière permettent aux ressortissants d’États tiers soumis à cette obligation qui ne sont pas en possession d’une autorisation de voyage ETIAS d’entrer en Suisse s’ils remplissent toutes les autres conditions visées à l’art. 5 et à condition qu’ils franchissent la frontière extérieure de l’espace Schengen pour la première fois durant ces six mois. Le Conseil fédéral peut prolonger ce délai de six mois au plus.
+
+[^126e-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+
+#### Art. 126f
+
+[^126f-1]
+
+[^126f-1]: Pas encore en vigueur ([FF 2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
 
 #### Art. 126g
 

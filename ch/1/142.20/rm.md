@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2025-05-28
+version: 2025-06-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250528/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250528-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250528/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250615/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250615-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250615/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dals 28 da matg 2025)
+dals 16 da december 2005 (versiun dals 15 da zercladur 2025)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -93,22 +93,27 @@ Questa lescha regla l’entrada en Svizra e la partenza da la Svizra, la dimora 
 
 Persunas estras che vulan entrar en Svizra:
 
-- a. ston avair in document da legitimaziun ch’è renconuschì per passar sur il cunfin e ston avair in visum, sche quai è necessari;
+- a.[^5-1] ston avair in document da legitimaziun renconuschì per passar sur il cunfin;
+- a<sup>bis</sup>.[^5-2] ston avair, sche necessari, in visum tenor l’Ordinaziun (CE) nr. 810/2009[^5-3] u in’autorisaziun da viadi tenor l’Ordinaziun (UE) 2018/1240[^5-4] (autorisaziun da viadi ETIAS);
 - b. ston avair ils meds finanzials ch’èn necessaris per la dimora;
 - c. na dastgan betg esser in privel per la segirezza publica e per l’urden public sco er per las relaziuns internaziunalas da la Svizra; e
-- d.[^5-1] na dastgan betg esser pertutgadas d’ina mesira d’allontanament u d’ina expulsiun tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> dal Cudesch penal (CP)[^5-2] u tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> da la Lescha penala militara dals 13 da zercladur 1927[^5-3] (LPM).
+- d.[^5-5] na dastgan betg esser pertutgadas d’ina mesira d’allontanament u d’ina expulsiun tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> dal Cudesch penal (CP)[^5-6] u tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> da la Lescha penala militara dals 13 da zercladur 1927[^5-7] (LPM).
 
 <sup>2</sup> Sch’igl è previs mo ina dimora temporara, ston ellas dar la garanzia ch’ellas partan puspè da la Svizra.
 
-<sup>3</sup> Per motivs umanitars, per motivs da l’interess naziunal u pervia d’obligaziuns internaziunalas po il Cussegl federal prevair excepziuns da las premissas per entrar en Svizra tenor l’alinea 1.[^5-4]
+<sup>3</sup> Per motivs umanitars, per motivs da l’interess naziunal u pervia d’obligaziuns internaziunalas po il Cussegl federal prevair excepziuns da las premissas per entrar en Svizra tenor l’alinea 1.[^5-8]
 
-<sup>4</sup> Il Cussegl federal determinescha ils documents da legitimaziun ch’èn renconuschids per passar sur il cunfin.[^5-5]
+<sup>4</sup> Il Cussegl federal determinescha ils documents da legitimaziun ch’èn renconuschids per passar sur il cunfin.[^5-9]
 
-[^5-1]: Versiun tenor la cifra IV 3 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^5-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^5-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^5-4]: Versiun tenor la cifra I da la LF dals 21 da zer. 2019, en vigur dapi il 1. da dec. 2019 ([AS 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^5-5]: Versiun tenor l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
+[^5-1]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^5-2]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)). Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^5-3]: Ordinaziun (CE) nr. 810/2009 dal Parlament europeic e dal Cussegl dals 13 da fan. 2009 davart in codex da visums communitar (Codex da visums), ABl. L 243 dals 15 da sett. 2009, p. 1; midada l’ultima giada tras l’Ordinaziun (UE) 2019/1155, ABl. L 188 dals 12 da fan. 2019, p. 25.
+[^5-4]: Ordinaziun (UE) 2018/1240 dal Parlament europeic e dal Cussegl dals 12 da sett. 2018 davart l’installaziun d’in sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) e davart la midada da las ordinaziuns (UE) nr. 1077/2011, (UE) nr. 515/2014, (UE) 2016/399, (UE) 2016/1624 ed (UE) 2017/2226, ABl. L 236 dals 19 da sett. 2018, p. 1; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fan. 2021, p. 15.
+[^5-5]: Versiun tenor la cifra IV 3 da la LF dals 19 da zer. 2015 (midada dal dretg da sancziuns), en vigur dapi il 1. da schan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^5-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^5-7]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^5-8]: Versiun tenor la cifra I da la LF dals 21 da zer. 2019, en vigur dapi il 1. da dec. 2019 ([AS 2019 3539](https://fedlex.data.admin.ch/eli/oc/2019/652); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^5-9]: Versiun tenor l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
 
 #### Art. 6
 
@@ -141,11 +146,11 @@ Persunas estras che vulan entrar en Svizra:
 <sup>3</sup> Sche las controllas al cunfin svizzer tenor il Codex da cunfin tenor Schengen[^7-5] vegnan reintroducidas temporarmain e sche l’entrada en Svizra vegn refusada, decretescha l’autoritad ch’è cumpetenta per la controlla da cunfin ina disposiziun motivada e contestabla sin il formular tenor l’agiunta V part B dal Codex da cunfin tenor Schengen.[^7-6] La refusa d’entrar en Svizra po vegnir exequida immediatamain. In recurs n’ha betg in effect suspensiv.[^7-7]
 
 [^7-1]: Versiun tenor l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
-[^7-2]: Ordinaziun (UE) 2019/1896 dal Parlament europeic e dal Cussegl dals 13 da nov. 2019 davart la Guardia europeica da cunfin e da costa e davart l’aboliziun da las Ordinaziuns (UE) nr. 1052/2013 ed (UE) 2016/1624, versiun tenor ABl. L 295 dals 14 da nov. 2019, p. 1.
+[^7-2]: Ordinaziun (UE) 2019/1896 dal Parlament europeic e dal Cussegl dals 13 da nov. 2019 davart la Guardia europeica da cunfin e da costa e davart l’aboliziun da las ordinaziuns (UE) nr. 1052/2013 ed (UE) 2016/1624, versiun tenor ABl. L 295 dals 14 da nov. 2019, p. 1.
 [^7-3]: Integrà tras la cifra 1 da l’agiunta dal COF dal 1. d’oct. 2021 concernent la surpigliada da l’Ordinaziun (UE) 2019/1896 davart la Guardia europeica da cunfin e da costa, en vigur dapi il 1. da sett. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^7-4]: Versiun tenor l’art. 2 cifra 1 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-5]: Ordinaziun (UE) 2016/399 dal Parlament europeic e dal Cussegl dals 9 da mars 2016 davart in Codex cuminaivel per il surpassament dals cunfins tras persunas (Codex da cunfin tenor Schengen), ABl. L 77 dals 23 da mars 2016, p. 1; midà l’ultima giada tras l’Ordinaziun (UE) 2017/2225, ABl. L 327 dals 9 da dec. 2017, p. 1.
-[^7-6]: Versiun tenor l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-5]: Ordinaziun (UE) 2016/399 dal Parlament europeic e dal Cussegl dals 9 da mars 2016 davart in Codex cuminaivel per il surpassament dals cunfins tras persunas (Codex da cunfin tenor Schengen), ABl. L 77 dals 23 da mars 2016, p. 1; midada l’ultima giada tras l’Ordinaziun (UE) 2019/817, ABl. L 135 dals 22 da matg 2019, p. 27.
+[^7-6]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^7-7]: Integrà tras l’art. 2 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la Communitad europeica concernent la surpigliada dal Codex da cunfin tenor Schengen ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. b). Versiun tenor la cifra 1 da l’agiunta dal COF dals 15 da dec. 2017 (surpigliada da l’Ordinaziun [UE] 2016/1624 davart la Guardia europeica da cunfin e da costa), en vigur dapi ils 15 da sett. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
@@ -161,6 +166,30 @@ Persunas estras che vulan entrar en Svizra:
 <sup>1</sup> Sin lur territori suveran exequeschan ils chantuns la controlla da persunas.
 
 <sup>2</sup> En enclegientscha cun ils chantuns da cunfin regla il Cussegl federal la controlla da persunas tras la Confederaziun en il territori da cunfin.
+
+#### Art. 9a
+
+**Surveglianza da l’arrivada a la plazza aviatica**[^9a-1]
+
+<sup>1</sup>
+
+L’arrivada da passagiers a la plazza aviatica po vegnir survegliada cun meds tecnics d’identificaziun. Las autoritads ch’èn cumpetentas per la controlla da cunfin (art. 7 e 9) utiliseschan las datas che vegnan registradas en quest connex:[^9a-2]
+
+- a. per constatar l’interpresa d’aviaziun ed il lieu da partenza da l’aviun tar persunas estras che n’adempleschan betg las premissas per entrar en Svizra;
+- b. per far ina cumparegliaziun cun las datas ch’èn registradas en ils sistems d’investigaziun, e quai tar tut las persunas che entran en Svizra.
+
+<sup>2</sup> Las autoritads cumpetentas communitgeschan al SIC, sch’ellas constateschan tras questa surveglianza ina periclitaziun concreta da la segirezza interna u externa. Cun la communicaziun pon ellas trametter vinavant las datas correspundentas.[^9a-3]
+
+<sup>3</sup> Las datas registradas ston vegnir stgassadas entaifer 30 dis. Sche las datas vegnan utilisadas per ina procedura penala pendenta, per ina procedura d’asil pendenta u per ina procedura pendenta tenor il dretg da persunas estras, po il Cussegl federal prevair che tschertas datas vegnian conservadas pli ditg.
+
+<sup>4</sup> Als chantuns, en ils quals sa chattan plazzas aviaticas internaziunalas, po la Confederaziun pajar contribuziuns als custs da la surveglianza tenor l’alinea 1.
+
+<sup>5</sup> Il Cussegl federal regla las specificaziuns, a las qualas in sistem per identifitgar la fatscha sto satisfar, sco er ils detagls da la procedura da surveglianza e la communicaziun d’infurmaziuns al SIC.[^9a-4]
+
+[^9a-1]: Oriundamain: art. 103.
+[^9a-2]: Versiun da la segunda frasa tenor l’art. 127 qua sutvart, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
+[^9a-3]: Versiun tenor la cifra I 2 da l’O dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal Servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^9a-4]: Versiun tenor la cifra I 2 da l’O dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal Servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
 ## Chapitel 4 Obligaziun da dumandar ina permissiun e d’annunzia
 
@@ -200,7 +229,7 @@ Persunas estras che vulan entrar en Svizra:
 
 <sup>2</sup> L’autoritad cumpetenta po pretender in extract dal register penal dal stadi da derivanza u dal stadi d’origin sco er ulteriurs documents ch’èn necessaris per la procedura.
 
-<sup>3</sup> L’annunzia dastga succeder pir, cur che tut ils documents che vegnan designads da l’autoritad cumpetenta e ch’èn necessaris per conceder la permissiun èn avant maun.
+<sup>3</sup> L’annunzia dastga succeder pir, cura che tut ils documents che vegnan designads da l’autoritad cumpetenta e ch’èn necessaris per conceder la permissiun èn avant maun.
 
 #### Art. 14
 
@@ -688,7 +717,7 @@ Conjugals esters ed uffants nubils sut 18 onns da persunas cun ina permissiun da
 - b. igl è avant maun in’abitaziun che correspunda als basegns;
 - c. els n’èn betg dependents da l’agid social;
 - d. els san communitgar en la lingua naziunala discurrida al lieu da domicil; e
-- e. la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la Lescha federala dals 6 d’october 2006[^43-2] davart las prestaziuns supplementaras tar l’assicuranza per vegls, survivents ed invaliditad (LPS) u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
+- e. la persuna che dumonda la reuniun da la famiglia na retira betg prestaziuns supplementaras annualas tenor la Lescha federala dals 6 d’october 2006[^43-2] davart las prestaziuns supplementaras tar l’assicuranza per vegls, survivents ed invaliditad (LPS) u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
 
 <sup>2</sup> Per la concessiun da la permissiun da dimora basta – empè da la premissa tenor l’alinea 1 litera d – l’annunzia ad ina purschida da promoziun linguistica.
 
@@ -715,7 +744,7 @@ A conjugals esters ed ad uffants nubils sut 18 onns da persunas cun ina permissi
 - b. igl è avant maun in’abitaziun che correspunda als basegns;
 - c. els n’èn betg dependents da l’agid social;
 - d. els san communitgar en la lingua naziunala discurrida al lieu da domicil; e
-- e. la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la LPS[^44-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
+- e. la persuna che dumonda la reuniun da la famiglia na retira betg prestaziuns supplementaras annualas tenor la LPS[^44-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
 
 <sup>2</sup> Per la concessiun da la permissiun da dimora basta – empè da la premissa tenor l’alinea 1 litera d – l’annunzia ad ina purschida da promoziun linguistica.
 
@@ -735,7 +764,7 @@ A conjugals esters ed ad uffants nubils sut 18 onns da persunas cun ina permissi
 - a. els abiteschan ensemen cun talas persunas;
 - b. igl è avant maun in’abitaziun che correspunda als basegns; e
 - c. els n’èn betg dependents da l’agid social;
-- d.[^45-1] la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la LPS[^45-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
+- d.[^45-1] la persuna che dumonda la reuniun da la famiglia na retira betg prestaziuns supplementaras annualas tenor la LPS[^45-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
 
 [^45-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^45-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
@@ -1135,7 +1164,7 @@ Ina permissiun scada:
 
 - a. cun annunziar la partenza per l’exteriur;
 - b. cun survegnir ina permissiun en in auter chantun;
-- c. cur che la valaivladad da la permissiun scada;
+- c. cura che la valaivladad da la permissiun scada;
 - d. cun l’expulsiun tenor l’artitgel 68;
 - e.[^61-1] cun l’expulsiun legalmain valaivla tenor l’artitgel 66*a* CP[^61-2] u tenor l’artitgel 49*a* LPM[^61-3];
 - f.[^61-4] cun l’execuziun d’ina expulsiun tenor l’artitgel 66*a*<sup>bis</sup> CP u tenor l’artitgel 49*a*<sup>bis</sup> LPM.
@@ -1404,7 +1433,7 @@ El po disponer scumonds d’entrar en Svizra envers persunas estras che:
 
 <sup>4</sup> Sche la persuna pertutgada ha cuntrafatg considerablamain u repetidamain a la segirezza publica ed a l’urden public u ha periclità tals u ha periclità la segirezza interna u externa, po l’expulsiun vegnir exequida immediatamain.
 
-[^68-1]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^68-1]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal Servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
 #### Art. 68a
 
@@ -1419,7 +1448,7 @@ L’autoritad cumpetenta inscriva en il sistem d’infurmaziun da Schengen (SIS)
 - c. in’expulsiun tenor l’artitgel 66*a* u 66*a*<sup>bis</sup> CP[^68a-2] u tenor l’artitgel 49*a* u 49*a*<sup>bis</sup> LPM[^68a-3] il mument da l’ordinaziun da l’execuziun;
 - d. ina spedida cun ordinaziun da l’execuziun tenor ils artitgels 44 e 45 LAsil[^68a-4].
 
-<sup>2</sup> Las datas da burgais da terzs stadis, cunter ils quals èn vegnids decretads scumonds d’entrar en Svizra tenor ils artitgels 67 e 68 alinea 3 sco er in’expulsiun, vegnan inscrittas en il SIS tras l’autoritad cumpetenta, sche las premissas da l’Ordinaziun (UE) 2018/1861[^68a-5] èn ademplidas.
+<sup>2</sup> Las datas da burgais da terzs stadis, cunter ils quals èn vegnids decretads scumonds d’entrar en Svizra tenor ils artitgels 67 e 68 alinea 3 sco er in’expulsiun, vegnan inscrittas en il SIS tras l’autoritad cumpetenta, sche las premissas da l’Ordinaziun (UE) 2018/1861[^68a-5] èn ademplidas.[^68a-6]
 
 <sup>3</sup> Il SEM po furnir al SIS las datas biometricas ch’èn gia disponiblas en il sistem automatic d’identificaziun da las improntas dal det tenor l’artitgel 354 CP (AFIS) u en il SIMIC. Las datas pon vegnir furnidas en moda automatisada.
 
@@ -1433,7 +1462,8 @@ L’autoritad cumpetenta inscriva en il sistem d’infurmaziun da Schengen (SIS)
 [^68a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^68a-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^68a-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^68a-5]: Ordinaziun (UE) 2018/1861 dal Parlament europeic e dal Cussegl dals 28 da nov. 2018 davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS) en il sectur da las controllas da cunfin, per midar la Convenziun davart la realisaziun da la Cunvegna da Schengen sco er per midar e per abolir l’Ordinaziun (CE) nr. 1987/2006, versiun tenor ABl. L 312 dals 7.12.2018, p. 14.
+[^68a-5]: Ordinaziun (UE) 2018/1861 dal Parlament europeic e dal Cussegl dals 28 da nov. 2018 davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS) en il sectur da las controllas da cunfin, per midar la Convenziun davart la realisaziun da la Cunvegna da Schengen sco er per midar e per abolir l’Ordinaziun (CE) nr. 1987/2006, ABl. L 312 dals 7 da dec. 2018, p. 14; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fan. 2021, p. 15.
+[^68a-6]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 68b
 
@@ -1490,10 +1520,11 @@ Publicaziuns cun l’intent da refusar l’entrada e la dimora en Svizra tenor l
 
 <sup>1</sup> Las datas arcunadas en il SIS sco er las infurmaziuns supplementaras appartegnentas na dastgan betg vegnir transmessas a terzs stadis, ad organisaziuns internaziunalas, a posts privats u a persunas natiralas.
 
-<sup>2</sup> Il SEM po transmetter questas datas ed infurmaziuns ad in terz stadi, sch’igl è – en vista al return d’ina persuna davent d’in terz stadi – necessari d’identifitgar questa persuna che sa trategna illegalmain en Svizra ubain d’emetter in document da viadi u in document da legitimaziun per ella, quai sut la cundiziun ch’il stadi che ha fatg la publicaziun ha dà ses consentiment e che las premissas da l’artitgel 15 da l’Ordinaziun (UE) 2018/1860[^68e-2] èn ademplidas.
+<sup>2</sup> Il SEM po transmetter questas datas ed infurmaziuns ad in terz stadi, sch’igl è – en vista al return d’ina persuna davent d’in terz stadi – necessari d’identifitgar questa persuna che sa trategna illegalmain en Svizra ubain d’emetter in document da viadi u in document da legitimaziun per ella, quai sut la cundiziun ch’il stadi che ha fatg la publicaziun haja dà ses consentiment e che las premissas da l’artitgel 15 da l’Ordinaziun (UE) 2018/1860[^68e-2] sajan ademplidas.[^68e-3]
 
 [^68e-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68e-2]: Ordinaziun (UE) 2018/1860 dal Parlament europeic e dal Cussegl dals 28 da nov. 2018 davart l’utilisaziun dal sistem d’infurmaziun da Schengen per repatriar burgais da terzs stadis cun ina dimora illegala, versiun tenor ABl. L 312 dals 7.12.2018, p. 1.
+[^68e-2]: Ordinaziun (UE) 2018/1860 dal Parlament europeic e dal Cussegl dals 28 da nov. 2018 davart l’utilisaziun dal sistem d’infurmaziun da Schengen per repatriar burgais da terzs stadis cun ina dimora illegala, ABl. L 312 dals 7 da dec. 2018, p. 1; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fan. 2021, p. 15.
+[^68e-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 ### Partiziun 4 Expulsiun ed acziuns internaziunalas da repatriament
 
@@ -1566,7 +1597,7 @@ Il Departament federal da giustia e polizia (DFGP) sustegna ils chantuns che han
 <sup>3</sup> Il DFGP fa cun ils chantuns ina cunvegna davart las modalitads da quests engaschaments.
 
 [^71a-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Versiun tenor la cifra 1 da l’agiunta dal COF dals 15 da dec. 2017 (surpigliada da l’Ordinaziun [UE] 2016/1624 davart la Guardia europeica da cunfin e da costa), en vigur dapi ils 15 da sett. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^71a-2]: Ordinaziun (UE) 2019/1896 dal Parlament europeic e dal Cussegl dals 13 da nov. 2019 davart la Guardia europeica da cunfin e da costa e davart l’aboliziun da las Ordinaziuns (UE) nr. 1052/2013 ed (UE) 2016/1624, versiun tenor ABl. L 295 dals 14 da nov. 2019, p. 1.
+[^71a-2]: Ordinaziun (UE) 2019/1896 dal Parlament europeic e dal Cussegl dals 13 da nov. 2019 davart la Guardia europeica da cunfin e da costa e davart l’aboliziun da las ordinaziuns (UE) nr. 1052/2013 ed (UE) 2016/1624, versiun tenor ABl. L 295 dals 14 da nov. 2019, p. 1.
 [^71a-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dal 1. d’oct. 2021 concernent la surpigliada da l’Ordinaziun (UE) 2019/1896 davart la Guardia europeica da cunfin e da costa, en vigur dapi il 1. da sett. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a<sup>bis</sup>
@@ -2031,7 +2062,7 @@ L’admissiun provisorica tenor ils alineas 2 e 4 na vegn betg disponida, sche l
 <sup>5</sup> Dumondas per conceder ina permissiun da dimora che vegnan inoltradas da persunas estras ch’èn admessas provisoricamain e che sa trategnan dapi passa 5 onns en Svizra vegnan examinadas pli detagliadamain, e quai considerond l’integraziun, las relaziuns famigliaras e la raschunaivladad d’in return en il stadi da derivanza.
 
 [^84-1]: Versiun tenor la cifra I 2 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^84-2]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^84-2]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal Servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^84-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 85
@@ -2130,7 +2161,7 @@ Per conjugals e per uffants nubils sut 18 onns da persunas ch’èn admessas pro
 - b. igl è avant maun in’abitaziun che correspunda als basegns;
 - c. la famiglia n’è betg dependenta d’agid social;
 - d. els san communitgar en la lingua naziunala discurrida al lieu da domicil u èn annunziads per ina purschida da promoziun linguistica correspundenta; e
-- e. la persuna che vegn reunida na retira betg prestaziuns supplementaras annualas tenor la LPS[^85c-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
+- e. la persuna che dumonda la reuniun da la famiglia na retira betg prestaziuns supplementaras annualas tenor la LPS[^85c-2] u na pudess er betg retrair talas prestaziuns en consequenza da la reuniun da la famiglia.
 
 <sup>2</sup> La premissa tenor l’alinea 1 litera d na vegn betg applitgada per uffants nubils sut 18 onns. Da questa premissa poi ultra da quai vegnir divergià, sch’i èn avant maun motivs impurtants tenor l’artitgel 49*a* alinea 2.
 
@@ -2253,11 +2284,65 @@ Las persunas estras sco er terzas persunas ch’èn participadas a proceduras te
 
 **Obligaziun da diligenza**[^92-1]
 
-<sup>1</sup> Las interpresas d’aviaziun ston prender tut las mesiras che pon vegnir pretendidas dad ellas, per ch’ellas transportian mo persunas che possedan ils documents da viadi, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas.
+<sup>1</sup> Las interpresas d’aviaziun ston prender tut las mesiras che pon vegnir pretendidas dad ellas, per ch’ellas transportian mo persunas che possedan ils documents da viadi, las autorisaziuns da viadi ETIAS, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas.[^92-2]
 
 <sup>2</sup> Il Cussegl federal regla la dimensiun da l’obligaziun da diligenza.
 
 [^92-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^92-2]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+
+#### Art. 92a
+
+**Obligaziun d’annunzia da las interpresas d’aviaziun**[^92a-1]
+
+<sup>1</sup> Per meglierar las controllas da cunfin e per cumbatter entradas illegalas en il territori da Schengen e cunter passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas po il SEM, sin dumonda da las autoritads ch’èn cumpetentas per la controlla da cunfin, obligar las interpresas d’aviaziun d’annunziar – per tscherts sgols – ad el u a l’autoritad ch’è cumpetenta per la controlla da cunfin las datas persunalas dals passagiers sco er las datas davart il sgol.[^92a-2]
+
+<sup>1bis</sup>
+
+Il SEM po extender l’obligaziun d’annunzia sin ulteriurs sgols:
+
+- a. sin dumonda dal fedpol: per cumbatter la criminalitad internaziunala organisada e cunter terrorissem;
+- b. sin dumonda dal SIC: per prevegnir a smanatschas che resultan per la segirezza interna ed externa tras terrorissem, tras spiunadi, tras la preparaziun da commerzi scumandà cun armas e cun material radioactiv sco er tras il transfer illegal da tecnologia.[^92a-3]
+
+<sup>1ter</sup> Las datas ston vegnir transmessas immediatamain suenter la partenza da l’aviun.[^92a-4]
+
+<sup>2</sup>
+
+L’ordinaziun da l’obligaziun d’annunzia sto cuntegnair:
+
+- a. las plazzas aviaticas u ils stadis da partenza da l’aviun;
+- b. las categorias da datas tenor l’alinea 3;
+- c. ils detagls tecnics davart la transmissiun da las datas.
+
+<sup>3</sup>
+
+L’obligaziun d’annunzia vala per las suandantas categorias da datas:
+
+- a. las persunalias dals passagiers (num, prenum, schlattaina, data da naschientscha, naziunalitad);
+- b. il numer, il stadi emittent, il gener e la data da scadenza dal document da viadi ch’ils passagiers portan cun sai;
+- c. il numer, il stadi emittent, il gener e la data da scadenza dal visum u dal titel da dimora ch’ils passagiers portan cun sai, premess che l’interpresa d’aviaziun disponia da questas datas;
+- d. la plazza aviatica da partenza da l’aviun, las plazzas aviaticas da transit u la plazza aviatica da destinaziun en Svizra sco er indicaziuns davart la ruta da sgol ch’il passagier ha reservà, premess che l’interpresa d’aviaziun disponia da questas infurmaziuns;
+- e. il code da transport;
+- f. il dumber da passagiers a bord da l’aviun respectiv;
+- g. la data e las uras da la partenza planisada e da l’arrivada planisada da l’aviun.
+
+<sup>4</sup> Las interpresas d’aviaziun infurmeschan las persunas pertutgadas tenor l’artitgel 19 da la Lescha federala dals 25 da settember 2020[^92a-5] davart la protecziun da datas (LPD).[^92a-6]
+
+<sup>5</sup> Ordinaziuns u aboliziuns da l’obligaziun d’annunzia vegnan decretadas en furma d’ina disposiziun generala e vegnan publitgadas en il Fegl uffizial federal. Recurs cunter talas disposiziuns n’han betg in effect suspensiv.
+
+<sup>6</sup>
+
+Las interpresas d’aviaziun dastgan conservar las datas tenor l’alinea 3 unicamain per motivs da cumprova. Ellas ston stizzar questas datas:
+
+- a. sch’igl è cler ch’il SEM n’avra nagina procedura pervia da violaziun da l’obligaziun d’annunzia, il pli tard dentant 2 onns suenter la data dal sgol;
+- b. il di suenter che la disposiziun decretada sin basa da l’artitgel 122*b* è entrada en vigur.
+
+[^92a-1]: Oriundamain: art. 104. Versiun tenor la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^92a-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-3]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-4]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^92a-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^92a-6]: Versiun tenor la cifra I 1 da l’agiunta 2 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 93
 
@@ -2511,21 +2596,18 @@ Il Cussegl federal po far cunvegnas cun stadis esters u cun organisaziuns intern
 
 [^chap14-1]
 
-[^chap14-1]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-
-### Partiziun 1 Chaussas generalas
-
-[^chap14-sec1-1]
-
-[^chap14-sec1-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 101
 
-**Elavuraziun da datas persunalas**[^101-1]
+**Elavuraziun da datas**[^101-1]
 
-Uschenavant ch’il SEM, las autoritads chantunalas cumpetentas per las persunas estras ed – en ses champ da cumpetenza – il Tribunal administrativ federal basegnan questas datas per ademplir lur incumbensas legalas, pon els elavurar u laschar elavurar datas da persunas estras sco er da terzas persunas participadas a proceduras tenor questa lescha, inclusiv datas persunalas spezialmain sensiblas.
+<sup>1</sup> Uschenavant ch’il SEM, las autoritads da migraziun chantunalas cumpetentas ed – en ses champ da cumpetenza – il Tribunal administrativ federal basegnan questas datas per ademplir lur incumbensas legalas, pon els elavurar u laschar elavurar datas da persunas estras sco er da terzas persunas participadas a proceduras tenor questa lescha, inclusiv datas persunalas spezialmain sensiblas.[^101-2]
 
-[^101-1]: Versiun tenor la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+<sup>2</sup> L’autoritad cumpetenta per l’elavuraziun da las datas procura, che l’elavuraziun da datas persunalas en ils sistems d’infurmaziun dal SEM ed en ils sistems d’infurmaziun da Schengen/Dublin stettia en ina relaziun commensurada cun las finamiras persequitadas e sa restrenschia a quai ch’è necessari per ademplir sias incumbensas.
+
+[^101-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^101-2]: Versiun tenor la cifra I 1 da l’agiunta 2 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 102
 
@@ -2575,38 +2657,96 @@ Las suandantas autoritads han il dretg da leger las datas ch’èn arcunadas sin
 
 [^102b-1]: Integrà tras l’art. 2 cifra I dal COF dals 18 da zer. 2010 (ulteriur svilup dal possess actual da Schengen ed introducziun da las datas biometricas en ils documents da legitimaziun da persunas estras), en vigur dapi ils 24 da schan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-### Partiziun 2 Datas da passagiers, surveglianza e controllas a las plazzas aviaticas ed obligaziun d’annunzia da las interpresas d’aviaziun
+#### Art. 102c
 
-[^chap14-sec2-1]
+**Communicaziun da datas persunalas a l’exteriur**[^102c-1]
 
-[^chap14-sec2-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+<sup>1</sup> Per ademplir lur incumbensas, cunzunt per cumbatter acts chastiabels tenor questa lescha, pon il SEM e las autoritads chantunalas cumpetentas communitgar datas da persunas estras a las autoritads estras ed a las organisaziuns internaziunalas che han incumbensas correspundentas, sche las premissas tenor l’artitgel 16 LPD[^102c-2] èn ademplidas.[^102c-3]
+
+<sup>2</sup>
+
+Las suandantas datas persunalas pon vegnir communitgadas:
+
+- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
+- b. indicaziuns davart il passaport u davart auters documents d’identitad;
+- c. datas biometricas;
+- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
+- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada e sche quella è vegnida infurmada;
+- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas;
+- g. indicaziuns davart ils lieus da dimora e davart ils itineraris;
+- h. indicaziuns davart la regulaziun da la dimora e davart visums concedids.
+
+[^102c-1]: Oriundamain: art. 105.
+[^102c-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^102c-3]: Versiun tenor la cifra I 1 da l’agiunta 2 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 102d
+
+**Communicaziun da datas persunalas al stadi d’origin u da derivanza**[^102d-1]
+
+Per exequir spedidas u expulsiuns en il stadi d’origin u da derivanza po l’autoritad ch’è cumpetenta per organisar la partenza da la Svizra communitgar las suandantas datas ad autoritads estras, dentant mo, sche la persuna estra u ses confamigliars na vegnan betg periclitads tras quai:
+
+- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, num e prenum dals geniturs, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
+- b. indicaziuns davart il passaport u davart auters documents d’identitad;
+- c. datas biometricas;
+- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
+- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada e sche quella è vegnida infurmada;
+- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas.
+
+[^102d-1]: Oriundamain: art. 106.
+
+#### Art. 102e
+
+**Communicaziun da datas persunalas en cas da cunvegnas da readmissiun e da transit**[^102e-1]
+
+<sup>1</sup> Per realisar las cunvegnas da readmissiun e da transit ch’èn menziunadas en l’artitgel 100 pon il SEM e las autoritads chantunalas cumpetentas communitgar las datas persunalas necessarias er a stadis che n’han betg ina protecziun da datas ch’è equivalenta a la protecziun da datas svizra.
+
+<sup>2</sup>
+
+Per readmetter ses agens burgais pon vegnir communitgadas las suandantas datas ad in auter stadi contrahent:
+
+- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
+- b. indicaziuns davart il passaport u davart auters documents d’identitad;
+- c. datas biometricas;
+- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
+- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada;
+- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas;
+- g. indicaziuns davart proceduras penalas, sche quai è necessari en il cas concret per reglar la readmissiun e per mantegnair la segirezza publica e l’urden public en il stadi d’origin e sche la persuna pertutgada na vegn betg periclitada tras quai; l’artitgel 2 da la Lescha federala dals 20 da mars 1981[^102e-2] davart l’assistenza giudiziala vala tenor il senn.
+
+<sup>3</sup>
+
+En vista al transit da persunas d’ulteriurs stadis pon vegnir communitgadas las suandantas datas a l’auter stadi contrahent:
+
+- a. las datas tenor l’alinea 2;
+- b. indicaziuns davart ils lieus da dimora e davart ils itineraris;
+- c. indicaziuns davart la regulaziun da la dimora e davart visums concedids.
+
+<sup>4</sup> La cunvegna da readmissiun u da transit sto menziunar l’intent da l’utilisaziun da las datas, eventualas mesiras da segirezza sco er las autoritads cumpetentas.
+
+[^102e-1]: Oriundamain: art. 107.
+[^102e-2]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 #### Art. 103
 
-**Surveglianza da l’arrivada a la plazza aviatica**
+[^103-1]
 
-<sup>1</sup>
+[^103-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-L’arrivada da passagiers a la plazza aviatica po vegnir survegliada cun meds tecnics d’identificaziun. Las autoritads ch’èn cumpetentas per la controlla da cunfin (art. 7 e 9) utiliseschan las datas che vegnan registradas en quest connex:[^103-1]
+## Chapitel 14*a* Sistems d’infurmaziun
 
-- a. per constatar l’interpresa d’aviaziun ed il lieu da partenza da l’aviun tar persunas estras che n’adempleschan betg las premissas per entrar en Svizra;
-- b. per far ina cumparegliaziun cun las datas ch’èn registradas en ils sistems d’investigaziun, e quai tar tut las persunas che entran en Svizra.
+[^chap14a-1]
 
-<sup>2</sup> Las autoritads cumpetentas communitgeschan al SIC, sch’ellas constateschan tras questa surveglianza ina periclitaziun concreta da la segirezza interna u externa. Cun la communicaziun pon ellas trametter vinavant las datas correspundentas.[^103-2]
+[^chap14a-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-<sup>3</sup> Las datas registradas ston vegnir stgassadas entaifer 30 dis. Sche las datas vegnan utilisadas per ina procedura penala pendenta, per ina procedura d’asil pendenta u per ina procedura pendenta tenor il dretg da persunas estras, po il Cussegl federal prevair che tschertas datas vegnian conservadas pli ditg.
+### Partiziun 1 Sistem d’infurmaziun davart las entradas refusadas (sistem INAD)
 
-<sup>4</sup> Als chantuns, en ils quals sa chattan plazzas aviaticas internaziunalas, po la Confederaziun pajar contribuziuns als custs da la surveglianza tenor l’alinea 1.
+[^chap14a-sec1-1]
 
-<sup>5</sup> Il Cussegl federal regla las specificaziuns, a las qualas in sistem per identifitgar la fatscha sto satisfar, sco er ils detagls da la procedura da surveglianza e la communicaziun d’infurmaziuns al SIC.[^103-3]
-
-[^103-1]: Versiun tenor da la frasa l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
-[^103-2]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^103-3]: Versiun tenor la cifra I 2 da l’Ordinaziun dals 12 da dec. 2008 davart l’adattaziun da disposiziuns legalas pervia dal transferiment da las unitads d’infurmaziun dal servetsch d’analisa e prevenziun al DDPS, en vigur dapi il 1. da schan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^chap14a-sec1-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103a
 
-**Sistem d’infurmaziun davart las entradas refusadas**[^103a-1]
+**…[^103a-2]**[^103a-1]
 
 <sup>1</sup> Il SEM maina in sistem d’infurmaziun intern davart las entradas refusadas tenor l’artitgel 65 (sistem INAD). Il sistem INAD serva a realisar las sancziuns en cas da violaziun da l’obligaziun da diligenza tenor l’artitgel 122*a* sco er a far statisticas.
 
@@ -2621,30 +2761,46 @@ Il sistem cuntegna las suandantas datas da persunas, a las qualas l’entrada en
 
 <sup>3</sup> Las datas registradas en il sistem vegnan anonimisadas suenter 2 onns.
 
-<sup>4</sup> A chaschun dal passagi dal cunfin pon las datas dal passaport biometric u da la charta da participaziun vegnir cumparegliadas cun il sistem informatisà da retschertga da la polizia (RIPOL) e cun il SIS.[^103a-2]
+<sup>4</sup> A chaschun dal passagi dal cunfin pon las datas dal passaport biometric u da la charta da participaziun vegnir cumparegliadas cun il sistem informatisà da retschertga da la polizia (RIPOL) e cun il SIS.[^103a-3]
 
 [^103a-1]: Oriundamain: art. 103*b*. Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^103a-2]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^103a-2]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103a-3]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+### Partiziun 2 Sistem d’entrada e da sortida (EES) e controlla da cunfin automatisada
+
+[^chap14a-sec2-1]
+
+[^chap14a-sec2-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103b
 
 **Sistem d’entrada e da sortida**[^103b-1]
 
-<sup>1</sup> A norma da l’Ordinaziun (UE) 2017/2226[^103b-2] cuntegna il sistem d’entrada e da sortida (EES) las datas persunalas dals burgais da terzs stadis, ils quals entran en il territori da Schengen per ina dimora da maximalmain 90 dis entaifer ina perioda da 180 dis u als quals l’entrada en il territori da Schengen vegn refusada.
+<sup>1</sup> A norma da l’Ordinaziun (UE) 2017/2226[^103b-2] cuntegna il sistem d’entrada e da sortida (EES) las datas persunalas dals burgais da terzs stadis, ils quals entran en il territori da Schengen per ina dimora da maximalmain 90 dis entaifer ina perioda da 180 dis u als quals l’entrada en il territori da Schengen vegn refusada.[^103b-3]
 
 <sup>2</sup>
 
 Las suandantas categorias da datas vegnan transmessas al EES sur l’interfatscha naziunala:
 
-- a. las datas alfanumericas davart ils burgais respectivs da terzs stadis sco er las datas davart ils visums concedids, en cas che tals ston vegnir emess;
+- a.[^103b-4] las datas d’identitad davart ils burgais respectivs da terzs stadis sco er las datas davart ils documents da viadi;
 - b. il maletg da la fatscha;
+- b<sup>bis</sup>.[^103b-5] las datas davart ils visums concedids, sch’in visum è obligatoric;
+- b<sup>ter</sup>.[^103b-6] las datas davart autorisaziuns da viadi ETIAS concedidas, sche talas autorisaziuns èn obligatoricas;
 - c. il mument da l’entrada en il territori da Schengen e da la sortida dal territori da Schengen sco er il post da cunfin e l’autoritad ch’è cumpetenta per la controlla da cunfin;
 - d. las entradas refusadas.
 
 <sup>3</sup> Sch’ils burgais da terzs stadis n’èn betg suttamess a l’obligaziun da visum, registrescha l’autoritad cumpetenta – supplementarmain a las datas tenor l’alinea 2 – las improntas dals dets da questas persunas e las transmetta al EES.
 
+<sup>4</sup> Las datas dal EES tenor l’alinea 2 literas a e b sco er tenor l’alinea 3 vegnan arcunadas en moda automatisada en l’arcun cuminaivel per datas d’identitad (CIR).[^103b-7]
+
 [^103b-1]: Integrà tras l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^103b-2]: Ordinaziun (UE) 2017/2226 dal Parlament europeic e dal Cussegl dals 30 da nov. 2017 concernent in sistem d’entrada e da sortida (EES) per registrar las datas d’entrada e da sortida sco er las datas da las entradas refusadas da burgais da terzs stadis als cunfins exteriurs dals stadis commembers, per determinar las cundiziuns d’access al EES per intents da la prevenziun da privels e per intents da la persecuziun penala sco er per midar la Convenziun davart la realisaziun da la Cunvegna da Schengen sco er las ordinaziuns (CE) nr. 767/2008 ed (UE) nr. 1077/2011, versiun tenor ABl. L 327 dals 9 da dec. 2017, p. 20.
+[^103b-2]: Ordinaziun (UE) 2017/2226 dal Parlament europeic e dal Cussegl dals 30 da nov. 2017 concernent in sistem d’entrada e da sortida (EES) per registrar las datas d’entrada e da sortida sco er las datas da las entradas refusadas da burgais da terzs stadis als cunfins exteriurs dals stadis commembers, per determinar las cundiziuns d’access al EES per intents da la prevenziun da privels e per intents da la persecuziun penala sco er per midar la Convenziun davart la realisaziun da la Cunvegna da Schengen sco er las ordinaziuns (CE) nr. 767/2008 ed (UE) nr. 1077/2011, ABl. L 327 dals 9 da dec. 2017, p. 20; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fan. 2021, p. 15.
+[^103b-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103b-4]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103b-5]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^103b-6]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103b-7]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103c
 
@@ -2664,28 +2820,32 @@ Las suandantas autoritads han il dretg da consultar online las datas dal EES:
 
 - a. il Corp da guardias da cunfin e las autoritads chantunalas da polizia ch’èn responsablas per la controlla dals cunfins exteriurs dal territori da Schengen: per realisar las controllas als posts da passagi dals cunfins exteriurs dal territori da Schengen e sin il territori svizzer;
 - b. il SEM, las represchentanzas svizras a l’exteriur e las missiuns, las autoritads chantunalas da migraziun ch’èn cumpetentas per visums e las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas, il Secretariat da stadi e la Direcziun politica dal DFAE sco er il Corp da guardias da cunfin ed ils posts da cunfin da las autoritads chantunalas da polizia: en il rom da la procedura da visums sur il sistem d’infurmaziun central per ils visums (C-VIS) (art. 109*a*);
-- c. il Corp da guardias da cunfin, las autoritads chantunalas e communalas da polizia che fan controllas da persunas, il SEM sco er las autoritads chantunalas e communalas da migraziun: per controllar las premissas per l’entrada u per la dimora en Svizra sco er per identifitgar persunas estras ch’èn eventualmain vegnidas registradas cun in’autra identitad en il EES u che n’adempleschan betg u betg pli las premissas per l’entrada u per la dimora en Svizra.
+- c. il Corp da guardias da cunfin, las autoritads chantunalas e communalas da polizia che fan controllas da persunas, il SEM sco er las autoritads chantunalas e communalas da migraziun: per controllar las premissas per l’entrada u per la dimora en Svizra sco er per identifitgar persunas estras ch’èn eventualmain vegnidas registradas cun in’autra identitad en il EES u che n’adempleschan betg u betg pli las premissas per l’entrada u per la dimora en Svizra;
+- d.[^103c-3] il SEM: en il rom da l’adempliment da sias incumbensas sco post naziunal dal sistem europeic d’infurmaziun e d’autorisaziun da viadis (ETIAS) (post naziunal ETIAS).
 
 <sup>3</sup> Las autoritads tenor l’alinea 2 pon consultar online las datas che vegnan furnidas dal sistem da calculaziun automatisà tenor l’artitgel 11 da l’Ordinaziun (UE) 2017/2226.
 
 <sup>4</sup>
 
-Las suandantas autoritads pon dumandar il post d’access central tenor l’alinea 6 da survegnir datas dal EES per prevegnir, per scuvrir u per eruir malfatgs terroristics u auters grevs malfatgs:[^103c-3]
+Las suandantas autoritads pon dumandar il post d’access central tenor l’alinea 6 da survegnir datas dal EES per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs:[^103c-4]
 
 - a. il fedpol;
 - b. il SIC;
 - c. la Procura publica federala;
-- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano.
+- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano;
+- e.[^103c-5] ils collavuraturs da l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) ch’èn incumbensads cun la persecuziun penala.
 
-<sup>5</sup> …[^103c-4]
+<sup>5</sup> …[^103c-6]
 
-<sup>6</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 29 alinea 3 da l’Ordinaziun (UE) 2017/2226.[^103c-5]
+<sup>6</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 29 alinea 3 da l’Ordinaziun (UE) 2017/2226.[^103c-7]
 
 [^103c-1]: Integrà tras l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Guardar annotaziun da l’art. 103*b* al. 1.
-[^103c-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-4]: Abolì tras la cifra III da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), cun effect dapi il 1. da sett. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^103c-5]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-3]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^103c-4]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-5]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^103c-6]: Abolì tras la cifra III da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), cun effect dapi il 1. da sett. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-7]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2695,8 +2855,11 @@ Las suandantas autoritads pon dumandar il post d’access central tenor l’alin
 
 <sup>2</sup> Il SEM dastga dentant transmetter datas ad in stadi che n’è betg lià tras cunvegnas d’associaziun a la reglamentaziun da Schengen, ubain ad in’organisaziun internaziunala che figurescha en l’agiunta I da l’Ordinaziun (UE) 2017/2226[^103d-2], sche quai è necessari per cumprovar l’identitad d’in burgais d’in terz stadi en vista a ses return e sche las cundiziuns da l’artitgel 41 da l’Ordinaziun (UE) 2017/2226 èn ademplidas.
 
+<sup>3</sup> Per las datas dal EES ch’èn arcunadas en il CIR vala l’artitgel 110*h*.[^103d-3]
+
 [^103d-1]: Integrà tras l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103d-2]: Guardar annotaziun da l’art. 103*b* al. 1.
+[^103d-3]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 103e
 
@@ -2742,82 +2905,41 @@ Il Cussegl federal regla:
 
 #### Art. 104
 
-**Obligaziun d’annunzia da las interpresas d’aviaziun**[^104-1]
+[^104-1]
 
-<sup>1</sup> Per meglierar las controllas da cunfin e per cumbatter cunter entradas illegalas en il territori da Schengen e cunter passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas po il SEM, sin dumonda da las autoritads ch’èn incumbensadas cun la controlla da cunfin, obligar las interpresas d’aviaziun d’annunziar – per tscherts sgols – ad el u a l’autoritad ch’è cumpetenta per la controlla da cunfin las datas persunalas dals passagiers sco er las datas davart il sgol.[^104-2]
+[^104-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-<sup>1bis</sup>
+### Partiziun 3 Sistem d’infurmaziun davart ils passagiers (sistem API) ed access a las datas dals passagiers en il cas singul
 
-Il SEM po extender l’obligaziun d’annunzia sin ulteriurs sgols:
+[^chap14a-sec3-1]
 
-- a. sin dumonda dal fedpol: per cumbatter cunter la criminalitad internaziunala organisada e cunter terrorissem;
-- b. sin dumonda dal SIC: per prevegnir a smanatschas che resultan per la segirezza interna ed externa tras terrorissem, tras spiunadi, tras la preparaziun da commerzi scumandà cun armas e cun material radioactiv sco er tras il transfer illegal da tecnologia.[^104-3]
-
-<sup>1ter</sup> Las datas ston vegnir transmessas immediatamain suenter la partenza da l’aviun.[^104-4]
-
-<sup>2</sup>
-
-L’ordinaziun da l’obligaziun d’annunzia sto cuntegnair:
-
-- a. las plazzas aviaticas u ils stadis da partenza da l’aviun;
-- b. las categorias da datas tenor l’alinea 3;
-- c. ils detagls tecnics davart la transmissiun da las datas.
-
-<sup>3</sup>
-
-L’obligaziun d’annunzia vala per las suandantas categorias da datas:
-
-- a. las persunalias dals passagiers (num, prenum, schlattaina, data da naschientscha, naziunalitad);
-- b. il numer, il stadi emittent, il gener e la data da scadenza dal document da viadi ch’ils passagiers portan cun sai;
-- c. il numer, il stadi emittent, il gener e la data da scadenza dal visum u dal titel da dimora ch’ils passagiers portan cun sai, premess che l’interpresa d’aviaziun disponia da questas datas;
-- d. la plazza aviatica da partenza da l’aviun, las plazzas aviaticas da transit u la plazza aviatica da destinaziun en Svizra sco er indicaziuns davart la ruta da sgol ch’il passagier ha reservà, premess che l’interpresa d’aviaziun disponia da questas infurmaziuns;
-- e. il code da transport;
-- f. il dumber da passagiers a bord da l’aviun respectiv;
-- g. la data e las uras da la partenza planisada e da l’arrivada planisada da l’aviun.
-
-<sup>4</sup> Las interpresas d’aviaziun infurmeschan las persunas pertutgadas tenor l’artitgel 19 da la Lescha federala dals 25 da settember 2020[^104-5] davart la protecziun da datas (LPD).[^104-6]
-
-<sup>5</sup> Ordinaziuns u aboliziuns da l’obligaziun d’annunzia vegnan decretadas en furma d’ina disposiziun generala e vegnan publitgadas en il Fegl uffizial federal. Recurs cunter talas disposiziuns n’han betg in effect suspensiv.
-
-<sup>6</sup>
-
-Las interpresas d’aviaziun dastgan conservar las datas tenor l’alinea 3 unicamain per motivs da cumprova. Ellas ston stizzar questas datas:
-
-- a. sch’igl è cler ch’il SEM n’avra nagina procedura pervia da violaziun da l’obligaziun d’annunzia, il pli tard dentant 2 onns suenter la data dal sgol;
-- b. il di suenter che la disposiziun decretada sin basa da l’artitgel 122*b* è entrada en vigur.
-
-[^104-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^104-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-3]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-4]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^104-6]: Versiun tenor la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^chap14a-sec3-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104a
 
-**Sistem d’infurmaziun davart ils passagiers**[^104a-1]
+**Intent e cuntegn dal sistem d’infurmaziun davart ils passagiers sco er elavuraziun da datas[^104a-2]**[^104a-1]
 
 <sup>1</sup>
 
 Il SEM maina in sistem d’infurmaziun davart ils passagiers (sistem API) per:
 
 - a. meglierar las controllas da cunfin;
-- b. cumbatter en moda efficazia cunter entradas illegalas en il territori da Schengen e cunter passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas;
-- c. cumbatter cunter la criminalitad internaziunala organisada e cunter terrorissem, cunter spiunadi, cunter la preparaziun da commerzi scumandà cun armas e cun material radioactiv sco er cunter il transfer illegal da tecnologia.[^104a-2]
+- b. cumbatter en moda efficazia entradas illegalas en il territori da Schengen e passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas;
+- c. cumbatter la criminalitad internaziunala organisada ed il terrorissem, il spiunadi, la preparaziun da commerzi scumandà cun armas e cun material radioactiv sco er il transfer illegal da tecnologia.[^104a-3]
 
-<sup>1bis</sup> Il sistem API cuntegna las datas tenor l’artitgel 104 alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4.[^104a-3]
+<sup>1bis</sup> Il sistem API cuntegna las datas tenor l’artitgel 92*a* alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4.[^104a-4]
 
-<sup>2</sup> Per controllar, sche las interpresas d’aviaziun adempleschan lur obligaziun d’annunzia, e per far valair las sancziuns tenor l’artitgel 122*b* dastga il SEM consultar en il sistem API las datas tenor l’artitgel 104 alinea 3 cun agid d’ina procedura d’invista.[^104a-4]
+<sup>2</sup> Per controllar, sche las interpresas d’aviaziun adempleschan lur obligaziun d’annunzia, e per far valair las sancziuns tenor l’artitgel 122*b* dastga il SEM consultar en il sistem API las datas tenor l’artitgel 92*a* alinea 3 cun agid d’ina procedura d’invista.[^104a-5]
 
-<sup>3</sup> Per meglierar las controllas da cunfin e per cumbatter cunter entradas illegalas en il territori da Schengen e cunter passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas dastgan las autoritads responsablas per las controllas da persunas als cunfins exteriurs dal territori da Schengen consultar las datas tenor l’artitgel 104 alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4 cun agid d’ina procedura d’invista.[^104a-5]
+<sup>3</sup> Per meglierar las controllas da cunfin e per cumbatter entradas illegalas en il territori da Schengen e passadis illegals tras las zonas da transit internaziunalas da las plazzas aviaticas dastgan las autoritads responsablas per las controllas da persunas als cunfins exteriurs dal territori da Schengen consultar las datas tenor l’artitgel 92*a* alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4 cun agid d’ina procedura d’invista.[^104a-6]
 
-<sup>3bis</sup> Sch’igl exista in suspect ch’ina persuna preparia u commettia malfatgs tenor l’artitgel 104 alinea 1<sup>bis</sup> litera a, po il fedpol consultar las datas tenor l’artitgel 104 alinea 3 cun agid d’ina procedura d’invista.[^104a-6]
+<sup>3bis</sup> Sch’igl exista in suspect ch’ina persuna preparia u commettia malfatgs tenor l’artitgel 92*a* alinea 1<sup>bis</sup> litera a, po il fedpol consultar las datas tenor l’artitgel 92*a* alinea 3 cun agid d’ina procedura d’invista.[^104a-7]
 
-<sup>4</sup> Las datas tenor l’artitgel 104 alinea 3 literas a e b vegnan cumparegliadas automaticamain e sistematicamain cun las datas dal RIPOL, dal SIS, dal SIMIC sco er da la banca da datas dad Interpol per documents engulads e pers (ASF-SLTD).[^104a-7]
+<sup>4</sup> Las datas tenor l’artitgel 92*a* alinea 3 literas a e b vegnan cumparegliadas automaticamain e sistematicamain cun las datas dal RIPOL, dal SIS, dal SIMIC sco er da la banca da datas dad Interpol per documents engulads e pers (ASF-SLTD).[^104a-8]
 
 <sup>5</sup>
 
-Suenter l’arrivada dal sgol respectiv dastgan las datas tenor l’artitgel 104 alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4 vegnir duvrads mo per exequir ina procedura dal dretg penal, dal dretg d’asil u dal dretg da persunas estras. Las datas ston vegnir stizzadas:
+Suenter l’arrivada dal sgol respectiv dastgan las datas tenor l’artitgel 92*a* alinea 3 sco er ils resultats da las cumparegliaziuns tenor l’alinea 4 vegnir duvrads mo per exequir ina procedura dal dretg penal, dal dretg d’asil u dal dretg da persunas estras. Las datas ston vegnir stizzadas:[^104a-9]
 
 - a. sch’igl è cler ch’i na vegn betg exequida ina tala procedura, il pli tard dentant 2 onns suenter la data dal sgol respectiv;
 - b. il di suenter che la disposiziun en ina tala procedura è entrada en vigur.
@@ -2825,28 +2947,31 @@ Suenter l’arrivada dal sgol respectiv dastgan las datas tenor l’artitgel 104
 <sup>6</sup> En furma anonimisada dastgan las datas vegnir conservadas pli ditg ch’ils termins da l’alinea 5, sch’ellas servan ad intents statistics.
 
 [^104a-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^104a-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-3]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-4]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-5]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-6]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^104a-7]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104a-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-3]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104a-4]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun) ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-5]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-6]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-7]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun) ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-8]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^104a-9]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104b
 
 **Transferiment automatic da datas dal sistem API**[^104b-1]
 
-<sup>1</sup> Las datas tenor l’artitgel 104 alinea 3 vegnan transferidas automaticamain al SIC en furma electronica.
+<sup>1</sup> Las datas tenor l’artitgel 92*a* alinea 3 vegnan transferidas automaticamain al SIC en furma electronica.[^104b-2]
 
 <sup>2</sup> Il SIC dastga elavurar las datas per ademplir las incumbensas tenor l’artitgel 104*a* alinea 1 litera c.
 
 [^104b-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^104b-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 104c
 
 **Access a las datas dals passagiers en il cas singul**[^104c-1]
 
-<sup>1</sup> Per realisar la controlla da cunfin, per cumbatter cunter la migraziun illegala e per exequir spedidas ston las interpresas d’aviaziun metter a disposiziun a las autoritads ch’èn cumpetentas per la controlla da cunfin – sin dumonda – las glistas da passagiers.
+<sup>1</sup> Per realisar la controlla da cunfin, per cumbatter la migraziun illegala e per exequir spedidas ston las interpresas d’aviaziun metter a disposiziun a las autoritads ch’èn cumpetentas per la controlla da cunfin – sin dumonda – las glistas da passagiers.
 
 <sup>2</sup>
 
@@ -2862,200 +2987,494 @@ Las glistas da passagiers ston cuntegnair las suandantas datas:
 
 [^104c-1]: Oriundamain: art. 104*b*. Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### Partiziun 3 Communicaziun da datas da persunas a l’exteriur
+#### Art. 105–107
 
-[^chap14-sec3-1]
+[^105107-1]
 
-[^chap14-sec3-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^105107-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-#### Art. 105
+#### Art. 108
 
-**Communicaziun da datas da persunas a l’exteriur**
+[^108-1]
 
-<sup>1</sup> Per ademplir lur incumbensas, cunzunt per cumbatter acts chastiabels tenor questa lescha, pon il SEM e las autoritads chantunalas cumpetentas communitgar datas da persunas estras a las autoritads estras ed a las organisaziuns internaziunalas che han incumbensas correspundentas, sche las premissas tenor l’artitgel 16 LPD[^105-1] èn ademplidas.[^105-2]
+[^108-1]: Guardar art. 126 al. 6 qua sutvart.
 
-<sup>2</sup>
+### Partiziun 3*a* Sistem europeic d’infurmaziun e d’autorisaziun da viadis
 
-Las suandantas datas da persunas pon vegnir communitgadas:
+[^chap14a-sec3a-1]
 
-- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
-- b. indicaziuns davart il passaport u davart auters documents d’identitad;
-- c. datas biometricas;
-- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
-- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada e sche quella è vegnida infurmada;
-- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas;
-- g. indicaziuns davart ils lieus da dimora e davart ils itineraris;
-- h. indicaziuns davart la regulaziun da la dimora e davart visums concedids.
+[^chap14a-sec3a-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
-[^105-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^105-2]: Versiun tenor la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+#### Art. 108a
 
-#### Art. 106
+**Datas dal sistem europeic d’infurmaziun e d’autorisaziun da viadis**[^108a-1]
 
-**Communicaziun da datas da persunas al stadi d’origin u da derivanza**
+<sup>1</sup>
 
-Per exequir spedidas u expulsiuns en il stadi d’origin u da derivanza po l’autoritad ch’è cumpetenta per organisar la partenza da la Svizra communitgar las suandantas datas ad autoritads estras, dentant mo, sche la persuna estra u ses confamigliars na vegnan betg periclitads tras quai:
+Il ETIAS tenor l’Ordinaziun (UE) 2018/1240[^108a-2] cuntegna las suandantas datas da burgais da terzs stadis ch’èn exceptads da l’obligaziun da visum e che vulan entrar en il territori da Schengen:[^108a-3]
 
-- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, num e prenum dals geniturs, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
-- b. indicaziuns davart il passaport u davart auters documents d’identitad;
-- c. datas biometricas;
-- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
-- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada e sche quella è vegnida infurmada;
-- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas.
-
-#### Art. 107
-
-**Communicaziun da datas da persunas en cas da cunvegnas da readmissiun e da transit**
-
-<sup>1</sup> Per realisar las cunvegnas da readmissiun e da transit ch’èn menziunadas en l’artitgel 100 pon il SEM e las autoritads chantunalas cumpetentas communitgar las datas da persunas necessarias er a stadis che n’han betg ina protecziun da datas ch’è equivalenta a la protecziun da datas svizra.
+- a. las datas d’identitad e las datas davart ils documents da viadi;
+- b. las dumondas d’autorisaziun da viadis ETIAS ch’èn vegnidas permessas u refusadas.
 
 <sup>2</sup>
 
-Per readmetter ses agens burgais pon vegnir communitgadas las suandantas datas ad in auter stadi contrahent:
+Il ETIAS cuntegna plinavant ina glista da surveglianza cun datas da burgais da terzs stadis:
 
-- a. las persunalias da la persuna estra (num, prenum, pseudonims, data da naschientscha, lieu da naschientscha, schlattaina, naziunalitad, ultima adressa en il stadi d’origin u da derivanza) e – sche quai è necessari – dals confamigliars;
-- b. indicaziuns davart il passaport u davart auters documents d’identitad;
-- c. datas biometricas;
-- d. ulteriuras datas ch’èn necessarias per identifitgar ina persuna;
-- e. indicaziuns davart il stadi da sanadad, sche quai è en l’interess da la persuna pertutgada;
-- f. las datas ch’èn necessarias per garantir l’entrada en il stadi da destinaziun sco er la segirezza da las persunas accumpagnantas;
-- g. indicaziuns davart proceduras penalas, sche quai è necessari en il cas concret per reglar la readmissiun e per mantegnair la segirezza publica e l’urden public en il stadi d’origin e sche la persuna pertutgada na vegn betg periclitada tras quai; l’artitgel 2 da la Lescha federala dals 20 da mars 1981[^107-1] davart l’assistenza giudiziala vala tenor il senn.
+- a. che vegnan suspectads d’avair commess in grev malfatg terroristic u in auter grev malfatg u d’avair participà ad in tal;
+- b. sch’i existan indizis concrets u motivs plausibels da supponer ch’els commettian in malfatg terroristic u in auter grev malfatg u ch’els sa participeschian ad in tal.
+
+<sup>3</sup> Las datas tenor l’alinea 1 litera a vegnan arcunadas en moda automatisada en l’arcun cuminaivel per datas d’identitad (CIR).[^108a-4]
+
+[^108a-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108a-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+[^108a-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108a-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108b
+
+**Dumonda d’autorisaziun da viadi ETIAS sco er examinaziun tras il ETIAS e tras il post central ETIAS**[^108b-1]
+
+Per l’inoltraziun da la dumonda d’autorisaziun da viadi ETIAS, per l’examinaziun automatisada tras il ETIAS, per l’examinaziun manuala tras il post central ETIAS sco er per la transmissiun dal cas al post naziunal ETIAS cumpetent vala l’Ordinaziun (UE) 2018/1240[^108b-2].
+
+[^108b-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108b-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+
+#### Art. 108c
+
+**Post naziunal ETIAS**[^108c-1]
+
+<sup>1</sup> Il post naziunal ETIAS da la Svizra en il senn da l’artitgel 8 da l’Ordinaziun (UE) 2018/1240[^108c-2] è domicilià tar il SEM. Il SEM examinescha las dumondas d’autorisaziun da viadi ETIAS che tutgan a la cumpetenza da la Svizra, e consultescha en cas da basegn ils auters posts naziunals ETIAS ed Europol.
+
+<sup>2</sup> En il rom da l’examinaziun da las dumondas d’autorisaziun da viadi ETIAS po il SEM consultar autras autoritads da la Confederaziun u dals chantuns u incumbensar quellas da far ulteriurs scleriments. Il Cussegl federal fixescha, tge autoritads che pon vegnir incumbensadas cun tge scleriments.
+
+[^108c-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108c-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+
+#### Art. 108d
+
+**Concessiun, refusa, annullaziun u revocaziun da l’autorisaziun da viadi ETIAS**[^108d-1]
+
+<sup>1</sup> Sch’i n’existan nagins indizis concrets u motivs plausibels da supponer che la preschientscha dal petent en il territori da Schengen signifitgia ina ristga da migraziun illegala u ina ristga per la segirezza u per la sanadad publica, conceda il SEM l’autorisaziun da viadi ETIAS.
+
+<sup>2</sup> En cas excepziunals per motivs umanitars, per motivs da l’interess naziunal u pervia d’obligaziuns internaziunalas po il SEM conceder in’autorisaziun da viadi ETIAS ch’è valaivla mo per il territori da la Svizra.
+
+<sup>3</sup> Las autorisaziun da viadi ETIAS èn valaivlas 3 onns, maximalmain dentant fin a la scadenza da la valaivladad dal document da viadi. Ellas na dattan betg il dretg d’entrar en Svizra.
+
+<sup>4</sup> Per annullar u revocar autorisaziuns da viadi ETIAS gia concedidas è cumpetent il SEM. Sch’ina autorisaziun da viadi ETIAS vegn refusada, annullada u revocada, decretescha il SEM ina disposiziun cun in formular da standard.
+
+<sup>5</sup>
+
+La procedura da conceder, refusar, annullar u revocar l’autorisaziun da viadi ETIAS sa drizza tenor la Lescha federala dals 20 da december 1968[^108d-2] davart la procedura administrativa (LFPA). Ils artitgels 11*b* alinea 1, 22*a* e 24 LFPA n’èn betg applitgabels. Per realisar l’Ordinaziun (UE) 2018/1240[^108d-3] ed ils acts giuridics che la Cumissiun europeica decretescha sin basa da questa ordinaziun da la UE, po il Cussegl federal decretar disposiziuns che divergeschan da la LFPA davart:
+
+- a. inoltraziuns e consegnas electronicas (art. 11*b* al. 2, 21*a* e 34 al. 1<sup>bis</sup> LFPA);
+- b. l’audiziun precedenta (art. 30 LFPA);
+- c. l’admissibladad d’inoltraziuns en englais; la lingua da procedura è ina lingua uffiziala (art. 33*a* LFPA).[^108d-4]
+
+[^108d-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108d-3]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+[^108d-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108d<sup>bis</sup>
+
+**Procedura da recurs ETIAS: disposiziuns generalas da procedura**[^108dbis-1]
+
+<sup>1</sup> Uschenavant che questa lescha na dispona nagut auter, sa drizza la procedura da recurs ETIAS tenor la LFPA[^108dbis-2] e tenor la Lescha federala dals 17 da zercladur 2005[^108dbis-3] davart il Tribunal administrativ federal.
+
+<sup>2</sup> Las sistidas dals termins tenor l’artitgel 22*a* alinea 1 LFPA n’èn betg applitgablas per la procedura da recurs ETIAS.
+
+<sup>3</sup> Il recurs ed ulteriuras inoltraziuns pon vegnir tramessas al Tribunal administrativ federal en ina da las quatter linguas uffizialas u en englais. Sch’il recurs vegn tramess en englais, fixescha il Tribunal administrativ federal ina da las quatter linguas uffizialas sco lingua da procedura.
+
+<sup>4</sup> La sentenzia e las ordinaziuns proceduralas vegnan redigidas en la lingua da procedura. Sch’il recurs è vegnì tramess en englais, vegn il dispositiv da la sentenzia translatà supplementarmain en englais per motivs d’infurmaziun.
+
+<sup>5</sup>
+
+Recurs evidentamain nunmotivads vegnan refusads dal derschader singul, sche:
+
+- a. igl è vegnì duvrà in document da viadi ch’è annunzià en il SIS sco pers, engulà, defraudà u nunvalaivel;
+- b. la persuna pertutgada è publitgada en il SIS cun l’intent da refusar ad ella l’entrada e la dimora en Svizra; u
+- c. il post ETIAS d’in auter stadi ha emess ina posiziun negativa.
+
+[^108dbis-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dbis-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108dbis-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+
+#### Art. 108d<sup>ter</sup>
+
+**Procedura da recurs ETIAS: moda da transmissiun**[^108dter-1]
+
+<sup>1</sup> Inoltraziuns en il rom da la procedura da recurs ETIAS pon vegnir tramessas sin via electronica sur la plattafurma da transmissiun ETIAS tenor l’artitgel 108*d*<sup>quater</sup> u sur in dals chanals da transmissiun tenor la LFPA[^108dter-2].
+
+<sup>2</sup> Las consegnas dal Tribunal administrativ federal a la partida u a sia represchentanza vegnan transmessas sur il chanal ch’è vegnì duvrà per l’ultima inoltraziun en la medema procedura. La partida po pretender l’utilisaziun d’in auter chanal.
+
+<sup>3</sup> Il Tribunal administrativ federal ed il SEM transmettan in a l’auter ils documents da procedura adina sur la plattafurma da transmissiun ETIAS.
+
+[^108dter-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dter-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 108d<sup>quater</sup>
+
+**Procedura da recurs ETIAS: plattafurma da transmissiun ETIAS**[^108dquater-1]
+
+Il Tribunal administrativ federal metta a disposiziun la plattafurma da transmissiun ETIAS.
+
+[^108dquater-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108d<sup>quinquies</sup>
+
+**Procedura da recurs ETIAS: disposiziuns da procedura per l’utilisaziun da la plattafurma da transmissiun ETIAS**[^108dquinquies-1]
+
+<sup>1</sup> Las inoltraziuns che vegnan tramessas sur la plattafurma da transmissiun ETIAS na ston betg vegnir munidas cun ina signatura electronica.
+
+<sup>2</sup> Partidas che tramettan dumondas sur la plattafurma da transmissiun ETIAS e che abitan a l’exteriur, na ston betg designar in domicil da consegna en Svizra.
+
+<sup>3</sup> Ina partida recurrenta che inoltrescha in recurs sur la plattafurma da transmissiun ETIAS, vegn supplitgada automaticamain da far in pajament anticipà dals custs. Sch’il termin da pajament na vegn betg observà, na vegni betg entrà en il recurs. Ina dumonda da giurisdicziun gratuita tenor l’artitgel 65 LFPA[^108dquinquies-2] resta resalvada.
+
+<sup>4</sup> Disposiziuns e sentenzias che vegnan communitgadas sur la plattafurma da transmissiun ETIAS, ston vegnir munidas cun ina signatura electronica tenor la Lescha federala dals 18 da mars 2016[^108dquinquies-3] davart la signatura electronica.
+
+<sup>5</sup> Communicaziuns a las partidas da procedura, che vegnan transmessas sur la plattafurma da transmissiun ETIAS, valan sco succedidas, cura ch’ellas vegnan consultadas sin la plattafurma, il pli tard dentant il 7avel di suenter ch’ellas èn vegnidas messas sin la plattafurma.
+
+<sup>6</sup>
+
+Pertutgant l’utilisaziun da la plattafurma da transmissiun ETIAS regla il Cussegl federal ils suandants puncts areguard la procedura:
+
+- a. la signatura ch’è da duvrar per disposiziuns e per sentenzias;
+- b. il format da la decisiun e da sias agiuntas;
+- c. ils detagls davart il chanal da transmissiun;
+- d. las modas da pajament admissiblas per far il pajament anticipà dals custs;
+- e. la moda e maniera da l’archivaziun.
+
+[^108dquinquies-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108dquinquies-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108dquinquies-3]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 108e
+
+**Endataziun e consultaziun da las datas en il ETIAS**[^108e-1]
+
+<sup>1</sup> En il rom da l’adempliment da sias incumbensas sco post naziunal ETIAS po il SEM endatar ed elavurar datas en il ETIAS. Sin dumonda dal fedpol e dal SIC endatescha ed elavura el datas da la glista da surveglianza ETIAS.
+
+<sup>2</sup>
+
+Las suandantas autoritads u ils suandants terzs pon consultar online las datas dal ETIAS:
+
+- a. il SEM, ils collavuraturs da l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) ch’èn incumbensads cun la controlla da persunas en Svizra, las autoritads chantunalas e communalas da polizia sco er las autoritads chantunalas e communalas da migraziun: per examinar las premissas per l’entrada e per la dimora en Svizra;
+- b. ils collavuraturs dal UDSC ch’èn incumbensads cun la controlla da persunas al cunfin e las autoritads chantunalas da polizia ch’èn responsablas per controllar ils cunfins exteriurs dal territori da Schengen: per ademplir lur incumbensas en il rom da la controlla dals cunfins exteriurs da Schengen;
+- c. las interpresas d’aviatica: per controllar, sche burgais da terzs stadis possedan in’autorisaziun da viadi ETIAS valaivla u betg.
 
 <sup>3</sup>
 
-En vista al transit da persunas d’ulteriurs stadis pon vegnir communitgadas las suandantas datas a l’auter stadi contrahent:
+Las suandantas autoritads pon dumandar il post d’access central tenor l’alinea 5 da survegnir datas dal ETIAS per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs:
 
-- a. las datas tenor l’alinea 2;
-- b. indicaziuns davart ils lieus da dimora e davart ils itineraris;
-- c. indicaziuns davart la regulaziun da la dimora e davart visums concedids.
+- a. il fedpol;
+- b. il SIC;
+- c. la Procura publica federala;
+- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano;
+- e.[^108e-2] ils collavuraturs dal UDSC ch’èn incumbensads cun la persecuziun penala.
 
-<sup>4</sup> La cunvegna da readmissiun u da transit sto menziunar l’intent da l’utilisaziun da las datas, eventualas mesiras da segirezza sco er las autoritads cumpetentas.
+<sup>4</sup> …[^108e-3]
 
-[^107-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+<sup>5</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 50 da l’Ordinaziun (UE) 2018/1240[^108e-4].
 
-#### Art. 108 e 109
+[^108e-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^108e-3]: Abolì tras la cifra 4 dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), cun effect dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108e-4]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
 
-[^108109-1]
+#### Art. 108f
 
-[^108109-1]: Abolì tras l’art. 126 al. 6 LEI.
+**Communicaziun da datas dal ETIAS e da datas dal ETIAS arcunadas en il CIR[^108f-2]**[^108f-1]
 
-## Chapitel 14*a* Sistems d’infurmaziun
+<sup>1</sup> Las datas persunalas ch’èn arcunadas en il ETIAS na dastgan betg vegnir transmessas a terzs stadis, ad organisaziuns internaziunalas, a posts privats u a persunas natiralas.
 
-[^chap14a-1]
+<sup>2</sup>
 
-[^chap14a-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+En ils suandants cas dastgan datas dentant vegnir transmessas a terzs stadis:
 
-### Partiziun 1 Sistem d’infurmaziun central per ils visums e sistem naziunal da visums
+- a. tras il SEM: sche quai è necessari en il cas singul per repatriar in burgais d’in terz stadi en il senn da l’artitgel 65 alinea 3 da l’Ordinaziun (UE) 2018/1240[^108f-3];
+- b. tras las autoritads tenor l’artitgel 108e alinea 3: en cas excepziunals urgents, nua ch’igl è avant maun in privel imminent en connex cun in malfatg terroristic u in privel da vita imminent en connex cun in grev malfatg en il senn da l’artitgel 65 alinea 5 da l’Ordinaziun (UE) 2018/1240.
 
-[^chap14a-sec1-1]
+<sup>3</sup> Per la communicaziun da datas dal ETIAS ch’èn arcunadas en il CIR, vala l’artitgel 110*h*.[^108f-4]
 
-[^chap14a-sec1-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^108f-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108f-2]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108f-3]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+[^108f-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108f<sup>bis</sup>
+
+**Dretgs da las per­sunas pertutgadas**[^108fbis-1]
+
+<sup>1</sup> Las disposiziuns tenor l’artitgel 108*d* alinea 5 che divergeschan da la LFPA[^108fbis-2], èn applitgablas en la procedura per far valair il dretg da survegnir infurmaziuns davart las datas sco er en la procedura per rectifitgar, cumplettar u stizzar las datas en il ETIAS.
+
+<sup>2</sup> Las disposiziuns tenor ils artitgels 108*d*<sup>bis</sup>–108*d*<sup>quinquies</sup> che divergeschan da la LFPA, èn applitgablas per recurs concernent proceduras tenor l’alinea 1.
+
+[^108fbis-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108fbis-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 108g
+
+**Disposiziuns executivas tar il ETIAS**[^108g-1]
+
+Il Cussegl federal regla:
+
+- a. per tge unitads da las autoritads tenor l’artitgel 108*e* che las cumpetenzas numnadas en quellas disposiziuns valan;
+- b. tge datas dal ETIAS che las autoritads tenor l’artitgel 108*e* alinea 3 pon dumandar, e la procedura per survegnir questas datas;
+- c. il catalog da las datas en il ETIAS ed ils dretgs d’access da las autoritads tenor l’artitgel 108*e* alineas 1 e 2;
+- d. l’arcunaziun e la stizzada da las datas;
+- e. las modalitads areguard la segirezza da las datas;
+- f. la responsabladad per l’elavuraziun da las datas;
+- g. il catalog dals malfatgs tenor l’artitgel 108e alinea 3;
+- h. las modalitads per endatar datas sin la glista da surveglianza ETIAS e per stizzar datas da la glista da surveglianza ETIAS sco er la restricziun dal dretg d’infurmaziun concernent la glista da surveglianza;
+- i. las ulteriuras modalitads e proceduras necessarias per realisar l’Ordinaziun (UE) 2018/1240[^108g-2].
+
+[^108g-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS) ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^108g-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+
+### Partiziun 3*b* Sistem naziunal d’infurmaziun e d’autorisaziun da viadis
+
+[^chap14a-sec3b-1]
+
+[^chap14a-sec3b-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108h
+
+**Princips**[^108h-1]
+
+<sup>1</sup> Il SEM maina in sistem d’infurmaziun che cuntegna las dumondas d’autorisaziun da viadi ETIAS che tutgan a la cumpetenza da la Svizra, sco er las datas che la Svizra endatescha ed elavura sin la glista da surveglianza ETIAS (N‑ETIAS). Il N‑ETIAS cuntegna en spezial las datas che vegnan transmessas ad el davent dal sistem central ETIAS sur l’interfatscha naziunala.
+
+<sup>2</sup>
+
+Il N-ETIAS serva al post naziunal ETIAS per:
+
+- a. endatar ed elavurar datas persunalas, inclusiv l’elavuraziun da datas persunalas spezialmain sensiblas, e datas da contact sco er datas da dumonda cumplementaras, infurmaziuns e copias da documents da persunas estras en il rom da l’examinaziun da dumondas d’autorisaziun da viadis ETIAS che tutgan a la cumpetenza da la Svizra;
+- b. consultar autoritads naziunalas e chantunalas en il rom da l’examinaziun da dumondas d’autorisaziun da viadis;
+- c. endatar ed elavurar datas persunalas e datas da contact da persunas estras che vegnan inscrittas sin la glista da surveglianza ETIAS sin dumonda dal fedpol u dal SIC;
+- d. far statisticas.
+
+[^108h-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108i
+
+**Cuntegn**[^108i-1]
+
+<sup>1</sup>
+
+Il N-ETIAS cuntegna datas da burgais da terzs stadis e da lur documents da viadi:
+
+- a. sche la dumonda d’autorisaziun da viadi ETIAS da las persunas pertutgadas vegn examinada dal SEM sco post naziunal ETIAS; u
+- b. sche las persunas pertutgadas èn vegnidas inscrittas sin la glista da surveglianza ETIAS.
+
+<sup>2</sup>
+
+El cuntegna las suandantas categorias da datas:
+
+- a. las datas d’identitad davart il petent e davart las autorisaziuns da viadi ETIAS dumandadas, concedidas, refusadas, annulladas u revocadas;
+- b. las datas davart ils documents da viadi;
+- c. las datas da contact;
+- d. datas relevadas davart la sanadad en il rom da la valitaziun da la ristga epidemica tenor l’artitgel 3 alinea 1 cifra 8 da l’Ordinaziun (UE) 2018/1240[^108i-2];
+- e. infurmaziuns cumplementaras e copias da documents dal petent;
+- f. ils resultats da controllas e da consultaziuns d’autoritads da la Confederaziun e dals chantuns sco er ils resultats da scleriments dals fatgs, da consideraziuns e d’indicaziuns davart il stadi da la procedura;
+- g. las datas dals sistems ORBIS, RIPOL, N-SIS, da l’index naziunal da polizia sco er dals sistems ASF-SLTD, VOSTRA e SIMIC, a las qualas il post naziunal ETIAS ha access;
+- h. las datas dals sistems EES, C-VIS, SIS e CIR, a las qualas il post naziunal ETIAS ha access;
+- i. las datas ch’il SEM survegn sco post naziunal ETIAS en il rom da l’agid uffizial da la Confederaziun e dals chantuns;
+- j. infurmaziuns davart la procedura da recurs;
+- k. las dumondas dal fedpol e dal SIC d’inscriver persunas estras sin la glista da surveglianza ETIAS;
+- l. las datas ch’il SEM ha endatà sco post naziunal ETIAS sin la glista da surveglianza ETIAS.
+
+<sup>3</sup> Il post naziunal ETIAS po surpigliar las datas persunalas tenor l’alinea 2 literas a–e or dal ETIAS en il N-ETIAS.
+
+<sup>4</sup> Il N-ETIAS cuntegna ultra da quai ils dossiers da procedura da las dumondas d’autorisaziun da viadis ETIAS en furma electronica.
+
+[^108i-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108i-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+
+#### Art. 108j
+
+**Elavuraziun e communicaziun da datas**[^108j-1]
+
+<sup>1</sup>
+
+Access a las suandantas datas dal N-ETIAS han:
+
+- a.
+
+  il SEM:
+
+  - 1\. a datas tenor l’artitgel 108*i* alinea 2 en il rom da l’adempliment da sias incumbensas sco post naziunal ETIAS,
+  - 2\. a datas tenor l’artitgel 108*i* alinea 2 literas a–i per tractar e respunder dumondas da consultaziun;
+
+- b. il SIC ed il fedpol: a datas tenor l’artitgel *108*i alinea 2 literas a–i per tractar e respunder dumondas da consultaziun en il rom dal tractament da dumondas ETIAS;
+- c. il SIC ed il fedpol: a datas tenor l’artitgel 108*i* alinea 2 literas k ed l en il rom da l’adempliment da lur incumbensas sco autoritads che dumondan l’elavuraziun da datas sin la glista da surveglianza ETIAS.
+
+<sup>2</sup> Per l’instrucziun dals recurs retschavids survegn il Tribunal administrativ federal in extract dal dossier da procedura en furma electronica sur la plattafurma da transmissiun ETIAS tenor l’artitgel 108*d*<sup>quater</sup>.
+
+<sup>3</sup> La communicaziun da datas persunalas ch’èn arcunadas en il N-ETIAS sa drizza tenor l’artitgel 108*f*.
+
+[^108j-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 108k
+
+**Surveglianza ed execuziun**[^108k-1]
+
+<sup>1</sup> Il SEM è responsabel per la segirezza dal N-ETIAS e per la legalitad da l’elavuraziun da las datas persunalas.
+
+<sup>2</sup>
+
+Il Cussegl federal regla:
+
+- a. l’organisaziun e la gestiun dal sistem;
+- b. il catalog da datas dal sistem e la dimensiun dals dretgs d’access da las autoritads numnadas en l’artitgel 108*j*;
+- c. las mesiras da protecziun tecnicas ed organisatoricas cunter in’elavuraziun nunautorisada;
+- d. la procedura da consultaziun da las autoritads federalas e chantunalas;
+- e. il tractament e las respostas da dumondas da consultaziun en il rom dal tractament da dumondas ETIAS;
+- f. l’elavuraziun da datas sin la glista da surveglianza ETIAS;
+- g. la durada da la conservaziun e la stizzada da las datas.
+
+[^108k-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 109
+
+[^109-1]
+
+[^109-1]: Guardar art. 126 al. 6 qua sutvart.
+
+### Partiziun 4 Sistem d’infurmaziun central per ils visums (C-VIS) e sistem naziunal da visums (ORBIS)
+
+[^chap14a-sec4-1]
+
+[^chap14a-sec4-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109a
 
-**Consultaziun da las datas dal sistem d’infurmaziun central per ils visums**[^109a-1]
+**Sistem d’infurmaziun central per ils visums[^109a-2]**[^109a-1]
 
-<sup>1</sup> Il C-VIS cuntegna las datas davart ils visums da tut ils stadis, en ils quals è en vigur l’Ordinaziun (CE) nr. 767/2008[^109a-2].[^109a-3]
+<sup>1</sup> Il sistem d’infurmaziun central per ils visums (C-VIS) cuntegna las datas davart ils visums da tut ils stadis, en ils quals l’Ordinaziun (CE) nr. 767/2008[^109a-3] è en vigur.[^109a-4]
+
+<sup>1bis</sup> Las datas d’identitad da las persunas che dumondan visums, las datas davart ils documents da viadi sco er las datas biometricas dal C‑VIS vegnan arcunadas en moda automatisada en il CIR.[^109a-5]
 
 <sup>2</sup>
 
 Las suandantas autoritads han il dretg da consultar online las datas dal C-VIS:
 
-- a.[^109a-4] il SEM, las represchentanzas svizras a l’exteriur e las missiuns, las autoritads chantunalas da migraziun cumpetentas per visums e las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas, il Secretariat da stadi e la Direcziun politica dal DFAE sco er il Corp da guardias da cunfin ed ils posts da cunfin da las autoritads chantunalas da polizia: en il rom da la procedura da visums;
-- b.[^109a-5] il SEM: per determinar il stadi ch’è cumpetent per examinar ina dumonda d’asil en applicaziun da l’Ordinaziun (UE) nr. *604/2013*[^109a-6], sco er en il rom da l’examinaziun d’ina dumonda d’asil en cas che la Svizra è cumpetenta per elavurar questa dumonda;
+- a.[^109a-6] il SEM, las represchentanzas svizras a l’exteriur e las missiuns, las autoritads chantunalas da migraziun cumpetentas per visums e las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas, il Secretariat da stadi e la Direcziun politica dal DFAE sco er il Corp da guardias da cunfin ed ils posts da cunfin da las autoritads chantunalas da polizia: en il rom da la procedura da visums;
+- b.[^109a-7] il SEM: per determinar il stadi ch’è cumpetent per examinar ina dumonda d’asil en applicaziun da l’Ordinaziun (UE) nr. *604/2013*[^109a-8], sco er en il rom da l’examinaziun d’ina dumonda d’asil en cas che la Svizra è cumpetenta per elavurar questa dumonda;
 - c. il Corp da guardias da cunfin e las autoritads chantunalas da polizia responsablas per la controlla dal cunfin exteriur dal territori da Schengen: per realisar controllas als posts da passadi als cunfins exteriurs e sin il territori svizzer;
-- d.[^109a-7] il Corp da guardias da cunfin e las autoritads chantunalas e communalas da polizia che fan controllas da persunas: per identifitgar persunas che n’adempleschan betg u betg pli las premissas per entrar en il territori svizzer u per ina dimora en Svizra.
+- d.[^109a-9] il Corp da guardias da cunfin e las autoritads chantunalas e communalas da polizia che fan controllas da persunas: per identifitgar persunas che n’adempleschan betg u betg pli las premissas per entrar en il territori svizzer u per ina dimora en Svizra;
+- e.[^109a-10] il SEM: en il rom da l’adempliment da sias incumbensas sco post naziunal ETIAS.
 
 <sup>3</sup>
 
-En il senn da la decisiun 2008/633/JI[^109a-8] pon las suandantas autoritads dumandar il post d’access central tenor l’alinea 5 da survegnir datas dal C-VIS per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs:[^109a-9]
+En il senn da l’Ordinaziun (CE) nr. 767/2008 pon las suandantas autoritads dumandar il post d’access central tenor l’alinea 4 da survegnir tschertas datas dal C‑VIS per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs:[^109a-11]
 
 - a. il fedpol;
-- b. il Servetsch d’infurmaziun da la Confederaziun;
+- b. il SIC;
 - c. la Procura publica federala;
-- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano.
+- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano;
+- e.[^109a-12] ils collavuraturs dal UDSC ch’èn incumbensads cun la persecuziun penala.
 
-<sup>4</sup> …[^109a-10]
+<sup>4</sup> …[^109a-13]
 
-<sup>5</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 3 alinea 3 da la decisiun 2008/633/JI.[^109a-11]
+<sup>5</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 3 alinea 3 da la decisiun 2008/633/JI.[^109a-14]
 
-[^109a-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109a-2]: Ordinaziun (CE) nr. 767/2008 dal Parlament europeic e dal Cussegl dals 9 da fan. 2008 davart il sistem d’infurmaziun per ils visums (VIS) ed il barat da datas tranter ils stadis commembers davart ils visums per ina dimora da curta durada (Ordinaziun VIS), ABl. L 218 dals 13 d’avust 2008, p. 60; midà l’ultima giada tras l’Ordinaziun (UE) 2017/2226, ABl. L 327 dals 9 da dec. 2017, p. 20.
-[^109a-3]: Versiun tenor l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^109a-4]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da mars 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109a-5]: Versiun tenor la cifra I 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 604/2013 davart la fixaziun dals criteris e dals mecanissems per determinar il stadi commember ch’è cumpetent per examinar ina dumonda da protecziun internaziunala), en vigur dapi il 1. da fan. 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^109a-6]: Guardar annotaziun da l’art. 64*a* al. 1.
-[^109a-7]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-8]: Decisiun 2008/633/JI dal Cussegl dals 23 da zer. 2008 davart l’access da las autoritads numnadas dals stadis commembers e dad Europol al sistem d’infurmaziun per ils visums (VIS) per la tschertga da datas cun la finamira d’impedir, scuvrir ed investigar delicts terroristics ed auters grevs delicts, versiun tenor ABl. L 218 dals 13 d’avust 2008, p. 129.
-[^109a-9]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-10]: Abolì tras la cifra III da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), cun effect dapi il 1. da sett. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
-[^109a-11]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^109a-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109a-3]: Ordinaziun (CE) nr. 767/2008 dal Parlament europeic e dal Cussegl dals 9 da fan. 2008 davart il sistem d’infurmaziun per ils visums (VIS) ed il barat da datas tranter ils stadis commembers davart ils visums per ina dimora da curta durada (Ordinaziun VIS), ABl. L 218 dals 13 d’avust 2008, p. 60; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fan. 2021, p. 15.
+[^109a-4]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109a-5]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109a-6]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da mars 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109a-7]: Versiun tenor la cifra I 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 604/2013 davart la fixaziun dals criteris e dals mecanissems per determinar il stadi commember ch’è cumpetent per examinar ina dumonda da protecziun internaziunala), en vigur dapi il 1. da fan. 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109a-8]: Guardar annotaziun da l’art. 64*a* al. 1.
+[^109a-9]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109a-10]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^109a-11]: Versiun tenor la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^109a-12]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+[^109a-13]: Abolì tras la cifra III da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), cun effect dapi il 1. da sett. 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-14]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
 **Sistem naziunal da visums**[^109b-1]
 
-<sup>1</sup> Il SEM maina in sistem naziunal da visums. Il sistem serva a registrar las dumondas da visums ed ad emetter ils visums concedids da la Svizra. El cuntegna en spezial las datas che vegnan transmessas sur l’interfatscha naziunala (N-VIS) al C-VIS.
+<sup>1</sup> Il SEM maina in sistem naziunal da visums (ORBIS). Il sistem serva a registrar las dumondas da visums ed ad emetter ils visums concedids da la Svizra. El cuntegna en spezial las datas che vegnan transmessas sur l’interfatscha naziunala (N‑VIS) al C‑VIS.[^109b-2]
 
 <sup>2</sup>
 
-Il sistem naziunal da visums cuntegna las suandantas categorias da datas:
+Il ORBIS cuntegna las suandantas categorias da datas davart las persunas che dumondan visums:[^109b-3]
 
-- a. las datas alfanumericas davart las persunas che dumondan visums sco er davart ils visums dumandads, concedids, refusads, annullads, revocads u prolungads;
-- b. las fotografias e las improntas dals dets da las persunas che dumondan visums;
-- c. las colliaziuns tranter tschertas dumondas da visums da las persunas che dumondan visums;
-- d.[^109b-2] las datas dal RIPOL sco er dal ASF-SLTD, a las qualas las autoritads da visums han access;
-- e.[^109b-3] las datas dal SIS, a las qualas las autoritads da visums han access, uschenavant ch’ina publicaziun tenor l’Ordinaziun (UE) 2018/1861[^109b-4] u tenor l’Ordinaziun (UE) 2018/1860[^109b-5] è avant maun.
+- a. las datas alfanumericas davart las persunas petentas sco er davart ils visums dumandads, concedids, refusads, annullads, revocads u prolungads;
+- b. las fotografias e las improntas dals dets da las persunas petentas;
+- c. las colliaziuns tranter tschertas dumondas da visums;
+- d.[^109b-4] las datas dal RIPOL sco er dal ASF-SLTD, a las qualas las autoritads da visums han access;
+- e.[^109b-5] las datas dal SIS, a las qualas las autoritads da visums han access, uschenavant ch’ina publicaziun tenor l’Ordinaziun (UE) 2018/1861[^109b-6] u tenor l’Ordinaziun (UE) 2018/1860[^109b-7] è avant maun.
 
-<sup>2bis</sup> Il sistem naziunal da visums cuntegna ultra da quai in subsistem electronic cun ils dossiers da las persunas che han dumandà visums.[^109b-6]
+<sup>2bis</sup> Il ORBIS cuntegna ultra da quai in subsistem electronic cun ils dossiers da las persunas che han dumandà visums.[^109b-8]
 
-<sup>3</sup> Il SEM, las represchentanzas svizras a l’exteriur e las missiuns, las autoritads chantunalas da migraziun cumpetentas per visums e las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas, il Secretariat da stadi e la Direcziun politica dal DFAE sco er il Corp da guardias da cunfin ed ils posts da cunfin da las autoritads chantunalas da polizia, che concedan ils visums excepziunals, pon endatar, midar u stizzar datas en il sistem d’infurmaziun per ademplir las incumbensas necessarias en il rom da la procedura da visums.[^109b-7] Las datas che vegnan transmessas al C‑VIS ston els endatar ed elavurar a norma da l’Ordinaziun (CE) nr. 767/2008[^109b-8].
+<sup>3</sup>
 
-[^109b-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109b-2]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-3]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^109b-4]: Guardar annotaziun da l’art. 68*a* al. 2.
-[^109b-5]: Guardar annotaziun da l’art. 68*e* al. 2.
-[^109b-6]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-7]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da mars 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109b-8]: Ordinaziun (CE) nr. 767/2008 dal Parlament europeic e dal Cussegl dals 9 da fan. 2008 davart il sistem d’infurmaziun per ils visums (VIS) ed il barat da datas tranter ils stadis commembers concernent visums per ina dimora curta (Ordinaziun VIS), ABl. L 218 dals 13 d’avust 2008, p. 60.
+Las suandantas autoritads pon endatar, midar u stizzar datas en il ORBIS per ademplir lur incumbensas en il rom da la procedura da visums:
+
+- a. il SEM;
+- b. las represchentanzas svizras a l’exteriur e las missiuns;
+- c. las autoritads chantunalas da migraziun ch’èn cumpetentas per visums sco er las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas;
+- d. il Secretariat da stadi e la Direcziun politica dal DFAE;
+- e. l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) e las autoritads chantunalas da polizia: per conceder visums excepziunals.[^109b-9]
+
+<sup>4</sup> Las autoritads numnadas en l’alinea 3 ston endatar ed elavurar las datas che pertutgan las persunas che han dumandà visums e che vegnan transmessas al C‑VIS confurm a l’Ordinaziun (CE) nr. 767/2008[^109b-10].[^109b-11]
+
+[^109b-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^109b-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-3]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-4]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^109b-5]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^109b-6]: Guardar annotaziun da l’art. 68*a* al. 2.
+[^109b-7]: Guardar annotaziun da l’art. 68*e* al. 2.
+[^109b-8]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-9]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109b-10]: Guardar annotaziun da l’art. 109*a* al. 1.
+[^109b-11]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109c
 
-**Consultaziun dal sistem naziunal da visums**[^109c-1]
+**Consultaziun dal ORBIS[^109c-2]**[^109c-1]
 
-Il SEM po dar a las suandantas autoritads in dretg d’access online a las datas dal sistem naziunal da visums:
+Il SEM po dar a las suandantas autoritads in dretg d’access online a las datas dal ORBIS:[^109c-3]
 
 - a. al Corp da guardias da cunfin ed als posts da cunfin da las autoritads chantunalas da polizia: per far las controllas da persunas e per conceder visums excepziunals;
 - b. a las represchentanzas svizras a l’exteriur ed a las missiuns: per controllar las dumondas da visums;
 - c. al Secretariat da stadi ed a la Direcziun politica dal DFAE: per controllar las dumondas da visums en il champ da cumpetenza dal DFAE;
 - d. a l’Uffizi central da cumpensaziun: per sclerir dumondas da prestaziun sco er per attribuir e per controllar ils numers d’assicuranza da la AVS;
-- e.[^109c-2] a las autoritads chantunalas e communalas da migraziun ed a las autoritads chantunalas e communalas da polizia: per lur incumbensas en il sectur da las persunas estras;
+- e.[^109c-4] a las autoritads chantunalas e communalas da migraziun ed a las autoritads chantunalas e communalas da polizia: per lur incumbensas en il sectur da las persunas estras;
 - f.
 
   a las autoritads federalas responsablas en il sectur da la segirezza interna, da l’assistenza giudiziala internaziunala en chaussas penalas e dals fatgs da polizia:
 
-  - 1\. per identifitgar persunas en ils secturs dal barat d’infurmaziuns da polizia, da las retschertgas da la polizia da segirezza e da la polizia giudiziala, da las proceduras d’extradiziun, da l’assistenza giudiziala e da l’agid uffizial, da la persecuziun penala e da l’execuziun penala tras delegaziun, dal cumbat cunter la lavada da daners, cunter il commerzi cun drogas e cunter la criminalitad organisada, da la controlla da documents d’identitad, da las retschertgas en connex cun la tschertga da persunas sparidas sco er da la controlla da las endataziuns en il sistem informatisà da retschertga tenor la Lescha federala dals 13 da zercladur 2008[^109c-3] davart ils sistems d’infurmaziun da polizia federala,
-  - 2\. per controllar mesiras d’allontanament per mantegnair la segirezza interna ed externa da la Svizra tenor la Lescha federala dals 21 da mars 1997[^109c-4] davart mesiras per mantegnair la segirezza interna;
+  - 1\. per identifitgar persunas en ils secturs dal barat d’infurmaziuns da polizia, da las retschertgas da la polizia da segirezza e da la polizia giudiziala, da las proceduras d’extradiziun, da l’assistenza giudiziala e da l’agid uffizial, da la persecuziun penala e da l’execuziun penala tras delegaziun, dal cumbat cunter la lavada da daners, cunter il commerzi cun drogas e cunter la criminalitad organisada, da la controlla da documents d’identitad, da las retschertgas en connex cun la tschertga da persunas sparidas sco er da la controlla da las endataziuns en il sistem informatisà da retschertga tenor la Lescha federala dals 13 da zercladur 2008[^109c-5] davart ils sistems d’infurmaziun da polizia federala,
+  - 2\. per controllar mesiras d’allontanament per mantegnair la segirezza interna ed externa da la Svizra tenor la Lescha federala dals 21 da mars 1997[^109c-6] davart mesiras per mantegnair la segirezza interna;
 
 - g. a las instanzas da recurs da la Confederaziun: per l’instrucziun dals recurs inoltrads ad ellas;
-- h. als uffizis dal stadi civil ed a lur autoritads da surveglianza: per identifitgar persunas en connex cun eveniments da stadi civil, per preparar ina maridaglia u ina inscripziun d’in partenadi sco er per evitar ina guntgida dal dretg da persunas estras tenor l’artitgel 97*a* alinea 1 CCS[^109c-5] e tenor l’artitgel 6 alinea 2 da la Lescha da partenadi dals 18 da zercladur 2004[^109c-6].
+- h. als uffizis dal stadi civil ed a lur autoritads da surveglianza: per identifitgar persunas en connex cun eveniments da stadi civil, per preparar ina maridaglia u ina inscripziun d’in partenadi sco er per evitar ina guntgida dal dretg da persunas estras tenor l’artitgel 97*a* alinea 1 CCS[^109c-7] e tenor l’artitgel 6 alinea 2 da la Lescha da partenadi dals 18 da zercladur 2004[^109c-8];
+- i.[^109c-9] al post naziunal ETIAS: en il rom da l’adempliment da sias incumbensas.
 
-[^109c-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109c-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109c-3]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
-[^109c-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^109c-5]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^109c-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^109c-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^109c-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109c-3]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109c-4]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109c-5]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^109c-6]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^109c-7]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^109c-8]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^109c-9]: Integrà tras la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 109d
 
 **Barat d’infurmaziuns cun stadis commembers da la UE per ils quals l’Ordinaziun (CE) nr. 767/2008 n’è betg anc en vigur**[^109d-1]
 
-Ils stadis commembers da la UE, per ils quals l’Ordinaziun (CE) nr. 767/2008[^109d-2] n’è betg anc en vigur, pon dumandar infurmaziuns da las autoritads tenor l’artitgel 109*a* alinea 3.
+Ils stadis commembers da la UE, per ils quals l’Ordinaziun (CE) nr. 767/2008[^109d-2] n’è anc betg en vigur, pon dumandar infurmaziuns da las autoritads tenor l’artitgel 109*a* alinea 3.[^109d-3]
 
-[^109d-1]: Integrà tenor l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS) ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)). Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^109d-2]: Ordinaziun (CE) nr. 767/2008 dal Parlament europeic e dal Cussegl dals 9 da fan. 2008 davart il sistem d’infurmaziun per ils visums (VIS) ed il barat da datas tranter ils stadis commembers davart ils visums per ina dimora da curta durada (Ordinaziun VIS), ABl. L 218 dals 13 d’avust 2008, p. 60.
+[^109d-1]: Integrà tenor l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS) ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)). Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
+[^109d-2]: Guardar annotaziun da l’art. 109*a* al. 1.
+[^109d-3]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109e
 
@@ -3074,13 +3493,13 @@ Il Cussegl federal regla:
 - i. la responsabladad per l’elavuraziun da las datas;
 - j. il catalog dals malfatgs tenor l’artitgel 109*a* alinea 3.
 
-[^109e-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^109e-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 20 da schan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
-### Partiziun 2 Sistem d’infurmaziun per realisar il return
+### Partiziun 5 Sistem d’infurmaziun per realisar il return
 
-[^chap14a-sec2-1]
+[^chap14a-sec5-1]
 
-[^chap14a-sec2-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14a-sec5-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 109f
 
@@ -3194,20 +3613,298 @@ Il Cussegl federal regla:
 - c. las mesiras da protecziun tecnicas ed organisatoricas cunter in’elavuraziun nunautorisada;
 - d. la durada da la conservaziun e la destrucziun da las datas.
 
-### Partiziun 3 Sistem da dossiers persunals e da documentaziun
+### Partiziun 6 Eurodac
 
-[^chap14a-sec3-1]
+[^chap14a-sec6-1]
 
-[^chap14a-sec3-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^chap14a-sec6-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
-#### Art. 110
+#### Art. 109k
 
-**...[^110-2]**[^110-1]
+**Registraziun e transmissiun da datas en Eurodac[^109k-2]**[^109k-1]
+
+<sup>1</sup>
+
+Ils posts da cunfin e las autoritads da polizia dals chantuns e da las vischnancas prendan immediatamain las improntas da tut ils dets da persunas estras ch’èn pli veglias che 14 onns, sche la persuna pertutgada:
+
+- a. entra illegalmain en Svizra or d’in stadi ch’è n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
+- b. na vegn betg refusada ubain vegn tegnida en fermanza u prendida en arrest en vista ad in’expulsiun durant tut il temp tranter sia tschiffada e la spedida.
+
+<sup>2</sup>
+
+Ultra da las improntas dals dets vegnan registradas las suandantas datas:
+
+- a. il lieu e la data da la tschiffada en Svizra;
+- b. la schlattaina da la persuna tschiffada;
+- c. la data, cura che las improntas dals dets èn vegnidas prendidas;
+- d. il numer distinctiv svizzer da las improntas dals dets;
+- e. la data, cura che las datas èn vegnidas transmessas a l’unitad centrala;
+- f. il pled-clav da l’utilisader.
+
+<sup>3</sup> Las datas registradas tenor ils alineas 1 e 2 vegnan transmessas a l’unitad centrala entaifer 72 uras suenter la tschiffada da la persuna pertutgada. Sche la persuna pertutgada vegn prendida en arrest per pli ditg che 72 uras, ston las datas vegnir transmessas avant che la persuna pertutgada vegn laschada liber.
+
+<sup>4</sup> Sch’ils dets da la persuna pertutgada na permettan betg da prender las improntas, ston las improntas vegnir transmessas a l’unitad centrala entaifer 48 uras, suenter ch’igl è puspè pussaivel da prender improntas irreproschablas. Sch’i n’è betg pussaivel da prender las improntas dals dets pervia dal stadi da sanadad da la persuna pertutgada u pervia da mesiras da la sanadad publica, ston questas improntas vegnir transmessas a l’unitad centrala entaifer 48 uras suenter ch’il motiv d’impediment è crudà davent.
+
+<sup>5</sup> Sche problems tecnics gravants impedeschan la transmissiun da las datas, vegn concedì in termin supplementar da 48 uras per prender las mesiras necessarias, per ch’il sistem funcziunia puspè senza problems.
+
+<sup>6</sup> Ils posts da cunfin e las autoritads da persunas estras e da polizia dals chantuns e da las vischnancas pon prender las improntas da tut ils dets da persunas estras ch’èn pli veglias che 14 onns e che sa trategnan illegalmain en Svizra per controllar, sch’ellas han gia inoltrà ina dumonda d’asil en in auter stadi ch’è lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin.
+
+<sup>7</sup> Las datas ch’èn vegnidas registradas tenor ils alineas 1, 2 e 6 vegnan transmessas al SEM per las trametter vinavant a l’unitad centrala.
+
+<sup>8</sup>
+
+Las datas transmessas tenor ils alineas 1 e 2 vegnan arcunadas da l’unitad centrala en la banca da datas Eurodac e destruidas automaticamain 18 mais suenter che las improntas dals dets èn vegnidas prendidas. Il SEM dumonda immediatamain l’unitad centrala da destruir pli baud questas datas, uschespert ch’el survegn enconuschientscha dal fatg che la persuna estra:
+
+- a. ha survegnì ina permissiun da dimora en Svizra;
+- b. ha bandunà il territori suveran dals stadis ch’èn liads tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
+- c. ha survegnì la naziunalitad d’in stadi ch’è lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin.
+
+<sup>9</sup> Per las proceduras tenor ils alineas 1–8 èn applitgabels ils artitgels 102*b*, 102*c* e 102*e* LAsil[^109k-3].
+
+[^109k-1]: Oriundamain: art. 111*i*. Versiun tenor la cifra 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’O [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’O [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT), en vigur dapi ils 20 da fan. 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109k-2]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109k-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+
+#### Art. 109l
+
+**Communicaziun da datas dad Eurodac**[^109l-1]
+
+Las datas persunalas ch’èn arcunadas en Eurodac na dastgan betg vegnir communitgadas:
+
+- a. ad in stadi che n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin[^109l-2];
+- b. ad organisaziuns internaziunalas;
+- c. a posts privats.
+
+[^109l-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^109l-2]: Questas cunvegnas èn inditgadas en l’agiunta 1 cifra 2.
+
+### Partiziun 7 Sistem da dossiers persunals e da documentaziun
+
+[^chap14a-sec7-1]
+
+[^chap14a-sec7-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 109m
 
 En collavuraziun cun il Tribunal administrativ federal e cun las autoritads chantunalas cumpetentas maina il SEM in sistem da dossiers persunals e da documentaziun automatisà.
 
-[^110-1]: Versiun tenor la cifra I 1 da l’Ordinaziun da la AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il Tribunal federal e da la LF davart il Tribunal administrativ federal, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^110-2]: Abolì tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), cun effect dapi il 1. da zer. 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+## Chapitel 14*b* Interoperabilitad tranter ils sistems d’infurmaziun da Schengen/Dublin
+
+[^chap14b-1]
+
+[^chap14b-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+### Partiziun 1 Servetsch cuminaivel per la cumparegliaziun da datas biometricas (sBMS)
+
+[^chap14b-sec1-1]
+
+[^chap14b-sec1-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110
+
+[^110-1]
+
+<sup>1</sup>
+
+Il servetsch cuminaivel per la cumparegliaziun da datas biometricas (sBMS) tenor las ordinaziuns (UE) 2019/817[^110-2] ed (UE) 2019/818[^110-3] cuntegna las datas da las caracteristicas biometricas ch’èn vegnidas generadas tras las datas biometricas dals suandants sistems d’infurmaziun da Schengen/Dublin:[^110-4]
+
+- a. EES;
+- b. C-VIS;
+- c. Eurodac;
+- d. SIS.
+
+<sup>2</sup> El cuntegna ultra da quai in renviament al sistem d’infurmaziun, dal qual las datas derivan, sco er in renviament a las unitads da datas en quest sistem.
+
+<sup>3</sup> El permetta da consultar ils sistems d’infurmaziun da Schengen/Dublin tenor l’alinea 1 sin basa da datas biometricas.
+
+<sup>4</sup> Sche la cumparegliaziun da las datas biometricas dals sistems tenor l’alinea 1 porta in resultat positiv, po il post da servetsch dal fedpol ch’è cumpetent per elavurar datas biometricas, verifitgar manualmain quest resultat per confermar la correctadad da tal.[^110-5]
+
+[^110-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110-2]: Ordinaziun (UE) 2019/817 dal Parlament europeic e dal Cussegl dals 20 da matg 2019 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE en ils secturs dals cunfins e dals visums sco er davart la midada da las Ordinaziuns (CE) nr. 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 ed (UE) 2018/1861 dal Parlament europeic e dal Cussegl, da la Decisiun 2004/512/CE dal Cussegl e dal Conclus 2008/633/JI dal Cussegl, ABl. L 135 dals 22 da matg 2019, p. 27; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1152, ABl. L 249 dals 14 da fanadur 2021, p. 15.
+[^110-3]: Ordinaziun (UE) 2019/818 dal Parlament europeic e dal Cussegl dals 20 da matg 2019 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE (collavuraziun poliziala e giudiziala, asil e migraziun) e davart la midada da las ordinaziuns (UE) 2018/1726, (UE) 2018/1862 ed (UE) 2019/816, ABl. L 135 dals 22 da matg 2019, p. 85; midada l’ultima giada tras l’Ordinaziun (UE) 2021/1150, ABl. L 249 dals 14 da fan. 2021, p. 1.
+[^110-4]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 16 da dec. 2022 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2021/1150 e 2021/1152 davart la determinaziun da las cundiziuns per l’access ad auters sistems d’infurmaziun da la UE per ils intents dal sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^110-5]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (mesiras per garantir la qualitad da controllas biometricas da persunas), en vigur dapi ils 15 da zer. 2025 ([AS 2025 341](https://fedlex.data.admin.ch/eli/oc/2025/341); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+### Partiziun 2 Arcun cuminaivel per datas d’identitad (CIR)
+
+[^chap14b-sec2-1]
+
+[^chap14b-sec2-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110a
+
+**Cuntegn da l’arcun cuminaivel per datas d’identitad**
+
+<sup>1</sup>
+
+L’arcun cuminaivel per datas d’identitad (CIR) tenor las ordinaziuns (UE) 2019/817[^110a-1] ed (UE) 2019/818[^110a-2] cuntegna las datas d’identitad, las datas davart ils documents da viadi e las datas biometricas dals burgais da terzs stadis, ch’èn registradas en ils suandants sistems d’infurmaziun da Schengen/Dublin:
+
+- a. EES;
+- b. ETIAS;
+- c. C-VIS;
+- d. Eurodac.
+
+<sup>2</sup> El cuntegna ultra da quai in renviament al sistem d’infurmaziun, dal qual las datas derivan, sco er in renviament a las unitads da datas en quest sistem.
+
+[^110a-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110a-2]: Guardar annotaziun da l’art. 110 al. 1.
+
+#### Art. 110b
+
+**Consultaziun dal CIR per intents d’identificaziun**
+
+<sup>1</sup>
+
+Il CIR po vegnir consultà per identifitgar:
+
+- a. burgais da terzs stadis, sche las cundiziuns tenor l’artitgel 20 alinea 1 da las ordinaziuns (UE) 2019/817[^110b-1] ed (UE) 2019/818[^110b-2] èn ademplidas;
+- b. persunas nunenconuschentas en cas d’accidents, da catastrofas da la natira e d’acts da violenza.
+
+<sup>2</sup> Consultaziuns tenor l’alinea 1 litera a èn admissiblas mo per prevegnir e cumbatter l’immigraziun illegala, per proteger la segirezza e l’urden public sco er per mantegnair la segirezza interna.
+
+<sup>3</sup>
+
+Las suandantas autoritads pon consultar il CIR:
+
+- a. il fedpol;
+- b. las autoritads chantunalas e communalas da polizia;
+- c. il UDSC en il rom da sias incumbensas duanalas e betg duanalas, per proteger la populaziun e per mantegnair la segirezza interna.
+
+<sup>4</sup> Per persunas tenor l’alinea 1 litera a vegn il CIR consultà sin basa da las datas biometricas ch’èn vegnidas prelevadas da las persunas pertutgadas sin il lieu a chaschun d’ina controlla d’identitad. Sche las datas biometricas da questa persuna n’èn betg utilisablas u sche la consultaziun da questas datas na porta nagin resultat, vegn la consultaziun fatga sin basa da datas d’identitad u da datas davart ils documents da viadi.
+
+<sup>5</sup> Per persunas tenor l’alinea 1 litera b vegn il CIR consultà sin basa da datas biometricas.
+
+[^110b-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110b-2]: Guardar annotaziun da l’art. 110 al. 1.
+
+#### Art. 110c
+
+**Consultaziun dal CIR per scuvrir identitads multiplas**
+
+<sup>1</sup>
+
+Per scuvrir identitads multiplas da burgais da terzs stadis pon las suandantas autoritads consultar las datas ed ils renviaments ch’èn arcunads en il CIR:
+
+- a. il biro SIRENE: sch’igl è avant maun ina colliaziun cun ina publicaziun en il SIS;
+- b. il UDSC e las autoritads chantunalas da polizia en il rom da lur incumbensas da controlla al cunfins exteriurs da Schengen: sch’igl è avant maun ina colliaziun cun in dossier persunal dal EES, che cuntegna las datas persunalas tenor ils artitgels 16–18 da l’Ordinaziun (UE) 2017/2226[^110c-1];
+- c. il SEM, las represchentanzas svizras a l’exteriur e las missiuns, las autoritads chantunalas da migraziun cumpetentas per visums e las autoritads communalas, a las qualas ils chantuns han delegà questas cumpetenzas, il Secretariat da stadi e la Direcziun politica dal DFAE sco er il UDSC ed ils posts da cunfin da las autoritads chantunalas da polizia: sch’igl è avant maun ina colliaziun cun in dossier persunal dal C‑VIS;
+- d. il SEM en il rom da l’adempliment da sias incumbensas sco post naziunal ETIAS: sch’igl è avant maun ina colliaziun cun in’unitad da datas d’ina dumonda persunala ETIAS, che cuntegna las datas tenor l’artitgel 19 alinea 3 da l’Ordinaziun (UE) 2018/1240[^110c-2].
+
+<sup>2</sup> Sch’il CIR cuntegna ina colliaziun tranter datas da plirs sistems d’infurmaziun, ch’èn in indizi per in engion d’identitad, pon las autoritads tenor l’alinea 1 consultar las datas ed ils renviaments ch’èn arcunads en il CIR, uschenavant ch’ellas han access al EES, al ETIAS, al C-VIS, ad Eurodac u al SIS tenor questa lescha u tenor la Lescha federala dals 13 da zercladur 2008[^110c-3] davart ils sistems d’infurmaziun da polizia da la Confederaziun.
+
+[^110c-1]: Guardar annotaziun tar l’art. 103*b* al. 1.
+[^110c-2]: Guardar annotaziun tar l’art. 5 al. 1 lit. a<sup>bis</sup>.
+[^110c-3]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+
+#### Art. 110d
+
+**Consultaziun dal CIR per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs**
+
+<sup>1</sup> Il CIR po vegnir consultà en il cas singul per prevegnir, scuvrir u eruir malfatgs terroristics u auters grevs malfatgs, sche las cundiziuns tenor l’artitgel 22 alinea 1 da las ordinaziuns (UE) 2019/817[^110d-1] ed (UE) 2019/818[^110d-2] èn ademplidas.
+
+<sup>2</sup>
+
+Las suandantas autoritads pon far talas consultaziuns:
+
+- a. il fedpol;
+- b. il SIC;
+- c. la Procura publica federala;
+- d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano;
+- e.[^110d-3] ils collavuraturs dal UDSC ch’èn incumbensads cun la persecuziun penala.
+
+<sup>3</sup> Sche la consultaziun mussa, che datas èn arcunadas en il CIR, preschenta il resultat il renviament al sistem d’infurmaziun respectiv da Schengen/Dublin.
+
+<sup>4</sup> Per obtegnair las datas da quest sistem d’infurmaziun ston las autoritads tenor l’alinea 1 inoltrar ina dumonda a la centrala operativa dal fedpol. Applitgablas èn las premissas e las proceduras che valan per il sistem d’infurmaziun respectiv.
+
+[^110d-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110d-2]: Guardar annotaziun da l’art. 110 al. 1.
+[^110d-3]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (access al CIR ed a las datas da trais sistems d’infurmaziun da la UE), en vigur dapi ils 15 da zer. 2025 ([AS 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [BBl 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
+
+### Partiziun 3 Portal da retschertga europeic (ESP)
+
+[^chap14b-sec3-1]
+
+[^chap14b-sec3-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110e
+
+<sup>1</sup> Il portal da retschertga europeic (ESP) tenor las ordinaziuns (UE) 2019/817[^110e-1] ed (UE) 2019/818[^110e-2] permetta da consultar en moda traversala il EES, il ETIAS, il C‑VIS, Eurodac, il SIS, las bancas da datas Stolen and Lost Travel Documents (ASF-SLTD) e Travel Documents Associated with Notices (TDAWN) dad Interpol, datas dad Europol sco er il CIR.
+
+<sup>2</sup> Las autoritads che han il dretg da consultar almain in dals sistems d’infurmaziun tenor l’alinea 1, dastgan consultar il ESP cun agid d’ina procedura d’invista.
+
+<sup>3</sup> La consultaziun vegn fatga sin basa da datas d’identitad, da datas davart ils documents da viadi u da datas biometricas.
+
+<sup>4</sup> A las autoritads vegnan mo mussadas las datas da quels sistems d’infurmaziun tenor l’alinea 1, ch’ellas dastgan consultar, sco er il tip da la colliaziun tranter las datas tenor ils artitgels 30–33 da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818.
+
+[^110e-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110e-2]: Guardar annotaziun da l’art. 110 al. 1.
+
+### Partiziun 4 Detectur d’identitads multiplas (MID)
+
+[^chap14b-sec4-1]
+
+[^chap14b-sec4-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110f
+
+**Cuntegn dal detectur d’identitads multiplas**
+
+<sup>1</sup> Il detectur d’identitads multiplas (MID) tenor las ordinaziuns (UE) 2019/817[^110f-1] ed (UE) 2019/818[^110f-2] vegn duvrà per controllar las identitads e per cumbatter engions d’identitad.
+
+<sup>2</sup> Sche las datas vegnan registradas u actualisadas en il EES, il ETIAS, il C-VIS, il SIS u en Eurodac, vegn effectuada automaticamain ina controlla d’identitads multiplas en il CIR ed il SIS.
+
+<sup>3</sup>
+
+En il rom da questa controlla vegnan las suandantas datas cumparegliadas cun las datas ch’èn gia avant maun en il CIR ed il SIS:
+
+- a. en il sBMS: las datas da las caracteristicas biometricas;
+- b. en il ESP: las datas d’identitad e las datas davart ils documents da viadi.
+
+<sup>4</sup> Sch’igl exista ina colliaziun tranter las datas tenor ils artitgels 30–33 da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818, vegn generada ed arcunada en il MID ina datoteca da conferma da l’identitad tenor l’artitgel 34 da questas ordinaziuns.
+
+[^110f-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110f-2]: Guardar annotaziun da l’art. 110 al. 1.
+
+#### Art. 110g
+
+**Verificaziun manuala da differentas identitads en il MID**
+
+<sup>1</sup> Per verifitgar manualmain differentas identitads pon las autoritads tenor l’artitgel 110*c* alinea 1 consultar las datas ch’èn arcunadas en il MID.
+
+<sup>2</sup> Cumpetenta per verifitgar manualmain las differentas identitads è quella autoritad, ch’endatescha u actualisescha datas en ils sistems d’infurmaziun da Schengen/Dublin tenor l’artitgel 110*f* alinea 2. En cas da colliaziuns cun publicaziuns en il SIS en il sectur da polizia è cumpetent il biro SIRENE.
+
+<sup>3</sup> La verificaziun manuala da las differentas identitads vegn realisada tenor l’artitgel 29 da las ordinaziuns (UE) 2019/817[^110g-1] ed (UE) 2019/818[^110g-2].
+
+<sup>4</sup> Sch’i vegn constatà en il rom da la verificaziun manuala, ch’igl exista ina identitad multipla illegala u ch’ina persuna è registrada en plirs sistems d’infurmaziun da Schengen/Dublin, sa drizza la procedura tenor ils artitgels 32 respectivamain 33 da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818.
+
+[^110g-1]: Guardar annotaziun da l’art. 110 al. 1.
+[^110g-2]: Guardar annotaziun da l’art. 110 al. 1.
+
+### Partiziun 5 Communicaziun da datas e responsabladad per l’elavuraziun da datas
+
+[^chap14b-sec5-1]
+
+[^chap14b-sec5-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+#### Art. 110h
+
+**Communicaziun da datas dal sBMS, dal CIR e dal MID**[^110h-1]
+
+La communicaziun da datas dal sBMS, dal CIR e dal MID sa drizza tenor l’artitgel 50 da las ordinaziuns (UE) 2019/817[^110h-2] ed (UE) 2019/818[^110h-3].
+
+[^110h-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110h-2]: Guardar annotaziun da l’art. 110 al. 1.
+[^110h-3]: Guardar annotaziun da l’art. 110 al. 1.
+
+#### Art. 110i
+
+**Responsabladad per l’elavuraziun da datas en il sBMS, il CIR ed il MID**[^110i-1]
+
+La responsabladad per l’elavuraziun da las datas en il sBMS, il CIR ed il MID sa drizza tenor l’artitgel 40 da las ordinaziuns (UE) 2019/817[^110i-2] ed (UE) 2019/818[^110i-3].
+
+[^110i-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^110i-2]: Guardar annotaziun da l’art. 110 al. 1.
+[^110i-3]: Guardar annotaziun da l’art. 110 al. 1.
 
 #### Art. 111
 
@@ -3215,11 +3912,11 @@ En collavuraziun cun il Tribunal administrativ federal e cun las autoritads chan
 
 [^111-1]: Abolì tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), cun effect dapi ils 15 d’oct. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-## Chapitel 14*b* Protecziun da datas en il rom da la cunvegna d’associaziun a la reglamentaziun da Schengen
+## Chapitel 14*c* Protecziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Schengen
 
-[^chap14b-1]
+[^chap14c-1]
 
-[^chap14b-1]: Oriundamain: chapitel 14<sup>bis</sup>. Integrà tras l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
+[^chap14c-1]: Oriundamain: chap. 14<sup>bis</sup>, lura chap. 14*b*. Integrà tras l’art. 127 qua sutvart, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
 
 #### Art. 111a
 
@@ -3262,9 +3959,9 @@ En questa funcziun po el communitgar e consultar cun agid da proceduras automati
 
 <sup>2</sup> Per quest intent pon ellas communitgar e consultar spezialmain las datas da persunas tenor l’artitgel 111*b* alinea 2 litera b–d.
 
-<sup>3</sup> Ils artitgels 111*a*, 111*d* e 111*f* valan tenor il senn.[^111c-1]
+<sup>3</sup> Ils artitgels 109*l*, 111*a* e 111*d* valan tenor il senn.[^111c-1]
 
-[^111c-1]: Versiun tenor la cifra 1 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^111c-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111d
 
@@ -3284,18 +3981,12 @@ Sch’in ulteriur stadi na garantescha betg in nivel da protecziun da datas adeq
 
 <sup>4</sup> Il Cussegl federal fixescha la dimensiun da las garanzias che ston vegnir prestadas e las modalitads per prestar questas garanzias.
 
-<sup>5</sup>
-
-Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas sut naginas circumstanzas:
-
-- a. ad in stadi che n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
-- b. ad organisaziuns internaziunalas;
-- c. a posts privats.[^111d-4]
+<sup>5</sup> …[^111d-4]
 
 [^111d-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^111d-2]: Versiun tenor la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^111d-3]: Versiun tenor la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^111d-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’Ordinaziun [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT), en vigur dapi ils 20 da fan. 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^111d-4]: Integrà tras la cifra 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’O [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’O [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT) ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)). Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111e
 
@@ -3305,12 +3996,9 @@ Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas
 
 #### Art. 111f
 
-**Dretg da survegnir infurmaziuns**
+[^111f-1]
 
-Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.[^111f-1] …[^111f-2]
-
-[^111f-1]: Versiun tenor la cifra 1 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
-[^111f-2]: Abolì la segunda frasa tras la cifra II 4 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, cun effect dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^111f-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 111g
 
@@ -3330,56 +4018,11 @@ Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la pr
 
 [^111h-1]: Abolì tras la cifra 1 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-## Chapitel 14*c* Eurodac
-
-[^chap14c-1]
-
-[^chap14c-1]: Oriundamain: chapitel 14<sup>ter</sup>. Integrà tras l’art. 127 LEI, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. a).
-
 #### Art. 111i
 
 [^111i-1]
 
-<sup>1</sup>
-
-Ils posts da cunfin e las autoritads da polizia dals chantuns e da las vischnancas prendan immediatamain las improntas da tut ils dets da persunas estras ch’èn pli veglias che 14 onns, sche la persuna pertutgada:
-
-- a. entra illegalmain en Svizra or d’in stadi ch’è n’è betg lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
-- b. na vegn betg refusada ubain vegn tegnida en fermanza u prendida en arrest en vista ad in’expulsiun durant tut il temp tranter sia tschiffada e la spedida.
-
-<sup>2</sup>
-
-Ultra da las improntas dals dets vegnan registradas las suandantas datas:
-
-- a. il lieu e la data da la tschiffada en Svizra;
-- b. la schlattaina da la persuna tschiffada;
-- c. la data, cur che las improntas dals dets èn vegnidas prendidas;
-- d. il numer distinctiv svizzer da las improntas dals dets;
-- e. la data, cur che las datas èn vegnidas transmessas a l’unitad centrala;
-- f. il pled-clav da l’utilisader.
-
-<sup>3</sup> Las datas registradas tenor ils alineas 1 e 2 vegnan transmessas a l’unitad centrala entaifer 72 uras suenter la tschiffada da la persuna pertutgada. Sche la persuna pertutgada vegn prendida en arrest per pli ditg che 72 uras, ston las datas vegnir transmessas avant che la persuna pertutgada vegn laschada liber.
-
-<sup>4</sup> Sch’ils dets da la persuna pertutgada na permettan betg da prender las improntas, ston las improntas vegnir transmessas a l’unitad centrala entaifer 48 uras, suenter ch’igl è puspè pussaivel da prender improntas irreproschablas. Sch’i n’è betg pussaivel da prender las improntas dals dets pervia dal stadi da sanadad da la persuna pertutgada u pervia da mesiras da la sanadad publica, ston questas improntas vegnir transmessas a l’unitad centrala entaifer 48 uras suenter ch’il motiv d’impediment è crudà davent.
-
-<sup>5</sup> Sche problems tecnics gravants impedeschan la transmissiun da las datas, vegn concedì in termin supplementar da 48 uras per prender las mesiras necessarias, per ch’il sistem funcziunia puspè senza problems.
-
-<sup>6</sup> Ils posts da cunfin e las autoritads da persunas estras e da polizia dals chantuns e da las vischnancas pon prender las improntas da tut ils dets da persunas estras ch’èn pli veglias che 14 onns e che sa trategnan illegalmain en Svizra per controllar, sch’ellas han gia inoltrà ina dumonda d’asil en in auter stadi ch’è lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin.
-
-<sup>7</sup> Las datas ch’èn vegnidas registradas tenor ils alineas 1, 2 e 6 vegnan transmessas al SEM per las trametter vinavant a l’unitad centrala.
-
-<sup>8</sup>
-
-Las datas transmessas tenor ils alineas 1 e 2 vegnan arcunadas da l’unitad centrala en la banca da datas Eurodac e destruidas automaticamain 18 mais suenter che las improntas dals dets èn vegnidas prendidas. Il SEM dumonda immediatamain l’unitad centrala da destruir pli baud questas datas, uschespert ch’el survegn enconuschientscha dal fatg che la persuna estra:
-
-- a. ha survegnì ina permissiun da dimora en Svizra;
-- b. ha bandunà il territori suveran dals stadis ch’èn liads tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin;
-- c. ha survegnì la naziunalitad d’in stadi ch’è lià tras ina da las cunvegnas d’associaziun a la reglamentaziun da Dublin.
-
-<sup>9</sup> Per las proceduras tenor ils alineas 1–8 èn applitgabels ils artitgels 102*b*, 102*c* e 102*e* LAsil[^111i-2].
-
-[^111i-1]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 603/2013 davart la constituziun d’Eurodac sco er davart la midada da l’Ordinaziun [UE] nr. 1077/2011 pertutgant la constituziun da l’Agentura IT), en vigur dapi ils 20 da fan. 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^111i-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^111i-1]: Abolì tras la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, cun effect dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 ## Chapitel 15 Protecziun giuridica
 
@@ -3545,18 +4188,17 @@ Cun ina multa vegn chastià, tgi che – intenziunadamain u per negligientscha:
 
 #### Art. 120d
 
-**Elavuraziun inopportuna da datas persunalas en ils sistems d’infurmaziun dal SEM**[^120d-1]
+**Elavuraziun inopportuna da datas persunalas en ils sistems d’infurmaziun**[^120d-1]
 
-<sup>1</sup> Mintga autoritad cumpetenta garantescha che l’elavuraziun da datas persunalas en ils sistems d’infurmaziun dal SEM stettia en ina relaziun commensurada cun las finamiras persequitadas e sa restrenschia a quai ch’è necessari per ademplir sias incumbensas.
+Cun ina multa vegn chastià, tgi ch’elavura – sco collavuratur d’ina autoritad ch’è cumpetenta per l’elavuraziun da datas – intenziunadamain datas persunalas:
 
-<sup>2</sup>
+- a. dal ORBIS u dal C-VIS per auters intents che quels tenor ils artitgels 109*a*–109*d*;
+- b. dal EES per auters intents che quels tenor ils artitgels 103*c* e 103*d*;
+- c. dal ETIAS per auters intents che quels tenor ils artitgels 108*e* e 108*f*;
+- d. dal CIR per auters intents che quels tenor ils artitgels 110*a*–110*d*;
+- e. dal MID per auters intents che quels tenor ils artitgels 110*f* e 110*g*.
 
-Cun ina multa vegn chastià, tgi ch’elavura datas persunalas:
-
-- a. dal sistem naziunal da visums u dal C-VIS per auters intents che quels previs en ils artitgels 109*a*–109*d*;
-- b. dal EES per auters intents che quels previs en l’artitgel 103*c*.
-
-[^120d-1]: Integrà tras la cifra I da la LF dals 13 da zer. 2008 (cumplettaziuns en il rom da la realisaziun da las cunvegnas d’associaziun a la reglamentaziun da Schengen e da Dublin) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Versiun tenor l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^120d-1]: Integrà tras la cifra I da la LF dals 13 da zer. 2008 (cumplettaziuns en il rom da la realisaziun da las cunvegnas d’associaziun a la reglamentaziun da Schengen e da Dublin) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Versiun tenor la cifra II da l’agiunta 2 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 120e
 
@@ -3566,7 +4208,7 @@ Cun ina multa vegn chastià, tgi ch’elavura datas persunalas:
 
 <sup>2</sup> ...[^120e-2]
 
-[^120e-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^120e-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Abolì tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), cun effect dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 ### Partiziun 2 Sancziuns administrativas
@@ -3603,9 +4245,9 @@ Cun ina multa vegn chastià, tgi ch’elavura datas persunalas:
 
 **Violaziun da l’obligaziun da diligenza tras interpresas d’aviaziun**[^122a-1]
 
-<sup>1</sup> Ina interpresa d’aviaziun che violescha sia obligaziun da diligenza tenor l’artitgel 92 alinea 1 sto pajar 4000 francs per passagier che na posseda betg ils documents da viadi, ils visums ed ils titels da dimora necessaris. En cas grevs sto ella pajar 16 000 francs per passagier. En cas levs poi vegnir desistì d’avrir ina procedura.
+<sup>1</sup> Ina interpresa d’aviaziun che violescha sia obligaziun da diligenza tenor l’artitgel 92 alinea 1 sto pajar 4000 francs per passagier che na posseda betg ils documents da viadi, las autorisaziuns da viadi ETIAS, ils visums ed ils titels da dimora necessaris. En cas grevs sto ella pajar 16 000 francs per passagier. En cas levs poi vegnir desistì d’avrir ina procedura.[^122a-2]
 
-<sup>2</sup> Ina violaziun da l’obligaziun da diligenza vegn supponida, sche l’interpresa d’aviaziun transporta persunas che na possedan betg ils documents da viadi, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas e sche l’entrada vegn refusada a questas persunas.
+<sup>2</sup> Ina violaziun da l’obligaziun da diligenza vegn supponida, sche l’interpresa d’aviaziun transporta persunas che na possedan betg ils documents da viadi, las autorisaziuns da viadi ETIAS, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas e sche l’entrada vegn refusada a questas persunas.[^122a-3]
 
 <sup>3</sup>
 
@@ -3618,13 +4260,18 @@ Ina violaziun da l’obligaziun da diligenza n’è betg avant maun, sche:
   - 1\. la falsificaziun u la sfalsificaziun d’in document da viadi, d’in visum u d’in titel da dimora n’era betg evidentamain visibla,
   - 2\. i n’era betg evidentamain visibel ch’in document da viadi, in visum u in titel da dimora n’appartegneva betg al passagier,
   - 3\. i n’era betg senz’auter pussaivel d’eruir ils dis da dimora admissibels u las entradas admissiblas sin basa dal bul sin il document da viadi,
-  - 4\. ella ha prendì tut las mesiras organisatoricas necessarias che pon vegnir pretendidas dad ella per evitar ch’ella transportia persunas che na possedan betg ils documents da viadi, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas;
+  - 4\.[^122a-4] ella ha prendì tut las mesiras organisatoricas necessarias che pon vegnir pretendidas dad ella per evitar ch’ella transportia persunas che na possedan betg ils documents da viadi, las autorisaziuns da viadi ETIAS, ils visums ed ils titels da dimora ch’èn necessaris per entrar en il territori da Schengen u per passar tras las zonas da transit internaziunalas da las plazzas aviaticas,
+  - 5\.[^122a-5] i n’è – pervia d’in disturbi dal ETIAS – betg stà pussaivel da verifitgar, sche l’autorisaziun da viadi ETIAS è valaivla u betg;
 
 - b. l’interpresa d’aviaziun po render vardaivel ch’ella era vegnida sfurzada da transportar ina persuna.
 
 <sup>4</sup> Il Cussegl federal po prevair excepziuns dal pajament da la summa tenor l’alinea 1, cunzunt en situaziuns da guerra u en cas da catastrofas da la natira.
 
 [^122a-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^122a-2]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-3]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-4]: Versiun tenor la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^122a-5]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 122b
 
@@ -3632,7 +4279,7 @@ Ina violaziun da l’obligaziun da diligenza n’è betg avant maun, sche:
 
 <sup>1</sup> Ina interpresa d’aviaziun sto pajar 4000 francs per mintga sgol, per il qual ella violescha l’obligaziun d’annunzia. En cas grevs sto ella pajar 12 000 francs per sgol. En cas levs poi vegnir desistì d’avrir ina procedura.
 
-<sup>2</sup> Ina violaziun da l’obligaziun d’annunzia vegn supponida, sche l’interpresa d’aviaziun na transmetta betg a temp las datas tenor l’artitgel 104 alinea 3 u sche questas datas èn incumplettas u faussas.
+<sup>2</sup> Ina violaziun da l’obligaziun d’annunzia vegn supponida, sche l’interpresa d’aviaziun na transmetta betg a temp las datas tenor l’artitgel 92*a* alinea 3 u sche questas datas èn incumplettas u faussas.[^122b-2]
 
 <sup>3</sup>
 
@@ -3642,6 +4289,7 @@ Ina violaziun da l’obligaziun d’annunzia n’è betg avant maun, sche l’in
 - b. ella ha prendì tut las mesiras organisatoricas ch’èn necessarias u che pon vegnir pretendidas, per impedir ina violaziun da l’obligaziun d’annunzia.
 
 [^122b-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^122b-2]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 122c
 
@@ -3656,10 +4304,11 @@ Ina violaziun da l’obligaziun d’annunzia n’è betg avant maun, sche l’in
 La procedura sa drizza tenor la Lescha federala dals 20 da december 1968[^122c-2] davart la procedura administrativa. Ella sto vegnir averta:
 
 - a. en cas d’ina violaziun da l’obligaziun da diligenza: il pli tard 2 onns suenter che l’entrada respectiva è vegnida refusada;
-- b. en cas d’ina violaziun da l’obligaziun d’annunzia: il pli tard 2 onns suenter il di che las datas avessan stuì vegnir transmessas.
+- b.[^122c-3] en cas d’ina violaziun da l’obligaziun d’annunzia: il pli tard 2 onns suenter il di che las datas avessan stuì vegnir transmessas tenor l’artitgel 92*a* alinea 1.
 
 [^122c-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2014 (violaziun da l’obligaziun da diligenza e d’annunzia tras las interpresas d’aviatica; sistems d’infurmaziun), en vigur dapi il 1. d’oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^122c-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^122c-3]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 ## Chapitel 17 Taxas
 
@@ -3706,15 +4355,16 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
 <sup>2</sup> La procedura sa drizza tenor il nov dretg.
 
-<sup>3</sup> Ils termins tenor l’artitgel 47 alinea 1 cumenzan cur che questa lescha entra en vigur, sche l’entrada en Svizra ha gì lieu u sche la famiglia è vegnida fundada avant questa data.
+<sup>3</sup> Ils termins tenor l’artitgel 47 alinea 1 cumenzan cura che questa lescha entra en vigur, sche l’entrada en Svizra ha gì lieu u sche la famiglia è vegnida fundada avant questa data.
 
 <sup>4</sup> Per cuntravenziuns ch’èn vegnidas commessas avant che questa lescha è entrada en vigur vegnan applitgadas sias disposiziuns penalas, sche quellas èn pli favuraivlas per l’autur dal delict.
 
-<sup>5</sup> L’artitgel 107 vala mo per las cunvegnas da readmissiun e da transit ch’èn vegnidas fatgas suenter il 1. da mars 1999.
+<sup>5</sup> L’artitgel 102*e* vala mo per las cunvegnas da readmissiun e da transit ch’èn vegnidas concludidas suenter il 1. da mars 1999.[^126-1]
 
-<sup>6</sup> Cur che la Lescha federala dals 20 da zercladur 2003[^126-1] davart il sistem d’infurmaziun per il sectur da las persunas estras e da l’asil entra en vigur, vegnan abolids ils artitgels 108 e 109.
+<sup>6</sup> Cura che la Lescha federala dals 20 da zercladur 2003[^126-2] davart il sistem d’infurmaziun per il sectur da las persunas estras e da l’asil entra en vigur, vegnan abolids ils artitgels 108 e 109.
 
-[^126-1]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^126-1]: Versiun tenor la cifra 1 da l’agiunta 1 dal COF dals 19 da mars 2021 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las ordinaziuns (UE) 2019/817 ed (UE) 2019/818 davart l’installaziun d’in rom per l’interoperabilitad tranter sistems d’infurmaziun da la UE, en vigur dapi ils 15 da zer. 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^126-2]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 
 #### Art. 126a
 
@@ -3747,7 +4397,7 @@ Fin ch’il sistem naziunal da visums entra en vigur han ils artitgels 109*c* e 
 
 ...[^126b-2]
 
-[^126b-1]: Integrà tenor l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^126b-1]: Integrà tenor l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun e dal Conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^126b-2]: Las midadas pon vegnir consultadas en il [AS 2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609).
 
 #### Art. 126c
@@ -3769,11 +4419,21 @@ Proceduras penalas administrativas pervia da violaziun da l’obligaziun da dili
 [^126d-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
-#### Art. 126e e 126f
+#### Art. 126e
 
-[^126e126f-1]
+**Disposiziuns transitoricas da la midada dals 25 da settember 2020**[^126e-1]
 
-[^126e126f-1]: Entran en vigur pli tard ([BBl 2020 7911](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+<sup>1</sup> L’obligaziun dad esser en possess d’ina autorisaziun da viadi ETIAS valaivla tenor l’artitgel 5 alinea 1 litera a<sup>bis</sup> vala pir 6 mais suenter l’entrada en vigur da la midada dals 25 da settember 2020. Il Cussegl federal po prolungar quest termin.
+
+<sup>2</sup> Durant ils 6 mais suenter la scadenza dal termin tenor l’alinea 1 permettan las autoritads cumpetentas per la controlla da cunfin als burgais da terzs stadis, ch’èn suttamess a questa obligaziun e che n’èn betg en possess d’ina autorisaziun da viadi ETIAS valaivla, d’entrar en Svizra, sch’els adempleschan tut las ulteriuras premissas tenor l’artitgel 5 e sch’els entran durant quests 6 mais per l’emprima giada en il territori da Schengen. Il Cussegl federal po prolungar quest termin per maximalmain 6 mais.
+
+[^126e-1]: Integrà tras la cifra 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2018/1240 davart il sistem europeic d’infurmaziun e d’approvaziun da viadis (ETIAS), en vigur dapi ils 15 da zer. 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+
+#### Art. 126f
+
+[^126f-1]
+
+[^126f-1]: Entra en vigur pli tard ([BBl 2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
 
 #### Art. 126g
 
@@ -3787,7 +4447,7 @@ Per dumondas tenor l’artitgel 50 che vegnan inoltradas avant l’entrada en vi
 
 **Coordinaziun cun las cunvegnas d’associaziun a la reglamentaziun da Schengen**
 
-Cur che las cunvegnas d’associaziun a la reglamentaziun da Schengen entran en vigur, vegn la lescha qua avant maun adattada sco suonda:
+Cura che las cunvegnas d’associaziun a la reglamentaziun da Schengen entran en vigur, vegn la lescha qua avant maun adattada sco suonda:
 
 ...[^127-1]
 
