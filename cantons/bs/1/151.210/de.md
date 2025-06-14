@@ -4,24 +4,23 @@ number: "151.210"
 title: Verordnung zum Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt
 short: "Publikationsverordnung, PublV"
 language: de
-version: 2022-05-19
-valid_until: 2025-06-14
-version_adopted: 2022-05-10
+version: 2025-06-15
+version_adopted: 2025-06-10
 adopted: 2018-12-11
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/151.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5553/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt
 
-Publikationsverordnung | Publikation von Erlassen
+Publikation von Erlassen
 
 (Publikationsverordnung, PublV)
 
-Vom 11. Dezember 2018 (Stand 19. Mai 2022)
+Vom 11. Dezember 2018 (Stand 15. Juni 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -185,7 +184,7 @@ beschliesst:
 
 <sup>1</sup> Das Justiz- und Sicherheitsdepartement prüft zur Publikation bestimmte Erlassentwürfe vor der Beschlussfassung in redaktioneller und gesetzestechnischer Hinsicht. Es erlässt die hierfür erforderlichen Richtlinien.
 
-<sup>2</sup> Die Prüfung erfolgt in der Regel innert 14 Tagen. Gleichzeitig erfolgt bei kantonalen Erlassentwürfen eine Überprüfung gemäss § 2 Abs. 2 lit. b der Verordnung betreffend die Abteilung Gleichstellung von Frauen und Männern und die Gleichstellungskommission Basel-Stadt. Die Bestätigung erfolgt mit der Zustellung des publikationsfähigen Erlassentwurfs.
+<sup>2</sup> Die Prüfung erfolgt in der Regel innert 14 Tagen. Die Bestätigung erfolgt mit der Zustellung des publikationsfähigen Erlassentwurfs.
 
 <sup>3</sup> Bedarf es einer Beschlussfassung durch den Regierungsrat, ist die Prüfung vor der Traktandierung zu veranlassen.
 
