@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über das Strafregister-Informationssyste
 short: StReG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: de
-version: 2025-01-01
+version: 2025-06-15
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250615-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/de"
 
 (Strafregistergesetz, StReG)
 
-vom 17. Juni 2016 (Stand am 1. Januar 2025)
+vom 17. Juni 2016 (Stand am 15. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 123 der Bundesverfassung (BV)[^ingress-1], nach Einsicht i
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)
 
 ## 1. Titel: Gegenstand und Begriffe
@@ -101,7 +101,7 @@ Die registerführende Stelle im Bundesamt für Justiz (registerführende Stelle)
 
 [^3-1]: Fassung gemäss Anhang 2 Ziff. 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^3-2]: Ausdruck gemäss Anhang Ziff. 7 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^3-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 4
 
@@ -151,8 +151,8 @@ Die folgenden Behörden tragen ihre Daten in VOSTRA ein, sofern dies vom Bund od
 
 <sup>3</sup> Die Behörden nach Absatz 1 Buchstaben a und c melden Grundurteile und nachträgliche Entscheide, die ein Tätigkeitsverbot oder Kontakt- und Rayonverbot zum Gegenstand haben, an die registerführende Stelle.
 
-[^6-1]: [SR 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
-[^6-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^6-1]: [SR 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
+[^6-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 7
 
@@ -362,9 +362,9 @@ Schweizerische Grundurteile, die ein von einer oder einem Jugendlichen begangene
 
 <sup>3</sup> Schweizerische Grundurteile, die eine von einer oder einem Jugendlichen begangene, im Bundesrecht geregelte Übertretung zum Gegenstand haben, sind einzutragen, wenn diese mit einem Tätigkeitsverbot (Art. 16*a* Abs. 1 JStG) oder einem Kontakt- und Rayonverbot (Art. 16*a* Abs. 2 JStG) sanktioniert worden sind.
 
-[^18-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^18-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^18-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^18-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^18-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 19
 
@@ -395,10 +395,10 @@ Ausländische Grundurteile, die eine von einer Person schweizerischer Staatsange
     - – Unterbringung (analog Art. 15 JStG) oder ambulante Behandlung (analog Art. 14 JStG)
     - – Tätigkeitsverbot (analog Art. 16*a* Abs. 1 JStG) oder Kontakt- und Rayonverbot (analog Art. 16*a* Abs. 2 JStG).
 
-[^19-1]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^19-1]: [SR 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
+[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-4]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 20
 
@@ -428,8 +428,8 @@ Bei einzutragenden schweizerischen Grundurteilen mit Landesverweisung werden fol
 
 <sup>5</sup> Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden und die Referenzkategorien für die Eintragung der ausländischen Grundurteile.
 
-[^20-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^20-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^20-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^20-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 21
 
@@ -498,9 +498,9 @@ Es werden folgende Daten eingetragen:
 
 <sup>3</sup> Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden und wer für die Eintragung von Abtretungen zuständig ist.
 
-[^24-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^24-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^24-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^24-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^24-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung
 
@@ -614,9 +614,9 @@ Der Fristenlauf nach Absatz 2 beginnt:
 
 <sup>5</sup> Ein Grundurteil wird unverzüglich entfernt, wenn es aufgehoben wurde. Bei Aufhebung des Urteils infolge Revision oder Neubeurteilung im Rahmen eines Abwesenheitsverfahrens ist ein Verweis auf den aufgehobenen Entscheid zulässig, sofern dies für die Berechnung der Entfernungsfrist des neuen Urteils nötig ist.
 
-[^30-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^30-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^30-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^30-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^30-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^30-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 31
 
@@ -755,9 +755,9 @@ Der Fristenlauf nach Absatz 3 beginnt:
 
 <sup>5</sup> Ergeht infolge einer Revision, einer Neubeurteilung im Rahmen eines Abwesenheitsverfahrens oder einer Wiederaufnahme ein neues Urteil oder ein neuer Entscheid, so wird der Fristenlauf so berechnet, als ob das neue Urteil oder der neue Entscheid bereits im Zeitpunkt des aufgehobenen Entscheides gefällt worden wäre.
 
-[^38-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^38-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^38-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^38-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^38-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^38-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 39
 
@@ -807,9 +807,9 @@ Einträge, die sich auf ein Grundurteil beziehen, erscheinen nach den folgenden 
 - f. Nach Ablauf der Frist nach den Buchstaben a–e erscheinen Grundurteile im Auszug, wenn dieser noch ein Grundurteil enthält, bei dem diese Frist noch nicht abgelaufen ist, längstens aber bis zum Ablauf der Frist gemäss Artikel 38 Absatz 3 Buchstaben a–l, ausnahmsweise länger: bis zum Ende einer im Grundurteil angeordneten Landesverweisung; Urteile nach Buchstabe d erscheinen längstens 10 Jahre nach Rechtskraft, ausnahmsweise länger: bis zum Ende einer im Grundurteil angeordneten Landesverweisung und bis zum Ablauf eines später angeordneten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG; Urteile nach Buchstabe e erscheinen längstens 5 Jahre nach Ablauf des Verbots; dasselbe gilt, wenn das Verbot erst nachträglich erlassen worden ist.
 - g. Ist ein Tätigkeitsverbot nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG später angeordnet worden (Art. 67*d* Abs. 1 StGB), so erscheint das damit verknüpfte Grundurteil auch nach Ablauf der Fristen nach den Buchstaben a–f wieder im Auszug, solange dieses Verbot wirksam ist.
 
-[^40-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^40-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^40-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^40-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^40-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^40-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 41
 
@@ -846,9 +846,9 @@ Der Sonderprivatauszug vermittelt Zugang zu folgenden Daten:
 
 <sup>3</sup> Ein Grundurteil nach Absatz 1 und die damit verknüpften Einträge erscheinen so lange im Sonderprivatauszug, als ein Verbot nach Absatz 1 Buchstabe b oder c wirksam ist, das sich auf dieses Grundurteil bezieht.
 
-[^42-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^42-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^42-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^42-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^42-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^42-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### 2. Kapitel: Zugang für Behörden
 
@@ -891,10 +891,10 @@ Sie haben ein Online-Zugangsrecht auf alle in VOSTRA gespeicherten Daten, mit Au
 
 <sup>2</sup> Bei der polizeilichen Informationsvermittlung ins Ausland nach Absatz 1 Buchstabe e Ziffer 2 dürfen keine elektronischen Kopien von Grundurteilen und von nachträglichen Entscheiden (Art. 22 Abs. 1) übermittelt werden.
 
-[^45-1]: [SR 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
-[^45-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^45-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^45-4]: [SR 362.2](https://fedlex.data.admin.ch/eli/cc/2009/815)
+[^45-1]: [SR 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
+[^45-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^45-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^45-4]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 #### Art. 46
 
@@ -908,46 +908,48 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>c. die Behörden nach Art. 9 NDG, die mit dem NDB zusammenarbeiten:[^46-15]</td><td></td><td>für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren und äusseren Sicherheit nach Art. 6 Abs. 1 NDG, insbesondere für:[^46-16] – die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen – die Verhinderung von Parallelermittlungen – die Glaubwürdigkeitsprüfung bei Befragungen – die Überprüfung des Leumunds von Informantinnen und Informanten;</td></tr>
 <tr><td>d. die kantonalen Polizeistellen:</td><td></td><td>1. für die Erkennung oder Verhütung von Straftaten, insbesondere für: – die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen – die Verhinderung von Parallelermittlungen – die Glaubwürdigkeitsprüfung bei Befragungen – die Überprüfung des Leumunds von Informantinnen und Informanten, – den Schutz verdeckter Ermittlerinnen und Ermittler oder verdeckter Fahnderinnen und Fahnder mittels Überprüfung des Gefahrenumfeldes, 2. für die Interpretation von Daten aus Polizeidatenbanken, 3.[^46-17] für die Abklärung des Sicherheitsrisikos im Rahmen der Zuverlässigkeitsüberprüfungen nach Artikel 108*b* des Luftfahrtgesetzes vom 21. Dezember 1948[^46-18];</td></tr>
 <tr><td>e.[^46-19] die Fachstellen für Personensicherheitsprüfungen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^46-20] (ISG):[^46-21]:</td><td></td><td>1. für die Beurteilung des Risikos im Rahmen von Personensicherheitsprüfungen nach dem ISG, 2. für Beurteilungen des Gefährdungs-und Missbrauchspotenzials nach dem Militärgesetz vom 3. Februar 1995[^46-22], 3. für weitere Beurteilungen des Risikos im Rahmen der in der Spezialgesetzgebung vorgesehenen Prüfungen;</td></tr>
-<tr><td>f. das Staatssekretariat für Migration:</td><td></td><td>1. für die Durchführung von Einbürgerungsverfahren auf Stufe Bund einschliesslich der Nichtigerklärung von Einbürgerungen, 2. für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen, 3. für Entscheide nach dem Asylgesetz vom 26. Juni 1998[^46-23] (AsylG), die anhand von Strafdaten getroffen werden müssen;</td></tr>
+<tr><td>f. das Staatssekretariat für Migration:</td><td></td><td>1. für die Durchführung von Einbürgerungsverfahren auf Stufe Bund einschliesslich der Nichtigerklärung von Einbürgerungen, 2. für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen, 3. für Entscheide nach dem Asylgesetz vom 26. Juni 1998[^46-23] (AsylG), die anhand von Strafdaten getroffen werden müssen, 4.[^46-24] für die Prüfung von ETIAS-Reisegenehmigungen;</td></tr>
 <tr><td>g. die für die Einbürgerung auf Stufe Kanton zuständigen kantonalen Behörden:</td><td></td><td>für die Durchführung von Einbürgerungsverfahren auf Stufe Kanton einschliesslich der Nichtigerklärung von Einbürgerungen;</td></tr>
 <tr><td>h. die kantonalen Migrationsbehörden (Fremdenpolizei):</td><td></td><td>für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen;</td></tr>
-<tr><td>i. die Gruppe Verteidigung:[^46-24]</td><td></td><td>1. für die Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee, einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem Militärgesetz vom 3. Februar 1995[^46-25] (MG), 2. für die Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;</td></tr>
+<tr><td>i. die Gruppe Verteidigung:[^46-25]</td><td></td><td>1. für die Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee, einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem Militärgesetz vom 3. Februar 1995[^46-26] (MG), 2. für die Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;</td></tr>
 <tr><td>j. die gemäss kantonaler Gesetzgebung für die Sicherheitsprüfung von Polizistinnen, Polizisten sowie Polizeianwärterinnen und -anwärtern zuständigen Polizeikommandos:</td><td></td><td>für die Prüfung der Voraussetzungen für die Rekrutierung, die Ernennung, die Beförderung, die Degradation, den Ausschluss und die Wiederzulassung von Polizistinnen und Polizisten sowie Polizeianwärterinnen und -anwärtern;</td></tr>
 <tr><td>k. die für die Bewilligung von privaten Sicherheitsdienstleistungen zuständige kantonale Stelle:</td><td></td><td>für die Erteilung und den Entzug von Bewilligungen für Personen, die private Sicherheitsdienstleistungen erbringen, sowie für die Marktzulassung von Sicherheitsunternehmen;</td></tr>
-<tr><td>l. die für den Vollzug des Bundesgesetzes vom 27. September 2013[^46-26] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:</td><td></td><td>für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen;</td></tr>
-<tr><td>m. das Bundesamt für Statistik:</td><td></td><td>für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^46-27] (BStatG), insbesondere für: – die Ergänzung der fehlenden Daten zur Person – die Qualitätssicherung bei Mehrfachlieferungen von Urteilen;</td></tr>
-<tr><td>n. die für die Meldungen zur Löschung von DNA-Profilen und weiteren erkennungsdienstlichen Daten zuständigen zentralen Stellen der Kantone:</td><td>[tab]</td><td>für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB;</td></tr>
-<tr><td>o. die Vollzugsstelle für den Zivildienst:</td><td>[tab]</td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-28] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.</td></tr>
+<tr><td>l. die für den Vollzug des Bundesgesetzes vom 27. September 2013[^46-27] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:</td><td></td><td>für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen;</td></tr>
+<tr><td>m. das Bundesamt für Statistik:</td><td></td><td>für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^46-28] (BStatG), insbesondere für: – die Ergänzung der fehlenden Daten zur Person – die Qualitätssicherung bei Mehrfachlieferungen von Urteilen;</td></tr>
+<tr><td>n. die für die Meldungen zur Löschung von DNA-Profilen und weiteren erkennungsdienstlichen Daten zuständigen zentralen Stellen der Kantone:</td><td></td><td>für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB;</td></tr>
+<tr><td>o. die Vollzugsstelle für den Zivildienst[^46-29]:</td><td></td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-30] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.</td></tr>
 </table>
 
-[^46-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^46-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^46-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^46-4]: [SR 362.2](https://fedlex.data.admin.ch/eli/cc/2009/815)
-[^46-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^46-6]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-7]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^46-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^46-9]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^46-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^46-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^46-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^46-4]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^46-5]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^46-6]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^46-7]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^46-8]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^46-9]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^46-10]: Eingefügt durch Anhang Ziff. 6 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [443](https://fedlex.data.admin.ch/eli/oc/2022/443), [684](https://fedlex.data.admin.ch/eli/oc/2022/684); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^46-11]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^46-12]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^46-11]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^46-12]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^46-13]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-14]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-15]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-16]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-17]: Eingefügt durch Ziff. I 12 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 23. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 321](https://fedlex.data.admin.ch/eli/oc/2022/321), [681](https://fedlex.data.admin.ch/eli/oc/2022/681); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^46-18]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^46-18]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 [^46-19]: Fassung gemäss Anhang 1 Ziff. 16 des Informationssicherheitsgesetz vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^46-20]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^46-21]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-22]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-23]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^46-24]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-25]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-26]: [SR 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
-[^46-27]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^46-28]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^46-20]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^46-21]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^46-22]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^46-23]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^46-24]: Eingefügt durch Anhang Ziff. 3 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^46-25]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-26]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^46-27]: [SR 935.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11102)
+[^46-28]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^46-29]: Seit 1. Jan. 2019: Bundesamt für Zivildienst.
+[^46-30]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 47
 
@@ -963,10 +965,10 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>e.[^47-3] die Oberaufsichtsbehörde des Bundes über das Handelsregister:</td><td></td><td>für die Prüfung nach Artikel 928*a* Absatz 2<sup>bis</sup> des Obligationenrechts (OR)[^47-4].</td></tr>
 </table>
 
-[^47-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^47-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^47-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^47-2]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^47-3]: Eingefügt durch Ziff. I 5 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^47-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 48
 
@@ -979,7 +981,7 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>b. die im Bundesamt für Polizei zuständige Stelle:</td><td></td><td>für die Erteilung oder den Entzug von Bewilligungen nach WG.</td></tr>
 </table>
 
-[^48-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^48-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 49
 
@@ -1023,9 +1025,9 @@ Folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in 
 <tr><td>j. die in Anstalten des Straf- und Massnahmenvollzugs sowie für Untersuchungs- und Sicherheitshaft über personelle Angelegenheiten entscheidende Stelle:</td><td></td><td>für die Sicherheitsprüfung von Vollzugsmitarbeiterinnen und -mitarbeitern und von zum Vollzug beigezogenen Fachpersonen.</td></tr>
 </table>
 
-[^51-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^51-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^51-2]: Aufgehoben durch Anhang 1 Ziff. 16 des Informationssicherheitsgesetz vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^51-3]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^51-3]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 
 #### Art. 52
 
@@ -1041,7 +1043,7 @@ Folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in 
 
 <sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) kann Weisungen über die Abgabe von Strafregisterauszügen an ausländische Behörden erlassen.
 
-[^52-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^52-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 53
 
@@ -1115,10 +1117,10 @@ Keine Auskunft wird erteilt über automatisch protokollierte Abfragen (Art. 25),
 
 <sup>5</sup> Stellt die Person fest, dass ihre Daten nicht korrekt eingetragen sind, so kann sie ihre Ansprüche nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^57-4] geltend machen.[^57-5]
 
-[^57-1]: [SR 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
+[^57-1]: [SR 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
 [^57-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^57-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^57-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57-3]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^57-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^57-5]: Fassung gemäss Anhang 2 Ziff. 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 4. Kapitel: Automatische Weiterleitung von Daten aus VOSTRA an Behörden
@@ -1129,7 +1131,7 @@ Keine Auskunft wird erteilt über automatisch protokollierte Abfragen (Art. 25),
 
 Die registerführende Stelle meldet dem Bundesamt für Statistik die für die statistische Bearbeitung nach dem BStatG[^58-1] erforderlichen Daten aus VOSTRA periodisch in elektronischer Form.
 
-[^58-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^58-1]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 59
 
@@ -1157,8 +1159,8 @@ Die Gruppe Verteidigung darf die gemeldeten Daten für folgende Zwecke verwenden
 
 [^59-1]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^59-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. März 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^59-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^59-4]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^59-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^59-4]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 #### Art. 60
 
@@ -1168,9 +1170,9 @@ Die Gruppe Verteidigung darf die gemeldeten Daten für folgende Zwecke verwenden
 
 <sup>2</sup> Die Meldung kann über eine elektronische Schnittstelle erfolgen.
 
-[^60-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^60-3]: Die Bezeichnung des Informationssystems wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Januar 2019 angepasst.
+[^60-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^60-3]: Die Bezeichnung des Informationssystems wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Januar 2019 angepasst.
 
 #### Art. 61
 
@@ -1178,7 +1180,7 @@ Die Gruppe Verteidigung darf die gemeldeten Daten für folgende Zwecke verwenden
 
 Die registerführende Stelle meldet der für die Teilung eingezogener Vermögenswerte zuständigen Stelle des Bundesamtes für Justiz die für die Durchführung von Teilungsverfahren nach dem Bundesgesetz vom 19. März 2004[^61-1] über die Teilung eingezogener Vermögenswerte erforderlichen elektronischen Kopien schweizerischer Grundurteile (Art. 22 Abs. 1), sofern eine Einziehung von Vermögenswerten angeordnet worden ist, deren Bruttobetrag mindestens 100 000 Franken beträgt.
 
-[^61-1]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^61-1]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 
 #### Art. 62
 
@@ -1208,9 +1210,9 @@ Die registerführende Stelle meldet dem Staatssekretariat für Migration folgend
 
 [^62-1]: Fassung gemäss Anhang des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^62-2]: Eingefügt durch Anhang des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^62-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^62-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^62-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^62-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^62-4]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^62-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^62-6]: Fassung gemäss Anhang 2 Ziff. 2, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 
 #### Art. 63
@@ -1221,7 +1223,7 @@ Die registerführende Stelle meldet dem Staatssekretariat für Migration folgend
 
 <sup>2</sup> Die gemeldeten Daten dürfen nur verwendet werden, soweit sie für den Vollzug des WG notwendig sind.
 
-[^63-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^63-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 64
 
@@ -1244,8 +1246,8 @@ Nicht gemeldet werden:
 
 <sup>6</sup> Das EJPD kann Weisungen über die Meldungen an Behörden des Auslandes erlassen.
 
-[^64-1]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
-[^64-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^64-1]: [SR 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
+[^64-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 64a
 
@@ -1256,7 +1258,7 @@ Nicht gemeldet werden:
 <sup>2</sup> Die Meldung der Daten nach Absatz 1 erfolgt über eine elektronische Schnittstelle zwischen der zentralen Datenbank Personen und VOSTRA. Die Aufbereitung der Meldungen erfolgt automatisiert und unter Verwendung der Versichertennummer.
 
 [^64a-1]: Eingefügt durch Ziff. I 5 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^64a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 8. Titel: Automatische Weiterleitung von Daten an VOSTRA
 
@@ -1274,7 +1276,7 @@ Nicht gemeldet werden:
 
 <sup>2</sup> Die Meldung erfolgt über eine elektronische Schnittstelle zwischen dem Personenstandsregister und VOSTRA. Die Aufbereitung der Meldungen erfolgt automatisiert und unter Verwendung der AHV-Nummer.
 
-[^66-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^66-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## 9. Titel: Schlussbestimmungen
 
@@ -1328,7 +1330,7 @@ Bis spätestens sechs Monate nach Inkrafttreten dieses Gesetzes trägt die regis
 
 <sup>6</sup> Die eintragenden Behörden sind berechtigt, elektronische Kopien von bereits eingetragenen schweizerischen Grundurteilen und nachträglichen Entscheiden (Art. 22 Abs. 1), die vor dem Inkrafttreten dieses Gesetzes ergangen sind, in VOSTRA zu speichern.
 
-[^70-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^70-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 71
 

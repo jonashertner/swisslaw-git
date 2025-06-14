@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur le casier judiciaire informatique VOS
 short: LCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: fr
-version: 2025-01-01
+version: 2025-06-15
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250615-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250101/fr"
 
 (Loi sur le casier judiciaire, LCJ)[^t-1]
 
-du 17 juin 2016 (État le 1<sup>er</sup> janvier 2025)
+du 17 juin 2016 (État le 15 juin 2025)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu l’art. 123 de la Constitution (Cst.)[^ingress-1], vu le message du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)
 
 ## Titre 1 Objet et définitions
@@ -102,7 +102,7 @@ Le service de l’Office fédéral de la justice qui gère le casier judiciaire 
 - p. il communique les avis de récidive et de contrôle émis par le système aux autorités compétentes.
 
 [^3-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 4
 
@@ -152,8 +152,8 @@ Les autorités suivantes saisissent dans VOSTRA les données qu’elles génère
 
 <sup>3</sup> Les autorités visées à l’al. 1, let. a et c, transmettent au Service du casier judiciaire les jugements et les décisions ultérieures qui ont pour objet une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique.
 
-[^6-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
-[^6-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^6-1]: [RS 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
+[^6-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 7
 
@@ -363,9 +363,9 @@ Les jugements suisses qui portent sur un crime ou un délit relevant du droit f�
 
 <sup>3</sup> Les jugements suisses qui portent sur une contravention relevant du droit fédéral commise par un mineur doivent être saisis si la sanction prononcée est une interdiction d’exercer une activité (art. 16*a*, al. 1, DPMin), une interdiction de contact ou une interdiction géographique (art. 16*a*, al. 2, DPMin).
 
-[^18-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^18-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^18-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^18-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^18-3]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 19
 
@@ -396,10 +396,10 @@ Les jugements étrangers qui portent sur une infraction commise par un ressortis
     - – placement (analogue aux mesures prévues à l’art. 15 DPMin) ou traitement ambulatoire (analogue à la mesure prévue à l’art. 14 DPMin), ou
     - – interdiction d’exercer une activité (analogue à la mesure prévue à l’art. 16*a*, al. 1, DPMin), interdiction de contact ou interdiction géographique (analogues aux mesures prévues à l’art. 16*a*, al. 2, DPMin).
 
-[^19-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
-[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^19-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^19-1]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^19-4]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 20
 
@@ -429,8 +429,8 @@ Lorsqu’un jugement suisse prononçant une expulsion doit être saisi, les él�
 
 <sup>5</sup> Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées ainsi que les catégories d’infractions à utiliser pour saisir les jugements étrangers.
 
-[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 21
 
@@ -499,9 +499,9 @@ Les données suivantes sont enregistrées:
 
 <sup>3</sup> Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées ainsi que l’autorité compétente pour enregistrer une délégation de procédure.
 
-[^24-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^24-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^24-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^24-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^24-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Chapitre 2 Données saisies en dehors du système de gestion des données pénales
 
@@ -617,9 +617,9 @@ Les délais visés à l’al. 2 commencent à courir:
 
 <sup>5</sup> Tout jugement annulé est aussitôt éliminé. En cas d’annulation à la suite d’une révision ou du réexamen d’un jugement par défaut, la mention du jugement annulé est admise lorsqu’elle est nécessaire pour calculer le délai au terme duquel le nouveau jugement sera éliminé.
 
-[^30-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^30-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^30-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^30-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^30-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^30-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 31
 
@@ -758,9 +758,9 @@ Les délais visés à l’al. 3 commencent à courir:
 
 <sup>5</sup> Si un nouveau jugement ou une nouvelle décision est rendu à la suite d’une révision, du réexamen d’un jugement par défaut ou de la reprise de la procédure préliminaire, le délai est calculé comme si ce nouveau jugement ou cette nouvelle décision avait été rendu à la date à laquelle l’a été le jugement ou la décision annulé.
 
-[^38-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^38-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^38-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^38-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^38-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^38-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 39
 
@@ -810,9 +810,9 @@ Les données se rapportant à un jugement cessent de figurer sur l’extrait 4 d
 - f. les jugements figurent sur l’extrait au-delà du délai fixé aux let. a à e si l’extrait contient un autre jugement pour lequel le délai n’est pas écoulé, mais au plus tard jusqu’à l’expiration du délai fixé à l’art. 38, al. 3, let. a à l, exceptionnellement plus longtemps: jusqu’au terme d’une expulsion ordonnée dans le jugement; les jugements visés à la let. d y figurent 10 ans au plus après leur entrée en force, mais exceptionnellement plus longtemps: jusqu’au terme d’une expulsion ordonnée dans le jugement et jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée ultérieurement; les jugements visés à la let. e y figurent 5 ans au plus après que l’interdiction a atteint son terme, y compris lorsque cette dernière a été ordonnée ultérieurement;
 - g. les jugements figurent sur l’extrait au-delà du délai fixé aux let. a à f si une interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM est ordonnée ultérieurement (art. 67*d*, al. 1, CP), aussi longtemps que la nouvelle interdiction a effet.
 
-[^40-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^40-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^40-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^40-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^40-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^40-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 41
 
@@ -849,9 +849,9 @@ L’extrait spécial destiné aux particuliers permet de consulter les données 
 
 <sup>3</sup> Toutes les données se rapportant à un jugement au sens de l’al. 1 figurent sur l’extrait spécial destiné aux particuliers aussi longtemps qu’une interdiction relevant de l’al. 1, let. b ou c, en relation avec ce jugement a effet.
 
-[^42-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^42-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^42-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^42-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^42-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^42-3]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 ### Chapitre 2 Droit de consultation des autorités
 
@@ -894,10 +894,10 @@ Ils ont accès à toutes les données du casier judiciaire, à l’exception:
 
 <sup>2</sup> Les services qui transmettent des informations de police à l’étranger au sens de l’al. 1, let. e, ch. 2, ne sont pas autorisés à transmettre les copies électroniques des jugements et des décisions ultérieures (art. 22, al. 1).
 
-[^45-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
-[^45-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^45-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^45-4]: [RS 362.2](https://fedlex.data.admin.ch/eli/cc/2009/815)
+[^45-1]: [RS 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
+[^45-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^45-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^45-4]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
 
 #### Art. 46
 
@@ -914,45 +914,47 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <tr><td>c. les autorités visées à l’art. 9 LRens qui collaborent avec le SRC:[^46-15]</td><td></td><td>pour détecter à temps et prévenir des menaces pour la sécurité intérieure ou extérieure au sens de l’art. 6, al. 1, LRens, en particulier pour:[^46-16] – confirmer ou infirmer un soupçon initial en relation avec une menace potentielle – éviter des enquêtes parallèles – vérifier la crédibilité d’une personne interrogée – examiner la réputation d’un informateur,</td></tr>
 <tr><td>d. les polices cantonales:</td><td></td><td>1. pour déceler ou prévenir des infractions, en particulier pour: – confirmer ou infirmer un soupçon initial en relation avec une menace potentielle – éviter des enquêtes parallèles – vérifier la crédibilité d’une personne interrogée – examiner la réputation d’un informateur – protéger un agent infiltré ou affecté à une recherche secrète en contrôlant le contexte de la menace, 2. pour interpréter les données des banques de données policières, 3.[^46-17] pour déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108*b* de la loi fédérale du 21 décembre 1948 sur l’aviation[^46-18];</td></tr>
 <tr><td>e.[^46-19] les services spécialisés qui mènent les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^46-20]:</td><td></td><td>1. pour évaluer le risque dans le cadre de contrôles de sécurité relatifs aux personnes au sens de la LSI, 2. pour évaluer le potentiel d’abus ou de dangerosité au sens de la loi du 3 février 1995 sur l’armée[^46-21], 3. pour évaluer le risque dans le cadre d’autres contrôles prévus dans la législation spéciale;</td></tr>
-<tr><td>f. le Secrétariat d’État aux migrations:</td><td></td><td>1. pour mener les procédures de naturalisation et d’annulation de naturalisation au niveau fédéral, 2. pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires, 3. pour prendre les décisions relevant de la loi du 26 juin 1998 sur l’asile (LAsi)[^46-22] pour lesquelles des données pénales sont nécessaires;</td></tr>
+<tr><td>f. le Secrétariat d’État aux migrations:</td><td></td><td>1. pour mener les procédures de naturalisation et d’annulation de naturalisation au niveau fédéral, 2. pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires, 3. pour prendre les décisions relevant de la loi du 26 juin 1998 sur l’asile (LAsi)[^46-22] pour lesquelles des données pénales sont nécessaires, 4.[^46-23] pour examiner les autorisations de voyage ETIAS;</td></tr>
 <tr><td>g. les autorités cantonales chargées de l’octroi du droit de cité cantonal:</td><td></td><td>pour mener les procédures d’octroi du droit de cité et d’annulation de naturalisations au niveau cantonal;</td></tr>
 <tr><td>h. les services cantonaux des migrations:</td><td></td><td>pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires;</td></tr>
-<tr><td>i. le Groupement Défense:[^46-23]</td><td></td><td>1. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou à une nomination, en application de la loi du 3 février 1995 sur l’armée (LAAM)[^46-24], 2. pour examiner les motifs empêchant la remise de l’arme personnelle en application de la LAAM;</td></tr>
+<tr><td>i. le Groupement Défense:[^46-24]</td><td></td><td>1. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou à une nomination, en application de la loi du 3 février 1995 sur l’armée (LAAM)[^46-25], 2. pour examiner les motifs empêchant la remise de l’arme personnelle en application de la LAAM;</td></tr>
 <tr><td>j. les commandements de police chargés des contrôles de sécurité relatifs aux policiers et aux candidats à des postes de policier en vertu du droit cantonal:</td><td></td><td>pour contrôler les policiers et les candidats à des postes de policier en vue d’un recrutement, d’une nomination, d’une promotion, d’une rétrogradation, d’une exclusion ou d’une réintégration;</td></tr>
 <tr><td>k. les services cantonaux chargés d’autoriser des prestations de sécurité privées:</td><td></td><td>pour octroyer les autorisations nécessaires aux personnes qui fournissent des prestations de sécurité privées, pour retirer ces autorisations, et pour autoriser l’exercice de l’activité d’entreprise de sécurité;</td></tr>
-<tr><td>l. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP)[^46-25]:</td><td></td><td>pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;</td></tr>
-<tr><td>m. l’Office fédéral de la statistique:</td><td></td><td>pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^46-26], en particulier pour: – compléter les données concernant une personne – assurer la qualité en cas de communication à double de jugements;</td></tr>
+<tr><td>l. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP)[^46-26]:</td><td></td><td>pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;</td></tr>
+<tr><td>m. l’Office fédéral de la statistique:</td><td></td><td>pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^46-27], en particulier pour: – compléter les données concernant une personne – assurer la qualité en cas de communication à double de jugements;</td></tr>
 <tr><td>n. les services centraux des cantons chargés des communications en vue de l’effacement des profils d’ADN et autres données signalétiques:</td><td></td><td>pour examiner si les conditions sont réunies pour l’effacement des profils d’ADN au sens des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN et des données signalétiques au sens de l’art. 354 CP;</td></tr>
-<tr><td>o. l’Organe d’exécution du service civil:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-27], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC.</td></tr>
+<tr><td>o. l’Organe d’exécution du service civil[^46-28]:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-29], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC.</td></tr>
 </table>
 
-[^46-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^46-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^46-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^46-4]: [RS 362.2](https://fedlex.data.admin.ch/eli/cc/2009/815)
-[^46-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^46-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^46-7]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^46-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^46-9]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^46-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^46-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^46-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^46-4]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^46-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^46-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^46-7]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^46-8]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^46-9]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^46-10]: Introduit par l’annexe ch. 6 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 23 janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [443](https://fedlex.data.admin.ch/eli/oc/2022/443), [684](https://fedlex.data.admin.ch/eli/oc/2022/684); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^46-11]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^46-12]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^46-11]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^46-12]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^46-13]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-14]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-15]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-16]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^46-17]: Introduit par le ch. I 12 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 23 janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 321](https://fedlex.data.admin.ch/eli/oc/2022/321), [681](https://fedlex.data.admin.ch/eli/oc/2022/681); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^46-18]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^46-18]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 [^46-19]: Nouvelle teneur selon l’annexe 1 ch. 16 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^46-20]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^46-21]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-22]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^46-23]: Nouvelle teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^46-24]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^46-25]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
-[^46-26]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^46-27]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^46-20]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^46-21]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^46-22]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^46-23]: Introduit par l’annexe ch. 3 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^46-24]: Nouvelle teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^46-25]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^46-26]: [RS 935.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11102)
+[^46-27]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^46-28]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
+[^46-29]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 47
 
@@ -968,10 +970,10 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <tr><td>e.[^47-3] l’autorité fédérale de haute surveillance du registre du commerce:</td><td></td><td>pour effectuer les vérifications en vertu de l’art. 928*a*, al. 2<sup>bis</sup>, du code des obligations (CO)[^47-4].</td></tr>
 </table>
 
-[^47-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^47-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^47-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^47-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^47-3]: Introduite par le ch. I 5 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^47-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 48
 
@@ -984,7 +986,7 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <tr><td>b. le service compétent de l’Office fédéral de la police:</td><td></td><td>pour octroyer ou retirer des autorisations en vertu de la LArm.</td></tr>
 </table>
 
-[^48-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^48-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 49
 
@@ -1028,9 +1030,9 @@ Les autorités suivantes, non raccordées, peuvent consulter sur demande écrite
 <tr><td>j. les services chargés des décisions en matière de personnel des établissements d’exécution des peines et mesures, de détention provisoire et de détention pour des motifs de sûreté:</td><td></td><td>pour procéder aux contrôles de sécurité relatifs aux agents de détention et aux tiers associés aux tâches d’exécution.</td></tr>
 </table>
 
-[^51-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^51-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^51-2]: Abrogée par l’annexe 1 ch. 16 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^51-3]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^51-3]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
 
 #### Art. 52
 
@@ -1046,7 +1048,7 @@ Les autorités suivantes, non raccordées, peuvent consulter sur demande écrite
 
 <sup>5</sup> Le Département fédéral de justice et police (DFJP) peut édicter des instructions sur la communication d’extraits du casier judiciaire aux autorités étrangères.
 
-[^52-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^52-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 53
 
@@ -1120,10 +1122,10 @@ Les données journalisées (art. 25) ne lui sont pas communiquées lorsqu’elle
 
 <sup>5</sup> Si le requérant constate que les données le concernant sont inexactes, il peut faire valoir les droits visés à l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^57-4].[^57-5]
 
-[^57-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
+[^57-1]: [RS 312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6220)
 [^57-2]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
-[^57-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^57-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57-3]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^57-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^57-5]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 4 Communication automatique de données du casier judiciaire à des autorités
@@ -1134,7 +1136,7 @@ Les données journalisées (art. 25) ne lui sont pas communiquées lorsqu’elle
 
 Le Service du casier judiciaire communique périodiquement à l’Office fédéral de la statistique sous forme électronique les données du casier judiciaire nécessaires à l’établissement de statistiques au sens de la LSF[^58-1].
 
-[^58-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^58-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 59
 
@@ -1162,8 +1164,8 @@ Le Groupement défense peut utiliser les données communiquées:
 
 [^59-1]: Nouvelle teneur selon l’annexe 2 ch. 3, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^59-2]: Introduite par l’annexe ch. 3 de la LF du 18 mars 2022, en vigueur depuis le 23 janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^59-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^59-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^59-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^59-4]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 #### Art. 60
 
@@ -1173,9 +1175,9 @@ Le Groupement défense peut utiliser les données communiquées:
 
 <sup>2</sup> La communication peut avoir lieu par une interface électronique.
 
-[^60-1]: La désignation du système d’information a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670))
-[^60-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^60-1]: La désignation du système d’information a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976))
+[^60-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 61
 
@@ -1183,7 +1185,7 @@ Le Groupement défense peut utiliser les données communiquées:
 
 Le Service du casier judiciaire communique au service de l’Office fédéral de la justice chargé du partage des valeurs patrimoniales confisquées les copies électroniques des jugements suisses (art. 22, al. 1) qui lui sont nécessaires pour mener les procédures de partage prévues par la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^61-1], lorsque la confiscation de valeurs patrimoniales d’un montant brut de 100 000 francs au moins a été ordonnée.
 
-[^61-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^61-1]: [RS 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 
 #### Art. 62
 
@@ -1213,9 +1215,9 @@ Lorsqu’elles concernent un étranger, le Service du casier judiciaire communiq
 
 [^62-1]: Nouvelle teneur selon l’annexe de la LF du 18 déc. 2020, en vigueur depuis le 23 janv. 2023 ([RO 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^62-2]: Introduit par l’annexe de la LF du 18 déc. 2020, en vigueur depuis le 23 janv. 2023 ([RO 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^62-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^62-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^62-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^62-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^62-4]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^62-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^62-6]: Nouvelle teneur selon l’annexe 2 ch. 2, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 
 #### Art. 63
@@ -1226,7 +1228,7 @@ Lorsqu’elles concernent un étranger, le Service du casier judiciaire communiq
 
 <sup>2</sup> Les données communiquées ne peuvent être utilisées que si l’exécution de la LArm l’exige.
 
-[^63-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^63-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 64
 
@@ -1249,8 +1251,8 @@ Ne sont pas communiqués:
 
 <sup>6</sup> Le DFJP peut édicter des instructions sur la communication de données aux autorités étrangères.
 
-[^64-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
-[^64-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^64-1]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
+[^64-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 64a
 
@@ -1261,7 +1263,7 @@ Ne sont pas communiqués:
 <sup>2</sup> Les données visées à l’al. 1 sont transmises par une interface électronique entre la base de données centrale des personnes et VOSTRA. Elles sont sélectionnées de manière automatisée sur la base du numéro AVS de la personne concernée.
 
 [^64a-1]: Introduit par le ch. I 5 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^64a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Titre 8 Communication automatique de données à VOSTRA
 
@@ -1279,7 +1281,7 @@ Ne sont pas communiqués:
 
 <sup>2</sup> La communication a lieu par une interface électronique entre le registre de l’état civil et VOSTRA. Les données sont sélectionnées et transmises de manière automatisée sur la base du numéro AVS de la personne concernée.
 
-[^66-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^66-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Titre 9 Dispositions finales
 
@@ -1333,7 +1335,7 @@ Le Service du casier judiciaire enregistre, dans les 6 mois suivant l’entrée 
 
 <sup>6</sup> Les autorités qui saisissent des données dans VOSTRA sont habilitées à enregistrer les copies électroniques des jugements et des décisions ultérieures suisses déjà saisis (art. 22, al. 1) qui ont été prononcés avant l’entrée en vigueur de la présente loi.
 
-[^70-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^70-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 71
 
