@@ -3,13 +3,12 @@ canton: BS
 number: "162.100"
 title: Personalgesetz
 language: de
-version: 2021-01-01
-valid_until: 2025-06-14
-version_adopted: 2019-09-18
+version: 2025-06-15
+version_adopted: 2024-01-10
 adopted: 1999-11-17
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5726/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6600/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5726/pdf_file"
 
 Personalgesetz | Staatspersonal: Dienstverhältnis
 
-Vom 17. November 1999 (Stand 1. Januar 2021)
+Vom 17. November 1999 (Stand 15. Juni 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -176,7 +175,9 @@ beschliesst:
 
 <sup>3</sup> Die Entscheide über Beschwerden gemäss den Abs. 1 und 2 können von der Beschwerdeführerin und vom Beschwerdeführer sowie von der Person, gegen die sich die Beschwerde richtet, jeweils bei der nächsthöheren Behörde mit Rekurs angefochten werden.
 
-<sup>4</sup> Für Beschwerden, die Diskriminierungsstreitigkeiten im Sinne des Bundesgesetzes über die Gleichstellung von Frau und Mann betreffen, sind die Bestimmungen des kantonalen Einführungsgesetzes zum Bundesgesetz über die Gleichstellung von Frau und Mann anwendbar.
+<sup>4</sup> Für Streitigkeiten im Arbeitsverhältnis, die das Geschlecht oder die sexuelle Orientierung betreffen, sind die Bestimmungen des Kantonalen Gleichstellungsgesetzes zu Geschlecht und sexueller Orientierung (Kantonales Gleichstellungsgesetz, KGlG) vom 10. Januar 2024[^16-1] anwendbar. Es wird ein Schlichtungsverfahren durchgeführt.
+
+[^16-1]: SG [140.100](https://www.gesetzessammlung.bs.ch/data/140.100/de)
 
 #### § 16a
 
