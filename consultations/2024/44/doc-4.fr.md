@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accord entre la Suisse et les États-Unis d’Amérique visant à faciliter la mise en œuvre du FATCA selon le modèle 1, projet de loi fédérale sur la mise en œuvre de l’accord FATCA entre la Suisse et les États-Unis d’Amérique selon le modèle 1 et ordonnance sur la mise en œuvre de l’accord FATCA entre la Suisse et les États-Unis d’Amérique selon le modèle 1"
 document: Projet mis en consultation-2
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Abkommen über die Umsetzung des FATCA-Abkommens zwischen der Schweiz und den Vereinigten Staaten von Amerika nach Modell 1, Entwurf eines Bundesgesetzes über die Umsetzung des FATCA-Abkommens zwischen der Schweiz und den Vereinigten Staaten von Amerika nach Modell 1 und Entwurf einer Verordnung über die Umsetzung des FATCA-Abkommens zwischen der Schweiz und den Vereinigten Staaten von Amerika nach Modell 1"
 document: Vernehmlassungsvorlage-3
 language: de

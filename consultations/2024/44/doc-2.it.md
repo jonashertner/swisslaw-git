@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accordo die cooperazione tra la Svizzera e gli Stati Uniti d’America per l’applicazione agevolata della normativa FATCA fondato sul modello 1, legge federale die cooperazione tra la Svizzera e gli Stati Uniti d’America per l’applicazione agevolata della normativa FATCA fondato sul modello 1 ed Ordinanza die cooperazione tra la Svizzera e gli Stati Uniti d’America per l’applicazione agevolata della normativa FATCA fondato sul modello 1"
 document: Progetto posto in consultazione-4
 language: it
