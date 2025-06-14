@@ -4,13 +4,12 @@ number: "154.100"
 title: Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2024-06-13
-valid_until: 2025-06-14
-version_adopted: 2024-04-10
+version: 2025-06-15
+version_adopted: 2024-01-10
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6304/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 3. Juni 2015 (Stand 13. Juni 2024)
+Vom 3. Juni 2015 (Stand 15. Juni 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -83,7 +82,7 @@ beschliesst:
 
 #### § 6
 
-<sup>1</sup> Es bestehen die Schlichtungsbehörden des Zivilgerichts, des Appellationsgerichts und als paritätische Schlichtungsbehörden (Art. 200, 201 Zivilprozessordnung [ZPO] vom 19. Dezember 2008) die Staatliche Schlichtungsstelle für Mietstreitigkeiten sowie die Kantonale Schlichtungsstelle für Diskriminierungsfragen; für die paritätischen Schlichtungsbehörden gelten die Vorschriften des Gesetzes über die Staatliche Schlichtungsstelle für Mietstreitigkeiten (Schlichtungsstellengesetz) vom 8. Februar 1995 sowie des Einführungsgesetzes zum Bundesgesetz über die Gleichstellung von Frau und Mann (EG GlG) vom 26. Juni 1996.
+<sup>1</sup> Es bestehen die Schlichtungsbehörden des Zivilgerichts, des Appellationsgerichts und als paritätische Schlichtungsbehörden (Art. 200, 201 Zivilprozessordnung [ZPO] vom 19. Dezember 2008[^6-1]) die Staatliche Schlichtungsstelle für Mietstreitigkeiten sowie die Kantonale Schlichtungsstelle für Diskriminierungsfragen; für die paritätischen Schlichtungsbehörden gelten die Vorschriften des Gesetzes über die Staatliche Schlichtungsstelle für Mietstreitigkeiten (Schlichtungsstellengesetz) vom 8. Februar 1995[^6-2] sowie des Kantonalen Gleichstellungsgesetzes zu Geschlecht und sexueller Orientierung (Kantonales Gleichstellungsgesetz, KGlG) vom 10. Januar 2024[^6-3].
 
 <sup>2</sup> Als Schlichtungsbehörden des Zivilgerichts und des Appellationsgerichts amten die Gerichtspräsidentinnen und Gerichtspräsidenten sowie die dafür vom jeweiligen Gericht gewählten Gerichtsschreiberinnen und Gerichtsschreiber des entsprechenden Gerichts.
 
@@ -92,6 +91,10 @@ beschliesst:
 <sup>4</sup> Jedes Gericht erlässt ein Reglement für seine Schlichtungsbehörde.
 
 <sup>5</sup> Diese Reglemente sehen insbesondere vor, dass die Parteien auf die Möglichkeit der Mediation durch darin ausgebildete Fachpersonen hingewiesen werden.
+
+[^6-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^6-2]: SG [215.400](https://www.gesetzessammlung.bs.ch/data/215.400/de)
+[^6-3]: SG [140.100](https://www.gesetzessammlung.bs.ch/data/140.100/de)
 
 ### 1.5.3. Justizverwaltung
 
