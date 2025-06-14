@@ -4,11 +4,11 @@ title: "Legge federale del 14 marzo 1958 su la responsabilità della Confederazi
 short: LResp
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489"
 language: it
-version: 2020-01-01
+version: 2025-06-15
 adopted: 1958-03-14
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20250615/it/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20250615-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/it"
 
 (Legge sulla responsabilità, LResp[^t-1])
 
-del 14 marzo 1958 (Stato 1° gennaio 2020)
+del 14 marzo 1958 (Stato 15 giugno 2025)
 
-[^t-1]: Abbreviazione introdotta dal n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^t-1]: Abbreviazione introdotta dalla cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ visto l’articolo 146 della Costituzione federale[^ingress-1];[^ingress-2] vist
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^ingress-2]: Nuovo testo giusta la cifra 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^ingress-3]: FF **1956** I 1420
 
 ## Capo I. Campo d’applicazione
@@ -50,9 +50,9 @@ La presente legge è applicabile a tutte le persone cui è conferita una carica 
 <sup>2</sup> Sono eccettuate, per quanto concerne il loro stato militare e i loro doveri di servizio, le persone che appartengono all’esercito.
 
 [^1-1]: Nuovo testo giusta in n. 2 dell’all. alla LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° ago. 2003 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); FF [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-2]: Abrogata dal n. II 2 dell’all. alla L del 13 dic. 2002 sul Parlamento, con effetto dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^1-2]: Abrogata dalla cifra II n. 2 dell’all. alla L del 13 dic. 2002 sul Parlamento, con effetto dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
 [^1-3]: Nuovo testo giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-4]: Introdotta dal n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^1-4]: Introdotta dalla cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 2
 
@@ -62,8 +62,8 @@ La presente legge è applicabile a tutte le persone cui è conferita una carica 
 
 <sup>3</sup> Sono, inoltre, riservate le disposizioni della legge federale del 26 marzo 1934[^2-2] sulle garanzie politiche e di polizia in favore della Confederazione.
 
-[^2-1]: Nuovo testo giusta il n. II 2 dell’all. alla L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
-[^2-2]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 3. [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 1]
+[^2-1]: Nuovo testo giusta la cifra II n. 2 dell’all. alla L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^2-2]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 3. [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra I n. 1]
 
 ## Capo II. Responsabilità per danni
 
@@ -102,7 +102,7 @@ L’autorità competente può ridurre o anche negare il risarcimento se il danne
 <sup>2</sup> Chi è illecitamente leso nella sua personalità può chiedere, in caso di colpa del funzionario, quando la gravità dell’offesa lo giustifichi e questa non sia stata riparata in altro modo, il pagamento di una somma a titolo di riparazione morale.[^6-2]
 
 [^6-1]: Nuovo testo giusta il n. 1 dell’all. dell’O del 3 feb. 1993 sulle autorità le cui decisioni possono essere deferite al Tribunale federale e al Tribunale federale delle assicurazioni, in vigore dal 1° gen. 1994 ([RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
-[^6-2]: Nuovo testo giusta il n. II 2 della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
+[^6-2]: Nuovo testo giusta la cifra II n. 2 della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
 #### Art. 7
 
@@ -131,7 +131,7 @@ Il funzionario risponde verso la Confederazione dei danni che direttamente le ha
 [^10-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^10-2]: Nuovo testo del per. giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^10-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^10-4]: Nuovo testo giusta il n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^10-4]: Nuovo testo giusta la cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 11
 
@@ -154,7 +154,7 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 <sup>2</sup> Ai funzionari sottoposti alla giurisdizione militare sono applicabili le disposizioni del Codice penale militare[^13-1] e della legge federale del 28 giugno 1889[^13-2] sull’organizzazione giudiziaria e procedura penale per la armata federale.
 
 [^13-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^13-2]: [CS **3** 433; [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)n. II, [1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)n. III. [RU 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)art. 219]. Ora: Procedura penale militare del 23 mar. 1979 ([RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)).
+[^13-2]: [CS **3** 433; [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)cifra II, [1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)cifra III. [RU 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)art. 219]. Ora: Procedura penale militare del 23 mar. 1979 ([RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)).
 
 #### Art. 14
 
@@ -185,7 +185,7 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 
 <sup>4</sup> Le disposizioni che precedono sono parimente applicabili se, per un primo chiarimento dei fatti o per assicurare le prove, si rendono necessari altri provvedimenti d’inchiesta o d’istruzione penale contro una persona menzionata nell’articolo 14. Appena eseguiti i provvedimenti autorizzati dalla commissione dev’essere chiesto, per il procedimento penale, il permesso delle commissioni competenti delle Camere federali secondo l’articolo 14, salvo che la procedura venga sospesa. L’incarcerazione è inammissibile senza tale permesso.[^14bis-5]
 
-[^14bis-1]: Introdotto dal n. I della LF del 6 ott. 1972 che modifica disposizioni concernenti il segreto postale, telefonico e telegrafico, come anche l’immunità, in vigore dal 1° lug. 1973 ([RU 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [FF 1971 II 53](https://fedlex.data.admin.ch/eli/fga/1971/2___53)238).
+[^14bis-1]: Introdotto dalla cifra I della LF del 6 ott. 1972 che modifica disposizioni concernenti il segreto postale, telefonico e telegrafico, come anche l’immunità, in vigore dal 1° lug. 1973 ([RU 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [FF 1971 II 53](https://fedlex.data.admin.ch/eli/fga/1971/2___53)238).
 [^14bis-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^14bis-3]: Nuovo testo giusta il n. 2 dell’all. della LF del 30 apr. 1997 sulle poste, in vigore dal 1° gen. 1998 ([RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [FF 1996 III 1141](https://fedlex.data.admin.ch/eli/fga/1996/3_1249_1201_1141)).
 [^14bis-4]: Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
@@ -197,7 +197,7 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 
 Se vi è contestazione quanto alla necessità del permesso, la decisione spetta alle commissioni competenti per il permesso medesimo.
 
-[^14ter-1]: Introdotto dal n. I della LF del 6 ott. 1972 che modifica disposizioni concernenti il segreto postale, telefonico e telegrafico, come anche l’immunità ([RU 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [FF 1971 II 53](https://fedlex.data.admin.ch/eli/fga/1971/2___53)238). Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^14ter-1]: Introdotto dalla cifra I della LF del 6 ott. 1972 che modifica disposizioni concernenti il segreto postale, telefonico e telegrafico, come anche l’immunità ([RU 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [FF 1971 II 53](https://fedlex.data.admin.ch/eli/fga/1971/2___53)238). Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 15
 
@@ -222,13 +222,13 @@ Nessun procedimento penale può essere promosso, senza un permesso del Dipartime
 
 <sup>6</sup> …[^15-7]
 
-[^15-1]: Introdotta dal n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^15-2]: Introdotta dal n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^15-1]: Introdotta dalla cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^15-2]: Introdotta dalla cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^15-3]: Nuovo testo giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^15-4]: Nuova espr. giusta l’appendice n. 1 della LF del 19 dic. 1986, in vigore dal 10 lug. 1987 ([RU 1987 932](https://fedlex.data.admin.ch/eli/oc/1987/932_932_932); [FF 1986 II 189](https://fedlex.data.admin.ch/eli/fga/1986/2_313_317_189)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^15-5]: Nuovo testo giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^15-6]: Introdotto dal n. 2 dell’all. della LF dell’8 ott. 1999 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)). Nuovo testo giusta il n. II 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^15-7]: Abrogato dal n. II 2 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-6]: Introdotto dal n. 2 dell’all. della LF dell’8 ott. 1999 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)). Nuovo testo giusta la cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^15-7]: Abrogato dalla cifra II n. 2 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 16
 
@@ -268,29 +268,52 @@ Se un organo o un impiegato di una organizzazione incaricata di compiti di dirit
 
 <sup>3</sup> L’organizzazione emana una decisione formale sulle pretese litigiose avanzate da terzi o dalla Confederazione contro di essa, come anche sulle proprie pretese contro gli organi o gli impiegati colpevoli. La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.[^19-2]
 
-[^19-1]: Nuovo testo giusta il n. II 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^19-1]: Nuovo testo giusta la cifra II n. 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^19-2]: Introdotto dal n. 1 dell’all. alla LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nuovo testo giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale n vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Capo V*a*. Responsabilità per danni derivanti dall’utilizzazione del Sistema d’informazione Schengen
+## Capo V*a*. Responsabilità per danni derivanti dall’esercizio o dall’uso dei sistemi d’informazione Schengen/Dublino o delle loro componenti
 
-[^chapVa-1]
+[^chapVa-1][^chapVa-2]
 
 [^chapVa-1]: Introdotto dall’art. 3 n. 3 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. b; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chapVa-2]: Nuovo testo giusta l’all. 1 n. 3 del DF del 19 mar. 2025 he approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19a
 
-<sup>1</sup> La Confederazione risponde del danno causato illecitamente a terzi da una persona al servizio della Confederazione o di un Cantone in seguito all’utilizzazione del Sistema d’informazione Schengen.
+<sup>1</sup> La Confederazione risponde del danno causato illecitamente a terzi da una persona al servizio della Confederazione o di un Cantone in seguito all’esercizio o all’uso di uno dei sistemi d’informazione Schengen/Dublino o di una delle sue componenti.[^19a-1]
+
+<sup>1bis</sup>
+
+Per sistema d’informazione Schengen/Dublino e sue componenti si intendono:
+
+- a. il sistema d’informazione Schengen;
+- b. il sistema di ingressi e uscite;
+- c. il sistema europeo di informazione e autorizzazione ai viaggi;
+- d. il sistema centrale d’informazione visti;
+- e. l’archivio comune di dati di identità;
+- f. il portale di ricerca europeo;
+- g. il rilevatore di identità multiple;
+- h. l’Eurodac.[^19a-2]
 
 <sup>2</sup> La Confederazione, ove abbia risarcito il danno, ha diritto di regresso contro il Cantone al cui servizio si trova la persona che ha causato il danno.
 
+[^19a-1]: Nuovo testo giusta l’all. 1 n. 3 del DF del 19 mar. 2025 he approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^19a-2]: Introdotto dall’all. 1 n. 3 del DF del 19 mar. 2025 he approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
 #### Art. 19b
+
+[^19b-1]
+
+<sup>1</sup>
 
 La Confederazione risponde del danno causato a terzi senza che sia necessario provare l’illiceità, se:
 
-- a. l’autorità di un altro Stato vincolato da un accordo di associazione alla normativa di Schengen[^19b-1], nell’utilizzare il Sistema d’informazione Schengen, ha inserito dati errati o memorizzato dati indebitamente; e
-- b. sulla base di tale segnalazione, una persona al servizio della Confederazione o di un Cantone ha causato il danno nell’esercizio delle sue funzioni.
+- a. l’autorità di un altro Stato vincolato da un accordo di associazione alla normativa di Schengen o Dublino, nell’esercizio o nell’uso di uno dei sistemi d’informazione Schengen/Dublino o di una delle sue componenti, ha registrato dati in modo errato o indebito; e
+- b. sulla base di tale trattamento dei dati, una persona al servizio della Confederazione o di un Cantone ha causato il danno nell’esercizio delle sue funzioni.
 
-[^19b-1]: Acc. del 26 ott. 2004 tra la Confederazione Svizzera, l’Unione europea e la Comunità europea riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’*acquis* di Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Acc. del 20 apr. 2005 tra la Confederazione Svizzera e il Regno di Danimarca riguardante la costituzione di diritti e di doveri tra i due Stati in vista della cooperazione Schengen ([RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Acc. del 17 dic. 2004 tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia ([RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)).
+<sup>2</sup> Gli Accordi di associazione alla normativa di Schengen e Dublino sono elencati nell’allegato.
+
+[^19b-1]: Nuovo testo giusta l’all. 1 n. 3 del DF del 19 mar. 2025 (Sviluppi dell’acquis di Schengen), in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19c
 
@@ -374,4 +397,44 @@ A contare dall’entrata in vigore della presente legge, sono abrogate tutte le 
 [^27-1]: DCF del 18 lug. 1958.
 [^27-2]: [CS **1** 431]
 [^27-3]: [CS **7** 689, **8** 273 art. 128 n. 3, [RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)art. 69 n. 1. [RU 1961 17](https://fedlex.data.admin.ch/eli/oc/1961/17_17_17)art. 19 lett. b]
-[^27-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)[1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)[2197 3292](https://fedlex.data.admin.ch/eli/oc/2197/3292). [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1].
+[^27-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)[1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)[2197 3292](https://fedlex.data.admin.ch/eli/oc/2197/3292). [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I n. 1].
+
+Allegato[^t-2]
+
+(art. 19*b* cpv. 2)
+
+## Accordi di associazione alla normativa di Schengen e di Dublino
+
+[^t-2]: Introdotto dall’all. 1 n. 3 del DF del 19 mar. 2025 he approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+### 1. Accordi di associazione alla normativa di Schengen
+
+Gli Accordi di associazione alla normativa di Schengen comprendono:
+
+- a. l’Accordo del 26 ottobre 2004[^annexu1-lvlu1-lvl1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen (AAS);
+- b. l’Accordo del 26 ottobre 2004[^annexu1-lvlu1-lvl1-2] sotto forma di scambio di lettere tra il Consiglio dell’Unione europea e la Confederazione Svizzera concernente i comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi;
+- c. la Convenzione del 22 settembre 2011[^annexu1-lvlu1-lvl1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
+- d. l’Accordo del 17 dicembre 2004[^annexu1-lvlu1-lvl1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- e. l’Accordo del 28 aprile 2005[^annexu1-lvlu1-lvl1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
+- f. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
+
+[^annexu1-lvlu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annexu1-lvlu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annexu1-lvlu1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annexu1-lvlu1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annexu1-lvlu1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+
+### 2. Accordi di associazione alla normativa di Dublino
+
+Gli Accordi di associazione alla normativa di Dublino comprendono:
+
+- a. l’Accordo del 26 ottobre 2004[^annexu1-lvlu1-lvl2-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera (AAD);
+- b. l’Accordo del 17 dicembre 2004[^annexu1-lvlu1-lvl2-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- c. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl2-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- d. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+
+[^annexu1-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annexu1-lvlu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
+[^annexu1-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)

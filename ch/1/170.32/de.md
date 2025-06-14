@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. März 1958 über die Verantwortlichkeit des Bundes 
 short: VG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489"
 language: de
-version: 2020-01-01
+version: 2025-06-15
 adopted: 1958-03-14
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20250615/de/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20250615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/de"
 
 (Verantwortlichkeitsgesetz, VG)[^t-1]
 
-vom 14. März 1958 (Stand am 1. Januar 2020)
+vom 14. März 1958 (Stand am 15. Juni 2025)
 
 [^t-1]: Abk. eingefügt durch Anhang Ziff. II 1 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -269,26 +269,49 @@ Fügt ein Organ oder ein Angestellter einer mit öffentlichrechtlichen Aufgaben 
 [^19-1]: Fassung gemäss Ziff. II 1 des BG über die Bahnreform 2 vom 20. März 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^19-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Fassung gemäss Anhang Ziff. 8 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## V*a*. Abschnitt: Haftung für Schäden im Zusammenhang mit dem Betrieb des Schengener Informationssystems
+## V*a*. Abschnitt: Haftung für Schäden im Zusammenhang mit dem Betrieb oder der Nutzung der Schengen/Dublin-Informationssysteme oder deren Komponenten
 
-[^chapVa-1]
+[^chapVa-1][^chapVa-2]
 
 [^chapVa-1]: Eingefügt durch Art. 3 Ziff. 3 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. b; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chapVa-2]: Fassung gemäss Anhang 1 Ziff. 3 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19a
 
-<sup>1</sup> Für den Schaden, den eine Person, die im Dienste des Bundes oder eines Kantons steht, beim Betrieb des Schengener Informationssystems einer Drittperson widerrechtlich zufügt, haftet der Bund.
+<sup>1</sup> Für den Schaden, den eine Person, die im Dienste des Bundes oder eines Kantons steht, beim Betrieb oder bei der Nutzung eines der Schengen/Dublin-Informationssysteme oder einer ihrer Komponenten einer Drittperson widerrechtlich zufügt, haftet der Bund.[^19a-1]
+
+<sup>1bis</sup>
+
+Als Schengen/Dublin-Informationssysteme oder ihre Komponenten gelten:
+
+- a. das Schengener Informationssystem;
+- b. das Einreise- und Ausreisesystem;
+- c. das europäisches Reiseinformations- und Genehmigungssystem;
+- d. das zentrale Visa-Informationssystem;
+- e. der gemeinsame Speicher für Identitätsdaten;
+- f. das Europäische Suchportal;
+- g. der Detektor für Mehrfachidentitäten;
+- h. Eurodac.[^19a-2]
 
 <sup>2</sup> Hat der Bund Ersatz geleistet, so steht ihm der Rückgriff auf den Kanton zu, in dessen Dienst die Person steht, die den Schaden verursacht hat.
 
+[^19a-1]: Fassung gemäss Anhang 1 Ziff. 3 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^19a-2]: Eingefügt durch Anhang 1 Ziff. 3 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
 #### Art. 19b
+
+[^19b-1]
+
+<sup>1</sup>
 
 Der Bund haftet gegenüber geschädigten Drittpersonen ohne Nachweis einer Widerrechtlichkeit, wenn:
 
-- a. die Behörde eines anderen Staates, der durch eines der Schengen-Assoziierungsabkommen[^19b-1] gebunden ist, beim Betrieb des Schengener Informationssystems Daten unrichtig eingegeben oder unrechtmässig gespeichert hat; und
-- b. auf Grund dieser Ausschreibung eine Person im Dienste des Bundes oder eines Kantons in Ausübung ihrer amtlichen Tätigkeit den Schaden verursacht hat.
+- a. die Behörde eines anderen Staates, der durch eines der Schengen- oder Dublin-Assoziierungsabkommen gebunden ist, beim Betrieb oder bei der Nutzung eines der Schengen/Dublin-Informationssysteme oder einer ihrer Komponenten Daten unrichtig oder unrechtmässig erfasst hat; und
+- b. auf Grund dieser Datenbearbeitung eine Person im Dienste des Bundes oder eines Kantons in Ausübung ihrer amtlichen Tätigkeit den Schaden verursacht hat.
 
-[^19b-1]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen beiden Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)).
+<sup>2</sup> Die Schengen- und die Dublin-Assoziierungsabkommen sind im Anhang aufgeführt.
+
+[^19b-1]: Fassung gemäss Anhang 1 Ziff. 3 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19c
 
@@ -373,3 +396,43 @@ Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes werden alle widersprechende
 [^27-2]: [BS **1** 462]
 [^27-3]: [BS **7** 745; **8** 281 Art. 128 Ziff. 3; [AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)Art. 69 Ziff. 1. [AS 1961 17](https://fedlex.data.admin.ch/eli/oc/1961/17_17_17)Art. 19 Bst. *b*]
 [^27-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
+
+Anhang[^t-2]
+
+(Art. 19*b* Abs. 2)
+
+## Schengen- und Dublin-Assoziierungsabkommen
+
+[^t-2]: Eingefügt durch Anhang 1 Ziff. 3 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+### 1. Schengen-Assoziierungsabkommen
+
+Die Schengen-Assoziierungsabkommen umfassen:
+
+- a. Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-lvl1-1] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands;
+- b. Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-lvl1-2] in Form eines Briefwechsels zwischen dem Rat der Europäischen Union und der Schweizerischen Eidgenossenschaft über die Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse unterstützen;
+- c. Vereinbarung vom 22. September 2011[^annexu1-lvlu1-lvl1-3] zwischen der Europäischen Union sowie der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen und der Schweizerischen Eidgenossenschaft über die Beteiligung dieser Staaten an der Arbeit der Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse in Bezug auf die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands unterstützen;
+- d. Übereinkommen vom 17. Dezember 2004[^annexu1-lvlu1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- e. Abkommen vom 28. April 2005[^annexu1-lvlu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
+- f. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
+
+[^annexu1-lvlu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annexu1-lvlu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annexu1-lvlu1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annexu1-lvlu1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annexu1-lvlu1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+
+### 2. Dublin-Assoziierungsabkommen
+
+Die Dublin-Assoziierungsabkommen umfassen:
+
+- a. Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-lvl2-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- b. Übereinkommen vom 17. Dezember 2004[^annexu1-lvlu1-lvl2-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- c. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- d. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
+
+[^annexu1-lvlu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annexu1-lvlu1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
+[^annexu1-lvlu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)

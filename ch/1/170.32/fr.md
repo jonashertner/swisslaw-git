@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 mars 1958 sur la responsabilité de la Confédérat
 short: LRCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489"
 language: fr
-version: 2020-01-01
+version: 2025-06-15
 adopted: 1958-03-14
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20250615-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20200101/fr"
 
 (Loi sur la responsabilité, LRCF[^t-1])
 
-du 14 mars 1958 (État le 1<sup>er</sup> janvier 2020)
+du 14 mars 1958 (État le 15 juin 2025)
 
 [^t-1]: Abréviation introduite par l’annexe ch. II 1 de la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -271,26 +271,49 @@ Si un organe ou un employé d’une institution indépendante de l’administrat
 [^19-1]: Nouvelle teneur selon le ch. II 1 de la L du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^19-2]: Introduit par l’annexe ch. 1 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nouvelle teneur selon l’annexe ch. 8 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Chapitre V*a* Responsabilité des dommages découlant de l’exploitation du Système d’information Schengen
+## Chapitre V*a* Responsabilité des dommages découlant de l’exploitation ou de l’utilisation des systèmes d’information Schengen/Dublin et de leurs composants
 
-[^chapVa-1]
+[^chapVa-1][^chapVa-2]
 
 [^chapVa-1]: Introduit par l’art. 3 ch. 3 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. b; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chapVa-2]: Nouvelle teneur selon l’annexe 1 ch. 3 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19a
 
-<sup>1</sup> La Confédération répond du dommage causé sans droit à un tiers lors de l’exploitation du Système d’information Schengen par une personne au service de la Confédération ou d’un canton.
+<sup>1</sup> La Confédération répond du dommage causé sans droit à un tiers lors de l’exploitation ou de l’utilisation d’un des systèmes d’information Schengen/Dublin ou d’un de leurs composants par une personne au service de la Confédération ou d’un canton.[^19a-1]
+
+<sup>1bis</sup>
+
+Les systèmes d’information Schengen/Dublin et leurs composants sont les suivants:
+
+- a. le système d’information Schengen;
+- b. le système d’entrée et de sortie;
+- c. le système européen d’information et d’autorisation concernant les voyages;
+- d. le système central d’information sur les visas;
+- e. le répertoire commun de données d’identité;
+- f. le portail de recherche européen;
+- g. le détecteur d’identités multiples;
+- h. Eurodac.[^19a-2]
 
 <sup>2</sup> Lorsque la Confédération répare le dommage, elle peut engager une action récursoire contre le canton au service duquel travaille la personne qui a causé le dommage.
 
+[^19a-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^19a-2]: Introduit par l’annexe 1 ch. 3 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
 #### Art. 19b
 
-La Confédération répond du dommage causé à un tiers lésé sans qu’une action illicite soit prouvée, aux conditions suivantes:
+[^19b-1]
 
-- a. les autorités d’un autre état lié par un des accords d’association à Schengen[^19b-1] ont, lors de l’utilisation du Système d’information Schengen, saisi des données inexactes ou enregistré sans droit un signalement;
-- b. le dommage causé par une personne dans l’exercice de ses fonctions au service de la Confédération ou d’un canton résulte d’un tel signalement.
+<sup>1</sup>
 
-[^19b-1]: Ac. du 26 oct. 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Ac. du 28 avr. 2005 entre la Confédération suisse et le Royaume du Danemark portant sur la création de droits et d’obligations entre ces états dans le domaine de la coopération Schengen ([RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Ac. du 17 déc. 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’état responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège ([RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)).
+La Confédération répond dans les cas suivants du dommage causé à un tiers lésé sans qu’une action illicite soit prouvée:
+
+- a. les autorités d’un autre État lié par un des accords d’association à Schengen ou à Dublin ont, lors de l’exploitation ou de l’utilisation d’un des systèmes d’information Schengen/Dublin ou d’un de leurs composants, saisi des données de manière inexacte ou sans droit;
+- b. le dommage causé par une personne dans l’exercice de ses fonctions au service de la Confédération ou d’un canton résulte d’un tel traitement de données.
+
+<sup>2</sup> Les accords d’association à Schengen et Dublin sont mentionnés en annexe.
+
+[^19b-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 19c
 
@@ -375,3 +398,43 @@ Toutes les dispositions contraires à la présente loi sont abrogées au moment 
 [^27-2]: [RS **1** 434]
 [^27-3]: [RS **7** 743, **8** 283 art. 128 ch. 3; [RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)art. 69 ch. 1. [RO 1961 17](https://fedlex.data.admin.ch/eli/oc/1961/17_17_17)art. 19 let. b]
 [^27-4]: [RS 1 **459**; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 al. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1].
+
+Annexe[^t-2]
+
+(art. 19*b*, al. 2)
+
+## Accords d’association à Schengen et Dublin
+
+[^t-2]: Introduite par l’annexe 1 ch. 3 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+
+### 1. Accords d’association à Schengen
+
+Les accords d’association à Schengen comprennent les accords suivants:
+
+- a. Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annexu1-lvlu1-lvl1-1];
+- b. Accord du 26 octobre 2004 sous forme d’échange de lettres entre le Conseil de l’Union européenne et la Confédération suisse concernant les Comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs[^annexu1-lvlu1-lvl1-2];
+- c. Arrangement du 22 septembre 2011 entre l’Union européenne et la République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse sur la participation de ces États aux travaux des comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs dans le domaine de la mise en œuvre, de l’application et du développement de l’acquis de Schengen[^annexu1-lvlu1-lvl1-3];
+- d. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annexu1-lvlu1-lvl1-4];
+- e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume du Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annexu1-lvlu1-lvl1-5];
+- f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annexu1-lvlu1-lvl1-6].
+
+[^annexu1-lvlu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annexu1-lvlu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annexu1-lvlu1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annexu1-lvlu1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annexu1-lvlu1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+
+### 2. Accords d’association à Dublin
+
+Les accords d’association à Dublin comprennent les accords suivants:
+
+- a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse[^annexu1-lvlu1-lvl2-1];
+- b. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annexu1-lvlu1-lvl2-2];
+- c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annexu1-lvlu1-lvl2-3];
+- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annexu1-lvlu1-lvl2-4].
+
+[^annexu1-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annexu1-lvlu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
+[^annexu1-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
