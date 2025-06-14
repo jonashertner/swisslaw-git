@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2025-04-01
+version: 2025-06-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250401-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250615/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/de"
 
 (VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 1. April 2025)
+vom 11. August 1999 (Stand am 15. Juni 2025)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -1046,17 +1046,17 @@ Anhang 1[^t-3]
 
 ## Umfang des Zugriffs und Berechtigung zur Datenbearbeitung im Informationssystem eRetour
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 19. Febr. 2020 ([AS 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 551](https://fedlex.data.admin.ch/eli/oc/2023/551)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 19. Febr. 2020 ([AS 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Juni 2025 ([AS 2025 343](https://fedlex.data.admin.ch/eli/oc/2025/343)).
 
 ### Zeichenerklärung
 
-Zugriffsstufen:
+Zugriffsstufen
 
 - A Online-Abfragen
 - B Bearbeiten
 - Leer Kein Zugriff
 
-Organisationseinheiten:
+Organisationseinheiten
 
 - Air Externe Mitarbeitende, die vom SEM mit der Ausreiseorganisation beauftragt sind
 - GWK Grenzwachtkorps für Aufgaben der Ausreisekontrolle
@@ -1256,6 +1256,8 @@ Organisationseinheiten:
 <tr><td>Ergänzende Angaben zur/zum Verwandten (Art der Beziehung, Wohnsitz und Telefonnummer) im Herkunftsstaat oder in einem Drittstaat</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">4. Technische Daten im Zusammenhang mit Aktivitäten zur Identifikation und Papierbeschaffung</td></tr>
 <tr><td>Ersuchtes Land</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>eRCMS (ja / nein)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Fallnummer eRCMS</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Datum Beginn der Massnahmen zur Identifikation oder Papierbeschaffung</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Datum der Erinnerungen</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Datum der Antwortfrist</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1386,33 +1388,37 @@ Organisationseinheiten:
 <tr><td>Begleitung erforderlich</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Art der Begleitung</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Anzahl vorzusehender Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Begründung der Anzahl Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Weitere vorzusehende Massnahmen</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="15">8. Medizinische Daten zur Hauptperson und zu deren Familienangehörigen</td></tr>
+<tr><td>Liste, Anzahl und Fachgebiet der kontaktierten Ärztinnen und Ärzte</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Datum, Status und Ergebnis der Datenübermittlung</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Einheit und Kürzel der Empfängerin oder des Empfängers der medizinischen Unterlagen</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Gestellte Fragen zum Gesundheitszustand und durchgeführte ärztliche Untersuchungen</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Angaben zu gesundheitlichen Problemen</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Arztberichte vorhanden beim Antrag (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Angaben zu erforderlichen Massnahmen und Hilfsmitteln</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Details zu erforderlichen Massnahmen und Hilfsmitteln</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td colspan="15">9. Überprüfung der medizinischen Daten zur Hauptperson und zu deren Familienangehörigen</td></tr>
-<tr><td>Erforderliche Beurteilung der Transportfähigkeit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Nummer des Beurteilungsauftrags</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Priorität des Beurteilungsauftrags</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Einsatzart</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Zielort</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Rechtsbereich</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Personalien der zu beurteilenden Person</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Mitglied einer Familiengruppe, die gleichzeitig reist (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td>B</td></tr>
-<tr><td>Standort der zu beurteilenden Person</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Datum des Ersuchens um Fluganmeldung</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Für das Gesuch zuständiger Kanton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Ersuchende Behörde</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Ansprechperson beim SEM und beim ersuchenden Kanton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Kontaktdaten (Telefon, einschliesslich Hotline, E-Mail)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Liste, Anzahl und Herkunft der zur Beurteilung übergebenen Dokumente</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Empfänger des Beurteilungsauftrags (Adresse, Kontaktdaten)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Datum und Uhrzeit der Übermittlung des Beurteilungsauftrags</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Benutzername der Person, die den Auftrag übermittelt hat</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Ergänzende Unterlagen, die zur Beurteilung benötigt werden</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Erforderliche Beurteilung der Transportfähigkeit</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Nummer des Beurteilungsauftrags</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Priorität des Beurteilungsauftrags</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Einsatzart</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zielort</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Rechtsbereich</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Personalien der zu beurteilenden Person</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Mitglied einer Familiengruppe, die gleichzeitig reist (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Standort der zu beurteilenden Person</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Datum des Ersuchens um Fluganmeldung</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Für das Gesuch zuständiger Kanton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ersuchende Behörde</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ansprechperson beim SEM und beim ersuchenden Kanton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Kontaktdaten (Telefon, einschliesslich Hotline, E-Mail)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Liste, Anzahl und Herkunft der zur Beurteilung übergebenen Dokumente</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
+<tr><td>Empfänger des Beurteilungsauftrags (Adresse, Kontaktdaten)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Datum und Uhrzeit der Übermittlung des Beurteilungsauftrags</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Benutzername der Person, die den Auftrag übermittelt hat</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Ergänzende Unterlagen, die zur Beurteilung benötigt werden</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
 <tr><td>Datum und Uhrzeit des Erhalts der Beurteilung</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Ergebnis und Dauer der Gültigkeit der Beurteilung</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Medizinalfall (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
@@ -1425,12 +1431,12 @@ Organisationseinheiten:
 <tr><td>Gefährdung anderer (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Angaben, Massnahmen, Vorsichtsmassnahmen für die Bodenorganisation, Betreuung ab dem Abflug</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Kostenfaktor</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
-<tr><td>Benutzername der Person, die das Beurteilungsergebnis übermittelt hat</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Schwangerschaft (ja/nein)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
-<tr><td>Vorraussichtliches Datum der Vollendung der 32. Schwangerschaftswoche</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Benutzername der Person, die das Beurteilungsergebnis übermittelt hat</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Schwangerschaft (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
+<tr><td>Vorraussichtliches Datum der Vollendung der 32. Schwangerschaftswoche</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
 <tr><td>Controlling – Fallauswahl (ja/nein)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Controlling der medizinischen Begleitung (ja/nein)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Abrechnung der Kosten für die Beurteilung der Transportfähigkeit</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Abrechnung der Kosten für die Beurteilung der Transportfähigkeit</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td></tr>
 <tr><td colspan="15">10. Ergänzende Daten zu den Identitätsausweisen</td></tr>
 <tr><td>Art des Dokuments</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Ausstellende Behörde</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1441,7 +1447,7 @@ Organisationseinheiten:
 <tr><td>Datum der Übergabe des Dokuments an die betroffene Person</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Elektronische Unterschrift der Empfangsbestätigung für das Dokument</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Kopie der Empfangsbestätigung für das Dokument</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
-<tr><td colspan="15">11. Daten zu Auszahlungen am Flughafen</td></tr>
+<tr><td colspan="15">11. Daten zu Auszahlungen</td></tr>
 <tr><td>Reisegeld Bund (nach Art. 59*a* der Asylverordnung 2 vom 11. August 1999[^annex1-lvlu1-lvlu2-1] über Finanzierungsfragen, AsylV 2)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Betrag des Reisegelds Bund in Franken</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Datum und Uhrzeit der Ausrichtung</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -1462,7 +1468,8 @@ Organisationseinheiten:
 <tr><td>Betrag der Rückkehrhilfe Kanton in Franken</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Datum und Uhrzeit der Ausrichtung</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Validierung der vorzunehmenden Auszahlung</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Von swissREPAT zu überweisender Gesamtbetrag in Franken</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Für die Auszahlung zuständige Stelle</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Auszurichtender Gesamtbetrag in Franken</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Währung der vorzunehmenden Auszahlungen (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td></tr>
 <tr><td colspan="15">12. Daten zu erfolgten Auszahlungen (am Flughafen oder anderswo)</td></tr>
 <tr><td>Daten der erfolgten Auszahlungen</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
@@ -1477,6 +1484,7 @@ Organisationseinheiten:
 <tr><td>Dauer der Begleitungen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Name, Vorname der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Geburtsdatum, Geschlecht und Nationalität der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Sonderwünsche der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Pikett-Telefonnummer der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>E-Mail-Adresse der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Art der Ausreisedokumente der Begleitpersonen</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
@@ -1606,6 +1614,22 @@ Organisationseinheiten:
 <tr><td>Datum Beendigung der Rückerstattung</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="15">9. Referenzdaten</td></tr>
 <tr><td>Referenzdaten</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">VI. Ausreise- und Vollzugskosten der Hauptperson und ihrer Familienangehörigen</td></tr>
+<tr><td colspan="15">1. Stammdaten zum Ersuchen um Rückerstattung</td></tr>
+<tr><td>Kanton – ersuchende Stelle</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Ansprechperson beim ersuchenden Kanton</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Für das Ersuchen zuständige Ansprechperson beim SEM</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Datum des Ersuchens um Rückerstattung</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Daten der Zahlungsanweisungen der ersuchenden Stelle</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Kategorien der Ausreise- und Vollzugskosten</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Höhe der Pauschalen</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Einzelheiten zu Kosten und Beträgen</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Gesamtbeträge der einzelnen Kostenkategorien</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Bereits rückerstattete Beträge der einzelnen Kostenkategorien</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Kostenabrechnung für durchgeführte Begleitungen, inkl. Namen und Vornamen der Begleitpersonen</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Abrechnung Anzahl Vollzugstage der Administrativhaft</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bemerkungen zum Ersuchen um Rückerstattung</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Dem Ersuchen beigefügte Belege</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
 </table>
 
 [^annex1-lvlu1-lvlu2-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)

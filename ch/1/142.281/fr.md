@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2025-04-01
+version: 2025-06-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250401-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250615-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250401/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 1<sup>er</sup> avril 2025)
+du 11 août 1999 (État le 15 juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1050,17 +1050,17 @@ Annexe 1[^t-1]
 
 ## Niveaux d’accès et autorisations de traitement des données dans le système d’information eRetour
 
-[^t-1]: Introduite par le ch. II al. 2 de l’O du 19 fév. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 551](https://fedlex.data.admin.ch/eli/oc/2023/551)).
+[^t-1]: Introduite par le ch. II al. 2 de l’O du 19 fév. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 juin 2025 ([RO 2025 343](https://fedlex.data.admin.ch/eli/oc/2025/343)).
 
 ### Légende
 
-Niveaux d’accès:
+Niveaux d’accès
 
 - A Consulter en ligne
 - B Traiter
 - Vide Pas d’accès
 
-Unités organisationnelles:
+Unités organisationnelles
 
 - Air Collaborateurs externes mandatés par le SEM dans le domaine de l’organisation des départs
 - AVR Collaborateurs d’organisations non gouvernementales mandatées par le SEM ou un canton pour des tâches dans le domaine de l’aide au retour
@@ -1260,6 +1260,8 @@ Unités organisationnelles:
 <tr><td>Indications complémentaires relatives à la parenté (type de relation, domicile et numéro de téléphone) dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">4. Données techniques en lien avec les activités d’identification et d’obtention de documents</td></tr>
 <tr><td>Pays sollicité</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>eRCMS (oui / non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Numéro de cas eRCMS</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Date de début de la démarche d’identification ou d’obtention de documents</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Date des rappels</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date du délai de réponse</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1390,33 +1392,37 @@ Unités organisationnelles:
 <tr><td>Accompagnement nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Nombre d’accompagnants à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Justification du nombre d’accompagnants</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Autres mesures à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="15">8. Données médicales concernant la personne principale et les membres de sa famille</td></tr>
+<tr><td>Liste, nombre et spécialisation des médecins contactés</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Date, statut et résultat de la transmission des données</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Unité et sigle du destinataire des documents médicaux</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Questions relatives à l’état de santé posées et examens médicaux nécessaires effectués</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Indications concernant des problèmes de santé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Rapports médicaux disponibles lors de la demande (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Indications concernant des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Détail des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td colspan="15">9. Examen des données médicales concernant la personne principale et les membres de sa famille</td></tr>
-<tr><td>Évaluation de l’aptitude au transport nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Numéro du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Priorité du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Type d’engagement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Domaine juridique</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Identité de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Membre d’un groupe familial voyageant ensemble (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td>B</td></tr>
-<tr><td>Emplacement de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Date de la demande d’annonce de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Autorité ayant présenté la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Interlocuteurs au SEM et au canton qui présente la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Coordonnées (téléphone, y compris permanence téléphonique, courriel)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Liste, nombre et provenance des documents remis pour évaluation</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Destinataire du mandat d’évaluation (adresse, données de contact)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Date et heure de transmission du mandat d’évaluation</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Identifiant de la personne ayant transmis le mandat</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Documents complémentaires nécessaires à l’évaluation</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Évaluation de l’aptitude au transport nécessaire</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Numéro du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Priorité du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type d’engagement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identité de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Membre d’un groupe familial voyageant ensemble (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Emplacement de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de la demande d’annonce de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Autorité ayant présenté la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Interlocuteurs au SEM et au canton qui présente la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Coordonnées (téléphone, y compris permanence téléphonique, courriel)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Liste, nombre et provenance des documents remis pour évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
+<tr><td>Destinataire du mandat d’évaluation (adresse, données de contact)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date et heure de transmission du mandat d’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Identifiant de la personne ayant transmis le mandat</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Documents complémentaires nécessaires à l’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
 <tr><td>Date et heure de réception de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Résultat et durée de validité de l’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Cas médical (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
@@ -1429,12 +1435,12 @@ Unités organisationnelles:
 <tr><td>Danger pour les autres (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Indications, mesures, mesures de précaution pour l’organisation au sol, prise en charge au moment du départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
 <tr><td>Facteur de coût</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
-<tr><td>Identifiant de la personne ayant transmis le résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Grossesse (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
-<tr><td>Date prévue d’atteinte de la 32<sup>e</sup> semaine de grossesse</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Identifiant de la personne ayant transmis le résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Grossesse (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
+<tr><td>Date prévue d’atteinte de la 32<sup>e</sup> semaine de grossesse</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td></td></tr>
 <tr><td>Controlling – cas sélectionné (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Controlling de l’accompagnement médical (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Décomptes des frais d’évaluation de l’aptitude au transport</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Décomptes des frais d’évaluation de l’aptitude au transport</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td></tr>
 <tr><td colspan="15">10. Données complémentaires sur les documents d’identité</td></tr>
 <tr><td>Type de document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Autorité établissant le document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1445,7 +1451,7 @@ Unités organisationnelles:
 <tr><td>Date de remise du document à la personne</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Signature électronique du reçu de réception du document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Copie du reçu de réception du document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
-<tr><td colspan="15">11. Données relatives aux versements à l’aéroport</td></tr>
+<tr><td colspan="15">11. Données relatives aux versements</td></tr>
 <tr><td>Indemnité de voyage Confédération (selon art. 59*a* de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement, OA 2[^annex1-lvlu1-lvlu2-1])</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Montant de l’indemnité de voyage Confédération en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -1466,7 +1472,8 @@ Unités organisationnelles:
 <tr><td>Montant de l’aide au retour Canton en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Montant total à verser par swissREPAT en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Instance responsable du versement</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant total à verser en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Monnaie des versements à effectuer (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td></tr>
 <tr><td colspan="15">12. Données relatives aux versements effectués (à l’aéroport ou ailleurs)</td></tr>
 <tr><td>Dates des versements effectués</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
@@ -1481,6 +1488,7 @@ Unités organisationnelles:
 <tr><td>Durée des accompagnements</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Nom, prénom des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Date de naissance, sexe et nationalité des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Souhaits particuliers des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Numéro de téléphone de piquet des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Courriel des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Type de document de voyage des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
@@ -1610,6 +1618,22 @@ Unités organisationnelles:
 <tr><td>Date de fin du remboursement</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="15">9. Données de référence</td></tr>
 <tr><td>Données de référence</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">VI. Frais de départ et d’exécution du renvoi de la personne principale et des membres de sa famille</td></tr>
+<tr><td colspan="15">1. Données de base spécifiques à la demande de remboursement</td></tr>
+<tr><td>Canton - instance présentant la demande</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Interlocuteur au canton présentant la demande</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Interlocuteur au SEM en charge de la demande</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Date de la demande de remboursement</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Données des ordres de paiement de l’instance demandant le remboursement</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Catégories de frais de départ et d’exécution du renvoi</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Montants des forfaits</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Détails des frais et montants</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Totaux des différentes catégories de frais</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Montants des différentes catégories de frais déjà remboursés</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Décompte des frais relatifs aux accompagnements effectués, y compris les noms et prénoms des accompagnants</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Décompte du nombre de jours de détention administrative effectués</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Remarques en lien avec la demande de remboursement</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Pièces justificatives annexées à la demande</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
 </table>
 
 [^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
