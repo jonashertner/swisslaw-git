@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über den Informationsaustausch zwischen 
 short: SIaG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/815"
 language: de
-version: 2019-03-01
+version: 2025-06-15
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/815/20190301/de/xml/fedlex-data-admin-ch-eli-cc-2009-815-20190301-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/815/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/815/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2009-815-20250615-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/815/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/815/20190301/de"
 
 (Schengen-Informationsaustausch-Gesetz, SIaG)
 
-vom 12. Juni 2009 (Stand am 1. März 2019)
+vom 12. Juni 2009 (Stand am 15. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -211,7 +211,7 @@ Datum des Inkrafttretens: 1. Januar 2010[^14-1]
 
 [^14-1]: Präsidialentscheid vom 25. Nov. 2009 ([AS 2009 6915](https://fedlex.data.admin.ch/eli/oc/2009/843))
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 7 Abs. 1 und 11 Abs. 1)
 
@@ -219,66 +219,75 @@ Anhang 1
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Fassung gemäss Anhang Ziff. 4 des BB vom 1. Okt. 2021 über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und der EU zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke, in Kraft seit 15. Juni 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 [^annex1-lvlu1-1]: Rahmenbeschluss des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten, ABl. L 190 vom 18.7.2002, S. 1.
 
 <table>
-<tr><th></th><th>RB 2RB 2002/584/JI</th><th></th><th>Straftaten nach schweizerischem Recht</th></tr>
-<tr><td>1.</td><td>Vorsätzliche Tötung, schwere Körperverletzung</td><td></td><td>Tötung (vorsätzliche Tötung, Mord, Totschlag, Tötung auf Verlangen, Kindestötung), schwere Körperverletzung (Art. 111–114, 116 und 122 StGB[^annex1-lvlu1-2])</td></tr>
-<tr><td>2.</td><td>Diebstahl in organisierter Form oder mit Waffen</td><td></td><td>Diebstahl und Raub (Art. 139 Ziff. 3 und 140 StGB)</td></tr>
-<tr><td>3.</td><td>Cyberkriminalität</td><td></td><td>Unbefugte Datenbeschaffung, unbefugtes Eindringen in ein Datenverarbeitungssystem, Datenbeschädigung, betrügerischer Missbrauch einer Datenverarbeitungsanlage, Erschleichen einer Leistung (Art. 143, 143<sup>bis</sup>, 144<sup>bis</sup>, 147 Abs. 1 und 2 sowie 150 StGB)</td></tr>
-<tr><td>4.</td><td>Sabotage</td><td></td><td>Sachbeschädigung, Brandstiftung, Verursachung einer Explosion, Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht, Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen, Verursachen einer Überschwemmung oder eines Einsturzes, Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 144, 221, 223, 224, 226, 227 und 228 StGB)</td></tr>
-<tr><td>5.</td><td>Betrug</td><td></td><td>Betrug (Art. 146 Abs. 1 und 2 StGB)</td></tr>
-<tr><td>6.</td><td>Betrugsdelikte, einschliesslich Betrug zum Nachteil der finanziellen Interessen der Europäischen Gemeinschaften im Sinne des Übereinkommens vom 26. Juli 1995[^annex1-lvlu1-3] aufgrund von Artikel K3 des Vertrags über die Europäische Union über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften</td><td></td><td>Betrügerischer Missbrauch einer Datenverarbeitungsanlage, Check- und Kreditkartenmissbrauch, Zechprellerei, Erschleichen einer Leistung, arglistige Vermögensschädigung, unwahre Angaben über kaufmännische Gewerbe, unwahre Angaben gegenüber Handelsregisterbehörden, Warenfälschung, betrügerischer Konkurs und Pfändungsbetrug, Erschleichung eines gerichtlichen Nachlassvertrages (Art. 147–150, 151–155, 163 und 170 StGB) Leistungs- und Abgabebetrug gemäss Bundesgesetz über das Verwaltungsstrafrecht (Art. 14 Abs. 1 VStR[^annex1-lvlu1-4])</td></tr>
-<tr><td>7.</td><td>Nachahmung und Produktpiraterie</td><td></td><td>Warenfälschung (Art. 155 StGB) Markenrechtsverletzung, betrügerischer Markengebrauch, Gebrauch unzutreffender Herkunftsangaben (Art. 61 Abs. 3, 62 Abs. 1 und 2 sowie 64 Abs. 2 MSchG[^annex1-lvlu1-5]) Designrechtsverletzung (Art. 41 Abs. 2 DesG[^annex1-lvlu1-6]) Urheberrechtsverletzung, Verletzung von verwandten Schutzrechten (Art. 67 Abs. 2 und 69 Abs. 2 URG[^annex1-lvlu1-7])</td></tr>
-<tr><td>8.</td><td>Erpressung und Schutzgelderpressung</td><td></td><td>Erpressung (Art. 156 StGB)</td></tr>
-<tr><td>9.</td><td>Flugzeug- und Schiffsentführung</td><td></td><td>Erpressung, Nötigung, Freiheitsberaubung und Entführung, Geiselnahme (Art. 156, 181 und 183–185 StGB)</td></tr>
-<tr><td>10.</td><td>Handel mit gestohlenen Kraftfahrzeugen</td><td></td><td>Hehlerei (Art. 160 StGB)</td></tr>
-<tr><td>11.</td><td>Menschenhandel</td><td></td><td>Menschenhandel (Art. 182 StGB)</td></tr>
-<tr><td>12.</td><td>Entführung, Freiheitsberaubung und Geiselnahme</td><td></td><td>Freiheitsberaubung und Entführung, erschwerende Umstände, Geiselnahme (Art. 183–185 StGB) Verbotene Handlungen für einen fremden Staat (Art. 271 Ziff. 2 StGB)</td></tr>
-<tr><td>13.</td><td>Sexuelle Ausbeutung von Kindern und Kinderpornografie</td><td></td><td>Gefährdung der Entwicklung von Unmündigen: sexuelle Handlungen mit Kindern, Pornografie (Art. 187 und 197 Ziff. 3 StGB)</td></tr>
-<tr><td>14.</td><td>Vergewaltigung</td><td></td><td>Vergewaltigung (Art. 190 StGB)</td></tr>
-<tr><td>15.</td><td>Brandstiftung</td><td></td><td>Brandstiftung (Art. 221 StGB)</td></tr>
-<tr><td>16.</td><td>Illegaler Handel mit nuklearen und radioaktiven Substanzen</td><td></td><td>Gefährdung durch Kernenergie, Radioaktivität und ionisierende Strahlen, strafbare Vorbereitungshandlungen (Art. 226<sup>bis</sup> und 226<sup>ter</sup> StGB) Missachtung von Sicherheits- und Sicherungsmassnahmen des Kernenergiegesetzes (Art. 88 KEG[^annex1-lvlu1-8])</td></tr>
-<tr><td>17.</td><td>Geldfälschung, einschliesslich der Euro-Fälschung</td><td></td><td>Geldfälschung, Geldverfälschung (Art. 240 und 241 StGB)</td></tr>
-<tr><td>18.</td><td>Fälschung von Zahlungsmitteln</td><td></td><td>Geldfälschung, Geldverfälschung, in Umlaufsetzen falschen Geldes, Nachmachen von Banknoten, Münzen oder amtlichen Wertzeichen ohne Fälschungsabsicht, Einführen, Erwerben, Lagern falschen Geldes (Art. 240–244 StGB)</td></tr>
-<tr><td>19.</td><td>Fälschung von amtlichen Dokumenten und Handel damit</td><td></td><td>Urkundenfälschung, Fälschung von Ausweisen, Erschleichung einer falschen Beurkundung, Urkundenfälschung im Amt (Art. 251–253 und Art. 317 Ziff. 1 StGB)</td></tr>
-<tr><td>20.</td><td>Beteiligung an einer kriminellen Vereinigung</td><td></td><td>Kriminelle Organisation, rechtswidrige Vereinigung (Art. 260<sup>ter</sup> und 275<sup>ter</sup> StGB)</td></tr>
-<tr><td>21.</td><td>Illegaler Handel mit Waffen, Munition und Sprengstoffen</td><td></td><td>Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup> StGB) Vergehen gemäss Waffengesetz (Art. 33 Abs. 1 und 3 WG[^annex1-lvlu1-9])</td></tr>
-<tr><td>22.</td><td>Terrorismus</td><td></td><td>Finanzierung des Terrorismus (Art. 260<sup>quinquies</sup> StGB)</td></tr>
-<tr><td>23.</td><td>Rassismus und Fremdenfeindlichkeit</td><td></td><td>Rassendiskriminierung (Art. 261<sup>bis</sup> StGB)</td></tr>
-<tr><td>24.</td><td>Verbrechen, die in die Zuständigkeit des Internationalen Strafgerichtshofs fallen</td><td></td><td>Völkermord (Art. 264 StGB)</td></tr>
-<tr><td>25.</td><td>Wäsche von Erträgen aus Straftaten</td><td></td><td>Geldwäscherei (Art. 305<sup>bis</sup> StGB)</td></tr>
-<tr><td>26.</td><td>Korruption</td><td></td><td>Bestechung schweizerischer Amtsträger (Bestechen, sich bestechen lassen, Vorteilsgewährung, Vorteilsannahme), Bestechung fremder Amtsträger (Art. 322<sup>ter</sup>–322<sup>septies</sup> StGB) Bestechen und sich bestechen lassen und unlauterer Wettbewerb gemäss Bundesgesetz gegen den unlauteren Wettbewerb (Art. 4*a* in Verbindung mit Art. 23 UWG[^annex1-lvlu1-10])</td></tr>
-<tr><td>27.</td><td>Beihilfe zur illegalen Einreise und zum illegalen Aufenthalt</td><td></td><td>Förderung der rechtswidrigen Ein- und Ausreise sowie des rechtswidrigen Aufenthalts (Art. 116 Abs. 1 Bst. a in Verbindung mit Abs. 3 AIG[^annex1-lvlu1-11])</td></tr>
-<tr><td>28.</td><td>Illegaler Handel mit Hormonen und anderen Wachstumsförderern</td><td></td><td>Strafbestimmung des Bundesgesetzes über die Förderung von Turnen und Sport[^annex1-lvlu1-12] (Art. 11*f*) Vergehen gemäss Lebensmittelgesetz (Art. 47 Abs. 1 und 2 LMG[^annex1-lvlu1-13]) Vergehen gemäss Heilmittelgesetz (Art. 86 Abs. 1 und 2 HMG[^annex1-lvlu1-14])</td></tr>
-<tr><td>29.</td><td>Illegaler Handel mit Kulturgütern, einschliesslich Antiquitäten und Kunstgegenstände</td><td></td><td>Strafbestimmungen gemäss Kulturgütertransfergesetz (Art. 24–29 KGTG[^annex1-lvlu1-15])</td></tr>
-<tr><td>30.</td><td>Illegaler Handel mit Organen und menschlichem Gewebe</td><td></td><td>Vergehen gemäss Stammzellenforschungsgesetz (Art. 24 Abs. 1–3 StFG[^annex1-lvlu1-16]) Missbrauch von Keimgut und Handeln ohne Einwilligung oder Bewilligung gemäss Fortpflanzungsmedizingesetz (Art. 32 und 34, FMedG[^annex1-lvlu1-17]) Vergehen gemäss Transplantationsgesetz[^annex1-lvlu1-18] (Art. 69 Abs. 1 und 2)</td></tr>
-<tr><td>31.</td><td>Illegaler Handel mit Drogen und psychotropen Stoffen</td><td></td><td>Strafbestimmungen des Betäubungsmittelgesetzes (Art. 19 Ziff. 1 und 2 BetmG[^annex1-lvlu1-19])</td></tr>
-<tr><td>32.</td><td>Umweltkriminalität, einschliesslich des illegalen Handels mit bedrohten Tierarten oder mit bedrohten Pflanzen- und Baumarten</td><td></td><td>Vergehen gemäss Umweltschutzgesetz (Art. 60 Abs. 1 USG[^annex1-lvlu1-20]) Vergehen gemäss Gewässerschutzgesetz (Art. 70 Abs. 1 GSchG[^annex1-lvlu1-21]) Strafbestimmungen des Strahlenschutzgesetzes (Art. 43 und 43*a* Abs. 1 StSG[^annex1-lvlu1-22]) Strafbestimmungen des Gentechnikgesetzes (Art. 35 Abs. 1 und 2 GTG[^annex1-lvlu1-23])</td></tr>
+<tr><th>Rahmenbeschluss 2002/584/JAI</th><th>Straftaten nach schweizerischem Recht</th></tr>
+<tr><td>1. Vorsätzliche Tötung, schwere Körperverletzung</td><td>Tötung (vorsätzliche Tötung, Mord, Totschlag, Tötung auf Verlangen, Kindestötung), schwere Körperverletzung, Verstümmelung weiblicher Genitalien (Art. 111−114, 116, 122 und 124 StGB[^annex1-lvlu1-2])</td></tr>
+<tr><td>2. Diebstahl in organisierter Form oder mit Waffen</td><td>Diebstahl und Raub (Art. 139 Ziff. 3 und 140 StGB)</td></tr>
+<tr><td>3. Cyberkriminalität</td><td>Unbefugte Datenbeschaffung, unbefugtes Eindringen in ein Datenverarbeitungssystem, Datenbeschädigung, betrügerischer Missbrauch einer Datenverarbeitungsanlage, Erschleichen einer Leistung (Art. 143, 143<sup>bis</sup>, 144<sup>bis</sup>, 147 Abs. 1 und 2 sowie 150 StGB)</td></tr>
+<tr><td>4. Sabotage</td><td>Sachbeschädigung, Brandstiftung, Verursachung einer Explosion, Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht, Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen, Verursachen einer Überschwemmung oder eines Einsturzes, Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 144, 221, 223, 224, 226, 227 und 228 StGB)</td></tr>
+<tr><td>5. Betrug</td><td>Betrug (Art. 146 Abs. 1 und 2 StGB)</td></tr>
+<tr><td>6. Betrugsdelikte, einschliesslich Betrug zum Nachteil der finanziellen Interessen der Europäischen Gemeinschaften im Sinne des Übereinkommens vom 26. Juli 1995[^annex1-lvlu1-3] aufgrund von Artikel K3 des Vertrags über die Europäische Union über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften</td><td>Betrügerischer Missbrauch einer Datenverarbeitungsanlage, Check- und Kreditkartenmissbrauch, Zechprellerei, Erschleichen einer Leistung, arglistige Vermögensschädigung, unwahre Angaben über kaufmännische Gewerbe, unwahre Angaben gegenüber Handelsregisterbehörden, Warenfälschung, betrügerischer Konkurs und Pfändungsbetrug, Erschleichung eines gerichtlichen Nachlassvertrages (Art. 147–150, 151–155, 163 und 170 StGB) Leistungs- und Abgabebetrug, Urkundenfälschung, Erschleichen einer falschen Beurkundung, Unterdrückung von Urkunden (Art. 14 Abs. 1 und 4, 15, 16 Abs. 1 und 3 VStR[^annex1-lvlu1-4]) Steuerbetrug, Veruntreuung von Quellensteuern (Art. 186 Abs. 1, 187 Abs. 1 DBG[^annex1-lvlu1-5]) Steuerbetrug (Art. 59 Abs. 1 StHG[^annex1-lvlu1-6]) Verbrechen und Vergehen gemäss Kollektivanlagengesetz (Art. 148 Abs. 1 KAG[^annex1-lvlu1-7]) Fälschung, Falschbeurkundungen, Erschleichen falscher Beurkundungen, Gebrauch von unechten oder unwahren Bescheinigungen, Ausländische Urkunden, Unberechtigtes Ausstellen von Konformitätserklärungen, unberechtigtes Anbringen und Verwenden von Konformitätszeichen (Art. 23−28 THG[^annex1-lvlu1-8])</td></tr>
+<tr><td>7. Nachahmung und Produktpiraterie</td><td>Warenfälschung (Art. 155 StGB) Markenrechtsverletzung, betrügerischer Markengebrauch, Reglementswidriger Gebrauch einer Garantie- oder Kollektivmarke, Gebrauch unzutreffender Herkunftsangaben (Art. 61 Abs. 3, 62 Abs. 2, 63 Abs. 4 und 64 Abs. 2 MSchG[^annex1-lvlu1-9]) Designrechtsverletzung (Art. 41 Abs. 2 DesG[^annex1-lvlu1-10]) Urheberrechtsverletzung, Verletzung von verwandten Schutzrechten (Art. 67 Abs. 2 und 69 Abs. 2 URG[^annex1-lvlu1-11]) Patentverletzung (Art. 81 Abs. 3 PatG[^annex1-lvlu1-12])</td></tr>
+<tr><td>8. Erpressung und Schutzgelderpressung</td><td>Erpressung (Art. 156 StGB)</td></tr>
+<tr><td>9. Flugzeug- und Schiffsentführung</td><td>Erpressung, Nötigung, Freiheitsberaubung und Entführung, Geiselnahme (Art. 156, 181 und 183–185 StGB)</td></tr>
+<tr><td>10. Handel mit gestohlenen Kraftfahrzeugen</td><td>Hehlerei (Art. 160 StGB)</td></tr>
+<tr><td>11. Menschenhandel</td><td>Zwangsheirat, erzwungene eingetragene Partnerschaft, Menschenhandel (Art. 181*a* sowie 182 Abs. 1, 2 und 4 StGB)</td></tr>
+<tr><td>12. Entführung, Freiheitsberaubung und Geiselnahme</td><td>Freiheitsberaubung und Entführung, erschwerende Umstände, Geiselnahme (Art. 183–185 StGB) Verbotene Handlungen für einen fremden Staat (Art. 271 Ziff. 2 StGB)</td></tr>
+<tr><td>13. Sexuelle Ausbeutung von Kindern und Kinderpornografie</td><td>Sexuelle Handlungen mit Kindern, Förderung der Prostitution, sexuelle Handlungen mit Minderjährigen gegen Entgelt, Pornografie (Art. 187, 195 Bst. a, 196 sowie 197 Abs. 1, 3, 4 und 5 StGB)</td></tr>
+<tr><td>14. Vergewaltigung</td><td>Vergewaltigung (Art. 190 StGB)</td></tr>
+<tr><td>15. Brandstiftung</td><td>Brandstiftung (Art. 221 StGB)</td></tr>
+<tr><td>16. Illegaler Handel mit nuklearen und radioaktiven Substanzen</td><td>Gefährdung durch Kernenergie, Radioaktivität und ionisierende Strahlen, strafbare Vorbereitungshandlungen (Art. 226<sup>bis</sup> und 226<sup>ter</sup> StGB) Missachtung von Sicherheits- und Sicherungsmassnahmen gemäss Kernenergiegesetz (Art. 88–91 KEG[^annex1-lvlu1-13])</td></tr>
+<tr><td>17. Geldfälschung, einschliesslich der Euro-Fälschung</td><td>Geldfälschung, Geldverfälschung (Art. 240 und 241 StGB)</td></tr>
+<tr><td>18. Fälschung von Zahlungsmitteln</td><td>Geldfälschung, Geldverfälschung, in Umlaufsetzen falschen Geldes, Nachmachen von Banknoten, Münzen oder amtlichen Wertzeichen ohne Fälschungsabsicht, Einführen, Erwerben, Lagern falschen Geldes (Art. 240–244 StGB)</td></tr>
+<tr><td>19. Fälschung von amtlichen Dokumenten und Handel damit</td><td>Fälschung amtlicher Wertzeichen, Fälschung amtlicher Zeichen, Fälschung von Mass und Gewicht, Urkundenfälschung, Fälschung von Ausweisen, Erschleichung einer falschen Beurkundung, Urkunden des Auslandes, Urkundenfälschung im Amt (Art. 245, 246, 248, 251–253, 255 und 317 Ziff. 1 StGB)</td></tr>
+<tr><td>20. Beteiligung an einer kriminellen Vereinigung</td><td>Kriminelle Organisation, rechtswidrige Vereinigung (Art. 260<sup>ter</sup> und 275<sup>ter</sup> StGB[^annex1-lvlu1-14])</td></tr>
+<tr><td>21. Illegaler Handel mit Waffen, Munition und Sprengstoffen</td><td>Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup> StGB) Vergehen gemäss Waffengesetz (Art. 33 Abs. 1 und 3 WG[^annex1-lvlu1-15])</td></tr>
+<tr><td>22. Terrorismus</td><td>Schreckung der Bevölkerung, Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit, Landfriedensbruch, Strafbare Vorbereitungshandlungen, Kriminelle und terroristische Organisationen, Gefährdung der öffentlichen Sicherheit mit Waffen, Finanzierung des Terrorismus, Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat, Rechtswidrige Vereinigung (Art. 258–260<sup>sexies</sup> und 275<sup>ter</sup> StGB[^annex1-lvlu1-16]) Organisationsverbot (Art. 74 NDG[^annex1-lvlu1-17]) Strafbestimmungen gemäss Bundesgesetz über das Verbot der Gruppierungen «Al‑Qaïda» und «Islamischer Staat» sowie verwandter Organisationen[^annex1-lvlu1-18] (Art. 2)</td></tr>
+<tr><td>23. Rassismus und Fremdenfeindlichkeit</td><td>Diskriminierung und Aufruf zu Hass (Art. 261<sup>bis</sup> StGB)</td></tr>
+<tr><td>24. Verbrechen, die in die Zuständigkeit des Internationalen Strafgerichtshofs fallen</td><td>Völkermord, Verbrechen gegen die Menschlichkeit, Schwere Verletzungen der Genfer Konventionen, Andere Kriegsverbrechen, Angriffe gegen zivile Personen und Objekte, Ungerechtfertigte medizinische Behandlung, Verletzung der sexuellen Selbstbestimmung und der Menschenwürde, Rekrutierung und Verwendung von Kindersoldaten, Verbotene Methoden der Kriegführung, Einsatz verbotener Waffen, Bruch eines Waffenstillstandes oder des Friedens, Vergehen gegen einen Parlamentär, Verzögerte Heimschaffung von Kriegsgefangenen, Andere Verstösse gegen das humanitäre Völkerrecht (Art. 264, 264*a* und 264*c*–264*j* StGB)</td></tr>
+<tr><td>25. Wäsche von Erträgen aus Straftaten</td><td>Geldwäscherei (Art. 305<sup>bis</sup> StGB)</td></tr>
+<tr><td>26. Korruption</td><td>Bestechung schweizerischer Amtsträger (Bestechen, sich bestechen lassen, Vorteilsgewährung, Vorteilsannahme), Bestechung fremder Amtsträger (Art. 322<sup>ter</sup>–322<sup>septies</sup> StGB)</td></tr>
+<tr><td>27. Beihilfe zur illegalen Einreise und zum illegalen Aufenthalt</td><td>Förderung der rechtswidrigen Ein- und Ausreise sowie des rechtswidrigen Aufenthalts (Art. 116 Abs. 1 Bst. a, a<sup>bis</sup> und c in Verbindung mit Abs. 3 AIG[^annex1-lvlu1-19])</td></tr>
+<tr><td>28. Illegaler Handel mit Hormonen und anderen Wachstumsförderern</td><td>Strafbestimmungen gemäss Sportförderungsgesetz (Art. 22 SpoFöG[^annex1-lvlu1-20]) Vergehen und Verbrechen gemäss Lebensmittelgesetz (Art. 63 LMG[^annex1-lvlu1-21]) Vergehen und Verbrechen gemäss Heilmittelgesetz (Art. 86 Abs. 1, 2 und 3 HMG[^annex1-lvlu1-22])</td></tr>
+<tr><td>29. Illegaler Handel mit Kulturgütern, einschliesslich Antiquitäten und Kunstgegenstände</td><td>Strafbestimmungen gemäss Kulturgütertransfergesetz (Art. 24–29 KGTG[^annex1-lvlu1-23])</td></tr>
+<tr><td>30. Illegaler Handel mit Organen und menschlichem Gewebe</td><td>Vergehen gemäss Stammzellenforschungsgesetz (Art. 24 Abs. 1–3 StFG[^annex1-lvlu1-24]) Missbrauch von Keimgut und Handeln ohne Einwilligung oder Bewilligung gemäss Fortpflanzungsmedizingesetz (Art. 32 und 34 FMedG[^annex1-lvlu1-25]) Vergehen gemäss Transplantationsgesetz[^annex1-lvlu1-26] (Art. 69 Abs. 1 und 2)</td></tr>
+<tr><td>31. Illegaler Handel mit Drogen und psychotropen Stoffen</td><td>Strafbestimmungen gemäss Betäubungsmittelgesetz (Art. 19 Abs. 1 und 2, 19<sup>bis</sup>, 20 und 21 BetmG[^annex1-lvlu1-27])</td></tr>
+<tr><td>32. Umweltkriminalität, einschliesslich des illegalen Handels mit bedrohten Tierarten oder mit bedrohten Pflanzen- und Baumarten</td><td>Vergehen gemäss Umweltschutzgesetz (Art. 60 Abs. 1 USG[^annex1-lvlu1-28]) Vergehen gemäss Gewässerschutzgesetz (Art. 70 Abs. 1 GSchG[^annex1-lvlu1-29]) Strafbestimmungen gemäss Strahlenschutzgesetz (Art. 43 und 43*a* Abs. 1 StSG[^annex1-lvlu1-30]) Strafbestimmungen gemäss Gentechnikgesetz (Art. 35 Abs. 1 GTG[^annex1-lvlu1-31])</td></tr>
 </table>
 
 [^annex1-lvlu1-2]: Strafgesetzbuch, [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^annex1-lvlu1-3]: ABl. C 316 vom 27.11.1995, S. 49.
+[^annex1-lvlu1-3]: ABl. C 316 vom 27.11.1995, S. 49
 [^annex1-lvlu1-4]: BG vom 22. März 1974 über das Verwaltungsstrafrecht, [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^annex1-lvlu1-5]: Markenschutzgesetz vom 28. Aug. 1992, [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annex1-lvlu1-6]: Designgesetz vom 5. Okt. 2001, [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^annex1-lvlu1-7]: Urheberrechtsgesetz vom 9. Okt. 1992, [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^annex1-lvlu1-8]: Kernenergiegesetz vom 21. März 2003, [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^annex1-lvlu1-9]: Waffengesetz vom 20. Juni 1997, [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex1-lvlu1-10]: BG vom 19. Dez. 1986 gegen den unlauteren Wettbewerb, [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex1-lvlu1-11]: BG vom 16. Dez. 2005 über die Ausländerinnen und Ausländer und über die Integration, [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^annex1-lvlu1-12]: BG vom 17. März 1972 über die Förderung von Turnen und Sport, [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^annex1-lvlu1-13]: Lebensmittelgesetz vom 9. Okt. 1992, [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^annex1-lvlu1-14]: Heilmittelgesetz vom 15. Dez. 2000, [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex1-lvlu1-15]: Kulturgütertransfergesetz vom 20. Juni 2003, [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^annex1-lvlu1-16]: Stammzellenforschungsgesetz vom 19. Dez. 2003, [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^annex1-lvlu1-17]: Fortpflanzungsmedizingesetz vom 18. Dez. 1998, [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^annex1-lvlu1-18]: Transplantationsgesetz vom 8. Okt. 2004, [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex1-lvlu1-19]: Betäubungsmittelgesetz vom 3. Okt. 1951, [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex1-lvlu1-20]: Umweltschutzgesetz vom 7. Okt. 1983, [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-21]: Gewässerschutzgesetz vom 24. Jan. 1991, [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex1-lvlu1-22]: Strahlenschutzgesetz vom 22. März 1991, [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex1-lvlu1-23]: Gentechnikgesetz vom 21. März 2003, [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^annex1-lvlu1-5]: BG vom 14. Dezember 1990 über die direkte Bundessteuer, [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annex1-lvlu1-6]: Steuerharmonisierungsgesetz vom 14. Dezember 1990, [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^annex1-lvlu1-7]: Kollektivanlagengesetz vom 23. Juni 2006, [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annex1-lvlu1-8]: BG vom 6. Oktober 1995 über die technischen Handelshemmnisse, [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex1-lvlu1-9]: Markenschutzgesetz vom 28. August 1992, [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^annex1-lvlu1-10]: Designgesetz vom 5. Oktober 2001, [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annex1-lvlu1-11]: Urheberrechtsgesetz vom 9. Oktober 1992, [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^annex1-lvlu1-12]: Patentgesetz vom 25. Juni 1954, [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^annex1-lvlu1-13]: Kernenergiegesetz vom 21. März 2003, [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^annex1-lvlu1-14]: Art. 275<sup>ter</sup> StGB wurde auf den 1. Juli 2023 aufgehoben ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)).
+[^annex1-lvlu1-15]: Waffengesetz vom 20. Juni 1997, [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex1-lvlu1-16]: Art. 275<sup>ter</sup> StGB wurde auf den 1. Juli 2023 aufgehoben ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259)).
+[^annex1-lvlu1-17]: Nachrichtendienstgesetz vom 25. September 2015, [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^annex1-lvlu1-18]: Das BG vom 12. Dezember 2014 über das Verbot der Gruppierungen «Al-Qaïda» und «Islamischer Staat» wurde auf den 1. Dezember 2022 aufgehoben ([AS 2014 4565](https://fedlex.data.admin.ch/eli/oc/2014/764); [2018 3345](https://fedlex.data.admin.ch/eli/oc/2018/542). [AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360)Anhang Ziffer I; **2022** 602).
+[^annex1-lvlu1-19]: Ausländer- und Integrationsgesetz vom 16. Dezember 2005, [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^annex1-lvlu1-20]: Sportförderungsgesetz vom 17. Juni 2011, [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^annex1-lvlu1-21]: Lebensmittelgesetz vom 20. Juni 2014, [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1-lvlu1-22]: Heilmittelgesetz vom 15. Dezember 2000, [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex1-lvlu1-23]: Kulturgütertransfergesetz vom 20. Juni 2003, [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex1-lvlu1-24]: Stammzellenforschungsgesetz vom 19. Dezember 2003, [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^annex1-lvlu1-25]: Fortpflanzungsmedizingesetz vom 18. Dezember 1998, [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^annex1-lvlu1-26]: Transplantationsgesetz vom 8. Oktober 2004, [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex1-lvlu1-27]: Betäubungsmittelgesetz vom 3. Oktober 1951, [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex1-lvlu1-28]: Umweltschutzgesetz vom 7. Oktober 1983, [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-29]: Gewässerschutzgesetz vom 24. Januar 1991, [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1-lvlu1-30]: Strahlenschutzgesetz vom 22. März 1991, [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex1-lvlu1-31]: Gentechnikgesetz vom 21. März 2003, [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 
 Anhang 2
 
