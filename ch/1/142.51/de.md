@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2024-01-01
+version: 2025-06-15
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20250615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20240101/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 1. Januar 2024)
+vom 20. Juni 2003 (Stand am 15. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -36,13 +36,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz führt ein Informationssystem ein, das der Bearbeitung von Personendaten aus dem Ausländer- und dem Asylbereich dient.
 
-<sup>2</sup> Die Artikel 101, 102, 103, 104–107, 110 und 111*a*–111*i* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^1-1] (AIG)[^1-2], die Artikel 96–99, 102–102*a*<sup>bis</sup> und 102*b*–102*e* des Asylgesetzes vom 26. Juni 1998[^1-3] (AsylG) sowie Artikel 44 des Bürgerrechtsgesetzes vom 20. Juni 2014[^1-4] (BüG) bleiben vorbehalten.[^1-5]
+<sup>2</sup> Die Artikel 9*a*, 92*a*, 101, 102, 102*c*–102*e*, 109*k*–109*m* und 111*a*–111*d* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^1-1] (AIG), die Artikel 96–99, 102–102*a*<sup>bis</sup> und 102*b*–102*e* des Asylgesetzes vom 26. Juni 1998[^1-2] (AsylG) sowie Artikel 44 des Bürgerrechtsgesetzes vom 20. Juni 2014[^1-3] (BüG) bleiben vorbehalten.[^1-4]
 
 [^1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^1-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^1-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^1-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^1-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^1-4]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 2
 
@@ -67,34 +66,35 @@ Es unterstützt das SEM bei der Erfüllung der folgenden Aufgaben im Ausländerb
 - b.[^3-2] die Ausstellung von Ausländerausweisen, schweizerischen Reisedokumenten und Bewilligungen zur Wiedereinreise für registrierte Personen, einschliesslich solcher mit biometrischen Daten;
 - c.[^3-3] die Kontrolle der Einreise- und Aufenthaltsvoraussetzungen der Ausländerinnen und Ausländer im Rahmen der Vorschriften des AIG[^3-4], des Abkommens vom 21. Juni 1999[^3-5] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen), des Abkommens vom 21. Juni 2001[^3-6] zur Änderung des EFTA-Übereinkommens, der Schengen-Assoziierungsabkommen sowie der Dublin-Assoziierungsabkommen; die Schengen- und die Dublin-Assoziierungsabkommen sind im Anhang aufgeführt;
 - d. die Ausstellung und Kontrolle von Visa;
+- d<sup>bis</sup>.[^3-7] die Ausstellung und Kontrolle von Reisegenehmigungen nach der Verordnung (EU) 2018/1240[^3-8] (ETIAS-Reisegenehmigungen);
 - e. die Zuteilung von Kontingenten auf die Kantone;
 - f. die Organisation von Massnahmen zur Förderung der Integration der Ausländerinnen und Ausländer;
-- g. die Erfüllung der Aufgaben nach dem BüG[^3-7];
-- h.[^3-8] die Bearbeitung von Personendaten über Entfernungs- und Fernhaltemassnahmen;
-- i.[^3-9] die Umsetzung des Freizügigkeitsabkommens und des Abkommens vom 21. Juni 2001 zur Änderung des EFTA-Übereinkommens;
-- j.[^3-10] die Erleichterung der Verfahren mittels elektronischen Zugriffs auf die Dossiers im Ausländerbereich des SEM;
-- k.[^3-11] die Erfüllung der Aufgaben nach dem Entsendegesetz vom 8. Oktober 1999[^3-12].
+- g. die Erfüllung der Aufgaben nach dem BüG[^3-9];
+- h.[^3-10] die Bearbeitung von Personendaten über Entfernungs- und Fernhaltemassnahmen;
+- i.[^3-11] die Umsetzung des Freizügigkeitsabkommens und des Abkommens vom 21. Juni 2001 zur Änderung des EFTA-Übereinkommens;
+- j.[^3-12] die Erleichterung der Verfahren mittels elektronischen Zugriffs auf die Dossiers im Ausländerbereich des SEM;
+- k.[^3-13] die Erfüllung der Aufgaben nach dem Entsendegesetz vom 8. Oktober 1999[^3-14].
 
 <sup>3</sup>
 
-Es unterstützt das SEM bei der Erfüllung der folgenden Aufgaben im Asylbereich:[^3-13]
+Es unterstützt das SEM bei der Erfüllung der folgenden Aufgaben im Asylbereich:[^3-15]
 
 - a. die Verwaltung der Dossiers der registrierten Personen;
-- b.[^3-14] die Ausstellung von Ausländerausweisen, schweizerischen Reisedokumenten und Bewilligungen zur Wiedereinreise für registrierte Personen, einschliesslich solcher mit biometrischen Daten;
+- b.[^3-16] die Ausstellung von Ausländerausweisen, schweizerischen Reisedokumenten und Bewilligungen zur Wiedereinreise für registrierte Personen, einschliesslich solcher mit biometrischen Daten;
 - c. die Beschaffung von Reisepapieren und die Organisation der Ausreise im Rahmen von Aus- und Wegweisungsverfahren;
-- d. die Vergütung der Sozialhilfekosten der Kantone gemäss AsylG[^3-15];
+- d. die Vergütung der Sozialhilfekosten der Kantone gemäss AsylG[^3-17];
 - e. die Organisation von Massnahmen zur Förderung der Integration von Personen aus dem Asylbereich;
-- f.[^3-16] die Evaluation von sozialpolitischen Massnahmen, die das SEM unterstützt;
+- f.[^3-18] die Evaluation von sozialpolitischen Massnahmen, die das SEM unterstützt;
 - g. die Umsetzung der Rückerstattungspflicht und der Sicherheitsleistungen nach den Artikeln 85–87 des AsylG;
-- h.[^3-17] die Bestimmung des Staates, der nach den Dublin-Assoziierungsabkommen für die Durchführung des Asylverfahrens zuständig ist;
-- i.[^3-18] die Erleichterung des Asylverfahrens mittels elektronischen Zugriffs auf die Dossiers der Asylsuchenden;
-- j.[^3-19] die Bearbeitung von Personendaten über Entfernungs- und Fernhaltemassnahmen.
+- h.[^3-19] die Bestimmung des Staates, der nach den Dublin-Assoziierungsabkommen für die Durchführung des Asylverfahrens zuständig ist;
+- i.[^3-20] die Erleichterung des Asylverfahrens mittels elektronischen Zugriffs auf die Dossiers der Asylsuchenden;
+- j.[^3-21] die Bearbeitung von Personendaten über Entfernungs- und Fernhaltemassnahmen.
 
 <sup>4</sup> Es dient ferner der Erstellung von Statistiken, der Verfahrens- und Vollzugskontrolle und der Führung des Rechnungswesens.
 
 <sup>4bis</sup>
 
-Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber Ausländerinnen und Ausländern verfügten Entfernungs- und Fernhaltemassnahmen nach dem AsylG, dem AIG, dem Freizügigkeitsabkommen, dem Strafgesetzbuch (StGB)[^3-20] und dem Militärstrafgesetz vom 13. Juni 1927[^3-21] (MStG) werden folgende Daten im Informationssystem erfasst:
+Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber Ausländerinnen und Ausländern verfügten Entfernungs- und Fernhaltemassnahmen nach dem AsylG, dem AIG, dem Freizügigkeitsabkommen, dem Strafgesetzbuch (StGB)[^3-22] und dem Militärstrafgesetz vom 13. Juni 1927[^3-23] (MStG) werden folgende Daten im Informationssystem erfasst:
 
 - a. Verfügungen nach Artikel 68*a* Absätze 1 und 2 AIG, sowie die Wegweisungen gegenüber EU-EFTA Staatsangehörigen;
 - b. die Anordnung einer Landesverweisung nach den Artikeln 66*a* oder 66*a*<sup>bis</sup> StGB oder den Artikeln 49*a* oder 49*a*<sup>bis</sup> MStG (Landesverweisung);
@@ -105,11 +105,11 @@ Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber 
 - g. begangene Straftaten;
 - h. die freiwillige oder zwangsweise Ausreise;
 - i. der Staat, in den die ausländische Person zwangsweise rückgeführt wird;
-- j. die Gründe für die Entfernungs- und Fernhaltemassnahme.[^3-22]
+- j. die Gründe für die Entfernungs- und Fernhaltemassnahme.[^3-24]
 
-<sup>4ter</sup> Die Daten nach Absatz 4<sup>bis</sup> werden automatisch aus VOSTRA übertragen, sofern sie nicht in ZEMIS schon enthalten sind.[^3-23]
+<sup>4ter</sup> Die Daten nach Absatz 4<sup>bis</sup> werden automatisch aus VOSTRA übertragen, sofern sie nicht in ZEMIS schon enthalten sind.[^3-25]
 
-<sup>5</sup> Die AHV-Nummer[^3-24] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-25] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-26]
+<sup>5</sup> Die AHV-Nummer[^3-26] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-27] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-28]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
@@ -117,26 +117,28 @@ Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber 
 [^3-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^3-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^3-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^3-7]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^3-8]: Fassung gemäss Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-9]: Fassung gemäss Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^3-10]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^3-11]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^3-12]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^3-13]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^3-14]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^3-15]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^3-16]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^3-17]: Eingefügt durch Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^3-18]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^3-19]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-20]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-21]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^3-22]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 22. Nov. 2022, Bst. b, e und g, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-23]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-24]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^3-25]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-26]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-7]: Eingefügt durch Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das ETIAS, in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^3-8]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, Fassung gemäss ABl. L 236 vom 19.9.2018, S. 1.
+[^3-9]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^3-10]: Fassung gemäss Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-11]: Fassung gemäss Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^3-12]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^3-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^3-14]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^3-15]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^3-16]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
+[^3-17]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^3-18]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
+[^3-19]: Eingefügt durch Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^3-20]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^3-21]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-22]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-23]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^3-24]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 22. Nov. 2022, Bst. b, e und g, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-25]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-26]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^3-27]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-28]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 
@@ -459,11 +461,11 @@ Das SEM kann auf schriftliches und begründetes Gesuch hin im Einzelfall weitere
 
 **Bekanntgabe ins Ausland**[^15-1]
 
-Die Bekanntgabe von Personendaten ins Ausland richtet sich nach den Artikeln 16 und 17 DSG[^15-2], den Artikeln 105–107, 111*a*–111*d* und 111*i* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>bis</sup>, 102*b* und 102*c* AsylG[^15-4].
+Die Bekanntgabe von Personendaten ins Ausland richtet sich nach den Artikeln 16 und 17 DSG[^15-2], den Artikeln 102*c*–102*e,* 109*k,* 109*l* und 111*a*–111*d* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>bis</sup>, 102*b* und 102*c* AsylG[^15-4].
 
-[^15-1]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-1]: Fassung gemäss Anhang 2 Ziff. I 2 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^15-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758); siehe auch Art. 127 AIG
+[^15-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^15-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 ## 5. Abschnitt: Vollzugsbestimmungen
