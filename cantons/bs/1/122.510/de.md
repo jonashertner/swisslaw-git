@@ -4,13 +4,12 @@ number: "122.510"
 title: Verordnung zum Gesetz über die Integration der Migrationsbevölkerung
 short: "Integrationsverordnung, IntV"
 language: de
-version: 2015-11-08
-valid_until: 2025-06-14
-version_adopted: 2015-10-27
+version: 2025-06-15
+version_adopted: 2025-06-10
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/122.510"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5858/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Integrationsverordnung | Aufenthalt und Niederlassung
 
 (Integrationsverordnung, IntV)
 
-Vom 18. Dezember 2007 (Stand 8. November 2015)
+Vom 18. Dezember 2007 (Stand 15. Juni 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -45,7 +44,7 @@ beschliesst:
 
 **Organisation und Zuständigkeiten (§ 8 Integrationsgesetz i. V. m. § 34ff. OG)**
 
-<sup>1</sup> «Integration Basel» Fachstelle Diversität und Integration[^2-1] ist die kantonale Integrationsstelle und Teil der Kantons- und Stadtentwicklung im Präsidialdepartement. Zu den Aufgaben der Fachstelle gehören die Koordination im Bereich der Integrationspolitik, die Erarbeitung der dafür nötigen Planungs- und Entscheidungsgrundlagen sowie die Erbringung der damit verbundenen Öffentlichkeitsarbeit. Sie ist Ansprechstelle im Sinne von § 8 Abs. 3 Integrationsgesetz.
+<sup>1</sup> Das Präsidialdepartement führt eine Fachstelle für Integration und Antirassismus. Zu den Aufgaben der Fachstelle gehören die Koordination im Bereich der Integrationspolitik, die Erarbeitung der dafür nötigen Planungs- und Entscheidungsgrundlagen sowie die Erbringung der damit verbundenen Öffentlichkeitsarbeit. Sie ist Ansprechstelle im Sinne von § 8 Abs. 3 Integrationsgesetz[^2-1].
 
 <sup>2</sup> …
 
@@ -53,26 +52,23 @@ beschliesst:
 
 <sup>4</sup> Stellen Mitarbeitende der kantonalen und kommunalen Verwaltung Integrationsdefizite bei Migrantinnen und Migranten fest, so melden sie diese dem Migrationsamt im Justiz- und Sicherheitsdepartement.
 
-[^2-1]: Statt « ‹Integration Basel› Fachstelle Diversität und Integration» neu: Fachstelle Integration und Antirassismus (Entscheid des Präsidialdepartements vom März 2023).
+[^2-1]: SG [122.500](https://www.gesetzessammlung.bs.ch/data/122.500/de)
 
 #### § 3
 
 **Schulung der kantonalen Mitarbeitenden (§ 4 Abs. 5 Integrationsgesetz)**
 
-<sup>1</sup> HR Basel-Stadt[^3-1] sorgen in Zusammenarbeit mit «Integration Basel» Fachstelle Diversität und Integration[^3-2] für die Aus- und Weiterbildung der Mitarbeitenden der kantonalen und kommunalen Verwaltungen im Umgang mit Migrantinnen und Migranten unterschiedlichen sozialen und kulturellen Hintergrunds.
+<sup>1</sup> HR Basel-Stadt[^3-1] sorgen in Zusammenarbeit mit der Fachstelle für Integration und Antirassismus für die Aus- und Weiterbildung der Mitarbeitenden der kantonalen und kommunalen Verwaltungen im Umgang mit Migrantinnen und Migranten unterschiedlichen sozialen und kulturellen Hintergrunds.
 
 [^3-1]: Die Bezeichnung der Verwaltungseinheit wurde gemäss § 7 Abs. 3 des Publikationsgesetzes vom 19. Oktober 2016 angepasst; RRB vom 16. 10. 2018.
-[^3-2]: Statt « ‹Integration Basel› Fachstelle Diversität und Integration» neu: Fachstelle Integration und Antirassismus (Entscheid des Präsidialdepartements vom März 2023).
 
 #### § 4
 
 **Information der Arbeitgeberschaft (§ 4 Abs. 6 Integrationsgesetz)**
 
-<sup>1</sup> «Integration Basel» Fachstelle Diversität und Integration[^4-1] sorgt in Zusammenarbeit mit den zuständigen kantonalen Behörden für die Unterstützung der Arbeitgeberschaft bei ihrer Informationsarbeit.
+<sup>1</sup> Die Fachstelle für Integration und Antirassismus sorgt in Zusammenarbeit mit den zuständigen kantonalen Behörden für die Unterstützung der Arbeitgeberschaft bei ihrer Informationsarbeit.
 
 <sup>2</sup> Die Arbeitgeberschaft unterstützt den Besuch von Sprach- und Integrationskursen, sofern es die betrieblichen Verhältnisse, insbesondere die personellen und finanziellen Ressourcen des Betriebs, ermöglichen. Dies kann mit Zurverfügungstellung von Arbeitszeit und/oder finanziellen Beiträgen für den Besuch von Sprach- und Integrationskursen und/oder durch die Unterstützung von gemeinnützigen Institutionen im Kanton Basel-Stadt, die in der Integrationsförderung tätig sind, erfolgen.
-
-[^4-1]: Statt « ‹Integration Basel› Fachstelle Diversität und Integration» neu: Fachstelle Integration und Antirassismus (Entscheid des Präsidialdepartements vom März 2023).
 
 #### § 5
 
