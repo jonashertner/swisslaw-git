@@ -4,11 +4,11 @@ title: Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssystem
 short: BPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: de
-version: 2024-01-01
+version: 2025-06-15
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20250615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20250615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/de"
 
 (BPI)
 
-vom 13. Juni 2008 (Stand am 1. Januar 2024)
+vom 13. Juni 2008 (Stand am 15. Juni 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -38,15 +38,29 @@ Dieses Gesetz regelt die Nutzung der polizeilichen Informationssysteme des Bunde
 
 #### Art. 2
 
-**Geltungsbereich**
+**Geltungsbereich**[^2-1]
 
-Dieses Gesetz gilt für die Bearbeitung von Daten durch Behörden des Bundes und der Kantone in den folgenden polizeilichen Informationssystemen des Bundes (polizeiliche Informationssysteme):
+Dieses Gesetz gilt für die Bearbeitung von Daten durch Behörden des Bundes und der Kantone in:
 
-- a. polizeilicher Informationssystem-Verbund (Art. 9–14);
-- b. automatisiertes Polizeifahndungssystem (Art. 15);
-- c. nationaler Teil des Schengener Informationssystems (N-SIS; Art. 16);
-- d. Nationaler Polizeiindex (Art. 17);
-- e. Geschäfts- und Aktenverwaltungssystem des Bundesamtes für Polizei (fedpol; Art. 18).
+- a.
+
+  den folgenden polizeilichen Informationssystemen:
+
+  - 1\. Polizeilicher Informationssystem-Verbund (Art. 9–14),
+  - 2\. automatisiertes Polizeifahndungssystem (Art. 15),
+  - 3\. Nationaler Polizeiindex (Art. 17),
+  - 4\. Geschäfts- und Aktenverwaltungssystem des Bundesamtes für Polizei (fedpol) (Art. 18);
+
+- b.
+
+  den folgenden Schengen/Dublin-Informationssystemen und deren Komponenten:
+
+  - 1\. nationaler Teil des Schengener Informationssystems (N-SIS) (Art. 16),
+  - 2\. gemeinsamer Dienst für den Abgleich biometrischer Daten (sBMS) (Art. 16*a*),
+  - 3\. Europäisches Suchportal (ESP) (Art. 16*b*),
+  - 4\. Detektor für Mehrfachidentitäten (MID) (Art. 16*c*).
+
+[^2-1]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 3
 
@@ -379,11 +393,15 @@ Die Bearbeitung der Daten im Informationssystem ist nur den auf erkennungsdienst
 [^14-4]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^14-5]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
-## 3. Abschnitt: Andere polizeiliche Informationssysteme
+## 3. Abschnitt: Automatisiertes Polizeifahndungssystem
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 15
 
-**Automatisiertes Polizeifahndungssystem**[^15-1]
+**…[^15-2]**[^15-1]
 
 <sup>1</sup>
 
@@ -400,17 +418,18 @@ Fedpol betreibt in Zusammenarbeit mit den Kantonen ein automatisiertes Personen-
   - 3\. Anhaltung von erwachsenen urteilsfähigen Personen im Interesse ihres eigenen Schutzes, mit Einwilligung der betroffenen Person oder auf Anordnung der kantonalen Polizeibehörden;
 
 - d. Ermittlung des Aufenthaltes vermisster Personen sowie deren Anhaltung oder Gewahrsamnahme;
-- e. Durchführung von Fernhalte- und Zwangsmassnahmen gegenüber Ausländerinnen und Ausländern nach Artikel 121 Absatz 2 der Bundesverfassung (BV), nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^15-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^15-3] (MStG), nach dem AIG[^15-4] oder nach dem Asylgesetz vom 26. Juni 1998[^15-5] (AsylG);
+- e. Durchführung von Fernhalte- und Zwangsmassnahmen gegenüber Ausländerinnen und Ausländern nach Artikel 121 Absatz 2 der Bundesverfassung (BV), nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^15-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^15-4] (MStG), nach dem AIG[^15-5] oder nach dem Asylgesetz vom 26. Juni 1998[^15-6] (AsylG);
 - f. systematischer Abgleich der Daten des Passagier-Informationssystems mit dem automatisierten Polizeifahndungssystem nach Artikel 104*a* Absatz 4 AIG;
 - g. Bekanntgabe von Aberkennungen ausländischer, in der Schweiz ungültiger Führerausweise;
-- g<sup>bis</sup>. Vollzug polizeilicher Massnahmen zur Verhinderung terroristischer Aktivitäten nach dem 5. Abschnitt des Bundesgesetzes vom 21. März 1997[^15-6] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS);
+- g<sup>bis</sup>. Vollzug polizeilicher Massnahmen zur Verhinderung terroristischer Aktivitäten nach dem 5. Abschnitt des Bundesgesetzes vom 21. März 1997[^15-7] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS);
 - h. Ermittlung des Aufenthaltsortes von Führerinnen und Führern von Motorfahrzeugen ohne Haftpflichtversicherung;
 - i. Fahndung nach Fahrzeugen, Luftfahrzeugen und Wasserfahrzeugen, einschliesslich Motoren und anderer identifizierbarer Teile, sowie Containern, amtlichen Dokumenten, Nummernschildern oder anderen Gegenständen;
 - j. Meldungen von Personen, gegen die eine Ausreisebeschränkung nach Artikel 24*c* BWIS verfügt wurde;
-- j<sup>bis</sup>. verdeckte Registrierung oder gezielte Kontrolle von Personen, Fahrzeugen, Wasserfahrzeugen, Luftfahrzeugen und Containern gestützt auf Artikel 3*b* des Bundesgesetzes vom 7. Oktober 1994[^15-7] über die kriminalpolizeilichen Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten oder auf Bestimmungen des kantonalen Rechts zur Strafverfolgung oder zur Abwehr von Gefahren für die öffentliche Sicherheit oder für die innere oder äussere Sicherheit;
+- j<sup>bis</sup>. verdeckte Registrierung oder gezielte Kontrolle von Personen, Fahrzeugen, Wasserfahrzeugen, Luftfahrzeugen und Containern gestützt auf Artikel 3*b* des Bundesgesetzes vom 7. Oktober 1994[^15-8] über die kriminalpolizeilichen Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten oder auf Bestimmungen des kantonalen Rechts zur Strafverfolgung oder zur Abwehr von Gefahren für die öffentliche Sicherheit oder für die innere oder äussere Sicherheit;
 - k. Informationsgewinnung und -austausch mittels verdeckter Registrierung, Ermittlungsanfrage oder gezielter Kontrolle von Personen, Fahrzeugen oder anderen Gegenständen zum Zweck der Strafverfolgung, der Strafvollstreckung, der Abwehr von Gefahren für die öffentliche Sicherheit oder der Wahrung der inneren oder äusseren Sicherheit;
 - l. Überprüfung von Personen in einem Straf- oder Massnahmenvollzug, die eine Straftat im Sinne von Artikel 64 Absatz 1 StGB begangen haben;
-- m. Ermittlung des Aufenthaltes von zivildienst- und von arbeitspflichtigen Personen nach Artikel 80*b* Absatz 1 Buchstabe g des Bundesgesetzes über den zivilen Ersatzdienst vom 6. Oktober 1995[^15-8].
+- m. Ermittlung des Aufenthaltes von zivildienst- und von arbeitspflichtigen Personen nach Artikel 80*b* Absatz 1 Buchstabe g des Bundesgesetzes über den zivilen Ersatzdienst vom 6. Oktober 1995[^15-9];
+- n.[^15-10] Prüfung der Gesuche um ETIAS-Reisegenehmigungen und Bearbeitung der ETIAS-Überwachungsliste nach Artikel 108*a* Absatz 2 AIG.
 
 <sup>2</sup> Das System enthält die der Identifikation gesuchter Personen und Sachen dienenden Daten, erkennungsdienstliche Daten sowie die Daten zu den Fahndungsmerkmalen, zu den zu treffenden Massnahmen bei deren Auffindung, zu den zuständigen Behörden, zu den betroffenen Drittpersonen (Zeuginnen und Zeugen, Geschädigte, gesetzliche Vertreterinnen oder Vertreter, Inhaberinnen oder Inhaber, Finderinnen oder Finder) und zu den ungeklärten Straftaten.
 
@@ -421,16 +440,16 @@ Die folgenden Behörden können Ausschreibungen über das Informationssystem ver
 - a. fedpol, zur Erfüllung der Aufgaben nach Absatz 1;
 - b. die Eidgenössische Spielbankenkommission, zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und i;
 - c. die Bundesanwaltschaft, zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe a;
-- d. die Zentralbehörde zur Behandlung internationaler Kindesentführungen nach dem Übereinkommen vom 25. Oktober 1980[^15-9] über die zivilrechtlichen Aspekte internationaler Kindesentführung, zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe d;
+- d. die Zentralbehörde zur Behandlung internationaler Kindesentführungen nach dem Übereinkommen vom 25. Oktober 1980[^15-11] über die zivilrechtlichen Aspekte internationaler Kindesentführung, zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe d;
 - e die für den Vollzug der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG zuständigen Behörden zur Erfüllung der Aufgaben nach Absatz 1 Bst. e;
-- f. das BJ, im Rahmen der Anwendung des Rechtshilfegesetzes vom 20. März 1981[^15-10], zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und i;
+- f. das BJ, im Rahmen der Anwendung des Rechtshilfegesetzes vom 20. März 1981[^15-12], zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und i;
 - g. das SEM, zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben e und f;
 - h. die Oberzolldirektion, zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und i;
 - i. die Militärjustizbehörden, zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe a;
 - j. die kantonalen Polizeibehörden, zur Erfüllung der Aufgaben nach Absatz 1;
 - k. weitere vom Bundesrat durch Verordnung bezeichnete kantonale Zivilbehörden, zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben c, d, g, h und i;
-- l.[^15-11] fedpol als Verwaltungsstrafbehörde zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und g;
-- m.[^15-12] der NDB zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe k.
+- l.[^15-13] fedpol als Verwaltungsstrafbehörde zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und g;
+- m.[^15-14] der NDB zur Erfüllung der Aufgaben nach Absatz 1 Buchstabe k.
 
 <sup>4</sup>
 
@@ -441,45 +460,55 @@ Folgende Behörden und Stellen dürfen zur Erfüllung ihrer Aufgaben mittels Abr
 - c. die schweizerischen Vertretungen im Ausland und der Dienst für konsularischen Schutz des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA);
 - d. das Interpol-Generalsekretariat und die ausländischen nationalen Interpol-Zentralbüros, soweit es um abhandengekommene Fahrzeuge und Gegen‑ stände geht, mit Ausnahme von Personendaten;
 - e. die Strassenverkehrs- und Schifffahrtsämter, soweit es um Strassen- oder Wasserfahrzeuge sowie zugehörige Dokumente oder Nummernschilder geht;
-- f.[^15-13] …
+- f.[^15-15] …
 - g. das Staatssekretariat für Wirtschaft und die kantonalen sowie kommunalen Migrations- und Arbeitsmarktbehörden, zwecks Abklärung, ob eine ausländische Staatsangehörige oder ein ausländischer Staatsangehöriger im Informationssystem verzeichnet ist;
-- h. die Behörden gemäss Artikel 4 des Ausweisgesetzes vom 22. Juni 2001[^15-14], zwecks Abklärung des Vorliegens allfälliger Gründe für die Verweigerung der Ausstellung eines Ausweises;
-- i. der NDB zur Feststellung des Aufenthaltsortes von Personen und des Standortes von Fahrzeugen nach Massgabe des Nachrichtendienstgesetzes vom 25. September 2015[^15-15] (NDG);
+- h. die Behörden gemäss Artikel 4 des Ausweisgesetzes vom 22. Juni 2001[^15-16], zwecks Abklärung des Vorliegens allfälliger Gründe für die Verweigerung der Ausstellung eines Ausweises;
+- i. der NDB zur Feststellung des Aufenthaltsortes von Personen und des Standortes von Fahrzeugen nach Massgabe des Nachrichtendienstgesetzes vom 25. September 2015[^15-17] (NDG);
 - j. das Bundesamt für Zivilluftfahrt, soweit es um Luftfahrzeuge einschliesslich zugehöriger Dokumente, Motoren und anderer identifizierbarer Teile geht;
-- k.[^15-16] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^15-17];
-- k<sup>bis</sup>.[^15-18]
+- k.[^15-18] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^15-19];
+- k<sup>bis</sup>.[^15-20]
 
   das SEM, die kantonalen und kommunalen Migrationsbehörden:
 
   - 1\. zur Prüfung der Voraussetzungen für die Einreise und den Aufenthalt in der Schweiz,
-  - 2\. für Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des Bürgerrechtsgesetzes vom 20. Juni 2014[^15-19] (BüG);
+  - 2\. für Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des Bürgerrechtsgesetzes vom 20. Juni 2014[^15-21] (BüG);
 
-- l.[^15-20] die Transportpolizei;
-- m.[^15-21] weitere vom Bundesrat durch Verordnung bezeichnete Justiz- und Verwaltungsbehörden.
+- k<sup>ter</sup>.[^15-22] das SEM: im Rahmen seiner Aufgaben als nationale ETIAS-Stelle;
+- l.[^15-23] die Transportpolizei;
+- m.[^15-24] weitere vom Bundesrat durch Verordnung bezeichnete Justiz- und Verwaltungsbehörden.
 
 <sup>5</sup> Das automatisierte Personen- und Sachfahndungssystem kann mit anderen Informationssystemen so verbunden werden, dass die Benutzenden des Systems nach Absatz 4 mit einer einzigen Abfrage andere Informationssysteme konsultieren können, sofern sie über die notwendigen Zugriffsberechtigungen verfügen.
 
 [^15-1]: Fassung gemäss Anhang 1 Ziff. 5 und 2 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^15-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^15-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^15-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^15-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^15-6]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^15-7]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^15-8]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^15-9]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^15-10]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^15-11]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-12]: Ursprünglich: Bst. l.
-[^15-13]: Aufgehoben durch Anhang 2 Ziff. 6 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^15-14]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^15-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-16]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-17]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^15-18]: Ursprünglich: Bst. k.
-[^15-19]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^15-20]: Ursprünglich: Bst. k. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^15-21]: Ursprünglich: Bst. l.
+[^15-2]: Aufgehoben durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, mit Wirkung seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^15-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^15-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^15-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^15-8]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^15-9]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^15-10]: Eingefügt durch Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^15-11]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^15-12]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^15-13]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-14]: Ursprünglich: Bst. l.
+[^15-15]: Aufgehoben durch Anhang 2 Ziff. 6 des Informationssicherheitsgesetzes vom 18. Dez. 2020, mit Wirkung seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^15-16]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^15-17]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^15-18]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-19]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^15-20]: Ursprünglich: Bst. k.
+[^15-21]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^15-22]: Eingefügt durch Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^15-23]: Ursprünglich: Bst. k. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^15-24]: Ursprünglich: Bst. l.
+
+## 3*a*. Abschnitt: Schengen/Dublin-Informationssysteme
+
+[^sec3a-1]
+
+[^sec3a-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 16
 
@@ -492,24 +521,25 @@ Folgende Behörden und Stellen dürfen zur Erfüllung ihrer Aufgaben mittels Abr
 Das N-SIS dient der Unterstützung von Stellen des Bundes und der Kantone bei der Erfüllung folgender Aufgaben:
 
 - a. Verhaftung von Personen, oder, wenn eine Verhaftung nicht möglich ist, Ermittlung ihres Aufenthaltes zu Zwecken der Strafuntersuchung, des Straf- oder Massnahmenvollzugs oder zwecks Auslieferung;
-- b. Suche nach tatverdächtigen Personen, deren Identität unbekannt ist;
-- c. Anordnung, Vollzug und Überprüfung von Entfernungs- und Fernhaltemassnahmen nach Artikel 121 Absatz 2 BV, nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^16-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^16-3], nach dem AIG[^16-4] oder nach dem AsylG[^16-5] gegenüber Personen, die nicht Angehörige eines Staates sind, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist;
+- b.[^16-2] Suche nach tatverdächtigen Personen, deren Identität unbekannt ist;
+- c.[^16-3] Anordnung, Vollzug und Überprüfung von Entfernungs- und Fernhaltemassnahmen nach Artikel 121 Absatz 2 BV, nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^16-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^16-5], nach dem AIG[^16-6] oder nach dem AsylG[^16-7] gegenüber Personen, die nicht Angehörige eines Staates sind, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist;
 - d. Ermittlung des Aufenthaltes vermisster Personen;
 - e. Anhaltung und Gewahrsamnahme von Personen im Interesse ihres eigenen Schutzes oder zwecks Kindes- oder Erwachsenenschutzmassnahmen, fürsorgerischer Unterbringung sowie zur Gefahrenabwehr;
 - f. Ermittlung des Wohnsitzes oder Aufenthaltes von Zeuginnen und Zeugen sowie von angeklagten, beschuldigten oder verurteilten Personen im Rahmen eines Strafverfahrens oder im Anschluss an ein solches;
 - g. Informationsgewinnung und -austausch mittels verdeckter Registrierung, Ermittlungsanfrage oder gezielter Kontrolle von Personen, Fahrzeugen oder anderen Gegenständen zum Zweck der Strafverfolgung, der Strafvollstreckung, der Abwehr von Gefahren für die öffentliche Sicherheit oder der Wahrung der inneren oder äusseren Sicherheit;
 - h. Fahndung nach Fahrzeugen, Luftfahrzeugen und Wasserfahrzeugen, einschliesslich Motoren und anderer identifizierbarer Teile, sowie Containern, amtlichen Dokumenten, Nummernschildern oder anderen Gegenständen;
 - i. Prüfung, ob vorgeführte oder der Anmeldung unterliegende Fahrzeuge, Luftfahrzeuge und Wasserfahrzeuge, einschliesslich Motoren, zugelassen werden können;
-- j.[^16-6] Verhinderung des Missbrauchs von Stoffen, die zur Herstellung von explosionsfähigen Stoffen verwendet werden können.
-- j<sup>bis</sup>.[^16-7] Prüfung, ob sich Anhaltspunkte ergeben, die im Rahmen der Bewilligungserteilung von Feuerwaffen nach dem Waffengesetz vom 20. Juni 1997[^16-8] (WG) und dem Kriegsmaterialgesetz vom 13. Dezember 1996[^16-9] (KMG) zu berücksichtigen sind;
+- j.[^16-8] Verhinderung des Missbrauchs von Stoffen, die zur Herstellung von explosionsfähigen Stoffen verwendet werden können.
+- j<sup>bis</sup>.[^16-9] Prüfung, ob sich Anhaltspunkte ergeben, die im Rahmen der Bewilligungserteilung von Feuerwaffen nach dem Waffengesetz vom 20. Juni 1997[^16-10] (WG) und dem Kriegsmaterialgesetz vom 13. Dezember 1996[^16-11] (KMG) zu berücksichtigen sind;
 - k. systematischer Abgleich der Daten des Passagier-Informationssystems mit dem N-SIS nach Artikel 104*a* Absatz 4 AIG;
 - l. Prüfung der Voraussetzungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen in der Schweiz und Fällen der entsprechenden Entscheide;
 - m. Identifikation von Drittstaatsangehörigen, die illegal eingereist sind oder die sich illegal in der Schweiz aufhalten;
 - n. Identifikation von Asylsuchenden;
-- o. Grenzkontrolle gemäss der Verordnung (EU) 2016/399 (Schengener Grenzkodex)[^16-10];
-- p. Prüfung von Visumanträgen und Fällen der entsprechenden Entscheide gemäss der Verordnung (EG) Nr. 810/2009 (Visakodex)[^16-11];
-- q. Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des BüG[^16-12];
-- r. zollrechtliche Überprüfung auf dem Hoheitsgebiet der Schweiz.
+- o. Grenzkontrolle gemäss der Verordnung (EU) 2016/399 (Schengener Grenzkodex)[^16-12];
+- p. Prüfung von Visumanträgen und Fällen der entsprechenden Entscheide gemäss der Verordnung (EG) Nr. 810/2009 (Visakodex)[^16-13];
+- q. Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des BüG[^16-14];
+- r. zollrechtliche Überprüfung auf dem Hoheitsgebiet der Schweiz;
+- s.[^16-15] Prüfung der Gesuche um ETIAS-Reisegenehmigungen und Bearbeitung der ETIAS-Überwachungsliste nach Artikel 108*a* Absatz 2 AIG.
 
 <sup>3</sup> Das System enthält die Daten nach Artikel 15 Absatz 2. Es kann zudem DNA-Profile von vermissten Personen zu Identifikationszwecken enthalten.
 
@@ -551,16 +581,17 @@ Die folgenden Stellen haben zur Erfüllung der Aufgaben nach Absatz 2 Zugriff mi
   - 2\. für Verfahren über Erwerb oder Verlust des Bürgerrechts im Rahmen des BüG;
 
 - g. das SEM und die kantonalen Migrations- und Polizeibehörden, zur Identifikation von Asylsuchenden und von Drittstaatsangehörigen, die illegal eingereist sind oder die sich illegal in der Schweiz aufhalten;
+- g<sup>bis</sup>.[^16-16] das SEM: im Rahmen seiner Aufgaben als nationale ETIAS-Stelle;
 - h. die Behörden, die Entfernungs- und Fernhaltemassnahmen nach Artikel 121 Absatz 2 BV, nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG, nach dem AIG oder nach dem AsylG anordnen und vollziehen;
 - i. fedpol, das SECO und die Stellen der Kantone, die für die Erteilung von Bewilligungen von Feuerwaffen nach dem WG und dem KMG zuständig sind;
 - j. das Bundesamt für Zivilluftfahrt;
 - k. die Strassenverkehrs- und Schifffahrtsämter.
 
-<sup>6</sup> Soweit der NDB N-SIS-Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^16-13] Anwendung.
+<sup>6</sup> Soweit der NDB N-SIS-Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^16-17] Anwendung.
 
 <sup>7</sup> Der Zugriff auf Daten des N-SIS kann über eine gemeinsame Schnittstelle von anderen Informationssystemen aus erfolgen, soweit die Benutzenden die entsprechenden Berechtigungen haben.
 
-<sup>8</sup> Daten aus dem automatisierten Polizeifahndungssystem, aus dem automatisierten Fingerabdruck-Identifikationssystem nach Artikel 354 StGB und aus dem zentralen Migrationsinformationssystem nach Artikel 1 des Bundesgesetzes vom 20. Juni 2003[^16-14] über das Informationssystem für den Ausländer- und den Asylbereich dürfen, soweit erforderlich, in einem automatisierten Verfahren in das N-SIS überführt werden.
+<sup>8</sup> Daten aus dem automatisierten Polizeifahndungssystem, aus dem automatisierten Fingerabdruck-Identifikationssystem nach Artikel 354 StGB und aus dem zentralen Migrationsinformationssystem nach Artikel 1 des Bundesgesetzes vom 20. Juni 2003[^16-18] über das Informationssystem für den Ausländer- und den Asylbereich dürfen, soweit erforderlich, in einem automatisierten Verfahren in das N-SIS überführt werden.
 
 <sup>9</sup>
 
@@ -581,23 +612,133 @@ Der Bundesrat regelt, gestützt auf die Schengen-Assoziierungsabkommen:
 
 - g. die Verantwortung der Organe des Bundes und der Kantone für den Datenschutz.
 
-<sup>10</sup> Hinsichtlich der Rechte nach Absatz 9 Buchstaben e und f bleiben Artikel 8 dieses Gesetzes und die Artikel 63–66 NDG[^16-15] vorbehalten.
+<sup>10</sup> Hinsichtlich der Rechte nach Absatz 9 Buchstaben e und f bleiben Artikel 8 dieses Gesetzes und die Artikel 63–66 NDG[^16-19] vorbehalten.
 
 [^16-1]: Fassung gemäss Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), Abs. 6–10 in Kraft seit 1. Juni 2021, die übrigen Bestimmungen in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^16-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^16-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^16-6]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^16-7]: Ursprünglich: Bst. j.
-[^16-8]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-9]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-10]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1240, ABl. L 236 vom 19.9.2018, S. 1.
-[^16-11]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 77 vom 12.7.2019, S. 25.
-[^16-12]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^16-13]: [[AS 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)Anhang 1 Ziff. I 2]. Dieses Gesetz wurde durch das Datenschutzgesetz vom 25. Sept. 2020 ([SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) auf den 1. Sept. 2023 aufgehoben.
-[^16-14]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^16-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-2]: Fassung gemäss Anhang 2 Ziff. III des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16-3]: Fassung gemäss Anhang 2 Ziff. III des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^16-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^16-8]: Eingefügt durch Anhang Ziff. 3 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^16-9]: Ursprünglich: Bst. j.
+[^16-10]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-11]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^16-12]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1240, ABl. L 236 vom 19.9.2018, S. 1.
+[^16-13]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 77 vom 12.7.2019, S. 25.
+[^16-14]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^16-15]: Eingefügt durch Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-16]: Eingefügt durch Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-17]: [[AS 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)Anhang 1 Ziff. I 2]. Dieses Gesetz wurde durch das Datenschutzgesetz vom 25. Sept. 2020 ([SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) auf den 1. Sept. 2023 aufgehoben.
+[^16-18]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^16-19]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+
+#### Art. 16a
+
+**Gemeinsamer Dienst für den Abgleich biometrischer Daten**[^16a-1]
+
+<sup>1</sup>
+
+Der gemeinsame Dienst für den Abgleich biometrischer Daten (sBMS) nach den Verordnungen (EU) 2019/817[^16a-2] und (EU) 2019/818[^16a-3] enthält die biometrischen Merkmalsdaten, die aus den biometrischen Daten der folgenden Schengen/Dublin-Informationssysteme generiert wurden:[^16a-4]
+
+- a. Schengener Informationssystem (SIS);
+- b. Einreise- und Ausreisesystem (EES);
+- c. zentrales Visa-Informationssystem (C-VIS);
+- d. Eurodac.
+
+<sup>2</sup> Er enthält zudem einen Verweis auf das Informationssystem, aus dem die Daten stammen, sowie einen Verweis auf die Datensätze in diesem System.
+
+<sup>3</sup> Er ermöglicht die systemübergreifende Abfrage der Informationssysteme nach Absatz 1 anhand biometrischer Daten.
+
+<sup>4</sup> Ergibt der Abgleich der biometrischen Daten der Systeme nach Absatz 1 einen Treffer, so kann die bei fedpol für die Bearbeitung von biometrischen Daten zuständige Dienststelle diesen zur Bestätigung dessen Richtigkeit manuell überprüfen.[^16a-5]
+
+[^16a-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16a-2]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27, zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^16a-3]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^16a-4]: Fassung gemäss Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16a-5]: Eingefügt durch Ziff. II des BG vom 16. Dez. 2022 (Qualitätssichernde Massnahmen bei der biometrischen Personenüberprüfung), in Kraft seit 15. Juni 2025 ([AS 2025 341](https://fedlex.data.admin.ch/eli/oc/2025/341); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+
+#### Art. 16b
+
+**Europäisches Suchportal**[^16b-1]
+
+<sup>1</sup> Das Europäische Suchportal (ESP) nach den Verordnungen (EU) 2019/817[^16b-2] und (EU) 2019/818[^16b-3] ermöglicht die systemübergreifende Abfrage des SIS, des EES, des ETIAS, des C‑VIS, des gemeinsamen Speichers für Identitätsdaten (CIR) und von Eurodac nach den Artikeln 103*b*, 109*a*, 109*k* und 110*a* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^16b-4] (AIG), der Datenbanken Stolen and Lost Travel Documents (ASF-SLTD) und Travel Documents Associated with Notices (TDAWN) von Interpol sowie von Europol-Daten.
+
+<sup>2</sup> Die Behörden, die auf mindestens eines der Informationssysteme nach Absatz 1 zugriffsberechtigt sind, dürfen im Abrufverfahren auf das ESP zugreifen.
+
+<sup>3</sup> Die Abfrage erfolgt anhand von Identitätsdaten, Daten zu den Reisedokumenten oder biometrischen Daten.
+
+<sup>4</sup> Den Behörden werden nur die Daten aus denjenigen Informationssystemen nach Absatz 1 angezeigt, auf die sie zugriffsberechtigt sind, sowie die Art der Verknüpfung zwischen den Daten nach den Artikeln 30–33 der Verordnungen (EU) 2019/817 und (EU) 2019/818.
+
+[^16b-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16b-2]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16b-3]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16b-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
+#### Art. 16c
+
+**Detektor für Mehrfachidentitäten**[^16c-1]
+
+<sup>1</sup> Der Detektor für Mehrfachidentitäten (MID) nach den Verordnungen (EU) 2019/817[^16c-2] und (EU) 2019/818[^16c-3] dient der Identitätsprüfung und der Bekämpfung des Identitätsbetrugs.
+
+<sup>2</sup> Werden Daten im SIS, EES, ETIAS, C-VIS oder in Eurodac erfasst oder aktualisiert, so wird automatisiert eine Prüfung auf Mehrfachidentitäten im CIR und im SIS ausgelöst.
+
+<sup>3</sup>
+
+Bei dieser Prüfung werden die folgenden Daten mit den bereits vorhandenen Daten im CIR und im SIS abgeglichen:
+
+- a. im sBMS: die biometrischen Merkmalsdaten;
+- b. im ESP: die Identitätsdaten und die Daten zu den Reisedokumenten.
+
+<sup>4</sup> Besteht zwischen den Daten eine Verknüpfung nach den Artikeln 30–33 der Verordnungen (EU) 2019/817 und (EU) 2019/818, so wird im MID eine Identitätsbestätigungsdatei nach Artikel 34 dieser Verordnungen erstellt und gespeichert.
+
+[^16c-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16c-2]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16c-3]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+
+#### Art. 16d
+
+**Manuelle Verifizierung verschiedener Identitäten im MID**[^16d-1]
+
+<sup>1</sup> Die Behörden nach Artikel 110*c* Absatz 1 AIG[^16d-2] können zum Zweck der manuellen Verifizierung verschiedener Identitäten auf die im MID gespeicherten Daten zugreifen.
+
+<sup>2</sup> Zuständig für die manuelle Verifizierung der verschiedenen Identitäten ist diejenige Behörde, die Daten in den Schengen/Dublin-Informationssystemen nach Artikel 2 Buchstabe b erfasst oder aktualisiert. Bei Verknüpfungen mit Ausschreibungen im SIS im Polizeibereich ist das SIRENE-Büro zuständig.
+
+<sup>3</sup> Die manuelle Verifizierung der verschiedenen Identitäten erfolgt nach Artikel 29 der Verordnungen (EU) 2019/817[^16d-3] und (EU) 2019/818[^16d-4].
+
+<sup>4</sup> Wird im Rahmen der manuellen Verifizierung festgestellt, dass eine illegale Mehrfachidentität vorliegt oder dass eine Person in mehreren Schengen/Dublin-Informationssystemen erfasst ist, so richtet sich das Verfahren nach Artikel 32 beziehungsweise 33 der Verordnungen (EU) 2019/817 und (EU) 2019/818.
+
+[^16d-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16d-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^16d-3]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16d-4]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+
+#### Art. 16e
+
+**Bekanntgabe von Daten des sBMS, des CIR und des MID**[^16e-1]
+
+Die Bekanntgabe von Daten des sBMS, des CIR und des MID richtet sich nach Artikel 50 der Verordnungen (EU) 2019/817[^16e-2] und (EU) 2019/818[^16e-3].
+
+[^16e-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16e-2]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16e-3]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+
+#### Art. 16f
+
+**Verantwortung für die Datenbearbeitung im sBMS, im CIR und im MID**[^16f-1]
+
+Die Verantwortung für die Bearbeitung der Daten im sBMS, im CIR und im MID richtet sich nach Artikel 40 der Verordnungen (EU) 2019/817[^16f-2] und (EU) 2019/818[^16f-3].
+
+[^16f-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16f-2]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+[^16f-3]: Siehe Fussnote zu Art. 16*a* Abs. 1.
+
+## 3*b*. Abschnitt: Weitere polizeiliche Informationssysteme
+
+[^sec3b-1]
+
+[^sec3b-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 17
 
@@ -641,7 +782,8 @@ Zugriff auf diese Daten mittels Abrufverfahren haben:[^17-1]
 - k. die Militärjustizbehörden;
 - l.[^17-3] die für die Durchführung der Personensicherheitsprüfungen zuständigen Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^17-4] zur Beurteilung des Sicherheitsrisikos im Rahmen einer Personensicherheitsprüfung, einer Prüfung der Vertrauenswürdigkeit oder einer Beurteilung des Gewaltpotenzials;
 - m.[^17-5] fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^17-6];
-- n.[^17-7] das SEM zur Wahrnehmung seiner Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c* und 99 AIG[^17-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^17-9].
+- n.[^17-7] das SEM zur Wahrnehmung seiner Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c* und 99 AIG[^17-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^17-9];
+- o.[^17-10] das SEM: im Rahmen seiner Aufgaben als nationale ETIAS-Stelle.
 
 <sup>5</sup> Der Bundesrat ist ermächtigt, den Umfang des Zugriffs im Index für die Benutzenden nach Absatz 4 einzuschränken. Diese Einschränkung kann sowohl den Umfang der in Absatz 3 aufgeführten Daten wie auch die Systeme nach Absatz 1 betreffen.
 
@@ -665,6 +807,7 @@ Die kantonalen Behörden entscheiden, ob sie ihr System an den Nationalen Polize
 [^17-7]: Ursprünglich: Bst. m. Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^17-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^17-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-10]: Eingefügt durch Anhang Ziff. 4 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 17a
 
@@ -808,7 +951,7 @@ Anhang 3[^t-2]
 
 ## Schengen-Assoziierungsabkommen
 
-[^t-2]: Eingefügt durch Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^t-2]: Eingefügt durch Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)). Fassung gemäss Anhang 1 Ziff. 4 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 Die Schengen-Assoziierungsabkommen umfassen:
 

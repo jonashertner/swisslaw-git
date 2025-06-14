@@ -4,11 +4,11 @@ title: "Legge federale del 13 giugno 2008 sui sistemi d'informazione di polizia 
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: it
-version: 2024-01-01
+version: 2025-06-15
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20250615-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20250615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20240101/it"
 
 (LSIP)
 
-del 13 giugno 2008 (Stato 1° gennaio 2024)
+del 13 giugno 2008 (Stato 15 giugno 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -38,15 +38,29 @@ La presente legge disciplina l’uso dei sistemi d’informazione di polizia del
 
 #### Art. 2
 
-**Campo d’applicazione**
+**Campo d’applicazione**[^2-1]
 
-La presente legge si applica al trattamento dei dati da parte delle autorità federali e cantonali nei seguenti sistemi d’informazione di polizia della Confederazione (sistemi d’informazione di polizia):
+La presente legge si applica al trattamento dei dati da parte delle autorità federali e cantonali nei:
 
-- a. rete dei sistemi d’informazione di polizia (art. 9–14);
-- b. sistema di ricerca informatizzato di polizia (art. 15);
-- c. parte nazionale del Sistema d’informazione Schengen (N–SIS; art. 16);
-- d. registro nazionale di polizia (art. 17);
-- e. sistema di gestione delle pratiche e degli atti dell’Ufficio federale di polizia (fedpol; art. 18).
+- a.
+
+  seguenti sistemi d’informazione di polizia:
+
+  - 1\. rete dei sistemi d’informazione di polizia (art. 9–14),
+  - 2\. sistema di ricerca informatizzato di polizia (art. 15),
+  - 3\. registro nazionale di polizia (art. 17),
+  - 4\. sistema di gestione delle pratiche e degli atti dell’Ufficio federale di polizia (fedpol) (art. 18);
+
+- b.
+
+  seguenti sistemi d’informazione Schengen/Dublino e nelle loro componenti:
+
+  - 1\. parte nazionale del Sistema d’informazione Schengen (N-SIS) (art. 16),
+  - 2\. servizio comune di confronto biometrico (sBMS) (art. 16*a*),
+  - 3\. portale di ricerca europeo (ESP) (art. 16*b*),
+  - 4\. rilevatore di identità multiple (MID) (art. 16*c*).
+
+[^2-1]: Nuovo testo giusta l’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 3
 
@@ -56,7 +70,7 @@ La presente legge si applica al trattamento dei dati da parte delle autorità fe
 
 <sup>2</sup> Nell’ambito della presente legge, le autorità di polizia della Confederazione sono autorizzate a trattare dati personali, compresi dati personali degni di particolare protezione, e a comunicarli alle autorità di polizia e di perseguimento penale dei Cantoni e ad altre autorità svizzere o straniere.[^3-1] I dati personali possono essere trattati nella misura in cui e fintantoché l’adempimento dei compiti legali lo richiede.
 
-[^3-1]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-1]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 4
 
@@ -74,8 +88,8 @@ La presente legge si applica al trattamento dei dati da parte delle autorità fe
 
 <sup>2</sup> ...[^5-2]
 
-[^5-1]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^5-2]: Abrogato dall’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-1]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Abrogato dall’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5a
 
@@ -125,14 +139,14 @@ La cancellazione dei dati allo scadere della durata di conservazione è effettua
 <sup>4</sup> Il Ministero pubblico della Confederazione fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 10. Le restrizioni sono rette dall’articolo 108 del Codice di procedura penale del 5 ottobre 2007[^7-8] (CPP).[^7-9]
 
 [^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-3]: Nuovo testo giusta il n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-2]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-3]: Nuovo testo giusta la cifra II n. 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^7-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-6]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-7]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^7-8]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-9]: Vedi l’all. 2 n. I 2, qui appresso.
+[^7-9]: Vedi l’all. 2 cifra I n. 2, qui appresso.
 
 #### Art. 8
 
@@ -157,11 +171,11 @@ Qualora una persona domandi alla Polizia giudiziaria federale (PGF) se stia trat
 
 <sup>7</sup> Qualora l’interessato renda verosimile che il differimento dell’informazione gli arrecherebbe un danno rilevante e irreparabile, l’IFPDT può ordinare che, a titolo eccezionale, fedpol fornisca immediatamente le informazioni richieste, se e nella misura in cui ciò non pregiudichi la sicurezza interna o esterna.
 
-[^8-1]: Nuovo testo dal n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-1]: Nuovo testo dalla cifra II n. 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-2]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^8-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^8-4]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^8-5]: Nuova espr. giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^8-4]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8-5]: Nuova espr. giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 8a
 
@@ -177,9 +191,9 @@ Qualora una persona domandi alla Polizia giudiziaria federale (PGF) se stia trat
 
 <sup>5</sup> La comunicazione di cui al capoverso 2 non è impugnabile.
 
-[^8a-1]: Introdotto dal n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8a-1]: Introdotto dalla cifra II n. 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^8a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^8a-3]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^8a-3]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8b
 
@@ -235,14 +249,14 @@ Hanno accesso a questi dati mediante procedura di richiamo:[^10-3]
 <sup>5</sup> L’accesso ai dati concernenti un determinato procedimento penale può essere limitato per decisione del Ministero pubblico della Confederazione.
 
 [^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-2]: Vedi l’all. 2 n. I 2, qui appresso.
-[^10-3]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^10-4]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-5]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-6]: Nuova espr. giusta il n. I 5 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^10-2]: Vedi l’all. 2 cifra I n. 2, qui appresso.
+[^10-3]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^10-4]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^10-5]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^10-6]: Nuova espr. giusta la cifra I n. 5 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^10-7]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^10-8]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^10-9]: Originaria lett. e. Introdotta dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^10-9]: Originaria lett. e. Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -283,12 +297,12 @@ I dati personali possono essere raccolti all’insaputa dell’interessato se ci
 - c. l’interessato non è reperibile.
 
 [^11-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^11-2]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^11-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^11-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-4]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^11-4]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^11-5]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^11-6]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^11-7]: Originaria lett. e. Introdotta dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-7]: Originaria lett. e. Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 12
 
@@ -339,11 +353,11 @@ Hanno accesso a questi dati mediante procedura di richiamo:
 - e[^12-6]. l’UDSC, nell’ambito dei suoi compiti di natura doganale e non doganale, per l’adempimento di compiti di sicurezza nell’area di confine volti a proteggere la popolazione e a salvaguardare la sicurezza interna.
 
 [^12-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^12-2]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^12-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^12-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^12-4]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^12-5]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^12-6]: Originaria lett. d. Introdotta dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^12-6]: Originaria lett. d. Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 13
 
@@ -376,14 +390,18 @@ Il trattamento dei dati nel sistema d’informazione è riservato al personale d
 [^14-1]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^14-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^14-3]: Nuovo testo giusta l’all. 1 n. 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^14-4]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^14-4]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^14-5]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
-## Sezione 3: Altri sistemi d’informazione di polizia
+## Sezione 3: Sistema di ricerca informatizzato di polizia
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta l’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 15
 
-**Sistema di ricerca informatizzato di polizia**[^15-1]
+**...[^15-2]**[^15-1]
 
 <sup>1</sup>
 
@@ -400,17 +418,18 @@ Fedpol gestisce, in collaborazione con i Cantoni, un sistema di ricerca informat
   - 3\. trattenere adulti capaci di discernimento per garantirne l’incolumità, previo consenso dell’interessato o previo ordine delle autorità cantonali di polizia;
 
 - d. individuare il luogo di dimora di persone scomparse e trattenerle o prenderle in custodia;
-- e. eseguire misure di allontanamento e misure coercitive nei confronti di stranieri secondo l’articolo 121 capoverso 2 della Costituzione federale (Cost.), l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^15-2] o l’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^15-3] (CPM), la LStrI[^15-4] e la legge del 26 giugno 1998[^15-5] sull’asilo (LAsi);
+- e. eseguire misure di allontanamento e misure coercitive nei confronti di stranieri secondo l’articolo 121 capoverso 2 della Costituzione federale (Cost.), l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^15-3] o l’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^15-4] (CPM), la LStrI[^15-5] e la legge del 26 giugno 1998[^15-6] sull’asilo (LAsi);
 - f. confrontare in modo sistematico i dati del sistema d’informazione sui passeggeri con il sistema di ricerca informatizzato di polizia, conformemente all’articolo 104*a* capoverso 4 LStrI;
 - g. comunicare divieti di far uso di licenze di condurre straniere non valide in Svizzera;
-- g<sup>bis</sup>. eseguire misure di polizia atte a prevenire attività terroristiche ai sensi della sezione 5 della legge federale del 21 marzo 1997[^15-6] sulle misure per la salvaguardia della sicurezza interna (LMSI);
+- g<sup>bis</sup>. eseguire misure di polizia atte a prevenire attività terroristiche ai sensi della sezione 5 della legge federale del 21 marzo 1997[^15-7] sulle misure per la salvaguardia della sicurezza interna (LMSI);
 - h. individuare il luogo di dimora di conducenti di veicoli a motore sprovvisti di un’assicurazione di responsabilità civile;
 - i. ricercare veicoli, aeromobili e natanti, inclusi i motori e altre parti identificabili, nonché container, documenti ufficiali, targhe di immatricolazione o altri oggetti;
 - j. segnalare le persone nei confronti delle quali è stato pronunciato un divieto di recarsi in un Paese determinato ai sensi dell’articolo 24*c* LMSI;
-- j<sup>bis</sup>. procedere alla sorveglianza discreta o al controllo mirato di persone, veicoli, natanti, aeromobili e container conformemente all’articolo 3*b* della legge federale del 7 ottobre 1994[^15-7] sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati o alle disposizioni del diritto cantonale al fine di avviare un procedimento penale o prevenire minacce per la pubblica sicurezza o per la sicurezza interna o esterna;
+- j<sup>bis</sup>. procedere alla sorveglianza discreta o al controllo mirato di persone, veicoli, natanti, aeromobili e container conformemente all’articolo 3*b* della legge federale del 7 ottobre 1994[^15-8] sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati o alle disposizioni del diritto cantonale al fine di avviare un procedimento penale o prevenire minacce per la pubblica sicurezza o per la sicurezza interna o esterna;
 - k. raccogliere e scambiare informazioni mediante sorveglianza discreta, controllo di indagine o controllo mirato di persone, veicoli o altri oggetti allo scopo di avviare un procedimento penale, eseguire una pena, prevenire minacce per la pubblica sicurezza o salvaguardare la sicurezza interna o esterna;
 - l. controllare le persone in esecuzione di pena o di misura che hanno commesso uno dei reati di cui all’articolo 64 capoverso 1 CP;
-- m. individuare il luogo di dimora di persone che devono prestare servizio civile o di persone astrette al lavoro conformemente all’articolo 80*b* capoverso 1 lettera g della legge federale del 6 ottobre 1995[^15-8] sul servizio civile sostitutivo.
+- m. individuare il luogo di dimora di persone che devono prestare servizio civile o di persone astrette al lavoro conformemente all’articolo 80*b* capoverso 1 lettera g della legge federale del 6 ottobre 1995[^15-9] sul servizio civile sostitutivo;
+- n.[^15-10] esaminare le domande di autorizzazioni ai viaggi ETIAS ed elaborare l’elenco di controllo ETIAS secondo l’articolo 108*a* capoverso 2 LStrI.
 
 <sup>2</sup> Il sistema informatizzato contiene i dati che permettono di identificare le persone e gli oggetti ricercati, i dati segnaletici e i dati relativi alle circostanze della ricerca, alle misure da adottare in caso di ritrovamento, alle autorità competenti, ai terzi implicati (testimoni, danneggiati, rappresentanti legali, detentori, persona che ha trovato l’oggetto) e ai reati non chiariti.
 
@@ -421,16 +440,16 @@ Le seguenti autorità possono diffondere segnalazioni per mezzo del sistema info
 - a. fedpol, per l’adempimento dei compiti secondo il capoverso 1;
 - b. la Commissione federale delle case da gioco, per l’adempimento dei compiti secondo il capoverso 1 lettere a e i;
 - c. il Ministero pubblico della Confederazione, per l’adempimento dei compiti secondo il capoverso 1 lettera a;
-- d. l’Autorità centrale in materia di rapimento internazionale di minori secondo la Convenzione del 25 ottobre 1980[^15-9] sugli aspetti civili del rapimento internazionale di minori, per l’adempimento dei compiti secondo il capoverso 1 lettera d;
+- d. l’Autorità centrale in materia di rapimento internazionale di minori secondo la Convenzione del 25 ottobre 1980[^15-11] sugli aspetti civili del rapimento internazionale di minori, per l’adempimento dei compiti secondo il capoverso 1 lettera d;
 - e. le autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM, per l’adempimento dei compiti di cui al capoverso 1 lettera e;
-- f. l’Ufficio federale di giustizia, nell’ambito dell’applicazione dalla legge federale del 20 marzo 1981[^15-10] sull’assistenza internazionale in materia penale, per l’adempimento dei compiti secondo il capoverso 1 lettere a e i;
+- f. l’Ufficio federale di giustizia, nell’ambito dell’applicazione dalla legge federale del 20 marzo 1981[^15-12] sull’assistenza internazionale in materia penale, per l’adempimento dei compiti secondo il capoverso 1 lettere a e i;
 - g. la SEM, per l’adempimento dei compiti secondo il capoverso 1 lettere e ed f;
 - h. la Direzione generale delle dogane, per l’adempimento dei compiti secondo il capoverso 1 lettere a e i;
 - i. le autorità della giustizia militare, per l’adempimento dei compiti secondo il capoverso 1 lettera a;
 - j. le autorità cantonali di polizia, per l’adempimento dei compiti secondo il capoverso 1;
 - k. le altre autorità civili cantonali designate dal Consiglio federale mediante ordinanza, per l’adempimento dei compiti secondo il capoverso 1 lettere c, d, g, h e i;
-- l.[^15-11] fedpol, in qualità di autorità penale amministrativa, per l’adempimento dei compiti secondo il capoverso 1 lettere a e g;
-- m.[^15-12] il SIC, per l’adempimento dei compiti secondo il capoverso 1 lettera k.
+- l.[^15-13] fedpol, in qualità di autorità penale amministrativa, per l’adempimento dei compiti secondo il capoverso 1 lettere a e g;
+- m.[^15-14] il SIC, per l’adempimento dei compiti secondo il capoverso 1 lettera k.
 
 <sup>4</sup>
 
@@ -441,45 +460,55 @@ Nell’adempimento dei loro compiti, le autorità e i servizi seguenti possono c
 - c. le rappresentanze svizzere all’estero e la sezione Protezione consolare del Dipartimento federale degli affari esteri (DFAE);
 - d. la Segreteria generale di Interpol e gli Uffici centrali nazionali di Interpol di altri Stati, per quanto concerne la ricerca di veicoli e di oggetti, esclusi i dati relativi alle persone;
 - e. gli uffici della circolazione stradale e della navigazione, per quanto concerne i veicoli, i natanti nonché i relativi documenti e le targhe di immatricolazione;
-- f.[^15-13] ...
+- f.[^15-15] ...
 - g. la Segreteria di Stato dell’economia e le autorità cantonali e comunali competenti in materia di migrazione e di mercato del lavoro, per verificare se uno straniero è iscritto nel sistema informatizzato;
-- h. le autorità di rilascio di cui all’articolo 4 della legge del 22 giugno 2001[^15-14] sui documenti d’identità, per accertare se esistono eventuali motivi per rifiutare il rilascio di documenti d’identità;
-- i. il SIC, per la ricerca del luogo di dimora di persone e per la ricerca di veicoli secondo la legge federale del 25 settembre 2015[^15-15] sulle attività informative (LAIn);
+- h. le autorità di rilascio di cui all’articolo 4 della legge del 22 giugno 2001[^15-16] sui documenti d’identità, per accertare se esistono eventuali motivi per rifiutare il rilascio di documenti d’identità;
+- i. il SIC, per la ricerca del luogo di dimora di persone e per la ricerca di veicoli secondo la legge federale del 25 settembre 2015[^15-17] sulle attività informative (LAIn);
 - j. l’Ufficio federale dell’aviazione civile, per quanto concerne gli aeromobili, inclusi i relativi documenti, motori e altre parti identificabili;
-- k.[^15-16] fedpol, per trattare domande di autorizzazione, per verificare autorizzazioni e per trattare segnalazioni di eventi sospetti secondo la LPre[^15-17];
-- k<sup>bis</sup>.[^15-18]
+- k.[^15-18] fedpol, per trattare domande di autorizzazione, per verificare autorizzazioni e per trattare segnalazioni di eventi sospetti secondo la LPre[^15-19];
+- k<sup>bis</sup>.[^15-20]
 
   la SEM nonché le autorità cantonali e comunali di migrazione:
 
   - 1\. per la verifica delle condizioni per l’entrata e il soggiorno in Svizzera,
-  - 2\. per le procedure concernenti l’acquisizione o la perdita della cittadinanza nel quadro della legge del 20 giugno 2014[^15-19] sulla cittadinanza (LCit);
+  - 2\. per le procedure concernenti l’acquisizione o la perdita della cittadinanza nel quadro della legge del 20 giugno 2014[^15-21] sulla cittadinanza (LCit);
 
-- l.[^15-20] la polizia dei trasporti;
-- m.[^15-21] le altre autorità giudiziarie e amministrative designate dal Consiglio federale mediante ordinanza.
+- k<sup>ter</sup>.[^15-22] la SEM, nell’ambito dell’adempimento dei suoi compiti in veste di unità nazionale ETIAS;
+- l.[^15-23] la polizia dei trasporti;
+- m.[^15-24] le altre autorità giudiziarie e amministrative designate dal Consiglio federale mediante ordinanza.
 
 <sup>5</sup> Il sistema di ricerca informatizzato di persone e oggetti può essere collegato con altri sistemi d’informazione per consentire agli utenti menzionati nel capoverso 4 di consultare gli altri sistemi d’informazione con un’unica interrogazione, sempre che essi dispongano dei necessari diritti d’accesso.
 
 [^15-1]: Nuovo testo giusta l’all. 1 n. 5 e 2 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^15-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^15-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^15-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^15-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^15-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^15-7]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^15-8]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^15-9]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^15-10]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^15-11]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-12]: Originaria lett. l.
-[^15-13]: Abrogata dall’all. 2 n. 6 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^15-14]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^15-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-16]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-17]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^15-18]: Originaria lett. k.
-[^15-19]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^15-20]: Originaria lett. k. Introdotta dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^15-21]: Originaria lett. l
+[^15-2]: Abrogata dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^15-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^15-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^15-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^15-8]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^15-9]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^15-10]: Introdotta dall’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^15-11]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^15-12]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^15-13]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-14]: Originaria lett. l.
+[^15-15]: Abrogata dall’all. 2 n. 6 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^15-16]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^15-17]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^15-18]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-19]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^15-20]: Originaria lett. k.
+[^15-21]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^15-22]: Introdotta dall’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^15-23]: Originaria lett. k. Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^15-24]: Originaria lett. l
+
+## Sezione 3*a*: Sistemi d’informazione Schengen/Dublino
+
+[^sec3a-1]
+
+[^sec3a-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 16
 
@@ -492,24 +521,25 @@ Nell’adempimento dei loro compiti, le autorità e i servizi seguenti possono c
 Il N-SIS serve a sostenere gli uffici federali e cantonali nell’adempimento dei compiti seguenti:
 
 - a. arrestare una persona o, se ciò non è possibile, individuarne il luogo di dimora per un’inchiesta penale, eseguire una pena oppure una misura o procedere all’estradizione;
-- b. cercare autori presunti di reato la cui identità è sconosciuta;
-- c. ordinare, eseguire e controllare le misure di allontanamento e di respingimento secondo l’articolo 121 capoverso 2 Cost., l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^16-2] o l’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^16-3], la LStrI[^16-4] o la LAsi[^16-5] nei confronti di persone che non sono cittadini di uno Stato vincolato da un accordo di associazione alla normativa di Schengen secondo l’allegato 3;
+- b.[^16-2] ordinare e controllare i divieti d’entrata nei confronti di persone che non sono cittadini di uno Stato vincolato da uno degli accordi di associazione alla normativa di Schengen di cui all’allegato 3;
+- c.[^16-3] ordinare, eseguire e controllare le misure di allontanamento e di respingimento secondo l’articolo 121 capoverso 2 Cost., l’articolo 66*a* o 66*a*<sup>bis</sup> CP[^16-4] o l’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^16-5], la LStrI[^16-6] o la LAsi[^16-7] nei confronti di persone che non sono cittadini di uno Stato vincolato da un accordo di associazione alla normativa di Schengen secondo l’allegato 3;
 - d. individuare il luogo di dimora di persone scomparse;
 - e. trattenere e prendere in custodia una persona per garantirne l’incolumità, per applicarle una misura di protezione dei minori o degli adulti, per ricoverarla a scopo di assistenza o per prevenire minacce;
 - f. individuare il domicilio o il luogo di dimora di testimoni nonché di persone accusate o imputate nell’ambito di un procedimento penale o condannate alla conclusione dello stesso;
 - g. raccogliere e scambiare informazioni mediante sorveglianza discreta, controllo di indagine o controllo mirato di persone, veicoli o altri oggetti allo scopo di avviare un procedimento penale, eseguire una pena, prevenire minacce per la pubblica sicurezza o salvaguardare la sicurezza interna o esterna;
 - h. ricercare veicoli, aeromobili e natanti, inclusi i motori e altre parti identificabili, nonché container, documenti ufficiali, targhe di immatricolazione o altri oggetti;
 - i. verificare se i veicoli, gli aeromobili e i natanti, inclusi i motori, presentati o sottoposti alla registrazione possono essere immatricolati;
-- j.[^16-6] prevenire l’uso abusivo di sostanze che possono essere utilizzate per fabbricare sostanze esplodenti;
-- j <sup>bis</sup>.[^16-7] verificare se vi sono aspetti da considerare nel quadro del rilascio di autorizzazioni relative ad armi da fuoco secondo la legge del 20 giugno 1997[^16-8] sulle armi (LArm) e la legge federale del 13 dicembre 1996[^16-9] sul materiale bellico (LMB);
+- j.[^16-8] prevenire l’uso abusivo di sostanze che possono essere utilizzate per fabbricare sostanze esplodenti;
+- j <sup>bis</sup>.[^16-9] verificare se vi sono aspetti da considerare nel quadro del rilascio di autorizzazioni relative ad armi da fuoco secondo la legge del 20 giugno 1997[^16-10] sulle armi (LArm) e la legge federale del 13 dicembre 1996[^16-11] sul materiale bellico (LMB);
 - k. confrontare in modo sistematico i dati del sistema d’informazione sui passeggeri con il N‑SIS, conformemente all’articolo 104*a* capoverso 4 LStrI;
 - l. verificare le condizioni di entrata e di soggiorno dei cittadini di Stati terzi in Svizzera e prendere le decisioni del caso;
 - m. identificare i cittadini di Stati terzi che sono entrati o soggiornano illegalmente in Svizzera;
 - n. identificare i richiedenti l’asilo;
-- o. controllare le frontiere secondo il regolamento (UE) 2016/399 (codice frontiere Schengen)[^16-10];
-- p. verificare le domande di visto e prendere le decisioni del caso secondo il regolamento (CE) n. 810/2009 (codice dei visti)[^16-11];
-- q. svolgere la procedura per l’acquisizione o la perdita della cittadinanza nel quadro della LCit[^16-12];
-- r. procedere a controlli doganali sul territorio svizzero.
+- o. controllare le frontiere secondo il regolamento (UE) 2016/399 (codice frontiere Schengen)[^16-12];
+- p. verificare le domande di visto e prendere le decisioni del caso secondo il regolamento (CE) n. 810/2009 (codice dei visti)[^16-13];
+- q. svolgere la procedura per l’acquisizione o la perdita della cittadinanza nel quadro della LCit[^16-14];
+- r. procedere a controlli doganali sul territorio svizzero;
+- s.[^16-15] esaminare le domande di autorizzazioni ai viaggi ETIAS ed elaborare l’elenco di controllo ETIAS secondo l’articolo 108*a* capoverso 2 LStrI.
 
 <sup>3</sup> Il sistema contiene i dati di cui all’articolo 15 capoverso 2. A fini identificativi può contenere anche profili del DNA di persone scomparse.
 
@@ -551,16 +581,17 @@ I seguenti uffici possono accedere, per mezzo di una procedura di richiamo, ai d
   - 2\. svolgere la procedura per l’acquisizione o la perdita della cittadinanza nel quadro della LCit;
 
 - g. la SEM e le autorità cantonali di migrazione e di polizia, per identificare i richiedenti l’asilo e i cittadini di Stati terzi che sono entrati o soggiornano illegalmente in Svizzera;
+- g<sup>bis</sup>.[^16-16] la SEM, nell’ambito dell’adempimento dei suoi compiti in veste di unità nazionale ETIAS;
 - h. le autorità che pronunciano ed eseguono le misure di allontanamento e di respingimento secondo l’articolo 121 capoverso 2 Cost., l’articolo 66*a* o 66*a*<sup>bis</sup> CP o l’articolo 49*a* o 49*a*<sup>bis</sup> CPM, la LStrI o la LAsi;
 - i. fedpol, la SECO e gli uffici cantonali competenti per il rilascio di autorizzazioni relative alle armi da fuoco secondo la LArm e la LMB;
 - j. l’Ufficio federale dell’aviazione civile;
 - k. gli uffici della circolazione stradale e della navigazione.
 
-<sup>6</sup> Nella misura in cui il SIC tratti dati del N-SIS, si applica la legge del 28 settembre 2018[^16-13] sulla protezione dei dati in ambito Schengen.
+<sup>6</sup> Nella misura in cui il SIC tratti dati del N-SIS, si applica la legge del 28 settembre 2018[^16-17] sulla protezione dei dati in ambito Schengen.
 
 <sup>7</sup> I dati del N-SIS possono essere richiamati tramite un’interfaccia in comune utilizzando altri sistemi d’informazione, nella misura in cui gli utenti dispongano delle pertinenti autorizzazioni.
 
-<sup>8</sup> Per quanto necessario, i dati contenuti nel sistema di ricerca informatizzato di polizia, nel sistema automatizzato d’identificazione delle impronte digitali di cui all’articolo 354 CP e nel sistema d’informazione centrale sulla migrazione di cui all’articolo 1 della legge federale del 20 giugno 2003[^16-14] sul sistema d’informazione per il settore degli stranieri e dell’asilo possono essere trasferiti nel N-SIS per via informatizzata.
+<sup>8</sup> Per quanto necessario, i dati contenuti nel sistema di ricerca informatizzato di polizia, nel sistema automatizzato d’identificazione delle impronte digitali di cui all’articolo 354 CP e nel sistema d’informazione centrale sulla migrazione di cui all’articolo 1 della legge federale del 20 giugno 2003[^16-18] sul sistema d’informazione per il settore degli stranieri e dell’asilo possono essere trasferiti nel N-SIS per via informatizzata.
 
 <sup>9</sup>
 
@@ -581,23 +612,133 @@ Basandosi sugli Accordi di associazione alla normativa di Schengen, il Consiglio
 
 - g. la responsabilità degli organi federali e cantonali in materia di protezione dei dati.
 
-<sup>10</sup> Per quanto attiene ai diritti di cui al capoverso 9 lettere e ed f, sono fatti salvi l’articolo 8 della presente legge e gli articoli 63–66 LAIn[^16-15].
+<sup>10</sup> Per quanto attiene ai diritti di cui al capoverso 9 lettere e ed f, sono fatti salvi l’articolo 8 della presente legge e gli articoli 63–66 LAIn[^16-19].
 
 [^16-1]: Nuovo testo giusta l’all. 1 n. 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), i cpv. 6 -10 in vigore dal 1° lug. 2021, le altre disposizione dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^16-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^16-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^16-6]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^16-7]: Originaria lett. j.
-[^16-8]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-9]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-10]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2018/1240, GU L 236 del 19.9.2018, pag. 1.
-[^16-11]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 77 del 12.7.2019, pag. 25.
-[^16-12]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^16-13]: [[RU 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)all. 1 n. I 2]. Questa legge è stata abrogata dalla LF del 25 sett. 2020 sulla protezione dei dati ([RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) con effetto dal 1° sett. 2023.
-[^16-14]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^16-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-2]: Nuovo testo giusta l’all. 2 cifra III del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16-3]: Nuovo testo giusta l’all. 2 cifra III del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^16-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^16-8]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^16-9]: Originaria lett. j.
+[^16-10]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-11]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^16-12]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2018/1240, GU L 236 del 19.9.2018, pag. 1.
+[^16-13]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 77 del 12.7.2019, pag. 25.
+[^16-14]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^16-15]: Introdotta dall’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-16]: Introdotta dall’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-17]: [[RU 2019 639](https://fedlex.data.admin.ch/eli/oc/2019/112). [RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)all. 1 cifra I n. 2]. Questa legge è stata abrogata dalla LF del 25 sett. 2020 sulla protezione dei dati ([RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)) con effetto dal 1° sett. 2023.
+[^16-18]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^16-19]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+
+#### Art. 16a
+
+**Servizio comune di confronto biometrico**[^16a-1]
+
+<sup>1</sup>
+
+Il servizio comune di confronto biometrico (sBMS) previsto dai regolamenti (UE) 2019/817[^16a-2] e (UE) 2019/818[^16a-3] contiene elementi relativi alle caratteristiche biometriche (template biometrici) ottenuti dai dati biometrici registrati nei seguenti sistemi d’informazione Schengen/Dublino:[^16a-4]
+
+- a. il Sistema d’informazione Schengen (SIS);
+- b. il sistema di ingressi e uscite (EES);
+- c. il sistema centrale d’informazione visti (C-VIS);
+- d. l’Eurodac.
+
+<sup>2</sup> Contiene inoltre un riferimento al sistema d’informazione da cui provengono i dati nonché un riferimento alla registrazione in tale sistema.
+
+<sup>3</sup> Permette la consultazione trasversale dei sistemi d’informazione di cui al capoverso 1 sulla base di dati biometrici.
+
+<sup>4</sup> Se dal confronto dei dati biometrici dei sistemi di cui al capoverso 1 risulta un riscontro positivo, il servizio di fedpol responsabile per il trattamento di dati biometrici può verificarlo manualmente per confermarne l’esattezza.[^16a-5]
+
+[^16a-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16a-2]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^16a-3]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^16a-4]: Nuovo testo giusta l’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16a-5]: Introdotto dalla cifra II della LF del 16 dic. 2022 (Misure di garanzia della qualità nell’identificazione biometrica delle persone), in vigore dal 15 giu. 2025 ([RU 2025 341](https://fedlex.data.admin.ch/eli/oc/2025/341); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449))
+
+#### Art. 16b
+
+**Portale di ricerca europeo**[^16b-1]
+
+<sup>1</sup> Il portale di ricerca europeo (ESP) previsto dai regolamenti (UE) 2019/817[^16b-2] e (UE) 2019/818[^16b-3] permette la consultazione trasversale del SIS, dell’EES, dell’ETIAS, del C‑VIS, dell’archivio comune di dati di identità (CIR) e dell’Eurodac di cui agli articoli 103*b*, 109*a*, 109*k* e 110*a* della legge federale del 16 dicembre 2005[^16b-4] sugli stranieri e la loro integrazione (LStrI), delle banche dati di Interpol sui documenti di viaggio rubati e smarriti (ASF-SLTD) e sui documenti di viaggio associati a segnalazioni (TDAWN) nonché dei dati Europol.
+
+<sup>2</sup> Le autorità che hanno accesso ad almeno uno dei sistemi d’informazione di cui al capoverso 1 possono accedere, mediante procedura di richiamo, all’ESP.
+
+<sup>3</sup> La consultazione è effettuata sulla base dei dati di identità, dei dati relativi ai documenti di viaggio o dei dati biometrici.
+
+<sup>4</sup> Le autorità possono visualizzare soltanto i dati provenienti dai sistemi d’informazione di cui al capoverso 1 cui sono autorizzate ad accedere nonché il tipo di collegamento tra i dati secondo gli articoli 30–33 dei regolamenti (UE) 2019/817 e (UE) 2019/818.
+
+[^16b-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16b-2]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16b-3]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16b-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
+#### Art. 16c
+
+**Rilevatore di identità multiple**[^16c-1]
+
+<sup>1</sup> Il rilevatore di identità multiple (MID) previsto dai regolamenti (UE) 2019/817[^16c-2] e (EU) 2019/818[^16c-3] serve a svolgere le verifiche di identità e a contrastare la frode di identità.
+
+<sup>2</sup> Se sono registrati o aggiornati dati nel SIS, nell’EES, nell’ETIAS, nel C-VIS o nell’Eurodac, viene automaticamente avviata una procedura di rilevazione delle identità multiple nel CIR e nel SIS.
+
+<sup>3</sup>
+
+Tale procedura di rilevazione consiste nel confrontare i seguenti dati con i dati già registrati nel CIR e nel SIS:
+
+- a. per l’sBMS, i template biometrici;
+- b. per l’ESP, i dati di identità e i dati relativi ai documenti di viaggio.
+
+<sup>4</sup> Se tra i dati è presente un collegamento secondo gli articoli 30–33 dei regolamenti (UE) 2019/817 e (UE) 2019/818, nel MID viene creato e registrato un fascicolo di conferma dell’identità secondo l’articolo 34 di tali regolamenti.
+
+[^16c-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16c-2]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16c-3]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+
+#### Art. 16d
+
+**Verifica manuale delle identità diverse nel MID**[^16d-1]
+
+<sup>1</sup> Le autorità di cui all’articolo 110*c* capoverso 1 LStrI[^16d-2] possono accedere ai dati registrati nel MID ai fini della verifica manuale delle identità diverse.
+
+<sup>2</sup> La verifica manuale delle identità diverse compete all’autorità che ha registrato o aggiornato i dati nei sistemi d’informazione Schengen/Dublino di cui all’articolo 2 lettera b. In caso di collegamenti con segnalazioni nel SIS riguardanti il settore di polizia, è competente l’Ufficio SIRENE.
+
+<sup>3</sup> La verifica manuale delle identità diverse è eseguita conformemente all’articolo 29 dei regolamenti (UE) 2019/817[^16d-3] e (UE) 2019/818[^16d-4].
+
+<sup>4</sup> Se nell’ambito di una verifica manuale si accerta l’esistenza di un’identità multipla illecita o che una persona è registrata in più sistemi d’informazione Schengen/ Dublino, la procedura è retta rispettivamente dagli articoli 32 e 33 dei regolamenti (UE) 2019/817 e (UE) 2019/818.
+
+[^16d-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16d-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^16d-3]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16d-4]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+
+#### Art. 16e
+
+**Comunicazione di dati dell’sBMS, del CIR e del MID**[^16e-1]
+
+La comunicazione di dati dell’sBMS, del CIR e del MID è retta dall’articolo 50 dei regolamenti (UE) 2019/817[^16e-2] e (UE) 2019/818[^16e-3].
+
+[^16e-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16e-2]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16e-3]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+
+#### Art 16f
+
+**Responsabilità per il trattamento di dati nell’sBMS, nel CIR e nel MID**[^16f-1]
+
+La responsabilità per il trattamento di dati nell’sBMS, nel CIR e nel MID è retta dall’articolo 40 dei regolamenti (UE) 2019/817[^16f-2] e (UE) 2019/818[^16f-3].
+
+[^16f-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^16f-2]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+[^16f-3]: Cfr. nota a piè di pagina relativa all’art. 16*a* cpv. 1.
+
+## Sezione 3*b*: Altri sistemi d’informazione di polizia
+
+[^sec3b-1]
+
+[^sec3b-1]: Introdotta dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto sviz-zero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i si-stemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 #### Art. 17
 
@@ -641,7 +782,8 @@ Hanno accesso a questi dati mediante procedura di richiamo:[^17-1]
 - k. le autorità della giustizia militare;
 - l.[^17-3] i servizi specializzati competenti per l’esecuzione dei controlli di sicurezza rela-tivi alle persone secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020 sulla sicurezza delle informazioni, ai fini della valutazione del rischio per la sicurezza nel quadro di un controllo di sicurezza relativo alle persone, di una verifica dell’affidabilità o di una valutazione del potenziale di violenza;
 - m.[^17-4] fedpol, per trattare domande di autorizzazione, per verificare autorizzazioni e per trattare segnalazioni di eventi sospetti secondo la LPre[^17-5];
-- n.[^17-6] la SEM per l’adempimento dei compiti conferitile dagli articoli 5 capoverso 1 lettera c, 98*c* e 99 LStrI[^17-7] nonché dagli articoli 5*a*, 26 capoverso 2 e 53 lettera b della legge del 26 giugno 1998[^17-8] sull’asilo.
+- n.[^17-6] la SEM per l’adempimento dei compiti conferitile dagli articoli 5 capoverso 1 lettera c, 98*c* e 99 LStrI[^17-7] nonché dagli articoli 5*a*, 26 capoverso 2 e 53 lettera b della legge del 26 giugno 1998[^17-8] sull’asilo;
+- o.[^17-9] la SEM, nell’ambito dell’adempimento dei suoi compiti in veste di unità nazionale ETIAS.
 
 <sup>5</sup> Il Consiglio federale può limitare l’accesso al registro da parte degli utenti menzionati nel capoverso 4. La limitazione può concernere sia la quantità dei dati di cui al capoverso 3, sia i sistemi di cui al capoverso 1.
 
@@ -661,9 +803,10 @@ Le autorità cantonali decidono autonomamente se collegare il proprio sistema al
 [^17-3]: Nuovo testo giusta l’all. 1 n. 11 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^17-4]: Introdotta dall’all. n. 3 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^17-5]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^17-6]: Originaria lett. m. Introdotta dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17-6]: Originaria lett. m. Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^17-7]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^17-8]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-9]: Introdotta dall’all. n. 4 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 17a
 
@@ -687,7 +830,7 @@ Fedpol gestisce il registro dei dati sul terrorismo. Il registro contiene dati c
 
 <sup>3</sup> Le informazioni raccolte sulla base di un riscontro positivo nel registro dei dati sul terrorismo sono trattate da fedpol negli appositi sistemi d’informazione.
 
-[^17a-1]: Introdotto dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17a-1]: Introdotto dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^17a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^17a-3]: [RS 0.351.933.6](https://fedlex.data.admin.ch/eli/cc/1977/42_42_42)
 [^17a-4]: [RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)
@@ -708,7 +851,7 @@ Fedpol può comunicare, spontaneamente o su richiesta, le informazioni alle segu
 
 <sup>3</sup> La comunicazione di dati è registrata nel sistema di trattamento dei dati relativi alla cooperazione di polizia internazionale e intercantonale (art. 12).
 
-[^17b-1]: Introdotto dal n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17b-1]: Introdotto dalla cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^17b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^17b-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
@@ -736,8 +879,8 @@ I sistemi contengono inoltre, separatamente dagli altri dati:
 
 <sup>7</sup> L’accesso a questi sistemi mediante procedura di richiamo informatizzata è riservato al personale di fedpol e all’UFG, per l’adempimento dei compiti conferitigli dalla legge federale del 20 marzo 1981[^18-6] sull’assistenza internazionale in materia penale. Hanno accesso ai sistemi allo scopo di trattare i dati di cui al capoverso 5 lettere b e c i collaboratori di fedpol responsabili del trattamento delle rispettive decisioni.
 
-[^18-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^18-2]: Nuovo testo giusta l’all. 1 n. II 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^18-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^18-2]: Nuovo testo giusta l’all. 1 cifra II n. 30 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^18-3]: Nuovo testo giusta l’all. n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° set. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^18-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^18-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -807,11 +950,11 @@ Allegato 3[^t-2]
 
 ## Accordi di associazione alla normativa di Schengen
 
-[^t-2]: Introdotto dall’all. 1 n. 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^t-2]: Introdotto dall’all. 1 n. 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS) ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)). Nuovo testo giusta l’ dall’all. 1 n. 4 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 
 Gli Accordi di associazione alla normativa di Schengen comprendono:
 
-- a. l’Accordo del 26 ottobre 2004[^annex3-lvlu1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen;
+- a. l’Accordo del 26 ottobre 2004[^annex3-lvlu1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen (AAS);
 - b. l’Accordo del 26 ottobre 2004[^annex3-lvlu1-2] sotto forma di scambio di lettere tra il Consiglio dell’Unione europea e la Confederazione Svizzera concernente i comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi;
 - c. la Convenzione del 22 settembre 2011[^annex3-lvlu1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
 - d. l’Accordo del 17 dicembre 2004[^annex3-lvlu1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
