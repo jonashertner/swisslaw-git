@@ -5,11 +5,12 @@ title: Reglement über die Geschäftsordnung des Landrates
 short: "Landratsreglement, LRR"
 language: de
 version: 2025-01-01
+corrected: 2025-06-17
 version_adopted: 2024-09-25
 adopted: 1998-09-16
 in_force: 1998-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1393/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1340/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1265,7 +1266,7 @@ Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der K
 
 #### § 115a
 
-**Übergangsbestimmung zur Änderung vom 29. März 2023**
+**Übergangsbestimmung zur Änderung vom ...**
 
 <sup>1</sup> Für Motionen und Postulate, die zum Zeitpunkt des Inkrafttretens dieser Änderung gutgeheissen sind, gelten die bisherigen Bestimmungen.
 
