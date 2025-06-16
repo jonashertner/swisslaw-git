@@ -4,13 +4,12 @@ number: "172.113"
 title: Geschäftsreglement der Standeskommission
 short: GR StK
 language: de
-version: 2022-01-01
-valid_until: 2025-06-16
-version_adopted: 2021-12-21
+version: 2025-06-17
+version_adopted: 2025-06-17
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.113"
-pdf: "https://ai.clex.ch/api/de/versions/1979/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1979/pdf_file"
 
 (GR StK)
 
-vom 21.12.2021 (Stand 01.01.2022)
+vom 21.12.2021 (Stand 17.06.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -295,7 +294,7 @@ b) die Verwaltungsaufgaben angepasst werden.
 
 <sup>1</sup> Protokolle, die versandt werden, werden von der regierenden Frau Landammann oder dem regierenden Landammann und von der Ratschreiberin oder vom Ratschreiber unterzeichnet.
 
-<sup>2</sup> Protokolle, die nach dem Beschluss rasch versandt werden müssen, werden von der Ratschreiberin oder vom Ratschreiber im Auftrag von Landammann und Standeskommission unterzeichnet; bei Verfügungen ist die Unterschrift der regierenden Frau Landammann oder des regierenden Landammanns oder der Stellvertretung erforderlich.
+<sup>2</sup> Protokolle, die nach dem Beschluss rasch versandt werden müssen, und dringliche Schreiben, die sich aus Protokollen ergeben, insbesondere Verfügungen, werden von der Ratschreiberin oder vom Ratschreiber im Auftrag von Landammann und Standeskommission unterzeichnet.
 
 ## V. Schlussbestimmungen
 
