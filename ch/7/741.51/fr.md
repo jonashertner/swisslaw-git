@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2025-03-01
+version: 2025-06-18
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250301-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 1<sup>er</sup> mars 2025)
+du 27 octobre 1976 (État le 18 juin 2025)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1026,7 +1026,7 @@ Ne sont pas soumis à l’examen pratique:
 
 <sup>3</sup> Le permis de conduire de la catégorie A avec limitation de puissance est délivré aux personnes qui possèdent un permis d’élève conducteur avec limitation de puissance et ont réussi l’examen pratique de conduite. Le permis de conduire de la catégorie A sans limitation de puissance est délivré aux personnes qui possèdent un permis d’élève conducteur sans limitation de puissance et ont réussi l’examen pratique de conduite.[^24-2]
 
-<sup>4</sup> et <sup>5</sup> …[^24-3]
+<sup>4 et <sup>5</sup></sup> …[^24-3]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1396,7 +1396,7 @@ Le médecin qui procède à l’examen d’évaluation de l’aptitude à la con
 
 **Course de contrôle**
 
-<sup>1</sup> En cas de doutes sur les qualifications nécessaires à la conduite, l’autorité cantonale peut ordonner une course de contrôle avec un expert de la circulation pour déterminer les mesures à prendre. Elle n’a le droit d’ordonner une course de contrôle supervisée par un médecin que dans les cas visés à l’art. 5*j*, al. 2.[^29-1]
+<sup>1</sup> En cas de doutes sur les qualifications nécessaires à la conduite, l’autorité cantonale peut ordonner une course de contrôle avec un expert de la circulation pour déterminer les mesures à prendre. Elle n’a le droit d’ordonner une course de contrôle supervisée par un médecin pour déterminer l’aptitude à la conduite que dans les cas visés à l’art. 5*j*, al. 2.[^29-1]
 
 <sup>2</sup>
 
@@ -1409,7 +1409,7 @@ Si la personne concernée ne réussit pas la course de contrôle:
 
 <sup>4</sup> Si la personne concernée ne se présente pas à la course de contrôle et ne produit pas d’excuse, ladite course est réputée comme non réussie. Lorsqu’elle ordonne la course de contrôle, l’autorité doit informer la personne concernée des conséquences d’une telle négligence.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Erratum du 18 juin 2025 ([RO 2025 405](https://fedlex.data.admin.ch/eli/oc/2025/405)).
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -3758,10 +3758,7 @@ Nom: Prénom: Date de naissance: NPA/Lieu: Adresse:
 - 2 *Conclusions*
 - 2\.1 Les exigences médicales minimales (annexe 1 OAC)
 
-<table>
-<tr><td>du 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M):</td><td>du 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation):</td></tr>
-<tr><td>□ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification:</td><td>□ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification:</td></tr>
-</table>
+du 1<sup>er</sup> groupe (A, A1, B, B1, F, G, M): du 2<sup>e</sup> groupe (D, D1, C, C1, autorisation de transporter des personnes à titre professionnel, experts de la circulation): □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification: □ sont satisfaites □ sont satisfaites uniquement aux conditions suivantes (ch. 3) □ ne sont pas satisfaites Brève justification:
 
 - 2\.2 □ Résultat équivoque: l’évaluation définitive doit être réalisée par un médecin reconnu de niveau 3 ou 4.
 - □ Étant donné que l’aptitude à la conduite du candidat soulève des doutes sérieux, il ne devrait conduire aucun véhicule avant des clarifications supplémentaires.

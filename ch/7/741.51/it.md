@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2025-03-01
+version: 2025-06-18
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250301-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 1° marzo 2025)
+del 27 ottobre 1976 (Stato 18 giugno 2025)
 
 [^t-1]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1030,7 +1030,7 @@ Non devono superare l’esame pratico di conducente:
 
 <sup>3</sup> La licenza di condurre della categoria A con limitazione della potenza è rilasciata a chi possiede una licenza per allievo conducente con limitazione della potenza e ha superato l’esame pratico di conducente. La licenza di condurre della categoria A senza limitazione della potenza è rilasciata a chi possiede una licenza per allievo conducente senza limitazione della potenza e ha superato l’esame pratico di conducente.[^24-2]
 
-<sup>4</sup> e <sup>5</sup> ...[^24-3]
+<sup>4 e <sup>5</sup></sup> ...[^24-3]
 
 [^24-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1415,7 +1415,7 @@ Se la persona interessata non supera la corsa di controllo:
 
 <sup>4</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.
 
-[^29-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). La correzione del 18 giu. 2025 concerne soltanto il testo francese ([RU 2025 405](https://fedlex.data.admin.ch/eli/oc/2025/405)).
 [^29-2]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -3762,10 +3762,7 @@ Cognome: Nome: Data di nascita: NPA/Domicilio: Indirizzo:
 - 2 *Conclusioni*
 - 2\.1 I requisiti medici minimi (allegato 1 OAC)
 
-<table>
-<tr><td>del 1° gruppo medico (A, A1, B, B1, F, G, M) sono:</td><td>del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione) sono:</td></tr>
-<tr><td>soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:</td><td>soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:</td></tr>
-</table>
+del 1° gruppo medico (A, A1, B, B1, F, G, M) sono: del 2° gruppo medico (D, D1, C, C1, permesso per il trasporto professionale di persone, esperti della circolazione) sono: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione: soddisfatti soddisfatti soltanto alle condizioni sottostanti (n. 3) non soddisfatti Breve motivazione:
 
 - 2\.2 Risultato non chiaro: la valutazione definitiva dovrà essere effettuata da un medico riconosciuto di livello 3 o 4
 - Sussistono seri dubbi circa l’idoneità alla guida, per cui sarebbe bene evitare di guidare fino a ulteriore accertamento
@@ -4454,179 +4451,3 @@ La parte d’esame di valutazione riservata alle manovre particolari può essere
 - 3\.8 semafori, segnaletica stradale e altre segnalazioni di condizioni particolari: corretto comportamento ai semafori; rispetto dei comandi impartiti dagli agenti del traffico; rispetto della segnaletica e della demarcazione stradale;
 - 3\.9 segnalazione: effettuare le necessarie segnalazioni, nei tempi e nei modi opportuni; corretto impiego degli indicatori di direzione; reazione corretta in risposta alle segnalazioni degli altri utenti della strada;
 - 3\.10 frenata: tempestiva riduzione della velocità, frenate adeguate alle circostanze, anticipo, utilizzo dei diversi sistemi di frenatura (soltanto per le categorie C, D, CE e DE); utilizzo di altri sistemi di riduzione della velocità (soltanto per le categorie C, D, CE e DE).
-
-## Indice
-
-Introduzione
-
-1 Ammissione di persone
-
-11 Disposizioni generali
-
-11*a* Esami medici e psicologici di idoneità alla guida
-
-12 Esame di conducente
-
-121 Requisiti per l’ottenimento di una licenza per allievo conducente o una licenza di condurre
-
-122 Domanda di licenza per allievo conducente o di licenza per condurre
-
-*Abrogato* Art. 11*a*
-
-123 Disposizioni comuni agli esami teorici e all’esame pratico di conducente
-
-124 Esame teorico di base e prima registrazione dei dati nel SIAC Persone
-
-125 Licenza per allievo conducente
-
-126 Formazione di guida
-
-127 Esame teorico complementare per la guida di autocarri e autobus
-
-Art. 21
-
-128 Esame pratico di conducente
-
-129 Licenza di condurre
-
-129*a* Trasporto professionale di persone con veicoli leggeri adibiti al trasporto di persone e con automobili pesanti
-
-12*a* Obblighi di annunciare e visite di controllo di idoneità alla guida
-
-*Abrogato* Art. 26*a*
-
-*Abrogato* Art. 26*b*
-
-12*b* Formazione complementare per i titolari di una licenza di condurre in prova
-
-13 Provvedimenti
-
-131 Nuovo esame di conducente, corsa di controllo, esame di verifica dell’idoneità alla guida e revoca preventiva
-
-132 Revoca della licenza di condurre
-
-132*a* Misure nei confronti dei titolari della licenza di condurre in prova
-
-132*b* Divieto di circolare e ammonimento
-
-133 ...
-
-134 Corsi d’educazione stradale come formazione complementare
-
-14 Conducenti di veicoli a motore provenienti dall’estero
-
-15 ...
-
-15*a* Animatori di corsi di formazione complementare
-
-16 Esperti della circolazione incaricati degli esami di conducente e dei controlli dei veicoli
-
-17 Noleggiatori di autoveicoli
-
-Art. 70
-
-2 Veicoli
-
-21 Veicoli a motore e loro rimorchi
-
-211 Ammissione
-
-212 Licenza di circolazione
-
-213 Targhe
-
-22 Veicoli per gli esami
-
-*Abrogato* Art. 89
-
-23 Ciclomotori
-
-24 ...
-
-*Abrogato* Art. 105
-
-25 Provvedimenti amministrativi
-
-251 Revoca della licenza di circolazione
-
-252 Veicoli senza licenza
-
-*Abrogato* Art. 110
-
-253 ...
-
-26 Veicoli stranieri
-
-3 Notificazione, statistica, controlli della circolazione
-
-31 Notificazioni
-
-311 ...
-
-*Abrogato* Art. 118
-
-312 Notificazione del rilascio di nuove licenze
-
-*Abrogato* Art. 119
-
-*Abrogato* Art. 121
-
-313 Notificazione di infrazioni e di altri fatti
-
-*Abrogato* Art. 124
-
-314 ...
-
-32 Statistica
-
-*Abrogato* Art. 128
-
-*Abrogato* Art. 129
-
-4 Disposizioni penali
-
-5 Disposizioni finali
-
-Disposizioni finali della modifica del 15 aprile 1987
-
-Disposizioni finali della modifica del 13 febbraio 1991
-
-Disposizioni finali della modifica del 13 novembre 1991
-
-Disposizione finale della modifica del 7 marzo 1994
-
-Descrizione delle categorie, sottocategorie e categorie speciali di licenza di condurre
-
-Allegato 1 Requisiti medici minimi
-
-Allegato 1<sup>bis</sup> Requisiti per i medici di livello 1
-
-Allegato 2 Risultato dell’esame medico
-
-Allegato 2*a* Risultato dell’esame medico
-
-Allegato 3 Risultato dell’esame medico di idoneità alla guida
-
-Allegato 3*a* Certificato oftalmologico
-
-Allegato 4 Domanda per il rilascio di una licenza per allievo conducente o di una licenza di condurre
-
-Allegato 4*a* Attestato di formazione complementare
-
-Allegati 5 e 6
-
-*Abrogati*
-
-Allegato 7 Gruppi di materie per gli esami di esperti della circolazione
-
-Allegati 8 e 9
-
-*Abrogati*
-
-Allegato 10
-
-*Abrogato*
-
-Allegato 11 Verifica delle conoscenze teoriche
-
-Allegato 12 Esame pratico di conducent

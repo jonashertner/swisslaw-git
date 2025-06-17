@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2025-03-01
+version: 2025-06-18
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250301-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250618/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250618-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250301/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 1. März 2025)
+vom 27. Oktober 1976 (Stand am 18. Juni 2025)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1027,7 +1027,7 @@ Keine praktische Führerprüfung haben abzulegen:
 
 <sup>3</sup> Der Führerausweis der Kategorie A mit Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis mit Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben. Der Führerausweis der Kategorie A ohne Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis ohne Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben.[^24-2]
 
-<sup>4</sup> und <sup>5</sup> …[^24-3]
+<sup>4 und <sup>5</sup></sup> …[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1411,7 +1411,7 @@ Besteht die betroffene Person die Kontrollfahrt nicht, wird:
 
 <sup>4</sup> Bleibt die betroffene Person der Kontrollfahrt unentschuldigt fern, gilt diese als nicht bestanden. Die Behörde muss bei der Anordnung der Kontrollfahrt auf diese Säumnisfolge aufmerksam machen.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^29-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Die Berichtigung vom 18. Juni 2025 betrifft nur den französischen Text ([AS 2025 405](https://fedlex.data.admin.ch/eli/oc/2025/405)).
 [^29-2]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -3768,10 +3768,7 @@ Name: Vorname: Geburtsdatum: PLZ/Wohnort: Adresse:
 - 2 *Schlussfolgerungen*
 - 2\.1 Die medizinischen Mindestanforderungen (Anhang 1 VZV)
 
-<table>
-<tr><td>der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M) sind:</td><td>der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexpertinnen/-experten) sind:</td></tr>
-<tr><td>erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:</td><td>erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:</td></tr>
-</table>
+der 1. medizinischen Gruppe (A, A1, B, B1, F, G, M) sind: der 2. medizinischen Gruppe (D, D1, C, C1, Bewilligung zum berufsmässigen Personentransport, Verkehrsexpertinnen/-experten) sind: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung: erfüllt nur mit den nachstehenden Auflagen erfüllt (Ziff. 3) nicht erfüllt Kurze Begründung:
 
 - 2\.2 Unklares Ergebnis: Die definitive Beurteilung soll von einer anerkannten Ärztin oder einem anerkannten Arzt der Stufe 3 oder 4 vorgenommen werden
 - Es bestehen ernsthafte Zweifel an der Fahreignung, weshalb bis zur weiteren Abklärung kein Fahrzeug geführt werden sollte
