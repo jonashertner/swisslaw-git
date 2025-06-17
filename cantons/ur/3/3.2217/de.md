@@ -1,40 +1,43 @@
 ---
 canton: UR
 number: "3.2217"
-title: Reglement über den Abzug der Kosten von Liegenschaften des Privatvermögens
+title: REGLEMENT über den Abzug der Kosten von Liegenschaften des Privatvermögens
 short: "Liegenschaftskostenreglement, LKR"
 language: de
 version: 2020-01-01
+corrected: 2025-06-18
 version_adopted: 2020-01-14
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2217"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/412/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/373/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Abzug der Kosten von Liegenschaften des Privatvermögens
+# REGLEMENT über den Abzug der Kosten von Liegenschaften des Privatvermögens
 
-(Liegenschaftskostenreglement, LKR)
+REGLEMENT über den Abzug der Kosten von Liegenschaften des Privatvermögens (Liegenschaftskostenreglement, LKR)
 
-Vom 14.01.2020 (Stand 01.01.2020)
+(vom 14. Januar 2020[^t-1]; Stand am 1. Januar 2020)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 270 des Gesetzes vom 26. September 2010 über die direkten Steuern im Kanton Uri (RB [3.2211](https://rechtsbuch.ur.ch/data/3.2211/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 270 des Gesetzes vom 26. September 2010 über die direkten Steuern im Kanton Uri[^t-2],
 
 beschliesst:
+
+[^t-1]: AB vom 24. Januar 2020
+[^t-2]: RB 3.2211
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Kosten und Investitionen, die bei Grundstücken im Privatvermögen nach Artikel 37 des Gesetzes über die direkten Steuern im Kanton Uri abgezogen werden können.
+Dieses Reglement regelt die Kosten und Investitionen, die bei Grundstücken im Privatvermögen nach Artikel 37 des Gesetzes über die direkten Steuern im Kanton Uri abgezogen werden können.
 
 #### Artikel 2
 
-**Dem Energiesparen und dem Umweltschutz dienende Investitionen**
+Dem Energiesparen und dem Umweltschutz dienende Investitionen
 
 <sup>1</sup> Als Investitionen, die dem Energiesparen und dem Umweltschutz dienen, gelten Aufwendungen für Massnahmen, die zur rationellen Energieverwendung oder zur Nutzung erneuerbarer Energien beitragen. Diese Massnahmen beziehen sich auf den Ersatz von veralteten und die erstmalige Anbringung von neuen Bauteilen oder Installationen in bestehenden Gebäuden.
 
@@ -58,11 +61,11 @@ beschliesst:
 
 **Ersatzneubau**
 
-<sup>1</sup> Als Ersatzneubau gilt ein Bau, der nach Abschluss des Rückbaus eines Wohngebäudes oder eines gemischt genutzten Gebäudes in der Regel innerhalb von zwei Jahren auf dem gleichen Grundstück errichtet wird und eine gleichartige Nutzung aufweist.
+Als Ersatzneubau gilt ein Bau, der nach Abschluss des Rückbaus eines Wohngebäudes oder eines gemischt genutzten Gebäudes in der Regel innerhalb von zwei Jahren auf dem gleichen Grundstück errichtet wird und eine gleichartige Nutzung aufweist.
 
 #### Artikel 5
 
-**Auf die beiden nachfolgenden Steuerperioden übertragbare Kosten**
+Auf die beiden nachfolgenden Steuerperioden übertragbare Kosten
 
 <sup>1</sup> Können die dem Energiesparen und dem Umweltschutz dienenden Investitionskosten oder die Rückbaukosten im Hinblick auf den Ersatzneubau im Jahr der angefallenen Aufwendungen nicht vollständig steuerlich berücksichtigt werden, so können die verbleibenden Kosten auf die folgende Steuerperiode übertragen werden.
 
@@ -80,17 +83,23 @@ beschliesst:
 
 <sup>1</sup> Die steuerpflichtige Person kann einen Pauschalabzug geltend machen anstelle der tatsächlichen Kosten:
 
-- a) des Unterhalts
-- b) der Instandstellung von neu erworbenen Liegenschaften
-- c) der Verwaltung durch Dritte
-- d) der Investitionen, die dem Energiesparen und dem Umweltschutz dienen
-- e) der Rückbaukosten im Hinblick auf den Ersatzneubau
-- f) der Versicherungsprämien
+- a) des Unterhalts;
+
+- b) der Instandstellung von neu erworbenen Liegenschaften;
+
+- c) der Verwaltung durch Dritte;
+
+- d) der Investitionen, die dem Energiesparen und dem Umweltschutz dienen;
+
+- e) der Rückbaukosten im Hinblick auf den Ersatzneubau;
+
+- f) der Versicherungsprämien.
 
 <sup>2</sup> Der Pauschalabzug beträgt:
 
-- a) 10 Prozent des Mietertrags bzw. des Eigenmietwerts, wenn das Gebäude zu Beginn der Steuerperiode bis zehn Jahre alt ist
-- b) 20 Prozent des Mietertrags bzw. des Eigenmietwerts, wenn das Gebäude zu Beginn der Steuerperiode mehr als zehn Jahre alt ist
+- a) 10 Prozent des Mietertrags bzw. des Eigenmietwerts, wenn das Gebäude zu Beginn der Steuerperiode bis zehn Jahre alt ist;
+
+- b) 20 Prozent des Mietertrags bzw. des Eigenmietwerts, wenn das Gebäude zu Beginn der Steuerperiode mehr als zehn Jahre alt ist.
 
 <sup>3</sup> Ein Pauschalabzug ist ausgeschlossen, wenn die Liegenschaft von Dritten vorwiegend geschäftlich genutzt wird.
 
@@ -98,20 +107,14 @@ beschliesst:
 
 #### Artikel 7
 
-**Zeitpunkt des Abzugs**
-
-<sup>1</sup> Die tatsächlichen Kosten für den Unterhalt des Grundstücks nach Artikel 6 Absatz 4 sind in der Steuerperiode der Rechnungstellung zum Abzug zugelassen. Das Zahlungsdatum ist somit nicht massgebend.
+Zeitpunkt des Abzugs Die tatsächlichen Kosten für den Unterhalt des Grundstücks nach Artikel 6 Absatz 4 sind in der Steuerperiode der Rechnungstellung zum Abzug zugelassen. Das Zahlungsdatum ist somit nicht massgebend.
 
 #### Artikel 8
 
-**Aufhebung der Weisung**
-
-<sup>1</sup> Die Weisung über den Abzug der Kosten für Liegenschaften des Privatvermögens vom 22. Februar 2005, gültig ab Steuerperiode 2004, wird durch dieses Reglement ersetzt.
+Aufhebung der Weisung Die Weisung über den Abzug der Kosten für Liegenschaften des Privatvermögens vom 22. Februar 2005, gültig ab Steuerperiode 2004, wird durch dieses Reglement ersetzt.
 
 #### Artikel 9
 
-**Inkrafttreten**
+Inkrafttreten Dieses Reglement tritt rückwirkend auf den 1. Januar 2020 in Kraft. Im Namen des Regierungsrats
 
-<sup>1</sup> Dieses Reglement tritt rückwirkend auf den 1. Januar 2020 in Kraft.
-
-AB 24.01.2020
+Der Landammann: Roger Nager Der Kanzleidirektor: Roman Balli
