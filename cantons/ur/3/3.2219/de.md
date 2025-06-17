@@ -1,39 +1,43 @@
 ---
 canton: UR
 number: "3.2219"
-title: Reglement über den allgemeinen Steuerbezug und das Abrechnungsverfahren
+title: REGLEMENT über den allgemeinen Steuerbezug und das Abrechnungsverfahren
 short: "Steuerbezugsreglement, BezR"
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-06-18
 version_adopted: 2024-11-05
 adopted: 2018-12-04
 in_force: 2019-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2219"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/415/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/103/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den allgemeinen Steuerbezug und das Abrechnungsverfahren
+# REGLEMENT über den allgemeinen Steuerbezug und das Abrechnungsverfahren
 
-(Steuerbezugsreglement, BezR)
+REGLEMENT über den allgemeinen Steuerbezug und das Abrechnungsverfahren (Steuerbezugsreglement, BezR)
 
-Vom 04.12.2018 (Stand 01.01.2025)
+(vom 4. Dezember 2018[^t-1]; Stand am 1. Januar 2025)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 224 und Artikel 270 des Gesetzes vom 26. September 2010 über die direkten Steuern im Kanton Uri (RB [3.2211](https://rechtsbuch.ur.ch/data/3.2211/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 224 und Artikel 270 des Gesetzes vom 26. September 2010 über die direkten Steuern im Kanton Uri[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+[^t-1]: AB vom 27. Dezember 2018
+[^t-2]: RB 3.2211
+
+### 1. Abschnitt:
 
 #### Artikel 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement findet Anwendung auf den Bezug für alle im Gesetz über die direkten Steuern im Kanton Uri geregelten Steuern, Zinsen, Bussen, Gebühren und Kosten.
+Dieses Reglement findet Anwendung auf den Bezug für alle im Gesetz über die direkten Steuern im Kanton Uri geregelten Steuern, Zinsen, Bussen, Gebühren und Kosten.
 
 #### Artikel 2
 
@@ -41,25 +45,40 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Verwaltung der Einwohnergemeinde bezieht für den Kanton, die Einwohnergemeinden und die Landeskirchen oder deren Kirchgemeinden:
 
-- a) die Einkommens- und Vermögenssteuern der natürlichen Personen
-- b) die Kopfsteuern
-- c) die Minimalsteuern auf Grundstücken
-- d) die Sondersteuern auf Liquidationsgewinnen
-- e) die Nachsteuern und die Steuerbussen der natürlichen Personen
-- f) die Steuern auf Kapitalleistungen aus Vorsorge
-- g) …
-- h) die Zinsen, Bussen und Gebühren im Zusammenhang mit Forderungen nach diesem Absatz
+- a) die Einkommens- und Vermögenssteuern der natürlichen Personen;
 
-<sup>2</sup> Das Amt für Finanzen bezieht für den Kanton, die Einwohnergemeinden und die Landeskirchen oder deren Kirchgemeinden:
+- b) die Kopfsteuern;
 
-- a) die Gewinn- und Kapitalsteuern der juristischen Personen
-- b) die Grundstückgewinnsteuern
-- c) die Erbschafts- und Schenkungssteuern
-- d) die Nachsteuern und die Steuerbussen der juristischen Personen
-- e) die Zinsen, Bussen und Gebühren im Zusammenhang mit Forderungen nach diesem Absatz
-- f) die Quellensteuern
+- c) die Minimalsteuern auf Grundstücken;
 
-## 2 Rechnungsstellung und Bezugsverfahren
+- d) die Sondersteuern auf Liquidationsgewinnen;
+
+- e) die Nachsteuern und die Steuerbussen der natürlichen Personen;
+
+- f) die Steuern auf Kapitalleistungen aus Vorsorge;
+
+- g) ...[^2-1]
+
+- h) die Zinsen, Bussen und Gebühren im Zusammenhang mit Forderungen nach diesem Absatz.
+
+2 Das Amt für Finanzen bezieht für den Kanton, die Einwohnergemeinden und die Landeskirchen oder deren Kirchgemeinden:
+
+- a) die Gewinn- und Kapitalsteuern der juristischen Personen;
+
+- b) die Grundstückgewinnsteuern;
+
+- c) die Erbschafts- und Schenkungssteuern;
+
+- d) die Nachsteuern und die Steuerbussen der juristischen Personen;
+
+- e) die Zinsen, Bussen und Gebühren im Zusammenhang mit Forderungen nach diesem Absatz;
+
+- f) die Quellensteuern.[^2-2]
+
+[^2-1]: Aufgehoben gemäss RRB vom 17. November 2020, in Kraft gesetzt auf den 1. Januar
+[^2-2]: Eingefügt durch RRB vom 17. November 2020, in Kraft gesetzt auf den 1. Januar 2021
+
+### 2. Abschnitt: Rechnungsstellung und Bezugsverfahren
 
 #### Artikel 3
 
@@ -75,8 +94,9 @@ beschliesst:
 
 <sup>1</sup> Bei periodisch geschuldeten Steuern werden mit der Schlussrechnung die Ausgleichszinsen berechnet. Die vor dem 31. Oktober bezahlten Kantons-, Gemeinde- und Kirchensteuern werden ab Zahlungsdatum bis 31. Oktober mit dem Ausgleichszins verzinst:
 
-- a) Auf zu viel bezahlten Steuern wird ab 1. November bis zur Rückzahlung des zu viel bezahlten Betrags ebenfalls der Ausgleichszins gewährt
-- b) Auf zu wenig bezahlten Kantons-, Gemeinde- und Kirchensteuern wird der steuerpflichtigen Person der Ausgleichzins ab 1. November bis zum Datum der Schlussrechnung belastet
+- a) Auf zu viel bezahlten Steuern wird ab 1. November bis zur Rückzahlung des zu viel bezahlten Betrags ebenfalls der Ausgleichszins gewährt;
+
+- b) Auf zu wenig bezahlten Kantons-, Gemeinde- und Kirchensteuern wird der steuerpflichtigen Person der Ausgleichzins ab 1. November bis zum Datum der Schlussrechnung belastet.
 
 <sup>2</sup> Bei den übrigen Steuern erhält die steuerpflichtige Person für die vorzeitigen Zahlungen und auf zu viel bezahlten Beträgen einen Vergütungszins.
 
@@ -94,7 +114,7 @@ beschliesst:
 
 #### Artikel 6
 
-**Mahn- und weitere Gebühren**
+<sup>5</sup> Mahn- und weitere Gebühren
 
 <sup>1</sup> Für die zweite und jede weitere Mahnung beträgt die Gebühr je 30 Franken.
 
@@ -108,7 +128,7 @@ beschliesst:
 
 <sup>1</sup> Die Bezugsbehörden führen für jede steuerpflichtige Person pro Steuerperiode ein Steuerkonto. Bei sekundären Steuerdomizilen wird ein zusätzliches Steuerkonto geführt.
 
-<sup>2</sup> Das Steuerkonto gibt Auskunft über sämtliche Gutschriften, Belastungen und Umbuchungen von Kantons-, Gemeinde- und Kirchensteuern sowie Zinsen, Bussen, Kosten und Gebühren der betreffenden Steuerperiode.
+2 Das Steuerkonto gibt Auskunft über sämtliche Gutschriften, Belastungen und Umbuchungen von Kantons-, Gemeinde- und Kirchensteuern sowie Zinsen, Bussen, Kosten und Gebühren der betreffenden Steuerperiode.
 
 #### Artikel 8
 
@@ -122,7 +142,7 @@ beschliesst:
 
 **Teilweise einbringliche Beträge**
 
-<sup>1</sup> Nur teilweise eingebrachte Steuerbeträge sind im Verhältnis der definitiven Steuerbeträge auf die anspruchsberechtigten Steuerhoheiten aufzuteilen.
+Nur teilweise eingebrachte Steuerbeträge sind im Verhältnis der definitiven Steuerbeträge auf die anspruchsberechtigten Steuerhoheiten aufzuteilen.
 
 #### Artikel 10
 
@@ -130,13 +150,15 @@ beschliesst:
 
 <sup>1</sup> Die Bezugsbehörden fordern geringfügige Steuerbeträge einschliesslich Zinsen, Bussen und Gebühren nicht ein, wenn sie gesamthaft 20 Franken nicht übersteigen. Diese Beträge sind zugunsten der steuerpflichtigen Person auszubuchen.
 
-<sup>2</sup> Geringfügige Steuerguthaben zugunsten der steuerpflichtigen Person sind auszubuchen, wenn sie gesamthaft 5 Franken nicht übersteigen.
+<sup>2</sup> Geringfügige Steuerguthaben zugunsten der steuerpflichtigen Person sind auszubuchen, wenn sie gesamthaft 5 Franken nicht übersteigen.[^10-1]
 
-## 3 Abrechnungsverfahren
+[^10-1]: Eingefügt durch RRB vom 7. November 2023, in Kraft gesetzt auf den 1. Januar 2024 (AB vom 17. November 2023).
+
+### 3. Abschnitt: Abrechnungsverfahren
 
 #### Artikel 11
 
-**Ablieferung und Abrechnung**
+<sup>7</sup> Ablieferung und Abrechnung
 
 <sup>1</sup> Das Amt für Finanzen ist für die rechtzeitige Ablieferung der Steuern an die Einwohnergemeinden und die Kirchgemeinden verantwortlich.
 
@@ -150,33 +172,74 @@ beschliesst:
 
 <sup>6</sup> Fällt der 5. oder 20. des Monats auf einen Samstag, auf einen Sonntag oder staatlich anerkannten Feiertag, wird der Betrag am Werktag danach überwiesen. Im Januar kann im Zusammenhang mit dem Jahresabschluss ein anderer Ablieferungsmodus zur Anwendung kommen. Die Gemeinden sind darüber rechtzeitig zu informieren.
 
-## 4 Schlussbestimmung
+### 4. Abschnitt: Schlussbestimmung
 
 #### Artikel 12
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2019 in Kraft.
+Dieses Reglement tritt am 1. Januar 2019 in Kraft.
 
-## A1 Anhang 1: Ausgleichs-, Vergütungs- und Verzugszinsen
+Im Namen des Regierungsrats
 
-#### Artikel A1-1
+Der Landammann: Roger Nager Der Kanzleidirektor: Roman Balli
 
-<sup>1</sup> Ausgleichs-, Vergütungs- und Verzugszinsen:
+### Anhang:
 
-<table>
-<tr><th>Jahr</th><th>Ausgleichs- und Vergütungszins</th><th>Verzugszins</th></tr>
-<tr><td>2025</td><td>0.5%</td><td>4.0%</td></tr>
-<tr><td>2024</td><td>1.0%</td><td>4.5%</td></tr>
-<tr><td>2023</td><td>0.25%</td><td>4.0%</td></tr>
-<tr><td>2022</td><td>0.25%</td><td>4.0%</td></tr>
-<tr><td>2021</td><td>0.25%</td><td>4.0%</td></tr>
-<tr><td>2020</td><td>0.25%</td><td>4.0%</td></tr>
-<tr><td>2019</td><td>0.5%</td><td>4.0%</td></tr>
-<tr><td>2018</td><td>0.5%</td><td>4.0%</td></tr>
-<tr><td>2017</td><td>0.5%</td><td>4.0%</td></tr>
-<tr><td>2016</td><td>0.5%</td><td>4.0%</td></tr>
-<tr><td>2015</td><td>1.0%</td><td>4.5%</td></tr>
-</table>
+- Ausgleichs-, Vergütungs- und Verzugszinsen
 
-AB 27.12.2018
+**Anhang8**
+
+### Ausgleichs-, Vergütungs- und Verzugszinsen
+
+**Jahr**
+
+**Verzugszins**
+
+### Ausgleichs- und Vergütungszins
+
+**2025**
+
+**4,0%**
+
+**2024**
+
+**4,5 %**
+
+**2023**
+
+**4,0 %**
+
+**2022**
+
+**4,0 %**
+
+**2021**
+
+**4,0 %**
+
+**2020**
+
+**4,0 %**
+
+**2019**
+
+**4,0 %**
+
+**2018**
+
+**4,0 %**
+
+**2017**
+
+**4,0 %**
+
+**2016**
+
+**4,0 %**
+
+**2015**
+
+**4,5 %**
+
+0,5% 1,0 % 0,25 % 0,25 % 0,25 % 0,25 % 0,5 % 0,5 % 0,5 % 0,5 % 1,0 %
