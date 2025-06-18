@@ -3,11 +3,11 @@ sr: "0.311.43"
 title: Convention du 23 novembre 2001 sur la cybercriminalité
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/888"
 language: fr
-version: 2024-07-16
+version: 2025-06-19
 adopted: 2001-11-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-2011-888-20240716-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20240716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20250619/fr/xml/fedlex-data-admin-ch-eli-cc-2011-888-20250619-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20250619/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Budapest le 23 novembre 2001 Approuvée par l’Assemblée fédérale le 18 mars 2011[^t-1] Instrument de ratification déposé par la Suisse le 21 septembre 2011 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2012
 
-(État le 16 juillet 2024)
+(État le 19 juin 2025)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 18 mars 2011 ([RO 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887)).
 
@@ -62,12 +62,12 @@ prenant également en compte le plan d’action adopté par les chefs d’État 
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
-[^ingress-4]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-5]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-6]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [RS 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
+[^ingress-4]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-5]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-6]: [RS 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 
 ## Chapitre I Terminologie
 
@@ -201,11 +201,11 @@ Aux fins du par. 1 ci-dessus, le terme «pornographie enfantine» comprend toute
 
 <sup>3</sup> Une Partie peut, dans des circonstances bien délimitées, se réserver le droit de ne pas imposer de responsabilité pénale au titre des par. 1 et 2 du présent article, à condition que d’autres recours efficaces soient disponibles et qu’une telle réserve ne porte pas atteinte aux obligations internationales incombant à cette Partie en application des instruments internationaux mentionnés aux par. 1 et 2 du présent article.
 
-[^10-1]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
-[^10-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1.C
-[^10-3]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^10-4]: [RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
-[^10-5]: [RS 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
+[^10-1]: [RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
+[^10-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1C
+[^10-3]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^10-4]: [RS 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
+[^10-5]: [RS 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
 
 ### Titre 5 Autres formes de responsabilité et de sanctions
 
@@ -467,7 +467,7 @@ Les Parties coopèrent les unes avec les autres, conformément aux dispositions 
 - <sup>7</sup> a. Chaque Partie communique au Secrétaire Général du Conseil de l’Europe, au moment de la signature ou du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le nom et l’adresse de chaque autorité responsable de l’envoi ou de la réception d’une demande d’extradition ou d’arrestation provisoire, en l’absence de traité.
 - b. Le Secrétaire Général du Conseil de l’Europe établit et tient à jour un registre des autorités ainsi désignées par les Parties. Chaque Partie doit veiller en permanence à l’exactitude des données figurant dans le registre.
 
-[^24-1]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^24-1]: [RS 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 ### Titre 3 Principes généraux relatifs à l’entraide
 
@@ -701,7 +701,7 @@ L’objet de la présente Convention est de compléter les traités ou les accor
 
 <sup>3</sup> Rien dans la présente Convention n’affecte d’autres droits, restrictions, obligations et responsabilités d’une Partie.
 
-[^39-1]: [RS 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)
+[^39-1]: [RS 0.353.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1402)
 
 #### Art. 40
 
@@ -799,7 +799,7 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Budapest, le 23 novembre 2001, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres qui ont participé à l’élaboration de la Convention et à tout État invité à y adhérer. (Suivent les signatures)
 
-Champ d’application le 16 juillet 2024[^t-2]
+Champ d’application le 19 juin 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -823,8 +823,10 @@ Champ d’application le 16 juillet 2024[^t-2]
 <tr><td>Chypre</td><td>19 janvier</td><td>2005</td><td>1<sup>er</sup> mai</td><td>2005</td></tr>
 <tr><td>Colombie\*</td><td>16 mars</td><td>2020 A</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
 <tr><td>Costa Rica\*</td><td>22 septembre</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>29 juillet</td><td>2024 A</td><td>1<sup>er</sup> novembre</td><td>2024</td></tr>
 <tr><td>Croatie</td><td>17 octobre</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>21 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
+<tr><td>Équateur</td><td>12 décembre</td><td>2024 A</td><td>1<sup>er</sup> avril</td><td>2025</td></tr>
 <tr><td>Espagne\*</td><td>3 juin</td><td>2010</td><td>1<sup>er</sup> octobre</td><td>2010</td></tr>
 <tr><td>Estonie</td><td>12 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>États-Unis\*</td><td>29 septembre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
@@ -856,6 +858,7 @@ Champ d’application le 16 juillet 2024[^t-2]
 <tr><td>Norvège\*</td><td>30 juin</td><td>2006</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Panama\*</td><td>5 mars</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
 <tr><td>Pays-Bas <sup>b</sup></td><td>16 novembre</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
+<tr><td>Curaçao\*</td><td>1<sup>er</sup> octobre</td><td>2024</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
 <tr><td>Pérou\*</td><td>26 août</td><td>2019 A</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
 <tr><td>Pologne\*</td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Portugal\*</td><td>24 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
@@ -863,7 +866,9 @@ Champ d’application le 16 juillet 2024[^t-2]
 <tr><td>République tchèque\*</td><td>22 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
 <tr><td>Roumanie</td><td>12 mai</td><td>2004</td><td>1<sup>er</sup> septembre</td><td>2004</td></tr>
 <tr><td>Royaume-Uni\*</td><td>25 mai</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
+<tr><td>Rwanda\*</td><td>10 janvier</td><td>2025 A</td><td>1<sup>er</sup> mai</td><td>2025</td></tr>
 <tr><td>Saint-Marin\*</td><td>8 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
+<tr><td>Sao Tomé-et-Principe\*</td><td>5 juin</td><td>2025 A</td><td>1<sup>er</sup> octobre</td><td>2025</td></tr>
 <tr><td>Sénégal\*</td><td>16 décembre</td><td>2016</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
 <tr><td>Serbie</td><td>14 avril</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Sierra Leone\*</td><td>19 avril</td><td>2024 A</td><td>1<sup>er</sup> août</td><td>2024</td></tr>
@@ -876,10 +881,11 @@ Champ d’application le 16 juillet 2024[^t-2]
 <tr><td>Tunisie\*</td><td>8 mars</td><td>2024 A</td><td>1<sup>er</sup> juillet</td><td>2024</td></tr>
 <tr><td>Turquie\*</td><td>29 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
 <tr><td>Ukraine\*</td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> La Convention ne s’applique qu’au Royaume en Europe.</td></tr>
+<tr><td>Vanuatu\*</td><td>5 juin</td><td>2025 A</td><td>1<sup>er</sup> octobre</td><td>2025</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.conventions.coe.int](https://www.coe.int/en/web/conventions/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> La Convention ne s’applique qu’au Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366); [2025 435](https://fedlex.data.admin.ch/eli/oc/2025/435). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

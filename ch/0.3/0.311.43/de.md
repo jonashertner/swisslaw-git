@@ -3,11 +3,11 @@ sr: "0.311.43"
 title: Übereinkommen vom 23. November 2001 über die Cyberkriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/888"
 language: de
-version: 2024-07-16
+version: 2025-06-19
 adopted: 2001-11-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20240716/de/xml/fedlex-data-admin-ch-eli-cc-2011-888-20240716-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20240716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20250619/de/xml/fedlex-data-admin-ch-eli-cc-2011-888-20250619-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20250619/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. September 2011
 
 In Kraft getreten für die Schweiz am 1. Januar 2012
 
-(Stand am 16. Juli 2024)
+(Stand am 19. Juni 2025)
 
 [^t-1]: Aufgrund der mittlerweile eingetretenen Gebräuchlichkeit und der technologischen Entwicklung im Bereich der Datenbearbeitung und -übertragung wird beim deutschsprachigen Titel des Übereinkommens von der im Jahre 2003 gemeinsam mit Deutschland und Österreich erarbeiteten Version («Übereinkommen über Computerkriminalität») abgewichen.
 [^t-2]: Art. 1 Abs. 1 des BB vom 18. März 2011 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887))
@@ -69,12 +69,12 @@ ferner im Hinblick auf den Aktionsplan, den die Staats- und Regierungschefs des 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [SR 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
-[^ingress-4]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-5]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-6]: [SR 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [SR 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
+[^ingress-4]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-5]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-6]: [SR 0.351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1352)
 
 ## Kapitel I: Begriffsbestimmungen
 
@@ -205,11 +205,11 @@ Im Sinne des Absatzes 1 umfasst der Ausdruck «Kinderpornographie» pornographis
 
 <sup>3</sup> Eine Vertragspartei kann sich das Recht vorbehalten, eine strafrechtliche Verantwortlichkeit nach den Absätzen 1 und 2 unter einer begrenzten Zahl von Umständen nicht vorzusehen, sofern andere wirksame Abhilfen zur Verfügung stehen und dieser Vorbehalt die internationalen Verpflichtungen dieser Vertragspartei aus den in den Absätzen 1 und 2 genannten völkerrechtlichen Übereinkünften nicht beeinträchtigt.
 
-[^10-1]: [SR 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
-[^10-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.C
-[^10-3]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^10-4]: [SR 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
-[^10-5]: [SR 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
+[^10-1]: [SR 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
+[^10-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
+[^10-3]: [SR 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^10-4]: [SR 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
+[^10-5]: [SR 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
 
 ### Titel 5: Weitere Formen der Verantwortlichkeit und Sanktionen
 
@@ -467,7 +467,7 @@ Die Vertragsparteien arbeiten untereinander im Einklang mit diesem Kapitel im gr
 - <sup>7</sup> a. Jede Vertragspartei teilt dem Generalsekretär des Europarats bei der Unterzeichnung oder bei der Hinterlegung ihrer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde die Bezeichnung und Anschrift jeder Behörde mit, die, falls kein Vertrag besteht, für die Stellung oder Entgegennahme eines Ersuchens um Auslieferung oder vorläufige Verhaftung zuständig ist.
 - b. Der Generalsekretär des Europarats erstellt und aktualisiert ein Verzeichnis der von den Vertragsparteien so bestimmten Behörden. Jede Vertragspartei stellt sicher, dass die in dem Verzeichnis enthaltenen Angaben stets richtig sind.
 
-[^24-1]: [SR 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^24-1]: [SR 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 ### Titel 3: Allgemeine Grundsätze der Rechtshilfe
 
@@ -701,7 +701,7 @@ Zweck dieses Übereinkommens ist es, die zwischen den Vertragsparteien bestehend
 
 <sup>3</sup> Dieses Übereinkommen lässt andere Rechte, Beschränkungen, Pflichten und Verantwortlichkeiten einer Vertragspartei unberührt.
 
-[^39-1]: [SR 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^39-1]: [SR 0.353.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1400)
 
 #### Art. 40
 
@@ -799,7 +799,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Budapest am 23. November 2001 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung des Übereinkommens beteiligt haben, sowie allen zum Beitritt zu diesem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. Juli 2024[^t-3]
+Geltungsbereich am 19. Juni 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -816,9 +816,11 @@ Geltungsbereich am 16. Juli 2024[^t-3]
 <tr><td>Bulgarien\*</td><td>7. April</td><td>2005</td><td>1. August</td><td>2005</td></tr>
 <tr><td>Chile\*</td><td>20. April</td><td>2017</td><td>1. August</td><td>2017</td></tr>
 <tr><td>Costa Rica\*</td><td>22. September</td><td>2017 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>29. Juli</td><td>2024 B</td><td>1. November</td><td>2024</td></tr>
 <tr><td>Dänemark\* <sup>a</sup></td><td>21. Juni</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
 <tr><td>Deutschland\*</td><td>9. März</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
 <tr><td>Dominikanische Republik<sup>\*</sup></td><td>7. Februar</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Ecuador</td><td>12. Dezember</td><td>2024 B</td><td>1. April</td><td>2025</td></tr>
 <tr><td>Estland</td><td>12. Mai</td><td>2003</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Fidschi\*</td><td>20. Juni</td><td>2024 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Finnland\*</td><td>24. Mai</td><td>2007</td><td>1. September</td><td>2007</td></tr>
@@ -849,6 +851,7 @@ Geltungsbereich am 16. Juli 2024[^t-3]
 <tr><td>Monaco\*</td><td>17. März</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Montenegro\*</td><td>3. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Niederlande <sup>b</sup></td><td>16. November</td><td>2006</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Curaçao\*</td><td>1. Oktober</td><td>2024</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Nigeria\*</td><td>6. Juni</td><td>2022 B</td><td>1. November</td><td>2022</td></tr>
 <tr><td>Norwegen\*</td><td>30. Juni</td><td>2006</td><td>1. Oktober</td><td>2006</td></tr>
 <tr><td>Österreich<sup>\*</sup></td><td>13. Juni</td><td>2012</td><td>1. Oktober</td><td>2012</td></tr>
@@ -856,8 +859,10 @@ Geltungsbereich am 16. Juli 2024[^t-3]
 <tr><td>Peru<sup>\*</sup></td><td>26. August</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Polen<sup>\*</sup></td><td>20. Februar</td><td>2015</td><td>1. Juni</td><td>2015</td></tr>
 <tr><td>Portugal\*</td><td>24. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Ruanda\*</td><td>10. Januar</td><td>2025 B</td><td>1. Mai</td><td>2025</td></tr>
 <tr><td>Rumänien</td><td>12. Mai</td><td>2004</td><td>1. September</td><td>2004</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>8. März</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
+<tr><td>São Tomé und Príncipe\*</td><td>5. Juni</td><td>2025 B</td><td>1. Oktober</td><td>2025</td></tr>
 <tr><td>Schweden\*</td><td>28. April</td><td>2021</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Schweiz\*</td><td>21. September</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Senegal\*</td><td>16. Dezember</td><td>2016</td><td>1. April</td><td>2017</td></tr>
@@ -873,15 +878,16 @@ Geltungsbereich am 16. Juli 2024[^t-3]
 <tr><td>Türkei<sup>\*</sup></td><td>29. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>10. März</td><td>2006</td><td>1. Juli</td><td>2006</td></tr>
 <tr><td>Ungarn\*</td><td>4. Dezember</td><td>2003</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Vanuatu\*</td><td>5. Juni</td><td>2025 B</td><td>1. Oktober</td><td>2025</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>29. September</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>25. Mai</td><td>2011</td><td>1. September</td><td>2011</td></tr>
 <tr><td>Zypern</td><td>19. Januar</td><td>2005</td><td>1. Mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [https://conventions.coe.int](https://www.coe.int/en/web/conventions/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Färöer-Inseln und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nur für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-3]: [AS 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366); [2025 435](https://fedlex.data.admin.ch/eli/oc/2025/435). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
