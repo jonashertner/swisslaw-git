@@ -4,13 +4,12 @@ number: "510.110"
 title: Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2024-04-01
-valid_until: 2025-06-18
-version_adopted: 2024-03-12
+version: 2025-06-19
+version_adopted: 2025-06-10
 adopted: 1997-06-03
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6191/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Polizeiverordnung | Polizei[^t-1]
 
 (Polizeiverordnung, PolV)
 
-Vom 3. Juni 1997 (Stand 1. April 2024)
+Vom 3. Juni 1997 (Stand 19. Juni 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -29,8 +28,8 @@ gestützt auf die §§ 63 Abs. 4, 67 Abs. 2, 71 Abs. 4 und 72 Abs. 1 des Gesetze
 
 beschliesst:
 
-[^t-1]: Infolge Regierungs- und Verwaltungsreform RV09 sind etliche Zuständigkeiten innerhalb der kantonalen Verwaltung geändert worden. Mit der Zuständigkeitsverordnung vom 9. 12. 2008, § 3 Ziff. 51 (wirksam seit 1. 1. 2009, publiziert am 18. 3. 2009, SG 153.110) ist die vorliegende V an die damals neuen Zuständigkeitsregelungen angepasst worden (betr. §§ 1 Abs. 2; 18 Abs. 1 Ziff. 3 Lemma 1 und 4 sowie Abs. 3).
-[^ingress-1]: SG [510.100](https://www.gesetzessammlung.bs.ch/data/510.100/de).
+[^t-1]: Infolge Regierungs- und Verwaltungsreform RV09 sind Zuständigkeiten innerhalb der kantonalen Verwaltung geändert worden. Mit der Zuständigkeitsverordnung vom 9. 12. 2008, § 3 Ziff. 51 (in Kraft seit 1. 1. 2009, publiziert am 18. 3. 2009, SG 153.110) ist die vorliegende Verordnung an die damals neuen Zuständigkeitsregelungen angepasst worden (betr. §§ 1 Abs. 2; 18 Abs. 1 Ziff. 3 Lemma 1 und 4 sowie Abs. 3).
+[^ingress-1]: SG [510.100](https://www.gesetzessammlung.bs.ch/data/510.100/de)
 
 ## I. Organisation und Dienstrecht
 
@@ -141,6 +140,12 @@ beschliesst:
 #### § 8
 
 **…**
+
+## I<sup>bis</sup> Grenzüberschreitender Polizeieinsatz
+
+#### § 8b
+
+<sup>1</sup> Die Vorsteherin oder der Vorsteher des Justiz- und Sicherheitsdepartements kann selbstständig über die Entsendung von eigenen oder die Anforderung von ausserkantonalen Kräften nach § 16 PolG entscheiden, sofern die entsendete bzw. die angeforderte Personenzahl 70 Mitarbeitende nicht übersteigt.
 
 ## II. Polizeiliche Massnahmen und polizeilicher Zwang
 
