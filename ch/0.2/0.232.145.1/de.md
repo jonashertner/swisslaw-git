@@ -3,11 +3,11 @@ sr: "0.232.145.1"
 title: Budapester Vertrag vom 28. April 1977 über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262"
 language: de
-version: 2022-08-30
+version: 2025-06-19
 adopted: 1977-04-28
 in_force: 1981-08-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20220830/de/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20220830-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20220830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20250619/de/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20250619-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20250619/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen in Budapest am 28. April 1977 Von der Bundesversammlung genehmigt am 10. März 1981[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 19. Mai 1981 In Kraft getreten für die Schweiz am 19. August 1981
 
-(Stand am 30. August 2022)
+(Stand am 19. Juni 2025)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 18 Abs. 1 Bst. c
 [^t-2]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262)
@@ -37,7 +37,7 @@ Die Staaten, die Vertragsparteien dieses Vertrags sind (im folgenden als «Vertr
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Vertrags und der Ausführungsordnung
+Im Sinne dieses Vertrags und der Ausführungsordnung:
 
 - i) sind Bezugnahmen auf ein «Patent» zu verstehen als Bezugnahmen auf Erfindungspatente, auf Erfinderscheine, auf Gebrauchszertifikate, auf Gebrauchsmuster, auf Zusatzpatente oder ‑zertifikate, auf Zusatzerfinderscheine und auf Zusatzgebrauchszertifikate;
 - ii) bedeutet «Hinterlegung eines Mikroorganismus» je nach dem Zusammenhang, in dem diese Worte erscheinen, die folgenden im Einklang mit diesem Vertrag und der Ausführungsordnung vorgenommenen Handlungen: die Übermittlung eines Mikroorganismus an eine internationale Hinterlegungsstelle, die ihn empfängt und annimmt, oder die Aufbewahrung eines solchen Mikroorganismus durch die internationale Hinterlegungsstelle oder sowohl die genannte Übermittlung als auch die genannte Aufbewahrung;
@@ -331,16 +331,18 @@ Der Generaldirektor notifiziert den Vertragsstaaten, den zwischenstaatlichen Org
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diesen Vertrag unterschrieben. Geschehen zu Budapest am achtundzwanzigsten April neunzehnhundertsiebenundsiebzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 30. August 2022[^t-3]
+Geltungsbereich am 19. Juni 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afrikanische Organisation für Geistiges Eigentum (OAPI)\*</td><td>15. Dezember</td><td>2022</td><td>15. März</td><td>2023</td></tr>
 <tr><td>Afrikanische Regionale Organisation für geistiges Eigentum (ARIPO)\*</td><td>10. August</td><td>1998</td><td>10. November</td><td>1998</td></tr>
 <tr><td>Albanien</td><td>19. Juni</td><td>2003 B</td><td>19. September</td><td>2003</td></tr>
 <tr><td>Antigua und Barbuda</td><td>25. März</td><td>2019 B</td><td>25. Juni</td><td>2019</td></tr>
 <tr><td>Armenien</td><td>6. Dezember</td><td>2004 B</td><td>6. März</td><td>2005</td></tr>
 <tr><td>Aserbaidschan</td><td>14. Juli</td><td>2003 B</td><td>14. Oktober</td><td>2003</td></tr>
 <tr><td>Australien</td><td>7. April</td><td>1987 B</td><td>7. Juli</td><td>1987</td></tr>
+<tr><td>Bahamas</td><td>3. Juni</td><td>2025 B</td><td>3. September</td><td>2025</td></tr>
 <tr><td>Bahrain</td><td>20. August</td><td>2012 B</td><td>20. November</td><td>2012</td></tr>
 <tr><td>Belarus</td><td>19. Juli</td><td>2001 B</td><td>19. Oktober</td><td>2001</td></tr>
 <tr><td>Belgien</td><td>15. September</td><td>1983 B</td><td>15. Dezember</td><td>1983</td></tr>
@@ -402,10 +404,12 @@ Geltungsbereich am 30. August 2022[^t-3]
 <tr><td>Oman</td><td>16. Juli</td><td>2007 B</td><td>16. Oktober</td><td>2007</td></tr>
 <tr><td>Österreich</td><td>26. Januar</td><td>1984</td><td>26. April</td><td>1984</td></tr>
 <tr><td>Panama</td><td>7. Juni</td><td>2012 B</td><td>7. September</td><td>2012</td></tr>
+<tr><td>Paraguay</td><td>5. Mai</td><td>2023 B</td><td>5. August</td><td>2023</td></tr>
 <tr><td>Peru</td><td>20. Oktober</td><td>2008 B</td><td>20. Januar</td><td>2009</td></tr>
 <tr><td>Philippinen</td><td>21. Juli</td><td>1981 B</td><td>21. Oktober</td><td>1981</td></tr>
 <tr><td>Polen</td><td>22. Juni</td><td>1993 B</td><td>22. September</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>16. Juli</td><td>1997 B</td><td>16. Oktober</td><td>1997</td></tr>
+<tr><td>Ruanda</td><td>4. September</td><td>2023 B</td><td>4. Dezember</td><td>2023</td></tr>
 <tr><td>Rumänien</td><td>25. Juni</td><td>1999 B</td><td>25. September</td><td>1999</td></tr>
 <tr><td>Russland</td><td>22. Januar</td><td>1981</td><td>22. April</td><td>1981</td></tr>
 <tr><td>Saudi-Arabien</td><td>16. Oktober</td><td>2020 B</td><td>16. Januar</td><td>2021</td></tr>
@@ -424,6 +428,7 @@ Geltungsbereich am 30. August 2022[^t-3]
 <tr><td>Türkei</td><td>31. August</td><td>1998 B</td><td>30. November</td><td>1998</td></tr>
 <tr><td>Ukraine</td><td>2. April</td><td>1997 B</td><td>2. Juli</td><td>1997</td></tr>
 <tr><td>Ungarn</td><td>11. Juli</td><td>1978</td><td>19. August</td><td>1980</td></tr>
+<tr><td>Uruguay</td><td>7. Oktober</td><td>2024 B</td><td>7. Januar</td><td>2025</td></tr>
 <tr><td>Usbekistan</td><td>12. Oktober</td><td>2001 B</td><td>12. Januar</td><td>2002</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>17. Februar</td><td>2021 B</td><td>17. Mai</td><td>2021</td></tr>
 <tr><td>Vereinigte Staaten</td><td>24. September</td><td>1979</td><td>19. August</td><td>1980</td></tr>
@@ -432,7 +437,7 @@ Geltungsbereich am 30. August 2022[^t-3]
 <tr><td>Guernsey</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vietnam</td><td>1. März</td><td>2021 B</td><td>1. Juni</td><td>2021</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI &gt; Traité de Budapest](https://www.wipo.int/treaties/fr/registration/budapest), eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262); [1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221), [609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609); [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470); [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818); [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912), [1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604); [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544); [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674); [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220); [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105); [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482); [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206); [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407); [2021 610](https://fedlex.data.admin.ch/eli/oc/2021/610); [2022 482](https://fedlex.data.admin.ch/eli/oc/2022/482). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262); [1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221), [609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609); [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470); [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818); [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912), [1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604); [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544); [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674); [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220); [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105); [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482); [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206); [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407); [2021 610](https://fedlex.data.admin.ch/eli/oc/2021/610); [2022 482](https://fedlex.data.admin.ch/eli/oc/2022/482); [2025 418](https://fedlex.data.admin.ch/eli/oc/2025/418). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
