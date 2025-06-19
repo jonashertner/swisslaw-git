@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2025-03-07
+version: 2025-06-20
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250307/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250307-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250307/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250620/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250620-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 7 marzo 2025)
+dell’8 giugno 2012 (Stato 20 giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -141,25 +141,11 @@ Sottostanno all’obbligo di autorizzazione:
 
 [^7-1]: Abrogato dalla cifra I dell’O del 7 mar. 2025, con effetto il 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
-#### Art. 8
+#### Art. 8 e 9
 
-**Divieti concernenti metalli preziosi e diamanti**
+[^89-1]
 
-È vietato:
-
-- a. vendere, fornire, trasferire o esportare, direttamente o indirettamente, metalli preziosi e diamanti di cui all’allegato 6 al governo della Siria, ai suoi enti, imprese e agenzie pubbliche, alla Banca centrale della Siria e a qualsiasi persona, entità o organismo che agisca per loro conto o sotto la loro direzione, ovvero a qualsiasi entità o organismo da essi posseduti o controllati;
-- b. acquistare, importare o trasportare, direttamente o indirettamente, metalli preziosi e diamanti di cui all’allegato 6, indipendentemente che il prodotto in questione sia originario o meno della Siria, proveniente dal governo della Siria, dai suoi enti, imprese e agenzie pubbliche, dalla Banca centrale della Siria e da qualsiasi persona, entità o organismo che agisca per loro conto o sotto la loro direzione, ovvero da qualsiasi entità o organismo da essi posseduti o controllati;
-- c. mettere a disposizione servizi di intermediazione o mezzi finanziari alle attività di cui alle lettere a e b.
-
-#### Art. 9
-
-**Divieti concernenti la fornitura di beni di lusso**
-
-<sup>1</sup> Sono vietati la vendita, la fornitura, l’esportazione e il transito di beni di lusso di cui all’allegato 8 verso la Siria.
-
-<sup>2</sup> Il divieto di cui al capoverso 1 non si applica ai beni destinati all’uso personale di persone fisiche che si spostano dalla Svizzera o dei familiari diretti che le accompagnano, purché tali beni siano di loro proprietà.[^9-1]
-
-[^9-1]: Introdotto dalla cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^89-1]: Abrogati dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 9a
 
@@ -192,7 +178,7 @@ Il divieto di cui al capoverso 1 non si applica se si può dimostrare che:
 
 <sup>1</sup> Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo delle persone fisiche, delle imprese o delle organizzazioni menzionate nell’allegato 7.
 
-<sup>1bis</sup> Gli averi e le risorse economiche di proprietà o sotto il controllo delle imprese e delle organizzazioni menzionate nell’allegato 7*a* che si trovavano al di fuori della Siria in data 8 giugno 2012 sono bloccati.[^10-1]
+<sup>1bis</sup> ...[^10-1]
 
 <sup>2</sup> È vietato traferire averi alle persone fisiche, alle imprese e alle organizzazioni di cui al capoverso 1 oppure mettere altrimenti a disposizione, direttamente o indirettamente, averi e risorse economiche.[^10-2]
 
@@ -234,11 +220,11 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 - g.[^10-8] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
 - h.[^10-9] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
 
-<sup>4</sup> ...[^10-10]
+<sup>4</sup> La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 7 ai numeri SSID 200-12560 e 200-12565 oppure la messa a disposizione di determinati averi e risorse economiche a tali organizzazioni dopo aver stabilito che l’erogazione di tali averi o risorse è necessaria ai fini della cooperazione fra tali organizzazioni e organizzazioni o enti pubblici svizzeri nei settori della ricostruzione, dello sviluppo di capacità, della lotta al terrorismo o della migrazione.[^10-10]
 
-<sup>5</sup> La SECO autorizza le deroghe di cui ai capoversi 2<sup>ter</sup> e 3 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze.[^10-11]
+<sup>5</sup> La SECO autorizza le deroghe di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze.[^10-11]
 
-[^10-1]: Introdotto dalla cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-1]: Introdotto dalla cifra I dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 [^10-2]: Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 [^10-3]: Introdotto dalla cifra I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-4]: Introdotto dalla cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
@@ -247,108 +233,38 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 [^10-7]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-8]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-9]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-10]: Abrogato dalla cifra I dell’O del 7 mar. 2025, con effetto il 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^10-11]: Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-10]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^10-11]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-#### Art. 11
+#### Art. 11 e 12
 
-**Divieti concernenti la Banca Europea d’Investimento**
+[^1112-1]
 
-Sono vietati i pagamenti della Banca Europea d’Investimento relativi a contratti di mutuo esistenti con lo Stato siriano o un’autorità dello Stato siriano.
-
-#### Art. 12
-
-**Divieti concernenti le obbligazioni pubbliche o garantite dalle autorità pubbliche**
-
-<sup>1</sup>
-
-È vietato vendere o acquistare, direttamente o indirettamente, obbligazioni pubbliche siriane o garantite dalle autorità pubbliche siriane emesse dopo l’entrata in vigore della presente ordinanza:
-
-- a. alla Siria, al suo governo e ai suoi enti, imprese e agenzie pubblici;
-- b. alle banche siriane;
-- c. alle persone fisiche o giuridiche oppure a organizzazioni che agiscono per conto o sotto la direzione di una persona giuridica o di un’organizzazione di cui alla lettera a o b;
-- d. alle persone fisiche o giuridiche oppure a organizzazioni possedute o controllate da una persona o un’organizzazione di cui alla lettera a, b o c.
-
-<sup>2</sup> È vietato fornire servizi di intermediazione concernenti obbligazioni garantite da autorità pubbliche emesse dopo l’entrata in vigore della presente ordinanza a una persona o un’organizzazione di cui al capoverso 1.
-
-<sup>3</sup> È vietato assistere una persona o un’organizzazione di cui al capoverso 1 nell’emissione di obbligazioni pubbliche o garantite dalle autorità pubbliche prestando servizi di intermediazione, pubblicità o qualsiasi altro servizio relativo a dette obbligazioni.
+[^1112-1]: Abrogati dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 12a
 
-**Restrizione al sostegno finanziario al commercio**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> L’Assicurazione svizzera contro i rischi delle esportazioni non contrae impegni a medio e lungo termine a copertura di operazioni con la Siria.
-
-<sup>2</sup> Pone limitazioni allorché assume impegni a breve termine a copertura di operazioni con la Siria.
-
-[^12a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)). Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 13
 
-**Relazioni bancarie vietate con la Siria**
+[^13-1]
 
-<sup>1</sup>
-
-Alle banche è fatto divieto di:
-
-- a. aprire un conto presso una banca siriana;
-- b. aprire un nuovo conto di corrispondenza con una banca siriana;
-- c. aprire una rappresentanza, una succursale o una filiale in Siria;
-- d. costituire una joint venture con una banca siriana.
-
-<sup>2</sup>
-
-Alle banche siriane è fatto divieto di:
-
-- a. aprire una rappresentanza o costituire una succursale o una filiale;
-- b. acquisire una partecipazione o un qualsiasi altro diritto di proprietà in una banca.
-
-<sup>3</sup>
-
-I divieti di cui ai capoversi 1 e 2 non si applicano:
-
-- a. alle attività, comprese le attività accessorie, svolte allo scopo di assistere la popolazione siriana tramite l’inoltro tempestivo di assistenza umanitaria o il sostegno di altre attività a sostegno del soddisfacimento dei bisogni umani fondamentali, l’erogazione dei servizi di base o altri scopi civili;
-- b. alle attività, comprese le attività accessorie, svolte allo scopo di assistere la popolazione siriana tramite la ricostruzione, la stabilizzazione, il ripristino dell’attività economica, la creazione di istituzioni, l’erogazione dei servizi di base o altri scopi civili;
-- c.
-
-  alle attività svolte in relazione con:
-
-  - 1\. l’importazione di petrolio greggio o di prodotti petroliferi dalla Siria, l’acquisto di petrolio greggio o di prodotti petroliferi dalla Siria o il trasporto di petrolio greggio o di prodotti petroliferi dalla Siria,
-  - 2\. la partecipazione alla costruzione o all’installazione di nuove centrali per la produzione di energia elettrica in Siria,
-  - 3\. la costituzione di una joint venture con persone, entità o organismi siriani attivi nella prospezione, produzione o raffinazione di petrolio greggio o nella costruzione o installazione di nuove centrali elettriche per la produzione di energia elettrica in Siria, la concessione di prestiti a tali persone, entità o organismi oppure l’acquisizione o l’aumento di una partecipazione in tali persone, entità o organismi,
-  - 4\. la vendita, il trasferimento o l’esportazione di carburante per aviazione e additivi per tale carburante a persone in Siria o per un uso in Siria,
-  - 5\. la fornitura di accesso agli aeroporti svizzeri per voli esclusivamente cargo effettuati da vettori siriani,
-  - 6\. l’esportazione alla Banca centrale siriana di banconote e monete siriane di nuovo conio, e
-  - 7\. qualsiasi forma di assistenza tecnica, servizi di intermediazione, finanziamenti e assistenza finanziaria associati alle attività di cui ai numeri 1–6.[^13-1]
-
-[^13-1]: Introdotto dalla cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^13-1]: Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 13a
 
-**Deroghe a scopi umanitari**[^13a-1]
+[^13a-1]
 
-La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a scopi umanitari ai divieti di cui agli articoli 12–13.
-
-[^13a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)). Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 14
 
-**Divieti concernenti assicurazioni e riassicurazioni**
+[^14-1]
 
-<sup>1</sup>
-
-È vietato concludere, prorogare o rinnovare assicurazioni o riassicurazioni con:
-
-- a. la Siria o il suo governo e i suoi enti, imprese e agenzie pubblici;
-- b. persone fisiche o giuridiche od organizzazioni che agiscono per conto o sotto la direzione di una persona giuridica o di un’organizzazione di cui alla lettera a.
-
-<sup>2</sup> Il capoverso 1 non si applica alle assicurazioni obbligatorie e alle assicurazioni di responsabilità civile per le persone o le organizzazioni siriane in Svizzera e alla messa a disposizione di assicurazioni per le rappresentanze diplomatiche o consolari siriane in Svizzera.
-
-<sup>3</sup> Il capoverso 1 lettera b non si applica alle assicurazioni di privati e alle rispettive riassicurazioni.
-
-<sup>4</sup> Il capoverso 1 lettera b non si applica alle assicurazioni o alle riassicurazioni di proprietari di navi, aeromobili o veicoli noleggiati da una persona o da un’organizzazione di cui al capoverso 1 lettera a.
-
-<sup>5</sup> Gli accordi di assicurazione e riassicurazione conclusi prima dell’entrata in vigore della presente ordinanza possono essere rispettati.
+[^14-1]: Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 ## Sezione 4: Ulteriori restrizioni
 
@@ -365,12 +281,12 @@ La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a
 È vietato soddisfare crediti se sono riconducibili a un contratto o a un’attività la cui esecuzione viene impedita o pregiudicata direttamente o indirettamente da misure previste dalla presente ordinanza. Questo divieto si applica ai crediti:
 
 - a. del governo della Siria;
-- b.[^16-2] delle persone fisiche, imprese e organizzazioni elencate negli allegati 7 o 7*a*;
+- b.[^16-2] delle persone fisiche, imprese e organizzazioni elencate nell’allegato 7;
 - c. delle persone fisiche, imprese e organizzazioni in Siria;
 - d. delle persone fisiche, imprese e organizzazioni che agiscono per conto o a favore del governo siriano oppure per conto di persone, imprese e organizzazioni di cui alle lettere b e c.
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
-[^16-2]: Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 17
 
@@ -423,11 +339,13 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 **Disposizioni penali**
 
-<sup>1</sup> Chiunque viola gli articoli 2–17 è punito conformemente all’articolo 9 LEmb.
+<sup>1</sup> Chiunque viola gli articoli 2, 2*a*, 6, 9*a*, 10, 16 o 17 è punito conformemente all’articolo 9 LEmb.[^20-1]
 
 <sup>2</sup> Chiunque viola l’articolo 19 è punito conformemente all’articolo 10 LEmb.
 
 <sup>3</sup> Le infrazioni di cui ai capoversi 1 e 2 sono perseguite e giudicate dalla SECO; essa può ordinare sequestri o confische.
+
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 ## Sezione 6: Pubblicazione e disposizioni finali
 
@@ -439,9 +357,9 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 **Pubblicazione**[^20a-1]
 
-Il contenuto degli allegati 7 e 7*a* è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
+Il contenuto dell’allegato 7 è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
 
-[^20a-1]: Introdotto dalla cifra I n. 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^20a-1]: Introdotto dalla cifra I n. 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 21
 
@@ -642,24 +560,11 @@ Sono esclusi dalle disposizioni dei numeri 1–3:
 
 - b. software che sono di pubblico dominio.
 
-Allegato 6
+Allegato 6[^t-4]
 
-(art. 8)
+[^t-4]: Abrogato dalla cifra II cpv. 1 dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-## Metalli preziosi e diamanti
-
-<table>
-<tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
-<tr><td>7102</td><td>Diamanti, anche lavorati, ma non montati né incastonati:</td></tr>
-<tr><td>7106</td><td>Argento (compreso l’argento dorato e l’argento platinato) greggio o semilavorato, o in polvere.</td></tr>
-<tr><td>7108</td><td>Oro (compreso l’oro platinato), greggio o semilavorato, o in polvere.</td></tr>
-<tr><td>7109</td><td>Metalli comuni o argento, placcati o ricoperti di oro, greggi o semilavorati.</td></tr>
-<tr><td>7110</td><td>Platino, greggio o semilavorato, o in polvere.</td></tr>
-<tr><td>7111</td><td>Metalli comuni, argento o oro, placcati o ricoperti di platino, greggi o semilavorati.</td></tr>
-<tr><td>7012</td><td>Cascami ed avanzi di metalli preziosi o di metalli placcati o ricoperti di metalli preziosi; altri cascami ed avanzi contenenti metalli preziosi o composti di metalli preziosi dei tipi utilizzati principalmente per il recupero dei metalli preziosi.</td></tr>
-</table>
-
-Allegato 7[^t-4]
+Allegato 7[^t-5]
 
 (art. 10 cpv. 1 e 3 lett. e, 16 lett. b e 17 cpv. 1)
 
@@ -667,57 +572,24 @@ Allegato 7[^t-4]
 
 [^annex7-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aggiornato dalla cifra II cpv. 2 dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^annex7-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/410](https://fedlex.data.admin.ch/eli/oc/2025/410) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 7a[^t-5]
+Allegato 7a[^t-6]
 
-(art. 10 cpv. 1<sup>bis</sup> e 16 lett. b)
+[^t-6]: Introdotto dalla cifra II cpv. 3 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Abrogato dalla cifra II cpv. 1 dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-## Imprese e organizzazioni interessate dalle sanzioni finanziarie di cui all’articolo 10 capoverso 1<sup>bis</sup>
+Allegato 8[^t-7]
 
-[^annex7a-lvlu1-1]
+[^t-7]: Abrogato dalla cifra II cpv. 1 dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-[^t-5]: Introdotto dalla cifra II cpv. 3 dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^annex7a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
-
-Allegato 8[^t-6]
-
-(art. 9)
-
-## Beni di lusso
-
-[^t-6]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 12 ago. 2019, in vigore dal 13 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
-
-<table>
-<tr><th>Voce di tariffa doganale:</th><th>Designazione delle merci</th></tr>
-<tr><td>0101 21</td><td>Cavalli di razza pura</td></tr>
-<tr><td>ex 1604 31 00, [tab] ex 1604 32 00</td><td>Caviale e suoi succedanei; nel caso dei succedanei del caviale, se i prezzi di vendita sono superiori a 25 CHF per 100 grammi</td></tr>
-<tr><td>2003 90 10</td><td>Tartufi</td></tr>
-<tr><td>ex 2204 21 bis [tab] ex 2204 29, [tab] ex 2208, ex 2205</td><td>Vini, acquaviti ed altre bevande contenenti alcole di distillazione il cui prezzo di vendita è superiore a 65 CHF per litro</td></tr>
-<tr><td>ex 2402 10 00</td><td>Sigari e sigaretti il cui prezzo unitario di vendita è superiore a 15 CHF</td></tr>
-<tr><td>ex 3303 00 00, [tab] ex 3304, [tab] ex 3307, [tab] ex 3401</td><td>Profumi e acque da toletta, il cui prezzo unitario di vendita è superiore a 90 CH per 50 ml, e cosmetici, compresi prodotti di bellezza e per il trucco, il cui prezzo unitario di vendita è superiore a 90 CHF ciascuno</td></tr>
-<tr><td>ex 4201 00 00, [tab] ex. 4202, [tab] ex. 4205 00 99</td><td>Pelletteria, selleria, articoli da viaggio, borsette e articoli simili, il cui prezzo unitario di vendita è superiore a 250 CHF</td></tr>
-<tr><td>ex 4203, [tab] ex 4303, [tab] ex 61, ex 62, [tab] ex 6401, ex 6402, [tab] ex 6403, ex 6404, [tab] ex 6405, ex 6504, [tab] ex 6506 99, [tab] ex 6601 91 00 [tab] ex 6601 99 00, [tab] ex 6602 00 00</td><td>Indumenti, accessori di abbigliamento e calzature, il cui prezzo unitario di vendita è superiore a 750 CHF</td></tr>
-<tr><td>7101, 7102, 7103, [tab] 7104 20, 7104 90, [tab] 7105, 7106, 7107, [tab] 7108, 7109, 7110, [tab] 7111, 7113, 7114, [tab] 7115, 7116</td><td>Perle, pietre preziose e semipreziose, articoli di perle, di gioielleria o di oreficeria</td></tr>
-<tr><td>ex 4907 00, [tab] 7118 10, [tab] ex 7118 90</td><td>Monete e banconote non aventi corso legale</td></tr>
-<tr><td>7114, ex 7115, [tab] ex 8214, ex 8215, [tab] ex 9307</td><td>Articoli di coltelleria di metalli preziosi o placcati/ricoperti di metalli preziosi</td></tr>
-<tr><td>6911 10, [tab] ex 6912 00 11, [tab] ex 6912 00 90</td><td>Vasellame di porcellana, di gres, di maiolica o di terraglia, il cui prezzo unitario di vendita è superiore a 600 CHF</td></tr>
-<tr><td>ex 7009 91, [tab] ex 7009 92 00, [tab] ex 7010, [tab] ex 7013 22, [tab] ex 7013 33, [tab] ex 7013 41, [tab] ex 7013 91, [tab] ex 7018 10, [tab] ex 7018 90, [tab] ex 7020 00 80, [tab] ex 9405 10 00, [tab] ex 9405 20 00, [tab] ex 9405 50, [tab] ex 9405 91</td><td>Articoli di cristallo al piombo il cui prezzo unitario di vendita è superiore a 250 CHF</td></tr>
-<tr><td>ex 8603, [tab] ex 8605 00 00, [tab] ex 8702, [tab] ex 8703, ex 8711, [tab] ex 8712 00, [tab] ex 8716 10, [tab] ex 8716 40 00, [tab] ex 8716 80, [tab] ex 8716 90, [tab] ex 8801, [tab] ex 8802 11 00, [tab] ex 8802 12 00, [tab] ex 8802 20 00, [tab] ex 8802 30 00, [tab] ex 8802 40 00, [tab] ex 8805 10, [tab] ex 8901 10, [tab] ex 8903</td><td>Veicoli di lusso per il trasporto terrestre, aereo o marittimo di persone, e loro accessori; nel caso dei veicoli nuovi, se i prezzi di vendita sono superiori a 30 000 CHF; nel caso dei veicoli usati, se i prezzi di vendita sono superiori a 20 000 CHF</td></tr>
-<tr><td>ex 9101, ex 9102, [tab] ex 9103, ex 9104, [tab] ex 9105, ex 9108, [tab] ex 9109, ex 9110, [tab] ex 9111, ex 9112, [tab] ex 9113, ex 9114</td><td>Orologi pregiati e loro parti se il prezzo unitario di vendita è superiore a 1000 CHF</td></tr>
-<tr><td>97</td><td>Oggetti d’arte, da collezione o di antichità</td></tr>
-<tr><td>ex 4015 19 00, [tab] ex 4015 90 00, [tab] ex 6112 20, [tab] ex 6112 31, [tab] ex 6112 39, [tab] ex 6112 41, [tab] ex 6112 49, [tab] ex 6113 00, [tab] ex 6114, [tab] ex 6210 20 00, [tab] ex 6210 30, [tab] ex 6210 40 00, [tab] ex 6210 50, [tab] ex 6211 11, [tab] ex 6211 12, [tab] ex 6211 20, [tab] ex 6211 32 00, [tab] ex 6211 33 00, [tab] ex 6211 39, [tab] ex 6211 42 90, [tab] ex 6211 43 00, [tab] ex 6211 49, [tab] ex 6402 12, [tab] ex 6403 12 00, [tab] ex 6404 11 00, [tab] ex 6404 19 00, [tab] ex 9004 90, [tab] ex 9020, [tab] ex 9506 11, [tab] ex 9506 12, [tab] ex 9506 19 00, [tab] ex 9506 21 00, [tab] ex 9506 29 00, [tab] ex 9506 31 00, [tab] ex 9506 32 00, [tab] ex 9506 39, [tab] ex 9507</td><td>Articoli ed attrezzature per lo sci, il golf, gli sport subacquei ed acquatici, se il prezzo unitario di vendita è superiore a 600 CHF</td></tr>
-<tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Articoli ed attrezzature per il biliardo, il bowling automatico, i giochi per casinò ed i giochi azionati da monete o banconote, se il prezzo unitario di vendita è superiore a 600 CHF</td></tr>
-</table>
-
-Allegato 9[^t-7]
+Allegato 9[^t-8]
 
 (art. 9*a* cpv. 1)
 
 ## Beni culturali
 
-[^t-7]: Introdotto dalla cifra II dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^t-8]: Introdotto dalla cifra II dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 Sono considerati beni culturali ai sensi dell’articolo 9*a*:
 
@@ -765,6 +637,6 @@ Sono considerati beni culturali ai sensi dell’articolo 9*a*:
 
   - b. aventi più di 100 anni.
 
-Allegato 10[^t-8]
+Allegato 10[^t-9]
 
-[^t-8]: Introdotto dalla cifra II dell’O dell’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Abrogato dalla cifra II cpv. 1 dell’O del 7 mar. 2025, con effetto il 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^t-9]: Introdotto dalla cifra II dell’O dell’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Abrogato dalla cifra II cpv. 1 dell’O del 7 mar. 2025, con effetto il 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).

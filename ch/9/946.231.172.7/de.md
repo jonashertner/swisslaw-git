@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2025-03-07
+version: 2025-06-20
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250307/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250307-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250307/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250620/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250620-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250620/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 7. März 2025)
+vom 8. Juni 2012 (Stand am 20. Juni 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -139,25 +139,11 @@ Der Bewilligungspflicht unterliegen:
 
 [^7-1]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 
-#### Art. 8
+#### Art. 8 und 9
 
-**Verbote betreffend Edelmetalle und Diamanten**
+[^89-1]
 
-Es ist verboten:
-
-- a. Edelmetalle und Diamanten nach Anhang 6 direkt oder indirekt an die syrische Regierung, öffentliche Einrichtungen, Unternehmen und Agenturen, die syrische Zentralbank sowie Personen oder Organisationen, die in deren Namen oder auf deren Anweisung handeln oder von ihnen kontrolliert werden, zu verkaufen, zu liefern, weiterzugeben oder auszuführen.
-- b. Edelmetalle und Diamanten nach Anhang 6 direkt oder indirekt von der syrischen Regierung, öffentlichen Einrichtungen, Unternehmen und Agenturen, der syrischen Zentralbank sowie von Personen oder Organisationen, die in deren Namen oder auf deren Anweisung handeln oder von ihnen kontrolliert werden, zu erwerben, einzuführen oder zu transportieren.
-- c. für Geschäfte nach den Buchstaben a und b Vermittlungsdienste oder Finanzmittel bereitzustellen.
-
-#### Art. 9
-
-**Verbote der Lieferung von Luxusgütern**
-
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Luxusgütern nach Anhang 8 nach Syrien sind verboten.
-
-<sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für Güter, die für den persönlichen Gebrauch von aus der Schweiz ausreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sofern die Güter sich im Eigentum der betreffenden Personen befinden.[^9-1]
-
-[^9-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^89-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 9a
 
@@ -190,7 +176,7 @@ Das Verbot nach Absatz 1 gilt nicht, wenn nachgewiesen werden kann, dass:
 
 <sup>1</sup> Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle der natürlichen Personen, Unternehmen oder Organisationen nach Anhang 7 befinden, sind gesperrt.
 
-<sup>1bis</sup> Gelder und wirtschaftliche Ressourcen, die sich am 8. Juni 2012 im Eigentum oder unter der Kontrolle der Unternehmen oder Organisationen nach Anhang 7*a* sowie ausserhalb Syriens befanden, sind gesperrt.[^10-1]
+<sup>1bis</sup> …[^10-1]
 
 <sup>2</sup> Es ist verboten, natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.[^10-2]
 
@@ -232,11 +218,11 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - g.[^10-8] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
 - h.[^10-9] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
 
-<sup>4</sup> ... [^10-10]
+<sup>4</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 7 unter den Nummern SSID 200-12560 und 200-12565 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder Ressourcen erforderlich sind für die Zusammenarbeit zwischen diesen Organisationen und einer öffentlichen Schweizer Organisation oder Einrichtung in den Bereichen Wiederaufbau, Kapazitätsaufbau, Terrorismusbekämpfung oder Migration.[^10-10]
 
-<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup> und 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements.[^10-11]
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements.[^10-11]
 
-[^10-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-1]: Eingefügt durch Ziff. I der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-4]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
@@ -245,108 +231,38 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 [^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-10]: Aufgehoben durch Ziff. I der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^10-11]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^10-10]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^10-11]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-#### Art. 11
+#### Art. 11 und 12
 
-**Verbote betreffend die Europäische Investitionsbank**
+[^1112-1]
 
-Zahlungen der Europäischen Investitionsbank im Zusammenhang mit bestehenden Darlehensvereinbarungen mit dem syrischen Staat oder einer Behörde des syrischen Staates sind untersagt.
-
-#### Art. 12
-
-**Verbote betreffend staatliche oder staatlich garantierte Anleihen**
-
-<sup>1</sup>
-
-Es ist verboten, staatliche oder staatlich garantierte syrische Anleihen, die nach Inkrafttreten dieser Verordnung ausgegeben worden sind, unmittelbar oder mittelbar an die Folgenden zu verkaufen oder von ihnen zu kaufen:
-
-- a. Syrien oder seine Regierung und seine öffentlichen Einrichtungen, Unternehmen und Agenturen;
-- b. syrische Banken;
-- c. natürliche oder juristische Personen oder Organisationen, die im Namen oder auf Anweisung einer unter Buchstabe a oder b genannten juristischen Person oder Organisation handeln;
-- d. juristische Personen oder Organisationen, die im Eigentum oder unter der Kontrolle einer in Buchstabe a, b oder c genannten Person oder Organisation stehen.
-
-<sup>2</sup> Es ist verboten, für eine in Absatz 1 genannte Person oder Organisation Vermittlungsdienste im Zusammenhang mit staatlich garantierten Anleihen, die nach Inkrafttreten dieser Verordnung ausgegeben worden sind, zu erbringen.
-
-<sup>3</sup> Es ist verboten, eine in Absatz 1 genannte Person oder Organisation bei der Ausgabe von staatlichen oder staatlich garantierten Anleihen durch Vermittlungsdienste, Werbung oder sonstige Dienstleistungen im Zusammenhang mit diesen Anleihen zu unterstützen.
+[^1112-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 12a
 
-**Beschränkung der finanziellen Unterstützung des Handels**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Die Schweizerische Exportrisikoversicherung geht keine mittel- und langfristigen Verpflichtungen zur Deckung von Geschäften mit Syrien ein.
-
-<sup>2</sup> Sie übt Zurückhaltung, wenn sie kurzfristige Verpflichtungen zur Deckung von Geschäften mit Syrien eingeht.
-
-[^12a-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^12a-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)). Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 13
 
-**Verbotene Bankbeziehungen mit Syrien**
+[^13-1]
 
-<sup>1</sup>
-
-Banken ist es verboten:
-
-- a. ein Konto bei einer syrischen Bank zu eröffnen;
-- b. eine neue Korrespondenzbeziehung zu einer syrischen Bank aufzunehmen;
-- c. eine Vertretung, Zweigniederlassung oder Tochtergesellschaft in Syrien zu gründen;
-- d. ein Jointventure mit einer syrischen Bank zu gründen.
-
-<sup>2</sup>
-
-Syrischen Banken ist es verboten:
-
-- a. eine Vertretung zu eröffnen oder eine Zweigniederlassung oder Tochtergesellschaft zu gründen;
-- b. eine Beteiligung oder ein sonstiges Eigentumsrecht an einer Bank zu erwerben.
-
-<sup>3</sup>
-
-Die Verbote nach den Absätzen 1 und 2 gelten nicht:
-
-- a. für Tätigkeiten, einschliesslich Hilfstätigkeiten, die zum Zweck der Unterstützung der syrischen Bevölkerung im Hinblick auf die rasche Erbringung humanitärer Hilfe oder die Unterstützung anderer Tätigkeiten zur Deckung grundlegender menschlicher Bedürfnisse, die Bereitstellung grundlegender Dienstleistungen oder andere zivile Zwecke durchgeführt werden;
-- b. für Tätigkeiten, einschliesslich Hilfstätigkeiten, die zum Zweck der Unterstützung der syrischen Bevölkerung im Hinblick auf den Wiederaufbau, die Stabilisierung, die Wiederherstellung der Wirtschaftstätigkeit, den Aufbau von Institutionen, die Bereitstellung grundlegender Dienstleistungen oder andere zivile Zwecke durchgeführt werden;
-- c.
-
-  für Tätigkeiten, die in Verbindung mit Folgendem durchgeführt werden:
-
-  - 1\. Einfuhr von Rohöl oder Erdölprodukten aus Syrien, Kauf von Rohöl oder Erdölprodukten aus Syrien oder Transport von Rohöl oder Erdölprodukten aus Syrien,
-  - 2\. Beteiligung am Bau oder an der Einrichtung von neuen Kraftwerken zur Stromerzeugung in Syrien,
-  - 3\. Gründung eines Joint Ventures mit syrischen Personen, Organisationen oder Einrichtungen, die an der Exploration, Förderung oder Raffination von Rohöl oder dem Bau oder der Einrichtung von neuen Kraftwerken zur Stromerzeugung in Syrien beteiligt sind, Gewährung von Darlehen an diese Personen, Organisationen oder Einrichtungen oder Erwerb oder Ausweitung von Beteiligungen an diesen Personen, Organisationen oder Einrichtungen,
-  - 4\. Verkauf, Durchfuhr oder Ausfuhr von Flugturbinenkraftstoffen und Kraftstoffzusätzen an Personen in Syrien oder zur Verwendung in Syrien,
-  - 5\. Gewährung des Zugangs zu Schweizer Flughäfen für reine Frachtflüge, die von syrischen Luftverkehrsunternehmen durchgeführt werden,
-  - 6\. Ausfuhr von auf die syrische Landeswährung lautenden neuen Banknoten und Münzen an die syrische Zentralbank, und
-  - 7\. jegliche technische Hilfe, Vermittlungsdienste, Finanzmittel und finanzielle Unterstützung im Zusammenhang mit den Tätigkeiten nach den Ziffern 1–6.[^13-1]
-
-[^13-1]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^13-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 13a
 
-**Ausnahmen zu humanitären Zwecken**[^13a-1]
+[^13a-1]
 
-Das SECO kann zur Erfüllung humanitärer Zwecke nach Rücksprache mit den zuständigen Stellen des EDA Ausnahmen von den Verboten nach den Artikeln 12–13 bewilligen.
-
-[^13a-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^13a-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)). Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 14
 
-**Verbote betreffend Versicherungen und Rückversicherungen**
+[^14-1]
 
-<sup>1</sup>
-
-Es ist verboten, Versicherungen und Rückversicherungen abzuschliessen, zu verlängern oder zu erneuern mit:
-
-- a. Syrien oder seiner Regierung oder seinen öffentlichen Einrichtungen, Unternehmen und Agenturen;
-- b. natürlichen oder juristischen Personen oder Organisationen, wenn sie im Namen oder auf Anweisung einer unter Buchstabe a genannten juristischen Person oder Organisation handeln.
-
-<sup>2</sup> Absatz 1 gilt nicht für obligatorische Versicherungen und Haftpflichtversicherungen für syrische Personen oder Organisationen in der Schweiz und für die Bereitstellung von Versicherungen für syrische diplomatische oder konsularische Vertretungen in der Schweiz.
-
-<sup>3</sup> Absatz 1 Buchstabe b gilt nicht für Versicherungen für Privatpersonen und die entsprechenden Rückversicherungen.
-
-<sup>4</sup> Absatz 1 Buchstabe b gilt nicht für Versicherungen oder Rückversicherungen für Eigentümer von Schiffen, Luft- oder Kraftfahrzeugen, die von einer in Absatz 1 Buchstabe a genannten Person oder Organisation gechartert oder angemietet wurden.
-
-<sup>5</sup> Versicherungs- oder Rückversicherungsvereinbarungen, die vor Inkrafttreten dieser Verordnung geschlossen wurden, dürfen erfüllt werden.
+[^14-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 
@@ -363,12 +279,12 @@ Es ist verboten, Versicherungen und Rückversicherungen abzuschliessen, zu verl�
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde; dieses Verbot gilt für Forderungen:
 
 - a. der Regierung Syriens;
-- b.[^16-2] von in den Anhängen 7 oder 7*a* aufgeführten natürlichen Personen, Unternehmen und Organisationen;
+- b.[^16-2] von in Anhang 7 aufgeführten natürlichen Personen, Unternehmen und Organisationen;
 - c. von natürlichen Personen, Unternehmen und Organisationen in Syrien;
 - d. von natürlichen Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten der syrischen Regierung oder von unter den Buchstaben b und c erwähnten Personen, Unternehmen und Organisationen handeln.
 
 [^16-1]: Fassung gemäss Ziff. I der v vom 11. Febr. 2015, in Kraft seit 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
-[^16-2]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 17
 
@@ -421,11 +337,13 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer gegen die Artikel 2–17 verstösst, wird nach Artikel 9 EmbG bestraft.
+<sup>1</sup> Wer gegen Artikel 2, 2*a*, 6, 9*a*, 10, 16 oder 17 verstösst, wird nach Artikel 9 EmbG bestraft.[^20-1]
 
 <sup>2</sup> Wer gegen Artikel 19 verstösst, wird nach Artikel 10 EmbG bestraft.
 
 <sup>3</sup> Verstösse nach den Absätzen 1 und 2 werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 ## 6. Abschnitt: Veröffentlichung und Schlussbestimmungen
 
@@ -437,9 +355,9 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 **Veröffentlichung**[^20a-1]
 
-Der Inhalt der Anhänge 7 und 7*a* wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
+Der Inhalt von Anhang 7 wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
 
-[^20a-1]: Eingefügt durch Ziff. I 18 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^20a-1]: Eingefügt durch Ziff. I 18 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
 #### Art. 21
 
@@ -640,24 +558,11 @@ Ausgenommen von den Ziffern 1–3 ist:
 
 - b. Software, die allgemein zugänglich ist.
 
-Anhang 6
+Anhang 6[^t-4]
 
-(Art. 8)
+[^t-4]: Aufgehoben durch Ziff. II Abs. 1 der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-## Edelmetalle und Diamanten
-
-<table>
-<tr><td>Zolltarifnummer</td><td>Beschreibung</td></tr>
-<tr><td>7102</td><td>Diamanten, auch bearbeitet, jedoch weder montiert noch gefasst</td></tr>
-<tr><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
-<tr><td>7108</td><td>Gold (einschliesslich platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
-<tr><td>7109</td><td>Goldplattinierungen auf unedlen Metallen oder auf Silber, in Rohform oder in Form von Halbzeug</td></tr>
-<tr><td>7110</td><td>Platin, in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
-<tr><td>7111</td><td>Platinplattierungen auf unedlen Metallen, auf Silber oder auf Gold, in Rohform oder in Form von Halbzeug</td></tr>
-<tr><td>7012</td><td>Abfälle und Schrott, von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden.</td></tr>
-</table>
-
-Anhang 7[^t-4]
+Anhang 7[^t-5]
 
 (Art. 10 Abs. 1 und 3 Bst. e, 16 Bst. b sowie 17 Abs. 1)
 
@@ -665,57 +570,24 @@ Anhang 7[^t-4]
 
 [^annex7-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/410](https://fedlex.data.admin.ch/eli/oc/2025/410)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 7a[^t-5]
+Anhang 7a[^t-6]
 
-(Art. 10 Abs. 1<sup>bis</sup> und 16 Bst. b)
+[^t-6]: Eingefügt durch Ziff. II Abs. 3 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aufgehoben durch Ziff. II Abs. 1 der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-## Unternehmen und Organisationen, gegen die sich die Finanzsanktionen nach Artikel 10 Absatz 1<sup>bis</sup> richten
+Anhang 8[^t-7]
 
-[^annex7a-lvlu1-1]
+[^t-7]: Aufgehoben durch Ziff. II Abs. 1 der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 3 der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
-[^annex7a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/156](https://fedlex.data.admin.ch/eli/oc/2025/156) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
-
-Anhang 8[^t-6]
-
-(Art. 9)
-
-## Luxusgüter
-
-[^t-6]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 12. Aug. 2019, in Kraft seit 13. Aug. 2019 ([AS 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
-
-<table>
-<tr><th>Zolltarif-Nr.</th><th>Bezeichnung</th></tr>
-<tr><td>0101 21</td><td>Reinrassige Pferde</td></tr>
-<tr><td>ex 1604 31 00, [tab] ex 1604 32 00</td><td>Kaviar und Kaviarersatz; im Falle von Kaviarersatz: mit einem Ver- kaufspreis von mehr als Fr. 25.–/100 g</td></tr>
-<tr><td>2003 90 10</td><td>Trüffel</td></tr>
-<tr><td>ex 2204 21 bis [tab] ex 2204 29, [tab] ex 2208, ex 2205</td><td>Wein, Branntwein und andere alkoholhaltige Getränke mit einem Verkaufspreis von mehr als Fr. 65.–/l</td></tr>
-<tr><td>ex 2402 10 00</td><td>Zigarren und Zigarillos mit einem Verkaufspreis von mehr als Fr. 15.–/Stück</td></tr>
-<tr><td>ex 3303 00 00, [tab] ex 3304, [tab] ex 3307, [tab] ex 3401</td><td>Parfum und Toilettenwasser mit einem Verkaufspreis von mehr als Fr. 90.–/50 ml und Kosmetikartikel, inkl. Schönheits- und Schminkprodukte, mit einem Verkaufspreis von mehr als Fr. 90.–/Stück</td></tr>
-<tr><td>ex 4201 00 00, [tab] ex. 4202, [tab] ex. 4205 00 99</td><td>Leder-, Sattler- und Reiseartikel, Handtaschen und ähnliche Artikelmit einem Verkaufspreis von mehr als Fr. 250.–/Stück</td></tr>
-<tr><td>ex 4203, [tab] ex 4303, [tab] ex 61, ex 62, [tab] ex 6401, ex 6402, [tab] ex 6403, ex 6404, [tab] ex 6405, ex 6504, [tab] ex 6506 99, [tab] ex 6601 91 00 [tab] ex 6601 99 00, [tab] ex 6602 00 00</td><td>Kleidungsstücke, Accessoires und Schuhe mit einem Verkaufspreis von mehr als Fr. 750.–/Stück bzw. Paar</td></tr>
-<tr><td>7101, 7102, 7103, [tab] 7104 20, 7104 90, [tab] 7105, 7106, 7107, [tab] 7108, 7109, 7110, [tab] 7111, 7113, 7114, [tab] 7115, 7116</td><td>Perlen, Edel- und Schmucksteine, Artikel aus Perlen, Gold- und Silber- schmiedewaren</td></tr>
-<tr><td>ex 4907 00, [tab] 7118 10, [tab] ex 7118 90</td><td>Münzen und Banknoten, ausgenommen gesetzliche Zahlungsmittel</td></tr>
-<tr><td>7114, ex 7115, [tab] ex 8214, ex 8215, [tab] ex 9307</td><td>Bestecke aus Edelmetallen und mit Edelmetallen überzogene oder plattierte Bestecke</td></tr>
-<tr><td>6911 10, [tab] ex 6912 00 11, [tab] ex 6912 00 90</td><td>Geschirr aus Porzellan, Steingut oder feinen Erden mit einem Ver- kaufspreis von mehr als Fr. 600.–/Stück</td></tr>
-<tr><td>ex 7009 91, [tab] ex 7009 92 00, [tab] ex 7010, [tab] ex 7013 22, [tab] ex 7013 33, [tab] ex 7013 41, [tab] ex 7013 91, [tab] ex 7018 10, [tab] ex 7018 90, [tab] ex 7020 00 80, [tab] ex 9405 10 00, [tab] ex 9405 20 00, [tab] ex 9405 50, [tab] ex 9405 91</td><td>Glaswaren aus Bleikristall mit einem Verkaufspreis von mehr als Fr. 250.–/Stück</td></tr>
-<tr><td>ex 8603, [tab] ex 8605 00 00, [tab] ex 8702, [tab] ex 8703, ex 8711, [tab] ex 8712 00, [tab] ex 8716 10, [tab] ex 8716 40 00, [tab] ex 8716 80, [tab] ex 8716 90, [tab] ex 8801, [tab] ex 8802 11 00, [tab] ex 8802 12 00, [tab] ex 8802 20 00, [tab] ex 8802 30 00, [tab] ex 8802 40 00, [tab] ex 8805 10, [tab] ex 8901 10, [tab] ex 8903</td><td>Fahrzeuge für Luft-, Strassen- oder Wasserverkehr sowie Teile und Zubehör dazu; im Falle neuer Fahrzeuge: mit einem Verkaufspreis von mehr als Fr. 30 000.–; im Falle gebrauchter Fahrzeuge: mit einem Verkaufspreis von mehr als Fr. 20 000.–</td></tr>
-<tr><td>ex 9101, ex 9102, [tab] ex 9103, ex 9104, [tab] ex 9105, ex 9108, [tab] ex 9109, ex 9110, [tab] ex 9111, ex 9112, [tab] ex 9113, ex 9114</td><td>Uhren und Teile davon mit einem Verkaufspreis von mehr als Fr. 1000.–/Stück</td></tr>
-<tr><td>97</td><td>Kunstgegenstände, Sammlungsstücke und Antiquitäten</td></tr>
-<tr><td>ex 4015 19 00, [tab] ex 4015 90 00, [tab] ex 6112 20, [tab] ex 6112 31, [tab] ex 6112 39, [tab] ex 6112 41, [tab] ex 6112 49, [tab] ex 6113 00, [tab] ex 6114, [tab] ex 6210 20 00, [tab] ex 6210 30, [tab] ex 6210 40 00, [tab] ex 6210 50, [tab] ex 6211 11, [tab] ex 6211 12, [tab] ex 6211 20, [tab] ex 6211 32 00, [tab] ex 6211 33 00, [tab] ex 6211 39, [tab] ex 6211 42 90, [tab] ex 6211 43 00, [tab] ex 6211 49, [tab] ex 6402 12, [tab] ex 6403 12 00, [tab] ex 6404 11 00, [tab] ex 6404 19 00, [tab] ex 9004 90, [tab] ex 9020, [tab] ex 9506 11, [tab] ex 9506 12, [tab] ex 9506 19 00, [tab] ex 9506 21 00, [tab] ex 9506 29 00, [tab] ex 9506 31 00, [tab] ex 9506 32 00, [tab] ex 9506 39, [tab] ex 9507</td><td>Sportartikel und -ausrüstung für Ski-, Golf- und Wassersport mit einem Verkaufspreis von mehr als Fr. 600.–/Stück</td></tr>
-<tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Artikel und Ausrüstung für Billardspiele, automatische Kegelanlagen (z.B. Bowlingbahnen), Glücksspiele und mit Münzen oder Banknoten betriebene Spiele mit einem Verkaufspreis von mehr als Fr. 600.–/Stück</td></tr>
-</table>
-
-Anhang 9[^t-7]
+Anhang 9[^t-8]
 
 (Art. 9*a* Abs. 1)
 
 ## Kulturgüter
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 Als Kulturgüter im Sinne von Artikel 9a gelten insbesondere:
 
@@ -760,6 +632,6 @@ Als Kulturgüter im Sinne von Artikel 9a gelten insbesondere:
 
   - b. mehr als 100 Jahre alte Antiquitäten.
 
-Anhang 10[^t-8]
+Anhang 10[^t-9]
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Aufgehoben durch Ziff. II Abs. 1 der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)). Aufgehoben durch Ziff. II Abs. 1 der V vom 7. März 2025, mit Wirkung seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
