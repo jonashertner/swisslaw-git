@@ -5,11 +5,12 @@ title: Gesetz über den Umweltschutz
 short: kUSG
 language: de
 version: 2022-12-01
+corrected: 2025-06-20
 version_adopted: 2019-12-12
 adopted: 2010-11-18
 in_force: 2011-04-26
 url: "https://lex.vs.ch/app/de/texts_of_law/814.1"
-pdf: "https://lex.vs.ch/api/de/versions/3503/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -500,7 +501,7 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Wenn der Verursacher unbekannt oder zahlungsunfähig ist, trägt dessen Kostenanteil die Gemeinde. Nebst den Abgeltungen des Bundes leistet der Kanton an die Gemeinde einen Beitrag von 40 Prozent an den anrechenbaren Kosten. Die Massnahmen zur Untersuchung, Überwachung und Sanierung richten sich nach den gesetzlichen Anforderungen des Bundes.
 
-<sup>5<sup>bis</sup></sup> …
+<sup>5<sup>bis</sup></sup> Wenn es sich bei den Verursachern um Schiessvereine handelt, die einen interkommunalen Schiesstand betreiben oder Schiessübungen darin organisieren und als zahlungsunfähig eingestuft werden, so wird deren Kostenanteil von den Gemeinden übernommen, in denen die Schiessvereine ihre Sitze haben.
 
 <sup>6</sup> Die Beträge werden anhand einer Prioritätenliste geleistet, die das Departement erstellt.
 

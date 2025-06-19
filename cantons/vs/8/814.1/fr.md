@@ -5,11 +5,12 @@ title: "Loi sur la protection de l'environnement"
 short: LcPE
 language: fr
 version: 2022-12-01
+corrected: 2025-06-20
 version_adopted: 2019-12-12
 adopted: 2010-11-18
 in_force: 2011-04-26
 url: "https://lex.vs.ch/app/fr/texts_of_law/814.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3503/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3094/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -500,7 +501,7 @@ ordonne:[^ingress-1]
 
 <sup>5</sup> La part des coûts à la charge d'un responsable inconnu ou insolvable incombe aux communes. En sus des indemnités fédérales concernées, le canton participe à la part communale de ces frais, par une subvention de 40 pour cent des coûts imputables. Les mesures d'investigation, de surveillance et d'assainissement respectent les exigences fédérales.
 
-<sup>5<sup>bis</sup></sup> …
+<sup>5<sup>bis</sup></sup> La part des coûts à la charge des sociétés de tir responsables et exploitant un stand de tir intercommunal ou organisant des tirs incombe, au prorata, aux communes sur le territoire desquelles les sociétés de tir ont leur siège, lorsqu’elles sont considérées comme insolvables.
 
 <sup>6</sup> Les montants sont attribués en fonction d'une liste de priorités établie par le département.
 
