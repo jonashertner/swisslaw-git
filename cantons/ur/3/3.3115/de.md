@@ -1,30 +1,32 @@
 ---
 canton: UR
 number: "3.3115"
-title: Reglement über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+title: REGLEMENT über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: Submissionsreglement
 language: de
 version: 2024-06-01
+corrected: 2025-06-20
 version_adopted: 2024-05-14
 adopted: 2024-05-14
 in_force: 2024-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.3115"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/424/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/113/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+# REGLEMENT über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 
-(Submissionsreglement)
+REGLEMENT über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Submissionsreglement)
 
-Vom 14.05.2024 (Stand 01.06.2024)
+(vom 14. Mai 2024[^t-1]; Stand am 1. Juni 2024)
 
-Der Regierungsrat des Kantons Uri,
-
-gestützt auf Artikel 63 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB, RB [3.3111](https://rechtsbuch.ur.ch/data/3.3111/de)),
+Der Regierungsrat des Kantons Uri, gestützt auf Artikel 63 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB)<sup>2</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 31. Mai 2024
 
 #### Artikel 1
 
@@ -32,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat wählt eine beauftragte Person für das öffentliche Beschaffungswesen (Submissionsbeauftragte oder Submissionsbeauftragter) sowie eine Stellvertretung.
 
-<sup>2</sup> Die Entschädigung richtet sich nach der Nebenamtsverordnung (RB 2.2251).
+<sup>2</sup> Die Entschädigung richtet sich nach der Nebenamtsverordnung<sup>3</sup>.
 
 #### Artikel 2
 
@@ -52,18 +54,20 @@ beschliesst:
 
 **Statistik**
 
-<sup>1</sup> Gestützt auf Artikel 50 Absatz 1 IVöB betraut der Regierungsrat die Baudirektion mit dem Verfassen der Statistik im Staatsvertragsbereich.
+Gestützt auf Artikel 50 Absatz 1 IVöB betraut der Regierungsrat die Baudirektion mit dem Verfassen der Statistik im Staatsvertragsbereich.
 
 #### Artikel 4
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 4. April 2023 über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Submissionsreglement) wird aufgehoben.
+Das Reglement vom 4. April 2023 über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Submissionsreglement) wird aufgehoben.
 
 #### Artikel 5
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Juni 2024 in Kraft.
+**Im Namen des Regierungsrates**
 
-AB 31.05.2024
+**Der Landammann: Urs Janett Der Kanzleidirektor: Roman Balli**
+
+Dieses Reglement tritt am 1. Juni 2024 in Kraft .
