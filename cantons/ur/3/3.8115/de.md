@@ -1,29 +1,34 @@
 ---
 canton: UR
 number: "3.8115"
-title: Videoverordnung
+title: VIDEOVERORDNUNG
 language: de
 version: 2024-07-01
+corrected: 2025-06-23
 version_adopted: 2024-03-03
 adopted: 2010-03-31
 in_force: 2011-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8115"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/436/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/123/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Videoverordnung
+# VIDEOVERORDNUNG
 
-Vom 31.03.2010 (Stand 01.07.2024)
+VIDEOVERORDNUNG
 
-Der Landrat des Kantons Uri,
+(vom 31. März 2010[^t-1]; Stand am 1. Juli 2024)
 
-gestützt auf Artikel 21a und 23b des Polizeigesetzes vom 30. November 2008 (PolG, RB [3.8111](https://rechtsbuch.ur.ch/data/3.8111/de)),
+Der Landrat des Kantons Uri, gestützt auf Artikel 21a und 23b des Polizeigesetzes vom 30. November 2008 (PolG)[^t-2],
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: AB vom 16. April 2010
+[^t-2]: RB 3.8111
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Artikel 1
 
@@ -31,15 +36,20 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt:
 
-- a) den Einsatz von Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Kundgebungen und
-- b) den Einsatz von Videogeräten ohne Ton, um öffentlich zugängliche Strassen, Plätze und Räume zu überwachen
-- c) den Einsatz der automatisierten Fahrzeugfahndung
+- a) den Einsatz von Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Kundgebungen; und
+
+- b) den Einsatz von Videogeräten ohne Ton, um öffentlich zugängliche Strassen, Plätze und Räume zu überwachen;
+
+- c) den Einsatz der automatisierten Fahrzeugfahndung.[^1-1]
 
 <sup>2</sup> Sie gilt für die Kantonspolizei und für die Gemeindebehörden, die mit Videogeräten öffentlich zugängliche Strassen, Plätze und Räume überwachen.
 
-<sup>3</sup> Vorbehalten bleibt die besondere Gesetzgebung, namentlich die Strafprozessordnung.
+<sup>3</sup> Vorbehalten bleibt die besondere Gesetzgebung, namentlich die Strafprozessordnung[^1-2].
 
-## 2 Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Kundgebungen
+[^1-1]: Eingefügt durch VA vom 3. März 2024, in Kraft gesetzt auf den 1. Juli 2024 (AB vom 13. Oktober 2023).
+[^1-2]: RB 3.9222
+
+### 2. Abschnitt: Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Kundgebungen
 
 #### Artikel 2
 
@@ -47,31 +57,31 @@ beschliesst:
 
 <sup>1</sup> Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Kundgebungen sind zulässig, wenn Anzeichen bestehen, dass es zu strafbaren Handlungen kommen könnte.
 
-<sup>2</sup> Das ist insbesondere der Fall, wenn:
+2 Das ist insbesondere der Fall, wenn a) im Vorfeld einer Veranstaltung oder Kundgebung zu Gewalttätigkeiten aufgerufen wird;
 
-- a) im Vorfeld einer Veranstaltung oder Kundgebung zu Gewalttätigkeiten aufgerufen wird
-- b) aufgrund der organisierenden Personen, der Teilnehmer oder Teilnehmerinnen, des Themas einer Veranstaltung oder Kundgebung oder des allgemeinen politischen Klimas mit spontanen Gewalttätigkeiten oder anderen Rechtsgutverletzungen zu rechnen ist
-- c) bei Sportveranstaltungen mit randalierendem Publikum gerechnet werden muss
+- b) aufgrund der organisierenden Personen, der Teilnehmer oder Teilnehmerinnen, des Themas einer Veranstaltung oder Kundgebung oder des allgemeinen politischen Klimas mit spontanen Gewalttätigkeiten oder anderen Rechtsgutverletzungen zu rechnen ist;
+
+- c) bei Sportveranstaltungen mit randalierendem Publikum gerechnet werden muss.
 
 #### Artikel 3
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Polizeikommandant oder die Polizeikommandantin ist zuständig, bei öffentlichen Veranstaltungen und Kundgebungen Bild- und Tonaufzeichnungen anzuordnen. In dringenden Fällen kann der Pikettoffizier oder die Pikettoffizierin an seiner oder ihrer Stelle handeln.
+Der Polizeikommandant oder die Polizeikommandantin ist zuständig, bei öffentlichen Veranstaltungen und Kundgebungen Bild- und Tonaufzeichnungen anzuordnen. In dringenden Fällen kann der Pikettoffizier oder die Pikettoffizierin an seiner oder ihrer Stelle handeln.
 
-## 3 Videoüberwachung
+### 3. Abschnitt: Videoüberwachung
 
 #### Artikel 4
 
 **Voraussetzungen**
 
-<sup>1</sup> Öffentlich zugängliche Strassen, Plätze und Räume dürfen mit Videokameras ohne Ton überwacht werden, wenn diese Massnahme geeignet und notwendig erscheint, um die öffentliche Ruhe, Ordnung und Sicherheit zu gewährleisten, und wenn sie in einem angemessenen Verhältnis zum angestrebten Ziel steht.
+Öffentlich zugängliche Strassen, Plätze und Räume dürfen mit Videokameras ohne Ton überwacht werden, wenn diese Massnahme geeignet und notwendig erscheint, um die öffentliche Ruhe, Ordnung und Sicherheit zu gewährleisten, und wenn sie in einem angemessenen Verhältnis zum angestrebten Ziel steht.
 
 #### Artikel 5
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher der zuständigen Direktion[^Artikel5-1] kann die Videoüberwachung verfügen, wenn die Voraussetzungen dazu erfüllt sind.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher der zuständigen Direktion[^5-1] kann die Videoüberwachung verfügen, wenn die Voraussetzungen dazu erfüllt sind.
 
 <sup>2</sup> In gleicher Weise kann der Gemeinderat die Videoüberwachung auf dem Gemeindegebiet verfügen. Er koordiniert sie vorgängig mit der Kantonspolizei.
 
@@ -79,7 +89,7 @@ beschliesst:
 
 <sup>4</sup> Die verfügende Behörde meldet der mit dem Datenschutz beauftragten Person unverzüglich die rechtskräftig verfügte Videoüberwachung.
 
-[^Artikel5-1]: Sicherheitsdirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^5-1]: Sicherheitsdirektion; siehe Organisationsreglement (RB 2.3322).
 
 #### Artikel 6
 
@@ -87,10 +97,13 @@ beschliesst:
 
 <sup>1</sup> Die Videoüberwachung ist mit einer schriftlichen Verfügung anzuordnen. Diese nennt:
 
-- a) den Zweck der Überwachung
-- b) das überwachte Gebiet
-- c) die Dauer und Art der Überwachung
-- d) das Rechtsmittel, das gegen die Verfügung ergriffen werden kann
+- a) den Zweck der Überwachung;
+
+- b) das überwachte Gebiet;
+
+- c) die Dauer und Art der Überwachung;
+
+- d) das Rechtsmittel, das gegen die Verfügung ergriffen werden kann.
 
 <sup>2</sup> Die Verfügung ist im Amtsblatt des Kantons Uri zu veröffentlichen, bevor die Videoüberwachung durchgeführt wird.
 
@@ -100,13 +113,15 @@ beschliesst:
 
 <sup>1</sup> Verfügungen, die eine Videoüberwachung anordnen, sind anfechtbar. Die Beschwerdefrist läuft ab der Veröffentlichung der Verfügung im Amtsblatt. Die Beschwerde hat keine aufschiebende Wirkung.
 
-<sup>2</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
+<sup>2</sup> Im Übrigen richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^7-1].
+
+[^7-1]: RB 2.2345
 
 #### Artikel 8
 
 **Hinweis vor Ort**
 
-<sup>1</sup> Am überwachten Ort ist gut sichtbar auf die Videoüberwachung hinzuweisen. Die Stelle, die die Überwachung angeordnet hat, ist zu bezeichnen.
+Am überwachten Ort ist gut sichtbar auf die Videoüberwachung hinzuweisen. Die Stelle, die die Überwachung angeordnet hat, ist zu bezeichnen.
 
 #### Artikel 9
 
@@ -116,16 +131,19 @@ beschliesst:
 
 <sup>2</sup> Sie sind nur zu jenen Zeiten zu betreiben, die nötig sind, um das Ziel der Überwachung zu erreichen.
 
-## 3a Automatisierte Fahrzeugfahndung
+[^9-1]: Eingefügt durch VA vom 3. März 2024, in Kraft gesetzt auf den 1. Juli 2024 (AB vom 13. Oktober 2023).
 
-#### Artikel 9a
+### 3a. Abschnitt: Automatisierte Fahrzeugfahndung
 
-**Anordnung, Protokollierung und Überprüfung**
+[^9-1]
+
+Artikel 9a[^h3aAbschnitt91-1] Anordnung, Protokollierung und Überprüfung
 
 <sup>1</sup> Zur Anordnung der automatisierten Fahrzeugfahndung sind befugt:
 
-- a) Die Polizeikommandantin oder der Polizeikommandant bei stationären Überwachungen
-- b) Das Kommandopikett bei mobilen und semi-stationären Überwachungen
+- a) Die Polizeikommandantin oder der Polizeikommandant bei stationären Überwachungen;
+
+- b) Das Kommandopikett bei mobilen und semi-stationären Überwachungen.
 
 <sup>2</sup> Die Anordnung von mobilen und semi-stationären Überwachungen ist auf höchstens zwei Tage begrenzt.
 
@@ -133,16 +151,19 @@ beschliesst:
 
 <sup>4</sup> Die Polizeikommandantin oder der Polizeikommandant überprüft periodisch die Verhältnismässigkeit von stationären Überwachungen.
 
-## 4 Gemeinsame Bestimmungen
+[^h3aAbschnitt91-1]: Eingefügt durch VA vom 3. März 2024, in Kraft gesetzt auf den 1. Juli 2024 (AB vom 13. Oktober 2023).
+
+### 4. Abschnitt: Gemeinsame Bestimmungen
 
 #### Artikel 10
 
 **Begriffe**
 
-<sup>1</sup> In dieser Verordnung bedeuten:
+In dieser Verordnung bedeuten:
 
-- a) Auswertung: Die Bild- und Tonaufzeichnungen werden abgespielt und eingesehen
-- b) Bearbeitung: Jeder weitere Umgang mit den Bild- und Tonaufzeichnungen, wie Umarbeitung, Verwendung, Bekanntgabe, Weitergabe, Archivierung oder Vernichtung
+- a) Auswertung: Die Bild- und Tonaufzeichnungen werden abgespielt und eingesehen.
+
+- b) Bearbeitung: Jeder weitere Umgang mit den Bild- und Tonaufzeichnungen, wie Umarbeitung, Verwendung, Bekanntgabe, Weitergabe, Archivierung oder Vernichtung.
 
 #### Artikel 11
 
@@ -158,8 +179,9 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei ist befugt, Bild-, Ton- und Videoaufzeichnungen zu bearbeiten, um:
 
-- a) die strafbaren Handlungen zu dokumentieren
-- b) den Täter oder die Täterin zu ermitteln
+- a) die strafbaren Handlungen zu dokumentieren;
+
+- b) den Täter oder die Täterin zu ermitteln.
 
 <sup>2</sup> Bild- und Tonaufzeichnungen, die bei öffentlichen Veranstaltungen und Kundgebungen gemacht worden sind, dürfen zudem bearbeitet werden, um den Polizeieinsatz im Hinblick auf mögliche Straf- oder Disziplinarverfahren sowie Schadenersatz- und Genugtuungsforderungen gegen die Polizei festzuhalten.
 
@@ -187,9 +209,11 @@ beschliesst:
 
 <sup>3</sup> Zugang zu den Aufzeichnungsgeräten haben nur die nach Absatz 1 bezeichneten Personen und das technische Wartungspersonal, um die technischen Geräte zu unterhalten.
 
-<sup>4</sup> Im Übrigen gelten die Vorschriften des Gesetzes über den Schutz von Personendaten (RB [2.2511](https://rechtsbuch.ur.ch/data/2.2511/de)).
+4 Im Übrigen gelten die Vorschriften des Gesetzes über den Schutz von Personendaten[^14-1].
 
-## 5 Finanzierung
+[^14-1]: RB 2.2511
+
+### 5. Abschnitt: Finanzierung
 
 #### Artikel 15
 
@@ -199,7 +223,7 @@ beschliesst:
 
 <sup>2</sup> Die Kosten für die Auswertung und Bearbeitung der Bildaufzeichnungen trägt der Kanton.
 
-## 6 Schlussbestimmungen
+### 6. Abschnitt: Schlussbestimmungen
 
 #### Artikel 16
 
@@ -207,8 +231,10 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^Artikel16-1].
+<sup>2</sup> Der Regierungsrat bestimmt, wann sie in Kraft tritt[^16-1].
 
-[^Artikel16-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2011 (AB vom 12. November 2010).
+Im Namen des Landrats
 
-AB 16.04.2010
+Der Präsident: Paul Jans Der Kanzleidirektor: Dr. Peter Huber
+
+[^16-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2011 (AB vom 12. November 2010).
