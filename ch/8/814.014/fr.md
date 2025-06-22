@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2005 sur les émoluments de l'Office fédéral de l
 short: OEmol-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: fr
-version: 2025-05-01
+version: 2025-06-23
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250623/fr/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250623-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250501/fr"
 
 (Ordonnance sur les émoluments de l’OFEV, OEmol-OFEV)[^t-1]
 
-du 3 juin 2005 (État le 1<sup>er</sup> mai 2025)
+du 3 juin 2005 (État le 23 juin 2025)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -144,7 +144,7 @@ Annexe[^t-2]
 
 ## Taux d’émoluments fixes et tarif-cadre
 
-[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), le ch. III de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) et l’art. 10 ch. 2 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
+[^t-2]: Mise à jour par l’annexe 3 ch. II 3 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), l’annexe 2 ch. 5 de l’O du 22 nov. 2006 sur les émoluments de l’OFEN ([RO 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762), [2007 2267](https://fedlex.data.admin.ch/eli/oc/2007/318)), l’annexe 5 ch. 4 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), l’annexe 5 ch. 8 de l’O du 9 mai 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), l’annexe ch. II 1 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), le ch. I 1 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), le ch. I de l’O du 27 sept. 2019 ([RO 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), le ch. III de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), l’annexe 3 ch. 1 de l’O du 12 mai 2021 sur le commerce de bois ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)) et l’art. 10 ch. 2 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)). Erratum du 23 juin 2025 ([RO 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)).
 
 <table>
 <tr><th></th><th>francs</th></tr>
@@ -154,7 +154,7 @@ Annexe[^t-2]
 <tr><td>b. prises de position nécessitant un investissement important</td><td>2000</td></tr>
 <tr><td>c. prises de position nécessitant un investissement très important</td><td>selon l’investissement, mais au maximum 20 000</td></tr>
 <tr><td>– loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^annexu1-lvlu1-1] (art. 3, al. 4)</td><td></td></tr>
-<tr><td>– loi fédérale du 21 décembre 1948 sur l’aviation[^annexu1-lvlu1-2] (art. 42, al. 3)</td><td></td></tr>
+<tr><td>– loi fédérale du 21 décembre 1948 sur l’aviation[^annexu1-lvlu1-2] (art. 36*c* et 37)</td><td></td></tr>
 <tr><td>– ordonnance du 14 novembre 1973 sur l’aviation[^annexu1-lvlu1-3] (art. 86, al. 1)</td><td></td></tr>
 <tr><td>– loi fédérale du 7 octobre 1983 sur la protection de l’environnement (art. 41, al. 2)</td><td></td></tr>
 <tr><td>– ordonnance du 19 octobre 1988 relative à l’étude de l’impact sur l’environnement[^annexu1-lvlu1-4] (art. 12, al. 2)</td><td></td></tr>
