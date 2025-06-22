@@ -3,11 +3,11 @@ sr: "0.192.110.127.32"
 title: Vereinbarung vom 1. Juli 1959 über die Privilegien und Immunitäten der Internationalen Atomenergie-Agentur
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/116_118_118"
 language: de
-version: 2023-11-15
+version: 2025-06-23
 adopted: 1959-07-01
 in_force: 1969-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20231115/de/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20231115-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20231115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20250623/de/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20250623-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20250623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1970** 116; BBl **1969** I 217
 
 Vom Direktionskomitee genehmigt am 1. Juli 1959 Von der Bundesversammlung genehmigt am 18. Juni 1969[^t-1] Schweizerische Annahmeurkunde hinterlegt am 16. September 1969 In Kraft getreten für die Schweiz am 16. September 1969
 
-(Stand am 15. November 2023)
+(Stand am 23. Juni 2025)
 
 [^t-1]: [AS 1970 114](https://fedlex.data.admin.ch/eli/oc/1970/114_117_117)
 
@@ -310,7 +310,7 @@ Diese Vereinbarung bleibt zwischen der Agentur und jedem Mitglied, das eine Anna
 
 Auf Verlangen eines Drittels der Vertragsstaaten dieser Vereinbarung zieht das Direktionskomitee der Agentur die Genehmigung von Änderungen in Erwägung. Vom Komitee genehmigte Änderungen treten in Kraft, sobald sie nach dem in Abschnitt 38 vorgesehenen Verfahren angenommen worden sind.
 
-Geltungsbereich am 15. November 2023[^t-2]
+Geltungsbereich am 23. Juni 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolge- erklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -325,6 +325,7 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Bosnien und Herzegowina\*</td><td>11. Juni</td><td>2009</td><td>11. Juni</td><td>2009</td></tr>
 <tr><td>Brasilien</td><td>13. Juni</td><td>1966</td><td>13. Juni</td><td>1966</td></tr>
 <tr><td>Bulgarien\*</td><td>17. Juni</td><td>1968</td><td>17. Juni</td><td>1968</td></tr>
+<tr><td>Burkina Faso\*</td><td>28. März</td><td>2025</td><td>28. März</td><td>2025</td></tr>
 <tr><td>Brunei\*</td><td>19. März</td><td>2018</td><td>19. März</td><td>2018</td></tr>
 <tr><td>Chile\*</td><td>8. Dezember</td><td>1987</td><td>8. Dezember</td><td>1987</td></tr>
 <tr><td>China\*</td><td>16. Juli</td><td>1984</td><td>16. Juli</td><td>1984</td></tr>
@@ -332,6 +333,7 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Dänemark\*</td><td>14. März</td><td>1962</td><td>14. März</td><td>1962</td></tr>
 <tr><td>Deutschland\*</td><td>4. August</td><td>1960</td><td>4. August</td><td>1960</td></tr>
 <tr><td>Ecuador</td><td>16. April</td><td>1969</td><td>16. April</td><td>1969</td></tr>
+<tr><td>El Salvador\*</td><td>22. März</td><td>2024</td><td>22. März</td><td>2024</td></tr>
 <tr><td>Eritrea\*</td><td>13. März</td><td>2020</td><td>13. März</td><td>2020</td></tr>
 <tr><td>Estland</td><td>12. Februar</td><td>1992</td><td>12. Februar</td><td>1992</td></tr>
 <tr><td>Finnland</td><td>29. Juli</td><td>1960</td><td>29. Juli</td><td>1960</td></tr>
@@ -362,6 +364,7 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Lesotho</td><td>16. September</td><td>2019</td><td>16. September</td><td>2019</td></tr>
 <tr><td>Lettland</td><td>5. Januar</td><td>2000</td><td>5. Januar</td><td>2000</td></tr>
 <tr><td>Libanon</td><td>13. April</td><td>2022</td><td>13. April</td><td>2022</td></tr>
+<tr><td>Liberia</td><td>18. September</td><td>2024</td><td>18. September</td><td>2024</td></tr>
 <tr><td>Litauen</td><td>28. Februar</td><td>2001</td><td>28. Februar</td><td>2001</td></tr>
 <tr><td>Luxemburg\*</td><td>24. März</td><td>1972</td><td>24. März</td><td>1972</td></tr>
 <tr><td>Marokko\*</td><td>30. März</td><td>1977</td><td>30. März</td><td>1977</td></tr>
@@ -390,6 +393,7 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Portugal\*</td><td>27. November</td><td>2006</td><td>27. November</td><td>2006</td></tr>
 <tr><td>Rumänien\*</td><td>7. Oktober</td><td>1970</td><td>7. Oktober</td><td>1970</td></tr>
 <tr><td>Russland\*</td><td>1. Juli</td><td>1966</td><td>1. Juli</td><td>1966</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>7. August</td><td>2024</td><td>7. August</td><td>2024</td></tr>
 <tr><td>Schweden</td><td>8. September</td><td>1961</td><td>8. September</td><td>1961</td></tr>
 <tr><td>Schweiz\*</td><td>16. September</td><td>1969</td><td>16. September</td><td>1969</td></tr>
 <tr><td>Senegal</td><td>15. Dezember</td><td>2006</td><td>15. Dezember</td><td>2006</td></tr>
@@ -399,6 +403,7 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Slowakei</td><td>10. Februar</td><td>1993 N</td><td>27. September</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>7. Juli</td><td>1992 N</td><td>21. September</td><td>1992</td></tr>
 <tr><td>Spanien</td><td>21. Mai</td><td>1984</td><td>21. Mai</td><td>1984</td></tr>
+<tr><td>Sri Lanka\*</td><td>5. Juli</td><td>2024</td><td>5. Juli</td><td>2024</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>12. Juni</td><td>2023</td><td>12. Juni</td><td>2023</td></tr>
 <tr><td>Südafrika\*</td><td>13. September</td><td>2002</td><td>13. September</td><td>2002</td></tr>
 <tr><td>Syrien</td><td>18. Dezember</td><td>1989</td><td>18. Dezember</td><td>1989</td></tr>
@@ -413,10 +418,10 @@ Geltungsbereich am 15. November 2023[^t-2]
 <tr><td>Vereinigtes Königreich</td><td>19. September</td><td>1961</td><td>19. September</td><td>1961</td></tr>
 <tr><td>Vietnam</td><td>31. Juli</td><td>1969</td><td>31. Juli</td><td>1969</td></tr>
 <tr><td>Zypern</td><td>27. Juli</td><td>1983</td><td>27. Juli</td><td>1983</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): [www.iaea.org/publications/documents](http://www.iaea.org/publications/documents) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1970 116](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118); [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263); [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287), [2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089); [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198); [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500); [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177); [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469); [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748); [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560), [1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601); [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373); [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598); [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694); [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84); [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572); [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782); [2023 659](https://fedlex.data.admin.ch/eli/oc/2023/659). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1970 116](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118); [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263); [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287), [2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089); [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198); [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500); [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177); [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469); [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748); [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560), [1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601); [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373); [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598); [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694); [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84); [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572); [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782); [2023 659](https://fedlex.data.admin.ch/eli/oc/2023/659); [2025 434](https://fedlex.data.admin.ch/eli/oc/2025/434). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

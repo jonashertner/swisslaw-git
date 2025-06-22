@@ -3,11 +3,11 @@ sr: "0.192.110.127.32"
 title: "Accord du 1<sup>er</sup> juillet 1959 sur les privilèges et immunités de l'Agence internationale de l'énergie atomique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/116_118_118"
 language: fr
-version: 2023-11-15
+version: 2025-06-23
 adopted: 1959-07-01
 in_force: 1969-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20231115/fr/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20231115-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20231115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20250623/fr/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20250623-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20250623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’acceptation déposé par la Suisse le 16 septembre 1969
 
 Entré en vigueur pour la Suisse le 16 septembre 1969
 
-(État le 15 novembre 2023)
+(État le 23 juin 2025)
 
 [^t-1]: [RO 1970 117](https://fedlex.data.admin.ch/eli/oc/1970/114_117_117)
 
@@ -307,13 +307,14 @@ Le présent Accord reste en vigueur entre l’Agence et tout Membre qui a dépos
 
 A la demande d’un tiers des États parties au présent Accord, le Conseil des gouverneurs de l’Agence examine s’il y a lieu d’approuver des amendements audit Accord. Les amendements approuvés par le Conseil entrent en vigueur après leur acceptation conformément à la procédure prévue à la section 38.
 
-Champ d’application le 15 novembre 2023[^t-2]
+Champ d’application le 23 juin 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud\*</td><td>13 septembre</td><td>2009</td><td>13 septembre</td><td>2002</td></tr>
 <tr><td>Albanie</td><td>10 avril</td><td>2003</td><td>10 avril</td><td>2003</td></tr>
 <tr><td>Allemagne\*</td><td>4 août</td><td>1960</td><td>4 août</td><td>1960</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>7 août</td><td>2024</td><td>7 août</td><td>2024</td></tr>
 <tr><td>Argentine</td><td>15 octobre</td><td>1963</td><td>15 octobre</td><td>1963</td></tr>
 <tr><td>Australie</td><td>9 mai</td><td>1986</td><td>9 mai</td><td>1986</td></tr>
 <tr><td>Bélarus\*</td><td>2 décembre</td><td>1966</td><td>2 décembre</td><td>1966</td></tr>
@@ -324,6 +325,7 @@ Champ d’application le 15 novembre 2023[^t-2]
 <tr><td>Brésil</td><td>13 juin</td><td>1966</td><td>13 juin</td><td>1966</td></tr>
 <tr><td>Brunéi\*</td><td>19 mars</td><td>2018</td><td>19 mars</td><td>2018</td></tr>
 <tr><td>Bulgarie\*</td><td>17 juin</td><td>1968</td><td>17 juin</td><td>1968</td></tr>
+<tr><td>Burkina Faso\*</td><td>28 mars</td><td>2025</td><td>28 mars</td><td>2025</td></tr>
 <tr><td>Cameroun</td><td>22 septembre</td><td>1988</td><td>22 septembre</td><td>1988</td></tr>
 <tr><td>Canada\*</td><td>15 juin</td><td>1966</td><td>15 juin</td><td>1966</td></tr>
 <tr><td>Chili\*</td><td>8 décembre</td><td>1987</td><td>8 décembre</td><td>1987</td></tr>
@@ -338,6 +340,7 @@ Champ d’application le 15 novembre 2023[^t-2]
 <tr><td>Cuba\*</td><td>24 août</td><td>1982</td><td>24 août</td><td>1982</td></tr>
 <tr><td>Danemark\*</td><td>14 mars</td><td>1962</td><td>14 mars</td><td>1962</td></tr>
 <tr><td>égypte</td><td>12 février</td><td>1963</td><td>12 février</td><td>1963</td></tr>
+<tr><td>El Salvador\*</td><td>22 mars</td><td>2024</td><td>22 mars</td><td>2024</td></tr>
 <tr><td>équateur</td><td>16 avril</td><td>1969</td><td>16 avril</td><td>1969</td></tr>
 <tr><td>Érythrée\*</td><td>13 mars</td><td>2020</td><td>13 mars</td><td>2020</td></tr>
 <tr><td>Espagne</td><td>21 mai</td><td>1984</td><td>21 mai</td><td>1984</td></tr>
@@ -362,6 +365,7 @@ Champ d’application le 15 novembre 2023[^t-2]
 <tr><td>Lesotho</td><td>16 septembre</td><td>2019</td><td>16 septembre</td><td>2019</td></tr>
 <tr><td>Lettonie</td><td>5 janvier</td><td>2000</td><td>5 janvier</td><td>2000</td></tr>
 <tr><td>Liban</td><td>13 avril</td><td>2022</td><td>13 avril</td><td>2022</td></tr>
+<tr><td>Libéria</td><td>18 septembre</td><td>2024</td><td>18 septembre</td><td>2024</td></tr>
 <tr><td>Lituanie</td><td>28 février</td><td>2001</td><td>28 février</td><td>2001</td></tr>
 <tr><td>Luxembourg\*</td><td>24 mars</td><td>1972</td><td>24 mars</td><td>1972</td></tr>
 <tr><td>Maroc\*</td><td>30 mars</td><td>1977</td><td>30 mars</td><td>1977</td></tr>
@@ -399,6 +403,7 @@ Champ d’application le 15 novembre 2023[^t-2]
 <tr><td>Singapour\*</td><td>19 juillet</td><td>1973</td><td>19 juillet</td><td>1973</td></tr>
 <tr><td>Slovaquie</td><td>10 février</td><td>1993 S</td><td>27 septembre</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>7 juillet</td><td>1992 S</td><td>21 septembre</td><td>1992</td></tr>
+<tr><td>Sri Lanka\*</td><td>5 juillet</td><td>2024</td><td>5 juillet</td><td>2024</td></tr>
 <tr><td>Suède</td><td>8 septembre</td><td>1961</td><td>8 septembre</td><td>1961</td></tr>
 <tr><td>Suisse\*</td><td>16 septembre</td><td>1969</td><td>16 septembre</td><td>1969</td></tr>
 <tr><td>Syrie</td><td>18 décembre</td><td>1989</td><td>18 décembre</td><td>1989</td></tr>
@@ -410,10 +415,10 @@ Champ d’application le 15 novembre 2023[^t-2]
 <tr><td>Uruguay</td><td>17 mars</td><td>2023</td><td>17 mars</td><td>2023</td></tr>
 <tr><td>Vietnam</td><td>31 juillet</td><td>1969</td><td>31 juillet</td><td>1969</td></tr>
 <tr><td>Zimbabwe</td><td>25 septembre</td><td>2023</td><td>25 septembre</td><td>2023</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations; Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): [www.iaea.org](http://www.iaea.org) &gt; Resources &gt; Treaties, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations; Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA) [www.iaea.org/publications/documents](http://www.iaea.org/publications/documents) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1970 118](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118); [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263); [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287), [2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089); [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198); [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500); [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177); [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469); [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748); [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560), [1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601); [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373); [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598); [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694); [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84); [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572); [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782); [2023 659](https://fedlex.data.admin.ch/eli/oc/2023/659). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1970 118](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118); [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263); [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287), [2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089); [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198); [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500); [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177); [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469); [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748); [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560), [1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601); [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373); [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598); [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694); [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84); [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572); [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782); [2023 659](https://fedlex.data.admin.ch/eli/oc/2023/659); [2025 434](https://fedlex.data.admin.ch/eli/oc/2025/434). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
