@@ -3,11 +3,11 @@ sr: "0.748.710.5"
 title: Übereinkommen vom 10. September 2010 über die Bekämpfung widerrechtlicher Handlungen mit Bezug auf die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/487"
 language: de
-version: 2024-08-08
+version: 2025-06-23
 adopted: 2010-09-10
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20240808/de/xml/fedlex-data-admin-ch-eli-cc-2018-487-20240808-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20240808/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20250623/de/xml/fedlex-data-admin-ch-eli-cc-2018-487-20250623-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20250623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 11. Dezember 2014
 
 In Kraft getreten für die Schweiz am 1. Juli 2018
 
-(Stand am 8. August 2024)
+(Stand am 23. Juni 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 20. Juni 2018 ([AS 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41)).
 
@@ -333,11 +333,12 @@ Der Depositar unterrichtet unverzüglich alle Vertragsstaaten dieses Übereinkom
 
 *Zu Urkund dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Peking am 10. September 2010 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist; diese Verbindlichkeit tritt ein, sobald das Sekretariat der Konferenz im Auftrag des Präsidenten der Konferenz binnen neunzig Tagen ab diesem Zeitpunkt bestätigt hat, dass die Wortlaute übereinstimmen. Dieses Übereinkommen wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden allen Vertragsstaaten des Übereinkommens vom Depositar übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. August 2024[^t-2]
+Geltungsbereich am 23. Juni 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Angola</td><td>11. Juni</td><td>2013 B</td><td>1. Juli</td><td>2018</td></tr>
+<tr><td>Äquatorialguinea</td><td>13. November</td><td>2024</td><td>1. Januar</td><td>2025</td></tr>
 <tr><td>Bahrain\*</td><td>26. Oktober</td><td>2017 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Benin</td><td>27. Oktober</td><td>2017</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Botsuana</td><td>30. April</td><td>2021 B</td><td>1. Juni</td><td>2021</td></tr>
@@ -365,6 +366,7 @@ Geltungsbereich am 8. August 2024[^t-2]
 <tr><td>Mongolei</td><td>3. Juli</td><td>2024</td><td>1. September</td><td>2024</td></tr>
 <tr><td>Mosambik</td><td>17. August</td><td>2016 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Myanmar</td><td>20. März</td><td>2013 B</td><td>1. Juli</td><td>2018</td></tr>
+<tr><td>Namibia\*</td><td>17. Juli</td><td>2024 B</td><td>1. September</td><td>2024</td></tr>
 <tr><td>Niederlande\*</td><td>17. März</td><td>2016</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>17. März</td><td>2016</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Oman</td><td>27. Januar</td><td>2023 B</td><td>1. März</td><td>2023</td></tr>
@@ -377,8 +379,11 @@ Geltungsbereich am 8. August 2024[^t-2]
 <tr><td>Schweden\*</td><td>12. Juli</td><td>2018 B</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>11. Dezember</td><td>2014 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>25. November</td><td>2015</td><td>1. Juli</td><td>2018</td></tr>
+<tr><td>Simbabwe</td><td>29. August</td><td>2024 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Singapur\*</td><td>20. Juli</td><td>2022 B</td><td>1. September</td><td>2022</td></tr>
 <tr><td>Slowakei\*</td><td>30. November</td><td>2023 B</td><td>1. Januar</td><td>2024</td></tr>
+<tr><td>Somalia</td><td>1. April</td><td>2025 B</td><td>1. Juni</td><td>2025</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>28. März</td><td>2025 B</td><td>1. Mai</td><td>2025</td></tr>
 <tr><td>St. Lucia\*</td><td>12. September</td><td>2012</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Tschechische Republik\*</td><td>2. Juli</td><td>2013</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Tunesien\*</td><td>2. April</td><td>2024 B</td><td>1. Juni</td><td>2024</td></tr>
@@ -386,8 +391,9 @@ Geltungsbereich am 8. August 2024[^t-2]
 <tr><td>Turkmenistan</td><td>17. Juni</td><td>2019 B</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>28. November</td><td>2017</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>5. Dezember</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>22. Mai</td><td>2025 B</td><td>1. Juli</td><td>2025</td></tr>
 <tr><td>Zypern</td><td>28. März</td><td>2019</td><td>1. Mai</td><td>2019</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410); [2025 441](https://fedlex.data.admin.ch/eli/oc/2025/441). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
