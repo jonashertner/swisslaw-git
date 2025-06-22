@@ -3,11 +3,11 @@ sr: "0.732.441"
 title: Protocollo comune del 21 settembre 1988 relativo all’applicazione della Convenzione di Vienna e della Convenzione di Parigi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/63"
 language: it
-version: 2022-04-07
+version: 2025-06-23
 adopted: 1988-09-21
 in_force: 2022-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20220407/it/xml/fedlex-data-admin-ch-eli-cc-2022-63-20220407-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20220407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20250623/it/xml/fedlex-data-admin-ch-eli-cc-2022-63-20250623-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20250623/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2022** 63; FF **2007** 4957
 
 Concluso a Vienna il 21 settembre 1988[^t-1] Approvato dall’Assemblea federale il 13 giugno 2008[^t-2] Strumento di ratifica depositato dalla Svizzera il 7 gennaio 2022 Entrato in vigore per la Svizzera il 7 aprile 2022
 
-(Stato 7 aprile 2022)
+(Stato 23 giugno 2025)
 
 [^t-1]: In occasione della Conferenza sulle relazioni tra la Conv. di Parigi e la Conv. di Vienna, tenutasi presso la sede dell’Agenzia internazionale per l’energia atomica a Vienna il 21 set. 1988.
 [^t-2]: Art. 1 cpv. 1 lett. c del DF del 13 giu. 2008 ([RU 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -114,46 +114,50 @@ Il testo originale del presente Protocollo, le cui versioni inglese, araba, cine
 
 *In fede di che*, i plenipotenziari sottoscritti, debitamente autorizzati dai rispettivi governi, hanno apposto le loro firme in calce al presente Protocollo comune. Fatto a Vienna, il ventuno settembre millenovecentoottantotto. (Seguono le firme)
 
-Campo d’applicazione il 25 gennaio 2022**[^t-3]**
+Campo d’applicazione il 23 giugno 2025[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Benin <sup>a</sup></td><td>18 settembre</td><td>2019 A</td><td>18 dicembre</td><td>2019</td></tr>
-<tr><td>Bulgaria <sup>a</sup></td><td>24 agosto</td><td>1994 A</td><td>24 novembre</td><td>1994</td></tr>
-<tr><td>Camerun <sup>a</sup></td><td>28 ottobre</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Cile <sup>a</sup></td><td>23 novembre</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Croazia <sup>a</sup></td><td>10 maggio</td><td>1994 A</td><td>10 agosto</td><td>1994</td></tr>
-<tr><td>Danimarca <sup>b</sup> <sup>c</sup></td><td>26 maggio</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Egitto <sup>a</sup></td><td>10 agosto</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Emirati Arabi Uniti <sup>a</sup></td><td>29 agosto</td><td>2012 A</td><td>29 novembre</td><td>2012</td></tr>
-<tr><td>Estonia <sup>a</sup></td><td>9 maggio</td><td>1994 A</td><td>9 agosto</td><td>1994</td></tr>
-<tr><td>Finlandia <sup>b</sup></td><td>3 ottobre</td><td>1994</td><td>3 gennaio</td><td>1995</td></tr>
+<tr><td>Belgio\* <sup>a</sup></td><td>17 luglio</td><td>2024</td><td>17 ottobre</td><td>2024</td></tr>
+<tr><td>Benin <sup>b</sup></td><td>18 settembre</td><td>2019 A</td><td>18 dicembre</td><td>2019</td></tr>
+<tr><td>Bulgaria <sup>b</sup></td><td>24 agosto</td><td>1994 A</td><td>24 novembre</td><td>1994</td></tr>
+<tr><td>Camerun <sup>b</sup></td><td>28 ottobre</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Cile <sup>b</sup></td><td>23 novembre</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Croazia <sup>b</sup></td><td>10 maggio</td><td>1994 A</td><td>10 agosto</td><td>1994</td></tr>
+<tr><td>Danimarca <sup>a</sup> <sup>c</sup></td><td>26 maggio</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Egitto <sup>b</sup></td><td>10 agosto</td><td>1989</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Emirati Arabi Uniti <sup>b</sup></td><td>29 agosto</td><td>2012 A</td><td>29 novembre</td><td>2012</td></tr>
+<tr><td>Estonia <sup>b</sup></td><td>9 maggio</td><td>1994 A</td><td>9 agosto</td><td>1994</td></tr>
+<tr><td>Finlandia <sup>a</sup></td><td>3 ottobre</td><td>1994</td><td>3 gennaio</td><td>1995</td></tr>
 <tr><td>Francia\* <sup>b</sup></td><td>30 aprile</td><td>2014</td><td>30 luglio</td><td>2014</td></tr>
-<tr><td>Germania <sup>b</sup></td><td>13 giugno</td><td>2001</td><td>13 settembre</td><td>2001</td></tr>
-<tr><td>Ghana <sup>a</sup></td><td>30 luglio</td><td>2020 A</td><td>30 ottobre</td><td>2020</td></tr>
-<tr><td>Grecia <sup>b</sup></td><td>16 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
-<tr><td>Italia <sup>b</sup></td><td>31 luglio</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Lettonia <sup>a</sup></td><td>15 marzo</td><td>1995 A</td><td>15 giugno</td><td>1995</td></tr>
-<tr><td>Lituania <sup>a</sup></td><td>20 settembre</td><td>1993 A</td><td>20 dicembre</td><td>1993</td></tr>
-<tr><td>Montenegro <sup>a</sup></td><td>14 febbraio</td><td>2019 A</td><td>14 maggio</td><td>2019</td></tr>
-<tr><td>Norvegia <sup>b</sup></td><td>11 marzo</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Paesi Bassi <sup>b</sup> <sup>d</sup></td><td>1° agosto</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Polonia <sup>a</sup></td><td>23 gennaio</td><td>1990 A</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Repubblica Ceca <sup>a</sup></td><td>24 marzo</td><td>1994 A</td><td>24 giugno</td><td>1994</td></tr>
-<tr><td>Romania <sup>a</sup></td><td>29 dicembre</td><td>1992 A</td><td>29 marzo</td><td>1993</td></tr>
-<tr><td>Saint Vincent e Grenadine <sup>a</sup></td><td>18 settembre</td><td>2001 A</td><td>18 dicembre</td><td>2001</td></tr>
-<tr><td>Slovacchia <sup>a</sup></td><td>7 marzo</td><td>1995 A</td><td>7 giugno</td><td>1995</td></tr>
-<tr><td>Slovenia <sup>b</sup></td><td>27 gennaio</td><td>1995 A</td><td>27 aprile</td><td>1995</td></tr>
-<tr><td>Svezia <sup>b</sup></td><td>27 gennaio</td><td>1992</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Svizzera\* <sup>b</sup></td><td>7 gennaio</td><td>2022</td><td>7 aprile</td><td>2022</td></tr>
-<tr><td>Turchia <sup>b</sup></td><td>26 marzo</td><td>2007</td><td>26 giugno</td><td>2007</td></tr>
-<tr><td>Ucraina <sup>a</sup></td><td>24 marzo</td><td>2000 A</td><td>24 giugno</td><td>2000</td></tr>
-<tr><td>Ungheria <sup>a</sup></td><td>26 marzo</td><td>1990</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Uruguay <sup>a</sup></td><td>28 luglio</td><td>2009 A</td><td>28 ottobre</td><td>2009</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in inglese si possono consultare sul sito internet dell’Agenzia internazionale per l’energia atomica (AIEA): www.iaea.org &gt; Topics &gt; Nuclear safety and security &gt; Governmental, legal and regulatory framework &gt; Conventions &gt; Nuclear liability conventions o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato è Parte contraente della Conv. di Vienna del 21 mag. 1963 relativa alla responsabilità civile in materia di danni nucleari. <sup>b</sup> Questo Stato è Parte contraente della Conv. del 29 lug. 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Prot. addizionale del 28 gen. 1964, dal Prot. del 16 nov. 1982 e dal Prot. del 12 feb. 2004. <sup>c</sup> Il Prot. non si applica alle Isole Faeröer. <sup>d</sup> Al Regno in Europa. [tab]</td></tr>
+<tr><td>Germania <sup>a</sup></td><td>13 giugno</td><td>2001</td><td>13 settembre</td><td>2001</td></tr>
+<tr><td>Ghana <sup>b</sup></td><td>30 luglio</td><td>2020 A</td><td>30 ottobre</td><td>2020</td></tr>
+<tr><td>Grecia <sup>a</sup></td><td>16 maggio</td><td>2001</td><td>16 agosto</td><td>2001</td></tr>
+<tr><td>Italia <sup>a</sup></td><td>31 luglio</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Lettonia <sup>b</sup></td><td>15 marzo</td><td>1995 A</td><td>15 giugno</td><td>1995</td></tr>
+<tr><td>Lituania <sup>b</sup></td><td>20 settembre</td><td>1993 A</td><td>20 dicembre</td><td>1993</td></tr>
+<tr><td>Marocco <sup>b</sup></td><td>6 maggio</td><td>2022</td><td>6 agosto</td><td>2022</td></tr>
+<tr><td>Montenegro <sup>b</sup></td><td>14 febbraio</td><td>2019 A</td><td>14 maggio</td><td>2019</td></tr>
+<tr><td>Norvegia <sup>a</sup></td><td>11 marzo</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Paesi Bassi <sup>a</sup> <sup>d</sup></td><td>1° agosto</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Polonia <sup>b</sup></td><td>23 gennaio</td><td>1990 A</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Repubblica Ceca <sup>b</sup></td><td>24 marzo</td><td>1994 A</td><td>24 giugno</td><td>1994</td></tr>
+<tr><td>Romania <sup>b</sup></td><td>29 dicembre</td><td>1992 A</td><td>29 marzo</td><td>1993</td></tr>
+<tr><td>Saint Vincent e Grenadine <sup>b</sup></td><td>18 settembre</td><td>2001 A</td><td>18 dicembre</td><td>2001</td></tr>
+<tr><td>Slovacchia <sup>b</sup></td><td>7 marzo</td><td>1995 A</td><td>7 giugno</td><td>1995</td></tr>
+<tr><td>Slovenia <sup>a</sup></td><td>27 gennaio</td><td>1995 A</td><td>27 aprile</td><td>1995</td></tr>
+<tr><td>Spagna <sup>a</sup></td><td>19 maggio</td><td>2025</td><td>19 agosto</td><td>2025</td></tr>
+<tr><td>Svezia <sup>a</sup></td><td>27 gennaio</td><td>1992</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Svizzera\* <sup>a</sup></td><td>7 gennaio</td><td>2022</td><td>7 aprile</td><td>2022</td></tr>
+<tr><td>Turchia <sup>a</sup></td><td>26 marzo</td><td>2007</td><td>26 giugno</td><td>2007</td></tr>
+<tr><td>Ucraina <sup>b</sup></td><td>24 marzo</td><td>2000 A</td><td>24 giugno</td><td>2000</td></tr>
+<tr><td>Ungheria <sup>b</sup></td><td>26 marzo</td><td>1990</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Uruguay <sup>b</sup></td><td>28 luglio</td><td>2009 A</td><td>28 ottobre</td><td>2009</td></tr>
+<tr><td>Zimbabwe <sup>b</sup></td><td>25 settembre</td><td>2023 A</td><td>25 dicembre</td><td>2023</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in inglese si possono consultare sul sito internet dell’Agenzia internazionale per l’energia atomica (AIEA): www.iaea.org &gt; Topics &gt; Nuclear safety and security &gt; Governmental, legal and regulatory framework &gt; Conventions &gt; Nuclear liability conventions o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato è parte contraente della Conv. del 29 lug. 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Prot. addizionale del 28 gen. 1964, dal Prot. del 16 nov. 1982 e dal Prot. del 12 fe. 2004. <sup>b</sup> Questo Stato è parte contraente della Conv. di Vienna del 21 mag. 1963 sulla responsabilità civile per danni nucleari. <sup>c</sup> Il Prot. non si applica alle Isole Faeröer. <sup>d</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-3]: [RU 2022 63](https://fedlex.data.admin.ch/eli/oc/2022/63); [2025 437](https://fedlex.data.admin.ch/eli/oc/2025/437)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Svizzera
 

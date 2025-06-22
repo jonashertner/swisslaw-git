@@ -3,11 +3,11 @@ sr: "0.732.441"
 title: Gemeinsames Protokoll vom 21. September 1988 über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/63"
 language: de
-version: 2022-04-07
+version: 2025-06-23
 adopted: 1988-09-21
 in_force: 2022-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20220407/de/xml/fedlex-data-admin-ch-eli-cc-2022-63-20220407-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20220407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20250623/de/xml/fedlex-data-admin-ch-eli-cc-2022-63-20250623-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20250623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2022** 63; BBl **2007** 5397
 
 Abgeschlossen in Wien am 21. September 1988[^t-1] Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 7. Januar 2022 In Kraft getreten für die Schweiz am 7. April 2022
 
-(Stand am 7. April 2022)
+(Stand am 23. Juni 2025)
 
 [^t-1]: Anlässlich der Konferenz über die Beziehung zwischen dem Pariser Übereinkommen und dem Wiener Übereinkommen am Sitz der Internationalen Atomenergie-Organisation in Wien am 21. September 1988.
 [^t-2]: Art. 1 Abs. 1 Bst. c des BB vom 13. Juni 2008 ([AS 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42))
@@ -123,11 +123,12 @@ Die Urschrift dieses Protokolls, dessen arabischer, chinesischer, englischer, fr
 
 *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig befugten Unterzeichneten dieses Gemeinsame Protokoll unterschrieben. Geschehen zu Wien am 21. September 1988. (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. Januar 2022**[^t-3]**
+Geltungsbereich am 23. Juni 2025[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten <sup>a</sup></td><td>10. August</td><td>1989</td><td>27. April</td><td>1992</td></tr>
+<tr><td>Belgien\* <sup>b</sup></td><td>17. Juli</td><td>2024</td><td>17. Oktober</td><td>2024</td></tr>
 <tr><td>Benin <sup>a</sup></td><td>18. September</td><td>2019 B</td><td>18. Dezember</td><td>2019</td></tr>
 <tr><td>Bulgarien <sup>a</sup></td><td>24. August</td><td>1994 B</td><td>24. November</td><td>1994</td></tr>
 <tr><td>Chile <sup>a</sup></td><td>23. November</td><td>1989</td><td>27. April</td><td>1992</td></tr>
@@ -143,6 +144,7 @@ Geltungsbereich am 25. Januar 2022**[^t-3]**
 <tr><td>Kroatien <sup>a</sup></td><td>10. Mai</td><td>1994 B</td><td>10. August</td><td>1994</td></tr>
 <tr><td>Lettland <sup>a</sup></td><td>15. März</td><td>1995 B</td><td>15. Juni</td><td>1995</td></tr>
 <tr><td>Litauen <sup>a</sup></td><td>20. September</td><td>1993 B</td><td>20. Dezember</td><td>1993</td></tr>
+<tr><td>Marokko <sup>a</sup></td><td>6. Mai</td><td>2022</td><td>6. August</td><td>2022</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>14. Februar</td><td>2019 B</td><td>14. Mai</td><td>2019</td></tr>
 <tr><td>Niederlande <sup>b</sup> <sup>d</sup></td><td>1. August</td><td>1991</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Norwegen <sup>b</sup></td><td>11. März</td><td>1991</td><td>27. April</td><td>1992</td></tr>
@@ -150,8 +152,10 @@ Geltungsbereich am 25. Januar 2022**[^t-3]**
 <tr><td>Rumänien <sup>a</sup></td><td>29. Dezember</td><td>1992 B</td><td>29. März</td><td>1993</td></tr>
 <tr><td>Schweden <sup>b</sup></td><td>27. Januar</td><td>1992</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Schweiz\* <sup>b</sup></td><td>7. Januar</td><td>2022</td><td>7. April</td><td>2022</td></tr>
+<tr><td>Simbabwe <sup>a</sup></td><td>25. September</td><td>2023 B</td><td>25. Dezember</td><td>2023</td></tr>
 <tr><td>Slowakei <sup>a</sup></td><td>7. März</td><td>1995 B</td><td>7. Juni</td><td>1995</td></tr>
 <tr><td>Slowenien <sup>b</sup></td><td>27. Januar</td><td>1995 B</td><td>27. April</td><td>1995</td></tr>
+<tr><td>Spanien <sup>b</sup></td><td>19. Mai</td><td>2025</td><td>19. August</td><td>2025</td></tr>
 <tr><td>St. Vincent und die Grenadinen <sup>a</sup></td><td>18. September</td><td>2001 B</td><td>18. Dezember</td><td>2001</td></tr>
 <tr><td>Tschechische Republik <sup>a</sup></td><td>24. März</td><td>1994 B</td><td>24. Juni</td><td>1994</td></tr>
 <tr><td>Türkei <sup>b</sup></td><td>26. März</td><td>2007</td><td>26. Juni</td><td>2007</td></tr>
@@ -159,10 +163,10 @@ Geltungsbereich am 25. Januar 2022**[^t-3]**
 <tr><td>Ungarn <sup>a</sup></td><td>26. März</td><td>1990</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Uruguay <sup>a</sup></td><td>28. Juli</td><td>2009 B</td><td>28. Oktober</td><td>2009</td></tr>
 <tr><td>Vereinigte Arabische Emirate <sup>a</sup></td><td>29. August</td><td>2012 B</td><td>29. November</td><td>2012</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Staat ist Vertragspartei des Wiener Übereinkommens vom 21. Mai 1963 über die zivilrechtliche Haftung für nukleare Schäden. <sup>b</sup> Dieser Staat ist Vertragspartei des Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004. <sup>c</sup> Das Protokoll gilt nicht für die Färöer. <sup>d</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA) [www.iaea.org/publications/documents](http://www.iaea.org/publications/documents) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Staat ist Vertragspartei des Wiener Übereinkommens vom 21. Mai 1963 über die zivilrechtliche Haftung für nukleare Schäden. <sup>b</sup> Dieser Staat ist Vertragspartei des Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004. <sup>c</sup> Das Protokoll gilt nicht für die Färöer. <sup>d</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 2022 63](https://fedlex.data.admin.ch/eli/oc/2022/63); [2025 437](https://fedlex.data.admin.ch/eli/oc/2025/437). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Schweiz
 

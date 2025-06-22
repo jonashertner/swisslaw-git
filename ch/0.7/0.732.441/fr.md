@@ -3,11 +3,11 @@ sr: "0.732.441"
 title: Protocole commun du 21 septembre 1988 relatif à l’application de la Convention de Vienne et de la Convention de Paris
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/63"
 language: fr
-version: 2022-04-07
+version: 2025-06-23
 adopted: 1988-09-21
 in_force: 2022-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20220407/fr/xml/fedlex-data-admin-ch-eli-cc-2022-63-20220407-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20220407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/63/20250623/fr/xml/fedlex-data-admin-ch-eli-cc-2022-63-20250623-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/63/20250623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **2022** 63; FF **2007** 5125
 
 Conclu à Vienne le 21 septembre 1988[^t-1] Approuvé par l’Assemblée fédérale le 13 juin 2008[^t-2] Instrument de ratification déposé par la Suisse le 7 janvier 2022 Entré en vigueur pour la Suisse le 7 avril 2022
 
-(Etat le 7 avril 2022)
+(État le 23 juin 2025)
 
 [^t-1]: Lors de la Conférence sur les relations entre la Convention de Paris et la Convention de Vienne, tenue au Siège de l’Agence internationale de l’énergie atomique, à Vienne, le 21 septembre 1988.
 [^t-2]: Art. 1, al. 1, let. c, de l’AF du 13 juin 2008 ([RO 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -114,17 +114,21 @@ Le texte original du présent Protocole, dont les versions anglaise, arabe, chin
 
 *En foi de quoi*, les soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole commun. Fait à Vienne, le vingt et un septembre mil neuf cent quatre-vingt-huit. (Suivent les signatures)
 
-Champ d’application le 25 janvier 2022**[^t-3]**
+Champ d’application le 23 juin 2025[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne <sup>a</sup></td><td>13 juin</td><td>2001</td><td>13 septembre</td><td>2001</td></tr>
+<tr><td>Belgique\* <sup>a</sup></td><td>17 juillet</td><td>2024</td><td>17 octobre</td><td>2024</td></tr>
 <tr><td>Bulgarie <sup>b</sup></td><td>24 août</td><td>1994 A</td><td>24 novembre</td><td>1994</td></tr>
 <tr><td>Bénin <sup>b</sup></td><td>18 septembre</td><td>2019 A</td><td>18 décembre</td><td>2019</td></tr>
 <tr><td>Cameroun <sup>b</sup></td><td>28 octobre</td><td>1991</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Chili <sup>b</sup></td><td>23 novembre</td><td>1989</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Croatie <sup>b</sup></td><td>10 mai</td><td>1994 A</td><td>10 août</td><td>1994</td></tr>
 <tr><td>Danemark <sup>a</sup> <sup>d</sup></td><td>26 mai</td><td>1989</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Égypte <sup>b</sup></td><td>10 août</td><td>1989</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Émirats arabes unis <sup>b</sup></td><td>29 août</td><td>2012 A</td><td>29 novembre</td><td>2012</td></tr>
+<tr><td>Espagne <sup>a</sup></td><td>19 mai</td><td>2025</td><td>19 août</td><td>2025</td></tr>
 <tr><td>Estonie <sup>b</sup></td><td>9 mai</td><td>1994 A</td><td>9 août</td><td>1994</td></tr>
 <tr><td>Finlande <sup>a</sup></td><td>3 octobre</td><td>1994</td><td>3 janvier</td><td>1995</td></tr>
 <tr><td>France\* <sup>a</sup></td><td>30 avril</td><td>2014</td><td>30 juillet</td><td>2014</td></tr>
@@ -134,6 +138,7 @@ Champ d’application le 25 janvier 2022**[^t-3]**
 <tr><td>Italie <sup>a</sup></td><td>31 juillet</td><td>1991</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Lettonie <sup>b</sup></td><td>15 mars</td><td>1995 A</td><td>15 juin</td><td>1995</td></tr>
 <tr><td>Lituanie <sup>b</sup></td><td>20 septembre</td><td>1993 A</td><td>20 décembre</td><td>1993</td></tr>
+<tr><td>Maroc <sup>b</sup></td><td>6 mai</td><td>2022</td><td>6 août</td><td>2022</td></tr>
 <tr><td>Monténégro <sup>b</sup></td><td>14 février</td><td>2019 A</td><td>14 mai</td><td>2019</td></tr>
 <tr><td>Norvège <sup>a</sup></td><td>11 mars</td><td>1991</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Pays-Bas <sup>a</sup> <sup>c</sup></td><td>1<sup>er</sup> août</td><td>1991</td><td>27 avril</td><td>1992</td></tr>
@@ -148,12 +153,11 @@ Champ d’application le 25 janvier 2022**[^t-3]**
 <tr><td>Turquie <sup>a</sup></td><td>26 mars</td><td>2007</td><td>26 juin</td><td>2007</td></tr>
 <tr><td>Ukraine <sup>b</sup></td><td>24 mars</td><td>2000 A</td><td>24 juin</td><td>2000</td></tr>
 <tr><td>Uruguay <sup>b</sup></td><td>28 juillet</td><td>2009 A</td><td>28 octobre</td><td>2009</td></tr>
-<tr><td>Égypte <sup>b</sup></td><td>10 août</td><td>1989</td><td>27 avril</td><td>1992</td></tr>
-<tr><td>Émirats arabes unis <sup>b</sup></td><td>29 août</td><td>2012 A</td><td>29 novembre</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org &gt; Thèmes &gt; La sûreté et la sécurité nucléaires &gt; Le cadre gouvernemental, juridique et réglementaire &gt; Les conventions &gt; Conventions sur la responsabilité nuclaire ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État est partie contractante de la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004. <sup>b</sup> Cet État est partie contractante de la Convention de Vienne du 21 mai 1963 relative à la responsabilité civile en matière de dommages nucléaires. <sup>c</sup> Pour le Royaume en Europe. <sup>d</sup> Le Protocole ne s’applique pas aux îles Féroé.</td></tr>
+<tr><td>Zimbabwe <sup>b</sup></td><td>25 septembre</td><td>2023 A</td><td>25 décembre</td><td>2023</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): [www.iaea.org](http://www.iaea.org) &gt; Thèmes &gt; La sûreté et la sécurité nucléaires &gt; Le cadre gouvernemental, juridique et réglementaire &gt; Les conventions &gt; Conventions sur la responsabilité nuclaire ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État est partie contractante de la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004. <sup>b</sup> Cet État est partie contractante de la Convention de Vienne du 21 mai 1963 relative à la responsabilité civile en matière de dommages nucléaires. <sup>c</sup> Pour le Royaume en Europe. <sup>d</sup> Le Protocole ne s’applique pas aux îles Féroé.</td></tr>
 </table>
 
-[^t-3]: Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (https://fedlex.admin.ch/fr/Treaty).
+[^t-3]: [RO 2022 63](https://fedlex.data.admin.ch/eli/oc/2022/63); [2025 437](https://fedlex.data.admin.ch/eli/oc/2025/437). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Suisse
 
