@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la promotion du déploiement d’infrastructures pour le haut débit (Loi sur la promotion du haut débit; LPHD)
 document: Projet mis en consultation
 language: fr

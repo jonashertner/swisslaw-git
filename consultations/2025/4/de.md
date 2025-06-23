@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über die Förderung des Ausbaus von Breitbandinfrastrukturen (Breitbandfördergesetz, BBFG)"
 document: Vernehmlassungsvorlage
 language: de

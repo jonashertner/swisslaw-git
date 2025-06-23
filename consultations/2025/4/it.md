@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sul sostegno all’ampliamento delle infrastrutture a banda larga (Legge sul sostegno alla banda larga; LSBL)
 document: Progetto posto in consultazione
 language: it
