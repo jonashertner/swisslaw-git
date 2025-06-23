@@ -4,12 +4,12 @@ number: "841.111"
 title: Jagdbetriebsvorschriften 2025
 language: de
 version: 2025-06-02
-valid_until: 2026-05-20
+corrected: 2025-06-24
 version_adopted: 2025-05-27
 adopted: 2026-05-19
 in_force: 2026-05-21
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1399/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -140,13 +140,13 @@ beschliesst:
 - 1\. bei der Fahrzeughalle beim Strasseninspektorat, Kreuzstrasse 6, 6370 Stans:
   - a) Amstad Rolf, Höfestrasse 7, 6375 Beckenried;
   - b) Bieri Fabian, Buochserstrasse 90, 6375 Beckenried;
-  - c) Kaufmann Matthias, Riedenstrasse 13A, 6370 Oberdorf;
-  - d) May Luca, Seestrasse 4, 6375 Beckenried;
-  - e) Schneider Beat, Seestrasse 112, 6052 Hergiswil;
-  - f) Schneider Raffael, Seestrasse 115, 6052 Hergiswil;
-  - g) Virchow Peter Florian, Am Schüpfgraben 16, 6374 Buochs;
-  - h) Wüthrich Sonam, Unter Hueb 1, 6370 Oberdorf;
-  - i) …
+  - c) Gander Adolf, Nidertistrasse 16, 6375 Beckenried;
+  - d) Kaufmann Matthias, Riedenstrasse 13A, 6370 Oberdorf;
+  - e) May Luca, Seestrasse 4, 6375 Beckenried;
+  - f) Schneider Beat, Seestrasse 112, 6052 Hergiswil;
+  - g) Schneider Raffael, Seestrasse 115, 6052 Hergiswil;
+  - h) Virchow Peter Florian, Am Schüpfgraben 16, 6374 Buochs;
+  - i) Wüthrich Sonam, Unter Hueb 1, 6370 Oberdorf;
 - 2\. beim Vorderfell 1 in Oberrickenbach:
   - a) Mathis Alois, Vorderfell 1, 6387 Oberrickenbach (079 426 28 41);
   - b) Mathis René, Allmendstrasse 13, 6387 Oberrickenbach (079 435 57 79).
