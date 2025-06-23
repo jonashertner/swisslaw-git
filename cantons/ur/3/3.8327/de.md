@@ -1,33 +1,38 @@
 ---
 canton: UR
 number: "3.8327"
-title: Reglement über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren
+title: REGLEMENT über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren
 language: de
 version: 2021-02-01
+corrected: 2025-06-24
 version_adopted: 2021-01-12
 adopted: 2021-01-12
 in_force: 2021-02-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8327"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/443/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/130/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren
+# REGLEMENT über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren
 
-Vom 12.01.2021 (Stand 01.02.2021)
+REGLEMENT über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren
 
-Der Regierungsrat des Kantons Uri,
+(vom 12. Januar 2021[^t-1]; Stand am 1. Februar 2021)
 
-in Ausführung von Artikel 37 Absatz 3 des Bundesgesetzes vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF, SR [780.1](https://db.clex.ch/link/Bund/780.1/de)) und gestützt auf Artikel 94 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Der Regierungsrat des Kantons Uri, in Ausführung von Artikel 37 Absatz 3 des Bundesgesetzes vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF)[^t-2] und gestützt auf Artikel 94 Absatz 1 der Verfassung des Kantons Uri<sup>3</sup>,
 
 beschliesst:
+
+[^t-1]: AB vom 29. Januar 2021
+[^t-2]: SR 780.1
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement vollzieht das BÜPF, soweit die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren betroffen ist.
+Dieses Reglement vollzieht das BÜPF, soweit die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren betroffen ist.
 
 #### Artikel 2
 
@@ -41,12 +46,14 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 25. Oktober 2011 über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren wird aufgehoben.
+Das Reglement vom 25. Oktober 2011 über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren<sup>4</sup> wird aufgehoben.
 
 #### Artikel 4
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Februar 2021 in Kraft.
+Dieses Reglement tritt am 1. Februar 2021 in Kraft.
 
-AB 29.01.2021
+Im Namen des Regierungsrats
+
+Der Landammann: Urban Camenzind Der Kanzleidirektor: Roman Balli
