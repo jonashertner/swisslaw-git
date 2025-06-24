@@ -3,11 +3,11 @@ sr: "0.520.32"
 title: Haager Protokoll vom 14. Mai 1954 über den Schutz von Kulturgut bei bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071"
 language: de
-version: 2020-04-29
+version: 2025-06-25
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20200429/de/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20200429-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20200429/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20250625/de/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20250625-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20250625/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1962** 1033; BBl **1961** II 1204
 
 Abgeschlossen in Den Haag am 14. Mai 1954 Von der Bundesversammlung genehmigt am 15. März 1962[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Mai 1962 In Kraft getreten für die Schweiz am 15. August 1962
 
-(Stand am 29. April 2020)
+(Stand am 25. Juni 2025)
 
 [^t-1]: [AS 1962 1005](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
@@ -79,7 +79,7 @@ Gemäss Artikel 102 der Satzung der Vereinten Nationen[^lvlIII-1] wird dieses Pr
 
 *Zu Urkund dessen* haben die gehörig bevollmächtigten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Den Haag, am 14. Mai 1954, in englischer, spanischer, französischer und russischer Sprache, wobei alle vier Fassungen in gleicher Weise verbindlich sind, in einem einzigen Exemplar, das in den Archiven der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur hinterlegt wird; beglaubigte Ausfertigungen desselben werden allen in den Ziffern 6 und 8 bezeichneten Staaten sowie den Vereinten Nationen übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. April 2020**[^t-2]**
+Geltungsbereich am 25. Juni 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -119,12 +119,14 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Griechenland</td><td>9. Februar</td><td>1981</td><td>9. Mai</td><td>1981</td></tr>
 <tr><td>Guatemala</td><td>19. Mai</td><td>1994 B</td><td>19. August</td><td>1994</td></tr>
 <tr><td>Guinea</td><td>11. Dezember</td><td>1961 B</td><td>11. März</td><td>1962</td></tr>
+<tr><td>Haiti</td><td>19. Mai</td><td>2025 B</td><td>19. August</td><td>2025</td></tr>
 <tr><td>Heiliger Stuhl</td><td>24. Februar</td><td>1958 B</td><td>24. Mai</td><td>1958</td></tr>
 <tr><td>Honduras</td><td>25. Oktober</td><td>2002 B</td><td>25. Januar</td><td>2003</td></tr>
 <tr><td>Indien</td><td>16. Juni</td><td>1958</td><td>16. September</td><td>1958</td></tr>
 <tr><td>Indonesien</td><td>26. Juli</td><td>1967</td><td>26. Oktober</td><td>1967</td></tr>
 <tr><td>Irak</td><td>21. Dezember</td><td>1967</td><td>21. März</td><td>1968</td></tr>
 <tr><td>Iran</td><td>22. Juni</td><td>1959</td><td>22. September</td><td>1959</td></tr>
+<tr><td>Island</td><td>5. Dezember</td><td>2022 B</td><td>5. März</td><td>2023</td></tr>
 <tr><td>Israel</td><td>1. April</td><td>1958 B</td><td>1. Juli</td><td>1958</td></tr>
 <tr><td>Italien</td><td>9. Mai</td><td>1958</td><td>9. August</td><td>1958</td></tr>
 <tr><td>Japan\*</td><td>10. September</td><td>2007 B</td><td>10. Dezember</td><td>2007</td></tr>
@@ -134,6 +136,7 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Kamerun</td><td>12. Oktober</td><td>1961 B</td><td>12. Januar</td><td>1962</td></tr>
 <tr><td>Kanada</td><td>29. November</td><td>2005 B</td><td>28. Februar</td><td>2006</td></tr>
 <tr><td>Kasachstan</td><td>14. März</td><td>1997 N</td><td>21. Dezember</td><td>1991</td></tr>
+<tr><td>Kirgisistan</td><td>14. April</td><td>2025 B</td><td>14. Juli</td><td>2025</td></tr>
 <tr><td>Kolumbien</td><td>18. Juni</td><td>1998 B</td><td>18. September</td><td>1998</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>18. April</td><td>1961 B</td><td>18. Juli</td><td>1961</td></tr>
 <tr><td>Kroatien</td><td>6. Juli</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
@@ -148,7 +151,9 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Madagaskar</td><td>3. November</td><td>1961 B</td><td>3. Februar</td><td>1962</td></tr>
 <tr><td>Malaysia</td><td>12. Dezember</td><td>1960 B</td><td>12. März</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18. Mai</td><td>1961 B</td><td>18. August</td><td>1961</td></tr>
+<tr><td>Malta</td><td>12. Februar</td><td>2025 B</td><td>12. Mai</td><td>2025</td></tr>
 <tr><td>Marokko</td><td>30. August</td><td>1968 B</td><td>30. November</td><td>1968</td></tr>
+<tr><td>Mauretanien</td><td>7. Juli</td><td>2023 B</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>7. Mai</td><td>1956</td><td>7. August</td><td>1956</td></tr>
 <tr><td>Moldau</td><td>9. Dezember</td><td>1999 B</td><td>9. März</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>10. Dezember</td><td>1957</td><td>10. März</td><td>1958</td></tr>
@@ -193,7 +198,7 @@ Geltungsbereich am 29. April 2020**[^t-2]**
 <tr><td>Uruguay</td><td>24. September</td><td>1999</td><td>24. Dezember</td><td>1999</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>12. September</td><td>2017 B</td><td>12. Dezember</td><td>2017</td></tr>
 <tr><td>[tab] Zypern</td><td>9. September</td><td>1964 B</td><td>9. Dezember</td><td>1964</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.u n esco.org](http://www.unesco.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1962 1033](https://fedlex.data.admin.ch/eli/oc/1962/1033_1068_1071), [1971 1817](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822), [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962), [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319), [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614), [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038), [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348), [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172), [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722), [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131), [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247), [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170), [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1971 1817](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822); [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962); [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319); [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614); [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038); [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348); [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172); [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722); [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131); [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247); [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170); [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318); [2025 439](https://fedlex.data.admin.ch/eli/oc/2025/439). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

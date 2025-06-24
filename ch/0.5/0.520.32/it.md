@@ -3,24 +3,26 @@ sr: "0.520.32"
 title: "Protocollo dell'Aia del 14 maggio 1954 per la protezione dei beni culturali in caso di conflitto armato"
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071"
 language: it
-version: 2020-04-29
+version: 2025-06-25
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20200429/it/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20200429-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20200429/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20250625/it/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20250625-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20250625/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo dell’Aia per la protezione dei beni culturali in caso di conflitto armato
 
+RU **1962** 1071; FF **1961** II 1204 ediz. ted. 1197 ediz. franc.
+
 Traduzione
 
 Conchiuso all’Aia il 14 maggio 1954 Approvato dall’Assemblea federale il 15 marzo 1962[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 15 maggio 1962 Entrato in vigore per la Svizzera il 15 agosto 1962
 
-(Stato 29 aprile 2020)
+(Stato 25 giugno 2025)
 
-[^t-1]: RU **1962** 1071; FF **1961** II 1204 ediz. ted. 1197 ediz. franc. RU **1962** 1043
+[^t-1]: [RU 1962 1043](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
 Le Alte Parti contraenti hanno convenuto quanto segue:
 
@@ -78,10 +80,10 @@ Il presente Protocollo sarà registrato, conformemente all’articolo 102 della 
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto all’Aia, il 14 maggio 1954, in inglese, spagnolo, francese e russo, i cui testi fanno egualmente fede, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutti gli Stati menzionati nei paragrafi 6 e 8, e all’Organizzazione delle Nazioni Unite. (Seguono le firme)
 
-Campo d’applicazione il 29 aprile 2020**[^t-2]**
+Campo d’applicazione il 25 giugno 2025[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>12 marzo</td><td>2018 A</td><td>12 giugno</td><td>2018</td></tr>
 <tr><td>Albania</td><td>20 dicembre</td><td>1960 A</td><td>20 marzo</td><td>1961</td></tr>
 <tr><td>Arabia Saudita</td><td>6 novembre</td><td>2007 A</td><td>6 febbraio</td><td>2008</td></tr>
@@ -131,14 +133,17 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Grecia</td><td>9 febbraio</td><td>1981</td><td>9 maggio</td><td>1981</td></tr>
 <tr><td>Guatemala</td><td>19 maggio</td><td>1994 A</td><td>19 agosto</td><td>1994</td></tr>
 <tr><td>Guinea</td><td>11 dicembre</td><td>1961 A</td><td>11 marzo</td><td>1962</td></tr>
+<tr><td>Haiti</td><td>19 maggio</td><td>2025 A</td><td>19 agosto</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>25 ottobre</td><td>2002 A</td><td>25 gennaio</td><td>2003</td></tr>
 <tr><td>India</td><td>16 giugno</td><td>1958</td><td>16 settembre</td><td>1958</td></tr>
 <tr><td>Indonesia</td><td>26 luglio</td><td>1967</td><td>26 ottobre</td><td>1967</td></tr>
 <tr><td>Iran</td><td>22 giugno</td><td>1959</td><td>22 settembre</td><td>1959</td></tr>
 <tr><td>Iraq</td><td>21 dicembre</td><td>1967</td><td>21 marzo</td><td>1968</td></tr>
+<tr><td>Islanda</td><td>5 dicembre</td><td>2022 A</td><td>5 marzo</td><td>2023</td></tr>
 <tr><td>Israele</td><td>1° aprile</td><td>1958 A</td><td>1° luglio</td><td>1958</td></tr>
 <tr><td>Italia</td><td>9 maggio</td><td>1958</td><td>9 agosto</td><td>1958</td></tr>
 <tr><td>Kazakstan</td><td>14 marzo</td><td>1997 S</td><td>21 dicembre</td><td>1991</td></tr>
+<tr><td>Kirghizistan</td><td>14 aprile</td><td>2025 A</td><td>14 luglio</td><td>2025</td></tr>
 <tr><td>Kuwait</td><td>17 febbraio</td><td>1970 A</td><td>17 maggio</td><td>1970</td></tr>
 <tr><td>Lettonia</td><td>19 dicembre</td><td>2003 A</td><td>19 marzo</td><td>2004</td></tr>
 <tr><td>Libano</td><td>1° giugno</td><td>1960</td><td>1° settembre</td><td>1960</td></tr>
@@ -150,7 +155,9 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Madagascar</td><td>3 novembre</td><td>1961 A</td><td>3 febbraio</td><td>1962</td></tr>
 <tr><td>Malaysia</td><td>12 dicembre</td><td>1960 A</td><td>12 marzo</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18 maggio</td><td>1961 A</td><td>18 agosto</td><td>1961</td></tr>
+<tr><td>Malta</td><td>12 febbraio</td><td>2025 A</td><td>12 maggio</td><td>2025</td></tr>
 <tr><td>Marocco</td><td>30 agosto</td><td>1968 A</td><td>30 novembre</td><td>1968</td></tr>
+<tr><td>Mauritania</td><td>7 luglio</td><td>2023 A</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Messico</td><td>7 maggio</td><td>1956</td><td>7 agosto</td><td>1956</td></tr>
 <tr><td>Moldova</td><td>9 dicembre</td><td>1999 A</td><td>9 marzo</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>10 dicembre</td><td>1957</td><td>10 marzo</td><td>1958</td></tr>
@@ -196,4 +203,4 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Il Prot. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 1962 1071](https://fedlex.data.admin.ch/eli/oc/1962/1033_1068_1071), [1971 1822](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822), [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962), [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319), [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614), [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038), [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348), [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172), [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722), [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131), [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247), [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170)e [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1971 1822](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822); [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962); [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319); [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614); [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038); [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348); [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172); [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722); [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131); [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247); [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170); [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318); [2025 439](https://fedlex.data.admin.ch/eli/oc/2025/439). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

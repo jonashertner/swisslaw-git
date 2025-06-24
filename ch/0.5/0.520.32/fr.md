@@ -3,11 +3,11 @@ sr: "0.520.32"
 title: Protocole de La Haye du 14 mai 1954 pour la protection des biens culturels en cas de conflit armé
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071"
 language: fr
-version: 2020-04-29
+version: 2025-06-25
 adopted: 1954-05-14
 in_force: 1962-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20200429/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20200429-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20200429/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1033_1068_1071/20250625/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1033_1068_1071-20250625-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1033_1068_1071/20250625/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 mai 1962
 
 Entré en vigueur pour la Suisse le 15 août 1962
 
-(Etat le 29 avril 2020)
+(État le 25 juin 2025)
 
 [^t-1]: [RO 1962 1039](https://fedlex.data.admin.ch/eli/oc/1962/1005_1039_1043)
 
@@ -50,20 +50,20 @@ Les Hautes Parties contractantes sont convenues de ce qui suit:
 
 ## III
 
-\6. Le présent Protocole portera la date du 14 mai 1954 et restera ouvert jusqu’à la date du 31 décembre 1954 à la signature de tous les Etats invités à la Conférence qui s’est réunie à La Haye du 21 avril 1954 au 14 mai 1954.
+\6. Le présent Protocole portera la date du 14 mai 1954 et restera ouvert jusqu’à la date du 31 décembre 1954 à la signature de tous les États invités à la Conférence qui s’est réunie à La Haye du 21 avril 1954 au 14 mai 1954.
 
-- 7\. a) Le présent Protocole sera soumis à la ratification des Etats signataires conformément à leurs procédures constitutionnelles respectives.
+- 7\. a) Le présent Protocole sera soumis à la ratification des États signataires conformément à leurs procédures constitutionnelles respectives.
 - b) Les instruments de ratification seront déposés auprès du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture.
 
-\8. A dater du jour de son entrée en vigueur, le présent Protocole sera ouvert à l’adhésion de tous les Etats visés au par. 6, non signataires, de même qu’à celle de tout autre Etat invité à y adhérer par le Conseil exécutif de l’Organisation des Nations Unies pour l’éducation, la science et la culture. L’adhésion se fera par le dépôt d’un instrument d’adhésion auprès du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture.
+\8. À dater du jour de son entrée en vigueur, le présent Protocole sera ouvert à l’adhésion de tous les États visés au par. 6, non signataires, de même qu’à celle de tout autre État invité à y adhérer par le Conseil exécutif de l’Organisation des Nations Unies pour l’éducation, la science et la culture. L’adhésion se fera par le dépôt d’un instrument d’adhésion auprès du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture.
 
-\9. Les Etats visés aux par. 6 et 8 pourront, au moment de la signature, de la ratification ou de l’adhésion, déclarer qu’ils ne seront pas liés par les dispositions de la Partie I ou par celles de la Partie II du présent Protocole.
+\9. Les États visés aux par. 6 et 8 pourront, au moment de la signature, de la ratification ou de l’adhésion, déclarer qu’ils ne seront pas liés par les dispositions de la Partie I ou par celles de la Partie II du présent Protocole.
 
 - 10\. a) Le présent Protocole entrera en vigueur trois mois après que cinq instruments de ratification auront été déposés.
 - b) Ultérieurement, il entrera en vigueur, pour chaque Haute Partie contractante, trois mois après le dépôt de son instrument de ratification ou d’adhésion.
 - c) Les situations prévues aux art. 18 et 19 de la Convention pour la protection des biens culturels en cas de conflit armé, signée à La Haye le 14 mai 1954, donneront effet immédiat aux ratifications et aux adhésions déposées par les Parties au conflit avant ou après le début des hostilités ou de l’occupation. Dans ces cas le Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture fera, par la voie la plus rapide, les communications prévues au par. 14.
-- 11\. a) Les Etats parties au Protocole à la date de son entrée en vigueur prendront, chacun en ce qui le concerne, toutes les mesures requises pour sa mise en application effective dans un délai de six mois.
-- b) Ce délai sera de six mois à compter du dépôt de l’instrument de ratification ou d’adhésion, pour tous les Etats qui déposeraient leur instrument de ratification ou d’adhésion après la date d’entrée en vigueur du Protocole.
+- 11\. a) Les États parties au Protocole à la date de son entrée en vigueur prendront, chacun en ce qui le concerne, toutes les mesures requises pour sa mise en application effective dans un délai de six mois.
+- b) Ce délai sera de six mois à compter du dépôt de l’instrument de ratification ou d’adhésion, pour tous les États qui déposeraient leur instrument de ratification ou d’adhésion après la date d’entrée en vigueur du Protocole.
 
 \12. Toute Haute Partie contractante pourra, au moment de la ratification ou de l’adhésion, ou à tout moment ultérieur, déclarer par une notification adressée au Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture que le présent Protocole s’étendra à l’ensemble ou à l’un quelconque des territoires dont Elle assure les relations internationales. Ladite notification prendra effet trois mois après la date de sa réception.
 
@@ -71,7 +71,7 @@ Les Hautes Parties contractantes sont convenues de ce qui suit:
 - b) La dénonciation sera notifiée par un instrument écrit déposé auprès du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture.
 - c) La dénonciation prendra effet une année après réception de l’instrument de dénonciation. Si toutefois, au moment de l’expiration de cette année, la Partie dénonçante se trouve impliquée dans un conflit armé, l’effet de la dénonciation demeurera suspendu jusqu’à la fin des hostilités et en tout cas aussi longtemps que les opérations de rapatriement des biens culturels ne seront pas terminées.
 
-\14. Le Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture informera les Etats visés aux par. 6 et 8, ainsi que l’Organisation des Nations Unies, du dépôt de tous les instruments de ratification, d’adhésion ou d’acceptation mentionnés aux par. 7, 8 et 15 de même que des notifications et dénonciations respectivement prévues aux par. 12 et 13.
+\14. Le Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture informera les États visés aux par. 6 et 8, ainsi que l’Organisation des Nations Unies, du dépôt de tous les instruments de ratification, d’adhésion ou d’acceptation mentionnés aux par. 7, 8 et 15 de même que des notifications et dénonciations respectivement prévues aux par. 12 et 13.
 
 - 15\. a) Le présent Protocole peut être revisé si la revision en est demandée par plus d’un tiers des Hautes Parties contractantes.
 - b) Le Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture convoque une conférence à cette fin.
@@ -83,12 +83,12 @@ Conformément à l’art. 102 de la Charte des Nations Unies[^lvlIII-1], le pré
 
 [^lvlIII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-*En foi de quoi,* les soussignés dûment autorisés ont signé le présent Protocole. Fait à La Haye, le 14 mai 1954, en anglais, en espagnol, en français et en russe, les quatre textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et dont des copies certifiées conformes seront remises à tous les Etats visés aux paragraphes 6 et 8, ainsi qu’à l’Organisation des Nations Unies. (Suivent les signatures)
+*En foi de quoi,* les soussignés dûment autorisés ont signé le présent Protocole. Fait à La Haye, le 14 mai 1954, en anglais, en espagnol, en français et en russe, les quatre textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et dont des copies certifiées conformes seront remises à tous les États visés aux paragraphes 6 et 8, ainsi qu’à l’Organisation des Nations Unies. (Suivent les signatures)
 
-Champ d’application le 29 avril 2020**[^t-2]**
+Champ d’application le 25 juin 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>12 mars</td><td>2018 A</td><td>12 juin</td><td>2018</td></tr>
 <tr><td>Albanie</td><td>20 décembre</td><td>1960 A</td><td>20 mars</td><td>1961</td></tr>
 <tr><td>Allemagne</td><td>11 août</td><td>1967</td><td>11 novembre</td><td>1967</td></tr>
@@ -135,17 +135,20 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Grèce</td><td>9 février</td><td>1981</td><td>9 mai</td><td>1981</td></tr>
 <tr><td>Guatemala</td><td>19 mai</td><td>1994 A</td><td>19 août</td><td>1994</td></tr>
 <tr><td>Guinée</td><td>11 décembre</td><td>1961 A</td><td>11 mars</td><td>1962</td></tr>
+<tr><td>Haïti</td><td>19 mai</td><td>2025 A</td><td>19 août</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>25 octobre</td><td>2002 A</td><td>25 janvier</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>16 août</td><td>1956 A</td><td>16 novembre</td><td>1956</td></tr>
 <tr><td>Inde</td><td>16 juin</td><td>1958</td><td>16 septembre</td><td>1958</td></tr>
 <tr><td>Indonésie</td><td>26 juillet</td><td>1967</td><td>26 octobre</td><td>1967</td></tr>
 <tr><td>Iran</td><td>22 juin</td><td>1959</td><td>22 septembre</td><td>1959</td></tr>
 <tr><td>Iraq</td><td>21 décembre</td><td>1967</td><td>21 mars</td><td>1968</td></tr>
+<tr><td>Islande</td><td>5 décembre</td><td>2022 A</td><td>5 mars</td><td>2023</td></tr>
 <tr><td>Israël</td><td>1<sup>er</sup> avril</td><td>1958 A</td><td>1<sup>er</sup> juillet</td><td>1958</td></tr>
 <tr><td>Italie</td><td>9 mai</td><td>1958</td><td>9 août</td><td>1958</td></tr>
 <tr><td>Japon\*</td><td>10 septembre</td><td>2007 A</td><td>10 décembre</td><td>2007</td></tr>
 <tr><td>Jordanie</td><td>2 octobre</td><td>1957</td><td>2 janvier</td><td>1958</td></tr>
 <tr><td>Kazakhstan</td><td>14 mars</td><td>1997 S</td><td>21 décembre</td><td>1991</td></tr>
+<tr><td>Kirghizistan</td><td>14 avril</td><td>2025 A</td><td>14 juillet</td><td>2025</td></tr>
 <tr><td>Koweït</td><td>17 février</td><td>1970 A</td><td>17 mai</td><td>1970</td></tr>
 <tr><td>Lettonie</td><td>19 décembre</td><td>2003 A</td><td>19 mars</td><td>2004</td></tr>
 <tr><td>Liban</td><td>1<sup>er</sup> juin</td><td>1960</td><td>1<sup>er</sup> septembre</td><td>1960</td></tr>
@@ -157,7 +160,9 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Madagascar</td><td>3 novembre</td><td>1961 A</td><td>3 février</td><td>1962</td></tr>
 <tr><td>Malaisie</td><td>12 décembre</td><td>1960 A</td><td>12 mars</td><td>1961</td></tr>
 <tr><td>Mali</td><td>18 mai</td><td>1961 A</td><td>18 août</td><td>1961</td></tr>
+<tr><td>Malte</td><td>12 février</td><td>2025 A</td><td>12 mai</td><td>2025</td></tr>
 <tr><td>Maroc</td><td>30 août</td><td>1968 A</td><td>30 novembre</td><td>1968</td></tr>
+<tr><td>Mauritanie</td><td>7 juillet</td><td>2023 A</td><td>7 octobre</td><td>2023</td></tr>
 <tr><td>Mexique</td><td>7 mai</td><td>1956</td><td>7 août</td><td>1956</td></tr>
 <tr><td>Moldova</td><td>9 décembre</td><td>1999 A</td><td>9 mars</td><td>2000</td></tr>
 <tr><td>Monaco</td><td>10 décembre</td><td>1957</td><td>10 mars</td><td>1958</td></tr>
@@ -199,8 +204,7 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Ukraine</td><td>6 février</td><td>1957</td><td>6 mai</td><td>1957</td></tr>
 <tr><td>Uruguay</td><td>24 septembre</td><td>1999</td><td>24 décembre</td><td>1999</td></tr>
 <tr><td>Yémen</td><td>6 février</td><td>1970 A</td><td>6 mai</td><td>1970</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le Protocole ne s’applique pas à Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org](http://www.unesco.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1962 1068](https://fedlex.data.admin.ch/eli/oc/1962/1033_1068_1071), [1971 1822](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822), [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962), [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319), [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614), [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038), [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348), [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172), [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722), [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131), [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247), [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170), [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1971 1822](https://fedlex.data.admin.ch/eli/oc/1971/1817_1822_1822); [1979 962](https://fedlex.data.admin.ch/eli/oc/1979/962_962_962); [1982 1319](https://fedlex.data.admin.ch/eli/oc/1982/1319_1319_1319); [1985 1614](https://fedlex.data.admin.ch/eli/oc/1985/1614_1614_1614); [1987 1038](https://fedlex.data.admin.ch/eli/oc/1987/1038_1038_1038); [1989 348](https://fedlex.data.admin.ch/eli/oc/1989/348_348_348); [2005 1217](https://fedlex.data.admin.ch/eli/oc/2005/172); [2006 4699](https://fedlex.data.admin.ch/eli/oc/2006/722); [2010 843](https://fedlex.data.admin.ch/eli/oc/2010/131); [2015 1225](https://fedlex.data.admin.ch/eli/oc/2015/247); [2018 1159](https://fedlex.data.admin.ch/eli/oc/2018/170); [2020 1575](https://fedlex.data.admin.ch/eli/oc/2020/318); [2025 439](https://fedlex.data.admin.ch/eli/oc/2025/439). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
