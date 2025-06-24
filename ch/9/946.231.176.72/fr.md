@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2025-06-03
+version: 2025-06-25
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250603/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250603-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250603/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250625/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250625-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250625/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 3 juin 2025)
+du 4 mars 2022 (État le 25 juin 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,8 +22,8 @@ vu l’art. 184, al. 3, de la Constitution[^ingress-1], vu l’art. 2 de la loi 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -129,7 +129,7 @@ Le Secrétariat d’État à l’économie (SECO) peut, après avoir consulté l
 [^2a-4]: Introduit par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-5]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-7]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^2a-7]: [RS 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 [^2a-8]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-9]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-10]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -173,7 +173,7 @@ La vente directe ou indirecte, la concession sous licence ou tout autre transfer
 
 <sup>3</sup> Le SECO refuse l’autorisation de services visés à l’al. 2, let. b, lorsqu’ils sont, en totalité ou en partie, destinés à un usage militaire ou à des destinataires finaux militaires.[^4-11]
 
-[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^4-3]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^4-4]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -282,7 +282,7 @@ Le SECO refuse l’autorisation des dérogations visées à l’al. 2 s’il y a
 [^6-4]: Abrogées par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-5]: Abrogée par le ch. I de l’O du 31 août 2022, avec effet au 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^6-6]: Abrogée par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^6-7]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-7]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^6-8]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-9]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-10]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -297,7 +297,7 @@ Le SECO refuse l’autorisation des dérogations visées à l’al. 2 s’il y a
 [^6-19]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-20]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-21]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-22]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-22]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^6-23]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 7
@@ -307,7 +307,7 @@ Le SECO refuse l’autorisation des dérogations visées à l’al. 2 s’il y a
 Sauf disposition contraire, la procédure d’autorisation visée aux art. 2*a* et 4 à 6 est régie par les dispositions de l’OCB[^7-2].
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^7-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 8
 
@@ -1636,42 +1636,35 @@ La fourniture de services spécialisés de messagerie financière, utilisés pou
 
 **Interdiction d’utiliser des services spécialisés de messagerie financière**[^27a-1]
 
-<sup>1</sup> La connexion directe au système de transfert de messages financiers de la Banque centrale de la Fédération de Russie ou à des services de messagerie financière spécialisés équivalents mis en place par la Banque centrale de la Fédération de Russie est interdite.
+Il est interdit de se connecter directement au système de transfert de messages financiers de la Banque centrale de Russie ou à des services spécialisés de messagerie financière équivalents mis en place par la Banque centrale de Russie.
 
-<sup>2</sup> La participation à toute transaction avec des banques, des entreprises ou des entités visées à l’annexe 14*a* est interdite.
+<sup>2</sup> La participation à des transactions avec des banques, des entreprises et des entités visées à l’annexe 14*a* est interdite.
 
-<sup>3</sup>
-
-L’interdiction prévue à l’al. 1 ne s’applique pas aux transactions nécessaires:
-
-- a. à l’achat, à l’importation, au transit ou au transport de gaz naturel, de titane, d’aluminium, de cuivre, de nickel, de palladium et de minerai de fer, depuis ou via la Fédération de Russie vers ou via la Suisse, un État membre de l’EEE, l’Albanie, la Bosnie et Herzégovine, le Kosovo, le Monténégro, la Macédoine du Nord ou la Serbie;
-- b. à l’achat, à l’importation ou au transport de pétrole, y compris les produits pétroliers raffinés, depuis ou via la Fédération de Russie;
-- c. à l’achat, à l’importation ou au transport de produits pharmaceutiques, médicaux, agricoles et alimentaires, y compris le blé et les engrais, vers la Suisse ou un État membre de l’EEE;
-- d. au remboursement d’une dette due à des ressortissants suisses, à des ressortissants d’un État membre de l’EEE ou à des personnes morales ou entités établies en Suisse ou dans un État membre de l’EEE;
-- e. au paiement d’une pension de retraite à une personne physique établie en Suisse ou dans un État membre de l’EEE;
-- f. à un paiement de la part ou en faveur de la Jewish Claims Conference.
+<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à la réception de paiements dus par les banques, les entreprises ou les entités visées à l’annexe 14*a* en application de contrats exécutés avant le 24 mars 2024.
 
 <sup>4</sup>
 
+L’interdiction prévue à l’al. 1 ne s’applique pas aux transactions nécessaires:
+
+- a. à l’achat, à l’importation, au transit ou au transport de gaz naturel, de titane, d’aluminium, de cuivre, de nickel, de palladium et de minerai de fer depuis la Fédération de Russie et au transport par la Fédération de Russie vers ou par la Suisse ou un État membre de l’EEE, à destination de l’Albanie, de la Bosnie et Herzégovine, du Kosovo, du Monténégro, de la Macédoine du Nord ou de la Serbie;
+- b. à l’achat ou à l’importation de pétrole, y compris de produits pétroliers raffinés, depuis la Fédération de Russie et au transport de ce pétrole par la Fédération de Russie;
+- c. à l’achat ou à l’importation de produits pharmaceutiques, de dispositifs médicaux, de produits agricoles et de denrées alimentaires, y compris le blé et les engrais, et au transport de ces produits en Suisse ou dans un État membre de l’EEE;
+- d. au remboursement d’une dette due à un ressortissant suisse, à un ressortissant d’un État membre de l’EEE ou à une personne morale ou entité établie en Suisse ou dans un État membre de l’EEE;
+- e. aux paiements effectués au titre d’un régime de retraite en faveur d’une personne physique domiciliée en Suisse ou dans un État membre de l’EEE;
+- f. à un paiement de la part ou en faveur de la Jewish Claims Conference.
+
+<sup>5</sup>
+
 L’interdiction prévue à l’al. 2 ne s’applique pas:
 
-- a. aux transactions qui sont nécessaires à l’achat, à la vente, à la livraison, à l’exportation ou au transport de produits pharmaceutiques, de dispositifs médicaux, de produits agricoles et de denrées alimentaires, y compris le blé et les engrais;
-- b. aux transactions qui sont nécessaires pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse ou dans un État membre de l’EEE, ou pour la reconnaissance ou l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse ou dans un État membre de l’EEE;
-- c. aux transactions qui sont nécessaires à des fins humanitaires ou d’évacuation;
-- d. aux transactions qui sont nécessaires au remboursement d’une dette due à des ressortissants suisses, à des ressortissants d’un État membre de l’EEE ou à des personnes morales ou entités établies en Suisse ou dans un État membre de l’EEE;
-- e. aux transactions qui dépendent de la fourniture de services de correspondant bancaire par des banques, entreprises ou entités visées à l’annexe 14*a*;
-- f. aux transactions qui sont nécessaires à l’exécution de paiements par des ressortissants suisses, des ressortissants d’un État membre de l’EEE ou par des personnes morales ou entités établies en Suisse ou dans un État membre de l’EEE au titre d’un accord de prêt conclu par la Suisse ou un État membre de l’EEE.
+- a. aux transactions qui sont nécessaires à l’achat, à l’exportation, à la livraison, au transit ou au transport de produits pharmaceutiques, de dispositifs médicaux, de produits et agricoles et de denrées alimentaires, y compris le blé et les engrais;
+- b. aux transactions qui sont nécessaires pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse ou dans un État membre de l’EEE, ou à la reconnaissance ou à l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse ou dans un État membre de l’EEE;
+- c. aux transactions qui sont nécessaires à des activités humanitaires ou à des fins d’évacuation;
+- d. aux transactions qui sont nécessaires au remboursement d’une dette due à un ressortissant suisse, à un ressortissant d’un État membre de l’EEE ou à une personne morale ou entité établie en Suisse ou dans un État membre de l’EEE;
+- e. aux transactions dépendantes de la fourniture de services de correspondant bancaire par une banque, une entreprise ou une entité visée à l’annexe 14*a*;
+- f. aux transactions qui sont nécessaires à l’exécution de paiements par un ressortissant suisse ou un ressortissant d’un État membre de l’EEE ou par une personne morale ou une entité établie en Suisse ou dans un État membre de l’EEE au titre d’un accord de prêt conclu par la Suisse ou un État membre de l’EEE.
 
-<sup>5</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à la réception de paiements dus par des banques, des entreprises ou des entités visées à l’annexe 14*a* en application de contrats exécutés avant le 24 mars 2024.
-
-<sup>6</sup>
-
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction prévue à l’al. 2 si l’exécution de la transaction est nécessaire:
-
-- a. au remboursement de crédits à l’exportation garantis;
-- b. à l’exécution des contrats conclus avant le 15 mai 2025 jusqu’à leur date d’expiration, mais au plus tard jusqu’au 26 août 2025, pour autant que les bénéficiaires aient leur siège en Suisse ou dans un État membre de l’EEE.
-
-[^27a-1]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^27a-1]: Introduit par le ch. I de l’O du 14 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 25 juin 2025 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 28
 
@@ -1765,8 +1758,8 @@ L’interdiction visée à l’al. 1 ne s’applique pas:
 
 [^28c-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^28c-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28c-3]: [RS 0.422.10](https://fedlex.data.admin.ch/eli/cc/2010/220)
-[^28c-4]: [RS 0.424.10](https://fedlex.data.admin.ch/eli/cc/2006/70)
+[^28c-3]: [RS 0.422.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1714)
+[^28c-4]: [RS 0.424.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1738)
 [^28c-5]: Introduite par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^28c-6]: Introduite par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^28c-7]: Introduite par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -1960,7 +1953,7 @@ Le Secrétariat d’État aux migrations (SEM) et le DFAE dans le cadre de sa co
 - b. si la personne se déplace pour assister à des conférences internationales ou pour prendre part à un dialogue politique concernant l’Ukraine, ou
 - c. si la sauvegarde d’intérêts suisses l’exige.
 
-[^29-1]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^29-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 29a
 
@@ -2011,11 +2004,11 @@ Les exploitants d’aéronefs visés à l’al. 1, let. c, transmettent à l’O
 [^29a-2]: Introduite par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^29a-3]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-4]: Abrogée par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^29a-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^29a-5]: [RS 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^29a-6]: Introduite par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^29a-7]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-8]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^29a-9]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^29a-9]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^29a-10]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-11]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^29a-12]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -2071,7 +2064,7 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 <sup>9</sup> Les adjudicateurs visés à l’al. 7 et les cantons visés à l’al. 8 annoncent au SECO les cas d’application de l’al. 3.
 
 [^29c-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^29c-3]: L’accord peut être consulté à l’adresse suivante: [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](http://www.lexfind.ch/fe/de/tol/33879/versions/219579/de).
 [^29c-4]: L’accord peut être consulté à l’adresse suivante: [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](http://www.lexfind.ch/fe/de/tol/33884/versions/219203/de).
 [^29c-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -2160,7 +2153,7 @@ Il peut autoriser des dérogations aux interdictions visées aux art. 14*a* et 1
 
 - c. les biens concernés aient été physiquement situés en Fédération de Russie avant l’entrée en vigueur des interdictions prévues aux art. 14*a* et 14*c* en ce qui concerne ces biens.
 
-[^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^30a-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 13 fév. 2025 ([RO 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30a-3]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 13 fév. 2025 ([RO 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30a-4]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -2263,7 +2256,7 @@ Les interdictions prévues par la présente ordonnance ne s’appliquent pas à 
 [^30f-1]: [RO 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
 [^30f-2]: [RO 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
 [^30f-3]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^30f-4]: [RS 0.975.277.2](https://fedlex.data.admin.ch/eli/cc/1991/2196_2196_2196)
+[^30f-4]: [RS 0.975.277.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4683)
 [^30f-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30f-6]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30f-7]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -2311,7 +2304,7 @@ Les interdictions prévues par la présente ordonnance ne s’appliquent pas à 
 <sup>4</sup> Les al. 1 à 3 s’appliquent également aux biens se trouvant physiquement en Suisse et présentés en douane avant le 29 mars 2023 qui ont été retenus en application de la présente ordonnance.
 
 [^31a-1]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^31a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^31a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 32
 

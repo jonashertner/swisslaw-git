@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2025-06-03
+version: 2025-06-25
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250603/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250603-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250603/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250625/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250625-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250625/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 3 giugno 2025)
+del 4 marzo 2022 (Stato 25 giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,8 +22,8 @@ visto l’articolo 184 capoverso 3 della Costituzione federale[^ingress-1]; vist
 
 ordina:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -129,7 +129,7 @@ D’intesa con i servizi competenti del Dipartimento federale degli affari ester
 [^2a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-5]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-7]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^2a-7]: [RS 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 [^2a-8]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-9]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-10]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -173,7 +173,7 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 
 <sup>3</sup> La SECO nega l’autorizzazione per i servizi di cui al capoverso 2 lettera b se i servizi sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^4-11]
 
-[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^4-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^4-4]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -282,7 +282,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 [^6-4]: Abrogate dalla cifra I dell’O del 14 mag. 2025, con effetto dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-5]: Abrogata dalla cifra I dell’O del 31 ago. 2022, con effetto dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^6-6]: Abrogata dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^6-7]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-7]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^6-8]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-9]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-10]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -297,7 +297,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 [^6-19]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-20]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-21]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-22]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-22]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^6-23]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 7
@@ -307,7 +307,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 Salvo disposizioni contrarie, la procedura di autorizzazione secondo gli articoli 2*a* e 4–6 è retta dalle disposizioni dell’OBDI[^7-2].
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^7-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^7-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 8
 
@@ -1642,42 +1642,35 @@ Il divieto di cui al capoverso 1 lettera b non si applica alle transazioni neces
 
 **Divieto di utilizzare determinati servizi specializzati di messaggistica finanziaria**[^27a-1]
 
-<sup>1</sup> È vietato collegarsi direttamente al sistema di trasmissione dei messaggi finanziari della Banca centrale della Federazione Russa o a equivalenti servizi specializzati di messaggistica finanziaria istituiti dalla Banca centrale della Federazione Russa.
+<sup>1</sup> È vietato collegarsi direttamente al sistema di trasmissione dei messaggi finanziari della Banca Centrale della Federazione Russa o a equivalenti servizi specializzati di messaggistica finanziaria istituiti dalla Banca Centrale della Federazione Russa.
 
-<sup>2</sup> È vietato partecipare a transazioni con banche, imprese e organizzazioni di cui all’allegato 14*a*.
+<sup>2</sup> È vietata la partecipazione a transazioni con banche, imprese e organizzazioni di cui all’allegato 14*a*.
 
-<sup>3</sup>
-
-Il divieto di cui al capoverso 1 non si applica alle transazioni necessarie per:
-
-- a. l’acquisto, l’importazione, il transito e il trasporto di gas, titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla e attraverso la Federazione Russa, in e attraverso la Svizzera o un Paese membro dello SEE, in Albania, Bosnia ed Erzegovina, Kosovo, Macedonia del Nord, Montenegro o Serbia;
-- b. l’acquisto, l’importazione e il trasporto di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa;
-- c. l’acquisto, l’importazione e il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi, in Svizzera o in uno Stato membro dello SEE;
-- d. il rimborso di un debito nei confronti di cittadini svizzeri, di cittadini di uno Stato membro dello SEE o di persone giuridiche od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE;
-- e. pagamenti nell’ambito di un sistema di previdenza professionale a una persona fisica con domicilio in Svizzera o in uno Stato membro dello SEE;
-- f. pagamenti da parte o a favore della Jewish Claims Conference.
+<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano al ricevimento di pagamenti dovuti dalle banche, dalle imprese o dalle organizzazioni di cui all’allegato 14*a* in virtù di contratti eseguiti prima del 24 marzo 2024.
 
 <sup>4</sup>
 
-Il divieto di cui al capoverso 2 non si applica alle transazioni che:
+Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necessarie per:
 
-- a. sono necessarie per l’acquisto, la vendita, la fornitura, l’esportazione o il trasporto di prodotti farmaceutici, dispositivi medici, prodotti agricoli e alimentari, compresi il frumento e i concimi;
-- b. sono necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro dello SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro dello SEE;
-- c. sono necessarie per attività umanitarie o evacuazioni;
-- d. sono necessarie per il rimborso di un debito esigibile a cittadini svizzeri, cittadini di uno Stato membro dello SEE o a persone giuridiche od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE;
-- e. dipendono dalla fornitura di servizi bancari di corrispondenza da parte di banche, imprese od organizzazioni di cui all’allegato 14*a*;
-- f. sono necessarie per effettuare pagamenti da parte di cittadini svizzeri, di cittadini di uno Stato membro dello SEE o di persone giuridiche od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE nell’ambito di un contratto di mutuo concluso dalla Svizzera o da uno Stato membro dello SEE.
+- a. l’acquisto, l’importazione, il transito o il trasporto di gas, titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla Federazione Russa o per il trasporto, attraverso la Federazione Russa, di tali beni in e attraverso la Svizzera nonché in e attraverso uno Stato membro dello SEE verso Albania, Bosnia ed Erzegovina, Macedonia del Nord, Montenegro, Kosovo o Serbia;
+- b. l’acquisto e l’importazione di petrolio, compresi i prodotti petroliferi raffinati dalla Federazione Russa, e per il trasporto di tale petrolio attraverso la Federazione Russa;
+- c. l’acquisto e l’importazione di prodotti farmaceutici, dispositivi medici, prodotti agricoli e alimentari, compresi il frumento e i concimi, e per il trasporto di tali prodotti in Svizzera o in uno Stato membro dello SEE;
+- d. il rimborso di un debito esigibile nei confronti di cittadini svizzeri, di cittadini di uno Stato membro dello SEE o di persone giuridiche o organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE;
+- e. i pagamenti del regime pensionistico a una persona fisica residente in Svizzera o in uno Stato membro dello SEE;
+- f. i pagamenti da parte o a favore della *Jewish Claims Conference*.
 
-<sup>5</sup> I divieti di cui ai capoversi 1 e 2 non si applicano all’accettazione dei pagamenti dovuti da banche, imprese o organizzazioni di cui all’allegato 14*a* nell’ambito di contratti eseguiti prima del 24 marzo 2024.
+<sup>5</sup>
 
-<sup>6</sup>
+Il divieto di cui al capoverso 2 non si applica:
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di cui al capoverso 2 se l’esecuzione delle transazioni è necessaria per:
+- a. alle transazioni necessarie per l’acquisto, l’esportazione, la fornitura, il transito o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi;
+- b. alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro dello SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro dello SEE.
+- c. alle transazioni necessarie per attività umanitarie o evacuazioni;
+- d. alle transazioni necessarie per il rimborso di un debito esigibile nei confronti di cittadini svizzeri, di cittadini di uno Stato membro dello SEE o di persone giuridiche o organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE;
+- e. alle transazioni che dipendono dalla fornitura di servizi bancari di corrispondenza da parte di banche, imprese o organizzazioni di cui all’allegato 14*a*;
+- f. alle transazioni necessarie per l’esecuzione di pagamenti da parte di cittadini svizzeri, di cittadini uno Stato membro dello SEE o di persone giuridiche o organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE in base a un contratto di prestito concluso dalla Svizzera o da uno Stato membro dello SEE.
 
-- a. il rimborso dei crediti all’esportazione garantiti;
-- b. l’esecuzione di contratti conclusi prima del 15 maggio 2025 fino alla loro data di scadenza, ma al massimo fino al 26 agosto 2025, purché i beneficiari abbiano sede in Svizzera o in uno Stato membro dello SEE.
-
-[^27a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 25 giu. 2025 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 28
 
@@ -1770,8 +1763,8 @@ Il divieto di cui al capoverso 1 non si applica:
 
 [^28c-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^28c-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28c-3]: [RS 0.422.10](https://fedlex.data.admin.ch/eli/cc/2010/220)
-[^28c-4]: [RS 0.424.10](https://fedlex.data.admin.ch/eli/cc/2006/70)
+[^28c-3]: [RS 0.422.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1714)
+[^28c-4]: [RS 0.424.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1738)
 [^28c-5]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^28c-6]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^28c-7]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -1965,7 +1958,7 @@ La Segreteria di Stato della migrazione (SEM), o il DFAE nel quadro della sua co
 - b. se la persona in questione si sposta per partecipare a conferenze internazionali o a un dialogo politico riguardanti la situazione in Ucraina; oppure
 - c. per tutelare interessi svizzeri.
 
-[^29-1]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^29-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 29a
 
@@ -2017,11 +2010,11 @@ Gli operatori aerei di cui al capoverso 1 lettera c devono comunicare all’UFAC
 [^29a-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^29a-4]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-5]: Abrogata dalla cifra I dell’O del 14 mag. 2025, con effetto dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^29a-6]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^29a-6]: [RS 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^29a-7]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^29a-8]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-9]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^29a-10]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^29a-10]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^29a-11]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^29a-12]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^29a-13]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
@@ -2077,7 +2070,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 <sup>9</sup> I committenti di cui al capoverso 7 e i Cantoni di cui al capoverso 8 segnalano alla SECO i casi di applicazione del capoverso 3.
 
 [^29c-1]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^29c-3]: Il Concordato intercantonale può essere consultato all’indirizzo: [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](http://www.lexfind.ch/fe/de/tol/33879/versions/219579/de)
 [^29c-4]: Il Concordato intercantonale può essere consultato all’indirizzo: [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](http://www.lexfind.ch/fe/de/tol/33884/versions/219203/de)
 [^29c-5]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -2106,7 +2099,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b<sup>bis</sup>.[^30-5] persone fisiche, imprese od organizzazioni nei territori designati di cui allegato 6;
 - c.[^30-6] persone fisiche, imprese od organizzazioni che agiscono per conto o sotto la direzione di una persona fisica, impresa od organizzazione di cui alle lettere a–b<sup>bis</sup>.
 
-[^30-1]: [RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
+[^30-1]: [[RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)]
 [^30-2]: [RU 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
 [^30-3]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-4]: Introdotta dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
@@ -2165,7 +2158,7 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 
 - c. i beni interessati si trovassero fisicamente nella Federazione Russa prima dell’entrata in vigore dei divieti di cui agli articoli 14*a* e 14*c* relativi a tali beni.
 
-[^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^30a-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30a-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^30a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -2265,10 +2258,10 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 <sup>3</sup> La Svizzera non è responsabile delle decisioni giudiziarie emesse secondo il capoverso 2 o della loro esecuzione.
 
-[^30f-1]: [RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
-[^30f-2]: [RU 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
+[^30f-1]: [[RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)]
+[^30f-2]: [RU 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438).
 [^30f-3]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^30f-4]: [RS 0.975.277.2](https://fedlex.data.admin.ch/eli/cc/1991/2196_2196_2196)
+[^30f-4]: [RS 0.975.277.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4683)
 [^30f-5]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30f-6]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30f-7]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -2316,7 +2309,7 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 <sup>4</sup> I capoversi 1–3 si applicano anche ai beni che si trovano fisicamente in Svizzera, che sono stati presentati prima del 29 marzo 2023 e che sono stati trattenuti conformemente alla presente ordinanza.
 
 [^31a-1]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^31a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^31a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 32
 
