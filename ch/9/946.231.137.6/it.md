@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Ordinanza del 10 aprile 2024 che istituisce provvedimenti concernenti il Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: it
-version: 2024-04-10
+version: 2025-06-26
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20240410/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20240410-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20240410/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250626/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250626-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti il Guatemala
 
-del 10 aprile 2024 (Stato 10 aprile 2024)
+del 10 aprile 2024 (Stato 26 giugno 2025)
 
 Il Consiglio federale svizzero,
 
@@ -67,9 +67,12 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati per:
 
 - a. rispettare contratti esistenti;
-- b. soddisfare crediti in applicazione di:
-- 1\. una decisione esistente di un tribunale arbitrale, oppure
-- 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.
 
 <sup>5</sup>
 
@@ -157,7 +160,7 @@ Il contenuto dell’allegato è pubblicato nella Raccolta ufficiale delle leggi 
 
 La presente ordinanza entra in vigore il 10 aprile 2024 alle ore 18.00.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 cpv. 1 lett. a, 3 cpv. 1, 4 cpv. 1 lett. a e 8)
 
@@ -165,4 +168,5 @@ Allegato
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/148](https://fedlex.data.admin.ch/eli/oc/2024/148) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalla cifra I dell’O del DEFR del 24 giu. 2025, in vigore dal 26 giu. 2025 ([RU 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/420](https://fedlex.data.admin.ch/eli/oc/2025/420) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
