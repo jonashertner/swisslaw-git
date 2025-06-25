@@ -1,27 +1,26 @@
 ---
 canton: BS
 number: "164.420"
-title: Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
+title: Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeitenden des Kantons Basel-Stadt
 short: Spesenverordnung
 language: de
-version: 2020-07-01
-valid_until: 2025-06-25
-version_adopted: 2020-06-02
+version: 2025-06-26
+version_adopted: 2024-12-17
 adopted: 1995-06-27
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4897/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
+# Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeitenden des Kantons Basel-Stadt
 
-Spesenverordnung | Staatspersonal: Lohn und Entschädigungen
+Lohn und Entschädigungen
 
 (Spesenverordnung)
 
-Vom 27. Juni 1995 (Stand 1. Juli 2020)
+Vom 27. Juni 1995 (Stand 26. Juni 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die im Rahmen ihrer Tätigkeit funktionsbedingte Auslagen haben, erhalten diese im Sinne einer vollen oder teilweisen Spesen- bzw. Kostenvergütung nach Massgabe der nachstehenden Bestimmungen zurückerstattet.
+<sup>1</sup> Mitarbeitende, die im Rahmen ihrer Tätigkeit funktionsbedingte Auslagen haben, erhalten diese im Sinne einer vollen oder teilweisen Spesen- bzw. Kostenvergütung nach Massgabe der nachstehenden Bestimmungen zurückerstattet.
 
 <sup>2</sup> Die Departemente können für einzelne Bereiche von dieser Verordnung abweichende oder ergänzende Regelungen erlassen. Diese unterliegen der Genehmigung durch den Regierungsrat.
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Reisespesen**
 
-<sup>1</sup> Reisespesen werden für Auslagen von Mitarbeiterinnen und Mitarbeitern auf Dienstreisen zur Erledigung von Dienstgeschäften ausserhalb des Dienstortes vergütet.
+<sup>1</sup> Reisespesen werden für Auslagen von Mitarbeitenden auf Dienstreisen zur Erledigung von Dienstgeschäften ausserhalb des Dienstortes vergütet.
 
 ### A. Reise- und Transportspesen
 
@@ -105,9 +104,9 @@ Bei mehr als 4000 km bewilligten jährlichen Fahrleistung mit dem Privatfahrzeug
 
 #### § 9
 
-**Motorrad-, Moped- und Fahrradentschädigung**
+**Dienstfahrten mit Motorrad-, Moped- und Fahrrad**
 
-<sup>1</sup> Bei durchschnittlich mindestens vier angeordneten Dienstfahrten pro Woche werden anstelle eines Umweltschutz-Abonnements für die Verwendung privater Motorräder, Kleinmotorräder, Motorfahrräder und Fahrräder jährliche Pauschalentschädigungen von einheitlich CHF 300 ausgerichtet.
+<sup>1</sup> Bei durchschnittlich mindestens vier angeordneten Dienstfahrten pro Woche werden anstelle einer Spesenentschädigung gemäss § 13 Abs. 1 für die Verwendung privater Motorräder, Kleinmotorräder, Motorfahrräder und Fahrräder jährliche Pauschalentschädigungen von einheitlich CHF 300 ausgerichtet.
 
 <sup>2</sup> Zusätzliche Kilometer-Entschädigungen (bzw. Tram-Entschädigungen) werden keine ausgerichtet. Dies gilt auch für sporadisch ausgeführte Dienstfahrten.
 
@@ -156,9 +155,11 @@ Bei mehr als 4000 km bewilligten jährlichen Fahrleistung mit dem Privatfahrzeug
 
 #### § 13
 
-**Tramspesen**
+**Dienstfahrten mit Tram und Bus**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die durchschnittlich vier angeordnete Dienstfahrten (ohne Arbeitsweg) pro Woche ausführen müssen, haben Anspruch auf ein Umweltschutz-Abonnement des Tarifverbundes. Der Selbstbehalt beträgt 20% des um die Subvention des Wohnortkantons gekürzten Abonnements-Gesamtpreises. Für sporadische Dienstfahrten stehen auf den zuständigen Sekretariaten Mehrfahrtenkarten zur Verfügung.
+<sup>1</sup> Bei durchschnittlich mindestens vier angeordneten Dienstfahrten pro Woche haben die Mitarbeitenden nach dem Erwerb eines Jobtickets des Tarifverbunds Nordwestschweiz (TNW) Anspruch auf eine Rückvergütung der Kosten bis zu einem Selbstbehalt von 20 %.
+
+<sup>1<sup>bis</sup></sup> Für sporadische Dienstfahrten stehen auf den zuständigen Sekretariaten Mehrfahrtenkarten zur Verfügung.
 
 <sup>2</sup> Reinigungshilfen im Stundenlohn, die durchschnittlich für nicht mehr als drei Stunden pro Tag angestellt sind, erhalten einen Beitrag in der Höhe der effektiven Fahrtkosten für den Arbeitsweg, jedoch höchstens bis zu einem Betrag von CHF 27 pro Monat.
 
