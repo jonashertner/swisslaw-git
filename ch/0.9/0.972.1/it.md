@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Accordo del 29 maggio 1990 istitutivo della Banca europea per la ricostruzione e lo sviluppo (con All. e lettera)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: it
-version: 2016-03-02
+version: 2025-06-26
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20160302/it/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20160302-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20160302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/it/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20160302/it"
 
 RU **1991** 1525; FF **1990** III 633
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
-Concluso a Parigi il 29 maggio 1990
+Concluso a Parigi il 29 maggio 1990 Approvato dall’Assemblea federale il 14 dicembre 1990[^t-2] Ratificato dalla Svizzera con strumento depositato il 29 marzo 1991 Entrato in vigore per la Svizzera il 29 marzo 1991
 
-Approvato dall’Assemblea federale il 14 dicembre 1990[^t-2]
-
-Ratificato dalla Svizzera con strumento depositato il 29 marzo 1991
-
-Entrato in vigore per la Svizzera il 29 marzo 1991
-
-(Stato 2 marzo 2016)
+(Stato 26 giugno 2025)
 
 [^t-1]: Dai testi originali francese e tedesco.
 [^t-2]: [RU 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
@@ -218,13 +212,15 @@ Per assicurare il raggiungimento del fine e l’adempimento delle funzioni speci
 
 **Limiti alle operazioni ordinarie**
 
-<sup>(1)</sup> L’ammontare totale dei prestiti, degli investimenti azionari e delle garanzie effettuate dalla Banca nell’ambito delle sue operazioni ordinarie, ed ancora in essere, non può essere aumentato se viene in tal modo superato il totale del capitale sottoscritto, delle riserve e delle eccedenze incluse nelle risorse del capitale ordinario.
+<sup>(1)</sup> Il Consiglio di Amministrazione stabilisce e mantiene limiti appropriati per quanto riguarda gli indicatori di adeguatezza dei fondi propri, allo scopo di proteggere la solidità e la solvibilità finanziarie della Banca.[^12-1]
 
 <sup>(2)</sup> L’ammontare di ogni investimento azionario non può normalmente superare quella percentuale del capitale azionario dell’impresa interessata, ritenuta appropriata, in via generale, dal Consiglio di Amministrazione. La Banca, attraverso tale investimento, non deve cercare di ottenere una posizione di controllo nell’impresa interessata e non può esercitare tale controllo né assumere una responsabilità diretta nella gestione di una qualunque impresa nella quale ha investito tranne che nel caso di effettiva o temuta perdita di uno dei suoi investimenti, effettiva o temuta insolvenza dell’impresa nella quale tale investimento era stato effettuato, o in altra situazione che, a giudizio della Banca, possa mettere in pericolo tale investimento; in tale caso la Banca può prendere ogni iniziativa ed esercitare ogni diritto che appaia necessario per proteggere i propri interessi.
 
 <sup>(3)</sup> L’ammontare degli investimenti azionari erogati dalla Banca non può, in nessun momento, superare il totale del capitale sottoscritto e versato, delle eccedenze e della riserva generale.
 
 <sup>(4)</sup> La Banca non può emettere garanzie per crediti alle esportazioni né effettuare attività di assicurazione.
+
+[^12-1]: Nuovo testo giusta la Ris. n. 260 del 18 mag. 2023, in vigore per la Svizzera dal 26 giu. 2025 ([RU 2025 442](https://fedlex.data.admin.ch/eli/oc/2025/442)).
 
 #### Art. 13
 
@@ -820,7 +816,7 @@ Fatto a Parigi il 29 maggio 1990 in un unico originale, le cui versioni in lingu
 
 Allegato A
 
-## Sottoscrizioni iniziali al capitale autorizzato per i futuri membri**** che possono diventare tali in conformità con l’articolo 61
+## Sottoscrizioni iniziali al capitale autorizzato per i futuri membri che possono diventare tali in conformità con l’articolo 61
 
 [^annexA-lvlu1-1]
 
@@ -855,7 +851,7 @@ Allegato A
 <tr><td>[tab] Svezia</td><td>22 800</td><td>228,00</td></tr>
 <tr><td>[tab] Svizzera</td><td>22 800</td><td>228,00</td></tr>
 <tr><td>[tab] Turchia</td><td>11 500</td><td>115,00</td></tr>
-<tr><td>C – Paesi beneficiari</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>C – Paesi beneficiari</td><td></td><td></td></tr>
 <tr><td>[tab] Bulgaria</td><td>7 900</td><td>79,00</td></tr>
 <tr><td>[tab] Cecoslovacchia</td><td>12 800</td><td>128,00</td></tr>
 <tr><td>[tab] Repubblica democratica tedesca</td><td>15 500</td><td>155,00</td></tr>
@@ -1083,7 +1079,7 @@ Campo d’applicazione il 2 marzo 201[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi francesi, tedeschi e italiani si possono ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530)e [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530)e [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

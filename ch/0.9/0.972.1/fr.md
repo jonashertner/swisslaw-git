@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Accord du 29 mai 1990 portant création de la Banque européenne pour la reconstruction et le développement (avec annexes et lettre)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: fr
-version: 2016-03-02
+version: 2025-06-26
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20160302/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20160302-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20160302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 29 mars 1991
 
 Entré en vigueur pour la Suisse le 29 mars 1991
 
-(Etat le 2 mars 2016)
+(État le 26 juin 2025)
 
 [^t-1]: [RO 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
 
@@ -123,17 +123,17 @@ La qualité de membre peut être accordée:
 
 <sup>1.</sup> Le paiement des actions libérées du capital initial souscrit par les signataires du présent Accord qui deviennent membres conformément aux dispositions de l’art. 61 du présent Accord s’effectue en cinq (5) versements représentant vingt (20) % chacun. Le premier versement est effectué par chaque membre dans un délai de soixante (60) jours, soit après la date d’entrée en vigueur du présent Accord, soit après la date du dépôt de son instrument de ratification, d’acceptation, ou d’approbation conformément aux dispositions de l’art. 61, si celui‑ci intervient après la date d’entrée en vigueur. Les quatre (4) versements suivants viennent à échéance successivement le dernier jour de la période d’un an qui suit immédiatement l’échéance précédente et sont effectués sous réserve des dispositions législatives propres à chaque membre.
 
-<sup>2.</sup> Cinquante (50) % du paiement de chaque versement dû au titre du par. 1 du présent article ou par un membre admis conformément au par. 2 de l’art. 3 du présent Accord peut être fait en billets à ordre ou tout autre instrument émis par le membre et libellé soit en écus, soit en dollars des Etats‑Unis, soit en yens, et prélevé en fonction des besoins de décaissement de la Banque liés à ses opérations. Ces billets ou instruments, incessibles et non porteurs d’intérêts, sont encaissés à leur valeur nominale à la demande de la Banque. L’encaissement de ces billets ou instruments est effectué de façon à ce que, sur des périodes raisonnables, leur valeur en écu soit, à la date de la demande, proportionnelle au nombre d’actions à libérer souscrites et détenues par chaque membre ayant déposé lesdits billets ou instruments.
+<sup>2.</sup> Cinquante (50) % du paiement de chaque versement dû au titre du par. 1 du présent article ou par un membre admis conformément au par. 2 de l’art. 3 du présent Accord peut être fait en billets à ordre ou tout autre instrument émis par le membre et libellé soit en écus, soit en dollars des États‑Unis, soit en yens, et prélevé en fonction des besoins de décaissement de la Banque liés à ses opérations. Ces billets ou instruments, incessibles et non porteurs d’intérêts, sont encaissés à leur valeur nominale à la demande de la Banque. L’encaissement de ces billets ou instruments est effectué de façon à ce que, sur des périodes raisonnables, leur valeur en écu soit, à la date de la demande, proportionnelle au nombre d’actions à libérer souscrites et détenues par chaque membre ayant déposé lesdits billets ou instruments.
 
-<sup>3.</sup> Tout paiement fait par un membre au titre de sa souscription d’actions du capital social initial s’effectue soit en écus, soit en dollars des Etats‑Unis, soit en yens, sur la base du taux de change moyen de la monnaie en question par rapport à l’écu pour la période allant du 30 septembre 1989 au 31 mars 1990 inclus.
+<sup>3.</sup> Tout paiement fait par un membre au titre de sa souscription d’actions du capital social initial s’effectue soit en écus, soit en dollars des États‑Unis, soit en yens, sur la base du taux de change moyen de la monnaie en question par rapport à l’écu pour la période allant du 30 septembre 1989 au 31 mars 1990 inclus.
 
 <sup>4.</sup> Les montants souscrits en actions du capital social de la Banque sujettes à appel font l’objet d’un appel, conformément aux art. 17 et 42 du présent Accord, seulement aux dates et conditions fixées par la Banque pour faire face à ses engagements.
 
-<sup>5.</sup> Dans le cas d’un appel tel que prévu au par. 4 du présent article, le paiement est effectué par le membre soit en écus, soit en dollars des Etats‑Unis, soit en yens. L’appel est effectué uniformément sur la base de la valeur en écus de chaque action sujette à appel, calculée au moment de l’appel.
+<sup>5.</sup> Dans le cas d’un appel tel que prévu au par. 4 du présent article, le paiement est effectué par le membre soit en écus, soit en dollars des États‑Unis, soit en yens. L’appel est effectué uniformément sur la base de la valeur en écus de chaque action sujette à appel, calculée au moment de l’appel.
 
 <sup>6.</sup> Un mois au plus tard après la séance inaugurale du Conseil des gouverneurs, la Banque détermine le lieu où tous les paiements prévus par le présent article seront effectués, étant entendu que, jusqu’à ce que la Banque prenne cette décision, le paiement du premier versement visé au paragraphe 1 du présent article se fait auprès de la Banque Européenne d’Investissement, en sa qualité de mandataire (trustee) de la Banque.
 
-<sup>7.</sup> Pour les souscriptions autres que celles visées aux par. 1, 2 et 3 du présent article, les paiements effectués par un membre au titre de sa souscription des parts libérées du capital social autorisé de la Banque le seront en écus, en dollars des Etats‑Unis ou en yens, qu’il s’agisse de paiement en numéraire, par billets à ordre ou par tout autre instrument.
+<sup>7.</sup> Pour les souscriptions autres que celles visées aux par. 1, 2 et 3 du présent article, les paiements effectués par un membre au titre de sa souscription des parts libérées du capital social autorisé de la Banque le seront en écus, en dollars des États‑Unis ou en yens, qu’il s’agisse de paiement en numéraire, par billets à ordre ou par tout autre instrument.
 
 <sup>8.</sup> Aux fins du présent article, le paiement ou la dénomination en écus désigne notamment le paiement ou la dénomination dans toute monnaie pleinement convertible qui équivaut, à la date du paiement de l’encaissement, à la valeur de l’obligation concernée en écus.
 
@@ -166,10 +166,10 @@ Aux fins du présent Accord, le terme «ressources ordinaires en capital» de la
 
   Au cours de cette période:
 
-  - (a) la Banque fournit audit pays et aux entreprises situées sur son territoire, à leur demande, une assistance technique et tout autre type d’assistance visant à financer son secteur privé, à faciliter le passage d’entreprises d’Etat à la propriété et au contrôle privés et à aider les entreprises fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché, et ce dans la proportion visée au par. 3 de l’art. 11 du présent Accord;
+  - (a) la Banque fournit audit pays et aux entreprises situées sur son territoire, à leur demande, une assistance technique et tout autre type d’assistance visant à financer son secteur privé, à faciliter le passage d’entreprises d’État à la propriété et au contrôle privés et à aider les entreprises fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché, et ce dans la proportion visée au par. 3 de l’art. 11 du présent Accord;
   - (b) le montant total de toute assistance ainsi fournie ne peut excéder le montant total des liquidités décaissées et des billets à ordre émis par ledit pays au titre de ses actions.
 
-- (iii) A la fin de cette période, la décision de permettre l’accès aux ressources audit pays au‑delà des limites indiquées aux al. (a) et (b) est prise par le Conseil des gouverneurs à la majorité d’au moins trois quarts des gouverneurs, représentant au moins quatre‑vingt cinq (85) % du nombre total des voix attribuées aux membres.
+- (iii) À la fin de cette période, la décision de permettre l’accès aux ressources audit pays au‑delà des limites indiquées aux al. (a) et (b) est prise par le Conseil des gouverneurs à la majorité d’au moins trois quarts des gouverneurs, représentant au moins quatre‑vingt cinq (85) % du nombre total des voix attribuées aux membres.
 
 #### Art. 9
 
@@ -191,39 +191,41 @@ Les opérations de la Banque comprennent les opérations ordinaires financées s
 
 **Méthodes de fonctionnement**
 
-<sup>1.</sup> Aux fins du présent paragraphe, une entreprise d’Etat n’est pas considérée comme fonctionnant de manière concurrentielle si elle n’est pas gérée de façon autonome dans un environnement de marché concurrentiel et si elle n’est pas soumise aux lois régissant la faillite.
+<sup>1.</sup> Aux fins du présent paragraphe, une entreprise d’État n’est pas considérée comme fonctionnant de manière concurrentielle si elle n’est pas gérée de façon autonome dans un environnement de marché concurrentiel et si elle n’est pas soumise aux lois régissant la faillite.
 
 Dans la poursuite de ses objectifs et l’exercice de sa mission tels qu’ils sont définis aux art. 1 et 2 du présent Accord, la Banque effectue ses opérations de l’une quelconque ou de toutes les manières suivantes:
 
-- (i) soit en accordant des prêts en faveur d’entreprises du secteur privé, de toute entreprise d’Etat fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché ou de toute entreprise d’Etat en vue de favoriser sa transition vers la propriété et le contrôle privés, soit en cofinançant de tels prêts avec des institutions multilatérales, des banques commerciales ou d’autres sources de financement intéressées, soit en participant à de tels prêts, le but étant notamment de renforcer ou de faciliter la participation des capitaux privés et/ou étrangers dans ces entreprises;
+- (i) soit en accordant des prêts en faveur d’entreprises du secteur privé, de toute entreprise d’État fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché ou de toute entreprise d’État en vue de favoriser sa transition vers la propriété et le contrôle privés, soit en cofinançant de tels prêts avec des institutions multilatérales, des banques commerciales ou d’autres sources de financement intéressées, soit en participant à de tels prêts, le but étant notamment de renforcer ou de faciliter la participation des capitaux privés et/ou étrangers dans ces entreprises;
 - (ii) (a) en prenant des participations dans des entreprises du secteur privé;
-  - (b) en prenant des participations dans toute entreprise d’Etat fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché et en prenant des participations dans toute entreprise d’Etat en vue de favoriser sa transition vers la propriété et le contrôle privés, le but étant notamment de faciliter ou de renforcer la participation des capitaux privés et/ou étrangers dans ces entreprises;
-  - (c) en garantissant, lorsque d’autres moyens de financement ne sont pas adéquats, l’émission de titres par des entreprises du secteur privé et des entreprises d’Etat telles que celles visées à l’al. (b) ci‑dessus aux fins mentionnées dans cet alinéa;
+  - (b) en prenant des participations dans toute entreprise d’État fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché et en prenant des participations dans toute entreprise d’État en vue de favoriser sa transition vers la propriété et le contrôle privés, le but étant notamment de faciliter ou de renforcer la participation des capitaux privés et/ou étrangers dans ces entreprises;
+  - (c) en garantissant, lorsque d’autres moyens de financement ne sont pas adéquats, l’émission de titres par des entreprises du secteur privé et des entreprises d’État telles que celles visées à l’al. (b) ci‑dessus aux fins mentionnées dans cet alinéa;
 
 - (iii) en facilitant l’accès des marchés de capitaux nationaux et internationaux aux entreprises du secteur privé ou aux autres entreprises visées à l’al. (i) du présent paragraphe aux fins décrites par cet alinéa, par l’octroi de garanties, lorsque d’autres moyens de financement ne sont Pas adéquats, et par la mise à disposition de conseils en matière financière ou de toutes autres formes d’assistance;
 - (iv) en employant les ressources des Fonds Spéciaux conformément aux accords définissant leur utilisation; et
 - (v) en accordant ou en participant à des prêts et en fournissant une assistance technique pour la reconstruction et le développement des infrastructures, y compris les programmes liés à la protection de l’environnement, nécessaires au développement du secteur privé et à la transition vers une économie de marché.
 
 - 2\. (i) Le Conseil d’administration procède à un examen au moins annuel des opérations et de la stratégie de la Banque en matière de prêts dans chaque pays bénéficiaire pour s’assurer que l’objet et la mission de la Banque tels qu’ils sont définis aux art. 1 et 2 du présent Accord sont pleinement remplis. Toute décision résultant de cet examen est prise à la majorité des deux tiers au moins des administrateurs, représentant au moins les trois quarts du nombre total des voix attribuées aux membres.
-- (ii) Cet examen comprend, entre autres, l’analyse des progrès réalisés par chaque pays bénéficaire en matière de décentralisation, de démantèlement des monopoles et de privatisation de son économie; il tient compte également de la proportion des prêts consentis aux entreprises privées et aux entreprises d’Etat engagées dans un processus d’évolution vers l’économie de marché ou de privatisation, au titre des infrastructures, de l’assistance technique et à d’autres fins.
-- 3\. (i) Sans préjudice des autres opérations visées par le présent article, quarante (40) % au plus du montant total des engagements de la Banque en matière de prêts, de garanties et de prises de participation, sont consacrés au secteur d’Etat. Dans un premier temps, cette limite s’appliquera pendant une période de deux (2) ans considérée globalement à compter du début des opérations de la Banque, puis pour chaque exercice ultérieur.
-- (ii) Quel que soit le pays, et sans préjudice des autres opérations visées par le présent article, quarante (40) % au plus du montant total des engagements de la Banque en matière de prêts, de garanties et de prises de participation sont consacrés au secteur d’Etat pendant une période de cinq (5) ans considérée globalement.
+- (ii) Cet examen comprend, entre autres, l’analyse des progrès réalisés par chaque pays bénéficaire en matière de décentralisation, de démantèlement des monopoles et de privatisation de son économie; il tient compte également de la proportion des prêts consentis aux entreprises privées et aux entreprises d’État engagées dans un processus d’évolution vers l’économie de marché ou de privatisation, au titre des infrastructures, de l’assistance technique et à d’autres fins.
+- 3\. (i) Sans préjudice des autres opérations visées par le présent article, quarante (40) % au plus du montant total des engagements de la Banque en matière de prêts, de garanties et de prises de participation, sont consacrés au secteur d’État. Dans un premier temps, cette limite s’appliquera pendant une période de deux (2) ans considérée globalement à compter du début des opérations de la Banque, puis pour chaque exercice ultérieur.
+- (ii) Quel que soit le pays, et sans préjudice des autres opérations visées par le présent article, quarante (40) % au plus du montant total des engagements de la Banque en matière de prêts, de garanties et de prises de participation sont consacrés au secteur d’État pendant une période de cinq (5) ans considérée globalement.
 - (iii) Aux fins du présent paragraphe,
-  - a) le secteur d’Etat comprend les gouvernements nationaux, les administrations locales, les organismes et les entreprises qu’ils possèdent ou contrôlent;
-  - b) ne sont pas considérés comme concours au secteur d’Etat les prêts et garanties accordés à des entreprises d’Etat ou les prises de participation effectuées au sein de telles entreprises qui mettent en œuvre un programme les privatisant ou faisant passer leur direction sous propriété et contrôle privés;
-  - c) ne sont pas considérés comme concours au secteur d’Etat les prêts consentis à des intermédiaires financiers qui les utilisent pour financer des opérations du secteur privé.
+  - a) le secteur d’État comprend les gouvernements nationaux, les administrations locales, les organismes et les entreprises qu’ils possèdent ou contrôlent;
+  - b) ne sont pas considérés comme concours au secteur d’État les prêts et garanties accordés à des entreprises d’État ou les prises de participation effectuées au sein de telles entreprises qui mettent en œuvre un programme les privatisant ou faisant passer leur direction sous propriété et contrôle privés;
+  - c) ne sont pas considérés comme concours au secteur d’État les prêts consentis à des intermédiaires financiers qui les utilisent pour financer des opérations du secteur privé.
 
 #### Art. 12
 
 **Limitation des opérations ordinaires**
 
-<sup>1.</sup> Le montant total de l’encours des prêts, des participations et des garanties réalisés par la Banque au titre de ses opérations ordinaires ne doit à aucun moment être augmenté si cette augmentation entraîne un dépassement du montant total de son capital social net d’obligations, des réserves et des excédents compris dans ses ressources ordinaires en capital.
+<sup>1.</sup> Le Conseil d’administration établit et maintient des limites appropriées en ce qui concerne les indicateurs d’adéquation des fonds propres, afin de préserver la solidité et la viabilité financières de la Banque.[^12-1]
 
 <sup>2.</sup> Le montant total de toute prise de participation ne dépasse pas, en règle générale, le pourcentage du capital social de l’entreprise concernée que le Conseil d’admini-stration juge approprié. La Banque ne cherche pas à obtenir par de telles prises de participation le contrôle de l’entreprise concernée; elle n’exerce pas un tel contrôle et n’assume pas de responsabilité directe dans la gestion des entreprises dans lesquelles elle a investi, sauf en cas de défaut ou de menace de défaut pesant sur ses investissements, ou en cas d’insolvabilité effective ou potentielle de l’entreprise auprès de laquelle elle a fait ces investissements, ou dans d’autres situations qui, du point de vue de la Banque, menacent lesdits investissements, la Banque peut prendre toute initiative ou exercer tout droit qu’elle juge nécessaire auxquels cas pour protéger ses intérêts.
 
 <sup>3.</sup> L’encours des prises de participation décaissées par la Banque ne doit à aucun moment dépasser le montant de son capital souscrit en actions à libérer net d’obligations, augmenté des excédents et de la réserve générale.
 
 <sup>4.</sup> La Banque n’accorde pas de garanties sur des crédits à l’exportation et n’exerce aucune activité d’assurance.
+
+[^12-1]: Nouvelle teneur selon la Rés. N<sup>o</sup> 260 du 18 mai 2023, en vigueur pour la Suisse depuis le 26 juin 2025 ([RO 2025 442](https://fedlex.data.admin.ch/eli/oc/2025/442)).
 
 #### Art. 13
 
@@ -251,7 +253,7 @@ Les opérations de la Banque sont menées selon les principes suivants:
 
 <sup>1.</sup> Les contrats de prêts consentis par la Banque, auxquels elle participe ou qu’elle garantit, en fixent les conditions et modalités, notamment en ce qui concerne le remboursement du principal, le paiement des intérêts et autres commissions ou charges, les échéances et les dates de paiement. En arrêtant ces conditions et modalités, la Banque prend pleinement en compte la nécessité de préserver ses revenus.
 
-<sup>2.</sup> Dans le cas où le bénéficiaire de prêts ou de garanties de prêts n’est pas un membre mais une entreprise d’Etat, la Banque peut, lorsque cela lui apparaît souhaitable, en gardant à l’esprit des approches différentes selon qu’il s’agit d’entreprises publiques ou d’Etat évoluant vers un système de propriété et de contrôle privés, exiger du membre ou des membres sur le territoire duquel ou desquels le projet doit être réalisé, ou d’un organisme public ou de toute émanation de ce membre ou ces membres agréés par la Banque, qu’ils garantissent, conformément au contrat de prêt, le remboursement du principal, le paiement des intérêts et autres charges et commissions liés au prêt. Le Conseil d’administration procède à un examen annuel de la stratégie de la Banque en ce domaine, en prenant dûment en compte sa solvabilité.
+<sup>2.</sup> Dans le cas où le bénéficiaire de prêts ou de garanties de prêts n’est pas un membre mais une entreprise d’État, la Banque peut, lorsque cela lui apparaît souhaitable, en gardant à l’esprit des approches différentes selon qu’il s’agit d’entreprises publiques ou d’État évoluant vers un système de propriété et de contrôle privés, exiger du membre ou des membres sur le territoire duquel ou desquels le projet doit être réalisé, ou d’un organisme public ou de toute émanation de ce membre ou ces membres agréés par la Banque, qu’ils garantissent, conformément au contrat de prêt, le remboursement du principal, le paiement des intérêts et autres charges et commissions liés au prêt. Le Conseil d’administration procède à un examen annuel de la stratégie de la Banque en ce domaine, en prenant dûment en compte sa solvabilité.
 
 <sup>3.</sup> Le contrat de prêt ou de garantie indique expressément la ou les monnaies, ou l’écu, dans lesquels tous les paiements dus à la Banque au titre de ce prêt ou de cette garantie seront effectués.
 
@@ -562,7 +564,7 @@ Sans préjudice des pouvoirs que l’art. 24 du présent Accord confère au Cons
 
 <sup>1.</sup> Après la date à laquelle un membre perd sa qualité de membre, il reste tenu par ses obligations directes ainsi que par ses engagements conditionnels envers la Banque aussi longtemps que subsiste un encours des prêts et des garanties consentis ou des prises de participation réalisées avant qu’il ait cessé d’être membre; cependant, ce membre cesse d’être responsable des prêts et garanties et des prises de participation consentis et réalisés ultérieurement par la Banque, et de participer, soit aux revenus, soit aux dépenses de la Banque.
 
-<sup>2.</sup> Lorsqu’un membre perd cette qualité, la Banque procède à un règlement partiel des comptes avec ce membre, en prenant, conformément aux dispositions du présent article, toute mesure en vue du rachat des actions de celui-ci. A cette fin, le prix de rachat de ces actions est constitué par leur valeur constatée dans les livres de la Banque à la date à laquelle ce membre perd sa qualité de membre, le prix initial d’achat de chaque action constituant la valeur maximale.
+<sup>2.</sup> Lorsqu’un membre perd cette qualité, la Banque procède à un règlement partiel des comptes avec ce membre, en prenant, conformément aux dispositions du présent article, toute mesure en vue du rachat des actions de celui-ci. À cette fin, le prix de rachat de ces actions est constitué par leur valeur constatée dans les livres de la Banque à la date à laquelle ce membre perd sa qualité de membre, le prix initial d’achat de chaque action constituant la valeur maximale.
 
 <sup>3.</sup>
 
@@ -691,7 +693,7 @@ Les gouverneurs, administrateurs, suppléants, fonctionnaires et employés de la
 
 <sup>5.</sup> Les dispositions du présent article ne s’appliquent pas aux taxes et droits qui ne sont que la contrepartie de services publics rendus.
 
-<sup>6.</sup> Les administrateurs, les administrateurs‑suppléants, les fonctionnaires et employés de la Banque sont soumis à un impôt interne effectif au bénéfice de la Banque perçu sur les traitements et émoluments payés par la Banque, selon des conditions à établir et des règles à fixer par le Conseil des gouverneurs dans un délai d’un an à compter de l’entrée en vigueur du présent Accord. A partir de la date à laquelle cet impôt est appliqué, ces traitements et émoluments sont exemptés de tout impôt national sur le revenu. Toutefois, les membres peuvent prendre en compte les traitements et émoluments ainsi exemptés pour le calcul du montant de l’impôt sur les revenus provenant d’autres sources.
+<sup>6.</sup> Les administrateurs, les administrateurs‑suppléants, les fonctionnaires et employés de la Banque sont soumis à un impôt interne effectif au bénéfice de la Banque perçu sur les traitements et émoluments payés par la Banque, selon des conditions à établir et des règles à fixer par le Conseil des gouverneurs dans un délai d’un an à compter de l’entrée en vigueur du présent Accord. À partir de la date à laquelle cet impôt est appliqué, ces traitements et émoluments sont exemptés de tout impôt national sur le revenu. Toutefois, les membres peuvent prendre en compte les traitements et émoluments ainsi exemptés pour le calcul du montant de l’impôt sur les revenus provenant d’autres sources.
 
 <sup>7.</sup> Nonobstant les dispositions du paragraphe 6 du présent article, un membre peut, lors du dépôt de son instrument de ratification, d’acceptation, ou d’approbation, déclarer se réserver pour lui‑même, ses subdivisions politiques ou ses collectivités territoriales, le droit d’imposer les traitements et émoluments versés par la Banque à ses citoyens ou à ses ressortissants. La Banque est exemptée de toute obligation de payer, de retenir ou de collecter de tels impôts. La Banque n’effectue aucun remboursement pour de tels impôts.
 
@@ -804,7 +806,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 <sup>2.</sup>
 
-A sa première réunion, le Conseil des gouverneurs:
+À sa première réunion, le Conseil des gouverneurs:
 
 - (i) élit le président;
 - (ii) élit les administrateurs de la Banque conformément aux dispositions de l’art. 26 du présent Accord;
@@ -819,14 +821,14 @@ Suivent les signatures
 
 Annexe A
 
-## Souscriptions initiales au capital social autorisé pour les membres potentiels**** susceptibles de devenir membres conformément aux dispositions de l’art. 61
+## Souscriptions initiales au capital social autorisé pour les membres potentiels susceptibles de devenir membres conformément aux dispositions de l’art. 61
 
 [^annexA-lvlu1-1]
 
 [^annexA-lvlu1-1]: Les membres potentiels sont classés dans les catégories visées ci‑dessus exclusivement aux fins du présent Accord. Dans les autres dispositions du présent Accord, les pays bénéficiaires figurent sous le nom de pays d’Europe centrale et orientale.
 
 <table>
-<tr><th></th><th>Nombre d’actions</th><th>Souscription au capital (en mio d’Ecus)</th></tr>
+<tr><th></th><th>Nombre d’actions</th><th>Souscription au capital (en mio d’Écus)</th></tr>
 <tr><td>A – Communautés européennes</td><td></td><td></td></tr>
 <tr><td>a. République fédérale d’Allemagne</td><td>85 175</td><td>851,75</td></tr>
 <tr><td>[tab] Belgique</td><td>22 800</td><td>228,00</td></tr>
@@ -867,8 +869,8 @@ Annexe A
 <tr><td>[tab] Australie</td><td>10 000</td><td>100,00</td></tr>
 <tr><td>[tab] Canada</td><td>34 000</td><td>340,00</td></tr>
 <tr><td>[tab] République de Corée</td><td>6 500</td><td>65,00</td></tr>
-<tr><td>[tab] Egypte</td><td>1 000</td><td>10,00</td></tr>
-<tr><td>[tab] Etats‑Unis</td><td>100 000</td><td>1 000,00</td></tr>
+<tr><td>[tab] Égypte</td><td>1 000</td><td>10,00</td></tr>
+<tr><td>[tab] États‑Unis</td><td>100 000</td><td>1 000,00</td></tr>
 <tr><td>[tab] Japon</td><td>85 175</td><td>851,75</td></tr>
 <tr><td>[tab] Maroc</td><td>1 000</td><td>10,00</td></tr>
 <tr><td>[tab] Mexique</td><td>3 000</td><td>30,00</td></tr>
@@ -879,7 +881,7 @@ Annexe A
 
 Annexe B
 
-## Section A Election des administrateurs par les gouverneurs représentant la République fédérale d’Allemagne, la Belgique, le Danemark, l’Espagne, la France, la Grèce, l’Irlande, l’Italie, le Luxembourg, les Pays‑Bas, le Portugal, le Royaume‑Uni, la Communauté économique européenne et la Banque européenne d’investissement
+## Section A Élection des administrateurs par les gouverneurs représentant la République fédérale d’Allemagne, la Belgique, le Danemark, l’Espagne, la France, la Grèce, l’Irlande, l’Italie, le Luxembourg, les Pays‑Bas, le Portugal, le Royaume‑Uni, la Communauté économique européenne et la Banque européenne d’investissement
 
 (ci‑après dénommés gouverneurs de la Section A)
 
@@ -906,9 +908,9 @@ Annexe B
 
 \10. Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’Annexe A est supérieure à 2,4 %, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au par. 3 de l’art. 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
 
-## Section B Election des administrateurs par des gouverneurs représentant d’autres pays
+## Section B Élection des administrateurs par des gouverneurs représentant d’autres pays
 
-### Section B (i) Election des administrateurs par des gouverneurs représentant les pays énumérés à l’annexe A dans la catégorie pays d’Europe Centrale et Orientale (pays bénéficiaires)
+### Section B (i) Élection des administrateurs par des gouverneurs représentant les pays énumérés à l’annexe A dans la catégorie pays d’Europe Centrale et Orientale (pays bénéficiaires)
 
 (ci‑après dénommés gouverneurs de la section B (i))
 
@@ -935,7 +937,7 @@ Annexe B
 
 \10. Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’Annexe A est supérieure à 2,8 %, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au par. 3 de l’art. 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
 
-### Section B (ii) Election des administrateurs par les gouverneurs représentant les pays énumérés à l’Annexe A dans la catégorie autres pays européens
+### Section B (ii) Élection des administrateurs par les gouverneurs représentant les pays énumérés à l’Annexe A dans la catégorie autres pays européens
 
 (ci‑après dénommés gouverneurs de la section B (ii))
 
@@ -962,7 +964,7 @@ Annexe B
 
 \10. Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’Annexe A est supérieure à 2,8 %, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au par. 3 de l’art. 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
 
-### Section B (iii) Election des administrateurs par les gouverneurs représentant des pays énumérés à l’annexe A dans la catégorie pays non‑européens
+### Section B (iii) Élection des administrateurs par les gouverneurs représentant des pays énumérés à l’annexe A dans la catégorie pays non‑européens
 
 (ci‑après dénommés gouverneurs de la section B (iii))
 
@@ -1011,24 +1013,24 @@ Comme vous le savez, l’initiative du Président français, Monsieur Mitterrand
 
 Dans le même temps, des difficultés sont apparues et découlent, dans une large mesure, des craintes d’un certain nombre de pays de voir l’Union Soviétique – en raison des dimensions de son économie –, devenir le principal bénéficiaire des crédits de la Banque. Si tel était le cas, ces possibilités d’étendre l’aide en faveur des pays d’Europe centrale et orientale s’en trouveraient réduites.
 
-A cet égard, je tiens à vous assurer, M. le Président, que l’intention de l’Union Soviétique de devenir membre à part entière découle principalement de sa volonté d’établir une nouvelle institution de coopération multilatérale afin de procéder à des réformes historiques sur le continent européen.
+À cet égard, je tiens à vous assurer, M. le Président, que l’intention de l’Union Soviétique de devenir membre à part entière découle principalement de sa volonté d’établir une nouvelle institution de coopération multilatérale afin de procéder à des réformes historiques sur le continent européen.
 
 Je tiens à vous informer que mon gouvernement est prêt à limiter son accès aux ressources de la Banque, conformément au par. 4 de l’art. 8 de l’Acte constitutif de la Banque, pour une période de trois ans à compter de la date d’entrée en vigueur de l’Accord portant création de la Banque.
 
-L’Union Soviétique entend que, durant cette période, la Banque fournisse l’assistance technique ou tout autre type d’assistance visant à financer son secteur privé, à faciliter le passage d’entreprises du secteur d’Etat à la propriété et au contrôle privé et à aider les entreprises fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché, et ce dans la proportion visée au par. 3 de l’art. 11 de l’Accord. Le montant total de toute assistance ainsi fournie par la Banque ne peut excéder le montant total des liquidités décaissées et des billets à ordre émis par l’Union Soviétique au titre de ses actions.
+L’Union Soviétique entend que, durant cette période, la Banque fournisse l’assistance technique ou tout autre type d’assistance visant à financer son secteur privé, à faciliter le passage d’entreprises du secteur d’État à la propriété et au contrôle privé et à aider les entreprises fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché, et ce dans la proportion visée au par. 3 de l’art. 11 de l’Accord. Le montant total de toute assistance ainsi fournie par la Banque ne peut excéder le montant total des liquidités décaissées et des billets à ordre émis par l’Union Soviétique au titre de ses actions.
 
 Je suis persuadé que la poursuite des réformes économiques engagées en Union Soviétique ne manquera pas de promouvoir l’expansion des activités de la Banque sur le territoire de l’Union Soviétique. Toutefois, l’URSS, désireuse de préserver le caractère multilatéral de la Banque, ne choisira à aucun moment de procéder à des emprunts dont le montant empêcherait le maintien de la nécessaire diversité des opérations de la Banque ou qui dépasserait les limites prudentes de son encours.
 
 Je vous prie de croire, M. le Président, à l’assurance de ma plus haute considération.
 
 <table>
-<tr><td></td><td>Chef de la délégation soviétique Président du Conseil d’administration de la Banque d’Etat d’URSS Victor V. Gerashchenko</td></tr>
+<tr><td></td><td>Chef de la délégation soviétique Président du Conseil d’administration de la Banque d’État d’URSS Victor V. Gerashchenko</td></tr>
 </table>
 
-Champ d’application le 2 mars 2016**[^t-2]**
+Champ d’application le 2 mars 2016[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>13 février</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Australie<sup>\*</sup></td><td>27 mars</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Autriche</td><td>23 janvier</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
@@ -1039,9 +1041,9 @@ Champ d’application le 2 mars 2016**[^t-2]**
 <tr><td>Chypre</td><td>3 décembre</td><td>1990</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Corée (Sud)</td><td>14 janvier</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Danemark</td><td>21 mars</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
-<tr><td>Egypte</td><td>12 avril</td><td>1991</td><td>12 avril</td><td>1991</td></tr>
+<tr><td>Égypte</td><td>12 avril</td><td>1991</td><td>12 avril</td><td>1991</td></tr>
 <tr><td>Espagne</td><td>26 mars</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
-<tr><td>Etats-Unis<sup>\*</sup></td><td>28 mars</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
+<tr><td>États-Unis<sup>\*</sup></td><td>28 mars</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Finlande</td><td>28 janvier</td><td>1991</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>France</td><td>26 juillet</td><td>1990</td><td>28 mars</td><td>1991</td></tr>
 <tr><td>Grèce<sup>\*</sup></td><td>29 mars</td><td>1991</td><td>29 mars</td><td>1991</td></tr>
@@ -1078,7 +1080,7 @@ Champ d’application le 2 mars 2016**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en allemand, français et italien peuvent être obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530), [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530), [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 

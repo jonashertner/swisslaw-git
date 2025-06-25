@@ -3,11 +3,11 @@ sr: "0.972.1"
 title: Übereinkommen vom 29. Mai 1990 zur Errichtung der Europäischen Bank für Wiederaufbau und Entwicklung (mit Anlagen und Brief)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525"
 language: de
-version: 2016-03-02
+version: 2025-06-26
 adopted: 1990-05-29
 in_force: 1991-03-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20160302/de/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20160302-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20160302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1525_1525_1525/20250626/de/xml/fedlex-data-admin-ch-eli-cc-1991-1525_1525_1525-20250626-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20250626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1525_1525_1525/20160302/de"
 
 AS **1991** 1525; BBl **1990** III 793
 
-Originaltext*[^t-1]*
+Originaltext[^t-1]
 
 Abgeschlossen in Paris am 29. Mai 1990
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 29. März 1991
 
 In Kraft getreten für die Schweiz am 29. März 1991
 
-(Stand am 2. März 2016)
+(Stand am 26. Juni 2025)
 
 [^t-1]: [AS 1991 1524](https://fedlex.data.admin.ch/eli/oc/1991/1524_1524_1524)
 
@@ -52,13 +52,15 @@ sind übereingekommen, hiermit die Europäische Bank für Wiederaufbau und Entwi
 
 Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts und Wiederaufbaus in den mittel- und osteuropäischen Ländern, die sich zu den Grundsätzen der Mehrparteiendemokratie, des Pluralismus und der Marktwirtschaft bekennen und diese anwenden, den Übergang zur offenen Marktwirtschaft zu begünstigen sowie die private und unternehmerische Initiative zu fördern. Zu den gleichen Bedingungen darf der Zweck der Bank auch in der Mongolei und in Mitgliedsländern des südlichen und östlichen Mittelmeerraums verfolgt werden, nachdem mindestens zwei Drittel der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, dafür gestimmt haben. Dementsprechend gilt jeder Bezug in diesem Übereinkommen und seinen Anhängen auf ‹mittel- und osteuropäische Länder›, ‹Länder Mittel- und Osteuropas›, ‹Empfängerland (oder ‑länder)›, oder ‹Mitgliedsempfängerland (oder -länder)› auch für die Mongolei und jedes dieser Länder des südlichen und östlichen Mittelmeerraums.
 
-[^1-1]: Fassung gemäss Änd. vom 30. Sept. 2011, von der BVers genehmigt am 7. März 2012 und in Kraft getreten für die Schweiz am 12. Sept. 2013 ([AS 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663)[3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [BBl 2012 827](https://fedlex.data.admin.ch/eli/fga/2012/196)).
+[^1-1]: Fassung gemäss Änd. vom 30. Sept. 2011, von der BVers genehmigt am 7. März 2012 und in Kraft getreten für die Schweiz am 12. Sept. 2013 ([AS 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663), [3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [BBl 2012 827](https://fedlex.data.admin.ch/eli/fga/2012/196)).
 
 #### Art. 2
 
 **Aufgaben**
 
-<sup>(1)</sup> Um langfristig ihren Zweck zu erfüllen, den Übergang der mittel‑ und osteuropäischen Länder zur offenen Marktwirtschaft sowie die private und unternehmerische Initiative zu fördern, unterstützt die Bank die Empfängermitgliedländer bei der Durchführung struktureller und sektoraler Wirtschaftsreformen einschliesslich Beseitigung der Monopole, Dezentralisierung und Privatisierung, um ihren Volkswirtschaften zu voller Integration in die internationale Wirtschaft zu verhelfen, und zwar durch Massnahmen mit dem Ziel,
+<sup>(1)</sup>
+
+Um langfristig ihren Zweck zu erfüllen, den Übergang der mittel‑ und osteuropäischen Länder zur offenen Marktwirtschaft sowie die private und unternehmerische Initiative zu fördern, unterstützt die Bank die Empfängermitgliedländer bei der Durchführung struktureller und sektoraler Wirtschaftsreformen einschliesslich Beseitigung der Monopole, Dezentralisierung und Privatisierung, um ihren Volkswirtschaften zu voller Integration in die internationale Wirtschaft zu verhelfen, und zwar durch Massnahmen mit dem Ziel:
 
 - i) mit Hilfe privater und sonstiger interessierter Investoren die Schaffung, Verbesserung und Ausweitung der produktiven, wettbewerbsorientierten und privatwirtschaftlichen Tätigkeit, insbesondere von Klein‑ und Mittelbetrieben, zu fördern;
 - ii) zu dem unter Ziffer i beschriebenen Zweck inländisches und ausländisches Kapital aufzubringen und erfahrenes Management zu gewinnen;
@@ -75,7 +77,9 @@ Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts un
 
 **Mitgliedschaft**
 
-<sup>(1)</sup> Mitglieder der Bank können werden
+<sup>(1)</sup>
+
+Mitglieder der Bank können werden:
 
 - i) 1. europäische Länder und
   - 2\. nichteuropäische Länder, die Mitglieder des Internationalen Währungsfonds sind;
@@ -138,7 +142,7 @@ Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts un
 
 **Ordentliches Kapital**
 
-In diesem Übereinkommen bezeichnet der Ausdruck «ordentliches Kapital» der Bank
+In diesem Übereinkommen bezeichnet der Ausdruck «ordentliches Kapital» der Bank:
 
 - i) das nach Artikel 5 gezeichnete genehmigte Stammkapital der Bank, zu dem sowohl die eingezahlten als auch die abrufbaren Anteile gehören;
 - ii) Mittel, die durch Kreditaufnahme der Bank kraft der ihr in Artikel 20 Ziffer i zugewiesenen Befugnis aufgebracht werden und auf welche die Bestimmung des Artikels 6 Absatz 4 über den Abruf Anwendung findet;
@@ -159,7 +163,10 @@ In diesem Übereinkommen bezeichnet der Ausdruck «ordentliches Kapital» der Ba
 <sup>(3)</sup> In Fällen, in denen ein Mitglied eine Politik verfolgt, die mit Artikel 1 unvereinbar ist, oder bei Vorliegen aussergewöhnlicher Umstände prüft das Direktorium, ob der Zugang eines Mitglieds zu den Mitteln der Bank ausgesetzt oder sonst geändert werden sollte, und kann dem Gouverneursrat entsprechende Empfehlungen unterbreiten. Beschlüsse über diese Angelegenheiten fasst der Gouverneursrat mit einer Mehrheit von mindestens zwei Dritteln der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten.
 
 - (4) i) Jedes in Frage kommende Empfängerland kann die Bank ersuchen, ihm während eines Zeitraums von drei (3) Jahren, der nach Inkrafttreten dieses Übereinkommens beginnt, für begrenzte Zwecke Zugang zu ihren Mitteln zu gewähren. Jedes derartige Ersuchen wird, sobald es gestellt ist, diesem Übereinkommen als Bestandteil beigefügt.
-- ii) Während dieses Zeitraums
+- ii)
+
+  Während dieses Zeitraums:
+
   - a) gewährt die Bank dem betreffenden Land sowie Unternehmen in seinem Hoheitsgebiet auf Ersuchen technische Hilfe und andere Arten von Unterstützung zur Finanzierung seiner Privatwirtschaft, zur Erleichterung des Übergangs staatseigener Unternehmen in Privateigentum und unter private Kontrolle sowie zur Unterstützung von Unternehmen, die auf Wettbewerbsgrundlage arbeiten und eine Teilnahme an der Marktwirtschaft anstreben; dabei gilt das in Artikel 11 Absatz 3 festgelegte Verhältnis;
   - b) darf der Gesamtbetrag dieser Hilfe und Unterstützung den von dem betreffenden Land für seine Anteile gezahlten Gesamtbetrag in Barmitteln und Schuldscheinen nicht übersteigen.
 
@@ -190,8 +197,8 @@ Die Geschäftstätigkeit der Bank gliedert sich in eine ordentliche Geschäftst�
 Die Bank kann in Erfüllung ihres Zweckes und ihrer Aufgaben nach den Artikeln 1 und 2 jedes der nachstehenden Geschäfte einzeln oder zusammen betreiben:
 
 - i) Gewährung beziehungsweise – zusammen mit multilateralen Institutionen, Geschäftsbanken oder sonstigen interessierten Kapitalgebern – Kofinanzierung von Darlehen oder Beteiligung an Darlehen an privatwirtschaftliche Unternehmen oder an auf Wettbewerbsgrundlage arbeitende und eine Teilnahme an der Marktwirtschaft anstrebende staatseigene Unternehmen sowie an staatseigene Unternehmen, deren Übergang in Privateigentum und unter private Kontrolle dadurch erleichtert werden soll; insbesondere soll dabei die Beteiligung von privatem und/oder ausländischem Kapital an solchen Unternehmen erleichtert beziehungsweise verstärkt werden;
-  - ii) a) Kapitalbeteiligung an privatwirtschaftlichen Unternehmen;
-  - b) Kapitalbeteiligung an auf Wettbewerbsgrundlage arbeitenden und eine Teilnahme an der Marktwirtschaft anstrebenden staatseigenen Unternehmen sowie an staatseigenen Unternehmen, deren Übergang in Privateigentum und unter private Kontrolle erleichtert werden soll; insbesondere soll dabei die Beteiligung von privatem und/oder ausländischem Kapital an solchen Unternehmen erleichtert beziehungsweise verstärkt werden;
+  - ii) a) Kapitalbeteiligung an privatwirtschaftlichen Unternehmen,
+  - b) Kapitalbeteiligung an auf Wettbewerbsgrundlage arbeitenden und eine Teilnahme an der Marktwirtschaft anstrebenden staatseigenen Unternehmen sowie an staatseigenen Unternehmen, deren Übergang in Privateigentum und unter private Kontrolle erleichtert werden soll; insbesondere soll dabei die Beteiligung von privatem und/oder ausländischem Kapital an solchen Unternehmen erleichtert beziehungsweise verstärkt werden,
   - c) Übernahme von Wertpapieremissionen privatwirtschaftlicher Unternehmen sowie der unter Buchstabe b genannten staatseigenen Unternehmen für die unter jenem Buchstaben genannten Ziele, falls andere Finanzierungsformen nicht geeignet sind;
 
 - iii) Erleichterung des Zugangs zu inländischen und internationalen Kapitalmärkten für privatwirtschaftliche Unternehmen oder andere unter Ziffer i bezeichnete Unternehmen zur Erfüllung der unter der genannten Ziffer erwähnten Ziele durch Gewährung von Garantien, falls andere Finanzierungsformen nicht geeignet sind, sowie durch Finanzberatung und sonstige Formen der Unterstützung;
@@ -202,7 +209,10 @@ Die Bank kann in Erfüllung ihres Zweckes und ihrer Aufgaben nach den Artikeln 1
 - ii) Im Rahmen dieser Überprüfung werden unter anderem die Fortschritte der einzelnen Empfängerländer bei der Dezentralisierung, Beseitigung der Monopole und Privatisierung sowie die jeweiligen Anteile der Darlehen an privatwirtschaftliche Unternehmen, an staatseigene Unternehmen, die sich im Übergang zur Teilnahme an der Marktwirtschaft oder in Privatisierung befinden, für Infrastruktur, technische Hilfe und sonstige Zwecke geprüft.
 - (3) i) Unbeschadet der in diesem Artikel genannten sonstigen Tätigkeiten der Bank werden höchstens vierzig (40) v. H. des Gesamtbetrags der von der Bank gewährten Darlehen, Garantien und Kapitalbeteiligungen dem staatlichen Sektor zur Verfügung gestellt. Diese prozentuale Einschränkung gilt zunächst für einen Gesamtzeitraum von zwei (2) Jahren ab dem Tag der Aufnahme der Geschäftstätigkeit der Bank, danach für jedes einzelne Geschäftsjahr.
 - ii) Unbeschadet der in diesem Artikel genannten sonstigen Tätigkeiten der Bank werden je Land höchstens vierzig (40) v. H. des Gesamtbetrags der von ihr gewährten Darlehen, Garantien und Kapitalbeteiligungen während eines Gesamtzeitraums von fünf (5) Jahren dem staatlichen Sektor zur Verfügung gestellt.
-- iii) Im Sinne dieses Absatzes
+- iii)
+
+  Im Sinne dieses Absatzes:
+
   - a) umfasst der staatliche Sektor die Zentralregierungen und Gebietskörperschaften, ihre Behörden sowie die ihnen gehörenden oder von ihnen kontrollierten Unternehmen;
   - b) gelten Darlehen oder Garantien an staatseigene Unternehmen, die ein Programm zur Überführung in Privateigentum und unter private Kontrolle durchführen, oder Kapitalbeteiligungen an solchen Unternehmen nicht als dem staatlichen Sektor zur Verfügung gestellt;
   - c) gelten Darlehen an einen Finanzmittler zur Weitergabe an die Privatwirtschaft nicht als dem staatlichen Sektor gewährt.
@@ -211,13 +221,15 @@ Die Bank kann in Erfüllung ihres Zweckes und ihrer Aufgaben nach den Artikeln 1
 
 **Grenzen der ordentlichen Geschäftstätigkeit**
 
-<sup>(1)</sup> Der ausstehende Gesamtbetrag der von der Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit gewährten Darlehen, Kapitalbeteiligungen und Garantien darf zu keiner Zeit erhöht werden, wenn dadurch der Gesamtbetrag des unverminderten gezeichneten Kapitals und der zum ordentlichen Kapital gehörenden Rücklagen und Überschüsse überschritten würde.
+<sup>(1)</sup> Das Direktorium legt angemessene Obergrenzen in Bezug auf die Kennziffern zur Kapitaladäquanz fest und hält diese aufrecht, um die finanzielle Solidität und Tragfähigkeit der Bank zu schützen.[^12-1]
 
 <sup>(2)</sup> Der Betrag einer Kapitalbeteiligung darf normalerweise einen vom Direktorium aufgrund einer allgemeinen Regel als angemessen festgesetzten Hundertsatz des Grundkapitals des betreffenden Unternehmens nicht überschreiten. Die Bank wird durch eine derartige Beteiligung keinen beherrschenden Einfluss auf das Unternehmen anstreben; sie wird keinen derartigen Einfluss ausüben noch eine direkte Verantwortung für die Leitung eines Unternehmens übernehmen, an dem sie beteiligt ist, es sei denn bei tatsächlicher oder drohender Nichterfüllung der Verpflichtungen in Bezug auf die Beteiligung, bei tatsächlicher oder drohender Zahlungsunfähigkeit des Unternehmens, an dem sie beteiligt ist, oder bei Vorliegen anderer Umstände, die nach Auffassung der Bank die Beteiligung zu gefährden drohen; in diesem Fall kann die Bank alle Massnahmen ergreifen und alle Rechte ausüben, die sie zum Schutz ihrer Interessen für erforderlich erachtet.
 
 <sup>(3)</sup> Der Betrag der von der Bank eingegangenen Kapitalbeteiligung darf den Gesamtbetrag ihres unverminderten eingezahlten gezeichneten Kapitals, ihrer Überschüsse und ihrer allgemeinen Rücklage zu keiner Zeit überschreiten.
 
 <sup>(4)</sup> Die Bank darf weder Garantien für Exportkredite übernehmen noch Versicherungsgeschäfte betreiben.
+
+[^12-1]: Fassung gemäss Resolution Nr. 260 vom 18. Mai 2023, in Kraft getreten für die Schweiz am 26. Juni 2025 ([AS 2025 442](https://fedlex.data.admin.ch/eli/oc/2025/442)).
 
 #### Art. 13
 
@@ -297,13 +309,13 @@ Mit Verlusten im Rahmen, der ordentlichen Geschäftstätigkeit der Bank werden b
 
 <sup>3.</sup> Die Bank erlässt alle für die Errichtung, Verwaltung und Verwendung der einzelnen Sonderfonds erforderlichen Regelungen. Diese müssen mit den Bestimmungen dieses Übereinkommens mit Ausnahme derjenigen, die ausdrücklich nur auf die ordentliche Geschäftstätigkeit der Bank anwendbar sind, vereinbar sein.
 
-[^18-1]: Fassung gemäss Änd. vom 30. Sept. 2011, von der BVers genehmigt am 7. März 2012 und in Kraft getreten für die Schweiz am 22. Aug. 2012 ([AS 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663)[3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [BBl 2012 827](https://fedlex.data.admin.ch/eli/fga/2012/196)).
+[^18-1]: Fassung gemäss Änd. vom 30. Sept. 2011, von der BVers genehmigt am 7. März 2012 und in Kraft getreten für die Schweiz am 22. Aug. 2012 ([AS 2013 3539](https://fedlex.data.admin.ch/eli/oc/2013/663), [3537](https://fedlex.data.admin.ch/eli/oc/2013/662); [BBl 2012 827](https://fedlex.data.admin.ch/eli/fga/2012/196)).
 
 #### Art. 19
 
 **Sonderfondsmittel**
 
-Der Ausdruck «Sonderfondsmittel» bezeichnet die Mittel der einzelnen Sonderfonds, dazu gehören
+Der Ausdruck «Sonderfondsmittel» bezeichnet die Mittel der einzelnen Sonderfonds, dazu gehören:
 
 - i) Mittel, welche die Bank zur Aufnahme in einen Sonderfonds übernommen hat;
 - ii) Mittel aus Rückzahlungen im Zusammenhang mit Darlehen oder Garantien sowie Erlöse aus Kapitalbeteiligungen, die mit Sonderfondsmitteln finanziert wurden und die nach den für den betreffenden Sonderfonds geltenden Regelungen diesem Sonderfonds zufallen;
@@ -315,11 +327,16 @@ Der Ausdruck «Sonderfondsmittel» bezeichnet die Mittel der einzelnen Sonderfon
 
 **Allgemeine Befugnisse**
 
-<sup>(1)</sup> Neben den anderweitig in diesem Übereinkommen genannten Befugnissen hat die Bank die Befugnis,
+<sup>(1)</sup>
 
-- i) in den Mitgliedländern oder anderswo Kredite aufzunehmen, vorausgesetzt,
-  - a) dass die Bank vor Veräusserung eigener Schuldverschreibungen im Hoheitsgebiet eines Landes dessen Zustimmung einholt;
-  - b) dass die Bank, wenn ihre Schuldverschreibungen auf die Währung eines Mitglieds lauten sollen, dessen Zustimmung einholt;
+Neben den anderweitig in diesem Übereinkommen genannten Befugnissen hat die Bank die Befugnis:
+
+- i)
+
+  in den Mitgliedländern oder anderswo Kredite aufzunehmen, vorausgesetzt:
+
+  - a) dass die Bank vor Veräusserung eigener Schuldverschreibungen im Hoheitsgebiet eines Landes dessen Zustimmung einholt,
+  - b) dass die Bank, wenn ihre Schuldverschreibungen auf die Währung eines Mitglieds lauten sollen, dessen Zustimmung einholt,
 
 - ii) Mittel, die sie für ihre Geschäfte nicht benötigt, anzulegen oder anderweitig einzuzahlen;
 - iii) Wertpapiere, die sie ausgegeben oder garantiert oder in denen sie Mittel angelegt hat, auf dem Sekundärmarkt zu kaufen und zu verkaufen;
@@ -370,7 +387,9 @@ Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen od
 
 <sup>(1)</sup> Alle Befugnisse der Bank liegen beim Gouverneursrat.
 
-<sup>(2)</sup> Der Gouverneursrat kann seine Befugnisse ganz oder teilweise auf das Direktorium übertragen; davon ausgenommen ist jedoch die Befugnis,
+<sup>(2)</sup>
+
+Der Gouverneursrat kann seine Befugnisse ganz oder teilweise auf das Direktorium übertragen; davon ausgenommen ist jedoch die Befugnis:
 
 - i) neue Mitglieder aufzunehmen und die Bedingungen für ihre Aufnahme festzusetzen;
 - ii) das genehmigte Stammkapital der Bank zu erhöhen oder herabzusetzen;
@@ -403,14 +422,17 @@ Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen od
 
 **Direktorium: Zusammensetzung**
 
-<sup>(1)</sup> Das Direktorium besteht aus dreiundzwanzig (23) Mitgliedern, die nicht dem Gouverneursrat angehören dürfen; davon werden
+<sup>(1)</sup> Die Direktoren können neben den Mitgliedern, von deren Gouverneuren sie gewählt worden sind, auch Mitglieder vertreten, die ihnen ihre Stimmen übertragen.
 
-Die Direktoren können neben den Mitgliedern, von deren Gouverneuren sie gewählt worden sind, auch Mitglieder vertreten, die ihnen ihre Stimmen übertragen.
+Das Direktorium besteht aus dreiundzwanzig (23) Mitgliedern, die nicht dem Gouverneursrat angehören dürfen; davon werden:
 
 - i) elf (11) von den Gouverneuren gewählt, die Belgien, Dänemark, die Bundesrepublik Deutschland, Frankreich, Griechenland, Irland, Italien, Luxemburg, die Niederlande, Portugal, Spanien, das Vereinigte Königreich, die Europäische Wirtschaftsgemeinschaft und die Europäische Investitionsbank vertreten;
-- ii) zwölf (12) von den Gouverneuren gewählt, die andere Mitglieder vertreten, und zwar
-  - a) vier (4) von den Gouverneuren, welche die in Anlage A als mittel- und osteuropäische Länder, die für die Unterstützung durch die Bank in Frage kommen, aufgeführten Länder vertreten;
-  - b) vier (4) von den Gouverneuren, welche die in Anlage A als andere europäische Länder aufgeführten Länder vertreten;
+- ii)
+
+  zwölf (12) von den Gouverneuren gewählt, die andere Mitglieder vertreten, und zwar:
+
+  - a) vier (4) von den Gouverneuren, welche die in Anlage A als mittel- und osteuropäische Länder, die für die Unterstützung durch die Bank in Frage kommen, aufgeführten Länder vertreten,
+  - b) vier (4) von den Gouverneuren, welche die in Anlage A als andere europäische Länder aufgeführten Länder vertreten,
   - c) vier (4) von den Gouverneuren, welche die in Anlage A als nichteuropäische Länder aufgeführten Länder vertreten.
 
 <sup>(2)</sup> Die Direktoren müssen hochqualifizierte Wirtschafts‑ und Finanzfachleute sein; sie werden nach Massgabe der Anlage B gewählt.
@@ -425,11 +447,11 @@ Die Direktoren können neben den Mitgliedern, von deren Gouverneuren sie gewähl
 
 **Direktorium: Befugnisse**
 
-Das Direktorium ist unbeschadet der Befugnisse des Gouverneursrats nach Artikel 24 für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zweck neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle diejenigen aus, die ihm vom Gouverneursrat übertragen werden, insbesondere die Befugnis,
+Das Direktorium ist unbeschadet der Befugnisse des Gouverneursrats nach Artikel 24 für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zweck neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle diejenigen aus, die ihm vom Gouverneursrat übertragen werden, insbesondere die Befugnis:
 
 - i) die Arbeit des Gouverneursrats vorzubereiten;
 - ii) im Einklang mit den allgemeinen Weisungen des Gouverneursrats geschäftspolitische Grundsätze aufzustellen sowie Beschlüsse zu fassen über Darlehen, Garantien, Kapitalbeteiligungen, Kreditaufnahme durch die Bank, Bereitstellung technischer Hilfe und die sonstige Geschäftstätigkeit der Bank;
-- iii) dem Gouverneursrat auf jeder Jahrestagung den geprüften Jahresabschluss für das jeweilige Geschäftsjahr zur Genehmigung vorzulegen und
+- iii) dem Gouverneursrat auf jeder Jahrestagung den geprüften Jahresabschluss für das jeweilige Geschäftsjahr zur Genehmigung vorzulegen; und
 - iv) den Haushaltsplan der Bank zu genehmigen.
 
 #### Art. 28
@@ -583,7 +605,9 @@ Die Bank kann ihre Geschäftstätigkeit mit Zustimmung von mindestens zwei Dritt
 
 **Verteilung der Vermögenswerte**
 
-<sup>(1)</sup> Eine Verteilung von Vermögenswerten nach diesem Kapitel an die Mitglieder aufgrund ihrer Zeichnungen auf das Stammkapital der Bank erfolgt erst,
+<sup>(1)</sup>
+
+Eine Verteilung von Vermögenswerten nach diesem Kapitel an die Mitglieder aufgrund ihrer Zeichnungen auf das Stammkapital der Bank erfolgt erst:
 
 - i) wenn alle Verbindlichkeiten gegenüber Gläubigern erfüllt sind oder hiefür Vorsorge getroffen ist;
 - ii) wenn der Gouverneursrat mit den Stimmen von mindestens zwei Dritteln der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, eine Verteilung beschlossen hat.
@@ -604,7 +628,7 @@ Um der Bank die Erfüllung ihres Zweckes und der ihr zugewiesenen Aufgaben zu er
 
 **Rechtsstellung der Bank**
 
-Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Rechtsfähigkeit,
+Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Rechtsfähigkeit:
 
 - i) Verträge zu schliessen;
 - ii) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen;
@@ -650,7 +674,9 @@ Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bedienstet
 
 **Vorrechte der leitenden und sonstigen Bediensteten**
 
-<sup>(1)</sup> Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie die im Auftrag der Bank tätigen Sachverständigen
+<sup>(1)</sup>
+
+Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie die im Auftrag der Bank tätigen Sachverständigen:
 
 - i) geniessen, falls sie nicht Inländer sind, die gleiche Befreiung von Einwanderungsbeschränkungen, von der Meldepflicht für Ausländer und von staatlichen Dienstverpflichtungen sowie die gleichen devisenrechtlichen Erleichterungen, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern und Bediensteten anderer Mitglieder gewähren;
 - ii) geniessen in Bezug auf Reiseerleichterungen die gleiche Behandlung, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern und Bediensteten anderer Mitglieder gewähren.
@@ -677,14 +703,18 @@ Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bedienstet
 
 <sup>(8)</sup> Absatz 6 ist auf Renten und Ruhegehälter, die von der Bank gezahlt werden, nicht anzuwenden.
 
-<sup>(9)</sup> Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+<sup>(9)</sup>
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben worden ist, oder
+Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
+
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben worden ist; oder
 - ii) deren einzige rechtliche Grundlage der Ort oder die Währung, in denen diese Urkunde ausgegeben oder bezahlt worden oder zahlbar ist, oder der Standort einer Geschäftsstelle oder eines Büros der Bank ist.
 
-<sup>(10)</sup> Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+<sup>(10)</sup>
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist, oder
+Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
+
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist; oder
 - ii) deren einzige rechtliche Grundlage der Standort einer Geschäftsstelle oder eines Büros der Bank ist.
 
 #### Art. 54
@@ -707,14 +737,17 @@ Die Immunitäten, Vorrechte und Befreiungen aufgrund dieses Kapitels werden im I
 
 <sup>(1)</sup> Alle Vorschläge zur Änderung dieses Übereinkommens, gleichviel ob sie von einem Mitglied, einem Gouverneur oder dem Direktorium ausgehen, sind dem Vorsitzenden des Gouverneursrats zuzuleiten, der sie dem Rat vorlegt. Wird die vorgeschlagene Änderung vom Gouverneursrat gebilligt, so fragt die Bank mit Hilfe eines schnellen Kommunikationsmittels bei allen Mitgliedern an, ob sie die vorgeschlagene Änderung annehmen. Haben mindestens drei Viertel der Mitglieder – darunter mindestens zwei in Anlage A aufgeführte mittel‑ und osteuropäische Länder –, die über mindestens vier Fünftel der Gesamtstimmenzahl der Mitglieder verfügen, die vorgeschlagene Änderung angenommen, so bestätigt die Bank dies durch förmliche Mitteilung an alle Mitglieder.
 
-<sup>(2)</sup> Ungeachtet des Absatzes 1
+<sup>(2)</sup> Sobald die Voraussetzungen für die Annahme einer vorgeschlagenen Änderung erfüllt sind, bestätigt die Bank dies durch förmliche Mitteilung an alle Mitglieder.
 
-Sobald die Voraussetzungen für die Annahme einer vorgeschlagenen Änderung erfüllt sind, bestätigt die Bank dies durch förmliche Mitteilung an alle Mitglieder.
+Ungeachtet des Absatzes 1:
 
-- i) ist die Annahme durch alle Mitglieder erforderlich für jede Änderung betreffend
-  - a) das Recht zum Austritt aus der Bank;
-  - b) die Rechte im Hinblick auf den Erwerb von Stammkapital nach Artikel 5 Absatz 3;
-  - c) die Haftungsbeschränkungen nach Artikel 5 Absatz 7;
+- i)
+
+  ist die Annahme durch alle Mitglieder erforderlich für jede Änderung betreffend:
+
+  - a) das Recht zum Austritt aus der Bank,
+  - b) die Rechte im Hinblick auf den Erwerb von Stammkapital nach Artikel 5 Absatz 3,
+  - c) die Haftungsbeschränkungen nach Artikel 5 Absatz 7,
   - d) den Zweck und die Aufgaben der Bank im Sinne der Artikel 1 und 2;
 
 - ii) ist die Annahme durch mindestens drei Viertel der Mitglieder, die über mindestens fünfundachtzig (85) v. H. der Gesamtstimmenzahl der Mitglieder verfügen, für jede Änderung des Artikels 8 Absatz 4 erforderlich.
@@ -775,7 +808,9 @@ Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank ei
 
 <sup>(1)</sup> Sobald dieses Übereinkommen nach Artikel 62 in Kraft tritt, ernennt jedes Mitglied einen Gouverneur. Der Verwahrer beraumt binnen sechzig (60) Tagen nach Inkrafttreten dieses Übereinkommens gemäss Artikel 62 oder so bald wie möglich danach die erste Sitzung des Gouverneursrats an.
 
-<sup>(2)</sup> Auf seiner ersten Sitzung
+<sup>(2)</sup>
+
+Auf seiner ersten Sitzung:
 
 - i) wählt der Gouverneursrat den Präsidenten;
 - ii) wählt der Gouverneursrat die Direktoren der Bank nach Artikel 26;
@@ -790,7 +825,7 @@ Geschehen zu Paris am 29. Mai 1990 in einer Urschrift, deren deutscher, englisch
 
 Anlage A
 
-## Erstzeichnungen auf das genehmigte Stammkapital durch voraussichtliche Mitglieder****, die nach Artikel 61 Mitglieder werden können
+## Erstzeichnungen auf das genehmigte Stammkapital durch voraussichtliche Mitglieder, die nach Artikel 61 Mitglieder werden können
 
 [^annexA-lvlu1-1]
 
@@ -862,9 +897,9 @@ Anlage B
 
 (4) Vorbehaltlich des Absatzes 10 werden die 11 Personen, welche die höchste Stimmenzahl erhalten, Direktoren; jedoch gilt nicht als gewählt, wer weniger als 4,5 v. H. der Gesamtzahl der Stimmen erhält, die nach Abschnitt A abgegeben werden können (berechtigte Stimmen).
 
-(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 11 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 11 Kandidaten zur Wahl; an diesem Wahlgang beteiligen sich nur
+(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 11 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 11 Kandidaten zur Wahl; an diesem Wahlgang beteiligen sich nur:
 
-- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben, sowie
+- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben; sowie
 - b) die Gouverneure, von deren für eine gewählte Person abgegebenen Stimmen nach den Absätzen 6 und 7 angenommen wird, dass sie die für diese Person abgegebene Stimmenzahl auf über 5,5 v. H. der berechtigten Stimmen angehoben haben.
 
 (6) Bei der Beurteilung der Frage, ob von den von einem Gouverneur abgegebenen Stimmen anzunehmen ist, dass sie die Gesamtstimmenzahl für eine Person auf über 5,5 v. H. der berechtigten Stimmen angehoben haben, wird angenommen, dass diese 5,5 v. H. zunächst die Stimmen des Gouverneurs einschliessen, der die höchste Stimmenzahl für den Betreffenden abgegeben hat, sodann die Stimmen des Gouverneurs, der die nächst höchste Stimmenzahl abgegeben hat, und so fort, bis 5,5, v. H. erreicht sind.
@@ -891,9 +926,9 @@ Anlage B
 
 (4) Vorbehaltlich des Absatzes 10 werden die 4 Personen, welche die höchste Stimmenzahl erhalten, Direktoren; jedoch gilt nicht als gewählt, wer weniger als 12 v. H. der Gesamtzahl der Stimmen erhält, die nach Abschnitt B i) abgegeben werden können (berechtigte Stimmen).
 
-(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl, an diesem Wahlgang beteiligen sich nur
+(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl, an diesem Wahlgang beteiligen sich nur:
 
-- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben, sowie
+- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben; sowie
 - b) die Gouverneure, von deren für eine gewählte Person abgegebenen Stimmen nach den Absätzen 6 und 7 angenommen wird, dass sie die für diese Person abgegebene Stimmenzahl auf über 13 v. H. der berechtigten Stimmen angehoben haben.
 
 (6) Bei der Beurteilung der Frage, ob von den von einem Gouverneur abgegebenen Stimmen anzunehmen ist, dass sie die Gesamtstimmenzahl für eine Person auf über 13 v. H. der berechtigten Stimmen angehoben haben, wird angenommen, dass diese 13 v.H. zunächst die Stimmen des Gouverneurs einschliessen, der die höchste Stimmenzahl für den Betreffenden abgegeben hat, sodann die Stimmen des Gouverneurs, der die nächst höchste Stimmenzahl abgegeben hat, und so fort, bis 13 v. H. erreicht sind.
@@ -918,9 +953,9 @@ Anlage B
 
 (4) Vorbehaltlich des Absatzes 10 werden die 4 Personen, welche die höchste Stimmenzahl erhalten, Direktoren; jedoch gilt nicht als gewählt, wer weniger als 20,5 v. H. der Gesamtzahl der Stimmen erhält, die nach Abschnitt B ii) abgegeben werden können (berechtigte Stimmen).
 
-(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl; an diesem Wahlgang beteiligen sich nur
+(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl; an diesem Wahlgang beteiligen sich nur:
 
-- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben, sowie
+- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben; sowie
 - b) die Gouverneure, von deren für eine gewählte Person abgegebenen Stimmen nach den Absätzen 6 und 7 angenommen wird, dass sie die für diese Person abgegebene Stimmenzahl auf über 21,5 v. H. der berechtigten Stimmen angehoben haben.
 
 (6) Bei, der Beurteilung der Frage, ob von den von einem Gouverneur abgegebenen Stimmen anzunehmen ist, dass sie die Gesamtstimmenzahl für eine Person auf über 21,5 v. H. der berechtigten Stimmen angehoben haben, wird angenommen, dass diese 21,5 v. H. zunächst die Stimmen des Gouverneurs einschliessen, der die höchste Stimmenzahl für den Betreffenden abgegeben hat, sodann die Stimmen des Gouverneurs, der die nächst höchste Stimmenzahl abgegeben hat, und so fort, bis 21,5 v. H. erreicht sind.
@@ -945,9 +980,9 @@ Anlage B
 
 (4) Vorbehaltlich des Absatzes 10 werden die 4 Personen, welche die höchste Stimmenzahl erhalten, Direktoren; jedoch gilt nicht als gewählt, wer weniger als 8 v. H. der Gesamtzahl der Stimmen erhält, die nach Abschnitt B iii) abgegeben werden können (berechtigte Stimmen).
 
-(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl.; an diesem Wahlgang beteiligen sich nur
+(5) Vorbehaltlich des Absatzes 10 findet, wenn im ersten Wahlgang keine 4 Personen gewählt werden, ein zweiter Wahlgang statt, bei dem derjenige, der im ersten Wahlgang die niedrigste Stimmenzahl erhalten hat, ausscheidet, es sei denn, es standen nicht mehr als 4 Kandidaten zur Wahl.; an diesem Wahlgang beteiligen sich nur:
 
-- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben, sowie
+- a) die Gouverneure, die im ersten Wahlgang für eine nicht gewählte Person gestimmt haben; sowie
 - b) die Gouverneure, von deren für eine gewählte Person abgegebenen Stimmen nach den Absätzen 6 und 7 angenommen wird, dass sie die für diese Person abgegebene Stimmenzahl auf über 9 v. H. der berechtigten Stimmen angehoben haben.
 
 (6) Bei der Beurteilung der Frage, ob von den von einem Gouverneur abgegebenen Stimmen anzunehmen ist, dass sie die Gesamtstimmenzahl für eine Person auf über 9 v. H. der berechtigten Stimmen angehoben haben, wird angenommen, dass diese 9 v. H. zunächst die Stimmen des Gouverneurs einschliessen, der die höchste Stimmenzahl für den Betreffenden abgegeben hat, sodann die Stimmen des Gouverneurs, der die nächst höchste Stimmenzahl abgegeben hat, und so fort, bis 9 v. H. erreicht sind.
@@ -994,7 +1029,7 @@ Mit vorzüglicher Hochachtung
 <tr><td>Leiter der sowjetischen DelegationPräsident der Staatsbank der UdSSR Victor V. Gerashchenko</td></tr>
 </table>
 
-Geltungsbereich am 2. März 2016**[^t-2]**
+Geltungsbereich am 2. März 2016[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1047,7 +1082,7 @@ Geltungsbereich am 2. März 2016**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. [tab] Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen, deutschen und italienischen Texte können bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525), [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530)und [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1991 1525](https://fedlex.data.admin.ch/eli/oc/1991/1525_1525_1525); [2006 3361](https://fedlex.data.admin.ch/eli/oc/2006/530); [2016 991](https://fedlex.data.admin.ch/eli/oc/2016/177). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
