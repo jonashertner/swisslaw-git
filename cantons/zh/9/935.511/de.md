@@ -5,10 +5,9 @@ title: Verordnung über den Personentransport mit Taxis und Limousinen (PTLV)
 short: PTLV
 language: de
 version: "2025-06-01"
-nachtrag: "128"
-valid_until: 2025-06-25
+nachtrag: "129"
 adopted: 2023-05-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_511-2023_05_24-2024_01_01-128.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_511-2023_05_24-2024_01_01-129.html"
 text: pdf
 ---
 
@@ -68,7 +67,7 @@ Die Strafverfolgungsbehörden und das Strassenverkehrsamt melden dem Amt Verurte
 
 **1**
 
-- 1\. 4. 25 - 128
+- 1\. 7. 25 - 129
 
 - d. Strafregisterauszug, der nicht älter als drei Monate ist,
 
@@ -154,7 +153,7 @@ Mit dem Gesuch sind folgende Angaben bekannt zu geben und Unterlagen einzureiche
 
 **3**
 
-- 1\. 4. 25 - 128
+- 1\. 7. 25 - 129
 
 ### C. Betriebsvorschriften für Taxis
 
@@ -255,9 +254,9 @@ Mit dem Gesuch sind folgende Angaben bekannt zu geben und Unterlagen einzureiche
 
 **5**
 
-- 1\. 4. 25 - 128
+- 1\. 7. 25 - 129
 
-[^19-1]: Noch nicht in Kraft.
+[^19-1]: Inkrafttreten: 1. Juni 2025 (OS 80, 156).
 
 ### E. Gebühren
 
