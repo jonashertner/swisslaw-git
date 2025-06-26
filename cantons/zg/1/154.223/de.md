@@ -3,20 +3,20 @@ canton: ZG
 number: "154.223"
 title: Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 language: de
-version: 2023-12-08
-valid_until: 2025-06-26
-version_adopted: 2023-12-06
+version: 2025-06-27
+valid_until: 2025-11-20
+version_adopted: 2025-06-23
 adopted: 2010-12-22
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.223"
-pdf: "https://bgs.zg.ch/api/de/versions/2506/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 
-Vom 22. Dezember 2010 (Stand 8. Dezember 2023)
+Vom 22. Dezember 2010 (Stand 27. Juni 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -50,27 +50,44 @@ verfügt:
 
 **Abgabe und Entschädigung von Sicherheitsausrüstung und Arbeitskleidern im Amt für Wald und Wild**
 
-<sup>1</sup> Für die Wildhüterinnen und Wildhüter sowie für die Fischereiaufseherinnen und Fischereiaufseher werden vom Amt für Wald und Wild je nach Bedarf die Bootsausrüstung bestehend aus Schwimmwesten und Schutzhelmen sowie die Schutzkleider für Helferinnen und Helfer bei der Elektrofischerei zur Verfügung gestellt. Wenn diese Ausrüstungsgegenstände defekt sind, werden sie vom Amt für Wald und Wild ersetzt.
+<sup>1</sup> Für die Wildhüterinnen und Wildhüter sowie für die Fischereiaufseherinnen und Fischereiaufseher werden vom Amt für Wald und Wild je nach Bedarf die Bootsausrüstung bestehend aus Schwimmwesten und Schutzhelmen sowie die Schutzkleider für Helferinnen und Helfer bei der Elektrofischerei zur Verfügung gestellt. Wenn diese Ausrüstungsgegenstände defekt sind, werden sie vom Amt für Wald und Wild ersetzt. Nach Beendigung des Arbeitsverhältnisses sind diese Gegenstände dem Amt für Wald und Wild zurückzugeben.
 
-<sup>2</sup> Spätestens nach Beendigung des Arbeitsverhältnisses sind diese Gegenstände dem Amt für Wald und Wild zurückzugeben.
+<sup>2</sup> Für die Arbeitskleidung und -schuhe sowie für weitere in Abs. 1 nicht aufgeführte Sicherheitsausrüstungsgegenstände und Arbeitskleidung, die von den Wildhüterinnen und Wildhütern sowie den Fischereiaufseherinnen und Fischereiaufsehern auf eigene Kosten angeschafft werden, wird eine Bekleidungs- und Schutzmittelpauschale von Fr. 960.– ausgerichtet. Bei Teilzeitarbeit wird diese Pauschale anteilig gekürzt.
 
-<sup>3</sup> Für die Arbeitskleider und -schuhe sowie für weitere in Abs. 1 nicht aufgeführte Sicherheitsausrüstungsgegenstände und Arbeitskleider, welche die Wildhüterinnen und Wildhüter sowie die Fischereiaufseherinnen und Fischereiaufseher auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen – um ihre Arbeit verrichten zu können – wird diesen – ausgehend von einem Arbeitspensum von 100 % – jährlich eine Pauschalentschädigung in der Höhe von Fr. 960.– ausgerichtet. Bei Teilzeitarbeit ist diese Pauschalentschädigung entsprechend zu kürzen.
+<sup>3</sup> Forstwart-Lernende erhalten vom Amt für Wald und Wild vor Stellenantritt folgende Ausrüstungsgegenstände:
 
-<sup>4</sup> Die Forstwart-Lernenden erhalten vom Amt für Wald und Wild vor Lehrbeginn bis zum Ablauf der Probezeit einen Helm mit Gehör- und Gesichtsschutz, zwei Paar Arbeitsschuhe mit Stahlkappe, zwei Paar Arbeitshandschuhe sowie eine Regenbekleidung. Nach Ablauf der Probezeit erhalten die Forstwart-Lernenden vom Amt für Wald und Wild für das erste Lehrjahr zusätzlich ein Paar Sicherheitsstiefel, zwei Paar Arbeitshosen mit Schnittschutz, eine Arbeitsjacke, eine grüne Überhose, eine Arbeitshose mit Leuchtstreifen (Strasse 471), eine Arbeitsjacke mit Leuchtstreifen (Strasse 471) sowie einen Witterungshut.
+- a) Die obligatorische Schutzausrüstung für Holzereiarbeiten gemäss den geltenden Richtlinien der SUVA und EKAS 2134:
+  - 1\. einen Helm mit Gehör-, Gesichts- und Nackenschutz;
+  - 2\. ein signalfarbenes Oberteil;
+  - 3\. eine Arbeitshose mit Schnittschutz;
+  - 4\. zwei Paar Arbeitsschuhe mit rutschhemmender Sohle und hohem Schaft;
+  - 5\. zwei Paar Arbeitshandschuhe.
+- b) Hochsichtbare Arbeitskleider der Klasse 3 gemäss SN EN 20471 für Arbeiten im Bereich von Strassen:
+  - 1\. eine Arbeitsbluse;
+  - 2\. eine Arbeitshose mit Schnittschutz;
+  - 3\. eine Arbeitshose ohne Schnittschutz.
+- c) Weitere Ausrüstungsgegenstände:
+  - 1\. eine Arbeitshose ohne Schnittschutz;
+  - 2\. einen Kapselgehörschutz;
+  - 3\. eine signalfarbene Regenjacke, eine signalfarbene Regenhose und einen Regenhut.
 
-<sup>5</sup> Das Amt für Wald und Wild übernimmt bei der in Abs. 4 genannten Sicherheitsausrüstung und Arbeitskleidung während des ersten Lehrjahres 100 % der Kosten.
+<sup>3a</sup> Ersatzmaterial für Helm, Gehör- und Gesichtsschutz wird nach Bedarf vom Arbeitsgeber zur Verfügung gestellt.
 
-<sup>6</sup> Die Lehrmeisterin oder der Lehrmeister sind verantwortlich für die Sicherheitsausrüstung der Forstwart-Lernenden gemäss Abs. 4. Die Lehrmeisterin oder der Lehrmeister stellen den von ihr oder ihm unterzeichneten Lieferschein zwecks Kostenübernahme durch den Kanton dem Amt für Wald und Wild zu.
+<sup>3b</sup> Ab dem zweiten Lehrjahr erhalten Lernende eine jährliche Bekleidungs- und Schutzmittelpauschale von Fr. 1300.– für den Unterhalt oder Ersatz der oben genannten Schutzgegenstände. Die Lehrmeisterin oder der Lehrmeister ist dafür verantwortlich, dass die Forstwart-Lernenden die Sicherheitsausrüstung vorschriftsgemäss tragen. Die Ausrüstung muss stets in einwandfreiem Zustand und den Vorschriften entsprechend sein.
 
-<sup>7</sup> Für die Arbeitskleider und -schuhe sowie für weitere Ausrüstungsgegenstände und Arbeitskleider, welche Forstwarte, Waldarbeitende und Forstwart-Lernende ab dem zweiten Lehrjahr auf eigene Kosten anschaffen müssen, um ihre Arbeit verrichten zu können, wird diesen – ausgehend von einem Arbeitspensum von 100 % – jährlich 100 % der Bekleidungs- und Schutzmittelpauschale[^3-1] ausgerichtet. Bei Teilzeitarbeit ist diese Pauschalentschädigung entsprechend zu kürzen.
+<sup>4</sup> Die Forstwarte sind selbst für den einwandfreien Zustand ihrer persönlichen Schutzausrüstung verantwortlich. Für Arbeitskleidung, -schuhe sowie weitere notwendige Ausrüstungsgegenstände, die sie auf eigene Kosten anschaffen müssen, wird ihnen jährlich eine Bekleidungs- und Schutzmittelpauschale in Höhe von Fr. 1660.– ausgerichtet. Bei Teilzeitarbeit wird diese Pauschale anteilig gekürzt. Die Qualität der Bekleidungs- und Schutzmittel muss den geltenden Vorgaben entsprechen. Die Kontrolle darüber obliegt dem Betriebsleiter.
 
-<sup>8</sup> Für die Arbeitskleider und -schuhe sowie für weitere Ausrüstungsgegenstände, welche Försterinnen und Förster auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen – um ihre Arbeit verrichten zu können, wird diesen – ausgehend von einem Arbeitspensum von 100 % – jährlich eine Pauschale von Fr. 1'100.– ausgerichtet. Bei Teilzeitarbeit ist diese Pauschalentschädigung entsprechend zu kürzen.
+<sup>5</sup> Für die Arbeitskleidung, -schuhe sowie weitere Ausrüstungsgegenstände, die Försterinnen und Förster für ihre Tätigkeit benötigen, wird eine jährliche Bekleidungs- und Schutzmittelpauschale in Höhe von Fr. 1100.– ausgerichtet. Bei Teilzeitarbeit wird diese Pauschale anteilig gekürzt.
 
-<sup>9</sup> Für die Arbeitskleider, welche Projektleiterinnen und Projektleiter sowie Abteilungsleiterinnen und Abteilungsleiter des Amts für Wald und Wild auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen, wird diesen – ausgehend von einem Arbeitspensum von 100 % – jährlich eine Pauschale von Fr. 300.– ausgerichtet. Bei Teilzeitarbeit ist diese Pauschalentschädigung entsprechend zu kürzen.
+<sup>6</sup> Für die Arbeitskleidung, die Projektleiterinnen und Projektleiter sowie Abteilungsleiterinnen und Abteilungsleiter für ihre Tätigkeit benötigen, wird eine jährliche Bekleidungs- und Schutzmittelpauschale von Fr. 300.– ausgerichtet. Bei Teilzeitarbeit wird diese Pauschale anteilig gekürzt.
 
-<sup>10</sup> Für Tätigkeiten mit Aussenwirkung ist die offizielle Kleidung des Amts für Wald und Wild zu tragen. Diese ist bei Bedarf zu ersetzen. Die Kosten werden im Rahmen der Pauschalentschädigung von den Mitarbeitenden übernommen.
+<sup>7</sup> Mitarbeitende, die im Rahmen ihrer Tätigkeit zur Tragung einheitlicher Berufskleidung verpflichtet sind, erhalten unabhängig vom Arbeitspensum eine zusätzliche Jahrespauschale von Fr. 200.–. Diese Pauschale wird gewährt, da sie für ihre Tätigkeit das gesamte Sortiment der Berufskleidung anschaffen müssen.
 
-[^3-1]: Gemäss der aktuellen SUVA-Richtlinie
+<sup>8</sup> …
+
+<sup>9</sup> …
+
+<sup>10</sup> …
 
 #### § 4
 
