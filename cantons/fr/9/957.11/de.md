@@ -3,20 +3,19 @@ canton: FR
 number: "957.11"
 title: Ausführungsverordnung zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
 language: de
-version: 2014-01-01
-valid_until: 2025-06-29
-version_adopted: 2013-12-17
+version: 2025-06-30
+version_adopted: 2025-04-15
 adopted: 2013-12-17
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/957.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5743/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8172/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsverordnung zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten
 
-vom 17.12.2013 (Fassung in Kraft getreten am 01.01.2014)
+vom 17.12.2013 (Fassung in Kraft getreten am 30.06.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Bewilligung**
 
-<sup>1</sup> Die Bewilligungen werden auf der Grundlage eines vollständigen Gesuchs, das die Bedingungen der Bundesgesetzgebung erfüllt, und aufgrund einer positiven Stellungnahme des Amts für Sport zu den Ausbildungs- und Zertifizierungsanforderungen erteilt.
+<sup>1</sup> Die Bewilligungen werden auf der Grundlage eines vollständigen Gesuchs, das die Bedingungen der Bundesgesetzgebung erfüllt, erteilt.
 
 #### Art. 4
 

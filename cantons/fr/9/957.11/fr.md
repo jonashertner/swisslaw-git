@@ -3,20 +3,19 @@ canton: FR
 number: "957.11"
 title: "Ordonnance d'application de la loi fédérale sur les guides de montagne et les organisateurs d'autres activités à risque"
 language: fr
-version: 2014-01-01
-valid_until: 2025-06-29
-version_adopted: 2013-12-17
+version: 2025-06-30
+version_adopted: 2025-04-15
 adopted: 2013-12-17
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/957.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5743/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8172/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance d'application de la loi fédérale sur les guides de montagne et les organisateurs d'autres activités à risque
 
-du 17.12.2013 (version entrée en vigueur le 01.01.2014)
+du 17.12.2013 (version entrée en vigueur le 30.06.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,7 +55,7 @@ Arrête:
 
 **Autorisation**
 
-<sup>1</sup> L'autorisation est accordée sur la base d'une demande complète, conforme aux conditions de la législation fédérale, ainsi que d'une position favorable du Service du sport relative aux exigences de formation ou de certification.
+<sup>1</sup> L'autorisation est accordée sur la base d'une demande complète, conforme aux conditions de la législation fédérale.
 
 #### Art. 4
 
