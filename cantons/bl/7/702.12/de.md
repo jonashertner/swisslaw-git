@@ -3,20 +3,19 @@ canton: BL
 number: "702.12"
 title: Verordnung über die Zuständigkeiten zum Vollzug der Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
 language: de
-version: 2015-01-01
-valid_until: 2025-06-30
-version_adopted: 2014-10-28
+version: 2025-07-01
+version_adopted: 2025-03-25
 adopted: 2006-12-19
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/702.12"
-pdf: "https://bl.clex.ch/api/de/versions/4102/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuständigkeiten zum Vollzug der Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
 
-Vom 19.12.2006 (Stand 01.01.2015)
+Vom 19.12.2006 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -40,12 +39,12 @@ beschliesst:
 
 #### § 2
 
-**Ausreisebeschränkung (Art. 24c Abs. 5 BWIS[^2-1], Art. 21e VWIS[^2-2])**
+**Ausreisebeschränkung (Art. 24c Abs. 5 BWIS[^2-1], Art. 7 VVMH[^2-2])**
 
 <sup>1</sup> Die Polizei Basel-Landschaft kann beim Bundesamt für Polizei (fedpol) beantragen, Ausreisebeschränkungen zu verfügen.
 
 [^2-1]: [SR 120](https://db.clex.ch/link/Bund/120/de)
-[^2-2]: SR 120.2
+[^2-2]: [SR 120.52](https://db.clex.ch/link/Bund/120.52/de)
 
 #### § 3
 
