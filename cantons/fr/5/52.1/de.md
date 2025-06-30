@@ -4,13 +4,12 @@ number: "52.1"
 title: Gesetz über den Zivilschutz
 short: ZSG
 language: de
-version: 2013-01-01
-valid_until: 2025-06-30
-version_adopted: 2012-12-06
+version: 2025-07-01
+version_adopted: 2024-12-18
 adopted: 2004-03-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7190/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zivilschutz – G
 
 (ZSG)
 
-vom 23.03.2004 (Fassung in Kraft getreten am 01.01.2013)
+vom 23.03.2004 (Fassung in Kraft getreten am 01.07.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -71,17 +70,30 @@ beschliesst:
 
 #### Art. 6
 
-**Einsatzkompanien**
+**…**
 
-<sup>1</sup> Die Aufgaben im Bereich des Zivilschutzes werden in den Zivilschutzregionen durch folgende Formationen wahrgenommen:
+#### Art. 6a
 
-- a) die Einsatzkompanie Mitte (Zivilschutzregion: Saane- und Sensebezirk);
-- b) die Einsatzkompanie Nord (Zivilschutzregion: Broye- und Seebezirk);
-- c) die Einsatzkompanie Süd (Zivilschutzregion: Greyerz-, Glane- und Vivisbachbezirk).
+**Steuerung und institutionelle Einteilung**
 
-<sup>2</sup> Die Einsatzkompanie Mitte ist das Ersteinsatzdetachement für das gesamte Kantonsgebiet.
+<sup>1</sup> Der Zivilschutz wird vom Staat organisiert und geführt.
 
-<sup>3</sup> Die zuständige kantonale Behörde ernennt die Kommandantinnen und Kommandanten und die Kader der Einsatzkompanien.
+<sup>2</sup> Seine Infrastruktur muss so verteilt sein, dass der Zivilschutz auf dem gesamten Kantonsgebiet mit der nötigen Effizienz für die Erfüllung seiner Aufgaben zum Einsatz kommen kann.
+
+<sup>3</sup> Die Gebietsaufteilung richtet sich nach dem Leistungsprofil und hat zum Ziel:
+
+- a) die ermittelten Risiken abzuwenden;
+- b) die Partnerorganisationen des Bevölkerungsschutzes, die in den Bereichen Sicherheit, Hilfeleistungen und Rettung tätig sind, zu unterstützen.
+
+#### Art. 6b
+
+**Operative Organisation des Zivilschutzes**
+
+<sup>1</sup> Der Zivilschutz verfügt über eine Regimentsstruktur, die sich zusammensetzt aus:
+
+- a) dem kantonalen Führungsstab;
+- b) einem Zivilschutz-Stabsbataillon;
+- c) drei regionalen Zivilschutzbataillonen.
 
 #### Art. 7
 
@@ -99,7 +111,7 @@ beschliesst:
 
 **Schutzdienstpflichtige Personen – Einteilung**
 
-<sup>1</sup> Die zuständige kantonale Behörde teilt die schutzdienstpflichtigen Personen in die Einsatzkompanien ein. Sie berücksichtigt dabei:
+<sup>1</sup> Die zuständige kantonale Behörde teilt die schutzdienstpflichtigen Personen in die Kompanien und Führungsstäbe ein. Sie berücksichtigt dabei:
 
 - a) die zugewiesene Grundfunktion;
 - b) die Bedürfnisse an Personal;
@@ -142,7 +154,7 @@ beschliesst:
 
 **Einsatz**
 
-<sup>1</sup> Die Einsatzkompanien werden von der zuständigen kantonalen Behörde aufgeboten, auf Antrag der in der Gesetzgebung über den Bevölkerungsschutz vorgesehenen Organe.
+<sup>1</sup> Die Kompanien und Führungsstäbe werden auf Antrag der Organe, die in der Gesetzgebung über den Bevölkerungsschutz vorgesehen sind, von der zuständigen kantonalen Behörde aufgeboten.
 
 <sup>2</sup> Das Personal der Reserve wird vom Staatsrat aufgeboten.
 
@@ -156,7 +168,15 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Einsatzkompanien führen regelmässig, mindestens aber alle zehn Jahre, Kontrollen der Schutzräume und der Kommandoeinrichtungen sowie des Ausrüstungsmaterials der Einrichtungen durch.
+<sup>2a</sup> Die Eigentümer von Schutzräumen melden den zuständigen Gemeindebehörden die Fertigstellung von Schutzräumen zur Schlusskontrolle.
+
+<sup>2b</sup> Die Gemeinden nehmen die Schlusskontrolle der Schutzräume vor und melden sie dem für den Zivilschutz zuständigen Amt[^15-1] (das Amt), damit die Schutzplätze für die Erstzuweisung zur Verfügung gestellt werden.
+
+<sup>3</sup> Das Amt organisiert regelmässige Kontrollen der Schutzräume und Kommandoeinrichtungen sowie des Ausrüstungsmaterials der Einrichtungen.
+
+<sup>4</sup> Die Gemeinden sind verpflichtet, dem Amt auf Verlangen und in der von ihm verlangten Form die notwendigen Informationen für die Organisation der periodischen Kontrolle einzureichen.
+
+[^15-1]: Heute: Amt für zivile Sicherheit und Militär
 
 #### Art. 16
 
@@ -218,7 +238,7 @@ beschliesst:
 
 <sup>1</sup> Der Staat übernimmt folgende Kosten:
 
-- a) die Kosten des für den Zivilschutz zuständigen kantonalen Amtes[^23-1];
+- a) die Kosten des Amtes;
 - b) die Kosten für die persönliche Ausrüstung sowie die Kosten für den Kauf und den Betrieb der Fahrzeuge.
 
 <sup>2</sup> Die folgenden Kosten werden zu 50 % von den Gemeinden und zu 50 % vom Kanton übernommen:
@@ -227,12 +247,11 @@ beschliesst:
 - b) die Ausbildungskosten, einschliesslich der Entlöhnung des Ausbildungspersonals;
 - c) die Entschädigung der Kommandantinnen und Kommandanten der Einsatzkompanien sowie die Entschädigung der Gemeinden für die Benützung ihrer Einrichtungen durch die Einsatzkompanien;
 - d) die Betriebskosten der Alarmsysteme.
+- e) die Einsatzkosten, einschliesslich der Kosten für das Personal, das die Einsätze plant und leitet.
 
-<sup>3</sup> Der Staatsrat präzisiert den Begriff der Ausbildungskosten im Sinne von Absatz 2 Bst. b.
+<sup>3</sup> Der Staatsrat präzisiert den Begriff der Ausbildungskosten und der Einsatzkosten im Sinne von Absatz 2 Bst. b und e.
 
 <sup>4</sup> Die Kosten zu Lasten der Gemeinden werden zwischen den Gemeinden des Kantons im Verhältnis zu ihrer zivilrechtlichen Bevölkerungszahl aufgeteilt.
-
-[^23-1]: Heute: Amt für Bevölkerungsschutz und Militär.
 
 #### Art. 24
 
@@ -273,7 +292,7 @@ beschliesst:
 
 <sup>2</sup> Die ordentlichen Unterhaltskosten für diese Einrichtungen werden von den Gemeinden übernommen; die vom Bund geleisteten Pauschalbeiträge zum Unterhalt bleiben vorbehalten.
 
-<sup>3</sup> Für die Benützung der Kommandoeinrichtungen durch die Einsatzkompanien wird eine Entschädigung entrichtet.
+<sup>3</sup> Für die Benützung der Kommandoeinrichtungen durch die Kompanien und die Führungsstäbe wird eine Entschädigung entrichtet.
 
 #### Art. 26
 

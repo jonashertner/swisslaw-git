@@ -4,13 +4,12 @@ number: "52.1"
 title: Loi sur la protection civile
 short: LPCi
 language: fr
-version: 2013-01-01
-valid_until: 2025-06-30
-version_adopted: 2012-12-06
+version: 2025-07-01
+version_adopted: 2024-12-18
 adopted: 2004-03-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7190/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8156/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection civile – L
 
 (LPCi)
 
-du 23.03.2004 (version entrée en vigueur le 01.01.2013)
+du 23.03.2004 (version entrée en vigueur le 01.07.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -71,17 +70,30 @@ Décrète:
 
 #### Art. 6
 
-**Compagnies d'intervention**
+**…**
 
-<sup>1</sup> Les tâches en matière de protection civile sont remplies, pour les régions de protection civile, par les formations suivantes:
+#### Art. 6a
 
-- a) la compagnie d'intervention Centre (région de protection civile: districts de la Sarine et de la Singine);
-- b) la compagnie d'intervention Nord (région de protection civile: districts du Lac et de la Broye);
-- c) la compagnie d'intervention Sud (région de protection civile: districts de la Gruyère, de la Glâne et de la Veveyse).
+**Gouvernance et découpage institutionnel**
 
-<sup>2</sup> La compagnie d'intervention Centre agit comme détachement de première intervention sur l'ensemble du territoire cantonal.
+<sup>1</sup> La protection civile est organisée et conduite par l'Etat.
 
-<sup>3</sup> L'autorité cantonale compétente nomme les commandants et commandantes et les cadres des compagnies d'intervention.
+<sup>2</sup> L'emplacement de ses infrastructures doit lui permettre d'intervenir sur l'ensemble du territoire cantonal avec l'efficacité nécessaire à l'accomplissement de ses tâches.
+
+<sup>3</sup> Le découpage territorial est basé sur le profil de prestations attendues afin:
+
+- a) de parer aux risques déterminés;
+- b) d'appuyer les partenaires de la protection de la population actifs dans le domaine de la sécurité, des secours et du sauvetage.
+
+#### Art. 6b
+
+**Organisation opérationnelle de la protection civile**
+
+<sup>1</sup> La protection civile revêt une structure régimentaire composée:
+
+- a) de l'état-major cantonal;
+- b) d'un bataillon d'état-major de protection civile;
+- c) de trois bataillons de protection civile régionaux.
 
 #### Art. 7
 
@@ -99,7 +111,7 @@ Décrète:
 
 **Personnes astreintes – Incorporation**
 
-<sup>1</sup> L'autorité cantonale compétente incorpore les personnes astreintes à la protection civile dans les compagnies d'intervention. Elle tient compte, à cet effet:
+<sup>1</sup> L'autorité cantonale compétente incorpore les personnes astreintes à la protection civile dans les compagnies et les états-majors. Elle tient compte, à cet effet:
 
 - a) de la fonction de base attribuée;
 - b) des besoins en effectifs;
@@ -142,7 +154,7 @@ Décrète:
 
 **Engagement**
 
-<sup>1</sup> Les compagnies d'intervention sont mises sur pied par l'autorité cantonale compétente, à la demande des organes prévus par la législation sur la protection de la population.
+<sup>1</sup> Les compagnies et les états-majors sont mis sur pied par l'autorité cantonale compétente, à la demande des organes prévus par la législation sur la protection de la population.
 
 <sup>2</sup> Le personnel de réserve est mis sur pied par le Conseil d'Etat.
 
@@ -156,7 +168,15 @@ Décrète:
 
 <sup>2</sup> …
 
-<sup>3</sup> Les compagnies d'intervention contrôlent périodiquement, mais au moins tous les dix ans, les abris et les installations de commandement ainsi que le matériel équipant ces installations.
+<sup>2a</sup> Les propriétaires d'abris annoncent aux services communaux compétents la réalisation d'abris en vue de leur contrôle final.
+
+<sup>2b</sup> Les communes procèdent au contrôle final des abris et l'annoncent au service en charge de la protection civile[^15-1] (ci-après: le Service), afin de rendre ces places protégées disponibles pour l'attribution primaire.
+
+<sup>3</sup> Le Service organise le contrôle périodique des abris et des installations de commandement ainsi que du matériel équipant ces installations.
+
+<sup>4</sup> Sur demande du Service, et sous la forme requise par ce dernier, les communes sont tenues de fournir les informations nécessaires à l'organisation du contrôle périodique.
+
+[^15-1]: Actuellement: le Service de la sécurité civile et militaire
 
 #### Art. 16
 
@@ -218,7 +238,7 @@ Décrète:
 
 <sup>1</sup> L'Etat prend en charge les frais suivants:
 
-- a) les frais du service cantonal chargé de la protection civile[^23-1];
+- a) les frais du Service;
 - b) les frais d'équipement personnel ainsi que les frais d'achat et d'exploitation des véhicules.
 
 <sup>2</sup> Les frais suivants sont répartis entre les communes et l'Etat à raison de 50 % à la charge des communes et de 50 % à la charge de l'Etat:
@@ -226,13 +246,12 @@ Décrète:
 - a) …
 - b) les frais d'instruction, y compris ceux du personnel instructeur;
 - c) l'indemnisation des commandants et commandantes des compagnies d'intervention ainsi que l'indemnisation des communes pour l'utilisation de leurs installations par les compagnies d'intervention;
-- d) les frais d'exploitation des systèmes d'alarme.
+- d) les frais d'exploitation des systèmes d'alarme;
+- e) les frais d'intervention y compris ceux du personnel planifiant et conduisant les interventions.
 
-<sup>3</sup> Le Conseil d'Etat précise la notion de frais d'instruction au sens de la lettre b de l'alinéa 2 ci-dessus.
+<sup>3</sup> Le Conseil d'Etat précise la notion de frais d'instruction et de frais d'intervention au sens des lettres b et e de l'alinéa 2 ci-dessus.
 
 <sup>4</sup> La part des frais à la charge de l'ensemble des communes est répartie entre elles selon le chiffre de la population dite légale.
-
-[^23-1]: Actuellement: Service de la protection de la population et des affaires militaires.
 
 #### Art. 24
 
@@ -273,7 +292,7 @@ Décrète:
 
 <sup>2</sup> Les frais de l'entretien ordinaire de ces installations sont à la charge des communes, sous réserve des indemnités forfaitaires d'entretien versées par la Confédération.
 
-<sup>3</sup> L'utilisation, par les compagnies d'intervention, des installations de commandement est sujette à indemnisation.
+<sup>3</sup> L'utilisation, par les compagnies et les états-majors, des installations de commandement est sujette à indemnisation.
 
 #### Art. 26
 
