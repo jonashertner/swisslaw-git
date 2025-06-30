@@ -4,13 +4,12 @@ number: "732.1.1"
 title: "Loi sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: LECAB
 language: fr
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-03-26
+version: 2025-07-01
+version_adopted: 2024-12-18
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7609/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8137/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Assurance immobilière, prévention et secours en matière de feu – L
 
 (LECAB)
 
-du 09.09.2016 (version entrée en vigueur le 01.01.2023)
+du 09.09.2016 (version entrée en vigueur le 01.07.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1085,7 +1084,7 @@ Décrète:
 
 <sup>1</sup> Est puni‑e d'une amende de 50 à 2000 francs celui ou celle qui contrevient aux dispositions de la présente loi ou des dispositions d'exécution.
 
-<sup>2</sup> Est puni‑e d'une amende de 50 à 500 francs celui ou celle qui refuse de servir dans un corps de sapeurs-pompiers.
+<sup>2</sup> …
 
 <sup>3</sup> L'instigateur ou l'instigatrice et le ou la complice sont punissables comme l'auteur‑e de l'infraction.
 

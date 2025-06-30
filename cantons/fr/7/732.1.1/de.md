@@ -4,13 +4,12 @@ number: "732.1.1"
 title: "Gesetz über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVG
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2021-03-26
+version: 2025-07-01
+version_adopted: 2024-12-18
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7609/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – G
 
 (KGVG)
 
-vom 09.09.2016 (Fassung in Kraft getreten am 01.01.2023)
+vom 09.09.2016 (Fassung in Kraft getreten am 01.07.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1085,7 +1084,7 @@ beschliesst:
 
 <sup>1</sup> Widerhandlungen gegen dieses Gesetz und die Ausführungsbestimmungen werden mit einer Busse von 50 bis 2000 Franken bestraft.
 
-<sup>2</sup> Wer den Feuerwehrdienst verweigert, wird mit einer Busse von 50 bis 500 Franken bestraft.
+<sup>2</sup> …
 
 <sup>3</sup> Anstifterinnen und Anstifter, Mittäterinnen und Mittäter machen sich wie eine Täterin oder ein Täter strafbar.
 
