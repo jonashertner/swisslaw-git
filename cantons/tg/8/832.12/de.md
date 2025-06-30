@@ -4,13 +4,13 @@ number: "832.12"
 title: Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: TG VEZL
 language: de
-version: 2023-07-01
-valid_until: 2025-06-30
-version_adopted: 2023-06-20
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-07-01
 adopted: 2026-01-19
 in_force: 2026-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2831/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2930/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG VEZL
 
 (TG VEZL)
 
-vom 20.06.2023 (Stand 01.07.2023)
+vom 20.06.2023 (Stand 01.07.2025)
 
 #### § 1
 
@@ -33,7 +33,7 @@ vom 20.06.2023 (Stand 01.07.2023)
 
 <sup>3</sup> Von der Beschränkung ausgenommen sind Ärzte und Ärztinnen, die sich in Weiterbildung in einem Fachgebiet gemäss Anhang befinden.
 
-[^1-1]: Diese Verordnung ist gemäss RRB Nr. 346 vom 20. Juni 2023 S. 3 befristet bis zum 30. Juni 2025.
+[^1-1]: Diese Verordnung ist gemäss RRB Nr. 346 vom 20. Juni 2023 S. 3 befristet bis zum 30. Juni 2025. Mit RRB Nr. 375 vom 1. Juli 2025 verlängert bis 31. Dezember 2025.
 [^1-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 2
