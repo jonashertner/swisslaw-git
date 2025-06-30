@@ -4,7 +4,7 @@ number: "311.15"
 title: LOI du 19.11.1940 pénale vaudoise (LPén)
 short: LPén
 language: fr
-version: 2023-10-01
+version: 2025-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/311.15?id=6858c6f4-8fcd-445b-9389-86971193f7c4"
 ---
 
@@ -210,11 +210,18 @@ sont réprimées conformément aux dispositions du Code pénal (titres X, XI, XI
 
 **Mendicité [^22-1]**
 
-<sup>1</sup> Celui qui mendie sera puni d'une amende de 50 à 100 francs.
+<sup>1</sup> La mendicité est interdite si elle est de nature à porter atteinte à la liberté de choix du passant.
 
-<sup>2</sup> Celui qui envoie mendier des personnes de moins de 18 ans, qui envoie mendier des personnes dépendantes, qui organise la mendicité d'autrui ou qui mendie accompagné d'une ou de plusieurs personnes mineures ou dépendantes, sera puni d'une amende de 500 à 2000 francs.
+<sup>2</sup> Est de nature à porter atteinte à la liberté de choix du passant :
 
-[^22-1]: Modif. 1 du 28.02.1944: Modification Art. 23; entrée en vigueur au 10.03.1944 · Modif. 2 du 18.11.1969: Modification Art. 23; entrée en vigueur au 01.04.1970 · Modif. 4 du 04.07.2006: Modification Art. 23; entrée en vigueur au 01.01.2007 · Modif. 6 du 27.09.2016: Modification Al. 1; entrée en vigueur au 01.11.2018; Introduction Al. 2; entrée en vigueur au 01.11.2018 · Modif. 8 du 01.10.2024: Modification Al. 1-2; entrée en vigueur au 01.07.2025; Introduction Al. 2, a-b; entrée en vigueur au 01.07.2025; Introduction Al. 3-4; entrée en vigueur au 01.07.2025; Introduction Art. 23b; entrée en vigueur au 01.07.2025; Introduction Art. 23c; entrée en vigueur au 01.07.2025; Introduction Art. 23d; entrée en vigueur au 01.07.2025
+- a. la mendicité intrusive, agressive, déloyale ou trompeuse ;
+- b. la mendicité pratiquée dans les transports publics et leurs arrêts, les cimetières, les marchés et files d'attente d'établissements qui pratiquent la vente de mets ou de boissons à l'emporter, sur les terrasses et aux entrées des établissements publics, à proximité immédiate des écoles, crèches, places de jeux, banques, bureaux de poste, distributeurs automatiques d'argent, horodateurs, aux entrées des immeubles d'habitation et de bureaux, bâtiments et installations publics, magasins, établissements médicaux et de soins, musées, théâtres et cinémas.
+
+<sup>3</sup> La personne qui mendie en violation de l'article 23, alinéa 2, lettre a sera punie d'une amende de 50 à 100 francs.
+
+<sup>4</sup> La personne qui mendie en violation de l'article 23, alinéa 2, lettre b fait l'objet d'un avertissement de la part de la police, qui l'invite à quitter la zone d'interdiction. Si, malgré ces mesures, la personne persiste à pratiquer la mendicité dans une telle zone, elle sera punie d'une amende de 50 francs.
+
+[^22-1]: Modif. 1 du 28.02.1944: Modification Art. 23; entrée en vigueur au 10.03.1944 · Modif. 2 du 18.11.1969: Modification Art. 23; entrée en vigueur au 01.04.1970 · Modif. 4 du 04.07.2006: Modification Art. 23; entrée en vigueur au 01.01.2007 · Modif. 6 du 27.09.2016: Modification Al. 1; entrée en vigueur au 01.11.2018; Introduction Al. 2; entrée en vigueur au 01.11.2018 · Modif. 8 du 01.10.2024: Modification Al. 1-2; entrée en vigueur au 01.07.2025; Introduction Al. 2, a-b; entrée en vigueur au 01.07.2025; Introduction Al. 3-4; entrée en vigueur au 01.07.2025
 
 #### Art. 23bis
 
@@ -233,11 +240,37 @@ sont réprimées conformément aux dispositions du Code pénal (titres X, XI, XI
 
 [^23bis-1]: Modif. 4 du 04.07.2006: Abrogation Art. 23a; entrée en vigueur au 01.01.2007
 
+#### Art. 23b
+
+**Bénéfice de la mendicité d'autrui [^23a-1]**
+
+<sup>1</sup> La personne qui organise la mendicité d'autrui à des fins d'exploitation, celle qui tire profit de la mendicité d'autrui, sera punie d'une amende de 1000 à 10'000 francs.
+
+<sup>2</sup> La personne qui organise la mendicité de personnes dépendantes ou de mineurs, la personne qui tire profit de la mendicité de personnes dépendantes ou de mineurs, sera punie d'une amende de 2000 à 10'000 francs.
+
+[^23a-1]: Modif. 8 du 01.10.2024: Introduction Art. 23b; entrée en vigueur au 01.07.2025
+
+#### Art. 23c
+
+**Mendicité en compagnie de mineurs [^23b-1]**
+
+<sup>1</sup> La personne qui mendie en compagnie d'une ou de plusieurs personnes mineures sera punie d'une amende de 100 à 500 francs.
+
+[^23b-1]: Modif. 8 du 01.10.2024: Introduction Art. 23c; entrée en vigueur au 01.07.2025
+
+#### Art. 23d
+
+**Récidive [^23c-1]**
+
+<sup>1</sup> En cas de récidive, les montants maximaux prévus par les articles 23b à 23c peuvent être doublés.
+
+[^23c-1]: Modif. 8 du 01.10.2024: Introduction Art. 23d; entrée en vigueur au 01.07.2025
+
 #### Art. 24
 
-**… [^23a-1]**
+**… [^23d-1]**
 
-[^23a-1]: Modif. 4 du 04.07.2006: Abrogation Art. 24; entrée en vigueur au 01.01.2007
+[^23d-1]: Modif. 4 du 04.07.2006: Abrogation Art. 24; entrée en vigueur au 01.01.2007
 
 #### Art. 25
 
