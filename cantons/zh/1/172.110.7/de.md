@@ -4,11 +4,10 @@ number: "172.110.7"
 title: Organisationsverordnung der Baudirektion (BDOV)
 short: BDOV
 language: de
-version: "2024-03-01"
-nachtrag: "124"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
 adopted: 2012-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_7-2012_07_06-2012_10_01-124.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_7-2012_07_06-2012_10_01-129.html"
 text: pdf
 ---
 
@@ -63,7 +62,7 @@ Die Baudirektion gliedert sich in folgende Verwaltungseinheiten:
 
 **1**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Sie oder er führt als direkt Unterstellte die Generalsekretärin oder den Generalsekretär, die Leiterinnen oder Leiter der Ämter und des Human Resources sowie ihre oder seine Direktionsassistenz.
 
@@ -92,9 +91,11 @@ Die Baudirektion gliedert sich in folgende Verwaltungseinheiten:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher im gesamten Aufgabenbereich, leitet das Generalsekretariat und koordiniert die direktionsinterne sowie die direktionsübergreifende Zusammenarbeit.
 
-<sup>2</sup> Sie oder er vertritt die Direktionsvorsteherin oder den Direktionsvorsteher innerhalb der Direktion und ist insoweit gegenüber den Leiterinnen und Leitern der Verwaltungseinheiten weisungsbefugt.
+<sup>2</sup> Sie oder er vertritt die Direktionsvorsteherin oder den Direktionsvorsteher im Einvernehmen mit ihr oder ihm gegen innen und aussen und ist insoweit gegenüber den Leiterinnen und Leitern der Verwaltungseinheiten weisungsbefugt.[^4-1]
 
 <sup>3</sup> Sie oder er führt als Direktunterstellte die Abteilungsleiterinnen und Abteilungsleiter des Generalsekretariats und ihre oder seine Assistenz.
+
+[^4-1]: Fassung gemäss Vfg. vom 15. Mai 2025 (OS 80, 134; ABl 2025-05-23). In Kraft seit 1. Juli 2025.
 
 ### C. Ämter
 
@@ -134,7 +135,7 @@ der Verwaltungseinheiten
 
 **3**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 25 - 129
 
 <sup>2</sup> Sie a. setzen die internen und übergeordneten Ziele um,
 
@@ -203,7 +204,7 @@ Die Direktionsvorsteherin oder der Direktionsvorsteher führt periodisch ein Kad
 
 **5**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 25 - 129
 
 ### 4. Abschnitt: Ausgaben und deren Umsetzung
 
@@ -298,7 +299,7 @@ Die Direktion stellt den Mitarbeitenden Informationen von allgemeinem Interesse 
 
 **7**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 25 - 129
 
 [^22-1]: Eingefügt durch Vfg. vom 29. Oktober 2020 (OS 75, 558; ABl 2020-11-06). In Kraft seit 1. Januar 2021.
 
@@ -362,6 +363,6 @@ lichen Rechten (nur IMA)
 
 **9**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 25 - 129
 
 [^hAusgabenkompetenzen-1]: LS 611.2.
