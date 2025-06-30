@@ -4,13 +4,12 @@ number: "952.200"
 title: Verordnung über den Strassenverkehr
 short: "Strassenverkehrsverordnung, StVO"
 language: de
-version: 2020-07-01
-valid_until: 2025-06-30
-version_adopted: 2020-05-05
+version: 2025-07-01
+version_adopted: 2025-04-01
 adopted: 2011-05-17
 in_force: 2011-05-26
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/952.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4965/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Strassenverkehr: Verordnung | Strassenverkehr
 
 (Strassenverkehrsverordnung, StVO)
 
-Vom 17. Mai 2011 (Stand 1. Juli 2020)
+Vom 17. Mai 2011 (Stand 1. Juli 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,9 +42,9 @@ beschliesst:
 
 #### § 2
 
-**Die Abteilung Verkehr der Kantonspolizei**
+**Kantonspolizei**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement kann den Vollzug von Bestimmungen über den Strassenverkehr der Abteilung Verkehr der Kantonspolizei übertragen.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement kann den Vollzug von Bestimmungen über den Strassenverkehr der Kantonspolizei übertragen.
 
 <sup>2</sup> Die zuständige Behörde legt die Anforderungen für die Eingabe von Gesuchen um Bewilligungen, Bestätigungen, Bescheinigungen und dergleichen fest. Die Beschaffung der erforderlichen Unterlagen, wie beispielsweise amtliche Personenstandsnachweise, ärztliche, psychologische und andere Untersuchungen, geht zu Lasten der Gesuchstellerin oder des Gesuchstellers.
 
@@ -69,13 +68,17 @@ beschliesst:
 
 <sup>1</sup> Zu kurzfristigen polizeilichen Anordnungen im Strassenverkehr ist jede oder jeder Angehörige des Polizeikorps befugt. Als solche Anordnungen sind auch alle Weisungen zu betrachten, die diese durch sichtbare oder für die Strassenbenützerinnen und -benützer verständliche Zeichen geben.
 
-<sup>2</sup> Die Angehörigen des Polizeikorps sind befugt, in Ausnahmefällen von den Verkehrsregeln abweichende Anordnungen zu treffen, falls Verkehrsabwicklung oder Verkehrssicherheit dies erfordern (Art. 27 SVG, Art. 66 und 67 Signalisationsverordnung [SSV]).
+<sup>2</sup> Die Kantonspolizei ist befugt, in Ausnahmefällen von den Verkehrsregeln abweichende Anordnungen zu treffen, falls Verkehrsabwicklung oder Verkehrssicherheit dies erfordern (Art. 27 SVG, Art. 66 und 67 der Signalisationsverordnung [SSV] vom 5. September 1979[^5-1]).
+
+[^5-1]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de)
 
 #### § 6
 
 **Allmendbewilligungen**
 
-<sup>1</sup> Die Bewilligungen zur Nutzung des öffentlichen Raumes gemäss § 10 des Gesetzes über die Nutzung des öffentlichen Raumes (NöRG) vom 16. Oktober 2013 werden vom Bau- und Verkehrsdepartement erteilt, soweit nicht Vorschriften über die Märkte und Messen das Präsidialdepartement als zuständig bezeichnen. Die Organe des Bau- und Verkehrsdepartements haben, bevor sie Bewilligungen erteilen, welche eine Beeinträchtigung des Strassenverkehrs bewirken können, die Zustimmung der Abteilung Verkehr der Kantonspolizei einzuholen. Die Zustimmung kann für gewisse Fälle allgemein erteilt werden.
+<sup>1</sup> Die Bewilligungen zur Nutzung des öffentlichen Raumes gemäss § 10 des Gesetzes über die Nutzung des öffentlichen Raumes (NöRG) vom 16. Oktober 2013[^6-1] werden vom Bau- und Verkehrsdepartement erteilt, soweit nicht Vorschriften über die Märkte und Messen das Präsidialdepartement als zuständig bezeichnen. Die Organe des Bau- und Verkehrsdepartements haben, bevor sie Bewilligungen erteilen, welche eine Beeinträchtigung des Strassenverkehrs bewirken können, die Zustimmung der Kantonspolizei einzuholen. Die Zustimmung kann für gewisse Fälle allgemein erteilt werden.
+
+[^6-1]: SG [724.100](https://www.gesetzessammlung.bs.ch/data/724.100/de)
 
 #### § 7
 
@@ -83,13 +86,13 @@ beschliesst:
 
 <sup>1</sup> Für die permanente Anordnung und Bewilligung von Signalen, Markierungen, Schranken und Leiteinrichtungen (Art. 5 SVG; SSV) im Bereiche öffentlicher Strassen sowie für die Planung und den Betrieb von Lichtsignalanlagen ist das Amt für Mobilität des Bau- und Verkehrsdepartements zuständig.
 
-<sup>2</sup> Für die temporäre Anordnung und Bewilligung von Signalen, Markierungen, Schranken und Leiteinrichtungen (Art. 5 SVG; SSV) im Zusammenhang mit Baustellen oder Veranstaltungen im Bereiche öffentlicher Strassen ist die Abteilung Verkehr der Kantonspolizei zuständig.
+<sup>2</sup> Für die temporäre Anordnung und Bewilligung von Signalen, Markierungen, Schranken und Leiteinrichtungen (Art. 5 SVG; SSV) im Zusammenhang mit Baustellen oder Veranstaltungen im Bereiche öffentlicher Strassen ist die Kantonspolizei zuständig.
 
-<sup>3</sup> Durch Private aufgestellte mobile Einrichtungen zur Signalisation und Abschrankung dürfen im Bereiche öffentlicher Strassen nur mit behördlicher Bewilligung der Abteilung Verkehr der Kantonspolizei verwendet werden und sind mit der Anschrift der Eigentümerin oder des Eigentümers zu versehen.
+<sup>3</sup> Durch Private aufgestellte mobile Einrichtungen zur Signalisation und Abschrankung dürfen im Bereich öffentlicher Strassen nur mit behördlicher Bewilligung der Kantonspolizei verwendet werden und sind mit der Anschrift der Eigentümerin oder des Eigentümers zu versehen.
 
-<sup>4</sup> Das Amt für Mobilität des Bau- und Verkehrsdepartements hat unter Mitwirkung der Abteilung Verkehr der Kantonspolizei die Aufsicht über die Verkehrseinrichtungen (Art. 104 und 105 SSV).
+<sup>4</sup> Das Amt für Mobilität des Bau- und Verkehrsdepartements hat unter Mitwirkung der Kantonspolizei die Aufsicht über die Verkehrseinrichtungen (Art. 104 und 105 SSV).
 
-<sup>5</sup> Bei der Planung für den Neubau oder Ausbau von Strassen, die Verkehrsmassnahmen nach sich ziehen, ist die Abteilung Verkehr der Kantonspolizei und das Amt für Mobilität des Bau- und Verkehrsdepartements anzuhören (Art. 107 Abs. 6 SSV).
+<sup>5</sup> Bei der Planung für den Neubau oder Ausbau von Strassen, die Verkehrsmassnahmen nach sich ziehen, ist die Kantonspolizei und das Amt für Mobilität des Bau- und Verkehrsdepartements anzuhören (Art. 107 Abs. 6 SSV).
 
 #### § 7a
 
@@ -115,7 +118,9 @@ beschliesst:
 
 **Rekurs an den Regierungsrat**
 
-<sup>1</sup> Gegen Entscheide der Abteilung Verkehr der Kantonspolizei kann an das Justiz- und Sicherheitsdepartement rekurriert werden. Rekurse gegen Entscheide des Amts für Mobilität sind ans Bau- und Verkehrsdepartement zu richten. Im Übrigen gelten die Bestimmungen von § 41 ff. des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz) vom 22. April 1976.
+<sup>1</sup> Gegen Entscheide der Kantonspolizei kann an das Justiz- und Sicherheitsdepartement rekurriert werden. Rekurse gegen Entscheide des Amts für Mobilität sind ans Bau- und Verkehrsdepartement zu richten. Im Übrigen gelten die Bestimmungen von § 41 ff. des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz) vom 22. April 1976[^8-1].
+
+[^8-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de)
 
 ## II. Strassenverkehrsvorschriften
 
@@ -129,13 +134,15 @@ beschliesst:
 
 **Parkieren in besonderen Fällen**
 
-<sup>1</sup> Die Bewilligung, Motorfahrzeuge und Anhänger ohne Kontrollschilder auf öffentlichen Strassen und Parkplätzen kurzfristig abzustellen (Art. 20 Verkehrsregelverordnung [VRV]), kann durch die Abteilung Verkehr der Kantonspolizei erteilt werden. Das Abstellen für länger als drei Tage bedarf einer Bewilligung des Bau- und Verkehrsdepartements.
+<sup>1</sup> Die Bewilligung, Motorfahrzeuge und Anhänger ohne Kontrollschilder auf öffentlichen Strassen und Parkplätzen kurzfristig abzustellen (Art. 20 Verkehrsregelnverordnung [VRV] vom 13. November 1962[^10-1]), kann durch die Kantonspolizei erteilt werden. Das Abstellen für länger als drei Tage bedarf einer Bewilligung des Bau- und Verkehrsdepartements.
 
-<sup>2</sup> Das vorübergehende Reservieren von Parkraum ist nur mit Bewilligung der Abteilung Verkehr der Kantonspolizei gestattet. Mit dem Aufstellen der erforderlichen Signale kann die Bewilligungsinhaberin oder der Bewilligungsinhaber beauftragt werden. Das erforderliche Signalisationsmaterial für kurzfristige Anordnungen wird von der Abteilung Verkehr der Kantonspolizei gegen Gebühr leihweise zur Verfügung gestellt.
+<sup>2</sup> Das vorübergehende Reservieren von Parkraum ist nur mit Bewilligung der Kantonspolizei gestattet. Mit dem Aufstellen der erforderlichen Signale kann die Bewilligungsinhaberin oder der Bewilligungsinhaber beauftragt werden. Das erforderliche Signalisationsmaterial für kurzfristige Anordnungen wird von der Kantonspolizei gegen Gebühr leihweise zur Verfügung gestellt.
 
-<sup>3</sup> Das Parkieren von Motorfahrzeugen mit mehr als 1'200 kg Nutzlast sowie von Anhängern aller Art über Nacht auf der Allmend ist ausserhalb von dafür besonders gekennzeichneten Parkplätzen verboten. In begründeten Fällen kann die Abteilung Verkehr der Kantonspolizei im Einvernehmen mit dem Bau- und Verkehrsdepartement Ausnahmen gestatten.
+<sup>3</sup> …
 
 <sup>4</sup> Das Parkieren von Motorfahrzeugen zum Transport von gefährlichen Ladungen ist an allgemein zugänglichen Orten verboten.
+
+[^10-1]: SR [741.11](https://db.clex.ch/link/Bund/741.11/de)
 
 #### § 11
 
@@ -147,25 +154,29 @@ beschliesst:
 
 #### § 12
 
-**Polizeiliches Wegschaffen und Blockieren von Fahrzeugen**
+**Polizeiliches Wegschaffen und Blockieren von Fahrzeugen, fahrzeugähnlichen Geräten und Gegenständen**
 
-<sup>1</sup> Vorschriftswidrig, behindernd, gefährdend oder nichtbetriebssichere bzw. defekte auf öffentlichem Grund abgestellte Fahrzeuge (Motorfahrzeuge, Wohnwagen/-mobile, Fahrräder, Anhänger etc.) können durch die Polizeiorgane blockiert oder weggeschafft und untergebracht werden, sofern ihre Halterin oder ihr Halter bzw. ihre Besitzerin oder ihr Besitzer nicht innert nützlicher Frist erreicht werden kann oder der polizeilichen Aufforderung nicht Folge leistet.
+<sup>1</sup> Vorschriftswidrig, behindernd, gefährdend oder nichtbetriebssichere bzw. defekte auf öffentlichem Grund abgestellte Fahrzeuge (Motorfahrzeuge, Wohnwagen/-mobile, Fahrräder, Anhänger), fahrzeugähnliche Geräte und Gegenstände können durch die Kantonspolizei blockiert oder weggeschafft und untergebracht werden, sofern ihre Halterin oder ihr Halter bzw. ihre Besitzerin oder ihr Besitzer nicht innert nützlicher Frist erreicht werden kann oder der polizeilichen Aufforderung nicht Folge leistet.
 
-<sup>2</sup> Fahrzeuge oder Gegenstände, welche die Allmend über Gebühr beanspruchen oder eine rechtmässige Benützung des öffentlichen Grundes behindern, können nach zehn Tagen weggeschafft werden, sofern nicht eine frühere Wegschaffung notwendig ist, namentlich wegen öffentlicher Arbeiten oder wenn andere öffentliche oder private Interessen vorgehen.
+<sup>1<sup>bis</sup></sup> Die Kantonspolizei kann über die Anwendungsfälle von Abs. 1 hinaus Fahrzeuge zwecks Halterermittlung blockieren, sofern die bisherigen Bemühungen zur Ermittlung der Halterin bzw. des Halters erfolglos geblieben sind oder aufgrund der Gesamtumstände aussichtslos erscheinen.
 
-<sup>2<sup>bis</sup></sup> Die Polizei kann das Tiefbauamt im Rahmen deren öffentlichen Arbeiten im Einzelfall bevollmächtigen, Fahrräder und Motorfahrräder wegzuschaffen und der Polizei zuzuführen, sofern die Polizei nicht innert nützlicher Frist die Wegschaffung selbst vornehmen kann.
+<sup>2</sup> Fahrzeuge, fahrzeugähnliche Geräte oder Gegenstände, welche die Allmend über Gebühr beanspruchen oder eine rechtmässige Benützung des öffentlichen Grundes behindern, können nach zehn Tagen weggeschafft werden, sofern nicht eine frühere Wegschaffung notwendig ist, namentlich wegen öffentlicher Arbeiten oder wenn andere öffentliche oder private Interessen vor gehen.
 
-<sup>3</sup> Die weggeschafften Fahrzeuge werden bei der Polizei registriert. Für die Blockierung, Wegschaffung und Unterbringung ist eine Gebühr zu erheben.
+<sup>2<sup>bis</sup></sup> Die Kantonspolizei kann das Tiefbauamt im Rahmen seiner öffentlichen Arbeiten im Einzelfall bevollmächtigen, Fahrräder und Motorfahrräder wegzuschaffen und ihr zuzuführen, sofern sie nicht innert nützlicher Frist die Wegschaffung selbst vornehmen kann.
 
-<sup>4</sup> Die Aufbewahrung, Herausgabe, Verwertung und Vernichtung der Fahrzeuge richtet sich sinngemäss nach den §§ 54 bis 56 des Gesetzes betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeigesetz, PolG), sofern nicht die besonderen Bestimmungen gemäss § 12a dieser Verordnung anzuwenden sind.
+<sup>3</sup> Die weggeschafften Fahrzeuge, fahrzeugähnlichen Geräte oder Gegenstände werden bei der Kantonspolizei registriert. Für die Blockierung, Wegschaffung und Unterbringung ist eine Gebühr zu erheben.
+
+<sup>4</sup> Die Aufbewahrung, Herausgabe, Verwertung und Vernichtung der Fahrzeuge, fahrzeugähnlichen Geräte oder Gegenstände richtet sich sinngemäss nach den §§ 54 bis 56 des Gesetzes betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeigesetz, PolG) vom 13. November 1996[^12-1], sofern nicht die besonderen Bestimmungen gemäss § 12a dieser Verordnung anzuwenden sind.
+
+[^12-1]: SG [510.100](https://www.gesetzessammlung.bs.ch/data/510.100/de)
 
 #### § 12a
 
-**Aufbewahrung, Herausgabe, Verwertung und Vernichtung weggeschaffter Fahrräder, Motorfahrräder und Motorräder bis 125 ccm**
+**Aufbewahrung, Herausgabe, Verwertung und Vernichtung weggeschaffter Fahrräder, Fahrradanhänger, Motorfahrräder, Motorräder, Motorradanhänger und Handwagen**
 
-<sup>1</sup> Die Zuständigkeit zur Aufbewahrung, Herausgabe, Verwertung und Vernichtung von weggeschafften Fahrrädern, Motorfahrrädern und Motorrädern bis 125 ccm obliegt der Abteilung Verkehr der Kantonspolizei Basel-Stadt.
+<sup>1</sup> Die Zuständigkeit zur Aufbewahrung, Herausgabe, Verwertung und Vernichtung von weggeschafften Fahrrädern, Fahrradanhängern, Motorfahrrädern, Motorrädern, Motorradanhängern und Handwagen obliegt der Kantonspolizei.
 
-<sup>2</sup> Verwertbare Fahrräder, Motorfahrräder und Motorräder bis 125 ccm werden nach Ablauf einer 30-tägigen Aufbewahrungsfrist verwertet, sofern sich die Eigentümerin oder der Eigentümer bzw. die Halterin oder der Halter nicht innert genannter Frist meldet oder trotz Aufforderung das Fahrzeug nicht abholt.
+<sup>2</sup> Verwertbare Fahrräder, Fahrradanhänger, Motorfahrräder, Motorräder, Motorradanhänger und Handwagen werden nach Ablauf einer 30-tägigen Aufbewahrungsfrist verwertet, sofern sich die Eigentümerin oder der Eigentümer bzw. die Halterin oder der Halter nicht innert genannter Frist meldet oder trotz Aufforderung das Fahrzeug nicht abholt.
 
 <sup>3</sup> Verwertungsarten sind:
 
@@ -173,25 +184,27 @@ beschliesst:
 - b) die öffentliche Versteigerung;
 - c) die kostenlose Abgabe an gemeinnützige Institutionen, Projekte und dergleichen.
 
-<sup>4</sup> Offensichtlich wertlose oder defekte Fahrräder, Motorfahrräder und Motorräder bis 125 ccm können direkt sach- und umweltgerecht entsorgt werden.
+<sup>4</sup> Offensichtlich wertlose oder defekte Fahrräder, Fahrradanhänger, Motorfahrräder, Motorräder, Motorradanhänger und Handwagen können direkt sach- und umweltgerecht entsorgt werden.
 
-<sup>5</sup> Das Fahrrad, Motorfahrrad oder Motorrad bis 125 ccm wird nach Bezahlung der Gebühren an die Eigentümerin oder den Eigentümer bzw. die Halterin oder den Halter herausgegeben, wenn der Anspruch an der Sache glaubhaft gemacht wurde. Nach Verwertung des Fahrzeugs ist der Erlös, nach Abzug der Gebühren, herauszugeben. Für rechtmässig vernichtete Sachen besteht kein Anspruch auf Ersatz.
+<sup>5</sup> Fahrräder, Fahrradanhänger, Motorfahrräder, Motorräder, Motorradanhänger und Handwagen werden nach Bezahlung der Gebühren an die Eigentümerin oder den Eigentümer bzw. die Halterin oder den Halter herausgegeben, wenn der Anspruch an der Sache glaubhaft gemacht wurde. Nach Verwertung der Sache ist der Erlös, nach Abzug der Gebühren, herauszugeben. Für rechtmässig vernichtete Sachen besteht kein Anspruch auf Ersatz.
 
 #### § 13
 
 **Halterpflichten**
 
-<sup>1</sup> Die Halterin oder der Halter eines Motorfahrzeuges oder Fahrrades ist verpflichtet, der Polizei Auskunft zu geben, wer das Fahrzeug geführt oder wem sie oder er es überlassen hat. Vorbehalten bleibt das Recht, der Polizei in sinngemässer Anwendung der Bestimmungen der Strafprozessordnung über das Zeugnisverweigerungsrecht die Auskunft zu verweigern.
+<sup>1</sup> Die Halterin oder der Halter eines Motorfahrzeuges oder Fahrrades ist verpflichtet, der Kantonspolizei Auskunft zu geben, wer das Fahrzeug geführt oder wem sie oder er es überlassen hat. Vorbehalten bleibt das Recht, der Kantonspolizei in sinngemässer Anwendung der Bestimmungen der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^13-1] über das Zeugnisverweigerungsrecht die Auskunft zu verweigern.
 
-<sup>2</sup> Die gewerbsmässige Vermieterin oder der gewerbsmässige Vermieter von Motorfahrzeugen hat ausserdem ein Verzeichnis der Mieterinnen und Mieter zu führen, in das die Polizei jederzeit Einsicht nehmen kann.
+<sup>2</sup> Die gewerbsmässige Vermieterin oder der gewerbsmässige Vermieter von Motorfahrzeugen hat ausserdem ein Verzeichnis der Mieterinnen und Mieter zu führen, in das die Kantonspolizei jederzeit Einsicht nehmen kann.
+
+[^13-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 14
 
 **Umzüge, Demonstrationen und Kundgebungen**
 
-<sup>1</sup> Zur Durchführung von öffentlichen Umzügen sowie Versammlungen und zur Abhaltung von Demonstrationen und Kundgebungen auf öffentlichen Strassen und Plätzen bedarf es einer Bewilligung des Justiz- und Sicherheitsdepartements. Bewilligungen für Umzüge (Veranstaltungen) werden im Rahmen des Verfahrens auf Nutzung des öffentlichen Raumes, welches das Tiefbauamt koordiniert, erteilt.
+<sup>1</sup> Zur Durchführung von öffentlichen Umzügen sowie Versammlungen und zur Abhaltung von Demonstrationen und Kundgebungen auf öffentlichen Strassen und Plätzen bedarf es einer Bewilligung der Kantonspolizei. Bewilligungen für Umzüge (Veranstaltungen) werden im Rahmen des Verfahrens auf Nutzung des öffentlichen Raumes, welches das Tiefbauamt koordiniert, erteilt.
 
-<sup>2</sup> Gesuche für Demonstrationen und Kundgebungen sind in der Regel mindestens drei Wochen vor der Durchführung mit folgenden Angaben einzureichen: Datum, Zeit, Ort, zu benützende Strassen sowie die oder der Verantwortliche; bei Umzügen überdies Angaben über die Zusammensetzung des Zuges und der mitgeführten Fahrzeuge.
+<sup>2</sup> Gesuche für Demonstrationen und Kundgebungen sind in der Regel mindestens zwei Wochen vor der Durchführung mit folgenden Angaben einzureichen: Datum, Zeit, Ort, zu benützende Strassen sowie verantwortliche Person; bei Umzügen überdies Angaben über die Zusammensetzung des Zuges und der mitgeführten Fahrzeuge.
 
 <sup>3</sup> Die Bewilligung kann aus verkehrspolizeilichen Gründen oder aus Gründen der öffentlichen Ordnung und Sicherheit verweigert werden.
 
@@ -201,7 +214,7 @@ beschliesst:
 
 **Sportliche Veranstaltungen**
 
-<sup>1</sup> Werden zur Durchführung von sportlichen Veranstaltungen öffentliche Strassen und Plätze beansprucht, so erfolgt das Bewilligungsverfahren der Abteilung Verkehr der Kantonspolizei (Art. 52 SVG, Art. 94 und 95 VRV) im Rahmen des Verfahrens auf Nutzung des öffentlichen Raumes.
+<sup>1</sup> Werden zur Durchführung von sportlichen Veranstaltungen öffentliche Strassen und Plätze beansprucht, so erfolgt das Bewilligungsverfahren der Kantonspolizei (Art. 52 SVG, Art. 94 und 95 VRV) im Rahmen des Verfahrens auf Nutzung des öffentlichen Raumes.
 
 <sup>2</sup> …
 
@@ -217,7 +230,7 @@ beschliesst:
 
 **Störung des Verkehrs durch Fussgängerinnen und Fussgänger**
 
-<sup>1</sup> Verkehrshemmende Ansammlungen von Personen sind auf Allmend verboten. Die Polizeiorgane können Veranstaltungen und Ankündigungen, welche Ansammlungen hervorrufen, verbieten.
+<sup>1</sup> Verkehrshemmende Ansammlungen von Personen sind auf Allmend verboten. Die Kantonspolizei kann Veranstaltungen und Ankündigungen, welche Ansammlungen hervorrufen, verbieten.
 
 #### § 18
 
@@ -266,7 +279,7 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 <sup>4</sup> *D. Lernfahrausweise*
 
 - 1\. Alle Kategorien — CHF 40
-- 2\. Verlängerungen — CHF 30
+- 2\. …
 - 3\. Duplikate, Ersatzausweise, Umschreibungen — CHF 40
 - 4\. Nachträge und Ergänzungen — CHF 30
 
@@ -276,6 +289,7 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 - 2\. Ausbildungsbewilligung für Lastwagenführer-Lehrlinge — CHF 50
 - 3\. Fahrberechtigung für Weiterbildungskurse pro Kurstag — CHF 30
 - 4\. Erteilung der Kollektivfahrzeugausweise (Händlerschilder) — CHF 50
+- 5\. Fähigkeitsausweis / Ausweis 95 — CHF 35
 
 <sup>6</sup> *F. Motorfahrräder*
 
@@ -386,7 +400,7 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 <tr><td>b) Bezüglich Verzugszins und Mahngebühren gelten die Bestimmungen in § 14b der Verordnung zum Verwaltungsgebührengesetz.</td><td></td></tr>
 <tr><td>2. a) Anordnung der polizeilichen Zustellung einer Verfügung oder des Kontrollschildereinzuges</td><td></td></tr>
 <tr><td>aa) ohne besonderen Aufwand</td><td>200</td></tr>
-<tr><td>ab) mit besonderem Aufwand gemäss den Tarifen in der PolV.</td><td></td></tr>
+<tr><td>ab) mit besonderem Aufwand gemäss den Tarifen in der PolV.[^23-1]</td><td></td></tr>
 <tr><td>b) Einleitung des Fahrzeugausweis- und Schilderentzugsverfahrens wegen Versicherungskündigung (Art. 68 Abs. 2 SVG)</td><td>50</td></tr>
 <tr><td>c) Einleitung der Ausschreibung im polizeilichen Fahndungsregister wegen Versicherungskündigung, Nichtvorführung, Nichtbezahlung der Motorfahrzeugsteuer</td><td>50</td></tr>
 <tr><td>d) Einleitung eines Betreibungsverfahrens</td><td>50</td></tr>
@@ -414,30 +428,33 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 <tr><td>b) bei mehr als 20 Seiten wird die Gebühr nach den Tarifen in der PolV erhoben.</td><td></td></tr>
 <tr><td>8. Überführen, Abschleppen und Sicherstellen von Fahrzeugen:</td><td></td></tr>
 <tr><td>a) Überführen von Fahrzeugen:</td><td></td></tr>
-<tr><td>aa) Fahrräder</td><td>35</td></tr>
-<tr><td>ab) Motorfahrräder</td><td>80</td></tr>
-<tr><td>ac) Kleinmotorräder und Motorräder</td><td>150</td></tr>
+<tr><td>aa) Einspurige Fahrräder</td><td>35</td></tr>
+<tr><td>ab) Handwagen, Fahrradanhänger, Leicht-Motorfahrräder, Motorfahrräder und mehrspurige Fahrräder</td><td>80</td></tr>
+<tr><td>ac) Kleinmotorräder, Motorräder und Motorradanhänger</td><td>150</td></tr>
 <tr><td>ad) Motorwagen</td><td>150</td></tr>
-<tr><td>b) Abschleppen und Sicherstellen von Motorwagen und Anhängern: effektive Kosten der Abschleppfirma nach Aufwand gemäss Rechnungsstellung</td><td></td></tr>
+<tr><td>b) Abschleppen von Motorfahrzeugen, Fahrrädern, Anhängern und Handwagen: effektive Kosten der Abschleppfirma nach Aufwand gemäss Rechnungsstellung</td><td></td></tr>
 <tr><td>c) Ausrücken des Abschleppwagens effektive Kosten der Abschleppfirma nach Aufwand gemäss Rechnungsstellung</td><td></td></tr>
-<tr><td>d) Sicherstellen eines Fahrzeugs mit Sheriff-Klammer</td><td>150</td></tr>
-<tr><td>e) Polizeilicher Verwaltungsaufwand beim Überführen von Kleinmotorrädern, Motorrädern und Motorwagen sowie beim Abschleppen und Sicherstellen nach lit. b.</td><td>190</td></tr>
+<tr><td>d) Sicherstellen eines Fahrzeugs mit Sheriff-Klammer oder Schliesskette</td><td>150</td></tr>
+<tr><td>e) Polizeilicher Verwaltungsaufwand beim Überführen von Kleinmotorrädern, Motorrädern, Motorwagen und Anhängern sowie beim Abschleppen dieser Fahrzeuge nach lit. b.</td><td></td></tr>
+<tr><td>ea) Grundgebühr</td><td>190</td></tr>
+<tr><td>eb) ausserordentlicher Aufwand; gemäss den Tarifen der PolV</td><td></td></tr>
+<tr><td>ebis) Polizeilicher Verwaltungsaufwand beim Überführen von Fahrrädern, Handwagen, Fahrradanhängern, Leicht-Motorfahrrädern und Motorfahrrädern sowie beim Abschleppen dieser Fahrzeuge nach lit. b</td><td>25</td></tr>
 <tr><td>f) Polizeilicher Verwaltungsaufwand im Rahmen einer Fahrzeugsicherstellung nach lit. d sowie in Fällen, in denen das Fahrzeug weggefahren wurde, bevor das Abschleppfahrzeug angefordert oder das angeforderte Abschleppfahrzeug eingesetzt wird.</td><td>130</td></tr>
 <tr><td>9. Standgebühr für polizeilich weggeschaffte Fahrzeuge pro Tag:</td><td></td></tr>
-<tr><td>a) Fahrräder und Motorfahrräder</td><td>3</td></tr>
-<tr><td>b) Motorräder bis und mit 125 ccm</td><td>6</td></tr>
-<tr><td>c) Motorräder mit mehr als 125 ccm</td><td>15</td></tr>
-<tr><td>d) Motorwagen, Lieferwagen und Anhänger</td><td>25</td></tr>
+<tr><td>a) Fahrräder, Handwagen, Fahrradanhänger, Leicht-Motorfahrräder und Motorfahrräder</td><td>5</td></tr>
+<tr><td>b) ...</td><td>...</td></tr>
+<tr><td>c) Kleinmotorräder, Motorräder und Motorradanhänger</td><td>15</td></tr>
+<tr><td>d) Leichte Motorwagen und Anhänger</td><td>25</td></tr>
 <tr><td>e) ...</td><td>...</td></tr>
 <tr><td>f) übrige Motorwagen</td><td>nach Aufwand</td></tr>
 <tr><td>10. Polizeiliche Prüfungs- und Verwertungsgebühren:</td><td></td></tr>
-<tr><td>a) Prüfung von Motorfahrrädern, pro Stunde</td><td>130</td></tr>
-<tr><td>b) Prüfung von Motorrädern, Motorwagen und Anhängern, pro Stunde</td><td>150</td></tr>
+<tr><td>a) Prüfung von Fahrzeugen; gemäss den Tarifen in der PolV</td><td></td></tr>
+<tr><td>b) ...</td><td>...</td></tr>
 <tr><td>c) Verwertungsgebühr (Verwaltungsaufwand) für:</td><td></td></tr>
-<tr><td>ca) Fahrräder</td><td>25</td></tr>
-<tr><td>cb) Motorfahrräder</td><td>35</td></tr>
-<tr><td>cc) Motorräder bis und mit 125 ccm</td><td>50</td></tr>
-<tr><td>cd) Motorräder mit mehr als 125 ccm</td><td>100</td></tr>
+<tr><td>ca) Einspurige Fahrräder</td><td>25</td></tr>
+<tr><td>cb) Handwagen, Fahrradanhänger, Leicht-Motorfahrräder, Motorfahrräder und mehrspurige Fahrräder</td><td>50</td></tr>
+<tr><td>cc) Kleinmotorräder, Motorräder und Motorradanhänger</td><td>100</td></tr>
+<tr><td>cd) ...</td><td></td></tr>
 <tr><td>ce) Motorwagen und Anhänger</td><td>200</td></tr>
 <tr><td>zuzüglich die effektiven Kosten der Verschrottungsfirma gemäss Rechnungsstellung.</td><td></td></tr>
 <tr><td>11. Kurzfristige Signalisation:</td><td></td></tr>
@@ -478,19 +495,19 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 <tr><td>a) massstäblicher Unfallplan</td><td>100</td></tr>
 <tr><td>b) Plan mit fotogrammetrischer Auswertung</td><td>nach Aufwand</td></tr>
 <tr><td>4. Fotos:</td><td></td></tr>
-<tr><td>a)[^23-1] unbearbeitete Bilder</td><td>20</td></tr>
-<tr><td>b) bearbeitete Bilder</td><td>40</td></tr>
-<tr><td>c) Pauschale ab 5 Bilder (unbearbeitet)</td><td>100</td></tr>
+<tr><td>a)[^23-2] pro Bild</td><td>20</td></tr>
+<tr><td>b)...</td><td></td></tr>
+<tr><td>c) Pauschale ab 5 Bilder</td><td>100</td></tr>
 <tr><td>5. Kopien ab technischen Datenträgern</td><td>20</td></tr>
 <tr><td>6. Expertisen über Verkehrsregelungsanlagen:</td><td></td></tr>
 <tr><td>a) einfache Fälle</td><td>200</td></tr>
-<tr><td>b) komplizierte Fälle</td><td>300</td></tr>
+<tr><td>b) komplizierte Fälle</td><td>nach Aufwand</td></tr>
 <tr><td>7. Alkohol- und Drogentest</td><td></td></tr>
 <tr><td>a) Atemluft- und Drogenvortest</td><td>60</td></tr>
 <tr><td>b) Beweissichere Atemalkoholprobe</td><td>340</td></tr>
 <tr><td>8. Weitergehende Ermittlungsmassnahmen (Expertisen, Auswertung von Datenträgern, Kollektiv und Radiomeldungen, Fahndungsmassnahmen, besondere Erhebungen usw.) nach Aufwand gemäss den Tarifen in der PolV.</td><td></td></tr>
 <tr><td>9. Rapportkopien:</td><td></td></tr>
-<tr><td>a) Verkehrsunfall</td><td>80</td></tr>
+<tr><td>a) Verkehrsunfall</td><td>100</td></tr>
 <tr><td>b) von Versicherungsgesellschaften können gemäss dem Ansatz nach lit. a approximativ entsprechende Jahrespauschalen erhoben werden.</td><td></td></tr>
 </table>
 
@@ -516,7 +533,8 @@ Bewilligungen, Bestätigungen und Bescheinigungen im Zusammenhang mit der Zulass
 - 4\. Bezüglich Verzugszinsen und Mahngebühren gelten die Bestimmungen in § 14b der Verordnung zum Gesetz über die Verwaltungsgebühren.
 - 5\. Für Kontrollen, bei welchen kein weiteres Handeln der kantonalen Behörden nötig ist und keine Massnahmen verfügt werden müssen, werden keine Gebühren erhoben.
 
-[^23-1]: § 23 Bst. C Ziff. 4 lit. a: Redaktionell berichtigt.
+[^23-1]: SG [510.110](https://db.clex.ch/link/SG/510.110/de) Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeiverordnung, PolV)
+[^23-2]: § 23 Bst. C Ziff. 4 lit. a: Redaktionell berichtigt.
 
 #### § 24
 
