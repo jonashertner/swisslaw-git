@@ -4,11 +4,11 @@ title: "Loi du 21 juin 2013 sur la protection des armoiries de la Suisse et des 
 short: LPAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20230701/fr"
 
 (Loi sur la protection des armoiries, LPAP)[^t-1]
 
-du 21 juin 2013 (État le 1<sup>er</sup> juillet 2023)
+du 21 juin 2013 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -353,20 +353,19 @@ Même en cas d’acquittement, le juge peut ordonner la confiscation ou la destr
 
 <sup>2</sup> L’IPI peut dénoncer une infraction auprès des autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.
 
-## Chapitre 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+## Chapitre 5 Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui‑ci
 
 [^chap5-1]
 
-[^chap5-1]: Nouvelle teneur selon le ch. I 5 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^chap5-1]: Nouvelle teneur selon le ch. I 7 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 32
 
-<sup>1</sup> Les art. 70 à 72*h* LPM[^32-1] s’appliquent par analogie à l’intervention de l’Office fédéral de la douane et de la sécurité des frontières (OFDF).[^32-2]
+<sup>1</sup> Les art. 70 à 72*i* LPM[^32-1] s’appliquent par analogie aux interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui‑ci.
 
-<sup>2</sup> Quiconque a qualité pour intenter une action civile selon les art. 20, 21 ou 22, peut présenter une demande d’intervention.
+<sup>2</sup> Quiconque a qualité pour intenter une action civile selon les art. 20, 21 ou 22 peut présenter une demande d’intervention*.*
 
 [^32-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^32-2]: Nouvelle teneur selon le ch. I 5 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -436,7 +435,7 @@ Annexe 1
 
 ## Les armoiries de la Confédération suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20250701/fr/xml/image/image1.png)
 
 Définition de la couleur rouge:
 
@@ -460,7 +459,7 @@ Annexe 2
 
 ## Le drapeau suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20250701/fr/xml/image/image2.png)
 
 Définition de la couleur rouge:
 
