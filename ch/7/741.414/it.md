@@ -4,11 +4,11 @@ title: "Ordinanza del 16 novembre 2016 concernente il riconoscimento delle omolo
 short: OETV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: it
-version: 2017-01-15
+version: 2025-07-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20170115/it/xml/fedlex-data-admin-ch-eli-cc-2016-822-20170115-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/it"
 
 (OETV 3)
 
-del 16 novembre 2016 (Stato 15 gennaio 2017)
+del 16 novembre 2016 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -69,7 +69,7 @@ Si applicano le definizioni dell’ordinanza del 19 giugno 1995[^3-1] concernent
 <sup>3</sup> Per l’applicazione delle normative internazionali elencate nell’allegato 2 OETV vigono le disposizioni transitorie di dette normative, fermo restando che per la data d’immatricolazione è determinante la data dell’importazione o della costruzione in Svizzera.
 
 [^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-2]: I regolamenti UNECE contenuti negli atti normativi UE citati sono disponibili gratuitamente sul sito web dell’UNECE www.unece.org/trans/welcome.html &gt; Vehicle Regulations &gt; UN Regulations (1958 Agreement) &gt; Regulations (Addenda to the 1958 Agreement) o possono essere richiesti, a pagamento, all’Ufficio federale delle strade, divisione Circolazione stradale, 3003 Berna.
+[^4-2]: I regolamenti UNECE contenuti negli atti normativi UE citati sono disponibili gratuitamente sul sito web dell’UNECE [www.unece.org](http://www.unece.org) &gt; Our Work &gt; Programmes &gt; Transport &gt; Vehicle Regulations &gt; Regulations &gt; UN Regulations (1958 Agreement) o possono essere richiesti, a pagamento, all’Ufficio federale delle strade, divisione Circolazione stradale, 3003 Berna.
 
 #### Art. 5
 
@@ -129,16 +129,18 @@ L’ordinanza del 2 settembre 1998[^9-1] concernente le esigenze tecniche per mo
 
 La presente ordinanza entra in vigore il 15 gennaio 2017.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 5)
 
 ## Classificazione dei veicoli secondo il diritto UE e il diritto svizzero
 
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 29](https://fedlex.data.admin.ch/eli/oc/2025/29)).
+
 <table>
 <tr><th>UE</th><th>Svizzera</th></tr>
-<tr><td>motociclo a due ruote (L3e)</td><td>motoveicolo (art. 14 lett. a OETV[^annex1-lvlu1-1])</td></tr>
-<tr><td>motociclo a due ruote con sidecar (L4e)</td><td>motoveicolo con carrozzino laterale (art. 14 lett. a OETV)</td></tr>
+<tr><td>motociclo a due ruote (L3e)</td><td>motoveicolo secondo l’articolo 14 lettera a OETV[^annex1-lvlu1-1] senza carrozzino laterale</td></tr>
+<tr><td>motociclo a due ruote con sidecar (L4e)</td><td>motoveicolo secondo l’articolo 14 lettera a OETV con carrozzino laterale</td></tr>
 <tr><td>veicolo a motore leggero a due ruote (L1e)</td><td>motoleggera (art. 14 lett. b OETV)</td></tr>
 <tr><td>ciclomotore a due ruote (L1e-B)</td><td>motoleggera</td></tr>
 <tr><td>ciclomotore a tre ruote (L2e)</td><td>motoleggera</td></tr>
@@ -149,12 +151,11 @@ Allegato 1
 <tr><td>quadrimobile leggera (L6e-B)</td><td>quadriciclo leggero a motore</td></tr>
 <tr><td>quadrimobile pesante (L7e)</td><td>quadriciclo a motore (art. 15 cpv. 3 OETV)</td></tr>
 <tr><td>quad da strada pesante (L7e-A)</td><td>quadriciclo a motore</td></tr>
-<tr><td>quad entro/fuori strada pesante (L7e-B)</td><td>quadriciclo a motore</td></tr>
+<tr><td>quad entro/fuori strada pesante (L7e‑B)</td><td>quadriciclo a motore</td></tr>
 <tr><td>quad entro/fuori strada (L7e-B1)</td><td>quadriciclo a motore</td></tr>
 <tr><td>buggy con sedili affiancati (L7e-B2)</td><td>quadriciclo a motore</td></tr>
 <tr><td>quadrimobile pesante (L7e-C)</td><td>quadriciclo a motore</td></tr>
-<tr><td>ciclo a propulsione (L1e-A), peso totale fino a 200 kg</td><td>ciclomotore leggero (art. 18 lett. b OETV) oppure ciclomotore (art. 18 lett. a OETV) oppure risciò elettrico (art. 14 lett. b n. 3 OETV)</td></tr>
-<tr><td>ciclo a propulsione (L1e-A), peso totale superiore a 200 kg</td><td>risciò elettrico (art. 14 lett. b n. 3 OETV)</td></tr>
+<tr><td>ciclo a propulsione (L1e-A)</td><td>ciclomotore leggero (art. 18 lett. b OETV) oppure ciclomotore veloce (art. 18 lett. a OETV) oppure ciclomotore pesante (art. 18 lett. e OETV)</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)

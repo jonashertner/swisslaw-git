@@ -4,11 +4,11 @@ title: "Ordonnance du 16 novembre 2016 concernant la reconnaissance des récepti
 short: OETV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: fr
-version: 2017-01-15
+version: 2025-07-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20170115/fr/xml/fedlex-data-admin-ch-eli-cc-2016-822-20170115-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/fr"
 
 (OETV 3)
 
-du 16 novembre 2016 (État le 15 janvier 2017)
+du 16 novembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -62,14 +62,14 @@ Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type de
 
 **Réglementations internationales**
 
-<sup>1</sup> S’agissant des actes de l’UE mentionnés dans la présente ordonnance, c’est la version indiquée à l’annexe 2 OETV qui s’applique[^4-1].
+<sup>1</sup> S’agissant des actes de l’UE mentionnés dans la présente ordonnance, c’estla version indiquée à l’annexe 2 OETV qui s’applique[^4-1].
 
 <sup>2</sup> Si lesdits actes de l’UE renvoient à des dispositions figurant dans d’autres actes de l’UE ou dans des règlements CEE-ONU[^4-2], les dispositions en question s’appliquent également; à cet égard, la version indiquée à l’annexe 2 OETV est déterminante.
 
 <sup>3</sup> S’agissant de l’application des réglementations internationales mentionnées à l’annexe 2 OETV, les dispositions transitoires desdites réglementations s’appliquent; toutefois, la date de l’importation ou de la construction en Suisse est déterminante pour l’immatriculation.
 
 [^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site www.unece.org &gt; Our Work &gt; Transport &gt; Vehicle Regulations &gt; UN Regulations (1958 Agreement) &gt; Regulations (Addenda to the 1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
+[^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site [www.unece.org](http://www.unece.org) &gt; Our Work &gt; Programmes &gt; Transport &gt; Vehicle Regulations &gt; Regulations &gt; UN Regulations (1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
 
 #### Art. 5
 
@@ -129,16 +129,18 @@ L’ordonnance du 2 septembre 1998 concernant les exigences techniques requises 
 
 La présente ordonnance entre en vigueur le 15 janvier 2017.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 5)
 
 ## Classification des véhicules d’après le droit de l’UE et le droit suisse
 
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 29](https://fedlex.data.admin.ch/eli/oc/2025/29)).
+
 <table>
 <tr><th>UE</th><th>Suisse</th></tr>
-<tr><td>motocycle à deux roues (L3e)</td><td>motocycle (art. 14, let. a, OETV[^annex1-lvlu1-1])</td></tr>
-<tr><td>motocycle à deux roues avec side-car (L4e)</td><td>motocycle avec side-car (art. 14, let. a, OETV)</td></tr>
+<tr><td>motocycle à deux roues (L3e)</td><td>motocycle au sens de l’art. 14, let. a, OETV[^annex1-lvlu1-1] sans side-car</td></tr>
+<tr><td>motocycle à deux roues avec side-car (L4e)</td><td>motocycle au sens de l’art. 14, let. a, OETV, avec side-car</td></tr>
 <tr><td>deux-roues motorisé léger (L1e)</td><td>motocycle léger (art. 14, let. b, OETV)</td></tr>
 <tr><td>cyclomoteur à deux roues (L1e-B)</td><td>motocycle léger</td></tr>
 <tr><td>cyclomoteur à trois roues (L2e)</td><td>motocycle léger</td></tr>
@@ -150,11 +152,10 @@ Annexe 1
 <tr><td>quadricycle lourd (L7e)</td><td>quadricycle à moteur (art. 15, al. 3, OETV)</td></tr>
 <tr><td>quad routier lourd (L7e-A)</td><td>quadricycle à moteur</td></tr>
 <tr><td>quad tout-terrain lourd (L7e-B)</td><td>quadricycle à moteur</td></tr>
-<tr><td>quad tout terrain (L7e-B1)</td><td>quadricycle à moteur</td></tr>
+<tr><td>quad tout-terrain (L7e-B1)</td><td>quadricycle à moteur</td></tr>
 <tr><td>buggy côte à côte (L7e-B2)</td><td>quadricycle à moteur</td></tr>
 <tr><td>quadrimobile lourd (L7e-C)</td><td>quadricycle à moteur</td></tr>
-<tr><td>vélo à moteur (L1e-A), poids total de 200 kg au max.</td><td>cyclomoteur (art. 18, let. a, OETV) ou cyclomoteur léger (art. 18, let. b, OETV) ou vélo-taxi électrique (art. 14, let. b, ch. 3, OETV)</td></tr>
-<tr><td>vélo à moteur (L1e-A), poids total supérieur à 200 kg</td><td>vélo-taxi électrique (art. 14, let. b, ch. 3, OETV)</td></tr>
+<tr><td>vélo à moteur (L1e-A)</td><td>cyclomoteur léger (art. 18, let. b, OETV) ou cyclomoteur rapide (art. 18, let. a, OETV) ou cyclomoteur lourd (art. 18, let. e, OETV)</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)

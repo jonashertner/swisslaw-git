@@ -4,11 +4,11 @@ title: "Verordnung vom 16. November 2016 über die Anerkennung von EU-Genehmigun
 short: TAFV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: de
-version: 2017-01-15
+version: 2025-07-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20170115/de/xml/fedlex-data-admin-ch-eli-cc-2016-822-20170115-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/de"
 
 (TAFV 3)
 
-vom 16. November 2016 (Stand am 15. Januar 2017)
+vom 16. November 2016 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -69,7 +69,7 @@ Es gelten die Begriffsbestimmungen der Verordnung vom 19. Juni 1995[^3-1] über 
 <sup>3</sup> Für die Anwendung der in Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird.
 
 [^4-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-2]: Textausgaben der UNECE-Reglemente können beim Bundesministerium für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland kostenlos abgerufen werden unter www.bmvi.de &gt; Verkehr und Mobilität &gt; Verkehrsteilnehmer &gt; Fahrzeuge &gt; KfZ‑technische Vorschriften &gt; UN/ECE-Regelungen, oder sie können gegen Bezahlung bezogen werden beim Bundesamt für Strassen, Abteilung Strassenverkehr, 3003 Bern.
+[^4-2]: Textausgaben der UNECE-Reglemente können beim Bundesministerium für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland kostenlos abgerufen werden unter [www.bmvi.de](http://www.bmvi.de) &gt; Verkehr und Mobilität &gt; Verkehrsteilnehmer &gt; Fahrzeuge &gt; KfZ‑technische Vorschriften &gt; UN/ECE-Regelungen, oder sie können gegen Bezahlung bezogen werden beim Bundesamt für Strassen, Abteilung Strassenverkehr, 3003 Bern.
 
 #### Art. 5
 
@@ -129,16 +129,18 @@ Die Verordnung vom 2. September 1998[^9-1] über technische Anforderungen an Mot
 
 Diese Verordnung tritt am 15. Januar 2017 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 5)
 
 ## Fahrzeugeinteilung nach EU- und nach Schweizer Recht
 
+[^t-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 29](https://fedlex.data.admin.ch/eli/oc/2025/29)).
+
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
-<tr><td>zweirädriges Kraftrad (L3e)</td><td>Motorrad (Art. 14 Bst. a VTS[^annex1-lvlu1-1])</td></tr>
-<tr><td>zweirädriges Kraftrad mit Beiwagen (L4e)</td><td>Motorrad mit Seitenwagen (Art. 14 Bst. a VTS)</td></tr>
+<tr><td>zweirädriges Kraftrad (L3e)</td><td>Motorrad nach Artikel 14 Buchstabe a VTS[^annex1-lvlu1-1] ohne Seitenwagen</td></tr>
+<tr><td>zweirädriges Kraftrad mit Beiwagen (L4e)</td><td>Motorrad nach Artikel 14 Buchstabe a VTS mit Seitenwagen</td></tr>
 <tr><td>leichtes zweirädriges Kraftfahrzeug (L1e)</td><td>Kleinmotorrad (Art. 14 Bst. b VTS)</td></tr>
 <tr><td>zweirädriges Kleinkraftrad (L1e-B)</td><td>Kleinmotorrad</td></tr>
 <tr><td>dreirädriges Kleinkraftrad (L2e)</td><td>Kleinmotorrad</td></tr>
@@ -153,8 +155,7 @@ Anhang 1
 <tr><td>Gelände-Quad (L7e-B1)</td><td>Kleinmotorfahrzeug</td></tr>
 <tr><td>Side-by-Side-Buggy (L7e-B2)</td><td>Kleinmotorfahrzeug</td></tr>
 <tr><td>schweres Vierradmobil (L7e-C)</td><td>Kleinmotorfahrzeug</td></tr>
-<tr><td>Fahrrad mit Antriebssystem (L1e-A), Gesamtgewicht von höchstens 200 kg</td><td>Leicht-Motorfahrrad (Art. 18 Bst. b VTS) oder Motorfahrrad (Art. 18 Bst. a VTS) oder Elektro-Rikscha (Art. 14 Bst. b Ziff. 3 VTS)</td></tr>
-<tr><td>Fahrrad mit Antriebssystem (L1e-A), Gesamtgewicht über 200 kg</td><td>Elektro-Rikscha (Art. 14 Bst. b Ziff. 3 VTS)</td></tr>
+<tr><td>Fahrrad mit Antriebssystem (L1e-A),</td><td>Leicht-Motorfahrrad (Art. 18 Bst. b VTS) oder schnelles Motorfahrrad (Art. 18 Bst. a VTS) oder schweres Motorfahrrad (Art. 18 Bst. e VTS)</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
