@@ -4,13 +4,13 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2024-07-15
-valid_until: 2025-06-30
-version_adopted: 2024-07-15
+version: 2025-07-01
+valid_until: 2025-08-31
+version_adopted: 2025-07-01
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/2301/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2301/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 15.07.2024)
+vom 06.07.2021 (Stand 01.07.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -41,7 +41,7 @@ beschliesst:
 
 <sup>1</sup> Jagdbar sind: Hirschstiere, Hirschkühe und Hirschkälber.
 
-<sup>2</sup> Das säugende Muttertier ist geschützt, sofern nicht unmittelbar nach dem Abschuss des Kalbs das dazugehörige Muttertier von derselben Jägerin oder demselben Jäger erlegt wird.
+<sup>2</sup> Das säugende Muttertier ist geschützt, sofern nicht unmittelbar nach dem Abschuss des Kalbs das dazugehörige Muttertier erlegt wird. Das Jungtier ist vor dem Muttertier zu erlegen. Bei Kahlwildrudeln müssen die Jungtiere zuerst erlegt werden.
 
 <sup>3</sup> Der Vorsteher des Bau- und Umweltdepartements kann eine Sonderjagd anordnen.
 
@@ -97,7 +97,7 @@ beschliesst:
 
 <sup>2</sup> Als beidseitige Kronenhirsche gelten Hirsche, deren Stangen drei oder mehr Enden über der Mittelsprosse aufweisen. Als einseitige Kronenhirsche gelten Hirsche, welche an einer Stange drei oder mehr Enden über der Mittelsprosse aufweisen. Als Enden der Krone gelten Erhebungen von 5cm und mehr über der Stangenoberfläche. Gemessen wird die kürzeste Distanz von der Stangenoberfläche beim Ansatz bis zur Spitze. Die Länge der Stange wird an der Aussenseite, von der Rose bis zum längsten Ende gemessen.
 
-<sup>3</sup> Die Wildhut sorgt im Bedarfsfall durch eigene Abschüsse dafür, dass die geplanten Abschusszahlen von weiblichen Hirschtieren und Kälbern (Kahlwild) im eidgenössischen Jagdbanngebiet erreicht werden.
+<sup>3</sup> Das Amt für Umwelt sorgt im Bedarfsfall durch eigene Abschüsse im eidgenössischen Jagdbanngebiet dafür, dass die geplanten Abschusszahlen von weiblichen Hirschtieren und Kälbern (Kahlwild) erreicht werden.
 
 #### Art. 10
 
@@ -117,7 +117,7 @@ beschliesst:
 
 <sup>7</sup> Sämtliche Nachsuchen sind vor dem Beginn der Wildhut zu melden.
 
-<sup>8</sup> Das gesamte Rotwild und die Gamsgeissen unterliegen der Vorweispflicht und sind in den Kühlraum der Jagdverwaltung an der Mettlenstrasse 23 in Appenzell zu hängen. Das Tier ist dort gemäss der aufgelegten Deklarationskarte zu deklarieren. Nach erfolgter Tierabnahme wird das Tier für die Freigabe schriftlich bezeichnet.
+<sup>8</sup> Das gesamte Rot- und Schwarzwild und die Gamsgeissen unterliegen der Vorweispflicht und sind in den Kühlraum der Jagdverwaltung an der Mettlenstrasse 23 in Appenzell zu hängen. Das Tier ist dort gemäss der aufgelegten Deklarationskarte zu deklarieren. Nach erfolgter Tierabnahme wird das Tier für die Freigabe schriftlich bezeichnet.
 
 <sup>9</sup> Während der dritten Hochwildjagdwoche darf die Hochwildjagd nur ausserhalb des Rotwildlebensraums gemäss grünem Bereich der Karte im Anhang ausgeübt werden. Es dürfen Gamswild, Rehwild, Schwarzwild, Murmeltiere, Füchse, Dachse, Waschbären und Marderhunde erlegt werden.
 
@@ -243,23 +243,23 @@ beschliesst:
 
 <sup>1</sup> Die Grundtaxe für die Hochwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 550.--.
 
-<sup>2</sup> Die Grundtaxe für die Hochwildjagd für Ausserkantonale beträgt Fr. 1'375.--.
+<sup>2</sup> …
 
 <sup>3</sup> Die Grundtaxe für die Niederwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 500.--.
 
-<sup>4</sup> Die Grundtaxe für die Niederwildjagd für Ausserkantonale beträgt Fr. 1'250.--.
+<sup>4</sup> …
 
-<sup>5</sup> Der Wildschadenbeitrag beträgt Fr. 20.--, die Hegebeiträge Fr. 100.--. Für Ausserkantonale wird darauf ein Zuschlag von 100% erhoben.
+<sup>5</sup> Der Wildschadenbeitrag beträgt Fr. 20.--, die Hegebeiträge Fr. 100.--.
 
 #### Art. 26
 
 **Anmeldegebühren**
 
-<sup>1</sup> Die Gebühr für die Anmeldung an die Hoch- und Niederwildjagd beträgt Fr. 25.--. Wird nur ein Patent gelöst, beträgt sie Fr. 15.--. Für Ausserkantonale wird darauf ein Zuschlag von 100% erhoben.
+<sup>1</sup> Die Gebühr für die Anmeldung an die Hoch- und Niederwildjagd beträgt Fr. 25.--. Wird nur ein Patent gelöst, beträgt sie Fr. 15.--.
 
 <sup>2</sup> Für eine Gästebewilligung wird eine Gebühr von Fr. 100.-- je Patent erhoben.
 
-<sup>3</sup> Für die verspätete Jagdanmeldung wird eine Gebühr von Fr. 100.-- erhoben. Für Ausserkantonale wird darauf ein Zuschlag von Fr. 100.-- erhoben.
+<sup>3</sup> Für die verspätete Jagdanmeldung wird eine Gebühr von Fr. 100.-- erhoben.
 
 #### Art. 27
 
@@ -279,7 +279,7 @@ beschliesst:
 
 **Deklarationszeiten**
 
-<sup>1</sup> Deklarationspflichtige Tiere sind innert 24 Stunden nach Erlegung bei der Deklarationsstelle in Appenzell oder in Oberegg bei der freiwilligen Jagdaufseherin oder beim freiwilligen Jagdaufseher zu deklarieren. Deklarationspflichtige Tiere sind wahrheitsgetreu nach den verlangten Angaben bei der Jagdabnahmestelle zu deklarieren.
+<sup>1</sup> Deklarationspflichtige Tiere sind innert 24 Stunden nach Erlegung bei der Deklarationsstelle in Appenzell oder in Oberegg bei der freiwilligen Jagdhelferin oder beim freiwilligen Jagdhelfer zu deklarieren. Deklarationspflichtige Tiere sind wahrheitsgetreu nach den verlangten Angaben bei der Jagdabnahmestelle zu deklarieren.
 
 <sup>2</sup> Bei Fehlabschüssen muss mit der Wildhut ein Termin vereinbart werden.
 
@@ -293,17 +293,19 @@ beschliesst:
 
 #### Art. 31
 
-**Hochsitze**
+**Hochsitze und Fotofallen**
 
 <sup>1</sup> Hochsitze sind einfach zu halten und dürfen nur das für die Jagd Notwendige umfassen.
 
-<sup>2</sup> Bevor ein Hochsitz erstellt werden darf, muss die schriftliche Einwilligung der Grundeigentümerschaft vorliegen.
+<sup>2</sup> Bevor ein Hochsitz erstellt werden darf, muss die schriftliche Einwilligung der Grundeigentümerschaft vorliegen und dem Amt für Umwelt gemeldet werden.
+
+<sup>3</sup> Fotofallen dürfen nur mit Zustimmung der Grundeigentümerschaft installiert werden. Jede Fotofalle muss gut sichtbar mit dem vollständigen Namen und der Telefonnummer des Erstellers beschriftet sein.
 
 #### Art. 32
 
 **Irrtumsabschüsse**
 
-<sup>1</sup> Sämtliche Tiere, die irrtümlich erlegt wurden oder als ersatzmarkenberechtigte Abschüsse gelten, sind der Wildhut vorzuweisen.
+<sup>1</sup> Sämtliche Tiere, die irrtümlich erlegt wurden oder als ersatzberechtigte Abschüsse gelten, sind der Wildhut vorzuweisen.
 
 <sup>2</sup> Zur Bestimmung des Gewichts werden die Tiere samt Haupt und sauber aufgebrochen gewogen. Zudem darf das Gesäuge weder durchschnitten noch herausgeschnitten sein. Die Jägerin oder der Jäger hat das Tier in diesem Zustand vorzuweisen.
 
@@ -311,7 +313,7 @@ beschliesst:
 
 <sup>4</sup> Verletzte Tiere müssen der Wildhut vorgewiesen werden, wenn ein Ersatzabschuss gewünscht wird.
 
-<sup>5</sup> Trophäen von irrtümlich erlegtem Wild werden eingezogen und sind Eigentum des Kantons. Über die Trophäen von erlegten Tieren, welche krank oder verletzt waren, entscheidet die Wildhut. Das Wildbret kann, sofern das Tier nicht eingezogen wird, käuflich erworben werden.
+<sup>5</sup> Trophäen von irrtümlich erlegtem Wild werden eingezogen und sind Eigentum des Kantons. Über die Trophäen von erlegten Tieren, welche krank oder verletzt waren, entscheidet die Wildhut. Das Wildbret muss, sofern das Tier nicht eingezogen wird, käuflich erworben werden.
 
 #### Art. 33
 
@@ -337,6 +339,6 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieser Beschluss tritt am 15. Juli 2021 in Kraft.
+<sup>1</sup> Dieser Beschluss tritt am 1. Juli 2025 in Kraft.
 
 cGS 2021-19
