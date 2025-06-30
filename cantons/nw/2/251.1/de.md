@@ -4,13 +4,12 @@ number: "251.1"
 title: Gesetz über das kantonale Strafrecht
 short: "Kantonales Strafgesetz, kStG"
 language: de
-version: 2024-12-01
-valid_until: 2025-06-30
-version_adopted: 2024-06-26
+version: 2025-07-01
+version_adopted: 2025-02-19
 adopted: 2016-06-29
 in_force: 2017-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/251.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1308/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1308/pdf_file"
 
 (Kantonales Strafgesetz, kStG)
 
-vom 29.06.2016 (Stand 01.12.2024)
+vom 29.06.2016 (Stand 01.07.2025)
 
 Der Landrat von Nidwalden,
 
@@ -66,9 +65,10 @@ beschliesst:
 
 **Strafverfahren**
 
-<sup>1</sup> Das Strafverfahren, einschliesslich des Ordnungsbussenverfahrens, richtet sich nach den Bestimmungen des Gerichtsgesetzes[^5-1].
+<sup>1</sup> Das Strafverfahren richtet sich unter dem Vorbehalt der kantonalen Ordnungsbussengesetzgebung[^5-1] nach den Bestimmungen des Gerichtsgesetzes[^5-2].
 
-[^5-1]: NG 261.1
+[^5-1]: NG 261.3
+[^5-2]: NG 261.1
 
 ## 2 Übertretungen
 
