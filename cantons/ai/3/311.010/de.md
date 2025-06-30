@@ -4,13 +4,12 @@ number: "311.010"
 title: Verordnung über die Ordnungsbussen
 short: VOB
 language: de
-version: 2023-08-01
-valid_until: 2025-06-30
-version_adopted: 2023-06-19
+version: 2025-07-01
+version_adopted: 2025-03-31
 adopted: 2022-06-20
 in_force: 2022-06-20
 url: "https://ai.clex.ch/app/de/texts_of_law/311.010"
-pdf: "https://ai.clex.ch/api/de/versions/2235/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2235/pdf_file"
 
 (VOB)
 
-vom 20.06.2022 (Stand 01.08.2023)
+vom 20.06.2022 (Stand 01.07.2025)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
