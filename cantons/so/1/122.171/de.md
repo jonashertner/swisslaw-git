@@ -3,20 +3,19 @@ canton: SO
 number: "122.171"
 title: Vereinbarung über die Nordwestschweizer Regierungskonferenz
 language: de
-version: 2012-07-01
-valid_until: 2025-06-30
-version_adopted: 2012-06-08
+version: 2025-07-01
+version_adopted: 2025-06-13
 adopted: 2004-06-11
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.171"
-pdf: "https://bgs.so.ch/api/de/versions/5555/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5556/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Nordwestschweizer Regierungskonferenz
 
-Vom 11.06.2004 (Stand 01.07.2012)
+Vom 11.06.2004 (Stand 01.07.2025)
 
 Die Regierungen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura
 
@@ -57,6 +56,8 @@ schliessen folgende Vereinbarung ab:
 
 <sup>3</sup> Die Behandlung von dringenden Fragen erfolgt im Rahmen des Arbeitsausschusses.
 
+<sup>4</sup> Der Arbeitsausschuss kann eine ausserordentliche Plenarkonferenz einberufen oder einen Zirkularbeschluss aller fünf Regierungen anstreben.
+
 #### § 5
 
 <sup>1</sup> Die Plenarkonferenz wählt im Turnus unter den Kantonen Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura ein Regierungsmitglied als Vorsitzenden oder als Vorsitzende. Der stellvertretende Vorsitz wird durch den nachfolgenden Vorsitzkanton wahrgenommen.
@@ -83,7 +84,7 @@ schliessen folgende Vereinbarung ab:
 
 <sup>4</sup> Zur Behandlung einzelner Geschäfte kann der Arbeitsausschuss Arbeitsgruppen oder Beauftragte einsetzen.
 
-<sup>5</sup> Der Vorsitzende wird in den Leitenden Ausschuss der Konferenz der Kantonsregierungen delegiert.
+<sup>5</sup> Der Arbeitsausschuss delegiert eines seiner Mitglieder jeweils für maximal vier Jahre in den Leitenden Ausschuss der Konferenz der Kantonsregierungen.
 
 #### § 8
 
