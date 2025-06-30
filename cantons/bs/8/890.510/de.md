@@ -1,224 +1,187 @@
 ---
 canton: BS
 number: "890.510"
-title: Verordnung zum Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern
-short: "Mietbeitragsverordnung, MIVO"
+title: Verordnung zum Gesetz über die Ausrichtung von Mietbeiträgen
+short: "Mietbeitragsverordnung, MBVO"
 language: de
-version: 2023-01-01
-valid_until: 2025-06-30
-version_adopted: 2022-12-06
+version: 2025-07-01
+version_adopted: 2025-06-24
 adopted: 2025-06-24
 in_force: 2025-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.510"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5764/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern
+# Verordnung zum Gesetz über die Ausrichtung von Mietbeiträgen
 
-Mietzinsbeitragsverordnung | Sozialhilfe / Sozialbeiträge
+Sozialhilfe / Sozialbeiträge
 
-(Mietbeitragsverordnung, MIVO)
+(Mietbeitragsverordnung, MBVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2023)
+Vom 24. Juni 2025 (Stand 1. Juli 2025)
 
-Der Regierungsrat,
+Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf das Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern (Mietbeitragsgesetz, MBG) vom 21. November 1990[^ingress-1] sowie das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008[^ingress-2],
+gestützt auf das Gesetz über die Ausrichtung von Mietbeiträgen (Mietbeitragsgesetz, MBG) vom 12. Februar 2025[^ingress-1], unter Verweis auf seine Erläuterungen Nr. [P250895](https://www.bs.ch/regierungsratsbeschluesse/P250895?backUrl=/apps/regierungsratsbeschluesse?text=250895),
 
 beschliesst:
 
-[^ingress-1]: SG [890.500](https://www.gesetzessammlung.bs.ch/data/890.500/de).
-[^ingress-2]: SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de).
+[^ingress-1]: SG [890.500](https://www.gesetzessammlung.bs.ch/data/890.500/de)
 
-## I. Definitionen
+## 1. Anspruchsermittlung
 
 #### § 1
 
-**Familien mit Kindern**
+**Höhe des Mietbeitrags und Auszahlung**
 
-<sup>1</sup> Familien mit Kindern im Sinne des Mietbeitragsgesetzes umfassen mindestens einen Elternteil mit einem Kind.
+<sup>1</sup> Die Ermittlung des Beitrags richtet sich nach den Bestimmungen von § 3 Abs. 1 und 2 MBG.
 
-<sup>2</sup> Mindestens ein Kind muss sich überwiegend in der elterlichen Wohnung aufhalten.
+<sup>2</sup> Übt ein getrennt lebender oder geschiedener Elternteil ein regelmässiges Besuchsrecht aus oder liegt eine alternierende Obhut vor, erfolgt die Berechnung der Mietbeiträge für diesen Elternteil wie bei einer Haushaltseinheit gemäss § 5 des Gesetzes über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (SoHaG) vom 25. Juni 2008[^1-1] mit einem oder mehreren Kindern.
 
-<sup>3</sup> Ein Kind kann nur einer Haushaltseinheit gemäss § 5 SoHaG zugeordnet werden.
+<sup>3</sup> Die Höhe der Mietbeiträge kann der Mietbeitragstabelle im Anhang 1 zu dieser Verordnung entnommen werden. Der Anspruch beträgt höchstens Fr. 12'720 pro Jahr. Bei Beiträgen unter Fr. 600 jährlich besteht weder ein Anspruch auf Auszahlung noch auf eine spätere Verrechnung.
 
-<sup>4</sup> Bei gemeinsamer Sorge mit alternierender Obhut gemäss Art. 298 Abs. 2<sup>ter</sup> und Art. 298b Abs. 3<sup>ter</sup> des Schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907 teilen die Eltern dem Amt für Sozialbeiträge gemeinsam mit, welcher Haushaltseinheit gemäss § 5 SoHaG das Kind zugeordnet werden soll.
+<sup>4</sup> Die Mietbeiträge werden monatlich in Höhe eines Zwölftels des jährlichen Anspruchs ausgerichtet.
 
-<sup>5</sup> Bei einer Fremdplatzierung des einzigen Kindes oder aller Kinder besteht während zwölf Monaten ab Datum der erstmaligen Platzierung ein Anspruch auf den Mietzinsbeitrag, falls die übrigen Voraussetzungen erfüllt sind.
+[^1-1]: SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de)
 
 #### § 2
 
-**Wohnsitz**
+**Mietzins bei Wohngemeinschaften**
 
-<sup>1</sup> Wohnsitz im Kanton Basel-Stadt hat, wer nach den Bestimmungen des Schweizerischen Zivilgesetzbuches im Kanton wohnt und angemeldet ist.
+<sup>1</sup> Wohnen mehrere Haushaltseinheiten gemäss § 5 SoHaG in derselben Wohnung, gelten als Nettomieten der einzelnen Haushaltseinheiten die jeweils vertraglich vereinbarten Mietzinse. Bei Vorliegen eines Hauptmietverhältnisses wird die Nettomiete der entsprechenden Haushaltseinheit um die vertraglich vereinbarten Untermietzinse reduziert.
 
-## II. Anspruchsvoraussetzungen
+<sup>2</sup> Liegt kein vereinbarter Mietzins vor, wird die Nettomiete anteilsmässig nach der Anzahl Personen pro Haushaltseinheit bestimmt.
 
 #### § 3
 
-**Wohnsitzdauer**
+**Nebenkostenpauschale**
 
-<sup>1</sup> Familien können Mietzinsbeiträge gemäss Mietbeitragsgesetz beantragen, sofern ein Elternteil unmittelbar vor Antragsstellung ununterbrochen während mindestens 5 Jahren im Kanton Basel-Stadt Wohnsitz hatte.
+<sup>1</sup> Für die Nebenkosten werden folgende Pauschalen berücksichtigt:
+
+- a) Wohnungen mit einem Zimmer: Fr. 1’800 jährlich bzw. Fr. 150 monatlich;
+- b) Wohnungen mit zwei Zimmern: Fr. 2’160 jährlich bzw. Fr. 180 monatlich;
+- c) Wohnungen mit drei Zimmern: Fr. 2’520 jährlich bzw. Fr. 210 monatlich;
+- d) Wohnungen mit vier Zimmern: Fr. 2’880 jährlich bzw. Fr. 240 monatlich;
+- e) Wohnungen mit fünf und mehr Zimmern: Fr. 3’240 jährlich bzw. Fr. 270 monatlich.
+
+<sup>2</sup> Sind die Nebenkosten im vertraglich festgelegten Mietzins eingeschlossen, werden 85 Prozent desselben, zuzüglich einer Pauschale für Nebenkosten gemäss Abs. 1, als massgebender Mietzins berücksichtigt.
+
+<sup>3</sup> Sind bei möblierten Wohnungen die Nebenkosten im vertraglich festgelegten Mietzins eingeschlossen, werden 65 Prozent desselben, zuzüglich einer Pauschale für Nebenkosten gemäss Abs. 1, als massgebender Mietzins berücksichtigt.
 
 #### § 4
 
-**Wohnungsbelegung**
+**Mietzinsgrenzen**
 
-<sup>1</sup> In Wohnungen mit mehr als zwei Zimmern besteht ein Anspruch auf Mietzinsbeiträge, wenn die Zahl der Zimmer die Zahl der Mitglieder der Haushaltseinheit gemäss § 5 SoHaG nicht übersteigt.
+<sup>1</sup> Es gelten folgende jährliche Mindest- und Höchstmietzinsgrenzen (Werte in Fr.):
 
-<sup>2</sup> Besteht die Haushaltseinheit gemäss § 5 SoHaG aus einem Elternteil mit einem Kind oder mehreren Kindern, wird der Mietzinsbeitrag auch gewährt, wenn die Zahl der Zimmer die Zahl der Mitglieder der Haushaltseinheit um ein Zimmer übersteigt.
+<table>
+<tr><th>Anzahl Zimmer je Wohnung</th><th>Mindestmietzins jährlich</th><th>Höchstmietzins jährlich</th></tr>
+<tr><td>1</td><td>5'520</td><td>11'520</td></tr>
+<tr><td>2</td><td>6’720</td><td>15’120</td></tr>
+<tr><td>3</td><td>7’920</td><td>19’920</td></tr>
+<tr><td>4</td><td>9’120</td><td>23’520</td></tr>
+<tr><td>5 und mehr</td><td>10’320</td><td>28’320</td></tr>
+</table>
 
-<sup>3</sup> Besteht bei einer Wohnung, für die Mietzinsbeiträge ausgerichtet werden, ein erhebliches Missverhältnis zwischen Quadratmeterzahl und Anzahl Zimmer, kann das Amt für Sozialbeiträge der Beitragsberechnung eine von der effektiven Zimmerzahl abweichende Anzahl Zimmer zugrunde legen. Das Amt für Sozialbeiträge regelt die Einzelheiten mittels Weisung.
+<sup>2</sup> Liegt der massgebende Mietzins gemäss § 3 Abs. 2 MBG unterhalb des Mindestmietzinses gemäss Abs. 1, besteht kein Anspruch auf Mietbeiträge.
+
+<sup>3</sup> Liegt der massgebende Mietzins oberhalb des Höchstmietzinses gemäss Abs. 1, gilt letzterer als massgebender Mietzins.
+
+## 2. Wohnungsbelegung
 
 #### § 5
 
-**Veränderung der Wohnungsbelegung während der Beitragsdauer**
+**Allgemeines**
 
-<sup>1</sup> Übersteigt während der Beitragsdauer die Zahl der Zimmer die Zahl der Mitglieder der Haushaltseinheit um ein Zimmer, besteht noch während einem halben Jahr Anspruch auf den Mietzinsbeitrag, sofern die aktuellen Einkommensverhältnisse weiterhin zu einem solchen berechtigen.
-
-<sup>2</sup> Übersteigt während der Beitragsdauer die Zahl der Zimmer die Zahl der Mitglieder der Haushaltseinheit um mehr als ein Zimmer, entfällt der Anspruch auf Mietzinsbeiträge auf den nächsten Wohnungskündigungstermin.
-
-## III. Anspruchsermittlung
+<sup>1</sup> Besteht ein erhebliches Missverhältnis zwischen der Fläche (Quadratmeter) und der Anzahl Zimmer, gilt für die Einhaltung der Belegungsvorschriften eine von der effektiven Zimmerzahl abweichende Anzahl Zimmer gemäss Anhang 2 zu dieser Verordnung.
 
 #### § 6
 
-**Anspruchsermittlung und Anspruchsberechnung**
+**Anzahl Zimmer**
 
-<sup>1</sup> Grundlage für die Ermittlung und Berechnung des Anspruchs auf Mietzinsbeiträge bilden das Harmonisierungsgesetz Sozialleistungen (SoHaG) vom 25. Juni 2008 sowie die Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (SoHaV) vom 25. November 2008.
+<sup>1</sup> Besteht die Haushaltseinheit gemäss § 5 SoHaG aus einem Elternteil mit einem Kind oder mehreren Kindern, wird der Mietbeitrag in Abweichung von § 5 Abs.1 Satz 1 MBG auch gewährt, wenn die Zahl der belegten Zimmer der Wohnung die Zahl der Mitglieder der Haushaltseinheit um ein Zimmer übersteigt.
+
+<sup>2</sup> Das Gleiche gilt, wenn die Haushaltseinheit gemäss § 5 SoHaG aus zwei Personen ohne Kinder besteht.
 
 #### § 7
 
-**Höhe des individuellen Mietzinsbeitrags**
+**Wohngemeinschaften**
 
-<sup>1</sup> Die Höhe des individuellen Mietzinsbeitrags hängt vom massgeblichen Einkommen der Haushaltseinheit gemäss § 6 Abs. 2 lit. c SoHaG, von der Anzahl Zimmer der Wohnung, vom massgebenden Mietzins gemäss § 11 dieser Verordnung sowie von der Anzahl Personen pro Haushaltseinheit ab und kann der Mietzinsbeitragstabelle im Anhang dieser Verordnung entnommen werden.
-
-<sup>2</sup> Zwischenwerte werden linear interpoliert (ermittelt) und gerundet.
+<sup>1</sup> Wohnen mehrere Haushaltseinheiten gemäss § 5 SoHaG in einer Wohnung, muss die Belegung nach § 5 Abs. 1 MBG sowie nach § 6 dieser Verordnung für die einzelnen Haushaltseinheiten und den von diesen belegten Zimmern erfüllt sein.
 
 #### § 8
 
-**Maximaler jährlicher Mietzinsbeitrag**
+**Veränderung der Wohnungsbelegung**
 
-<sup>1</sup> Der Mietzinsbeitrag beträgt höchstens CHF 12'720 pro Jahr.
+<sup>1</sup> Wird während der Beitragsdauer infolge Auszugs oder Ausscheidens einer Person aus der Haushaltseinheit gemäss § 5 SoHaG die Belegungszahl an zulässigen Zimmern für die Haushaltseinheit überschritten, besteht bei sonst erfüllten Voraussetzungen noch während sechs Monaten Anspruch auf Mietbeiträge.
+
+<sup>2</sup> Das Gleiche gilt sinngemäss bei einem Wegfall des regelmässigen Besuchsrechts oder der alternierenden Obhut.
+
+## 3. Weitere Bestimmungen
 
 #### § 9
 
-**Koordination mit Mietzinsbeiträgen des Bundesrechts**
+**Sicherstellung der bestimmungsgemässen Verwendung**
 
-<sup>1</sup> Werden für eine Wohnung Mietzinsbeiträge gemäss Bundesrecht bezogen, werden diese an das massgebliche Einkommen gemäss § 6 Abs. 2 lit. c SoHaG angerechnet.
+<sup>1</sup> Keine bestimmungsgemässe Verwendung der Mietbeiträge liegt insbesondere vor, wenn die Miete nicht oder nur teilweise bezahlt oder nicht in Geldform geleistet wird.
 
-<sup>2</sup> Beim Bezug von Ergänzungsleistungen und/oder Beihilfen zurAHV/IV besteht ein Anspruch auf Mietzinsbeiträge, sofern der massgebende Mietzins gemäss § 11 dieser Verordnung die für die Berechnung des Anspruchs auf Ergänzungsleistungen und/oder Beihilfen massgeblichen Mietzinsgrenzen gemäss Art. 10 Abs. 1 lit. b des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) vom 6. Oktober 2006 überschreitet.
-
-<sup>3</sup> Wird gestützt auf Abs. 2 ein Mietzinsbeitrag gemäss § 7 dieser Verordnungermittelt, wird dieser höchstens in der Höhe der Differenz zwischen den massgeblichen Mietzinsgrenzen gemäss Art. 10 Abs. 1 lit. b ELG und dem massgeblichen Mietzins gemäss § 11 dieser Verordnung ausgerichtet.
+<sup>2</sup> Nach Feststellung einer nicht bestimmungsgemässen Verwendung wird die Auszahlung der Mietbeiträge nach Aufforderung vorsorglich bis zur Wiederaufnahme der bestimmungsgemässen Verwendung eingestellt oder erfolgt mit Einverständnis der beitragsberechtigten Personen direkt an die vermietende Person.
 
 #### § 10
 
-**Änderungen in den massgeblichen Verhältnissen**
+**Verhältnis zu Sozialhilfe-, Ergänzungs- und Überbrückungsleistungen**
 
-<sup>1</sup> Zusätzlich zu den in § 38 Abs. 1 SoHaV genannten meldepflichtigen Veränderungen in den für den Anspruch auf Mietzinsbeiträge massgeblichen Verhältnissen sind von den anspruchsberechtigten Personen im Rahmen dieser Verordnung folgende weiteren Veränderungen zu melden:
+<sup>1</sup> Der Anspruch auf Mietbeiträge besteht ab dem ersten Tag nach dem Monatsende der Ablösung von der Sozialhilfe, den Ergänzungsleistungen oder den Überbrückungsleistungen, sofern der Antrag innert zwei Monaten seit der Ablösung eingereicht wird. Besteht ein neuer Anspruch auf eine dieser Leistungen, werden die Mietbeiträge auf das Ende des Vormonats des neuen Anspruchs eingestellt.
 
-- a) Mietzinsänderungen,
-- b) Wohnungskündigungen,
-- c) Wohnungswechsel,
-- d) Wegzug,
-- e) Unterstützung durch die öffentliche Sozialhilfe.
+<sup>2</sup> Beziehen nur Kinder im Sinne von § 2 der Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (SoHaV) vom 25. November 2008[^10-1] Leistungen gemäss Abs. 1, so besteht bei sonst erfüllten Voraussetzungen ein Anspruch auf Mietbeiträge für die Haushaltseinheit gemäss § 5 SoHaG.
 
-<sup>2</sup> Die Meldung gemäss Abs. 1 hat innerhalb eines Monats nach Eintritt der Veränderung an das Amt für Sozialbeiträge zu erfolgen.
+<sup>3</sup> Dasselbe gilt bei einer Haushaltseinheit gemäss § SoHaG mit mehreren Personen, wenn nur eine erwachsene Person Leistungen gemäss Abs. 1 bezieht und die andere Person oder die anderen Personen nicht anspruchsberechtigt sind.
+
+[^10-1]: SG [890.710](https://www.gesetzessammlung.bs.ch/data/890.710/de)
 
 #### § 11
 
-**Massgebender Mietzins**
+**Aufenthalt von Kindern**
 
-<sup>1</sup> Der für die Berechnung der Mietzinsbeiträge massgebende Mietzins ergibt sich aus den §§ 12 und 13 dieser Verordnung.
+<sup>1</sup> Bei gemeinsamer Sorge mit alternierender Obhut teilen die Eltern dem Amt für Sozialbeiträge gemeinsam mit, welcher Haushaltseinheit gemäss § 5 SoHaG das Kind zugeordnet werden soll.
+
+<sup>2</sup> Bei einer Fremdplatzierung des einzigen Kindes oder aller Kinder bleibt ein Anspruch auf Mietbeiträge bei sonst erfüllten Voraussetzungen während zwölf Monaten ab Datum der erstmaligen Platzierung weiterbestehen. Danach erfolgt von Amtes wegen eine Prüfung als Haushalt ohne Kinder.
+
+## 4. Verfahren und Zuständigkeit
 
 #### § 12
 
-**Mietzins**
+**Antragstellung und Überprüfung laufender Ansprüche**
 
-<sup>1</sup> Als Mietzins ist der vertraglich festgelegte Jahresmietzins massgebend, zuzüglich einer von der Wohnungsgrösse abhängigen Pauschale für die Nebenkosten.
+<sup>1</sup> Der Anspruch auf Mietbeiträge ist durch Einreichen des Antragsformulars, des Mietvertrags und der weiteren notwendigen Unterlagen geltend zu machen.
 
-<sup>2</sup> Für die Nebenkosten werden folgende Pauschalen berücksichtigt:
+<sup>2</sup> Fehlende Unterlagen werden nachgefordert und sind innerhalb von zwei Monaten ab Zugang des Nachforderungsschreibens einzureichen. Bleibt diese Frist ungenutzt, ist ein neuer Antrag mit Wirkung für die Zukunft zu stellen.
 
-- a) Wohnungen mit einem Zimmer: CHF 1'800 pro Jahr bzw. CHF 150 pro Monat;
-- b) Wohnungen mit zwei Zimmern: CHF 2'160 pro Jahr bzw. CHF 180 pro Monat;
-- c) Wohnungen mit drei Zimmern: CHF 2'520 pro Jahr bzw. CHF 210 pro Monat;
-- d) Wohnungen mit vier Zimmern: CHF 2'880 pro Jahr bzw. CHF 240 pro Monat;
-- e) Wohnungen mit fünf und mehr Zimmern: CHF 3'240 pro Jahr bzw. CHF 270 pro Monat.
-
-<sup>3</sup> Sind Nebenkosten im vertraglich festgelegten Jahresmietzins eingeschlossen, werden 85% desselben, zuzüglich einer Pauschale für Nebenkosten gemäss Abs. 2, als massgebend anerkannt.
-
-<sup>4</sup> Bei möblierten Wohnungen werden, sofern die Nebenkosten im vertraglich festgelegten Jahresmietzins eingeschlossen sind, 65% desselben, zuzüglich einer Pauschale für Nebenkosten gemäss Abs. 2, als massgebend anerkannt.
+<sup>3</sup> Bleibt bei der Überprüfung laufender Ansprüche die Frist nach Abs. 2 ungenutzt, erfolgt die Einstellung ab Folgemonat der Einstellungsverfügung. Es kann ein neuer Antrag mit Wirkung für die Zukunft gestellt werden.
 
 #### § 13
 
-**Mindest- bzw. Höchstmietzinsgrenzen**
+**Besondere Meldepflichten**
 
-<sup>1</sup> Liegt der vertraglich festgelegte Jahresmietzins gemäss § 12 dieser Verordnung (inkl. Nebenkostenpauschale) unterhalb dem je Wohnungseinheit festgelegten jährlichen Mindestmietzins gemäss Abs. 3, besteht kein Anspruch auf Mietzinsbeiträge.
+<sup>1</sup> Zusätzlich zu den meldepflichtigen Veränderungen in § 38 Abs. 1 SoHaV sind von den anspruchsberechtigten Personen folgende weitere Veränderungen zu melden:
 
-<sup>2</sup> Liegt der vertraglich festgelegte Jahresmietzins gemäss § 12 dieser Verordnung (inkl. Nebenkostenpauschale) oberhalb dem je Wohnungseinheit festgelegten jährlichen Höchstmietzins gemäss Abs. 3, gilt letzterer als massgebender Mietzins gemäss § 11 dieser Verordnung.
+- a) Mietzinsänderungen;
+- b) Veränderung der Anzahl Personen in der Wohnung;
+- c) Bezug von vorrangigen Leistungen nach § 7 MBG;
+- d) Wegfall der Besuche der Kinder nach § 1 Abs. 2 dieser Verordnung seit mindestens drei Monaten.
 
-<sup>3</sup> Es gelten folgende Mindestmietzins- bzw. Höchstmietzinsgrenzen:
-
-<table>
-<tr><th>Anzahl Zimmer pro Wohnung</th><th>Mindestmietzins pro Jahr in CHF</th><th>Höchstmietzins pro Jahr in CHF</th></tr>
-<tr><td>1</td><td>5'520</td><td>11'520</td></tr>
-<tr><td>2</td><td>6'720</td><td>15'120</td></tr>
-<tr><td>3</td><td>7'920</td><td>19'920</td></tr>
-<tr><td>4</td><td>9'120</td><td>23'520</td></tr>
-<tr><td>5 und mehr</td><td>10'320</td><td>28'320</td></tr>
-</table>
-
-## IV. Antragsstellung, Anspruchsbeginn, Auszahlungsmodus, Vollzug, Rechtsmittelverfahren
+<sup>2</sup> Die Meldung hat unverzüglich, jedoch spätestens innerhalb eines Monats nach Kenntnisnahme der Veränderung an das Amt für Sozialbeiträge zu erfolgen.
 
 #### § 14
 
-**Antragsstellung**
-
-<sup>1</sup> Der Antrag auf Mietzinsbeiträge ist mit ausgefülltem und unterzeichnetem Antragsformular beim Amt für Sozialbeiträge einzureichen.
-
-<sup>2</sup> Die zur Überprüfung des Antrags notwendigen Unterlagen sind dem Antragsformular gemäss Abs. 1 beizulegen.
-
-<sup>3</sup> Fehlende Unterlagen werden nachgefordert und sind innerhalb von zwei Monaten ab Zugang des Nachforderungsschreibens einzureichen. Bleibt diese Frist ungenutzt, ist ein neuer Antrag zu stellen.
-
-#### § 15
-
-**Anspruchsbeginn**
-
-<sup>1</sup> Der Anspruch auf Mietzinsbeiträge entsteht ab dem ersten Tag des Folgemonats nach Einreichung des schriftlichen Antrags.
-
-#### § 16
-
-**Auszahlungsmodus und Auszahlungsgrenze**
-
-<sup>1</sup> Die Mietzinsbeiträge werden monatlich ausbezahlt. Mietzinsbeiträge unter CHF 600 pro Jahr bzw. CHF 50 pro Monat werden nicht ausbezahlt.
-
-#### § 17
-
 **Vollzug**
 
-<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt (Amt für Sozialbeiträge) wird mit dem Vollzug beauftragt.
+<sup>1</sup> Das Amt für Sozialbeiträge wird mit dem Vollzug betreffend Mietbeiträge beauftragt.
 
-#### § 18
+*Schlussbestimmungen*
 
-**Rechtsmittelverfahren**
+Diese Verordnung ist zu publizieren; sie tritt am 1. Juli 2025 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung zum Gesetz über die Ausrichtung von Mietbeiträgen an Familien mit Kindern (Mietbeitragsverordnung, MIVO) vom 25. November 2008 aufgehoben.
 
-<sup>1</sup> Gegen Verfügungen betreffend Mietzinsbeiträge und Gebühren wegen Meldepflichtverletzung (§ 39 SoHaV) kann beim Departement für Wirtschaft, Soziales und Umwelt Rekurs erhoben werden.
-
-<sup>2</sup> Der weitere Rechtsmittelweg richtet sich nach den Bestimmungen des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz) vom 22. April 1976.
-
-## V. Übergangs- und Schlussbestimmungen
-
-#### § 19
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung zum Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern sowie an Bezüger von Altersund Invalidenrenten (Mietbeitragsverordnung, MIVO) vom 20. Dezember 1994 wird aufgehoben.
-
-#### § 20
-
-**Wirksamkeit**
-
-<sup>1</sup> Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2009 wirksam.
-
-KB 29.11.2008
+KB 28.06.2025
