@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2025-04-01
+version: 2025-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-12-17
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5529/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5543/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Januar 2025)
+vom 25. Oktober 2004 (Stand 1. Juli 2025)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -2752,22 +2752,23 @@ Kosten, welche durch eine Wiederholung der Abschlussprüfung entstehen, werden v
 
 - c) Nebenamtliche Mitglieder der Gerichte;
 
-- d) Staatsschreiber oder Staatsschreiberin;
+- d) …[^199-1]
 
-- e) Lehrpersonen der Volksschule;[^199-1]
+- e) Lehrpersonen der Volksschule;[^199-2]
 
-- f) Haftrichter und Haftrichterin.[^199-2]
+- f) Haftrichter und Haftrichterin.[^199-3]
 
-<sup>2</sup> …[^199-3]
+<sup>2</sup> …[^199-4]
 
 <sup>3</sup> Arbeitnehmende, die von der Mitarbeiter- und Mitarbeiterinnenbeurteilung ausgeschlossen sind, haben keinen Anspruch auf einen Leistungszuschlag.
 
-§ 199<sup>bis</sup>.[^199-4] Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen Die Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen ist Teil eines Konzeptes zur Personalführung und Qualitätssicherung und richtet sich nach RRB Nr. 2012/174 vom 31. Januar 2012.
+§ 199<sup>bis</sup>.[^199-5] Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen Die Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen ist Teil eines Konzeptes zur Personalführung und Qualitätssicherung und richtet sich nach RRB Nr. 2012/174 vom 31. Januar 2012.
 
-[^199-1]: § 199 Absatz 1 Buchstabe e Fassung vom 26. Juni 2012.
-[^199-2]: § 199 Absatz 1 Buchstabe f eingefügt am 1. April 2025.
-[^199-3]: § 199 Absatz 2 aufgehoben am 4. Juni 2013.
-[^199-4]: § 199bis eingefügt am 4. Juni 2013.
+[^199-1]: § 199 Absatz 1 Buchstabe d aufgehoben am 17. Dezember 2024.
+[^199-2]: § 199 Absatz 1 Buchstabe e Fassung vom 26. Juni 2012.
+[^199-3]: § 199 Absatz 1 Buchstabe f eingefügt am 1. April 2025.
+[^199-4]: § 199 Absatz 2 aufgehoben am 4. Juni 2013.
+[^199-5]: § 199bis eingefügt am 4. Juni 2013.
 
 #### § 200
 
@@ -3427,37 +3428,37 @@ selber Anstellungsbehörde ist. Dessen Entscheid kann mit Verwaltungsgerichtsbes
 
 **117'589**
 
-LK 31 - Oberrichter/in (max. LK 31) - Chefarzt/ärztin - Staatsschreiber/in (max. LK 31) LK 30 - Hauptabteilungsleiter/in - Chefarzt/ärztin
+LK - Oberrichter/in (max. LK 31) - Chefarzt/ärztin 31<sup>1</sup>) LK - Hauptabteilungsleiter/in - Chefarzt/ärztin 30<sup>2</sup>) - Staatsschreiber/in - Leitender/e Arzt/Ärztin LK 29 - Amtsgerichtspräsident/in - Chefarzt/ärztin - Chef/in Amt für Finanzen - Leitender/e Arzt/Ärztin - Chef/in Kantonale Finanz- - Oberarzt/ärztin kontrolle<sup>3</sup>) - Hauptabteilungsleiter/in - Oberstaatsanwalt/anwältin LK - Departementssekretär/in I - Leitender/e Arzt/Ärztin - Schulleiter/in 28<sup>4</sup>) - Hauptabteilungsleiter/in - Oberarzt/ärztin - Oberstaatsanwalt-Stellvertreter/in - Polizeioffizier I LK -Departementssekretär/in I -Oberarzt/ärztin 27<sup>6</sup>) -Hauptabteilungsleiter/in -Leitende/r Staatsanwalt/anwältin -Polizeioffizier I LK - Abteilungsleiter/in I 26<sup>8</sup>) -Departementssekretär/in I -Departementssekretär/in II -Jugendanwalt/anwältin -Polizeioffizier I -Ratssekretär/in -Staatsanwalt/anwältin -Wissenschafl. Sachbearb. I
 
 **112'384**
 
-- Leitender/e Arzt/Ärztin
-
 **107'359**
-
-LK 29 - Amtsgerichtspräsident/in - Chefarzt/ärztin - Chef/in Amt für Finanzen - Leitender/e Arzt/Ärztin - Chef/in Kantonale Finanz- - Oberarzt/ärztin kontrolle<sup>1</sup>) - Hauptabteilungsleiter/in - Oberstaatsanwalt/anwältin LK - Departementssekretär/in I - Leitender/e Arzt/Ärztin - Schulleiter/in 28<sup>2</sup>) - Hauptabteilungsleiter/in - Oberarzt/ärztin - Oberstaatsanwalt-Stellvertreter/in - Polizeioffizier I LK -Departementssekretär/in I -Oberarzt/ärztin 27<sup>4</sup>) -Hauptabteilungsleiter/in -Leitende/r Staatsanwalt/anwältin -Polizeioffizier I LK - Abteilungsleiter/in I 26<sup>6</sup>) -Departementssekretär/in I -Departementssekretär/in II -Jugendanwalt/anwältin -Polizeioffizier I -Ratssekretär/in -Staatsanwalt/anwältin -Wissenschafl. Sachbearb. I
 
 **102'509**
 
-**Mittel- und Berufsschule3**
+**Mittel- und Berufsschule5**
 
-**- Schulleiter/in 97'834 Mittel- und Berufsschule5)**
+**- Schulleiter/in 97'834 Mittel- und Berufsschule7)**
 
-**- Schulleiter/in 93'330 Mittel- und Berufsschule7)**
+**- Schulleiter/in 93'330 Mittel- und Berufsschule9)**
 
-<sup>1</sup> ) Eingefügt in LK 29 am 24. September 2019.
+<sup>1</sup> ) LK 31 Spalte 1 (Personal der Verwaltung) Fassung vom 17. Dezember 2024.
 
-<sup>2</sup> ) LK 28 Spalte 1 (Personal der Verwaltung) Fassung vom 24. September 2019.
+<sup>2</sup> ) LK 30 Spalte 1 (Personal der Verwaltung) Fassung vom 17. Dezember 2024.
 
-<sup>3</sup> ) Fassung vom 20. Juni 2011.
+<sup>3</sup> ) Eingefügt in LK 29 am 24. September 2019.
 
-<sup>4</sup> ) LK 27 Spalte 1 (Personal der Verwaltung) Fassung vom 5. Juni 2012.
+<sup>4</sup> ) LK 28 Spalte 1 (Personal der Verwaltung) Fassung vom 24. September 2019.
 
 <sup>5</sup> ) Fassung vom 20. Juni 2011.
 
-<sup>6</sup> ) LK 26 Spalte 1 (Personal der Verwaltung) Fassung vom 5. Juni 2012.
+<sup>6</sup> ) LK 27 Spalte 1 (Personal der Verwaltung) Fassung vom 5. Juni 2012.
 
 <sup>7</sup> ) Fassung vom 20. Juni 2011.
+
+<sup>8</sup> ) LK 26 Spalte 1 (Personal der Verwaltung) Fassung vom 5. Juni 2012.
+
+<sup>9</sup> ) Fassung vom 20. Juni 2011.
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
@@ -4665,9 +4666,10 @@ Der Besondere Teil Einzelregelungen Verwaltung regelt Abweichungen und Ergänzun
 
 <sup>1</sup> Der Präsident oder die Präsidentin des Obergerichtes erhält eine jährliche Zulage von 2000 Franken.
 
-<sup>2</sup> Der Staatsschreiber oder die Staatsschreiberin erhält für die mit dem Amt verbundenen Auslagen eine jährliche Entschädigung von 10'000 Franken.
+<sup>2</sup> …[^329-2]
 
 [^329-1]: § 329bis eingefügt am 3. Dezember 2007.
+[^329-2]: § 329bis Absatz 2 aufgehoben am 17. Dezember 2024.
 
 #### § 330
 
@@ -7091,7 +7093,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 17\. Dezember 2024 am 1. Januar 2025;
 
-- 1\. April 2025 am 1. Januar 2025.
+- 1\. April 2025 am 1. Januar 2025;
+
+- 17\. Dezember 2024 (Die Änderungen von §§ 199, 239 und 329<sup>bis</sup> ) am 1. Juli 2025;
 
 [^520-1]: Titel XI aufgehoben am 8. Juni 2010.
 
