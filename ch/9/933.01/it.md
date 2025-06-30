@@ -4,11 +4,11 @@ title: Ordinanza del 27 agosto 2014 sui prodotti da costruzione (OProdC)
 short: OProdC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/496"
 language: it
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2014-08-27
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-496-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2014-496-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/it"
 
 (OProdC)
 
-del 27 agosto 2014 (Stato 1° gennaio 2022)
+del 27 agosto 2014 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -488,9 +488,11 @@ Il riferimento a una specifica tecnica armonizzata non è tuttavia richiesto se 
 - b. resistenza al fuoco;
 - c. comportamento in caso d’incendio esterno;
 - d. potenza sonora;
-- e. emissioni di sostanze pericolose.
+- e. emissioni di sostanze pericolose;
+- f.[^22-2] sostenibilità ambientale.
 
 [^22-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^22-2]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 #### Art. 23
 
@@ -505,10 +507,12 @@ Il riferimento a una specifica tecnica armonizzata non è tuttavia richiesto se 
 Quali norme di accreditamento armonizzate di cui al capoverso 1 si applicano:
 
 - a.[^23-1] per organismi di certificazione del prodotto (allegato 2 numero 2.1) e per organismi di certificazione del controllo della produzione in fabbrica (allegato 2 numero 2.2): allegato 2 lettera h OAccD[^23-2];
-- b. per laboratori di prova (allegato 2 numero 2.3): allegato 2 lettera a OAccD.
+- b. per laboratori di prova (allegato 2 numero 2.3): allegato 2 lettera a OAccD;
+- c.[^23-3] per organismi di convalida della valutazione (allegato 2 numero 2.4): allegato 2 lettera h in combinato disposto con la lettera j OAccD.
 
 [^23-1]: Correzione del 9 dic. 2014 ([RU 2014 4439](https://fedlex.data.admin.ch/eli/oc/2014/737)).
 [^23-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^23-3]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 #### Art. 24
 
@@ -923,11 +927,13 @@ Le opere di costruzione devono essere concepite, realizzate e demolite in modo c
 - b. la durabilità delle opere di costruzione;
 - c. l’uso, nelle opere di costruzione, di materie prime e secondarie ecologicamente compatibili.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 4 cpv. 1)
 
 ## Sistemi di valutazione e verifica della costanza della prestazione e organismi coinvolti
+
+[^t-1]: Aggiornato dalla cifra II dell’O del 14 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 ### 1. Sistemi di valutazione e verifica della costanza della prestazione
 
@@ -990,6 +996,25 @@ Il fabbricante redige la dichiarazione di prestazione e determina il prodotto–
 - a. Il fabbricante effettua il controllo della produzione in fabbrica;
 - b. il laboratorio di prova designato o riconosciuto secondo l’articolo 6 capoverso 2 lettera b LProdC valuta la prestazione in base a prove (sulla scorta del campionamento effettuato dal fabbricante), a calcoli, a valori desunti da tabelle o a una documentazione descrittiva del prodotto.
 
+### 1.4. <sup>bis</sup> Sistema 3+
+
+- a.
+
+  Il fabbricante effettua:
+
+  - i. la valutazione della prestazione del prodotto in base alla raccolta di dati per i valori iniziali, le ipotesi e la modellizzazione,
+  - ii. il controllo della produzione in fabbrica;
+
+- b.
+
+  l’organismo di convalida della valutazione designato o riconosciuto secondo l’articolo 6 capoverso 2 lettera b LProdC decide in merito al rilascio, alla limitazione, alla sospensione o al ritiro della relazione di convalida della costanza della prestazione del prodotto da costruzione, in base all’esito delle seguenti valutazioni e verifiche da esso effettuate:
+
+  - i. convalida dei valori iniziali, delle ipotesi formulate e della conformità rispetto alle norme generali o specifiche per categoria di prodotti applicabili,
+  - ii. convalida della valutazione del fabbricante,
+  - iii. convalida del processo applicato per generare tale valutazione,
+  - iv. convalida dell’uso corretto del software adeguato per la valutazione,
+  - v. ispezione iniziale dello stabilimento di produzione per convalidare eventuali dati specifici dell’impresa.
+
 ### 1.5. Sistema 4
 
 - a.
@@ -1003,7 +1028,7 @@ Il fabbricante redige la dichiarazione di prestazione e determina il prodotto–
 
 ### 1.6. Prodotti da costruzione per i quali è stata rilasciata una valutazione tecnica europea
 
-Gli organismi designati o riconosciuti secondo l’articolo 6 capoverso 2 lettera b LProdC che svolgono i compiti indicati per i sistemi 1+, 1 e 3, come pure i fabbricanti che svolgono i compiti indicati per i sistemi 2+ e 4, assumono quale valutazione della prestazione del prodotto da costruzione la valutazione tecnica europea rilasciata per tale prodotto. Gli organismi designati o riconosciuti secondo l’articolo 6 capoverso 2 lettera b LProdC e i fabbricanti non svolgono quindi i compiti di cui ai punti 1.1 b) i), 1.2 b) i), 1.3 a) i), 1.4 b) e 1.5 a) i).
+Gli organismi designati o riconosciuti secondo l’articolo 6 capoverso 2 lettera b LProdC che svolgono i compiti indicati per i sistemi 1+, 1, 3 e 3+, come pure i fabbricanti che svolgono i compiti indicati per i sistemi 2+ e 4, assumono quale valutazione della prestazione del prodotto da costruzione la valutazione tecnica europea rilasciata per tale prodotto. Gli organismi designati o riconosciuti secondo l’articolo 6 capoverso 2 lettera b LProdC e i fabbricanti non svolgono quindi i compiti di cui ai numeri 1.1 lettera b numero i, 1.2 lettera b numero i, 1.3 lettera a numero i, 1.4 lettera b, 1.4.<sup>bis</sup> lettera a numero i nonché 1.5 lettera a numero i.
 
 ### 2. Organismi coinvolti nella valutazione e nella verifica della costanza della prestazione
 
@@ -1011,7 +1036,15 @@ Riguardo alla funzione degli organismi designati o riconosciuti secondo l’arti
 
 - 1\. organismo di certificazione del prodotto: un organismo designato secondo la sezione 4 per certificare la costanza della prestazione o riconosciuto per tale attività secondo l’articolo 6 capoverso 2 lettera b LProdC;
 - 2\. organismo di certificazione del controllo della produzione in fabbrica: un organismo designato secondo la sezione 4 per certificare il controllo della produzione in fabbrica o riconosciuto per tale attività secondo l’articolo 6 capoverso 2 lettera b LProdC;
-- 3\. laboratorio di prova: un laboratorio designato secondo la sezione 4 o riconosciuto secondo l’articolo 6 capoverso 2 lettera b LProdC che misura, esamina, verifica, calcola o valuta in altro modo la prestazione dei prodotti da costruzione.
+- 3\. laboratorio di prova: un laboratorio designato secondo la sezione 4 o riconosciuto secondo l’articolo 6 capoverso 2 lettera b LProdC che misura, esamina, verifica, calcola o valuta in altro modo la prestazione dei prodotti da costruzione;
+- 4\. organismo di convalida della valutazione: un organismo designato secondo la sezione 4 o riconosciuto secondo l’articolo 6 capoverso 2 lettera b LProdC, incaricato di convalidare la valutazione della prestazione dei prodotti da costruzione.
+
+### 3. Sistemi di valutazione e verifica della costanza della prestazione applicati alle caratteristiche essenziali in materia di sostenibilità ambientale
+
+Per i prodotti che rientrano nell’ambito di applicazione della LProdC, tenendo conto delle loro caratteristiche essenziali, i sistemi seguenti si applicano per le caratteristiche essenziali in materia di sostenibilità ambientale:
+
+- 1\. sistema 4, per i prodotti per i quali esiste una base giuridica applicabile per stabilire che si ritiene che raggiungano un certo livello o una certa classe di prestazione senza prove o calcoli o senza prove o calcoli ulteriori;
+- 2\. sistema 3+, per i prodotti non appartenenti alle sottofamiglie di cui al numero 1.
 
 Allegato 3
 

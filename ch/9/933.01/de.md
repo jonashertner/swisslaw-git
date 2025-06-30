@@ -4,11 +4,11 @@ title: "Verordnung vom 27. August 2014 über Bauprodukte (Bauprodukteverordnung,
 short: BauPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/496"
 language: de
-version: 2022-01-01
+version: 2025-07-01
 adopted: 2014-08-27
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-496-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/496/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2014-496-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/496/20220101/de"
 
 (Bauprodukteverordnung, BauPV)
 
-vom 27. August 2014 (Stand am 1. Januar 2022)
+vom 27. August 2014 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -490,9 +490,11 @@ Die Angabe der Fundstelle einer harmonisierten technischen Spezifikation ist fü
 - b. Feuerbeständigkeit;
 - c. Verhalten bei einem Brand von aussen;
 - d. Schallleistung;
-- e. Emission von gefährlichen Stoffen.
+- e. Emission von gefährlichen Stoffen;
+- f.[^22-2] ökologische Nachhaltigkeit.
 
 [^22-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^22-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 #### Art. 23
 
@@ -507,10 +509,12 @@ Die Angabe der Fundstelle einer harmonisierten technischen Spezifikation ist fü
 Als harmonisierte Akkreditierungsnormen nach Absatz 1 sind anzuwenden:
 
 - a.[^23-1] für Produktzertifizierungsstellen (Anhang 2 Ziff. 2.1) und für Zertifizierungsstellen für die werkseigene Produktionskontrolle (Anhang 2 Ziff. 2.2): Anhang 2 Buchstabe h AkkBV[^23-2];
-- b. für Prüflabore (Anhang 2 Ziff. 2.3): Anhang 2 Buchstabe a AkkBV.
+- b. für Prüflabore (Anhang 2 Ziff. 2.3): Anhang 2 Buchstabe a AkkBV;
+- c.[^23-3] für Validierungsstellen für die Bewertung (Anhang 2 Ziff. 2.4): Anhang 2 Buchstabe h in Verbindung mit Buchstabe j AkkBV.
 
 [^23-1]: Berichtigung vom 9. Dez. 2014 ([AS 2014 4439](https://fedlex.data.admin.ch/eli/oc/2014/737)).
 [^23-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^23-3]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 #### Art. 24
 
@@ -925,11 +929,13 @@ Das Bauwerk muss derart entworfen, errichtet und abgerissen werden, dass die nat
 - b. die Dauerhaftigkeit des Bauwerks;
 - c. die Verwendung umweltverträglicher Rohstoffe und Sekundärbaustoffe im Bauwerk.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 4 Abs. 1)
 
 ## Systeme zur Bewertung und Überprüfung der Leistungsbeständigkeit und beteiligte Stellen
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 328](https://fedlex.data.admin.ch/eli/oc/2025/328)).
 
 ### 1. Systeme zur Bewertung und Überprüfung der Leistungsbeständigkeit
 
@@ -992,6 +998,25 @@ Die Herstellerin erstellt die Leistungserklärung und bestimmt den Produkttyp au
 - a. Die Herstellerin führt die werkseigene Produktionskontrolle durch.
 - b. Das bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Prüflabor stellt anhand einer Prüfung (auf der Grundlage der von der Herstellerin gezogenen Stichprobe), einer Berechnung, von Werttabellen oder von Unterlagen zur Produktbeschreibung die Leistung fest.
 
+### 1.4<sup>bis</sup> System 3+
+
+- a.
+
+  Die Herstellerin führt folgende Schritte durch:
+
+  - i. Bewertung der Leistung des Produkts auf der Grundlage von Datenerhebungen für Inputwerte, Annahmen und Modellierung;
+  - ii. werkseigene Produktionskontrolle.
+
+- b.
+
+  Die bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Validierungsstelle für die Bewertung entscheidet über die Ausstellung, Beschränkung, Aussetzung oder Zurücknahme des Validierungsberichts zur Leistungsbeständigkeit des Bauprodukts auf der Grundlage folgender von der Stelle vorgenommener Bewertungen und Überprüfungen:
+
+  - i. Validierung der Inputwerte, der zugrunde gelegten Annahmen und der Einhaltung der geltenden generischen Regeln oder produktkategoriespezifischen Vorschriften;
+  - ii. Validierung der von der Herstellerin vorgenommenen Bewertung;
+  - iii. Validierung des zur Erstellung dieser Bewertung verwendeten Verfahrens;
+  - iv. Validierung der korrekten Verwendung der für die Bewertung geeigneten Software;
+  - v. Erstinspektion des Herstellungsbetriebs zur Validierung unternehmensspezifischer Daten.
+
 ### 1.5. System 4
 
 - a.
@@ -1005,7 +1030,7 @@ Die Herstellerin erstellt die Leistungserklärung und bestimmt den Produkttyp au
 
 ### 1.6. Bauprodukte, für die eine Europäische Technische Bewertung ausgestellt wurde
 
-Bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Stellen, die im Rahmen der Systeme 1+, 1 und 3 Aufgaben wahrnehmen, sowie Herstellerinnen, die im Rahmen der Systeme 2+ und 4 Aufgaben wahrnehmen, betrachten die für das betroffene Bauprodukt ausgestellte Europäische Technische Bewertung als Bewertung der Leistung dieses Produkts. Bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Stellen und Herstellerinnen nehmen daher die unter 1.1 b) i), 1.2 b) i), 1.3 a) i), 1.4 b) bzw. 1.5 a) i) aufgeführten Aufgaben nicht wahr.
+Bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Stellen, die im Rahmen der Systeme 1+, 1, 3 und 3+ Aufgaben wahrnehmen, sowie Herstellerinnen, die im Rahmen der Systeme 2+ und 4 Aufgaben wahrnehmen, betrachten die für das betroffene Bauprodukt ausgestellte Europäische Technische Bewertung als Bewertung der Leistung dieses Produkts. Bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Stellen und Herstellerinnen nehmen daher die unter den Ziffern 1.1 Buchstabe b Ziffer i, 1.2 Buchstabe b Ziffer i, 1.3 Buchstabe a Ziffer i, 1.4 Buchstabe b, 1.4*a* Buchstabe a Ziffer i und 1.5 Buchstabe a Ziffer i aufgeführten Aufgaben nicht wahr.
 
 ### 2. Stellen, die an der Bewertung und Überprüfung der Leistungsbeständigkeit beteiligt sind
 
@@ -1014,6 +1039,14 @@ Im Zusammenhang mit der Funktion der bezeichneten oder gemäss Artikel 6 Absatz 
 - 1\. Produktzertifizierungsstelle: Eine Stelle, die gemäss Abschnitt 4 für die Zertifizierung der Leistungsbeständigkeit bezeichnet oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG für diese Tätigkeit anerkannt wurde.
 - 2\. Zertifizierungsstelle für die werkseigene Produktionskontrolle: Eine Stelle, die gemäss Abschnitt 4 für die Zertifizierung der werkseigenen Produktionskontrolle bezeichnet oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG für diese Tätigkeit anerkannt wurde.
 - 3\. Prüflabor: Eine gemäss Abschnitt 4 bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b anerkannte Stelle, die die Leistung von Bauprodukten misst, untersucht, prüft, berechnet oder auf andere Art und Weise bewertet.
+- 4\. Validierungsstelle für die Bewertung: eine gemäss dem 4. Abschnitt bezeichnete oder gemäss Artikel 6 Absatz 2 Buchstabe b BauPG anerkannte Stelle, welche die Bewertung der Leistung von Bauprodukten validiert.
+
+### 3. Systeme zur Bewertung und Überprüfung der Leistungsbeständigkeit für die wesentlichen Merkmale ökologischer Nachhaltigkeit
+
+Für die unter das BauPG fallenden Produkte gelten unter Berücksichtigung ihrer wesentlichen Merkmale die Systeme wie folgt für die wesentlichen Merkmale ökologischer Nachhaltigkeit:
+
+- 1\. System 4 bei Produkten, bei denen anhand einer geltenden Rechtsgrundlage festgestellt werden kann, ob sie ohne Prüfung oder Berechnung beziehungsweise ohne weitere Prüfung oder Berechnung einer bestimmten Leistungsstufe oder -klasse entsprechen;
+- 2\. System 3+ bei Produkten, die nicht zu den unter Ziffer 1 aufgeführten Unterfamilien gehören.
 
 Anhang 3
 
