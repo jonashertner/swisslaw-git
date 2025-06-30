@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Ordinanza del DFI del 16 dicembre 2016 sulle bevande
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: it
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-220-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle bevande
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -85,7 +85,7 @@ Le disposizioni del presente capitolo si applicano all’acqua minerale naturale
 - a. è consegnata ai consumatori come derrata alimentare, condizionata in recipienti;
 - b. può anche essere consegnata in cisterna come ingrediente di una derrata alimentare.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 5
 
@@ -97,8 +97,8 @@ Le disposizioni del presente capitolo si applicano all’acqua minerale naturale
 
 <sup>3</sup> Se un’acqua minerale naturale proviene da più sorgenti, la composizione fisico-chimica di quest’acqua deve rimanere costante.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^5-2]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^5-2]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 6
 
@@ -126,7 +126,7 @@ L’acqua minerale naturale deve distinguersi per la speciale provenienza geolog
 
 <sup>3</sup> L’acqua minerale naturale può essere trasportata dalla sorgente al luogo di riempimento unicamente mediante condotte. Non è permesso il trasporto in autocisterne fuorché per l’utilizzo dell’acqua minerale naturale come ingrediente di una derrata alimentare.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 8
 
@@ -198,12 +198,12 @@ Secondo la composizione, la denominazione specifica può essere completata dalle
   - arsenico 0,005 mg per litro
   - uranio 0,002 mg per litro.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^9-6]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^9-6]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 10
 
@@ -224,10 +224,10 @@ Secondo la composizione, la denominazione specifica può essere completata dalle
 <sup>7</sup> La caratterizzazione dell’acqua che è stata sottoposta a un trattamento di parziale eliminazione dei fluoruri, in conformità con l’articolo 8 capoverso 2 lettera d, contiene, accanto alla dichiarazione relativa alla composizione chimica, la menzione «acqua sottoposta a una tecnica di adsorbimento autorizzata», «acqua parzialmente defluorizzata» o «defluorizzata».
 
 [^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^10-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^10-5]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^10-5]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 11
 
@@ -549,7 +549,7 @@ L’aggiunta di colture batteriche vive deve essere indicata nell’elenco degli
 - b. con la menzione «con batteri acidolattici».
 
 [^33-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^33-2]: Abrogata dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^33-2]: Abrogata dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Capitolo 2: Sciroppi
 
@@ -601,7 +601,7 @@ Il tenore di caffeina non deve essere superiore a 160 mg per razione giornaliera
 <sup>2</sup> Le bevande contenenti caffeina che presentano un tenore di caffeina superiore a 150 mg per litro possono, in deroga all’allegato 1 OAVM, contenere al massimo le quantità massime indicate nell’allegato 7. Il tenore massimo è determinante al momento della consegna ai consumatori.
 
 [^38-1]: [RS 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
-[^38-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
 
@@ -623,8 +623,8 @@ Oltre alle indicazioni ai sensi dell’articolo 3 OID[^39-1] devono figurare:
 <sup>2</sup> La denominazione specifica per le bevande contenenti caffeina con un tenore di caffeina superiore a 150 mg per litro può essere «bevanda rinfrescante contenente caffeina», «bevanda detta energizzante» o «Energy Drink», e la menzione «shot detto energizzante» o «Energy Shot» per i prodotti in porzioni inferiori a 100 ml.
 
 [^39-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^39-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^39-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^39-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ## Titolo 5: Caffè, surrogati di caffè, tè, tè decaffeinato, mate, tè di erbe e di frutti
 
@@ -833,8 +833,8 @@ Per gli estratti di caffè e di cicoria, le indicazioni secondo l’articolo 3 O
 
 <sup>4</sup> I tè di erbe e di frutti sono costituiti di parti di piante, di frutti o di loro estratti, i quali aggiunti all’acqua danno una bevanda aromatica, destinata al rinfresco o al piacere di bere.[^58-2]
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 59
 
@@ -875,21 +875,23 @@ Per il tè nero, il tè di erbe o il tè di frutti aromatizzato, la denominazion
 
 <sup>2</sup> Le definizioni riportate nell’allegato 8 dei titoli alcolometrici sono applicabili a tutti i prodotti menzionati nella presente ordinanza.
 
-<sup>3</sup> Per i prodotti vitivinicoli non definiti nella legislazione svizzera in materia di derrate alimentari valgono le definizioni dell’allegato II parte IV punti 4‒12 del regolamento (CE) n. 1308/2013[^61-1].
+<sup>3</sup> Per i prodotti vitivinicoli non definiti nella legislazione svizzera in materia di derrate alimentari valgono le definizioni dell’allegato II parte IV punti 4‒12 del regolamento (UE) n. 1308/2013[^61-1].[^61-2]
 
-<sup>4</sup> Per le altre categorie di prodotti vitivinicoli non definiti nella legislazione svizzera in materia di derrate alimentari valgono le definizioni dell’allegato VII parte II del regolamento (CE) n. 1308/2013.
+<sup>4</sup> Per le altre categorie di prodotti vitivinicoli non definiti nella legislazione svizzera in materia di derrate alimentari valgono le definizioni dell’allegato VII parte II del regolamento (UE) n. 1308/2013.[^61-3]
 
-<sup>5</sup> Le disposizioni dei capitoli 3 e 5 si applicano a tutti i vini, vini spumanti e vini frizzanti, al mosto d’uva e al vino liquoroso. I vini svizzeri devono inoltre soddisfare i requisiti di cui agli articoli 27*a*–27*e* e 48*b* dell’ordinanza del 14 novembre 2007[^61-2] sul vino.[^61-3]
+<sup>5</sup> Le disposizioni dei capitoli 3 e 5 si applicano a tutti i vini, vini spumanti e vini frizzanti, al mosto d’uva e al vino liquoroso. I vini svizzeri devono inoltre soddisfare i requisiti di cui agli articoli 27*a*–27*e* e 48*b* dell’ordinanza del 14 novembre 2007[^61-4] sul vino.[^61-5]
 
-[^61-1]: Regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) n. 922/72, (CEE) n. 234/79, (CE) n. 1037/2001 e (CE) n. 1234/2007 del Consiglio, GU L 347 del 20.12.2013, pag. 671; modificato da ultimo dal regolamento (UE) 2016/791, GU L 135 del 24.5.2016, pag. 1.
-[^61-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
-[^61-3]: Introdotto dal n. I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^61-1]: Regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) n. 922/72, (CEE) n. 234/79, (CE) n. 1037/2001 e (CE) n. 1234/2007, GU L 347 del 20.12.2013, pag. 671; modificato da ultimo dal regolamento (UE) 2024/1143, GU L 2024/1143, 23.4.2024.
+[^61-2]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-3]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-4]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^61-5]: Introdotto dalla cifra I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 62
 
 [^62-1]
 
-[^62-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^62-1]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 62a
 
@@ -897,7 +899,7 @@ Per il tè nero, il tè di erbe o il tè di frutti aromatizzato, la denominazion
 
 Nelle aziende che sottostanno al controllo del commercio dei vini (art. 33 cpv. 1 dell’ordinanza del 14 novembre 2007[^62a-2] sul vino) le autorità esecutive di cui alla legislazione sulle derrate alimentari attuano gli articoli 69–76 e 84–86 conformemente alla legislazione sulle derrate alimentari.
 
-[^62a-1]: Introdotto dal n. I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^62a-1]: Introdotto dalla cifra I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 [^62a-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
 
 ### Capitolo 2: Birra, birra analcolica
@@ -912,13 +914,13 @@ Nelle aziende che sottostanno al controllo del commercio dei vini (art. 33 cpv. 
 
 <sup>2</sup> Il termine luppolo comprende anche gli estratti di luppolo.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 64
 
 [^64-1]
 
-[^64-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^64-1]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 65
 
@@ -939,8 +941,8 @@ In base al tenore di mosto iniziale, è consentito impiegare anche le seguenti d
 
 <sup>4</sup> La denominazione «birra povera di carboidrati» può essere utilizzata se la concentrazione volumetrica di carboidrati non è superiore a 7,5 g/l e il tenore di alcool non è superiore al 4,5 per cento vol.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^65-2]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^65-2]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 66
 
@@ -952,7 +954,7 @@ In base al tenore di mosto iniziale, è consentito impiegare anche le seguenti d
 
 <sup>3</sup> La denominazione «birra aromatizzata a …» è obbligatoria per la birra aromatizzata mediante aggiunta di aromi.
 
-[^66-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^66-1]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Sezione 2: Birra analcolica
 
@@ -980,7 +982,7 @@ La birra senz’alcool, la birra dealcolizzata o la birra analcolica è una birr
 
 <sup>1</sup> Il vino è una bevanda prodotta per fermentazione alcolica, totale o parziale, di uve, anche ammostate, oppure di mosto d’uva fresco.
 
-<sup>2</sup> e <sup>3</sup> …[^69-1]
+<sup>2 e <sup>3</sup></sup> …[^69-1]
 
 <sup>4</sup> Dopo le eventuali operazioni di arricchimento di cui all’allegato 9, il vino deve presentare un titolo alcolometrico volumico effettivo non inferiore a 8,5 per cento vol. e un titolo alcolometrico volumico totale non superiore a 15 per cento vol.
 
@@ -988,8 +990,8 @@ La birra senz’alcool, la birra dealcolizzata o la birra analcolica è una birr
 
 <sup>6</sup> I vini esteri che recano una denominazione d’origine (DOP, DOC ecc.) o qualsiasi altra denominazione protetta tutelata da una legislazione estera devono rispettare i limiti massimi e minimi dei titoli alcolometrici effettivo e totale fissati in tale legislazione.
 
-[^69-1]: Abrogati dal n. I dell’O del DFI del 3 gen. 2019, con effetto dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
-[^69-2]: Abrogato dal n. I dell’O del DFI del 3 gen. 2019, con effetto dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^69-1]: Abrogati dalla cifra I dell’O del DFI del 3 gen. 2019, con effetto dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^69-2]: Abrogato dalla cifra I dell’O del DFI del 3 gen. 2019, con effetto dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 70
 
@@ -1033,7 +1035,7 @@ I prodotti di cui al presente capitolo possono essere fabbricati o trattati solt
 
 Alla consegna, i vini esteri che recano una denominazione d’origine (DOP, DOC, ecc.) o qualsiasi altra denominazione geografica protetta tutelata da una legislazione estera devono rispettare le disposizioni di tale legislazione in materia di taglio e assemblaggio.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 74
 
@@ -1094,7 +1096,11 @@ Per gli altri vini può figurare, in base al tenore di zucchero residuo per litr
 
 <sup>7</sup> Nel caso in cui figuri l’annata, il vino deve essere prodotto con almeno l’85 per cento di uve raccolte nell’annata indicata.
 
+<sup>8</sup> Se l’indicazione dell’elenco degli ingredienti o della dichiarazione del valore nutritivo è fornita volontariamente, in deroga all’articolo 4 capoverso 1 OID può essere resa disponibile anche in forma elettronica, a condizione che sia conforme ai requisiti di cui all’articolo 119 paragrafi 4 e 5 del regolamento (UE) n. 1308/2013[^75-2].[^75-3]
+
 [^75-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^75-2]: V. nota a piè di pagina relativa all’art. 61 cpv. 3.
+[^75-3]: Introdotto dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 #### Art. 76
 
@@ -1118,40 +1124,25 @@ I vini senza denominazione di origine e senza un’altra denominazione protetta 
 
 <sup>4</sup> La denominazione specifica può essere completata dall’indicazione del colore del vino.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+<sup>5</sup>
+
+Per il vino di cui al capoverso 1 sottoposto a dealcolizzazione secondo l’allegato VIII parte I sezione E del regolamento (UE) n. 1308/2013[^76-3], la denominazione specifica deve essere completata da una delle seguenti denominazioni:
+
+- a. «dealcolizzato», se il titolo alcolometrico volumico effettivo del prodotto non supera lo 0,5 per cento in volume;
+- b. «parzialmente dealcolizzato», se il titolo alcolometrico volumico effettivo del prodotto è superiore allo 0,5 per cento in volume ed è inferiore al titolo alcolometrico volumico effettivo minimo della categoria prima della dealcolizzazione.[^76-4]
+
+[^76-1]: Nuovo testo giusta la cifra I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 [^76-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^76-3]: V. nota a piè di pagina relativa all’art. 61 cpv. 3.
+[^76-4]: Introdotto dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-### Capitolo 4: Vino analcolico, spumante analcolico
+### Capitolo 4 ...
 
-#### Art. 77
+#### Art. 77–79
 
-**Definizione**
+[^7779-1]
 
-Il vino analcolico o lo spumante analcolico sono vini ai quali è stato sottratto l’alcool mediante un procedimento fisico oppure la cui fermentazione è stata condotta in modo da non formare alcol.
-
-#### Art. 78
-
-**Requisiti**
-
-<sup>1</sup> L’aggiunta di mosto d’uva, mosto d’uva concentrato rettificato o saccarosio è ammessa.
-
-<sup>2</sup> Le componenti volatili che risultano durante la dealcolizzazione possono essere nuovamente aggiunte al vino analcolico nella medesima quantità in cui erano state sottratte.
-
-<sup>3</sup> Per il resto, al vino analcolico e allo spumante analcolico sono applicabili per analogia i requisiti stabiliti per il vino e lo spumante ai sensi del capitolo 3.
-
-#### Art. 79
-
-**Denominazione specifica**
-
-<sup>1</sup> La denominazione specifica è «vino (spumante) analcolico» o «vino (spumante) senz’alcol» o «vino (spumante) dealcolizzato».
-
-<sup>2</sup> ...[^79-1]
-
-<sup>3</sup> L’aggiunta di aromi in misura maggiore alla quantità di componenti volatili deve essere dichiarata.
-
-<sup>4</sup> Per recare una menzione quale «contiene anidride carbonica», lo spumante analcolico deve avere un tenore di anidride carbonica aggiunta almeno pari a 4 g/l. La menzione deve figurare accanto alla denominazione specifica.
-
-[^79-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^7779-1]: Abrogati dalla cifra I dell’O del DFI del 28 mag. 2025, con effetto dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 ### Capitolo 5: Mosto d’uva e vino liquoroso
 
@@ -1599,7 +1590,7 @@ L’edulcorazione è il procedimento che consiste nell’impiegare, per la fabbr
 
 <sup>2</sup> L’edulcorazione delle diverse bevande spiritose è disciplinata nell’allegato 16.[^119-1]
 
-[^119-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^119-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 120
 
@@ -1607,7 +1598,7 @@ L’edulcorazione è il procedimento che consiste nell’impiegare, per la fabbr
 
 Non è consentito aromatizzare le bevande spiritose di cui agli articoli 122–136, 140–142, 144 capoverso 4 e 147.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^120-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 121
 
@@ -1618,8 +1609,8 @@ La colorazione delle bevande spiritose è soggetta alle seguenti limitazioni:
 - a.[^121-2] è vietata per le categorie di cui agli articoli 130–136 nonché 139, 140 e 144 capoverso 4;
 - b. le bevande spiritose di cui agli articoli 122–129 possono essere colorate esclusivamente mediante l’aggiunta di caramello.
 
-[^121-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^121-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^121-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ### Sezione 2: Categorie specifiche di bevande spiritose
 
@@ -1853,7 +1844,7 @@ Il gin distillato deve soddisfare i seguenti requisiti minimi:
 
 <sup>4</sup> «London Gin» è un gin distillato ottenuto esclusivamente con alcool etilico di origine agricola. Il suo aroma è prodotto esclusivamente dalla distillazione di alcool etilico con l’aggiunta di tutte le sostanze vegetali naturali utilizzate. Il titolo alcolometrico volumico minimo del distillato deve essere del 70 per cento in volume.
 
-[^144-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^144-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 145
 
@@ -1878,7 +1869,7 @@ Le bevande spiritose all’anice sono bevande ottenute dall’aromatizzazione di
 
 <sup>2</sup> Il pastis deve presentare un tenore di anetolo minimo di 1,5 e massimo di 2 g/l.[^146-1]
 
-[^146-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^146-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 147
 
@@ -1915,7 +1906,7 @@ Le bevande spiritose di sapore amaro o bitter sono bevande spiritose dal sapore 
 
 <sup>2</sup> …[^150-1]
 
-[^150-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^150-1]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 151
 
@@ -1923,13 +1914,13 @@ Le bevande spiritose di sapore amaro o bitter sono bevande spiritose dal sapore 
 
 Qualsiasi bevanda spiritosa denominata «Crema di» seguita dal nome del frutto o della materia prima impiegata, esclusi i prodotti lattiero-caseari, è un liquore.
 
-[^151-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^151-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 152
 
 [^152-1]
 
-[^152-1]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^152-1]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 #### Art. 153
 
@@ -1937,7 +1928,7 @@ Qualsiasi bevanda spiritosa denominata «Crema di» seguita dal nome del frutto 
 
 Il nocino è il liquore che viene aromatizzato principalmente dalla macerazione o dalla distillazione di noci verdi intere (*Juglans regia* L.) oppure dalla combinazione di entrambi i procedimenti.
 
-[^153-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^153-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 154
 
@@ -1949,8 +1940,8 @@ Il nocino è il liquore che viene aromatizzato principalmente dalla macerazione 
 
 <sup>3</sup> Per la fabbricazione possono essere utilizzati latte e prodotti lattiero-caseari.[^154-2]
 
-[^154-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^154-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^154-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^154-2]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 155
 
@@ -2026,7 +2017,7 @@ Per le seguenti acquaviti, la denominazione «acquavite di …» può essere sos
 
 [^159-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^159-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^159-3]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^159-3]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## Titolo 7: Aggiornamento degli allegati
 
@@ -2058,7 +2049,15 @@ Sono abrogate:
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^161a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^161a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+
+#### Art. 161b
+
+**Disposizione transitoria della modifica del 28 maggio 2025**[^161b-1]
+
+Le derrate alimentari non conformi alla modifica del 28 maggio 2025 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2027 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^161b-1]: Introdotto dalla cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 #### Art. 162
 
@@ -2107,16 +2106,16 @@ Allegato 2[^t-1]
 
 ## Requisiti riguardanti l’acqua minerale naturale
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### 1. Criteri microbiologici
 
 <table>
 <tr><td>Prodotto</td><td colspan="2">Criteri d’analisi</td><td>Valore massimo UFC</td><td>Metodi di riferimento per l’analisi</td></tr>
-<tr><td colspan="2">[tab] **1 Acqua minerale naturale e acqua sorgiva**</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">[tab] **1 Acqua minerale naturale e acqua sorgiva**</td><td></td><td></td><td></td></tr>
 <tr><td>11 – allo sbocco</td><td colspan="2">Germi aerobi, mesofili</td><td>100/ml</td><td>EN/ISO 6222:1999 Temperatura d’incubazione: 30°C Durata d’incubazione: 72 ore</td></tr>
-<tr><td>[tab]</td><td colspan="2">Escherichia coli</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td></tr>
-<tr><td>[tab]</td><td colspan="2">Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td></tr>
+<tr><td></td><td colspan="2">Escherichia coli</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td></tr>
+<tr><td></td><td colspan="2">Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td>12 – in recipiente</td><td colspan="2">*Escherichia coli*</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td></tr>
 <tr><td></td><td colspan="2">Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td></td><td colspan="2">Pseudomonas aeruginosa</td><td>nr/100 ml</td><td>EN/ISO 16266</td></tr>
@@ -2164,7 +2163,7 @@ Allegato 3[^t-2]
 
 ## Trattamenti e sostanze ammessi
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 Per le derrate alimentari di cui all’articolo 16 capoversi 1–4 e 6, nonché all’articolo 25 sono ammessi i seguenti trattamenti e sostanze:
 
@@ -2344,27 +2343,28 @@ Allegato 8
 - 2\. Titolo alcolometrico potenziale (in % vol): il numero di parti in volume di alcool puro alla temperatura di 20 °C che possono essere prodotte dalla fermentazione totale degli zuccheri contenuti in 100 parti in volume di prodotto alla medesima temperatura.
 - 3\. Titolo alcolometrico totale (in % vol): la somma dei titoli alcolometrici volumici effettivo e potenziale.
 - 4\. Titolo alcolometrico naturale (in % vol): il titolo alcolometrico volumico totale del prodotto prima di qualsiasi arricchimento.
-- [tab]
 
 Allegato 9[^t-3]
 
-(art. 69 cpv. 4, 72, 74 cpv. 1 e 2, 75 cpv. 5 e 86 cpv. 1)
+(art. 69 cpv. 4, 72, 74, 75 cpv. 5 e 86 cpv. 1)
 
 ## Elenco delle pratiche e dei trattamenti enologici consentiti e loro limiti e condizioni
 
-[^annex9-lvlu1-1]
+[^t-3]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^annex9-lvlu1-1]: Lʼelenco non è pubblicato sulla RU. Può essere ottenuto presso lʼUSAV, Schwarzenburgstrasse 155, 3003 Berna o consultato in Internet allʼindirizzo seguente: www.usav.admin.ch &gt; Alimenti e nutrizione &gt; Basi legali ed esecutive &gt; Legislazione
+Le pratiche e i trattamenti enologici consentiti corrispondono a quelli descritti negli allegati I, II A e III A del regolamento delegato (UE) 2019/934[^annex9-lvlu1-1]. Salvo se altrimenti specificato, la pratica o il trattamento descritti possono essere utilizzati per il vino (1), il vino nuovo ancora in fermentazione (2), il vino liquoroso (3), il vino spumante (4), il vino spumante di qualità (5), il vino spumante di qualità del tipo aromatico (6), il vino spumante gassificato (7), il vino frizzante (8), il vino frizzante gassificato (9), il mosto d’uva (10), il mosto d’uva parzialmente fermentato (11), il mosto d’uva parzialmente fermentato ottenuto con uve appassite (12), il mosto d’uva concentrato (13), il mosto d’uva concentrato rettificato (14), il vino ottenuto da uve appassite (15), il vino di uve stramature (16) nonché per le uve fresche e il mosto d’uva parzialmente fermentato destinato al consumo umano diretto tal quale.
 
-Le pratiche e i trattamenti enologici consentiti corrispondono a quelli descritti negli allegati I, II A e III A del regolamento delegato (UE) 2019/934[^annex9-lvlu1-2]. Salvo se altrimenti specificato, la pratica o il trattamento descritti possono essere utilizzati per il vino (1), il vino nuovo ancora in fermentazione (2), il vino liquoroso (3), il vino spumante (4), il vino spumante di qualità (5), il vino spumante di qualità del tipo aromatico (6), il vino spumante gassificato (7), il vino frizzante (8), il vino frizzante gassificato (9), il mosto d’uva (10), il mosto d’uva parzialmente fermentato (11), il mosto d’uva parzialmente fermentato ottenuto con uve appassite (12), il mosto d’uva concentrato (13), il mosto d’uva concentrato rettificato (14), il vino ottenuto da uve appassite (15), il vino di uve stramature (16) nonché per le uve fresche e il mosto d’uva parzialmente fermentato destinato al consumo umano diretto tal quale.
+La Svizzera è considerata parte della zona B in base a quanto definito nell’appendice I del regolamento (UE) 1308/2013[^annex9-lvlu1-2].
 
-La Svizzera è considerata parte della zona C I in base a quanto definito nell’appendice I del regolamento (UE) n. 1308/2013[^annex9-lvlu1-3].
+Sono riconosciuti anche le pratiche e i trattamenti enologici consentiti secondo l’allegato VIII del regolamento (UE) n. 1308/2013. In deroga:
 
-Le altre pratiche e gli altri trattamenti enologici ammessi dalla legislazione europea sono consentiti a condizione di rispettare le relative condizioni di utilizzo.
+- a. all’allegato VIII parte I sezione A punto 2 lettera b, l’aumento del titolo alcolometrico volumico naturale non può superare il 2,5 per cento in volume;
+- b. all’allegato VIII parte I sezione B punto 6 lettera b, nel caso del vino rosso il limite massimo del titolo alcolometrico volumico totale delle uve fresche, del mosto di uve, del mosto di uve parzialmente fermentato, del vino nuovo ancora in fermentazione o del vino può essere aumentato al 12,5 per cento in volume.
 
-[^annex9-lvlu1-2]: Regolamento delegato (UE) 2019/934 della Commissione, del 12 marzo 2019, che integra il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le zone viticole in cui il titolo alcolometrico può essere aumentato, le pratiche enologiche autorizzate e le restrizioni applicabili in materia di produzione e conservazione dei prodotti vitivinicoli, la percentuale minima di alcole per i sottoprodotti e la loro eliminazione, nonché la pubblicazione delle schede dell’OIV, GU L 149 del 7.6.2019, pag. 1.
-[^annex9-lvlu1-3]: Cfr. nota a piè di pagina relativa all’art. 61 cpv. 3
+c. all’allegato VIII parte I sezione B punto 6 lettera b, il titolo alcolometrico volumico totale delle uve fresche, del mosto di uve, del mosto di uve parzialmente fermentato, del vino nuovo ancora in fermentazione o del vino destinato alla produzione di vini a denominazione di origine controllata può raggiungere un tenore del 15 per cento in volume, se previsto dalla legislazione cantonale.
+
+[^annex9-lvlu1-1]: Regolamento delegato (UE) 2019/934 della Commissione, del 12 marzo 2019, che integra il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le zone viticole in cui il titolo alcolometrico può essere aumentato, le pratiche enologiche autorizzate e le restrizioni applicabili in materia di produzione e conservazione dei prodotti vitivinicoli, la percentuale minima di alcole per i sottoprodotti e la loro eliminazione, nonché la pubblicazione delle schede dell’OIV, GU L 149 del 7.6.2019, pag. 1, modificato da ultimo dal regolamento delegato (UE) 2022/68, GU L 12 del 19.1.2022, pag. 1.
+[^annex9-lvlu1-2]: V. nota a piè di pagina relativa all’art. 61 cpv. 3.
 
 Allegato 10
 
@@ -2372,7 +2372,7 @@ Allegato 10
 
 ## Pittogrammi autorizzati secondo l’articolo 75 capoverso 1 lettera e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/it/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/it/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/it/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/it/xml/image/image4.png)
 
 Sono altresì autorizzati pittogrammi come dai modelli sopra riportati raffiguranti soltanto il latte o le uova.
 
@@ -2430,7 +2430,7 @@ Allegato 14[^t-4]
 
 ## Requisiti per l’alcool etilico di origine agricola
 
-[^t-4]: Aggiornato dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^t-4]: Aggiornato dalla cifra II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - 1\. Caratteristiche organolettiche nessun sapore estraneo rilevabile
 - 2\. Titolo alcolometrico volumico minimo 96 per cento vol.
@@ -2450,7 +2450,7 @@ Allegato 15[^t-5]
 
 ## Titolo alcolometrico volumico minimo (tenore di alcool) delle bevande spiritose
 
-[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)) e dal n. II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)) e dalla cifra II dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 - a. Pastis di Marsiglia, assenzio 45,0 %
 - b. Whisky, acquavite di patate, pastis, assenzio, Mistrà[^annex15-lvlu1-1] 40,0 %
@@ -2474,7 +2474,7 @@ Allegato 16[^t-6]
 
 ## Edulcorazione delle bevande spiritose
 
-[^t-6]: Introdotto dal n. II cpv. 3 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
+[^t-6]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Tenori massimi di zucchero, espresso in zucchero invertito (g/l)
 

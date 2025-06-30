@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Ordonnance du DFI du 16 décembre 2016 sur les boissons
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: fr
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les boissons
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -872,15 +872,17 @@ La dénomination spécifique des produits aromatisés à base de thé noir, de p
 
 <sup>2</sup> Les définitions des titres alcoométriques figurant à l’annexe 8 sont applicables à l’ensemble des produits visés dans la présente ordonnance.
 
-<sup>3</sup> Les termes relatifs aux produits de la vigne non définis dans la législation suisse sur les denrées alimentaires s’entendent au sens de l’annexe II, partie IV, ch. 4 à 12, du règlement (CE) n<sup>o</sup> 1308/2013[^61-1].
+<sup>3</sup> Les termes relatifs aux produits de la vigne non définis dans la législation suisse sur les denrées alimentaires s’entendent au sens de l’annexe II, partie IV, points 4) à 12), du règlement (UE) n<sup>o</sup> 1308/2013[^61-1].[^61-2]
 
-<sup>4</sup> Les autres catégories de produits de la vigne non définis dans la législation suisse sur les denrées alimentaires s’entendent au sens de l’annexe VII partie II du règlement (CE) n<sup>o</sup> 1308/2013.
+<sup>4</sup> Les autres catégories de produits de la vigne non définis dans la législation suisse sur les denrées alimentaires s’entendent au sens de l’annexe VII, partie II, du règlement (UE) n<sup>o</sup> 1308/2013.[^61-3]
 
-<sup>5</sup> Les dispositions des chapitres 3 et 5 s’appliquent à l’ensemble des vins, aux vins mousseux, aux vins pétillants, aux vins perlés, aux moûts de raisins et au vin de liqueur. De plus, les vins suisses doivent également respecter les exigences des art. 27*a* à 27e et 48*b* de l’ordonnance sur le vin du 14 novembre 2007[^61-2].[^61-3]
+<sup>5</sup> Les dispositions des chapitres 3 et 5 s’appliquent à l’ensemble des vins, aux vins mousseux, aux vins pétillants, aux vins perlés, aux moûts de raisins et au vin de liqueur. De plus, les vins suisses doivent également respecter les exigences des art. 27*a* à 27e et 48*b* de l’ordonnance sur le vin du 14 novembre 2007[^61-4].[^61-5]
 
-[^61-1]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2016/791, JO L 135 du 24.5.2016, p. 1.
-[^61-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
-[^61-3]: Introduit par le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^61-1]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2024/1143, JO L 2024/1143, 23.4.2024.
+[^61-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-4]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^61-5]: Introduit par le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 62
 
@@ -977,7 +979,7 @@ La bière sans alcool, ou bière désalcoolisée ou exempte d’alcool, est une 
 
 <sup>1</sup> Le vin est une boisson obtenue par fermentation alcoolique, totale ou partielle, de raisins, foulés ou non, ou de moûts de raisins.
 
-<sup>2</sup> et <sup>3</sup> …[^69-1]
+<sup>2 et <sup>3</sup></sup> …[^69-1]
 
 <sup>4</sup> Le vin doit présenter, après les éventuelles opérations d’enrichissement énumérées à l’annexe 9, un titre alcoométrique volumique acquis d’au moins 8,5 % vol. et un titre alcoométrique volumique total d’au plus 15 % vol.
 
@@ -1091,7 +1093,11 @@ Pour les autres vins, une des indications suivantes peut figurer sur l’étique
 
 <sup>7</sup> En cas d’indication du millésime, le vin doit être issu à 85 % au moins de raisins récoltés dans l’année mentionnée.
 
+<sup>8</sup> Si la liste des ingrédients ou la déclaration nutritionnelle est indiquée à titre facultatif, elle peut, en dérogation à l’art. 4, al. 1, OIDAl, être fournie sous forme électronique, pour autant que les prescriptions de l’art. 119, par. 4 et 5, du règlement (UE) n<sup>o</sup> 1308/2013[^75-2] sont respectées.[^75-3]
+
 [^75-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^75-2]: Cf. note de bas de page relative à l’art. 61, al. 3.
+[^75-3]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 #### Art. 76
 
@@ -1115,40 +1121,25 @@ Les vins sans appellation d’origine et sans autre indication protégée porten
 
 <sup>4</sup> Leur dénomination spécifique peut être complétée par l’indication de la couleur du vin.
 
+<sup>5</sup>
+
+Lorsque les vins visés à l’al. 1 sont soumis à l’un des processus de désalcoolisation mentionnés à l’annexe VIII, partie I, section E, du règlement (UE) n<sup>o</sup> 1308/2013[^76-3], la dénomination spécifique doit être complétée par l’une des dénominations suivantes:
+
+- a. «désalcoolisé» lorsque le produit a un titre alcoométrique acquis inférieur ou égal à 0,5 % vol.;
+- b. «partiellement désalcoolisé» lorsque le produit a un titre alcoométrique acquis supérieur à 0,5 % vol. et inférieur au titre alcoométrique acquis minimal fixé pour la catégorie avant désalcoolisation.[^76-4]
+
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 [^76-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^76-3]: Cf. note de bas de page relative à l’art. 61, al. 3.
+[^76-4]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-### Chapitre 4 Vin sans alcool, vin mousseux sans alcool
+### Chapitre 4 …
 
-#### Art. 77
+#### Art. 77 à 79
 
-**Définition**
+[^7779-1]
 
-Le vin sans alcool et le vin mousseux sans alcool sont des vins dont on a retiré l’alcool par un procédé physique ou qui ont subi une fermentation empêchant la production d’alcool.
-
-#### Art. 78
-
-**Exigences**
-
-<sup>1</sup> L’addition de moût de raisin, de moût de raisin concentré rectifié ou de saccharose est admise.
-
-<sup>2</sup> Les composants volatils soustraits au vin pendant la désalcoolisation peuvent lui être rajoutés en quantité équivalente à la teneur initiale.
-
-<sup>3</sup> Au surplus, les exigences s’appliquant au vin et vin mousseux en vertu du chap. 3 sont applicables par analogie au vin sans alcool et au vin mousseux sans alcool.
-
-#### Art. 79
-
-**Dénomination spécifique**
-
-<sup>1</sup> La dénomination spécifique est «vin (mousseux) sans alcool», «vin exempt d’alcool» ou «vin (mousseux) désalcoolisé».
-
-<sup>2</sup> …[^79-1]
-
-<sup>3</sup> L’adjonction d’arômes en quantité supérieure à celle des composants volatils doit être déclarée.
-
-<sup>4</sup> Le vin mousseux sans alcool doit avoir été additionné d’au moins 4 g/l de dioxyde de carbone pour porter une mention telle que «contient du gaz carbonique». Celle-ci doit figurer à proximité de la dénomination spécifique.
-
-[^79-1]: Abrogé par le ch. I de l’O du DFI du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^7779-1]: Abrogés par le ch. I de l’O du DFI du 28 mai 2025, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 ### Chapitre 5 Moûts de raisins et vin de liqueur
 
@@ -2057,6 +2048,14 @@ Les denrées alimentaires non conformes à la modification du 8 décembre 2023 p
 
 [^161a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
+#### Art. 161b
+
+**Disposition transitoire relative à la modification du 28 mai 2025**[^161b-1]
+
+Les denrées alimentaires non conformes à la modification du 28 mai 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^161b-1]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+
 #### Art. 162
 
 **Entrée en vigueur**
@@ -2110,10 +2109,10 @@ Annexe 2[^t-1]
 
 <table>
 <tr><td>Produit</td><td colspan="2">Critères d’examens</td><td>Valeur maximale UFC</td><td>Méthodes analytiques de référence</td></tr>
-<tr><td colspan="2">**1** **Eau** **minérale et eau de source**</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">**1** **Eau** **minérale et eau de source**</td><td></td><td></td><td></td></tr>
 <tr><td>11 – à l’émergence</td><td colspan="2">Germes aérobies mésophiles</td><td>100/ml</td><td>EN/ISO 6222:1999 Température d’incubation: 30°C Durée d’incubation: 72 heures</td></tr>
-<tr><td>[tab]</td><td colspan="2">Escherichia coli</td><td>nd/100 ml</td><td>EN/ISO 9308-1</td></tr>
-<tr><td>[tab]</td><td colspan="2">Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td></tr>
+<tr><td></td><td colspan="2">Escherichia coli</td><td>nd/100 ml</td><td>EN/ISO 9308-1</td></tr>
+<tr><td></td><td colspan="2">Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td>12 – en récipient</td><td colspan="2">*Escherichia coli*</td><td>nd/100 ml</td><td>EN/ISO 9308-1</td></tr>
 <tr><td></td><td colspan="2">Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td></td><td colspan="2">Pseudomonas aeruginosa</td><td>nd/100 ml</td><td>EN/ISO 16266</td></tr>
@@ -2344,23 +2343,24 @@ Annexe 8
 
 Annexe 9[^t-3]
 
-(art. 69, al. 4, 72, 74, al. 1 et 2, 75, al. 5, et 86, al. 1)
+(art. 69, al. 4, 72, 74, 75, al. 5, et 86, al. 1)
 
 ## Pratiques et traitements œnologiques admis, avec limites et conditions
 
-[^annex9-lvlu1-1]
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^annex9-lvlu1-1]: Non publiée au RO. Cette liste peut être obtenue auprès de l’OSAV, Schwarzenburgstrasse 155, 3003 Berne ou être consultée sur Internet, à l’adresse suivante: www.osav.admin.ch &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Législation
+Les pratiques et traitements œnologiques admis correspondent à ceux décrits dans les annexes I, II A et III A du règlement délégué (UE) 2019/934[^annex9-lvlu1-1]. Sauf mention explicite, la pratique ou le traitement décrits peuvent être utilisés pour le vin (1), le vin nouveau encore en fermentation (2), le vin de liqueur (3), le vin mousseux (4), le vin mousseux de qualité (5), le vin mousseux de qualité type aromatique (6), le vin mousseux gazéifié (7), le vin pétillant (8), le vin pétillant gazéifié (9) le moût de raisins (10), le moût de raisins partiellement fermenté (11), le moût de raisins partiellement fermenté issu de raisins passerillés (12), le moût de raisins concentré (13), le moût de raisins concentré rectifié (14), le vin de raisins passerillés (15), le vin de raisins surmûris (16), ainsi que le raisin frais et le moût partiellement fermenté destiné à la consommation humaine directe en l’état.
 
-Les pratiques et traitements œnologiques admis correspondent à ceux décrits dans les annexes I, II A et III A du règlement délégué (UE) 2019/934[^annex9-lvlu1-2]. Sauf mention explicite, la pratique ou le traitement décrits peuvent être utilisés pour le vin (1), le vin nouveau encore en fermentation (2), le vin de liqueur (3), le vin mousseux (4), le vin mousseux de qualité (5), le vin mousseux de qualité type aromatique (6), le vin mousseux gazéifié (7), le vin pétillant (8), le vin pétillant gazéifié (9) le moût de raisin (10), le moût de raisin partiellement fermenté (11), le moût de raisin partiellement fermenté issu de raisins passerillés (12), le moût de raisin concentré (13), le moût de raisin concentré rectifié (14), le vin de raisins passerillés (15), le vin de raisins surmûris (16), ainsi que le raisin frais et le moût partiellement fermenté destiné à la consommation humaine directe en l’état.
+La Suisse est considérée comme faisant partie de la zone B, telle que définie à l’appendice I du règlement (UE) n<sup>o</sup> 1308/2013[^annex9-lvlu1-2].
 
-La Suisse est considérée comme faisant partie de la zone C I, telle que définie à l’appendice I du règlement (UE) n<sup>o</sup> 1308/2013[^annex9-lvlu1-3].
+Les pratiques et traitements œnologiques admis selon l’annexe VIII du règlement (UE) n<sup>o</sup> 1308/2013 sont aussi reconnus. En dérogation à:
 
-Les autres pratiques et traitements œnologiques admis selon la législation européenne sont aussi reconnus en respectant leurs conditions d’utilisation.
+- a. l’annexe VIII, partie I, section A, point 2, point b, l’augmentation du titre alcoométrique volumique naturel ne peut dépasser 2,5 % vol.;
+- b. l’annexe VIII, partie I, section B, point 6, point b, en ce qui concerne le vin rouge, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin peut être portée à 12,5 % vol.
+- c. l’annexe VIII, partie I, section B, point 6, point b, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin utilisé pour la production de vins bénéficiant d’une appellation d’origine peut atteindre 15 % vol., pour autant que la législation cantonale le prévoit.
 
-[^annex9-lvlu1-2]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1
-[^annex9-lvlu1-3]: Cf. note de bas de page relative à l’art. 61, al. 3.
+[^annex9-lvlu1-1]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2022/68, JO L 12 du 19.1.2022, p. 1.
+[^annex9-lvlu1-2]: Cf. note de bas de page relative à l’art. 61, al. 3.
 
 Annexe 10
 
@@ -2368,7 +2368,7 @@ Annexe 10
 
 ## Pictogrammes autorisés selon l’art. 75, al. 1, let. e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image4.png)
 
 Des pictogrammes conformes aux modèles ci-dessus reprenant exclusivement le lait ou l’œuf sont également autorisés.
 

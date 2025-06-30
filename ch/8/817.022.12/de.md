@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Verordnung des EDI vom 16. Dezember 2016 über Getränke
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: de
-version: 2024-02-01
+version: 2025-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über Getränke
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2025)
 
 Das Eidgenössische Departement des Innern (EDI)
 
@@ -875,15 +875,17 @@ Bei aromatisiertem Schwarz-, Kräuter- oder Früchtetee lautet die Sachbezeichnu
 
 <sup>2</sup> Die Definitionen der Alkoholgehalte richten sich für alle Erzeugnisse, die von dieser Verordnung erfasst werden, nach Anhang 8.
 
-<sup>3</sup> Für die Begriffe im Zusammenhang mit Weinbauerzeugnissen, die in der schweizerischen Lebensmittelgesetzgebung nicht definiert sind, ist Anhang II Teil IV Nummern 4–12 der Verordnung (EG) Nr. 1308/2013[^61-1] massgebend.
+<sup>3</sup> Für die Begriffe im Zusammenhang mit Weinbauerzeugnissen, die in der schweizerischen Lebensmittelgesetzgebung nicht definiert sind, ist Anhang II Teil IV Nummern 4–12 der Verordnung (EU) Nr. 1308/2013[^61-1] massgebend.[^61-2]
 
-<sup>4</sup> Für die anderen Kategorien von Weinbauerzeugnissen, die in der schweizerischen Lebensmittelgesetzgebung nicht definiert sind, ist Anhang VII Teil II der Verordnung (EG) Nr. 1308/2013 massgebend.
+<sup>4</sup> Für die anderen Kategorien von Weinbauerzeugnissen, die in der schweizerischen Lebensmittelgesetzgebung nicht definiert sind, ist Anhang VII Teil II der Verordnung (EU) Nr. 1308/2013 massgebend.[^61-3]
 
-<sup>5</sup> Die Bestimmungen der Kapitel 3 und 5 gelten für alle Weine, Schaumweine, Perlweine, Traubenmoste und Likörweine. Schweizer Weine müssen zudem die Anforderungen der Artikel 27a–27e und 48*b* der Weinverordnung vom 14. November 2007[^61-2] erfüllen.[^61-3]
+<sup>5</sup> Die Bestimmungen der Kapitel 3 und 5 gelten für alle Weine, Schaumweine, Perlweine, Traubenmoste und Likörweine. Schweizer Weine müssen zudem die Anforderungen der Artikel 27a–27e und 48*b* der Weinverordnung vom 14. November 2007[^61-4] erfüllen.[^61-5]
 
-[^61-1]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007; ABl. L 347 vom 20.12.2013, S. 671, zuletzt geändert durch die Verordnung (EU) Nr. 2016/791 ABl. L 135 vom 24.5.2016, S. 1.
-[^61-2]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
-[^61-3]: Eingefügt durch Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
+[^61-1]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 2024/1143, 23.4.2024.
+[^61-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-3]: Fassung gemäss Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^61-4]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^61-5]: Eingefügt durch Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 62
 
@@ -980,7 +982,7 @@ Bier ohne Alkohol, entalkoholisiertes Bier oder alkoholfreies Bier ist Bier, dem
 
 <sup>1</sup> Wein ist das Getränk, das durch vollständige oder teilweise alkoholische Gärung der frischen oder eingemaischten Weintrauben oder des Traubenmostes gewonnen wird.
 
-<sup>2</sup> und <sup>3</sup> …[^69-1]
+<sup>2 und <sup>3</sup></sup> …[^69-1]
 
 <sup>4</sup> Wein muss nach den allfälligen in Anhang 9 aufgeführten Anreicherungsprozessen einen vorhandenen Alkoholgehalt von mindestens 8,5 Volumenprozent und einen Gesamtalkoholgehalt von höchstens 15 Volumenprozent aufweisen.
 
@@ -1094,7 +1096,11 @@ Bei den übrigen Weinen darf entsprechend dem Restzuckergehalt pro Liter einer d
 
 <sup>7</sup> Bei Angabe des Jahrgangs muss der Wein zu mindestens 85 Prozent aus Trauben des angegebenen Jahrgangs stammen.
 
+<sup>8</sup> Erfolgt die Angabe des Verzeichnisses der Zutaten oder der Nährwertdeklaration freiwillig, so darf diese in Abweichung von Artikel 4 Absatz 1 LIV auch in elektronischer Form zur Verfügung gestellt werden, sofern sie den Vorgaben nach Artikel 119 Absätze 4 und 5 der Verordnung (EU) Nr. 1308/2013[^75-2] entspricht.[^75-3]
+
 [^75-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^75-2]: Siehe Fussnote zu Art. 61 Abs. 3.
+[^75-3]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 #### Art. 76
 
@@ -1118,40 +1124,25 @@ Wein ohne Ursprungsbezeichnung und ohne andere geschützte Angabe trägt die Sac
 
 <sup>4</sup> Die Sachbezeichnung kann mit der Angabe der Farbe des Weins ergänzt werden.
 
+<sup>5</sup>
+
+Bei Wein nach Absatz 1, der einer Entalkoholisierung nach Anhang VIII Teil I Abschnitt E der Verordnung (EU) Nr. 1308/2013[^76-3] unterzogen worden ist, muss der Sachbezeichnung folgende Bezeichnung vorangestellt werden:
+
+- a. «entalkoholisierter», wenn der vorhandene Alkoholgehalt des Erzeugnisses nicht mehr als 0,5 Volumenprozent beträgt;
+- b. «teilweise entalkoholisierter», wenn der vorhandene Alkoholgehalt des Erzeugnisses mehr als 0,5 Volumenprozent beträgt und unter dem vorhandenen Mindestalkoholgehalt der Kategorie vor der Entalkoholisierung liegt.[^76-4]
+
 [^76-1]: Fassung gemäss Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 [^76-2]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^76-3]: Siehe Fussnote zu Art. 61 Abs. 3.
+[^76-4]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-### 4. Kapitel: Alkoholfreier Wein und alkoholfreier Schaumwein
+### 4. Kapitel: …
 
-#### Art. 77
+#### Art. 77–79
 
-**Begriff**
+[^7779-1]
 
-Alkoholfreier Wein oder alkoholfreier Schaumwein ist Wein, dem der Alkohol auf physikalischem Weg entzogen worden ist oder dessen Gärung so gelenkt wurde, dass kein Alkohol entsteht.
-
-#### Art. 78
-
-**Anforderungen**
-
-<sup>1</sup> Die Zugabe von Traubenmost, rektifiziertem Traubenmostkonzentrat oder Saccharose ist zulässig.
-
-<sup>2</sup> Flüchtige Bestandteile dürfen dem alkoholfreien Wein in derjenigen Menge wieder zugegeben werden, in der sie ihm während der Entalkoholisierung entzogen worden sind.
-
-<sup>3</sup> Im Übrigen gelten für alkoholfreien Wein und alkoholfreien Schaumwein die Anforderungen an Wein und Schaumwein nach dem 3. Kapitel sinngemäss.
-
-#### Art. 79
-
-**Sachbezeichnung**
-
-<sup>1</sup> Die Sachbezeichnung lautet «alkoholfreier (Schaum)Wein» oder «Wein ohne Alkohol» oder «entalkoholisierter (Schaum)Wein».
-
-<sup>2</sup> …[^79-1]
-
-<sup>3</sup> Die Zugabe von Aromen, die über die Menge der flüchtigen Bestandteile hinausgeht, ist zu deklarieren.
-
-<sup>4</sup> Damit ein Hinweis wie «kohlensäurehaltig» angebracht werden kann, müssen alkoholfreiem Schaumwein mindestens 4 g/l Kohlendioxid zugegeben worden sein. Der Hinweis muss in der Nähe der Sachbezeichnung angebracht werden.
-
-[^79-1]: Aufgehoben durch Ziff. I der V des EDI vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^7779-1]: Aufgehoben durch Ziff. I der V des EDI vom 28. Mai 2025, mit Wirkung seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
 ### 5. Kapitel: Traubenmost und Likörwein
 
@@ -2060,6 +2051,14 @@ Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen 
 
 [^161a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
+#### Art. 161b
+
+**Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^161b-1]
+
+Lebensmittel, die der Änderung vom 28. Mai 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^161b-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+
 #### Art. 162
 
 **Inkrafttreten**
@@ -2113,10 +2112,10 @@ Anhang 2[^t-1]
 
 <table>
 <tr><td>Produkt</td><td colspan="2">Untersuchungskriterien</td><td>Höchstwert KBE</td><td>Referenzmethoden für die Untersuchung</td></tr>
-<tr><td colspan="2">**1** **Mineralwasser und Quellwasser**</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">**1** **Mineralwasser und Quellwasser**</td><td></td><td></td><td></td></tr>
 <tr><td>11 – beim Quellaustritt</td><td colspan="2">Aerobe, mesophile Keime</td><td>100/ml</td><td>EN/ISO 6222:1999 Inkubationstemperatur: 30°C Inkubationszeit: 72 Stunden</td></tr>
-<tr><td>[tab]</td><td colspan="2">Escherichia coli</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td></tr>
-<tr><td>[tab]</td><td colspan="2">Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td></tr>
+<tr><td></td><td colspan="2">Escherichia coli</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td></tr>
+<tr><td></td><td colspan="2">Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td>12 – abgefüllt in Behältnisse</td><td colspan="2">*Escherichia coli*</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td></tr>
 <tr><td></td><td colspan="2">Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td></tr>
 <tr><td></td><td colspan="2">Pseudomonas aeruginosa</td><td>nn/100 ml</td><td>EN/ISO 16266</td></tr>
@@ -2344,29 +2343,27 @@ Anhang 8
 - 2\. Potenzieller Alkoholgehalt (in Volumenprozent): die Volumeneinheiten reinen Alkohols bei einer Temperatur von 20 °C, die durch vollständiges Vergären des in 100 Volumeneinheiten des Erzeugnisses enthaltenen Zuckers gebildet werden können.
 - 3\. Gesamtalkoholgehalt (in Volumenprozent): die Summe des vorhandenen und des potenziellen Alkoholgehalts.
 - 4\. Natürlicher Alkoholgehalt (in Volumenprozent): der Gesamtalkoholgehalt des Erzeugnisses vor jeglicher Anreicherung.
-- [tab]
 
 Anhang 9[^t-3]
 
-(Art. 69 Abs. 4, 72, 74 Abs. 1 und 2, 75 Abs. 5 sowie 86 Abs. 1)
+(Art. 69 Abs. 4, 72, 74, 75 Abs. 5 sowie 86 Abs. 1)
 
 ## Zulässige önologische Verfahren und Behandlungen sowie ihre Grenzen und Bedingungen
 
-[^annex9-lvlu1-1]
+[^t-3]: Fassung gemäss Ziff. II der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
-[^annex9-lvlu1-1]: In der AS nicht veröffentlicht. Diese Liste kann beim BLV, Schwarzenburgstrasse 155, 3003 Bern oder unter folgender Internetadresse eingesehen werden: www.blv.admin.ch &gt; Lebensmittel- und-Ernährung &gt; Rechts- und Vollzugsgrundlagen &gt; Gesetzgebung.
+Die zulässigen önologischen Verfahren und Behandlungen entsprechen jenen nach den Anhängen I, II A und III A der delegierten Verordnung (EU) 2019/934[^annex9-lvlu1-1]. Sofern nicht ausdrücklich anders angegeben, kann das beschriebene Verfahren oder die beschriebene Behandlung zur Anwendung kommen bei Wein (1), Jungwein (2), Likörwein (3) Schaumwein (4), Qualitätsschaumwein (5), aromatischem Qualitätsschaumwein (6), Schaumwein mit zugesetzter Kohlensäure (7), Perlwein (8), Perlwein mit zugesetzter Kohlensäure (9), Traubenmost (10), teilweise gegorenem Traubenmost (11), teilweise gegorenem Traubenmost aus eingetrockneten Trauben (12), konzentriertem Traubenmost (13), rektifiziertem Traubenmostkonzentrat (14), Wein aus eingetrockneten Trauben (15), Wein aus überreifen Trauben (16) sowie bei frischen Weintrauben und in unverarbeiteter Form zum unmittelbaren menschlichen Verbrauch bestimmtem teilweise vergorenem Traubenmost.
 
-Die zulässigen önologischen Verfahren und Behandlungen entsprechen jenen nach den Anhängen I, II A und III A der delegierten Verordnung (EU) 2019/934[^annex9-lvlu1-2]. Sofern nicht ausdrücklich anders angegeben, kann das beschriebene Verfahren oder die beschriebene Behandlung zur Anwendung kommen bei Wein (1), Jungwein (2), Likörwein (3) Schaumwein (4), Qualitätsschaumwein (5), aromatischem Qualitätsschaumwein (6), Schaumwein mit zugesetzter Kohlensäure (7), Perlwein (8), Perlwein mit zugesetzter Kohlensäure (9), Traubenmost (10), teilweise gegorenem Traubenmost (11), teilweise gegorenem Traubenmost aus eingetrockneten Trauben (12), konzentriertem Traubenmost (13), rektifiziertem Traubenmostkonzentrat (14), Wein aus eingetrockneten Trauben (15), Wein aus überreifen Trauben (16) sowie bei frischen Weintrauben und in unverarbeiteter Form zum unmittelbaren menschlichen Verbrauch bestimmtem teilweise vergorenem Traubenmost.
+Die Schweiz zählt zur Zone B gemäss Anlage I der Verordnung (EU) Nr. 1308/2013[^annex9-lvlu1-2].
 
-Die Schweiz zählt zur Zone CI gemäss Anlage I der Verordnung (EU) Nr. 1308/2013[^annex9-lvlu1-3].
+Die gemäss Anhang VIII der Verordnung (EU) Nr. 1308/2013 zulässigen önologischen Verfahren und Behandlungen sind ebenfalls anerkannt. In Abweichung von:
 
-Die übrigen gemäss der europäischen Gesetzgebung zulässigen önologischen Verfahren und Behandlungen sind unter Beachtung der Bedingungen für die Verwendung ebenfalls anerkannt.
+- a. Anhang VIII Teil I Abschnitt A Ziffer 2 Buchstabe b darf die Erhöhung des natürlichen Alkoholgehalts 2,5 Volumenprozent nicht überschreiten;
+- b. Anhang VIII Teil I Abschnitt B Ziffer 6 Buchstabe b darf bei Rotwein der maximale Gesamtalkoholgehalt der frischen Trauben, des Traubenmostes, des teilweise gegorenen Traubenmostes, des Jungweins oder des Weins auf 12,5 Volumenprozent angehoben werden;
+- c. Anhang VIII Teil I Abschnitt B Ziffer 6 Buchstabe b darf der Gesamtalkoholgehalt der frischen Trauben, des Traubenmostes, des teilweise gegorenen Traubenmostes, des Jungweins oder des Weins für die Erzeugung von Weinen mit einer kontrollierten Ursprungsbezeichnung einen Gehalt bis zu 15 Volumenprozent aufweisen, sofern dies von der kantonalen Gesetzgebung vorgesehen ist.
 
-- [tab]
-
-[^annex9-lvlu1-2]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers; ABl. L 149 vom 7.6.2019, S. 1.
-[^annex9-lvlu1-3]: Siehe Fussnote zu Art. 61 Abs. 3.
+[^annex9-lvlu1-1]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/68, ABl. L 12 vom 19.1.2022, S. 1.
+[^annex9-lvlu1-2]: Siehe Fussnote zu Art. 61 Abs. 3.
 
 Anhang 10
 
@@ -2374,7 +2371,7 @@ Anhang 10
 
 ## Zulässige Piktogramme nach Artikel 75 Absatz 1 Buchstabe e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20240201/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image4.png)
 
 Zulässig sind auch Piktogramme, die den obigen Vorlagen entsprechen und sich nur auf Milch oder Eier beziehen.
 
