@@ -3,20 +3,19 @@ canton: LU
 number: 800a
 title: Spitalgesetz
 language: de
-version: 2024-08-01
-valid_until: 2025-06-30
+version: 2025-07-01
 version_adopted: 2024-05-06
 adopted: 2006-09-11
 in_force: 2007-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800a"
-pdf: "https://srl.lu.ch/api/de/versions/4687/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Spitalgesetz
 
-vom 11.09.2006 (Stand 01.08.2024)
+vom 11.09.2006 (Stand 01.07.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -64,7 +63,12 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat stellt im Rahmen der Gesundheitsversorgungsplanung nach § 3 Absatz 3 des Gesundheitsgesetzes eine Planung für eine bedarfsgerechte Spitalversorgung im Kanton Luzern auf. Diese umfasst die Sicherstellung der stationären Behandlung im Spital oder in einem Geburtshaus für die Bevölkerung des Kantons, wobei private Trägerschaften angemessen in die Planung einzubeziehen sind.
 
-<sup>2</sup> Die Planung richtet sich nach den Kriterien des Krankenversicherungsrechts.
+<sup>2</sup> Die Planung richtet sich nach den Kriterien des Krankenversicherungsrechts und berücksichtigt zudem die folgenden Kriterien:
+
+- a. Gewährleistung einer qualitativ hochstehenden medizinischen Grundversorgung für die gesamte Kantonsbevölkerung,
+- b. Gewährleistung einer Notfallversorgung für die gesamte Kantonsbevölkerung,
+- c. Erreichbarkeit der Grund- und Notfallversorgung innert nützlicher Frist für die gesamte Kantonsbevölkerung,
+- d. Umschreibung der Grund- und Notfallversorgung, insbesondere durch die Bereiche Innere Medizin, Allgemeine Chirurgie, Gynäkologie/Geburtshilfe, Anästhesie, Intermediate Care Unit (IMC) und interdisziplinäre Notfallstation mit 24-Stunden-Bereitschaft.
 
 #### § 4a
 
@@ -159,7 +163,7 @@ beschliesst:
 
 **Abgeltung gemeinwirtschaftlicher Leistungen**
 
-<sup>1</sup> Der Kanton gewährt Listenspitälern zur Sicherstellung der Spitalversorgung im Rahmen der verfügbaren Mittel und des Leistungsauftrags nach § 5 Staatsbeiträge für die Erbringung gemeinwirtschaftlicher Leistungen.
+<sup>1</sup> Der Kanton gewährt Listenspitälern zur Sicherstellung der Spitalversorgung im Rahmen des Leistungsauftrags nach § 5 Staatsbeiträge für die Erbringung gemeinwirtschaftlicher Leistungen. Der Regierungsrat beschliesst im Rahmen der verfügbaren Mittel die jährliche Abgeltung an die einzelnen Listenspitäler.
 
 <sup>2</sup> Die Einwohnergemeinden beteiligen sich pauschal an den Kosten der sozialpsychiatrischen Leistungen der Listenspitäler, soweit im Leistungsauftrag dafür eine Abgeltung über die gemeinwirtschaftlichen Leistungen vorgesehen ist und die sozialpsychiatrischen Leistungen einen Zusammenhang mit der persönlichen Sozialhilfe im Sinn der §§ 24 ff. des Sozialhilfegesetzes vom 16. März 2015[^6d-1] aufweisen. Der Regierungsrat regelt die Einzelheiten durch Verordnung, insbesondere die Arten der sozialpsychiatrischen Leistungen, an denen sich die Gemeinden zu beteiligen haben, die Höhe der Beteiligung und die Aufteilung unter den Gemeinden. Er zieht die Gemeinden bei der Erarbeitung und Änderung des Verordnungsrechts in geeigneter Weise bei.
 
@@ -255,6 +259,11 @@ beschliesst:
 <sup>1</sup> Die Unternehmen stellen im Rahmen der Leistungsaufträge und -vereinbarungen des Kantons Luzern für alle Kantonseinwohnerinnen und -einwohner die Spitalversorgung gemäss § 2 wirksam, zweckmässig und wirtschaftlich sicher.
 
 <sup>2</sup> Die Luzerner Kantonsspital AG bietet Leistungen der Akut- und der Rehabilitationsmedizin mit Spitalbetrieben in Luzern, Sursee und Wolhusen an, die Luzerner Psychiatrie AG Leistungen der Psychiatrie mit Spitalbetrieben in Luzern, Kriens und St. Urban (Gemeinde Pfaffnau).
+
+<sup>2<sup>bis</sup></sup> In Luzern, Sursee und Wolhusen bietet die Luzerner Kantonsspital AG je mindestens eine medizinische Grund- und Notfallversorgung (Bereiche Innere Medizin, Allgemeine Chirurgie, Gynäkologie/Geburtshilfe, Anästhesie, Intermediate Care Unit [IMC] und interdisziplinäre Notfallstation mit 24-Stunden-Bereitschaft) an. Der Regierungsrat kann Ausnahmen von diesem Angebot zulassen, wenn
+
+- a. dafür die Voraussetzungen für eine Aufnahme in die Spitalliste und für die Erteilung eines Leistungsauftrags nach den Bestimmungen des Krankenversicherungsrechts nicht erfüllt sind, oder
+- b. die Erbringung des Angebots aus betrieblichen Gründen, insbesondere aufgrund von fehlendem Fachpersonal oder aufgrund von geringer Nachfrage, nicht mit der erforderlichen Qualität sichergestellt werden kann.
 
 <sup>3</sup> Sie können
 
