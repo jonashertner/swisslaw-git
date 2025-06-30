@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2025-06-14
+version: 2025-07-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 14 giugno 2025)[^t-2]
+del 14 ottobre 2012 (Stato 1° luglio 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -498,7 +498,7 @@ Il diritto di utilizzare gratuitamente il suolo pubblico per la raccolta di firm
 
 <sup>4</sup> ...[^48-1]
 
-[^48-1]: Abrogato nella votazione popolare del 29 nov. 2020, con effetto dal 19 dic. 2020. aranzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^48-1]: Abrogato nella votazione popolare del 29 nov. 2020, con effetto dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -1308,9 +1308,9 @@ La Corte costituzionale:
 
 #### Art. 127
 
-**Preavviso**
+[^127-1]
 
-Prima di ogni elezione del potere giudiziario, il Consiglio superiore della magistratura valuta le competenze dei candidati. Formula un preavviso.
+[^127-1]: Abrogato nella votazione popolare del 18 mag. 2025, con effetto dal 1° lug. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Capitolo 4: Corte dei conti
 
@@ -1344,7 +1344,7 @@ La Corte dei conti allestisce ogni anno il proprio preventivo di funzionamento, 
 
 <sup>2</sup> La Corte dei conti può chiedere lo scioglimento dai segreti previsti dalla legge mediante richiesta motivata che fissi i limiti e le finalità dell’indagine.
 
-## Titolo quinto :Organizzazioni territoriali e relazioni esterne
+## Titolo quinto: Organizzazioni territoriali e relazioni esterne
 
 ### Capitolo 1: Comuni
 
@@ -2674,7 +2674,6 @@ Consiglio superiore della magistratura 125ss
 
 - – composizione del 126
 - – organo intercantonale 125
-- – preavviso del 127
 - – vigilanza del 125
 
 Consiglio di Stato 101 ss
@@ -2929,7 +2928,7 @@ Elezione(i) 52ss
 
 - – dei
   - – giudici probiviri 123
-  - – magistrati del potere giudiziario 122, 123, 127
+  - – magistrati del potere giudiziario 122, 123
 
 - – del
   - – Consiglio di Stato 102
@@ -2939,7 +2938,6 @@ Elezione(i) 52ss
 - – dell’esecutivo comunale 141
 - – diritti politici 45
 - – partecipazione alle 45
-- – preavviso del Consiglio superiore della magistratura valuta 127
 - – sistema
   - – maggioritario 55
   - – proporzionale 54
@@ -3297,7 +3295,6 @@ Potere giudiziario 1116ss
 - – bilancio di previsione 121
 - – Consiglio superiore della magistratura 125
   - – composizione del 126
-  - – preavviso 127
 
 - – elezione dei magistrati del 52, 122
 - – incompatibilità 83

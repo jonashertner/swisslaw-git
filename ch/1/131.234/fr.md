@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2025-06-14
+version: 2025-07-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 14 juin 2025)[^t-1]
+du 14 octobre 2012 (État le 1<sup>er</sup> juillet 2025)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1305,9 +1305,9 @@ La Cour constitutionnelle:
 
 #### Art. 127
 
-**Préavis**
+[^127-1]
 
-Avant chaque élection du pouvoir judiciaire, le Conseil supérieur de la magistrature évalue les compétences des candidates et candidats. Il formule un préavis.
+[^127-1]: Abrogé en votation populaire du 18 mai 2025, avec effet au 1<sup>er</sup> juil. 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Chapitre IV Cour des comptes
 
@@ -2594,7 +2594,7 @@ Conseil d’État
 - – programme de législature 107
 - – séance du Grand Conseil 86
 
-Conseil supérieur de la magistrature 125 à 127
+Conseil supérieur de la magistrature 125 à 126
 
 Conseil des États 52
 
@@ -3159,7 +3159,7 @@ Subsidiarité 133
 
 Surveillance
 
-- – Conseil supérieur de la magistrature 125 à 127
+- – Conseil supérieur de la magistrature 125 à 126
 - – des communes 137
 - – des magistrates et magistrats du pouvoir judiciaire 125
 - – des professions de la santé 173
@@ -3206,7 +3206,7 @@ Traversée du Lac 192A
 Tribunaux
 
 - – généralités 116
-- – surveillance 125–127
+- – surveillance 125 à 126
 - – garanties de procédure 40
 
 Université 196

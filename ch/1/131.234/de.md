@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2025-06-14
+version: 2025-07-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250614-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250614/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 14. Juni 2025)[^t-2]
+vom 14. Oktober 2012 (Stand am 1. Juli 2025)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250614/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250701/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1308,9 +1308,9 @@ Der Verfassungsgerichtshof:
 
 #### Art. 127
 
-**Stellungnahme**
+[^127-1]
 
-Vor jeder Wahl der richterlichen Gewalt beurteilt der Aufsichtsrat der Gerichte die Kompetenzen der Kandidatinnen und Kandidaten. Er gibt eine Stellungnahme ab.
+[^127-1]: Aufgehoben in der Volksabstimmung vom 18. Mai 2025, mit Wirkung seit 1. Juli 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 4, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 4. Kapitel: Rechnungshof
 
@@ -2483,7 +2483,7 @@ Aufgaben (öffentliche) 148–151, 157–220
 Aufsicht
 
 - – Aufsichtsorgane 221–223
-- – Aufsichtsrat 125–127
+- – Aufsichtsrat 125, 126
 - – Oberaufsicht 94
 - – der Gemeinden 137
 - – der Gesundheitsberufe 173
@@ -2672,7 +2672,7 @@ Gerechtigkeit 1, 116<sup>3</sup>
 Gerichte
 
 - – Allgemeines 116
-- – Aufsicht 125–127
+- – Aufsicht 125, 126
 - – Verfahrensgarantien 40
 
 Gesetze
