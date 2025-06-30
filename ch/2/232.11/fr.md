@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 août 1992 sur la protection des marques et des ind
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20250701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/fr"
 
 (Loi sur la protection des marques, LPM)
 
-du 28 août 1992 (État le 1<sup>er</sup> juillet 2023)
+du 28 août 1992 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 122 de la Constitution[^ingress-1],[^ingress-2] vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)
 
@@ -75,7 +75,7 @@ Par marques antérieures, on entend:
 
 <sup>3</sup> Seul le titulaire de la marque antérieure peut invoquer les motifs de refus en vertu du présent article.
 
-[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^3-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4
 
@@ -105,7 +105,7 @@ Le droit à la marque appartient à celui qui la dépose le premier.
 
 <sup>2</sup> Le premier dépôt dans un État accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un État membre de la Convention de Paris.
 
-[^7-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^7-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 8
 
@@ -113,8 +113,8 @@ Le droit à la marque appartient à celui qui la dépose le premier.
 
 Quiconque présente un produit ou des services désignés par une marque dans une exposition, officielle ou officiellement reconnue au sens de la Convention du 22 novembre 1928[^8-1] concernant les expositions internationales, organisée dans un État membre de la Convention de Paris[^8-2] peut se prévaloir de la date de l’ouverture de l’exposition, à condition que la marque soit déposée dans les six mois qui suivent cette date.
 
-[^8-1]: [RS 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
-[^8-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^8-1]: [RS 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
+[^8-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 9
 
@@ -126,7 +126,7 @@ Quiconque présente un produit ou des services désignés par une marque dans un
 
 <sup>3</sup> L’inscription d’une priorité ne constitue qu’une présomption en faveur du titulaire de la marque.
 
-[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^9-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^9-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ### Section 3 Existence du droit à la marque
@@ -341,7 +341,7 @@ En dérogation à l’art. 2, let. a, une marque géographique peut être enregi
 - c. une indication de provenance faisant l’objet d’une ordonnance du Conseil fédéral édictée en vertu de l’art. 50, al. 2, ou une indication de provenance étrangère fondée sur une réglementation étrangère équivalente.
 
 [^27a-1]: Nouvelle teneur selon l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
-[^27a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27b
 
@@ -353,7 +353,7 @@ L’enregistrement d’une marque géographique peut être demandé par:
 - b. le canton suisse protégeant une appellation d’origine contrôlée, l’autorité étrangère responsable de la réglementation des appellations viticoles conformes aux exigences de l’art. 63 LAgr[^27b-1] ou le groupement ayant obtenu la protection d’une appellation viticole étrangère;
 - c. l’organisation faîtière du secteur économique, si le Conseil fédéral a édicté une ordonnance en vertu de l’art. 50, al. 2, ou si elle se fonde sur une réglementation étrangère équivalente.
 
-[^27b-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27b-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27c
 
@@ -613,7 +613,7 @@ La poursuite de la procédure est exclue en cas d’inobservation:
 - d.[^41-4] du délai pour présenter la demande de prolongation au sens de l’art. 10, al. 3;
 - e.[^41-5] des délais de la procédure de radiation visée aux art. 35*a* à 35*c*.
 
-[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^41-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^41-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^41-4]: Introduite par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -652,8 +652,8 @@ La poursuite de la procédure est exclue en cas d’inobservation:
 <sup>2</sup> Les autres dispositions de la présente loi sont applicables à moins que l’Arrangement de Madrid ou le Protocole de Madrid et le présent chapitre n’en disposent autrement.
 
 [^44-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1393](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
-[^44-2]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^44-3]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^44-2]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^44-3]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 
 #### Art. 45
 
@@ -670,8 +670,8 @@ Il est possible de requérir par l’intermédiaire de l’IPI:
 <sup>2</sup> L’enregistrement international d’une marque, d’une demande d’enregistrement, ou la modification d’un enregistrement international donnent lieu au paiement des taxes prescrites par l’Arrangement de Madrid, le Protocole de Madrid et l’ordonnance.
 
 [^45-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1393](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
-[^45-2]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^45-3]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^45-2]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^45-3]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 
 #### Art. 46
 
@@ -706,11 +706,11 @@ L’enregistrement international peut être transformé en demande d’enregistr
 
 [^tit2-1]: Nouvelle teneur selon l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
-## Chapitre 1 Dispositions générales
+### Chapitre 1 Dispositions générales
 
-[^tit3-1]
+[^tit2-chap1-1]
 
-[^tit3-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^tit2-chap1-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 47
 
@@ -789,7 +789,7 @@ Ne sont pas pris en compte dans le calcul visé à l’al. 2:
 <sup>5</sup> L’indication de provenance doit en outre correspondre au lieu de la transformation qui a conféré à la denrée alimentaire ses caractéristiques essentielles.
 
 [^48b-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48b-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la LF du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^48b-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la LF du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 
 #### Art. 48c
 
@@ -829,7 +829,7 @@ Les exigences prévues aux art. 48*a* à 48*c* ne sont pas applicables dans les 
 - b. un producteur démontre que l’indication de provenance utilisée correspond à la compréhension des milieux intéressés.
 
 [^48d-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48d-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^48d-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 49
 
@@ -880,9 +880,9 @@ Lorsque les intérêts d’un secteur économique l’exigent, le Conseil fédé
 
 ### Chapitre 2 Enregistrement des indications géographiques
 
-[^tit3-chap1-1]
+[^tit2-chap2-1]
 
-[^tit3-chap1-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^tit2-chap2-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 50b
 
@@ -925,9 +925,9 @@ Les indications géographiques enregistrées sont protégées en particulier con
 
 ### Chapitre 3 Enregistrement international des indications géographiques
 
-[^tit3-chap2-1]
+[^tit2-chap3-1]
 
-[^tit3-chap2-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^tit2-chap3-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 50c
 
@@ -942,7 +942,7 @@ L’IPI est l’autorité chargée de l’administration de l’Acte de Genève 
 - a. l’enregistrement international des appellations d’origine et indications géographiques dont l’aire géographique d’origine est située sur le territoire suisse (art. 50*d*);
 - b. les effets de l’enregistrement international des appellations d’origine et indications géographiques dont la protection est demandée sur le territoire suisse (art. 50*e*).
 
-[^50c-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50c-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50d
 
@@ -959,8 +959,8 @@ L’enregistrement international ou la modification de l’enregistrement intern
 
 <sup>2</sup> Le Conseil fédéral règle les modalités de la procédure.
 
-[^50d-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^50d-2]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50d-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^50d-2]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50e
 
@@ -986,7 +986,7 @@ Les effets de l’enregistrement international d’une appellation d’origine o
 
 <sup>7</sup> Le Conseil fédéral règle les modalités de la procédure.
 
-[^50e-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50e-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50f
 
@@ -1065,7 +1065,7 @@ La personne qui subit ou risque de subir une violation de son droit à la marque
 <sup>4</sup> La personne qui dispose d’une licence exclusive peut intenter une action indépendamment de l’inscription de la licence au registre, pour autant que le contrat de licence ne l’exclue pas explicitement. Tout preneur de licence peut intervenir dans une procédure en contrefaçon pour faire valoir le dommage qu’il a subi.[^55-4]
 
 [^55-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^55-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^55-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^55-3]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^55-4]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1231,7 +1231,7 @@ Les actes visés à l’art. 13, al. 2<sup>bis</sup> ne sont pas punissables.
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^67-1] s’appliquent aux infractions commises dans la gestion d’une entreprise, par un subordonné, un mandataire ou un représentant.
 
-[^67-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^67-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 68
 
@@ -1240,7 +1240,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 L’art. 69 du code pénal[^68-2] est applicable; le juge peut ordonner la confiscation de tout l’objet sur lequel une marque ou une indication de provenance a été illicitement apposée.
 
 [^68-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^68-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 69
 
@@ -1248,84 +1248,109 @@ L’art. 69 du code pénal[^68-2] est applicable; le juge peut ordonner la confi
 
 La poursuite pénale incombe aux cantons.
 
-### Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+### Chapitre 3 Interventions lors de l’introduction de produits sur le territoire douanier ou de leur acheminement hors de celui‑ci
 
-[^tit4-chap3-1]
+[^tit3-chap3-1]
 
-[^tit4-chap3-1]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit3-chap3-1]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 70
 
 **Dénonciation d’envois suspects**[^70-1]
 
-<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’une marque, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes.[^70-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’une marque, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 lorsqu’il y a lieu de soupçonner que l’introduction sur le territoire douanier de produits désignés illicitement par une marque ou une indication de provenance ou l’acheminement de tels produits hors du territoire douanier sont imminents.
 
-<sup>2</sup> Dans ce cas, il est habilité à retenir les produits pendant trois jours ouvrables afin de permettre au titulaire de la marque, à l’ayant droit à l’indication de provenance ou à une association professionnelle ou économique ayant qualité pour intenter une action en vertu de l’art. 56 de déposer une demande conformément à l’art. 71.
+<sup>2</sup> Dans ce cas, il est habilité à retenir les produits pendant trois jours ouvrables afin de permettre au titulaire de la marque, à l’ayant droit à l’indication de provenance ou à une partie qui a qualité pour intenter une action en vertu de l’art. 56 de déposer une demande au sens de l’art. 71.
 
-[^70-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^70-1]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 71
 
-**Demande d’intervention**
+**Demande d’intervention**[^71-1]
 
-<sup>1</sup> Lorsque le titulaire d’une marque, le preneur de licence qui a qualité pour agir, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits sur lesquels la marque ou l’indication de provenance a été illicitement apposée ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF[^71-1] de refuser la mainlevée de ces produits.[^71-2]
+<sup>1</sup> Lorsque le titulaire d’une marque, le preneur de licence qui a qualité pour agir, l’ayant droit à une indication de provenance ou une partie qui a qualité pour intenter une action en vertu de l’art. 56 a des indices concrets que l’introduction sur le territoire douanier de produits désignés illicitement par une marque ou une indication de provenance ou l’acheminement de tels produits hors du territoire douanier sont imminents, il peut demander par écrit à l’OFDF de refuser la mainlevée des produits.
 
-<sup>2</sup> Le requérant fournira à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur sa demande; il lui remettra notamment une description précise des produits.
+<sup>2</sup>
 
-<sup>3</sup> L’OFDF statue définitivement. Il peut percevoir un émolument pour couvrir les frais administratifs.
+Le requérant peut par la même occasion demander par écrit que les produits soient détruits:
 
-[^71-1]: Nouvelle expression selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
-[^71-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. selon la procédure ordinaire (art. 72*c* à 72*h*), ou
+- b. selon la procédure simplifiée (art. 72*i*) s’il s’agit d’un petit envoi.
+
+<sup>3</sup> Dans la demande visée à l’al. 2, il peut exiger que les produits lui soient remis afin qu’il les détruise lui-même.
+
+<sup>4</sup> La demande visée à l’al. 2, let. a, ne donne pas lieu à une prolongation des délais prévus à l’art. 72, al. 3 et 4, pour l’obtention de mesures provisionnelles.
+
+<sup>5</sup> Le Conseil fédéral détermine ce qu’il faut entendre par petit envoi; ce faisant, il tient compte notamment du nombre d’unités contenues dans un envoi.
+
+<sup>6</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande, notamment une description précise des produits.
+
+<sup>7</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
+
+[^71-1]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72
 
 **Rétention des produits**[^72-1]
 
-<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 71, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse de produits sur lesquels une marque ou une indication de provenance a été illicitement apposée ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^72-2]
+<sup>1</sup>
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+Lorsque, à la suite d’une demande d’intervention au sens de l’art. 71, al. 1, l’OFDF a des raisons de soupçonner que les produits destinés à être introduits sur le territoire douanier ou à être acheminés hors de celui-ci sont désignés illicitement par une marque ou une indication de provenance, il:
 
-<sup>3</sup> Si les circonstances le justifient, il peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
+- a. retient les produits, et
+- b. en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, de l’autre.
 
-[^72-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Si une demande de destruction d’un petit envoi (art. 71, al. 2, let. b) a été déposée avec la demande d’intervention visée à l’art. 71, al. 1, la procédure est régie uniquement par l’art. 72*i*.
+
+<sup>3</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les produits durant dix jours ouvrables au plus à compter du moment où il l’a informé conformément à l’al. 1, let. b.
+
+<sup>4</sup> Si les circonstances le justifient, il peut prolonger ce délai de dix jours ouvrables au plus.
+
+<sup>5</sup> Lorsqu’il s’agit d’un petit envoi, il peut confier à l’IPI la responsabilité d’informer le requérant conformément à l’al. 1, let. b, et de conduire la suite de la procédure.
+
+[^72-1]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72a
 
-**Échantillons**[^72a-1]
+**Spécimens ou échantillons**[^72a-1]
 
-<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des spécimens ou des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
 
-<sup>2</sup> Les échantillons sont prélevés et envoyés aux frais du requérant.
+<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des spécimens ou des échantillons.
 
-<sup>3</sup> Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
+<sup>3</sup> Une fois l’examen des spécimens ou des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des spécimens ou des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
 
-[^72a-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72a-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72b
 
 **Protection des secrets de fabrication ou d’affaires**[^72b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 72, al. 1 l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 72*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 72, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 72*a*, al. 1, de remettre des spécimens ou des échantillons au requérant ou de le laisser examiner sur place les produits retenus.[^72b-2]
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise de spécimens ou d’échantillons.[^72b-3]
 
 [^72b-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72b-2]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72b-3]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72c
 
-**Demande de destruction des produits**[^72c-1]
+**Information concernant la demande de destruction des produits[^72c-2]**[^72c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 71, al. 1 le requérant peut demander par écrit à l’OFDF la destruction des produits.
+<sup>1</sup> …[^72c-3]
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 72, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF[^72c-4] en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 72, al. 1.
 
-<sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 72, al. 2 et 3 pour l’obtention de mesures provisionnelles.
+<sup>3</sup> …[^72c-5]
 
 [^72c-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72c-2]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-3]: Abrogé par le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-4]: Nouvelle expression selon le ch. I 3 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
+[^72c-5]: Abrogé par le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72d
 
@@ -1333,17 +1358,18 @@ La poursuite pénale incombe aux cantons.
 
 <sup>1</sup> La destruction des produits requiert l’approbation du déclarant, du possesseur ou du propriétaire.
 
-<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des produits ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 72, al. 2 et 3.
+<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des produits ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 72, al. 2 et 3[^72d-2].
 
 [^72d-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72d-2]: Actuellement: art. 72, al. 3 et 4.
 
 #### Art. 72e
 
 **Moyens de preuve**[^72e-1]
 
-Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des produits, l’OFDF prélève des spécimens ou des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
-[^72e-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72e-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72f
 
@@ -1351,9 +1377,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la destruction des produits se révèle infondée, le requérant répond seul du dommage qui en résulte.
 
-<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des produits donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.
+<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des produits donne son approbation par écrit pour leur destruction et si celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.[^72f-2]
 
 [^72f-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72f-2]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72g
 
@@ -1361,9 +1388,10 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Le requérant supporte les frais liés à la destruction des produits.
 
-<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 72*e* est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 72*f*, al. 1.
+<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des spécimens ou des échantillons au sens de l’art. 72*e* est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 72*f*, al. 1.[^72g-2]
 
 [^72g-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72g-2]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72h
 
@@ -1371,9 +1399,33 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 <sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
-<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
+<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement de spécimens ou d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.[^72h-2]
 
 [^72h-1]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72h-2]: Nouvelle teneur selon le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+#### Art. 72i
+
+**Procédure simplifiée de destruction de petits envois**[^72i-1]
+
+<sup>1</sup>
+
+S’il s’agit d’un petit envoi, l’OFDF retient les produits:
+
+- a. si, à la suite d’une demande d’intervention au sens de l’art. 71, al. 1, il a des raisons de soupçonner que ces produits destinés à être introduits sur le territoire douanier ou à être acheminés hors de celui-ci sont désignés illicitement par une marque ou une indication de provenance, et
+- b. si une demande de destruction d’un petit envoi (art. 71, al. 2, let. b) a été déposée.
+
+<sup>2</sup> Il peut confier à l’IPI la responsabilité de la suite de la procédure.
+
+<sup>3</sup> L’autorité compétente informe le déclarant, le possesseur ou le propriétaire de son soupçon et de la rétention des produits et lui signifie que les produits seront détruits s’il ne s’y oppose pas expressément dans les dix jours ouvrables à compter de la réception de l’information.
+
+<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le requérant. Pour la suite de la procédure, les art. 72, al. 3 et 4, 72*a*, 72*b* et 72*h* s’appliquent par analogie.
+
+<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les produits aux frais du requérant au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au requérant en vue de leur destruction si celui-ci l’a requis conformément à l’art. 71, al. 3. Toute demande de dommages-intérêts du requérant à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
+
+<sup>6</sup> L’autorité compétente informe le requérant de la quantité des produits détruits en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
+
+[^72i-1]: Introduit par le ch. I 4 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Titre 4 Dispositions finales
 
@@ -1391,7 +1443,7 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 
 La loi fédérale du 26 septembre 1890[^74-1] concernant la protection des marques de fabrique et de commerce, des indications de provenance et des mentions de récompenses industrielles est abrogée. Cependant, l’art. 16<sup>bis</sup>, al. 2, reste applicable jusqu’à l’entrée en vigueur de l’art. 36 de la présente loi.
 
-[^74-1]: [RS **2** 837; [RO 1951 906](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. e]
+[^74-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)837; [RO 1951 906](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. e]
 
 #### Art. 75
 
@@ -1402,7 +1454,7 @@ La loi fédérale du 26 septembre 1890[^74-1] concernant la protection des marqu
 <sup>3.</sup> Dans tous les actes législatifs, l’expression «*marque de fabrique et de com**merce*» est remplacée par l’expression «*marque*», à l’exception des art. 1 et 2 de la loi fédérale du 5 juin 1931 pour la protection des armoiries publiques et autres signes publics[^75-2]. Les actes législatifs concernés seront adaptés à la prochaine occasion.
 
 [^75-1]: Ces mod. peuvent être consultées au [RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274).
-[^75-2]: [RS **2** 928; [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 13. [RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)annexe 3 ch. I al. 1]. Voir actuellement la L du 21 juin 2013 sur la protection des armoiries ([RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^75-2]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)928; [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 13. [RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)annexe 3 ch. I al. 1]. Voir actuellement la L du 21 juin 2013 sur la protection des armoiries ([RS 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)).
 
 ### Chapitre 3 Dispositions transitoires
 

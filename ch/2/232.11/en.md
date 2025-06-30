@@ -4,11 +4,11 @@ title: "Federal Act of 28 August 1992 on the Protection of Trade Marks and Indic
 short: TmPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: en
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20250701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Trade Mark Protection Act, TmPA)
 
-of 28 August 1992 (Status as of 1 July 2023) [3]
+of 28 August 1992 (Status as of 1 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Article 122 of the Federal Constitution[^ingress-1],[^ingress-2]
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)
 
@@ -53,7 +53,6 @@ Excluded from trade mark protection are:
 
 - a. signs that are in the public domain, except where they have become established as a trade mark through use for the goods or services for which they are being claimed.
 - b. shapes that constitute the nature of the goods themselves or shapes of the goods or their packaging that are technically necessary.
-- [tab]
 - c. misleading signs;
 - d. signs contrary to public policy, morality or applicable law.
 
@@ -78,7 +77,7 @@ An earlier trade mark is:
 
 <sup>3</sup> The grounds for refusal under this Article may only be invoked by the proprietor of the earlier trade mark.
 
-[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4
 
@@ -108,7 +107,7 @@ A trade mark right belongs to the person who first files the trade mark.
 
 <sup>2</sup> The first filing in a state that grants reciprocity to Switzerland has the same effect as the first filing in a Member State of the Paris Convention.
 
-[^7-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^7-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 8
 
@@ -116,8 +115,8 @@ A trade mark right belongs to the person who first files the trade mark.
 
 Any person who exhibits goods or services bearing a trade mark at an official or officially recognised exhibition under the Convention of 22 November 1928[^8-1] Relating to International Exhibitions in a Member State of the Paris Convention[^8-2], may claim the opening date of the exhibition for filing the application provided that the trade mark is filed within six months of this date.
 
-[^8-1]: [SR 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
-[^8-2]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^8-1]: [SR 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
+[^8-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 9
 
@@ -129,7 +128,7 @@ Any person who exhibits goods or services bearing a trade mark at an official or
 
 <sup>3</sup> Registration of priority is merely a presumption in favour of the proprietor of the trade mark.
 
-[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^9-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ### Section 3 Existence of a Trade Mark Right
@@ -344,7 +343,7 @@ By way of derogation from Article 2 letter a, a geographical mark may be registe
 - c. an indication of source that is the subject matter of a Federal Council ordinance under Article 50 paragraph 2, or a foreign indication of source that is based on an equivalent foreign regulation.
 
 [^27a-1]: Amended by Annex of FD of 19 March 2021 on the Approval of the Geneva Act of the Lisbon Agreement for the Protection of Appellations of Origin and Geographical Indications and on its implementation, in force since 1 Dec. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
-[^27a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27b
 
@@ -356,7 +355,7 @@ The registration of a geographical mark may be requested by:
 - b. the Swiss canton that protects the *appellation d’origine contrôlée* or the foreign authority responsible for the regulation of wine denominations corresponding to Article 63 AgricA[^27b-1], as well as the group that obtained the protection of such a foreign wine denomination;
 - c. the umbrella organisation of an economic sector for which the Federal Council has enacted an ordinance based on Article 50 paragraph 2 or which acts on the basis of on an equivalent foreign regulation.
 
-[^27b-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27b-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27c
 
@@ -483,7 +482,7 @@ The IPI shall cancel a trade mark registration in whole or in part if:
 - d.[^35-2] the protected appellation of origin or the protected geographical indication on which the geographical mark is based is cancelled;
 - e.[^35-3] a request for cancellation is approved.
 
-[^35-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^35-1]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^35-2]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^35-3]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -614,7 +613,7 @@ Further processing is ruled out in the case of failure to observe:
 - d.[^41-4] the time limit for filing an application for renewal under Article 10 paragraph 3;
 - e.[^41-5] the time limits in cancellation proceedings under Articles 35*a*–35*c*.
 
-[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^41-2]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^41-3]: Amended by Annex No 2 of the FA of 24 March 1995 on the Status and Tasks of the Swiss Federal Institute of Intellectual Property, in force since 1 Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^41-4]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); BBl **2006** I).
@@ -656,8 +655,8 @@ Any person who is party to an administrative procedure under this Act but is not
 
 <sup>2</sup> The other provisions of this Act apply except where the Madrid Agreement, the Madrid Protocol or this Chapter provide otherwise.
 
-[^44-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^44-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^44-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^44-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 
 #### Art. 45
 
@@ -673,7 +672,7 @@ It is possible to request the following through the intermediary of the IPI:
 
 <sup>2</sup> The fees as set out in the Madrid Agreement, the Madrid Protocol and in the Ordinance must be paid for the international registration of a trade mark, an application for registration or the modification of an international registration.
 
-[^45-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
+[^45-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
 [^45-2]: SR **0.232.141.4**
 
 #### Art. 46
@@ -788,7 +787,7 @@ Excluded from the calculation under paragraph 2 are:
 <sup>5</sup> In addition, the indication of source must correspond to the place where the processing, which has given the foodstuff its essential characteristics, has taken place.
 
 [^48b-1]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now the FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now the FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 
 #### Art. 48c
 
@@ -828,7 +827,7 @@ The requirements set out in Articles 48*a*–48*c* do not apply if:
 - b. a manufacturer is able to prove that the indications of source used correspond to the relevant public.
 
 [^48d-1]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48d-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^48d-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 49
 
@@ -941,7 +940,7 @@ The IPI is responsible for administering the Geneva Act for Switzerland in the f
 - a. the international registration of appellations of origin and geographical indications whose geographical area of origin lies on Swiss territory (Art. 50*d*);
 - b. the effects of the international registration of appellations of origin and geographical indications whose protection on Swiss territory has been requested (Art. 50*e*).
 
-[^50c-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50c-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50d
 
@@ -958,8 +957,8 @@ An application for the international registration or the amendment of the intern
 
 <sup>2</sup> The Federal Council shall regulate the details of the procedure.
 
-[^50d-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^50d-2]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50d-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^50d-2]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50e
 
@@ -985,7 +984,7 @@ The effects of the international registration of an appellation of origin or geo
 
 <sup>7</sup> The Federal Council shall regulate the details of the procedure.
 
-[^50e-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50e-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50f
 
@@ -1064,7 +1063,7 @@ Any person whose right to a trade mark or an indication of source is infringed o
 <sup>4</sup> Any person who holds an exclusive licence is entitled to bring a separate action irrespective of the registration of the licence in the Register unless this is expressly excluded in the licence agreement. Any licensees may join an infringement action in order to claim for their own damages.[^55-4]
 
 [^55-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^55-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^55-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^55-3]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^55-4]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1230,7 +1229,7 @@ Acts under Article 13 paragraph 2<sup>bis</sup> are not criminal offences.
 
 Articles 6 and 7 of the Federal Act of 22 March 1974[^67-1] on Administrative Criminal Law apply to offences committed within a business by subordinates, agents or representatives.
 
-[^67-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^67-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 68
 
@@ -1239,7 +1238,7 @@ Articles 6 and 7 of the Federal Act of 22 March 1974[^67-1] on Administrative Cr
 Article 69 of the Swiss Criminal Code[^68-2] applies; the court can order the forfeiture of an item which unlawfully bears a trade mark or an indication of source in its entirety.
 
 [^68-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^68-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 69
 
@@ -1247,60 +1246,80 @@ Article 69 of the Swiss Criminal Code[^68-2] applies; the court can order the fo
 
 Criminal prosecution is a matter for the cantonal authorities.
 
-### Chapter 3 Assistance provided by the Federal Office for Customs and Border Security
+### Chapter 3 Assistance in connection with Goods being brought into or taken out of the Customs Territory
 
 [^tit3-chap3-1]
 
-[^tit3-chap3-1]: Amended by No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit3-chap3-1]: Amended by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 70
 
 **Notification of suspicious consignments**[^70-1]
 
-<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of the trade mark, the person entitled to use an indication of source or a party entitled to institute proceedings under Article 56 if there is any suspicion of the imminent transport of goods that unlawfully bear a trade mark or an indication of source into or out of the customs territory of Switzerland.[^70-2]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of the trade mark, the person entitled to use an indication of source or a party entitled to institute proceedings in accordance with Article 56 if there is any suspicion that goods are about to be brought into or taken out of the customs territory that unlawfully bear a trade mark or an indication of source.
 
-<sup>2</sup> In such cases, the FOCBS[^70-3] is authorised to withhold the goods for three working days, in order that the proprietor of the trade mark, the person entitled to use the indication of source or a professional or trade association entitled to institute proceedings under Article 56 may file an application under Article 71.
+<sup>2</sup> In such cases, the FOCBS is authorised to detain the goods for three working days, in order that the proprietor of the trade mark, the person entitled to use the indication of source or a party entitled to institute proceedings in accordance with Article 56 may file an application in accordance with Article 71.
 
-[^70-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Amended by No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^70-3]: Name in accordance with No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
+[^70-1]: Amended by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 71
 
-**Application for assistance**
+**Application for assistance**[^71-1]
 
-<sup>1</sup> If the proprietor of the trade mark, the licensee entitled to institute proceedings, the person entitled to use an indication of source or a party entitled to institute proceedings under Article 56 has clear indications of the imminent transport of goods that unlawfully bear a trade mark or an indication of source into or out of the customs territory of Switzerland, he or she may request the FOCBS in writing to refuse the release of the goods.[^71-1]
+<sup>1</sup> If the proprietor of the trade mark, the licensee entitled to institute proceedings, the person entitled to use an indication of source or a party entitled to institute proceedings in accordance with Article 56 has clear indications that goods unlawfully bearing a trade mark or an indication of source are about to be brought into or taken out of the customs territory of Switzerland, that person may request the FOCBS in writing to refuse the release of the goods.
 
-<sup>2</sup> The applicant must provide all the information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the goods.
+<sup>2</sup>
 
-<sup>3</sup> The FOCBS shall make the final decision on the application. It may charge a fee to cover the administrative costs.
+Applicants may at the same time apply in writing for the goods to be destroyed:
 
-[^71-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. in accordance with the ordinary procedure (Art. 72*c*–72*h*); or
+- b. in accordance with the simplified procedure (Art. 72*i*) if the consignment is small.
+
+<sup>3</sup> In the application in accordance with paragraph 2, they may request that the goods be handed over to them so that they can destroy them themselves.
+
+<sup>4</sup> The application in accordance with paragraph 2 letter a must not result in the time limits for obtaining preliminary measures in accordance with Article 72 paragraphs 3 and 4 being extended.
+
+<sup>5</sup> The Federal Council shall determine what constitutes a small consignment, taking into account in particular the number of units contained in a consignment.
+
+<sup>6</sup> Applicants shall provide all the information available to them that the FOCBS requires in order to be able to decide on the application; this shall include a precise description of the goods.
+
+<sup>7</sup> The FOCBS shall take the final decision on the application. It may charge a fee to cover the administrative costs.
+
+[^71-1]: Amended by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72
 
-**Withholding of goods**[^72-1]
+**Detention of goods**[^72-1]
 
-<sup>1</sup> If the FOCBS, as a result of an application under Article 71 paragraph 1, has reasonable grounds to suspect that certain goods intended to be transported into or out of the customs territory of Switzerland unlawfully bear a trade mark or indication of source, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^72-2]
+<sup>1</sup>
 
-<sup>2</sup> It shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
+If, as a result of an application for assistance in accordance with Article 71 paragraph 1, the FOCBS has grounds to suspect that goods intended to be brought into or taken out of the Swiss customs territory unlawfully bear a trade mark or indication of source, it shall:
 
-<sup>3</sup> Where justified by circumstances, it may withhold the goods for a maximum of ten additional working days.
+- a. detain the goods; and
+- b. inform the applicant and the declarant, holder or owner of the goods.
 
-[^72-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> If an application for the destruction of small consignments (Art. 71 para. 2 let. b) was submitted with the application for assistance in accordance with Article 71 paragraph 1, the procedure shall be governed exclusively by Article 72*i*.
+
+<sup>3</sup> The FOCBS shall detain the goods for a maximum of ten working days from the date on which the applicant received the notification in accordance with paragraph 1 letter b so that the applicant may obtain preliminary measures.
+
+<sup>4</sup> Where justified by the circumstances, it may detain the goods for a maximum of ten additional working days.
+
+<sup>5</sup> If the consignment is small, the FOCBS may transfer responsibility for the notification in accordance with paragraph 1 letter b and the further procedural steps to the IPI.
+
+[^72-1]: Amended by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72a
 
 **Specimens or samples**[^72a-1]
 
-<sup>1</sup> While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, specimens or samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the FOCBS[^72a-2] is authorised to hand over or deliver to the applicant, on request, specimens or samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The specimens or samples are collected and delivered at the expense of the applicant.
 
 <sup>3</sup> They must be returned after the examination has been carried out, if this is reasonable. If specimens or samples are retained by the applicant, they are subject to the provisions of customs legislation.
 
 [^72a-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72a-2]: Name in accordance with No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 72b
 
@@ -1316,15 +1335,18 @@ Criminal prosecution is a matter for the cantonal authorities.
 
 #### Art. 72c
 
-**Application for destruction of the goods**[^72c-1]
+**Notification of the application for destruction of goods[^72c-2]**[^72c-1]
 
-<sup>1</sup> When making an application under Article 71 paragraph 1, the applicant may submit a written request to the FOCBS to destroy the goods.
+<sup>1</sup> …[^72c-3]
 
 <sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 72 paragraph 1.
 
-<sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 72 paragraphs 2 and 3 being extended.
+<sup>3</sup> …[^72c-4]
 
 [^72c-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72c-2]: Amended by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-3]: Repealed by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-4]: Repealed by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72d
 
@@ -1332,9 +1354,10 @@ Criminal prosecution is a matter for the cantonal authorities.
 
 <sup>1</sup> The destruction of the goods requires the consent of the declarant, holder or owner.
 
-<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits under Article 72 paragraphs 2 and 3.
+<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits under Article 72 paragraphs 2 and 3[^72d-2].
 
 [^72d-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72d-2]: Presently: Art. 72 para. 3 and 4.
 
 #### Art. 72e
 
@@ -1374,6 +1397,29 @@ Before the destruction of the goods, the FOCBS shall remove specimens or samples
 
 [^72h-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
+#### Art. 72i
+
+**Simplified procedure for destroying small consignments**[^72i-1]
+
+<sup>1</sup>
+
+The FOCBS shall detain goods if the consignment is small and:
+
+- a. as a result of an application for assistance in accordance with Article 71 paragraph 1, it has grounds to suspect that the goods intended to be brought into or taken out of the Swiss customs territory unlawfully bear a trade mark or indication of source; and
+- b. an application for the destruction of small consignments (Art. 71 para. 2 let. b) has been submitted.
+
+<sup>2</sup> It may transfer responsibility for conducting the further procedure to the IPI.
+
+<sup>3</sup> The competent authority shall provide the declarant, holder or owner of the goods with notification of the suspicion and of the detained goods and inform the declarant, holder or owner that the goods will be destroyed if he does not expressly object to the destruction within ten working days of receiving this notification.
+
+<sup>4</sup> If the declarant, holder or owner expressly objects to the destruction within the time limit specified in paragraph 3, the competent authority shall notify the applicant accordingly. The further procedure shall be governed *mutatis mutandis* by Articles 72 paragraphs 3 and 4, 72*a*, 72*b* and 72*h*.
+
+<sup>5</sup> If the declarant, holder or owner agrees to the destruction or does not give an opinion within the time limit referred to in paragraph 3, the competent authority shall destroy the goods at the applicant’s expense no earlier than three months after the notification specified in paragraph 3 or hand them over to the applicant for destruction if the applicant has requested this in accordance with Article 71 paragraph 3. Claims for damages by the applicant against the declarant, holder or owner are excluded.
+
+<sup>6</sup> The competent authority shall provide the applicant with information about the quantity and type of the goods destroyed in accordance with paragraph 5 and about the senders, whether inside or outside Switzerland.
+
+[^72i-1]: Inserted by No I 4 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
 ## Title 4 Final Provisions
 
 ### Chapter 1 Implementation
@@ -1401,7 +1447,7 @@ The Federal Act of 26 September 1890[^74-1] on the Protection of Factory and Tra
 <sup>3.</sup> The expressions «factory and trade marks» shall be replaced by «trade marks» in all enactments; the exception shall be Articles 1 and 2 of the Federal Act of 5 June 1931[^75-2] on the Protection of Public Coats of Arms and other Public Signs. The enactments affected shall be amended at the next possible opportunity.
 
 [^75-1]: These amendments may be consulted under [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274).
-[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Annex 3 No I 1]. See now the FA of 21 June 2013 ([SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Annex 3 No I 1]. See now the FA of 21 June 2013 ([SR 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)).
 
 ### Chapter 3 Transitional Provisions
 

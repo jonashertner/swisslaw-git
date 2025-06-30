@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. August 1992 über den Schutz von Marken und Herkunf
 short: MSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20250701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/de"
 
 (Markenschutzgesetz, MSchG)
 
-vom 28. August 1992 (Stand am 1. Juli 2023)
+vom 28. August 1992 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 122 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)
 
@@ -75,7 +75,7 @@ Als ältere Marken gelten:
 
 <sup>3</sup> Auf die Ausschlussgründe nach diesem Artikel kann sich nur der Inhaber der älteren Marke berufen.
 
-[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^3-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4
 
@@ -105,7 +105,7 @@ Das Markenrecht steht demjenigen zu, der die Marke zuerst hinterlegt.
 
 <sup>2</sup> Die Ersthinterlegung in einem Staat, welcher der Schweiz Gegenrecht hält, hat die gleiche Wirkung wie die Ersthinterlegung in einem Mitgliedstaat der Pariser Verbandsübereinkunft.
 
-[^7-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^7-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 8
 
@@ -113,8 +113,8 @@ Das Markenrecht steht demjenigen zu, der die Marke zuerst hinterlegt.
 
 Wer eine mit einer Marke gekennzeichnete Ware oder Dienstleistung auf einer offiziellen oder offiziell anerkannten Ausstellung im Sinne des Übereinkommens vom 22. November 1928[^8-1] über die internationalen Ausstellungen in einem Mitgliedstaat der Pariser Verbandsübereinkunft[^8-2] vorstellt, kann für die Hinterlegung das Datum des Eröffnungstages der Ausstellung beanspruchen, sofern er die Marke innerhalb von sechs Monaten nach diesem Zeitpunkt hinterlegt.
 
-[^8-1]: [SR 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
-[^8-2]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^8-1]: [SR 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
+[^8-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 9
 
@@ -126,7 +126,7 @@ Wer eine mit einer Marke gekennzeichnete Ware oder Dienstleistung auf einer offi
 
 <sup>3</sup> Die Eintragung einer Priorität begründet lediglich eine Vermutung zugunsten des Markeninhabers.
 
-[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^9-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^9-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ### 3. Abschnitt: Bestand des Markenrechts
@@ -341,7 +341,7 @@ In Abweichung von Artikel 2 Buchstabe a kann eine geografische Marke eingetragen
 - c. für eine Herkunftsangabe, die Gegenstand einer Verordnung des Bundesrates nach Artikel 50 Absatz 2 ist, oder für eine ausländische Herkunftsangabe, die sich auf eine gleichwertige ausländische Regelung stützt.
 
 [^27a-1]: Fassung gemäss Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
-[^27a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27b
 
@@ -353,7 +353,7 @@ Die Eintragung einer geografischen Marke kann verlangt werden:
 - b. vom Schweizer Kanton, der die kontrollierte Ursprungsbezeichnung schützt, oder von der ausländischen Behörde, die für die Regelung von Weinbezeichnungen zuständig ist, welche Artikel 63 LwG[^27b-1] entsprechen, sowie von der Gruppierung, die eine solche ausländische Weinbezeichnung hat schützen lassen;
 - c. von der Dachorganisation einer Branche, für die der Bundesrat gestützt auf Artikel 50 Absatz 2 eine Verordnung erlassen hat oder die sich auf eine gleichwertige ausländische Regelung stützt.
 
-[^27b-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27b-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 27c
 
@@ -480,7 +480,7 @@ Das IGE löscht eine Markeneintragung ganz oder teilweise; wenn:
 - d.[^35-2] die geschützte Ursprungsbezeichnung oder die geschützte geografische Angabe, auf die sich eine geografische Marke stützt, gelöscht wird;
 - e.[^35-3] ein Antrag auf Löschung gutgeheissen wird.
 
-[^35-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^35-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^35-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^35-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -611,7 +611,7 @@ Die Weiterbehandlung ist ausgeschlossen bei Versäumnis:
 - d.[^41-4] der Frist für die Einreichung des Verlängerungsantrags nach Artikel 10 Absatz 3;
 - e.[^41-5] der Fristen im Löschungsverfahren nach den Artikeln 35*a*–35*c*.
 
-[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^41-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^41-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^41-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^41-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -653,8 +653,8 @@ Die Weiterbehandlung ist ausgeschlossen bei Versäumnis:
 
 <sup>2</sup> Die übrigen Bestimmungen dieses Gesetzes gelten, soweit sich aus dem Madrider Markenabkommen, aus dem Madrider Protokoll oder aus diesem Kapitel nichts anderes ergibt.
 
-[^44-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^44-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^44-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^44-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 
 #### Art. 45
 
@@ -670,8 +670,8 @@ Durch Vermittlung des IGE können veranlasst werden:
 
 <sup>2</sup> Für die internationale Registrierung einer Marke oder eines Eintragungsgesuchs oder für die Änderung einer internationalen Registrierung sind die im Madrider Markenabkommen, im Madrider Protokoll und in der Verordnung dafür vorgesehenen Gebühren zu bezahlen.
 
-[^45-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^45-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
+[^45-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^45-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
 
 #### Art. 46
 
@@ -785,7 +785,7 @@ Von der Berechnung nach Absatz 2 sind ausgeschlossen:
 <sup>5</sup> Die Herkunftsangabe muss ausserdem dem Ort entsprechen, an dem die Verarbeitung stattgefunden hat, die dem Lebensmittel seine wesentlichen Eigenschaften verliehen hat.
 
 [^48b-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 
 #### Art. 48c
 
@@ -825,7 +825,7 @@ Den Anforderungen nach den Artikeln 48*a*–48*c* muss nicht entsprochen werden,
 - b. ein Hersteller den Nachweis erbringt, dass die verwendete Herkunftsangabe dem Verständnis der massgebenden Verkehrskreise entspricht.
 
 [^48d-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48d-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^48d-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 49
 
@@ -938,7 +938,7 @@ Das IGE ist mit der Verwaltung der Genfer Akte für die Schweiz in den folgenden
 - a. internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt (Art. 50*d*);
 - b. Wirksamkeit der internationalen Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde (Art. 50*e*).
 
-[^50c-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50c-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50d
 
@@ -955,8 +955,8 @@ Die internationale Registrierung oder die Änderung der internationalen Registri
 
 <sup>2</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens.
 
-[^50d-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^50d-2]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50d-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^50d-2]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50e
 
@@ -982,7 +982,7 @@ Die Wirksamkeit der internationalen Registrierung einer Ursprungsbezeichnung ode
 
 <sup>7</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens.
 
-[^50e-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^50e-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Art. 50f
 
@@ -1061,7 +1061,7 @@ Wer in seinem Recht an der Marke oder an einer Herkunftsangabe verletzt oder gef
 <sup>4</sup> Wer über eine ausschliessliche Lizenz verfügt, ist unabhängig von der Eintragung der Lizenz im Register selbständig zur Klage berechtigt, sofern dies im Lizenzvertrag nicht ausdrücklich ausgeschlossen worden ist. Alle Lizenznehmer können einer Verletzungsklage beitreten, um ihren eigenen Schaden geltend zu machen.[^55-4]
 
 [^55-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^55-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^55-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^55-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^55-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1225,7 +1225,7 @@ Handlungen nach Artikel 13 Absatz 2<sup>bis</sup> sind nicht strafbar.
 
 Bei Widerhandlungen in Geschäftsbetrieben, durch Untergebene, Beauftragte oder Vertreter gelten die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^67-1].
 
-[^67-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^67-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 68
 
@@ -1234,7 +1234,7 @@ Bei Widerhandlungen in Geschäftsbetrieben, durch Untergebene, Beauftragte oder 
 Artikel 69 des Strafgesetzbuches[^68-2] ist anwendbar; der Richter kann anordnen, dass ein widerrechtlich mit einer Marke oder einer Herkunftsangabe versehener Gegenstand als Ganzes einzuziehen ist.
 
 [^68-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^68-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 69
 
@@ -1242,60 +1242,80 @@ Artikel 69 des Strafgesetzbuches[^68-2] ist anwendbar; der Richter kann anordnen
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 3. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
+### 3. Kapitel: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
 
 [^tit3-chap3-1]
 
-[^tit3-chap3-1]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^tit3-chap3-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 70
 
 **Anzeige verdächtiger Sendungen**[^70-1]
 
-<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Markeninhaber, den an einer Herkunftsangabe Berechtigten oder eine nach Artikel 56 klageberechtigte Partei zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^70-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Markeninhaber, den an einer Herkunftsangabe Berechtigten oder eine nach Artikel 56 klageberechtigte Partei zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist.
 
-<sup>2</sup> In diesem Fall ist das BAZG[^70-3] ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit der Markeninhaber, der an einer Herkunftsangabe Berechtigte oder ein nach Artikel 56 klageberechtigter Berufs- oder Wirtschaftsverband einen Antrag nach Artikel 71 stellen kann.
+<sup>2</sup> In diesem Fall ist es ermächtigt, die Ware während drei Arbeitstagen zurückzubehalten, damit der Markeninhaber, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 klageberechtigte Partei einen Antrag nach Artikel 71 stellen kann.
 
-[^70-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^70-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^70-3]: Ausdruck gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^70-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 71
 
-**Antrag auf Hilfeleistung**
+**Antrag auf Hilfeleistung**[^71-1]
 
-<sup>1</sup> Hat der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 klageberechtigte Partei konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich mit einer Marke oder einer Herkunftsangabe versehenen Waren ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann er oder sie dem BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^71-1]
+<sup>1</sup> Hat der Markeninhaber, der klageberechtigte Lizenznehmer, der an einer Herkunftsangabe Berechtigte oder eine nach Artikel 56 klageberechtigte Partei konkrete Anhaltspunkte dafür, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist, so kann er beziehungsweise sie dem BAZG schriftlich beantragen, die Freigabe der Ware zu verweigern.
 
-<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
+<sup>2</sup>
 
-<sup>3</sup> Das BAZG entscheidet über den Antrag endgültig. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+Die Antragsteller können gleichzeitig schriftlich beantragen, dass die Ware vernichtet wird:
 
-[^71-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. im ordentlichen Verfahren (Art. 72*c*–72*h*); oder
+- b. im vereinfachten Verfahren (Art. 72*i*), wenn es sich um eine Kleinsendung handelt.
+
+<sup>3</sup> Sie können im Antrag nach Absatz 2 verlangen, dass die Ware ihnen übergeben wird, damit sie sie selber vernichten.
+
+<sup>4</sup> Der Antrag nach Absatz 2 Buchstabe a führt nicht dazu, dass die Fristen nach Artikel 72 Absätze 3 und 4 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+
+<sup>5</sup> Der Bundesrat bestimmt, was als Kleinsendung gilt; er berücksichtigt dabei namentlich die Anzahl der in einer Sendung enthaltenen Einheiten.
+
+<sup>6</sup> Die Antragsteller müssen alle ihnen zur Verfügung stehenden Angaben machen, die das BAZG benötigt, um über den Antrag entscheiden zu können; dazu gehört eine genaue Beschreibung der Ware.
+
+<sup>7</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+
+[^71-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72
 
 **Zurückbehalten von Waren**[^72-1]
 
-<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 71 Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist, so teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^72-2]
+<sup>1</sup>
 
-<sup>2</sup> Es behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
+Hat das BAZG aufgrund eines Antrags auf Hilfeleistung nach Artikel 71 Absatz 1 den Verdacht, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmte Ware widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist, so:
 
-<sup>3</sup> In begründeten Fällen kann sie die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
+- a. behält es die Ware zurück; und
+- b. teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.
 
-[^72-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^72-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Wurde mit dem Antrag auf Hilfeleistung nach Artikel 71 Absatz 1 ein Antrag auf Vernichtung von Kleinsendungen (Art. 71 Abs. 2 Bst. b) gestellt, so richtet sich das Verfahren ausschliesslich nach Artikel 72*i.*
+
+<sup>3</sup> Das BAZG behält die Ware während höchstens zehn Arbeitstagen, nachdem der Antragsteller die Mitteilung nach Absatz 1 Buchstabe b erhalten hat, zurück, damit dieser vorsorgliche Massnahmen erwirken kann.
+
+<sup>4</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+
+<sup>5</sup> Handelt es sich um eine Kleinsendung, so kann es die Zuständigkeit für die Mitteilung nach Absatz 1 Buchstabe b und die weiteren Verfahrensschritte dem IGE übertragen.
+
+[^72-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72a
 
 **Proben oder Muster**[^72a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG[^72a-2] ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers entnommen und versandt.
 
 <sup>3</sup> Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster beim Antragsteller, so unterliegen sie den Bestimmungen der Zollgesetzgebung.
 
 [^72a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72a-2]: Ausdruck gemäss Ziff. I 3 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 72b
 
@@ -1311,15 +1331,18 @@ Die Strafverfolgung ist Sache der Kantone.
 
 #### Art. 72c
 
-**Antrag auf Vernichtung der Ware**[^72c-1]
+**Mitteilung über den Antrag auf Vernichtung einer Ware[^72c-2]**[^72c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 71 Absatz 1 kann der Antragsteller beim BAZG schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> …[^72c-3]
 
 <sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 72 Absatz 1 mit.
 
-<sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 72 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+<sup>3</sup> …[^72c-4]
 
 [^72c-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72c-2]: Fassung gemäss Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-3]: Aufgehoben durch Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^72c-4]: Aufgehoben durch Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 72d
 
@@ -1327,9 +1350,10 @@ Die Strafverfolgung ist Sache der Kantone.
 
 <sup>1</sup> Für die Vernichtung der Ware ist die Zustimmung des Anmelders, Besitzers oder Eigentümers erforderlich.
 
-<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 72 Absätze 2 und 3 ausdrücklich ablehnt.
+<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 72 Absätze 2 und 3[^72d-2] ausdrücklich ablehnt.
 
 [^72d-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72d-2]: Heute: Art. 72 Abs. 3 und 4.
 
 #### Art. 72e
 
@@ -1369,6 +1393,29 @@ Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt si
 
 [^72h-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
+#### Art. 72i
+
+**Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen**[^72i-1]
+
+<sup>1</sup>
+
+Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt und:
+
+- a. es aufgrund eines Antrags auf Hilfeleistung nach Artikel 71 Absatz 1 den Verdacht hat, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmte Ware widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen ist; und
+- b. ein Antrag auf Vernichtung von Kleinsendungen (Art. 71 Abs. 2 Bst. b) gestellt wurde.
+
+<sup>2</sup> Es kann die Zuständigkeit für die Durchführung des weiteren Verfahrens dem IGE übertragen.
+
+<sup>3</sup> Die zuständige Behörde informiert den Anmelder, Besitzer oder Eigentümer der Ware über den Verdacht und die zurückbehaltene Ware und weist ihn darauf hin, dass die Ware vernichtet wird, wenn er die Vernichtung nicht innerhalb von zehn Arbeitstagen nach Empfang dieser Information ausdrücklich ablehnt.
+
+<sup>4</sup> Lehnt der Anmelder, Besitzer oder Eigentümer die Vernichtung innerhalb der Frist nach Absatz 3 ausdrücklich ab, so teilt die zuständige Behörde dies dem Antragsteller mit. Das weitere Verfahren richtet sich sinngemäss nach den Artikeln 72 Absätze 3 und 4, 72*a*, 72*b* und 72*h*.
+
+<sup>5</sup> Stimmt der Anmelder, Besitzer oder Eigentümer der Vernichtung zu oder lässt er sich innerhalb der Frist nach Absatz 3 nicht vernehmen, so vernichtet die zuständige Behörde die Ware auf Kosten des Antragstellers frühestens drei Monate nach der Information nach Absatz 3 oder überlässt sie dem Antragsteller zur Vernichtung, sofern er dies nach Artikel 71 Absatz 3 verlangt hat. Schadenersatzansprüche des Antragstellers gegen den Anmelder, Besitzer oder Eigentümer sind ausgeschlossen.
+
+<sup>6</sup> Die zuständige Behörde informiert den Antragsteller über die Menge und die Art sowie über die Absender im In- oder Ausland der nach Absatz 5 vernichteten Waren.
+
+[^72i-1]: Eingefügt durch Ziff. I 4 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
 ## 4. Titel: Schlussbestimmungen
 
 ### 1. Kapitel: Vollzug
@@ -1396,7 +1443,7 @@ Das Bundesgesetz vom 26. September 1890[^74-1] betreffend den Schutz der Fabrik-
 <sup>3.</sup> Der Ausdruck «Fabrik- und Handelsmarken» wird in sämtlichen Erlassen durch «Marken» ersetzt; davon ausgenommen sind die Artikel 1 und 2 des Bundesgesetzes vom 5. Juni 1931[^75-2] zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen. Die betreffenden Erlasse sind bei nächster Gelegenheit entsprechend anzupassen.
 
 [^75-1]: Diese Änderungen können unter [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)konsultiert werden.
-[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Anhang 3 Ziff. I 1]. Siehe heute: das BG vom 21. Juni 2013 ([SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^75-2]: [[AS 48 1](https://fedlex.data.admin.ch/eli/oc/48/1_1_1); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13. [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)Anhang 3 Ziff. I 1]. Siehe heute: das BG vom 21. Juni 2013 ([SR 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)).
 
 ### 3. Kapitel: Übergangsbestimmungen
 
