@@ -4,11 +4,10 @@ number: "730.1"
 title: Energiegesetz (EnerG)
 short: EnerG
 language: de
-version: "2024-06-01"
-nachtrag: "125"
-valid_until: 2025-07-01
+version: "2025-07-01"
+nachtrag: "129"
 adopted: 1983-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-129.html"
 text: pdf
 ---
 
@@ -46,6 +45,42 @@ I. Allgemeines
 
 <sup>2</sup> Diese Unternehmen werden nach kaufmännischen Grundsätzen geführt.
 
+**Beteiligung an der Axpo Holding AG a. Aufgaben des Regierungsrates**
+
+§ 2 a.[^2-1] <sup>1</sup> Der Regierungsrat nimmt die Rechte und Pflichten des Kantons als Aktionär der Axpo Holding AG wahr.
+
+<sup>2</sup> Er setzt sich bei der Ausübung seiner Stimmrechte dafür ein, dass a. die Netzinfrastruktur und die für die Versorgung wichtigen Kraftwerke in der Schweiz grundsätzlich in öffentlicher Hand verbleiben,
+
+- b. sich die gemeinsame Eignerstrategie der Aktionäre an den Zielsetzungen der Schweizer und der Zürcher Klimapolitik orientiert,
+
+- c. die finanziellen Risiken der Geschäftstätigkeit im Ausland die Ziele gemäss lit. a und b nicht gefährden,
+
+- d. der inländische Anteil an der Stromproduktion der Axpo Holding AG eine sichere, ausreichende und wirtschaftliche Versorgung mit elektrischer Energie gewährleistet.
+
+**1**
+
+- 1\. 7. 25 - 129
+
+<sup>3</sup> Er kann mit den anderen Aktionären einen Aktionärbindungsvertrag abschliessen und eine gemeinsame Eignerstrategie festlegen.
+
+**b. Genehmigung durch den Kantonsrat**
+
+§ 2 b.[^2-1] <sup>1</sup> Der Genehmigung durch den Kantonsrat unterstehen:
+
+- a. die Übertragung von Aktien,
+
+- b. Anpassungen der gemeinsamen Eignerstrategie oder des Aktionärbindungsvertrags, die
+
+- 1\. das Stimmrecht des Kantons beschränken,
+
+- 2\. die direkten und indirekten Beteiligungen der Axpo Holding AG an der Netzinfrastruktur und an für die Versorgung wichtigen Kraftwerken in der Schweiz betreffen,
+
+- c. der Verzicht auf die Ausübung des Rechts, angebotene Aktien zu erwerben.
+
+<sup>2</sup> Beschlüsse des Kantonsrates betreffend Abs. 1 lit. a und b unterstehen dem fakultativen Referendum.
+
+[^2-1]: Eingefügt durch G vom 4. Dezember 2023 (OS 80, 152; ABl 2022-04-08). In Kraft seit 1. Juli 2025.
+
 #### § 3
 
 **Tarifgestaltung**
@@ -53,10 +88,6 @@ I. Allgemeines
 <sup>1</sup> Unternehmen gemäss § 2 Abs. 1 geben Energie grundsätzlich gestützt auf allgemein verbindliche Gebühren für Anschluss und Lieferung ab. Der Verkauf zu Tagespreisen ist zulässig, um überschüssige Energiemengen bestmöglich zu nutzen.
 
 <sup>2</sup> Bei der Festsetzung der Gebühren werden nach Möglichkeit die tatsächlichen Kosten und die Art des Energiebezugs berücksichtigt.
-
-**1**
-
-- 1\. 7. 24 - 125
 
 [^3-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 
@@ -127,6 +158,10 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 § 8 a.[^hIIaVollzugdesSt-1] <sup>1</sup> Der Regierungsrat teilt die gesamte Fläche des Kantons in Netzgebiete auf und weist sie den Netzbetreibern zu. Diese betreiben innerhalb ihres Netzgebietes das lokale und das regionale Verteilnetz.
 
+**3**
+
+- 1\. 7. 25 - 129
+
 <sup>2</sup> Bei der Aufteilung und Zuweisung berücksichtigt der Regierungsrat die bestehenden Eigentumsverhältnisse an den Elektrizitätsnetzen und vertragliche Regelungen über die Netze. Das Gebiet einer politischen Gemeinde wird in der Regel den in dieser Gemeinde tätigen Netzbetreibern zugewiesen.
 
 <sup>3</sup> Bestehende Netzgebiete werden nur ausnahmsweise aufgeteilt.
@@ -148,10 +183,6 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 **Anschlussrecht und Anschlusspflicht**
 
 § 8 c.[^hIIaVollzugdesSt-1] <sup>1</sup> Im zugewiesenen Gebiet ist ausschliesslich der Netzbetreiber berechtigt, Netzanschlüsse für Endverbraucher zu erstellen.
-
-**3**
-
-- 1\. 7. 24 - 125
 
 <sup>2</sup> Ein Netzbetreiber ist verpflichtet, sämtliche Endverbraucher seines Gebiets anzuschliessen, ausgenommen diejenigen Endverbraucher, die von ihrem Anschlussrecht keinen Gebrauch machen wollen. Befindet sich der Endverbraucher ausserhalb der Bauzone, dürfen ihm höchstens die tatsächlich verursachten Anschlusskosten auferlegt werden. Im Streitfall entscheidet der Netzbetreiber mit Verfügung.
 
@@ -204,6 +235,10 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 <sup>2</sup> Notheizungen sind in begrenztem Umfang zulässig.
 
+**5**
+
+- 1\. 7. 25 - 129
+
 <sup>3</sup> Bestehende ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung und bestehende zentrale Wassererwärmer, die ausschliesslich direkt elektrisch beheizt werden, sind bis 2030 durch Anlagen zu ersetzen, die den Anforderungen dieses Gesetzes entsprechen.[^hIIIBesondereMassn-4]
 
 <sup>4</sup> Die Verordnung regelt die Ausnahmen.[^hIIIBesondereMassn-4]
@@ -225,10 +260,6 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 **Wärmeerzeuger a. Grundsatz**
 
 § 11.[^hIIIBesondereMassn-7],[^hIIIBesondereMassn-8] <sup>1</sup> Der Energiebedarf von Neubauten für Heizung, Warmwasser, Lüftung und Klimatisierung muss ohne CO2-Emissionen aus fossilen Brennstoffen gedeckt werden.
-
-**5**
-
-- 1\. 7. 24 - 125
 
 <sup>2</sup> Werden Wärmeerzeuger in bestehenden Bauten ersetzt, müssen ausschliesslich erneuerbare Energien eingesetzt werden, wenn dies a. technisch möglich ist und b. die Lebenszykluskosten um höchstens 5% erhöht.
 
@@ -268,9 +299,11 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 - d. die Einstellung der Brennstofflieferung, falls die erforderlichen Zertifikate nicht vorliegen.
 
-**Härtefälle und Ausnahmen**
+**7**
 
-§ 11 b.[^hIIIBesondereMassn-4] <sup>1</sup> Wird für die Umsetzung von § 11 Abs. 2–4 ein finanzieller Härtefall geltend gemacht, kann die Behörde Aufschub längstens bis drei Jahre nach der nächsten Handänderung gewähren. Sie lässt den Aufschub im Grundbuch anmerken.
+- 1\. 7. 25 - 129 § 11 b.[^hIIIBesondereMassn-4] <sup>1</sup> Wird für die Umsetzung von § 11 Abs. 2–4 ein finanzieller Härtefall geltend gemacht, kann die Behörde Aufschub längstens bis drei Jahre nach der nächsten Handänderung gewähren. Sie lässt den Aufschub im Grundbuch anmerken.
+
+**Härtefälle und Ausnahmen**
 
 <sup>2</sup> Die Verordnung regelt, in welchen Fällen Aufschub gemäss Abs. 1 immer gewährt wird.
 
@@ -283,10 +316,6 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 <sup>2</sup> Die Verordnung kann Abweichungen zulassen, wenn gewichtige Interessen vorliegen und die zumutbaren Massnahmen für eine effiziente Energienutzung getroffen werden.
 
 <sup>3</sup> Der Bau neuer und die Sanierung bestehender beheizter Freiluftbäder sowie der Ersatz und die wesentliche Änderung der technischen Einrichtungen zu deren Beheizung sind nur zulässig, wenn die Beheizung ausschliesslich mit erneuerbarer Energie oder mit nicht anderweitig nutzbarer Abwärme erfolgt.
-
-**7**
-
-- 1\. 7. 24 - 125
 
 <sup>4</sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
 
@@ -310,9 +339,11 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 § 13 a. <sup>1</sup> Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als fünf Gigawattstunden oder einem jährlichen Elektrizitätsverbrauch von mehr als einer halben Gigawattstunde können durch die Direktion oder auf ihrem Gebiet durch die Städte Zürich und Winterthur verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsreduktion zu realisieren.[^hIIIBesondereMassn-12]
 
-<sup>2</sup> Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie der Regierungsrat von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbinden. § 13 b.[^hIIIBesondereMassn-10] Der Regierungsrat kann für bestimmte Bauten die Erstellung eines Gebäudeenergieausweises der Kantone (GEAK) verlangen.
+<sup>2</sup> Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie der Regierungsrat von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbinden.
 
 **Gebäudeenergieausweis der Kantone**
+
+§ 13 b.[^hIIIBesondereMassn-10] Der Regierungsrat kann für bestimmte Bauten die Erstellung eines Gebäudeenergieausweises der Kantone (GEAK) verlangen.
 
 **Minergie**
 
@@ -345,6 +376,10 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 <sup>2</sup> Ausgenommen sind Akte des Regierungsrates.
 
+**9**
+
+- 1\. 7. 25 - 129
+
 - 2\. Stromangebot aus erneuerbaren Energien[^14-1]
 
 § 14 a.[^14-1] <sup>1</sup> Die Stromlieferanten bieten den Endverbraucherinnen und Endverbrauchern im Kanton Zürich in erster Linie ein Produkt aus erneuerbaren Energien an.
@@ -356,7 +391,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 - b. mit Abwärme aus industriellen Prozessen, die nicht hauptsächlich der Energieproduktion dienen.
 
 [^14-1]: Eingefügt durch G vom 20. Januar 2014 (OS 70, 257; ABl 2012, 960). In Kraft seit 1. Januar 2016.
-[^14-2]: Fassung gemäss G vom 20. Januar 2014 (OS 70, 257; ABl 2012, 960). In Kraft seit 1. Januar 2016.
+[^14-2]: Fassung gemäss G vom 20. Januar 2014 (OS 70, 257; ABl 2012, 960). In Kraft seit 1. Januar 2016. 1. 7. 25 - 129 13
 [^14-3]: Eingefügt durch G vom 25. Juni 1995 (OS 53, 222). In Kraft seit 1. Januar 1996 (OS 53, 302).
 
 ### 3. Förderung
@@ -375,17 +410,15 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 - c. der Nutzung von regionaler Abwärme und regionalen erneuerbaren Energien.
 
-**9**
-
-- 1\. 7. 24 - 125 § 16.[^15-2] <sup>1</sup> Der Kanton kann die Energieplanung, Massnahmen und Pilotprojekte zur rationellen Energienutzung und zur Nutzung von Abwärme und erneuerbaren Energien, die Ausarbeitung von Unterlagen für die Energieversorgung sowie die Information, die Beratung und die berufliche Weiterbildung auf den Gebieten der Energieversorgung und -nutzung fördern.
-
 **Kanton16**
+
+§ 16.[^15-2] <sup>1</sup> Der Kanton kann die Energieplanung, Massnahmen und Pilotprojekte zur rationellen Energienutzung und zur Nutzung von Abwärme und erneuerbaren Energien, die Ausarbeitung von Unterlagen für die Energieversorgung sowie die Information, die Beratung und die berufliche Weiterbildung auf den Gebieten der Energieversorgung und -nutzung fördern.
 
 <sup>2</sup> Der Kantonsrat bewilligt mindestens alle vier Jahre einen Rahmenkredit, aus dem der Regierungsrat oder die Direktion Subventionen gemäss Abs. 1 gewährt.
 
 <sup>3</sup> Aus den Globalbeiträgen des Bundes aus der Teilzweckbindung der CO2-Abgabe zur Verminderung der CO2-Emissionen und der Verbesserung der Energieeffizienz bei Gebäuden können Subventionen gewährt werden.
 
-[^15-1]: Eingefügt durch G vom 23. Oktober 2023 (OS 79, 189; ABl 2023-04-28). In Kraft seit 1. Juni 2024. 1. 7. 24 - 125 13
+[^15-1]: Eingefügt durch G vom 23. Oktober 2023 (OS 79, 189; ABl 2023-04-28). In Kraft seit 1. Juni 2024.
 [^15-2]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 
 ### IV. Schlussbestimmungen
@@ -445,20 +478,20 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 Das Gesetz über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz) vom 7. September 1975 wird wie folgt geändert: . . .[^18-1]
 
-#### § 20
+**11**
+
+- 1\. 7. 25 - 129 § 20. <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^19-1].
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^20-1].
-
-[^20-1]: In Kraft gesetzt auf 1. Juli 1986 (OS 49, 589).
-[^20-2]: Fassung gemäss G vom 25. Juni 1995 (OS 53, 222). In Kraft seit 1. Oktober 1997 (OS 54, 120).
+[^19-1]: In Kraft gesetzt auf 1. Juli 1986 (OS 49, 589).
+[^19-2]: Fassung gemäss G vom 25. Juni 1995 (OS 53, 222). In Kraft seit 1. Oktober 1997 (OS 54, 120).
 
 ### Übergangsbestimmungen
 
-[^20-2]
+[^19-2]
 
 1.[^hÜbergangsbestimmunge-1] 2.[^hÜbergangsbestimmunge-2] 3.[^hÜbergangsbestimmunge-2]
 
@@ -470,10 +503,6 @@ Das Gesetz über die Raumplanung und das öffentliche Baurecht (Planungs- und Ba
 (OS 69, 262)
 
 Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hängigen Rechtsmittel bestimmt sich nach bisherigem Recht. Die bisherigen Zuständigkeiten gelten auch dann, wenn die Rechtsmittelfrist vor dem Inkrafttreten des neuen Rechts zu laufen begonnen hat, aber erst nachher endet. Im Übrigen findet das neue Recht auf hängige Verfahren Anwendung.
-
-**11**
-
-- 1\. 7. 24 - 125
 
 ### Übergangsbestimmung zur Änderung vom 26. Oktober 2020
 
