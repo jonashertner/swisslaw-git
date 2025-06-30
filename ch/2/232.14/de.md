@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz
 short: PatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/de"
 
 (Patentgesetz, PatG)[^t-1]
 
-vom 25. Juni 1954 (Stand am 1. Juli 2023)
+vom 25. Juni 1954 (Stand am 1. Juli 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 122 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1950 I 977](https://fedlex.data.admin.ch/eli/fga/1950/1_977_933_)
 [^ingress-4]: [BBl 1952 I 1](https://fedlex.data.admin.ch/eli/fga/1952/1_1__)
@@ -171,7 +171,7 @@ In Bezug auf die Neuheit umfasst der Stand der Technik auch den Inhalt einer fr�
 - c. im Falle einer europäischen Anmeldung die Gebühren nach Artikel 79 Absatz 2 des Europäischen Patentübereinkommens vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000 für die wirksame Benennung der Schweiz entrichtet wurden.[^7-3]
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^7-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 [^7-3]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
@@ -195,7 +195,7 @@ Ist die Erfindung innerhalb von sechs Monaten vor dem Anmelde- oder dem Priorit�
 
 [^7b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^7b-2]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^7b-3]: [SR 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
+[^7b-3]: [SR 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
 
 ### IV. Neue Verwendung bekannter Stoffe
 
@@ -208,7 +208,7 @@ Ist die Erfindung innerhalb von sechs Monaten vor dem Anmelde- oder dem Priorit�
 Stoffe und Stoffgemische, die als solche, aber nicht in Bezug auf ihre Verwendung in einem chirurgischen, therapeutischen oder diagnostischen Verfahren nach Artikel 2 Absatz 2 Buchstabe a[^7c-2] zum Stand der Technik gehören, gelten als neu, soweit sie nur für eine solche Verwendung bestimmt sind.
 
 [^7c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7c-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7c-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### b. Weitere medizinische Indikationen
 
@@ -219,7 +219,7 @@ Stoffe und Stoffgemische, die als solche, aber nicht in Bezug auf ihre Verwendun
 Stoffe und Stoffgemische, die als solche, aber nicht in Bezug auf eine gegenüber der ersten medizinischen Indikation nach Artikel 7*c* spezifische Verwendung in einem chirurgischen, therapeutischen oder diagnostischen Verfahren nach Artikel 2 Absatz 2 Buchstabe a[^7d-2] zum Stand der Technik gehören, gelten als neu, soweit sie nur für die Verwendung zur Herstellung eines Mittels zu chirurgischen, therapeutischen oder diagnostischen Zwecken bestimmt sind.
 
 [^7d-1]: Eingefügt durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7d-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7d-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### F. Wirkung des Patents
 
@@ -405,7 +405,7 @@ Das Patent erlischt:
 Patentbewerber und Patentinhaber schweizerischer Staatsangehörigkeit können sich auf die Bestimmungen des für die Schweiz verbindlichen Textes der Pariser Verbandsübereinkunft vom 20. März 1883[^16-2] zum Schutz des gewerblichen Eigentums berufen, wenn jene günstiger sind als die Bestimmungen dieses Gesetzes.
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 17. Dez 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^16-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 ### 2. Abschnitt: Prioritätsrecht
 
@@ -427,8 +427,8 @@ Patentbewerber und Patentinhaber schweizerischer Staatsangehörigkeit können si
 
 <sup>3</sup> …[^17-7]
 
-[^17-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^17-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^17-3]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^17-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^17-5]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
@@ -626,7 +626,7 @@ Die Wirkung des erteilten Patents gilt in dem Umfang, in dem der Patentinhaber a
 
 <sup>2</sup> Der Enteignete hat Anspruch auf volle Entschädigung, welche im Streitfall vom Bundesgericht festgesetzt wird; die Bestimmungen des II. Abschnittes des Bundesgesetzes vom 20. Juni 1930[^32-1] über die Enteignung sind entsprechend anwendbar.
 
-[^32-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^32-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### C. Übergang der Rechte auf das Patent und am Patent
 
@@ -727,7 +727,7 @@ Der Bundesrat bestimmt die vom Landwirteprivileg erfassten Pflanzenarten; dabei 
 <sup>2</sup> Der Patentinhaber kann die Erteilung der Lizenz an die Bedingung knüpfen, dass ihm der Sortenschutzinhaber eine Lizenz zur Benützung seines Sortenschutzrechtes erteilt.
 
 [^36a-1]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [BBl 2004 4155](https://fedlex.data.admin.ch/eli/fga/2004/683)).
-[^36a-2]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^36a-2]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 ### C. Ausführung der Erfindung im Inland
 
@@ -826,7 +826,7 @@ Für Erfindungen, die ein Erzeugnis oder ein Verfahren zur Diagnose beim Mensche
 
 [^40e-1]
 
-<sup>1</sup> Die in den Artikeln 36–40*d* vorgesehenen Lizenzen werden nur unter der Voraussetzung erteilt, dass Bemühungen des Gesuchstellers um Erteilung einer vertraglichen Lizenz zu angemessenen Marktbedingungen innerhalb einer angemessenen Frist erfolglos geblieben sind; im Falle einer Lizenz nach Artikel 40*d* gilt eine Frist von 30 Werktagen als angemessen. Solche Bemühungen sind nicht notwendig im Falle eines nationalen Notstandes, bei äusserster Dringlichkeit oder bei öffentlichem, nicht gewerblichem Gebrauch.
+<sup>1</sup> Die in den Artikeln 36–40*d* vorgesehenen Lizenzen werden nur unter der Voraussetzung erteilt, dass Bemühungen des Gesuchstellers um Erteilung einer vertraglichen Lizenz zu angemessenen Marktbedingungen innerhalb einer angemessenen Frist erfolglos geblieben sind; im Falle einer Lizenz nach Artikel 40*d* gilt eine Frist von 30 Arbeitstagen als angemessen.[^40e-2] Solche Bemühungen sind nicht notwendig im Falle eines nationalen Notstandes, bei äusserster Dringlichkeit oder bei öffentlichem, nicht gewerblichem Gebrauch.
 
 <sup>2</sup> Umfang und Dauer der Lizenz sind auf den Zweck beschränkt, für den sie erteilt worden ist.
 
@@ -839,6 +839,7 @@ Für Erfindungen, die ein Erzeugnis oder ein Verfahren zur Diagnose beim Mensche
 <sup>6</sup> Der Richter entscheidet über Erteilung und Entzug der Lizenz, über deren Umfang und Dauer sowie über die zu leistende Vergütung. Insbesondere entzieht er dem Berechtigten auf Antrag die Lizenz, wenn die Umstände, die zu ihrer Erteilung geführt haben, nicht mehr gegeben sind und auch nicht zu erwarten ist, dass sie erneut eintreten. Vorbehalten bleibt ein angemessener Schutz der rechtmässigen Interessen des Berechtigten. Im Falle der Erteilung einer Lizenz nach Artikel 40*d* haben Rechtsmittel keine aufschiebende Wirkung.
 
 [^40e-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^40e-2]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### 6. Abschnitt: Gebühren
 
@@ -965,7 +966,7 @@ Das Patent kann demjenigen nicht entgegengehalten werden, der die Erfindung im I
 
 Artikel 13 des Patentanwaltsgesetzes vom 20. März 2009[^48b-1] gilt sinngemäss für Vertreter, die nicht im Patentanwaltsregister eingetragen sind.
 
-[^48b-1]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^48b-1]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ## Zweiter Titel: Die Patenterteilung
 
@@ -1438,7 +1439,7 @@ Gemäss den nachfolgenden Bestimmungen kann zivil- und strafrechtlich zur Verant
 
 <sup>2</sup> In Strafsachen (Art. 81–82) richtet sich die Veröffentlichung des Urteils nach Artikel 68 des Strafgesetzbuches[^70-1].[^70-2]
 
-[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^70-2]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### F. Mitteilung von Urteilen
@@ -1485,7 +1486,7 @@ Wer eine der in den Artikeln 72, 73, 74 oder 81 vorgesehenen Klagen erhoben hat 
 
 <sup>4</sup> …[^73-4]
 
-[^73-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^73-2]: Aufgehoben durch Anhang 1 Ziff. II 12 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^73-3]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^73-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1617,7 +1618,7 @@ Ersucht eine Person um Anordnung vorsorglicher Massnahmen, so kann sie insbesond
 
 Die allgemeinen Bestimmungen des Strafgesetzbuches[^83-1] sind anwendbar, soweit dieses Gesetz keine abweichenden Vorschriften enthält.
 
-[^83-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### B<sup>bis</sup>. Widerhandlungen in Geschäftsbetrieben
 
@@ -1628,7 +1629,7 @@ Die allgemeinen Bestimmungen des Strafgesetzbuches[^83-1] sind anwendbar, soweit
 Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder Vertreter gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^83a-2] über das Verwaltungsstrafrecht.
 
 [^83a-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^83a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^83a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### C. Gerichtsstand
 
@@ -1661,56 +1662,86 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 [^86-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Aufgehoben durch Anhang Ziff. 11 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### 4. Abschnitt: Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit
+### 4. Abschnitt: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
 
 [^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^tit3-chap4-2]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### A. Anzeige verdächtiger Waren
 
 #### Art. 86a
 
-<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Patentinhaber zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen.[^86a-1]
+[^86a-1]
 
-<sup>2</sup> In diesem Fall ist das BAZG ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigte Person einen Antrag nach Artikel 86*b* Absatz 1 stellen kann.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, den Patentinhaber zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, die ein in der Schweiz gültiges Patent verletzt.
 
-[^86a-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> In diesem Fall ist es ermächtigt, die Ware während drei Arbeitstagen zurückzubehalten, damit die antragsberechtigte Person einen Antrag nach Artikel 86*b* stellen kann.
+
+[^86a-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### B. Antrag auf Hilfeleistung
 
 #### Art. 86b
 
-<sup>1</sup> Hat der Patentinhaber oder der klageberechtigte Lizenznehmer konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, die ein in der Schweiz gültiges Patent verletzen, so kann er beim BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^86b-1]
+[^86b-1]
 
-<sup>2</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Waren.
+<sup>1</sup> Hat der Patentinhaber oder der klageberechtigte Lizenznehmer konkrete Anhaltspunkte dafür, dass das Verbringen einer Ware ins Zollgebiet oder aus dem Zollgebiet bevorsteht, die ein in der Schweiz gültiges Patent verletzt, so kann er beim BAZG schriftlich beantragen, die Freigabe der Ware zu verweigern.
 
-<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+<sup>2</sup>
 
-[^86b-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+Der Antragsteller kann gleichzeitig schriftlich beantragen, dass die Ware vernichtet wird:
+
+- a. im ordentlichen Verfahren (Art. 86*f*–86*k*); oder
+- b. im vereinfachten Verfahren (Art. 86*l*), wenn es sich um eine Kleinsendung handelt.
+
+<sup>3</sup> Er kann im Antrag nach Absatz 2 verlangen, dass die Ware ihm übergeben wird, damit er sie selber vernichtet.
+
+<sup>4</sup> Der Antrag nach Absatz 2 Buchstabe a führt nicht dazu, dass die Fristen nach Artikel 86*c* Absätze 3 und 4 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+
+<sup>5</sup> Der Bundesrat bestimmt, was als Kleinsendung gilt; er berücksichtigt dabei namentlich die Anzahl der in einer Sendung enthaltenen Einheiten.
+
+<sup>6</sup> Der Antragsteller muss alle ihm zur Verfügung stehenden Angaben machen, die das BAZG benötigt, um über den Antrag entscheiden zu können; dazu gehört eine genaue Beschreibung der Ware.
+
+<sup>7</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+
+[^86b-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### C. Zurückbehalten von Waren
 
 #### Art. 86c
 
-<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 86*b* Absatz 1 den begründeten Verdacht, dass eine zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Ware ein in der Schweiz gültiges Patent verletzt, so teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.[^86c-1]
+[^86c-1]
 
-<sup>2</sup> Es behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller vorsorgliche Massnahmen erwirken kann.
+<sup>1</sup>
 
-<sup>3</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
+Hat das BAZG aufgrund eines Antrags auf Hilfeleistung nach Artikel 86*b* Absatz 1 den Verdacht, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmte Ware ein in der Schweiz gültiges Patent verletzt, so:
 
-[^86c-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. behält es die Ware zurück; und
+- b. teilt es dies einerseits dem Antragsteller und andererseits dem Anmelder, Besitzer oder Eigentümer der Ware mit.
+
+<sup>2</sup> Wurde mit dem Antrag auf Hilfeleistung nach Artikel 86*b* Absatz 1 ein Antrag auf Vernichtung von Kleinsendungen (Art. 86*b* Abs. 2 Bst. b) gestellt, so richtet sich das Verfahren ausschliesslich nach Artikel 86*l.*
+
+<sup>3</sup> Das BAZG behält die Ware während höchstens zehn Arbeitstagen, nachdem der Antragsteller die Mitteilung nach Absatz 1 Buchstabe b erhalten hat, zurück, damit dieser vorsorgliche Massnahmen erwirken kann.
+
+<sup>4</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+
+<sup>5</sup> Handelt es sich um eine Kleinsendung, so kann es die Zuständigkeit für die Mitteilung nach Absatz 1 Buchstabe b und die weiteren Verfahrensschritte dem IGE übertragen.
+
+[^86c-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### D. Proben oder Muster
 
 #### Art. 86d
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG[^86d-1] ermächtigt, dem Antragsteller auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers entnommen und versandt.
 
 <sup>3</sup> Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster beim Antragsteller, so unterliegen sie den Bestimmungen der Zollgesetzgebung.
+
+[^86d-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### E. Wahrung von Fabrikations- und Geschäftsgeheimnissen
 
@@ -1722,17 +1753,24 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 <sup>3</sup> Das BAZG kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
 
-### F. Antrag auf Vernichtung der Ware
+### F. Mitteilung über den Antrag auf Vernichtung einer Ware
 
 ### I. Verfahren
 
+[^tit3-chap4-lvlF-lvlI-1]
+
+[^tit3-chap4-lvlF-lvlI-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
 #### Art. 86f
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 86*b* Absatz 1 kann der Antragsteller beim BAZG schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> …[^86f-1]
 
 <sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer der Ware im Rahmen der Mitteilung nach Artikel 86*c* Absatz 1 mit.
 
-<sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 86*c* Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
+<sup>3</sup> …[^86f-2]
+
+[^86f-1]: Aufgehoben durch Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^86f-2]: Aufgehoben durch Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, mit Wirkung seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### II. Zustimmung
 
@@ -1740,7 +1778,9 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 
 <sup>1</sup> Für die Vernichtung der Ware ist die Zustimmung des Anmelders, Besitzers oder Eigentümers erforderlich.
 
-<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 86*c* Absätze 2 und 3 ausdrücklich ablehnt.
+<sup>2</sup> Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 86*c* Absätze 2 und 3[^86g-1] ausdrücklich ablehnt.
+
+[^86g-1]: Heute: Art. 86*c* Abs. 3 und 4.
 
 ### III. Beweismittel
 
@@ -1771,6 +1811,31 @@ Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt si
 <sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass der Antragsteller ihr eine Haftungserklärung abgibt. An deren Stelle kann das BAZG vom Antragsteller in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
 
 <sup>2</sup> Der Antragsteller muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
+
+### H. Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen
+
+#### Art. 86l
+
+[^86l-1]
+
+<sup>1</sup>
+
+Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt und:
+
+- a. es aufgrund eines Antrags auf Hilfeleistung nach Artikel 86*b* Absatz 1 den Verdacht hat, dass die zum Verbringen ins Zollgebiet oder aus dem Zollgebiet bestimmte Ware ein in der Schweiz gültiges Patent verletzt; und
+- b. ein Antrag auf Vernichtung von Kleinsendungen (Art. 86*b* Abs. 2 Bst. b) gestellt wurde.
+
+<sup>2</sup> Es kann die Zuständigkeit für die Durchführung des weiteren Verfahrens dem IGE übertragen.
+
+<sup>3</sup> Die zuständige Behörde informiert den Anmelder, Besitzer oder Eigentümer der Ware über den Verdacht und die zurückbehaltene Ware und weist ihn darauf hin, dass die Ware vernichtet wird, wenn er die Vernichtung nicht innerhalb von zehn Arbeitstagen nach Empfang dieser Information ausdrücklich ablehnt.
+
+<sup>4</sup> Lehnt der Anmelder, Besitzer oder Eigentümer die Vernichtung innerhalb der Frist nach Absatz 3 ausdrücklich ab, so teilt die zuständige Behörde dies dem Antragsteller mit. Das weitere Verfahren richtet sich sinngemäss nach den Artikeln 86*c* Absätze 3 und 4, 86*d*, 86*e* und 86*k*.
+
+<sup>5</sup> Stimmt der Anmelder, Besitzer oder Eigentümer der Vernichtung zu oder lässt er sich innerhalb der Frist nach Absatz 3 nicht vernehmen, so vernichtet die zuständige Behörde die Ware auf Kosten des Antragstellers frühestens drei Monate nach der Information nach Absatz 3 oder überlässt sie dem Antragsteller zur Vernichtung, sofern er dies nach Artikel 86*b* Absatz 3 verlangt hat. Schadenersatzansprüche des Antragstellers gegen den Anmelder, Besitzer oder Eigentümer sind ausgeschlossen.
+
+<sup>6</sup> Die zuständige Behörde informiert den Antragsteller über die Menge und die Art sowie über die Absender im In- oder Ausland der nach Absatz 5 vernichteten Waren.
+
+[^86l-1]: Eingefügt durch Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Vierter Titel: …
 
@@ -1847,7 +1912,7 @@ Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt si
 <sup>3</sup> Die für die Schweiz verbindliche Fassung des Europäischen Patentübereinkommens geht diesem Gesetz vor.
 
 [^109-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. Siehe heute: das Europäische Patentübereinkommen, revidiert in München am 29. November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
+[^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. Siehe heute: das Europäische Patentübereinkommen, revidiert in München am 29. November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)).
 
 ### 2. Abschnitt: Wirkungen der europäischen Patentanmeldung und des europäischen Patents und Änderungen im Bestand des europäischen Patents
 
@@ -2118,7 +2183,7 @@ Das IGE nimmt die Rechtshilfegesuche des Europäischen Patentamtes entgegen und 
 <sup>3</sup> Die für die Schweiz verbindliche Fassung des Zusammenarbeitsvertrages geht diesem Gesetz vor.
 
 [^131-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
+[^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 [^131-3]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### 2. Abschnitt: In der Schweiz eingereichte Anmeldungen
@@ -2259,7 +2324,7 @@ Der Anmelder hat dem IGE innerhalb von 30 Monaten nach dem Anmelde- oder dem Pri
 
 <sup>2</sup> Wirkstoffe oder Wirkstoffzusammensetzungen werden in diesem Abschnitt als Erzeugnisse bezeichnet.
 
-[^140a-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
+[^140a-1]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
 [^140a-2]: Zweiter Satz eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^140a-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2277,7 +2342,7 @@ Das Zertifikat wird erteilt, wenn im Zeitpunkt des Gesuchs:
 <sup>2</sup> Es wird aufgrund der ersten Zulassung erteilt.[^140b-3]
 
 [^140b-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140b-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140b-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^140b-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### C. Anspruch
@@ -2365,7 +2430,7 @@ Das Zertifikat erlischt, wenn:
 <sup>3</sup> Das Schweizerische Heilmittelinstitut teilt dem IGE den Widerruf oder die Sistierung der Zulassungen mit.[^140i-4]
 
 [^140i-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140i-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140i-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^140i-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^140i-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2422,7 +2487,7 @@ Das IGE verlängert die Schutzdauer (Art. 140*e*) erteilter Zertifikate um sechs
 
 <sup>2</sup> Die Schutzdauer eines Zertifikats kann nur einmal verlängert werden.
 
-[^140n-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140n-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Frist für die Einreichung des Gesuchs
 
@@ -2483,7 +2548,7 @@ Das IGE erteilt für Wirkstoffe oder Wirkstoffzusammensetzungen von Arzneimittel
 
 <sup>4</sup> Die Schutzdauer eines pädiatrischen Zertifikats kann nicht verlängert werden.
 
-[^140t-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140t-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Anspruch
 
@@ -2682,6 +2747,6 @@ Datum des Inkrafttretens: 1. Januar 1956[^u1-149-4] Art. 89 Abs. 2, 90 Abs. 2 un
 
 [^u1-149-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^u1-149-2]: [AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^u1-149-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^u1-149-4]: BRB vom 18. Okt. 1955
 [^u1-149-5]: BRB vom 8. Sept. 1959 ([AS 1959 861](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))

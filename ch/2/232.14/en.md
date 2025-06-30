@@ -4,11 +4,11 @@ title: "Federal Act of 25 June 1954 on Patents for Inventions (Patents Act, PatA
 short: PatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: en
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Patents Act, PatA)[^t-1]
 
-of 25 June 1954 (Status as of 1 July 2023)
+of 25 June 1954 (Status as of 1 July 2025)
 
 [^t-1]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -29,7 +29,7 @@ on the basis of Article 122 of the Federal Constitution[^ingress-1],[^ingress-2]
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [BBl 1950 I 977](https://fedlex.data.admin.ch/eli/fga/1950/1_977_933_)
 [^ingress-4]: [BBl 1952 I 1](https://fedlex.data.admin.ch/eli/fga/1952/1_1__)
@@ -173,7 +173,7 @@ With regard to novelty, the state of the art also includes the content of an ear
 - c. in the case of a European application, the fees for the valid designation of Switzerland as per Article 79 paragraph 2 of the European Patent Convention of 5 October 1973 in its revised version of 29 November 2000 have been paid.[^7-3]
 
 [^7-1]: Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^7-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 [^7-3]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
@@ -197,7 +197,7 @@ Where the invention has been made available to the public in the six months prio
 
 [^7b-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^7b-2]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^7b-3]: [SR 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
+[^7b-3]: [SR 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
 
 ### IV. New use of known substances
 
@@ -210,7 +210,7 @@ Where the invention has been made available to the public in the six months prio
 Any substance or composition that forms part of the state of the art as such, but not in relation to its use in a surgical, therapeutic or diagnostic method specified in Article 2 paragraph 2 letter a[^7c-2] is deemed to be new provided it is intended solely for such use.
 
 [^7c-1]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7c-2]: Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7c-2]: Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### b. Further medical uses
 
@@ -221,7 +221,7 @@ Any substance or composition that forms part of the state of the art as such, bu
 Any substance or composition that forms part of the state of the art as such, but not in relation to a specific use in a surgical, therapeutic or diagnostic method specified in Article 2 paragraph 2 letter a[^7d-2] that is distinct from the first medical use specified in Article 7*c* is deemed to be new provided it is intended for use in the manufacture of a means to a surgical, therapeutic or diagnostic end.
 
 [^7d-1]: Inserted by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act revising the European Patent Convention and on the amendment of the Patents Act ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7d-2]: Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7d-2]: Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### F. Effects of the patent
 
@@ -407,7 +407,7 @@ The patent lapses:
 Patent applicants or proprietors who are Swiss nationals may rely on the provisions of the binding text for Switzerland of the Paris Convention for the Protection of Industrial Property of 20 March 1883,[^16-2] where those provisions are more favourable than the provisions of this Act.
 
 [^16-1]: Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^16-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**, [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),** [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 ### Section 2 Right of Priority
 
@@ -429,8 +429,8 @@ Patent applicants or proprietors who are Swiss nationals may rely on the provisi
 
 <sup>3</sup> …[^17-7]
 
-[^17-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**, [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),** [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^17-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**, [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),** [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^17-3]: Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^17-4]: Inserted by No I of the FA of 17 Feb. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^17-5]: Inserted by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
@@ -628,7 +628,7 @@ The effects of the granted patent shall be deemed not to have occurred from the 
 
 <sup>2</sup> The former proprietor of an expropriated patent is entitled to full compensation which, in the event of any dispute, is fixed by the Federal Supreme Court; the provisions of Section II of the Compulsory Purchase Act of 20 June 1930[^32-1] apply by analogy.
 
-[^32-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^32-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### C. Transfer of the right to the grant of the patent and of the right to the patent
 
@@ -729,7 +729,7 @@ The Federal Council determines the plant species included under the farmers’ p
 <sup>2</sup> The proprietor of the patent may make the grant of a licence conditional on the owner of the plant variety granting him a licence to use his plant variety right in return.
 
 [^36a-1]: Inserted by Art. 2 No 2 of the FD of 5 Oct. 2007, in force since 1 Sept. 2008 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [BBl 2004 4155](https://fedlex.data.admin.ch/eli/fga/2004/683)).
-[^36a-2]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^36a-2]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 ### C. Exploitation of the invention in Switzerland
 
@@ -828,7 +828,7 @@ For inventions concerning a diagnostic product or procedure for humans, a non-ex
 
 [^40e-1]
 
-<sup>1</sup> The licences provided for in Articles 36–40*d* are granted only if efforts by the applicant to obtain a contractual licence on appropriate market terms within a reasonable period of time have been unsuccessful; in the case of a licence in accordance with Article 40*d*, a period of 30 working days is regarded as reasonable. Such efforts are not required in situations of national emergency or other circumstances of extreme urgency or in cases of public non-commercial use.
+<sup>1</sup> The licences provided for in Articles 36–40*d* are granted only if efforts by the applicant to obtain a contractual licence on appropriate market terms within a reasonable period of time have been unsuccessful; in the case of a licence in accordance with Article 40*d*, a period of 30 working days is regarded as reasonable.[^40e-2] Such efforts are not required in situations of national emergency or other circumstances of extreme urgency or in cases of public non-commercial use.
 
 <sup>2</sup> The scope and term of the licence are limited to the purpose for which it has been granted.
 
@@ -841,6 +841,7 @@ For inventions concerning a diagnostic product or procedure for humans, a non-ex
 <sup>6</sup> The court shall decide on the grant and revocation of licences, on their scope and duration as well as on the remuneration payable. In particular, it shall revoke an entitled person’s licence on request if the circumstances that led to its being granted no longer apply and it is not expected that they will arise again. Appropriate protection of the legal interests of the entitled person remains reserved. Where a licence is granted under Article 40*d*, legal remedies have no suspensive effect.
 
 [^40e-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^40e-2]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### Section 6 Fees
 
@@ -905,7 +906,7 @@ Further processing is ruled out in the case of failure to observe:
 [^46a-3]: Amended by Art. 2 of the FD of 22 June 2007, in force since 1 July 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^46a-4]: Repealed by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, with effect from 13 Dec. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^46a-5]: Repealed by Art. 2 of the FD of 22 June 2007, with effect from 1 July 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46a-6]: Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^46a-6]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### B. Re-establishment of rights
 
@@ -967,7 +968,7 @@ The patent may not be invoked against any person who, during the following perio
 
 Article 13 of the Patent Attorney Act of 20 March 2009[^48b-1] applies by analogy to representatives who are not registered in the Patent Attorney Register.
 
-[^48b-1]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^48b-1]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ## Second Title Grant of the Patent
 
@@ -990,9 +991,8 @@ Article 13 of the Patent Attorney Act of 20 March 2009[^48b-1] applies by analog
 The patent application must contain:
 
 - a. a request for the grant of a patent;
-- [tab] b.[^49-1]a description of the invention and, where a claim is made for a sequence derived from a sequence or partial sequence of a gene, a specific description of the function it performs;
+- b.[^49-1] a description of the invention and, where a claim is made for a sequence derived from a sequence or partial sequence of a gene, a specific description of the function it performs;
 - c. one or more patent claims;
-
 - d. the drawings to which the description or claims of the patent refer;
 - e. an abstract.[^49-2]
 
@@ -1441,7 +1441,7 @@ In accordance with the following provisions, the following persons may be held l
 
 <sup>2</sup> In criminal cases (Art. 81–82), publication of the judgment is governed by Article 68 of the Swiss Criminal Code[^70-1].[^70-2]
 
-[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^70-2]: Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### F. Notification of judgments
@@ -1488,7 +1488,7 @@ Any person who brings an action under Articles 72, 73, 74 or 81 and subsequently
 
 <sup>4</sup> …[^73-4]
 
-[^73-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^73-2]: Repealed by Annex 1 No II 12 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^73-3]: Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^73-4]: Inserted by No I of the FA of 17 Dec. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1620,7 +1620,7 @@ Any person requesting preliminary measures may, in particular, request that the 
 
 The general provisions of the Swiss Criminal Code[^83-1] apply unless this Act provides otherwise.
 
-[^83-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### B<sup>bis</sup>. Infringements in businesses
 
@@ -1631,7 +1631,7 @@ The general provisions of the Swiss Criminal Code[^83-1] apply unless this Act p
 In the case of infringements within businesses committed by subordinates, agents or representatives, Articles 6 and 7 of the Federal Act of 22 March 1974[^83a-2] on Administrative Criminal Law apply.
 
 [^83a-1]: Inserted by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^83a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^83a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### C. Place of jurisdiction
 
@@ -1664,56 +1664,86 @@ In the case of infringements within businesses committed by subordinates, agents
 [^86-1]: Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Repealed by Annex No 11 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### Section 4 Assistance Provided by the Federal Office for Customs and Border Security
+### Section 4 Assistance in connection with Goods being brought into or taken out of the Customs Territory
 
 [^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: The name of the administrative unit was modified on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^tit3-chap4-2]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### A. Notification of suspicious goods
 
 #### Art. 86a
 
-<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory.[^86a-1]
+[^86a-1]
 
-<sup>2</sup> In such cases, the FOCBS is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86*b* paragraph 1.
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe a patent valid in Switzerland are about to be brought into or taken out of the customs territory.
 
-[^86a-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> In such cases, the FOCBS is authorised to detain the goods for three working days in order that the person entitled to file an application in accordance with Article 86*b* can do so.
+
+[^86a-1]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### B. Application for assistance
 
 #### Art. 86b
 
-<sup>1</sup> If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the FOCBS in writing to refuse the release of the goods.[^86b-1]
+[^86b-1]
 
-<sup>2</sup> The applicant must provide all the information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the goods.
+<sup>1</sup> If the proprietor of the patent or the licensee that is entitled to institute proceedings has clear indications that goods which infringe a patent valid in Switzerland are about to be brought into or taken out of Swiss customs territory, the proprietor or licensee may request the FOCBS in writing to refuse the release of the goods.
 
-<sup>3</sup> The FOCBS shall make the final decision on the application. It may charge a fee to cover the administrative costs.
+<sup>2</sup>
 
-[^86b-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+Applicants may at the same time apply in writing for the goods to be destroyed:
 
-### C. Withholding of goods
+- a. in accordance with the ordinary procedure (Art. 86*f*–86*k*); or
+- b. in accordance with the simplified procedure (Art. 86*l*) if the consignment is small.
+
+<sup>3</sup> In the application in accordance with paragraph 2, applicants may request that the goods be handed over to them so that they can destroy the goods themselves.
+
+<sup>4</sup> The application in accordance with paragraph 2 letter a must not result in the time limits for obtaining preliminary measures in accordance with Article 86*c* paragraphs 3 and 4 being extended.
+
+<sup>5</sup> The Federal Council shall determine what constitutes a small consignment, taking into account in particular the number of units contained in a consignment.
+
+<sup>6</sup> Applicants shall provide all the information available to them that the FOCBS requires in order to be able to decide on the application; this shall include a precise description of the goods.
+
+<sup>7</sup> The FOCBS shall make the final decision on the application. It may charge a fee to cover the administrative costs.
+
+[^86b-1]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+### C. Detention of the goods
 
 #### Art. 86c
 
-<sup>1</sup> If the FOCBS, as a result of an application under Article 86*b* paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^86c-1]
+[^86c-1]
 
-<sup>2</sup> It shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
+<sup>1</sup>
 
-<sup>3</sup> Where justified by circumstances, it may withhold the goods for a maximum of ten additional working days.
+If, as a result of an application for assistance in accordance with Article 86*b* paragraph 1, the FOCBS has grounds to suspect that the goods intended to be brought into or taken out of the Swiss customs territory infringe a patent valid in Switzerland, it shall:
 
-[^86c-1]: Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. detain the goods; and
+- b. inform the applicant and the declarant, holder or owner of the goods.
+
+<sup>2</sup> If an application for the destruction of small consignments (Art. 86*b* para. 2 let. b) was submitted with the application for assistance in accordance with Article 86*b* paragraph 1, the procedure shall be governed exclusively by Article 86*l*.
+
+<sup>3</sup> The FOCBS shall detain the goods for a maximum of ten working days from the date on which the applicant received the notification in accordance with paragraph 1 letter b so that the applicant may obtain preliminary measures.
+
+<sup>4</sup> Where justified by the circumstances, it may detain the goods for a maximum of ten additional working days.
+
+<sup>5</sup> If the consignment is small, the FOCBS may transfer responsibility for the notification in accordance with paragraph 1 letter b and the further procedural steps to the IPI.
+
+[^86c-1]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### D. Samples
 
 #### Art. 86d
 
-<sup>1</sup> While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the FOCBS[^86d-1] is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
 <sup>3</sup> They must be returned after the examination has been carried out, if this is reasonable. If samples are retained by the applicant, they are subject to the provisions of customs legislation.
+
+[^86d-1]: Name in accordance with No I 3 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 ### E. Safeguarding of manufacturing and trade secrets
 
@@ -1725,17 +1755,24 @@ In the case of infringements within businesses committed by subordinates, agents
 
 <sup>3</sup> The FOCBS may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
 
-### F. Application for destruction of the goods
+### F. Notification of the application for destruction of goods
 
 ### I. Procedure
 
+[^tit3-chap4-lvlF-lvlI-1]
+
+[^tit3-chap4-lvlF-lvlI-1]: Amended by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
 #### Art. 86f
 
-<sup>1</sup> When making an application under Article 86*b* paragraph 1, the applicant may submit a written request to the FOCBS to destroy the goods.
+<sup>1</sup> …[^86f-1]
 
-<sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86*c* paragraph 1.
+<sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86c paragraph 1.
 
-<sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 86*c* paragraphs 2 and 3 being extended.
+<sup>3</sup> …[^86f-2]
+
+[^86f-1]: Repealed by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^86f-2]: Repealed by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, with effect from 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### II. Consent
 
@@ -1743,7 +1780,9 @@ In the case of infringements within businesses committed by subordinates, agents
 
 <sup>1</sup> The destruction of the goods requires the consent of the declarant, holder or owner.
 
-<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits given under Article 86*c* paragraphs 2 and 3.
+<sup>2</sup> Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits given under Article 86*c* paragraphs 2 and 3[^86g-1].
+
+[^86g-1]: Presently: Art. 86*c* para. 3 and 4.
 
 ### III. Evidence
 
@@ -1774,6 +1813,31 @@ Before the destruction of the goods, the FOCBS shall remove samples and hold the
 <sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the FOCBS may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the FOCBS may request the applicant to provide appropriate security.
 
 <sup>2</sup> The applicant shall be liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified.
+
+### H. Simplified procedure for destroying small consignments
+
+#### Art. 86l
+
+[^86l-1]
+
+<sup>1</sup>
+
+The FOCBS shall detain goods if the consignment is small and:
+
+- a. if, as a result of an application for assistance in accordance with Article 86*b* paragraph 1, it has grounds to suspect that goods intended to be brought into or taken out of the Swiss customs territory infringe a patent valid in Switzerland; and
+- b. an application for the destruction of small consignments (Art. 86*b* para. 2 let. b) has been submitted.
+
+<sup>2</sup> It may transfer responsibility for conducting the further procedure to the IPI.
+
+<sup>3</sup> The competent authority shall provide the declarant, holder or owner of the goods with notification of the suspicion and of the detained goods and inform the declarant, holder or owner that the goods will be destroyed if he does not expressly object to the destruction within ten working days of receiving this notification.
+
+<sup>4</sup> If the declarant, holder or owner expressly objects to the destruction within the time limit specified in paragraph 3, the competent authority shall notify the applicant accordingly. The further procedure shall be governed *mutatis mutandis* by Articles 86*c* paragraphs 3 and 4, 86*d*, 86*e* and 86*k*.
+
+<sup>5</sup> If the declarant, holder or owner agrees to the destruction or does not give an opinion within the time limit referred to in paragraph 3, the competent authority shall destroy the goods at the applicant’s expense no earlier than three months after the notification specified in paragraph 3 or hand them over to the applicant for destruction if the applicant has requested this in accordance with Article 86*b* paragraph 3. Claims for damages by the applicant against the declarant, holder or owner are excluded.
+
+<sup>6</sup> The competent authority shall provide the applicant with information about the quantity and type of the goods destroyed in accordance with paragraph 5 and about the senders, whether inside or outside Switzerland.
+
+[^86l-1]: Inserted by No I 6 of the FA of 22 Dec. 2023 on the Introduction of a Simplified Procedure for Destroying Small Consignments in Intellectual Property Law, in force since 1 July 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Fourth Title …
 
@@ -1850,7 +1914,7 @@ Before the destruction of the goods, the FOCBS shall remove samples and hold the
 <sup>3</sup> The text of the European Patent Convention that binds Switzerland takes precedence over this Act.
 
 [^109-1]: Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. See now: The European Patent Convention, revised in Munich on 29 November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
+[^109-2]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)Art. 1 3674 Art. 1]. See now: The European Patent Convention, revised in Munich on 29 November 2000 ([SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)).
 
 ### Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent
 
@@ -2121,7 +2185,7 @@ The Swiss Federal Institute of Intellectual Property shall receive requests for 
 <sup>3</sup> The text of the European Patent Convention that binds Switzerland takes precedence over this Act.
 
 [^131-1]: Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
+[^131-2]: [SR 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 [^131-3]: Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### Section 2 Applications filed in Switzerland
@@ -2280,7 +2344,7 @@ The certificate is granted if, at the time of the application:
 <sup>2</sup> It is granted based on the first authorisation.[^140b-3]
 
 [^140b-1]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140b-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140b-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^140b-3]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### C. Right
@@ -2368,7 +2432,7 @@ The certificate lapses where:
 <sup>3</sup> The Swiss Agency for Therapeutic Products shall notify the IPI of any withdrawal or suspension of the authorisations.[^140i-4]
 
 [^140i-1]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140i-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140i-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^140i-3]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^140i-4]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2425,7 +2489,7 @@ The IPI shall extend the term of protection (Art. 140*e*) of certificates issued
 
 <sup>2</sup> A certificate’s term of protection may only be extended once.
 
-[^140n-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140n-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Deadline for submitting an application
 
@@ -2484,7 +2548,7 @@ Upon application the IPI shall issue a paediatric supplementary protection certi
 
 <sup>4</sup> The term of protection of a paediatric certificate may not be extended.
 
-[^140t-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140t-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Claim
 
@@ -2543,7 +2607,7 @@ Articles 140*a* paragraph 1<sup>bis</sup> and 2, 140*d*, 140*g*, 140*i*, 140*l* 
 
 <sup>1</sup> The Institute shall on application grant a supplementary protection certificate (certificate) for active ingredients or combination of active ingredients of plant protection products.
 
-<sup>2</sup> Articles 140*a* paragraph 2 and *140b* to 140*m* apply by analogy.
+<sup>2</sup> Articles 140*a* paragraph 2 and 140*b* to 140*m* apply by analogy.
 
 <sup>3</sup>
 
@@ -2683,6 +2747,6 @@ Commencement date: 1 January 1956[^u1-149-4] Art. 89 para. 2, 90 para. 2 and 3, 
 
 [^u1-149-1]: Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^u1-149-2]: [AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^u1-149-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^u1-149-4]: FCD of 18 Oct. 1955.
 [^u1-149-5]: FCD of 8 Sept. 1959 (RU **1995** 861).

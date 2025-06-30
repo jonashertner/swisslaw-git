@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1954 sur les brevets d'invention (Loi sur les 
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20230701/fr"
 
 (Loi sur les brevets, LBI)[^t-1]
 
-du 25 juin 1954 (État le 1<sup>er</sup> juillet 2023)
+du 25 juin 1954 (État le 1<sup>er</sup> juillet 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -27,7 +27,7 @@ vu l’art. 122 de la Constitution[^ingress-1],[^ingress-2] vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 6 dela LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1950 I 933](https://fedlex.data.admin.ch/eli/fga/1950/1_977_933_)
 [^ingress-4]: [FF 1952 I 1](https://fedlex.data.admin.ch/eli/fga/1952/1__1_)
@@ -171,7 +171,7 @@ En ce qui concerne la nouveauté, l’état de la technique comprend également 
 - c. que les taxes visées à l’art. 79, al. 2, de la Convention du 5 octobre 1973 sur le brevet européen dans sa version révisée du 29 novembre 2000 pour la désignation valable de la Suisse aient été payées lorsqu’il s’agit d’une demande européenne.[^7-3]
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^7-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 [^7-3]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
@@ -194,7 +194,7 @@ Si l’invention a été rendue accessible au public pendant les six mois qui pr
 - b. du fait que le requérant ou son prédécesseur en droit a exposé l’invention dans une exposition internationale officielle ou officiellement reconnue au sens de la convention du 22 novembre 1928 concernant les expositions internationales[^7b-2] et lorsqu’il l’a déclaré au moment du dépôt et qu’il a produit en temps utile des pièces suffisantes à l’appui.
 
 [^7b-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7b-2]: [RS 0.945.11](https://fedlex.data.admin.ch/eli/cc/47/70_72_14)
+[^7b-2]: [RS 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
 
 ### IV. Utilisation nouvelle de substances connues
 
@@ -207,7 +207,7 @@ Si l’invention a été rendue accessible au public pendant les six mois qui pr
 Les substances ou compositions qui, en tant que telles, sont comprises dans l’état de la technique, mais ne répondent pas à ces conditions quant à leur utilisation pour la mise en œuvre d’une méthode de traitement chirurgical ou thérapeutique ou d’une méthode de diagnostic visée à l’art. 2, al. 2, let. a[^7c-2], sont réputées nouvelles dans la mesure où elles ne sont destinées qu’à cette utilisation.
 
 [^7c-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7c-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### b. Indications thérapeutiques ultérieures
 
@@ -218,7 +218,7 @@ Les substances ou compositions qui, en tant que telles, sont comprises dans l’
 Les substances ou compositions qui, en tant que telles, sont comprises dans l’état de la technique, mais ne répondent pas à ces conditions quant à leur utilisation spécifique par rapport à une première indication thérapeutique conformément à l’art. 7*c*, pour la mise en œuvre d’une méthode de traitement chirurgical ou thérapeutique ou d’une méthode de diagnostic visée à l’art. 2, al. 2, let. a[^7d-2], sont réputées nouvelles dans la mesure où elles ne servent qu’à la fabrication d’un produit destiné à des fins chirurgicales, thérapeutiques ou diagnostiques.
 
 [^7d-1]: Introduit par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^7d-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^7d-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### F. Effets du brevet
 
@@ -404,7 +404,7 @@ Le brevet expire:
 Les ressortissants suisses requérants ou titulaires de brevet peuvent invoquer les dispositions du texte, liant la Suisse, de la convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle[^16-2], lorsque ces dispositions sont plus favorables que celles de la présente loi.
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 
 ### Chapitre 2 Droit de priorité
 
@@ -426,8 +426,8 @@ Les ressortissants suisses requérants ou titulaires de brevet peuvent invoquer 
 
 <sup>3</sup> …[^17-6]
 
-[^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)/**.04**
-[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)/**.04**
+[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^17-3]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^17-4]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^17-5]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
@@ -626,7 +626,7 @@ Le brevet est réputé n’avoir jamais produit d’effets dans la mesure où le
 
 <sup>2</sup> L’exproprié a droit à une indemnité pleine et entière, fixée en cas de litige par le Tribunal fédéral; les dispositions du chap. II de la loi fédérale du 20 juin 1930 sur l’expropriation[^32-1] sont applicables par analogie.
 
-[^32-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^32-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### C. Transfert du droit à la délivrance du brevet et du droit au brevet
 
@@ -727,7 +727,7 @@ Le Conseil fédéral détermine les espèces végétales auxquelles s’applique
 <sup>2</sup> Le titulaire du brevet peut lier l’octroi de la licence à la condition que le détenteur du titre de protection lui accorde à son tour une licence pour l’utilisation de son droit.
 
 [^36a-1]: Introduit par l’art. 2 ch. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3929](https://fedlex.data.admin.ch/eli/fga/2004/683)).
-[^36a-2]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^36a-2]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 ### C. Exploitation de l’invention en Suisse
 
@@ -965,7 +965,7 @@ Le brevet ne peut pas être opposé à celui qui, durant les périodes indiquée
 
 L’art. 13 de la loi du 20 mars 2009 sur les conseils en brevets[^48b-1] s’applique par analogie aux mandataires non inscrits au registre.
 
-[^48b-1]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^48b-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ## Titre deuxième Délivrance du brevet
 
@@ -1438,7 +1438,7 @@ Est passible de poursuites civiles et pénales, conformément aux dispositions c
 
 <sup>2</sup> En matière pénale (art. 81 à 82), la publication du jugement est réglée par l’art. 68 du code pénal[^70-1].[^70-2]
 
-[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^70-2]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### F. Communication des jugements
@@ -1485,7 +1485,7 @@ Celui qui a intenté une des actions prévues aux art. 72, 73, 74 ou 81 et qui, 
 
 <sup>4</sup> …[^73-4]
 
-[^73-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^73-2]: Abrogé par l’annexe 1 ch. II 12 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^73-3]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^73-4]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1617,7 +1617,7 @@ Toute personne qui demande des mesures provisionnelles peut en particulier requ�
 
 Les dispositions générales du code pénal suisse[^83-1] sont applicables en tant que la présente loi n’en dispose pas autrement.
 
-[^83-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### B<sup>bis</sup>. Infractions commises dans une entreprise
 
@@ -1628,7 +1628,7 @@ Les dispositions générales du code pénal suisse[^83-1] sont applicables en ta
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^83a-2] s’appliquent aux infractions commises dans une entreprise par un subordonné, un mandataire ou un représentant.
 
 [^83a-1]: Introduit par l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^83a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^83a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### C. For
 
@@ -1661,78 +1661,121 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Abrogé par l’annexe ch. 11 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
-### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
+### Chapitre 4 Interventions lors de l’introduction de marchandises sur le territoire douanier ou de leur acheminement hors de celui‑ci
 
 [^tit3-chap4-1][^tit3-chap4-2]
 
 [^tit3-chap4-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^tit3-chap4-2]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### A. Dénonciation de marchandises suspectes
 
 #### Art. 86a
 
-<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire du brevet lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes.[^86a-1]
+[^86a-1]
 
-<sup>2</sup> Dans ce cas, l’OFDF est habilité à retenir les marchandises pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande au sens de l’art. 86*b,* al. 1.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire du brevet lorsqu’il y a lieu de soupçonner que l’introduction sur le territoire douanier de marchandises portant atteinte à un brevet valable en Suisse ou l’acheminement de telles marchandises hors du territoire douanier sont imminents.
 
-[^86a-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+<sup>2</sup> Dans ce cas, il est habilité à retenir les marchandises pendant trois jours ouvrables afin de permettre aux personnes concernées de déposer une demande au sens de l’art. 86*b*.
+
+[^86a-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### B. Demande d’intervention
 
 #### Art. 86b
 
-<sup>1</sup> Si le titulaire du brevet ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces marchandises.[^86b-1]
+[^86b-1]
 
-<sup>2</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des marchandises.
+<sup>1</sup> Lorsque le titulaire du brevet ou le preneur de licence ayant qualité pour agir a des indices concrets que l’introduction sur le territoire douanier de marchandises portant atteinte à un brevet valable en Suisse ou l’acheminement de telles marchandises hors du territoire douanier sont imminents, il peut demander par écrit à l’OFDF de refuser la mainlevée des marchandises.
 
-<sup>3</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
+<sup>2</sup>
 
-[^86b-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+Le requérant peut par la même occasion demander par écrit que les marchandises soient détruites:
+
+- a. selon la procédure ordinaire (art. 86*f* à 86*k*), ou
+- b. selon la procédure simplifiée (art. 86*l*) s’il s’agit d’un petit envoi.
+
+<sup>3</sup> Dans la demande visée à l’al. 2, il peut exiger que les marchandises lui soient remises afin qu’il les détruise lui-même.
+
+<sup>4</sup> La demande visée à l’al. 2, let. a, ne donne pas lieu à une prolongation des délais prévus à l’art. 86*c*, al. 3 et 4, pour l’obtention de mesures provisionnelles.
+
+<sup>5</sup> Le Conseil fédéral détermine ce qu’il faut entendre par petit envoi; ce faisant, il tient compte notamment du nombre d’unités contenues dans un envoi.
+
+<sup>6</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande, notamment une description précise des marchandises.
+
+<sup>7</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.
+
+[^86b-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### C. Rétention des marchandises
 
 #### Art. 86c
 
-<sup>1</sup> Si, à la suite d’une demande au sens de l’art. 86*b*, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire suisse de marchandises portant atteinte à un brevet valable en Suisse ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des marchandises, d’autre part.[^86c-1]
+[^86c-1]
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les marchandises durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+<sup>1</sup>
 
-<sup>3</sup> Si les circonstances le justifient, il peut retenir les marchandises pendant une durée supplémentaire de dix jours ouvrables au plus.
+Lorsque, à la suite d’une demande d’intervention au sens de l’art. 86*b*, al. 1, l’OFDF a des raisons de soupçonner que les marchandises destinées à être introduites sur le territoire douanier ou à être acheminées hors de celui-ci portent atteinte à un brevet valable en Suisse, il:
 
-[^86c-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+- a. retient les marchandises, et
+- b. en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des marchandises, de l’autre.
 
-### D. Échantillons
+<sup>2</sup> Si une demande de destruction d’un petit envoi (art. 86*b*, al. 2, let. b) a été déposée avec la demande d’intervention visée à l’art. 86*b*, al. 1, la procédure est régie uniquement par l’art. 86*l*.
+
+<sup>3</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les marchandises durant dix jours ouvrables au plus à compter du moment où il l’a informé conformément à l’al. 1, let. b.
+
+<sup>4</sup> Si les circonstances le justifient, il peut prolonger ce délai de dix jours ouvrables au plus.
+
+<sup>5</sup> Lorsqu’il s’agit d’un petit envoi, il peut confier à l’IPI la responsabilité d’informer le requérant conformément à l’al. 1, let. b, et de conduire la suite de la procédure.
+
+[^86c-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+### D. Spécimens ou échantillons
 
 #### Art. 86d
 
-<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des marchandises, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les marchandises retenues.
+[^86d-1]
 
-<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des marchandises, à remettre ou à envoyer au requérant des spécimens ou des échantillons à des fins d’examen ou à le laisser examiner sur place les marchandises retenues.
 
-<sup>3</sup> Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
+<sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des spécimens ou des échantillons.
+
+<sup>3</sup> Une fois l’examen des spécimens ou des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des spécimens ou des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
+
+[^86d-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### E. Protection des secrets de fabrication ou d’affaires
 
 #### Art. 86e
 
-<sup>1</sup> En même temps que la communication visée à l’art. 86*c*, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité, prévue à l’art. 86*d*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les marchandises retenues.
+<sup>1</sup> En même temps que la communication visée à l’art. 86*c*, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des marchandises de la possibilité, prévue à l’art. 86*d*, al. 1, de remettre des spécimens ou des échantillons au requérant ou de le laisser examiner sur place les marchandises retenues.[^86e-1]
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des marchandises peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des marchandises, l’OFDF peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des marchandises, l’OFDF peut refuser la remise de spécimens ou d’échantillons.[^86e-2]
 
-### F. Demande de destruction des marchandises
+[^86e-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^86e-2]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### I. Procédure
 
+[^tit3-chap4-lvlE-lvlI-1]
+
+[^tit3-chap4-lvlE-lvlI-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
 #### Art. 86f
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 86*b*, al. 1, le requérant peut demander par écrit à l’OFDF la destruction des marchandises.
+F. Information concernant la demande de destruction des marchandises
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des marchandises dans le cadre de l’information visée à l’art. 86*c*, al. 1.
+<sup>1</sup> …[^86f-1]
 
-<sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 86*c*, al. 2 et 3, pour l’obtention de mesures provisionnelles.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF[^86f-2] en informe le déclarant, le possesseur ou le propriétaire des marchandises dans le cadre de l’information visée à l’art. 86*c*, al. 1.
+
+<sup>3</sup> …[^86f-3]
+
+[^86f-1]: Abrogé par le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^86f-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^86f-3]: Abrogé par le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### II. Approbation
 
@@ -1740,13 +1783,19 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>1</sup> La destruction des marchandises requiert l’approbation du déclarant, du possesseur ou du propriétaire.
 
-<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des marchandises ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 86*c*, al. 2 et 3.
+<sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des marchandises ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 86*c*, al. 2 et 3[^86g-1].
+
+[^86g-1]: Actuellement: art. 86*c*, al. 3 et 4.
 
 ### III. Moyens de preuve
 
 #### Art. 86h
 
-Avant la destruction des marchandises, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+[^86h-1]
+
+Avant la destruction des marchandises, l’OFDF prélève des spécimens ou des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+
+[^86h-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### IV. Dommages-intérêts
 
@@ -1754,7 +1803,9 @@ Avant la destruction des marchandises, l’OFDF prélève des échantillons et l
 
 <sup>1</sup> Si la destruction des marchandises se révèle infondée, le requérant répond seul du dommage qui en résulte.
 
-<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des marchandises donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.
+<sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des marchandises donne son approbation par écrit pour leur destruction et si celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.[^86i-1]
+
+[^86i-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### V. Coûts
 
@@ -1762,7 +1813,9 @@ Avant la destruction des marchandises, l’OFDF prélève des échantillons et l
 
 <sup>1</sup> Le requérant supporte les frais liés à la destruction des marchandises.
 
-<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 86*h* est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts prévus à l’art. 86*i*, al. 1.
+<sup>2</sup> La question des coûts liés au prélèvement et à la conservation des spécimens ou des échantillons au sens de l’art. 86*h* est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 86*i*, al. 1.[^86j-1]
+
+[^86j-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ### G. Déclaration de responsabilité et dommages-intérêts
 
@@ -1770,7 +1823,34 @@ Avant la destruction des marchandises, l’OFDF prélève des échantillons et l
 
 <sup>1</sup> Si la rétention des marchandises risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
-<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des marchandises et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
+<sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des marchandises et par le prélèvement de spécimens ou d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.[^86k-1]
+
+[^86k-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+
+### H. Procédure simplifiée de destruction de petits envois
+
+#### Art. 86l
+
+[^86k-2]
+
+<sup>1</sup>
+
+S’il s’agit d’un petit envoi, l’OFDF retient les marchandises:
+
+- a. si, à la suite d’une demande d’intervention au sens de l’art. 86*b*, al. 1, il a des raisons de soupçonner que ces marchandises destinées à être introduites sur le territoire douanier ou à être acheminées hors de celui-ci portent atteinte à un brevet valable en Suisse, et
+- b. si une demande de destruction d’un petit envoi (art. 86*b*, al. 2, let. b) a été déposée.
+
+<sup>2</sup> Il peut confier à l’IPI la responsabilité de la suite de la procédure.
+
+<sup>3</sup> L’autorité compétente informe le déclarant, le possesseur ou le propriétaire de son soupçon et de la rétention des marchandises et lui signifie que les marchandises seront détruites s’il ne s’y oppose pas expressément dans les dix jours ouvrables à compter de la réception de l’information.
+
+<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le requérant. Pour la suite de la procédure, les art. 86*c*, al. 3 et 4, 86*d*, 86*e* et 86*k* s’appliquent par analogie.
+
+<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les marchandises aux frais du requérant au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au requérant en vue de leur destruction si celui-ci l’a requis conformément à l’art. 86*b*, al. 3. Toute demande de dommages-intérêts du requérant à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
+
+<sup>6</sup> L’autorité compétente informe le requérant de la quantité des marchandises détruites en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
+
+[^86k-2]: Introduit par le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 ## Titre quatrième …
 
@@ -1847,7 +1927,7 @@ Avant la destruction des marchandises, l’OFDF prélève des échantillons et l
 <sup>3</sup> Le texte de la convention sur le brevet européen qui lie la Suisse l’emporte sur la présente loi.
 
 [^109-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^109-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^109-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
 ### Chapitre 2 Effets de la demande de brevet européen et du brevet européen, modifications quant à l’existence du brevet européen
 
@@ -2118,7 +2198,7 @@ L’IPI reçoit les commissions rogatoires émanant de l’Office européen des 
 <sup>3</sup> Le texte du traité de coopération qui lie la Suisse l’emporte sur la présente loi.
 
 [^131-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^131-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
+[^131-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 [^131-3]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### Chapitre 2 Demandes déposées en Suisse
@@ -2277,7 +2357,7 @@ Le certificat est délivré si, au moment de la demande:
 <sup>2</sup> Le certificat est délivré sur la base de la première autorisation.
 
 [^140b-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140b-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140b-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### C. Droit
 
@@ -2364,7 +2444,7 @@ Le certificat s’éteint lorsque:
 <sup>3</sup> L’Institut suisse des produits thérapeutiques communique à l’IPI la révocation ou la suspension des autorisations.[^140i-4]
 
 [^140i-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^140i-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140i-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^140i-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^140i-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2421,7 +2501,7 @@ L’IPI prolonge de six mois la durée de la protection des certificats délivr�
 
 <sup>2</sup> La durée de la protection d’un certificat ne peut être prolongée qu’une seule fois.
 
-[^140n-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140n-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Délai pour le dépôt de la demande
 
@@ -2482,7 +2562,7 @@ L’IPI délivre, sur demande, des certificats complémentaires de protection p�
 
 <sup>4</sup> La durée de la protection d’un certificat pédiatrique ne peut pas être prolongée.
 
-[^140t-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^140t-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### B. Droit
 
@@ -2681,6 +2761,6 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1956[^u1-149-4] Art. 89 a
 
 [^u1-149-1]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^u1-149-2]: [RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^u1-149-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^u1-149-4]: ACF du 18 oct. 1955
 [^u1-149-5]: ACF du 8 sept. 1959 ([RO 1959 891](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))
