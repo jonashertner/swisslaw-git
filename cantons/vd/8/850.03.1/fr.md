@@ -4,7 +4,7 @@ number: "850.03.1"
 title: RÈGLEMENT du 30.05.2012 d’application de la loi du 9 novembre 2010 sur l’harmonisation et la coordination de l’octroi des prestations sociales et d’aide à la formation et au logement cantonales vaudoises (RLHPS)
 short: RLHPS
 language: fr
-version: 2023-09-01
+version: 2025-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03.1?id=04227fb8-f6a7-4c4c-836e-eb287c7e95ab"
 ---
 
@@ -372,13 +372,13 @@ arrête
 
 **Entrée en vigueur [^25-4]**
 
-<sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2013, sauf en ce qui concerne les prestations catégorielles d'aides aux études et à la formation professionnelle au sens de l'article 2, alinéa 1, lettre a) de la loi, pour lesquelles l'entrée en vigueur est fixée au1er avril 2015, sous réserve de l'entrée en vigueur pour ces prestations des articles 14 à 24 du présent règlement avec effet au1er août 2013, ainsi que les prestations circonstancielles d'offre d'accueil de jour des enfants au sens de l'article 2, alinéa 1, lettre b) de la loi, pour lesquelles l'entrée en vigueur est fixée au1er août 2025.
+<sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2013, sauf en ce qui concerne les prestations catégorielles d'aides aux études et à la formation professionnelle au sens de l'article 2, alinéa 1, lettre a) de la loi, pour lesquelles l'entrée en vigueur est fixée au 1er avril 2015, sous réserve de l'entrée en vigueur pour ces prestations des articles 14 à 24 du présent règlement avec effet au 1er août 2013, ainsi que les prestations circonstancielles d'offre d'accueil de jour des enfants au sens de l'article 2, alinéa 1, lettre b) de la loi, pour lesquelles l'entrée en vigueur est fixée au 1er janvier 2029.
 
 Annexes [^26-1]
 
 1
 
-[Annexe accès RLHPS](https://prestations.vd.ch/pub/blv-publication/api/actes/04227fb8-f6a7-4c4c-836e-eb287c7e95ab/annexes/1?dmev=01.09.2023)
+[Annexe accès RLHPS](https://prestations.vd.ch/pub/blv-publication/api/actes/04227fb8-f6a7-4c4c-836e-eb287c7e95ab/annexes/1?dmev=01.07.2025)
 
 [^25-4]: Modif. 2 du 26.06.2013: Modification Al. 1; entrée en vigueur au 01.07.2013 · Modif. 3 du 02.07.2014: Modification Al. 1; entrée en vigueur au 02.07.2014 · Modif. 4 du 28.01.2015: Modification Al. 1; entrée en vigueur au 01.02.2015 · Modif. 5 du 25.03.2015: Modification Al. 1; entrée en vigueur au 01.04.2015 · Modif. 6 du 17.02.2016: Modification Al. 1; entrée en vigueur au 01.03.2016 · Modif. 8 du 13.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 10 du 05.06.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 13 du 25.06.2025: Modification Al. 1; entrée en vigueur au 01.07.2025
 [^26-1]: Modif. 11 du 07.10.2020: Modification Annexes, Ann. 1; entrée en vigueur au 07.10.2020 · Modif. 12 du 06.12.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2023
