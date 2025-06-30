@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen
 short: BGFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: de
-version: 2023-01-23
+version: 2025-07-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/de"
 
 (Anwaltsgesetz, BGFA)
 
-vom 23. Juni 2000 (Stand am 23. Januar 2023)
+vom 23. Juni 2000 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 95 der Bundesverfassung[^ingress-1], in Ausführung des Ab
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [BBl 1999 6013](https://fedlex.data.admin.ch/eli/fga/1999/1_6013_5331_4983)
 
 ## 1. Abschnitt: Allgemeines
@@ -48,16 +48,19 @@ Dieses Gesetz gewährleistet die Freizügigkeit der Anwältinnen und Anwälte un
 Es bestimmt die Modalitäten für die Vertretung von Parteien vor Gerichtsbehörden durch Anwältinnen und Anwälte, die:
 
 - a. Staatsangehörige von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) sind;
-- b. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands sind, die von Teil Vier des Abkommens vom 25. Februar 2019[^2-1] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden.[^2-2]
+- b. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands sind, die von Teil Vier des Abkommens vom 25. Februar 2019[^2-1] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden;
+- c.[^2-2] von Anhang A des Abkommens vom 14. Juni 2023[^2-3] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Anerkennung von Berufsqualifikationen erfasst sind.[^2-4]
 
-<sup>3</sup> Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA[^2-3] auszuüben.
+<sup>3</sup> Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA[^2-5] auszuüben.
 
-<sup>4</sup> Die Bestimmungen über Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten sinngemäss auch für Anwältinnen und Anwälte des Vereinigten Königreichs nach Absatz 2 Buchstabe b.[^2-4]
+<sup>4</sup> Die Bestimmungen über Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten sinngemäss auch für Anwältinnen und Anwälte des Vereinigten Königreichs nach Absatz 2 Buchstaben b und c; davon ausgenommen sind die Bestimmungen zum freien Dienstleistungsverkehr (Art. 21 und 22).[^2-6]
 
-[^2-1]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^2-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^2-3]: Ausdruck beigefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^2-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-1]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^2-2]: Eingefügt durch Anhang des BB vom 27. Sept. 2024 über die Genehmigung des Abkommens zwischen der Schweiz und dem Vereinigten Königreich über die Anerkennung von Berufsqualifikationen und über dessen Umsetzung, in Kraft seit 1. Juli 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^2-3]: [SR 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)
+[^2-4]: Fassung gemäss Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-5]: Ausdruck beigefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^2-6]: Eingefügt durch Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)). Fassung gemäss Anhang des BB vom 27. Sept. 2024 über die Genehmigung des Abkommens zwischen der Schweiz und dem Vereinigten Königreich über die Anerkennung von Berufsqualifikationen und über dessen Umsetzung, in Kraft seit 1. Juli 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 3
 
@@ -138,7 +141,7 @@ Für den Registereintrag müssen die Anwältinnen und Anwälte folgende persönl
 <sup>2</sup> Anwältinnen und Anwälte, die bei anerkannten gemeinnützigen Organisationen angestellt sind, können sich ins Register eintragen lassen, sofern die Voraussetzungen nach Absatz 1 Buchstaben a–c erfüllt sind und sich die Tätigkeit der Parteivertretung strikte auf Mandate im Rahmen des von der betroffenen Organisation verfolgten Zwecks beschränkt.
 
 [^8-1]: Fassung gemäss Anhang 1 Ziff. 13 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^8-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-2]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 #### Art. 9
 
@@ -168,7 +171,7 @@ Einsicht in das Register erhalten:
 Die Daten des Registers, die für die Zuweisung und Verwendung der Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010[^10a-2] über die Unternehmens-Identifikationsnummer erforderlich sind, werden dem Bundesamt für Statistik mitgeteilt.
 
 [^10a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
-[^10a-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^10a-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 11
 
@@ -408,6 +411,25 @@ Die Anwältinnen und Anwälte können neben der Berufsbezeichnung des Kantons, i
 
 <sup>2</sup> Sie sehen für die Prüfung der Voraussetzungen für die Eintragung ins kantonale Anwaltsregister ein einfaches und rasches Verfahren vor.
 
+## 7*a*. Abschnitt: Internationale Verträge
+
+[^sec7a-1]
+
+[^sec7a-1]: Eingefügt durch Ziff. I 3 des BG vom 27. Sept. 2024 über den Abschluss internationaler Verträge über die Anerkennung von Berufsqualifikationen, in Kraft seit 1. Juli 2025 ([AS 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
+#### Art. 34a
+
+<sup>1</sup> Der Bundesrat kann im Anwendungsbereich dieses Gesetzes internationale Verträge über die Anerkennung von ausländischen Berufsbezeichnungen, die zur Ausübung des Anwaltsberufs berechtigen, abschliessen.
+
+<sup>2</sup>
+
+Er stellt dabei namentlich sicher, dass:
+
+- a. die Anwältinnen und Anwälte den Berufsregeln nach Artikel 25 unterstellt sind; und
+- b. sich die Eintragung in das kantonale Anwaltsregister nach den Grundsätzen richtet, die für Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten.
+
+<sup>3</sup> Er kann Ausführungsbestimmungen zur Umsetzung dieser Verträge erlassen.
+
 ## 8. Abschnitt: Schlussbestimmungen
 
 #### Art. 35
@@ -436,7 +458,7 @@ Personen, die auf Grund bisherigen kantonalen Rechts über ein Anwaltspatent ver
 
 Datum des Inkrafttretens: 1. Juni 2002
 
-[^37-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^37-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^37-2]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139). Dieses BG ist am 1. Juni 2002 in Kraft getreten.
 [^37-3]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 
@@ -444,9 +466,14 @@ Anhang[^t-1]
 
 (Art. 21 Abs. 1 und 27 Abs. 1)
 
-## Liste der Berufsbezeichnungen in den Mitgliedstaaten der EU und der EFTA gemäss den Richtlinien 77/249/EWG und 98/5/EG
+## Liste der Berufsbezeichnungen in den Mitgliedstaaten der EU und der EFTA sowie im Vereinigten Königreich
 
-[^t-1]: Fassung gemäss Anhang Ziff. 11 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^annexu1-lvlu1-1][^annexu1-lvlu1-2][^annexu1-lvlu1-3]
+
+[^t-1]: Fassung gemäss Anhang Ziff. 11 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien) ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)). Bereinigt gemäss Anhang des BB vom 27. Sept. 2024 über die Genehmigung des Abkommens zwischen der Schweiz und dem Vereinigten Königreich über die Anerkennung von Berufsqualifikationen und über dessen Umsetzung, in Kraft seit 1. Juli 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^annexu1-lvlu1-1]: Gemäss Anhang III Abschnitt A des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)).
+[^annexu1-lvlu1-2]: Gemäss Anhang K Anlage 3 Abschnitt A des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^annexu1-lvlu1-3]: Gemäss dem Abkommen vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens ([SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)) und dem Abkommen vom 14. Juni 2023 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Anerkennung von Berufsqualifikationen ([SR 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)).
 
 Belgien Avocat/Advocaat/Rechtsanwalt
 
@@ -462,7 +489,7 @@ Finnland Asianajaja/Advokat
 
 Frankreich Avocat
 
-Griechenland 
+Griechenland Δικηγορος
 
 Irland Barrister, Solicitor
 
@@ -508,4 +535,4 @@ Ungarn Ügyvéd
 
 Vereinigtes Königreich Advocate/Barrister/Solicitor
 
-Zypern ό
+Zypern Δικηγόρος

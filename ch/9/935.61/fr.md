@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2000 sur la libre circulation des avocats (Loi
 short: LLCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: fr
-version: 2023-01-23
+version: 2025-07-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20250701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/fr"
 
 (Loi sur les avocats, LLCA)
 
-du 23 juin 2000 (État le 23 janvier 2023)
+du 23 juin 2000 (État le 1<sup>er</sup> juillet 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 95 de la Constitution[^ingress-1], vu l’Accord du 21 juin 1999 ent
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [FF 1999 5331](https://fedlex.data.admin.ch/eli/fga/1999/1_6013_5331_4983)
 
 ## Section 1 Généralités
@@ -48,16 +48,19 @@ La présente loi garantit la libre circulation des avocats et fixe les principes
 Elle détermine les modalités selon lesquelles les personnes suivantes peuvent pratiquer la représentation en justice:
 
 - a. les avocats ressortissants des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);
-- b. les avocats ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique la quatrième partie de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes[^2-1].[^2-2]
+- b. les avocats ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique la quatrième partie de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes[^2-1];
+- c.[^2-2] les avocats couverts par l’annexe A de l’Accord du 14 juin 2023 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en matière de reconnaissance des qualifications professionnelles[^2-3].[^2-4]
 
-<sup>3</sup> Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un État membre de l’UE ou de l’AELE[^2-3] sous un titre figurant en annexe.
+<sup>3</sup> Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un État membre de l’UE ou de l’AELE[^2-5] sous un titre figurant en annexe.
 
-<sup>4</sup> Les dispositions concernant les avocats ressortissants des États membres de l’UE ou de l’AELE sont applicables par analogie aux avocats ressortissants du Royaume-Uni visés à l’al. 2, let. b.[^2-4]
+<sup>4</sup> Les dispositions concernant les avocats ressortissants des États membres de l’UE ou de l’AELE sont applicables par analogie aux avocats ressortissants du Royaume-Uni visés à l’al. 2, let. b et c, sous réserve des dispositions qui se rapportent à la prestation de services (art. 21 et 22).[^2-6]
 
-[^2-1]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
-[^2-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^2-3]: Nouvelle expression selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-4]: Introduit par l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-1]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^2-2]: Introduite par l’annexe de l’AF du 27 sept. 2024 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume Uni en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^2-3]: [RS 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)
+[^2-4]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-5]: Nouvelle expression selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-6]: Introduit par l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)). Nouvelle teneur selon l’annexe de l’AF du 27 sept. 2024 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume Uni en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 3
 
@@ -138,7 +141,7 @@ Pour être inscrit au registre, l’avocat doit remplir les conditions personnel
 <sup>2</sup> L’avocat qui est employé par une organisation reconnue d’utilité publique peut demander à être inscrit au registre à condition de remplir les conditions prévues à l’al. 1, let. a à c, et de limiter son activité de défenseur à des mandats concernant strictement le but visé par cette organisation.
 
 [^8-1]: Nouvelle teneur selon l’annexe 1 ch. 13 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^8-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 #### Art. 9
 
@@ -168,7 +171,7 @@ Sont admis à consulter le registre:
 Les données du registre nécessaires à l’attribution et à l’utilisation du numéro d’identification des entreprises au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^10a-2], sont communiquées à l’Office fédéral de la statistique.
 
 [^10a-1]: Introduit par l’annexe ch. 3 de la LF du 18 juin 2010 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 7093](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
-[^10a-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^10a-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 11
 
@@ -408,6 +411,25 @@ L’avocat peut utiliser, outre le titre professionnel du canton au registre duq
 
 <sup>2</sup> Ils prévoient une procédure simple et rapide pour l’examen des conditions d’inscription dans le registre cantonal.
 
+## Section 7*a* Traités internationaux
+
+[^sec7a-1]
+
+[^sec7a-1]: Introduite par le ch. I 3 de la LF du 27 sept. 2024 sur la conclusion de traités internationaux en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
+#### Art. 34a
+
+<sup>1</sup> Le Conseil fédéral peut, dans le champ d’application de la présente loi, conclure des traités internationaux en matière de reconnaissance de titres professionnels étrangers qui autorisent l’exercice de la profession d’avocat.
+
+<sup>2</sup>
+
+Il veille notamment à ce que:
+
+- a. les avocats soient soumis aux règles professionnelles définies à l’art. 25;
+- b. l’inscription au registre cantonal des avocats se fonde sur les principes applicables aux avocats ressortissants des États membres de l’UE ou de l’AELE.
+
+<sup>3</sup> Il peut édicter des dispositions d’exécution mettant en œuvre ces traités.
+
 ## Section 8 Dispositions finales
 
 #### Art. 35
@@ -436,7 +458,7 @@ Les titulaires de brevets d’avocat délivrés conformément à l’ancien droi
 
 Date de l’entrée en vigueur: 1<sup>er</sup> juin 2002[^37-4]
 
-[^37-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^37-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^37-2]: [RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139). Cette loi est entrée en vigueur le 1<sup>er</sup> juin 2002.
 [^37-3]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 [^37-4]: ACF du 24 avril 2002
@@ -445,9 +467,14 @@ Annexe[^t-1]
 
 (art. 21, al. 1, et 27, al. 1)
 
-## Liste des titres professionnels dans les États membres de l’UE et de l’AELE selon les directives 77/249/CEE et 98/5/CE
+## Liste des titres professionnels dans les États membres de l’UE et de l’AELE et au Royaume‑Uni
 
-[^t-1]: Nouvelle teneur selon l’annexe ch. 11 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^annexu1-lvlu1-1][^annexu1-lvlu1-2][^annexu1-lvlu1-3]
+
+[^t-1]: Nouvelle teneur selon l’annexe ch. 11 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie) ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)). Mise à jour par l’annexe de l’AF du 27 sept. 2024 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume Uni en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^annexu1-lvlu1-1]: Selon l’annexe III, section A, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)).
+[^annexu1-lvlu1-2]: Selon l’annexe K, appendice 3, section A, de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^annexu1-lvlu1-3]: Selon l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume‑Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes ([RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)) et l’Accord du 14 juin 2023 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en matière de reconnaissance des qualifications professionnelles ([RS 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)).
 
 Allemagne Rechtsanwalt
 

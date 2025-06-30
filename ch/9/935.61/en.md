@@ -4,11 +4,11 @@ title: "Federal Act of 23 June 2000 on the Free Movement of Lawyers (Lawyers Act
 short: FMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: en
-version: 2023-01-23
+version: 2025-07-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2002-153-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Lawyers Act, FMLA)
 
-of 23 June 2000 (Status as of 23 January 2023)
+of 23 June 2000 (Status as of 1 July 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,8 +27,8 @@ on the basis of Article 95 of the Federal Constitution[^ingress-1], in implement
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [BBl 1999 6013](https://fedlex.data.admin.ch/eli/fga/1999/1_6013_5331_4983)
 
 ## Section 1 General
@@ -50,16 +50,19 @@ This Act guarantees free movement for lawyers and set outs the principles for pr
 It sets out the modalities by which parties may be represented before judicial authorities by lawyers who:
 
 - a. are citizens of member states of the European Union (EU) or of the European Free Trade Association (EFTA);
-- b. are citizens of the United Kingdom of Great Britain and Northern Ireland who are covered by Part Four of the Agreement of 25 February 2019[^2-1] between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement.[^2-2]
+- b. are citizens of the United Kingdom of Great Britain and Northern Ireland who are covered by Part Four of the Agreement of 25 February 2019[^2-1] between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement;
+- c.[^2-2] who are covered by Annex A to the Agreement of 14 June 2023[^2-3] between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on the Recognition of Professional Qualifications.[^2-4]
 
-<sup>3</sup> These modalities also apply to Swiss citizens who are entitled to practise the profession of a lawyer in a member state of the EU or of EFTA[^2-3] under any of the professional titles listed in the Annex.
+<sup>3</sup> These modalities also apply to Swiss citizens who are entitled to practise the profession of a lawyer in a member state of the EU or of EFTA[^2-5] under any of the professional titles listed in the Annex.
 
-<sup>4</sup> The provisions on lawyers from EU or EFTA member states also apply mutatis mutandis to lawyers from the United Kingdom in accordance with paragraph 2 letter b.[^2-4]
+<sup>4</sup> The provisions on lawyers from EU or EFTA member states also apply mutatis mutandis to lawyers from the United Kingdom in accordance with paragraph 2 letters b and c; this does not apply to the provisions on free movement of services (Arts 21 and 22).[^2-6]
 
-[^2-1]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^2-2]: Amended by Annex No 2 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement, in in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^2-3]: Term added by No I of the FA of 22 March 2002, in force since 1 Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). This amendment has been made throughout the text.
-[^2-4]: Inserted by Annex No 2 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement, in in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-1]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^2-2]: Inserted by the Annex to the FD of 27 Sept. 2024 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on the Recognition of Professional Qualifications, in force since 1 July 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^2-3]: [SR 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)
+[^2-4]: Amended by Annex No 2 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement, in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-5]: Term added by No I of the FA of 22 March 2002, in force since 1 Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). This amendment has been made throughout the text.
+[^2-6]: Inserted by Annex No 2 of the FD of 25 Sept. 2020 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement, in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)). Amended by the Annex to the FD of 27 Sept. 2024 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on the Recognition of Professional Qualifications, in force since 1 July 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 #### Art. 3
 
@@ -140,7 +143,7 @@ To be entered on the roll, the lawyer must satisfy the following personal requir
 <sup>2</sup> Lawyers employed by recognised charitable organisations may be entered on the roll provided they satisfy the requirements of paragraph 1 letters a–c and they strictly limit their activities of client representation to mandates that fall under the objects pursued by the organisation concerned.
 
 [^8-1]: Amended by Annex 1 No 13 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^8-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-2]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 #### Art. 9
 
@@ -170,7 +173,7 @@ The following bodies and persons may inspect the roll:
 The data from the roll that is required to assign and use the Business Identification Number in accordance with the Federal Act of 18 June 2010[^10a-2] on the Business Identification Number shall be reported to the Swiss Federal Statistical Office.
 
 [^10a-1]: Inserted by Annex No 3 of the FA of 18 June 2010 on the Business Identification Number, in force since 1 Jan. 2011 ([AS 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
-[^10a-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^10a-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 11
 
@@ -410,6 +413,25 @@ In addition to the professional title of the canton on whose roll they are enter
 
 <sup>2</sup> They shall provide for a simple and quick procedure for verifying that the requirements are satisfied for entry on the cantonal lawyers’ roll.
 
+## Section 7*a* International Agreements
+
+[^sec7a-1]
+
+[^sec7a-1]: Inserted by No I 3 of the FA of 27 Sept. 2024 on the Conclusion of International Agreements on the Recognition of Professional Qualifications, in force since 1 July 2025 ([AS 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
+#### Art. 34a
+
+<sup>1</sup> Within the scope of this Act, the Federal Council may conclude international agreements on the recognition of foreign professional titles that entitle the holder to practise as a lawyer.
+
+<sup>2</sup>
+
+In doing so, it shall ensure in particular that:
+
+- a. lawyers are subject to the professional rules set out in Article 25; and
+- b. entry in the cantonal lawyers’ roll is governed by the principles applicable to lawyers from EU or EFTA member states.
+
+<sup>3</sup> It may issue implementing provisions for these agreements.
+
 ## Section 8 Final Provisions
 
 #### Art. 35
@@ -438,7 +460,7 @@ Persons who hold a lawyer’s practising certificate under the current cantonal 
 
 Commencement date: 1 June 2002
 
-[^37-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^37-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^37-2]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139). This FA came into force on 1 June 2002.
 [^37-3]: Inserted by No I of the FA of 22 March 2002, in force since 1 Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 
@@ -446,9 +468,14 @@ Annex[^t-1]
 
 (Art. 21 para. 1 and 27 para. 1)
 
-## List of professional titles in the EU and EFTA member states in accordance with Directives 77/249/EEC and 98/5/EU
+## List of professional titles in the EU and EFTA member states and in the United Kingdom
 
-[^t-1]: Amended by Annex No 11 of the FD of 17 June 2016 (Extension of the Agreement on Free Movement to the Republic of Croatia), in force since 1 Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^annexu1-lvlu1-1][^annexu1-lvlu1-2][^annexu1-lvlu1-3]
+
+[^t-1]: Amended by Annex No 11 of the FD of 17 June 2016 (Extension of the Agreement on Free Movement to the Republic of Croatia) ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)). Revised by the Annex to the FD of 27 Sept. 2024 on the Approval and Implementation of the Agreement between Switzerland and the United Kingdom on the Recognition of Professional Qualifications, in force since 1 July 2025 ([AS 2025 478](https://fedlex.data.admin.ch/eli/oc/2025/478); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+[^annexu1-lvlu1-1]: In accordance with Annex III Section A of the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the free movement of persons ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)).
+[^annexu1-lvlu1-2]: In accordance with Annex K Appendix 3 Section A of the Convention of 4 January 1960 establishing the European Free Trade Association (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^annexu1-lvlu1-3]: In accordance with the Agreement of 25 February 2019 between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on the Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement ([SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)) and the Agreement of 14 June 2023 between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on the Recognition of Professional Qualifications ([SR 0.412.136.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40305)).
 
 Belgium Avocat/Advocaat/Rechtsanwalt
 
@@ -464,7 +491,7 @@ Finland Asianajaja/Advokat
 
 France Avocat
 
-Greece 
+Greece Δικηγορος
 
 Ireland Barrister, Solicitor
 
@@ -510,4 +537,4 @@ Hungary Ügyvéd
 
 United Kingdom Advocate/Barrister/Solicitor
 
-Cyprus ό
+Cyprus Δικηγόρος
