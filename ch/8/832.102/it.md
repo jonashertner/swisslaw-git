@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2025-06-01
+version: 2025-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° giugno 2025)
+del 27 giugno 1995 (Stato 1° luglio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 
 ## Parte prima: Assicurazione obbligatoria delle cure medico-sanitarie
@@ -58,17 +58,17 @@ Sono inoltre tenuti ad assicurarsi:
 - f.[^1-13] le persone con permesso di dimora di breve durata o permesso di dimora ai sensi dell’Accordo sulla libera circolazione delle persone o dell’Accordo AELS, valevole almeno tre mesi;
 - g.[^1-14] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
 
-[^1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^1-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^1-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-5]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-6]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^1-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^1-8]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^1-10]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-11]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^1-11]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^1-12]: Introdotta dalla cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-13]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^1-14]: Introdotta dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
@@ -114,13 +114,13 @@ Non sono soggetti all’obbligo d’assicurazione:
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^2-2]: Ora: art. 1*a* cpv. 1 lett. b n. 1–6.
-[^2-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-3]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^2-4]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^2-7]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^2-8]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
+[^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 [^2-10]: Introdotta dalla cifra I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-11]: Introdotta dalla cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-12]: Nuovo testo giusta la cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
@@ -190,7 +190,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 [^6-1]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^6-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^6-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^6-5]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -207,7 +207,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 <sup>3</sup> Gli assicuratori possono trattare i dati personali soltanto per i compiti previsti nella legge.
 
 [^6a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^6a-2]: [[RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)all. n. 2]. Dal 1° gen. 2016 vedi l’art. 2 cpv. 2 della LF del 26 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
+[^6a-2]: [[RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)all. n. 2]. Dal 1° gen. 2016 vedi l’art. 2 cpv. 2 della LF del 26 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
 
 #### Art. 7
 
@@ -239,22 +239,22 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 [^7-4]: Introdotto dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-5]: Introdotto dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-6]: Nuovo testo del primo al terzo per. giusta la cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^7-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^7-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^7-8]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^7-9]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^7-10]: Dal 1° gen. 2016: art. 2 e 3 della legge del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
-[^7-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^7-10]: Dal 1° gen. 2016: art. 2 e 3 della legge del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
+[^7-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^7-13]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
 **Continuazione dell’assicurazione per persone non più soggette d’obbligo**[^7a-1]
 
-Gli assicuratori possono offrire alle persone che sono state soggette all’assicurazione obbligatoria delle cure medico-sanitarie ai sensi dell’articolo 1 capoversi 1 e 2 lettere a e c e degli articoli 3–6 la continuazione dei rapporti d’assicurazione su base contrattuale. Il contratto può essere stipulato con lo stesso assicuratore o con un altro. Il finanziamento delle prestazioni corrispondenti a quelle dell’assicurazione obbligatoria delle cure medico-sanitarie è retto dai principi dell’assicurazione sociale malattie. I rapporti d’assicurazione soggiacciono alla legge del 2 aprile 1908[^7a-2] sul contratto d’assicurazione.
+Gli assicuratori possono offrire alle persone che sono state soggette all’assicurazione obbligatoria delle cure medico-sanitarie ai sensi dell’articolo 1 capoversi 1 e 2 lettere a e c e degli articoli 3–6 la continuazione dei rapporti d’assicurazione su base contrattuale. Il contratto può essere stipulato con lo stesso assicuratore o con un altro. Il finanziamento delle prestazioni corrispondenti a quelle dell’assicurazione obbligatoria delle cure medico-sanitarie è retto dai principi dell’assicurazione sociale malattie. I rapporti d’assicurazione soggiacciono alla legge del 2 aprile 1908[^7a-2] sul contratto d’assicurazione (LCA).
 
-[^7a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^7a-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^7a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^7a-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 7b
 
@@ -286,7 +286,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 <sup>2</sup> Se un assicuratore viene a conoscenza del fatto che una persona è assicurata contemporaneamente presso uno o più altri assicuratori, segnatamente mediante una comunicazione dell’istituzione comune secondo l’articolo 10 capoverso 3 dell’ordinanza del 19 ottobre 2016[^9-2] sulla compensazione dei rischi nell’assicurazione malattie, decide, sentita questa persona, di porre fine ai rapporti assicurativi non conformi alle disposizioni della LAMal.[^9-3]
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^9-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^9-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^9-3]: Introdotto dalla cifra II dell’O dell’11 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ### Sezione 3: Compiti dei Cantoni
@@ -331,7 +331,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 <sup>7</sup> L’assicuratore segnala alle autorità cantonali competenti per la riduzione dei premi le persone il cui obbligo di assicurazione è stato sospeso e la durata della sospensione.
 
 [^10a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 2000 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)). Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^10a-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^10a-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 11
 
@@ -441,11 +441,11 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 <sup>4</sup> I rimedi giuridici sono retti dalle disposizioni generali dell’organizzazione giudiziaria.[^22-10]
 
 [^22-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^22-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^22-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^22-3]: Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^22-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^22-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-6]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^22-6]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^22-7]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-8]: Introdotto dalla cifra I dell’O del 3 dic. 2004 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-9]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
@@ -461,7 +461,7 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 <sup>3</sup> Il rapporto di gestione è pubblicato.[^23-3]
 
-[^23-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^23-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^23-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^23-3]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -564,7 +564,7 @@ In relazione a una rimunerazione secondo gli articoli 71*a*–71*c* gli assicura
 <sup>9</sup> L’UFSP mette a disposizione degli organismi preposti all’esecuzione della LAMal i risultati delle rilevazioni effettuate con i dati di cui al capoverso 2; sono fatti salvi i risultati delle rilevazioni effettuate con i dati di cui al capoverso 1<sup>bis</sup>. L’UFSP assicura che l’anonimato degli assicurati resti garantito.[^28-4]
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^28-3]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^28-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
@@ -621,7 +621,7 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 <sup>6</sup> Per il trattamento della domanda può riscuotere una tassa. Essa è commisurata al tempo impiegato, ma non può superare i 10 000 franchi. La tariffa oraria oscilla tra 90 e 200 franchi a seconda della competenza specifica richiesta e della classe di funzione del personale incaricato. Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^28c-2] sugli emolumenti.
 
 [^28c-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 29
 
@@ -702,7 +702,7 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 [^30a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30a-2]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^30a-4]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
@@ -741,7 +741,7 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 [^30b-3]: Introdotta dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^30b-4]: Introdotto dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-5]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 30c
 
@@ -750,7 +750,7 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 Per la rilevazione, il trattamento e la trasmissione dei dati secondo l’articolo 59*a* LAMal, l’UST, in collaborazione con l’UFSP, appronta un regolamento per il trattamento ai sensi dell’articolo 6 dell’ordinanza del 31 agosto 2022[^30c-2] sulla protezione dei dati (OPDa).[^30c-3] Nel regolamento per il trattamento sono fissate, dopo aver sentito le cerchie interessate, le variabili ai sensi dell’articolo 30*a* capoverso 1 che i fornitori di prestazioni devono fornire.
 
 [^30c-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^30c-3]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
@@ -770,7 +770,7 @@ I risultati delle rilevazioni effettuate dall’Ufficio federale di statistica i
 <sup>2</sup> L’UFSP pubblica i risultati dei dati trasmessi riguardanti gli ospedali e gli altri istituti secondo l’articolo 39 della LAMal come pure le organizzazioni di cure e d’aiuto a domicilio secondo l’articolo 51 della presente ordinanza a livello di singolo istituto, con il loro nome e la loro sede. Per i rimanenti fornitori di prestazioni i dati sono pubblicati per gruppi di fornitori di prestazioni. Non sono pubblicati i dati personali dei pazienti e del personale.
 
 [^31-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^31-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^31-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 31a
 
@@ -1005,7 +1005,7 @@ Essa si compone di 16 membri, di cui:[^37e-3]
 - h.[^37e-4] un rappresentante dell’Istituto svizzero per gli agenti terapeutici (Swissmedic);
 - i.[^37e-5] un rappresentante dei Cantoni.[^37e-6]
 
-[^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^37e-2]: Nuovo testo giusta la cifra II dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^37e-3]: Nuovo testo giusta la cifra I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
@@ -1078,7 +1078,7 @@ Si reputa che dispongano delle competenze linguistiche necessarie ai sensi dell�
 - b. esprimersi in modo spontaneo e fluente, senza dover cercare a lungo le parole;
 - c. utilizzare la lingua in modo efficace e flessibile ed esprimersi su temi complessi in maniera chiara e strutturata.
 
-[^38-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^38-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 39
 
@@ -1113,7 +1113,7 @@ I farmacisti sono autorizzati se adempiono le seguenti condizioni:
 <sup>2</sup> I Cantoni fissano le condizioni alle quali i medici autorizzati a condurre una farmacia sono parificati ai farmacisti autorizzati. Considerano segnatamente le possibilità d’accesso dei pazienti a una farmacia.
 
 [^40-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^40-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^40-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 41
 
@@ -1138,7 +1138,7 @@ I dentisti sono autorizzati per le prestazioni ai sensi dell’articolo 31 LAMal
 - c. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^42-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^42-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^42-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 43
 
@@ -1168,10 +1168,10 @@ I chiropratici sono autorizzati se adempiono le seguenti condizioni:
 <sup>3</sup> Sono fatte salve le disposizioni relative all’applicazione di radiazioni ionizzanti in chiropratica, segnatamente l’articolo 182 capoverso 1 lettera d dell’ordinanza del 26 aprile 2017[^44-5] sulla radioprotezione nonché le relative disposizioni d’esecuzione del Dipartimento federale dell’interno.[^44-6]
 
 [^44-1]: Introdotta dalla cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^44-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^44-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^44-3]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^44-4]: Abrogato dall’art. 17 dell’O del 27 giu. 2007 sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie, con effetto dal 1° set. 2007 ([RU 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-5]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-6]: Nuovo testo giusta l’all. 11 n. 7 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 44a
@@ -1211,7 +1211,7 @@ Le levatrici sono autorizzate se adempiono le seguenti condizioni:
 
 - c. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58g.
 
-[^45-1]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^45-1]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 45a
 
@@ -1252,7 +1252,7 @@ I fisioterapisti sono autorizzati se adempiono le seguenti condizioni:
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58g.
 
 [^47-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^47-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^47-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 48
 
@@ -1273,7 +1273,7 @@ Gli ergoterapisti sono autorizzati se adempiono le seguenti condizioni:
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^48-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^48-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^48-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 49
 
@@ -1298,7 +1298,7 @@ Gli infermieri sono autorizzati se adempiono le seguenti condizioni:
 <sup>2</sup> Sono fatte salve le limitazioni cantonali relative al numero di infermieri autorizzati (art. 55*b* LAMal).[^49-3]
 
 [^49-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^49-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^49-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 [^49-3]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
@@ -1344,7 +1344,7 @@ I dietisti sono autorizzati se adempiono le seguenti condizioni:
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^50a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 50b
 
@@ -1364,7 +1364,7 @@ I neuropsicologi sono autorizzati se adempiono le seguenti condizioni:
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^50b-1]: Introdotto dalla cifra I dell’O del 9 dic. 2016 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 
 #### Art. 50c
 
@@ -1384,11 +1384,11 @@ Gli psicologi psicoterapeuti sono autorizzati se adempiono le seguenti condizion
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
 
 [^50c-1]: Introdotto dalla cifra I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 [^50c-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
-[^50c-5]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
-[^50c-6]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref .
+[^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
+[^50c-5]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
+[^50c-6]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
 
 #### Art. 50d
 
@@ -1410,7 +1410,7 @@ I podologi sono autorizzati se adempiono le seguenti condizioni:
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^50d-1]: Introdotto dalla cifra I dell’O del 26 mag. 2021 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Vedi anche la disp. trans. del 23 giu. 2021 alla fine del testo.
-[^50d-2]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref .
+[^50d-2]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
 
 #### Art. 51
 
@@ -1612,7 +1612,7 @@ I laboratori che, per mandato di un altro fornitore di prestazioni autorizzato, 
 <sup>6</sup> Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^54a-2] sugli emolumenti.
 
 [^54a-1]: Introdotto dalla cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo
-[^54a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Sezione 8: Centri di consegna di mezzi e apparecchi
 
@@ -1847,7 +1847,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 <sup>4</sup> I fornitori di prestazioni assicurano che le loro fatture siano chiare per gli assicurati e che in particolare indichino in modo comprensibile il genere, la durata e il contenuto delle cure. [^59-6]
 
 [^59-1]: Nuovo testo giusta la cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
+[^59-2]: [RS 832.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10143)
 [^59-3]: Nuova espr. giusta l’all. cifra II n. 36 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^59-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^59-5]: Introdotto dalla cifra I dell’O dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
@@ -1872,9 +1872,9 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 <sup>7</sup> L’assicuratore informa spontaneamente l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ai sensi dell’articolo 43 LPD della certificazione o del rinnovo della certificazione del suo servizio di ricezione dei dati. L’IFPDT può esigere in ogni momento dal servizio di ricezione dei dati o dall’organismo di certificazione i documenti rilevanti per la certificazione o il rinnovo della certificazione. Esso pubblica un elenco dei servizi di ricezione dei dati certificati.[^59a-6]
 
 [^59a-1]: Introdotto dalla cifra I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta la cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^59a-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^59a-3]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^59a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^59a-5]: Nuovo testo del per. giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^59a-6]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1895,7 +1895,7 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 <sup>2</sup> Se le indicazioni mediche ai sensi dell’articolo 59 capoverso 1 non sono conservate sotto forma criptata, le generalità degli assicurati sono sostituite da uno pseudonimo per la conservazione di queste indicazioni. La pseudonimizzazione o il criptaggio possono essere tolti soltanto dal medico di fiducia.
 
 [^59ater-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^59ater-3]: Nuovo testo giusta l’all. 2 cifra II n. 119 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Capitolo 3: Tariffe e prezzi
@@ -2160,9 +2160,9 @@ L’UFSP può vincolare l’ammissione a condizioni e oneri, in particolare:
 
 [^65-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^65-2]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65-3]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^65-3]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^65-4]: Introdotto dall’all. n. 4 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Vedi anche le disp. trans. di detta mod. alla fine del testo.
-[^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
+[^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9370)
 [^65-6]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^65-7]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2585,7 +2585,7 @@ Le seguenti modifiche dell’elenco delle specialità hanno effetto decorsi tre 
 
 [^69-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2002 , in vigore il 1° lug. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 [^69-2]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019.
+[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) con effetto dal 1° gen. 2019.
 [^69-4]: Nuovo testo giusta la cifra I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 69a
@@ -2669,7 +2669,7 @@ Sono riscosse tasse per:
 [^70b-1]: Originario art. 71. Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
 [^70b-2]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^70b-3]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 71
 
@@ -3108,7 +3108,7 @@ Sentita la competente commissione, il DFI stabilisce le misure di cui all’arti
 <sup>2</sup> L’UFSP accorda i diritti d’accesso.
 
 [^77kbis-1]: Introdotto dall’art. 8 n. 2 dell’O del 28 ago. 2024 sugli aiuti finanziari per la cartella informatizzata del paziente, in vigore dal 1° ott. 2024 ([RU 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
-[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ### Titolo 4*a*: Progetti pilota
 
@@ -3312,7 +3312,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 <sup>2</sup> Il tasso sull’interesse compensativo ammonta al 5 per cento all’anno. Per il calcolo sono applicabili per analogia le disposizioni dell’articolo 7 dell’ordinanza dell’11 settembre 2002[^90a-2] concernente la legge sulla parte generale del diritto delle assicurazioni sociali.
 
 [^90a-1]: Introdotto dalla cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^90a-2]: [RS 830.11](https://fedlex.data.admin.ch/eli/cc/2002/569)
+[^90a-2]: [RS 830.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9994)
 
 #### Art. 90b
 
@@ -3363,7 +3363,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 [^91a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^91a-2]: Abrogato dalla cifra I dell’O dell’11 dic. 2000, con effetto dal 1° gen. 2001 ([RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
-[^91a-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91a-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^91a-4]: Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-5]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-6]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -3410,7 +3410,7 @@ Se l’assicurato risiede all’estero, l’assicuratore riscuote i premi in fra
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
 [^part1-tit5-chap2-sec1b-1]: Introdotta dalla cifra I dell’O del 6 lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 92d
 
@@ -3438,8 +3438,8 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>9</sup> Il rapporto assicurativo termina cinque anni dopo il passaggio in giudicato della decisione di allontanamento, sempreché le persone oggetto di tale decisione abbiano verosimilmente lasciato la Svizzera.
 
-[^92d-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^92d-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^92d-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^92d-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### Sezione 2: Forme particolari d’assicurazione
 
@@ -3737,14 +3737,25 @@ Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
 #### Art. 105f
 
-**Notifiche relative ai certificati di carenza di beni**[^105f-1]
+**Notifiche relative agli attestati di carenza di beni e ad altri crediti**[^105f-1]
 
-<sup>1</sup> L’assicuratore informa l’autorità cantonale competente, entro due settimane dalla fine di ogni trimestre, sull’evoluzione dei certificati di carenza di beni rilasciati dall’inizio dell’anno.[^105f-2]
+<sup>1</sup> L’assicuratore notifica l’attestato di carenza di beni e gli altri crediti ai sensi dell’articolo 64*a* capoverso 3<sup>bis</sup> LAMal al Cantone nel quale è stato rilasciato l’attestato o sono sorti gli altri crediti.
 
-<sup>2</sup> L’assicuratore trasmette all’autorità cantonale competente entro il 31 marzo il conteggio finale dei certificati di carenza di beni rilasciati durante l’anno precedente, nonché il corrispondente rapporto di revisione. Il conteggio contiene una ricapitolazione delle domande di assunzione dei crediti ai sensi dell’articolo 64*a* capoverso 3 della legge e una ricapitolazione delle restituzioni ai sensi dell’articolo 64*a* capoverso 5 della legge.
+<sup>2</sup> Informa l’autorità cantonale competente, entro due settimane dalla fine di ogni trimestre, sull’evoluzione degli attestati di carenza di beni rilasciati dall’inizio dell’anno.
 
-[^105f-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105f-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+<sup>3</sup> Notifica i crediti all’autorità competente del Cantone in cui il figlio è domiciliato alla nascita dei suddetti crediti entro il termine di cui al capoverso 2. Ne giustifica l’importo e indica la ragione per cui non ha potuto ottenere un attestato di carenza di beni o un titolo equivalente.
+
+<sup>4</sup> Trasmette all’autorità cantonale competente entro il 31 marzo il conteggio finale degli attestati di carenza di beni rilasciati e degli altri crediti ai sensi dell’articolo 64*a* capoverso 3<sup>bis</sup> LAMal sorti durante l’anno precedente. Entro la stessa data le consegna il corrispondente rapporto di revisione. Il conteggio contiene una ricapitolazione delle domande di assunzione dei crediti ai sensi dell’articolo 64*a* capoversi 3, 3<sup>bis</sup> e 5 LAMal e una ricapitolazione delle restituzioni ai sensi dell’articolo 64*a* capoverso 5 LAMal.
+
+<sup>5</sup>
+
+Su richiesta, l’assicuratore consegna o comunica gratuitamente all’autorità cantonale competente:
+
+- a. tutti i documenti che attestano l’esistenza e l’entità di un credito;
+- b. nel caso di una cessione, le informazioni necessarie per far valere i suoi diritti ai sensi dell’articolo 170 capoverso 2 del Codice delle obbligazioni[^105f-2].
+
+[^105f-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 105f<sup>bis</sup>
 
@@ -3754,21 +3765,36 @@ Il Cantone notifica all’assicuratore l’autorità cantonale competente.
 
 <sup>2</sup> L’autorità cantonale competente può scegliere tra l’assunzione annuale o trimestrale dei crediti che l’assicuratore le ha notificato. Comunica la sua scelta entro la data di cui al capoverso 1.
 
-[^105fbis-1]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+<sup>3</sup>
+
+L’assicuratore cede i crediti all’autorità cantonale competente e le trasmette a proprio carico gli attestati di carenza di beni purché i crediti riguardino premi, partecipazioni ai costi, interessi di mora o spese d’esecuzione. L’assicuratore vi provvede nei 30 giorni che seguono:
+
+- a. il pagamento del Cantone ai sensi dell’articolo 105*k* capoverso 3 lettera a in caso di assunzione annuale;
+- b. il pagamento dell’acconto del Cantone ai sensi dell’articolo 105*k* capoverso 2 in caso di assunzione trimestrale.
+
+<sup>4</sup> A meno che l’assicurato non sia in mora con il pagamento di altri premi, partecipazioni ai costi, interessi di mora o spese d’esecuzione, l’assicuratore annulla la sospensione dell’assunzione delle prestazioni ai sensi dell’articolo 64*a* capoverso 7 LAMal nei dieci giorni che seguono la cessione e ne informa l’autorità cantonale competente.
+
+<sup>5</sup> L’autorità cantonale competente informa gli assicurati in questione in merito al cambiamento di creditore.
+
+[^105fbis-1]: Introdotto dalla cifra I dell’O del 22 nov. 2023, ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105g
 
 **Dati personali**[^105g-1]
 
-Al momento della comunicazione secondo l’articolo 64*a* capoverso 3 della legge l’assicuratore notifica i seguenti dati affinché assicurati e debitori possano essere identificati:
+Al momento della comunicazione ai sensi dell’articolo 64*a* capoversi 3 e 3<sup>bis</sup> LAMal, l’assicuratore notifica i seguenti dati affinché assicurati e debitori possano essere identificati:[^105g-2]
 
 - a. il cognome e il nome;
 - b. il sesso;
 - c. la data di nascita;
-- d. il domicilio;
-- e. il numero AVS.
+- d.[^105g-3] l’indirizzo;
+- e. il numero AVS;
+- f.[^105g-4] la lingua di corrispondenza.
 
 [^105g-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105g-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-4]: Introdotta dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2027 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105h
 
@@ -3780,11 +3806,12 @@ Dopo aver sentito i Cantoni e gli assicuratori, il DFI può stabilire prescrizio
 
 #### Art. 105i
 
-**Titoli considerati equivalenti a un certificato di carenza di beni**[^105i-1]
+**Titoli considerati equivalenti a un attestato di carenza di beni[^105i-2]**[^105i-1]
 
-Sono equiparati a certificati di carenza di beni ai sensi dell’articolo 64*a* capoverso 3 della legge le decisioni sulla concessione di prestazioni complementari o titoli equivalenti che certificano la mancanza di mezzi finanziari propri dell’assicurato. Il Cantone designa le decisioni e i titoli interessati.
+Sono equiparati ad attestati di carenza di beni ai sensi dell’articolo 64*a* capoverso 3 della legge le decisioni sulla concessione di prestazioni complementari o titoli equivalenti che certificano la mancanza di mezzi finanziari propri dell’assicurato. Il Cantone designa le decisioni e i titoli interessati.
 
 [^105i-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105i-2]: Nuova espr. giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 105j
 
@@ -3792,41 +3819,64 @@ Sono equiparati a certificati di carenza di beni ai sensi dell’articolo 64*a* 
 
 <sup>1</sup>
 
-L’organo di revisione verifica l’esattezza delle informazioni fornite dagli assicuratori sui crediti ai sensi dell’articolo 64*a* capoverso 3 della legge. Esso controlla se:
+L’organo di revisione verifica l’esattezza e la completezza delle informazioni fornite dagli assicuratori riguardanti:
 
-- a. le indicazioni concernenti i debitori e gli assicurati sono corrette;
-- b. la procedura di diffida secondo l’articolo 105*b* è stata rispettata;
-- c. esiste un certificato di carenza di beni;
-- d. la data di rilascio del certificato di carenza di beni risale all’anno precedente;
-- e. l’importo complessivo dei crediti è esatto;
-- f. il credito è stato notificato al Cantone nel quale è stato rilasciato il certificato di carenza di beni.
+- a. i crediti di cui all’articolo 64*a* capoversi 3 e 3<sup>bis</sup> LAMal;
+- b. il pagamento dei crediti oggetto di una comunicazione ai sensi dell’articolo 64*a* capoversi 3 e 3<sup>bis</sup> LAMal;
+- c. le restituzioni al Cantone previste all’articolo 64*a* capoverso 4 LAMal e le altre restituzioni.
 
 <sup>2</sup>
 
-Verifica l’esattezza e la completezza delle informazioni fornite dagli assicuratori su:
+Per i crediti di cui all’articolo 64*a* capoverso 3 LAMal, controlla:
 
-- a. il pagamento dei crediti in arretrato dopo il rilascio di un certificato di carenza di beni;
-- b. le restituzioni al Cantone secondo l’articolo 64*a* capoverso 5 LAMal.[^105j-2]
+- a. se le indicazioni concernenti i debitori e gli assicurati sono corrette;
+- b. se la procedura di diffida di cui all’articolo 105*b* è stata rispettata;
+- c. se esiste un attestato di carenza di beni o un titolo equivalente;
+- d. se la data di rilascio dell’attestato di carenza di beni o del titolo equivalente risale all’anno precedente;
+- e. se l’importo complessivo dei crediti è esatto;
+- f. se il credito è stato notificato al Cantone secondo l’articolo 105*f* capoverso 1;
+- g. se l’attestato di carenza di beni o il titolo equivalente non concerne un credito di pertinenza della LCA[^105j-2].
 
-<sup>3</sup> Il Cantone assume i costi dell’organo di revisione qualora ne designi uno diverso da quello di cui all’articolo 25 LVAMal[^105j-3].[^105j-4]
+<sup>3</sup>
 
-[^105j-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105j-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^105j-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^105j-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Per i crediti di cui all’articolo 64*a* capoverso 3<sup>bis</sup> LAMal, controlla:
+
+- a. se gli elementi previsti al capoverso 2 lettere a, b, e ed f sono rispettati;
+- b. se è indicata la ragione per cui l’assicuratore non ha potuto ottenere un attestato di carenza di beni o un titolo equivalente.
+
+<sup>4</sup> Il Cantone assume i costi dell**’**organo di revisione qualora ne designi uno diverso da quello di cui all**’**articolo 25 LVAMal[^105j-3].
+
+[^105j-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105j-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^105j-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 105k
 
-**Pagamenti dei Cantoni agli assicuratori**[^105k-1]
+**Regolamento dei conteggi trasmessi dagli assicuratori**[^105k-1]
 
-<sup>1</sup> Al momento della ricezionedei dati personali e delle notifiche concernenti i certificati di carenza di beni, l’autorità cantonale competente può trasmettere all’assicuratore i dati personali di cui all’articolo 105*g* relativi agli assicurati per i quali si assume gli importi in arretrato.
+<sup>1</sup> Al momento della ricezione dei dati personali e delle comunicazioni di cui all’articolo 64*a* capoversi 3 e 3<sup>bis</sup> LAMal, l’autorità cantonale competente può trasmettere all’assicuratore i dati personali ai sensi dell’articolo 105*g* relativi agli assicurati per i quali si assume gli importi in arretrato.
 
-<sup>2</sup> Il Cantone nel quale è stato rilasciato il certificato di carenza di beni versa entro il 30 giugno all’assicuratore i crediti di cui all’articolo 64*a* capoverso 4 della legge dopo deduzione delle restituzioni di cui all’articolo 64*a* capoverso 5 della legge. Se le restituzioni superano i crediti, l’assicuratore restituisce la differenza all’attuale Cantone di domicilio entro il 30 giugno.
+<sup>2</sup> Se ha scelto l’assunzione trimestrale, il Cantone versa un acconto all’assicuratore nei 30 giorni successivi alla notifica dei crediti da parte di quest’ultimo. L’acconto corrisponde ai crediti notificati.
 
-<sup>3</sup> Se un Cantone accorda una riduzione del premio per un periodo per il quale l’assicuratore gli ha già notificato nel suo conteggio finale un credito secondo l’articolo 64*a* capoverso 3 LAMal, l’assicuratore restituisce al Cantone l’85 per cento di tale riduzione del premio. Sul certificato di carenza di beni o sul titolo equivalente i crediti nei confronti della persona assicurata sono ridotti dell’ammontare dell’intera riduzione del premio.[^105k-2]
+<sup>3</sup>
 
-[^105k-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105k-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Il Cantone versa all’assicuratore, entro il 30 giugno:
+
+- a. i crediti di cui all’articolo 64*a* capoversi 4 o 5 LAMal in caso di assunzione annuale;
+- b. il saldo secondo il conteggio finale dei crediti di cui all’articolo 64*a* capoverso 5 LAMal in caso di assunzione trimestrale.
+
+<sup>4</sup> Effettua il versamento dopo aver dedotto le restituzioni di cui all’articolo 64*a* capoverso 4 LAMal. Se le restituzioni superano i crediti, l’assicuratore restituisce la differenza al Cantone entro la medesima scadenza.
+
+<sup>5</sup> Se un Cantone accorda una riduzione del premio per un periodo per il quale l’assicuratore gli ha già comunicato nel suo conteggio finale un credito secondo l’articolo 64*a* capoverso 3 o 3<sup>bis</sup> LAMal o se annulla tale riduzione a causa di una doppia assicurazione, l’assicuratore gli restituisce una percentuale di tale riduzione del premio per un importo pari a quello assunto dal Cantone. Sull’attestato di carenza di beni o sul titolo equivalente, i crediti nei confronti della persona assicurata sono ridotti dell’ammontare dell’intera riduzione del premio.
+
+<sup>6</sup> L’assicuratore che ha già ceduto un credito all’autorità cantonale competente e riceve da questi versamenti a titolo di regolamento totale o parziale del credito deve restituirglieli integralmente. Gli importi versati sono integralmente dedotti dall’attestato di carenza di beni o dal titolo equivalente.
+
+<sup>7</sup> Il Cantone non versa nulla all’assicuratore per i crediti oggetto di una comunicazione ai sensi dell’articolo 64*a* capoversi 3 e 3<sup>bis</sup> LAMal se riguardano anche crediti di pertinenza della LCA[^105k-2].
+
+<sup>8</sup> L’autorità cantonale competente può chiedere agli assicuratori rettifiche retroattive dei conteggi finali ai sensi dell’articolo 105*f* capoverso 4 entro tre anni dalla loro ricezione.
+
+[^105k-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105k-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 105l
 
@@ -3840,8 +3890,16 @@ Verifica l’esattezza e la completezza delle informazioni fornite dagli assicur
 
 <sup>3</sup> Se gli importi in arretrato conformemente al capoverso 2 non sono pervenuti all’assicuratore tempestivamente, quest’ultimo deve informare l’interessato che egli continua ad essere assicurato presso di lui e che può cambiare assicuratore soltanto al successivo termine previsto dall’articolo 7 capoversi 1 e 2 della legge. L’assicuratore informa il nuovo assicuratore entro 60 giorni che l’assicurato continua ad essere assicurato presso di lui.
 
+<sup>4</sup>
+
+Gli assicurati per i quali il Cantone assume un ulteriore 5 per cento dei crediti notificati non sono più considerati in mora per tali crediti:
+
+- a. dal momento del versamento effettuato dal Cantone in caso di ripresa annuale;
+- b. dal momento del versamento dell’acconto effettuato dal Cantone in caso di ripresa trimestrale.[^105l-3]
+
 [^105l-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105l-2]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105l-3]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3859,7 +3917,7 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della N
   - 2\. familiari di domiciliati, dimoranti annuali e dimoranti temporanei,
   - 3\. beneficiari di una prestazione dell’assicurazione svizzera contro la disoccupazione e ai loro familiari;
 
-- b. articolo 64*a* capoversi 1, 2 e 6 della legge e articoli 105*b* e 105*l* ai beneficiari di rendite e ai loro familiari; l’assicuratore rileva i certificati di carenza di beni.
+- b. articolo 64*a* capoversi 1, 2 e 6 della legge e articoli 105*b* e 105*l* ai beneficiari di rendite e ai loro familiari; l’assicuratore rileva gli attestati di carenza di beni.
 
 <sup>2</sup> Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Regno Unito non permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, l’assicuratore invia all’assicurato che non paga i premi o le partecipazioni ai costi esigibili una diffida di pagamento preceduta almeno da un sollecito scritto, gli assegna un termine supplementare di 30 giorni e gli indica le conseguenze della mora. Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine stabilito, l’assicuratore può sospendere l’assunzione dei costi delle prestazioni. Esso deve nel contempo informare l’assicurato e l’istituzione di assistenza competente nel luogo di residenza del medesimo in merito alla sospensione. La sospensione termina non appena sono stati pagati i premi e le partecipazioni ai costi oggetto della diffida, nonché gli interessi di mora accumulati. Durante la sospensione dell’assunzione delle prestazioni, gli assicuratori possono compensare le prestazioni con i premi o le partecipazioni ai costi dovuti.[^105m-3]
 
@@ -3945,9 +4003,9 @@ Può compensare i suoi crediti residui relativi ai premi per l’anno civile e a
 
 <sup>6</sup> Il Cantone può prevedere che l’assicuratore gli comunichi i dati personali di cui all’articolo 105*g* e altri dati per i suoi assicurati nel Cantone interessato.
 
-[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
 [^106c-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
-[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^106c-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^106c-5]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
@@ -4002,9 +4060,9 @@ Ogni persona che adempie le condizioni di cui all’articolo 67 capoverso 1 dell
 Ove, in un caso d’assicurazione, prestazioni dell’assicurazione malattie concorrano con prestazioni di uguale natura dell’assicurazione infortuni secondo la LAINF[^110-2], dell’assicurazione militare, dell’assicurazione per la vecchiaia e per i superstiti, dell’assicurazione per l’invalidità o della legge federale del 25 settembre 1952[^110-3] sull’indennità di perdita di guadagno per chi presta servizio o in caso di maternità, le prestazioni di queste altre assicurazioni sono poziori. È fatto salvo l’articolo 128 dell’ordinanza del 20 dicembre 1982[^110-4] sull’assicurazione contro gli infortuni.
 
 [^110-1]: Nuovo testo giusta l’art. 45 n. 1 dell’O del 24 nov. 2004 sulle indennità di perdita di guadagno, in vigore dal 1° lug. 2005 ([RU 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
-[^110-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^110-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^110-4]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^110-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^110-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^110-4]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 111
 
@@ -4028,7 +4086,7 @@ Gli assicurati devono notificare al loro assicuratore-malattie gli infortuni non
 
 <sup>2</sup> Se una persona è assicurata per l’indennità giornaliera presso più assicuratori-malattie, l’obbligo di anticipare le prestazioni incombe ad ognuno di questi assicuratori.
 
-[^112-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^112-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^112-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 113
@@ -4158,7 +4216,7 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 [^130-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510))
 [^130-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^130-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^130-3]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## Parte quinta: Disposizioni finali
 
@@ -4178,12 +4236,12 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 <sup>2</sup> Un nuovo rapporto d’assicurazione ai sensi del capoverso 1 può essere creato soltanto se esso permette una corrispondente continuazione della copertura assicurativa sino al 31 dicembre 1996, allora garantita da un assicuratore che ha rinunciato a esercitare l’assicurazione sociale malattie (art. 99 LAMal).
 
-<sup>3</sup> Le casse malati possono offrire alle persone di cui ai capoversi 1 e 2 la continuazione dei rapporti d’assicurazione su base contrattuale oltre il 31 dicembre 1996. Il contratto può essere stipulato con la stessa cassa malati o con un altro assicuratore ai sensi dell’articolo 11 della legge. Il finanziamento delle prestazioni corrispondenti a quelle dell’assicurazione obbligatoria delle cure medico-sanitarie è retto dai principi dell’assicurazione sociale malattie. I rapporti d’assicurazione soggiacciono alla legge del 2 aprile 1908[^132-1] sul contratto d’assicurazione.[^132-2]
+<sup>3</sup> Le casse malati possono offrire alle persone di cui ai capoversi 1 e 2 la continuazione dei rapporti d’assicurazione su base contrattuale oltre il 31 dicembre 1996. Il contratto può essere stipulato con la stessa cassa malati o con un altro assicuratore ai sensi dell’articolo 11 LAMal. Il finanziamento delle prestazioni corrispondenti a quelle dell’assicurazione obbligatoria delle cure medico-sanitarie è retto dai principi dell’assicurazione sociale malattie. I rapporti d’assicurazione soggiacciono alla LCA[^132-1].[^132-2]
 
 <sup>4</sup> Se una cura iniziata prima del 1° gennaio 1997 continua dopo questa data, la cassa malati deve mantenere il rapporto d’assicurazione sino alla fine della cura conformemente al diritto previgente.[^132-3]
 
-[^132-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^132-2]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^132-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^132-2]: Introdotto dalla cifra I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^132-3]: Introdotto dalla cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 
 #### Art. 133
@@ -4208,7 +4266,7 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 - b. presentano la domanda d’autorizzazione entro tre mesi dall’entrata in vigore dell’ordinanza del 14 febbraio 2007[^134-2] sugli esami genetici sull’essere umano.[^134-3]
 
 [^134-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^134-2]: [RS 810.122.1](https://fedlex.data.admin.ch/eli/cc/2022/585)
+[^134-2]: [RS 810.122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9233)
 [^134-3]: Introdotto dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 135
@@ -4362,7 +4420,7 @@ Le disposizioni della presente ordinanza relative all’ufficio di revisione val
 [^u13-2]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-3]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-4]: [RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)
-[^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 [^u13-6]: Introdotto dalla cifra I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
 ## Disposizione finale della modifica del 13 marzo 2009
@@ -4373,7 +4431,7 @@ Le disposizioni della presente ordinanza relative all’ufficio di revisione val
 
 In collaborazione con l’UFSP, con gli uffici preposti al versamento delle rendite e con le competenti rappresentanze svizzere all’estero, l’istituzione comune informa i redditieri residenti in uno dei nuovi Stati membri della Comunità europea dell’obbligo di assicurarsi, al più tardi tre mesi dopo l’entrata in vigore del Protocollo del 27 maggio 2008[^u14-2] relativo all’estensione dell’Accordo sulla libera circolazione delle persone alla Bulgaria e alla Romania, considerata la partecipazione della Bulgaria e della Romania, in qualità di parti contraenti, a seguito alla loro adesione all’Unione europea. Queste informazioni valgono d’ufficio per tutti i familiari residenti in uno dei nuovi Stati membri della Comunità europea. La Confederazione prende a suo carico le spese d’informazione dell’istituzione comune.
 
-[^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
+[^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/212)
 
 ## Disposizione transitoria della modifica del 24 giugno 2009
 
@@ -4450,7 +4508,7 @@ Se un beneficiario del soccorso d’emergenza oggetto di una decisione in materi
 Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’entrata in vigore della modifica del ...[^u20-2] dell’allegato K dell’Accordo AELS[^u20-3].
 
 [^u20-2]: RU **2012** …
-[^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Disposizione transitoria della modifica del 4 luglio 2012
 
@@ -4530,7 +4588,7 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 <sup>2</sup> I farmacisti, già autorizzati a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie al momento dell’entrata in vigore della modifica del 5 aprile 2017, continuano ad esserlo.
 
-[^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Disposizione transitoria della modifica del 19 marzo 2021
 
@@ -4582,7 +4640,7 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 <sup>3</sup> I medicamenti che figurano nell’elenco dei farmaci per infermità congenite dell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI o nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b della legge.
 
-[^u31-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^u31-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 ## Disposizioni transitorie della modifica del 22 settembre 2023
 
@@ -4598,23 +4656,37 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 <sup>4</sup> Nell’ambito del primo riesame delle condizioni di ammissione ogni tre anni dopo l’entrata in vigore della modifica del 22 settembre 2023, l’economicità dei medicamenti biosimilari ammessi nell’elenco delle specialità prima dell’entrata in vigore della presente modifica è valutata sulla base delle differenze di prezzo all’ammissione (art. 65*c*<sup>bis</sup>).
 
-## Disposizione transitoria della modifica dell’8 maggio 2024
+## Disposizioni transitorie della modifica del 22 novembre 2023
 
 [^u33-1]
 
-[^u33-1]: [RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
+[^u33-1]: [RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)
+
+<sup>1</sup> Il Cantone informa l’assicuratore, entro due settimane dalla fine di ogni trimestre, dell’assunzione di un ulteriore 3 per cento di un credito di cui prima dell’entrata in vigore della modifica del 18 marzo 2022 della LAMal[^u33-2] aveva già assunto l’85 per cento.
+
+<sup>2</sup> L’assicuratore conferma quindi il credito entro 30 giorni o informa il Cantone di qualsiasi pagamento ottenuto da quando quest’ultimo ha versato la quota dell’85 per cento. Quando il Cantone ha assunto un ulteriore 3 per cento del credito, l’assicuratore glielo cede entro i tre mesi successivi al versamento da parte del Cantone, purché riguardi premi, partecipazioni ai costi, interessi di mora o spese d’esecuzione.
+
+<sup>3</sup> L’assicurato per il quale il Cantone ha assunto un ulteriore 3 per cento di un credito notificato non è più considerato in mora dal momento in cui il Cantone effettua il versamento.
+
+[^u33-2]: [RU 2022 701](https://fedlex.data.admin.ch/eli/oc/2022/701)
+
+## Disposizione transitoria della modifica dell’8 maggio 2024
+
+[^u34-1]
+
+[^u34-1]: [RU 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
 
 Entro due anni dall’entrata in vigore della modifica dell’8 maggio 2024, i Cantoni attribuiscono un mandato di prestazioni di cui all’articolo 36*a* capoverso 3 LAMal alle organizzazioni di cure e d’aiuto a domicilio già autorizzate al momento dell’entrata in vigore di detta modifica.
 
 ## Disposizione transitoria della modifica del 7 giugno 2024
 
-[^u34-1]
+[^u35-1]
 
-[^u34-1]: [RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
+[^u35-1]: [RU 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
 
-L’esperienza clinica acquisita fino al 31 dicembre 2023 presso istituti che offrono trattamenti di psicoterapia e psichiatria che dispongono di un riconoscimento del ISFM come centro di perfezionamento professionale ambulatoriale o ospedaliero di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia» del 1° luglio 2009[^u34-2] nella versione del 15 dicembre 2016 è considerata equivalente all’esperienza clinica di cui all’articolo 50*c* lettera b numero 1.
+L’esperienza clinica acquisita fino al 31 dicembre 2023 presso istituti che offrono trattamenti di psicoterapia e psichiatria che dispongono di un riconoscimento del ISFM come centro di perfezionamento professionale ambulatoriale o ospedaliero di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia» del 1° luglio 2009[^u35-2] nella versione del 15 dicembre 2016 è considerata equivalente all’esperienza clinica di cui all’articolo 50*c* lettera b numero 1.
 
-[^u34-2]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/ref](http://www.ufsp.admin.ch/ref).
+[^u35-2]: Il documento può essere consultato al seguente indirizzo Internet: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
 
 Allegato 1[^t-1]
 
@@ -4668,7 +4740,7 @@ Sono abrogate:
 
 [^annex2-lvlu1-lvl1-1]: [[RU 1964 1329](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329); [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978); [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685); [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675); [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609), [2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547); [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)art. 18]
 [^annex2-lvlu1-lvl1-2]: [[RU 1965 33](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33); [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481); [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674); [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606), [2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
-[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)cifra V, [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024); [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)cifra II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)cifra II;[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142;[1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
+[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)cifra V, [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024); [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)cifra II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)cifra II;[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142; [1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
 [^annex2-lvlu1-lvl1-4]: [[RU 1965 60](https://fedlex.data.admin.ch/eli/oc/1965/55_59_60)]
 [^annex2-lvlu1-lvl1-5]: [[RU 1965 93](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93); [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 3, 1241; **1970** 1648; **1984** 1479; **1986** 80, 1706; **1990** 21, 2039; **1991** 370all. n. 18]
 [^annex2-lvlu1-lvl1-6]: [[RU 1966 515](https://fedlex.data.admin.ch/eli/oc/1966/499_519_515), [1971 1186](https://fedlex.data.admin.ch/eli/oc/1971/1185_1186_1186)]

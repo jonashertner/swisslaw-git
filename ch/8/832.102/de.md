@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2025-06-01
+version: 2025-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Juni 2025)
+vom 27. Juni 1995 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 
 ## 1. Teil: Obligatorische Krankenpflegeversicherung
@@ -58,16 +58,16 @@ Versicherungspflichtig sind zudem:
 - f.[^1-12] Personen mit einer Kurzaufenthalts- oder einer Aufenthaltsbewilligung nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen, die mindestens drei Monate gültig ist;
 - g.[^1-13] Personen, die während längstens drei Monaten in der Schweiz erwerbstätig sind und nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen hierfür keine Aufenthaltsbewilligung benötigen, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen.
 
-[^1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1-2]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^1-4]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-5]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^1-6]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^1-7]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-8]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-8]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^1-9]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-10]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^1-10]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^1-11]: Eingefügt durch Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-12]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^1-13]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
@@ -113,13 +113,13 @@ Es unterstehen nicht der Versicherungspflicht:
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^2-2]: Siehe: nach Art. 1*a* Abs. 1 Bst. b Ziff. 1-6
-[^2-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-3]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^2-4]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-6]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^2-7]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^2-8]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-9]: [SR 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
+[^2-9]: [SR 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 [^2-10]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-11]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-12]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
@@ -188,7 +188,7 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 <sup>4</sup> Personen, die mit einer Person nach Absatz 1 oder 3 bei der Krankenversicherung eines institutionellen Begünstigten nach Artikel 2 Absatz 1 Buchstabe a, b, i oder k des Gaststaatgesetzes versichert sind und die nicht selber Vorrechte oder Immunitäten geniessen, werden auf Gesuch hin von der Versicherungspflicht befreit, sofern ihr Versicherungsschutz für Behandlungen in der Schweiz gleichwertig ist. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen Stelle des institutionellen Begünstigten mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder den Verzicht auf eine Befreiung nicht widerrufen.[^6-4]
 
 [^6-1]: Fassung gemäss Anhang Ziff. 15 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^6-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^6-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -205,7 +205,7 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 <sup>3</sup> Die Versicherer dürfen die Personendaten nur für die im Gesetz vorgesehenen Aufgaben bearbeiten.
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^6a-2]: [[AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)Anhang Ziff. 2]. Siehe seit dem 1. Jan. 2016: Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
+[^6a-2]: [[AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)Anhang Ziff. 2]. Siehe seit dem 1. Jan. 2016: Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
 
 #### Art. 7
 
@@ -237,22 +237,22 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 [^7-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-5]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-6]: Fassung des ersten bis dritten Satzes gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^7-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^7-7]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^7-8]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^7-9]: Fassung gemäss Anhang Ziff. 15 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^7-10]: Siehe seit dem 1. Jan. 2016: Art. 2 und 3 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
-[^7-11]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7-12]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^7-10]: Siehe seit dem 1. Jan. 2016: Art. 2 und 3 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
+[^7-11]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7-12]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^7-13]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
 **Fortdauer des Versicherungsschutzes für nicht mehr unterstellte Personen**[^7a-1]
 
-Die Versicherer können Personen, die nach Artikel 1 Absätze 1 und 2 Buchstaben a und c sowie den Artikeln 3–6 der obligatorischen Krankenpflegeversicherung unterstellt waren, auf vertraglicher Basis eine Fortdauer des Versicherungsschutzes anbieten. Der Vertrag kann beim gleichen oder bei einem anderen Versicherer abgeschlossen werden. Die Finanzierung von Leistungen, welche denjenigen der obligatorischen Krankenpflegeversicherung entsprechen, richtet sich nach den Grundsätzen der sozialen Krankenversicherung. Die Versicherungsverhältnisse unterliegen dem Bundesgesetz vom 2. April 1908[^7a-2] über den Versicherungsvertrag.
+Die Versicherer können Personen, die nach Artikel 1 Absätze 1 und 2 Buchstaben a und c und den Artikeln 3–6 der obligatorischen Krankenpflegeversicherung unterstellt waren, auf vertraglicher Basis eine Fortdauer des Versicherungsschutzes anbieten. Der Vertrag kann beim gleichen oder bei einem anderen Versicherer abgeschlossen werden. Die Finanzierung von Leistungen, die denjenigen der obligatorischen Krankenpflegeversicherung entsprechen, richtet sich nach den Grundsätzen der sozialen Krankenversicherung. Die Versicherungsverhältnisse unterliegen dem Versicherungsvertragsgesetz vom 2. April 1908[^7a-2] (VVG).
 
-[^7a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^7a-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^7a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^7a-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 7b
 
@@ -284,7 +284,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 <sup>2</sup> Erfahren Versicherer, dass eine versicherte Person gleichzeitig bei einem oder mehreren anderen Versicherern versichert ist, insbesondere über eine Meldung der gemeinsamen Einrichtung nach Artikel 10 Absatz 3 der Verordnung vom 19. Oktober 2016[^9-2] über den Risikoausgleich in der Krankenversicherung, so verfügen sie nach Anhörung dieser Person die Beendigung der Versicherungsverhältnisse, die nicht den Bestimmungen des KVG entsprechen.[^9-3]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^9-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^9-2]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^9-3]: Eingefügt durch Ziff. II der V vom 11. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ### 3. Abschnitt: Aufgaben der Kantone
@@ -329,7 +329,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 <sup>7</sup> Der Versicherer muss den für die Prämienverbilligung zuständigen kantonalen Behörden diejenigen Personen melden, deren Versicherungspflicht sistiert worden ist, und sie über die tatsächliche Dauer der Sistierung informieren.
 
 [^10a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2000 ([AS 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)). Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 1. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
-[^10a-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^10a-2]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 11
 
@@ -439,11 +439,11 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 <sup>4</sup> Der Rechtsmittelweg richtet sich nach den allgemeinen Bestimmungen der Bundesrechtspflege.[^22-10]
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^22-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^22-2]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^22-3]: Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^22-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-4]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^22-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-6]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^22-6]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^22-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-8]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-9]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
@@ -459,7 +459,7 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 
 <sup>3</sup> Der Geschäftsbericht ist zu veröffentlichen.[^23-3]
 
-[^23-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^23-1]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^23-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^23-3]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -565,7 +565,7 @@ Im Zusammenhang mit einer Vergütung nach den Artikeln 71*a*–71*c* müssen sie
 <sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung; davon ausgenommen sind die Resultate der mit den Daten nach Absatz 1<sup>bis</sup> durchgeführten Erhebungen. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.[^28-4]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^28-2]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^28-3]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^28-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
@@ -622,7 +622,7 @@ Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozial
 <sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-2].
 
 [^28c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 29
 
@@ -703,7 +703,7 @@ Die Leistungserbringer geben dem Bundesamt für Statistik (BFS) folgende Daten n
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30a-2]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^30a-3]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-3]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^30a-4]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
@@ -742,7 +742,7 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 [^30b-3]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^30b-4]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-5]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^30b-6]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-6]: [SR 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 30c
 
@@ -751,7 +751,7 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 Das BFS erstellt in Zusammenarbeit mit dem BAG für die Erhebung, Bearbeitung und Weitergabe von Daten nach Artikel 59*a* KVG ein Bearbeitungsreglement im Sinne von Artikel 6 der Datenschutzverordnung vom 31. August 2022[^30c-2] (DSV).[^30c-3] Im Bearbeitungsreglement werden nach Anhörung der betroffenen Kreise die Variablen im Sinne von Artikel 30*a* Absatz 1, welche die Leistungserbringer zu liefern haben, festgehalten.
 
 [^30c-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30c-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^30c-3]: Fassung des ersten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
@@ -771,7 +771,7 @@ Das BAG veröffentlicht die Ergebnisse der vom BFS gestützt auf Artikel 59*a* K
 <sup>2</sup> Das BAG veröffentlicht die Ergebnisse der weitergebenen Daten zu den Spitälern und anderen Einrichtungen nach Artikel 39 KVG sowie zu den Organisationen der Krankenpflege und Hilfe zu Hause nach Artikel 51 dieser Verordnung auf Stufe der einzelnen Einrichtung mit deren Namen und Standort. Bei den übrigen Leistungserbringern werden die Daten nach Gruppen von Leistungserbringern veröffentlicht. Personenbezogene Daten der Patientinnen und Patienten und des Personals werden nicht veröffentlicht.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^31-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^31-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 31a
 
@@ -1007,7 +1007,7 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37e-3]
 - h.[^37e-4] eine Person das Schweizerische Heilmittelinstitut (Swissmedic);
 - i.[^37e-5] eine Person die Kantone.[^37e-6]
 
-[^37e-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^37e-1]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^37e-2]: Fassung gemäss Ziff. II der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^37e-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^37e-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
@@ -1081,7 +1081,7 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37f-3]
 - b. sich spontan und fliessend auszudrücken, ohne öfter nach Worten zu suchen;
 - c. die Sprache wirksam und flexibel zu gebrauchen und sich klar und strukturiert zu komplexen Sachverhalten zu äussern.
 
-[^38-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^38-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 39
 
@@ -1116,7 +1116,7 @@ Apotheker und Apothekerinnen werden zugelassen, wenn sie die folgenden Vorausset
 <sup>2</sup> Die Kantone legen die Voraussetzungen fest, unter denen Ärzte und Ärztinnen mit einer Bewilligung zur Führung einer Apotheke den zugelassenen Apothekern und Apothekerinnen gleichgestellt sind. Sie berücksichtigen dabei insbesondere die Zugangsmöglichkeiten der Patienten und Patientinnen zu einer Apotheke.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^40-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^40-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 41
 
@@ -1141,7 +1141,7 @@ Zahnärzte und Zahnärztinnen werden für Leistungen nach Artikel 31 KVG zugelas
 - c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^42-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^42-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 43
 
@@ -1171,10 +1171,10 @@ Chiropraktoren und Chiropraktorinnen werden zugelassen, wenn sie die folgenden V
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen über die Anwendung von ionisierenden Strahlen zu chiropraktischen Zwecken, insbesondere Artikel 182 Absatz 1 Buchstabe d der Strahlenschutzverordnung vom 26. April 2017[^44-5] sowie die entsprechenden Ausführungsbestimmungen des Eidgenössischen Departements für Inneres.[^44-6]
 
 [^44-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^44-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^44-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^44-3]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^44-4]: Aufgehoben durch Art. 17 der V vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen, mit Wirkung seit 1. Sept. 2007 ([AS 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-5]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-5]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-6]: Fassung gemäss Anhang 11 Ziff. 7 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 44a
@@ -1214,7 +1214,7 @@ Hebammen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
 - c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-[^45-1]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^45-1]: [SR 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 45a
 
@@ -1255,7 +1255,7 @@ Physiotherapeuten und Physiotherapeutinnen werden zugelassen, wenn sie die folge
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^47-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^47-2]: [SR 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 48
 
@@ -1276,7 +1276,7 @@ Ergotherapeuten und Ergotherapeutinnen werden zugelassen, wenn sie die folgenden
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^48-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^48-2]: [SR 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 49
 
@@ -1301,7 +1301,7 @@ Pflegefachmänner und Pflegefachfrauen werden zugelassen, wenn sie die folgenden
 <sup>2</sup> Die Beschränkungen der Anzahl zugelassener Pflegefachmänner und Pflegefachfrauen (Art. 55*b* KVG) durch die Kantone bleiben vorbehalten.[^49-3]
 
 [^49-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^49-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^49-2]: [SR 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 [^49-3]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
@@ -1347,7 +1347,7 @@ Ernährungsberater und Ernährungsberaterinnen werden zugelassen, wenn sie die f
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^50a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50a-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^50a-2]: [SR 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 50b
 
@@ -1367,7 +1367,7 @@ Neuropsychologen und Neuropsychologinnen werden zugelassen, wenn sie die folgend
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^50b-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50b-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50b-2]: [SR 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 
 #### Art. 50c
 
@@ -1387,7 +1387,7 @@ Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen werden 
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^50c-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juli 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^50c-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-2]: [SR 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 [^50c-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^50c-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^50c-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
@@ -1615,7 +1615,7 @@ Laboratorien, die im Auftrage eines anderen zugelassenen Leistungserbringers neb
 <sup>6</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^54a-2].
 
 [^54a-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Siehe auch die UeB am Schluss dieses Textes.
-[^54a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### 8. Abschnitt: Abgabestellen für Mittel und Gegenstände
 
@@ -1659,7 +1659,7 @@ Geburtshäuser werden zugelassen, wenn sie die folgenden Voraussetzungen erfüll
 Transport- und Rettungsunternehmen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
 - a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
-- b. Sie haben mit den Versicherern, zulasten deren sie tätig möchten, einen Vertrag über die Durchführung von Transporten und Rettungen, abgeschlossen.
+- b. Sie haben mit den Versicherern, zulasten deren sie tätig sein möchten, einen Vertrag über die Durchführung von Transporten und Rettungen, abgeschlossen.
 - c. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^56-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
@@ -1850,7 +1850,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 <sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-6]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59-2]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
+[^59-2]: [SR 832.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10143)
 [^59-3]: Ausdruck gemäss Anhang Ziff. II 36 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^59-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^59-5]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
@@ -1875,9 +1875,9 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 <sup>7</sup> Der Versicherer informiert den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nach Artikel 43 DSG unaufgefordert über die Zertifizierung oder Rezertifizierung seiner Datenannahmestelle. Der EDÖB kann von der Datenannahmestelle oder von der Zertifizierungsstelle jederzeit die für die Zertifizierung oder Rezertifizierung relevanten Dokumente einfordern. Er veröffentlicht eine Liste der zertifizierten Datenannahmestellen.[^59a-6]
 
 [^59a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
-[^59a-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^59a-3]: Fassung gemäss Anhang 3 Ziff. 17 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^59a-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^59a-5]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^59a-6]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1898,7 +1898,7 @@ Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erheb
 <sup>2</sup> Sofern die medizinischen Angaben nach Artikel 59 Absatz 1 nicht verschlüsselt aufbewahrt werden, werden die Personalien der Versicherten zur Aufbewahrung dieser Angaben pseudonymisiert. Die Aufhebung der Pseudonymisierung oder Verschlüsselung darf nur durch den Vertrauensarzt oder die Vertrauensärztin erfolgen.
 
 [^59ater-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59ater-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59ater-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^59ater-3]: Fassung gemäss Anhang 2 Ziff. II 119 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 3. Kapitel: Tarife und Preise
@@ -2159,9 +2159,9 @@ Das BAG kann die Aufnahme mit Bedingungen und Auflagen verbinden, insbesondere:
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65-3]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^65-3]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^65-4]: Eingefügt durch Anhang Ziff. 4 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^65-5]: [SR 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
+[^65-5]: [SR 812.212.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9370)
 [^65-6]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^65-7]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2584,7 +2584,7 @@ Folgende Änderungen der Spezialitätenliste werden drei Monate nach ihrer Verö
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 26. Juni 2002, in Kraft seit 1. Juli 2002 ([AS 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 [^69-2]: Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^69-3]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^69-3]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 [^69-4]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 69a
@@ -2668,7 +2668,7 @@ Es werden Gebühren erhoben für:
 [^70b-1]: Ursprünglich Art. 71. Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
 [^70b-2]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^70b-3]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^70b-4]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^70b-4]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 71
 
@@ -3108,7 +3108,7 @@ Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Arti
 <sup>2</sup> Das BAG vergibt die Zugriffsberechtigungen.
 
 [^77kbis-1]: Eingefügt durch Art. 8 Ziff. 2 der V vom 28. Aug. 2024 über die Finanzhilfen für das elektronische Patientendossier, in Kraft seit 1. Okt. 2024 ([AS 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
-[^77kbis-2]: [SR 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^77kbis-2]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ### 4*a*. Titel: Pilotprojekte
 
@@ -3312,7 +3312,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 <sup>2</sup> Der Satz für den Vergütungszins beträgt 5 Prozent im Jahr. Für die Berechnung gelten die Vorschriften von Artikel 7 der Verordnung vom 11. September 2002[^90a-2] über den Allgemeinen Teil des Sozialversicherungsrechts sinngemäss.
 
 [^90a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^90a-2]: [SR 830.11](https://fedlex.data.admin.ch/eli/cc/2002/569)
+[^90a-2]: [SR 830.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9994)
 
 #### Art. 90b
 
@@ -3363,7 +3363,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 [^91a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^91a-2]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
-[^91a-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91a-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^91a-4]: Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-5]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-6]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -3410,7 +3410,7 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
 [^part1-tit5-chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^part1-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^part1-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 92d
 
@@ -3438,9 +3438,9 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>9</sup> Die Versicherung endet fünf Jahre nach dem Zeitpunkt der Rechtskraft des Wegweisungsentscheids, sofern die betroffene Person die Schweiz wahrscheinlich verlassen hat.
 
-[^92d-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^92d-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^92d-2]: Berichtigung vom 29. Nov. 2016 ([AS 2016 4195](https://fedlex.data.admin.ch/eli/oc/2016/704)).
-[^92d-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^92d-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### 2. Abschnitt: Besondere Versicherungsformen
 
@@ -3737,14 +3737,25 @@ Der Kanton meldet dem Versicherer die zuständige kantonale Behörde.
 
 #### Art. 105f
 
-**Meldungen über Verlustscheine**[^105f-1]
+**Meldungen über Verlustscheine und andere Forderungen**[^105f-1]
 
-<sup>1</sup> Der Versicherer informiert die zuständige kantonale Behörde innerhalb von zwei Wochen nach Ablauf jedes Quartals über die Entwicklung der seit Jahresbeginn ausgestellten Verlustscheine.[^105f-2]
+<sup>1</sup> Der Versicherer meldet den Verlustschein sowie andere Forderungen nach Artikel 64*a* Absatz 3<sup>bis</sup> KVG dem Kanton, in dem diese ausgestellt wurden.
 
-<sup>2</sup> Er übermittelt der zuständigen kantonalen Behörde bis zum 31. März die Schlussabrechnung der im Vorjahr ausgestellten Verlustscheine und den dazugehörigen Revisionsbericht. Die Abrechnung enthält eine Zusammenstellung der Gesuche um Übernahme der Forderungen nach Artikel 64*a* Absatz 3 des Gesetzes und eine Zusammenstellung der Rückerstattungen nach Artikel 64*a* Absatz 5 des Gesetzes.
+<sup>2</sup> Er informiert die zuständige kantonale Behörde innerhalb von zwei Wochen nach Ablauf jedes Quartals über die Entwicklung der seit Jahresbeginn ausgestellten Verlustscheine.
 
-[^105f-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105f-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+<sup>3</sup> Er meldet die Forderungen nach Artikel 64*a* Absatz 3<sup>bis</sup> KVG innerhalb der Frist nach Absatz 2 der zuständigen Behörde des Kantons, in dem das Kind bei Entstehung dieser Forderungen Wohnsitz hat. Er begründet den Betrag und gibt an, warum er keinen Verlustschein oder keinen gleichwertigen Rechtstitel erwirken konnte.
+
+<sup>4</sup> Er übermittelt der zuständigen kantonalen Behörde bis zum 31. März die Schlussabrechnung der im Vorjahr ausgestellten Verlustscheine und anderen Forderungen nach Artikel 64*a* Absatz 3<sup>bis</sup> KVG. Er reicht innerhalb der gleichen Frist den dazugehörigen Revisionsbericht ein. Die Abrechnung enthält eine Zusammenstellung der Gesuche um Übernahme der Forderungen nach Artikel 64*a* Absätze 3, 3<sup>bis</sup> und 5 KVG und eine Zusammenstellung der Rückerstattungen nach Artikel 64*a* Absatz 4 KVG.
+
+<sup>5</sup>
+
+Auf Verlangen hat der Versicherer der zuständigen kantonalen Behörde kostenlos:
+
+- a. alle Unterlagen zu übermitteln, die den Bestand und Umfang einer Forderung nachweisen;
+- b. bei einer Abtretung die zur Geltendmachung der Rechte nach Artikel 170 Absatz 2 des Obligationenrechts[^105f-2] erforderlichen Informationen mitzuteilen.
+
+[^105f-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105f-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 105f<sup>bis</sup>
 
@@ -3754,21 +3765,36 @@ Der Kanton meldet dem Versicherer die zuständige kantonale Behörde.
 
 <sup>2</sup> Die zuständige kantonale Behörde kann zwischen einer jährlichen und einer vierteljährlichen Übernahme der vom Versicherer gemeldeten Forderungen wählen. Sie gibt ihre Wahl innerhalb der Frist nach Absatz 1 bekannt.
 
-[^105fbis-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+<sup>3</sup>
+
+Der Versicherer tritt der kantonalen Behörde die Forderungen ab und überträgt ihr zu seinen Lasten die Verlustscheine zur Übernahme, sofern es sich bei den Forderungen um Prämien, Kostenbeteiligungen, Verzugszinsen oder Betreibungskosten handelt. Der Versicherer veranlasst dies innerhalb von 30 Tagen ab folgendem Zeitpunkt:
+
+- a. bei jährlicher Übernahme: der Zahlung durch den Kanton nach Artikel 105*k* Absatz 3 Buchstabe a;
+- b. bei vierteljährlicher Übernahme: der Akontozahlung durch den Kanton nach Artikel 105*k* Absatz 2.
+
+<sup>4</sup> Sofern eine versicherte Person nicht bei anderen Prämien, Kostenbeteiligungen, Verzugszinsen oder Betreibungskosten säumig ist, hebt der Versicherer den Leistungsaufschub nach Artikel 64*a* Absatz 7 KVG innerhalb von 10 Tagen nach der Abtretung auf und informiert die zuständige kantonale Behörde darüber.
+
+<sup>5</sup> Die zuständige kantonale Behörde informiert die betroffenen Versicherten über den Gläubigerwechsel.
+
+[^105fbis-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024, Abs. 3–5 in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105g
 
 **Personendaten**[^105g-1]
 
-Bei der Bekanntgabe nach Artikel 64*a* Absatz 3 des Gesetzes muss der Versicherer zur Identifikation der versicherten Personen und der Schuldnerinnen und Schuldner melden:
+Nimmt der Versicherer eine Meldung nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG vor, so muss er zur Identifikation der versicherten Personen und der Schuldnerinnen und Schuldner melden:[^105g-2]
 
 - a. den Namen und den Vornamen;
 - b. das Geschlecht;
 - c. das Geburtsdatum;
-- d. den Wohnsitz;
-- e. die AHV-Nummer.
+- d.[^105g-3] die Adresse;
+- e. die AHV-Nummer;
+- f.[^105g-4] die Korrespondenzsprache.
 
 [^105g-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105g-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105h
 
@@ -3792,41 +3818,64 @@ Einem Verlustschein im Sinne von Artikel 64*a* Absatz 3 des Gesetzes sind Verfü
 
 <sup>1</sup>
 
-Die Revisionsstelle überprüft die Richtigkeit der Angaben des Versicherers bezüglich der Forderungen nach Artikel 64*a* Absatz 3 des Gesetzes. Sie kontrolliert, ob:
+Die Revisionsstelle überprüft die Richtigkeit und die Vollständigkeit der Angaben des Versicherers bezüglich:
 
-- a. die Angaben zu den Schuldnerinnen und Schuldnern sowie zu den Versicherten korrekt sind;
-- b. das Mahnverfahren nach Artikel 105*b* eingehalten wurde;
-- c. ein Verlustschein vorhanden ist;
-- d. das Ausstellungsdatum des Verlustscheines im Vorjahr liegt;
-- e. der Gesamtbetrag der Forderungen richtig ist;
-- f. die Forderung dem Kanton gemeldet wurde, in dem der Verlustschein ausgestellt wurde.
+- a. der Forderungen nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG;
+- b. der Bezahlung der Forderungen, die Gegenstand einer Meldung nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG waren;
+- c. der Rückerstattungen an den Kanton nach Artikel 64*a* Absatz 4 KVG und der weiteren Rückerstattungen.
 
 <sup>2</sup>
 
-Sie überprüft die Richtigkeit und die Vollständigkeit der Angaben des Versicherers bezüglich:
+Sie kontrolliert bei Forderungen nach Artikel 64*a* Absatz 3 KVG, ob:
 
-- a. der Bezahlung der ausstehenden Forderungen nach der Ausstellung eines Verlustscheins;
-- b. der Rückerstattungen an den Kanton nach Artikel 64*a* Absatz 5 KVG.[^105j-2]
+- a. die Angaben zu den Schuldnerinnen und Schuldnern sowie zu den Versicherten korrekt sind;
+- b. das Mahnverfahren nach Artikel 105*b* eingehalten wurde;
+- c. ein Verlustschein oder ein gleichwertiger Rechtstitel vorhanden ist;
+- d. das Ausstellungsdatum des Verlustscheins oder des gleichwertigen Rechtstitels im Vorjahr liegt;
+- e. der Gesamtbetrag der Forderungen richtig ist;
+- f. die Forderung dem Kanton nach Artikel 105*f* Absatz 1 gemeldet wurde;
+- g. der Verlustschein oder der gleichwertige Rechtstitel nicht eine Forderung nach dem VVG[^105j-2] betrifft.
 
-<sup>3</sup> Der Kanton übernimmt die Kosten der Revisionsstelle, wenn er eine andere Revisionsstelle als diejenige nach Artikel 25 KVAG[^105j-3] bezeichnet.[^105j-4]
+<sup>3</sup>
 
-[^105j-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105j-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^105j-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^105j-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Sie kontrolliert bei Forderungen nach Artikel 64*a* Absatz 3<sup>bis</sup> KVG, ob:
+
+- a. die Punkte nach Absatz 2 Buchstaben a, b, e und f erfüllt sind;
+- b. angegeben ist, warum der Versicherer keinen Verlustschein oder keinen gleichwertigen Rechtstitel erwirken konnte.
+
+<sup>4</sup> Der Kanton übernimmt die Kosten der Revisionsstelle, wenn er eine andere als die Revisionsstelle nach Artikel 25 KVAG[^105j-3] bezeichnet.
+
+[^105j-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105j-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^105j-3]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 105k
 
-**Zahlungen der Kantone an die Versicherer**[^105k-1]
+**Begleichung der von den Versicherern übermittelten Abrechnungen**[^105k-1]
 
-<sup>1</sup> Bei Eingang der Personendaten und der Meldungen über die Verlustscheine kann die zuständige kantonale Behörde dem Versicherer die Personendaten nach Artikel 105*g* für die Versicherten übermitteln, für die sie ausstehende Beträge übernimmt.
+<sup>1</sup> Bei Eingang der Personendaten und der Meldungen nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG kann die zuständige kantonale Behörde dem Versicherer die Personendaten nach Artikel 105*g* für die Versicherten übermitteln, für die sie ausstehende Beträge übernimmt.
 
-<sup>2</sup> Der Kanton, in dem der Verlustschein ausgestellt wurde, bezahlt dem Versicherer die Forderungen nach Artikel 64*a* Absatz 4 des Gesetzes nach Abzug der Rückerstattungen nach Artikel 64*a* Absatz 5 des Gesetzes bis zum 30. Juni. Übersteigen die Rückerstattungen die Forderungen, so zahlt der Versicherer dem aktuellen Wohnkanton bis zum 30. Juni den Differenzbetrag zurück.
+<sup>2</sup> Hat sich der Kanton für die vierteljährliche Übernahme entschieden, so überweist er dem Versicherer eine Akontozahlung innerhalb von 30 Tagen, nachdem dieser ihm die Forderungen gemeldet hat. Die Akontozahlung entspricht den gemeldeten Forderungen.
 
-<sup>3</sup> Richtet ein Kanton eine Prämienverbilligung für einen Zeitraum aus, für den der Versicherer ihm bereits eine Forderung gemäss Artikel 64*a* Absatz 3 KVG in seiner Schlussabrechnung bekanntgegeben hat, so erstattet der Versicherer 85 Prozent dieser Prämienverbilligung an den Kanton zurück. Die Forderungen gegenüber der versicherten Person werden auf dem Verlustschein oder dem gleichwertigen Rechtstitel um den Betrag der ganzen Prämienverbilligung vermindert.[^105k-2]
+<sup>3</sup>
 
-[^105k-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105k-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Der Kanton bezahlt dem Versicherer bis zum 30. Juni:
+
+- a. bei jährlicher Übernahme: die Forderungen nach Artikel 64*a* Absatz 4 oder 5 KVG;
+- b. bei vierteljährlicher Übernahme: den Differenzbetrag gemäss der Schlussabrechnung der Forderungen nach Artikel 64*a* Absatz 5 KVG.
+
+<sup>4</sup> Er nimmt die Zahlung nach Abzug der Rückerstattungen nach Artikel 64*a* Absatz 4 KVG vor. Übersteigen die Rückerstattungen die Forderungen, so zahlt der Versicherer dem Kanton den Differenzbetrag innerhalb der gleichen Frist zurück.
+
+<sup>5</sup> Richtet ein Kanton eine Prämienverbilligung für einen Zeitraum aus, für den der Versicherer ihm bereits eine Forderung nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG in seiner Schlussabrechnung bekanntgegeben hat, oder annulliert er eine Prämienverbilligung wegen einer Doppelversicherung, so erstattet der Versicherer dem Kanton einen Prozentsatz dieser Prämienverbilligung in der Höhe des vom Kanton übernommenen Betrags zurück. Die Forderungen gegenüber der versicherten Person werden auf dem Verlustschein oder dem gleichwertigen Rechtstitel um den Betrag der ganzen Prämienverbilligung vermindert.
+
+<sup>6</sup> Hat der Versicherer der zuständigen kantonalen Behörde bereits eine Forderung abgetreten und erhält er Beträge zu deren vollständiger oder teilweiser Begleichung, so muss er ihr diese Beträge vollständig zurückerstatten. Die Beträge werden vollumfänglich vom Verlustschein oder dem gleichwertigen Rechtstitel abgezogen.
+
+<sup>7</sup> Der Kanton bezahlt dem Versicherer nichts für Forderungen, die Gegenstand einer Meldung nach Artikel 64*a* Absätze 3 und 3<sup>bis</sup> KVG waren, wenn sie auch Forderungen nach dem VVG[^105k-2] betreffen.
+
+<sup>8</sup> Die zuständige kantonale Behörde kann von den Versicherern innerhalb von drei Jahren nach dem Eingang der Schlussabrechnungen nach Artikel 105*f* Absatz 4 rückwirkende Korrekturen verlangen.
+
+[^105k-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105k-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 105l
 
@@ -3840,8 +3889,16 @@ Sie überprüft die Richtigkeit und die Vollständigkeit der Angaben des Versich
 
 <sup>3</sup> Sind die ausstehenden Beträge nach Absatz 2 beim Versicherer nicht rechtzeitig eingetroffen, so muss dieser die betroffene Person informieren, dass sie weiterhin bei ihm versichert ist und frühestens auf den nächstmöglichen Termin nach Artikel 7 Absätze 1 und 2 des Gesetzes den Versicherer wechseln kann. Der Versicherer muss zudem den neuen Versicherer innerhalb von 60 Tagen darüber informieren, dass die versicherte Person weiterhin bei ihm versichert ist.
 
+<sup>4</sup>
+
+Versicherte, deren Kanton zusätzlich 5 Prozent der gemeldeten Forderungen übernommen hat, gelten bei diesen Forderungen ab folgendem Zeitpunkt nicht mehr als säumig:
+
+- a. bei jährlicher Übernahme: ab der Zahlung durch den Kanton;
+- b. bei vierteljährlicher Übernahme: ab der Akontozahlung durch den Kanton.[^105l-3]
+
 [^105l-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105l-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105l-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3949,9 +4006,9 @@ Er darf seine restlichen Prämienforderungen für das laufende Kalenderjahr und 
 
 <sup>6</sup> Der Kanton kann vorsehen, dass der Versicherer ihm die Personendaten nach Artikel 105*g* und weitere Daten für seine Versicherten im betreffenden Kanton mitteilt.
 
-[^106c-1]: [SR 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-1]: [SR 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
 [^106c-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
-[^106c-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-3]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^106c-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^106c-5]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
@@ -4006,9 +4063,9 @@ Jede Person, welche die Voraussetzungen von Artikel 67 Absatz 1 des Gesetzes erf
 Soweit in einem Versicherungsfall Leistungen der Krankenversicherung mit gleichartigen Leistungen der Unfallversicherung nach dem UVG[^110-2], der Militärversicherung, der Alters- und Hinterlassenenversicherung, der Invalidenversicherung oder dem Erwerbsersatzgesetz vom 25. September 1952[^110-3] für Dienstleistende und bei Mutterschaft zusammentreffen, gehen die Leistungen dieser anderen Sozialversicherungen vor. Artikel 128 der Verordnung vom 20. Dezember 1982[^110-4] über die Unfallversicherung bleibt vorbehalten.
 
 [^110-1]: Fassung gemäss Art. 45 Ziff. I der V vom 24. Nov. 2004 zum Erwerbsersatzgesetz, in Kraft seit 1. Juli 2005 ([AS 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
-[^110-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^110-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^110-4]: [SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^110-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^110-3]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^110-4]: [SR 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 111
 
@@ -4032,7 +4089,7 @@ Die Versicherten haben Unfälle, die nicht bei einem UVG-Versicherer oder bei de
 
 <sup>2</sup> Ist eine Person bei mehreren Krankenversicherern für Taggeld versichert, so ist jeder dieser Versicherer vorleistungspflichtig.
 
-[^112-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^112-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^112-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 113
@@ -4162,7 +4219,7 @@ Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der
 
 [^130-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510)).
 [^130-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^130-3]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^130-3]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## 5. Teil: Schlussbestimmungen
 
@@ -4182,12 +4239,12 @@ Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der
 
 <sup>2</sup> Ein neues Versicherungsverhältnis nach Absatz 1 darf nur begründet werden, wenn damit die Weiterführung bis zum 31. Dezember 1996 einer entsprechenden Versicherungsdeckung gewährleistet wird, die von einem Versicherer gewährt worden war, der auf die Fortführung der sozialen Krankenversicherung verzichtet hat (Art. 99 KVG).
 
-<sup>3</sup> Die Krankenkassen können den Personen nach den Absätzen 1 und 2 auf vertraglicher Basis eine Fortdauer des Versicherungsschutzes nach dem 31. Dezember 1996 anbieten. Der Vertrag kann bei der gleichen Krankenkasse oder bei einem anderen Versicherer nach Artikel 11 des Gesetzes abgeschlossen werden. Die Finanzierung von Leistungen, welche denjenigen der obligatorischen Krankenpflegeversicherung entsprechen, richtet sich nach den Grundsätzen der sozialen Krankenversicherung. Die Versicherungsverhältnisse unterliegen dem Versicherungsvertragsgesetz[^132-1].[^132-2]
+<sup>3</sup> Die Krankenkassen können den Personen nach den Absätzen 1 und 2 auf vertraglicher Basis eine Fortdauer des Versicherungsschutzes nach dem 31. Dezember 1996 anbieten. Der Vertrag kann bei der gleichen Krankenkasse oder bei einem anderen Versicherer nach Artikel 11 KVG abgeschlossen werden. Die Finanzierung von Leistungen, welche denjenigen der obligatorischen Krankenpflegeversicherung entsprechen, richtet sich nach den Grundsätzen der sozialen Krankenversicherung. Die Versicherungsverhältnisse unterliegen dem VVG[^132-1].[^132-2]
 
 <sup>4</sup> Läuft eine vor dem 1. Januar 1997 begonnene Behandlung nach diesem Datum weiter, so hat die Krankenkasse das Versicherungsverhältnis bis zum Abschluss dieser Behandlung nach altem Recht weiterzuführen.[^132-3]
 
-[^132-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^132-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^132-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^132-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2025 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^132-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 
 #### Art. 133
@@ -4212,7 +4269,7 @@ Laboratorien, die bereits nach den Artikeln 53 und 54 als Leistungserbringer fü
 - b. innerhalb von drei Monaten nach Inkrafttreten der Verordnung vom 14. Februar 2007[^134-2] über genetische Untersuchungen beim Menschen beim BAG ein Bewilligungsgesuch einreichen.[^134-3]
 
 [^134-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^134-2]: [SR 810.122.1](https://fedlex.data.admin.ch/eli/cc/2022/585); in Kraft seit 1. April 2007.
+[^134-2]: [SR 810.122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9233); in Kraft seit 1. April 2007.
 [^134-3]: Eingefügt durch Art. 37 Ziff. 2 der V vom 14. Febr. 2007 über genetische Untersuchungen beim Menschen, in Kraft seit 1. April 2007 ([AS 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 135
@@ -4366,7 +4423,7 @@ Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschä
 [^u13-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-3]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-4]: [AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)
-[^u13-5]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^u13-5]: [SR 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 [^u13-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
 ## Schlussbestimmungen der Änderung vom 13. März 2009
@@ -4377,7 +4434,7 @@ Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschä
 
 Die gemeinsame Einrichtung informiert in Zusammenarbeit mit dem BAG, den rentenauszahlenden Stellen und den zuständigen Auslandvertretungen die Rentnerinnen und Rentner, die in einem neuen Mitgliedstaat der Europäischen Gemeinschaft wohnen, bis spätestens drei Monate nach dem Inkrafttreten des Protokolls vom 27. Mai 2008[^u14-2] über die Ausdehnung des Freizügigkeitsabkommens auf Bulgarien und Rumänien im Hinblick auf die Aufnahme von Bulgarien und Rumänien als Vertragsparteien infolge ihres Beitritts zur Europäischen Union über die Versicherungspflicht. Mit diesen Informationen gelten auch die in einem neuen Mitgliedstaat der Europäischen Gemeinschaft wohnhaften Familienangehörigen als informiert. Der Bund übernimmt die der gemeinsamen Einrichtung entstehenden Kosten für die Information.
 
-[^u14-2]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
+[^u14-2]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/212)
 
 ## Übergangsbestimmungen der Änderung vom 24. Juni 2009
 
@@ -4454,7 +4511,7 @@ Erhält ein Versicherer ein Gesuch um Kostenübernahme von einer nothilfeberecht
 In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der Änderung vom …[^u20-2] von Anhang K zum EFTA-Abkommen[^u20-3] das bisherige Recht.
 
 [^u20-2]: AS …
-[^u20-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u20-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Übergangsbestimmung zur Änderung vom 4. Juli 2012
 
@@ -4534,7 +4591,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>2</sup> Apothekerinnen und Apothekern, die bei Inkrafttreten der Änderung vom 5. April 2017 bereits zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind, bleiben zugelassen.
 
-[^u27-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^u27-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Übergangsbestimmung zur Änderung vom 19. März 2021
 
@@ -4586,7 +4643,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>3</sup> Arzneimittel, die in der Geburtsgebrechenmedikamentenliste der Spezialitätenliste aufgeführt sind, werden im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV oder die Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b des Gesetzes überführt.
 
-[^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 ## Übergangsbestimmungen zur Änderung vom 22. September 2023
 
@@ -4602,23 +4659,37 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>4</sup> Bei der ersten Überprüfung der Aufnahmebedingungen alle drei Jahre nach dem Inkrafttreten der Änderung vom 22. September 2023 wird die Wirtschaftlichkeit von Biosimilars, die vor dem Inkrafttreten dieser Änderung in die Spezialitätenliste aufgenommen wurden, anhand der Preisabstände der Aufnahme (Art. 65*c*<sup>bis</sup>) beurteilt.
 
-## Übergangsbestimmung zur Änderung vom 8. Mai 2024
+## Übergangsbestimmungen zur Änderung vom 22. November 2023
 
 [^u33-1]
 
-[^u33-1]: [AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
+[^u33-1]: [AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)
+
+<sup>1</sup> Der Kanton informiert den Versicherer innerhalb von zwei Wochen nach Ablauf jedes Quartals über die Übernahme von zusätzlich 3 Prozent einer Forderung, von der er vor dem Inkrafttreten der Änderung vom 18. März 2022[^u33-2] des KVG bereits einen Anteil von 85 Prozent übernommen hatte.
+
+<sup>2</sup> Der Versicherer bestätigt die Forderung innerhalb von 30 Tagen nach der Information durch den Kanton oder informiert den Kanton über jede eingegangene Bezahlung seit der Zahlung des Anteils von 85 Prozent durch den Kanton. Hat der Kanton zusätzlich 3 Prozent der Forderung übernommen, so tritt der Versicherer ihm diese Forderung innerhalb von drei Monaten nach der Zahlung durch den Kanton ab, sofern es sich um Prämien, Kostenbeteiligungen, Verzugszinsen oder Betreibungskosten handelt.
+
+<sup>3</sup> Die versicherte Person, deren Kanton zusätzlich 3 Prozent einer gemeldeten Forderung übernommen hat, gilt ab der Zahlung durch den Kanton nicht mehr als säumig.
+
+[^u33-2]: [AS 2022 701](https://fedlex.data.admin.ch/eli/oc/2022/701)
+
+## Übergangsbestimmung zur Änderung vom 8. Mai 2024
+
+[^u34-1]
+
+[^u34-1]: [AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
 
 Die Kantone erteilen innerhalb von zwei Jahren nach Inkrafttreten der Änderung vom 8. Mai 2024 den Organisationen der Krankenpflege und Hilfe zu Hause, die bei Inkrafttreten dieser Änderung bereits zugelassen sind, einen Leistungsauftrag nach Artikel 36*a* Absatz 3 KVG.
 
 ## Übergangsbestimmung zur Änderung vom 7. Juni 2024
 
-[^u34-1]
+[^u35-1]
 
-[^u34-1]: [AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
+[^u35-1]: [AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
 
-Bis zum 31. Dezember 2023 angeeignete klinische Erfahrung in psychotherapeutischen-psychiatrischen Einrichtungen, die über eine Anerkennung des SIWF als ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009 in der Fassung vom 15. Dezember 2016[^u34-2] verfügten, ist der klinischen Erfahrung nach Artikel 50*c* Buchstabe b Ziffer 1 gleichgestellt.
+Bis zum 31. Dezember 2023 angeeignete klinische Erfahrung in psychotherapeutischen-psychiatrischen Einrichtungen, die über eine Anerkennung des SIWF als ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009 in der Fassung vom 15. Dezember 2016[^u35-2] verfügten, ist der klinischen Erfahrung nach Artikel 50*c* Buchstabe b Ziffer 1 gleichgestellt.
 
-[^u34-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^u35-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 Anhang 1[^t-1]
 

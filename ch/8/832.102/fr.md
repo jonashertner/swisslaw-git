@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2025-06-01
+version: 2025-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250601/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> juin 2025)
+du 27 juin 1995 (État le 1<sup>er</sup> juillet 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 
 ## Partie 1 Assurance obligatoire des soins
@@ -58,16 +58,16 @@ Sont en outre tenus de s’assurer:
 - f.[^1-12] les personnes qui disposent d’une autorisation de séjour de courte durée ou d’une autorisation de séjour conformément à l’Accord sur la libre circulation des personnes ou à l’Accord AELE, valable au moins trois mois;
 - g.[^1-13] les personnes qui exercent une activité lucrative en Suisse pendant trois mois au plus et qui, en vertu de l’Accord sur la libre circulation des personnes ou de l’Accord AELE, n’ont pas besoin d’une autorisation de séjour, lorsqu’elles ne bénéficient pas d’une couverture d’assurance équivalente pour les traitements en Suisse.
 
-[^1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1-2]: Nouvelle teneur selon le ch. I 4 de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-4]: Nouvelle teneur selon le ch. I 4 de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-5]: Nouvelle teneur selon le ch. I 4 de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^1-6]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^1-7]: Introduite par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-8]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-8]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^1-9]: Introduite par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-10]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^1-10]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^1-11]: Introduite par le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-12]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^1-13]: Introduite par le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
@@ -113,13 +113,13 @@ Sont exceptés de l’obligation de s’assurer:
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^2-2]: Actuellement: art. 1*a* al. 1 let. b ch. 1 à 6
-[^2-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-3]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^2-4]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^2-7]: Introduite par le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
 [^2-8]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
+[^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 [^2-10]: Introduite par le ch. I de l’O du 22 mai 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-11]: Introduite par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^2-12]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
@@ -188,7 +188,7 @@ Les personnes suivantes et les membres de leur famille au sens de l’art. 3, al
 <sup>4</sup> Les personnes qui sont assurées avec une personne mentionnée aux al. 1 ou 3 auprès de l’assurance-maladie d’un bénéficiaire institutionnel visé à l’art. 2, al. 1, let. a, b, i ou k, de la loi sur l’État hôte et qui ne bénéficient pas elles-mêmes de privilèges ou d’immunités sont exceptées sur requête de l’obligation de s’assurer, pour autant que leur couverture d’assurance soit équivalente pour les traitements en Suisse. La requête doit être accompagnée d’une attestation écrite de l’organisme compétent du bénéficiaire institutionnel donnant tous les renseignements nécessaires. L’intéressé ne peut revenir sur l’exception ou la renonciation à une exception.[^6-4]
 
 [^6-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^6-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^6-4]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -205,7 +205,7 @@ Les personnes suivantes et les membres de leur famille au sens de l’art. 3, al
 <sup>3</sup> Les assureurs ne peuvent traiter les données personnelles que pour accomplir les tâches prévues par la loi.
 
 [^6a-1]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^6a-2]: [[RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)annexe ch. 2]. Depuis le 1<sup>er</sup> janv. 2016 voir art. 2 al. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
+[^6a-2]: [[RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)annexe ch. 2]. Depuis le 1<sup>er</sup> janv. 2016 voir art. 2 al. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
 
 #### Art. 7
 
@@ -237,22 +237,22 @@ Les personnes suivantes et les membres de leur famille au sens de l’art. 3, al
 [^7-4]: Introduit par le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-5]: Introduit par le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 [^7-6]: Nouvelle teneur des 3 premières phrases selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^7-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^7-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^7-8]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^7-9]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^7-10]: Depuis le 1<sup>er</sup> janv. 2016: art. 2 et 3 de la loi du 16 sept. 2014 sur la surveillance de l’assurance-maladie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
-[^7-11]: [RS [0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^7-10]: Depuis le 1<sup>er</sup> janv. 2016: art. 2 et 3 de la loi du 16 sept. 2014 sur la surveillance de l’assurance-maladie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
+[^7-11]: [RS [0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^7-13]: Introduit par le ch. I de l’O du 3 juil. 2001 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nouvelle teneur selon le ch. I 1 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
 **Maintien de l’assurance pour personnes non assujetties**[^7a-1]
 
-Les assureurs peuvent offrir aux personnes qui étaient soumises à l’assurance obligatoire des soins en vertu des art. 1, al. 1 et 2, let. a et c, et des art. 3 à 6, le maintien des rapports d’assurance sur une base contractuelle. Le contrat peut être conclu auprès du même assureur ou d’un autre. Le financement des prestations qui correspondent à celles de l’assurance obligatoire des soins est régi par les principes de l’assurance-maladie sociale. Les rapports d’assurance sont soumis à la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^7a-2].
+Les assureurs peuvent offrir aux personnes qui étaient soumises à l’assurance obligatoire des soins en vertu des art. 1, al. 1 et 2, let. a et c, et des art. 3 à 6, le maintien des rapports d’assurance sur une base contractuelle. Le contrat peut être conclu auprès du même assureur ou d’un autre. Le financement des prestations qui correspondent à celles de l’assurance obligatoire des soins est régi par les principes de l’assurance-maladie sociale. Les rapports d’assurance sont soumis à la loi du 2 avril 1908 sur le contrat d’assurance (LCA)[^7a-2].
 
-[^7a-1]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^7a-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^7a-1]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^7a-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 7b
 
@@ -284,7 +284,7 @@ Les assureurs renseignent par écrit les assurés mentionnés à l’art. 6*a*, 
 <sup>2</sup> Lorsqu’un assureur apprend, notamment par une communication de l’institution commune au sens de l’art. 10, al. 3, de l’ordonnance du 19 octobre 2016 sur la compensation des risques dans l’assurance-maladie[^9-2], qu’une personne est également assurée auprès d’un autre assureur ou d’autres assureurs, il rend, après avoir entendu cette personne, la décision de mettre fin aux rapports d’assurance qui ne respectent pas les dispositions de la LAMal.[^9-3]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^9-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^9-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^9-3]: Introduit par le ch. II de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3917](https://fedlex.data.admin.ch/eli/oc/2020/729)).
 
 ### Section 3 Tâches des cantons
@@ -329,7 +329,7 @@ Les assureurs renseignent par écrit les assurés mentionnés à l’art. 6*a*, 
 <sup>7</sup> L’assureur annonce aux autorités cantonales compétentes en matière de réduction des primes les personnes dont l’obligation d’assurance a été suspendue et les informe de la durée effective de la suspension.
 
 [^10a-1]: Introduit par le ch. I de l’O du 11 déc. 2000 ([RO 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)). Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^10a-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^10a-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 11
 
@@ -439,11 +439,11 @@ L’institution commune tranche sous la forme d’une décision au sens de l’a
 <sup>4</sup> Les voies de droit sont régies par les dispositions générales de la procédure fédérale.[^22-10]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^22-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^22-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^22-3]: Nouvelle teneur selon l’art. 31 de l’O du 19 oct. 2016 sur la compensation des risques dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^22-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^22-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-6]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^22-6]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^22-7]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-8]: Introduit par le ch. I de l’O du 3 déc. 2004 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nouvelle teneur selon l’art. 31 de l’O du 19 oct. 2016 sur la compensation des risques dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-9]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
@@ -459,7 +459,7 @@ L’institution commune tranche sous la forme d’une décision au sens de l’a
 
 <sup>3</sup> Le rapport de gestion est publié.[^23-3]
 
-[^23-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^23-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^23-3]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -565,7 +565,7 @@ En vue de la prise en charge visée aux art. 71*a* à 71*c*, ils transmettent ch
 <sup>9</sup> L’OFSP met les résultats issus des données visées à l’al. 2 à la disposition des organes participant à l’exécution de la LAMal, à l’exception des résultats issus des données visées à l’al. 1<sup>bis</sup>. Il veille à garantir l’anonymat des assurés.[^28-4]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^28-3]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2026 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^28-4]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur du 1<sup>er</sup> janv. 2024 au 31 déc. 2026 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
@@ -622,7 +622,7 @@ Il publie, par assureur, notamment les chiffres suivants concernant l’assuranc
 <sup>6</sup> Il peut percevoir un émolument pour le traitement de la demande. L’émolument est fixé en fonction du temps qui a été consacré à la prestation, mais ne peut dépasser 10 000 francs. Le tarif horaire est compris entre 90 et 200 francs, en fonction des connaissances requises et le niveau de fonction du personnel chargé de l’exécution. Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^28c-2] s’appliquent.
 
 [^28c-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 29
 
@@ -703,7 +703,7 @@ Les fournisseurs de prestations communiquent à l’Office fédéral de la stati
 
 [^30a-1]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 [^30a-2]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^30a-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^30a-4]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 30b
@@ -742,7 +742,7 @@ Les données visées à l’art. 30 sont en principe transmises sous forme agré
 [^30b-3]: Introduite par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^30b-4]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-5]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
-[^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 30c
 
@@ -751,7 +751,7 @@ Les données visées à l’art. 30 sont en principe transmises sous forme agré
 L’OFS établit en collaboration avec l’OFSP un règlement de traitement au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^30c-2] pour la collecte, le traitement et la transmission de données visées à l’art.59*a* LAMal.[^30c-3] Les variables au sens de l’art. 30*a*, al. 1, qui doivent être transmises par les fournisseurs de prestations sont fixées dans le règlement de traitement après consultation des milieux concernés.
 
 [^30c-1]: Introduit par le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30c-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^30c-3]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
@@ -771,7 +771,7 @@ L’OFSP publie la synthèse des données recueillies par l’OFS en vertu de l�
 <sup>2</sup> Il publie la synthèse des données transmises concernant les hôpitaux et autres institutions au sens de l’art. 39 LAMal et concernant les organisations de soins et d’aide à domicile au sens de l’art. 51 de la présente ordonnance pour chaque institution en indiquant leur nom et leur site. Pour les autres fournisseurs de prestations, il publie les données par groupe de fournisseurs de prestations. Les données personnelles concernant les patients et le personnel ne sont pas publiées.
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^31-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^31-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 31a
 
@@ -1007,7 +1007,7 @@ Elle se compose de 16 membres, à savoir:[^37e-3]
 - h.[^37e-4] un représentant de l’Institut suisse des produits thérapeutiques (Swissmedic);
 - i.[^37e-5] un représentant des cantons.[^37e-6]
 
-[^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
 [^37e-2]: Nouvelle teneur selon le ch. II de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 490](https://fedlex.data.admin.ch/eli/oc/2023/490)).
 [^37e-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^37e-4]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
@@ -1080,7 +1080,7 @@ Sont réputés disposer des compétences linguistiques nécessaires au sens de l
 - b. de s’exprimer spontanément et couramment, sans trop chercher leurs mots;
 - c. d’utiliser la langue de façon efficace et souple et de s’exprimer sur des sujets complexes de façon claire et structurée.
 
-[^38-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^38-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 39
 
@@ -1115,7 +1115,7 @@ Les pharmaciens sont admis s’ils remplissent les conditions suivantes:
 <sup>2</sup> Les cantons fixent les conditions auxquelles les médecins autorisés à tenir une pharmacie sont assimilés aux pharmaciens admis. Ils tiennent compte en particulier des possibilités d’accès des patients à une pharmacie.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^40-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^40-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 41
 
@@ -1140,7 +1140,7 @@ Les dentistes sont admis pour les prestations visées à l’art. 31 LAMal s’i
 - c. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^42-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^42-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 43
 
@@ -1170,10 +1170,10 @@ Les chiropraticiens sont admis s’ils remplissent les conditions suivantes:
 <sup>3</sup> Sont réservées les dispositions relatives à l’utilisation des radiations ionisantes en chiropratique, notamment l’art. 182, al. 1, let. d de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-5] ainsi que ses dispositions d’application émises par le Département fédéral de l’intérieur.[^44-6]
 
 [^44-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^44-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^44-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^44-3]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^44-4]: Abrogé par l’art. 17 de l’O du 27 juin 2007 concernant les diplômes, la formation universitaire, la formation postgrade et l’exercice des professions médicales universitaires, avec effet au 1<sup>er</sup> sept. 2007 ([RO 2007 4055](https://fedlex.data.admin.ch/eli/oc/2007/538)).
-[^44-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-5]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^44-6]: Nouvelle teneur selon l’annexe 11 ch. 7 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 44a
@@ -1213,7 +1213,7 @@ Les sages-femmes sont admises si elles remplissent les conditions suivantes:
 
 - c. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
 
-[^45-1]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^45-1]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 45a
 
@@ -1254,7 +1254,7 @@ Les physiothérapeutes sont admis s’ils remplissent les conditions suivantes:
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^47-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^47-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 48
 
@@ -1275,7 +1275,7 @@ Les ergothérapeutes sont admis s’ils remplissent les conditions suivantes:
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^48-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^48-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 49
 
@@ -1300,7 +1300,7 @@ Les infirmiers sont admis s’ils remplissent les conditions suivantes:
 <sup>2</sup> Les limitations cantonales du nombre d’infirmiers admis (art. 55*b* LAMal) sont réservées.[^49-3]
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^49-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^49-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 [^49-3]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
@@ -1346,7 +1346,7 @@ Les diététiciens sont admis s’ils remplissent les conditions suivantes:
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
 [^50a-1]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^50a-2]: [RS 811.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9324)
 
 #### Art. 50b
 
@@ -1366,7 +1366,7 @@ Les neuropsychologues sont admis s’ils remplissent les conditions suivantes:
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
 [^50b-1]: Introduit par le ch. I de l’O du 9 déc. 2016 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50b-2]: [RS 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 
 #### Art. 50c
 
@@ -1386,11 +1386,11 @@ Les psychologues-psychothérapeutes sont admis s’ils remplissent les condition
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
 
 [^50c-1]: Introduit par le ch. I de l’O du 19 mars 2021 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nouvelle teneur par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11126)
 [^50c-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^50c-4]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^50c-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^50c-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
+[^50c-4]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](https://www.bag.admin.ch/fr/documents-de-reference-relatifs-a-lordonnance-sur-lassurance-maladie-oamal-et-a-lordonnance-sur-les-prestations-de-lassurance-des-soins-opas-et-ses-annexes).
+[^50c-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](https://www.bag.admin.ch/fr/documents-de-reference-relatifs-a-lordonnance-sur-lassurance-maladie-oamal-et-a-lordonnance-sur-les-prestations-de-lassurance-des-soins-opas-et-ses-annexes).
+[^50c-6]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](https://www.bag.admin.ch/fr/documents-de-reference-relatifs-a-lordonnance-sur-lassurance-maladie-oamal-et-a-lordonnance-sur-les-prestations-de-lassurance-des-soins-opas-et-ses-annexes).
 
 #### Art. 50d
 
@@ -1412,7 +1412,7 @@ Les podologues sont admis s’ils remplissent les conditions suivantes:
 - e. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
 
 [^50d-1]: Introduit par le ch. I de l’O du 26 mai 2021 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^50d-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
+[^50d-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](https://www.bag.admin.ch/fr/documents-de-reference-relatifs-a-lordonnance-sur-lassurance-maladie-oamal-et-a-lordonnance-sur-les-prestations-de-lassurance-des-soins-opas-et-ses-annexes).
 
 #### Art. 51
 
@@ -1615,7 +1615,7 @@ Les laboratoires mandatés par un autre fournisseur de prestations admis et qui 
 <sup>6</sup> Au surplus, l’ordonnance générale du 8 septembre 2004 sur les émoluments[^54a-2] est applicable.
 
 [^54a-1]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)). Voir aussi la disp. trans. à la fin du texte.
-[^54a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Section 8 Centres de remise de moyens et d’appareils
 
@@ -1850,7 +1850,7 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 <sup>4</sup> Les fournisseurs de prestations veillent à ce que la facture soit compréhensible pour l’assuré et veillent en particulier à ce que le genre, la durée et le contenu du traitement soient exposés de manière claire.[^59-6]
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
+[^59-2]: [RS 832.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10143)
 [^59-3]: Nouvelle expression selon l’annexe ch. II 36 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
 [^59-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^59-5]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
@@ -1876,10 +1876,10 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 [^59a-1]: Introduit par le ch. I de l’O du 17 sept. 1997 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^59a-2]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^59a-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^59a-4]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^59a-5]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^59a-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59a-6]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^59a-7]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^59a-8]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1900,7 +1900,7 @@ Pour le domaine ambulatoire le DFI édicte des dispositions détaillées sur la 
 <sup>2</sup> Lorsque les indications médicales visées à l’art. 59, al. 1, ne sont pas conservées sous forme chiffrée, l’identité des assurés doit être protégée au moyen d’un pseudonyme pour la conservation de ces indications. L’utilisation du pseudonyme ou le chiffrement peuvent être levés uniquement par le médecin-conseil.[^59ater-4]
 
 [^59ater-1]: Introduit par le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
-[^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^59ater-3]: Nouvelle teneur selon l’annexe 2 ch. II 119 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^59ater-4]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 
@@ -2162,9 +2162,9 @@ L’OFSP peut assortir l’admission de conditions et de charges, notamment:
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
-[^65-3]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
+[^65-3]: [RS 832.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10191)
 [^65-4]: Introduit par l’annexe ch. 4 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/eli/cc/2001/519)
+[^65-5]: [RS 812.212.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9370)
 [^65-6]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 [^65-7]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
 
@@ -2589,7 +2589,7 @@ Les modifications suivantes de la liste des spécialités prennent effet trois m
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)).
 [^69-2]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
-[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^69-3]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 [^69-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
 #### Art. 69a
@@ -2673,7 +2673,7 @@ Des émoluments sont perçus:
 [^70b-1]: Anciennement art. 71. Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1353](https://fedlex.data.admin.ch/eli/oc/2013/318)).
 [^70b-2]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^70b-3]: Introduit par le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^70b-4]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 71
 
@@ -3071,7 +3071,7 @@ Les contrats de prestations visés aux art. 58*d*, al. 2, et 58*e*, al. 2, LAMal
 
 **Perception des contributions**[^77h-1]
 
-<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se fonde sur les chiffres de la population résidente permanente moyenne résultant du dernier relevé pour la statistique de la population et des ménages.
+<sup>1</sup> L’OFSP demande le 30 avril au plus tard aux cantons et aux assureurs de verser leur contribution pour l’année.
 
 <sup>2</sup> Les assureurs et les cantons qui ne versent pas leur contribution dans le délai imparti sont débiteurs d’intérêts moratoires de 5 % par an.
 
@@ -3112,7 +3112,7 @@ Le DFI désigne, après avoir consulté la commission compétente, les mesures p
 <sup>2</sup> L’OFSP octroie les droits d’accès.
 
 [^77kbis-1]: Introduit par l’art. 8 ch. 2 de l’O du 28 août 2024 sur les aides financières pour le dossier électronique du patient, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
-[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ### Titre 4*a* Projets pilotes
 
@@ -3316,7 +3316,7 @@ Les primes doivent être payées à l’avance et en principe tous les mois.
 <sup>2</sup> Le taux des intérêts rémunératoires s’élève à 5 % par année. Les prescriptions de l’art. 7 de l’ordonnance du 11 septembre 2002 sur la partie générale du droit des assurances sociales[^90a-2] sont applicables par analogie.
 
 [^90a-1]: Introduit par le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^90a-2]: [RS 830.11](https://fedlex.data.admin.ch/eli/cc/2002/569)
+[^90a-2]: [RS 830.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9994)
 
 #### Art. 90b
 
@@ -3367,7 +3367,7 @@ Les primes doivent être payées à l’avance et en principe tous les mois.
 
 [^91a-1]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^91a-2]: Abrogé par le ch. I de l’O du 11 déc. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)).
-[^91a-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91a-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^91a-4]: Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-5]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^91a-6]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -3414,7 +3414,7 @@ Lorsqu’un assuré réside à l’étranger, l’assureur prélève les primes 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
 [^part1-tit5-chap2-sec1b-1]: Introduite par le ch. I de l’O du 6 juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 92d
 
@@ -3442,8 +3442,8 @@ La suspension de l’échéance des primes prend fin sans paiement rétroactif d
 
 <sup>9</sup> L’assurance prend fin cinq ans après l’entrée en force de la décision de renvoi, pour autant que la personne ayant fait l’objet de la décision ait vraisemblablement quitté la Suisse.
 
-[^92d-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^92d-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^92d-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^92d-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### Section 2 Formes particulières d’assurance
 
@@ -3703,7 +3703,7 @@ Le taux des intérêts moratoires pour les primes échues selon l’art. 26, al.
 
 <sup>1</sup> L’assureur envoie la sommation en cas de non-paiement des primes et des participations aux coûts dans les trois mois qui suivent leur exigibilité. Il l’adresse séparément de toute sommation portant sur d’autres retards de paiement éventuels.
 
-<sup>2</sup> Lorsque l’assuré a causé par sa faute des dépenses qui auraient pu être évitées par un paiement effectué à temps, l’assureur peut percevoir des frais administratifs d’un montant approprié, pour autant qu’une telle mesure soit prévue par les conditions générales sur les droits et les obligations de l’assuré. Le DFI en détermine les montants maximaux*.*[^105b-2]
+<sup>2</sup> Lorsque l’assuré a causé par sa faute des dépenses qui auraient pu être évitées par un paiement effectué à temps, l’assureur peut percevoir des frais administratifs d’un montant approprié, pour autant qu’une telle mesure soit prévue par les conditions générales sur les droits et les obligations de l’assuré. Le DFI en détermine les montants maximaux.[^105b-2]
 
 [^105b-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
@@ -3740,14 +3740,25 @@ Le canton communique l’autorité cantonale compétente à l’assureur.
 
 #### Art. 105f
 
-**Annonces relatives aux actes de défaut de biens**[^105f-1]
+**Annonces relatives aux actes de défaut de biens et autres créances**[^105f-1]
 
-<sup>1</sup> L’assureur informe l’autorité cantonale compétente, dans les deux semaines qui suivent la fin de chaque trimestre, de l’évolution des actes de défaut de biens établis depuis le début de l’année*.*[^105f-2]
+<sup>1</sup> L’assureur annonce l’acte de défaut de biens ainsi que les autres créances au sens de l’art. 64*a*, al. 3<sup>bis</sup>, LAMal au canton dans lequel ils ont été établis.
 
-<sup>2</sup> Il annonce à l’autorité cantonale compétente, le 31 mars au plus tard, le décompte final des actes de défaut de biens qui ont été délivrés durant l’année précédente, ainsi que le rapport de révision qui s’y rapporte. Le décompte intègre le récapitulatif des demandes de prise en charge selon l’art. 64*a*, al. 3, de la loi et un récapitulatif des restitutions selon l’art. 64*a*, al. 5, de la loi.
+<sup>2</sup> Il informe l’autorité cantonale compétente, dans les deux semaines qui suivent la fin de chaque trimestre, de l’évolution des actes de défaut de biens établis depuis le début de l’année.
 
-[^105f-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105f-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+<sup>3</sup> Il annonce les créances au sens de l’art. 64*a*, al. 3<sup>bis</sup>, LAMal à l’autorité compétente du canton dans lequel l’enfant est domicilié à la naissance desdites créances, dans le délai prévu à l’al. 2. Il en justifie le montant et indique la raison pour laquelle il n’a pas pu obtenir d’acte de défaut de biens ou de titre équivalent.
+
+<sup>4</sup> Il annonce à l’autorité cantonale compétente, le 31 mars au plus tard, le décompte final des actes de défaut de biens et des autres créances au sens de l’art. 64*a*, al. 3<sup>bis</sup>, LAMal qui ont été délivrés durant l’année précédente. Il lui remet dans le même délai le rapport de révision qui s’y rapporte. Le décompte intègre le récapitulatif des demandes de prise en charge au sens de l’art. 64*a*, al. 3, 3<sup>bis</sup> et 5, LAMal et un récapitulatif des rétrocessions au sens de l’art. 64*a*, al. 4, LAMal.
+
+<sup>5</sup>
+
+Sur demande, l’assureur remet ou communique gratuitement à l’autorité cantonale compétente:
+
+- a. tous les documents apportant la preuve de l’existence et de l’étendue d’une créance;
+- b. dans le cas d’une cession, les renseignements nécessaires pour faire valoir ses droits au sens de l’art. 170, al. 2, du code des obligations[^105f-2].
+
+[^105f-1]: Introduit par le ch. I de l’O du 22 juin 2011 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 105f<sup>bis</sup>
 
@@ -3757,21 +3768,36 @@ Le canton communique l’autorité cantonale compétente à l’assureur.
 
 <sup>2</sup> L’autorité cantonale compétente peut choisir entre une reprise annuelle et une reprise trimestrielle des créances que l’assureur lui a annoncées. Elle annonce son choix dans le délai prévu à l’al. 1.
 
-[^105fbis-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+<sup>3</sup>
+
+L’assureur cède les créances à l’autorité cantonale compétente et lui transmet à sa charge les actes de défaut de biens, pour autant que les créances concernent des primes, des participations aux coûts, des intérêts moratoires ou des frais de poursuite. Il y procède dans les 30 jours qui suivent:
+
+- a. le versement du canton au sens de l’art. 105*k*, al. 3, let. a, en cas de reprise annuelle;
+- b. le versement de l’acompte du canton au sens de l’art. 105*k*, al. 2, en cas de reprise trimestrielle.
+
+<sup>4</sup> À moins que l’assuré soit en retard de paiement pour d’autres primes, participations aux coûts, intérêts moratoires ou frais de poursuite, l’assureur annule la suspension de la prise en charge des prestations au sens de l’art. 64*a*, al. 7, LAMal dans les 10 jours qui suivent la cession et en informe l’autorité cantonale compétente.
+
+<sup>5</sup> L’autorité cantonale compétente informe les assurés concernés du changement de créancier.
+
+[^105fbis-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, sous réserve des al. 3 à 5, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105g
 
 **Données personnelles**[^105g-1]
 
-Lors de l’annonce selon l’art. 64*a*, al. 3, de la loi, l’assureur fournit les données personnelles suivantes servant à identifier les assurés et les débiteurs:
+Lorsqu’il effectue une annonce au sens de l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal, l’assureur fournit les données personnelles suivantes servant à identifier les assurés et les débiteurs:[^105g-2]
 
 - a. le nom et le prénom;
 - b. le sexe;
 - c. la date de naissance;
-- d. le domicile;
-- e. le numéro AVS.
+- d.[^105g-3] l’adresse;
+- e. le numéro AVS;
+- f.[^105g-4] la langue de correspondance.
 
 [^105g-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105g-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105g-4]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105h
 
@@ -3795,41 +3821,64 @@ Sont assimilés à des actes de défaut de biens au sens de l’art. 64*a*, al. 
 
 <sup>1</sup>
 
-L’organe de contrôle vérifie l’exactitude des informations des assureurs concernant les créances selon l’art. 64*a*, al. 3, de la loi. Il contrôle si:
+L’organe de contrôle vérifie l’exactitude et l’exhaustivité des informations des assureurs concernant:
 
-- a. les indications concernant les débiteurs et les personnes assurées sont correctes;
-- b. la procédure de sommation selon l’art. 105*b* a été respectée;
-- c. un acte de défaut de biens existe;
-- d. la date de délivrance de l’acte de défaut de biens concerne l’année précédente;
-- e. le montant total des créances est exact;
-- f. la créance est annoncée au canton dans lequel l’acte de défaut de biens a été établi.
+- a. les créances visées à l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal;
+- b. le paiement des créances qui ont fait l’objet d’une annonce au sens de l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal;
+- c. les rétrocessions au canton prévues à l’art. 64*a*, al. 4, LAMal et les autres rétrocessions.
 
 <sup>2</sup>
 
-Il vérifie l’exactitude et l’exhaustivité des informations des assureurs concernant:
+Il contrôle pour les créances visées à l’art. 64*a*, al. 3, LAMal:
 
-- a. le paiement des créances arriérées après l’établissement de l’acte de défaut de biens;
-- b. les remboursements au canton en vertu de l’art. 64*a*, al. 5, LAMal.[^105j-2]
+- a. si les indications concernant les débiteurs et les personnes assurées sont correctes;
+- b. si la procédure de sommation visée à l’art. 105*b* a été respectée;
+- c. si un acte de défaut de biens ou un titre équivalent existe;
+- d. si la date de délivrance de l’acte de défaut de biens ou du titre équivalent concerne l’année précédente;
+- e. si le montant total des créances est exact;
+- f. si la créance a été annoncée au canton visé à l’art. 105*f*, al. 1;
+- g. si l’acte de défaut de biens ou le titre équivalent ne concerne pas une créance relevant de la LCA[^105j-2].
 
-<sup>3</sup> Lorsque le canton désigne un autre organe de contrôle que l’organe de révision visé à l’art. 25 LSAMal[^105j-3], il prend en charge les frais résultant des activités de celui-ci.[^105j-4]
+<sup>3</sup>
 
-[^105j-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105j-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^105j-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^105j-4]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Il contrôle pour les créances visées à l’art. 64*a*, al. 3<sup>bis</sup>, LAMal:
+
+- a. si les éléments prévus à l’al. 2, let. a, b, e et f, sont respectés;
+- b. si la raison pour laquelle l’assureur n’a pas pu obtenir d’acte de défaut de biens ou de titre équivalent est indiquée.
+
+<sup>4</sup> Le canton prend en charge les frais résultant des activités de l’organe de contrôle lorsqu’il désigne un autre organe de révision que celui visé à l’art. 25 LSAMal[^105j-3].
+
+[^105j-1]: Introduit par le ch. I de l’O du 22 juin 2011 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105j-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^105j-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 105k
 
-**Versements des cantons aux assureurs**[^105k-1]
+**Règlement des décomptes transmis par les assureurs**[^105k-1]
 
-<sup>1</sup> Lorsque les données personnelles et les annonces relatives aux actes de défaut de biens lui parviennent, l’autorité cantonale compétente peut transmettre à l’assureur les données personnelles selon l’art. 105*g* des assurés pour lesquels des montants sont pris en charge.
+<sup>1</sup> Lorsque les données personnelles et les annonces visées à l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal lui parviennent, l’autorité cantonale compétente peut transmettre à l’assureur les données personnelles au sens de l’art. 105*g* des assurés pour lesquels elle prend en charge des montants.
 
-<sup>2</sup> Le canton dans lequel l’acte de défaut de biens a été établi verse à l’assureur selon l’art. 64*a*, al. 4, de la loi les créances jusqu’au 30 juin, après déduction de la rétrocession selon l’art. 64*a*, al. 5, de la loi. Si la rétrocession dépasse les créances, l’assureur rembourse le solde au canton de résidence actuel jusqu’au 30 juin.
+<sup>2</sup> Si le canton a opté pour la reprise trimestrielle, il verse un acompte à l’assureur dans les 30 jours qui suivent l’annonce des créances par ce dernier. L’acompte correspond aux créances annoncées.
 
-<sup>3</sup> Si le canton accorde une réduction de primes pour une période pour laquelle l’assureur lui a déjà annoncé dans son décompte final une créance conformément à l’art. 64*a*, al. 3, LAMal, l’assureur rétrocède au canton 85 % de la réduction de primes en question. Les créances envers l’assuré sont réduites, sur l’acte de défaut de biens ou le titre équivalent, du montant intégral de la réduction de primes.[^105k-2]
+<sup>3</sup>
 
-[^105k-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^105k-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+Le canton verse à l’assureur, jusqu’au 30 juin:
+
+- a. les créances visées à l’art. 64*a*, al. 4 ou 5, LAMal en cas de reprise annuelle;
+- b. le solde selon le décompte final des créances visées à l’art. 64*a*, al. 5, LAMal en cas de reprise trimestrielle.
+
+<sup>4</sup> Il effectue le versement après avoir déduit les rétrocessions visées à l’art. 64*a*, al. 4, LAMal. Si elles dépassent les créances, l’assureur rembourse le solde au canton dans le même délai.
+
+<sup>5</sup> Si le canton accorde une réduction de primes pour une période pour laquelle l’assureur lui a déjà annoncé dans son décompte final une créance conformément à l’art. 64*a*, al. 3 ou 3<sup>bis</sup>, LAMal ou s’il annule une telle réduction en raison d’une double assurance, l’assureur lui rétrocède un pourcentage de la réduction de primes en question, d’un montant identique à celui pris en charge par le canton. Les créances envers l’assuré sont réduites, sur l’acte de défaut de biens ou le titre équivalent, du montant intégral de la réduction de primes.
+
+<sup>6</sup> Si l’assureur a déjà cédé une créance à l’autorité cantonale compétente et qu’il reçoit des montants en règlement total ou partiel de celle-ci, il doit les lui rétrocéder intégralement. L’intégralité des montants versés est déduite de l’acte de défaut de biens ou du titre équivalent.
+
+<sup>7</sup> Le canton ne verse rien à l’assureur pour les créances qui ont fait l’objet d’une annonce au sens de l’art. 64*a*, al. 3 et 3<sup>bis</sup>, LAMal si elles concernent aussi des créances relevant de la LCA[^105k-2].
+
+<sup>8</sup> L’autorité cantonale compétente peut requérir des assureurs des correctifs rétroactifs sur les décomptes finaux au sens de l’art. 105*f*, al. 4, dans un délai de trois ans à compter de leur réception.
+
+[^105k-1]: Introduit par le ch. I de l’O du 22 juin 2011 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105k-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 105l
 
@@ -3843,8 +3892,16 @@ Il vérifie l’exactitude et l’exhaustivité des informations des assureurs c
 
 <sup>3</sup> Si le paiement n’est pas parvenu à temps à l’assureur conformément à l’al. 2, celui-ci doit informer l’assuré qu’il continue à être assuré auprès de lui et qu’il ne pourra changer d’assureur qu’au prochain terme prévu à l’art. 7, al. 1 et 2, de la loi. L’assureur doit également informer le nouvel assureur, dans les 60 jours suivants, que l’assuré continue à être assuré auprès de lui.
 
+<sup>4</sup>
+
+Les assurés dont le canton a pris en charge 5 % supplémentaires des créances annoncées ne sont plus considérés comme étant en retard de paiement pour ces créances:
+
+- a. dès le versement du canton en cas de reprise annuelle;
+- b. dès le versement de l’acompte du canton en cas de reprise trimestrielle.[^105l-3]
+
 [^105l-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105l-2]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^105l-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 105m
 
@@ -3952,9 +4009,9 @@ Il peut compenser ses créances de primes restantes pour l’année civile et se
 
 <sup>6</sup> Le canton peut prévoir que l’assureur lui communique les données personnelles selon l’art. 105*g* et d’autres données relatives à ses assurés dans le canton concerné.
 
-[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
 [^106c-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
-[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^106c-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^106c-5]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
@@ -4009,9 +4066,9 @@ Toute personne qui satisfait aux exigences de l’art. 67, al. 1, de la loi peut
 Dans la mesure où, dans un cas d’assurance, des prestations de l’assurance-maladie sont en concours avec des prestations de même nature de l’assurance-accidents au sens de la LAA[^110-2], de l’assurance militaire, de l’assurance-vieillesse et survivants, de l’assurance-invalidité ou de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^110-3], les prestations de ces autres assurances sociales doivent être allouées en priorité. L’art. 128 de l’ordonnance du 20 décembre 1982 sur l’assurance-accidents[^110-4] est réservé.
 
 [^110-1]: Nouvelle teneur selon l’art. 45 ch. 1 de l’O du 24 nov. 2004 sur les allocations pour perte de gain, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
-[^110-2]: RS **8****3****2.20**
-[^110-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^110-4]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^110-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^110-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^110-4]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 111
 
@@ -4035,7 +4092,7 @@ Les assurés doivent aviser leur assureur-maladie de tout accident non déclaré
 
 <sup>2</sup> Si une personne est assurée pour des indemnités journalières auprès de plusieurs assureurs-maladie, chaque assureur est tenu d’avancer des prestations.
 
-[^112-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^112-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^112-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 113
@@ -4167,7 +4224,7 @@ Lorsqu’une décision est exigée en vertu de l’art. 51, al. 2, LPGA, l’ass
 
 [^130-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510)).
 [^130-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^130-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^130-3]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## Partie 5 Dispositions finales
 
@@ -4187,12 +4244,12 @@ Lorsqu’une décision est exigée en vertu de l’art. 51, al. 2, LPGA, l’ass
 
 <sup>2</sup> Un nouveau rapport d’assurance au sens de l’al. 1 ne peut être fondé que s’il permet de maintenir jusqu’au 31 décembre 1996 une couverture d’assurance correspondante qui était garantie par un assureur ayant renoncé à pratiquer l’assurance-maladie sociale (art. 99 LAMal).
 
-<sup>3</sup> Les caisses-maladie peuvent offrir aux personnes visées aux al. 1 et 2 de maintenir les rapports d’assurance sur une base contractuelle après le 31 décembre 1996. Le contrat peut être conclu auprès de la même caisse-maladie ou d’un autre assureur au sens de l’art. 11 de la loi. Le financement des prestations qui correspondent à celles de l’assurance obligatoire des soins est régi par les principes de l’assurance-maladie sociale. Les rapports d’assurance sont soumis à la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^132-1].[^132-2]
+<sup>3</sup> Les caisses-maladie peuvent offrir aux personnes visées aux al. 1 et 2 de maintenir les rapports d’assurance sur une base contractuelle après le 31 décembre 1996. Le contrat peut être conclu auprès de la même caisse-maladie ou d’un autre assureur au sens de l’art. 11 LAMal. Le financement des prestations qui correspondent à celles de l’assurance obligatoire des soins est régi par les principes de l’assurance-maladie so-ciale. Les rapports d’assurance sont soumis à la LCA[^132-1].[^132-2]
 
 <sup>4</sup> Lorsqu’un traitement commencé avant le 1<sup>er</sup> janvier 1997 se poursuit après cette date, la caisse-maladie doit maintenir le rapport d’assurance selon l’ancien droit jusqu’à la fin du traitement.[^132-3]
 
-[^132-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^132-2]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^132-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^132-2]: Introduit par le ch. I de l’O du 25 nov. 1996 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 [^132-3]: Introduit par le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 
 #### Art. 133
@@ -4217,7 +4274,7 @@ Les laboratoires déjà admis en vertu des art. 53 et 54 comme fournisseurs de p
 - b. s’ils présentent leur demande d’autorisation dans les trois mois suivant l’entrée en vigueur de l’ordonnance du 14 février 2007 sur l’analyse génétique humaine[^134-2].[^134-3]
 
 [^134-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^134-2]: [RS 810.122.1](https://fedlex.data.admin.ch/eli/cc/2022/585); en vigueur depuis le 1<sup>er</sup> avr. 2007.
+[^134-2]: [RS 810.122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9233); en vigueur depuis le 1<sup>er</sup> avr. 2007.
 [^134-3]: Introduit par l’art. 37 ch. 2 de l’O du 14 fév. 2007 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 135
@@ -4371,7 +4428,7 @@ Les dispositions de la présente ordonnance concernant l’organe de révision s
 [^u13-2]: Introduit par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-3]: Introduit par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 [^u13-4]: [RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)
-[^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 [^u13-6]: Introduit par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
 ## Disposition finale de la modification du 13 mars 2009
@@ -4382,7 +4439,7 @@ Les dispositions de la présente ordonnance concernant l’organe de révision s
 
 En collaboration avec l’OFSP, avec les offices préposés au paiement des rentes et avec les représentations suisses à l’étranger compétentes, l’institution commune informe les rentiers qui résident dans un des nouveaux États membres de la Communauté européenne de l’obligation de s’assurer, dans les trois mois au plus tard après l’entrée en vigueur du protocole du 27 mai 2008 relatif à l’extension de l’accord sur la libre circulation des personnes[^u14-2], concernant la participation de la Bulgarie et de la Roumanie, en tant que parties contractantes, à la suite de leur adhésion à l’Union européenne. Ces informations valent d’office pour les membres de la famille résidant dans un des nouveaux États membres de la communauté européenne. La Confédération prend en charge les frais d’information de l’institution commune.
 
-[^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
+[^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/212)
 
 ## Disposition transitoire de la modification du 24 juin 2009
 
@@ -4459,7 +4516,7 @@ Lorsqu’un assureur reçoit une demande de prise en charge de prestations par u
 L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norvège jusqu’à l’entrée en vigueur de la modification du …[^u20-2] de l’annexe K de l’Accord AELE.[^u20-3]
 
 [^u20-2]: RO …
-[^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Disposition transitoire de la modification du 4 juillet 2012
 
@@ -4539,7 +4596,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 <sup>2</sup> Les pharmaciens qui, à l’entrée en vigueur de la modification du 5 avril 2017 étaient déjà admis à pratiquer à la charge de l’assurance obligatoire des soins le restent.
 
-[^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ## Disposition transitoire de la modification du 19 mars 2021
 
@@ -4591,7 +4648,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 <sup>3</sup> Dans le cadre du réexamen prévu à l’art. 65*d*, les médicaments figurant sur la liste des médicaments en matière d’infirmités congénitales, qui fait partie de la liste des spécialités, sont transférés dans la liste des spécialités en matière d’infirmités congénitales au sens de l’art. 3<sup>sexies</sup> RAI ou dans la liste des spécialités au sens de l’art. 52, al. 1, de la loi.
 
-[^u31-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
+[^u31-2]: [RS 832.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10191)
 
 ## Dispositions transitoires de la modification du 22 septembre 2023
 
@@ -4607,23 +4664,37 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 <sup>4</sup> Lors du premier réexamen des conditions d’admission tous les trois ans après l’entrée en vigueur de la modification du 22 septembre 2023, le caractère économique des biosimilaires qui ont été admis dans la liste des spécialités avant l’entrée en vigueur de ladite modification est évalué sur la base des écarts de prix constatés lors de l’admission (art. 65*c*<sup>bis</sup>).
 
-## Disposition transitoire de la modification du 8 mai 2024
+## Dispositions transitoires de la modification du 22 novembre 2023
 
 [^u33-1]
 
-[^u33-1]: [RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
+[^u33-1]: [RO 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)
+
+<sup>1</sup> Le canton informe l’assureur, dans les deux semaines qui suivent la fin de chaque trimestre, de la prise en charge de 3 % supplémentaires d’une créance dont il avait déjà assumé une part de 85 % avant l’entrée en vigueur de la modification du 18 mars 2022 de la LAMal[^u33-2].
+
+<sup>2</sup> L’assureur confirme la créance dans les 30 jours qui suivent l’information par le canton ou l’informe de tout paiement obtenu depuis que ce dernier a versé la part de 85 %. Lorsque le canton a pris en charge 3 % supplémentaires de la créance, l’assureur la lui cède dans les trois mois qui suivent le versement du canton, pour autant qu’elle concerne des primes, des participations aux coûts, des intérêts moratoires ou des frais de poursuite.
+
+<sup>3</sup> L’assuré dont le canton a pris en charge 3 % supplémentaires d’une créance annoncée n’est plus considéré comme étant en retard de paiement dès le versement du canton.
+
+[^u33-2]: [RO 2022 701](https://fedlex.data.admin.ch/eli/oc/2022/701)
+
+## Disposition transitoire de la modification du 8 mai 2024
+
+[^u34-1]
+
+[^u34-1]: [RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
 
 Les cantons attribuent dans les deux ans qui suivent l’entrée en vigueur de la modification du 8 mai 2024 un mandat de prestations au sens de l’art. 36a, al. 3, LAMal aux organisations de soins et d’aide à domicile qui sont déjà admises à l’entrée en vigueur de ladite modification.
 
 ## Disposition transitoire de la modification du 7 juin 2024
 
-[^u34-1]
+[^u35-1]
 
-[^u34-1]: [RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
+[^u35-1]: [RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
 
-L’expérience clinique acquise jusqu’au 31 décembre 2023 dans des institutions proposant des traitements psychothérapeutiques et psychiatriques qui disposaient d’une reconnaissance de l’Institut suisse pour la formation médicale postgraduée en tant qu’établissement de formation postgraduée ambulatoire ou hospitalier de catégorie A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> juillet 2009 dans la version du 15 décembre 2016[^u34-2] est assimilée à l’expérience clinique visée à l’art. 50*c*, let. b, ch. 1.
+L’expérience clinique acquise jusqu’au 31 décembre 2023 dans des institutions proposant des traitements psychothérapeutiques et psychiatriques qui disposaient d’une reconnaissance de l’Institut suisse pour la formation médicale postgraduée en tant qu’établissement de formation postgraduée ambulatoire ou hospitalier de catégorie A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> juillet 2009 dans la version du 15 décembre 2016[^u35-2] est assimilée à l’expérience clinique visée à l’art. 50*c*, let. b, ch. 1.
 
-[^u34-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^u35-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](https://www.bag.admin.ch/fr/documents-de-reference-relatifs-a-lordonnance-sur-lassurance-maladie-oamal-et-a-lordonnance-sur-les-prestations-de-lassurance-des-soins-opas-et-ses-annexes).
 
 Annexe 1[^t-1]
 
