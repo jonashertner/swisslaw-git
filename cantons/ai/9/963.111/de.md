@@ -3,21 +3,19 @@ canton: AI
 number: "963.111"
 title: Standeskommissionsbeschluss über die Verwendung des Feuerwehrfonds
 language: de
-version: 2006-02-07
-corrected: 2018-09-04
-version_adopted: 2006-02-07
+version: 2025-07-01
+version_adopted: 2025-07-01
 adopted: 2006-02-07
 in_force: 2006-02-07
 url: "https://ai.clex.ch/app/de/texts_of_law/963.111"
-pdf: "https://ai.clex.ch/api/de/versions/1019/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2371/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Verwendung des Feuerwehrfonds
 
-vom 7. Februar 2006
+vom 07.02.2006 (Stand 01.07.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -29,7 +27,7 @@ beschliesst:
 
 **Zweck**
 
-Dieser Standeskommissionsbeschluss regelt die Ausrichtung von Beiträgen an grössere Anschaffungen im Sinne von Art. 29 Abs. 4 FSV.
+<sup>1</sup> Dieser Standeskommissionsbeschluss regelt die Ausrichtung von Beiträgen an grössere Anschaffungen im Sinne von Art. 29 Abs. 4 FSV.
 
 #### Art. 2
 
@@ -38,29 +36,21 @@ Dieser Standeskommissionsbeschluss regelt die Ausrichtung von Beiträgen an grö
 <sup>1</sup> Es werden an folgende Anschaffungen Beiträge ausgerichtet:
 
 - a) Tank- und Universallöschfahrzeuge;
-
 - b) Atemschutz-, Einsatzleit- und Rüstfahrzeuge;
-
 - c) Zug- und Personentransportfahrzeuge;
-
 - d) Schlauchauslegefahrzeuge;
-
 - e) Autodrehleitern / Hubretter;
-
-- f) Atemschutzgeräte und Zubehör.
+- f) Atemschutzgeräte und Zubehör;
+- g) Grosslüfter.
 
 <sup>2</sup> Bei der Anschaffung von Fahrzeugen sind zugehörige Gerätschaften und Ausrüstungsgegenstände nicht beitragsberechtigt.
 
 <sup>3</sup> Soweit es der Feuerwehrfonds zulässt, wird jährlich eine Globalsubvention ausgerichtet. Die Höhe richtet sich nach den folgenden Kriterien:
 
 - a) Grundbeitrag;
-
 - b) Sollbestand der Feuerwehren;
-
 - c) Anteil Bevölkerung;
-
 - d) Anzahl Gebäude;
-
 - e) Höhe des Feuerversicherungswertes der Gebäude.
 
 <sup>4</sup> Die Feuerwehrkommission stellt der Standeskommission Antrag, welche bei ihren Beschlüssen berücksichtigt, dass die Ersatzabgaben möglichst tief zu halten sind.
@@ -81,13 +71,19 @@ Dieser Standeskommissionsbeschluss regelt die Ausrichtung von Beiträgen an grö
 
 **Abrechnung**
 
-Die Abrechnung einer Anschaffung, welche der Feuerwehrkommission einzureichen ist, muss eine Rechnungszusammenstellung mit den entsprechenden Auszahlungsbelegen enthalten.
+<sup>1</sup> Die Abrechnung einer Anschaffung muss eine detaillierte Rechnungszusammenstellung mit den entsprechenden Auszahlungsbelegen enthalten.
+
+<sup>2</sup> Die Abrechnung sowie die Beilagen sind beim Sekretär der Feuerwehrkommission einzureichen. Dieser überprüft die ordnungsgemässe Erstellung und sachliche Richtigkeit der Abrechnung.
+
+<sup>3</sup> Die Prüfung umfasst insbesondere die Kontrolle der Vollständigkeit, Nachvollziehbarkeit und Übereinstimmung der Abrechnung mit den zugrunde liegenden Beschlüssen und Belegen.
+
+<sup>4</sup> Das Ergebnis der Prüfung ist der Feuerwehrkommission in geeigneter Form zur Kenntnis zu bringen.
 
 #### Art. 5
 
 **Auszahlung**
 
-<sup>1</sup> Die Auszahlung erfolgt nach Genehmigung der Abrechnung durch die Feuerwehrkommission.
+<sup>1</sup> Die Auszahlung erfolgt nach durchgeführter Abrechnung sowie der Genehmigung durch den Vorsitzenden der Feuerwehrkommission.
 
 <sup>2</sup> Der Zeitpunkt der Auszahlung kann je nach Stand und Möglichkeit des Feuerwehrfonds hinausgeschoben werden, sofern es die Finanzlage des Feuerwehrfonds erfordert. Die Beitragszusicherung bleibt jedoch in jedem Fall gewahrt.
 
@@ -97,41 +93,29 @@ Die Abrechnung einer Anschaffung, welche der Feuerwehrkommission einzureichen is
 
 **Beitragssätze**
 
-Es gelten folgende Beitragssätze:
+<sup>1</sup> Es gelten folgende Beitragssätze:
 
-- a) Tank- und Universallöschfahrzeuge: 44 %;
-
-- b) Atemschutz-, Einsatzleit- und Rüstfahrzeuge: 40 %;
-
-- c) Zug- und Personentransportfahrzeuge: 30 %;
-
-- d) Schlauchauslegefahrzeuge: 30 %;
-
-- e) Autodrehleitern / Hubretter: 50 %;
-
-- f) Atemschutzgeräte und Zubehör: 40 %.
+- a) Tank- und Universallöschfahrzeuge: — 44%;
+- b) Atemschutz-, Einsatzleit- und Rüstfahrzeuge: — 40%;
+- c) Zug- und Personentransportfahrzeuge: — 30%;
+- d) Schlauchauslegefahrzeuge: — 30%;
+- e) Autodrehleitern / Hubretter: — 50%;
+- f) Atemschutzgeräte und Zubehör: — 40%;
+- g) Grosslüfter: — 40%.
 
 #### Art. 7
 
-**Amortisationsfris-**
+**Amortisationsfristen**
 
 <sup>1</sup> Für die Amortisation gelten folgende Fristen:
 
-**20 Jahre; ten**
-
-- a) Tank- und Universallöschfahrzeuge:
-
-- b) Atemschutz-, Einsatzleit- und Rüstfahrzeuge: 20 Jahre;
-
-**15 Jahre; 20 Jahre; 25 Jahre;**
-
-- c) Zug- und Personentransportfahrzeuge:
-
-- d) Schlauchauslegefahrzeuge:
-
-- e) Autodrehleitern / Hubretter:
-
-- f) Atemschutzgeräte und Zubehör: Nach den Sicherheitsvorschriften des Schweizerischen Feuerwehrverbandes.
+- a) Tank- und Universallöschfahrzeuge: — 20 Jahre;
+- b) Atemschutz-, Einsatzleit- und Rüstfahrzeuge: — 20 Jahre;
+- c) Zug- und Personentransportfahrzeuge: — 15 Jahre;
+- d) Schlauchauslegefahrzeuge: — 20 Jahre;
+- e) Autodrehleitern / Hubretter: — 25 Jahre;
+- f) Atemschutzgeräte und Zubehör: Nach den Sicherheitsvorschriften des Schweizerischen Feuerwehrverbandes: — 20 Jahre;
+- g) Grosslüfter: — 20 Jahre.
 
 <sup>2</sup> In speziell begründeten Fällen kann die Feuerwehrkommission der Standeskommission beantragen, von diesen Fristen abzuweichen.
 
@@ -139,10 +123,12 @@ Es gelten folgende Beitragssätze:
 
 **Weitere Beiträge aus Feuerwehrfonds**
 
-Die Beiträge betreffend Grundbeitrag der Stützpunktfeuerwehr, den Ausbildungskosten, Kosten Feuerwehrinspektorat, Verbandsbeiträge und Aufwendungen der Feuerwehrkommission sowie weitere von der Standeskommission genehmigte Beiträge fallen nicht unter diesen Standeskommissionsbeschluss.
+<sup>1</sup> Die Beiträge betreffend Grundbeitrag der Stützpunktfeuerwehr, den Ausbildungskosten, Kosten Feuerwehrinspektorat, Verbandsbeiträge und Aufwendungen der Feuerwehrkommission sowie weitere von der Standeskommission genehmigte Beiträge fallen nicht unter diesen Standeskommissionsbeschluss.
 
 #### Art. 9
 
 **Inkrafttreten**
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+
+cGS -
