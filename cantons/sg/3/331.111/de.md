@@ -4,12 +4,12 @@ number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
 version: 2025-07-01
-valid_until: 2025-12-31
+corrected: 2025-06-13
 version_adopted: 2025-05-13
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3784/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3735/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -167,8 +167,6 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die Sozialversicherungsanstalt ermittelt im Januar des Bezugsjahres zusammen mit den Steuerbehörden die voraussichtlich anspruchsberechtigten Personen.
 
 <sup>2</sup> Ausgenommen sind Personen nach Art. 22 Abs. 2 dieser Verordnung.
-
-<sup>3</sup> Für Beziehende von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen kann die Sozialversicherungsanstalt auch unterjährig periodische Abgleiche der Daten mit den zuständigen Stellen der politischen Gemeinden vornehmen.
 
 #### Art. 12
 
