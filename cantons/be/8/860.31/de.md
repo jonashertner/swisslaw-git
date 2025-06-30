@@ -4,13 +4,13 @@ number: "860.31"
 title: Verordnung über die Leistungen für Menschen mit Behinderungen
 short: BLV
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-11-20
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-11
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3090/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3195/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3090/pdf_file"
 
 (BLV)
 
-vom 22.11.2023 (Stand 01.01.2025)
+vom 22.11.2023 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -347,7 +347,7 @@ beschliesst:
 <sup>1</sup> Die BPS gewichtet die geprüften und bereinigten Leistungsstunden, indem sie diese mit folgenden Referenzansätzen multipliziert:
 
 - a A-Leistungen mit dem Referenzansatz — 1
-- b B-Leistungen mit dem Referenzansatz — 0,8
+- b B-Leistungen mit dem Referenzansatz — 0,81
 - c C-Leistungen mit dem Referenzansatz — 0,54
 
 #### Art. 27

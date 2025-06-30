@@ -4,13 +4,13 @@ number: "860.31"
 title: Ordonnance sur les prestations de soutien aux personnes en situation de handicap
 short: OPHand
 language: fr
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-11-20
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-06-11
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3090/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3195/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3090/pdf_file"
 
 (OPHand)
 
-du 22.11.2023 (état au 01.01.2025)
+du 22.11.2023 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -347,7 +347,7 @@ arrête:
 <sup>1</sup> Le SEB pondère les heures de prestations vérifiées et corrigées en les multipliant par les taux de référence suivants:
 
 - a 1 — pour les prestations de catégorie A,
-- b 0,8 — pour les prestations de catégorie B,
+- b 0,81 — pour les prestations de catégorie B,
 - c 0,54 — pour les prestations de catégorie C.
 
 #### Art. 27
