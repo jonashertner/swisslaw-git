@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2025-05-01
+version: 2025-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Mai 2025)
+vom 25. November 1998 (Stand am 1. Juli 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 24, 43, 47, 57*c* Absatz 2 und 57*g* Absatz 1 des Regi
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-3]: Fassung gemäss Ziff. I 1 der Karenzfristverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 ## 1. Kapitel: Der Bundesrat
@@ -130,7 +130,7 @@ Der Bundesrat entscheidet in jedem Fall:
 
 <sup>3</sup> Gesuche um Einsichtnahme in Beschlüsse des Bundesrates werden von der Bundeskanzlei im Einvernehmen mit dem zuständigen Departement bearbeitet und beantwortet.
 
-[^5a-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5a-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 ## 1*b*. Kapitel: Konsultation der für die Aussenpolitik zuständigen parlamentarischen Kommissionen
 
@@ -149,7 +149,7 @@ Eine Konsultation der für die Aussenpolitik zuständigen Kommissionen zu wesent
 
 <sup>2</sup> Eine Konsultation nach Absatz 1 erfolgt auf Basis eines Mandatsentwurfs des Bundesrates. Im Fall dringlicher Konsultationen nach Artikel 152 Absatz 4 ParlG kann die Konsultation zu vorläufigen Positionen erfolgen, welche die Schweiz in Verhandlungen einzunehmen gedenkt.
 
-[^5b-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5b-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 ## 1*c*. Kapitel: Berichterstattung über die vertraulichen oder geheimen Erlasse, völkerrechtlichen Verträge und Beschlüsse des internationalen Rechts
 
@@ -175,7 +175,7 @@ Die Bundeskanzlei führt eine laufend aktualisierte Liste:
 
 <sup>3</sup> Der Bundesrat übermittelt der Geschäftsprüfungsdelegation einmal jährlich die Liste nach Absatz 2.
 
-[^5c-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^5c-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## 2. Kapitel: Die Verwaltung
 
@@ -197,7 +197,7 @@ Die Bundeskanzlei führt eine laufend aktualisierte Liste:
 
 <sup>3</sup> Externe Träger von Verwaltungsaufgaben im Sinne von Artikel 2 Absatz 4 RVOG, die überwiegend Dienstleistungen am Markt erbringen, fallen nicht unter den Bestand der Bundesverwaltung. Dies gilt auch für Organisationen und Personen des Privatrechts, die der Bund mit Finanzhilfen oder Abgeltungen nach Artikel 3 des Subventionsgesetzes vom 5. Oktober 1990[^6-1] unterstützt oder an denen er mit einer Minderheit beteiligt ist.
 
-[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 7
 
@@ -407,7 +407,7 @@ Jedes Kommissionsmitglied informiert über seine:
 <sup>4</sup> Das Kommissionsmitglied, das seine Interessenbindungen anlässlich der Wahl nicht vollständig offengelegt oder Änderungen der Interessenbindungen während der Amtsdauer nicht gemeldet hat und dies auch nach entsprechender Aufforderung durch die zuständige Behörde unterlässt, kann abberufen werden.[^8f-4]
 
 [^8f-1]: Siehe auch Abs. 2 der UeB der Änd. vom 26. Nov. 2008 am Schluss dieses Textes.
-[^8f-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8f-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^8f-3]: Fassung gemäss Ziff. I 8.1 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 [^8f-4]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
@@ -490,7 +490,7 @@ Kommissionen, die gemäss ihrer Einsetzungsverfügung ohne Rücksprache mit der 
 
 [^8j-1]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 [^8j-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
-[^8j-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8j-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^8j-4]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 8j<sup>bis</sup>
@@ -808,8 +808,8 @@ Die Planungen des Bundesrates bestehen aus:
 
 <sup>5</sup> Für die untergeordneten Verwaltungseinheiten sind die Pläne des Bundesrates und der Departemente verbindlich.
 
-[^17-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)Ziff. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 Ziff. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327);[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 7, [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 3. [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. Siehe heute das Finanzhaushaltgesetz vom 7. Okt. 2005 ([SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
-[^17-2]: [[AS 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)Anhang Ziff. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)Art. 32 Ziff. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 Ziff. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)Art. 15. [AS 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)Art. 76]. Siehe heute die Finanzhaushaltverordnung vom 5. April 2006 ([SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^17-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)Ziff. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 Ziff. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327);[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 7, [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 3. [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. Siehe heute das Finanzhaushaltgesetz vom 7. Okt. 2005 ([SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)).
+[^17-2]: [[AS 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)Anhang Ziff. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)Art. 32 Ziff. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 Ziff. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)Art. 15. [AS 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)Art. 76]. Siehe heute die Finanzhaushaltverordnung vom 5. April 2006 ([SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)).
 [^17-3]: Ausdruck gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 18
@@ -826,7 +826,7 @@ Die Planungen des Bundesrates bestehen aus:
 
 <sup>3</sup> Sie legen die Ziele und Wirkungen sowie die prioritären Massnahmen fest und bezeichnen die Bereiche, wo das staatliche Leistungsangebot überprüft werden muss oder abgebaut werden kann.
 
-[^18-1]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); **1966** 1375; **1970** 1249; [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/245_249_249), [1514](https://fedlex.data.admin.ch/eli/oc/1972/1514_1543_1715); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)Ziff. II 1; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. I, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)Ziff. II, [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. I 3]. Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^18-1]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); **1966** 1375; **1970** 1249; [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/245_249_249), [1514](https://fedlex.data.admin.ch/eli/oc/1972/1514_1543_1715); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)Ziff. II 1; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. I, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)Ziff. II, [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. I 3]. Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 19
 
@@ -838,7 +838,7 @@ Die Planungen des Bundesrates bestehen aus:
 
 <sup>2</sup> Die Jahresziele bilden eine Grundlage für die Geschäftsplanung des Bundesrates nach Artikel 2, für das Controlling nach Artikel 21, für die Aufsicht nach Abschnitt 5 sowie für die jährliche Geschäftsberichterstattung nach Artikel 45 des Geschäftsverkehrsgesetzes vom 23. März 1962[^19-1] (GVG).
 
-[^19-1]: Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20
 
@@ -850,7 +850,7 @@ Die Planungen des Bundesrates bestehen aus:
 
 <sup>2</sup> Sie erstatten im Rahmen der jährlichen Geschäftsberichterstattung des Bundesrates nach Artikel 45 GVG[^20-1] Bericht über ihre Tätigkeit.
 
-[^20-1]: Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^20-1]: Siehe heute das Parlamentsgesetz vom 13. Dez. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 21
 
@@ -871,7 +871,7 @@ Die Planungen des Bundesrates bestehen aus:
 <sup>2</sup> Sie setzen zu diesem Zweck elektronische Geschäftsverwaltungssysteme nach der GEVER-Verordnung vom 3. April 2019[^22-2] ein, soweit die Gesetzgebung nicht eine andere Art der Geschäftsverwaltung vorsieht.
 
 [^22-1]: Fassung gemäss Art. 20 Ziff. 3 der GEVER-Verordnung vom 3. April 2019, in Kraft seit 1. April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
-[^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5036)
 
 ### 3*a*. Abschnitt: Ausnahmen von der Führung mit Leistungsvereinbarung
 
@@ -922,9 +922,9 @@ Vom Erfordernis der Doppelunterschrift ausgenommen sind:
   - 1\. sich auf das Mehrwertsteuergesetz vom 12. Juni 2009[^22c-1], das Verrechnungssteuergesetz vom 13. Oktober 1965[^22c-2] oder das Bundesgesetz vom 27. Juni 1973 über die Stempelabgabe[^22c-3] stützen, und
   - 2\. aufgrund ihrer grossen Anzahl nicht einzeln von einer Vertretung der Behörde unterzeichnet werden (Massenverfahren).
 
-[^22c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^22c-2]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
-[^22c-3]: [SR 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^22c-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^22c-2]: [SR 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
+[^22c-3]: [SR 641.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8072)
 
 ### 4. Abschnitt: Information und Kommunikation
 
@@ -1082,7 +1082,7 @@ Der Bundesrat und die Bundespräsidentin oder der Bundespräsident werden bei de
 <sup>3</sup> Die EFV koordiniert unter Einbezug der Generalsekretärenkonferenz die Überprüfung nach Absatz 1 mit der Überprüfung nach Artikel 5 des Subventionsgesetzes vom 5. Oktober 1990[^27-2].[^27-3]
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2002, in Kraft seit 1. Okt. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^27-3]: Eingefügt durch Anhang Ziff. 1 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ### 6. Abschnitt: Administrativuntersuchung
@@ -1099,7 +1099,7 @@ Der Bundesrat und die Bundespräsidentin oder der Bundespräsident werden bei de
 
 <sup>2</sup> Die Administrativuntersuchung richtet sich nicht gegen bestimmte Personen. Die Disziplinaruntersuchung nach Artikel 98 der Bundespersonalverordnung vom 3. Juli 2001[^27a-1] sowie strafrechtliche Verfahren bleiben vorbehalten.
 
-[^27a-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^27a-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 27b
 
@@ -1135,7 +1135,7 @@ Mit der Administrativuntersuchung sind Personen zu betrauen, die:
 
 <sup>4</sup> Die Bestimmungen über den Ausstand nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968[^27d-1] über das Verwaltungsverfahren (VwVG) gelten sinngemäss.
 
-[^27d-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27d-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 27e
 
@@ -1179,7 +1179,7 @@ Die anordnende Stelle erteilt einen schriftlichen Untersuchungsauftrag. Darin wi
 
 <sup>5</sup> Sie haben Anspruch auf rechtliches Gehör (Art. 29–33 VwVG).
 
-[^27g-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27g-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 27h
 
@@ -1198,7 +1198,7 @@ Die anordnende Stelle erteilt einen schriftlichen Untersuchungsauftrag. Darin wi
 Jede Dienststelle, die vom Untersuchungsorgan zur Bekanntgabe von Personendaten aufgefordert wird, hat in eigener Kompetenz sicherzustellen, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^27i-2] eingehalten werden.
 
 [^27i-1]: Fassung gemäss Anhang 2 Ziff. II 14 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^27i-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^27i-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 27j
 
@@ -1393,7 +1393,7 @@ Die Weisungen und Arbeitshilfen regeln insbesondere:
 - m. die Koordination der Information und Kommunikation.
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. Siehe heute die Vernehmlassungsverordnung vom 17. Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
+[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. Siehe heute die Vernehmlassungsverordnung vom 17. Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5217)).
 
 ### 2. Abschnitt: Bewilligungen zur Vornahme von Handlungen für einen fremden Staat und für internationale Gerichte
 
@@ -1411,8 +1411,8 @@ Die Weisungen und Arbeitshilfen regeln insbesondere:
 
 <sup>3</sup> Die Entscheide sind der Bundesanwaltschaft und den mitinteressierten Departementen zuzustellen.[^31-4]
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: [SR 351.20](https://fedlex.data.admin.ch/eli/cc/1996/2_2_2). Heute: BG.
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^31-2]: [SR 351.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6280). Heute: BG.
 [^31-3]: Eingefügt durch Anhang Ziff. 2 der V vom 19. Dez. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 [^31-4]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Dez. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
@@ -1588,7 +1588,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td>1.8</td><td colspan="4">Bundesamt für Cybersicherheit (BACS) Office fédéral de la cybersécurité (OFCS) Ufficio federale della cibersicurezza (UFCS) Uffizi federal da la cybersegirezza (UFCS)</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="5">**Verwaltungseinheiten der** dezentralen **Bundesverwaltung:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">2.1</td><td colspan="3">Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersönlichkeit:</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.1.1</td><td colspan="2">Unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten Autorité de surveillance indépendante des activités de renseignement Autorità de vigilanza indipendente sulle attività informative Autoridad da surveglianza independenta davart las activitads d'informaziun</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.1.1</td><td colspan="2">Unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten (AB-ND) Autorité de surveillance indépendante des activités de renseignement (AS-Rens) Autorità de vigilanza indipendente sulle attività informative (AVI-AIn) Autoridad da surveglianza independenta davart las activitads d'informaziun (AS-AIn)</td></tr>
 </table>
 
 <table>
@@ -1607,8 +1607,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersönlichkeit:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Rechtlich verselbstständigte Körperschaften, Anstalten und Stiftungen:**</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (PUBLICA) Caisse fédérale de pensions (PUBLICA) Cassa pensioni della Confederazione (PUBLICA) Cassa federala da pensiun (PUBLICA)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Keine</td></tr>
@@ -1661,13 +1660,13 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Keine</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="3">**Rechtlich verselbstständigte Körperschaften, Anstalten und Stiftungen:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.1</td><td>Eidgenössisches Nuklearsicherheitsinspektorat (ENSI) Inspection fédérale de la sécurité nucléaire (IFSN) Ispettorato federale della sicurezza nucleare (IFSN) Inspecturat federal per la segirezza nucleara (IFSN)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen Fonds de désaffectation et Fonds de gestion pour les installations nucléaires Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari Fond da serrada e fond da dismessa per ils implants nuclears</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.3</td><td>Schweizerische Trassenvergabestelle (Trassenvergabestelle) Service suisse d’attribution des sillons (Service d’attribution des sillons) Servizio svizzero di assegnazione delle tracce (Servizio di assegnazione delle tracce) Servetsch svizzer d’attribuziun dals trassés (Servetsch d’attribuziun dals trassés)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen (STENFO) Fonds de désaffectation et Fonds de gestion pour les installations nucléaires (STENFO) Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari (STENFO) Fond da serrada e fond da dismessa per ils implants nuclears (STENFO)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.3</td><td>Schweizerische Trassenvergabestelle (TVS) Service suisse d’attribution des sillons (SAS) Servizio svizzero di assegnazione delle tracce (SAT) Servetsch svizzer d’attribuziun dals trassés (SAT)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Keine</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. August 2021 angepasst.
+[^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. August 2021 angepasst.
 
 Anhang 2[^t-2]
 
@@ -1714,7 +1713,7 @@ Anhang 2[^t-2]
 <tr><td>VBS</td><td>Eidgenössische Kommission für Jugend- und Rekrutenbefragungen Eidgenössische Kommission für Telematik im Bereich Rettung und Sicherheit Rüstungskommission</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl13-1]: Die Bezeichnung der Kommission wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2024 angepasst.
+[^annex2-lvlu1-lvl1-lvl13-1]: Die Bezeichnung der Kommission wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2024 angepasst.
 [^annex2-lvlu1-lvl1-lvl13-2]: Diese Kommission wurde auf Ende 2020 aufgelöst.
 [^annex2-lvlu1-lvl1-lvl13-3]: Die Bezeichnung der Kommission wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2016 angepasst.
 
@@ -1740,7 +1739,7 @@ Anhang 3[^t-3]
 
 ## Zuordnung der verselbstständigten Einheiten zum Departement mit dem engsten Sachbezug und gemeinsame Ausübung der Eignerrechte mit der EFV
 
-[^t-3]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 729](https://fedlex.data.admin.ch/eli/oc/2023/729)).
+[^t-3]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 411](https://fedlex.data.admin.ch/eli/oc/2025/411)).
 
 <table>
 <tr><th>Verselbstständigte Einheit</th><th>Departement mit engstem Sachbezug und zuständige Verwaltungseinheit</th><th>Gemeinsame Ausübung der Eignerrechte</th></tr>
@@ -1759,7 +1758,7 @@ Anhang 3[^t-3]
 <tr><td>Identitas AG</td><td>EDI (GS) / WBF (GS)</td><td></td></tr>
 <tr><td>Innosuisse</td><td>WBF (GS)</td><td></td></tr>
 <tr><td>RUAG MRO Holding AG</td><td>VBS (GS)</td><td>EFD (EFV)</td></tr>
-<tr><td>RUAG International Holding AG</td><td>EFD (EFV)</td><td></td></tr>
+<tr><td>RUAG International Holding AG</td><td>VBS (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>Swisscom AG</td><td>UVEK (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>Schweizerische Post AG</td><td>UVEK (GS)</td><td>EFD (EFV)</td></tr>
 <tr><td>SBB AG</td><td>UVEK (GS)</td><td>EFD (EFV)</td></tr>

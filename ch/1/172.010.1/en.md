@@ -4,11 +4,11 @@ title: Government and Administration Organisation Ordinance of 25 November 1998 
 short: GAOO
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: en
-version: 2025-05-01
+version: 2025-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250501/en/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250501-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20250701/en/xml/fedlex-data-admin-ch-eli-cc-1999-170-20250701-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (GAOO)
 
-of 25 November 1998 (Status as of 1 May 2025)
+of 25 November 1998 (Status as of 1 July 2025)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ having regard to Articles 24, 43, 47, 57*c* paragraph 2 and 57*g* paragraph 1 of
 
 ordains:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-3]: Amended by No I 1 of the Waiting Period Ordinance of 25 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 ## Chapter 1 The Federal Council
@@ -132,7 +132,7 @@ The Federal Council shall decide in each case:
 
 <sup>3</sup> Requests to inspect Federal Council decisions are processed and answered by the Federal Chancellery in consultation with the competent department.
 
-[^5a-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5a-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 ## Chapter 1*b* Consultation of the Parliamentary Committees responsible for Foreign Policy
 
@@ -151,7 +151,7 @@ The committees responsible for foreign policy shall be consulted on important pl
 
 <sup>2</sup> Consultation in accordance with paragraph 1 shall take place on the basis of a draft mandate from the Federal Council. In the case of urgent consultations in accordance with Article 152 paragraph 4 ParlA, consultation may take place on provisional positions that Switzerland intends to adopt in negotiations.
 
-[^5b-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5b-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 ## Chapter 1*c* Reporting on Confidential or Secret Legislation, International Treaties and Decisions under International Law
 
@@ -177,7 +177,7 @@ The Federal Chancellery shall maintain a continuously updated list of:
 
 <sup>3</sup> The Federal Council shall send the list in accordance with paragraph 2 to the Control Delegation once a year.
 
-[^5c-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^5c-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## Chapter 2 The Administration
 
@@ -197,9 +197,9 @@ The Federal Chancellery shall maintain a continuously updated list of:
 
 <sup>2</sup> Public or private entities that have been created by statute and predominantly provide services of a monopolistic nature or perform economic or security supervisory tasks fall within the scope of the decentralised federal administration.
 
-<sup>3</sup> External providers of administrative tasks within the meaning of Article 2 paragraph 4 GAOA that predominantly provide services on the market are not part of the Federal Administration's. This also applies to private law entities which the Confederation supports with financial assistance or contributions under Article 3 of the Subsidies Act of 5 October 1990[^6-1] or in which it holds a minority interest.
+<sup>3</sup> External providers of administrative tasks within the meaning of Article 2 paragraph 4 GAOA that predominantly provide services on the market are not part of the Federal Administration’s. This also applies to private law entities which the Confederation supports with financial assistance or contributions under Article 3 of the Subsidies Act of 5 October 1990[^6-1] or in which it holds a minority interest.
 
-[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 7
 
@@ -345,7 +345,7 @@ The establishment order shall have the following in particular as content:
 - i. If necessary, it regulates the relations of the commission with cantons, parties and other organisations.
 - j.[^8e-5] It assigns the commission to the competent authority (a department or the Federal Chancellery) and designates the administrative office that provides the secretariat for the commission.
 - k.[^8e-6] It names the body responsible for financing the extra-parliamentary commission.
-- l.[^8e-7] It regulates the Commission's right to information in dealings with the Administration.
+- l.[^8e-7] It regulates the Commission’s right to information in dealings with the Administration.
 - [tab] m.[^8e-8] For extra-parliamentary commissions entrusted with supervisory or regulatory tasks, it contains the profile of requirements for their members.
 
 [^8e-1]: Repealed by No I of the O of 27 June 2012, with effect from 1 Aug. 2012 ([AS 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
@@ -409,7 +409,7 @@ Each member of the Commission shall provide information on his:
 <sup>4</sup> Members of commissions who have not fully disclosed their interests at the time of election or who have not reported changes to their interests during the term of office and who fail to do so even after being requested to do so by the competent authority may be removed.[^8f-4]
 
 [^8f-1]: See also para. 2 of the transitional provision to the amendment of 26 Nov. 2008 at the end of this text.
-[^8f-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8f-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^8f-3]: Amended by No I 8.1 of the O of 9 Nov. 2011 (Review of the Extra-Parliamentary Commissions), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 [^8f-4]: Inserted by No I of the O of 27 June 2012, in force since 1 Aug. 2012 ([AS 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
 
@@ -492,7 +492,7 @@ Commissions that may in terms of their election order communicate without consul
 
 [^8j-1]: Inserted by No I of the O of 14 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 [^8j-2]: Amended by No I of the O of 14 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
-[^8j-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8j-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^8j-4]: Inserted by No I of the O of 14 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 8j<sup>bis</sup>
@@ -577,8 +577,8 @@ The extra-parliamentary administrative and executive commissions are subdivided 
 The social policy commissions shall be allocated to the following remuneration categories with regard to the remuneration of their members in accordance with the requirements for the members and with the tasks of the commission:
 
 - a. Category G3, if the commission’s activities require a high level of specific expertise from its members, namely if the members must be technical authorities in the commission’s field and possess knowledge that cannot be acquired at short notice;
-- b. Category G2, if the commission's activities require a high level of general expertise from its members and the commission has sovereign decision-making powers;
-- c. Category G1, if the commission's activities require a high level of general expertise from its members and the commission has advisory tasks.
+- b. Category G2, if the commission’s activities require a high level of general expertise from its members and the commission has sovereign decision-making powers;
+- c. Category G1, if the commission’s activities require a high level of general expertise from its members and the commission has advisory tasks.
 
 <sup>2</sup> The allocation of the social policy commissions to the compensation categories is regulated in Annex 2 number 1.[^8n-1]
 
@@ -596,7 +596,7 @@ The social policy commissions shall be allocated to the following remuneration c
 
 <sup>3bis</sup>
 
-If the specific legislation or the establishment order requires a member of a commission to be independent of the industry whose activities fall within the commission's remit, and if this restricts the member in the exercise of his or her professional activities, the competent authority may:
+If the specific legislation or the establishment order requires a member of a commission to be independent of the industry whose activities fall within the commission’s remit, and if this restricts the member in the exercise of his or her professional activities, the competent authority may:
 
 - a. increase his or her daily allowance by a maximum of 50 per cent; in the case of the President, a daily allowance that has been increased in accordance with paragraph 3 shall be taken into account; and
 - b. pay the member a lump sum of no more than CHF 30,000 per year in addition to his or her daily allowance; the lump sums paid shall be shown and justified in the report on the general elections in accordance with Article *8h* paragraph 3.[^8o-2]
@@ -621,10 +621,10 @@ If the specific legislation or the establishment order requires a member of a co
 
 The market policy commissions shall be allocated to the following compensation categories with regard to the compensation of their members depending on the impact of the results of their work:
 
-- a. Category M3, if the results of the commission's work have an impact on the national economy as a whole;
-- b. Category M2/A, if the results of the commission's work have an influence on an entire industry;
-- c. Category M2/B, if the results of the commission's work have an influence on an entire industry, but the commission only supports the functioning of a market and does not supervise it;
-- d. Category M1, if the results of the commission's work have an influence on an industrial sector or if the commission performs tasks involving arbitration.
+- a. Category M3, if the results of the commission’s work have an impact on the national economy as a whole;
+- b. Category M2/A, if the results of the commission’s work have an influence on an entire industry;
+- c. Category M2/B, if the results of the commission’s work have an influence on an entire industry, but the commission only supports the functioning of a market and does not supervise it;
+- d. Category M1, if the results of the commission’s work have an influence on an industrial sector or if the commission performs tasks involving arbitration.
 
 <sup>2</sup> The allocation of the market policy commissions to the remuneration categories is regulated in Annex 2 paragraph 2.[^8p-1]
 
@@ -798,7 +798,7 @@ Essential interests in accordance with paragraph 1 are affected in particular if
 
 <sup>2</sup>
 
-The Federal Council's plans comprise:
+The Federal Council’s plans comprise:
 
 - a. general plans that encompass all federal policy fields; these include government policy guidelines pursuant to Article 18 and the annual objectives of the Federal Council pursuant to Article 19 as sectoral plans and financial plans pursuant to the Financial Budget Act of 6 October 1989[^17-1] and the Financial Budget Ordinance of 11 June 1990[^17-2];
 - b. specific plans for individual federal policy fields or parts thereof;
@@ -810,8 +810,8 @@ The Federal Council's plans comprise:
 
 <sup>5</sup> The plans of the Federal Council and the departments are binding for their subordinate administrative units.
 
-[^17-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)para. II; **1996** 3042; **1997** 2022 Annex para. 2, 2465 Annex para. 11; **1998** 1202 Art. 7 para. 3, 2847 Annex para. 5; **1999** 3131; **2000** 273 Annex para. 7; **2001** 707 Art. 31 para. 2; **2002** 2471; **2003** 535, 3543 Annex para. II 7, 4265, 5191; **2004** 1633 para. I 6, 1985 Annex para. II 3. [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. See now the Financial Budget Act of 7 Oct. 2005 ([SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
-[^17-2]: [[AS 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Annex No 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)No I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)Annex No 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)Art. 32 No 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 No 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)Art. 15. [AS 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)Art. 76]. See now the Financial Budget Ordinance of 5 April 2006 ([SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^17-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)para. II; **1996** 3042; **1997** 2022 Annex para. 2, 2465 Annex para. 11; **1998** 1202 Art. 7 para. 3, 2847 Annex para. 5; **1999** 3131; **2000** 273 Annex para. 7; **2001** 707 Art. 31 para. 2; **2002** 2471; **2003** 535, 3543 Annex para. II 7, 4265, 5191; **2004** 1633 para. I 6, 1985 Annex para. II 3. [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. See now the Financial Budget Act of 7 Oct. 2005 ([SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)).
+[^17-2]: [[AS 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Annex No 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)No I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)Annex No 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)Art. 32 No 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)Art. 33 No 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)Art. 15. [AS 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)Art. 76]. See now the Financial Budget Ordinance of 5 April 2006 ([SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)).
 [^17-3]: Name in accordance with No I of the O of 11 March 2022, in force since 1 July 2022 ([AS 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)). This amendment has been made in the provisions specified in the AS.
 
 #### Art. 18
@@ -828,7 +828,7 @@ The Federal Council's plans comprise:
 
 <sup>3</sup> They define the aims, impacts and priority measures and designate the areas in which state services must be reviewed or can be reduced.
 
-[^18-1]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); **1966** 1375; **1970** 1249; [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/245_249_249), [1514](https://fedlex.data.admin.ch/eli/oc/1972/1514_1543_1715); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)para. II 1; **1978** 688 Art. 88 para. 2; **1979** 114 Art. 66, 679, 1318; **1984** 768; **1985** 452; **1986** 1712; **1987** 600 Art. 16 para. 3; **1989** 257, 260; **1990** 1530, 1642; **1991** 857 Annex para. 1; **1992** 641, 2344; **1994** 360, 2147; **1995** 4840; **1996** 1725 Annex para. I, 2868; **1997** 753 para. II, 760 art. 1, 2022 Annex para. 4; **1998** 646, 1418, 2847 Annex para. 8; **1999** 468; **2000** 273, 2093; **2001** 114 para. I 1; **2002** 3371 Annex para. 1; **2003** 2119. [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No I 3]. See today the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^18-1]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); **1966** 1375; **1970** 1249; [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/245_249_249), [1514](https://fedlex.data.admin.ch/eli/oc/1972/1514_1543_1715); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)para. II 1; **1978** 688 Art. 88 para. 2; **1979** 114 Art. 66, 679, 1318; **1984** 768; **1985** 452; **1986** 1712; **1987** 600 Art. 16 para. 3; **1989** 257, 260; **1990** 1530, 1642; **1991** 857 Annex para. 1; **1992** 641, 2344; **1994** 360, 2147; **1995** 4840; **1996** 1725 Annex para. I, 2868; **1997** 753 para. II, 760 art. 1, 2022 Annex para. 4; **1998** 646, 1418, 2847 Annex para. 8; **1999** 468; **2000** 273, 2093; **2001** 114 para. I 1; **2002** 3371 Annex para. 1; **2003** 2119. [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No I 3]. See today the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 19
 
@@ -836,11 +836,11 @@ The Federal Council's plans comprise:
 
 ### (Art. 51 GAOA)
 
-<sup>1</sup> The annual objectives of the Federal Council shall set out the main features of the government's activities for the coming year, specify aims and measures and designate the business to be approved for submission to the Federal Assembly.
+<sup>1</sup> The annual objectives of the Federal Council shall set out the main features of the government’s activities for the coming year, specify aims and measures and designate the business to be approved for submission to the Federal Assembly.
 
-<sup>2</sup> The annual objectives form a basis for the Federal Council's business planning in accordance with Article 2, for controlling in accordance with Article 21, for supervision in accordance with Section 5 and for annual business reporting in accordance with Article 45 of the Parliamentary Procedure Act of 23 March 1962[^19-1] (ParlPA).
+<sup>2</sup> The annual objectives form a basis for the Federal Council’s business planning in accordance with Article 2, for controlling in accordance with Article 21, for supervision in accordance with Section 5 and for annual business reporting in accordance with Article 45 of the Parliamentary Procedure Act of 23 March 1962[^19-1] (ParlPA).
 
-[^19-1]: See now the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: See now the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20
 
@@ -850,9 +850,9 @@ The Federal Council's plans comprise:
 
 <sup>1</sup> The departments and the Federal Chancellery shall coordinate their annual objectives with the Federal Council’s plans and submit them to the Federal Council for approval.
 
-<sup>2</sup> They shall report on their activities as part of the Federal Council's annual business report in accordance with Article 45 ParlPA[^20-1].
+<sup>2</sup> They shall report on their activities as part of the Federal Council’s annual business report in accordance with Article 45 ParlPA[^20-1].
 
-[^20-1]: See now the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^20-1]: See now the Parliament Act of 13 Dec. 2002 ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 21
 
@@ -862,7 +862,7 @@ The Federal Council's plans comprise:
 
 <sup>2</sup> The Federal Council shall be supported in its controlling by the Federal Chancellery and the Federal Department of Finance. They shall work with the departments.
 
-<sup>3</sup> The departments are responsible for controlling in their area. They shall coordinate their controlling with the Federal Council's controlling.
+<sup>3</sup> The departments are responsible for controlling in their area. They shall coordinate their controlling with the Federal Council’s controlling.
 
 #### Art. 22
 
@@ -873,7 +873,7 @@ The Federal Council's plans comprise:
 <sup>2</sup> For this purpose, they shall use electronic records and process management systems in accordance with the GEVER Ordinance of 3 April 2019[^22-2], unless legislation provides for a different type of records and process management.
 
 [^22-1]: Amended by Art. 20 No 3 of the GEVER Ordinance of 3 April 2019, in force since 1 April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
-[^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^22-2]: [SR 172.010.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5036)
 
 ### Section 3*a*. Exemptions from Management by Service Level Agreement
 
@@ -924,9 +924,9 @@ The requirement for two signatures does not apply to:
   - 1\. are based on the Value Added Tax Act of 12 June 2009[^22c-1], the Withholding Tax Act of 13 October 1965[^22c-2] or the Federal Act of 27 June 1973 on Stamp Duty[^22c-3], and
   - 2\. are not signed individually by a representative of the authority due to their large number (mass processing).
 
-[^22c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^22c-2]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
-[^22c-3]: [SR 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^22c-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^22c-2]: [SR 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
+[^22c-3]: [SR 641.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8072)
 
 ### Section 4 Information and Communication
 
@@ -936,9 +936,9 @@ The requirement for two signatures does not apply to:
 
 **Responsibilities[^23-1]**
 
-<sup>1</sup> The Federal Chancellery, in cooperation with the departments, shall be responsible for informing the Federal Assembly, the cantons and the public about the Federal Council’s decisions, intentions and measures. It shall attend to the required planning and draw up principles for the Federal Council's communication policy.
+<sup>1</sup> The Federal Chancellery, in cooperation with the departments, shall be responsible for informing the Federal Assembly, the cantons and the public about the Federal Council’s decisions, intentions and measures. It shall attend to the required planning and draw up principles for the Federal Council’s communication policy.
 
-<sup>2</sup> The departments and the Federal Chancellery shall be responsible for internal and external information and communication on their business. They shall place these in the overall context of the Federal Council's communication policy. They shall regulate the information tasks of the units subordinate to them.
+<sup>2</sup> The departments and the Federal Chancellery shall be responsible for internal and external information and communication on their business. They shall place these in the overall context of the Federal Council’s communication policy. They shall regulate the information tasks of the units subordinate to them.
 
 <sup>3</sup> The Federal Chancellery, in cooperation with the Conference of Information Services, shall be responsible for the coordination of information and communication and may issue directives for this purpose.
 
@@ -1036,13 +1036,13 @@ Administrative units may suppress contributions in their profiles provided:
 
 <sup>1</sup> The Federal Council shall act as the owner and carry out the associated supervision and control in relation to the autonomous units in accordance with Article 8 paragraph 5 GAOA as a whole.
 
-<sup>2</sup> The department with the closest relevance to the field in question shall exercise supervision on behalf of the Federal Council, exercise the owner's rights and serve as the contact for the management bodies of the autonomous units. In the case of autonomous units of major importance for the federal budget, it shall exercise the ownership rights jointly with the FFA. The departments to which the autonomous units are allocated and the units for which joint exercise of ownership rights with the FFA applies are listed in Annex 3.
+<sup>2</sup> The department with the closest relevance to the field in question shall exercise supervision on behalf of the Federal Council, exercise the owner’s rights and serve as the contact for the management bodies of the autonomous units. In the case of autonomous units of major importance for the federal budget, it shall exercise the ownership rights jointly with the FFA. The departments to which the autonomous units are allocated and the units for which joint exercise of ownership rights with the FFA applies are listed in Annex 3.
 
 <sup>3</sup> If other departments and administrative units have a connection with the field for which an autonomous unit is responsible, they shall be consulted in relation to fulfilling the tasks in accordance with paragraph 2.
 
 <sup>4</sup> The General Secretariat of the Department shall be responsible for fulfilling the tasks in accordance with paragraph 2. The Department may delegate responsibility in writing to a state secretariat or a federal office provided there are no conflicts of interest, in particular with regard to regulation, technical supervision, appointment and subsidisation.
 
-<sup>5</sup> The FFA shall draw up the principles for the supervision and management of the federal government's autonomous units (public corporate governance) and shall ensure the coordination of reporting. In doing so, it shall work with the departments and administrative units concerned.
+<sup>5</sup> The FFA shall draw up the principles for the supervision and management of the federal government’s autonomous units (public corporate governance) and shall ensure the coordination of reporting. In doing so, it shall work with the departments and administrative units concerned.
 
 [^24a-1]: Inserted by No I of the O of 11 March 2022, in force since 1 July 2022 ([AS 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
 
@@ -1084,7 +1084,7 @@ The Federal Council and the President of the Confederation are supported by the 
 <sup>3</sup> The FFA, in consultation with the Conference of Secretaries General, shall coordinate the review under paragraph 1 with the review under Article 5 of the Subsidies Act of 5 October 1990[^27-2].[^27-3]
 
 [^27-1]: Amended by No I of the O of 21 Aug. 2002, in force since 1 Oct. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^27-3]: Inserted by Annex No 1 of the O of 14 Oct. 2015 (Optimisation New Accounting Model and New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ### Section 6 Administrative Inquiry
@@ -1101,7 +1101,7 @@ The Federal Council and the President of the Confederation are supported by the 
 
 <sup>2</sup> An administrative inquiry is not directed against specific persons. A disciplinary investigation pursuant to Article 98 of the Federal Personnel Ordinance of 3 July 2001[^27a-1] and criminal proceedings remain reserved.
 
-[^27a-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^27a-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 27b
 
@@ -1137,7 +1137,7 @@ An administrative investigation shall be entrusted to persons who:
 
 <sup>4</sup> The provisions on recusal in Article 10 of the Federal Act of 20 December 1968[^27d-1] on Administrative Procedure (APA) apply *mutatis mutandis*.
 
-[^27d-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27d-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 27e
 
@@ -1181,7 +1181,7 @@ The ordering body shall issue a written investigation mandate. It sets out in pa
 
 <sup>5</sup> They have the right to be heard (Art. 29–33 APA).
 
-[^27g-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27g-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 27h
 
@@ -1200,7 +1200,7 @@ The ordering body shall issue a written investigation mandate. It sets out in pa
 Each department that is requested by the investigative body to disclose personal data must ensure and is itself responsible for ensuring that the provisions of the Data Protection Act of 25 September 2020[^27i-2] on are complied with.
 
 [^27i-1]: Amended by Annex 2 No II 14 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^27i-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^27i-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 27j
 
@@ -1258,7 +1258,7 @@ In non-contentious cases, the Department shall grant approval within two months 
 
 <sup>1</sup> If the Department comes to the conclusion that approval may not be granted because the enactment is contrary to federal law or may only be granted with reservations, it shall take an interim decision within two months of submission. It shall submit the decision to the canton with a brief statement of the reasons and set a deadline for the canton to comment.
 
-<sup>2</sup> If the Department concludes on the basis of the canton's opinion that there is no violation of federal law, it shall grant approval within two months of receipt of the canton's opinion.
+<sup>2</sup> If the Department concludes on the basis of the canton’s opinion that there is no violation of federal law, it shall grant approval within two months of receipt of the canton’s opinion.
 
 <sup>3</sup> Otherwise, the Department shall submit the item of business to the Federal Council within two months with a request for approval with reservation or for refusal of approval.
 
@@ -1374,7 +1374,7 @@ The departments and the Federal Chancellery shall issue rules of procedure for t
 
 **Directives and working aids**
 
-<sup>1</sup> The Federal Council, the General Secretaries' Conference, the departments and the Federal Chancellery shall ensure the proper functioning of the administration by issuing directives and working aids.
+<sup>1</sup> The Federal Council, the General Secretaries’ Conference, the departments and the Federal Chancellery shall ensure the proper functioning of the administration by issuing directives and working aids.
 
 <sup>2</sup>
 
@@ -1395,7 +1395,7 @@ The directives and working aids shall regulate in particular:
 - m. the coordination of information and communication.
 
 [^30-1]: Repealed by No I of the O of 21 Aug. 2002, with effect from 1 Oct. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
-[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. See now the Consultation Ordinance of 17 Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
+[^30-2]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22. [AS 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)Art. 22]. See now the Consultation Ordinance of 17 Aug. 2005 ([SR 172.061.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5217)).
 
 ### Section 2 Authorisation to Act on behalf of a Foreign State and for International Tribunals
 
@@ -1413,8 +1413,8 @@ The directives and working aids shall regulate in particular:
 
 <sup>3</sup> The decisions shall be sent to the Office of the Attorney General of Switzerland and to the departments that are also interested.[^31-4]
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: [SR 351.20](https://fedlex.data.admin.ch/eli/cc/1996/2_2_2). Today: BG.
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^31-2]: [SR 351.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6280). Today: BG.
 [^31-3]: Inserted by Annex No 2 of the O of 19 Dec. 2003, in force since 1 Feb. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 [^31-4]: Amended by Annex No 2 of the O of 19 Dec. 2003, in force since 1 Feb. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
@@ -1505,10 +1505,10 @@ The Federal Administration consists of the following administrative units:
 
 <table>
 <tr><td>B.</td><td colspan="4">Departemente Départements Dipartimenti Departaments Departments</td></tr>
-<tr><td></td><td>I.</td><td colspan="3">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d'affars exteriurs (DFAE) Federal Department of Foreign Affairs (FDFA)</td></tr>
+<tr><td></td><td>I.</td><td colspan="3">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d’affars exteriurs (DFAE) Federal Department of Foreign Affairs (FDFA)</td></tr>
 <tr><td></td><td></td><td>**1.**</td><td colspan="2">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td>Generalsekretariat (GS-EDA) Secrétariat général (SG-DFAE) Segreteria generale (SG-DFAE) Secretariat general (SG-DFAE) General Secretariat (GS-FDFA)</td></tr>
-<tr><td></td><td></td><td></td><td>1.2</td><td>Staatssekretariat EDA (STS-EDA) Secrétariat d’Etat du DFAE (SEE-DFAE) Segreteria di Stato del DFAE (SES-DFAE) Secretariat da stadi dal DFAE (SES-DFAE) FDFA State Secretariat (FDFA STS)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td>Staatssekretariat EDA (STS-EDA) Secrétariat d’Etat du DFAE (SEE-DFAE) Segreteria di Stato del DFAE (SES-DFAE) Secretariat da stadi dal DFAE (SES-DFAE) FDFA State Secretariat (FDFA-STS)</td></tr>
 <tr><td></td><td></td><td></td><td>1.3</td><td>*Repealed*</td></tr>
 <tr><td></td><td></td><td></td><td>1.4</td><td>Direktion für Völkerrecht (DV) Direction du droit international public (DDIP) Direzione del diritto internazionale pubblico (DDIP) Direcziun da dretg internaziunal public (DDIP) Directorate of International Law (DIL)</td></tr>
 <tr><td></td><td></td><td></td><td>1.5</td><td>Direktion für Entwicklung und Zusammenarbeit (DEZA) Direction du développement et de la coopération (DDC) Direzione dello sviluppo e della cooperazione (DSC) Direcziun da svilup e da cooperaziun (DSC) Swiss Agency for Development and Cooperation (SDC)</td></tr>
@@ -1520,16 +1520,16 @@ The Federal Administration consists of the following administrative units:
 </table>
 
 <table>
-<tr><td></td><td>II.</td><td colspan="5">Eidgenössisches Departement des Innern (EDI) Département fédéral de l’intérieur (DFI) Dipartimento federale dell'interno (DFI) Departament federal da l'intern (DFI) Federal Department of Home Affairs (FDHA)</td></tr>
+<tr><td></td><td>II.</td><td colspan="5">Eidgenössisches Departement des Innern (EDI) Département fédéral de l’intérieur (DFI) Dipartimento federale dell’interno (DFI) Departament federal da l’intern (DFI) Federal Department of Home Affairs (FDHA)</td></tr>
 <tr><td></td><td></td><td>**1.**</td><td colspan="4">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.1</td><td colspan="2">Generalsekretariat (GS-EDI) Secrétariat général (SG-DFI) Segreteria generale (SG-DFI) Secretariat general (SG-DFI) General Secretariat (GS-FDHA)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">1.2</td><td colspan="2">Eidgenössisches Büro für die Gleichstellung von Frau und Mann (EBG) Bureau fédéral de l'égalité entre femmes et hommes (BFEG) Ufficio federale per l'uguaglianza fra donna e uomo (UFU) Uffizi federal per l'egualitad tranter dunna ed um (UFEG) Federal Office for Gender Equality (FOGE)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">1.2</td><td colspan="2">Eidgenössisches Büro für die Gleichstellung von Frau und Mann (EBG) Bureau fédéral de l’égalité entre femmes et hommes (BFEG) Ufficio federale per l’uguaglianza fra donna e uomo (UFU) Uffizi federal per l’egualitad tranter dunna ed um (UFEG) Federal Office for Gender Equality (FOGE)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.3</td><td colspan="2">Bundesamt für Kultur (BAK) Office fédéral de la culture (OFC) Ufficio federale della cultura (UFC) Uffizi federal da cultura (UFC) Federal Office of Culture (FOC)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.4</td><td colspan="2">Schweizerisches Bundesarchiv (BAR) Archives fédérales suisses (AFS) Archivio federale svizzero (AFS) Archiv federal svizzer (AFS) Swiss Federal Archives (SFA)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.5</td><td colspan="2">Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) Office fédéral de météorologie et de climatologie (MétéoSuisse) Ufficio federale di meteorologia e climatologia (MeteoSvizzera) Uffizi federal per meteorologia e climatologia (MeteoSvizra) Federal Office of Meteorology and Climatology (MeteoSwiss)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.6</td><td colspan="2">Bundesamt für Gesundheit (BAG) Office fédéral de la santé publique (OFSP) Ufficio federale della sanità pubblica (UFSP) Uffizi federal da sanadad publica (UFSP) Federal Office of Public Health (FOPH)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">1.7</td><td colspan="2">Bundesamt für Statistik (BFS) Office fédéral de la statistique (OFS) Ufficio federale di statistica (UST) Uffizi federal da statistica (UST) Federal Statistical Office (SO)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">1.8</td><td colspan="2">Bundesamt für Sozialversicherungen (BSV) Office fédéral des assurances sociales (OFAS) Ufficio federale delle assicurazioni sociali (UFAS) Uffizi federal d'assicuranzas socialas (UFAS) Federal Social Insurance Office (FSIO)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">1.7</td><td colspan="2">Bundesamt für Statistik (BFS) Office fédéral de la statistique (OFS) Ufficio federale di statistica (UST) Uffizi federal da statistica (UST) Federal Statistical Office (FSO)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">1.8</td><td colspan="2">Bundesamt für Sozialversicherungen (BSV) Office fédéral des assurances sociales (OFAS) Ufficio federale delle assicurazioni sociali (UFAS) Uffizi federal d’assicuranzas socialas (UFAS) Federal Social Insurance Office (FSIO)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">1.9</td><td colspan="3">Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Uffizi federal da segirezza alimentara e fatgs veterinars (USAV) Federal Food Safety and Veterinary Office (FSVO)</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="5">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">**2.1**</td><td colspan="3">**Organisationally independent administrative units without legal personality:**</td></tr>
@@ -1538,7 +1538,7 @@ The Federal Administration consists of the following administrative units:
 <tr><td></td><td></td><td></td><td colspan="2"></td><td>2.2.1</td><td colspan="2">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS) Swiss National Museum (SNM)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2"></td><td>2.2.2</td><td colspan="2">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2"></td><td>2.2.3</td><td colspan="2">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic) Swiss Agency for Therapeutic Products (Swissmedic)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.2.4</td><td colspan="2">Ausgleichfonds AHV/IV/EO (Compenswiss) Fonds de compensation AVS/AI/APG (compenswiss) Fondi die compensazione AVS/AI/IPG (compenswiss) Fonds da cumpensaziun AVS/AI/UCG (compenswiss) Social Security Funds AHV/IV/EO (Compenswiss)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.2.4</td><td colspan="2">Ausgleichfonds AHV/IV/EO (Compenswiss) Fonds de compensation AVS/AI/APG (compenswiss) Fondi die compensazione AVS/AI/IPG (compenswiss) Fonds da cumpensaziun AVS/AI/UCG (compenswiss) Social Security Funds AHV/IV/EO (compenswiss)</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">**2.3**</td><td colspan="3">**Companies limited by shares in which the Confederation holds a majority stake:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">None</td></tr>
 </table>
@@ -1549,7 +1549,7 @@ The Federal Administration consists of the following administrative units:
 <tr><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="2">1.1</td><td colspan="4">Generalsekretariat (GS-EJPD) Secrétariat général (SG-DFJP) Segreteria generale (SG-DFGP) Secretariat general (SG-DFGP) General Secretariat (GS-FDJP)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="2">1.2</td><td colspan="4">Bundesamt für Justiz (BJ) Office fédéral de la justice (OFJ) Ufficio federale di giustizia (UFG) Uffizi federal da giustia (UFG) Federal Office of Justice (FOJ)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="2">1.3</td><td colspan="4">Bundesamt für Polizei (fedpol) Office fédéral de la police (fedpol) Ufficio federale di polizia (fedpol) Uffizi federal da polizia (fedpol) Federal Office of Police (fedpol)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="2">1.4</td><td colspan="4">Staatssekretariat für Migration (SEM) Secrétariat d'Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM) State Secretariat for Migration (SEM)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="2">1.4</td><td colspan="4">Staatssekretariat für Migration (SEM) Secrétariat d’Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM) State Secretariat for Migration (SEM)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="3">**2.**</td><td colspan="6">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="2"></td><td>**2.1**</td><td colspan="5">**Organisationally independent administrative units without legal personality:**</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.1</td><td colspan="3">*Repealed*</td></tr>
@@ -1569,101 +1569,100 @@ The Federal Administration consists of the following administrative units:
 <tr><td></td><td></td><td>**1.**</td><td colspan="5">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td colspan="4">Generalsekretariat (GS-VBS) Secrétariat général (SG-DDPS) Segreteria generale (SG-DDPS) Secretariat general (SG-DDPS) General Secretariat (GS-DDPS)</td></tr>
 <tr><td></td><td></td><td></td><td>1.1*a*</td><td colspan="4">Staatssekretariat für Sicherheitspolitik (SEPOS) Secrétariat d’État à la politique de sécurité (SEPOS) Segreteria di Stato della politica di sicurezza (SEPOS) Secretariat da stadi per la politica da segirezza (SEPOS) State Secretariat for Security Policy (SEPOS)</td></tr>
-<tr><td></td><td></td><td></td><td>1.2</td><td colspan="4">Nachrichtendienst des Bundes (NDB) Service de renseignement de la Confédération (SRC) Servizio delle attività informative della Confederazione (SIC) Servetsch d'infurmaziun da la Confederaziun (SIC) Federal Intelligence Service (FIS)</td></tr>
-<tr><td></td><td></td><td></td><td>1.3</td><td colspan="4">Oberauditorat (OA) Office de l'auditeur en chef (OAC) Ufficio dell'uditore in capo (UUC) Auditorat superiur (AS) Office of the Armed Force Attorney General (OAFAG)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td colspan="4">Nachrichtendienst des Bundes (NDB) Service de renseignement de la Confédération (SRC) Servizio delle attività informative della Confederazione (SIC) Servetsch d’infurmaziun da la Confederaziun (SIC) Federal Intelligence Service (FIS)</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td colspan="4">Oberauditorat (OA) Office de l’auditeur en chef (OAC) Ufficio dell’uditore in capo (UUC) Auditorat superiur (AS) Office of the Armed Force Attorney General (OAFAG)</td></tr>
 <tr><td></td><td></td><td></td><td>1.4</td><td colspan="4">Gruppe Verteidigung Groupement Défense Aggruppamento Difesa Gruppa da defensiun Defence Group</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.1</td><td>Armeestab (A Stab) État-major de l'armée (EM A) Stato maggiore dell'esercito (SM Es) Stab da l'armada (StA) Armed Forces Staff (AFS)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.2</td><td>Kommando Operationen (Kdo Op) Commandement des opérations (Cdmt Op) Comando Operazioni (Cdo Op) Commando d'operaziuns (Cdo Op) Joint Operations Command (JOC)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.3</td><td>Logistikbasis der Armee (LBA) Base logistique de l'armée (BLA) Base logistica dell'esercito (BLEs) Basa da logistica da l'armada (BLA) Armed Forces Logistics Organisation (AFLO)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.1</td><td>Armeestab (A Stab) État-major de l’armée (EM A) Stato maggiore dell’esercito (SM Es) Stab da l’armada (StA) Armed Forces Staff (AFS)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.2</td><td>Kommando Operationen (Kdo Op) Commandement des opérations (Cdmt Op) Comando Operazioni (Cdo Op) Commando d’operaziuns (Cdo Op) Joint Operations Command (JOC)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.3</td><td>Logistikbasis der Armee (LBA) Base logistique de l’armée (BLA) Base logistica dell’esercito (BLEs) Basa da logistica da l’armada (BLA) Armed Forces Logistics Organisation (AFLO)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.4</td><td>Kommando Cyber (Kdo Cy) Commandement Cyber (cdmt Cyber) Comando Ciber (Cdo Ci) Commando Cyber (Cdo Cy) Armed Forces Cyber Command (AFCC)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.5</td><td>Kommando Ausbildung (Kdo Ausb) Commandement de l'instruction (Cdmt Instr) Comando Istruzione (Cdo Istr) Commando d'instrucziun (Cdo Instr) Training and Education Command (TEC)</td></tr>
-<tr><td></td><td></td><td></td><td>1.5</td><td colspan="4">Bundesamt für Rüstung (armasuisse) Office fédéral de l'armement (armasuisse) Ufficio federale dell'armamento (armasuisse) Uffizi federal da l'armament (armasuisse) Federal Office for Defence Procurement (armasuisse)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">1.4.5</td><td>Kommando Ausbildung (Kdo Ausb) Commandement de l’instruction (Cdmt Instr) Comando Istruzione (Cdo Istr) Commando d’instrucziun (Cdo Instr) Training and Education Command (TEC)</td></tr>
+<tr><td></td><td></td><td></td><td>1.5</td><td colspan="4">Bundesamt für Rüstung (armasuisse) Office fédéral de l’armement (armasuisse) Ufficio federale dell’armamento (armasuisse) Uffizi federal da l’armament (armasuisse) Federal Office for Defence Procurement (armasuisse)</td></tr>
 <tr><td></td><td></td><td></td><td>1.5*a*</td><td colspan="4">Bundesamt für Landestopografie (swisstopo) Office fédéral de topographie (swisstopo) Ufficio federale di topografia (swisstopo) Uffizi federal da topografia (swisstopo) Federal Office of Topography (swisstopo)</td></tr>
 <tr><td></td><td></td><td></td><td>1.6</td><td colspan="4">Bundesamt für Bevölkerungsschutz (BABS) Office fédéral de la protection de la population (OFPP) Ufficio federale della protezione della popolazione (UFPP) Uffizi federal da protecziun da la populaziun (UFPP) Federal Office for Civil Protection (FOCP)</td></tr>
 <tr><td></td><td></td><td></td><td>1.7</td><td colspan="4">Bundesamt für Sport (BASPO) Office fédéral du sport (OFSPO) Ufficio federale dello sport (UFSPO) Uffizi federal da sport (UFSPO) Federal Office of Sport (FOSPO)</td></tr>
 <tr><td></td><td></td><td></td><td>1.8</td><td colspan="4">Bundesamt für Cybersicherheit (BACS) Office fédéral de la cybersécurité (OFCS) Ufficio federale della cibersicurezza (UFCS) Uffizi federal da la cybersegirezza (UFCS) National Cyber Security Centre (NCSC)</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="5">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">2.1</td><td colspan="3">Organisationally independent administrative units without legal personality:</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.1.1</td><td colspan="2">Unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten Autorité de surveillance indépendante des activités de renseignement Autorità de vigilanza indipendente sulle attività informative Autoridad da surveglianza independenta davart las activitads d'informaziun Independent Oversight Authority for Intelligence Activities</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td>2.1.1</td><td colspan="2">Unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten (AB-ND) Autorité de surveillance indépendante des activités de renseignement (AS-Rens) Autorità de vigilanza indipendente sulle attività informative (AVI-AIn) Autoridad da surveglianza independenta davart las activitads d’informaziun (AS-AIn) Independent Oversight Authority for Intelligence Activities (OA-IA)</td></tr>
 </table>
 
 <table>
 <tr><td></td><td>V.</td><td colspan="4">Eidgenössisches Finanzdepartement (EFD) Département fédéral des finances (DFF) Dipartimento federale delle finanze (DFF) Departament federal da finanzas (DFF) Federal Department of Finance (FDF)</td></tr>
 <tr><td></td><td></td><td>**1.**</td><td colspan="3">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td colspan="2">Generalsekretariat (GS-EFD) Secrétariat général (SG-DFF) Segreteria generale (SG-DFF) Secretariat general (SG-DFF) General Secretariat (GS-FDF)</td></tr>
-<tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Staatssekretariat für internationale Finanzfragen (SIF) Secrétariat d'Etat aux questions financières internationales (SFI) Segreteria di Stato per le questioni finanziarie internazionali (SFI) Secretariat da stadi per dumondas finanzialas internaziunalas (SFI) State Secretariat for International Finance (SIF)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Staatssekretariat für internationale Finanzfragen (SIF) Secrétariat d’Etat aux questions financières internationales (SFI) Segreteria di Stato per le questioni finanziarie internazionali (SFI) Secretariat da stadi per dumondas finanzialas internaziunalas (SFI) State Secretariat for International Finance (SIF)</td></tr>
 <tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Eidgenössische Finanzverwaltung (EFV) Administration fédérale des finances (AFF) Amministrazione federale delle finanze (AFF) Administraziun federala da finanzas (AFF) Federal Finance Administration (FFA)</td></tr>
 <tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Eidgenössisches Personalamt (EPA) Office fédéral du personnel (OFPER) Ufficio federale del personale (UFPER) Uffizi federal da persunal (UFPER) Federal Office of Personnel (FOPER)</td></tr>
 <tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Eidgenössische Steuerverwaltung (ESTV) Administration fédérale des contributions (AFC) Amministrazione federale delle contribuzioni (AFC) Administraziun federala da taglia (AFT) Federal Tax Administration (FTA)</td></tr>
 <tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">Bundesamt für Zoll und Grenzsicherheit (BAZG) Office fédéral de la douane et de la sécurité des frontières (OFDF) Ufficio federale della dogana e della sicurezza dei confini (UDSC) Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) Federal Office for Customs and Border Security (FOCBS)</td></tr>
-<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für Informatik und Telekommunikation (BIT) Office fédéral de l'informatique et de la télécommunication (OFIT) Ufficio federale dell'informatica e della telecomunicazione (UFIT) Uffizi federal d'informatica e da telecommunicaziun (UFIT) Federal Office of Information Technology, Systems and Telecommunication (FOITT)</td></tr>
+<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für Informatik und Telekommunikation (BIT) Office fédéral de l’informatique et de la télécommunication (OFIT) Ufficio federale dell’informatica e della telecomunicazione (UFIT) Uffizi federal d’informatica e da telecommunicaziun (UFIT) Federal Office of Information Technology, Systems and Telecommunication (FOITT)</td></tr>
 <tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Bauten und Logistik (BBL) Office fédéral des constructions et de la logistique (OFCL) Ufficio federale delle costruzioni e della logistica (UFCL) Uffizi federal per edifizis e logistica (UFEL) Federal Office for Buildings and Logistics (FOBL)</td></tr>
 <tr><td></td><td></td><td></td><td>1.9</td><td colspan="2">*Repealed*</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="3">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Organisationally independent administrative units without legal personality:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF) Swiss Federal Audit Office (SFAO)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Legally dependent corporations, institutions and foundations:**</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA) Swiss Federal Financial Market Supervisory Authority (FINMA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA) Swiss Federal Financial Market Supervisory Authority (FINMA)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (PUBLICA) Caisse fédérale de pensions (PUBLICA) Cassa pensioni della Confederazione (PUBLICA) Cassa federala da pensiun (PUBLICA) Swiss Federal Pension Fund (PUBLICA)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Companies limited by shares in which the Confederation holds a majority stake:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">None</td></tr>
 </table>
 
 <table>
-<tr><td></td><td>VI.</td><td colspan="4">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF) Département fédéral de l’économie, de la formation et de la recherche (DEFR) Dipartimento federale dell'economia, della formazione e della ricerca (DEFR) Departament federal d'economia, furmaziun e retschertga (DEFR) Federal Department of Economic Affairs, Education and Research (EAER)</td></tr>
+<tr><td></td><td>VI.</td><td colspan="4">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF) Département fédéral de l’économie, de la formation et de la recherche (DEFR) Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) Departament federal d’economia, furmaziun e retschertga (DEFR) Federal Department of Economic Affairs, Education and Research (EAER)</td></tr>
 <tr><td></td><td></td><td>**1.**</td><td colspan="3">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td colspan="2">Generalsekretariat (GS-WBF) Secrétariat général (SG-DEFR) Segreteria generale (SG-DEFR) Secretariat general (SG-DEFR) General Secretariat (GS-EAER)</td></tr>
 <tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Preisüberwachung (PUE) Surveillance des prix (SPR) Sorveglianza dei prezzi (SPR) Surveglianza dals pretschs (SPR) Office of the Price Supervisor (PRS)</td></tr>
-<tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Staatssekretariat für Wirtschaft (SECO) Secrétariat d'Etat à l'économie (SECO) Segreteria di Stato dell'economia (SECO) Secretariat da stadi per l'economia (SECO) State Secretariat for Economic Affairs (SECO)</td></tr>
-<tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Staatssekretariat für Bildung, Forschung und Innovation (SBFI) Secrétariat d'Etat à la formation, à la recherche et à l'innovation (SEFRI) Segreteria di Stato per la formazione, la ricerca e l'innovazione (SEFRI) Secretariat da stadi per furmaziun, retschertga ed innovaziun (SEFRI) State Secretariat for Education, Research and Innovation (SERI)</td></tr>
-<tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Bundesamt für Landwirtschaft (BLW) Office fédéral de l'agriculture (OFAG) Ufficio federale dell'agricoltura (UFAG) Uffizi federal d'agricultura (UFAG) Federal Office for Agriculture (FOAG)</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Staatssekretariat für Wirtschaft (SECO) Secrétariat d’Etat à l’économie (SECO) Segreteria di Stato dell’economia (SECO) Secretariat da stadi per l’economia (SECO) State Secretariat for Economic Affairs (SECO)</td></tr>
+<tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Staatssekretariat für Bildung, Forschung und Innovation (SBFI) Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) Secretariat da stadi per furmaziun, retschertga ed innovaziun (SEFRI) State Secretariat for Education, Research and Innovation (SERI)</td></tr>
+<tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Bundesamt für Landwirtschaft (BLW) Office fédéral de l’agriculture (OFAG) Ufficio federale dell’agricoltura (UFAG) Uffizi federal d’agricultura (UFAG) Federal Office for Agriculture (FOAG)</td></tr>
 <tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">*Repealed*</td></tr>
-<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für wirtschaftliche Landesversorgung (BWL) Office fédéral pour l'approvisionnement économique du pays (OFAE) Ufficio federale per l'approvvigionamento economico del Paese (UFAE) Uffizi federal per il provediment economic dal pajais (UFPE) Federal Office for National Economic Supply (FONES)</td></tr>
-<tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Wohnungswesen (BWO) Office fédéral du logement (OFL) Ufficio federale delle abitazioni (UFAB) Uffizi federal d'abitaziuns (UFAB) Federal Office for Housing (FOH)</td></tr>
+<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für wirtschaftliche Landesversorgung (BWL) Office fédéral pour l’approvisionnement économique du pays (OFAE) Ufficio federale per l’approvvigionamento economico del Paese (UFAE) Uffizi federal per il provediment economic dal pajais (UFPE) Federal Office for National Economic Supply (FONES)</td></tr>
+<tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Wohnungswesen (BWO) Office fédéral du logement (OFL) Ufficio federale delle abitazioni (UFAB) Uffizi federal d’abitaziuns (UFAB) Federal Office for Housing (FOH)</td></tr>
 <tr><td></td><td></td><td></td><td>1.9</td><td colspan="2">Bundesamt für Zivildienst (ZIVI) Office fédéral du service civil (CIVI) Ufficio federale del servizio civile (CIVI) Uffizi federal dal servetsch civil (CIVI) Federal Office for Civilian Service (CIVI)</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="3">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Organisationally independent administrative units without legal personality:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) Domaine des écoles polytechniques fédérales (domaine des EPF) Settore dei politecnici federali (settore dei PF) Sectur da las scolas politecnicas federalas (sectur da las PF) Domain of the Swiss Federal Institutes of Technology (ETH Domain)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Legally dependent corporations, institutions and foundations:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST) Switzerland Tourism (ST)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d'hotel (SCH) Swiss Association for Hotel Credit (SGH)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Exportrisikoversicherung SERV: Assurance suisse contre les risques à l'exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l'export (ASRE) Swiss Export Risk Insurance SERV</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH) Swiss Association for Hotel Credit (SGH)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE) Swiss Export Risk Insurance (SERV)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.4[^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP) Swiss Federal University for Vocational Education and Training (SFUVET)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT) Swiss Federal Institute of Technology Zurich (ETHZ)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL) Swiss Federal Institute of Technology Lausanne (EPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI) Paul Scherrer Institute (PSI)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.8</td><td colspan="2">Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft (WSL) Institut fédéral de recherches sur la forêt, la neige et le paysage (WSL) Istituto federale di ricerca per la foresta, la neve e il paesaggio (WSL) Institut federal per la perscrutaziun da guaud, naiv e cuntrada (WSL) Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.9</td><td colspan="2">Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) Laboratoire fédéral d'essai des matériaux et de recherche (Empa) Laboratorio federale di prova dei materiali e di ricerca (Empa) Institut federal da controlla da material e da perscrutaziun (Empa) Swiss Federal Laboratories for Materials Science and Technology (Empa)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.10</td><td colspan="2">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz (EAWAG) Institut fédéral pour l’aménagement, l’épuration et la protection des eaux (EAWAG) Istituto federale per l'approvvigionamento, la depurazione e la protezione delle acque (EAWAG) Institut federal per provediment, serenaziun e protecziun da las auas (EAWAG) Swiss Federal Institute of Aquatic Science and Technology (EAWAG)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.11</td><td colspan="2">Schweizerische Agentur für Innovationsförderung (Innosuisse) Agence suisse pour l'encouragement de l'innovation (Innosuisse) Agenzia svizzera per la promozione dell'innovazione (Innosuisse) Agentura svizra per la promoziun da l'innovaziun (Innosuisse) Swiss Innovation Agency (Innosuisse)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.9</td><td colspan="2">Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) Laboratoire fédéral d’essai des matériaux et de recherche (Empa) Laboratorio federale di prova dei materiali e di ricerca (Empa) Institut federal da controlla da material e da perscrutaziun (Empa) Swiss Federal Laboratories for Materials Science and Technology (Empa)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.10</td><td colspan="2">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz (EAWAG) Institut fédéral pour l’aménagement, l’épuration et la protection des eaux (EAWAG) Istituto federale per l’approvvigionamento, la depurazione e la protezione delle acque (EAWAG) Institut federal per provediment, serenaziun e protecziun da las auas (EAWAG) Swiss Federal Institute of Aquatic Science and Technology (EAWAG)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.11</td><td colspan="2">Schweizerische Agentur für Innovationsförderung (Innosuisse) Agence suisse pour l’encouragement de l’innovation (Innosuisse) Agenzia svizzera per la promozione dell’innovazione (Innosuisse) Agentura svizra per la promoziun da l’innovaziun (Innosuisse) Swiss Innovation Agency (Innosuisse)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Companies limited by shares in which the Confederation holds a majority stake:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.3.1</td><td>Swiss Investment Fund for Emerging Markets (SIFEM AG) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM AG)</td></tr>
 </table>
 
 <table>
-<tr><td colspan="2"></td><td colspan="2">VII.</td><td colspan="6">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni (DATEC) Departament federal per ambient, traffic, energia e communicaziun (DATEC) Federal Department of the Environment, Transport, Energy and Communications (DETEC)</td></tr>
+<tr><td colspan="2"></td><td colspan="2">VII.</td><td colspan="6">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) Departament federal per ambient, traffic, energia e communicaziun (DATEC) Federal Department of the Environment, Transport, Energy and Communications (DETEC)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="4">**Administrative units of the** central **Federal Administration:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.1</td><td colspan="2">Generalsekretariat (GS-UVEK) Secrétariat général (SG-DETEC) Segreteria generale (SG-DATEC) Secretariat general (SG-DATEC) General Secretariat (GS-DETEC)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.2</td><td colspan="2">Bundesamt für Verkehr (BAV) Office fédéral des transports (OFT) Ufficio federale dei trasporti (UFT) Uffizi federal da traffic (UFT) Federal Office of Transport (FOT)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.3</td><td colspan="2">Bundesamt für Zivilluftfahrt (BAZL) Office fédéral de l'aviation civile (OFAC) Ufficio federale dell'aviazione civile (UFAC) Uffizi federal d'aviatica civila (UFAC) Federal Office of Civil Aviation (FOCA)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.4</td><td colspan="2">Bundesamt für Energie (BFE) Office fédéral de l'énergie (OFEN) Ufficio federale dell'energia (UFE) Uffizi federal d'energia (UFE) Swiss Federal Office of Energy (SFOE)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.3</td><td colspan="2">Bundesamt für Zivilluftfahrt (BAZL) Office fédéral de l’aviation civile (OFAC) Ufficio federale dell’aviazione civile (UFAC) Uffizi federal d’aviatica civila (UFAC) Federal Office of Civil Aviation (FOCA)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.4</td><td colspan="2">Bundesamt für Energie (BFE) Office fédéral de l’énergie (OFEN) Ufficio federale dell’energia (UFE) Uffizi federal d’energia (UFE) Swiss Federal Office of Energy (SFOE)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.5</td><td colspan="2">Bundesamt für Strassen (ASTRA) Office fédéral des routes (OFROU) Ufficio federale delle strade (USTRA) Uffizi federal da vias (UVIAS) Federal Roads Office (FEDRO)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.6</td><td colspan="2">Bundesamt für Kommunikation (BAKOM) Office fédéral de la communication (OFCOM) Ufficio federale delle comunicazioni (UFCOM) Uffizi federal da communicaziun (UFCOM) Federal Office of Communications (OFCOM)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.7</td><td colspan="2">Bundesamt für Umwelt (BAFU) Office fédéral de l'environnement (OFEV) Ufficio federale dell'ambiente (UFAM) Uffizi federal d'ambient (UFAM) Federal Office for the Environment (FOEN)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.7</td><td colspan="2">Bundesamt für Umwelt (BAFU) Office fédéral de l’environnement (OFEV) Ufficio federale dell’ambiente (UFAM) Uffizi federal d’ambient (UFAM) Federal Office for the Environment (FOEN)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.8</td><td colspan="2">Bundesamt für Raumentwicklung (ARE) Office fédéral du développement territorial (ARE) Ufficio federale dello sviluppo territoriale (ARE) Uffizi federal da svilup dal territori (ARE) Federal Office for Spatial Development (ARE)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="4">**Administrative units of the** decentralised **Federal Administration:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="2">**Organisationally independent administrative units without legal personality:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="3">None</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="2">**Legally dependent corporations, institutions and foundations:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.1</td><td>Eidgenössisches Nuklearsicherheitsinspektorat (ENSI) Inspection fédérale de la sécurité nucléaire (IFSN) Ispettorato federale della sicurezza nucleare (IFSN) Inspecturat federal per la segirezza nucleara (IFSN) Swiss Federal Nuclear Safety Inspectorate (ENSI)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen Fonds de désaffectation et Fonds de gestion pour les installations nucléaires Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari Fond da serrada e fond da dismessa per ils implants nuclears Waste Disposal Fund for Nuclear Installations</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.3</td><td>Schweizerische Trassenvergabestelle (Trassenvergabestelle) Service suisse d'attribution des sillons (Service for the attribution of sillons) Servizio svizzero di assegnazione delle tracce (Servizio di assegnazione delle tracce) Servetsch svizzer d'attribuziun dals trassés (Servetsch d'attribuziun dals trassés) Swiss Capacity Allocation Body (TVS)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen (STENFO) Fonds de désaffectation et Fonds de gestion pour les installations nucléaires (STENFO) Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari (STENFO) Fond da serrada e fond da dismessa per ils implants nuclears (STENFO) Waste Disposal Fund for Nuclear Installations (STENFO)</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.3</td><td>Schweizerische Trassenvergabestelle (TVS) Service suisse d’attribution des sillons (SAS) Servizio svizzero di assegnazione delle tracce (SAT) Servetsch svizzer d’attribuziun dals trassés (SAT) Swiss Capacity Allocation Body (TVS)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>**2.3**</td><td colspan="3">**Companies limited by shares in which the Confederation holds a majority stake:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="3">None</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: The designation of the administrative unit was adjusted to 1 August 2021 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^annex1-lvlu1-1]: The designation of the administrative unit was adjusted to 1 August 2021 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 Annex 2[^t-2]
 
@@ -1702,7 +1701,7 @@ Annex 2[^t-2]
 <table>
 <tr><th>Responsible Department</th><th>Extra-Parliamentary Commission</th></tr>
 <tr><td>FDFA</td><td>Advisory Committee on International Cooperation Swiss Commission for UNESCO</td></tr>
-<tr><td>FDHA</td><td>Supervisory Commission for the Oskar Reinhart Collection Am Römerholz in Winterthur Federal Medicines Commission Federal Design Commission Federal Commission for Nutrition Federal Film Commission Federal Commission for the Gottfried Keller Foundation Federal Medical Services Commission Federal Commission for Analyses, Aids and Devices Federal Commission for the Old-Age, Survivors' and Invalidity Insurance Federal Commission on Matters relating to the Convention on International Trade in Endangered Species CITES Federal Commission for Occupational Benefits Provision Federal Commission for Family Affairs Federal Commission for Issues relating to Sexually Transmitted Infections Federal Commission for Issues relating to Addiction and the Prevention of Non-Communicable Diseases Federal Commission for Women’s Issues Federal Commission for Vaccination Federal Commission for Child and Youth Affairs Federal Commission for Pandemic Preparedness[^annex2-lvlu1-lvl1-lvl13-1] Federal Commission against Racism Federal Arts Commission Expert Commission on Film Promotion Expert Commission for the Tobacco Control Fund Commission for the Swiss National Library[^annex2-lvlu1-lvl1-lvl13-2] Federal Statistics Commission Commission for the Promotion of Swiss Education Abroad</td></tr>
+<tr><td>FDHA</td><td>Supervisory Commission for the Oskar Reinhart Collection Am Römerholz in Winterthur Federal Medicines Commission Federal Design Commission Federal Commission for Nutrition Federal Film Commission Federal Commission for the Gottfried Keller Foundation Federal Medical Services Commission Federal Commission for Analyses, Aids and Devices Federal Commission for the Old-Age, Survivors’ and Invalidity Insurance Federal Commission on Matters relating to the Convention on International Trade in Endangered Species CITES Federal Commission for Occupational Benefits Provision Federal Commission for Family Affairs Federal Commission for Issues relating to Sexually Transmitted Infections Federal Commission for Issues relating to Addiction and the Prevention of Non-Communicable Diseases Federal Commission for Women’s Issues Federal Commission for Vaccination Federal Commission for Child and Youth Affairs Federal Commission for Pandemic Preparedness[^annex2-lvlu1-lvl1-lvl13-1] Federal Commission against Racism Federal Arts Commission Expert Commission on Film Promotion Expert Commission for the Tobacco Control Fund Commission for the Swiss National Library[^annex2-lvlu1-lvl1-lvl13-2] Federal Statistics Commission Commission for the Promotion of Swiss Education Abroad</td></tr>
 <tr><td>FDF</td><td>Conciliation Commission under the Gender Equality Act Consultative Body on VAT</td></tr>
 <tr><td>FDJP</td><td>Federal Commercial Register Commission Federal Commission on Migration[^annex2-lvlu1-lvl1-lvl13-3] Expert Commission for the Appraisal of Pilot Scheme Subsidy Requests Federal Commission on Debt Collection and Bankruptcy Advisory Commission on Compulsory Social Measures and Placements prior to 1981</td></tr>
 <tr><td>EAER</td><td>Advisory Commission on Agriculture Tripartite Federal Commission for ILO Affairs Federal Labour Commission Federal Commission for Vocational and Professional Education and Training Federal Commission for Consumer Affairs Federal Commission for Space Affairs Federal Housing Commission Federal Accreditation Commission Federal Vocational Baccalaureate Commission Federal Board for Conciliation in Collective Labour Disputes Federal Commission for Scholarships for Foreign Students SME Forum Economic Policy Commission Public Procurement Commission for the Confederation and the Cantons Agricultural Research Council Swiss National FAO Committee Tripartite Federal Commission for Measures Accompanying the Free Movement of Persons Federal Advisory Board to the National Contact Point for the OECD Guidelines for Multinational Enterprises</td></tr>
@@ -1710,7 +1709,7 @@ Annex 2[^t-2]
 <tr><td>DDPS</td><td>Federal Commission for Youth and Recruitment Surveys Federal Commission for Telematics in the Field of Rescue and Security Armament Commission</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl13-1]: The name of the commission was modified on 1 Jan. 2024 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^annex2-lvlu1-lvl1-lvl13-1]: The name of the commission was modified on 1 Jan. 2024 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 [^annex2-lvlu1-lvl1-lvl13-2]: This commission was dissolved at the end of 2020.
 [^annex2-lvlu1-lvl1-lvl13-3]: The name of the Commission was modified on 1 Jan. 2016 in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
@@ -1734,9 +1733,9 @@ Annex 3[^t-3]
 
 (Art. 24*a* para. 2 and 3)
 
-## Assignment of independent units to the department with the closest relevance and joint exercise of owner's rights with the FFA
+## Assignment of independent units to the department with the closest relevance and joint exercise of owner’s rights with the FFA
 
-[^t-3]: Inserted by the O of 27 Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Amended by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 729](https://fedlex.data.admin.ch/eli/oc/2023/729))..
+[^t-3]: Inserted by the O of 27 Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Amended by No I of the O of 20 June 2025, in force since 1 July 2025 ([AS 2025 411](https://fedlex.data.admin.ch/eli/oc/2025/411)).
 
 <table>
 <tr><th>Independent Unit</th><th>Department with the closest relevance and administrative unit responsible</th><th>Joint exercise of owner’s rights with:</th></tr>
@@ -1755,7 +1754,7 @@ Annex 3[^t-3]
 <tr><td>Identitas AG</td><td>FDHA (GS) / EAER (GS)</td><td></td></tr>
 <tr><td>Innosuisse</td><td>EAER (GS)</td><td></td></tr>
 <tr><td>RUAG MRO Holding AG</td><td>DDPS (GS)</td><td>FDF (FFA)</td></tr>
-<tr><td>RUAG International Holding AG</td><td>FDF (FFA)</td><td></td></tr>
+<tr><td>RUAG International Holding AG</td><td>DDPS (GS)</td><td></td></tr>
 <tr><td>Swisscom AG</td><td>DETEC (GS)</td><td>FDF (FFA)</td></tr>
 <tr><td>Swiss Post AG</td><td>DETEC (GS)</td><td>FDF (FFA)</td></tr>
 <tr><td>SBB AG</td><td>DETEC (GS)</td><td>FDF (FFA)</td></tr>
