@@ -4,13 +4,13 @@ number: "261.1"
 title: Gesetz über die Gerichte und die Justizbehörden
 short: "Gerichtsgesetz, GerG"
 language: de
-version: 2023-08-01
-valid_until: 2025-06-30
-version_adopted: 2023-03-29
+version: 2025-07-01
+valid_until: 2025-12-01
+version_adopted: 2025-02-19
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1160/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1160/pdf_file"
 
 (Gerichtsgesetz, GerG)
 
-vom 09.06.2010 (Stand 01.08.2023)
+vom 09.06.2010 (Stand 01.07.2025)
 
 Der Landrat von Nidwalden,
 
@@ -1119,98 +1119,9 @@ beschliesst:
 
 ### 6.3.6 Ordnungsbussenverfahren
 
-#### Art. 96
+#### Art. 96–101
 
-**Bundesrechtliche Ordnungsbussen im Strassenverkehr**
-
-<sup>1</sup> Die Erhebung der Ordnungsbussen im Strassenverkehr gemäss dem Ordnungsbussengesetz[^96-1] richtet sich nach dem Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr (Kantonales Strassenverkehrsgesetz)[^96-2].
-
-[^96-1]: SR 741.03
-[^96-2]: NG 651.1
-
-#### Art. 97
-
-**Kantonalrechtliche Ordnungsbussen 1. Anwendbarkeit**
-
-<sup>1</sup> Übertretungen des kantonalen Rechts können in einem vereinfachten Verfahren mit Ordnungsbussen bis zu Fr. 500.– geahndet werden.
-
-<sup>2</sup> Der Regierungsrat bezeichnet die Übertretungen, bei denen das Ordnungsbussenverfahren angewendet wird, und bestimmt den Bussenbetrag.
-
-<sup>3</sup> Das Verfahren ist ausgeschlossen bei Übertretungen durch Jugendliche, die das 15. Altersjahr noch nicht vollendet haben.
-
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen der Jagdgesetzgebung[^97-1].
-
-[^97-1]: NG 841.1
-
-#### Art. 98
-
-**2. Befugnis zur Erhebung**
-
-<sup>1</sup> Zur Erhebung von Ordnungsbussen sind die Kantonspolizei und die mit ähnlichen Funktionen betrauten, vom Regierungsrat bezeichneten Personen ermächtigt.
-
-<sup>2</sup> Diese Befugnis steht ihnen zu, wenn sie die Übertretung selber festgestellt haben.
-
-#### Art. 99
-
-**3. Verfahren**
-
-<sup>1</sup> Die Ordnungsbussen können an Ort und Stelle erhoben werden.
-
-<sup>2</sup> Die gebüsste Person kann die Busse sofort gegen Quittung, die ihren Namen nicht nennt, oder binnen einer Frist von 30 Tagen bezahlen.
-
-<sup>3</sup> Die Busse wird mit der Bezahlung rechtskräftig.
-
-<sup>4</sup> Wird die Busse nicht bezahlt, so wird das ordentliche Strafverfahren gemäss der StPO[^99-1] beziehungsweise der JStPO[^99-2] eingeleitet.
-
-[^99-1]: SR 312.0
-[^99-2]: SR 312.1
-
-#### Art. 100
-
-**4. Ordentliches Verfahren**
-
-<sup>1</sup> Von einer Ordnungsbusse wird abgesehen und das ordentliche Verfahren eingeleitet, wenn:
-
-- 1\. eine Übertretung mit einer Widerhandlung zusammentrifft, die nicht im Ordnungsbussenverfahren geahndet werden kann;
-- 2\. bei mehreren erfüllten Ordnungsbussentatbeständen die zusammenzuzählenden Bussenbeträge eine Gesamtbusse ergeben, welche Fr. 600.– übersteigt; oder
-- 3\. der Sachverhalt tatsächlich und rechtlich nicht klar ist.
-
-#### Art. 100a
-
-**5. Sicherstellung und Beschlagnahme**
-
-<sup>1</sup> Mit der Erhebung der Ordnungsbusse kann die Polizei zu Beweiszwecken, zur Sicherstellung der Busse, zur Rückgabe an den Geschädigten oder zur Einziehung:
-
-- 1\. Gegenstände sicherstellen, die zur Begehung der Übertretung gedient haben oder bestimmt waren oder die durch die Übertretung hervorgebracht worden sind;
-- 2\. Vermögenswerte sicherstellen, die durch die Übertretung erlangt worden sind oder dazu bestimmt waren, die Übertretung zu veranlassen oder zu belohnen.
-
-<sup>2</sup> Die Sicherstellung ist auf dem Ordnungsbussenzettel zu vermerken.
-
-<sup>3</sup> Sichergestellte Gegenstände und Vermögenswerte gelten mit der Bezahlung der Busse als beschlagnahmt, sofern der Grund für die Sicherstellung nicht weggefallen ist.
-
-<sup>4</sup> Ist der Grund für die Sicherstellung weggefallen, händigt die Polizei die Gegenstände oder Vermögenswerte der berechtigten Person aus.
-
-<sup>5</sup> Wird aufgrund der Nichtbezahlung der Busse das ordentliche Verfahren eröffnet, hat die Staatsanwaltschaft über die Beschlagnahme zu befinden.
-
-#### Art. 100b
-
-**6. Selbständiges Einziehungsverfahren**
-
-<sup>1</sup> Bei Gegenständen oder Vermögenswerten die gestützt auf Art. 100a Abs. 3 als beschlagnahmt gelten, erlässt die Staatsanwaltschaft einen selbständigen Einziehungsbefehl oder verfügt die Einstellung des Verfahrens.
-
-<sup>2</sup> Der Einziehungsbefehl ist den unmittelbar Betroffenen zu eröffnen; sie brauchen nicht vorgängig angehört zu werden.
-
-<sup>3</sup> Im Übrigen gelten Art. 376 ff. StPO[^100b-1] sinngemäss.
-
-[^100b-1]: SR 312.0
-
-#### Art. 101
-
-**Gemeinderechtliche Ordnungsbussen**
-
-<sup>1</sup> Die Art. 97 ff. gelten sinngemäss für gemeinderechtliche Übertretungen. An die Stelle des Regierungsrates tritt der Gemeinderat. Die Bussen fallen den Gemeinden zu.
-
-<sup>2</sup> Von den Gemeinderäten aufgestellte Bussenlisten werden durch den Regierungsrat auf ihre Recht- und Zweckmässigkeit überprüft und genehmigt.
+**…**
 
 ### 6.3.7 Vollstreckung
 
