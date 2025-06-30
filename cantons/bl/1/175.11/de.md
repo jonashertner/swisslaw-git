@@ -4,13 +4,13 @@ number: "175.11"
 title: Verordnung zum Verwaltungsverfahrensgesetz Basel-Landschaft
 short: Vo VwVG BL
 language: de
-version: 2024-08-01
-valid_until: 2025-06-30
-version_adopted: 2023-12-19
+version: 2025-07-01
+valid_until: 2026-01-31
+version_adopted: 2025-03-25
 adopted: 2004-11-30
 in_force: 2005-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175.11"
-pdf: "https://bl.clex.ch/api/de/versions/3860/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3860/pdf_file"
 
 (Vo VwVG BL)
 
-Vom 30.11.2004 (Stand 01.08.2024)
+Vom 30.11.2004 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -90,14 +90,15 @@ beschliesst:
 
 - a. für eine erstinstanzliche Verfügung — CHF 100–300.–;
 - b. für einen Entscheid gemäss §§ 39–44 Verwaltungsverfahrensgesetz — CHF 100–500.–;
-- c. für einen Beschwerdeentscheid — CHF 300–600.–.
+- c. für einen Beschwerdeentscheid — CHF 300–1'200.–.
 
 <sup>2</sup> Bei offensichtlich unzulässigen oder offensichtlich unbegründeten Beschwerden können Entscheidgebühren bis CHF 5'000.– erhoben werden.
 
-<sup>3</sup> Reduzierte Entscheidgebühren können erhoben werden, wenn:
+<sup>3</sup> Der Rahmen der Entscheidgebühren kann unterschritten werden, wenn:
 
-- a. eine Beschwerde abgeschrieben oder
-- b. durch Vergleich erledigt werden kann.
+- a. ein Verfahren abgeschrieben wird;
+- b. ein Verfahren durch Vergleich erledigt wird;
+- c. die ordentliche Mindestgebühr unverhältnismässig ist.
 
 #### § 7
 
@@ -113,7 +114,7 @@ beschliesst:
 
 <sup>1</sup> Für die Bemessung der Parteientschädigung gelten sinngemäss die Vorschriften der basellandschaftlichen Tarifordnung für die Anwältinnen und Anwälte. Die Berechnung erfolgt nach Zeitaufwand. Zuschläge nach Interessewert werden nicht gewährt. Unnötige Kosten begründen keinen Anspruch auf Parteientschädigung.
 
-<sup>2</sup> Die Anwältin oder der Anwalt reicht eine detaillierte Kostennote zusammen mit der Beschwerdebegründung ein, andernfalls setzt die Beschwerdeinstanz die Parteientschädigung von Amtes wegen und nach Ermessen fest.
+<sup>2</sup> Die Anwältin oder der Anwalt reicht eine detaillierte Kostennote zusammen mit der Beschwerdebegründung ein, andernfalls setzt die Beschwerdeinstanz die Parteientschädigung von Amts wegen und nach Ermessen fest.
 
 <sup>3</sup> Für das Beschwerde- und Einspracheverfahren wird in der Regel ein Honorar von CHF 220.– pro Stunde gewährt.
 
@@ -342,7 +343,7 @@ beschliesst:
 
 <sup>1</sup> Die sachlich zuständige Direktion stellt fest, ob die zugrunde liegende Verfügung vollziehbar im Sinne von § 45 Abs. 1 Verwaltungsverfahrensgesetz ist.
 
-<sup>2</sup> Die Direktion setzt der pflichtigen Person eine angemessene Frist zur Herstellung des rechtmässigen Zustands, sofern dies nicht bereits in der zugrunde liegenden Verfügung geschehen ist. Für den Versäumnisfall droht sie der pflichtigen Person unter Hinweis auf Art. 292 des Schweizerischen Strafgesetzbuches den zwangsweisen Vollzug an.
+<sup>2</sup> Die Direktion setzt der pflichtigen Person eine angemessene Frist zur Herstellung des rechtmässigen Zustands, sofern dies nicht bereits in der zugrunde liegenden Verfügung geschehen ist. Für den Versäumnisfall droht sie der pflichtigen Person unter Hinweis auf Art. 292 des Schweizerischen Strafgesetzbuchs den zwangsweisen Vollzug an.
 
 <sup>3</sup> Nach ergebnislosem Fristablauf übermittelt die sachlich zuständige Direktion der Sicherheitsdirektion die Akten mit dem Vollzugsbegehren.
 
