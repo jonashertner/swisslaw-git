@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2025-06-23
-valid_until: 2025-06-30
-version_adopted: 2025-06-23
+version: 2025-07-01
+valid_until: 2025-08-17
+version_adopted: 2025-07-01
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4488/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 23.06.2025)
+vom 04.07.2017 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -82,6 +82,9 @@ beschliesst:
 <tr><td>Aesch</td><td>12. August 2024</td><td>15. April 2025</td></tr>
 <tr><td>Egolzwil</td><td>4. September 2024</td><td>20. Mai 2025</td></tr>
 <tr><td>Adligenswil</td><td>24. November 2024</td><td>23. Juni 2025</td></tr>
+<tr><td>Knutwil</td><td>13. Dezember 2023</td><td>1. Juli 2025</td></tr>
+<tr><td>Malters</td><td>22. September 2024</td><td>1. Juli 2025</td></tr>
+<tr><td>Udligenswil</td><td>25. November 2024</td><td>1. Juli 2025</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
