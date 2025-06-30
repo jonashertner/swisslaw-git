@@ -4,13 +4,12 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2025-10-15
+version: 2025-07-01
+version_adopted: 2024-11-13
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3258/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3259/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3258/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.01.2025)
+du 23.10.2013 (état au 01.07.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -31,69 +30,25 @@ arrête:
 
 [^ingress-1]: RSB [812.11](https://www.belex.sites.be.ch/data/812.11/fr)
 
-## 1 Commissions
+## 1
 
-### 1.1 Dispositions générales
+### 1.1
 
-#### Art. 1
+#### Art. 1–4
 
-**Nomination**
+**…**
 
-<sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de chaque commission, sur proposition de la Direction de la santé, des affaires sociales et de l'intégration. Le directeur ou la directrice de la santé, des affaires sociales et de l'intégration nomme les autres membres.
-
-<sup>1a</sup> Le Conseil du Jura bernois et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne sont consultés préalablement sur les candidatures issues du Jura bernois ou de l'arrondissement administratif de Biel/Bienne.
-
-<sup>2</sup> Le mandat est de quatre ans. Il peut être reconduit.
-
-<sup>3</sup> Les deux sexes sont représentés équitablement.
-
-#### Art. 2
-
-**Organisation**
-
-<sup>1</sup> L’Office de la santé (ODS) assure le secrétariat des commissions.
-
-<sup>2</sup> En particulier, il établit pour chaque séance un procès-verbal présentant les décisions et les principaux arguments.
-
-<sup>3</sup> Chaque commission se dote d’un règlement et définit en particulier la fréquence des séances, la suppléance du président ou de la présidente, les modalités de vote, la récusation de membres et le recours à des experts ou des expertes.
-
-#### Art. 3
-
-**Indemnisation**
-
-<sup>1</sup> Les membres des commissions sont indemnisés conformément à l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales [^3-1].
-
-<sup>2</sup> Les indemnités versées aux experts et aux expertes mandatés par les commissions sont prises en charge par la Direction de la santé, des affaires sociales et de l'intégration, qui en détermine le montant sur proposition de la commission concernée.
-
-[^3-1]: RSB 152.256
-
-#### Art. 4
-
-**Sous-commissions**
-
-<sup>1</sup> Les commissions peuvent instituer des sous-commissions auxquelles elles demandent conseil sur des questions particulières relevant de leur domaine respectif.
-
-### 1.2 Commission de la santé
+### 1.2
 
 #### Art. 5
 
-<sup>1</sup> La Commission de la santé se compose de 20 à 25 membres disposant du droit de vote.
+**…**
 
-<sup>2</sup> Elle réunit notamment des représentants et représentantes des fournisseurs de prestations, des assureurs, des associations de patients et de patientes ainsi que d’autres organisations du domaine de la santé, une délégation de la Direction de la santé, des affaires sociales et de l’intégration ainsi qu’un membre de la Commission des soins psychiatriques.
-
-<sup>3</sup> Les différentes spécialités y sont représentées équitablement.
-
-<sup>4</sup> La Commission de la santé prend position sur les questions fondamentales ayant trait aux soins hospitaliers, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
-
-### 1.3 Commission des soins psychiatriques
+### 1.3
 
 #### Art. 6
 
-<sup>1</sup> La Commission des soins psychiatriques se compose de 15 à 20 membres disposant du droit de vote.
-
-<sup>2</sup> Elle réunit en particulier des représentants et des représentantes des institutions psychiatriques et d’autres spécialités ainsi que des organisations de patients et de patientes et de la Direction de la santé, des affaires sociales et de l'intégration.
-
-<sup>3</sup> Elle prend position sur des questions ayant trait aux soins psychiatriques, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
+**…**
 
 ### 1.4
 
@@ -250,7 +205,7 @@ arrête:
 
 <sup>1</sup> Chaque hôpital répertorié situé dans le canton de Berne
 
-- a élabore, à l’intention de l’ODS, un modèle présentant les dispositions prises pour garantir à tous les patients et patientes ainsi qu’à leurs proches l’accès à des prestations d’aumônerie;
+- a élabore, à l’intention de l’Office de la santé (ODS), un modèle présentant les dispositions prises pour garantir à tous les patients et patientes ainsi qu’à leurs proches l’accès à des prestations d’aumônerie;
 - b remet annuellement à l’ODS un rapport d’activité en la matière.
 
 <sup>2</sup> Le modèle porte sur les éléments suivants:

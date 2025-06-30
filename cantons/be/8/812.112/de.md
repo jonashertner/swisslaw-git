@@ -4,13 +4,12 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2025-10-15
+version: 2025-07-01
+version_adopted: 2024-11-13
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3258/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3258/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.01.2025)
+vom 23.10.2013 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -31,69 +30,25 @@ beschliesst:
 
 [^ingress-1]: BSG [812.11](https://www.belex.sites.be.ch/data/812.11/de)
 
-## 1 Kommissionen
+## 1
 
-### 1.1 Allgemeine Bestimmungen
+### 1.1
 
-#### Art. 1
+#### Art. 1–4
 
-**Wahl**
+**…**
 
-<sup>1</sup> Der Regierungsrat wählt auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion die Präsidentinnen und Präsidenten der Kommissionen. Die Direktorin oder der Direktor der Gesundheits-, Sozial- und Integrationsdirektion wählt die weiteren Mitglieder.
-
-<sup>1a</sup> Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne werden vorgängig zu den Mitgliedern aus dem Berner Jura oder aus dem Verwaltungskreis Biel/Bienne konsultiert.
-
-<sup>2</sup> Die Amtsdauer beträgt vier Jahre. Die Mitglieder sind wiederwählbar.
-
-<sup>3</sup> Beide Geschlechter sind angemessen vertreten.
-
-#### Art. 2
-
-**Organisation**
-
-<sup>1</sup> Das Gesundheitsamt führt das Sekretariat der Kommissionen.
-
-<sup>2</sup> Es erstellt insbesondere über jede Kommissionssitzung ein Protokoll mit den Beschlüssen und wichtigsten Erwägungen.
-
-<sup>3</sup> Jede Kommission gibt sich ein Geschäftsreglement und regelt insbesondere die Sitzungshäufigkeit, die Stellvertretung der Präsidentin oder des Präsidenten, das Abstimmungsverfahren, den Ausstand von Mitgliedern und den Beizug von Sachverständigen.
-
-#### Art. 3
-
-**Entschädigung**
-
-<sup>1</sup> Die Entschädigung richtet sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^3-1].
-
-<sup>2</sup> Die Entschädigung für beigezogene Sachverständige wird von der Gesundheits-, Sozial- und Integrationsdirektion auf Antrag der Kommission festgesetzt und getragen.
-
-[^3-1]: BSG 152.256
-
-#### Art. 4
-
-**Fachausschüsse**
-
-<sup>1</sup> Die Kommissionen können Fachausschüsse zur Beratung bestimmter Fragestellungen aus ihrem Fachbereich einsetzen.
-
-### 1.2 Gesundheitskommission
+### 1.2
 
 #### Art. 5
 
-<sup>1</sup> Die Gesundheitsskommission besteht aus 20 bis 25 stimmberechtigten Mitgliedern.
+**…**
 
-<sup>2</sup> Ihr gehören insbesondere Vertretungen der Leistungserbringer, der Versicherer, der Patientenorganisationen, weiterer Organisationen des Gesundheitswesens sowie eine Vertretung der Gesundheits-, Sozial- und Integrationsdirektion und ein Mitglied der Kommission Psychiatrie an.
-
-<sup>3</sup> Die verschiedenen Fachbereiche sind angemessen vertreten.
-
-<sup>4</sup> Die Gesundheitskommission nimmt Stellung zu grundlegenden Fragen der Spitalversorgung, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
-
-### 1.3 Kommission Psychiatrie
+### 1.3
 
 #### Art. 6
 
-<sup>1</sup> Die Kommission Psychiatrie besteht aus 15 bis 20 stimmberechtigten Mitgliedern.
-
-<sup>2</sup> Ihr gehören insbesondere Vertreterinnen und Vertreter der Institutionen der Psychiatrieversorgung, der Patientenorganisationen, weiterer Fachbereiche sowie der Gesundheits-, Sozial- und Integrationsdirektion an.
-
-<sup>3</sup> Die Kommission Psychiatrie nimmt Stellung zu Fragen der Psychiatrieversorgung, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
+**…**
 
 ### 1.4
 
