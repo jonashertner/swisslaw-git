@@ -4,11 +4,11 @@ title: "Verordnung vom 23. März 2018 des Schweizerischen Akkreditierungsrats ü
 short: GebV-SAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/336"
 language: de
-version: 2020-09-01
+version: 2025-07-01
 adopted: 2018-03-23
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20200901/de/xml/fedlex-data-admin-ch-eli-cc-2018-336-20200901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20200901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2018-336-20250701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20200901/de"
 
 (Gebührenverordnung SAR, GebV-SAR)
 
-vom 23. März 2018 (Stand am 1. September 2020)
+vom 23. März 2018 (Stand am 1. Juli 2025)
 
 vom Hochschulrat genehmigt am 25. Mai 2018
 
@@ -55,22 +55,18 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 <sup>1</sup>
 
-Für die Akkreditierungsverfahren nach HFKG werden gestützt auf Artikel 35 Absatz 1 HFKG kostendeckende Gebühren erhoben. Dabei wird unterschieden zwischen:
+Für die Akkreditierungsverfahren nach HFKG werden gestützt auf Artikel 35 Absatz 1 HFKG kostendeckende Gebühren erhoben. Diese setzen sich zusammen aus:[^3-1]
 
 - a. den direkten Kosten, namentlich den Honoraren der Gutachterinnen und Gutachter, deren Spesen sowie den Spesen der Mitarbeiterinnen und Mitarbeiter der Akkreditierungsagentur im Zusammenhang mit der Vor-Ort-Visite;
 - b. den indirekten Kosten, namentlich dem Aufwand des SAR und der Akkreditierungsagentur im Zusammenhang mit den Akkreditierungsverfahren.
 
-<sup>2</sup>
+<sup>2</sup> …[^3-2]
 
-Bei der institutionellen Akkreditierung werden die direkten und die indirekten Kosten wie folgt in Rechnung gestellt:
+<sup>3</sup> …[^3-3]
 
-- a. Die Akkreditierungsagentur stellt den Hochschulen und anderen Institutionen des Hochschulbereichs, deren Träger gemäss ZSAV-HS zur Finanzierung des SAR und der Akkreditierungsagentur beitragen, nur die direkten Kosten in Rechnung.
-- b. Die anderen anerkannten Agenturen stellen den Hochschulen und anderen Institutionen des Hochschulbereichs die direkten Kosten in Rechnung; sie können ihnen die indirekten Kosten bis zum Betrag gemäss Artikel 4 Absatz 2 in Rechnung stellen.[^3-1]
-
-<sup>3</sup> Bei der Programmakkreditierung werden den Hochschulen und anderen Institutionen des Hochschulbereichs unabhängig vom Träger die direkten und die indirekten Kosten in Rechnung gestellt.[^3-2]
-
-[^3-1]: Fassung gemäss Ziff. I der V des SAR vom 27. Sept. 2019, genehmigt vom Hochschulrat am 27. Febr. 2020 und in Kraft seit 1. Sept. 2020 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
-[^3-2]: Eingefügt durch Ziff. I der V des SAR vom 27. Sept. 2019, genehmigt vom Hochschulrat am 27. Febr. 2020 und in Kraft seit 1. Sept. 2020 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
+[^3-1]: Fassung gemäss Ziff. I der V des SAR vom 20. Sept. 2024, vom Hochschulrat genehmigt am 28. Febr. 2025 und in Kraft seit 1. Juli 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-2]: Aufgehoben durch Ziff. I der V des SAR vom 20. Sept. 2024, vom Hochschulrat genehmigt am 28. Febr. 2025 und mit Wirkung seit 1. Juli 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-3]: Eingefügt durch Ziff. I der V des SAR vom 27. Sept. 2019 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)). Aufgehoben durch Ziff. I der V des SAR vom 20. Sept. 2024, vom Hochschulrat genehmigt am 28. Febr. 2025 und mit Wirkung seit 1. Juli 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
 
 ## 2. Abschnitt: Gebühren für Akkreditierungsverfahren nach HFKG
 

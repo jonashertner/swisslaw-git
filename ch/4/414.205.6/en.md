@@ -4,11 +4,11 @@ title: "Ordinance of the Swiss Accreditation Council of 23 March 2018 on the Fee
 short: FeeO-SAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/336"
 language: en
-version: 2020-09-01
+version: 2025-07-01
 adopted: 2018-03-23
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20200901/en/xml/fedlex-data-admin-ch-eli-cc-2018-336-20200901-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20200901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2018-336-20250701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20250701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SAC Fees Ordinance, FeeO-SAC)
 
-of 23 March 2018 (Status as of 1 September 2020)
+of 23 March 2018 (Status as of 1 July 2025)
 
 approved by the Higher Education Council on 25 May 2018
 
@@ -57,22 +57,18 @@ Where this Ordinance does not lay down specific provisions, the provisions of th
 
 <sup>1</sup>
 
-Based on Article 35 paragraph 1 HEdA, cost-covering fees shall be charged for accreditation procedures in accordance with HEdA. Here, a distinction shall be drawn between:
+Based on Article 35 paragraph 1 HEdA, cost-covering fees shall be charged for accreditation procedures in accordance with HEdA. These fees cover:[^3-1]
 
 - a. direct costs, in particular the fees paid to assessors, their expenses and the expenses of Accreditation Agency employees in connection with on-site visits;
 - b. indirect costs, in particular the expenditure of the SAC and the Accreditation Agency in connection with accreditation procedures.
 
-<sup>2</sup>
+<sup>2</sup> …[^3-2]
 
-In the case of institutional accreditation, the direct and indirect costs shall be charged as follows:
+<sup>3</sup> …[^3-3]
 
-- a. The Accreditation Agency shall invoice higher education institutions and other institutions within the higher education sector whose sponsors are required under FCA-CHE to contribute funding to the SAC and to the Accreditation Agency for the direct costs.
-- b. The other recognised agencies shall invoice higher education institutions and other institutions within the higher education sector for the direct costs; they may invoice them for indirect costs up to the amount specified in Article 4 paragraph 2.[^3-1]
-
-<sup>3</sup> In the case of programme accreditation, the higher education institutions and other institutions within the higher education sector shall be invoiced for the direct and indirect costs irrespective of the sponsor.[^3-2]
-
-[^3-1]: Amended by No I of the SAC O of 27 Sept. 2019, approved by the Higher Education Council on 27 Feb. 2020 and in force since 1 Sept. 2020 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
-[^3-2]: Inserted by No I of the SAC O of 27 Sept. 2019, approved by the Higher Education Council on 27 Feb. 2020 and in force since 1 Sept. 2020 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
+[^3-1]: Amended by No I of the SAC O of 20 Sept. 2024, approved by the Higher Education Council on 28 Feb. 2025 and in force since 1 July 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-2]: Repealed by No I of the SAC O of 20 Sept. 2024, approved by the Higher Education Council on 28 Feb. 2025 and with effect from 1 July 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-3]: Eingefügt durch Ziff. I der V des SAR vom 27. Sept. 2019 ([AS 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)). Repealed by No I of the SAC O of 20 Sept. 2024, approved by the Higher Education Council on 28 Feb. 2025 and with effect from 1 July 2025 ([AS 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
 
 ## Section 2 Fees for Accreditation Procedures in accordance with HEdA
 

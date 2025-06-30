@@ -4,11 +4,11 @@ title: "Ordinanza del 23 marzo 2018 del Consiglio svizzero di accreditamento sug
 short: OEm-CSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/336"
 language: it
-version: 2020-09-01
+version: 2025-07-01
 adopted: 2018-03-23
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20200901/it/xml/fedlex-data-admin-ch-eli-cc-2018-336-20200901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20200901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/336/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2018-336-20250701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/336/20200901/it"
 
 (Ordinanza sugli emolumenti CSA, OEm-CSA)
 
-del 23 marzo 2018 (Stato 1° settembre 2020)
+del 23 marzo 2018 (Stato 1° luglio 2025)
 
 Approvata dal Consiglio delle scuole universitarie il 25 maggio 2018
 
@@ -55,22 +55,18 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>1</sup>
 
-In base all’articolo 35 capoverso 1 LPSU, per le procedure di accreditamento secondo la LPSU sono riscossi emolumenti destinati a coprire i costi. Si distinguono due categorie di costi:
+In base all’articolo 35 capoverso 1 LPSU, per le procedure di accreditamento secondo la LPSU sono riscossi emolumenti destinati a coprire i costi. Questi sono composti da:[^3-1]
 
 - a. i costi diretti, segnatamente gli onorari degli esperti, le loro spese e le spese dei collaboratori dell’Agenzia di accreditamento legati alle visite sul posto;
 - b. i costi indiretti, segnatamente il dispendio del CSA e dell’Agenzia di accreditamento legato alle procedure di accreditamento.
 
-<sup>2</sup>
+<sup>2</sup> ...[^3-2]
 
-Nelle procedure di accreditamento istituzionale i costi diretti e indiretti sono fatturati come segue:
+<sup>3</sup> ...[^3-3]
 
-- a. l’Agenzia di accreditamento fattura alle scuole universitarie e alle altre istituzioni del settore universitario i cui enti responsabili secondo la ConSU contribuiscono al finanziamento del CSA e dell’Agenzia di accreditamento solo i costi diretti;
-- b. le altre agenzie riconosciute fatturano alle scuole universitarie e alle altre istituzioni del settore universitario i costi diretti; esse possono fatturare loro i costi indiretti fino all’importo massimo fissato all’articolo 4 capoverso 2.[^3-1]
-
-<sup>3</sup> Nell’accreditamento di programmi i costi diretti e indiretti sono fatturati alle scuole universitarie e alle altre istituzioni del settore universitario, indipendentemente dall’ente responsabile.[^3-2]
-
-[^3-1]: Nuovo testo giusta il n. I dell’O del CSA del 27 set. 2019, approvata dal Consiglio delle scuole universitarie il 27 feb. 2020, in vigore dal 1° set. 2020 ([RU 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
-[^3-2]: Introdotto n. I dell’O del CSA del 27 set. 2019, approvata dal Consiglio delle scuole universitarie il 27 feb. 2020, in vigore dal 1° set. 2020 ([RU 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del CSA del 20 set. 2024, approvata dal Consiglio delle scuole universitarie il 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-2]: Abrogato dalla cifra I dell’O del CSA del 20 set. 2024, approvata dal Consiglio delle scuole universitarie il 28 feb. 2025, con effetto dal 1° lug. 2025 ([RU 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
+[^3-3]: Introdotto cifra I dell’O del CSA del 27 set. 2019, approvata dal Consiglio delle scuole universitarie il 27 feb. 2020 ([RU 2020 3561](https://fedlex.data.admin.ch/eli/oc/2020/631)). Abrogato dalla cifra I dell’O del CSA del 20 set. 2024, approvata dal Consiglio delle scuole universitarie il 28 feb. 2025, con effetto dal 1° lug. 2025 ([RU 2025 378](https://fedlex.data.admin.ch/eli/oc/2025/378)).
 
 ## Sezione 2: Emolumenti per le procedure di accreditamento secondo la LPSU
 
