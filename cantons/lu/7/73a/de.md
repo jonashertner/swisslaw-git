@@ -4,13 +4,13 @@ number: 73a
 title: Besoldungsverordnung für das Staatspersonal
 short: BVO
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-12-10
+version: 2025-07-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-18
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73a"
-pdf: "https://srl.lu.ch/api/de/versions/4321/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4321/pdf_file"
 
 (BVO)
 
-vom 24.09.2002 (Stand 01.01.2025)
+vom 24.09.2002 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -289,6 +289,18 @@ beschliesst:
 <sup>1</sup> Einzelne oder mehrere Angestellte gemeinsam können Vorschläge zur Verbesserung der Organisation oder von Arbeitsabläufen an die zuständige Behörde einreichen.
 
 <sup>2</sup> Die zuständige Behörde kann einzelnen oder einer Gruppe von Angestellten eine Vergütung von maximal 1000 Franken zusprechen. Auf Antrag der zuständigen Behörde kann das zuständige Departement, die Staatskanzlei oder das zuständige oberste Gericht den Angestellten eine Vergütung von maximal 2000 Franken zusprechen.
+
+#### § 20a
+
+**Vergütung für die Empfehlung von neuem Personal**
+
+<sup>1</sup> Für die Empfehlung, die zu einer Neuanstellung einer Person in einem befristeten Arbeitsverhältnis von mindestens 12 Monaten oder in einem unbefristeten Arbeitsverhältnis führt, spricht die zuständige Behörde der oder dem empfehlenden Angestellten eine Vergütung von 500 Franken zu.
+
+<sup>2</sup> Für Empfehlungen zur Anstellung von Lernenden sowie Praktikantinnen und Praktikanten werden keine Vergütungen zugesprochen.
+
+<sup>3</sup> Angestellte der Funktionsgruppe Ia gemäss § 2 der Besoldungsordnung[^20a-1], direkte Vorgesetzte der zu besetzenden Stelle sowie Angestellte, die in der HR-Beratung und im Recruiting Center der Dienststelle Personal tätig sind, haben keinen Anspruch auf die Vergütung.
+
+[^20a-1]: SRL Nr. [73](https://srl.lu.ch/data/73/de)
 
 #### § 21
 
