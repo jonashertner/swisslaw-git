@@ -4,11 +4,11 @@ title: Verordnung des IGE vom 14. Juni 2016 über Gebühren (GebV-IGE)
 short: GebV-IGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: de
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/de"
 
 (GebV-IGE)
 
-vom 14. Juni 2016 (Stand am 1. Juli 2023)
+vom 14. Juni 2016 (Stand am 1. Juli 2025)
 
 Vom Bundesrat genehmigt am 2. Dezember 2016
 
@@ -157,7 +157,7 @@ Anhang[^t-1]
 
 ## Gebührenansätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 13. Juni 2018, vom BR genehmigt am 21. Sept. 2018 ([AS 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), vom 31. Okt. 2018, vom BR genehmigt am 17. April 2019 ([AS 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), vom 22. März 2021, vom BR genehmigt am 18. Aug. 2021 ([AS 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)) und Ziff. II der V des IGE vom 23. Juni 2022, vom BR genehmigt am 16. Dez. 2022 und in Kraft seit 1. Juli 2023 ([AS 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 31. Okt. 2018, vom BR genehmigt am 17. April 2019 (AS **2019** 1577), vom 22. März 2021, vom BR genehmigt am 18. Aug. 2021 (AS **2021** 511), Ziff. II der V des IGE vom 23. Juni 2022, vom BR genehmigt am 16. Dez. 2022 (AS **2023** 1) und Ziff. I der V des IGE vom 18. Juni 2024, vom BR genehmigt am 14. Mai 2025 und in Kraft seit 1. Juli 2025 (AS **2025** 377). SR **232.11**
 
 ### 1. Gebühren für Marken und geografische Angaben
 
@@ -288,7 +288,7 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-lvl6-1]: [SR 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
 
-### 7. Verschiedene Kanzleigebühren
+### 7. Übrige Gebühren
 
 <table>
 <tr><th>Beschreibung der Gebühr</th><th>Code</th><th>Fr.</th></tr>
@@ -296,4 +296,6 @@ Anhang[^t-1]
 <tr><td>Kopien sowie Behandlung besonderer Anträge und Dienstleistungen nach Artikel 3 Absatz 2, nach Zeitaufwand</td><td></td><td></td></tr>
 <tr><td>– pro angebrochene Zeiteinheit von 5 Minuten</td><td>5200</td><td>15.–</td></tr>
 <tr><td>Zuschlag bei dringlichen Aufträgen</td><td>5300</td><td>bis zu 50 % der geschuldeten Gebühr</td></tr>
+<tr><td>Verfahren zur Vernichtung von Kleinsendungen</td><td>5400</td><td>120.–</td></tr>
+<tr><td>Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen</td><td>5500</td><td>80.–</td></tr>
 </table>

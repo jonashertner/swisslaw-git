@@ -4,11 +4,11 @@ title: "Ordonnance de l'IPI du 14 juin 2016 sur les taxes (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: fr
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/fr"
 
 (OTa-IPI)
 
-du 14 juin 2016 (État le 1<sup>er</sup> juillet 2023)
+du 14 juin 2016 (État le 1<sup>er</sup> juillet 2025)
 
 Approuvée par le Conseil fédéral le 16 décembre 2022
 
@@ -157,7 +157,7 @@ Annexe[^t-1]
 
 ## Tarif des taxes
 
-[^t-1]: Mise à jour par le ch. I des O de l’IPI du 13 juin 2018, approuvé par le CF le 21 sept. 2018 ([RO 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), du 22 mars 2021, approuvée par le CF le 18 août 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)) et le ch. II de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> juil 2023 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+[^t-1]: Mise à jour par le ch. I des O de l’IPI du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), du 22 mars 2021, approuvée par le CF le 18 août 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), le ch. II de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) et le ch. I de l’O de l’IPI du 18 juin 2024, approuvée par le CF le 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juil 2025 ([RO 2025 377](https://fedlex.data.admin.ch/eli/oc/2025/377)).
 
 ### 1. Taxes perçues en matière de marques et d’indications géographiques
 
@@ -195,7 +195,6 @@ Annexe[^t-1]
 <tr><th>Article</th><th></th><th>Description de la taxe</th><th>Code</th><th>Fr.</th></tr>
 <tr><th>Art. 17, al. 1</th><th>ODes[^annexu1-lvlu1-lvl2-1]</th><th>Taxe d’enregistrement</th><th></th><th></th></tr>
 <tr><th>Art. 19, al. 2 Art. 17, al. 2, let. a</th><th>LDes[^annexu1-lvlu1-lvl2-2] ODes</th><th>– Taxe de base pour la première période de protection (1<sup>re</sup> à 5<sup>e</sup> années)</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>[tab]</th><th></th><th></th></tr>
 <tr><th></th><th></th><th>– pour un design déposé isolément ou pour le premier design d’un dépôt multiple</th><th>3000</th><th>200.–</th></tr>
 <tr><th></th><th></th><th>– pour chaque design supplémentaire d’un dépôt multiple</th><th>3100</th><th>100.–</th></tr>
 <tr><th></th><th></th><th>mais au maximum</th><th>3200</th><th>700.–</th></tr>
@@ -296,5 +295,7 @@ Annexe[^t-1]
 <tr><td>Légalisation par la Chancellerie fédérale</td><td>5100</td><td>frais</td></tr>
 <tr><td>Copies, traitement de demandes particulières et prestations de services au sens de l’art. 3, al. 2, en fonction du temps effectif</td><td></td><td></td></tr>
 <tr><td>– par unité de temps de 5 minutes commencée</td><td>5200</td><td>15.–</td></tr>
-<tr><td>[tab] Surtaxe pour les mandats urgents</td><td>5300</td><td>jusqu’à concurrence de 50 % de la taxe due initialement</td></tr>
+<tr><td>Surtaxe pour les mandats urgents</td><td>5300</td><td>jusqu’à concurrence de 50 % de la taxe due initialement</td></tr>
+<tr><td>Procédure de destruction de petits envois</td><td>5400</td><td>120.–</td></tr>
+<tr><td>Procédure simplifiée de destruction de petits envois</td><td>5500</td><td>80.–</td></tr>
 </table>

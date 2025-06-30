@@ -4,11 +4,11 @@ title: "Ordinanza dell'IPI del 14 giugno 2016 sulle tasse (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: it
-version: 2023-07-01
+version: 2025-07-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20230701/it"
 
 (OTa-IPI)
 
-del 14 giugno 2016 (Stato 1° luglio 2023)
+del 14 giugno 2016 (Stato 1° luglio 2025)
 
 Approvata dal Consiglio federale il 2 dicembre 2016
 
@@ -135,7 +135,7 @@ Le tasse devono essere pagate in franchi svizzeri:
 
 L’ammontare della tassa di proroga per le registrazioni di marchi la cui validità scade prima del 1° luglio 2024 è stabilito secondo il diritto anteriore.
 
-[^11a-1]: Introdotto dal n. I dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+[^11a-1]: Introdotto dalla cifra I dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
 #### Art. 12
 
@@ -143,7 +143,7 @@ L’ammontare della tassa di proroga per le registrazioni di marchi la cui valid
 
 Il regolamento del 28 aprile 1997[^12-1] sulle tasse dell’Istituto federale della proprietà intellettuale è abrogato.
 
-[^12-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197)]
+[^12-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197)]
 
 #### Art. 13
 
@@ -157,7 +157,7 @@ Allegato[^t-1]
 
 ## Tariffe delle tasse
 
-[^t-1]: Aggiornato dai n. I delle O dell’IPI del 13 giu. 2018, approvata dal CF il 21 set. 2018 ([RU 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), del 22 mar. 2021, approvata dal CF il 18 ago. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)) e dal n. II dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
+[^t-1]: Aggiornato dalle cifre I delle O dell’IPI del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), del 22 mar. 2021, approvata dal CF il 18 ago. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), dalla cifra II dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) e dalla cifra I dell’O dell’IPI del 18 giu. 2024, approvata dal CF il 14 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 377](https://fedlex.data.admin.ch/eli/oc/2025/377)).
 
 ### 1. Tasse riscosse in materia di marchi e indicazioni geografiche
 
@@ -195,7 +195,6 @@ Allegato[^t-1]
 <tr><th>Articolo</th><th></th><th>Descrizione</th><th>Codice</th><th>Fr.</th></tr>
 <tr><th>Art. 17 cpv. 1</th><th>ODes[^annexu1-lvlu1-lvl2-1]</th><th>Tassa di registrazione</th><th></th><th></th></tr>
 <tr><th>Art. 19 cpv. 2 Art. 17 cpv. 2 lett. a</th><th>LDes[^annexu1-lvlu1-lvl2-2] ODes</th><th>– Tassa di base per il primo periodo di protezione (1°–5° anno)</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>[tab]</th><th></th><th></th></tr>
 <tr><th></th><th></th><th>– per un design depositato separatamente oppure per il primo design di un deposito cumulativo</th><th>3000</th><th>200.–</th></tr>
 <tr><th></th><th></th><th>– per ogni design supplementare di un deposito cumulativo</th><th>3100</th><th>100.–</th></tr>
 <tr><th></th><th></th><th>ma al massimo</th><th>3200</th><th>700.–</th></tr>
@@ -292,9 +291,11 @@ Allegato[^t-1]
 ### 7. Tasse diverse di cancelleria
 
 <table>
-<tr><th colspan="3">Descrizione</th><th>Codice</th><th>Fr.</th></tr>
-<tr><td colspan="3">Autenticazione da parte della Cancelleria federale</td><td>5100</td><td>spese</td></tr>
-<tr><td colspan="3">Copie, nonché trattazione di richieste speciali e prestazione di servizi giusta l’articolo 3 capoverso 2, secondo il tempo impiegato</td><td></td><td></td></tr>
-<tr><td colspan="3">– inoltre per ogni periodo di cinque minuti iniziato</td><td>5200</td><td>15.–</td></tr>
-<tr><td colspan="3">[tab] Soprattassa per richieste urgenti</td><td>5300</td><td>fino al 50 % della tassa dovuta</td></tr>
+<tr><th>Descrizione</th><th>Codice</th><th>Fr.</th></tr>
+<tr><td>Autenticazione da parte della Cancelleria federale</td><td>5100</td><td>spese</td></tr>
+<tr><td>Copie, nonché trattazione di richieste speciali e prestazione di servizi giusta l’articolo 3 capoverso 2, secondo il tempo impiegato</td><td></td><td></td></tr>
+<tr><td>– per ogni periodo di cinque minuti iniziato</td><td>5200</td><td>15.–</td></tr>
+<tr><td>Soprattassa per richieste urgenti</td><td>5300</td><td>fino al 50 % della tassa dovuta</td></tr>
+<tr><td>Procedura per la distruzione di piccoli invii</td><td>5400</td><td>120.–</td></tr>
+<tr><td>Procedura semplificata per la distruzione di piccoli invii</td><td>5500</td><td>80.–</td></tr>
 </table>
