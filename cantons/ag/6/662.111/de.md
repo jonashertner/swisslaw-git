@@ -4,13 +4,13 @@ number: "662.111"
 title: Gebührenverordnung
 short: GebührV
 language: de
-version: 2025-01-01
-valid_until: 2025-06-30
-version_adopted: 2024-11-27
+version: 2025-07-01
+valid_until: 2025-08-31
+version_adopted: 2025-04-02
 adopted: 2024-03-13
 in_force: 2024-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/662.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3709/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3816/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3709/pdf_file"
 
 (GebührV)
 
-Vom 13.03.2024 (Stand 01.01.2025)
+Vom 13.03.2024 (Stand 01.07.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -695,7 +695,7 @@ beschliesst:
 
 - a) Inspektionen und Untersuchungen mit Beanstandungen und Massnahmen im Bereich der Kontrolle von Lebensmitteln und Gebrauchsgegenständen; nach Aufwandpunkten multipliziert mit dem Kostenfaktor
   - 1\. Aufwandpunkte gemäss Anhang 1
-  - 2\. Kostenfaktor — Fr. 2.20
+  - 2\. Kostenfaktor — Fr. 2.30
 - b) Inspektionen und Untersuchungen mit Beanstandungen und Massnahmen im Bereich der Kontrolle von Schlacht-, Zerlege- und Wildbearbeitungsbetrieben sowie der Primärproduktion; nach Anzahl und Schweregrad der Mängel sowie Kosten — max. Fr. 2'000.–
 - c) kostenpflichtige Nachkontrollen mit zu behebenden Mängeln; nach Kosten
 - d) auf Antrag durchgeführte besondere Kontrollen und Dienstleistungen; nach Kosten
@@ -705,13 +705,15 @@ beschliesst:
 - h) Schlachttier- und Fleischuntersuchungen ausserhalb der vereinbarten Termine; pro Stunde und Vollzugsperson — Fr. 150.–
 - i) Kontrollen der Hof- und Weidetötung sowie mobiler Schlachtanlagen; nach Kosten
 - j) Kontrollen von Zerlegebetrieben; nach Kosten — min. Fr. 50.–
+- k) Alkoholtestkäufe mit Beanstandungen; nach Kosten — max. Fr. 5'000.–
 
-<sup>2</sup> Das AVS erhebt im Bereich des Vollzugs des Bundesgesetzes zum Schutz vor Passivrauchen vom 3. Oktober 2008[^27-1] folgende Gebühren:
+<sup>2</sup> Das AVS erhebt im Bereich des Vollzugs des Bundesgesetzes zum Schutz vor Passivrauchen vom 3. Oktober 2008[^27-1] und des Bundesgesetzes über Tabakprodukte und elektronische Zigaretten (Tabakproduktegesetz, TabPG) vom 1. Oktober 2021[^27-2] folgende Gebühren:
 
 - a) Behandlung von Gesuchen um Bewilligung; nach Kosten — Fr. 150.– bis Fr. 1'000.–
 - b) Kontrollen mit Beanstandungen und Massnahmen; nach Kosten — max. Fr. 2'000.–
+- c) Tabaktestkäufe mit Beanstandungen; nach Kosten — max. Fr. 5'000.–
 
-<sup>3</sup> Das AVS erhebt für Kontrollen mit Beanstandungen im Bereich des Vollzugs der Verordnung über die Bekanntgabe von Preisen (Preisbekanntgabeverordnung, PBV) vom 11. Dezember 1978[^27-2] eine Gebühr nach Kosten von Fr. 50.– bis Fr. 3'000.–.
+<sup>3</sup> Das AVS erhebt für Kontrollen mit Beanstandungen im Bereich des Vollzugs der Verordnung über die Bekanntgabe von Preisen (Preisbekanntgabeverordnung, PBV) vom 11. Dezember 1978[^27-3] eine Gebühr nach Kosten von Fr. 50.– bis Fr. 3'000.–.
 
 <sup>4</sup> Das AVS erhebt im Bereich des Vollzugs der kantonalen Gastgewerbegesetzgebung folgende Gebühren:
 
@@ -719,11 +721,12 @@ beschliesst:
 - b) Festsetzung der Alkoholabgabe nach Ermessen infolge Nichtdeklarierung des Spirituosenumsatzes — Fr. 250.–
 - c) Abnahme der Wirtefachprüfung; pro Prüfungsfach der Haupt-, Nach- und Ergänzungsprüfung — Fr. 120.–.
 
-<sup>5</sup> Das AVS erhebt für Beanstandungen im Bereich des Vollzugs des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^27-3] eine Gebühr nach Kosten von maximal Fr. 2'000.–.
+<sup>5</sup> Das AVS erhebt für Beanstandungen im Bereich des Vollzugs des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^27-4] eine Gebühr nach Kosten von maximal Fr. 2'000.–.
 
 [^27-1]: SR [818.31](https://db.clex.ch/link/Bund/818.31/de)
-[^27-2]: SR [942.211](https://db.clex.ch/link/Bund/942.211/de)
-[^27-3]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
+[^27-2]: SR [818.32](https://db.clex.ch/link/Bund/818.32/de)
+[^27-3]: SR [942.211](https://db.clex.ch/link/Bund/942.211/de)
+[^27-4]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
 
 #### § 28
 
