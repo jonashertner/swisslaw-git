@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe 
 short: MedBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: de
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20250701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20250701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/de"
 
 (Medizinalberufegesetz, MedBG)
 
-vom 23. Juni 2006 (Stand am 1. Juli 2024)
+vom 23. Juni 2006 (Stand am 1. Juli 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 Absatz 1 und 117*a* Absatz 2 Buchstabe a der Bundes
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^ingress-3]: [BBl 2005 173](https://fedlex.data.admin.ch/eli/fga/2005/25)
 
@@ -407,7 +407,7 @@ Die für den akkreditierten Weiterbildungsgang verantwortliche Organisation erte
 
 <sup>2</sup> Weiterbildungsgänge, die zu einem eidgenössischen Weiterbildungstitel führen, müssen gemäss diesem Gesetz akkreditiert sein.
 
-[^23-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^23-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^23-2]: Fassung gemäss Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### 2. Abschnitt: Akkreditierungskriterien
@@ -428,7 +428,7 @@ Ein Studiengang, der zu einem eidgenössischen Diplom führen soll, wird akkredi
 <sup>3</sup> Der Bundesrat kann besondere Akkreditierungsvoraussetzungen zur Struktur der Studiengänge und zum Evaluationssystem für die Studierenden erlassen, wenn dies für die Vorbereitung zur eidgenössischen Prüfung unerlässlich ist. Er hört vorgängig den Hochschulrat an.
 
 [^24-1]: Fassung gemäss Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^24-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^24-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 25
 
@@ -508,7 +508,7 @@ Das Akkreditierungsorgan kann den Antrag der Expertenkommission:[^27-2]
 <sup>2</sup> Die Akkreditierung der Weiterbildungsgänge gilt höchstens sieben Jahre.
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^29-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^29-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 30
 
@@ -556,7 +556,7 @@ Die für die Weiterbildung verantwortlichen Organisationen müssen der Akkrediti
 <sup>2</sup> Die Akkreditierung der Weiterbildungsgänge wird durch Gebühren finanziert.
 
 [^32-1]: Aufgehoben durch Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^32-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^32-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^32-3]: Fassung gemäss Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### 4. Abschnitt: Liste anerkannter ausländischer Studiengänge
@@ -622,10 +622,10 @@ Der Arbeitgeber ist zuständig für die Prüfung, ob eine universitäre Medizina
 
 <sup>3</sup> …[^35-8]
 
-[^35-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^35-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^35-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^35-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^35-3]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^35-4]: [SR 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^35-4]: [SR 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 [^35-5]: Fassung gemäss Art. 8 Ziff. 1 des BG vom 14. Dez. 2012 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und-erbringern in reglementierten Berufen, in Kraft seit 1. Sept. 2013 ([AS 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [BBl 2012 4401](https://fedlex.data.admin.ch/eli/fga/2012/600)).
 [^35-6]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^35-7]: Satz eingefügt durch Art. 8 Ziff. 1 des BG vom 14. Dez. 2012 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und-erbringern in reglementierten Berufen, in Kraft seit 1. Sept. 2013 ([AS 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [BBl 2012 4401](https://fedlex.data.admin.ch/eli/fga/2012/600)).
@@ -674,7 +674,7 @@ Der Kanton kann vorsehen, dass die Bewilligung zur Berufsausübung in eigener fa
 
 <sup>1</sup> Die Bewilligung wird entzogen, wenn ihre Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, auf Grund derer sie hätte verweigert werden müssen.
 
-<sup>2</sup> Besitzt die Medizinalperson, der die Bewilligung entzogen wird, auch eine Bewil-ligung eines anderen Kantons, so informiert die zuständige Behörde die Aufsichts-behörde dieses Kantons.
+<sup>2</sup> Besitzt die Medizinalperson, der die Bewilligung entzogen wird, auch eine Bewilligung eines anderen Kantons, so informiert die zuständige Behörde die Aufsichtsbehörde dieses Kantons.
 
 [^38-1]: Fassung gemäss Anhang Ziff. 4 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
@@ -781,7 +781,7 @@ Bei Verletzung der Berufspflichten, der Vorschriften dieses Gesetzes oder von Au
 
 <sup>2</sup> Zuständig für die Akkreditierung von Weiterbildungsgängen, die zu einem eidgenössischen Weiterbildungstitel führen, ist das EDI.
 
-[^47-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^47-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^47-2]: Fassung gemäss Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 48
@@ -793,7 +793,7 @@ Bei Verletzung der Berufspflichten, der Vorschriften dieses Gesetzes oder von Au
 <sup>2</sup> Der Bundesrat bestimmt das Akkreditierungsorgan für die Prüfung von Akkreditierungsgesuchen der für einen Weiterbildungsgang verantwortlichen Institution. Er kann diese Aufgabe der Schweizerischen Agentur für Akkreditierung und Qualitätssicherung übertragen.
 
 [^48-1]: Fassung gemäss Anhang Ziff. II 6 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^48-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^48-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### 2. Abschnitt: Medizinalberufekommission
 
@@ -854,9 +854,9 @@ Die Medizinalberufekommission hat folgende Aufgaben und Kompetenzen:
 
 [^51-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^51-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^51-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^51-4]: Fassung gemäss Anhang 1 Ziff. II 71 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^51-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^51-6]: Eingefügt durch Ziff. I des BG vom 20. März 2015 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Aufgehoben durch Anhang Ziff. 23 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
@@ -963,7 +963,7 @@ Die für akkreditierte Weiterbildungsgänge verantwortlichen Organisationen erla
 
 <sup>2</sup> Auf Antrag der Gesuchstellerin oder des Gesuchstellers erlassen sie eine Verfügung über die Zulassung zu einem akkreditierten Weiterbildungsgang.[^55-2]
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^55-2]: Eingefügt durch Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 56
@@ -1005,6 +1005,14 @@ Der Bundesrat hat die Aufsicht über den Vollzug dieses Gesetzes.
 **Vollzug**
 
 Der Bundesrat erlässt die Ausführungsvorschriften.
+
+#### Art. 60a
+
+**Internationale Verträge**[^60a-1]
+
+Der Bundesrat kann im Anwendungsbereich dieses Gesetzes internationale Verträge über die Anerkennung von ausländischen Diplomen und Weiterbildungstiteln abschliessen.
+
+[^60a-1]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2024 über den Abschluss internationaler Verträge über die Anerkennung von Berufsqualifikationen, in Kraft seit 1. Juli 2025 ([AS 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [BBl 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 ### 2. Abschnitt: Aufhebung bisherigen Rechts
 

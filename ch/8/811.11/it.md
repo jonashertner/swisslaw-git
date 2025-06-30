@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sulle professioni mediche universitari
 short: LPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: it
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20250701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20250701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/it"
 
 (Legge sulle professioni mediche, LPMed)
 
-del 23 giugno 2006 (Stato 1° luglio 2024)
+del 23 giugno 2006 (Stato 1° luglio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 95 capoverso 1 e 117*a* capoverso 2 lettera a della Costituzi
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^ingress-3]: [FF 2005 145](https://fedlex.data.admin.ch/eli/fga/2005/25)
 
 ## Capitolo 1: Oggetto e campo d’applicazione
@@ -47,10 +47,10 @@ A tale scopo, la presente legge definisce:
 - b. le condizioni per l’ottenimento di un diploma federale e di un titolo federale di perfezionamento per le professioni mediche universitarie;
 - c. l’accreditamento periodico dei cicli di studio e di perfezionamento;
 - d. le condizioni per il riconoscimento di diplomi e titoli di perfezionamento esteri;
-- e.[^1-1] le norme relative all’esercizio delle professioni mediche universitarie ...[^1-2] sotto la propria responsabilità professionale;
+- e.[^1-1] le norme relative all’esercizio delle professioni mediche universitarie …[^1-2] sotto la propria responsabilità professionale;
 - f. le condizioni che il registro dei titolari di diplomi e di titoli di perfezionamento (registro) deve adempiere.
 
-[^1-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^1-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^1-2]: Espr. stralciata dall’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2
@@ -74,7 +74,7 @@ Il Consiglio federale può definire altre professioni del settore sanitario qual
 - a. tali professioni richiedano una formazione scientifica e una competenza professionale analoghe a quelle richieste per le professioni mediche universitarie di cui al capoverso 1; e
 - b. sia necessario per garantire la qualità dell’assistenza medica.
 
-[^2-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^2-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 2: Principi e obiettivi della formazione, del perfezionamento e dell’aggiornamento
 
@@ -108,7 +108,7 @@ La formazione e il perfezionamento abilitano in particolare a:
 - f. tener conto delle competenze di altre professioni sanitarie riconosciute;
 - g. far fronte alla concorrenza internazionale.
 
-[^4-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^4-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 5
 
@@ -122,7 +122,7 @@ La formazione e il perfezionamento abilitano in particolare a:
 
 <sup>4</sup> I diplomi e titoli di perfezionamento federali sono firmati da un rappresentante della Confederazione e da un rappresentante della scuola universitaria o dell’organizzazione responsabile del perfezionamento.
 
-[^5-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^5-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 3: Formazione universitaria
 
@@ -160,8 +160,8 @@ I cicli di studio favoriscono lo sviluppo delle competenze sociali e della perso
 - b. cogliere la dimensione etica della loro attività professionale e assumere le proprie responsabilità nei confronti dell’individuo, della società e dell’ambiente;
 - c.[^7-2] rispettare, nell’ambito delle cure, il diritto di autodeterminazione dei pazienti.
 
-[^7-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^7-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^7-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^7-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ### Sezione 2: Obiettivi specifici della formazione
 
@@ -183,9 +183,9 @@ Chi ha concluso gli studi di medicina umana, di odontoiatria o di chiropratica d
 - j.[^8-2] avere adeguate conoscenze su metodi e approcci terapeutici della medicina complementare;
 - k.[^8-3] avere dimestichezza con i compiti dei diversi professionisti della salute nelle cure mediche di base e conoscere l’importanza centrale e la funzione della medicina di famiglia.
 
-[^8-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^8-2]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^8-3]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^8-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^8-2]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^8-3]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 9
 
@@ -204,11 +204,11 @@ Chi ha concluso gli studi di farmacia deve:
 - i.[^9-4] conoscere e capire segnatamente i principi e i fondamenti professionali relativi alla preparazione, alla dispensazione, allo smercio, alla documentazione e all’eliminazione di medicamenti della medicina complementare, nonché le corrispondenti prescrizioni legali;
 - j.[^9-5] avere conoscenze di base adeguate concernenti la diagnosi e la cura delle turbe della salute e delle malattie frequenti.
 
-[^9-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^9-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^9-3]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^9-4]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^9-5]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^9-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^9-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^9-3]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^9-4]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^9-5]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833);[FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 10
 
@@ -226,7 +226,7 @@ Chi ha concluso gli studi di veterinaria deve:
 - h. rispettare la dignità della creatura, conoscere i rapporti di tensione fra le diverse esigenze dell’animale, dell’essere umano, della società e dell’ambiente ed essere disposto e in grado di applicare il proprio sapere con responsabilità;
 - i.[^10-1] avere adeguate conoscenze su metodi e approcci terapeutici della medicina complementare.
 
-[^10-1]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^10-1]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 11
 
@@ -256,9 +256,9 @@ Le condizioni d’ammissione all’esame federale sono le seguenti:
 
 <sup>3</sup> Dopo aver consultato la Commissione delle professioni mediche e il Consiglio delle scuole universitarie, il Consiglio federale determina il numero di punti di credito formativo di cui al capoverso 2 lettera a.[^12-3]
 
-[^12-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^12-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^12-2]: Nuova espr. giusta l’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^12-3]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^12-3]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 13
 
@@ -270,7 +270,7 @@ Dopo aver consultato la Commissione delle professioni mediche e le scuole univer
 - b. la procedura d’esame;
 - c. le tasse d’esame e le indennità versate agli esperti.
 
-[^13-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^13-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 13a
 
@@ -278,7 +278,7 @@ Dopo aver consultato la Commissione delle professioni mediche e le scuole univer
 
 Dopo aver consultato la Commissione delle professioni mediche, il Consiglio federale nomina le commissioni d’esame cui compete lo svolgimento degli esami e conferisce loro i mandati necessari.
 
-[^13a-1]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^13a-1]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 14
 
@@ -305,7 +305,7 @@ L’esame federale deve consentire di verificare se gli studenti:
 
 <sup>4</sup> Qualora non riconosca il diploma estero, la Commissione delle professioni mediche stabilisce le condizioni per l’ottenimento del diploma federale.
 
-[^15-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^15-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 16
 
@@ -339,9 +339,9 @@ Il perfezionamento deve conferire in particolare la capacità di:
 
 <sup>3</sup> I medici attivi nel campo della medicina umana che dispensano cure mediche di base devono acquisire le loro conoscenze, attitudini e capacità specifiche al settore della medicina di famiglia durante il perfezionamento in tale settore, in parte sotto forma di assistenza in uno studio medico.[^17-3]
 
-[^17-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^17-2]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^17-3]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^17-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^17-2]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^17-3]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833);[FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 18
 
@@ -381,10 +381,10 @@ L’organizzazione responsabile di un ciclo di perfezionamento accreditato rilas
 
 <sup>3</sup> Il riconoscimento dei titoli di perfezionamento esteri è di competenza della Commissione delle professioni mediche.
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> …[^21-2]
 
-[^21-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^21-2]: Abrogato dal n. I della L del 20 mar. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^21-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^21-2]: Abrogato dalla cifra I della L del 20 mar. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 5: Accreditamento di cicli di formazione e di perfezionamento e riconoscimento di cicli di studio esteri
 
@@ -406,8 +406,8 @@ L’organizzazione responsabile di un ciclo di perfezionamento accreditato rilas
 
 <sup>2</sup> I cicli di perfezionamento finalizzati all’ottenimento di un titolo federale di perfezionamento devono essere accreditati conformemente alla presente legge.
 
-[^23-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^23-2]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^23-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^23-2]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### Sezione 2: Criteri di accreditamento
 
@@ -426,8 +426,8 @@ Un ciclo di studio finalizzato all’ottenimento di un diploma federale è accre
 
 <sup>3</sup> Il Consiglio federale può stabilire criteri di accreditamento speciali concernenti l’impostazione dei cicli di studio e il sistema di valutazione degli studenti, se ciò è indispensabile per la preparazione all’esame federale. Sente dapprima il Consiglio delle scuole universitarie.
 
-[^24-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^24-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^24-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^24-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 25
 
@@ -456,7 +456,7 @@ Un ciclo di perfezionamento finalizzato all’ottenimento di un titolo federale 
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^chap5-sec3-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 26
 
@@ -466,7 +466,7 @@ Un ciclo di perfezionamento finalizzato all’ottenimento di un titolo federale 
 
 <sup>2</sup> La domanda dev’essere corredata di un rapporto atto a dimostrare che i criteri di accreditamento sono soddisfatti.
 
-[^26-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^26-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 27
 
@@ -487,8 +487,8 @@ L’organo di accreditamento può:[^27-2]
 - a. rinviare la proposta di accreditamento alla commissione peritale per ulteriore elaborazione;
 - b. trattare esso stesso la proposta della commissione peritale e, all’occorrenza, trasmetterla per decisione all’istanza di accreditamento con una proposta e un rapporto supplementari.
 
-[^27-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^27-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^27-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^27-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 28
 
@@ -506,8 +506,8 @@ L’organo di accreditamento può:[^27-2]
 
 <sup>2</sup> L’accreditamento dei cicli di perfezionamento è valido per sette anni al massimo.
 
-[^29-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^29-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^29-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^29-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 30
 
@@ -519,7 +519,7 @@ L’organo di accreditamento può:[^27-2]
 
 <sup>3</sup> Se gli oneri non sono adempiuti e l’inadempienza pregiudica gravemente il rispetto dei criteri di accreditamento, l’istanza di accreditamento può revocare l’accreditamento su proposta dell’organo di accreditamento.
 
-[^30-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^30-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 31
 
@@ -529,8 +529,8 @@ L’organo di accreditamento può:[^27-2]
 
 <sup>2</sup> Se la modifica è contraria ai criteri di accreditamento, l’istanza di accreditamento può imporre oneri.
 
-[^31-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^31-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^31-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^31-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 31a
 
@@ -538,25 +538,25 @@ L’organo di accreditamento può:[^27-2]
 
 Su richiesta, le organizzazioni responsabili del perfezionamento forniscono gratuitamente all’istanza di accreditamento tutte le informazioni, i rapporti e i documenti di cui necessita per svolgere i compiti di vigilanza.
 
-[^31a-1]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^31a-1]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ### Sezione 3*a*: Finanziamento dell’accreditamento
 
 [^chap5-sec3a-1]
 
-[^chap5-sec3a-1]: Introdotto dall’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^chap5-sec3a-1]: Introdotto dall’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 32
 
-**...[^32-1]**
+**…[^32-1]**
 
 <sup>1</sup> Le spese di accreditamento dei cicli di studio sono finanziate conformemente all’articolo 35 LPSU[^32-2].[^32-3]
 
 <sup>2</sup> L’accreditamento dei cicli di perfezionamento è finanziato mediante emolumenti.
 
-[^32-1]: Abrogata dall’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^32-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^32-3]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^32-1]: Abrogata dall’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^32-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^32-3]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### Sezione 4: Elenco dei cicli di studio esteri riconosciuti
 
@@ -583,7 +583,7 @@ Chi esercita una professione medica universitaria deve:
 
 <sup>2</sup>
 
-Chi desidera esercitare una professione medica universitaria ...[^33a-2] sotto vigilanza professionale e non è titolare di un diploma federale o di un diploma estero riconosciuto secondo la presente legge deve:
+Chi desidera esercitare una professione medica universitaria …[^33a-2] sotto vigilanza professionale e non è titolare di un diploma federale o di un diploma estero riconosciuto secondo la presente legge deve:
 
 - a. essere titolare di un diploma che lo autorizza a esercitare, nello Stato che ha rilasciato tale diploma, una professione medica universitaria sotto vigilanza professionale ai sensi della presente legge;
 - b. richiedere alla Commissione delle professioni mediche l’iscrizione nel registro.
@@ -597,7 +597,7 @@ Il datore di lavoro è incaricato di verificare che la persona che esercita una 
 
 <sup>4</sup> Il Consiglio federale disciplina i particolari relativi alle conoscenze linguistiche e alla loro attestazione e verifica. Può stabilire eccezioni alle esigenze relative alle conoscenze linguistiche nonché prevedere che la registrazione può aver luogo soltanto se il diploma di cui al capoverso 2 lettera a è stato ottenuto dopo una formazione che soddisfa determinate esigenze minime da esso stabilite.
 
-[^33a-1]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^33a-1]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^33a-2]: Espr. stralciata dall’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 34
@@ -606,9 +606,9 @@ Il datore di lavoro è incaricato di verificare che la persona che esercita una 
 
 <sup>1</sup> L’esercizio di una professione medica universitaria sotto la propria responsabilità professionale è subordinato all’ottenimento di un’autorizzazione del Cantone sul cui territorio è esercitata.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
-[^34-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^34-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^34-2]: Abrogato dall’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, con effetto dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
 #### Art. 35
@@ -619,14 +619,14 @@ Il datore di lavoro è incaricato di verificare che la persona che esercita una 
 
 <sup>2</sup> I titolari di un’autorizzazione cantonale possono esercitare in un altro Cantone la propria professione medica, e sotto la propria responsabilità professionale, durante un periodo non superiore a 90 giorni per anno civile, senza essere tenuti a chiedere un’autorizzazione di tale Cantone.[^35-6] Le restrizioni e gli oneri legati alla loro autorizzazione si applicano pure a tale attività. Queste persone devono annunciarsi presso l’autorità cantonale competente. Quest’ultima iscrive l’annuncio nel registro.[^35-7]
 
-<sup>3</sup> ...[^35-8]
+<sup>3</sup> …[^35-8]
 
-[^35-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^35-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^35-3]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^35-4]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^35-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^35-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^35-3]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^35-4]: [RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 [^35-5]: Nuovo testo giusta l’art. 8 n. 1 della LF del 14 dic. 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate, in vigore dal 1° set. 2013 ([RU 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [FF 2012 3915](https://fedlex.data.admin.ch/eli/fga/2012/600)).
-[^35-6]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^35-6]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^35-7]: Per. introdotto dall’art. 8 n. 1 della LF del 14 dic. 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate, in vigore dal 1° set. 2013 ([RU 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [FF 2012 3915](https://fedlex.data.admin.ch/eli/fga/2012/600)).
 [^35-8]: Abrogato dall’art. 8 n. 1 della LF del 14 dic. 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate, con effeto dal 1° set. 2013 ([RU 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [FF 2012 3915](https://fedlex.data.admin.ch/eli/fga/2012/600)).
 
@@ -653,12 +653,12 @@ Dopo aver consultato la Commissione delle professioni mediche, il Consiglio fede
 
 <sup>4</sup> Chi dispone dell’autorizzazione a esercitare la professione secondo la presente legge adempie in linea di massima le condizioni per il rilascio dell’autorizzazione in un altro Cantone.[^36-6]
 
-[^36-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^36-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^36-3]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^36-4]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^36-5]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^36-6]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-3]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-4]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-5]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^36-6]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 37
 
@@ -700,7 +700,7 @@ Chi esercita una professione medica universitaria sotto la propria responsabilit
 - h.[^40-3] concludere un’assicurazione di responsabilità civile professionale commisurata al genere e all’entità dei rischi connessi alla propria attività oppure dimostrare di aver concluso una simile assicurazione, a meno che l’esercizio dell’attività non sia disciplinato dal diritto in materia di responsabilità dello Stato.
 
 [^40-1]: Nuovo testo giusta l’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^40-2]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^40-2]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^40-3]: Nuovo testo giusta l’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
 #### Art. 41
@@ -711,7 +711,7 @@ Chi esercita una professione medica universitaria sotto la propria responsabilit
 
 <sup>2</sup> Tale autorità di vigilanza prende le misure necessarie a fare osservare gli obblighi professionali. Può delegare determinati compiti di vigilanza alle associazioni professionali cantonali competenti.
 
-[^41-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^41-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 42
 
@@ -781,8 +781,8 @@ In caso di violazione degli obblighi professionali, delle prescrizioni della pre
 
 <sup>2</sup> L’istanza competente per l’accreditamento di cicli di perfezionamento finalizzati all’ottenimento di un titolo federale di perfezionamento è il DFI.
 
-[^47-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^47-2]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^47-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^47-2]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 48
 
@@ -792,8 +792,8 @@ In caso di violazione degli obblighi professionali, delle prescrizioni della pre
 
 <sup>2</sup> Il Consiglio federale designa l’organo incaricato di esaminare le domande di accreditamento presentate dall’istituto responsabile di un ciclo di perfezionamento. Può delegare tale compito all’Agenzia svizzera di accreditamento e garanzia della qualità.
 
-[^48-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^48-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^48-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^48-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### Sezione 2: Commissione delle professioni mediche
 
@@ -828,11 +828,11 @@ La Commissione delle professioni mediche ha le seguenti attribuzioni e competenz
 
 <sup>2</sup> La Commissione delle professioni mediche può trattare o far trattare dati personali per quanto necessario all’adempimento dei suoi compiti.[^50-5]
 
-[^50-1]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^50-2]: Nuovo testo giusta l’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^50-3]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^50-4]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^50-5]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^50-1]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^50-2]: Nuovo testo giusta l’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^50-3]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^50-4]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^50-5]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ### Sezione 3: Registro
 
@@ -848,16 +848,16 @@ La Commissione delle professioni mediche ha le seguenti attribuzioni e competenz
 
 <sup>4</sup> Il registro deve inoltre contenere in particolare le informazioni di cui i Cantoni e gli organi federali abbisognano per l’esecuzione della legge federale del 18 marzo 1994[^51-5] sull’assicurazione malattie.
 
-<sup>4bis</sup> ...[^51-6]
+<sup>4bis</sup> …[^51-6]
 
 <sup>5</sup> Il Consiglio federale emana disposizioni dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
-[^51-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^51-2]: Nuovo testo del per. giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^51-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^51-4]: Nuovo testo giusta l’all. 1 n. II 71 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^51-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^51-6]: Introdotto dal n. I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogato dall’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^51-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^51-2]: Nuovo testo del per. giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^51-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^51-4]: Nuovo testo giusta l’all. 1 cifra II n. 71 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^51-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^51-6]: Introdotto dalla cifra I della L del 20 mar. 2015 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogato dall’all. n. 23 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
 
@@ -872,7 +872,7 @@ Le autorità cantonali competenti notificano senza indugio al DFI:
 
 <sup>2</sup> Le organizzazioni responsabili di un ciclo di perfezionamento notificano ogni rilascio di titoli federali di perfezionamento.
 
-[^52-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^52-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 53
 
@@ -905,7 +905,7 @@ Le autorità cantonali competenti notificano senza indugio al DFI:
 
 <sup>5</sup> Tutte le iscrizioni relative a una persona sono eliminate dal registro non appena un’autorità ne annuncia il decesso. I dati, anonimizzati, possono in seguito essere utilizzati a fini statistici.
 
-[^54-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^54-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 7*a*: Aiuti finanziari
 
@@ -963,8 +963,8 @@ Le organizzazioni responsabili di cicli di perfezionamento accreditati emettono 
 
 <sup>2</sup> Su domanda del richiedente, emanano una decisione formale sull’ammissione a un ciclo di perfezionamento accreditato.[^55-2]
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^55-2]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^55-2]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 56
 
@@ -976,7 +976,7 @@ Per garantire la segretezza delle domande degli esami medici, può essere rifiut
 
 [^57-1]
 
-[^57-1]: Abrogato dall’all. n. II 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^57-1]: Abrogato dall’all. cifra II n. 6 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### Sezione 2: Disposizioni penali
 
@@ -990,7 +990,7 @@ Chiunque:
 - b. utilizza una denominazione che induce a credere erroneamente che egli abbia concluso una formazione o un ciclo di perfezionamento di cui alla presente legge;
 - c.[^58-1] impiega un operatore sanitario che esercita una professione medica senza essere iscritto nel registro,
 
-[^58-1]: Introdotta dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^58-1]: Introdotta dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -1007,6 +1007,14 @@ Al Consiglio federale compete la vigilanza sull’esecuzione della presente legg
 **Esecuzione**
 
 Il Consiglio federale emana le prescrizioni esecutive.
+
+#### Art. 60a
+
+**Trattati internazionali**[^60a-1]
+
+Nel campo d’applicazione della presente legge il Consiglio federale può concludere trattati internazionali sul riconoscimento di diplomi e titoli di perfezionamento esteri.
+
+[^60a-1]: Introdotto dalla cifra I n. 1 della LF del 27 set. 2024 concernente la conclusione di trattati internazionali sul riconoscimento delle qualifiche professionali, in vigore dal 1° lug. 2025 ([RU 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
 
 ### Sezione 2: Diritto previgente, abrogazione
 
@@ -1060,8 +1068,8 @@ La legge federale del 19 dicembre 1877[^61-1] sulla libera circolazione del pers
 
 <sup>2</sup> Il Consiglio federale disciplina i particolari.
 
-[^65-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^65-2]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^65-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^65-2]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 66
 
@@ -1071,7 +1079,7 @@ La legge federale del 19 dicembre 1877[^61-1] sulla libera circolazione del pers
 
 <sup>2</sup> Qualora faccia uso della competenza attribuitagli nell’articolo 2 capoverso 2, il Consiglio federale disciplinerà anche lo statuto delle persone che hanno già esercitato la professione che entra a far parte delle professioni sottoposte alla presente legge.
 
-[^66-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^66-1]: Nuovo testo giusta la cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 67
 
@@ -1091,7 +1099,7 @@ La legge federale del 19 dicembre 1877[^61-1] sulla libera circolazione del pers
 
 <sup>3</sup> Le persone che all’entrata in vigore della presente modifica esercitano una professione medica universitaria devono chiedere di fare iscrivere nel registro le loro conoscenze linguistiche entro due anni dall’entrata in vigore della presente modifica.
 
-[^67a-1]: Introdotto dal n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^67a-1]: Introdotto dalla cifra I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 67b
 

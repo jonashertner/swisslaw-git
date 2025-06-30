@@ -4,22 +4,22 @@ title: "Loi fédérale du 23 juin 2006 sur les professions médicales universita
 short: LPMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: fr
-version: 2024-07-01
+version: 2025-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20250701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20250701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les professions médicales universitaires<sup></sup>
+# Loi fédérale sur les professions médicales universitaires\*
 
 (Loi sur les professions médicales, LPMéd)[^t-1]
 
-du 23 juin 2006 (État le 1<sup>er</sup> juillet 2024)
+du 23 juin 2006 (État le 1<sup>er</sup> juillet 2025)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 95, al. 1, et 117*a*, al. 2, let. a, de la Constitution[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^ingress-3]: [FF 2005 157](https://fedlex.data.admin.ch/eli/fga/2005/25)
 
@@ -49,7 +49,7 @@ Dans ce but, elle:
 - b. fixe les conditions d’obtention des diplômes fédéraux et des titres postgrades fédéraux pour les professions médicales universitaires;
 - c. prescrit l’accréditation périodique des filières d’études et des filières de formation postgrade;
 - d. fixe les conditions de reconnaissance de diplômes et de titres postgrades étrangers;
-- e.[^1-1] établit les règles régissant l’exercice des professions médicales universitaires ...[^1-2] sous propre responsabilité professionnelle;
+- e.[^1-1] établit les règles régissant l’exercice des professions médicales universitaires …[^1-2] sous propre responsabilité professionnelle;
 - f. fixe les exigences auxquelles doit répondre le registre des titulaires de diplômes et de titres postgrades (registre).
 
 [^1-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
@@ -384,7 +384,7 @@ L’organisation responsable de la filière de formation postgrade accréditée 
 
 <sup>3</sup> La reconnaissance de titres postgrades étrangers relève de la compétence de la Commission des professions médicales.
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> …[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^21-2]: Abrogé par le ch. I de la LF du 20 mars 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
@@ -409,7 +409,7 @@ L’organisation responsable de la filière de formation postgrade accréditée 
 
 <sup>2</sup> Les filières de formation postgrade menant à l’obtention d’un titre fédéral doivent être accréditées conformément à la présente loi.
 
-[^23-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^23-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^23-2]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### Section 2 Critères d’accréditation
@@ -430,7 +430,7 @@ Une filière d’études menant à l’obtention d’un diplôme fédéral est a
 <sup>3</sup> Le Conseil fédéral peut édicter des critères d’accréditation spéciaux concernant la structure des filières d’études et le système d’évaluation des étudiants, si cette mesure est indispensable à la préparation à l’examen fédéral. Il consulte préalablement le Conseil des hautes écoles.
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^24-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^24-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 25
 
@@ -510,7 +510,7 @@ L’organe d’accréditation peut:[^27-2]
 <sup>2</sup> La durée de validité de l’accréditation des filières de formation postgrade est de sept ans au plus.
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^29-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^29-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 30
 
@@ -551,14 +551,14 @@ Les organisations responsables de la formation postgrade sont tenues de fournir 
 
 #### Art. 32
 
-**...[^32-1]**
+**…[^32-1]**
 
 <sup>1</sup> L’accréditation des filières d’études est financée conformément à l’art. 35 LEHE[^32-2].[^32-3]
 
 <sup>2</sup> L’accréditation des filières de formation postgrade est financée par des émoluments.
 
 [^32-1]: Abrogé par l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^32-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^32-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^32-3]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 ### Section 4 Liste des filières d’études étrangères reconnues
@@ -586,7 +586,7 @@ Toute personne exerçant une profession médicale universitaire doit:
 
 <sup>2</sup>
 
-Toute personne désirant exercer une profession médicale universitaire ...[^33a-2] sous surveillance professionnelle et qui ne possède ni un diplôme fédéral ni un diplôme étranger reconnu au sens de de la présente loi, doit:
+Toute personne désirant exercer une profession médicale universitaire …[^33a-2] sous surveillance professionnelle et qui ne possède ni un diplôme fédéral ni un diplôme étranger reconnu au sens de de la présente loi, doit:
 
 - a. être titulaire d’un diplôme qui autorise, dans le pays où il a été délivré, à exercer une profession médicale universitaire sous surveillance professionnelle au sens de la présente loi;
 - b. soumettre une demande auprès de la Commission des professions médicales pour être inscrite au registre.
@@ -609,7 +609,7 @@ L’employeur d’une personne exerçant une profession médicale universitaire 
 
 <sup>1</sup> L’exercice d’une profession médicale universitaire sous propre responsabilité professionnelle requiert une autorisation du canton sur le territoire duquel la profession médicale est exercée.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^34-2]: Abrogé par l’annexe ch. 4 de la LF du 30 sept. 2016 sur les professions de la santé, avec effet au 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
@@ -622,12 +622,12 @@ L’employeur d’une personne exerçant une profession médicale universitaire 
 
 <sup>2</sup> Les titulaires d’une autorisation cantonale ont le droit d’exercer leur profession médicale sous leur propre responsabilité professionnelle dans un autre canton, pendant 90 jours au plus par année civile, sans devoir requérir une autorisation de ce canton.[^35-6] Ces personnes doivent s’annoncer auprès de l’autorité cantonale compétente. Celle-ci inscrit l’annonce au registre.[^35-7]
 
-<sup>3</sup> ...[^35-8]
+<sup>3</sup> …[^35-8]
 
-[^35-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^35-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^35-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^35-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^35-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^35-4]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^35-4]: [RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 [^35-5]: Nouvelle teneur selon l’art. 8 ch. 1 de la LF du 14 déc. 2012 portant sur l’obligation des prestataires de services de déclarer leurs qualifications professionnelles dans le cadre des professions réglementées et sur la vérification de ces qualifications, en vigueur depuis le 1<sup>er</sup> sept. 2013 ([RO 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [FF 2012 4103](https://fedlex.data.admin.ch/eli/fga/2012/600)).
 [^35-6]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^35-7]: Phrase introduite par l’art. 8 ch. 1 de la LF du 14 déc. 2012 portant sur l’obligation des prestataires de services de déclarer leurs qualifications professionnelles dans le cadre des professions réglementées et sur la vérification de ces qualifications, en vigueur depuis le 1<sup>er</sup> sept. 2013 ([RO 2013 2417](https://fedlex.data.admin.ch/eli/oc/2013/509); [FF 2012 4103](https://fedlex.data.admin.ch/eli/fga/2012/600)).
@@ -785,7 +785,7 @@ En cas de violation des devoirs professionnels, des dispositions de la présente
 
 <sup>2</sup> L’accréditation des filières de formation postgrade menant à l’obtention d’un titre postgrade fédéral relève de la compétence du DFI.
 
-[^47-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^47-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^47-2]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 48
@@ -797,7 +797,7 @@ En cas de violation des devoirs professionnels, des dispositions de la présente
 <sup>2</sup> Le Conseil fédéral désigne l’organe chargé d’examiner les demandes d’accréditation déposées par des organisations responsables de filières de formation postgrade. Il peut confier cette tâche à l’Agence suisse d’accréditation et d’assurance de la qualité.
 
 [^48-1]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691);[FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^48-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^48-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### Section 2 Commission des professions médicales
 
@@ -858,9 +858,9 @@ La Commission des professions médicales a les tâches et les compétences suiva
 
 [^51-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 [^51-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
-[^51-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^51-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^51-4]: Nouvelle teneur selon l’annexe 1 ch. II 71 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^51-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^51-6]: Introduit par le ch. I de la LF du 20 mars 2015 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)). Abrogé par l’annexe ch. 23 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 52
@@ -968,7 +968,7 @@ Les organisations responsables des filières de formation postgrade accréditée
 
 <sup>2</sup> Sur demande du requérant, elles prennent une décision concernant l’admission dans une filière de formation postgrade accréditée.[^55-2]
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^55-2]: Introduit par le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 #### Art. 56
@@ -1011,13 +1011,21 @@ Le Conseil fédéral surveille l’exécution de la présente loi.
 
 Le Conseil fédéral édicte les dispositions d’exécution.
 
+#### Art. 60a
+
+**Traités internationaux**[^60a-1]
+
+Le Conseil fédéral peut, dans le champ d’application de la présente loi, conclure des traités internationaux en matière de reconnaissance de diplômes et de titres postgrades étrangers.
+
+[^60a-1]: Introduit par le ch. I 1 de la LF du 27 sept. 2024 sur la conclusion de traités internationaux en matière de reconnaissance des qualifications professionnelles, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 477](https://fedlex.data.admin.ch/eli/oc/2025/477); [FF 2024 460](https://fedlex.data.admin.ch/eli/fga/2024/460)).
+
 ### Section 2 Abrogation du droit en vigueur
 
 #### Art. 61
 
 La loi fédérale du 19 décembre 1877 concernant l’exercice des professions de médecin, de pharmacien et de vétérinaire dans la Confédération suisse[^61-1] est abrogée.
 
-[^61-1]: [RS **4** 303; [RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. III 1, [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 88]
+[^61-1]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)303; [RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. III 1, [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 88]
 
 ### Section 3 Dispositions transitoires
 
